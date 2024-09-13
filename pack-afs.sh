@@ -43,7 +43,7 @@ repack_mac_afs () {
 		repack_scene `basename $i .txt` #& WAITPIDS="$! "$WAITPIDS
 	done
 	for i in text/tmp/mac-jp-psp/USER*.txt ; do
-		[ `basename $i` = "USER08.txt" ] && continue
+		[ -e text/tmp/mac-${TL_SUFFIX}-combined-psp/$(basename $i) ] && continue
 		echo Patching $i
 		f=`basename $i .txt`
 		$PY ./py-src/patch_speaker.py $i text/tmp/mac-jp-${TL_SUFFIX}-names-psp/$f.txt

@@ -49,7 +49,7 @@ For further details, read the content of shell scripts (and other source files).
 
 The following tools should be available in your PATH:
 
-`7z mkisofs gcc python3`
+`7z mkisofs gcc python3 xdelta3`
 
 - `mkisofs` is a part of `cdrtools` package - google it.
 
