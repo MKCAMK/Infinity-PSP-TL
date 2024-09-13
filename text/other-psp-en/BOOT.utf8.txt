@@ -305,7 +305,7 @@ Time %XS16
 ;11dd84;155;プログレッシブ出力でよろしいでしょうか？%N〔１５秒以内に”はい”を選択しない場合は%N自動的に通常モニタ出力に切り替わります。〕%N%Sはい%n⑳／⑳%n%Sいいえ
 
 ;11de20;107;この物語はフィクションであり、%N登場する人物・団体・地名・事件等は、%N実在のものとは一切関係がありません
-This story is a work of fiction.%NAll names and history mentioned here%Nare in no way related to real ones
+This story is a work of fiction.%NNames, places and incidents mentioned%Nare in no way related to reality.
 
 ;11de8c;67;電源をオフにしてゲームを終了しますか？%N%Sはい%n⑳／⑳%n%Sいいえ
 Turn off the power and exit the game?%N%SYes%n  /  %n%SNo
@@ -357,7 +357,7 @@ Save data for%%N『Never7 -the end of infinity-』%%Nmay be corrupted%%N
 ;11e270;55;同時に開けるファイル数を%%N越えているので開けません%%N
 
 ;11e2a8;27;再書き込みが失敗しました%%N
-Rewrite failed
+Rewrite failed%%N
 
 ;11e2c4;87;『Never7 -the end of infinity-』の%%Nシステムデータが破損している可能性があります%%N
 System data for%%N『Never7 -the end of infinity-』%%Nmay be corrupted%%N
@@ -652,16 +652,19 @@ Scene title
 Route
 
 ;11f8f0;7;場所
+Place
 
 ;11f8f8;7;ＢＧＭ
 BGM
 
 ;11f900;7;月齢
+Month
 
 ;11f908;7;日付
+Day
 
 ;11f910;7;作成日
-Date
+Creation
 
 ;11f918;11;プレイ時間
 Play time
