@@ -3,7 +3,11 @@ Release Notes
 
 ## Version 0.3
 
-- to be filled
+- Fix CG, Movie, and TIPS menus being inaccessible
+- Fix some game-breaking bugs (you can actually complete the whole game now)
+- Fix misplaced text in some scenes
+- Translate more menu items
+- Translate Okuhiko Cure
 
 ## Version 0.2
 
@@ -12,4 +16,4 @@ Release Notes
 
 ## Version 0.1
 
-- to be filled
+- Initial translation port
