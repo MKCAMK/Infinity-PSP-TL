@@ -1196,6 +1196,7 @@ Select the info displayed in the game.
 ;123bb0;7;⑳・
 
 ;123bb8;7;なし
+None
 
 ## Unbreakable symbols. Without patch, expects ",#.#a#b#c#" for ascii (2 bytes, trailing #).
 ## With ascii patch will compare every byte as is.
