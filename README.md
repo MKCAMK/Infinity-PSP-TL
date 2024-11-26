@@ -15,16 +15,14 @@ Credits for English translation go to [TLWiki team](https://web.archive.org/web/
 Current status
 -----------
 
-Scenes: Translated, but text overflows the text box in a few places. (Move the text box up a bit in game settings)
-<br>
-Shortcuts (init.bin): Translated.
-<br>
-TIPS (init.bin): Translated.
-<br>
-Names (init.bin): Translated.
-<br>
-Menus (BOOT.BIN): Translated. HOME menu - Translated.
-<br>
+Scenes: Translated, but text overflows the text box in a few places. (Move the text box up a bit in game settings)  
+Append Scenarios: Yuka Cure and Okuhiko Cure are translated. Everything else has the original text, but English names.  
+Shortcuts (init.bin): Names are translated. Descriptions are not translated.   
+TIPS (init.bin): Fully translated.  
+Names (init.bin): Fully translated.  
+Menus (BOOT.BIN): Fully translated.  
+HOME menu (BOOT.BIN): Fully translated.  
+Settings (BOOT.BIN): Mostly translated. Help messages are not translated.  
 Font (FONT00.FOP): Tweaked for English text, reduced spacing. EN glyphs are brightened and sharpened.
 
 
