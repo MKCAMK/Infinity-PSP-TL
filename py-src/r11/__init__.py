@@ -66,8 +66,6 @@ def clean_en_translation_line(line: str) -> str:
   # line = re.sub("\u014d", "o", line) # ō no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
   line = re.sub("\u00e9", "e", line) # é (utf8:c3a9) in fiancé; SA5_07, TIP_102
   line = re.sub("na\u00efve", "naive", line) # "naïve": no umlaut for i
-  line = re.sub(r"''I''", "%CFF8FI%CFFFF", line) # colored text (yellow) to signify "ore", as deviated from Kokoro's normal "watashi".
-  line = re.sub(r"'I'", "%C8CFFI%CFFFF", line) # colored text (blue) to signify "watashi", as deviated from Satoru's normal "ore".
   if "''" in line:
     exit("unmatched ''")
   # line = re.sub("\u2473", "\u2473", line) # ⑳ ('CIRCLED NUMBER TWENTY' (U+2473)). No need to replace, rendered as a wide space. (glyph #1147)

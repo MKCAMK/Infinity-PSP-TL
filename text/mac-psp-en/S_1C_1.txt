@@ -1,0 +1,1605 @@
+text area offset and size:
+0x2B88
+0x62E0
+0x80
+空と話し込んでいるうちに、約束の時刻が過ぎてしまった。%K%P
+As I was so involved in my chat with Sora, I had missed the appointed meeting time.%K%P
+0x8C
+ぼくは制御室を出て、待ち合わせ場所――警備室の前へと向かった。%K%P
+I left the control room and headed toward the meeting point―in front of the security office.%K%P
+0x98
+ところが……。%K%P
+But...%K%P
+0xAC
+警備室の前に、武はいなかった。%K%P
+Takeshi was nowhere to be seen.%K%P
+0xB8
+少年「おーい！　武ーっ！」%K%P
+Kid「Hey! Takeshi!」%K%P
+0xC4
+呼んでみるが、返事は戻って来ない。%K%P
+I called out to him, but there was no answer.%K%P
+0xD0
+ふと、警備室の方を見ると、扉が開けっ放しになっているのがわかった。%K%P
+Glancing at the door of the security office, I saw that it was open.%K%P
+0xDC
+ぼくは、部屋の中をのぞいてみることにした。%K%P
+I decided to take a peek inside the room.%K%P
+0xF0
+誰もいない……。%K%P
+No one was there...%K%P
+0xFC
+優も沙羅もつぐみも、そこにはいなかった。%K%P
+Not You, Sara, nor Tsugumi.%K%P
+0x108
+少年「お～い、空ぁ～、空ぁ～、みんなぁ～、どこ行っちゃったんだぁ～？」%K%P
+Kid「Hey, Sora! Sora, everybody? Where are you?」%K%P
+0x114
+何も無い天井に向かって呼びかける。%K%P
+I looked up at the bare ceiling and called out.%K%P
+0x120
+制御室の空が、ぼくのことをモニターしてるんじゃないかと思ったのだ。%K%P
+I figured Sora would be in the control room monitoring me.%K%P
+0x12C
+けれど、これもカラ振り……。%K%P
+But apparently she wasn't...%K%P
+0x138
+天井のスピーカーからは、物音ひとつ聞こえて来なかった。%K%P
+The speakers in the ceiling remained painfully silent.%K%P
+0x178
+ぼくはツヴァイトシュトックをまわってみた。%K%P
+I looked around Zweiter Stock.%K%P
+0x184
+少年「お～い、誰かいるなら、返事してくれぇ～！」%K%P
+Kid「Is there anybody there? If so, answer me!」%K%P
+0x190
+すべての部屋を巡回してみたのだが……%K%P
+I made the rounds of all the rooms...%K%P
+0x19C
+……結局、誰も見つからなかった。%K%P
+...But I didn't find anyone.%K%P
+0x1A8
+そうこうしているうちに、約束の時刻がやって来た。%K%P
+And it was about time to meet up with Takeshi.%K%P
+0x1C4
+ぼくは、待ち合わせ場所――警備室の前へと足を運んだ。%K%P
+I headed to the front of the security office.%K%P
+0x1D0
+ところが……。%K%P
+But...%K%P
+0x1E4
+警備室の前に、武の姿はなかった。%K%P
+Takeshi was nowhere to be seen.%K%P
+0x1F0
+少年「おーい！　武ーっ！」%K%P
+Kid「Hey! Takeshi!」%K%P
+0x1FC
+呼んでみるが、返事は戻って来ない。%K%P
+I called out to him, but there was no answer.%K%P
+0x208
+警備室の方を見ると、扉が開けっ放しになっているのがわかった。%K%P
+Glancing at the door of the security office, I saw that it was open.%K%P
+0x214
+ぼくは、部屋の中をのぞいてみることにした。%K%P
+I decided to take a peek inside the room.%K%P
+0x250
+やっぱり誰もいない……。%K%P
+No one was there...%K%P
+0x25C
+少年「お～い、空ぁ～、空ぁ～、武のやつ、どこ行っちゃったか知らな～い？」%K%P
+Kid「Hey! Sora! Do you know where Takeshi went?」%K%P
+0x268
+何も無い天井に向かって呼びかける。%K%P
+I looked up at the bare ceiling and called out.%K%P
+0x274
+制御室の空が、ぼくのことをモニターしてるんじゃないかと思ったのだ。%K%P
+I figured Sora would be in the control room monitoring me.%K%P
+0x280
+けれど、これもカラ振り……。%K%P
+But apparently she wasn't...%K%P
+0x28C
+天井のスピーカーからは、物音ひとつ聞こえて来なかった。%K%P
+The speakers in the ceiling remained painfully silent.%K%P
+0x2BC
+少年「う～ん、どうしよっかなぁ……」%K%P
+Kid「Hmmm. I wonder what I should do.」%K%P
+0x2C8
+ぶらぶらと通路を歩きながら考える。%K%P
+I thought as I wandered walking through the corridors.%K%P
+0x300
+まずは……%K%p
+First...%K%p
+0x40C
+他の場所に行ってみよう。%K%p
+I thought I would go somewhere else.%K%p
+0x420
+他の場所に行ってみよう。%K%P
+I thought I would go somewhere else.%K%P
+0x2B20
+メリーゴーランドへ
+To the merry-go-round
+0x2B2C
+クラゲゴンドラへ
+To the Jellyfish Gondola
+0x2B38
+倉庫へ
+To the warehouse
+0x2B44
+制御室へ
+To the control room
+0x2B50
+警備室へ
+To the security office
+0x4E4
+――メリーゴーランド。%K%P
+―The merry-go-round.%K%P
+0x4F0
+数十頭のイルカが円形に連なっている。%K%P
+Several dozen dolphins were connected in a circle.%K%P
+0x4FC
+馬はいない。馬車もない。子供達の歓声も聞こえては来なかった。%K%P
+There were no horses. No carriages. There were no children's voices.%K%P
+0x508
+壁１枚へだてた向こう側は青い海で……。%K%P
+And the blue ocean was just one paneling of wall away...%K%P
+0x514
+ぼくらは今、こんなところに閉じ込められていて……。%K%P
+We were all trapped in that place...%K%P
+0x520
+そう考えると、目の前に広がった光景は、とても現実とは思えなかった。%K%P
+Thinking that, it was hard to believe that the scenery spreading before me was reality.%K%P
+0x52C
+（ぼくは……こんなところで何をやってるんだろう……？）%K%P
+(What... what am I doing here...?)%K%P
+0x538
+ふと、そんなことを思う。%K%P
+That thought popped into my mind.%K%P
+0x544
+記憶を失ったことよりも、今まさに経験している出来事の方が、よっぽど不思議に思えた。%K%P
+What I was experiencing there seemed much more bizarre to me than the fact that I'd lost my memory.%K%P
+0x550
+つまり、過去に対する疑問よりも、現在に対する違和感の方が、圧倒的に大きかったのだ。%K%P
+In other words, my doubts about the past were less than my sense of unease about the present.%K%P
+0x55C
+ぼくは自分の存在がふわふわと遊離して行くような、奇妙な感覚に囚われていた。%K%P
+I was overcome by a sense that my existence was floating away.%K%P
+0x598
+優「あっ、少年」%K%P
+You「Hey, Kid.」%K%P
+0x5A4
+優「なにボケーッとしてんの？　そんなとこで」%K%P
+You「Are you spacing out there?」%K%P
+0x5B0
+岩陰から、ふいに優が顔をのぞかせた。%K%P
+You was peeking out at me from the shadow of a rock.%K%P
+0x5BC
+少年「ううん、別に……」%K%P
+Kid「Uh, not exactly...」%K%P
+0x5D0
+優「ん？」%K%P
+You「Really?」%K%P
+0x5EC
+少年「そう言えば、沙羅から聞いたんだけど、つぐみの方はダメだったみたいだね？」%K%P
+Kid「Oh. I talked to Sara, and she said that things were no good with Tsugumi.」%K%P
+0x600
+優「うん……まあ、ね」%K%P
+You「Well... You could say that.」%K%P
+0x60C
+少年「具体的に、どんな感じだったの？」%K%P
+Kid「What exactly happened?」%K%P
+0x620
+少年「あっ、そう言えば、つぐみの方はどうだった？」%K%P
+Kid「Oh, that reminds me, how were things with Tsugumi?」%K%P
+0x62C
+優「う～ん……」%K%P
+You「Well...」%K%P
+0x640
+優「ひとことで言うと『振り逃げ』かな」%K%P
+You「In a nutshell, it was like we whiffed.」%K%P
+0x64C
+少年「振り逃げ？　……どんな話したの？」%K%P
+Kid「What do you mean?」%K%P
+0x658
+優「『つぐみはいくつなの？』とか『どこに住んでるの？』とか『お腹すいたね？』とか、最初はそんな軽い話から始まって……」%K%P
+You「We started with light conversation about how old she was, where she lived, if she was hungry. We were biding our time, waiting for the right pitch.」%K%P
+0x664
+優「最終的には……『なんで怒ってるの？』って、マヨが直球勝負を挑んで……」%K%P
+You「Ultimately... Mayo asked her straight out 'Why are you so mad?'...」%K%P
+0x670
+少年「で？　答えは？」%K%P
+Kid「And? What did she say?」%K%P
+0x67C
+優「だから『振り逃げ』だってば」%K%P
+You「I said we whiffed, right?」%K%P
+0x690
+優「カラ振りされた挙句、出塁されちゃったって感じ」%K%P
+You「It was like we waited and waited for a good pitch. But we didn't get anything, so we swung.」%K%P
+0x69C
+少年「収穫ゼロってこと？」%K%P
+Kid「So it was a big zero?」%K%P
+0x6A8
+優「ゼロかどうかはわからないけど、１じゃないことだけは確かでしょう」%K%P
+You「I don't know if it was a zero. But we sure didn't hit a home run.」%K%P
+0x6B4
+優「あとはひたすら牽制球を投げて、向こうが油断するのを待つのみね」%K%P
+You「All we can do is wait for her to get careless and throw the right pitch.」%K%P
+0x6C0
+少年「タッチ・アウトか……」%K%P
+Kid「And get her out...」%K%P
+0x6D4
+優「タッチ・セーフだよ」%K%P
+You「No, get a hit.」%K%P
+0x6E0
+少年「？？？」%K%P
+Kid「?」%K%P
+0x6F4
+優「私はただ、触れたいだけ……手ごたえを感じたいだけなの」%K%P
+You「I just wanted to get a sense... To feel what she is all about.」%K%P
+0x700
+優「理由はどうあれ、人に嫌われてるって言うのは、あんまり気分のいいものじゃないからね」%K%P
+You「Reasons aside, there's just something unpleasant about being disliked.」%K%P
+0x714
+そう言って、優は歩き出した。%K%P
+Saying that, You started walking.%K%P
+0x720
+メリーゴーランドの回転台に乗り、イルカの背びれをなでる。%K%P
+She got on the platform of the merry-go-round and petted the fin of a dolphin.%K%P
+0x72C
+ぼくも優の後を追い駆けて、イルカの上に跳び乗った。%K%P
+I followed after You and jumped on the back of a dolphin.%K%P
+0x740
+優「ところで、少年？　こんなとこで何やってたの？」%K%P
+You「Kid, incidentally, what were you doing here?」%K%P
+0x74C
+少年「みんなを捜してたんだよ。警備室に行ったら、誰もいなかったから……」%K%P
+Kid「I was looking for everyone. When I went to the security office, nobody was there...」%K%P
+0x758
+少年「優は？　優は何やってたの？」%K%P
+Kid「What about you, You? What were you doing?」%K%P
+0x764
+優「メリーゴーランドのまわりを、ぶらぶらしてただけ」%K%P
+You「I was just hanging around this area, near the merry-go-round.」%K%P
+0x778
+優「ちょっと、ひとりになりたかったから……」%K%P
+You「I just wanted to be alone, so...」%K%P
+0x784
+少年「ひとりに？」%K%P
+Kid「Alone?」%K%P
+0x790
+優はつるつるとしたイルカの肌をなでながら、憐れむような眼差しで、それを見ていた。%K%P
+You cast a lonely look at the dolphin as she patted its smooth skin.%K%P
+0x7A4
+優「ねえ？　このイルカ、どうして動かないのかなぁ？」%K%P
+You「Hey. Why doesn't this dolphin move?」%K%P
+0x7B0
+少年「スイッチを入れてないからじゃない？　どっかに操作盤みたいなのがあると思うけど……」%K%P
+Kid「Probably because it's not turned on. There should be an operating panel around somewhere.」%K%P
+0x7BC
+優「スイッチを入れたら、このイルカは動くの？」%K%P
+You「You think if we turn it on, then the dolphin will move?」%K%P
+0x7C8
+少年「うん、たぶん」%K%P
+Kid「Yeah, probably.」%K%P
+0x7DC
+優「海の中を泳いだり、魚を捕まえたりするの？」%K%P
+You「And swim in the ocean and catch fish and stuff?」%K%P
+0x7E8
+少年「……えっ？」%K%P
+Kid「...What?」%K%P
+0x7FC
+優「私、さっき思ったんだけど……」%K%P
+You「I was just thinking...」%K%P
+0x808
+優「ＬｅＭＵの中には、イルカもクジラも魚も貝も、タコだってクラゲだってイソギンチャクだっているのにさぁ……」%K%P
+You「Because, inside LeMU, there are dolphins and whales and fish and clams and octopuses. There are even jellyfish and sea anemones, but...」%K%P
+0x814
+優「でも、それって本当は、全部生き物じゃないんだよね」%K%P
+You「But none of them are real living creatures.」%K%P
+0x820
+少年「当たり前じゃないか、みんな人間が作ったものなんだから……」%K%P
+Kid「Of course not. They were all made by people...」%K%P
+0x834
+優「当たり前かなぁ？」%K%P
+You「I wonder?」%K%P
+0x840
+少年「？」%K%P
+Kid「?」%K%P
+0x854
+優「例えば深い森の中では、生きていないものを探す方が難しいでしょ？」%K%P
+You「For example, deep in a forest, it would be harder to find something that's not alive than something that is, right?」%K%P
+0x860
+優「木も草も、鳥も昆虫も、土の中の微生物だって、みんな生きてるんだもん」%K%P
+You「There are trees and grass, birds and bugs, soil and little living creatures inside of it. Everything is alive.」%K%P
+0x874
+優「だけど、ここはどう？」%K%P
+You「But how about here?」%K%P
+0x880
+優「こんな広い空間の中で、生きてるのは私達だけなんだよ？」%K%P
+You「The only thing that's alive in this vast space is us.」%K%P
+0x88C
+優「海の中の『楽園』……なのにね？」%K%P
+You「And they call this an underwater paradise? A 'utopia'?」%K%P
+0x898
+優「この『楽園』では、生きてることの方が珍しいのかもしれない」%K%P
+You「So in this 'utopia', living things are outnumbered by nonliving things.」%K%P
+0x8A4
+優「つまり、私達は邪魔者……」%K%P
+You「Which, in a way, means we're...」%K%P
+0x8B0
+優「死の世界に紛れ込んだ――『異物』――なんだと思う」%K%P
+You「We're 'intruders' in this world of the dead.」%K%P
+0x8BC
+優はイルカをなでている。%K%P
+You petted the dolphin.%K%P
+0x8C8
+デフォルメされたイルカの笑顔はぴくりとも動かない。%K%P
+The dolphin's deformed plastic smile didn't move at all.%K%P
+0x8D4
+そのイルカの腹には、太い鉄の棒が突き刺さっていた。%K%P
+A steel rod was stuck into its belly.%K%P
+0x8E0
+少年「優は、ＬｅＭＵが嫌いなの？」%K%P
+Kid「Do you hate LeMU, You?」%K%P
+0x8F4
+優「う～ん……」%K%P
+You「Well...」%K%P
+0x900
+優「難しい問題ねぇ……」%K%P
+You「It's hard to say...」%K%P
+0x90C
+優「好きとか嫌いとか、そういうのは考えたことなかったなぁ……」%K%P
+You「It's not that I like or dislike it...」%K%P
+0x918
+少年「でも、好きだからここで働き始めたんでしょ？」%K%P
+Kid「But you liked it enough to start working here, right?」%K%P
+0x92C
+優「ううん」%K%P
+You「No.」%K%P
+0x938
+少年「えっ？　違うの？」%K%P
+Kid「No? You didn't?」%K%P
+0x944
+優「違うよ」%K%P
+You「No.」%K%P
+0x950
+少年「じゃあ、どうして……？」%K%P
+Kid「Well, then why...?」%K%P
+0x964
+ぼくが尋ねると、優はうつむいてしまった。%K%P
+With my question, You tilted her head.%K%P
+0x970
+口を結んだまま、１頭のイルカのまわりをぐるぐるとまわり始める。%K%P
+Then she just clammed up and started wandering around one of the dolphins.%K%P
+0x97C
+やがて、ピタリと足を止めた優は、静かに顔をあげてこう言った。%K%P
+Finally, her feet stopped, and You quietly faced me.%K%P
+0x990
+優「大切なものを、探してるの」%K%P
+You「I'm looking for something important.」%K%P
+0x99C
+少年「大切なもの？」%K%P
+Kid「Something important?」%K%P
+0x9A8
+優「お父さんの、手がかり」%K%P
+You「A clue about my father.」%K%P
+0x9B4
+少年「？？？」%K%P
+Kid「?」%K%P
+0x9C8
+優「実はね、私のお父さん、ＬｅＭＵの開発部門で働いてたの」%K%P
+You「Actually, my father worked in the research and development division of LeMU.」%K%P
+0x9D4
+少年「開発、って？」%K%P
+Kid「Research and development?」%K%P
+0x9E0
+優「私も詳しくは聞いてないんだけど……」%K%P
+You「I don't know the details...」%K%P
+0x9EC
+優「お父さん、レミのプログラムを作ってたみたい」%K%P
+You「It seems like my father made the LeMMIH program.」%K%P
+0x9F8
+少年「レミ……レミって確か、ＬｅＭＵのメインコンピューターのことだったよね？」%K%P
+Kid「LeMMIH... LeMMIH? Wasn't that LeMU's central computer?」%K%P
+0xA04
+優「うん」%K%P
+You「Yeah.」%K%P
+0xA18
+優「もちろん、ひとりでやってたわけじゃないよ？」%K%P
+You「Of course, he didn't do it alone.」%K%P
+0xA24
+優「そのプロジェクトの一員として、開発に携わってたってこと」%K%P
+You「He was one of the members involved in developing the project.」%K%P
+0xA30
+少年「へぇ……そうだったんだぁ……」%K%P
+Kid「Huh? Is that so...?」%K%P
+0xA3C
+少年「ん？　だけど『手がかり』って言うのは？」%K%P
+Kid「But what did you mean by 'clue'?」%K%P
+0xA50
+優「お父さんね……」%K%P
+You「My father...」%K%P
+0xA64
+優「お父さん……ある日突然、いなくなっちゃったんだ……」%K%P
+You「My father... disappeared one day.」%K%P
+0xA80
+少年「……えっ！？」%K%P
+Kid「...What?」%K%P
+0xA8C
+優「行方不明に、なっちゃったの……」%K%P
+You「He just went missing...」%K%P
+0xA98
+少年「い、いつ！？」%K%P
+Kid「Wh-when?」%K%P
+0xAA4
+優「それが……」%K%P
+You「He...」%K%P
+0xAD4
+優「物心ついたときには、すでにいなくって……」%K%P
+You「He's been missing as long as I can remember...」%K%P
+0xAE0
+優「私が１歳の時……つまり、今から１７年前のことね……」%K%P
+You「It was when I was one year old, seventeen years ago...」%K%P
+0xAEC
+少年「じゃあ、優はお父さんのこと……覚えてないの？」%K%P
+Kid「So you don't remember... your father?」%K%P
+0xB00
+優「うん……」%K%P
+You「No...」%K%P
+0xB0C
+優「写真とかムービーとかでしか、見たことはなくて……」%K%P
+You「I've only seen pictures and movies of him...」%K%P
+0xB18
+優「ちゃんとした記憶は、残ってないの、全然……」%K%P
+You「I don't really have any memories...」%K%P
+0xB24
+優「今言ったことも、全部お母さんから聞いた話で……」%K%P
+You「Everything I just told you, I heard from my mother...」%K%P
+0xB30
+少年「だけど、どうして？　どうして行方不明なんかに？」%K%P
+Kid「But why? Why did he disappear?」%K%P
+0xB44
+優「それがわかれば、こんなところまで来たりしないよ」%K%P
+You「If I knew that, I wouldn't have come here.」%K%P
+0xB50
+少年「どういう、こと？」%K%P
+Kid「What do you mean?」%K%P
+0xB64
+優「お父さんの姿が最後に目撃されたのは、このＬｅＭＵの中だったの」%K%P
+You「The last time my father was seen was in LeMU.」%K%P
+0xB70
+優「だからここに来れば、消えたお父さんの手がかりが、何か見つかるかもしれないって……そう思って……」%K%P
+You「So I thought that if I came here, maybe I would find some clue about my father...」%K%P
+0xB7C
+優「お母さんは、もうあきらめちゃってるみたいだから、頼りにならないし……」%K%P
+You「It seems like my mother has already given up, so I can't count on her...」%K%P
+0xB88
+少年「……？」%K%P
+Kid「...?」%K%P
+0xB94
+優「お母さん、お父さんのこと、死んじゃったんだって、思ってるみたい……」%K%P
+You「My mother has convinced herself that my father is already dead...」%K%P
+0xBA0
+『死』という言葉が、胸にズシンと響く。%K%P
+The word 'dead' had a heavy ring to it.%K%P
+0xBAC
+優は瞳をうるませながら、ぼくのことを真っ直ぐ見つめていた。%K%P
+You looked straight at me as her eyes watered.%K%P
+0xBC0
+優「でも、でもね？」%K%P
+You「But, you know?」%K%P
+0xBD4
+優「私は信じてるの！」%K%P
+You「I believe!」%K%P
+0xBE0
+優「お父さんは、絶対どこかで生きてるんだよ！」%K%P
+You「I know that my dad is still alive somewhere!」%K%P
+0xBEC
+優「だってそうでしょ！？」%K%P
+You「He has to be!」%K%P
+0xC00
+優「お父さんはただ、行方不明になっただけで……遺体が見つかったわけじゃないんだし……！」%K%P
+You「My father just went missing... and his remains were never found...」%K%P
+0xC0C
+言葉が出なかった。%K%P
+I couldn't find any words.%K%P
+0xC18
+なんて言ってあげればいいのか、ぼくにはわからない。%K%P
+I didn't know what to say to her.%K%P
+0xC24
+『そうだよ！　きっとどこかで生きてるよ！』――優はぼくの励ましを、待っているのかもしれない。%K%P
+She might have been waiting for me say something like 'You're right! He's probably alive somewhere!'%K%P
+0xC30
+けれど、言えなかった。%K%P
+But I couldn't say it.%K%P
+0xC3C
+ただ頷くばかりで、優の瞳を見つめ返すことさえできなかった。%K%P
+I just nodded and couldn't even look back into her eyes.%K%P
+0xC84
+やがて……のちほど会議室に集まることを約束して、ぼくらは別れた。%K%P
+Finally... we promised to meet later in the conference room and split up.%K%P
+0xCE4
+――クラゲゴンドラ。%K%P
+―The Jellyfish Gondola.%K%P
+0xCF0
+そこに、つぐみの姿があった。%K%P
+Tsugumi was there.%K%P
+0xCFC
+彼女はこちらに背中を向け、入り口の方を見ている。%K%P
+Her back was to me, and she was looking at the entrance.%K%P
+0xD08
+ぼくは思い切って声をかけてみた。%K%P
+I called out to her loudly.%K%P
+0xD14
+少年「ゴンドラ、乗りたいの？」%K%P
+Kid「Want to ride the gondola?」%K%P
+0xD20
+振り向くつぐみ。%K%P
+Tsugumi turned to look at me.%K%P
+0xD2C
+が、すぐに彼女は背を向け、立ち去ろうとする。%K%P
+But she immediately turned on her heel and walked away.%K%P
+0xD38
+少年「ちょっと待ってよ……」%K%P
+Kid「Wait a minute...」%K%P
+0xD74
+つぐみ「私、さっき言ったわよねぇ？」%K%P
+Tsugumi「I already told you.」%K%P
+0xD80
+少年「？」%K%P
+Kid「?」%K%P
+0xD8C
+つぐみ「『もう二度と、声をかけないで』……そう言ったでしょ？」%K%P
+Tsugumi「I said don't ever talk to me again.」%K%P
+0xD98
+少年「でも……」%K%P
+Kid「But...」%K%P
+0xDAC
+再び、歩き出すつぐみ。%K%P
+Tsugumi started walking again.%K%P
+0xDB8
+少年「ねえ、待ってってば！」%K%P
+Kid「Hey! I said wait!」%K%P
+0xDCC
+つぐみ「何よ！　しつこいわねぇ！」%K%P
+Tsugumi「What is it!? You're so irritating!」%K%P
+0xDD8
+少年「優と沙羅に会ったんでしょ？」%K%P
+Kid「You met You and Sara, right?」%K%P
+0xDEC
+つぐみ「だから？」%K%P
+Tsugumi「So what?」%K%P
+0xE18
+少年「何話したの？」%K%P
+Kid「What did you talk about?」%K%P
+0xE2C
+少年「なんで話を聞いてあげなかったの？」%K%P
+Kid「Why didn't you listen to them?」%K%P
+0xE38
+つぐみ「あなたには関係無い……」%K%P
+Tsugumi「It's none of your business...」%K%P
+0xE4C
+つぐみ「そんなこと聞く為に私を呼び止めたわけ？」%K%P
+Tsugumi「Is that why you stopped me?」%K%P
+0xE58
+少年「ううん……」%K%P
+Kid「No...」%K%P
+0xE64
+少年「本題は、それとは別のことだけど……」%K%P
+Kid「The real reason is something else...」%K%P
+0xE70
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xE7C
+少年「さっき『奴ら』とか何とかって言ってたよねぇ？」%K%P
+Kid「Before, you said something about 'those guys' or something, right?」%K%P
+0xE88
+少年「それって……どういう意味なの？」%K%P
+Kid「What... did you mean by that?」%K%P
+0xE9C
+ぼくの顔をじっと見つめるつぐみ。%K%P
+Tsugumi stared at me intently.%K%P
+0xEA8
+眼を細め、まるでぼくを値踏みするかのように。%K%P
+She narrowed her eyes almost as if she was appraising me.%K%P
+0xEB4
+その射るような視線に気圧されたぼくは、全身を固く強張らせ、ゴクリと唾を呑み込んだ。%K%P
+Intimidated by her intense glare, my body stiffened, and I swallowed.%K%P
+0xEC8
+つぐみ「あなた一体、何者なの……？」%K%P
+Tsugumi「What is with you...?」%K%P
+0xED4
+少年「わからないよ」%K%P
+Kid「I don't know.」%K%P
+0xEE0
+少年「ぼくの方が聞きたいぐらいで……」%K%P
+Kid「I wish I did know...」%K%P
+0xEEC
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xEF8
+少年「…………」%K%P
+Kid「.........」%K%P
+0xF04
+つぐみ「……………………」%K%P
+Tsugumi「...............」%K%P
+0xF10
+少年「……………………」%K%P
+Kid「...............」%K%P
+0xF24
+つぐみ「わかったわ」%K%P
+Tsugumi「Fine.」%K%P
+0xF30
+つぐみ「もしもあなたが嘘をついてないとしたら……ひとつだけ、忠告しといてあげる」%K%P
+Tsugumi「Well, if you aren't lying... then I'll warn you about one thing.」%K%P
+0xF44
+つぐみ「あなたはきっと……利用されてるのよ、奴らに」%K%P
+Tsugumi「You are... just being used by them.」%K%P
+0xF50
+少年「り、利用、されてる？」%K%P
+Kid「U-using me?」%K%P
+0xF5C
+少年「ね、ねえ？　だから、その奴らって言うのは誰なんだよ！」%K%P
+Kid「So... So who do you mean when you say those guys?」%K%P
+0xF70
+つぐみ「これ以上は言えない」%K%P
+Tsugumi「I can't say more than that.」%K%P
+0xF7C
+つぐみ「私、まだあなたのこと、１００％信用したわけじゃないの」%K%P
+Tsugumi「I still don't trust you 100％ yet.」%K%P
+0xF90
+つぐみ「逆に、私のことを信用してもらっても困るし……」%K%P
+Tsugumi「And I don't want you trusting me either...」%K%P
+0xF9C
+少年「…………」%K%P
+Kid「.........」%K%P
+0xFB0
+つぐみ「とにかく、自分の身は自分で守りなさい」%K%P
+Tsugumi「Anyway, look after yourself.」%K%P
+0xFBC
+つぐみ「何が起きても、私はあなたのことを助けるつもりはないから……」%K%P
+Tsugumi「If something happens, I'm not going to help you...」%K%P
+0xFD0
+それだけ言うと、つぐみは足早に去っていった。%K%P
+Saying only that, Tsugumi turned and left.%K%P
+0xFDC
+ぼくは、もうわけがわからず、その場に立ち尽くすだけだった。%K%P
+Having no idea what had just happened, I simply stood there.%K%P
+0x105C
+倉庫の前にやってきた。%K%P
+I wound up in front of the warehouse.%K%P
+0x1068
+（だけど、こんなところには誰も……）%K%P
+(I don't expect anybody is here, but...)%K%P
+0x1074
+（……おや？）%K%P
+(...What's that?)%K%P
+0x1080
+入り口の水密扉が、わずかに開かれている。%K%P
+The watertight door at the entrance was slightly open.%K%P
+0x108C
+優達と見回りしたときには、閉まっていたはずなのに……。%K%P
+I was sure it was closed when I had come by there with You and everyone.%K%P
+0x1098
+少年「誰か、いるの？」%K%P
+Kid「Is anyone there?」%K%P
+0x10A4
+ぼくはそっと扉を開いた。%K%P
+I softly opened the door.%K%P
+0x111C
+沙羅「――あっ」%K%P
+Sara「Ah.」%K%P
+0x1128
+少年「え？　沙羅？」%K%P
+Kid「Huh? Sara?」%K%P
+0x1134
+そこにいたのは沙羅だった。%K%P
+Sara was inside.%K%P
+0x1140
+彼女は積み上げられた箱の上に腰を下ろしていた。%K%P
+She was sitting on top of a pile of boxes.%K%P
+0x114C
+驚かせてしまったのか、顔を強張らせている。%K%P
+I didn't know if I'd surprised her, but her face seemed to stiffen.%K%P
+0x1160
+沙羅「なんだ、少年か……脅かさないでよ」%K%P
+Sara「Oh, Kid... Don't scare me like that.」%K%P
+0x116C
+少年「ご、ごめん……」%K%P
+Kid「S-sorry...」%K%P
+0x1178
+沙羅はぼくを軽く睨みつけると、両手をポケットにつっこんで、それから床に降りたった。%K%P
+After shooting me a slight glare, Sara stuck her hands in her pockets and dropped to the floor.%K%P
+0x1184
+少年「でも、こんなところで何やってたの？」%K%P
+Kid「But what are you doing here?」%K%P
+0x1198
+沙羅「ん？　うん……ちょっと、ひとりになりたかったの」%K%P
+Sara「Huh? Oh... I just wanted some time alone.」%K%P
+0x11A4
+少年「ひとりに？」%K%P
+Kid「Alone?」%K%P
+0x11C0
+（そう言えば、優もそんなことを言ってたっけ……）%K%P
+(You had said almost the same thing...)%K%P
+0x11CC
+少年「つぐみと、何かあったの？」%K%P
+Kid「What happened with Tsugumi?」%K%P
+0x11D8
+沙羅「別に、何も」%K%P
+Sara「Nothing, really.」%K%P
+0x11E4
+少年「その割に、落ち込んでるみたいだけど……」%K%P
+Kid「Well, you seem pretty down...」%K%P
+0x11F8
+沙羅「結局、何も話してくれなかったってこと。私達だけで空回りしてるみたいで……なんだか疲れちゃって……」%K%P
+Sara「In the end, she didn't tell us anything. We were just running in circles... and it wore me out...」%K%P
+0x1204
+少年「そっか……」%K%P
+Kid「I see...」%K%P
+0x1220
+沙羅「うん。というよりは、なっきゅ先輩が少しひとりにしてくれって言うから、別行動してるだけなんだけどね」%K%P
+Sara「Actually, Nakkyu said that she wanted to be alone, so we just went our separate ways.」%K%P
+0x122C
+少年「ふーん」%K%P
+Kid「Hmmm.」%K%P
+0x1238
+少年「あっ、そう言えば、つぐみの方はどうだった？」%K%P
+Kid「Oh, that reminds me, how were things with Tsugumi?」%K%P
+0x124C
+沙羅「…………」%K%P
+Sara「...」%K%P
+0x1258
+沙羅は軽くため息をつきながら、手の平を天井に向けた。%K%P
+Sara sighed slightly and held her hands out, palms facing up.%K%P
+0x1264
+少年「そう……」%K%P
+Kid「I see...」%K%P
+0x1270
+何の遺恨もないはずの、同性のふたりにさえ、どうすることもできなかった……。%K%P
+Feminine intuition aside, not even the two girls had been able to get through to her. Even though there was no apparent reason for Tsugumi to hold a grudge...%K%P
+0x127C
+つぐみは一体、ぼくらの何に対して、怒っているのだろうか？%K%P
+What could Tsugumi have been so angry with us about?%K%P
+0x12C4
+やがて……のちほど会議室に集まることを約束して、ぼくらは別れた。%K%P
+Finally... we promised to meet later in the conference room and split up.%K%P
+0x1340
+再び制御室へ。%K%P
+I went to the control room again.%K%P
+0x134C
+少年「どう？　なんか進展あった？」%K%P
+Kid「What's up? Any progress?」%K%P
+0x1388
+空「いえ、残念ながら……」%K%P
+Sora「Unfortunately, no...」%K%P
+0x1394
+空「レミでさえ、事態を正確に把握することができていないようなのです」%K%P
+Sora「It appears that even LeMMIH is not able to accurately gauge the situation.」%K%P
+0x13A0
+空「こんなこと……普通では考えられないことなのですが……」%K%P
+Sora「This is... It is something that would normally be unthinkable.」%K%P
+0x13BC
+少年「あっ、そう言えば……空、知ってた？」%K%P
+Kid「Oh, that reminds me. Sora, did you know...?」%K%P
+0x13D0
+空「はい？　何をでしょうか？」%K%P
+Sora「Know? Know what?」%K%P
+0x13DC
+少年「レミを作ったのって、優のお父さんだったみたいだよ？」%K%P
+Kid「That You's father made LeMMIH.」%K%P
+0x13F0
+空「えっ！？　そうなのですか！？　初耳です……それは……」%K%P
+Sora「Huh? Is that right? That's... news to me.」%K%P
+0x13FC
+少年「もちろん、ひとりで作ったわけじゃないけどね」%K%P
+Kid「Of course, he didn't make it all by himself.」%K%P
+0x1408
+少年「開発プロジェクトのメンバーだったんだって、優のお父さん」%K%P
+Kid「She said her dad was a member of the development project team.」%K%P
+0x1414
+空「そ、そうですか……」%K%P
+Sora「Is that right...?」%K%P
+0x1428
+空「大変興味深いお話です」%K%P
+Sora「That's very interesting.」%K%P
+0x1444
+空の背後にある、大画面のモニターに目を向けた。%K%P
+I turned my eyes to the massive monitor behind Sora.%K%P
+0x1450
+そこには、ＬｅＭＵのツヴァイトとドリットの平面図が映し出されている。%K%P
+A flat map of LeMU's Zweiter Stock and Dritter Stock floors was displayed.%K%P
+0x145C
+こうやってレミは、四六時中、ＬｅＭＵを隅から隅まで監視しているのだ。%K%P
+LeMMIH was monitoring LeMU, wall-to-wall, 24 hours a day.%K%P
+0x1468
+そのレミが把握できないこの状況とは、一体……？%K%P
+If LeMMIH couldn't survey the situation, then what in the world...?%K%P
+0x1474
+少年「ところで……『レミ』って何で『レミ』って名前なのかな？」%K%P
+Kid「By the way... Why is LeMMIH called 'LeMMIH'?」%K%P
+0x1488
+空「あれ？　まだお教えしていませんでしたか？」%K%P
+Sora「Oh, haven't I told you?」%K%P
+0x1494
+少年「うん、聞いてないけど……？」%K%P
+Kid「No. I haven't heard...」%K%P
+0x14A8
+空「『レミ』の正式名称は……」%K%P
+Sora「LeMMIH's proper name is...」%K%P
+0x14B8
+空「『Ｌｅｉｂｌｉｃｈ⑳Ｍｅｄｉｚｉｎ：Ｍｕｌｔｉｖｅｒｆａｈｒｅｎ%N
+Sora「<Leiblich Medizin: Multiverfahren」%N
+0x14C4
+Ｉｎｔｅｌｌｉｇｅｎｔ⑳Ｈｉｒｎ⑳Ｓｙｓｔｅｍ』
+Intelligentes Hirnsystem.>
+0x14D0
+と言います」%K%P
+...That is its name."%K%P
+0x14E0
+少年「……………………は、はいっ？　も、もう１回、いい？」%K%P
+Kid「Uh... what was that? Can you give it to me one more time?」%K%P
+0x14F0
+空「『Ｌｅｉｂｌｉｃｈ⑳Ｍｅｄｉｚｉｎ：Ｍｕｌｔｉｖｅｒｆａｈｒｅｎ%N
+Sora「<Leiblich Medizin: Multiverfahren」%N
+0x14FC
+Ｉｎｔｅｌｌｉｇｅｎｔ⑳Ｈｉｒｎ⑳Ｓｙｓｔｅｍ』
+Intelligentes Hirnsystem.>
+0x1508
+……です」%K%P
+...That is its name."%K%P
+0x1518
+少年「それ、何語？」%K%P
+Kid「What language is that?」%K%P
+0x1524
+空「ドイツ語です」%K%P
+Sora「It's German.」%K%P
+0x1530
+少年「意味は？」%K%P
+Kid「What does it mean?」%K%P
+0x1540
+空「最初の
+Sora「The first part,」
+0x154C
+『Ｌｅｉｂｌｉｃｈ⑳Ｍｅｄｉｚｉｎ』は、
+<Leiblich Medizin>, indicates
+0x1558
+製薬会社の名前を表しています」%K%P
+the name of a pharmaceutical company."%K%P
+0x1568
+空「その後は『多重並列処理による人工知能システム』……と言った感じの意味合いです」%K%P
+Sora「The bit after that means something along the lines of 'parallel processing artificial intelligence system'.」%K%P
+0x1574
+空「この頭文字を取って『ＬｅＭＭＩＨ』――すなわち『レミ』システムと、呼ばれるようになりました」%K%P
+Sora「The first letter of each word created the acronym 'LeMMIH', so they called the system 'LeMMIH'.」%K%P
+0x1580
+少年「う～ん……う～ん……う～ん……」%K%P
+Kid「Uh-huh... I see.」%K%P
+0x158C
+少年「あのさぁ、聞きたいことがふたつあるんだけど……」%K%P
+Kid「Hey, there are two things I wanted to ask you...」%K%P
+0x1598
+空「なんでしょう？」%K%P
+Sora「What might they be?」%K%P
+0x15A4
+少年「ライプリヒ……えーっと……なんだっけ？」%K%P
+Kid「That Leibl... Uh... What was it again?」%K%P
+0x15B0
+空「『Ｌｅｉｂｌｉｃｈ　Ｍｅｄｉｚｉｎ』……日本では『ライプリヒ製薬』と呼ばれています」%K%P
+Sora「<Leiblich Medizin>... In Japan, it is known as Leiblich Pharmaceuticals.」%K%P
+0x15BC
+少年「その『ライプリヒ製薬』って……ＬｅＭＵと一体どんな関係があるの？」%K%P
+Kid「So what is the relationship between Leiblich and LeMU?」%K%P
+0x15C8
+空「このテーマパークを運営しているのは『レミュウ』という名前の株式会社です」%K%P
+Sora「The company managing this theme park is called LeMU.」%K%P
+0x15D4
+空「そして、この会社の筆頭株主が、ライプリヒ製薬なのです」%K%P
+Sora「And the largest stockholder is Leiblich Pharmaceuticals.」%K%P
+0x15E0
+少年「う～ん……う～ん……う～ん……」%K%P
+Kid「I see...」%K%P
+0x15EC
+少年「要するに、ＬｅＭＵの実権を握ってるのが、ライプリヒ製薬ってことになるのかな？」%K%P
+Kid「So essentially, I guess that Leiblich has the right to say whatever happens at LeMU.」%K%P
+0x15F8
+空「そのように解釈していただいても、差し支えないと思われます」%K%P
+Sora「I suppose that is a reasonable interpretation.」%K%P
+0x1604
+空「そもそも、このテーマパークの名前の由来も……」%K%P
+Sora「The origin of the name of this theme park...」%K%P
+0x1610
+空「表向きには、幻の大陸『ＬＥＭＵＲＩＡ』にちなんで……ということになっておりますが……」%K%P
+Sora「The official line is that it was named after the phantom continent Lemuria.」%K%P
+0x161C
+空「実際には『Ｌｅｉｂｌｉｃｈ　Ｍｅｄｉｚｉｎ』と『Ｕｔｏｐｉｅ』の頭文字を取って『ＬｅＭＵ』と命名されたんだそうです」%K%P
+Sora「But actually, I've heard that it is just a combination of the first letters of <Leiblich Medizin> and <utopie>.」%K%P
+0x1628
+空「『Ｕｔｏｐｉｅ』――『ユートピア』」%K%P
+Sora「<Utopie> means 'utopia'.」%K%P
+0x1634
+空「つまり、ライプリヒ製薬のプロデュースによって建設された『夢のような理想郷』……『楽園』……」%K%P
+Sora「In other words, Leiblich created this place to be a dream-like utopia...」%K%P
+0x1640
+空「そんな意味が込められているということになります」%K%P
+Sora「So that is why they named it that.」%K%P
+0x164C
+少年「ふ～ん、楽園、ねぇ……」%K%P
+Kid「A utopia, huh...?」%K%P
+0x1658
+空「ふたつ目の質問は、なんでしょうか？」%K%P
+Sora「And what was your second question?」%K%P
+0x1664
+少年「ああ、えーっと……」%K%P
+Kid「Uh, well...」%K%P
+0x1670
+少年「ドイツ語の、ことなんだけど……」%K%P
+Kid「It's about German...」%K%P
+0x1684
+空「ドイツ語、ですか？」%K%P
+Sora「German?」%K%P
+0x1690
+少年「うん」%K%P
+Kid「Yeah.」%K%P
+0x169C
+少年「ついさっき『レミの正式名称はドイツ語だ』って、教えてくれたでしょ？」%K%P
+Kid「You just said that LeMMIH's official name is German, right?」%K%P
+0x16A8
+少年「それから、ＬｅＭＵのあちこちには、ドイツ語の表記がいっぱいあるし……」%K%P
+Kid「And all around LeMU are these German signs and stuff...」%K%P
+0x16B4
+少年「どうして……ドイツ語なんだろうと思って……」%K%P
+Kid「I just... I wondered why German...」%K%P
+0x16C8
+空「それは、ライプリヒ製薬が、日本とドイツの合弁企業だからです」%K%P
+Sora「That's because Leiblich Pharmaceuticals is a joint venture between a Japanese and a German company.」%K%P
+0x16D4
+空「本社はフランクフルトにありますし、役員の大半もドイツ人で占められています」%K%P
+Sora「Its headquarters are in Frankfurt and the majority of officials are German.」%K%P
+0x16E0
+少年「だから、ドイツ語なのかぁ……」%K%P
+Kid「So that's why it's all in German...」%K%P
+0x16EC
+少年「そのライプリヒ製薬って会社、かなりＬｅＭＵと深い関係があるってことだね？」%K%P
+Kid「So Leiblich Pharmaceuticals has a pretty strong relationship with LeMU, then?」%K%P
+0x16F8
+空「…………」%K%P
+Sora「.........」%K%P
+0x1704
+少年「ねえ？　ついでだから、もうひとつだけ聞いてもいいかなぁ？」%K%P
+Kid「Since I'm asking, can I ask one more thing?」%K%P
+0x1710
+空「どうぞ？」%K%P
+Sora「Go ahead.」%K%P
+0x171C
+少年「なんでライプリヒ製薬は、テーマパークの運営なんかに手を出したりしたんだろう？」%K%P
+Kid「Why did Leiblich Pharmaceuticals want to run a theme park anyhow?」%K%P
+0x1728
+少年「製薬会社だよねぇ？　薬を作ってるんでしょ？　テーマパークなんかとは、まったく無関係に思えるけど……」%K%P
+Kid「I mean, we're talking about Leiblich Pharmaceuticals. They make medicine, right? That doesn't seem to have anything to do with a theme park.」%K%P
+0x1734
+少年「しかも、しかもさぁ、ここは海のド真ん中だよ？　どうしてこんなところにわざわざ……」%K%P
+Kid「And, and this is right in the middle of the ocean, right? Why go to all of the trouble of...」%K%P
+0x1748
+空「それは……」%K%P
+Sora「Because...」%K%P
+0x1754
+空「それは…………」%K%P
+Sora「Because...」%K%P
+0x1760
+空「申し訳ありません」%K%P
+Sora「I'm sorry.」%K%P
+0x176C
+空「その質問にはお答えすることはできません」%K%P
+Sora「I can't answer that question.」%K%P
+0x1778
+少年「……えっ？　……どうして？」%K%P
+Kid「...What...? Why not?」%K%P
+0x178C
+空「企業秘密だからです」%K%P
+Sora「It is confidential information.」%K%P
+0x17A0
+少年「企業秘密ぅ～？？？」%K%P
+Kid「Confidential?」%K%P
+0x17AC
+少年「ははっ、なんだよ、それ……」%K%P
+Kid「Haha. What in the...」%K%P
+0x17B8
+少年「ぼくが、誰かに秘密を漏らすとでも……？」%K%P
+Kid「Who could I possibly tell?」%K%P
+0x17C4
+空「…………」%K%P
+Sora「.........」%K%P
+0x17D0
+少年「ぼくみたいな『少年』にバレたって、なんの損害も発生しないと思うけどな」%K%P
+Kid「I can't imagine that a 'kid' like me finding out could cause any damage.」%K%P
+0x17DC
+空「…………」%K%P
+Sora「.........」%K%P
+0x17E8
+少年「ダメ、なんだ……。ぼくにさえ、教えられないことなんだ……？」%K%P
+Kid「You really can't even tell little old me?」%K%P
+0x17F4
+空「…………」%K%P
+Sora「.........」%K%P
+0x1800
+空はかたくなに口を閉ざしたまま、答えようとはしなかった。%K%P
+Sora had gone quiet and wasn't answering.%K%P
+0x180C
+少年「ＯＫ、わかったよ」%K%P
+Kid「Okay. I understand.」%K%P
+0x1818
+少年「じゃあこの話は、なかったことで……」%K%P
+Kid「We'll just forget about it...」%K%P
+0x182C
+空「本当に、すみません」%K%P
+Sora「I'm really sorry.」%K%P
+0x1838
+少年「いいよいいよ、別に謝らなくったって……」%K%P
+Kid「It's alright. You don't have to apologize...」%K%P
+0x1844
+少年「守秘義務ってやつでしょ？　しょうがないよね、こればっかりは……」%K%P
+Kid「You have to keep the secret as part of your job, right? There's nothing you can do about it...」%K%P
+0x1850
+空「…………」%K%P
+Sora「.........」%K%P
+0x185C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1868
+空「……………………」%K%P
+Sora「...............」%K%P
+0x1874
+少年「……………………」%K%P
+Kid「...............」%K%P
+0x1888
+空「わかりました。ではひとつだけ、お教えしましょう」%K%P
+Sora「Alright. I'll tell you one thing.」%K%P
+0x189C
+空「ＬｅＭＵは、外部から電力を供給してもらっているのではなく、館内に自家発電装置を持っています」%K%P
+Sora「LeMU does not rely on energy provided from the outside, but generates all of its energy in this complex.」%K%P
+0x18A8
+空「この真下、水深１１９ｍの位置に海底があるのですが……」%K%P
+Sora「And directly under us, at a depth of 119 meters, is the seafloor...」%K%P
+0x18BC
+空「この海底にある熱水噴出孔から、数百度という極めて高い温度の水を汲み上げ、その熱を利用して発電機を稼動させているのです」%K%P
+Sora「There is a thermal vent on the surface of the sea floor where water of several hundred degrees is pumped out, and heat from that is used to operate generators.」%K%P
+0x18D8
+ぼくは、その先の説明を待った。%K%P
+I waited for the rest of the explanation.%K%P
+0x18E4
+しかし空は、それ以上なにも言わなかった。%K%P
+But Sora didn't say anything more.%K%P
+0x18F0
+『後は、自分で考えろ』……そういうことなのだろうか？%K%P
+...I guessed she was trying to say, 'Figure the rest out yourself.'%K%P
+0x18FC
+ぼくは考えた……。%K%P
+I thought...%K%P
+0x1944
+ＬｅＭＵの実権を握っている日独合弁企業『ライプリヒ製薬』……。%K%P
+LeMU was controlled by a Japanese-German joint venture called Leiblich Pharmaceuticals...%K%P
+0x1950
+ただの製薬会社が、なぜこんなところにテーマパークなんて作ったのか……？%K%P
+There had to be a reason that a pharmaceutical company would build a theme park in such a place...%K%P
+0x195C
+その理由と、自家発電装置と、このふたつにはどんな関係があると言うんだろう……？%K%P
+That reason and in-house power generation... What could they have to do with each other...?%K%P
+0x1968
+自家発電装置――熱水噴出孔――次にぼくの頭に浮かんだ単語は……。%K%p
+Power generation―thermal seafloor vents―the first thing that popped into my head was...%K%p
+0x2B5C
+温泉
+Hot springs
+0x2B68
+微生物
+Microorganisms
+0x19A8
+――温泉。%K%P
+Hot springs.%K%P
+0x19B4
+温泉？？？%K%P
+Hot springs?%K%P
+0x19C0
+製薬会社と温泉……何の関係も無いように思えるけど……。%K%P
+It seemed to me that a pharmaceutical company and hot springs... would be totally unrelated...%K%P
+0x19CC
+いくら考えても、それらを繋ぎ合わせる接点は、見つかりそうになかった。%K%P
+No matter how much I thought about it, I couldn't find a connection.%K%P
+0x19E8
+ぼくは思い切って、空に聞いてみることにした。%K%P
+I decided to go ask Sora.%K%P
+0x19F4
+少年「ねえ？　それとさっきの話と、何か関係があるの？」%K%P
+Kid「Hey, does that have anything to do with what we were just talking about?」%K%P
+0x1A00
+空はぼくの質問には答えずに、こう言った。%K%P
+Sora ignored my question and instead said...%K%P
+0x1A14
+空「そろそろ、仕事を再開してもよろしいでしょうか？」%K%P
+Sora「Do you mind if I get back to work?」%K%P
+0x1A20
+取り付く島もない。%K%P
+It didn't look like the conversation would lead anywhere.%K%P
+0x1A2C
+ぼくはあきらめて、その場を去ることにした。%K%P
+So I gave up and went elsewhere.%K%P
+0x1A84
+――微生物。%K%P
+Microorganisms.%K%P
+0x1A90
+そうか！　微生物だ！%K%P
+That was it! Microorganisms!%K%P
+0x1A9C
+熱水噴出孔には、他のどこにも見られない特殊な微生物が棲息してるんだ。%K%P
+There were unique kinds of microorganisms found around thermal seafloor vents that weren't found anywhere else.%K%P
+0x1AA8
+だから、ライプリヒ製薬は、その微生物を、この海底で研究してて……。%K%P
+That was why Leiblich Pharmaceuticals was researching microorganisms on the seafloor...%K%P
+0x1AB4
+『ヒンメル』――『ＩＢＦ』――『高圧酸素治療装置』――。%K%P
+'Himmel'―'IBF'―'High-pressure oxygen treatment device'―%K%P
+0x1AC0
+ぼくの脳内のスクリーンには、次々と既知の言葉が映し出された。%K%P
+All those words that I had known flashed onto the screen of my mind.%K%P
+0x1ACC
+例によって、そんなことをどうして知っているのかはわからない。%K%P
+As usual, I had no idea why I knew them.%K%P
+0x1AD8
+理由も原因も不明だったにもかかわらず、それが事実であるという確信だけは揺らがなかった。%K%P
+I had no idea about the reasons or causes behind them, but I was convinced that they were facts.%K%P
+0x1AF4
+少年「海底に……このＬｅＭＵの下に……ライプリヒ製薬の研究所があるんだね？」%K%P
+Kid「On the ocean floor... below LeMU... Leiblich Pharmaceuticals has a research lab, right?」%K%P
+0x1B00
+ぼくは思い切って、空にそう告げた。%K%P
+I said that straight out to Sora.%K%P
+0x1B14
+空「ど、どうして……それを……！？」%K%P
+Sora「H-how do... you... know about that!?」%K%P
+0x1B20
+少年「やっぱりそうか……」%K%P
+Kid「I thought so...」%K%P
+0x1B2C
+少年「もともとライプリヒ製薬は、細菌やウイルスの研究をする為に、この海底にＩＢＦを作ったんだ」%K%P
+Kid「Leiblich made IBF on the seafloor to research germs and viruses.」%K%P
+0x1B38
+少年「テーマパークを併設したのは、きっとカモフラージュの為で……」%K%P
+Kid「The theme park was just a kind of cover...」%K%P
+0x1B44
+少年「研究員は、ＬｅＭＵの係員に成りすまして、海底と海上を行き来していた」%K%P
+Kid「The researchers acted like staff members for LeMU, going above the ocean and back down to the seafloor.」%K%P
+0x1B50
+少年「そうすれば、誰もこんなところに研究所があるなんて、疑ったりしないからね」%K%P
+Kid「In that way, nobody would suspect that there was a lab here.」%K%P
+0x1B5C
+少年「あるいは、資金調達という目的もあったのかもしれない」%K%P
+Kid「Or it might have been a way of securing capital.」%K%P
+0x1B68
+少年「テーマパークを併設することによって、いくらかでも研究所の運営費を補えれば……そんなことを考えたのかも」%K%P
+Kid「Working in conjunction with a bustling amusement park... You would never be short of research funds.」%K%P
+0x1B74
+少年「ねえ？　そうなんでしょ？」%K%P
+Kid「I'm right, aren't I?」%K%P
+0x1B88
+空「少年さん……」%K%P
+Sora「Kid-san...」%K%P
+0x1B9C
+空「あなた一体……何者なんですか？」%K%P
+Sora「Exactly... who are you?」%K%P
+0x1BA8
+少年「わからないよ、ぼくにも……」%K%P
+Kid「I don't even know myself...」%K%P
+0x1BB4
+少年「ただ、知ってるんだ……」%K%P
+Kid「All I know is that I DO know these things...」%K%P
+0x1BC0
+少年「まるで予知でもするかのように、全部わかっちゃうんだよ」%K%P
+Kid「It all comes to me through some sort of premonition.」%K%P
+0x1BD4
+空「そんなはず……ありません」%K%P
+Sora「That... can't be.」%K%P
+0x1BE0
+空「少年さんは、嘘をついていらっしゃるのではありませんか？」%K%P
+Sora「Are you lying to me?」%K%P
+0x1BF4
+空「私に……何かを隠して……」%K%P
+Sora「Are... Are you hiding something...?」%K%P
+0x1C00
+少年「隠してなんかいないよ」%K%P
+Kid「I'm not hiding a thing.」%K%P
+0x1C0C
+少年「逆に全部打ち明けたんだ……ぼくの知っている事実を……全部……」%K%P
+Kid「I'm being completely open about it... About everything I know... Everything...」%K%P
+0x1C18
+空「…………」%K%P
+Sora「.........」%K%P
+0x1C24
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1C38
+空「わかりました」%K%P
+Sora「I see.」%K%P
+0x1C44
+空「でもとにかく、今のお話は、すべて忘れてください」%K%P
+Sora「Anyway, please forget about the conversation we just had.」%K%P
+0x1C50
+少年「わかってるよ、誰にも言ったりしない」%K%P
+Kid「I know. I won't tell anybody.」%K%P
+0x1C64
+空「いえ、そうではなく……忘れていただきたいと、申し上げているのです」%K%P
+Sora「That's not what I mean... I mean forget it.」%K%P
+0x1C70
+空「研究所なんて、この海底にはありません」%K%P
+Sora「There is no research station on the seafloor.」%K%P
+0x1C7C
+空「昔はありましたが、今は閉鎖されて使われていないのです」%K%P
+Sora「There was in the past, but it has been closed.」%K%P
+0x1C90
+空「お願いです……そういうことに、しておいてください」%K%P
+Sora「Please... just pretend that is the truth.」%K%P
+0x1C9C
+少年「う、うん、わかったよ」%K%P
+Kid「Okay. I understand.」%K%P
+0x1CA8
+少年「空がそんなに言うんなら……忘れることにする」%K%P
+Kid「If it's that important to you... then I'll forget it.」%K%P
+0x1CBC
+空「約束ですよ？」%K%P
+Sora「Do you promise?」%K%P
+0x1CC8
+ぼくは固く誓って、制御室を後にした。%K%P
+I swore that I would, then left the control room.%K%P
+0x1D18
+ぼくは、その先の説明を待った。%K%P
+I waited for the rest of the explanation.%K%P
+0x1D24
+しかし空は、それ以上なにも言わなかった。%K%P
+But Sora didn't say anything more.%K%P
+0x1D30
+少年「えっ？　それとさっきの話と、何か関係があるの？」%K%P
+Kid「And? What does that have to do with what we were just talking about?」%K%P
+0x1D3C
+空はその問いには答えずに……%K%P
+Sora let the question go...%K%P
+0x1D50
+空「そろそろ、仕事を再開してもよろしいでしょうか？」%K%P
+Sora「Do you mind if I get back to work?」%K%P
+0x1D5C
+少年「え？　あ、うん……邪魔して、ごめん」%K%P
+Kid「Oh? Uh... Sorry to bother you.」%K%P
+0x1D68
+空「…………」%K%P
+Sora「.........」%K%P
+0x1D74
+ぼくは諦め、立ち去ることにした。%K%P
+I gave up and left.%K%P
+0x1DBC
+ＬｅＭＵの実権を握っている日独合弁企業『ライプリヒ製薬』……。%K%P
+LeMU was controlled by a Japanese-German joint venture called Leiblich Pharmaceuticals...%K%P
+0x1DC8
+なぜこんなところにテーマパークなんて作ったのだろう……？%K%P
+Why would they build a theme park?%K%P
+0x1DD4
+自家発電装置と何の関係があると言うのか……？%K%P
+And what could it have to do with the fact that they generated their own energy...?%K%P
+0x1DE0
+謎を抱えたまま、その場を離れた。%K%P
+I left with that mystery spinning in my mind.%K%P
+0x1E5C
+（あっ……武！）%K%P
+(Oh... Takeshi!)%K%P
+0x1E68
+警備室に戻ったぼくは驚いた。%K%P
+I was surprised upon returning to the security office.%K%P
+0x1E74
+そこに、武の姿があったのだ。%K%P
+Takeshi was there.%K%P
+0x1E80
+（何をしてるんだろう……？）%K%P
+(I wonder what he's up to...)%K%P
+0x1E8C
+彼は両手を操作パネルの上に載せ、目前の監視モニターを食い入るように見つめている。%K%P
+He had both hands on the operating panel and was staring into the monitor intently.%K%P
+0x1E98
+声をかけようとして……%K%P
+I was about to call out to him...%K%P
+0x1EA4
+だが、ぼくは一瞬、それを躊躇してしまった。%K%P
+But I hesitated.%K%P
+0x1EB0
+モニターに注がれている、武の眼差し……。%K%P
+The gaze that Takeshi had leveled on the monitor...%K%P
+0x1EBC
+それは、背筋がヒヤリとする程に鋭かったのだ。%K%P
+It was so intense that it made my spine tingle...%K%P
+0x1EC8
+獲物の姿を探している、鷹のごとき眼光だった。%K%P
+He had the eyes of a hawk scouring the horizon for prey.%K%P
+0x1ED4
+少年「……たけ、し……？」%K%P
+Kid「...Take... shi...」%K%P
+0x1EE0
+ようやく、ぼくは絞り出すような声で、彼を呼んだ。%K%P
+I finally got out the words.%K%P
+0x1EEC
+武がゆっくりと振り返る。%K%P
+Takeshi slowly looked back at me.%K%P
+0x1EF8
+少年「………………」%K%P
+Kid「.........」%K%P
+0x1F34
+武「おっ、少年、やっと来たかね。待ちくたびれたぞい」%K%P
+Takeshi「Hey, Kid, you finally made it. I'm beat from waiting.」%K%P
+0x1F40
+ぼくに向けられた武の顔は、いつものおどけた表情を形作っていた。%K%P
+The look on Takeshi's face was his normal old goofy expression.%K%P
+0x1F4C
+ホッと胸を撫で下ろす、ぼく。%K%P
+I felt relieved.%K%P
+0x1F58
+少年「ねぇ、何をしてたの？　怖い顔して」%K%P
+Kid「What were you doing? You looked so intense that it was scary.」%K%P
+0x1F6C
+武「あーん？　怖い顔～？」%K%P
+Takeshi「Huh? Scary?」%K%P
+0x1F78
+少年「うん。さっき、とてもおっかない顔してたよ」%K%P
+Kid「Yeah. Just now. You looked scary.」%K%P
+0x1F8C
+武「失礼なやっちゃなー。俺の顔のどこが怖いっていうんじゃい」%K%P
+Takeshi「That's kind of rude. What's so scary about my face?」%K%P
+0x1F98
+少年「今は違うけど、さっきはそうだったんだよ」%K%P
+Kid「It's different now, but before it was scary.」%K%P
+0x1FAC
+武「ほー。んじゃ、どれだけ怖かったのか、見せてみ」%K%P
+Takeshi「Then how about you show me how scary it was?」%K%P
+0x1FB8
+少年「え？　えっと、えと……」%K%P
+Kid「Huh? Uh... Um...」%K%P
+0x1FC4
+少年「確か、こーんな顔して……モニター睨んで……」%K%P
+Kid「I think your face was kind of like this... Glaring at the monitor...」%K%P
+0x1FD0
+ぼくは先ほどの武を再現しようと、人差し指で両目をつり上げて見せた。%K%P
+I tried to mimic how Takeshi had looked by using my fingers to pull up both of my eyes.%K%P
+0x1FE4
+武「ぎゃははは……♪　なんじゃそりゃ～。ぜんっぜん怖くねーよ」%K%P
+Takeshi「GAHAHAHA... That? That's not scary at all.」%K%P
+0x1FF0
+少年「ご、ごまかさないでよ！」%K%P
+Kid「Don't try to pretend it was nothing!」%K%P
+0x1FFC
+武「ああ、すまんすまん。俺はな……」%K%P
+Takeshi「Oh, sorry, sorry. I...」%K%P
+0x2010
+武「……お前さんを、捜してたんだよ」%K%P
+Takeshi「...I was looking for you, my dear.」%K%P
+0x201C
+少年「……ぼく、を？」%K%P
+Kid「For me?」%K%P
+0x2028
+武「おう。お前さん、いつまでたっても来ないからな。館内放送で呼び出してやろうかと思って」%K%P
+Takeshi「Because you never showed up. I thought I'd call you on the complex intercom system.」%K%P
+0x2034
+少年「へ？」%K%P
+Kid「Huh?」%K%P
+0x2040
+武「ひょっとしたら、どこかで迷子になって、びーびー泣いてるんじゃないかと……」%K%P
+Takeshi「I figured you were probably lost somewhere and crying yourself silly...」%K%P
+0x204C
+少年「何言ってるんだよ。それはぼくのセリフだって！」%K%P
+Kid「What are you talking about? I was about to say the same thing to you!」%K%P
+0x2058
+少年「武、待ち合わせの時間にいなかったじゃないか。今の今まで、どこに行ってたのさ！」%K%P
+Kid「You weren't here at the time we set up. Where have you been until now?」%K%P
+0x206C
+武「ばっきゃろー！　そん時、いなかったのはお前だろ？　思いっきり遅刻しやがったくせにっ」%K%P
+Takeshi「Stupid! You're the one that wasn't here, right? You're totally late.」%K%P
+0x2078
+少年「うっ……。それは……謝るよ。で、でも、もう少し待っててくれたっていいじゃないか」%K%P
+Kid「Oh... Sorry... about that. B-but you could have waited a little longer.」%K%P
+0x208C
+武「俺は忙しいんだ。お前のことだけ、かまってるわけにはいかねーんだよ」%K%P
+Takeshi「Hey, I'm a busy guy. I'm not here to look after you.」%K%P
+0x2098
+少年「忙しい？　……武が？？」%K%P
+Kid「Busy...? You?」%K%P
+0x20A4
+武「そう。俺は多忙なんだ」%K%P
+Takeshi「Yup. I'm horribly busy.」%K%P
+0x20B0
+少年「嘘つけ。数十分前まで、ぼくと一緒にヒマを持て余してたくせに」%K%P
+Kid「Liar. Until a while ago, we were wasting time together.」%K%P
+0x20C4
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x20D0
+少年「…………」%K%P
+Kid「.........」%K%P
+0x20DC
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x20E8
+少年「……………………」%K%P
+Kid「..............」%K%P
+0x20FC
+武「……なあ？」%K%P
+Takeshi「...Hey.」%K%P
+0x2108
+少年「？」%K%P
+Kid「?」%K%P
+0x2114
+武「もう止めないか？　こんな実のない口論」%K%P
+Takeshi「Can we stop this meaningless conversation?」%K%P
+0x2120
+少年「う、うん。そうだね……なんだか、バカバカしいや」%K%P
+Kid「Y-yeah. It is kind of stupid.」%K%P
+0x2134
+武「だろ？」%K%P
+Takeshi「Isn't it?」%K%P
+0x2140
+ぼくらは苦笑を浮かべ合った。%K%P
+We both laughed wryly.%K%P
+0x214C
+それだけで、途端に辺りの空気は、ふわりと緩んでいった。%K%P
+That dissolved any tension that was in the atmosphere.%K%P
+0x2158
+なぜだろうか……。%K%P
+I didn't get it...%K%P
+0x2164
+ぼくは彼を、いつの間にか、とても身近に感じていた。%K%P
+But at some point, I had begun to feel comfortable with him.%K%P
+0x2170
+例えるなら……ぼくと同じ匂いがする、というか……。%K%P
+I thought there was something about him... Something like me, maybe...%K%P
+0x2184
+武「ところで、どうよ？　何か思い出せてきたかね？」%K%P
+Takeshi「So how's your condition coming along? Any changes?」%K%P
+0x2190
+そう言って、武は椅子に腰を下ろした。%K%P
+Saying that, Takeshi sat down in a chair.%K%P
+0x219C
+彼の視線が、ぼくの目と同じ高さになる。%K%P
+His eyes were at the same height as mine.%K%P
+0x21A8
+少年「何か、って……ぼくの記憶のこと？」%K%P
+Kid「Any changes... You mean my memory?」%K%P
+0x21B4
+頷く武。%K%P
+Takeshi nodded.%K%P
+0x21C0
+ぼくは首を横に振った。%K%P
+I shook my head.%K%P
+0x21D4
+武「そっかぁ」%K%P
+Takeshi「I see.」%K%P
+0x21E8
+武「でもまあ、焦るなや。空も言ってたけど、記憶喪失ってのは、ほんの些細なキッカケで、突然治ったりするもんだ」%K%P
+Takeshi「Well, don't force it. It's like Sora said. Memory loss can be totally cured with no warning.」%K%P
+0x21F4
+少年「人ごとだと思って……」%K%P
+Kid「Easy for you to say. It's not your problem...」%K%P
+0x2208
+武「人ごとだからな」%K%P
+Takeshi「Sure. It's not my problem.」%K%P
+0x2214
+少年「それになんだか、まるで見てきたような口ぶりだね」%K%P
+Kid「You say it like you've seen it happen.」%K%P
+0x2228
+武「まあな。なにせ俺様は『ゼンチゼンノウ』だからよ」%K%P
+Takeshi「Well, I've been around the block a few times.」%K%P
+0x2234
+少年「はいはい……言ってなさい」%K%P
+Kid「Sure, sure... Tell me about it.」%K%P
+0x2240
+呆れて、強く突っ込む気にもなれない。%K%P
+I didn't feel like prying.%K%P
+0x2254
+武「まあ、とりあえず、だ……。まずは手近なところから思い出していったらどうだ？」%K%P
+Takeshi「Well, for now... why don't you just try to remember things, starting with stuff familiar to you?」%K%P
+0x2260
+武「んー、そうだな……誕生日、とか……」%K%P
+Takeshi「Yeah, things like your birthday...」%K%P
+0x226C
+（ぼくの、誕生日……）%K%P
+(My birthday...)%K%P
+0x2278
+少年「…………」%K%P
+Kid「.........」%K%P
+0x228C
+武「ん？　どうした？」%K%P
+Takeshi「Huh? What's wrong?」%K%P
+0x2298
+少年「ねえ？　今は何年なの？」%K%P
+Kid「Hey, what year is it?」%K%P
+0x22AC
+武「おまえ、そんなことも忘れちゃったのか？」%K%P
+Takeshi「You forgot that, too?」%K%P
+0x22B8
+少年「うん……」%K%P
+Kid「Yeah...」%K%P
+0x22CC
+武「今年はなぁ、西暦２０……」%K%P
+Takeshi「It's 20...」%K%P
+0x22E0
+武「……えーっと、何年だっけ？」%K%P
+Takeshi「...Uh, what year IS it?」%K%P
+0x22EC
+そう言って、武はポケットからチケットの半券を取り出し……%K%P
+Saying that, Takeshi fished his entrance ticket stub from his pocket...%K%P
+0x2300
+武「ああ、そうそう」%K%P
+Takeshi「Oh, that's right.」%K%P
+0x230C
+武「２０１７年だ！」%K%P
+Takeshi「It's 2017.」%K%P
+0x2318
+武は半券をクシャっと丸めると、再びポケットに仕舞い込んだ。%K%P
+Takeshi crumpled the stub back up and pushed it back into his pocket.%K%P
+0x2324
+少年「２０１７年……」%K%P
+Kid「2017...」%K%P
+0x2338
+武「それが、どうかしたのか？」%K%P
+Takeshi「Is there something up with that?」%K%P
+0x2344
+少年「ううん、ちょっと」%K%P
+Kid「Yeah, kind of.」%K%P
+0x2358
+武「ちょっと？」%K%P
+Takeshi「Kind of?」%K%P
+0x2364
+少年「年を聞いたら、生年月日ぐらいは思い出すんじゃないかと思って」%K%P
+Kid「I thought that if I heard the year, then I might be able to remember at least my birthday.」%K%P
+0x2370
+武「そうか、そう言えばおまえ、自分の年齢もわからないんだったよな？」%K%P
+Takeshi「I see. Come to think of it, you don't even know how old you are, huh?」%K%P
+0x237C
+少年「うん……」%K%P
+Kid「No...」%K%P
+0x2390
+武「見た感じだと、４２歳厄年ってところかな？」%K%P
+Takeshi「By the looks of it, I'd say you're not a day over 42.」%K%P
+0x239C
+少年「――えっ！？」%K%P
+Kid「What!?」%K%P
+0x23B0
+武「はははっ、冗談だよ、冗談！」%K%P
+Takeshi「HAHAHA. I'm kidding! Relax!」%K%P
+0x23C4
+武「そんなわけないだろうが」%K%P
+Takeshi「There's no way.」%K%P
+0x23D0
+武「たぶん、１４、５歳ってとこじゃないかな」%K%P
+Takeshi「You're probably in the neighborhood of fourteen or fifteen.」%K%P
+0x23DC
+武「仮に１８歳だとしたら、かなりの童顔だ」%K%P
+Takeshi「If you're eighteen, then you've got a baby face.」%K%P
+0x23E8
+少年「１４、５才、かぁ……」%K%P
+Kid「Fourteen or fifteen, huh...?」%K%P
+0x23F4
+ぼくは呟いた。%K%P
+I muttered that.%K%P
+0x2408
+武「さてと、俺はもう行くぞ。実は、まだ見回りが終わってねぇんだ」%K%P
+Takeshi「Well, I'm getting out of here. Actually, I haven't finished looking around.」%K%P
+0x2414
+少年「あっ！　ねえ、武！　みんな、今、バラバラになっちゃってるみたいなんだけど……」%K%P
+Kid「Oh hey, Takeshi! It seems like everybody is scattered all over right now...」%K%P
+0x2428
+武「ん？　ああ、そうだな……もう少ししたら、どっかに集合しないとな」%K%P
+Takeshi「Yeah? We'll have to arrange to meet somewhere sooner or later.」%K%P
+0x2434
+少年「やっぱり、会議室がいいんじゃないのかな？」%K%P
+Kid「I think the conference room would be good.」%K%P
+0x2440
+武「わかった。みんなに会ったら、そう伝えとくよ」%K%P
+Takeshi「Got it. If I see the others, then I'll give 'em the word.」%K%P
+0x2454
+武は去って行った。%K%P
+Takeshi left.%K%P
+0x2460
+ぼくも、別の場所へ向かうことにした。%K%P
+I also decided to go somewhere else.%K%P

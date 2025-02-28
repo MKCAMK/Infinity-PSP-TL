@@ -1,0 +1,996 @@
+text area offset and size:
+0x1498
+0x393B
+0x68
+空「あ、倉成さん。どうでしたか、小町さんは？」%K%P
+Sora「Ah, Kuranari-san. What happened? Where is Komachi-san?」%K%P
+0x74
+扉のすぐ外で、空は心配そうに待っていた。%K%P
+Again, Sora was waiting for me. She looked concerned.%K%P
+0x80
+武「あ、ああ……あいつは元気だ。ピンピンしてる」%K%P
+Takeshi「Oh, her? Yeah, she's fine.」%K%P
+0x8C
+武「今のところは、おとなしくしてるよ……」%K%P
+Takeshi「She's pretty quiet...」%K%P
+0x98
+武「しかしそのうち勝手に出歩くかもしれないが、それはこっちの知ったこっちゃないし……」%K%P
+Takeshi「I'm no doctor, but I think she'll be back on her feet soon enough.」%K%P
+0xA4
+武「まぁ、そうそう死にそうにないから、安心していいぞ」%K%P
+Takeshi「Besides, she doesn't look like she's dying... I think we can all relax.」%K%P
+0xB8
+空「え、あ、あのぉ……？」%K%P
+Sora「What, uh, um...?」%K%P
+0xC4
+空は目をしばたいた。%K%P
+Sora simply blinked at me.%K%P
+0xD0
+それから悲しそうに目を細める。%K%P
+And then her eyes narrowed sadly.%K%P
+0xE4
+空「そ、そんな言い方をしてはいけませんよ、倉成さんっ」%K%P
+Sora「Y-you shouldn't talk like that, Kuranari-san.」%K%P
+0xF0
+武「え？」%K%P
+Takeshi「Huh?」%K%P
+0xFC
+空「小町さんは重傷なんです。まだまだ安静にしていないといけないんですよ？」%K%P
+Sora「Komachi-san is very hurt, Kuranari-san. She needs to rest more than anything, alright?」%K%P
+0x108
+武「あっ、その、そう、だったっけ！？」%K%P
+Takeshi「Ah, uh, was that right?」%K%P
+0x114
+忘れるところだった。%K%P
+I had almost forgotten.%K%P
+0x120
+どんなに悪口雑言を吐こうと、つぐみは全治数ヶ月の傷を負っているのだ。%K%P
+No matter how badly she had treated me, Tsugumi would still be bedridden for months recovering.%K%P
+0x12C
+武「そうだな……そうだよな。悪かった。なんか言い方がキツかったな」%K%P
+Takeshi「You're right. I'm sorry. That came out a little harsh.」%K%P
+0x140
+空「倉成さん、小町さんとケンカされたんじゃありませんか？」%K%P
+Sora「You had a fight with Komachi-san, didn't you?」%K%P
+0x14C
+姿勢を正しながら、空は尋ねる。%K%P
+Her body stiffened as she asked.%K%P
+0x158
+武「そんなんじゃねえって」%K%P
+Takeshi「No, I wouldn't say that.」%K%P
+0x164
+武「ただ単に俺があいつに対して、ちょっとガッカリしただけだ」%K%P
+Takeshi「I was just disappointed with her.」%K%P
+0x170
+空「ガッカリ？」%K%P
+Sora「Disappointed?」%K%P
+0x17C
+武「ああ……」%K%P
+Takeshi「Yeah...」%K%P
+0x188
+『つぐみは死にたがっていた』なんて、とても空には伝えられなかった。%K%P
+There was no way I could tell Sora what Tsugumi had just said to me.%K%P
+0x194
+ギリギリで生き長らえてなお、そんなことを言うなんて……信じられなかった。%K%P
+I still couldn't accept that she would say such a thing.%K%P
+0x1A0
+武「それと、他に――」%K%P
+Takeshi「Ah, never mind. Just forget it.」%K%P
+0x1AC
+武「あいつは俺のせいで怪我したわけだし、なんつーか……気が引けて、な」%K%P
+Takeshi「It's just that I guess I'm still upset at myself. It was my fault Tsugumi got hurt.」%K%P
+0x1B8
+武「ほんとに、なんて言ったらいいか、もう、あいつは、あいつはっ、その……ああ、くそぅ！」%K%P
+Takeshi「You know, I just don't know what to say... She can... She can be... Ahh, damn it!」%K%P
+0x1CC
+空「気に病むことなんてありませんよ」%K%P
+Sora「Kuranari-san, please do not worry about it.」%K%P
+0x1D8
+空はにこやかに、静かに言った。%K%P
+Sora smiled softly.%K%P
+0x1F4
+空「怪我は、誰のせいでもないんです」%K%P
+Sora「It was no one's fault that Komachi-san got injured.」%K%P
+0x200
+空「今のＬｅＭＵを取り巻く状況は、誰かひとりのせいではありません」%K%P
+Sora「The situation here at LeMU is not anyone's fault.」%K%P
+0x20C
+空「倉成さんも私に、そう言ってくれたじゃないですか」%K%P
+Sora「It was you who told me that.」%K%P
+0x220
+空「慌てないで……」%K%P
+Sora「Don't worry...」%K%P
+0x22C
+空「傷は、時間が経てば治るはずなんです」%K%P
+Sora「Komachi-san's wound will be fine. She just needs time to heal.」%K%P
+0x238
+空「倉成さん。小町さんがなんとおっしゃっていたか、わかりませんけど――」%K%P
+Sora「Kuranari-san, I am not sure what Komachi-san told you...」%K%P
+0x24C
+空「彼女は、助かったんですから。私は嬉しいです」%K%P
+Sora「...All I know is that you saved her. And for that, I am grateful...」%K%P
+0x258
+空「小町さんが無事、助かって……嬉しく思ってます……」%K%P
+Sora「...I am just... so happy... that she was saved.」%K%P
+0x264
+空は朗らかな笑みを、俺に向けた。%K%P
+Sora produced a bright smile.%K%P
+0x270
+武「ああ……そうだよな。喜んでいいんだよな」%K%P
+Takeshi「Ahhh... Yeah, I suppose. I suppose I should be happy, huh?」%K%P
+0x27C
+武「そっかぁ、はははっ……」%K%P
+Takeshi「Yeah... Hahaha...」%K%P
+0x288
+俺の顔も空につられて、なんだかほころんでしまった。%K%P
+I couldn't help but laugh along with her. It broke the tension.%K%P
+0x294
+恥ずかしくなって鼻の頭を掻く。%K%P
+I embarrassedly scratched the tip of my nose.%K%P
+0x2A0
+武「つぐみの奴、なんだかちょっと機嫌が悪かったからさぁ」%K%P
+Takeshi「You know, Tsugumi was in a really bad mood for some reason.」%K%P
+0x2AC
+武「でも、俺の顔が気に入らなかっただけかもな」%K%P
+Takeshi「Maybe she just didn't want to see my face.」%K%P
+0x2B8
+武「ＯＫ、ＯＫ……そうだよな」%K%P
+Takeshi「Okay, okay... that was probably it.」%K%P
+0x2C4
+大怪我して、大手術の後で……。%K%P
+First she got hurt, then the operation...%K%P
+0x2D0
+そのせいであいつはひどく、気が立っていた……。%K%P
+She must have been upset about that...%K%P
+0x2DC
+たったそれだけのことかもしれない。%K%P
+Maybe that was all there was to it.%K%P
+0x2E8
+そうでないとしても……いつまでも引きずってはいたくなかった。%K%P
+Even if it wasn't that... I didn't want things to drag on forever.%K%P
+0x2F4
+つぐみは助かったし、これから傷は治る。%K%P
+I had helped Tsugumi, and she was recovering. It was as simple as that.%K%P
+0x300
+それでいいと思う。%K%P
+I was happy with that.%K%P
+0x30C
+この空の、笑顔の前では……。%K%P
+And there was Sora, smiling in front of me...%K%P
+0x318
+武「そうだ空、これから時間空いてるか？」%K%P
+Takeshi「Hey, Sora, are you busy right now?」%K%P
+0x32C
+空「え？　ええ、平気です、けど……？」%K%P
+Sora「What? No, not really, but...」%K%P
+0x340
+空「倉成さん、お休みにならなくてもいいんですか？」%K%P
+Sora「Kuranari-san, are you sure you do not need more rest?」%K%P
+0x34C
+武「いいって。元々、眠れないから散歩しようと思ってたんだ」%K%P
+Takeshi「No, I'm fine. I already tried to sleep, but I couldn't, which is why I went for a walk.」%K%P
+0x358
+武「カルセル・デルフィーネに行こう。少し話、しようか」%K%P
+Takeshi「Let's make our way over to the Dolphin Carousel. We can talk.」%K%P
+0x364
+俺は空に向かってそっと手を差し出す。%K%P
+I turned to her and slowly reached out my open hand.%K%P
+0x370
+空「はいっ」%K%P
+Sora「Right!」%K%P
+0x37C
+空は俺の手の位置に、ちょこんと自分の手を添えた。%K%P
+Sora brought her hand up and placed it on mine.%K%P
+0x400
+そして……。%K%P
+And then...%K%P
+0x414
+俺達はイルカに乗っていた。%K%P
+...We were off, riding the dolphins on the carousel.%K%P
+0x420
+空はカルセル・デルフィーネのスイッチを入れると、イルカにふわりとまたがった。%K%P
+Sora turned on the power to the carousel and got on before quickly taking off.%K%P
+0x42C
+俺も隣のイルカにしがみついた。%K%P
+I rode on the dolphin next to her.%K%P
+0x438
+イルカは電飾を賑わせながら、同じ所をどこまでも廻る。%K%P
+The ride pulsated with vibrant colors as it revolved around the space.%K%P
+0x444
+こんなものに乗るのはガキの頃以来だったが、抵抗はなかった。%K%P
+I hadn't ridden a carousel since my childhood, but I didn't feel strange about it.%K%P
+0x450
+むしろ、楽しかった。%K%P
+In fact, it was fun.%K%P
+0x45C
+なんだかとても、心は躍った。%K%P
+My heart skipped a few beats.%K%P
+0x468
+武「さっきは、ありがとうな」%K%P
+Takeshi「Thank you.」%K%P
+0x474
+空「え？」%K%P
+Sora「I'm sorry?」%K%P
+0x480
+武「なんかさ、空にフォローしてもらった気がする」%K%P
+Takeshi「Thank you, Sora, for your help.」%K%P
+0x48C
+空「フォロー？　そうですか……？」%K%P
+Sora「My help...?」%K%P
+0x498
+武「ああ。だから、ありがとうな」%K%P
+Takeshi「Just keep it at that―thank you.」%K%P
+0x4AC
+空「いえ、そんな……私のほうこそ、いろいろ倉成さんにお世話になってますし」%K%P
+Sora「No, no, I... I should be the one thanking you. You have helped me so much.」%K%P
+0x4B8
+空「それに、小町さんにも、田中さんにも……ココちゃんに、少年さん……皆さんに感謝しています」%K%P
+Sora「Komachi-san, Tanaka-san, Coco-chan, Kid-san... I am indebted to everyone.」%K%P
+0x4C4
+武「感謝？」%K%P
+Takeshi「Indebted?」%K%P
+0x4D0
+空「私はここ数日で――」%K%P
+Sora「Lately, I have felt...」%K%P
+0x4DC
+空「人が生きるということに、改めて触れている気がしているんです」%K%P
+Sora「I feel like I've gained a new perspective on human life.」%K%P
+0x4E8
+空「みんな、諦めないで、立ち向かって、工夫して」%K%P
+Sora「Everyone holds their ground. They fight and try to figure out ways to survive.」%K%P
+0x4F4
+空「これまでＬｅＭＵの業務の中では、私はそんな人達の行いに、ほとんど触れたことがありませんでした」%K%P
+Sora「In all the time that I have spent here at LeMU, I have not ever really been with people.」%K%P
+0x500
+武「うん……」%K%P
+Takeshi「Yeah...」%K%P
+0x514
+空「もしも、ですけど……」%K%P
+Sora「It was...」%K%P
+0x520
+空「もしも、ここに何も起きず、いつもと変わりない光景が繰り返されていたとしたら……」%K%P
+Sora「...This microcosm, day after day of the same scenery. Nothing changed, nothing happened.」%K%P
+0x52C
+空「人々が本当にそこに生きているということに、私はずっと気づかなかったのかもしれません」%K%P
+Sora「I did not care what happened to the people here.」%K%P
+0x538
+空「だから私は、この機会と出会いに感謝したい」%K%P
+Sora「But now, I am grateful I have met with this opportunity.」%K%P
+0x544
+空「今、この瞬間も……」%K%P
+Sora「And I am happy that even at this moment...」%K%P
+0x550
+空「このような閉塞的な状況にあっても、みんな、生きていこうって」%K%P
+Sora「Despite what happened and this dour situation, people are still striving to live.」%K%P
+0x55C
+空「明日を信じて、生きているんですよね……」%K%P
+Sora「Come on, everybody! Believe in tomorrow so you can live today...」%K%P
+0x568
+武「そうだな……」%K%P
+Takeshi「Yeah...」%K%P
+0x57C
+空「ああっ、すいませんっ」%K%P
+Sora「Oh, I'm sorry.」%K%P
+0x588
+空はそこで、ちょっと肩をすくめた。%K%P
+Sora shrugged, embarrassed.%K%P
+0x594
+空「私、また不謹慎なことばかり言ってしまって……」%K%P
+Sora「I am always saying things I should not. I didn't mean to gush...」%K%P
+0x5A0
+空「ごめんなさい、本当に。デリカシーが欠けてますよね、私……」%K%P
+Sora「I'm sorry. Really. It was really lacking refinement... I...」%K%P
+0x5AC
+武「いやいや、いいんだよ」%K%P
+Takeshi「No, no. It's fine.」%K%P
+0x5B8
+俺は笑って手を振った。%K%P
+I laughed it off, waving my hand to show her it didn't matter.%K%P
+0x5C4
+武「そもそも空は、お客のいないＬｅＭＵを見たことなかったわけだからさ」%K%P
+Takeshi「You never saw LeMU when it was empty.」%K%P
+0x5D0
+武「ずっとＬｅＭＵの中にいて、ＬｅＭＵの仕事だけやってきたんだから」%K%P
+Takeshi「From the time you came to LeMU and started working, there have always been people.」%K%P
+0x5DC
+武「それ以外のことを知らなかったり、戸惑ったり、間違えたりしても不思議じゃない……そりゃ当然だろ」%K%P
+Takeshi「It's natural that there were things you didn't know, that you had doubts, and made mistakes...」%K%P
+0x5E8
+空「確かに、そうなんですけどね……」%K%P
+Sora「I suppose you are right...」%K%P
+0x5F4
+武「気にするなって」%K%P
+Takeshi「So don't worry about it.」%K%P
+0x600
+空「皆さんの脱出経路を、きちんと確保できればいいんですけど。通信系の回復だって……」%K%P
+Sora「It would be great if we could ensure that everybody has an escape route, but even the communications are still...」%K%P
+0x60C
+武「いいんだってば。それが難しいってことは、もうわかってる。無理難題は言わないよ」%K%P
+Takeshi「That's alright. I know it's difficult. We're not expecting the impossible.」%K%P
+0x618
+武「安全に外に出る手段も、見つかってないわけだし……」%K%P
+Takeshi「We haven't even found a safe route out of here...」%K%P
+0x624
+武「俺達が下手な考えで動き回るより、助けを待ったほうが賢明だ。そうだろ？」%K%P
+Takeshi「Rather than us looking for an escape route haphazardly, I think it would be best to wait for help.」%K%P
+0x630
+空「ええ……そうですね」%K%P
+Sora「Yes... I think you are right.」%K%P
+0x63C
+空は軽く息をついてから、俺に微笑みを返す。%K%P
+Sora let out a soft sigh and smiled.%K%P
+0x650
+空「そうだ、倉成さん。ここから脱出できたら、まず何がしたいですか？」%K%P
+Sora「Tell me, Kuranari-san, after you escape from here, what's the first thing you want to do?」%K%P
+0x65C
+武「そうだなぁ……」%K%P
+Takeshi「Hmmm...」%K%P
+0x668
+武「ひとまず、売店のサンド以外のものが食べたいな」%K%P
+Takeshi「Well, I know that I want to eat something other than a kiosk sandwich.」%K%P
+0x674
+武「俺の住んでるとこの近所に、美味い定食屋があるんだ」%K%P
+Takeshi「There's a great restaurant close to my home.」%K%P
+0x680
+武「そこのおばちゃんが、すごく人なつっこくてさぁ」%K%P
+Takeshi「It's run by a nice old lady. She gets along with everybody.」%K%P
+0x68C
+武「昔の、クラシックカーみたいな、まん丸い目と顔してて……」%K%P
+Takeshi「She's got a round face kind of like a classic car...」%K%P
+0x698
+空「クラシックカー……」%K%P
+Sora「A classic car...」%K%P
+0x6A4
+空「ビートル、でしょうか？」%K%P
+Sora「Do you mean like a Beetle?」%K%P
+0x6B0
+武「おっ、そうそう、ビートル」%K%P
+Takeshi「Right, right. Just like that Beetle.」%K%P
+0x6BC
+武「そのビートルおばちゃんの作った味噌煮込みうどんが、これまた絶品で……」%K%P
+Takeshi「That Aunt Beetle makes a mean bowl of miso ramen.」%K%P
+0x6C8
+武「今頃、何してんのかなぁ、おばちゃん」%K%P
+Takeshi「I wonder how she's doing right now.」%K%P
+0x6D4
+空「ふふっ……なんだかおかしいです」%K%P
+Sora「Hahaha... You are funny.」%K%P
+0x6E0
+空「ここを出て、最初に逢いたい人が、そのおばちゃんなんですか？」%K%P
+Sora「You get out of this place, and the first person you want to see is an old woman.」%K%P
+0x6EC
+武「ああ。変かな？」%K%P
+Takeshi「Oh? Is that weird?」%K%P
+0x700
+空「いえ……その」%K%P
+Sora「No... Not really.」%K%P
+0x70C
+空「倉成さん……お付き合いをしている女性とか、いらっしゃらないのですか？」%K%p
+Sora「Isn't there a girl waiting for you back home?」%K%p
+0x1458
+いる
+Yes
+0x1464
+いない
+No
+0x74C
+武「いることはいるけど……」%K%P
+Takeshi「I guess you could say that...」%K%P
+0x758
+武「いや、『いた』って言うべきかな」%K%P
+Takeshi「Well, I guess you could say there WAS one...」%K%P
+0x764
+武「なんだか、こんなとこに閉じ込められちゃうと、まるで外のことが、夢みたいに思えて」%K%P
+Takeshi「But being trapped here makes all that seem like another time, another place.」%K%P
+0x770
+武「つまり、現実から遠いんだよな」%K%P
+Takeshi「More like a dream than reality.」%K%P
+0x77C
+武「今は、どうすれば生き延びられるのか、そのことを考えるだけで精一杯でさ」%K%P
+Takeshi「My reality here is consumed by how to survive this whole mess.」%K%P
+0x790
+武「うん……今は、いないかな」%K%P
+Takeshi「So yeah... To answer your question, no one is waiting for me out there.」%K%P
+0x79C
+武「だいぶ前に別れたんだ」%K%P
+Takeshi「We broke up a long time ago.」%K%P
+0x7A8
+武「綺麗サッパリ、ね」%K%P
+Takeshi「And it was a clean break, if you know what I mean.」%K%P
+0x7B4
+空「そうですか。では倉成さんは、恋をなさったことがあるのですね」%K%P
+Sora「I see. You've been in love before.」%K%P
+0x7C0
+武「『なさった』とか言われると、なんか壮大なスケールっぽい感じだなぁ……俺はそこまでは……」%K%P
+Takeshi「I wouldn't put it that way.」%K%P
+0x7CC
+武「うん……でも、そうだな。そんな劇的ってわけじゃないけど」%K%P
+Takeshi「Hmmm... Well, our relationship wasn't your perfect love story...」%K%P
+0x7D8
+武「確かに俺は、恋をしたことがある」%K%P
+Takeshi「...But I have been in love.」%K%P
+0x7EC
+空「ふふっ、素晴らしいです。倉成さん」%K%P
+Sora「Wow, that's great, Kuranari-san.」%K%P
+0x7F8
+空は柔らかく微笑む。%K%P
+Sora smiled slightly.%K%P
+0x804
+武「そんな風に言われると照れるぞ」%K%P
+Takeshi「Hey, stop teasing me. You're making me embarrassed.」%K%P
+0x810
+空「素晴らしいですよ」%K%P
+Sora「But it's really fantastic!」%K%P
+0x81C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x828
+俺はたぶん、茹で立てみたいに赤くなっていた。%K%P
+I was pretty sure my face was as red as a boiled crab by then.%K%P
+0x834
+その自分の姿を想像するに、余計に恥ずかしい……。%K%P
+And imagining it only made it worse, that was for sure...%K%P
+0x848
+空「だって、私は……ないんです」%K%P
+Sora「Well... I've never been...」%K%P
+0x854
+武「え？」%K%P
+Takeshi「What?」%K%P
+0x860
+空「私、したことないんです」%K%P
+Sora「I've never...」%K%P
+0x86C
+武「な、何を？」%K%P
+Takeshi「Never what?」%K%P
+0x878
+空「経験が、ないんです……」%K%P
+Sora「Never had that experience...」%K%P
+0x884
+武「な、何のっ」%K%P
+Takeshi「What experience?」%K%P
+0x890
+空「…………」%K%P
+Sora「.........」%K%P
+0x8A4
+空「恋とは何でしょう？」%K%P
+Sora「What is love?」%K%P
+0x8B0
+空は突然、真面目な顔で言った。%K%P
+Sora suddenly put on a serious face.%K%P
+0x8BC
+空「私は知りたくなりました」%K%P
+Sora「I want to know...」%K%P
+0x8C8
+空「恋とは……何でしょう……」%K%P
+Sora「What... is love?」%K%P
+0x8D4
+空「方法、手段、意味、目的……」%K%P
+Sora「Tell me its how, its method, its meaning, its purpose...」%K%P
+0x8E0
+空「何故、恋をするのでしょうか？」%K%P
+Sora「Why do you love?」%K%P
+0x8EC
+空「どうしたら、恋ができるんでしょうか？」%K%P
+Sora「How does one go about loving?」%K%P
+0x8F8
+空は矢継ぎ早に質問をした。%K%P
+Sora was firing off one question after another...%K%P
+0x904
+なかなか難しい質問であるように、俺には思えた。%K%P
+And they didn't seem to me like easy questions to answer.%K%P
+0x910
+空「倉成さんは、恋の経験者ですよね？」%K%P
+Sora「Kuranari-san, you are someone who has loved.」%K%P
+0x91C
+うっ、そう来たか……。%K%P
+Oh, it was coming...%K%P
+0x928
+空「恋とは、なんなのか……」%K%P
+Sora「What is love...?」%K%P
+0x934
+空「どんなものなのか、説明してはいただけないでしょうか」%K%p
+Sora「Can you explain it and help me understand it?」%K%p
+0x1470
+説明できる
+I can explain it
+0x147C
+説明できない
+I can't explain it
+0x974
+武「よーしわかった、説明しよう！！」%K%P
+Takeshi「Alright, here comes an explanation!」%K%P
+0x980
+俺は安請け合いしてしまう。%K%P
+I agreed to give explaining it a shot.%K%P
+0x98C
+武「ずばり！　鯉とはっ」%K%P
+Takeshi「Okay! Love is when someone gets hooked―」%K%P
+0x9A0
+空「『池の魚』というオチは禁止です……」%K%P
+Sora「You'd better not be preparing a punch line about fish...」%K%P
+0x9AC
+武「なにっ！　先手を打たれたぞ！」%K%P
+Takeshi「What!? Am I that transparent!?」%K%P
+0x9B8
+空「そのくらいのネタはお見通しです。使い古されてますから」%K%P
+Sora「I only want an answer to the question, not a predictable joke.」%K%P
+0x9C4
+武「なかなか手ごわいな……うむ……」%K%P
+Takeshi「You're pretty hard to please... Hmmm...」%K%P
+0x9D0
+俺は深呼吸した。%K%P
+I took a deep breath.%K%P
+0x9DC
+武「では改めて！」%K%P
+Takeshi「Let's try this again!」%K%P
+0x9E8
+武「ずばり！　濃いとはっ！」%K%P
+Takeshi「Okay! Love is like a box of dark chocolates―」%K%P
+0x9F4
+空「『薄いの反対』というのも、禁止です……」%K%P
+Sora「I thought I said 'no jokes'...」%K%P
+0xA00
+武「なにっ！　一度ならず二度までも！！」%K%P
+Takeshi「What!? You got me the second time too!?」%K%P
+0xA0C
+武「恐るべし、人工知能！」%K%P
+Takeshi「Artificial intelligence, how impressive!」%K%P
+0xA18
+空「そのくらいのネタはお見通しです。使い古されてますから」%K%P
+Sora「I only want an answer to the question, not a predictable joke.」%K%P
+0xA24
+武「うぬぬ、では気を取り直して」%K%P
+Takeshi「Alright, get ready...」%K%P
+0xA30
+武「ずばり！　故意とはっ！」%K%P
+Takeshi「Okay! Love can be kind of intense―」%K%P
+0xA44
+空「『わざと』ですか？」%K%P
+Sora「Because it happens with 'intent'?」%K%P
+0xA50
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xA5C
+武「いや、そうではなく」%K%P
+Takeshi「Yes, that's right.」%K%P
+0xA68
+空「『行為の一歩手前』のこと？」%K%P
+Sora「'Intent' as in actively pursuing it, correct?」%K%P
+0xA74
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xA88
+空「あ、えーと……」%K%P
+Sora「Hmmm...」%K%P
+0xA94
+空「データベースにあったから、私はそう答えただけです」%K%P
+Sora「I do not have anything more than that in my database.」%K%P
+0xAA8
+空「倉成さん、そろそろ本題に」%K%P
+Sora「Kuranari-san, can you please answer my original question?」%K%P
+0xAB4
+武「ＯＫ、わかった、もう少しマシな答えを考えよう！」%K%P
+Takeshi「Okay. There's one more meaning for love. Give me a second to explain it.」%K%P
+0xAC0
+武「ああ、考える。考えるぞ、考えるとも……」%K%P
+Takeshi「Think, think, think, think...」%K%P
+0xACC
+武「だから、あと１分だけ、待ってくれないか？」%K%P
+Takeshi「Can you give me a minute to think?」%K%P
+0xAD8
+空「どうぞ」%K%P
+Sora「Yes. One minute.」%K%P
+0xAE4
+俺はゆっくりと深呼吸した。%K%P
+I took a deep breath.%K%P
+0xAF0
+心臓は意味もなく早鐘を打っていた。%K%P
+My heart was pounding.%K%P
+0xB04
+空「１分経ちました」%K%P
+Sora「One minute has expired.」%K%P
+0xB10
+武「え、も、もうっ！？」%K%P
+Takeshi「What? Already!?」%K%P
+0xB1C
+武「すまん、さらに５分待て」%K%P
+Takeshi「Sorry, gimme five more minutes.」%K%P
+0xB28
+武「いや、１０分にしてくれ。いやいや、もうちょっと長いほうが……？」%K%P
+Takeshi「No, no. I need ten minutes. Please? No, no. I need more time. Much more time!」%K%P
+0xB34
+簡単に答えられるもんじゃない。%K%P
+There was just no simple way to explain it to her.%K%P
+0xB48
+空「そうですか……わかりました」%K%P
+Sora「Really...? Fine then.」%K%P
+0xB54
+待ちきれなくなった空は、姿勢を正した。%K%P
+Sora waited impatiently.%K%P
+0xB68
+武「ええっと、そうだなぁ～～～～～～～」%K%P
+Takeshi「Ummmm... Let's see...」%K%P
+0xB74
+空「はい」%K%P
+Sora「Yes?」%K%P
+0xB80
+俺はとりあえず相槌を打ち、語尾を可能な限り引き延ばしながら考えた。%K%P
+I tried to buy myself time by lengthening sounds, as if I had an answer on the tip of my tongue.%K%P
+0xB8C
+武「ぁ～～～～～～～～～～～～～～～～」%K%P
+Takeshi「Uhhhhhhhhh...」%K%P
+0xB98
+恋。%K%P
+Love.%K%P
+0xBA4
+それは何だ？%K%P
+What was love?%K%P
+0xBB0
+これまで、深く考えたことはなかった。%K%P
+I've never really thought that seriously about it.%K%P
+0xBBC
+他に置き換えられる言葉があるだろうか？%K%P
+Wasn't there some other way I could describe it?%K%P
+0xBC8
+武「ぁ～～～～～～～～～～～～～～～～」%K%P
+Takeshi「Uhhhhhhhhh...」%K%P
+0xBD4
+いや、考えよう！%K%P
+No, I had to think!%K%P
+0xBE0
+考えてみよう！%K%P
+I had to think about it!%K%P
+0xBEC
+恋とはどういうものなのか！%K%P
+What was love!?%K%P
+0xBF8
+武「ぁ～～～～～～～～～～～～～～～～」%K%P
+Takeshi「Uhhhhhhhhh...」%K%P
+0xC04
+体験したことのない者にどう伝えたらいいのか……！%K%P
+How could I explain love to someone who had never experienced it?%K%P
+0xC10
+恋とは……。%K%P
+Love...%K%P
+0xC1C
+ああ、恋とは、なんぞや……。%K%P
+What is love...?%K%P
+0xC28
+武「ぁ～～～～～～～～～～～～～～～～」%K%P
+Takeshi「Uhhhhhhhhh...」%K%P
+0xC34
+武「ぁ～～～～～～～～～～ぁ゛ぁ゛ぁ゛」%K%P
+Takeshi「Uhhhhhhhhh... uh, uh, uh...」%K%P
+0xC40
+ダメだ。%K%P
+Damn.%K%P
+0xC4C
+もう息が続かんっっ……。%K%P
+I was running out of air...%K%P
+0xC58
+武「～～～っん」%K%P
+Takeshi「Wellllllll...」%K%P
+0xC64
+俺は諦めた。%K%P
+I gave up.%K%P
+0xC70
+諦めて、それ以上語尾を延ばすのをやめた。%K%P
+No more air left.%K%P
+0xC7C
+武「……ゼェゼェハァハァ」%K%P
+Takeshi「*Pant*... *pant*...」%K%P
+0xC90
+空「？？」%K%P
+Sora「?」%K%P
+0xC9C
+考えようにも酸欠で、それ以上頭が働かなかった。%K%P
+My brain couldn't work properly with such little oxygen.%K%P
+0xCA8
+武「……ゼェゼェハァハァ」%K%P
+Takeshi「*Pant*... *pant*...」%K%P
+0xCB4
+空「どうなさったんですか、倉成さん……？」%K%P
+Sora「What's the matter, Kuranari-san?」%K%P
+0xCC0
+俺の心臓は意味もなく早鐘を打っていた。%K%P
+For no reason, my heart started beating wildly again.%K%P
+0xCD4
+空「あまり無理をしないでくださいね。身体を壊してしまいますよ」%K%P
+Sora「Don't try too hard, Kuranari-san. You're falling apart.」%K%P
+0xCE0
+空は、姿勢を正した。%K%P
+Sora stood up straight.%K%P
+0xCEC
+空「では、そうですね。自答してみましょう」%K%P
+Sora「Alright. I will try to answer my own question.」%K%P
+0xCF8
+空「私は、私なりの見解を述べます……」%K%P
+Sora「Let me express my notion of 'love'.」%K%P
+0xD04
+かしこまって、空は語り始める。%K%P
+Sora began to speak.%K%P
+0xD10
+空「私はこう、仮定します……」%K%P
+Sora「Let us imagine a flower...」%K%P
+0xD1C
+空「花々は、恋をしますか？」%K%P
+Sora「...Can a flower love?」%K%P
+0xD28
+空「しないような気がします」%K%P
+Sora「It seems to me it cannot.」%K%P
+0xD34
+空「少なくとも人間の目からは、理解できる恋の行動は見られないようです」%K%P
+Sora「At least from the perspective of human beings, flowers don't act in any way that can be viewed as love.」%K%P
+0xD40
+空「動物達は、恋をしますか？」%K%P
+Sora「What about animals? Do they love?」%K%P
+0xD4C
+空「するかもしれませんし、しないかもしれません」%K%P
+Sora「They may love, they may not.」%K%P
+0xD58
+空「恋であるように見える行動が、ある種の動物にはあります」%K%P
+Sora「Some animals seem to act out of love. We have observed this to an extent.」%K%P
+0xD64
+空「しかしその真意はわかりません……」%K%P
+Sora「But perhaps animals do not understand the true meaning of love.」%K%P
+0xD70
+空「人間で言うところの恋と同義であるかどうかは、不明です」%K%P
+Sora「It's unclear whether it is the same as the human definition of love.」%K%P
+0xD7C
+空「人間は、恋をしますか？」%K%P
+Sora「Do humans love?」%K%P
+0xD88
+空「はい。人は恋します」%K%P
+Sora「Yes, I believe so.」%K%P
+0xD94
+空「恋、それは――」%K%P
+Sora「Love is...」%K%P
+0xDA0
+空「つまり、人に備わった不可思議な機能なのです」%K%P
+Sora「Love is one of those mysterious things that people are programmed to do.」%K%P
+0xDAC
+空「人間が生殖を行なう上でのひとつの機能であり……」%K%P
+Sora「One of its functions is reproduction...」%K%P
+0xDB8
+空「それでいて、生殖そのものからは独立したものであるところのっ」%K%P
+Sora「...But that appears to be a function independent of love.」%K%P
+0xDC4
+武「ストップ！」%K%P
+Takeshi「Stop!」%K%P
+0xDD0
+話し続ける空の口を、俺は手の平で塞いだ。%K%P
+But Sora continued to speak, so I cupped my hand over her mouth.%K%P
+0xDDC
+空「…………？？」%K%P
+Sora「...?」%K%P
+0xDE8
+手の平に、唇の感触はない。%K%P
+I put my hand over her mouth, but I couldn't feel her lips.%K%P
+0xDFC
+武「まぁ、まぁ、待て、落ち着け」%K%P
+Takeshi「Hey, hey! Hold up. Slow down!」%K%P
+0xE08
+そこに温もりは、あるのだろうか。%K%P
+I couldn't tell if her lips were warm or not.%K%P
+0xE14
+空「…………」%K%P
+Sora「.........」%K%P
+0xE20
+それは、そこにないようで、しかし、そこにあるように感じられた。%K%P
+It somehow felt as if something were there, but then again, maybe it was my imagination.%K%P
+0xE2C
+俺はその暖かさを確かめようとした。%K%P
+I felt, trying to see if there was some sort of warm feeling.%K%P
+0xE38
+武「そうだな……俺の見解を言おう」%K%P
+Takeshi「Let's see... Let me tell you what I think.」%K%P
+0xE44
+武「薔薇は何故咲こうとする……？」%K%P
+Takeshi「Why does a rose bloom?」%K%P
+0xE50
+武「カナリアは何の為に唄うのか……？」%K%P
+Takeshi「Why does a canary sing?」%K%P
+0xE5C
+空「…………」%K%P
+Sora「.........」%K%P
+0xE68
+目を瞬きながら空は、俺のことをじっと見つめた。%K%P
+Sora just stood there, blinking at me.%K%P
+0xE74
+その瞳は、俺のことだけを見ていた。%K%P
+Her eyes were fixed on me.%K%P
+0xE80
+武「恋は理屈じゃないんだ」%K%P
+Takeshi「Love is not rational.」%K%P
+0xE8C
+武「意味を求めるようなことでもない」%K%P
+Takeshi「It's not something you try to explain through logic.」%K%P
+0xE98
+武「心の奥底でひっそりと芽生え、すくすくと育ち、やがて花を咲かせる」%K%P
+Takeshi「It's something that is planted in the depths of your heart and steadily blossoms into something beautiful.」%K%P
+0xEA4
+武「何かの間違いで、花は散ってしまうかもしれないし、枯れ果ててしまうかもしれない」%K%P
+Takeshi「If something goes wrong, the flower might wilt and die.」%K%P
+0xEB0
+武「しかしうまく行けば、実を結ぶこともできる」%K%P
+Takeshi「But if the love is true, it may bear amazing fruit.」%K%P
+0xEBC
+武「それら一連の過程に理由なんかない」%K%P
+Takeshi「There is no rhyme nor reason to the process of love.」%K%P
+0xEC8
+武「意味を見つけたところで、自ら制御できるような単純な感情でもない」%K%P
+Takeshi「Even if you do find reason in it, love isn't an emotion that you can control easily.」%K%P
+0xED4
+武「恋は、眠りから醒めるように訪れる」%K%P
+Takeshi「Love is something that visits like wakefulness after a slumber.」%K%P
+0xEE0
+武「目覚めの目的が、その日、１日の活動の為にあるとするならば」%K%P
+Takeshi「Just as we awaken in the morning to begin our day...」%K%P
+0xEEC
+武「恋の目的は、その人の一生、人生の為にあると思う」%K%P
+Takeshi「...We are put on this earth for the purpose of love.」%K%P
+0xEF8
+武「生きるとは、恋することだ」%K%P
+Takeshi「To live is to love.」%K%P
+0xF04
+武「恋の意味を問うことは、人生の意味を問うことに等しい」%K%P
+Takeshi「To ask what is the meaning of love is to ask what is the meaning of life.」%K%P
+0xF10
+ゆっくりと、空の唇から手を退けた。%K%P
+I slowly removed my hand from her lips.%K%P
+0xF1C
+俺の手の平は僅かに汗ばみ、火照っていた。%K%P
+My hand was slightly sweaty and warm.%K%P
+0xF30
+武「……なんてのは、どうよ？」%K%P
+Takeshi「Sora, what do you think of my explanation?」%K%P
+0xF3C
+武「どっかの受け売りだったかもしれないが、あながち間違いじゃないと思ってる」%K%P
+Takeshi「I might have borrowed bits and pieces from elsewhere, but I don't think it's all wrong.」%K%P
+0xF48
+武「いや……、俺はそう、信じてるよ」%K%P
+Takeshi「No... Actually, I believe it's right.」%K%P
+0xF54
+武「わかるか、空？」%K%P
+Takeshi「Did you understand what I said, Sora?」%K%P
+0xF60
+俺が言うと、空は静かに頷いた。%K%P
+Sora nodded silently.%K%P
+0xF74
+空「薔薇は咲く為に生まれた」%K%P
+Sora「Roses are born to blossom.」%K%P
+0xF80
+空「カナリアは唄う為に生まれた」%K%P
+Sora「Canaries are born to sing.」%K%P
+0xF8C
+空「人は恋する為に生まれた」%K%P
+Sora「Humans are born to love.」%K%P
+0xF98
+空「……そう考えるのは、とても素敵なことですね」%K%P
+Sora「I think that is a beautiful way of thinking.」%K%P
+0xFA4
+空はまた、笑みを浮かべた。%K%P
+A smile appeared on her lips.%K%P
+0xFB0
+空「もし、薔薇に意識があるとしても、薔薇自身は咲く為に生きているとは思っていないでしょう」%K%P
+Sora「However, even if a rose is born to bloom, I don't believe that a rose knows this.」%K%P
+0xFBC
+空「もし、カナリアに意識があるとしても、カナリア自身は唄う為に生きているとは思っていないでしょう」%K%P
+Sora「And I don't believe a canary believes its purpose to sing.」%K%P
+0xFD0
+空「けれど人間から見れば、薔薇の生命の目的は咲くことにのみ存在するかのごとく思えるし……」%K%P
+Sora「But from the eyes of a human, it might appear that the only purpose of a rose is to blossom.」%K%P
+0xFDC
+空「カナリアの一生の目的は、美しく唄うことにのみ存在するように思えてしまう」%K%P
+Sora「Similarly, from the eyes of a human, it might appear that the only purpose of a canary is to sing.」%K%P
+0xFF0
+空「きっと、人間も同じなんですね……」%K%P
+Sora「It would appear that humans are probably the same.」%K%P
+0xFFC
+空「多くの人は、自分が恋する為に生きているとは思っていないでしょう」%K%P
+Sora「I imagine that many people don't believe that they are living for the purpose of loving.」%K%P
+0x1008
+空「けれど、私から見れば……」%K%P
+Sora「But from my perspective...」%K%P
+0x1014
+空「人は恋する為に、ただそれだけの為に、生きているように思えます」%K%P
+Sora「...I believe they are mistaken. It would seem to me that people only live to love.」%K%P
+0x1020
+空「そういうこと、なのかもしれません」%K%P
+Sora「It could be that is how things are.」%K%P
+0x102C
+イルカ達の動きは段々スローになる。%K%P
+The movements of the dolphins gradually began to slow.%K%P
+0x1038
+カルセル・デルフィーネは徐々に回転を遅めていき、そして、音もなく止まった。%K%P
+The music faded to a stop as the Dolphin Carousel continued to slow.%K%P
+0x105C
+武「あれ、これにて終了か……？」%K%P
+Takeshi「Oh? Is this it...?」%K%P
+0x1068
+俺はイルカから足を下ろし、カルセルの回転盤の上に立った。%K%P
+I dismounted the dolphin and stood on the carousel.%K%P
+0x1074
+武「もうちょっと廻っていたかったかな……」%K%P
+Takeshi「I wish we could've ridden just a little bit longer...」%K%P
+0x1080
+武「結構楽しかったな、イルカ。また一緒に乗ろうか」%K%P
+Takeshi「But that was fun. Let's come ride these dolphins again sometime.」%K%P
+0x108C
+武「なかなか有意義な話もできたし……あれ？」%K%P
+Takeshi「That was a pretty deep conversation we just had... Sora?」%K%P
+0x1098
+空「…………」%K%P
+Sora「.........」%K%P
+0x10A4
+イルカの上で、空はじっと動かない。%K%P
+Sora was still riding her dolphin, not moving.%K%P
+0x10B0
+武「どうしたんだよ、空？」%K%P
+Takeshi「What's wrong, Sora?」%K%P
+0x10EC
+空「…………」%K%P
+Sora「.........」%K%P
+0x10F8
+空の視線は、虚空を見上げる。%K%P
+Sora looked up absently.%K%P
+0x110C
+そこには何もない。%K%P
+But there was nothing in the air where she was looking.%K%P
+0x1118
+カルセル・デルフィーネの丸い天井が広がっているだけだった。%K%P
+Only the sprawling, dome-like ceiling of the Dolphin Carousel, extending in all directions.%K%P
+0x1124
+武「空……？」%K%P
+Takeshi「Sora...?」%K%P
+0x1130
+空「ねぇ、倉成さん……」%K%P
+Sora「Hey, Kuranari-san...」%K%P
+0x113C
+空は、何もない空を見上げたまま、言った。%K%P
+Sora was looking up into the empty sky.%K%P
+0x1148
+空「私は何の為に、生まれてきたのでしょうか？」%K%P
+Sora「Why was I created?」%K%P
+0x1154
+空「私が生きていることの目的は、いったい何なのでしょう？」%K%P
+Sora「What is the purpose of my being alive?」%K%P
+0x1160
+曲は鳴り止み、音は消えていた。%K%P
+With the music stopped, the room was quiet.%K%P
+0x116C
+色とりどりの電飾だけが、光を奏でていた。%K%P
+Different colored lights played off of the carousel.%K%P
+0x1178
+イルカの上に、光は少し寂しげな横顔を映した。%K%P
+The light reflected a hint of sadness off of Sora's face.%K%P
+0x1184
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1198
+空「あ、いえ……」%K%P
+Sora「I was just...」%K%P
+0x11A4
+空「ちょっと訊いてみたかっただけです……」%K%P
+Sora「...Curious about it.」%K%P
+0x11B8
+空は何事もなかったように微笑んで、イルカを降り、俺の隣に並ぶ。%K%P
+Sora laughed as if nothing had happened, got off her dolphin, and came up next to me.%K%P
+0x11C4
+俺は答えられなかった。%K%P
+I didn't know what to say.%K%P
+0x11D0
+空の生きる目的とは――？%K%P
+What was her purpose?%K%P
+0x11DC
+その答えを今、ここに見つけられなかった。%K%P
+At that point, I just couldn't find an answer to that question.%K%P
+0x11E8
+ただイルカ達に背を向け、そのまま暗い出口へと歩を進めることしかできなかった。%K%P
+All I could do was turn my back to the dolphins and head toward the dark exit.%K%P
+0x11F4
+そして、俺は天を仰いだ。%K%P
+As I did, I looked skyward.%K%P
+0x1200
+そこにない空の姿を探しながら。%K%P
+Looking for a 'sky' that wasn't there.%K%P

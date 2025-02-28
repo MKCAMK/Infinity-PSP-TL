@@ -1,0 +1,522 @@
+text area offset and size:
+0xF68
+0x1C61
+0x70
+朝食の後はめいめい自由な時間を過ごすことになる。%K%P
+After breakfast, we each had plenty of free time.%K%P
+0x7C
+けれど、特に何をするでもなく……。%K%P
+But there was nothing in particular to do...%K%P
+0x88
+何かしなければならないということもなく……。%K%P
+Nothing that just had to be done...%K%P
+0x94
+俺達はいつしか、憩いの間に集合していた。%K%P
+So, without any reason, we all just ended up gathering in the rest area.%K%P
+0xA0
+花壇の花々は変わらずに咲いている。%K%P
+As always, the vases were filled with blossoming flowers.%K%P
+0xAC
+マーガレット。マリーゴールド。そして薔薇。%K%P
+Marguerites, marigolds, and roses.%K%P
+0xB8
+定期的にスプリンクラーから散水を受けているらしく、花は瑞々しさを保っていた。%K%P
+Apparently, the flowers were watered periodically by mist from the sprinkler system, helping them maintain their freshness.%K%P
+0xC4
+空の姿は見えないが、まだセンサーのデータチェックが終わっていないと言っていたから……%K%P
+I didn't see Sora anywhere, but then again, she did say she hadn't finished checking the sensor data...%K%P
+0xD0
+恐らく、制御室に行ったのだろう。部屋で作業したほうが集中できるようだ。%K%P
+She had probably gone to the control room. It seemed that she could concentrate on performing operations better there.%K%P
+0xE4
+優は先程まで空と話していたが、今は部屋の中央の円形の舞台の上をひとり、ゆっくり廻るように歩いている。%K%P
+You, who had been talking with Sora earlier, was strolling alone around the top of the circular stage in the middle of the room.%K%P
+0x100
+少年とココとピピは、水面を蹴りながら追いかけっこをしている。%K%P
+The Kid, Coco, and Pipi were playfully chasing each other through the water.%K%P
+0x10C
+前にもそんな光景を見たような気がする……。%K%P
+I had a feeling I had seen it all before...%K%P
+0x120
+俺はひとつ伸びをしてから、追いかけっこを続けるココ達を、目で追ってみた。%K%P
+After having a good stretch, I watched Coco and the others play.%K%P
+0x134
+石像の周りを輪になって巡るふたりと１匹。%K%P
+The three of them, two kids and an animal, circled the stone statue.%K%P
+0x140
+誰が鬼なのかは、特に決まっていないようだ。%K%P
+They were playing a game of chase, not really caring who was 'it'.%K%P
+0x14C
+飽きもせずにくるくる、ずっと同じ場所を回り続けている。%K%P
+Without seeming to get bored, they kept running around and around.%K%P
+0x158
+見ているほうが忙しない気分になってくる。%K%P
+On the other hand, I got restless watching them.%K%P
+0x16C
+（やれやれ……）%K%P
+(Phew, what a sight...)%K%P
+0x178
+なかなか楽しそうだが、仲間に入れてくれとは言わなかった。%K%P
+It looked kind of fun, but I didn't quite feel like asking to join in.%K%P
+0x184
+それにしても……つぐみはまだ俺達の前に現れない。%K%P
+And at any rate... Tsugumi had yet to make an appearance that morning.%K%P
+0x190
+売店には一応、サンドをひとつ残しておいた。%K%P
+Just in case, I had left a sandwich for her at the kiosk.%K%P
+0x19C
+（ちゃんと食べてくれるといいんだけどな）%K%P
+(I don't know if she'll actually eat it or not...)%K%P
+0x1A8
+しかし、もし彼女に会ったら、どう声をかければいいだろう？%K%P
+What would I say to her if I met her?%K%P
+0x204
+クラゲのゴンドラに乗って、彼女は俺に秘密を打ち明けた。%K%P
+She had confided her secrets to me on the Jellyfish Gondola.%K%P
+0x210
+ウイルスキャリア。%K%P
+Virus carrier.%K%P
+0x21C
+死なない身体。%K%P
+A body that never died.%K%P
+0x228
+老いることのない身体。%K%P
+A body that never grew old.%K%P
+0x234
+塞がった、傷跡。%K%P
+Her healed scar.%K%P
+0x240
+信じ難いことだが……。%K%P
+It was all so hard to believe...%K%P
+0x24C
+あの告白は事実だったのだろうか？%K%P
+Could such a mind-boggling story even be true?%K%P
+0x258
+俺はまだ、つぐみのことを信じきれずにいた。%K%P
+I was still unable to completely believe her.%K%P
+0x2AC
+なんとなく顔を合わせ辛い。%K%P
+So talking to her again would be awkward.%K%P
+0x2B8
+クラゲのゴンドラに乗って、彼女は言った。%K%P
+She had told me while we were on the Jellyfish Gondola...%K%P
+0x2C4
+『殺してくれ』と……。%K%P
+'Kill me'...%K%P
+0x2D0
+俺にはできなかった。%K%P
+I couldn't.%K%P
+0x2DC
+できるはずもなかった。%K%P
+There was no possible way I could do such a thing.%K%P
+0x2E8
+だが……。%K%P
+But still...%K%P
+0x2F4
+代わりに、とてつもないことをしでかしてしまった気がする……。%K%P
+Why did I feel like I had messed up somehow...?%K%P
+0x300
+あのときの俺はどうかしていた。%K%P
+Something had come over me.%K%P
+0x30C
+どうすることもできなかった……。%K%P
+There was nothing I could do...%K%P
+0x340
+ふと見ると、ココ達の追いかけっこは終了していた。%K%P
+I glanced up and noticed Coco and the others had stopped playing.%K%P
+0x34C
+（ん……？　何やってんだ、あいつ……？）%K%P
+(Huh...? What is she doing...?)%K%P
+0x37C
+少年が何やらハラハラした表情でココのことを眺めている。%K%P
+With a worried look on his face, the Kid was watching Coco intently.%K%P
+0x388
+ピピもハラハラして見ていた。%K%P
+Pipi, too, had his eyes on her.%K%P
+0x39C
+ココはおもむろに、憩いの間の４体の石像のうちひとつに近づくと、その台座に手をかけ……%K%P
+In the middle of the rest area stood four stone statues. Coco was deliberately attempting to scale one of the pedestals...%K%P
+0x3D8
+ココ「よいしょ！」%K%P
+Coco「Here I go!」%K%P
+0x3E4
+……とばかりによじ登り始めた。%K%P
+...With a heave, she began to climb up the side.%K%P
+0x3F8
+（……？？）%K%P
+(...?)%K%P
+0x404
+奇妙な行動だった。%K%P
+It was an odd sight.%K%P
+0x410
+俺は、立ち尽くす少年のもとへと走り寄った。%K%P
+I ran to the Kid as he stood frozen, watching her.%K%P
+0x444
+ココ「うんせ、うんせっ……」%K%P
+Coco「Okay... Hmmmmmph...」%K%P
+0x450
+ココは台座の上に足を引っかけ、石像に大きく手を廻し、抱きつくみたいな格好になっている。%K%P
+Stumbling as she mounted the pedestal, Coco ended up embracing the statue.%K%P
+0x46C
+少年「ココ……いったい、何やってるの？」%K%P
+Kid「Coco...! What the heck are you doing?」%K%P
+0x478
+少年は至極真っ当なことを訊いた。%K%P
+The Kid asked her brazenly.%K%P
+0x494
+ココ「やっほー♪」%K%P
+Coco「Yahoo～」%K%P
+0x4A0
+ココ「視点がちょっと高くなるだけで、見えるものは随分変わるんだねぇ～♪」%K%P
+Coco「Wow, all I did was stand a little higher, and everything looks all different～」%K%P
+0x4AC
+ココ「うーん……正確には、６８ｃｍ、ってとこかなぁ？」%K%P
+Coco「Let's see... To be exact, 68 centimeters higher, don't you think?」%K%P
+0x4B8
+台座の上に立ったココは、得意満面で言った。%K%P
+Perched on top of the pedestal, Coco said that while smiling triumphantly.%K%P
+0x4CC
+武「…………？」%K%P
+Takeshi「...?」%K%P
+0x4E0
+少年「ね、ねぇココ？　その為だけに、そこに登ったの？」%K%P
+Kid「Hey, Coco, is that why you climbed up there?」%K%P
+0x4FC
+ココ「ほぇ？」%K%P
+Coco「What?」%K%P
+0x508
+ココ「あー……。ううん、違うよ……」%K%P
+Coco「Well... Ummm, actually, no...」%K%P
+0x514
+少し首を傾げて、ココは答える。%K%P
+Coco answered with her head cocked.%K%P
+0x528
+ココ「この辺がね、ちょぴっと寂しかったの」%K%P
+Coco「This area right here looks like it's missing something.」%K%P
+0x544
+少年「寂しい？」%K%P
+Kid「Missing something?」%K%P
+0x550
+武「どの辺が？」%K%P
+Takeshi「Which area?」%K%P
+0x56C
+ココ「背中……」%K%P
+Coco「The statue's back...」%K%P
+0x580
+ココ「背中が寂しいかなぁ、と思ったの」%K%P
+Coco「I kind of thought its back looked lonely.」%K%P
+0x58C
+石像の背を、ココは小さな手の平でいたわるように撫でた。%K%P
+Coco stroked the statue's back sympathetically with her tiny hand.%K%P
+0x598
+ココ「ほいでねぇ……」%K%P
+Coco「And, well...」%K%P
+0x5AC
+ココ「ぴかぷかぽかーんっ！！」%K%P
+Coco「Abra... cadabra...」%K%P
+0x5B8
+ココ「まぁーいなぁすどらいばぁーーー！！」%K%P
+Coco「SCREWDRIVER AT YA―――!」%K%P
+0x5C4
+謎の怪音と共に、マイナスドライバーがココの右手に握られる。%K%P
+Uttering a stream of nonsense, Coco suddenly produced a flat-head screwdriver in her right hand.%K%P
+0x5D8
+ココ「かける、にー！！」%K%P
+Coco「TIMES TWO―!」%K%P
+0x5E4
+さらに、もう１本、左手にドライバー。%K%P
+And then another one appeared in her left hand.%K%P
+0x5F0
+お前それ、どっから出したんだ……？%K%P
+Where did she get those...?%K%P
+0x604
+と、俺が疑問に思う間もなく、ココはふたつのドライバーを振りかざした。%K%P
+But before I could ask her anything, Coco was gripping two screwdrivers.%K%P
+0x610
+そして……。%K%P
+And then...%K%P
+0x61C
+石像の、背中を……。%K%P
+...Into the back of the statue...%K%P
+0x628
+ドライバーの先っちょで、ゴリゴリゴリゴリと、彫り始めた……。%K%P
+...She began to carve the stone using the tip of the screwdriver...%K%P
+0x660
+ココ「うんしょ、よいしょ……」%K%P
+Coco「Here we go...」%K%P
+0x66C
+ごりごり。%K%P
+Cut, cut.%K%P
+0x678
+ごりごりごり……。%K%P
+Cut, cut, carve, carve...%K%P
+0x684
+みるみる、背中は傷だらけになっていく。%K%P
+And within moments, the back of the statue was covered with gashes.%K%P
+0x690
+武「……？？？？」%K%P
+Takeshi「...?」%K%P
+0x69C
+不可解だった。%K%P
+It was incomprehensible.%K%P
+0x6A8
+なんだか意味がわからない。%K%P
+I just couldn't understand it.%K%P
+0x6B4
+寂しいと言って、彼女は傷をつける……。%K%P
+First, she said the back looked 'lonely', and then she started gouging it.%K%P
+0x6C0
+しばし、俺と少年はココの姿をぼんやりと見つめる。%K%P
+For a while, the Kid and I just gazed at her with our jaws dropped.%K%P
+0x6CC
+少年「ななな、何やってるの！？」%K%P
+Kid「Hey, hey! What are you doing!?」%K%P
+0x6D8
+我に返った少年は叫ぶ。%K%P
+The Kid yelled as he came back to his senses.%K%P
+0x6E4
+ココ「彫ってるの」%K%P
+Coco「I'm carving.」%K%P
+0x6F0
+ココ「刻んでるの……」%K%P
+Coco「Can't you see? I'm carving...」%K%P
+0x6FC
+ココ「この石像に、傷を刻み込んでるの」%K%P
+Coco「I'm etching some marks into this stone statue.」%K%P
+0x708
+武「へぇ、そうなのか。傷を刻んでるのかぁ～」%K%P
+Takeshi「Oh, really. Etching some marks...」%K%P
+0x714
+武「って、ココ、それは見ればわかるんだよ」%K%P
+Takeshi「I can tell that by watching you, Coco!」%K%P
+0x720
+武「そうじゃなくってだなぁ～……」%K%P
+Takeshi「That's not what we mean...」%K%P
+0x72C
+少年「傷を？　どうして？」%K%P
+Kid「What for?」%K%P
+0x738
+少年が俺より先に訊いた。%K%P
+The Kid beat me to the question.%K%P
+0x744
+ココ「それは……」%K%P
+Coco「Well, it's because...」%K%P
+0x76C
+ココ「寂しかったから」%K%P
+Coco「I was feeling lonesome.」%K%P
+0x778
+ココ「それに、あのね……」%K%P
+Coco「And anyway, I was...」%K%P
+0x7AC
+ココ「悔しいの……」%K%P
+Coco「...Feeling sad...」%K%P
+0x7B8
+ココ「悔しかったんだ、ココは……」%K%P
+Coco「I was feeling sad...」%K%P
+0x7C4
+小さく、ココは呟く。%K%P
+She muttered in a tiny voice.%K%P
+0x7D0
+２本のドライバーを、両手で同時に、器用に扱っている。%K%P
+She worked with great dexterity, using a screwdriver in each hand.%K%P
+0x7DC
+ドライバーの先端はコリコリと音を立て、石像の背中に溝を生み、線を作っていく。%K%P
+The tips of the screwdrivers dug into the stone, screeching and forming tiny grooves.%K%P
+0x7E8
+少年「悔しい？」%K%P
+Kid「Sad?」%K%P
+0x7F4
+ココ「今日まで誰も助けに来てくれないってことは、ココ達、見捨てられちゃったってことでしょ？」%K%P
+Coco「Well, nobody's coming to rescue us, right? We've been abandoned.」%K%P
+0x800
+ココ「だから、ちょっとイタズラしてやれぇ～って、そう思って♪」%K%P
+Coco「So what harm is there in wrecking the place a little～」%K%P
+0x80C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x818
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x824
+俺と少年は顔を見合わせた。%K%P
+The Kid and I looked at each other.%K%P
+0x830
+再び、ココの手元に視線を向ける。%K%P
+Coco looked back at her handiwork.%K%P
+0x864
+傷は人間の形をしていた。%K%P
+They were in the shape of people.%K%P
+0x870
+簡単な人型。針金人形みたいだった。%K%P
+Really simple-looking, like stick people.%K%P
+0x87C
+針金の先には、丸い顔がひとつ……。%K%P
+At the end of each stick was a little round head...%K%P
+0x888
+少年「何これ？」%K%P
+Kid「Who's that?」%K%P
+0x89C
+ココ「ココだよ」%K%P
+Coco「It's me, Coco.」%K%P
+0x8A8
+ココ「で、こっちがピピとチャミ」%K%P
+Coco「And look, this is Pipi and Chami.」%K%P
+0x8B4
+よく見ると、人間の形をした傷のそばに、見たこともない獣の姿がふたつ、刻み込まれていた。%K%P
+Looking more carefully, I could see two unusual animal figures beside the human forms.%K%P
+0x8C0
+少年「…………」%K%P
+Kid「.........」%K%P
+0x8DC
+ココ「それにねぇ……」%K%P
+Coco「And then there's...」%K%P
+0x8E8
+ひとつだけ、顔が大きく描かれていた。%K%P
+One of the shapes had a particularly large head.%K%P
+0x8F4
+まだ描きかけだった。%K%P
+It was only half finished.%K%P
+0x900
+ココ「これは、つぐみん」%K%P
+Coco「This is Tsugumin.」%K%P
+0x90C
+ココ「つぐみん、かっこよく描いてあげないとなぁ……」%K%P
+Coco「For Tsugumin, it's important to make her look really cool...」%K%P
+0x920
+ココ「それにねぇ……」%K%P
+Coco「Okay, and then...」%K%P
+0x92C
+ひとつだけ、顔が大きく描かれていた。%K%P
+One of the shapes had a particularly large head.%K%P
+0x938
+まだ描きかけだった。%K%P
+It was only half finished.%K%P
+0x944
+ココ「これは、空さん」%K%P
+Coco「This is Sora-san.」%K%P
+0x950
+ココ「空さん、美人だから描くの難しいねぇ……」%K%P
+Coco「Sora-san is pretty, which makes her hard to draw...」%K%P
+0x95C
+ココ「むふふっ、むふふっ、ふふりのふ♪」%K%P
+Coco「Tralala... tralalalala～」%K%P
+0x968
+ココは奇妙な歌を唄いながら、傷を刻んでいく。%K%P
+Singing a cute little song, Coco continued to carve.%K%P
+0x974
+張り切っているみたいだった。%K%P
+She seemed entirely absorbed by what she was doing.%K%P
+0x980
+少しだけ、張り切りたくなる理由がわかったような気もする……。%K%P
+Somehow, I could relate to her desire to throw herself into something...%K%P
+0x98C
+少年「器物損壊かなぁ、こういうの」%K%P
+Kid「That's destroying private property... It's vandalism.」%K%P
+0x998
+武「この期に及んで細かいこと気にすんなよ、少年」%K%P
+Takeshi「Hey, relax, Kid. Now's not the time to be so uptight.」%K%P
+0x9A4
+武「ココが熱中して、やってるんだからさ」%K%P
+Takeshi「Coco's into her work. You can't blame her.」%K%P
+0x9B0
+少年「うん……」%K%P
+Kid「Um... Right...」%K%P
+0x9BC
+ココ「よーし、次はぁ……」%K%P
+Coco「Here we go, next...」%K%P
+0x9C8
+ココ「あっ！？」%K%P
+Coco「Uh-oh!」%K%P
+0x9DC
+不安定な格好で台座に立っていたココが、バランスを崩す。%K%P
+Because of her unsteady position on the pedestal, Coco suddenly lost her balance.%K%P
+0x9E8
+少年「あ、危ない！！」%K%P
+Kid「L-look out!」%K%P
+0x9FC
+咄嗟に少年が後ろから、ココの身体を支えた。%K%P
+Without hesitating, the Kid jumped forward, steadying her body.%K%P
+0xA08
+ずり落ちないように彼女の腰に手を添えて、そっと台座へと押し戻す。%K%P
+He grabbed her by the hips to prevent her from slipping down, then carefully lowered her to sit on the pedestal.%K%P
+0xA24
+ココ「あ、ありがと……」%K%P
+Coco「Th-thank you...」%K%P
+0xA30
+少年「足元、気をつけてね」%K%P
+Kid「Watch your step, okay?」%K%P
+0xA3C
+ココ「うん♪」%K%P
+Coco「Okay～」%K%P
+0xA50
+ココ「あ、そうだ……少ちゃんも一緒にやろうか？」%K%P
+Coco「Ah, I know... Why don't you join me, Kiddo?」%K%P
+0xA64
+少年「え？」%K%P
+Kid「You mean...?」%K%P
+0xA70
+ココ「やろう、やろう♪　一緒にやろう♪」%K%P
+Coco「Come on, please... Let's both try it～」%K%P
+0xA7C
+ココ「ここんとこにね？　少ちゃんとなっきゅを描いてぇ～……」%K%P
+Coco「You can carve a picture of yourself and Nakkyu here...」%K%P
+0xA88
+ココ「でね、このへんにたけぴょんを彫ろうと思ってるんだぁ～」%K%P
+Coco「And then I was thinking of carving Takepyon over here.」%K%P
+0xA94
+ココ「はい。ドライバー、１個貸したげる」%K%P
+Coco「Okay? Here's one of my screwdrivers.」%K%P
+0xAA8
+少年「あ、うん。サンキュー……」%K%P
+Kid「Well okay. Thanks...」%K%P
+0xAB4
+勢いに圧されてか、少年はココからドライバーを受け取った。%K%P
+Energized by Coco's enthusiasm, the Kid took the screwdriver...%K%P
+0xAC0
+それから、台座に足をかけて登る。%K%P
+And mounted the pedestal to join her.%K%P
+0xAD4
+武「落っこちるなよ、少年」%K%P
+Takeshi「Be careful not to fall yourself, Kid.」%K%P
+0xAE0
+少年「だ、大丈夫だよ」%K%P
+Kid「I-I'll be alright.」%K%P
+0xAEC
+武「ココ、足を滑らすなよ。俺が支えてやろうか？」%K%P
+Takeshi「Don't slip, Coco. Why don't you let me hold you up?」%K%P
+0xAF8
+ココ「へ？　うーん、どうしよっかな……」%K%P
+Coco「Huh? I wonder if that's the...?」%K%P
+0xB0C
+少年「大丈夫だよ！」%K%P
+Kid「She'll be alright!」%K%P
+0xB18
+伸ばしかけた俺の手を、少年が押し留めた。%K%P
+I was about to stretch my hands toward her, but the Kid stopped me.%K%P
+0xB2C
+少年「ぼくが、支えるから……」%K%P
+Kid「Don't worry, I got her...」%K%P
+0xB40
+少年は、ココの空いているほうの手をしっかり握った。%K%P
+The Kid took hold of Coco's empty hand.%K%P
+0xB4C
+ココと少年は、ふたりで石像を抱きしめるようにして、身体を支え合う。%K%P
+While embracing the statue in a hug, Coco and the Kid steadied each other.%K%P
+0xB58
+そして互いのもう一方の手で、少しずつ、描くべきものを彫り進めていった。%K%P
+And using their free hands, they both began carving shapes.%K%P
+0xB7C
+石像は何も言わず、ただ黙って南を指差して立ち尽くしている。%K%P
+The statue stood there without complaint, pointing to the south.%K%P
+0xB98
+石像は何も言わず、ただ黙って天を指差して立ち尽くしている。%K%P
+The statue stood there without complaint, pointing to the ceiling.%K%P
+0xBF0
+やがて……。%K%P
+A while later...%K%P
+0xC14
+ここに閉じ込められた６人と２匹の像が、そこに傷として残った。%K%P
+What was left in the stone was the carved images of six people and two animals.%K%P
+0xC20
+それは俺達がここに存在したことの、確かな証だった。%K%P
+It was evidence of our existence.%K%P

@@ -1,0 +1,1188 @@
+text area offset and size:
+0x23E8
+0x3D16
+0x40
+武「なぁ、知らないか？」%K%P
+Takeshi「Hey, you don't know, do you?」%K%P
+0x4C
+こうなれば手当たり次第だ。%K%P
+There was nothing to do but see where the conversation went.%K%P
+0x58
+武「いきなりですまないけど、知らないかな？」%K%P
+Takeshi「Sorry to ask you like this out of the blue, but you don't know, do you?」%K%P
+0x64
+武「ここらへんにいなかったかな、俺の知り合いなんだけど――」%K%P
+Takeshi「You haven't seen my friends around here, have you?」%K%P
+0x70
+武「ひとりは身長５．１フィート体重１７貫、サングラスが似合ってない、手は遅いが足は速くて三枚目……」%K%P
+Takeshi「One of them is about 1.5 meters tall and around 60 kilograms. Kind of good-looking, with dorky sunglasses, and probably not the type girls would go for.」%K%P
+0x7C
+武「もうひとりはスーツで丸刈りネクタイなし、耳にピアスが３つ鼻にひとつ、趣味は編物……」%K%P
+Takeshi「Another was wearing a suit, no tie, short hair, and has three piercings in his ear and one in his nose. He likes to knit...」%K%P
+0x88
+武「そして最後は紅一点、派手～なフリルのたくさんついた地味～な花柄ワンピース……」%K%P
+Takeshi「And then there was the only girl in the group, who had on a kind of simple color flower print one-piece with frilly lace...」%K%P
+0x94
+武「という、どこにでもいそうな３人組なんだけど――」%K%P
+Takeshi「You know, three people you might see anywhere...」%K%P
+0xA0
+武「見なかった？」%K%P
+Takeshi「Did you see them?」%K%P
+0xB4
+少年「いいえ」%K%P
+Kid「Nope.」%K%P
+0xC0
+少年は首を横に振った。%K%P
+The young kid shook his head.%K%P
+0xCC
+武「そっか。悪いね、呼び止めちゃって」%K%P
+Takeshi「I see. Well, sorry about stopping you like that.」%K%P
+0xE0
+それから、軽く手を振って別れた。%K%P
+Waving slightly, he left.%K%P
+0xF4
+少年は順路の先へと歩いていく。%K%P
+The youth continued down the corridor ahead.%K%P
+0x108
+そこへ少女が駆け寄って、何事か熱心に話し始めた。%K%P
+A girl came over to him and started talking to him enthusiastically.%K%P
+0x114
+その姿に見覚えがある。%K%P
+He thought he had seen her before.%K%P
+0x120
+（あれは……。あの少年と知り合いなのかな）%K%P
+(Huh... I wonder if she knows that kid.)%K%P
+0x134
+だが、少年は困惑した表情を浮かべた。%K%P
+But a troubled expression appeared on his face.%K%P
+0x148
+ココ「ねぇねぇ、ココのコメッチョ、聞きたくない？」%K%P
+Coco「Hey, hey! Do you want to hear a joke?」%K%P
+0x154
+少年「えっ？　えっ？　きみ……誰？」%K%P
+Kid「Huh? What? Who are you?」%K%P
+0x160
+（やれやれ……）%K%P
+(So that's it...)%K%P
+0x16C
+たぶん彼女は、誰とでもすぐ打ち解けるタイプなのだろう。%K%P
+She was probably one of those kinds of people that would talk to anyone about anything anywhere, whether they were interested or not.%K%P
+0x188
+そろそろ下の階に行ってみようかと考えた。%K%P
+He thought he would go down below.%K%P
+0x194
+エレベーターは音もなく到着し、客を飲み込む。%K%P
+The elevator arrived soundlessly and swallowed the waiting patrons.%K%P
+0x1A0
+彼もその中へと入り、ＬｅＭＵのさらなる体内へと下りていった。%K%P
+He went with them farther into the depths of LeMU.%K%P
+0x1E0
+あてどもなく歩く。%K%P
+He walked around aimlessly.%K%P
+0x1F4
+アトラクションはどこも盛況だった。%K%P
+The attractions were all packed with visitors.%K%P
+0x200
+あちこちであがる歓声と皆の笑顔が、今のＬｅＭＵの人気の高さを窺わせる。%K%P
+Everyone had beaming smiles and yelled happily―all evidence of LeMU's popularity.%K%P
+0x20C
+しかし、たったひとりで賑やかなテーマパークをうろつき回るのは苦痛だった。%K%P
+But still... Wandering around a packed and lively amusement park all alone was a bit tortuous.%K%P
+0x218
+嫌でも歩みは遅くなり、肩は落ちていく。%K%P
+He couldn't help trudging around with heavy feet and slumped shoulders.%K%P
+0x224
+恨めしい顔をしてしまいそうになるのを、彼はなんとか耐えていた。%K%P
+He was on the verge of looking depressed, but he held his expression in check.%K%P
+0x238
+武「しっかし、まいったね」%K%P
+Takeshi「What am I gonna do?」%K%P
+0x244
+闇雲に歩き回っていても、仲間は見つからないかもしれない。%K%P
+Walking around blindly in that place, he thought he might never run into his friends.%K%P
+0x250
+彼の予想よりも、フロアはずっと広かった。%K%P
+The floor was a lot wider than he'd imagined.%K%P
+0x25C
+武「ああそうだ、携帯……」%K%P
+Takeshi「Oh right, my cell phone...」%K%P
+0x268
+彼はポケットのＰＤＡ（総合携帯通信端末）を取り出した。%K%P
+He took his PDA multi-purpose communication device out from his pocket.%K%P
+0x274
+ボタンを押す。%K%P
+He pushed a button.%K%P
+0x280
+電話の着信の形跡はない。メールも来ていない。それどころか……%K%P
+He didn't have any messages. No mail either. But the problem seemed to be...%K%P
+0x28C
+『圏外』%K%P
+It was out of range.%K%P
+0x298
+ディスプレイにはそう表示されていた。%K%P
+At least that was what the display said.%K%P
+0x2A4
+武「マジですか」%K%P
+Takeshi「Are you serious!?」%K%P
+0x2B0
+武「このご時世に『圏外』とは……」%K%P
+Takeshi「I didn't think you could get out of range in this day and age...」%K%P
+0x2BC
+だがここは海中であり、巨大なトンネルの中であると言えた。地上の電波は一部を除いて届かなかった。%K%P
+Then he recalled they'd said something about it being a giant tunnel in the middle of the ocean where only select radio waves could reach.%K%P
+0x2C8
+また、ＬｅＭＵでは、携帯端末と相性の悪い特殊な電子設備も使用されていたし……%K%P
+And that LeMU used special electronic equipment which wasn't very compatible with mobile equipment.%K%P
+0x2D4
+何より、この施設そのものを、地上と隔離された別世界として演出する目的もあって、館内ではＰＤＡ通信は使えないのだ。%K%P
+More than anything, they didn't allow PDAs to work inside so the facility would be completely separated from the world above as part of the attraction.%K%P
+0x2E0
+……という説明がゲート入場時にされていたはずだが、彼はそれをまったく聞いていなかった。%K%P
+...At least that was what they'd told him at the entrance, but he hadn't listened to a word of it.%K%P
+0x2F4
+（館内放送で、呼び出しでもしてもらうか……？）%K%P
+(Maybe I should get them to broadcast a message over the intercom...?)%K%P
+0x300
+やはりスタッフに頼んだほうがいいだろう。%K%P
+He thought it might be best to just ask a staff member.%K%P
+0x30C
+ＬｅＭＵの係員を探すことに決めた。%K%P
+He decided to look for one.%K%P
+0x318
+けれど、制服姿の人間はなかなか見つからない。%K%P
+But there wasn't a uniformed person in sight.%K%P
+0x324
+通路を歩いている者は少なかった。%K%P
+There weren't many people walking around the corridors either.%K%P
+0x338
+曲がり角を折れて別の通路に入った。%K%P
+He turned a corner and entered a completely different corridor.%K%P
+0x34C
+と、行く手には大ダヌキがいた。%K%P
+There, right in front of him, was the giant tanuki...%K%P
+0x358
+ゲートを入る時に見た、大ダヌキ……。%K%P
+It was the one he'd seen at the gate while coming in...%K%P
+0x364
+壁面のパネルを操作していた大ダヌキ……。%K%P
+The tanuki was operating a panel on the wall...%K%P
+0x370
+（あれもきっと、ＬｅＭＵのスタッフだろう）%K%P
+(I'll bet that's a LeMU employee.)%K%P
+0x37C
+彼は渡りに船とばかり、タヌキに駆け寄り、声をかけた。%K%P
+Thinking it perfect timing, he saddled up to the tanuki and called out.%K%P
+0x388
+武「すいません、人を捜しているんです。知り合いです」%K%P
+Takeshi「Excuse me, I'm looking for someone. A friend.」%K%P
+0x394
+武「アナウンスで呼び出して欲しいんだけど、名前は、えーと……」%K%P
+Takeshi「Could I get you to make an announcement over the intercom or something? The name is... Uh...」%K%P
+0x3A8
+タヌキはゆっくり振り返って、彼の顔を見た。%K%P
+The tanuki slowly turned around and looked at him.%K%P
+0x3B4
+タヌキ「…………」%K%P
+Tanuki「............」%K%P
+0x3C0
+しかし、無言のままだった。%K%P
+But it didn't say anything.%K%P
+0x3CC
+武「あのー？　もしもし？」%K%P
+Takeshi「Uh? Hello? Hello?」%K%P
+0x3E0
+タヌキは顔を逸らした。%K%P
+The tanuki turned away, avoiding him.%K%P
+0x3EC
+要するに、彼は無視されていた。%K%P
+He was being ignored.%K%P
+0x3F8
+（聞こえていないのか？）%K%P
+(I wonder if it didn't hear me.)%K%P
+0x404
+タヌキは分厚い着ぐるみだ。背丈は彼よりも頭ひとつ高かった。%K%P
+The tanuki was wearing a big stuffed suit and was a full head taller than him.%K%P
+0x410
+中の人に、彼の言い分が届いていない可能性は確かにあった。%K%P
+There was the definite possibility that his words weren't even reaching the ears inside.%K%P
+0x424
+武「もっしもーし、聞こえてますかぁ？」%K%P
+Takeshi「HELLOOOooo. Can you hear me in there?」%K%P
+0x430
+タヌキの脇腹を小突きながら、彼は優しく訊いた。%K%P
+He asked the question nicely as he poked the tanuki in the ribs.%K%P
+0x43C
+武「ちょーっとぜい肉が多いんじゃないか、あんた？」%K%P
+Takeshi「Hey, you've gotta lot of extra flesh here, buddy.」%K%P
+0x448
+タヌキの脇腹をつまんで引いたり放したりしながら、彼は続けた。%K%P
+He continued talking as he pinched, pulled, and released the tanuki's flank.%K%P
+0x45C
+だが、タヌキは彼をじろりと睨むと――そう、睨んだように見えた――背を向けて歩き出そうとした。%K%P
+He thought that for a mascot suit, the tanuki shot him a pretty realistic glare before it turned to walk away.%K%P
+0x468
+彼は気に入らなくて、タヌキの肩をぐいっと掴んだ。%K%P
+Upset at that, he grabbed the tanuki's shoulder.%K%P
+0x474
+武「おい、お客が困ってるのにその態度はないんじゃない……」%K%P
+Takeshi「Hey! What kind of an attitude is that? And when a visitor's in trouble!」%K%P
+0x6A0
+がすっ！！%K%P
+Whump!%K%P
+0x6B4
+武「かぼぁ！？」%K%P
+Takeshi「Umpph!」%K%P
+0x6C0
+武「～～～～～～～～～～～～～！？」%K%P
+Takeshi「～～～～～～!?」%K%P
+0x6E8
+殴られた。%K%P
+He'd been gut-punched.%K%P
+0x6F4
+タヌキに殴られた。%K%P
+The tanuki had actually slugged him.%K%P
+0x700
+教師にもあんまりぶたれたことはなかったのに。%K%P
+Not even his parents had ever even really spanked him before.%K%P
+0x70C
+奇襲だった。タヌキのローフックは彼のボディを的確に捉えていた。%K%P
+It had been a totally cheap shot―the tanuki had landed a solid uppercut.%K%P
+0x718
+武「こ、こらぁ～～タヌキ～～っ！！　お、お前なぁ！！」%K%P
+Takeshi「H-hey...! Tanuki...! Yeah, I mean you!」%K%P
+0x724
+タヌキ「…………」%K%P
+Tanuki「.........」%K%P
+0x730
+彼は膝をつき、その場にうずくまる。%K%P
+He went down on his knees and keeled over.%K%P
+0x73C
+周囲の客がざわめいた。%K%P
+Nearby visitors reacted.%K%P
+0x748
+係員「お客様、どうしました？」%K%P
+Park staff「Is everything alright?」%K%P
+0x764
+ちょうどそこへ、扉の向こうから係員がやってきた。%K%P
+Just then, a park employee appeared from the door.%K%P
+0x770
+係員「お腹でも痛いんですか？」%K%p
+Park staff「Are you having stomach pains?」%K%p
+0x2398
+タヌキが……
+It was the tanuki
+0x23A4
+なんでもない
+Forget it
+0x7B8
+武「……タヌキが、俺にボディブローを……」%K%P
+Takeshi「...That tanuki caught me with a body blow...」%K%P
+0x7CC
+係員「は？」%K%P
+Park staff「Huh?」%K%P
+0x7D8
+係員は呆気に取られた、という顔をした。%K%P
+The employee gave him a surprised look.%K%P
+0x7E4
+武「殴られたんだよいきなり、あのタヌキに！」%K%P
+Takeshi「I got sucker punched by that tanuki!」%K%P
+0x7F0
+彼は大ダヌキを指差した。%K%P
+He pointed at the big tanuki.%K%P
+0x7FC
+タヌキ「…………」%K%P
+Tanuki「.........」%K%P
+0x808
+タヌキは表情を変えなかった。%K%P
+The tanuki's expression didn't change.%K%P
+0x838
+が、いきなり踵を返すと走り出した。%K%P
+But it turned and started to run.%K%P
+0x84C
+タヌキのシルエットは、軽快な足取りで彼から遠ざかっていく。%K%P
+The tanuki's silhouette pranced lightly away into the distance.%K%P
+0x860
+そして程なく、通路の先へと消えた。%K%P
+And in an instant, it had disappeared down the walkway.%K%P
+0x86C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x880
+係員「…………」%K%P
+Park staff「.........」%K%P
+0x894
+係員「あー、あれはですねぇ」%K%P
+Park staff「Uh, that is, um, a...」%K%P
+0x8A0
+係員はタヌキの行く先を目で追いながら言った。%K%P
+The staff member looked after the tanuki as she spoke.%K%P
+0x8AC
+係員「タヌキじゃなくて、レミュール」%K%P
+Park staff「That's not a tanuki, that's a lemur.」%K%P
+0x8B8
+武「れ、れみゅーるぅ？」%K%P
+Takeshi「Le-lemu... What?」%K%P
+0x8C4
+彼はまだ痛い腹をさすりながら呟く。%K%P
+He rubbed his still-aching stomach as he spoke.%K%P
+0x8D8
+係員「そ。レミュール。キツネザル」%K%P
+Park staff「Yes. A lemur. You know, a fox-like monkey.」%K%P
+0x8E4
+係員「名前は『みゅみゅーん』」%K%P
+Park staff「Its name is Myumyun.」%K%P
+0x900
+ＬｅＭＵの名前の由来であるレムリア大陸。%T030%K%N
+LeMU had been named after the continent of Lemuria.%T030%K%N
+0x90C
+伝説の大陸。%T030%K%N
+A legendary land.%T030%K%N
+0x918
+レムリアとはそもそもイギリスの動物学者スクレーターによって唱えられた、インド洋に存在したという大陸の名前である。%K%O
+According to the British zoologist Sclater, the Lemurian continent preceded the existence of islands scattered throughout the Indian Ocean.%K%O
+0x930
+キツネザル（Ｌｅｍｕｒ）は、アフリカ・マダガスカル島・アジア・インドネシアに点在して生息している。%T030%K%N
+Lemurs were scattered throughout Africa, the island of Madagascar, Asia, and Indonesia.%T030%K%N
+0x93C
+このキツネザルの分布を調べていたスクレーターは、その点在の理由を説明するため、かつてインド洋に大陸（陸橋）が存在したとするイギリスの地質学者ブランドフォードの説を採用、%T030%K
+
+0x948
+この大陸をレムリア（Ｌｅｍｕｒｉａ）と名づけたのであった。%T030%K%N
+
+0x954
+さらに、ドイツの動物学者ヘッケルは、この大陸を人類発祥の地だと主張している。%K%O
+Moreover, the German zoologist Haeckel contended that the continent was the origin of mankind.%K%O
+0x978
+係員「あの着ぐるみは、ＬｅＭＵのマスコットキャラのひとつ、みゅみゅーん」%K%P
+Park staff「Myumyun is one of LeMU's mascots.」%K%P
+0x98C
+係員「で、どうしたんですか？　お腹が悪いんですか？　それとも……」%K%P
+Park staff「But what happened? Are you ill? Or...」%K%P
+0x998
+武「いや、もういい。もういいんだ……」%K%P
+Takeshi「No. I'm fine now. Don't worry about me...」%K%P
+0x9A4
+武「もう済んだから」%K%P
+Takeshi「It's over anyway.」%K%P
+0x9B8
+係員「はぁ、そうですか……」%K%P
+Park staff「Oh, I see...」%K%P
+0x9CC
+武「いや、なんでもない。ちょっとコケただけ」%K%P
+Takeshi「It's nothing. I just took a tumble.」%K%P
+0x9E0
+係員「そうですか」%K%P
+Park staff「Is that so?」%K%P
+0x9EC
+タヌキに一撃で倒された、とは口にしにくかった……。%K%P
+He couldn't bring himself to say that the tanuki had floored him with one punch...%K%P
+0x9F8
+タヌキ「…………」%K%P
+Tanuki「.........」%K%P
+0xA28
+大ダヌキは彼に背を向けると、走り出した。%K%P
+The big tanuki turned its back and ran.%K%P
+0xA3C
+そして軽快な足取りで彼から遠ざかっていく。%K%P
+The tanuki's silhouette pranced lightly away into the distance.%K%P
+0xA50
+程なく、通路の先へと消えた。%K%P
+A moment later, it had disappeared up the hallway ahead.%K%P
+0xA64
+係員「あれ、あの『みゅみゅーん』、どうしたんだろう？」%K%P
+Park staff「Oh. I wonder what happened to that Myumyun.」%K%P
+0xA70
+係員はタヌキの後ろ姿を目で追いながら、そう呟いた。%K%P
+The staff member looked after the tanuki as she spoke.%K%P
+0xA7C
+係員「持ち場に戻りなさいっての……まぁ、いいや」%K%P
+Park staff「You're probably thinking I should be getting back to my post, right...? Oh well.」%K%P
+0xA90
+彼女は彼のほうへ向き直って、にっこり笑う。%K%P
+She looked at him again and smiled, laughing.%K%P
+0xA9C
+係員「お客さん、何かありましたら、いつでも呼んでくださいね」%K%P
+Park staff「If you need anything, don't hesitate to call.」%K%P
+0xAD4
+係員は去って行った。%K%P
+The staff member disappeared.%K%P
+0xAE0
+（そうか……）%K%P
+(I see...)%K%P
+0xAEC
+（あれはタヌキじゃなくて『みゅみゅーん』だったのか）%K%P
+(That wasn't a tanuki, that was 'Myumyun'.)%K%P
+0xB20
+結局、何故みゅみゅーんに殴られたのかわからない。%K%P
+He wasn't sure why Myumyun had hauled off and punched him.%K%P
+0xB2C
+考えてもわからなかった。%K%P
+But he knew that wondering about it wouldn't help.%K%P
+0xB38
+だから、忘れることにした。%K%P
+So he decided to forget about it.%K%P
+0xB44
+それより、行くべきところがあったはずだ。%K%P
+He needed to be getting somewhere.%K%P
+0xB50
+武「もう少し、自力で捜してみるか……」%K%P
+Takeshi「I'll look around on my own a little more...」%K%P
+0xB5C
+気を取り直し、呟く。%K%P
+He muttered that as he composed himself.%K%P
+0xB68
+この通路の向こうに、アトラクションがいくつかあるはずだった。%K%P
+He knew there should be several attractions at the other end of the corridor.%K%P
+0xB74
+友人達はのんびり順番待ちでもしながら、彼を待っているかもしれない。%K%P
+His friends might have been looking for him as they waited in line.%K%P
+0xB80
+武「で、どっちに行きゃあいいんだ？」%K%P
+Takeshi「So which way should I go?」%K%P
+0xB8C
+彼の足は棒になりかけていた。%K%P
+His legs were so tired that he could barely move.%K%P
+0xB98
+（それにしても……）%K%P
+(This is...)%K%P
+0xBA4
+（ここは最悪な遊園地だ……）%K%P
+(The world's worst theme park...)%K%P
+0xBB0
+それは偽らざる正直な気持ちだった。%K%P
+And that was exactly how he felt.%K%P
+0xC40
+少年「はぁ……」%K%P
+Kid「Oh well...」%K%P
+0xC4C
+軽い目眩を覚えて、壁に寄りかかる。%K%P
+Hit by a slight dizzy spell, he leaned against the wall.%K%P
+0xC58
+少年「なんなんだ、いったい」%K%P
+Kid「What in the world...?」%K%P
+0xC64
+溜め息をつく。%K%P
+He sighed.%K%P
+0xC70
+正直なところ、疲れ果てていた。%K%P
+He was fully and utterly beat.%K%P
+0xC7C
+さっき声をかけてくれた係員は、いつの間にかどこかに行ってしまっていた。%K%P
+The staff member that had just been talking to him had vanished somewhere.%K%P
+0xC88
+優もいない。%K%P
+You wasn't around either.%K%P
+0xC94
+あの女の子も見失った。%K%P
+He had lost sight of the other girl as well.%K%P
+0xCA0
+また彼は、ひとりになってしまった。%K%P
+He was alone again.%K%P
+0xCAC
+少年「ここに何しに来たんだっけ、ぼくは……」%K%P
+Kid「What did I come here for? I...」%K%P
+0xCC0
+やっぱり、あそこで待っていなきゃならないんじゃないだろうか？%K%P
+He thought that maybe he should have waited where he was before after all.%K%P
+0xCCC
+目的をなくした彼は、水族館からまたエレベーターに乗り、地下２階に戻った。%K%P
+Having lost his destination, he rode the elevator from the aquarium and returned to basement floor two.%K%P
+0xCFC
+地下２階――ツヴァイトシュトック。%K%P
+Basement floor two―Zweiter Stock.%K%P
+0xD08
+（２階……？）%K%P
+(The second floor...?)%K%P
+0xD14
+（しまった……）%K%P
+(I screwed up...)%K%P
+0xD20
+（憩いの間は、もうひとつ下のフロアだった）%K%P
+(The rest area is down one more level.)%K%P
+0xD2C
+エレベータールームから随分離れてしまった気がする。%K%P
+He felt like he had come a long way from the elevator room.%K%P
+0xD38
+ここから降りるには、どっちの道に行けばいいのか。%K%P
+He didn't know which path he should take to go down.%K%P
+0xD44
+どっちに……。%K%P
+Which way...%K%P
+0xD6C
+？？「ちょっと、こっちに来てくれない？」%K%P
+???「Could you come here for a moment?」%K%P
+0xD78
+どこからか、声が聞こえた。%K%P
+A voice called to him from somewhere.%K%P
+0xD84
+どこから……。%K%P
+From somewhere...%K%P
+0xD90
+少年「！？」%K%P
+Kid「!?」%K%P
+0xD9C
+通路の陰から、声の主は手招きしている。%K%P
+From the shadows of the path, the owner of the voice was beckoning to him.%K%P
+0xDA8
+しかしその手は、人間のものではなかった。%K%P
+But the hand did not belong to a human.%K%P
+0xDDC
+？？「ほら、早く来てよ」%K%P
+???「Look, hurry up, will you?」%K%P
+0xDE8
+ささやくような、若い女性の声だった。%K%P
+It was the whispering voice of a young woman.%K%P
+0xDF4
+彼女の太い黒い腕は、リズミカルに揺れる。%K%P
+Her bulky, black arm was swaying rhythmically.%K%P
+0xE00
+声と見た目に物凄い違和感を感じつつも、彼は引き寄せられるようにそちらに向かう。%K%P
+Disturbed by the difference between the voice and its owner's appearance, he moved, hypnotized, in its direction.%K%P
+0xE0C
+その手は、腕は、明らかにタヌキだったのだ。%K%P
+The hand and arm clearly belonged to a tanuki.%K%P
+0xE18
+全身、そう――大きなタヌキ。%K%P
+It was a big tanuki.%K%P
+0xE58
+タヌキ「ここ、どこだかわかる？」%K%P
+Tanuki「Do you know where we are?」%K%P
+0xE64
+大ダヌキに連れられて、通路の果てにある部屋に入った。%K%P
+He was led by the tanuki into a room at the end of the walkway.%K%P
+0xE70
+入ったというか……押し込められてしまった。%K%P
+Or rather... Packed into it.%K%P
+0xE7C
+少年「ここは――」%K%P
+Kid「This is...」%K%P
+0xE88
+（女子更衣室じゃないか……）%K%P
+(Is this the girl's changing room...?)%K%P
+0xE94
+開けっ放しのロッカーには、優の着ていたのと同じユニフォームがしまわれているのが見えた。%K%P
+He saw a uniform, like the one You had been wearing, packed away inside an open locker.%K%P
+0xEA0
+（それから……女性ものの下着が見え隠れしちゃったりなんかして……）%K%P
+(Hey... I can even see some women's underwear...)%K%P
+0xEAC
+周囲には、香水の匂い。%K%P
+The room smelled like perfume.%K%P
+0xEB8
+辺り一面もやもやと、むせ返るような匂いに溢れている。%K%P
+The air was saturated with a scent so strong it almost made him choke.%K%P
+0xEC4
+それを嗅いだら、どうにかなってしまいそうだった。%K%P
+The smell was about to overwhelm him.%K%P
+0xED0
+彼は心を抑え、理性を繋ぎ止める。%K%P
+He struggled to get his mind under control and maintain his focus.%K%P
+0xEE4
+タヌキ「ねぇ、ここ、どこだかわかる？」%K%P
+Tanuki「Hey, do you know where we are?」%K%P
+0xEF0
+タヌキは、もう一度同じことを繰り返した。%K%P
+The tanuki asked the same question again.%K%P
+0xEFC
+そう言えば……彼女はなぜタヌキなのか。%K%P
+Come to think of it... why was she a tanuki anyway?%K%P
+0xF08
+わけがわからない。%K%P
+He had no clue.%K%P
+0xF14
+少年「ここは」%K%P
+Kid「This...」%K%P
+0xF20
+タヌキ「コウイ室」%K%P
+Tanuki「...Is the changing room.」%K%P
+0xF2C
+答える前に、彼女が言う。%K%P
+She said that before he could answer.%K%P
+0xF38
+タヌキ「コウイ室っていうのは……」%K%P
+Tanuki「Changing rooms are...」%K%P
+0xF44
+タヌキ「内緒のコウイを、するところ……」%K%P
+Tanuki「A place to keep secrets away from prying eyes...」%K%P
+0xF50
+タヌキは小さく、呟いた。%K%P
+She said that quietly.%K%P
+0xF5C
+少年「コウイ？」%K%P
+Kid「Secrets?」%K%P
+0xF9C
+ぼすっ！！%K%P
+Wham!%K%P
+0xFA8
+いきなり視界は奪われた。%K%P
+Suddenly, his vision faded.%K%P
+0xFB4
+真っ暗だった。%K%P
+Everything went completely dark.%K%P
+0xFC0
+少年「え？」%K%P
+Kid「Huh?」%K%P
+0xFCC
+タヌキ「それ、預かっておいてくれる？」%K%P
+Tanuki「Will you look after this for me?」%K%P
+0xFD8
+少年「えっ？　えっ？　えっ？」%K%P
+Kid「Huh? What? What?」%K%P
+0xFE4
+預かる？%K%P
+Look after?%K%P
+0xFF0
+彼には意味がわからない。%K%P
+He didn't understand.%K%P
+0xFFC
+タヌキ「ほら、ちゃんと着せてあげるから」%K%P
+Tanuki「Here, I'll help you put it on right.」%K%P
+0x1008
+少年「あ、あのっ」%K%P
+Kid「Uh, um...」%K%P
+0x1014
+着せる？%K%P
+Wear it?%K%P
+0x1020
+さっぱり意味がわからない。%K%P
+He had no idea what she was talking about.%K%P
+0x102C
+少年「う、うわっ、うわああっ……」%K%P
+Kid「Uh, wuh, whoa...」%K%P
+0x1038
+わからないが、身動きが取れない。%K%P
+He didn't understand why, but he couldn't move.%K%P
+0x1044
+ただただ彼は彼女にされるまま、謎のコウイに従うしかなかった。%K%P
+He was powerless to resist her, and he let her do what she wanted.%K%P
+0x1050
+程なくして、何かがすっぽりと彼の身体を覆い隠す。%K%P
+In a moment, something completely covered his body.%K%P
+0x105C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1068
+タヌキ「ふふっ……これでよし……」%K%P
+Tanuki「Heehee. This should do it...」%K%P
+0x1074
+タヌキ「じゃ、あとはお願いね？」%K%P
+Tanuki「Alright then. I'll leave the rest to you.」%K%P
+0x1080
+そして、軽快な足音が遠ざかる。%K%P
+And the light sound of her footsteps faded into the distance.%K%P
+0x10A8
+最後に扉をパタンと閉める音……。%K%P
+The last thing he heard was the click of a door shutting...%K%P
+0x10B4
+少年「…………」%K%P
+Kid「.........」%K%P
+0x10C0
+その音は聞こえた。%K%P
+He heard the sound.%K%P
+0x10CC
+だが結局彼に、彼女の姿は見えなかった。%K%P
+But he did not see her leave.%K%P
+0x10D8
+少年「…………？」%K%P
+Kid「.........?」%K%P
+0x10E4
+（ぼくはいったい彼女に、何をされてしまったんだ？）%K%P
+(What did she do to me?)%K%P
+0x10F0
+顔が重い……。%K%P
+His face felt heavy...%K%P
+0x10FC
+身体が重い……。%K%P
+His body felt heavy...%K%P
+0x1108
+それに、視界が狭い……。%K%P
+He had tunnel vision...%K%P
+0x1114
+全身、毛がふさふさしている……。%K%P
+And for some reason, his body was bristling with hair...%K%P
+0x1120
+（もしかして……）%K%P
+(Could it be...)%K%P
+0x112C
+（これは……着ぐるみか……）%K%P
+(That this is... the mascot outfit...)%K%P
+0x1138
+軽く頭を振ると、かさかさと音がする。%K%P
+When he shook his head, it made a sound like bristles brushing something.%K%P
+0x1144
+それと……匂い。%K%P
+And there was a smell.%K%P
+0x1150
+着ぐるみの中にも、違う匂いがほのかに香っていた。%K%P
+There was some other scent from inside the costume.%K%P
+0x115C
+くらくらするような、甘い匂い。%K%P
+A sweet smell that made him dizzy.%K%P
+0x1168
+脳天を貫く感覚……。%K%P
+It pierced deep into his brain...%K%P
+0x1174
+それがなんだかわからないまま、更衣室の扉を開き、よろめきながら通路に出て行った。%K%P
+Before he knew what was going on, he had opened the door and was shuffling out into the pathway.%K%P
+0x1218
+武「あっ！！」%K%P
+Takeshi「Ahh!」%K%P
+0x1224
+彼は思わず声を上げた。%K%P
+Without thinking, he let out a cry.%K%P
+0x1230
+見つけたのだ。%K%P
+He had found it.%K%P
+0x123C
+（あのタヌキだ……）%K%P
+(It's that tanuki...)%K%P
+0x1258
+タヌキじゃなくてキツネザルのみゅみゅーんだ、とさっき教わったばかりだが、彼の頭にはもうなかった。%K%P
+He had just been told that it was not a tanuki, but Myumyun the fox-monkey; that information had already disappeared from his mind.%K%P
+0x126C
+タヌキじゃなくてみゅみゅーんだ、とさっき聞いたばかりだが、彼の頭にはもうなかった。%K%P
+He had just heard that it was not a tanuki, but Myumyun the fox-monkey; that information had already disappeared from his mind.%K%P
+0x1280
+（名前は忘れたが――）%K%P
+(I forgot its name...)%K%P
+0x128C
+（とにかく、あれが俺を殴り逃げたヤツだ）%K%P
+(It doesn't matter, though. That's the person that hit me and ran away.)%K%P
+0x1298
+殴り返してやろう、とまでは思わなかったが……%K%P
+He didn't want revenge...%K%P
+0x12A4
+やはり何故あんなことをしたのか、問い質したかった。%K%P
+But he did want to ask it why it had done what it did.%K%P
+0x12B8
+彼は音を立てずそろりそろりと、タヌキ――みゅみゅーんの着ぐるみに、接近して行った。%K%P
+Without making a sound, he slowly approached the tanuki―mascot―Myumyun.%K%P
+0x12CC
+そして背後に忍び寄ると、すかさずその被り物を取った。%K%P
+And as soon as he got behind it, he quickly grabbed the costume by the head.%K%P
+0x1320
+ばさぁ！%K%P
+There!%K%P
+0x132C
+少年「だ、誰！？」%K%P
+Kid「Who... Who're you?」%K%P
+0x1338
+武「お前こそ誰だ！」%K%P
+Takeshi「I should be asking you that!」%K%P
+0x1344
+武「いきなりあんなことしやがって！」%K%P
+Takeshi「Why would you do something like that!?」%K%P
+0x1350
+少年「えっ、あんなことって？」%K%P
+Kid「Huh? What'd I do?」%K%P
+0x135C
+武「しらばっくれるな」%K%P
+Takeshi「Don't play dumb with me.」%K%P
+0x1368
+少年「なんのことだか、わからないよ……」%K%P
+Kid「I have no idea what you're talking about...」%K%P
+0x1374
+武「お前だろ、俺を殴ったのは！」%K%P
+Takeshi「You... You hit me!」%K%P
+0x1380
+少年「違うよ違う、知らない……」%K%P
+Kid「No I didn't! I have no idea what you mean!」%K%P
+0x138C
+武「嘘つけ、忘れたのか？」%K%P
+Takeshi「Liar! What? Did you forget?」%K%P
+0x1398
+少年「嘘じゃない、女のひとが……」%K%P
+Kid「I'm not lying. This girl...」%K%P
+0x13A4
+少年「突然、この着ぐるみを渡してきて……」%K%P
+Kid「Gave me this outfit out of nowhere and...」%K%P
+0x13B0
+武「あれ、お前そういやさっき会ったっけ？　いつの間に着替えたんだ？」%K%P
+Takeshi「What? You just met her? When did you change?」%K%P
+0x13BC
+少年「今着たばっかりだよ、ぼくは……」%K%P
+Kid「I just put it on. I...」%K%P
+0x13C8
+武「今来たばっかり？　お、おい、何言ってるんだ？」%K%P
+Takeshi「Just put it on? What are you talking about?」%K%P
+0x13D4
+少年「だけど、どうしてこんな……」%K%P
+Kid「But why do this...」%K%P
+0x13E0
+少年「こんな……」%K%P
+Kid「This...」%K%P
+0x142C
+そこで、タヌキが倒れた。%K%P
+At that point, the tanuki collapsed.%K%P
+0x1438
+みゅみゅーんの格好のまま、彼は倒れ込んだ。%K%P
+He collapsed in full Myumyun regalia.%K%P
+0x146C
+武「ど、どうしたっ！？　おいっ！？」%K%P
+Takeshi「Wh-what? Hey!」%K%P
+0x1478
+肩を揺するが、返事はない。%K%P
+Takeshi shook his shoulders, but there was no response.%K%P
+0x1484
+武「誰か来てくれ！　なんだか様子がおかしい」%K%P
+Takeshi「Somebody come quick! Something's not right here.」%K%P
+0x1490
+彼は叫んだ。%K%P
+He yelled.%K%P
+0x149C
+周りの客は遠巻きに眺めるばかりだ。%K%P
+Visitors watched from a distance.%K%P
+0x14B0
+係員「どうしました？」%K%P
+Park staff「What's the matter?」%K%P
+0x14BC
+騒ぎを聞いて、係員の女性が駆けつけた。%K%P
+A female employee had heard the fuss and came running.%K%P
+0x14C8
+武「ああ、あんたさっきの……ちょっと、こいつ急に倒れて」%K%P
+Takeshi「Huh? You're that girl from before... This guy just collapsed all of a sudden.」%K%P
+0x14E4
+係員「ちょっと見せて！」%K%P
+Park staff「Let me see!」%K%P
+0x14F8
+係員は、倒れている彼の脈を診始めた。%K%P
+The employee took the pulse of the fallen youth.%K%P
+0x1504
+医学の心得があるのだろうか？%K%P
+Takeshi wondered if she had any medical knowledge.%K%P
+0x1518
+係員「うん、大丈夫……だけど、このままにはしておけないね」%K%P
+Park staff「He's alright... but we can't leave him here like this.」%K%P
+0x1524
+武「手伝うよ」%K%P
+Takeshi「I'll help.」%K%P
+0x1530
+係員「ええ、お願い」%K%P
+Park staff「Great, thanks.」%K%P
+0x15E8
+どうして、こんなことに。%K%P
+Why had such a thing happened?%K%P
+0x15F4
+わからない。%K%P
+He had no idea.%K%P
+0x1600
+わからない……。%K%P
+No idea...%K%P
+0x160C
+どこにいるのか。%K%P
+Where he was.%K%P
+0x1618
+どこに行ってしまったのか。%K%P
+Where he had gone.%K%P
+0x1624
+揺れる。%K%P
+Shaking.%K%P
+0x1630
+揺さぶられる。%K%P
+Shaken.%K%P
+0x163C
+気分が悪くなる。%K%P
+Feeling ill.%K%P
+0x1648
+もじゃもじゃの両脇を、誰かと誰かが抱え持っている。%K%P
+He could feel hair from the costume rubbing along both of his sides as two people carried him.%K%P
+0x1654
+もじゃもじゃ――%K%P
+Rubbing...%K%P
+0x1660
+そうだ、着ぐるみを早く脱がして欲しい。%K%P
+He wished they'd get the mascot suit off him quickly.%K%P
+0x166C
+毛が不快だった。%K%P
+The fur felt nasty.%K%P
+0x1678
+暑い。%K%P
+It was hot.%K%P
+0x1684
+とても暑い。%K%P
+So hot.%K%P
+0x1690
+暑くてたまらない。%K%P
+So hot he couldn't stand it.%K%P
+0x169C
+その暑さに、意識は朦朧とする。%K%P
+The heat made him feel faint.%K%P
+0x16A8
+意識は勝手にふらふらと、どこかをさまよい始めてしまう。%K%P
+His consciousness felt like it would drift away.%K%P
+0x16B4
+どうして、こんなことに。%K%P
+Why had such a thing happened?%K%P
+0x16C0
+おかしい。%K%P
+It was strange.%K%P
+0x16CC
+おかしい……。%K%P
+So strange...%K%P
+0x16D8
+彼でも、彼女でもない。%K%P
+It wasn't him or her.%K%P
+0x16E4
+違う声が、どこからか聞こえる……。%K%P
+He heard a different voice from somewhere...%K%P
+0x1790
+ふたりの手で、彼は救護室に運び込まれた。%K%P
+He had been hauled to the infirmary.%K%P
+0x17A4
+係員「でも、なんだろう？　貧血？」%K%P
+Park staff「I wonder what it could be? Is he anemic?」%K%P
+0x17B0
+武「着ぐるみが暑かったんじゃないか？　着慣れないみたいだったから」%K%P
+Takeshi「Maybe it was the mascot suit? Maybe he couldn't get used to wearing it.」%K%P
+0x17BC
+係員「ありえるね。熱射病かな……」%K%P
+Park staff「It's possible. It could be heat exhaustion...」%K%P
+0x17C8
+武「なぁ、なんとかなりそうか？」%K%P
+Takeshi「Does... it look like he'll be okay?」%K%P
+0x17DC
+係員「うん、重い病気じゃなさそうだし。しばらく休ませておけば大丈夫だよ」%K%P
+Park staff「It doesn't appear to be anything serious. A little rest and he should be fine.」%K%P
+0x17E8
+武「そっか」%K%P
+Takeshi「I see.」%K%P
+0x17F4
+係員「ありがとう、手伝ってくれて。あとは私が診るから」%K%P
+Park staff「Thanks for your help. I'll take it from here.」%K%P
+0x1800
+武「ああ、それじゃ頼むよ」%K%P
+Takeshi「Oh, alright then.」%K%P
+0x1814
+スライド扉を開け、彼は部屋を出る。%K%P
+He opened the sliding door and left the room.%K%P
+0x1844
+武「ふぅ……人助けか……」%K%P
+Takeshi「Whew... Saving people can sure be stressful.」%K%P
+0x1850
+武「俺はここに何しに来たんだっけな……」%K%P
+Takeshi「What was it I came here to do?」%K%P
+0x185C
+通路には涼やかな風が吹いている。%K%P
+A cool breeze was blowing along the walkway.%K%P
+0x18EC
+風は……。%K%P
+Breeze...%K%P
+0x18F8
+風は、どこから吹いて来るのだろう。%K%P
+But where was it coming from?%K%P
+0x1904
+彼は……。%K%P
+He...%K%P
+0x1910
+彼は、どこからやって来るのだろう……。%K%P
+He wondered where he had come from.%K%P
+0x1924
+うっすらと何かが見えた。%K%P
+He saw something faintly.%K%P
+0x1930
+天井。%K%P
+A ceiling.%K%P
+0x193C
+シーツ。%K%P
+Sheets.%K%P
+0x1948
+ベッド……。%K%P
+A bed...%K%P
+0x1954
+ベッドの上に寝かされていた。%K%P
+He had been put to sleep on a bed.%K%P
+0x1960
+救護室の、ベッドの、上……。%K%P
+On a bed in the infirmary...%K%P
+0x196C
+また、何かが見えた。%K%P
+He saw something again.%K%P
+0x1978
+救護室の……下の……ベッドの……。%K%P
+Below the sick room... bed...%K%P
+0x1998
+下の、ベッドの、上の、誰か。%K%P
+Who was on the bed below?%K%P
+0x19A4
+（誰だ、これは？）%K%P
+(Who is this?)%K%P
+0x19B0
+（これは……）%K%P
+(This...)%K%P
+0x19BC
+（これは、ぼくじゃない……）%K%P
+(This isn't me...)%K%P
+0x19C8
+（……当たり前か……）%K%P
+(...Of course not...)%K%P
+0x1A60
+さらに階下にも行ってみることにする。%K%P
+He decided to go farther down the hall.%K%P
+0x1A6C
+地下３階――ドリットシュトック、と言っていたか……。%K%P
+The third floor underground―they had called it Dritter Stock...%K%P
+0x1A78
+（連中のことだ……混みそうなアトラクションにずっと並んでいるに違いない）%K%P
+(The guys... They've gotta be lined up waiting for a crowded ride somewhere.)%K%P
+0x1A8C
+武「ああ、すいません！　乗ります！」%K%P
+Takeshi「Hey, sorry! I'm getting in!」%K%P
+0x1A98
+エレベーターへと駆け込んだ。%K%P
+He dashed into the elevator.%K%P
+0x1AA4
+閉まりかけた扉は音もなく開き、また閉じる。%K%P
+The doors reopened silently and closed again.%K%P
+0x1AC0
+（あれ？）%K%P
+(Huh?)%K%P
+0x1ACC
+そこには他に、ひとりだけ乗っていた。%K%P
+One other person had gotten on.%K%P
+0x1AD8
+ひとりの女性。%K%P
+A girl.%K%P
+0x1AE4
+ひとりの少女……。%K%P
+A girl...%K%P
+0x1AF0
+（いや、『女の子』、だろうな）%K%P
+(More like a young woman, I guess.)%K%P
+0x1AFC
+そう、女の子がひとり、乗っていた。%K%P
+One girl had gotten on.%K%P
+0x1B08
+高校生くらいの女の子だ。%K%P
+She was about high school age.%K%P
+0x1B14
+ふわりと浮くような感触を残して、エレベーターは下り始めた。%K%P
+The elevator floated upward an instant before descending.%K%P
+0x1B20
+僅かな駆動音と振動が感じられる。%K%P
+There was the faint sound of movement and vibration.%K%P
+0x1B34
+そしてふと、女の子と目が合う。%K%P
+And then his eyes met with the girl's.%K%P
+0x1B40
+何故だろう？%K%P
+He wondered why...%K%P
+0x1B4C
+女の子は、彼のことを訝しそうに見ていた。%K%P
+The girl stared at him suspiciously.%K%P
+0x1B58
+女の子「……なに？」%K%P
+Girl「...What?」%K%P
+0x1B64
+女の子「なんなの、あなた……」%K%P
+Girl「Just who are you...?」%K%P
+0x1B70
+女の子「どうしてこんな所にいるの？」%K%P
+Girl「Why are you here?」%K%P
+0x1B7C
+女の子「なんで、ついてくるのよ……」%K%p
+Girl「Why are you following me...?」%K%p
+0x23B0
+謝る
+Apologize
+0x23BC
+お前こそなんなんだ
+Just who exactly are you?
+0x23C8
+黙っている
+Stay silent
+0x1BD4
+武「ごめん」%K%P
+Takeshi「I'm sorry.」%K%P
+0x1BE0
+身に覚えがないが、彼は頭を軽く下げた。%K%P
+He didn't recall seeing her, but he nodded slightly in apology.%K%P
+0x1BEC
+武「何か気に障ったかな」%K%P
+Takeshi「Did I do something to offend you?」%K%P
+0x1C00
+女の子「……別に……」%K%P
+Girl「...Not really...」%K%P
+0x1C0C
+武「…………？」%K%P
+Takeshi「.........?」%K%P
+0x1C18
+彼は益々、わけがわからなくなった。%K%P
+He was getting more and more confused.%K%P
+0x1C24
+女の子「…………」%K%P
+Girl「.........」%K%P
+0x1C30
+女の子「……つまり」%K%P
+Girl「...I mean...」%K%P
+0x1C3C
+女の子「このエレベーター……従業員専用なの。だから」%K%P
+Girl「This elevator is... for employees only.」%K%P
+0x1C48
+武「ああ、なるほど」%K%P
+Takeshi「Oh, I see.」%K%P
+0x1C64
+武「お前こそなんなんだ？」%K%P
+Takeshi「Just who exactly are you?」%K%P
+0x1C70
+武「俺が何かしたか？」%K%P
+Takeshi「Did I do something wrong?」%K%P
+0x1C7C
+女の子「したわ、さっき……」%K%P
+Girl「Yes, you did. Just now...」%K%P
+0x1C88
+武「さっき？」%K%P
+Takeshi「Just now?」%K%P
+0x1C94
+彼は益々、わけがわからなくなった。%K%P
+He was getting more and more confused.%K%P
+0x1CA8
+女の子「…………」%K%P
+Girl「.........」%K%P
+0x1CB4
+女の子「……つまり」%K%P
+Girl「I mean...」%K%P
+0x1CC0
+女の子「あんまり……邪魔をして欲しくない。だから」%K%P
+Girl「I don't... want you to get in the way, that's all.」%K%P
+0x1CCC
+武「邪魔って、何を……」%K%P
+Takeshi「Get in the way of what?」%K%P
+0x1CE0
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1CEC
+女の子「…………」%K%P
+Girl「.........」%K%P
+0x1D00
+女の子は、目を逸らす。%K%P
+She avoided his eyes.%K%P
+0x1D0C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1D18
+女の子「…………」%K%P
+Girl「.........」%K%P
+0x1D24
+空気が重たくなるような、錯覚を受けた。%K%P
+He felt like the air around him had suddenly gotten much heavier.%K%P
+0x1DA0
+――ガンッ！%K%P
+―Boom!%K%P
+0x1DF0
+強烈な衝撃とともに、エレベーターが止まった。%K%P
+Jolting suddenly, the elevator stopped.%K%P
+0x1E04
+天井を見上げた。%K%P
+He looked at the ceiling.%K%P
+0x1E10
+照明は不安げに明滅を繰り返している。%K%P
+The lights flickered unsteadily.%K%P
+0x1E1C
+武「な、なんだ！？」%K%P
+Takeshi「Wh-what was that!?」%K%P
+0x1E28
+女の子「まさか……」%K%P
+Girl「It couldn't be...」%K%P
+0x1E34
+武「まさか？　まさか、なんなんだよ！？」%K%P
+Takeshi「Couldn't be? Couldn't be what?」%K%P

@@ -15,8 +15,8 @@ def read_strings_from_table(all_bytes, seg_table, seg_strings):
   for i, off in enumerate(offsets):
     table_offs = i*4+seg_table[0]
     # [workaround] skip areas which do not have text references:
-    if 0x46a0 <= table_offs < 0x5350: continue
-    if 0x7520 <= table_offs < 0x7610: continue
+    if 0x3710 <= table_offs < 0x3B2C: continue
+    if 0x3B80 <= table_offs < 0x4f14: continue
     if 0x7f90 <= table_offs < 0x86f8: continue
     # if 0x7f90 <= table_offs < 0x871c: continue
 
@@ -51,27 +51,13 @@ def write_results_to_file(name, res, find_dupes = True):
   f.close()
 
 def main():
-  seg_init_table = [0x1140, 0x1d38]
-  seg_init = [0xba68, 0xdc40]
-  seg_tips_table = [0x7610, 0x7f78]
-  seg_tips = [0x14c30, 0x2464c]
-  # [0x871c, 0x8c68]
-  # [0x2464c, 0x25e72]
-  # ffffff
-  # [0x8d10, 0x8d40]
-  # [25e79,]
-  # ffffff
-  # [0x8d88, 0x8da0]
-  # [25efb,]
-  # ffffff
-  # [0x25f49,]
-  # ffffff
-  # [0x260a0,]
-  seg_chrono_table = [0x90dc, 0xac98]
-  seg_chrono = [0x26be8, 0x2c11a]
+  seg_init_table = [0xeb8, 0x180C]
+  seg_init = [0x89b0, 0x9FD7]
+  seg_tips_table = [0x65C4, 0x6EE0]
+  seg_tips = [0xF6EA, 0x1D63F]
 
-  seg_all_table = [0x1140, 0xac98]
-  seg_all = [0xba68, 0x2c11a]
+  seg_all_table = [0xEB8, 0x7DF8]
+  seg_all = [0x89B0, 0x1F709]
 
   initbin_path = sys.argv[1] if len(sys.argv) > 1 else "init.dec"
 
@@ -82,10 +68,8 @@ def main():
   # these are only extracted for convenience
   res_init = read_strings_from_table(all_bytes, seg_init_table, seg_init)
   res_tips = read_strings_from_table(all_bytes, seg_tips_table, seg_tips)
-  res_chrono = read_strings_from_table(all_bytes, seg_chrono_table, seg_chrono)
   write_results_to_file("init",   res_init)
   write_results_to_file("tips",   res_tips)
-  write_results_to_file("chrono", res_chrono)
 
   # all strings go here
   res_all = read_strings_from_table(all_bytes, seg_all_table, seg_all)

@@ -1,0 +1,732 @@
+text area offset and size:
+0x11B0
+0x2457
+0x88
+未明――日付はすでに変わり、５月７日、日曜日。%K%P
+Daybreak. The date had changed to Sunday, May 7th.%K%P
+0x94
+あれからぼくらは一睡もしていない。%K%P
+Since that time, we hadn't slept at all.%K%P
+0xA0
+再び、ぼくの身体に変調が起こりだした。%K%P
+I was starting to feel bad again.%K%P
+0xAC
+頭痛、目眩、吐き気……身体の内側からにじみ出てくるような悪寒。%K%P
+It felt like a headache, dizziness, nausea, and chills were seeping out from deep in the core of my body.%K%P
+0xB8
+さざ波のように襲ってくる、鈍い痛みと極度の倦怠感……意識が朦朧とする。%K%P
+I suffered from a wave of dull pain and extreme fatigue... I was only half-conscious.%K%P
+0xC4
+疲労困憊……ぼくはもう限界だった。%K%P
+Exhaustion... I had reached my limit.%K%P
+0xD0
+だが、気力を奮い起こしてそれに耐え抜こうとする。%K%P
+But I tried to keep my energy from being sapped away.%K%P
+0xDC
+一寸先も見えない暗闇……この無限の恐怖の中、ぼくらはもがき、抗い続けていた。%K%P
+Surrounded by darkness and endless fear, we had fought our way so far...%K%P
+0xE8
+周囲の状況に、好転の気配はない。%K%P
+And there was no sign that things were going to get better.%K%P
+0xF4
+外部との通信も途絶えたまま。%K%P
+Communication lines with the outside were still down.%K%P
+0x100
+そして……%K%P
+And...%K%P
+0x10C
+脱出の糸口は、つかめていない。%K%P
+We had yet to find a clue leading to possible escape.%K%P
+0x118
+やがて身体の変調は、優の身にも現れ始めた。%K%P
+Slowly, You started to get ill too.%K%P
+0x124
+血の気の失せた顔。%K%P
+Her face was pale.%K%P
+0x130
+額には玉のような汗が浮かび上がり、苦しそうに呼吸を荒げている。%K%P
+Her breathing was heavy. Beads of sweat stood out on her forehead.%K%P
+0x13C
+ひどく熱があるようだった。%K%P
+She seemed to have a terrible fever.%K%P
+0x148
+肉体的、精神的に追いつめられているのは、ぼくだけではない。%K%P
+I was not the only one suffering mentally and physically.%K%P
+0x154
+その予兆は、昨日からあったのだ。%K%P
+There had been signs from the day before.%K%P
+0x160
+だが今のぼくらには、どうしてやることもできない。救護室はすでに水の中だ。%K%P
+But we couldn't do anything about it. The infirmary was already underwater.%K%P
+0x16C
+時間は、ただ過ぎ去っていくだけだった。%K%P
+We could only endure the passing of time.%K%P
+0x178
+………………。%K%P
+.........%K%P
+0x184
+………………。%K%P
+.........%K%P
+0x190
+………………。%K%P
+.........%K%P
+0x1CC
+（ダメか……）%K%P
+(Is this it...?)%K%P
+0x1D8
+（もうダメなのか……）%K%P
+(Is this the end...?)%K%P
+0x1E4
+（もう、諦めるしかないのか……）%K%P
+(Is giving up the only choice...?)%K%P
+0x1F0
+力無く宙を仰ぎ見る。%K%P
+I looked up helplessly.%K%P
+0x1FC
+煙草のヤニで薄汚れた天井。%K%P
+The ceiling was crusty with cigarette smoke.%K%P
+0x208
+そこには、それだけしか見えなかった。%K%P
+I couldn't see anything else.%K%P
+0x214
+（ぼくは死ぬ……）%K%P
+(I am going to die...)%K%P
+0x220
+（ここで為す術もなく、死ぬんだ……）%K%P
+(There's nothing I can do except die...)%K%P
+0x22C
+それが、ぼくの行き着いた答え。%K%P
+That was my conclusion.%K%P
+0x238
+ははっ……。%K%P
+Haha...%K%P
+0x244
+ははは……。%K%P
+Hahaha...%K%P
+0x250
+あはは、はははは。%K%P
+Ahahahahaha.%K%P
+0x25C
+そっか、所詮ぼくの力なんて、こんなもんだったんだ。%K%P
+I knew then exactly how much strength I had left.%K%P
+0x268
+まったく……情けない奴だ。%K%P
+I felt utterly... hopeless.%K%P
+0x274
+役立たず。%K%P
+Useless.%K%P
+0x280
+能無し。%K%P
+Incompetent.%K%P
+0x28C
+そうだ、ぼくは死ぬんだ。%K%P
+Yes, I would die.%K%P
+0x298
+それでいいんだ。%K%P
+And I was fine with that.%K%P
+0x2A4
+かまうもんか。%K%P
+I didn't care.%K%P
+0x2B0
+記憶の無いぼくは、最初から死んでいたも同然じゃないか……。%K%P
+Without a memory, I thought I had been the equivalent of dead to start with...%K%P
+0x2BC
+何も変わらない。今更、失うものなんてない。%K%P
+Nothing changed. I had nothing to lose.%K%P
+0x2C8
+決まっていたんだ。%K%P
+It was already decided.%K%P
+0x2D4
+ほら、つぐみだって言っていただろ？%K%P
+I remembered what Tsugumi had told me, that...%K%P
+0x2E0
+『ぼくは７日に死ぬ』……って。%K%P
+I would die in seven days.%K%P
+0x2EC
+あの予言が、当たっただけ……。%K%P
+Her prediction was true...%K%P
+0x2F8
+（別にいいんだ……これで……）%K%P
+(I don't care... This is the way it should be...)%K%P
+0x304
+急に肩の力が抜け、ぼくは視線を下ろした。%K%P
+I relaxed and looked down.%K%P
+0x310
+そして、その先に……%K%P
+And I saw...%K%P
+0x31C
+……優の姿があった。%K%P
+...You.%K%P
+0x328
+ぐったりと椅子の背にもたれ掛かり、辛そうに荒い呼吸を繰り返している彼女。%K%P
+She slumped back into a chair, and her breathing looked labored.%K%P
+0x374
+%N%N%N
+
+0x380
+%LC%FS約束？%FE%K%N
+%LC%FSPromise?%FE%K%N
+0x38C
+%LC%FSうん、約束%FE%K%O
+%LC%FSYeah, I promise.%FE%K%O
+0x3B8
+ふいにぼくの指先に、優と交わした指切りの温もりが蘇った。%K%P
+I suddenly felt a warmth in my fingertips. The same warmth I'd felt from You's fingers when I'd made the promise.%K%P
+0x3C4
+優……。%K%P
+You...%K%P
+0x3D0
+そうだよ……このままじゃ、優も死んじゃうじゃないか……。%K%P
+Yes... If I didn't do anything, You would die too.%K%P
+0x3DC
+ダメだ……やっぱりダメだ！%K%P
+No... I wouldn't let that happen!%K%P
+0x3E8
+ぼくが死んだって構わないけど、優は…………優は……。%K%P
+I didn't care if I died, but You... You was...%K%P
+0x3F4
+なんとか、彼女だけでも助けなくちゃいけない。%K%P
+Somehow, I had to save her.%K%P
+0x400
+約束したんだから……。%K%P
+Because I had promised.%K%P
+0x40C
+約束……。%K%P
+Promised...%K%P
+0x418
+（どうすればいい……どうすれば……）%K%P
+(How could I... How...)%K%P
+0x43C
+………………。%K%P
+.........%K%P
+0x448
+………………。%K%P
+.........%K%P
+0x454
+………………。%K%P
+.........%K%P
+0x460
+やがて…………%K%P
+Then...%K%P
+0x49C
+完全圧潰推定時刻まで、あと僅かとなった。%K%P
+There was only a short time until the estimated time of implosion.%K%P
+0x4D4
+大きく揺らぎ始める警備室。%K%P
+The security office started shaking violently.%K%P
+0x4E0
+悲鳴をあげる館内。%K%P
+The complex screeched.%K%P
+0x530
+警報が、けたたましく鳴り響く。%K%P
+Alarms pierced the air with shrill warnings.%K%P
+0x544
+空「隔壁強度が……限界を超えました」%K%P
+Sora「The partition strength limits... have been exceeded.」%K%P
+0x550
+空「各フロアにて、漏水、浸水が始まっています」%K%P
+Sora「Flooding has started on each floor.」%K%P
+0x55C
+空「ツヴァイトシュトック第４区画浸水開始……同じく第５区画圧潰開始……第６区画……」%K%P
+Sora「Flooding has begun in Sector Four of Zweiter Stock... Implosion has begun in Sector Five on the same floor... In Sector Six...」%K%P
+0x568
+淡々と状況を知らせる空。%K%P
+Sora reported the situation monotonously.%K%P
+0x574
+空「…………………………」%K%P
+Sora「......」%K%P
+0x580
+少年「……どうしたの？　続きは？」%K%P
+Kid「...What's wrong? What else?」%K%P
+0x594
+空「いいえ、もうやめましょう……こんなこと告げても無意味ですね……」%K%P
+Sora「No, I leave it at that... This report now means nothing...」%K%P
+0x5A0
+空「この区画も浸水が始まりました……ここも、しばらくすれば被害が現れます」%K%P
+Sora「Flooding has started in this sector too... It won't be long until damage appears here.」%K%P
+0x5AC
+少年「そっか……」%K%P
+Kid「I see...」%K%P
+0x5B8
+少年「あと、どれくらい持ちこたえそう？」%K%P
+Kid「How long do you think this will hold?」%K%P
+0x5C4
+空「２０分～２５分……」%K%P
+Sora「20 to 25 minutes...」%K%P
+0x5D0
+空「ですが、今すぐに圧潰してもオカシクない状況です」%K%P
+Sora「But it could implode at any time.」%K%P
+0x684
+通常の照明が消え、非常灯に切り替わった。%K%P
+The normal lighting went out, and the emergency lighting kicked in.%K%P
+0x690
+おそらく、発電室がやられてしまったのだろう。%K%P
+I figured that the generator room was probably damaged.%K%P
+0x6A4
+空「結局、おふたりをお救いすることができませんでした……」%K%P
+Sora「I couldn't save you two after all...」%K%P
+0x6B0
+空「本当に……本当に……申し訳ございません……」%K%P
+Sora「I am... really... truly... sorry...」%K%P
+0x6BC
+空「……本当に…………」%K%P
+Sora「...Truly...」%K%P
+0x6C8
+少年「いいよ……空のせいじゃない」%K%P
+Kid「Don't be... It's not your fault.」%K%P
+0x6D4
+少年「空はよくやってくれたと思う」%K%P
+Kid「I think you did a great job.」%K%P
+0x6E0
+空「……………………」%K%P
+Sora「...」%K%P
+0x6F4
+ぼくは、優の側へと向かった。%K%P
+I headed over to be beside You.%K%P
+0x708
+少年「優、ここはもう持たない……行こう」%K%P
+Kid「You, this place isn't going to hold... Let's go.」%K%P
+0x730
+優は衰弱しきっている。%K%P
+You was completely weakened.%K%P
+0x73C
+力無くぼくを見上げ、かすかに頷く。%K%P
+She looked up powerlessly and nodded slightly.%K%P
+0x748
+優「……ん」%K%P
+You「...Mmm.」%K%P
+0x75C
+ぼくは優をおぶった。%K%P
+I carried You on my back.%K%P
+0x770
+空「どこへ向かわれるのですか？」%K%P
+Sora「Where are you going?」%K%P
+0x77C
+少年「わからない……少しでも時間が稼げるところ」%K%P
+Kid「I don't know... Somewhere where we can gain a little more time.」%K%P
+0x788
+少年「ぼくはギリギリまで、救助がくる可能性に賭けてみるつもりだ」%K%P
+Kid「I intend to stake our lives on the possibility that we'll be rescued until the very end.」%K%P
+0x794
+少年「もう、こんな方法しか思い浮かばないけど……」%K%P
+Kid「I can't think of anything to do other than that...」%K%P
+0x7BC
+少年「でも約束したんだ……絶対にまもる、って」%K%P
+Kid「I promised her... that I would protect her no matter what.」%K%P
+0x7C8
+空「…………」%K%P
+Sora「......」%K%P
+0x7D4
+少年「残されたフロアの中で、一番丈夫なところは？」%K%P
+Kid「Where is the safest place left among the floors?」%K%P
+0x7E0
+空「ドリットシュトックの制御室なら、あるいは……」%K%P
+Sora「That would be the control room on Dritter Stock, or...」%K%P
+0x7EC
+空「しかし、それでも持って数十分の差です」%K%P
+Sora「But it is only a matter of a few dozen minutes of difference.」%K%P
+0x7F8
+少年「それで充分だよ……」%K%P
+Kid「That's enough...」%K%P
+0x804
+そのまま部屋を出ようとして……ふと立ち止まった。%K%P
+I was going to leave the room... but I suddenly stopped.%K%P
+0x810
+少年「そう言えば、空はどうするの？」%K%P
+Kid「What are you going to do, Sora?」%K%P
+0x81C
+空「私はもう、おふたりとご一緒することができません」%K%P
+Sora「I will not be able to accompany you two any longer.」%K%P
+0x828
+空「浸水の影響で、館内に設置された映像デバイスにかなりの損傷が出てしまいました」%K%P
+Sora「Due to flooding, image broadcasting devices in the complex have been significantly damaged.」%K%P
+0x834
+空「私が姿を現せる場所は、限られてしまっています」%K%P
+Sora「The places I can appear are limited.」%K%P
+0x840
+空「ですがせめて、音声を通しておふたりを制御室までご案内したいと思います」%K%P
+Sora「But at the very least, I want to guide you two to the control room via my audio function.」%K%P
+0x84C
+少年「わかった、よろしく頼むよ」%K%P
+Kid「Alright. Please do.」%K%P
+0x858
+空「はい……」%K%P
+Sora「Yes...」%K%P
+0x890
+外に出ると、壁の所々から漏水しているのがわかった。%K%P
+When I left the room, I found water leaking from walls in spots.%K%P
+0x89C
+隔壁がミシミシと軋んでいる。%K%P
+The bulkheads squealed.%K%P
+0x8A8
+空「ではご案内します……制御室まで今現在で無事なルートは……」%K%P
+Sora「I will guide you... I will show you the route to the control room which is still safe...」%K%P
+0x8C8
+３階へ降り立った。%K%P
+We went down to the third floor.%K%P
+0x8D4
+まだＬｅＭＵは持ちこたえている。%K%P
+LeMU was still holding.%K%P
+0x8E0
+空の予告していた完全圧潰推定時刻は、とうに過ぎているはずなのに……。%K%P
+The estimated time of implosion that Sora had predicted should have passed long before.%K%P
+0x8EC
+まるで空が、ぼくらふたりを懸命に護ろうとしているかのように、ＬｅＭＵは最後の抵抗を続けていた。%K%P
+LeMU kept resisting to the end, as if Sora was willing it to protect us.%K%P
+0x8F8
+優「はぁはぁはぁはぁ…………」%K%P
+You「*Pant*, *pant*, *pant*...」%K%P
+0x904
+ぼくの背で、優は喘ぎ、苦しんでいる。%K%P
+You gasped, suffering terribly as I carried her on my back.%K%P
+0x910
+少年「頑張って、あと少しの辛抱だから……」%K%P
+Kid「Be strong. Be patient. It's just a little farther...」%K%P
+0x91C
+嘘だ。%K%P
+I lied.%K%P
+0x928
+ぼくは嘘つきだ。%K%P
+I was a liar.%K%P
+0x934
+あと少し辛抱して……それで、なんになると言うのだ？%K%P
+A little more patience... and then what?%K%P
+0x940
+どうすることもできない。%K%P
+There was nothing I could do.%K%P
+0x94C
+嘘つき……。%K%P
+So I lied...%K%P
+0x958
+――この大嘘つき！%K%P
+...I was a big liar!%K%P
+0x990
+制御室まであと少しというところになって……%K%P
+We were close to the control room...%K%P
+0x99C
+ぼくは……またしても見てしまった。%K%P
+And again... I saw it.%K%P
+0x9A8
+あの幻の少女……。%K%P
+The vision of the little girl...%K%P
+0x9B4
+優「……ど、どうしたの……？」%K%P
+You「...What... What's the matter...?」%K%P
+0x9C0
+通路の向こうに彼女は立っていた。%K%P
+She stood across the corridor.%K%P
+0x9CC
+少女と目が合った。%K%P
+Her eyes met mine.%K%P
+0x9D8
+するとぼくの頭の中に、あるひとつの名前が鮮明に浮かび上がってきた。%K%P
+And then a name flashed in my mind, as clear as a bell.%K%P
+0x9E4
+少年「――ココ！！！」%K%P
+Kid「...Coco!」%K%P
+0x9F0
+空「しょ、少年さん……どうなされたのですか？」%K%P
+Sora「Kid-san, what is the matter?」%K%P
+0x9FC
+きびすを返し、向こうへと駆け出すココ。%K%P
+Turning on her heels, Coco ran off in the other direction.%K%P
+0xA08
+ぼくは優をおぶったまま、少女を追い駆ける。%K%P
+I chased after her, still carrying You.%K%P
+0xA14
+少年「ココーーーッ！」%K%P
+Kid「Cocoooo!」%K%P
+0xA20
+空「少年さん！　引き返してください！　そっちは……！」%K%P
+Sora「Kid-san! Please come back! There is...!」%K%P
+0xA34
+全速力で追走するぼく。%K%P
+I was chasing after her at full speed.%K%P
+0xA40
+だが、浸水した水と揺れ続ける館内……不安定な足場がぼくを阻む。%K%P
+But the flooding and shaking ground slowed me down.%K%P
+0xA4C
+そもそも、人ひとり抱えたまま走り続けるなど、無茶の極みだった。%K%P
+From the beginning, it was a crazy, reckless idea to run after her with You on my back.%K%P
+0xA58
+……ぼくは少女を見失ってしまった。%K%P
+...I lost sight of her.%K%P
+0xA6C
+狭い通路の突き当たり――小さな扉の前。%K%P
+It was a dead end in a narrow corridor, in front of a small door.%K%P
+0xA78
+ここは……？%K%P
+Where was that place...?%K%P
+0xA84
+もしかして、あの子はこの向こうに？%K%P
+I thought that maybe she was beyond the door.%K%P
+0xAB4
+その瞬間、ぼくの頭の中で、何かが垣間見える。%K%P
+In that instant, I glimpsed something in my head.%K%P
+0xAC0
+曖昧で抽象的なイメージ。%K%P
+It was a vague, abstract image.%K%P
+0xACC
+今の……よくわからないけど……でも、確かに……。%K%P
+I wasn't sure... but definitely...%K%P
+0xAD8
+ぼくは感じた。――見えたんだ。%K%P
+I felt it. I could see it.%K%P
+0xAE4
+この先に希望の光があるのだ、と。%K%P
+...That there should be a beam of hope ahead.%K%P
+0xAF0
+ぼくは優を背からおろし、ヒンメルの扉を開こうとする。%K%P
+I lowered You and tried to open the door of Himmel.%K%P
+0xAFC
+しかし扉はビクとも動かない。%K%P
+But the door wouldn't budge.%K%P
+0xB08
+少年「空！　ここを開けてくれ！」%K%P
+Kid「Sora! Open this door!」%K%P
+0xB14
+空「無理です。その扉は私の管轄外なのです」%K%P
+Sora「That is impossible. That door is out of my jurisdiction.」%K%P
+0xB20
+ドンドンと扉をたたくぼく。%K%P
+I pounded on the door.%K%P
+0xB2C
+少年「ぼくにはわかるんだ……この先に……この向こう側に……！！」%K%P
+Kid「I know it... on the other side of this door...!」%K%P
+0xB38
+少年「そこに行けば優は助かるんだ！　たのむよ！　開けてくれぇぇぇーーーっ！！！」%K%P
+Kid「You will be safe in there! Please! Open this door!」%K%P
+0xB7C
+ブシューーーーーッ！%K%P
+Ssssssss!%K%P
+0xB88
+通路の壁面から、水が猛烈な勢いで噴出を始めた。%K%P
+From the surface of the walls, water began to gush in.%K%P
+0xBBC
+遠くから、獣の咆哮のような轟音が鳴り響いてくる。%K%P
+An animal-like growl echoed from far away.%K%P
+0xBC8
+激しい縦揺れ。%K%P
+The complex pitched violently.%K%P
+0xBD4
+通路の先……おびただしい量の水が押し寄せてくるのが見えた。%K%P
+I saw a massive amount of water... flooding down the corridor ahead.%K%P
+0xBE0
+大口を開け、襲いかかる漆黒の魔獣。%K%P
+It was as if a pitch-black monster were opening its massive mouth to attack.%K%P
+0xBEC
+慌てて優の元へ駆け寄ろうとする。%K%P
+I ran frantically to You.%K%P
+0xBF8
+ひどく自分の動きが緩慢に思えた。%K%P
+I felt as if I were moving in slow motion.%K%P
+0xC04
+――間に合わない！%K%P
+...I wouldn't make it!%K%P
+0xC10
+一瞬、時が止まり……そして動き出す。%K%P
+For an instant, time stopped... and then it started again.%K%P
+0xC1C
+息を呑む暇もなく、ぼくらは呑み込まれた。%K%P
+The water swallowed us in a single moment.%K%P
+0xC40
+水の中、優と目が合った。%K%P
+In the water, my eyes met You's.%K%P
+0xC4C
+必死に手を伸ばしてくる彼女。%K%P
+She was trying desperately to reach out her hand.%K%P
+0xC58
+ぼくは手を握る。優は握りかえしてくる。%K%P
+I held her hand. You squeezed mine back.%K%P
+0xC64
+優が何かを呟いた。%K%P
+You mumbled something.%K%P
+0xC70
+だがその言葉は、ぼくの耳に届かない。%K%P
+But the words didn't reach me.%K%P
+0xC7C
+それはただ、小さな泡となって、闇の中へと……消えた。%K%P
+The words just changed into small bubbles... and vanished in the darkness.%K%P
+0xC88
+ゆっくりと、目を閉ざす優。%K%P
+You slowly closed her eyes.%K%P
+0xC94
+（……優？）%K%P
+(...You?)%K%P
+0xCA0
+（何？　なんて言ったのさ……？）%K%P
+(What? What did you say...?)%K%P
+0xCAC
+（そんな言い方されたら、気になるじゃないか）%K%P
+(Of course I want to know...)%K%P
+0xCB8
+手を揺さぶる。反応はない。%K%P
+I shook her hand. There was no response.%K%P
+0xCC4
+（ずるいよ……）%K%P
+(That's not fair...)%K%P
+0xCD0
+（またぼくを、からかって……）%K%P
+(She's teasing me again...)%K%P
+0xCDC
+優のほほに触れる。%K%P
+I touched her cheek.%K%P
+0xCE8
+冷たかった。%K%P
+It was cold.%K%P
+0xCF4
+（冷たい……）%K%P
+(Cold...)%K%P
+0xD00
+（そうか、水の中だから……）%K%P
+(Of course... it's because we're in the water...)%K%P
+0xD0C
+（ははは……冷たいのは当たり前じゃないか……）%K%P
+(Hahaha... It's because we're in this cold water...)%K%P
+0xD18
+ぼくは握る手に力を込める。%K%P
+I squeezed her hand.%K%P
+0xD24
+（ねぇ？）%K%P
+(Hey?)%K%P
+0xD30
+（ねぇってば……）%K%P
+(I said hey...)%K%P
+0xD3C
+（ねぇ優、教えてよ…………）%K%P
+(Hey, You, tell me...)%K%P
+0xD48
+彼女は握りかえしてはこない。%K%P
+She didn't squeeze my hand back.%K%P
+0xD54
+動かない。%K%P
+She didn't move.%K%P
+0xD60
+もう彼女は、何も教えてはくれなかった。%K%P
+She didn't tell me anything anymore.%K%P
+0xD6C
+（…………………………………………）%K%P
+(......)%K%P
+0xD78
+（…………………………………………）%K%P
+(......)%K%P
+0xD84
+（…………………………………………）%K%P
+(......)%K%P
+0xD90
+（…………………………………嘘、だ）%K%P
+(...It's not true.)%K%P
+0xD9C
+（嘘だ、嘘だ、嘘だ……嘘だ…………）%K%P
+(No, no, no... It's a lie...)%K%P
+0xDA8
+（こんな現実は嘘に決まってる……！）%K%P
+(This can't be true...! It has to be a lie...!)%K%P
+0xDB4
+（嘘だーーーーーーーーーーっ！！！）%K%P
+(This is a lie...!)%K%P
+0xDC0
+ぼくの肺から、最後の息が吐き出される。%K%P
+I let out the last breath from my lungs.%K%P
+0xDCC
+ぼくは現実から目をそらすように、目を閉ざした。%K%P
+I closed my eyes to avert them from reality.%K%P
+0xE20
+優「約束？」%K%P
+You「Promise?」%K%P
+0xE2C
+少年「うん、約束」%K%P
+Kid「Yeah, I promise.」%K%P
+0xE38
+優「もし……約束破ったら？」%K%P
+You「And what if... you break it?」%K%P
+0xE44
+少年「それはない。絶対に護ってみせる」%K%P
+Kid「I won't. I'll see that you're safe.」%K%P
+0xE50
+優「絶対に？　１％たりともないの？」%K%P
+You「For sure? There's not even a 1％ chance you're wrong?」%K%P
+0xE5C
+少年「０．００００００００００００００００１％たりとも、ない」%K%P
+Kid「There is not even a 0.00000000000000001％ possibility.」%K%P
+0xE68
+優「…………」%K%P
+You「...」%K%P
+0xE7C
+優「こんな自信過剰な約束、聞いたこともないけど……」%K%P
+You「Talk about promising more than you can deliver...」%K%P
+0xE88
+優「仕方ない、付き合ってあげるとしますか」%K%P
+You「Oh well. I suppose I'll have to trust you.」%K%P
+0xEC0
+（間に合わなかった……）%K%P
+(I didn't make it...)%K%P
+0xECC
+（約束を果たせなかった……）%K%P
+(I couldn't keep my promise...)%K%P
+0xED8
+（ぼくは、護れなかったんだ……）%K%P
+(I couldn't protect her...)%K%P
+0xEE4
+（嘘つき…………）%K%P
+(I was a liar...)%K%P
+0xEF0
+（――この大嘘つき野郎ぉっ！！！）%K%P
+(...A damn liar!)%K%P
+0xF2C
+そのとき、僅かな光の暖かさを感じた。%K%P
+Just then, I felt a faint, warm light.%K%P
+0xF38
+光……？%K%P
+Light?%K%P
+0xF44
+平坦な闇の世界を割くは、一条の光刃。%K%P
+A ray of light sliced through the plain dark world.%K%P
+0xF50
+開け放たれるヒンメルの扉――。%K%P
+The door of Himmel started to open...%K%P
+0xF5C
+その向こうは、光まばゆき白い世界だった。%K%P
+Beyond the door spread a dazzling white world.%K%P
+0xF68
+天国……。%K%P
+Heaven...%K%P
+0xF74
+幻か？　またぼくは幻覚を見ているのか……？%K%P
+Heaven... was it an illusion?%K%P
+0xF80
+――いや、違う。%K%P
+―No, it wasn't.%K%P
+0xF8C
+これこそが、本当の現実。%K%P
+It was reality.%K%P
+0xF98
+これがぼくの世界の真実に間違いない。%K%P
+It was undoubtedly the truth of my world.%K%P
+0xFA4
+そうだ……。%K%P
+I knew that...%K%P
+0xFB0
+向こう側だ……。%K%P
+If we went to the place...%K%P
+0xFBC
+あの場所へ行けば……。%K%P
+On the other side of the door...%K%P
+0xFC8
+もう一度、逢えるのかもしれない。%K%P
+We could meet again.%K%P
+0xFD4
+今度こそ護り通せるかもしれない。%K%P
+That time, I might be able to protect her.%K%P
+0xFE0
+……優。%K%P
+...You.%K%P
+0x100C
+ぼくは――%K%P
+I...%K%P
+0x1018
+静かに、%K%P
+quietly...%K%P
+0x1024
+その目を、開いた。%K%P
+opened my eyes.%K%P

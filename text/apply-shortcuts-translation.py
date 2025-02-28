@@ -9,28 +9,28 @@ import re
 
 # Layout:
 # 0x0 8 bytes - magic header (09 11 00 60 08 00 00 00)
-# 0x8 - shortcut data offset (default: 0xf30)
+# 0x8 - shortcut data offset (default: 0x1584)
 # 0xc - table offset (value: 0x10)
-# 0x10 30 * 0x34 byte blocks - table
+# 0x10 32 * 0x34 byte blocks - table
 # In each block:
 #   0x0 - (u32) title text offset
 #   0x4 - (u32) description text offset
 #   0x8 - (u32) shortcut data offset
 #   0xc-0x2f - ?????
 #   0x30 - (u32) 0
-# 06f8 - 0 marks end of the table
-# 0x6fc - Texts
-# 0xf30 - shortcut data (align: 4 bytes)
-# 0x36c8 - ???? magic data with a table with shortcut data offsets
+# 0x690 - 0 marks end of the table
+# 0x694 - Texts
+# 0x1584 - shortcut data (align: 4 bytes)
+# - ???? magic data with a table with shortcut data offsets
 #           table starts at 0x30, every 2nd int32, count: 90 (0x5a)
 table_offset = 0x10
 table_entry_sz = 0x34
-table_entry_count = 30
-text = [0x62c, 0xf2e]
-shortcut_data_offset = 0xf30
-data2_offset = 0x36c8
-data2_table_off = 0x30
-data2_table_sz = 90
+table_entry_count = 32
+text = [0x694, 0x1582]
+shortcut_data_offset = 0x1584
+data2_offset = 0x1EEC
+# data2_table_off = 0x30
+# data2_table_sz = 90
 
 def main():
 
@@ -56,8 +56,8 @@ def main():
 
   head_mv = memoryview(head)
   head_int = head_mv.cast("I")
-  data2_mv = memoryview(data2)
-  data2_int = data2_mv.cast("I")
+  # data2_mv = memoryview(data2)
+  # data2_int = data2_mv.cast("I")
 
   body = bytearray()
   
@@ -89,8 +89,8 @@ def main():
       head_int[data_offset_i] += data_offset_diff
 
     # data2
-    for i in range(data2_table_sz):
-      data2_int[data2_table_off//4 + 1 + i*2] += data_offset_diff
+    # for i in range(data2_table_sz):
+      # data2_int[data2_table_off//4 + 1 + i*2] += data_offset_diff
 
   head_mv.release()
   data2_mv.release()

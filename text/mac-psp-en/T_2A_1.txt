@@ -1,0 +1,753 @@
+text area offset and size:
+0x1468
+0x2F36
+0xB8
+武「ふぁ～～～～～～～～～～～～あっと」%K%P
+Takeshi「*Yaaaaaaaaawn*...」%K%P
+0xC4
+武「眠い……」%K%P
+Takeshi「I'm sleepy...」%K%P
+0xD0
+寝不足の頭に靴音がこだまする。%K%P
+The lack of sleep made the echo of the shoes scraping the ground seem louder than usual.%K%P
+0xDC
+大きく伸びをしながら、緊急避難用通路を歩いていた。%K%P
+As I walked down the emergency corridor, I stretched.%K%P
+0xE8
+隣には優が。%K%P
+You was next to me.%K%P
+0xF4
+少し遅れて、少年とココが俺達の後に続いている。%K%P
+Coco and the Kid trailed a little way behind us.%K%P
+0x108
+優「あんなにぐっすり眠ってたくせに……」%K%P
+You「And you slept so hard...」%K%P
+0x114
+武「って言ったってさぁ、今何時だと思ってんだよ？」%K%P
+Takeshi「Yeah, but what time is it right now?」%K%P
+0x120
+優「５時半」%K%P
+You「5:30 a.m.」%K%P
+0x12C
+武「そうだ。つまり実質４時間半しか寝てないことになる」%K%P
+Takeshi「That's right. So that means I only slept four and a half hours.」%K%P
+0x140
+優「『しか』じゃなくて『も』でしょ？」%K%P
+You「Not 'only'. You slept that much!」%K%P
+0x14C
+優「この状況で、よくそんなに眠れるわね……」%K%P
+You「I don't know how you could sleep like that given our situation...」%K%P
+0x158
+武「こんな状況だからこそ、ちゃんと睡眠はとっとかなきゃいけないんじゃないか」%K%P
+Takeshi「It's because it is this kinda situation that we've gotta sleep.」%K%P
+0x164
+武「いざと言うときになって、頭が回転しなかったらヤバいだろ？」%K%P
+Takeshi「Our minds have to be sharp. We have to be ready for anything, right?」%K%P
+0x178
+優「じゃあ、今は回転してるんだ？」%K%P
+You「So your mind is sharp right now?」%K%P
+0x18C
+武「まあ、寝不足気味だからな、フル回転とまではいかないけど……」%K%P
+Takeshi「Well, I'm still a bit sleep-deprived, so not all my pistons are firing...」%K%P
+0x198
+武「それなりに、人並み程度にはまわってるんじゃないかと……」%K%P
+Takeshi「But I think I'm doing about as good as the next guy.」%K%P
+0x1A4
+武「って、あれ？」%K%P
+Takeshi「Hey, aren't you...?」%K%P
+0x1B0
+気がつくと、隣に優の姿はなかった。%K%P
+The next thing I noticed, You was no longer next to me.%K%P
+0x1BC
+立ち止まって振り返る。%K%P
+I stopped and looked back.%K%P
+0x1EC
+少年とココが、右に伸びた脇道へと入って行くところが見えた。%K%P
+I saw the Kid and Coco vanish into a small side corridor to the right.%K%P
+0x1F8
+俺は慌てて３人の後を追いかけた。%K%P
+I hurried after the three of them.%K%P
+0x20C
+優「で？　どうなのよ？　睡眠の成果は……」%K%P
+You「And? How is sleeping beauty...?」%K%P
+0x218
+追いついた俺に向かって、優は皮肉っぽく言った。%K%P
+You spoke to me sarcastically once I'd caught up.%K%P
+0x224
+武「さっき言ったろ、フル回転じゃないって」%K%P
+Takeshi「I just told you. I'm not running at full power.」%K%P
+0x238
+優「はぁ～～～……」%K%P
+You「*Sigh*...」%K%P
+0x244
+大げさな溜め息と共に、優は肩をすくめた。%K%P
+You let out an exasperated sigh and shrugged her shoulders.%K%P
+0x250
+そして何故か、眉をつり上げる。%K%P
+She also arched an eyebrow as if annoyed.%K%P
+0x264
+優「倉成ぃ～～～……」%K%P
+You「Kuranari...」%K%P
+0x270
+優「いっぺん鏡、見たほうがいいんじゃない？」%K%P
+You「You know, I think you'd better take a look in the mirror.」%K%P
+0x27C
+武「は？　鏡？」%K%P
+Takeshi「Huh? Mirror?」%K%P
+0x290
+優「あんたねぇ……ともかく、さっさと顔洗ったほうがいいよ」%K%P
+You「You'd... really better wash your face.」%K%P
+0x2C0
+緊急避難用通路から非常階段に入る。%K%P
+We entered the emergency stairs from the emergency corridor.%K%P
+0x2CC
+ついさっき空に叩き起こされたばかりの俺達４人は、３階――ドリットシュトックにある制御室へと向かっていた。%K%P
+We had just been roused from sleep by Sora, and the four of us shuffled to the control room on the third floor, Dritter Stock.%K%P
+0x2D8
+あの狭苦しい再圧チャンバーでの加減圧は無事終了し、不調を訴える者も出なかった。%K%P
+We seemed to have passed through the decompression process without a hitch, as no one had any complaints.%K%P
+0x2E4
+昨夜あんなに辛そうだったココも、今では……%K%P
+Even Coco, who had seemed to be having such a rough time, was...%K%P
+0x2F8
+ココ「ぽっかりぽかぽか日曜日ぃ～♪」%K%P
+Coco「Sunny, sunny, Sunday～」%K%P
+0x304
+ココ「ぷっかりぷかぷか水曜日ぃ～♪」%K%P
+Coco「Windy, windy, Wednesday～」%K%P
+0x310
+ココ「ぴっかりぴかぴかピピ曜日ぃ～♪」%K%P
+Coco「Pretty, pretty Pipi today～」%K%P
+0x31C
+ピピ「わんっ！」%K%P
+Pipi「*Woof*!」%K%P
+0x328
+どうやらご機嫌なようだった。%K%P
+Even the dog seemed in high spirits.%K%P
+0x334
+昨日に輪をかけてハイかもしれないほどに。%K%P
+They looked even happier than the day before.%K%P
+0x348
+床に溜まった水をバシャバシャと蹴飛ばしながら通路を進んで行く。%K%P
+The water on the corridor floor splashed and sprayed as we walked.%K%P
+0x354
+隣の優は先程から口を尖らせていて、口を開こうとしない。%K%P
+You, walking next to me, had clammed up.%K%P
+0x360
+（何を怒ってるんだ、こいつ……？）%K%P
+(I wonder what she's peeved about...)%K%P
+0x36C
+俺は速度を緩め、後ろを歩いていた少年と並んだ。%K%P
+I slowed down my pace to walk with the Kid.%K%P
+0x378
+武「なぁ、優のやつ、何であんなにピリピリしてんだ？」%K%P
+Takeshi「Hey, you got any idea what You's all miffed about?」%K%P
+0x38C
+少年「さぁ？」%K%P
+Kid「Who knows?」%K%P
+0x398
+ニヤニヤと笑いながら、少年は答えた。%K%P
+The Kid answered, grinning.%K%P
+0x3A4
+武「っておい、お前なんで笑ってんだよ。何か知ってるのか？」%K%P
+Takeshi「Hey, what're you laughing about? Do you know something that I don't?」%K%P
+0x3B8
+少年「心当たり、ないの？」%K%P
+Kid「You sure you don't have any ideas what it could be?」%K%P
+0x3C4
+武「あったら聞いたりしないぞ」%K%P
+Takeshi「If I did, I wouldn't be asking you.」%K%P
+0x3D0
+武「優は、鏡を見ろとかなんとかって言ってたけどさ」%K%P
+Takeshi「You told me to 'look in the mirror', but...」%K%P
+0x3E4
+少年「ははっ、なぁ～んだ、教えちゃったのかぁ」%K%P
+Kid「Huh?」%K%P
+0x3F0
+武「えっ？」%K%P
+Takeshi「Huh?」%K%P
+0x3FC
+少年「つまんないの……」%K%P
+Kid「That's no fun...」%K%P
+0x410
+少年は俺の顔をチラチラと見ながら笑いを堪えていた。%K%P
+The Kid kept glancing at my face and trying not to smile.%K%P
+0x41C
+（顔……？）%K%P
+(My face...?)%K%P
+0x428
+俺は手の平で、自分の顔を拭ってみた。%K%P
+I wiped the palm of my hand on my face.%K%P
+0x434
+広げた手の平には、黒いインクのようなものが付着していた。%K%P
+It looked like black ink was smeared there.%K%P
+0x440
+武「なんだ、これ」%K%P
+Takeshi「What's this?」%K%P
+0x44C
+俺はシャツの裾でそれを拭おうとする。%K%P
+I tried to wipe it off with my shirt collar.%K%P
+0x458
+だが、どうもうまく落ちない。%K%P
+But it wouldn't come off.%K%P
+0x46C
+少年「ふふっ……」%K%P
+Kid「Haha...」%K%P
+0x478
+少年「あ、トイレならあっちだよ」%K%P
+Kid「Oh, there's a toilet over there.」%K%P
+0x484
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x4D4
+水道の壊れた洗面台から、水が溢れ続けていた。%K%P
+The faucet was broken, and the sink was overflowing with water.%K%P
+0x4FC
+速攻でざぶざぶと手を洗い、顔を洗った。%K%P
+I hurriedly washed my hands and then my face.%K%P
+0x508
+目の前の鏡は粉々になっていた。俺の顔がどうなっていたのかはわからない。%K%P
+The mirror in front of me was shattered into so many shards that it was useless.%K%P
+0x514
+が、手の汚れは水であらかた落とせたし、恐らく大丈夫だろう。%K%P
+But most of the black had come off of my hands, so I thought my face was probably alright.%K%P
+0x520
+武「ちっ、あの女……」%K%P
+Takeshi「Damn, that girl...」%K%P
+0x52C
+吐き捨てるようにそう言うと、洗面所を飛び出る。%K%P
+I said it disgustedly and hurried out of the bathroom.%K%P
+0x584
+俺は再び優のもとへと駆け寄った。%K%P
+I went up to You again.%K%P
+0x590
+武「やいっ、てめーっ！　俺様の顔に、何か書きやがったな？」%K%P
+Takeshi「Hey, you! What did you write on my face?」%K%P
+0x5C0
+優「は？」%K%P
+You「Huh?」%K%P
+0x5CC
+武「俺が寝てる間に、落書きか何かしたんだろ？」%K%P
+Takeshi「While I was asleep, you scribbled all over my face, didn't you?」%K%P
+0x5D8
+優「落書きぃ～？」%K%P
+You「Scribble?」%K%P
+0x5E4
+優は歩きながら、俺の顔をまじまじと見つめた。%K%P
+As she walked, You gaped at my face.%K%P
+0x5F8
+優「なぁ～に言っちゃってんだかねぇ～、この人は……」%K%P
+You「What are you talking about...?」%K%P
+0x604
+優「ひょっとして、まだ寝ぼけてるとか？」%K%P
+You「You're probably still asleep.」%K%P
+0x610
+武「とぼけたってムダなんだよ、こんにゃろーっ」%K%P
+Takeshi「Don't play dumb with me, You!」%K%P
+0x61C
+武「さっき鏡がどうたらって言ってたじゃねーか」%K%P
+Takeshi「You were just talking about a mirror.」%K%P
+0x628
+優「言ったっけ？　そんなこと」%K%P
+You「Oh, was I? A mirror?」%K%P
+0x634
+武「言った、確かに言った」%K%P
+Takeshi「You said it. I know you said it.」%K%P
+0x640
+優「聞き間違えたんじゃないのぉ～？　やっぱり寝ぼけてるんだよ、きっと」%K%P
+You「Are you sure your ears aren't playing tricks on you? I'm pretty sure you're still half asleep.」%K%P
+0x64C
+武「じゃあ、これは何なんだよ！」%K%P
+Takeshi「Then what's this?」%K%P
+0x658
+俺はさっき手のインクを拭いたシャツの裾を示した。%K%P
+I showed her my shirt collar where I had wiped the ink.%K%P
+0x674
+優「う～ん、どれどれ……」%K%P
+You「Hmmm, what...?」%K%P
+0x680
+優は呟くと、俺に近寄り……%K%P
+You mumbled that, so I stepped closer...%K%P
+0x68C
+優「ふむふむ、ふむふむ……」%K%P
+You「Well...」%K%P
+0x698
+不意に俺の手の平をつまみあげ、食い入るように見つめ始めた。%K%P
+Suddenly she grabbed my hand and stared at my palm intently.%K%P
+0x6AC
+優「おおっ！　こいつぁ～珍しい手相をしとるのぉ～」%K%P
+You「Oh! Your palm has an interesting future for you.」%K%P
+0x6B8
+武「手相だぁ～？　今は手相のことなんかっ」%K%P
+Takeshi「Palm reading? Is that what you're into now?」%K%P
+0x6CC
+優「乾坤一擲の相と言ってな、運命が大きくふた手に分かれることを示しておるのじゃ」%K%P
+You「Your palm tells me that your fate diverges into two distinctly different futures.」%K%P
+0x6D8
+優「つまり『おーる・おあ・なっしんぐ』じゃな」%K%P
+You「It's kind of an all or nothing outcome.」%K%P
+0x6E4
+優「すべてを得るか、あるいはすべてを失ってしまうか……」%K%P
+You「You will either acquire or lose everything...」%K%P
+0x6F0
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x6FC
+優「一方に進めば、金運、仕事運、共に上々で、美しい女性とめぐり逢い、子宝にも恵まれ、幸せな家庭を築けるじゃろう」%K%P
+You「One path will put you on the road to riches, a good job, an encounter with a beautiful woman, and bless you with a strong home and offspring.」%K%P
+0x708
+優「おまけに健康運も最高ときとる……」%K%P
+You「And you will be as healthy as possible...」%K%P
+0x714
+優「人がうらやむ程の長寿長命をまっとうすることになりそうじゃ」%K%P
+You「You will live to a ripe old age that will make those around you jealous.」%K%P
+0x720
+優「――ただし！　――ただしじゃ！」%K%P
+You「HOWEVER! HOWEVER!」%K%P
+0x72C
+優「もう一方に進んでしまうと……これは本当に大変なことになるぞ？」%K%P
+You「If you take the other path... you will be in dire straits.」%K%P
+0x738
+武「た、たいへん……って？」%K%P
+Takeshi「D-dire...?」%K%P
+0x74C
+優「う～む……これ以上は、わしの口からは言えんのぉ」%K%P
+You「Yes... but I can tell you no more.」%K%P
+0x758
+優「この生命線の真ん中のところを、よーくよーく、じーーーっくりと見つめてみるのじゃ」%K%P
+You「You should take a good look at the middle of your lifeline.」%K%P
+0x764
+優「そこに、答えが刻まれておるのじゃからな」%K%P
+You「Because that is where the answer can be found.」%K%P
+0x778
+優「ふぉっふぉっふぉっふぉっふぉっふぉっふぉ……」%K%P
+You「Heeheehee...」%K%P
+0x78C
+俺は自分の手の平に視線を落とした。%K%P
+I looked down at the palm of my hand.%K%P
+0x798
+生命線を、上からゆっくりと辿って行く。%K%P
+My eyes traced a line down my lifeline.%K%P
+0x7A4
+目を皿のようにして、刻み込まれたシワの１本１本を確かめていった。%K%P
+Wide-eyed, I scrutinized each wrinkle and line.%K%P
+0x7B0
+しかしどこにも答えらしきものは見当たらない。%K%P
+But I didn't see an answer anywhere.%K%P
+0x7BC
+シワの隙間にはまだ少しだけ、黒いインクが埋もれていた。%K%P
+There was still black ink in the creases of my hand.%K%P
+0x7C8
+黒いインク……。%K%P
+Black ink...%K%P
+0x7D4
+黒い、インク……。%K%P
+Black ink...%K%P
+0x7E0
+――黒いインク！？%K%P
+Black ink!?%K%P
+0x7EC
+そうだよ、手相なんかどうだっていいじゃないか！%K%P
+I remembered what I was angry about. Forget fortune telling!%K%P
+0x7F8
+武「お、お前なぁ！　そうやって話をごまかそうと……」%K%P
+Takeshi「Y-you! You're trying to trick me...」%K%P
+0x804
+武「……って、あれっ！？」%K%P
+Takeshi「...Hey, what!?」%K%P
+0x810
+気がつくと、隣に優の姿はなかった。%K%P
+The next thing I noticed, You was no longer next to me.%K%P
+0x81C
+立ち止まって振り返る。%K%P
+I stopped and looked back.%K%P
+0x830
+少年とココが、左に伸びた脇道へと入って行くところが見えた。%K%P
+I saw the Kid and Coco vanish into a small side corridor to the left.%K%P
+0x83C
+武「うわっ！　うわっ！　またかよ、くっそぉーっ！」%K%P
+Takeshi「Whoa! Geez! I don't believe these guys!」%K%P
+0x848
+俺は慌てて３人の後を追いかけた。%K%P
+I hurried after the three of them.%K%P
+0x8A0
+制御室の前にはつぐみがいた。%K%P
+Tsugumi was in front of the control room.%K%P
+0x8AC
+壁に寄りかかり、腕を組んで顔をうつむけている。%K%p
+She was leaning against the wall with her arms folded and head down.%K%p
+0x1440
+挨拶する
+Talk to her
+0x144C
+向こうが何か言うまで待つ
+Wait and see what she says
+0x8F4
+こいつは昨日いったいどこに……いや、まぁ今はそれは問わないことにしよう。%K%P
+I wondered where she could have run off to the day before... but decided not to ask.%K%P
+0x900
+俺はなるたけ朗らか爽やかに、朝の挨拶を繰り出した。%K%P
+I decided to shower her with the cheeriest greeting I could muster.%K%P
+0x91C
+武「よっ、おはよう！！」%K%P
+Takeshi「GOOD MORNING!」%K%P
+0x928
+武「調子はどうだ？　ヤバかったら早めに、加減圧室に行っとけよ！」%K%P
+Takeshi「How are you feeling? If you aren't feeling good, you should probably get to the decompression chamber!」%K%P
+0x934
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x940
+つぐみは動かなかった。%K%P
+Tsugumi didn't budge.%K%P
+0x94C
+口を半開きにしたまま、まばたきを何度か繰り返しただけだった。%K%P
+She stood there with her mouth half-open, only blinking her eyes a couple of times.%K%P
+0x958
+武「なんだよお前、寝不足か、低血圧か？」%K%P
+Takeshi「What's the matter? You tired? Low blood pressure?」%K%P
+0x964
+武「まぁ、俺も安眠できたとは言い難い。あのくそ狭い部屋で、地べたに座ってたからな……」%K%P
+Takeshi「Well, I didn't exactly sleep like a baby either. That damn room was so small that I ended up sitting on the floor all night...」%K%P
+0x970
+俺は欠伸をし、顔面を両手でゴシゴシとこすりながら言った。%K%P
+I yawned and rubbed my eyes with both hands as I spoke.%K%P
+0x984
+するとどういうわけか、つぐみはたちまち目を細め、軽蔑を込めた眼差しで俺のことを睨みつけた。%K%P
+But then Tsugumi's eyes narrowed into slits, and she leveled a steely glare at me.%K%P
+0x990
+遮光器土偶のような目つきだった。%K%P
+It was the kind of look that could kill.%K%P
+0x99C
+つぐみ「あなたって……」%K%P
+Tsugumi「You...」%K%P
+0x9B0
+つぐみ「……最低ね」%K%P
+Tsugumi「...Are the absolute worst.」%K%P
+0x9D4
+俺はつぐみの顔を覗き込んだ。%K%P
+I peered at Tsugumi's face.%K%P
+0x9E0
+こいつは昨日どこに行っていたのか……。%K%P
+I was curious where she had gone off to the day before...%K%P
+0x9EC
+何かひと言あっても良さそうなものだ。%K%P
+She could at least have given me a hint.%K%P
+0x9F8
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xA04
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xA10
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xA1C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xA28
+つぐみは動かなかった。%K%P
+Tsugumi didn't budge.%K%P
+0xA34
+口を半開きにしたまま、まばたきを何度か繰り返しただけだった。%K%P
+She stood there with her mouth half-open, only blinking her eyes a couple of times.%K%P
+0xA40
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xA4C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xA60
+つぐみ「なに？」%K%P
+Tsugumi「What?」%K%P
+0xA6C
+つぐみはようやく口を開く。%K%P
+Tsugumi finally spoke.%K%P
+0xA80
+つぐみ「何か文句あるの？」%K%P
+Tsugumi「You got a problem?」%K%P
+0xA8C
+そして顔をしかめた。%K%P
+Then she scowled.%K%P
+0xA98
+武「え？　あ、ああ、おはよう……」%K%P
+Takeshi「Huh? Oh... good... morning...」%K%P
+0xAA4
+武「昨日はよく眠れたか？　こっちはいまいちだ。あのくそ狭い部屋で、地べたに座ってたからな……」%K%P
+Takeshi「Did you get a good sleep last night? I didn't. That damn room was so small that I ended up sitting on the floor all night...」%K%P
+0xAB0
+俺は欠伸をし、顔面を両手でゴシゴシとこすりながら言った。%K%P
+I yawned and rubbed my eyes with both hands as I spoke.%K%P
+0xABC
+武「ところで、なぁ、昨日あれからどうしてたんだ？」%K%P
+Takeshi「So what did you do after that yesterday?」%K%P
+0xAD0
+するとどういうわけか、つぐみはいよいよ目を細め、軽蔑を込めた眼差しで俺のことを睨みつけた。%K%P
+But then Tsugumi's eyes narrowed into slits, and she leveled a steely glare at me.%K%P
+0xADC
+遮光器土偶のような目つきだった。%K%P
+It was the kind of look that could kill.%K%P
+0xAE8
+つぐみ「ひどい顔……」%K%P
+Tsugumi「Your face is...」%K%P
+0xAFC
+つぐみ「……最低ね」%K%P
+Tsugumi「...The absolute worst.」%K%P
+0xB08
+武「は？」%K%P
+Takeshi「Huh?」%K%P
+0xB1C
+つぐみは呆れ果てたように首を振ると、制御室の中へと消えて行った。%K%P
+Tsugumi shook her head as if she was fed up with me and vanished inside the control room.%K%P
+0xB28
+（……さ、最低？）%K%P
+(...A-absolute worst?)%K%P
+0xB34
+武「おいおいっ、ちょっと待ってくれよ！」%K%P
+Takeshi「Hey! Hold on a sec!」%K%P
+0xB40
+空「倉成さん……」%K%P
+Sora「Kuranari-san...」%K%P
+0xB4C
+背後から、空の声が届いた。%K%P
+Sora's voice came from behind me.%K%P
+0xB60
+空「そんなところで何をやっているんです？」%K%P
+Sora「What are you doing there?」%K%P
+0xB6C
+空「早く中に入ってください」%K%P
+Sora「Please hurry inside.」%K%P
+0xB78
+武「でも……」%K%P
+Takeshi「But...」%K%P
+0xB84
+空「いいから、早く……お願いします」%K%P
+Sora「Just please... go inside.」%K%P
+0xB90
+昨日よりもさらに強張った空の表情が、そこにあった。%K%P
+The expression on her face appeared more stressed than the day before.%K%P
+0xB9C
+何か深刻な事態が起こりつつある……その表情はすべてを物語っていた。%K%P
+It seemed as if her face said... that something serious was unfolding...%K%P
+0xC3C
+空「こんなにも早い時間に、皆さんにお集まりいただいたのは、他でもありません」%K%P
+Sora「I'm sorry that I had to have you gather so early. There was no other way.」%K%P
+0xC48
+空「実は皆さんに、一刻も早くお知らせしなければならないことがあったのです」%K%P
+Sora「Actually, everyone, there is something I need to tell you right away.」%K%P
+0xC54
+空の言葉は、そこで途切れた。%K%P
+Sora paused for a second.%K%P
+0xC60
+優・つぐみ・ココ・少年・そして俺……集まった５人の顔を、空は順番に確かめて行く。%K%P
+Sora looked at all five of us in turn... You, Tsugumi, Coco, the Kid, and me.%K%P
+0xC6C
+静寂の中、空冷用のファンが唸りをあげて廻っていた。%K%P
+The cooling fan whirred away in the silence.%K%P
+0xC78
+時折ギリギリと、金属のすり切れるような音が室内に響き渡った。%K%P
+Occasionally, the sound of metal on metal rang through the room.%K%P
+0xC84
+俺達５人はじっと固まったまま、空の次の言葉を待ち続けた。%K%P
+The five of us waited on Sora's next words.%K%P
+0xC90
+空「昨夜、小町さんを除く４人の皆さんが加減圧室に入られた後……」%K%P
+Sora「Last night, after the four of you apart from Komachi-san entered the pressurization chamber...」%K%P
+0xC9C
+空「私はこの制御室で、ここからの脱出方法や、外部への通信手段について考えていました」%K%P
+Sora「I was in the control room here, thinking about ways to escape or contact the outside.」%K%P
+0xCA8
+空「そして……」%K%P
+Sora「And...」%K%P
+0xCB4
+空「ＬｅＭＵ内の状況をひとつひとつ調べていくうちに、ある事実が判明したのです」%K%P
+Sora「While I was checking the internal status of LeMU, I discovered something.」%K%P
+0xCC0
+優「脱出するルートが見つかったの！？」%K%P
+You「You found a way to escape!?」%K%P
+0xCCC
+空「いいえ」%K%P
+Sora「No.」%K%P
+0xCD8
+少年「ってことは、新たに外部へ連絡する方法が！？」%K%P
+Kid「Then a way to contact the outside?」%K%P
+0xCE4
+空「それも、まだです」%K%P
+Sora「Not yet.」%K%P
+0xCF0
+武「じゃあ、どんなことがわかったと？」%K%P
+Takeshi「Then what did you figure out?」%K%P
+0xD04
+空「そうですね……」%K%P
+Sora「Actually...」%K%P
+0xD18
+空「圧力隔壁の耐久強度……その限界が、わかりました」%K%P
+Sora「I discovered the amount of pressure the bulkheads can withstand... I found their limits.」%K%P
+0xD2C
+そう言って、空は視線をコンソールの脇へと向けた。%K%P
+Saying that, Sora turned her eyes to the side of the console.%K%P
+0xD40
+暗がりの中に、ＬｅＭＵの立体画像が浮かび上がる。%K%P
+In the darkness, a three-dimensional image of LeMU sprung up.%K%P
+0xD5C
+ココ「『あつりょくかくへき』って、なぁ～に？」%K%P
+Coco「What's the... pressure bulkhead thingy...?」%K%P
+0xD68
+ココが懐に抱いたピピをきつく抱きしめながら尋ねた。%K%P
+Coco held Pipi tightly as she asked.%K%P
+0xD74
+空「ＬｅＭＵの壁のことです。外側の海水と内側の空間を隔てている部分」%K%P
+Sora「I mean LeMU's walls. The partitions between the outer seawater and the inner air.」%K%P
+0xD80
+少年「その限界がわかったって……どういうことなの？」%K%P
+Kid「What do you mean... when you say you found the limit?」%K%P
+0xD8C
+空「昨日もお伝えしましたように、ＬｅＭＵは基本的に、飽和潜水仕様の設計をもとに建造された構造物です」%K%P
+Sora「Like I said yesterday, LeMU is a structure basically constructed on a saturation diving specification design.」%K%P
+0xD98
+空「つまり、内部の気圧が、外部の水圧と同等か、それを上まわるような構造になっていた、ということです」%K%P
+Sora「In other words, the internal air pressure equals or is greater than the external water pressure.」%K%P
+0xDA4
+空「しかし、今や館内の気圧は１気圧……」%K%P
+Sora「However, the complex's internal air pressure is currently at one atmosphere...」%K%P
+0xDB0
+空「ですから……」%K%P
+Sora「Therefore...」%K%P
+0xDBC
+優「ＬｅＭＵの外殻は、常に苛烈な水圧の力にさらされてるということになる」%K%P
+You「LeMU's outer shell is constantly being subjected to severe water pressure.」%K%P
+0xDC8
+空「はい」%K%P
+Sora「Correct.」%K%P
+0xDD4
+優「ところが、ＬｅＭＵは元々、このような状況に長く耐えられるようには造られていない」%K%P
+You「But LeMU is not constructed to endure this situation for a long period of time.」%K%P
+0xDE0
+優「必然的に、いつかは限界が訪れることになる……」%K%P
+You「Inevitably, it will, at some point, reach its limit...」%K%P
+0xDEC
+空「おっしゃる通りです」%K%P
+Sora「Well put, Tanaka-san.」%K%P
+0xDF8
+武「で……その限界って言うのは、いつ……？」%K%P
+Takeshi「So... when is this limit...?」%K%P
+0xE04
+空「レミの計算によると、今から約１１９時間後に……」%K%P
+Sora「According to LeMMIH's calculations, 119 hours from now...」%K%P
+0xE10
+つぐみ「１１９時間……」%K%P
+Tsugumi「119 hours...」%K%P
+0xE1C
+つぐみ「５日後、か」%K%P
+Tsugumi「Five days, huh?」%K%P
+0xE28
+空「完全圧潰推定時刻は『５月７日午前４時３０分前後』となっています」%K%P
+Sora「The estimated time of implosion is approximately 4:30 a.m. on May 7th.」%K%P
+0xE34
+空「勿論、あくまでも推定ですから、誤差はありますが」%K%P
+Sora「Of course, it is only a calculation, and there is a margin of error.」%K%P
+0xE40
+つぐみ「誤差はどのぐらいなの？」%K%P
+Tsugumi「What is the margin of error?」%K%P
+0xE4C
+空「±１２時間程度です」%K%P
+Sora「Plus or minus twelve hours.」%K%P
+0xE58
+武「う～ん……」%K%P
+Takeshi「Hmmm...」%K%P
+0xE64
+皆、黙って考えを巡らせ始める。%K%P
+Everyone went silent, lost in thought.%K%P
+0xE70
+空の口調から、切羽詰まった緊急事態であることは理解できた。%K%P
+Sora's talk had made it clear that we were in a crisis.%K%P
+0xE7C
+しかし俺には、いまいちピンと来なかった。%K%P
+But I still didn't know what to make of it.%K%P
+0xE88
+５日という時間は、果たして長いのか、短いのか？%K%P
+I didn't know if five days was a long time or a short one.%K%P
+0xE94
+今のところ目処は立っていないが……でも脱出の方法さえわかれば、５日もここにいることはなくなるだろう。%K%P
+We didn't have a schedule... but if we could find a way out, I didn't figure we'd be sticking around five days.%K%P
+0xEA0
+あるいはこちらから呼ばずとも、救助隊が俺達に気づいて、すぐに来てくれるかもしれない……。%K%P
+Even if we didn't call anyone, a rescue team might have been on its way anyway...%K%P
+0xEBC
+ココ「ねえねえ、空さん空さん？」%K%P
+Coco「Hey, hey! Sora-san?」%K%P
+0xEC8
+ココ「ココ、バカだからあんまりよくわかんなかったんだけどぉ……それって、こういうことだよねぇ？」%K%P
+Coco「I'm not very smart, so I'm not sure I understand... What does all that mean?」%K%P
+0xEDC
+空「？」%K%P
+Sora「?」%K%P
+0xEE8
+ココ「５月７日午前４時３０分頃に、ＬｅＭＵはくしゃっとペッタンコになっちゃう」%K%P
+Coco「Does that mean at 4:30 a.m. on May 7th, LeMU will get squashed like a pancake?」%K%P
+0xEF4
+ココ「もしかしたらそうなっちゃうのは、６日の午後４時半ぐらいかもしれないし、７日の午後４時半ぐらいかもしれない」%K%P
+Coco「But that might happen at around 4:30 p.m. on the 6th or at 4:30 p.m. on the 7th.」%K%P
+0xF00
+ココ「ここまではＯＫだよねぇ？」%K%P
+Coco「Is that okay so far?」%K%P
+0xF0C
+空「ええ……」%K%P
+Sora「Yes...」%K%P
+0xF18
+ココ「ってことはさぁ、逆に言うと、こういうことにならない？」%K%P
+Coco「So doesn't that mean the opposite is also true?」%K%P
+0xF24
+ココ「最低でも、６日の午後４時半ぐらいまでは、ＬｅＭＵはペッタンコにならない」%K%P
+Coco「I mean, at the worst, LeMU will last until 4:30 p.m. on May 6th.」%K%P
+0xF38
+ココ「だからぁ、それまでは全然大丈夫でぇ～、心配することなんかないぴょろり～ん♪」%K%P
+Coco「So we're fine until then. There's nothing to worry about. Hooray～」%K%P
+0xF4C
+ココ「ね？　そういうことでしょ？」%K%P
+Coco「Right? Is that what it means?」%K%P
+0xF58
+空「絶対に安全だと断定することはできませんが……」%K%P
+Sora「We can't be absolutely certain that we will be safe...」%K%P
+0xF64
+空「でも確かに、レミの計算結果から判断すると、そうなりますね」%K%P
+Sora「But judging from the results of LeMMIH's calculations, that would appear to be the case.」%K%P
+0xF70
+ココ「なぁ～んだなんだ、だったらぁ、それでいいじゃん」%K%P
+Coco「Oh, goodie. Then no problem.」%K%P
+0xF7C
+ココ「空さん、眉間にキュッてシワなんか寄せちゃってるからさぁ、ココはちょっぴりドキドキしちゃったよぉ」%K%P
+Coco「Sora-san, you looked all serious, and so I got kind of scared.」%K%P
+0xF88
+ピピ「わんわんっ、わんわんっ、わんっ！」%K%P
+Pipi「*Bow-wow*! *Wooooooof*!」%K%P
+0xF94
+ココ「『まったく、おどかすんじゃないぜベイブ』って、ピピもそう言ってるよ？」%K%P
+Coco「'Geez, don't scare me, babe.' I think that's what Pipi's trying to say.」%K%P
+0xFA0
+ピピ「わんっ！」%K%P
+Pipi「*Woof*!」%K%P
+0xFC8
+優「そうだよね……『あと１日で』なんて言われたら、思わず大暴れするかもしれないところだけど」%K%P
+You「I see... If you had said, 'We only have one more day', or something, I might have burst out crying.」%K%P
+0xFD4
+優「まだまだ時間は充分あるんだし……それまでにはきっと、誰か助けに来てくれるよ。ね？」%K%P
+You「So we still have lots of time... Someone will surely come to help us before that, right?」%K%P
+0xFFC
+優は隣にいた少年に同意を求めた。%K%P
+The Kid, standing next to You, agreed.%K%P
+0x1008
+少年はそれに答えるように『うんうん』と何度か頷く。%K%P
+He nodded rhythmically, as if answering a question.%K%P
+0x101C
+一度淀んだ場の空気はさらさらと流れ、皆の顔にも笑みが戻っていた。%K%P
+The tension in the air gave way and smiles returned to the faces around the room.%K%P
+0x1030
+つぐみでさえ、表情は崩さなかったものの、明らかに安堵の色を浮かべていた。%K%P
+Even Tsugumi, who didn't smile, looked relieved.%K%P
+0x1044
+時刻は５時５０分――%K%P
+It was 5:50 a.m.%K%P
+0x1050
+俺は遠慮なく、大きく欠伸をした。%K%P
+I gave a large yawn.%K%P

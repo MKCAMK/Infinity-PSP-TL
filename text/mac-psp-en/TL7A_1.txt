@@ -1,0 +1,813 @@
+text area offset and size:
+0x1508
+0x2A36
+0x98
+柔らかく温かな気配を感じる。%K%P
+A soft warmth surrounded me.%K%P
+0xA4
+光。%K%P
+Light.%K%P
+0xB0
+遠く長い道のりを潜り抜けて来たような気がする。%K%P
+I felt that I had overcome an immense distance.%K%P
+0xBC
+闇の終わり。%K%P
+The end of darkness.%K%P
+0xC8
+柔らかい、白い光の中に俺はいた。%K%P
+A soft white light surrounded me.%K%P
+0xD4
+比べるべきものは、一切見つからない。%K%P
+There was nothing else for me to look at.%K%P
+0xE0
+足元には何もない。%K%P
+There was nothing below me.%K%P
+0xEC
+俺を支えるものは、何も存在していなかった。%K%P
+Nothing held me up.%K%P
+0xF8
+だが、不安は感じない。%K%P
+But for some reason, I was at peace.%K%P
+0x104
+浮かんでいる。%K%P
+I was floating.%K%P
+0x110
+しっかりと、浮かんでいる。%K%P
+Floating steadfastly.%K%P
+0x11C
+俺は、その只中にたゆたっていた。%K%P
+I was swaying freely in the center...%K%P
+0x164
+優しく漂う水の中央。%K%P
+In the center of gently drifting water.%K%P
+0x170
+微かに何かが聞こえてくる。%K%P
+I could hear something faintly.%K%P
+0x17C
+人生で、最初に記憶したその音は――%K%P
+The first sound I had heard in my life―%K%P
+0x188
+そう、鼓動の音だ。%K%P
+Yes, it was the sound of a heart beating.%K%P
+0x194
+思い出した。%K%P
+I remembered.%K%P
+0x1A0
+穏やかな鼓動に抱かれていた。%K%P
+I was surrounded by the gentle sound of a beating heart.%K%P
+0x1AC
+この上ない安らぎを感じていた。%K%P
+There was no greater feeling of peace than what I felt then.%K%P
+0x1B8
+いつまでここにいられるのだろうか？%K%P
+How long would I be able to stay there?%K%P
+0x1C4
+それはわからない。%K%P
+I didn't know.%K%P
+0x1D0
+いつかは、そこから離れなければならないのかもしれない。%K%P
+I knew that I would have to leave the place at some point.%K%P
+0x1DC
+僅かに繋いだ絆を、手放して。%K%P
+I would have to let go of that fragile bond soon.%K%P
+0x1E8
+けれど、悲しくはない。%K%P
+But I wasn't sad.%K%P
+0x1F4
+その時が、来たならば……%K%P
+If that time must come...%K%P
+0x200
+再び暗闇を切り開き、その先で……%K%P
+Darkness cleared again, and out of it would come...%K%P
+0x20C
+きっと未知の世界に、俺は決意の産声を上げるのだろう。%K%P
+A new world, where I would resolve to be reborn.%K%P
+0x218
+……………………。%K%P
+.........%K%P
+0x224
+…………。%K%P
+......%K%P
+0x2FC
+空「おはようございます」%K%P
+Sora「Good morning.」%K%P
+0x308
+光の温かさに目を覚ました。%K%P
+I woke with the warmth of the light.%K%P
+0x314
+冷たい床で、俺は眠りこけていた。%K%P
+I was sleeping on a cold floor.%K%P
+0x32C
+空は俺の目の前で、ゆったりと舞っている。%K%P
+Sora was floating right in front of me.%K%P
+0x338
+夢のようで、夢でない。%K%P
+It was like a dream, yet it was not a dream.%K%P
+0x344
+不思議な感覚だった。%K%P
+It felt strange.%K%P
+0x3F8
+武「おはよう……」%K%P
+Takeshi「Morning...」%K%P
+0x404
+武「おはよう、って、いい言葉だよな」%K%P
+Takeshi「'Good morning' is such a fantastic phrase, isn't it?」%K%P
+0x410
+空「ええ」%K%P
+Sora「Yes...」%K%P
+0x41C
+武「しっかり起きて頑張らなきゃな、って気持ちになるんだ」%K%P
+Takeshi「They make me feel like getting up and doing my best.」%K%P
+0x430
+空「ふふっ……そうですね」%K%P
+Sora「Haha... That's right.」%K%P
+0x43C
+柔らかく、空は微笑む。%K%P
+Sora smiled softly.%K%P
+0x448
+武「今、何時だ？」%K%P
+Takeshi「What time is it?」%K%P
+0x454
+空「わかりません」%K%P
+Sora「I don't know.」%K%P
+0x460
+空「どうやらタイマーが、故障してしまったようです」%K%P
+Sora「It seems that the timer has broken.」%K%P
+0x46C
+武「そっか……」%K%P
+Takeshi「Oh...」%K%P
+0x478
+ポケットのＰＤＡを取り出し、ボタンを押してみた。%K%P
+I took my PDA from my pocket and pressed the button to turn it on.%K%P
+0x484
+電池が切れている。画面には何も映らなかった。%K%P
+The battery was dead. Nothing showed on the screen.%K%P
+0x498
+空「現在時刻を知る手立てが、なくなってしまいましたね」%K%P
+Sora「It seems that we have lost all way to tell the time, haven't we?」%K%P
+0x4A4
+武「まぁね」%K%P
+Takeshi「Yeah.」%K%P
+0x4B0
+空「私とレミ各端末とのリンクも、つい先程遮断されてしまいました。ＬｅＭＵ本体の各種センサーも使用不能……」%K%P
+Sora「The connection between myself and the terminals at LeMMIH was severed just a little while ago, and all of the sensors in LeMU itself are no longer operational...」%K%P
+0x4BC
+空「しかし事前の計算によると、予想される外殻の耐久時間は――」%K%P
+Sora「But according to my previous calculations, we can expect this area to hold out another...」%K%P
+0x4C8
+武「ストップ」%K%P
+Takeshi「Stop!」%K%P
+0x4D4
+いつかのように、空の口の前に手をかざす。%K%P
+I put my hand in front of Sora's mouth.%K%P
+0x4E0
+それから、ゆっくりと手を退けた。%K%P
+And then slowly let my hand fall.%K%P
+0x4EC
+武「時間なんてもう、どうでもいいんだ」%K%P
+Takeshi「Time doesn't matter anymore.」%K%P
+0x4F8
+武「わからなくていい。心配する必要は、もういらない……」%K%P
+Takeshi「I don't need to know. There's no need to worry about it anymore...」%K%P
+0x504
+空「…………」%K%P
+Sora「............」%K%P
+0x518
+空「そう、ですよね」%K%P
+Sora「Yes, you are right.」%K%P
+0x524
+『考えるのをやめる』のは、職務に忠実な彼女には難しいのかもしれない。%K%P
+It may have been difficult for someone as conscientious as Sora to just 'stop thinking'.%K%P
+0x530
+それでも、空は笑ってくれた。%K%P
+Still, Sora smiled for me.%K%P
+0x544
+視線を巡らせ、それから思い出したように言う。%K%P
+She looked around and then spoke as if she had just remembered something.%K%P
+0x558
+空「そうだ、倉成さんが眠っている間に、いい報せが届きました」%K%P
+Sora「Oh, some good news arrived while you were sleeping, Kuranari-san.」%K%P
+0x564
+武「いい報せ？」%K%P
+Takeshi「Good news?」%K%P
+0x570
+空「ＩＢＦで通信が行われているのがわかったので、ＬｅＭＵの外壁を伝う微弱な電波から内容を解析してみたのですが……」%K%P
+Sora「I discovered that communications were still operational in IBF, so I analyzed the weak signals going through the outer wall of LeMU.」%K%P
+0x57C
+空「それによると、ＩＢＦにいた皆さんは、救助を受け、潜水艇に乗り、無事にインゼル・ヌルへと脱出できたようです」%K%P
+Sora「According to my results, everyone on IBF was rescued by a salvage vessel and made it safely to Insel Null.」%K%P
+0x588
+武「おお、そりゃあよかった」%K%P
+Takeshi「Wow, that's great news!」%K%P
+0x594
+武「やっぱり、気になってたからなぁ……」%K%P
+Takeshi「I was really worried about them...」%K%P
+0x5A8
+俺は天井を見上げた。%K%P
+I looked up at the ceiling.%K%P
+0x5B4
+今、みんなはそこにいるのだ。%K%P
+They were all there.%K%P
+0x5C0
+優・つぐみ・ココ・少年……。%K%P
+You, Tsugumi, Coco, the Kid...%K%P
+0x5CC
+見えないけど、なんとなくわかった。%K%P
+I couldn't see them, of course, but I knew somehow.%K%P
+0x5D8
+思いが伝わったのか、空も天井を見て、感慨深そうな顔をした。%K%P
+As if she understood what I was thinking, Sora looked up at the ceiling, smiling compassionately.%K%P
+0x5E4
+視線を戻す。%K%P
+I looked back.%K%P
+0x5FC
+彼女は俺を見た。%K%P
+She looked at me.%K%P
+0x608
+真っ直ぐな瞳で、見つめてきた。%K%P
+Straight into my eyes.%K%P
+0x614
+その瞳の奥に、じんわりと光が浮かんでいた。%K%P
+Deep within her pupils was a faintly shining light.%K%P
+0x620
+空「倉成さん……どうして、『ここ』に戻って来たんですか？」%K%P
+Sora「Kuranari-san... why did you come back here?」%K%P
+0x62C
+非常灯だけが点る暗がりの中、空は呟く。%K%P
+Sora murmured quietly in the darkness. The only light to illuminate us was coming from the emergency lights.%K%P
+0x638
+口調は穏やかだった。%K%P
+Her tone was peaceful.%K%P
+0x644
+空「本当の理由を、今一度、聞かせてください」%K%P
+Sora「Would you tell me the real reason one more time?」%K%P
+0x650
+穏やかに、笑みを浮かべて……%K%P
+A calm smile spread on her lips...%K%P
+0x65C
+空は、込み上げる涙を堪えている。%K%P
+Sora was holding back tears that threatened to burst forth at any moment.%K%P
+0x668
+武「そうだな……言うよ」%K%P
+Takeshi「Right... I'll tell you.」%K%P
+0x674
+武「俺には……」%K%P
+Takeshi「I have...」%K%P
+0x680
+武「命を賭けて、守りたいものがあった」%K%P
+Takeshi「Someone that I want to protect even if it costs me my life.」%K%P
+0x68C
+武「それは、形のあるものじゃない」%K%P
+Takeshi「She isn't something tangible.」%K%P
+0x698
+武「他の人間から見れば、バカバカしいことに思えるかもしれない」%K%P
+Takeshi「Other people may think I'm stupid.」%K%P
+0x6A4
+武「だけど、それは俺にとって、とても大切なものだった」%K%P
+Takeshi「But to me, she was the most valuable thing in the world.」%K%P
+0x6B0
+武「目を閉じれば、見えないのかもしれない」%K%P
+Takeshi「I may not be able to see her with my eyes closed.」%K%P
+0x6BC
+武「耳を塞げば、聞こえないのかもしれない」%K%P
+Takeshi「I may not be able to hear her if I plug my ears.」%K%P
+0x6C8
+武「でも、決して消えてなくなったりしない」%K%P
+Takeshi「But that doesn't mean she will disappear.」%K%P
+0x6D4
+武「そこに存在していることを、はっきりと確信したんだ」%K%P
+Takeshi「I know that she still exists.」%K%P
+0x6E0
+武「俺はそのことに……気づいたんだ」%K%P
+Takeshi「And I realized... just how important she is to me.」%K%P
+0x6EC
+空「はい……」%K%P
+Sora「Yes...」%K%P
+0x6F8
+静かに、彼女は頷いた。%K%P
+She nodded quietly.%K%P
+0x70C
+武「さてと……よっこらどっこいせ」%K%P
+Takeshi「Well... now... Hmppphh.」%K%P
+0x718
+床に手をついて、俺は身体を起こす。%K%P
+Using my hands to support myself, I got up.%K%P
+0x724
+武「用事が残ってたのを忘れてた」%K%P
+Takeshi「I forgot. I had some unfinished business.」%K%P
+0x730
+そして、ヒンメルのコンソールに向かった。%K%P
+I went over to the Himmel console.%K%P
+0x748
+空「用事？　なんですか？」%K%P
+Sora「Unfinished business? What do you mean?」%K%P
+0x754
+ふわりと笑顔を作って、空は言う。%K%P
+She smiled softly and said.%K%P
+0x760
+武「レミのメンテナンスモードは継続中かな？」%K%P
+Takeshi「Is LeMMIH still in maintenance mode?」%K%P
+0x774
+空「はい、ですけど……ＬｅＭＵに関する機能は、もう何も使えなくなってしまいました」%K%P
+Sora「Yes, but none of the functions related to LeMU are operational any longer.」%K%P
+0x780
+武「いや、それは別に構わないんだ」%K%P
+Takeshi「Well, it doesn't matter.」%K%P
+0x78C
+どこのポケットだったか……。%K%P
+(Which pocket was it...?)%K%P
+0x798
+ようやく探り当てて、取り出してみる。%K%P
+I finally found what I was looking for and dug it out of my pocket.%K%P
+0x7AC
+さっき制御室で手に入れたばかりの、ケースに入ったポリカーボネイト製の円盤。%K%P
+It was the case holding the polycarbonate disc that I had taken from the control room earlier.%K%P
+0x7B8
+空「これは……テラバイトディスク？」%K%P
+Sora「Is that... a terabyte disc?」%K%P
+0x7C4
+武「そうだね」%K%P
+Takeshi「That's right.」%K%P
+0x7D0
+頷いて俺は、ヒンメルのコンソールのディスクスロットに、テラバイトディスクを挿入した。%K%P
+I nodded and inserted the terabyte disc into the console disc drive.%K%P
+0x80C
+キーを操作する。%K%P
+I hit the necessary keys.%K%P
+0x834
+少ない知識で、なんとかファイルを探し当ててみる。%K%P
+With the little knowledge I had, I needed to find the file.%K%P
+0x85C
+『ＬＭ－ＲＳＤＳ－４９１３Ａ　茜ヶ崎空』%K%P
+'LM-RSDS-4913A Akanegasaki Sora'%K%P
+0x868
+メニューから、ディスクへのコピーを選択した。%K%P
+I chose 'Copy to Disc' from the menu.%K%P
+0x874
+全コピーが成功する確証はないが、とにかくやってみる。%K%P
+There was no guarantee that it would be successful, but I was going to try.%K%P
+0x880
+もう一生分の運を使い切った気がするけど、やってみよう。%K%P
+I felt I had probably exhausted my allotment of luck in life, but it was worth a shot.%K%P
+0x88C
+途中でエラーが出たり、ディスク容量が足りなかったりしたら、ＯＵＴだ……。%K%P
+If something malfunctioned or there wasn't enough space on the disc, we were finished...%K%P
+0x898
+これがたぶん、最後の賭けだと思った。%K%P
+I thought it was probably the last gamble in my lifetime.%K%P
+0x8A4
+武「ポチッとな」%K%P
+Takeshi「Click.」%K%P
+0x8CC
+エンターキーを叩くと、データコピーは始まった。%K%P
+I hit the 'enter' key, and the data began copying.%K%P
+0x8D8
+武「茜ヶ崎君、ボタンを叩くときの掛け声は『ポチッとな』だ。覚えておくように」%K%P
+Takeshi「Akanegasaki-kun, remember to shout 'Click' when you hit a button.」%K%P
+0x8EC
+空「はい、先生」%K%P
+Sora「Yes, Professor.」%K%P
+0x8F8
+はにかんだように、空は笑う。%K%P
+Sora smiled shyly.%K%P
+0x90C
+俺達はコンソールのモニターを見つめた。%K%P
+We stared at the console monitor.%K%P
+0x918
+コピーは、少しずつ少しずつ進む。%K%P
+The copy slowly progressed.%K%P
+0x924
+円盤に、記憶は焼き付けられていく。%K%P
+All of her memories were being burned onto the disc.%K%P
+0x930
+空「倉成先生……宿題のことなんですけど」%K%P
+Sora「Professor... about my homework.」%K%P
+0x93C
+モニターを見ながら、空は呟いた。%K%P
+Sora murmured as she looked at the monitor.%K%P
+0x948
+武「宿題？」%K%P
+Takeshi「Homework?」%K%P
+0x954
+武「宿題なんか出したっけ、俺？」%K%P
+Takeshi「Did I give you homework?」%K%P
+0x960
+空「いえ、生徒が自主的にやってみたんです。聞いてくれますか？」%K%P
+Sora「No, we students did it voluntarily. Would you please listen?」%K%P
+0x96C
+武「ああ、勿論。どうぞ」%K%P
+Takeshi「Yes, of course. Fire away.」%K%P
+0x978
+空「私ね……」%K%P
+Sora「I...」%K%P
+0x984
+空「私、気づいたんです」%K%P
+Sora「I realized...」%K%P
+0x990
+空「私が何の為に、生まれてきたのか」%K%P
+Sora「The reason why I was born.」%K%P
+0x99C
+空「私はきっと、人間と同じように……」%K%P
+Sora「I was meant to be just like any other human...」%K%P
+0x9A8
+空「恋をする為に、生まれてきたんだと思います」%K%P
+Sora「I was born to fall in love.」%K%P
+0x9B4
+空「だから、私は幸せなんです」%K%P
+Sora「That is why I am truly happy now.」%K%P
+0x9C0
+空「恋という感情に、気づくことができたから」%K%P
+Sora「Because I know what love is now.」%K%P
+0x9CC
+空「そして、恋は……」%K%P
+Sora「And love is...」%K%P
+0x9D8
+空「方法や手段なんて、稚拙でいい」%K%P
+Sora「It doesn't matter if your method is primitive.」%K%P
+0x9E4
+空「意味や目的なんて、求めなくていい」%K%P
+Sora「It isn't necessary to seek a meaning or objective for it.」%K%P
+0x9F0
+空「恋をするには、ただ真っ直ぐに、恋すればいいんです」%K%P
+Sora「The only thing you need to do is to love. Just that, and nothing else.」%K%P
+0x9FC
+空「私はそう、気づいたから」%K%P
+Sora「That is what I realized.」%K%P
+0xA08
+武「そうか……」%K%P
+Takeshi「Really...」%K%P
+0xA14
+空はすっと、俺に顔を近づけた。%K%P
+Sora brought her face close to mine.%K%P
+0xA20
+その唇を、俺の頬に掠める。%K%P
+And she brought her lips near my cheek.%K%P
+0xA2C
+空「倉成さん……」%K%P
+Sora「Kuranari-san...」%K%P
+0xA38
+空「大好き……」%K%P
+Sora「I love you...」%K%P
+0xA44
+空「あなたを好きになれて、本当に、よかった……」%K%P
+Sora「I am so grateful to be in love with you...」%K%P
+0xA50
+空がキスした場所に、触れてみた。%K%P
+I touch my cheek where she kissed.%K%P
+0xA5C
+ほのかにそこに、熱を感じた。%K%P
+I felt a gentle warmth there.%K%P
+0xA68
+それは、彼女の唇の名残なのか。%K%P
+Was it the afterglow of her lips?%K%P
+0xA74
+それとも、俺の頬が勝手に火照っただけなのか。%K%P
+Or was my cheek simply blushing?%K%P
+0xA80
+空「あなたが憎いと思ったことも、確かにあります」%K%P
+Sora「There have been times when I've disliked you.」%K%P
+0xA8C
+空「嫌だと思ったことも、あります」%K%P
+Sora「I've even hated you too.」%K%P
+0xA98
+空「でも、それも含めて……」%K%P
+Sora「But even with all of that...」%K%P
+0xAA4
+空「全部全部、『好き』なんです」%K%P
+Sora「I love every bit of you!」%K%P
+0xAB0
+空「どんな感情だろうと……あなたのことを思って、考えていれば、それだけで私は、とても幸せなんです」%K%P
+Sora「Whatever I'm going through... all it takes is thinking of you to make me happy.」%K%P
+0xABC
+彼女は、強かった。%K%P
+She was strong.%K%P
+0xAC8
+彼女の心はほんの僅かな日々の中で、歳相応に――いや、それ以上に成長し、強くなったと思う。%K%P
+Her mind and heart had grown so much stronger over a few days that it matched the maturity of her age, or more likely transcended it.%K%P
+0xAD4
+武「空……」%K%P
+Takeshi「Sora...」%K%P
+0xAE0
+ディスクは焼き付けられていく。%K%P
+The disc continued to copy.%K%P
+0xAEC
+記憶を焼き付けられていく。%K%P
+Her memory being etched onto its surface.%K%P
+0xAF8
+俺の中にも、くっきりと焼き付けられていく。%K%P
+It was being etched into me too.%K%P
+0xB04
+武「空はここから脱出できたら、まず何がしたいんだ？」%K%P
+Takeshi「What do you want to do when you get out of here?」%K%P
+0xB1C
+空「えっ？」%K%P
+Sora「What?」%K%P
+0xB28
+それは絵空事。%K%P
+It was an empty wish.%K%P
+0xB34
+あり得ないこと……そんなことは知っている。%K%P
+We knew it was impossible.%K%P
+0xB40
+しかし今、こうして空と話していることに、俺は一切の違和感を覚えなかった。%K%P
+But it didn't feel strange to me to be talking about it with Sora.%K%P
+0xB4C
+空は、俺の目の前に、現実に、存在しているのだから。%K%P
+Sora, who really existed right in front of me.%K%P
+0xB60
+空「私は……」%K%P
+Sora「I...」%K%P
+0xB6C
+空「私は、ここから脱出することができたら……」%K%P
+Sora「If I could get out of here...」%K%P
+0xB78
+空「そうですねぇ……」%K%P
+Sora「Well...」%K%P
+0xB8C
+空「まず、ビートルに似たおばちゃんに、逢いに行こうと思います」%K%P
+Sora「I would like to travel the world.」%K%P
+0xB98
+瞬いて、彼女は微笑む。%K%P
+She winked and smiled.%K%P
+0xBAC
+空「そして、できれば、倉成さんと、お付き合いがしたいです」%K%P
+Sora「And if I could, I'd like to go on a date with you.」%K%P
+0xBB8
+空「倉成さんと、２、３年付き合って、２６、７で結婚するんです」%K%P
+Sora「I would go out with you for about two or three years, then get married at the age of 26 or 27.」%K%P
+0xBCC
+空「それがコケットリーなシロガネーゼの鉄則ですから」%K%P
+Sora「That's what young ladies hope for, isn't it?」%K%P
+0xBE0
+空「……ですよね？」%K%P
+Sora「...Isn't that right?」%K%P
+0xBEC
+空の姿が、ほんの少し滲んで見えた。%K%P
+Sora became a little blurry.%K%P
+0xBF8
+武「ああ……そうだな……」%K%P
+Takeshi「Yeah... that's right...」%K%P
+0xC04
+目が霞む。%K%P
+My eyes misted over.%K%P
+0xC10
+曇ってよく見えなくなる。%K%P
+I was having difficulty seeing clearly.%K%P
+0xC1C
+ＲＳＤの不調なのか。%K%P
+Was it an RSD malfunction?%K%P
+0xC28
+それとも、酸素が不足しているのだろうか。%K%P
+Or perhaps I was short of oxygen?%K%P
+0xC34
+いや……違う。%K%P
+No... that wasn't it.%K%P
+0xC40
+違う。%K%P
+No.%K%P
+0xC68
+俺は――%K%P
+I...%K%P
+0xC7C
+武「空……」%K%P
+Takeshi「Sora...」%K%P
+0xCE0
+武「ピグマリオンの伝説って、知ってるか？」%K%P
+Takeshi「Do you know the legend of Pygmalion?」%K%P
+0xCEC
+俺はいつしか、泣いていた。涙を流していた。%K%P
+I was crying. The tears were falling down my face.%K%P
+0xCF8
+空の姿は、俺の視線の先でゆらゆらと揺れた。%K%P
+Sora's figure wavered.%K%P
+0xD04
+武「ギリシャ神話にでてくる彫刻の名人。キプロスの王とも呼ばれた、ピグマリオン」%K%P
+Takeshi「He was the master sculptor in Greek myths... He's been called the King of Cyprus...」%K%P
+0xD10
+武「彼は自分の理想とする素晴らしい女性の像を彫った」%K%P
+Takeshi「One day, he created a beautiful sculpture of the woman of his dreams.」%K%P
+0xD1C
+武「だが、そのあまりの美しさにうっとりして、彫像に、自ら恋をしてしまった」%K%P
+Takeshi「And because it was so beautiful, he fell in love with the statue.」%K%P
+0xD28
+武「『ああ、これが血の通った人間であったら……』と、彼は強く思い続けた」%K%P
+Takeshi「He kept on thinking to himself 'If only it were a real woman.'」%K%P
+0xD34
+武「愛の女神アフロディテはこれを哀れに思い、神通力で彫刻に命を与え、人間にしてやった」%K%P
+Takeshi「Aphrodite, the goddess of love, took pity on him and brought this sculpture to life.」%K%P
+0xD40
+武「ふたりは結婚し、子供までもうけた」%K%P
+Takeshi「They married and even had children.」%K%P
+0xD4C
+空「はい……」%K%P
+Sora「Yes...」%K%P
+0xD58
+武「俺は、キプロスの王にはなれそうもないけど……」%K%P
+Takeshi「I don't think I'll ever be the King of Cyprus...」%K%P
+0xD64
+武「でも空のこと……誰よりも……好きなんだ……」%K%P
+Takeshi「But... I love you... more than anyone.」%K%P
+0xD7C
+空に向かって、手を伸ばした。%K%P
+I reached out for her.%K%P
+0xD90
+顔を引き寄せ、頬に唇を寄せた。%K%P
+I brought her face to mine and kissed her on the lips.%K%P
+0xD9C
+その髪を指先で、そっとすいてみた。%K%P
+I ran my fingers through her hair.%K%P
+0xDB0
+彼女の髪は、俺の手に沿ってさらさらと流れた。%K%P
+Her hair fell through my fingers as if it were a stream of silk.%K%P
+0xDC4
+甘い匂いさえも、鼻先に感じた。%K%P
+I could even sense a sweet smell.%K%P
+0xDD0
+たとえ感触はなくとも……それは本当だった。%K%P
+Even though I couldn't touch her... it was real.%K%P
+0xE14
+コンソールから、テラバイトディスクが吐き出される。%K%P
+The console spit the terabyte disc out.%K%P
+0xE20
+コピー、完了。%K%P
+Copy complete.%K%P
+0xE2C
+すべて成功した保証はないが……%K%P
+There was no guarantee that the procedure had been a success...%K%P
+0xE38
+ここに、空に関するすべてのデータ……%K%P
+All of the data about Sora in front of me...%K%P
+0xE44
+これまでに、空が見た画像、聞いた音、感じたこと、考えたこと……%K%P
+All of the images Sora had seen, the sounds she had heard, things she had felt and thought...%K%P
+0xE50
+ありとあらゆる一切の記憶を、書き込んだ。%K%P
+Every strand of her memory was written on that disc.%K%P
+0xE5C
+――記憶。%K%P
+...Memory.%K%P
+0xE68
+記憶って、なんだろう？%K%P
+What was memory?%K%P
+0xE74
+ふと思う。%K%P
+I wondered.%K%P
+0xE80
+このテラバイトディスクの内容を、インゼル・ヌルにいる空に記憶させたら……%K%P
+What if I input the contents of the terabyte disc onto the Sora at Insel Null...?%K%P
+0xE8C
+それはここにいる空と同じものになるのだろうか？%K%P
+Would that make her just like the Sora I knew?%K%P
+0xF00
+空「倉成さん」%K%P
+Sora「Kuranari-san.」%K%P
+0xF0C
+武「おう、なんじゃい？」%K%P
+Takeshi「Hey, what can I do for ya?」%K%P
+0xF20
+空「ふふふっ……」%K%P
+Sora「Hahaha...」%K%P
+0xF2C
+俺がおどけてみせると、空もつられて笑う。%K%P
+Every time I played the fool, it never failed to make her laugh.%K%P
+0xF38
+瞳の端にはお互いに、こぼれそうな涙を湛えたまま。%K%P
+We were holding back tears which threatened to spill down our faces.%K%P
+0xF4C
+空「今、コピーの間に倉成さんと話したことは、どこにも記憶されませんね」%K%P
+Sora「I suppose that what we just talked about while the disc was copying won't be on that disc.」%K%P
+0xF58
+空「それはちょっぴり、残念です」%K%P
+Sora「It's kind of too bad.」%K%P
+0xF64
+武「いや、記憶はここにある」%K%P
+Takeshi「Nah, the memory's right here.」%K%P
+0xF70
+俺はトントンと、自分の頭を指差した。%K%P
+I pointed to my head.%K%P
+0xF7C
+武「俺がきちんと、覚えているから……」%K%P
+Takeshi「I will remember...」%K%P
+0xF88
+武「今度空に会ったときに、それを全部、話して伝えるよ」%K%P
+Takeshi「And the next time that we meet, I'll tell you about it.」%K%P
+0xF9C
+空「そうですか？　では、約束しましょう」%K%P
+Sora「Really? Okay, then let's promise.」%K%P
+0xFA8
+武「そうだな、約束だ」%K%P
+Takeshi「Alright, it's a promise.」%K%P
+0xFC0
+俺達は、指切りをする。%K%P
+We crossed our hearts.%K%P
+0xFCC
+約束。%K%P
+Promise.%K%P
+0xFD8
+果たしてその約束を、いつ果たせるのだろうか？%K%P
+When would that promise be fulfilled?%K%P
+0xFE4
+……わからない。%K%P
+...I didn't know.%K%P
+0xFF0
+でも、わからなくていいと思う。%K%P
+But I didn't have to know.%K%P
+0xFFC
+すべてをＹＥＳとＮＯで書き分けられるほど、心は簡単じゃない。%K%P
+The mind is not as simple as black or white.%K%P
+0x1078
+やがて、ヒンメルはぐらりと揺らいだ。%K%P
+Soon, Himmel began to shake.%K%P
+0x1084
+部屋の壁に亀裂が走る。%K%P
+Large cracks ran down the walls.%K%P
+0x1090
+隙間からは大量の霧が溢れ出す。%K%P
+Through the holes, a large amount of mist spurted into the room.%K%P
+0x109C
+天は、天国は、ついに割れる……。%K%P
+Heaven, heaven had finally cracked open...%K%P
+0x10A8
+霧は怒涛の流れへと変わり、瞬く間に水は満ちる。%K%P
+The mist quickly became raging streams, and water was soon filling the room.%K%P
+0x10B4
+俺はテラバイトディスクをポケットにねじ込むと、空の前に立った。%K%P
+I squeezed the terabyte disc into my pocket and stood in front of Sora.%K%P
+0x10D0
+水位は、俺のくるぶしを超え、膝を呑み込み、既に腰の辺りにまで達しようとしていた。%K%P
+The water had gone higher than my ankles, past my knees, and it was almost reaching my waist.%K%P
+0x10DC
+しかし不思議と、恐怖は感じなかった。%K%P
+But for some reason, I didn't feel any fear.%K%P
+0x10E8
+武「約束だからな……」%K%P
+Takeshi「It's a promise...」%K%P
+0x10F4
+武「大丈夫だ、空」%K%P
+Takeshi「It's going to be okay, Sora.」%K%P
+0x1100
+武「俺は、死なない」%K%P
+Takeshi「I won't die.」%K%P
+0x110C
+あの、ガラス窓を挟んで向かいあったときと同じように。%K%P
+It was just like the time we stood facing each other through the glass window.%K%P
+0x1118
+俺と空はしっかりと、手の平を重ね合わせた。%K%P
+Sora and I put our hands together.%K%P
+0x1124
+奇蹟というものが、あるのなら……%K%P
+If miracles truly do exist...%K%P
+0x1130
+それは確かに、奇蹟だった。%K%P
+Then that was surely a miracle.%K%P
+0x113C
+俺は空のすべてを、感じていた。%K%P
+I could sense everything about Sora.%K%P
+0x1148
+空「倉成さん……」%K%P
+Sora「Kuranari-san...」%K%P
+0x1154
+空「ありがとう」%K%P
+Sora「Thank you.」%K%P
+0x1160
+たまらなくなって、俺は空を抱き寄せた。%K%P
+I couldn't help it and embraced Sora.%K%P
+0x1198
+抱き締める手の温もりを。%K%P
+The warmth of her hands.%K%P
+0x11A4
+肌の柔らかさを。%K%P
+The softness of her skin.%K%P
+0x11B0
+匂いを。%K%P
+Her smell.%K%P
+0x11BC
+吐息を。%K%P
+Her breath.%K%P
+0x11C8
+鼓動を。%K%P
+Her heartbeat.%K%P
+0x11D4
+記憶を。%K%P
+Her memory.%K%P
+0x11E0
+存在を。%K%P
+Her existence.%K%P
+0x11EC
+忘れない。%K%P
+I swore I wouldn't forget.%K%P
+0x11F8
+絶対、忘れない。%K%P
+I swore I would never...%K%P
+0x1204
+永遠に、忘れない……。%K%P
+In all eternity... forget...%K%P
+0x1218
+周囲はいつしか深い、深い青の世界。%K%P
+All around us was a world of deep, deep blue.%K%P
+0x1224
+冷たい海水の中で、俺達は抱き合い、ひとつになった。%K%P
+We embraced in the cold seawater and became one.%K%P
+0x1230
+空と海の溶け合う世界へ、俺の身体はゆっくりと昇って行った。%K%P
+My body began to float gently to the place where the heavens and the ocean fused into one.%K%P

@@ -1,0 +1,1323 @@
+text area offset and size:
+0x1750
+0x5870
+0xAC
+ココ「長弓背負いし……月の精……」%K%P
+Coco「Moon sprite... shouldering a long bow...」%K%P
+0xB8
+ココ「夢の中より……待ちをりぬ……」%K%P
+Coco「Waiting... inside a dream...」%K%P
+0xC4
+ココ「今宵やなぐゐ……月夜見囃子……」%K%P
+Coco「Tonight... a story by moonlight...」%K%P
+0xD0
+ココ「早く来んかと……待ちをりぬ……」%K%P
+Coco「Hoping the wait... will be short...」%K%P
+0xDC
+ココ「眠りたまふ……ぬくと丸みて……」%K%P
+Coco「Sleeping... curled and snug...」%K%P
+0xE8
+ココ「眠りたまふ……母に抱かれて……」%K%P
+Coco「Sleeping... in mother's arms...」%K%P
+0x118
+パチパチパチパチッ……。%K%P
+Clap clap clap...%K%P
+0x140
+優「ココ、お歌じょうずだね？」%K%P
+You「You've got a great voice, Coco.」%K%P
+0x14C
+ココ「じょうずでしょ？　じょうずでしょ？」%K%P
+Coco「Don't I? Don't I?」%K%P
+0x158
+優「その歌……初めて聴いたけど、子守歌か何か？」%K%P
+You「I've never heard that song before... Is it a lullaby or something?」%K%P
+0x164
+ココ「うん、そう、子守歌」%K%P
+Coco「Yeah, it's a lullaby.」%K%P
+0x170
+ココ「ママが唄って聴かせてくれたの」%K%P
+Coco「My mom used to sing it to me.」%K%P
+0x17C
+優「じゃあ、ココにとっての想い出の歌ってわけね？」%K%P
+You「So I guess that song has a lot of good memories for you.」%K%P
+0x188
+ココ「ううん」%K%P
+Coco「No.」%K%P
+0x194
+優「えっ？　違うの？」%K%P
+You「No? It doesn't?」%K%P
+0x1A0
+ココ「うん、この歌、つい最近覚えたばっかりだから」%K%P
+Coco「No, I just learned this song.」%K%P
+0x1AC
+優「そうなんだぁ、ふ～ん……」%K%P
+You「Oh, really...?」%K%P
+0x1B8
+ふたりの話し声は、売店の中から聞こえて来る。%K%P
+Their voices were coming from the kiosk.%K%P
+0x1C4
+俺は店の中に入った。%K%P
+I went in.%K%P
+0x1D8
+武「よっ！」%K%P
+Takeshi「Hey!」%K%P
+0x1E4
+ココ「あっ、たけぴょ～ん♪」%K%P
+Coco「Oh, Takepyon～」%K%P
+0x1F0
+ピピ「わんわんっ！」%K%P
+Pipi「*Woof*, *woof*!」%K%P
+0x1FC
+優「倉成……どうしたの？」%K%P
+You「Kuranari... What are you doing here?」%K%P
+0x208
+武「いや、優のひよこ姿を、ひとめ拝ませてもらおうと思ってな」%K%P
+Takeshi「Oh, I just thought I'd see what you looked like playing 'chicks'.」%K%P
+0x214
+そう、俺はその為に、ふたりの姿を捜し求め、このキャラクターグッズの売店までやって来たのだった。%K%P
+Yep, that was the reason I had gone searching for them and eventually wound up at the souvenir shop.%K%P
+0x220
+ココ「ひよこごっこだったら、もうとっくに終わっちゃったよ？」%K%P
+Coco「Oh, we finished playing that a while ago.」%K%P
+0x22C
+武「えっ！？　マジ！？」%K%P
+Takeshi「What!? Really!?」%K%P
+0x238
+ココ「なっきゅのひよこのモノマネ、すっご～～～くうまくって……」%K%P
+Coco「Nakkyu was sooooo good at it...」%K%P
+0x244
+ココ「ココなんかよりも、ずーっとずーっとひよこっぽくって……」%K%P
+Coco「Compared to me, she was sooooo much more like a real chick...」%K%P
+0x250
+ココ「ココ、びっくりしちゃった♪」%K%P
+Coco「I was just amazed!」%K%P
+0x25C
+優「やっだぁ～、もう、そんなにおだてないでよぉ～」%K%P
+You「Oh, stop it, you're just trying to embarrass me with compliments!」%K%P
+0x268
+ココ「おだててなんかいないよぉ」%K%P
+Coco「It's true!」%K%P
+0x274
+ココ「ほんとにほんとに上手だったんだもん」%K%P
+Coco「You were really, really good!」%K%P
+0x280
+優「てへへへへへへへへ……」%K%P
+You「Ehehehehehehe...」%K%P
+0x28C
+あんなにひよこごっこを拒んでいた優が、今、褒められて照れている。%K%P
+You, who had seemed so against the game to begin with, was embarrassed once she was complimented.%K%P
+0x298
+どういうことだ？？？%K%P
+What on earth was going on?%K%P
+0x2A4
+ひよ真似をやってるうちに、ハマッてしまったのだろうか？%K%P
+Had she actually enjoyed the game?%K%P
+0x2B0
+経験者として言わせてもらうならば……%K%P
+Speaking from the standpoint of someone who had experienced it...%K%P
+0x2BC
+確かにひよこごっこには、人間の理性を麻痺させるような、ある種の宗教儀式的な魔性の魅力がある。……ような気もする。%K%P
+The game 'chicks' did seem to possess a kind of ritualistic, demonic charm that could subdue the human ability to be rational...%K%P
+0x2C8
+その魅力に、優は取り憑かれてしまったのかもしれない。%K%P
+It seemed to me that You might have been possessed by that charm.%K%P
+0x2D4
+まあ、そんなことはどうでもいい。%K%P
+Oh well, that wasn't important.%K%P
+0x2E0
+とにもかくにも俺は、優の歴史的な珍態を見逃してしまったことになる。%K%P
+What was important was that I had somehow missed out on the historical moment that was You's performance.%K%P
+0x2EC
+無念だ……。%K%P
+It was truly unfortunate...%K%P
+0x2F8
+（ちぇっ）%K%P
+(Darn it.)%K%P
+0x304
+俺は心の中で舌打ちをした。%K%P
+I mentally clicked my tongue.%K%P
+0x310
+武「で？　今は何をやってるんだ？」%K%P
+Takeshi「So? What are you doing now?」%K%P
+0x31C
+優「見ればわかるでしょ？」%K%P
+You「Isn't it obvious?」%K%P
+0x328
+ココと優は向かい合って、絨毯の上に座っている。%K%P
+Coco and You were sitting face-to-face on the carpet.%K%P
+0x334
+ピピは、ココの頭の上に顔を乗せていた。%K%P
+Pipi had set his face on Coco's head.%K%P
+0x340
+ふたりの間には、ビーズのような細かい粒が、山盛りになって積まれている。%K%P
+Between the two of them was a mountain of small, bead-like grains.%K%P
+0x34C
+山のテッペンに立っているのは１本のサインペンだった。%K%P
+A pen was stuck atop the mountain.%K%P
+0x358
+武「砂山崩し？」%K%P
+Takeshi「A game of avalanche with a mountain of sand?」%K%P
+0x364
+優「正解♪」%K%P
+You「That's right!」%K%P
+0x370
+ココ「違うよ、なっきゅ、正解じゃないよぉ」%K%P
+Coco「No, Nakkyu, that's not right.」%K%P
+0x37C
+優「えっ？」%K%P
+You「What?」%K%P
+0x388
+ココ「これは、涙山崩し……」%K%P
+Coco「This is a mountain of tears...」%K%P
+0x394
+ココ「砂の山じゃなくて、涙の山なんだからぁ」%K%P
+Coco「It's a mountain of tears, not sand.」%K%P
+0x3A0
+涙の山？%K%P
+A mountain of tears?%K%P
+0x3AC
+俺はふたりのそばにしゃがみ込んで、山のひと粒をつまみあげた。%K%P
+I sat next to them and pinched a single grain from the mountain.%K%P
+0x3B8
+武「あっ、これ……」%K%P
+Takeshi「Oh, I remember...」%K%P
+0x3C4
+武「昨日ココが、遺跡の水たまりに放り込んでたやつじゃないかぁ」%K%P
+Takeshi「Coco was throwing these into the puddle at the ruins yesterday.」%K%P
+0x3D0
+無色透明の小さな粒。こぼれ落ちるしずくの形。%K%P
+Clear, colorless grains. They were formed in the shape of a drop of water.%K%P
+0x3DC
+『ガラスの涙』――。%K%P
+Glass tears―%K%P
+0x3E8
+いや、これはガラスではない。%K%P
+No, they weren't made of glass.%K%P
+0x3F4
+指先の感触がそれを教えてくれた。%K%P
+I could tell by touching them.%K%P
+0x400
+武「そう言えば昨日は、結局これがなんなのか教えてもらえなかったよなぁ？」%K%P
+Takeshi「You never told me what they were yesterday, did you?」%K%P
+0x40C
+武「改めて聞くけど……これは、なんだ？」%K%P
+Takeshi「So I guess I'll try again... What are they?」%K%P
+0x418
+優「人魚の涙、だよ？」%K%P
+You「They're mermaid tears.」%K%P
+0x424
+武「人魚の、涙？？？」%K%P
+Takeshi「Mermaid tears?」%K%P
+0x430
+ココはまぶたを閉じ、こっくりと頷いて見せた。%K%P
+Coco closed her eyes and nodded.%K%P
+0x43C
+武「どう見ても、本物の人魚の涙じゃないよなぁ」%K%P
+Takeshi「I don't care what you say, there's no way these are real mermaid teardrops.」%K%P
+0x448
+優「あれあれ」%K%P
+You「Oh yeah?」%K%P
+0x454
+優はそう言って、キャラクターグッズの陳列棚を指差した。%K%P
+Saying that, You pointed to the display racks of the souvenir shop.%K%P
+0x460
+武「？」%K%P
+Takeshi「?」%K%P
+0x46C
+俺は立ち上がり、優の指し示す方向へと歩いていった。%K%P
+I stood up and walked toward where You had pointed.%K%P
+0x480
+棚には様々な商品が所せましと詰め込まれていた。%K%P
+The racks were packed with different kinds of merchandise.%K%P
+0x48C
+その中の一部に、古めかしい陶器のボトルを並べた区画があった。%K%P
+Among all the stuff, there was a corner with a line of old-looking ceramic bottles.%K%P
+0x4A0
+ボトルを１本、手に取って眺める。%K%P
+I picked up one of the bottles and looked at it.%K%P
+0x4AC
+手の平からはみ出すぐらいの大きさで、思ったよりも重く、ずっしりとした手ごたえがあった。%K%P
+It was slightly bigger than the size of my palm and heavier than I had imagined. It felt solid in my hand.%K%P
+0x4B8
+ラベルには、そのまんま――『人魚の涙』――と印刷されていた。%K%P
+Printed on the label was 'Mermaid Tears'.%K%P
+0x4C4
+ボトルの底を見る。丸いシールが貼ってあった。%K%P
+I looked at the bottom of the bottle. There was a round stamp on it.%K%P
+0x4D0
+『名称：キャンディ』%K%P
+'Contents: Candy'%K%P
+0x4DC
+『原材料名：砂糖、水飴、酸味料、香料』%K%P
+'Ingredients: sugar, corn syrup, acidifier, flavoring'%K%P
+0x4E8
+振ってみた。シャカシャカと音がした。%K%P
+I shook the bottle. I heard a dry, crisp sound.%K%P
+0x4F4
+コルクのフタをポンッと開け、中身を手の平に注ぐ。%K%P
+Pulling out the cork top, I poured some out on my palm.%K%P
+0x500
+注ぎ過ぎて、小さな粒々はボロボロとこぼれ落ちた。%K%P
+I poured too much, and some of them spilled from my hand to the floor.%K%P
+0x50C
+『人魚の涙』は、絨毯の上を踊るように飛び跳ねた。%K%P
+The 'mermaid tears' bounced on the carpet as if they were dancing.%K%P
+0x520
+武「なるほどね」%K%P
+Takeshi「I see.」%K%P
+0x52C
+俺は右手にボトルを、左手に『涙』を握りしめたまま、元の位置にどっかりと腰をおろした。%K%P
+Holding the bottle in my right hand and the 'teardrops' in my left, I went back to where I had been sitting before and plopped myself down with a thud.%K%P
+0x538
+武「この『人魚の涙』は、ただのオミヤゲだったってわけだ」%K%P
+Takeshi「So these 'mermaid tears' are just some kind of souvenir?」%K%P
+0x544
+ココ「うん」%K%P
+Coco「Yup.」%K%P
+0x550
+武「どれどれ……」%K%P
+Takeshi「Let's see...」%K%P
+0x55C
+呟いて、左手の『涙』を一気に口の中へと放り込んだ。%K%P
+Mumbling to myself, I popped all the 'teardrops' from my left hand into my mouth.%K%P
+0x568
+ガリガリとかじる。%K%P
+I chomped down on them hard.%K%P
+0x574
+お口の中いっぱいに、とろけるような『あまあま感』が広がった。%K%P
+The melting sweetness spread in my mouth.%K%P
+0x580
+武「うまっ！」%K%P
+Takeshi「These are good!」%K%P
+0x58C
+タツタサンド以外の食べ物を口にしたのは久し振りだった。%K%P
+It had been a long time since I had tasted anything besides a tuna sandwich.%K%P
+0x598
+『人は甘いものを食べると幸せな気分になる』と、昔どこかで聞いたことがある。%K%P
+I had heard somewhere before that eating sweets made people feel happy.%K%P
+0x5A4
+俺は口の中の『あまあま感』に、思わずうっとりとしてしまった。%K%P
+And at that moment, I was enraptured by the sweetness in my mouth.%K%P
+0x5B0
+ココ「あーりゃりゃ、こーりゃりゃ♪」%K%P
+Coco「Ohhhh my gosh～」%K%P
+0x5BC
+ココ「いーけないんだ、いけないんだ♪」%K%P
+Coco「You shouldn't have done that～」%K%P
+0x5C8
+ココ「せーんせいに言ってやろ♪」%K%P
+Coco「I'm gonna tell on you～」%K%P
+0x5D4
+武「ん？　なんで？　俺がタダ食いしてるからか？」%K%P
+Takeshi「Why? Is it because I'm eating them for free?」%K%P
+0x5E0
+武「だったらココだってっ」%K%P
+Takeshi「Well, you are too, Coco.」%K%P
+0x5EC
+ココ「違う違う」%K%P
+Coco「No, no.」%K%P
+0x5F8
+ココ「そういう意味で言ったんじゃないの」%K%P
+Coco「That wasn't what I meant at all.」%K%P
+0x604
+ココ「今たけぴょん、人魚の涙、食べちゃったでしょ？」%K%P
+Coco「You just ate the teardrops of a mermaid, didn't you, Takepyon?」%K%P
+0x610
+武「うん、食べた」%K%P
+Takeshi「Yeah, I did.」%K%P
+0x61C
+武「そしてこれからも食べ続けるつもりだ」%K%P
+Takeshi「And I'm going to eat more.」%K%P
+0x628
+ココ「そんなことしたらぁ……」%K%P
+Coco「If you do that...」%K%P
+0x634
+ココ「『八百比丘尼』みたいになっちゃうよ？」%K%P
+Coco「You'll end up like 'the 800-year-old nun'.」%K%P
+0x640
+武「……は？」%K%P
+Takeshi「Who...?」%K%P
+0x64C
+優「ヤオビクニ？」%K%P
+You「800-year-old what?」%K%P
+0x658
+俺と優は顔を見合わせた。%K%P
+You and I looked at each other.%K%P
+0x664
+ココ「知らないの？　八百比丘尼のお話」%K%P
+Coco「You don't know the story of Yaobikuni, the 800-year-old nun?」%K%P
+0x670
+武「優、知ってるか？」%K%P
+Takeshi「Do you know what she's talking about, You?」%K%P
+0x67C
+優「ううん、知らない」%K%P
+You「Nope. Not a clue.」%K%P
+0x688
+ココ「おしっ、ほいじゃあココちゃんが、八百比丘尼のお話を聞かせてあげましょーっ！」%K%P
+Coco「Alright then. I, Coco-chan, will tell you the story of the 800-year-old nun!」%K%P
+0x694
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x6A0
+優「…………」%K%P
+You「.........」%K%P
+0x6AC
+ココ「はい、拍手、拍手」%K%P
+Coco「Hey, don't forget the applause.」%K%P
+0x6B8
+パチパチパチパチ……。%K%P
+Clap clap clap clap...%K%P
+0x6DC
+ココ「おほんっ、では始めます」%K%P
+Coco「Okay. It starts like this...」%K%P
+0x704
+ココ「むかーしむかーし、あるところにひとりのきゃわゆ～い娘っ子がおりました」%K%P
+Coco「Once upon a time, there was a beautiful young girl.」%K%P
+0x710
+ココ「年齢は１７歳ぐらいでぇ～、椿の花が、とってもとっても大好きでした」%K%P
+Coco「She was seventeen years old, and she loved camellia flowers.」%K%P
+0x71C
+ココ「娘っ子には、これまたカッチョイイ～彼氏さんがいました」%K%P
+Coco「She also had a very handsome boyfriend.」%K%P
+0x728
+ココ「彼氏さんの年齢は、たぶん娘っ子とタメぐらいだと思います」%K%P
+Coco「And he was about her same age. I think he was at least.」%K%P
+0x734
+ココ「あるとき、彼氏さんが娘っ子に椿の花をプレゼントして、こう言いました」%K%P
+Coco「Anyway, one day, he gave her a camellia flower as a gift and said...」%K%P
+0x740
+ココ「『この花、きみにあげるよ』」%K%P
+Coco「'This flower is for you.'」%K%P
+0x74C
+ココ「『まあ、なんてきれいなお花でしょう』」%K%P
+Coco「'Oh my, what a beautiful flower this is.'」%K%P
+0x758
+ココ「『ああ、確かにこの花は美しい……しかしこの花を百万本集めたところで、きみの美しさにはかなわないよ』」%K%P
+Coco「'Yeah, this flower sure is pretty... but you're even more beautiful. Even a million of these flowers wouldn't be as pretty as you.'」%K%P
+0x764
+ココ「『あら、嘘がお上手ですのね？』」%K%P
+Coco「'Oh, you're such a sweet talker, you.'」%K%P
+0x770
+ココ「『嘘なんかじゃないさ、本気で言ってるんだよ』」%K%P
+Coco「'Hey, I'm not just trying to flatter you, I'm telling the truth.'」%K%P
+0x77C
+ココ「『彼氏さん……』」%K%P
+Coco「'Oh, sweetheart...'」%K%P
+0x788
+ココ「『娘っ子ちゃん……』」%K%P
+Coco「'My love...'」%K%P
+0x794
+ココ「昼間っから恥ずかしげもなくこんな会話を交わせちゃうぐらいに、ふたりは激しく愛し合っていたのです」%K%P
+Coco「They were so passionately in love that they could talk this way in public without being embarrassed about it.」%K%P
+0x7A0
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x7AC
+優「…………」%K%P
+You「.........」%K%P
+0x7B8
+ココ「さて、そんなある日のこと……」%K%P
+Coco「Well, one day...」%K%P
+0x7C4
+ココ「娘っ子のパパさん、名前をゴンタくんと言いますが、このゴンタくんがブクブクと海の中に潜って行きました」%K%P
+Coco「The girl's dad, his name was Gonta-kun, went diving into the ocean.」%K%P
+0x7D0
+ココ「なんでそんなことをしたのかって言うと、実は、海の中に住んでるオッサンが――」%K%P
+Coco「He did that because this old guy who lived in the ocean was like...」%K%P
+0x7DC
+ココ「『今度うちでパーティーやんだけどさぁ、ゴンタくんも来ない？』と、招待したからなのでした」%K%P
+Coco「'Hey, Gonta-kun, I'm having a home party, wanna come?', and invited him to a party.」%K%P
+0x7E8
+ココ「ゴンタくんのたどりついた場所には、これまでに見たこともない立派なお屋敷が建っていました」%K%P
+Coco「Gonta-kun arrived at the most gorgeous mansion he'd ever seen in his whole life.」%K%P
+0x7F4
+ココ「中に入ると、不思議と息をすることができました」%K%P
+Coco「But strangely, he was able to breathe once he got inside.」%K%P
+0x800
+ココ「『やあ、よく来たねぇ、ゴンタくん』――オッサンのお出迎えです」%K%P
+Coco「'Oh, good to see you, Gonta-kun.'―the old guy welcomed him.」%K%P
+0x80C
+ココ「ゴンタくんは、豪華なディナーを御馳走になり、楽しいひとときを過ごしました」%K%P
+Coco「Gonta-kun had a gourmet dinner and a wonderful time.」%K%P
+0x818
+ココ「けれど、もう帰らなければならない時刻です」%K%P
+Coco「But it eventually it came time for him to go home.」%K%P
+0x824
+ココ「ゴンタくんは言いました――『悪いけど、おら、そろそろ帰らねばなんねぇーだ』」%K%P
+Coco「Gonta-kun said, 'I'm real sorry, but I've got to go home soon.'」%K%P
+0x830
+ココ「すると、海の中のオッサンは――『なんだぁ、もう帰っちゃうの？　残念だなぁ』」%K%P
+Coco「The old man who lived under the ocean said, 'Huh, you're leaving so soon? That's too bad.'」%K%P
+0x83C
+ココ「『家で娘っ子が待ってんだぁ～、近いうちに、また来るでよ』」%K%P
+Coco「'My daughter's waiting for me at home. I'll come again sometime soon, okay?'」%K%P
+0x848
+ココ「『そっかぁ……じゃあこれ、オミヤゲに持って帰ってよ』」%K%P
+Coco「'Oh well... Hey, why don't you take this for souvenir?'」%K%P
+0x854
+ココ「オッサンが手渡したものは、お酒を入れるようなトックリでした」%K%P
+Coco「The old man handed him a bottle of something that looked like alcohol.」%K%P
+0x860
+ココ「『なんだ？　これ』――ゴンタくんは尋ねます」%K%P
+Coco「'What's this?' asked Gonta-kun.」%K%P
+0x86C
+ココ「オッサンはニコニコと笑いながら答えました」%K%P
+Coco「The old man answered with a big smile.」%K%P
+0x878
+ココ「『人魚の涙、だよ』」%K%P
+Coco「'It's mermaid tears.'」%K%P
+0x884
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x890
+優「…………」%K%P
+You「.........」%K%P
+0x89C
+ココ「ゴンタくんは家に帰ると、もらったオミヤゲを戸棚の中にしまっておきました」%K%P
+Coco「Gonta-kun went home and hid the souvenir in the cabinet.」%K%P
+0x8A8
+ココ「で……数日後……事件が起こりました」%K%P
+Coco「And... a few days later... an incident took place.」%K%P
+0x8B4
+ココ「ゴンタくんが家を留守にしている間に、娘っ子がこっそりと戸棚をあけて、トックリの中身を飲んじゃったのです」%K%P
+Coco「While Gonta-kun wasn't home, his daughter secretly opened the cabinet and drank all the liquid in the bottle.」%K%P
+0x8C0
+ココ「とっても美味しかったので、娘っ子はその液体を、ぐびぐびと全部飲み干してしまいました」%K%P
+Coco「It was so delicious that the girl drank the whole thing up.」%K%P
+0x8CC
+ココ「すると……」%K%P
+Coco「And...」%K%P
+0x8D8
+ココ「そのときを境にして、娘っ子は一切歳を取らなくなってしまいました」%K%P
+Coco「After that, the girl stopped aging at all.」%K%P
+0x8E4
+ココ「１年経ち、２年経ち、３年経ち……」%K%P
+Coco「A year had passed, then two, and then three...」%K%P
+0x8F0
+ココ「５年経ち、１０年経ち、２０年経っても、娘っ子は美しい姿のままだったのです」%K%P
+Coco「After 5, 10 and 20 years, the girl was still as beautiful as always.」%K%P
+0x8FC
+ココ「決して老いることのない肉体を、娘っ子は手に入れてしまったのでした」%K%P
+Coco「She had a body that would never age.」%K%P
+0x908
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x914
+優「…………」%K%P
+You「.........」%K%P
+0x920
+ココ「いつの時代も、不老長寿は人類の夢であり希望ですが……この娘っ子の場合は違いました」%K%P
+Coco「Eternal youth and longevity has always been a dream and a hope for humans, but it wasn't the case for this girl.」%K%P
+0x92C
+ココ「娘っ子は我が身の不幸をなげき、呪いました」%K%P
+Coco「She lamented and cursed her own fate.」%K%P
+0x938
+ココ「なぜなら、大好きだった彼氏さんはどんどん歳を取って行くのに、自分は１７歳のまま、少しも成長しなかったからです」%K%P
+Coco「Because she stayed at the age of seventeen, but her boyfriend grew older and older.」%K%P
+0x944
+ココ「しばらくして、さらに悲しい出来事が娘っ子を襲いました」%K%P
+Coco「One day, an incident happened that was very sad.」%K%P
+0x950
+ココ「彼氏さんが、３４歳という若さでこの世を去ってしまったのです」%K%P
+Coco「Her boyfriend passed from this world to the next at the tender age of 34.」%K%P
+0x95C
+ココ「亡くなる間際、彼氏さんは娘っ子にこう言いました」%K%P
+Coco「Before he died, he said to her...」%K%P
+0x968
+ココ「『７００年待ってくれ！　７００年後、再びこの世に生まれ変わり、必ずきみのところへ行くから！』」%K%P
+Coco「'Wait for me for 700 years! After 700 years have passed, I'll be reborn into this world and come to you!'」%K%P
+0x974
+ココ「娘っ子は泣きました。おいおいおいおいと泣き続けました」%K%P
+Coco「The girl cried and cried. BOY did she just cry and cry.」%K%P
+0x980
+ココ「やがて、彼氏さんを失った悲しみから、娘っ子は比丘尼となり、諸国行脚の旅へと出かけることにしました」%K%P
+Coco「After a while, because she was so sad at losing him, she decided to leave on a long trip.」%K%P
+0x98C
+ココ「比丘尼というのは、出家した尼僧、女性のお坊さんのことです」%K%P
+Coco「She renounced the material world and decided to live her life as a nun.」%K%P
+0x998
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x9A4
+優「…………」%K%P
+You「.........」%K%P
+0x9B0
+ココ「比丘尼は、国々をめぐって病気の人を治し、貧しい人を助け、田畑を耕し、川に橋をかけ、行く先々で椿の種をまきました」%K%P
+Coco「The nun traveled around the country. She cured the sick, helped the poor, did a little farming, built some bridges over rivers, and planted lots of camellia seeds.」%K%P
+0x9BC
+ココ「椿がすくすくと生長し、花を咲かせる頃になると、また別の国へと移って行き、困っている人々を助け……」%K%P
+Coco「When the camellias grew mature, healthy, and started to flower, she would move on to another region and begin all over again helping those in need...」%K%P
+0x9C8
+ココ「そんなことを、何百年も続けました」%K%P
+Coco「She continued living that way for hundreds of years.」%K%P
+0x9D4
+ココ「椿の種をまいたのは、彼氏さんの道しるべにする為です」%K%P
+Coco「The reason she planted camellia seeds was as a way of giving directions to her boyfriend in case he came looking for her.」%K%P
+0x9E0
+ココ「彼氏さんがこの世に生まれ変わって来たとき、自分の居場所がわかるように、比丘尼は種をまいたのでした」%K%P
+Coco「She planted lots and lots of camellia seeds so that when he was reborn into this world, he would know where she was.」%K%P
+0x9EC
+ココ「比丘尼はあきらめていませんでした」%K%P
+Coco「She hadn't given up hope.」%K%P
+0x9F8
+ココ「彼氏さんの言葉をずーっとずーっと信じ続けていたのです」%K%P
+Coco「She had kept believing the whole time that her boyfriend's words would come true.」%K%P
+0xA04
+ココ「そして、ついに７００年が経ち、比丘尼は生まれ故郷に戻りました」%K%P
+Coco「At last, 700 hundred years passed, and she returned to her homeland.」%K%P
+0xA10
+ココ「けれども、ふるさとの村に、比丘尼の知っている人はひとりもいません」%K%P
+Coco「But there wasn't anyone who knew her anymore.」%K%P
+0xA1C
+ココ「仕方なく、比丘尼は村はずれの洞窟へ入ることにしました」%K%P
+Coco「With no place to live, she decided to enter a cave on the outskirts of the village.」%K%P
+0xA28
+ココ「その入り口近くに、椿の種をたくさんたくさんまきました」%K%P
+Coco「She planted many, many camellia seeds near the entrance.」%K%P
+0xA34
+ココ「洞窟に入る前、比丘尼は村人にこんなことを言いました」%K%P
+Coco「Before she entered the cave, she told the villagers...」%K%P
+0xA40
+ココ「『日の出と日没の頃に、私は鈴を鳴らします』」%K%P
+Coco「'I will ring a bell at sunrise and sunset.'」%K%P
+0xA4C
+ココ「『この鈴の音が聞こえなくなったら、私は亡くなったと思って下さい』」%K%P
+Coco「'If you stop hearing the bell, please just think that I have passed away.'」%K%P
+0xA58
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xA64
+優「…………」%K%P
+You「.........」%K%P
+0xA70
+ココ「それから、１年経ち、２年経ち、３年経ち……」%K%P
+Coco「A year passed, then two, and three...」%K%P
+0xA7C
+ココ「５年経ち、１０年経ち、２０年経っても、彼氏さんはやって来ませんでした」%K%P
+Coco「After 5, 10, then 20 years, her boyfriend STILL didn't show up.」%K%P
+0xA88
+ココ「３０年経ち、４０年経ち、５０年経ち……」%K%P
+Coco「30 years passed, then 40, and then 50 years passed...」%K%P
+0xA94
+ココ「６０年経ち、７０年経ち、８０年経っても、やっぱり彼氏さんはやって来ませんでした」%K%P
+Coco「After 60, 70, 80 years had passed, her boyfriend STILL hadn't shown up.」%K%P
+0xAA0
+ココ「比丘尼が生まれてから８００年の歳月が流れました」%K%P
+Coco「800 years had passed since she was born.」%K%P
+0xAAC
+ココ「鈴の音が、聞こえなくなりました」%K%P
+Coco「The bell finally stopped ringing.」%K%P
+0xAB8
+ココ「とうとう最後まで、彼氏さんが姿を現すことはありませんでした」%K%P
+Coco「After all that time, her boyfriend had never appeared.」%K%P
+0xAC4
+ココ「洞窟の前の椿は美しく咲き誇り、その後何年もの間、散ることはなかったと言います」%K%P
+Coco「The camellias in front of the cave blossomed beautifully, never wilting for many years.」%K%P
+0xAD0
+ココ「人々は、いつまでも若く美しかった比丘尼のことを尊び、祈りを捧げ……」%K%P
+Coco「People honored this young and beautiful nun and prayed for her...」%K%P
+0xADC
+ココ「健康で、明るく長生きできるように願いをこめて……」%K%P
+Coco「And wished for longevity and happiness...」%K%P
+0xAE8
+ココ「彼女のことを――『八百比丘尼』――と、呼ぶようになったとさ」%K%P
+Coco「And people decided to call her 'Yaobikuni', the 800-year-old nun.」%K%P
+0xAF4
+ココ「おしまい」%K%P
+Coco「The end.」%K%P
+0xB1C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xB28
+優「…………」%K%P
+You「.........」%K%P
+0xB50
+ココ「じゃなかった……『つづく』……」%K%P
+Coco「Oh, not really... It's 'to be continued'...」%K%P
+0xB5C
+優「……は？」%K%P
+You「...Huh?」%K%P
+0xB68
+武「まだ続くのかよっ！」%K%P
+Takeshi「There's more!?」%K%P
+0xB74
+ココ「ううん、ココの知ってるお話は、これで終わりなんだけどね？」%K%P
+Coco「Well, actually, that's the end for the tale I know.」%K%P
+0xB80
+ココ「ひょっとしたら、まだ続きがあるかもしれないし……」%K%P
+Coco「But there might be more to the tale...」%K%P
+0xB8C
+優「どういうこと？」%K%P
+You「What do you mean?」%K%P
+0xB98
+ココ「結局、八百比丘尼さんの遺体は、誰も確認してないんだよ」%K%P
+Coco「Well, nobody actually found her body.」%K%P
+0xBA4
+ココ「鈴の音が聞こえなくなったから、死んじゃったんじゃないかって思っただけで……」%K%P
+Coco「They just figured she was dead because the bell stopped ringing...」%K%P
+0xBB0
+武「う～ん……」%K%P
+Takeshi「Hmmm...」%K%P
+0xBBC
+ココ「もしかしたら、日本のどこかの洞窟で、まだ八百比丘尼さんは生き続けているのかもしれない、でしょ？」%K%P
+Coco「Maybe, maybe she's still alive in a cave somewhere in Japan, you know?」%K%P
+0xBC8
+優「いまだに『彼氏さん』のことを待ってる、と？」%K%P
+You「Still waiting for her 'boyfriend'?」%K%P
+0xBD4
+武「あほぉ、そんなことあり得るわけないだろーが」%K%P
+Takeshi「Stupid! There's no way that story is true!」%K%P
+0xBE0
+武「ただの昔話だよ、昔話」%K%P
+Takeshi「It's just an old fairy tale, that's all.」%K%P
+0xBEC
+ココ「そうかなぁ……」%K%P
+Coco「I don't know...」%K%P
+0xBF8
+ココ「ココは、ほんのちょびっとだけだけど、生きてるような気がするんだけどなぁ～」%K%P
+Coco「I think she might still be alive somewhere...」%K%P
+0xC04
+優「うん、私もそう思う！」%K%P
+You「Yeah, me too!」%K%P
+0xC10
+武「おいおい、本気で言ってんのか？」%K%P
+Takeshi「Oh, come on, are you guys serious?」%K%P
+0xC1C
+優「ねえ、ココ？　八百比丘尼って、いつ生まれたの？」%K%P
+You「Hey, Coco? When was this nun born anyway?」%K%P
+0xC28
+ココ「詳しくは知らないんだけど、今から１３００年ぐらい前だって聞いたことがある」%K%P
+Coco「I don't know exactly, but I've heard it was about 1300 years ago.」%K%P
+0xC34
+武「ははっ、ほらみろ、１３００年前だぞ？　今生きてたら、１３００歳だ！」%K%P
+Takeshi「Haha! You see? 1300 years ago. If she were still alive, she'd be 1300 years old!」%K%P
+0xC40
+優「当たり前のこと言わないでよぉ」%K%P
+You「Look, you don't have to inform us of the obvious.」%K%P
+0xC4C
+武「じゃあ、こう言おうか」%K%P
+Takeshi「Let me put it this way.」%K%P
+0xC58
+武「今から１３００年前ってことはだなぁ、西暦７００年前後――奈良時代か、ヘタすると飛鳥時代から生き続けてたってことになる」%K%P
+Takeshi「1300 years from now would be like 700 A.D.―That means she would have been living since the Nara era, or even before that.」%K%P
+0xC64
+武「ナカノオオエノオウジもビックリだね」%K%P
+Takeshi「That would amaze even Prince Nakano-Ooe.」%K%P
+0xC70
+優「なにムキになってるのよぉ……」%K%P
+You「What are you so worked up about...?」%K%P
+0xC7C
+優「『ただの昔話だ』って言ったのは、倉成じゃない」%K%P
+You「You're the one who said it was just an 'old story', Kuranari.」%K%P
+0xC88
+武「別にムキになってるわけじゃ……」%K%P
+Takeshi「I'm not worked up...」%K%P
+0xC94
+優「もう倉成も、いい加減大人なんだからさぁ、わかるでしょ？」%K%P
+You「You're old enough to know what I'm talking about.」%K%P
+0xCA0
+優「少女の夢を、むやみに壊すんじゃないの」%K%P
+You「Don't break girls' romantic dreams for no good reason.」%K%P
+0xCAC
+優「ねえ、ココ？」%K%P
+You「Right, Coco?」%K%P
+0xCB8
+ココ「うん」%K%P
+Coco「Yeah.」%K%P
+0xCC4
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xCD0
+優「八百比丘尼が７００歳で洞窟に入ったってことは、それから６００年間も、ひたすら『彼氏さん』を待ち続けてたってことになるよねぇ」%K%P
+You「She entered the cave at the age of 700, so that means she waited for her boyfriend another 600 years, right?」%K%P
+0xCDC
+優「あっ、今でも生きてるかもしれないから――『待ち続けてる』――現在進行形かぁ」%K%P
+You「Oh, but she might still be alive, so that makes it 'she is waiting', as in the present tense.」%K%P
+0xCE8
+優「とにかくぅ……」%K%P
+You「Anyway...」%K%P
+0xCF4
+優「『彼氏さん』が椿の花を追い求めて、ようやく洞窟の淵へとたどりついたそのとき！」%K%P
+You「When her boyfriend finally arrives at the entrance of the cave, which is overflowing with camellia flowers...!」%K%P
+0xD00
+優「運命の再会が訪れるわけよぉ～」%K%P
+You「They will finally be reunited～」%K%P
+0xD0C
+優「６００年間の孤独が報われるわけよぉ～」%K%P
+You「And the extra 600 years of loneliness will be rewarded～」%K%P
+0xD18
+優「１３００年間の恋が実るわけよぉ～」%K%P
+You「Their 1300-year-old love will be fulfilled～」%K%P
+0xD24
+優「う～ん、なんてロマンチックなんでしょう♪」%K%P
+You「Oh, how romantic～」%K%P
+0xD30
+ココ「ロマンチック、かぁ……」%K%P
+Coco「Romantic, huh...」%K%P
+0xD44
+ココ「ココは、ロマンチックって言うよりも、ちょっぴり悲しい気がするなぁ……」%K%P
+Coco「I think it's more sad than romantic...」%K%P
+0xD50
+武「？」%K%P
+Takeshi「?」%K%P
+0xD5C
+優「？」%K%P
+You「?」%K%P
+0xD68
+ココ「だってさぁ……」%K%P
+Coco「Well, I mean...」%K%P
+0xD74
+ココ「暗ぁーい暗ぁーい洞窟の奥で……」%K%P
+Coco「She's been waiting in this deep dark cave...」%K%P
+0xD80
+ココ「ずーっとずーっとずーっとずーっと……『彼氏さん』が来るのを待ってるんだよ？」%K%P
+Coco「Just waiting for her boyfriend for the longest time, you know?」%K%P
+0xD8C
+ココ「ひとりぼっちで、待ってるんだよ？」%K%P
+Coco「She's been all alone.」%K%P
+0xD98
+ココ「寂しくて、寂しくて、寂しくて……」%K%P
+Coco「So alone and so lonely...」%K%P
+0xDA4
+ココ「だけど、死んじゃうこともできなくて……」%K%P
+Coco「But she couldn't die either...」%K%P
+0xDB0
+ココ「人魚の涙なんて、飲まなければよかったのに……」%K%P
+Coco「I wish she'd never drank those mermaid's tears...」%K%P
+0xDBC
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xDC8
+優「…………」%K%P
+You「.........」%K%P
+0xDD4
+ココ「…………」%K%P
+Coco「.........」%K%P
+0xDE0
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xDEC
+優「…………」%K%P
+You「.........」%K%P
+0xDF8
+ココ「…………」%K%P
+Coco「.........」%K%P
+0xE04
+武「なあ、ココ？」%K%P
+Takeshi「Hey, Coco?」%K%P
+0xE18
+ココ「ん？」%K%P
+Coco「What?」%K%P
+0xE24
+武「ココは、人魚が実在する動物だと思ってるのか？」%K%P
+Takeshi「Do you believe that mermaids actually exist?」%K%P
+0xE30
+優「はぁ……またそうやって夢の無いことを言う」%K%P
+You「Geez... There you go again... You're too practical.」%K%P
+0xE3C
+武「だって、人魚の存在が否定されたら、この話は最初っから成立しなくなるんだぞ？」%K%P
+Takeshi「Well, if mermaids don't exist, then you can forget about the whole story to begin with.」%K%P
+0xE48
+優「そんなことないよぉ～」%K%P
+You「That's not necessarily true～」%K%P
+0xE54
+優「人魚がいてもいなくても、話の信憑性とはな～んの関係もないと思う」%K%P
+You「Whether mermaids exist or not doesn't have anything to do with whether or not this story is true.」%K%P
+0xE60
+武「どうして？」%K%P
+Takeshi「Why not?」%K%P
+0xE6C
+優「ゴンタくんのもらったトックリには、誰がなんと言おうと『不老長寿の液体』が入ってたの」%K%P
+You「Well, it's obvious that the liquid Gonta-kun got from that old man was a 'longevity potion', I don't care what you say.」%K%P
+0xE78
+優「それを、誰かが勝手に『人魚の涙』って命名しただけかもしれないでしょ？」%K%P
+You「They could have just named it 'mermaid tears', right?」%K%P
+0xE84
+優「つまり、不老長寿の液体が、実際の人魚の涙である必要はないってこと」%K%P
+You「What I'm trying to say is that the potion didn't actually have to be made from mermaid teardrops.」%K%P
+0xE90
+優「例えば、ここに積まれてるキャンディーの山が、実際の人魚の涙じゃないのと同じようにね」%K%P
+You「I mean, these candies aren't actual mermaid teardrops.」%K%P
+0xE9C
+武「なるほど」%K%P
+Takeshi「Well, you have a point.」%K%P
+0xEA8
+武「『ニンギョノナミダ』というのは、その不可思議な液体に与えられた、ただの固有名詞に過ぎないというわけだな？」%K%P
+Takeshi「So 'mermaid tears' is only the name for that strange liquid, right?」%K%P
+0xEB4
+武「うむうむ、それじゃあまあ、人魚うんぬんの話はいいとしよう」%K%P
+Takeshi「Alright, fine. Let's skip the whole mermaid business.」%K%P
+0xEC0
+武「だがな？　優」%K%P
+Takeshi「But, you know, You?」%K%P
+0xECC
+武「よーく考えてみろ？」%K%P
+Takeshi「Think really hard, will you?」%K%P
+0xED8
+武「『不老長寿』なんて現象が、この世の中に存在すると思うか？」%K%P
+Takeshi「Do you honestly think that something like eternal youth exists?」%K%P
+0xEE4
+優「思う」%K%P
+You「I do.」%K%P
+0xEF0
+武「根拠は？」%K%P
+Takeshi「You have a basis for that belief?」%K%P
+0xEFC
+優「ある」%K%P
+You「Yes.」%K%P
+0xF08
+武「ならば提示してもらおうじゃないか」%K%P
+Takeshi「Okay, show me then.」%K%P
+0xF14
+優「望むところよ」%K%P
+You「Okay, I'll show you!」%K%P
+0xF20
+ココ「…………」%K%P
+Coco「.........」%K%P
+0xF2C
+優「ちょっと話はそれるけど……今の八百比丘尼の話、何かに似てると思わない？」%K%P
+You「This is a little off topic, but... doesn't this story of Yaobikuni remind you of something else?」%K%P
+0xF38
+武「？？？」%K%P
+Takeshi「?」%K%P
+0xF44
+ココ「？？？」%K%P
+Coco「?」%K%P
+0xF50
+優「浦島太郎だよぉ」%K%P
+You「I'm talking about the tale of Rip Van Winkle.」%K%P
+0xF5C
+武「浦島……」%K%P
+Takeshi「Rip Van...」%K%P
+0xF68
+ココ「……太郎？」%K%P
+Coco「...Winkle?」%K%P
+0xF74
+優「海の中へと招待されて、立派な屋敷がそこには建ってて、豪華なディナーを御馳走されて、帰りがけにはオミヤをもらう」%K%P
+You「Well, the father got invited to a party and got some kind of alcoholic beverage, right?」%K%P
+0xF80
+優「ここのとこなんか、もうそっくりそのまま浦島太郎じゃない」%K%P
+You「That's just like Rip Van Winkle.」%K%P
+0xF8C
+武「だから？」%K%P
+Takeshi「So what?」%K%P
+0xF98
+優「だからぁ～、要するにこういうこと」%K%P
+You「What I'm trying to say is this...」%K%P
+0xFA4
+優「浦島太郎はタマテ箱をあけたことによって、お爺さんになっちゃったでしょ？」%K%P
+You「Rip Van Winkle drank the liquor and became a very old man, right?」%K%P
+0xFB0
+優「八百比丘尼は『人魚の涙』を飲んだことによって、不老長寿の肉体を手に入れた……」%K%P
+You「Yaobikuni drank the 'mermaid tears' and gained a body of perpetual youth that never ages...」%K%P
+0xFBC
+優「ということはですなぁ」%K%P
+You「And that means that...」%K%P
+0xFC8
+武「ははぁ～ん、そうかそうか、言いたいことがわかってきたぞ」%K%P
+Takeshi「Ohhh... I'm beginning to see what you're trying to say.」%K%P
+0xFD4
+武「浦島太郎は、龍宮城で何日か過ごし、陸へ戻ってみると、数十年だか数百年だかの歳月が流れていた」%K%P
+Takeshi「Rip Van Winkle hits the bottle just a little tooooo hard, and when he wakes up, 20 years have passed.」%K%P
+0xFE0
+武「同じように八百比丘尼の場合……」%K%P
+Takeshi「Just like with the 800-year-old nun...」%K%P
+0xFEC
+武「『人魚の涙』を飲んだことによって、７００年後だか８００年後だかの未来へと、いきなりすっ飛ばされてしまった」%K%P
+Takeshi「By drinking 'mermaid tears', she was sent 700 or 800 years into the future.」%K%P
+0xFF8
+武「つまり、八百比丘尼は不老長寿でもなんでもなく、ただ単に、未来へとタイムスリップしただけだったんだ」%K%P
+Takeshi「So she didn't actually gain eternal youth, she just slipped through time into the future.」%K%P
+0x1004
+武「そう考えてみれば『８００年経っても１７歳のままだった』っていうのも、説明がつくよなぁ」%K%P
+Takeshi「So THAT explains why she stayed 17 years old even after 800 years.」%K%P
+0x1010
+武「説明がつく？？？」%K%P
+Takeshi「You think that explains it?」%K%P
+0x101C
+武「説明なんてつかねぇーよ！」%K%P
+Takeshi「Well, it doesn't!」%K%P
+0x1028
+武「タイムスリップなんて、現実には起こるわけないんだから！」%K%P
+Takeshi「There's no such thing as time travel in real life!」%K%P
+0x1034
+優「ちょ、ちょっと待って……話を勝手に進めないでよ」%K%P
+You「Hey, hey, wait a second... Don't go jumping to conclusions.」%K%P
+0x1040
+優「私はひと言も、タイムスリップなんて言ってないでしょ？」%K%P
+You「I never said a word about time travel, did I?」%K%P
+0x104C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1058
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x1064
+優「私が言いたいのは『タマテ箱』と『人魚の涙』との、類似性というか、相関関係というか、そういったものについてなの」%K%P
+You「I'm just curious about the similarity between the 'dwarven spirits' and 'mermaid tears.'」%K%P
+0x1070
+優「『タマテ箱』の中に詰め込まれていたものは……『生物の老化を急速に促進する作用を持った気体』だった」%K%P
+You「The dwarven liquor was actually... a solution that rapidly accelerates aging.」%K%P
+0x107C
+優「『トックリ』の中に詰め込まれていたものは……『生物の老化を極限まで抑制する作用を持った液体』だった」%K%P
+You「What was in the tears was... a solution that slows down aging.」%K%P
+0x1088
+優「そして、このふたつはともに、海中に棲息している何者かによって手渡された」%K%P
+You「Both of them were handed down from some old guy.」%K%P
+0x1094
+優「さらに、これらを手渡した人物は、海底に建造されたゴージャスな、宮殿のような場所に棲んでいた」%K%P
+You「And both of them were given at a mysterious gathering.」%K%P
+0x10A0
+優「ということは……？」%K%P
+You「So it tells us...」%K%P
+0x10AC
+優「『タマテ箱の煙』も『人魚の涙』も、同一人物の手によって……」%K%P
+You「Both 'dwarven spirits' and 'mermaid tears'...」%K%P
+0x10B8
+優「あるいは同一の文明によって、製造された可能性が極めて高いということになるでしょ？」%K%P
+You「...Are possibly made by the same people or by the same civilization.」%K%P
+0x10C4
+武「なるか？」%K%P
+Takeshi「It tells us that?」%K%P
+0x10D0
+優「なるの！」%K%P
+You「IT DOES!」%K%P
+0x10DC
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x10E8
+優「もしかしたらその宮殿は、海底に沈んだ超古代文明の遺跡の一部だったのかもしれないよね？」%K%P
+You「Well, the castle in Coco's story might have been part of some ruins of an ancient civilization, sunken under the ocean.」%K%P
+0x10F4
+優「例えば、レムリア文明とか」%K%P
+You「For example, the civilization of Lemuria.」%K%P
+0x1100
+優「レムリア文明には、老化をコントロールできちゃうような科学技術があって……」%K%P
+You「In Lemuria, it's thought they had science and technology that could control aging...」%K%P
+0x110C
+優「浦島太郎もゴンタくんも、何らかの事情によって、特別にその宮殿へと招かれることになったんだよ、きっと」%K%P
+You「And for some reason, Gonta-kun got invited to the castle.」%K%P
+0x1118
+優「うんうん」%K%P
+You「Uh-huh.」%K%P
+0x1124
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1130
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x113C
+優「どう？　納得した？」%K%P
+You「So? Are you satisfied?」%K%P
+0x1148
+武「凄まじく支離滅裂な論理展開だった気もするが……まあいいだろう」%K%P
+Takeshi「I think that was a pretty random explanation... but that's okay, I guess.」%K%P
+0x1154
+武「優の言いたいことはわかった」%K%P
+Takeshi「I got your point.」%K%P
+0x1160
+武「だが、今の話の中には『不老長寿が存在することの根拠』はひとつもなかったぞ？」%K%P
+Takeshi「But you still haven't given me any substantial evidence that eternal youth exists.」%K%P
+0x116C
+武「お前が言ったことの要点はこうだ」%K%P
+Takeshi「The point of what you just said was basically this...」%K%P
+0x1178
+武「『浦島太郎も八百比丘尼のパパさんも、滅亡したはずのレムリア文明とコンタクトを取ったに違いない』」%K%P
+Takeshi「'Rip Van Winkle and the 800-year-old nun's dad must have made contact with the lost civilization of Lemuria.'」%K%P
+0x1184
+武「よしっ、百万歩譲って、この仮説が正しかったとしよう」%K%P
+Takeshi「Alright then, let's just SUPPOSE this assumption was correct.」%K%P
+0x1190
+武「しかし、レムリア文明が仮にあったとしてもだ……」%K%P
+Takeshi「Even if the civilization of Lemuria actually did exist...」%K%P
+0x119C
+武「そこに『老化をコントロールできちゃうような科学技術』があったかどうかなんて、誰にもわからないじゃないか」%K%P
+Takeshi「Nobody knows if they had the technology to control aging, right?」%K%P
+0x11A8
+武「証明のしようがないじゃないか」%K%P
+Takeshi「There's no way you can prove it.」%K%P
+0x11B4
+武「それに、そもそもレムリア大陸なんてものは、過去にも未来にも、この地球上には存在しないんだよ」%K%P
+Takeshi「Besides, Lemuria never did and never will exist.」%K%P
+0x11C0
+武「スクレーターの唱えた学説は、とっくの昔に否定されてるんだ」%K%P
+Takeshi「Sclater's theory was disproven a long time ago.」%K%P
+0x11CC
+ココ「スクレーターって、なに？」%K%P
+Coco「What's Sclater?」%K%P
+0x11D8
+武「イギリスの動物学者の名前」%K%P
+Takeshi「The name of an English zoologist.」%K%P
+0x11E4
+武「１９世紀の中頃、彼は……」%K%P
+Takeshi「In the mid-19th century, he...」%K%P
+0x11F0
+武「アフリカ・マダカスカル島・アジア・インドネシアの島々に、同種のキツネザル――『レミュール』が生息していることに気づいたんだ」%K%P
+Takeshi「He noticed that the same species of lemur inhabited Africa, Madagascar Islands, Asia, and the Indonesian Islands.」%K%P
+0x11FC
+武「でも、レミュールは泳げない。……いや、少しぐらいなら泳げるかもしれないが、長距離を泳ぎ続けることは不可能だ」%K%P
+Takeshi「But lemurs can't swim... Well, maybe just a little, but certainly not a long distance.」%K%P
+0x1208
+武「ならば、広大な海にへだてられた島々に、どうして同じ種類のレミュールが点在しているのか？」%K%P
+Takeshi「Well then, how could the same kind of lemurs reside on different islands separated by a massive ocean?」%K%P
+0x1214
+武「スクレーターは考えた……」%K%P
+Takeshi「Sclater thought...」%K%P
+0x1220
+武「『そうだ！　きっと大昔には、インド洋に大陸が存在し、これらの島々は地続きになっていたに違いない！』」%K%P
+Takeshi「'That's it! A long time ago, there must have been a great landmass in the Indian Ocean, and these islands must have been connected as one!'」%K%P
+0x122C
+武「ところが、２０世紀の中頃に『大陸移動説』ってやつが証明されて、スクレーターの説はあっさりと否定されてしまったんだ」%K%P
+Takeshi「But by the mid-20th century, the theory of continental drift had been proven, and Sclater's theory was ignored after that.」%K%P
+0x1238
+武「『昔々大昔には、現在地球上にあるすべての大陸はひと塊になっていて……』」%K%P
+Takeshi「'A long, long time ago, all the land on the earth today formed one big continent...'」%K%P
+0x1244
+武「『それが地殻変動だかプレートテクトニクスだかによって、ゆっくりとゆっくりと分裂し、移動し、現在の姿になった』」%K%P
+Takeshi「'Which very slowly got broken up, and the continents shifted with the movement of the earth's crust, or by virtue of plate tectonics, to become the way they are today.'」%K%P
+0x1250
+武「正確に言うと、実は今でも、年に数センチという速度で大陸は移動してるんだけどな」%K%P
+Takeshi「To be precise, the land masses are still moving even today by several centimeters every year.」%K%P
+0x125C
+武「というわけで、大陸移動説は、もはや『説』というよりも、当たり前の事実として考えられている」%K%P
+Takeshi「The theory of continental drift was now known to be fact rather than just theory.」%K%P
+0x1268
+武「言うまでもなく、レミュールが島々に点在している理由も、これによって説明することができる」%K%P
+Takeshi「So the reason why lemurs exist on different islands can be explained by this theory.」%K%P
+0x1274
+武「どうだ！　わかったか！　レムリア大陸なんてもんは実在しないんだよ！」%K%P
+Takeshi「So there! You see? There is no such thing as Lemuria!」%K%P
+0x1280
+武「レムリア大陸が無けりゃ、レムリア文明だって無いだろーが！」%K%P
+Takeshi「If there's no Lemuria, there couldn't be a Lemurian civilization!」%K%P
+0x128C
+優「あっそ」%K%P
+You「Oh really?」%K%P
+0x1298
+優「ふ～ん」%K%P
+You「You don't say?」%K%P
+0x12A4
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x12B0
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x12BC
+優「悪いけど、私が言ったのは、太平洋の『レムリア大陸』のことなんだよね」%K%P
+You「Well, sorry to cut you off when you're just getting started, but the 'Lemuria' I was referring to was in the Pacific Ocean.」%K%P
+0x12C8
+優「日本の浦島太郎が、どうしてわざわざマラッカ海峡を渡ってインド洋まで行かなきゃいけないのよ」%K%P
+You「Why would a Japanese person like Gonta-kun go all the way over to the Strait of Malacca, then to the Indian Ocean?」%K%P
+0x12D4
+優「レムリア大陸は、太平洋にあったの」%K%P
+You「Lemuria was located in the Pacific Ocean.」%K%P
+0x12E0
+武「太平洋？　……お前、もしかしてそれ、ムー大陸のこと言ってる？」%K%P
+Takeshi「In the Pacific Ocean...? Are you, by any chance, talking about the continent of Mu?」%K%P
+0x12EC
+優「呼び方なんてどうでもいいのよ」%K%P
+You「It doesn't matter what you call it.」%K%P
+0x12F8
+優「かつて太平洋上には、超古代文明が存在した」%K%P
+You「There used to be an ancient civilization in the Pacific before recorded history.」%K%P
+0x1304
+優「それをある人はレムリア文明と呼び、ある人はムー文明と呼ぶ――そんなこと、どっちだっていいじゃない」%K%P
+You「Some people call it Lemuria, others call it Mu. It doesn't really matter, does it?」%K%P
+0x1310
+武「ああ……頭が痛くなってきた……」%K%P
+Takeshi「Oh... I'm getting a headache...」%K%P
+0x131C
+武「確かにどっちだっていいさ……どっちだってな……」%K%P
+Takeshi「I guess you're right, it doesn't matter... It really doesn't...」%K%P
+0x1328
+武「レムリアだろうがムーだろうが、実在しないことに変わりはないんだから」%K%P
+Takeshi「Whether you call it Lemuria or Mu, it never existed anyway.」%K%P
+0x1334
+優「どうしてそう夢のないこと言うかなぁ……」%K%P
+You「Why do you have to be so serious...?」%K%P
+0x1340
+優「大人気ない……」%K%P
+You「It's so childish...」%K%P
+0x134C
+優「倉成には想像力ってもんがないの？」%K%P
+You「Don't you have any imagination, Kuranari?」%K%P
+0x1358
+武「大人気ないのはお前の方じゃないか！　もう１８だろ！？　現実を見ろ、現実を！」%K%P
+Takeshi「You're the one who's childish! You're eighteen, right!? Grow up, will you!? Get real!」%K%P
+0x1364
+武「『超古代文明』も『不老長寿』も『浦島太郎』も『八百比丘尼』も『サンタクロース』も――全部架空の物語なんだよ！」%K%P
+Takeshi「An ancient civilization before time, perpetual youth and longevity, Rip Van Winkle, 800-year-old nun, and Santa Claus... None of these exist!」%K%P
+0x1370
+武「ただのオトギ話なんだ！」%K%P
+Takeshi「They're all just fairy tales!」%K%P
+0x137C
+優「オトギ話のすべてが虚構とは限らないでしょ！」%K%P
+You「Not all fairy tales are fiction!」%K%P
+0x1388
+優「なかには実話だってあるかもしれないじゃない！」%K%P
+You「Some of them may be real!」%K%P
+0x1394
+武「ない！」%K%P
+Takeshi「No way!」%K%P
+0x13A0
+優「ある！」%K%P
+You「Yes way!」%K%P
+0x13AC
+優「少なくとも浦島太郎だけは、絶対確実完全無欠に実話だと思う！」%K%P
+You「Well I, for one, believe Rip Van Winkle really existed!」%K%P
+0x13B8
+武「ほっほ～、すごい自信じゃないか」%K%P
+Takeshi「Oh, you're so sure, huh?」%K%P
+0x13C4
+武「根拠はあるんだろうな？　根拠は」%K%P
+Takeshi「Do you have any proof? Do you?」%K%P
+0x13D0
+優「もちろん！」%K%P
+You「Of course!」%K%P
+0x13DC
+武「ならば提示してもらおうじゃないか」%K%P
+Takeshi「Then let's see it.」%K%P
+0x13E8
+優「望むところよ！」%K%P
+You「Okay, I'll show you!」%K%P
+0x13F4
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x1400
+優「浦島太郎はねぇ！」%K%P
+You「Rip Van Winkle was...」%K%P
+0x140C
+武「なんだよ？」%K%P
+Takeshi「What?」%K%P
+0x1418
+優「浦島太郎は……浦島太郎は……」%K%P
+You「Rip Van Winkle was... Rip Van Winkle was...」%K%P
+0x1424
+武「？」%K%P
+Takeshi「?」%K%P
+0x1430
+ココ「？」%K%P
+Coco「?」%K%P
+0x1458
+優「う、うらしま…………た……たろう……は……」%K%P
+You「Rip... Van... W... inkle... was...」%K%P
+0x1464
+優「…………たろう…………は…………」%K%P
+You「...Winkle... was...」%K%P
+0x1470
+――突然、優が胸を押さえて苦しみ始めた。%K%P
+Suddenly, You put her hand on her chest and seemed to be suffering.%K%P
+0x14A0
+武「ど、どうしたんだ！」%K%P
+Takeshi「What's wrong!?」%K%P
+0x14AC
+ココ「だ、大丈夫！？　なっきゅ！」%K%P
+Coco「Hey, are you okay, Nakkyu!?」%K%P
+0x14B8
+優「う、うん……」%K%P
+You「Uh-huh...」%K%P
+0x14C4
+優「平気……」%K%P
+You「I'm okay...」%K%P
+0x14D0
+優「いつもの……こと……だから……」%K%P
+You「It happens... all the time...」%K%P
+0x14DC
+武「いつものこと！？」%K%P
+Takeshi「What do you mean all the time!?」%K%P
+0x14E8
+優の顔には血の気がなかった。%K%P
+You's face had gone pale.%K%P
+0x14F4
+クチビルは真っ青で、額からはだらだらと汗が流れている。%K%P
+Her lips were almost purple, and sweat began to run down her forehead.%K%P
+0x1500
+右手の爪を立て、優は胸の辺りをえぐるようにつかんでいた。%K%P
+She grabbed her chest with her right hand.%K%P
+0x150C
+優「う、うぅぅぅっ……」%K%P
+You「Uhhhh...」%K%P
+0x1518
+かすれた声でうめき、うずくまった。%K%P
+She groaned in a low voice and squatted to the floor.%K%P
+0x1524
+左手が、涙の山に突き刺さる。%K%P
+She jabbed her left hand into the mountain of tears.%K%P
+0x1530
+人魚の涙は激しく飛び散り、頂上に立てたサインペンが宙を舞った。%K%P
+The mermaid tears scattered everywhere, and the pen on top flew in the air.%K%P
+0x153C
+優「ほんとに……大丈夫……だから……」%K%P
+You「I'll... be... alright...」%K%P
+0x1548
+大丈夫なわけがなかった。%K%P
+She didn't seem alright at all.%K%P
+0x1554
+息づかいは荒く、体は硬直し、震え、顔色はすでに死人のそれに近い。%K%P
+Her breathing was fast, and her body was stiff and shaking, her facial color almost seeming like that of a corpse.%K%P
+0x1560
+――どうする！？%K%P
+(What should we do!?)%K%P
+0x156C
+ここに優を寝かせて、みんなを呼んで来るか！？%K%P
+(Should I leave You here and call for help!?)%K%P
+0x1578
+いや、そんなことしても意味がない！　一刻を争う事態だ！%K%P
+(No! We don't have any time to lose!)%K%P
+0x1584
+救護室！　救護室に運ぼう！%K%P
+(To the infirmary! I've got to take her to the infirmary!)%K%P
+0x1590
+武「ココ！　俺が優を救護室に運んで行く！」%K%P
+Takeshi「Coco! I'm gonna carry You to the infirmary!」%K%P
+0x159C
+武「だからココは、先にみんなのとこに行ってこのことを知らせてくれ！」%K%P
+Takeshi「So you go ahead and tell everybody what's going on!」%K%P
+0x15A8
+ココ「う、うん！　わかった！」%K%P
+Coco「O-okay, I will!」%K%P
+0x15BC
+俺は優を背中にかつぐと、店を飛び出した。%K%P
+I carried You on my back and jumped out of the kiosk.%K%P
+0x15C8
+救護室は近い。走れば１分とかからないだろう。%K%P
+The infirmary was close, so I could get there in less than a minute if I ran.%K%P
+0x15D4
+考える前に、俺の足は動き出していた。%K%P
+Before I could think, my feet had already started moving.%K%P
+0x15E8
+優「くらなり……」%K%P
+You「Kuranari...」%K%P
+0x15F4
+優「くらな…り……」%K%P
+You「Kurana... ri...」%K%P
+0x1600
+俺は黙々と走り続けた。%K%P
+I kept running in silence.%K%P
+0x160C
+救護室はもう目の前だ。%K%P
+The infirmary was near.%K%P
+0x1618
+優「きいてよ……くらなり……」%K%P
+You「Hey... Kuranari...」%K%P
+0x1624
+優がささやく。%K%P
+You whispered.%K%P
+0x1630
+俺の耳もとで……。%K%P
+Into my ear...%K%P
+0x163C
+微かな声で……。%K%P
+In a small voice...%K%P
+0x1648
+優「うらしま……たろうは……ねぇ……」%K%P
+You「Rip... Van... Winkle... was...」%K%P
+0x1654
+優「……うらしま……たろうは……」%K%P
+You「Rip... Van... Winkle... was...」%K%P
+0x1660
+優「ほんとうに……」%K%P
+You「He really...」%K%P
+0x166C
+優「ほんとう……に……」%K%P
+You「He... really...」%K%P

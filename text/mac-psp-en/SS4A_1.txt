@@ -1,0 +1,573 @@
+text area offset and size:
+0xEC0
+0x25A8
+0x70
+ぼくはＬｅＭＵの中を歩き回っていた。%K%P
+I walked around LeMU.%K%P
+0x7C
+あんなことがあった後だけに、武や優と一緒にはいたくはない。%K%P
+After what had happened, I didn't want to be around You or Takeshi.%K%P
+0x88
+かといって、一カ所にじっとしているのはなんだか落ち着かなかった。%K%P
+But I was too worked up to just stick around in one place.%K%P
+0x94
+なるべく、優や武のこないような場所を選んでうろうろと歩きながら考える。%K%P
+I thought I would pick the place they were least likely to come and wander around it.%K%P
+0xA0
+あのとき、自分の中ではじけた怒りが何だったのか……。%K%P
+I wondered what that fit of rage had been about...%K%P
+0xAC
+なぜあんな風にぼくは怒ったのだろう……。%K%P
+Why had I gotten so mad...?%K%P
+0xB8
+なぜ……。%K%P
+Why...?%K%P
+0xC4
+沙羅を見下ろしたつぐみの冷たい視線。%K%P
+Tsugumi had stared coldly down at Sara.%K%P
+0xD0
+じっと耐えるように必死で踏ん張っていた沙羅……。%K%P
+And Sara had desperately battled to stand her ground...%K%P
+0xDC
+あの瞬間、ぼくの中にわき上がったあの感情は何だったのか……。%K%P
+What were the emotions that had welled up within me in that instant...?%K%P
+0xE8
+もう少しでなにかわかりそうな気がした。%K%P
+I felt like I was on the verge of figuring it out.%K%P
+0xF4
+今まではあつい霧で覆われていたかのようだったぼくの失われた記憶。%K%P
+Like my lost memory had been concealed by a thick fog.%K%P
+0x100
+それが今では、薄い膜一枚に隔てられただけの、すぐそこにあるもののように思える。%K%P
+But then it was right in front of me, right there, covered by a thin sheet.%K%P
+0x10C
+だが、その一枚を取り払うことができない。%K%P
+But no matter how thin it was, I still couldn't remove it.%K%P
+0x118
+考えれば考えるほど、記憶はまた霧の彼方へと遠ざかってしまう。%K%P
+The more I thought about it, the further away into the fog my memory seemed to recede.%K%P
+0x124
+いったい、ぼくの過去には何があったというのか……。%K%P
+I wondered what I could have had in my past...%K%P
+0x130
+何もわからないまま、ぼくはＬｅＭＵの中をさまよい続けた……。%K%P
+I continued to wander LeMU without understanding anything...%K%P
+0x168
+ふと、誰かの声が聞こえたような気がして、ぼくはその部屋に入った。%K%P
+Suddenly, I felt like I heard someone's voice in a room, so I entered it.%K%P
+0x174
+一面の夜空が広がる空間に、球形の大きな惑星がいくつか……。%K%P
+In the sprawling night sky were a number of orb-shaped planets...%K%P
+0x180
+そしてその中間に、ふんわりと大きなクジラが浮かんでいる。%K%P
+And in between the planets, there floated a huge, soft-looking whale.%K%P
+0x18C
+そこは宇宙クジラの部屋だった。%K%P
+It was the Cosmic Whale room.%K%P
+0x198
+クジラも、そしてこの星空も、もちろん作り物にすぎない。%K%P
+Of course, the whale and the starry sky were all merely theme park attractions.%K%P
+0x1A4
+たとえ作り物でも、その空間の広がりは、ずっと閉鎖された空間に閉じこめられて緊張していたぼくの心をほっと落ち着かせてくれる。%K%P
+I thought that wide open space and the attractions would help to ease my ragged nerves.%K%P
+0x1B0
+長い間緊張した状態で、閉鎖された空間に閉じこめられていた。%K%P
+Even though it was fake, the expansive space eased my tense mind and nerves, frazzled from being cooped up for so long.%K%P
+0x1BC
+しかも、何の記憶もない状態で……。%K%P
+But I still had no memory...%K%P
+0x1C8
+その事が、気がつかないうちにかなりの緊張をぼくに強いていたのだということに、改めて気づかされる。%K%P
+I realized again just how stressed the situation had made me without me even noticing.%K%P
+0x1D4
+ぼくは、しばらくボーっとその光景を眺めていた。%K%P
+For a while, I just relaxed, looking at the scenery.%K%P
+0x1E0
+…………。%K%P
+...%K%P
+0x208
+少年「あれ……」%K%P
+Kid「What...?」%K%P
+0x214
+クジラの上で何かがもぞもぞと動いた。%K%P
+Something moved slightly on top of the whale.%K%P
+0x220
+目をこらす。%K%P
+I squinted, peering at it.%K%P
+0x22C
+少年「沙羅……？」%K%P
+Kid「Sara...?」%K%P
+0x238
+ぼくは、クジラが次につく惑星を素早く見極め、その惑星に上る階段へと向かった。%K%P
+I glanced quickly at the planet next to the whale and headed for the stairs leading to it.%K%P
+0x298
+ぼくは、クジラの鼻先に沙羅と並んで腰を下ろしていた。%K%P
+I walked out to the edge of the whale's nose and sat down next to Sara.%K%P
+0x2A4
+もっとも、クジラやイルカの鼻腔は頭の天辺にあるのだから、ここを鼻先と表現することは的確ではないのだが……。%K%P
+I thought that, normally, whales and dolphins had their blowholes or nostrils near the middle of their head, so it probably wasn't accurate to say 'its nose'.%K%P
+0x2B0
+ぼくらの頭上には無数の星々が瞬いていた。%K%P
+We looked at the countless stars sparkling overhead.%K%P
+0x2BC
+手を伸ばせば届きそうな星空だった。%K%P
+It seemed as if we could reach the stars in the sky.%K%P
+0x2C8
+実際、立ち上がってつま先立ちすれば、ぼくは星に触れることができただろう。%K%P
+If I had stood up, I could have probably actually touched a star.%K%P
+0x2D4
+それは天井に投影された、偽物の夜空だったのだから。%K%P
+Because it was all a facade of fake stars projected onto the ceiling.%K%P
+0x2E0
+偽物と言えば、このクジラもそうだった。%K%P
+Speaking of fake, the whale was too.%K%P
+0x2EC
+しかし、どんな技術を駆使したのか知らないが、この偽物のクジラは本物と見まがうような肌の質感をしていた。%K%P
+I didn't know what kind of cutting-edge technology they used, but the skin on the whale felt like it could have been real.%K%P
+0x2F8
+と思うのは、ぼくがかつて本物のクジラに触れたことがあるからだろうか？%K%P
+Then again, I didn't suppose I had ever actually touched a real whale.%K%P
+0x304
+それとも『クジラの肌とはこういうものだろう』というぼくなりのイメージに、しっくりきたからなのか？%K%P
+Maybe I was just working from some image I had of what whale skin would feel like.%K%P
+0x354
+%N%N
+
+0x360
+考えてみれば、記憶の無い状況とは神秘である。%K%N
+Not having a memory was mysterious in a way.%K%N
+0x36C
+平常と異常、常識と非常識は、すべて記憶によって%N判別されるものだと思う。%K%O
+Normal and abnormal, common sense and nonsense... were all dictated by memory.%K%O
+0x384
+例えば――%K%N
+For example...%K%N
+0x390
+今突然目の前にラッコの姿をした男が現れて、%K%N
+If a sea otter suddenly appeared right in front of me...%K%N
+0x39C
+『オレはおまえの父親だ』と言われても、%Nきっとぼくは彼の言葉を信じないだろう。%K%N
+And he said, 'I'm your father', then, well, I probably wouldn't believe him.%K%N
+0x3A8
+それはたぶん、ぼくが今までの人生の中で、%N一度たりともラッコ人間なるものに出逢ったことがないからであり……。%K%O
+Because in life, I had never met a cross between a sea otter and a person...%K%O
+0x3C0
+しかし、本当にラッコ人間に逢ったことがないのか%Nどうか、ぼくには確かめる手段はなく……。%K%N
+But with no memory, there was no way for me to know for sure if I had ever met a sea otter person...%K%N
+0x3CC
+そう考えてみると……%K%N
+Thinking of it that way...%K%N
+0x3D8
+ぼくがこうしてまともに物事を考えていられるのは、神秘としか言いようがなかった。%K%O
+It was amazing to me that I could be so logical.%K%O
+0x3F0
+ぼくの記憶は、ぼくの脳のヒキダシの中に、%N確かに蓄えられているのだろう。%K%N
+I imagined that my memories were stored away in a drawer in my brain somewhere.%K%N
+0x3FC
+そして今も、蓄えられ続けている。%K%N
+And I was adding to the drawers even then.%K%N
+0x408
+だけど、ぼくが開けることのできるヒキダシの数は%N限られている。%K%N
+However, the number of drawers that I could open was limited.%K%N
+0x414
+５月１日以前のヒキダシは、ぼくにはどこに埋ずもれているのかさえ見当もつかない。%K%O
+I had no idea where the drawers from before May 1st were packed away.%K%O
+0x42C
+にもかかわらず……%K%N
+Still...%K%N
+0x438
+誰かがぼくのヒキダシを勝手に開けて、%K%N
+There was someone opening my drawers...%K%N
+0x444
+目の前に現れた現象が、平常なのか異常なのか、%N常識なのか非常識なのか、きちんと判断している。%K%O
+And he or she was judging whether what was happening was normal or abnormal, common sense or nonsense.%K%O
+0x45C
+いや、判断してくれている、と言うべきか。%K%N
+Rather, that entity was telling me.%K%N
+0x468
+ぼくは、鍵を持たない金庫番だった。%K%N
+I was a safe without a key.%K%N
+0x474
+金庫の中の財宝は、ぼくのものではないのだ……。%K%O
+The treasure in the safe didn't belong to me...%K%O
+0x4A4
+ところで、このクジラが精巧にできているのは、なにも肌の質感だけに限ったことではない。%K%P
+Incidentally, it wasn't just the texture of the whale's skin that made it seem so lifelike.%K%P
+0x4B0
+クジラは生きていた。%K%P
+The whale was alive.%K%P
+0x4BC
+少なくともぼくにはそう見えた。%K%P
+At least it seemed that way to me.%K%P
+0x4C8
+星空の中を泳ぐクジラ。%K%P
+A whale swimming in the starry sky.%K%P
+0x4D4
+脊椎を波のようにうねらせ、ドルフィンキックを繰り返す。%K%P
+Its back surging like a wave, it undulated again and again.%K%P
+0x4E0
+やわらかな口は、閉じたり開いたり、時折もこもこと膨らんだりする。%K%P
+Its soft mouth opened, closed, and even puffed up from time to time.%K%P
+0x4EC
+およそ３分ごとに、鼻腔から生温かい息を吐き出す。%K%P
+About every three minutes, it blew out a warm breath through its blowhole.%K%P
+0x4F8
+海水が霧となって辺りを漂う。%K%P
+A seawater mist of spray would scatter around the area.%K%P
+0x504
+クジラの鼻先に座ったぼくと沙羅は、当然、彼の動きにあわせて、浮いたり沈んだり……。%K%P
+Sitting at the tip of its nose, Sara and I bobbed up and down in time with its movements...%K%P
+0x510
+とは言え、手を放していてもなんら支障ないぐらいの緩慢な動きである。%K%P
+However, the whale undulated so slowly that we could let go with our hands and feel safe.%K%P
+0x51C
+まるでゆりかごに揺られているように……。%K%P
+It was like a cradle rocking back and forth...%K%P
+0x528
+ぼくらはクジラとともに宇宙を航る。%K%P
+On the back of the whale, we sailed through the cosmos.%K%P
+0x534
+それはクィクィ星へと向かう途中でのことだった。%K%P
+We were on our way to Planet Kuikui.%K%P
+0x540
+沙羅はポケットから、おもむろに何かを取り出して見せた。%K%P
+Sara slowly took something out of her pocket and showed it to me.%K%P
+0x54C
+旧式の、オイルライターだった。%K%P
+It was an old-fashioned oil lighter.%K%P
+0x574
+ライターに火を灯す。%K%P
+She lit it.%K%P
+0x580
+揺らめく炎に、沙羅の顔は色づいた。%K%P
+The flickering flame made Sara's face look red.%K%P
+0x58C
+どうして、ライターなんか持ち歩いているのだろう？%K%P
+I wondered why she was carrying around a lighter.%K%P
+0x598
+まさかタバコを吸うとは思えないし。%K%P
+I couldn't picture her as the type that would smoke.%K%P
+0x5A4
+訊いてみようか？%K%P
+I thought I might ask her.%K%P
+0x5B0
+そう思ったとき、沙羅はもう一方の手の平を開いた。%K%P
+But as I did, Sara opened her other hand.%K%P
+0x5BC
+さっきのペンダント。%K%P
+In it was the pendant from before.%K%P
+0x5C8
+細い鎖が人差し指に巻きつけられ、ペンダントは手の中で揺れていた。%K%P
+A thin chain was wrapped around her index finger. The pendant swayed in her hand.%K%P
+0x5D4
+沙羅はペンダントに炎を近づけ、ぼんやりとしたまなざしでそれを見つめた。%K%P
+Sara brought the flame closer to the pendant and stared at it dreamily.%K%P
+0x5E0
+口元がゆるんだ。%K%P
+Her expression relaxed.%K%P
+0x5EC
+沙羅はうっとりと、なにかに見惚れているようだった。%K%P
+It was as if Sara was mesmerized by something.%K%P
+0x5F8
+ペンダントには、鏡がはめ込まれていた。%K%P
+A mirror was embedded in the pendant.%K%P
+0x604
+鏡に反射したライターの炎が、少しまぶしい。%K%P
+The flame of the lighter reflected brightly in the mirror.%K%P
+0x610
+ということは……。%K%P
+I wondered if...%K%P
+0x61C
+沙羅は鏡に映った自分の姿に見惚れているのだろうか？%K%P
+Sara was staring at her reflection and admiring herself.%K%P
+0x628
+ぼくは思わず笑ってしまった。%K%P
+I laughed without thinking.%K%P
+0x634
+沙羅「ん？　なにが可笑しいの？」%K%P
+Sara「Huh? Is something funny?」%K%P
+0x640
+少年「だって……」%K%P
+Kid「I mean...」%K%P
+0x64C
+少年「自分の顔なんか見て、ニヤニヤ笑ってるからさ」%K%P
+Kid「It looks like you're sitting there grinning at yourself.」%K%P
+0x658
+沙羅「ち、ちがうよぉ！」%K%P
+Sara「N-no I'm not!」%K%P
+0x664
+少年「沙羅って、意外とナルシスト、なの？」%K%P
+Kid「I guess you've got a bit of a narcissistic side?」%K%P
+0x670
+沙羅「だからぁ、違うって！」%K%P
+Sara「I said I'm not!」%K%P
+0x67C
+そう言って、沙羅はライターのフタをパチンッと閉じた。%K%P
+With that, Sara snapped the lighter shut.%K%P
+0x698
+その刹那、ぼくは妙な点に気がついた。%K%P
+That moment, I noticed something odd.%K%P
+0x6A4
+一瞬、鏡に映ったライターの炎がふたつに割れたように見えたのだ。%K%P
+It had looked like the flame of the lighter in the mirror split into two images.%K%P
+0x6B0
+もしかしたら、鏡面にヒビでも入っているのかもしれない。%K%P
+I thought that maybe there was a crack in the mirror.%K%P
+0x6BC
+少年「ねえ？　ちょっとそのペンダント、貸してもらえないかなぁ？」%K%P
+Kid「Hey, can I see that pendant for a second?」%K%P
+0x6D0
+沙羅「いいけど……」%K%P
+Sara「Sure...」%K%P
+0x6E4
+沙羅「落とさないでよ？」%K%P
+Sara「Don't drop it.」%K%P
+0x6F0
+クジラの体は、相変わらず上下に揺れていた。%K%P
+The whale's body continued to move up and down.%K%P
+0x6FC
+そのことを沙羅は心配したのだろう。%K%P
+I figured that was what Sara meant.%K%P
+0x708
+少年「大丈夫だよ」%K%P
+Kid「I won't.」%K%P
+0x71C
+ぼくはそう告げて、沙羅からペンダントを受け取った。%K%P
+Saying that, I took the pendant from Sara.%K%P
+0x730
+鎖をくるくると指に巻きつけて、顔を近づけてみる。%K%P
+I wrapped the chain around my finger and brought it close to my face.%K%P
+0x73C
+案の定、鏡は割れていた。%K%P
+As I had suspected, the mirror was cracked.%K%P
+0x748
+割れていただけではなく、その一部分は欠け落ちていた。%K%P
+It wasn't just broken. A piece of it was missing.%K%P
+0x754
+ぼくはその欠落した切り口を、指先でなぞった。%K%P
+I touched the area that was missing.%K%P
+0x760
+恐らく、さっきつぐみが落とした衝撃で、割れてしまったのだろう。%K%P
+I thought it had probably broken from the shock of Tsugumi dropping it.%K%P
+0x76C
+失われたカケラは、まだあの部屋に転がっているかもしれない。%K%P
+The missing fragment might still be lying about in that room.%K%P
+0x778
+鋭利な切り口の感触に、ぼくの胸はしくしくと痛んだ。%K%P
+Feeling the sharp contours of where the missing piece belonged made me sad.%K%P
+0x784
+ぼくは鏡から指先を離すと、その手の平を沙羅の前へと差し出した。%K%P
+I took my fingers from the mirror and held my palm out toward Sara.%K%P
+0x790
+沙羅は何も言わずに、ぼくの手の平にポンとライターを乗せた。%K%P
+Without saying anything, Sara plunked the lighter down on the palm of my hand.%K%P
+0x79C
+――ジッ。%K%P
+―Shick.%K%P
+0x7A8
+火花が散って、明かりが灯った。%K%P
+It sparked and lit.%K%P
+0x7BC
+少年「あっ……」%K%P
+Kid「Oh...」%K%P
+0x7C8
+気がつくと、ぼくは声をもらしていた。%K%P
+I had spoken without thinking.%K%P
+0x7D4
+鏡面の上に、ぼんやりと浮かび上がった立体画像。%K%P
+A three-dimensional image appeared dimly in the mirror.%K%P
+0x7E8
+少年「これ、ホログラムペンダントだったんだ？」%K%P
+Kid「So this is a hologram pendant?」%K%P
+0x800
+沙羅「えっ？」%K%P
+Sara「Huh?」%K%P
+0x814
+沙羅「そ、そうだけど……」%K%P
+Sara「Y-yes, but...」%K%P
+0x83C
+そのホログラムは人間の姿を映し出していた。%K%P
+The mirror showed a person.%K%P
+0x848
+バストショットというやつだろうか？%K%P
+It was basically a headshot.%K%P
+0x854
+肩から上の画像で、顔も表情も鮮明に浮かんで見える。%K%P
+From the shoulders on up, the head and facial expression were extremely clear.%K%P
+0x860
+ホロマシンで作ったものだろう。%K%P
+I imagined it was made using a holomachine.%K%P
+0x8B0
+ホロマシンというのは、好きな形のペンダントや%Nキーホルダーを買って、ホログラムを焼き付ける事ができる機械だ。%K%N
+Holomachines were machines that would burn a hologram into pendants, keychains, or any other object that a person wanted.%K%N
+0x8BC
+たしかＬｅＭＵにも『ホロクラ』と呼ばれるマシンが%N何台も置いてあったっけ。%K%O
+On LeMU, there were even a number of those machines.%K%O
+0x8EC
+――そんな記憶がよみがえった。%K%P
+I remembered that much.%K%P
+0x8F8
+さっきと一緒だった。何かきっかけがあれば、そのことについての記憶が呼び出される。%K%P
+It was the same as before―if there was something to trigger my memory, I could recall some things.%K%P
+0x904
+こういう事は、簡単に思い浮かぶのにな……。%K%P
+I thought that if I could remember those kinds of things, why not...%K%P
+0x910
+そんな想いを抑えて、改めてぼくは、ペンダントの上の画像を見つめた。%K%P
+But I shoved that thought aside and focused again on the image in the pendant.%K%P
+0x91C
+ホログラムだから、当然奥行きもある。%K%P
+Since it was a hologram, it also had depth.%K%P
+0x928
+鏡面の角度を変えると、それにあわせて彼の顔の向きも変わった。%K%P
+Changing the angle of the mirror changed the angle of his face.%K%P
+0x934
+彼、と今言ったが……そう、それは男性だった。%K%P
+His... It was an image of a man.%K%P
+0x940
+ぼくの知らない男性。%K%P
+A man I didn't know.%K%P
+0x94C
+たぶん、金庫やヒキダシの中にもしまわれていないだろうと思われる容貌である。%K%P
+I suspected it was an image that was closed away in one of those inaccessible drawers of my memory.%K%P
+0x958
+その顔に、まったく見覚えはなかった。%K%P
+I had no memory of the face.%K%P
+0x964
+少年「これ、誰なの？」%K%P
+Kid「Who is this?」%K%P
+0x970
+沙羅「…………」%K%P
+Sara「.........」%K%P
+0x97C
+少年「ねえ？」%K%P
+Kid「Huh?」%K%P
+0x988
+沙羅「…………」%K%P
+Sara「...」%K%P
+0x994
+少年「ひょっとして、彼氏？」%K%P
+Kid「Is it your boyfriend?」%K%P
+0x9A0
+沙羅「…………」%K%P
+Sara「.........」%K%P
+0x9AC
+沙羅は答えなかった。%K%P
+Sara remained quiet.%K%P
+0x9B8
+その表情は凍りついたようにこわばっていた。%K%P
+Her expression was frozen solid.%K%P
+0x9C4
+少年「彼氏、でしょ？」%K%P
+Kid「It's your boyfriend, isn't it?」%K%P
+0x9D0
+ぼくはもう一度尋ねた。%K%P
+I asked her again.%K%P
+0x9DC
+そう、沙羅はなにも、自分の顔に見惚れていたわけじゃなかった。%K%P
+But there was not even a glimmer of hidden romance on her face.%K%P
+0x9E8
+大好きな彼氏の顔を見れば、誰だって自然と口元がゆるんでしまうものだ。%K%P
+Any girl looking at her boyfriend's picture would probably show a smile.%K%P
+0x9F4
+特に、こんな海の底では……。%K%P
+Especially stuck in the middle of the ocean...%K%P
+0xA00
+少年「へえ、けっこうカッコイイじゃん」%K%P
+Kid「Hey, he looks pretty cool.」%K%P
+0xA0C
+ぼくは、少々の冷やかしの意味を込めてそう言った。%K%P
+I said it in a teasing way.%K%P
+0xA18
+実際、彼は憎らしいほど男前だった。%K%P
+Actually, he was so good-looking that it was enough to make you sick.%K%P
+0xA24
+『やあ、ハニ～、元気かぁ～い』と今にも甘い声でささやきそうだった。%K%P
+I thought she might chirp out, 'Oh, honey, I hope you're well. I miss you.'%K%P
+0xA30
+ただ、気になったことがひとつだけ……。%K%P
+But there was one thing that bothered me...%K%P
+0xA3C
+彼の画像は、なぜか単色で表現されていたのだ。%K%P
+His image was all in one color.%K%P
+0xA48
+まあ、最近では懐古趣味的な流行で、あえてセピアやモノクロのホログラムを作る人もいることだし、%K%P
+But there was kind of a retro trend going on, and some people did go for the sepia or monochrome holograms.%K%P
+0xA54
+これにしたところで、特に珍しいというわけではないのだが。%K%P
+So it didn't really seem all that outlandish.%K%P
+0xA68
+少年「で？　いつから付き合ってんの？」%K%P
+Kid「So? How long have you been dating?」%K%P
+0xA74
+ぼくはライターを消すと、ペンダントの上に重ねて沙羅に差し出した。%K%P
+I put out the lighter, set it on the pendant, and held it out to Sara.%K%P
+0xA88
+沙羅は受け取ろうとしなかった。%K%P
+She didn't take them.%K%P
+0xA94
+相変わらず固まったまま、息をすることさえ忘れているようだった。%K%P
+She was still frozen stiff. It looked like she was forgetting to breathe.%K%P
+0xAA0
+少年「ねえ、沙羅？　沙羅？」%K%P
+Kid「Hey, Sara? Sara?」%K%P
+0xAAC
+少年「お～い、沙羅～っ！」%K%P
+Kid「Hello! Sara!」%K%P
+0xAB8
+ぼくは返し損ねたペンダントを握ったまま、沙羅の肩を揺すってみた。%K%P
+I grasped the pendant that she hadn't taken and shook Sara's shoulders.%K%P
+0xAC4
+沙羅はまばたきもしなかった。%K%P
+Sara didn't even blink.%K%P
+0xAD0
+と、そのとき……。%K%P
+And then...%K%P
+0xB08
+――プシューッ！%K%P
+Fwooosh!%K%P
+0xB14
+クジラが息を吐き出した。%K%P
+The whale exhaled.%K%P
+0xB28
+沙羅「きゃっ！」%K%P
+Sara「Kyaaa!」%K%P
+0xB6C
+沙羅は飛び上がると、ぼくの身体に強烈なタックルを食らわした。%K%P
+Sara leaped up and smashed into me, leveling me with a powerful tackle.%K%P
+0xB78
+沙羅にしてみれば、驚きのあまり抱きつきたかっただけなのかもしれないけれど、%K%P
+It might have been that she was so surprised she just wanted something to grab onto.%K%P
+0xB84
+その勢いはどう少なめに見積もっても、体当たり以外の何ものでもなかった。%K%P
+Still, her full weight came barreling into me.%K%P
+0xB90
+そんなわけで、ぼくは見事に体勢を崩し、ぼくと沙羅は重なりあったまま、滑らかなクジラの肌をすべり落ちる。%K%P
+With that, I went down, and she crumpled with me. We slid down and off the whale's smooth skin.%K%P
+0xB9C
+星々が遠のいて行く。%K%P
+The stars appeared to gain distance.%K%P
+0xBB0
+宇宙空間が無重力だというのは嘘だったのか？%K%P
+What they said about space being weightless, well, that seemed to be a lie.%K%P
+0xCE0
+と思う間もなく、ぼくの身体は固いフロアに叩きつけられていた。%K%P
+Before I had time to think anything else, my body made contact with the hard floor.%K%P
+0xCEC
+仰向けになったぼくの顔に、細かい霧が舞い降りて来る。%K%P
+A fine mist descended onto my skyward face.%K%P
+0xCF8
+沙羅はぼくの上に乗ったまま、動かなかった。%K%P
+Sara was on top of me, unmoving.%K%P
+0xD04
+息づかいがすぐ耳元で聞こえる。%K%P
+I could hear her breathing near my ear.%K%P
+0xD10
+沙羅「着陸成功、だね？」%K%P
+Sara「Safe landing, huh?」%K%P
+0xD1C
+沙羅は頭をあげると、ぼくの顔をのぞき込むようにして、こう続けた。%K%P
+Sara continued talking as she lifted up her face and peered into my own.%K%P
+0xD30
+沙羅「ようこそ、クィクィ星へ♪」%K%P
+Sara「Welcome to Planet Kuikui～」%K%P

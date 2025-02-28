@@ -1,0 +1,729 @@
+text area offset and size:
+0x1588
+0x2AB5
+0x78
+優「スキャンをかけるから、台の上に寝かせて！」%K%P
+You「I'm going to scan her, so put her up on the table!」%K%P
+0x84
+優は『Ｌ－ＭＲＩ』を指差す。%K%P
+You pointed to the L-MRI.%K%P
+0x98
+俺とつぐみが、ココを装置の平たい台へと担ぎ上げた。%K%P
+Tsugumi and I laid Coco down on the flat table.%K%P
+0xA4
+ココは小刻みに浅い呼吸を繰り返していた。吐血は止まっているが、かなり辛そうだ。%K%P
+Coco continued to breathe in her short, shallow manner. Although she had stopped coughing up blood, she seemed to be in a lot of pain.%K%P
+0xB0
+静かに彼女の身体を横たえる。%K%P
+Her body lay still.%K%P
+0xD8
+程なく『Ｌ－ＭＲＩ』のアームが稼動し、レーザースキャンが開始された。%K%P
+The arm of the L-MRI soon came to life and started a laser scan.%K%P
+0xE4
+少年は台の横に寄り添って、今にも泣き出しそうな顔でココを見ている。%K%P
+The Kid came up to the side of the table and stared at Coco, looking as if he would burst into tears.%K%P
+0xF0
+武「空、俺達にもスキャン結果がわかるように、画面を出してくれ」%K%P
+Takeshi「Sora, put the results up on the screen so everyone can see them.」%K%P
+0x104
+空「はい……」%K%P
+Sora「Okay...」%K%P
+0x140
+空中にホログラムウィンドウがいくつかできる。%K%P
+Suddenly, a few holographic windows appeared in the air.%K%P
+0x14C
+サーモスキャン、超音波エコー分析による身体断面、レーザーサンプリング等の画像が次々に並んだ。%K%P
+Images―including a thermal scan, ultrasound analysis, cross-sectional representations of her body, and a laser sampling―were all displayed one after another.%K%P
+0x158
+勿論、俺達は専門の医師ではないから、画像を見て直接判断することはできない。%K%P
+Of course, none of us were doctors, so there was little we could understand about her condition by looking at the pictures.%K%P
+0x164
+スキャン装置とレミシステムが的確な答えを返すのを期待して、待つしかなかった。%K%P
+All we could do was wait for the scanning equipment and LeMMIH's system to give us an answer.%K%P
+0x170
+刻々と変わる画面を祈りつつ見つめる。%K%P
+We stared as the images that flashed by on the screen and prayed.%K%P
+0x198
+そして……。%K%P
+Then...%K%P
+0x1A4
+診断の結果が現れた。%K%P
+The results suddenly appeared.%K%P
+0x1B0
+『Ｔｉｅｆ⑳Ｂｌａｕ⑳２０１７－Ｒｅｖ．１７』%K%P
+'Tief Blau 2017-Rev.17'%K%P
+0x1E4
+空「ティーフブラウ……！」%K%P
+Sora「Tief Blau...!」%K%P
+0x1F0
+優「……えっ？」%K%P
+You「...Huh?」%K%P
+0x1FC
+武「なんだって？」%K%P
+Takeshi「What'd you say?」%K%P
+0x208
+空「そんな……」%K%P
+Sora「No...」%K%P
+0x214
+空はいきなり、ホログラムウィンドウをかき消した。%K%P
+Sora hurriedly shut down the holographic window.%K%P
+0x220
+唇を噛んでうつむく。%K%P
+She bit her lip and stared down in shock.%K%P
+0x234
+空「…………」%K%P
+Sora「.........」%K%P
+0x240
+事態が深刻であることは、表情からわかる。%K%P
+Her expression showed how serious the situation was.%K%P
+0x24C
+武「空……？」%K%P
+Takeshi「Sora...?」%K%P
+0x258
+優「どうしたのよ、空？　言ってくれないと……」%K%P
+You「What's wrong, Sora? If you don't tell us...」%K%P
+0x26C
+優「教えてくれないと、わからないよ……？」%K%P
+You「If you don't tell us, we don't know what's going on...」%K%P
+0x278
+空「…………」%K%P
+Sora「.........」%K%P
+0x284
+空「……信じられない」%K%P
+Sora「...I can't believe it.」%K%P
+0x290
+空「そんな、信じられません……」%K%P
+Sora「I just can't believe it...」%K%P
+0x29C
+武「何が……何だ？」%K%P
+Takeshi「What... What don't you believe?」%K%P
+0x2A8
+空「ココちゃんは……」%K%P
+Sora「Coco-chan's been...」%K%P
+0x2BC
+空「ココちゃんは『感染』しています」%K%P
+Sora「Coco-chan has been infected.」%K%P
+0x2C8
+優「感染……？」%K%P
+You「Infected...?」%K%P
+0x2D4
+武「何に！？」%K%P
+Takeshi「What!?」%K%P
+0x2E0
+空「……それは……」%K%P
+Sora「...It's...」%K%P
+0x2EC
+空は動揺を抑えられないまま、ためらいがちに口を開いた。%K%P
+Sora was unable to suppress her agitation and opened her mouth hesitantly.%K%P
+0x300
+空「ティーフブラウ」%K%P
+Sora「Tief Blau.」%K%P
+0x30C
+空「強力な、致死性の高いウイルスです」%K%P
+Sora「It is a powerful virus with a very high mortality rate.」%K%P
+0x318
+優「ティーフ……ブラウ……」%K%P
+You「Tief... Blau...」%K%P
+0x324
+ティーフブラウ……？%K%P
+Tief Blau...?%K%P
+0x340
+つぐみの持つウイルスとはまったく別の、ウイルス……？%K%P
+A virus that was totally different than the one Tsugumi had...?%K%P
+0x35C
+少年「ココ、ココっ！」%K%P
+Kid「Coco, Coco!」%K%P
+0x368
+少年が走り出て、ココの横たわる台にしがみついた。%K%P
+The Kid ran over to Coco's side and held on to the table.%K%P
+0x374
+少年「しっかりしてよ、ココ！」%K%P
+Kid「Coco, hold on!」%K%P
+0x380
+少年「……嫌だ！　死んじゃ嫌だ！」%K%P
+Kid「...No! Don't you die on me!」%K%P
+0x38C
+ぐったりしているココの腕にすがりつく。%K%P
+He held onto Coco's arm as she lay there unconscious.%K%P
+0x3A0
+少年「目を開けてくれ、ココ！」%K%P
+Kid「Open your eyes, Coco!」%K%P
+0x3AC
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x3B8
+少年「頼むよ！　起きてくれよおっ！」%K%P
+Kid「Please! Wake up!」%K%P
+0x3C4
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x3D0
+少年はココの肩を掴み、激しく揺さぶっている。%K%P
+The Kid grabbed hold of Coco's shoulders and shook her violently.%K%P
+0x3E4
+武「おいよせ、やめろ少年！」%K%P
+Takeshi「Hey, cut it out! Stop it, Kid!」%K%P
+0x3F0
+俺は少年の手を払い、ココから強引に引き剥がした。%K%P
+I pried his hands off Coco and pulled him away from her.%K%P
+0x404
+少年「何すんだよっ！」%K%P
+Kid「What are you doing!?」%K%P
+0x410
+武「バカ野郎！　落ち着けよ！」%K%P
+Takeshi「Jackass! Calm the hell down!」%K%P
+0x41C
+武「そんなことして何になるんだ？」%K%P
+Takeshi「What do you think that's going to accomplish, huh!?」%K%P
+0x430
+少年「だって、ココが、ココがっ！」%K%P
+Kid「But Coco's gonna... She's gonna!」%K%P
+0x444
+少年「このままじゃココが……死んじゃうよっ！」%K%P
+Kid「If we don't do anything, Coco's... going to die!」%K%P
+0x450
+少年はうめくように言った。%K%P
+The Kid groaned in despair.%K%P
+0x45C
+武「慌てんな！　何か手はあるはずだ……」%K%P
+Takeshi「Calm down. There's got to be something we can do...」%K%P
+0x468
+少年「…………」%K%P
+Kid「.........」%K%P
+0x474
+武「黙ってろ、落ち着け、考えろ……」%K%P
+Takeshi「Don't get crazy. Let's just calm down and think...」%K%P
+0x488
+少年「…………」%K%P
+Kid「.........」%K%P
+0x494
+なんとか少年を鎮める。%K%P
+The Kid somehow quieted down.%K%P
+0x4A0
+彼は肩で息をして、俺を睨んでいた。%K%P
+He breathed heavily and glared at me.%K%P
+0x4B4
+武「どうする、優？」%K%P
+Takeshi「What do you think we should do, You?」%K%P
+0x4C8
+優「そんなこと言われても……私にはわからないよ」%K%P
+You「Don't ask me... I have no idea.」%K%P
+0x4D4
+優「空、何か対処法はないの？」%K%P
+You「Sora, isn't there anything we can do?」%K%P
+0x4F0
+空「……応急処置でしたら、可能です」%K%P
+Sora「...If we take emergency measures, it is possible.」%K%P
+0x4FC
+空「ですが、根源的な対策には……」%K%P
+Sora「But in order to do this...」%K%P
+0x510
+優「応急処置で構わない！　早く、早くしないと……！」%K%P
+You「Whatever it takes! If we don't hurry, then...!」%K%P
+0x51C
+叫び出しそうになるのを、優はぐっと堪える。%K%P
+You stopped herself just short of screaming out.%K%P
+0x530
+優「お願い、空……あなただけが頼りなのよ」%K%P
+You「Please, Sora... You're the only one who can help us.」%K%P
+0x53C
+優「教えて、方法を」%K%P
+You「Please tell us what to do.」%K%P
+0x550
+空「アンプルを。症状に対応したアンプルが必要です」%K%P
+Sora「You'll need serum. A serum to lessen the symptoms.」%K%P
+0x55C
+優「アンプル？　どれなの？」%K%P
+You「Serum? What kind?」%K%P
+0x570
+空「それが……この部屋にあるかどうか……」%K%P
+Sora「It's... I don't know if it is here or not...」%K%P
+0x584
+優「そ、そんな……！」%K%P
+You「Wh-what...!」%K%P
+0x590
+優は壁に駆け寄り、そこに据え付けられた医療用具の棚を片っ端から開ける。%K%P
+You ran up to the wall and opened up a shelf filled with medical tools.%K%P
+0x59C
+中身をばら撒きながら、優は空に何度も訊いた。%K%P
+You repeatedly asked Sora about the contents as she tore through them.%K%P
+0x5B0
+優「これは！？」%K%P
+You「What about this!?」%K%P
+0x5BC
+空「いえ……」%K%P
+Sora「No...」%K%P
+0x5D8
+優「これじゃないの！？」%K%P
+You「It isn't this one!?」%K%P
+0x5E4
+空「違います……」%K%P
+Sora「No, it is not...」%K%P
+0x600
+優「こ、こっちは！？」%K%P
+You「How about this one!?」%K%P
+0x60C
+空「それではありません……」%K%P
+Sora「Not that one either...」%K%P
+0x628
+優「…………」%K%P
+You「.........」%K%P
+0x634
+空「それも……違います……」%K%P
+Sora「That one... isn't it either...」%K%P
+0x664
+手に何本も抱え持った薬品のビンやカプセルを、優は床に落とした。%K%P
+You dropped bottle after bottle of medicine onto the floor.%K%P
+0x68C
+いくつかはそこで割れて、飛び散った。%K%P
+Many of them exploded into pieces when they hit.%K%P
+0x698
+優「どうしよう……！」%K%P
+You「What are we going to do...!?」%K%P
+0x6A4
+優「どうしたらいいの？　答えて、空……！」%K%P
+You「What should we do? Answer me, Sora...!」%K%P
+0x6B8
+空「…………」%K%P
+Sora「.........」%K%P
+0x6CC
+空「残念ながら……」%K%P
+Sora「I am sorry...」%K%P
+0x6E0
+ピピ「…………」%K%P
+Pipi「.........」%K%P
+0x6EC
+ピピ「くうーん……」%K%P
+Pipi「*Whine*...」%K%P
+0x6F8
+ピピが俺のそばに来て、小さく鳴いた。%K%P
+Pipi came over to me and whined softly.%K%P
+0x70C
+空「……あっ！！」%K%P
+Sora「...Oh!」%K%P
+0x718
+いきなり空は顔色を変えた。%K%P
+Sora's face suddenly changed colors.%K%P
+0x72C
+空「ピピちゃん、それをくださいっ！！　早く！」%K%P
+Sora「Pipi, bring that over here! Quickly!」%K%P
+0x738
+優「えっ！？」%K%P
+You「Eh!?」%K%P
+0x744
+空「ピピちゃんが口にくわえている、それですっ！」%K%P
+Sora「That thing that Pipi has in his mouth! That's it!」%K%P
+0x750
+武「何っ！？」%K%P
+Takeshi「What!?」%K%P
+0x764
+俺は慌てて、ピピの持っているものを取り上げた。%K%P
+I quickly snatched whatever it was out of Pipi's mouth and lifted it up.%K%P
+0x770
+武「こ、これかっ！」%K%P
+Takeshi「Th-this!?」%K%P
+0x784
+優「アンプル……！」%K%P
+You「It's the serum...!」%K%P
+0x790
+オレンジ色の液体が入った、透明なカプセルだった。%K%P
+It was a transparent capsule with orange liquid inside of it.%K%P
+0x79C
+武「使い方は？」%K%P
+Takeshi「How do we use it?」%K%P
+0x7A8
+空「先を折って開封して、そのまま中身をココちゃんに注射してください！」%K%P
+Sora「Break off the tip and inject the contents into Coco-chan!」%K%P
+0x7B4
+武「お、ＯＫ！！」%K%P
+Takeshi「O-okay!」%K%P
+0x7C0
+武「優、頼む！」%K%P
+Takeshi「You, do your magic!」%K%P
+0x7DC
+優が俺のところへ飛んできて、アンプルを取った。%K%P
+You ran over to where I was and grabbed the serum out of my hand.%K%P
+0x7F0
+ココは震える腕を差し出す。%K%P
+Coco held out a shaking arm.%K%P
+0x7FC
+優が注射器をその腕に静かに立てて、アンプルを注入した。%K%P
+You silently inserted the syringe into her arm and administered the serum.%K%P
+0x824
+それから数分経つと……。%K%P
+After a few minutes...%K%P
+0x830
+徐々にではあるが、彼女の呼吸は穏やかになり、身体の震えもなく落ち着いてきた。%K%P
+Although it was gradual, Coco's breathing became more even, and the tremors in her body settled down.%K%P
+0x86C
+空「効果、あったようです」%K%P
+Sora「It looks like it is taking effect.」%K%P
+0x878
+空「体調はある程度、持ち直しました。危機は去りましたよ……」%K%P
+Sora「Her condition has improved somewhat. The danger seems over for now...」%K%P
+0x884
+優「よかった……」%K%P
+You「Thank goodness...」%K%P
+0x890
+胸を撫で下ろす、優と空。%K%P
+Both You and Sora looked relieved.%K%P
+0x89C
+優は少し、涙目になっていた。%K%P
+You looked as if she could cry.%K%P
+0x8B8
+少年「…………」%K%P
+Kid「.........」%K%P
+0x8C4
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x8D0
+少年は唇を噛み、うつむいて息をついた。%K%P
+The Kid looked up and let out a big sigh of relief.%K%P
+0x8DC
+つぐみはじっと静かに、ココを見つめていた。%K%P
+Tsugumi stared at Coco in silence.%K%P
+0x8F0
+武「しかし、ピピ……」%K%P
+Takeshi「Hey, Pipi...」%K%P
+0x8FC
+武「お前、アンプルなんて……いつの間に？」%K%P
+Takeshi「Who would've thought you'd find the serum... When did you get this?」%K%P
+0x908
+武「どっから探してきたんだ、こんなもん？」%K%P
+Takeshi「Where'd you find it?」%K%P
+0x914
+ピピ「く～ん、くう～ん……」%K%P
+Pipi「*Whine*, *whiiiine*...」%K%P
+0x920
+ピピは哀しげに、鼻を鳴らしていた。%K%P
+Pipi whined pitifully.%K%P
+0x970
+武「さて……」%K%P
+Takeshi「Alright...」%K%P
+0x97C
+ココの眠る『Ｌ－ＭＲＩ』を囲んで、皆が集まる。%K%P
+Everyone gathered around the L-MRI where Coco slept.%K%P
+0x988
+武「空、ティーフブラウとやらについて教えてくれ」%K%P
+Takeshi「Sora, tell us what you can about the Tief Blau virus.」%K%P
+0x994
+武「とりあえず、俺はそんな名前は初耳だ」%K%P
+Takeshi「That's the first time I've ever heard of it.」%K%P
+0x9A0
+武「誰か他に、聞いたことある奴いるか？」%K%P
+Takeshi「Does anyone else know anything about it?」%K%P
+0x9B4
+そう訊くと、優・少年・つぐみ・ピピ……全員が、首を横に振った。%K%P
+When I asked the question, You, the Kid, Tsugumi, even Pipi... all shook their heads.%K%P
+0x9C0
+武「致死性の高いウイルス、と聞いたけど……」%K%P
+Takeshi「You said it has a high mortality rate...」%K%P
+0x9CC
+武「ココはいつから、どうしてそんなもんにかかっちまったのか、わからないか？」%K%P
+Takeshi「You don't have any idea when or how Coco got this, do you?」%K%P
+0x9E8
+空「…………」%K%P
+Sora「.........」%K%P
+0x9F4
+武「推測でいい。あるいは、知っている限りのデータを提供してくれるだけでも構わない」%K%P
+Takeshi「I don't care if it's only a guess. Or if you give me only the limited data you have.」%K%P
+0xA00
+武「とにかく、知りたいんだよ」%K%P
+Takeshi「I just want to know.」%K%P
+0xA0C
+武「ココがいきなりこんな危険な目に遭ったんだ。俺達が何も知らないわけにはいかないだろう」%K%P
+Takeshi「Coco came down with this out of nowhere. It doesn't help the rest of us to be ignorant.」%K%P
+0xA20
+空「そうですね……」%K%P
+Sora「You are right...」%K%P
+0xA2C
+空は神妙な面持ちになる。%K%P
+Sora got a strange expression on her face.%K%P
+0xA38
+しばし考えてから、思い切ったように告げる。%K%P
+After thinking for a moment, she gave us a wholehearted explanation.%K%P
+0xA4C
+空「わかりました。ティーフブラウに関して、私が語ることのできる情報のすべてを、お伝えします」%K%P
+Sora「Alright. I will tell you everything I know about the Tief Blau virus.」%K%P
+0xA58
+救護室はしんと静まり返っていた。%K%P
+A heavy silence descended upon the emergency room.%K%P
+0xA64
+時折、『Ｌ－ＭＲＩ』のリードセンサーがココの生体反応音を鳴らし、その音だけが響いている。%K%P
+Every once in a while, the sensor from the L-MRI would sound out Coco's vital signs, the only noise to echo through the room.%K%P
+0xA70
+空「ティーフブラウ（ＴＢ）……」%K%P
+Sora「Tief Blau, or TB, was...」%K%P
+0xA7C
+静かに、空は語り始めた。%K%P
+Sora started talking softly.%K%P
+0xA88
+空「ＴＢは、ＬｅＭＵの下にある研究施設にて研究されていた、極めて致死性の高い悪性ウイルスです」%K%P
+Sora「TB was developed at a research facility under LeMU. It is an extremely deadly virus.」%K%P
+0xAA4
+優「研究施設？　ここの下に……？」%K%P
+You「At a research facility? Under us...?」%K%P
+0xAB0
+優は目を見張った。%K%P
+You's eyes opened wide.%K%P
+0xABC
+空「ええ……」%K%P
+Sora「Yes...」%K%P
+0xAC8
+空「ＩＢＦ（イーベーエフ）と呼ばれる施設が、この真下にあります」%K%P
+Sora「There is an installation called IBF directly below us.」%K%P
+0xADC
+優「ＩＢＦ……」%K%P
+You「IBF...」%K%P
+0xAE8
+つぐみ「やっぱり……」%K%P
+Tsugumi「I knew it...」%K%P
+0xB04
+つぐみは眉をひそめる。%K%P
+Tsugumi frowned.%K%P
+0xB10
+つぐみ「決定的な事態を目の当たりにしてしまっては、さすがに人工知能の機密保守命令も解除されたか……」%K%P
+Tsugumi「Well, it looks like we CAN get information out of this artificial intelligence after all, assuming the situation is dire enough...」%K%P
+0xB1C
+つぐみ「人ひとりの命がかかっているもの。黙ってはいられないみたいね」%K%P
+Tsugumi「I guess it isn't in your programming to keep a secret when someone's life is on the line.」%K%P
+0xB28
+空「…………」%K%P
+Sora「.........」%K%P
+0xB3C
+つぐみ「ごめんなさい。どうぞ続けて、空……」%K%P
+Tsugumi「I'm sorry. Please continue, Sora...」%K%P
+0xB48
+軽く頭を振ると、つぐみは溜め息をついた。%K%P
+After shaking her head lightly, Tsugumi let out a sigh.%K%P
+0xB64
+空「はい……」%K%P
+Sora「Okay...」%K%P
+0xB70
+空「テーマパークＬｅＭＵの運営母体――ライプリヒ製薬。そのライプリヒが設立した研究施設が、ＩＢＦです」%K%P
+Sora「The management company that built LeMU is Leiblich Pharmaceuticals. Their research facility is IBF.」%K%P
+0xB94
+ＬｅＭＵの下、水深１１９ｍの海底に熱水噴出孔がある。%T030%K%N
+119 meters beneath LeMU, there were thermal seafloor vents.%T030%K%N
+0xBA0
+そこには、他の環境では見られない特殊な微生物が棲息していて、ライプリヒ製薬はそれを研究すべく海底に研究所を作った。%T030%K%N
+Living there were special microbes, which couldn't be found in any other environment, and Leiblich Pharmaceuticals created a research institute in order to study them.%T030%K%N
+0xBAC
+名称は『ＩＢＦ』――%T030%K%N
+It was called 'IBF'―%T030%K%N
+0xBB8
+『Ｉｎｓｔｉｔｕｔｅ⑳ｆ⑫ｒ⑳Ｂｉｏｌｏｇｉｓｃｈｅ⑳Ｆｏｒｓｃｈｕｎｇ』%T030%K%N
+'Institut f⑫r biologische Forschung'.%T030%K%N
+0xBC4
+和訳すると、そのまま『生物学の研究所』のことを表していると言う。%K%O
+Translated, it meant 'The Institute for Biological Research'.%K%O
+0xBDC
+ＬｅＭＵと研究所……先に設立されたのは研究所のほうだった。%T030%K%N
+LeMU and the research facility... Of the two, the first to be built was the research facility.%T030%K%N
+0xBE8
+そこにテーマパークを併設したのは、どうやらカモフラージュの為だったらしい。%T030%K%N
+Building a theme park was apparently just a front.%T030%K%N
+0xBF4
+ＩＢＦの研究員は、ＬｅＭＵの係員に成りすまして、海底と海上を行き来している。%T030%K%N
+The researchers at IBF were listed as managers of LeMU and were able to come and go as they pleased.%T030%K%N
+0xC00
+そうすれば、誰もこんなところに研究所があるなんて、疑ったりしないからだ。%K%O
+That way, nobody would suspect that there was actually a research facility present.%K%O
+0xC18
+また、資金調達という目的も、なかったわけではない。%T030%K%N
+At the same time, they could also get much-needed funds for research.%T030%K%N
+0xC24
+テーマパークを併設することによって、いくらかでも研究所の運営費を補えれば……と、そんな思惑もあったようだ。%T030%K%N
+If they set up a successful theme park, they could get pretty much all the money they needed to run the research facility...%T030%K%N
+0xC30
+ともかくライプリヒ製薬は、この真下……水深１１９ｍの海底で、ずっと細菌やウイルスの研究を続けてきていたのだ。%K%O
+So Leiblich Pharmaceuticals continued to carry out research into bacteria and viruses on the bottom of the ocean... 119 meters underwater.%K%O
+0xC54
+空「ＩＢＦのことは極秘事項なんです」%K%P
+Sora「The existence of IBF is highly confidential.」%K%P
+0xC60
+空「ライプリヒの中でも、ＬｅＭＵの中でも、知っているのはごく一部の人間だけ……」%K%P
+Sora「Only a select number of people know about it at Leiblich, even at LeMU...」%K%P
+0xC74
+空「ＩＢＦとＬｅＭＵは、コンピューターシステム上も別管轄になっていますし……」%K%P
+Sora「IBF and LeMU are controlled by separate computer systems...」%K%P
+0xC80
+空「私にも、関連の乏しい断片的な情報しか教えられていなかったのです」%K%P
+Sora「Even I am only given limited information.」%K%P
+0xC8C
+空「今回の件で、分散された情報を統合して初めて、ＩＢＦが実在することを、はっきり確信しました……」%K%P
+Sora「I only became sure of IBF's existence after connecting together fragments of information from this accident...」%K%P
+0xC98
+武「そうか……」%K%P
+Takeshi「Oh...」%K%P
+0xCA4
+優「とにかく、ＴＢという未知の悪性ウイルスがあって、ＬｅＭＵの下の研究所で、その研究は行われていた」%K%P
+You「Anyway, there's a strange and deadly virus called TB they're doing research about at some research center under LeMU.」%K%P
+0xCB0
+優「それは恐らく、そのＴＢの治療方法を探る為……？」%K%P
+You「That's probably in order to find a cure for TB, right?」%K%P
+0xCC4
+空「ええ、恐らくそうです。それから……」%K%P
+Sora「Yes, you are probably correct. In addition...」%K%P
+0xCD0
+空「ＩＢＦには、こちらの救護室よりも、遥かに充実した医療設備が整っているはずです」%K%P
+Sora「There is a medical center there that is far superior to this one.」%K%P
+0xCDC
+空「あくまでレミのデータベースからの推測ですが……」%K%P
+Sora「At least from the information I can gather from LeMMIH's database...」%K%P
+0xCE8
+空「ＩＢＦの診療室には、最新型の『高圧酸素治療装置』があるようです」%K%P
+Sora「It appears that they have a new type of 'high-pressure oxygen treatment device' there...」%K%P
+0xCF4
+空「その治療装置を使えば、白血球の殺菌作用が増大します」%K%P
+Sora「And if we can treat her with that, her leukocyte, er, white blood cell activity should increase.」%K%P
+0xD00
+空「ココちゃんの症状をある程度、緩和することができるかもしれません」%K%P
+Sora「That should ease Coco-chan's condition somewhat.」%K%P
+0xD0C
+空「症状を抑える効果のあるアンプル……先程のオレンジのアンプルも、新たに入手できるでしょう」%K%P
+Sora「We might even encounter more of the serum that is effective in stabilizing the symptoms... the orange one that we found previously.」%K%P
+0xD18
+武「ＩＢＦ、か……」%K%P
+Takeshi「IBF, huh...?」%K%P
+0xD24
+武「そこと連絡は取れるか？　行くにはどうしたらいい？」%K%P
+Takeshi「Can we go there? How do we get there?」%K%P
+0xD38
+少年「ま、待って……！」%K%P
+Kid「W-wait...!」%K%P
+0xD44
+割り込むように、少年が叫んだ。%K%P
+The Kid interrupted with a shout.%K%P
+0xD58
+少年「ちょっと待ってよ！　おかしいよ、そんなの……」%K%P
+Kid「Wait! This is crazy...」%K%P
+0xD64
+少年「どうしてココは、そのＴＢとかにかかっちゃったの？」%K%P
+Kid「Why would Coco suddenly come down with TB?」%K%P
+0xD78
+少年「そんな恐ろしいウイルスに、いきなり感染してるなんて……」%K%P
+Kid「It doesn't make sense that she'd come down with that awful virus all of a sudden...」%K%P
+0xD84
+少年「なんか、変だと思わない？」%K%P
+Kid「You don't think that's strange?」%K%P
+0xDA0
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xDB4
+つぐみ「そうね。でも……」%K%P
+Tsugumi「Well...」%K%P
+0xDC8
+つぐみ「ココを治療したくても、この場所ではこれ以上手が施せない」%K%P
+Tsugumi「Even if we want to help Coco, there isn't any equipment here to do that.」%K%P
+0xDD4
+つぐみ「治療法の手がかりはその研究所――ＩＢＦにしかないわ」%K%P
+Tsugumi「The only lead we have for treating her is that research facility―IBF.」%K%P
+0xDE0
+つぐみ「理由を探るのは、後回し」%K%P
+Tsugumi「We'll have to look for reasons afterward.」%K%P
+0xDF4
+つぐみ「もっとも、空の言うことを全面的に信じれば、の話だけど」%K%P
+Tsugumi「All we can do is trust what Sora tells us for now.」%K%P
+0xE10
+空「…………」%K%P
+Sora「.........」%K%P
+0xE2C
+つぐみ「込み入った嘘をつけるほど、器用じゃないはずよね？」%K%P
+Tsugumi「She isn't good enough at lying to make up something like this, right?」%K%P
+0xE38
+つぐみ「さっきは疑ってしまって、ごめんなさい……」%K%P
+Tsugumi「I'm sorry for doubting you earlier...」%K%P
+0xE4C
+つぐみ「私は信用するわ、空のこと」%K%P
+Tsugumi「I believe what Sora's telling us.」%K%P
+0xE58
+つぐみは少し微笑んでみせる。%K%P
+Tsugumi smiled slightly.%K%P
+0xE6C
+空「はい……ありがとうございます」%K%P
+Sora「...Thank you.」%K%P
+0xE78
+真面目な顔で、空は頷いた。%K%P
+Sora nodded sincerely.%K%P
+0xE84
+優「うん、私も信じるよ」%K%P
+You「Yeah, I believe her too.」%K%P
+0xE90
+優「何より、ここでこのまま手をこまねいてばかりいられない」%K%P
+You「We can't just sit back twiddling our thumbs.」%K%P
+0xE9C
+優「取りうる最善の方法を、考えましょう」%K%P
+You「Let's consider the best option.」%K%P
+0xEA8
+優も空を見て、深く頷く。%K%P
+I looked at You and Sora, then nodded.%K%P
+0xEB4
+優「それで納得してくれる？　少年？」%K%P
+You「Does that sound good to you? Kid?」%K%P
+0xEC0
+少年「そ、そうだね。わかったよ」%K%P
+Kid「Y-yeah. Alright.」%K%P
+0xED4
+武「よーし、ＯＫ……」%K%P
+Takeshi「Alright, okay...」%K%P
+0xEE0
+武「それじゃ、その『いーべーえふ』とやらに行こう」%K%P
+Takeshi「So it's decided then. We're going to IBF.」%K%P
+0xEEC
+武「ココを助けるには、それしか手はなさそうだからな」%K%P
+Takeshi「It's the only chance we've got at saving Coco.」%K%P
+0xF00
+空「でも……ＩＢＦに行くには、ヒンメルを通らないと……ヒンメルの扉は開かないんですよ？」%K%P
+Sora「However, in order to get to IBF, we have to get through Himmel... and Himmel's door isn't opening.」%K%P
+0xF0C
+武「とにかく行くんだよ。他に道はないんだ。案内してくれ」%K%P
+Takeshi「I don't care, we're going! We don't have any other options. Show me the way.」%K%P
+0xF18
+武「無駄かもしれないけど……」%K%P
+Takeshi「It might not work...」%K%P
+0xF24
+武「いや、とにかく、やってみなけりゃわからないさ！」%K%P
+Takeshi「But we don't know that unless we try, right!?」%K%P
+0xF30
+空「…………」%K%P
+Sora「.........」%K%P
+0xF44
+武「よし、少年、手伝え！」%K%P
+Takeshi「Hey, Kid... Give me a hand!」%K%P
+0xF50
+少年「は、はいっ」%K%P
+Kid「O-okay.」%K%P
+0xF5C
+ココの身体をそっと抱き起こし、俺は再び背中に担いだ。%K%P
+I picked up Coco's inert body and carried her piggyback.%K%P
+0xFA8
+リフトを降り、狭い非常用通路を行く。%K%P
+We went down the lift and then to the cramped emergency corridor.%K%P
+0xFD8
+つぐみと少年が両脇から、俺の背中のココを支える。%K%P
+Tsugumi and the Kid supported Coco, who was on my back, from both sides.%K%P
+0xFE4
+空とピピが先を行く。優は念の為に救急箱を持参していた。%K%P
+Sora and Pipi went on ahead. You brought along a first aid kit just in case.%K%P
+0xFF0
+１７ｍ下のドリットシュトックを目指す……。%K%P
+We were headed for Dritter Stock some seventeen meters below...%K%P
+0x100C
+３階に到着した。%K%P
+We made it to the third floor.%K%P
+0x103C
+閉ざされた扉の待つ、その場所へ。%K%P
+We ran as quickly as we could go.%K%P
+0x1048
+慌しくも走っていく。%K%P
+To where the locked door was waiting for us.%K%P
+0x1054
+あらん限りの力を込めて。%K%P
+Using all the strength we had.%K%P
+0x1060
+あらん限りの祈りと共に。%K%P
+And all the power of our prayers.%K%P
+0x106C
+俺達は、駆け抜けて行く。%K%P
+We flew forward.%K%P

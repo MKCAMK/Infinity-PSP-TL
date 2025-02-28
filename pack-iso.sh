@@ -1,3 +1,4 @@
 #!/bin/bash
+for i in e17_iso_extracted/PSP_GAME/SYSDIR/UPDATE/*.* ; do rm $i; touch $i ; done
 
-mkisofs -iso-level 4 -xa -A "PSP GAME" -V "R11" -sysid "PSP GAME" -volset "" -p "" -publisher "" -o iso/r11-repacked.iso r11_iso_extracted/
+mkisofs -U -xa -A "PSP GAME" -V "" -sysid "PSP GAME" -volset "" -p "" -publisher "" -o iso/e17-repacked.iso e17_iso_extracted/

@@ -1,0 +1,507 @@
+text area offset and size:
+0xEE0
+0x1AAE
+0x8C
+そのあと、ぼくは救護室のベッドで眠ることにした。%K%N
+After that, I decided to go to the infirmary and sleep.%K%N
+0x98
+身体の変調を気にして、という理由ではない。%K%N
+It wasn't that I was feeling ill.%K%N
+0xA4
+ただ単に、このところ睡眠時間が極度に少なかったから、ゆっくり眠りたかったのだ。%K%N
+It was simply that I wasn't getting enough sleep. I wanted some quality rest.%K%N
+0xB0
+ぼくは夢を見ないほど、深く深く眠った……。%K%O
+I slept so deeply that I didn't even dream...%K%O
+0xC8
+目を醒まして時間を確認すると、夕方と呼べるような時刻だった。%K%N
+When I awoke, it was already around evening.%K%N
+0xD4
+ベッドサイドに書き置きがある。%K%O
+There was a memo by the bed.%K%O
+0xEC
+『夕食の時間になるまで、私達は会議室にいます。%K%N
+'We will be in the conference room until dinner.'%K%N
+0xF8
+⑳もし、それまでに起きたようなら、きみもおいでよ。%K%N
+'If you wake up by then, please come along.'%K%N
+0x104
+⑳この数日間、無理に付き合わせちゃってゴメンね？%K%N
+'I'm sorry for making you hang out with me the last couple days.'%K%N
+0x110
+⑳せめて今だけは、ゆっくりと身体を休めてください。%K%N
+'Please make sure that you get enough rest.'%K%N
+0x11C
+⑳　　　　　　　　　　　　　　　　　　　　　　ＹＯＵ』%K%N
+'―You'%K%N
+0x128
+%N
+
+0x134
+サインを見たところ、優が残していったものらしい。%K%O
+Judging from the signature, it seemed that You had left it.%K%O
+0x158
+ぼくは身体をベッドから起こすと、伸びをひとつしてから部屋を出た。%K%P
+I got out of bed, stretched, and left the room.%K%P
+0x174
+会議室とは反対方向に歩いていく、ぼく。%K%P
+I started walking in the direction opposite of the conference room.%K%P
+0x180
+気晴らしに、ぼくは少し館内を散歩することにしたのだ。%K%P
+I decided to take a walk around the complex for fun.%K%P
+0x1B8
+ＥＩに乗り込む。%K%P
+I got into Ei.%K%P
+0x1C4
+どうせなら、普段はあまり行かないフロアを歩いてみるのもいいかもしれない。%K%P
+I thought that it might make for a good change of pace to walk around a floor I hadn't spent much time on.%K%P
+0x1D0
+……そんなことを考えていた。%K%P
+...That was my thinking.%K%P
+0x244
+水に浸された３階に降り立つ。%K%P
+I rode down to the third floor that was flooded with water.%K%P
+0x250
+さてと、どこへ行こうか……。%K%P
+I wondered where I should go...%K%P
+0x25C
+ぼくは首を巡らし、思案した。%K%P
+I looked around, thinking.%K%P
+0x278
+……その時だった。%K%P
+...It was then that it happened.%K%P
+0x284
+『彼女』を、再び目撃したのは！%K%P
+I saw 'her' again!%K%P
+0x290
+少年「あっ！」%K%P
+Kid「Hey!」%K%P
+0x29C
+通路を横切る、例の小柄な身体。%K%P
+I saw her small figure cutting across the corridor.%K%P
+0x2A8
+見間違いじゃない。%K%P
+I was sure of it.%K%P
+0x2B4
+あの子だ！%K%P
+It was that girl!%K%P
+0x2C0
+ぼくは、少女を追いかけた。%K%P
+I chased after her.%K%P
+0x300
+ヒラヒラとスカートを揺らしながら、向こうへ向こうへと駆けていく少女。%K%P
+Her skirt shook back and forth as she walked farther and farther away.%K%P
+0x30C
+まるでぼくから逃げているかのように。%K%P
+It was almost as if she was trying to get away from me.%K%P
+0x318
+少年「おーい！　待ってくれーーーーっ！」%K%P
+Kid「Hey! Wait a minute!」%K%P
+0x324
+だが、声が聞こえてないのか、彼女は立ち止まる様子がなかった。%K%P
+She might not have heard me, because she didn't show any sign of stopping.%K%P
+0x330
+一体、どういうことなんだ？%K%P
+I wondered what it was all about.%K%P
+0x33C
+フラリと現れ、忽然と消える彼女。%K%P
+The girl that kept appearing out of nowhere and then disappearing.%K%P
+0x348
+レミの生体反応に探知されない彼女。%K%P
+The girl that didn't register on LeMMIH's bio scan.%K%P
+0x354
+いや、たった１回だけ……。%K%P
+No, she had registered once...%K%P
+0x368
+――『生体反応：７』%K%P
+―'Life readings: 7'%K%P
+0x37C
+しかし、考えれば考えるほどオカシナことばかりだ。%K%P
+But the more I thought about it, the stranger everything seemed.%K%P
+0x388
+ぼくの前にしか姿を現さないことといい、ほとんどコミュニケーションが取れないことといい……。%K%P
+She only appeared in front of me, and we hardly communicated...%K%P
+0x394
+まあいい。考えてもしょうがない。%K%P
+Well, I couldn't worry about it. I knew it wouldn't help.%K%P
+0x3A0
+彼女に、直接聞いてみれば解決することなのだ。%K%P
+It was something that I could solve by asking her directly.%K%P
+0x3B4
+宇宙クジラの部屋へと入って行く少女。%K%P
+She headed into the Cosmic Whale room.%K%P
+0x3C0
+ぼくもあとを追って入室する。%K%P
+I followed in soon after her.%K%P
+0x408
+薄暗い室内。%K%P
+The room was dimly lit.%K%P
+0x414
+大宇宙の中、クジラの雄々しい巨体が浮かぶ、幻想的な部屋。%K%P
+A massive whale floated like a majestic phantasm in the cosmic room.%K%P
+0x420
+その中央に、彼女はいた。%K%P
+The girl was in the middle of the room.%K%P
+0x454
+ぼくに背を向けて、膝を抱えて座り込んでいる。%K%P
+She was facing away from me, sitting and hugging her knees.%K%P
+0x460
+少年「やっと……追いついた……」%K%P
+Kid「I finally... caught up...」%K%P
+0x46C
+息を整えながら、ぼくは少女に近づいていく。%K%P
+I approached her as I caught my breath.%K%P
+0x478
+……歌声が聞こえる。%K%P
+...I heard singing.%K%P
+0x484
+何かの童謡のようなフレーズ。%K%P
+It sounded like phrases from a children's song.%K%P
+0x490
+？？「長弓……背負いし……月の精……」%K%P
+???「Moon sprite... shouldering... a long bow...」%K%P
+0x49C
+？？「夢の中より……待ちをりぬ……」%K%P
+???「Waiting... inside a dream...」%K%P
+0x4A8
+この歌詞……。%K%P
+I felt like...%K%P
+0x4B4
+どこかで聴いたことがあるような気がする。%K%P
+I had heard the lyrics somewhere before.%K%P
+0x4D0
+それも、つい最近に……。%K%P
+And recently...%K%P
+0x4E4
+そう、どこかで……。%K%P
+Somewhere, I was sure...%K%P
+0x4F0
+遠い遠い、昔に……。%K%P
+In the distant, distant past...%K%P
+0x4FC
+ぼくの失われた記憶が、そう思わせるのだろうか……？%K%P
+I wondered if it was my missing memory that was making me feel that way...?%K%P
+0x508
+少年「ねえ、君？」%K%P
+Kid「Hey, you.」%K%P
+0x514
+彼女はビクリと肩を震わせ、歌うのをやめた。%K%P
+Her shoulders jumped with shock, and she stopped singing.%K%P
+0x528
+ゆっくりと振り向く少女。%K%P
+Slowly, she turned back to look at me.%K%P
+0x534
+やはり、あの子だった。%K%P
+It was the girl after all.%K%P
+0x540
+少年「どうして逃げたりするの？」%K%P
+Kid「Why do you run away from me?」%K%P
+0x54C
+？？「…………」%K%P
+???「.........」%K%P
+0x558
+少年「まあいいか、そんなことはどうでも」%K%P
+Kid「Oh well. I guess it doesn't matter.」%K%P
+0x564
+本当は、どうでもよくなんてないが、ひとまず彼女と対面できたことに、ぼくは安堵していた。%K%P
+It really did matter to me, but since I had finally been able to confront the girl, I felt a surge of relief.%K%P
+0x570
+少年「さあ、みんなのところに行こう？」%K%P
+Kid「Well, why don't we go where everyone else is?」%K%P
+0x57C
+左手を差し出しながら、ぼくは言う。%K%P
+I held out my hand as I said that.%K%P
+0x588
+やがて少女は、立ち上がりながら、こう呟いた。%K%P
+Finally, she stood up and spoke.%K%P
+0x594
+？？「お兄ちゃん……」%K%P
+???「Onii-chan...」%K%P
+0x5A0
+少年「……えっ？」%K%P
+Kid「...What?」%K%P
+0x5AC
+？？「…………」%K%P
+???「.........」%K%P
+0x5B8
+ぼくの顔をじっと見つめる少女。%K%P
+The girl just stared at my face.%K%P
+0x5C4
+少年「い、行こう！」%K%P
+Kid「L-let's go!」%K%P
+0x5D8
+ぼくは少女の手を引いて、ぐんぐんと歩き出した。%K%P
+I took her hand and tugged it as I began to walk.%K%P
+0x5E4
+頭の中が、撹拌されたかのように、グチャグチャになっていく……。%K%P
+The inside of my mind was churning...%K%P
+0x5F0
+さっきの、少女の一言によって。%K%P
+It was because of what she had just said.%K%P
+0x5FC
+ぼくの中で、もうひとりのぼくが、何かを叫び続けている。%K%P
+Inside of me, it felt like another 'me' was screaming.%K%P
+0x608
+……そんな気がした。%K%P
+...That was how I felt.%K%P
+0x648
+少年「もうひとりの女の子が見つかったんだ！」%K%P
+Kid「I found another girl!」%K%P
+0x688
+そう叫びながら、ぼくは会議室の中に飛び込んでいった。%K%P
+I burst into the conference room as I shouted that.%K%P
+0x694
+もちろん、例の少女の手を引きながら。%K%P
+Of course, I was still leading the girl by the hand.%K%P
+0x6A0
+みんなが、いっせいにぼくの方を見る。%K%P
+Everyone turned to look at me at once.%K%P
+0x6B4
+つぐみ「えっ？」%K%P
+Tsugumi「Huh?」%K%P
+0x6C0
+優「もうひとりって？」%K%P
+You「Another what?」%K%P
+0x6DC
+武「誰のこと言ってんだ？」%K%P
+Takeshi「Who are you talking about?」%K%P
+0x6E8
+空「もしかして……その、女の子のことですか？」%K%P
+Sora「Are you talking about... THAT girl?」%K%P
+0x6F4
+少年「うん、宇宙クジラの部屋で見つけたから連れて来たんだ」%K%P
+Kid「Yeah. I found her in the Cosmic Whale room and brought her here.」%K%P
+0x710
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x71C
+優「…………」%K%P
+You「.........」%K%P
+0x738
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x744
+空「…………」%K%P
+Sora「.........」%K%P
+0x750
+少年「ど、どうしたの、みんな？」%K%P
+Kid「Wh-what's the matter with everyone?」%K%P
+0x75C
+少年「なんで驚かないの？」%K%P
+Kid「Why aren't you surprised?」%K%P
+0x778
+つぐみ「もうしばらく、休んでいた方がいいんじゃない？」%K%P
+Tsugumi「Maybe you'd better rest for a while.」%K%P
+0x784
+少年「えっ？」%K%P
+Kid「What?」%K%P
+0x790
+？？「ねえねえ？」%K%P
+???「Hey, hey!」%K%P
+0x7A4
+女の子が、ぼくの服のそでを引っぱった。%K%P
+The girl was tugging at my sleeve.%K%P
+0x7B0
+振り向くぼく。%K%P
+I turned to look at her.%K%P
+0x7BC
+そこにいたのは……。%K%P
+But...%K%P
+0x7C8
+ぼくが手をつないでここまで連れて来た女の子は……。%K%P
+The girl that I had brought back was...%K%P
+0x804
+沙羅「いきなりこんなとこ連れて来て……どうしたの？」%K%P
+Sara「What are you doing... dragging me here all of a sudden?」%K%P
+0x810
+少年「さ、沙羅……」%K%P
+Kid「S-Sara...?」%K%P
+0x81C
+沙羅「？？？」%K%P
+Sara「?」%K%P
+0x828
+ぼくはみんなの方へ振り返り……。%K%P
+I looked back at everyone.%K%P
+0x844
+少年「ち、ちがうんだよ！　確かに見たんだ！」%K%P
+Kid「Th-this isn't right! I swear, I saw her!」%K%P
+0x850
+少年「ついさっきまで、ぼくが手をつないでたのは沙羅じゃなくて……」%K%P
+Kid「We were walking here hand in hand. It wasn't Sara...」%K%P
+0x86C
+空「そうなんですか？　松永さん？」%K%P
+Sora「Is that right? Matsunaga-san?」%K%P
+0x878
+沙羅「ううん、私は、誰も見なかったよ？」%K%P
+Sara「No. I didn't see anybody else.」%K%P
+0x884
+沙羅「いきなり少年が私の手をつかんで……」%K%P
+Sara「The Kid just suddenly grabbed my hand...」%K%P
+0x890
+少年「えっ！？」%K%P
+Kid「What?」%K%P
+0x89C
+少年「沙羅……どうしてそんな嘘を……」%K%P
+Kid「Sara... Why are you lying...?」%K%P
+0x8B0
+沙羅「はい？　嘘ついてるのはそっちじゃん！　なに言っちゃってるわけ？」%K%P
+Sara「Huh? What're you talking about? You're the one who's lying.」%K%P
+0x8BC
+少年「そんな……そんな……」%K%P
+Kid「Wh-what...?」%K%P
+0x8C8
+少年「クジラ部屋で、あの女の子はヒザを抱えて座ってたんだ」%K%P
+Kid「The girl was in the Cosmic Whale room... She was sitting down, hugging her knees.」%K%P
+0x8D4
+少年「なにか、童謡の歌詞みたいなフレーズを口ずさんでて……」%K%P
+Kid「She was singing some kind of phrases to a kid's song.」%K%P
+0x8E0
+沙羅「だからぁ！　それは私！　私です！」%K%P
+Sara「I'm telling you that was me!」%K%P
+0x8EC
+顔を真っ赤にしながら、沙羅は叫んだ。%K%P
+Sara was red-faced and shouting.%K%P
+0x8F8
+沙羅「そんな恥ずかしいこと、ここで暴露しなくてもいいでしょ！」%K%P
+Sara「You don't have to tell everybody about it!」%K%P
+0x904
+少年「………………」%K%P
+Kid「.........」%K%P
+0x918
+（なんでだよ……）%K%P
+(Geez, what's with her...?)%K%P
+0x924
+（一体、なにがどうなっちゃってるんだよ……）%K%P
+(What's going on here...?)%K%P
+0x938
+優「う～～ん！」%K%P
+You「Aaah!」%K%P
+0x944
+額に手を当て、優が唸った。%K%P
+You groaned as she slapped her forehead with her hand.%K%P
+0x950
+優「少年？　他のことは何も心配しなくていいから、もう少し休んできたら？」%K%P
+You「Kid? Just forget about everything else and get some rest.」%K%P
+0x95C
+優「晩ご飯だったら、あとで持ってってあげるから」%K%P
+You「I'll bring you some dinner later.」%K%P
+0x968
+少年「………………………………」%K%P
+Kid「...............」%K%P
+0x97C
+優「ほんとに、どうしちゃったのかねぇ、この子は……」%K%P
+You「What is going on with this guy...?」%K%P
+0x9A8
+ぼくは、救護室へトボトボと戻りながら、様々なことを考えた。%K%P
+I thought about a lot of things as I plodded to the infirmary.%K%P
+0xA0C
+これまでのこと。%K%N
+Things leading to that point.%K%N
+0xA18
+これからのこと。%K%N
+Things to come.%K%N
+0xA24
+オカシなこと。%K%N
+The odd things going on.%K%N
+0xA30
+わからないこと。%K%N
+Things I couldn't figure out.%K%N
+0xA3C
+知らなければならないこと。%K%N
+Things I needed to find out.%K%N
+0xA48
+決めなければならないこと。%K%O
+Things I needed to decide.%K%O
+0xA60
+今まで、できるだけ考えまいとしていた反動なのか、様々な思念が頭の中を錯綜する。%K%N
+Everything I had been trying to avoid thinking about all rushed into my mind at once, making it a confused mess.%K%N
+0xA6C
+考えずには……悩まずにはいられなかった。%K%O
+I couldn't help thinking... and worrying... about things.%K%O
+0xA84
+――優のこと。%K%N
+―About You.%K%N
+0xA90
+３４年前に死んだ陽一氏は、優の父親ではない？%K%N
+What if the man who had died 34 years ago wasn't You's father?%K%N
+0xA9C
+だとしたら、優の本当の父親は誰なんだ？%K%N
+Then who was her real father?%K%N
+0xAA8
+１５年前に死んだゆきえ氏は、優の母親ではない？%K%N
+Was the woman that died fifteen years ago really You's mother?%K%N
+0xAB4
+だとしたら、優の知ってる母親の正体とは一体？%K%O
+If not, then who was?%K%O
+0xACC
+――ぼくのこと。%K%N
+―About me.%K%N
+0xAD8
+相次ぐ予知の原因は？　その意味はなんなのか？%K%N
+Why did I keep having premonitions of the future? What did it mean?%K%N
+0xAE4
+あの少女は誰なのか？　どうして沙羅と少女を見間違えたりしたのか？%K%N
+Who was the girl? Why had I mistaken Sara for her?%K%N
+0xAF0
+ぼくはどうして記憶を失ってしまったのだろうか？%K%N
+Why had I even lost my memory in the first place?%K%N
+0xAFC
+ぼくの過去には一体何があったのだろうか？%K%N
+What had happened to me in my past?%K%N
+0xB08
+つぐみは、何か知っているのか？%K%O
+What did Tsugumi know about all of it?%K%O
+0xB20
+そして……%K%N
+And...%K%N
+0xB2C
+ぼくらはなぜ、こんなところに閉じ込められてしまったのか？%K%N
+Why were we all trapped in LeMU?%K%N
+0xB38
+ただの事故なのか？%K%N
+Was it just an accident?%K%N
+0xB44
+それとも……。%K%O
+Or something else...%K%O
+0xBB0
+数時間後、館内に新たな浸水事故が発生した。%K%P
+A few hours later, the installation started to flood again.%K%P
+0xBBC
+『ドリットシュトック／隔離区画――コスミッシャー・ヴァル完全浸水』%K%P
+'Dritter Stock―from the partition to the Cosmic Whale was submerged.'%K%P
+0xBC8
+『犠牲者：無し』%K%P
+'Casualties: None'%K%P
+0xBD4
+『他部屋への漏水：無し』%K%P
+'Flooding to other rooms: None'%K%P
+0xBE0
+『被害拡大の恐れ：無し』%K%P
+'Chance of damage spreading: None'%K%P
+0xBEC
+館内に響き渡る空の声が、事実だけを淡々と告げた。%K%P
+Sora's voice conveyed the situation over the intercom in a matter-of-fact tone.%K%P
+0xBF8
+コスミッシャー・ヴァル……宇宙クジラの部屋。%K%P
+The Cosmic Whale room...%K%P
+0xC04
+そこはぼくが、ついさっきまでいた場所である。%K%P
+I had been there until just shortly before the flooding.%K%P
+0xC10
+だがしかし、それは、とても遠い世界の出来事のように感じられた。%K%P
+But somehow, it felt like some event that had taken place far, far away.%K%P
+0xC1C
+ぼくは毛布を頭から被り、目を固く閉ざして、眠ろうとした。%K%P
+I covered my head with the blanket, closed my eyes, and tried to sleep.%K%P
+0xC28
+探そうとした。%K%P
+I tried to search.%K%P
+0xC34
+ぼくのいるべき世界を。%K%P
+...For the world I should be in.%K%P
+0xC40
+ぼくの還るべき場所を。%K%P
+...For the place I should return to.%K%P
+0xC4C
+……この、ぼく自身を。%K%P
+...And for myself.%K%P

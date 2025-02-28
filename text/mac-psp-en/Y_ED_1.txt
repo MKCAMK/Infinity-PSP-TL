@@ -1,0 +1,45 @@
+text area offset and size:
+0xD58
+0x200
+0x1C4
+‚k‚qQ‚`‚O‚O‚Ì’l‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñB%K%P
+The value of LR_A00 is incorrect.%K%P
+0x964
+%N%N%N%N%N%N%N
+
+0x970
+%200‡S‡S‡S‡S‡S‡S‡S‡S¶%T046‘Ì%T046”½%T046‰%T046F%T046‚P%T046%T090%T090
+%200        Life%T046 reading%T046: %T0461%T046%T090%T090
+0x988
+%O
+
+0x9A4
+%N
+
+0x9B0
+%LC%FS‚s‚ˆ‚‰‚“‡S‚“‚”‚‚’‚™‡S‚‰‚“‡S‚‚‚”‡S‚‚‡S‚…‚‚„‡S‚™‚…‚”D%FE%N
+%LC%FSThis story is not over yet.%FE%N
+0x9BC
+%LC%FS‚a‚…‚ƒ‚‚•‚“‚…‡S‚‚‚Œ‚™‡S‚™‚‚•‡S‚‚’‚…%FE%N
+%LC%FSBecause only you are%FE%N
+0x9C8
+%LC%FS‚‰‚‡S‚”‚ˆ‚…‡S‚‰‚‚†‚‰‚‚‰‚”‚™‡S‚Œ‚‚‚D%FE
+%LC%FSin the infinity loop.%FE
+0x9D8
+%O
+
+0xB40
+%N
+
+0xB4C
+%LC%FS‚s‚ˆ‚‰‚“‡S‚“‚”‚‚’‚™‡S‚‰‚“‡S‚‚‚”‡S‚‚‡S‚…‚‚„‡S‚™‚…‚”D%FE%N
+%LC%FSThis story is not over yet.%FE%N
+0xB58
+%LC%FS‚a‚…‚ƒ‚‚•‚“‚…‡S‚‚‚Œ‚™‡S‚™‚‚•‡S‚‚’‚…%FE%N
+%LC%FSBecause only you are%FE%N
+0xB64
+%LC%FS‚‰‚‡S‚”‚ˆ‚…‡S‚‰‚‚†‚‰‚‚‰‚”‚™‡S‚Œ‚‚‚D%FE
+%LC%FSin the infinity loop.%FE
+0xB74
+%O
+

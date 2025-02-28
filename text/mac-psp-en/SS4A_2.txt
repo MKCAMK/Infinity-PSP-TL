@@ -1,0 +1,336 @@
+text area offset and size:
+0xC00
+0x143F
+0x9C
+結局、ペンダントを返し損ねてしまった。%K%P
+I ended up failing to give the pendant back.%K%P
+0xA8
+ぼくは、ホログラムの欠けた部分を見つけようと、ある場所に向かっていた。%K%P
+I thought I would look for the missing piece of the hologram and had an idea of where it might be.%K%P
+0xFC
+昨日、つぐみと沙羅がケンカした場所。%K%P
+It was the site of Tsugumi and Sara's fight the day before.%K%P
+0x108
+カケラは、この部屋のどこかに転がっているはずだ。%K%P
+The fragment should have been around that room somewhere.%K%P
+0x114
+カケラを見つけて、できることならこのペンダントに埋め込んで元通りに修復し、%K%P
+I wanted to find the piece and put it back in the pendant.%K%P
+0x120
+そうして返してやったら、きっと沙羅は飛び上がって喜ぶに違いない。%K%P
+I thought if I could do it, Sara would jump with joy.%K%P
+0x12C
+沙羅の喜ぶ顔を思い浮かべながら、ぼくは床にひざまずいて、隅から隅まで丹念に調べ始めた。%K%P
+As I imagined her happy face, I crawled around on my knees, searching the room from corner to corner.%K%P
+0x18C
+少年「う～ん、おっかしいなぁ～」%K%P
+Kid「Hmmm. That's strange.」%K%P
+0x198
+？？「なにがオカシイんだ？」%K%P
+???「What's strange?」%K%P
+0x1AC
+驚いて見上げると、そこには武が立っていた。%K%P
+Surprised, I looked up, and there was Takeshi.%K%P
+0x1B8
+武「なんか、探してるのか？」%K%P
+Takeshi「You looking for something?」%K%P
+0x1C4
+少年「う、うん……」%K%P
+Kid「Y-yeah...」%K%P
+0x1D0
+少年「実は……」%K%P
+Kid「Actually...」%K%P
+0x1DC
+ぼくはかくかくしかじかと説明し、欠けたホログラムペンダントを武に見せた。%K%P
+I explained the situation and showed Takeshi the broken pendant.%K%P
+0x1F0
+武「なるほどねぇ、確かに、割れてるなぁ」%K%P
+Takeshi「I see. Well, you're right about it being broken.」%K%P
+0x1FC
+少年「うん」%K%P
+Kid「Yup.」%K%P
+0x208
+少年「もし良かったら、一緒に探してもらえないかな？」%K%P
+Kid「If you don't mind, could you help me look?」%K%P
+0x21C
+武「ああ、探してやることにやぶさかではないんだが……」%K%P
+Takeshi「Ah, that sounds like a plan...」%K%P
+0x228
+武「その前に、ひとつだけ訊いてもいいかな？」%K%P
+Takeshi「But can I ask you something first?」%K%P
+0x234
+少年「なに？」%K%P
+Kid「What?」%K%P
+0x248
+武「おまえの言ってたその男の画像ってぇのは、一体どこに映ってるんだ？」%K%P
+Takeshi「That image of the guy you were talking about, where is it?」%K%P
+0x254
+少年「どこって……」%K%P
+Kid「Where...?」%K%P
+0x260
+少年「ここにちゃんとっ」%K%P
+Kid「It's right here.」%K%P
+0x26C
+ぼくは鏡の中をのぞきこんだ。%K%P
+I peered into the mirror.%K%P
+0x278
+少年「あ、あれっ！？」%K%P
+Kid「Wh-what?」%K%P
+0x284
+少年「消えてる……」%K%P
+Kid「He's gone...」%K%P
+0x298
+武はいぶかしげなまなざしで、ぼくのことを見ていた。%K%P
+Takeshi looked at me skeptically.%K%P
+0x2A4
+少年「ほんとだってば！　昨日までは確かにちゃんとここに……」%K%P
+Kid「But it was here yesterday... I swear...」%K%P
+0x2B0
+少年「あれ～？　なんでだろう？」%K%P
+Kid「Huh? I wonder why?」%K%P
+0x2C4
+武「まあ、いいさ」%K%P
+Takeshi「It's no big deal.」%K%P
+0x2D0
+武「沙羅の彼氏がどんな男だろうと、俺には興味なんかないし……」%K%P
+Takeshi「I don't really care what kind of guy Sara would date anyway...」%K%P
+0x2E4
+武「いや、訂正」%K%P
+Takeshi「No... I take that back.」%K%P
+0x2F0
+武「少しは興味があったりなんかしたりもするのだけれども、だ」%K%P
+Takeshi「I might be just a little bit interested.」%K%P
+0x2FC
+武「いずれにせよ、ペンダントが欠けてしまったことに変わりはないわけだし」%K%P
+Takeshi「But I suppose it doesn't matter now that the pendant's broke.」%K%P
+0x310
+武「そして、そのペンダントが沙羅の大事にしているものであることも事実であるし」%K%P
+Takeshi「And since the pendant is something that's important to Sara.」%K%P
+0x31C
+武「よって、俺はおまえに協力してカケラを探してやることにする」%K%P
+Takeshi「I'll help you look for the broken piece.」%K%P
+0x328
+少年「あ、ありがとう」%K%P
+Kid「Th-thanks.」%K%P
+0x33C
+武「負けるなよぉ～、少年！」%K%P
+Takeshi「First to find it wins, Kid!」%K%P
+0x348
+少年「は？？？」%K%P
+Kid「Huh?」%K%P
+0x354
+武はポンポンとぼくの肩を叩くと、床をはうようにしてカケラを探し始めた。%K%P
+Takeshi thumped my back and set about crawling on the floor to search.%K%P
+0x368
+武「で？　謝礼はいくらぐらいもらえるのかな？」%K%P
+Takeshi「And? How much is the reward for this, anyway?」%K%P
+0x374
+少年「謝礼？」%K%P
+Kid「Reward?」%K%P
+0x388
+武「俺がカケラを見つけた場合の謝礼だよ」%K%P
+Takeshi「How much am I gonna get if I find the piece?」%K%P
+0x394
+少年「そんな……沙羅を恐喝するつもりなの？」%K%P
+Kid「What... Are you going to blackmail Sara?」%K%P
+0x3A8
+武「なんでだよ！」%K%P
+Takeshi「What're you talking about?」%K%P
+0x3B4
+武「払うのは、沙羅じゃなくておまえだろうが！」%K%P
+Takeshi「You're gonna pay me, not Sara!」%K%P
+0x3C0
+少年「ど、どうして？」%K%P
+Kid「Wh-why?」%K%P
+0x3D4
+武「うぃ～うぃ～、くのくのぉ～、しらばっくれてもダメだぞ～い」%K%P
+Takeshi「Heeey, heeey, don't play innocent with me, champ.」%K%P
+0x3E0
+少年「……は、はい？」%K%P
+Kid「...Wh-what?」%K%P
+0x3FC
+武「全部おまえのテガラにするつもりなんだろ？」%K%P
+Takeshi「You don't think I'd let you take all the credit, do you?」%K%P
+0x408
+武は蛇のように体をくねらせながら、ぼくの目の前にやって来た。%K%P
+Takeshi wriggled toward me like a snake. He stopped in front of me.%K%P
+0x414
+武「俺が見つけても、自分が見つけたことにするんだべ？」%K%P
+Takeshi「If I find it, I'll bet you're planning to say you did.」%K%P
+0x420
+少年「そ、そんなことっ」%K%P
+Kid「I-I wouldn't...」%K%P
+0x43C
+武「『やいっ、沙羅？』」%K%P
+Takeshi「'Oh, Sara, milady?'」%K%P
+0x458
+武「『なんでございますの？　少年さん♪』」%K%P
+Takeshi「'Oh, brave youth. What is it?'」%K%P
+0x474
+武「『これを受け取れ、こんちきしょうめ』」%K%P
+Takeshi「'This is yours, milady.'」%K%P
+0x490
+武「『まあ、これはわたくしが昨日お貸ししたペンダントでございますわ♪　あら？　欠けてた所が、直ってるでございますわ！』」%K%P
+Takeshi「'Well, if it isn't the pendant I lent you yesterday! Oh joy, it is fixed! Oh, happy day!'」%K%P
+0x4AC
+武「『おうっ、あったりめぇよ！　てめえの為に、一生懸命探してやったんだ！』」%K%P
+Takeshi「'Oh, how I did slave, searching the floor far and wide all of yesterday!'」%K%P
+0x4C8
+武「『少年さん、おひとりでお探しになってくださったのでございますの？』」%K%P
+Takeshi「'And was it alone that you searched, brave youth?'」%K%P
+0x4E4
+武「『しゃらくせぇ！　なに言いやがる！　オレひとりで探したに決まってらーな！』」%K%P
+Takeshi「'Do you jest? Of course I went on my quest for the missing piece alone!'」%K%P
+0x500
+武「『まあ、素敵♪　少年さん、ありがとうでございますわ♪』」%K%P
+Takeshi「'Oh, wow! Brave youth, you are amazing!'」%K%P
+0x51C
+武「……とまあ、こういう展開にもっていこうとしているわけだ」%K%P
+Takeshi「...So I know exactly what you're planning.」%K%P
+0x530
+武「かあーっ、このマセガキがぁ！」%K%P
+Takeshi「You're full of yourself!」%K%P
+0x53C
+少年「どうでもいいですけど、キャラクター全然違いますよね？　ぼくも沙羅も」%K%P
+Kid「Whatever. Anyway, that wasn't a very good impersonation of me or Sara!」%K%P
+0x548
+武「いちいち細かいこと気にすんなって」%K%P
+Takeshi「Don't be so picky about the details.」%K%P
+0x55C
+武「俺はおまえのこと、応援してやってんだぞ？」%K%P
+Takeshi「I'm rootin' for you, okay, Kid?」%K%P
+0x568
+少年「だからそんなんじゃっ」%K%P
+Kid「I told you it isn't like that.」%K%P
+0x57C
+武「いいっていいってぇ～！」%K%P
+Takeshi「I said it's okay!」%K%P
+0x588
+武「俺、なにげにそういうの好きだからさ」%K%P
+Takeshi「I like doing this kind of thing.」%K%P
+0x594
+少年「そういうのって、どういう？」%K%P
+Kid「What do you mean by 'this'?」%K%P
+0x5A8
+武「なんつーのかな……いわば、愛のキューピッド役？」%K%P
+Takeshi「I mean... well, you know, being Cupid, a matchmaker.」%K%P
+0x5B4
+少年「キューピッドはお金なんか取らないよ」%K%P
+Kid「Cupid doesn't ask for money.」%K%P
+0x5C8
+武「うむ、確かに」%K%P
+Takeshi「I suppose that's true.」%K%P
+0x5DC
+武「じゃあ、後で俺の手伝いをするってぇのはどうだ？」%K%P
+Takeshi「Then how about you help me in return later?」%K%P
+0x5E8
+少年「手伝い？」%K%P
+Kid「Help?」%K%P
+0x5FC
+武「発電機の調子が悪いみたいなんだ」%K%P
+Takeshi「It seems like the generator needs looking at.」%K%P
+0x608
+武「まあ、たいしたことはないんだけど、一応メンテナンスしとかなくちゃいけないから」%K%P
+Takeshi「No big deal, just some maintenance that's gotta be done.」%K%P
+0x61C
+武「って、空に命令されたから」%K%P
+Takeshi「Sora's orders.」%K%P
+0x628
+少年「そんなことなら、謝礼とかじゃなくても手伝うよ」%K%P
+Kid「In that case, I'd do it even if I didn't owe you anything.」%K%P
+0x63C
+武「おっ、サンキューな」%K%P
+Takeshi「Oh, thanks!」%K%P
+0x684
+結局、カケラは見つからなかった……。%K%P
+In the end, we didn't find the missing piece...%K%P
+0x690
+武とぼくは、埃まみれで、その場に立ちつくす。%K%P
+Takeshi and I were just standing around covered in dust.%K%P
+0x700
+そのとき、扉が開いて沙羅が入ってくる。%K%P
+The door opened, and Sara came in.%K%P
+0x714
+沙羅「あ、いたいた」%K%P
+Sara「Oh, there you are.」%K%P
+0x720
+沙羅「ペンダント、確か少年に預けっぱなしだったよねぇ？」%K%P
+Sara「I think I forgot to get the pendant back from you.」%K%P
+0x72C
+少年「あ、うん……」%K%P
+Kid「Oh yeah...」%K%P
+0x738
+ぼくはやむを得ず、欠けたペンダントをそのまま渡した。%K%P
+All I could do was hand her back the fractured pendant.%K%P
+0x74C
+沙羅はそのとき初めて気がついたように、埃まみれのぼくと武をきょとんと見ていた。%K%P
+Only then, like Sara was seeing us for the first time, did she notice that we were filthy.%K%P
+0x758
+沙羅「ところで、こんなとこで何やってんの？」%K%P
+Sara「What are you guys doing here anyway?」%K%P
+0x76C
+ぼくは何も言えずに武と顔を見合わせた。%K%P
+I couldn't think of anything to say. Takeshi and I exchanged glances.%K%P
+0x780
+武「実は……カケラを探してたんだ」%K%P
+Takeshi「Actually... we were looking for the missing piece.」%K%P
+0x794
+沙羅「カケラ？　なにそれ？」%K%P
+Sara「Piece? What's that?」%K%P
+0x7A0
+武「そのペンダントの欠けた部分だよ」%K%P
+Takeshi「The piece that broke off that pendant.」%K%P
+0x7AC
+武「直してやろうと思ってさ」%K%P
+Takeshi「We thought we'd try to fix it for you.」%K%P
+0x7C0
+沙羅「そんなこと、別にいいのに」%K%P
+Sara「Oh, don't worry about that.」%K%P
+0x7CC
+少し照れている様子の沙羅。%K%P
+Sara looked kind of embarrassed.%K%P
+0x7D8
+あれ？%K%P
+What?%K%P
+0x7E4
+あれれ？？？%K%P
+What had happened?%K%P
+0x7F0
+なんか知らんけど、いつの間にか武が発案者みたいな展開になってるぞ、おい。%K%P
+All of a sudden, Takeshi had made it look like it was all his bright idea.%K%P
+0x7FC
+ぼくのテガラにしてくれるんじゃなかったのか？%K%P
+I thought he was going to let me take the credit.%K%P
+0x810
+沙羅「それに……こんなとこじゃ、カケラは絶対見つからないと思うよ？」%K%P
+Sara「Besides... I'm pretty sure you're not going to find the piece here.」%K%P
+0x81C
+少年「どうして？」%K%P
+Kid「Why not?」%K%P
+0x830
+沙羅「だってこのペンダント……最初から欠けてたんだもん」%K%P
+Sara「Because... this pendant was cracked from the start.」%K%P
+0x844
+武「最初、から？」%K%P
+Takeshi「From the start?」%K%P
+0x858
+沙羅「うん」%K%P
+Sara「Yup.」%K%P
+0x864
+沙羅「ものごころついたときから、なぜかこのペンダントを持ってて」%K%P
+Sara「I don't know why, but I've had this pendant as long as I can remember.」%K%P
+0x870
+沙羅「この部分が割れたのは、もうずっと昔のことなの」%K%P
+Sara「And this piece broke off a long time ago.」%K%P
+0x87C
+少年「なんだ、どうりで……」%K%P
+Kid「Oh, well, that means...」%K%P
+0x890
+武「見つからないわけだ」%K%P
+Takeshi「We didn't have a chance of finding it.」%K%P
+0x89C
+武「はぁ～～」%K%P
+Takeshi「*Sigh*...」%K%P
+0x8B0
+武のため息が、救護室に響いた。%K%P
+Takeshi's sigh echoed throughout the infirmary.%K%P

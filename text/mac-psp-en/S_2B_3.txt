@@ -1,0 +1,756 @@
+text area offset and size:
+0x1678
+0x2F5F
+0x60
+武達が行ってしまってから、しばらく……。%K%P
+A while after the two had disappeared...%K%P
+0x6C
+ぼくと沙羅は、あれからひと言も口をきいていない。%K%P
+Sara and I hadn't spoken another word.%K%P
+0x78
+ふたりして壁にもたれかかり、ただ暗闇をじーっと見つめているだけだった。%K%P
+The two of us just leaned against a wall and stared into the darkness.%K%P
+0x84
+そんな気まずい空気を何とかしようと、ぼくは必死になって話題を探していた。%K%P
+I was desperately trying to think of some way to break through the wall that had formed between us.%K%P
+0x90
+少年「沙羅って、何歳なんだっけ？」%K%P
+Kid「Sara, how old are you?」%K%P
+0x9C
+やがて、そんな言葉が口をついて出た。%K%P
+Finally, the words tumbled out of my mouth.%K%P
+0xD8
+沙羅「突然……なに？　っていうか、教えてなかったっけ？」%K%P
+Sara「Where did that come from...? I thought I told you?」%K%P
+0xE4
+少年「たぶん、まだ聞いてないよ」%K%P
+Kid「I don't think so.」%K%P
+0xF8
+沙羅「高校２年生、１６歳、１月２１日生まれ、水がめ座」%K%P
+Sara「I'm a junior. I'm sixteen, and I was born January 21st. Oh, and I'm an Aquarius.」%K%P
+0x104
+すらすらと、まるで歌うように口ずさむ沙羅。%K%P
+Sara recited it so smoothly that it was like she was singing a song.%K%P
+0x118
+沙羅「で、少年は？」%K%P
+Sara「And you, Kid?」%K%P
+0x124
+少年「ぼくは……」%K%P
+Kid「I'm...」%K%P
+0x130
+わからない。%K%P
+I didn't know.%K%P
+0x13C
+思い出そうとすると、頭の中は霞がかったようにボヤけてしまう。%K%P
+When I tried to remember, it was like my mind would fog over.%K%P
+0x148
+それは、決して近づけない、蜃気楼のようなものだった。%K%P
+I couldn't get close to it. It was like a mirage in the desert.%K%P
+0x154
+少年「ぼくは……何歳、なんだろう？」%K%P
+Kid「I... wonder how old I am.」%K%P
+0x160
+沙羅「そんなこともわからないんだ？」%K%P
+Sara「You don't know that either?」%K%P
+0x16C
+少年「うん」%K%P
+Kid「Nope.」%K%P
+0x180
+沙羅「ふーん、なんだか淋しいね」%K%P
+Sara「Hmmm, that's kind of sad.」%K%P
+0x18C
+少年「うん……」%K%P
+Kid「Yeah...」%K%P
+0x1A0
+沙羅「だけど、それで良かったのかもしれないよ？」%K%P
+Sara「But maybe it's good in a way.」%K%P
+0x1AC
+少年「どうして？」%K%P
+Kid「What do you mean?」%K%P
+0x1C0
+沙羅「いっそ、忘れてしまいたいような過去だったの……かも」%K%P
+Sara「Well, maybe it was something that you wanted to forget about...」%K%P
+0x1CC
+少年「……………………」%K%P
+Kid「.........」%K%P
+0x1E0
+沙羅「な～んてね？」%K%P
+Sara「Just kidding.」%K%P
+0x1EC
+表情を和らげ、おどけてみせる沙羅。%K%P
+Sara's expression relaxed into a silly look.%K%P
+0x1F8
+少年「な、なんだよ……脅かさないでよ」%K%P
+Kid「Wh-what... Don't scare me like that.」%K%P
+0x20C
+沙羅「ごめんごめん」%K%P
+Sara「Sorry.」%K%P
+0x220
+沙羅「あ、そうだ。切り倒してみたら、わかるかもよ？　少年が何歳なのか」%K%P
+Sara「I know. Maybe if I chopped you down we'd find out how old you are.」%K%P
+0x22C
+少年「えっ？」%K%P
+Kid「Huh?」%K%P
+0x238
+沙羅「木の切り株みたいに、年輪が刻まれてるかも」%K%P
+Sara「You know, maybe you've got rings like a tree stump.」%K%P
+0x260
+少年「…………」%K%P
+Kid「...」%K%P
+0x26C
+ぼくは、なにげなく手の平を見つめてみた。%K%P
+For some reason, my eyes strayed to the palms of my hands.%K%P
+0x278
+非常灯だけがともる暗がりの中で、ぼくの指はほんのりと白く輝いて見えた。%K%P
+In the darkness, only dimly illuminated by the emergency lights, my fingers appeared to glow slightly white.%K%P
+0x284
+喪われたもう１本の指は、まだ見つけられずにいる……。%K%P
+I still didn't know what had happened to my finger.%K%P
+0x298
+沙羅「指……」%K%P
+Sara「Your finger...」%K%P
+0x2F4
+沙羅はひと言呟いて、ぼくの指をにぎりしめた。%K%P
+Muttering that, Sara grabbed my finger.%K%P
+0x300
+少年「……………………」%K%P
+Kid「...」%K%P
+0x30C
+突然のことで、ぼくは返す言葉を見失っていた。%K%P
+It was so sudden that it put me at a loss for words.%K%P
+0x318
+暗闇の中で、いきなりぼくの親指をにぎりしめた沙羅は、ひと言ひと言、確かめるようにこうささやいた。%K%P
+In the darkness, Sara whispered words like she was confirming something as she gripped my thumb.%K%P
+0x324
+沙羅「長弓……背負いし……月の精……」%K%P
+Sara「Moon sprite... shouldering... a long bow...」%K%P
+0x330
+沙羅「夢の中より……待ちをりぬ……」%K%P
+Sara「Waiting... inside a dream...」%K%P
+0x33C
+………………………………。%K%P
+............%K%P
+0x348
+少年「それ、どういう意味なの？」%K%P
+Kid「What does that mean?」%K%P
+0x354
+沙羅は首を振りながら、しかし答える様子はなかった。%K%P
+Sara just shook her head. There was no sign that she was going to answer me.%K%P
+0x360
+ただぼくの親指を優しくにぎりながら、呪文のような、わらべ歌のようなフレーズを、声に出さずに呟き続けた。%K%P
+She just murmured the words like a spell or a nursery rhyme as she gently held my thumb.%K%P
+0x36C
+（月の精……）%K%P
+(A moon sprite...)%K%P
+0x378
+沙羅はどうして唐突に、ぼくの指をつかんだりしたのだろう？%K%P
+I wondered why Sara had suddenly grabbed my thumb.%K%P
+0x384
+けれど、無理矢理指を引き抜く気にもならず……。%K%P
+Still, I didn't have any urge to pull it away from her...%K%P
+0x390
+ぼくは左手の親指にぼんやりと意識を傾けながら、少し汗ばんだ沙羅の手の温もりから、なにか答えとなるキッカケを探そうとしていた。%K%P
+As I remained aware of my thumb, I searched for an answer from Sara's slightly sweaty, warm palm.%K%P
+0x3DC
+優「おまたせぇ～」%K%P
+You「Thanks for waiting～」%K%P
+0x3F0
+武「たぶん、これでもう大丈夫だと思う」%K%P
+Takeshi「I think we'll be okay now.」%K%P
+0x3FC
+優「お目当てのバルブを探すのに、結構手間取っちゃったけど……」%K%P
+You「It was a hassle looking for the valve, but...」%K%P
+0x444
+ふたりが帰って来て、沙羅はようやくぼくの指を放した。%K%P
+With the two of them back, Sara finally released my thumb.%K%P
+0x450
+この暗闇の中でも、沙羅の表情は容易に窺い知ることができた。%K%P
+In the darkness, I couldn't make out Sara's expression very well.%K%P
+0x45C
+沙羅は寂しそうに、口元を微かにゆるませていた。%K%P
+The area around her mouth pulled down slightly in a sad motion.%K%P
+0x468
+親指に残った温もり……。%K%P
+Warmth lingered around my thumb...%K%P
+0x474
+なぜか拭うことをためらったぼくは、指を立てたまま、それをそっとポケットの中へと忍ばせたのだった。%K%P
+I didn't know why, but I hesitated to wipe the warmth away and gently inserted my hand into my pocket, leaving my thumb extended.%K%P
+0x530
+そんなわけで、ぼくら４人は、一緒に目的の部屋に移動した。%K%P
+So all four of us ended up moving to the room together.%K%P
+0x53C
+室内には、おびただしい数のパイプが張りめぐらされていた。%K%P
+The room was covered in a massive web of pipes.%K%P
+0x548
+パイプは隣の発電室へと続いており、バルブを開閉することによって、水圧やら油圧やらを調節することができるらしい。%K%P
+The pipes continued into the generator room next door. It seemed that opening and closing the valves could adjust the water and oil pressure.%K%P
+0x554
+『通常、発電室のコンディションを保っているのはレミなのだが、さすがのレミと言えども、発電機自体が故障してしまったらどうすることもできない』%K%P
+'Normally, LeMMIH is responsible for maintaining the generator room, but even it can't do much when the generator itself goes out.'%K%P
+0x560
+『何しろ、電力が供給されなくなってしまうのだから』%K%P
+'Anyhow, this is all because the power supply is down.'%K%P
+0x56C
+『そこで、停電になったときでも、発電室のメンテナンスを手動で行なうことができるよう、この部屋は設けられたのだろう』%K%P
+'This room is designed so that maintenance can be performed manually at times like this, or during blackouts.'%K%P
+0x578
+……という話を、ぼくは優から聞いた。%K%P
+...That was what You told me.%K%P
+0x584
+優は立ち並ぶ無数のパイプの中から目的の１本を選び出すと、それを閉めるよう、武に指示した。%K%P
+You selected one pipe from the countless rows of them and instructed Takeshi to close its valve.%K%P
+0x598
+武「ったく、人使いが荒いねぇ……」%K%P
+Takeshi「Geez. You sure have a knack for abusing folk...」%K%P
+0x5A4
+武はぶつぶつとこぼしながら、優に命じられるがままに、バルブをキュルキュルと閉めていった。%K%P
+Takeshi turned the valve shut, as You had ordered, through his complaints.%K%P
+0x5B0
+ぼくと沙羅は、作業を続けるふたりのかたわらで、ただじっとその様子を傍観していた。%K%P
+Sara and I just stood off to the side and watched the work unfold.%K%P
+0x5BC
+やがて……%K%P
+Finally...%K%P
+0x5C8
+武「うーっ、くーっ、ぬわーっ……」%K%P
+Takeshi「Uggghh. Arggh!」%K%P
+0x5D4
+武「ちっ、ダメだ……」%K%P
+Takeshi「Damn. It's no good...」%K%P
+0x5E8
+武「これ閉まんないよ、優……」%K%P
+Takeshi「You, this won't close...」%K%P
+0x5FC
+優「だらしないなぁ……男でしょ？」%K%P
+You「Geez. You wimp... You're a man, right?」%K%P
+0x610
+武「んなこと言ったって、閉まんないもんは閉まんないんだからしょうがないだろ！」%K%P
+Takeshi「You can say what you want, but this valve ain't gonna get shut any faster!」%K%P
+0x61C
+武「錆びついちまってるんだよ！　びくともしないんだ！」%K%P
+Takeshi「It's rusted solid! It won't even budge!」%K%P
+0x630
+優「じゃあ、レンチでも使ってみたら？」%K%P
+You「Well, how about trying a wrench?」%K%P
+0x644
+武「レンチ？」%K%P
+Takeshi「Wrench?」%K%P
+0x650
+優「ハンドルの頭のところにボルトがついてるでしょ？」%K%P
+You「There's a bolt on the handle, right?」%K%P
+0x65C
+優「レンチで引っかければ動くかもしれない」%K%P
+You「If you can get a wrench on it, it might move.」%K%P
+0x668
+武「そうか、レンチか……」%K%P
+Takeshi「Oh. A wrench, huh...?」%K%P
+0x67C
+武「おいっ、少年！　……というわけだから、工具箱持って来てくれないか？」%K%P
+Takeshi「Hey, Kid...! You heard her. Gimme the toolbox already, would ya?」%K%P
+0x688
+ぼくは闇の中に目を凝らし、辺りを見渡してみた。%K%P
+I peered around in the darkness.%K%P
+0x69C
+武「なにやってんだよ？　工具箱だよ、工具箱！」%K%P
+Takeshi「What're you doing? I said get me the toolbox!」%K%P
+0x6A8
+少年「だって……そんなの無いよ、ここには」%K%P
+Kid「But... there isn't one here.」%K%P
+0x6BC
+武「は？」%K%P
+Takeshi「Huh?」%K%P
+0x6C8
+沙羅「武、ちゃんとこの部屋に持ってきた？」%K%P
+Sara「Takeshi, did you forget to bring it?」%K%P
+0x6DC
+武「あっ、いけね！　発電室の前に置いたままだ……」%K%P
+Takeshi「Oh! Crap! I left it in front of the Generator Room...」%K%P
+0x6F0
+優「はぁ……まったく……」%K%P
+You「*Sigh*... This sucks...」%K%P
+0x6FC
+少年「わかったよ、それじゃあぼく、ちょっと取って来る」%K%P
+Kid「Alright, alright, I'll go get it.」%K%P
+0x710
+ぼくは出口に向かって走り出した。%K%P
+I ran, heading for the exit.%K%P
+0x750
+水をバシャバシャと蹴って、来た道を戻る。%K%P
+Water splashed as I ran along the route we had come along.%K%P
+0x75C
+と言っても、発電室はすぐ隣だ。%K%P
+But the generator room was practically next door.%K%P
+0x768
+１０ｍも走らないうちに、ぼくは角を曲がり、発電室の前の直線通路に入った。%K%P
+Less than ten meters later, I turned the corner and entered the corridor leading to the front of the generator room.%K%P
+0x798
+少年「あっ、あったあった……」%K%P
+Kid「Oh, there it is!」%K%P
+0x7A4
+工具箱は扉の真正面に置かれていた。%K%P
+The toolbox was sitting right in front of the door.%K%P
+0x7B0
+そこに向かって近づく。%K%P
+I headed toward it.%K%P
+0x7BC
+ぼくが足をおろすたびに、水面に波紋が広がっていった。%K%P
+Every time I put my foot down on the floor, little ripples formed on the surface of the water.%K%P
+0x7C8
+波紋は壁にぶつかり、工具箱の側面ではね返り、規則正しい格子状の縞模様を浮かび上がらせていた。%K%P
+The tiny circles of waves collided with the wall and bounced off of the side of the toolbox, rippling out in regular concentric rings.%K%P
+0x7D4
+闇は深かった。けれど、ぼくは水面の揺らぎを、その律動の冷たさを、しっかりと感じ取ることができた。%K%P
+It was dark. Still, I was able to sense the changes and coldness in the movement of the water.%K%P
+0x7E0
+ぼくの視界は驚くほど鮮やかだった。%K%P
+My vision felt surprisingly sharp.%K%P
+0x7FC
+と、そのとき……。%K%P
+It happened just then...%K%P
+0x830
+――パシャンッ！%K%P
+―Splash!%K%P
+0x83C
+大きな水しぶきがあがった。%K%P
+There was a big splash and spray of water.%K%P
+0x848
+右側の壁の付近……操作パネルの下の辺りだ。%K%P
+It came from around the right side of the wall... nearly below the operating console.%K%P
+0x854
+飛び散った水滴はゆるやかなうねりとなって、ぼくの足元に近づいてきた。%K%P
+The droplets of water scattered gently around my legs.%K%P
+0x860
+波がぼくの足首をなでる。%K%P
+The resulting waves stroked my feet.%K%P
+0x86C
+得体の知れぬ恐怖が、ぼくの体をはい上がってくる。%K%P
+A fear like I had never felt chilled me to my core.%K%P
+0x878
+ぼくは何も無い暗闇に向かって身構えた。%K%P
+I readied myself for anything, facing the darkness.%K%P
+0x884
+すると……%K%P
+Just then...%K%P
+0x890
+？？「長弓背負いし月の精」%V%P
+???「Moon sprite shouldering a long bow.」%V%P
+0x89C
+？？「夢の中より待ちをりぬ」%V%P
+???「Waiting inside a dream.」%V%P
+0x8A8
+少年「だ……だれ……？」%K%P
+Kid「Wh-who's there...?」%K%P
+0x8B4
+？？「今宵やなぐゐ、月夜見囃子」%V%P
+???「Tonight, a story by moonlight.」%V%P
+0x8C0
+？？「早く来んかと待ちをりぬ」%V%P
+???「Hoping the wait will be short.」%V%P
+0x8CC
+少年「ね、ねえ……誰なの……？」%K%P
+Kid「H-hey... Who's there...?」%K%P
+0x8D8
+？？「眠りたまふ、ぬくと丸みて」%V%P
+???「Sleeping curled and snug.」%V%P
+0x8E4
+？？「眠りたまふ、母に抱かれて」%V%P
+???「Sleeping in mother's arms.」%V%P
+0x914
+少年「コ、ココ……」%K%P
+Kid「Co-Coco...」%K%P
+0x920
+ぼくは思わず呟いていた。%K%P
+I said the name without thinking.%K%P
+0x92C
+突如、闇の中にふわりと浮かび上がったその姿は、間違いなく、昨日加減圧室で見たあの少女だった。%K%P
+The shape that suddenly swelled out of the darkness was undoubtedly the girl from the compression chamber, the one from the day before.%K%P
+0x938
+そして、今ココが口ずさんでいた歌は……。%K%P
+And Coco was singing a song...%K%P
+0x944
+ココ「ココね？　……待ってたんだよ？」%K%P
+Coco「I was waiting for you.」%K%P
+0x950
+ぼくが尋ねる前に、ココの口が開いた。%K%P
+She spoke before I could.%K%P
+0x95C
+ココ「きみが来るの……ずっと待ってたの……」%K%P
+Coco「I waited and waited... for you to come...」%K%P
+0x968
+ココ「月の精みたいに……ひとりぼっちで……」%K%P
+Coco「I was waiting... all alone like a moon sprite...」%K%P
+0x974
+少年「だ、だったら、ぼくらのところに来ればよかったじゃないか……」%K%P
+Kid「Th-then you should have come to me...」%K%P
+0x980
+ココ「ダメなんだよ……」%K%P
+Coco「I couldn't...」%K%P
+0x98C
+ココ「それは……無理なんだ……」%K%P
+Coco「That's... impossible...」%K%P
+0x998
+少年「どうして……？」%K%P
+Kid「Why...?」%K%P
+0x9A4
+ココ「きみが、連れて行ってくれないからだよ……」%K%P
+Coco「Because you wouldn't take me with you...」%K%P
+0x9B0
+少年「……えっ？」%K%P
+Kid「...What?」%K%P
+0x9BC
+ココ「みんなのとこに、連れて行ってくれる？」%K%P
+Coco「Will you take me to where everybody is?」%K%P
+0x9C8
+少年「あ、当たり前じゃないか！　さあ、行こう！　一緒に！」%K%P
+Kid「Of course I will! Let's go together right now!」%K%P
+0x9D4
+と、ぼくが言ったその瞬間――。%K%P
+Just as I said that...%K%P
+0x9FC
+――バシャンッ！%K%P
+―Splash!%K%P
+0xA08
+ココの足元に水柱が立った。%K%P
+A wall of water exploded from near Coco's feet.%K%P
+0xA3C
+水滴が飛散して、霧のように漂う……。%K%P
+Droplets of water scattered everywhere like mist...%K%P
+0xA48
+ココ「さようなら」%K%P
+Coco「Farewell.」%K%P
+0xA6C
+呟いたココの姿は水煙の中に溶けていった。%K%P
+Coco disappeared in the spray.%K%P
+0xA78
+波がぼくの足首をなでる。%K%P
+The resulting waves stroked my feet.%K%P
+0xA84
+細かい霧が舞い降りて来て、細波の上に降り積もった。%K%P
+A fine spray of mist erupted skyward and rained down gently on the waves.%K%P
+0xA90
+鮮やかな暗闇の中に、ぽつんと放置された工具箱……。%K%P
+There was the toolbox, left in the darkness...%K%P
+0xA9C
+ぼくの瞳に映ったものは、それだけだった。%K%P
+That was all that I saw.%K%P
+0xAA8
+狭い通路の真ん中で、ぼくは我を失い、立ち尽くしていた。%K%P
+I forgot myself. All I could do was stand in that narrow corridor.%K%P
+0xB0C
+それからどれぐらい時間が経ったのかわからない。%K%P
+I didn't know how much time had passed.%K%P
+0xB18
+ぼくは重い工具箱と、それよりもさらに重い両足を引きずるようにして、パイプ部屋へと戻った。%K%P
+Dragging the heavy toolbox and my heavier legs, I returned to the room with the pipes.%K%P
+0xB2C
+武「よーっし、これで完了だな？」%K%P
+Takeshi「This should just about do it.」%K%P
+0xB38
+沙羅「まだ終わったわけじゃないでしょ？」%K%P
+Sara「You're not done, are you?」%K%P
+0xB44
+優「そう、これはまだ準備段階なんだから……」%K%P
+You「Nope. We're still getting ready.」%K%P
+0xB58
+武「あっ、そっか……」%K%P
+Takeshi「Oh, I see...」%K%P
+0xB6C
+武「これから、隣の発電機の修理、しなきゃなんないんだもんな」%K%P
+Takeshi「We have to repair the generator next door after we finish here.」%K%P
+0xB78
+武は額に吹き出た汗を拭った。%K%P
+Takeshi wiped away the sweat from his forehead.%K%P
+0xB8C
+優「あれっ？　少年……そんなとこで何やってんの？」%K%P
+You「Huh? Kid... what're you doing there?」%K%P
+0xBA0
+優がぼくのことに気づき、振り向いた。%K%P
+Noticing me, You turned around.%K%P
+0xBAC
+少年「工具箱……持って来たんだけど……」%K%P
+Kid「I brought the... toolbox...」%K%P
+0xBB8
+武「工具箱？」%K%P
+Takeshi「Toolbox?」%K%P
+0xBCC
+沙羅「ああ、それならもう、必要ないみたいよ？」%K%P
+Sara「It doesn't look like they need it anymore.」%K%P
+0xBD8
+少年「……えっ？」%K%P
+Kid「...What?」%K%P
+0xBEC
+優「ご、ごめんね？」%K%P
+You「Oops. Sorry 'bout that.」%K%P
+0xBF8
+優「あのバルブ、最初から閉まってたみたいなの」%K%P
+You「Turns out the valve was closed to begin with.」%K%P
+0xC0C
+武「つまり、閉めようとしても閉まらなかったのは、閉まってしまっていたからなのだ」%K%P
+Takeshi「So, no matter how much I tried to close it, it wouldn't budge because it was already shut.」%K%P
+0xC18
+少年「繰り返さなくても……わかるよ……」%K%P
+Kid「I heard you... the first time...」%K%P
+0xC2C
+武「そうか、しまったぁ！」%K%P
+Takeshi「Is that right?」%K%P
+0xC38
+少年「…………」%K%P
+Kid「...」%K%P
+0xC4C
+武「まあまあ、そう怒るなや。こういうことも、たまにはあるさ」%K%P
+Takeshi「Hey, don't be like that. These things happen sometimes.」%K%P
+0xC58
+少年「別に、怒ってなんか……いないよ……」%K%P
+Kid「I'm not... mad...」%K%P
+0xC6C
+沙羅「…………」%K%P
+Sara「...」%K%P
+0xC80
+優「どうしたの？」%K%P
+You「What's wrong?」%K%P
+0xC8C
+ぼくは、ココのことを……%K%p
+I decided to...%K%p
+0x1650
+話した
+Tell them about Coco
+0x165C
+話さないことにした
+Not tell them about Coco
+0xCCC
+……話した。%K%P
+...I told them.%K%P
+0xCD8
+少年「実は……」%K%P
+Kid「Actually...」%K%P
+0xCE4
+少年「あの女の子、また見ちゃったんだ」%K%P
+Kid「I saw that girl again.」%K%P
+0xCF8
+優「『あの女の子』って？」%K%P
+You「Whaddya mean by 'that girl'?」%K%P
+0xD04
+少年「加減圧室で消えちゃった、女の子のことだよ」%K%P
+Kid「The girl that disappeared in the compression chamber.」%K%P
+0xD10
+少年「昨夜話したでしょ？　覚えてない？」%K%P
+Kid「I told you last night. Don't you remember?」%K%P
+0xD24
+武「ああ、また例の幻覚か」%K%P
+Takeshi「Oh, your invisible friend.」%K%P
+0xD30
+少年「――幻覚なんかじゃないよ！！」%K%P
+Kid「SHE'S NOT INVISIBLE!」%K%P
+0xD44
+ぼくは声を限りに怒鳴った。%K%P
+I screamed at them as loudly as possible.%K%P
+0xD50
+沙羅「ちょ、ちょっと少年……ムキにならないでよ……」%K%P
+Sara「K-Kid, take it easy...」%K%P
+0xD5C
+沙羅「とにかく、落ち着いて……」%K%P
+Sara「Just calm down...」%K%P
+0xD68
+少年「…………」%K%P
+Kid「...」%K%P
+0xD7C
+沙羅「その女の子、どこで見かけたの？」%K%P
+Sara「Where did you see the girl?」%K%P
+0xD88
+少年「発電室の、前で……」%K%P
+Kid「In front... of the generator room...」%K%P
+0xD9C
+優「なんか話したの？」%K%P
+You「Did she say anything?」%K%P
+0xDA8
+少年「うん……」%K%P
+Kid「Yeah...」%K%P
+0xDB4
+少年「『月の精みたいに、ひとりぼっちで』とか何とかって、言ってたような気がする」%K%P
+Kid「I think she said something about being all alone like a moon sprite.」%K%P
+0xDC0
+少年「あっ、そうだ！」%K%P
+Kid「Oh, that's right!」%K%P
+0xDCC
+少年「そう言えばあの子……子守歌を唄ってた」%K%P
+Kid「She... She was singing a lullaby.」%K%P
+0xDD8
+武「子守歌？」%K%P
+Takeshi「A lullaby?」%K%P
+0xDE4
+少年「沙羅が前に唄ってたのと、同じ子守歌だったんだ……」%K%P
+Kid「It was the same as the lullaby that Sara sang before...」%K%P
+0xDF8
+武と優が、沙羅の顔をうかがう。%K%P
+Takeshi and You looked at Sara.%K%P
+0xE04
+ぼくも、沙羅の瞳をじっと見つめた。%K%P
+I focused my eyes on her too.%K%P
+0xE18
+沙羅「私……子守歌なんて……」%K%P
+Sara「I... didn't...」%K%P
+0xE2C
+沙羅「唄ったこと……ないけど……？」%K%P
+Sara「Sing any... lullaby...」%K%P
+0xE38
+少年「嘘だ！」%K%P
+Kid「Liar!」%K%P
+0xE4C
+少年「沙羅は前に、子守歌を唄ったことがあるじゃないか！」%K%P
+Kid「You did too sing a lullaby before, Sara!」%K%P
+0xE58
+少年「ぼくはちゃんと覚えてるんだよ！」%K%P
+Kid「I remember it!」%K%P
+0xE6C
+沙羅は憐れむような眼差しで、ぼくのことを見ていた。%K%P
+Sara stared at me as if she felt sorry for me.%K%P
+0xE78
+優も苦い顔をしている。%K%P
+You looked like she had a bad taste in her mouth.%K%P
+0xE8C
+武は視線をそらし、優と沙羅に耳打ちをした。%K%P
+Takeshi avoided my eyes and leaned in close to say something to You and Sara.%K%P
+0xEA0
+優と沙羅が、武のささやきを聞いて頷く。%K%P
+You and Sara listened to Takeshi whispering.%K%P
+0xEAC
+少年「なにコソコソしゃべってるんだよ！」%K%P
+Kid「What are you whispering about?」%K%P
+0xEB8
+少年「ぼくは正気だよ！　まともなんだ！」%K%P
+Kid「I'm fine! I'm not crazy!」%K%P
+0xEC4
+少年「そんな……そんな目で、ぼくのこと見ないでよ！」%K%P
+Kid「Don't... Don't you look at me like that!」%K%P
+0xED8
+武「ＯＫ、わかったわかった」%K%P
+Takeshi「Okay. Everything is fine.」%K%P
+0xEEC
+武「じゃあ、その女の子を目撃した場所に、みんなで行ってみようじゃないか」%K%P
+Takeshi「So why don't we all go to the place where you saw the girl.」%K%P
+0xEF8
+少年「行ったって……もういないよ」%K%P
+Kid「She's not there... anymore.」%K%P
+0xF04
+少年「消えちゃったんだ……」%K%P
+Kid「She disappeared...」%K%P
+0xF10
+武「そうか……だけど、もしかしたらまた、現れるかもしれないだろ？」%K%P
+Takeshi「I see... but maybe she'll show up again.」%K%P
+0xF1C
+少年「そんなこと、思ってもいないくせに……」%K%P
+Kid「It's no good. She won't...」%K%P
+0xF28
+武「俺は、俺達は、おまえの言ってることを信じてるんだ」%K%P
+Takeshi「I... Uh... Look, we believe you.」%K%P
+0xF34
+武「いや、信じることにしたんだ」%K%P
+Takeshi「I mean, we've decided to believe you.」%K%P
+0xF48
+武「な？　だからそう……自暴自棄になるなよ、少年」%K%P
+Takeshi「Alright? So... So you just keep your cool, okay, Kid?」%K%P
+0xF5C
+もはや、何も言う気がしなかった。%K%P
+I didn't feel like saying anything else.%K%P
+0xF68
+肯定されたことが、逆に悲しかった。%K%P
+Their agreeing with me was somehow sad.%K%P
+0xF74
+さっきの耳打ちの内容は、恐らく『ぼくの主張を否定しないで、適当にあしらっておこう』というような内容だったに違いない。%K%P
+I was sure that the little whispering conference they had just held went something along the lines of, 'Just agree with whatever he says.'%K%P
+0xF80
+悲しみは、ぼくの中から力を奪った。%K%P
+It depressed me and sapped all my energy.%K%P
+0xF8C
+３人に抗う気も起きなかったし、自分自身に何かを強く言い聞かせようとも思わない。%K%P
+I didn't feel like resisting the three of them or trying to give myself a pep talk.%K%P
+0xF98
+ぼくは疲れていた。もうどうにでも好きにしてくれと思っていた。%K%P
+I was tired. I thought they could do what they wanted.%K%P
+0xFA4
+『自暴自棄になるなよ、少年』%K%P
+'You just keep your cool, okay, Kid?'%K%P
+0xFB0
+武の言葉は、なんの説得力も持たなかった。%K%P
+Takeshi's words lacked conviction.%K%P
+0xFF8
+その後……。%K%P
+After that...%K%P
+0x1004
+発電室の前に戻ったが、当然のごとく、少女は現れなかった。%K%P
+When we went back in front of the generator room there was, of course, no sign of the girl.%K%P
+0x1010
+ぼくら４人は、発電室の温度が充分冷め切ったと判断できるまで、じっとドアの前で待ち続けた。%K%P
+The four of us waited outside the generator room until we could be sure that the temperature inside had cooled enough.%K%P
+0x101C
+時は冷酷であると同時に寛容だ。%K%P
+Time was cruel but forgiving.%K%P
+0x1028
+時間の経過は、絶え間なく打ち寄せる波のように……%K%P
+My feelings smoothed over slowly with time...%K%P
+0x1034
+ぼくの心の奥底でとぐろを巻いていた悲しみを、イラ立ちを、疑問を、少しずつ少しずつ少しずつさらっていった。%K%P
+Like protruding bits of a beach rounded by an endless progression of waves.%K%P
+0x1040
+気がつくと、ぼくはいつものぼくに戻っていた。%K%P
+After a while, I was back to my normal self.%K%P
+0x104C
+ただ――『さようなら』――ココの残した最後の言葉だけは、鼓膜の奥にこびりついて離れなかったけど……。%K%P
+Only Coco's parting word―'Farewell'―seemed to linger in my mind, echoing without end.%K%P
+0x1060
+……話さないことにした。%K%P
+...I decided not to tell them.%K%P
+0x106C
+どうせ力説したところで信じてもらえやしないのだ。%K%P
+The whole story wouldn't have been convincing anyway.%K%P
+0x1078
+そんなことはわかり切っている。%K%P
+I knew that for a fact.%K%P
+0x1084
+だから……%K%P
+So I handled it that way...%K%P
+0x1090
+少年「ううん、別に……なんでもないよ」%K%P
+Kid「Nothing... Nothing at all.」%K%P
+0x10A4
+ぼくはとびきりの笑みを浮かべて見せたのだった。%K%P
+Then I showed them a gleaming smile.%K%P
+0x10EC
+ともかく……これで、発電室に送り込まれていた熱水は遮断されたことになる。%K%P
+With that, we had been able to shut off the hot water flowing to the generator room.%K%P
+0x10F8
+とは言え、扉の向こうには依然として、焼けつくような熱さの蒸気が充満しているのだ。%K%P
+Even so, on the other side of the door, it was still hot enough to scald.%K%P
+0x1104
+ぼくら４人は、発電室の温度が充分冷め切ったと判断できるまで、じっとドアの前で待ち続けた。%K%P
+The four of us waited outside the generator room until we could be sure that the temperature inside had cooled enough.%K%P
+0x1110
+時は冷酷であると同時に寛容だ。%K%P
+Time was cruel but forgiving.%K%P
+0x111C
+時間の経過は、絶え間なく打ち寄せる波のように、ぼくの心に刻み込まれた鋭角な起伏を、少しずつ少しずつ少しずつさらっていった。%K%P
+My feelings smoothed over slowly with time, like protruding bits of a beach rounded by an endless progression of waves.%K%P
+0x1128
+気がつくと、ぼくは『ココとの遭遇』という極めて異常な現象さえも、客観的に静観できるようになっていた。%K%P
+After a while, I found that I could even think of my meeting with Coco in a detached, objective way.%K%P
+0x1134
+ただ――『さようなら』――ココの残した最後の言葉だけは、鼓膜の奥にこびりついて離れなかったけど……。%K%P
+Only Coco's parting word―'Farewell'―seemed to linger in my mind, echoing without end.%K%P
+0x1190
+やがて時が来て、ぼくらは恐る恐るドアを開いた。%K%P
+When we thought the time had come, we timidly opened the door.%K%P
+0x119C
+まるで銭湯の扉を開いたときのように、中からもわんと湯気が溢れ出してきた。%K%P
+It was like opening the door to a public bath. A cloud of steam hissed out of the door.%K%P
+0x11FC
+室内は信じられないぐらいに暑かった。%K%P
+The heat inside just about defied imagination.%K%P
+0x1208
+水蒸気の満ちた部屋の空気は重く、肌にまとわりつくようだ。%K%P
+The air in the steam-filled room was heavy and stuck to the skin.%K%P
+0x1214
+息を吸い込むと、ネバネバとした湯気の塊がのどを通り過ぎて行くのがわかる。%K%P
+Inhaling felt like swallowing globs of sticky hot steam.%K%P
+0x1220
+武なんかは酸欠にあえぐ魚のように、口をぱくぱくとさせていた。%K%P
+Takeshi was opening and closing his mouth like a fish out of water.%K%P

@@ -1,0 +1,426 @@
+text area offset and size:
+0xBA0
+0x18A7
+0x138
+ココ「ねえねえ、クジラさん、クジラさん？」%K%P
+Coco「Hey! Hey, Whale-san, Whale-san?」%K%P
+0x144
+ココ「今、何時ら？」%K%P
+Coco「What time is it?」%K%P
+0x150
+ココ「『午後クジらぁ～』」%K%P
+Coco「A whale of a time～」%K%P
+0x164
+ココ「にゃははははははは♪」%K%P
+Coco「Neeheehahahaha～」%K%P
+0x170
+武「お、お前……」%K%P
+Takeshi「Y-you...」%K%P
+0x17C
+武「まさかそんなクダラナイ駄洒落を言う為に、わざわざ俺を、こんなとこまで連れて来たんじゃないだろうな？」%K%P
+Takeshi「You better not have asked me to come all this way just to tell me that stupid joke.」%K%P
+0x188
+しかも、まだ『８時』だし……。%K%P
+(And it's only 8 a.m. in the morning...)%K%P
+0x19C
+ココ「違うよ？」%K%P
+Coco「No.」%K%P
+0x1A8
+ココ「ココ、たけぴょんとデートしようと思って……」%K%P
+Coco「I just wanted to go on a date with you and...」%K%P
+0x1B4
+武「で、でーと？」%K%P
+Takeshi「D-date?」%K%P
+0x1C0
+ココ「うん」%K%P
+Coco「Yeah.」%K%P
+0x1CC
+ココ「だってたけぴょん、ココに告ったでしょ？」%K%P
+Coco「Well, Takepyon, you like me, right?」%K%P
+0x1D8
+ココ「だからたけぴょんとココは、恋人どうしさんなわけで……」%K%P
+Coco「So that means we're going out...」%K%P
+0x1E4
+ココ「恋人どうしさんが愛を語らい合うのにうってつけの場所と言ったら、何と言っても定番なのは、満天の星空の下、なのであり……」%K%P
+Coco「When a boyfriend and girlfriend tell each other their true feelings, everyone knows it's best to be under a starlit sky...」%K%P
+0x1F0
+ココ「だから連れて来たんだよ？　このクジラさんのとこに……」%K%P
+Coco「That's why I brought you here! To Whale-san...」%K%P
+0x1FC
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x210
+ココ「と言うのは、うっそぴょ～ん♪」%K%P
+Coco「Actually, I'm just teasing you～」%K%P
+0x21C
+武「？？？」%K%P
+Takeshi「?」%K%P
+0x230
+ココ「たけぴょんには、もうお嫁さんが、いるんだもんね？」%K%P
+Coco「You're already married, right, Takepyon?」%K%P
+0x23C
+武「は？」%K%P
+Takeshi「Huh?」%K%P
+0x248
+ココ「照れんな、照れんなぁ～」%K%P
+Coco「Don't be shyyyy～」%K%P
+0x254
+ココ「ココ、たけぴょんのことなら、なぁ～んでも知ってるんだからぁ」%K%P
+Coco「I know eeeeeverything there is to know about you.」%K%P
+0x260
+ココ「ううん、たけぴょんのことだけじゃなくてぇ～、他のことも、み～んな、み～んな、わかるんだぁ～♪」%K%P
+Coco「And not only just you. I know everything there is to know about eeeverything～」%K%P
+0x26C
+武「他の、こと？」%K%P
+Takeshi「Everything?」%K%P
+0x278
+ココ「そうだよ？」%K%P
+Coco「Well, yeah?」%K%P
+0x284
+ココ「だってココ、ちょーのーりょく者、なんだもん」%K%P
+Coco「Of course. I'm a psychic.」%K%P
+0x290
+武「…………」%K%P
+Takeshi「...」%K%P
+0x29C
+ココ「ココにはね？　昔から、別の世界の人とお話しできる力があるの」%K%P
+Coco「For as long as I can remember, I've been able to talk with people from different worlds.」%K%P
+0x2A8
+武「別の世界って……死後の世界とか？」%K%P
+Takeshi「Different worlds meaning... the other side?」%K%P
+0x2B4
+ココ「ううん」%K%P
+Coco「Ummm...」%K%P
+0x2C0
+ココ「そういうんじゃなくて、こことは違う、別の世界のこと」%K%P
+Coco「No, not like that, just another world that isn't this one.」%K%P
+0x2CC
+武「う～ん……」%K%P
+Takeshi「Aaahhh...」%K%P
+0x2D8
+ココ「その別の世界にいる人の『視点』を借りれば、過去も未来もいっぺんにわかるんだよ？」%K%P
+Coco「If I borrow the sight from the people in the other world, I can see everything from the past and future.」%K%P
+0x2E4
+武「ふ、ふ～ん、すごいね？」%K%P
+Takeshi「Oh really. Wooow...」%K%P
+0x2F0
+ココ「例えば、２次元平面に住んでる人達には、その世界の全体像は見えないでしょ？」%K%P
+Coco「Like, the people in the second dimension, they can't really see the whole world, right?」%K%P
+0x2FC
+武「？」%K%P
+Takeshi「?」%K%P
+0x308
+ココ「ナスカの地上絵は、地上にいても見えないよねぇ？」%K%P
+Coco「You can't see those huge line drawings at Nazca, Peru, from the ground, right?」%K%P
+0x314
+ココ「ディスプレイに描いたかっちょい～メカの絵も、その絵の中の１ドットさんには、理解できないわけだし……」%K%P
+Coco「And let's say you have a really cool drawing of a robot on your computer display. One of the dots on the screen, they can't see the whole drawing...」%K%P
+0x320
+武「は、はあ……」%K%P
+Takeshi「Uh, yeah...?」%K%P
+0x32C
+ココ「それを見るにはどうすればいい？」%K%P
+Coco「So what can they do to see the whole picture?」%K%P
+0x338
+ココ「ナスカの地上絵だったら、上空から見下ろせばいいし……」%K%P
+Coco「Well, for the pictures at Nazca, all you have to do is go up in the air and look down...」%K%P
+0x344
+ココ「かっちょい～メカの絵だったら、画面から離れて、３次元空間内から見ればいいよね？」%K%P
+Coco「And for the picture on the display? If you can get a little bit away from the screen, into the third dimension, you could see it, right?」%K%P
+0x350
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x35C
+ココ「ココ達がいる世界は３次元空間でしょ？」%K%P
+Coco「We're in the third dimension, right?」%K%P
+0x368
+ココ「３次元空間が、時間軸方向に移動してるんだ」%K%P
+Coco「Only the third dimension keeps moving on forward in time.」%K%P
+0x374
+ココ「で、その様子を見るには、３次元空間内にいたんじゃ無理じゃない？」%K%P
+Coco「So, in order to see it moving, you can't just stay in the third dimension.」%K%P
+0x380
+ココ「４次元空間の中から、ココ達の世界を見下ろさなくちゃいけないの」%K%P
+Coco「You'd have to look down at everything from the fourth dimension.」%K%P
+0x38C
+あっ、そう言えば、空が『話し逃げ』をしたときにも、同じような話題が……。%K%P
+(Come to think of it, didn't Sora mention something like this...?)%K%P
+0x398
+ココ「でも、ココは人間だし、時間の流れから脱出することはできないし……」%K%P
+Coco「But I'm human, and I can't get out of the flow of time...」%K%P
+0x3A4
+ココ「だから、４次元空間の世界に住んでる人から、視点を借りるんだ」%K%P
+Coco「So I just borrow the viewpoint of the people from the fourth dimension.」%K%P
+0x3B0
+武「じゃあ、別の世界にいる人って言うのは、その４次元人間のことを言ってるのか？」%K%P
+Takeshi「Then what you're trying to say is that the people from the other side are really people from the fourth dimension?」%K%P
+0x3C4
+ココ「うん♪」%K%P
+Coco「Yep～」%K%P
+0x3D0
+武「そんなバカなこと……」%K%P
+Takeshi「That's the dumbest thing I've ever...」%K%P
+0x3DC
+ココ「できるんだも～ん」%K%P
+Coco「Well, I caaan.」%K%P
+0x3E8
+ココ「できちゃうんだも～ん」%K%P
+Coco「I really caaaan!」%K%P
+0x3F4
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x400
+ココ「実際にできちゃうんだから……」%K%P
+Coco「I really, really can...」%K%P
+0x50C
+ココ「……しょうがないでしょ？」%K%P
+Coco「...Great, huh?」%K%P
+0x518
+少年「第３視点、だ……」%K%P
+Kid「It's the third eye...」%K%P
+0x524
+ココ「そうとも言う」%K%P
+Coco「Yeah, you could call it that too.」%K%P
+0x530
+少年「じゃあ、ぼくが過去のことを全部知ってるのも……」%K%P
+Kid「Then you can tell everything about my past...」%K%P
+0x53C
+ココ「う～ん、ホクたんの場合は、ココのとは少し違うのかも」%K%P
+Coco「Umm, well, I don't really think I can help you, Hokutan.」%K%P
+0x548
+少年「えっ？」%K%P
+Kid「Eh?」%K%P
+0x554
+ココ「ホクたんは、本当のホクたんじゃないでしょ？」%K%P
+Coco「Because you aren't really Hokutan, right?」%K%P
+0x560
+少年「…………」%K%P
+Kid「.........」%K%P
+0x56C
+ココ「ホクたんは、視点を借りてるんじゃないんだよ、きっと」%K%P
+Coco「So you aren't borrowing anyone's perspective, I think.」%K%P
+0x578
+ココ「ホクたんの場合は……『視点』……そのものなんじゃないかな？」%K%P
+Coco「In your case, Hokutan, I'm pretty sure you're just... 'perspective' itself, right?」%K%P
+0x584
+少年「どういう、こと？」%K%P
+Kid「What do you mean?」%K%P
+0x5AC
+ココ「ブリックヴィンケルさん」%K%P
+Coco「Blick Winkel-san.」%K%P
+0x5B8
+少年「……えっ？」%K%P
+Kid「...What?」%K%P
+0x5C4
+ココ「ブリックヴィンケルさんなら、全部知ってると思うよ？」%K%P
+Coco「I'm pretty sure Blick Winkel-san knows everything.」%K%P
+0x5D0
+少年「ブリック……ヴィンケル……」%K%P
+Kid「Blick... Winkel...」%K%P
+0x5DC
+――と、そのとき！%K%P
+―Just then!%K%P
+0x638
+――ガ、ガガ、ガガガガガガガガ、ガッゴンッ！%K%P
+―Ka-ka-ka-ka-KABOOOM!%K%P
+0x644
+強烈な音が鼓膜を突き刺した。%K%P
+A massive boom rocked our eardrums.%K%P
+0x650
+反射的に頭上を見る。%K%P
+We all reflexively looked up.%K%P
+0x65C
+宇宙の天蓋が、張り裂けていた……。%K%P
+The ceiling of our world, the cosmos, had shattered...%K%P
+0x684
+直後、大量の海水が、雪崩のように降り注いだ。%K%P
+Immediately, a large amount of seawater rained down on us like an avalanche.%K%P
+0x690
+砕け散った隔壁のカケラが、弾丸のごとく床を撃つ。%K%P
+Shards from the shattered wall cracked off and shot into the floor like bullets.%K%P
+0x69C
+視線を戻した。ココの姿はない。%K%P
+I looked back, but Coco was gone.%K%P
+0x6A8
+少年「ココッ！」%K%P
+Kid「Coco!」%K%P
+0x6B4
+答える者はいなかった。%K%P
+Nobody was there to respond.%K%P
+0x6C0
+流れ落ちる海水の音にかき消されて、自分の声さえ聞こえない。%K%P
+All the sound was drowned out from the water rushing in, such that we could hardly even hear our own voices.%K%P
+0x6CC
+飛び散る水しぶき……舞い上がる白い霧……。%K%P
+Droplets of water were falling from above... White mist was rising from below...%K%P
+0x6D8
+水位はぐんぐんと上昇を続けている。%K%P
+The water level was rising quickly.%K%P
+0x6E4
+部屋の中央に浮かんでいたクジラは、天蓋から降り注ぐ滝に打たれ、ぐんと身を反らせて落下し、フロアの上に横たわった。%K%P
+An incoming jet of water from the ceiling struck the whale, which was suspended in the center of the room. It bent backward hard, fell, and lay on the floor.%K%P
+0x6F0
+大きな口はぽっかりと開き、瞳は虚ろだった。%K%P
+Its big mouth flapped open, its pupils empty.%K%P
+0x6FC
+クジラは死んでしまった……。%K%P
+The whale was dead...%K%P
+0x708
+ぼくは身をひるがえし、水をかき分けて、部屋を飛び出した。%K%P
+I turned around, cutting through the water, and fled from the room.%K%P
+0x750
+ゴリゴリと音をたてて、クジラ部屋の扉は閉まった。%K%P
+The door to the Cosmic Whale room closed with a gurgling sound.%K%P
+0x75C
+沙羅「お兄ちゃん！　大丈夫！？」%K%P
+Sara「Onii-chan! Are you okay!?」%K%P
+0x770
+声に吸い寄せられるように、振り向く。%K%P
+I spun around, drawn by Sara's voice.%K%P
+0x77C
+沙羅が立っていた。肩で息をしている。%K%P
+She was standing there, shoulders heaving.%K%P
+0x788
+沙羅「警報が鳴ったから、飛んで来たんだけど……」%K%P
+Sara「I ran here as soon as the alarm sounded, but...」%K%P
+0x794
+沙羅の肩越し……通路の彼方から、こちらに向かって駆けて来るみんなの姿が見えた。%K%P
+Looking over Sara's shoulder... I could see people running toward us from the corridor.%K%P
+0x7A0
+再び、閉ざされた扉を見る。水は洩れていない。%K%P
+I returned my gaze to the door. It didn't appear to be leaking.%K%P
+0x7AC
+クジラ部屋は水没してしまったようだが、他のエリアへの浸水は、どうにかまぬがれたらしい。%K%P
+The Cosmic Whale room was flooded, but it looked as though the other areas were safe. For the time being.%K%P
+0x7C0
+沙羅「ねえ、お兄ちゃん……」%K%P
+Sara「Hey, onii-chan...」%K%P
+0x7CC
+少年「？」%K%P
+Kid「?」%K%P
+0x7D8
+沙羅「血」%K%P
+Sara「Blood.」%K%P
+0x7E4
+少年「えっ？」%K%P
+Kid「Eh?」%K%P
+0x7F0
+沙羅「血、出てる……」%K%P
+Sara「You're bleeding.」%K%P
+0x7FC
+沙羅がぼくの左手を指差した。%K%P
+Sara pointed to my left hand.%K%P
+0x808
+手の平を見る。%K%P
+I looked at my palm.%K%P
+0x814
+どこでケガしたんだろう？%K%P
+Where had I gotten a cut?%K%P
+0x820
+気づかないうちに、落ちてきたカケラに撃たれたのか？%K%P
+Had a shard slashed me when it fell, and I just hadn't noticed?%K%P
+0x82C
+それとも、出口をくぐるときに、どこか尖った部分に引っかけてしまったのだろうか？%K%P
+Or had I snagged it on something when I was trying to get out of the door?%K%P
+0x838
+ともかく、手の平の端から、ポタポタと真っ赤な鮮血がしたたり落ちていた。%K%P
+At any rate, bright red blood was dripping from the side of my hand.%K%P
+0x844
+沙羅「平気？」%K%P
+Sara「You okay?」%K%P
+0x850
+沙羅は負傷したぼくの手を取り、ポケットから白いハンカチを出して、傷口にそえた。%K%P
+Sara took a white handkerchief from her pocket and took my injured hand in hers, binding the wound.%K%P
+0x85C
+沙羅「痛い？」%K%P
+Sara「Does it hurt?」%K%P
+0x868
+ぼくは首を振った。%K%P
+I shook my head.%K%P
+0x874
+事実、痛みなど少しも感じることはなかった。%K%P
+The truth was, I didn't feel anything.%K%P
+0x880
+それよりも……こんなかすり傷のことよりも……。%K%P
+More important... than the scratch on my hand...%K%P
+0x88C
+少年「ブリック……ヴィンケル……」%K%P
+Kid「Blick... Winkel...」%K%P
+0x8A0
+沙羅「えっ？」%K%P
+Sara「Eh?」%K%P
+0x8AC
+沙羅が首を傾げる。%K%P
+Sara tilted her head questioningly.%K%P
+0x8B8
+ケガのことよりも、浸水のことよりも、何よりも、ぼくにはココの言葉が気になってしかたなかった。%K%P
+More than the injury, more than the flooding, more than anything, Coco's words were running through my head.%K%P
+0x8F8
+ココ「ブリックヴィンケルさん」%K%P
+Coco「Blick Winkel-san.」%K%P
+0x904
+『ブリックヴィンケル』%K%P
+'Blick Winkel'.%K%P
+0x910
+『Ｂｌｉｃｋ．．．Ｗｉｎｋｅｌ．．．』%K%P
+'Blick... Winkel...'%K%P
+0x91C
+少年「キミハ……ダレ？」%K%P
+Kid「Who... are you?」%K%P
+0x928
+少年「ボクハ……ダレ？」%K%P
+Kid「Who... am I?」%K%P
+0x934
+まただ……。%K%P
+Again...%K%P
+0x940
+またあの声が聞こえる。%K%P
+I could hear that voice again.%K%P
+0x94C
+それはぼくの声なのか？　ぼくではない誰かの声なのか？%K%P
+Was it my voice? Or someone else's?%K%P
+0x958
+左の手の平を、じっと眺めた。%K%P
+I kept staring at the palm of my left hand.%K%P
+0x964
+白いハンカチに、じわじわと真っ赤なシミが広がって行く。%K%P
+A red stain spread slowly across the white fabric.%K%P
+0x970
+少年「キミハ……ダレ？」%K%P
+Kid「Who... are you?」%K%P
+0x97C
+少年「ボクハ……ダレ？」%K%P
+Kid「Who... am I?」%K%P
+0x988
+ココ「ホクたんは、本当のホクたんじゃないでしょ？」%K%P
+Coco「Because you aren't really Hokutan, right?」%K%P
+0x994
+ココ「ブリックヴィンケルさんなら、全部知ってると思うよ？」%K%P
+Coco「I'm pretty sure Blick Winkel-san knows everything.」%K%P
+0x9A0
+『ブリックヴィンケル』%K%P
+'Blick Winkel'.%K%P
+0x9AC
+『Ｂｌｉｃｋ．．．Ｗｉｎｋｅｌ．．．』%K%P
+'Blick... Winkel...'%K%P
+0x9B8
+血……。%K%P
+Blood...%K%P
+0x9C4
+ぬらぬらと艶めく紅蓮のシミ……。%K%P
+The wet, crimson stain spread...%K%P
+0x9D0
+ポタリ、ポタリと落ちていく真っ赤な血液……。%K%P
+And blood fell in thick droplets...%K%P
+0x9DC
+足元の水たまりにしずくがはねた。%K%P
+Landing in the puddles at my feet.%K%P
+0x9E8
+血は煙のように渦を巻き、流れ、海水の中へと溶けて行く。%K%P
+It spread out in the water like smoke, to eventually dissolve into the seawater.%K%P
+0x9F4
+その瞬間――。%K%P
+Just then―%K%P
+0xA18
+――ぼくの視界は真紅に染まった。%K%P
+―My vision grew red.%K%P

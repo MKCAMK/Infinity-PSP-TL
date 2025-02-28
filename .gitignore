@@ -1,14 +1,20 @@
 /workdir/
 /bin/
 
+/e17_mac*/
+/e17_etc*/
+/e17_iso_extracted/
+/n7_mac*/
+/n7_etc*/
+/n7_iso_extracted/
 /r11_mac*/
 /r11_etc*/
 /r11_iso_extracted/
 
-/n7_iso_cn_extracted/
-/n7_etc_cn/
 /e17_iso_cn_extracted/
 /e17_etc_cn/
+/n7_iso_cn_extracted/
+/n7_etc_cn/
 
 /text/tmp/
 /text/font/FONT*
@@ -19,8 +25,7 @@
 /iso/*.dax
 /iso/*.cso
 
-/patches/xdelta3/
-/patches/bip/
+/patch/*.xdelta
 
 /*.exe
 /*.dll

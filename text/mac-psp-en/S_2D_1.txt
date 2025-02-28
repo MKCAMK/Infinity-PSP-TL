@@ -1,0 +1,2157 @@
+text area offset and size:
+0x51B8
+0x76DC
+0x74
+夜になった。%K%P
+It was nighttime.%K%P
+0x80
+海の中はわずかに、先程よりも暗い。%K%P
+But deep below the ocean's surface, it was only slightly darker than before.%K%P
+0x8C
+幸いにも、ＬｅＭＵの被害は拡大していなかった。%K%P
+Fortunately, the damage to LeMU hadn't worsened.%K%P
+0x98
+武の作ってくれたタツタサンドで、軽い夕食を取る。%K%P
+We had a light dinner, eating the tuna sandwiches that Takeshi had made.%K%P
+0xA4
+ちなみに例の冷凍マグロは、誰にもさばけないということで廃棄された。%K%P
+Incidentally, we had gotten rid of that frozen tuna because nobody knew how to cut it up.%K%P
+0xB0
+食事を終えてしまうと、もう何もやることはなくなってしまった。%K%P
+After eating, there was really nothing to do.%K%P
+0xBC
+武「ふぁ～～～～～～～～～～～～あっと」%K%P
+Takeshi「*Yaaaaaaaaawn*...」%K%P
+0xC8
+優「ふぁ～～～～～～～～～～～～あ」%K%P
+You「*Yaaaaaaaaawn*...」%K%P
+0xD4
+少年「ふぁ～～～～～～～～～～～～あ」%K%P
+Kid「*Yaaaaaaaaawn*...」%K%P
+0xE0
+つぐみ「ふぁ～～～～～～～～～～～～あ」%K%P
+Tsugumi「*Yaaaaaaaaawn*...」%K%P
+0xEC
+空「ふぁ～～～～～～～～～～～～あ」%K%P
+Sora「*Yaaaaaaaaawn*...」%K%P
+0xF8
+沙羅「ふぁ～～～～～～～～～～～～あ」%K%P
+Sara「*Yaaaaaaaaawn*...」%K%P
+0x104
+武のした欠伸は、次々と皆に伝染していった。%K%P
+Takeshi's yawn was contagious.%K%P
+0x118
+沙羅「それにしても……眠いねぇ」%K%P
+Sara「Gosh... I'm sleepy.」%K%P
+0x124
+武「まぁな……。特にこれと言って、することもないし」%K%P
+Takeshi「Well... There's really nothing to do.」%K%P
+0x138
+皆椅子に座り、身体を投げ出し、ぼけーっと過ごしている。%K%P
+Everyone was slouched in chairs, just spacing out.%K%P
+0x144
+差し迫った危険はないが、事態の進展もない。%K%P
+There was no impending danger. No new developments.%K%P
+0x150
+取り巻く状況の変わらなさが、この停滞した時間を生んでいた。%K%P
+The situation we were in remained unchanged, and it somehow felt as though time had stopped.%K%P
+0x164
+優「倉成ー、だらしないぞぉ……」%K%P
+You「Kuranari, you're such a slob...」%K%P
+0x170
+優はそう言ったが、その声も眠そうだった。%K%P
+You said that in a tired-sounding voice.%K%P
+0x17C
+優「だらだらするなよぉ……」%K%P
+You「And stop dawdling...」%K%P
+0x190
+武「でもなぁ、今更館内をうろうろ歩き回ったって、大した意味はないだろ？」%K%P
+Takeshi「But there's no reason to go wandering around the complex now, right?」%K%P
+0x19C
+武「結局……助けが来るまで、待つしかないんじゃないか？」%K%P
+Takeshi「We're just... gonna have to wait for help to come anyway, right?」%K%P
+0x1B0
+優「あっ、そう……」%K%P
+You「Yeah... I suppose...」%K%P
+0x1C4
+優「あーあ、さてさて、あたしゃあちょっくら出かけてきますかねぇ……はぁ、どっこいしょ」%K%P
+You「Alright... I'm off for a little bit...」%K%P
+0x1D8
+首をコキコキやりながら、優は腰をあげた。%K%P
+Rubbing her shoulders, You stood up.%K%P
+0x1EC
+沙羅「あれ？　先輩、どこ行くんですか？」%K%P
+Sara「What? Are you going somewhere?」%K%P
+0x1F8
+優「え、うん。どこってわけじゃないけど、散歩にでも……」%K%P
+You「Yeah. Nowhere in particular. Just a walk...」%K%P
+0x20C
+優「身体動かさないと余計に疲れるのよね、私……」%K%P
+You「I've got to move around or I'll get tired...」%K%P
+0x220
+沙羅「あっ！　拙者、いいこと思いついたでござるよ」%K%P
+Sara「Hey! I've got a great idea.」%K%P
+0x234
+沙羅が手を挙げて立ち上がった。%K%P
+Sara raised her hand and stood.%K%P
+0x240
+優「いいこと？」%K%P
+You「An idea?」%K%P
+0x24C
+沙羅「みんなで、身体を動かすような遊びをするでござる」%K%P
+Sara「Ladies and gentleman, we shall partake in a game to give us some exercise.」%K%P
+0x258
+優「いいけど……例えば、どんな遊び？」%K%P
+You「Alright, but what kind of game?」%K%P
+0x26C
+沙羅「忍者ごっこ」%K%P
+Sara「Ninja tag.」%K%P
+0x280
+優「そ、それは、ちょっとねぇ……」%K%P
+You「That might be a bit...」%K%P
+0x29C
+空「鬼ごっこなんて、どうですか？」%K%P
+Sora「Well, how about normal tag?」%K%P
+0x2A8
+どうやら、空も乗り気なようだった。%K%P
+Sora seemed up for the idea.%K%P
+0x2BC
+優「まあ、それならいいかな」%K%P
+You「I suppose that would be okay.」%K%P
+0x2D0
+優「おしっ！　みんなでやろう」%K%P
+You「Alright. Everybody, let's play.」%K%P
+0x2EC
+武「お、おいおい。なんで、そんな子供の遊びなんかを……」%K%P
+Takeshi「Hey, hey. You expect me to play some kid's game...?」%K%P
+0x300
+優「ところで、少年はどうする？　もち、参加するよね？」%K%P
+You「What about you, Kid? In or out?」%K%P
+0x30C
+少年「え？　ぼくも？」%K%P
+Kid「What? Me too?」%K%P
+0x318
+優「だって、みんな参加するって言ってるんだよ？　少年もやらなきゃ」%K%P
+You「We've been talking about everyone participating. So you're playing too.」%K%P
+0x334
+つぐみ「私は参加しないわ」%K%P
+Tsugumi「I'm not going to play.」%K%P
+0x350
+武「ちなみに、俺もだ」%K%P
+Takeshi「I'm out too.」%K%P
+0x378
+優「もとい。『つぐみ以外のみんな』は参加するって言ってるんだよ？」%K%P
+You「I meant that everyone apart from Tsugumi is playing.」%K%P
+0x38C
+武「俺も不参加だって！」%K%P
+Takeshi「I said I'm out!」%K%P
+0x398
+少年「うーん……」%K%P
+Kid「Hmmmm...」%K%P
+0x3A4
+少年「わかった。ぼくも参加するよ」%K%P
+Kid「Alright. I'm in.」%K%P
+0x3B8
+確かにぼくも、この退屈さ加減には辟易していたところだった。%K%P
+I was pretty much sick of the boredom.%K%P
+0x3CC
+優「よーし、決まりね！」%K%P
+You「Alright. It's settled!」%K%P
+0x3E0
+優「田中選手、松永選手、茜ヶ崎選手、倉成選手、少年選手――以上、５名の方がエントリーされました♪」%K%P
+You「We have five competitors vying for the title of champion: Tanaka, Matsunaga, Akanegasaki, Kuranari, and the Kid.」%K%P
+0x3EC
+武「………………」%K%P
+Takeshi「.........」%K%P
+0x408
+沙羅「でも、ただの鬼ごっこ、っていうだけじゃツマラナイと思いません？」%K%P
+Sara「But don't you think normal tag will be boring?」%K%P
+0x41C
+優「そうねぇ……」%K%P
+You「You're right...」%K%P
+0x438
+空「缶蹴りにしてみては、いかがでしょう？」%K%P
+Sora「How about kick the can?」%K%P
+0x444
+少年「空って、意外と原始的な遊びを知ってるんだね……」%K%P
+Kid「Sora, you sure have good grasp of simple games like this...」%K%P
+0x458
+優「うーん、そういうんじゃなくて……何かこう、変わった趣向が欲しいのよねぇ」%K%P
+You「Not that... Something a little out of the ordinary.」%K%P
+0x46C
+考え込む一同。%K%P
+We all thought.%K%P
+0x478
+すると……%K%P
+And then...%K%P
+0x48C
+つぐみ「はぁ……」%K%P
+Tsugumi「*Sigh*...」%K%P
+0x4A0
+つぐみ「仕方ないわね」%K%P
+Tsugumi「Oh well.」%K%P
+0x4B4
+つぐみが気だるそうに椅子から立ち上がった。%K%P
+Tsugumi stood up from her chair sluggishly.%K%P
+0x4C0
+そのまま、部屋の隅へスタスタと歩いていき……%K%P
+She walked briskly toward the corner of the room...%K%P
+0x524
+ぱちん、と電気のスイッチをオフにした。%K%P
+And flipped off the light switch.%K%P
+0x540
+武「な、なんだよいきなり。暗いじゃないか」%K%P
+Takeshi「Wh-what are you thinking? It's dark.」%K%P
+0x54C
+つぐみ「どう？　これで気が済んだ？」%K%P
+Tsugumi「How about that? Satisfied?」%K%P
+0x558
+みんな「？？」%K%P
+Everyone「?」%K%P
+0x56C
+つぐみ「もう、うんざり……」%K%P
+Tsugumi「I'm fed up...」%K%P
+0x578
+つぐみ「私までオカシクなりそうだわ」%K%P
+Tsugumi「Even I'm about to go crazy.」%K%P
+0x58C
+みんな「？？？？」%K%P
+Everyone「?」%K%P
+0x5C8
+つぐみは、ぼくらを忌々しげに一瞥すると、部屋を出て行った。%K%P
+Tsugumi shot us a nasty look and left the room.%K%P
+0x5DC
+優「なに……あれ？」%K%P
+You「What... was that about?」%K%P
+0x5E8
+沙羅「さぁ？」%K%P
+Sara「Who knows?」%K%P
+0x5F4
+空「騒がしいのが、気に障ったのでしょうか？」%K%P
+Sora「Maybe we were talking too much for her.」%K%P
+0x600
+少年「でも、だからって、電気消すことないんじゃないのかな」%K%P
+Kid「But still, why turn out the lights?」%K%P
+0x61C
+武「私まで……って、オカシイのはあいつの方だろ？」%K%P
+Takeshi「What does she mean 'even' her? She's the only one who's lost it.」%K%P
+0x630
+武「でもまあ、時間が経てば、ちゃんとまた戻ってくるさ」%K%P
+Takeshi「But she'll be back after a while.」%K%P
+0x644
+優「ねえ、少年？　悪いんだけど、電気つけてきてくれる？」%K%P
+You「Hey, Kid. Would you mind getting the light?」%K%P
+0x650
+少年「うん」%K%P
+Kid「Sure.」%K%P
+0x65C
+ぼくが照明のスイッチのところまで行こうとすると……%K%P
+I went to go switch on the lights...%K%P
+0x670
+沙羅「ちょっと待って！」%K%P
+Sara「Wait!」%K%P
+0x684
+少年「どうしたの？」%K%P
+Kid「What is it?」%K%P
+0x698
+沙羅「せっかくだから、このままでやろうか？」%K%P
+Sara「Since the lights are off, why don't we try the game with them off?」%K%P
+0x6AC
+少年「え？」%K%P
+Kid「Huh?」%K%P
+0x6B8
+沙羅「暗いところで、鬼ごっこ……じゃないや、缶蹴りをするの」%K%P
+Sara「We'll play tag... No... Let's try something with this!」%K%P
+0x6C4
+沙羅はテーブルに置いてあった空き缶をひとつ手に取った。%K%P
+Sara took one of the empty cans from the table.%K%P
+0x6D8
+沙羅「名づけて『ヤミオニ』」%K%P
+Sara「We'll call it 'kick the can in the dark'.」%K%P
+0x6EC
+優「おもしろそうじゃない♪　うん、それで決定！」%K%P
+You「That sounds cool. Let's go with that!」%K%P
+0x708
+空「私も賛成です」%K%P
+Sora「I concur.」%K%P
+0x714
+少年「普通の鬼ごっこよりも、スリリングだね」%K%P
+Kid「It's a bit more exciting than normal tag.」%K%P
+0x720
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x734
+優「当然、倉成もＯＫだよね？」%K%P
+You「Of course, Kuranari's okay with it, right?」%K%P
+0x750
+武「ふぅ……。ったく、しょーがねぇな」%K%P
+Takeshi「Geez. Whatever.」%K%P
+0x788
+かくして、ヤミオニは全員一致（つぐみを除く）で決行されることになった。%K%P
+So we unanimously agreed (except for Tsugumi) to play 'kick the can'.%K%P
+0x794
+まずは、ジャンケンで鬼を決めるわけだが……%K%P
+We decided who was 'it' using rock, paper, scissors.%K%P
+0x7F0
+沙羅「せーの、チッケッピ！」%K%P
+Sara「Ready, Ro Sham Bo!」%K%P
+0x804
+武「ぐわっ、負けたっ！！」%K%P
+Takeshi「Damn. I lost!」%K%P
+0x810
+……いきなり、武がひとり負けした。%K%P
+...Takeshi was out on the first try.%K%P
+0x81C
+優「じゃ、倉成が最初の鬼ってぇことで決定！」%K%P
+You「Alright. So Kuranari is 'it' first.」%K%P
+0x830
+沙羅「けってー♪」%K%P
+Sara「Then it's settled.」%K%P
+0x84C
+空「頑張ってくださいね」%K%P
+Sora「Good luck.」%K%P
+0x860
+皆、にこにこと武のことを見ている。%K%P
+Everybody was grinning at Takeshi.%K%P
+0x86C
+武は、これ以上ないくらい悔しそうだ。%K%P
+Takeshi looked about as sorry as it was possible for him to look.%K%P
+0x878
+少年「はい。よろしく、武」%K%P
+Kid「Here you go, Takeshi.」%K%P
+0x884
+ぼくは空き缶を武に手渡した。%K%P
+I handed the empty can to Takeshi.%K%P
+0x898
+優「でもって、隠れられるエリアはこの３階全部っ！　よぉーしみんな、かぁーくれーるぞぉーっ！！」%K%P
+You「You can hide anywhere as long as it's on the third floor. Alright, everyone, let's hide!」%K%P
+0x8AC
+優「よーい……」%K%P
+You「Ready...」%K%P
+0x8B8
+武「ち、ちょっと待ったぁ！」%K%P
+Takeshi「W-wait a sec!」%K%P
+0x8CC
+優が片手をあげて号令をかけるのを、武は慌てて止めた。%K%P
+Takeshi held up a hand, hurriedly stopping You from sending everyone off.%K%P
+0x8E8
+武「優お前、今なんて言った！？」%K%P
+Takeshi「You, what did you just say?」%K%P
+0x8FC
+優「隠れるぞぉーっ」%K%P
+You「Let's hide.」%K%P
+0x908
+武「違う、その前」%K%P
+Takeshi「No. Before that.」%K%P
+0x914
+優「隠れられるのは３階全部」%K%P
+You「You can hide anywhere on the third floor.」%K%P
+0x928
+武「……マジかよ！！」%K%P
+Takeshi「...Are you serious?」%K%P
+0x934
+武「会議室の中とかじゃなくてか！？」%K%P
+Takeshi「Not just the conference room?」%K%P
+0x948
+優「この部屋だけじゃ狭いし、隠れられるとこが少ないじゃない」%K%P
+You「This room is too small. And there aren't that many places to hide.」%K%P
+0x954
+武「だからって３階全部かよ！！」%K%P
+Takeshi「But the WHOLE third floor?」%K%P
+0x968
+優「あー、勿論、ここから歩いていけないエリアはダメだよ。非常通路とか、階段に隠れるのもナシ」%K%P
+You「Oh, of course the areas that can't be reached by walking from here are off limits. Same for the emergency corridors and stairs.」%K%P
+0x974
+武「それでも広すぎるわっ！！」%K%P
+Takeshi「That's still too big!」%K%P
+0x988
+武「鬼が不利すぎる。ひとり捜してる間に、絶対他の奴にやられるぞ……」%K%P
+Takeshi「It's not fair to the person that's 'it'. While he's looking for one person, someone else will definitely kick the can.」%K%P
+0x99C
+優「いいじゃない、そのくらい」%K%P
+You「I think it's fine.」%K%P
+0x9A8
+武「良くない。ゲームが成り立たない。切実な問題だ」%K%P
+Takeshi「It's not fine. The game won't work. This is a MAJOR problem.」%K%P
+0x9BC
+優「もう、文句が多いなぁ」%K%P
+You「Gosh. You sure complain a lot.」%K%P
+0x9D8
+空「まぁまぁ。確かにハンデがありますね。そうですね……」%K%P
+Sora「Well, he would certainly appear to be at a disadvantage...」%K%P
+0x9EC
+空「それでは、３階フロアの照明はすべて落としますが……代わりに、音がよく聞こえるようにしましょうか」%K%P
+Sora「I will dim the lights on the third floor... but in return, I will make it so that sounds carry better.」%K%P
+0x9F8
+空「音が大きく聞こえれば、水のある通路を誰かが移動していればわかります。これなら、鬼の人が有利ですね」%K%P
+Sora「If sounds carry, then you can hear when someone moves across a corridor with water. That will give the person who is 'it' an advantage.」%K%P
+0xA04
+空「それから私も、移動中の場所がわかるようにします。足音を合成して、音声変換機に発振しますから……」%K%P
+Sora「And I will make it so that you know when people are moving. I will synthesize footsteps and play the sound on the voice converters.」%K%P
+0xA10
+武「ＯＫ、そうしてくれ」%K%P
+Takeshi「Okay, sounds good.」%K%P
+0xA24
+空「あ、でも……もし缶に辿り着いたら、私、どうしましょうか？」%K%P
+Sora「Oh, but... what should I do if I should get to the can first?」%K%P
+0xA30
+少年「えっ？　あっ……」%K%P
+Kid「Huh? Oh...」%K%P
+0xA44
+武「ああそうか、空は缶が蹴れないじゃねーか！！」%K%P
+Takeshi「That's right. You can't kick the can!」%K%P
+0xA50
+今更気がついた。鬼ごっこなら、瞬間移動を禁止するだけでもよかったかもしれないが……。%K%P
+We'd only just noticed. If we played tag, we would have to ban Sora from jumping about as an image...%K%P
+0xA6C
+沙羅「じゃあ、私がペアになってあげる」%K%P
+Sara「Then I'll team up with you.」%K%P
+0xA78
+沙羅「鬼んときも、逃げて隠れるときも、空と私は常に半径１ｍ以内にいなくちゃいけない、ってことにするの」%K%P
+Sara「We'll make it so that Sora and I have to be within a meter of each other when we hide or when we are 'it'.」%K%P
+0xA8C
+沙羅「そうすれば、私が缶を蹴ればいいんだし……」%K%P
+Sara「So I can kick the can...」%K%P
+0xAA0
+沙羅「ね？　そうしよ？」%K%P
+Sara「Okay? Let's try that.」%K%P
+0xAB4
+空「はい、お願いします」%K%P
+Sora「Okay. Thanks.」%K%P
+0xAC8
+それに加え、空は生体反応の検出やＬｅＭＵ内のモニターを絶対に使わない……という約束事が決められた。%K%P
+On top of that, we made Sora promise not to use the bio scan or LeMU to monitor the location of anyone.%K%P
+0xAD4
+少年「うん、それなら大丈夫だね」%K%P
+Kid「Yeah, that makes it fair then.」%K%P
+0xAE8
+優「おーし、準備よーし」%K%P
+You「Alright. All set.」%K%P
+0xAFC
+各人、了解ができたようだ。%K%P
+It looked like everyone was ready.%K%P
+0xB10
+武「んじゃ、数えるぞぉ～？」%K%P
+Takeshi「So I'll count.」%K%P
+0xB24
+武「いーち、にー、さーん……」%K%P
+Takeshi「O-n-e, t-w-o, t-h-r-e-e...」%K%P
+0xB30
+武が目を閉じて数え始めたのを合図に、ぼくらは会議室を飛び出した。%K%P
+As Takeshi started counting, we dashed out of the conference room.%K%P
+0xB74
+一同、一塊りとなって会議室から離れていこうとする。%K%P
+We left the room in a group.%K%P
+0xB9C
+バシャン、バシャン、バシャン……。%K%P
+Splash, splash, splash...%K%P
+0xBA8
+いつもよりも、水を踏みしめる音が低く、そして深い。%K%P
+The sound of our stepping through water sounded deeper than before.%K%P
+0xBB4
+（なるほどぉ……『音を大きくする』ってのは、こういうことね……）%K%P
+(I see... So this is what Sora meant by 'making the sound carry better'...)%K%P
+0xBC0
+自分の音を他人の音と間違わないように、反響音にも気をつけたほうがいいかもしれない。%K%P
+I thought that I'd have to pay attention to which sounds were mine and which were others'.%K%P
+0xBCC
+おまけにぼくらは、『鬼』と『鬼以外』の足音を見分けなければならない。%K%P
+And we'd have to determine which footsteps belonged to the person that was 'it'.%K%P
+0xBD8
+その点、鬼は自分以外の足音は、すべて敵なのだ。%K%P
+But for the person that was 'it', it was easier because everyone else was the enemy.%K%P
+0xBE4
+これでぼくらが断然有利、というハンデはかなり軽減された。%K%P
+That pretty much negated any advantage we might have had.%K%P
+0xBF0
+と思えたのだが……%K%P
+At least that was what I thought.%K%P
+0xC04
+しばらく走り続け、会議室から距離が離れた頃だ。%K%P
+After we had run a fair bit...%K%P
+0xC28
+優「はい、すとーっぷ！！」%K%P
+You「Okay, stop!」%K%P
+0xC34
+先頭を走っていた優がぼくらを静止させた。%K%P
+You, who had been running at the front of the pack, stopped us.%K%P
+0xC40
+少年「どうかしたの？」%K%P
+Kid「What's up?」%K%P
+0xC54
+沙羅「先輩、早く隠れないと見つかっちゃいますよ」%K%P
+Sara「If you don't hide, he'll find you.」%K%P
+0xC68
+優「まあまあ、いいから話を聞きなさいって」%K%P
+You「Don't worry about that. Just listen.」%K%P
+0xC7C
+空「何か作戦があるようですね？」%K%P
+Sora「It appears that you have some kind of strategy.」%K%P
+0xC90
+少年「作戦？」%K%P
+Kid「Strategy?」%K%P
+0xCA4
+優「そう、そのとおり」%K%P
+You「Yes. Exactly right.」%K%P
+0xCB8
+優「このまま普通にいけば、バラバラになって隠れるだけなんだけど……」%K%P
+You「If we continue like this, then we'll just get all separated and hide...」%K%P
+0xCC4
+優「それだと、負ける可能性も高いわけじゃない？」%K%P
+You「But that increases the chance that we'll lose.」%K%P
+0xCD0
+少年「ゲームってそういうものじゃないの？」%K%P
+Kid「But that's the way the game works, isn't it?」%K%P
+0xCE4
+優「甘ーいっ！　甘いぞ少年！　ゲームと言えども、男なら必ず勝ちを取りに行かねばならんのだぁ！」%K%P
+You「You're SO naive. In games, a man is supposed to WANT to win.」%K%P
+0xCF0
+『優は女じゃないの？』%K%P
+'But aren't you supposed to be a girl, You?'%K%P
+0xCFC
+というツッコミを、ぼくはギリギリのところで呑み込んだ。%K%P
+I stopped myself from saying that in the nick of time.%K%P
+0xD08
+沙羅「でも先輩、必ず勝つ方法なんてないですよ？」%K%P
+Sara「But there's no way to guarantee a win, right?」%K%P
+0xD1C
+優「ふっふっふ……本当にそう思うのかね？　マヨくん」%K%P
+You「Mayo... Is that what you really think?」%K%P
+0xD30
+優は沙羅のおさげをグリグリいじくりながら、得意そうな顔だ。%K%P
+You said that as she played with Sara's braids.%K%P
+0xD3C
+少年「ねえ、もったいぶらずに教えてよ」%K%P
+Kid「Well, hurry up and tell us already.」%K%P
+0xD50
+優「私達にあって鬼にないもの……それを検証すれば、おのずと答えは見えて来るでしょ？」%K%P
+You「If you think about what we have... and what Kuranari doesn't, then you'll get it in a flash.」%K%P
+0xD64
+沙羅「私達にあって……？」%K%P
+Sara「What we have...?」%K%P
+0xD70
+少年「鬼にないもの……？」%K%P
+Kid「What Takeshi doesn't...?」%K%P
+0xD84
+空「人数ですね。鬼――倉成さんはひとりだけです」%K%P
+Sora「Numbers. We are many. Kuranari-san is one.」%K%P
+0xD98
+優「ＹＥＳ！　そのとおり」%K%p
+You「YES! That's it.」%K%p
+0x5130
+わかった
+I see
+0x513C
+わからない
+I don't get it
+0xDD8
+少年「ああ、なるほど……ようするに、物量作戦ってわけだね」%K%P
+Kid「Oh, I get it... We'll try to win by sheer numbers.」%K%P
+0xDEC
+少年「？？」%K%P
+Kid「?」%K%P
+0xDF8
+沙羅「？？」%K%P
+Sara「?」%K%P
+0xE0C
+優「ここまで言って、まだわからないかなぁ？　もっと頭を使う。ほれほれ」%K%P
+You「This many hints and you still don't get it? Use your head.」%K%P
+0xE20
+優は沙羅のコメカミの辺りを、指先でクルクルとなぞる。%K%P
+You put her fingers on Sara's temples and massaged them teasingly.%K%P
+0xE2C
+沙羅「あぁ～、やめてください～……そこ、弱いんですぅ～」%K%P
+Sara「Oh, stop it... That tickles.」%K%P
+0xE38
+優「ほー、そうかそうか、ここがえーんか？　ほれほれ」%K%P
+You「Oh, you like that, do you?」%K%P
+0xE44
+沙羅「あっ、ダメ……そこは、ほんとに……ほんとにぃ……」%K%P
+Sara「Stop, I said... I mean it...」%K%P
+0xE50
+優「相変わらず頭が弱いのぉ、マヨは」%K%P
+You「You're as much a ditz as ever, Mayo.」%K%P
+0xE5C
+沙羅「そうなんですぅ……私は昔から、頭が……」%K%P
+Sara「I know... I've had this problem ever since I was little...」%K%P
+0xE70
+沙羅「って、誰がバカなんじゃーーっ！」%K%P
+Sara「What am I saying? I'm not that stupid!」%K%P
+0xF20
+ペシ！　っと優のおでこにツッコミをいれる沙羅。%K%P
+Whack! Sara lightly slapped You on the forehead.%K%P
+0xF34
+こっちの頭が弱くなりそうなやりとりだった。%K%P
+Their exchange was enough to make us other two feel stupid.%K%P
+0xF40
+優「たははは……♪」%K%P
+You「Teeheehee...」%K%P
+0xF4C
+少年「もういいから、答えを教えてよ」%K%P
+Kid「Enough of that. Just tell me.」%K%P
+0xF60
+優「仕方ないなぁ……」%K%P
+You「Oh well...」%K%P
+0xF74
+優「少年は、ひとりとケンカするのと、４人とケンカするの、どっちがいい？」%K%P
+You「Listen, Kid. Would you rather fight one person or four people?」%K%P
+0xF88
+少年「どっちもいやだよ」%K%P
+Kid「Neither.」%K%P
+0xF9C
+優「どっちか選ぶ！」%K%P
+You「Just pick one.」%K%P
+0xFA8
+少年「……じゃあ、ひとり」%K%P
+Kid「...One, I guess.」%K%P
+0xFBC
+優「どうして？」%K%P
+You「Why?」%K%P
+0xFC8
+少年「相手が４人だと、絶対に勝てないからだよ」%K%P
+Kid「Against four people, I wouldn't stand a chance.」%K%P
+0xFDC
+優「でしょ？　つまり、そういうこと」%K%P
+You「Right. That's what I mean.」%K%P
+0xFE8
+少年「はぁ？」%K%P
+Kid「Huh?」%K%P
+0xFF4
+空「田中さんは物量作戦でいこうと、そういうことなんですよ」%K%P
+Sora「That is what Tanaka-san means by a strategy of numbers.」%K%P
+0x1008
+優「そう。私達がいっぺんに押しかければ、鬼は手も足もでないはずなの」%K%P
+You「Yup. If we all mob together, then there's nothing the person that's 'it' can do.」%K%P
+0x1014
+空「誰かが見つかったとしても、すぐに別の誰かが缶を蹴ってしまうわけですね」%K%P
+Sora「So if somebody gets found, somebody else just kicks the can.」%K%P
+0x1020
+空「その人が見つかっても、すぐにまた別の誰かが缶を蹴る……」%K%P
+Sora「And if that person gets caught, then somebody else kicks the can...」%K%P
+0x102C
+優「うん。そうやって一斉に集中砲火を浴びせれば、鬼は攻撃を防ぎきれないでしょ？」%K%P
+You「That's right. So if we all get there at once and unleash an attack, Kuranari won't be able to defend, right?」%K%P
+0x1040
+沙羅「な、なるほどぉ」%K%P
+Sara「Oh, I get it.」%K%P
+0x1054
+優「ってことで……総員、一旦散開したのち、会議室の缶めがけて突撃」%K%P
+You「So... After we all split up, we'll aim for the can and charge the conference room.」%K%P
+0x1060
+優「缶を蹴ったら、すぐに離脱」%K%P
+You「After kicking the can, we'll separate again immediately.」%K%P
+0x1074
+優「そのヒット・アンド・アウェイの繰り返しで、勝利はこっちのものよ」%K%P
+You「By repeating this hit-and-run, we'll win.」%K%P
+0x1080
+少年「でも、なんだか卑怯じゃない？」%K%P
+Kid「But isn't that kind of cheating?」%K%P
+0x108C
+優「そんなことないって。物量作戦は用兵の基本よ。デフォルトよ」%K%P
+You「Not at all. Attacking with overwhelming numbers is a basic military strategy.」%K%P
+0x1098
+少年「ようするに、数の暴力だよね？」%K%P
+Kid「So it's kind of like violence by the masses?」%K%P
+0x10AC
+優「民主主義作戦、って言って」%K%P
+You「Or a democratic strategy.」%K%P
+0x10B8
+少年「わけわかんないよ」%K%P
+Kid「Whatever.」%K%P
+0x10CC
+優「民主主義……多数決……」%K%P
+You「In a democracy... the majority rules...」%K%P
+0x10D8
+優「つまり……少者は弱者よ」%K%P
+You「In other words... Those with less numbers are weak.」%K%P
+0x1124
+ぼくらは一旦バラバラに分散すると、それぞれが異なったルートで会議室を目指した。%K%P
+So we separated and all aimed for the conference room via different routes.%K%P
+0x114C
+それにしても足音がよく響く。%K%P
+But our footsteps sure were loud.%K%P
+0x1158
+かといって、急がないと鬼に見つかってしまう。%K%P
+Still, if we didn't hurry, Takeshi would find us.%K%P
+0x1164
+せめて、ぼくが見つかるよりも早く、誰かが缶まで到着すればいいんだけど……。%K%P
+I just hoped that someone would get there and kick the can before he found me.%K%P
+0x1170
+武「おらあっ、誰だっ！！」%K%P
+Takeshi「Who is that?」%K%P
+0x117C
+少年「わっ！」%K%P
+Kid「Oops!」%K%P
+0x1188
+突然、背後から武の声がした。%K%P
+Suddenly, Takeshi's voice rang out behind me.%K%P
+0x1194
+自分の足音に気を取られすぎて、接近に気づかなかったらしい。%K%P
+I was so concerned with the sound of my own footsteps that I didn't hear him approach.%K%P
+0x11A0
+この距離では……逃げられない。%K%P
+At that distance... there was no way I could get away.%K%P
+0x11AC
+ひとまずぼくは、観念した。%K%P
+I gave up.%K%P
+0x11D0
+少年「いやぁ、見つかっちゃったね……ぼくが最初かな？」%K%P
+Kid「Oh no. You caught me... Am I the first one?」%K%P
+0x11DC
+武「ああ」%K%P
+Takeshi「Yup.」%K%P
+0x11E8
+少年「まいったなぁ。これで全員捕まったら、次はぼくが鬼？」%K%P
+Kid「Dang. That means if you catch everyone, then I'm 'it' next?」%K%P
+0x11F4
+武「たぶん、そういうことになるな」%K%P
+Takeshi「I reckon so.」%K%P
+0x1200
+少年「そっかぁー。早く誰か助けてくれないかなぁー」%K%P
+Kid「I wonder if someone will show up to help me.」%K%P
+0x120C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1218
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1224
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1230
+少年「ねぇ武、『缶踏んだ』しに行かないと、ぼく蹴りに行っちゃうよ？」%K%P
+Kid「Takeshi, if you don't go step on the can, then I'll go kick it.」%K%P
+0x1244
+武「お前って『缶蹴り』のルールはちゃんと知ってるんだな」%K%P
+Takeshi「You sure know your kick the can rules.」%K%P
+0x126C
+？？「とぉーーーっ！！」%K%P
+???「Whack!」%K%P
+0x131C
+どかっ！！%K%P
+Crash!%K%P
+0x1328
+武「ぐはぉっ！」%K%P
+Takeshi「Umpphh!」%K%P
+0x1350
+ばっしゃーんっ！！%K%P
+Splash!%K%P
+0x135C
+いきなり脇から走り込んできた優が、思い切り武にジャンピングクロスチョップをぶちかました。%K%P
+Suddenly, You came flying from the side and completely sideswiped Takeshi with a jumping cross-chop to the neck.%K%P
+0x1368
+武「ゴボゴボ……」%K%P
+Takeshi「*Gurgle*, *gurgle*...」%K%P
+0x1374
+武は頭から水中に埋没した。%K%P
+Takeshi's head had gone underwater.%K%P
+0x1388
+優「なっはっはっはっ♪」%K%P
+You「NYAHAHAHA～」%K%P
+0x1394
+水中に突っ伏した武を指差して、優はケラケラ笑った。%K%P
+You was pointing at the submerged Takeshi and cackling crazily.%K%P
+0x13A0
+武「ゴボゴボ……ゴボゴボ……ぷっはぁーーーっ！！」%K%P
+Takeshi「*Cough*, *cough*... pwahh!」%K%P
+0x13AC
+武は海水をはじいて、がばりと起き上がる。%K%P
+Floundering in the water, Takeshi stood up.%K%P
+0x13C8
+武「って、おっ、おばえだあぁ～～！！」%K%P
+Takeshi「H-hey, you!」%K%P
+0x13D4
+優「ふっふっふっ……この勝負もらった！」%K%P
+You「Heehee... I won this battle!」%K%P
+0x140C
+武「ふっ、ふざけんな、待ちやがれっ！」%K%P
+Takeshi「Hey, stop messing around! Wait!」%K%P
+0x143C
+優「待てと言われて待てますかっての！」%K%P
+You「Wait for you to catch me? No thanks!」%K%P
+0x1448
+武「おのれ！　突き飛ばされた恨み、はらさでおくべきか！」%K%P
+Takeshi「Hey, you! I'll get you back for that! Just you wait!」%K%P
+0x1454
+武は猛然とダッシュして、優を追いかけていった。%K%P
+Takeshi took off in a mad dash after You.%K%P
+0x1460
+少年「…………」%K%P
+Kid「...」%K%P
+0x146C
+少年「さて、と……ぼくも缶を蹴りに行かなくちゃ」%K%P
+Kid「Well... I guess I'd better go kick the can.」%K%P
+0x1478
+ぼくは、のんびりとした足取りで会議室へと向かった。%K%P
+I strolled leisurely to the conference room.%K%P
+0x14CC
+会議室へ入ると……%K%P
+When I entered the room...%K%P
+0x14E0
+武「少年みっけ！　缶踏んだっ！」%K%P
+Takeshi「I found the Kid! I stomped on the can!」%K%P
+0x14F4
+武がぼくを指差し、宣言した。%K%P
+Takeshi pointed at me, declaring that.%K%P
+0x1500
+彼は缶を踏みつけていた。%K%P
+He was stepping on the can.%K%P
+0x150C
+優がその近くで、うなだれている。%K%P
+You was near him and looked depressed.%K%P
+0x1518
+どうやら彼女は失敗したらしかった。%K%P
+It looked like she had lost.%K%P
+0x1524
+（あっちゃー……）%K%P
+(Oh no...)%K%P
+0x1538
+武「ふっふっふ、甘いぞ優！　俺を出し抜くことはできん！」%K%P
+Takeshi「Hahaha! Did you really think you could outwit me?」%K%P
+0x154C
+優「ずるーい！　倉成、缶の場所変えたでしょう！」%K%P
+You「Kuranari, you cheater! You changed the place of the can!」%K%P
+0x1558
+武「どこに置けとは言ってなかったろーが。そっちもいきなりチョップかましたりしたんだ、お互い様だろ」%K%P
+Takeshi「Nobody said where we had to put the can, right? Besides, you smacked me, so I figure we're even.」%K%P
+0x156C
+優「はいはい。それにしても何よ、私が一番最初に『缶踏んだ』されちゃったわけ？」%K%P
+You「Alright, alright. Whatever. Anyway, so I'm the first person you caught?」%K%P
+0x1580
+武「おう、そうだぞ」%K%P
+Takeshi「You got it.」%K%P
+0x1594
+優「作戦失敗か……」%K%P
+You「Well, that plan sure was a failure...」%K%P
+0x15A8
+武「……は？　作戦？」%K%P
+Takeshi「...Huh? What plan?」%K%P
+0x15D8
+すると部屋の反対側の入り口から、ぱしゃぱしゃと近づく足音……。%K%P
+As they were talking, the sound of splashing footsteps could be heard approaching the door...%K%P
+0x1614
+沙羅「しゅたたたた……只今参上！」%K%P
+Sara「Shweeen... I'm here!」%K%P
+0x1620
+武「空と沙羅みっけ」%K%P
+Takeshi「I found Sora and Sara.」%K%P
+0x1634
+武は『缶踏んだ』をした。%K%P
+Takeshi stepped on the can.%K%P
+0x1648
+空「あら、田中さん。先に着いてしまわれてたんですか」%K%P
+Sora「Oh, did you get beaten here, Tanaka-san?」%K%P
+0x1654
+優「ちょっと予定ズレちゃったね」%K%P
+You「Things didn't quite work out as planned.」%K%P
+0x1668
+沙羅「なっきゅ先輩が出て行くの、ちょっと早かったんじゃないですか？」%K%P
+Sara「Nakkyu, don't you think you jumped the gun just a little bit?」%K%P
+0x1674
+少年「みんなでいっぺんにおしかけよう、って言ってたのに」%K%P
+Kid「You said we would all charge together.」%K%P
+0x1690
+武「作戦って、それかよ……」%K%P
+Takeshi「So that was your plan...」%K%P
+0x16A4
+優「うん。みんなで同時に缶に飛びかかれば防げないかなぁ、と思って」%K%P
+You「Yeah. I thought if we all went for the can at once, you wouldn't be able to stop us.」%K%P
+0x16B8
+武「かーっ、セコいこと考えるやっちゃなぁー」%K%P
+Takeshi「That's pretty dirty.」%K%P
+0x16CC
+優「えへへへへー♪」%K%P
+You「Ehehehehe～」%K%P
+0x16D8
+優はいたずらっぽく、照れ笑いをしてみせた。%K%P
+You laughed mischievously and with a hint of embarrassment.%K%P
+0x16EC
+ぼくらは一旦、部屋の中央に集まる。%K%P
+We gathered in the center of the room.%K%P
+0x1700
+武「さてと、意外に簡単にみんな見つかったわけだが……」%K%P
+Takeshi「Well, finding all of you was easier than I thought...」%K%P
+0x1714
+武「まず、今みたいに結託して缶蹴りにくるのはやっぱ禁止な」%K%P
+Takeshi「First of all, mob-style kicking of the can is definitely not allowed.」%K%P
+0x1728
+優「えーっ！　なんでよーっ」%K%P
+You「Huh? Why?」%K%P
+0x173C
+武「俺はともかくお前は防げるのか、同時攻撃を？」%K%P
+Takeshi「You think I can stop you if you all come attack at once?」%K%P
+0x1750
+優「無理っす」%K%P
+You「Impossible.」%K%P
+0x1764
+武「だからだ。だいたい面白くない」%K%P
+Takeshi「That's why. It takes all the fun out of it.」%K%P
+0x1770
+武「鬼がタイミングを見計らって人を捜しに行ったり、その隙をついて他の奴が缶に接近したり……その意味がなくなるだろ」%K%P
+Takeshi「Timing your rush just right, waiting for the person who is 'it' to go searching... All of that would disappear from the game.」%K%P
+0x1784
+優「へーい、了解ですぅ……」%K%P
+You「Well, alright...」%K%P
+0x1790
+今度は自分が鬼になるというのに、渋々優は承知した。%K%P
+You reluctantly agreed to be 'it' the next time.%K%P
+0x179C
+武「みんなも、それでいいな？」%K%P
+Takeshi「Alright. Everybody good with that?」%K%P
+0x17A8
+ぼく・空・沙羅、皆が頷いた。%K%P
+Sora, Sara, I―everyone nodded.%K%P
+0x17BC
+武「よしっ、では次は優が鬼だ」%K%P
+Takeshi「Okay then. You is 'it' next.」%K%P
+0x17C8
+武「空き缶はあっちにあるから自分で拾え。好きなとこに置いて、数を数えて――」%V%P
+Takeshi「The can is over there, so you get it. Put it where you want and count―」%V%P
+0x1814
+ぱっかーーーーん！！%K%P
+Kabing!%K%P
+0x183C
+かんからんからから……%K%P
+Clatter, clatter, clatter...%K%P
+0x1848
+闇の中に、缶が蹴飛ばされる音がこだました。%K%P
+The sound of a can being kicked rang out in the darkness.%K%P
+0x1854
+武「おいっ誰だよ、蹴ったの？」%K%P
+Takeshi「Hey! Who kicked that?」%K%P
+0x1868
+優「わっ、私じゃないよーん！！」%K%P
+You「It wasn't me!」%K%P
+0x187C
+言うが早いか、優は一目散に逃亡し始める。%K%P
+As soon as she got that out of her mouth, You started to run away.%K%P
+0x1890
+武「あっこらてめーっ……！」%K%P
+Takeshi「You scoundrel...!」%K%P
+0x18A4
+ぼくを含めた他の皆も、蜘蛛の子を散らしたように逃げる。%K%P
+We all scattered like scared butterflies.%K%P
+0x1900
+優「なんだか知らないけど、ラッキー♪」%K%P
+You「I don't know what the deal is, but that was lucky.」%K%P
+0x1930
+走りながら優は言った。%K%P
+You said that as she ran.%K%P
+0x1944
+沙羅「間一髪でしたね」%K%P
+Sara「That was a close call.」%K%P
+0x1950
+少年「それにしても、缶を蹴ったの、誰だろう？」%K%P
+Kid「But who kicked the can?」%K%P
+0x195C
+ここにいる４人は全員、鬼に見つかっていた。%K%P
+All four of us had been found by Takeshi.%K%P
+0x1968
+見つかった者は、缶を蹴ることはできないルールだ。%K%P
+The rules were that anyone caught couldn't kick the can.%K%P
+0x197C
+沙羅「私でもないし、先輩でもない、空は最初から蹴ることができない」%K%P
+Sara「It wasn't me or Nakkyu. And Sora can't kick.」%K%P
+0x1988
+少年「ぼくも蹴ってないよ」%K%P
+Kid「I didn't kick it.」%K%P
+0x199C
+みんな「……………………」%K%P
+Everyone「.........」%K%P
+0x19B8
+空「小町さんではないでしょうか？」%K%P
+Sora「You don't suppose it was Komachi-san, do you?」%K%P
+0x19CC
+優「つぐみが？　まっさかぁ～」%K%P
+You「Tsugumi? No way.」%K%P
+0x19E8
+沙羅「でも、それしか考えられないよねぇ」%K%P
+Sara「But that's the only possibility.」%K%P
+0x19F4
+少年「なんだかんだ言って、つぐみも参加したかったのかな？」%K%P
+Kid「I wonder if Tsugumi wanted to play the whole time.」%K%P
+0x1A00
+空「きっと、照れていたのでしょう」%K%P
+Sora「She was probably just embarrassed to say so.」%K%P
+0x1A0C
+そう考えると、つぐみにも可愛いところあるのかもしれない。%K%P
+That could have put a new, almost adorable twist on her personality.%K%P
+0x1A20
+沙羅「あははっ♪　会ったらお礼言わないとね」%K%P
+Sara「Oho! We'll have to thank her when we see her.」%K%P
+0x1A2C
+言いながら、沙羅は嬉しそうに笑っていた。%K%P
+Sara laughed happily as she said that.%K%P
+0x1A74
+優「さて、ここで解散しよっか」%K%P
+You「Alright. Let's split up.」%K%P
+0x1A80
+Ｔ字路に差し掛かったところで優が提案した。%K%P
+You proposed that as we reached a T in the corridor.%K%P
+0x1A9C
+沙羅「そうでござるな。では御武運を！」%K%P
+Sara「Yeah, let's split up. Good luck!」%K%P
+0x1AA8
+空「またあとで会いましょうね」%K%P
+Sora「Okay. We will meet up later.」%K%P
+0x1AD8
+優と沙羅・空は、左と右――二手に分かれた。%K%P
+You went left, and Sara and Sora went to the right.%K%P
+0x1AE4
+えっと、ぼくは……。%K%p
+Uh... I...%K%p
+0x5148
+優についていく
+Go with You
+0x5154
+沙羅と空についていく
+Go with Sara and Sora
+0x1B60
+優「あれ？　少年もこっち来たの？」%K%P
+You「Oh? Kid, you decided to come this way?」%K%P
+0x1B6C
+少年「うん、なんとなく……それより、どこに隠れるつもり？」%K%P
+Kid「Yeah... But where do you plan to hide?」%K%P
+0x1B80
+優「それを今考えてるところ」%K%P
+You「I'm thinking about that as we speak.」%K%P
+0x1B94
+そのまま、優と一緒に走り続けた。%K%P
+We kept running.%K%P
+0x1BE4
+優「さて、と。どうしようかな？」%K%P
+You「Alright. What are we gonna do?」%K%P
+0x1BF0
+ぼくと優は、辺りの様子に気遣いながら、隠れ場所を探していた。%K%P
+As we scanned the area for trouble, we looked for a hiding place.%K%P
+0x1C04
+優「意外な場所に隠れないと、すぐに見つかっちゃうしなぁ」%K%P
+You「Unless we hide somewhere unexpected, he'll find us right away.」%K%P
+0x1C10
+少年「とりあえず、適当に部屋に入って……」%K%P
+Kid「Well, let's go in a room for now.」%K%P
+0x1C2C
+そこまで言った時だった――。%K%P
+As I said that, I heard something.%K%P
+0x1C54
+少年「誰か、来る……？」%K%P
+Kid「Somebody is coming?」%K%P
+0x1C68
+優「マヨ達じゃないの？」%K%P
+You「It's probably Mayo and Sora.」%K%P
+0x1C74
+少年「うーん……」%K%P
+Kid「Probably...」%K%P
+0x1C80
+暗闇を透かして、音のした方を窺う。%K%P
+We peered through the darkness in the direction of the sound.%K%P
+0x1C8C
+チラリと人影が見えた。%K%P
+We could see someone's silhouette.%K%P
+0x1C98
+あの背格好は……%K%P
+That build could only be...%K%P
+0x1CA4
+少年「いや、違う。あれは武だ！」%K%P
+Kid「No. It's Takeshi!」%K%P
+0x1CB8
+優「え？　本当？」%K%P
+You「Really?」%K%P
+0x1CC4
+少年「早くっ！　隠れなきゃ！」%K%P
+Kid「Hurry! We've gotta hide!」%K%P
+0x1CF4
+ぼくらは近くの部屋に飛び込んだ。%K%P
+We dove into the nearest room.%K%P
+0x1D00
+そこは、エレベーターホールだった。%K%P
+It was the elevator hall.%K%P
+0x1D0C
+少年「ど、どうしよう……隠れる場所なんてなさそうだよ」%K%P
+Kid「What're we gonna do? There's nowhere to hide.」%K%P
+0x1D34
+確実に、武はこっちに向かってきている。%K%P
+Takeshi steadily approached.%K%P
+0x1D48
+優「そうだ！　あの中に隠れるわよ」%K%P
+You「I know! Let's hide in there!」%K%P
+0x1D54
+少年「え？　どこ？」%K%P
+Kid「Huh? Where?」%K%P
+0x1D68
+優が指差したその先……ツヴァイトに昇りかけで停止しているエレベーターがあった。%K%P
+You's finger was pointing... at the elevator that was stuck on its way to Zweiter Stock.%K%P
+0x1D74
+昨日、沙羅が閉じこめられていた場所。%K%P
+It was the one that Sara had been stuck in the day before.%K%P
+0x1D80
+今も扉は開いたままだ。%K%P
+The door was still open.%K%P
+0x1D8C
+まずはぼくが優に肩車されて、中に躍り込んだ。%K%P
+First, You lifted me on her shoulders and I hurried into the elevator.%K%P
+0x1D98
+それからぼくが、上から優を引っ張り上げる。%K%P
+Then I pulled her up.%K%P
+0x1DA4
+少年「ふぅ……」%K%P
+Kid「Hmmph...」%K%P
+0x1DB0
+こうしてぼくらは、武がやってくる前に、なんとか隠れることができたのだった。%K%P
+So we were able to hide just an instant before Takeshi came.%K%P
+0x1DC4
+じっと息を潜め、事を見守るぼくら。%K%P
+We held our breath, watching silently.%K%P
+0x1DD0
+エレベーターの中は非常灯すら灯っていない。%K%P
+No emergency light even lit the elevator.%K%P
+0x1DDC
+深い暗闇……静寂……。%K%P
+Just profound darkness... and silence...%K%P
+0x1DE8
+すぐ隣で身をかがめている優の吐息が聞こえる。%K%P
+I could hear You crouched next to me, breathing.%K%P
+0x1DF4
+ぼくの心臓の音も聞こえてきそうだった。%K%P
+I though I could almost hear my heart.%K%P
+0x1E00
+少年「み、見つからないといいね……？」%K%P
+Kid「I... I hope he doesn't find us.」%K%P
+0x1E34
+優「しっ！　来たみたいよ」%K%P
+You「Ssshhh! He's here.」%K%P
+0x1E58
+階下に武が姿を現した。%K%P
+Takeshi appeared at the bottom of the stairs.%K%P
+0x1E64
+まだぼくらの位置を特定できていないらしく、辺りをキョロキョロしている。%K%P
+It seemed that he hadn't pinned down our position. He was still glancing around.%K%P
+0x1E70
+心臓の鼓動が速度を増す。%K%P
+My heart rate rocketed.%K%P
+0x1E7C
+バクバクと大きな音が鳴り響く。%K%P
+It pounded in my ears.%K%P
+0x1E88
+ぼくは胸を押さえた。%K%P
+I put my hand on my chest as if to hold it in check.%K%P
+0x1E94
+（どうか、どうか……見つかりませんように……！）%K%P
+(Oh... Oh... Please don't let him find us...!)%K%P
+0x1EA0
+………………。%K%P
+......%K%P
+0x1EAC
+武はなかなか立ち去ってくれない。%K%P
+Takeshi just stood there.%K%P
+0x1EB8
+ここに、ぼくらがいることに確信があるのか。%K%P
+It was as if he was sure that we were around.%K%P
+0x1EC4
+武「あっれぇ？　変だなぁ。こっちの方で足音がしたはずなんだが……？」%K%P
+Takeshi「That's strange. I coulda sworn I heard footsteps over here.」%K%P
+0x1ED0
+武「気のせいだったのか」%K%P
+Takeshi「I guess it was just my imagination.」%K%P
+0x1EDC
+ようやく諦めたようだ。%K%P
+It looked like he had finally given up.%K%P
+0x1EE8
+（ほっ……）%K%P
+(Whew...)%K%P
+0x1EF4
+だが、安心したのもつかの間だった。%K%P
+Just as I thought the crisis had passed.%K%P
+0x1F00
+少年「はっ……はっ……はっ……」%K%P
+Kid「Ha... Ha... Ach...」%K%P
+0x1F0C
+突然、クシャミが込み上げてきたのだ。%K%P
+A sneeze welled up inside me.%K%P
+0x1F18
+（な、なんで、こんな時にっ！）%K%P
+(Why now?)%K%P
+0x1F24
+口元を押さえ込んで、必死に堪えようとする。%K%P
+I clamped my hand on my mouth as I desperately tried to hold it back.%K%P
+0x1F30
+少年「………………！」%K%P
+Kid「.........!」%K%P
+0x1F3C
+……なんとか、押しとどめることができた。%K%P
+...Somehow, I had managed to keep it in.%K%P
+0x1F58
+優「くしゅん！」%K%P
+You「ACHOOOO!」%K%P
+0x1F64
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1F70
+優「…………」%K%P
+You「.........」%K%P
+0x1F7C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1F88
+優「たはは……♪」%K%P
+You「Teeheehee...」%K%P
+0x1F9C
+武「おい！　そこにいるなっ！？　誰だ！？」%K%P
+Takeshi「Hey! I know someone's there! Who is it!?」%K%P
+0x1FA8
+優「見つかった！　逃げるわよ！！」%K%P
+You「He found us! Run!」%K%P
+0x1FB4
+少年「う、うん！　で、でも……」%K%P
+Kid「Yeah! B-but...」%K%P
+0x1FC0
+逃げる、って……どこに？%K%P
+Where could we run?%K%P
+0x1FCC
+優「平気！　私に任せて！」%K%P
+You「No problem! Leave it to me!」%K%P
+0x1FE8
+次の瞬間、優はエレベーターの中から身を躍り出していた。%K%P
+The next instant, You threw herself out of the elevator.%K%P
+0x1FF4
+優「とぉーーーーーーーーーっ！！！」%K%P
+You「Yeeeehaaaaaw!」%K%P
+0x2000
+優の華麗なるダイブ……%K%P
+You made a spectacular dive...%K%P
+0x200C
+……から繰り出される豪快なドロップキック！%K%P
+...Turning it into a stunning drop kick!%K%P
+0x2020
+武「ぬおっ！」%K%P
+Takeshi「Ungphh!」%K%P
+0x23C0
+……………………。%K%P
+......%K%P
+0x23CC
+……………………。%K%P
+......%K%P
+0x23D8
+……………………。%K%P
+......%K%P
+0x23E4
+健闘空しく、ぼくらは発見されてしまう。%K%P
+We fought well, but Takeshi found us.%K%P
+0x23F8
+%N
+
+0x2404
+%LC＜缶、踏んだ＞⑳%K%O
+%LC<Can stomp>%K%O
+0x2424
+それからしばらくして、沙羅と空も見つかってしまった。%K%P
+A short while later, he found Sara and Sora too.%K%P
+0x246C
+空「あら？　少年さん？」%K%P
+Sora「Huh? Is that you, Kid-san?」%K%P
+0x2478
+沙羅「少年もこっちに来たの？」%K%P
+Sara「Kid, you decided to come this way?」%K%P
+0x2484
+少年「うん、なんとなく……それより、どこに隠れるつもり？」%K%P
+Kid「Yeah... But where do you plan to hide?」%K%P
+0x2490
+沙羅「一緒に逃げるなら、きみも考えて！」%K%P
+Sara「If you're going to stay with us, you have to help us think of something!」%K%P
+0x24C0
+そのまま、ふたりと一緒に走り続けた。%K%P
+I ran with the two of them.%K%P
+0x2510
+沙羅「そうだ！　いいこと考えちゃった！」%K%P
+Sara「I know! I've got a great idea!」%K%P
+0x251C
+突然、沙羅はそう言って立ち止まった。%K%P
+Saying that, Sara stopped suddenly.%K%P
+0x2528
+少年「な、なに？」%K%P
+Kid「Wh-what?」%K%P
+0x2534
+空「どうしたのですか？」%K%P
+Sora「What is it?」%K%P
+0x2540
+沙羅「こういうときこそ、忍法でござるよ」%K%P
+Sara「It's times like this that call for ninja skills!」%K%P
+0x254C
+少年「ニンポウ？」%K%P
+Kid「Ninja skills?」%K%P
+0x2560
+沙羅「空殿？　武氏が来たら、ＲＳＤで無人の通路を表示してくだされ」%K%P
+Sara「Sora. When Takeshi comes through, use RSD to show him an empty corridor.」%K%P
+0x256C
+沙羅「名づけて『科学忍法・隠れ蓑』」%K%P
+Sara「This is known as the Elite Art of Ninja Camouflage.」%K%P
+0x2580
+空「え？　でもそれは……」%K%P
+Sora「Huh? But that would be...」%K%P
+0x258C
+少年「反則じゃないの？」%K%P
+Kid「Isn't that against the rules?」%K%P
+0x25A0
+沙羅「カタイこと言わないの。瞬間移動や生体反応の検出は禁止にしたけど、レミ自体の使用は禁止されてないじゃん？」%K%P
+Sara「Don't be a spoilsport. We banned instant travel and bio scans, but NOT using LeMMIH. Right?」%K%P
+0x25AC
+少年「ずるいよ。そんなの卑怯だ」%K%P
+Kid「That's underhanded and cowardly.」%K%P
+0x25C0
+沙羅「裏技って言ってよぉ」%K%P
+Sara「In the lexicon of the Ninja, we call it a 'secret technique'.」%K%P
+0x25CC
+少年「だめだ。そんなのぼくが認めない」%K%P
+Kid「No. I'm not having any of it.」%K%P
+0x25E0
+空「申し訳ありませんが、私も賛成しかねます」%K%P
+Sora「I'm sorry, but I'm afraid that I can't agree either.」%K%P
+0x25F4
+沙羅「えーっ！」%K%P
+Sara「What!?」%K%P
+0x2608
+沙羅「だったら……『科学忍法・分身の術』は？」%K%P
+Sara「Then... How about the 'Elite Ninja Doppelg⑩nger technique?'」%K%P
+0x261C
+少年「はい？」%K%P
+Kid「Huh?」%K%P
+0x2628
+沙羅「ＲＳＤで私達を何体も表示して、武を混乱させるの」%K%P
+Sara「We can use RSD to make it appear that there are lots of us to confuse Takeshi.」%K%P
+0x2634
+少年「同じだっつーのっ！」%K%P
+Kid「That's the same thing!」%K%P
+0x2648
+空「あの、レミを使う忍法はナシにしませんか？」%K%P
+Sora「Uh, why don't we just say no Ninja techniques using LeMMIH?」%K%P
+0x265C
+沙羅「ちぇー……ニンともカンとも」%K%P
+Sara「Tsk... you two are such prudes...」%K%P
+0x2678
+その時だ――。%K%P
+Just then...%K%P
+0x26A8
+沙羅「誰か、来る……？」%K%P
+Sara「Somebody is coming?」%K%P
+0x26BC
+空「田中さんではないのですか？」%K%P
+Sora「It's probably Tanaka-san.」%K%P
+0x26C8
+少年「うーん……」%K%P
+Kid「Probably...」%K%P
+0x26D4
+暗闇を透かして、音のした方を窺う。%K%P
+We peered through the darkness in the direction of the sound.%K%P
+0x26E0
+チラリと人影が見えた。%K%P
+We could see someone's silhouette.%K%P
+0x26EC
+あの背格好は……%K%P
+That build could only be...%K%P
+0x2700
+沙羅「あっ！」%K%P
+Sara「Yikes!」%K%P
+0x270C
+少年「いや、違う。あれは武だ！」%K%P
+Kid「No. It's Takeshi!」%K%P
+0x2720
+空「え？　本当ですか？」%K%P
+Sora「What? Really?」%K%P
+0x272C
+少年「早くっ！　隠れなきゃ！」%K%P
+Kid「Hurry! We've gotta hide!」%K%P
+0x2740
+ぼくらはそのまま、通路を駆け出した。%K%P
+We dashed down the corridor.%K%P
+0x274C
+空「あ、いけません！　そっちは……」%K%P
+Sora「Oh no! That way is no good...」%K%P
+0x27A0
+目の前に立ちふさがる、閉ざされた水密扉。%K%P
+A watertight door blocked our way forward.%K%P
+0x27AC
+少年「しまった！」%K%P
+Kid「We're stuck!」%K%P
+0x27C0
+沙羅「い、行き止まり！？」%K%P
+Sara「A-a dead end!?」%K%P
+0x27CC
+空「だから、私は申し上げたのですが……」%K%P
+Sora「That's what I was saying...」%K%P
+0x27D8
+すぐ近くに、逃げ込めるような部屋はない。%K%P
+There was no room nearby that we could escape into.%K%P
+0x27E4
+こんなことなら、どこかの部屋に隠れておけばよかった。%K%P
+We should have hidden in a room somewhere.%K%P
+0x280C
+確実に、武はこっちに向かってきている。%K%P
+Takeshi steadily approached.%K%P
+0x2818
+このままだと見つかってしまう！？%K%P
+At that rate, we would be caught for sure!%K%P
+0x2824
+沙羅「わっ！　どうしよ？　どうしよ？」%K%P
+Sara「Oh! What're we gonna do?」%K%P
+0x2838
+空「これは観念するしかなさそうですね」%K%P
+Sora「It looks like we have no choice but to give up.」%K%P
+0x2844
+慌てふためく沙羅、諦めきってしまう空。%K%P
+Sara was flustered, Sora resigned to fate.%K%P
+0x2850
+ぼくは……%K%P
+On the other hand, I...%K%P
+0x285C
+少年「いや……まだだ！」%K%P
+Kid「No... Not yet!」%K%P
+0x2868
+この足音なら、武が来るよりも先に近くの部屋に逃げ込める……そう判断した。%K%P
+At that distance, I decided that it would be better to make a dash for the nearest room.%K%P
+0x2874
+少年「行こう！　きっと間に合うから」%K%P
+Kid「Let's go! I think we'll make it.」%K%P
+0x28AC
+ぼくは沙羅と空を引き連れ、通路を駆け戻った。%K%P
+I dragged Sara and Sora back down the corridor.%K%P
+0x28B8
+入り口を見つけ、部屋の中へと躍り込む。%K%P
+We found an entrance and dove into a room.%K%P
+0x28CC
+しかし――！%K%P
+But...!%K%P
+0x28D8
+武「って、少年じゃねーか！」%K%P
+Takeshi「Hey, if it ain't the Kid!」%K%P
+0x28E4
+（わぁっ！　ど、どうして！？）%K%P
+(Whoa! What happened?)%K%P
+0x28F0
+まさか……先回りされた？？%K%P
+I couldn't believe it... He'd cut us off.%K%P
+0x28FC
+少年「だ、だめだ！　戻って！！」%K%P
+Kid「It's no good! Go back!」%K%P
+0x2910
+沙羅「え？　え？　どういうこと！？」%K%P
+Sara「Huh? What do you mean?」%K%P
+0x2934
+通路へと引き返すと……%K%P
+Just as we went to turn back to the corridor...%K%P
+0x2948
+武「みーっけ！」%K%P
+Takeshi「Gotcha!」%K%P
+0x2954
+そこに、武が現れた。%K%P
+There was Takeshi.%K%P
+0x2960
+少年「！？！？！？」%K%P
+Kid「!?」%K%P
+0x297C
+沙羅「あーあぁ……」%K%P
+Sara「Awwww...」%K%P
+0x2988
+空「見つかってしまいましたね」%K%P
+Sora「He caught us!」%K%P
+0x29A4
+武「まったく、手こずらせやがって……」%K%P
+Takeshi「Geez, that took a long time...」%K%P
+0x29B8
+沙羅「もうっ！　少年が、戻れなんて言うからだよ？」%K%P
+Sara「Oh! It's all because the Kid said we should go back!」%K%P
+0x29C4
+少年「だって……だって…………」%K%P
+Kid「But... But...」%K%P
+0x29D0
+ぼくは、もうわけがわからなくなっていた。%K%P
+I didn't know what else to do.%K%P
+0x2A10
+%N
+
+0x2A1C
+%LC＜缶、踏んだ＞⑳%K%O
+%LC<Can stomp>%K%O
+0x2A3C
+それからしばらくして、優も見つかってしまった。%K%P
+Not long after that, he found You as well.%K%P
+0x2A90
+ぼくらは会議室に集合した。%K%P
+We met in the conference room.%K%P
+0x2AA4
+武「おーし！　あとは、つぐみだけだな」%K%P
+Takeshi「Alright! Now I just need to get Tsugumi.」%K%P
+0x2AB0
+缶を踏みつけ、満足そうに武。%K%P
+Takeshi stepped on the can, looking satisfied.%K%P
+0x2AC4
+武「にしても、変なんだよなぁ……」%K%P
+Takeshi「Still, it's kinda weird...」%K%P
+0x2AD8
+少年「変って？　何が？」%K%P
+Kid「Weird? What is?」%K%P
+0x2AE4
+武「さっき蹴られた缶なんだけど……缶はそのままだったんだよ」%K%P
+Takeshi「The can, when it was kicked before... It was still in the same place.」%K%P
+0x2AF8
+優「はぁ？　言ってること、意味不明だよ？」%K%P
+You「Huh? I don't know what you're trying to say.」%K%P
+0x2B0C
+武「だからぁ！　蹴られたはずの缶が、こうやって立ってたんだって！」%K%P
+Takeshi「I mean that the can should have been kicked, but it was still standing up!」%K%P
+0x2B18
+缶をゲシゲシ踏みながら、武は言った。%K%P
+Takeshi said that as he squished the can some more.%K%P
+0x2B24
+武「まるで、誰も蹴ってなかったみたいに」%K%P
+Takeshi「It was like no one had kicked it.」%K%P
+0x2B38
+空「蹴られた缶が転がって、そのまま起きあがったのではないでしょうか？　理論上はありえます」%K%P
+Sora「Isn't it likely that the can was toppled and righted itself? Theoretically, it is quite possible.」%K%P
+0x2B4C
+武「最初に置いてあった位置に、か？」%K%P
+Takeshi「In the same place I put it?」%K%P
+0x2B60
+空「それは……変ですね」%K%P
+Sora「That is... odd.」%K%P
+0x2B7C
+沙羅「そんなことよりも、早くつぐみを捜しに行かなくていいの？」%K%P
+Sara「But shouldn't you go looking for Tsugumi?」%K%P
+0x2B88
+優「そうそう。負け惜しみは、そのくらいにしなさいよ」%K%P
+You「Yeah. If you're gonna be a sore loser, you should at least go do that.」%K%P
+0x2B9C
+武「今負けてんのは、お前らの方だろーが」%K%P
+Takeshi「I'm not the loser here, you guys are!」%K%P
+0x2BA8
+優「はいはい。そうでした。そうでございましたよ……」%K%P
+You「Whatever. You're right. It's exactly as you say...」%K%P
+0x2BB4
+沙羅「もうわかったから、さっさと捜して来なさいって」%K%P
+Sara「We got it already. Now get out of here and search.」%K%P
+0x2BC0
+優と沙羅、ふたりして手をヒラヒラ振って、武を追っ払おうとする。%K%P
+You and Sara waved Takeshi away.%K%P
+0x2BD4
+武「ったく、なんて偉そうな……全然勝ってる気がしねぇよ……」%K%P
+Takeshi「Geez. You're so full of yourself... It doesn't even feel like I won...」%K%P
+0x2C04
+ブツブツ言いながら、武は部屋を出て行った。%K%P
+Takeshi left the room, grumbling.%K%P
+0x2C10
+………………。%K%P
+......%K%P
+0x2C24
+それから、すぐの事だった。%K%P
+Soon after that...%K%P
+0x2C64
+ぱっかーーーーん！！%K%P
+Kabing!%K%P
+0x2C8C
+かんからんからから……%K%P
+Clatter, clatter, clatter...%K%P
+0x2C98
+闇の中に、缶が蹴飛ばされる音がこだました。%K%P
+The sound of a can being kicked rang out in the darkness.%K%P
+0x2CA4
+少年「あ、あれれ？？」%K%P
+Kid「Wh-what was that?」%K%P
+0x2CB8
+優「な、なんだか、よくわかんないけど……」%K%P
+You「I have no idea, but...」%K%P
+0x2CCC
+沙羅「チャーンス！」%K%P
+Sara「Now is our chance!」%K%P
+0x2CE0
+空「い、いいのでしょうか……？」%K%P
+Sora「Do... Do you think we should...?」%K%P
+0x2CEC
+少年「いい……のかな？」%K%P
+Kid「I wonder... if it's okay?」%K%P
+0x2D00
+混乱しながらも、ぼくらは三度逃げ出した。%K%P
+In the confusion, we made our third escape.%K%P
+0x2D58
+武「おいっ！　見つかった奴が蹴ったらルール違反だろーが！」%K%P
+Takeshi「Hey! Once you've been caught, it's against the rules to kick the can!」%K%P
+0x2D64
+遥か後方から、武の叫び声が聞こえた。%K%P
+We heard Takeshi shouting soon after.%K%P
+0x2D70
+無論、ぼくも優も沙羅も空も……誰ひとり、缶は蹴っていない。%K%P
+Of course, neither I, You, Sara, nor Sora... none of us had kicked the can.%K%P
+0x2D7C
+『きっと、またつぐみだろう』%K%P
+'Oh, that had to be Tsugumi again.'%K%P
+0x2D88
+『知らないうちに、部屋に忍び込んでいたのだ』%K%P
+'She probably sneaked into the room without anybody noticing.'%K%P
+0x2D94
+そう、ぼくらは考えた。%K%P
+That was what we thought.%K%P
+0x2DCC
+………………。%K%P
+......%K%P
+0x2DD8
+………………。%K%P
+......%K%P
+0x2DE4
+………………。%K%P
+......%K%P
+0x2DF0
+結局、ぼくらはすぐに見つかってしまった。%K%P
+Ultimately, Takeshi soon caught us again.%K%P
+0x2DFC
+反則を主張する武が、すぐに捜しに出たために、あまり遠くに隠れることができなかったのだ。%K%P
+He howled that we had cheated and started out to find us right away, so we didn't get far.%K%P
+0x2E08
+武は全員を指差し確認しながら、念入りに『缶踏んだ』を（つぐみのぶんも含めて）した。%K%P
+Takeshi checked to make sure everyone was there and stepped on the can (even once for Tsugumi.)%K%P
+0x2E14
+今度は誰も缶を蹴らなかった……。%K%P
+The next time, nobody kicked the can...%K%P
+0x2E5C
+武「今度は少年が鬼だからな」%K%P
+Takeshi「This time, the Kid is 'it'.」%K%P
+0x2E68
+少年「わかった。百数えればいいんだね？」%K%P
+Kid「Alright. So I count to 100, right?」%K%P
+0x2EA0
+ぼくは空き缶を受け取り、椅子に座って顔を伏せた。%K%P
+I took the can and sat in the chair with my face down.%K%P
+0x2EAC
+少年「じゃ、始めるよ……」%K%P
+Kid「Alright, here I go...」%K%P
+0x2EB8
+少年「い～ち、に～ぃ、さ～ん……」%K%P
+Kid「O-n-e, t-w-o, t-h-r-e-e...」%K%P
+0x2EE0
+ぼくをその場に残し、武達は会議室を出て行った。%K%P
+They left the conference room, fleeing around the floor.%K%P
+0x2EFC
+少年「ひゃーく、っと……」%K%P
+Kid「O-n-e h-u-n-d-r-e-d...」%K%P
+0x2F50
+目を開ける。%K%P
+I opened my eyes.%K%P
+0x2F5C
+ぼくは空き缶を足元に置いた。%K%P
+I set the empty can by my feet.%K%P
+0x2F68
+それも、できるだけ入り口から遠いところに。%K%P
+It was as far from the entrance as I could get it.%K%P
+0x2F74
+辺りの暗がりを見回したが、誰もいないようだ。%K%P
+I looked around in the dim light. There was no one around.%K%P
+0x2F80
+（それじゃ、捜すとしますか……）%K%P
+(I guess I'll have to go look...)%K%P
+0x2F94
+とりあえず、どこかの部屋に向かうとしよう。%K%p
+I decided to head off to check some rooms.%K%p
+0x30B0
+どこに隠れてるんだろ……？%K%p
+I wondered where they'd hid.%K%p
+0x30C4
+残る場所と言えば……%K%P
+Where else was left...%K%P
+0x30D8
+あとはどこかな？%K%p
+I selected from the...%K%p
+0x5160
+中央制御室へ
+
+0x516C
+レムリア遺跡へ
+
+0x5178
+エレベーターホールへ
+
+0x5184
+憩いの間へ
+
+0x5190
+売店へ
+
+0x519C
+会議室へ
+
+0x31AC
+レムリア遺跡。%K%P
+The Lemurian Ruins.%K%P
+0x31B8
+遥か大昔、海の底に沈んだ（らしい）大陸をモチーフにしたアトラクション。%K%P
+The attraction was designed with the motif of a lost continent believed to have sunk to the ocean floor ages ago.%K%P
+0x31C4
+暗闇の中に佇むその不気味な様相は、ぼくもまた、深海に沈んでしまったかのように錯覚させた。%K%P
+Standing there in the darkness in that eerie setting, it almost made me imagine that I had sunk to the bottom of the ocean.%K%P
+0x31D0
+……いや、半分正解なんだけど。%K%P
+No, that was only half true.%K%P
+0x31F8
+じゃり……。%K%P
+Scrunch.%K%P
+0x3204
+――ん？%K%P
+Huh?%K%P
+0x3210
+今、人の気配がした。%K%P
+It sounded like a footstep.%K%P
+0x321C
+（誰か、いる……？）%K%P
+(Is someone there...?)%K%P
+0x3228
+……………………。%K%P
+...%K%P
+0x3234
+気のせいか？%K%P
+I wondered if it was my imagination.%K%P
+0x3240
+いや、違う。%K%P
+It wasn't.%K%P
+0x324C
+前方の建物……その中の暗がりに、人影がうっすらと見える。%K%P
+In the darkness... In the building in front of me was the dim outline of a person.%K%P
+0x3258
+これだけ暗くて遠いと、誰なのか特定できない。%K%P
+But in that light and at that distance, I couldn't be sure who it was.%K%P
+0x3264
+その人物は、こっちが気づいていないとでも思っているのか、じっと息を潜めているだけだ。%K%P
+It was like the person was holding their breath, waiting for me not to notice.%K%P
+0x3270
+だが、すぐにでも走り出せるような、そんな姿勢をとっている。%K%P
+But he or she looked like they were ready to dash off in an instant.%K%P
+0x327C
+下手に近づこうすれば、逃げられてしまうだろう。%K%P
+I thought that if I bumbled closer, the person would run away.%K%P
+0x3288
+この位置から、なんとか識別しなくては……。%K%P
+I'd have to figure out who it was from afar...%K%P
+0x3294
+えーっと……あのシルエットは…………%K%P
+Uh... It had to be...%K%P
+0x32A0
+少年「ゆ、優、みーっけ！」%K%P
+Kid「You... I found you!」%K%P
+0x32AC
+？？「！？」%K%P
+???「!?」%K%P
+0x32B8
+観念したのか、その人物はこっちにやってきた。%K%P
+As if it had given up, the silhouette started toward me.%K%P
+0x32CC
+優「どうしてわかったの？」%K%P
+You「How did you know it was me?」%K%P
+0x32D8
+ビンゴ！%K%P
+Bingo!%K%P
+0x32E4
+ぼくの勘は、冴えているようだった。%K%P
+It looked like my hunch had paid off.%K%P
+0x331C
+――缶踏んだ。%K%P
+―I stepped on the can.%K%P
+0x3384
+中央制御室へとやってきた。%K%P
+We headed to the central control room.%K%P
+0x3390
+この中に、人が隠れるような場所はないと思うが……。%K%P
+I didn't think there was anywhere there for anyone to hide...%K%P
+0x33CC
+少年「あっ！」%K%P
+Kid「Oh!」%K%P
+0x33D8
+部屋をグルリと取り囲むようにして設置されている、大画面モニターとコンソール。%K%P
+The room was set up with the center surrounded by a giant monitor and console.%K%P
+0x33E4
+その前に、つぐみがいた。%K%P
+There was Tsugumi.%K%P
+0x33F0
+椅子にダラリと座って、何も映っていない画面を、ボンヤリと見つめている。%K%P
+She sat slouching in her chair, staring blankly at the monitor.%K%P
+0x33FC
+少年「つぐみ、みーっけ！」%K%P
+Kid「Tsugumi, I caught you!」%K%P
+0x3408
+ぼくが指さし宣言すると、つぐみは面倒くさそうに、こちらを向いた。%K%P
+At my declaration, Tsugumi looked at me like I was a fly in her soup.%K%P
+0x341C
+つぐみ「あのね……」%K%P
+Tsugumi「Um...」%K%P
+0x3428
+ジロリと睨みつけられる。%K%P
+She glared at me.%K%P
+0x343C
+つぐみ「私は、参加なんてしていない」%K%P
+Tsugumi「I'm not playing.」%K%P
+0x3448
+少年「またまた。さっき、２度も缶を蹴ったくせに～」%K%P
+Kid「Come on. You already kicked the can twice.」%K%P
+0x3454
+武は簡単に騙されたかもしれないけれど、ぼくの場合、そうはいかないのだ。%K%P
+Takeshi might have fallen for it, but not me.%K%P
+0x3460
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x3498
+――念のため、缶踏んだ。%K%P
+I stepped on the can just to be safe.%K%P
+0x34F8
+エレベーターホール。%K%P
+The elevator hall.%K%P
+0x3504
+そこに、人がいる気配はしない。%K%P
+There was no sign of anyone.%K%P
+0x3520
+一応のため、ぼくと優の隠れた例のエレベーターの中も確認した。%K%P
+Just in case, I also checked inside the elevator that You and I had hid inside.%K%P
+0x3534
+一応のため、昨日、沙羅の閉じこめられていたエレベーターの中も確認した。%K%P
+Just in case, I also checked in the elevator that Sara had been trapped in the day before.%K%P
+0x3540
+エレベーターの扉は、開いたままだったのだ。%K%P
+The elevator door was still open.%K%P
+0x354C
+もちろん、誰もいなかった。%K%P
+Of course, there was no one there.%K%P
+0x3558
+ここにいるのは、まったくの時間の無駄だ。%K%P
+That place was a waste of time.%K%P
+0x3564
+他の場所へ行こう。%K%P
+I decided to go elsewhere.%K%P
+0x35D4
+憩いの間にやってきた。%K%P
+I made for the rest area.%K%P
+0x35E0
+一見すると、誰もいない様子だけど……。%K%P
+At first, it looked like there was no one there either...%K%P
+0x35EC
+……あれ？%K%P
+...But...%K%P
+0x35F8
+ぼくは、あることに気づいた。%K%P
+Then I noticed something.%K%P
+0x3604
+広場のところどころに直立している石柱。そのうちの１本のシルエットが、妙な形なのだ。%K%P
+One of the stone pillars' silhouettes in the open area was an odd shape.%K%P
+0x3610
+いや、正確に言えば……柱の上部に『妙なもの』がくっついているような感じなのだ。%K%P
+No, it was the top of the pillar that had something strange about it.%K%P
+0x361C
+その柱に近づいていく、ぼく。%K%P
+I edged closer.%K%P
+0x3628
+少年「………………」%K%P
+Kid「.........」%K%P
+0x3634
+やっぱり『何か』いる。%K%P
+There was definitely 'something' there.%K%P
+0x3640
+ここからだと、はっきりとその『何か』は特定できないが、人に間違いないだろう。%K%P
+From where I was, I couldn't tell exactly what that 'something' was, but it was definitely a person.%K%P
+0x364C
+もしかして、コアラのつもりだろうか。%K%P
+Maybe they thought they were acting like a koala.%K%P
+0x3658
+落ちたら、どうするつもりなのだろう？%K%P
+What did they intend to do if they fell?%K%P
+0x3664
+（っていうか、それ、隠れてるって言えるの？）%K%P
+(I mean, can you really call that hiding?)%K%P
+0x3670
+ぼくは、その『へばりついている誰か』に呼びかけた。%K%P
+I called out to that clinging 'something'.%K%P
+0x367C
+少年「あのー、疲れませんかー？　危ないですよー」%K%P
+Kid「Uh, isn't that tiring? It sure looks dangerous.」%K%P
+0x3688
+？？「…………っ！」%K%P
+???「...!」%K%P
+0x3694
+少年「それにしても、ものすごい根性だね」%K%P
+Kid「But you sure have got a lot of guts.」%K%P
+0x36A0
+少年「見直したよ、武」%K%P
+Kid「You're tougher than I thought, Takeshi.」%K%P
+0x36B4
+武「ぐあっ……！　なんで俺だとわかったんだぁ？」%K%P
+Takeshi「Arrrggh...! How'd you know it was me?」%K%P
+0x36C0
+武は柱をズリズリと滑り降りてくる。%K%P
+Takeshi slid down the column.%K%P
+0x36CC
+（そんなアホな真似するとしたら、武しかいないんだよ）%K%P
+(The only person stupid enough to hide there was Takeshi.)%K%P
+0x36D8
+少年「みーっけ！」%K%P
+Kid「I gotcha!」%K%P
+0x3710
+――缶踏んだ。%K%P
+―I stepped on the can.%K%P
+0x3770
+タツタサンドの売店。%K%P
+The tuna sandwich shop.%K%P
+0x377C
+そこに、人がいる気配はしない。%K%P
+There was no sign of anyone.%K%P
+0x3788
+一応のため、店内も見て回った。%K%P
+Just in case, I peeked inside.%K%P
+0x3794
+もちろん、誰もいなかった。%K%P
+Of course, there was no one there.%K%P
+0x37A0
+ここにいるのは、まったくの時間の無駄だ。%K%P
+That place was a waste of time.%K%P
+0x37AC
+他の場所へ行こう。%K%P
+I decided to go elsewhere.%K%P
+0x3814
+会議室に戻ってきた。%K%P
+I returned to the conference room.%K%P
+0x3820
+人の気配はしない。%K%P
+There was no sign of anyone there.%K%P
+0x382C
+缶は、ぼくの設置した場所に、そのままの姿で佇んでいる。%K%P
+The can stood silently where I had left it.%K%P
+0x3838
+一応のため、部屋の隅々を見て回った。%K%P
+Just in case, I looked in the corners of the room.%K%P
+0x3844
+もちろん、誰もいなかった。%K%P
+Of course, there was no one there.%K%P
+0x3850
+ここにいるのは、まったくの時間の無駄だ。%K%P
+That place was a waste of time.%K%P
+0x385C
+他の場所へ行こう。%K%P
+I decided to go elsewhere.%K%P
+0x3890
+あとは、沙羅と空だけだった。%K%P
+Only Sara and Sora remained.%K%P
+0x389C
+残されたふたりの姿を求めて、ぼくはドリットシュトックを歩き回っていた。%K%P
+I walked around Dritter Stock looking for the two of them.%K%P
+0x38C4
+――！？%K%P
+―!?%K%P
+0x38D0
+会議室方面に、足音。%K%P
+I heard footsteps in the direction of the conference room.%K%P
+0x38DC
+沙羅達に間違いない。%K%P
+I was sure it was Sara.%K%P
+0x38E8
+（まさか、缶を蹴る気か！？）%K%P
+(No way, is she trying to kick the can!?)%K%P
+0x391C
+ぼくはダッシュで会議室に向かった。%K%P
+I made a mad dash for the conference room.%K%P
+0x3960
+会議室への入り口。%K%P
+At the entrance to the room―%K%P
+0x396C
+その扉を、今まさに潜ろうとする２名の人物。%K%P
+The two of them were just at the door―%K%P
+0x3978
+――沙羅と空。%K%P
+―Sara and Sora.%K%P
+0x3984
+彼女らを追って、猛ダッシュで部屋に飛び込んだ。%K%P
+I sprinted into the room on their heels.%K%P
+0x39C0
+少年「沙羅と空、みーっけ！」%K%P
+Kid「I gotcha! Sara and Sora!」%K%P
+0x39E8
+たったったったった……。%K%P
+Pata, pata, pata...%K%P
+0x39F4
+しかし、沙羅は無視して走り続ける。%K%P
+But Sara just ignored me and kept running.%K%P
+0x3A00
+缶を目がけて一直線に。%K%P
+Her eyes were on the can.%K%P
+0x3A0C
+まるで、そこに缶があることを知っていたかのように。%K%P
+It was as if she knew where the can was.%K%P
+0x3A18
+（ち、ちくしょー！　缶の位置は変えたはずなのにっ）%K%P
+(D-damn! I thought I changed the location of the can.)%K%P
+0x3A24
+ぼくも缶へと走り寄る。%K%P
+I also ran toward the can.%K%P
+0x3A4C
+たったったったった……。%K%P
+Pata, pata, pata...%K%P
+0x3A58
+――沙羅が蹴るのが先か？%K%P
+Would she kick the can first?%K%P
+0x3A64
+――ぼくが踏むのが先か？%K%P
+Or would I step on it first?%K%P
+0x3A70
+沙羅「たぁーーーっ！」%K%P
+Sara「Waaaaa!」%K%P
+0x3A7C
+少年「なにくそっ！！」%K%P
+Kid「Damn!」%K%P
+0x3AFC
+ふたりでもつれ合って、床を転がっていく。%K%P
+The two of us tumbled to the floor.%K%P
+0x3B08
+少年「痛ててて……」%K%P
+Kid「Ouch...」%K%P
+0x3B14
+沙羅「痛ったぁ……」%K%P
+Sara「Ow...」%K%P
+0x3B54
+少年「あ……」%K%P
+Kid「Oh...」%K%P
+0x3B60
+気がつくと、ぼくが沙羅の上に覆い被さるような姿勢になっていた。%K%P
+The next thing I knew, I was on top of Sara.%K%P
+0x3B6C
+沙羅は目を見開いて、ぼくを見ている。%K%P
+Sara's eyes were open, staring at me.%K%P
+0x3B78
+かろうじて腕で踏ん張れたから、最後の接触だけは防げたものの……%K%P
+I barely managed to support my body with my arms so that I didn't come into contact with her, but...%K%P
+0x3B84
+かつてないほどに、彼女の顔はすぐ間近に接近していた。%K%P
+Her face was closer to me than I had ever imagined.%K%P
+0x3B90
+少年「…………」%K%P
+Kid「...」%K%P
+0x3B9C
+目の前には、吸い込まれそうな瞳と、形の良い鼻と、わずかに開かれた唇と、その奥に見える濡れた舌……。%K%P
+I felt like I might be sucked into her eyes and was captivated by her cute nose, slightly opened lips, and glimpse of her tongue...%K%P
+0x3BA8
+沙羅「…………」%K%P
+Sara「...」%K%P
+0x3BB4
+沙羅の口から漏れた吐息が顔にあたる。%K%P
+I felt her breath on my face.%K%P
+0x3BC0
+さっきまで走り回っていた彼女は、肌をほのかに上気させている。%K%P
+She had been running until that time, and I felt the heat rising from her skin.%K%P
+0x3BCC
+汗の匂いがした。%K%P
+It smelled of sweat.%K%P
+0x3BD8
+ぼくと沙羅、ふたりの交じり合った汗の匂い。%K%P
+The smell of our sweat mixed together.%K%P
+0x3BE4
+ぼくは彼女の体温を、直に、間接的に、感じている。%K%P
+I felt the warmth of her body against me.%K%P
+0x3BF0
+ひどく息苦しい……頭がボーッとする。%K%P
+It was hard to breathe... My mind started to go blank.%K%P
+0x3BFC
+全身が硬直し、身動きひとつとれない。%K%P
+My whole body stiffened, and I couldn't move.%K%P
+0x3C08
+ぼくらは金縛りにあったように、その体勢のまま、互いをじっと見つめ合っていた。%K%P
+It was as if our bodies were paralyzed as we lay there staring at each other.%K%P
+0x3C1C
+じわりじわりと頬を高揚させる沙羅。%K%P
+Sara slowly raised up her cheek.%K%P
+0x3C28
+（や、やばいっ！　怒ってるよ……）%K%P
+(Oh... Oh... Danger! She's mad...)%K%P
+0x3C34
+っていうか、こんなことしている場合じゃないのだ。%K%P
+That was not what I should have been worrying about.%K%P
+0x3C40
+缶は……？　缶は無事か？？%K%P
+The can...? Where was the can?%K%P
+0x3C4C
+首を巡らし、空き缶の姿を探し求める。%K%P
+I turned my neck, searching for the can.%K%P
+0x3C58
+………………。%K%P
+...%K%P
+0x3C64
+――無事だ！！%K%P
+There it was!%K%P
+0x3C78
+沙羅の上から飛び退くと、ぼくは彼女を指さし、高らかに宣言した。%K%P
+I jumped off of Sara, pointed to her, and declared loudly...%K%P
+0x3C84
+少年「さ、沙羅と空、みーーっけ！！」%K%P
+Kid「Sara and Sora! I gotcha!」%K%P
+0x3C90
+そして、意気揚々と、缶を踏みつけた。%K%P
+And I stepped on the can triumphantly.%K%P
+0x3CB4
+――これで最後の『缶、踏ーんだ！』%K%P
+That was the last stepping on the can.%K%P
+0x3D28
+武「それにしても、瞬殺だったな」%K%P
+Takeshi「Geez. He slaughtered us.」%K%P
+0x3D34
+空「倉成さんの、半分以下の時間でしたね」%K%P
+Sora「That was twice as fast as Kuranari-san.」%K%P
+0x3D48
+武「俺が鬼んときは、反則が多すぎたんだっつーの！」%K%P
+Takeshi「When I was 'it', everybody was cheating.」%K%P
+0x3D5C
+優「でも、こんなに暗いのに、ドンピシャで名前当てまくるなんて、すっごい勘だよねぇ」%K%P
+You「Wow. I can't believe you guessed everybody right in the dark. It's pretty amazing.」%K%P
+0x3D68
+みんながぼくを囲んで、ワイのワイのと騒がしい。%K%P
+Everyone crowded around me and started making a fuss.%K%P
+0x3D84
+沙羅「あの、先輩……どういうことですか？」%K%P
+Sara「Nakkyu... What are you talking about?」%K%P
+0x3D98
+優「あ、マヨは知らないのか。この子ね……」%K%P
+You「Oh, Mayo, you don't know? This kid...」%K%P
+0x3DAC
+優はぼくの頭に手を乗せながら、自分や武が見つかったときの様子を話し始めた。%K%P
+As You placed her hand on my head, she explained about how I had caught her and Takeshi.%K%P
+0x3DC0
+武「おい、つぐみ！　いい加減、白状したらどうだ？　お前も、こっそり参加してたんだろ？」%K%P
+Takeshi「Hey, Tsugumi! Give it up. Why don't you just come out and admit you were playing too?」%K%P
+0x3DCC
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x3DD8
+いつの間にか、つぐみも会議室に戻ってきていた。%K%P
+At some point, Tsugumi had returned to the conference room.%K%P
+0x3DE4
+当のつぐみは、武のことなんか無視して、椅子にもたれて狸寝入りを決め込んでいるようだが……。%K%P
+Tsugumi sat in a chair, pretending to be asleep, and ignored Takeshi.%K%P
+0x3DF0
+ふと、視線を感じて振り向いた。%K%P
+I felt someone watching me and turned around.%K%P
+0x3E0C
+沙羅「…………」%K%P
+Sara「.........」%K%P
+0x3E18
+沙羅が怪訝な目つきで、こちらを見つめている。%K%P
+Sara was looking at me strangely.%K%P
+0x3E24
+もしかして、まだ怒っているのだろうか……？%K%P
+I thought she might be angry again...%K%P
+0x3E30
+（あれは、事故なのに……）%K%P
+(It was just an accident...)%K%P
+0x3E44
+ぼくは気まずくなって、目を逸らした。%K%P
+I avoided her look uncomfortably.%K%P
+0x3E7C
+そのままヤミオニはお開きになった。%K%P
+That was the end of kick the can.%K%P
+0x3E88
+結局、あの時、缶を蹴ったのが誰かは謎のままだったが……%K%P
+In the end, it remained a mystery who kicked the can those times...%K%P
+0x3E94
+夜はそれ以上何事もなく、静かに更けていき……%K%P
+We passed the rest of the night uneventfully...%K%P
+0x3EA0
+ぼくらは、平穏な時間の中で……%K%P
+It was a peaceful time...%K%P
+0x3EAC
+今は平穏な眠りを満喫することにした。%K%P
+And I decided to enjoy a satisfying rest.%K%P

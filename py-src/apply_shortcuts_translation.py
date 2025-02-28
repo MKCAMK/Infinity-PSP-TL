@@ -9,12 +9,12 @@ import r11
 
 table_offset = 0x10
 table_entry_sz = 0x34
-table_entry_count = 30
-addr_text = [0x62c, 0xf2e]
-shortcut_data_offset = 0xf30
-data2_offset = 0x36c8
-data2_table_off = 0x30
-data2_table_sz = 90
+table_entry_count = 32
+addr_text = [0x694, 0x1582]
+shortcut_data_offset = 0x1584
+data2_offset = 0x1EEC
+# data2_table_off = 0x30
+# data2_table_sz = 90
 
 def main():
 
@@ -42,15 +42,20 @@ def main():
 
   body = bytearray()
   
-  jp_pattern = re.compile("^;([\da-fA-F]*);([\d]*);(.*)$")
+  jp_pattern = re.compile("^;([\\da-fA-F]*);([\\d]*);(.*)$")
   text_pos = 0
   text_max_len = 0
-  for ln in txt_lines:
-    match = jp_pattern.match(ln)
+  for i in range(len(txt_lines)):
+    match = jp_pattern.match(txt_lines[i])
     if match:
       table_off = int(match.group(1), 16)
       max_len = int(match.group(2), 10)
-      string = match.group(3)
+      
+      if i < len(txt_lines)-1 and txt_lines[i+1]:
+        i += 1
+        string = txt_lines[i]
+      else:
+        string = match.group(3)
 
       text_max_len += max_len + 1
 

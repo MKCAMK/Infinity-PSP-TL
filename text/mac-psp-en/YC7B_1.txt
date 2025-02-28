@@ -1,0 +1,516 @@
+text area offset and size:
+0xA80
+0x278D
+0x34
+ホクトとボクは２０３４年の世界へと戻った。%K%P
+Hokuto and I went back to the world of 2034.%K%P
+0x40
+驚くべきことに――未来がすっかりと変わっていた！%K%P
+Surprisingly, the future had been completely altered!%K%P
+0x4C
+武がいる。ココがいる。%K%P
+Takeshi was there. Coco was there.%K%P
+0x58
+優美清春香菜がいる。優美清秋香菜がいる。%K%P
+Yubiseiharukana was there. So was Yubiseiakikana.%K%P
+0x64
+つぐみがいる。沙羅がいる。%K%P
+Tsugumi was there. Sara was there.%K%P
+0x70
+空がいる。桑古木がいる。%K%P
+Sora was there. Kaburaki was there.%K%P
+0x7C
+そしてホクトもここにいる。%K%P
+And so was Hokuto.%K%P
+0x88
+みんなは輪になって、楽しそうにしゃべっていた。%K%P
+They were chatting happily in a circle.%K%P
+0x94
+なんだかよくわからないけど……とにかく良かった……。%K%P
+I didn't know what had happened, but... I was just relieved...%K%P
+0xA0
+未来は変わったんだ……。%K%P
+The future had been altered...%K%P
+0xAC
+でも、なぜだろう……？%K%P
+But how did it happen...?%K%P
+0xB8
+たぶん優美清春香菜が、ホクトとの約束を守って、あの後すぐにココと武を救出してくれたからだろう。%K%P
+I supposed Yubiseiharukana had kept her promise with Hokuto, so Coco and Takeshi were rescued immediately afterward.%K%P
+0xC4
+この歴史の中では、武は１７年前に死ぬこともなく、今日まで生き続けて来たんだ。%K%P
+In that version of history, Takeshi hadn't died seventeen years previously, but was still alive and well.%K%P
+0xD0
+だからこの世界では、つぐみはホクトと沙羅を施設に預けたりせずに済んだんだ。%K%P
+So, in that world, Tsugumi didn't have to send Hokuto and Sara to the institution.%K%P
+0xDC
+この未来は、ホクトと沙羅が離れ離れになっていない世界なんだ。%K%P
+In that version of the future, Hokuto and Sara didn't have to be separated.%K%P
+0xE8
+それに……。%K%P
+Besides...%K%P
+0xF4
+そもそも２０３４年の事件は、ボク――ブリックヴィンケルを発現させる為に画策されたものだと言う。%K%P
+I understood that the incident in 2034 was planned so that I, Blick Winkel, would come into existence.%K%P
+0x100
+ボクを降臨させることによって、過去を改ざんし、ココと武を救おうとした……。%K%P
+It was planned to have me descend into the world so that the past would be altered and Coco and Takeshi would be saved.%K%P
+0x10C
+けれど……この歴史の中ではすでに、１７年前に、ココも武も無事救出されている。%K%P
+But... in that history, Coco and Takeshi had already been rescued safely seventeen years prior.%K%P
+0x118
+従って、ボクをこの世界へと発現させる動機など、もはやここには存在しない。%K%P
+Therefore, there was no longer any way to grab my attention and make me appear in the world.%K%P
+0x124
+ゆえに、優美清春香菜には『みんなをＬｅＭＵに監禁する』などといった無謀な計画を立案する必要はなかったと思われる。%K%P
+Therefore, Yubiseiharukana didn't have to come up with an outrageous plan to trap everyone at LeMU.%K%P
+0x130
+ということは、２０３４年５月１日に始まったあの事件も、この歴史の中では起きていないということになる。%K%P
+Which meant that the incident starting on May 1st, 2034, hadn't taken place in that history.%K%P
+0x13C
+彼らは、誰ひとりとして、ＬｅＭＵに閉じ込められたりはしなかったんだ。%K%P
+None of them had been trapped in LeMU.%K%P
+0x148
+であるとするならば、優美清春香菜が、優美清秋香菜に嘘をつく理由もなくなる。%K%P
+Which meant that Yubiseiharukana had no reason to lie to Yubiseiakikana.%K%P
+0x154
+きっとこの歴史の中では、優美清春香菜は、優美清秋香菜に真実を告げているんだと思う。%K%P
+Yubiseiharukana must have told Yubiseiakikana the truth in that history.%K%P
+0x160
+かくして、２０１７年から今日に至るまで、彼らは穏やかな日々を過ごすことになった。%K%P
+As such, they were all able to spend their lives peacefully from 2017 until now.%K%P
+0x16C
+みんなが生きていて、ただひたすら平和でほのぼのとした時間が流れていった……。%K%P
+They all had lived safely with time just passing by peacefully and slowly...%K%P
+0x178
+その時間の先端にあるのが、今、ボクの見ている世界なんだ。%K%P
+And that was what I was seeing right then.%K%P
+0x184
+……………………………………………。%K%P
+.........%K%P
+0x1AC
+いや、ちょっと待てよ……。%K%P
+Hey, but wait a second...%K%P
+0x1B8
+もう一度良く考えてみよう。%K%P
+I needed to think a little more about it.%K%P
+0x1C4
+２０１７年で武とココは、優美清春香菜の行動によって救われた。%K%P
+In 2017, Takeshi and Coco were saved by Yubiseiharukana's actions.%K%P
+0x1D0
+そうして平和な時間がどんどん過ぎ、やがて２０３４年（今のこの世界）がやって来る。%K%P
+So, if the time passed by peacefully, it would eventually be the year 2034.%K%P
+0x1DC
+事件は起きない。%K%P
+There wouldn't be any accident.%K%P
+0x1E8
+ボク――ブリックヴィンケルも現れない。%K%P
+I, Blick Winkel, wouldn't appear.%K%P
+0x1F4
+するとどうなるか？%K%P
+What would happen then?%K%P
+0x200
+この世界からは、過去（２０１７年）の武に向かって、ホクトは語りかけていないのだ。%K%P
+Hokuto in that world wouldn't talk to Takeshi in the past (2017).%K%P
+0x20C
+ボクの知っている過去では……%K%P
+In the past that I knew...%K%P
+0x274
+ホクトは獰猛で野性的な『力』をほとばしらせて、海底に横たわった武のしかばねに対し、こう強く叫んだ。%K%P
+Hokuto had funneled his raw, untamed force, and had shouted to Takeshi's body lying on the bottom of the ocean.%K%P
+0x280
+『お父さん！　お父さん！　死んじゃやだよ！』%K%P
+'Dad! DAD! Don't you die on me!'%K%P
+0x28C
+しかし、この未来をさかのぼった過去においては、武のしかばねは、実の息子の絶叫を耳にしていない。%K%P
+But in the past retraced from that future, Takeshi had never heard his son's scream.%K%P
+0x298
+ということは……%K%P
+That meant...%K%P
+0x2A4
+武はあのまま深海で腐乱し……%K%P
+Takeshi would have long since decomposed on the bottom of the ocean...%K%P
+0x2B8
+武が蘇生しないから、ココも通路に倒れたまま……%K%P
+Since Takeshi hadn't come back to life, Coco would have been left in the hallway, and...%K%P
+0x2C4
+ふたりは死んでしまうことになる。%K%P
+Both of them would die.%K%P
+0x2D8
+なぜなら、２０１７年の事故は、歴史的な事実としてすでに発生しているからだ。%K%P
+Because the incident in 2017 had already taken place as a historical fact.%K%P
+0x2E4
+つまり、この世界と直接繋がった過去においても、２０１７年の事故は、防ぎようもなく起きているということ……。%K%P
+Which meant that even in the past connected directly to that world, the incident in 2017 wouldn't have been avoided.%K%P
+0x308
+ゆえに、この世界はそもそもあり得ないんだ！%K%P
+Therefore, that world could never be possible.%K%P
+0x314
+成立しないんだ！　致命的な矛盾を抱えてるんだ！%K%P
+It could never exist! It was a paradox!%K%P
+0x320
+もし、仮に成立するとしたら、必然的に次の疑問が生まれることになる。%K%P
+If that world could exist, a question would naturally arise.%K%P
+0x32C
+『では、今ここでこうして生きている武は、一体誰が助けたんだ？』%K%P
+'Who had saved the Takeshi who is alive here today?'%K%P
+0x338
+別の歴史の未来にいるホクトが……。%K%P
+Was it Hokuto from a different future...?%K%P
+0x344
+２０３４年で事件が発生した世界のホクトが……助けたのだろうか？%K%P
+Was it that Hokuto from a world where there had been an accident in 2034... had saved Takeshi?%K%P
+0x350
+いや……それはあり得ない……。%K%P
+No... That wasn't possible...%K%P
+0x35C
+なぜなら、２０３４年で事件を発生させる為には……%K%P
+Because in order for the incident to take place in 2034...%K%P
+0x368
+やはりどうしても――『２０１７年の時点で武が救われてしまっていてはイケナイ』からだ。%K%P
+The condition that 'Takeshi could not be saved in 2017' had to be true.%K%P
+0x374
+要するにこういうことだ。%K%P
+Which meant...%K%P
+0x388
+深海で武を復活させるには、２０３４年で事件が起きていなければならない！%K%N
+In order for Takeshi to come back to life at the bottom of the ocean, the events had to take place in 2034!%K%N
+0x394
+%N
+
+0x3A0
+通路に倒れていたココをポッドで冬眠させるには、同じく２０３４年で事件が起きていなければならない！%K%P
+And in order for Coco to go under cryogenic suspension, the events had to take place in 2034!%K%P
+0x3B4
+だから、こんな平和な世界は存在しないんだ！%K%P
+Therefore, that peaceful world could never exist!%K%P
+0x3C0
+と、ボクが結論に達した直後のことだった……。%K%P
+Just as I reached that conclusion...%K%P
+0x3FC
+みんなと談笑していた武の体が、突然、ぐずぐずと音を立てて腐り始めた。%K%P
+Takeshi, who was cheerfully talking with everyone, suddenly started to decompose with a horrible sound.%K%P
+0x408
+皮膚がぶよぶよにふやけて、べろりとめくれる。%K%P
+His skin became soggy and peeled off by itself.%K%P
+0x414
+剥き出しになった筋繊維はたちまち黒ずみ、表面がささくれ立ってポロポロと崩れた。%K%P
+His exposed muscle fibers became dark and putrid, their surface flaking away.%K%P
+0x420
+細胞が溶解して泥のように流れ落ち、足元にねっとりと広がって行く。%K%P
+His cells started to dissolve and run like mud dripping to the ground.%K%P
+0x42C
+腹部が張り裂け、内臓がでろでろとこぼれた。%K%P
+His abdomen burst open, spilling his internal organs.%K%P
+0x438
+頭髪がごっそりと抜け落ち、頭蓋骨が露わに……。%K%P
+His hair fell out in chunks, exposing the white skull underneath...%K%P
+0x444
+残ったものは、真っ白い骨と、骨にこびりついた桃色の肉片。%K%P
+All that was left were white bones with pieces of red flesh stuck to them.%K%P
+0x450
+やがてカラカラと乾いた音を立て、骨格は倒壊した。%K%P
+Eventually, even his skeleton collapsed with a dry sound.%K%P
+0x45C
+その瞬間――ココの姿が、ふっと音もなく消え失せた。%K%P
+At the same time―Coco disappeared noiselessly.%K%P
+0x4C4
+ホクトとボクは、やや狼狽しながら、２０１７年の世界へと飛んで帰った。%K%P
+Confused, Hokuto and I flew back to 2017.%K%P
+0x4D0
+優美清春香菜は、まださっきと同じ場所にいてくれた。%K%P
+Yubiseiharukana was still standing in the same place.%K%P
+0x4DC
+少年「優！　優！」%K%P
+Kid「You! You!」%K%P
+0x4F0
+優春「な、なによ！　いなくなったかと思えばまた戻って来て……」%K%P
+You'haru'「Wh-what!? You just disappeared, and now you're back again...?」%K%P
+0x4FC
+優春「さっきのは冗談でした、とか言わないでよね？」%K%P
+You'haru'「Don't tell me it was only a joke or something.」%K%P
+0x508
+少年「言わないよ」%K%P
+Kid「I won't.」%K%P
+0x514
+少年「さっきのは本当のことだ、真実なんだ」%K%P
+Kid「It was real. I'm telling the truth.」%K%P
+0x520
+少年「武とココは今、カプセルポッドで眠ってる」%K%P
+Kid「Takeshi and Coco are sleeping in the capsule pods right now.」%K%P
+0x52C
+少年「でも……でも……」%K%P
+Kid「But... But...」%K%P
+0x538
+少年「絶対に、ふたりを救出しないで！」%K%P
+Kid「You can't rescue them!」%K%P
+0x544
+優春「ええっ！？　ど、どうしてよ！？」%K%P
+You'haru'「What!? Why is that!?」%K%P
+0x550
+少年「それは……それは……」%K%P
+Kid「It's... It's because...」%K%P
+0x564
+優春「…………」%K%P
+You'haru'「.........」%K%P
+0x570
+少年「………………」%K%P
+Kid「.........」%K%P
+0x57C
+優春「……………………」%K%P
+You'haru'「..................」%K%P
+0x588
+少年「…………………………」%K%P
+Kid「..................」%K%P
+0x594
+ＢＷ「ああ、もうっ！　じれったいなぁ！」%K%P
+Blick Winkel「Ah, enough! I can't stand it any longer!」%K%P
+0x5A0
+ボクはホクトの意識を押し退けて出現した。%K%P
+I pushed away Hokuto's consciousness and jumped to the front.%K%P
+0x5AC
+ＢＷ「１７年間待って！」%K%P
+Blick Winkel「You have to wait for seventeen years!」%K%P
+0x5B8
+ボクは真っ先にそう告げた。%K%P
+I told her that before anything else.%K%P
+0x5C4
+ＢＷ「１７年後、ボクはもう一度、必ずキミ達の前に姿を現すから！」%K%P
+Blick Winkel「Seventeen years from now, I will reappear before you, I promise!」%K%P
+0x5D0
+優春「？？？」%K%P
+You'haru'「?」%K%P
+0x5DC
+彼女は口をとがらせ、首をちょこんと傾げて見せた。%K%P
+You puckered her lips and cocked her head to the side.%K%P
+0x5E8
+ＢＷ「いい？　これからボクが言うことをよく聞いてね？」%K%P
+Blick Winkel「Just listen carefully to what I am going to tell you.」%K%P
+0x5F4
+ボクはざっと次のようなことを説明した。%K%P
+I roughly explained to her...%K%P
+0x600
+ＢＷ「『今から１７年後、ボクはもう一度、キミ達の前に姿を現す』」%K%P
+Blick Winkel「'Seventeen years from now, I will reappear before you all.'」%K%P
+0x60C
+ＢＷ「これは今言ったよね？」%K%P
+Blick Winkel「I just told you that, right?」%K%P
+0x618
+ＢＷ「だけど、ボクを出現させるためには、ボクをだまさなければならないんだ」%K%P
+Blick Winkel「But in order for me to reappear, you will need to trick me.」%K%P
+0x624
+ＢＷ「だから１７年後、ボクをだまして！」%K%P
+Blick Winkel「So what I am asking you to do is trick me seventeen years from now!」%K%P
+0x630
+ＢＷ「その世界があたかも２０１７年であるかのように、ボクを錯覚させて欲しいんだ」%K%P
+Blick Winkel「Trick me into falsely believing that it is the year 2017 again.」%K%P
+0x63C
+ＢＷ「だまされたボクは、本当の自分、すなわち第３視点、ブリックヴィンケルとなって、そのうち必ずボロを出すから」%K%P
+Blick Winkel「When that happens, I will still be the third eye, Blick Winkel, and that will cause me to reveal myself.」%K%P
+0x648
+ＢＷ「ボクが現れなければ、武もココも助からない」%K%P
+Blick Winkel「And unless I reveal myself, neither Takeshi nor Coco will be saved.」%K%P
+0x654
+ＢＷ「なぜなら、海底に沈んだ武を蘇生させるには、ボクが出現して、２０１７年の世界に戻らなければならないからなんだ」%K%P
+Blick Winkel「Because, in order to restore life to Takeshi, who sank to the bottom of the ocean, I will need to appear myself and go back to the year 2017.」%K%P
+0x660
+ＢＷ「ボクが現れなければ、武はそのまま海の藻屑となってしまう」%K%P
+Blick Winkel「If I do not appear myself, Takeshi is going to rot at the bottom of the ocean.」%K%P
+0x66C
+ＢＷ「武が研究所にたどりつくことができなければ、ココも通路に倒れたままで……」%K%P
+Blick Winkel「And if Takeshi fails to reach the laboratory, Coco will be left in the hallway...」%K%P
+0x678
+ＢＷ「２人とも、死んじゃうんだよ」%K%P
+Blick Winkel「Both of them will die.」%K%P
+0x684
+ＢＷ「いい？」%K%P
+Blick Winkel「Do you get it?」%K%P
+0x690
+ＢＷ「だから絶対に、１７年経つまで、どんなことがあっても、ＩＢＦに近づいちゃダメだ！」%K%P
+Blick Winkel「No matter what happens, you need to stay away from IBF until seventeen years from now!」%K%P
+0x69C
+ＢＷ「すぐに武とココを救出してしまうと、２０３４年の事件そのものが発生しなくなっちゃうから」%K%P
+Blick Winkel「If you save Takeshi and Coco now, the events in 2034 will fail to take place.」%K%P
+0x6A8
+ＢＷ「そうなると、ボクは発現することができないわけで……」%K%P
+Blick Winkel「And if that happens, I will not appear...」%K%P
+0x6B4
+ＢＷ「ボクが現れなければ、２０１７年の武とココを救うことができないわけで……」%K%P
+Blick Winkel「If I do not appear, then I will be unable to save Takeshi and Coco in 2017...」%K%P
+0x6C0
+ＢＷ「タイムパラドックスが起こって、武もココも消えちゃうんだ」%K%P
+Blick Winkel「Which will form a time paradox, and Takeshi and Coco will disappear.」%K%P
+0x6CC
+ＢＷ「繰り返すよ？」%K%P
+Blick Winkel「I'll repeat it again, okay?」%K%P
+0x6D8
+ＢＷ「２０３４年の世界でボクを出現させる為には、決して武とココを救出してはならない」%K%P
+Blick Winkel「In order for me to appear in the year 2034, you MUST NOT rescue Takeshi and Coco now.」%K%P
+0x6E4
+ＢＷ「つらいけど、そうするしかないんだ……」%K%P
+Blick Winkel「I know it is painful, but that is the only way...」%K%P
+0x6F0
+ＢＷ「……………………………………………」%K%P
+Blick Winkel「.........」%K%P
+0x6FC
+ＢＷ「それで……ボクをだます方法なんだけど……」%K%P
+Blick Winkel「And... as for the way to trick me...」%K%P
+0x708
+ＢＷ「えーっと、何て言うか、ある程度、準備みたいなものが必要なんだ」%K%P
+Blick Winkel「Well, how can I explain...? You will need a bit of preparation.」%K%P
+0x714
+ＢＷ「と言っても、そんな難しいことじゃないから」%K%P
+Blick Winkel「However, it should not be too difficult.」%K%P
+0x720
+ＢＷ「準備期間はたっぷりあるし……１７年間もあるわけだし……」%K%P
+Blick Winkel「You certainly have enough time... Seventeen years, actually...」%K%P
+0x72C
+ＢＷ「だから、不可能ってことはないと思う」%K%P
+Blick Winkel「So, it should not be impossible.」%K%P
+0x738
+ＢＷ「で、その準備だけど……」%K%P
+Blick Winkel「I will tell you what to do...」%K%P
+0x744
+ＢＷ「いい？　言うよ？」%K%P
+Blick Winkel「Are you ready?」%K%P
+0x750
+ＢＷ「計画が実行に移される日付は、２０３４年５月１日月曜日」%K%P
+Blick Winkel「The day to act on the plan will be on Monday, May 1st, 2034.」%K%P
+0x75C
+ＢＷ「まずその日、沙羅がトクシっていう学校のイベントで、ＬｅＭＵにやって来る」%K%P
+Blick Winkel「First, Sara will be visiting LeMU for a school event on that day.」%K%P
+0x768
+ＢＷ「沙羅っていうのは、来年の１月に産まれるつぐみの娘のこと」%K%P
+Blick Winkel「Sara is Tsugumi's daughter, who will be born next January.」%K%P
+0x774
+ＢＷ「実はその子は双子で、ホクトっていう名前のお兄ちゃんがいるんだけど……」%K%P
+Blick Winkel「She is actually a twin, and her twin brother's name is Hokuto...」%K%P
+0x780
+ＢＷ「いろいろと事情があって、つぐみと沙羅とホクトは離れ離れになっちゃうんだ」%K%P
+Blick Winkel「But due to unavoidable circumstances, Tsugumi, Sara, and Hokuto will be separated.」%K%P
+0x78C
+ＢＷ「だからその日、つぐみには『ＬｅＭＵに来れば、娘と息子に逢えるよ』とか何とかって言えばいいと思う」%K%P
+Blick Winkel「So you could probably just tell Tsugumi, 'You will be reunited with your son and daughter at LeMU.'」%K%P
+0x798
+ＢＷ「そうすれば、きっとつぐみはＬｅＭＵに来るから……」%K%P
+Blick Winkel「If you tell her that, Tsugumi will come to LeMU for sure...」%K%P
+0x7A4
+ＢＷ「次に、ホクトも同じ方法で誘い出して」%K%P
+Blick Winkel「Next, you can also invite Hokuto in the same way.」%K%P
+0x7B0
+ＢＷ「『ＬｅＭＵに来れば、お母さんと妹に逢えるよ』って言えば、ホクトは１人でやって来るはず」%K%P
+Blick Winkel「If you tell him, 'You will meet your mother and sister', he will also come alone.」%K%P
+0x7BC
+ＢＷ「優美清秋香菜――つまりキミの娘は、キミと同じようにＬｅＭＵの係員として働かせるんだ」%K%P
+Blick Winkel「You must also have your daughter, Yubiseiakikana, work as a LeMU attendant just as you did.」%K%P
+0x7C8
+ＢＷ「キミが言えば、きっとうまい具合にそっちの方向へと運ぶこともできるでしょ？」%K%P
+Blick Winkel「If you coach her, you could lead her in that direction, right?」%K%P
+0x7D4
+ＢＷ「それから空には、えーっと、何も知らせない方がいいと思う」%K%P
+Blick Winkel「And you must not tell anything to Sora.」%K%P
+0x7E0
+ＢＷ「２０１７年の記憶は、ひとまず消しておくこと」%K%P
+Blick Winkel「It is best that you erase her memories of the incident in 2017.」%K%P
+0x7EC
+ＢＷ「テラバイトディスクに、記憶のバックアップは保存されてるから、心配いらないよ」%K%P
+Blick Winkel「There is nothing to worry about, because all the backup memories are saved in the terabyte disc.」%K%P
+0x7F8
+ＢＷ「最後に……桑古木少年を協力させて」%K%P
+Blick Winkel「And finally... you will need the cooperation of young Kaburaki.」%K%P
+0x804
+ＢＷ「１７年後、どうしても桑古木少年を、倉成武に見せかけなくちゃならないんだ」%K%P
+Blick Winkel「Seventeen years from now, Kaburaki must look and act absolutely like Kuranari Takeshi.」%K%P
+0x810
+ＢＷ「だから桑古木少年には、少しでも武に近づけるような訓練を、これからさせる必要がある」%K%P
+Blick Winkel「So he must begin training to look and act just like Takeshi.」%K%P
+0x81C
+ＢＷ「大丈夫。１７年間あれば、必ず身につくから」%K%P
+Blick Winkel「Do not worry. He will catch on in seventeen years.」%K%P
+0x828
+ＢＷ「計画に必要なメンバーは、以上の６人」%K%P
+Blick Winkel「These six people are required for the plan.」%K%P
+0x834
+ＢＷ「あとは……」%K%P
+Blick Winkel「All you have to do is...」%K%P
+0x840
+ＢＷ「２０３４年５月１日――彼らを全員集めてＬｅＭＵに放り込み、２０１７年と同じような事故を起こせばいい」%K%P
+Blick Winkel「Simply throw them all together into LeMU on May 1st, 2034, and have an accident similar to the one in 2017.」%K%P
+0x84C
+ＢＷ「そうすれば、何もしないでもすべてが動き始めると思う」%K%P
+Blick Winkel「If you can arrange this, things will work out by themselves.」%K%P
+0x858
+ＢＷ「期間は１日から７日までの１週間」%K%P
+Blick Winkel「The time in question will be one week, from the 1st to the 7th.」%K%P
+0x864
+ＢＷ「この７日の期間中、絶対に彼らには干渉しないで」%K%P
+Blick Winkel「For these seven days, you must not interfere with them.」%K%P
+0x870
+ＢＷ「どんな危機が訪れても、だよ？」%K%P
+Blick Winkel「No matter what kind of crisis happens. Understood?」%K%P
+0x87C
+ＢＷ「彼らは、必ず自力で乗り越えるから」%K%P
+Blick Winkel「They will survive by themselves.」%K%P
+0x888
+ＢＷ「で……６日の夜９時ぐらいになっても、ボクが姿を現す兆候がまったくなかったら……」%K%P
+Blick Winkel「And... should I show no sign of reappearing by 9 p.m. on the 6th...」%K%P
+0x894
+ＢＷ「そのときは、全員を救出して欲しい……」%K%P
+Blick Winkel「Then I ask of you to rescue them all...」%K%P
+0x8A0
+ＢＷ「いい？　今ボクが言ったことを必ず守ってね？　絶対に忘れないでね？」%K%P
+Blick Winkel「Is that clear? Will you do what I just told you? You must not forget.」%K%P
+0x8AC
+ＢＷ「２０３４年５月１日――ボクをだますんだよ？」%K%P
+Blick Winkel「On May 1st, 2034, you are going to trick me. Understood?」%K%P
+0x8B8
+ＢＷ「あっ……正確には『ボクを』って言うよりも……『ホクトを』なんだけど……」%K%P
+Blick Winkel「Oh... Wait... I mean, not 'me' to be exact... It's actually 'Hokuto'...」%K%P
+0x8C4
+ＢＷ「そう、ホクトを、だまして欲しいんだ」%K%P
+Blick Winkel「I want you to trick Hokuto.」%K%P
+0x8D0
+ＢＷ「その世界があたかも２０１７年の世界であるかのように、錯覚させるんだ」%K%P
+Blick Winkel「You must trick him so that he will believe it is the year 2017.」%K%P
+0x8DC
+ＢＷ「……………………………………………」%K%P
+Blick Winkel「.........」%K%P
+0x8E8
+ＢＷ「１７年後、何も知らないボクは、こんなことをキミに尋ねるかも知れない」%K%P
+Blick Winkel「Seventeen years from now, without remembering why, I might ask you something like...」%K%P
+0x8F4
+ＢＷ「『ボクを呼び出した理由は……なに？』って」%K%P
+Blick Winkel「'Why have you called me here?'」%K%P
+0x900
+ＢＷ「そのときにはこう答えて？」%K%P
+Blick Winkel「Then I want you to answer this way...」%K%P
+0x90C
+ＢＷ「『すべて、あなたの指示に従っただけ』」%K%P
+Blick Winkel「'I only followed your directions.'」%K%P
+0x918
+ＢＷ「――以上」%K%P
+Blick Winkel「...That is all.」%K%P
+0x924
+ＢＷ「ちょっと長くなっちゃったけど……わかった？　わかったよね？」%K%P
+Blick Winkel「It was kind of lengthy, but... do you understand? You got it, right?」%K%P
+0x930
+ＢＷ「わかってくれなくちゃ、困るんだけど……」%K%P
+Blick Winkel「I need you to understand this...」%K%P
+0x93C
+優美清春香菜は驚くほど素直だった。%K%P
+Yubiseiharukana was surprisingly accepting.%K%P
+0x948
+たたみかけるようなボクの勢いに圧倒されたのか、うんうん、うんうん、と何度も頷いて見せた。%K%P
+As if overwhelmed by my enthusiasm, she kept nodding her head.%K%P
+0x954
+けれど、本当にすべてを理解してくれたのか……心配だった。%K%P
+But I was still worried... about whether she truly understood everything.%K%P
+0x960
+ボクは、今告げた内容をさらに詳細にわたって説明し、同じ言葉を呪文のように何度も繰り返して聞かせた。%K%P
+Explaining to her again in more detail, I repeated the same words, almost as if I were trying to hypnotize her.%K%P
+0x96C
+彼女が正確にすべてを把握できるようになるまでには、それから数時間かかった。%K%P
+It took several more hours for her to precisely capture the whole picture.%K%P
+0x978
+ボクとホクトは、最後にもう一度念を押し、彼女の元を去った。%K%P
+Hokuto and I made sure that she understood one last time. Then we left her.%K%P

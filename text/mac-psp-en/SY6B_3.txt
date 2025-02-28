@@ -1,0 +1,303 @@
+text area offset and size:
+0x980
+0x10B6
+0x2C
+――やがて、約束の時刻になった。%K%P
+Finally, the appointed time arrived.%K%P
+0x74
+ぼくらは一度２階へ上がると、そこから緊急避難用通路に登った。%K%P
+We climbed to the second floor and stood at the emergency corridor.%K%P
+0x80
+そして、中央へ中央へと歩みを進める。%K%P
+Then we began walking to the central core.%K%P
+0x8C
+……やがて、行き止まり。%K%P
+...Finally, we reached a dead end.%K%P
+0x98
+そこから先は海水に満たされていたため、水密扉が閉ざされている場所だった。%K%P
+The watertight door was shut because the area from there onward was filled with seawater.%K%P
+0xE8
+その水密扉が開いていく。%K%P
+The door swung open.%K%P
+0x10C
+すでに水はない。%K%P
+The water was gone.%K%P
+0x118
+乾ききった通路を、さらに中央に向かって進む。%K%P
+We continued heading toward the center through the dry corridor.%K%P
+0x124
+……………………。%K%P
+......%K%P
+0x130
+先に、沙羅と武とつぐみが……。%K%P
+Sara, Takeshi, and Tsugumi walked ahead....%K%P
+0x13C
+遅れること数十メートル――優とぼくと空が歩いている。%K%P
+You, Sora, and I walked a few dozen meters behind them.%K%P
+0x148
+……………………。%K%P
+......%K%P
+0x154
+武「おーいっ！　先行ってるぞーい！」%K%P
+Takeshi「Hey! We're going ahead!」%K%P
+0x160
+武達は、すでに非常階段に到着したようだった。%K%P
+It seemed like Takeshi had already reached the emergency stairs.%K%P
+0x16C
+沙羅と武とつぐみが非常階段に消える。%K%P
+Sara, Takeshi, and Tsugumi disappeared up the stairs.%K%P
+0x1A0
+しかし――その直後！%K%P
+But immediately after that―%K%P
+0x1C8
+少年「えっっ！？！？」%K%P
+Kid「Oh no!」%K%P
+0x220
+空「いけません！　浸水が始まりました！！」%K%P
+Sora「This is bad! Water is flooding in!」%K%P
+0x22C
+空「……第３区画……避難通路の隔壁が圧潰……！」%K%P
+Sora「...Sector Three... The partition on the emergency corridor is collapsing...!」%K%P
+0x238
+空「前方……５１ｍ先より水が押し寄せてきます！」%K%P
+Sora「Water is rushing in 51 meters ahead!」%K%P
+0x27C
+遥か彼方――進行方向より向こうから、怒濤のように迫る水の塊！！！%K%P
+The sound of rushing water could be heard in the distance!%K%P
+0x350
+空「だめです！　もう間に合いません！　早くっ、早く引き返してください！」%K%P
+Sora「It's no good! We won't make it! Go back now!」%K%P
+0x364
+非常階段へと通じるドアが水に呑み込まれる。%K%P
+The door leading to the emergency stairs was swallowed by water.%K%P
+0x370
+少年「優っ、何やってんだよ！　早く逃げるよ！！」%K%P
+Kid「You, what're you doing? Run! Now!」%K%P
+0x384
+優「……あ、うん……」%K%P
+You「...Okay...」%K%P
+0x390
+少年「ほらっ！　しっかりしろ！」%K%P
+Kid「Now hang on!」%K%P
+0x39C
+優の手を引いて、あわてて通路を引き返した。%K%P
+I grabbed You's hand and doubled back.%K%P
+0x434
+警備室に緊急避難した。%K%P
+We fled to the security office.%K%P
+0x440
+優・ぼく・空だけがいる。%K%P
+You, Sora, and I were there.%K%P
+0x44C
+ひとまず、先ほどの浸水は収まったようだが……。%K%P
+It looked like the flooding had subsided...%K%P
+0x458
+空が言うには、もはや館内に残されたドライエリアは、ごくわずかとのことだった。%K%P
+According to Sora, there were only a few dry areas left in the complex.%K%P
+0x48C
+外部から通信が入る。%K%P
+A message came from outside.%K%P
+0x498
+男「他の３名は無事だ！」%K%P
+Man「The other three are fine!」%K%P
+0x4A4
+男「そっちは大丈夫か！？」%K%P
+Man「Are you alright?」%K%P
+0x4B0
+少年「うん、なんとか……」%K%P
+Kid「Yeah, I think so...」%K%P
+0x4BC
+男「さっきの浸水だけは、まったくの誤算だった」%K%P
+Man「That flooding was apparently a miscalculation on our part.」%K%P
+0x4C8
+男「だが、隔壁の強度を見誤ったとも思えない」%K%P
+Man「I don't think we got the partition strength wrong.」%K%P
+0x4D4
+男「原因が……まったくわからない」%K%P
+Man「So... we don't know what caused it.」%K%P
+0x4E0
+少年「ねえ？　ぼくらはこれから、どうしたらいいの？」%K%P
+Kid「What do you want us to do now?」%K%P
+0x4EC
+男「ひとまず、そこに待機していてくれ。すぐに対策を講じる」%K%P
+Man「For now, you wait there. We'll come up with something soon.」%K%P
+0x4F8
+少年「もう一度、高圧力送風機で排水できないの？」%K%P
+Kid「Can't you use the high-pressure gas fan to get rid of the water again?」%K%P
+0x504
+男「それが………なんだ……」%K%P
+Man「Actually... no...」%K%P
+0x510
+男「動かない…これも………不明…」%K%P
+Man「The thing won't work... and we're not sure why...」%K%P
+0x51C
+少年「え？　なに？　よく聞こえないよ？」%K%P
+Kid「Huh? What? I'm having trouble hearing you.」%K%P
+0x528
+途中から音声にノイズが混じりだし、よく聞き取れなくなった。%K%P
+Static had broken up part of the message, and I hadn't caught it.%K%P
+0x534
+何か異常事態が起こったのだろうか。%K%P
+It looked like another crisis had struck.%K%P
+0x540
+スピーカーの向こう側から、ノイズに乗って何やら慌ただしい、物々しい空気が伝わってくる。%K%P
+From the speaker on their side, we heard a lot of hurried noise and a rush of air.%K%P
+0x54C
+男「なんだ…て………………それは本当……か……」%K%P
+Man「What is... Is that... real...?」%K%P
+0x558
+男「もしかし…ら……」%K%P
+Man「Is that...」%K%P
+0x564
+男「………リック……………ケル……」%K%P
+Man「...lick... kel...」%K%P
+0x570
+男「………ブリック・ヴィンケル………現れ…………のか………」%K%P
+Man「...Blick Winkel... is... here...」%K%P
+0x57C
+通信が……途絶えた。%K%P
+And then... communications were cut off.%K%P
+0x588
+少年「空……？」%K%P
+Kid「Sora...?」%K%P
+0x594
+沈痛な顔で、黙って首を振る空。%K%P
+With a solemn look, Sora shook her head.%K%P
+0x5A0
+少年「……………………」%K%P
+Kid「............」%K%P
+0x5AC
+少年「ち、ちっくしょーっ！　あと……あとちょっとだったってのに！」%K%P
+Kid「Damn it! We were almost there!」%K%P
+0x5B8
+少年「なんだってこんなことに……！　どうしてなんだよ……？」%K%P
+Kid「Why this? Why did this happen to us...?」%K%P
+0x5C4
+コンソールをガンと叩く。%K%P
+I punched the console.%K%P
+0x5D0
+少年「わけがわからないよ……」%K%P
+Kid「I don't get any of this...」%K%P
+0x5DC
+少年「だいたい、なんだよ……？　ブリック・ヴィンケルって……？」%K%P
+Kid「What is that...? Blick Winkel?」%K%P
+0x5E8
+少年「ねえ、空……どういうことなの……？」%K%P
+Kid「Hey, Sora... What does this mean...?」%K%P
+0x5FC
+空「………………」%K%P
+Sora「............」%K%P
+0x608
+空は、再び首を横に振った。%K%P
+Sora shook her head again.%K%P
+0x61C
+ぼくはため息をついて、椅子に座る。%K%P
+I sighed and sat down in a chair.%K%P
+0x628
+隣には、優がダラリともたれかかるようにして座っている。%K%P
+You sat slumped in the chair next to me.%K%P
+0x634
+何気なく……モニターに目をやる。%K%P
+I looked at the monitor.%K%P
+0x648
+そこには、生体反応数が表示されている。%K%P
+It displayed the life reading for the complex.%K%P
+0x654
+『生体反応：３』%K%P
+'Life readings: 3'%K%P
+0x660
+少年「………………………………え？」%K%P
+Kid「.........Huh?」%K%P
+0x66C
+――３！？%K%P
+―Three!?%K%P
+0x678
+なぜ？　ＬｅＭＵに取り残されているのは、ぼくと優と空だけで……。%K%P
+I wondered why. Only You, Sora, and I were left in LeMU...%K%P
+0x684
+空は……空は、生体反応には検出されないはず……。%K%P
+And Sora... The bio scan shouldn't pick her up...%K%P
+0x698
+少年「なんだ、これ……また故障……？」%K%P
+Kid「What is this? Is this broken...?」%K%P
+0x6AC
+少年「どういうこと？　空？」%K%P
+Kid「What does this mean? Sora?」%K%P
+0x6B8
+空「わ、わかりません……」%K%P
+Sora「I... I don't know...」%K%P
+0x6C4
+空「ただ……何かが起きていることだけは、確かなようです……」%K%P
+Sora「...I know that something is happening...」%K%P
+0x6D0
+空「私にも知らされていない……何かが……」%K%P
+Sora「But I haven't been informed what...」%K%P
+0x6DC
+少年「…………」%K%P
+Kid「.........」%K%P
+0x6E8
+ぼくは、椅子から立ち上がった。%K%P
+I stood up from the chair.%K%P
+0x6F4
+そのとき、テーブルに乗っていた空き缶に肘がぶつかった。%K%P
+Just then, my elbow bumped an empty can on the table.%K%P
+0x728
+――カラン！%K%P
+Kabang!%K%P
+0x75C
+カラカラカラ……。%K%P
+Clatter, clatter, clatter...%K%P
+0x768
+床に落ちた空き缶が、そのまま、壁際までコロコロと転がって行く。%K%P
+The can fell to the floor and rolled to the wall.%K%P
+0x774
+少年「………………」%K%P
+Kid「.........」%K%P
+0x780
+少年「これ、ひょっとして……」%K%P
+Kid「Is the floor...?」%K%P
+0x78C
+床が、傾いてる？%K%P
+(The floor is tilting!)%K%P
+0x798
+少年「ねえ、空、ＬｅＭＵのマップを表示してくれる？」%K%P
+Kid「Hey, Sora, can you display the map of LeMU?」%K%P
+0x7A4
+少年「全体の断面がわかるものがいいんだけど」%K%P
+Kid「Something that has a cross-sectional display of the structure.」%K%P
+0x7B8
+空「はい、わかりました」%K%P
+Sora「Certainly.」%K%P
+0x7CC
+モニターにＬｅＭＵのマップが表示される。%K%P
+A map of LeMU appeared on the monitor.%K%P
+0x7D8
+少年「やっぱりだ……」%K%P
+Kid「It's like I thought...」%K%P
+0x7E4
+少年「ＬｅＭＵが……傾いてる……」%K%P
+Kid「LeMU is... slanting...」%K%P
+0x7F0
+かといって、それがなんになるわけでもない。%K%P
+But the tilt of the complex didn't really mean anything.%K%P
+0x7FC
+幸いと言うべきか、ぼくらの生存に影響はなさそうではあるが……。%K%P
+Thankfully, it didn't look like it was affecting our chances of survival.%K%P
+0x810
+少年「ねえ、優……これから、どうしようか」%K%P
+Kid「Hey, You... Whaddya think we should do now?」%K%P
+0x824
+優「…………………………………………」%K%P
+You「....................................」%K%P
+0x830
+少年「優……？」%K%P
+Kid「You...?」%K%P
+0x83C
+優は完全に放心状態だった。%K%P
+You was completely dazed.%K%P
+0x848
+ぼくの声が耳に届いている様子もなく……。%K%P
+It didn't even look like my voice was reaching her brain....%K%P
+0x854
+その２つの瞳は、この世界の光をまったく映していなかった。%K%P
+It seemed that the light of the world had been extinguished from her eyes.%K%P

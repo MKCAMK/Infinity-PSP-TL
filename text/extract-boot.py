@@ -6,14 +6,13 @@ import struct
 
 def main():
 
-  # text = [0x12116c, 0x128710]
   text_areas = [
-    [0x121118, 0x1217d4],
-    [0x121930, 0x1243d0],
-    [0x12449c, 0x12465c],
-    [0x12483c, 0x128698],
-    [0x12b948, 0x12b9a4]
-    ]
+    [0x11F649, 0x11FCF5],
+    [0x11FE58, 0x12204C],
+    [0x122118, 0x122188],
+    [0x122368, 0x1261C1],
+    [0x129448, 0x1294A1]
+  ]
 
   path = sys.argv[1] if len(sys.argv) > 1 else "BOOT.BIN"
   outpath = path + ".jp.txt"

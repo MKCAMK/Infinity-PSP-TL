@@ -1,0 +1,96 @@
+text area offset and size:
+0x3A8
+0x6B9
+0x68
+その部屋には、おびただしい数のパイプが張りめぐらされているようだった。%K%P
+The room was covered in a massive web of pipes.%K%P
+0x74
+パイプは隣の発電室へと続いており、バルブを開閉することによって、水圧やら油圧やらを調節することができるらしい。%K%P
+The pipes continued into the adjacent generator room. It seemed that by opening and closing the valves, the water and oil pressure could be adjusted.%K%P
+0xBC
+『通常、発電室のコンディションを保っているのはレミなのだが、さすがのレミと言えども、発電機自体が故障してしまったらどうすることもできない』%K%P
+'Normally, LeMMIH is responsible for maintaining the generator room, but even it can't do much when the generator itself goes out.'%K%P
+0xC8
+『何しろ、電力が供給されなくなってしまうのだから』%K%P
+'Anyhow, this is all because the power supply is down.'%K%P
+0xD4
+『そこで、停電になったときでも、発電室のメンテナンスを手動で行なうことができるよう、この部屋は設けられたのだろう』%K%P
+'This room is designed so that maintenance can be performed manually at times like this, or during blackouts.'%K%P
+0xFC
+……という話を、ぼくは優から聞いた。%K%P
+...That was what You told me.%K%P
+0x108
+優は立ち並ぶ無数のパイプの中から目的の１本を選び出すと、それを閉めるよう、ぼくに指示した。%K%P
+You selected one pipe from the countless rows of them and instructed me to close its valve.%K%P
+0x130
+ぼくは彼女に命じられるがままに、バルブをキュルキュルと閉めて行く。%K%P
+As ordered, I turned the valve around and around.%K%P
+0x13C
+少年「ねえ、優？」%K%P
+Kid「Hey, You?」%K%P
+0x148
+バルブを閉めながら、ぼくは言った。%K%P
+I said that as I was closing the valve.%K%P
+0x15C
+優「ん？」%K%P
+You「What?」%K%P
+0x168
+少年「昨日の女の子のことだけどさぁ」%K%P
+Kid「It's about the girl from yesterday.」%K%P
+0x184
+優「昨日の？　少年が見たっていう、もうひとりの生存者のこと？」%K%P
+You「Yesterday? You mean the seventh survivor you said you saw?」%K%P
+0x198
+優「昨日の？　少年が見たっていう７人目の生存者のこと？」%K%P
+You「Yesterday? You mean the seventh survivor you said you saw?」%K%P
+0x1A4
+少年「うん」%K%P
+Kid「Yeah.」%K%P
+0x1B8
+優「見間違いなんじゃないの？」%K%P
+You「You're sure your eyes weren't playing tricks on you?」%K%P
+0x1C4
+少年「そんなことないって、確かにこの目で見たんだよ」%K%P
+Kid「I'm positive. These eyes saw her.」%K%P
+0x1D0
+優「でなきゃ、目の病気よ」%K%P
+You「Maybe you've got some kind of eye disease.」%K%P
+0x1DC
+少年「えっ？　びょ、びょうき……？」%K%P
+Kid「Huh? Di-disease...?」%K%P
+0x1F0
+優「うそうそ……冗談だって。どうしてすぐ本気にするかなぁ～？」%K%P
+You「I'm kidding... It's a joke. Why do you always take everything seriously?」%K%P
+0x1FC
+少年「もうっ、ふざけないでよ！」%K%P
+Kid「Enough already!」%K%P
+0x210
+優「はいはいはい……その話はあとでゆーっくり聞いてあげるから」%K%P
+You「Alright, alright... I'll listen to your stories of unidentified survivors later.」%K%P
+0x21C
+優「今はお仕事、お仕事」%K%P
+You「Right now, we have to work.」%K%P
+0x230
+少年「…………」%K%P
+Kid「...」%K%P
+0x254
+やがて、バルブの閉塞は完了した。%K%P
+Finally, the valve was completely shut.%K%P
+0x280
+優「うん。これで、たぶん大丈夫だと思う」%K%P
+You「That should do it.」%K%P
+0x28C
+少年「ねえ優、終わったから、話を……」%K%P
+Kid「You, can we talk now...?」%K%P
+0x2A0
+優「さーてと。それじゃ、ふたりのところに戻りますか」%K%P
+You「Let's get back to Kuranari and Sara.」%K%P
+0x2B4
+優は逃げ去るように、さっさと部屋を出て行ってしまった。%K%P
+You took off from the room as if she were a fugitive on the run.%K%P
+0x2C0
+室内に、ひとり置き去りにされたぼく……。%K%P
+I was left in the room alone...%K%P
+0x2CC
+胸の中には、行き所のないモヤモヤが、ぐるぐるぐるぐると渦巻いていた。%K%P
+I felt an unclear mess of feelings stewing inside my mind.%K%P

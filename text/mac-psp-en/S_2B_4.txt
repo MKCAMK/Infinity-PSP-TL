@@ -1,0 +1,333 @@
+text area offset and size:
+0xD40
+0x141C
+0x54
+ぼくらは、一度発電室を出てパイプ部屋へ入ると……%K%P
+We left the generator room and went to the pipe room...%K%P
+0x7C
+修理前に閉じたバルブを開放し……%K%P
+There, we opened the valve we had closed before the repairs...%K%P
+0xA0
+再び、発電室に戻って来た。%K%P
+And returned to the generator room.%K%P
+0xB4
+武「さて、それじゃあいってみますか？」%K%P
+Takeshi「So should we try to fire it up?」%K%P
+0xC0
+発電機のスイッチを前にして、武は厳かにそう宣言した。%K%P
+Takeshi whispered the question as we stood in front of the generator switch.%K%P
+0xCC
+武「スイッチ、入れるぞ？」%K%P
+Takeshi「I'm turning it on.」%K%P
+0xD8
+黙って頷く、ぼく、優、沙羅。%K%P
+Sara, You, and I nodded silently.%K%P
+0xE4
+武「心の準備はできたかな？」%K%P
+Takeshi「You ready?」%K%P
+0xF0
+少年「いいから早くやってよ」%K%P
+Kid「Just do it.」%K%P
+0x104
+武「そこ、うるさいよ」%K%P
+Takeshi「Pipe down, Kid.」%K%P
+0x118
+武「では、カウントダウンを始めよう」%K%P
+Takeshi「Let's start the countdown...」%K%P
+0x124
+武「５０秒前……」%K%P
+Takeshi「50 seconds to...」%K%P
+0x130
+沙羅「えぇ、５０も数えるの！？」%K%P
+Sara「Huh? From 50?」%K%P
+0x13C
+武「４５秒前……」%K%P
+Takeshi「45 seconds to...」%K%P
+0x148
+無視して武は続ける。%K%P
+Takeshi continued, ignoring her.%K%P
+0x154
+優「倉成ぃ～、いくらなんでも長すぎるってば」%K%P
+You「Kuranari, that's too long...」%K%P
+0x160
+武「４０……３９……３８」%K%P
+Takeshi「40... 39... 38...」%K%P
+0x16C
+イライラ……。%K%P
+It was irritating.%K%P
+0x178
+武「３７……３６……３５」%K%P
+Takeshi「37... 36... 35...」%K%P
+0x184
+イライライライラ…………。%K%P
+So irritating...%K%P
+0x190
+武「３４」%K%P
+Takeshi「34...」%K%P
+0x1B8
+――ぽちっ。%K%P
+―Click.%K%P
+0x1CC
+武を除くぼくら３人は、同時にボタンを押した。%K%P
+All three of us except Takeshi pushed the button.%K%P
+0x1FC
+武「こらっ！　勝手にスイッチ入れんなよ！　まだ３４秒前じゃねぇーか！」%K%P
+Takeshi「Hey! What're you doing? We still have 34 seconds to go!」%K%P
+0x208
+少年「３４秒も残ってたら、誰だって押すよ！」%K%P
+Kid「Nobody wants to wait 34 seconds. Somebody had to push it!」%K%P
+0x214
+武「たかだか３０秒ちょっとも待てないのか、お前らは！」%K%P
+Takeshi「You guys can't even wait a little more than a simple 30 seconds?」%K%P
+0x230
+優「待てるかぁーーーっ！！」%K%P
+You「Why wait!?」%K%P
+0x244
+武「こういうのはだなぁ、ある種の儀式と言うか、形式と言うか、とにかく非常に大切なことであって……」%K%P
+Takeshi「This... This is kind of like a ritual... Anyway, it's very important...」%K%P
+0x2D8
+照明がいっせいに灯った。%K%P
+The lights lit up all at once.%K%P
+0x2E4
+燈火はさんさんと降り注ぎ、部屋の隅々まで照らし出す。%K%P
+The light poured down, illuminating even the corners of the room.%K%P
+0x2F0
+視界は一瞬にして広がった。%K%P
+It was like our field of vision had expanded in an instant.%K%P
+0x30C
+沙羅「１７……」%K%P
+Sara「Seventeen...」%K%P
+0x320
+武「は？」%K%P
+Takeshi「What?」%K%P
+0x32C
+沙羅「ちょうど、さっきのカウントが１７秒前のとき、電気が点いたの」%K%P
+Sara「The lights came on with seventeen seconds left in the countdown.」%K%P
+0x348
+優「それがどうかしたの？」%K%P
+You「What are you talking about?」%K%P
+0x35C
+沙羅「わかりません？　電気が点くまで、ちょうど１７秒だったんですよ？」%K%P
+Sara「You don't understand? The power came back on with seventeen seconds left to count.」%K%P
+0x368
+少年「ああ、そうか……」%K%P
+Kid「Oh, I see...」%K%P
+0x374
+ぼくには、沙羅の考えがわかった。%K%P
+I understood what she was saying.%K%P
+0x380
+少年「せっかくだから、カウント１７で押せば良かったって意味でしょ？」%K%P
+Kid「You mean if we would have pushed it at seventeen seconds, it would have been just right?」%K%P
+0x394
+沙羅「うん」%K%P
+Sara「Yeah.」%K%P
+0x3A8
+優「あっはは♪　それはケッサクね」%K%P
+You「Ahaha! That would have been something.」%K%P
+0x3B4
+武「ちぇっ」%K%P
+Takeshi「Tsk.」%K%P
+0x3C0
+もはや怒る気力もなくなったのか、武は重たい工具箱を肩に担ぐと、部屋を出て行った。%K%P
+I wasn't sure if Takeshi was over his anger, but he shouldered the heavy toolbox and left the room.%K%P
+0x41C
+ぼくらは来た道を戻り、ここ中性浮力式エレベーターの前までやってきた。%K%P
+We retraced our path until we were in front of the neutral buoyancy elevator.%K%P
+0x428
+例の冷凍マグロが虚ろな目で、ぼくらを迎えてくれた。%K%P
+The frozen tuna's empty eyes were waiting for us.%K%P
+0x434
+降りてきたときに使用したＥＩは、すでにツヴァイトに浮き上がってしまっている。%K%P
+The elevator we had used coming down had already floated up to Zweiter Stock.%K%P
+0x440
+だがその左隣では……階数表示の明かりが『３』のところに点灯していた。%K%P
+But to the left... the floor display was lit up with a number three.%K%P
+0x45C
+武「はぁ、よっこらどっこいしょと」%K%P
+Takeshi「Oh, this is heavy.」%K%P
+0x468
+卵に乗り込んだ武は、工具箱を床の上に置いた。%K%P
+Takeshi groaned as he put the toolbox on the floor of the elevator.%K%P
+0x47C
+沙羅「オッサンみたい……」%K%P
+Sara「You sound like an old man...」%K%P
+0x490
+武「うるせー、どうせお前に比べりゃオッサンだよ、俺は」%K%P
+Takeshi「Shut up. I AM an old man compared to you.」%K%P
+0x4A4
+そんなやり取りの中、ぼくは扉のわきについていた%N『△』のボタンを押す。%K%P
+While they needled each other, I pushed the up button next to the door.%K%P
+0x4B0
+内側・外側の水密扉は、既に自動で閉じられていた。%K%P
+The internal and external watertight doors had already sealed automatically.%K%P
+0x4D8
+ゴボゴボゴボゴボと、床下のバラストタンクにエアが送り込まれて行く。%K%P
+We could hear air being sent into the ballast tank under the floor.%K%P
+0x4E4
+やがて、卵はゆっくりと浮上を始め……%K%P
+Finally, the egg-shaped elevator...%K%P
+0x50C
+……なかった。%K%P
+...Didn't start to float up.%K%P
+0x520
+武「えっ？　マジ？」%K%P
+Takeshi「Huh? Are you serious?」%K%P
+0x52C
+床下から聞こえていた音はいつの間にか消え失せ、辺りはひっそりと静まり返っていた。%K%P
+The sound beneath the floor had stopped, and silence had returned.%K%P
+0x538
+沙羅「えぇ～、またなのぉ……」%K%P
+Sara「Not again...」%K%P
+0x554
+優「どうしてこうも次から次へと厄介な事態が発生するのかしらねぇ……」%K%P
+You「Why do we keep running into problem after problem...?」%K%P
+0x57C
+ムダだとは知りながらも『△』のボタンを連打してみた。%K%P
+Knowing it was useless, I pushed the up button repeatedly.%K%P
+0x590
+当然、ＥＩはピクリとも動かない。%K%P
+Of course, Ei didn't budge at all.%K%P
+0x5A4
+少年「さてと、どうしようかな……」%K%P
+Kid「Alright, so what do we do...?」%K%P
+0x5B0
+ぼくが呟いた瞬間……。%K%P
+Just as I said that...%K%P
+0x5D8
+丸窓のすぐ右隣にあったモニターに、画像が浮かんだ。%K%P
+A monitor just to the right of the round window flickered to life.%K%P
+0x5E4
+空「倉成さん、田中さん、松永さん、少年さん」%K%P
+Sora「Kuranari-san, Tanaka-san, Matsunaga-san, Kid-san.」%K%P
+0x608
+武「空！　お前、どこ行ってたんだよ！　捜したんだぞ！」%K%P
+Takeshi「Sora! Where have you been? We looked everywhere for you!」%K%P
+0x614
+空「大変御迷惑おかけしました。申し訳ありません」%K%P
+Sora「I am terribly sorry. Please accept my apologies.」%K%P
+0x620
+モニターの中で、空は深々と頭を下げた。%K%P
+The image of Sora in the monitor bowed deeply.%K%P
+0x634
+優「まあ、そんなことはどうでもいいじゃない？」%K%P
+You「That's not important right now.」%K%P
+0x658
+停電の間、空が消えていたことには特に疑問を感じない。%K%P
+I didn't have any major suspicions about Sora's disappearance during the blackout.%K%P
+0x664
+空がＲＳＤによる虚像だと言うことは、すでに知っているからだ。%K%P
+I knew that she was an RSD-generated image.%K%P
+0x670
+優「空？　発電機の方は、私達で直しといたから」%K%P
+You「Sora? So we fixed the generator?」%K%P
+0x67C
+空「そのようですね」%K%P
+Sora「It would appear so.」%K%P
+0x688
+空「ありがとうございました、本当に……」%K%P
+Sora「Thank you so much. Thank you...」%K%P
+0x69C
+武「でだ。わかってると思うけど、今俺達は、卵……えーっと『ＥＩ』の中にいて……」%K%P
+Takeshi「I think you know this, but we're in this egg... Uh, this Ei...」%K%P
+0x6A8
+空「ええ、わかっています」%K%P
+Sora「Yes, I know.」%K%P
+0x6BC
+空「アイが動かないのですね？」%K%P
+Sora「The Ei is not moving, correct?」%K%P
+0x6D8
+沙羅「どうすればいいのかなぁ？」%K%P
+Sara「What should we do?」%K%P
+0x6E4
+空「まず、その原因についてなのですが……」%K%P
+Sora「First, in regard to the cause...」%K%P
+0x6F0
+空「恐らく内部気圧が減少した関係で、バラストタンク内の海水を、充分に排出することができないからだと思われます」%K%P
+Sora「It is likely the result of a decrease in internal air pressure that has made the device incapable of sufficiently expelling the seawater in the ballast tank.」%K%P
+0x704
+空「つまり……」%K%P
+Sora「In other words...」%K%P
+0x710
+少年「浮力が足りない、ってこと？」%K%P
+Kid「You mean it isn't buoyant enough?」%K%P
+0x724
+空「はい」%K%P
+Sora「Correct.」%K%P
+0x730
+空「浮上させる方法は、いくつか考えられますが……」%K%P
+Sora「There are a number of feasible methods for making it rise, but...」%K%P
+0x768
+かくして、ぼくらは『ペア』に分かれて搭乗することにした。%K%P
+In the end, we decided to split into pairs to ride the elevator.%K%P
+0x774
+アルキメデスの原理……浮力が足りないのなら、重さを軽くしてあげればいいわけだ。%K%P
+In line with the principle of Archimedes... if the buoyancy was insufficient, we had to lighten the load.%K%P
+0x780
+まず、ぼくと沙羅がＥＩに乗った。%K%P
+First, Sara and I got in Ei.%K%P
+0x7DC
+ツヴァイトシュトックでは、空とつぐみが待っていた。%K%P
+Sora and Tsugumi were waiting at Zweiter Stock.%K%P
+0x7E8
+空「おふたりとも、本当にご苦労様でした」%K%P
+Sora「Good work, you two.」%K%P
+0x7F4
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x800
+笑顔で出迎えてくれる空。%K%P
+Sora beamed a welcoming smile at us.%K%P
+0x80C
+つぐみの方は、ただ黙ってぼくと沙羅を見つめるだけだった。%K%P
+Tsugumi just stood there staring at Sara and me.%K%P
+0x834
+続いて、優と……%K%P
+Next came You...%K%P
+0x840
+それからマグロ１匹が乗って、このフロアに戻って来た。%K%P
+And then the tuna took the elevator to return to our floor.%K%P
+0x85C
+優「ち、ちべたいぃ……」%K%P
+You「This is... c-c-cold...」%K%P
+0x870
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x87C
+ふと気がつくと、マグロを抱きかかえる優を見て、つぐみが初めて笑みを浮かべていた。%K%P
+I noticed that when Tsugumi saw You cradling the frozen fish, she grinned for the first time.%K%P
+0x890
+一方空は……%K%P
+Sora, on the other hand...%K%P
+0x8A4
+空「だ、だ、だ、だいじょうぶですか！？　倉成さん！！」%K%P
+Sora「A-a-are you alright!? Kuranari-san!」%K%P
+0x8B0
+……マグロの傍に駆け寄って、オロオロとうろたえていた。%K%P
+...Sora ran up next to the fish in a panic.%K%P
+0x8CC
+沙羅「あの、先輩……そのマグロ、持ってきたんですか？」%K%P
+Sara「Uh, Nakkyu... You brought along the fish?」%K%P
+0x8E0
+優「大切な食糧なんだから当然でしょ？　食べ物を粗末にするとバチがあたるよ？」%K%P
+You「Of course. It's food, after all. Waste not, want not, right?」%K%P
+0x8FC
+空「あ、あの……そ、そんなことよりも……倉成さんが……倉成さんが……」%K%P
+Sora「Forget that for now... More importantly... Kuranari-san...」%K%P
+0x908
+まだ空は、マグロの傍で錯乱している。%K%P
+Sora was still flustered and babbling next to the fish.%K%P
+0x914
+ひょっとして、本気で武がマグロになってしまったとでも思っているのだろうか？%K%P
+I wondered if she really thought that Takeshi had turned into a tuna.%K%P
+0x93C
+空「私のせいで倉成さんが……。ああっ！　一体どうしたらいいのでしょう！？」%K%P
+Sora「This is all my fault... Oh my gosh! What can I do?」%K%P
+0x950
+武「あのぉ……お取り込み中、申し訳ないんだが……」%K%P
+Takeshi「Uh... I know you're occupied, but...」%K%P
+0x964
+空「え？」%K%P
+Sora「Huh?」%K%P
+0x978
+武「俺の方こそ、どうしたらいいのでしょう？　って感じなんですがね……」%K%P
+Takeshi「I think the question is more what should I do.」%K%P

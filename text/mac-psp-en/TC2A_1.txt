@@ -1,0 +1,369 @@
+text area offset and size:
+0x9E0
+0x1928
+0x28
+人影の正体は優とココだった。%K%P
+It turned out the figures in the room were You and Coco.%K%P
+0x3C
+優は石の壁に背中をあずけて立っていた。%K%P
+You had been leaning up against the stone wall.%K%P
+0x48
+手の平には何か……文庫本か手帳のようなものがあり、優はその開かれたページを眺めている。%K%P
+In the palm of You's hand was... some kind of journal or notebook. She had it opened and was staring at a page.%K%P
+0x54
+それを、隣に立ったココが、一緒になってのぞき込んでいた。%K%P
+Coco was standing next to her, peering over her shoulder.%K%P
+0x60
+ふたりは、ぴったりと身を寄せ合い、二言三言の短い会話を交わしながら、楽しそうに笑っていた。%K%P
+The two of them were flush up against one another, speaking in two and three word sentences. They looked like they were having fun.%K%P
+0x6C
+ピピ「わんわんっ！　わんわんっ！」%K%P
+Pipi「*Woof*, *woof*! *Woof*, *woof*!」%K%P
+0x78
+どこからともなくピピが現れ、俺の足元に駆け寄ってくる。%K%P
+From out of nowhere, Pipi appeared and rushed up to my legs.%K%P
+0x84
+俺はびしょびしょに濡れたピピを抱き上げると、ふたりのそばへと近づいて行った。%K%P
+I lifted up the sopping wet Pipi and went over to stand by the two girls.%K%P
+0x90
+武「何見てるんだ？」%K%P
+Takeshi「What'cha looking at?」%K%P
+0x9C
+かたわらに立って尋ねた。%K%P
+I stood beside them and asked.%K%P
+0xB8
+優とココが顔をあげ、俺を見る。%K%P
+You and Coco looked up and noticed me.%K%P
+0xC4
+ココ「うんとねぇ、うんとねぇ、お写真、見てたの」%K%P
+Coco「Um, uh, we were, um, looking at these pictures.」%K%P
+0xD0
+武「写真？」%K%P
+Takeshi「Pictures?」%K%P
+0xDC
+優「見たい？」%K%P
+You「You want to see them?」%K%P
+0xE8
+武「ああ」%K%P
+Takeshi「Sure.」%K%P
+0xF4
+優「じゃあ、見せてあげよう」%K%P
+You「Okay, I'll show you.」%K%P
+0x108
+優が俺に手渡したものは、文庫本でも手帳でもなく、１冊のファイルだった。%K%P
+What You handed over to me was neither a journal nor notebook, but a single file.%K%P
+0x114
+手の平にちょうど収まるぐらいの小さなファイルだ。%K%P
+One small enough to fit in the palm of my hand.%K%P
+0x120
+ページは開かれたままで、インスタントカメラの写真が数枚挿し込まれていた。%K%P
+It was already open, and it had several pictures taken from an instant camera stuffed between the pages.%K%P
+0x12C
+赤ん坊の写真だった。%K%P
+They were baby pictures.%K%P
+0x138
+武「これはまさか……」%K%P
+Takeshi「It can't be...」%K%P
+0x144
+武「優の子供！？」%K%P
+Takeshi「Your baby!?」%K%P
+0x158
+優「バ～カ！」%K%P
+You「Nooo, stupid!」%K%P
+0x194
+優は俺の頭をひっぱたいた。%K%P
+You hit me on the head.%K%P
+0x1A8
+優「私、まだ１８よ？　独身なのよ、独身！」%K%P
+You「I'm eighteen, okay? And I'm single. Single!」%K%P
+0x1B4
+武「だよなぁ……」%K%P
+Takeshi「Yeah right...」%K%P
+0x1C0
+武「ってことは、この赤ん坊は……？」%K%P
+Takeshi「Which means that this baby is...?」%K%P
+0x1DC
+ココ「なっきゅ、だよ？」%K%P
+Coco「It's Nakkyu, dummy.」%K%P
+0x1E8
+ココ「なっきゅがちっちゃかった頃の、お写真なんだって」%K%P
+Coco「These are from when Nakkyu was a little bitty baby!」%K%P
+0x1F4
+武「そんなもんを見て、ふたりで笑ってたのか？」%K%P
+Takeshi「So this is what you were laughing about?」%K%P
+0x200
+優「いけない？」%K%P
+You「Something wrong with that?」%K%P
+0x214
+優「だって、かわいいでしょ？　子供の頃の私」%K%P
+You「I mean, they're adorable, right? My baby pictures.」%K%P
+0x220
+優「あっ、もちろん今でも、かわいいことに変わりはないんだけどね？」%K%P
+You「Uh, and of course the fact that I'm cute hasn't changed a bit, you know.」%K%P
+0x22C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x240
+優「それから……えーっと……ちょっと貸して？」%K%P
+You「Oh, and... um... can you hand those back?」%K%P
+0x24C
+と言って、優は俺の持っていたファイルを奪い取り……%K%P
+And saying that, You snatched the file out of my hands...%K%P
+0x260
+優「これが、七五三のときの私で……」%K%P
+You「This picture is from when I was dressed up in a kimono as a kid...」%K%P
+0x26C
+優「これが、運動会の応援団長をやったときのやつで……」%K%P
+You「And in this, I was head cheerleader for an athletic event at school.」%K%P
+0x278
+優「えーっと……それからこれは、中学校の入学式のときの写真でしょう」%K%P
+You「And... Oh, this one's from my first day of middle school.」%K%P
+0x284
+ページを次々とめくりながら、優は続けた。%K%P
+You continued to flip through the pages.%K%P
+0x298
+優「これは、高校の文化祭のときに撮ったやつ」%K%P
+You「And here's one that I took at the talent show my freshman year in high school.」%K%P
+0x2A4
+優「ケーコ、みんみん、ベティ、ちーちゃん、ビーフ山本……あっ、これは一応先生ね？」%K%P
+You「Here's Keiko, Min-min, Betty, Chi-chan, Beef Yamamoto... Oh, and I couldn't forget my teacher, right?」%K%P
+0x2B0
+優「花火大会でしょ……温泉旅行でしょ……あみちゃんちに泊まったときの写真でしょ……」%K%P
+You「And the fireworks festival... Here's my trip to the hot springs... Oh! And one from that time I stayed at Ami-chan's!」%K%P
+0x2C4
+優「それからそれから……ん？　なんだ、これ？」%K%P
+You「And here we have... Huh? What is this?」%K%P
+0x2D8
+優「ああ、はいはいはいはい、夜中に学校に忍び込んだときのやつだぁ……」%K%P
+You「Oooh, that's riiight. This is when we sneaked into school that one night...」%K%P
+0x2E4
+優「卒業式のはねぇ……確か最後の方に……えーっと……」%K%P
+You「And of course, the graduation ceremony... There was one more... Uuummm...」%K%P
+0x2F8
+優「これこれ、ふふっ、ぶさいくでしょ？　泣いちゃったあとだから……」%K%P
+You「Here it is, heh heh. It's hideous, right? I'd been crying and crying...」%K%P
+0x304
+優がこれまでに経験してきた数々の歴史……。%K%P
+So much of You's history was there...%K%P
+0x310
+笑顔、悲しい顔、おどけている顔、驚いた顔、照れている顔……。%K%P
+Smiling faces, sad faces, silly faces, surprised faces, even shy faces...%K%P
+0x31C
+女の子の友達がいて、男の子の友達もいて、教師がいて、人がいて、昼があり、夜があり、木漏れ陽があり、雨があり、風があった。%K%P
+There were girlfriends, boyfriends, teachers, people, afternoons, nights, good times, and hard times...%K%P
+0x328
+当たり前のことかもしれないけれど、そこに写っていたのは、俺の知らない人々と、俺の知らない景色と、俺の知らない優だった。%K%P
+It went without saying, but shown in those photos were people I didn't know, places I didn't know, and a You that I didn't know.%K%P
+0x334
+優「あとはねぇ、あとはねぇ……」%K%P
+You「Oh, and, and...」%K%P
+0x340
+優はなおも続けそうな勢いだったので、俺は慌てて口をはさんだ。%K%P
+You looked like she had no intention of stopping, so I rushed to get a word in.%K%P
+0x34C
+武「なぁ、優？　結局それは、なんなんだ？　アルバムか？」%K%P
+Takeshi「Um, You? So what is this, your life's history album or something?」%K%P
+0x360
+優「アルバムねぇ……そんなふうに呼んだことはないけど……」%K%P
+You「A history album... Well, I've never called it that before...」%K%P
+0x36C
+優「まあ、ジャンルとしては、アルバムに分類されるのかな？」%K%P
+You「But if you had to label it, I guess you could call it that.」%K%P
+0x378
+武「で、どうしてお前、アルバムなんて持ってるんだ？」%K%P
+Takeshi「Uh, so why are you carrying that with you?」%K%P
+0x384
+優「ん？　なんでそんなこと聞くの？」%K%P
+You「Huh? Why do you even need to ask?」%K%P
+0x398
+ココ「たけぴょん、知らないの？　女の子はみんな、こういうの持ってるんだよ、普通」%K%P
+Coco「Takepyon, you don't know? All girls carry around things like this. It's normal.」%K%P
+0x3A4
+武「そう、なのか？」%K%P
+Takeshi「You don't say?」%K%P
+0x3B8
+優「うん」%K%P
+You「Yeah.」%K%P
+0x3C4
+ココ「少なくとも、ココのまわりにいる女の子は、みんな持ち歩いてるよ？」%K%P
+Coco「Well, all the girls I know carry them around.」%K%P
+0x3D0
+確かに、ひと昔前にそんな流行があったらしいことは、小耳にはさんだことがある。%K%P
+Come to think about it, I'd heard rumors of something like that before.%K%P
+0x3DC
+だが、それが単なる一過性の流行ではなく、婦女子の間に脈々と受け継がれてきた伝統であったということまでは、さすがに俺も知らなかった。%K%P
+But I wouldn't have expected it to be anything more than a fleeting fad. There was no way I had any idea it was a deep-rooted girl tradition.%K%P
+0x3E8
+恐らく、更衣室に保管されている優の所持品の中に、このアルバムもあったのだろうと思われる。%K%P
+The album had probably been with You's things from the changing room. I wonder what everyone is doing right about now...%K%P
+0x3FC
+優「みんな、今頃なにしてるのかなぁ～」%K%P
+You「I wonder what everyone is doing right about now...」%K%P
+0x408
+優はページをめくりながら、ぽつりと呟いた。%K%P
+You murmured softly to herself as she flipped through the pages.%K%P
+0x414
+優「私のこと、もしかして心配してくれてたりするのかなぁ？」%K%P
+You「Do any of these people ever worry about me?」%K%P
+0x420
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x434
+ココ「あっ、そうだ……」%K%P
+Coco「Oh yeah...」%K%P
+0x440
+ココ「たけぴょんはさぁ、ママとパパと一緒に住んでるの？」%K%P
+Coco「Do you live with your mom and dad, Takepyon?」%K%P
+0x44C
+武「えっ？」%K%P
+Takeshi「Eh?」%K%P
+0x458
+ココ「それとも、ひとり暮らし？」%K%p
+Coco「Or do you live by yourself?」%K%p
+0x9B8
+両親と同居している
+I'm living with my parents
+0x9C4
+ひとり暮らしだ
+I live alone
+0x498
+武「両親と同居、だ」%K%P
+Takeshi「I'm living with my parents.」%K%P
+0x4A4
+ココ「じゃあ、パパもママも、きっと心配してるね？」%K%P
+Coco「So I'll bet your mom and dad are worried about you.」%K%P
+0x4B0
+武「そりゃあ、親だったら心配するのが当然だろうな……」%K%P
+Takeshi「Well, they're parents. Parents worry, it's what they're good at...」%K%P
+0x4BC
+武「ただし、俺達がここに閉じ込められているのを知っていれば、の話だが」%K%P
+Takeshi「Buuut, that's only if they know we're stuck in here.」%K%P
+0x4C8
+ココ「そんなの、知ってるに決まってるじゃない」%K%P
+Coco「Well, they've got to know.」%K%P
+0x4D4
+ココ「こんな大事件が起きたんだよ？　たぶん、ニュースとかワイドショーとかに、おっき～く報道されてるってば」%K%P
+Coco「An accident as big as this? It's probably all over the news. They might even be doing a huge TV special about it.」%K%P
+0x4E8
+武「ひとり暮らし、だ」%K%P
+Takeshi「I live alone.」%K%P
+0x4F4
+武「実家からは、２、３ヶ月に１回ぐらいしか連絡は来ないし、俺の方からも連絡することはない」%K%P
+Takeshi「I get a phone call every couple of months from home, and I don't really call them much myself.」%K%P
+0x500
+武「だから、たぶん……俺の両親は、まさか俺がこんなところにいるなんて、知るよしもないだろうなぁ」%K%P
+Takeshi「So... there's probably no way that my parents know that I'm trapped in a place like this.」%K%P
+0x514
+優「そんなことないよぉ、きっと知ってるはず」%K%P
+You「That's not true! They've got to know.」%K%P
+0x520
+優「だって、こんな大事件が起きたんだよ？　新聞とかテレビとかで、大々的に報道されてるでしょ？」%K%P
+You「An accident as big as this? It's probably all over the newspapers and television.」%K%P
+0x52C
+武「そうかな？　そうとは限らないと思うが……」%K%P
+Takeshi「You think so? I'm not sure about that...」%K%P
+0x540
+優は相変わらずページをめくり続けている。%K%P
+You kept flipping through the pages.%K%P
+0x54C
+俺の発言にはあまり興味を持っていないようだ。%K%P
+It didn't seem like she was very interested in what I had to say.%K%P
+0x558
+武「ココは？　お前は、もちろん両親と一緒に住んでるんだよなぁ？」%K%P
+Takeshi「How about you, Coco? You're probably still living with your parents, aren't you?」%K%P
+0x56C
+ココ「ココ、１４歳なんだよ？　当たり前でしょ？」%K%P
+Coco「Well, I'm fourteen, aren't I? Of course I am.」%K%P
+0x580
+ココ「あっ、だけど今、パパは家にいないけど……」%K%P
+Coco「Ah, well, right now my dad isn't at home, but...」%K%P
+0x58C
+武「ん？　なんで？」%K%P
+Takeshi「Hmm? Why not?」%K%P
+0x5A0
+ココ「『しゅっちょーちゅー』だから」%K%P
+Coco「Because he's on a 'business trip', that's why.」%K%P
+0x5AC
+武「ああ、そういうことな」%K%P
+Takeshi「Oh, I see.」%K%P
+0x5C0
+武「んで、優の方は？　お前は、両親と同居してるのか？　それとも……」%K%P
+Takeshi「And what about you, You? Are you living with your parents, or...」%K%P
+0x5D4
+『やべっ、やっちまったぁ』――言ってしまってから気がついた。%K%P
+(Oh! Duh! Why did I ask that!?)―I realized it'd been a mistake to ask that.%K%P
+0x5E0
+優の父親は、今から１７年前に行方不明になっているのだ。%K%P
+You's dad had been missing for seventeen years.%K%P
+0x5EC
+優の顔色をうかがう。%K%P
+I checked You's expression.%K%P
+0x5F8
+優はまったく気にしていない様子でこう答えた。%K%P
+But it didn't seem as if she cared one way or another.%K%P
+0x60C
+優「私は、お母さんと一緒に住んでる」%K%P
+You「I'm living with my mom.」%K%P
+0x618
+優「でも、心配なんかしてないと思うなぁ」%K%P
+You「But I doubt she's really worried about me.」%K%P
+0x624
+優「そういう人だから、あの人……」%K%P
+You「That's just the kind of person she is, my mom...」%K%P
+0x630
+武「そういう人？」%K%P
+Takeshi「What do you mean?」%K%P
+0x63C
+優「楽観的って言うかなんて言うか……あんまり、物事に動じるようなタイプの人じゃないのよねぇ」%K%P
+You「I guess you could call her a positive thinker... She isn't the type to really let herself get caught up in things.」%K%P
+0x648
+優「無断外泊とかしても、全然平気みたいだし……」%K%P
+You「She doesn't care if I stay out all night...」%K%P
+0x654
+優「今まで１８年間あの人と付き合ってきたけど……うるさく言われたことなんか一度もないんだ」%K%P
+You「I've been living with her for eighteen years... but she's never raised her voice at me once.」%K%P
+0x660
+優「私、放任主義で育てられたの」%K%P
+You「I grew up pretty much doing whatever I wanted.」%K%P
+0x674
+優「だから、こんなふうになっちゃったのかもね？」%K%P
+You「I suppose that's why I turned out the way I did.」%K%P
+0x688
+優はアルバムのページを開いて見せた。%K%P
+You showed me a page from her album that she'd turned to.%K%P
+0x694
+そこには、パロスペシャルを華麗に決めている優の姿が写っていた。%K%P
+There was You, putting the hurt on some wrestler.%K%P
+0x6A0
+パロられているのは、屈強そうなひとりの男子であった。%K%P
+And the guy looked like a bulky jock of sorts.%K%P
+0x6AC
+優「さてと……」%K%P
+You「So...」%K%P
+0x6B8
+優はパタリとページをとじ、言った。%K%P
+You said that as she snapped the album shut.%K%P
+0x6CC
+優「ねえ、ココ？　ちょっとお昼寝でもしに行かない？」%K%P
+You「Hey, Coco? You want to go take a nap?」%K%P
+0x6D8
+優「なんだか……ふぁ～あ……眠くなってきちゃったから……」%K%P
+You「I don't know why, but... *yaaawn*... I'm kind of tired all of a sudden...」%K%P
+0x6E4
+ココ「うん、お昼ねするぅ～」%K%P
+Coco「Okay, let's take a nap.」%K%P
+0x6F8
+優「どうしてこんな時間に眠くなるんだろうねぇ？」%K%P
+You「I wonder why I'm so tired this early?」%K%P
+0x704
+優「ねっ？　ココ？」%K%P
+You「Right, Coco?」%K%P
+0x710
+ココ「ねっ？　なっきゅ？」%K%P
+Coco「Right, Nakkyu?」%K%P
+0x724
+優とココはさげすむような視線を俺に向け、ふたりしてあくびをかみ殺しながら……部屋を出て行った。%K%P
+You and Coco looked over at me disapprovingly and... left the room fighting off yawns.%K%P
+0x730
+俺はピピを抱きかかえたまま、ふたりの姿を見送った。%K%P
+Holding Pipi, I watched the two disappear from sight.%K%P

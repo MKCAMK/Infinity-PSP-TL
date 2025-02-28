@@ -1,0 +1,867 @@
+text area offset and size:
+0x1850
+0x3016
+0x70
+予定通り俺達はタツタ売店に集合し、食事をとった。%K%P
+We met at the tuna sandwich stand and ate as scheduled.%K%P
+0x7C
+結局、夕食も何故か俺が作っていた……。%K%P
+In the end, I didn't fix anything for dinner...%K%P
+0x90
+少年「それにしてもさぁ、武」%K%P
+Kid「Hey, Takeshi.」%K%P
+0x9C
+武「なんだよ？」%K%P
+Takeshi「Whaaaat?」%K%P
+0xA8
+少年「タツタサンド以外の食べ物は作れないの？」%K%P
+Kid「Can't you make anything besides tuna sandwiches?」%K%P
+0xB4
+武「そう言われてもなぁー」%K%P
+Takeshi「Hmm, well, there's not much I can do 'bout that...」%K%P
+0xC0
+武「この売店には元々、食い物はタツタサンドしかなかったみたいなんだ」%K%P
+Takeshi「There wasn't much at this kiosk except tuna sandwiches to start with.」%K%P
+0xCC
+武「ホットドッグは朝出したぶんで終わりだしな。あれはたぶん、売店のオヤジの気紛れで置いてあっただけだろ」%K%P
+Takeshi「I cooked all the hotdogs this morning, so they're finished. The owner probably just kept them for a little variation.」%K%P
+0xE0
+少年「ふーん、そっかぁ……」%K%P
+Kid「Oh really...」%K%P
+0xEC
+少年は右手でサンドの袋を指先でいじっていた。%K%P
+The Kid held the sandwich wrapping in his right hand and twisted it around his fingertip.%K%P
+0xF8
+左手には半分だけかじったサンドが、一向に減らないまま残っている。%K%P
+The half-eaten sandwich remained in his left hand, not getting any smaller.%K%P
+0x104
+食べきれなかった……というわけではないようだった。%K%P
+It didn't seem like he couldn't finish it...%K%P
+0x120
+優「どうしたの？　冷めないうちに食べなよ」%K%P
+You「What's the deal? Eat up before it gets cold.」%K%P
+0x12C
+既に食べ終わっていた優が、少年の顔を覗き込んだ。%K%P
+You was done eating, and she peered at the Kid's face.%K%P
+0x138
+少年「うーん……」%K%P
+Kid「Yeah...」%K%P
+0x14C
+優「しばらく探して歩いたけど、結局他の食べ物は見つからなかったね」%K%P
+You「You must have walked all over looking for something else to eat. But it was no use after all, huh?」%K%P
+0x158
+優「通路に流されてた食材は、もうあらかたダメになってた……」%K%P
+You「The food that washed into the corridors during the flooding is almost all spoiled anyway...」%K%P
+0x16C
+優「ま、それでもタツタサンドだけは、ここに嫌というほど材料もあるし、いつでも食べられるんだから、いいじゃない」%K%P
+You「But that's okay, because we've got more stuff to make tuna sandwiches than you could imagine.」%K%P
+0x180
+少年「それもそうだね……」%K%P
+Kid「I guess that's true...」%K%P
+0x18C
+少年は残りのサンドを少しちぎって、もそもそと口に押し込む。%K%P
+The Kid tore off a piece of the sandwich and shoved it in his mouth.%K%P
+0x198
+優「食べられるものが確実にあるってのは、サバイバルにおいては重要なことなんだよ」%K%P
+You「To survive, it's crucial that you have something you can eat.」%K%P
+0x1A4
+武「へぇ優、よくわかってるみたいだな」%K%P
+Takeshi「Hey, it looks like he got the picture.」%K%P
+0x1B0
+武「まるで本物のサバイバル経験者のようだ」%K%P
+Takeshi「Yeah, looks like we've got a real survivor on our hands.」%K%P
+0x1C4
+優「うん、そうだよ」%K%P
+You「Yep, that's right.」%K%P
+0x1D0
+優はあっさりと答える。%K%P
+You answered shortly.%K%P
+0x1E4
+武「……え？」%K%P
+Takeshi「...Huh?」%K%P
+0x1F0
+優「ちょっとした趣味でね、私、時々ひとりで山に入ったりするの」%K%P
+You「Yeah, just a little hobby of mine. Sometimes, I go into the mountains alone.」%K%P
+0x1FC
+優「道なき道を掻き分けて……たまに迷子になったりするんだけど……」%K%P
+You「I carve my own path... Sometimes, I even get a bit lost...」%K%P
+0x210
+武「山ごもりか！？」%K%P
+Takeshi「Into the mountains alone?」%K%P
+0x21C
+武「優、お前は伝説の格闘家だったのか！！」%K%P
+Takeshi「What, are you training in some ancient fighting art on the sly!?」%K%P
+0x230
+優「ちょっと倉成、なんでそうなるのよ！」%K%P
+You「Geez, Kuranari. Why do you have to get like that?」%K%P
+0x23C
+武「冬山でツキノワグマと決闘するんじゃないのか？」%K%P
+Takeshi「Yeah, out fighting the black bears under the winter moon!」%K%P
+0x250
+優「違うって。温泉よ温泉。秘湯巡り」%K%P
+You「Nope. I hunt out hot springs that nobody knows about.」%K%P
+0x264
+優「ああ、前人未踏の地に幻の湯を求めて三千里……いいわよねぇ、これぞ女のロマンって感じ……！」%K%P
+You「Yeah, deep in the mountains, someplace no one else has ever been. Oh, now THAT is this girl's idea of romantic!」%K%P
+0x270
+陶酔したように身をくねらせて、優は言った。%K%P
+You wriggled as if intoxicated by the image.%K%P
+0x27C
+武「そうかぁ、冬山でツキノワグマと一緒に風呂に入るのかぁ」%K%P
+Takeshi「Oh, now I get it. You were soaking in the hot springs with a bear.」%K%P
+0x298
+優「違うっての！　いい加減ツキノワグマから離れなさいよ……」%K%P
+You「No, no, no. Would you shut up about bears already...」%K%P
+0x2A4
+武「へいへい……」%K%P
+Takeshi「Heh heh...」%K%P
+0x2B0
+武「しかし見かけによらずワイルドなやっちゃな、お前」%K%P
+Takeshi「So despite appearances, you're really wild at heart.」%K%P
+0x2CC
+優「あーら、何か、おっしゃいまして？　おっほほほほ♪」%K%P
+You「Oh, what might you be suggesting? Oh, heh heh～」%K%P
+0x2D8
+わざとらしく、優は上品ぶってみせた。%K%P
+You drew herself up in an exaggerated fashion.%K%P
+0x2E4
+武「自分の指を縫ったことがあるとか言ってたな。それも温泉探しでか？」%K%P
+Takeshi「Oh yeah, you talked about stitching up your own finger. I suppose that was also while you were out searching for hot springs?」%K%P
+0x2F8
+優「え？　あ、うん……ちょっとね」%K%P
+You「Huh? Oh... Yeah... I suppose.」%K%P
+0x304
+優「でも、表面を、ほんの数針くらいだよ」%K%P
+You「But it was just a surface scratch, and I only needed a few stitches.」%K%P
+0x310
+武「ふーん……」%K%P
+Takeshi「Hmph.」%K%P
+0x31C
+武「やっぱりクマと決闘を」%K%P
+Takeshi「Just like I thought, bear wrestling.」%K%P
+0x330
+優「しつこいっ！！」%K%P
+You「Just give it up!」%K%P
+0x33C
+優は顔を真っ赤にした。%K%P
+You turned red-faced as she exploded.%K%P
+0x348
+武「にっひっひひひひ……♪」%K%P
+Takeshi「Weeheehee...」%K%P
+0x35C
+優「ああ、もう……ほんとに……」%K%P
+You「Aaagghhh... I can't take this anymore.」%K%P
+0x368
+優「…………」%K%P
+You「.........」%K%P
+0x37C
+溜め息をつきながら、優はあさってのほうを向いてしまった。%K%P
+You let out a sigh and turned away from me.%K%P
+0x388
+まぁ、俺に呆れたせいではある。%K%P
+I supposed she was fed up.%K%P
+0x394
+（ちょっと調子に乗りすぎたかな？）%K%P
+(Maybe I got a little carried away...?)%K%P
+0x3A8
+しかし、優の表情が少し曇る。%K%P
+But You's face clouded over a bit.%K%P
+0x3B4
+（からかったせいにしては、なんか暗いような……？）%K%P
+(Teasing her could have gotten her THAT down...?)%K%P
+0x3C0
+そう思っていると、優は俺から目を逸らしたまま呟く。%K%P
+Just as I was thinking that, You avoided my eyes and muttered...%K%P
+0x3CC
+優「ねぇ、倉成……？」%K%P
+You「Hey, Kuranari...?」%K%P
+0x3D8
+優「つぐみの、ことなんだけど」%K%P
+You「Umm, about Tsugumi...」%K%P
+0x3E4
+何か言い辛そうにしている。%K%P
+It seemed like she wanted to say something, but she didn't know what to say.%K%P
+0x3F0
+武「どうした、優？」%K%P
+Takeshi「What's up? What is it?」%K%P
+0x3FC
+優「ああ、うん。それがね……」%K%P
+You「Um, what I mean is, uh...」%K%P
+0x448
+そこへ、ばしゃばしゃと元気に水を蹴る音が近づいてきた。%K%P
+Just then, we heard the sounds of people running through the water toward us.%K%P
+0x470
+ばしゃばしゃばしゃ……。%K%P
+Splish, splash, splish...%K%P
+0x4AC
+ココ「おーっす！！」%K%P
+Coco「Hey, what's up?」%K%P
+0x4B8
+ピピ「わんわんっ！」%K%P
+Pipi「*Woof*, *woof*!」%K%P
+0x4C4
+武「おっココ、そろそろメシ食えそうか？」%K%P
+Takeshi「Hey, Coco, you about ready to eat?」%K%P
+0x4D0
+ココ「うんっ、走り回ってたらお腹減ってきた」%K%P
+Coco「Yeah, all that running around's made me starved!」%K%P
+0x4DC
+ピピ「わん」%K%P
+Pipi「*Woof*」%K%P
+0x4F0
+そう、ココだけは、まだ食事を口にしていなかった。%K%P
+That's right, I remembered she was the only one who hadn't eaten yet.%K%P
+0x4FC
+俺は保温器に取っておいたタツタサンドの包みを、ココに手渡した。%K%P
+I handed Coco the last tuna sandwich I had kept in the food warmer.%K%P
+0x510
+ココ「それじゃ、いっただっきまーすっ♪」%K%P
+Coco「Alright, time to eat～」%K%P
+0x524
+ココ「えい、ガブリ」%K%P
+Coco「Yay! Chow time!」%K%P
+0x530
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x544
+ココ「おいしーい♪」%K%P
+Coco「Oh, this is yummy～」%K%P
+0x550
+ココ「マグロタツタ揚げとしょう油マヨネーズのハーモニーが絶妙です♪」%K%P
+Coco「Mmm. This blend of soy sauce, mayonnaise, and fried tuna is perfect. Yum. Supreme～」%K%P
+0x564
+ココ「絶妙です♪　ね、少ちゃん？」%K%P
+Coco「Yeah, Kiddo. This is divine, isn't it?」%K%P
+0x570
+ココは、売店前に立っていた少年に訊く。%K%P
+Coco shot the question to the Kid, who was standing in front of the store.%K%P
+0x584
+少年「あ、うん」%K%P
+Kid「Uh, yeah. Sure.」%K%P
+0x590
+少年「でも、ちょっと飽きてきたかな……」%K%P
+Kid「But I'm getting a little tired of it.」%K%P
+0x59C
+少年の左手には、冷めたタツタサンドの欠片がまだ残っている。%K%P
+A last bit of unfinished sandwich remained in his left hand.%K%P
+0x5B0
+ココ「そう？」%K%P
+Coco「Really?」%K%P
+0x5BC
+ココ「これをかけると、さらにおいしいかもっ」%K%P
+Coco「Put some of this on, it'll be even better.」%K%P
+0x5D0
+少年「え？　わっ……」%K%P
+Kid「Huh? What is that?」%K%P
+0x5E4
+ココ「むにむにむにむにーっ♪」%K%P
+Coco「Here it comes, ooey-gooey～」%K%P
+0x5F0
+ココは背中に隠し持っていたチューブを、少年のタツタの上にひねり出した。%K%P
+Coco pulled out a tube she had hidden behind her back, held it over the Kid's sandwich, and squeezed.%K%P
+0x5FC
+武「ココ、なんだそれ？」%K%P
+Takeshi「Coco, what the heck is that?」%K%P
+0x610
+ココ「サワークリーム！」%K%P
+Coco「Sour cream!」%K%P
+0x61C
+ココ「サラダ用のやつが、おみやげの売店にいっこだけあったの」%K%P
+Coco「It's supposed to be for salads. It was the last one at the gift shop.」%K%P
+0x628
+武「ほう……」%K%P
+Takeshi「Hmmmmm...」%K%P
+0x634
+チューブには『暮らしに彩りを添える逸品』『練りカニ海鮮　甘口』と書いてあった。%K%P
+The tube said 'Add some spice to your life' and 'Crab-flavored cream sauce: mild'.%K%P
+0x640
+武「食生活に幅が出そうだな」%K%P
+Takeshi「That could really broaden your culinary horizons.」%K%P
+0x654
+ココ「うん。はむはむ……」%K%P
+Coco「Yep. *Munch*, *munch*...」%K%P
+0x660
+ココは自分のサンドにもサワークリームを浴びせて、大きく口をあけてかぶりついた。%K%P
+She doused her sandwich with the sour cream, opened her mouth wide, and shoved it in.%K%P
+0x674
+ココ「おいしーい♪」%K%P
+Coco「Delicious～」%K%P
+0x680
+ココ「これは絶妙のさらに上を行く絶妙ですっ♪」%K%P
+Coco「It doesn't get any better than this～」%K%P
+0x694
+少年「…………」%K%P
+Kid「.........」%K%P
+0x6A0
+少年は半信半疑といった顔で、左手のタツタをひと口食べた。%K%P
+The Kid looked at her doubtfully before taking a bite.%K%P
+0x6B4
+少年「あ……確かに」%K%P
+Kid「Hmmm... Not bad.」%K%P
+0x6C8
+少年「絶妙かも」%K%P
+Kid「This might be what it needed.」%K%P
+0x6DC
+ココ「でしょ？　絶妙の絶妙っしょ？」%K%P
+Coco「I told you! Yummy, yummy!」%K%P
+0x6E8
+ピピ「わん」%K%P
+Pipi「*Woof*」%K%P
+0x6F4
+そうしてココも少年も、クリームを駆使して、綺麗にタツタサンドをたいらげる。%K%P
+With that, both Coco and the Kid covered their sandwiches with cream before polishing them off.%K%P
+0x708
+ココ「ねぇねぇ、たけぴょん」%K%P
+Coco「Hey, hey, Takepyon.」%K%P
+0x714
+ココは包装紙をくしゃくしゃにしながら訊いた。%K%P
+Coco called out while crumpling up her sandwich wrapping.%K%P
+0x720
+武「ん？」%K%P
+Takeshi「Huh?」%K%P
+0x72C
+ココ「つぐみんのぶんはどうしよっか、サンド……？」%K%P
+Coco「What're we gonna do with Tsugumin's sandwich?」%K%P
+0x738
+ココ「できたらココが持って行こうか？」%K%P
+Coco「How's about I hold onto it for her?」%K%P
+0x744
+武「え、ああ……」%K%P
+Takeshi「Uh, well...」%K%P
+0x750
+俺は一応つぐみのサンドも作って、保温器の奥に置いてはあった。%K%P
+I had made it for her and stuck it in the warmer to keep for her.%K%P
+0x75C
+しかし――%K%P
+But then again...%K%P
+0x778
+優「ごめんね、ココ」%K%P
+You「Sorry, Coco.」%K%P
+0x78C
+優「つぐみはまだ寝てるの。しばらく起きないから……」%K%P
+You「Tsugumi's still asleep. She won't wake up for a while, so...」%K%P
+0x798
+優はココの頭を撫でる。%K%P
+You gave Coco a pat on the head.%K%P
+0x7AC
+ココ「そうなの？」%K%P
+Coco「Is that right?」%K%P
+0x7B8
+優「うん。疲れてるだろうし……今はね、もうちょっと寝かせてあげて」%K%P
+You「Yep, I'll bet she's pretty tired. Let's let her sleep a bit longer.」%K%P
+0x7C4
+ココ「ふーん……」%K%P
+Coco「*Sigh*...」%K%P
+0x7D8
+ココ「わかった。じゃあ、つぐみんが起きたら、食べてもらおうね」%K%P
+Coco「Okay then. So she can eat it later, after she wakes up.」%K%P
+0x7E4
+武「え？」%K%P
+Takeshi「Huh?」%K%P
+0x7F8
+ココ「ちゃんととって置きましょ～。つまみ食いしちゃダメだよ？」%K%P
+Coco「Let's save it for her. No snacking on it, either!」%K%P
+0x804
+ココは保温器の奥のサンドを指差す。%K%P
+Coco pointed to the sandwich nestled deep in the food warmer.%K%P
+0x810
+……気づいてたのか。%K%P
+...So she'd noticed it.%K%P
+0x81C
+武「ＯＫ、了解だ」%K%P
+Takeshi「Alright. Roger that.」%K%P
+0x830
+ココ「よろし～い！」%K%P
+Coco「Great!」%K%P
+0x844
+ココ「じゃ、ココは食後の運動してきま～す♪」%K%P
+Coco「Okay, time for some after meal exercise～」%K%P
+0x858
+ピピ「わんわん」%K%P
+Pipi「*Woof*, *woof*!」%K%P
+0x86C
+少年「あっ待って、ぼくも行くよ！」%K%P
+Kid「Hey, hold on. I wanna go too.」%K%P
+0x89C
+ばしゃばしゃばしゃ……。%K%P
+Splish, splash, splish...%K%P
+0x8A8
+ココと少年とピピは一緒に、憩いの間のほうに駆けて行った。%K%P
+Coco, the Kid, and Pipi ran toward the rest area together.%K%P
+0x8B4
+俺と優は、その後ろ姿を見送る。%K%P
+You and I watched them from behind.%K%P
+0x908
+武「ああっと、そうだ優……」%K%P
+Takeshi「Oh, by the way, You...」%K%P
+0x914
+武「つぐみは安静にしてるのか？」%K%P
+Takeshi「Is Tsugumi resting up?」%K%P
+0x920
+優「ああ、実はさっき救護室に寄って、ちょっと様子を見てきたんだ」%K%P
+You「Yeah, actually, I just stopped by the infirmary to check on her.」%K%P
+0x92C
+武「どうだった？」%K%P
+Takeshi「How was she?」%K%P
+0x940
+優「私は専門の医者じゃないから、具体的なことは言えないけど」%K%P
+You「I'm not a medical expert or anything, so I can't say anything specific.」%K%P
+0x94C
+優「回復は今のところ、順調よ」%K%P
+You「But she seems to be recuperating. Satisfactory progress, I think.」%K%P
+0x960
+優「順調過ぎるくらい……」%K%P
+You「Maybe too satisfactory...」%K%P
+0x96C
+武「順調過ぎる？」%K%P
+Takeshi「What do you mean by 'too satisfactory'?」%K%P
+0x980
+優「ううん、なんて言ったらいいんだろう……」%K%P
+You「I really don't know how to put it...」%K%P
+0x98C
+優「…………」%K%P
+You「...」%K%P
+0x998
+優は言い淀んで、うつむいた。%K%P
+You suddenly stopped talking and let her head fall forward.%K%P
+0x9A4
+武「つぐみの容態に危険がなさそうなら、よかったじゃないか。手術はうまくいったんだろ？」%K%P
+Takeshi「Well, if her condition is stable, that's good, isn't it? The operation went well, right?」%K%P
+0x9B0
+優「……うーん……」%K%P
+You「...Yeeeaaah...」%K%P
+0x9BC
+武「なんだよ優、また自信喪失しちまったのか？」%K%P
+Takeshi「What's up with you? Lose your confidence somewhere or something?」%K%P
+0x9D0
+優「そうじゃないんだけど……」%K%P
+You「No, it's not that...」%K%P
+0x9DC
+優「…………」%K%P
+You「...」%K%P
+0x9F0
+優「うん……そうだね。そうそう」%K%P
+You「Hmmm... Yeah, yeah. That's it!」%K%P
+0x9FC
+武「？？」%K%P
+Takeshi「?」%K%P
+0xA08
+何事かひとり納得して、優は顔をあげた。%K%P
+You lifted her head as if she had just realized something.%K%P
+0xA1C
+優「確かに私はちょっと自信なかったけど、つぐみはちゃんと回復してる」%K%P
+You「Perhaps I've lost some of my confidence, but I know Tsugumi is recovering.」%K%P
+0xA30
+優「生命力ってやつよねぇ……」%K%P
+You「Life force is an amazing thing, huh?」%K%P
+0xA44
+優「ま、そうそう死にはしないのよね、人間って」%K%P
+You「You know, humans don't die so easily.」%K%P
+0xA50
+そう言って優は笑った。%K%P
+You smiled when she said that.%K%P
+0xACC
+夕食の片づけを終えた俺達は、憩いの間にやって来た。%K%P
+After dinner, when we finished cleaning up, we made our way to the rest area...%K%P
+0xAD8
+この広間の一角には、４体の石像が並んでいた。%K%P
+Four stone statues were lined up in one corner of the area.%K%P
+0xAEC
+そのうち１体は南の方角に手を伸ばしている。%K%P
+One of them extended a hand, pointing toward the south.%K%P
+0xB00
+別の１体は東に、%K%P
+Another reached toward the east.%K%P
+0xB14
+また他の１体は天に向かって、手を伸ばしていた。%K%P
+Yet another looked to the heavens while reaching a hand upward.%K%P
+0xB28
+残る１体は……胸に両手をあて、目をそっと閉じている。%K%P
+The remaining figure... had both hands pressed to its chest and eyes closed.%K%P
+0xB3C
+何か意味があるのだろうか？%K%P
+I wondered if there was some kind of meaning to all of it.%K%P
+0xB48
+優に尋ねてみたが、彼女はわからないと首を振った。%K%P
+I asked You, but she just shook her head unknowingly.%K%P
+0xB54
+少年とココはピピと一緒に、その石像達の間をすり抜けながら追いかけっこをしているようだった。%K%P
+It looked like Coco, the Kid, and Pipi were running amongst the figures as they played.%K%P
+0xB68
+優「ところで、空はどこ行ったのかなぁ？」%K%P
+You「By the way, I wonder where Sora went...」%K%P
+0xB74
+武「あれ？　そういや、どうしたんだろう。食事の直前まではいたんだけど」%K%P
+Takeshi「Hey, you're right. Now that you mention it, Sora was here until just before we ate.」%K%P
+0xB80
+優「制御室に入ったままなのかな」%K%P
+You「Maybe she's still in the control room.」%K%P
+0xB8C
+優「たま～にだけど、空ってレミのコンソールの中に潜って、しばらく出てこなくなるのよね」%K%P
+You「It only happens once in a while, but sometimes she'll dive into LeMMIH's main console and not come out for quite a while.」%K%P
+0xB98
+武「そうなのか？」%K%P
+Takeshi「Really?」%K%P
+0xBA4
+優「仕事熱心みたいだからねぇ、空……」%K%P
+You「Seems like she can get pretty caught up in her work...」%K%P
+0xBB0
+そういう問題だろうか。%K%P
+I wondered if that was that all it was.%K%P
+0xBBC
+優「じゃ私、行って様子見てくるよ」%K%P
+You「Well, I'll go check it out.」%K%P
+0xBC8
+武「ああ、よろしく頼む」%K%P
+Takeshi「Alright, you do that.」%K%P
+0xC04
+優は、近くの出口から通路に走っていった。%K%P
+With that, she ran out a nearby exit and down the corridor.%K%P
+0xC10
+俺はひとつ伸びをしてから、追いかけっこを続けるココ達を、目で追ってみた。%K%P
+After having a good stretch, I watched Coco and the others play.%K%P
+0xC1C
+石像の周りを輪になって巡るふたりと１匹。%K%P
+The three of them, two kids and an animal, circled the stone statue.%K%P
+0xC28
+誰が鬼なのかは、特に決まっていないようだ。%K%P
+They were playing a game of chase, not really caring who was 'it'.%K%P
+0xC34
+飽きもせずにくるくる、ずっと同じ場所を回り続けている。%K%P
+Without seeming to get bored, they kept running around and around.%K%P
+0xC40
+見ているほうが忙しない気分になってくる。%K%P
+On the other hand, I got restless watching them.%K%P
+0xC4C
+（やれやれ……）%K%P
+(Phew, what a sight...)%K%P
+0xC58
+なかなか楽しそうだが、仲間に入れてくれとは言わなかった。%K%P
+It looked kind of fun, but I didn't quite feel like asking to join in.%K%P
+0xC64
+俺はふと辺りに目を向ける。%K%P
+I let my eyes roam around.%K%P
+0xC78
+武「おっ……？」%K%P
+Takeshi「Oh...?」%K%P
+0xC84
+武「なんだ空、こんなとこにいたのか」%K%P
+Takeshi「So that's where you were, Sora.」%K%P
+0xC90
+さっきまで姿の見えなかった空は、石像から離れた花壇のそばに立っていた。%K%P
+After her unexplained disappearance, Sora had appeared next to a nearby flowerbed.%K%P
+0xCAC
+空「ええ。少し前から、ここにいました」%K%P
+Sora「Yes, I have been here for a little while.」%K%P
+0xCB8
+空「花を眺めていたんです」%K%P
+Sora「I've been looking at the flowers.」%K%P
+0xCC4
+植えられた花々に目をやる。%K%P
+I observed the flowers.%K%P
+0xCD0
+花壇には、背の低い薔薇とマリーゴールド、マーガレットが一緒に植えられているようだった。%K%P
+In the flowerbed, short roses, marigolds, and marguerites were all planted together.%K%P
+0xCDC
+武「しかし、なんか花に元気がないな」%K%P
+Takeshi「Yeah, but they sure don't seem to be doing very well.」%K%P
+0xCF0
+空「そうですね」%K%P
+Sora「I see what you mean.」%K%P
+0xCFC
+この数日間、誰もこの花達に水を与える者はいなかった。%K%P
+Nobody had watered them for the past several days.%K%P
+0xD08
+花壇の土は乾き、表面にはひび割れができていた。%K%P
+The soil was dry, its surface cracked.%K%P
+0xD14
+花は萎れ、枯れかかっていた。%K%P
+The flowers had wilted, and the plants were beginning to dry up.%K%P
+0xD30
+空「生命とは不思議な現象です」%K%P
+Sora「Life is sure a strange phenomenon.」%K%P
+0xD3C
+花々を見つめながら、空は呟いた。%K%P
+Sora muttered to herself as she gazed at the flowers.%K%P
+0xD48
+空「種から芽が出て成長し、花を咲かせ、受精し、種を実らせ、土に還る」%K%P
+Sora「A bud sprouts from a seed. A flower blossoms, reproduces, and then a seed matures and returns to the earth.」%K%P
+0xD54
+空「その種から再び芽が出て成長し、花を咲かせ、受精し、種を実らせ、土に還る」%K%P
+Sora「From that seed comes another bud, another flower which blossoms and reproduces, and a new seed, which in turn returns to the earth.」%K%P
+0xD60
+空「その繰り返し……」%K%P
+Sora「And on and on just like that...」%K%P
+0xD6C
+空「生命とは何の為にあるのでしょう？」%K%P
+Sora「What is the purpose of life?」%K%P
+0xD78
+空「花は何の為に咲くのでしょう？」%K%P
+Sora「Why do flowers bloom?」%K%P
+0xD84
+武「…………」%K%P
+Takeshi「...」%K%P
+0xD90
+俺は咄嗟に答えることができなかった。%K%P
+I was unable to reply at once.%K%P
+0xD9C
+何の為に花は咲くのか――%K%P
+Why, indeed, did flowers bloom?%K%P
+0xDA8
+空「理由はともかくとしても、生命とはとても素晴らしい現象だと思います」%K%P
+Sora「Whatever the reason or purpose, I think life is a wonderful thing.」%K%P
+0xDB4
+空「けなげに咲いている花を見るとき、私は不思議な感動を覚えるのです」%K%P
+Sora「When I see a flower struggling to exist, growing from a crack in the concrete, I have a strange and wonderful feeling.」%K%P
+0xDC0
+空「花はいつでも、必死に生きようとしている」%K%P
+Sora「Flowers are always striving desperately to live.」%K%P
+0xDCC
+空「こんな海の底で、光や二酸化炭素の乏しい環境で……」%K%P
+Sora「Even in an environment such as this, in the depths of the ocean, without enough light or carbon dioxide...」%K%P
+0xDD8
+空「しかも、こんなふうに乾き切った土の上でさえ……」%K%P
+Sora「Even in such parched and cracked soil...」%K%P
+0xDE4
+空「花は決して諦めようとせず、見事に咲き誇ろうと努力している」%K%P
+Sora「They never even think of giving up, but just struggle courageously to live.」%K%P
+0xDF0
+空「その姿勢が、胸を打つのでしょうか？」%K%P
+Sora「Doesn't it inspire you?」%K%P
+0xDFC
+空「……いいえ」%K%P
+Sora「...Maybe not.」%K%P
+0xE08
+空「きっと、意味や目的なんて、花には何の関係もないことなんでしょうね」%K%P
+Sora「Maybe it's no use contemplating the meaning or purpose of flowers...」%K%P
+0xE14
+ふと天井を、空は見上げた。%K%P
+Sora glanced up at the ceiling.%K%P
+0xE20
+俺もつられて、何げなく上を見た。%K%P
+I followed suit, also looking up.%K%P
+0xE48
+武「えっ！？」%K%P
+Takeshi「Huh?」%K%P
+0xE54
+けたたましく鳴り響くサイレンの音。%K%P
+The shrill sound of a siren rang out loudly.%K%P
+0xE60
+天井のパネルの隙間にある小さなセンサーが、激しく動いた。%K%P
+Tiny sensors hidden in openings of the ceiling panels were moving wildly.%K%P
+0xE6C
+どこからか新たに、水の流れてくる音がする……。%K%P
+Once again, I heard the sound of flowing water coming from somewhere.%K%P
+0xE78
+武「まさか、浸水か？」%K%P
+Takeshi「No way. It can't be another flood!」%K%P
+0xEA8
+ざあああああああああ…………っ。%K%P
+Fwwwaaaaaaaashhhh...%K%P
+0xEB4
+天井から大量の水滴が降り注いだ。%K%P
+Massive amounts of water rained down from the ceiling.%K%P
+0xEC0
+その飛沫は、俺達を容赦なく濡らした。%K%P
+The drops poured down upon us mercilessly.%K%P
+0xEE8
+程なく、辺りは水霧に覆われ……%K%P
+Soon after, we were suffused in a heavy mist...%K%P
+0xEF4
+空の姿は虹に変わった。%K%P
+Sora's appearance changed to that of a rainbow.%K%P
+0xF00
+武「あわわわっっ、な、なんだ！？」%K%P
+Takeshi「What in the world?」%K%P
+0xF0C
+武「おいっ、空、なんのトラブルだっ！？」%K%P
+Takeshi「Hey, Sora, what's going on?」%K%P
+0xF18
+動揺を抑えながら俺は訊いた。%K%P
+I tried to steady myself while asking.%K%P
+0xF40
+しかし空は、口元に笑みを浮かべているように見えた。%K%P
+However, it seemed that a smile hovered about Sora's mouth.%K%P
+0xF4C
+武「……空？」%K%P
+Takeshi「...Sora?」%K%P
+0xF58
+もう一度、天井を確かめてみた。%K%P
+I looked up again, checking the ceiling.%K%P
+0xF80
+おびただしい数の水滴……。%K%P
+The drops of water were everywhere...%K%P
+0xF8C
+細かい霧のせいで、よく見えない。%K%P
+I couldn't see much due to the fine mist.%K%P
+0xF98
+だが……%K%P
+But...%K%P
+0xFC0
+武「スプリンクラー、か？」%K%P
+Takeshi「Oh, it's sprinklers, huh?」%K%P
+0xFCC
+空は静かに頷いてみせた。%K%P
+Sora nodded without speaking.%K%P
+0xFD8
+武「水……」%K%P
+Takeshi「Water...」%K%P
+0x1000
+俺は、手で受けた水を確かめ、口に含んでみた。%K%P
+I sipped water from my cupped hands, both tasting and testing it in my mouth.%K%P
+0x100C
+スプリンクラーのノズルから出ているのは、消火剤でも海水でもなかった。%K%P
+The water from the sprinklers was neither a liquid to extinguish fires nor seawater.%K%P
+0x1018
+武「ろ過水だ……」%K%P
+Takeshi「Ah... This is filtered water!」%K%P
+0x1040
+空「はい」%K%P
+Sora「Yes...」%K%P
+0x104C
+空「館内水道用の真水です」%K%P
+Sora「This complex uses the purest possible water.」%K%P
+0x1058
+武「ってことは……」%K%P
+Takeshi「That means...」%K%P
+0x1080
+武「ひょっとして、空……この花壇に、水をやる為に？」%K%P
+Takeshi「Perhaps it's... meant for watering these flowers?」%K%P
+0x108C
+空「ふふっ……」%K%P
+Sora「Hehe...」%K%P
+0x1098
+空は笑って答えない。%K%P
+She laughed but didn't answer...%K%P
+0x10C0
+天井の規則正しい並びから、薔薇達に向けて水は放たれていた。%K%P
+The ceiling was designed so that the water sprayed down perfectly on the roses and other flowers below.%K%P
+0x10CC
+やがて……。%K%P
+Not long after that...%K%P
+0x10F4
+優「ちょっと、何があったの！？」%K%P
+You「Hey, what's going on over here?」%K%P
+0x1100
+ココ「空さん！　警報が！　警報が！」%K%P
+Coco「Sora-san! There's an alarm, an alarm!」%K%P
+0x110C
+少年「空、武……大丈夫！？」%K%P
+Kid「Sora, Takeshi... Are you guys okay?」%K%P
+0x1118
+皆は足元の水を蹴り飛ばしながら、バタバタと大慌てでやって来る。%K%P
+Everyone came running over in a frenzy, splashing water with every step.%K%P
+0x1140
+少年「もしかして、また浸水なの？」%K%P
+Kid「Don't tell me there's another flood!?」%K%P
+0x114C
+武「いや、違うんだ」%K%P
+Takeshi「No, it's not.」%K%P
+0x1158
+ココ「違う、って何が違うの？」%K%P
+Coco「So what is it?」%K%P
+0x1180
+ココ「なんか……水びたしだよ？」%K%P
+Coco「I mean... everything is totally soaked.」%K%P
+0x118C
+ココ「たけぴょんも、びしょ濡れだし……」%K%P
+Coco「Takepyon, you're drenched...」%K%P
+0x1198
+武「心配いらないって」%K%P
+Takeshi「Don't worry about me.」%K%P
+0x11C0
+水滴は未だ激しく振り注いでいた。%K%P
+The drops of water were still pouring down from the ceiling.%K%P
+0x11CC
+優「もうっ、モニターに警報が出たから、慌てて飛んできたわよ！！」%K%P
+You「Oh man, we ran over here as soon as we saw the warning on the monitor!」%K%P
+0x11D8
+優「火災警報じゃないのっ！？」%K%P
+You「It's not the fire alarm!?」%K%P
+0x11E4
+武「だから、火事とか浸水とか、そんなんじゃないんだ……」%K%P
+Takeshi「I'm telling you, there's no fire or flooding...」%K%P
+0x120C
+武「だからさぁ……」%K%P
+Takeshi「Uh, let me explain...」%K%P
+0x1218
+武「優……それ、引っ込めてくれないか？」%K%P
+Takeshi「You... could you put that away?」%K%P
+0x1240
+優は両手で消火器を構えていた。%K%P
+She held a fire extinguisher in both hands as if bracing to use it.%K%P
+0x124C
+しかも安全ピンを抜き、ノズルを突き出して発射体勢に入っている。%K%P
+She had pulled the safety pin and held out the nozzle, ready to spray at any instant's notice.%K%P
+0x1258
+随分腰の引けた発射体勢だった。%K%P
+It was a pretty clumsy-looking attempt.%K%P
+0x1280
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x128C
+優「…………」%K%P
+You「.........」%K%P
+0x12B0
+天井からの雨は、じきに止んだ。%K%P
+After a while, the water stopped.%K%P
+0x12BC
+空は微笑んで花壇を眺めた。%K%P
+Sora smiled and gazed at the flowerbed.%K%P
+0x12C8
+優「あのー……」%K%P
+You「Uhhh...」%K%P
+0x12D4
+優「もしかして、イタズラ？」%K%P
+You「You don't suppose this was just a prank?」%K%P
+0x12E0
+武「あ、えーと……」%K%P
+Takeshi「Uh, you know...」%K%P
+0x12EC
+俺が空の代わりに答える。%K%P
+Now it was my turn to smile.%K%P
+0x12F8
+武「まぁ、そんなようなもんかな……」%K%P
+Takeshi「Yeah, I guess it was something like that...」%K%P
+0x1304
+武「そこんとこの壁に、なんだか珍しい色と形のボタンがあったもんでぇ……」%K%P
+Takeshi「Over on that wall, there's some kind of weirdly shaped and colored button...」%K%P
+0x1310
+武「『おおっ！？　こりゃあなんじゃらほぉ～い！？』とか思って……」%K%P
+Takeshi「I thought, 'What the heck does this do!?'」%K%P
+0x131C
+武「ついつい、ポチッとな？」%K%P
+Takeshi「I couldn't help giving it a little push.」%K%P
+0x1344
+俺が言うと、優は消火器を投げ出す。%K%P
+When I said that, You tossed the fire extinguisher aside.%K%P
+0x1350
+そして笑いを堪えるように身をよじり――%K%P
+Then she turned to hide her face to try to contain her laughter.%K%P
+0x135C
+優「くくっ……くくくくくっ……」%K%P
+You「Kuku... Kukukukuku...」%K%P
+0x1368
+優「く～らぁ～なぁ～りぃ～っ！？」%K%P
+You「Kuuu-raaa-naaa-riii!」%K%P
+0x1374
+拳を振り上げ、俺目がけて振り回した。%K%P
+She balled up a fist and swung it in my direction.%K%P
+0x1380
+優「ちょっと、あんたねぇ！　小学生じゃないんだからさぁっ！」%K%P
+You「Listen here! You're not a kid, you know!」%K%P
+0x138C
+優「こないだも団体行動のルールが守れてなかったしっ！」%K%P
+You「Just who broke the group rules the other day, huh!?」%K%P
+0x1398
+優「まったく、どういうつもりなのよーっ！」%K%P
+You「What are you thinking!?」%K%P
+0x13A4
+こんこんと説教を始める優。%K%P
+You was poised to launch into a sermon.%K%P
+0x13B0
+だがそんな言葉は耳に入らず、俺は花壇の花々を眺めていた。%K%P
+She rambled on, but the words didn't reach my ears. I was gazing in wonder at the flowers.%K%P
+0x13BC
+萎れかけたその花達は、束の間、活き活きと踊っているように見えた。%K%P
+The previously wilted and drooping flowers had, in such a short time, become full of life and seemed to be dancing about.%K%P
