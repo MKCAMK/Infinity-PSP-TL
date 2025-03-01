@@ -1377,7 +1377,7 @@ My head hurt so much that I thought it might split open.%K%P
 Kid「Waaaaaaaaaaaaaaaaaahhhhh!」%K%P
 0x1CB4
 たまらなくなって、ぼくは音の元凶だと思われる音声変換器を取り外した。%K%P
-
+Unable to withstand it, I took out the voice converters that I thought were causing the pain.%K%P
 0x1CC0
 しかし、それを取っても音は鳴りやまない。%K%P
 But the sound went on.%K%P
@@ -2283,7 +2283,7 @@ B > TB%K%P
 A > TB?%K%N
 0x2F6C
 Ｂ＞ティーフブラウ%K%N
-
+B > Tief Blau%K%N
 0x2F78
 Ａ＞またあれか……%K%N
 A > That again...%K%N

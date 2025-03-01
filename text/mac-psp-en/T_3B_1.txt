@@ -171,7 +171,7 @@ You「What!? You've even forgotten manga?」%K%P
 Kid「Well, I have a vague sense that I've heard the word before...」%K%P
 0x3CC
 優「マンガの存在を忘れちゃうなんて……あんた今、人生の２割くらいは損してるわ……」%K%P
-You「Wow, to forget about manga... You know, you're missing out on about 20% of life right there...」%K%P
+You「Wow, to forget about manga... You know, you're missing out on about 20％ of life right there...」%K%P
 0x3D8
 優と少年は妙なやり取りを続ける。%K%P
 The Kid and You continued their strange conversation...%K%P

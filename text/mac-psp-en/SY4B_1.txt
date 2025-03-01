@@ -432,7 +432,7 @@ At last, it was time to start deducing things.%K%N
 We decided to start breaking things down with the points that were clear.%K%O
 0x974
 ティーフブラウ（以降、ＴＢ）とは何か？%K%N
-
+Like what was Tief Blau, or TB?%K%N
 0x980
 かつて全世界で猛威を振るっていた、極めて致死率の高い悪性ウイルスである。――と優が説明してくれた。%K%N
 You explained that it was a malignant virus that had an extremely high death rate, and that it had ravaged the world in the past.%K%N
@@ -441,7 +441,7 @@ You explained that it was a malignant virus that had an extremely high death rat
 She said that it was first discovered more than 30 years previously.%K%N
 0x998
 なるほど確かに、ＴＢに感染し、３４年前に陽一氏が、１５年前にゆきえ氏が亡くなっていたとしても、時系列的にオカシナことは何もない。%K%N
-So, time-wise, there was nothing strange if her father had died of TB 34 years before then and her mother 15 years before.%K%N
+So, time-wise, there was nothing strange if her father had died of TB 34 years before then and her mother 15 years before.%K%O
 0x9A4
 なお、そのＴＢも今や絶滅したウイルスであり、１０年前にＷＨＯ（世界保健機関）が根絶を宣言したらしい。%K%O
 Furthermore, the world was entirely free of TB; a decade earlier, the World Health Organization had officially declared that the disease was eradicated.%K%O
@@ -528,7 +528,7 @@ We deduced that if Yukie was dead then that meant that You's mother had been lyi
 We didn't bother ourselves about the possibility of two women having the same name.%K%N
 0xB50
 ゆきえ氏が嘘をついていることがわかれば、陽一氏失踪説の信憑性も著しく低下することになる。%K%N
-If we could determine that Yukie was lying, then the reliability of her information about Yoichi's disappearance would drop dramatically.%K%N
+If we could determine that Yukie was lying, then the reliability of her information about Yoichi's disappearance would drop dramatically.%K%O
 0xB5C
 従って、可能性としては４が、俄然高くなってしまうのだった。%K%N
 That would strongly boost the possibility that the fourth theory was right.%K%N

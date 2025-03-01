@@ -15,7 +15,7 @@ def main():
   files = os.listdir(fdir);
 
   for fname in files:
-    f = open(fdir+fname, "r", encoding="SJIS")
+    f = open(fdir+fname, "r", encoding="sjisx0213")
     lns = f.readlines()
     f.close()
     print(fname)
@@ -31,7 +31,7 @@ def main():
         lines=0
 
       line = line[:-1] # strip \n
-      allseq = re.findall("(?:%[KkPpNnOV]|%T\d\d|%C[\dA-F]{4}|%X\d{3}|%TS\d{3}|%TE|%F[SE]|%L[CLR])+", line);
+      allseq = re.findall(r"(?:%[KkPpNnOV]|%T\d\d|%C[\dA-F]{4}|%X\d{3}|%TS\d{3}|%TE|%F[SE]|%L[CLR])+", line);
       if (allseq):
         if allseq[-1].endswith("%P") or allseq[-1].endswith("%p") or allseq[-1].endswith("%O"):
           clear = True;
@@ -40,18 +40,18 @@ def main():
 
       if ("%" in line):
         # % sequence wasn't cut out for some reason
-        print (i, ":", line, ':', allseq)
+        print (i+1, ":", line, ':', allseq)
 
       chars+=len(line)
       lines+=1;
       if (chars > warn_chars_screen):
         overflowTxt = " May cause buffer overflow!" \
                   if (chars > warn_chars_buffer_overflow) else ""
-        print("Line %d: %d chars in last %d lines.%s"
-              % (i, chars, lines, overflowTxt))
+        print("Line %d (%d): %d chars in last %d lines.%s"
+              % (i+1, (i+1)*3+3, chars, lines, overflowTxt))
         if (overflowTxt != ""): print ("'%s'" % line)
       # if (len(line) > warn_chars_line):
-      #   print(("Line  %d: %d chars on the line!") % (i, len(line)))
+      #   print(("Line  %d: %d chars on the line!") % (i+1, len(line)))
 
 
 
