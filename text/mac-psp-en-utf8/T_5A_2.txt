@@ -1,0 +1,1422 @@
+text area offset and size:
+0x2770
+0x4D98
+0x98
+眼前に広がるは闇。%T030%K%N
+Darkness spread out before my eyes.%T030%K%N
+0xA4
+限りなく遠く、果てはない。%T030%K%N
+Without limit, it spread. Nothingness.%T030%K%N
+0xB0
+この空間に、終わりはなかった。%T030%K%N
+The void was endless.%T030%K%N
+0xBC
+その只中に俺はいる。%T030%K%N
+And I was in the middle of it.%T030%K%N
+0xC8
+比べるべきものは、一切見つからない。%T030%K%N
+There was nothing else for me to look at.%T030%K%N
+0xD4
+光を求めて辺りを見回したが、まったく身動きができなかった。%K%O
+I searched for light, but I couldn't even see the movement of my body.%K%O
+0x11C
+足元には何もない。%T030%K%N
+There was nothing below my feet.%T030%K%N
+0x128
+俺を支えるものは、何も存在していなかった。%T030%K%N
+Nothing held me up.%T030%K%N
+0x134
+だから、落ちる。%T030%K%N
+And so I fell.%T030%K%N
+0x140
+そのまま落ちていく。%T030%K%N
+I fell.%T030%K%N
+0x14C
+深く深く、沈みこんでいく。%T030%K%N
+Deeper and deeper, I sank into the void.%T030%K%N
+0x158
+俺は沈んでいく。%K%O
+Farther and farther.%K%O
+0x188
+いや、そうではない……。%T030%K%N
+No, that wasn't it...%T030%K%N
+0x194
+闇のほうこそが、こちらに近づいているのだとわかった。%T030%K%N
+Rather, it seemed that the darkness was coming toward me.%T030%K%N
+0x1A0
+恐るべき速さで接近してくる。%T030%K%N
+It approached me at a terrifying speed.%T030%K%N
+0x1AC
+音は何も聞こえない。%T030%K%N
+But there was no sound.%T030%K%N
+0x1B8
+しかしすぐそこまで忍び寄っている。%K%O
+Yet it was creeping closer and closer.%K%O
+0x1D0
+やがて、それは……。%T030%K%N
+And finally it...%T030%K%N
+0x1DC
+俺に沁み込んでくる。%T030%K%N
+It penetrated me.%T030%K%N
+0x1E8
+振り払うことなど、不可能だった。%T030%K%N
+There was no way for me to shake it off.%T030%K%N
+0x1F4
+どこまでも、絡みついてくる。%T030%K%N
+It seeped completely into me.%T030%K%N
+0x200
+感触は不思議となかった。%T030%K%N
+It was strange, but there was no feeling to it.%T030%K%N
+0x20C
+黒い影はそうして俺の中へと馴染み、住み着く。%T030%K%N
+The blackness invaded and settled inside me.%T030%K%N
+0x218
+そうなればもはや、ふたつを分かつことはできない。%K%O
+It overtook me, never to part again.%K%O
+0x260
+ああ、闇になってしまう。%T030%K%N
+Aah, I was becoming the darkness.%T030%K%N
+0x26C
+俺は闇になってしまう。%T030%K%N
+The darkness was becoming me.%T030%K%N
+0x278
+闇そのものに、なってしまう……。%T030%K%N
+My body, becoming the darkness itself...%T030%K%N
+0x284
+この闇にフタはない。%T030%K%N
+The void was endless. It had no ceiling.%T030%K%N
+0x290
+覆い隠すものは何もない。%T030%K%N
+Nothing existed to cover it.%T030%K%N
+0x29C
+心に底がないように。%K%O
+It was an abyss.%K%O
+0x2DC
+すべては、漆黒の彼方へと葬られる。%T030%K%N
+Everything was buried in the pitch black.%T030%K%N
+0x2E8
+俺は塗り潰されていく。%T030%K%N
+And the dark of the night was crushing me.%T030%K%N
+0x2F4
+そうやって……。%T030%K%N
+That was how...%T030%K%N
+0x300
+皆、死ぬのだ。%T030%K%N
+Everyone died.%T030%K%N
+0x30C
+死んでいく。%T030%K%N
+I was dying.%T030%K%N
+0x318
+死だ。%T030%K%N
+I was dead.%T030%K%N
+0x324
+死。%K%O
+Death.%K%O
+0x35C
+目覚めると、シャツは寝汗でじっとりと濡れていた。%K%P
+When I woke, my shirt was soaked with sweat.%K%P
+0x368
+気分の悪い寝覚めだった。%K%P
+What an awful way to start the day.%K%P
+0x374
+ポケットからＰＤＡを取り出し、時刻を確認する。%K%P
+I pulled out my PDA to check the time.%K%P
+0x380
+午前、３時……１８分になろうというところだ。%K%P
+It read 3:18 a.m.%K%P
+0x38C
+眠気は既に飛んでいる。%K%P
+But all drowsiness had left me.%K%P
+0x398
+仮に無理矢理寝ついたとしても、嫌な夢でも見そうな気がした。%K%P
+Attempting sleep again would have been a waste of time. I thought I'd only have another nightmare.%K%P
+0x3A4
+近くには、すやすやと健やかな寝息。%K%P
+Nearby, I could hear soft breathing.%K%P
+0x3B0
+ココはピピと寄り添うようにして、幸せそうな寝顔を浮かべていた。%K%P
+Coco and Pipi were nestled together, comfortably asleep.%K%P
+0x3BC
+俺は音を立てないようそっと起き上がると、会議室の扉を開けて外へ出た。%K%P
+Trying not to wake them, I opened the conference room door and sneaked out.%K%P
+0x43C
+どこまでも続く通路……。%K%P
+Outside, the hallway seemed endless...%K%P
+0x448
+一瞬、それに果てがないような錯覚を受ける。%K%P
+For a moment, I had the illusion that it went on forever.%K%P
+0x454
+（バカバカしい……）%K%P
+(Stop being stupid...)%K%P
+0x460
+冷たい水を湛えた道に、ためらわず足を浸す。%K%P
+Without hesitation, I stepped into the cold water filling the hallway.%K%P
+0x46C
+この光景、この状況にすっかり馴染みきっている自分自身に気づく。%K%P
+I realized how oddly accustomed I'd grown to that spectacle, that strange situation.%K%P
+0x478
+ここにある日常。%K%P
+That daily routine.%K%P
+0x484
+すべてを壁に囲まれた日常。%K%P
+Being continually enclosed by walls.%K%P
+0x490
+だが隔壁は、やがて時が来ればすべてが脆く崩れ去る。%K%P
+Walls that, in a matter of time, were doomed to come crashing down.%K%P
+0x49C
+そのとき、俺はどこにいるのだろうか……？%K%P
+(Where will I be when it happens...?)%K%P
+0x4A8
+……あまり深く考えないことにした。%K%P
+...I decided not to think too deeply about it.%K%P
+0x4B4
+とっくにそう決めたはずだった。%K%P
+I had already decided not to think about things like that...%K%P
+0x4C8
+非常階段を上って、俺はツヴァイトシュトックを目指す。%K%P
+Climbing the emergency stairway, I headed toward Zweiter Stock.%K%P
+0x4E4
+救護室に辿り着き、ボタンを押して扉を開けた。%K%P
+Reaching the infirmary, I pushed the button to open the door.%K%P
+0x51C
+（いないな……）%K%P
+(She's not here...)%K%P
+0x528
+ベッドは空だった。%K%P
+The bed was empty.%K%P
+0x534
+こぼれたナッツは掃除されてしまっていた。%K%P
+The spilled nuts were gone.%K%P
+0x540
+つぐみがやったのか、それとも他の誰かか……それはわからない。%K%P
+I wondered whether Tsugumi had been the one to clean them up or if it was someone else...%K%P
+0x554
+ひとまず、ここには誰もいなかった。%K%P
+Regardless, no one was in the room.%K%P
+0x560
+レミの端末に手を伸ばし、パネルを叩いてみる。%K%P
+Reaching out to the LeMMIH terminal, I touched the screen.%K%P
+0x56C
+反応がない。モニターの明かりが落とされていた。%K%P
+No reaction. The monitor lights were out.%K%P
+0x5A4
+警備室に向かう。あそこの端末なら動くかもしれない。%K%P
+I walked toward the security office. I thought that maybe the terminal there would be online.%K%P
+0x5DC
+扉を開けると少し淀んだ、こもった空気が香った。%K%P
+Opening the door, I hesitated at the smell.%K%P
+0x5E8
+相変わらずヤニ臭い部屋だ。%K%P
+As always, the room smelled like smoke.%K%P
+0x5F4
+端末を操作してみる。%K%P
+I tried the terminal.%K%P
+0x600
+画面には『定期メンテナンス中』のメッセージが表示された。%K%P
+The screen read 'Periodic Maintenance in Progress.'%K%P
+0x60C
+その下を読み進める。%K%P
+The message continued.%K%P
+0x618
+『ＬｅＭＭＩＨ：全システム定期メンテナンスプログラムが作動しています』%K%P
+'LeMMIH: Full system periodic maintenance program in operation.'%K%P
+0x624
+『終了するまでは、レミの一部機能の呼び出しができません』%K%P
+'Until completion, portions of LeMMIH functions are inaccessible.'%K%P
+0x630
+『メンテナンス終了時刻は、午前６時を予定しています』%K%P
+'Estimated completion time: 6 a.m.'%K%P
+0x63C
+『その間、全館の自動管制システムは半休止していますが、各施設・アトラクション等の使用は通常どおり可能です』%K%P
+'While under maintenance, automatic control systems throughout the compound will be partially offline. However, facilities and attractions will operate normally.'%K%P
+0x648
+『しかし各種センサー、状態記録システムはメンテナンス中に動作状態チェックを行う為、正常に機能していません』%K%P
+'Note: Since all sensors and recording systems operations will be checked during maintenance, function may be erratic.'%K%P
+0x654
+『よって端末からのデータ参照は、現在不可能となっています』%K%P
+'Therefore, it will not be possible to access data through the terminals.'%K%P
+0x660
+『緊急時に限りメンテナンスを強制中断することはできますが、その後のレミの状態が不安定になってしまう危険があり……』%K%P
+'WARNING: This maintenance program should not be aborted except in cases of emergency. If aborted, there is the danger of making the LeMMIH system unstable...'%K%P
+0x66C
+『……ですので、どうかメンテナンス終了まではレミへのアクセスを控えてください』%K%P
+'...Therefore, please refrain from accessing LeMMIH until after maintenance completion.'%K%P
+0x678
+『以上、宜しくお願いします』%K%P
+'Thank you for your cooperation.'%K%P
+0x684
+『追伸：――』%K%P
+'Additional note:'%K%P
+0x690
+『メンテ終了まで、私も現れることができません。皆さん同様、夜の間眠っていることになりますね』%K%P
+'Until the maintenance completes, I will be unavailable. Everybody should be asleep at this time anyway, right?'%K%P
+0x69C
+『夕食のときに皆さんにお伝えしたはずですが、もしお忘れになっている方がいらっしゃるといけないので……』%K%P
+'I informed everyone about this operation at dinnertime, but in case any of you forgot what I said, I am leaving this message...'%K%P
+0x6A8
+『それでは、おやすみなさい。――茜ヶ崎空』%K%P
+'That is all, good night.―Akanegasaki Sora'%K%P
+0x6BC
+（はあぁ……）%K%P
+(Well, how about that?)%K%P
+0x6C8
+空の奴も、肝心なことを言い忘れてくれたものだ。%K%P
+I supposed Sora forgot to tell me about it.%K%P
+0x6D4
+いや、俺が聞き忘れてたのか？%K%P
+Then again, maybe I just wasn't listening...%K%P
+0x6E0
+あのとき、冷蔵庫の奥のたった１本のソーセージに気を取られていたせいだろうか。%K%P
+I was probably busy eyeing that extra piece of sausage in the refrigerator.%K%P
+0x6EC
+皆に見つからないように、ソーセージを隠して……。%K%P
+Trying not to be seen by the others as I hid the sausage...%K%P
+0x6F8
+あとで、皆に内緒で調理して……。%K%P
+And later cooked it up...%K%P
+0x704
+ひとりで『肉おいちい♪』とか叫んで、見つかって、それから……。%K%P
+I'd been gloating over it until being caught, and then...%K%P
+0x710
+まさか数十分後に、食ったものを全部吐いちまうなんてな……。%K%P
+Certainly not expected to be throwing it up only half an hour later...%K%P
+0x71C
+（アホか、俺は……）%K%P
+(Was I stupid or what...?)%K%P
+0x728
+不幸中の幸いか、あれから腹は減っていなかった。%K%P
+I was lucky it wasn't worse. Oddly enough, I hadn't felt hungry since...%K%P
+0x73C
+なんだか行き場をなくした俺は、意味もなくエレベーターの前に立った。%K%p
+Anyway, having no particular place to go, I found myself in front of an elevator.%K%p
+0x2730
+ボタンを押す
+Push the button
+0x273C
+ボタンを押さない
+Don't push the button
+0x784
+そして、意味もなくエレベーターを呼ぶボタンを押してみた。%K%P
+With no clear reason in mind, I pushed the elevator call button.%K%P
+0x7AC
+カチカチ……。%K%P
+Click, click...%K%P
+0x7B8
+音はすれども、エレベーターの動く気配はない。%K%P
+All it did was make a noise. The elevator showed no sign of budging.%K%P
+0x7C4
+当然だった。%K%P
+But of course.%K%P
+0x7D0
+ここにある通常のエレベーターは、すべてが機能停止していた。%K%P
+All of the elevators in that section of the compound had been shut down.%K%P
+0x7E4
+エレベーターを呼ぶ為のボタンを眺めた。%K%P
+Absentmindedly, I stared at the elevator call button.%K%P
+0x7F0
+今は何の意味もなさないボタン。%K%P
+At that moment, the button was truly meaningless.%K%P
+0x7FC
+それに手を伸ばしてみようかとも考えたが、やめておいた。%K%P
+Still, I thought about reaching out to push it again, but decided against it.%K%P
+0x824
+つぐみ「こんばんは……」%K%P
+Tsugumi「Hi.」%K%P
+0x830
+背後からの声に、俺は振り向く。%K%P
+Hearing a voice from behind me, I turned my head.%K%P
+0x83C
+つぐみはそこに静かにたたずんでいた。%K%P
+And there was Tsugumi, standing quietly.%K%P
+0x878
+つぐみ「ねぇ、何してたの？」%K%P
+Tsugumi「Hey, what were you up to?」%K%P
+0x884
+つぐみ「そんなところにいても、エレベーターは来るわけないわよ」%K%P
+Tsugumi「There's no point waiting around. That elevator's not coming.」%K%P
+0x890
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x89C
+俺は答えない。%K%P
+I didn't have an answer to give.%K%P
+0x8A8
+つぐみ「どうしたの、武？」%K%P
+Tsugumi「Takeshi, what's the matter?」%K%P
+0x8B4
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x8C8
+つぐみ「聞こえてないの？」%K%P
+Tsugumi「Are you deaf?」%K%P
+0x8D4
+武「ふふっ」%K%P
+Takeshi「Heh heh...」%K%P
+0x8E0
+ちょっと笑ってしまった。%K%P
+I couldn't help but laugh.%K%P
+0x8EC
+つぐみ「ちょっと、どうしちゃったの……？」%K%P
+Tsugumi「Come on, what's going on...?」%K%P
+0x8F8
+武「あはははっ……」%K%P
+Takeshi「Hahaha...」%K%P
+0x90C
+つぐみ「な、なんで笑ってるのよ？」%K%P
+Tsugumi「What's so funny?」%K%P
+0x918
+つぐみは軽く動揺しているようだった。%K%P
+Tsugumi seemed slightly disturbed.%K%P
+0x924
+武「ああ、いやなに……別に意味はないよ」%K%P
+Takeshi「It's... nothing. No special reason.」%K%P
+0x930
+武「意味のない質問だなぁ、と思っただけさ」%K%P
+Takeshi「It's just that, well, I thought your question was pointless.」%K%P
+0x944
+一瞬、つぐみは顔をしかめて……%K%P
+At first, Tsugumi started to frown...%K%P
+0x958
+それから、俺に笑い返した。%K%P
+But then she laughed back at me.%K%P
+0x964
+つぐみ「少しはあなたも、わかるようになったのね」%K%P
+Tsugumi「You've started to catch on, haven't you?」%K%P
+0x970
+武「まぁね……」%K%P
+Takeshi「I suppose...」%K%P
+0x97C
+武「俺はただの散歩の最中だ。つぐみは何してたんだ？」%K%P
+Takeshi「I was just out for a little walk. What have you been doing?」%K%P
+0x988
+武「……あ、別に答えなくてもいいぞ？」%K%P
+Takeshi「...Ah, that's okay, you don't have to answer.」%K%P
+0x99C
+つぐみ「だったら、訊かないでよ……」%K%P
+Tsugumi「In that case, don't ask...」%K%P
+0x9B0
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x9BC
+つぐみはやや表情を曇らせ、目を伏せてうつむく。%K%P
+Turning her eyes away, Tsugumi frowned slightly.%K%P
+0x9C8
+床に視線をさまよわせ、少し考えるようにした。%K%P
+Looking at the floor, she seemed lost in thought.%K%P
+0x9D4
+それからゆっくりと顔をあげ、口を開いた。%K%P
+After a moment, she lifted her eyes and spoke.%K%P
+0x9E8
+つぐみ「ねぇ武、クヴァレ、って知ってる？」%K%P
+Tsugumi「Say, Takeshi, do you know what 'Qualle' is?」%K%P
+0x9F4
+武「クヴァレ？」%K%P
+Takeshi「Qualle?」%K%P
+0xA00
+つぐみ「そう、クヴァレ」%K%p
+Tsugumi「That's right, Qualle.」%K%p
+0x2748
+知らない
+I don't know
+0x2754
+知ってる
+I know
+0xA40
+武「知らない」%K%P
+Takeshi「I don't know.」%K%P
+0xA4C
+武「いや、知ってたかもしれないが……忘れた」%K%P
+Takeshi「Actually, I think I knew, but then I forgot.」%K%P
+0xA58
+つぐみ「ふぅん……」%K%P
+Tsugumi「Right...」%K%P
+0xA6C
+つぐみ「じゃあ、教えてあげるわ」%K%P
+Tsugumi「Okay, I'll tell you.」%K%P
+0xA78
+つぐみ「クヴァレは……」%K%P
+Tsugumi「Qualle is...」%K%P
+0xA84
+つぐみ「クラゲのゴンドラのアトラクション」%K%P
+Tsugumi「The Jellyfish Gondola attraction.」%K%P
+0xA90
+つぐみ「このエレベータールームのすぐ裏手にあるの」%K%P
+Tsugumi「And it's located just behind this elevator room.」%K%P
+0xA9C
+武「へぇ、そうなんだ？」%K%P
+Takeshi「Hooo, is that so?」%K%P
+0xAB0
+武「知ってるよ。覚えてる」%K%P
+Takeshi「Yeah, I know what it is.」%K%P
+0xABC
+武「クラゲのゴンドラのアトラクション」%K%P
+Takeshi「The Jellyfish Gondola attraction.」%K%P
+0xAC8
+武「……だよな？」%K%P
+Takeshi「...Right?」%K%P
+0xADC
+つぐみ「ええ、そうよ」%K%P
+Tsugumi「Yeah.」%K%P
+0xAE8
+武「で、それがどうかしたのか？」%K%P
+Takeshi「So what about it?」%K%P
+0xAF4
+つぐみ「クヴァレは、このエレベータールームのすぐ裏手にあるの」%K%P
+Tsugumi「Well, Qualle is just behind this elevator room.」%K%P
+0xB00
+武「ああ、確かそうだったな」%K%P
+Takeshi「Yeah, come to think of it, you're right.」%K%P
+0xB14
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xB20
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xB2C
+それきり、黙った。%K%P
+And then we both fell silent.%K%P
+0xB38
+つぐみは僅かに微笑んで、俺のことを見つめている。%K%P
+Tsugumi started to giggle and gave me a hard look.%K%P
+0xB44
+どうすればいいのか、訊かなくてもわかっていた。%K%P
+We both knew what we were going to do next.%K%P
+0xB60
+つぐみが先に、クヴァレの乗り場の入り口に立った。%K%P
+With Tsugumi in the lead, we headed for the Qualle entrance.%K%P
+0xB6C
+武「なぁ、これ、どうやって動かすんだ？」%K%P
+Takeshi「Say, how do you make this thing work?」%K%P
+0xB80
+つぐみ「さぁね？」%K%P
+Tsugumi「Go figure.」%K%P
+0xB8C
+武「さぁね、ってお前」%K%P
+Takeshi「'Go figure'? Come on, tell me.」%K%P
+0xBA0
+つぐみ「スイッチは入ってるから、乗れば勝手に動き出すわ」%K%P
+Tsugumi「It's already turned on, dummy. Just get in and it'll go.」%K%P
+0xBAC
+武「そうか？」%K%P
+Takeshi「That's it?」%K%P
+0xBB8
+つぐみ「さっき試してみたから、確かよ」%K%P
+Tsugumi「Look, I tried it out already, so I'm pretty sure.」%K%P
+0xBC4
+武「ふーん、そんならいいんだけど……」%K%P
+Takeshi「Hmm, well, if you say so...」%K%P
+0xBD0
+武「……えっ？　試したのか！？」%K%P
+Takeshi「...Wait a second! You've already tried it?」%K%P
+0xBE4
+つぐみ「え、ええ……試したの」%K%P
+Tsugumi「Well, yeah... I tested it.」%K%P
+0xBF0
+虚を突かれ、つぐみはちょっと困った顔をした。%K%P
+Tsugumi's face looked troubled, as if she'd been caught at something.%K%P
+0xBFC
+武「ひとりで乗ったのか？」%K%P
+Takeshi「You're saying you rode it alone?」%K%P
+0xC08
+つぐみ「……ひとりじゃない」%K%P
+Tsugumi「...Well, not exactly alone.」%K%P
+0xC14
+武「じゃあ、誰かと？」%K%P
+Takeshi「Then who was with you?」%K%P
+0xC28
+つぐみ「誰かと、じゃない……」%K%P
+Tsugumi「It's not 'who' I was with...」%K%P
+0xC34
+つぐみ「その、つまり……チャミと一緒に……」%K%P
+Tsugumi「You see, well... I was with Chami...」%K%P
+0xC40
+武「ああ、ハムスターな？」%K%P
+Takeshi「You mean your hamster?」%K%P
+0xC54
+つぐみ「そ、そうよ……」%K%P
+Tsugumi「Y-yeah...」%K%P
+0xC60
+武「てことは、ひとりと１匹だなぁ」%K%P
+Takeshi「In other words, one adult and one 'critter'.」%K%P
+0xC6C
+つぐみ「うん」%K%P
+Tsugumi「Yeah.」%K%P
+0xC78
+武「つぐみはチャミと一緒に、クヴァレに乗ったわけだ？」%K%P
+Takeshi「You rode Qualle with Chami?」%K%P
+0xC8C
+つぐみ「そうよ。……何度も言わせないで」%K%P
+Tsugumi「Yes... Don't make me repeat myself.」%K%P
+0xC98
+武「で、どうだった？　楽しかったか？」%K%P
+Takeshi「Well then, how was it? Fun?」%K%P
+0xCAC
+つぐみ「チャミはすぐ寝ちゃったわ。退屈だったみたい」%K%P
+Tsugumi「Chami fell asleep. I guess he was bored.」%K%P
+0xCB8
+つぐみ「でも、私は……」%K%P
+Tsugumi「But as for me...」%K%P
+0xCC4
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xCD8
+つぐみ「そんなこと、どうでもいいでしょ？」%K%P
+Tsugumi「Who cares?」%K%P
+0xCE4
+つぐみ「意味がない質問よ」%K%P
+Tsugumi「It's a meaningless question.」%K%P
+0xCF0
+そう言いつつも、つぐみはよくしゃべっていた。%K%P
+Tsugumi hadn't said much, which was a lot more than usual.%K%P
+0xCFC
+武「はあぁ〜〜っ」%K%P
+Takeshi「Hmm...」%K%P
+0xD08
+武「まったく、寂しいやっちゃなぁ……」%K%P
+Takeshi「In other words, you were lonely, huh...?」%K%P
+0xD14
+武「まぁ、俺さえいれば退屈しないし、ひと安心だな」%K%P
+Takeshi「If I was there, I could have cheered you up.」%K%P
+0xD28
+つぐみ「何が安心なのよ」%K%P
+Tsugumi「What do you mean, cheered me up?」%K%P
+0xD34
+武「え？　そりゃあお前、いろんなことが、いろいろとだなぁ」%K%P
+Takeshi「Well, you know... You've been through a lot...」%K%P
+0xD40
+武「こう、ふたり一緒なら安心で、大丈夫になるわけであって……」%K%P
+Takeshi「And I thought maybe the two of us together would...」%K%P
+0xD54
+つぐみ「ふっ」%K%P
+Tsugumi「Yeah right...」%K%P
+0xD60
+ふと、つぐみの表情が緩む。%K%P
+But then, suddenly, Tsugumi's expression lost its tension.%K%P
+0xD6C
+つぐみ「ふふっ……」%K%P
+Tsugumi「Heh heh...」%K%P
+0xD80
+つぐみ「ふふふっ……あはははっ……」%K%P
+Tsugumi「Heh heh heh... Hahaha...」%K%P
+0xD8C
+いきなり声を立てて笑い出した。%K%P
+All of a sudden, she let out a laugh.%K%P
+0xD98
+武「お、おい……どうしちゃったんだよ……？」%K%P
+Takeshi「Hey... What's going on with you...?」%K%P
+0xDA4
+武「なんか俺、おかしいか？」%K%P
+Takeshi「Did I say something stupid?」%K%P
+0xDB8
+つぐみ「ううん、別に」%K%P
+Tsugumi「Nah, not really.」%K%P
+0xDC4
+つぐみ「全然、意味なんてないの」%K%P
+Tsugumi「It's nothing important.」%K%P
+0xDD8
+つぐみ「笑ってみたかっただけ……」%K%P
+Tsugumi「It's just that... I needed to laugh...」%K%P
+0xDEC
+それからすぐに、表情を戻す。%K%P
+And then her expression hardened again.%K%P
+0xE00
+それでも、やっぱり、また……%K%P
+But after all, I thought...%K%P
+0xE0C
+彼女は僅かに微笑みを湛えているように、俺には見えた。%K%P
+That a slight smile still remained on her face.%K%P
+0xE18
+つぐみ「行きましょう」%K%P
+Tsugumi「Let's go.」%K%P
+0xE24
+武「あ、ああ……」%K%P
+Takeshi「Y-yeah...」%K%P
+0xE90
+俺達はゴンドラに乗り込む。%K%P
+Together, we got inside the ride.%K%P
+0xE9C
+ハッチを閉めると間もなく、ゴンドラは滑るように動き出した。%K%P
+Immediately after the hatch closed, the gondola began to move forward smoothly.%K%P
+0xEA8
+つぐみの言った通りだった。%K%P
+It was just as Tsugumi had said.%K%P
+0xEB4
+クラゲを模したゴンドラはそのまま、ツヴァイトシュトックの外縁部に向かう。%K%P
+The jellyfish-shaped gondola picked up speed and headed toward the outskirts of Zweiter Stock.%K%P
+0xEC0
+フロアの外周を沿うように、ゴンドラの波型のチューブが巻きつけられているのだ。%K%P
+The corrugated tube carrying the gondola wrapped its way around the perimeter of the floor.%K%P
+0xECC
+チューブの中を、ゴンドラはゆったりと上下しながら、巡って行く。%K%P
+Floating comfortably inside the tube, the gondola skirted its way along.%K%P
+0xEE0
+つぐみ「あなたに質問したいことがあったの」%K%P
+Tsugumi「There's something I've been meaning to ask you.」%K%P
+0xEEC
+武「なんだ、質問って……？」%K%P
+Takeshi「What is it...?」%K%P
+0xEF8
+つぐみ「訊いておきたかった、確認しておきたかった……」%K%P
+Tsugumi「Well, it's something I wanted to ask... Something I wanted to confirm...」%K%P
+0xF04
+珍しいことだった。彼女のほうから、俺に何か語り出そうとしている。%K%P
+It was strange that Tsugumi would have something she wanted to say just to me.%K%P
+0xF10
+だが何か、様子が変だ。%K%P
+Her behavior seemed extremely odd.%K%P
+0xF1C
+つぐみ「おかしいね……」%K%P
+Tsugumi「It's strange, but...」%K%P
+0xF28
+つぐみ「おかしいけど、そうなのよ……」%K%P
+Tsugumi「It's strange, but it feels like...」%K%P
+0xF34
+つぐみ「わからなくなってしまいそうなの……」%K%P
+Tsugumi「I'm beginning to lose it...」%K%P
+0xF40
+つぐみ「おかしくなってしまいそうなの……」%K%P
+Tsugumi「Like I'm going crazy...」%K%P
+0xF4C
+武「…………？」%K%P
+Takeshi「Huh...?」%K%P
+0xF58
+つぐみ「ねぇ？　あなたはどこにいるの？」%K%P
+Tsugumi「So tell me, where are you?」%K%P
+0xF64
+突然、つぐみは言い出した。%K%P
+Out of nowhere, she asked me again.%K%P
+0xF70
+武「どこにって……ここに、いるじゃないか」%K%P
+Takeshi「What do you mean, 'where'? I'm right here.」%K%P
+0xF7C
+つぐみ「ここって、どこ？」%K%P
+Tsugumi「Yeah, but where is here?」%K%P
+0xF88
+武「だから、ここはここだよ」%K%P
+Takeshi「You know, here is 'here', right?」%K%P
+0xF94
+俺は自分の胸を手の平で叩いた。%K%P
+I beat the palm of my hand against my chest.%K%P
+0xFA0
+つぐみ「あなた、爪、切ったことある？」%K%P
+Tsugumi「Have you ever cut your fingernails?」%K%P
+0xFAC
+武「な、何言ってんだよ、突然」%K%P
+Takeshi「What's up with you all of a sudden?」%K%P
+0xFB8
+つぐみはすぐ目前に迫っていた。%K%P
+Tsugumi leaned over urgently, right in front of my face.%K%P
+0xFC4
+その瞳には、妖しい光が宿っている。%K%P
+In her eyes, I could see something like a distant light.%K%P
+0xFD0
+唇から、滑らかな舌先が少しだけ覗くのが見えた。%K%P
+I could just glimpse the tip of her tongue, wet and smooth.%K%P
+0xFDC
+つぐみ「いいから……」%K%P
+Tsugumi「Just answer, okay...?」%K%P
+0xFE8
+つぐみ「爪、切ったことある？」%K%P
+Tsugumi「Have you ever cut your nails?」%K%P
+0xFF4
+武「あるに決まってるだろ」%K%P
+Takeshi「Of course I have.」%K%P
+0x1000
+つぐみ「じゃあ、その切り取られた爪に、あなたはいる？」%K%P
+Tsugumi「Well then, is the nail that's been cut away still you?」%K%P
+0x100C
+武「は？」%K%P
+Takeshi「What do you mean?」%K%P
+0x1018
+つぐみ「爪に、あなたはいるの？」%K%P
+Tsugumi「I mean, are you there in the nail?」%K%P
+0x1024
+武「いや……俺の肉体を離れたら、それはもう俺じゃないよ」%K%P
+Takeshi「No... I guess once it's gone from my body, it's not me anymore.」%K%P
+0x1030
+つぐみ「髪は？」%K%P
+Tsugumi「How about hair?」%K%P
+0x103C
+武「髪もだ」%K%P
+Takeshi「The same goes for hair.」%K%P
+0x1048
+つぐみ「だったら、ここにくっついてる髪の毛は武だけど、こうやって抜いたとたん」%K%P
+Tsugumi「In that case, this hair here is you, right? But if I pull it out...」%K%P
+0x1068
+武「痛って！」%K%P
+Takeshi「Agh!」%K%P
+0x1074
+俺は思わず頭を押さえた。%K%P
+I reflexively put my hand to my head.%K%P
+0x1080
+つぐみが強引に、俺の髪の毛を引き抜いたせいだ。%K%P
+Tsugumi had yanked out a couple strands.%K%P
+0x108C
+つぐみ「これは、武じゃないんだ？」%K%P
+Tsugumi「This isn't you?」%K%P
+0x1098
+指先に摘まんだ髪の毛を、つぐみはひらひらと振ってみせた。%K%P
+Tsugumi held the hair up, waving it around.%K%P
+0x10A4
+武「う〜ん、微妙だな」%K%P
+Takeshi「Hmm... That's tough.」%K%P
+0x10B0
+武「俺じゃないと言えば、そうだけど……」%K%P
+Takeshi「It isn't me, but...」%K%P
+0x10BC
+武「まぁ『元・俺』ってことになるのかな」%K%P
+Takeshi「I guess you could call it 'ex-me'.」%K%P
+0x10C8
+つぐみ「じゃあ……腕を引きちぎったら？」%K%P
+Tsugumi「Okay then... What if I ripped your arm off?」%K%P
+0x10D4
+武「えっ？」%K%P
+Takeshi「What?」%K%P
+0x10E0
+つぐみは俺の腕を掴んだ。%K%P
+Tsugumi grabbed my arm.%K%P
+0x10F4
+と思う間もなく、俺の身体は引き寄せられていた。%K%P
+And before I could react, I was drawn into her body.%K%P
+0x1100
+物凄い腕力だというわけではないのに、まったく抗えなかった。%K%P
+Although she wasn't abnormally strong, I found it impossible to resist her.%K%P
+0x110C
+流れるような動作だった。%K%P
+It was a natural, flowing movement.%K%P
+0x1118
+白いゴンドラの上。%K%P
+Inside the white gondola.%K%P
+0x1124
+俺の身体に、つぐみの身体は覆い被さっている。%K%P
+Tsugumi's body was covering mine.%K%P
+0x1130
+彼女の息吹を感じる。%K%P
+I felt her breath.%K%P
+0x113C
+彼女の鼓動を感じる。%K%P
+I felt her pulse.%K%P
+0x1148
+彼女の体温を感じる。%K%P
+I felt the warmth of her body.%K%P
+0x1154
+彼女からは、何かが香っていた。%K%P
+A fragrant smell wafted from her neck.%K%P
+0x1160
+ジャコウの匂い……。%K%P
+A musky smell...%K%P
+0x116C
+くらくらと、目眩のするような……。%K%P
+It made me slightly dizzy...%K%P
+0x1178
+つぐみ「ねぇ？　腕を引きちぎったら？」%K%P
+Tsugumi「Well? If I ripped your arm off?」%K%P
+0x1184
+つぐみはじっと、俺のことを見つめながら続ける。%K%P
+Gazing intensely at me, Tsugumi continued shooting me questions.%K%P
+0x1190
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x119C
+つぐみ「その腕に、武はいるの？」%K%P
+Tsugumi「Would you be there, in the arm?」%K%P
+0x11A8
+武「いや、そこにはもう、俺はいない」%K%P
+Takeshi「No, I suppose I wouldn't be there.」%K%P
+0x11BC
+つぐみ「じゃあ、足をちぎったら？」%K%P
+Tsugumi「Okay then, what if I took off your leg?」%K%P
+0x11C8
+つぐみ「胴を切り離したら？」%K%P
+Tsugumi「Or if I cut your torso away?」%K%P
+0x11D4
+つぐみ「脳を取り出したら？」%K%P
+Tsugumi「Or even if I took out your brain?」%K%P
+0x11E0
+目を見開きながら、つぐみはその手で俺の首を掴まえる。%K%P
+Still gazing at me, she moved her hands and put them on my neck.%K%P
+0x11EC
+このまま、俺は狩られるのではないか。%K%P
+It felt like I was being hunted.%K%P
+0x11F8
+そのような錯覚さえ起こす。%K%P
+The illusion was intense.%K%P
+0x1204
+彼女は俺を見た。%K%P
+She looked straight at me.%K%P
+0x1210
+目を逸らすことはできない。%K%P
+I couldn't shake myself away from her gaze.%K%P
+0x121C
+俺は、彼女の瞳の奥をじっと見つめた。%K%P
+I peered deeply into her eyes.%K%P
+0x1228
+このまま吸い込まれてしまうのではないか。%K%P
+I felt like I was being sucked inside her.%K%P
+0x1234
+奥底に光を宿した瞳。%K%P
+...Those eyes, full of that distant light.%K%P
+0x1240
+この光の源は、いったいどこにあるというのか……。%K%P
+I wondered where the light originated from...%K%P
+0x124C
+つぐみ「ねぇ？　武はどこにいるの？」%K%P
+Tsugumi「Tell me, Takeshi, where are you?」%K%P
+0x1258
+武「俺は……」%K%P
+Takeshi「I'm...」%K%P
+0x1264
+武「どこに、いるんだろう？」%K%P
+Takeshi「...Where am I?」%K%P
+0x12D4
+俺――倉成武は、誕生した瞬間から、ひとつの個体として、線形な、連続的な繋がりを保ちながら存在し続けてきた。%T030%K%N
+Me... Kuranari Takeshi. Since the moment I was born, I had existed as one person. One continuous, linear, cohesive individual.%T030%K%N
+0x12E0
+これは、まぎれもない事実だ。%T030%K%N
+There was no doubt about that fact.%T030%K%N
+0x12EC
+アルバムに載っている赤ん坊の俺も、小学校の運動会で走っている俺も、そして、ここにいる俺も……同じ『倉成武』という個体である。%K%O
+The 'me' as a baby in the photo album, the 'me' running around in elementary school, and finally, the 'me' sitting there... they were all the same organism called 'Kuranari Takeshi'.%K%O
+0x1304
+しかし、その実体はどこに存在するのか？%T030%K%N
+So where exactly did the entity called 'me' exist?%T030%K%N
+0x1310
+大昔の人は、それはハート、つまり心臓に宿ると信じていた。%T030%K%N
+In the past, people thought the soul existed in a person's heart.%T030%K%N
+0x131C
+デカルトは、脳内の松果体に魂の座があると言った。%K%O
+Descartes believed the soul inhabited the pineal gland in the brain.%K%O
+0x1334
+脳。%T030%K%N
+The brain.%T030%K%N
+0x1340
+俺という存在は、記憶にあるのだろうか？%T030%K%N
+I wondered briefly if I existed only in my memories.%T030%K%N
+0x134C
+ならば、あの少年のように記憶を一切失ってしまったら、それはもう、倉成武ではないのだろうか？%T030%K%N
+But if that were the truth, then if I lost my memory like the Kid, wouldn't that mean I was no longer 'Kuranari Takeshi'?%T030%K%N
+0x1358
+考え方？　感性？　感情？　感覚？　人格？　価値観？%T030%K%N
+Thoughts? Senses? Emotions? Sensations? Character? Values?%T030%K%N
+0x1364
+それは脳という内臓のひとつの機能に過ぎない。%K%O
+All of those things were nothing but functions of the organ called the brain.%K%O
+0x137C
+そもそも、ここにいる俺は、小学校の運動会で走っていた俺とは別の分子によって構成されている。%T030%K%N
+For one thing, the 'me' that ran around in elementary school was composed of different molecules than the 'me' there.%T030%K%N
+0x1388
+あのときの俺と、今の俺は、物質的側面から見れば、別人だ。%T030%K%N
+From a purely material point of view, my younger 'me' was entirely different than my older 'me'.%T030%K%N
+0x1394
+細胞は、日々生まれ変わっている。%T030%K%N
+Cells died and were replaced daily.%T030%K%N
+0x13A0
+生まれ変わり、そして死んでいく。%K%O
+Every cell that was replaced would also die.%K%O
+0x13B8
+人間の身体を構成するすべての細胞は、３〜５年後には、全部入れ替わっていると言う。%T030%K%N
+They said the cells in the entire human body were completely replaced every three to five years.%T030%K%N
+0x13C4
+その辺に転がっている石は、５年前も、５年後も、同一の分子によって構成されている。%T030%K%N
+By comparison, a rock would be composed of the exact same molecules five years before or five years hence.%T030%K%N
+0x13D0
+しかし、人間は違う。%T030%K%N
+But a human body was different.%T030%K%N
+0x13DC
+５年前の俺の細胞と、今の俺の細胞は、別のものだ。%K%O
+The cells of 'me' five years ago were not the same as the cells of 'me' then.%K%O
+0x13F4
+だが、５年前の俺という存在と、今の俺という存在は、確実に同じものである。%T030%K%N
+Even so, the 'me' of five years before and the 'me' then were definitely the same.%T030%K%N
+0x1400
+では、その『俺』とはいったいなんなのか？%T030%K%N
+Then just what was it that defined 'me'?%T030%K%N
+0x140C
+『俺』の実体は、どこにあるというのか……？%K%O
+And where did that 'me' exist...?%K%O
+0x1450
+つぐみは変わらず、俺の首根っこを押さえたままでいた。%K%P
+All that time, Tsugumi continued to hold my neck with her hands.%K%P
+0x145C
+力は徐々にこもる。%K%P
+Little by little, she began to apply more pressure.%K%P
+0x1468
+呼吸は次第と困難になる。%K%P
+After a while, it became difficult to breathe.%K%P
+0x1474
+意識は朦朧とし始める。%K%P
+My mind began to fog over.%K%P
+0x1480
+俺は混沌へとさまよい始める……。%K%P
+I was slowly drifting toward chaos...%K%P
+0x14E4
+つぐみ「そう、あなたという存在に実体はない」%K%P
+Tsugumi「You see? Your existence has no substance.」%K%P
+0x14F0
+つぐみ「あなたはただの概念、だから」%K%P
+Tsugumi「All you are is a concept.」%K%P
+0x14FC
+武「…………？」%K%P
+Takeshi「.........?」%K%P
+0x1508
+つぐみ「情報――ソフトウェアと言ってもいいかもしれない」%K%P
+Tsugumi「You are just a packet of information... 'software'.」%K%P
+0x1514
+つぐみ「ＣＤに焼かれた情報に、実体はある？」%K%P
+Tsugumi「The information written on a CD has no physical body, right?」%K%P
+0x1520
+つぐみ「ＣＤは、ただのプラスチック、ポリカーボネイトという物質の塊」%K%P
+Tsugumi「The CD itself is just plastic, a hard mass of polycarbonate.」%K%P
+0x152C
+つぐみ「それは、情報とはなんの関連もない」%K%P
+Tsugumi「But that mass has nothing to do with the information it holds.」%K%P
+0x1538
+つぐみ「情報の実体なんかであるはずもない」%K%P
+Tsugumi「Information can't have a physical body. That's impossible.」%K%P
+0x1544
+つぐみ「情報に、形はないの」%K%P
+Tsugumi「Information does not have shape or substance.」%K%P
+0x1550
+つぐみ「ただ専用のアプリケーションを用いることによってのみ、情報は具現化される」%K%P
+Tsugumi「The embodiment of information only takes place through its application.」%K%P
+0x155C
+つぐみ「しかし、具現化されたその情報の形さえ、本質ではない」%K%P
+Tsugumi「However, the embodied information itself has no actual body.」%K%P
+0x1568
+つぐみ「本質は、情報、それ自体を指すのだから……」%K%P
+Tsugumi「The essence of information is the information itself...」%K%P
+0x1574
+武「…………」%K%P
+Takeshi「...」%K%P
+0x1580
+つぐみ「武も同じ」%K%P
+Tsugumi「Takeshi, it's the same for you.」%K%P
+0x158C
+つぐみ「武という本質に、実体はない」%K%P
+Tsugumi「There is no physical substance to your 'essence'.」%K%P
+0x1598
+つぐみ「なぜなら『倉成武』という人間の本質は、ただの概念、情報、ソフトウェアに過ぎない」%K%P
+Tsugumi「Instead, the human called 'Kuranari Takeshi' is no more than a concept, information, software.」%K%P
+0x15A4
+つぐみ「それは肉体というハードによってのみ、再現される」%K%P
+Tsugumi「And that essence is realized only through your body, the hardware.」%K%P
+0x15B0
+つぐみ「そう、肉体はハードウェア」%K%P
+Tsugumi「That's it. Your body is just the hardware.」%K%P
+0x15BC
+つぐみ「武という本質を具現化する為の、ただの道具」%K%P
+Tsugumi「It's just a device in which the entity of 'you' is embodied.」%K%P
+0x15C8
+武「な、ぜ、だ……」%K%P
+Takeshi「Why... do... you...?」%K%P
+0x15D4
+俺はかろうじて言葉を吐いた。%K%P
+I spat out the words with difficulty.%K%P
+0x15E0
+武「どう、して、そんな、こ……」%K%P
+Takeshi「How... come... you... are...?」%K%P
+0x15EC
+意味のある問いになっていたかどうか、自分でもはっきりしない。%K%P
+Was I making any sense to her? I couldn't tell.%K%P
+0x15F8
+つぐみ「…………」%K%P
+Tsugumi「...」%K%P
+0x1604
+つぐみの身体の重みが、俺の首に圧しかかる。%K%P
+The weight of Tsugumi's whole body was on my neck.%K%P
+0x1610
+つぐみ「ダメ……」%K%P
+Tsugumi「I can't...」%K%P
+0x161C
+武「…………」%K%P
+Takeshi「...」%K%P
+0x1628
+つぐみ「ダメよ……」%K%P
+Tsugumi「I can't...」%K%P
+0x1634
+つぐみ「ダメなのよ……」%K%P
+Tsugumi「I just can't...」%K%P
+0x1640
+瞬間、彼女の手は僅かに緩んだ。%K%P
+For an instant, her grip loosened slightly.%K%P
+0x1654
+つぐみ「私は逃れることができない」%K%P
+Tsugumi「I can never escape.」%K%P
+0x1660
+つぐみ「この忌まわしい肉体に縛り付けられたまま」%K%P
+Tsugumi「I'm bound eternally to this horrid body.」%K%P
+0x166C
+つぐみ「私の本質は、自由になれない、永遠に」%K%P
+Tsugumi「My soul is forever in chains.」%K%P
+0x1678
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1684
+つぐみは、涙を浮かべていた……。%K%P
+Tsugumi became teary eyed.%K%P
+0x1690
+瞳の奥底にある光は、この涙だったのだろうか……。%K%P
+So that was the light deep in her eyes... tears.%K%P
+0x169C
+つぐみ「ねぇ？　武……？」%K%P
+Tsugumi「Hey? Takeshi...?」%K%P
+0x16A8
+つぐみ「私を……殺して？」%K%P
+Tsugumi「Would... you kill me?」%K%P
+0x16B4
+横たわったつぐみは、俺の手首を掴んだ。%K%P
+Half lying on her side, she grabbed my wrists.%K%P
+0x16C0
+俺の手の平を、自分の首にあてがおうとする。%K%P
+She tried to force my hands to her own neck.%K%P
+0x16CC
+つぐみ「ね……？」%K%P
+Tsugumi「Please...?」%K%P
+0x16D8
+つぐみ「殺して？」%K%P
+Tsugumi「Kill me?」%K%P
+0x16E4
+武「な……何バカなこと……言ってるんだよ」%K%P
+Takeshi「Wh-what are you talking about!?」%K%P
+0x16F0
+つぐみの手を振り解く。%K%P
+I broke away from her grasp.%K%P
+0x16FC
+武「どうして、そんなこと、言ってるんだよ……」%K%P
+Takeshi「Why are you talking like this...?」%K%P
+0x1708
+つぐみ「ああ、そう。そうなの……」%K%P
+Tsugumi「Yeah, I get it...」%K%P
+0x1714
+つぐみは震える声で呟き続ける。%K%P
+Tsugumi muttered, her voice shaking.%K%P
+0x1720
+その視線も、大きく揺らいでいた。%K%P
+And her gaze drifted off.%K%P
+0x172C
+つぐみ「臆病なのね……」%K%P
+Tsugumi「You're just a coward...」%K%P
+0x1738
+つぐみ「意気地のない男……」%K%P
+Tsugumi「...Just a gutless man...」%K%P
+0x1744
+つぐみ「所詮、あなたは『男』じゃないのよ」%K%P
+Tsugumi「In fact, you're not even a 'man'.」%K%P
+0x1750
+武「そんなこと……関係ないだろう！？」%K%P
+Takeshi「That's got nothing to do with this!」%K%P
+0x175C
+つぐみ「お願い……」%K%P
+Tsugumi「Come on, please...」%K%P
+0x1768
+つぐみ「殺してよ……！」%K%P
+Tsugumi「Kill me...!」%K%P
+0x1774
+つぐみ「できないの……！？」%K%P
+Tsugumi「Can't you do it?」%K%P
+0x1780
+武「バカ野郎！」%K%P
+Takeshi「Are you crazy!?」%K%P
+0x178C
+武「そんなこと、できるわけないだろ！！」%K%P
+Takeshi「There's no way I could do such a thing!」%K%P
+0x1798
+つぐみ「どうして、できないのよ……？」%K%P
+Tsugumi「Why not? Why can't you...?」%K%P
+0x17A4
+武「当然だろ！　それは……」%K%P
+Takeshi「Of course I can't! I...」%K%P
+0x17B0
+武「……いや、理由なんかいらない」%K%P
+Takeshi「...I don't need a reason!」%K%P
+0x17BC
+武「俺は嫌だ……」%K%P
+Takeshi「I don't want to...」%K%P
+0x17C8
+武「どうして死ななきゃならないんだ？」%K%P
+Takeshi「Why do you want to die so badly anyway?」%K%P
+0x17D4
+武「どうして殺さなきゃならないんだ！」%K%P
+Takeshi「Why do you need someone to kill you!?」%K%P
+0x17E0
+つぐみ「お願い、だから……」%K%P
+Tsugumi「Please. It's because...」%K%P
+0x17EC
+武「嫌だ！」%K%P
+Takeshi「Forget it!」%K%P
+0x17F8
+つぐみ「どうしても、嫌だっていうの……？」%K%P
+Tsugumi「Are you really so unwilling...?」%K%P
+0x1804
+武「ああ、嫌だね」%K%P
+Takeshi「You're damn right I'm unwilling.」%K%P
+0x1810
+つぐみ「そう、だったら……」%K%P
+Tsugumi「Well, in that case...」%K%P
+0x181C
+つぐみ「わかったわ……」%K%P
+Tsugumi「In that case, I know...」%K%P
+0x1828
+つぐみ「私が先に、あなたを殺してあげるから」%K%P
+Tsugumi「I will kill you instead.」%K%P
+0x188C
+つぐみは掴んだ俺の首根っこを、力一杯床に叩きつける。%K%P
+With all her strength, Tsugumi slammed me to the floor and started choking me.%K%P
+0x1898
+武「ぐ」%K%P
+Takeshi「Gah.」%K%P
+0x18B4
+つぐみ「殺してあげる、あなたを。そして、私も……」%K%P
+Tsugumi「I'll give you the gift of death! And then I'll...」%K%P
+0x18C0
+武「っ……！！」%K%P
+Takeshi「Argh...!」%K%P
+0x19F4
+叩きつける。%K%P
+With all her strength, she slammed me down.%K%P
+0x1B28
+叩きつける。%K%P
+Slammed me down.%K%P
+0x1D4C
+叩きつける。%K%P
+And slammed me down.%K%P
+0x1D88
+何度も、何度も。%K%P
+Again and again.%K%P
+0x1D94
+武「や、やめ……ろ……」%K%P
+Takeshi「Stop... it...」%K%P
+0x1DBC
+死ぬ。%K%P
+If she kept it up... I would die.%K%P
+0x1DC8
+死んでしまう。%K%P
+No, I WAS dying.%K%P
+0x1DF0
+このままでは、本当に死んでしまう……。%K%P
+If she didn't stop, I was a goner...%K%P
+0x1E70
+突き飛ばそうとして、俺はつぐみを引っかいた。%K%P
+Attempting to force her off, I scratched her.%K%P
+0x1E7C
+つぐみの唇から、赤いものが流れ出た。%K%P
+Something red started to drip from her lips.%K%P
+0x1E88
+血だ。%K%P
+It was blood.%K%P
+0x1E94
+出血する。%K%P
+She was bleeding.%K%P
+0x1EA0
+流れ落ちる血と、涙。%K%P
+Blood mixed with tears.%K%P
+0x1EAC
+つぐみの影は、俺に大きく覆い被さる。%K%P
+Suddenly, her shadow loomed over me.%K%P
+0x1EB8
+もう何も見えなくなる。%K%P
+I couldn't see a thing.%K%P
+0x1EC4
+彼女の唇は、俺の唇に重なる。%K%P
+And then her mouth closed on mine.%K%P
+0x1ED0
+隙間なくふたつは重なる。%K%P
+Our lips pressed hard together.%K%P
+0x1EDC
+俺の口腔は、血と涙の味で満たされていく……。%K%P
+My mouth was filled with the taste of her blood... and tears...%K%P
+0x1F04
+…………。%K%P
+......%K%P
+0x1F10
+……………………。%K%P
+.........%K%P
+0x1F1C
+つぐみ「殺してやるっ……」%K%P
+Tsugumi「I'll kill you...」%K%P
+0x1F28
+つぐみ「殺してやるぅっ……」%K%P
+Tsugumi「I will... I'll kill you...」%K%P
+0x1F34
+つぐみ「……ううっ……」%K%P
+Tsugumi「...Oh, oh...」%K%P
+0x1F40
+つぐみ「嫌ぁ……っ……」%K%P
+Tsugumi「No...」%K%P
+0x1F4C
+つぐみ「ひとりにしないで……」%K%P
+Tsugumi「Don't leave me alone...」%K%P
+0x1F58
+つぐみ「私を、ひとりにしないで……」%K%P
+Tsugumi「No, please don't leave me alone...」%K%P
+0x1F64
+つぐみ「お願い……武……」%K%P
+Tsugumi「Please... Takeshi...」%K%P
+0x1F70
+つぐみ「お願い……っ」%K%P
+Tsugumi「Please...」%K%P
+0x1F7C
+俺は闇の中にいた。%K%P
+Darkness surrounded me.%K%P
+0x1F88
+いや、俺はきっと、そこにはいなかった……。%K%P
+Or maybe I wasn't there at all...%K%P
+0x1F94
+意識のない闇に、僅かな衣擦れの音と、つぐみの吐息だけが響く。%K%P
+A darkness without awareness... I heard only the slight rustle of clothing and Tsugumi's sigh.%K%P
+0x1FA0
+その音を聞くと、俺の中で狂おしい気持ちが膨らんだ。%K%P
+Hearing that sound, I felt a craziness swell up inside me.%K%P
+0x1FAC
+ふたつの影は重なり合い、ひとつになる。%K%P
+Two shadows overlapped to become one.%K%P
+0x1FB8
+俺は混沌へと埋没し、深く突き進み、同化していった。%K%P
+And I plunged into the chaos, farther and farther, and became one.%K%P
+0x1FC4
+……………………。%K%P
+.........%K%P
+0x1FD0
+…………。%K%P
+......%K%P
+0x2028
+あれから俺は、すぐに会議室に戻った。%K%P
+Afterward, I went straight back to the conference room.%K%P
+0x2034
+頭も身体も疲れきっていたのだ……。%K%P
+Both my mind and body were exhausted...%K%P
+0x2040
+しかし、短い時間だったがぐっすりと眠ることができた。%K%P
+Even though little remained of the night, I slept soundly.%K%P
+0x204C
+目覚めは快適、回復も万全だ。%K%P
+When I awoke, I felt refreshed and fully recharged.%K%P
+0x2058
+俺が夜の間部屋を抜け出していたことには、結局誰も気づいていないようだった。%K%P
+Apparently, no one had noticed my disappearance during the night.%K%P
+0x206C
+空「皆さん、おはようございます」%K%P
+Sora「Good morning, everybody.」%K%P
+0x2088
+優「あ、おはよう！」%K%P
+You「Good morning!」%K%P
+0x2094
+ココ「おっはよ〜、空さん！！」%K%P
+Coco「Good morning, Sora-san!」%K%P
+0x20A0
+少年「おはよう！」%K%P
+Kid「Morning!」%K%P
+0x20AC
+武「ああ……おはよう、空」%K%P
+Takeshi「Yeah... Hi there, Sora.」%K%P
+0x20B8
+予定時刻を少し過ぎて、空は会議室に姿を現した。%K%P
+A little later than usual, Sora presented herself in the conference room.%K%P
+0x20C4
+優「どうだった、空？　メンテは順調だったのかな？」%K%P
+You「So how about it, Sora? How did the maintenance go?」%K%P
+0x20E0
+空「ええ、はい……」%K%P
+Sora「Well, that is...」%K%P
+0x20EC
+空「システムコンディションは正常です。もっとも、設備の物理的破損については改善のしようがないのですが……」%K%P
+Sora「The system is in sound condition, although there would be no way to repair any mechanical damage if it were to occur.」%K%P
+0x20F8
+空「無事、メンテナンスは終了しました。全館において通常と変わりない機能をお届けできることを保証します」%K%P
+Sora「The scheduled maintenance program checked out. I can assure you that the entire compound is functioning normally.」%K%P
+0x2104
+優「そっか、よかったぁ」%K%P
+You「Well, that's good to hear.」%K%P
+0x2118
+空「私、茜ヶ崎空については、診断の結果、若干の思考ノイズがあることが発見されましたが……」%K%P
+Sora「After carefully assessing the situation, I have found a slight noise in my thought processor...」%K%P
+0x2124
+空「業務上問題はないものとされ、そのままになっています」%K%P
+Sora「Normal function will not be compromised, so no modifications are necessary.」%K%P
+0x2140
+ココ「ねぇねぇ空さん、思考ノイズって、なーに？」%K%P
+Coco「Hey, Sora-san, what does that mean?」%K%P
+0x2154
+空「ああ、ココちゃん。それはね……」%K%P
+Sora「Well, Coco-chan. It means that...」%K%P
+0x2160
+空「時々、私にイタズラをしようとするお客さんがいるんですよ。嘘を教えたり、意地悪をして混乱させたり……」%K%P
+Sora「You see, sometimes certain customers want to play pranks on me. They tell lies, or try to confuse me.」%K%P
+0x216C
+空「それで、私の記憶や反応が、ちょっと変になってしまうことがあるんです。そういうのが、思考ノイズなんです」%K%P
+Sora「And because of that, my memories or programmed responses get a little out of alignment. It tends to cause issues in my thought processing.」%K%P
+0x2178
+空「予め持っている知識と、新しい情報と、どちらが正しいのか、判断できなくなってしまって……」%K%P
+Sora「Sometimes older data gets mixed with newer information, making it difficult to determine which is correct.」%K%P
+0x2184
+空「あまりひどいと、システムをいじって、記憶を書き換えることになります」%K%P
+Sora「When this problem becomes severe, it's necessary to fiddle with the system and overwrite the problematic data.」%K%P
+0x2198
+空「でも、今回はそんなトラブルは起こっていませんから。安心してくださいね」%K%P
+Sora「However, at this time, nothing too drastic has occurred, so please don't worry.」%K%P
+0x21AC
+ココ「はーい♪」%K%P
+Coco「Okay〜」%K%P
+0x21C8
+空「あとは、そうですね……皆さんが眠っていた間の館内センサーの記録のチェックは、まだ行われていません」%K%P
+Sora「Other than that... I have yet to complete a full check of the sensor data which was recorded throughout the compound while you all were sleeping.」%K%P
+0x21D4
+空「新たな浸水などは起こっていないと思いますけど……早めに記録を確認して、状況をご報告しますね」%K%P
+Sora「I doubt any new leakage has occurred... but I will report back to you once I've checked the sensor data.」%K%P
+0x21E0
+少年「うん、空。頼んだよ」%K%P
+Kid「Thanks, Sora. We're counting on you.」%K%P
+0x21EC
+空「はい。お任せください」%K%P
+Sora「Yes, leave it to me.」%K%P
+0x21F8
+空「そうそう、レミ端末はメンテによってレスポンスが向上したはずです」%K%P
+Sora「By the way, thanks to the maintenance program, the LeMMIH terminal response has greatly improved.」%K%P
+0x2204
+空「レミのトラフィックに問題があったのですが、この問題を解決。現在のＬｅＭＵの状態に合わせ、端末の通信機能は最適化されました」%K%P
+Sora「There was a slight problem concerning LeMMIH traffic, but it has been resolved. Terminal communication functions were optimized to adjust to LeMU's current status.」%K%P
+0x2210
+少年「ふーん……」%K%P
+Kid「Hmm...」%K%P
+0x221C
+武「空、トラフィックってなんだ？　端末について、どのくらい何が変わったのか、もうちょっと詳しく知りたいな」%K%P
+Takeshi「Hey Sora, what do you mean by 'traffic'? I'd like to know more about what exactly was tweaked in the terminals.」%K%P
+0x2230
+空「…………」%K%P
+Sora「.........」%K%P
+0x2244
+空「それでは皆さん、そろそろ食事に行きましょうか」%K%P
+Sora「Alright, everyone, why don't we go to breakfast?」%K%P
+0x2250
+あ、あれ……？%K%P
+Wh-what in the...?%K%P
+0x225C
+今、俺、無視されなかったか？%K%P
+Was it just me, or did she totally ignore my question?%K%P
+0x2268
+……ま、いいか。%K%P
+...Oh well.%K%P
+0x2274
+たまたま聞こえていなかったのかもしれない。%K%P
+Perhaps she just couldn't hear me.%K%P
+0x2288
+皆で揃ってタツタ売店に行くことになった。%K%P
+Everybody relocated to the tuna sandwich shop.%K%P
+0x229C
+そして、いつものように俺の作る朝メシ。%K%P
+And as always, I cooked up breakfast for everyone.%K%P
+0x22A8
+食べる皆の笑顔に、ホッとする俺。%K%P
+Looking at their faces as they ate, I suddenly felt relieved.%K%P
+0x22B4
+優・ココ・少年の楽しそうな顔……。%K%P
+The faces of You, Coco, and the Kid seemed so happy...%K%P
+0x22C0
+空はひとり静かに、皆の食いっぷりを眺めていた。%K%P
+Sora just stood by, quietly watching them enjoy the meal.%K%P
+0x22CC
+しかし……。%K%P
+However...%K%P
+0x22D8
+つぐみだけは、その場に姿を見せることはなかった。%K%P
+Tsugumi was nowhere to be seen.%K%P

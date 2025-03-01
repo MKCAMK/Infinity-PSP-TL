@@ -1,0 +1,1041 @@
+text area offset and size:
+0x22B0
+0x3846
+0x6C
+扉を開く。%K%P
+I opened the door.%K%P
+0x78
+シューシュー音のする壁のほうを見た。%K%P
+I looked toward the wall that was making the hissing sound.%K%P
+0x84
+圧力制御用のパイプに微かな亀裂が生じ、水が霧のように舞っていた。%K%P
+There was a faint crack in the pressure-regulating pipe, and water was dancing out of it in a fine mist.%K%P
+0x90
+この程度なら、そう心配する必要もないだろう。%K%P
+If that was all it was, it didn't seem like we had anything to worry about.%K%P
+0x9C
+すぐに直せるはずだ。%K%P
+It seemed like we'd be able to fix it in no time.%K%P
+0xC4
+つぐみは工具箱を開いて、道具をいくつか広げ始める。%K%P
+Tsugumi opened up the toolbox and started spreading a few tools out in front of her.%K%P
+0xD8
+武「どうすればいい？」%K%P
+Takeshi「What should I do?」%K%P
+0xE4
+つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
+Tsugumi「The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?」%K%P
+0xF0
+武「ああ、了解！」%K%P
+Takeshi「Roger that!」%K%P
+0x10C
+ココ「ココは？」%K%P
+Coco「What should I do?」%K%P
+0x118
+つぐみ「向こうの……このパイプが繋がってるバルブがあるの。わかる？　あれを少しだけ緩めて欲しいの」%K%P
+Tsugumi「On the other side of this... there should be a valve attached to this pipe. You see it? I want you to loosen that a bit.」%K%P
+0x12C
+ココ「はーい、りょうかい！」%K%P
+Coco「Okaaaay, gotcha!」%K%P
+0x140
+皆で作業を始める。%K%P
+We all started working in unison.%K%P
+0x168
+いくつかのパイプのバルブを閉めたり開いたり、パイプを取り付けなおしたり、穴を溶接して塞いだり……。%K%P
+We opened and closed a number of valves, connected and repaired pipes, and welded shut cracks...%K%P
+0x190
+武「それにしても手馴れてるな」%K%P
+Takeshi「You seem really used to all this.」%K%P
+0x1A4
+つぐみ「何が？」%K%P
+Tsugumi「What do you mean?」%K%P
+0x1B0
+武「溶接だよ。どこかで覚えたのか？」%K%P
+Takeshi「Welding. Where'd you learn that?」%K%P
+0x1BC
+つぐみ「知りたいの？」%K%P
+Tsugumi「You want to know?」%K%P
+0x1C8
+武「いや、そりゃお前……」%K%P
+Takeshi「Uh, well, it's just that...」%K%P
+0x1DC
+つぐみ「どうでもいいことを訊くの、悪い癖よね」%K%P
+Tsugumi「You know, asking meaningless questions is a bad habit of yours.」%K%P
+0x1F0
+それ以上は訊けなくなる。%K%P
+And after that, I didn't feel I could ask anything else.%K%P
+0x1FC
+空はしばらく、俺達の横で見ていた。%K%P
+Sora watched us for a while from the side.%K%P
+0x224
+やがて、部屋の隅にあるインターホンが鳴った。%K%P
+After a while, an intercom in the corner of the room sounded.%K%P
+0x24C
+武「あれ、何かの呼び出しか？」%K%P
+Takeshi「Huh, did someone call?」%K%P
+0x260
+空「すいません皆さん、田中さんが私を呼んでいます。向こうに行かなくてはならないのですが――」%K%P
+Sora「Excuse me, everyone, but Tanaka-san is calling me. I must be going.」%K%P
+0x26C
+武「ああ、行ってきてくれ。こっちはなんとかなりそうだ」%K%P
+Takeshi「Okay, go for it. We should be able to handle the rest ourselves.」%K%P
+0x280
+空「はい。では、後はお願いしますね」%K%P
+Sora「Okay. I'll leave the rest to you.」%K%P
+0x29C
+空はインターホンに近づき、その通話機へ吸い込まれるように姿を消した。%K%P
+Sora approached the intercom and disappeared as if it had sucked her in.%K%P
+0x2B0
+空が瞬間移動できるのはもうわかっていたが……奇妙な光景だった。%K%P
+I knew she could travel instantly, but... it was still an odd sight.%K%P
+0x2C4
+つぐみ「武？　ぼーっとしていないで、次のパイプをお願い」%K%P
+Tsugumi「Takeshi? Don't just stand there. On to the next pipe.」%K%P
+0x2D0
+武「えっ？　ああ、わかった」%K%P
+Takeshi「Huh? Oh, okay.」%K%P
+0x2E4
+つぐみ「まず、そこの青いバルブを――」%K%P
+Tsugumi「First, take that blue valve and...」%K%P
+0x2F0
+足元の水は一向に減らない。排水ポンプは動いているが、その排水が出て行く為のパイプが壊れているからだ。%K%P
+The water underfoot hadn't gone down at all. Although the drain pump was moving, the drainage pipe was broken.%K%P
+0x2FC
+つぐみ「そうしたら、次に赤いバルブをひねって――」%K%P
+Tsugumi「Now twist the red valve...」%K%P
+0x308
+いくつもパイプを直したはずだが、シューシューという蒸気音はまだ止まない。%K%P
+We'd fixed a number of pipes, but the sound of escaping steam still hadn't stopped.%K%P
+0x314
+つぐみ「それじゃココ、少しそこで待ってて」%K%P
+Tsugumi「Alright, Coco, wait just a bit.」%K%P
+0x320
+ココ「うん。準備おっけーだよ♪」%K%P
+Coco「Okay, I'm ready〜」%K%P
+0x334
+つぐみ「武、今言った順番でバルブをお願い」%K%P
+Tsugumi「Takeshi, turn the valves in the order I told you.」%K%P
+0x340
+武「…………」%K%P
+Takeshi「...」%K%P
+0x354
+つぐみ「ちょっと武、聞いてるの？」%K%P
+Tsugumi「Hey, Takeshi, are you listening?」%K%P
+0x360
+武「え？　いや、わかったわかった。ゴメンゴメン。青、赤だよな？」%K%P
+Takeshi「Huh? Yeah, alright, alright. I'm sorry. Blue, then red, right?」%K%P
+0x36C
+つぐみ「そうよ。緩めて、それから閉めるの」%K%P
+Tsugumi「Yeah. Loosen them, then shut them again.」%K%P
+0x380
+俺は目の前にある青いバルブに取りかかった。%K%P
+I set to work on the blue valve in front of me.%K%P
+0x38C
+これを緩める……。%K%P
+I was supposed to loosen it...%K%P
+0x398
+（あれ、どっちに廻すんだっけ……？）%K%p
+(Eh? Which way was I supposed to turn it again...?)%K%p
+0x2270
+時計回り
+Clockwise
+0x227C
+反時計回り
+Counterclockwise
+0x3E0
+時計回りでいいんだよな……。%K%P
+That one went clockwise, right...%K%P
+0x408
+俺は青いバルブを力一杯廻した。%K%P
+I turned the blue valve with all of my strength.%K%P
+0x43C
+シューシューという音が大きくなる。%K%P
+The sound of rushing air grew louder.%K%P
+0x458
+反時計回りでいいんだよな……。%K%P
+That one went counterclockwise, right...%K%P
+0x480
+俺は青いバルブを力一杯廻した。%K%P
+I turned the blue valve with all of my strength.%K%P
+0x4B4
+シューシューという音が小さくなる。%K%P
+The sound of rushing steam grew softer.%K%P
+0x4C0
+次に赤いバルブを閉める……。%K%P
+Next, close the red valve...%K%P
+0x4CC
+すぐ隣にバルブはあった。%K%p
+The next valve was nearby.%K%p
+0x2288
+時計回り
+Clockwise
+0x2294
+反時計回り
+Counterclockwise
+0x514
+時計回りでいいんだよな……。%K%P
+That one went clockwise, right...%K%P
+0x53C
+俺は赤いバルブを廻した。%K%P
+I turned the red valve.%K%P
+0x570
+パイプから霧状に舞っていた水の勢いが弱くなる。%K%P
+The strength of the steam blowing from the pipe weakened.%K%P
+0x58C
+反時計回りでいいんだよな……。%K%P
+That one went counterclockwise, right...%K%P
+0x5B4
+俺は赤いバルブを廻した。%K%P
+I turned the red valve.%K%P
+0x5E8
+パイプから霧状に舞う水の勢いが強くなった。%K%P
+The strength of the steam blowing from the pipe got stronger.%K%P
+0x5F4
+よし、これでいいはずだ。%K%P
+(Alright, that does it.)%K%P
+0x600
+武「ＯＫ！」%K%P
+Takeshi「Okay!」%K%P
+0x60C
+つぐみ「ココ、あとちょっとだけ支えてて」%K%P
+Tsugumi「Coco, hold on just a little longer.」%K%P
+0x618
+ココ「うんっ」%K%P
+Coco「Okay.」%K%P
+0x640
+つぐみは左手を目前にかざしながら、右手でバーナーを操作する。%K%P
+Holding up her left hand to shield her face, Tsugumi operated the welding torch with her right hand.%K%P
+0x64C
+パイプの傷はみるみる塞がっていった。%K%P
+The crack in the pipe closed visibly.%K%P
+0x684
+つぐみ「武、そっちのパイプを押さえて。ぐらついてるみたい」%K%P
+Tsugumi「Takeshi, go support that pipe. It looks like it's shaking.」%K%P
+0x690
+溶接を続けながらつぐみが言う。%K%P
+Tsugumi barked the order to me as she was welding.%K%P
+0x69C
+武「わかった」%K%P
+Takeshi「Okay.」%K%P
+0x6A8
+俺は先程バルブを閉めたパイプに手を伸ばした。%K%P
+I reached out to touch the pipe that had the valve I'd just closed.%K%P
+0x6E4
+武「あちっ！」%K%P
+Takeshi「Ouch!」%K%P
+0x6F0
+パイプが熱を帯びていたので、すぐに手を引っ込める。%K%P
+The pipe was scalding hot, and I pulled my hand back instinctively.%K%P
+0x704
+つぐみ「えっ？　そんなはず……バルブはちゃんと動かした？」%K%P
+Tsugumi「Huh? That shouldn't be... Did you turn the valve the right way?」%K%P
+0x710
+武「ああ、そのつもりだけど」%K%P
+Takeshi「Yeah, I think so.」%K%P
+0x724
+つぐみ「おかしいわね……」%K%P
+Tsugumi「That's strange...」%K%P
+0x730
+武「とにかくパイプを支えないとまずいな。何かカバーになるものを……」%K%P
+Takeshi「Well, we're going to have to support this pipe somehow. I'll try to find a cover...」%K%P
+0x744
+俺は辺りを見回した。%K%P
+I looked around.%K%P
+0x750
+そして、パイプから一瞬目を離した。%K%P
+And the moment I took my eyes off the pipe...%K%P
+0x784
+ばきばき……ばきんっ！！%K%P
+Creak, crackle... crack!%K%P
+0x790
+武「えっ？」%K%P
+Takeshi「What?」%K%P
+0x79C
+その音に振り向くと、鉄製のパイプがみるみる膨らんでいるのが見えた。%K%P
+Turning toward the sound, I could see the pipe swelling rapidly.%K%P
+0x7D8
+ばしゅっ！！%K%P
+BOOM!%K%P
+0x7E4
+留め金が弾け、俺の顔面目がけて吹き飛んだ。%K%P
+The cap burst off and flew toward my head.%K%P
+0x7F0
+俺は咄嗟に身を引いてかわした。%K%P
+I pulled back, dodging rapidly.%K%P
+0x7FC
+飛んだ金具は床にめり込んで止まった。%K%P
+The flying metal ricocheted off the floor and came to a stop.%K%P
+0x808
+武「危ねぇ……って、おおっ！？」%K%P
+Takeshi「That was close... WoooAAH!?」%K%P
+0x844
+ばしゅっ！！%K%P
+BAM!%K%P
+0x880
+ばしゅうっ！！%K%P
+KA-BOOM!%K%P
+0x88C
+続けていくつもの金具が曲がり、爆ぜた。%K%P
+One after another, metal pipes bent and then exploded around me.%K%P
+0x898
+武「うわっ！！」%K%P
+Takeshi「Waaagh!」%K%P
+0x8A4
+大慌てでその場から飛び退く。%K%P
+I panicked and got the hell out of there.%K%P
+0x8B0
+だが、身を避けた方向には、古いコンテナや廃材が山と積んであった。%K%P
+But there were stacks of crates and old containers in the direction I tried to escape.%K%P
+0x8CC
+つぐみ「武、ここをつけたらすぐに、そっちのバルブを元に戻して」%K%P
+Tsugumi「Takeshi, after I've finished attaching this, return the valve to its original position right away.」%K%P
+0x8D8
+武「ああ、了解だ」%K%P
+Takeshi「Okay, gotcha.」%K%P
+0x8E4
+つぐみは溶接を終える。%K%P
+Tsugumi finished welding.%K%P
+0x8F8
+つぐみ「バルブを！　早く！」%K%P
+Tsugumi「The valve! Hurry!」%K%P
+0x904
+武「わかってる！」%K%P
+Takeshi「Alright! Geez!」%K%P
+0x940
+素早くバルブを逆回転させる。%K%P
+I quickly turned the valve back in the other direction.%K%P
+0x94C
+バルブに水蒸気が流れていくのが、感触でわかった。%K%P
+I could feel the steam flowing through the valve.%K%P
+0x958
+つぐみ「ココ、そのパイプはもういいわ。次をお願い」%K%P
+Tsugumi「Coco, this pipe's done. Go on to the next one.」%K%P
+0x964
+ココ「おっけー。どこ？」%K%P
+Coco「Okay, where is it?」%K%P
+0x970
+つぐみ「そうね……ちょっと待って」%K%P
+Tsugumi「Hmmm... Hold on just a second.」%K%P
+0x97C
+足元の水はまだ減らず、渦を巻くように流れている。%K%P
+The water underfoot still hadn't gone down at all and was swirling around like a whirlpool.%K%P
+0x988
+壁に据えられたエアコンは水を飲み込んでしまい、ごぶごぶと咳き込んでいる。%K%P
+The air conditioner on the wall was sucking in water and gurgling it out.%K%P
+0x9B0
+さらに、エアコンの内部はショートしているらしい。%K%P
+It appeared it had also shorted out.%K%P
+0x9BC
+青白い光が目に飛び込んでくる。%K%P
+I could see blue-white sparks jumping around inside.%K%P
+0x9C8
+感電しないだろうな……。%K%P
+(I hope it doesn't shock me...)%K%P
+0x9D4
+俺は少し怖くなった。%K%P
+I was starting to get a little scared.%K%P
+0xA28
+ばちんっ！！%K%P
+CRACK!%K%P
+0xA34
+武「！？」%K%P
+Takeshi「!?」%K%P
+0xA40
+エアコンは嫌な音を立てた。%K%P
+The air conditioner made an awful sound.%K%P
+0xA74
+そして吹出口から大量の泥水が、いきなり溢れ出した。%K%P
+And all of a sudden, muddy water started overflowing from the exhaust vent.%K%P
+0xA80
+足元は急速にぬかるみ始める。%K%P
+The area around my legs was quickly getting grimy.%K%P
+0xA8C
+つぐみ「排水が逆流してる、気をつけて」%K%P
+Tsugumi「The drainage is starting to backflow, so be careful.」%K%P
+0xAAC
+武「うわっ！！」%K%P
+Takeshi「Wagh!」%K%P
+0xAB8
+濁流に足を取られ、姿勢が乱れた。%K%P
+My leg got caught up in the jet of muddy water, and I lost my balance.%K%P
+0xAC4
+俺は咄嗟にどこかに掴まろうと手を伸ばした。%K%P
+I reached out to grab something.%K%P
+0xAD0
+そこには、古いコンテナや廃材が山と積んであった。%K%P
+I caught onto a stack of crates and old containers lying nearby.%K%P
+0xB44
+がしゃあん！！%K%P
+CRASH!%K%P
+0xBA8
+廃材は俺の体重を受け止めたが、がらがらと崩れ始めた。%K%P
+Although the crates caught my weight, they shifted and began spilling over.%K%P
+0xBB4
+たくさんのコンテナや錆びたパイプが、頭上から落ちてくる。%K%P
+Countless containers and rusty pipes started raining down.%K%P
+0xBDC
+それは俺の脇を過ぎ、壁への直撃コースを取ろうとしている。%K%P
+They passed me and headed on a direct course to hit the wall.%K%P
+0xBE8
+落下物の行く先には――%K%P
+And in their path was―%K%P
+0xBF4
+武「！！　ココ、危ないっ！！」%K%P
+Takeshi「Coco, watch out!」%K%P
+0xC08
+ココ「え……？」%K%P
+Coco「Wha...?」%K%P
+0xC14
+つぐみ「避けて！！」%K%P
+Tsugumi「Get back!」%K%P
+0xE48
+鉄材が降ってきた。%K%P
+Metal was raining down.%K%P
+0xE54
+古いパイプはバラバラになり、散乱した。%K%P
+The old pipe broke apart into thousands of pieces.%K%P
+0xE7C
+コンテナは粉々に砕かれた。%K%P
+The containers were splintering.%K%P
+0xEB8
+それらは浅い水面を激しく叩きつけた。%K%P
+They all struck the surface of the shallow water violently.%K%P
+0xEE0
+重く硬い落下音が、部屋に響いた。%K%P
+The sound of hard, heavy objects falling echoed in the room.%K%P
+0xEEC
+部屋全体が小刻みに振動する。%K%P
+The whole room quivered.%K%P
+0xF14
+壁のいくつかのパイプは今の衝撃で破れ、水を噴き出している。%K%P
+A few pipes along the wall had ruptured and were spewing out water.%K%P
+0xF20
+さっきまで、ココの座っていた場所……。%K%P
+And where Coco had been sitting only a moment earlier...%K%P
+0xFC0
+つぐみが……そこに倒れていた。%K%P
+Tsugumi lay... fallen over.%K%P
+0xFCC
+ココ「……！！」%K%P
+Coco「...!」%K%P
+0xFD8
+ココは震える手でピピを抱きしめながら、茫然と目前の光景を眺めている。%K%P
+Coco looked around at the spectacle and hugged Pipi to herself tightly, her hands trembling.%K%P
+0xFE4
+鉄材がココの背中をえぐる寸前に、つぐみがココを突き飛ばしたのだ。%K%P
+Just before the metallic objects had crashed down on Coco's back, Tsugumi had thrust her out of the way.%K%P
+0xFF0
+かばったのだ……身を挺して……。%K%P
+She'd protected her... while risking her own life...%K%P
+0x1018
+武「つぐみ！！」%K%P
+Takeshi「Tsugumi!」%K%P
+0x1024
+つぐみ「くっ……」%K%P
+Tsugumi「Agh...」%K%P
+0x1030
+つぐみの右腿には鉄材が深くめり込み、とても動けそうにない。%K%P
+A metal shard had dug deeply into Tsugumi's right thigh, and it didn't look like she could move.%K%P
+0x103C
+周囲の傷つけられたパイプからは、水蒸気が霧となって舞っている。%K%P
+Steam was pouring out of the burst pipes surrounding us.%K%P
+0x1048
+排水ポンプは用を成さず、逆流し、濁った水を大量に吐き出し続けていた。%K%P
+And the drainage pump, not doing its job, continued belching out muddy water in large quantities.%K%P
+0x1054
+つぐみ「しくじったわ」%K%P
+Tsugumi「I guess I messed up.」%K%P
+0x1060
+つぐみは顔をしかめた。腿を押さえている。%K%P
+Tsugumi grimaced and clasped her thigh tightly.%K%P
+0x106C
+かなり出血しているらしい。%K%P
+She was losing a lot of blood.%K%P
+0x1078
+濁り水は、じわじわと赤く染まる……。%K%P
+The murky water was getting redder by the moment...%K%P
+0x1084
+武「おいっ、大丈夫かっ！？」%K%P
+Takeshi「Hey, you okay!?」%K%P
+0x1090
+つぐみ「ふふっ、これが大丈夫に見えるの？」%K%P
+Tsugumi「Heh heh. Does this LOOK okay to you?」%K%P
+0x109C
+つぐみ「まったく、バカなこと訊くのね」%K%P
+Tsugumi「Always asking stupid questions.」%K%P
+0x10A8
+武「わ、笑うな！　今そいつを退けてやるから待ってろ！」%K%P
+Takeshi「S-stop laughing! I'm going to get that stuff off you, just wait!」%K%P
+0x10B4
+俺は水を掻き分けてつぐみに走り寄り、鉄材を持ち上げようとした。%K%P
+I hurried through the water to Tsugumi and tried to lift the metal off of her.%K%P
+0x10C0
+だが、どんなに力を込めようとも、重い塊はびくともしない。%K%P
+But no matter how hard I tried, the heavy chunk wouldn't budge.%K%P
+0x10CC
+武「くそっ！！」%K%P
+Takeshi「Damn it!」%K%P
+0x10D8
+つぐみ「無駄みたいね……」%K%P
+Tsugumi「Looks like it's no use...」%K%P
+0x10E4
+その間にも水位は増し、くるぶしから膝を満たそうとしていた。%K%P
+In the meantime, the water level had risen from ankle to knee height.%K%P
+0x10F0
+ココ「つぐみんっ！！」%K%P
+Coco「Tsugumiiin!」%K%P
+0x10FC
+ココは這うようにして、つぐみに近づこうとした。%K%P
+Coco crawled over to get closer to Tsugumi.%K%P
+0x1108
+つぐみ「来ないで！」%K%P
+Tsugumi「Get away from me!」%K%P
+0x1114
+つぐみの冷たく尖った言葉に、ココは身をすくめて立ち止まった。%K%P
+Stung by Tsugumi's cold words, Coco stiffened and stopped.%K%P
+0x1120
+つぐみ「逃げなさい、ココ」%K%P
+Tsugumi「Get out of here, Coco.」%K%P
+0x112C
+つぐみ「武も、早く逃げたほうがいい……」%K%P
+Tsugumi「You too, Takeshi. Get out while you can...」%K%P
+0x1138
+つぐみ「このままだと、この部屋の隔壁が持たない」%K%P
+Tsugumi「At this rate, this room's partitions won't last.」%K%P
+0x1144
+つぐみ「みんな死ぬことになるわ」%K%P
+Tsugumi「You'll both die if you stay.」%K%P
+0x1150
+つぐみ「だから、早く……」%K%P
+Tsugumi「So hurry...」%K%P
+0x115C
+つぐみ「逃げなさい」%K%P
+Tsugumi「Get out of here.」%K%P
+0x1168
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x1174
+武「……ばっ」%K%P
+Takeshi「...St―」%K%P
+0x1180
+武「バカヤロウ！！　お前を置いていけるかよっ！！」%K%P
+Takeshi「Stupid idiot! You think I can just leave you!?」%K%P
+0x118C
+つぐみ「しょうがないでしょ？　ここから動けないんだし」%K%P
+Tsugumi「There's nothing you can do, right? I'm stuck here.」%K%P
+0x1198
+つぐみ「この怪我じゃ、どうせ手遅れ――」%K%P
+Tsugumi「And with this injury, you can't help me anyway―」%K%P
+0x11A4
+武「ふざけんなよ！！」%K%P
+Takeshi「Shut up!」%K%P
+0x11B0
+俺は怒鳴った。%K%P
+I roared out.%K%P
+0x11BC
+武「こんなところでくたばられたら、困るんだよっ！」%K%P
+Takeshi「I won't let you give up on me now, damn it!」%K%P
+0x11C8
+武「おいココ！　何ボケッとしてんだ！」%K%P
+Takeshi「Hey, Coco! What are you standing there for!?」%K%P
+0x11D4
+ココ「わ、は、はいっ！！」%K%P
+Coco「Wah! Y-yes!?」%K%P
+0x11E0
+武「そこのインターホンで連絡しろっ！」%K%P
+Takeshi「Get on that intercom and contact the others!」%K%P
+0x11EC
+ココは震える足を必死で持ち上げながら、インターホンに駆け寄る。%K%P
+With all her might, Coco moved her trembling legs to get closer to the intercom.%K%P
+0x11F8
+ココ「ダメ……壊れてるっ！　ボタンを押しても通じないよっ！」%K%P
+Coco「It's no use... It's broken! I pushed the button, but nothing happened!」%K%P
+0x1204
+武「だったら上に行け！　早く他の奴を呼んで来るんだ！」%K%P
+Takeshi「So run up and tell the others to get over here!」%K%P
+0x1210
+ココ「わ、わかったよおっ！！」%K%P
+Coco「O-okay, I'm going!」%K%P
+0x121C
+ココはうろたえながらも強く頷き、出て行った。%K%P
+Although she looked flustered, Coco nodded and ran off.%K%P
+0x1228
+倉庫の扉が閉まる。%K%P
+The door to the warehouse closed.%K%P
+0x1234
+程なく、その扉の下側までも、水が覆い始めた。%K%P
+Soon, water came up to the bottom of the door.%K%P
+0x1264
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1270
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x127C
+水没する。%K%P
+The water continued to rise.%K%P
+0x1288
+つぐみの腰から下は、もうほとんど水面下にあった。%K%P
+From her waist down, Tsugumi was almost completely underwater.%K%P
+0x1294
+水位は俺の膝元を超えようとしている。%K%P
+The water level was almost over my knees.%K%P
+0x12A0
+つぐみ「なに突っ立ってるのよ……」%K%P
+Tsugumi「What are you trying to prove...?」%K%P
+0x12AC
+つぐみ「意味もなく……そんなとこにいないでよ。目障りだから」%K%P
+Tsugumi「It doesn't mean anything... Just leave. I don't want you here.」%K%P
+0x12B8
+武「意味もなく立ってやしない」%K%P
+Takeshi「I wouldn't be here if there wasn't a reason.」%K%P
+0x12C4
+武「お前を置いていくわけにはいかないんだ」%K%P
+Takeshi「I can't just leave you here.」%K%P
+0x12D0
+つぐみ「どうして？」%K%P
+Tsugumi「Why not?」%K%P
+0x12DC
+武「今までお前に憎まれ口を叩かれっ放しだからな、お礼がまだ済んでない」%K%P
+Takeshi「I've taken nothing but abuse from you, and you still haven't thanked me properly yet.」%K%P
+0x12E8
+つぐみ「ああ、そう……。ふふっ、いい心がけね」%K%P
+Tsugumi「Oh, really... Heh heh. Well, that's reason enough, I suppose.」%K%P
+0x12F4
+つぐみは力なく笑う。%K%P
+Tsugumi laughed weakly.%K%P
+0x1300
+その唇が震えている。%K%P
+Her lips were trembling.%K%P
+0x130C
+周囲には濁流が広がっている。%K%P
+The murky water was spreading.%K%P
+0x1318
+つぐみ「ちょっと、寒くなってきたかなぁ……」%K%P
+Tsugumi「It's gotten cold in here...」%K%P
+0x1324
+武「いいか、つぐみ……気を確かに持ってくれ」%K%P
+Takeshi「Alright, Tsugumi... I need you to stay with me now.」%K%P
+0x1330
+俺は努めて冷静に、言葉を搾り出した。%K%P
+I chose my words as carefully as possible.%K%P
+0x133C
+つぐみ「正気よ、私」%K%P
+Tsugumi「I'm perfectly sane.」%K%P
+0x1348
+武「大丈夫だ。傷は浅い、心配いらない」%K%P
+Takeshi「You'll be okay. The wound isn't that deep, so don't worry.」%K%P
+0x1354
+つぐみ「『大丈夫』なんて……何を根拠に言ってるの」%K%P
+Tsugumi「'You'll be okay'... What makes you think that?」%K%P
+0x1360
+つぐみ「どうかしてるわね……」%K%P
+Tsugumi「You're the one who's crazy...」%K%P
+0x136C
+武「すまん、俺のせいだ。不注意で、怪我させちまって……」%K%P
+Takeshi「I'm sorry, it's all my fault. I wasn't paying attention, and you got hurt...」%K%P
+0x1378
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1384
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x13B4
+水位は、つぐみの頭上にまで達しようとしていた。%K%P
+The water level was rising up to Tsugumi's head.%K%P
+0x13C0
+隔壁の一部は壊れ、海水が直に流れ込んできた。%K%P
+A section of the partitioning had broken, and seawater was rushing in.%K%P
+0x13CC
+その水は冷たく、身体は凍えるようだ。%K%P
+The water was ice cold and seemed like it would freeze us.%K%P
+0x13D8
+水かさは容赦なく増していく。%K%P
+The water volume increased mercilessly.%K%P
+0x13E4
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x13F0
+苦痛に歪むつぐみの顔。%K%P
+Her face contorted with pain.%K%P
+0x13FC
+苦しさの為か、息を吐き出す。%K%P
+In agony, she labored for breath.%K%P
+0x1408
+もう時間がない。%K%P
+There wasn't any time.%K%P
+0x146C
+俺は意を決して、水中に潜った。%K%P
+Making up my mind, I dove into the water.%K%P
+0x1478
+目を開けていられない。%K%P
+I couldn't open my eyes.%K%P
+0x1484
+勘だけを頼りに水底を探る。%K%P
+All I could do was search the bottom using my intuition.%K%P
+0x1490
+（……ぁぁぁあああ！！）%K%P
+(...AaaaaAAAAGGGH!)%K%P
+0x149C
+（こんちくしょうぅぅっ！！）%K%P
+(DAMN IT!)%K%P
+0x14A8
+渾身の力を込めて、つぐみの足に食い込んだ鉄塊を持ち上げた。%K%P
+Using all of my strength, I heaved up the large mass of metal sticking into Tsugumi's leg.%K%P
+0x14B4
+浮力のおかげで、微かだが鉄塊は浮き上がった。%K%P
+Aided slightly by the buoyancy of the water, the metal hunk moved slightly.%K%P
+0x14C0
+すかさずつぐみは、足を引き抜いた。%K%P
+Tsugumi pulled her leg out at once.%K%P
+0x1530
+水面に顔を出す。大きく息を吸い込む。%K%P
+I lifted my face out of the water, gulping greedily for air.%K%P
+0x153C
+浸水は止まらない。%K%P
+The flooding wouldn't stop.%K%P
+0x1548
+既に水位は俺の肩を超えている。%K%P
+The water level was already above my shoulders.%K%P
+0x1554
+つぐみ「あなたって……」%K%P
+Tsugumi「You are...」%K%P
+0x1560
+つぐみ「バカね……」%K%P
+Tsugumi「Such a stubborn idiot...」%K%P
+0x156C
+武「しゃべるな、じっとしてろ」%K%P
+Takeshi「Shut up, just keep quiet.」%K%P
+0x1578
+足を負傷したつぐみは、泳ぐのもままならない。%K%P
+With her leg injured, there was no way Tsugumi could swim.%K%P
+0x1584
+俺はつぐみの身体を抱えながら、出口に向かった。%K%P
+Holding onto her, I headed for the exit.%K%P
+0x1590
+しかし扉は既に、完全に水の中に没していた。%K%P
+But the door was already underwater.%K%P
+0x159C
+つぐみ「ねぇ、助かりっこないわ……」%K%P
+Tsugumi「Look, there's no way you can save me...」%K%P
+0x15A8
+武「しゃべるなって言っただろ！」%K%P
+Takeshi「I told you to keep quiet!」%K%P
+0x15B4
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x15C0
+武「他にも出口があるはずだ。それを探す」%K%P
+Takeshi「There's got to be another exit. I'll look for it.」%K%P
+0x15CC
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x15D8
+武「大丈夫だ。なんとかなる」%K%P
+Takeshi「It'll be okay. We'll find a way out of this.」%K%P
+0x15E4
+つぐみ「また、『大丈夫』って……無責任ねぇ……」%K%P
+Tsugumi「There you go again, saying 'it'll be okay'... You're so irresponsible...」%K%P
+0x15F0
+武「うるせぇな、少し黙ってろよ」%K%P
+Takeshi「Would you keep quiet!?」%K%P
+0x15FC
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1608
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1614
+強引に扉を開けることもできただろうが、それでは２階全体を浸水の危機にさらすことになる。%K%P
+I probably could have forced open the door if I had tried, but it would have put the second floor in danger of flooding.%K%P
+0x1620
+俺は黙々と、非常口を探した。%K%P
+I searched desperately for an emergency exit.%K%P
+0x162C
+もう足は床に着かない。%K%P
+My legs wouldn't touch the floor.%K%P
+0x1638
+息をつくこともままならない。%K%P
+I could hardly breathe.%K%P
+0x1644
+限界だった。%K%P
+I was at my limit.%K%P
+0x1650
+武「……！！」%K%P
+Takeshi「...!」%K%P
+0x165C
+武「ハシゴだ！　部屋の隅にハシゴがあるぞ、非常通路に出られそうだ！」%K%P
+Takeshi「There's a ladder! In the corner of the room, there's a ladder. We can use it to get to the emergency passage.」%K%P
+0x1668
+武「助かるぞ、つぐみっ！」%K%P
+Takeshi「We're going to make it, Tsugumi!」%K%P
+0x16D0
+全力でハシゴに向かって泳ぐ。%K%P
+I swam with all my might to get to the ladder.%K%P
+0x16DC
+つぐみを背負い、ハシゴを登った。%K%P
+With Tsugumi draped over my back, I climbed up the ladder.%K%P
+0x1704
+ハシゴの終端の水密ハッチを開き、つぐみの身体を押し上げる。%K%P
+I opened the flood hatch at the end of the ladder and pushed Tsugumi through.%K%P
+0x175C
+俺もすぐさま通路へと上がり、ハッチを閉めた。%K%P
+Going up immediately behind her, I quickly shut the hatch.%K%P
+0x1768
+濁流の音は遠ざかっていく……。%K%P
+The sound of the flood faded away...%K%P
+0x1774
+しかし一時も休んでいられなかった。%K%P
+But there wasn't time to rest.%K%P
+0x1780
+つぐみの足からは、まだ出血が続いている。%K%P
+Tsugumi was still losing blood.%K%P
+0x178C
+俺はつぐみを背負って走り出した。%K%P
+I took her up on my back and began to run.%K%P
+0x17A0
+武「くそっ、どっちに行けばいいんだ……？」%K%P
+Takeshi「Damn, which way should I go...?」%K%P
+0x17AC
+通路の行き止まりで、俺は途方に暮れた。%K%P
+A dead end in the passage had me totally lost.%K%P
+0x17C0
+空「倉成さん！」%K%P
+Sora「Kuranari-san!」%K%P
+0x17CC
+不意に空の姿が、目の前に結像した。%K%P
+Sora appeared suddenly in front of me.%K%P
+0x17D8
+武「空っ！　つぐみが、つぐみがっ！！」%K%P
+Takeshi「Sora! Tsugumi is... Tsugumi is!」%K%P
+0x17EC
+空「わかっています。ココちゃんから報告を受けました」%K%P
+Sora「I know. I heard everything from Coco-chan.」%K%P
+0x17F8
+空「救護室に連れて来てください。田中さんが処置準備を進めてくれています」%K%P
+Sora「Bring her to the infirmary immediately. Tanaka-san is currently preparing to treat her.」%K%P
+0x1804
+武「わかった、すぐに行く！　どっちだ？」%K%P
+Takeshi「Alright, I'm on my way! Now, which way do I go?」%K%P
+0x1810
+空「その通路を戻って右の階段を下り、通常通路へ……」%K%P
+Sora「Return back along this passage, go down the stairs on the right, and take the standard passage to...」%K%P
+0x181C
+武「ＯＫっ！」%K%P
+Takeshi「Okay!」%K%P
+0x1878
+武「つぐみ、つぐみっ！」%K%P
+Takeshi「Tsugumi, Tsugumi!」%K%P
+0x1884
+武「大丈夫だ、大丈夫だからな……！」%K%P
+Takeshi「It's okay, it's going to be okay...!」%K%P
+0x1890
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x189C
+つぐみは俺の背中で苦しそうに唸っている。%K%P
+Tsugumi groaned painfully from her place on my back.%K%P
+0x18A8
+たとえ無責任だと言われようと、俺は『ダメだ、手遅れだ』なんて言えなかった。%K%P
+Even if she thought it was irresponsible of me, I couldn't bring myself to tell her, 'It's no use, it's too late.'%K%P
+0x18B4
+少しでも望みがある限りは、絶対にそれを捨てたくなかった。%K%P
+As long as I had even a little hope, I didn't want to throw it away.%K%P
+0x18EC
+救護室に駆け込んだ。%K%P
+I burst into the infirmary.%K%P
+0x18F8
+負傷したつぐみをベッドに寝かせる。%K%P
+I set the injured Tsugumi down on the bed.%K%P
+0x1904
+出血がひどい……。%K%P
+She'd lost so much blood...%K%P
+0x1910
+早く応急処置を施さなければならない。%K%P
+We had to take emergency measures immediately.%K%P
+0x191C
+武「おいっ、どうすればいい？」%K%P
+Takeshi「Hey, what are we going to do!?」%K%P
+0x1940
+優「どいて！！」%K%P
+You「Get out of the way!」%K%P
+0x194C
+部屋で待っていた優は、俺を押し退けた。%K%P
+You, who'd been waiting in the room, pushed me aside.%K%P
+0x1958
+壁面の医療器具ラックから止血帯を取り出し、つぐみの大腿部を締める。%K%P
+A tourniquet was taken out from a rack of medical instruments on the wall and fastened around Tsugumi's thigh.%K%P
+0x196C
+優「ちょっとマズいわね……」%K%P
+You「This is bad...」%K%P
+0x1978
+武「状態は？　どうなってる？」%K%P
+Takeshi「What's the status? How bad is it?」%K%P
+0x1984
+武「あのスキャナーで調べられないのか？」%K%P
+Takeshi「Can't we use that scanner to check it out?」%K%P
+0x1990
+俺は『Ｌ−ＭＲＩ』を指差した。%K%P
+I pointed to the L-MRI.%K%P
+0x19A4
+優「あれはダメ、故障してるみたいなの」%K%P
+You「It seems to be broken.」%K%P
+0x19B0
+空「私が診ます」%K%P
+Sora「I'll have a look.」%K%P
+0x19F4
+空はつぐみに手をかざした。中空にホログラムウィンドウが現れる。%K%P
+Sora put her hand on Tsugumi. A holographic window appeared in the air.%K%P
+0x1A00
+天井にある小さなカメラやセンサー群が移動している……。%K%P
+A small sensor or camera started moving on the ceiling.%K%P
+0x1A1C
+空「あくまで生体スキャンの応用ですから、はっきりとは申し上げられませんが……」%K%P
+Sora「Well, this is just a bio scan, so I can't tell for certain, but...」%K%P
+0x1A30
+空「大腿骨に損傷。複雑骨折しているかもしれません」%K%P
+Sora「Her femur is fractured. And it looks like it might be a complex fracture.」%K%P
+0x1A3C
+空「それと、動脈が切れています。切開縫合が必要でしょう」%K%P
+Sora「That, and the artery is severed. She'll need sutures.」%K%P
+0x1A50
+優「私、自分の指くらいなら縫ったことあるよ。サバイバルキットでだけど……」%K%P
+You「I've stitched up my finger before. It was with a survival kit, but...」%K%P
+0x1A64
+空「では田中さん、お願いできますか？」%K%P
+Sora「Well, Tanaka-san, do you think you can assist me?」%K%P
+0x1A70
+優「なんとか、やってみるよ！　麻酔は？」%K%P
+You「I'll do my best! Do we have anesthetic?」%K%P
+0x1A7C
+空「用意します。他にもレーザーメス、鉗子、縫合糸……必要なものはすべてこの部屋にありますから」%K%P
+Sora「I'll get it ready. The laser scalpel, forceps, and sutures... Everything we need is already in the room.」%K%P
+0x1A90
+空は電動ワゴンを動かして、ワゴンのマニピュレーターで器具を集める。%K%P
+Sora moved the electric wagon and used its robotic arm to gather the necessary surgical tools.%K%P
+0x1A9C
+優はつぐみのスカートを大きくめくって、腿の傷を拭き始めた。%K%P
+You flipped up Tsugumi's skirt and started wiping off the wound.%K%P
+0x1AB0
+優「倉成っ！！」%K%P
+You「Kuranari!」%K%P
+0x1ABC
+優「そんなとこに立っていないでよ！　邪魔になっちゃうからっ！」%K%P
+You「Don't stand there! You're in the way!」%K%P
+0x1AC8
+優はびしっと出口を指差した。%K%P
+You pointed angrily at the exit.%K%P
+0x1AD4
+武「ああ、わかった、すまん……後は頼んだぞ！」%K%P
+Takeshi「Uh, yeah, sorry... Take care of her, okay!?」%K%P
+0x1AE8
+優「まかせなさいっ！」%K%P
+You「Leave it to me!」%K%P
+0x1AF4
+優は真剣に、胸を張ってみせる。%K%P
+You looked determined to show us all what she was capable of.%K%P
+0x1B68
+張り詰めた空気に満ちた救護室を出ると、思い出したように疲れがやってくる。%K%P
+As soon as I left the tense atmosphere of the emergency room, my fatigue hit me.%K%P
+0x1B74
+武「はぁ……」%K%P
+Takeshi「*Sigh*...」%K%P
+0x1B80
+近くの椅子に、身体を預けた。%K%P
+I set myself down on a nearby chair.%K%P
+0x1BBC
+ココ「あっ、たけぴょん……。つぐみんは……」%K%P
+Coco「Oh, Takepyon... Is Tsugumin going to be...?」%K%P
+0x1BC8
+ココはピピを抱えたまま、落ち着かない様子で座っていた。%K%P
+Coco was gripping Pipi but looked as if she was having a hard time relaxing.%K%P
+0x1BD4
+武「ココがすぐに知らせてくれたからな……なんとかなりそうだ」%K%P
+Takeshi「You let them know right away, so... she should be fine.」%K%P
+0x1BE8
+ココ「ほんと……？」%K%P
+Coco「Really...?」%K%P
+0x1BF4
+ココは目を潤ませていた。%K%P
+Coco's eyes were moist.%K%P
+0x1C00
+もしかすると、さっきまで泣いていたのかもしれなかった。%K%P
+It was hard to tell, but she had probably been crying moments earlier.%K%P
+0x1C0C
+それでもココは、笑顔を作ろうとする。%K%P
+Even still, she tried to smile.%K%P
+0x1C28
+ココ「ねぇねぇ、つぐみんは……」%K%P
+Coco「Hey, you think Tsugumin's...」%K%P
+0x1C34
+ココ「つぐみんは……大丈夫だよね？」%K%P
+Coco「Tsugumin's... gonna be okay, right?」%K%P
+0x1C40
+まだ不安げな色を残しながら、首を傾げて俺に尋ねた。%K%P
+Still looking worried, she tilted her head as she asked me.%K%P
+0x1C4C
+武「ああ、大丈夫」%K%P
+Takeshi「Yeah. She'll be fine.」%K%P
+0x1C58
+武「絶対、大丈夫だ……」%K%P
+Takeshi「Absolutely fine...」%K%P
+0x1C64
+俺は拳を握りしめる。%K%P
+I closed my hand into a fist...%K%P
+0x1C70
+俺自身に言い聞かせた。%K%P
+And told myself.%K%P
+0x1C7C
+大丈夫だ、と。%K%P
+She's going to be okay.%K%P
+0x1CD0
+永遠とも思える長い時間が流れた後、優は空と一緒に救護室から現れた。%K%P
+After what seemed like an eternity, You appeared from the infirmary with Sora.%K%P
+0x1CDC
+手術は終了――%K%P
+The surgery was over―%K%P
+0x1CE8
+つぐみは一命を取りとめたらしい。%K%P
+Tsugumi was going to live.%K%P
+0x1CFC
+空「４０針ほど縫いました。全治２ヶ月といったところです」%K%P
+Sora「It required a total of 40 stitches and will take two months to heal completely.」%K%P
+0x1D08
+空「元のように歩けるようになるには、さらに数ヶ月かかりますね……」%K%P
+Sora「And it will take her a few more months to be able to walk normally...」%K%P
+0x1D14
+空「小町さんには、救助が来てＬｅＭＵから出られるようになるまで、安静にしてもらうことになるでしょう」%K%P
+Sora「Until a rescue team arrives at LeMU and we can get her out of here, she's going to have to rest.」%K%P
+0x1D20
+武「わかった。ありがとう、空」%K%P
+Takeshi「Alright. Thanks, Sora.」%K%P
+0x1D2C
+武「それと……お疲れさま、優」%K%P
+Takeshi「And... good job, You.」%K%P
+0x1D38
+優「…………」%K%P
+You「.........」%K%P
+0x1D44
+武「優？　どうした？」%K%P
+Takeshi「You? What's wrong?」%K%P
+0x1D58
+優「……えっ？」%K%P
+You「...What?」%K%P
+0x1D6C
+優「あっ……ううん、さすがにちょっと疲れたわね……」%K%P
+You「Oh... Um, nothing, I'm just really tired... You know...」%K%P
+0x1D78
+優「こんな大手術なんて、したことなかったから……」%K%P
+You「I've never done an operation like that before...」%K%P
+0x1D84
+優はそれきりうつむいて、多くを語らなかった。%K%P
+After that, You looked down and didn't say much.%K%P
+0x1DA0
+空「尚、ツヴァイトシュトック倉庫の浸水は止まりました」%K%P
+Sora「By the way, it looks like the flooding stopped in the Zweiter Stock warehouse.」%K%P
+0x1DAC
+空「倉庫へ繋がる全配管を緊急閉鎖、ブロックごとツヴァイトから切り離しました。浸水被害拡大の心配はありません」%K%P
+Sora「All pipelines connecting to the warehouse have been closed as an emergency measure, and the whole area has been sealed off from Zweiter. So we don't have to worry about the flood damage expanding.」%K%P
+0x1DB8
+空「以上です」%K%P
+Sora「That's it, then.」%K%P

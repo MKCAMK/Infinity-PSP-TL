@@ -1,0 +1,1920 @@
+text area offset and size:
+0x3698
+0x616D
+0x70
+夕食の時間になった。%K%P
+It was time for dinner.%K%P
+0x7C
+俺は皆のぶんのタツタサンドを作って配った。%K%P
+I made enough sandwiches for everyone and passed them out.%K%P
+0x88
+それから全員、揃って憩いの間に移動する。%K%P
+Everyone moved with them to the rest area.%K%P
+0x9C
+中央の円形の舞台に集まり、そこで食事をすることになった。%K%P
+We gathered on the circular stage in the center of the room and began eating.%K%P
+0xB0
+空が手をかざすと、天井のスプリンクラーから花壇へと、優しい雨が注いだ。%K%P
+At a wave of Sora's hand, a gentle rain started pouring from the ceiling sprinklers onto the flowerbeds.%K%P
+0xBC
+小さな虹もそこに生まれる。%K%P
+There was even a small rainbow.%K%P
+0xD0
+微笑みながら、空は瑞々しい花々と虹を眺めていた。%K%P
+Smiling, Sora stared at the fresh flowers and the sparkling rainbow.%K%P
+0xF4
+屈託のない空の笑顔……。%K%P
+Her smile was so carefree...%K%P
+0x100
+この笑顔が紛い物だなんて、俺は思いたくない。%K%P
+I didn't want to think it wasn't real.%K%P
+0x10C
+見せかけだけの作り物だなんて、思いたくはない。%K%P
+I didn't want to think she was just pretending for our benefit.%K%P
+0x118
+だけど……。%K%P
+But...%K%P
+0x124
+彼女は本当に笑いたいと思って、笑ってくれているだろうか？%K%P
+Was she really smiling because she wanted to, or was she just trying to cheer us up?%K%P
+0x130
+『空は、何も私達が助けるまでもなく、助かるのよ』%K%P
+'We don't need to save Sora. She's saved already.'%K%P
+0x13C
+優から聞いた話が、俺の耳を離れてくれなかった。%K%P
+That thought wouldn't leave my mind.%K%P
+0x150
+俺はいつまで、この花と虹を見ていられるのだろうか。%K%P
+I wondered how long I could watch the little peaceful world she had created.%K%P
+0x15C
+彼女の笑顔をいつまで、ここで見ていられるのだろう？%K%P
+How long could I keep looking at her smiling face?%K%P
+0x168
+それを思うと、少し寂しくもあった。%K%P
+Thinking about it made me feel lonely.%K%P
+0x190
+一方で、これ以上ないほど大口開けて、サンドをぱくついている奴もいる。%K%P
+Then again, there were others with me too, one of them opening her mouth so wide that it didn't seem it would open any more.%K%P
+0x19C
+そいつは心底幸せそうだった。%K%P
+She looked REALLY happy.%K%P
+0x1D8
+優「倉成タケさまぁ〜んっ♪」%K%P
+You「Kuranariiii〜」%K%P
+0x1E4
+そして、そいつは包装紙をひらひらと振った……。%K%P
+And had flipped off the wrapping paper...%K%P
+0x1F0
+優「タツタサンドぉ、もう１個食べたいなぁ〜ん♪」%K%P
+You「I want another sandwich. Pleeeeeeaaase〜」%K%P
+0x204
+優「今すぐ作って持ってきてぇ〜ん……お・ね・が・い♪　ちゅっ♪」%K%P
+You「Would you be so kind as to make another one and bring it here...? Pretty pleeeeaaase?」%K%P
+0x210
+甘ったるい声で言ってのける。%K%P
+She called out to me in a voice that seemed just a little TOO sweet.%K%P
+0x21C
+さっき泣いていた気がしたのは、単なる俺の思い違いだったかもしれない……。%K%P
+It seemed to me that she had been crying earlier, but it must have been my imagination...%K%P
+0x228
+武「へいへい、人使いの荒いことですなぁ」%K%P
+Takeshi「Alright, alright. You're such a slave driver.」%K%P
+0x23C
+優「あら、なんですの？　何かおっしゃいまして？」%K%P
+You「What was that? Did you say something?」%K%P
+0x248
+武「何でもありませんよ、お嬢様」%K%P
+Takeshi「Nothing at all, milady.」%K%P
+0x25C
+優「そう、わかればいいのよ。おっほほほほ……♪」%K%P
+You「Just as long as you realize who's in charge. Ohohohoho...」%K%P
+0x270
+渋々、俺は隣の部屋のタツタ売店へと戻る。%K%P
+Reluctantly, I trudged back into the kitchen.%K%P
+0x284
+（ああ、まったくあんにゃろめ……）%K%P
+(I can't believe that girl...)%K%P
+0x290
+作るのは、別段、苦ではなかった。%K%P
+It wasn't like they were that hard to make.%K%P
+0x29C
+材料も、まだ充分にあった。%K%P
+We had plenty of provisions.%K%P
+0x2A8
+それでも俺はなんだか苛立ちながら、冷めた油が再び温まるのを待っていた。%K%P
+Still, I was irritated as I waited for the cold oil to heat up again.%K%P
+0x2B4
+貧乏揺すりのように足踏みを繰り返す。%K%P
+I anxiously fidgeted as I waited.%K%P
+0x2C0
+フライ挟みでフライヤーをカンカン叩く。%K%P
+The wire basket struck the frying pan with a clang.%K%P
+0x2CC
+（さっさと作って、さっさと持ってくか……）%K%P
+(I'll just get this done as soon as I can...)%K%P
+0x2E0
+つぐみ「ねぇ……」%K%P
+Tsugumi「Hey...」%K%P
+0x2EC
+不意に、売店の軒先に客が現れた。%K%P
+A 'customer' had showed up without warning.%K%P
+0x2F8
+つぐみ「私もひとつ、追加を頼みたいんだけど」%K%P
+Tsugumi「I'd like to ask for another one if that's okay.」%K%P
+0x304
+武「なんだとうっ！」%K%P
+Takeshi「GEEZ!」%K%P
+0x318
+つぐみ「な、何よ、武……」%K%P
+Tsugumi「Wh-what, Takeshi...?」%K%P
+0x324
+つぐみ「機嫌悪そうね……」%K%P
+Tsugumi「Did I catch you at a bad time...?」%K%P
+0x330
+つぐみはちょっと膨れる。%K%P
+Tsugumi looked annoyed.%K%P
+0x33C
+武「えっ？　つ、つぐみっ！？」%K%P
+Takeshi「Eh? Ts-Tsugumi!?」%K%P
+0x348
+つぐみ「……あの……」%K%P
+Tsugumi「...Um...」%K%P
+0x35C
+つぐみ「ひょっとして、ダメなの？」%K%P
+Tsugumi「You don't want to make one?」%K%P
+0x368
+武「ああっ、いやいや……」%K%P
+Takeshi「Huh? Uh, no, it's just...」%K%P
+0x374
+武「大丈夫だ。ＯＫ」%K%P
+Takeshi「Don't worry about it. It's okay.」%K%P
+0x380
+いかんいかん……。%K%P
+I had to settle down...%K%P
+0x38C
+動揺してしまった……。%K%P
+I'd allowed myself to get worked up...%K%P
+0x398
+俺は不機嫌な自分の横っ面を張り倒しながら答えた。%K%P
+Trying to shake off my frustration, I replied...%K%P
+0x3A4
+武「追加、ひとつだよな？」%K%P
+Takeshi「You just want one?」%K%P
+0x3B8
+つぐみ「ええ、お願い。ああ、そうだ。それから……」%K%P
+Tsugumi「Yeah, thanks. Oh yeah, one more thing...」%K%P
+0x3C4
+言いながら、つぐみは振り返る。%K%P
+Tsugumi said that as she turned around.%K%P
+0x3D8
+つぐみ「ココ、どうするの？」%K%P
+Tsugumi「What about you, Coco?」%K%P
+0x3EC
+ココ「んー、どうしよっかなぁ……」%K%P
+Coco「Hmm, I'm not sure...」%K%P
+0x3F8
+ココが、つぐみの後ろから顔を覗かせた。%K%P
+Coco peeked out from behind Tsugumi.%K%P
+0x404
+つぐみ「何か欲しい？」%K%P
+Tsugumi「What do you want?」%K%P
+0x410
+ココ「ちょこっとだけ、なんか食べよっかな」%K%P
+Coco「Maybe I'll eat just a little something.」%K%P
+0x424
+つぐみ「そうねぇ……じゃ、パンを半分食べる？」%K%P
+Tsugumi「Well... How about some bread?」%K%P
+0x430
+ココ「うん。ココ、そうするよ！」%K%P
+Coco「Okay, sounds good!」%K%P
+0x444
+ココ「たけぴょん、パン半分くださーいっ♪」%K%P
+Coco「Takepyon, I'd like some bread please〜」%K%P
+0x450
+武「ＯＫ、ＯＫ。了解だ」%K%P
+Takeshi「Okay, okay. Gotcha.」%K%P
+0x45C
+ココ「よろしくー♪　えへへっ……」%K%P
+Coco「Thanks. Heh heh...」%K%P
+0x478
+つぐみ「ねぇ、ところで、武」%K%P
+Tsugumi「Um, by the way, Takeshi.」%K%P
+0x48C
+つぐみ「さっき、ちょっと怒ってなかった？」%K%P
+Tsugumi「Were you upset a little bit earlier?」%K%P
+0x498
+つぐみ「どこか具合でもよくないの？　それとも……」%K%P
+Tsugumi「Are you feeling okay? Or is it...?」%K%P
+0x4A4
+武「あー、そうじゃないよ」%K%P
+Takeshi「Nah, it's not like that.」%K%P
+0x4B0
+武「油がなかなかぬくまらないんだ。だからイライラしてんの、俺」%K%P
+Takeshi「It just takes a while for the oil to get warmed up, so I was irritated, that's all.」%K%P
+0x4C4
+つぐみ「あ、そうなんだ？」%K%P
+Tsugumi「Oh, was that it?」%K%P
+0x4D0
+彼女は顔をほころばせた。%K%P
+She flashed me a smile.%K%P
+0x4E4
+つぐみ「わかった。大丈夫。慌てなくていいわ」%K%P
+Tsugumi「Okay. Don't worry, just take your time.」%K%P
+0x4F0
+つぐみ「私、ちゃんと待ってるから」%K%P
+Tsugumi「I'll be waiting.」%K%P
+0x504
+ココの手をそっと取って、つぐみは売店から離れ、近くをゆっくり歩き始めた。%K%P
+Tsugumi grabbed on to Coco's hand and started walking slowly away.%K%P
+0x510
+柔らかな微笑みを浮かべている、つぐみ……。%K%P
+She was smiling so gently...%K%P
+0x52C
+いきなり話しかけられて、俺は少々面食らったが……。%K%P
+She had surprised me when she started talking to me all of a sudden...%K%P
+0x538
+今のつぐみは、『死』なんて間違っても口にしそうにない。%K%P
+The Tsugumi right then seemed like she would never talk about 'dying', even by accident.%K%P
+0x544
+あれから、吹っ切れたのだろうか？%K%P
+I wondered if she had resolved her feelings.%K%P
+0x550
+だとしたら、俺も彼女の話を聞いた甲斐があったというものだ。%K%P
+If that was the case, then it seemed like talking with her had been the right thing to do.%K%P
+0x55C
+つぐみのことを、さんざん追いかけて……。%K%P
+I had chased after her constantly...%K%P
+0x568
+時にはぶん殴られ……。%K%P
+Been hit by her...%K%P
+0x574
+罵倒もされたが……。%K%P
+Been put down by her...%K%P
+0x580
+でも、今の彼女は、間違いなく俺達の仲間だった。%K%P
+But the Tsugumi before me was unmistakably one of us.%K%P
+0x594
+俺の悩みなど、彼女はまったく意に介していないようだった。%K%P
+It didn't seem like she cared about my troubles...%K%P
+0x5A0
+どんな顔して会ったらいいのか……と、少々気をもんでいたのだが。%K%P
+Every time we met, I never know how to react... and it bothered me some.%K%P
+0x5AC
+あの夜のことは、すっかり忘れてしまったのだろうか。%K%P
+Had she totally forgotten about the events of the other night? I had to wonder.%K%P
+0x5B8
+（まぁ、気にしてないのなら、いいか……）%K%P
+(Well, if she doesn't care, then I suppose that's best...)%K%P
+0x5C4
+今のつぐみは、『死』なんて間違っても口にしそうにない。%K%P
+The Tsugumi right then seemed like she would never talk about 'dying', even by accident.%K%P
+0x5D0
+彼女のその笑顔を、信じてみることにした。%K%P
+I decided to believe that her smile was real.%K%P
+0x5E4
+ココ「そんでね、ほいでね？　ココ、夢を見たんだぁ〜」%K%P
+Coco「And guess what? You wanna know what? I had a dream last night!」%K%P
+0x5F0
+ココの話に、つぐみは耳を傾けている。%K%P
+Tsugumi was listening to Coco intently.%K%P
+0x5FC
+つぐみ「どんな夢？」%K%P
+Tsugumi「What kind of dream?」%K%P
+0x610
+ココ「クジラに乗ったの！」%K%P
+Coco「I was riding a whale!」%K%P
+0x61C
+いかにも楽しげに、ココは語る。%K%P
+Coco seemed to be truly enjoying herself.%K%P
+0x628
+ココ「んっとね、少ちゃんとね、一緒にクジラに乗ってぇ……」%K%P
+Coco「And Kiddo was riding on it with me...」%K%P
+0x63C
+ココ「でね、クジラが、ぼいんぼいんと跳ねてぇ……」%K%P
+Coco「And the whale was, like, totally bouncing all over the place...」%K%P
+0x648
+ココ「ホップ、ステップ、ジャーンプ！　とばかりに……」%K%P
+Coco「I just kept hopping and jumping...!」%K%P
+0x654
+ココ「宇宙の彼方イカスンデルに、ばびゅーんと飛んでいってぇ……」%K%P
+Coco「And we were in outer space going to this place called Planet Squid, and were flying all around.」%K%P
+0x660
+ココ「ほいでね、そしたらね？」%K%P
+Coco「And then guess what?」%K%P
+0x674
+ココ「クィクィ星人にぃ〜、会えたんだぁ〜♪」%K%P
+Coco「I met someone from planet Kuikui〜」%K%P
+0x688
+つぐみ「ふぅん……そっかぁ……」%K%P
+Tsugumi「Hmmm... Oh really...」%K%P
+0x694
+つぐみ「ココは、クィクィ星人に会ってきたんだ？」%K%P
+Tsugumi「So you met someone from planet Kuikui, eh?」%K%P
+0x6A0
+ココ「うんうん♪」%K%P
+Coco「Yup, yup〜」%K%P
+0x6AC
+ココ「少ちゃんとココでね、ふたりでね、会ってきたのっ♪」%K%P
+Coco「Kiddo and me, we both met him〜」%K%P
+0x6B8
+つぐみ「そっかそっかぁ……」%K%P
+Tsugumi「Is that so...?」%K%P
+0x6C4
+つぐみ「よかったねぇ、ココ……」%K%P
+Tsugumi「That's great, Coco...」%K%P
+0x6D8
+わけのわからないココの夢物語を、つぐみはにこにこしながら聞いている。%K%P
+Tsugumi listened to Coco's nonsense with a smile on her face.%K%P
+0x6E4
+俺は、ふたりのやり取りを静かに眺めながら……%K%P
+I watched their interaction quietly...%K%P
+0x6F0
+ちょっぴり感慨深いものを感じてみたりしていた……。%K%P
+I tried to sense what they were feeling...%K%P
+0x70C
+そして……。%K%P
+And...%K%P
+0x720
+優「倉成ぃ〜、遅いってぇ〜、もぉ〜っ……！」%K%P
+You「Kuranariii, what's taking you so looong...!」%K%P
+0x72C
+憩いの間に入ると、優はブーたれながら待っていた。%K%P
+I went into the rest area, and You was lounging about lazily.%K%P
+0x738
+武「そうプリプリ怒るんじゃねーよ」%K%P
+Takeshi「What the hell are you all worked up about?」%K%P
+0x74C
+優「別に、怒ってなんかいないよ」%K%P
+You「I'm not 'worked up' about anything.」%K%P
+0x758
+優「ただ、倉成のサンドが遅いから、『何やってんのよーっ』とか思ってやきもきしてただけで……」%K%P
+You「It's just that you're so slow, I was wondering, 'What's taking Kuranari so long?', that's all...」%K%P
+0x76C
+優「はい、それで？　首尾はいかがでしたか、料理長さん？」%K%P
+You「And so? How'd it turn out, chef?」%K%P
+0x778
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x784
+武「ほんとに口の減らんやっちゃなぁ、お前……」%K%P
+Takeshi「You really don't know when to shut up, do you...?」%K%P
+0x790
+武「ほら、ちゃんと作ってきてやったから安心しろ」%K%P
+Takeshi「Look, it's right here, so stop worrying.」%K%P
+0x7A4
+サンドの包みを見せると、優は肩をすくめる。%K%P
+When I showed You the package, she shrugged.%K%P
+0x7C0
+つぐみとココは既におかわりを食べ終わって、俺の後ろからついてきていた。%K%P
+Tsugumi and Coco had already finished theirs and were following behind me.%K%P
+0x7D4
+皆揃って、中央の円に向かう。%K%P
+I headed over to the circle in the center of the room.%K%P
+0x7E0
+武「ほら、田中専用スペシャルサンドだ。受け取れっ！」%K%P
+Takeshi「Here. It's the Tanaka special. Take it!」%K%P
+0x7EC
+円形の舞台に乗るなり、俺は優目がけて包みを放り投げた。%K%P
+I got up on the round dais and threw the package directly at You.%K%P
+0x800
+優「って、何よいきなりうあぁっ……！！」%K%P
+You「What are you doing...!?」%K%P
+0x83C
+ぱさり。%K%P
+Splat.%K%P
+0x848
+包みは優の脇を過ぎ、舞台の真ん中に軟着陸した。%K%P
+The package flew over You's knees and landed softly in the center of the stage.%K%P
+0x854
+武「おいおい、しっかりしてくれよぉ……」%K%P
+Takeshi「Hey, come on. Wake up, will you...?」%K%P
+0x860
+わざとらしくおどけて、俺は呆れてみせる。%K%P
+I pretended to show surprise.%K%P
+0x86C
+武「ちゃんと受け取れよなぁ、貴重な食料なんだぞ？」%K%P
+Takeshi「Be careful, those're some gourmet goods, you know?」%K%P
+0x880
+優「な、何よぉ！　そっちが突然投げたんじゃないのよ！？」%K%P
+You「W-well, you're the one who threw it all of a sudden!」%K%P
+0x88C
+優は頬を膨らませる。%K%P
+You's cheeks puffed up.%K%P
+0x898
+包みを拾い上げて、手でホコリを払った。%K%P
+She picked up the package and dusted it off.%K%P
+0x8A4
+武「ゴメンゴメン、ちょっとしたジョークだ……」%K%P
+Takeshi「Sorry, I was just joking...」%K%P
+0x8B0
+俺は両手を上げる。%K%P
+I lifted both hands in mock apology.%K%P
+0x8BC
+武「うっかり水に落としたらどうしようかと、ヒヤヒヤしたぞ」%K%P
+Takeshi「I was worried it would fall into the water there for a second.」%K%P
+0x8C8
+優「あのねぇ、ったく……」%K%P
+You「Oh, stop it...」%K%P
+0x8DC
+優「そんな意地悪しなくたって、いいじゃないのよぉ……」%K%P
+You「You don't have to pick on me, you know...」%K%P
+0x8E8
+ブツブツ言いながら、包みをひも解く。%K%P
+Grumbling to herself, she undid the string around the wrapping.%K%P
+0x8FC
+優「あーっ！」%K%P
+You「Ah!」%K%P
+0x908
+包装紙の中を見たら、また優は膨れた。%K%P
+You looked at the contents and puffed up again.%K%P
+0x914
+優「ちょっと、タツタが焦げてるんじゃないこれ？」%K%P
+You「Hey, this sandwich is burnt!」%K%P
+0x920
+武「ち、ちょっとだけだろ？　大丈夫だって、そのくらい！」%K%P
+Takeshi「Not THAT badly. You should still be able to eat it!」%K%P
+0x934
+優「しょうがないなぁ〜」%K%P
+You「I suppose...」%K%P
+0x940
+武「勘弁してくれよ」%K%P
+Takeshi「Gimme a break.」%K%P
+0x94C
+そんな冗談めかした押し問答を繰り返していると……。%K%P
+We carried on needling each other like that for a while...%K%P
+0x960
+ふと、俺と優の前に、誰かが立った。%K%P
+When suddenly, someone came up and stood in front of You and me.%K%P
+0x96C
+いや……さっきからずっと、そこに立ち尽くしていたのかもしれない。%K%P
+No... maybe he'd been there for a long time.%K%P
+0x980
+少年は顔を強張らせて、俺達のことを見ていた。%K%P
+The Kid was staring at both of us with a leaden gaze.%K%P
+0x99C
+優「あれ、どうしたの少年？」%K%P
+You「Hey, what's wrong, Kid?」%K%P
+0x9A8
+優「……食べないの？」%K%P
+You「...You don't want it?」%K%P
+0x9B4
+少年の手には、まだ開けてもいないタツタサンドの包みが握られたままだった。%K%P
+The Kid held an unopened fried tuna sandwich in his hand.%K%P
+0x9C0
+武「食べなきゃ身体に毒だぞー、少年」%K%P
+Takeshi「You gotta eat to stay healthy, Kid.」%K%P
+0x9CC
+武「それ、冷めちまってるだろ。温め直して持って来ようか？」%K%P
+Takeshi「It's probably cold by now. You want me to heat it up again for you?」%K%P
+0x9D8
+俺は手を差し出した。%K%P
+I put out my hand.%K%P
+0x9E4
+だが少年は、俺の手から逃げるようにして、サンドを引っ込める。%K%P
+But he pulled the sandwich close to himself and tried to get away.%K%P
+0x9F0
+俺の顔を、硬い表情でじっと見ている……。%K%P
+He looked at me with a hard expression...%K%P
+0x9FC
+それから……%K%P
+And...%K%P
+0xA2C
+優「えっ！？」%K%P
+You「What!?」%K%P
+0xA68
+少年は……%K%P
+The Kid...%K%P
+0xA74
+手の中のサンドを握り潰した。%K%P
+Crushed the sandwich in his hand.%K%P
+0xA9C
+力一杯、握り潰す。%K%P
+Using all his strength.%K%P
+0xAA8
+包装紙は破れ、ソースが飛び散る。%K%P
+The wrapping paper burst and sauce flew every which way.%K%P
+0xAB4
+少年の服にも飛び散るが、それを気にする様子はない。%K%P
+It got on his clothes as well, but he didn't seem to notice.%K%P
+0xAC0
+それだけでなかった……。%K%P
+He didn't stop there...%K%P
+0xACC
+ぐしゃぐしゃになった、タツタサンドの包みを……%K%P
+He took the mangled package and...%K%P
+0xAF4
+少年は思い切り、水面に叩きつけた！！%K%P
+Threw it with all of his might against the water on the ground.%K%P
+0xB00
+武「な、なっ！？」%K%P
+Takeshi「Wh-what!?」%K%P
+0xB0C
+武「なにやってんだよっ！　お前っ！！」%K%P
+Takeshi「What the hell are you doing!?」%K%P
+0xB20
+少年「…………」%K%P
+Kid「.........」%K%P
+0xB2C
+肩を細かく震わせながら、少年は顔をうつむけている。%K%P
+His shoulders trembling, the Kid kept his face down.%K%P
+0xB38
+そして搾り出すように、やっと言葉を口にする。%K%P
+He was finally able to drag out some words.%K%P
+0xB4C
+少年「嫌だ……」%K%P
+Kid「Sick...」%K%P
+0xB60
+少年「嫌なんだよ、もう……！！」%K%P
+Kid「I'm sick of it...!」%K%P
+0xB74
+少年「もう、たくさんだ！」%K%P
+Kid「That's all I can take!」%K%P
+0xB9C
+少年は足元の水を蹴る。%K%P
+The Kid kicked at the thin layer of water at his feet.%K%P
+0xBA8
+皆が一斉に、彼に注目した。%K%P
+Everyone looked at him at once.%K%P
+0xBB4
+少年「ぼくはもう嫌だ！」%K%P
+Kid「I can't stand it anymore!」%K%P
+0xBC0
+少年「タツタサンドなんか、食べたくないよ！」%K%P
+Kid「I don't want any more fried tuna sandwiches!」%K%P
+0xBCC
+少年「飽きたんだよっ！」%K%P
+Kid「I'm sick of them!」%K%P
+0xBD8
+少年「白いご飯が食べたいんだよぉっ！！」%K%P
+Kid「I want to eat something else!」%K%P
+0xBEC
+彼は叫んだ。%K%P
+He screamed.%K%P
+0xBF8
+その叫びに皆、ハッと息を呑んだ。%K%P
+Everyone's breath caught in their throats.%K%P
+0xC0C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xC18
+ココ「…………」%K%P
+Coco「.........」%K%P
+0xC34
+空「…………」%K%P
+Sora「.........」%K%P
+0xC40
+優「…………」%K%P
+You「.........」%K%P
+0xC54
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xC60
+ピピ「…………」%K%P
+Pipi「.........」%K%P
+0xC6C
+だが誰も、何も言い返すことができない。%K%P
+But nobody had anything to say in reply.%K%P
+0xC80
+少年「もう、嫌なんだ……」%K%P
+Kid「I'm sick...」%K%P
+0xC8C
+少年「ウンザリだ……」%K%P
+Kid「And tired...」%K%P
+0xC98
+少年「生きていて、それで、どうなるっていうんだ……」%K%P
+Kid「So what if we're still alive...」%K%P
+0xCA4
+少年「助かるって、誰が保証してくれるんだ？」%K%P
+Kid「There isn't any proof that anyone is going to save us!」%K%P
+0xCB0
+少年「こんなことしてて……」%K%P
+Kid「What we're doing here...」%K%P
+0xCC4
+少年「ずっと、こんなことしててさぁっ……！」%K%P
+Kid「Everything that we're doing here...」%K%P
+0xCD8
+少年「無意味だよ……」%K%P
+Kid「There's no point...」%K%P
+0xCE4
+少年「ぼく達が、ここにいることなんて、何も……意味がないんだ」%K%P
+Kid「There isn't any point to us being here.」%K%P
+0xCF0
+少年は震える握り拳を振り上げ……%K%P
+The Kid raised a shaking fist.%K%P
+0xCFC
+しかし、どこにもそのやり場がなく、拳を下ろす。%K%P
+But not finding any direction to launch it, he lowered it again.%K%P
+0xD18
+ココ「…………」%K%P
+Coco「.........」%K%P
+0xD24
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xD40
+空「…………」%K%P
+Sora「.........」%K%P
+0xD4C
+優「…………」%K%P
+You「.........」%K%P
+0xD60
+ピピ「……くぅ〜ん……」%K%P
+Pipi「...*whine*...」%K%P
+0xD6C
+皆、視線を合わせようとしない。%K%P
+Everyone tried to keep their eyes from meeting.%K%P
+0xD78
+目が合ってしまうのが、怖いと感じた……。%K%P
+It seemed like they were afraid of what they might see...%K%P
+0xD84
+顔を逸らした。%K%P
+They tried desperately to avert their gazes.%K%P
+0xD90
+全員がじっと動かない。%K%P
+Nobody moved.%K%P
+0xD9C
+唇を堅く、噛み締めていた。%K%P
+People pressed their lips firmly together and dared not speak.%K%P
+0xDA8
+武「ば……」%K%P
+Takeshi「St...」%K%P
+0xDB4
+武「ばっか野郎！！　無理言うな！」%K%P
+Takeshi「Stupid fool! What the hell are you talking about!?」%K%P
+0xDC0
+やっとの思いで顔をあげ、俺は叫んだ。%K%P
+Finally, I looked up, shouting.%K%P
+0xDCC
+武「できないこと言うんじゃねぇよ！」%K%P
+Takeshi「Don't ask for the impossible!」%K%P
+0xDD8
+武「わかってんだろーが！」%K%P
+Takeshi「Do you have any idea what you're asking!?」%K%P
+0xDE4
+武「このサンドと、上の売店の菓子しかまともな食い物はないって、お前だって知ってるだろ！」%K%P
+Takeshi「The only food we have to eat are these sandwiches and what's in the snack shop upstairs! You know that!」%K%P
+0xDF8
+少年「…………」%K%P
+Kid「.........」%K%P
+0xE04
+武「飽きただと！？」%K%P
+Takeshi「And you tell me you're 'sick' of it!?」%K%P
+0xE10
+武「それでもなぁ、食わなきゃならねーんだ！！」%K%P
+Takeshi「You still have to eat it!」%K%P
+0xE1C
+武「生きてく為にはっ！」%K%P
+Takeshi「It's the only way to survive!」%K%P
+0xE28
+武「そういうこと、もっと大事にしろよ！」%K%P
+Takeshi「So you'd better be thankful for it!」%K%P
+0xE3C
+少年「…………」%K%P
+Kid「.........」%K%P
+0xE48
+武「みんな我慢してるんだよ！」%K%P
+Takeshi「We're all putting up with it the best we can!」%K%P
+0xE54
+武「仲間なんだろ、お前だって」%K%P
+Takeshi「You're one of the gang, right?」%K%P
+0xE60
+武「もう少しわかれよ、協調性ってのをさ……」%K%P
+Takeshi「You should be a little more cooperative...」%K%P
+0xE6C
+武「みんな、我慢してるし」%K%P
+Takeshi「They're all being patient.」%K%P
+0xE78
+武「みんな、協力してるし」%K%P
+Takeshi「They're helping out.」%K%P
+0xE84
+武「嫌でも、食って、生きて……」%K%P
+Takeshi「Even if they don't like it, they eat, and they're surviving...」%K%P
+0xE90
+武「そうしなきゃ、終わりだ」%K%P
+Takeshi「If we don't... then we're finished!」%K%P
+0xE9C
+少年「…………」%K%P
+Kid「.........」%K%P
+0xEA8
+武「自覚、持てよ……」%K%P
+Takeshi「Wake up...」%K%P
+0xEB4
+武「みんなで、生き延びるんだよ……」%K%P
+Takeshi「We're all going to get through this together...」%K%P
+0xEC0
+武「生きてさえいりゃ、いいことだってあるに違いないんだ」%K%P
+Takeshi「As long as we're alive, there's still hope.」%K%P
+0xF2C
+ドオオォォォン！！%K%P
+BOOOOOoooom!%K%P
+0xF38
+突如、低い金属音が響いた。%K%P
+Suddenly, a low metallic sound reverberated throughout the complex.%K%P
+0xF44
+こもったような鈍い音だった。%K%P
+It was a dull, muffled sound.%K%P
+0xF6C
+フロアは少し揺れた。%K%P
+The floor shook slightly.%K%P
+0xF78
+皆、僅かによろけた身体を支え直す。%K%P
+Everyone staggered slightly and struggled to regain their balance.%K%P
+0xF84
+しかしそれ以上は、誰も動こうとしない。%K%P
+But nobody tried to do anything else.%K%P
+0xF98
+少年「……わかってる」%K%P
+Kid「...I know.」%K%P
+0xFAC
+少年「わかってるよ、武……そんなこと……」%K%P
+Kid「I know that, Takeshi... I know...」%K%P
+0xFB8
+少年「でも、だけどっ」%K%P
+Kid「But still.」%K%P
+0xFD4
+少年「わかってたって、どうすることもできないんだよぉっ！」%K%P
+Kid「Even though I know that, what can I do!?」%K%P
+0xFF0
+優「あぁっ……！？」%K%P
+You「Ahh...!」%K%P
+0x102C
+その刹那、優が手にしていたサンドを、少年がはたき落とした。%K%P
+Just then, the Kid knocked the sandwich out of You's hand.%K%P
+0x1038
+まだひと口も食べていない、田中専用スペシャル……。%K%P
+She hadn't even taken a bite out of her 'Tanaka Special'...%K%P
+0x1060
+それは、水面にぽちゃりと音を立て、それからゆっくりと沈んだ。%K%P
+It fell into the water with a splash and sank slowly.%K%P
+0x106C
+優「…………！！」%K%P
+You「...!」%K%P
+0x10B0
+武「てめえっ！　なにしやがるんだよっ！！」%K%P
+Takeshi「Bastard! What do you think you're doing!?」%K%P
+0x10BC
+俺は咄嗟に少年に掴みかかり、平手を振り上げた！%K%p
+I went over, grabbed onto the Kid, and raised my hand.%K%p
+0x3670
+少年を殴る
+Hit the Kid
+0x367C
+殴らない
+Don't hit him
+0x1104
+武「歯ぁ、食いしばっとけっ……！」%K%P
+Takeshi「You better brace yourself...!」%K%P
+0x1118
+少年「！」%K%P
+Kid「!」%K%P
+0x12F4
+――パシンッ！！%K%P
+―Whack!%K%P
+0x1300
+俺は、少年の頬をしたたかに打った。%K%P
+I struck the Kid hard on his cheek.%K%P
+0x1314
+少年「くっ……」%K%P
+Kid「Agh...」%K%P
+0x1320
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x132C
+痛かった。%K%P
+It hurt...%K%P
+0x1338
+きっと、痛かっただろう。%K%P
+It had to have hurt him.%K%P
+0x1344
+俺の手だって痛い。%K%P
+My hand even hurt.%K%P
+0x1350
+それ以上に、じくじくと胸の奥が痛んだ。%K%P
+But more than the pain in my hand, my heart hurt.%K%P
+0x135C
+掴んでいた襟首を離すと、少年はゆらりと後ずさった。%K%P
+I let go of the Kid's collar, and he backed away slowly.%K%P
+0x1368
+皆、黙ってそれを見ていた。%K%P
+Everyone watched us silently.%K%P
+0x1374
+少年「殴ったなぁ……」%K%P
+Kid「You hit me...」%K%P
+0x1380
+少年「痛いなぁっ……」%K%P
+Kid「It hurts...」%K%P
+0x138C
+少年「ううっ……」%K%P
+Kid「Aaghh...」%K%P
+0x1398
+少年「ちくしょう、ちくしょうっ……」%K%P
+Kid「Damn it, damn it...」%K%P
+0x13A4
+彼は目に涙を浮かべていた。%K%P
+Tears welled up in his eyes.%K%P
+0x13C8
+武「このっ……！！」%K%P
+Takeshi「You...!」%K%P
+0x13DC
+少年「！」%K%P
+Kid「!」%K%P
+0x13E8
+怯えるように、少年は身をすくめた。%K%P
+Cowed, the Kid froze.%K%P
+0x13FC
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1408
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1414
+俺は振り上げた手を引っ込める。%K%P
+I pulled back the hand that I had raised.%K%P
+0x1420
+バカバカしく思った……。%K%P
+It all felt so stupid...%K%P
+0x142C
+そして、哀れだった。%K%P
+And so terribly sad.%K%P
+0x1440
+少年は俺を見て、小さくなって震えていた。%K%P
+The Kid looked up at me, all hunched up and trembling.%K%P
+0x144C
+そんな奴を殴ろうとした俺自身も哀れだ。%K%P
+I was disappointed in myself for having tried to hit someone like him.%K%P
+0x1458
+じくじくと胸の奥が痛む。%K%P
+My heart ached with sadness.%K%P
+0x1464
+掴んでいた襟首を離すと、少年はゆらりと後ずさった。%K%P
+I let go of the Kid's collar, and he backed away slowly.%K%P
+0x1470
+皆、黙ってそれを見ていた。%K%P
+Everyone watched us silently.%K%P
+0x147C
+少年「ううっ……」%K%P
+Kid「Aaghh...」%K%P
+0x1488
+少年「ちくしょう、ちくしょうっ……」%K%P
+Kid「Damn it, damn it...」%K%P
+0x1494
+彼は目に涙を浮かべていた。%K%P
+Tears welled up in his eyes.%K%P
+0x14E8
+武「少年……」%K%P
+Takeshi「Kid...」%K%P
+0x14F4
+武「なぁ、頼むから……」%K%P
+Takeshi「Come on, I'm asking you...」%K%P
+0x1500
+武「顔をあげてくれ」%K%P
+Takeshi「Lift up your head.」%K%P
+0x150C
+元々、責める気なんてなかった。%K%P
+I hadn't wanted to blame him in the first place.%K%P
+0x1518
+俺は少年に向き直り、改めて手を差し出す。%K%P
+I turned around and held out my hand again.%K%P
+0x1524
+だが彼は目もくれなかった。%K%P
+But he wouldn't look me in the eyes.%K%P
+0x1538
+少年「武が、そんなこと言ったってさぁっ……」%K%P
+Kid「Takeshi, you can say that, but...」%K%P
+0x1544
+少年「ぼくは、武みたいに考えられないよ」%K%P
+Kid「I can't think like you.」%K%P
+0x1550
+少年「無理なものは、無理なんだよ」%K%P
+Kid「What's impossible is impossible!」%K%P
+0x155C
+少年「みんな、同じじゃないんだ」%K%P
+Kid「We're not all the same.」%K%P
+0x1570
+少年「ぼくには、無理だ……」%K%P
+Kid「I can't do it...」%K%P
+0x157C
+少年「そんなに強くないんだよ」%K%P
+Kid「I'm just not that strong.」%K%P
+0x1588
+少年「そんなに強くなれないよ……！」%K%P
+Kid「And I never will be...!」%K%P
+0x159C
+少年「生きてなんか、いられない」%K%P
+Kid「I can't go on living.」%K%P
+0x15A8
+少年「生きていられないんだよ……！」%K%P
+Kid「I don't want to go on living...!」%K%P
+0x15BC
+少年「だから、だったら…………」%K%P
+Kid「So then...」%K%P
+0x15C8
+少年「いっそのこと……っ」%K%P
+Kid「I should just...」%K%P
+0x15D4
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x15E0
+その先は言わせたくなかった。%K%P
+I didn't want to make him say the rest.%K%P
+0x15EC
+だけどもう、止められなかった。%K%P
+But I couldn't stop him.%K%P
+0x15F8
+少年がそれを言うことの辛さだって、わかっていたつもりだった。%K%P
+I knew how hard it would be for him to say.%K%P
+0x1604
+俺だって、そんなに強くなかったのだ。%K%P
+Even I wasn't that strong.%K%P
+0x1610
+皆、何も言えぬまま、少年の次の言葉を待つ……。%K%P
+Everyone waited for the Kid's next words in silence...%K%P
+0x161C
+恐らくそれは、禁句だった。%K%P
+They were probably unthinkable.%K%P
+0x1654
+空「倉成さん、もうやめてあげてください」%K%P
+Sora「Kuranari-san, stop it. Please.」%K%P
+0x1660
+優「！！」%K%P
+You「!」%K%P
+0x166C
+ココ「…………！？」%K%P
+Coco「...!?」%K%P
+0x1678
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1684
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1690
+空は静かに進み出て、俺と少年の間に割って入った。%K%P
+Sora walked silently forward and stood in between the Kid and me.%K%P
+0x16D4
+空「倉成さん、少年さんをそんなに責めないでください」%K%P
+Sora「Kuranari-san, please stop being so hard on him.」%K%P
+0x16E0
+武「違う……そんなつもりじゃない」%K%P
+Takeshi「No... I don't mean it that way.」%K%P
+0x16FC
+空「少年さんも、顔をあげてください」%K%P
+Sora「Kid-san, please look up at us.」%K%P
+0x1708
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1714
+空「やっぱり、ケンカは……いけないと思います、私」%K%P
+Sora「We can't fight... Not like this. It isn't right.」%K%P
+0x1720
+少し哀しげな目で、空は言った。%K%P
+Sora looked sad as she said that.%K%P
+0x172C
+武「空、これはただのケンカじゃないんだ」%K%P
+Takeshi「Sora, this isn't just any old fight.」%K%P
+0x1738
+武「仲違いしてるわけじゃないんだ、俺はただ、こいつに……」%K%P
+Takeshi「I'm not trying to shut him out, I just...」%K%P
+0x1744
+武「食うことの大切さを知って欲しかっただけだ」%K%P
+Takeshi「I wanted him to know how important it was to keep eating.」%K%P
+0x1750
+空「わかっています。ですけど……」%K%P
+Sora「I know that. However...」%K%P
+0x1764
+空「少年さんは、ほら、今はちょっと気が立ってるんですよ」%K%P
+Sora「See, Kid-san looks like he's already feeling a little better.」%K%P
+0x1770
+空は穏やかに、微笑を作りながら言った。%K%P
+Sora smiled slightly as she said that.%K%P
+0x177C
+空「だから、あんなことをつい、してしまっただけで……そうですよね？」%K%P
+Sora「He really didn't mean it... Okay?」%K%P
+0x1790
+少年「…………」%K%P
+Kid「.........」%K%P
+0x179C
+空「仕方なかったんです」%K%P
+Sora「Please forgive him?」%K%P
+0x17A8
+空「サンドはまた、作り直しましょうよ……？」%K%P
+Sora「Let's make another sandwich...?」%K%P
+0x17B4
+空「食料は幸い、まだ充分に確保されていますから」%K%P
+Sora「It is a good thing that there are still plenty of provisions left.」%K%P
+0x17C8
+武「違う！　そうじゃないっ！！」%K%P
+Takeshi「No! That's not what I'm talking about!」%K%P
+0x17D4
+俺は叫んでいた。%K%P
+I screamed.%K%P
+0x17E8
+空「！？」%K%P
+Sora「!」%K%P
+0x17F4
+驚いたように空は目を見開き、俺を見て後ずさりした。%K%P
+Sora stared back at me, eyes wide with surprise.%K%P
+0x1800
+武「そういう問題じゃないんだよ、空……！」%K%P
+Takeshi「It isn't about that, Sora...!」%K%P
+0x180C
+武「代わりがあればいいとか、そういうことじゃないんだ！！」%K%P
+Takeshi「It isn't about whether we have more or not!」%K%P
+0x1818
+武「違うんだよ……わからないか！？」%K%P
+Takeshi「It isn't... Can't you understand that!?」%K%P
+0x1824
+空「…………」%K%P
+Sora「.........」%K%P
+0x1838
+空「わ、わかります」%K%P
+Sora「I... I understand.」%K%P
+0x184C
+空「いえ、その……わかりません」%K%P
+Sora「No, I... don't understand.」%K%P
+0x1858
+武「なんだよ、はっきりしないな、空……？」%K%P
+Takeshi「Well, which one is it, Sora?」%K%P
+0x1864
+必要以上に語気を荒げてしまっていた。%K%P
+I had taken it all much further than necessary.%K%P
+0x1870
+俺自身に、歯止めが利かなかった。%K%P
+But I couldn't stop myself.%K%P
+0x187C
+武「わかるのか？　わからないのか？」%K%P
+Takeshi「Do you or don't you understand?」%K%P
+0x1888
+武「俺の言ってる意味、わかってるのか？」%K%P
+Takeshi「Do you understand what I mean?」%K%P
+0x1894
+武「俺がどうしてこんなことしたのか、本当にわかるか？」%K%P
+Takeshi「Do you really understand why I would do something like that?」%K%P
+0x18A0
+武「なんでこんなことがわからないんだ？」%K%P
+Takeshi「So you don't know why I did it?」%K%P
+0x18AC
+武「お前は優秀なＡＩのはずだろう？」%K%P
+Takeshi「You're a first-rate AI program, aren't you?」%K%P
+0x18C0
+空「く、倉成、さん……？」%K%P
+Sora「Ku-Kuranari-san...?」%K%P
+0x18CC
+空「あの……どうすれば、いいんですか……」%K%P
+Sora「What... do you want me to do...?」%K%P
+0x18E0
+空「私、私……っ」%K%P
+Sora「I... I...」%K%P
+0x18EC
+空は、おろおろとし始めた。%K%P
+Sora started to waver.%K%P
+0x1900
+空「私は……」%K%P
+Sora「I...」%K%P
+0x1914
+空「わかりません」%K%P
+Sora「I don't understand.」%K%P
+0x1920
+空「答えを知りません」%K%P
+Sora「I don't know the answer.」%K%P
+0x192C
+うつむいて、空は唇を噛む。%K%P
+Looking down, Sora bit her lip.%K%P
+0x1938
+武「そうか……」%K%P
+Takeshi「Oh...」%K%P
+0x1944
+武「食事がどんなに大切なことなのか……確かに、空には理解できないかもな」%K%P
+Takeshi「How important food is... I guess you couldn't understand that.」%K%P
+0x1950
+武「お前は俺達人間とは、違うんだから」%K%P
+Takeshi「Because you aren't human like we are.」%K%P
+0x195C
+空「…………」%K%P
+Sora「.........」%K%P
+0x1968
+武「なぁ、それより」%K%P
+Takeshi「Hey, forget it.」%K%P
+0x1974
+武「さっき、フロアが揺れたろ？　あれは何なんだ、空？」%K%P
+Takeshi「Besides, the floor just shook, right? What was that, Sora?」%K%P
+0x1980
+武「もしかして、ＬｅＭＵに何かあったのか？」%K%P
+Takeshi「Did something happen to LeMU?」%K%P
+0x198C
+空「…………」%K%P
+Sora「.........」%K%P
+0x1998
+武「どうしたんだよ……さっさと教えてくれよ」%K%P
+Takeshi「What happened...? Come on, tell us.」%K%P
+0x19A4
+武「それくらい、お前が調べれば、すぐわかるんだろ？」%K%P
+Takeshi「If you check, you should find out in no time, right?」%K%P
+0x19B0
+武「早くしろよ！　どうして答えてくれないんだ！？」%K%P
+Takeshi「Hurry up! Why won't you tell me what happened!?」%K%P
+0x1A04
+空「……！！」%K%P
+Sora「...!」%K%P
+0x1A10
+彼女が水を弾く足音を聞いた気がした。%K%P
+She thought she heard the sound of someone running in water.%K%P
+0x1A1C
+音のするはずなど、なかったのに。%K%P
+Sounds where there should have been none.%K%P
+0x1A30
+空は踵を返すと俺達から遠ざかり、部屋の出口から駆け去って行く。%K%P
+Sora kept her distance from us and ran out the exit of the room.%K%P
+0x1A6C
+武「空……！？」%K%P
+Takeshi「Sora...!?」%K%P
+0x1A78
+彼女の後ろ姿を見送っていると、つぐみが俺の目前に立った。%K%P
+After watching her run off, Tsugumi stood right in front of me.%K%P
+0x1A8C
+武「な……なんだよ？」%K%P
+Takeshi「Wh-what?」%K%P
+0x1A98
+つぐみは俺を睨みつけていた。%K%P
+Tsugumi was glaring at me.%K%P
+0x1AA4
+つぐみ「武……」%K%P
+Tsugumi「Takeshi...」%K%P
+0x1AB8
+つぐみ「あなたって、最低ね」%K%P
+Tsugumi「You are such a scumbag.」%K%P
+0x1AC4
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1AD8
+優が少年に駆け寄り、その肩を抱く。%K%P
+You went over to the Kid and hugged him around the shoulders.%K%P
+0x1AE4
+ココとピピは茫然と、皆のことを眺めていた。%K%P
+Coco and Pipi were staring at everyone, speechless.%K%P
+0x1B28
+居たたまれなくなって、俺は部屋を飛び出す。%K%P
+Feeling like I was no longer wanted, I fled from the room.%K%P
+0x1B34
+（なんだよ……）%K%P
+(What...)%K%P
+0x1B40
+（なんだってんだよっ……！）%K%P
+(What was that about...!?)%K%P
+0x1B4C
+（俺は……）%K%P
+(I'm...)%K%P
+0x1B58
+（間違っていない……）%K%P
+(I'm not wrong...)%K%P
+0x1B64
+（間違ってない……はずだ……）%K%P
+(I'm not wrong... Right?)%K%P
+0x1B70
+頭に血が上っていた。%K%P
+Blood rushed to my head.%K%P
+0x1B7C
+（くそっ……）%K%P
+(Damn it...)%K%P
+0x1B88
+自分でもわかっている。%K%P
+Even I could tell.%K%P
+0x1B94
+確かに少し言い過ぎたと思う……。%K%P
+I had said too much...%K%P
+0x1BA0
+けれど、一度口にしてしまった言葉は、簡単には取り消すことはできなかった。%K%P
+But once something had been said, it wasn't easy to take it back.%K%P
+0x1BB4
+通路の突き当たりで、立ち止まった。%K%P
+I stopped at the end of the corridor.%K%P
+0x1BC0
+『ＨＩＭＭＥＬ』%K%P
+'HIMMEL'.%K%P
+0x1BCC
+袋小路。どこにも行くことはできない。%K%P
+Dead end. Nowhere to go.%K%P
+0x1BD8
+そう言えば……この扉だけは、何故か開かないのだ。%K%P
+And thinking that... I realized that, for some reason, the door in front of me never seemed to open.%K%P
+0x1BE4
+皆でＬｅＭＵを探索していたときに、電子キーの解除を試みたがダメだった。%K%P
+When we'd searched around LeMU, we'd tried to open the electronic lock, but it hadn't budged.%K%P
+0x1BF0
+閉塞的な状況と相まって、この扉の存在が恨めしくさえ思えてくる。%K%P
+Thinking about being trapped there was enough to hate even the existence of that door.%K%P
+0x1BFC
+空「……さん……」%K%P
+Sora「...-san...」%K%P
+0x1C08
+背後から声が聞こえたので、俺は振り向いた。%K%P
+I heard a voice behind me and turned around.%K%P
+0x1C1C
+武「……え？」%K%P
+Takeshi「...Huh?」%K%P
+0x1C28
+通路の水密扉が、いつの間にか閉まっている。%K%P
+The corridor's watertight door had shut without me realizing.%K%P
+0x1C34
+そんな気配はなかったのに……。%K%P
+I hadn't even noticed...%K%P
+0x1C40
+空「倉成さん……」%K%P
+Sora「Kuranari-san...」%K%P
+0x1C4C
+空「こんなところにいらしたんですか」%K%P
+Sora「What are you doing here?」%K%P
+0x1C58
+空の姿は、見当たらない。%K%P
+Looking around, I couldn't see Sora anywhere.%K%P
+0x1C64
+武「……空？」%K%P
+Takeshi「...Sora?」%K%P
+0x1C70
+武「どこにいるんだよ、おい？」%K%P
+Takeshi「Hey, where are you?」%K%P
+0x1C7C
+辺りを見回す。%K%P
+I looked all around.%K%P
+0x1C88
+閉じた水密扉より手前に、脇道はなかった。%K%P
+There was no way out other than the watertight door.%K%P
+0x1C94
+彼女は物陰に隠れているわけではない。%K%P
+It wasn't as if she were hiding behind something.%K%P
+0x1CA8
+武「空……？」%K%P
+Takeshi「Sora...?」%K%P
+0x1CB4
+武「姿を見せてくれないか……？」%K%P
+Takeshi「You want to show me where you are...?」%K%P
+0x1CC0
+再び振り返ってみたが、彼女の姿は現れてくれなかった。%K%P
+I looked around again, but she was nowhere to be found.%K%P
+0x1CCC
+空「倉成さん？」%K%P
+Sora「Kuranari-san?」%K%P
+0x1CD8
+空「どこ見てるんですか？」%K%P
+Sora「Where are you looking?」%K%P
+0x1CE4
+やはり、声だけが聞こえる。%K%P
+I could only hear her voice.%K%P
+0x1CF0
+武「おいおい……」%K%P
+Takeshi「Hey, come on...」%K%P
+0x1CFC
+武「意地悪してないで、出てきてくれよ」%K%P
+Takeshi「Stop playing around and show yourself.」%K%P
+0x1D08
+空「私はここです」%K%P
+Sora「I'm right here.」%K%P
+0x1D14
+声は……。%K%P
+I heard her voice...%K%P
+0x1D20
+上から聞こえた。%K%P
+Right above me.%K%P
+0x1D2C
+俺は頭上を見上げる。%K%P
+I looked up.%K%P
+0x1D98
+ざあああああああああ…………っ。%K%P
+Fwwwaaaaaaaashhhh...%K%P
+0x1DA4
+天井から大量の水滴が降り注いだ。%K%P
+Massive amounts of water rained down from the ceiling.%K%P
+0x1DB0
+その飛沫は、俺を容赦なく濡らした。%K%P
+The drops poured down upon us mercilessly.%K%P
+0x1DBC
+武「……スプリンクラー？」%K%P
+Takeshi「...The sprinkler?」%K%P
+0x1DC8
+天井のパネルラインの隙間のノズルから、水が噴き出していた。%K%P
+Water was blowing out of nozzles in the crevice between panel lines on the ceiling.%K%P
+0x1E58
+水位はほんの僅かずつだが、上昇しつつあった。%K%P
+The water level was rising, a little at a time, but still noticeably.%K%P
+0x1E64
+両端を閉じられた通路からは、排水されていく気配がない。%K%P
+It didn't look like water was draining from either side of the corridor.%K%P
+0x1E70
+俺は水密扉に駆け寄って、激しく拳で叩いた。%K%P
+I ran over to the hatch and started pounding on it with my fist.%K%P
+0x1E7C
+空「倉成さん……」%K%P
+Sora「Kuranari-san...」%K%P
+0x1E88
+空「どうしたんですか？」%K%P
+Sora「What's wrong?」%K%P
+0x1E94
+空「何をやっているんです？」%K%P
+Sora「What are you doing?」%K%P
+0x1EA0
+武「扉を開けてくれ、空！」%K%P
+Takeshi「Open this door, Sora!」%K%P
+0x1EAC
+武「ここ以外に出口はないんだ。早く！」%K%P
+Takeshi「This is the only way out of here! Come on!」%K%P
+0x1EB8
+天井のパネルラインの隙間――%K%P
+TODO: 天井のパネルラインの隙間――%K%P
+0x1EC4
+スプリンクラーと並列に付けられた、たくさんの小型センサーが、一斉に、俺のことを見た。%K%P
+Suddenly, all of the sprinklers and the small sensors lined up next to them on the ceiling turned and pointed at me.%K%P
+0x1ED0
+空「どうかしたんですか？」%K%P
+Sora「What's wrong?」%K%P
+0x1EDC
+武「見ればわかるだろ？　この状況が！」%K%P
+Takeshi「Can't you tell? This situation is...!」%K%P
+0x1EE8
+空「…………？」%K%P
+Sora「...?」%K%P
+0x1EF4
+カメラはゆっくりと、俺を眺めた。%K%P
+The cameras slowly tracked me.%K%P
+0x1F00
+ミリ単位にも満たないセンサー・アイが、光を反射していた。%K%P
+The sensor eyes, probably not even a millimeter large, were flashing light.%K%P
+0x1F0C
+空「…………」%K%P
+Sora「.........」%K%P
+0x1F18
+空「どうかしたんですか？」%K%P
+Sora「What's wrong?」%K%P
+0x1F24
+武「お、おい、まさか……わからないのか、空？」%K%P
+Takeshi「Hey, come on... Don't tell me you don't understand, Sora?」%K%P
+0x1F30
+空はじっと、俺の様子を観察している……。%K%P
+Sora was observing the situation leisurely...%K%P
+0x1F3C
+空「どうか……したんですか？」%K%P
+Sora「Is... something wrong?」%K%P
+0x1F48
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1F54
+武「……だ」%K%P
+Takeshi「...Some...」%K%P
+0x1F60
+武「誰か来てくれ！　ここを開けてくれ！！」%K%P
+Takeshi「Somebody! Open this door, please!」%K%P
+0x1F6C
+がんがんと、ノックを繰り返したが、分厚い扉からは何も答えが返ってこない。%K%P
+I kept pounding on the door, but no answer came from the other side of the thick wall.%K%P
+0x1F78
+水密扉はレミが自動で閉めていて、開ける為のパネルがそこになかった。%K%P
+Looking around, I couldn't find one of the panels used to automatically open and close the watertight doors.%K%P
+0x1F8C
+スプリンクラーの勢いは衰えるどころか、より強さを増しているようだった。%K%P
+The sprinklers seemed to be even increasing their output, if that was possible.%K%P
+0x1F98
+水煙で辺りがよく見えない。%K%P
+It was hard to see anything because of the mist.%K%P
+0x1FA4
+武「空……」%K%P
+Takeshi「Sora...」%K%P
+0x1FB0
+武「いったい、どういうつもりだ……？」%K%P
+Takeshi「What are you doing...?」%K%P
+0x1FBC
+俺は微かに、戦慄を感じた。%K%P
+I felt a slight shiver run through me.%K%P
+0x1FC8
+空「私は……」%K%P
+Sora「I am...」%K%P
+0x1FD4
+空「所詮、私はプログラムです」%K%P
+Sora「I am only a program, after all.」%K%P
+0x1FE0
+淡々と、機械的な声が告げた。%K%P
+Her voice sounded more and more mechanical.%K%P
+0x1FEC
+空「予め想定された状況に単純な答えを返すだけの、プログラムです」%K%P
+Sora「A program that can only give answers based on assumed information.」%K%P
+0x1FF8
+空「ＲＳＤによって、人の形を映しているに過ぎないのです」%K%P
+Sora「I am only an RSD-generated image in human form.」%K%P
+0x2004
+武「…………！？」%K%P
+Takeshi「...!?」%K%P
+0x2010
+空「食事がどんなに大切なことなのか、私には理解できません」%K%P
+Sora「I cannot understand how important food is.」%K%P
+0x201C
+空「私は有機物を摂取する必要がありません」%K%P
+Sora「I have no need to consume organic matter.」%K%P
+0x2028
+空「生命を維持する為に食事をとることは、ありません」%K%P
+Sora「It is unnecessary for me to eat to continue life.」%K%P
+0x2034
+武「な、何言ってるんだよっ！」%K%P
+Takeshi「Wh-what are you talking about!?」%K%P
+0x2040
+武「空っ！！」%K%P
+Takeshi「Soraaa!!」%K%P
+0x204C
+武「やめてくれ！　スプリンクラーを止めろ！！」%K%P
+Takeshi「Stop it! Stop the sprinklers!」%K%P
+0x206C
+扉へ体当たりを食らわすが、びくともしない。%K%P
+I slammed my body against the door, but it didn't budge.%K%P
+0x20C4
+突如、目の前が霞んだ。%K%P
+Suddenly, everything grew dim.%K%P
+0x20D0
+急激に風景は揺らいでいく。%K%P
+Everything started to sway.%K%P
+0x20DC
+色は歪み、輪郭はどんどん曖昧になる。%K%P
+All colors became distorted, and outlines suddenly became vague.%K%P
+0x20E8
+もう何も見えなくなっていく。%K%P
+I couldn't see anything.%K%P
+0x2110
+空「違う……、違う……！」%K%P
+Sora「No... No...!」%K%P
+0x211C
+空「あなたは誰！？」%K%P
+Sora「Who are you!?」%K%P
+0x2128
+空「あなたは、私じゃない！！」%K%P
+Sora「You aren't me!」%K%P
+0x2134
+空……？%K%P
+(Sora...?)%K%P
+0x2140
+何を言っている……？%K%P
+(What are you saying...?)%K%P
+0x2180
+……………………。%K%P
+.........%K%P
+0x218C
+…………。%K%P
+......%K%P
+0x2198
+俺は恐る恐る目を開く。%K%P
+Terrified, I opened my eyes.%K%P
+0x21B8
+武「少年……つぐみを見てみろよ」%K%P
+Takeshi「Kid... look over at Tsugumi.」%K%P
+0x21C4
+武「あいつだって、一時は足がちぎれるかもしれないような大怪我したし、溺れそうになったこともあるし……」%K%P
+Takeshi「She injured her leg terribly and almost drowned...」%K%P
+0x21D0
+武「大手術も受けた……俺だったらそれだけで滅入っちまいそうだけど、それでもあいつは、めげずにやってんだよ」%K%P
+Takeshi「She had surgery... If it was me, I'd have probably died, but she pulled through it.」%K%P
+0x21DC
+俺はつぐみを指差した。%K%P
+I pointed at Tsugumi.%K%P
+0x21F0
+つぐみは黙ってじっと立っている。%K%P
+Tsugumi stood silently.%K%P
+0x21FC
+少年はおずおずと、視線を上げて見た。%K%P
+The Kid timidly raised his eyes to look at her.%K%P
+0x2210
+が、すぐに目を逸らす。%K%P
+But he soon stared at the floor again.%K%P
+0x2224
+少年「でも……」%K%P
+Kid「But...」%K%P
+0x2230
+少年「武が、そんなこと言ったってさぁっ……」%K%P
+Kid「Takeshi, you can say that, but...」%K%P
+0x2244
+少年「ぼくは、つぐみじゃないんだ……」%K%P
+Kid「I'm not Tsugumi...」%K%P
+0x2250
+少年「みんな、同じじゃないんだからっ」%K%P
+Kid「We're not all the same.」%K%P
+0x225C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x2268
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x227C
+少年「無理だよ」%K%P
+Kid「I can't do it.」%K%P
+0x2288
+少年「ぼくには、無理だ……」%K%P
+Kid「I can't do it...」%K%P
+0x229C
+少年「そんなに強くないんだよ」%K%P
+Kid「I'm just not that strong.」%K%P
+0x22A8
+少年「そんなに強くなれないよ……！」%K%P
+Kid「And I never will be...!」%K%P
+0x22BC
+少年「生きてなんか、いられない」%K%P
+Kid「I can't go on living.」%K%P
+0x22C8
+少年「生きていられないんだよ……！」%K%P
+Kid「I don't want to go on living...!」%K%P
+0x22DC
+少年「だから、だったら…………」%K%P
+Kid「So then...」%K%P
+0x22E8
+少年「いっそのこと……っ」%K%P
+Kid「I should just...」%K%P
+0x22F4
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x2300
+その先は言わせたくなかった。%K%P
+I didn't want to make him say the rest.%K%P
+0x230C
+だけど、もう止められなかった。%K%P
+But I couldn't stop him.%K%P
+0x2318
+少年がそれを言うことの辛さだって、わかっていたつもりだった。%K%P
+I knew how hard it would be for him to say.%K%P
+0x2324
+俺自身も、そんなに強くなかったのだ。%K%P
+Even I wasn't that strong.%K%P
+0x2330
+皆、何も言えぬまま、少年の次の言葉を待つ……。%K%P
+Everyone waited for the Kid's next words in silence...%K%P
+0x233C
+恐らくそれは、禁句だった。%K%P
+They were probably unthinkable.%K%P
+0x2374
+つぐみ「で、どうしたいの？」%K%P
+Tsugumi「So what do you want to do?」%K%P
+0x2380
+武「！？」%K%P
+Takeshi「!?」%K%P
+0x238C
+優「！！」%K%P
+You「!」%K%P
+0x2398
+空「？」%K%P
+Sora「?」%K%P
+0x23A4
+ココ「…………！？」%K%P
+Coco「...!?」%K%P
+0x23B0
+少年「……えっ！」%K%P
+Kid「...What!?」%K%P
+0x23F4
+つぐみ「どうしたいの……あなたは？」%K%P
+Tsugumi「What do you want to do... Kid?」%K%P
+0x2400
+つぐみは一歩前に出て、少年を見据える。%K%P
+Tsugumi took a step forward and stared at the Kid.%K%P
+0x240C
+感情のない、静かな瞳だった。%K%P
+Those eyes were unfeeling and quiet.%K%P
+0x2418
+つぐみ「ねぇ、教えてよ？」%K%P
+Tsugumi「Come on, you can tell me.」%K%P
+0x2424
+つぐみ「少年がどうしたいのか、知りたいわ……」%K%P
+Tsugumi「I want to know what you want to do...」%K%P
+0x2438
+静かに、一歩一歩、彼女は少年へと近づいていく。%K%P
+Softly, she approached the Kid one step at a time.%K%P
+0x2444
+他の者は驚いて動けない。声も発しなかった。%K%P
+Everyone was so caught off guard that they couldn't move. Couldn't say a word.%K%P
+0x2458
+少年「…………」%K%P
+Kid「.........」%K%P
+0x2464
+つぐみ「どうしたの？　言えないの？」%K%P
+Tsugumi「What? You can't say it?」%K%P
+0x2470
+少年「…………っ」%K%P
+Kid「.........」%K%P
+0x247C
+何か言い返そうとしたが、言葉にならなかった。%K%P
+He tried to say something, but no words would come out of his mouth.%K%P
+0x2488
+彼は後ずさることも忘れた。%K%P
+He had also forgotten how to back away.%K%P
+0x249C
+つぐみは少年に、そっと触れた。%K%P
+Tsugumi went up to the Kid and touched him.%K%P
+0x24B0
+つぐみ「生きていたくないの？」%K%P
+Tsugumi「You don't want to live?」%K%P
+0x24BC
+少年「……う……」%K%P
+Kid「...Ugh...」%K%P
+0x24C8
+少年は頷こうとして、でも、首を縦に振らなかった。%K%P
+The Kid tried to nod, but his head wouldn't budge.%K%P
+0x24DC
+つぐみ「じゃ、死んじゃいたいの？」%K%P
+Tsugumi「So, you want to die then?」%K%P
+0x24E8
+少年「……うう……」%K%P
+Kid「...Uuugh...」%K%P
+0x24F4
+少年はどちらにも、首を振れなかった。%K%P
+The Kid couldn't respond either.%K%P
+0x2508
+つぐみ「何か言ってよ、お願いだから……」%K%P
+Tsugumi「Say something, please...」%K%P
+0x2514
+つぐみ「私には、よくわかんないよ……？」%K%P
+Tsugumi「I don't know what you mean...」%K%P
+0x2528
+少年「…………」%K%P
+Kid「.........」%K%P
+0x2534
+淡々と、つぐみは少年に尋ねる。%K%P
+Tsugumi asked the Kid, her tone neutral.%K%P
+0x2548
+つぐみ「ねぇ、どっちなの……？」%K%P
+Tsugumi「So which is it...?」%K%P
+0x2554
+つぐみ「あなたは、死にたいの？」%K%P
+Tsugumi「Do you want to die?」%K%P
+0x2560
+つぐみ「あなたは、生きたいの？」%K%P
+Tsugumi「Do you want to live?」%K%P
+0x2574
+少年「……ううっ……」%K%P
+Kid「...Aaggh...」%K%P
+0x2588
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x2594
+つぐみ「そう……答えられないんだ？」%K%P
+Tsugumi「So... you can't answer?」%K%P
+0x25A0
+つぐみ「だったら……」%K%P
+Tsugumi「Well then...」%K%P
+0x25AC
+つぐみ「もう二度と……そんなこと言わないで」%K%P
+Tsugumi「Don't ever... say that again.」%K%P
+0x25C0
+つぐみ「ね？」%K%P
+Tsugumi「Okay?」%K%P
+0x25D4
+少年「あ……！！」%K%P
+Kid「Ah...!」%K%P
+0x25E8
+少年はその場で泣き崩れ、海水で満ちた床にしゃがみ込んだ。%K%P
+The Kid broke down in tears and fell to the submerged floor.%K%P
+0x25F4
+少年「あああ……」%K%P
+Kid「Aaaagh...」%K%P
+0x2600
+少年「ごめんなさい……」%K%P
+Kid「I'm sorry...」%K%P
+0x260C
+少年「ごめん、なさ……い……っ……」%K%P
+Kid「I'm so... sorryyy...」%K%P
+0x2620
+ハッと弾かれたように優が少年に駆け寄り、その肩を抱く。%K%P
+You, suddenly spurred into action, ran over to the Kid and wrapped her arms around his shoulders.%K%P
+0x263C
+空はうつむいて自分の顔を、手で覆った。震えている。%K%P
+Sora looked down and covered her face with her hands. She was trembling.%K%P
+0x2648
+ココとピピは茫然と、皆のことを眺めていた。%K%P
+Coco and Pipi were staring at everyone, speechless.%K%P
+0x265C
+武「つ、つぐみ……！？」%K%P
+Takeshi「Tsu-Tsugumi...!?」%K%P
+0x2668
+俺も何と言ったらいいかわからないまま、立ち尽くしていた。%K%P
+Not knowing what else to say, I just stood there.%K%P
+0x2674
+つぐみの顔を見た。%K%P
+I looked at her face.%K%P
+0x2688
+表情からは、彼女の考えがうまく読めない。%K%P
+But I couldn't read what she was thinking from her expression.%K%P
+0x26B0
+つぐみ「武……」%K%P
+Tsugumi「Takeshi...」%K%P
+0x26C4
+つぐみ「ちょっと、こっちに来て……」%K%P
+Tsugumi「Come here for a second...」%K%P
+0x26D0
+武「？」%K%P
+Takeshi「?」%K%P
+0x2700
+俺が戸惑っていると、突然、つぐみはこっちに走り寄って来る。%K%P
+Seeing that I was confused, Tsugumi ran over to me.%K%P
+0x2724
+彼女はうって変わり、眉をつり上げて俺をきつく睨んだ。%K%P
+Eyebrows raised, she glared at me strongly.%K%P
+0x2730
+なんだろう……？%K%P
+What was she thinking...?%K%P
+0x2774
+武「痛てっ！！」%K%P
+Takeshi「Ouch!」%K%P
+0x2780
+武「な、な、な、何すんだよっ……痛ーっ！」%K%P
+Takeshi「Wh-wh-wh-what are you doing...!? That hurts!」%K%P
+0x2794
+つぐみ「いいから、来なさい！」%K%P
+Tsugumi「Stop whining and get over here!」%K%P
+0x27A0
+つぐみ「さぁ、早く！」%K%P
+Tsugumi「Come on, hurry up!」%K%P
+0x27B4
+わけもわからず、俺は連行されて行く。%K%P
+Totally clueless, I followed along behind her.%K%P
+0x27C0
+つぐみは俺の耳をしっかりと摘まんで、引っ張っていた……。%K%P
+She had grabbed my ear and mercilessly tugged...%K%P
+0x27DC
+武「は、放せっ！　つぐみっ！」%K%P
+Takeshi「L-let me go! Tsugumi!」%K%P
+0x27E8
+武「なんでこんなことするんだよっ！　痛た……」%K%P
+Takeshi「Why are you doing this!? Ouch...」%K%P
+0x27FC
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x2808
+つぐみは無言で、がんがん先に歩いて進む。%K%P
+She wordlessly and doggedly moved forward.%K%P
+0x2814
+振り解けないまま、嫌でも引きずられて行く、俺。%K%P
+She kept a firm grip on me and kept pulling so that I couldn't get away.%K%P
+0x2860
+武「耳がもげるーっ！　取れちまうよーっ！」%K%P
+Takeshi「You'll rip my ear off! It's seriously going to come off!」%K%P
+0x286C
+武「ひいぃー、お代官様ぁー……」%K%P
+Takeshi「Aaaaaagh, officer...」%K%P
+0x2878
+武「とっても痛いですぅ。放してください。お願いしますぅ……」%K%P
+Takeshi「This is killing meeee. Let go of me. Pleeease...」%K%P
+0x2884
+つぐみ「…………」%K%P
+Tsugumi「..........」%K%P
+0x2890
+どんどん階段を上っていく。%K%P
+We kept climbing the stairs.%K%P
+0x289C
+どうしても放してくれないので、俺はやがて文句を言うのをやめた。%K%P
+She wouldn't let go no matter how I pleaded, so I finally shut up.%K%P
+0x28E4
+２階に着くと、ようやく俺の耳はつぐみの手から解放された。%K%P
+And when we finally made it to the second floor, she let go of my ear.%K%P
+0x28F0
+武「ふぅーーーーーーっ、助かったぁ……」%K%P
+Takeshi「Wheeeew... Thank heavens...」%K%P
+0x28FC
+武「て言うか、いきなりなにすんだよっ！！　コノヤローッ！！」%K%P
+Takeshi「I mean... What are you doing!? Are you crazy!?」%K%P
+0x2910
+つぐみ「うるさいわねぇ……」%K%P
+Tsugumi「Quit your bitching...」%K%P
+0x291C
+つぐみ「やっと黙ったと思ったのに……」%K%P
+Tsugumi「Just when I thought you'd FINALLY shut up...」%K%P
+0x2928
+つぐみは深く溜め息をつく。%K%P
+Tsugumi let out a big sigh.%K%P
+0x2934
+武「な、なんだよ、その顔は」%K%P
+Takeshi「Wh-what's that face supposed to mean!?」%K%P
+0x2948
+つぐみ「見てのとおり……」%K%P
+Tsugumi「Just what it looks like...」%K%P
+0x2954
+つぐみ「ガッカリしてるのよ、あなたに」%K%P
+Tsugumi「I'm so disappointed in you.」%K%P
+0x2960
+眉をしかめて俺を見る。%K%P
+She furrowed her brow and looked at me.%K%P
+0x296C
+鼻の付け根を手で軽く押さえて、首を振った。%K%P
+She pinched the bridge of her nose and shook her head.%K%P
+0x2978
+確かに、呆れ返っているようだった。%K%P
+She looked completely fed up.%K%P
+0x298C
+それからくるりと背を向け、つぐみは俺から離れて歩き出す。%K%P
+Tsugumi turned, and she started walking away from me.%K%P
+0x2998
+武「お、おい！　ちょっと待てよ！」%K%P
+Takeshi「H-hey! Wait a second!」%K%P
+0x29C8
+武「なんでだ？」%K%P
+Takeshi「Why?」%K%P
+0x29D4
+武「どうしてだよ！？　俺がお前に何かしたのか？」%K%P
+Takeshi「What's with you!? Did I do something to you?」%K%P
+0x29E0
+慌てて後に追いつき、俺は言い募った。%K%P
+I hurried over to her and insisted that she answer me.%K%P
+0x29F4
+つぐみ「違う……」%K%P
+Tsugumi「No...」%K%P
+0x2A08
+つぐみ「違う、違う……あなたはまるでわかってない」%K%P
+Tsugumi「No, it's not like that... You don't understand anything.」%K%P
+0x2A1C
+つぐみは肩を怒らせながら、歩みを速めて行く。%K%P
+And throwing back her shoulders, she picked up her pace.%K%P
+0x2A28
+武「何がだよ？」%K%P
+Takeshi「What don't I understand?」%K%P
+0x2A34
+武「いや、その……」%K%P
+Takeshi「I mean... er...」%K%P
+0x2A40
+武「さっき、あの場の収拾をつけられなくって……お前のひと言がなければ、どうなってたかわからなかった」%K%P
+Takeshi「Things were getting out of hand back there... If you hadn't said something, I don't know how it would have turned out.」%K%P
+0x2A4C
+武「それは感謝してる。マジで……すまん。それに、サンキュー……」%K%P
+Takeshi「I'm glad you did. I'm... really sorry. And thanks...」%K%P
+0x2A60
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x2A7C
+武「おい、待てって！　つぐみ……！」%K%P
+Takeshi「Hey, wait! Tsugumi...!」%K%P
+0x2A88
+俺は追いすがりつつ叫んだ。%K%P
+I kept yelling as I chased after her.%K%P
+0x2A94
+武「今の状況、お前にだってわかってるはずだろ？　なんでこんな……」%K%P
+Takeshi「You of all people know how serious this situation is, right? So how come you're...」%K%P
+0x2AA0
+武「いや、そうじゃない……」%K%P
+Takeshi「No, that's not it...」%K%P
+0x2AAC
+武「そうじゃなくて……そうじゃないんだ！」%K%P
+Takeshi「That's not it... That's not it!」%K%P
+0x2AB8
+武「お前は俺に、腹を立ててるんだろ？」%K%P
+Takeshi「You're angry at ME, right?」%K%P
+0x2AC4
+武「どうしてそんなに怒ってるのか……教えてくれよ！」%K%P
+Takeshi「Why are you so mad...? Please tell me!」%K%P
+0x2AD8
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x2AE4
+クヴァレの入り口で、つぐみは立ち止まった。%K%P
+Tsugumi stopped at the entrance to Qualle.%K%P
+0x2AF0
+つぐみ「ええ、わかったわ……」%K%P
+Tsugumi「Okay, I will...」%K%P
+0x2B04
+つぐみ「くだらない質問だけど、答えてあげる」%K%P
+Tsugumi「It's a stupid question, but I'll answer it for you anyway.」%K%P
+0x2B10
+武「あ、ああ……」%K%P
+Takeshi「O-okay...」%K%P
+0x2B24
+唐突につぐみは、微笑んで俺を見た。%K%P
+All of a sudden, Tsugumi smiled at me.%K%P
+0x2B30
+俺は少し怯んだ。%K%P
+I flinched.%K%P
+0x2B3C
+つぐみ「あなた、さっき自分でなんて言ったか覚えてる？」%K%P
+Tsugumi「Do you remember what you said earlier?」%K%P
+0x2B48
+武「俺か？　俺は……えーと」%K%P
+Takeshi「Me? I... Let's see...」%K%P
+0x2B54
+武「……頭に血が上ってたからな……あまり細かくは……」%K%P
+Takeshi「...I was fairly angry... so I really don't remember that well...」%K%P
+0x2B60
+武「それに時々、支離滅裂になってたかもしれないし……」%K%P
+Takeshi「And might not have been all 'there' at the time...」%K%P
+0x2B6C
+武「で、でもなぁっ！」%K%P
+Takeshi「B-but you know!」%K%P
+0x2B78
+武「俺は少年に、間違ったことを言ったとは思ってない！」%K%P
+Takeshi「I really don't think I said anything wrong to the Kid!」%K%P
+0x2B84
+武「それは、確かだ……」%K%P
+Takeshi「And I'm sure about that...」%K%P
+0x2B98
+つぐみ「そう……」%K%P
+Tsugumi「Yeah...」%K%P
+0x2BAC
+つぐみ「間違っては、なかったみたいね」%K%P
+Tsugumi「I guess it looks like you weren't wrong.」%K%P
+0x2BC0
+つぐみ「だからよ……」%K%P
+Tsugumi「That's why...」%K%P
+0x2BD4
+つぐみ「だから怒ってるの」%K%P
+Tsugumi「That's why I'm mad.」%K%P
+0x2C38
+つぐみはクラゲゴンドラに飛び乗る。%K%P
+Tsugumi jumped onto the Jellyfish Gondola.%K%P
+0x2C60
+俺もすぐ後に続いて、扉を閉めた。%K%P
+I got on soon after her and closed the door.%K%P
+0x2C6C
+ゴンドラは海中のチューブへと躍り出る。%K%P
+The gondola zipped into the tube and out into the ocean.%K%P

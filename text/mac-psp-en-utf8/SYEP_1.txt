@@ -1,0 +1,618 @@
+text area offset and size:
+0xE40
+0x1FEC
+0x7C
+それから、２年後……。%K%P
+Two years later...%K%P
+0x114
+優「う〜ん、いいお天気ぃ〜♪」%K%P
+You「Wow, this is great weather・」%K%P
+0x120
+ぼくと優は船に揺られていた。%K%P
+You and I were riding on a boat.%K%P
+0x12C
+視界は、見渡す限り紺碧の海原……。%K%P
+The infinitely deep, blue ocean spread as far as we could see.%K%P
+0x138
+上空には抜けるような青空が広がっている。%K%P
+A clear blue sky unfolded above us.%K%P
+0x144
+そこには、対になって飛ぶ２羽のカモメの姿があった。%K%P
+There was a pair of seagulls flying overhead.%K%P
+0x150
+海風は少し強く、優は片手で髪を押さえている。%K%P
+The sea breeze whipped at us a little strongly, and You used her hand to hold her hair in check.%K%P
+0x15C
+優は最近になって、少しずつ髪を伸ばし始めていた。%K%P
+She had recently started to grow her hair out.%K%P
+0x168
+なんとなくだけど、『あの人』に似てきたのかもしれない。%K%P
+It seemed that she was starting to look more like 'her'.%K%P
+0x174
+それから……ちょっぴり、素直で女らしくなってきたようにも……。%K%P
+That, and... she seemed to have become a bit more easygoing and ladylike...%K%P
+0x180
+優「ところで、大学の方はどう？」%K%P
+You「So how is college going?」%K%P
+0x18C
+少年「ぼちぼちかな？」%K%P
+Kid「It's alright, I guess.」%K%P
+0x198
+そう。ぼくは今年、めでたく大学に進学した。%K%P
+Yes. I had somehow gotten into college and was in my first year.%K%P
+0x1A4
+もちろん、優とは違う大学だから、キャンパスで会う機会はないけれど。%K%P
+Of course, I was going to a different school than You, so we never had a chance to meet on campus.%K%P
+0x1B0
+優「なんで考古学なんか専攻しようと思ったの？」%K%P
+You「Why on earth did you decide to major in archaeology?」%K%P
+0x1BC
+少年「知りたいの？」%K%P
+Kid「You really want to know?」%K%P
+0x1C8
+優「知りたいから訊いたんですけど」%K%P
+You「That's why I'm asking.」%K%P
+0x1D4
+少年「でも、聞かない方がいいかもしれないよ？」%K%P
+Kid「You know, it might be better if you didn't ask.」%K%P
+0x1E0
+優「え？」%K%P
+You「Huh?」%K%P
+0x1EC
+少年「それでも聞きたい？」%K%P
+Kid「You still sure you want to know?」%K%P
+0x1F8
+優「う、う〜ん……」%K%P
+You「W-well...」%K%P
+0x204
+優「んじゃ、訊かない」%K%P
+You「Then I won't ask.」%K%P
+0x210
+少年「うん、わかった、言わない」%K%P
+Kid「Alright. I won't tell.」%K%P
+0x21C
+優「は？」%K%P
+You「Huh?」%K%P
+0x228
+優「なんでよ！　言いなさいよ！」%K%P
+You「Why? Tell me!」%K%P
+0x234
+少年「だって……『訊かない』って言ったじゃないか」%K%P
+Kid「But... you just said you weren't going to ask.」%K%P
+0x240
+優「それは、少年が『聞かない方がいい』って言ったから……」%K%P
+You「That's because you said I probably shouldn't...」%K%P
+0x24C
+少年「ややこしいな……」%K%P
+Kid「This is too confusing...」%K%P
+0x258
+優「ややこしくしたのは、そっちでしょ？」%K%P
+You「You're the one who made this conversation confusing.」%K%P
+0x264
+優「まあいいや、とにかく聞いてあげよう」%K%P
+You「Anyway, I guess I'll listen to your reasoning.」%K%P
+0x270
+やっぱり、前言撤回。%K%P
+There she went changing her mind again.%K%P
+0x27C
+少年「ヒネくれてるよなぁ」%K%P
+Kid「You can really be twisted sometimes.」%K%P
+0x288
+優「純情って言ってよぉ！」%K%P
+You「Come on, say I'm pure at heart!」%K%P
+0x294
+少年「なーにが純情だよ。優が純情なら、ぼくなんかっ」%K%P
+Kid「What are you talking about? If you were pure, then I'd be...」%K%P
+0x2A0
+少年「…………」%K%P
+Kid「.........」%K%P
+0x2AC
+優「ん〜？　『ぼくなんか』……なんなのかな？　真性純情少年くん？」%K%P
+You「Huh? You would be... what? Then you'd be 'the pure-hearted Kid'?」%K%P
+0x2B8
+少年「よ……よしてよ」%K%P
+Kid「Hey... Stop it.」%K%P
+0x2C4
+少年「ぼくはもう、あの時のぼくじゃ……」%K%P
+Kid「I've changed since then...」%K%P
+0x2D0
+だがそこから先、ぼくは言うのをためらう。%K%P
+But after that, I was reluctant to speak.%K%P
+0x2DC
+今のぼくは、あの時のぼくと、違うのだろうか。%K%P
+I wondered if I really was different from the person I was at that time.%K%P
+0x2E8
+……違うのかもしれない。%K%P
+...I probably was.%K%P
+0x2F4
+あれからぼくの身に、不可解な現象は起きなくなった。%K%P
+Since then, no inexplicable, mysterious things had happened to me.%K%P
+0x300
+予知もできなくなった。%K%P
+I couldn't predict things anymore.%K%P
+0x30C
+失われた記憶も取り戻せた。%K%P
+I had gotten my memory back.%K%P
+0x318
+……あるいは、同じなのかもしれない。%K%P
+...Or maybe... Maybe I was the same.%K%P
+0x324
+ぼくは相変わらずの、ぼくだった。%K%P
+Maybe I was the same as ever.%K%P
+0x330
+人は、ものを知り、傷つき、失いながら……変わりながら、生きていく。%K%P
+I knew that people learned, got hurt, and lost things... and that they changed as they lived life.%K%P
+0x33C
+けれど、ぼくの本質そのものは変わらない。%K%P
+But my basic nature hadn't changed.%K%P
+0x348
+変わるものと、変わらないもの。%K%P
+Some things changed. Some things never did.%K%P
+0x354
+ぼくは、ぼくであり……けれど過去のぼくは、別のぼくで……。%K%P
+I was still 'me'... but myself in the past was different...%K%P
+0x360
+例えるなら、『別の世界のぼく』みたいなもので……。%K%P
+If I had to explain it, I might say that it was like 'me in another world'...%K%P
+0x36C
+つまりは、そういうことなのかもしれない。%K%P
+Maybe that was it.%K%P
+0x378
+優「そうだね。もう、あの時のきみじゃないかもね？」%K%P
+You「You're right. You're not like you used to be.」%K%P
+0x384
+少年「？」%K%P
+Kid「?」%K%P
+0x390
+優「だって、こ〜んなに背も伸びたしね〜」%K%P
+You「Well, for one thing you got so tall・」%K%P
+0x39C
+つま先立ちになって、ぼくの頭の上に手の平をかざした。%K%P
+She stood on her tiptoes and raised her hand over my head.%K%P
+0x3A8
+ぼくはこの２年で、頭一つぶんくらい、背が伸びたのだ。%K%P
+I had grown a head taller over the previous two years.%K%P
+0x3B4
+優「さて、と。それじゃ聞かせてもらいましょうか？」%K%P
+You「So are you going to tell me or not?」%K%P
+0x3C0
+少年「え？」%K%P
+Kid「What?」%K%P
+0x3CC
+優「考古学を専攻した理由」%K%P
+You「About the reason you majored in archaeology.」%K%P
+0x3D8
+少年「ああ、うん……それはね？」%K%P
+Kid「Alright... It's because...」%K%P
+0x3E4
+少年「もっと、自分を知るためさ」%K%P
+Kid「I want to know myself better.」%K%P
+0x3F0
+優「自分を知る？」%K%P
+You「To know yourself?」%K%P
+0x3FC
+少年「うん」%K%P
+Kid「Yes.」%K%P
+0x408
+少年「あの時のぼくを知るため……」%K%P
+Kid「To know more about myself at that time...」%K%P
+0x414
+少年「あの時、ぼくの身に起きていた不可解な事象を理解するためには、優と同じ考古学を学ぶのが一番だと思ったんだ」%K%P
+Kid「At that time, I thought that it would be best to major in archaeology, the same as you, to better understand the weird stuff that was happening to me.」%K%P
+0x420
+優「まさか……きみ……」%K%P
+You「You're not going to...」%K%P
+0x42C
+優「第３視点を、研究するつもり？」%K%P
+You「Study the third eye?」%K%P
+0x438
+少年「そうだよ」%K%P
+Kid「I sure am.」%K%P
+0x444
+優「………………」%K%P
+You「............」%K%P
+0x450
+少年「ほら、呆れた」%K%P
+Kid「I told you...」%K%P
+0x45C
+少年「聞かなかった方が良かったでしょ？」%K%P
+Kid「It was probably better that you don't ask.」%K%P
+0x468
+優「きみって子は、相変わらずと言うか、なんと言うか……」%K%P
+You「You haven't changed... A bit, I mean...」%K%P
+0x474
+優「やっぱり……何も変わってないよ」%K%P
+You「Nope... You haven't changed at all.」%K%P
+0x480
+少年「……優もね」%K%P
+Kid「Neither have you.」%K%P
+0x48C
+少年「あ、そういえばさ、その服……」%K%P
+Kid「That reminds me. Your clothes are...」%K%P
+0x498
+優「ん？」%K%P
+You「Huh?」%K%P
+0x4A4
+少年「あの時の服だよね」%K%P
+Kid「The same ones you wore then, right?」%K%P
+0x4B0
+優「うん……まあね」%K%P
+You「Yeah... You're right.」%K%P
+0x4BC
+優の上着の裾には、うっすらと黒いシミが残っている。%K%P
+There was a thin black stain on the hem of her jacket that had remained.%K%P
+0x4C8
+思い出のシミ。%K%P
+It was a memorable stain.%K%P
+0x4D4
+思い出の……。%K%P
+Our memory...%K%P
+0x4E0
+ぼくは海を見つめながら考え始めた。%K%P
+I started to think as I gazed at the ocean.%K%P
+0x4EC
+優と出逢ったときのことを……。%K%P
+I thought about the time when I met You.%K%P
+0x4F8
+忘れることのできない、７日間の日々を……。%K%P
+About those unforgettable seven days...%K%P
+0x504
+そうだ、あのあとのことを少しだけ話そうと思う。%K%P
+But I should talk about the things that happened after that.%K%P
+0x510
+あのあと…………%K%P
+After that...%K%P
+0x574
+しばらくの間、ぼくらは浮島の上で、太陽の匂いをかいでいた。%K%P
+For some time, we just stood there enjoying the sunshine on the floating island.%K%P
+0x580
+久しぶりに見る太陽はとても眩しく、陽射しはぽかぽかと暖かかった。%K%P
+The sun looked extremely bright after a week without it. Its rays were warm.%K%P
+0x58C
+そんな時だ。%K%P
+At that moment...%K%P
+0x598
+誰かに、ポンポンと肩を『叩かれ』た。%K%P
+Someone patted me on the shoulder.%K%P
+0x5A4
+振り向くと……%K%P
+I turned back and...%K%P
+0x5B0
+そこには……%K%P
+There was...%K%P
+0x5C4
+空「おはようございます」%K%P
+Sora「Good morning.」%K%P
+0x5F8
+少年「――そ、そ、そ、空！？」%K%P
+Kid「...So-So-So-Sora!?」%K%P
+0x604
+空「近いうちに必ず会えるって、約束しましたよね？」%K%P
+Sora「I promised you that I would see you again soon, didn't I?」%K%P
+0x610
+少年「で、で、で、でも……どうして、ここに！？」%K%P
+Kid「Bu-but... why are you here?」%K%P
+0x624
+空「御迷惑でした？」%K%P
+Sora「Am I bothering you?」%K%P
+0x630
+優「そんなことないよ！　また会えて、嬉しい」%K%P
+You「No, not all! I'm glad to see you again.」%K%P
+0x644
+それを聞いて、空は緩やかに目尻を落とした。%K%P
+Hearing that, Sora smiled gently.%K%P
+0x650
+ぼくらは、空と再会の『握手』を交わす。%K%P
+I exchanged a handshake with Sora when I met her again.%K%P
+0x664
+頭上の空を眺めた。%K%P
+I looked up at the sky above.%K%P
+0x670
+透き通った青空が、どこまでもどこまでも、広がっていた。%K%P
+The clear blue sky seemed to spread on forever.%K%P
+0x67C
+空「田中先生がお待ちになってます」%K%P
+Sora「Doctor Tanaka is waiting for you.」%K%P
+0x688
+空「どうぞ、こちらへ……」%K%P
+Sora「Please come this way...」%K%P
+0x6F8
+少年「あ、あなたは……！」%K%P
+Kid「Oh, you're...!」%K%P
+0x704
+ぼくらの目の前に現れた『田中先生』なる人物は、あのディスプレイの女性……%K%P
+The person called 'Doctor Tanaka' who appeared in front of us was the woman I'd seen on the monitor...%K%P
+0x710
+ようするに、優の母親を名乗っていた、その人だった。%K%P
+It was the person who had claimed to be You's mother.%K%P
+0x71C
+優「お、お母さん……」%K%P
+You「M-mother...」%K%P
+0x728
+田中先生「優……よく無事で……」%K%P
+Doctor Tanaka「You... I'm so happy you're alive...」%K%P
+0x734
+優「どうして……？」%K%P
+You「Why are you...?」%K%P
+0x740
+田中先生「約束したでしょ？　浮島にあがってきたら、すべて教えるって」%K%P
+Doctor Tanaka「I promised that I would tell you everything when you got to the floating island, right?」%K%P
+0x74C
+優「………………」%K%P
+You「...............」%K%P
+0x758
+田中先生「久しぶりね……」%K%P
+Doctor Tanaka「It's been a long time...」%K%P
+0x764
+少年「え？」%K%P
+Kid「What?」%K%P
+0x770
+今のは、ぼくに言ったのだろうか？%K%P
+I wondered if she was talking to me.%K%P
+0x77C
+でも、彼女と会うのはこれで初めてだと思うのだが……。%K%P
+It seemed like it was the first time that I'd met her...%K%P
+0x788
+それとも、ぼくは過去にこの人と……？%K%P
+Or had I met her in the past...?%K%P
+0x794
+田中先生「どうしたの？　聞きたいこと、あるんじゃないの？」%K%P
+Doctor Tanaka「What's wrong? Is there something that you would like to ask?」%K%P
+0x7A0
+少年「そ、そうだよ！　聞きたいことなんか、山ほどあるよ！」%K%P
+Kid「Y-yes! I have tons of things I want to ask.」%K%P
+0x7AC
+田中先生「ええ、ひとつ残らず全部話すつもりですから、ご心配なく」%K%P
+Doctor Tanaka「Fine. Don't worry, I'll tell you everything.」%K%P
+0x7B8
+少年「そ、そうだな……ま、まずはっ」%K%P
+Kid「Alright then... F-first, I want to...」%K%P
+0x7C4
+優「ちょっと待って！」%K%P
+You「Hold on!」%K%P
+0x7D0
+優「ちょっと……待ってよ」%K%P
+You「Wait just a minute...」%K%P
+0x7DC
+少年「……優？」%K%P
+Kid「...You?」%K%P
+0x7E8
+優「まず何よりも先に、確かめたいことがあるの」%K%P
+You「First, there's something I have to ask.」%K%P
+0x7F4
+優「いいかしら？」%K%P
+You「Is that alright?」%K%P
+0x800
+田中先生「どうぞ」%K%P
+Doctor Tanaka「Go ahead.」%K%P
+0x80C
+優「…………」%K%P
+You「.........」%K%P
+0x818
+優「あなたは……私の本当のお母さんじゃないと言った」%K%P
+You「You said... that you're not my real mother.」%K%P
+0x824
+優「それでも私は、あなたの子供なのだ、とも言った」%K%P
+You「You also said that I was your child.」%K%P
+0x830
+田中先生「…………」%K%P
+Doctor Tanaka「.........」%K%P
+0x83C
+優「私が訊きたいのは、ただひとつ」%K%P
+You「There's only one thing I want to ask.」%K%P
+0x848
+優「あなたは……私の『お母さん』なの？」%K%P
+You「Are you... my real 'mother'?」%K%P
+0x85C
+田中先生「……………………」%K%P
+Doctor Tanaka「...............」%K%P
+0x868
+顔を伏せる田中先生。%K%P
+Doctor Tanaka looked down.%K%P
+0x874
+悲しそうに口元を歪ませている。%K%P
+She twisted her lips sadly.%K%P
+0x880
+優「どうなの？」%K%P
+You「Which is it?」%K%P
+0x88C
+なぜ、そんなことを優は訊くのだろうか？%K%P
+I wondered why You would ask such a thing.%K%P
+0x898
+答えなど、とうにわかっているはずなのに……。%K%P
+She should've already known the answer...%K%P
+0x8A4
+田中先生「．．．Ｉ⑳ａｍ⑳ＹＯＵ．．．」%K%P
+Doctor Tanaka「...<I am You>...」%K%P
+0x8B0
+優「……え？」%K%P
+You「...Huh?」%K%P
+0x8C4
+田中先生「今なら、間違いなく言えるわ……」%K%P
+Doctor Tanaka「I can say this for certain now...」%K%P
+0x8D0
+田中先生「私は……あなたの……」%K%P
+Doctor Tanaka「I am... your...」%K%P
+0x8DC
+田中先生「『母親』よ……優……」%K%P
+Doctor Tanaka「'Mother'... You...」%K%P
+0x8E8
+優の目をしっかり見定めながら、彼女は言った。%K%P
+She stared You in the eye as she said that.%K%P
+0x8F4
+優「……お母さん……」%K%P
+You「...Mother...」%K%P
+0x900
+…………………………。%K%P
+..................%K%P
+0x950
+やがてぼくらは、田中先生に、次から次へと質問をぶつけた。%K%O
+After a while, we asked Doctor Tanaka question after question.%K%O
+0x968
+――ぼくらはどうして閉じ込められたのか？%K%N
+...How did we get trapped?%K%N
+0x974
+――事故だったのか？　そうじゃないのか？%K%N
+...Was it an accident or not?%K%N
+0x980
+――ぼくはどうして予知ができたのか？%K%N
+...Why could I predict things?%K%N
+0x98C
+――記憶を失ってしまったのは、なぜなのか？%K%N
+...Why did I lose my memory?%K%N
+0x998
+――ぼくの過去には、いったい何があったのか？%K%N
+...What had happened in my past?%K%N
+0x9A4
+――幻の少女は実在するのか？　その正体は？%K%N
+...Did the girl I'd seen really exist? Who was she?%K%N
+0x9B0
+――優の過去にはなにがあったのか？%K%O
+...What had happened in You's past?%K%O
+0x9C8
+――優の父親と母親は本当に死んでしまったのか？%K%N
+...Did You's father and mother really die?%K%N
+0x9D4
+――ならば、あなた……『田中先生』は何者なのか？%K%N
+...If so, then who was she... 'Doctor Tanaka'?%K%N
+0x9E0
+――あの俳句のパスワードに込められた意味は何なのか？%K%N
+...What was the meaning of the haiku password?%K%N
+0x9EC
+――ブリック・ヴィンケルとは何なのか？%K%N
+...What was Blick Winkel?%K%N
+0x9F8
+――ＴＢウイルスと事故の繋がりは？%K%N
+...What was the connection between the TB virus and the accident?%K%N
+0xA04
+そして……%K%O
+And...%K%O
+0xA1C
+『第３視点』とは何なのか？%K%N
+What was 'the third eye'?%K%N
+0xA28
+………………。%K%N
+.........%K%N
+0xA34
+…………。%K%N
+......%K%N
+0xA40
+……。%K%O
+...%K%O
+0xA58
+%N
+
+0xA64
+%LCそれは、とてもとても、長い話だった。%K%O
+%LCIt was a long, long story.%K%O
+0xB10
+優「また、あの時のこと考えてるんでしょ？」%K%P
+You「You're thinking about the things that happened then, aren't you?」%K%P
+0xB1C
+少年「ん？　うん……」%K%P
+Kid「Huh? Yeah...」%K%P
+0xB28
+少年「ねえ？　優？」%K%P
+Kid「Hey, You?」%K%P
+0xB34
+少年「『水の流れと人の身』ってコトワザ、知ってる？」%K%P
+Kid「Do you know the proverb 'Water flows and people live'?」%K%P
+0xB40
+優「？」%K%P
+You「?」%K%P
+0xB4C
+少年「水は高い所から低い所に向かって流れて行く……」%K%P
+Kid「Water flows from high to lower places...」%K%P
+0xB58
+少年「けれど、その道すじには無限の可能性があるんだ」%K%P
+Kid「But the flow, its path has an infinite number of possibilities.」%K%P
+0xB64
+少年「人の身……つまり人生も、水の流れと同じように無限の可能性を秘めている」%K%P
+Kid「People live... Just like water, there are infinite ways for life to flow.」%K%P
+0xB70
+少年「そういう意味なんだって」%K%P
+Kid「That's what it means.」%K%P
+0xB7C
+優「ふ〜ん」%K%P
+You「Hmmmm.」%K%P
+0xB88
+少年「人生に無限の可能性があるなら、今ここにいるぼくとは別の歴史を持った自分も、この世界のどこかにいるのかもしれないよね？」%K%P
+Kid「If life has infinite possibilities, there might be another me somewhere who has a different history than the me in the present.」%K%P
+0xB94
+優「どこか？」%K%P
+You「Somewhere?」%K%P
+0xBA0
+少年「うん、例えば、この広い空の向こうに……」%K%P
+Kid「Yeah, say, beyond this broad sky...」%K%P
+0xBAC
+少年「果てしない宇宙の向こうに……」%K%P
+Kid「Beyond this limitless universe...」%K%P
+0xBB8
+少年「そこにはきっと別の宇宙があって……」%K%P
+Kid「There should be another universe...」%K%P
+0xBC4
+少年「別の宇宙には、もうひとりの別の自分がいて……」%K%P
+Kid「Another me in another universe...」%K%P
+0xBD0
+優「…………」%K%P
+You「.........」%K%P
+0xBDC
+少年「ぼくは、そのもうひとりの自分のことを考えてたんだ」%K%P
+Kid「I was thinking about that other me.」%K%P
+0xBE8
+優「別の宇宙、か……」%K%P
+You「Another universe, huh?」%K%P
+0xBF4
+優「ねえ？　もしもそんな別の宇宙があるとして……」%K%P
+You「Hey, if there is another universe like you say...」%K%P
+0xC00
+優「その世界に住んでる私達も、こうして今みたいに付き合ってるのかな？」%K%P
+You「In that other world, is there another pair of us dating like we are now?」%K%P
+0xC0C
+少年「当たり前だよ」%K%P
+Kid「Sure there is.」%K%P
+0xC18
+優「どうしてわかるの？」%K%P
+You「How can you tell?」%K%P
+0xC24
+少年「わかるからわかるんだ」%K%P
+Kid「I can tell because I can.」%K%P
+0xC30
+優「？？？」%K%P
+You「?」%K%P
+0xC3C
+少年「だって、ほら、こうすれば……」%K%P
+Kid「You see, if I do this...」%K%P
+0xC84
+ぼくは優を抱き寄せ、そのくちびるに自身を重ね合わせた。%K%P
+I drew You close and kissed her.%K%P
+0xC90
+周囲には、春の陽射しと、空を漂う雲と、海のさざめき、カモメの鳴き声。%K%P
+We were surrounded by the spring sun, clouds floating in the sky, the rippling ocean, and the song of seagulls.%K%P
+0xC9C
+優の肌を通して、彼女のすべてを感じる。%K%P
+I felt everything about You through her skin.%K%P
+0xCA8
+温もりも、匂いも、感触も、鼓動も、心の色さえも……。%K%P
+Her warmth, her scent, her touch, her heartbeat, and even the color of her heart...%K%P
+0xCB4
+その時ぼくは、優の一切を見通せていた。%K%P
+I could see through You completely then.%K%P
+0xCC0
+まさにそれは……第３の眼。%K%P
+It was exactly... the third eye.%K%P
+0xCCC
+最高の叡智。%K%P
+Ultimate wisdom.%K%P
+0xCD8
+そう、こうすれば……%K%P
+Yes, if I did that...%K%P
+0xCF4
+%N
+
+0xD00
+%LC少年『ぼくらは時間を超えられるんだ』%T090
+%LCThen we could transcend time.%T090
+0xD20
+%O
+

@@ -1,0 +1,2013 @@
+text area offset and size:
+0x2FC0
+0x9062
+0xD8
+優「おーい、もしもーし、聞こえてるかぁ〜」%K%P
+You「Hey! Hello, are you listening to me?」%K%P
+0xE4
+優はぼくの両肩をつかみ、前後に揺すった。%K%P
+You grabbed my shoulders and shook me.%K%P
+0xF8
+優「ねえ？　いったいどうしちゃったって言うのよ？　少年」%K%P
+You「What's the matter with you, Kid?」%K%P
+0x104
+優「まさか『今年が西暦何年か？』ってことまで、忘れちゃってたわけ？」%K%P
+You「You can't possibly have forgotten what year it is, can you?」%K%P
+0x110
+優の言葉は耳に届かなかった。%K%P
+Her words made no impression on me.%K%P
+0x11C
+（なんてことだ……）%K%P
+(What on earth...)%K%P
+0x128
+口の中はカラカラに渇き、握りしめた手の平は汗にまみれていた。%K%P
+My mouth was dry, and the palm of my clenched fist was drenched with sweat.%K%P
+0x134
+（まず……）%K%P
+(First of all...)%K%P
+0x140
+ぼくは心の中でつぶやき、考え始めた。%K%P
+I began to think things through.%K%P
+0x14C
+ぼくのよく知っている優……今、ぼくの目の前に立っている優美清『秋』香菜は、２０１５年９月２２日に生まれたらしい。%K%P
+The You that I knew... The You standing in front of me, Yubisei'aki'kana, was born on the 22nd of September, 2015.%K%P
+0x158
+母親は、優美清春香菜だ。%K%P
+Her mother was Yubiseiharukana.%K%P
+0x164
+つまり……。%K%P
+That meant...%K%P
+0x170
+この世界は、優美清春香菜のいた２０１７年の１７年後の世界……２０３４年の世界で……。%K%P
+It was 2034, seventeen years after Yubiseiharukana's time in 2017...%K%P
+0x17C
+いや、だけど……。%K%P
+No, but wait...%K%P
+0x188
+じゃあ、あのメールの日付はどうなる？%K%P
+What about the date on that mail?%K%P
+0x194
+受信日時『０２／０７／１９』――。%K%P
+It had been received on 02/07/19.%K%P
+0x1A0
+ぼくは、声を絞って尋ねた。%K%P
+My voice came out strangled.%K%P
+0x1AC
+少年「今は、西暦２０３４年……」%K%P
+Kid「It's 2034 now...」%K%P
+0x1B8
+少年「ゆきえさんが亡くなったのは、今から１５年前だから……」%K%P
+Kid「Yukie-san died fifteen years ago...」%K%P
+0x1C4
+少年「２０１９年ってことに……なる……」%K%P
+Kid「Which would have been in 2019...」%K%P
+0x1D0
+少年「でも、受信の日付は……『０２／０７／１９』……になってて……」%K%P
+Kid「But the date on that says... '02/07/19'...」%K%P
+0x1E4
+優「ああ、それ？」%K%P
+You「Oh, that?」%K%P
+0x1F0
+優「そんなこと、気にしてたんだ？」%K%P
+You「You were worried about that?」%K%P
+0x1FC
+優は笑った。%K%P
+You laughed.%K%P
+0x208
+優「まあ、勘違いするのも無理はないかぁ……」%K%P
+You「Well, I can understand why you might make that mistake...」%K%P
+0x214
+優「あのね？」%K%P
+You「Do you see?」%K%P
+0x220
+優「メールに書いてあった受信日時は、ドイツ式の表記を使ってるの」%K%P
+You「The date on that mail was written in the German style.」%K%P
+0x22C
+優「だから『年／月／日』じゃなくってぇ……『月／日／年』の順番で表されるんだ」%K%P
+You「Not the Japanese order of year/month/day, but month/day/year.」%K%P
+0x238
+少年「じゃあ、あれは……あれは……」%K%P
+Kid「So are you telling me that...」%K%P
+0x244
+少年「２００２年７月１９日じゃなくて……」%K%P
+Kid「That wasn't July 19th, 2002...」%K%P
+0x250
+少年「２０１９年２月７日、だったってこと……！？」%K%P
+Kid「It was February 7th, 2019...?」%K%P
+0x25C
+優は深く頷いた。%K%P
+You nodded.%K%P
+0x268
+優「他に御質問は？」%K%P
+You「Any other questions?」%K%P
+0x274
+ぼくは力無く首を振って、とぼとぼと警備室を後にした。%K%P
+I shook my head weakly and trudged out of the security office.%K%P
+0x2B4
+優と優の母親の関係はわかったが、そのことを本人に告げるべきかどうか迷った。%K%P
+I had figured out the relationship between You and her mother but wondered whether I should tell her.%K%P
+0x2C0
+いや、告げなければならない。それが優の為だと思う。%K%P
+No, I had to tell her. That was better for You in the long run.%K%P
+0x2CC
+だけど、それよりも何よりも、まずは自分のことを解決しなければどうにもならない。%K%P
+But first, I had to take care of my own problems.%K%P
+0x2D8
+ぼくには行かなければならないところがあった。%K%P
+There was somewhere I had to go.%K%P
+0x320
+沙羅「もう、なによぉ〜」%K%P
+Sara「What is it?」%K%P
+0x32C
+沙羅「いきなりこんなとこに連れて来て、どうするつもり？」%K%P
+Sara「What did you bring me here for?」%K%P
+0x338
+少年「実は、ふたりに……話したいことがあって……」%K%P
+Kid「I wanted to... talk to you guys alone...」%K%P
+0x34C
+沙羅「話したいこと？」%K%P
+Sara「About what?」%K%P
+0x358
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x364
+つぐみは無言だった。なにか怯えているようにも見える。%K%P
+Tsugumi was silent. She seemed to be afraid of something.%K%P
+0x370
+もしかしたら、これからぼくが言おうとしていることを、つぐみは薄々感づいているのかもしれない。%K%P
+Tsugumi perhaps already sensed what I was going to say.%K%P
+0x37C
+つぐみの視線は、忙しなく宙をさまよっていた。%K%P
+Her eyes flew around wildly.%K%P
+0x388
+沙羅「それって、重要なことなの？」%K%P
+Sara「Is it important?」%K%P
+0x394
+少年「うん、とても重要なことなんだ」%K%P
+Kid「Yes, very.」%K%P
+0x3A0
+少年「他のみんなには、あまり聞かれたくないことで……」%K%P
+Kid「It's something I don't want the others to hear...」%K%P
+0x3AC
+少年「いや、聞かれてかまわないんだけど……まずは、沙羅とつぐみだけに、知って欲しかったんだ」%K%P
+Kid「Wait, I don't mind if they hear it, but I wanted you and Tsugumi to know first.」%K%P
+0x3B8
+少年「だから、わざわざこんなところまで、来てもらったんだよ」%K%P
+Kid「So that's why I asked you to come over here.」%K%P
+0x3C4
+沙羅「ふ〜ん……」%K%P
+Sara「Hmmmm...」%K%P
+0x3D0
+沙羅「で？　その重要な話って言うのは？」%K%P
+Sara「So what's so important?」%K%P
+0x3DC
+沙羅は何も気づいていないのだろうか？%K%P
+Hadn't Sara noticed anything?%K%P
+0x3E8
+きょとんとした瞳……無防備な態度……。%K%P
+Her blank, unguarded expression...%K%P
+0x3F4
+いや、そんなはずはない。%K%P
+She had to have noticed something.%K%P
+0x400
+５月１日――沙羅は初めてつぐみに会った後、魂が抜けたように茫然としていた。%K%P
+On May 1st, after Sara met Tsugumi for the first time, she had looked totally dazed.%K%P
+0x40C
+きっと沙羅だって、何か予感めいたものを抱いているはずだ。%K%P
+Surely, Sara had sensed something.%K%P
+0x418
+にもかかわらず、こんなふうに平然としていられるのは、自分に嘘をついているからだと思う。%K%P
+To be standing there calmly, she had to be in denial.%K%P
+0x424
+自分の予感を、理性が否定しているのだ。%K%P
+Reason was telling her that what she suspected couldn't be true.%K%P
+0x430
+『まさかこんなところで、２度も続けて偶然の再会が訪れるなんて』と、沙羅は思っているに違いなかった。%K%P
+The coincidence of meeting her mother again was probably too much for Sara to believe.%K%P
+0x43C
+沙羅「ねえ？　なんで黙ってるの？　早く教えてよぉ……」%K%P
+Sara「Well, are you going to say anything? Could you hurry up...?」%K%P
+0x448
+沙羅は口を尖らせて、ぼくを急かした。%K%P
+Sara urged me to get to the point.%K%P
+0x454
+つぐみは黙ったままだ。息づかいが少し、荒いような気がする。%K%P
+Tsugumi said nothing, but her breathing seemed a little rough.%K%P
+0x460
+少年「沙羅？　あのペンダントとライター……ちょっと貸してもらえないかな？」%K%P
+Kid「Sara? Could you lend me your pendant and lighter for a moment?」%K%P
+0x46C
+沙羅「うん、いいけど？」%K%P
+Sara「Alright.」%K%P
+0x478
+沙羅はポケットからそれらを出し、ぼくに手渡した。%K%P
+She took them out of her pocket and gave them to me.%K%P
+0x4B8
+――ジッ。%K%P
+―Shick.%K%P
+0x4C4
+ぼくはライターに火を点け、ペンダントを照らした。%K%P
+I struck a flame, illuminating the pendant.%K%P
+0x4D8
+武……。%K%P
+Takeshi...%K%P
+0x4E4
+これが本当の、倉成武……なんだ……。%K%P
+That was... the real Kuranari Takeshi...%K%P
+0x524
+ペンダントと炎を、つぐみの目の前に近づける。%K%P
+I held the pendant and the flame closer to Tsugumi.%K%P
+0x530
+つぐみはうつむいたまま、ペンダントを見ようとはしなかった。%K%P
+Tsugumi kept her head down, refusing to look up at the pendant.%K%P
+0x53C
+眉間にシワを寄せ、くちびるをかんでいる。%K%P
+Her brow was furrowed, and she was biting her lip.%K%P
+0x548
+だらりと垂れ下がった両腕……。%K%P
+Her arms pressed tightly to her sides...%K%P
+0x554
+固く握りしめた手の平が、震えていた。%K%P
+Her clenched fists were shaking.%K%P
+0x560
+少年「ねえ？　見てよ……」%K%P
+Kid「Look closer...」%K%P
+0x56C
+ぼくはささやいた。%K%P
+I whispered to her.%K%P
+0x578
+少年「このペンダント……見覚え、あるでしょ？」%K%P
+Kid「You've seen this pendant before... haven't you?」%K%P
+0x584
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x590
+少年「武だよ」%K%P
+Kid「It's Takeshi.」%K%P
+0x59C
+少年「本当の倉成武が、ここにいるんだよ！」%K%P
+Kid「The real Kuranari Takeshi is right here!」%K%P
+0x5B0
+告げた瞬間、つぐみの目がカッと見開いた。%K%P
+The moment I said those words, Tsugumi's eyes flew open.%K%P
+0x5BC
+仮面のように表情の失せた顔……ただ大きな瞳だけが、燃えるように光を放っていた。%K%P
+Stripped of expression, she wore a face like a mask... Only her eyes burned with a fierce light.%K%P
+0x5D0
+沙羅「ちょ、ちょっと待って！　なによ、それ！？　どういうこと！？」%K%P
+Sara「W-wait just a minute! What are you talking about!?」%K%P
+0x5DC
+沙羅「武って……あの武のこと！？」%K%P
+Sara「Takeshi... You mean Takeshi!?」%K%P
+0x5E8
+沙羅「そこに映ってるのが……武なの！？」%K%P
+Sara「Takeshi's... the one in this pendant!?」%K%P
+0x5F4
+少年「ううん……」%K%P
+Kid「Umm, no...」%K%P
+0x600
+少年「ぼくらの知ってる武は、本当の倉成武じゃないんだ」%K%P
+Kid「The Takeshi we know isn't the real Kuranari Takeshi.」%K%P
+0x60C
+少年「彼は、たぶん、嘘をついてるんだと思う」%K%P
+Kid「I think he's lying to us.」%K%P
+0x620
+沙羅「……？」%K%P
+Sara「...?」%K%P
+0x62C
+少年「だって本当の武は……」%K%P
+Kid「The real Takeshi...」%K%P
+0x638
+少年「本当の倉成武は……」%K%P
+Kid「The real Kuranari Takeshi...」%K%P
+0x644
+少年「ぼくと沙羅の……」%K%P
+Kid「Is your and my...」%K%P
+0x650
+少年「お父さん、なんだから……」%K%P
+Kid「Father...」%K%P
+0x664
+つぐみはぎゅっとまぶたを閉じた。%K%P
+Tsugumi closed her eyes.%K%P
+0x670
+大きく息を吐く。%K%P
+She breathed out a long sigh.%K%P
+0x67C
+つぐみの体から力が抜けていくのがわかった。%K%P
+I could see the tension leave Tsugumi's body.%K%P
+0x690
+沙羅「ねえ、どういうことなの？　お兄ちゃん」%K%P
+Sara「Hey, what's this all about, onii-chan?」%K%P
+0x69C
+沙羅「ちゃんと説明してよ……」%K%P
+Sara「Explain what's happening...」%K%P
+0x6A8
+少年「うん」%K%P
+Kid「Alright.」%K%P
+0x6B4
+少年「でも、その前に、確認しておきたいことがあるんだ……」%K%P
+Kid「But before I do, I want to check something...」%K%P
+0x6DC
+ぼくは、その言葉を口にするのをためらった。%K%P
+I hesitated about what to say next.%K%P
+0x6E8
+頭上を仰ぎ見る。%K%P
+I looked above my head.%K%P
+0x6F4
+満天の星空が広がっていた。%K%P
+The sky was full of stars.%K%P
+0x700
+１匹のクジラが、体をくねらせながら、ゆったりと宇宙を漂っている。%K%P
+The single whale twisted and floated through space.%K%P
+0x70C
+クジラは、ひとりぼっちでどこまで行くのだろう？%K%P
+(Whale, where do you go all by yourself?)%K%P
+0x718
+大切なものに、いつの日か、めぐり逢うことができるのだろうか？%K%P
+(Will you meet someone special one day?)%K%P
+0x724
+――カチン。%K%P
+―Snap.%K%P
+0x730
+ぼくはライターを消した。%K%P
+I extinguished the lighter.%K%P
+0x73C
+ペンダントとライターを握りしめる。%K%P
+I gripped the pendant and the lighter in my hand.%K%P
+0x748
+闇の中にぼんやりとかすんだつぐみの姿……。%K%P
+Tsugumi's outline was hazy in the dark...%K%P
+0x754
+この人が……%K%P
+She was...%K%P
+0x760
+ぼくらの……%K%P
+Our...%K%P
+0x76C
+捜し求めていた……%K%P
+Long sought-after...%K%P
+0x794
+少年「お母さん……」%K%P
+Kid「Mom...」%K%P
+0x7A0
+呟いたとき、熱い涙がこぼれ落ちた。%K%P
+When I called out to her, warm tears ran down my cheeks.%K%P
+0x7AC
+少年「お母さん……なんだよね？」%K%P
+Kid「You are our mother... aren't you?」%K%P
+0x7B8
+少年「つぐみはぼくと沙羅の……」%K%P
+Kid「Our mother...」%K%P
+0x7C4
+少年「お母さん……」%K%P
+Kid「Mom...」%K%P
+0x7D0
+少年「そうなんだよね……？」%K%P
+Kid「You are, aren't you...?」%K%P
+0x7E4
+沙羅「……えっ！？」%K%P
+Sara「...What!?」%K%P
+0x7F8
+つぐみがゆっくりと目を開いた。%K%P
+Tsugumi slowly opened her eyes.%K%P
+0x80C
+ぼくと沙羅のことを交互に見る。%K%P
+She looked at Sara and me.%K%P
+0x818
+その瞳がうるんでいることに、ぼくは気づいた。%K%P
+I could see the tears in her eyes.%K%P
+0x82C
+少年「お母さん、答えてよ……」%K%P
+Kid「Mom, please say something...」%K%P
+0x838
+少年「ぼく、お母さんのこと……責めたりしないから……」%K%P
+Kid「I don't blame you... for anything...」%K%P
+0x844
+少年「ずっと……待ってたんだ……」%K%P
+Kid「I've waited for you... for so long...」%K%P
+0x850
+少年「お母さんのこと、待ってたんだ……」%K%P
+Kid「I've been waiting for you...」%K%P
+0x85C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x868
+沙羅「…………」%K%P
+Sara「.........」%K%P
+0x874
+少年「答えてよ！　お母さん！」%K%P
+Kid「Answer! Mom!」%K%P
+0x880
+ぼくは強く叫んだ。%K%P
+I screamed at her.%K%P
+0x88C
+沙羅がぼくの腕にしがみつく。%K%P
+Sara clung to my arm.%K%P
+0x898
+何度も何度も首を振り、沙羅はぼくの胸に顔を埋ずめた。%K%P
+Shaking her head, she buried her face in my chest.%K%P
+0x8A4
+細い体が小刻みに震えている。%K%P
+Her thin body was shaking.%K%P
+0x8B0
+少年「黙ってないで、何とか言ってよ！」%K%P
+Kid「Don't just stand there, say something!」%K%P
+0x8BC
+ぼくは沙羅の体をきつく抱きしめ、つぐみに詰め寄った。%K%P
+Holding Sara tightly, I stepped forward.%K%P
+0x8D0
+つぐみ「違うわ……」%K%P
+Tsugumi「No...」%K%P
+0x8DC
+つぐみ「私は……母親なんかじゃない……」%K%P
+Tsugumi「I'm not... your mother...」%K%P
+0x8E8
+少年「嘘つかないでよ！」%K%P
+Kid「Don't you lie to me!」%K%P
+0x8F4
+少年「ぼく、知ってるんだよ！」%K%P
+Kid「I know everything!」%K%P
+0x900
+少年「今から１７年前、このＬｅＭＵで同じような事故が起きたんだ」%K%P
+Kid「Seventeen years ago, there was another accident just like this one here at LeMU.」%K%P
+0x90C
+少年「そのとき、お母さんは、武と結ばれて……」%K%P
+Kid「You and Takeshi became a couple...」%K%P
+0x920
+つぐみの瞳から、大粒の涙がこぼれ落ちた。%K%P
+Tsugumi was shedding huge tears.%K%P
+0x92C
+つぐみは懸命に、それをこらえようとしている。%K%P
+She tried to stop them.%K%P
+0x938
+吐息はかすれ、うるみ、断続的な嗚咽となって洩れていた。%K%P
+Her breath was ragged and came out in hiccups.%K%P
+0x944
+表情を崩すまいとして……顔が悲しくゆがむ。%K%P
+Her face twisted as she struggled to keep control of her emotions.%K%P
+0x950
+涙はふたつ、みっつと次々にあふれ、頬を伝った。%K%P
+Tears welled in her eyes and rolled down her cheeks.%K%P
+0x95C
+つぐみ「ええ……そうよ……」%K%P
+Tsugumi「Yes... That's right...」%K%P
+0x968
+つぐみ「確かにそう……」%K%P
+Tsugumi「You're right...」%K%P
+0x974
+つぐみ「私はあなた達を産んだ……」%K%P
+Tsugumi「I gave birth to you...」%K%P
+0x980
+つぐみ「でも……」%K%P
+Tsugumi「But...」%K%P
+0x98C
+つぐみ「私には……『お母さん』なんて呼ばれる資格は……ないのよ……」%K%P
+Tsugumi「I have no right... to be called 'mother'...」%K%P
+0x998
+つぐみ「あなた達には……もう本当の、母親がいるでしょ……？」%K%P
+Tsugumi「You have... a real mother... don't you?」%K%P
+0x9A4
+つぐみ「優しいお母さんがいるでしょ……？」%K%P
+Tsugumi「Someone who took care of you...?」%K%P
+0x9B0
+つぐみ「私は……私は……あなた達を……守れなかった……」%K%P
+Tsugumi「I... I... wasn't able to protect you both...」%K%P
+0x9BC
+つぐみ「守れなかったの……」%K%P
+Tsugumi「I couldn't take care of you...」%K%P
+0x9C8
+つぐみ「棄てたも同然なのよ……」%K%P
+Tsugumi「I pretty much abandoned you...」%K%P
+0x9D4
+つぐみ「……置き去りにして……見棄てたの……」%K%P
+Tsugumi「I left you... and walked away...」%K%P
+0x9E0
+つぐみ「ひどいでしょ……？　許せないでしょ……？」%K%P
+Tsugumi「I'm terrible... and I don't expect you to be able to forgive me...」%K%P
+0x9EC
+つぐみ「だから私は……」%K%P
+Tsugumi「That's why I...」%K%P
+0x9F8
+つぐみ「母親なんかじゃ……ないのよ……」%K%P
+Tsugumi「I'm not your mother...」%K%P
+0xA04
+つぐみ「『お母さん』なんて……呼ばないで……お願い……」%K%P
+Tsugumi「Please... don't call me 'mother'...」%K%P
+0xA10
+つぐみ「お願い……だから……」%K%P
+Tsugumi「Please don't...」%K%P
+0xA1C
+つぐみは両手で顔を覆い、声をあげて泣き続けた。%K%P
+Tsugumi put her head in her hands and sobbed.%K%P
+0xA28
+そのとき……。%K%P
+At that moment...%K%P
+0xA34
+沙羅「ママ……」%K%P
+Sara「Mama...」%K%P
+0xA40
+沙羅「……ママ……」%K%P
+Sara「...Mama...」%K%P
+0xA4C
+沙羅「ママァーッ！」%K%P
+Sara「MAMA!」%K%P
+0xA8C
+沙羅がぼくの体を離れ、つぐみの胸に飛び込んだ。%K%P
+Sara tore herself away from me and flew into Tsugumi's arms.%K%P
+0xA98
+ぼくもつぐみに泣きすがった。%K%P
+Following her lead, I clung to Tsugumi and cried as well.%K%P
+0xAA4
+匂いを嗅いだ。%K%P
+The first thing I noticed was her familiar smell.%K%P
+0xAB0
+母親の匂いを胸いっぱいに吸い込んだ。%K%P
+I breathed in her scent deeply.%K%P
+0xABC
+涙にまみれ、温もりをむさぼり、失われたすべてのものを取り戻そうともがいた。%K%P
+Covered in tears, wallowing in the warmth, I felt as if I had regained everything I had ever lost.%K%P
+0xAC8
+ぼくら３人は強く抱きしめあい、肌と肌を触れあわせ、もつれあい、絡みあい、溶けあった。%K%P
+The three of us held each other tightly, relishing the touch of one another. Entwined, our hearts became one.%K%P
+0xAD4
+そこにいたのはぼくではなく、沙羅でもなく、つぐみでもない……ただひとつの肉塊だった。%K%P
+We were no longer our individual selves, but one collective identity.%K%P
+0xAE0
+混ざりあったぼくらに境界はなかった。%K%P
+There were no boundaries between us.%K%P
+0xAEC
+ぼくの体の中は焼け焦げるように熱く……。%K%P
+My whole being was filled with warmth...%K%P
+0xAF8
+隣の沙羅の頬は、涙でぐしょぐしょに濡れていて……。%K%P
+Beside me, Sara's cheeks were wet with tears.%K%P
+0xB04
+つぐみの胸はやわらかく、肌はねっとりとあまく、かぐわしく……。%K%P
+Tsugumi was soft, and her skin was sweet and sticky...%K%P
+0xB10
+母の匂いが、遠い昔にすり込まれた記憶を呼び覚ます。%K%P
+I recalled the long-forgotten memories of my mother's smell.%K%P
+0xB1C
+けれどそれは、懐かしさのような感覚とは少し違っていた。%K%P
+It wasn't exactly the same feeling as nostalgia.%K%P
+0xB28
+もっと原始的で、本能的な……脳に直接沁み込んでくるような甘い香りだったのだ。%K%P
+It was primitive, something instinctive... A sweetness that had been wired directly into my brain.%K%P
+0xB34
+沙羅「ママ……」%K%P
+Sara「Mama...」%K%P
+0xB40
+少年「お母さん……」%K%P
+Kid「Mom...」%K%P
+0xB4C
+その言葉に答えるかのように、つぐみはよりいっそう腕に力を込めて、ぼくらをきつく抱きしめた。%K%P
+As if in response, Tsugumi pulled us closer, gripping us with a fierce determination.%K%P
+0xB58
+沙羅とぼくの髪に顔を埋ずめ、頬をすり寄せ、首筋から背中を撫でまわし、熱い吐息を吹きかけた。%K%P
+She buried her face in Sara's and my hair, drew us close, and stroked the backs of our heads.%K%P
+0xB64
+つぐみ「ごめんね……」%K%P
+Tsugumi「I'm sorry...」%K%P
+0xB70
+つぐみ「ごめん……ごめんなさい……」%K%P
+Tsugumi「I'm sorry... I'm so sorry...」%K%P
+0xB7C
+声をつまらせながら、つぐみは言った。%K%P
+Tsugumi's voice was choked up.%K%P
+0xB88
+つぐみ「許してなんて……言えないけど……」%K%P
+Tsugumi「I can't ask you... to forgive me...」%K%P
+0xB94
+つぐみ「私……私……」%K%P
+Tsugumi「I... I...」%K%P
+0xBA0
+つぐみ「今まで一度も……あなた達のこと……忘れたことは……なかった……」%K%P
+Tsugumi「I never... once forgot about you...」%K%P
+0xBAC
+つぐみ「ずっと……ずっと……あなた達に……」%K%P
+Tsugumi「All... this... time...」%K%P
+0xBB8
+つぐみ「逢いたくて……」%K%P
+Tsugumi「I've wanted to see you...」%K%P
+0xBC4
+つぐみ「逢いたくて……謝りたくて……」%K%P
+Tsugumi「Find you... and apologize...」%K%P
+0xBD0
+沙羅「もういいの……」%K%P
+Sara「It's alright...」%K%P
+0xBDC
+沙羅「ママ……」%K%P
+Sara「Mama...」%K%P
+0xBE8
+沙羅「もう謝ったりなんか……しなくていいの……」%K%P
+Sara「You don't need to apologize...」%K%P
+0xBF4
+沙羅「私は……ママに……逢えただけで……それだけで……」%K%P
+Sara「I... It's enough just to... be with you...」%K%P
+0xC00
+こうして抱き合っているだけで、すべてがわかりあえた。%K%P
+As we held onto each other, we understood everything.%K%P
+0xC0C
+ぼくも、沙羅も、何もかもを受け入れ、理解し、許した。%K%P
+Sara and I accepted everything, understood, and forgave.%K%P
+0xC18
+理由なんてどうでもよかった。%K%P
+Reasons weren't important.%K%P
+0xC24
+今、この瞬間に、ぼくらは穏やかな安らぎに満たされていて……。%K%P
+At that moment, a quiet peace filled us...%K%P
+0xC30
+ただそれだけで、充分だった。%K%P
+It was enough.%K%P
+0xC3C
+他には何も、要らなかった。%K%P
+We didn't require anything else.%K%P
+0xC48
+ぼくの体はぐったりと弛緩し……母に身を委ねていた。%K%P
+I relaxed and leaned against my mother.%K%P
+0xC54
+あたたかかった。%K%P
+She was warm.%K%P
+0xC60
+うっとりとまぶたを閉じ、温もりに酔いしれる。%K%P
+I closed my eyes and was intoxicated by her warmth.%K%P
+0xC6C
+少年「お母さん……」%K%P
+Kid「Mom...」%K%P
+0xC78
+少年「……お母さん……」%K%P
+Kid「...Mom...」%K%P
+0xCB0
+心地良いまどろみ……。%K%P
+A cozy slumber...%K%P
+0xCBC
+陽だまりに吹く５月の風……。%K%P
+A soft breeze under the May sunshine...%K%P
+0xCC8
+平穏……。%K%P
+Peace...%K%P
+0xCD4
+波のない海の上を漂うように……。%K%P
+It was like floating on the calm ocean...%K%P
+0xCE0
+ゆるゆる揺られ……。%K%P
+Swaying comfortably...%K%P
+0xCEC
+ぬくぬくと丸まり、身を寄せ合い……。%K%P
+Cuddled up together...%K%P
+0xCF8
+いつしか涙は止まり……。%K%P
+Before I knew it, I had stopped crying...%K%P
+0xD04
+聞こえるのは……静かに繰り返される呼吸の音と……。%K%P
+All I could hear was... just our calm breathing and...%K%P
+0xD10
+母の鼓動……。%K%P
+My mother's heartbeat...%K%P
+0xD1C
+とくん……とくん……とくん……。%K%P
+Thump, thump... Thump, thump... Thump, thump...%K%P
+0xD28
+ぼくは生きている。%K%P
+I was alive.%K%P
+0xD34
+いや、今生まれたばかりなのかもしれない。%K%P
+Or maybe I had just been born.%K%P
+0xD40
+とくん……とくん……とくん……。%K%P
+Thump, thump... Thump, thump... Thump, thump...%K%P
+0xD4C
+何もかもが肯定され、受け入れられ、許された世界。%K%P
+Everything was affirmed, accepted, and forgiven.%K%P
+0xD58
+そこにいたのはぼくではなく、沙羅でもなく、つぐみでもない……。%K%P
+There was no me, nor Sara, nor Tsugumi...%K%P
+0xD64
+ひとつに繋がった命……。%K%P
+There was only one life connected together...%K%P
+0xD70
+たったひとつの生命だった。%K%P
+Just one single soul.%K%P
+0xE0C
+――西暦２０１７年５月７日。午前１１時。%K%N
+―In the year 2017, May 7th, 11 a.m.%K%N
+0xE18
+浮島にたどりついたつぐみを待っていたのは、ライプリヒの連中だった。%K%N
+The men from Leiblich were waiting for Tsugumi when she got to the floating island.%K%N
+0xE24
+つぐみはキュレイウイルスのキャリア……。%K%N
+Tsugumi, a carrier of the Curé virus...%K%N
+0xE30
+彼らにとっての貴重なサンプル……。%K%O
+To them, she was a valuable sample...%K%O
+0xE48
+彼らの瞳はギラつき、口は半ば開いたまま、その奥には黒く濡れた舌先が見えた。%K%N
+Their eyes glaring and mouths half-open, she could see their dark, wet tongues.%K%N
+0xE54
+男達の興奮は、卑猥な臭気となってつぐみの鼻先まで届いた。%K%N
+It was almost possible for Tsugumi to smell the reek of their excitement.%K%N
+0xE60
+それは肉欲にかられた男性の臭い……。%K%N
+Like the smell of men lusting after flesh...%K%N
+0xE6C
+ギトギトとした油こさと、すえた匂いの混濁した不愉快な臭気だった。%K%N
+It was a fetid stench, greasy and rotten.%K%N
+0xE78
+彼らはつぐみの肉体を求めていた。%K%O
+For it was Tsugumi's body that they were after.%K%O
+0xE90
+『人類の究極の夢を叶えること――真理を追究すること――』という美名のもとに行なわれる人体実験。%K%N
+What they wanted was nothing more than to perform human experiments under the pretext of 'making the ultimate human dream come true'.%K%N
+0xE9C
+つぐみの体をもてあそび、痛めつけることによって、彼らは知識と富と名声を手に入れようと企んでいた。%K%N
+By using Tsugumi's body, they were planning to gain knowledge, fame, and fortune.%K%N
+0xEA8
+それこそが、彼らの欲望であった。%K%O
+That was indeed their desire.%K%O
+0xEC0
+『お待ちしておりました』――男のひとりが深々と頭をさげた。%K%N
+'We've been waiting for you.'―One of them took a deep bow.%K%N
+0xECC
+その紳士的な振る舞いの陰から、ほとばしるような邪欲が垣間見え、つぐみは吐き気をもよおした。%K%N
+Behind his veneer of politeness was an evil that threatened to spill forth, making Tsugumi sick to her stomach.%K%N
+0xED8
+他の連中は舌なめずりをし、生唾を呑み……中には狂犬のように、わけのわからぬうめき声を洩らしている者もいた。%K%O
+Some of the others in his entourage licked their lips... swallowing their saliva like dogs gone mad with the hunt.%K%O
+0xEF8
+瞬間――つぐみは大地を蹴り、はやてのように駆け出した。%K%N
+That instant, Tsugumi kicked hard off the ground, breaking into a run.%K%N
+0xF04
+広い人工島の上を走り、高いフェンスを飛び越え、茂みをかき分けて逃げ続けた。%K%O
+She ran across the wide surface of the huge artificial island, desperately scaling the high surrounding fence, and fled into the nearby foliage.%K%O
+0xF24
+追っ手の怒声、罵声、悲鳴、咆哮は、徐々に遠ざかっていった。%K%N
+Their cacophony of screams and angry cursing faded behind her.%K%N
+0xF30
+つぐみは物陰に身をひそめ、陽が沈むのをひたすら待ち続けた。%K%N
+Tsugumi hid and waited until nightfall.%K%N
+0xF3C
+懐に、１匹のハムスターを抱きながら……。%K%O
+She held a single hamster to her chest...%K%O
+0xF74
+――夜ふけ。%K%N
+―At night.%K%N
+0xF80
+浮島の港から、資材の運搬船が１隻、出航しようとしていた。%K%O
+A supply-carrying vessel slipped out of the floating island's port.%K%O
+0xF98
+つぐみは船に飛び乗り、積荷の陰に隠れ、本土へと向かった。%K%N
+Tsugumi had stowed away on the vessel, hiding herself among the cargo. She was headed to the mainland.%K%N
+0xFA4
+これまでのつぐみの日常は『いかにして彼らから逃げ延びるか？』――それを考えることだけに費やされてきた。%K%N
+From that moment on, Tsugumi's life was consumed with one thought―'how to escape from them'.%K%N
+0xFB0
+犯罪者でもなく、うしろめたいことなど何もないのに、つぐみは人々の視線を避け、闇に紛れ、背後に忍び寄る不気味な気配に脅えながら生きてきた。%K%O
+Although she wasn't a criminal, she avoided people, preferring to hide in the darkness, all the while threatened by ominous feelings of being hunted.%K%O
+0xFD0
+そしてそれは、無事に本土へとたどりついた後も同じだった。%K%N
+Nothing changed after she safely made it to land.%K%N
+0xFDC
+数週間ごとに寝床を変え、街から街を渡り歩き、人気のない暗がりを徘徊し……。%K%N
+Every few weeks, she moved from one town to another, wandering in the darkness...%K%N
+0xFE8
+橋げたの下、路地裏の軒先、海へと流れ込む下水管の中、公衆便所の個室の中で眠ったこともある。%K%N
+She slept under bridges, under back street eaves, pipes pouring into the ocean, and even in public restrooms.%K%N
+0xFF4
+つぐみの逃避行に終わりはなかった。安らぎが訪れることは１秒たりともありはしなかった。%K%O
+It was an endless cycle of running. She never had a second's peace.%K%O
+0x100C
+警察はあてにならない。%K%N
+She couldn't turn to the police.%K%N
+0x1018
+つぐみには定まった住所がなく、身元は不確かで、また年齢と容姿がかけ離れていることから、奇異の目で見られることもあり……。%K%N
+She had no place to live, her identity was uncertain, and her age and appearance didn't match...%K%N
+0x1024
+警官が、彼女を怪訝に思うのは当然のことであった。%K%N
+The police would only doubt her.%K%N
+0x1030
+つぐみの情報は、管轄の署から全国へとまたたく間に広がり、結果的には、ライプリヒに居場所を突き止められることになってしまう。%K%O
+Information regarding Tsugumi had spread through the national police network, so it was only a matter of time before Leiblich would find her.%K%O
+0x1048
+ライプリヒの影響力は、国家権力にまで深く浸透していたのである。%K%N
+Leiblich's influence even extended to national politics.%K%N
+0x1054
+つぐみはやはり、じめじめと湿った裏通りを歩く以外になかった。%K%N
+There was nothing else for Tsugumi to do but continue to hide in back alleys.%K%N
+0x1060
+彼女はライプリヒを憎んだ。%K%N
+She hated Leiblich.%K%N
+0x106C
+彼女の人生をぶち壊し、不幸のどん底へと叩き落したのは、彼ら以外の何者でもなかったし……それに……%K%O
+They had destroyed everything Tsugumi had cared about and made her life a living hell... What was more...%K%O
+0x1084
+つぐみの最愛の人――倉成武の命を奪ったのが、他でもない彼らだったからだ。%K%N
+They had taken away the love of her life... Kuranari Takeshi.%K%N
+0x1090
+ライプリヒの上層部の人間を、つぐみは片端から血祭りにあげてやりたいと思っていた。%K%N
+She wanted to get revenge on Leiblich with every fiber of her being.%K%N
+0x109C
+つぐみはこの世界を憎んでいた。憎悪の塊と化していた。%K%O
+Tsugumi came to hate the world, and her heart became even more hardened to it.%K%O
+0x10BC
+――２ヶ月が過ぎた。――夏。%K%N
+―Two months had passed. It was summertime.%K%N
+0x10C8
+突然の嘔吐……。%K%N
+All of a sudden, she began feeling sick...%K%N
+0x10D4
+月のものが止まっていることは前から気づいていたが、まさかと思った。%K%O
+She knew she had stopped menstruating, but she didn't want to think about the possibility.%K%O
+0x10EC
+裏社会に知られた闇医者のもとへとおもむく。%K%N
+She went to visit an illegal doctor who was well-known in the back streets.%K%N
+0x10F8
+つぐみは妊娠していた。%K%N
+Tsugumi was pregnant.%K%N
+0x1104
+武の子供であることに間違いはない。彼以外と交わりを持ったことはないからだ。%K%N
+She was sure it was Takeshi's baby. She'd never been with anyone else.%K%N
+0x1110
+腹の子……。%K%O
+She was pregnant...%K%O
+0x1128
+夜中、つぐみはとある地方都市の寂れた臨海部へと足を運んだ。%K%N
+At night, she went to the deserted coastal area of a small, nearby town.%K%N
+0x1134
+倉庫と印刷工場と廃屋しかない濁った町だった。%K%N
+There were nothing but printing factories and abandoned houses.%K%N
+0x1140
+川なのか海なのかよくわからない水辺の船着場で、つぐみは高速道路沿いに立つネオンを眺めていた。%K%N
+Unsure if it was a river or the ocean, she sat on a boat dock, looking at a neon sign by the highway.%K%N
+0x114C
+腹に触れた。%K%N
+She touched her stomach.%K%N
+0x1158
+腹に命があり、命はつぐみとつながり、つぐみは命に対して畏怖を覚え、同時に歓喜に身悶えた。%K%O
+She felt a sense of awe and joy at the fact there was life growing in her belly and that it was connected to her.%K%O
+0x1170
+水面に揺れるネオンの光は精一杯の虚飾を演じ、キラビヤカであった。%K%N
+The neon light glittered and flickered off of the water's surface.%K%N
+0x117C
+つぐみは光を見ながら……腹に手をあてながら……むせび泣いた……。%K%N
+Tsugumi looked at the lights... with her hands on her stomach...%K%N
+0x1188
+武の子供がここにいるのかと思うと、涙が止まらなかった。%K%N
+Realizing that Takeshi's babies were inside her, she couldn't stop crying.%K%N
+0x1194
+たった数センチだったのかもしれない、そのときのふたりは……。%K%O
+They might have only been only a centimeter big at that time...%K%O
+0x11AC
+しかし、ふたつの胎児の存在は、それらを覆い包む母親の肉体さえ凌駕して……%K%N
+But the survival of the two babies outstripped the needs of the mother's body that surrounded them...%K%N
+0x11B8
+むしろつぐみは『自分が赤ん坊を宿したのではなく、赤ん坊が自分を宿したのではないか』というような錯覚さえ抱いた。%K%N
+Tsugumi almost had the illusion that it wasn't her who bore the children, but it was actually they who bore her.%K%N
+0x11C4
+事実、つぐみのすべては、ふたりの中に注ぎ込まれていた。%K%O
+Everything that she was, she poured into her two babies.%K%O
+0x11DC
+胎児はつぐみの一部ではなく、つぐみが胎児の一部だった。……彼女はそう思った。%K%N
+She felt that she was part of the babies, not the other way around.%K%N
+0x11E8
+つぐみはふたつの小さな小さな命に、何もかもを捧げようと決めた。%K%N
+It was then that Tsugumi decided to sacrifice everything for the two tiny lives.%K%N
+0x11F4
+愛というものは概念だが、もしも物質化することがあるとすれば、それはつぐみにとって、腹の子の他には考えられなかった。%K%O
+Love was a concept to her, but if love could be brought into physical form, to her, it seemed it must be the babies in her.%K%O
+0x120C
+愛の塊が腹の中に息づいていた。%K%N
+That was it, love was growing inside her.%K%N
+0x1218
+武とつぐみの子供……。%K%N
+Takeshi and Tsugumi's babies...%K%N
+0x1224
+いつしかつぐみの中にあった憎悪は、跡形もなく消え失せていた。%K%N
+Before long, the hatred she had felt toward everything had disappeared without a trace.%K%N
+0x1230
+つぐみは生まれて初めて神を感じたのだった。%K%O
+For the first time, Tsugumi felt as though there were a higher power guiding her life.%K%O
+0x1260
+――７ヶ月後。――２０１８年１月２１日。%K%N
+―Seven months later. January 21st, 2018.%K%N
+0x126C
+陣痛は唐突に訪れた。%K%N
+Tsugumi was suddenly struck with contractions.%K%N
+0x1278
+その日、闇医者は行方をくらましていて、姿がなかった。%K%O
+When they came, the back-alley doctor had gone somewhere.%K%O
+0x1290
+近くの産婦人科に行く。%K%N
+She visited a nearby clinic.%K%N
+0x129C
+保険証はない。身分証もない。母子手帳もない。金も底をついていた。%K%N
+She had no medical insurance, no identification. Most importantly, she had no money...%K%N
+0x12A8
+産婦人科医は、大きく腹の出たつぐみの背中を何度も蹴飛ばして、まるで迷い込んだ野良猫やドブネズミを追い払うかのように、つぐみを蹴り棄てた。%K%O
+When he found out that she couldn't pay, the doctor beat Tsugumi as though she were a stray animal.%K%O
+0x12C0
+ふたりの赤ん坊は、古びた船小屋の中で産声をあげた。%K%N
+With nowhere else to go, the two babies were born in an old boat shack.%K%N
+0x12CC
+船小屋には（そこの主なのか、あるいはただの浮浪者なのかわからないが）みすぼらしい風体をしたひとりの老婆がいた。%K%N
+An old woman was living there, but Tsugumi couldn't tell whether she lived there or was just a vagrant.%K%N
+0x12D8
+お産を助け、赤ん坊を取り上げたのは、この老婆である。%K%O
+It was that old woman who helped Tsugumi through the birth.%K%O
+0x12F0
+『玉のようじゃ、玉のようじゃ、よう頑張ったのぉ』%K%N
+'Ooh how precious, so precious... You done a fine job, deary.'%K%N
+0x12FC
+老婆は何度も繰り返しながら、ブリキのタライに湯を張って、ふたりの体を優しく洗った。%K%N
+The old lady repeated that many times as she gently rinsed the babies in a tin basin.%K%N
+0x1308
+つぐみは、タオルを１枚だけ敷いた板の間に、汗だくになって横たわっていた。%K%N
+The sweat-covered Tsugumi was lying down, with only a thin towel between her and a hardwood floor.%K%N
+0x1314
+虚ろな視線を窓の外に向ける。%K%O
+Tsugumi's eyes gazed, unfocused, out a nearby window.%K%O
+0x136C
+チラチラと粉雪が舞っていた。%K%N
+Snow was falling outside.%K%N
+0x1378
+『ほぉれ、めんこい子じゃあ、ちんちんのついとるのと、ついとらんのがおる、どっちを先に抱くかね？』%K%N
+'How darling... Yes, a precious boy and girl... Which one'll ya hold first?'%K%N
+0x1384
+闇医者の診断から、双子だということはわかっていたけれど、二卵性だということまでは知らなかった。%K%O
+The illegal doctor had told her, so she was expecting twins, but she never imagined that they would be fraternal.%K%O
+0x139C
+つぐみは少し驚きながらも、こう答えた。%K%N
+A bit surprised, she said...%K%N
+0x13A8
+『ふたり、一緒に……』%K%N
+'Both at the same time...'%K%N
+0x13B4
+ボロ布にくるまれたふたりの体を、つぐみはそっと懐に抱いた。%K%N
+Wrapped in an old cloth, Tsugumi gently held them to her chest.%K%N
+0x13C0
+『なぁに、心配するでない、布は沸騰した湯で煮たものじゃ、へその緒を切ったハサミも消毒してある』%K%O
+'Not to worry, my deary. I boiled them cloth and the scissors what cut their cord in hot water good, I did.'%K%O
+0x13D8
+『ありがとう』%K%N
+'Thank you.'%K%N
+0x13E4
+つぐみは老婆に礼を言った。%K%N
+Tsugumi thanked her.%K%N
+0x13F0
+『ありがとう……ありがとう……』%K%N
+'Thank you... Thank you very much...'%K%N
+0x13FC
+無事に生まれて来たふたつの小さな命に、つぐみは感謝した。%K%N
+She gave thanks for the two lives who had been born safely.%K%N
+0x1408
+『ありがとう……』%K%N
+'Thank you...'%K%N
+0x1414
+最後の言葉は、窓の外の深い闇に向かって告げられたものだった。%K%O
+And those last words were directed toward the deep darkness beyond the window.%K%O
+0x142C
+雪がしんしんと降っていた。%K%N
+The snow was falling.%K%N
+0x1438
+つぐみの胸の中で、まぶたを閉じたふたりの赤ん坊は、同時に小さなアクビをした。%K%O
+The two babies pressed to Tsugumi's chest with their eyes closed let out small yawns.%K%O
+0x14B0
+――キュレイ。%K%N
+―The Curé virus.%K%N
+0x14BC
+出産後まもなく、つぐみはふと、こんなことを思った。%K%N
+Soon after she had given birth, Tsugumi's thoughts were turned to the possibility.%K%N
+0x14C8
+『もしもふたりが、私の胎内でキュレイウイルスに感染していたとしたら……』%K%N
+'If they got infected by Curé while they were inside of me...'%K%N
+0x14D4
+『そして、私と同じように、組替えられたＤＮＡの配列を持っているとしたら……』%K%N
+'And if their DNA was altered just like me...'%K%N
+0x14E0
+つぐみは闇医者のもとへと向かった。%K%O
+Tsugumi visited the illegal doctor.%K%O
+0x1518
+『心配することはないですよ』――闇医者は高笑いしながらそう言い、このような話を告げた。%K%N
+'Don't worry about it.'―He explained, laughing...%K%N
+0x1524
+分類学上、純粋な人間は『霊長目真猿亜目ヒト上科ヒト科ヒト亜科ヒト属サピエンス種』に属する。%K%N
+According to taxonomic classification, a pure human would belong to 'Primates Anthropoidea Hominoidea Hominidae Homo Sapiens'.%K%N
+0x1530
+キュレイウイルスによって遺伝情報を書き換えられたつぐみは、すでに純粋な人間とは呼べず、その亜種であると考えられる。%K%O
+Tsugumi, whose genetic information was altered by the Curé virus, was not a pure human anymore, but rather a subspecies of it.%K%O
+0x1548
+便宜上、今ここでは仮に、その亜種を『キュレイ種』と呼ぶことにするならば……%K%N
+'Let's just call you subspecies 'Curé' for now...'%K%N
+0x1554
+『サピエンス種の武』と『キュレイ種のつぐみ』との交配によって生まれた『２人の子供』は、それらのハイブリッド（ハーフ）ということになる。%K%O
+'Now, any kids who were born from 'Takeshi, the Homo Sapiens' and 'Tsugumi, the Curé' would technically be 'hybrids'.'%K%O
+0x156C
+ところで、キュレイウイルスは、純粋な人間、すなわち『ヒト属サピエンス種』にしか感染しないという特徴を持っている。%K%N
+'Now, by the way, I guess I should tell you that the Curé virus only infects pure humans, the 'Homo Sapiens'.'%K%N
+0x1578
+従って『ハイブリッドである２人の子供』には、キュレイウイルスの影響はまったくないと考えられる。%K%N
+'So, there's no way the Curé virus could possibly affect your two 'little hybrids' there.'%K%N
+0x1584
+また同時に『テロメアの回復』や『自然治癒力の増大』といったキュレイ種独特の機能は、遺伝的には劣性遺伝することがわかっている。%K%O
+'While not much is known about the Curé virus, some of the unique functions scientists have discovered, such as 'regenerating telomeres' and 'regenerative healing', are inherited recessively.'%K%O
+0x159C
+血液型で言うと『ＡＡ型の父』と『ＯＯ型の母』との間に生まれた子供は、全員『ＡＯ型』となり、その血液は『Ａ型』の性質を持つことになる。%K%N
+'For blood types, without exception, all children born from a 'type AA father' and a 'type OO mother', for instance, can only be 'type AO,' with a 'type A' predisposition.'%K%N
+0x15A8
+なぜなら、Ａ型の因子は優性遺伝し、Ｏ型の因子は劣性遺伝するからだ。%K%N
+'Why? Because type A factors are inherited dominantly, and type O factors are inherited recessively.'%K%N
+0x15B4
+子供の血液型が『Ｏ型』となる為には……%K%O
+'In order for a child's blood type to be 'type O'...'%K%O
+0x15CC
+『ＡＯ型×ＡＯ型』『ＡＯ型×ＢＯ型』『ＡＯ型×ＯＯ型』『ＢＯ型×ＢＯ型』『ＢＯ型×ＯＯ型』『ＯＯ型×ＯＯ型』……%K%N
+'...You'd have to have a mixture of either 'AO x AO', 'AO x BO', 'AO x OO', 'BO x BO', 'BO x OO', or 'OO x OO'...'%K%N
+0x15D8
+……の、いずれかの組み合わせでなければならない。つまり、両親ともにＯ型の因子を持っている必要があるのだ。%K%N
+'...It can only be one of the above, meaning that BOTH the parents gotta add that type 'O' factor to the genetic milkshake.'%K%N
+0x15E4
+キュレイ種においても同じことが言える。%K%O
+'Same goes for the Curé virus.'%K%O
+0x15FC
+『純サピエンス種の父』と『純キュレイ種の母』との間に生まれた子供は……%K%N
+'Any child born from a pureblooded 'Sapiens' and 'Curé' will...'%K%N
+0x1608
+全員『サピエンスキュレイ種』となり、遺伝的に優性な『サピエンス種』の身体的性質を受け継ぐことになる。%K%N
+'...All be 'Sapiens-Curé' and inherit the dominant physical traits of both.'%K%N
+0x1614
+生まれた子供が『キュレイ種』となる為には……%K%O
+'For them rugrats to become full-blooded 'Curé'...'%K%O
+0x162C
+『キュレイ種×キュレイ種』『サピエンスキュレイ種×キュレイ種』『サピエンスキュレイ種×サピエンスキュレイ種』……%K%N
+'...The parents would have be 'Curé x Curé', 'Sapiens Curé x Curé', or 'Sapiens Curé x Sapiens Curé'...'%K%N
+0x1638
+……の、いずれかの組み合わせでなければならない。つまり、両親ともにキュレイ種の因子を持っている必要があるのだ。%K%O
+'...Any of those combinations, meaning that both parents have to be part or all Curé.'%K%O
+0x1650
+さて、もはや言うまでもなく、２人の子供は『純サピエンス種の父』と『純キュレイ種の母』との間に生まれた子供である。%K%N
+'And since these two little critters were born from a 'pure Sapiens' and 'pure Curé...'%K%N
+0x165C
+ゆえに、彼らはハイブリッドとは言え、その肉体の機能は、純粋な人間とほぼ同じであり、不老長寿等のキュレイ種的な特徴は持っていないことになる。%K%O
+'They'll have the same physical traits as a pure human and won't possess the Curé traits like perpetual youth.'%K%O
+0x1674
+『だから、心配することはないんです、わかりましたか？』――闇医者は、つぐみが連れて来たふたりの赤子を抱き上げて、再び高く笑った。%K%N
+'So, you don't have nothing to worry about, alright?' The doctor held up the two babies Tsugumi had brought and laughed again.%K%N
+0x1680
+闇医者の素性をつぐみは知らなかった。%K%N
+Tsugumi didn't know his background.%K%N
+0x168C
+これだけキュレイのことに詳しいところを見ると、元ライプリヒの研究員だったのかもしれない。%K%N
+It was probable that he had been part of Leiblich's laboratory staff in the past since he knew so much about the Curé virus.%K%N
+0x1698
+だが、闇医者が連中の一味だとはとても思えなかった。つぐみは彼を信頼していた。%K%O
+But he didn't seem to be one of them. Tsugumi figured she could trust him.%K%O
+0x16B0
+お互いのことを詮索しあうのは、この裏社会ではタブーとされている。%K%N
+Among outcasts, there was an unspoken law: You don't go nosing around in other people's pasts.%K%N
+0x16BC
+つぐみはそれ以上のことは何も聞かなかったし、闇医者も、つぐみを問い詰めたりはしなかった。%K%O
+Tsugumi didn't ask him anything more, and he didn't demand to know about her either.%K%O
+0x16F4
+――出産から１年後。%K%N
+―A year after giving birth.%K%N
+0x1700
+また冬がやってきた。%K%N
+It was winter again.%K%N
+0x170C
+つぐみは４畳半ひと間の部屋を借り、ふたりの赤ん坊とともに暮らしていた。%K%N
+Tsugumi had rented a tiny room and lived together with the two babies.%K%N
+0x1718
+もちろん、そこにはチャミの姿もあった。%K%N
+Of course, Chami was there as well.%K%N
+0x1724
+海沿いのひなびた町だった。%K%N
+It was a quiet, rustic coastal town.%K%N
+0x1730
+都市でもなく、観光地でもなく、漁業、農業が盛んなわけでもない……何も無い……わびしい港町だ。%K%O
+It wasn't a city or tourist town, no fishing or farming... Nothing... Just a dreary port town.%K%O
+0x1748
+つぐみは昼間、縫製工場で働き、わずかな日銭を稼ぎ、その間、子供達は保育施設に預けていた。%K%N
+During the day, Tsugumi worked for next to nothing at a sewing factory while the babies stayed at a daycare center.%K%N
+0x1754
+明け方から午後４時までミシンを踏み続け、その後はふたりの幼な子と一緒にのんびり過ごした。そんな毎日だった。%K%N
+She spent every day glued to a sewing machine from early morning to 4 p.m., and after that, she would spend time with the babies.%K%N
+0x1760
+収入は少なく貧しかった。紙おむつを買う金さえ無かった。%K%O
+Her wages were very low, so of course they were poor. She couldn't even afford disposable diapers.%K%O
+0x1778
+つぐみは、縫製工場から廃棄されるボロ切れを拾い集め、縫い合わせ、ツギハギだらけのおしめと子供服を作った。%K%N
+Tsugumi collected small scraps of cloth, leftovers from the factory, and sewed diapers and clothes for the babies.%K%N
+0x1784
+そんな環境の中でも、子供達は病気ひとつせず、すくすくと育っていった。%K%N
+Despite the harsh living conditions, the babies were growing healthily.%K%N
+0x1790
+平穏な生活だった。貧しさを感じることはなかった。すべてが満たされていた。%K%N
+Their life was a peaceful one, and although they were poor, the poverty didn't threaten them. They were content.%K%N
+0x179C
+３人に笑顔が絶えることはなかった。%K%O
+The three of them were always smiling.%K%O
+0x17B4
+『マンマ……マンマ……』『あ〜あ、ちゃったぁ……ちゃったぁ……』%K%N
+'Momma... Momma...' 'Oh... Chammiii, Chammiii...'%K%N
+0x17C0
+今では、ふたりの赤ん坊はそんな言葉を口にするようになっている。%K%N
+They were already beginning to talk.%K%N
+0x17CC
+男の子の方は、２、３歩あるけるようにまでなっていた。女の子の方は、まだつかまり立ちさえおぼつかない。%K%O
+The boy had started walking a few steps at a time. The was girl able to stand, barely, as she held onto things.%K%O
+0x17E4
+『あ〜あ、ちゃったぁ……ちゃったぁ……』と言ったのは女の子の方だ。満１才でこのような発話するのは大変珍しい。%K%N
+The girl had begun to speak, 'Oh... Chammiii, Chammiii...', which was very unusual for a one-year-old.%K%N
+0x17F0
+身体的な発育は男の子の方が早く、知能の発育は女の子の方が早かったようだ。%K%N
+The boy, it seemed, grew faster physically, and the girl grew faster intellectually.%K%N
+0x17FC
+つぐみはふたりの愛らしい仕草を優しく見守った。幸せをかみしめていた。%K%O
+Tsugumi tenderly watched over their cute gestures. She was filled with happiness.%K%O
+0x1834
+――２０１９年５月７日。%K%N
+―May 7th, 2019.%K%N
+0x1840
+ふたりの赤ん坊は１才３ヶ月になっていた。%K%N
+The two babies were fifteen months old.%K%N
+0x184C
+この日、つぐみは子供達を海岸へと連れて来た。%K%O
+Tsugumi had taken them to the beach.%K%O
+0x1864
+男の子は砂浜の上をとてとてと駆けずりまわり、少し走っては転び、少し走っては転び、そんなことを繰り返していた。%K%N
+The boy ran around the sand, falling and getting back up over and over.%K%N
+0x1870
+女の子は波打ち際に座り込んで、寄せてくる波に手を触れながら……%K%N
+The girl was sitting by the water, putting her hands in the waves...%K%N
+0x187C
+『ちぃーめたい……ちぃーめたいの……』と言って、はしゃいでいた。%K%O
+She was giggling, saying, 'Cooold... So cold...'%K%O
+0x1894
+つぐみは水平線の彼方を眺めながら、武のことを考えていた。%K%N
+Watching out over the flat surface of the ocean, Tsugumi's thoughts turned to Takeshi.%K%N
+0x18A0
+『だったら生きろ。生きている限り生きろ。大丈夫……俺は死なない』――武が残した最後の言葉。%K%N
+'So live! As long as you're alive, live! Don't worry... I'm not going to die.'―those were Takeshi's last words to her.%K%N
+0x18AC
+あれからもう２年が経つ。%K%N
+It had been two years already.%K%N
+0x18B8
+『俺は死なない』――そう言って、男は愛する女を守り、ここにいる子供達を守り、海の底へと沈んでいった。%K%O
+'I'm not going to die.'―After saying that, he sank to the bottom of the ocean, protecting the woman he loved, protecting the children right in front of her.%K%O
+0x18D0
+『バカ、嘘つき』――つぐみは海原に向かって呟いた。%K%N
+'You fool, you're a liar.'―Tsugumi whispered to the ocean.%K%N
+0x18DC
+しかしそう思う一方で、まだ彼女は一縷の望みを捨て切れずにいた。%K%N
+But at the same time, she still hadn't given up hope.%K%N
+0x18E8
+『いいえ、違うわ。彼は生きている。きっとどこかで生きている。だって彼は、約束を破るような人じゃないもの』%K%N
+'No... He must be alive somewhere. He's a man of his word.'%K%N
+0x18F4
+――と、そのときだった。%K%O
+―Just then.%K%O
+0x190C
+渚で水と戯れていた女の子が、突然の波に襲われた。%K%N
+A wave swallowed the girl, who had been playing near the edge of the water.%K%N
+0x1918
+それは大人から見ればスネを浸すぐらいの小さな波だったが、まだ１才の幼な子にとっては怒濤に等しい高波であった。%K%N
+It was a small, sun-soaked wave from an adult's perspective, but for a one-year-old child it was a raging wall of water.%K%N
+0x1924
+女の子は押し寄せる水しぶきに巻かれて姿を消し、また引いていく波にさらわれて、流木のように砂の上を転がった。%K%O
+The girl disappeared in a splash of water and was sucked out into the ocean like a piece of driftwood by the tide.%K%O
+0x193C
+つぐみは走った。砂に足を取られながらも無我夢中で走り続けた。%K%N
+Tsugumi ran as hard as she could, held back by the resistance of the sand.%K%N
+0x1948
+だが、つぐみが女の子に駆け寄る前に、信じられないことが起こった。%K%N
+But before she could get there, something unbelievable happened.%K%N
+0x1954
+まだ１才３ヶ月の男の子が、泡立つ波の中へと身を躍らせ、溺れもがく女の子の姿を抱き上げたのだ。%K%N
+The boy, who was only one year and three months old, jumped into the water and saved the girl.%K%N
+0x1960
+つぐみは我が目を疑いながらも、足だけは止めずに、ふたりの元へと駆け寄った。%K%O
+Hardly able to believe what she had seen, Tsugumi rushed toward them.%K%O
+0x1978
+乾いた砂浜の上に、子供達を運ぶ。%K%N
+She carried them to dry sand.%K%N
+0x1984
+女の子はせきを切ったように泣き始めた。%K%N
+The girl started crying.%K%N
+0x1990
+男の子は、何が起こったのかわからないといった感じで、泣きじゃくる妹のことをきょとんと見つめていた。%K%O
+The boy, seemingly unaware of what had happened, looked at his crying sister.%K%O
+0x19A8
+それから数秒後……力尽きたのか、男の子はことんと砂の上に倒れた。%K%N
+A few seconds later... he fell over as if all his strength had left him.%K%N
+0x19B4
+その晩、ふたりは示し合わせたかのように、高熱を出して寝込んだ。%K%O
+That night, both of them came down with a high fever.%K%O
+0x19EC
+――夏。――出産から１年半が経った。%K%N
+―It was summertime. A year and a half had passed since the birth.%K%N
+0x19F8
+この１年半は、どの瞬間を切り取っても、幸せが満ち溢れていた。%K%N
+All of that time in the previous year and a half had been filled with happiness.%K%N
+0x1A04
+何もなかったけど……何もなかったからこそ、ほのぼのとした日常……。%K%O
+Nothing special had happened... and that was why it had been so peaceful...%K%O
+0x1A3C
+やんちゃ坊主の男の子からは、危なっかしくて目を離すことができなかった。%K%N
+The boy was a wild one, and Tsugumi could hardly take her eyes off of him for a second.%K%N
+0x1A48
+落ちているものは何でも（それがたとえチャミであっても）口に運んでしまうし……%K%N
+He was constantly putting everything (even Chami) in his mouth...%K%N
+0x1A54
+電化製品は片っ端からぶち壊して行くし、いくら注意してもコンセントに針金を差す癖をやめなかった。%K%O
+Any electrical appliance that he touched seemed to break, and he wouldn't stop jamming metal wires into the outlets.%K%O
+0x1A6C
+女の子の方は、行動半径が狭いぶん手がかからなかったが、それでも、彼女の頑固なワガママには随分と手を焼いた。%K%N
+The girl wasn't quite as much of a challenge, since she moved about less, but still Tsugumi had to put up with her stubbornness.%K%N
+0x1A78
+気に入らない食べ物は絶対に口にしようとしなかったし、機嫌が悪いといつまでも駄々をこね続けたし……%K%N
+She refused to eat things she didn't like, and when she got in a bad mood, she wouldn't stop fussing...%K%N
+0x1A84
+いくら注意してもお兄ちゃんの髪の毛をいぢる癖をやめなかった。%K%N
+And no matter how much Tsugumi warned her, she wouldn't stop playing with her brother's hair.%K%N
+0x1A90
+そしてしばしば『チャミたん、もっと！　もっと！　もっと！』とせがんだ。%K%O
+And she would always demand, 'More Chami! More Chami!'%K%O
+0x1AA8
+ふたりの子供達に翻弄され、振りまわされる毎日……。%K%N
+Those days were filled with Tsugumi being buffeted about by her two rambunctious children...%K%N
+0x1AB4
+けれど、そんな日常さえも、幸せのカケラだった。%K%O
+But no matter how challenging they were, even those days were filled with happiness.%K%O
+0x1ACC
+夜になると、３人は小さな煎餅布団の上に寝転がって、互いに寄り添うようにして眠った。%K%N
+At night, all three of them slept together, cuddled up on a thin mattress.%K%N
+0x1AD8
+『マンマ……マンマ……』%K%N
+'Momma... Momma...'%K%N
+0x1AE4
+『あ〜あ、ちゃったぁ……ちゃったぁ……』%K%N
+'Aaah... Chammiii, Chammmiii...'%K%N
+0x1AF0
+むにゃむにゃと寝言をもらしながら、ふたりの幼な子は、母親の温もりを求め甘えてきた。%K%N
+Talking in their sleep, the two babies sought their mother's touch.%K%N
+0x1AFC
+無邪気な子供達の仕草に、つぐみはまた、我を忘れて恍惚とするのだった。%K%O
+Looking down at their sweet, innocent gestures, Tsugumi felt bliss she had never known.%K%O
+0x1B4C
+――その日。%K%N
+―One day.%K%N
+0x1B58
+平穏な日常は、無惨にも打ち砕かれた。%K%O
+Her peaceful world was shattered to pieces.%K%O
+0x1B78
+あまりにも唐突な出来事……。%K%N
+It all happened so unexpectedly...%K%N
+0x1B84
+日々の安らぎに酔いしれ、すっかりと気を緩めていたつぐみは、奴らに対する警戒を完全に怠っていた。%K%N
+Caught up in her life of happiness, Tsugumi had forgotten to watch out for 'them'.%K%N
+0x1B90
+どこから情報を入手したのかわからないが、奴らが、不意につぐみの前へと姿を現したのだった。%K%N
+She didn't know how they had found out, but they had somehow gathered information and showed up without warning.%K%N
+0x1B9C
+奴ら……ライプリヒの連中が……。%K%O
+Them... The people from Leiblich...%K%O
+0x1BB4
+つぐみは、取るものも取りあえず、ふたりの幼な子と、１匹のハムスターだけを抱いて逃げた。%K%N
+With no time to collect anything, all Tsugumi could bring with her was her two babies and her hamster as she fled.%K%N
+0x1BC0
+逃げたのはいいのだが……%K%N
+So they ran, but...%K%N
+0x1BCC
+しかしこのままでは、いずれ奴らに追い詰められるだろうことは目に見えていた。%K%N
+It was obvious to Tsugumi that, eventually, Leiblich would hunt them down.%K%N
+0x1BD8
+しばらくの間、３人での逃亡生活を続けながら、つぐみはこんなことを考えた。%K%O
+As they continued running, Tsugumi thought to herself.%K%O
+0x1BF0
+『仮に逃げのびることができたとしても、それがこの子達の幸せになるだろうか？』%K%N
+'Even if I could keep escaping, would it really be happiness for the two children?'%K%N
+0x1BFC
+『もしかしたら、学校にだって行かせてやれないかもしれない』%K%N
+'They wouldn't be able to go to school.'%K%N
+0x1C08
+『街から街へと渡り歩く生活は、この子達にはあまりにも酷だ』%K%N
+'And it would be too hard on them to keep moving from town to town.'%K%N
+0x1C14
+『しかも……もしも捕まってしまったとしたら、ライプリヒがこの子達に何をするかわかったものではない』%K%O
+'Besides... if we ever get caught, what would they do to my children at Leiblich?'%K%O
+0x1C2C
+『私といては危険だ、あまりにも危険すぎる……』%K%N
+'It's too dangerous for them to be with me...'%K%N
+0x1C38
+つぐみは決意をかためた。%K%O
+Tsugumi made up her mind.%K%O
+0x1C50
+信頼できそうな施設を片っ端から調べあげ、ふたりの幼な子を、そこにあずけることに決めたのだ。%K%N
+She researched an orphanage she could trust and decided to leave them there.%K%N
+0x1C5C
+ふたりの子供は、まだ幼すぎた。%K%N
+The two children were just too young...%K%N
+0x1C68
+つぐみがいくら説明したところで、意味を理解できるはずもない。%K%N
+Even if Tsugumi had tried to explain, they couldn't have understood.%K%N
+0x1C74
+やむなく、つぐみはたったひとつの願いを込めて、大切に持っていたあの『ペンダント』を、ふたりに授けたのだった。%K%O
+With no other option, she left the pendant she had kept with her, making a wish as she gave it.%K%O
+0x1C8C
+『必ず戻ってくるからね？　迎えに来るからね？』%K%N
+'I will come back for you. I will come to get you, I promise.'%K%N
+0x1C98
+状況を呑み込むことのできないふたりの子供達は、ポロポロと涙を流す母親の姿を、寂しそうに、悲しそうに、見つめるだけだった。%K%N
+Being too young to understand the situation, the two children just stared at their mother, crying.%K%N
+0x1CA4
+つぐみは、はらはらと泣きながら、何度も何度も後ろを振り返り、その場を去って行った。%K%O
+Weeping bitter tears, Tsugumi looked back many times as she walked away.%K%O
+0x1CD4
+つぐみに残されたものは、チャミだけだった。%K%N
+All she had left was Chami.%K%N
+0x1CE0
+チャミは服の胸元で、不思議そうにつぐみの顔を眺めていた。%K%N
+From Tsugumi's chest pocket, Chami looked up at her face in puzzlement.%K%N
+0x1CEC
+けれど、そんなチャミの仕草も、慰めになどなりはしなかった。%K%N
+But even Chami's cute gestures could do little to ease Tsugumi's broken heart.%K%N
+0x1CF8
+つぐみは失意のどん底であえぎ、悲しみに暮れ、幾たびも泣き明かした。%K%O
+She spent many nights in the depths of despair, crying in her sorrow.%K%O
+0x1D10
+――数年後。%K%N
+―A few years later.%K%N
+0x1D1C
+つぐみが再び施設へと舞い戻ったときには、すでに子供達の姿はなかった。%K%N
+By the time Tsugumi went back to the orphanage, the children were already gone.%K%N
+0x1D28
+それから、気の遠くなるような歳月が流れ……%K%N
+From that time on, she had gone through life...%K%N
+0x1D34
+廃人のように成り果てたつぐみは……%K%N
+No more than an empty husk...%K%N
+0x1D40
+今日、この日、この瞬間まで……%K%N
+Until that day, until that very moment...%K%N
+0x1D4C
+ただひたすら我が子の姿だけを捜し求め……%K%N
+Tsugumi had kept searching for her children...%K%N
+0x1D58
+闇から闇へとさまよい続けてきたのだった。%K%O
+Wandering through darkness.%K%O
+0x1D84
+つぐみは語り終え、そっとまぶたを閉じた。%K%P
+Tsugumi finished telling her story and closed her eyes gently.%K%P
+0x1D90
+結局最後まで、話の中で、つぐみの口から『ホクト』や『沙羅』といった名前が出ることはなかった。%K%P
+She never once mentioned the names 'Hokuto' or 'Sara' in the story.%K%P
+0x1D9C
+理由は、それらの名前が、つぐみの名付けたものではなかったからだ。%K%P
+Because those names weren't the names Tsugumi had given them.%K%P
+0x1DA8
+『ホクト』と『沙羅』という名前を付けたのは、つぐみではない別の誰かだったようだ。%K%P
+Someone else had named them 'Hokuto' and 'Sara'.%K%P
+0x1DDC
+………………。%K%P
+.........%K%P
+0x1DE8
+…………。%K%P
+......%K%P
+0x1DF4
+……。%K%P
+...%K%P
+0x1E44
+ぼくは、つぐみと沙羅の元を離れた。%K%P
+I left Tsugumi and Sara.%K%P
+0x1E50
+できることならずっと一緒にいたかったが、そうもしていられない。%K%P
+If I could, I wanted to stay with them forever, but it wasn't possible.%K%P
+0x1E5C
+まだまだ解決していないことが山ほどあるのだ。%K%P
+There were still many unsolved matters that I needed to take care of.%K%P
+0x1E68
+つぐみの話を聞いているうちに、ぼくは急にあることを思い出した。%K%P
+Listening to Tsugumi's story had caused me to suddenly remember something.%K%P
+0x1E74
+このＬｅＭＵへとやって来る前、１本の電話を受けたことがあった。%K%P
+I had received a phone call before coming to LeMU.%K%P
+0x1E80
+電話の向こう側で、声はこう言った。%K%P
+Over the phone, a voice had said to me...%K%P
+0x1E8C
+『ＬｅＭＵへ来れば、母親と妹に逢わせてやる』%K%P
+'If you come to LeMU, you can see your mother and sister.'%K%P
+0x1E98
+少年「ああ、そうだ、そうだったんだ……」%K%P
+Kid「Oh, so that was it...」%K%P
+0x1EA4
+少年「ぼくはこの事故が起きる前、憩いの間で、誰かが来るのを待っていた」%K%P
+Kid「Before the accident took place, I had been waiting for someone at the rest area.」%K%P
+0x1EB0
+少年「それはきっと、お母さんと、沙羅のことで……」%K%P
+Kid「It must have been my mother and Sara...」%K%P
+0x1EBC
+たぶんつぐみも、ぼくと同じようなことを言われて、ＬｅＭＵへとおびき寄せられたのだろう。%K%P
+Tsugumi must have been roped into coming to LeMU in the same way I was.%K%P
+0x1EC8
+――おびき寄せる！？%K%P
+―Wait, roped in!?%K%P
+0x1ED4
+――何の為に……！？%K%P
+―What for...!?%K%P
+0x1EE0
+理由はまだ、わからなかった。%K%P
+I still didn't know the answer to that.%K%P
+0x1EEC
+だけど手がかりはある……。%K%P
+But I had some clues...%K%P
+0x1EF8
+電話の声の主は、男性だったのだ。%K%P
+The voice on the phone had been male.%K%P
+0x1F04
+今になってみれば、その声が誰のものなのか、考えるまでもなくわかった。%K%P
+Without a doubt, I knew whose voice it had been.%K%P
+0x1F10
+ぼくは、男の元へと走った。%K%P
+I ran to him.%K%P
+0x1F7C
+少年「お前は……お前は……」%K%P
+Kid「You... You...」%K%P
+0x1F88
+少年「お前は、倉成武じゃなかったんだな！」%K%P
+Kid「You aren't Kuranari Takeshi!」%K%P
+0x1F94
+憩いの間へと飛び込んだぼくは、目の前に立った男へと詰め寄った。%K%P
+Barging into the rest area, I demanded an answer from the man in front of me.%K%P
+0x1FA0
+もはや、彼を『武』と呼ぶことはできない。%K%P
+I couldn't call him 'Takeshi' anymore.%K%P
+0x1FAC
+こいつは、ぼくらのことを今までだまし続けてきたんだ。%K%P
+That guy had been deceiving us the whole time.%K%P
+0x1FC0
+武「何を突然わけのわからんことを……」%K%P
+Takeshi「Look, I don't have any clue what you're talking about...」%K%P
+0x1FCC
+少年「とぼけるな！」%K%P
+Kid「Don't play dumb!」%K%P
+0x1FD8
+少年「本当の武は、ぼくと沙羅のお父さんなんだ！」%K%P
+Kid「I know that the real Takeshi is Sara's and my father!」%K%P
+0x1FEC
+武「お父さん？　俺が、お前と沙羅の？」%K%P
+Takeshi「Father? Me? You and Sara's?」%K%P
+0x1FF8
+少年「お前じゃない！」%K%P
+Kid「No, not you!」%K%P
+0x2004
+少年「武とつぐみの間にできた子供がぼくと沙羅なんだ」%K%P
+Kid「Sara and I are the children of Takeshi and Tsugumi.」%K%P
+0x2018
+武「俺とつぐみ……」%K%P
+Takeshi「Wait, so Tsugumi and I...」%K%P
+0x2024
+少年「お前じゃないって言ってるだろ！」%K%P
+Kid「I keep telling you, you're not Takeshi!」%K%P
+0x2030
+少年「別の世界の武のことなんだ！」%K%P
+Kid「I'm talking about Takeshi from the other world!」%K%P
+0x203C
+武「別の世界？　なんじゃ、そりゃ？」%K%P
+Takeshi「Other world? What the heck's that supposed to mean?」%K%P
+0x2048
+少年「２０１７年の世界のことだよ！」%K%P
+Kid「The world back in 2017!」%K%P
+0x205C
+武「ふ〜ん……２０１７年ねぇ……」%K%P
+Takeshi「Um... 2017, huh...?」%K%P
+0x2068
+武「おまえが生まれたのはいつだったっけ？」%K%P
+Takeshi「And when were you born?」%K%P
+0x2074
+少年「今から１６年前の１月２１日だ」%K%P
+Kid「On January 21st, sixteen years ago.」%K%P
+0x2080
+武「西暦で言うと？」%K%P
+Takeshi「In what year?」%K%P
+0x208C
+少年「２０１８年だよ！」%K%P
+Kid「In 2018!」%K%P
+0x2098
+武「なるほど」%K%P
+Takeshi「I see.」%K%P
+0x20A4
+武「じゃあどうしてお前は、２０１７年の世界のことなんか知ってるんだ？」%K%P
+Takeshi「So how could you possibly know what happened in 2017?」%K%P
+0x20B0
+少年「わからないよ！　わからないけど知ってるんだからしょーがないだろ！」%K%P
+Kid「I dunno, I just do! What do you expect me to do about it!?」%K%P
+0x20BC
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x20C8
+少年「今はぼくの話をしてるんじゃないんだ」%K%P
+Kid「Besides, we're not talking about me now.」%K%P
+0x20D4
+少年「お前は……お前は一体何者なんだ！」%K%P
+Kid「Who... Who are you anyway!?」%K%P
+0x20E0
+少年「どうして２０１７年なんて嘘をついたんだ！」%K%P
+Kid「And why did you lie about the year 2017!?」%K%P
+0x20EC
+少年「どうして倉成武なんて偽名を使ってるんだ！」%K%P
+Kid「Why are you pretending to be Kuranari Takeshi!?」%K%P
+0x20F8
+少年「今から１７年前と同じ出来事を繰り返し、同じ言葉を繰り返し、ぼくらをだまそうとしたのはなぜなんだ！」%K%P
+Kid「What was the reason you tried to trick us by repeating the same incident as seventeen years ago and by using the same words!?」%K%P
+0x210C
+武「だます……だますねぇ……」%K%P
+Takeshi「To trick you... To trick you, huh...?」%K%P
+0x2120
+武「少年？　よく考えてみろよ？」%K%P
+Takeshi「Think twice, will you, Kid?」%K%P
+0x212C
+武「俺がもしも仮に、２０１７年の出来事を繰り返してるとしてもだ」%K%P
+Takeshi「For instance, if I was repeating the incident in 2017...」%K%P
+0x2138
+武「２０１８年に生まれたお前のことをだませるはずがないだろ？」%K%P
+Takeshi「How could I possibly trick you, someone who was born in 2018?」%K%P
+0x2144
+武「現実的に考えれば『１７年前と同じことが起きている』と、お前に信じ込ませることは不可能なんだよ」%K%P
+Takeshi「Practically speaking, it's impossible to trick you into believing the same incident from seventeen years ago is taking place.」%K%P
+0x2150
+武「わかるか？」%K%P
+Takeshi「Do you get it?」%K%P
+0x215C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x2170
+武「それより、どうして同じ出来事だとわかる？」%K%P
+Takeshi「Besides, how could you tell it was the same incident?」%K%P
+0x217C
+武「どうして同じ言葉を言っているとわかる？」%K%P
+Takeshi「How could you tell that I'm using the same phrase?」%K%P
+0x2188
+武「どうしておまえは、自分が生まれる前の歴史なんかを知ってるんだ！」%K%P
+Takeshi「How could you know the history before you were even born!?」%K%P
+0x219C
+武「そろそろ正体を現したらどうなんだ？」%K%P
+Takeshi「Why don't you reveal your true self?」%K%P
+0x21A8
+武「お前は一体、何者なんだ！」%K%P
+Takeshi「Who are you anyway!?」%K%P
+0x21B4
+なぜか、言葉がでなかった。%K%P
+For some reason, I couldn't say a word.%K%P
+0x21C0
+（ぼくは一体、何者なんだ……？）%K%P
+(Who am I anyway...?)%K%P
+0x21CC
+心の中で、同じつぶやきが繰り返される。%K%P
+The same question was repeated in my mind.%K%P
+0x21E0
+武「そうか、そうか、自分の話になると突然ダンマリですか……」%K%P
+Takeshi「Oh, I see, when it comes to your story, you clam up, huh...?」%K%P
+0x21EC
+武「わかったよ」%K%P
+Takeshi「Alright then.」%K%P
+0x2200
+武「だったらまずは、俺の本当の名前を教えてやろう」%K%P
+Takeshi「I'll tell you my real name.」%K%P
+0x220C
+武「そう、お前が言ったように、俺は倉成武ではない」%K%P
+Takeshi「Yes, as you said, I am not Kuranari Takeshi.」%K%P
+0x2218
+武「俺の本当の名前は……」%K%P
+Takeshi「My real name is...」%K%P
+0x2224
+桑古木「カブラキ」%K%P
+Kaburaki「Kaburaki.」%K%P
+0x2230
+桑古木「カブラキ・リョウゴ」%K%P
+Kaburaki「Kaburaki Ryogo.」%K%P
+0x233C
+桑古木「カブラキ・リョウゴ」%K%P
+Kaburaki「Kaburaki Ryogo.」%K%P
+0x2348
+桑古木「思い出したんだ、ぼくの名前……」%K%P
+Kaburaki「I just remembered my name...」%K%P
+0x2354
+少年は指先で、漢字を書いて示した。%K%P
+The Kid repeated it slowly.%K%P
+0x2368
+桑古木「『桑』……『古』い……『木』……『涼』しい……%N『権』……」%K%P
+Kaburaki「Ka-bu-ra-ki... Ryo-go...」%K%P
+0x2374
+武「桑古木涼権……」%K%P
+Takeshi「Kaburaki Ryogo...」%K%P
+0x2380
+武「うん、そうか……」%K%P
+Takeshi「I see...」%K%P
+0x238C
+武「よかったじゃないか」%K%P
+Takeshi「Way to go.」%K%P
+0x2398
+俺は笑みを浮かべ、少年の頭をなでてやった。%K%P
+I smiled and patted his head.%K%P
+0x23A4
+嬉しそうに照れる桑古木少年……。%K%P
+The young Kaburaki smiled shyly...%K%P
+0x23B8
+すると、桑古木少年は何も言わず、石像の裏側へとまわり込んで、何やらガリガリとやり始めた。%K%P
+Without a word, the young Kaburaki went behind the statue and started scratching.%K%P
+0x23C4
+見ると、彼の右手にはドライバーが……。%K%P
+He had a screwdriver in his hand...%K%P
+0x23D0
+『桑古木涼権』%K%P
+'Kaburaki Ryogo'.%K%P
+0x23DC
+カクカクと尖った細い字で、桑古木少年は深々と、石像に傷を刻み込んだ。%K%P
+With thin, sharp writing, the young Kaburaki carved his name deeply into the statue.%K%P
+0x23E8
+名前を思い出したことが、よほど嬉しかったのだろうか？%K%P
+He must have been pretty happy to have remembered his name.%K%P
+0x23F4
+それとも、再び忘れてしまわない為に……？%K%P
+Or was it so that he wouldn't forget it again...?%K%P
+0x2400
+理由はわからなかったが、ともかく、彼はそこに、自分の名前をしっかりと彫り込んだのだった。%K%P
+Although I didn't know the reason, he carved his name into the statue.%K%P
+0x240C
+それで終わりかと思ったら……%K%P
+He continued on...%K%P
+0x2418
+彼はなおも手を休めることなく、次のような文字も刻み続けた。%K%P
+Without stopping his hands, he also carved some more names...%K%P
+0x2424
+『八神ココ』%K%P
+'Yagami Coco'%K%P
+0x2430
+『田中優美清春香菜』%K%P
+'Tanaka Yubiseiharukana'%K%P
+0x243C
+『小町つぐみ』%K%P
+'Komachi Tsugumi'%K%P
+0x2448
+『茜ヶ崎空』%K%P
+'Akanegasaki Sora'%K%P
+0x2454
+『倉成武』%K%P
+'Kuranari Takeshi'%K%P
+0x2460
+『ピピ』『チャミ』%K%P
+'Pipi' and 'Chami'%K%P
+0x2474
+ここに閉じ込められた全員の名前を、桑古木少年は書いたのだ。%K%P
+The young Kaburaki carved the names of everyone who had been confined there.%K%P
+0x2480
+書き終えて、満足げな笑みを浮かべる桑古木少年……。%K%P
+He smiled happily after finishing up...%K%P
+0x248C
+石像は何も言わず、ただ黙って胸に手の平を重ねていた……。%K%P
+The statue kept silent with its hand on the chest...%K%P
+0x25A4
+あの少年の名前も……桑古木涼権……！？%K%P
+That boy's name was also... Kaburaki Ryogo!?%K%P
+0x25B0
+じゃあ……『今から１７年前の世界の少年』と……『この世界で武と偽名を使っていたあの男』は……同一人物……なのか！？%K%P
+Which meant that... the Kid from seventeen years ago and... the guy pretending to be Takeshi were... actually the same person!?%K%P
+0x25BC
+そのわりには、１７年間という歳月を感じさせぬほど、彼は若々しい。%K%P
+He looked so young that it was hard to believe it had been seventeen years.%K%P
+0x25C8
+桑古木少年の年齢が仮に１５歳だとすれば、この世界の彼はもう、３２歳になっているはずだ。%K%P
+If the young Kaburaki was 15 years old, that would make him 32 years old in my world.%K%P
+0x25D4
+けれど、さっきまでぼくと話していた桑古木は、どう見ても２０歳前後……３０歳を越えているとは思えない。%K%P
+But the Kaburaki I spoke to looked around 20... There was no way he could have been over 30 years old.%K%P
+0x25E0
+ということは、まさか……？？？%K%P
+Which meant...?%K%P
+0x25EC
+……………………………………………。%K%P
+.........%K%P
+0x25F8
+今、ぼくの前に、桑古木と名乗ったあの男の姿はない。%K%P
+Before I realized it, the man who called himself Kaburaki had disappeared.%K%P
+0x2604
+だいぶ前に立ち去ってしまった。%K%P
+He had left a while before.%K%P
+0x2610
+ぼくはしばらくの間、茫然とし、その場に立ち尽くしていた。%K%P
+I'd been standing there lost in thought for some time.%K%P
+0x261C
+やがて、ついさっき見たばかりの『２０１７年の光景』を思い出し……%K%P
+I recalled the scene in 2017 which I had just witnessed earlier...%K%P
+0x2630
+誘われるように、ぼくは１体の石像の裏側へとまわりこんでみた。%K%P
+I went around one of the statues as if being called over to it.%K%P
+0x2644
+石像の背面には、針金人形みたいな子供の落書きが刻まれていた。%K%P
+On its back were carved childish stick figures.%K%P
+0x2650
+人間らしき図が６つ、見たこともない獣の姿が２つ、そこに描かれている。%K%P
+Six human-like figures and two unfamiliar animal shapes were drawn there.%K%P
+0x265C
+少年「……えっ？」%K%P
+Kid「...What?」%K%P
+0x2668
+ぼくは石像の姿を仰ぎ見た。%K%P
+I looked at the statue.%K%P
+0x2674
+石像は、南を指差している。%K%P
+The statue pointed south.%K%P
+0x2680
+少年「？？？」%K%P
+Kid「?」%K%P
+0x2694
+念の為、他の石像の背中も確かめてみた。%K%P
+I looked at the back of the other statues as well.%K%P
+0x26A8
+すると驚くべきことに、天を指差した石像にも、同じような落書きがあった。%K%P
+Surprisingly, there were similar drawings on the statue pointing to the sky.%K%P
+0x26C8
+さらに、胸に手の平を重ねた石像には、６人の名前と、ピピ、チャミ、という記述が見られた。%K%P
+There were also six people's names as well as 'Pipi' and 'Chami' carved into the statue which stood with its hand on its chest.%K%P
+0x26DC
+東に手を伸ばした石像にだけ、何も描かれていない。%K%P
+There was no writing on the statue pointing east.%K%P
+0x26E8
+少年「ああっ！　もうっ、どういうことだよぉーっ！？」%K%P
+Kid「Oh, just what is this supposed to mean!?」%K%P
+0x26F4
+少年「この世界は一体なんなんだぁーっ！？」%K%P
+Kid「What's up with this world anyway!?」%K%P
+0x2708
+頭が混乱して、今にも爆発しそうだった。%K%P
+Puzzled and confused, my head felt like it was about to explode.%K%P
+0x2714
+知っているはずのことを知らなくて……知らないはずのことを知っていて……。%K%P
+I didn't know things that I was supposed to know... I knew things that I wasn't supposed to...%K%P
+0x2720
+だからこそ、こんなにも、頭の中がこんがらがってしまっているのだろう。%K%P
+(That must be why my head is so confused.)%K%P
+0x272C
+そう、ぼくはいまだに、記憶を取り戻せずにいる。%K%P
+(I still haven't recalled any of my memories.)%K%P
+0x2738
+断片的な記憶は蘇ったものの、大事なことは何ひとつわかっていない。%K%P
+Some parts of it had come back, but nothing really important.%K%P
+0x2744
+そもそも、ホクトという存在がどんな人間なのか、ぼくにはまだわからない。%K%P
+To begin with, I still didn't know what kind of person 'Hokuto' was.%K%P
+0x2750
+と同時に、ぼくは知らないはずのことを知り、見えるはずのないものを見ることができる。%K%P
+And at the same time, I knew what I wasn't supposed to know and I could see what I wasn't supposed to see.%K%P
+0x275C
+例えばそれは、今から１７年前の世界――。%K%P
+For instance, the world seventeen years into the past...%K%P
+0x2768
+ピグマリオンの伝説、ティーフブラウ・ウイルス、キュレイウイルス、ピピのこと、チャミのこと……。%K%P
+About the legend of Pygmalion, the Tief Blau virus, the Curé virus, Pipi, and Chami...%K%P
+0x2774
+それらのすべてを、今、ぼくは知っている。%K%P
+I knew about all of them.%K%P
+0x2780
+１７年前の脱出劇、５月６日と７日に何が起こったのかも、ぼくには手に取るようにわかるのだった。%K%P
+I knew exactly what had happened during the dramatic escape seventeen years ago and what had happened on May 6th and 7th.%K%P
+0x278C
+さらに、２０３４年の世界――。%K%P
+And the world in 2034...%K%P
+0x2798
+この世界の別の歴史の流れさえ、ぼくには知覚することができる。%K%P
+I could sense even the different history flows in my world.%K%P
+0x27A4
+サイフォン効果を使って脱出したことも……３４ｍの海中から泳いで洋上へとたどりついたことも……。%K%P
+I knew about escaping using the principle of a siphon and about swimming to the ocean surface from 34 meters under the water.%K%P
+0x27B0
+第３視点……ブリックヴィンケル……それらの言葉も、しっかりと記憶の底に刻み込まれていた。%K%P
+The third eye... Blick Winkel... Those words were clear in my head.%K%P
+0x27BC
+それから……それから……。%K%P
+And... then...%K%P
+0x27C8
+あの浮島の上で、田中先生に逢ったことも、覚えている。%K%P
+I remembered running into Doctor Tanaka on the floating island.%K%P
+0x27D4
+いや、覚えているというよりも……『見ることができる』と言った方が的確かも知れない。%K%P
+No, rather than remembering, it was better to say that I could see it.%K%P
+0x27E0
+とにかく、ぼくは彼女に逢った。%K%P
+Anyway, I saw her.%K%P
+0x27EC
+田中先生と呼ばれていた女性……優美清秋香菜の母親……。%K%P
+The woman who was called Doctor Tanaka... Yubiseiakikana's mother...%K%P
+0x27F8
+つまり彼女の正体は、優美清春香菜だったということだ。%K%P
+Meaning she was actually Yubiseiharukana.%K%P
+0x2804
+優美清春香菜と優美清秋香菜は、常識的な範疇から逸脱した繋がりではあるが、それでもやはりふたりの関係は、親子であるとしか言いようがない。%K%P
+Although their relationship defied the norm, Yubiseiharukana and Yubiseiakikana were still mother and daughter.%K%P
+0x2810
+……………………………………………。%K%P
+.........%K%P
+0x281C
+混沌と散らばった思考の断片……。%K%P
+Pieces of my thoughts scattered...%K%P
+0x2828
+それらを、ぼくは懸命にかき集め、あるひとつの結論を導き出そうともがき始めた。%K%P
+I tried gathering them and struggled to come up with some kind of conclusion.%K%P
+0x2834
+少年「今は２０３４年……」%K%P
+Kid「It's 2034 now...」%K%P
+0x2840
+少年「そして、ココのいた世界は２０１７年……」%K%P
+Kid「And Coco was in 2017...」%K%P
+0x284C
+確かめるようにつぶやく。%K%P
+I whispered to confirm the facts.%K%P
+0x2858
+そうだ、そうなんだ、今は２０３４年なんだ……。%K%P
+Yes, that was right, it was 2034...%K%P
+0x2864
+だからつぐみは、あんなにもぼくらのことを疑っていたのだ。%K%P
+That was why Tsugumi had been so suspicious of us.%K%P
+0x2870
+１７年前と同じ事件が、そっくりそのまま繰り返されたから……。%K%P
+Because the same thing that had happened seventeen years ago was repeating...%K%P
+0x287C
+他のみんなはどうだろう？%K%P
+How about the others?%K%P
+0x2888
+優美清秋香菜は、１７年前に１才だったから、昔の事件のことを知っているはずがない。%K%P
+Since Yubiseiakikana had been born seventeen years prior, she couldn't possibly have known about the incident.%K%P
+0x2894
+沙羅も、生まれていないのだから、当然知らないだろう。%K%P
+And since Sara hadn't been born yet, she wouldn't know either.%K%P
+0x28A0
+空は、ＡＩの性質上嘘がつけないらしいし、また、嘘をついているとも思えない。%K%P
+Sora, being AI, couldn't lie. And she didn't seem to be lying either.%K%P
+0x28AC
+残るは桑古木、ただひとり――。%K%P
+So that only left Kaburaki...%K%P
+0x28B8
+ということは、２０３４年の、この事件の首謀者は、桑古木だったということか？%K%P
+Did that mean Kaburaki was the mastermind behind the whole incident in 2034?%K%P
+0x28C4
+いや、待てよ……。%K%P
+No, wait...%K%P
+0x28D0
+１７年前の事故で生き残った人物は、あと２人いる……。%K%P
+There had been two others who had survived the incident seventeen years ago...%K%P
+0x28DC
+優美清春香菜と、ココだ。%K%P
+Yubiseiharukana and Coco.%K%P
+0x28E8
+２０１７年５月６日――。%K%P
+On May 6th, 2017...%K%P
+0x28F4
+ティーフブラウ・ウイルスに感染した桑古木と、優美清春香菜と、ココは、ＩＢＦのプールにやって来た潜水艇に救助されたはずで……。%K%P
+Kaburaki, Yubiseiharukana, and Coco, who had been infected with the Tief Blau virus, had been rescued by the minisub which came to the pool in IBF.%K%P
+0x2900
+少年「あっ、そう言えば……」%K%P
+Kid「Hey, that reminds me...」%K%P
+0x290C
+あの凶悪なウイルスに感染した３人は、あれから何事もなく、快復することができたのだろうか？%K%P
+How did the three of them recover from the virus after they'd been infected?%K%P
+0x2918
+つぐみの血液から精製したティーフブラウの抗体を、接種したから……？%K%P
+Because of the injection of antibodies made from Tsugumi's blood...?%K%P
+0x2924
+でも、確かココにだけは、あの抗体は注射していなかったはずだ。%K%P
+But Coco hadn't received the antibodies.%K%P
+0x2930
+あのときココは、カプセルポッドの中で、加圧状態にあったから……。%K%P
+Because she had been under high-pressure oxygen treatment in the capsule pod at the time...%K%P
+0x293C
+少年「……ん？？？」%K%P
+Kid「...Huh?」%K%P
+0x2948
+いやいやいや、その前に、だ。%K%P
+No, no, even before that.%K%P
+0x2954
+優美清春香菜は『致命的な心臓病』をわずらっていたんじゃなかったっけ？%K%P
+Yubiseiharukana suffered from 'critical heart disease', right?%K%P
+0x2960
+なのに今でも、優美清春香菜は、生きている。%K%P
+But she was still alive and well.%K%P
+0x296C
+少年「どういうことだ……？」%K%P
+Kid「What is going on here...?」%K%P
+0x2978
+ああ、どういうことも、こういうこともないか……。%K%P
+There was only one answer...%K%P
+0x2984
+きっと、やっぱり、そういうことなんだろう……。%K%P
+It was the only explanation...%K%P
+0x2990
+抗体を注射した優美清春香菜と桑古木は、キュレイウイルスに感染してしまったのだ。%K%P
+Yubiseiharukana and Kaburaki must have been infected with the Curé virus.%K%P
+0x299C
+ふたりの肉体は、あれから５年間ぶんの細胞分裂を繰り返し、すべての遺伝子が書き換わったところで老化が止まってしまった。%K%P
+Their bodies must have repeated five years worth of cell division, and when all their DNA had been rewritten, they stopped aging.%K%P
+0x29A8
+ふたりが実際の年齢よりも遥かに若く見えるのは、その為だろう。%K%P
+That must have been why they looked younger than their real age.%K%P
+0x29B4
+優美清春香菜の心臓病も、キュレイの作用によって完治することになった。%K%P
+And Yubiseiharukana's heart disease would have been fixed by the Curé virus.%K%P
+0x29C0
+少年「だけど……」%K%P
+Kid「But still...」%K%P
+0x29CC
+少年「ほんとに、そうなのかなぁ……？」%K%P
+Kid「Is that really what happened...?」%K%P
+0x29D8
+別の歴史の流れの中で、桑古木は、ホログラムペンダントの画像を見ることができなかった。%K%P
+In a different history flow, Kaburaki couldn't see the image in the pendant.%K%P
+0x29E4
+あれが嘘や演技じゃないとすれば、彼には赤外線視力が備わっていないということになる。%K%P
+If he wasn't lying or acting, he must not have possessed infrared vision.%K%P
+0x29F0
+そしてたぶん、根拠はないけれど、優美清春香菜にも赤外線視力はないような気がする。%K%P
+And although I didn't have proof, my instincts told me Yubiseiharukana didn't possess infrared vision either.%K%P
+0x29FC
+そう言えば、２０１７年の世界の中で……%K%P
+Then again, in the world of 2017...%K%P
+0x2A08
+つぐみは自分のことを『キュレイに感染した者の中でも特殊な存在なのだ』というようなことを言っていた。%K%P
+Tsugumi had mentioned she was 'special' among carriers of the Curé virus.%K%P
+0x2A14
+恐らく、遺伝子の組み替えが全身に渡って順調に行われた例は、非常に稀なのだと思う。%K%P
+Perhaps she was a rare example of DNA replacement that had taken place safely over the whole body.%K%P
+0x2A20
+ということは……？%K%P
+That meant...?%K%P
+0x2A2C
+現在の優美清春香菜と桑古木は、完全なキュレイ種ではないということか？%K%P
+Yubiseiharukana and Kaburaki weren't complete Curé?%K%P
+0x2A38
+でも……不完全なキュレイ種なんてものが、存在するとも思えないし……。%K%P
+But... it didn't seem to me that there could be any such thing as an 'incomplete Curé'...%K%P
+0x2A44
+少年「う〜ん……」%K%P
+Kid「Um...」%K%P
+0x2A50
+少年「ダメだ……」%K%P
+Kid「It's no use...」%K%P
+0x2A5C
+少年「わかんないや……」%K%P
+Kid「I can't figure it out...」%K%P
+0x2A68
+だけど、そんなことよりも何よりも、ぼくはもっともっと果てしなく壮大で重大で深刻な問題を抱えているのだった。%K%P
+But I still had a far more serious and pressing matter to deal with.%K%P
+0x2A74
+そっちの方を考える方が先だ。%K%P
+I needed to think about that problem first.%K%P
+0x2A80
+その問題とは――。%K%P
+The problem was...%K%P
+0x2A8C
+『どうしてぼくは、生まれる前の出来事や、別の歴史の流れなんてものを知覚することができるのか？』%K%P
+'How was I able to sense incidents that had taken place before I was born, or in separate time continua?'%K%P
+0x2A98
+そして――。%K%P
+And...%K%P
+0x2AA4
+『なぜ、今、１７年前と同じ事故が、同じ出来事が、発生したのか？』%K%P
+'Why is the same accident as seventeen years earlier taking place again?'%K%P
+0x2AB0
+これが偶然であるはずはなかった。%K%P
+It couldn't have been a coincidence.%K%P
+0x2ABC
+何者かが意図的に画策したものであることは明らかだ。%K%P
+Obviously, someone had planned it.%K%P
+0x2AC8
+手がかりと言えば、思い当たるのはただひとつ……。%K%P
+There was only one clue...%K%P
+0x2AD4
+ココ。%K%P
+Coco.%K%P
+0x2AE0
+ココに、会いたい。%K%P
+I wanted to see Coco.%K%P
+0x2AEC
+ココは、この事件の何もかも、すべてを知っているような気がする。%K%P
+I felt that Coco would know everything there was to know about the incident.%K%P
+0x2AF8
+とは言え、気まぐれに現れるココを、どうやって捜し出せばいいというのか？%K%P
+But how could I find Coco, who seemed to just pop up randomly?%K%P
+0x2B04
+少年「あっ、そっかぁ……」%K%P
+Kid「Oh, I know...」%K%P
+0x2B10
+突然のひらめき……。%K%P
+I had a sudden inspiration...%K%P
+0x2B1C
+ぼくには、心当たりがあったのだ。%K%P
+I had a hunch.%K%P
+0x2B28
+５日のこの時刻……。%K%P
+At that hour on the 5th...%K%P
+0x2B34
+ココはきっと、現れるはずだ……。%K%P
+Coco would show up...%K%P
+0x2B40
+宇宙クジラの、あの部屋に……。%K%P
+In the Cosmic Whale room...%K%P

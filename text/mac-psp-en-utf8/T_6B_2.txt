@@ -1,0 +1,867 @@
+text area offset and size:
+0x2690
+0x324E
+0x38
+武「ここだ……」%K%P
+Takeshi「Here we are...」%K%P
+0x44
+全員が立ち止まり、扉の前に集合した。%K%P
+We all stopped in front of the door.%K%P
+0x50
+一旦、背中のココを下ろした。彼女は壁にもたれる。%K%P
+I briefly put Coco down and leaned her up against the wall.%K%P
+0x5C
+少年が側に寄って、ココに肩を貸した。%K%P
+The Kid went up to Coco and lent her his shoulder.%K%P
+0x68
+『ＨＩＭＭＥＬ』――%K%P
+'HIMMEL'―%K%P
+0x74
+開かずの扉。%K%P
+The door that wouldn't open.%K%P
+0x80
+武「空、一応、念の為に訊くけど……」%K%P
+Takeshi「Sora, I'm just asking to make sure...」%K%P
+0x94
+空「なんでしょう……？」%K%P
+Sora「What...?」%K%P
+0xA0
+武「ヒンメルって、なんだ？」%K%P
+Takeshi「What does Himmel mean?」%K%P
+0xAC
+空「ドイツ語で『空』」%K%P
+Sora「It means 'sky' in German.」%K%P
+0xB8
+空「それに、『天国』……」%K%P
+Sora「Or 'heaven'...」%K%P
+0xC4
+武「天国、か……」%K%P
+Takeshi「Heaven, huh...?」%K%P
+0xD0
+皮肉な名前をつけてくれたものだ。%K%P
+They sure had given it an ironic name.%K%P
+0xE4
+さて……この扉を、どうやって開ければいい？%K%p
+So... the question was, how in the world were we going to open that door?%K%p
+0x2640
+空に訊く
+Ask Sora
+0x264C
+優に訊く
+Ask You
+0x2658
+つぐみに訊く
+Ask Tsugumi
+0x16C
+武「電子キーの解除コードは？」%K%P
+Takeshi「Can you tell me what the access code to the electronic lock is?」%K%P
+0x178
+改めて空に訊いた。%K%P
+I asked Sora again.%K%P
+0x18C
+空「不明です。ＩＢＦ研究員や、この部屋の専属スタッフにしか伝えられていないんです」%K%P
+Sora「It is unknown to me. It was only given to the IBF researchers and exclusive staff.」%K%P
+0x198
+武「何か、ヒントでもあればいいんだけどな……」%K%P
+Takeshi「Even a hint would help...」%K%P
+0x1AC
+空「私、解除コードを探してみます！」%K%P
+Sora「I will try to find what it is!」%K%P
+0x1D4
+言うと空の目の前に、透明なキーボード・コンソールが並んだ。%K%P
+As soon as she said that, a transparent keyboard and console appeared in front of her.%K%P
+0x1E8
+空「レミシステムのセキュリティブロックにアクセス……」%K%P
+Sora「Accessing the security block for LeMMIH's system...」%K%P
+0x1F4
+空「ヒンメルのプロテクトキーを解除します」%K%P
+Sora「Bypassing Himmel's protection key.」%K%P
+0x21C
+扉の電子キーのボタンが明滅し始めた。%K%P
+The buttons on the electronic lock started to flash.%K%P
+0x230
+空「レミ、お願いだから私の言うことを聞いて……」%K%P
+Sora「LeMMIH, please listen to me...」%K%P
+0x23C
+空「逆らわないで……」%K%P
+Sora「Please don't fight me...」%K%P
+0x248
+空は中空のキーボードを叩き、扉をロックしているシステムと戦っている。%K%P
+Sora was tapping furiously on the keyboard, battling with the system that was locking the door.%K%P
+0x25C
+空「あっ！」%K%P
+Sora「Ah!」%K%P
+0x458
+バチン！%K%P
+Snap!%K%P
+0x464
+空中に火花が散った……ように、俺には見えた。%K%P
+It looked to me almost as if sparks were flying in the air...%K%P
+0x470
+空の手は、仮想キーボードから弾かれていた。%K%P
+Sora's hands flew across the virtual keyboard.%K%P
+0x484
+空「くっ……！」%K%P
+Sora「Agh...!」%K%P
+0x490
+構わずに空はキーを叩く。%K%P
+Unfazed, she continued to type.%K%P
+0x68C
+バチン！%K%P
+Crack!%K%P
+0x888
+バチンッ！%K%P
+SNAP!%K%P
+0x894
+続けざまに激しく火花が放たれた。%K%P
+Sparks violently scattered out one after another.%K%P
+0xC20
+空「痛っ！！」%K%P
+Sora「Ow!」%K%P
+0xC38
+ＲＳＤの画像が乱れる。仮想キーボードは一瞬にして消滅した。%K%P
+Her RSD image wavered, and the virtual keyboard disappeared.%K%P
+0xC44
+武「大丈夫か、空！？」%K%P
+Takeshi「Sora, are you okay!?」%K%P
+0xC58
+空「すみません、アクセス拒否されました……」%K%P
+Sora「I'm sorry, I was denied access...」%K%P
+0xC64
+彼女の姿もしばらく、どことなく乱れたままで漂っていた。%K%P
+Her image continued to flicker for a while.%K%P
+0xC8C
+次なる手は……%K%p
+The next thing to try was...%K%p
+0xCB0
+武「優、電子キーの解除方法について、何か知らないか？」%K%P
+Takeshi「Hey, You, is there any way to get around this lock that you know of?」%K%P
+0xCBC
+武「……あれ？　優、どこ行った？」%K%P
+Takeshi「...Huh? Where'd You go?」%K%P
+0xCC8
+優「倉成！　どいてぇーっ！」%K%P
+You「Kuranari! Outta the way!」%K%P
+0xCD4
+武「えっ？」%K%P
+Takeshi「Eh?」%K%P
+0xD08
+背後からの声に振り向くと、優は通路を数ｍ後退したところで、持っていた救急箱を床に投げ落としていた。%K%P
+Turning toward the voice coming from a few meters behind me, I saw You throw down the first aid kit she had been carrying.%K%P
+0xD14
+武「は？　ってうわあぁ！」%K%P
+Takeshi「Huh? Uwwaaaah!」%K%P
+0xD20
+直後、優は猛然とこちらに向かってくる。%K%P
+She immediately came hurtling toward me as if possessed.%K%P
+0xD5C
+優「ぬぅおおおおーーーー！！」%K%P
+You「Wwoooooooooooooooaaaah!!」%K%P
+0xD68
+世にも恐ろしい形相だった。%K%P
+She looked furious.%K%P
+0xD7C
+慌てて俺は、扉の前を離れた。%K%P
+I stumbled back away from the door.%K%P
+0xDB8
+優「ちぇすとおぉーーーっ！！」%K%P
+You「Aaaaaiiiiii!」%K%P
+0xFE4
+――どげしっ！%K%P
+―CRASH!%K%P
+0xFF0
+見事なドロップキックが、扉の電子キーのパネルへと繰り出された！%K%P
+With a perfect flying drop-kick, she threw open the panel to the electronic lock.%K%P
+0xFFC
+武「ななっ、何やってんだよお前は！？　ふざけてる場合かよ！」%K%P
+Takeshi「Wh-wh-what are you doing!? This isn't the time to be goofing off!」%K%P
+0x1010
+優「まともにやって開かないんなら、ぶっ壊すしかないでしょーがっ！！」%K%P
+You「If it won't open any other way, I'm going to break it down!」%K%P
+0x101C
+ゼイゼイと肩で荒い息をしながら、優は叫んでいた。%K%P
+You shouted as she leaned over panting.%K%P
+0x1028
+武「極論だなぁ……」%K%P
+Takeshi「That's a little extreme...」%K%P
+0x1034
+武「で、どうだ？　開きそうか？」%K%P
+Takeshi「Well, how about it? Does it look like it's going to open?」%K%P
+0x1048
+優「…………」%K%P
+You「.........」%K%P
+0x1064
+優「きー！　ビクともしてないじゃないのよ！」%K%P
+You「Aaagh! It won't budge at all!」%K%P
+0x1070
+扉もパネルも何の変化も起こさず、ケロリとしている。%K%P
+Neither the door nor the panel had changed at all.%K%P
+0x10A4
+優「あーたたたたたたたたた！」%K%P
+You「Aaatatatatatatatatata!」%K%P
+0x10CC
+奇声を発しながら優は、電子キーを物凄い勢いで滅茶苦茶に叩き始める。%K%P
+You began hitting the lock with a renewed vigor, uttering strange noises.%K%P
+0x10F4
+だが電子キーは何度もエラー音を返し、生真面目に再入力を求めるだけだった。%K%P
+But all the lock did was make error sounds and ask politely for her to reenter the password.%K%P
+0x1110
+優「はぁ……」%K%P
+You「*Sigh*...」%K%P
+0x1124
+優「あいたたたぁ……」%K%P
+You「Ouch...」%K%P
+0x1130
+結局、優は突き指をしてしまったらしく、とぼとぼと救急箱のところへ戻って行った。%K%P
+In the end, You ended up with a sprained finger and went back to the first aid kit.%K%P
+0x1154
+次なる手は……%K%p
+Next, I...%K%p
+0x1180
+武「つぐみ、何かここを開ける手立ては？」%K%P
+Takeshi「Tsugumi, do you think there's a way to open it up?」%K%P
+0x1194
+つぐみ「何言ってるのよ、武……」%K%P
+Tsugumi「What are you talking about, Takeshi...?」%K%P
+0x11A0
+つぐみ「私もそれがわからないから、困ってるんじゃない」%K%P
+Tsugumi「I'm wracking my brains thinking about the same thing.」%K%P
+0x11AC
+武「あ、ああ……そうだったな」%K%P
+Takeshi「Ah, oooh... Yeah, right.」%K%P
+0x11C0
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x11CC
+つぐみは少し考えてから、空に訊いた。%K%P
+After thinking for a bit, Tsugumi asked Sora a question.%K%P
+0x11E8
+つぐみ「この扉が開くときに、どういう動作が行われるのか、わかる？」%K%P
+Tsugumi「Do you know what kind of process this door goes through when it opens?」%K%P
+0x11F4
+空「そうですね、推測してみます……」%K%P
+Sora「Okay, let me see...」%K%P
+0x1200
+空「正しい解除キーが入力されると、そこに埋め込まれているハッチのレバーが立ち上がるはずです」%K%P
+Sora「After the correct keys are input, a lever embedded inside the hatch should start to raise.」%K%P
+0x120C
+空「レバーを回転させることで、扉のロックが解除されます」%K%P
+Sora「As that lever turns, the lock on the door is released.」%K%P
+0x1220
+空「但し、現在はこのレバーは飾りです。回転は電動で、自動的に……普段はモーターにロックをかけてあるようです」%K%P
+Sora「However, the lever is nothing more than an ornament now. It is turned automatically using electricity... and the motor is usually locked in place.」%K%P
+0x1234
+つぐみ「そう……本来は、緊急時には手動で開けられるようにしてあったのを、わざわざ使えなくしたんでしょうね」%K%P
+Tsugumi「Yeah... I suppose they designed it so that you couldn't open it up during an emergency on purpose.」%K%P
+0x1240
+つぐみ「だとすれば――」%K%P
+Tsugumi「In that case...」%K%P
+0x1254
+言うが早いか、つぐみはマイナスドライバーを手にしていた。%K%P
+She pulled out a flat-head screwdriver.%K%P
+0x1260
+どこから出したんだ……？%K%P
+(Where'd she get that from...?)%K%P
+0x1274
+つぐみ「もしレバーを取り出せれば、手動で開けられるかもしれない」%K%P
+Tsugumi「If we can get that lever off, maybe we can open this up manually.」%K%P
+0x1280
+扉のパネルラインの隙間に、ドライバーの先端を差し込み始める。%K%P
+She began to insert the tip of the screwdriver into the gap between the door's panel lines.%K%P
+0x128C
+そして……%K%P
+And...%K%P
+0x12A0
+つぐみ「はあっ！！」%K%P
+Tsugumi「Haaa!」%K%P
+0x12C8
+つぐみが全身の力を、ドライバーにこめる。%K%P
+Tsugumi jammed the screwdriver in with all her might.%K%P
+0x12D4
+ハッチに埋められたレバーを、力ずくで掘り起こそうと試みた。%K%P
+She tried to dig out the lever buried in the hatch by force.%K%P
+0x12FC
+合金製のドライバーが飴のようにひしゃげた。%K%P
+The alloy screwdriver crushed like a piece of candy.%K%P
+0x1308
+僅かに、レバーが扉の表面から浮いた。%K%P
+The lever budged slightly toward the surface of the door.%K%P
+0x1314
+しかし……%K%P
+However...%K%P
+0x1448
+バキン！！%K%P
+Slam!%K%P
+0x1454
+ドライバーのほうが先に、根元からまっぷたつに折れてしまった。%K%P
+The screwdriver bent into two equal parts from its handle.%K%P
+0x1460
+レバーは定位置にすぐ戻ってしまう。%K%P
+And the lever snapped back into place.%K%P
+0x1474
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1480
+つぐみ「仕方ないわね」%K%P
+Tsugumi「There's nothing I can do.」%K%P
+0x14A8
+つぐみは、折れたドライバーを床に投げ捨てた。%K%P
+Tsugumi threw the bent screwdriver on the floor.%K%P
+0x14CC
+次なる手は……%K%p
+What next...%K%p
+0x1500
+武「くそっ、どうすりゃいい！？」%K%P
+Takeshi「Damn! What are we going to do!?」%K%P
+0x150C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1518
+優「…………」%K%P
+You「.........」%K%P
+0x1524
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1530
+空「…………」%K%P
+Sora「.........」%K%P
+0x153C
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x1548
+ピピ「く〜ん……」%K%P
+Pipi「*Whine*...」%K%P
+0x155C
+ココは少年に支えられてはいたが、もう立っていられそうにない。%K%P
+Coco was being supported by the Kid. She couldn't stand by herself.%K%P
+0x1568
+すぐに、床にしゃがみ込んでしまった。%K%P
+She was soon hunched over on the floor.%K%P
+0x157C
+一度は持ち直したと思ったのだが……また顔色がかなり悪くなってきている。%K%P
+I tried pulling her up again, but... her face quickly drained of all color.%K%P
+0x1588
+マズい、早く……早くしないと……！%K%P
+(This is bad... If we don't... get in there quickly...!)%K%P
+0x15B4
+アナウンス「öｆｆｎｅｎ⑳Ｓｉｅ⑳
+Announcement「<öffnen Sie 」
+0x15C0
+ｄｉｅ⑳Ｔüｒ⑳ｖｏｎ⑳ＨＩＭＭＥＬ．」%K%P
+die Tür von HIMMEL.>"%K%P
+0x15D0
+突如、聞き慣れない声が通路にこだました。%K%P
+Suddenly, a voice that I hadn't heard before sounded from the corridor.%K%P
+0x15DC
+武「アナウンス……？　何だ？」%K%P
+Takeshi「What's that announcement...?」%K%P
+0x15F0
+空「誰かがレミシステムにアクセスしています！」%K%P
+Sora「Someone is trying to access LeMMIH's system!」%K%P
+0x15FC
+空が目を見開いて叫んだ。%K%P
+Sora flashed open her eyes and shouted.%K%P
+0x1608
+空「この部屋の中……ヒンメルの端末からです！」%K%P
+Sora「From inside the room... From a terminal inside Himmel!」%K%P
+0x1614
+武「何だって！？」%K%P
+Takeshi「What!?」%K%P
+0x1650
+電子キーのアクセスランプの色が変わった。%K%P
+The access indicator light for the electronic lock turned green.%K%P
+0x1678
+ハッチのレバーが起き上がり、それは自動的に回転していく。%K%P
+The hatch's lever raised and turned automatically...%K%P
+0x16A0
+扉は、いきなり開かれる……。%K%P
+The door opened suddenly...%K%P
+0x17C4
+こもった空気が、部屋の中から流れ出してきた。%K%P
+Stagnant air poured out of the room.%K%P
+0x17D0
+なんとなく外よりも湿度が低い気がする。空調は静かに稼動していた。%K%P
+For some reason, the humidity felt like it was lower than outside. The air conditioning was humming quietly.%K%P
+0x17DC
+それに、白い……。%K%P
+It was white...%K%P
+0x17E8
+白い部屋だった。%K%P
+It was pure white inside.%K%P
+0x17F4
+照明の眩しさと相まって、壁や床の白さが強調されて目に飛び込んでくる。%K%P
+The whiteness of the wall and floor was emphasized by the brightness of the lighting and seemed to leap out at us.%K%P
+0x1800
+ヒンメル――天国という名はあながち間違いではないようだ。%K%P
+Himmel―it didn't necessarily seem like a mistake to have named the room heaven.%K%P
+0x180C
+『ＨＩＭＭＥＬ』と書かれたプレートが、機械に貼りつけられている。%K%P
+The machines displayed nameplates with 'HIMMEL' written on them.%K%P
+0x1818
+ここはコンピューターのコントロールルームらしい。%K%P
+It seemed that we were in the computer control room.%K%P
+0x1824
+武「あ、おいっ！　人が……」%K%P
+Takeshi「H-hey! There's someone here...」%K%P
+0x1830
+武「こいつか？　扉を開けたのは？」%K%P
+Takeshi「Did he open up the door just now?」%K%P
+0x183C
+そこには住人がひとりいた。%K%P
+There was a single person in the room.%K%P
+0x1848
+白衣を着た、４０代くらいの男性だ。%K%P
+He was a man who appeared to be in his forties, dressed in a white lab coat.%K%P
+0x1854
+そして、彼は……%K%P
+And...%K%P
+0x1860
+口から血を流し、端末のコンソールに突っ伏していた。%K%P
+Blood was coming from his mouth, and he had passed out at a console.%K%P
+0x186C
+武「おいオッサン！　どうした！？」%K%P
+Takeshi「Hey, buddy! Are you alright!?」%K%P
+0x1878
+？？「…………」%K%P
+???「.........」%K%P
+0x1884
+男性は俺の呼びかけに答えず、うつ伏せたままだ。%K%P
+The man didn't reply to me. He just lay there motionless.%K%P
+0x1890
+武「そもそもこいつ、誰なんだ……？」%K%P
+Takeshi「Who is this guy...?」%K%P
+0x189C
+武「空、彼が誰だかわかるか？」%K%P
+Takeshi「Sora, do you have any idea who this is?」%K%P
+0x18B0
+空「いいえ、ＩＤ照合できません……」%K%P
+Sora「No, I am unable to verify his ID...」%K%P
+0x18BC
+空「ですが、その服装からすると恐らく、ＩＢＦの研究員の方だと思います」%K%P
+Sora「But judging from the way he is dressed, it is safe to assume he was a researcher at the IBF facility.」%K%P
+0x18D0
+俺は男性の肩に手をかけ、身体を起こしてやった。%K%P
+I put my hands on his shoulder and raised him into a sitting position.%K%P
+0x18DC
+彼の名前や身分を示すものがないかどうか、白衣や衣服を見た。%K%P
+I looked over his white clothing to see if he had any name tags or other way to determine his name.%K%P
+0x18E8
+だが、ＩＤカードやネームプレートの類は確認できない。%K%P
+But he didn't have any ID card or nameplate to check.%K%P
+0x18F4
+研究員「ううっ……」%K%P
+Researcher「Uuugh...」%K%P
+0x1900
+武「なぁ、あんたは下の研究所のスタッフなのか？」%K%P
+Takeshi「Hey, are you one of the staff from the research facility?」%K%P
+0x190C
+研究員「あ、ああ。そうだ……」%K%P
+Researcher「Y-yeah... That's right...」%K%P
+0x1918
+息も絶え絶え、研究員は答えた。%K%P
+Breathing faintly, the researcher replied.%K%P
+0x1924
+目を開けられないらしく、こちらのことを音で捜している。%K%P
+He seemed to be unable to open his eyes and searched for me by my voice.%K%P
+0x1930
+研究員「君は……救助隊じゃなさそうだな……」%K%P
+Researcher「Doesn't seem like you're... here to rescue me...」%K%P
+0x193C
+震える手で彼は、俺をかろうじて掴んだ。%K%P
+With a shaking hand, he grabbed onto me.%K%P
+0x1948
+その手も血にまみれている……。%K%P
+The hand was covered in blood...%K%P
+0x1954
+研究員「ＬｅＭＵにまだ人がいたのか。あれから６日は経っただろうに……」%K%P
+Researcher「So there were still people in LeMU... and it's been six days since...」%K%P
+0x1960
+研究員「はははっ、こいつは驚きだ……ぐふっ」%K%P
+Researcher「Hahaha, what a surprise... *gagh*...」%K%P
+0x196C
+口元を歪めて苦笑すると、そこからまた血がこぼれる。%K%P
+Blood trickled from his mouth, and he smiled wryly.%K%P
+0x1978
+武「お、おいっ、あんま無理にしゃべるな！」%K%P
+Takeshi「H-hey! Don't strain yourself. You don't have to talk!」%K%P
+0x1984
+研究員「すまんな……我々のせいで」%K%P
+Researcher「I'm so sorry... It's all our fault...」%K%P
+0x1990
+武「どうした？　下で、何かあったのか？」%K%P
+Takeshi「What happened? Did something happen down there?」%K%P
+0x199C
+研究員「…………」%K%P
+Researcher「.........」%K%P
+0x19A8
+研究員「だけど、どうしてこんな……」%K%P
+Researcher「But why all this...?」%K%P
+0x19B4
+研究員「こんな……」%K%P
+Researcher「This...」%K%P
+0x19C0
+それきり、彼は黙った。%K%P
+After that, he was silent.%K%P
+0x19CC
+武「お、おいっ！　しっかりしろ！」%K%P
+Takeshi「Hey! Hey! Hang in there!」%K%P
+0x19D8
+研究員「…………」%K%P
+Researcher「.........」%K%P
+0x19E4
+肩を揺すったが、何も答えない。%K%P
+I shook his shoulders, but he didn't reply.%K%P
+0x19F8
+つぐみ「武、乱暴はやめなさいよ」%K%P
+Tsugumi「Takeshi, cut it out, you're shaking him too hard.」%K%P
+0x1A04
+つぐみ「彼はもう気を失っているわ。手を放してあげて」%K%P
+Tsugumi「He's unconscious. Just leave him alone for now.」%K%P
+0x1A10
+武「あ、ああ……」%K%P
+Takeshi「O-okay...」%K%P
+0x1A24
+つぐみ「こうなれば……彼も一緒に連れて行くしかないでしょうね」%K%P
+Tsugumi「We'll... We'll have to bring him with us.」%K%P
+0x1A38
+いったいどうなってるんだ？%K%P
+I wondered what was going on.%K%P
+0x1A44
+……いや、それより急がないと！%K%P
+...More importantly, I had to hurry!%K%P
+0x1A50
+わけがわからないが、今はそんなことはどうでもいい。%K%P
+I didn't have a clue what was going on, but I couldn't worry about that.%K%P
+0x1A5C
+ココを早くＩＢＦへ連れて行かなければ……。%K%P
+We had to get Coco to IBF right away...%K%P
+0x1A70
+ヒンメルの入り口付近に立ち尽くしていた優が、ピピと共に室内に入った。%K%P
+You, who had been waiting at the entrance to Himmel, went inside with Pipi.%K%P
+0x1A8C
+少年がココを抱えながら、後に続く。%K%P
+The Kid followed behind, carrying Coco.%K%P
+0x1A98
+電子キーのついた入り口の扉は、開けたままにしておいた。%K%P
+The door had an electronic lock on it, so we left it open.%K%P
+0x1AB4
+空「皆さん、この部屋の奥にもうひとつ、部屋があります。見えますか？」%K%P
+Sora「Everyone, at the far end of this room is another room. Can you see it?」%K%P
+0x1AC0
+武「ＯＫ……」%K%P
+Takeshi「Yeah...」%K%P
+0x1ACC
+つぐみ「ええ、わかるわ」%K%P
+Tsugumi「Yes, I see it.」%K%P
+0x1AD8
+俺達は頷いた。%K%P
+We all nodded.%K%P
+0x1AE4
+正面のガラスの向こう側に部屋があるのがわかる。%K%P
+There was a room on the other side of the glass in front of us.%K%P
+0x1AF8
+空「あれはＩＢＦ用の、加減圧室です」%K%P
+Sora「That is the compression chamber for IBF.」%K%P
+0x1B04
+姿勢を正し、空は淡々と語る。%K%P
+Sora straightened up and explained the situation without emotion.%K%P
+0x1B18
+空「私の持つ僅かなデータから判断しますと……」%K%P
+Sora「Judging from my incomplete data...」%K%P
+0x1B24
+空「ＩＢＦには通常のＬｅＭＵよりもさらに高圧のガスが封入されています。ＩＢＦもまた、飽和潜水仕様というわけです」%K%P
+Sora「IBF is enclosed in higher pressure gas than LeMU. The IBF area is set to what is known as 'saturated diving specifications'.」%K%P
+0x1B30
+空「そのほうが特殊な細菌の研究に適しているということもあるのでしょう……ＩＢＦの内部気圧は、実に、約１２．５気圧……」%K%P
+Sora「This type of area is also probably more suitable for research with bacteria... The atmospheric pressure of IBF is actually at about 12.5 atmospheres.」%K%P
+0x1B44
+空「皆さんには、あの部屋に入っていただきます」%K%P
+Sora「I want all of you to enter that room.」%K%P
+0x1B50
+空「そして加減圧室での約１時間の加圧が完了次第、専用リフトでＩＢＦへと下降することになります」%K%P
+Sora「And after you spend about one hour in the compression chamber, you'll take the access elevator down to IBF.」%K%P
+0x1B5C
+空「念の為、申し上げておきますが……」%K%P
+Sora「And I should tell you this as a precaution...」%K%P
+0x1B68
+空「ここから先は、容易に後戻りすることはできません。皆さん、心してください」%K%P
+Sora「You will not be able to retrace your steps easily from this point on. Please give this due consideration.」%K%P
+0x1B74
+武「ああ……」%K%P
+Takeshi「Ahhh...」%K%P
+0x1B88
+後戻りは、できない……。%K%P
+We can't go back...%K%P
+0x1B94
+覚悟を決めなければ。%K%p
+We've got to make a decision.%K%p
+0x2664
+よし、行くぞ！
+Alright, we're going!
+0x2670
+ちょっと待ってくれ
+Wait just a second
+0x1BDC
+武「よし、行くぞ！」%K%P
+Takeshi「Alright, we're going!」%K%P
+0x1BE8
+言って、全員を見渡す。%K%P
+I looked at everyone.%K%P
+0x1BF4
+優・少年・つぐみ・空・ピピ……皆が深く頷いた。%K%P
+You, the Kid, Tsugumi, Sora, and Pipi... all nodded.%K%P
+0x1C10
+武「いや、ちょっと待ってくれ！」%K%P
+Takeshi「Hey, wait just a second!」%K%P
+0x1C1C
+言うと、つぐみは怪訝そうに俺を見た。%K%P
+As soon as I said that, Tsugumi glared needles at me.%K%P
+0x1C30
+つぐみ「どうしたの、武？　まさかこの期に及んで、怖じ気づいたりしてないでしょうね？」%K%P
+Tsugumi「What's the matter, Takeshi? You aren't chickening out now, are you?」%K%P
+0x1C3C
+武「いや、俺は大丈夫だが……」%K%P
+Takeshi「No, that's not it...」%K%P
+0x1C48
+武「１時間ちょっと、あのクソ狭い部屋にカンヅメになるんだからな。みんな準備はいいか？　本当にいいか？」%K%P
+Takeshi「If we're going to spend an hour stuffed into that little room, I just wanted to make sure everyone was ready.」%K%P
+0x1C54
+武「今のうちにトイレ行きたい奴は行っとけよ」%K%P
+Takeshi「You know, check to see if everyone had gone to the bathroom...」%K%P
+0x1C60
+武「それから歯を磨いて、風呂に入って」%K%P
+Takeshi「Brushed their teeth, taken a shower...」%K%P
+0x1C6C
+武「えーと、おやつは３００円以内で……」%K%P
+Takeshi「And if you're going to bring a snack, make sure it's reasonable...」%K%P
+0x1C88
+つぐみ「はぁ……」%K%P
+Tsugumi「*Sigh*...」%K%P
+0x1C94
+空「ふぅ……」%K%P
+Sora「*Sigh*...」%K%P
+0x1CA0
+大きな溜め息がふたつ聞こえた。%K%P
+I heard two rather large sighs.%K%P
+0x1CB4
+つぐみ「こんな時にも、そんな冗談言っていられるあなたって……正真正銘、真性のバカね」%K%P
+Tsugumi「Saying something like that at a time like this... You really are a moron.」%K%P
+0x1CC0
+空「倉成さん、１時間くらいでしたら、皆さんきっと我慢できますよ」%K%P
+Sora「Kuranari-san, it will only take one hour. I'm sure everyone can wait.」%K%P
+0x1CCC
+空「それより、急ぎましょう？」%K%P
+Sora「More importantly, we need to hurry, okay?」%K%P
+0x1CD8
+どうやら、呆れられてしまったようだ。%K%P
+It seemed that everyone was tired of my jokes.%K%P
+0x1CE4
+リラックスさせるつもりだったのだが……。%K%P
+I had just wanted to put everyone at ease...%K%P
+0x1CF0
+武「ＯＫ、わかったわかった」%K%P
+Takeshi「Okay, alright, alright.」%K%P
+0x1D04
+武「それじゃ行くぞ！」%K%P
+Takeshi「So let's get moving then!」%K%P
+0x1D10
+改めて俺が言うと、優・少年・つぐみ・空・ピピ……皆が深く頷いた。%K%P
+When I said that again, You, the Kid, Tsugumi, Sora, and Pipi... all nodded in unison.%K%P
+0x1D24
+ぐったりとしているココを、少年と優が両脇から支えた。%K%P
+The Kid and You held the unconscious Coco between them.%K%P
+0x1D30
+つぐみと俺が研究員を担ぎ上げる。ピピは列の一番後ろについた。%K%P
+Tsugumi and I picked up the researcher, and Pipi took up the rear.%K%P
+0x1D3C
+コントロールルームの奥にある、透明なスライド扉の前に皆が立った。%K%P
+Everyone lined up at the transparent sliding door on the far side of the room.%K%P
+0x1D58
+空が端末のパネルを操作して、扉を開く。%K%P
+Sora used the control panel on a terminal to open it up.%K%P
+0x1D6C
+全員が揃って、奥の部屋に進んだ。%K%P
+All of us entered the room together.%K%P
+0x1D78
+ヒンメルのコントロールルームから強化ガラス一枚を隔てて、加減圧室はある。%K%P
+A single panel of reinforced glass lay in between the control room and the compression chamber.%K%P
+0x1D84
+正確には、部屋の中央にチャンバーが置かれ……部屋の中に部屋が作られているような格好だ。%K%P
+More precisely, a chamber was set in the middle of the room... It had been constructed there.%K%P
+0x1D98
+ココと研究員を先に運び入れ、椅子に寝かせる。%K%P
+We brought Coco and the researcher into the room first and sat them down on chairs.%K%P
+0x1DA4
+ふたりとも呼吸が不安定で、苦しそうだ。顔色もすぐれない。%K%P
+Both of them had ragged breathing, and they looked to be in pain. Their faces were extremely pale and sickly.%K%P
+0x1DB0
+急がないといけないのに……。%K%P
+We needed to hurry...%K%P
+0x1DBC
+１時間もここに留まっていなければならないことを恨めしく思う。%K%P
+I would hate to waste an hour there.%K%P
+0x1DD0
+空いているスペースに優・少年・つぐみ・ピピが並んで立った。%K%P
+You, the Kid, Tsugumi, and Pipi all stood in the open space available.%K%P
+0x1DDC
+部屋は定員を越えていて、やはり狭かった。%K%P
+With everyone in there, it was fairly crowded.%K%P
+0x1DE8
+空「加圧が完了すれば、部屋の奥の扉が自動で開いて、リフトへ行けるようになりますから」%K%P
+Sora「Once the compression is completed, the door on the far side should open, and you can enter the elevator.」%K%P
+0x1DF4
+空は何故かこの部屋に入らず、手前側の入り口の外から話しかけている。%K%P
+For some reason, Sora didn't enter the room, but spoke to us from in front of the entrance.%K%P
+0x1E00
+空「加圧は最速で行います。ちょっと辛くなるかもしれませんが、なんとか我慢してください」%K%P
+Sora「I will expedite the compression process. It may be a little uncomfortable, but please bear with it.」%K%P
+0x1E0C
+そう言って空は、入り口の扉を閉じようとした。%K%P
+And saying that, Sora went to close the door.%K%P
+0x1E20
+武「空、どうした？　一緒に来ないのか？」%K%P
+Takeshi「Sora, what's wrong? You aren't coming with us?」%K%P
+0x1E2C
+空「あっ、いえ、私は……」%K%P
+Sora「Uh, no, I...」%K%P
+0x1E38
+武「ほら、行こう。何ためらってんだよ？」%K%P
+Takeshi「Come on, let's get started. What are you waiting for?」%K%P
+0x1E44
+何気なく俺は、空に手を伸ばした。%K%P
+I casually reached out toward Sora.%K%P
+0x1E50
+彼女を掴めないのはわかっていたが、そうしたのだ。%K%P
+I knew I couldn't grab her, but I did it anyway.%K%P
+0x1E5C
+だが……%K%P
+However...%K%P
+0x1ED8
+空「きゃっ！！」%K%P
+Sora「Kyaaa!」%K%P
+0x1EE4
+触れようとした瞬間、空中に火花が散った。%K%P
+As soon as I tried to touch her, sparks flew into the air.%K%P
+0x1EF0
+確かに、弾かれるような感触があった。%K%P
+It felt as though a shock had gone through me.%K%P
+0x1EFC
+扉の前に突如、透明な壁が現れる。%K%P
+A transparent wall suddenly appeared in front of the door.%K%P
+0x1F08
+真っ赤に燃え盛る炎の壁……。%K%P
+There was a red wall of flame...%K%P
+0x1F14
+武「わっ！？」%K%P
+Takeshi「What!?」%K%P
+0x1F58
+驚いて俺が手を引っ込めると、すぐに入り口の扉が閉まってしまった。%K%P
+Alarmed, I drew back my hand, and the door closed.%K%P
+0x1F64
+武「空、空っ！　今のは……」%K%P
+Takeshi「Sora! Sora! What was...?」%K%P
+0x1F70
+空「ここから先はコンピューターの管轄が違うんです」%K%P
+Sora「From this point on, this is the jurisdiction of a different computer system.」%K%P
+0x1F7C
+加減圧室の中のインターホンのスピーカーから、冷静な空の声が聞こえた。%K%P
+I heard Sora's voice talking to us calmly over the speaker of the compression chamber's intercom.%K%P
+0x1F88
+空「私はあくまで、レミの機能の一部ですから……ＩＢＦには降りられないんです。アクセス権限がないんですよ」%K%P
+Sora「I am but a single part of the LeMMIH system... therefore, I am unable to go to IBF. I do not have the authority to access the area.」%K%P
+0x1F94
+空「残念ですが、ここでお見送りさせていただきます」%K%P
+Sora「I am sorry, but I will have to see you off.」%K%P
+0x1FA0
+炎の壁は、もう消えていた。%K%P
+The wall of fire had vanished.%K%P
+0x1FE4
+外界から密閉された、加減圧室の中。%K%P
+We were in the compression chamber, shut off from the rest of the world.%K%P
+0x1FF0
+僅かに、気圧圧力を高めていくガスの音が響く。%K%P
+The sound of pumping gas, which was slowly raising the air pressure, could be heard throughout the chamber.%K%P
+0x1FFC
+武「そうだ……みんな、再圧中は耳の変換機を外してくれ。そいつは耐圧式だが、加減圧のときは邪魔になる」%K%P
+Takeshi「Hey... Everyone, take out your voice converters. They get in the way when you're adjusting to the pressure.」%K%P
+0x2008
+全員、俺の言う通りに変換機を取った。%K%P
+Everyone did as I said and removed their voice alternators.%K%P
+0x2014
+ココの耳のイヤホンは、俺が外した。%K%P
+I took out Coco's myself.%K%P
+0x2020
+研究員の耳には、変換機がはまっていなかった。%K%P
+I checked the researcher, but it didn't seem he was wearing any.%K%P
+0x202C
+それから後は……%K%P
+After that...%K%P
+0x2038
+ほとんど皆、何もしゃべらなかった。%K%P
+Hardly anyone said a word.%K%P
+0x2044
+ただただ、時間が経つのを待ち続けた。%K%P
+We were all waiting for the time to pass.%K%P
+0x2050
+空はぼんやりと窓の外に姿を映している。%K%P
+Sora could be seen outside of the chamber's window.%K%P
+0x205C
+じっと動かず、静かに俺達のことを眺め、立ち尽くしていた。%K%P
+She didn't move, only stood and watched us.%K%P
+0x2070
+そして……%K%P
+And then...%K%P
+0x20C0
+チャンバーの奥にある扉のロックが、音を立てて外れた。%K%P
+The lock from the door on the far side of the chamber clicked and released.%K%P
+0x20CC
+僅かにエアの漏れる気配がして、ＩＢＦ用リフトへの通路が開かれる。%K%P
+I felt a subtle change in pressure, and the lift down to IBF opened.%K%P
+0x20D8
+皆は順に部屋を出て、リフトに向かう。%K%P
+We all filed into it one by one.%K%P
+0x20E4
+空「それでは、皆さん……どうかご無事で」%K%P
+Sora「Everyone... take care.」%K%P
+0x20F0
+離れたスピーカーの位置から、彼女の声が聞こえた。%K%P
+We could hear her voice from the speaker on the other side of the room.%K%P
+0x20FC
+その姿は、ここからでは見えなかった。%K%P
+But we couldn't see her.%K%P
+0x2108
+もう、目と鼻の先の距離でその声を聞くことはないのだろうか……？%K%P
+I wondered if I would ever see her up close again...%K%P
+0x2114
+俺は軽く首を振ると、耳に音声変換機を詰め直した。%K%P
+Cocking my head to one side, I thrust the voice alternators back in my ears.%K%P
+0x2154
+リフトに全員が乗り込む。%K%P
+Everyone got aboard the lift.%K%P
+0x2160
+扉はやがて密閉され、リフトは滑るように下降し始める。%K%P
+And as soon as the doors closed, the elevator started sliding down.%K%P
+0x216C
+アナウンス「Ｔｉｅｆｅ⑳７０ｍ……」%K%P
+Announcement「<Tiefe 70 meter...>」%K%P
+0x2178
+アナウンス「Ｔｉｅｆｅ⑳８０ｍ……」%K%P
+Announcement「<Tiefe 80 meter...>」%K%P
+0x2184
+アナウンス「Ｔｉｅｆｅ⑳９０ｍ……」%K%P
+Announcement「<Tiefe 90 meter...>」%K%P
+0x2190
+天国の下には何がある？%K%P
+What could be below heaven?%K%P
+0x219C
+そこもまた天国なのか、あるいは……。%K%P
+More heaven, or...%K%P
+0x21A8
+アナウンス「Ｔｉｅｆｅ⑳１１９ｍ．」%K%P
+Announcement「<Tiefe 119 meter.>」%K%P
+0x21D8
+リフトの扉が開いた。%K%P
+The door to the elevator opened.%K%P
+0x21E4
+エレベータールームから通路は二手に伸びている。その一方へと出た。%K%P
+The passage extended in two directions from the elevator room. I went in one of those.%K%P

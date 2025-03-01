@@ -1,0 +1,2166 @@
+text area offset and size:
+0x39F0
+0x9771
+0x90
+%N%N%N
+
+0x9C
+%LC%FS――２０３４年５月７日（日曜日）。%FE%K%N
+%LC%FS―May 7th, 2034 (Sunday).%FE%K%N
+0xA8
+%LC%FS時刻――午前１１時１７分。%FE%K%O
+%LC%FSTime―11:17 a.m.%FE%K%O
+0x104
+%N
+
+0x110
+%LC%FS『――倉成武――』%FE%K
+%LC%FS―Kuranari Takeshi―%FE%K
+0x190
+%O
+
+0x1AC
+青い世界の只中に、今、俺はいる。%K%P
+I was in the middle of a blue world.%K%P
+0x1B8
+本土へと向かう船の上……。%K%P
+Headed back to the mainland...%K%P
+0x1C4
+乗客は、俺達以外には誰もいなかった。%K%P
+There was nobody on the boat other than us.%K%P
+0x1D0
+俺・ホクト・つぐみ・優美清春香菜・空・ココ・桑古木・チャミ・ピピ……。%K%P
+Me, Hokuto, Tsugumi, Yubiseiharukana, Sora, Coco, Kaburaki, Chami, Pipi...%K%P
+0x1DC
+それから、田中優美清『秋』香菜・松永沙羅という名前の女の子……。%K%P
+Oh, and two girls called Tanaka Yubisei'aki'kana and Matsunaga Sara...%K%P
+0x1E8
+合計で９人と２匹だ。%K%P
+Nine people and two animals altogether.%K%P
+0x1F4
+俺はみんなとは少し離れて、甲板の手すりにもたれかかり、広大な海原を眺めていた。%K%P
+I slipped a short distance away from everyone and leaned over the deck railing to look out at the expanse of ocean before me.%K%P
+0x200
+５月の太陽が、海面にきらきらとはねている。%K%P
+The May sun sparkled on the ocean.%K%P
+0x20C
+頭上には、高く澄み切った青空。%K%P
+Above, high above, stretched a clear blue sky.%K%P
+0x218
+まだ生まれたばかりの空は、今にもこぼれ落ちそうな程にみずみずしく艶めいていた。%K%P
+The fresh new sky looked so glossy and vivid that it might spill down to Earth at any moment.%K%P
+0x224
+俺の目に映ったものは、それだけだった。%K%P
+That was all that was reflected in my eyes.%K%P
+0x230
+遥か彼方に真っ直ぐ伸びた水平線が、海と空を分けていた。%K%P
+The straight line of the horizon stretched into the distance, dividing the sea from the heavens.%K%P
+0x23C
+武「のどかだなぁ……」%K%P
+Takeshi「So tranquil...」%K%P
+0x248
+ぽつりと、つぶやいた。%K%P
+I murmured to myself.%K%P
+0x254
+１羽のカモメが、ゆるやかな弧を描きながら風に流されて行く。%K%P
+A solitary seagull traced a gentle arc in the sky as the wind carried it away.%K%P
+0x260
+風は潮の匂いをはらんでさらさらとそよいでいた。%K%P
+The wind, carrying the ocean's scent, blew by me gently.%K%P
+0x26C
+武「平和だよなぁ……」%K%P
+Takeshi「So peaceful...」%K%P
+0x278
+まるで、夢の中にでもいるようで……。%K%P
+It was as if it was in a dream...%K%P
+0x284
+６日前に見た景色と、そっくりそのまま、何もかもが同じだった。%K%P
+Everything that I saw in the scene before me was exactly as it had been six days earlier.%K%P
+0x290
+６日前……。%K%P
+Six days earlier...%K%P
+0x29C
+そう、俺にとっては６日前なのだ。%K%P
+For me, it had only been six days.%K%P
+0x2A8
+まだ、あれから１週間も経っていない。%K%P
+Not even a week had passed.%K%P
+0x2B4
+あの日、友達とはぐれてしまったばっかりに……。%K%P
+I had gotten separated from my friends that day...%K%P
+0x2C0
+エレベーターを、たったひとつぶん待っただけなのに……。%K%P
+And ended up waiting by myself for an elevator...%K%P
+0x2CC
+なのに……６日経って目を覚ましてみたら、俺は１７年後の未来へと飛ばされていて……。%K%P
+But... after surviving for six days, I had been sucked seventeen years into the future...%K%P
+0x2D8
+しかも……。%K%P
+And...%K%P
+0x2EC
+沙羅「ねえねえ♪　パパァ〜♪　パパァ〜♪」%K%P
+Sara「Hey, hey! Dad, Dad〜」%K%P
+0x2F8
+ホクト「お父さ〜ん！　お父さ〜ん！」%K%P
+Hokuto「Daaaad! Dad!」%K%P
+0x304
+しかも、１６歳の娘と息子までいて……。%K%P
+I found out that I had a sixteen-year-old daughter and son...%K%P
+0x310
+――夢。%K%P
+―It was a dream.%K%P
+0x31C
+そうだ、俺はきっと夢を見ているに違いない！%K%P
+Yeah, that was right, I had to be dreaming!%K%P
+0x328
+そうでなければ、こんな非現実的なことが、起こり得るはずがないのだ！%K%P
+If I wasn't dreaming, there was no way it could be happening!%K%P
+0x334
+沙羅「ねえっ！　パパってばーっ！」%K%P
+Sara「Hey! Daaaad! Listen!」%K%P
+0x340
+沙羅という名前の女の子が、俺にすり寄って来る。%K%P
+The girl called Sara pulled up close to me.%K%P
+0x34C
+高校の制服を着た見覚えの無い１６歳の生娘が、俺の腕をぎゅっと握りしめ、頬ずりをしている。%K%P
+The girl was wearing a high school uniform I'd never seen before. She suddenly grabbed me and pressed her cheek against my arm.%K%P
+0x358
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x36C
+沙羅「ほら、見て見て？　これ……」%K%P
+Sara「Hey, look! Look at this...」%K%P
+0x378
+沙羅「私ね？　ちっちゃい頃から、ずーっとずーっとパパのこと、見てたんだよ？」%K%P
+Sara「You know? I've been watching you ever since I was a little baby girl.」%K%P
+0x384
+沙羅が俺の前に差し出したものは、鏡の張り付けられたペンダントだった。%K%P
+Sara stuck out a pendant with a mirror attached to it.%K%P
+0x390
+その鏡面の部分には、何も写ってはいなかった。%K%P
+On the mirror side, there was nothing.%K%P
+0x39C
+けれど……。%K%P
+But...%K%P
+0x3A8
+武「そうかそうか……」%K%P
+Takeshi「Oh, really...?」%K%P
+0x3B4
+武「なんだかよくわからんが、我が娘よ！」%K%P
+Takeshi「I don't really understand, but that's okay, daughter of mine!」%K%P
+0x3C0
+武「大きくなったなぁ！　よしよし！」%K%P
+Takeshi「I can't believe how tall you've gotten!」%K%P
+0x3D4
+俺は沙羅の頭をなでてやった。%K%P
+Saying that, I stroked her hair.%K%P
+0x3E0
+もうこの際だから、俺はあっけらかんと開き直ることにしたのだった。%K%P
+Since I had come that far, I decided there was no reason to hold back.%K%P
+0x3EC
+だって、どうせ夢の中の出来事なんだし……。%K%P
+Besides, all of it was a dream...%K%P
+0x3F8
+それに……こんなにも可愛い女の子が我が娘だとするなら、それはそれでいいんじゃないかと……。%K%P
+And if I had such a cute daughter, what did it matter anyway?%K%P
+0x404
+ムキになって拒む理由なんか無いんじゃないかと……。そんなことも思ったりしたわけであり……。%K%P
+There was no reason to resist the whole situation... And as I was thinking that...%K%P
+0x418
+ホクト「あっ！　お父さん、ずるいよぉーっ！」%K%P
+Hokuto「Hey! Dad, no fair!」%K%P
+0x424
+ホクト「『パパって呼ぶなー！』って、あんなにさんざん言ってたくせに……」%K%P
+Hokuto「And you kept telling me, 'Don't call me Dad!'」%K%P
+0x430
+ホクト「どうして沙羅のことだけ可愛がるの！？」%K%P
+Hokuto「How come you act fatherly with Sara!?」%K%P
+0x43C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x450
+沙羅「ねえ、パパ、パパ〜？」%K%P
+Sara「Hey, Dad? Daaad?」%K%P
+0x45C
+沙羅「今度、手裏剣村に連れて行って欲しいで%Nござるぅ〜♪」%K%P
+Sara「I want to go to Ninja Town for fun someday soon〜」%K%P
+0x468
+武「うむ、手裏剣村かぁ……」%K%P
+Takeshi「Ninja Town, eh...?」%K%P
+0x474
+武「いいでござるぞ、一緒に行こうでござる、ニンニン」%K%P
+Takeshi「Why not? Sounds good to me.」%K%P
+0x488
+ホクト「コラーッ！　無視すんなぁーっ！」%K%P
+Hokuto「Hey! Stop ignoring me!」%K%P
+0x494
+ホクト「なんで沙羅の言うことだけ全部受け入れるんだよぉ！」%K%P
+Hokuto「How come you listen to everything Sara says!?」%K%P
+0x4A0
+ホクト「どうしてぼくの言うことは聞いてくれないの？」%K%P
+Hokuto「Why don't you listen to a thing I say?」%K%P
+0x4AC
+ホクト「ねえ、なんで？　どうしてなの？　お父さん！」%K%P
+Hokuto「Well, Dad? Why not?」%K%P
+0x4B8
+武「……別に、無視してるわけじゃないさ」%K%P
+Takeshi「...I'm not ignoring you.」%K%P
+0x4C4
+武「ただ、そういう質問には答えたくないだけで……」%K%P
+Takeshi「I just don't want to answer those kinds of questions...」%K%P
+0x4D8
+ホクト「そういう質問？」%K%P
+Hokuto「Those kinds of questions?」%K%P
+0x4E4
+武「そうだ」%K%P
+Takeshi「Yeah.」%K%P
+0x4F0
+武「俺は、意味の無い質問には、答えないことにしたんだよ」%K%P
+Takeshi「I don't answer meaningless questions.」%K%P
+0x550
+%N
+
+0x55C
+%LC%FS『――小町月海――』%FE%K
+%LC%FS―Komachi Tsugumi―%FE%K
+0x570
+%O
+
+0x588
+武「俺は、意味の無い質問には、答えないことにしたんだよ」%K%P
+Takeshi「I don't answer meaningless questions.」%K%P
+0x594
+遠く、彼の言葉が耳に届いた。それは１７年前の私の口癖だった。%K%P
+I could hear his words coming from a distance, the same words I used to say seventeen years before.%K%P
+0x5A0
+私は今、５月の強烈な陽射しから身を守る為、船室の中にいる。%K%P
+In order to protect myself from the strong May sunshine, I stayed inside the boat.%K%P
+0x5AC
+窓越しに、３人の姿が見えた。%K%P
+I could see the three of them through the window.%K%P
+0x5B8
+彼は甲板の手すりのあたりで、２人の子供達とじゃれあっていた。%K%P
+Takeshi was on the deck over by the railing, talking to the two kids.%K%P
+0x5C4
+『意味の無い質問には答えない』%K%P
+'I don't answer meaningless questions.'%K%P
+0x5D0
+そうね……。%K%P
+Yes...%K%P
+0x5DC
+だから私は、彼に何を尋ねられても、ずっと黙っていようと思っていた。%K%P
+That was why I always kept quiet whenever he asked me something.%K%P
+0x5E8
+話したいことはたくさんあった。%K%P
+There was so much I wanted to talk about.%K%P
+0x5F4
+これまでの１７年間の日々を、１日も洩らさず彼に伝えたかったし、知ってもらいたくもあった。%K%P
+I wanted to tell him about every single day that had passed in those long seventeen years.%K%P
+0x600
+けれど今は……。%K%P
+But for the time being...%K%P
+0x60C
+こうして、子供達と無邪気に戯れている彼の姿を見ているだけで……それだけで……充分だった。%K%P
+Like that, watching him innocently playing with the children... that alone... was enough for me.%K%P
+0x618
+過ぎてしまったことには、たいして意味は無い。%K%P
+Everything that had happened up until that point was meaningless.%K%P
+0x624
+たった今……私の目の前に……彼がいて……ふたりの子供達がいて……。%K%P
+He was there... right in front of me... and the two children were there...%K%P
+0x630
+これ以上、望むべきことなんて何も無かった。%K%P
+There was nothing more I could have hoped for.%K%P
+0x63C
+私は幸せをかみしめている。浸っている。溺れている。酔っている。%K%P
+I had found happiness. I was immersed in it, drowning in it, intoxicated by it.%K%P
+0x648
+――それが私の正直な気持ち。%K%P
+That was truly how I felt.%K%P
+0x654
+もしかしたら、これまでの苦痛に満ちた日々は、今日、この瞬間の為だけに存在したのではないかと……そんな気さえした。%K%P
+It seemed to me that all of the days filled with struggle and sadness had been for that day, that moment...%K%P
+0x660
+ホクトと沙羅は彼の体にまとわりつき、彼はそれを振り払おうとしてもがいている。%K%P
+Hokuto and Sara were on both sides of him, and even when he tried to throw them off, they clung to him.%K%P
+0x66C
+私は肩に乗せたチャミの背中をそっとなでながら、その光景をぼんやりと見つめていた。%K%P
+I absently petted Chami, who was riding on my shoulder, as I watched the scene before me.%K%P
+0x678
+彼――倉成武。%K%P
+Him―Kuranari Takeshi.%K%P
+0x6B0
+武「だったら、生きろ」%K%P
+Takeshi「So live!」%K%P
+0x6BC
+武「生きている限り、生きろ」%K%P
+Takeshi「As long as you're alive, live!」%K%P
+0x6C8
+武「大丈夫……」%K%P
+Takeshi「Don't worry...」%K%P
+0x6D4
+武「俺は――」%K%P
+Takeshi「I...」%K%P
+0x6E0
+武「俺は、死なない」%K%P
+Takeshi「I'm not going to die.」%K%P
+0x718
+そう言い残し、ひとりタクシーを飛び降りたバカな男。%K%P
+And after saying that, he jumped from our 'taxi', that stupid man.%K%P
+0x724
+バカな男……。%K%P
+Stupid man...%K%P
+0x730
+でも……彼は約束を守った。%K%P
+But... he kept his promise.%K%P
+0x73C
+だから私は、ひと言だけ、彼に告げなければならない。%K%P
+So there was something I had to tell him.%K%P
+0x748
+私は船室を出た。……『完全に紫外線を遮断できる服』を身にまとって。%K%P
+Going outside... wrapped in my '100％ UV protective clothing', I...%K%P
+0x7D0
+彼のもとへと歩み寄って行く。%K%P
+I walked over to where he was.%K%P
+0x7DC
+なぜか、両足がガクガクと震え、心臓は今にも破裂してしまいそうなほどに脈打っていた。%K%P
+For some reason, my legs were shaking, and my heart was beating so hard it felt like it would burst.%K%P
+0x7E8
+私は気づかれないように大きく息を吸い込み、彼の正面に立った。%K%P
+Being careful that he wouldn't notice the deep breaths I was taking, I went and stood in front of him.%K%P
+0x7FC
+つぐみ「武……」%K%P
+Tsugumi「Takeshi...」%K%P
+0x808
+つぐみ「おかえりなさい」%K%P
+Tsugumi「Welcome home.」%K%P
+0x824
+すると、彼はいきなり私の体を抱き寄せた。%K%P
+Suddenly, he pulled me close.%K%P
+0x830
+彼の力強い腕、ゴツゴツとした胸の隆起……。%K%P
+Into his strong arms and solid chest...%K%P
+0x83C
+私の体は燃えるような熱を帯び、その瞬間、鼓動は止まった。%K%P
+My body was wrapped in a heat which threatened to melt me, and for one moment, my heart had stopped beating.%K%P
+0x848
+武「ああ、ただいま、つぐみ」%K%P
+Takeshi「Hey, I'm back, Tsugumi.」%K%P
+0x854
+武「遅くなって……悪かった……」%K%P
+Takeshi「Sorry... for taking so long...」%K%P
+0x860
+彼はささやいた。%K%P
+He whispered...%K%P
+0x86C
+武「それにしても……」%K%P
+Takeshi「You know...」%K%P
+0x878
+武「相変わらず可愛いな、お前……」%K%P
+Takeshi「You're as cute as ever...」%K%P
+0x884
+つぐみ「えっ？　えっ？　えっ？　や、やめてよ……そんな……」%K%P
+Tsugumi「Eh? Eh? Eh? S-stop it... I...」%K%P
+0x898
+武「いや、だってあまりにも可愛いからさ」%K%P
+Takeshi「No, you're too cute.」%K%P
+0x8A4
+つぐみ「どうしちゃったのよ、いきなり……」%K%P
+Tsugumi「What's with you all of a sudden...」%K%P
+0x8B0
+武「可愛すぎて、食べちゃいたいぐらいだ」%K%P
+Takeshi「You're so cute, I could just eat you up.」%K%P
+0x8BC
+つぐみ「や、やだ……なによ……なんでそんなこと……」%K%P
+Tsugumi「S-stop it... What... are you talking about...?」%K%P
+0x8D0
+武「うむ、やっぱりお前はチャーミングだ」%K%P
+Takeshi「Uh-huh, you sure are charming.」%K%P
+0x8DC
+武「チャーミングだから、チャミ。……いい名前だな」%K%P
+Takeshi「I suppose that's why they call you Chami... It's a good name.」%K%P
+0x8E8
+つぐみ「…………えっ？」%K%P
+Tsugumi「...What?」%K%P
+0x904
+私は彼の胸から、強引に体を引きはがした。%K%P
+I forcefully pried myself away from Takeshi's chest.%K%P
+0x910
+彼の視線は、私の肩先にあった。%K%P
+His eyes were leveled at my shoulder.%K%P
+0x91C
+自分の肩を見る。%K%P
+I looked over to see what he was staring at.%K%P
+0x928
+チャミがチョコマカと手足を動かし、毛づくろいをしていた……。%K%P
+Chami was busy grooming himself with jerky movements using both of his front paws...%K%P
+0x934
+つぐみ「もぉーーーっ……」%K%P
+Tsugumi「I can't believe it...」%K%P
+0x940
+つぐみ「武のバカァーッ！」%K%P
+Tsugumi「You're such a jerk, Takeshi!」%K%P
+0x97C
+%N
+
+0x988
+%LC%FS『――松永沙羅――』%FE%K
+%LC%FS―Matsunaga Sara―%FE%K
+0x99C
+%O
+
+0x9B4
+つぐみ「武のバカァーッ！」%K%P
+Tsugumi「You're such a jerk, Takeshi!」%K%P
+0x9C0
+ママは絶叫し、きびすを返し……『尻尾』をブルンブルンと振りながら、船室へと戻って行った。%K%P
+Mama let out a yell and spun around... then went back inside the boat, tail wagging.%K%P
+0x9CC
+突然ママが動き始めたもんだから、肩の上に乗っていたチャミが体勢を崩し、床の上に落ちた。%K%P
+She moved unexpectedly, and Chami, who had been riding on her shoulder, lost his balance and fell to the deck.%K%P
+0x9D8
+武「お〜い、つぐみ〜、どうしたんだよぉ〜」%K%P
+Takeshi「Hey, Tsugumi, what's wrong?」%K%P
+0x9E4
+パパがママの後を追い駆けて行く。%K%P
+Dad went chasing after Mom.%K%P
+0x9F0
+――ガゴンッ！　――ドガッ！　――バキッ！　――ガラガラガッシャーンッ！%K%P
+―BAM! Wham! Bang! Crash! Craaaaaash!%K%P
+0x9FC
+凄まじい音が鳴り響いた。%K%P
+A series of frightful sounds ensued.%K%P
+0xA08
+見ると、船室の窓の向こうで、ママが『着ぐるみのカブリモノ』を振りまわしながら暴れていた。%K%P
+I looked over on the other side of the window and could see Mama wildly brandishing the head of the costume she'd been wearing.%K%P
+0xA14
+ママは陽射しを避ける為に、レミュール（キツネザル）の着ぐるみを着込んでいたのだ。%K%P
+She'd donned one of the lemur costumes in order to stay out of the sun.%K%P
+0xA20
+猛り狂うママを必死になってなだめているパパの背中……。%K%N
+I could see Father's back as he was desperately trying to calm Mother down...%K%N
+0xA34
+私とお兄ちゃんは顔を見合わせ、くすくすと笑った。%K%P
+Hokuto and I looked at each other and started laughing.%K%P
+0xA40
+ところで、床の上に落ちたチャミは……%K%P
+And Chami...?%K%P
+0xA4C
+何事も無かったかのようにとぼけた顔をして、相変わらず毛づくろいを続けていた。%K%P
+He was calmly acting as if nothing had happened and just continued cleaning himself.%K%P
+0xA58
+私は屈み込んでチャミを手の平に乗せ、立ち上がった。%K%P
+I leaned down to put Chami in my palm and stood back up.%K%P
+0xA64
+この小さなハムスターの話は、すでにママから聞いている。%K%P
+Mama had already told me about the little hamster's ordeal.%K%P
+0xA70
+チャミも私と同じような境遇の中で生きてきたのかと思うと、なんだかふいに、胸が熱くなった。%K%P
+When I thought about how Chami had lived through the same circumstances we had, it made my heart warm.%K%P
+0xA7C
+手の平に、かすかな鼓動が伝わってくる。%K%P
+I could feel the beating of his tiny heart in my palm.%K%P
+0xA88
+トクトクトクトクと忙しなく繰り返される、はかない響き……。%K%P
+Thump, thump... His heartbeat was tiny, but consistent...%K%P
+0xA94
+当たり前のことだけど――『チャミは一生懸命、けなげに生きているんだ』――と、私はそんなことを思った。%K%P
+It went without saying, but I thought to myself―'Chami is living each moment to the fullest.'%K%P
+0xAA0
+沙羅「ねえ、お兄ちゃん？　私達、これからどうなっちゃうのかなぁ？」%K%P
+Sara「Hey, onii-chan? What do you think is going to happen to us after this?」%K%P
+0xAB4
+ホクト「どうなっちゃう、って……？」%K%P
+Hokuto「What do you mean...?」%K%P
+0xAC0
+沙羅「ライプリヒに……」%K%P
+Sara「With Leiblich...」%K%P
+0xAD4
+沙羅「また、ライプリヒに、捕まっちゃうんじゃ……」%K%P
+Sara「You don't think Leiblich will come after us, do you...?」%K%P
+0xAE0
+優春「大丈夫よ、沙羅。……心配しないで？」%K%P
+You'haru'「We'll be alright, Sara... Don't worry, okay?」%K%P
+0xAEC
+ふと、後ろから声をかけられた。%K%P
+Someone was talking to us.%K%P
+0xAF8
+振り向いてみると、そこには……。%K%P
+Looking around, I saw...%K%P
+0xB14
+沙羅「あっ、なっきゅ先輩……じゃなかった、えーっと……」%K%P
+Sara「Oh. Hi, Nakkyu... No, wait, uh...」%K%P
+0xB20
+沙羅「田中先生――優美清春香菜さん、でしたよね？」%K%P
+Sara「Tanaka―Yubiseiharukana-san, right?」%K%P
+0xB2C
+田中先生は静かに頷いて見せた。%K%P
+Doctor Tanaka nodded slightly.%K%P
+0xB40
+ホクト「大丈夫って、どういうことなの？」%K%P
+Hokuto「Hokuto asked Doctor Tanaka...」%K%P
+0xB4C
+お兄ちゃんが田中先生に尋ねる。%K%P
+"What do you mean, we'll be alright?"%K%P
+0xB60
+優春「こういうことよ」%K%P
+You'haru'「What I mean is...」%K%P
+0xB6C
+田中先生はひと言だけつぶやいて、ポケットに差し込んでいた新聞を、お兄ちゃんに手渡した。%K%P
+Murmuring that, she took out the newspaper that had been tucked into her pocket and handed it to my brother.%K%P
+0xB78
+お兄ちゃんが新聞を広げる。%K%P
+He opened it up.%K%P
+0xB84
+私は肩に寄りそって、その一面の記事をのぞき込んだ。%K%P
+I nestled up against his shoulder and looked at the front page headline.%K%P
+0xBE4
+『ライプリヒ製薬、ティーフブラウ・ウイルス蔓延に関与か！？』%K%N
+'Leiblich Pharmaceuticals, responsible for outbreak of Tief Blau virus!?'%K%N
+0xBF0
+『一両日中にも強制捜査へ』%K%O
+'Compulsory investigation to begin in a day or two.'%K%O
+0xC08
+２０１７年から数年間にかけて世界中で猛威を振るったティーフブラウ・ウイルス（以下ＴＢ）が、%K%N
+It was learned that the Tief Blau virus (TB), which has ravaged the world since 2017,%K%N
+0xC14
+日独合弁の製薬会社『ライプリヒ製薬（本社フランクフルト）』の研究施設から漏洩したものであることが、%K%N
+was manufactured by the Frankfurt-based pharmaceutical giant Leiblich Pharmaceuticals%K%N
+0xC20
+このほど、同製薬会社の関連企業に勤務する社員からの内部告発によって明らかになった。%K%O
+when a whistleblower from the Japanese-German joint-managed research facility came forward earlier this week.%K%O
+0xC38
+この事件に関連して、警視庁は、一両日中にも国内にあるライプリヒ製薬の支社、%K%N
+Spurred by these allegations, the Metropolitan Police Department is expected to open a criminal investigation%K%N
+0xC44
+及び同企業の関連研究施設への強制捜査に踏み切る方針をかためた。%K%O
+that will focus on Leiblich's branch offices, as well as related research facilities.%K%O
+0xC5C
+ライプリヒ製薬は以前から、細菌兵器の製造を目的としてＴＢの研究開発を行なっており、%K%N
+Leiblich Pharmaceuticals has been conducting research and development of TB for some time for the purpose of manufacturing a biological weapon.%K%N
+0xC68
+２０１７年５月１日前後に、この研究施設においてウイルスの漏洩事故が発生した模様。%K%O
+An outbreak of the virus is rumored to have occurred in their research facility around May 1st, 2017.%K%O
+0xC80
+会社側は事故の事実を隠蔽しただけでなく、ＴＢの研究自体も厚生労働省からの許認可を得ず極秘裏に継続していた。%K%N
+Leiblich not only sought to cover up the accident, but also continued research into TB without the authorization of the Ministry of Health under conditions of extreme secrecy, according to the whistleblower.%K%N
+0xC8C
+研究所の所在地も、いまだ明かされていない。%K%N
+The location of the company's research institute has not yet been confirmed.%K%O
+0xC98
+同製薬会社には他にも疑惑が多く、一般の市民を不当な手続きによって略取監禁し、人体実験等を行なっていた疑いもある。%K%O
+Numerous other doubts involving Leiblich, including charges that it wrongfully detained citizens for the purpose of human experiments, have been raised and are to be investigated.%K%O
+0xCB0
+事件の全容解明に向け、警視庁は、ライプリヒ製薬の本社があるドイツの捜査機関にも協力を要請している。%K%O
+In order to fully uncover the facts behind these allegations and the reported incident, the Metropolitan Police Department is requesting cooperation from authorities in Germany, where Leiblich's head office is located.%K%O
+0xD2C
+優春「ライプリヒ製薬の影響力は、国家権力にまで深く浸透してるから……まあ、いろいろと根まわしは大変だったんだけど……」%K%P
+You'haru'「Leiblich has a lot of influence, even political clout at the national level... so laying the groundwork for this was really tough, but...」%K%P
+0xD38
+田中先生は古ぼけたサインペンの先端で、頭をポリポリと掻いた。%K%P
+Doctor Tanaka took out an old marker and scratched it against her cheek.%K%P
+0xD44
+ホクト「じゃあ、ここに書いてある『内部告発をした人』っていうのは……」%K%P
+Hokuto「So... the whistleblower mentioned in this article is...」%K%P
+0xD58
+優春「そう、私」%K%P
+You'haru'「That's right, it was me.」%K%P
+0xD64
+優春「本当は、マスコミや警察にリークしたのはだいぶ前なんだけどねぇ」%K%P
+You'haru'「Actually, I leaked this to the police and the press quite a long time ago.」%K%P
+0xD70
+優春「でも、裏でコソコソッと、取り引きみたいなことをして……」%K%P
+You'haru'「But there was a lot of behind the scenes maneuvering...」%K%P
+0xD7C
+優春「『今日、５月７日になるまでは、絶対に、何があっても動かないで！』って、そう言っといたの」%K%P
+You'haru'「So I told them, 'Whatever happens, DON'T move before May 7th!'」%K%P
+0xD88
+沙羅「パパと、あのココちゃんっていう女の子を、助ける為に？」%K%P
+Sara「You mean in order to rescue Dad and that girl, Coco-chan?」%K%P
+0xD9C
+優春「そういうこと」%K%P
+You'haru'「That's right.」%K%P
+0xDA8
+沙羅「じゃあ……じゃあ……」%K%P
+Sara「Well... Uh...」%K%P
+0xDB4
+沙羅「もう私達、追い駆けられずに済むんだ！　自由になったんだ！」%K%P
+Sara「That means they won't come after us! And we're free!」%K%P
+0xDC8
+優春「うん」%K%P
+You'haru'「Yep.」%K%P
+0xDD4
+優春「だから、もう何も心配しなくてもいいのよ？」%K%P
+You'haru'「So there's nothing to worry about, okay?」%K%P
+0xDE0
+そう言って、田中先生は優しそうな笑みを浮かべて見せた。%K%P
+Doctor Tanaka smiled kindly.%K%P
+0xDEC
+すると……。%K%P
+Just then...%K%P
+0xE08
+優秋「『心配しなくてもいい』？　何よ、それ……。よくそんなこと言えるよね？」%K%P
+You'aki'「'There's nothing to worry about'? How can you say that?」%K%P
+0xE14
+優秋「お母さん、誰に向かって言ってるのか、わかってるの？」%K%P
+You'aki'「Do you have any clue who you're talking to?」%K%P
+0xE28
+優春「ユウ……」%K%P
+You'haru'「You...」%K%P
+0xE3C
+優秋「マヨが、マヨが……今までどれほどツライ思いをしてきたのか……お母さん、考えたことあるの！？」%K%P
+You'aki'「Do you have any idea how... how hard a time that Mayo's been through... Have you stopped to think about that, Mom!?」%K%P
+0xE48
+優春「…………」%K%P
+You'haru'「.........」%K%P
+0xE54
+ホクト「…………」%K%P
+Hokuto「.........」%K%P
+0xE60
+沙羅「…………」%K%P
+Sara「.........」%K%P
+0xE74
+優秋「ちょっと、お母さん……一緒に来て」%K%P
+You'aki'「Come here, Mom... for a second.」%K%P
+0xE80
+優秋「話があるの」%K%P
+You'aki'「I have something to tell you.」%K%P
+0xEB4
+%N
+
+0xEC0
+%LC%FS『――田中優美清春香菜――』%FE%K
+%LC%FS―Tanaka Yubiseiharukana―%FE%K
+0xED4
+%O
+
+0xEEC
+優秋「話があるの」%K%P
+You'aki'「I have something to tell you.」%K%P
+0xEF8
+そう言うなり、ユウは私の手をぐんぐんと引っぱって、甲板の隅の方へと導いた。%K%P
+Saying that, my daughter tugged firmly on my arm and led me over to a corner of the deck.%K%P
+0xF0C
+優春「話って、何？」%K%P
+You'haru'「What do you want to talk about?」%K%P
+0xF18
+優秋「言わなくてもわかってるでしょ？」%K%P
+You'aki'「You already know that, don't you?」%K%P
+0xF24
+優秋「お母さんは２０２５年にＬｅＭＵで働き始めた。第３視点を研究する為に……」%K%P
+You'aki'「In 2025, you started working at LeMU. To conduct research into the third eye...」%K%P
+0xF30
+優秋「ううん、本当の倉成武と、あのココっていう女の子を救う為に……」%K%P
+You'aki'「I mean, in order to save the real Kuranari Takeshi and that girl called Coco...」%K%P
+0xF3C
+優春「…………」%K%P
+You'haru'「.........」%K%P
+0xF48
+優秋「だったら、どうしてなの？」%K%P
+You'aki'「So why?」%K%P
+0xF54
+優秋「ＬｅＭＵで働いてたんなら、ライプリヒの施設に監禁されてたマヨを助け出すことだってできたでしょ？」%K%P
+You'aki'「If you were working at LeMU, you could have found a way to rescue Mayo, who's been locked up at Leiblich's facility all this time.」%K%P
+0xF60
+優秋「つぐみと子供達を逢わせてあげることだってできたでしょ？」%K%P
+You'aki'「You could have reunited Tsugumi and her kids, right?」%K%P
+0xF74
+優秋「なのに、どうして……」%K%P
+You'aki'「So why didn't...」%K%P
+0xF80
+優春「それは……」%K%P
+You'haru'「Well...」%K%P
+0xF8C
+倉成とココを救う為には、やむを得ないことだった。%K%P
+It had to be done to save Kuranari and Coco.%K%P
+0xF98
+歴史を変えるわけにはいかなかった。%K%P
+We didn't dare to change history.%K%P
+0xFA4
+それが、２０１７年に、ブリックヴィンケルと交わした約束だったから……。%K%P
+Because I had made a promise to Blick Winkel in 2017...%K%P
+0xFB0
+優秋「お母さん……なんにも教えてくれないのね」%K%P
+You'aki'「So... you aren't going to tell me anything, are you?」%K%P
+0xFBC
+優秋「いつもそう……。自分ひとりで勝手に何でも決めちゃって……」%K%P
+You'aki'「It's always like this... You always decide everything...」%K%P
+0xFC8
+優春「でも……この一件が起きる前に説明したところで、ユウはきっと、信じてくれなかったでしょう？」%K%P
+You'haru'「Even if you couldn't trust me enough to explain things before all of this happened...」%K%P
+0xFDC
+優秋「だからって、だますなんてひどいよ！」%K%P
+You'aki'「You didn't have to lie to me!」%K%P
+0xFE8
+優秋「今まで１８年間、私はだまされ続けてきたんだよ？」%K%P
+You'aki'「You've lied to me these eighteen years!」%K%P
+0xFF4
+そうね、確かにそう……。%K%P
+Yes, I had...%K%P
+0x1000
+弁解の余地は無いわ……。%K%P
+And there was really nothing I could say to apologize...%K%P
+0x1014
+優秋「もう、嘘はつかないで……。隠さないで……。全部教えて欲しいの……」%K%P
+You'aki'「So I don't want you to lie to me... or hide anything... I want to know everything...」%K%P
+0x1020
+優秋「まだ私に言ってないこと、あるんでしょ？」%K%P
+You'aki'「There are still things you haven't told me yet, right?」%K%P
+0x102C
+優秋「本当のお父さんのこと、お母さんのこと……」%K%P
+You'aki'「Like who my real dad and mom were...」%K%P
+0x1040
+優秋「訊かせて？　お願いだから……」%K%P
+You'aki'「Tell me... Please...」%K%P
+0x108C
+私はためらわなかった。%K%P
+I didn't hesitate.%K%P
+0x1098
+父、陽一のこと、母、ゆきえのこと……。%K%P
+I told her about her father, Yoichi, and mother, Yukie...%K%P
+0x10A4
+すべての真実を、私はユウに告げた。%K%P
+I told her the truth. All of it.%K%P
+0x10F4
+――２０１７年５月６日。%K%P
+―May 6th, 2017.%K%P
+0x1100
+ココの発病をキッカケにして、私達は海底の研究所（ＩＢＦ）へと降り立った。%K%P
+Because Coco was sick, we had all headed to the IBF research lab.%K%P
+0x110C
+倉成、桑古木少年、つぐみの３人が研究所内の探索に出かけている間、私はひとり、診療室の中に残っていた。%K%P
+While Kuranari, the young Kaburaki, and Tsugumi were searching around the research facility, I stayed behind in the examination room.%K%P
+0x1118
+カプセルポッドの中にはココと、それから研究員が横たわっていた。%K%P
+Coco and the researcher were lying in the capsule pods.%K%P
+0x1124
+研究員は、体を蝕んで行くウイルスや、薄れ行く意識と闘いながら、こんなことを私に告げたのだった。%K%P
+The researcher, who was fighting to stay conscious as the virus consumed his body, told me...%K%P
+0x1130
+研究員「……優……まさかこんなところで……再会することに……なるとはな……」%K%P
+Researcher「...You... I never dreamed... that we would meet again... in a place like this...」%K%P
+0x113C
+そう、彼こそが、私の父――『Ｔ．Ｙ』――田中陽一だったのだ。%K%P
+That was right, he was my father―T.Y.―Tanaka Yoichi.%K%P
+0x1148
+父はポッドの中で身もだえ、苦しみながら、事の経緯について話してくれた。%K%P
+As he was lying there in agony, he explained to me what had happened.%K%P
+0x1154
+……………………………………………。%K%P
+.........%K%P
+0x1160
+西暦２０００年――。%K%P
+The year 2000―%K%P
+0x116C
+レミ開発プロジェクトの一員だった父は、ある日偶然、ライプリヒ製薬がＴＢウイルスの研究開発をしているという事実を知ってしまった。%K%P
+My father was a researcher on the LeMMIH development project. One day, by accident, he discovered that Leiblich was developing the TB virus.%K%P
+0x1178
+ＴＢは致死率の極めて高い凶悪なウイルスで、ライプリヒは他国の軍需産業へと、これを密売する計画を企てていた。%K%P
+TB was a potent virus with an exceedingly high mortality rate, and Leiblich was planning to sell it to military buyers around the world.%K%P
+0x1184
+人一倍正義感の強かった父は『今すぐウイルスの開発を中止すべきだ！』と、会社の上層部に訴えたが、当然のごとく却下された。%K%P
+Father, whose sense of justice was stronger than anyone I had ever known, appealed to the company to stop development of the virus immediately.%K%P
+0x1190
+『それならば』と決意を固めた父は……%K%P
+But of course, they refused... That being the case, my father made up his mind...%K%P
+0x119C
+厳重なプロテクトのかかった会社のデータベースに侵入し、証拠となる資料を集め、マスコミにリークする準備を整えた。%K%P
+He hacked into the highly protected company database, collected evidence, and prepared to leak the information to the press.%K%P
+0x11A8
+けれど……。%K%P
+However...%K%P
+0x11B4
+寸前のところでライプリヒに感づかれ、父は身柄を拘束されることになってしまったのだった。%K%P
+Leiblich found out before he could make his move and put him in a situation he could not escape from.%K%P
+0x11C0
+『ここから脱走したら、お前の妻と娘は交通事故にあって死ぬだろう』などと、父は脅迫されていたのだと言う。%K%P
+They threatened my father, telling him, Should you escape from here, your wife and child will probably die... in an 'unfortunate car accident'.'%K%P
+0x11CC
+ライプリヒ製薬は、私の母、ゆきえに対し……%K%P
+And to my mother, Yukie, Leiblich said...%K%P
+0x11D8
+『旦那様は、不慮の事故により行方不明となられています。%K%P
+'Your husband is missing after a tragic accident.'%K%P
+0x11E4
+　ＬｅＭＵ建造の様子を視察に来られた際、あやまって足を踏みはずし、海へと転落されたようです。%K%P
+'When making his rounds on the LeMU premises, he slipped and fell into the ocean.'%K%P
+0x11F0
+　現在、海中をくまなく捜索しておりますが、依然として発見の報告はされておりません』……そのように告げた。%K%P
+'We are doing everything we can to search the surrounding waters, but his remains still have not been located.'%K%P
+0x11FC
+母はライプリヒの言葉を信じた。%K%P
+My mother believed them.%K%P
+0x1208
+私がまだ１歳の、初夏のことだった。%K%P
+It was the very first summer of my life.%K%P
+0x1214
+……………………………………………。%K%P
+.........%K%P
+0x1220
+時は経ち、西暦２０１７年――。%K%P
+Time passed, and it was the year 2017―%K%P
+0x122C
+ＩＢＦのコンピューターシステムを管理していた父は、ＴＢの漏洩事故に巻き込まれた。%K%P
+My father, who had been maintaining the computer system for IBF, was caught up in the TB outbreak.%K%P
+0x1238
+次々と研究員が脱出して行く中で、父１人がＩＢＦに残ったのは……私の身を、案じてのことだったらしい。%K%P
+As all of the researchers fled one by one, my father stayed in IBF... because he was worried about me.%K%P
+0x1244
+父は私がＬｅＭＵで働いていたことを、知っていたのだ。%K%P
+My father knew I was working at LeMU.%K%P
+0x1250
+そして父は……%K%P
+And my father...%K%P
+0x125C
+私の目の前で……%K%P
+Right in front of my eyes...%K%P
+0x1268
+七転八倒の苦しみにあえぎながら……%K%P
+After enduring one disaster after another and gasping in pain...%K%P
+0x1274
+喉を掻きむしりながら……%K%P
+While clawing at his throat...%K%P
+0x1280
+凄絶な最期を、遂げた。%K%P
+He struggled until the end to say...%K%P
+0x128C
+研究員「……むすめ、を……」%K%P
+Researcher「...My daughter...」%K%P
+0x1298
+研究員「娘を……頼む……ぞ」%K%P
+Researcher「Daughter... take care... of her...」%K%P
+0x12A4
+そう言い残して……。%K%P
+His last words...%K%P
+0x1344
+優秋「……………………」%K%P
+You'aki'「.........」%K%P
+0x1350
+優春「この事故を発端として、ティーフブラウ・ウイルスは世界中に蔓延し、猛威を振るうことになった……」%K%P
+You'haru'「Because of that accident, the Tief Blau virus broke out, causing terrible suffering all over the world...」%K%P
+0x135C
+優春「だけど……ライプリヒ製薬は、ウイルスのことや、研究所の存在自体も隠蔽し、事件を完全に、闇の中へと葬り去ってしまったの」%K%P
+You'haru'「But... Leiblich Pharmaceuticals concealed everything. The truth about the virus and the research facility was locked away.」%K%P
+0x13BC
+『発生源不明、未知の悪性ウイルス』――マスコミはそんなふうに報道した。%K%O
+And the press only reported that it was 'a deadly virus of unknown origin'.%K%O
+0x13D4
+専門家でさえも、その正体はつかめなかった。%K%N
+Even the experts had no idea where the disease really came from.%K%N
+0x13E0
+ただし、潜伏期間がとても短く、致死率が極端に高いこのウイルスは、他者に伝染する前に、宿主を殺してしまう場合が多かった。%K%N
+However, the incubation period was very short, so even though the death rate was high, in many cases the carrier died before infecting others.%K%N
+0x13EC
+だから、ＴＢウイルスは一時爆発的に拡散したものの、事故から２年後の２０１９年頃になると、被害は徐々に鎮静化へと向かって行った。%K%O
+So, while the TB virus spread rapidly for a time, by 2019, two years after the accident, the pace and scale of the disease's destruction gradually waned.%K%O
+0x1404
+とは言え、犠牲者が少なかったというわけでは決してない。%K%N
+But that didn't mean there weren't victims.%K%N
+0x1410
+このウイルスによる災禍の犠牲者は、数千人とも数万人とも言われた。%K%N
+The number of people that the virus killed was said to have reached several tens of thousands.%K%N
+0x141C
+そして……。%K%O
+And...%K%O
+0x1434
+私の母、ゆきえも、その犠牲者のうちの１人だった。%K%N
+One of them was my mother, Yukie.%K%N
+0x1440
+今から１５年前、母はＴＢに感染し、息を引き取った。%K%N
+It was fifteen years ago that my mother caught TB, and it robbed her of her life.%K%N
+0x144C
+私の悲しみは、怒りは、憎しみは、そのとき頂点に達した。%K%N
+My sadness, anger, and hatred all came together then.%K%N
+0x1458
+ライプリヒに復讐することを固く胸に誓い……%K%O
+I swore that I would get revenge on Leiblich...%K%O
+0x1470
+同時に、研究所に取り残された倉成とココを救出すべく、私はＬｅＭＵに潜入し、工作を開始した。%K%N
+I infiltrated LeMU and simultaneously started formulating a plan to rescue Kuranari and Coco, who were trapped in the research facility.%K%N
+0x147C
+その際、私の片腕となって働いてくれたのが、桑古木涼権だった。%K%N
+And the person who helped me to do that was Kaburaki Ryogo.%K%N
+0x1488
+私と桑古木は、これまでの１７年間の１秒１秒を、ただ、この計画を遂行する為だけに費やしてきた。%K%N
+We had spent every moment for the last seventeen years preparing for it.%K%N
+0x1494
+そう……今日この日の為だけに、私達は生きてきたのだ。%K%O
+Yes... It was the only thing that I'd lived for up until that point.%K%O
+0x14AC
+『父と母の命を奪ったライプリヒに天誅を下し、私達の仲間、倉成とココを無事に救出する』%K%N
+To make Leiblich pay for taking my mother and father from me and to save my friends Kuranari and Coco.%K%N
+0x14B8
+その為には、どうしても第３視点――ブリックヴィンケルを発現させる必要があった。%K%N
+And in order to do that, we needed to discover the third eye―Blick Winkel.%K%N
+0x14C4
+彼の力を借りなければ、私達にはどうすることもできないのだから……。%K%N
+Without his help, there was nothing we could do...%K%N
+0x14D0
+この次元の住人である私達は、過去には決して戻れないのだから……。%K%N
+There was no other way that we, who were living in our dimension, could go back in time...%K%N
+0x14DC
+……………………………………………。%K%O
+.........%K%O
+0x14F4
+こうして、計画は動き始めたのだ。%K%N
+That was how the whole plan had been set in motion.%K%N
+0x1500
+２０３４年５月１日に向けて……。%K%O
+All toward May 1st, 2034...%K%O
+0x154C
+話し終えた私は、大きく息をついた。%K%P
+After finishing my explanation, I let out a big sigh.%K%P
+0x1558
+ユウは親指の爪を噛みながら、何も無い虚空の一点を見つめていた。%K%P
+Biting on the nail of her thumb, my daughter looked up at the sky.%K%P
+0x1564
+優春「ほら、その顔……やっぱり信じてくれてないじゃない」%K%P
+You'haru'「See, look at that face... I knew you wouldn't believe me.」%K%P
+0x1578
+ユウがチラリと、私の方を見る。%K%P
+She looked at me.%K%P
+0x1584
+優春「まあ、こんな話を信じろっていう方が、どうかしてるのかも知れないけどね」%K%P
+You'haru'「Then again, who would believe a story like that?」%K%P
+0x1590
+優春「でも……事実は事実だから……」%K%P
+You'haru'「But... it doesn't change the fact that it's the truth...」%K%P
+0x159C
+そう言って、私はユウの髪の毛に触れた。%K%P
+I reached out to stroke her hair.%K%P
+0x15A8
+ユウは透き通った２つの瞳で、私のことを見つめている。%K%P
+She stared at me blankly...%K%P
+0x15B4
+１７年前の私にそっくり……。%K%P
+Looking just like I did seventeen years before...%K%P
+0x15C0
+無鉄砲で、おてんばで、危険なほどに純粋で、感情を押し殺すことさえ知らない。%K%P
+Reckless, full of fire, pure, all to the point of being dangerous and unable to control her emotions.%K%P
+0x15CC
+素直な目……。まだ穢れを知らない無垢な眼差し……。%K%P
+Her innocent eyes... had seen none of the evil and corruption in the world.%K%P
+0x15D8
+その目を見れば、私には、彼女の考えていることが手に取るようにわかるのだった。%K%P
+Looking into her eyes, I could read everything she was thinking.%K%P
+0x15E4
+ユウは今、怒ってるわけじゃない。不快な思いを抱いているわけでもない。%K%P
+She wasn't mad. She wasn't unhappy.%K%P
+0x15F0
+ただ、ありのままの事実を受け入れるのが怖くて……どう処理していいのかわからなくて……困惑しているのだ。%K%P
+Just afraid to accept the truth... She didn't know how to handle it... and was scared and embarrassed by that fact.%K%P
+0x15FC
+だから私は、ユウの体を思い切り抱きしめてあげた。%K%P
+So I reached out and held her closely.%K%P
+0x1608
+『今のあなたには、言葉は必要ないでしょ？』――胸の中で、そんな言葉をつぶやきながら。%K%P
+'There's no need for you to say anything'―I thought that quietly to myself.%K%P
+0x161C
+優秋「お母さん……」%K%P
+You'aki'「Mom...」%K%P
+0x1628
+優秋「お母さんの言ってることは、わかった……」%K%P
+You'aki'「I... understand what you're trying to tell me...」%K%P
+0x1634
+ユウは私の耳元で、そっとささやいた。%K%P
+She whispered that quietly in my ear.%K%P
+0x1640
+優秋「でもね？　どうしても、ひとつだけ確かめておきたいことがあるの」%K%P
+You'aki'「But there's something I have to know.」%K%P
+0x164C
+優春「なに？」%K%P
+You'haru'「What?」%K%P
+0x1658
+優秋「私はお母さんにとって、どんな存在なの？」%K%P
+You'aki'「What do I mean to you?」%K%P
+0x1664
+優春「ふふっ」%K%P
+You'haru'「Haha.」%K%P
+0x1670
+私は思わず笑みをこぼしながら、こう答えた。%K%P
+I laughed without thinking and replied...%K%P
+0x167C
+優春「あなたは、私のすべてよ」%K%P
+You'haru'「You are everything to me.」%K%P
+0x16B8
+%N
+
+0x16C4
+%LC%FS『――田中優美清秋香菜――』%FE%K
+%LC%FS―Tanaka Yubiseiakikana―%FE%K
+0x16D8
+%O
+
+0x16F0
+優春「あなたは、私のすべてよ」%K%P
+You'haru'「You are everything to me.」%K%P
+0x16FC
+お母さんはそう言った。%K%P
+Mom said those words to me.%K%P
+0x1708
+本当は『私の娘よ』って、そう答えて欲しかったんだけど……。%K%P
+I had wanted her to tell me, 'You are my daughter', but...%K%P
+0x1714
+でも、不思議と嫌な気はしなかった。%K%P
+For some reason, it didn't bother me.%K%P
+0x1720
+『もっと怒るべきなんじゃないか』とか『１発引っぱたいてやるぐらいのことはするべきなんじゃないか』とか……%K%P
+'Shouldn't you be furious?' and 'You should slap her across the face'...%K%P
+0x172C
+冷静なもうひとりの自分が、頭の中でささやく。%K%P
+Another voice inside my head murmured that.%K%P
+0x1738
+だけど、どうしても怒る気にはなれなかった。%K%P
+However, I couldn't get angry.%K%P
+0x1744
+ぎゅっときつく抱きしめられた私は、お母さんの体に身をゆだね、ただただその懐かしい温もりに酔いしれるばかりで……。%K%P
+I relaxed against my mother, who held me tightly, and I could only feel dizzy from her warmth...%K%P
+0x1750
+本来、私が持っているはずの、野生的な牙と言うか、厄介なぶち切れ資質と言うか……%K%P
+All of my normal reactions, such as lashing out like a wild animal and my sudden mood swings...%K%P
+0x175C
+そんな感じの熱くたぎるものが、今、根こそぎ奪われて行くような気がして……。%K%P
+The warmth of her hug took all of that away...%K%P
+0x1768
+『お母さん……』%K%P
+Mom...%K%P
+0x1774
+結局のところ、私は彼女のことを、お母さんだと認めてしまっているのだった。%K%P
+When it came down to it, I still thought of her as my mother.%K%P
+0x1780
+それは理性とはまったく無関係な部分に存在する本能的な『うずき』であって……その『うずうず感』は、私には制御不能であり……。%K%P
+There was an instinctive 'itch' that transcended my basic reason... It was beyond my ability to control...%K%P
+0x178C
+要するに、誰が何と言おうと、この人は、私の母親に違いないのだ、と思った。%K%P
+In the end, no matter what anyone said, the woman in front of me was my mother.%K%P
+0x1798
+どうしようもない母親だけど、どうしようもないほど、私にとっては母親なのだ。%K%P
+She wasn't much of a mother, but to me, she was the only mother I had.%K%P
+0x17A4
+これはもう、どうしようもないことであり……。%K%P
+And that was all there was to it...%K%P
+0x17B0
+『出生の過程が、ちょっと人と違うだけじゃない』――そんなことさえ、今の私は思っている。%K%P
+At that moment, it occurred to me―I only differed from other people in the way that I was born.%K%P
+0x17BC
+……………………………………………。%K%P
+.........%K%P
+0x17C8
+世の中には、信じられないような出来事がたくさんあるんだと、小さい頃から聞かされてきた。%K%P
+I had been told since I was a little girl that there were lots of things in the world that were hard to believe.%K%P
+0x17D4
+中学生の頃も、高校生の頃も、友達はみんな不思議な話が大好きで、その手のうさんくさい話が雑談の主題となることもしばしばだった。%K%P
+In junior high and high school, all of my friends loved to talk about all kinds of strange things.%K%P
+0x17E0
+心霊現象、超能力、ＵＦＯ、ＵＭＡ、超古代文明、都市伝説、オマジナイ、占い、奇蹟、神秘……。%K%P
+Psychic phenomena, supernatural powers, UFOs, UMAs, super-ancient civilizations, urban myths, curses, fortune-telling, miracles, mysteries...%K%P
+0x17EC
+私はこれまで、それらのすべてをひとつ残らず否定し、少女達の幼い夢を片っ端から打ち崩してきた……ような気がする。%K%P
+I thought I had dismissed all of those things as girlish fantasies...%K%P
+0x17F8
+でも今は……少し変わった。%K%P
+But something... had changed slightly.%K%P
+0x1804
+だって、私の存在自体が信じられない奇蹟なのだから……。%K%P
+Because my existence itself was something hard to explain...%K%P
+0x1810
+この世界に『優美清秋香菜』という人間が実在するという神秘性を考えれば……%K%P
+If I thought about the fact that I myself, 'the girl called You', was somewhat of a mystic entity...%K%P
+0x181C
+エクトプラズムだろうが、キャトルミューティレーションだろうが、浦島太郎だろうが、レムリア文明だろうが……%K%P
+Then ectoplasm, cattle mutilations, Rip Van Winkle, the Lemurian civilization...%K%P
+0x1828
+いずれも、取るに足らない瑣末な珍事でしかないように思えるのだった。%K%P
+All of those seemed like normal, everyday things.%K%P
+0x1834
+それから、もちろん『第３視点』も……。%K%P
+Even the 'third eye'...%K%P
+0x1840
+……………………………………………。%K%P
+.........%K%P
+0x1854
+そんなことを考えているうちに、お母さんは私のそばから静かに離れ、何も言わずに船室の中へと入って行った。%K%P
+While those thoughts drifted through my head, my mother quietly went inside of the boat.%K%P
+0x1860
+ひとり、甲板の隅に取り残された私は、しばらくの間、肌に残った温もりの余韻に浸っていた。%K%P
+Left by myself in the corner of the deck, I basked in the lingering warmth that remained on my skin.%K%P
+0x186C
+船はゆったりと前後に揺れながら、波を切って進んで行く。%K%P
+The boat slowly rocked back and forth as it cut through the waves.%K%P
+0x1878
+穏やかに吹く海風が、潮の香りを鼻先に届けた。%K%P
+The smell of the ocean quietly wafted by, carried by the sea breeze.%K%P
+0x1884
+やがて……。%K%P
+Soon...%K%P
+0x1898
+ホクト「あっ、優……こんなとこにいたんだ？　捜したんだよ？」%K%P
+Hokuto「Oh, hey, You... You been here all along? I've been looking for you.」%K%P
+0x18A4
+少年⑳（ホクト）が、私の前にバタバタと駆け寄ってきた。%K%P
+The Kid, Hokuto, came walking over to me.%K%P
+0x18B8
+ホクト「実は、優に相談したいことがあって……」%K%P
+Hokuto「Actually, there was something that I wanted to ask you...」%K%P
+0x18C4
+優秋「相談？」%K%P
+You'aki'「Ask me?」%K%P
+0x18D0
+少年は深く頷いてから、こう言った。%K%P
+Hokuto nodded deeply and said...%K%P
+0x18E4
+ホクト「ぼく、大学に入ったら、考古学を専攻しようと思ってるんだけど……」%K%P
+Hokuto「I've been thinking I want to study archaeology when I go to college...」%K%P
+0x191C
+%N
+
+0x1928
+%LC%FS『――ホクト――』%FE%K
+%LC%FS―Hokuto―%FE%K
+0x193C
+%O
+
+0x1954
+ホクト「ぼく、大学に入ったら、考古学を専攻しようと思ってるんだけど……」%K%P
+Hokuto「I've been thinking I want to study archaeology when I go to college...」%K%P
+0x1960
+ぼくは、優（優美清秋香菜）に、そう告げた。%K%P
+I told You what had been on my mind.%K%P
+0x1974
+優秋「えっ？　どうしてまた、考古学なんか……」%K%P
+You'aki'「Eh? Why that again...?」%K%P
+0x1980
+ホクト「第３視点について、もっといろいろと勉強したいから」%K%P
+Hokuto「Well, because I want to study more about the third eye.」%K%P
+0x198C
+優は黙っていた。%K%P
+You was silent.%K%P
+0x1998
+『はあ！？　あんたバカじゃないの！？　第３視点なんてものはねぇ、この世に存在しないのよ！』%K%P
+'Huh!? What are you, stupid!? There's no such thing as the third eye!'%K%P
+0x19A4
+てっきりそんなふうに反論されるもんだとばっかり思っていたから、ぼくはちょっと拍子抜けした。%K%P
+I thought for sure that she would come back with something like that, so I was caught off guard by her reply.%K%P
+0x19B0
+優秋「で？　相談の内容は？」%K%P
+You'aki'「And? What did you want to ask me about?」%K%P
+0x19BC
+ホクト「あ、ああ、えーっと……」%K%P
+Hokuto「Ah, uh, well...」%K%P
+0x19C8
+ホクト「ぼく、考古学を専攻することは、もう決めたんだけど……」%K%P
+Hokuto「I've already made up my mind that I'm going to study archaeology, but...」%K%P
+0x19D4
+ホクト「でも、そんなことを言いながらも、実は考古学について、ほとんど何も知らないわけで……」%K%P
+Hokuto「Still... I don't really know that much about it...」%K%P
+0x19E0
+ホクト「だから、さしあたって『どんなことを予習しておくべきだ』とか、『最適な入門書みたいなものはあるのか』とか……」%K%P
+Hokuto「Like what kinds of things I should do to prepare or if there are any books you know that are good primers on the subject.」%K%P
+0x19EC
+ホクト「そんな感じのアドバイスを、してもらえたらなぁ〜、なんて思って……」%K%P
+Hokuto「I was hoping that you could give me some advice...」%K%P
+0x1A00
+優秋「アドバイス、って言われてもねぇ」%K%P
+You'aki'「Well, I don't know what kind of advice I can give.」%K%P
+0x1A0C
+優秋「私も、まだ大学に入ったばっかりだし、授業って言っても、ほとんどがパンキョーだったりするわけだし……」%K%P
+You'aki'「I only just started college, and I've only really taken my reqs, so...」%K%P
+0x1A18
+ホクト「ぱんきょー？」%K%P
+Hokuto「'Reqs'?」%K%P
+0x1A2C
+優秋「一般教養科目のこと」%K%P
+You'aki'「Required classes.」%K%P
+0x1A38
+優秋「考古学を専門的に勉強できるようになるのは、３年になってからなの」%K%P
+You'aki'「In order to major in archaeology, you've got to be a junior.」%K%P
+0x1A44
+ホクト「そうなんだぁ」%K%P
+Hokuto「Oh...」%K%P
+0x1A50
+優秋「だから、私に助言を求められても……」%K%P
+You'aki'「I'm sorry, but I really can't tell you anything...」%K%P
+0x1A5C
+優秋「あっ、でもひとつだけ」%K%P
+You'aki'「Oh, but maybe there is one thing.」%K%P
+0x1A70
+優秋「考古学は、やめといた方がいいと思うよ？」%K%P
+You'aki'「You should probably study something else.」%K%P
+0x1A7C
+ホクト「えっ？　どうして？」%K%P
+Hokuto「Huh? Why?」%K%P
+0x1A88
+優秋「考古学って、少年が思ってるよりも、遥かに遥かに地味ぃ〜な学問なのよ？」%K%P
+You'aki'「Archaeology is WAY more boring than you're probably thinking.」%K%P
+0x1A94
+優秋「映画に出てくるような、ウィンディアナ・ジェーンズの世界とは、まったくの別物」%K%P
+You'aki'「It's a lot different than what they show in the movies.」%K%P
+0x1AA8
+優秋「それにね？」%K%P
+You'aki'「Besides...」%K%P
+0x1AB4
+優秋「第３視点を本気で勉強したいんだったら、哲学とか心理学とか、そっちの方面に進んだ方が的確だと思う」%K%P
+You'aki'「If you want to study about the third eye, you're better off attacking it from the direction of philosophy or psychology.」%K%P
+0x1AC0
+優秋「考古学っていうのは、そもそも人類史を研究する学問なんだから」%K%P
+You'aki'「In the first place, archaeology is a subject that studies HUMAN history.」%K%P
+0x1ACC
+ホクト「でも……いいんだよ！　もう決めちゃったんだもん！」%K%P
+Hokuto「But... it's okay! I've already made up my mind!」%K%P
+0x1AD8
+ホクト「ぼくは人類史的な側面から、第３視点についてアプローチしようと考えているわけで……」%K%P
+Hokuto「I've been thinking I could approach the study of the third eye from the angle of human history.」%K%P
+0x1AEC
+優秋「またまたぁ〜、小難しいこと言っちゃってぇ〜」%K%P
+You'aki'「There you go, being difficult as always.」%K%P
+0x1AF8
+優秋「本当はただ単に、私とおんなじ分野に進みたかっただけなんじゃないのぉ〜？」%K%P
+You'aki'「I think the real reason you want to study it is so that you can be in the same field as me.」%K%P
+0x1B04
+優秋「つまり少年は、私に憧れちゃってると……」%K%P
+You'aki'「I mean, it's obvious that you like me...」%K%P
+0x1B10
+ホクト「うん、そうかもね」%K%P
+Hokuto「Yeah, you're probably right.」%K%P
+0x1B24
+ぼくはあっさりと言い放った。%K%P
+I told her point-blank how I felt.%K%P
+0x1B38
+そんなぼくの返答に、優は少し驚いた様子だった。%K%P
+And it seemed like my reply caught her off guard.%K%P
+0x1B44
+ホクト「ともかく、ぼくが考古学を専攻することは、運命的に、半分決まっちゃってるようなものだし……しょうがないんだよ」%K%P
+Hokuto「Part of me feels like choosing to study archaeology was already half-decided by destiny... so I don't have a choice.」%K%P
+0x1B50
+優秋「運命的？」%K%P
+You'aki'「By destiny?」%K%P
+0x1B5C
+ホクト「うん」%K%P
+Hokuto「Yeah.」%K%P
+0x1B68
+ホクト「別の歴史の流れの中では、ぼくはそんな未来を歩むことになってるんだ」%K%P
+Hokuto「In another space-time continuum, I'm destined to walk that path in the future.」%K%P
+0x1B74
+優秋「……は？」%K%P
+You'aki'「...Huh?」%K%P
+0x1B80
+ホクト「優には、いくら説明したってわかってもらえないと思う」%K%P
+Hokuto「I don't think you'll understand it no matter how much I explain it anyway.」%K%P
+0x1B8C
+ホクト「でも、ぼくは確かに見たんだよ」%K%P
+Hokuto「But I know what I saw.」%K%P
+0x1B98
+ホクト「その未来では、ぼくと優は付き合ってて……」%K%P
+Hokuto「In that future, you and I were going out, and...」%K%P
+0x1BAC
+優秋「……ええっ！？」%K%P
+You'aki'「...What!?」%K%P
+0x1BB8
+ホクト「だから、きっとこの歴史の中でも、ぼくと優は、運命的に、付き合うことになるんだと思う」%K%P
+Hokuto「So I'm pretty sure that in this time, you and I are destined to be together as well.」%K%P
+0x1BCC
+優秋「ちょ、ちょ、ちょ、ちょっと待ってよ、少年！　勝手に決めないでよ！」%K%P
+You'aki'「H-h-h-hey, wait a second, Kid! You're getting ahead of yourself here!」%K%P
+0x1BD8
+優秋「運命だか何だか知らないけど……そういうことは、お互いの承認と了解を得て、初めて成立する関係でしょ？」%K%P
+You'aki'「I don't know much about fate, but... things like that are decided with both people's consent. AFTER that happens, you start going out.」%K%P
+0x1BE4
+ホクト「そうだね……。じゃあ、今言うよ」%K%P
+Hokuto「Yeah... Okay, I'll say it right now.」%K%P
+0x1BF8
+優秋「い、いま！？」%K%P
+You'aki'「N-now!?」%K%P
+0x1C04
+ホクト「うん……」%K%P
+Hokuto「Yeah...」%K%P
+0x1C10
+ホクト「優美清秋香菜さん……」%K%P
+Hokuto「Yubiseiakikana-san...」%K%P
+0x1C1C
+ホクト「ぼくと、付き合ってください」%K%P
+Hokuto「Would you go out with me?」%K%P
+0x1C28
+ホクト「なぜならぼくは、あなたのことが、大好きだから」%K%P
+Hokuto「Because I'm crazy about you.」%K%P
+0x1C60
+%N
+
+0x1C6C
+%LC%FS『――桑古木涼権――』%FE%K
+%LC%FS―Kaburaki Ryogo―%FE%K
+0x1C80
+%O
+
+0x1C98
+『なぜなら俺は、彼女のことが、好きだったから――』%K%P
+'Because I loved her―'%K%P
+0x1CA4
+２０１７年……俺はまだ１５歳だった。%K%P
+It was 2017... I was still fifteen.%K%P
+0x1CB0
+ＬｅＭＵに閉じ込められ、記憶をなくし、桑古木涼権という名前さえ失った俺は、混乱のさなかにいた。%K%P
+I was stuck in LeMU in a total state of confusion with no memory, and I had even forgotten my name, Kaburaki Ryogo.%K%P
+0x1CBC
+１５歳――その当時の俺に、精神的な強さを求めるのは酷だ。%K%P
+I was fifteen years old―all I wanted at that time was stability.%K%P
+0x1CC8
+幼かった俺は、記憶喪失という異常事態に直面して激しく取り乱し、自分の存在が消えてしまうのではないかと思って怯えていた。%K%P
+Young as I was, I was overcome with amnesia and even doubts as to whether my existence would fade away.%K%P
+0x1CD4
+そんな中、ガチガチに凍りついた俺の心をふわりと暖めてくれたのが、彼女の無邪気な笑顔だった。%K%P
+In the midst of my chaos, it was her innocent smile that helped thaw my frozen heart.%K%P
+0x1CE0
+俺はたちまち恋に墜ちた。%K%P
+I fell for her right away.%K%P
+0x1CEC
+彼女の笑顔をチラリと横目で見るだけで、ただそれだけで、恐怖は突風に曝された落ち葉のごとく、どこへともなく吹き飛ばされた。%K%P
+All I had to do was see her smile. That was all it took for my fear to disappear, blown away like leaves falling off a tree in autumn.%K%P
+0x1CF8
+俺の存在があやふやであることに変わりはなかったが、彼女の強烈な個性は、俺の目を内側ではなく、外側へと向けさせたのだった。%K%P
+Although I was still uncertain about who I was, her uniqueness helped me turn my eyes away from the turmoil inside of me to the world around me.%K%P
+0x1D04
+あやふやだったからこそ、というのもあるかも知れない。%K%P
+Perhaps it was because of my uncertainty.%K%P
+0x1D10
+自分の存在の不確かさを、俺は恋によって、補おうとしていたような気もする。%K%P
+I supposed that I might have been grasping for my identity through the love that I felt for her.%K%P
+0x1D1C
+あのときの俺は空白だった。%K%P
+I was an empty shell at that time.%K%P
+0x1D28
+その空白の中にどっと流れ込んですべてを満たしたのが、彼女の天真爛漫な微笑みや、あどけない仕草や、透明な言葉の数々だったのだと思う。%K%P
+Flowing into that void was her simple pure smile, innocent mannerisms, and genuine sincerity.%K%P
+0x1D34
+それ以来ずっと――６日間――俺は想いを募らせながら、彼女のことを見つめ続けた。%K%P
+From that point on―for six days―she was in my thoughts constantly. I found myself looking at her all the time.%K%P
+0x1D40
+告白なんてする勇気はなかった。見ているだけで充分だとも思った。%K%P
+I didn't have the courage to tell her. But it was enough for me just to see her.%K%P
+0x1D4C
+それほどまでに、俺は彼女に恋焦がれていた。%K%P
+That was how fond I was of her.%K%P
+0x1D58
+彼女のことが大好きだった。%K%P
+I loved her.%K%P
+0x1D64
+彼女……八神ココのことが……。%K%P
+Yagami Coco...%K%P
+0x1D70
+……………………………………………。%K%P
+.........%K%P
+0x1D7C
+そして、５月６日、運命の日がやって来る。%K%P
+And then May 6th, the fateful day, arrived.%K%P
+0x1D88
+ＴＢに感染し、救助艇に運び込まれた俺に、意識はなかった。%K%P
+I had come down with TB, and when the rescue team found me, I had lost consciousness.%K%P
+0x1D94
+ココが研究所に取り残されたままだという事実を知ったのは、それから数日後のことだった。%K%P
+By the time I found out that Coco had been left behind in the research facility, a few days had already passed.%K%P
+0x1DA0
+最初、優（優美清春香菜）からその話を聞かされたとき、俺は愕然とした。%K%P
+When You (Yubiseiharukana) told me what had happened, I was shocked.%K%P
+0x1DAC
+同時に『すぐに助け出しに行かなければ！』と思い、俺は話の続きも聞かずに表へと飛び出した。%K%P
+At the same time, I thought, 'I've got to go save her!' and ran outside without waiting for You to finish the rest of her story.%K%P
+0x1DB8
+優は俺のことを引きとめ、第３視点だとか、４次元だとか、過去だとか、未来だとか、わけのわからない話を始めた。%K%P
+You caught up with me and started telling me things about the third eye, the fourth dimension, the past and future, but none of it made sense.%K%P
+0x1DC4
+『今から１７年後、きみは倉成武となって、再びＬｅＭＵに潜らなければならないの』%K%P
+'Seventeen years from now, you have to go back to LeMU. You'll return as Kuranari Takeshi.'%K%P
+0x1DD0
+『ブリックヴィンケルをだまし、錯覚させ、私達の世界へと降臨させなければ、閉じ込められたココも倉成も助からないのよ』%K%P
+'Unless we can trick Blick Winkel, wake him up, and bring him to our world, we'll never save Coco and Kuranari.'%K%P
+0x1DDC
+『だからお願い……協力して？』――優はそう言った。%K%P
+'So please... help me?'―That was what You asked of me.%K%P
+0x1DE8
+俺がすべてを納得するまでには、それから数ヶ月かかった。%K%P
+It took a few more months for me to become fully convinced.%K%P
+0x1DF4
+……………………………………………。%K%P
+.........%K%P
+0x1E00
+俺はただ、ココを救いたかっただけなんだ。%K%P
+All I wanted to do was save Coco.%K%P
+0x1E0C
+ココを助ける為なら何だってしようと思った。%K%P
+If she'd be alright, I didn't mind the danger.%K%P
+0x1E18
+憎まれても、怨まれても、貶されても、蔑まれてもかまわない。%K%P
+Even if I was despised, blamed, criticized, even ridiculed, none of that mattered to me.%K%P
+0x1E24
+ただ……もう一度だけ……ココの笑顔が……見たかった……。%K%P
+I... just wanted... to see... Coco's smile again...%K%P
+0x1E30
+もちろん武のこともあった。%K%P
+Still, there was Takeshi to consider as well.%K%P
+0x1E3C
+そのときの俺は、武に対して畏敬の念すら抱いていた。%K%P
+I respected him greatly.%K%P
+0x1E48
+『愛する女を守る為なら、自らの命さえかえりみない勇敢な男』%K%P
+'He was brave enough to sacrifice his life to save the woman that he loved.'%K%P
+0x1E54
+１５歳だった俺は、理想の男性像として武の姿を思い浮かべ、憧れていたのだ。%K%P
+For a fifteen-year-old like me, Takeshi was a role model.%K%P
+0x1E60
+俺は『ココと武を必ず救い出してみせる！』と、胸に固く誓ったのだった。%K%P
+I swore that I would save Coco and Takeshi no matter what it took.%K%P
+0x1E6C
+……………………………………………。%K%P
+.........%K%P
+0x1E78
+それから、１７年――。%K%P
+Seventeen years later―%K%P
+0x1E84
+俺と優美清春香菜は、これまでの１７年間の１秒１秒を、ただ、計画を遂行する為だけに費やしてきた。%K%P
+For seventeen years, You and I had spent every minute, every second putting our plan in motion.%K%P
+0x1E90
+そう……今日この日の為だけに、俺達は生きてきたのだ。%K%P
+Yes... I had lived for that day.%K%P
+0x1E9C
+たった６日間……。俺とココがともに過ごした時間は、たったの６日間だけだった。%K%P
+Just six days... Coco and I had only spent six days together.%K%P
+0x1EA8
+にもかかわらず、俺はこの１７年間、ひと時も彼女のことを忘れたことはなかった。%K%P
+But in those seventeen years, not a moment went by that I didn't think about her.%K%P
+0x1EB4
+『なぜなら俺は、彼女のことが、好きだったから――』%K%P
+'Because I loved her―'%K%P
+0x1EC0
+それが、俺がみんなをだまし続けてきた唯一の理由だ。%K%P
+That was the only reason I had been able to fool everyone.%K%P
+0x1ECC
+ココ「お〜い、少ちゃん、少ちゃん、少ちゃんねるぅ〜♪」%K%P
+Coco「Heeey, Kiddo, Kiddo, Kiddo〜」%K%P
+0x1ED8
+ドクンと心臓が跳ねた。%K%P
+My heart leaped.%K%P
+0x1EE4
+後ろから、彼女の声……。%K%P
+She was calling to me...%K%P
+0x1EF0
+振り向けない。%K%P
+I couldn't turn around.%K%P
+0x1EFC
+俺はその場に固まったまま、息をすることさえ忘れていた。%K%P
+I stood there, frozen, even forgetting to breathe.%K%P
+0x1F10
+ココ「こらっ！　こんな隅っこんとこで、何やってんだ？」%K%P
+Coco「Hey! What are you doing here all by yourself!?」%K%P
+0x1F78
+ココは俺の頭をポカリと叩き、顔をのぞき込んできた。%K%P
+Coco rapped me on the head and peeked around at my face.%K%P
+0x1F8C
+ココ「一緒にみんなのとこ行こうよ！　ひとりでいても、つまらないでしょ？」%K%P
+Coco「Come on and join everyone! It's no fun by yourself, right?」%K%P
+0x1F98
+桑古木「でも……」%K%P
+Kaburaki「I...」%K%P
+0x1FAC
+ココ「あれ？　あれれ？　もしかして少ちゃん……なんか気にしてる？」%K%P
+Coco「Huh? You're not... worried about something, are you?」%K%P
+0x1FB8
+桑古木「…………」%K%P
+Kaburaki「.........」%K%P
+0x1FCC
+ココ「みんなのことだましてきたから、罪悪感にさいなまれちゃってる、とか？」%K%P
+Coco「Are you feeling bad that you lied to everyone?」%K%P
+0x1FD8
+桑古木「…………」%K%P
+Kaburaki「.........」%K%P
+0x1FEC
+ココ「もう、そんなこと気にしなくてもいいのにぃ〜♪」%K%P
+Coco「You don't have to worry about that.」%K%P
+0x2000
+ココ「だって、少ちゃんがブリックヴィンケルさんをだまさなかったら、ココもたけぴょんも助からなかったんだよ？」%K%P
+Coco「Besides, if you hadn't been able to trick Blick Winkel-san, Takepyon and I wouldn't be here right now.」%K%P
+0x200C
+ココ「少ちゃんは、命の恩人さんなんだよ？」%K%P
+Coco「We owe you our lives, right?」%K%P
+0x2018
+ココ「みんなにも、もうそのことは説明してあるんだし……」%K%P
+Coco「You don't have to explain a thing...」%K%P
+0x2024
+ココ「感謝する人はいても、少ちゃんのことを責める人なんて、だ〜れもいないんだ」%K%P
+Coco「We're all grateful to you. Nobody here blames you.」%K%P
+0x2030
+桑古木「そう、かな？」%K%P
+Kaburaki「You really think so?」%K%P
+0x203C
+ココ「そうだよぉ」%K%P
+Coco「Of course I do.」%K%P
+0x2050
+ココ「ほら、だから早く早くぅ〜！」%K%P
+Coco「Okay? So come on〜」%K%P
+0x205C
+ココ「みんな、少ちゃんの『少年レインの歌』が聴きたいって言って、待ってるんだからぁ〜」%K%P
+Coco「Everybody's waiting to hear your voice, Kiddo〜」%K%P
+0x2068
+ココ「アメンボ５級なんだからぁ〜」%K%P
+Coco「Waiting and waiting and waiting〜」%K%P
+0x2074
+ココ「その後、みんなでひよこごっこ大会、することになってるんだからぁ〜」%K%P
+Coco「And after that, we're going to celebrate〜」%K%P
+0x2080
+ココは笑っていた。%K%P
+Coco was laughing.%K%P
+0x208C
+１７年間待ち続けた笑顔が、今、俺の目の前で輝いていた。%K%P
+The smile that I had waited seventeen years to see was shining right in front of me.%K%P
+0x20C8
+%N
+
+0x20D4
+%LC%FS『――茜ヶ崎空――』%FE%K
+%LC%FS―Akanegasaki Sora―%FE%K
+0x20E8
+%O
+
+0x2100
+１７年間待ち続けた笑顔が、今、私の目の前で輝いています。%K%P
+The smile that I had waited seventeen years to see was shining right in front of me.%K%P
+0x210C
+くらくらとめまいを覚えました。%K%P
+It made me dizzy to look at it.%K%P
+0x2118
+電子的な律動が私の体内を駆けめぐり、過剰な電圧が負荷となって私の思考回路を狂わせているのです。%K%P
+An electronic rhythm pulsed through my body, the excessive voltage throwing my logic circuits out of order.%K%P
+0x2124
+それはかつて経験したことのある痛みでした。%K%P
+It was a pain that I had experienced before.%K%P
+0x2130
+武「なあ、空？」%K%P
+Takeshi「Hey, Sora?」%K%P
+0x213C
+空「…………」%K%P
+Sora「.........」%K%P
+0x2148
+武「おい、空？」%K%P
+Takeshi「Hey, Sora!」%K%P
+0x2154
+空「…………」%K%P
+Sora「.........」%K%P
+0x2168
+武「こら、ちゃんと聞いてるのか？　人の話」%K%P
+Takeshi「Hey! Are you listening to me?」%K%P
+0x2174
+空「……えっ？　……えーっと、なんでしたっけ？」%K%P
+Sora「...Huh...? Um, what were you talking about again?」%K%P
+0x2188
+武「これだよ、これ……ピピ」%K%P
+Takeshi「This here... Pipi.」%K%P
+0x2194
+武「いきなり動かなくなっちゃったからさぁ、調べてもらおうと思って」%K%P
+Takeshi「He stopped moving all of a sudden. I just thought maybe you could take a look at him.」%K%P
+0x21A0
+倉成さんはピピを抱き上げて、私の前に差し出しました。%K%P
+Kuranari-san lifted up Pipi and stuck him out in front of me.%K%P
+0x21AC
+空「いきなり、ですか？　何か考えられる原因は……？」%K%P
+Sora「All of a sudden, you say? Any reason you can think of...?」%K%P
+0x21B8
+武「うん、ある」%K%P
+Takeshi「Uumm, maybe.」%K%P
+0x21CC
+武「つぐみがな？　突然船室の中で暴れ始めて……」%K%P
+Takeshi「Maybe Tsugumi? She started thrashing around in the cabin, and...」%K%P
+0x21D8
+武「俺はあいつを組み伏せようとしたんだけど、逆に弾き飛ばされちゃって……」%K%P
+Takeshi「I tried to pin her down, but she threw me off...」%K%P
+0x21E4
+武「で、シリモチをついたところにピピがいて……」%K%P
+Takeshi「And when I went down, this little guy happened to be there, and...」%K%P
+0x21F0
+空「ピピの上に乗っかってしまったということですか？」%K%P
+Sora「I landed right on top of him. Maybe that's what could've caused it?」%K%P
+0x21FC
+武「ああ、そしたら、動かなくなってしまい……」%K%P
+Takeshi「Yup. After that, he stopped moving...」%K%P
+0x2208
+空「ちょっと、貸してください」%K%P
+Sora「Let me take a look.」%K%P
+0x2214
+私は倉成さんからピピを受け取ると、スキャニングを開始しました。%K%P
+I took Pipi from Kuranari-san and started a diagnostic on him.%K%P
+0x2220
+空「オカシイですねぇ……どこにも異常は見当たらないようですけど」%K%P
+Sora「That's strange... I don't see anything wrong with him.」%K%P
+0x222C
+空「恐らく、バッテリー切れではないでしょうか？」%K%P
+Sora「Maybe his battery ran out?」%K%P
+0x2240
+武「ふぅ〜、そっか、よかったよかった」%K%P
+Takeshi「Whew, what a relief.」%K%P
+0x224C
+武「俺が壊したなんて言ったら、ココだけじゃなく、優にも、優の娘にも、怨まれるだろうからな」%K%P
+Takeshi「If they thought I'd broken him, Coco, You, and her daughter would've been furious at me.」%K%P
+0x2258
+空「私だって、怨みますよ」%K%P
+Sora「Well, I would have been angry too.」%K%P
+0x2264
+私は少しムッとして、こう続けました。%K%P
+Upset that he hadn't included me, I continued...%K%P
+0x2270
+空「私も、ピピには愛着を持っているのです」%K%P
+Sora「I'm fond of Pipi too, you know.」%K%P
+0x227C
+空「いいえ、愛着などという言葉では言い表わせないぐらい、私とピピは、深〜いところで通じ合っているのです」%K%P
+Sora「I don't even think 'fond' describes it. You might say Pipi and I are connected on a deeper level.」%K%P
+0x2288
+空「そもそも、今から１７年前……」%K%P
+Sora「Seventeen years ago...」%K%P
+0x2294
+空「ピピが海の底に潜ってテラバイトディスクを拾って来なかったら、今の私は存在していないのですから」%K%P
+Sora「If Pipi hadn't picked up my terabyte disc, I wouldn't be here right now.」%K%P
+0x22A0
+空「そして、洋上に浮かび上がったピピを、田中さん、優美清春香菜さんのことですが……」%K%P
+Sora「And after Pipi got to the surface, Tanaka-san... Yubiseiharukana-san, that is...」%K%P
+0x22AC
+空「彼女がピピを回収し、ディスクに記録されたデータを私の中にコピーして……」%K%P
+Sora「Took the data off the disc and copied it to the body you see now...」%K%P
+0x22B8
+空「だからこそ、今の私は、１７年前にみなさんと過ごした記憶や、自我や、そういったものを保っていられるのです」%K%P
+Sora「That is the reason I was able to maintain the records of what happened to all of you seventeen years ago.」%K%P
+0x22C4
+空「その後、ピピは田中さんに引き取られ……それ以来ずーっと今日まで、田中家の一員として可愛がられてきました」%K%P
+Sora「After that, Tanaka-san took in Pipi... and from that time on, he's been a member of the Tanaka family.」%K%P
+0x22D0
+空「つまり、ピピは私達にとって、無くてはならない存在だということです」%K%P
+Sora「In other words, Pipi is an irreplaceable part of all of our lives.」%K%P
+0x22DC
+空「このことは、すでに倉成さんにはお話ししたはずですが？」%K%P
+Sora「I thought I'd already told you this.」%K%P
+0x22F0
+武「あ、ああ、確かに聞いたよ、そうだったな……」%K%P
+Takeshi「Uh, yeah, that's right, now that you mention it...」%K%P
+0x22FC
+武「でも、だからって、そんなにムキにならなくてもいいじゃないかぁ」%K%P
+Takeshi「But come on, you don't have to get so serious about it.」%K%P
+0x2310
+武「とにかく、ピピは壊れてなかったわけだし……それでいいだろ？」%K%P
+Takeshi「Besides, Pipi isn't broken... so what's the big deal?」%K%P
+0x231C
+倉成さんは爽やかに笑いました。%K%P
+Kuranari-san laughed pleasantly.%K%P
+0x2328
+ああ、ダメ……ダメです。%K%P
+(Ah, I... I can't fight it.)%K%P
+0x2334
+私はその笑顔に弱いのです。%K%P
+His smile always disarmed me.%K%P
+0x2340
+太陽のようにまぶしくて、猛々しい磁力線を放っていて、私の心はぐいぐいと惹きつけられてしまいます。%K%P
+It was as bright as the sun and powerfully magnetic. He could charm me effortlessly.%K%P
+0x234C
+ずるい。……その微笑みは反則ですよ、倉成さん。%K%P
+(It isn't fair... That smile should be outlawed, Kuranari-san.)%K%P
+0x2360
+武「ところで、空？　ひとつ、訊いてもいいかな？」%K%P
+Takeshi「By the way, Sora? Can I ask you something?」%K%P
+0x236C
+空「な、なんでしょう？」%K%P
+Sora「Wh-what is it?」%K%P
+0x2378
+私は胸のうちを悟られまいとして、視線をそらし、暴走する意識の制御を懸命に試みました。%K%P
+I looked away and tried desperately to regain control of my wildly racing mind so that he would not see through to my true feelings.%K%P
+0x238C
+武「こんなこと訊くのは、ひょっとしたら失礼にあたるかも知れないんだけど……」%K%P
+Takeshi「I hope you don't think it's rude of me to ask this, but...」%K%P
+0x2398
+武「えーと……その……なんと言うか……」%K%P
+Takeshi「Um... Er... Uh...」%K%P
+0x23A4
+武「空の、体についてなんだ」%K%P
+Takeshi「It's about your body.」%K%P
+0x23B0
+空「体、ですか？」%K%P
+Sora「My body?」%K%P
+0x23C4
+武「ああ……」%K%P
+Takeshi「Yeah...」%K%P
+0x23D0
+武「俺が見た感じだと、今の空は、人間とまったく変わらないような肌の質感をしてるし……」%K%P
+Takeshi「As far as I can tell, you look totally human, your skin...」%K%P
+0x23DC
+武「仕草とか、たたずまいとか、そういうのも、すごく自然で……」%K%P
+Takeshi「The way you move, your appearance, everything is so natural...」%K%P
+0x23E8
+空「ふふっ、失礼でもなんでもないじゃないですか」%K%P
+Sora「Hahaha, that isn't rude at all.」%K%P
+0x23F4
+空「むしろ、今のは褒め言葉ですよ？　ありがとうございます」%K%P
+Sora「Actually, that's a compliment, isn't it? Thank you.」%K%P
+0x2400
+空「それで……質問というのは？」%K%P
+Sora「And... was that your question?」%K%P
+0x240C
+武「いや、だからその……えーと……空の体は、いったいどんな仕組みになってるのかと、思って……」%K%P
+Takeshi「Uh, no... I mean... I was wondering how your body is put together, that's all.」%K%P
+0x2418
+空「不思議ですか？」%K%P
+Sora「Is it strange to you?」%K%P
+0x2424
+武「うん、不思議だ」%K%P
+Takeshi「Yeah, a bit.」%K%P
+0x2430
+武「不思議だと思うと同時に……嬉しかったりもするんだけどな」%K%P
+Takeshi「At the same time... I'm happy.」%K%P
+0x244C
+武「だってほら……こんなふうに、さわれるようになったから」%K%P
+Takeshi「I mean... I can actually touch you now.」%K%P
+0x2458
+言いながら、倉成さんは私の頬に手をそえました。%K%P
+As he said that, Kuranari-san put his hand on my cheek.%K%P
+0x2464
+熱い……。熱くたぎるような塊が、下腹部から脳髄にかけてのぼりつめて来ます。%K%P
+It burned... A lump, hot and boiling, ran from my stomach to my brain.%K%P
+0x2470
+ジェネレーターが無駄なエネルギーを生産し、ファジーチップがジリジリと焦げつき、論理思考系統は今……ダウンしました。%K%P
+My generator was burning too much energy, frying my processor... My logic circuits... shut down.%K%P
+0x247C
+空「く、く、く、くらなりさん……」%K%P
+Sora「K-K-K-Kuranari-san...」%K%P
+0x2488
+私はバッテリーの切れたピピをぎゅっと胸に抱きしめながら、もう片方の手で、倉成さんの手の平を握りしめました。%K%P
+Holding Pipi firmly to my chest, I grabbed onto Kuranari-san's palm with my free hand.%K%P
+0x2494
+ああ……ああ……触れ合っている……。%K%P
+(Ah... Ah... We're actually touching each other...)%K%P
+0x24A0
+触れ合っている……触れ合っている……触れ合っている……。%K%P
+(We can touch each other... Really touch each other...)%K%P
+0x24AC
+私は１７年間、ただこの一瞬だけを待ち焦がれてきたのでした。%K%P
+I had waited those seventeen years for just that moment.%K%P
+0x24C0
+武「ど、どうしたんだよ、空？　酒でも飲んだのか？　顔が真っ赤だぞ？」%K%P
+Takeshi「Wh-what's wrong, Sora? Have you been drinking or something? Your face is all red.」%K%P
+0x24CC
+空「倉成先生……」%K%P
+Sora「Professor Kuranari...」%K%P
+0x24D8
+武「な、なんだね、茜ヶ崎くん……」%K%P
+Takeshi「Wh-what is it, Akanegasaki-kun...?」%K%P
+0x24E4
+空「世の中には、不思議なことがたくさんあるのですね？」%K%P
+Sora「There are so many strange things in this world, don't you think?」%K%P
+0x24F0
+武「？」%K%P
+Takeshi「?」%K%P
+0x24FC
+空「先生は、私の体のことをお尋ねになったでしょう？」%K%P
+Sora「You asked about my body, didn't you, Professor?」%K%P
+0x2508
+空「私がどうして実体を持つようになったのか、疑問をお感じになったのでしょう？」%K%P
+Sora「You wondered how I came to have this body, didn't you?」%K%P
+0x2514
+武「う、うん……」%K%P
+Takeshi「Y-yeah...」%K%P
+0x2520
+空「その答えは、たったひとつです」%K%P
+Sora「There is only one answer.」%K%P
+0x252C
+空「これは、奇蹟なんだと思います」%K%P
+Sora「It was a miracle.」%K%P
+0x2540
+武「奇蹟？」%K%P
+Takeshi「Miracle?」%K%P
+0x254C
+空「はい。――女神、アフロディテの奇蹟、です」%K%P
+Sora「Yes―a miracle from the goddess Aphrodite.」%K%P
+0x2558
+倉成さんは、私の目を真っ直ぐ見つめながら、まばたきを何度も繰り返しました。%K%P
+Kuranari-san looked straight into my eyes and blinked.%K%P
+0x2564
+やがて、はっと息を呑み、大きく目を見開いて、倉成さんはこう言いました。%K%P
+He opened his eyes wide with a start and said...%K%P
+0x2578
+武「ピグマリオン、か……」%K%P
+Takeshi「Pygmalion...」%K%P
+0x2584
+私はゆっくりと、静かに頷きました。%K%P
+I slowly, quietly nodded.%K%P
+0x2590
+すると、そのとき――。%K%P
+Just then―%K%P
+0x25AC
+ココ「こーんにっちゃーーーっ！」%K%P
+Coco「Hellooooo!」%K%P
+0x25B8
+元気のいい女の子が登場。ココちゃんです。%K%P
+In came the girl with boundless energy, Coco-chan.%K%P
+0x25C4
+私は慌てて倉成さんの手を放しました。%K%P
+I quickly let go of Kuranari-san's hand.%K%P
+0x25D8
+ココ「ねえねえ？　ピピ、見かけなかった？」%K%P
+Coco「Hey, hey, have any of you seen Pipi?」%K%P
+0x25EC
+ココ「って言うか、空さん、持ってんじゃん！」%K%P
+Coco「Wait a sec, you're holding him, Sora-san!」%K%P
+0x25F8
+空「ええ。……だけどピピ、今バッテリーが切れてるみたいですよ」%K%P
+Sora「Yes... But it looks like Pipi ran out of batteries.」%K%P
+0x2604
+私はそう言って、ココちゃんにピピを手渡しました。%K%P
+Saying that, I handed Pipi over to Coco-chan.%K%P
+0x2610
+ココ「バッテリー切れ？　そんなはずないよぉ！」%K%P
+Coco「Out of batteries? That can't be!」%K%P
+0x261C
+ココ「だって、さっき充電したばっかりだもん」%K%P
+Coco「I just finished charging him a minute ago.」%K%P
+0x2628
+ココちゃんはピピの体を両手ではさんで、上下左右に激しく振り始めました。%K%P
+Coco-chan held Pipi between both her hands and started shaking him left to right.%K%P
+0x2634
+静電充電機能がついているわけではないので、そんなことをしても、なんにもならないのですが……。%K%P
+He wasn't rechargeable kinetically, so that shouldn't have done anything for him, but...%K%P
+0x2640
+空「――あっ！」%K%P
+Sora「...Ah!」%K%P
+0x2654
+私はあることに気がついて、声をあげました。%K%P
+I exclaimed that without thinking as I realized something.%K%P
+0x2660
+ココちゃんと倉成さんが、きょとんと私のことを見つめています。%K%P
+Coco-chan and Kuranari-san both turned to stare at me.%K%P
+0x266C
+空「わかっちゃいました、原因」%K%P
+Sora「I figured it out. The reason, I mean.」%K%P
+0x2680
+武「原因？」%K%P
+Takeshi「The reason?」%K%P
+0x268C
+空「スイッチですよ」%K%P
+Sora「His switch.」%K%P
+0x2698
+空「ただ単に、スイッチが切れているだけなんだと思います」%K%P
+Sora「I think you just need to turn on his switch.」%K%P
+0x26AC
+ココちゃんが、ピピの体を高く掲げあげました。%K%P
+Coco-chan lifted Pipi up above her.%K%P
+0x26B8
+おヘソのところにボタンがついています。%K%P
+There was a button in his navel.%K%P
+0x26C4
+空「いいですか？　いきますよ？」%K%P
+Sora「Are you ready? Here I go.」%K%P
+0x26D0
+私はヒトサシ指の先端を、ピピのおヘソに近づけました。%K%P
+I stuck out my finger and zeroed in on his belly button.%K%P
+0x26DC
+そして……%K%P
+And...%K%P
+0x26E8
+空「ポチッとな！」%K%P
+Sora「Click!」%K%P
+0x26F4
+そのかけ声とともに、ボタンを押したのでした。%K%P
+I firmly pushed the button.%K%P
+0x2700
+ウィーーーーーーーーーーーーーーーーーン……。%K%P
+Whiiiiiiiiiiiiiiiiiiiiiirr...%K%P
+0x270C
+モーターが回転を始め、かすかな振動音を奏でています。%K%P
+His motor started to run, and I could hear the faint sound of something oscillating.%K%P
+0x2718
+ピピの目に、光が蘇りました。%K%P
+Pipi's eyes came to life.%K%P
+0x2724
+ピピ「わんっ！　わんわんっ！　わんわんっ！」%K%P
+Pipi「*Bow*! *Bow-wow*! *Wooof*!」%K%P
+0x2738
+ココ「きゃはっ♪　空さん、どうもありがとう！」%K%P
+Coco「Haha! Sora-san, thank you!」%K%P
+0x2744
+空「お礼なんかいいですよ。私は、ただボタンを押しただけなんですから」%K%P
+Sora「Don't mention it. All I did was push a button.」%K%P
+0x2750
+すると唐突に……%K%P
+Just then...%K%P
+0x2764
+武「ははっ、ははっ、はははははははっ！」%K%P
+Takeshi「Hahaha! Ahahahahaha!」%K%P
+0x2770
+倉成さんが大声をあげて笑い始めました。%K%P
+Kuranari-san broke out in laughter.%K%P
+0x277C
+武「そうか、そうか……空、覚えててくれたんだな？」%K%P
+Takeshi「Hey... Sora, you remembered?」%K%P
+0x2788
+空「ええ」%K%P
+Sora「Yes.」%K%P
+0x2794
+私は心からの笑みを浮かべ、頷きました。%K%P
+I smiled from the bottom of my heart and nodded.%K%P
+0x27A0
+本当に、世の中には不思議なことがたくさんあるものです。%K%P
+The world was full of strange and wonderful things.%K%P
+0x27AC
+だって、そうでしょう？%K%P
+Wasn't it?%K%P
+0x27B8
+『ピグマリオンの話』も……『ポチッとな』も……%K%P
+The discussion about Pygmalion... and saying 'click'...%K%P
+0x27C4
+テラバイトディスクには、書き込まれているはずのない記憶なのですから……。%K%P
+Neither of those should have been on my terabyte disc...%K%P
+0x27D0
+……………………………………………。%K%P
+.........%K%P
+0x27DC
+ピピ「わんわんっ！　わんわんっ！」%K%P
+Pipi「*Woof*, *woof*! *Woof*, *woof*!」%K%P
+0x27E8
+ピピがココちゃんの腕の中から飛び出しました。%K%P
+Pipi leaped from Coco-chan's arms.%K%P
+0x27F4
+ピピ「わんっ！　わんわんっ！」%K%P
+Pipi「*Woof*! *Bow-wow*!」%K%P
+0x2800
+尻尾をプルプルと振りながら、甲板の上を駆けて行きます。%K%P
+Wagging his tail fitfully, he raced across the deck.%K%P
+0x2814
+ココ「こらっ！　待て待てーっ！　ピピーッ！」%K%P
+Coco「Hey! Wait, waaaaiiit! Pipiii!」%K%P
+0x2820
+ココちゃんがバタバタと足音を立て、その後を追い駆けて行きます。%K%P
+Making a racket, Coco-chan chased after him.%K%P
+0x282C
+甲板の上には、穏やかな陽射しと、陽気な笑い声があふれていました。%K%P
+The deck was covered in gentle sunlight and overflowing with cheerful laughter.%K%P
+0x291C
+ふと、見上げれば、そこには空が……。%K%P
+Looking up, there was the sky...%K%P
+0x2928
+果てしなく続く青空が、どこまでもどこまでも広がっていました。%K%P
+The blue sky that continued without end, stretching out in all directions.%K%P
+0x2934
+ピピ「わんわんっ！　わんわんっ！　わんっ！」%K%P
+Pipi「*Woof*, *woof*! *Woof*!」%K%P
+0x2940
+ココ「ピピーッ！　こんにゃろぉ〜、待たんかい、こらぁーっ！」%K%P
+Coco「Piiipiii! Hey you, wait a second, you little...!」%K%P
+0x2974
+%N
+
+0x2980
+%LC%FS『――八神ココ――』%FE%K
+%LC%FS―Yagami Coco―%FE%K
+0x29E4
+%O
+
+0x29FC
+ピピ「わんわんっ！　わんわんっ！　わんっ！」%K%P
+Pipi「*Woof*, *woof*! *Woof*!」%K%P
+0x2A08
+ココ「ピピーッ！　こんにゃろぉ〜、待たんかい、こらぁーっ！」%K%P
+Coco「Piiipiii! Hey you, wait a second, you little...!」%K%P
+0x2A14
+ココちゃんは今、ピピのことを追い駆けているのです。%K%P
+I was chasing after Pipi.%K%P
+0x2A20
+なんで追い駆けているのかはわかりません。%K%P
+I didn't know why, but that was what I was doing.%K%P
+0x2A2C
+ただ、何となく楽しかったので、追い駆けているのだと思います。%K%P
+It was probably just something fun to do.%K%P
+0x2A38
+ピピは甲板の上を飛び跳ねるように走りまわっていました。%K%P
+Pipi ran across the surface of the deck like he was flying.%K%P
+0x2A44
+やがて……。%K%P
+Suddenly...%K%P
+0x2A50
+ピピが突然立ち止まりました。%K%P
+Pipi stopped.%K%P
+0x2A5C
+ピピ「わわわんわわわんっ！　わわわんわわわんっ！」%K%P
+Pipi「*Bow-wow-wow*! *Woof*! *Bow-wow-wow*!」%K%P
+0x2A68
+立ち止まったかと思うと、空中の方を見上げて、なんでか知らないけど吠えまくり始めました。%K%P
+Just when I thought he wasn't running anymore, he looked up to the sky and started barking at something.%K%P
+0x2A74
+ココ「ん？　鳥かなんか、いるの？」%K%P
+Coco「Huh? Is there a bird or something?」%K%P
+0x2A80
+ココちゃんはピピを抱き上げました。%K%P
+I lifted him up.%K%P
+0x2A8C
+それでもまだ鳴きやまないので、ココちゃんはピピの視線をたどって宙を見上げてみました。%K%P
+Still, he wouldn't stop barking, so I followed his gaze and looked up into the sky.%K%P
+0x2A98
+するとそこには――。%K%P
+And there was...%K%P
+0x2AF0
+ココ「あっ！　お兄ちゃん！」%K%P
+Coco「Oh! It's you, onii-chan!」%K%P
+0x2AFC
+ココちゃんの大好きなお兄ちゃんの姿が、そこに浮かんで見えました。%K%P
+Right in front of my eyes, I saw the floating outline of my onii-chan, who I loved dearly.%K%P
+0x2B08
+ううん、見えたんじゃなくて……今、見えるのです。%K%P
+Well, it wasn't something I SAW... Rather, I'm seeing it right now.%K%P
+0x2B14
+今、この瞬間、ココちゃんはきみのことを見ているのです。%K%P
+Right now, at this moment, Coco-chan is looking at you.%K%P
+0x2B20
+嬉しくなったココちゃんは、とっさに叫びました。%K%P
+I cry out suddenly with an elated expression.%K%P
+0x2B70
+ココ「おーいっ！　みんなーっ！　ちょっとこっち、来てーっ！」%K%P
+Coco「Heeey! Everyone! Come over here!」%K%P
+0x2B7C
+ココ「こっちこっちぃ！　ほらぁ！　早く早くぅ！」%K%P
+Coco「Come here! Quickly! Quuuuuuickly!」%K%P
+0x2BD4
+まず最初にやって来たのは、ホクたんとつぐみんでした。%K%P
+The first people to arrive are Hokutan and Tsugumin.%K%P
+0x2BE0
+ホクト「どうしたの？」%K%P
+Hokuto「What's wrong?」%K%P
+0x2BEC
+つぐみ「何かあった？」%K%P
+Tsugumi「Did something happen?」%K%P
+0x2BF8
+ココ「あれあれ！　見てよ、あそこ！」%K%P
+Coco「Look there! See, over there!」%K%P
+0x2C04
+ココちゃんは、きみの方を指差しました。%K%P
+I point at you.%K%P
+0x2C10
+きみが今、来てくれているということを、どうしてもみんなに教えてあげたくなったからです。%K%P
+I want to tell everyone that you've arrived.%K%P
+0x2C1C
+つぐみんはカブリ物を取って、まぶしそうに目を細めました。%K%P
+Tsugumin takes off her hat and squints her eyes against the sunlight.%K%P
+0x2C28
+ホクたんは……%K%P
+Hokutan is...%K%P
+0x2C34
+ホクト「あっ！　ほんとだ！　また来てくれたんだね！？」%K%P
+Hokuto「Hey! It's true! You've come back!?」%K%P
+0x2C40
+満面の笑みを浮かべながら、踊るようにぴょこぴょこと飛び跳ねています。%K%P
+A smile covers his whole face, and he jumps around as if he's going to start dancing.%K%P
+0x2C98
+次にやって来たのはたけぴょんでした。%K%P
+Next, Takepyon shows up.%K%P
+0x2CA4
+武「あん？　なんかいるのか？」%K%P
+Takeshi「Huh? What's going on?」%K%P
+0x2CB0
+立ち止まったたけぴょんの背中に……%K%P
+Mayo jumps up...%K%P
+0x2CBC
+沙羅「うりゃ〜っ♪」%K%P
+Sara「Aaaii!」%K%P
+0x2CC8
+マヨちゃんが飛び乗りました。%K%P
+Up on Takepyon's back...%K%P
+0x2CD4
+そんなことをしているうちに、次から次へとみんながやって来ました。%K%P
+And soon, everyone shows up one by one.%K%P
+0x2D3C
+空さん……なっきゅの娘っ子ちゃん……。%K%P
+Sora-san... Nakkyu's daughter...%K%P
+0x2D48
+空「ど、どうしたんですか？　田中さん」%K%P
+Sora「Wh-what's going on, Tanaka-san?」%K%P
+0x2D54
+優秋「いいからいいから、早く早くぅ♪」%K%P
+You'aki'「Just come on! Hurry!」%K%P
+0x2DB4
+それから、なっきゅと……少ちゃんも……。%K%P
+And Nakkyu... Kiddo...%K%P
+0x2DC0
+優春「彼ね……？」%K%P
+You'haru'「It's him...?」%K%P
+0x2DCC
+桑古木「うん……」%K%P
+Kaburaki「Yeah...」%K%P
+0x2E1C
+あっという間に、押すな押すなの大騒ぎです。%K%P
+The boat is suddenly crowded with excitement.%K%P
+0x2E28
+ココ「お〜い！　お兄ちゃ〜ん！　お兄ちゃんってばぁ〜！」%K%P
+Coco「Hey! Onii-chaaaaan! Onii-chaaaaan!」%K%P
+0x2E34
+ココちゃんは、大きく大きく手を振りました。%K%P
+I wave my arms wildly.%K%P
+0x2E40
+願いを込めて……祈りを込めて……。%K%P
+Hoping... Praying...%K%P
+0x2E4C
+『どうかこの想いが、お兄ちゃんに届きますように……』%K%P
+'Please let my thoughts reach my onii-chan...'%K%P
+0x2E58
+『そして再び、お兄ちゃんにめぐり逢うときが、おとずれますように……』%K%P
+'And please, let me meet with him again someday...'%K%P
+0x2E64
+今――。%K%P
+Now―%K%P
+0x2E70
+ココちゃんは、お兄ちゃんのことを、見ています。%K%P
+I, Coco, am looking at my onii-chan.%K%P
+0x2E94
+今――。%K%P
+Now―%K%P
+0x2EA0
+ボクはココのいる世界を見ている。%K%P
+I am looking at the world where Coco exists.%K%P
+0x2EAC
+ふたつの瞳で、見下ろしている……確かに……。%K%P
+Looking down on it with both of my eyes... I am sure of it...%K%P
+0x2EB8
+月が、そこにあると信じることによってのみ、そこにあるとするならば……%K%P
+If the moon is only there because you believe that it will be there when you look for it...%K%P
+0x2EC4
+ボクという存在や、彼らの存在もまた、そこにあると信じることによってのみ、そこにあるのかも知れない。%K%P
+Then it is possible that I am here and they are here only because we believe that we are.%K%P
+0x2ED0
+今、ここに世界がある……。%K%P
+Right now, the world exists here...%K%P
+0x2EDC
+世界を見ているボクがいる……。%K%P
+I am here looking at the world...%K%P
+0x2EE8
+世界を見ているボクのことを見ているボクがいる……。%K%P
+I am here looking at myself, looking at the world...%K%P
+0x2EF4
+ボクはどこまで続くのだろう？%K%P
+How far do I go?%K%P
+0x2F00
+答えはわからない……。%K%P
+I don't know the answer...%K%P
+0x2F0C
+けれど、いくつか確かなことがあった。%K%P
+But there are some things I am sure of.%K%P
+0x2F5C
+%N%N%N
+
+0x2F68
+%LC%FS『ボクは今、見ている』%FE%K%N
+%LC%FS'Right now, I am seeing.'%FE%K%N
+0x2F74
+%LC%FS『ボクは今、見られている』%FE%K%N
+%LC%FS'Right now, I am being seen.'%FE%K%N
+0x2F80
+%LC%FS『キミは今、見ている』%FE%K%O
+%LC%FS'Right now, you are seeing.'%FE%K%O
+0x2F98
+%N%N%N
+
+0x2FA4
+%FS⑳⑳　　『キミは今……%FE%K%N
+%FS'And right now, you are...'%FE%K%N
+0x2FB0
+%FS⑳⑳　　　……きっと誰かに、見つめられている』%FE%K
+%FS'Surely being seen by someone.'%FE%K
+0x2FD8
+%O
+

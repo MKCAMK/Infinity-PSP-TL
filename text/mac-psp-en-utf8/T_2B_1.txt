@@ -1,0 +1,1080 @@
+text area offset and size:
+0x2290
+0x3E29
+0x30
+これで、発電室に送り込まれていた熱水は遮断されたことになる。%K%P
+With that, we had been able to shut off the hot water flowing to the generator room.%K%P
+0x3C
+とは言え、扉の向こうには依然として、焼けつくような熱さの蒸気が充満しているのだ。%K%P
+Even so, on the other side of the door, it was still hot enough to scald.%K%P
+0x48
+俺とつぐみは発電室の前で、中の温度が下がるのを待つことにした。%K%P
+Tsugumi and I waited in front of the generator room until the temperature inside had cooled down sufficiently.%K%P
+0x54
+水の溜まった床の上に腰を下ろし、背中を壁に預ける。%K%P
+We sat on the water-covered floor and leaned against the wall.%K%P
+0x60
+つぐみも、俺の隣に座った。%K%P
+We sat next to each other.%K%P
+0x6C
+既に俺達の身体はずぶ濡れだったから、水の中に座ることにためらいを抱くことはなかった。%K%P
+We were both already drenched, so we didn't have any problem with sitting in water.%K%P
+0x78
+それに、思ったよりも水は温かかったし……。%K%P
+Besides, the water was warmer than it looked...%K%P
+0x84
+きっと発電室の熱が、ここまで伝わっているのだろう。%K%P
+I thought it was probably the heat from the generator room.%K%P
+0x90
+武「なぁ、あとどれぐらい待てばいいんだ？」%K%P
+Takeshi「Hey, how long do you think we're gonna have to wait?」%K%P
+0x9C
+俺はつぐみに尋ねた。%K%P
+I asked Tsugumi that.%K%P
+0xB0
+武「１時間ぐらいかな？」%K%P
+Takeshi「An hour?」%K%P
+0xBC
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xC8
+つぐみは答えようとしない。%K%P
+Tsugumi didn't even try to answer.%K%P
+0xD4
+これだけ暗いと、頷いたのか、首を振ったのか、それさえもよくわからなかった。%K%P
+It was so dark that I couldn't even tell if she had nodded or shaken her head.%K%P
+0xFC
+ただ闇の中に、カチカチと繰り返される断続音だけが聞こえた。%K%P
+In the darkness, there were intermittent and repeated clicking noises.%K%P
+0x108
+まるでシャーペンの頭の所をノックするような、プラスチックの乾いた響きだった。%K%P
+It was like the sound of dry plastic crinkling, like on the top of a champagne bottle.%K%P
+0x130
+その音は、つぐみの手元の辺りで鳴っていた。%K%P
+It sounded like it was coming from near Tsugumi's hands.%K%P
+0x13C
+武「何だ、それ？」%K%P
+Takeshi「What's that?」%K%P
+0x150
+つぐみ「……えっ？」%K%P
+Tsugumi「...What?」%K%P
+0x15C
+武「カチカチって、今なんか鳴らしてただろ？」%K%P
+Takeshi「That crackly sound you're making?」%K%P
+0x170
+音が止まった。%K%P
+The sound stopped.%K%P
+0x17C
+つぐみはゴソゴソと、ポケットかどこかに『それ』をしまい込んだ。%K%P
+Tsugumi took whatever it was and put it away in her pocket.%K%P
+0x188
+『教えるつもりはない』という意思表示なのかもしれない。%K%P
+I thought it might be her way of saying 'I'm not going to tell'.%K%P
+0x194
+武「お前はさぁ、気が向いたときにしか答えないのか？」%K%P
+Takeshi「What is it with you? You only answer when you feel like it?」%K%P
+0x1A0
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1AC
+武「猫みたいなやつだな」%K%P
+Takeshi「You're like a cat.」%K%P
+0x1C0
+つぐみ「猫は嫌い」%K%P
+Tsugumi「I hate cats.」%K%P
+0x1CC
+武「は？」%K%P
+Takeshi「Huh?」%K%P
+0x1D8
+つぐみ「ネズミを食べちゃうから」%K%P
+Tsugumi「Because they eat mice.」%K%P
+0x1E4
+武「何わけわかんないこと言ってんだよ」%K%P
+Takeshi「I don't have a clue what you're talking about.」%K%P
+0x1F8
+つぐみ「私は……」%K%P
+Tsugumi「I...」%K%P
+0x204
+つぐみ「……猫じゃない」%K%P
+Tsugumi「...I'm not a cat.」%K%P
+0x210
+武「当たり前だっ！」%K%P
+Takeshi「That's for sure!」%K%P
+0x224
+つぐみ「私が答えるかどうかは、気分とは関係ないの」%K%P
+Tsugumi「My answering has nothing to do with my mood.」%K%P
+0x230
+つぐみ「意味のある質問には答える、そうじゃなければ答えない……ただそれだけ」%K%P
+Tsugumi「If a question has meaning, I answer. If it doesn't, I don't... That's all.」%K%P
+0x23C
+武「本当か？」%K%P
+Takeshi「Really?」%K%P
+0x248
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x254
+武「本当なんだな？」%K%P
+Takeshi「So you are serious.」%K%P
+0x268
+つぐみ「だから、そういう質問には答えたくないの」%K%P
+Tsugumi「So that's the kind of question I don't want to answer.」%K%P
+0x274
+つぐみ「確認の為の質問……」%K%P
+Tsugumi「A question to check something...」%K%P
+0x280
+つぐみ「あなたには知る必要のない質問……」%K%P
+Tsugumi「A question about something you don't need to know...」%K%P
+0x28C
+つぐみ「私が知らないことを知ってるくせに聞いてくるような質問……」%K%P
+Tsugumi「Or questions about things that you know I don't know, but you ask anyway...」%K%P
+0x2A0
+つぐみ「世の中には、あまりにも不毛な会話が多すぎる……そう思わない？」%K%P
+Tsugumi「There is more than enough pointless conversation in the world... don't you think?」%K%P
+0x2AC
+武「わかった、わかったよ」%K%P
+Takeshi「Alright. I got it already.」%K%P
+0x2B8
+武「じゃあ意味のある質問をしてやろうじゃないか」%K%P
+Takeshi「How about I ask you a meaningful question?」%K%P
+0x2C4
+俺は……%K%p
+I wanted to ask...%K%p
+0x2268
+発電室の気圧について
+About the air pressure of the generator room
+0x2274
+何故ＬｅＭＵのことに詳しいのか？
+Why she knew so much about LeMU
+0x304
+さっきから、実は密かに疑問に思っていることがあった。%K%P
+There was something that had been bugging me.%K%P
+0x310
+この際だから、それを聞いてみることにした。%K%P
+So I decided to take the opportunity and ask about it.%K%P
+0x31C
+武「『この発電室の気圧について』……なんだけど」%K%P
+Takeshi「It's about the air pressure of the generator room...」%K%P
+0x328
+武「ついさっき、つぐみがバルブを閉めるまで、この中にはドンドコドンドコと熱水が送り込まれてたわけだろ？」%K%P
+Takeshi「A while ago, until you closed that valve, really hot water was being pumped in, right?」%K%P
+0x334
+武「その熱水は気化して水蒸気になり、ギュウギュウに、パンパンに詰め込まれて行った」%K%P
+Takeshi「And that water turns to steam, and it gets more and more packed in there.」%K%P
+0x340
+武「しかも、そいつは数百度という高温の蒸気だ」%K%P
+Takeshi「What's more, it's steam at a temperature of several hundred degrees.」%K%P
+0x34C
+武「当然、発電室の中の気圧はぐんぐんぐんぐんと上昇していくことになる」%K%P
+Takeshi「So that means that the air pressure in the room is just getting higher.」%K%P
+0x358
+武「例えば、ヤカンに水を注ぎ、フタのところを溶接かなんかして、完全に出口を塞いだ状態で、火にかけたとする」%K%P
+Takeshi「For example, it's like if you poured a bunch of water into a kettle, welded it shut, blocked the spout, and put it on a fire.」%K%P
+0x364
+武「そしたら、やがてヤカンは『ドッカーン！』と大爆発を起こしちまうよな？」%K%P
+Takeshi「Then, finally, it would go and explode with a 'boom', right?」%K%P
+0x370
+武「でもこの通り……なぜか発電室は無事だ」%K%P
+Takeshi「But somehow... the generator room is fine.」%K%P
+0x37C
+つぐみ「で？」%K%P
+Tsugumi「And?」%K%P
+0x388
+武「いや、だからそれは、どうしてなのかと思って……」%K%P
+Takeshi「Uh, I mean, why is that...?」%K%P
+0x39C
+つぐみ「はぁ……」%K%P
+Tsugumi「*Sigh*...」%K%P
+0x3A8
+つぐみ「それが、あなたの考えた『意味のある質問』なの？」%K%P
+Tsugumi「Is that what you call a 'meaningful question'?」%K%P
+0x3B4
+武「そりゃそうだよ、俺達の生死にかかわってくる問題なんだから」%K%P
+Takeshi「You bet. Because it's a matter of life and death.」%K%P
+0x3C8
+つぐみ「ふぅん……」%K%P
+Tsugumi「Hmph...」%K%P
+0x3D4
+つぐみ「典型的な愚問に思えるけど……まあ、いいわ」%K%P
+Tsugumi「It sounds to me like a typical stupid question... but whatever.」%K%P
+0x3E0
+つぐみ「まず、発電機が正常に作動していたときのことを考えてみる」%K%P
+Tsugumi「First, you have to think about when the generator was functioning normally.」%K%P
+0x3EC
+つぐみ「そのときも、水蒸気は継続的に発生し、タービンを廻していたはず」%K%P
+Tsugumi「At that time, steam would spout on and off and turn the turbine.」%K%P
+0x3F8
+つぐみ「そうして役目を終えた水蒸気は、最終的にどこへ行くのか……？」%K%P
+Tsugumi「Where would the steam usually go once it was used...?」%K%P
+0x404
+つぐみ「たぶん、ＬｅＭＵの外に排出されてたんだと思う」%K%P
+Tsugumi「I think it was probably sent outside of LeMU.」%K%P
+0x410
+つぐみ「つまり、ヤカンのフタはあいていた、ということ」%K%P
+Tsugumi「In other words, the kettle's spout wasn't plugged.」%K%P
+0x424
+武「ほっほー、なるほどね」%K%P
+Takeshi「Hoho, I see.」%K%P
+0x430
+武「この発電室のどこかに、外部へと通じるパイプか何かがついてるってことか」%K%P
+Takeshi「So the generator room is connected to the outside by a pipe or something.」%K%P
+0x43C
+ふむふむ……。%K%P
+Hmmmm...%K%P
+0x448
+俺はひとり、頷いていた。%K%P
+I nodded to myself.%K%P
+0x45C
+さっきから抱いていた疑問を、この際だから聞いてみることにした。%K%P
+I decided to ask about something that had been nagging me for a while.%K%P
+0x468
+武「つぐみはさぁ、どうしてそんなにＬｅＭＵのことに詳しいんだ？」%K%P
+Takeshi「Tsugumi, why do you know so much about LeMU?」%K%P
+0x474
+武「この発電室にしろ、隣のパイプ部屋にしろ、細かいところまで熟知してるって感じじゃないか」%K%P
+Takeshi「I mean, you seem to know a bunch of details, like about this Generator Room or the pipe room or whatever.」%K%P
+0x480
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x48C
+表情を窺うことはできなかったが、つぐみは何やら考え込んでいるようだった。%K%P
+I couldn't check her expression, but it seemed like she was deep in thought about something.%K%P
+0x498
+武「どうだ、意味のある質問だろ？」%K%P
+Takeshi「How's that for a meaningful question?」%K%P
+0x4AC
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x4B8
+つぐみ「全然……」%K%P
+Tsugumi「Completely...」%K%P
+0x4CC
+つぐみ「……意味なんかないわ」%K%P
+Tsugumi「...Devoid of meaning.」%K%P
+0x4D8
+つぐみは呟いた。%K%P
+Tsugumi muttered that.%K%P
+0x4EC
+つぐみ「そんなことを聞いて、あなたは何か得する？」%K%P
+Tsugumi「How is my answer to that going to help you?」%K%P
+0x4F8
+つぐみ「私のことを知っても、何の意味もないでしょ？」%K%P
+Tsugumi「It doesn't really matter whether you know about me or not.」%K%P
+0x504
+つぐみ「あなたには、知る必要のないこと……」%K%P
+Tsugumi「It's something you don't need to know...」%K%P
+0x510
+武「うーん、そっか」%K%P
+Takeshi「Oh, I see.」%K%P
+0x51C
+武「まあ、教えたくないんなら、別にいいんだけど」%K%P
+Takeshi「If you don't wanna tell me, that's fine.」%K%P
+0x530
+とは言いながらも、本当はよくなんかなかった。%K%P
+Still, I really did want to know.%K%P
+0x53C
+『ＬｅＭＵに詳しい理由とは？』――たかだかそんな質問さえもはぐらかしてしまうつぐみの素性に、俺は興味を持ち始めていた。%K%P
+Tsugumi's evasion of the question had made me interested in finding out what there really was to her.%K%P
+0x548
+だが、今ここで問い詰めたところで答えてくれるとも思えない。%K%P
+But I didn't think that she would answer if I badgered her about it anymore.%K%P
+0x554
+俺は少々のイラ立ちを感じながら、貧乏揺すりなんかして、その気持ちをごまかしてみることにした。%K%P
+I was irritated, but decided to play it cool and pretend like I didn't care.%K%P
+0x560
+すると……%K%P
+Then...%K%P
+0x574
+つぐみ「ねえ？」%K%P
+Tsugumi「Hey.」%K%P
+0x580
+何を思ったのか、つぐみがいきなり、俺の鼻先に顔を近づけてきた。%K%P
+I didn't know what she was thinking, but Tsugumi suddenly put her face in front of mine.%K%P
+0x58C
+武「な、なんでしょう？」%K%P
+Takeshi「Wh-what?」%K%P
+0x598
+つぐみ「今度は、私の番ね？」%K%P
+Tsugumi「Now it's my turn.」%K%P
+0x5A4
+武「……は、はいっ？」%K%P
+Takeshi「...Y-yeah?」%K%P
+0x5B0
+つぐみ「質問、してもいいでしょ？」%K%P
+Tsugumi「Can I ask you a question?」%K%P
+0x5BC
+武「あっ、えーと……どうぞ……」%K%P
+Takeshi「Uh, sure... Go ahead...」%K%P
+0x5D0
+つぐみ「目……閉じてくれる？」%K%P
+Tsugumi「Will you close... your eyes?」%K%P
+0x5DC
+武「……それが……質問か？」%K%P
+Takeshi「... Is... that the question?」%K%P
+0x5F0
+つぐみ「正確に言うと『お願い』」%K%P
+Tsugumi「It's more of a favor.」%K%P
+0x5FC
+暗闇の中……。%K%P
+There in the darkness...%K%P
+0x608
+狭い通路……。%K%P
+In that narrow corridor...%K%P
+0x614
+鼻先数センチの距離……。%K%P
+Just a few centimeters from my nose...%K%P
+0x620
+ふたりきり……。%K%P
+The two of us...%K%P
+0x62C
+俺の魂は蒸発し、気体となった。%K%P
+My mind turned to steam and evaporated.%K%P
+0x638
+つぐみ「閉じて？」%K%P
+Tsugumi「Are they closed?」%K%P
+0x644
+まるで催眠術にでもかかったかのように、俺のまぶたはゆっくりと下りていった。%K%P
+Almost as if I were hypnotized, my eyes began to sink.%K%P
+0x694
+と、その直後……%K%P
+And immediately after that...%K%P
+0x6BC
+――カパンッカパンッカパンッ！%K%P
+―Shake, shake, shake!%K%P
+0x6E4
+――バッシャーンッ！%K%P
+―Splish, splash!%K%P
+0x70C
+――シャカシャカシャカシャカシャカッ！%K%P
+―Slosh, slosh, slosh, slosh, slosh!%K%P
+0x734
+――ぱかっ！%K%P
+Click!%K%P
+0x740
+何やら不可解な音が聞こえてきた。%K%P
+I didn't know what to make of those noises.%K%P
+0x74C
+思わず目をあける俺……。%K%P
+I opened my eyes without thinking...%K%P
+0x78C
+ニマ〜っとしたつぐみの笑顔が、俺の眼前に立ちはだかっている。%K%P
+Tsugumi was grinning mischievously right in front of me.%K%P
+0x798
+つぐみ「閉じててっ！！」%K%P
+Tsugumi「Close them!」%K%P
+0x7A4
+片方の手の平で、つぐみは俺の目を隠した。%K%P
+She covered my eyes with one hand.%K%P
+0x7E4
+そして……%K%P
+And then...%K%P
+0x83C
+――プシューーーーーーーーーーッ！！%K%P
+Fwwwiiiiiiiiish!%K%P
+0x848
+武「うわっ、うわっ、なにすんだよ！」%K%P
+Takeshi「Hey, hey, what're you doing!?」%K%P
+0x854
+つぐみ「このゴキブリ野郎！　ゴキブリ野郎っ！！」%K%P
+Tsugumi「You jerk! You dumb jerk!」%K%P
+0x860
+叫ぶ。%K%P
+I screamed.%K%P
+0x86C
+武「な、なんなんだよ、これっ！」%K%P
+Takeshi「Wh-what are you doing?」%K%P
+0x894
+スプレーらしきものが、俺の顔面に思いっきりぶちまけられている。%K%P
+Some kind of spray showered my face.%K%P
+0x8A0
+武「おえっ……おえっ……口ん中に入っちゃ……おえっ……」%K%P
+Takeshi「You... You... That went in my mouth...」%K%P
+0x8C8
+つぐみ「これでも食らえぇーっ！　ちきしょーっ！」%K%P
+Tsugumi「Take that! You loser!」%K%P
+0x8D4
+武「やめろ！　やめろ！　どうしちゃったっつーんだよ、うえっ……」%K%P
+Takeshi「Stop it! Stop it! What's the matter with you...?」%K%P
+0x8FC
+必死に抵抗を試みるが、思うように身動きを取ることができない。%K%P
+I desperately tried to resist, but my body wouldn't obey me.%K%P
+0x908
+つぐみの手が、俺の首根っこを捕まえていた。%K%P
+Tsugumi had me by the neck.%K%P
+0x930
+つぐみ「どうだ、まいったか、カマドウマよ！」%K%P
+Tsugumi「How's that, you slug!?」%K%P
+0x93C
+つぐみ「別名・便所コオロギよ！」%K%P
+Tsugumi「You scum on the pond of life!」%K%P
+0x96C
+その言葉と共に、ようやく噴射が止まった。%K%P
+With those words, the eruption in my face stopped.%K%P
+0x978
+武「れぇ、れぇ、くつぇんなかが、ぺれぺれせれぇぇぇ……」%K%P
+Takeshi「My mwouth... iz nwumb... Whaddya spway won me...」%K%P
+0x984
+つぐみ「ふっふっふっ……」%K%P
+Tsugumi「Heeheehee...」%K%P
+0x990
+笑ったかと思うと、今度は布のようなもので、つぐみは俺の顔面をこすり始めた。%K%P
+I thought she was laughing, but the next thing I knew, Tsugumi had started rubbing my face with a cloth.%K%P
+0x99C
+ゴシゴシゴシゴシと、荒っぽい手つきで……。%K%P
+It was rough, and her technique didn't make it any better...%K%P
+0x9A8
+武「う、うぅっ……ああぁ……」%K%P
+Takeshi「Ohhhh... Ahhhh...」%K%P
+0x9B4
+俺は無駄な抵抗をやめた。%K%P
+I stopped my futile resistance.%K%P
+0x9C0
+まさに虫の息だった。%K%P
+I was almost choking.%K%P
+0x9CC
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x9D8
+つぐみ「これで……いいかな……」%K%P
+Tsugumi「That's... just about right...」%K%P
+0x9E4
+つぐみの手が、俺の首から離れた。%K%P
+Tsugumi took her hand off of my neck.%K%P
+0xA0C
+俺は目を開けられないまま、床に溜まった海水をすくい、口に運んだ。%K%P
+Unable to open my eyes, I scooped up seawater from the floor and put it in my mouth.%K%P
+0xA18
+しょっぱ〜！　……いけど、この際、贅沢は言っていられない。%K%P
+It was salty, but I didn't have any other choice.%K%P
+0xA40
+武「ぐぢゅぐぢゅぐぢゅぐぢゅぐぢゅぅ……」%K%P
+Takeshi「*Swish*, *swish*, *swish*, *swish*, *swish*...」%K%P
+0xA68
+武「ぺっ」%K%P
+Takeshi「Blah!」%K%P
+0xA74
+つぐみ「ちょ、ちょっと！」%K%P
+Tsugumi「H-hey!」%K%P
+0xA80
+つぐみ「汚いからこんなとこに吐き出さないでよ！」%K%P
+Tsugumi「That's dirty, so don't go spitting it over here!」%K%P
+0xA8C
+武「おまえなぁ！　おまえなぁ！　おまえなぁーっ！」%K%P
+Takeshi「You! You! Yoooooou!」%K%P
+0xA98
+文句を言いたかったが、今は顔を洗う方が先だ。%K%P
+I wanted to say something to her, but washing my face took priority.%K%P
+0xAC0
+俺は再び水をすくい、バシャバシャと顔にかけ、うがいを繰り返し……%K%P
+I scooped more water, splashed it on my face, and gargled again.%K%P
+0xACC
+目を開いた。%K%P
+I opened my eyes.%K%P
+0xAE8
+武「どどどどどどどどどーいうつもりなんだよ、つぐみ！」%K%P
+Takeshi「Whaaaaaaaaaaaat do you think you're doing!?」%K%P
+0xAF4
+武「俺の顔に何かけやがったんだ！？」%K%P
+Takeshi「What did you put on my face?」%K%P
+0xB08
+つぐみ「アセトン」%K%P
+Tsugumi「Acetone.」%K%P
+0xB14
+武「なぁーんだ、アセトンだったのかぁ、殺虫剤じゃなくてよかったぽーん♪」%K%P
+Takeshi「Oh GREAT! I'm so HAPPY it wasn't some pesticide.」%K%P
+0xB20
+武「――なんて、俺が言うとでも思ってんのか、こんにゃろーっ！」%K%P
+Takeshi「You think I'm serious? You idiot! I'm not!」%K%P
+0xB2C
+武「なんでそんなもんを突然かけたりなんかしたんだよ！」%K%P
+Takeshi「Whaddya doing, spraying that on me all of a sudden!?」%K%P
+0xB38
+つぐみ「見苦しかったから」%K%P
+Tsugumi「It was hard to look at.」%K%P
+0xB44
+武「はあ〜？　何が？」%K%P
+Takeshi「Huh? What was?」%K%P
+0xB50
+つぐみ「顔が」%K%P
+Tsugumi「Your face.」%K%P
+0xB5C
+武「誰の？」%K%P
+Takeshi「Whose?」%K%P
+0xB68
+つぐみ「あなたの」%K%P
+Tsugumi「Yours.」%K%P
+0xB74
+武「て、て、て、てめぇ……」%K%P
+Takeshi「Y-y-y-y-you...」%K%P
+0xB80
+言いかけて、俺ははたと気づいた。%K%P
+And then I realized something.%K%P
+0xB8C
+思い出したのだ。%K%P
+I remembered...%K%P
+0xB98
+あの、手の平にこびりついた……『黒いインク』のことを……。%K%P
+The black ink that had been on the palms of my hands...%K%P
+0xBA4
+武「そうか……」%K%P
+Takeshi「I see...」%K%P
+0xBB0
+武「落書き、か……」%K%P
+Takeshi「It was the graffiti...」%K%P
+0xBBC
+武「まだ、書いてあったのか……」%K%P
+Takeshi「It was still there...?」%K%P
+0xBC8
+武「落書きを、消してくれたんだ……」%K%P
+Takeshi「You erased all of it...」%K%P
+0xBD4
+今の今まですっかりと忘れてしまっていた。%K%P
+I had completely forgotten about it until just then.%K%P
+0xBE0
+タツタサンドを作っていたときも、空を捜していたときも、ここまで辿り着く間にも、俺の顔には今朝の落書きが、ずっと残ったままだったんだ。%K%P
+When I had been making sandwiches, looking for Sora, and coming there, the writing had been on my face the entire time.%K%P
+0xBEC
+武「それで、アセトンを……」%K%P
+Takeshi「And the acetone...」%K%P
+0xBF8
+武「アセトンって確か、除光液とか薄め液に入ってる成分だったよな？」%K%P
+Takeshi「Acetone... That's supposed to be like nail polish remover, right?」%K%P
+0xC0C
+つぐみ「工具箱に入ってたの……見つけたから……」%K%P
+Tsugumi「I found it... in the toolbox...」%K%P
+0xC18
+辺りには、強い刺激臭が漂っていた。%K%P
+There was a strong stench from it in the air.%K%P
+0xC24
+つんとした、熟れ過ぎた果物のような匂い……。%K%P
+It stung my nose like overripe fruit...%K%P
+0xC30
+二日酔いの匂いだ。%K%P
+It smelled like a hangover.%K%P
+0xC3C
+武「あ、ありがとう」%K%P
+Takeshi「Th-thanks.」%K%P
+0xC48
+一応、礼を言いつつ……%K%P
+I thanked her...%K%P
+0xC54
+武「ところで、どんな落書きがしてあったんだ？」%K%P
+Takeshi「So what did the writing say?」%K%P
+0xC60
+俺は尋ねてみた。%K%P
+I asked her about the graffiti.%K%P
+0xC6C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xC78
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xC8C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xC98
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xCAC
+つぐみ「待ってても、答えないよ」%K%P
+Tsugumi「You can wait if you want, but I'm not answering.」%K%P
+0xCB8
+つぐみ「意味のない質問だから」%K%P
+Tsugumi「Because it's a meaningless question.」%K%P
+0xD08
+結局『ゴキブリ野郎』とののしられた理由さえも、わからず終いだった。%K%P
+In the end, I never found out why she had called me a slug.%K%P
+0xD90
+発電室の扉から温もりが失せるのを待って、俺達は中へと踏み込んだ。%K%P
+We waited for the generator room to cool before going in.%K%P
+0xD9C
+それでも、室内は信じられないぐらいに暑かった。%K%P
+The heat inside must have defied imagination.%K%P
+0xDA8
+水蒸気の満ちた部屋の空気は重く、肌にまとわりつくようだ。%K%P
+The air in the steam-filled room was heavy and stuck to the skin.%K%P
+0xDB4
+息を吸い込むと、ネバネバとした湯気の塊が喉を通り過ぎて行くのがわかる。%K%P
+Inhaling felt like swallowing globs of sticky hot steam.%K%P
+0xDC0
+俺は酸欠に喘ぐ魚のように、口をぱくぱくとさせていた。%K%P
+I was opening and closing my mouth like a fish out of water.%K%P
+0xDCC
+武「何だか、息苦しくないか？」%K%P
+Takeshi「Isn't it hard to breathe?」%K%P
+0xDD8
+この俺の問いかけも、つぐみには無意味だと見なされたらしい。%K%P
+Tsugumi seemed to have ruled that question of mine meaningless as well.%K%P
+0xDE4
+つぐみは俺のことを完全に無視し、発電機の復旧作業に取りかかった。%K%P
+She completely ignored me as she started working to get the generator up and running again.%K%P
+0xE2C
+作業そのものは協同で行なわれた。%K%P
+We did the work together.%K%P
+0xE38
+つぐみが指示を出し、俺がそれに従うという形。%K%P
+Tsugumi gave commands, and I followed them.%K%P
+0xE44
+ボルトを締めたり、バルブを緩めたり、パイプをかじったり……力仕事にかかわる部分が、俺の役割だった。%K%P
+I did the grunt work... tightening bolts, loosening valves, and working on the pipes.%K%P
+0xE50
+そうして、最後のボルトをしっかりと締めつけると……。%K%P
+And when I finished tightening the last bolt...%K%P
+0xE94
+武「ふぃ〜っ、これでＯＫだな」%K%P
+Takeshi「Whew. That should do it.」%K%P
+0xEA0
+俺は噴き出した汗を袖で拭った。%K%P
+I wiped my sweat away with my collar.%K%P
+0xEAC
+つぐみの指摘した通り、停電の主な原因は、気圧減少に伴った安全バルブの開放にあった。%K%P
+It was just like Tsugumi had said. The blackout had been caused when the safety valve had opened due to the drop in air pressure.%K%P
+0xEB8
+『水蒸気の圧力が過剰に増加した場合、バルブが自動的に開いてガス抜きを行い、破裂損傷を防止する』%K%P
+'When pressure from the steam becomes excessive, the valve automatically opens to release the gas and prevent damage.'%K%P
+0xEC4
+『通常は、余分な蒸気を排出した後、バルブは自然に閉じるような仕組みになっているのだが……何しろ、室内は１気圧だ』%K%P
+'Normally, after a release of surplus gas, the valve is designed to shut automatically... but we're at one atmosphere, so...'%K%P
+0xED0
+『安全バルブは閉鎖されずに、いつまで経っても蒸気が漏れ続けた』%K%P
+'Because the safety valve never closed, the steam continued leaking.'%K%P
+0xEDC
+……どうやら、そういうことらしい。%K%P
+...Anyway, that was the gist of the explanation.%K%P
+0xF2C
+俺とつぐみは、一度発電室を出てパイプ部屋へ入ると……%K%P
+Tsugumi and I went to the generator room and then to the pipe room...%K%P
+0xF54
+修理前に閉じたバルブを開放し……%K%P
+There, we opened the valve we had closed before the repairs...%K%P
+0xFB4
+再び、発電室に戻って来た。%K%P
+And returned to the generator room.%K%P
+0xFC0
+武「さて、それじゃあいってみますか？」%K%P
+Takeshi「So should we try to fire it up?」%K%P
+0xFD4
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xFE0
+武「スイッチ、入れるぞ？」%K%P
+Takeshi「I'm turning it on.」%K%P
+0xFEC
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xFF8
+武「心の準備はできたかな？」%K%P
+Takeshi「You ready?」%K%P
+0x1004
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x102C
+武「では、カウントダウンを始めよう」%K%P
+Takeshi「Let's start the countdown...」%K%P
+0x1038
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1044
+武「３０秒前……」%K%P
+Takeshi「30 seconds...」%K%P
+0x1050
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x105C
+武「２５秒前……」%K%P
+Takeshi「25 seconds...」%K%P
+0x1068
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1074
+武「２０……１９……１８……１７」%K%P
+Takeshi「20... 19... 18... 17...」%K%P
+0x10B0
+――ぽちっ。%K%P
+―Click.%K%P
+0x10BC
+つぐみが、ボタンを押した。%K%P
+Tsugumi pushed the button.%K%P
+0x10E4
+武「こらっ！　勝手にスイッチ入れんなよ！　まだ１７秒前じゃねぇーか！」%K%P
+Takeshi「Hey! What are you doing!? We still had seventeen seconds to go!」%K%P
+0x10F8
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1104
+武「たかだか１０秒ちょっとも待てないのか、お前は！」%K%P
+Takeshi「You can't wait a little more than a mere thirteen seconds?」%K%P
+0x1110
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x111C
+武「こういうのはだなぁ、ある種の儀式と言うか、形式と言うか、とにかく非常に大切なことであって……」%K%P
+Takeshi「This... This is kind of like a ritual... Anyway, it's very important...」%K%P
+0x1180
+つぐみ「ゼロ……」%K%P
+Tsugumi「Zero...」%K%P
+0x118C
+照明がいっせいに灯った。%K%P
+The lights lit up all at once.%K%P
+0x1198
+燈火はさんさんと降り注ぎ、部屋の隅々まで照らし出す。%K%P
+The light poured down, illuminating even the corners of the room.%K%P
+0x11A4
+視界は一瞬にして広がった。%K%P
+It was like our field of vision had expanded in an instant.%K%P
+0x11B8
+つぐみ「ほらね……電気が点くまで、ちょうど１７秒……」%K%P
+Tsugumi「See... It took exactly seventeen seconds for the lights to come on...」%K%P
+0x11CC
+つぐみは見下すような視線を俺に向け、スタスタと部屋を出て行った。%K%P
+Tsugumi flashed me a condescending glance and strolled out of the room.%K%P
+0x11D8
+武「ちぇっ」%K%P
+Takeshi「Tsk.」%K%P
+0x11E4
+重たい工具箱を肩に担ぐと、俺はつぐみの後を追った。%K%P
+I shouldered the weighty toolbox and followed after Tsugumi.%K%P
+0x1260
+――中性浮力式エレベーターの前。%K%P
+We found ourselves back in front of the neutral buoyancy elevator.%K%P
+0x126C
+つぐみは腕組みをして待っていた。%K%P
+Tsugumi was waiting with her arms crossed.%K%P
+0x1288
+つぐみ「遅い」%K%P
+Tsugumi「You're slow.」%K%P
+0x1294
+武「しょーがないだろ？　この工具箱、むちゃくちゃ重いんだからな！」%K%P
+Takeshi「Whaddya expect? I'm the one carrying this leaden toolbox!」%K%P
+0x12A0
+つぐみ「知ってる」%K%P
+Tsugumi「I know.」%K%P
+0x12AC
+（あっ、そっか……）%K%P
+(Oh yeah...)%K%P
+0x12B8
+（倉庫から工具箱を運び出したのは、つぐみだったっけな……）%K%P
+(I forgot it was Tsugumi who took the toolbox out of the warehouse...)%K%P
+0x12C4
+そんなことを考えながら、何気なく、卵のほうへと目を向けてみる。%K%P
+As I recalled that, I turned my eyes to the egg-like elevator.%K%P
+0x12D0
+右側の扉の向こうに、俺達の乗って来た卵があるはずだった。%K%P
+On the other side of that door, the egg that we came in should have been waiting.%K%P
+0x12DC
+穴の開いた卵――もはや、これは使い物にならない。%K%P
+It was an egg with a hole in it. It was useless to us.%K%P
+0x12E8
+左のほうは……。%K%P
+To the left...%K%P
+0x12F4
+階数表示の明かりが『３』のところに点灯しているのがわかる。%K%P
+The floor display was lit up with a number three.%K%P
+0x1300
+武「このフロアに、もう１台卵が停まってるっていうの……知ってたんだ？」%K%P
+Takeshi「Did you know there was another egg elevator stopped down here...?」%K%P
+0x130C
+つぐみ「知らなきゃ来ない」%K%P
+Tsugumi「Wouldn't have come if I didn't.」%K%P
+0x1318
+武「まあ、そりゃそうだな……」%K%P
+Takeshi「I suppose not...」%K%P
+0x132C
+武「はぁ、よっこらどっこいしょと」%K%P
+Takeshi「Oh, this is heavy.」%K%P
+0x1354
+卵に乗り込んだ俺は、工具箱を床の上に置いた。%K%P
+Inside the egg elevator, I put the toolbox on the floor.%K%P
+0x1368
+つぐみ「オッサンみたい……」%K%P
+Tsugumi「You sound like an old man...」%K%P
+0x1374
+武「うるせー、どうせお前に比べりゃオッサンだよ、俺は」%K%P
+Takeshi「Shut up. I AM an old man compared to you.」%K%P
+0x139C
+そう言って、扉のわきについていた『△』のボタンを押す。%K%P
+As I said that, I pushed the up button next to the elevator door.%K%P
+0x13A8
+内側・外側の水密扉は、既に自動で閉じられていた。%K%P
+The internal and external watertight doors had already sealed automatically.%K%P
+0x13D0
+ゴボゴボゴボゴボと、床下のバラストタンクにエアが送り込まれて行く。%K%P
+We could hear air being sent into the ballast tank under the floor.%K%P
+0x13DC
+やがて、卵はゆっくりと浮上を始め……%K%P
+Finally, the egg-shaped elevator...%K%P
+0x13E8
+……なかった。%K%P
+...Didn't start to float up.%K%P
+0x1410
+武「えっ？　マジ？」%K%P
+Takeshi「Huh? Are you serious?」%K%P
+0x141C
+床下から聞こえていた音はいつの間にか消え失せ、辺りはひっそりと静まり返っていた。%K%P
+The sound beneath the floor had stopped, and silence had returned.%K%P
+0x1428
+武「またですか……」%K%P
+Takeshi「Not again...」%K%P
+0x1434
+武「どうしてこうも次から次へと厄介な事態が発生するんだろうねぇ……」%K%P
+Takeshi「Why do we keep running into problem after problem...?」%K%P
+0x145C
+ムダだとは知りながらも『△』のボタンを連打してみた。%K%P
+Knowing it was useless, I pushed the up button repeatedly.%K%P
+0x1470
+つぐみはいつも通り無表情……。%K%P
+Tsugumi was as matter-of-fact as always...%K%P
+0x147C
+まだ乾き切っていない長い髪の毛の先端を、ぐりぐりと指先でいじっている。%K%P
+She was playing with and coiling her long, still-damp hair with her finger.%K%P
+0x1490
+武「さてと、どうすっかな……」%K%P
+Takeshi「Alright, so what do we do...?」%K%P
+0x149C
+俺が呟いた瞬間……。%K%P
+Just as I said that...%K%P
+0x14C4
+丸窓のすぐ右隣にあったモニターに、画像が浮かんだ。%K%P
+A monitor just to the right of the round window flickered to life.%K%P
+0x1518
+空「倉成さん、小町さん」%K%P
+Sora「Kuranari-san, Komachi-san.」%K%P
+0x1524
+武「空！　お前、どこ行ってたんだよ！　捜したんだぞ！」%K%P
+Takeshi「Sora! Where have you been? We looked everywhere for you!」%K%P
+0x1530
+空「大変御迷惑おかけしました。申し訳ありません」%K%P
+Sora「I am terribly sorry. Please accept my apologies.」%K%P
+0x153C
+モニターの中で、空は深々と頭を下げた。%K%P
+The image of Sora in the monitor bowed deeply.%K%P
+0x1548
+武「まあ、そんなことはどうでもいいや」%K%P
+Takeshi「That's not important right now.」%K%P
+0x1554
+武「発電機のほうだけどさ、俺とつぐみで直しといたから」%K%P
+Takeshi「Tsugumi and I fixed the generator.」%K%P
+0x1560
+空「そのようですね」%K%P
+Sora「It would appear so.」%K%P
+0x156C
+空「ありがとうございました、本当に……」%K%P
+Sora「Thank you so much. Thank you...」%K%P
+0x1578
+武「でだ。わかってると思うけど、今俺達は、卵……えーっと『ＥＩ』の中にいて……」%K%P
+Takeshi「I think you know this, but we're in this egg... Uh, this Ei...」%K%P
+0x1584
+空「ええ、わかっています」%K%P
+Sora「Yes, I know.」%K%P
+0x1590
+空「アイが動かないのですね？」%K%P
+Sora「The Ei is not moving, correct?」%K%P
+0x159C
+武「どうすればいいのかなぁ？」%K%P
+Takeshi「What should we do?」%K%P
+0x15A8
+空「まず、その原因についてなのですが……」%K%P
+Sora「First, in regard to the cause...」%K%P
+0x15B4
+空「恐らく内部気圧が減少した関係で、バラストタンク内の海水を、充分に排出することができないからだと思われます」%K%P
+Sora「It is likely the result of a decrease in internal air pressure that has made the device incapable of sufficiently expelling the seawater in the ballast tank.」%K%P
+0x15C0
+空「つまり……」%K%P
+Sora「In other words...」%K%P
+0x15CC
+武「浮力が足りない、ってことか」%K%P
+Takeshi「You mean it isn't buoyant enough?」%K%P
+0x15D8
+空「はい」%K%P
+Sora「Correct.」%K%P
+0x15E4
+空「浮上させる方法は、いくつか考えられますが……」%K%P
+Sora「There are a number of feasible methods for making it rise, but...」%K%P
+0x15F0
+と、そのときだった。%K%P
+It was then that Tsugumi acted.%K%P
+0x1634
+つぐみが唐突に、水密扉を開いた。%K%P
+She suddenly opened the watertight door.%K%P
+0x1640
+武「お、おいっ！　待てよ！　どうするつもりなんだ！」%K%P
+Takeshi「H-hey! Wait! Whaddya think you're doing?」%K%P
+0x1690
+つぐみは答えずに、ＬｅＭＵ側の扉も開いた。%K%P
+Without answering, Tsugumi also opened the LeMU side door.%K%P
+0x16A4
+つぐみ「じゃあね……」%K%P
+Tsugumi「Okay then...」%K%P
+0x16B0
+武「えっ！？」%K%P
+Takeshi「Huh?」%K%P
+0x16BC
+卵を出て行こうとするつぐみ……。%K%P
+Tsugumi tried to get out of the elevator...%K%P
+0x16C8
+俺はその腕を掴んで引き止めた。%K%P
+I grabbed her arm, trying to stop her.%K%P
+0x16F8
+つぐみ「触らないで！」%K%P
+Tsugumi「Don't touch me!」%K%P
+0x1A64
+――パシンッ！%K%P
+―Whack!%K%P
+0x1A70
+直後、強烈な平手打ち……。%K%P
+An immediate, brutal slap...%K%P
+0x1A84
+つぐみ「触らないでって……言ったでしょ……」%K%P
+Tsugumi「I told you... don't touch me...」%K%P
+0x1A90
+頬に、痛みはなかった。%K%P
+My cheek didn't hurt.%K%P
+0x1AAC
+俺は茫然とし、フロアへ戻って行くつぐみの姿を見つめていた。%K%P
+I absently watched Tsugumi return to the floor.%K%P
+0x1AD4
+アナウンス「Ａｎｆａｎｇ．」%K%P
+Announcement「<Anfang.>」%K%P
+0x1AE0
+卵が、静かに上昇を始める。%K%P
+The egg quietly started to ascend.%K%P
+0x1AEC
+閉ざされた扉の向こうに、もう彼女の姿は見えない。%K%P
+I could no longer see her on the other side of the door.%K%P
+0x1AF8
+アナウンス「Ｔｉｅｆｅ⑳５０ｍ．」%K%P
+Announcement「<Tiefe 50 meter.>」%K%P
+0x1B04
+アナウンス「Ｔｉｅｆｅ⑳４５ｍ．」%K%P
+Announcement「<Tiefe 45 meter.>」%K%P
+0x1B10
+アナウンス「Ｔｉｅｆｅ⑳４０ｍ．」%K%P
+Announcement「<Tiefe 40 meter.>」%K%P
+0x1B1C
+無機的なアナウンスが、虚しく響き渡っていた。%K%P
+The recorded announcement echoed with a tinny sound.%K%P
+0x1B7C
+武「た、大変なんだ！　つぐみが！　つぐみが！」%K%P
+Takeshi「Oh no! Tsugumi! Tsugumi!」%K%P
+0x1B88
+俺はツヴァイトシュトックに転がり込むと、集まっていた皆に向かって叫び声をあげた。%K%P
+When I met everyone on Zweiter Stock, they greeted me with friendly shouts.%K%P
+0x1B94
+少年「つぐみが……どうかしたの？」%K%P
+Kid「What happened... to Tsugumi?」%K%P
+0x1BA0
+武「あのバカ、ひとりで下のフロアに残って……」%K%P
+Takeshi「That idiot decided to stay alone on the floor below...」%K%P
+0x1BAC
+優「そうみたいね」%K%P
+You「It sure looks like it.」%K%P
+0x1BB8
+武「『そうみたいね』――じゃないだろーが！」%K%P
+Takeshi「No, it doesn't 'look like it'―she did!」%K%P
+0x1BC4
+武「あいつ、ひとりぼっちになっちゃったんだぞ！」%K%P
+Takeshi「She's all alone down there!」%K%P
+0x1BD0
+武「心配じゃないのか！？」%K%P
+Takeshi「Aren't you worried about her?」%K%P
+0x1BDC
+ココ「でも……」%K%P
+Coco「But...」%K%P
+0x1BE8
+武「俺、３階に戻るよ！」%K%P
+Takeshi「I'm going back down!」%K%P
+0x1BF4
+武「戻って、つぐみを連れ戻して来る！」%K%P
+Takeshi「I'm going down and I'm bringing Tsugumi back!」%K%P
+0x1C00
+優「……は？」%K%P
+You「Huh?」%K%P
+0x1C0C
+武「つぐみを、このままひとりにはしておけないんだ！」%K%P
+Takeshi「We can't leave Tsugumi alone down there!」%K%P
+0x1C18
+武「あいつは……あいつは……本当は、かよわい女の子で……」%K%P
+Takeshi「Look... She's... really not as tough as she acts...」%K%P
+0x1C24
+武「誰かが……そばについててやらなくちゃ……いけなくて……」%K%P
+Takeshi「Somebody... has to be with her...」%K%P
+0x1C30
+少年「ふーん……」%K%P
+Kid「Hmmm...」%K%P
+0x1C3C
+ココ「へぇ……」%K%P
+Coco「Wow...」%K%P
+0x1C48
+武「なんだよ、お前ら！　揃いも揃ってさぁ！」%K%P
+Takeshi「Hey, what are you doing!? Get your act together!」%K%P
+0x1C54
+武「つぐみがちょっと無愛想だからって、そんな冷たい態度、取ることないだろ！？」%K%P
+Takeshi「Tsugumi can be a bit of an ass, but that doesn't mean you have to be so cold to her!」%K%P
+0x1C60
+武「もういいよ！」%K%P
+Takeshi「Enough!」%K%P
+0x1C6C
+武「とにかく、俺は戻るからな！」%K%P
+Takeshi「Anyway, I'm going back for her!」%K%P
+0x1C78
+言い残して、俺は卵の搭乗口へと向かい、扉の前に立った。%K%P
+With that, I went back to the entrance to the egg and waited in front of the doors.%K%P
+0x1C84
+すると……。%K%P
+Next...%K%P
+0x1D0C
+扉が、開いた。%K%P
+When the doors opened...%K%P
+0x1D48
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1D54
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1D60
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1D6C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1D88
+つぐみ「あの……」%K%P
+Tsugumi「Uh...」%K%P
+0x1D94
+つぐみ「どいてもらえる？」%K%P
+Tsugumi「Will you move?」%K%P
+0x1DA8
+つぐみ「邪魔なんだけど」%K%P
+Tsugumi「You're in my way.」%K%P
+0x1DB4
+立ち尽くす俺……。%K%P
+I simply stood there...%K%P
+0x1DC8
+つぐみは俺のことを押し退けて、去って行った。%K%P
+Tsugumi pushed me out of the way and walked by.%K%P
+0x1E10
+穴があったら入りたい気分だった。%K%P
+If there were a rock there, I would have crawled under it.%K%P
+0x1E1C
+だから、俺は最も近くにあった穴蔵へと潜り込んだ。%K%P
+So I did the next closest thing I could think of.%K%P
+0x1E28
+アナウンス「Ｔｉｅｆｅ⑳３５ｍ．」%K%P
+Announcement「<Tiefe 35 meter.>」%K%P
+0x1E34
+アナウンス「Ｔｉｅｆｅ⑳４０ｍ．」%K%P
+Announcement「<Tiefe 40 meter.>」%K%P
+0x1E40
+アナウンス「Ｔｉｅｆｅ⑳４５ｍ．」%K%P
+Announcement「<Tiefe 45 meter.>」%K%P
+0x1E4C
+意味もなくドリットへと下りて行く卵。%K%P
+I went back down to Dritter Stock in the egg for no reason.%K%P
+0x1E58
+（アイの浮力が足りないから、上がれるのはひとりずつだろ……）%K%P
+(It didn't have enough buoyancy, so we had to come up one by one...)%K%P
+0x1E64
+（アホか、俺は……）%K%P
+(Was I stupid or what...?)%K%P
+0x1E70
+できることならこのまま、海の底まで沈んでしまいたかった。%K%P
+If I could have, right then, I would have liked to sink down to the bottom of the ocean.%K%P

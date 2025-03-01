@@ -1,0 +1,744 @@
+text area offset and size:
+0x1518
+0x2911
+0x64
+扉が開く。%K%P
+The doors opened.%K%P
+0x70
+３階の隔離区画のこもった空気が、俺の肺に流れ込んでくる。%K%P
+The stale air of the isolated sector on the third floor flowed into my lungs.%K%P
+0x7C
+乗ってきたエレベーターの隣には、止まったままのエレベーターが１台残っていた。%K%P
+Next to the elevator I had ridden in, another elevator was still stopped.%K%P
+0x88
+穴の開けられたエレベーター……。%K%P
+An elevator with a hole blasted in it...%K%P
+0x94
+アセトンの匂いはもう、辺りに漂ってはいなかった。%K%P
+You couldn't even smell the stench of acetone anymore.%K%P
+0xA0
+俺は気合を入れ直し、通路の先へと歩を進めた。%K%P
+I walked toward the end of the hallway, marshaling my wits.%K%P
+0xB4
+（おや……？）%K%P
+(What's that...?)%K%P
+0xC0
+停電のときには気づかなかった部屋が、通路の左手にあることがわかった。%K%P
+I realized that there was a room on the left side of the corridor that I hadn't seen during the power outage.%K%P
+0xCC
+少し覗いてみようと、俺はその中に足を踏み入れた。%K%P
+Thinking to explore a little, I set my foot inside.%K%P
+0xE0
+巨大なクジラが横たわっていた。%K%P
+A huge whale was stretched out.%K%P
+0xEC
+『コスミッシャー・ヴァル』とエントランスに書いてある……。%K%P
+It said 'Cosmic Whale' on the entrance.%K%P
+0xF8
+それがこのアトラクションの名前らしい。%K%P
+Apparently, that was the name of the attraction.%K%P
+0x104
+どのようなアトラクションなのか、パッと見では理解できない。%K%P
+I couldn't tell from a quick glance exactly what the attraction was.%K%P
+0x110
+何もない虚空に浮かぶクジラ。%K%P
+A whale floating in empty space.%K%P
+0x11C
+シュールな光景だった。%K%P
+The whole scene was surreal.%K%P
+0x128
+どこかに説明がないだろうか……？%K%P
+Was there an explanation written somewhere...?%K%P
+0x134
+（……いやいや、こんなところで油を売ってる場合じゃない）%K%P
+(...Wait, I don't have time to waste like this.)%K%P
+0x140
+ここにつぐみの姿がないことを確かめると、俺は別の入り口から外に出た。%K%P
+After making sure that Tsugumi wasn't there, I left through a different door.%K%P
+0x154
+すぐに発電室の前に着く。%K%P
+I quickly reached the generator room.%K%P
+0x160
+『Ｋｒａｆｔｗｅｒｋ』と書かれた扉……。%K%P
+The door said 'Kraftwerk'.%K%P
+0x16C
+俺は扉を押し開け、室内へと入った。%K%P
+I pushed open the door and stepped inside.%K%P
+0x19C
+発電施設は低い唸りをあげながら、順調に稼動しているようだ。%K%P
+The facility was giving off a steady but low hum and seemed to be working fine.%K%P
+0x1A8
+ＬｅＭＵにおいて、電力に関してほとんど心配がいらないことは不幸中の幸いだった。%K%P
+For better or for worse, in LeMU, we didn't have to worry about the electricity.%K%P
+0x1B4
+しかしひと回りしてみたが、ここにはつぐみのいた痕跡すら見つからない。%K%P
+I looked around, but there was no trace of Tsugumi.%K%P
+0x1EC
+発電室を過ぎると、この先の通路は隔壁が固く閉ざされている。%K%P
+Past the generator room, the corridor was completely blocked off by a partition.%K%P
+0x1F8
+これを乗り越えて行くことはできない……。%K%P
+It was impossible to go beyond it...%K%P
+0x204
+残された扉は、右手にある部屋のものだけだ。%K%P
+The only door left was the room on the right.%K%P
+0x210
+そこに入ることにする。%K%P
+I decided to go in there.%K%P
+0x240
+例の、たくさんの配管が集まった部屋だ。%K%P
+The room was full of pipes.%K%P
+0x24C
+確認したが、このパイプ部屋にはネームプレートがなかった。あえて呼ぶなら、圧力調整室、とでも言うのだろうか。%K%P
+There was no sign on the door, but I supposed it would be called something like a 'pressure regulation room' or something.%K%P
+0x258
+ここからのパイプは、発電室のボイラーやタービンへと続いているはずだ。%K%P
+I assumed that the pipes must have been connected to the boilers and turbines in the generator room.%K%P
+0x264
+そう言えば、ここの修理はつぐみがしたのだ……。%K%P
+Come to think of it, Tsugumi had done the repairs in there...%K%P
+0x278
+そう、ちょうど、あの辺りに屈んで、工具を広げて、バルブを閉め直して……。%K%P
+I remembered her bending down and using her tools to close off a valve...%K%P
+0x2A0
+（え……？）%K%P
+(Huh?)%K%P
+0x2AC
+つぐみはそこにいた。%K%P
+She was there.%K%P
+0x2B8
+あのときと同じように屈み込んでいた。%K%P
+Leaning in just like the time before.%K%P
+0x2C4
+工具は持っていない。バルブも閉め直していなかった。%K%P
+She didn't have any tools. She wasn't closing off a valve.%K%P
+0x2D0
+その代わり、首を時折傾げながら、配管の向こう側を覗き込むようにしている。%K%P
+Instead, craning her neck, she seemed to be looking over at the other side of the pipes.%K%P
+0x304
+武「よう、つぐみ……」%K%P
+Takeshi「Hey, Tsugumi...」%K%P
+0x310
+武「なんだよ、こんなところにいたのか……」%K%P
+Takeshi「What are you doing here?」%K%P
+0x31C
+俺は努めて冷静に、話しかけた。%K%P
+I pretended to be calm.%K%P
+0x338
+いきなりキレてはいけないだろう。%K%P
+It wouldn't do to lose my temper right off the bat.%K%P
+0x344
+振り上げかけた拳を抑える。相手は一応、怪我人だ……。%K%P
+I suppressed the urge to shout. She was injured, after all...%K%P
+0x358
+事は穏便に。%K%P
+I thought to proceed gently.%K%P
+0x364
+できればきちんと話をつけたい。%K%P
+I wanted to handle the conversation correctly.%K%P
+0x378
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x38C
+つぐみはゆっくりと立ち上がって、こちらを見た。%K%P
+She stood up slowly and looked my way.%K%P
+0x398
+武「なんか、探してるのか？」%K%P
+Takeshi「You looking for something?」%K%P
+0x3AC
+つぐみ「……べ、別に」%K%P
+Tsugumi「No, not really.」%K%P
+0x3B8
+つぐみは、何故か俺を警戒するように一歩下がった。%K%P
+She stepped back as if she was keeping watch over me.%K%P
+0x3C4
+動揺の色が見える……。%K%P
+I could tell that she was agitated...%K%P
+0x3D0
+俺の出現を予測していなかったに違いない。%K%P
+She hadn't expected to see me.%K%P
+0x3DC
+視線が定まっていない。%K%P
+Her gaze didn't fix on anything...%K%P
+0x3E8
+ちらちらと背後のパイプラインを窺っている。%K%P
+Her eyes kept flitting to the pipes behind her.%K%P
+0x3F4
+しかし、つぐみの視線……。%K%P
+Her gaze...%K%P
+0x400
+気になるな……。%K%P
+It bothered me...%K%P
+0x40C
+武「お前の後ろに何かあるのか？」%K%P
+Takeshi「What's behind you?」%K%P
+0x420
+つぐみ「……な……ない」%K%P
+Tsugumi「...N-nothing...」%K%P
+0x42C
+つぐみ「なんにもない……」%K%P
+Tsugumi「There's nothing behind me.」%K%P
+0x438
+武「そうか？」%K%P
+Takeshi「Really?」%K%P
+0x444
+俺は何気なく、つぐみの背後のパイプが見える位置に回り込もうとした。%K%P
+I casually tried to angle around so that I could see the pipes behind her.%K%P
+0x458
+つぐみ「こ、来ないで……」%K%P
+Tsugumi「Don't come near me...」%K%P
+0x464
+つぐみ「近づかないでよ……」%K%P
+Tsugumi「Don't get close...」%K%P
+0x470
+なんだ？%K%P
+What?%K%P
+0x47C
+つぐみは身体の向きを変えた。%K%P
+She changed position.%K%P
+0x488
+後ろに回られるのを嫌がっているようだった。%K%P
+She didn't want me to go behind her.%K%P
+0x4A4
+つぐみ「あっ……」%K%P
+Tsugumi「Oh...」%K%P
+0x4B8
+つぐみはさらに一歩後ずさって、手元にあった何かを弾き飛ばしてしまった。%K%P
+She had taken another step back and knocked something off.%K%P
+0x4E0
+カラーン、カラーン、ぽちゃ……%K%P
+Clang, clang, plunk...%K%P
+0x4EC
+僅かな水音と共に、壁際のダクトの隙間を小さなネジだかナットだかが、いくつか転げ落ちていった。%K%P
+Along with a small splash of water, several screws or nuts fell into the crevice between ducts.%K%P
+0x500
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x50C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x520
+つぐみは、静かに辺りを見回した。%K%P
+She quietly looked around.%K%P
+0x52C
+右足をかばうようにして、ゆっくりとターンする……。%K%P
+Favoring her right leg, she slowly turned...%K%P
+0x538
+俺に背を向け、部屋の奥にふと目を留めた。%K%P
+With her back to me, she looked farther back into the room.%K%P
+0x54C
+そして何かホッとしたような、呆れの混じったような息をひとつ吐く……。%K%P
+Then took a relieved, if amazed, breath...%K%P
+0x558
+（なんだろう？）%K%P
+(What's going on?)%K%P
+0x564
+それから俺のことを押し退けて、部屋の外へと向かおうとした。%K%P
+Then, pushing me aside, she tried to head out of the room.%K%P
+0x580
+つぐみ「……退いて、邪魔」%K%P
+Tsugumi「...Move. You're in my way.」%K%P
+0x58C
+武「お、おい、つぐみ……？」%K%P
+Takeshi「H-hey, Tsugumi...?」%K%P
+0x5A0
+つぐみ「邪魔しないで……」%K%P
+Tsugumi「Don't bother me...」%K%P
+0x5B4
+右足を引きずったまま、つぐみは立ち去ろうとした。%K%P
+Dragging her right leg, she tried to leave.%K%P
+0x5C0
+武「待てって！」%K%P
+Takeshi「Wait!」%K%P
+0x5CC
+俺はつぐみの肩に手を置いた。%K%P
+I put my hands on her shoulders.%K%P
+0x608
+が、あっという間もなくその手は払われてしまう。%K%P
+But she shook them right off.%K%P
+0x61C
+つぐみ「触らないでよ！」%K%P
+Tsugumi「Don't you touch me!」%K%P
+0x628
+つぐみは眉をつり上げた。俺のことをキッと見据え、不快感を露にする。%K%P
+She glared at me, without trying to hide her annoyance.%K%P
+0x634
+つぐみ「邪魔だって言ったでしょ！」%K%P
+Tsugumi「I said you were in my way!」%K%P
+0x640
+つぐみ「ほっといてよ！」%K%P
+Tsugumi「Leave me alone!」%K%P
+0x64C
+つぐみ「どうして私に付きまとうの？」%K%P
+Tsugumi「Why are you following me?」%K%P
+0x658
+吐き捨てるように、一気に口にした。%K%P
+She spat the words out all at once.%K%P
+0x664
+だが俺はひるまずに問い返す。%K%P
+But I didn't let up and fired a question back at her.%K%P
+0x670
+武「なぁ、ここで何してたんだ？　探し物か？」%K%P
+Takeshi「What are you doing here? Are you looking for something?」%K%P
+0x67C
+武「それとも、修理の続きか？」%K%P
+Takeshi「Or are you finishing up some repairs?」%K%P
+0x690
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x69C
+武「くだらない質問には答えない、と言うわけか？」%K%P
+Takeshi「You won't answer stupid questions, is that it?」%K%P
+0x6B0
+つぐみ「……そ……」%K%P
+Tsugumi「...What...」%K%P
+0x6C4
+つぐみ「そう言うあなたは、何しに来たのよ？」%K%P
+Tsugumi「What are you doing here yourself?」%K%P
+0x6D0
+つぐみ「人がどこで何してようと勝手じゃない」%K%P
+Tsugumi「I'm free to do what I want, where I want.」%K%P
+0x6DC
+つぐみは言葉で壁を張ろうとする。%K%P
+She was trying to make a wall of words.%K%P
+0x6F8
+武「ああ、勝手だね……」%K%P
+Takeshi「Sure...」%K%P
+0x704
+俺は壁を穿つべく、言葉を跳ね返す。%K%P
+I shot back, trying to make a crack in the wall that she had up.%K%P
+0x710
+武「俺は自分勝手にここにやって来た。皆を置いてな」%K%P
+Takeshi「I came here on my own. I left the others.」%K%P
+0x71C
+武「お前が勝手にここに行ったって聞いたからだよ」%K%P
+Takeshi「Because I heard that you came here on your own.」%K%P
+0x730
+つぐみ「……なんで……そんなことするの」%K%P
+Tsugumi「Why... would you do that...?」%K%P
+0x73C
+武「重傷を負った仲間が、突然行方不明になったんだぞ！」%K%P
+Takeshi「Because my injured friend suddenly went missing, that's why!」%K%P
+0x748
+武「捜すのは当然だろ！」%K%P
+Takeshi「Of course I came looking for you!」%K%P
+0x75C
+武「そうかもしれないが」%K%P
+Takeshi「Listen...」%K%P
+0x768
+俺はなんとかその壁を退けようとする。%K%P
+Searching for a way to reach her.%K%P
+0x774
+武「俺は共同体のルールに則って、ここに来ただけだ」%K%P
+Takeshi「...I just came out of basic human decency.」%K%P
+0x780
+武「皆がお前の勝手を許してるわけじゃない」%K%P
+Takeshi「It's not like everyone's happy about the way you keep doing things.」%K%P
+0x78C
+武「重傷を負った仲間が、突然行方不明になったんだ……」%K%P
+Takeshi「Because my injured friend suddenly went missing, that's why...」%K%P
+0x798
+武「捜すのは当然だろーが」%K%P
+Takeshi「Of course I came looking for you.」%K%P
+0x7B4
+つぐみ「仲間？」%K%P
+Tsugumi「Friend?」%K%P
+0x7C0
+彼女の顔は、いよいよ険しくなった。%K%P
+Her expression grew more and more severe.%K%P
+0x7CC
+つぐみ「頼んだ覚えもなければ、謂れもないわ」%K%P
+Tsugumi「I didn't ask you to come, and there's no reason for you to be here.」%K%P
+0x7D8
+つぐみ「私は他のみんなとは違うの」%K%P
+Tsugumi「I'm not like the others.」%K%P
+0x7E4
+つぐみ「勝手に仲間扱いしないでくれる？」%K%P
+Tsugumi「So don't treat me like one of your gang.」%K%P
+0x800
+武「つぐみっ！！　いい加減にしろっ！！」%K%P
+Takeshi「Tsugumi! Cut it out!」%K%P
+0x80C
+俺はぶち切れた。%K%P
+I snapped.%K%P
+0x818
+拳を堅く握り締めて構える。%K%P
+I clenched my fist.%K%P
+0x824
+それをつぐみの前に素早く突き出した。%K%P
+Then I shoved it in her face.%K%P
+0x830
+けれどすんでのところで、殴らなかった……。%K%P
+But I stopped it just in front of her nose...%K%P
+0x83C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x848
+つぐみはぴくりとも動かない。%K%P
+She didn't even flinch.%K%P
+0x854
+武「ちっ……」%K%P
+Takeshi「Agh...」%K%P
+0x868
+武「ああ、そうかよ！」%K%P
+Takeshi「Alright, I get it!」%K%P
+0x874
+武「ほんとにワガママなやっちゃな、お前はっ……！」%K%P
+Takeshi「You're so unbelievably selfish...!」%K%P
+0x880
+拳を振り上げる真似でもしてやろうかと思ったが、やめた。%K%P
+I thought about pretending to raise my fist, but didn't do it.%K%P
+0x88C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x898
+もっともそんなことをしても、つぐみはぴくりとも動きそうになかった。%K%P
+Even if I did, she probably wouldn't flinch.%K%P
+0x8A4
+武「ったく……」%K%P
+Takeshi「Agh...」%K%P
+0x8B0
+武「俺だってなぁ、お前みたいな奴を仲間だとは思いたくねぇよ」%K%P
+Takeshi「Believe me, I don't want to be friends with someone like you.」%K%P
+0x8BC
+武「でもなぁ、しょうがないだろ？」%K%P
+Takeshi「But we don't have a choice.」%K%P
+0x8C8
+武「俺達は一刻も早く、脱出したいんだよ！」%K%P
+Takeshi「We all want to get out of here!」%K%P
+0x8D4
+武「つぐみだって、早くここから脱出したいだろ？」%K%P
+Takeshi「Don't you want to get out of here as soon as possible?」%K%P
+0x8E0
+武「一応同じ船に乗り合わせちまった以上は仲間なんだよ」%K%P
+Takeshi「As long as we're in the same boat, we're friends.」%K%P
+0x8EC
+武「日本では、共通の目的を持った者同士のことを仲間って呼ぶんだよ……」%K%P
+Takeshi「In Japan, people with the same goal are called friends...」%K%P
+0x8F8
+つぐみ「仲間！？」%K%P
+Tsugumi「Friends!?」%K%P
+0x90C
+つぐみ「仲間、仲間、仲間、仲間……」%K%P
+Tsugumi「Friends, friends, friends, friends...」%K%P
+0x918
+つぐみ「また、そう。あなたは……そんなことを言ってばかり」%K%P
+Tsugumi「There you go again, just saying that.」%K%P
+0x92C
+つぐみ「そういう馴れ馴れしい偽善的な関係、吐き気がするの」%K%P
+Tsugumi「That kind of tired, hypocritical crap makes me sick.」%K%P
+0x938
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x954
+つぐみの声は、あくまでも冷徹だった。%K%P
+Tsugumi's voice stayed completely cool.%K%P
+0x960
+振り上げた俺の拳は、やり場をなくしていった。%K%P
+There was no place for my raised fist to go.%K%P
+0x96C
+つぐみ「それからもうひとつ」%K%P
+Tsugumi「And one more thing.」%K%P
+0x978
+つぐみ「あなた、昨日私が言ったこと、聞いてなかったの？」%K%P
+Tsugumi「Weren't you listening to me yesterday?」%K%P
+0x98C
+つぐみ「私は脱出したいなんて、思ってないから」%K%P
+Tsugumi「I don't want to escape.」%K%P
+0x998
+つぐみ「だから、仲間なんかじゃないの」%K%P
+Tsugumi「So I'm not your 'friend'.」%K%P
+0x9AC
+つぐみ「日本でもドイツでもアメリカでも同じ」%K%P
+Tsugumi「I don't care if you're from Germany, America, or Japan.」%K%P
+0x9B8
+つぐみ「いい？」%K%P
+Tsugumi「Got it?」%K%P
+0x9CC
+つぐみ「私は・仲間じゃ・ない」%K%P
+Tsugumi「I. Am. Not. Your. Friend.」%K%P
+0x9D8
+つぐみ「だから・もう二度と・話しかけないで」%K%P
+Tsugumi「So. Do. Not. Talk. To. Me. Again.」%K%P
+0x9E4
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xA00
+拳を下ろした。%K%P
+I lowered my hand.%K%P
+0xA0C
+何も言えなかった。%K%P
+I couldn't say anything.%K%P
+0xA20
+つぐみ「……退いて」%K%P
+Tsugumi「...Move.」%K%P
+0xA2C
+俺は道を空けた。%K%P
+I moved aside.%K%P
+0xA40
+つぐみは俺に一瞥をくれると、左足を引きずりながら扉へと向かう。%K%P
+Giving me a glance, she moved toward the door dragging her foot.%K%P
+0xA4C
+まだ、ぎこちないその動きで……。%K%P
+She was moving awkwardly...%K%P
+0xA58
+左足を、未だ引きずっていながら……。%K%P
+Still dragging her left foot...%K%P
+0xA64
+左足を……。%K%P
+Left foot...%K%P
+0xA70
+――左足！？%K%P
+Left foot!?%K%P
+0xA7C
+ひだりあしだって！？%K%P
+Did I say LEFT foot!?%K%P
+0xA88
+武「お、おいおいおいおい！　ちょっと待てえっ！！」%K%P
+Takeshi「Whoah, whoah, whoah! Wait a second!」%K%P
+0xA94
+俺は力一杯呼び止めた。%K%P
+I yelled with all my might.%K%P
+0xAA8
+つぐみ「なによ！　話しかけないでって言ったでしょ！」%K%P
+Tsugumi「What!? I said don't talk to me!」%K%P
+0xAB4
+勢いよく彼女は振り向く。%K%P
+She turned around forcefully.%K%P
+0xAC0
+武「足……」%K%P
+Takeshi「Your foot...」%K%P
+0xAD4
+つぐみ「えっ？」%K%P
+Tsugumi「What?」%K%P
+0xAE0
+武「その、足……」%K%P
+Takeshi「Your foot...」%K%P
+0xAEC
+武「……大丈夫なのか？」%K%P
+Takeshi「...Is it alright?」%K%P
+0xB00
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xB0C
+武「昨日怪我したの、確か――右の腿だったよな？」%K%P
+Takeshi「The leg you hurt the other day... was your right leg, wasn't it?」%K%P
+0xB20
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xB2C
+つぐみの表情が強張るのがわかった。%K%P
+Her face stiffened.%K%P
+0xB38
+目を逸らす。%K%P
+Her eyes flicked away.%K%P
+0xB44
+視線をうつむけている。%K%P
+She averted her gaze.%K%P
+0xB50
+そのまま、立ち尽くしている。%K%P
+She stood rock still.%K%P
+0xB5C
+これは……。%K%P
+What was...%K%P
+0xB68
+どういうことだ……。%K%P
+...Going on?%K%P
+0xB74
+武「ちょっと、見せてみろよ」%K%P
+Takeshi「Let me see.」%K%P
+0xB88
+俺はすかさず、つぐみのスカートの裾に手をかけた。%K%P
+I grabbed the hem of her skirt.%K%P
+0xBA4
+そしてその手をためらうことなく高く持ち上げ、スカートを捲り――%K%P
+And without hesitating, yanked it up―%K%P
+0xBB8
+つぐみ「！！」%K%P
+Tsugumi「!」%K%P
+0xDF4
+――パシンッ！%K%P
+―Whack!%K%P
+0xE00
+直後、強烈な平手打ち……。%K%P
+An immediate, brutal slap...%K%P
+0xE0C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xE34
+駆け出すつぐみ。%K%P
+Tsugumi took off running.%K%P
+0xE40
+遠ざかるのは足音。そして影。通路の向こうへと、それは消えていく。%K%P
+The sound of her footfalls grew faint. As did her shadow, disappearing down the hallway.%K%P
+0xE4C
+そこに残るのは、呆然とする俺。%K%P
+What was left was me, stunned.%K%P
+0xE90
+頬をしたたかに打たれた。%K%P
+She had hammered my cheek.%K%P
+0xE9C
+もしかすると、歯が折れたかもしれない。%K%P
+I might have had broken teeth.%K%P
+0xEA8
+鼻血も出たかもしれない。%K%P
+I might have had a nosebleed.%K%P
+0xEB4
+脳が揺らぐほどの強打だった。%K%P
+She hit me so hard my brain rattled.%K%P
+0xEC0
+だが、その痛みさえ感じなかった……。%K%P
+But I didn't feel any pain...%K%P
+0xECC
+（右大腿骨複雑骨折）%K%P
+(Complex fracture of the right femur.)%K%P
+0xED8
+（４０針を縫う大怪我――）%K%P
+(Injuries requiring 40 stitches―)%K%P
+0xEE4
+（それがたった１日で、走れるように……？？？）%K%P
+(And she could run a day later...?)%K%P
+0xF28
+空「おかえりなさい、倉成さん」%K%P
+Sora「Welcome back, Kuranari-san.」%K%P
+0xF34
+エレベーターを降りツヴァイトシュトックに戻ると、空が出迎えてくれた。%K%P
+Sora greeted me as I stepped out of the elevator into Zweiter Stock.%K%P
+0xF40
+武「やぁ、ただいま……」%K%P
+Takeshi「Thanks.」%K%P
+0xF4C
+空「倉成さん……顔、ちょっと腫れてます……」%K%P
+Sora「Kuranari-san... your face is swollen...」%K%P
+0xF58
+武「ああ、知ってる」%K%P
+Takeshi「Yeah, I know.」%K%P
+0xF74
+救護室に寄り、空に解熱用の冷却シートを用意してもらった。%K%P
+Sora readied a compress for me back in the infirmary.%K%P
+0xF80
+それを持って部屋を出る。%K%P
+I left the room holding it.%K%P
+0xF94
+空「小町さんはもうしばらくしたら、このフロアに戻って来ます」%K%P
+Sora「It seems that Komachi-san will come back to this floor in a little while.」%K%P
+0xFA0
+空「ですけど……」%K%P
+Sora「But...」%K%P
+0xFB4
+空「もし彼女を見つけても、あまり責めたり怒ったりしないであげてください」%K%P
+Sora「But if we do find her, try not to get mad or yell at her.」%K%P
+0xFC0
+武「えっ？」%K%P
+Takeshi「Huh?」%K%P
+0xFD4
+空「少しの間、彼女の思う通りにさせておいてあげたほうが、いいと思うんです」%K%P
+Sora「For a little while, I think it is best if we let her do as she wants.」%K%P
+0xFE0
+武「そんな……どうして？」%K%P
+Takeshi「But... why?」%K%P
+0xFEC
+俺は冷却シートを貼った頬を、手で押さえていた。%K%P
+I pressed the compress to my cheek.%K%P
+0xFF8
+忘れた頃に痛み出したのだ……。%K%P
+It started to hurt right about the time I had forgotten about it...%K%P
+0x1004
+空「今の小町さんは、相当ナーバスになっているんじゃないでしょうか？」%K%P
+Sora「Don't you think she might be quite nervous right now?」%K%P
+0x1010
+空「彼女には何か、思うところがあって……」%K%P
+Sora「She's thinking about things...」%K%P
+0x101C
+空「いろいろ、胸のうちで考えていることがあって……」%K%P
+Sora「She's pondering all sorts of things in her heart...」%K%P
+0x1028
+空「今は、誰の言葉も耳に入らない……」%K%P
+Sora「Everyone's words will fall on deaf ears...」%K%P
+0x1034
+空「今はまだ、素直に聞くことができないんですよ。きっと……」%K%P
+Sora「She's not able yet to just listen. Of course...」%K%P
+0x1048
+空「怪我のことは勿論気がかりですが、しばらく、そっとしておいてあげましょう」%K%P
+Sora「You're worried about her injuries, but for a little while, let's leave her alone.」%K%P
+0x1054
+空「もし彼女の身に危険があれば、皆さんにすぐお知らせします」%K%P
+Sora「If she is in any serious danger, I will let you know right away.」%K%P
+0x1060
+空「ですから、あと少しの間だけ……お願いします、倉成さん」%K%P
+Sora「So for just a little while... Please, Kuranari-san.」%K%P
+0x106C
+武「あ、ああ……わかった」%K%P
+Takeshi「Ah... Alright.」%K%P
+0x1078
+真摯な空の言葉に、俺は頷くしかなかった。%K%P
+I nodded my assent to Sora's earnest request.%K%P
+0x1094
+ドリットシュトックへの階段を、ゆっくりと下りていく。%K%P
+I went slowly down the stairs of Dritter Stock.%K%P
+0x10A0
+俺の足音だけが、静かに響いている。%K%P
+My footsteps echoed quietly.%K%P
+0x10B4
+空「小町さんがここにいるのは、偶然ではない気がします」%K%P
+Sora「I don't think it is an accident that she came to be here.」%K%P
+0x10C0
+空は俺のすぐ横に並びながら、話を続けていた。%K%P
+Sora continued speaking right next to me.%K%P
+0x10CC
+武「偶然じゃない？」%K%P
+Takeshi「Not an accident?」%K%P
+0x10D8
+空「詳しいことは、私にはわかりません」%K%P
+Sora「I do not know the details.」%K%P
+0x10E4
+空「私は今まで、彼女のような事例に出会ったことがないんです。データがありません……」%K%P
+Sora「This is the first time for me to encounter a case like hers. I don't have any data for this...」%K%P
+0x10F0
+空「ですが、小町さんは確かに、何かしらの事情をお持ちのような気がするんです」%K%P
+Sora「But it seems to me that she has her reasons.」%K%P
+0x10FC
+空「たやすく触れることのできない事情……」%K%P
+Sora「Reasons that are difficult to explain...」%K%P
+0x1108
+空「他人には、容易には理解することのできない、何か……」%K%P
+Sora「Something that is hard for others to understand...」%K%P
+0x1114
+空「彼女が足の怪我をおしてでも、行動しなければならないほどの理由……」%K%P
+Sora「Something that compelled her to act even if it made her injuries worse...」%K%P
+0x1120
+空「それを感じるんです」%K%P
+Sora「That's what I feel.」%K%P
+0x1134
+空「先程、田中さんも同じようなことを言っていらっしゃいました」%K%P
+Sora「Earlier, Tanaka-san was saying the same thing.」%K%P
+0x1140
+武「優が？」%K%P
+Takeshi「You?」%K%P
+0x114C
+空「ええ……」%K%P
+Sora「Yes...」%K%P
+0x1158
+空「だから、あまり踏み込んではいけない。本人に話す気がないのなら、踏み込むべきではない、って……」%K%P
+Sora「That we shouldn't probe. That until she wants to tell us, we shouldn't press for information...」%K%P
+0x1164
+武「そっか……」%K%P
+Takeshi「I see...」%K%P
+0x1170
+もしかすると、俺はつぐみの領域に近づき過ぎたのだろうか。%K%P
+Maybe I had gotten a little too close to her boundaries.%K%P
+0x117C
+立ち入られたくない領域。%K%P
+Boundaries she didn't want invaded.%K%P
+0x1188
+知られたくない事情と、気持ち。%K%P
+Whatever feelings and reasons she didn't want us to know about.%K%P
+0x1194
+だから警戒され、嫌がられ、あげく殴られた……？%K%P
+Was that why I was warned, harassed, and pummeled...?%K%P
+0x11A0
+そう考えれば、自然に納得のいくところがあった。%K%P
+If I thought about it that way, it made more sense.%K%P
+0x11AC
+武「まぁ……そうだな。ちっとは俺も、自重するかな……」%K%P
+Takeshi「Well... Maybe so. Maybe I came down too hard...」%K%P

@@ -1,0 +1,969 @@
+text area offset and size:
+0x1A00
+0x3BB1
+0x60
+翌朝。%K%P
+The next morning.%K%P
+0x6C
+朝食を終えたぼくら全員は、会議室に集合した。%K%P
+After breakfast, we all gathered in the conference room.%K%P
+0x78
+いや正確には、空によって呼び出されたのだ。%K%P
+More accurately, we gathered because Sora had called us together.%K%P
+0x84
+そこには珍しく、つぐみの姿もあった。%K%P
+Tsugumi also made a rare appearance.%K%P
+0xC0
+空「皆さんにお集まりいただいたのは、他でもありません」%K%P
+Sora「There is an important reason why I've called all of you here.」%K%P
+0xCC
+空「一刻も早くお知らせしなければならないことがあったのです」%K%P
+Sora「There is something that I wanted to inform you about as soon as possible.」%K%P
+0xD8
+空「辛いでしょうが、現在の状況を正しく把握する必要があります」%K%P
+Sora「I know it is difficult, but it is important for you to accurately realize the full gravity of this situation.」%K%P
+0xE4
+空「取り乱さず、落ち着いて……心して聞いてください」%K%P
+Sora「Please don't panic, settle down... and listen carefully.」%K%P
+0xF0
+空の言葉は、そこで途切れた。%K%P
+Sora paused for a second.%K%P
+0xFC
+優・つぐみ・沙羅・武・そしてぼく……集まった５人の顔を、空は順番に確かめて行く。%K%P
+Sora looked at all five of us in turn... You, Tsugumi, Sara, Takeshi, and me.%K%P
+0x108
+会議室は静寂に包まれていた。%K%P
+The conference room was silent.%K%P
+0x114
+だがどこからか微かに、水の音が聞こえるような気がする。%K%P
+But I could hear the sound of water coming faintly from somewhere.%K%P
+0x120
+通路の床の水が、波打っているのだろうか……？%K%P
+Was it water lapping in the hallways...?%K%P
+0x12C
+しばらくするとその音は聞こえなくなった。%K%P
+Moments later, I couldn't hear it anymore.%K%P
+0x138
+それを待っていたかのように、空はゆっくりと口を開いた。%K%P
+As if Sora was waiting for that cue, she slowly opened her mouth.%K%P
+0x144
+空「現況は……芳しくありません」%K%P
+Sora「The situation... is not good.」%K%P
+0x150
+空がさっと手をかざすと、ホログラムウィンドウが現れ、宙に浮かぶ。%K%P
+Sora extended her hand, and a holographic window appeared in the space in front of us.%K%P
+0x15C
+彼女がそうするのを、久々に見た気がした。%K%P
+I felt like I hadn't seen her do that for a while.%K%P
+0x170
+空「今のところ、新たな浸水の兆候がはっきり現れている箇所はありません」%K%P
+Sora「Currently, there are no areas that show signs of new flooding.」%K%P
+0x17C
+空「昨夜のドリットシュトックの『コスミッシャー・ヴァル』浸水以来、際立った被害は出ていませんが……」%K%P
+Sora「Since the flooding of the Cosmic Whale area in Dritter Stock last night, there have been no further reports of significant damage.」%K%P
+0x188
+空「その浸水によって、ＬｅＭＵを支える支柱への負担は増大しました」%K%P
+Sora「The burden being placed on LeMU's support columns has increased due to the flooding.」%K%P
+0x194
+空「フロア間の歪みは大きくなりつつあります」%K%P
+Sora「The structural distortion between floors is increasing.」%K%P
+0x1A0
+空「このまま行くと、ＬｅＭＵはやがて平衡バランスを崩し、大きく傾くことになるでしょう」%K%P
+Sora「If this continues, LeMU will eventually lose its equilibrium and tilt dramatically.」%K%P
+0x1AC
+空「フロア区画の連結部への損傷が重なれば、健在な区画にも各種パイプなどを通して水が浸入してくる可能性があります」%K%P
+Sora「If the damage to the areas connecting the floors of different sectors increases, there is the possibility that pipe leaks could flood the dry sectors.」%K%P
+0x1B8
+空「つまり……油断のならない状況となっています」%K%P
+Sora「In other words... we can't afford to be careless. Things are critical.」%K%P
+0x1C4
+空「以前、お伝えしたと思いますが……」%K%P
+Sora「I think that I told you this before...」%K%P
+0x1D0
+空「ＬｅＭＵの完全圧潰推定時刻は『５月７日午前４時３０分前後』となっています」%K%P
+Sora「Implosion of LeMU is estimated to occur at 4:30 a.m. on May 7th.」%K%P
+0x1DC
+空「推定誤差は±１２時間程度です」%K%P
+Sora「The calculation has a margin of error of plus or minus twelve hours.」%K%P
+0x1E8
+空「この推定数値には、今のところ大きな変更はかかっていません」%K%P
+Sora「There has been no significant change in this prediction.」%K%P
+0x1F4
+空「隔壁強度は、一部において既に、限界を超えつつあるのです」%K%P
+Sora「In one area, the strength limits of partitions have already been exceeded.」%K%P
+0x200
+空「崩壊は段階的に、少しずつ、しかし確実に起こります」%K%P
+Sora「The destruction of LeMU will be gradual, but it will inevitably and steadily occur.」%K%P
+0x20C
+空「それはもう……時間の問題です」%K%P
+Sora「It is... only a matter of time.」%K%P
+0x220
+淡々と無感情に、空の状況報告は行われている。%K%P
+Sora told all of us that with a calm look on her face.%K%P
+0x22C
+ぼくらは皆、固唾を飲んで聞いていた。%K%P
+We all swallowed and held our breath as we listened.%K%P
+0x238
+タイムリミットはそこまで迫っている。%K%P
+We knew we were reaching our time limit.%K%P
+0x244
+実感せざるを得ない。%K%P
+We had no choice but to accept that reality.%K%P
+0x250
+そこから目を背けることはできないだろう。%K%P
+There was no avoiding the situation.%K%P
+0x264
+空「現在、発電施設は順調に稼動しています」%K%P
+Sora「Presently, the power generator is functioning normally.」%K%P
+0x270
+空「ですが万が一、発電機が停止してしまった場合は……非常電源、蓄電池を使用します」%K%P
+Sora「However, if by chance there is a blackout... we will switch to the emergency power source battery.」%K%P
+0x27C
+空「通常は非常灯の点灯とシステムの保持に使われている程度のものですが、……２時間くらいは持つものと思います」%K%P
+Sora「This is generally meant for supporting the emergency lighting and the maintenance on LeMU's system... It should last for about two hours.」%K%P
+0x288
+淡々と語る空に、こちらも緊迫感を覚える。%K%P
+Sora's matter-of-fact way of speaking only raised the tension in our minds.%K%P
+0x294
+武も、沙羅も、つぐみも。%K%P
+For Takeshi, Sara, and Tsugumi.%K%P
+0x2A0
+そして、優も。%K%P
+And for You.%K%P
+0x2AC
+昨夜の優の姿が、目から焼きついて離れない。%K%P
+I couldn't get the image of You, burned into my brain the night before, out of my mind.%K%P
+0x2B8
+あのくちびるの感触が、今もそこにあるような気がしてならない。%K%P
+I still felt as if our lips were touching.%K%P
+0x2C4
+今朝から、ぼくは優と目を合わせていない。%K%P
+From the morning, You and I had avoided one another's eyes.%K%P
+0x2D0
+言葉を交わしたかどうかですら危うい。%K%P
+I wasn't sure if we had even exchanged words.%K%P
+0x2DC
+真っ直ぐに、前を見据えている優。%K%P
+You looked straight ahead.%K%P
+0x2E8
+ぼくは今、他の何よりも、優のことを『意識』していた。%K%P
+I was more conscious of You than of anything else.%K%P
+0x2F4
+これからぼくは、どう彼女と接すればいいのか。%K%P
+I didn't know how I should act around her from then on.%K%P
+0x300
+いや、しかし……%K%P
+But...%K%P
+0x30C
+今はそればかりを気にしていられない。%K%P
+I had other things to worry about.%K%P
+0x318
+話の続きに、耳を傾ける。%K%P
+I turned back to the situation at hand, listening carefully to Sora's report.%K%P
+0x324
+空「旧来の通信回路については、依然不通」%K%P
+Sora「The normal communication channels are still not functioning.」%K%P
+0x330
+空「脱出方法も見つかっていません」%K%P
+Sora「Nor have I found an escape route.」%K%P
+0x33C
+空「ですが……」%K%P
+Sora「However...」%K%P
+0x348
+空「館内レミシステムは全力をあげて、皆さんの生命維持を最優先事項とし、その為の環境保全に努めます」%K%P
+Sora「I have made protecting you my top priority, and LeMMIH is devoting all of its resources to that objective.」%K%P
+0x354
+空「また、館外で操作可能なセンサー、ライト、マニピュレーターなどを総動員し……」%K%P
+Sora「I am also using all sensors, lights, manipulators, and means at my disposal outside of the complex...」%K%P
+0x360
+空「それらを使っての、光波・電波・音波による通信の送受信の可能性を、改めて検証中です」%K%P
+Sora「And I am still investigating whether there are any means of communicating with the outside using light, radio, or sound.」%K%P
+0x36C
+空は顔をあげ、姿勢を正して、ぼくらを静かに見つめ直した。%K%P
+Sora nodded her head, straightened her back, and surveyed the room. We were all silent.%K%P
+0x378
+その眼差しには、決意のようなものがこもっていた。%K%P
+There was a look of determination in her eyes.%K%P
+0x384
+空「言わせてもらいますと……」%K%P
+Sora「Let me say one thing more...」%K%P
+0x390
+空「これは……意地です。私、茜ヶ崎空の、意地……」%K%P
+Sora「That... as long as I, Akanegasaki Sora, exist...」%K%P
+0x39C
+空「できることは僅かですが、皆さんがここにいられる限り……」%K%P
+Sora「And while my powers are limited, as long as you are here...」%K%P
+0x3A8
+空「皆さんがここから無事脱出する為のあらゆる手段、方法を私は考え、試したいと思っています」%K%P
+Sora「I will do my utmost to find a way for you to escape to safety.」%K%P
+0x3B4
+空「あとしばらくの間、宜しくお付き合いの程、お願い致します」%K%P
+Sora「We do not have much longer together, but I, Akanegasaki Sora, am at your service.」%K%P
+0x3C0
+深々と頭を下げ、彼女は一礼する。%K%P
+She concluded with a serious nod.%K%P
+0x3CC
+ぼくらもしっかりと深く頷いた。%K%P
+We also nodded in agreement.%K%P
+0x3E0
+空「助けは必ず来ます……信じて待ちましょう」%K%P
+Sora「We must wait... and believe that help is on its way.」%K%P
+0x3EC
+ふっと表情を崩し、空は微笑んでみせる。%K%P
+Sora's serious expression gave way to a smile.%K%P
+0x3F8
+空「皆さんが無事救出されることをお祈りします」%K%P
+Sora「Everyone, let's pray for a safe rescue.」%K%P
+0x404
+先程までの陰鬱な空気は薄れつつあり、皆これからの時間をどう使うべきか、考えを巡らせ始めた。%K%P
+The gloomy atmosphere that had been hanging over the gathering lightened, and everyone started thinking about how they should spend their time.%K%P
+0x410
+空の笑顔に、誰もが勇気づけられる。%K%P
+Sora's smile instilled everyone with courage.%K%P
+0x41C
+このときばかりは、彼女が冷静に、人工知能としての機能に徹したことを、ありがたく思った……。%K%P
+I was grateful for that piece of code in Sora's program, the function that allowed her to be calm in times of trouble...%K%P
+0x450
+空「それでは、一旦は解散としましょう」%K%P
+Sora「Now, let's end this meeting.」%K%P
+0x45C
+空「何か事実が掴めるまで、各自、自由に行動してください」%K%P
+Sora「Until there is new information available, please do what you will.」%K%P
+0x468
+空「ただし、何かを発見した場合は、即座にレミを通じて私に知らせる、ということで……」%K%P
+Sora「However, if you do discover anything, please inform me immediately via LeMMIH...」%K%P
+0x484
+つぐみ「空、ちょっといい？」%K%P
+Tsugumi「Excuse me, Sora?」%K%P
+0x490
+空「あっ、はい。小町さん……なんでしょうか？」%K%P
+Sora「Ah yes, Komachi-san... What is on your mind?」%K%P
+0x49C
+突然つぐみが、空の前に立った。%K%P
+Tsugumi suddenly stood in front of Sora.%K%P
+0x4A8
+彼女はどことなく、強張った笑みを浮かべていた。%K%P
+Her smile seemed just a little forced.%K%P
+0x4B4
+つぐみ「話があるの。ふたりで、話したいんだけど……」%K%P
+Tsugumi「There's something I want to talk with you about. Alone...」%K%P
+0x4C0
+空「ふたりきりで、ですか？」%K%P
+Sora「In private?」%K%P
+0x4CC
+つぐみ「ええ……お願い」%K%P
+Tsugumi「Yes... please.」%K%P
+0x4D8
+つぐみ「実は脱出について、あなたにひとつ提案があるのよ」%K%P
+Tsugumi「Actually, I have a proposal, an idea of how to escape from here.」%K%P
+0x4E4
+空「えっ、本当ですか？　何か、いい方法が？」%K%P
+Sora「Yes, really? Have you come up with a good method?」%K%P
+0x4F0
+つぐみ「そうよ。あなたも知らない、私だけが知っている方法」%K%P
+Tsugumi「Yeah. One that you don't know. Only I know about it.」%K%P
+0x4FC
+つぐみ「聞いたところによれば、あなた、自律行動のプライオリティを入れ替えてもらったそうね？　沙羅に」%K%P
+Tsugumi「I heard from Sara that your operating priorities have been changed.」%K%P
+0x508
+つぐみ「レミに、ライプリヒに対する守秘義務意識は、以前ほど強固なものではない」%K%P
+Tsugumi「That you're not as stubborn about protecting Leiblich as before.」%K%P
+0x514
+空「は、はい……それが何か？」%K%P
+Sora「Y-yes... and what about it?」%K%P
+0x520
+つぐみ「今のあなたなら、私に協力できるかもしれない」%K%P
+Tsugumi「Maybe you can work with me now.」%K%P
+0x548
+武「え？　……お、おいっ、ちょっと待てよつぐみ。空も……」%K%P
+Takeshi「Huh...? Hey, Tsugumi, hold on. Sora is...」%K%P
+0x554
+つぐみ「あなたは黙ってて」%K%P
+Tsugumi「Shut up, you.」%K%P
+0x560
+武の口を塞ぐように、つぐみは手をかざした。%K%P
+Tsugumi held up her hand as if silencing Takeshi.%K%P
+0x574
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x580
+つぐみ「私は空と、ふたりだけで話したいの」%K%P
+Tsugumi「I want to speak to Sora. Alone.」%K%P
+0x594
+つぐみ「構わないでしょう？」%K%P
+Tsugumi「Surely you don't mind?」%K%P
+0x5A0
+空「……はい。わかりました。では、中央制御室で」%K%P
+Sora「...Of course. Then we will speak in the central control room.」%K%P
+0x5AC
+つぐみ「そうね。行きましょうか」%K%P
+Tsugumi「Alright. Let's go then.」%K%P
+0x5C8
+ふたりとも真剣な顔をして、連れ立って出口へと向かう。%K%P
+With serious looks on their faces, the two of them headed out of the room.%K%P
+0x5D4
+武「おい待てよ！　ふたりとも！　勝手なことすんな！」%K%P
+Takeshi「Hey, wait, you two! What about us!?」%K%P
+0x5E0
+武「そんな大事な話なら、むしろここでっ」%K%P
+Takeshi「If it's important, then we should talk about it here.」%K%P
+0x5FC
+振り向いて、つぐみは武を睨んだ。%K%P
+Tsugumi glared back at Takeshi.%K%P
+0x608
+冷たく凍るような目つきだった。%K%P
+Her eyes were like ice.%K%P
+0x614
+つぐみ「黙っててって、言ったでしょ？」%K%P
+Tsugumi「I told you to shut up, didn't I?」%K%P
+0x628
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x63C
+再び武に背を向け、つぐみは空と一緒に、会議室から出て行った。%K%P
+She turned her back on Takeshi again, and she and Sora left the conference room.%K%P
+0x648
+辺りは急に静かになる。%K%P
+The room suddenly fell silent.%K%P
+0x65C
+武「なんだよ」%K%P
+Takeshi「What the hell.」%K%P
+0x668
+武「なんだってんだよ……」%K%P
+Takeshi「What the hell is going on here...?」%K%P
+0x67C
+………………………………。%K%P
+...................%K%P
+0x688
+残されたぼくらは、ひとまず会議室のホログラムを睨みながら作戦会議、ということで落ち着いた。%K%P
+Those of us left stared at the hologram in the conference room and settled down to plotting a strategy to save ourselves.%K%P
+0x694
+ぼく・優・沙羅・武の４人は、テーブルを囲む。%K%P
+The four of us (You, Sara, Takeshi, and I) gathered around the table.%K%P
+0x6BC
+まず、事実の再確認をする。%K%N
+We reviewed the facts as we knew them.%K%N
+0x6C8
+ＬｅＭＵから地上に出るための手段はふたつある。%K%N
+There were two ways to get to the surface from LeMU.%K%N
+0x6D4
+１：ハウプト・プラッツ（中央広場）のエレベーターを使用する。%K%N
+1. Use the elevator in the central area.%K%N
+0x6E0
+２：館内に１２箇所設置されている非常階段を登る。%K%O
+2. Climb one of the complex's twelve sets of emergency stairs.%K%O
+0x6F8
+ハウプト・プラッツは全フロア完全浸水。%K%N
+The central area floor was completely flooded.%K%N
+0x704
+例えエレベーターまで辿り着けたとしても、エレベーターを動かすことはできない。%K%N
+Even if we could get to the elevator, we couldn't be certain that it would move.%K%N
+0x710
+（なお、この原因は未だ不明）%K%N
+We still didn't know the cause of that either.%K%N
+0x71C
+非常階段も、２階より上の部分は水に満たされてしまっており、通行は不可能となっている。%K%O
+The emergency stairs were also filled with water from the second floor, so they were impassable.%K%O
+0x734
+館内の水を排水する手段は、現状のところひとつしか考えられない。%K%N
+There was only one method that could be used to remove the floodwater.%K%N
+0x740
+――浮島にある高圧力送風機で館内に高圧ガスを送り込み、圧力によって水を排水する。%K%N
+That was to use the high-pressure fan to pump the complex full of high-pressure gases and purge it of seawater.%K%N
+0x74C
+しかし、送風機はＬｅＭＵの側からは動作させることができない。%K%N
+But at that moment, we weren't able to operate the fan from inside LeMU.%K%N
+0x758
+（エレベーターと同じように、原因は不明）%K%O
+And like the elevators, we still had no idea why.%K%O
+0x770
+内部から動かせなければ、外部から動かせばよい。%K%N
+If we couldn't start it from the inside, then it could be started from the outside.%K%N
+0x77C
+が、その外部への通信方法は、その一切が閉ざされている状況だった。%K%N
+But all communication channels to the outside had been cut off.%K%N
+0x788
+まさか、泳いで脱出するわけにもいかない。%K%N
+And swimming our way to freedom was out of the question.%K%N
+0x794
+水圧やらの諸問題を考えれば、それこそ自殺行為だ。%K%O
+The water pressure and other problems made that suicidal.%K%O
+0x7AC
+あと残された道は……自力で脱出できないのならば……外からの救助に頼るしかない。%K%N
+And if we couldn't find a way out on our own... then we'd have to rely on rescue efforts from outside.%K%N
+0x7B8
+けれど、もはやそんなものは、まったく期待できなかった。%K%N
+But that was something we couldn't depend upon.%K%N
+0x7C4
+外部への連絡は不可能なわけだし、この５日間、そんな兆候は見られなかったのだ。%K%N
+We hadn't been able to communicate with the outside for the five days since we'd been trapped, and there were no signs help was coming.%K%N
+0x7D0
+そんな奇蹟を願うような手段は、除外して考えなければならない。%K%N
+So, we knew that we had to exclude a miracle rescue from our options.%K%N
+0x7DC
+いや、そもそも……%K%O
+No... From the beginning...%K%O
+0x7F4
+ぼくらがここに閉じこめられている事実は、とうの昔に発覚済みのはずなのだ。%K%N
+We had reconciled ourselves with the facts of our situation long before.%K%N
+0x800
+それでもなお、救助も連絡も、その片鱗さえもないということは、何かしらの理由で館内に近づくことができないのか、%K%N
+We figured that since there had been no contact or rescue, not even the slightest sign, maybe there was a reason people couldn't get near LeMU.%K%N
+0x80C
+あるいは……%K%N
+Or...%K%N
+0x818
+ぼくらを意図的に閉じこめているのか、だ。%K%N
+Maybe someone had intentionally sealed us in.%K%N
+0x824
+さて、これらから導き出される対応策は、以下の３つだ。%K%O
+So, we came up with three steps we should focus on.%K%O
+0x83C
+Ａ：外部への通信手段をなんとか復旧する。%K%N
+A. Restoring communications with the outside.%K%N
+0x848
+ただし、外部の人間がぼくらに対して協力の意志がある場合に限り、である。%K%O
+But that was only relevant if the people on the outside were willing to cooperate.%K%O
+0x860
+Ｂ：高圧力送風機を使用する以外の、排水手段を見つける。%K%N
+B. Find another way to drain the water from the complex other than the high-pressure fan.%K%N
+0x86C
+ただし、空いわく、『他の方法など、ありえない』、そうだ。%K%O
+But according to Sora, there was no other way to do that.%K%O
+0x884
+Ｃ：エレベーター・非常階段以外の、脱出経路――例えば潜水艇とか――を見つける。%K%N
+C. Find an escape route other than the elevator or emergency stairs, like maybe a submarine.%K%N
+0x890
+ただし、空が知る限り、もうＬｅＭＵには残されていない、らしい。%K%N
+But according to Sora's information, there were no longer any left at LeMU.%K%N
+0x89C
+１日の避難の際に、すべて出払ってしまったということだ。%K%O
+She had said that they all had been used during the evacuation on May 1st.%K%O
+0x8B4
+%N
+
+0x8C0
+%LC最終結論――『現時点では、脱出の望み無し』%K%O
+%LCFinal conclusion― 'Current prognosis for escape: hopeless.'%K%O
+0x8D8
+だが、たったひとつだけ。%K%N
+But there was one thing.%K%N
+0x8E4
+つぐみの言っていた、つぐみだけが知っているという脱出方法。%K%N
+Tsugumi had said that there was an escape method that only she knew about.%K%N
+0x8F0
+もしそれが、実現可能なものであれば……%K%N
+If it did in fact exist...%K%N
+0x8FC
+６人が揃って脱出できる方法であるのなら……%K%N
+And there was a way that all six of us could escape...%K%N
+0x908
+それはまさに、最後の希望、だと言えた。%K%O
+Then that would be our only hope.%K%O
+0x954
+優「う〜〜〜〜〜〜〜ん！」%K%P
+You「Right!」%K%P
+0x960
+武「結局のところ、俺達には、打つ手無しってことか」%K%P
+Takeshi「There's really nothing we can do.」%K%P
+0x96C
+沙羅「つぐみと空の報告を待つしかないね」%K%P
+Sara「We'll just have to wait for a report from Tsugumi and Sora.」%K%P
+0x978
+少年「…………」%K%P
+Kid「.........」%K%P
+0x98C
+武「にしても、つぐみの奴、おせぇーなぁ」%K%P
+Takeshi「Yeah, but Tsugumi hasn't even come back yet.」%K%P
+0x9A0
+優「うん……いくらなんでも遅すぎるよね」%K%P
+You「Hmm... She is kind of taking a long time...」%K%P
+0x9AC
+沙羅「何かあったんでしょうかね？」%K%P
+Sara「Maybe there's a reason.」%K%P
+0x9B8
+少年「…………」%K%P
+Kid「.........」%K%P
+0x9C4
+武「う〜〜〜ん」%K%P
+Takeshi「Maybe.」%K%P
+0x9D0
+少年「ねえ、ぼくが行って様子を見てこようか？」%K%P
+Kid「Hey, should I go see how things are going?」%K%P
+0x9E4
+武「え？　え〜と……」%K%P
+Takeshi「Huh? Uh...」%K%P
+0x9F0
+武「ああ、そうだな、よろしく頼む」%K%P
+Takeshi「Yeah. You go do that.」%K%P
+0x9FC
+沙羅「ひとりで大丈夫？」%K%P
+Sara「You're okay alone?」%K%P
+0xA08
+少年「うん、平気だよ。ちょっと覗いてくるだけだから」%K%P
+Kid「Yeah, fine. I'll just go take a peek.」%K%P
+0xA34
+そう言って、ぼくは会議室を出た。%K%P
+With that, I left the conference room.%K%P
+0xA84
+制御室へと向かって通路を進む。%K%P
+I headed down the corridor to the control room.%K%P
+0xA90
+もはや今の状況のままでは、いくら悩んでも解決策など見出せはしない。%K%P
+With the situation the way it was, we weren't going to find a solution no matter how much we worried about it.%K%P
+0xA9C
+そう判断できた。%K%P
+That was clear.%K%P
+0xAA8
+ならば、状況を変えていかなければならない。%K%P
+So, we would have to take control of the situation.%K%P
+0xAB4
+そのためには、どうしたらいいのか？%K%P
+But how could we do that?%K%P
+0xAC0
+考えるのではなく、行動するのだ。%K%P
+We couldn't just rely on thinking. We needed to act.%K%P
+0xACC
+その行動のための第一歩を、つぐみと空が握っている。%K%P
+The key to the first step down that path was in the hands of Tsugumi and Sora.%K%P
+0xAD8
+ぼくは、そう信じていた。%K%P
+That was what I believed.%K%P
+0xAEC
+制御室の前に辿り着く。%K%P
+I arrived in front of the control room.%K%P
+0xAF8
+インターホンを押すが、反応はない。%K%P
+I pushed the intercom buzzer, but there was no answer.%K%P
+0xB04
+やむを得ず、ドアを開ける。%K%P
+My only choice was to open the door.%K%P
+0xB84
+ドアを開けると、つぐみの怒声が響いてきた。%K%P
+When I did, I heard Tsugumi shouting.%K%P
+0xB90
+つぐみ「なんべんも、同じことを言わせないで！」%K%P
+Tsugumi「Don't make me keep repeating the same thing!」%K%P
+0xB9C
+つぐみと空、ふたりはまさに、掴み合わんばかりの言い合いをしている最中だった。%K%P
+Tsugumi and Sora were in the middle of an argument so intense that it seemed they might start going at it hand-to-hand.%K%P
+0xBA8
+互いに一歩も引かず、激しく睨み合っている。%K%P
+Neither one would budge. They just glared at one another.%K%P
+0xBB4
+恐らく、数分前からこの状態なのだろう。部屋の空気は、びりびりと張り詰めている。%K%P
+It looked as though they had been fighting for several minutes. The room was filled with tension.%K%P
+0xBC0
+ふたりは一瞬だけぼくに目を向けたが、すぐに口論を再開する。%K%P
+The two glanced at me for only an instant before launching back into their argument.%K%P
+0xBD4
+空「ですから、先ほどから申し上げているとおり、そのような場所など存在しないのです！」%K%P
+Sora「Like I've been telling you, that place just does not exist!」%K%P
+0xBE0
+つぐみ「ねえ、空？　お願いだから、これ以上、私を怒らせないで」%K%P
+Tsugumi「Sora, please don't make me any angrier.」%K%P
+0xBEC
+つぐみ「他の連中は騙せても、私に嘘は通じないの」%K%P
+Tsugumi「You might be able to trick the others, but lies won't work on me.」%K%P
+0xBF8
+空「嘘ではありません！」%K%P
+Sora「It's not a lie!」%K%P
+0xC04
+つぐみ「まだ言う気っ！」%K%P
+Tsugumi「You still sticking to that line?」%K%P
+0xC18
+――いけない！%K%P
+It was a bad scene.%K%P
+0xC24
+ぼくは本能的に危険を感じた。%K%P
+Something about the whole thing screamed danger.%K%P
+0xC30
+このままふたりを争わせてはいけない。%K%P
+It wouldn't do to let the two go at it like that.%K%P
+0xC3C
+ぼくはきびすを返し、急いで会議室へと戻っていった。%K%P
+I retraced my steps, hurrying to the conference room.%K%P
+0xC78
+少年「みんな、大変だ！！」%K%P
+Kid「Everyone! We've got trouble!」%K%P
+0xC84
+ぼくはドアが開ききるのも待たずに、部屋の中へと飛び込んだ。%K%P
+Without waiting for the door to completely open, I bounded into the room.%K%P
+0xC98
+武「お？　早かったな……」%K%P
+Takeshi「Huh? That was quick...」%K%P
+0xCA4
+武「って、ただ事じゃないみたいだな？」%K%P
+Takeshi「Sounds like something big is going down.」%K%P
+0xCB0
+優「大変って、どういうこと？」%K%P
+You「Trouble? What kind of trouble?」%K%P
+0xCBC
+少年「い、いいから、来て！　止めなきゃ！」%K%P
+Kid「C-come on! We've gotta go and stop it!」%K%P
+0xCC8
+ぜいぜいと息を切らしながら、ぼくは言う。%K%P
+I told them that as I struggled to get my breath back.%K%P
+0xCDC
+武「止める？　おい、ちゃんと説明してくれ」%K%P
+Takeshi「Stop what? Hey, explain what's going on.」%K%P
+0xCE8
+沙羅「な、何があったの？」%K%P
+Sara「Wh-what happened?」%K%P
+0xCF4
+少年「中央制御室……！」%K%P
+Kid「The central control room...!」%K%P
+0xD00
+少年「空とつぐみ……」%K%P
+Kid「Sora and Tsugumi...」%K%P
+0xD0C
+少年「ひどい口論に、なってて……！！」%K%P
+Kid「...I found them fighting!」%K%P
+0xD18
+武「！！」%K%P
+Takeshi「!」%K%P
+0xD24
+少年「ぼく、見てらんなくて、それで……」%K%P
+Kid「I just couldn't watch, so I...」%K%P
+0xD38
+優「マズいね……こんなときにっ」%K%P
+You「This is bad news... at a time like this.」%K%P
+0xD4C
+沙羅「い、行こう！　止めようよっ！」%K%P
+Sara「L-let's go! We've got to stop them!」%K%P
+0xD60
+武「あ、ああ！　早いとこ行くぞ！」%K%P
+Takeshi「Y-yeah! We'd better hurry!」%K%P
+0xDA4
+部屋になだれ込むぼくら。%K%P
+We burst into the room.%K%P
+0xDB0
+激しいにらみ合いと、鋭利な言葉のぶつけ合い。%K%P
+The room was full of sharp words and barbed looks.%K%P
+0xDBC
+張りつめた空気、口の中に広がる嫌な味。%K%P
+The atmosphere was tense. It left a bad taste in my mouth.%K%P
+0xDC8
+先ほどから、状況は少しも変わっていない。%K%P
+Nothing had changed at all.%K%P
+0xDD4
+いやむしろ、より悪化している、と言った方が正しいのかもしれない。%K%P
+It might be safer to say that things had gotten worse.%K%P
+0xDE8
+空「ドリットシュトックの下に、フロアはありません。降りることはできないんです」%K%P
+Sora「There aren't any floors underneath Dritter Stock. We can't go down any farther.」%K%P
+0xDF4
+つぐみ「嘘……」%K%P
+Tsugumi「Liar...」%K%P
+0xE00
+つぐみ「あなたは嘘をついている」%K%P
+Tsugumi「You're lying.」%K%P
+0xE0C
+つぐみ「私にはわかっている……ううん、私は知っているの」%K%P
+Tsugumi「I know... Oh, how I know.」%K%P
+0xE18
+つぐみ「ＬｅＭＵにはさらに下の階があるって」%K%P
+Tsugumi「There is another floor under LeMU. 」%K%P
+0xE24
+つぐみ「ううん、ＬｅＭＵとは別の施設……それがこの真下にあるの。ずーっと下のほうによ」%K%P
+Tsugumi「No, there's another facility other than LeMU... and it's right below us. Really far down.」%K%P
+0xE30
+つぐみ「ね、そうでしょう？」%K%P
+Tsugumi「I'm right, aren't I?」%K%P
+0xE3C
+空「…………」%K%P
+Sora「.........」%K%P
+0xE48
+空「その問いには……こうお答えするしかありません」%K%P
+Sora「There is only one answer... to your question.」%K%P
+0xE54
+空「そんな施設など、存在しません、と」%K%P
+Sora「No such facilities exist.」%K%P
+0xE60
+つぐみ「そんなはずはないでしょ！」%K%P
+Tsugumi「There have to be!」%K%P
+0xE6C
+つぐみ「じゃあ、あの部屋は何！？」%K%P
+Tsugumi「Then what about that room!?」%K%P
+0xE78
+つぐみ「あのヒンメルは、一体なんなのよ！！」%K%P
+Tsugumi「What is that Himmel about!?」%K%P
+0xED0
+……？%K%P
+...?%K%P
+0xEDC
+ヒンメル？%K%P
+Himmel?%K%P
+0xEE8
+なんとなく聞き覚えが……いや、見た覚えがあるはずだった。%K%P
+I thought I had heard... No, I had seen it before.%K%P
+0xEF4
+部屋の名前……？%K%P
+The name of a room...?%K%P
+0xF90
+（……どこで見たんだっけ……？）%K%P
+(...Where have I seen it...?)%K%P
+0xF9C
+が、その記憶は曖昧で、ぼくは情報のリンク先を見つけることが出来なかった。%K%P
+But my memory was vague; I couldn't connect the name with any information in my brain.%K%P
+0xFD4
+つぐみ「いい？　あなたは知らないだろうけど、あの扉は今日っ」%K%P
+Tsugumi「Listen. You don't know about it, but today the door is...」%K%P
+0xFF0
+武「おいっ！　つぐみ！！」%K%P
+Takeshi「Hey! Tsugumi!」%K%P
+0xFFC
+突然、ふたりの間に武が介入した。%K%P
+Suddenly, Takeshi got between them.%K%P
+0x1008
+武「つぐみ……その話、俺にも聞かせてもらおうか」%K%P
+Takeshi「Tsugumi... Why don't you tell me about that?」%K%P
+0x1014
+つぐみ「………………」%K%P
+Tsugumi「.........」%K%P
+0x1020
+空「………………」%K%P
+Sora「.........」%K%P
+0x102C
+武「ここまで聞いちまったんだ、もう隠し事も何もないだろう？」%K%P
+Takeshi「If we've all heard this much, you can't have anything more to hide, right?」%K%P
+0x1038
+つぐみをじっと見つめる武。%K%P
+Takeshi stared intently at Tsugumi.%K%P
+0x104C
+つぐみ「……ふん」%K%P
+Tsugumi「...Hmph.」%K%P
+0x1060
+武は振り返り、言った。%K%P
+Takeshi turned back to us.%K%P
+0x1074
+武「なあ、悪いんだけど……」%K%P
+Takeshi「Hey, if you don't mind...」%K%P
+0x1080
+武「ここは、俺に任せてくれないか」%K%P
+Takeshi「I'll take care of this.」%K%P
+0x108C
+少年「え？？」%K%P
+Kid「Huh?」%K%P
+0x1098
+優「なに、それ……？」%K%P
+You「What...?」%K%P
+0x10A4
+沙羅「私達は、出て行けってこと？」%K%P
+Sara「Are you telling us to leave?」%K%P
+0x10B0
+武「ああ、大人数であれこれ言い合っても、収拾がつかなくなるだけだろ？」%K%P
+Takeshi「Yeah. With this many people arguing, nothing'll get settled.」%K%P
+0x10BC
+武「だから、ここは……俺と空とつぐみに、任せてくれ」%K%P
+Takeshi「So... just leave this to me, Sora, and Tsugumi.」%K%P
+0x10C8
+武「しばらく、３人だけにしてくれ」%K%P
+Takeshi「Leave us alone for a bit.」%K%P
+0x10D4
+少年「…………」%K%P
+Kid「.........」%K%P
+0x10E0
+優「…………」%K%P
+You「.........」%K%P
+0x10EC
+沙羅「…………」%K%P
+Sara「.........」%K%P
+0x10F8
+少年「わかったよ……武に任せる」%K%P
+Kid「Alright... Let's leave this to Takeshi.」%K%P
+0x110C
+沙羅「しょ、少年？」%K%P
+Sara「K-Kid?」%K%P
+0x1118
+沙羅「なんで、そんな重要な話し合いで、私達だけがのけ者にならなきゃいけないわけ？」%K%P
+Sara「Why should the three of us be excluded from such an important discussion?」%K%P
+0x1124
+少年「ぼくは武を信頼してるんだ」%K%P
+Kid「I trust Takeshi.」%K%P
+0x1130
+少年「そして、武はぼくらを信頼してくれてる」%K%P
+Kid「And Takeshi has trust in us.」%K%P
+0x1144
+沙羅「…………」%K%P
+Sara「.........」%K%P
+0x1150
+少年「武には武の考えがあるんだよ」%K%P
+Kid「Takeshi has his own take on things.」%K%P
+0x115C
+少年「だからぼくは、武の考えに従おうと思う」%K%P
+Kid「And I think we should go with what he thinks.」%K%P
+0x1170
+武「サンキュー、少年。すまんな……」%K%P
+Takeshi「Thanks, Kid...」%K%P
+0x1184
+優「しょうがないなぁ……じゃあ、倉成、あんたに任せるからね？」%K%P
+You「Oh, whatever... Fine, Kuranari, we'll leave it up to you, okay?」%K%P
+0x1190
+武「ああ、わかった」%K%P
+Takeshi「Alright. I got it.」%K%P
+0x11C0
+ぼくらは３人を残し、制御室をあとにした。%K%P
+We left the three of them in the control room.%K%P
+0x11D8
+そのあと、ぼくらは別々に行動することにした。%K%P
+After that, we decided to take some action of our own.%K%P
+0x11E4
+完全圧潰推定時刻は、刻々と近づいている。%K%P
+The estimated time until LeMU's implosion was steadily approaching.%K%P
+0x11F0
+一応のため、館内の状況をこの目で確認しておこうということになった。%K%P
+We decided to run a visual check of the complex to see how everything was.%K%P
+0x11FC
+むろん、すでにレミの方で確認済みなのだから、意味のない行動ではあった。%K%P
+Of course, LeMMIH had already checked everything, so it was a meaningless action.%K%P
+0x1208
+ただ、何かしていなければ、気が休まらなかったのだ。%K%P
+But we felt that we had to do something.%K%P
+0x124C
+クジラ部屋に近い通路に、ぼくはいる。%K%P
+I took the corridor near the Cosmic Whale room.%K%P
+0x1258
+いや、かつて近かった、というべきだろうか。%K%P
+Rather, near what remained of it.%K%P
+0x1264
+コスミッシャー・ヴァル――宇宙クジラの部屋は、すでに水の中だ。%K%P
+The Cosmic Whale room was already filled with water.%K%P
+0x1270
+ぼくがこの中で見かけた少女は何者だったのだろうか？　どこへ行ったのだろうか？%K%P
+I wondered what the girl I had seen around here was? Where had she gone?%K%P
+0x127C
+あの、寂しげな童謡を歌っていた彼女は？%K%P
+Who was the girl singing that lonely children's song?%K%P
+0x1288
+幽霊なのか、それとも？%K%P
+Was she a ghost or something else?%K%P
+0x1294
+そんなことを考えていた矢先……%K%P
+Just as I was thinking that...%K%P
+0x12A0
+少年「うっ……！」%K%P
+Kid「Uggghh...!」%K%P
+0x12AC
+突然、ひどい目眩に襲われた。%K%P
+Suddenly, I was hit with a bout of dizziness.%K%P
+0x12B8
+視界が歪み、立っていられなくなる。%K%P
+My vision contorted, and I couldn't stand.%K%P
+0x12C4
+壁にもたれ掛かり、そのままズリズリとしゃがみ込む。%K%P
+I leaned against a wall and slowly crouched on the floor.%K%P
+0x12D0
+頭がボーッとする。%K%P
+I was unable to focus my mind.%K%P
+0x12DC
+寒い……%K%P
+I felt cold...%K%P
+0x12E8
+関節がズキズキと痛む。%K%P
+My joints were throbbing.%K%P
+0x12F4
+少年「う、うぅぅぅ……！！」%K%P
+Kid「Oh, oooowww...!」%K%P
+0x1300
+胃がキリキリと、締め付けられる……。%K%P
+My stomach felt like it was contracting in on itself...%K%P
+0x1314
+ぼくは堪らなくなって、トイレへ駆け込んだ。%K%P
+I couldn't stand it and sprinted into the bathroom.%K%P
+0x1320
+胃の中のものを全部吐き出す。%K%P
+I threw up everything in my stomach.%K%P
+0x132C
+…………。%K%P
+.........%K%P
+0x1338
+ドロドロに半壊したタツタの断片を無感動に眺めながら、額にそっと手を当てた。%K%P
+It was a stew of half-digested chunks of tuna sandwich. I looked at it indifferently and put my hand on my forehead.%K%P
+0x1344
+熱はない。%K%P
+I wasn't feverish.%K%P
+0x1350
+気分は、最悪だった。%K%P
+But I felt terrible.%K%P
+0x139C
+ＥＩに乗って２階にあがった。%K%P
+I took the Ei elevator up to the second floor.%K%P
+0x13A8
+薬をもらうため、救護室に向かっていた。%K%P
+I headed toward the infirmary, intending to get some medicine.%K%P
+0x13B4
+その途中、武の姿を見かけた。%K%P
+Along the way, I saw Takeshi.%K%P
+0x13C0
+武は壁にもたれ掛かって、何かぶつぶつ言っている。%K%P
+He was leaning against a wall, muttering.%K%P
+0x13CC
+小声で呟いているつもりだろうが、ぼくの耳には届いてしまっていた。%K%P
+He was probably just talking to himself, but I heard what he was saying.%K%P
+0x13E0
+武「ったく、なんにも起きねえじゃねぇか……デマカセ言いやがって……あの女！」%K%P
+Takeshi「Damn. Nothing's happening... That lying woman...!」%K%P
+0x13EC
+武「もう、時間がねえってのによ……！」%K%P
+Takeshi「We don't have the time for this...!」%K%P
+0x1400
+デマカセ？　あの女？%K%P
+Lying? Woman?%K%P
+0x140C
+なんだか機嫌が悪いみたいだ。%K%P
+He seemed to be in a bad mood.%K%P
+0x1418
+少年「や、やあ、武」%K%P
+Kid「H-hey there, Takeshi.」%K%P
+0x142C
+武「んんっ？　おう、少年か。なんじゃい？」%K%P
+Takeshi「Huh? Oh, hey, Kid. What's up?」%K%P
+0x1438
+少年「えーと……つぐみ達との話し合いの方は？」%K%P
+Kid「Uh... How was the talk with Tsugumi and Sora?」%K%P
+0x144C
+武「ああ、あれな……」%K%P
+Takeshi「Oh, that...」%K%P
+0x1458
+武「ダメダメ、全然話になんねぇー」%K%P
+Takeshi「It was no good. Nothing there.」%K%P
+0x1464
+少年「え？　どういうこと？」%K%P
+Kid「Huh? What do you mean?」%K%P
+0x1470
+武「つぐみの勘違いだったんだよ。単なる、あいつの思いこみだったんだ」%K%P
+Takeshi「Tsugumi's got it all wrong. She doesn't know what she's talking about.」%K%P
+0x147C
+少年「じゃあ、脱出方法ってのは……」%K%P
+Kid「So the escape route...」%K%P
+0x1488
+武「ああ、もちろん白紙に戻ったってわけだ」%K%P
+Takeshi「Nah, we're back to square one.」%K%P
+0x1494
+少年「そうなんだ……」%K%P
+Kid「Oh, I see...」%K%P
+0x14A0
+あてにしていただけに、とてもガックリくる。%K%P
+I had held out hope that he could pull us through. It was a bitter disappointment.%K%P
+0x14B4
+武「おっと、そうだ！　こうしてらんねぇよ」%K%P
+Takeshi「Oh, that's right! I can't be standing around.」%K%P
+0x14C0
+少年「？？」%K%P
+Kid「?」%K%P
+0x14CC
+武「俺、もう行くわ、今忙しいんだよ」%K%P
+Takeshi「I've gotta run. I've got things to do.」%K%P
+0x14D8
+武「んじゃなっ」%K%P
+Takeshi「Later.」%K%P
+0x14EC
+少年「…………」%K%P
+Kid「.........」%K%P
+0x14F8
+肩を怒らせながら、武は立ち去っていった。%K%P
+Looking stiff, Takeshi headed off.%K%P
+0x1504
+ぼくはポツンと取り残された。%K%P
+I was left alone.%K%P

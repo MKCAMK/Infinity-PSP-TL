@@ -1,0 +1,738 @@
+text area offset and size:
+0x1100
+0x3467
+0xDC
+ココ「つぐみんが……唄って聴かせてくれたの」%K%P
+Coco「She would sing it to me.」%K%P
+0xE8
+少年「――つ、つぐみがぁ！？」%K%P
+Kid「Tsu-Tsugumi!?」%K%P
+0xF4
+少年「そ、そんな……バカなこと……」%K%P
+Kid「That's... crazy...」%K%P
+0x100
+少年「そんなバカなこと、あり得るわけないよ！」%K%P
+Kid「That's impossible!」%K%P
+0x10C
+少年「だって……だって……あの子守歌は、ぼくと沙羅だけしか、知らないはずで……」%K%P
+Kid「Because... no one knows that lullaby except Sara and me...」%K%P
+0x120
+ココ「ふふふふふふふふっ♪」%K%P
+Coco「Hahahahaha〜」%K%P
+0x12C
+少年「どうして……？　どうして……笑うの……？」%K%P
+Kid「Why...? Why... are you laughing?」%K%P
+0x140
+ココ「ホクたん？　自分で言ってること、変だと思わない？」%K%P
+Coco「Hokutan? Don't you think it's strange, what you're saying?」%K%P
+0x14C
+少年「えっ！？」%K%P
+Kid「What!?」%K%P
+0x158
+ココ「ホクたんは今、混乱しちゃってるんだ」%K%P
+Coco「Right now, you're a little confused.」%K%P
+0x164
+ココ「だから、ついつい本音が出ちゃったんだよ」%K%P
+Coco「So you showed your true self for a minute.」%K%P
+0x170
+ココ「ホクたんの中にいる本当の自分が、ぴょこって顔を出しちゃったの」%K%P
+Coco「The real you decided to poke his face out for a teensy-weensy second.」%K%P
+0x17C
+少年「？？？」%K%P
+Kid「?」%K%P
+0x188
+ココ「いい、ホクたん？　よく考えてみて？」%K%P
+Coco「Listen, Hokutan. Think about it.」%K%P
+0x194
+ココ「あの子守歌、つぐみんが知ってても、別に不思議じゃないよねぇ？」%K%P
+Coco「It's not really that strange for Tsugumin to know that lullaby, right?」%K%P
+0x1A0
+ココ「だってマヨちゃんが、つぐみんに教えただけかもしれないじゃない？」%K%P
+Coco「Mayo-chan could have just taught it to Tsugumin, right?」%K%P
+0x1AC
+ココ「で、つぐみんがココに教えてくれて……」%K%P
+Coco「And then Tsugumin taught it to me...」%K%P
+0x1B8
+少年「そんなはずないよ！」%K%P
+Kid「That's not possible!」%K%P
+0x1C4
+ココ「なんでそう思うの？」%K%P
+Coco「What makes you say that?」%K%P
+0x1D0
+少年「それは……それは……」%K%P
+Kid「Because... Because...」%K%P
+0x1DC
+ココ「答えられない、かな？」%K%P
+Coco「Maybe you can't answer that?」%K%P
+0x1E8
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1F4
+ココ「じゃあ、ココが代わりに教えてあげる」%K%P
+Coco「Well then, I'll just answer for you.」%K%P
+0x200
+ココ「ホクたんはね？　ココのいる世界に、マヨちゃんが存在しないことを、知ってるんだよ」%K%P
+Coco「You see, Hokutan, you know that Mayo-chan doesn't exist in the world I live in.」%K%P
+0x20C
+ココ「だから今――『そんなはずない！』――って言ったんだ」%K%P
+Coco「That's why you just said, 'That's not possible!'」%K%P
+0x218
+ココ「『つぐみんが子守歌を知ってるなんてあり得ない！』……そんなふうにホクたんが思っちゃったのも、実はそのせいなんだ」%K%P
+Coco「And that's the reason you thought that there was no way that Tsugumin could know that song.」%K%P
+0x224
+ココ「ね？　そうでしょ？」%K%P
+Coco「Right?」%K%P
+0x230
+少年「えっ！？　えっ！？　えっ！？」%K%P
+Kid「What!? What!? What!?」%K%P
+0x23C
+ココ「大丈夫だよぉ〜、怖がらなくてもいいの！」%K%P
+Coco「It's okay, you don't have to be scared!」%K%P
+0x248
+ココ「もっと自分の気持ちに、正直になって？」%K%P
+Coco「Just be honest with your feelings, okay?」%K%P
+0x254
+ココ「もう嘘なんて、つく必要ないんだから……」%K%P
+Coco「There's no reason for you to lie anymore.」%K%P
+0x260
+ぼくは錯乱しつつあった。%K%P
+I was getting more and more confused.%K%P
+0x26C
+次から次へとわき上がる疑問に呑み込まれ、翻弄され、我を失いそうになる。%K%P
+I was being gobbled up by one problem after another, being chewed up for sport, and I felt like I was losing myself.%K%P
+0x278
+ぼくはまぶたをぎゅっと閉じ、大きく息を吸い込んで、現実との接点を保とうとした。%K%P
+I squeezed my eyes shut, took a big breath, and tried to maintain a grip on reality.%K%P
+0x284
+目を開き、ココの姿をじっと見つめながら、尋ねる。%K%P
+I opened my eyes, stared at Coco, and asked...%K%P
+0x290
+少年「『ココのいる世界』って……それ、どういうことなの？」%K%P
+Kid「Um... 'The world I live in'... What does that mean?」%K%P
+0x2A4
+ココ「ほらぁ〜、またそうやって、すぐ嘘つくんだからぁ〜」%K%P
+Coco「See now, there you go, lying again〜」%K%P
+0x2B8
+ココ「ホクたんは、ココのいる世界のこと、知ってるはずでしょ？」%K%P
+Coco「You know aaaaall about the world I'm in, right?」%K%P
+0x2C4
+ココ「そこには、マヨちゃんがいなくて、つぐみんがケガしちゃって、顔の違うもうひとりの自分が存在して……」%K%P
+Coco「Mayo-chan's not there, and Tsugumin got hurt, and there's another you with a different face...」%K%P
+0x2D0
+ココ「そういうこと、ホクたんはぜぇ〜んぶ知ってるんだ」%K%P
+Coco「You know ALL that stuff.」%K%P
+0x2DC
+ココのいる世界……。%K%P
+The world Coco was in...%K%P
+0x2E8
+もうひとりの自分……。%K%P
+Another self...%K%P
+0x2F4
+つぐみのケガ……。%K%P
+Tsugumi injured...%K%P
+0x300
+沙羅がいない世界……。%K%P
+Where there was no Sara...%K%P
+0x30C
+……えっ？　……沙羅がいない、世界？%K%P
+...What...? A world without Sara?%K%P
+0x318
+少年「そうだ！　そうだよ！　ココは、なんで沙羅のことなんか、知ってるんだよ！？」%K%P
+Kid「That's right! Hang on! Why do you know about Sara!?」%K%P
+0x32C
+ココ「あっ、やぁ〜っと本当の自分、出す気になったみたいね？」%K%P
+Coco「Hm? Are you fiiiinally ready to come clean, hmmm?」%K%P
+0x338
+ココ「うむうむ、ではお答えしましょう」%K%P
+Coco「Okay then, I'll tell you.」%K%P
+0x34C
+ココ「ココはね？　なんでも知ってるから……」%K%P
+Coco「It's because... I know everything.」%K%P
+0x358
+ココ「なんでも知ってるから、マヨちゃんのことも知ってるの」%K%P
+Coco「I know everything, so I know about Mayo-chan.」%K%P
+0x364
+ココ「それはどーしてかって言うと……ココには、ちょーのーりょくがあるからなの」%K%P
+Coco「And the reason for that is... I have ESP.」%K%P
+0x378
+ココ「うししししししししっ♪」%K%P
+Coco「Uheeheeheehee〜」%K%P
+0x384
+少年「ごまかさないでよ！」%K%P
+Kid「Stop trying to mess with me!」%K%P
+0x390
+ココ「ごまかしてなんかいないも〜ん、本当のことなんだも〜ん」%K%P
+Coco「I'm not... It's true!」%K%P
+0x3A4
+ココ「じゃあ逆に聞くけど……ホクたんは、どうしてココのこと、知ってるの？　知ってたの？」%K%P
+Coco「Okay, lemme ask you a question then. Hokutan, how come you know about me? Why DID you know about me?」%K%P
+0x3B0
+ココ「一番最初、加減圧室で会ったとき、ホクたんはココの名前、言ったよね？　なんでかなぁ？」%K%P
+Coco「That first time, when we met in the decompression chamber, you said my name, didn't you? And why would that be?」%K%P
+0x3BC
+少年「そ、それは……予知の一種、みたいなもので……」%K%P
+Kid「It was... sort of like a premonition, an insight...」%K%P
+0x3C8
+ココ「ふ〜ん……」%K%P
+Coco「Uh-hunh...」%K%P
+0x3D4
+ココ「ほいじゃあさぁ、ピピのことは？」%K%P
+Coco「Well, what about Pipi?」%K%P
+0x3E0
+少年「――えっ！？」%K%P
+Kid「What!?」%K%P
+0x3EC
+ココ「ホクたん、ピピのことだって、知ってるはずだよ？」%K%P
+Coco「You know about Pipi, don't you, Hokutan?」%K%P
+0x3F8
+少年「し、知らないよ……そんなの……」%K%P
+Kid「No, I have no idea...」%K%P
+0x40C
+ココ「そう？　おっかしいなぁ〜」%K%P
+Coco「Oh? That's funny...」%K%P
+0x420
+ココ「あっ、ピピっていうのはね？　ココの飼ってる『子猫』のことなんだけどぉ……」%K%P
+Coco「Well, Pipi is this little kitten I have...」%K%P
+0x42C
+少年「――猫！？」%K%P
+Kid「―A cat!?」%K%P
+0x440
+ココ「きゃははははははははっ♪」%K%P
+Coco「Nyahaaaahaahaaaa〜」%K%P
+0x44C
+ココ「やぁ〜い、やぁ〜い、ひっかかった、ひっかかったぁ〜！」%K%P
+Coco「Gotcha, I gotcha, you fell for it!」%K%P
+0x460
+ココ「今、ココが『子猫』って言ったとき、ビクッてしたよね？　ビクッてしたよね？」%K%P
+Coco「When I said 'kitten' just then, you did a double take! Right!?」%K%P
+0x474
+ココ「なんで驚いたりしたの？　どうして？」%K%P
+Coco「Why would that surprise you? Hm?」%K%P
+0x480
+少年「…………」%K%P
+Kid「.........」%K%P
+0x48C
+ココ「ホクたん、ピピが『犬』だってこと、知ってたんでしょ？　だから驚いたんだよね？」%K%P
+Coco「Because you know that Pipi is really a dog! That's why!」%K%P
+0x498
+少年「…………」%K%P
+Kid「.........」%K%P
+0x4A4
+ココ「もうとぼけるのはおしまい。演技するのもおしまい」%K%P
+Coco「Stop acting. And stop playing dumb.」%K%P
+0x4B0
+ココ「ホクたんは『ココのいる世界』を、今までずーっと見てきたんだ」%K%P
+Coco「You've known about my world aaallll along.」%K%P
+0x4BC
+ココ「だから、全部知ってるんだ」%K%P
+Coco「That's why you know everything.」%K%P
+0x4C8
+ココ「ティーフブラウ・ウイルス……キュレイウイルス……ＩＢＦ……ピグマリオン……テラバイト・ディスク……」%K%P
+Coco「Tief Blau virus... Cure virus... IBF... Pygmalion... The terabyte disc...」%K%P
+0x4D4
+ココ「みーんなみーんな、どっかで聞いたことのある言葉でしょ？」%K%P
+Coco「All of them, all of them! You've heard all of those words before, haven't you?」%K%P
+0x4E0
+少年「…………」%K%P
+Kid「.........」%K%P
+0x4EC
+ココ「ほいからほいから……こんなことも、覚えてるよね？」%K%P
+Coco「And this, this, I bet you remember this...」%K%P
+0x4F8
+ココ「マヨちゃんと、水深３４ｍの海の中から脱出したこと……」%K%P
+Coco「How you and Mayo-chan escaped from 34 meters deep down under the sea...」%K%P
+0x504
+ココ「なっきゅと、サイフォン効果を使って脱出したこと……」%K%P
+Coco「How you escaped with Nakkyu using a siphon...」%K%P
+0x510
+ココ「忘れちゃったなんて、嘘ついちゃダメだよ？　絶対覚えてるはずなんだから」%K%P
+Coco「Don't lie and say you forgot. I know you remember.」%K%P
+0x51C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x528
+ココ「ココもホクたんと一緒なんだよ」%K%P
+Coco「I'm the same as you.」%K%P
+0x534
+ココ「だから『ホクたんの世界のこと』も『ココの世界のこと』も、知ってるってわけ」%K%P
+Coco「That's why I know about the world you live in and the world I live in.」%K%P
+0x540
+ココ「どう？　納得した？」%K%P
+Coco「So? Do you understand now?」%K%P
+0x54C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x558
+ココ「ココ、ホクたんの知ってることは、みんな知ってるの」%K%P
+Coco「I know everything you know.」%K%P
+0x564
+ココ「しかも、しかもね？」%K%P
+Coco「And, and...」%K%P
+0x570
+ココ「ホクたんがまだ知らないことまで、わかっちゃったりするんだ」%K%P
+Coco「I know some things that you don't know yet.」%K%P
+0x57C
+ココ「『まだ知らないこと』っていうのはぁ……『これから知るであろうこと』っていう意味だよ？」%K%P
+Coco「Things you don't know yet means... things you will come to know later.」%K%P
+0x588
+少年「…………」%K%P
+Kid「.........」%K%P
+0x594
+ココ「とは言え……」%K%P
+Coco「But...」%K%P
+0x5A8
+ココ「こんなトッピョーシもないことを急に告げられても、頭ん中がぐちゃんぐちゃんになってて、理解できないかもしれないね？」%K%P
+Coco「Maybe I'm telling you way too much stuff, so your mind is getting all mixed up.」%K%P
+0x5BC
+ココ「だけど、必ずいつか、わかるときがくるから……」%K%P
+Coco「But I can tell you that you'll understand it one day...」%K%P
+0x5C8
+ココ「だから……もう一度だけ言うけど……」%K%P
+Coco「So... I'll say it again...」%K%P
+0x5D4
+ココ「絶対に、自分に嘘をついちゃ、ダメだよ？」%K%P
+Coco「You absolutely can't lie to yourself, okay?」%K%P
+0x5E0
+ココ「いい？　わかった？」%K%P
+Coco「Okay? Understand?」%K%P
+0x5EC
+少年「わからない……わからないよ……わかるわけがないじゃないか！」%K%P
+Kid「I don't... I don't underst... Of course I don't understand!」%K%P
+0x600
+ココ「はぁ……やれやれ……」%K%P
+Coco「*Sigh*... Here we go again...」%K%P
+0x60C
+少年「ココは……ココは……一体何者なの！？」%K%P
+Kid「Coco... Coco... What are you!?」%K%P
+0x618
+少年「どうして突然、ぼくの前に姿を現したの！？」%K%P
+Kid「Why did you suddenly appear in front of me!?」%K%P
+0x644
+ぼくが言ったとたん、ココの表情がにわかに曇った。%K%P
+At those words, Coco's face suddenly clouded over.%K%P
+0x650
+眉根をきゅっと寄せ、頬をこわばらせるココ……。%K%P
+She scrunched up her face and drew her eyebrows together.%K%P
+0x65C
+瞳に涙が浮かんだ。%K%P
+Tears welled up in her eyes.%K%P
+0x668
+その涙を隠すようにうつむいて、ココは静かに呟いた。%K%P
+She blinked to hide them and spoke quietly.%K%P
+0x674
+ココ「逢いたかったからだよ……」%K%P
+Coco「I wanted... to see you.」%K%P
+0x680
+ココ「ココ……キミのこと、待ってたんだ……」%K%P
+Coco「I've been... waiting for you.」%K%P
+0x68C
+ココ「ずーっとずーっと、キミが来るのを待ってたんだ……」%K%P
+Coco「Waiting and waiting for you to come...」%K%P
+0x698
+ココ「逢いたくて……逢いたくて……逢いたくて……」%K%P
+Coco「I wanted to see you... more than anything...」%K%P
+0x6A4
+ココ「もう一度……どうしてもキミに……逢いたくて……」%K%P
+Coco「I wanted to see you again...」%K%P
+0x6B0
+ココ「たったひとりで……ひとりぼっちで……待ってたんだよ……」%K%P
+Coco「I've been waiting here by myself... All by myself...」%K%P
+0x6BC
+ココの言葉は、ぼくの胸にしんしんと降り積もり、淡雪のように溶けていった。%K%P
+Coco's words drifted into my heart and melted like a light snow.%K%P
+0x6C8
+何も語らず、見つめあう……。%K%P
+We gazed at each other without speaking.%K%P
+0x6D4
+言葉の内容よりも、その言葉がつむぎ出されたことに、ぼくは動揺していた。%K%P
+It wasn't what the words said, so much as that she said them at all, that moved me so deeply.%K%P
+0x6E0
+意味を求める前に、純粋で、ひたむきな想いが伝わって来て、ぼくの胸を震わせるのだった。%K%P
+Before I sought their meaning, I let the simple power of her true feelings flow straight into my trembling heart.%K%P
+0x6EC
+切なく濡れたココの瞳から、目をそらすことができなかった。%K%P
+I couldn't take my eyes off of Coco's sad, tear-filled eyes.%K%P
+0x6F8
+ココ「……………………」%K%P
+Coco「.........」%K%P
+0x704
+少年「……………………」%K%P
+Kid「.........」%K%P
+0x718
+ふいに、ココは小さく笑った。%K%P
+Coco laughed softly.%K%P
+0x724
+無理に明るく振る舞おうとしているのがわかる。%K%P
+I could tell it was forced cheer.%K%P
+0x730
+そのけなげな笑みが、さらにぼくの胸にしみた。%K%P
+The bravery of that laugh gripped at my heart.%K%P
+0x73C
+ココ「ごめん、もう行かなくちゃ」%K%P
+Coco「I'm sorry, I have to go.」%K%P
+0x748
+ココ「またしばらくの間、お別れだね？」%K%P
+Coco「We'll be apart again for a little while.」%K%P
+0x754
+少年「……えっ？」%K%P
+Kid「What?」%K%P
+0x760
+ココ「ほいじゃあ、消えちゃう前に、ひとつだけ、いいこと教えてあげる」%K%P
+Coco「Okay, before I go, I'll tell you something pretty juicy.」%K%P
+0x76C
+ココ「って言うか、もう気づいてると思うけど……」%K%P
+Coco「But I'm pretty sure you've already figured it out...」%K%P
+0x778
+少年「……？」%K%P
+Kid「...?」%K%P
+0x784
+ココ「ホクたんが見たあの夢は、夢じゃないからね？」%K%P
+Coco「Hokutan, that dream you saw, it wasn't a dream.」%K%P
+0x790
+ココ「現実に、起こったことだからね？」%K%P
+Coco「It actually happened, okay?」%K%P
+0x79C
+ココ「今、ココが言ったこと、忘れないでよ？」%K%P
+Coco「Don't forget what I just said, alright?」%K%P
+0x7A8
+少年「……………………」%K%P
+Kid「.........」%K%P
+0x7BC
+ココ「じゃあね？　ホクたん」%K%P
+Coco「See you later, Hokutan.」%K%P
+0x7D0
+ココの姿が、ふっと消え失せた。%K%P
+The next moment, she was gone.%K%P
+0x7DC
+ともし火が、迷い込んだ夜風に吹き消されるように……ひっそりと、音も無く……。%K%P
+Without a sound, just... gone, like a candle snuffed out by a wandering night draft...%K%P
+0x7E8
+その瞬間、ぼくの意識もふっと消え失せた。%K%P
+And then I lost consciousness.%K%P
+0x8C8
+俺は、ふっと立ちくらみを覚えた。%K%P
+I sank down into the darkness for a minute.%K%P
+0x8D4
+しっかりしろ、俺！%K%P
+(Pull yourself together, man!)%K%P
+0x8E0
+頭を振り、意識を取り戻す。%K%P
+I shook my head and gathered my wits.%K%P
+0x910
+ココ「ココちゃんのショートコント――もしもイルカが、イクラだったら」%K%P
+Coco「It's the Coco-chan show! First skit―What if a dolphin were salmon roe...」%K%P
+0x91C
+ココ「『おお、今日は大漁だなぁ、すごい量のシャケが捕れたぞ？』」%K%P
+Coco「'Wow, big load today, tons of salmon!'」%K%P
+0x928
+ココ「『どれどれ、腹をかっさばいてみるとするか……』」%K%P
+Coco「'Let's see, open 'em up...'」%K%P
+0x934
+ココ「『ザクザク……ザクザク……』」%K%P
+Coco「'Cut... Cut...'」%K%P
+0x940
+ココ「『うぉーっ、なんじゃこりゃーっ！　イルカがいっぱい出て来たぁーっ！　２００匹ぐらい出て来たーっ！』」%K%P
+Coco「'Whoah, what's this!? Dolphins are pouring out of the salmon! Hundreds of them!'」%K%P
+0x94C
+ココ「『やべぇーっ！　やべーよぉーっ！　母ちゃん！　母ちゃん！　大変だぁーっ！』」%K%P
+Coco「'Oh no! Oh no! Mom! Mommy! Emergency!'」%K%P
+0x958
+ココ「きゃははははははははは♪」%K%P
+Coco「Bwahahahaha〜」%K%P
+0x964
+ココ「にゃははははははははは♪」%K%P
+Coco「Heeheeheehee〜」%K%P
+0x970
+俺が立ちくらみを覚えたのは、ココのマイクロウェーブに殺られたせいだ。%K%P
+The reason I had blacked out must have been Coco's microwaves. They got me.%K%P
+0x97C
+いまだに耐性ができていないらしい。……つらい。%K%P
+I still hadn't built up immunity to them... It was pretty rough.%K%P
+0x988
+にもかかわらず、懲りもせずにココの元へと足を運んでしまうのはなぜだろう？%K%P
+Why didn't I ever learn? Why was it that every time I wandered around, my feet kept taking me to her?%K%P
+0x994
+不思議だ。%K%P
+It was strange.%K%P
+0x9A0
+何か得体の知れぬ妖しい周波数を用いて、ココが俺のことを誘っているのではないか？　という気さえする。%K%P
+I wondered if she was drawing me to her with some mysterious frequency.%K%P
+0x9AC
+ともかく……%K%P
+Anyway...%K%P
+0x9B8
+朝食を取り終えた俺は、ＬｅＭＵの中をフラフラと歩いているうちに、ここ（キャラクターグッズの売店）へと吸い寄せられてしまったのだった。%K%P
+Having finished breakfast, I wandered around LeMU and got sucked into the souvenir shops.%K%P
+0x9C4
+ココ「ココちゃんのショートコント――もしもイルカが、御遺体だったら」%K%P
+Coco「Coco-chan's jokes―If a dolphin... was a corpse!」%K%P
+0x9D0
+ココ「『しくしくっ、しくしくっ、どうも遠いところ、わざわざありがとうございます』」%K%P
+Coco「'Oh, thank you for coming such a long way...'」%K%P
+0x9DC
+ココ「『このたびは御愁傷様です……』」%K%P
+Coco「'My sincere condolences...'」%K%P
+0x9E8
+ココ「『主人の顔、見てやっていただけますか？』」%K%P
+Coco「'Would you like to see my husband's face?'」%K%P
+0x9F4
+ココ「『ええ……では、失礼して……』」%K%P
+Coco「'Oh, well, certainly...'」%K%P
+0xA00
+ココ「『パカッ……パカッ……』」%K%P
+Coco「'Click... Click...'」%K%P
+0xA0C
+ココ「『うぉーっ、なんじゃこりゃーっ！　イルカが永眠してるぅーっ！　しかもアオ向けだーっ！』」%K%P
+Coco「'Whoah! An eternally sleeping dolphin! And it's belly-up, too!'」%K%P
+0xA18
+ココ「『【安らかな死に顔ですねぇ、今にも起きて来そうだなぁ〜】って言えねぇーっ！　だって顔わかんねぇーんだもーん！』」%K%P
+Coco「'He looks so peaceful... as if he'd jump up any second...' Except you couldn't say that, because you wouldn't be able to see his face!」%K%P
+0xA24
+ココ「きゃははははははははは♪」%K%P
+Coco「Bwahahahaha〜」%K%P
+0xA30
+ココ「にゃははははははははは♪」%K%P
+Coco「Heeheeheehee〜」%K%P
+0xA3C
+ココは大きなイルカのぬいぐるみに抱きついて、足をバタバタと振っている。%K%P
+Coco pattered along, shaking a huge stuffed dolphin.%K%P
+0xA48
+絨毯の上には、小さめのぬいぐるみが散乱し、敷きつめられていた。%K%P
+Several smaller stuffed animals were strewn around the carpet.%K%P
+0xA54
+付近の陳列棚がすべて空っぽになっていることから察するに、恐らく、そこに並べられていたぬいぐるみをすべて床にぶちまけたのだろう。%K%P
+From the looks of the empty cabinet nearby, it appeared that she had pulled them all down from their places on the shelf.%K%P
+0xA60
+いかにも、子供のやりそうなことだ。%K%P
+It was such a childish thing to do.%K%P
+0xA6C
+子供……？%K%P
+A child...%K%P
+0xA78
+と言ってもココは、もう１４歳なんだよなぁ。%K%P
+But Coco was fourteen.%K%P
+0xA84
+ぬいぐるみと戯れる１４歳の少女……。%K%P
+A fourteen-year-old who still played with stuffed animals...%K%P
+0xA90
+『果たして、この子はこのまま成長してしまってもいいのだろうか？』などと、ふと思う。%K%P
+I wondered if it was really alright to let her just grow up like that?%K%P
+0xA9C
+だが、天真爛漫な彼女の笑顔を見ていると、言い諭す気にはなれない。%K%P
+But when I saw her innocent, laughing face, I didn't have the heart to scold her.%K%P
+0xAA8
+『やっぱりこのままでいるのが、ココにとっては一番幸せなのかもしれないなぁ』と、すぐに考えを改めた。%K%P
+I supposed she would probably be happiest just being the way she was.%K%P
+0xAB4
+爆笑を続けるココ……を、傍観する俺……。%K%P
+Coco continued to crack herself up... and I... continued to watch...%K%P
+0xAC0
+ようやく笑いが引いてきたところで、俺は声をかけた。%K%P
+When her amusement died down a little, I called to her.%K%P
+0xACC
+武「なあ、ココ？　ピピはどうしたんだ？」%K%P
+Takeshi「Hey, Coco? Where's Pipi?」%K%P
+0xAD8
+ココ「えっ？　ピピ？　ピピだったら、その辺にいると思うけど……」%K%P
+Coco「Pipi? I think he's right over there somewhere...」%K%P
+0xAE4
+俺は店内を見まわした。%K%P
+I looked around the kiosk.%K%P
+0xAF0
+ピピ「うぅぅっ……うぅぅっ……うぅぅぅぅっ……！」%K%P
+Pipi「*Wooo*... *Wooo*... *Woo*...!」%K%P
+0xAFC
+いた。%K%P
+There.%K%P
+0xB08
+ピピはぬいぐるみの尻尾を噛んでブルンブルンと狂ったように振っていた。%K%P
+Pipi was gripping a stuffed animal's tail in his teeth, shaking it back and forth crazily.%K%P
+0xB14
+レミュールのぬいぐるみだった。よっぽどアレが気に入ったらしい。%K%P
+It was a stuffed lemur doll. He seemed completely engrossed in it.%K%P
+0xB20
+ココ「ところでたけぴょんは、そんなところで何やってるの？」%K%P
+Coco「Hey, Takepyon, what'cha doin' over there?」%K%P
+0xB2C
+武「さあ〜？　何やってるんだろうな、俺」%K%P
+Takeshi「Hm? What am I doing, huh?」%K%P
+0xB38
+武「ココの楽しそうな姿を見てると、こっちまで心が和むと言うか何と言うか……」%K%P
+Takeshi「You look so happy that just watching you is making me happy...」%K%P
+0xB44
+武「そんなわけで、ココの姿を見ることによって、ささやかな安らぎなんてものに、浸っていたのかもしれないな、もしかすると」%K%P
+Takeshi「So I guess you could say that by watching you, I've slipped into a happy, stupid state...」%K%P
+0xB50
+ココ「えへっ♪」%K%P
+Coco「Ehe〜」%K%P
+0xB5C
+ココ「もしかしてたけぴょん、ココにほれちゃった？」%K%P
+Coco「Takepyon, you're falling in love with me, aren't you?」%K%P
+0xB68
+武「……は？」%K%P
+Takeshi「...What?」%K%P
+0xB74
+ココ「ほれちゃったんだろ？　ほれちゃったんだろ？　こんにゃろ、こんにゃろ！」%K%P
+Coco「You like me, you like me, don't you!」%K%P
+0xB80
+ココ「ちっきしょーっ♪　やべーっ♪　告られた、告られた、告られちまったぁーっ♪」%K%P
+Coco「Wow〜 I can't believe it〜 He's finally told me how he feels〜」%K%P
+0xB8C
+ココ「はずかちーっ♪　照れるぅーっ♪」%K%P
+Coco「How embarrassing〜 I'm blushing〜」%K%P
+0xB98
+ココ「やだぁー、やだぁー、もう、どうしよー、どうしよーっ♪」%K%P
+Coco「Oh my gosh, oh my gosh! A crush! What'll I do?」%K%P
+0xBA4
+――ボフボフッ！　――ボフボフッ！%K%P
+―Bam! Bam!%K%P
+0xBB0
+ココは右手の拳を握りしめ、イルカのわき腹に強烈なフックをお見舞いしていた。%K%P
+Coco balled up her fists and started popping the dolphin's belly with brutal right hooks.%K%P
+0xBBC
+何発も何発も殴る。%K%P
+Punch after punch. Again and again.%K%P
+0xBC8
+中綿が、出て来た……。%K%P
+Until the cotton started to come out...%K%P
+0xBD4
+ココ「ほいじゃあ、お礼と言ってはなんだけど……」%K%P
+Coco「Well, to thank you...」%K%P
+0xBE0
+ココ「ココの新作のコメッチョ、聞かせてあげようか？」%K%P
+Coco「Shall I tell you a new joke?」%K%P
+0xBEC
+武「コ、コメッチョ！？　いいよいいよ……」%K%P
+Takeshi「Aw, no, that's okay...」%K%P
+0xBF8
+ココ「えーっ、どうしてぇーっ！？　遠慮しなくてもいいのにぃーっ！」%K%P
+Coco「Why not!? You don't have to be polite!」%K%P
+0xC04
+武「いや、遠慮とかそういうんではなく……」%K%P
+Takeshi「Oh, believe me, I'm not being...」%K%P
+0xC10
+ココ「ココちゃんのアメリカンジョーク――看護婦と医者」%K%P
+Coco「Coco-chan's joke―about the doctor and the nurse.」%K%P
+0xC1C
+俺の弁解になど耳も貸さず、ココはコメッチョを話し始めてしまった。%K%P
+Ignoring my pleas, Coco launched into her joke.%K%P
+0xC40
+………………。%K%P
+.........%K%P
+0xC4C
+…………。%K%P
+......%K%P
+0xC58
+……。%K%P
+...%K%P
+0xC64
+コメッチョは、とても長かった。%K%P
+It was very long.%K%P
+0xC70
+そして案の定、オモシロクなかった。%K%P
+It was not funny.%K%P
+0xC7C
+作り笑いさえためらわせるほど、つまらなかったのだ。%K%P
+It was so bad, in fact, that I couldn't even muster a polite chuckle.%K%P
+0xC88
+それはこんな内容だった……。%K%P
+It went like so...%K%P
+0xCE4
+とある病院に勤務していた看護婦のケイトは、医者のロバートを熱烈に愛していた。%K%N
+A nurse named Kate was desperately in love with Robert, a doctor who worked at the same hospital.%K%N
+0xCF0
+ロバートもまた、ケイトに夢中だった。%K%N
+Robert was crazy about Kate as well.%K%N
+0xCFC
+ケイトは部屋の左側に立ち、ロバートは部屋の右側に立っていた。%K%N
+Kate stood on the left side of the room, and Robert stood on the right.%K%N
+0xD08
+ケイトはしずしずと白衣を脱いで、クローゼットの扉にかけた。%K%O
+Kate slipped out of her white uniform and hung it on the closet door.%K%O
+0xD20
+ロバートは少し慌てた様子で衣服を脱ぎ、無造作に床の上へと放り投げた。%K%N
+Robert stripped his uniform off in a bit of a hurry and simply dropped it on the floor.%K%N
+0xD2C
+ケイトはおパンツを下ろした。ロバートもトランクスを脱ぎ捨てた。%K%N
+Kate lowered her panties. Robert threw off his boxers.%K%N
+0xD38
+ケイトの体のラインはなめらかで美しく、ロバートの肉体もりりしく引きしまっていた。%K%N
+Kate's body was lovely and supple, and Robert was lean and muscled.%K%N
+0xD44
+ケイトは、この日の為に用意していたシルクのパジャマを着た。%K%N
+Kate put on the silk pajamas she had bought for the occasion.%K%N
+0xD50
+ロバートは裸のままで、部屋の電気を消した。%K%O
+Still naked, Robert turned off the light.%K%O
+0xD68
+ベッドの左側に立っていたケイトは、ゆっくりと右を向いた。%K%N
+Standing on the left of the bed, Kate turned slowly to the right.%K%N
+0xD74
+ベッドの右側に立っていたロバートも流れるように左を向く……。%K%N
+On the right of the bed, Robert turned easily to the left...%K%N
+0xD80
+そして……ふたりはベッドに飛び込み、むさぼるように……眠った。%K%N
+And they jumped into the bed and... slept.%K%N
+0xD8C
+ちなみに、その夜のケイトの寝床は『病院の宿直室』で、ロバートが眠りについた場所は『自宅の寝室』だった。%K%O
+Oh, by the way, Kate was sleeping in the night duty room, and Robert was sleeping in his room at home.%K%O
+0xDC4
+『ん？　どうしたんだい、その顔は？』%K%N
+'Hey, what's with the face?'%K%N
+0xDD0
+『ははぁ〜ん、さては、変な想像でもしてたんだろ！　こんにゃろ、こんにゃろ！』%K%N
+'Haaa, I bet you were imagining something dirty, weren't you!'%K%N
+0xDDC
+というような感じのオチであった……。%K%O
+That was the punch line.%K%O
+0xE08
+ココ「わぁーひゃっひゃっひゃっひゃっひゃっひゃっひゃっ♪」%K%P
+Coco「Heeheehehehehe〜」%K%P
+0xE14
+ココは、太平洋中に響き渡るぐらいの巨大な声で笑っていた。%K%P
+Coco's laugh was loud enough to hear across the Pacific Ocean.%K%P
+0xE20
+今、この付近を航行している原潜があるとすれば、そのソナーマンもきっとつられて笑っていることだろう。%K%P
+If there were any nuclear submarines nearby, their sonar guys were probably laughing too.%K%P
+0xE2C
+この俺でさえ、口元がゆるんでしまっているのだから。%K%P
+Even I felt the corners of my mouth twitching.%K%P
+0xE38
+言うまでもないが、コメッチョが可笑しかったわけではない。%K%P
+Obviously, the joke wasn't funny.%K%P
+0xE44
+可笑しくもないコメッチョを可笑しがっているココが可笑しかったのだ。%K%P
+But Coco was so amused at the unamusing joke that it was hilarious.%K%P
+0xE50
+平和だなぁ……。%K%P
+All was well...%K%P
+0xE5C
+と、俺は思った。%K%P
+I thought that to myself.%K%P
+0xE68
+２日に空から聞いた話によると、ＬｅＭＵの隔壁が限界に達するのは明日だ。%K%P
+According to what we heard from Sora on the second day, LeMU's partitions would reach their structural limit in only one more day.%K%P
+0xE74
+なのに、こんなに穏やかな気分でいられるのはなぜだろう？%K%P
+So how was it that I felt so calm?%K%P
+0xE80
+ココの無邪気さが、俺にまで伝染ってしまったのだろうか……。%K%P
+Maybe Coco's innocence was contagious...%K%P
+0xE8C
+緊張感がまるでない。たるんでいる。%K%P
+I wasn't even tense. I was lounging around.%K%P
+0xE98
+このままでは少し危険かもしれない。%K%P
+If I stayed like that, it could be dangerous.%K%P
+0xEA4
+ココは無邪気なままでもいいけれど、俺までもが浮かれていたら、いざと言うときに命取りにもなりかねないのだ。%K%P
+It was fine for Coco to be innocent, but if I got swept away in it, it could be fatal.%K%P
+0xEB0
+などと思いながらも、やはりどうしても、ココの笑顔を見ていると、警戒感を抱くことはできなかった。%K%P
+The thought ran through my head, but as I looked at her smiling face, I couldn't hold onto caution.%K%P
+0xEBC
+平和過ぎる……。%K%P
+It was too peaceful...%K%P
+0xEC8
+本当に、夢の中にでもいるようだった。%K%P
+It was like being in a dream.%K%P

@@ -1,0 +1,954 @@
+text area offset and size:
+0x2678
+0x39D5
+0x70
+修理が終わり、みんなが部屋を引き払ったあとも、ぼくは倉庫にいた。%K%P
+With the repairs finished, everyone left the room, and I was in the warehouse alone.%K%P
+0x7C
+さっき感じた胸騒ぎは何だったのだろう？%K%P
+I wondered what had been going on in my mind before.%K%P
+0x88
+杞憂に終わったとは言え、そのことが気がかりで仕方がなかったのだ。%K%P
+While everything had all turned out alright, it bothered me to no end.%K%P
+0x94
+昨日の発電室の一件といい、今回といい、一体ぼくはどうしてしまったのだろうか？%K%P
+Yesterday―in the generator room―and then that... I wondered what was wrong with me.%K%P
+0xA0
+依然記憶は喪ったまま。%K%P
+I was still without my memory.%K%P
+0xAC
+そのカケラさえ拾いあげることができない。%K%P
+I couldn't even find any of the pieces.%K%P
+0xB8
+（いや、しかし……）%K%P
+(But maybe...)%K%P
+0xC4
+もしかしたら、こうして度々訪れる胸騒ぎこそが、喪われたぼくの記憶に関係しているのかもしれない。%K%P
+I thought that maybe the crazy flashes that kept occurring had something to do with my lost memory.%K%P
+0xD0
+（ぼくは徐々に、記憶を取り戻しつつあるのでは……？）%K%P
+(Maybe I'm closer to getting my memory back...?)%K%P
+0xDC
+そんなことを思いながら、倉庫の中をフラフラと漂っていた。%K%P
+I floated around the warehouse thinking about it.%K%P
+0xE8
+ふと、奥に、もうひとつ扉があることに気がついた。%K%P
+Suddenly, I noticed that there was another door deeper in the corner of the room.%K%P
+0xF4
+この壁の向こうにも部屋が存在しているらしい。%K%P
+There appeared to be another room on the other side of the wall.%K%P
+0x100
+ぼくは何かに誘われるように、その扉を開いた。%K%P
+The door was open, as if it were inviting me in.%K%P
+0x154
+そこはとても狭い小部屋だった。%K%P
+It was a tiny, tiny room.%K%P
+0x160
+室内は薄暗く、じめじめと湿ったカビの匂いがした。%K%P
+Inside, the room was dimly lit, and it smelled damp and moldy.%K%P
+0x16C
+照明は消えており、入り口のドアが閉まると暗闇は一層増してしまったが、かろうじて内部を見渡すことはできた。%K%P
+The lights were off, and closing the door made it even darker. I could just make out the interior of the room.%K%P
+0x178
+冷たく頑丈そうな壁、部屋の周囲を覆うケーブルと配管。%K%P
+The wall looked cold and sturdy. The room was covered with cables and pipes.%K%P
+0x184
+この部屋には、おそらく倉庫で使用するのであろう様々な備品が、整然と収められていた。%K%P
+I imagined that the room was used for storing equipment used in the warehouse.%K%P
+0x190
+突き当たりの壁――そこには、小さな四角い窓がついていた。%K%P
+The far wall had a small, square window.%K%P
+0x19C
+……頭の中が、ボンヤリとしてくる。%K%P
+...My mind felt all foggy.%K%P
+0x1A8
+武が言うように、ぼくは疲れているのかもしれない。%K%P
+Maybe I was just fatigued like Takeshi said.%K%P
+0x1B4
+この３日間、いろんなことがあって、いろんなことを聞いて、いろんなことを考えてしまったから。%K%P
+A lot had happened over the last three days. I had heard a lot and thought about a lot of things.%K%P
+0x1C0
+（ああ、なんだか……身体がダルい……）%K%P
+(I don't know what it is... but I feel so sluggish...)%K%P
+0x1D4
+ぼくはそのまま部屋の隅に腰をおろすと、ヒザを抱えた。%K%P
+I sat down in a corner of the room and hugged my knees.%K%P
+0x1E0
+見上げれば、窓から月明かりが射し込んでいた。%K%P
+Looking up, I saw moonlight streaming in through the window.%K%P
+0x1EC
+温かく潤んだ、ほのかな光だった。%K%P
+It was warm, full light.%K%P
+0x234
+気がつくと、部屋はコンクリートの壁に覆われていた。%K%P
+I noticed that the walls of the room were made of concrete.%K%P
+0x240
+ぼくは冷たい壁に背中をあずけながら、窓の外に輝く満月を見上げていた。%K%P
+As I sat with my back against the cold wall, I stared up at the full moon shining in from outside the window.%K%P
+0x24C
+月は遠かった。%K%P
+The moon was far away.%K%P
+0x258
+あんなに広かった夜空も、今は四角い檻に閉じ込められている。%K%P
+The broad night sky was contained in that little square space.%K%P
+0x264
+月明かりの落とす青い影は、ねずみ色の壁をはうようにしてゆっくりと移ろって行った。%K%P
+The bluish shadows of the moonlight crawled slowly across the gray walls.%K%P
+0x270
+ぼくは月と月の影を交互に見ながら、暗闇の中に白い息を吐いた。%K%P
+I looked at the moon and its shadows, and I let out a sigh in the darkness.%K%P
+0x27C
+なにも考えたくなかった。%K%P
+I didn't want to think about anything.%K%P
+0x288
+凍えるような寒さにも、あえて気づかないフリをしていた。%K%P
+I pretended not to notice the freezing coldness.%K%P
+0x294
+部屋には幅の狭いベッドがひとつだけあった。%K%P
+The room had a very small bed.%K%P
+0x2A0
+シーツはピンと張り伸ばされてシワひとつなく、埃の降り積もる様さえ見てとれた。%K%P
+The sheets were pulled tight. There wasn't a single wrinkle or even a speck of dust.%K%P
+0x2AC
+ベッドの脇には、角の取れた流線型の椅子が転がっている。%K%P
+Next to the bed lay a chair with all of the sharp edges rounded off.%K%P
+0x2B8
+椅子の足のうちの１本は、不自然な方向に折れ曲がっていた。%K%P
+One of the chair's legs was bent off in an unnatural direction.%K%P
+0x2C4
+ドアは閉ざされていた。ドアノブの無い鉄の扉だった。%K%P
+The door was closed. It was a steel door with no knob.%K%P
+0x2E0
+天井の隅に奴らの視線を感じる。%K%P
+I felt eyes upon me from the corner of the ceiling.%K%P
+0x2EC
+強烈な、鋭く突き刺すような視線を、ぼくは身体いっぱいに浴びていた。%K%P
+A sharp, intense pair of eyes piercing my body.%K%P
+0x2F8
+奴らの姿は見えなかったが、せせら笑うその声だけはしっかりと耳に届いた。%K%P
+I couldn't see the body belonging to the eyes, but a harsh laugh rang loudly in my ears.%K%P
+0x304
+レンズの脇に、赤いランプが灯っている。%K%P
+Next to the lens, a red light was on.%K%P
+0x310
+赤い光は、天井の角を切り取るように照らしていた。%K%P
+The red light was shining as if it was cutting off the corner of the ceiling.%K%P
+0x31C
+ふと、背後から、誰かのすすり泣く声が聞こえてきた。%K%P
+Suddenly, I heard the sobbing voice of someone behind me.%K%P
+0x328
+壁の向こうで、誰かがしくしくと、しくしくと、声をあげて泣いている。%K%P
+Someone was crying on the other side of the wall.%K%P
+0x33C
+%N
+
+0x348
+%LC%FS痛いよぉ……痛いよぉ……%FE%V%O
+%LC%FSOuch... Ouch...%FE%V%O
+0x368
+少女の細い声が闇に響く。%K%P
+The small voice of a girl echoed in the darkness.%K%P
+0x374
+すると、続いて聞こえてきたものは……%K%P
+And then I heard...%K%P
+0x39C
+――パンッ！%K%P
+Whack!%K%P
+0x3B0
+%N
+
+0x3BC
+%LC%FSうるさい！　我慢しろ！%FE%V%O
+%LC%FSShut up! Quit whining!%FE%V%O
+0x3DC
+地の底からわきあがるような、男の野太い声だった。%K%P
+It was the gruff voice of a man ringing out.%K%P
+0x3E8
+恐らく殴られたのであろう少女は、固いコンクリートの壁に身体を打ちつけ、より一層けたたましく泣きわめいた。%K%P
+I suspected that the girl had been hit. It sounded like she had fallen on the hard concrete and was crying even harder.%K%P
+0x3FC
+%N
+
+0x408
+%LC%FS痛いよぉ！　痛いよぉ！%FE%V%O
+%LC%FSOwwww! It hurts!%FE%V%O
+0x41C
+%N
+
+0x428
+%LC%FS助けて……誰か……%FE%V%O
+%LC%FSHelp... Someone...%FE%V%O
+0x448
+ぼくは両手で耳をふさぎ、頭を振った。%K%P
+I covered my ears with my hands and shook my head.%K%P
+0x45C
+%N
+
+0x468
+%LC%FSごめんなさいごめんなさい%Nごめんなさいごめんなさい%FE%V%O
+I'm sorry, I'm sorry― I'm sorry, I'm sorry, I'm sorry―%FE%V%O
+0x488
+それでも少女の悲痛な叫び声は鳴りやまなかった。%K%P
+Still, the girl's cries of pain didn't stop.%K%P
+0x494
+ぼくは逃げるように床をはいずり、部屋の反対側の隅でうずくまった。%K%P
+As if trying to escape, I crawled across the floor to the opposite corner of the room and curled up.%K%P
+0x4A0
+月光が眩しかった。%K%P
+The moon's light was bright.%K%P
+0x4AC
+隠れるように毛布をかぶり、目を閉じた。%K%P
+I covered myself with a blanket as if to hide and closed my eyes.%K%P
+0x4B8
+しくしくと、しくしくと、少女は泣き続けていた。%K%P
+The girl just cried and cried.%K%P
+0x4E0
+ごっ……！　ごっ……！%K%P
+Gong! Gong!%K%P
+0x508
+ごっ……！　ごっ……！%K%P
+Gong! Gong!%K%P
+0x530
+どさりっ！%K%P
+Thud!%K%P
+0x53C
+……これは、なんの音だ？%K%P
+...I wondered what that sound could be.%K%P
+0x548
+もう、考えたくなかった。%K%P
+I didn't want to think about it anymore.%K%P
+0x554
+目を閉じても、耳をふさいでも、彼女が床をのたうつ姿は、追い駆けるようにぼくの脳裏に浮かんで来る。%K%P
+Even if I closed my eyes, even if I plugged my ears, the image of the girl struggling on the floor jumped back into my mind.%K%P
+0x568
+%N
+
+0x574
+%LC%FS痛い……痛いよぉ……%FE%V%O
+%LC%FSOuch... Owwwww...%FE%V%O
+0x594
+時が経つにつれ、その声は弱々しく衰えていった。%K%P
+The voice gradually got weaker and faded.%K%P
+0x5A0
+やがてその声が消えた後……%K%P
+Finally, it disappeared completely...%K%P
+0x5AC
+静寂の中、くぐもった嗚咽だけが、虚しく響き渡っていた。%K%P
+In the silence, only a muffled sob echoed hollowly.%K%P
+0x5B8
+肌に触れる空気は異様で、はっきりと感じ取れるほどに、薄汚く淀んでいく。%K%P
+The air in the room was so dank and stale that it felt heavy and strange on the skin.%K%P
+0x5CC
+%N
+
+0x5D8
+%LC%FS助けて……%FE%V%O
+%LC%FSHelp me...%FE%V%O
+0x5F8
+声無き声が聞こえる。%K%P
+I heard a feeble voice.%K%P
+0x60C
+%N
+
+0x618
+%LC%FS助けて……助けてよぉ……%FE%V%O
+%LC%FSHelp... Help me...%FE%V%O
+0x630
+%N
+
+0x63C
+%LC全部おまえのせいだ！%V%P
+%LCIt's all your fault!%V%P
+0x65C
+突如現れた男の罵声が、少女の声をかき消す。%K%P
+The sudden curses of the man drowned out the girl's voice.%K%P
+0x670
+%N%N
+
+0x67C
+%LCこれは全部おまえの望んだことなんだ。%V%N
+%LCAll of this is just the way you wanted it.%V%N
+0x688
+%LCそうだろう？　おまえは全部認めたんだ。%V%N
+%LCRight? You best fess up to all of it.%V%N
+0x694
+%LCこうなることは最初からわかっていたくせに……%V%P
+%LCYou knew from the start that things would turn out like this...%V%P
+0x6B4
+少年「違う！　知らなかったんだ！」%K%P
+Kid「NO! I didn't know!」%K%P
+0x6C8
+%N
+
+0x6D4
+%LC嘘をつけ！　ならどうして逃げた？%V%P
+%LCLiar! So why did you run away?%V%P
+0x6F4
+少年「逃げてなんかっ」%K%P
+Kid「I didn't run away!」%K%P
+0x708
+%N%N%N
+
+0x714
+%LCいや、おまえは逃げた。%V%N
+%LCNo, you ran away.%V%N
+0x720
+%LCあの子を置いて、ひとりで逃げたんだ。%V%P
+%LCYou left that girl and ran away.%V%P
+0x740
+少年「違う……ぼくは……約束を……」%K%P
+Kid「No... I... I promised...」%K%P
+0x754
+%N%N
+
+0x760
+%LCその約束は果たせなかった。%V%N
+%LCAnd you broke it.%V%N
+0x76C
+%LCと言うよりも、%N最初から果たすつもりなんかなかったんだろ？%V%P
+Or maybe you always meant to break it?%V%P
+0x78C
+少年「違う……」%K%P
+Kid「No...」%K%P
+0x7A0
+%N%N%N
+
+0x7AC
+%LCおまえは自らの幸せを買ったんだ。%Nあの子の身体と引き換えにな……ははははは……%V%O
+You bought happiness for yourself. You traded it for that girl's life... Hahahaha...%V%O
+0x7CC
+少年「違う……違う……違う……違う……違う……違う……違う……」%K%P
+Kid「No... No... No... No... No... No... No... No... No...」%K%P
+0x81C
+%N
+
+0x828
+%LC%FSうん、約束だよ。%FE%V%O
+%LC%FSYeah, I promise.%FE%V%O
+0x83C
+%N
+
+0x848
+%LC%FS迎えに来るまで、いい子にして待ってるから……%FE%V%O
+%LC%FSTo wait like a good kid until you come for me.%FE%V%O
+0x85C
+%N
+
+0x868
+%LC%FSいい子にして……待ってるから……%FE%V%O
+%LC%FSI'll wait... like a good girl...%FE%V%O
+0x87C
+%N
+
+0x888
+%LC%FSずっと……待ってる……から……%FE%V%O
+%LC%FSI'll wait... forever...%FE%V%O
+0x8E4
+少年「――違う！」%K%P
+Kid「...NO!」%K%P
+0x8F0
+ぼくは叫び声をあげ、床に転がった椅子を両手でつかんだ。%K%P
+I shouted and grabbed the chair lying on the floor with both hands.%K%P
+0x8FC
+幻影を追い払うかのように、椅子を壁に向かって叩きつける。%K%P
+I took the chair, as if to scare away a ghost, and pounded it on the wall.%K%P
+0xB14
+――ドガッ！%K%P
+Thud!%K%P
+0xB20
+やみくもに、渾身の力をこめて、何度も何度も……。%K%P
+Wildly, I put all of my limited strength into it... Over and over...%K%P
+0xD38
+――ドガッ！%K%P
+Thud!%K%P
+0xF50
+――ドガッ！%K%P
+Thud!%K%P
+0x1168
+――ドガッ！%K%P
+Thud!%K%P
+0x1174
+椅子はひん曲がり、壁はキイキイと音をたてて歪んだ。%K%P
+The chair bent awkwardly and scraped against the dented wall.%K%P
+0x1180
+窓の外……遠い月明かり……。%K%P
+Outside the window... the moonlight shined far away...%K%P
+0x118C
+少年「ふざけんじゃねぇーぞ、てめえ！」%K%P
+Kid「Damn you!」%K%P
+0x1198
+月に向かって、ぼくは力任せに椅子を投げつけた。%K%P
+I took the chair and threw it at the moon with all my strength.%K%P
+0x11F0
+――バチバチバチ！%K%P
+―Crash!%K%P
+0x11FC
+月は棘のような火花を無数に散らし、無惨にも砕け散った。%K%P
+The moon scattered like fireworks, shattering to pieces.%K%P
+0x1210
+少年「殺してやる」%K%P
+Kid「I'll kill you.」%K%P
+0x121C
+呟きながら、鉄製の扉に体当たりを食らわす。%K%P
+Saying that, I threw my body into the steel door.%K%P
+0x1344
+ゴンッ……ゴンッ……ゴンッ……ゴンッ……。%K%P
+Bang... Bang... Bang... Bang...%K%P
+0x1350
+扉はびくともしない。%K%P
+The door wouldn't budge.%K%P
+0x135C
+しかしぼくはあきらめなかった。%K%P
+But I didn't give up.%K%P
+0x1368
+身体が粉々になっても、このドアを開けてやろうと思った。%K%P
+If I had to pulverize my body, I was still going to open that door.%K%P
+0x1490
+ゴンッ……ゴンッ……ゴンッ……ゴンッ……。%K%P
+Bang... Bang... Bang... Bang...%K%P
+0x15B8
+ゴンッ……ゴンッ……ゴンッ……ゴンッ……。%K%P
+Bang... Bang... Bang... Bang...%K%P
+0x16E0
+ゴンッ……ゴンッ……ゴンッ……ゴンッ……。%K%P
+Bang... Bang... Bang... Bang...%K%P
+0x16EC
+執拗に体当たりを繰り返す。%K%P
+I hurled myself against the door again and again.%K%P
+0x16F8
+殺意は血をわきたたせ、身体は昂奮に震えていた。%K%P
+The rage I felt made my blood boil and my body shake with fury.%K%P
+0x1704
+こめかみを伝って、熱いものがドロリと流れる。%K%P
+Something hot and sticky flowed from near my temple.%K%P
+0x1710
+固い扉にぶつかる度に、激痛が身体をつらぬいた。%K%P
+Every time I crashed into the door, a shock of pain ran through my body.%K%P
+0x171C
+ぼくの肩はすでに砕けてしまったのかもしれない。%K%P
+I thought that my shoulder might already be broken.%K%P
+0x1844
+ゴンッ……ゴンッ……ゴンッ……ゴンッ……。%K%P
+Bang... Bang... Bang... Bang...%K%P
+0x1850
+鈍い音が絶え間なく闇に響いた。%K%P
+A dull sound echoed in the darkness endlessly.%K%P
+0x1890
+？？「な、なにやってるの！？」%K%P
+???「What are you doing?」%K%P
+0x189C
+突如開かれたドア……。%K%P
+Suddenly, the door opened...%K%P
+0x18A8
+白い光がぼくの両目を射抜いた。%K%P
+White light poured into my eyes.%K%P
+0x18B4
+少年「あ…あ……ああっ…ううっ……」%K%P
+Kid「Ah... Ah... Ungh...」%K%P
+0x18C0
+涙があふれ、こぼれ落ちた。%K%P
+Tears overflowed in my eyes and dripped down.%K%P
+0x18D8
+ぼやけた視界の向こうに沙羅の姿が見えた。%K%P
+Through my blurred vision, I could make out Sara.%K%P
+0x18E4
+沙羅はまばゆい光を背にして、ぼくの前に手を差し伸べていた。%K%P
+Sara stood surrounded by the bright light, her hands outstretched to me.%K%P
+0x18F8
+ぼくの意識は、やがて光の中へと吸い込まれて行った。%K%P
+Finally, my consciousness was sucked into the light.%K%P
+0x1904
+ぼくは力なく崩れ落ち、床の上に横たわった。%K%P
+Powerless, I slumped to the floor, lying there.%K%P
+0x1910
+ぼくの身体は鉛のように重く、ずぶずぶと床の中へとめり込んで行くようだった。%K%P
+My body felt heavy like lead, like it would sink into the floor.%K%P
+0x1958
+気がつくと、ぼくはベッドの上にいた。%K%P
+The next thing I knew, I was on a bed.%K%P
+0x1964
+まぶしいくらいに白い天井……。%K%P
+The ceiling was so white that it was slightly blinding...%K%P
+0x1970
+消毒薬の匂い……。%K%P
+It smelled of disinfectant...%K%P
+0x197C
+ここは……救護室？%K%P
+Was it the... infirmary?%K%P
+0x1988
+？？「気がついた？」%K%P
+???「Are you awake now?」%K%P
+0x1994
+横たわっていたぼくの上に、ひとつの影が覆い被さる。%K%P
+A shadow passed above me on the bed.%K%P
+0x19A8
+優だった。%K%P
+It was You.%K%P
+0x19B4
+既視感……。%K%P
+Déjà vu...%K%P
+0x19C0
+いや、これは確かにかつて経験した光景だ。%K%P
+No, it was something that I had actually experienced before.%K%P
+0x19CC
+おととい、１日に目覚めたときも、今と同じように優はぼくの傍にいて……。%K%P
+Two days before, when I woke up on the first day, You was at my side...%K%P
+0x19D8
+少年「沙羅、は……？」%K%P
+Kid「Where is Sara...?」%K%P
+0x19E4
+優「さあ？　どこかで休んでると思うよ？」%K%P
+You「Who knows? Probably resting somewhere.」%K%P
+0x19F8
+優「今まで、ずっとマヨが看病してくれてたんだよ。私は今さっき、交代したところ」%K%P
+You「I just replaced her a little bit ago. She looked after you the whole time until then.」%K%P
+0x1A04
+少年「そう……」%K%P
+Kid「I see...」%K%P
+0x1A18
+ぼくは布団の中から両手を出し、手の平をぼんやりと眺めた。%K%P
+I took both hands out from the blanket and stared dreamily at my palms.%K%P
+0x1A24
+刻み込まれた無数のシワ……絡み合い、枝のように伸びて行く複雑な模様……。%K%P
+The countless wrinkles etched there... intertwining, reaching out like the branches of a tree in complicated patterns...%K%P
+0x1A30
+赤みがかった肌の色……奥に埋ずもれた血管の、ほのかな青……。%K%P
+The pinkish skin... and buried deeper, the slightly blue veins...%K%P
+0x1A3C
+そして……５本の指……。%K%P
+And... five fingers...%K%P
+0x1A48
+左に５本、右に５本、指は相変わらず１０本だった。%K%P
+Five on the left, five on the right, and ten in total. The same as always.%K%P
+0x1A54
+なくしたぼくの指は、いまだ帰って来ない。%K%P
+My lost finger still hadn't come back to me yet.%K%P
+0x1A60
+――左手の親指に残る深い傷跡。%K%P
+There was still the deep scar on my left thumb.%K%P
+0x1A6C
+ぼくはいつもそうするように、その傷跡を小指で撫でてみた。%K%P
+Like always, I gently ran my pinky over the scar.%K%P
+0x1A78
+いつもそうするように？%K%P
+Like always?%K%P
+0x1A84
+（そうか、これはぼくの癖なのか）%K%P
+(I see. Maybe this is a habit of mine.)%K%P
+0x1A90
+不思議とその事実は、ごく自然に、ぼくの胸の中でスルリと解けた。%K%P
+Strangely, that fact had penetrated naturally into my mind.%K%P
+0x1A9C
+ところで……。%K%P
+But...%K%P
+0x1AA8
+ぼくはいつ、どこで、どうしてこの指をケガしたのだろうか？%K%P
+I wondered when, where, and how I had injured my thumb.%K%P
+0x1AB4
+もしかしたらこの傷跡は、ぼくの過去を知る為の何かの手がかりになるかもしれない。%K%P
+Maybe the scar held some kind of clue to help me remember my past.%K%P
+0x1AC0
+小指で傷跡をなぞると、ピリピリと電気が走るようで、少しくすぐったかった。%K%P
+As I traced the wound with my pinky, it caused a slight stinging pain that tickled a little bit.%K%P
+0x1ACC
+もうぼくは、すっかりと落ち着きを取り戻していた。%K%P
+I was finally feeling completely calmed down.%K%P
+0x1AE0
+優「なにがあったの？」%K%P
+You「What happened?」%K%P
+0x1AEC
+優は淹れたてのコーヒーをカップに注ぐと、ぼくの前に差し出し、ベッドサイドに腰をおろした。%K%P
+You poured me a cup of freshly brewed coffee, handed it to me, and sat down next to my bed.%K%P
+0x1AF8
+ぼくはそれを受け取り、ひと口飲み込んでから説明を始めた。%K%P
+I took the coffee. After a sip, I started to explain.%K%P
+0x1B30
+………………。%K%P
+.........%K%P
+0x1B3C
+…………。%K%P
+......%K%P
+0x1B48
+……。%K%P
+...%K%P
+0x1BA4
+優「なるほど……」%K%P
+You「I see...」%K%P
+0x1BB0
+優「じゃあ、あの小部屋の造りと、かつて少年がいた場所の造りとは、なんらかの共通点があるってことね？」%K%P
+You「So that little room and the room that you were in before were similar somehow?」%K%P
+0x1BBC
+少年「たぶん」%K%P
+Kid「Probably.」%K%P
+0x1BC8
+優「話を聞いた限りでは、それってどこかの病室みたいだよね？」%K%P
+You「Listening to that, it sounds like a sickroom or isolation ward somewhere.」%K%P
+0x1BD4
+少年「病室？」%K%P
+Kid「Sickroom?」%K%P
+0x1BE8
+優「きみ、昔入院したことがあるんじゃないの？」%K%P
+You「You've probably been hospitalized before somewhere.」%K%P
+0x1BF4
+少年「…………」%K%P
+Kid「...」%K%P
+0x1C08
+優「こんなことを言ったら失礼かもしれないけど……」%K%P
+You「Maybe I shouldn't say this, but...」%K%P
+0x1C14
+優「少年は前にも、今と同じようなことを……」%K%P
+You「Kid, maybe you've had the same...」%K%P
+0x1C28
+優「つまり、記憶喪失や、突然暴れ出したりといった発作を、何度か繰り返してきたんじゃないかな？」%K%P
+You「I mean, maybe you've lost your memory or had violent fits repeatedly before.」%K%P
+0x1C34
+優「だから、小さな窓がひとつしか付いていないような病室に、監禁されてしまった……」%K%P
+You「So maybe you were detained in a sickroom with a tiny window like that...」%K%P
+0x1C40
+優は慎重に言葉を選びながらも、残酷な現実を容赦なく突きつけた。%K%P
+You touched on the harsh reality of the situation, yet chose her words with care.%K%P
+0x1C54
+優「あ、もちろん、それが真実だと決まったわけじゃないよ？　あくまでも、可能性の話」%K%P
+You「Of course, it's not for sure or anything. It's just one possibility.」%K%P
+0x1C60
+優「ただ単に、白昼夢の中をさまよってただけ……そんな可能性も、なきにしもあらずだから」%K%P
+You「You probably had a waking dream... That is a possibility too.」%K%P
+0x1C6C
+少年「ぼくは……夢を見てたのか」%K%P
+Kid「I... I was dreaming.」%K%P
+0x1C78
+優「それも、起きながらにして、ね」%K%P
+You「While you were awake, though.」%K%P
+0x1CC0
+やがて優は、夢と記憶の関連性について、わかりやすく説明してくれた。%K%P
+Finally, You gave me an easy to understand explanation about the connectedness of memories and dreams.%K%P
+0x1CCC
+優によれば、夢が記憶と深い関係にあるのは明らかだが、夢に見たことが、すべて現実に経験したこととは限らないのだそうだ。%K%P
+According to You, dreams and memory were clearly deeply related, but not everything seen in a dream was something experienced in reality.%K%P
+0x1CD8
+つまり、ぼくが何かのキッカケによって幻影を見たことは確かだけれど……%K%P
+In other words, something had set off my hallucination, but...%K%P
+0x1CE4
+それだけでは、ぼくが本当にあのような病室に閉じ込められたことがあるのかどうかはわからない、ということだ。%K%P
+That alone didn't mean that I really had been held in a sickroom.%K%P
+0x1CF0
+夢はしばしば、なにかの象徴として現れる。%K%P
+Dreams could often appear as symbols of something else.%K%P
+0x1CFC
+だからぼくがさっき見たものは、抑圧されたなにかが形を変えて姿を現したものなのかもしれない。%K%P
+So what I had seen earlier might have been caused by my repressed memories.%K%P
+0x1D08
+いずれにせよ、それを確かめる手段はない。%K%P
+In any case, there was no way to be sure of anything.%K%P
+0x1D14
+ぼくは未だに記憶を取り戻していないのだ。%K%P
+And I still hadn't gotten my memory back.%K%P
+0x1D20
+病室らしき場所で体験したあの出来事は、夢の中に出てくる不思議な小動物と同じくらい現実感をともなっていなかった。%K%P
+I felt that my experience in a sickroom or somewhere like one was as unreal as a strange small animal that might appear in a dream.%K%P
+0x1D2C
+（あれは……ただの夢だったんだ）%K%P
+(Maybe it was just a dream.)%K%P
+0x1D38
+いつしか、それは確信に変わっていた。%K%P
+At some point, I had become sure of it.%K%P
+0x1D44
+きっとあれは、気まぐれなぼくの脳の悪ふざけだったに違いない。%K%P
+I felt sure that it was just my mind playing a nasty trick on me.%K%P
+0x1D6C
+優がベッドサイドから立ち上がる。%K%P
+You stood from beside the bed.%K%P
+0x1D80
+優「さて、と。とりあえず、もう一度行って確かめてみようか？」%K%P
+You「Okay. For now, shall we go to check it out one more time?」%K%P
+0x1D8C
+少年「どこへ？　なにを？」%K%P
+Kid「Go check what?」%K%P
+0x1DA0
+優「その小部屋へ。事実関係を確かめに」%K%P
+You「That little room. To set the record straight.」%K%P
+0x1DAC
+手を差し伸べる優。%K%P
+You held out her hands out to me.%K%P
+0x1DB8
+優「もしかしたら、なにか記憶を取り戻す為のキッカケとなるようなものが見つかるかもしれないし」%K%P
+You「You might find a clue to help you jog your memory and get it back.」%K%P
+0x1DC4
+少年「…………」%K%P
+Kid「...」%K%P
+0x1DD0
+ぼくはそうは思わなかった。%K%P
+I thought that was unlikely.%K%P
+0x1DDC
+（あれはただの幻覚だったんだ）%K%P
+(I know that was just my mind playing tricks on me.)%K%P
+0x1DE8
+あの小部屋と、ぼくの記憶や想い出との間に、何らかの繋がりを見出すことは不可能だろう。%K%P
+I was convinced that there was no connection between that room and my memory.%K%P
+0x1DF4
+そう考えつつも、ぼくは頷かずにはいられなかった。%K%P
+Even so, I had to agree to go.%K%P
+0x1E00
+せっかくの好意を、無駄にはできないと思ったから。%K%P
+If she was willing to take me, I couldn't turn her down.%K%P
+0x1E0C
+優の手をとって、ベッドから起きあがる。%K%P
+I took You's hands and got up from the bed.%K%P
+0x1E18
+彼女の手の平は、当たり前だけれど、沙羅のものとは手触りが違っていた。%K%P
+It only made sense, but her hands felt a lot different from Sara's.%K%P
+0x1EA0
+小部屋の中は荒れ果てていた。%K%P
+The inside of the little room was in shambles.%K%P
+0x1EAC
+よくもこんなに散らかしたものだ、というぐらいの惨状だった。%K%P
+I was amazed that I could have made that much of a mess. That was how terrible it was.%K%P
+0x1EB8
+世界中のポルターガイストを圧縮し、解凍してもこうはならないだろう。%K%P
+I didn't think that even if you compressed all of the world's poltergeists into that itty-bitty space they could have done much more.%K%P
+0x1EC4
+口をあんぐりと開けたまま立ち尽くすぼくに向かって、優はひと言……。%K%P
+All I could do was stand there with my jaw on the floor as You said...%K%P
+0x1ED8
+優「きみが、やったんだよ？」%K%P
+You「You did this?」%K%P
+0x1EE4
+念を押すようにそう言った。%K%P
+She was saying it as if to make sure.%K%P
+0x1EF8
+優「で？　えーっと、なんだっけ？」%K%P
+You「And? What was it we were going to...?」%K%P
+0x1F04
+少年「えっ？」%K%P
+Kid「Huh?」%K%P
+0x1F10
+優「確か……まずこの部屋に入って、少年は床に座ったんだよね？」%K%P
+You「If I remember correctly... You came into the room and sat on the floor, right?」%K%P
+0x1F1C
+少年「う、うん……」%K%P
+Kid「Y-yeah...」%K%P
+0x1F30
+優「どのへん？」%K%P
+You「Whereabouts?」%K%P
+0x1F3C
+少年「たぶん、そのへん」%K%P
+Kid「About here, I think.」%K%P
+0x1F48
+ぼくは優の立っている足元の辺りを指差した。%K%P
+I pointed to the area around You's feet.%K%P
+0x1F54
+優「ドアは？」%K%P
+You「What about the door?」%K%P
+0x1F60
+少年「ドア？」%K%P
+Kid「The door?」%K%P
+0x1F74
+優「ドアは閉めたんですかって訊いてるの」%K%P
+You「I'm asking whether the door was shut or not.」%K%P
+0x1F80
+少年「えーと……閉めた、と思う」%K%P
+Kid「Uh... I shut it, I think.」%K%P
+0x1F8C
+少年「ドアが閉まってたから、脱出しようと思って体当たりを繰り返したわけで……」%K%P
+Kid「After the door shut, I wanted to escape and started throwing myself against the door...」%K%P
+0x1F98
+ぼくは答えながら、小部屋のドアを閉めた。%K%P
+I closed the door as I answered.%K%P
+0x1FF4
+たちまち室内は、さっきと同じような深い闇に包まれた。%K%P
+Just like before, the room was thrown into darkness.%K%P
+0x2000
+唯一の光源は、小さな窓から射し込む月明かりだけで……。%K%P
+The only source of light was the moonlight pouring through the little window...%K%P
+0x200C
+（えっ？　月明かり？）%K%P
+(What? Moonlight?)%K%P
+0x2018
+優「ちょっと、これじゃあなんにも見えないじゃない」%K%P
+You「I can't see anything like this.」%K%P
+0x2024
+優は闇の中を手で探っていた。%K%P
+You grasped around in the dark with her hands.%K%P
+0x2030
+その様子が、ぼくにはハッキリと見えた。%K%P
+I could see everything perfectly.%K%P
+0x2044
+優「電気は？　スイッチはどこ？」%K%P
+You「Where's the light switch?」%K%P
+0x2050
+優は壁づたいに歩き、時折足元に転がったプラスチックケースにつまずきながら、目的のスイッチを探し求めた。%K%P
+You walked along the wall looking for the switch, sometimes tripping on plastic boxes scattered on the floor.%K%P
+0x205C
+優の身体は、ほのかな光を発していた。%K%P
+You's body gave off a faint light.%K%P
+0x2068
+彼女が足を運ぶたびに、かげろうのような残像がたなびいた。%K%P
+Every time she took a step, a faint streak-like image followed her.%K%P
+0x2074
+それは深い霞の中をたゆたうロウソクの灯りに似ていた。%K%P
+It was like the flame of a candle flickering in a thick mist.%K%P
+0x20D0
+天井から光が降り注ぐ。%K%P
+Light shone down from the ceiling.%K%P
+0x20DC
+優「はぁ〜、今どきこんな石器時代のインターフェイスを使ってるとはねぇ〜」%K%P
+You「Geez. Can you believe they're still using electronic fossils like this these days?」%K%P
+0x20E8
+壁につけられたスイッチをしげしげと眺めながら、優は呟いた。%K%P
+You muttered that as she stared at the light switch.%K%P
+0x20FC
+優「こういうお客様に見えないところにこそ、お金って使うべきなんじゃないの？」%K%P
+You「They should spend money on places like this even if the customers won't see them.」%K%P
+0x2108
+優「こんなとこで手を抜いてるから、きっと事故だって……」%K%P
+You「It's because they cut corners in places like this that they get accidents...」%K%P
+0x2114
+少年「…………」%K%P
+Kid「.........」%K%P
+0x2128
+優「まあ、そんなことはどうでもいいや」%K%P
+You「That's not important right now.」%K%P
+0x213C
+優はくるりと振り向いた。%K%P
+You whipped around.%K%P
+0x2148
+そして、部屋の中を隅々まで見渡すと、こう呟いた。%K%P
+Then, scouring the room, she said...%K%P
+0x215C
+優「ところで……」%K%P
+You「By the way...」%K%P
+0x2170
+優「……窓は、どこ？」%K%P
+You「...Where's the window?」%K%P
+0x2184
+そう、この小部屋の中には、窓はひとつもついていなかった。%K%P
+There wasn't a single window in the whole room.%K%P
+0x2190
+考えてみれば当たり前のことだった。%K%P
+Thinking about it, it made sense.%K%P
+0x219C
+格納庫の片隅に備え付けられたこんな物置に、コストのかかる耐圧ガラスをはめ込む道理はないのだ。%K%P
+Nobody would fork over the cash for a little window with special pressure-resistant glass in a little storage room stuck on the side of a warehouse.%K%P
+0x21A8
+ぼくは、ついさっきまでそこにあったはずの月明かりを探し求めた。%K%P
+I looked around for the moonlight that had been there until a second ago.%K%P
+0x21B4
+月はなかった。%K%P
+There was no moon.%K%P
+0x21C0
+ぼくが粉々に砕いてしまったからだろうか？%K%P
+I wondered if it was because I had shattered it.%K%P
+0x21CC
+いや、そうではなかった。%K%P
+But that wasn't it.%K%P
+0x21D8
+ぼくが窓だと勘違いしていたものはただの……小さな四角い穴、だったようだ。%K%P
+What I had mistaken for a window was... just a little square hole.%K%P
+0x21EC
+優「これが、窓？」%K%P
+You「Is this the window?」%K%P
+0x21F8
+優「これが窓に見えたって言うの？」%K%P
+You「You're saying you thought this was a window?」%K%P
+0x220C
+優はぼくの視線をたどって、その四角い穴の前に立った。%K%P
+You followed my eyes, then went and stood in front of the square hole.%K%P
+0x2218
+ぼくも優の傍らに寄って、四角い穴を見上げる。%K%P
+I went over beside her and looked up at the hole.%K%P
+0x2224
+穴は鉄枠で縁取られていた。%K%P
+The hole was bordered by a steel frame.%K%P
+0x2230
+ちょうどＩＣロッカーと同じくらいの大きさ。%K%P
+It was about the same size as a coin locker.%K%P
+0x223C
+サイズで言うと、一辺が５０ｃｍ程度の正方形をしていた。%K%P
+It was about 50 centimeters on each side.%K%P
+0x2248
+穴には扉が付いていた。%K%P
+There was a door on the hole.%K%P
+0x2254
+ぼくが壊したのだろうか、扉はぐにゃりとひん曲がって、穴の脇の蝶番のところでだらしなくぶら下がっている。%K%P
+I might have broken it, but the door was bent completely and hung loose at a hinge on the side of the hole.%K%P
+0x2260
+穴はただの空洞ではなかった。%K%P
+The hole was more than an empty space.%K%P
+0x226C
+穴の中には、基板のようなもの、色とりどりの配線、何かのプラグ、小さなレバーのようなものがギッシリと詰まっていた。%K%P
+A bunch of colored wiring, something like an integrated circuit board, some kind of plug, and something like a small lever were all packed into it.%K%P
+0x2278
+少年「これは、何？」%K%P
+Kid「What is this?」%K%P
+0x228C
+ぼくには、それが何かわからなかった。%K%P
+I had no idea what it was.%K%P
+0x2298
+優「たぶん、インバータユニットか何かだと思うけど」%K%P
+You「It's probably an inverter unit or something.」%K%P
+0x22A4
+少年「いんばーたゆにっと？」%K%P
+Kid「Inverter unit?」%K%P
+0x22B8
+優「発電室から送られてくるＡＣの電気をＤＣに変換し……」%K%P
+You「To change the AC power that comes from the generator into DC...」%K%P
+0x22C4
+優「その電流を、この格納庫で使われる電気器具の規格に合った周波数に変換する装置」%K%P
+You「It's a mechanism for changing the electrical current into one that the tools in this warehouse can use.」%K%P
+0x22D0
+優「またはその制御部分、保護部分を指す」%K%P
+You「That means this device controls those functions.」%K%P
+0x22DC
+少年「ふ、ふ〜ん……」%K%P
+Kid「I see...」%K%P
+0x22E8
+ぼくにはまったく理解不能な言語だったが、ひとまず頷いておいた。%K%P
+Everything she was saying was like gibberish to me, but I nodded.%K%P
+0x22FC
+優「正確に言うと、だった、かな」%K%P
+You「Or to be more precise, it WAS that.」%K%P
+0x2308
+少年「えっ？」%K%P
+Kid「Huh?」%K%P
+0x2314
+優「インバータユニット、だった」%K%P
+You「That WAS the inverter unit.」%K%P
+0x2320
+優「もう壊れちゃってるみたいだから、これ……」%K%P
+You「It looks broken now...」%K%P
+0x2334
+優「誰がやったのか知らないけどねぇ〜」%K%P
+You「I have no idea who broke it, but...」%K%P
+0x2348
+ぼくの方には視線を向けず、優はそう言った。%K%P
+You said it straight-faced and without looking at me.%K%P
+0x2354
+ぼくは、そのインバータユニットとやらに触れてみた。%K%P
+I reached out to touch the inverter unit thing.%K%P
+0x2360
+それはほのかに熱を帯びていた。%K%P
+It was a little bit warm.%K%P
+0x236C
+いや、もしかすると、順序は逆だったかもしれない。%K%P
+Or maybe I had it backwards.%K%P
+0x2378
+ぼくは、触れる前から熱のあることを知っていた。%K%P
+Maybe I knew that it was warm before I touched it.%K%P
+0x2384
+だから、それを指先で確かめてみたかったのかも……。%K%P
+So I had wanted to make sure by touching it...%K%P
+0x23CC
+結局のところ、収穫はほぼゼロだった。%K%P
+In the end, we really didn't learn anything.%K%P
+0x23D8
+いや……でも……。%K%P
+No... But...%K%P
+0x23E4
+よくわからないけど、何かが動き出そうとしている……そんな感じがしていた。%K%P
+But it did seem like something was trying to move... at least to me.%K%P
+0x23F0
+例えるならば……%K%P
+It felt like...%K%P
+0x23FC
+そう、例えるならば、ぼくの中で誰かがコトリと寝返りを打つような。%K%P
+It felt like someone inside me was tossing and turning in his sleep.%K%P

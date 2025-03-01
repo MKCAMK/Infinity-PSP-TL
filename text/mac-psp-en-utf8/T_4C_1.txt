@@ -1,0 +1,555 @@
+text area offset and size:
+0xE40
+0x2122
+0x80
+空の騒動から、さらに数時間。%K%P
+Several hours had passed since Sora's outburst.%K%P
+0x8C
+優・ココ・少年は既に食事を終え、憩いの間へと移って各自腹ごなしなり休憩なりをしている最中だった。%K%P
+You, Coco, and the Kid had finished their meal and moved to the rest area, where they were relaxing and letting their food digest.%K%P
+0x98
+武「さてと……」%K%P
+Takeshi「Okay then...」%K%P
+0xA4
+俺は売店の後片づけをあらかたすませると……。%K%P
+I had almost finished tidying up the kiosk.%K%P
+0xB0
+武「にっひひひひひ……♪」%K%P
+Takeshi「Heeheehee...!」%K%P
+0xBC
+保温器の陰に隠しておいた、内緒のブツを取り出した。%K%P
+I pulled out the object I had secretly hidden behind the warmer.%K%P
+0xC8
+実はソーセージがまだ１本だけ、冷蔵庫の奥に残っていたのだ。%K%P
+Actually, there had been one sausage left at the back of the refrigerator.%K%P
+0xD4
+ドッグパンはなかったので、サンドのバンズにソーセージを挟み込む。%K%P
+There were no hotdog buns, so I stuffed the sausage into a bread roll.%K%P
+0xE0
+そしてケチャップとマスタードを塗りたくり、大口開けてかぶりついた。%K%P
+I slapped on ketchup and mustard and took a big bite.%K%P
+0xEC
+武「むふふ……やべぇ、美味過ぎる……♪」%K%P
+Takeshi「Mmm... Mmm... This is so good...!」%K%P
+0xF8
+バリっとした歯ごたえとジューシーな旨みが、お口一杯に広がる。%K%P
+My mouth filled with the juicy flavor as I bit down.%K%P
+0x104
+武「ああ、おいちい、肉おいちい……♪」%K%P
+Takeshi「Mmmm... Meat... Mmm... Yum...」%K%P
+0x110
+タツタサンドも美味いが、やっぱり毎食毎食あれでは飽きるからなぁ……。%K%P
+Fried tuna sandwiches were good, but not for every meal every single day...%K%P
+0x11C
+俺は売店の裏に隠れて、むしゃむしゃ食っていた。%K%P
+I hid in the back of the kiosk and devoured the sausage.%K%P
+0x154
+空「あ、倉成さん、ここにいらしたんですか」%K%P
+Sora「Oh, Kuranari-san, there you are.」%K%P
+0x160
+武「んぐぁ！？」%K%P
+Takeshi「Mmmf!?」%K%P
+0x16C
+いきなり話しかけられて、俺はソーセージの欠片を喉に詰まらせた。%K%P
+Surprised by Sora's voice, I choked on a piece of sausage.%K%P
+0x178
+空はすぐ目の前に現れていた……。%K%P
+Sora appeared in front of me.%K%P
+0x1AC
+武「……！？　…………！！」%K%P
+Takeshi「......!? ......!」%K%P
+0x1C0
+空「く、倉成さん！？　しっかりしてください！」%K%P
+Sora「Kuranari-san? Are you alright?」%K%P
+0x1CC
+武「〜〜〜〜〜〜〜〜っ！！」%K%P
+Takeshi「Aaaaaaaaagh!」%K%P
+0x1D8
+武「っぁあ！！　ぐえっ、ごほっ、がはぁ……」%K%P
+Takeshi「A-ahgh... *cough*, *cough*...」%K%P
+0x1E4
+俺は目を白黒させながらもがき、喉の奥の肉片を胃袋へと脱出させる。%K%P
+Blinking and struggling, I finally managed to swallow the chunk of meat.%K%P
+0x1F0
+残りのソーセージサンドを一気に腹に詰め込み、証拠を隠滅した。%K%P
+I swallowed the rest of the sausage in one bite to remove the evidence.%K%P
+0x204
+それから、切らした息を抑えながら言う。%K%P
+I struggled to control my breathing.%K%P
+0x210
+武「空……」%K%P
+Takeshi「Sora...」%K%P
+0x224
+空「はい、なんでしょう」%K%P
+Sora「What is it?」%K%P
+0x230
+武「今ここで見たことは他言無用。わかったな？」%K%P
+Takeshi「Not a word about what you just saw, okay?」%K%P
+0x23C
+空「え、ええ……構いません。承知しました」%K%P
+Sora「Y-yes... Alright. I understand.」%K%P
+0x250
+空「でも、何してたんです？　何か食べていたんですか？」%K%P
+Sora「But what were you doing? Were you eating something?」%K%P
+0x25C
+武「ああ、いやぁ！　わかってないんなら、別にいいんだ……」%K%P
+Takeshi「Oh, well, if you don't know, it doesn't matter...」%K%P
+0x268
+空「？？」%K%P
+Sora「?」%K%P
+0x274
+空は普段のように、少しとぼけていた。%K%P
+As usual, Sora feigned ignorance.%K%P
+0x280
+俺のした怪しい恋愛心理学講座のことは、どうやら綺麗サッパリ忘れてくれたらしい。%K%P
+It looked like she didn't remember my love psychology lecture.%K%P
+0x28C
+幸いだった。%K%P
+It was just as well.%K%P
+0x2A0
+空「ところで……さっき小町さんと少し話をしてきました」%K%P
+Sora「By the way... I just had a talk with Komachi-san.」%K%P
+0x2AC
+武「おおっ？　本当か？？」%K%P
+Takeshi「Oh, really?」%K%P
+0x2B8
+俺はたぶん、再び目を白黒させていただろう。%K%P
+Surprised, I blinked.%K%P
+0x2C4
+武「つぐみと話、できたんだ？」%K%P
+Takeshi「You spoke to Tsugumi?」%K%P
+0x2D0
+空「はい。小町さんが救護室に戻ってらしたので、声をかけてみたんです」%K%P
+Sora「Yes. She returned to the infirmary, so I went to see her.」%K%P
+0x2DC
+空「そうしたら、小町さんのほうから私に話しかけていただいて」%K%P
+Sora「Komachi-san was actually the one to speak first.」%K%P
+0x2E8
+武「そうなのか？」%K%P
+Takeshi「Oh?」%K%P
+0x2F4
+空「ええ、それで……『少しやりすぎた。医療機器を壊してしまってゴメンナサイ』と言ってました」%K%P
+Sora「Yes, she said she was sorry for going too far and smashing the medical equipment.」%K%P
+0x300
+武「あ、謝ったのか、あいつが！？」%K%P
+Takeshi「A-apologized? Tsugumi!?」%K%P
+0x30C
+空「はい」%K%P
+Sora「Yes.」%K%P
+0x318
+驚いた……。%K%P
+I was surprised.%K%P
+0x324
+いや、本当に驚いてしまった……。%K%P
+No, I was really surprised.%K%P
+0x338
+空「それから、私に奇妙な質問をされました」%K%P
+Sora「And then she asked me a really strange question.」%K%P
+0x344
+武「き、奇妙な……質問って？」%K%P
+Takeshi「A strange question?」%K%P
+0x350
+武「どんな……？」%K%P
+Takeshi「What'd she ask?」%K%P
+0x364
+空「そうですねぇ……」%K%P
+Sora「Well...」%K%P
+0x378
+空「『私の過去について、何か知っているか？』」%K%P
+Sora「She said, 'What do you know about my past?'」%K%P
+0x38C
+空「というようなことを小町さんは訊かれて……」%K%P
+Sora「I didn't know what to say...」%K%P
+0x398
+武「そ、それで……？」%K%P
+Takeshi「And?」%K%P
+0x3AC
+空「知らない、と、私は答えました」%K%P
+Sora「I told her I didn't know anything.」%K%P
+0x3C0
+空「……知らなかったものですから」%K%P
+Sora「...Because I didn't know anything.」%K%P
+0x3CC
+武「そ、そうか」%K%P
+Takeshi「Oh... Oh...」%K%P
+0x3D8
+それは確かに奇妙な質問だった。%K%P
+It WAS a strange question.%K%P
+0x3E4
+武「で、つぐみはどこにいるんだ！？」%K%P
+Takeshi「Where's Tsugumi now?」%K%P
+0x3F0
+逸る気持ちを抑えつつ、俺は言った。%K%P
+I said that, trying to restrain my sense of urgency.%K%P
+0x404
+空「私が答えると小町さんは頷いて、ベッドに横になりました」%K%P
+Sora「She nodded at my answer and went to bed.」%K%P
+0x410
+武「ベッド？」%K%P
+Takeshi「Bed?」%K%P
+0x41C
+武「じゃあ、救護室に戻って、そのままベッドで休んでるのか？」%K%P
+Takeshi「She went back to the infirmary and went to bed?」%K%P
+0x428
+空「そういうことになりますね」%K%P
+Sora「Well, yes.」%K%P
+0x434
+武「それって、確かか？　今もあいつ、あそこにいるんだよな？」%K%P
+Takeshi「Are you sure? Is that where she is now?」%K%P
+0x440
+空「ええ。たぶん、そうです」%K%P
+Sora「Yes, probably.」%K%P
+0x44C
+武「たぶん、か……」%K%P
+Takeshi「Probably, huh...」%K%P
+0x458
+武「なぁ、つぐみが勝手に出歩いたりしてないか、チェックしてくれないか？」%K%P
+Takeshi「Can you check to make sure Tsugumi isn't wandering around instead of taking it easy?」%K%P
+0x46C
+俺が訊くと、何故か空は困ったような顔になった。%K%P
+I nodded, but Sora looked troubled.%K%P
+0x478
+武「どうしたんだ？　スキャンすればすぐわかるだろ？」%K%P
+Takeshi「What's wrong? All it takes is a quick scan.」%K%P
+0x484
+空「あの……」%K%P
+Sora「Yes, well...」%K%P
+0x490
+空「倉成さん、私……」%K%P
+Sora「Kuranari-san, I...」%K%P
+0x4A4
+空「緊急のとき以外は、センサーでのスキャンはなるべく使わないことにしたんです」%K%P
+Sora「I don't like to scan with the sensors unless it's an emergency.」%K%P
+0x4B0
+武「えっ？」%K%P
+Takeshi「What?」%K%P
+0x4BC
+空「ほら……倉成さんにも、ひとりになりたいときって、あるでしょう？」%K%P
+Sora「There are times when even you want to be alone, right, Kuranari-san?」%K%P
+0x4C8
+空「他にも、内緒話したいときとか、ふたりきりになりたいときとか……」%K%P
+Sora「And times when you want to talk about something secret or be alone with somebody...?」%K%P
+0x4D4
+空「私も皆さんのプライバシーは、守りたいと思いまして……」%K%P
+Sora「I want to protect people's privacy.」%K%P
+0x4E8
+空「スキャンすると、全部わかってしまいますから。ね？」%K%P
+Sora「If I scan, then I know everything.」%K%P
+0x4F4
+空は、ちょっぴり困った笑顔を見せる。%K%P
+Sora's smile was slightly uncomfortable.%K%P
+0x54C
+レミの様子を見に行った空と別れ、俺は２階の救護室にやって来た。%K%P
+Sora went to check on LeMMIH, and I went to the second floor infirmary.%K%P
+0x59C
+さらに数時間が経った。%K%P
+Several hours went by...%K%P
+0x5A8
+結局俺は、ＬｅＭＵ館内をひとりでぶらぶらうろついて、時間を潰した。%K%P
+In the end, I hung around in LeMU by myself and just killed some time.%K%P
+0x5B4
+その間、つぐみには出会わなかった。%K%P
+I didn't see Tsugumi during that time...%K%P
+0x5C0
+そのうちに、少し早い夕食を取ることになり……%K%P
+I decided to have an early dinner.%K%P
+0x5CC
+優・ココ・少年は既に食事を終え、憩いの間へと移って各自腹ごなしなり休憩なりをしている最中だった。%K%P
+You, Coco, and the Kid had finished their meal and moved to the rest area, where they were relaxing and letting their food digest.%K%P
+0x5D8
+武「さてと……」%K%P
+Takeshi「Okay then...」%K%P
+0x5E4
+俺は売店の後片づけをあらかたすませると……。%K%P
+I had almost finished tidying up the kiosk.%K%P
+0x5F0
+武「にっひひひひひ……♪」%K%P
+Takeshi「Heeheehee...!」%K%P
+0x5FC
+保温器の陰に隠しておいた、内緒のブツを取り出した。%K%P
+I pulled out the object I had secretly hidden behind the warmer.%K%P
+0x608
+実はソーセージがまだ１本だけ、冷蔵庫の奥に残っていたのだ。%K%P
+Actually, there had been one sausage left at the back of the refrigerator.%K%P
+0x614
+ドッグパンはなかったので、サンドのバンズにソーセージを挟み込む。%K%P
+There were no hotdog buns, so I stuffed the sausage into a bread roll.%K%P
+0x620
+そしてケチャップとマスタードを塗りたくり、大口開けてかぶりついた。%K%P
+I slapped on the ketchup and mustard and took a big bite.%K%P
+0x62C
+武「むふふ……やべぇ、美味過ぎる……♪」%K%P
+Takeshi「Mmm... Mmm... This is so good...!」%K%P
+0x638
+バリっとした歯ごたえとジューシーな旨みが、お口一杯に広がる。%K%P
+My mouth filled with the juicy flavor as I bit down.%K%P
+0x644
+武「ああ、おいちい、肉おいちい……♪」%K%P
+Takeshi「Mmmm... Meat... Mmm... Yum...」%K%P
+0x650
+タツタサンドも美味いが、やっぱり毎食毎食あれでは飽きるからなぁ……。%K%P
+Fried tuna sandwiches were good, but not for every meal every single day...%K%P
+0x65C
+俺は売店の裏に隠れて、むしゃむしゃ食っていた。%K%P
+I hid in the back of the kiosk and devoured the sausage.%K%P
+0x694
+ココ「たけぴょん、何してるの？」%K%P
+Coco「Oh, Takepyon, there you are.」%K%P
+0x6A0
+武「んぐぁ！？」%K%P
+Takeshi「Mmmf!?」%K%P
+0x6AC
+いきなり話しかけられて、俺はソーセージの欠片を喉に詰まらせた。%K%P
+Surprised by Coco's voice, I choked on a piece of sausage.%K%P
+0x6B8
+ココはすぐ目の前に立っていた……。%K%P
+Coco appeared in front of me.%K%P
+0x6EC
+武「……！？　…………！！」%K%P
+Takeshi「......!? ......!」%K%P
+0x700
+ココ「た、たけぴょん！？　どうしたの、しっかりして！」%K%P
+Coco「Takepyon? Are you alright?」%K%P
+0x70C
+武「〜〜〜〜〜〜〜〜っ！！」%K%P
+Takeshi「Aaaaaaaaagh!」%K%P
+0x718
+武「っぁあ！！　ぐえっ、ごほっ、がはぁ……」%K%P
+Takeshi「A-ahgh...*cough*, *cough*...」%K%P
+0x724
+俺は目を白黒させながらもがき、喉の奥の肉片を胃袋へと脱出させる。%K%P
+Blinking and struggling, I finally managed to swallow the chunk of meat.%K%P
+0x730
+残りのソーセージサンドを一気に腹に詰め込み、証拠を隠滅した。%K%P
+I swallowed the rest of the sausage in one bite to remove the evidence.%K%P
+0x744
+それから、切らした息を抑えながら言う。%K%P
+I struggled to control my breathing.%K%P
+0x750
+武「ココ……」%K%P
+Takeshi「Coco...」%K%P
+0x764
+ココ「……なぁに？」%K%P
+Coco「What?」%K%P
+0x770
+武「今ここで見たことは他言無用。わかったな？」%K%P
+Takeshi「Not a word about what you just saw, okay?」%K%P
+0x784
+ココ「う、うん。いいけど……？」%K%P
+Coco「Um, okay sure, but...」%K%P
+0x790
+ココ「たけぴょん、さっきサンド食べてなかったみたいだったから……」%K%P
+Coco「Takepyon, you didn't eat your sandwich before...」%K%P
+0x7A4
+ココ「そっか。みんなの食事が終わってから、ゆっくり食べるつもりだったんだね？」%K%P
+Coco「Oh, I see. You were saving it to eat later?」%K%P
+0x7B0
+武「あ、ああ。そういうこった」%K%P
+Takeshi「Ah, yeah. That's it.」%K%P
+0x7BC
+ココ「なーんだ、そっかそっか。よかったよかった♪」%K%P
+Coco「That was all? Oh, good〜」%K%P
+0x7C8
+ココ「食欲ないのかと思って、ココちょっぴり気にしてたんだぁ〜」%K%P
+Coco「I was worried about you. I thought you'd lost your appetite.」%K%P
+0x7D4
+武「いや、大丈夫だよ。しっかり食べたから……さ」%K%P
+Takeshi「No, I'm fine. I ate.」%K%P
+0x7E0
+頭を掻きながら、俺は言った。%K%P
+I scratched my head.%K%P
+0x7EC
+（すまんココ……ひとりで抜け駆けしてソーセージ食ってた。許せ、ココ）%K%P
+(Sorry, Coco... I was selfishly eating a sausage all by myself. Please forgive me...)%K%P
+0x7F8
+心の中でひっそり謝っておいた。%K%P
+Inside, I apologized silently to her.%K%P
+0x80C
+ココ「ああ、そうだ……」%K%P
+Coco「Oh, that reminds me...」%K%P
+0x818
+ココ「たけぴょん、たけぴょん？　さっき空さんから聞いたんだけどぉ」%K%P
+Coco「Takepyon. Takepyon! I talked to Sora-san.」%K%P
+0x824
+ココ「空さんがね、つぐみんと少し話をしてきた、って言ってたよ」%K%P
+Coco「And guess what? Sora-san said she spoke to Tsugumin.」%K%P
+0x830
+武「おおっ？　本当か？？」%K%P
+Takeshi「Oh, really?」%K%P
+0x83C
+俺はたぶん、再び目を白黒させていただろう。%K%P
+Surprised, I blinked.%K%P
+0x848
+武「つぐみと話、できたんだ？」%K%P
+Takeshi「She spoke to Tsugumi?」%K%P
+0x85C
+ココ「うん。つぐみん、救護室に戻ってきたんだって」%K%P
+Coco「Yeah. When she went back to the infirmary.」%K%P
+0x868
+武「ほぅ……」%K%P
+Takeshi「Really...」%K%P
+0x874
+ココ「それで、なんかね、つぐみん、救護室で空さんに会ったらぁ……」%K%P
+Coco「And when Tsugumin ran into Sora-san in the infirmary.」%K%P
+0x888
+ココ「『ちょっとやりすぎちゃった。機械とか壊しちゃってゴメンねー』って言って、部屋を片づけたりしたんだって」%K%P
+Coco「She apologized for going all crazy and smashing the stuff. She even cleaned up the mess.」%K%P
+0x894
+武「あ、謝ったのか、あいつが！？」%K%P
+Takeshi「A-apologized? Tsugumi!?」%K%P
+0x8A0
+ココ「うん、ココはそう聞いたよ」%K%P
+Coco「Yup. That's what I heard.」%K%P
+0x8AC
+驚いた……。%K%P
+I was surprised.%K%P
+0x8B8
+いや、本当に驚いてしまった……。%K%P
+No, I was really surprised.%K%P
+0x8C4
+武「ほ、他には！？　何か聞いてるか？」%K%P
+Takeshi「What else? Did you hear anything else?」%K%P
+0x8D8
+ココ「他に？　んーと、えっとぉ……」%K%P
+Coco「Anything else? Umm... Well...」%K%P
+0x8E4
+ココ「空さん、つぐみんに質問されたんだって」%K%P
+Coco「Sora-san said Tsugumin was asking questions and stuff.」%K%P
+0x8F0
+武「し、質問？」%K%P
+Takeshi「Asking questions?」%K%P
+0x904
+ココ「うん、ちょっと変わった質問」%K%P
+Coco「Yeah, she asked her a really silly question.」%K%P
+0x910
+武「か、変わった……質問って？」%K%P
+Takeshi「A strange... question?」%K%P
+0x91C
+武「どんな……？」%K%P
+Takeshi「What'd she ask?」%K%P
+0x930
+ココ「うーん、どんなのだったかな……あっ、そうそう！」%K%P
+Coco「Um, what was it...? Oh, yeah!」%K%P
+0x944
+ココ「『私の過去について、何か知っているか？』」%K%P
+Coco「She said, 'What do you know about my past?'」%K%P
+0x958
+ココ「ってな感じなことを、つぐみんが空さんに訊いて……」%K%P
+Coco「Or something like that...」%K%P
+0x964
+武「そ、それで……？」%K%P
+Takeshi「And?」%K%P
+0x978
+ココ「空さんは『知らない』って、答えたんだって」%K%P
+Coco「Sora-san said she didn't know anything.」%K%P
+0x984
+ココ「つぐみんは、それで納得したみたい」%K%P
+Coco「I guess Tsugumin was satisfied.」%K%P
+0x990
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x99C
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x9A8
+武「え、それだけ？」%K%P
+Takeshi「Is that it?」%K%P
+0x9BC
+ココ「うん。それだけ」%K%P
+Coco「Yup, that's it.」%K%P
+0x9C8
+武「そ、そうか」%K%P
+Takeshi「Oh.」%K%P
+0x9D4
+ココ「確かに、ちょこっと変な質問かもね」%K%P
+Coco「Come to think about it, that is kind of a silly question.」%K%P
+0x9E0
+そうだな……確かに、変な感じだ。%K%P
+Yes... It was very weird.%K%P
+0x9EC
+武「なぁココ。つぐみが今どこにいるか、知ってるか？」%K%P
+Takeshi「Coco, where's Tsugumi now?」%K%P
+0x9F8
+逸る気持ちを抑えつつ、俺は言った。%K%P
+I said that, trying to restrain my sense of urgency.%K%P
+0xA0C
+ココ「救護室にいると思うよ？」%K%P
+Coco「I think she's still in the infirmary.」%K%P
+0xA18
+ココ「ベッドに寝てるんだって。空さんが、そう言ってた」%K%P
+Coco「She went to bed. At least that's what Sora-san said.」%K%P
+0xA24
+武「ベッド？」%K%P
+Takeshi「Bed?」%K%P
+0xA30
+武「じゃあ、救護室に戻って、そのままベッドで休んでるのか？」%K%P
+Takeshi「She went back to the infirmary and went to bed?」%K%P
+0xA3C
+ココ「うん。そのはずだよ」%K%P
+Coco「Yeah, I think.」%K%P
+0xA48
+武「それって、確かか？　今もあいつ、あそこにいるんだよな？」%K%P
+Takeshi「Are you sure? Is that where she is now?」%K%P
+0xA5C
+ココ「うーん、たぶん」%K%P
+Coco「Uuum, probably.」%K%P
+0xA68
+武「たぶん、か……」%K%P
+Takeshi「Probably, huh...」%K%P
+0xA74
+武「わかった。じゃ、一応見に行ってみるかなぁ……」%K%P
+Takeshi「Alright then. I think I'll go and check on her.」%K%P
+0xA90
+ココ「…………」%K%P
+Coco「.........」%K%P
+0xA9C
+武「ん？　なんだよココ。俺の顔、なんか変か？」%K%P
+Takeshi「What is it? What, Coco? Is there something on my face?」%K%P
+0xAA8
+ココは何故か、俺の顔をじーっと見つめていた。%K%P
+For some reason, Coco was staring at my face.%K%P
+0xABC
+それから、にっこり笑う。%K%P
+She laughed quietly.%K%P
+0xAC8
+ココ「たけぴょんって、つぐみんのこと、好きなんだねぇ……」%K%P
+Coco「You like Tsugumin, don't you?」%K%P
+0xAD4
+武「……はぁ？」%K%P
+Takeshi「...Huh?」%K%P
+0xAE0
+武「ば、バカなこと言うなよ。そんなわけないだろ？」%K%P
+Takeshi「Y-you gotta be kidding me! There's no way!」%K%P
+0xAEC
+ココ「そう？　そうかなぁ？」%K%P
+Coco「Really? I wonder?」%K%P
+0xB00
+ココ「ココには、たけぴょんの顔に、そう書いてあるみたいに見えたんだけどなぁ〜」%K%P
+Coco「It seems to me like it's written aaAAaall over your face.」%K%P
+0xB0C
+武「えっ！？」%K%P
+Takeshi「Huh!?」%K%P
+0xB18
+俺は慌てて、顔を擦った。%K%P
+Flustered, I rubbed at my face.%K%P
+0xB24
+手には何もつかない。%K%P
+Nothing came off on my hands.%K%P
+0xB30
+インクで何か書いてあるわけではなさそうだった。%K%P
+At least nobody had been writing on my face again...%K%P
+0xB44
+ココは俺を見て、またにこにこと太陽のように笑った。%K%P
+Coco, watching me, had a smile as bright as the sun.%K%P
+0xB9C
+それからココと別れ、俺は２階の救護室にやって来た。%K%P
+I left Coco and went to the second floor infirmary.%K%P
+0xBA8
+（あいつ、ちゃんと寝てりゃあいいんだけど……）%K%P
+I hope she's resting properly...%K%P
+0xBD0
+武「おーい、つぐみ、入るぞーっ」%K%P
+Takeshi「Heeey, Tsugumi, can I come in?」%K%P
+0xBDC
+インターホンボタンで声をかけ、俺は扉をオープンした。%K%P
+I spoke into the intercom and opened the door.%K%P

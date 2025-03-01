@@ -1,0 +1,705 @@
+text area offset and size:
+0x1220
+0x296A
+0x4C
+午後になった。%K%P
+That afternoon...%K%P
+0x58
+軽い昼食も終えて辺りを見回すと、優の姿がなかった。%K%P
+After a light lunch, I looked around, but I couldn't find You anywhere.%K%P
+0x64
+少年「優？　食べ終わってすぐ、ツヴァイトの警備室に行ったよ」%K%P
+Kid「Looking for You? She ate lunch and then went to the security office on Zweiter Stock.」%K%P
+0x70
+ココ「なんかねー、なっきゅ、調べ物があるんだって」%K%P
+Coco「She said something about doing some research.」%K%P
+0x7C
+武「調べ物？　なんだろうな？」%K%P
+Takeshi「Research? I wonder what that could be?」%K%P
+0x88
+少年「さぁね……」%K%P
+Kid「She didn't say exactly...」%K%P
+0x94
+少年「気になるなら、優に直接訊いたほうがいいんじゃないかな」%K%P
+Kid「If you really want to know, why don't you go ask her yourself?」%K%P
+0xA0
+武「ま、そうだな……」%K%P
+Takeshi「Yeah, I guess you're right...」%K%P
+0xAC
+ココ「空さんはどこ行ったの？」%K%P
+Coco「What about Sora-san? Where'd she go?」%K%P
+0xB8
+少年「制御室に入ったままみたいだね。忙しいのかな。さっき端末で声かけてみたんだけど、取り込み中だからって……」%K%P
+Kid「She's still in the control room. I spoke to her through the terminal intercom, but she seemed really busy.」%K%P
+0xC4
+つぐみの姿も、相変わらず見えない。タツタ売店に置いたままにしてあったサンドは、きちんとなくなっていたようだが……。%K%P
+As usual, Tsugumi was nowhere to be seen... but the sandwich I left at the kiosk was gone...%K%P
+0xD0
+そう言えば、優・空・つぐみ――３人とも、今朝から俺とひと言も口を利いていない。%K%P
+Come to think of it, You, Sora, and Tsugumi hadn't said a word to me all morning.%K%P
+0xE4
+（何か、気になるな……）%K%P
+(Something's up... I can tell...)%K%P
+0xF0
+ともかく俺は、彼女達を捜すことにした。%K%P
+At any rate, I figured I would go search for them.%K%P
+0xFC
+どこに行けばいいだろう？%K%p
+But I didn't know where to go.%K%p
+0x11D0
+中央制御室へ
+The control room
+0x11DC
+救護室へ
+The infirmary
+0x11E8
+警備室へ
+The security office
+0x15C
+中央制御室に来た。%K%P
+I tried the control room.%K%P
+0x168
+オープンボタンを押し、スライド扉を開ける。%K%P
+I pushed the button to open the door and it slid open.%K%P
+0x198
+武「空、いるのか？」%K%P
+Takeshi「Sora, are you in here?」%K%P
+0x1A4
+声をかけてみたが、彼女の姿が見えない。%K%P
+I called out her name but got no response.%K%P
+0x1B0
+コンソールは静まり返っていた。%K%P
+The console was silent.%K%P
+0x1BC
+（おかしいな……）%K%P
+(That's strange...)%K%P
+0x1C8
+センサーのデータチェックは終わったのだろうか。%K%P
+I wondered if it meant that she finished checking the sensor data.%K%P
+0x1D4
+しかし、だとすれば俺達に何か教えてくれてもいいはずだ。%K%P
+But if that was the case, I thought she would report back to us.%K%P
+0x1E0
+（空は……いったいどこに？）%K%P
+(Sora... where are you?)%K%P
+0x1EC
+武「おーい、空っ」%K%P
+Takeshi「Hey, Soooraaa.」%K%P
+0x1F8
+いつかのように、その辺に隠れているんじゃないかとも思ったのだが……。%K%P
+I expected to find her hiding in the corner somewhere...%K%P
+0x204
+もう一度呼んでみたものの、やはり出てきてくれない。%K%P
+I called out for her again but still got no response.%K%P
+0x210
+端末に触れてみる。%K%P
+Next, I touched the terminal.%K%P
+0x21C
+操作方法はよくわからなかったが、タッチパネルは反応した。%K%P
+Although I didn't know how to operate it, it seemed to be responding.%K%P
+0x250
+レミは素早くＬｅＭＵのマップやデータをモニターに映し出す。%K%P
+A map of LeMU data suddenly appeared on the LeMMIH monitor.%K%P
+0x25C
+けれど、何も言葉を返すことはなかった。%K%P
+But it didn't tell me anything.%K%P
+0x294
+空が現れる気配は感じられない。%K%P
+There was still no sign of Sora.%K%P
+0x2A8
+他のところへ行こう。%K%P
+I decided to check somewhere else.%K%P
+0x2B4
+俺は２階に向かうことにした。%K%p
+I headed for the second floor.%K%p
+0x11F4
+救護室へ
+The infirmary
+0x1200
+警備室へ
+The security office
+0x30C
+非常階段を上り、通路を曲がる。救護室の前に出た。%K%P
+Turning down a corridor after climbing the emergency stairs, I came out in front of the infirmary.%K%P
+0x334
+（……！？）%K%P
+(...!?)%K%P
+0x340
+目の前の扉がいきなり開き、中から人影が飛び出してくる。%K%P
+The door abruptly opened in my face, and a person came flying out.%K%P
+0x34C
+咄嗟に俺は身をかわした。%K%P
+Then they dodged right past me.%K%P
+0x374
+人影は俺の姿に気づく様子もなく、隣を駆け抜けていった。%K%P
+In a flash, the figure was gone without even seeming to notice me.%K%P
+0x380
+（……誰だ？）%K%P
+(...Who was that?)%K%P
+0x38C
+すぐに振り返って、背後へ去る足音の主を確かめる。%K%P
+I whipped around quickly, trying to see who the person was.%K%P
+0x3A8
+……つぐみだった。%K%P
+...It was Tsugumi.%K%P
+0x3BC
+武「あっ……」%K%P
+Takeshi「Hey...」%K%P
+0x3C8
+声をかけようとして、一瞬ためらった。%K%P
+I started to call out, but I hesitated.%K%P
+0x3D4
+昨夜の出来事が脳裏を掠める。%K%P
+The events of the night before popped into my mind.%K%P
+0x3E0
+（呼び止めて、それからどうする……？）%K%P
+(I could stop her, but then what...?)%K%P
+0x3EC
+だがそうしている間にも、彼女の背中はどんどん遠くなっていく。%K%P
+In the meantime, all I could see was Tsugumi's back fading farther away.%K%P
+0x3F8
+武「ま、待てよ！　どこ行くんだ？」%K%P
+Takeshi「Hey, wait up! Where are you going?」%K%P
+0x404
+かろうじてそれだけ口にして、俺は追いかける。%K%P
+Barely getting the words out, I dashed after her.%K%P
+0x434
+通常通路の上側へと、急ぎ階段を進んだ。%K%P
+I ran up a corridor and hurriedly climbed the stairs.%K%P
+0x464
+しかし非常通路の先に、つぐみの足音は消えていく。%K%P
+But the sound of her feet faded down the end of the emergency corridor.%K%P
+0x470
+姿はもう曲がり角の向こうで見えない。%K%P
+Her figure had already rounded the corner and was out of sight.%K%P
+0x47C
+武「つ、つぐみっ……」%K%P
+Takeshi「Tsuuuguuumi...!」%K%P
+0x488
+俺は息を切らせていた。%K%P
+I was out of breath.%K%P
+0x494
+３０ｍほど走ってみたのだが……。%K%P
+I had run about 30 meters, but...%K%P
+0x4A0
+武「やっぱりお前、足速すぎっ！」%K%P
+Takeshi「Damn it, Tsugumi, you sure are fast!」%K%P
+0x4AC
+聞こえているわけはないだろうが、俺は抗議した。%K%P
+I grumbled after her although she was well out of earshot.%K%P
+0x4B8
+まったく追いつける気がしなかった。%K%P
+It didn't feel like I could catch up with her at all.%K%P
+0x4C4
+異様なまでの健脚だった。%K%P
+Her speed was unnatural.%K%P
+0x4D0
+病み上がりだと言うのに……。%K%P
+She was still supposed to be recuperating...%K%P
+0x4DC
+武「おーいっ！！　つぐみーーーっ！！」%K%P
+Takeshi「Hey! Tsugumiii!」%K%P
+0x4E8
+一応叫んでみたけれど、それは届かない。%K%P
+I called her name without much hope, but there was no answer.%K%P
+0x4F4
+結局、つぐみは気づかないままだったようだ。%K%P
+In the end, it seemed Tsugumi hadn't noticed.%K%P
+0x500
+俺を避けているわけではなさそうだが……。%K%P
+It hadn't seemed that she was trying to avoid me...%K%P
+0x50C
+幸いと言うべきだろうか。%K%P
+But maybe I was better off that way.%K%P
+0x520
+俺は諦めて階段を下り、通常通路に戻った。%K%P
+Giving up, I went back down the stairs and returned to the corridor.%K%P
+0x52C
+近くの警備室に行くことにする。%K%P
+I decided to stop by the nearby security office.%K%P
+0x540
+俺は階段を上り、２階の警備室に向かうことにした。%K%P
+Climbing the stairs, I headed toward the security office on the second floor.%K%P
+0x588
+相変わらず、部屋には煙草の匂いが微かに漂っている。%K%P
+As usual, the room smelled faintly of smoke.%K%P
+0x5C4
+優「あ、倉成……」%K%P
+You「Oh, Kuranari...」%K%P
+0x5D0
+コンソールに向かっていた優は俺に気づき、振り向いた。%K%P
+Noticing me enter, You turned toward me from the console.%K%P
+0x5DC
+武「優、お前煙草吸ってたのか？」%K%P
+Takeshi「Say, You, you haven't been smoking, have you?」%K%P
+0x5F0
+冗談のつもりで言ってみたのだが、途端に優はムッとした。%K%P
+I only said it in jest, but You looked slightly offended.%K%P
+0x5FC
+優「んなわけ、ないでしょーがぁ……」%K%P
+You「No way... How could you ask...」%K%P
+0x608
+優「煙草は、はたちになってから、だよ」%K%P
+You「You know the rules... No smoking until you're legal.」%K%P
+0x614
+優「それを差っ引いたとしてもさぁ、よくもまぁそんなことが言えるわねぇ〜」%K%P
+You「You can joke if you want, but I can't believe you'd say that.」%K%P
+0x628
+優「ほれっ、この私の、ピチピチフレッシュなモチ肌を見てごらんなさいな！」%K%P
+You「I mean, just take a look at my fresh silky skin!」%K%P
+0x634
+優「これぞまさに、乙女の柔肌ってやつよ！」%K%P
+You「This is the soft skin of a lady!」%K%P
+0x648
+優「あんたみたいなスモーカーには、どだい無理な美しさよねぇ」%K%P
+You「This is the kind of beauty that's impossible for a smoker like you, ha!」%K%P
+0x654
+わざとらしく、優は気取った。%K%P
+You spoke smugly, mocking me.%K%P
+0x660
+武「俺も煙草はやらないぞ」%K%P
+Takeshi「Hey, I don't smoke.」%K%P
+0x674
+優「あ、そうなの？」%K%P
+You「Oh, really?」%K%P
+0x680
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x68C
+優「ふーん……」%K%P
+You「Humph...」%K%P
+0x698
+武「ま、煙草の話は、今はどうでもいいんだ」%K%P
+Takeshi「Anyway, let's stop all this stupid talk about smoking.」%K%P
+0x6A4
+武「優が何か調べてるって、少年から聞いたからさ。どんな按配なのかな、と思って」%K%P
+Takeshi「I just wanted to ask you something. The Kid said you were doing some research.」%K%P
+0x6B8
+優「え？」%K%P
+You「Huh?」%K%P
+0x6C4
+優「少年、そんなこと言ってたの？」%K%P
+You「The Kid said that?」%K%P
+0x6D0
+彼女はちょっと意外そうな顔をした。%K%P
+You gave me a slightly surprised look.%K%P
+0x6E4
+優「倉成、少年からはなんて聞いてる？」%K%P
+You「Kuranari, what exactly did the Kid say?」%K%P
+0x6F0
+武「いや、詳しくは何も……」%K%P
+Takeshi「I don't remember exactly, but...」%K%P
+0x6FC
+武「『何か調べ物らしい』とだけしか言わなかった。だから俺、直接訊きにきたんだけどな……」%K%P
+Takeshi「He just mentioned you were 'researching something'. So I thought I'd ask you myself.」%K%P
+0x708
+優「…………」%K%P
+You「.........」%K%P
+0x71C
+優「そっか。なら、教えようかな」%K%P
+You「Well, in that case, guess I'll let you in on it.」%K%P
+0x728
+優はコンソールに向き直ると、キーを叩く。%K%P
+Turning back to the console, You began to type.%K%P
+0x76C
+優「倉成はもう、覚えてないかもしれないけど……」%K%P
+You「You may not remember this, Kuranari, but...」%K%P
+0x778
+優「私ずっと、いろいろ調べてたのよ。ＬｅＭＵのこと」%K%P
+You「I've been researching stuff about LeMU for quite a while now.」%K%P
+0x784
+モニターに目を向けたまま、彼女は言う。%K%P
+She spoke with her eyes glued to the monitor.%K%P
+0x790
+優「それに、お父さんのこと……」%K%P
+You「And then there's the thing about my father...」%K%P
+0x79C
+武「あ……」%K%P
+Takeshi「Ah...」%K%P
+0x7A8
+武「そういや、そんなこと言ってたっけなぁ」%K%P
+Takeshi「That reminds me, you mentioned him earlier.」%K%P
+0x7B4
+俺がここに来た初日のことだっただろうか。%K%P
+It must have been the first day I came to this place...%K%P
+0x7C0
+カルセル・デルフィーネをいきなり回転させて、俺を驚かせた優。%K%P
+When You startled me by suddenly starting up the Dolphin Carousel.%K%P
+0x7CC
+そのときに聞いた話……。%K%P
+I had heard about him then...%K%P
+0x7D8
+武「なぁ、もしかして……何かわかったのか？」%K%P
+Takeshi「So... have you found something?」%K%P
+0x7EC
+優「ううん」%K%P
+You「Not yet.」%K%P
+0x7F8
+優はゆっくり首を振る。%K%P
+You shook her head slowly.%K%P
+0x820
+モニターに向かい、キーを叩き続けて、コードを入力している。%K%P
+Eyeing the monitor, she hit some more keys and entered a code.%K%P
+0x82C
+優「パスワードさえ、発見できれば……」%K%P
+You「If I could only find the password...」%K%P
+0x838
+武「パスワードって？」%K%P
+Takeshi「Password?」%K%P
+0x84C
+優「それさえあれば、レミのあらゆるデータベースにアクセスすることが可能になるの」%K%P
+You「If I just had the password, I could access all the data inside LeMMIH.」%K%P
+0x858
+優「通常、レミのシステム本体に関わるデータはプロテクトでブロックされてる」%K%P
+You「Normally, all the data concerning LeMMIH's system has security protection.」%K%P
+0x864
+優「それに、開発スタッフの個人的なデータもね」%K%P
+You「And of course, the personal data of the development staff has it as well.」%K%P
+0x870
+優「そのプロテクトを解く為の鍵……レミのセキュリティロックを外せる、緊急用の最終パスワード――それを、探してるのよ」%K%P
+You「And so I'm hunting for the key to unlock that protection―an emergency override.」%K%P
+0x87C
+武「ほぅ、そうだったのか……」%K%P
+Takeshi「Oh, so that's what you've been up to...」%K%P
+0x888
+優「……ええ」%K%P
+You「...Yeah.」%K%P
+0x8C4
+優「でも、もうお手上げかなぁ」%K%P
+You「But I give up.」%K%P
+0x8D0
+優は一旦手を止めた。%K%P
+You stopped typing.%K%P
+0x8E4
+コンソールから振り返って、俺を見る。%K%P
+Taking her eyes off the console, she looked at me.%K%P
+0x8F0
+武「なぁ、ところで……」%K%P
+Takeshi「Hey, by the way...」%K%P
+0x8FC
+武「レミのセキュリティを外したら、空はどうなる？」%K%P
+Takeshi「If you disconnect LeMMIH's security protection, what will happen to Sora?」%K%P
+0x910
+優「空？」%K%P
+You「Sora?」%K%P
+0x91C
+武「ああ。空はレミのシステムの中にあるＡＩなわけだろ？　なんか影響あるんじゃないのか？」%K%P
+Takeshi「Well, since Sora is an AI program inside the LeMMIH system, won't she be affected?」%K%P
+0x928
+優「そうねぇ……」%K%P
+You「Hmm... Yes...」%K%P
+0x934
+優「もしプロテクトが解ければ、空は当然、裸になる」%K%P
+You「Naturally, if the protection is removed, Sora will be totally exposed... Naked.」%K%P
+0x940
+武「裸……？」%K%P
+Takeshi「Naked...?」%K%P
+0x954
+優「あ、倉成ぃ〜？　今なんか変な想像したでしょ？」%K%P
+You「Um, Kuranariiii? Did you just think of something kinky?」%K%P
+0x960
+武「えっ？」%K%P
+Takeshi「Eh?」%K%P
+0x96C
+優「裸って言っても、空の映像がヌードに変わるわけじゃないよ？」%K%P
+You「When I say naked, I don't mean Sora's image will be nude!」%K%P
+0x978
+武「そ、そんなこと、思ってなんかいないぞ」%K%P
+Takeshi「I-I wasn't thinking that at all.」%K%P
+0x98C
+優「ふーん、本当かなぁ……怪しいなぁ……」%K%P
+You「Yeah, sure... You seem pretty suspicious to me...」%K%P
+0x998
+優「ま、いいけど」%K%P
+You「Well, I don't really care.」%K%P
+0x9A4
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x9B0
+優「空の思考とか、記憶……データとして見られるすべては、丸裸になってしまうわけよね」%K%P
+You「Sora won't become 'nude'... but all her thoughts, memories, and various data will be accessible.」%K%P
+0x9BC
+武「プライバシーの侵害だ」%K%P
+Takeshi「That's an invasion of privacy!」%K%P
+0x9C8
+優「そういう問題じゃないと思うけどなぁ」%K%P
+You「Well, not exactly, really.」%K%P
+0x9D4
+武「ん、ちょっと待てよ……！？」%K%P
+Takeshi「Wait a minute...!」%K%P
+0x9E0
+武「じゃあ、そのパスワードさえわかれば空を助けることができるってことか？」%K%P
+Takeshi「Okay, so if you find that password, will that mean you can save Sora?」%K%P
+0x9EC
+優「助ける？」%K%P
+You「Save her?」%K%P
+0x9F8
+武「つまり、空を構成するあらゆるソースデータを超大容量記憶ディスクか何かにコピーして……」%K%P
+Takeshi「I mean, you could copy all her source data to a high-capacity hard drive or something...」%K%P
+0xA04
+武「んで、外に持ち出したりなんてことも、できちゃうわけだろ？」%K%P
+Takeshi「And then take that data out of here by hand, right?」%K%P
+0xA18
+優「うん。できるよ」%K%P
+You「Well, yeah. It could be done.」%K%P
+0xA2C
+優「でも、そんな必要ないんじゃない？」%K%P
+You「Except that won't be necessary.」%K%P
+0xA38
+優はあっさりと言った。%K%P
+You spoke coldly.%K%P
+0xA44
+武「えっ？」%K%P
+Takeshi「Huh?」%K%P
+0xA58
+優「空は、何も私達が助けるまでもなく、助かるのよ」%K%P
+You「We don't need to save Sora. She's saved already.」%K%P
+0xA64
+武「は？」%K%P
+Takeshi「How's that?」%K%P
+0xA70
+優「空の実体は、ＬｅＭＵの中にあるわけじゃないの」%K%P
+You「The fact is, Sora doesn't actually reside in LeMU.」%K%P
+0xA7C
+優「インゼル・ヌルに置かれてるスパコン――そこにこそ、空の頭脳はあるのよ」%K%P
+You「More precisely, the brain of Sora resides in a supercomputer on Insel Null.」%K%P
+0xA88
+優「私の言ってること、わかる？」%K%P
+You「Do you see what I'm saying?」%K%P
+0xA94
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xAA0
+優「つまり、ＬｅＭＵが浸水しようと沈没しようと爆発して粉々になろうと、空の存在が消えてなくなるわけじゃない」%K%P
+You「Meaning that even if LeMU sinks, floods, or explodes, Sora won't be damaged at all.」%K%P
+0xAAC
+優「だって、ここにいるわけじゃないんだから」%K%P
+You「Because she's not even here.」%K%P
+0xAB8
+優「空のいる場所は海の上」%K%P
+You「She really lives above the ocean.」%K%P
+0xAC4
+優「私達から見れば、文字通り、空は『空』にいる、ってことになるわけ」%K%P
+You「So from our point of view... just like her name's meaning, 'Sora' is in the 'sky'.」%K%P
+0xAD0
+そう言って、優は天井を指差した。%K%P
+With that, You pointed her finger toward the ceiling.%K%P
+0xAE4
+俺はつられて、天井を見た。%K%P
+Lured by her pointing finger, I looked up.%K%P
+0xAF0
+そこに空など見えはしない。%K%P
+As if I expected to find Sora there.%K%P
+0xAFC
+当然ではあるが……。%K%P
+Naturally, she was nowhere to be seen...%K%P
+0xB08
+武「って、おいおいおいおい！　でもなぁ！」%K%P
+Takeshi「Hey, hey, hey, hold on a second! How could that be!?」%K%P
+0xB14
+武「インゼル・ヌルとの通信線は全滅、使い物にならないって……！」%K%P
+Takeshi「All data communication lines with Insel Null have been cut, they're useless...!」%K%P
+0xB20
+武「空は確かにそう言ってたじゃないか、おかしくないか！？」%K%P
+Takeshi「Sora herself said that. It doesn't make sense!」%K%P
+0xB2C
+武「お前の言う通り空が上にいるとしたら、俺達の前に現れることなんてできやしないはずだろ？」%K%P
+Takeshi「If, as you say, Sora exists above us, then how could she appear before us here?」%K%P
+0xB40
+優「…………」%K%P
+You「.........」%K%P
+0xB54
+優「そう、そうなのよ……」%K%P
+You「That's what I mean...」%K%P
+0xB60
+急に優は、声を潜めた。%K%P
+Suddenly, You's voice level dropped.%K%P
+0xB6C
+武「な、なんだよ……」%K%P
+Takeshi「Wh-what's that...?」%K%P
+0xB80
+優「倉成も、おかしいと思わない？」%K%P
+You「Come on, Kuranari. You think it's strange too, right?」%K%P
+0xB8C
+優「空はメンテナンスのときに、レミの通信機能を最適化したって言ったけど……」%K%P
+You「Sora said that, thanks to the maintenance program, communication functions were optimized...」%K%P
+0xB98
+優「そもそも定期メンテナンスは通常、インゼル・ヌル上のマスター・スパコンと、館内のレミ端末が連携して行われるの」%K%P
+You「In order to perform periodic maintenance, the master supercomputer on Insel Null has to be linked with LeMMIH here.」%K%P
+0xBA4
+優「それがきちんと終了したということは、つまり……」%K%P
+You「And since she said the maintenance checked out fine, that means...」%K%P
+0xBB0
+優「実はインゼル・ヌルとの通信経路は、あるかもしれないのよ」%K%P
+You「There might be a data communication link up and running somewhere.」%K%P
+0xBBC
+武「なんだって？」%K%P
+Takeshi「What?」%K%P
+0xBC8
+武「だ、だったら空はなんで俺達に黙ってるんだよ、そのことを！？」%K%P
+Takeshi「Wh-why would Sora keep this from us?」%K%P
+0xBDC
+優「ここから先は、私の推測だけど……」%K%P
+You「What I'm going to say is only speculation, but...」%K%P
+0xBE8
+優は眉を少ししかめる。%K%P
+You furrowed her brows together.%K%P
+0xBF4
+優「誰かが作為的に、事実を隠している可能性がある」%K%P
+You「I think it's possible that someone is intentionally hiding the facts from us.」%K%P
+0xC00
+武「空が……空が嘘をついているって言うのか？」%K%P
+Takeshi「You're saying... that Sora could be lying to us?」%K%P
+0xC14
+優「ううん、そうとは限らないよ」%K%P
+You「No, it doesn't necessarily mean that.」%K%P
+0xC20
+優は首を左右に大きく振った。%K%P
+You shook her head as she spoke.%K%P
+0xC2C
+優「空が黙っていることを含め、何者かのプログラムによって仕組まれたことなのかもしれない」%K%P
+You「On the one hand, someone might have created a program to orchestrate the whole thing, including keeping Sora silent.」%K%P
+0xC38
+優「あるいは、空はこのことにまったく無関係で、何も知らされていないし、気づいてもいないのかもしれない」%K%P
+You「Or it could be that Sora may not be involved. Maybe she doesn't know anything or just hasn't noticed...」%K%P
+0xC44
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xC58
+優「今のところはわからないよ。本当はどうなのか、なんてさ」%K%P
+You「But for now, I don't know if it's true or not.」%K%P
+0xC64
+優「私の推測が正しいのか。それとも単なる勘違いなだけなのか……？」%K%P
+You「Whether my suspicions are correct or all just a big misunderstanding...」%K%P
+0xC70
+優「それはプロテクトを解いた後に考えればいいこと……」%K%P
+You「Anyway, I can worry about that after I've cracked the protection...」%K%P
+0xC84
+優「とにかく今、私はここのコンソールから、インゼル・ヌルのスパコンにあるはずのデータにアクセスしてる」%K%P
+You「For now, I'm just trying to access the supercomputer on Insel Null from this console.」%K%P
+0xC90
+優「本当にアクセスできるかどうかは全然わからないけど、データがそこにあるらしい、ってことはわかってるの」%K%P
+You「I don't know whether I can even gain access, but I'm pretty sure that's where the data is.」%K%P
+0xC9C
+優「うん。どこにデータがあるかまでは、もうわかったのよ……」%K%P
+You「Yep, I'm certain the data is there...」%K%P
+0xCA8
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xCBC
+優「ま、わかったのはいいんだけどぉ〜」%K%P
+You「Well, at least it's a start...」%K%P
+0xCC8
+急に、優はおどけてみせる。%K%P
+You suddenly became more upbeat.%K%P
+0xCD4
+優「このプロテクトがまた、なかなか解けなくって、頑固でねぇ〜」%K%P
+You「Cracking the security protection is going to be a real pain. This stubborn code!」%K%P
+0xCE0
+優「だから、果たしてそこに何があるのか？　……というところまでは、まだまだ辿り着けてないってわけ」%K%P
+You「So what exactly awaits hidden inside...? It's a little too soon to go there.」%K%P
+0xCF4
+優「結局、な〜んにもわかってないのと一緒だよ」%K%P
+You「Until I can get inside, it's the same as not knowing a thing.」%K%P
+0xD00
+そう言って、優は大げさに肩をすくめる。%K%P
+You said this and then gave a big shrug.%K%P
+0xD0C
+武「そっか……」%K%P
+Takeshi「Yeah...」%K%P
+0xD18
+武「でも、本当に何もわからないよりは、数倍マシだ」%K%P
+Takeshi「But I still think it's loads better than knowing nothing at all.」%K%P
+0xD2C
+優「ま、そうだよねぇ」%K%P
+You「Well, maybe you're right.」%K%P
+0xD38
+優は微笑んだ。%K%P
+You gave me a smile.%K%P
+0xD44
+首を鳴らし、凝り固まった肩を回す。%K%P
+She then popped her neck and rotated her stiff shoulders.%K%P
+0xD58
+優「さて、と……」%K%P
+You「Now then...」%K%P
+0xD64
+優「もうちょっとだけ、頑張ってみようかな」%K%P
+You「Back to work.」%K%P
+0xD70
+武「ああ、頑張れ。まだ時間はある」%K%P
+Takeshi「Alright, You, good luck. There's still time.」%K%P
+0xD7C
+優「ＯＫ」%K%P
+You「Okay.」%K%P
+0xD88
+また俺に背を向け、優はキーを入力し始める。%K%P
+Turning her back to me, You began to peck at the keyboard.%K%P
+0xDC4
+優「それにしてもさぁ……」%K%P
+You「But still, you know...」%K%P
+0xDD0
+手を止めないまま、彼女は小さく呟いた。%K%P
+Without stopping her hands, she muttered quietly.%K%P
+0xDDC
+優「昔からお母さんに聞かされてた、お父さんの癖……」%K%P
+You「My mother used to tell me all about my father's habits...」%K%P
+0xDE8
+優「わかるもんだねぇ……」%K%P
+You「So I know there are clues to be found...」%K%P
+0xDF4
+優「こんな何でもないような、無機質なコンピューターのプログラムにも、結構出るんだぁ……」%K%P
+You「Decoding something as inorganic as a computer program is possible because...」%K%P
+0xE00
+優「人間の、癖ってさぁ……」%K%P
+You「Even programmers have habits...」%K%P
+0xE0C
+優はずっと、モニターだけを見ていた。%K%P
+For a long time, You stared at the monitor.%K%P
+0xE18
+こちらに顔を見せようとしない。%K%P
+She didn't look my way.%K%P
+0xE24
+表情はわからなかった。%K%P
+So I couldn't read her expression anymore.%K%P
+0xE30
+だけどその声は、少し震えた。%K%P
+But I could tell by her shaky voice.%K%P
+0xE3C
+本当は、泣いているのかもしれない。%K%P
+She was probably crying.%K%P
+0xE48
+俺は何も言わず、そのままそっと、警備室を出た。%K%P
+Without saying a word, I slipped out of the security office.%K%P
+0xEA4
+（空は本当は、インゼル・ヌルにいる……？）%K%P
+(Is Sora really in Insel Null...?)%K%P
+0xEB0
+もしも、そうだとしたら……%K%P
+If so...%K%P
+0xEBC
+ＬｅＭＵが圧潰しようと沈没しようと、空だけは助かる……。%K%P
+No matter whether LeMU was crushed or not, she'd still be okay...%K%P
+0xEC8
+『そうだ、倉成さん。ここから脱出できたら、まず何がしたいですか？』%K%P
+'Tell me, Kuranari-san, after you escape from here, what's the first thing you want to do?'%K%P
+0xED4
+…………。%K%P
+.........%K%P
+0xEE0
+あの言葉は、ただの薄っぺらい同情だったのだろうか？%K%P
+Were her words just a flimsy attempt at compassion?%K%P
+0xEEC
+『人が生きるということに、改めて触れている気がしているんです』%K%P
+'I feel like I've gained a new perspective on human life.'%K%P
+0xEF8
+『みんな、明日を信じて、生きてるんですよね……』%K%P
+'Come on, everybody! Believe in tomorrow so you can live today...'%K%P
+0xF04
+すべてただの、プログラムされた言葉だと……。%K%P
+Were those words just robotic, programmed phrases...?%K%P
+0xF10
+人を慰める為に発声された、ただの音だとでも言うのか……？%K%P
+Simple utterances encoded to pacify and comfort humans...?%K%P
+0xF1C
+急に俺は、空の存在をとても遠く感じた。%K%P
+Suddenly, I felt a distance between Sora's existence and my own.%K%P

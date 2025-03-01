@@ -1,0 +1,582 @@
+text area offset and size:
+0xDA8
+0x2323
+0x78
+……日付が変わった。%K%P
+...It was a new day.%K%P
+0x84
+あのあと、着替えてくると言って、優は２階へ上がっていった。%K%P
+You said she was going to change clothes and had gone up to the second floor.%K%P
+0x90
+空は仕事に戻った。%K%P
+Sora went back to work.%K%P
+0x9C
+沙羅は……たぶん加減圧室の中で寝ているのだろう。%K%P
+Sara... She was probably sleeping in the compression chamber.%K%P
+0xA8
+武は憩いの間で酔いつぶれている、らしい。%K%P
+Takeshi was supposedly filthy drunk in the park rest area.%K%P
+0xB4
+つぐみはあれから帰ってこない。どこへ行ったのやら……。%K%P
+Tsugumi hadn't come back. I had no idea where she'd gone...%K%P
+0xF8
+ぼくは今、会議室にいる。%K%P
+Me, I was in the conference room.%K%P
+0x104
+テーブルの中央には、ＬｅＭＵの立体映像が表示されている。%K%P
+In the middle of the table was a three-dimensional image of LeMU.%K%P
+0x110
+それをじっと睨みながら、ここから脱出する手だてはないか、あれこれと思案している最中だった。%K%P
+I was staring at it and trying to come up with escape plans.%K%P
+0x11C
+今のところ、何一つ思い浮かばない。%K%P
+At that point, I hadn't even hit upon a single one.%K%P
+0x128
+ぼくの持っている知識だけでは、すぐに思考は断ち切れてしまい、結論まで達することができないでいる。%K%P
+Any plan would fall apart before I even got it fully developed because of my limited knowledge.%K%P
+0x134
+だけど、諦めるつもりはなかった。%K%P
+But I didn't intend to give up.%K%P
+0x140
+せめてアイディアの取っ掛かりだけでも掴めれば……。%K%P
+I thought if I could just find a starting point...%K%P
+0x14C
+ぼくはなんとかして、優のカタキをとりたかったのだ。%K%P
+I wanted to get back at You somehow.%K%P
+0x180
+ドアが開き、誰かが入ってきた。%K%P
+The door opened, and somebody came in.%K%P
+0x18C
+振り返ると……それは優だった。%K%P
+Looking back... I saw that it was You.%K%P
+0x198
+彼女は例のユニフォームに着替えていた。%K%P
+She had changed into her work uniform.%K%P
+0x1AC
+優「なんだ、こんなところにいたのか。捜したよ」%K%P
+You「Oh, so this is where you are. I was looking for you.」%K%P
+0x1B8
+リボンをヒラヒラとさせながら、優はこっちにやってくる。%K%P
+The ribbon on her outfit shook rhythmically as she walked toward me.%K%P
+0x1D4
+少年「服、乾いてないの？」%K%P
+Kid「Are your clothes dry?」%K%P
+0x1E0
+優「うん、乾燥機が壊れていたの」%K%P
+You「Nope. The dryer is broken.」%K%P
+0x1EC
+優「どうせだから、しばらくこっちの服でいようかな、って」%K%P
+You「These clothes will do for a while anyway.」%K%P
+0x1F8
+少年「ふーん」%K%P
+Kid「Hmmm.」%K%P
+0x20C
+優「ねえ、ＬｅＭＵのホログラムなんて表示して、何やってたの？」%K%P
+You「Hey, what are you doing with that LeMU hologram?」%K%P
+0x218
+少年「うん、ちょっとね」%K%P
+Kid「Just looking.」%K%P
+0x224
+優「ひょっとして、脱出方法を考えていた、とか？」%K%P
+You「You aren't trying to think of a way out, are you?」%K%P
+0x230
+少年「ヒマだったから」%K%P
+Kid「Well, all I've got is time on my hands.」%K%P
+0x23C
+嘘をついた。%K%P
+I lied to her.%K%P
+0x248
+照れくさくて、本当のことなんて言えない。%K%P
+Embarrassed, I couldn't tell her the truth.%K%P
+0x254
+優「ふーん……」%K%P
+You「Hmmm...」%K%P
+0x260
+少年「そんなことよりも、寝ないの？」%K%P
+Kid「Enough about that. Aren't you going to sleep?」%K%P
+0x274
+優「コーヒー飲み過ぎちゃってね、眠れないの」%K%P
+You「I drank too much coffee, so I can't sleep.」%K%P
+0x280
+優「それに、いろいろ考えたいこともあるし……」%K%P
+You「Besides, there are lots of things I wanna think about...」%K%P
+0x28C
+少年「なんだ、ぼくも一緒だよ」%K%P
+Kid「How about that? Same here.」%K%P
+0x298
+優「コーヒーが？　考え事が？」%K%P
+You「What? The coffee or the thinking?」%K%P
+0x2A4
+少年「両方が」%K%P
+Kid「Both.」%K%P
+0x2B8
+優「なぁんだ、そっか、奇遇だね」%K%P
+You「Wow. That's weird.」%K%P
+0x2C4
+苦笑を浮かべながら、優は言った。%K%P
+You laughed dryly as she said that.%K%P
+0x2D8
+優「じゃあさ、ちょっとつきあってくれないかなぁ？」%K%P
+You「Hey, how about keeping me company?」%K%P
+0x2E4
+少年「どっか行くの？」%K%P
+Kid「Are you going somewhere?」%K%P
+0x2F0
+優「うん。考え事するのに、丁度いいところだと思う」%K%P
+You「Yeah. Well, in order to think, you've gotta be in the right place to put you in the mood.」%K%P
+0x2FC
+少年「どこ？」%K%P
+Kid「Someplace in mind?」%K%P
+0x308
+優「第３視点、ゆかりの地」%K%P
+You「Yeah, a place connected with the third eye.」%K%P
+0x364
+――第３視点。%K%P
+The third eye.%K%P
+0x370
+第３の眼が開眼すると、真の智恵がわき、万物を見通すことができる。%K%P
+When the third eye opens, true wisdom is apparent, and all becomes visible.%K%P
+0x37C
+古のチカラ。最高の叡智。人を超越した者の証。%K%P
+The power of ancients. Ultimate knowledge. Proof of a transcendental state beyond that of normal people.%K%P
+0x388
+ぼくが優に連れられ、辿り着いた場所……%K%P
+The place that You led me...%K%P
+0x394
+それは……%K%P
+Was...%K%P
+0x3F0
+優「じゃあ、入ろっか？」%K%P
+You「Shall we go in?」%K%P
+0x3FC
+薄暗いドームの中に浮かび上がる石造りのゲートへと、優は歩いていく。%K%P
+You walked toward a stone gate which rose out of a dimly lit dome.%K%P
+0x408
+少年「その前に、ひとつ質問があるんだけど」%K%P
+Kid「Can I ask you a question before we go in?」%K%P
+0x41C
+優「ん？　どうぞ？」%K%P
+You「Huh? Sure.」%K%P
+0x428
+少年「なんで、レムリア遺跡が第３視点のゆかりの地なの？」%K%P
+Kid「Why do the Lemurian Ruins have something to do with the third eye?」%K%P
+0x43C
+優「ああ、そのことね……」%K%P
+You「Oh, that...」%K%P
+0x448
+優「あれね？　嘘なの」%K%P
+You「That? I lied.」%K%P
+0x454
+少年「は？」%K%P
+Kid「What?」%K%P
+0x460
+優「本当は、関係なんてないの」%K%P
+You「To tell you the truth, they're not related.」%K%P
+0x46C
+優「意味なんかない」%K%P
+You「There's no meaning at all.」%K%P
+0x478
+優「ただ、そう言えば少年はついてくるかな、って」%K%P
+You「I just thought that if I said that, then you'd come along with me.」%K%P
+0x484
+少年「…………」%K%P
+Kid「..........」%K%P
+0x490
+優「ひとりでグジグジ考えるのって性に合わないから、誰か側にいてほしくて……」%K%P
+You「Thinking about things all by myself doesn't really suit me. I need someone else around.」%K%P
+0x49C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x4B0
+優「怒った？」%K%P
+You「Are you mad?」%K%P
+0x4BC
+少年「ううん、別に」%K%P
+Kid「No, not really.」%K%P
+0x4C8
+少年「その脈絡のない、非論理的な発想が、優らしくないなぁって思っただけ」%K%P
+Kid「I was just thinking that you don't seem the type to be governed by random illogical thoughts.」%K%P
+0x4D4
+優「そうかな？」%K%P
+You「Really?」%K%P
+0x4E0
+少年「うん」%K%P
+Kid「Yeah.」%K%P
+0x4F4
+優「でも本当は、ちょっぴり関係あるのかも」%K%P
+You「But actually, there might be a connection.」%K%P
+0x500
+優は遺跡の方へ視線を向ける。%K%P
+You turned her gaze to the ruins.%K%P
+0x50C
+優「お母さんがレムリア大陸を調査するフリして、自分の研究の方をやってるって話、したよね？」%K%P
+You「I told you about how my mom was doing her own research while pretending to study the Lemurian continent, right?」%K%P
+0x518
+優「そのお母さんにとって、第３視点とレムリアとの関連性は、なくてはならない存在だったの」%K%P
+You「It seems like she was completely hooked on researching the third eye.」%K%P
+0x524
+優「なんでか、わかる？」%K%P
+You「Do you know why?」%K%P
+0x530
+少年「『レムリアの調査のついでに第３視点の研究をしてる』という大義名分が必要だったから、かな？」%K%P
+Kid「Because she was conducting research in the name of Lemuria?」%K%P
+0x53C
+優「そう。だからお母さんは、話をでっち上げることにしたの」%K%P
+You「Yeah. So my mom wanted to study the third eye, pretended there was a connection with Lemuria, and wrote about it.」%K%P
+0x548
+『ある説によると、レムリア人は大猿のような体格、４メートル前後の身長を有し……』%K%P
+'One theory has it that the people of Lemuria were giant apes that were four meters tall...'%K%P
+0x554
+『褐色の肌を持ち、雌雄の違いが無く卵を産み、テレパシーによって意思の疎通をしていた、とされている』%K%P
+'They had walnut-colored skin, there were no differences between males and females, they laid eggs, and they communicated via telepathy.'%K%P
+0x560
+『そして、後頭部には第３の眼を持っていたらしい』%K%P
+'And they had a third eye in the back of their heads.'%K%P
+0x56C
+『テレパシー、第３の眼……これは『第３視点』にも通ずるところがある』%K%P
+'Telepathy and the third eye... This has something to do with the third perspective.'%K%P
+0x578
+『かつて脊椎動物の祖先は３眼体制の生物だったことからも……』%K%P
+'Drawing on the idea that our vertebrate predecessors had three eyes...'%K%P
+0x584
+『あるいは古代人――特にレムリア人とは、まるで息をするように、かの能力を使いこなせた人種だったのかもしれない』%K%P
+'So the ancients―especially the Lemurians―may well have been races that mastered the use of this power.'%K%P
+0x590
+『以上のことから推測するに……』%K%P
+'And based on the facts discovered, I conclude...'%K%P
+0x59C
+優「『第３視点のルーツはレムリアにある』、と」%K%P
+You「'That the origin of the third eye is Lemuria.'」%K%P
+0x5A8
+優「もっともらしい論文まで書いて、ね」%K%P
+You「She even wrote trumped-up papers on the topic.」%K%P
+0x5B4
+優「本当は、なんにも関係なんてないのに」%K%P
+You「Even though they really are totally unrelated.」%K%P
+0x5C0
+少年「第３視点について、もっと詳しく教えてほしいんだけど」%K%P
+Kid「I wish you'd tell me more about the third eye.」%K%P
+0x5D4
+優「ごめん、それはまた今度」%K%P
+You「Sorry. I'll tell you some other time.」%K%P
+0x5E0
+優「今、そういう話をする気分じゃないから」%K%P
+You「I don't really feel like going into it now.」%K%P
+0x630
+ぼくと優は、ゲートをくぐり、遺跡の中へと入った。%K%P
+You and I crossed through the gate and entered the ruins.%K%P
+0x63C
+中は外よりもさらに薄暗く、通路は迷路のように入り組んでいた。%K%P
+It was darker inside, and the pathways were interwoven like a maze.%K%P
+0x648
+淡い照明が、辺りを青白く、幻想的に照らしている。%K%P
+The lighting was surreal, with dim lights in some areas and bluish white lights elsewhere.%K%P
+0x654
+ときどき、深海魚らしきホログラムが目の前を横切る。%K%P
+Occasionally, a hologram of some deepwater fish would shine into view.%K%P
+0x660
+遺跡内にも海水が侵入しており、それが演出効果となって、より一層、海底に沈んだ古代遺跡という印象を強めている。%K%P
+The ruins were also slightly flooded with water, which had the effect of making them appear more like ruins at the bottom of the ocean.%K%P
+0x66C
+………………。%K%P
+............%K%P
+0x6AC
+どのくらい歩いただろうか。%K%P
+I wondered how far we had walked.%K%P
+0x6B8
+やがてぼくらは、少し開けた、ホールのような場所に出た。%K%P
+Finally, we came to an open space kind of like an auditorium.%K%P
+0x6C4
+天井が高い。%K%P
+The room had a high ceiling.%K%P
+0x6D0
+周囲には石柱――オベリスクというらしい――が立っていて、そのうちの何本かは折れて倒れている。%K%P
+There were rock pillars―called obelisks―scattered around the area. A few of them were broken, collapsed, or crumbling.%K%P
+0x6DC
+よく見ると、壁には何かを模したレリーフが刻み込まれている。%K%P
+Looking closely, I saw that a mock relief was carved into the wall.%K%P
+0x6E8
+ぼくがボンヤリとそれらを眺めていると、優は倒れたオベリスクに近づいていき、その上に膝を抱えて座り込んだ。%K%P
+As I absentmindedly stared at the wall, You walked over to one of the collapsed obelisks and sat down, hugging her knees.%K%P
+0x708
+優「このへんのエリアはね？　『太陽の神殿』って場所なの」%K%P
+You「This is a strange place, huh? It's called the 'Sun Temple'.」%K%P
+0x714
+少年「太陽？」%K%P
+Kid「Sun?」%K%P
+0x720
+そう言えば、レリーフの中には日輪のような印が見受けられる。%K%P
+That reminded me that I had seen an image of a sun disk in the relief on the wall.%K%P
+0x72C
+優「レムリア大陸の正確な所在地については諸説あり、ハッキリとしたことはわかっていません」%K%P
+You「There are a number of theories about the precise location of the Lemurian continent, but no one really knows where it was.」%K%P
+0x738
+優「ですが、赤道直下の熱帯雨林地帯に存在したのではないか、という、だいたいのところでは共通しています」%K%P
+You「But most people agree that it was located near the belt of tropical rainforest just below the equator.」%K%P
+0x744
+係員のような口ぶりで（いや、実際に彼女は係員だったのだが）解説を始める優。%K%P
+You reverted to speaking like an employee (which she was) and started giving me an explanation of the place.%K%P
+0x750
+優「そんなところから、私どもＬｅＭＵの研究スタッフは、『レムリアの民は太陽を崇めていたのではないだろうか？』という仮説を立てるに至り……」%K%P
+You「Members of our research staff here at LeMU have put forth hypotheses that the people of Lemuria worshipped the sun...」%K%P
+0x75C
+そこで優は肩をすくめ……%K%P
+You paused and shrugged...%K%P
+0x768
+優「かくして、こんな神殿を作ってみた、と、そういうことみたい」%K%P
+You「So I guess that's why we built this temple.」%K%P
+0x774
+少年「ふーん、なるほどねぇ」%K%P
+Kid「I see.」%K%P
+0x780
+ぼくは頷きながら、優の隣に腰を下ろした。%K%P
+As I sat down next to You, I nodded.%K%P
+0x78C
+優「海の底に沈んでるってのに、太陽なんて……皮肉にしか聞こえないよねぇ？」%K%P
+You「A Sun Temple... at the bottom of the ocean... Doesn't that strike you as kind of ironic?」%K%P
+0x798
+少年「…………」%K%P
+Kid「.........」%K%P
+0x7A4
+海の底に沈んでる――それは大陸のことを指しているのだろうか？%K%P
+I wondered if she was talking about the continent that had sunk to the bottom of the ocean.%K%P
+0x7B0
+それとも……ぼくら？%K%P
+Or maybe she had meant... us.%K%P
+0x7BC
+優「きみは、なにか思いついたの？」%K%P
+You「Did you think of anything?」%K%P
+0x7C8
+少年「え？　なんのこと？」%K%P
+Kid「What do you mean?」%K%P
+0x7D4
+優「脱出方法」%K%P
+You「Ways to get out.」%K%P
+0x7E0
+少年「ああ……」%K%P
+Kid「Oh...」%K%P
+0x7EC
+ぼくは首を横に振る。%K%P
+I shook my head.%K%P
+0x7F8
+優「そう、やっぱりね……」%K%P
+You「I thought so...」%K%P
+0x804
+優「はぁ、もう他の方法なんて、思い浮かばないよ」%K%P
+You「I can't think of any other ways.」%K%P
+0x810
+優「高圧力送風機さえ動けば……」%K%P
+You「If we could just get that high-pressure inflow machine to work...」%K%P
+0x81C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x828
+優「ねえ？　私、ちょっと考えてみたんだけどね」%K%P
+You「You know? I've thought this through.」%K%P
+0x834
+優「私達、誰かにだまされてるんじゃないかな？」%K%P
+You「I think we're being lied to by someone.」%K%P
+0x850
+少年「え？　どういうこと？」%K%P
+Kid「Huh? What are you talking about?」%K%P
+0x898
+つぐみ「あなたはきっと……利用されてるのよ、奴らに」%K%P
+Tsugumi「You are... just being used by them.」%K%P
+0x8DC
+つぐみの言葉が、脳裏をよぎる。%K%P
+Tsugumi's words flashed through my mind.%K%P
+0x8E8
+優「つまり、今回の出来事はただの事故じゃなかったってこと」%K%P
+You「I mean, I don't think what happened here was just a simple accident.」%K%P
+0x8F4
+優「誰かが意図的に、私達のことを閉じ込めたの」%K%P
+You「I think that somebody trapped us here on purpose.」%K%P
+0x900
+少年「…………」%K%P
+Kid「.........」%K%P
+0x914
+優「だって、そうとしか考えられないじゃない」%K%P
+You「Really, it's the only thing that makes sense.」%K%P
+0x920
+優「不自然なことがあまりにも多すぎるのよ」%K%P
+You「There's just too much that doesn't add up.」%K%P
+0x92C
+優「マヨの友達や、倉成の友達や、私の同僚は、私達がここに閉じ込められてることを知ってるはずでしょ？」%K%P
+You「Mayo's friends, Kuranari's friends, and my coworkers should all know that we're trapped here, right?」%K%P
+0x938
+優「なのに、どうして誰も来ないの？」%K%P
+You「So why doesn't anyone come?」%K%P
+0x944
+優「なんらかの理由で中に入って来れないとしても、ダイバーが窓ガラスをたたくぐらいのことはあってもいいはずじゃない！」%K%P
+You「Even if there is some reason that they can't get inside, divers should at least be knocking on the windows!」%K%P
+0x950
+優「それに、電力は生きてるのに通信回線だけ遮断されてたり……」%K%P
+You「Besides, we still have power. Only the communication system to the outside is down.」%K%P
+0x95C
+優「事故の前の警報も、停電も、原因不明だし……」%K%P
+You「We still don't have any idea what caused the alarm before the accident and the blackout...」%K%P
+0x968
+優「高圧力送風機が動かない理由だってわかってない」%K%P
+You「And we don't know why the high-pressure intake fan stopped working either.」%K%P
+0x974
+優「まるで、私達を閉じ込めるためにすべてが用意されてたみたいだよ」%K%P
+You「It's almost like everything was set up to trap us here.」%K%P
+0x980
+少年「……………………」%K%P
+Kid「............」%K%P
+0x98C
+ぼくは何も言い返せなかった。%K%P
+I didn't know what to say to her.%K%P
+0x998
+だって、その通りだと思ったから。%K%P
+It all made sense to me.%K%P
+0x9A4
+実を言えば、ぼくもそんなことを、うすうすとは感じていた。%K%P
+Actually, I had been feeling the same thing.%K%P
+0x9B0
+それをハッキリと自覚できなかったのは、いや自覚しなかったのは、ある意味の現実逃避だったのかもしれない。%K%P
+The reason that I hadn't been able to realize it was maybe that I didn't want to face reality.%K%P
+0x9BC
+そっと、優の横顔を窺う。%K%P
+I sneaked a looked at You's face.%K%P
+0x9C8
+彼女は膝小僧をきゅっと掴み、その頼りなげな視線を水面へと向けている。%K%P
+She clutched her knees and turned her helpless gaze to the water's surface.%K%P
+0x9D4
+唇の色は青白く、それは何も照明のせいばかりではない。%K%P
+Her lips were a bluish color, but it wasn't all the fault of the light.%K%P
+0x9E0
+誰よりも元気に振る舞ってきた彼女。%K%P
+You was always more upbeat than everyone around her.%K%P
+0x9EC
+ぼくにとって大きな存在だった彼女。%K%P
+She was a powerful presence for me.%K%P
+0x9F8
+なのに、今はとても小さく、か弱く感じてしまう。%K%P
+But right then, she seemed very small and fragile.%K%P
+0xA04
+どんなに気丈に振る舞っていても、優は女の子だ。%K%P
+No matter how tough she acted, You was still just a girl at heart.%K%P
+0xA10
+事故発生から早３日……もはや精神的に無理がきて当然だった。%K%P
+It had been a quick three days since the accident... It only made sense that she would be feeling the strain.%K%P
+0xA1C
+春の太陽は、深海の闇に呑み込まれ、その輝きを失いかけていた。%K%P
+Swallowed into the deep, dark ocean, we had lost the warm spring sun.%K%P
+0xA28
+（消してはいけない、ぼくが彼女を元気づけなければ……）%K%P
+(I can't let her go on like this. I have to cheer her up somehow...)%K%P
+0xA34
+そんな風に、ぼくは心の底から思った。%K%P
+That was how I felt deep in my heart.%K%P
+0xA48
+優「ねえ？　私達、助かるのかな？」%K%P
+You「Friends help each other, right?」%K%P
+0xA54
+優「少年は、未来が見えるんでしょ？」%K%P
+You「Kid, you can see the future, can't you?」%K%P
+0xA60
+優「この先どうなるのか、占ってよ」%K%P
+You「Tell me how things are going to turn out.」%K%P
+0xA6C
+少年「きっと、助かるよ」%K%P
+Kid「I think we'll be saved.」%K%P
+0xA80
+優「それは予知？　それとも、ただの希望的観測？」%K%P
+You「Is that a premonition? Or just an optimistic guess?」%K%P
+0xA8C
+少年「それはもちろん……」%K%P
+Kid「Of course, it's...」%K%P
+0xA98
+『予知だ！』――と言おうとして留まった。%K%P
+I wanted to say 'a premonition', but I couldn't.%K%P
+0xAA4
+予知ではだめだ。%K%P
+Saying it was wouldn't work.%K%P
+0xAB0
+だって、優に嘘は通じない。%K%P
+You could see through a lie.%K%P
+0xABC
+ぼくは考える。%K%P
+I thought about it.%K%P
+0xAC8
+第３視点。%K%P
+The third perspective.%K%P
+0xAD4
+第３の眼。%K%P
+The third eye.%K%P
+0xAE0
+真の智恵。%K%P
+True wisdom.%K%P
+0xAEC
+万物を見通す、全能のチカラ。%K%P
+Omnipotent all-seeing vision.%K%P
+0xAF8
+消えゆく光を、再び輝かせるチカラ。%K%P
+The power to make light shine once again.%K%P
+0xB04
+――それさえ、このぼくにあれば！%K%P
+I thought that if I only had that...!%K%P
+0xB10
+だけど、そんなものはない。%K%P
+But it didn't exist. It couldn't possibly...%K%P
+0xB1C
+少年「予知でも……希望でもない」%K%P
+Kid「It's not a premonition... or a guess...」%K%P
+0xB28
+だからせめて……%K%P
+At the very least...%K%P
+0xB44
+少年「約束だ」%K%P
+Kid「It's a promise.」%K%P
+0xB50
+優「約束？」%K%P
+You「Promise?」%K%P
+0xB5C
+少年「うん、約束」%K%P
+Kid「Yeah, I promise.」%K%P
+0xB68
+だからせめて……願った。%K%P
+At least... I hoped it was.%K%P
+0xB74
+決して消えませんように。%K%P
+That it was a promise that would materialize.%K%P
+0xB80
+ぼくらが優を護れますように――と。%K%P
+That we would be able to get You out of there.%K%P
+0xB8C
+ぼくは右手の小指を差し出す。%K%P
+I held up my hand up as if taking an oath.%K%P
+0xB98
+優も右手を近づけ……けれど、そこで手をとめる。%K%P
+I approached You... but then she spoke.%K%P
+0xBA4
+優「もし……約束破ったら？」%K%P
+You「And what if... you break it?」%K%P
+0xBB0
+少年「それはない。絶対に護ってみせる」%K%P
+Kid「I won't. I'll see that you're safe.」%K%P
+0xBBC
+優「絶対に？　１％たりともないの？」%K%P
+You「For sure? There's not even a 1％ chance you're wrong?」%K%P
+0xBC8
+少年「０．００００００００００００００００１％たりとも、ない」%K%P
+Kid「There is not even a 0.00000000000000001％ possibility.」%K%P
+0xBD4
+優「…………」%K%P
+You「...」%K%P
+0xBE0
+そっと、小指を絡めてくる優。%K%P
+I pointed my finger at my heart and promised You.%K%P
+0xBF4
+優「こんな自信過剰な約束、聞いたこともないけど……」%K%P
+You「Talk about promising more than you can deliver...」%K%P
+0xC00
+ゆびきりげんまん……%K%P
+I crossed my heart and hoped to die...%K%P
+0xC0C
+優「仕方ない、付き合ってあげるとしますか」%K%P
+You「Oh well. I suppose I'll have to trust you.」%K%P
+0xC18
+――ゆびきった！%K%P
+...And stick a needle in my eye... I wouldn't break my word to You.%K%P

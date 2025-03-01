@@ -1,0 +1,1308 @@
+text area offset and size:
+0x29F0
+0x4787
+0xA8
+ぼくと沙羅は、憩いの間のベンチの上で、アグラをかいて座っていた。%K%P
+Sara and I sat cross-legged on a bench in the rest area.%K%P
+0xB4
+床は一面水浸しだったから……。%K%P
+The floor was covered with water.%K%P
+0xC0
+少年「ごちそうさーん！」%K%P
+Kid「That was good!」%K%P
+0xD4
+沙羅「ごちそうさーん！」%K%P
+Sara「I'll say!」%K%P
+0xE0
+そして、ぼくらは今、武が作ってくれたタツタサンドを食べ終えたところだった。%K%P
+We had just polished off the fried tuna sandwiches that Takeshi had made for us.%K%P
+0xEC
+他の４人はと言うと……。%K%P
+As for the other four...%K%P
+0xF8
+空は、制御室にこもって、あいかわらずレミとのコンタクトを続けている。%K%P
+Sora was, as usual, cooped up in the control room and trying to make contact via LeMMIH.%K%P
+0x104
+つぐみは、行き先を告げずにどこかへ消えてしまった。%K%P
+Tsugumi had vanished without saying where she was going.%K%P
+0x120
+武は、作ったタツタサンドを空とつぐみに届けに行った。%K%P
+Takeshi had gone to deliver sandwiches to Sora and Tsugumi.%K%P
+0x134
+武は、作ったタツタサンドをつぐみに届けに行った。%K%P
+Takeshi had gone to deliver a sandwich to Tsugumi.%K%P
+0x140
+優は、着替えに行っている。食事中にソースをこぼしてしまったらしいのだ。%K%P
+You was changing clothes. Apparently, she had spilled something on them while eating.%K%P
+0x14C
+幸い彼女の普段着は、更衣室とともにこのドライエリア内に健在だったのだ。%K%P
+Fortunately, her normal clothes were safe in the changing room in the dry area.%K%P
+0x160
+沙羅「ねえ？　お腹もいっぱいになったことだし、ゲームでもやらない？」%K%P
+Sara「Hey, I'm full now. Why don't we play a game?」%K%P
+0x16C
+少年「ゲーム？」%K%P
+Kid「A game?」%K%P
+0x178
+沙羅「うん、山手線ゲームとか、３文字シリトリとか……」%K%P
+Sara「Yeah. The Yamanote Line game or a word game...」%K%P
+0x18C
+沙羅「そうだ！　ジャンケンモノマネゲームやろうよ！」%K%P
+Sara「I know! Rock, paper, scissors charades!」%K%P
+0x198
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1AC
+沙羅「ジャンケンして、勝った方がお題を出すのね？」%K%P
+Sara「We play, and the winner gets to choose something.」%K%P
+0x1B8
+沙羅「で、負けた方が、そのお題のモノマネをするの、ＯＫ？」%K%P
+Sara「And then the loser has to mimic it, okay?」%K%P
+0x1C4
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1D0
+沙羅「せーの、チッケッピ！」%K%P
+Sara「Ready, Ro Sham Bo!」%K%P
+0x1DC
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1F0
+沙羅「ちょっと、ちゃんと手、出してよぉ」%K%P
+Sara「Come on! Put your hand out.」%K%P
+0x1FC
+少年「ぼくはまだ、やるなんて言ってないけど？　それから、チッケッピって何？」%K%P
+Kid「I haven't said I'm going to play. And what is that 'Ro Sham Bo'?」%K%P
+0x210
+沙羅「チッケッピは、ジャンケンのかけ声」%K%P
+Sara「It's what you say when you play rock, paper, scissors.」%K%P
+0x224
+沙羅「やるかやらないかは……やるで決まり」%K%P
+Sara「And as to whether or not you're going to play... You are!」%K%P
+0x230
+少年「そんな勝手にっ」%K%P
+Kid「Who said YOU could decide?」%K%P
+0x244
+沙羅「うるさいっ！　いいからやるの！」%K%P
+Sara「Be quiet! Now let's play!」%K%P
+0x250
+沙羅「このままボケーッとしててもつまらないでしょ？」%K%P
+Sara「Not doing anything is boring, right?」%K%P
+0x25C
+少年「わ、わかったよ……」%K%P
+Kid「Oh... Alright...」%K%P
+0x270
+沙羅「うむうむ、素直でよろしい」%K%P
+Sara「That's more like it.」%K%P
+0x27C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x290
+沙羅「それじゃあ、いくよ？」%K%P
+Sara「Okay, here we go.」%K%P
+0x29C
+沙羅「せーの、チッケッピ！」%K%P
+Sara「Ready, Ro Sham Bo!」%K%P
+0x2A8
+ぼくの手はパー、沙羅の手はチョキだった。%K%P
+I chose paper, and Sara picked scissors.%K%P
+0x2BC
+沙羅「やったね♪　私の勝ち♪」%K%P
+Sara「Haha. I won!」%K%P
+0x2D0
+沙羅「というわけで……お題はねぇ……」%K%P
+Sara「So... I pick...」%K%P
+0x2DC
+沙羅「サバ」%K%P
+Sara「Salmon.」%K%P
+0x2E8
+少年「サ、サバ！？　サバって魚の！？」%K%P
+Kid「S-salmon!? You mean like a fish!?」%K%P
+0x2F4
+沙羅「うん」%K%P
+Sara「Yup.」%K%P
+0x308
+沙羅「それじゃあハリキッテ、行ってみよぉー！」%K%P
+Sara「So let's see it!」%K%P
+0x314
+少年「サバ……サバ……」%K%P
+Kid「Salmon... Salmon...」%K%P
+0x320
+少年「サバサバサバサバサバサバサバサバァ……」%K%P
+Kid「Salmon salmon salmon salmon salmon...」%K%P
+0x32C
+ぼくは口をパクパクさせ、腰を左右に振って、サバになり切ってみた。%K%P
+I opened and closed my mouth like a fish, gyrating my hips around and doing my best to become a salmon.%K%P
+0x340
+沙羅「きゃはははははははは♪」%K%P
+Sara「Kyahahahaha〜」%K%P
+0x34C
+沙羅は腹を抱えて笑ってくれた。%K%P
+Sara was laughing and holding her stomach.%K%P
+0x358
+熱演した甲斐があったってもんだ。%K%P
+It looked like I had been a good salmon.%K%P
+0x364
+少年「よーっし、なんか燃えてきたぞー！　次行こうよ、次！」%K%P
+Kid「Alright. Now I'm warmed up! Let's go again!」%K%P
+0x378
+沙羅「せーの、チッケッピ！」%K%P
+Sara「Ready, Ro Sham Bo!」%K%P
+0x384
+ぼくの手はチョキ、沙羅の手はパーだった。%K%P
+I chose scissors, and Sara picked paper.%K%P
+0x398
+沙羅「うわ〜ん、負けたぁ〜、くぅ〜」%K%P
+Sara「Ooooh, I lost.」%K%P
+0x3AC
+沙羅「お願い、お願いだから、変なお題出さないでよ？」%K%P
+Sara「Don't give me a weird one, okay? Please, please.」%K%P
+0x3B8
+ぼくがお題に選んだものは……%K%p
+I decided to make her act like...%K%p
+0x29B0
+胸ふぢこ
+Mynnie Mousey
+0x29BC
+毛利元就
+Caesar
+0x29C8
+優
+You
+0x29D4
+生意気な赤ちゃん
+A spoiled baby
+0x418
+少年「『胸ふぢこ』でお願いします」%K%P
+Kid「I choose Mynnie!」%K%P
+0x42C
+沙羅「えーっ！　そんなのできないよぉー！」%K%P
+Sara「What? I can't do that!」%K%P
+0x438
+少年「ルール、ですから」%K%P
+Kid「Those are the rules.」%K%P
+0x44C
+沙羅「うぅ……わかったよ、やればいいんでしょ、やればぁ……」%K%P
+Sara「Oh... Alright. I'll do it...」%K%P
+0x458
+少年「では、松永沙羅さんで『胸ふぢこ』……ハリキッテ、どうぞ！」%K%P
+Kid「Okay then. Matsunaga Sara-san... become 'Mynnie'!」%K%P
+0x46C
+沙羅「ラパ〜ン♪　ディゲ〜ン♪　ガジエモ〜ン♪」%K%P
+Sara「M-Y-C... K-E-Y... M-O-U-S-E-Y...! Myckey Mousey! Myckey Mousey!」%K%P
+0x480
+沙羅「お宝は、いただくわよぉ〜ん♪」%K%P
+Sara「Who's the leader of the club that's made for you and me〜」%K%P
+0x48C
+少年「ククククククククッ……」%K%P
+Kid「Hehehe...」%K%P
+0x4A0
+少年「『毛利元就』でお願いします」%K%P
+Kid「Caesar, please.」%K%P
+0x4B4
+沙羅「できるかぁ、ボケーッ！」%K%P
+Sara「How can I be Caesar, you idiot!?」%K%P
+0x4C0
+沙羅「って言うか、マネできる人なんかいないっしょーっ！」%K%P
+Sara「I don't think there's anyone who can become him!」%K%P
+0x4CC
+少年「ルール、ですから」%K%P
+Kid「Those are the rules.」%K%P
+0x4E0
+沙羅「え〜、そんなぁ……」%K%P
+Sara「Hey, no way...」%K%P
+0x4EC
+少年「では、松永沙羅さんで『毛利元就』……ハリキッテ、どうぞ！」%K%P
+Kid「Okay then. Matsunaga Sara-san... become 'Caesar'!」%K%P
+0x500
+沙羅「お、おほんっ……」%K%P
+Sara「Ah... hem.」%K%P
+0x514
+沙羅「拙者、毛利元就と申す」%K%P
+Sara「My name is Caesar.」%K%P
+0x520
+沙羅「疾きこと風の如く、徐かなること林の如く、侵掠すること火の如く、動かざること山の如し」%K%P
+Sara「Doth you, Hamlet, defy your lord? Et tu, my friend, Hamlet? Lend me some ears. Not in my empire!」%K%P
+0x534
+沙羅「いざ、出陣！」%K%P
+Sara「Then it's war!」%K%P
+0x540
+沙羅「パカラッパカラッパカラッパカラッ……」%K%P
+Sara「Giddy up, giddy up, giddy up...」%K%P
+0x54C
+少年「ギャハハハハハハハ……」%K%P
+Kid「Kyahahahaha...」%K%P
+0x558
+少年「うーっ、お腹痛いよぉ、片腹痛いよぉ、二重でオモシロイよぉ……」%K%P
+Kid「Heeee, my stomach hurts. It really hurts. You're too funny...」%K%P
+0x56C
+沙羅「そ、そんなに笑わなくてもいいでしょ……」%K%P
+Sara「You don't have to laugh that much...」%K%P
+0x578
+少年「だって……だって……それ……」%K%P
+Kid「But... Because... That's...」%K%P
+0x584
+少年「風林火山って……毛利元就じゃなくて、武田信玄だよぉ……」%K%P
+Kid「That wasn't... Caesar... but a mixed up Hamlet...」%K%P
+0x590
+少年「ギャハハハハハハハ……」%K%P
+Kid「Kyahahahaha...」%K%P
+0x5A4
+少年「『優』でお願いします」%K%P
+Kid「I choose for you to act out 'You'.」%K%P
+0x5B8
+沙羅「優って……なっきゅ先輩のこと？」%K%P
+Sara「By You... you mean Nakkyu?」%K%P
+0x5C4
+少年「うん」%K%P
+Kid「Yup.」%K%P
+0x5D8
+沙羅「なぁ〜んだ、そんなの簡単じゃん」%K%P
+Sara「What? That's easy.」%K%P
+0x5E4
+少年「簡単、なの？」%K%P
+Kid「Easy?」%K%P
+0x5F8
+沙羅「うん、いくよ？」%K%P
+Sara「Okay, here I go.」%K%P
+0x60C
+沙羅「『関東愚連会・苦麗無威爆走連合・七代目総長・田中優・夜露死苦！』」%K%P
+Sara「I am Tanaka You! The seventh leader of the Crimson motorcycle gang! The baddest group of Kanto hooligans!」%K%P
+0x618
+少年「…………」%K%P
+Kid「.........」%K%P
+0x624
+沙羅「…………」%K%P
+Sara「.........」%K%P
+0x630
+少年「……………………」%K%P
+Kid「............」%K%P
+0x644
+沙羅「……………………」%K%P
+Sara「............」%K%P
+0x650
+少年「ゆ、優って……」%K%P
+Kid「You is...」%K%P
+0x65C
+少年「……アレなの？」%K%P
+Kid「...That?」%K%P
+0x670
+沙羅「ついこないだまでね？」%K%P
+Sara「Well, just until just the other day.」%K%P
+0x67C
+沙羅「今は、カタギに戻ったみたいよ？」%K%P
+Sara「Now she seems to be leading a normal decent life.」%K%P
+0x688
+少年「そ、そうだったんだぁ……」%K%P
+Kid「I see...」%K%P
+0x69C
+少年「『生意気な赤ちゃん』でお願いします」%K%P
+Kid「I'll have you act out a spoiled baby.」%K%P
+0x6B0
+沙羅「あっ、それ結構得意だったりするかも」%K%P
+Sara「Oh, I might be good at that.」%K%P
+0x6BC
+少年「そうなの？」%K%P
+Kid「Really?」%K%P
+0x6D0
+沙羅「うん」%K%P
+Sara「Yup.」%K%P
+0x6DC
+少年「では、松永沙羅さんで『生意気な赤ちゃん』……ハリキッテ、どうぞ！」%K%P
+Kid「Okay then. Matsunaga Sara-san... become a spoiled baby!」%K%P
+0x6E8
+沙羅「ぼくはイワン……」%K%P
+Sara「I'm little Sara...」%K%P
+0x6FC
+沙羅「うーん、ミルクが冷たいよ」%K%P
+Sara「That milk's cold.」%K%P
+0x708
+沙羅「ちゃんと人肌にあっためてくんなきゃ」%K%P
+Sara「I won't drink that milk unless you warm it up to body temperature!」%K%P
+0x714
+少年「…………」%K%P
+Kid「.........」%K%P
+0x728
+沙羅「…………」%K%P
+Sara「.........」%K%P
+0x734
+少年「えーっと…………」%K%P
+Kid「Uh...」%K%P
+0x740
+少年「ご、ごめん……記憶がないから、似てるかわからないよ……」%K%P
+Kid「Sorry, sorry... I can't remember what babies are like, so I don't know if that was close...」%K%P
+0x754
+するとそこに……。%K%P
+And then...%K%P
+0x760
+優「何やってんの？」%K%P
+You「What are you doing?」%K%P
+0x77C
+着替え終えた優がやって来た。%K%P
+You appeared in her changed clothes.%K%P
+0x788
+少年「あ、ああ……えっとぉ……ジャンケンモノマネゲームを……」%K%P
+Kid「Uh... We... Um... We're playing rock, paper, scissors charades...」%K%P
+0x79C
+優「ジャンケンモノマネゲーム？　なんかオモシロそうだね？　私も入れて？」%K%P
+You「You're playing rock, paper, scissors charades? That sounds fun. Can I play?」%K%P
+0x7B0
+沙羅「いいですよぉ」%K%P
+Sara「Sure.」%K%P
+0x7BC
+沙羅は優にルールを説明した。%K%P
+Sara explained the rules to You.%K%P
+0x7D0
+優「ＯＫ、わかった」%K%P
+You「Okay, I got it.」%K%P
+0x7E4
+沙羅「それじゃあ、いきますよぉ？」%K%P
+Sara「Alright then. Let's play.」%K%P
+0x7F0
+沙羅「せーの、チッケッピ！」%K%P
+Sara「Ready, Ro Sham Bo!」%K%P
+0x80C
+と、そのとき……。%K%P
+Just then...%K%P
+0x848
+室内を照らしていた明かりが点滅を始めた。%K%P
+The lights illuminating the room started to flicker.%K%P
+0x854
+反射的に天井を見る。%K%P
+Instinctively, I looked to the ceiling.%K%P
+0x87C
+聴覚を研ぎ澄ますと、どこか遠くのほうで地響きにも似た鈍い音が……。%K%P
+Listening carefully, I heard a sound like the rumble of thunder far away.%K%P
+0x888
+沙羅「な、なにかなぁ……？」%K%P
+Sara「What could that be...?」%K%P
+0x894
+床に溜まった水に細波が立っている。%K%P
+Tiny waves formed in the water pooled on the floor.%K%P
+0x8BC
+壁や天井も小刻みに震えて、ミシミシと軋むような音を立てていた。%K%P
+The walls and ceiling trembled slightly. Metal screeched on metal.%K%P
+0x8D0
+優「ま、まさか……」%K%P
+You「No... It couldn't be...」%K%P
+0x8DC
+少年「まさか、なに？」%K%P
+Kid「Couldn't be what?」%K%P
+0x8E8
+優「ほらっ、昨日の浸水のときと似てない？　これ」%K%P
+You「Doesn't that sound a lot like when the water flooded in yesterday?」%K%P
+0x8FC
+カチカチと明滅を繰り返す照明の中で、優の顔からも、沙羅の顔からも、血の気がすーっと失せていった。%K%P
+The blood appeared to drain from the faces of You and Sara in the flickering light.%K%P
+0x908
+そして、その直後……。%K%P
+Immediately after that...%K%P
+0x974
+暗闇が、視界を覆った。%K%P
+Darkness blanketed us.%K%P
+0x980
+震動は音も無く消え失せ、不気味な静寂が辺りを満たす。%K%P
+The tremors and sounds stopped, but an eerie silence filled the area.%K%P
+0x98C
+ほのかな非常灯の明かりだけが、心細くともっていた。%K%P
+Only the emergency lights glowed dimly.%K%P
+0x9A0
+沙羅「停電……停電だ……」%K%P
+Sara「A blackout... It's a blackout...」%K%P
+0x9B4
+優「他のみんなは？」%K%P
+You「What about everybody else?」%K%P
+0x9D0
+少年「武は、つぐみと空のところに……」%K%P
+Kid「Where are Takeshi, Tsugumi, and Sora...?」%K%P
+0x9DC
+優「つぐみと……空……」%K%P
+You「Tsugumi and... Sora...」%K%P
+0x9F0
+少年「武は、つぐみのところに……」%K%P
+Kid「Takeshi went to look for Tsugumi...」%K%P
+0xA04
+優「で、つぐみはどこに？」%K%P
+You「Well, where is Tsugumi?」%K%P
+0xA10
+ぼくと沙羅は、闇の中で首を振った。%K%P
+Sara and I shook our heads in the darkness.%K%P
+0xA2C
+優「とにかく、倉成とつぐみを捜しに行こう」%K%P
+You「Anyway, let's go looking for Kuranari and Tsugumi.」%K%P
+0xA40
+沙羅「空は……？」%K%P
+Sara「And Sora...?」%K%P
+0xA64
+優「空は……」%K%P
+You「Sora is...」%K%P
+0xA70
+優「……今はいいの」%K%P
+You「...Let's not worry about her for now.」%K%P
+0xA84
+少年「えっ？」%K%P
+Kid「What?」%K%P
+0xA98
+優「話は後。今はふたりを捜す方が先よ」%K%P
+You「I'll tell you later. Looking for those two is the top priority right now.」%K%P
+0xAAC
+優は走り始めた。%K%P
+You started running.%K%P
+0xAC0
+わけがわからないまま、ぼくと沙羅もその後を追った。%K%P
+Sara and I followed her without knowing what was going on.%K%P
+0xADC
+優「マヨ？　今は停電なのよ？」%K%P
+You「Mayo. We're in the middle of a blackout now.」%K%P
+0xAF0
+沙羅「ん？　だから？」%K%P
+Sara「So what?」%K%P
+0xAFC
+少年「そうか……」%K%P
+Kid「Oh, I see...」%K%P
+0xB08
+少年「空の頭脳はＡＩ、姿はＲＳＤで形成されてる」%K%P
+Kid「Sora's brain is AI, and her body is made by RSD.」%K%P
+0xB14
+少年「だから、電気が無ければ……空は出現することができないんだ」%K%P
+Kid「Which means... if the power is down, then Sora can't appear.」%K%P
+0xB28
+優「そういうこと」%K%P
+You「That's right.」%K%P
+0xB3C
+そう言って、優は走り始めた。%K%P
+Saying that, You started running.%K%P
+0xB48
+ぼくは、沙羅の手を引いて、優の後を追い駆けた。%K%P
+I took Sara by the hand and followed after You.%K%P
+0xBAC
+武とつぐみがどこに行ったのかはわからない。%K%P
+I didn't know where Takeshi and Tsugumi were.%K%P
+0xBB8
+だが、停電という非常事態に直面して、その辺をぶらぶらしているとも思えなかった。%K%P
+And I couldn't imagine that they would be just wandering around during a blackout.%K%P
+0xBC4
+では、ふたりが真っ先に向かうであろう場所とはどこか？%K%P
+So where would they have gone first?%K%P
+0xBE0
+――制御室。%K%P
+―The control room.%K%P
+0xBEC
+ここ以外には考えられなかった。%K%P
+I couldn't think of anywhere else.%K%P
+0xBF8
+電力が途絶えている為、ドアは自動では開かない。%K%P
+The power was out, so the door didn't open automatically.%K%P
+0xC04
+優は入り口の脇についているレバーを引き、ドアを手動で開いた。%K%P
+You pulled the lever next to the door and opened it manually.%K%P
+0xC18
+３人で中へ入る……。%K%P
+The three of us went inside...%K%P
+0xC2C
+優「倉成！　つぐみ！　いたら返事して！」%K%P
+You「Kuranari! Tsugumi! If you're there, then answer!」%K%P
+0xC38
+優が闇の中に向かって声をかけた。%K%P
+You called into the darkness.%K%P
+0xC54
+それにしても、どうして『武とつぐみ』だけなんだろう？%K%P
+I wondered why she only called out for Takeshi and Tsugumi.%K%P
+0xC68
+少年「空ーっ！　空ーっ！」%K%P
+Kid「Sora! Sora!」%K%P
+0xC74
+ぼくは空のことを呼んでみたが、返事はなかった。%K%P
+I called to Sora, but there was no answer.%K%P
+0xC80
+少年「空、ここにいたはずなのに、どこに行っちゃったんだろう？」%K%P
+Kid「Sora should've been here. I wonder where she went.」%K%P
+0xC94
+少年「おーい！」%K%P
+Kid「Hello!」%K%P
+0xCA0
+沙羅「武ーっ！　つぐみーっ！」%K%P
+Sara「Takeshi! Tsugumi!」%K%P
+0xCB4
+返事はなかった。%K%P
+There was no answer.%K%P
+0xCC0
+いつの間にか、優は懐中電灯を手にしていた。%K%P
+You had picked up a flashlight at some point.%K%P
+0xCCC
+制御室のどこかから、探し出して来たのだろう。%K%P
+I imagined she had gotten it somewhere in the control room.%K%P
+0xCD8
+スイッチを入れる優……。%K%P
+You turned it on...%K%P
+0xCE4
+白い円形の光が壁に映った。%K%P
+A white circle of light appeared on the wall.%K%P
+0xCF0
+懐中電灯を左右に振り、優が室内の隅々を照らす。%K%P
+You shined the flashlight left and right, lighting up all corners of the room.%K%P
+0xCFC
+電気系統は完全に沈黙していた。%K%P
+The electrical system was completely down.%K%P
+0xD08
+見捨てられた廃墟のように、そこには一切の温もりが感じられなかった。%K%P
+Like an abandoned castle, there was no sign of warmth left.%K%P
+0xD14
+この部屋に人がいないことは明らかだ。%K%P
+There was clearly nobody there.%K%P
+0xD28
+沙羅「誰も……いないみたいね……」%K%P
+Sara「It doesn't seem... like there's anyone here...」%K%P
+0xD3C
+ぼくらは部屋を出た。%K%P
+We left the room.%K%P
+0xD50
+優「ちょっと、これ持ってて？」%K%P
+You「Can you carry this?」%K%P
+0xD64
+優は懐中電灯をぼくに手渡し、制御室のドアを閉めた。%K%P
+You handed me the flashlight and shut the control room door.%K%P
+0xD70
+すると……。%K%P
+Just then...%K%P
+0xD98
+バシャバシャバシャバシャ……。%K%P
+Splash, splash, splash...%K%P
+0xDA4
+水を蹴る音が、こっちに向かって近づいて来る。%K%P
+We heard the sounds of someone running toward us through water.%K%P
+0xDB0
+ほどなくして、闇の中からふたりの姿が現れた。%K%P
+After a short while, two figures emerged from the darkness.%K%P
+0xDBC
+少年「あっ、武！」%K%P
+Kid「Oh, Takeshi!」%K%P
+0xDC8
+沙羅「つぐみ！」%K%P
+Sara「Tsugumi!」%K%P
+0xDD4
+ザバザバと水を踏んで、武とつぐみがやって来る。%K%P
+Takeshi and Tsugumi approached, walking through the water.%K%P
+0xE08
+少年「ねえ？　空のこと、見かけなかった？」%K%P
+Kid「Hey, have you seen Sora?」%K%P
+0xE1C
+武「制御室にいたんじゃないのか？」%K%P
+Takeshi「Wasn't she in the control room?」%K%P
+0xE28
+沙羅「それが、もぬけの殻で……」%K%P
+Sara「It was empty...」%K%P
+0xE3C
+武「ほんとか？」%K%P
+Takeshi「Really?」%K%P
+0xE50
+武はレバーを引き、ドアを開いた。%K%P
+Takeshi used the manual lever to open the door.%K%P
+0xE5C
+中をのぞき込む武……。%K%P
+He looked inside...%K%P
+0xE68
+少年「懐中電灯、いる？」%K%P
+Kid「Do you want a flashlight?」%K%P
+0xE7C
+武「ああ、サンキュウ」%K%P
+Takeshi「Yeah, thanks.」%K%P
+0xE90
+武は懐中電灯を受け取り、スイッチを入れ、部屋の中へと入っていった。%K%P
+Takeshi took the flashlight, turned it on, and went into the room.%K%P
+0xE9C
+……………………………………。%K%P
+.....................%K%P
+0xEB0
+武「ったく、こんなときにどこ行っちまったんだ、空のやつ」%K%P
+Takeshi「Geez... Where would Sora go at a time like this?」%K%P
+0xEBC
+しばらくして、制御室から出て来た武はそう言った。%K%P
+Takeshi said that when he emerged from the control room.%K%P
+0xED8
+優「さてと……どうしますか？」%K%P
+You「So... what are we going to do?」%K%P
+0xEE4
+優は落ち着いた様子で、腰に手を当てていた。%K%P
+You said that calmly, with her hands on her hips.%K%P
+0xEF0
+昨日から立て続けに起こった非常事態……。%K%P
+It had been a series of emergencies since the day before...%K%P
+0xEFC
+もはや慣れきってしまったのか、ぼくらの中に取り乱す者はひとりもいなかった。%K%P
+Maybe we were all completely used to it. In any case, none of us were freaking out.%K%P
+0xF10
+沙羅「とりあえず……」%K%P
+Sara「For now...」%K%P
+0xF1C
+沙羅「みんなで手分けして、空を捜すしかないんじゃないの？」%K%P
+Sara「All we can do is split up and look for Sora.」%K%P
+0xF30
+沙羅「空がいなかったら、なんで停電したのかだって、わかんないんだし……」%K%P
+Sara「Without Sora, we won't know why there's been a blackout...」%K%P
+0xF3C
+少年「そうだね、ＬｅＭＵに一番詳しいのは、空なんだから」%K%P
+Kid「Yeah. Sora knows more about LeMU than anyone.」%K%P
+0xF50
+優「う〜ん……空、ねぇ……」%K%P
+You「Uh... Sora...」%K%P
+0xF64
+優「空、かぁ……」%K%P
+You「Sora...」%K%P
+0xF78
+沙羅「？」%K%P
+Sara「?」%K%P
+0xF84
+少年「？」%K%P
+Kid「?」%K%P
+0xF90
+武「？」%K%P
+Takeshi「?」%K%P
+0xFA4
+優「はぁ、もうしょうがないかな」%K%P
+You「Maybe it's time...」%K%P
+0xFB8
+優「この際だから、言っちゃうけど……」%K%P
+You「Since it's come to this, I'll tell you...」%K%P
+0xFC4
+優「空は、捜しても見つからないと思う」%K%P
+You「I don't think we'll find Sora even if we look.」%K%P
+0xFD8
+沙羅「えっ？」%K%P
+Sara「Huh?」%K%P
+0xFE4
+少年「えっ？」%K%P
+Kid「What?」%K%P
+0xFF0
+武「どうして？」%K%P
+Takeshi「Why not?」%K%P
+0x1004
+優「理由は、私の口からは言えない」%K%P
+You「I can't tell you the reason.」%K%P
+0x1010
+優「そういうことは、ちゃんと本人から説明しないと……」%K%P
+You「That's something that you should hear from Sora herself...」%K%P
+0x1024
+沙羅「？？？」%K%P
+Sara「?」%K%P
+0x1030
+少年「？？？」%K%P
+Kid「?」%K%P
+0x1044
+武「？？？」%K%P
+Takeshi「?」%K%P
+0x1058
+優「とにかく、私の言ってることを信じて？」%K%P
+You「Anyway, just take my word for it.」%K%P
+0x1064
+優「心配しなくても、空は無事だから」%K%P
+You「You don't have to worry. Sora is just fine.」%K%P
+0x1070
+優「必ず、戻って来るから」%K%P
+You「And she'll come back for sure.」%K%P
+0x107C
+少年「戻って来る？」%K%P
+Kid「Come back?」%K%P
+0x1088
+問い返したが、優は答えなかった。%K%P
+You ignored my question.%K%P
+0x10A4
+つぐみ「わかったわ……」%K%P
+Tsugumi「I see...」%K%P
+0x10B0
+つぐみ「で？　あなたはどうするつもりなの？」%K%P
+Tsugumi「So what are you going to do?」%K%P
+0x10DC
+武「おいっ、大丈夫か？　みんな無事か？」%K%P
+Takeshi「Hey, are you alright? Everybody's okay?」%K%P
+0x10F0
+つぐみ「たかが停電ぐらいで、無事もなにもないでしょう……」%K%P
+Tsugumi「It's only a blackout. You worry too much...」%K%P
+0x1104
+武「でも……空がいないぞ！」%K%P
+Takeshi「But... Sora's missing!」%K%P
+0x1110
+少年「空は、停電だから……」%K%P
+Kid「It's a blackout, so Sora is...」%K%P
+0x111C
+武「いや、そんなことは知ってるけど……」%K%P
+Takeshi「Yeah, I know that...」%K%P
+0x1128
+武「知ってるけど……えーと……あれだ……」%K%P
+Takeshi「I know that, but... let's see...」%K%P
+0x113C
+武「このまま停電が続いたら、空は永遠に、姿を現すことができなくなっちまうんじゃないのか？」%K%P
+Takeshi「If this blackout goes on, don't you think that Sora might never appear again?」%K%P
+0x1150
+優「その点については、心配しないで？」%K%P
+You「That's something you don't have to worry about.」%K%P
+0x115C
+優「考えがあるの」%K%P
+You「I've got an idea.」%K%P
+0x1170
+つぐみ「……考え？」%K%P
+Tsugumi「...An idea?」%K%P
+0x1184
+優「発電室に、行ってみようと思って……」%K%P
+You「I think we should try the generator room...」%K%P
+0x11B0
+沙羅「発電室？」%K%P
+Sara「The generator room?」%K%P
+0x11BC
+優「この停電の原因は、発電機のトラブルにあると思うの」%K%P
+You「I figure that the cause of this blackout is trouble in the generator room.」%K%P
+0x11C8
+そう言えば、昨日空が言ってたっけ……。%K%P
+That reminded me of something Sora had said the day before...%K%P
+0x11D4
+ＬｅＭＵは、外部から電力を供給してもらっているのではなく、館内に自家発電装置を持っている。%K%P
+LeMU didn't receive any power from the outside, but had an in-house generator system.%K%P
+0x11E0
+海底にある熱水噴出孔から高温の水を汲み上げ、その熱を利用して発電機を稼動させている、と……。%K%P
+There was a thermal seafloor vent where hot water was pumped out of the seabed, and heat from that was used to operate the generator.%K%P
+0x11F4
+優「つぐみも、一緒に来てくれるでしょ？」%K%P
+You「Tsugumi, you'll come along, won't you?」%K%P
+0x1208
+つぐみ「あいにくだけど、その手には乗らないから」%K%P
+Tsugumi「Sorry, but I'm not up for it.」%K%P
+0x121C
+優「えっ？」%K%P
+You「What?」%K%P
+0x1230
+つぐみ「私は行かない」%K%P
+Tsugumi「I'm not going.」%K%P
+0x123C
+つぐみ「行きたいなら勝手にどうぞ？」%K%P
+Tsugumi「If you want to go, be my guest.」%K%P
+0x1250
+そう言って、つぐみは去って行った。%K%P
+Saying that, Tsugumi left.%K%P
+0x125C
+呼び止めても無駄だろう。%K%P
+It didn't look like it would be any use calling after her.%K%P
+0x1270
+武「まったくもう、本当にわけのわからんやっちゃなぁ、あいつは」%K%P
+Takeshi「Geez. I have no clue what's going on in that girl's head.」%K%P
+0x1284
+優「しょうがない、４人で行くしかないね？」%K%P
+You「Oh well. The four of us will have to go.」%K%P
+0x1298
+沙羅「なっきゅ先輩。その発電室っていうのはどこにあるんですか？」%K%P
+Sara「Nakkyu, where is the generator room?」%K%P
+0x12A4
+優「発電室は、ここ――ドリットシュトックにあるの」%K%P
+You「The generator room is here―in Dritter Stock.」%K%P
+0x12B8
+武「よーしっ！　それでは、早速行こうではないか、皆の衆！」%K%P
+Takeshi「Okay! Let's hop to it, everybody!」%K%P
+0x12CC
+通路の方へと歩き出す武。%K%P
+Takeshi started walking toward the corridor.%K%P
+0x12E0
+優「ちょっと倉成、どこ行くつもりなのよ」%K%P
+You「Hey, Kuranari, where do you think you're going?」%K%P
+0x12F4
+武「どこって、発電室に行くんだろ？　お前が言ったんじゃんか」%K%P
+Takeshi「Where? To the generator room, of course. It was your idea to start with, right?」%K%P
+0x1300
+優「それで？　あんたは、どうやって行くつもりなの……？」%K%P
+You「And just how do you intend to get there?」%K%P
+0x1314
+武「あん？　そんなの『通路を歩いて』に決まってるじゃないかぁ〜」%K%P
+Takeshi「Huh? By walking through the corridors, dummy.」%K%P
+0x1328
+優「やれやれ……。やっぱり、ちっともわかってないんじゃない」%K%P
+You「Oh, please... You really don't get anything, do you?」%K%P
+0x133C
+武「へ？　それ、どういう意味だよ？」%K%P
+Takeshi「Huh? What's that supposed to mean?」%K%P
+0x1348
+少年「ねぇ、優。ぼくにもよくわからないんだけど……」%K%P
+Kid「Hey, You. I don't think I get it either...」%K%P
+0x1354
+沙羅「私も」%K%P
+Sara「Me neither.」%K%P
+0x1368
+優「みんな、昨日見たＬｅＭＵのマップ、覚えてないの？」%K%P
+You「You guys don't remember the map of LeMU we saw yesterday?」%K%P
+0x137C
+武「マップ？　マップ、マップねぇ……」%K%P
+Takeshi「Map? Map... Map...」%K%P
+0x13C8
+沙羅「えーと……確か、３階のマップは、エリアがふたつに分断されていましたよね？」%K%P
+Sara「Oh... You mean the three-story map that was split into two areas?」%K%P
+0x13D4
+少年「ああ、そういえば……」%K%P
+Kid「Oh, that's right...」%K%P
+0x13E0
+優「倉成も思い出せた？」%K%P
+You「You remember it too, Kuranari?」%K%P
+0x1404
+武「鮮明に、とまではいかないけど……ある程度は」%K%P
+Takeshi「I can't say I remember it exactly... but kinda, yeah.」%K%P
+0x1420
+優「じゃあ、そのふたつのエリアの間には、何があった？」%K%P
+You「And what was between those two areas?」%K%P
+0x142C
+武「何が？　何がって言われてもなぁ……」%K%P
+Takeshi「Between them? How am I supposed to know...?」%K%P
+0x1438
+少年「うーん……何もなかったと思うけど」%K%P
+Kid「Hmmm... I don't think there was anything.」%K%P
+0x1464
+優「そう」%K%P
+You「Bingo.」%K%P
+0x1470
+優「ということは？」%K%P
+You「Meaning what?」%K%P
+0x147C
+少年「ふたつのエリアは、水没した区画で隔てられている……？」%K%P
+Kid「The two areas are divided by a block which is now underwater...?」%K%P
+0x1488
+優「だから？」%K%P
+You「So?」%K%P
+0x1494
+沙羅「制御室のあるエリアから、発電室のあるエリアへは、直接移動することができない」%K%P
+Sara「We can't move directly from the control room area to the generator room area.」%K%P
+0x14A0
+少年「それに、もう一方のエリアの非常階段は水没していた……」%K%P
+Kid「Besides that, the emergency stairs of one of those areas was also flooded...」%K%P
+0x14BC
+優「だとしたら？」%K%P
+You「So what?」%K%P
+0x14C8
+武「ああ、そういうことか……」%K%P
+Takeshi「Oh, I see...」%K%P
+0x14D4
+武「発電室のあるエリアに下りるには、２階の――」%K%P
+Takeshi「To get to the generator room's area, we have to access the second floor...」%K%P
+0x14F0
+武「中性浮力式エレベーターを利用する以外、方法はないんだ」%K%P
+Takeshi「And the only way we can do that is by using the neutral buoyancy elevator.」%K%P
+0x1514
+優「ご名答」%K%P
+You「Correct.」%K%P
+0x1520
+優「だから、私達が向かわなければならないのは……」%K%P
+You「So we have to go to...」%K%P
+0x152C
+少年「中性浮力式エレベーターの乗り場ってことだね」%K%P
+Kid「To the entrance to the neutral buoyancy elevator.」%K%P
+0x1540
+優「そういうこと」%K%P
+You「That's right.」%K%P
+0x156C
+優「さて、理解してもらったということで……いざ、行動開始！」%K%P
+You「Now that you've got it... let's get going!」%K%P
+0x1578
+沙羅「御意、でござるよ、ニンニン！」%K%P
+Sara「Ready, set, go! Nin! Nin! Ninja!」%K%P
+0x158C
+沙羅は印を結び、その場でくるくるとまわり始めた。%K%P
+Sara took a bizarre kung fu pose and started spinning like a top.%K%P
+0x1598
+その『くるくる』が何を示すのか……ぼくにはよくわからなかったけど。%K%P
+I had no clue what she was trying to do.%K%P
+0x15D8
+優「とにかく、倉成とつぐみを捜しに行こう」%K%P
+You「Anyway, let's go looking for Kuranari and Tsugumi.」%K%P
+0x15EC
+沙羅「空は……？」%K%P
+Sara「And Sora...?」%K%P
+0x1600
+優「空は……」%K%P
+You「Sora is...」%K%P
+0x160C
+優「……今はいいの」%K%P
+You「...Let's not worry about her for now.」%K%P
+0x1620
+少年「えっ？」%K%P
+Kid「What?」%K%P
+0x1634
+優「話は後。今はふたりを捜す方が先よ」%K%P
+You「I'll tell you later. Looking for those two is the top priority right now.」%K%P
+0x1648
+優は走り始めた。%K%P
+You started running.%K%P
+0x165C
+わけがわからないまま、ぼくと沙羅もその後を追った。%K%P
+Sara and I followed her without knowing what was going on.%K%P
+0x16B8
+――制御室の前。%K%P
+―In front of the control room.%K%P
+0x16C4
+電力が途絶えている為、ドアは自動では開かない。%K%P
+The power was out, so the door didn't open automatically.%K%P
+0x16D0
+優は入り口の脇についているレバーを引き、ドアを手動で開いた。%K%P
+You pulled the lever next to the door and opened it manually.%K%P
+0x16E4
+３人で中へ入る……。%K%P
+The three of us went inside...%K%P
+0x16F8
+優「倉成！　つぐみ！　いたら返事して！」%K%P
+You「Kuranari! Tsugumi! If you're there, then answer!」%K%P
+0x1704
+優が闇の中に向かって声をかける。%K%P
+You called into the darkness.%K%P
+0x1710
+どうして『武とつぐみ』だけなんだろう？%K%P
+I wondered why she only called out for Takeshi and Tsugumi.%K%P
+0x1724
+少年「空ーっ！　空ーっ！」%K%P
+Kid「Sora! Sora!」%K%P
+0x1730
+ぼくは空のことを呼んでみたが、返事はなかった。%K%P
+I called to Sora, but there was no answer.%K%P
+0x173C
+少年「空、ここにいたはずなのに、どこに行っちゃったんだろう？」%K%P
+Kid「Sora should've been here. I wonder where she went.」%K%P
+0x1748
+いつの間にか、優は懐中電灯を手にしていた。%K%P
+You had picked up a flashlight at some point.%K%P
+0x1754
+制御室のどこかから、探し出して来たのだろう。%K%P
+I imagined she had gotten it somewhere in the control room.%K%P
+0x1760
+スイッチを入れる優……。%K%P
+You turned it on...%K%P
+0x176C
+白い円形の光が壁に映った。%K%P
+A white circle of light appeared on the wall.%K%P
+0x1778
+懐中電灯を左右に振り、優が室内の隅々を照らす。%K%P
+You shined the flashlight left and right, lighting up all corners of the room.%K%P
+0x1784
+電気系統は完全に沈黙していた。%K%P
+The electrical system was completely down.%K%P
+0x1790
+見捨てられた廃墟のように、そこには一切の温もりが感じられない。%K%P
+Like an abandoned castle, there was no sign of warmth left.%K%P
+0x179C
+この部屋に人がいないことは明らかだった。%K%P
+There was clearly nobody there.%K%P
+0x17B0
+沙羅「誰も……いないみたいね……」%K%P
+Sara「It doesn't seem... like there's anyone here...」%K%P
+0x17C4
+ぼくらは部屋を出た。%K%P
+We left the room.%K%P
+0x17D8
+優「ちょっと、これ持ってて？」%K%P
+You「Can you carry this?」%K%P
+0x17EC
+優は懐中電灯をぼくに手渡し、制御室のドアを閉めた。%K%P
+You handed me the flashlight and shut the control room door.%K%P
+0x17F8
+すると……。%K%P
+Just then...%K%P
+0x1820
+バシャバシャバシャバシャ……。%K%P
+Splash, splash, splash...%K%P
+0x182C
+水を蹴る音が、こっちに向かって近づいて来る。%K%P
+We heard the sounds of someone running toward us through water.%K%P
+0x1838
+ほどなくして、闇の中からふたりの姿が現れた。%K%P
+After a short while, two figures emerged from the darkness.%K%P
+0x1844
+少年「あっ、武！」%K%P
+Kid「Oh, Takeshi!」%K%P
+0x1850
+沙羅「つぐみ！」%K%P
+Sara「Tsugumi!」%K%P
+0x185C
+ザバザバと水を踏んで、武とつぐみがやって来る。%K%P
+Takeshi and Tsugumi approached, walking through the water.%K%P
+0x1880
+少年「ねえ？　空のこと、見かけなかった？」%K%P
+Kid「Hey, have you seen Sora?」%K%P
+0x1894
+武「制御室にいたんじゃねぇのか？」%K%P
+Takeshi「I thought she was in the control room.」%K%P
+0x18A0
+沙羅「それが、もぬけの殻で……」%K%P
+Sara「It was empty...」%K%P
+0x18B4
+武「ほんとか？」%K%P
+Takeshi「Really?」%K%P
+0x18C8
+武はレバーを引き、ドアを開いた。%K%P
+Takeshi used the manual lever to open the door.%K%P
+0x18D4
+中をのぞき込む武……。%K%P
+He looked inside...%K%P
+0x18E0
+少年「懐中電灯、いる？」%K%P
+Kid「Do you want a flashlight?」%K%P
+0x18F4
+武「ああ、サンキュウ」%K%P
+Takeshi「Yeah, thanks.」%K%P
+0x1908
+武は懐中電灯を受け取り、スイッチを入れ、部屋の中へと入っていった。%K%P
+Takeshi took the flashlight, turned it on, and went into the room.%K%P
+0x1914
+……………………………………。%K%P
+.....................%K%P
+0x1928
+武「ったく、こんなときにどこ行っちまったんだ、空のやつ」%K%P
+Takeshi「Geez... Where would Sora go at a time like this?」%K%P
+0x1934
+しばらくして、制御室から出て来た武はそう言った。%K%P
+Takeshi said that when he emerged from the control room.%K%P
+0x1950
+優「さてと……どうしますか？」%K%P
+You「So... what are we going to do?」%K%P
+0x195C
+優は落ち着いた様子でそう言った。%K%P
+You said that calmly.%K%P
+0x1968
+昨日から立て続けに起こった非常事態……。%K%P
+It had been a series of emergencies since the day before...%K%P
+0x1974
+もはや慣れきってしまったのか、ぼくらの中に取り乱す者はひとりもいなかった。%K%P
+Maybe we were all completely used to it. In any case, none of us were freaking out.%K%P
+0x1988
+沙羅「とりあえず……」%K%P
+Sara「For now...」%K%P
+0x1994
+沙羅「みんなで手分けして、空を捜すしかないんじゃないの？」%K%P
+Sara「All we can do is split up and look for Sora.」%K%P
+0x19A8
+沙羅「空がいなかったら、なんで停電したのかだって、わかんないんだし……」%K%P
+Sara「Without Sora, we won't know why there's been a blackout...」%K%P
+0x19B4
+少年「そうだね、ＬｅＭＵに一番詳しいのは、空なんだから」%K%P
+Kid「Yeah. Sora knows more about LeMU than anyone.」%K%P
+0x19C8
+優「う〜ん……空、ねぇ……」%K%P
+You「Uh... Sora...」%K%P
+0x19DC
+優「空、かぁ……」%K%P
+You「Sora...」%K%P
+0x19F0
+沙羅「？」%K%P
+Sara「?」%K%P
+0x19FC
+少年「？」%K%P
+Kid「?」%K%P
+0x1A08
+武「？」%K%P
+Takeshi「?」%K%P
+0x1A1C
+優「はぁ、もうしょうがないかな」%K%P
+You「Maybe it's time...」%K%P
+0x1A30
+優「この際だから、言っちゃうけど……」%K%P
+You「Since it's come to this, I'll tell you...」%K%P
+0x1A3C
+優「空は、捜しても見つからないと思う」%K%P
+You「I don't think we'll find Sora even if we look.」%K%P
+0x1A50
+沙羅「えっ？」%K%P
+Sara「Huh?」%K%P
+0x1A5C
+少年「えっ？」%K%P
+Kid「What?」%K%P
+0x1A68
+武「どうして？」%K%P
+Takeshi「Why not?」%K%P
+0x1A7C
+優「理由は、私の口からは言えない」%K%P
+You「I can't tell you the reason.」%K%P
+0x1A88
+優「そういうことは、ちゃんと本人から説明しないと……」%K%P
+You「That's something that you should hear from Sora herself...」%K%P
+0x1A9C
+沙羅「？？？」%K%P
+Sara「?」%K%P
+0x1AA8
+少年「？？？」%K%P
+Kid「?」%K%P
+0x1ABC
+武「？？？」%K%P
+Takeshi「?」%K%P
+0x1AD0
+優「とにかく、私の言ってることを信じて？」%K%P
+You「Anyway, just take my word for it.」%K%P
+0x1ADC
+優「心配しなくても、空は無事だから」%K%P
+You「You don't have to worry. Sora is just fine.」%K%P
+0x1AE8
+優「必ず、戻って来るから」%K%P
+You「And she'll come back for sure.」%K%P
+0x1AF4
+少年「戻って来る？」%K%P
+Kid「Come back?」%K%P
+0x1B00
+問い返したが、優は答えなかった。%K%P
+You ignored my question.%K%P
+0x1B1C
+つぐみ「わかったわ……」%K%P
+Tsugumi「I see...」%K%P
+0x1B28
+つぐみ「で？　あなたはどうするつもりなの？」%K%P
+Tsugumi「So what are you going to do?」%K%P
+0x1B3C
+優「発電室に行ってみようと思って……」%K%P
+You「I think we should try the generator room...」%K%P
+0x1B50
+沙羅「発電室？」%K%P
+Sara「The generator room?」%K%P
+0x1B5C
+優「この停電の原因は、発電機のトラブルにあると思うの」%K%P
+You「I figure that the cause of this blackout is trouble in the generator room.」%K%P
+0x1B68
+そう言えば、昨日空が言ってたっけ……。%K%P
+That reminded me of something Sora had said the day before...%K%P
+0x1B74
+ＬｅＭＵは、外部から電力を供給してもらっているのではなく、館内に自家発電装置を持っている。%K%P
+LeMU didn't receive any power from the outside, but had an in-house generator system.%K%P
+0x1B80
+海底にある熱水噴出孔から高温の水を汲み上げ、その熱を利用して発電機を稼動させている、と……。%K%P
+There was a thermal seafloor vent where hot water was pumped out of the seabed, and heat from that was used to operate the generator.%K%P
+0x1B8C
+優「つぐみも、一緒に来てくれるでしょ？」%K%P
+You「Tsugumi, you'll come along, won't you?」%K%P
+0x1BA0
+つぐみ「あいにくだけど、その手には乗らないから」%K%P
+Tsugumi「Sorry, but I'm not up for it.」%K%P
+0x1BB4
+優「えっ？」%K%P
+You「What?」%K%P
+0x1BC0
+つぐみ「私は行かない」%K%P
+Tsugumi「I'm not going.」%K%P
+0x1BCC
+つぐみ「行きたいなら勝手にどうぞ？」%K%P
+Tsugumi「If you want to go, be my guest.」%K%P
+0x1BE0
+そう言って、つぐみは去って行った。%K%P
+Saying that, Tsugumi left.%K%P
+0x1BEC
+呼び止めても無駄だろう。%K%P
+It didn't look like it would be any use calling after her.%K%P
+0x1C00
+武「まったくもう、本当にわけのわからんやっちゃなぁ、あいつは」%K%P
+Takeshi「Geez. I have no clue what's going on in that girl's head.」%K%P
+0x1C14
+優「しょうがない、４人で行くしかないね？」%K%P
+You「Oh well. The four of us will have to go.」%K%P
+0x1C28
+沙羅「なっきゅ先輩。その発電室っていうのはどこにあるんですか？」%K%P
+Sara「Nakkyu, where is the generator room?」%K%P
+0x1C34
+優「発電室は、ここ――ドリットシュトックにあるの」%K%P
+You「The generator room is here―in Dritter Stock.」%K%P
+0x1C48
+武「よーし！　そんじゃ、早速行くとするか。優、案内してくれ」%K%P
+Takeshi「Alright! Let's get a move on. You, can you lead the way?」%K%P
+0x1C5C
+通路の方へと歩き出す武。%K%P
+Takeshi started walking toward the corridor.%K%P
+0x1C70
+優「ちょっと倉成、どこ行くつもりなのよ」%K%P
+You「Hey, Kuranari, where do you think you're going?」%K%P
+0x1C84
+武「どこって、発電室に行くんだろ？　お前が言ったんじゃんか」%K%P
+Takeshi「Where? To the generator room, of course. It was your idea to start with, right?」%K%P
+0x1C90
+優「それで？　あんたは、どうやって行くつもりなの……？」%K%P
+You「And just how do you intend to get there?」%K%P
+0x1CA4
+武「あん？　そんなの『通路を歩いて』に決まってるじゃないかぁ〜」%K%P
+Takeshi「Huh? By walking through the corridors, dummy.」%K%P
+0x1CB8
+優「やれやれ……。やっぱり、ちっともわかってないんじゃない」%K%P
+You「Oh, please... You really don't get anything, do you?」%K%P
+0x1CCC
+武「ん？　それ、どういう意味だよ？」%K%P
+Takeshi「Huh? What's that supposed to mean?」%K%P
+0x1CD8
+少年「ねぇ、優。ぼくにもよくわからないんだけど……」%K%P
+Kid「Hey, You. I don't think I get it either...」%K%P
+0x1CE4
+沙羅「私も」%K%P
+Sara「Me neither.」%K%P
+0x1CF8
+優「みんな、昨日見たＬｅＭＵのマップ、覚えてないの？」%K%P
+You「You guys don't remember the map of LeMU we saw yesterday?」%K%P
+0x1D0C
+武「マップ？　マップ、マップねぇ……」%K%P
+Takeshi「Map? Map... Map...」%K%P
+0x1D60
+沙羅「えーと……確か、３階のマップは、エリアがふたつに分断されてましたよね？」%K%P
+Sara「Oh... You mean the three-story map that was split into two areas?」%K%P
+0x1D6C
+少年「ああ、そういえば……」%K%P
+Kid「Oh, that's right...」%K%P
+0x1D78
+優「倉成も思い出せた？」%K%P
+You「You remember it too, Kuranari?」%K%P
+0x1D9C
+武「鮮明に、とまではいかないけど……ある程度は」%K%P
+Takeshi「I can't say I remember it exactly... but kinda, yeah.」%K%P
+0x1DB8
+優「じゃあ、そのふたつのエリアの間には、何があった？」%K%P
+You「And what was between those two areas?」%K%P
+0x1DC4
+武「何が？　何がって言われてもなぁ……」%K%P
+Takeshi「Between them? How am I supposed to know...?」%K%P
+0x1DD0
+少年「うーん……何もなかったと思うけど」%K%P
+Kid「Hmmm... I don't think there was anything.」%K%P
+0x1DFC
+優「そう」%K%P
+You「Bingo.」%K%P
+0x1E08
+優「ということは？」%K%P
+You「Meaning what?」%K%P
+0x1E14
+少年「ふたつのエリアは、水没した区画で隔てられている……？」%K%P
+Kid「The two areas are divided by a block which is now underwater...?」%K%P
+0x1E20
+優「だから？」%K%P
+You「So?」%K%P
+0x1E2C
+沙羅「制御室のあるエリアから、発電室のあるエリアへは、直接移動することができない」%K%P
+Sara「We can't go directly from the control room area to the generator room area.」%K%P
+0x1E38
+少年「それに、もう一方のエリアの非常階段は水没していた……」%K%P
+Kid「Besides that, the emergency stairs of one of those areas was also flooded...」%K%P
+0x1E54
+優「だとしたら？」%K%P
+You「So what?」%K%P
+0x1E60
+武「ああ、そういうことか……」%K%P
+Takeshi「Oh, I get it...」%K%P
+0x1E6C
+武「発電室のあるエリアに下りるには、２階の――」%K%P
+Takeshi「To get to the generator room's area, we have to access the second floor...」%K%P
+0x1E88
+武「中性浮力式エレベーターを利用する以外、方法はないんだ」%K%P
+Takeshi「And the only way we can do that is by using the neutral buoyancy elevator.」%K%P
+0x1EAC
+優「ご名答」%K%P
+You「Correct.」%K%P
+0x1EB8
+優「だから、私達が向かわなければならないのは……」%K%P
+You「So we have to go to...」%K%P
+0x1EC4
+少年「中性浮力式エレベーターの乗り場ってことだね」%K%P
+Kid「To the entrance to the neutral buoyancy elevator.」%K%P
+0x1ED8
+優「そういうこと」%K%P
+You「That's right.」%K%P
+0x1F28
+優「さて、理解してもらったということで……いざ、行動開始！」%K%P
+You「Now that you've got it... let's get going!」%K%P
+0x1F34
+沙羅「御意、でござるよ、ニンニン！」%K%P
+Sara「Ready, set, go! Nin! Nin! Ninja!」%K%P
+0x1F48
+沙羅は印を結び、その場でくるくるとまわり始めた。%K%P
+Sara took a bizarre kung fu pose and started spinning like a top.%K%P
+0x1F54
+その『くるくる』が何を示すのか……ぼくにはよくわからなかったけど。%K%P
+I had no clue what she was trying to do.%K%P

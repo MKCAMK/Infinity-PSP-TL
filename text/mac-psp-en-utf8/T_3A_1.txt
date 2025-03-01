@@ -1,0 +1,957 @@
+text area offset and size:
+0x1DE8
+0x370C
+0x9C
+まどろみから覚める。%K%P
+I awoke from my slumber.%K%P
+0xA8
+硬く冷たい感触……。%K%P
+A stale, cold feeling...%K%P
+0xB4
+自分が椅子に浅く座り、テーブルに突っ伏していたことを思い出す。%K%P
+I remembered slouching in the chair and slumping forward on the table.%K%P
+0xC0
+それでも、昨日よりは遥かに充実した眠りだった。%K%P
+Even then, the sleep that I'd gotten was far better than the day before.%K%P
+0xCC
+武「やぁ、おはよう……」%K%P
+Takeshi「Hey, g'mornin'...」%K%P
+0xE0
+優「ああ、おはよう倉成」%K%P
+You「Oh, good morning.」%K%P
+0xEC
+優は一足先に起きていたようだ。%K%P
+It appeared that You had gotten up just before me.%K%P
+0xF8
+武「今、何時だ？」%K%P
+Takeshi「What time is it?」%K%P
+0x104
+優「５時５０分ってとこかな……」%K%P
+You「Almost 5:50 a.m., I think...」%K%P
+0x110
+武「朝、早いんだなお前」%K%P
+Takeshi「You sure are an early riser.」%K%P
+0x124
+優「何言ってんの、ぐーたらしてるのはあんただけ――」%K%P
+You「What are you talking about? You're just lazy...」%K%P
+0x138
+言いかけて、優は大きく欠伸をした。%K%P
+Saying that, You let out a big yawn.%K%P
+0x14C
+優「……なんてね、ずっと張り詰めてたらくたびれるし、眠れるうちに眠っておいたほうが正解かも」%K%P
+You「Then again, being all tense for so long just gets you tired. It's probably better to sleep when you can.」%K%P
+0x160
+優「こんな状況だからこそ、ちゃんと睡眠はとっといたほうがいいよ」%K%P
+You「Being in a situation like this, we really need to keep well-rested.」%K%P
+0x16C
+優「いざと言うときになって、頭が回転しなかったらヤバいしね」%K%P
+You「Cause when it comes down to it, if we can't think our way out of this situation, we're in trouble.」%K%P
+0x178
+武「なんだ、俺が昨日言った通りじゃねーか」%K%P
+Takeshi「Hey, I said that yesterday.」%K%P
+0x18C
+優「ん……まーねぇ……」%K%P
+You「Yeah... I suppose you did...」%K%P
+0x198
+はっきりとは答えず、優は軽く笑った。%K%P
+Dodging the subject, You laughed slightly.%K%P
+0x1A4
+優「起きるんなら、顔、洗ってきたら？」%K%P
+You「Hey, since you're up, why don't you go wash your face?」%K%P
+0x1B0
+武「ああ、そうだな……」%K%P
+Takeshi「Yeah, I might as well...」%K%P
+0x1BC
+武「って、ああっ！　お前まさかまた……！！」%K%P
+Takeshi「Ah! Hey, you didn't write on my face again, did you...!?」%K%P
+0x1C8
+俺は頬を手でこすってみる。%K%P
+I instinctively rubbed my cheeks.%K%P
+0x1D4
+優「大丈夫、別に何も書いてやしないから」%K%P
+You「Don't worry, I didn't write anything.」%K%P
+0x1E8
+ゆっくりと身体を引き起こし、辺りを見回す。%K%P
+I stood up slowly and checked my surroundings.%K%P
+0x1F4
+ココは椅子をいくつか並べてベッドを作り、その上で寝ていた。%K%P
+Coco had arranged some chairs to create a makeshift bed. She was asleep on top of them.%K%P
+0x200
+その枕元でピピが首を傾げている。%K%P
+And at the base of her pillow, Pipi's neck was cocked to the side.%K%P
+0x20C
+こいつも眠っているのかもしれない。%K%P
+It looked like he was sleeping too.%K%P
+0x218
+俺は立ち上がり、ココの眠る脇を過ぎ、扉を開けた。%K%P
+I got up, squeezed by the sleeping Coco, and opened the door.%K%P
+0x250
+少年「やぁ」%K%P
+Kid「Hey.」%K%P
+0x25C
+武「……おはよう、少年」%K%P
+Takeshi「...Oh, mornin', Kid.」%K%P
+0x270
+少年「武、なんか不景気そうな顔してる」%K%P
+Kid「Hey, don't look so depressed, Takeshi.」%K%P
+0x27C
+武「そんなこたぁねーよ。まだ眠いだけだ」%K%P
+Takeshi「I'm still sleepy.」%K%P
+0x288
+少年「一昨日、昨日といろいろあったからね。疲れ溜まってる？」%K%P
+Kid「Well, a lot's happened in the last couple of days. Are you worn out?」%K%P
+0x294
+武「大丈夫だって。ちっと眠気覚ましてくる。じゃあな」%K%P
+Takeshi「I'm alright. I just need to freshen up, that's all. See ya.」%K%P
+0x2D4
+近くの洗面所を目指して歩き出す。%K%P
+I headed to the nearest bathroom.%K%P
+0x2E0
+床を覆う水が、ようやく乾いた俺の靴を、再び水浸しにしていった。%K%P
+The water covering the floor seeped into my shoes, which had only just finished drying. They got wet all over again.%K%P
+0x2EC
+重くなる靴下。足裏にこびりつく感触。%K%P
+My socks got heavy and clung to my feet.%K%P
+0x2F8
+嫌でも歩みは鈍る。%K%P
+My pace slowed.%K%P
+0x304
+武「…………」%K%P
+Takeshi「.......」%K%P
+0x310
+武「…………」%K%P
+Takeshi「.......」%K%P
+0x31C
+武「あー！　面倒くせぇ！！」%K%P
+Takeshi「...Argh! What a freakin' pain!」%K%P
+0x358
+ざばあぁ！！%K%P
+Splash!%K%P
+0x364
+足元から豪快にすくい取り、顔に打ち水。%K%P
+Scooping up water from around my feet, I splashed it on my face.%K%P
+0x370
+武「うわぁ〜、冷てぇ〜……」%K%P
+Takeshi「Whoa, that's cold...!」%K%P
+0x37C
+身震いしたが、同時に、全身が目を覚ましていく。%K%P
+I was shivering, but at the same time, my whole body felt awake.%K%P
+0x388
+爽快な朝は洗顔からだと、改めて知った。%K%P
+So that was why people washed their faces in the morning...%K%P
+0x39C
+会議室に戻ると、そろそろ食事に行こうかという話になった。%K%P
+When I went back to the conference room, the conversation quickly turned to what we were going to eat.%K%P
+0x3A8
+武「つぐみと空がいないみたいだけど、いいのか？」%K%P
+Takeshi「Tsugumi and Sora aren't here. You sure it's okay?」%K%P
+0x3BC
+優「そうだね……でも、きっとそのうち現れるよ」%K%P
+You「That's true... but they'll probably show up eventually.」%K%P
+0x3C8
+武「まあ、あのふたりなら、そうだな」%K%P
+Takeshi「Yeah, knowing those two, you're probably right.」%K%P
+0x3DC
+俺はまだ眠っていたココを起こすことにする。%K%P
+I decided to wake up Coco.%K%P
+0x3E8
+武「おーい、起きろ。朝だぞ」%K%P
+Takeshi「Hey, get up. It's morning.」%K%P
+0x3F4
+軽く肩を揺さぶってやる。%K%P
+I shook her shoulder gently.%K%P
+0x408
+ココ「ふにゅ……んん……」%K%P
+Coco「Funyuu... Hmmmmm...」%K%P
+0x414
+ココは目をこすりながら、静かに起き上がった。%K%P
+Rubbing her eyes, Coco got up slowly.%K%P
+0x428
+ココ「あー、お兄ちゃんおはよう……」%K%P
+Coco「Oh, good morning... onii-chan...」%K%P
+0x434
+武「……は？　お兄ちゃん？」%K%P
+Takeshi「...Huh? Onii-chan?」%K%P
+0x440
+武「ああ、そうか。ココには兄貴がいたのか。でも俺は兄じゃないぞ……」%K%P
+Takeshi「Oh, I see. You have a brother, Coco? But I'm not your brother...」%K%P
+0x454
+ココ「違うよぅ……お兄ちゃん……」%K%P
+Coco「No... Onii-chan...」%K%P
+0x460
+ココ「それより、早くしないと学校に遅刻するよぅ……」%K%P
+Coco「We need to get ready, or we'll be late for school...」%K%P
+0x46C
+ココはまだ半分夢の中にいた。%K%P
+Coco was still half in dreamland.%K%P
+0x478
+武「学校？　遅刻？」%K%P
+Takeshi「Late for school?」%K%P
+0x484
+武「お前は何を言ってるんだ？」%K%P
+Takeshi「What are you talking about?」%K%P
+0x498
+ココ「そういう設定なんだよぅ……」%K%P
+Coco「Well, that's just the setting it is...」%K%P
+0x4A4
+武「あのなぁ……」%K%P
+Takeshi「Uh, listen...」%K%P
+0x4B0
+武「いつまでも寝ぼけてないで、メシ行くぞメシ」%K%P
+Takeshi「Stop messing around, we're going to eat.」%K%P
+0x4C4
+ココ「あー……ＯＫ、たけぴょん……」%K%P
+Coco「Ah... Okay, Takepyon.」%K%P
+0x540
+皆で連れ立って売店まで来た。%K%P
+We all made our way to the kiosk.%K%P
+0x54C
+武「みんな、ホットドッグでいいよな？」%K%P
+Takeshi「Everyone okay with hotdogs?」%K%P
+0x560
+ココ「ホットドッグ？」%K%P
+Coco「Hotdogs?」%K%P
+0x56C
+優「ここにホットドッグなんかあったんだ？」%K%P
+You「They have hotdogs here?」%K%P
+0x578
+武「冷蔵庫の奥に少しだけあったんだ。隠しメニューって奴だな」%K%P
+Takeshi「Well, I found a few in the back of the fridge. Must've been on the stealth menu.」%K%P
+0x58C
+そして今日もまた、調理は俺が担当している。%K%P
+I was relegated to cook duty again.%K%P
+0x5A0
+優「ねぇ〜倉成、まだぁ〜？」%K%P
+You「Hey, Kuranari, are they done yet?」%K%P
+0x5B4
+優「どーしておなかが空くのかなぁ〜？」%K%P
+You「Why do I have to be so hungryyy?」%K%P
+0x5C0
+優「おなかと背中がくっつくぞ〜？」%K%P
+You「My stomach is going to cave in...」%K%P
+0x5D4
+優「くっついたら、２次元人になっちゃうぞ？」%K%P
+You「I'm going to become two-dimensional.」%K%P
+0x5E0
+優「ひらっひらのぺったんこだぞ？」%K%P
+You「And float away on the wind.」%K%P
+0x5EC
+武「うっさい、黙れボケッ」%K%P
+Takeshi「Would you shut up already?」%K%P
+0x600
+優「あっはっは……」%K%P
+You「Hahaha...」%K%P
+0x614
+潜水艇を象ったタツタ売店の中に俺はいた。%K%P
+I was inside the kiosk that had been made to look like a submarine.%K%P
+0x620
+フライヤーでフランク・ソーセージをジュージュー揚げていた。%K%P
+Sausages were sizzling in a frying pan.%K%P
+0x62C
+Ｓｕｂｓ（サンドイッチ）だからＳｕｂｍａｒｉｎｅ（潜水艇）の店ってのはただの駄洒落か？%K%P
+They sold sub sandwiches there, so I guessed the exterior of the place was a sorry play on that.%K%P
+0x638
+どうしてこんなくだらないことばかりを考えているのか……俺は……。%K%P
+(...Why am I thinking about stupid things like that...?)%K%P
+0x644
+そうしているうちに、こんがりといい匂いが漂ってきた。%K%P
+In a little while, the place started to smell great.%K%P
+0x650
+バターを薄く塗って暖めておいたドッグパンに、ソーセージを乗せる。%K%P
+I carefully placed a sausage in the toasted, lightly buttered hotdog buns.%K%P
+0x65C
+武「おらぁ、食いたい奴ぁ順に前に出ろ！」%K%P
+Takeshi「Alright, whoever wants to eat, get in line!」%K%P
+0x670
+ココ「じゃあココ一番」%K%P
+Coco「I'm first!」%K%P
+0x67C
+武「おお！？　どうぞどうぞ」%K%P
+Takeshi「Oh!? Well, here ya go.」%K%P
+0x690
+ココ「さんきゅー♪」%K%P
+Coco「Thank you〜」%K%P
+0x6A4
+武「ケチャップとマスタードはセルフサービスになっております」%K%P
+Takeshi「Help yourself to ketchup and mustard.」%K%P
+0x6B8
+少年「あ、ぼくにもひとつください……」%K%P
+Kid「Uh, I'd like one too...」%K%P
+0x6D4
+優「ちょっとぉ、並びなさいよぉ、次はわ・た・し」%K%P
+You「Hey, wait in line! The next person is M-E-!」%K%P
+0x6E8
+これはたぶん、この場所で日常的に繰り返されてきた光景。%K%P
+That was probably the way things usually were at the shop.%K%P
+0x6F4
+未だ俺達がここから脱出できるという見込みは立っていない。%K%P
+There still wasn't any schedule as to when we might get out of LeMU.%K%P
+0x700
+しかし、難しく悲観的に考えるのは止めた。%K%P
+But in the meantime, we'd stopped thinking about the difficult and negative things.%K%P
+0x714
+少年「なんか知らないけど、楽しそうだね」%K%P
+Kid「I'm not sure why, but you look like you're having fun.」%K%P
+0x720
+武「え、俺？　楽しいっていうか……楽しいかな？　そう見える？」%K%P
+Takeshi「Who, me? You think so? Fun... I guess, maybe...」%K%P
+0x72C
+俺は揚げ物の熱にあおられた額の汗を拭う。%K%P
+I wiped the sweat caused by the heat of cooking from my face.%K%P
+0x748
+ココ「うん、なんか暮らしイキイキ！　って感じ」%K%P
+Coco「Yeah, you look like you might even be enjoying your life here.」%K%P
+0x754
+武「どんな感じだそれは……でも、結構面白いぞ。屋台経営は！」%K%P
+Takeshi「I wonder how that'd feel... I guess it'd be kind of fun, owning a stand like this!」%K%P
+0x768
+少年「屋台……経営……」%K%P
+Kid「Owning... a stand...」%K%P
+0x774
+少年は笑いを堪えた。%K%P
+The Kid stifled a laugh.%K%P
+0x788
+ココ「たけぴょん、本物の屋台のお兄ちゃんみたい」%K%P
+Coco「Takepyon, you really do look like you work here.」%K%P
+0x794
+武「おう、まいど。御代はいらないよ」%K%P
+Takeshi「Hotdogs, get your hotdogs! They're on the house!」%K%P
+0x7A8
+ココ「ひょっとしてひょっとすると、前世がホットドッグ屋さんだったかもね」%K%P
+Coco「You don't think that maybe you could have sold hotdogs in a past life?」%K%P
+0x7B4
+武「お客さん、そりゃあ誉めすぎだ……」%K%P
+Takeshi「Aw shucks, dear customer, you're just sayin' that...」%K%P
+0x7D0
+優「違うってココ、ミスターホットドッグというよりは」%K%P
+You「No, Coco, I don't think he was a hotdog man, I think he was...」%K%P
+0x7E4
+優「……サンドイッチマン？」%K%P
+You「...A sandwich man?」%K%P
+0x7F0
+武「優、お前なぁ」%K%P
+Takeshi「Ah, come on, You!」%K%P
+0x804
+優「あっはっは……」%K%P
+You「Ahahahaha...」%K%P
+0x810
+武「……はっはっは」%K%P
+Takeshi「...Hahaha.」%K%P
+0x824
+こうして熱々のホットドッグが食えるだけでも御の字だろう。%K%P
+I supposed we were just happy to be eating hot food.%K%P
+0x830
+細かいことは腹が膨れてから気にすればいい。%K%P
+We could worry about the details after our stomachs were full.%K%P
+0x83C
+今はこの、ささやかな食事の時間を楽しむことにした。%K%P
+For the time, we were enjoying eating that simple meal.%K%P
+0x86C
+それから、ひとしきり皆で笑いあった後……%K%P
+After spending some time laughing...%K%P
+0x8A8
+少年「あ……！」%K%P
+Kid「Ah...!」%K%P
+0x8B4
+ふと少年は天井を見上げた。%K%P
+The Kid suddenly looked up at the ceiling.%K%P
+0x8C8
+少年「あ、あれっ……？？」%K%P
+Kid「Wh-what's that...?」%K%P
+0x8D4
+何かを見つけたように、視線を宙にクギ付けにして、目をしばたいている。%K%P
+He blinked; his eyes were focused on the ceiling as if he had seen something.%K%P
+0x8F0
+武「お、おい、どうしたんだ？」%K%P
+Takeshi「H-hey, what's wrong?」%K%P
+0x8FC
+気になって俺は声をかけた。%K%P
+My curiosity piqued, I asked him.%K%P
+0x908
+それから少年の視線を追って、天井を見た。%K%P
+And following his gaze, I looked up at the ceiling.%K%P
+0x914
+そこに異状は感じられない……。%K%P
+But I couldn't see anything out of the ordinary...%K%P
+0x928
+少年「なんだろう……」%K%P
+Kid「I wonder...」%K%P
+0x934
+少年「なんだかわからないけど、見たんだ」%K%P
+Kid「I don't know what it was, but I swear I saw something.」%K%P
+0x940
+武「見た？　何を見たんだ？」%K%P
+Takeshi「Saw something? Like what?」%K%P
+0x94C
+少年「ううん、そうじゃない、見たっていうか……」%K%P
+Kid「Uhh... Well, I didn't really see it...」%K%P
+0x958
+少年「嫌な予感がする……２階……どこだろう」%K%P
+Kid「I just have a bad feeling... about the second floor... somewhere.」%K%P
+0x964
+武「な、何言ってるんだよ、お前」%K%P
+Takeshi「What the heck are you talking about?」%K%P
+0x970
+少年「ねぇ、もう一度フロアを調べたほうが――」%K%P
+Kid「Um, I think we should check that floor one more time...」%K%P
+0x97C
+少年が目を宙に向けたままうわ言のように言うので、俺は肩を揺すった。%K%P
+His eyes looked upward again, and he started mumbling incoherently. Concerned, I shook his shoulder.%K%P
+0x998
+ハッと彼は、我に返る。%K%P
+And then he snapped out of it.%K%P
+0x9A4
+武「あんま気にすんなよ。何かあれば、空があらかじめ警告してるはずだろ？」%K%P
+Takeshi「Don't worry about it. If something's up, Sora would warn us about it, right?」%K%P
+0x9B8
+少年「うん……確かに、そうだよね。だけど……」%K%P
+Kid「Yeah... You're right... but still...」%K%P
+0x9C4
+武「お前も疲れ、溜まってるみたいだな」%K%P
+Takeshi「Looks like I'm not the only one who's tired.」%K%P
+0x9D8
+そこへどこからか、ふらりとつぐみが現れた。%K%P
+Then Tsugumi appeared out of nowhere.%K%P
+0x9EC
+つぐみ「何かあったの？」%K%P
+Tsugumi「What just happened?」%K%P
+0x9F8
+武「いや、みんなでホットドッグ食ってるだけだよ。ほら、お前のもある」%K%P
+Takeshi「Ah, everyone was eating hotdogs. Hey, I've got one for you too.」%K%P
+0xA04
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xA10
+無言でつぐみは受け取った。%K%P
+Tsugumi took it without saying anything.%K%P
+0xA78
+かさかさとホットドッグの包みを開く音。%K%P
+I could hear the sound of her taking the hotdog out of its wrapper.%K%P
+0xA84
+俺はその挙動に注目してしまう。%K%P
+And I watched her motions carefully.%K%P
+0xA90
+固唾を飲んで見守る……。%K%P
+I swallowed, watching her...%K%P
+0xA9C
+つぐみは包みを一度売店のカウンターに置いて……%K%P
+Tsugumi placed the wrapper on the counter...%K%P
+0xAA8
+おもむろに、右手にケチャップ左手にマスタードのチューブを掴んでむいいぃぃっとばかりにひねり出した。%K%P
+Slowly, with the ketchup in her right hand and the mustard in her left, she squeezed the tubes. Their contents gushed out.%K%P
+0xAB4
+武「お、おい、つぐみ」%K%P
+Takeshi「H-hey, Tsugumi!」%K%P
+0xAC8
+つぐみ「何？」%K%P
+Tsugumi「What?」%K%P
+0xAD4
+ホットドッグは一面、べとべとの赤と黄色に染まっていた。%K%P
+The hotdog was entirely covered in red and yellow.%K%P
+0xAE0
+武「そんなにマスタードを山盛りにしたら……死ぬぞ……」%K%P
+Takeshi「You eat that much mustard and... it'll kill you...」%K%P
+0xAF4
+つぐみ「……そう？」%K%P
+Tsugumi「...Really?」%K%P
+0xB00
+つぐみはホットドッグにかじりつく。%K%P
+Tsugumi bit into the hotdog.%K%P
+0xB14
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xB20
+武「な、な？　辛い？　かれーだろ？」%K%P
+Takeshi「H-hey? Is it spicy? I bet it's spicy?」%K%P
+0xB34
+つぐみ「そんなことない」%K%P
+Tsugumi「Not really.」%K%P
+0xB40
+武「つけ過ぎてしまった失敗だったなーと思ってるだろ？」%K%P
+Takeshi「You're probably thinking to yourself, 'Dang, I put way too much on!', right?」%K%P
+0xB54
+つぐみ「……別に……気にしない」%K%P
+Tsugumi「...I don't... really care.」%K%P
+0xB60
+その後はまた、無言で食べていた。%K%P
+And after that, she continued eating in silence.%K%P
+0xB6C
+しかし俺は見逃さなかった。%K%P
+But I thought I'd seen a glimmer.%K%P
+0xB78
+微妙に涙目になっていたような気がしたのだ。%K%P
+Of eyes slightly starting to tear up.%K%P
+0xB84
+武「無理すんなよ」%K%P
+Takeshi「Hey, don't strain yourself.」%K%P
+0xB98
+つぐみ「無理じゃない。もう食べたから」%K%P
+Tsugumi「I'm not. I'm finished.」%K%P
+0xBA4
+武「そっか……」%K%p
+Takeshi「Oh...」%K%p
+0x1DC0
+今朝どこへ行ってた？
+Where'd you go this morning?
+0x1DCC
+もうひとつ食うか？
+Hey, you want another one?
+0xBE4
+武「ところで、今朝どこに行ってたんだ？」%K%P
+Takeshi「By the way, where'd you go this morning?」%K%P
+0xBF8
+つぐみ「……どうして？　何故そんなこと訊くの」%K%P
+Tsugumi「...Why? What do you want to know that for?」%K%P
+0xC04
+武「寝るときまでは、みんなと一緒だったじゃないか」%K%P
+Takeshi「Well, when everyone went to bed, you were still with us, right?」%K%P
+0xC10
+武「朝起きたら、いなかったから……」%K%P
+Takeshi「But when we got up, we couldn't find you, so...」%K%P
+0xC24
+つぐみ「別に……」%K%P
+Tsugumi「So what...?」%K%P
+0xC30
+つぐみ「関係、ないでしょ」%K%P
+Tsugumi「It's none of your business.」%K%P
+0xC3C
+武「関係なくないぞ」%K%P
+Takeshi「That's not true.」%K%P
+0xC48
+武「俺は朝食係だからな、お前が朝飯を食べるかどうか訊きたかったんだ」%K%P
+Takeshi「I'm in charge of breakfast, right? So I just wanted to know if you wanted some.」%K%P
+0xC5C
+つぐみ「もう食べた。だから、もういいでしょ」%K%P
+Tsugumi「I ate, okay? Enough already.」%K%P
+0xC68
+武「え？　ああ、まぁそれはそうなんだけどな？」%K%P
+Takeshi「What? No, uh, I mean, YEAH, but...」%K%P
+0xC74
+武「気になるっつーか、心配っつーか……」%K%P
+Takeshi「It was on my mind, you know? I guess I was worried...」%K%P
+0xC80
+武「『つぐみ、どうしたのかなぁ〜ん』っと思ってさ」%K%P
+Takeshi「I wondered, what happened to you?」%K%P
+0xC8C
+武「どこに行っちゃったのか、いつもどこに行っちゃうのか？」%K%P
+Takeshi「Where'd you go? Where do you always disappear to?」%K%P
+0xC98
+武「それが単純に、知りたかったんだよ」%K%P
+Takeshi「I guess I just wanted to know.」%K%P
+0xCA4
+武「あ、そうか……どうしても、ひとりで行きたい場所があった、そういうことかな」%K%P
+Takeshi「Hey, I got it... You just had to find a place to go by yourself, right?」%K%P
+0xCB8
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xCC4
+相変わらず、この手の質問については平行線を辿りがちだった。%K%P
+As usual, those questions were getting me nowhere.%K%P
+0xCD0
+武「まぁ、そんなに答えたくないなら、別にいいんだ」%K%P
+Takeshi「Well, if you don't want to answer, don't worry about it.」%K%P
+0xCEC
+武「なぁ、もうひとつ食うか？　作ってやろうか？」%K%P
+Takeshi「Hey, you want another one? I can make you one.」%K%P
+0xD00
+つぐみ「いらない」%K%P
+Tsugumi「No thanks.」%K%P
+0xD0C
+武「なんか、つぐみってモソモソボソボソ食ってるからなぁ。食わせ甲斐がいまいち足りないんだよ」%K%P
+Takeshi「You always just wolf your food down. I don't know, but there just isn't much satisfaction in cooking for you.」%K%P
+0xD18
+武「それに、さっきのケチャップマスタード山盛りだと味なんかわかんなかったろ？」%K%P
+Takeshi「Besides, with all that ketchup and mustard on it, you probably can't even taste it.」%K%P
+0xD2C
+つぐみ「味なんて、どうでもいい」%K%P
+Tsugumi「It doesn't matter how it tastes.」%K%P
+0xD38
+武「どうでもよくないっ！」%K%P
+Takeshi「Of course it matters!」%K%P
+0xD44
+武「この俺が腕にヨリをかけて作ってるんでいっ！」%K%P
+Takeshi「I'm doing my best to show you how real cookin' tastes!」%K%P
+0xD50
+武「ばっちり美味いものを食ってもらいたいんでいっ！」%K%P
+Takeshi「You just wait, I'll cook you up a meal that'll wake up your taste buds...!」%K%P
+0xD64
+つぐみ「もう充分食べたから、いい」%K%P
+Tsugumi「I've had enough to eat, okay?」%K%P
+0xD70
+つぐみ「お腹いっぱいだから……」%K%P
+Tsugumi「I'm full...」%K%P
+0xD7C
+武「……ふーん」%K%P
+Takeshi「...Hmph.」%K%P
+0xD88
+武「なら、いいんだけどさ」%K%P
+Takeshi「Well, if you say so.」%K%P
+0xDFC
+ドオオォォォン！！%K%P
+BOOOooom!%K%P
+0xE10
+突如、低い金属音が響いた。%K%P
+Suddenly, a low metallic sound reverberated throughout the complex.%K%P
+0xE1C
+こもったような鈍い音だった。%K%P
+It was a dull, muffled sound.%K%P
+0xE60
+武「な、なんだ！？」%K%P
+Takeshi「Wh-what was that!?」%K%P
+0xE6C
+つぐみ「少し……揺れたわね」%K%P
+Tsugumi「This whole place just shook... a little.」%K%P
+0xE78
+つぐみは辺りを探るように見回す。%K%P
+Tsugumi's eyes darted around as if searching for something.%K%P
+0xE84
+離れたところで休んでいた少年とココもこちらにやってきた。%K%P
+Moments later, the Kid and Coco, who'd both been resting in another room, appeared.%K%P
+0xEA0
+武「なぁ少年、今のは？」%K%P
+Takeshi「Hey, Kid, what was that?」%K%P
+0xEAC
+少年「さぁ、わからない……」%K%P
+Kid「Uh, I don't know...」%K%P
+0xEB8
+武「まさか、さっきの『嫌な予感』とやらが関係してるのか？」%K%P
+Takeshi「Hey, this doesn't have anything to do with that 'bad feeling' you had earlier, does it?」%K%P
+0xECC
+少年は首を横に振った。%K%P
+The Kid shook his head.%K%P
+0xED8
+少年「わからない。空に訊ければいいんだけど……」%K%P
+Kid「I don't know. Maybe we should ask Sora...」%K%P
+0xEE4
+空「呼びましたか？」%K%P
+Sora「Did you call for me?」%K%P
+0xF00
+いきなり中空から空の姿が現れ、俺達の眼前へと下りてくる。%K%P
+From out of nowhere, Sora appeared in midair and floated down in front of us.%K%P
+0xF0C
+ココ「あっ、空さん！」%K%P
+Coco「Ah, hi, Sora-san!」%K%P
+0xF18
+武「おおっ空、どこ行ってたんだ？」%K%P
+Takeshi「Hey, Sora! Where were you?」%K%P
+0xF2C
+空「申し訳ありません、寝坊してしまいました」%K%P
+Sora「I'm terribly sorry. I overslept.」%K%P
+0xF38
+空は恥ずかしそうにうつむいた。%K%P
+Sora looked embarrassed.%K%P
+0xF44
+武「寝坊？　ってお前……」%K%P
+Takeshi「Overslept? But you're...」%K%P
+0xF50
+武「……いや、それはひとまず置いといて」%K%P
+Takeshi「...Nah, we'll save that for later.」%K%P
+0xF5C
+少年「ねえ、今、何があったの？　嫌な音がしたけど」%K%P
+Kid「Hey, did something just happen? There was an awful noise just now.」%K%P
+0xF70
+空「フロアを支えるシャフトの一部に歪みが発生しました」%K%P
+Sora「One of the shafts that supports this floor has started to warp.」%K%P
+0xF7C
+少年「昨日は兆候が見られなかったと思うけど……」%K%P
+Kid「We didn't see any signs of it yesterday...」%K%P
+0xF88
+空「はい、事前の計算にはありません。海流の乱れに影響された模様です」%K%P
+Sora「Yes, well, it wasn't in my calculations. It appears as if the ocean currents may have caused it.」%K%P
+0xF94
+武「どのくらいヤバいんだ？」%K%P
+Takeshi「How dangerous are we talking here?」%K%P
+0xFA8
+空「誤差の範囲内だと思いますが……いえ、待ってください」%K%P
+Sora「Well it should be within the margin of error, but... No, wait a second.」%K%P
+0xFBC
+空「ツヴァイトシュトックの倉庫、圧力制御用の配管に異状があります」%K%P
+Sora「There is an anomaly in one of the pressure-regulating pipes at Zweiter Stock's warehouse.」%K%P
+0xFC8
+武「圧力制御用の配管って？」%K%P
+Takeshi「What are pressure-regulating pipes?」%K%P
+0xFD4
+空「ＬｅＭＵを覆っている多重隔壁――その内部の圧力調整を行っているパイプです」%K%P
+Sora「These pipelines are responsible for adjusting the pressure inside the multi-layered bulkheads comprising LeMU.」%K%P
+0xFE8
+空「万一これが破損していた場合、私の力ではこれを修復することができません」%K%P
+Sora「If any of them should rupture, for whatever reason, I am incapable of repairing them.」%K%P
+0xFF4
+空「異状は軽微ですから、緊急は要しませんが……倉庫の状況を確認いただいたほうが良いと思います。お願いできますか？」%K%P
+Sora「The anomaly is only slight, so you shouldn't have to hurry, but... I think it is best if someone goes to check on it. Would you please go for me?」%K%P
+0x1000
+武「ああ、任せてくれ」%K%P
+Takeshi「Sure, leave it to me.」%K%P
+0x100C
+俺はすぐに頷く。%K%P
+I volunteered right away.%K%P
+0x1028
+つぐみ「私も行くわ」%K%P
+Tsugumi「I'll go too.」%K%P
+0x1034
+意外にも、つぐみもすぐに名乗りをあげた。%K%P
+Unexpectedly, Tsugumi also agreed to go.%K%P
+0x1040
+武「つぐみが？　いいのか？」%K%P
+Takeshi「Tsugumi? You sure?」%K%P
+0x104C
+つぐみ「修理するなら、工具類が必要なんじゃないの？　私ならいろいろ、扱い方を知ってる」%K%P
+Tsugumi「Well, if we're going to fix something, we'll need tools, right? I know my way around a workshop.」%K%P
+0x1058
+武「そうだな……わかった。頼むよ」%K%P
+Takeshi「Alright... Let's go.」%K%P
+0x1080
+ココ「ココも手伝うよ〜」%K%P
+Coco「I'll help too!」%K%P
+0x108C
+ピピ「わん」%K%P
+Pipi「*Woof*」%K%P
+0x1098
+武「ＯＫ、じゃあココも一緒に行こうか。……あれ、優はどこ行ったんだ？」%K%P
+Takeshi「Okay, you can come too, Coco... Hey, does anyone know where You went?」%K%P
+0x10A4
+見回したが、優はいなかった。%K%P
+I looked around but didn't see You anywhere.%K%P
+0x10B8
+少年「さっきの揺れがあった時に、制御室に確認に行ったよ」%K%P
+Kid「She went to the control room when things were shaking earlier.」%K%P
+0x10CC
+空「私と入れ違いになってしまいましたね」%K%P
+Sora「We must have just missed each other.」%K%P
+0x10D8
+少年「ちょっと行って、武達が上に行くことを知らせてくるよ」%K%P
+Kid「I'll go and tell her that you're going up above.」%K%P
+0x10E4
+武「よし、それじゃ少年、任せた。制御室からの状況も見ておいてくれ。見落としがないかどうか……」%K%P
+Takeshi「Alright, Kid. I'll leave it to you. Keep an eye on things from the control room, will you? Just to make sure we don't miss anything...」%K%P
+0x10F8
+空「何かわかったら、レミを通じて私を呼んでください」%K%P
+Sora「If something comes up, use LeMMIH to contact me.」%K%P
+0x1104
+少年「わかった、それじゃ！！」%K%P
+Kid「Alright. See you later!」%K%P
+0x1140
+少年は水面を跳ねながら、通路へと駆けて行った。%K%P
+Bounding across the water's surface, the Kid shot down the corridor.%K%P
+0x118C
+非常階段を早足で登る。%K%P
+We climbed the emergency stairs quickly.%K%P
+0x1198
+緊急は要さないと言われたが、油断は禁物だろう。%K%P
+We were told that it wasn't urgent, but we still couldn't afford to be careless.%K%P
+0x11A4
+つぐみは重い工具箱を担ぎ、黙々と上を目指している。%K%P
+Tsugumi quietly shouldered the heavy toolbox, climbing higher and higher.%K%P
+0x11B0
+ココとピピがすぐ後に続く。%K%P
+Coco and Pipi followed right behind.%K%P
+0x11BC
+武「ところで、空……」%K%P
+Takeshi「By the way, Sora...」%K%P
+0x11C8
+俺の隣を滑るように移動している空に訊いた。%K%P
+I asked Sora, who was gliding alongside me, something that had been on my mind.%K%P
+0x11DC
+空「はい、倉成さん。なんでしょう？」%K%P
+Sora「Yes, Kuranari-san. What is it?」%K%P
+0x11E8
+武「さっき『寝坊した』って、言ってたけど……？」%K%P
+Takeshi「You mention you'd 'overslept' earlier...?」%K%P
+0x11FC
+空「ああっ、ごめんなさいっ……」%K%P
+Sora「Y-yes, I'm sorry...」%K%P
+0x1208
+空は顔を赤らめてもじもじとした。%K%P
+Sora's face went a deep shade of red.%K%P
+0x1214
+空「実は今朝、私のデータが入っているサーバーの定期メンテナンスが、自動で行われたのですが……」%K%P
+Sora「Actually, there was some routine maintenance on one of the servers where my data is stored. It initiated automatically this morning.」%K%P
+0x1228
+空「その復帰処理に手間取ってしまったようです。事前のチェックが甘かったですね。申し訳ありません……」%K%P
+Sora「It appears that it took some time for the return processing. I was a little too optimistic on the preliminary check. I'm terribly sorry.」%K%P
+0x1234
+武「ふーん、そうだったのかぁ」%K%P
+Takeshi「Hmm, so that's what it was.」%K%P
+0x1240
+武「……あはははっ」%K%P
+Takeshi「...Ahahaha.」%K%P
+0x124C
+俺はなんだか笑ってしまった。%K%P
+I laughed for some reason.%K%P
+0x1260
+空「あっ、そのあのっ、な、何か……おかしかったですか、私？」%K%P
+Sora「Um, er, what... Did I say something amusing?」%K%P
+0x126C
+空はうろたえた。%K%P
+Sora was confused.%K%P
+0x1278
+武「いや、空でもそうやって寝坊することがあるなんて面白いなぁ、と思って」%K%P
+Takeshi「No, I just thought it was funny that even YOU could oversleep, Sora.」%K%P
+0x128C
+空「はぁ……面白い、ですか……」%K%P
+Sora「Ahh... That's funny...?」%K%P
+0x1298
+武「なんて言うか、可愛い感じだ」%K%P
+Takeshi「How should I put it...? It's cute.」%K%P
+0x12AC
+空「かっ、『可愛い』……ですか！？」%K%P
+Sora「'Cute'...!?」%K%P
+0x12B8
+武「うん」%K%P
+Takeshi「Yeah.」%K%P
+0x12C4
+空「そんな……寝坊が、可愛い？？」%K%P
+Sora「Sleeping in is... cute?」%K%P
+0x12D0
+空「理解不能です……」%K%P
+Sora「That does not compute...」%K%P
+0x12DC
+空は目を丸くした。%K%P
+Sora's eyes went round.%K%P
+0x12E8
+彼女のデータベースにはない言葉の使い方なのかもしれない。%K%P
+Maybe it was because that particular use of the word wasn't in her database.%K%P
+0x12FC
+空「私は皆さんに、ご迷惑をおかけしたのに……」%K%P
+Sora「I've caused all of you such trouble...」%K%P
+0x1308
+武「そんな、みんな怒ってないし。全然気に病むことないよ」%K%P
+Takeshi「Hey, nobody's angry. Don't let it bother you.」%K%P
+0x1314
+武「ちゃんと空が頑張ってくれてるの、わかってるからさ」%K%P
+Takeshi「Everyone knows that you're working hard.」%K%P
+0x1328
+空「あっ、はい。ありがとうございます……」%K%P
+Sora「Ah, yes. Thank you...」%K%P
+0x1334
+空はなんだか戸惑いながらも、嬉しそうに頬を染める。%K%P
+Although Sora looked somewhat puzzled, her cheeks seemed to glow with joy.%K%P
+0x1340
+それがまた、なんとも面白かった。%K%P
+And for some reason, I found that amusing too.%K%P
+0x134C
+空「そうですか……可愛い……ですか……？」%K%P
+Sora「Really...? Is it...cute...?」%K%P
+0x1358
+初々しい反応。%K%P
+I thought it was a charmingly innocent reaction.%K%P
+0x1364
+そういうのを、やっぱり『可愛い』って言うんじゃないだろうか。%K%P
+I supposed it was the kind of thing you'd call 'cute'.%K%P
+0x13AC
+ツヴァイトシュトックに到着した。%K%P
+We finally arrived at Zweiter Stock.%K%P
+0x13B8
+フロアに異状はみられないが、小さくシューシューという音がどこからかしているのに気づいた。%K%P
+Looking around the floor, everything seemed normal, but we could hear a hissing sound coming from somewhere.%K%P
+0x13C4
+俺達はその音の方向に歩いていく。%K%P
+We walked toward the sound.%K%P
+0x13E4
+武「それにしても、昨日はなんともなかったのにな」%K%P
+Takeshi「Yesterday, everything was fine here.」%K%P
+0x13F0
+武「急に異状が起きるなんて、どうしてだと思う？」%K%P
+Takeshi「Why do you think something would go wrong all of a sudden?」%K%P
+0x13FC
+空「そうですね。何もかも予測通りとはいかないものですが……」%K%P
+Sora「Well... everything doesn't always go according to plan...」%K%P
+0x1410
+ココ「みんなが飛び跳ねたからかなぁ？」%K%P
+Coco「Is it because everyone was bouncing around so much?」%K%P
+0x141C
+ココは何げなく言った。%K%P
+Coco said that casually.%K%P
+0x1430
+武「え？」%K%P
+Takeshi「Huh?」%K%P
+0x1444
+ココ「ほら、みんなで騒がしくしてたからぁ……」%K%P
+Coco「You guys were making such a fuss...」%K%P
+0x1450
+ココ「だからＬｅＭＵが傾いちゃったのかな？」%K%P
+Coco「It probably threw LeMU off its axis.」%K%P
+0x145C
+武「ま、まさかぁ」%K%P
+Takeshi「I... I don't think so.」%K%P
+0x1468
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x147C
+つぐみ「ふふっ、そうかもね」%K%P
+Tsugumi「Haha, maybe it is.」%K%P
+0x1488
+つぐみは少し笑った。%K%P
+Tsugumi laughed softly.%K%P
+0x149C
+つぐみ「でも、修理すれば大丈夫だから」%K%P
+Tsugumi「But if we make some repairs, everything should be fine.」%K%P
+0x14A8
+ココ「うん、そうだよね。ね、つぐみん？」%K%P
+Coco「Yeah, I guess so. Right, Tsugumin?」%K%P
+0x14B4
+つぐみ「ええ。心配いらないわ、ココ」%K%P
+Tsugumi「Yeah. Don't worry about it, Coco.」%K%P
+0x14C8
+ココ「やったー♪　よかったー♪」%K%P
+Coco「Whew! I'm so relieved〜」%K%P
+0x14D4
+ココ「ぴっぴきぴっ♪　ぷっぷくぷっ♪」%K%P
+Coco「Woohoo! Alright〜」%K%P
+0x14E0
+ピピ「わんわんっ！」%K%P
+Pipi「Rrruff! Rrruff!」%K%P
+0x1584
+俺達は、シューシュー音の源の部屋の前に立った。%K%P
+We stood in front of the room where the hissing sound was coming from.%K%P
+0x1590
+武「やっぱりこの音、倉庫の中から聞こえるな」%K%P
+Takeshi「So it is coming from inside the warehouse.」%K%P
+0x15A4
+空「ちょっと、倉庫内の状態をスキャンしてきますね」%K%P
+Sora「I will run a scan to determine the situation inside.」%K%P
+0x15B8
+空はそう言って姿を消す。%K%P
+Saying that, Sora disappeared.%K%P
+0x15C4
+武「開けたら蒸気が大爆発、とかしないよな？」%K%P
+Takeshi「The steam in there isn't going to explode if we open the door, right?」%K%P
+0x15D0
+俺がつぐみに訊くと、つぐみは扉に目を凝らした。%K%P
+After I asked that, Tsugumi eyed the door uncertainly.%K%P
+0x15E4
+つぐみ「そうねぇ……」%K%P
+Tsugumi「Hmmm...」%K%P
+0x15F8
+つぐみ「平気なんじゃない？」%K%P
+Tsugumi「It's probably fine.」%K%P
+0x1604
+武「わかるのか？　もしかして……」%K%P
+Takeshi「How would you know? Do you...?」%K%P
+0x1618
+つぐみ「適当に言ってみただけよ」%K%P
+Tsugumi「I'm just saying what you want to hear.」%K%P
+0x162C
+空は扉のある場所から、ふっと姿を現す。%K%P
+Sora appeared in front of the door.%K%P
+0x1640
+空「確認しました」%K%P
+Sora「I have finished the diagnostic.」%K%P
+0x164C
+空「気圧正常、有毒ガスの発生なし。室内気温、湿度は共に僅かずつですが上昇中」%K%P
+Sora「Atmospheric pressure is normal. No traces of toxic gas detected; however, the temperature and humidity of the room are rising in slight increments.」%K%P
+0x1658
+空「パイプの一部が破損して、少し水が漏れています。水深は深いところで１０ｃｍ程度です」%K%P
+Sora「An area of the pipe has ruptured, and there is a slight water leak. The water is about ten centimeters at its deepest point.」%K%P
+0x166C
+つぐみ「それなら、大したことないわね」%K%P
+Tsugumi「That's hardly anything at all.」%K%P
+0x1680
+空「まぁ、そうですね……」%K%P
+Sora「No, I suppose not...」%K%P
+0x168C
+武「中に入ろう。修理すれば問題なくなるんだろ？」%K%P
+Takeshi「Let's go in. If we fix it, there won't be a problem, right?」%K%P
+0x16A0
+空「はい。お願いします」%K%P
+Sora「Yes. Please hurry.」%K%P
