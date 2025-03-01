@@ -1263,16 +1263,16 @@ Kid「What's that?」%K%P
 You「This was inside my mom's machine.」%K%P
 0x1AB4
 %FS私はここに来る前、お母さんの研究室に忍び込んだ%Nことがあるの。%FE%V%N
-I sneaked into her research room before coming here.%FE%V%N
+%FSI sneaked into her research room before coming here.%FE%V%N
 0x1AC0
 %FSもちろん、失踪した父親の手がかりを探す為よ。%FE%V%N
 %FSI was looking for clues about my father, of course.%FE%V%N
 0x1ACC
 %FS部屋に入ると、パソコンの電源が入れっぱなし%Nだったの。%FE%V%N
-When I went in, I saw that her computer was on.%FE%V%N
+%FSWhen I went in, I saw that her computer was on.%FE%V%N
 0x1AD8
 %FS中をのぞくと、ご丁寧に『パスワード』とタイトルの%Nつけられたテキストファイルがあってね。%FE%V%N
-Looking at it, I saw that there was a text file entitled 'Password'.%FE%V%N
+%FSLooking at it, I saw that there was a text file entitled 'Password'.%FE%V%N
 0x1AE4
 %FS開いてみると、たった１行……%FE%V%N
 %FSWhen I opened it, it was only one line...%FE%V%N
@@ -1296,7 +1296,7 @@ Kid「What?」%K%P
 You「I was in a hurry.」%K%P
 0x1BB4
 %FS誰かに見つかる前に、%N私はあわててメモを取ろうとした。%FE%V%N
-I tried to take a note of it before I was found out.%FE%V%N
+%FSI tried to take a note of it before I was found out.%FE%V%N
 0x1BC0
 %FSけれど、筆記用具が周辺には見当たらなかったの。%FE%V%N
 %FSBut I didn't see a pen or anything around.%FE%V%N
@@ -1314,10 +1314,10 @@ You「Thinking about it now, I should have sent it to myself by e-mail...」%K%P
 %FSSuddenly, I thought that I'd try to print it out...%FE%V%N
 0x1C6C
 %FS印刷が完了した直後、%Nお母さんがもどってきてしまったの。%FE%V%N
-As soon it stopped printing, my mom came back.%FE%V%N
+%FSAs soon it stopped printing, my mom came back.%FE%V%N
 0x1C78
 %FS私はトレイにあった用紙を素早くつかむと%Nポケットにねじこんだ。%FE%K%O
-I snatched the paper that was in the tray and jammed it in my pocket.%FE%K%O
+%FSI snatched the paper that was in the tray and jammed it in my pocket.%FE%K%O
 0x1CA8
 少年「えっ？　どういうこと？」%K%P
 Kid「Huh? What do you mean?」%K%P

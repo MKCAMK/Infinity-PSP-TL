@@ -186,7 +186,7 @@ I covered my ears with my hands and shook my head.%K%P
 
 0x468
 %LC%FSごめんなさいごめんなさい%Nごめんなさいごめんなさい%FE%V%O
-I'm sorry, I'm sorry― I'm sorry, I'm sorry, I'm sorry―%FE%V%O
+%LC%FSI'm sorry, I'm sorry― I'm sorry, I'm sorry, I'm sorry―%FE%V%O
 0x488
 それでも少女の悲痛な叫び声は鳴りやまなかった。%K%P
 Still, the girl's cries of pain didn't stop.%K%P
@@ -306,7 +306,7 @@ Kid「No... I... I promised...」%K%P
 %LCAnd you broke it.%V%N
 0x76C
 %LCと言うよりも、%N最初から果たすつもりなんかなかったんだろ？%V%P
-Or maybe you always meant to break it?%V%P
+%LCOr maybe you always meant to break it?%V%P
 0x78C
 少年「違う……」%K%P
 Kid「No...」%K%P
@@ -315,7 +315,7 @@ Kid「No...」%K%P
 
 0x7AC
 %LCおまえは自らの幸せを買ったんだ。%Nあの子の身体と引き換えにな……ははははは……%V%O
-You bought happiness for yourself. You traded it for that girl's life... Hahahaha...%V%O
+%LCYou bought happiness for yourself. You traded it for that girl's life... Hahahaha...%V%O
 0x7CC
 少年「違う……違う……違う……違う……違う……違う……違う……」%K%P
 Kid「No... No... No... No... No... No... No... No... No...」%K%P

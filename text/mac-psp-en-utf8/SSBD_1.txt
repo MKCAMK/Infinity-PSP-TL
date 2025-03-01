@@ -321,7 +321,7 @@ My eyes clouded. Flashes of white light darted across my vision...%K%P
 
 0x92C
 %LC%FS%150沙羅……。%FE%T099%O
-%150Sara...%FE%T099%O
+%LC%FS%150Sara...%FE%T099%O
 0x944
 %LC%FSゴメンよ沙羅……。%FE%T060%N
 %LC%FSI was so sorry, Sara...%FE%T060%N
@@ -336,7 +336,7 @@ My eyes clouded. Flashes of white light darted across my vision...%K%P
 
 0x980
 %LC%FS%150沙羅……。%FE%T090%T060%O
-%150Sara...%FE%T090%T060%O
+%LC%FS%150Sara...%FE%T090%T060%O
 0x998
 %N
 
