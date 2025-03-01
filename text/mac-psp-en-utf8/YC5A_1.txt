@@ -1,0 +1,1296 @@
+text area offset and size:
+0x1C50
+0x53BD
+0x11C
+優「二卵性の双生児ぃ〜？？？」%K%P
+You「Fraternal twins!?」%K%P
+0x128
+ぼくの耳元で、優は頓狂な声をあげた。%K%P
+You yelped right next to my ear.%K%P
+0x134
+少年「どうしてそんなに驚くの？　まだ、言ってなかったっけ？」%K%P
+Kid「What are you so surprised about? Didn't I tell you?」%K%P
+0x148
+優「マヨと少年が双子の兄妹だっていうのは聞いてたよ」%K%P
+You「Well, yeah, I'd heard that you and Mayo were twins, but...」%K%P
+0x154
+優「でも、一卵性とか二卵性とか、そういうのはまだ……」%K%P
+You「Nothing about fraternal, or identical, or anything like that...」%K%P
+0x160
+少年「そっかぁ……でも、はははははっ」%K%P
+Kid「Oh... but, bwahahahahaaa!」%K%P
+0x16C
+ぼくは思わず笑ってしまった。%K%P
+I laughed without thinking.%K%P
+0x178
+優「ん？」%K%P
+You「Hm?」%K%P
+0x184
+優が首を傾げている。%K%P
+You cocked her head.%K%P
+0x190
+少年「でも、二卵性なのは、当たり前のことなんだよ」%K%P
+Kid「Well, of course we're fraternal twins!」%K%P
+0x19C
+少年「だって、ぼくは男だし、沙羅は女なんだから……」%K%P
+Kid「I mean, I'm a guy, and Sara's a girl...」%K%P
+0x1A8
+優「どうして、当たり前なの？」%K%P
+You「So?」%K%P
+0x1B4
+少年「一卵性の双子って言うのは、ひとつの卵子にひとつの精子が結合して、それが途中でふたつに分かれてできるものなんだ」%K%P
+Kid「Monozygotic is when one egg is fertilized, and then that embryo splits into two.」%K%P
+0x1C0
+少年「もともとひとつだったわけだから、遺伝子も同じものを持ってるわけで……当然、性別も一緒になるし、顔もそっくりになる」%K%P
+Kid「So both twins have the exact same genetic makeup... That's why they're called identical, because they look the same. And of course they're the same gender.」%K%P
+0x1CC
+少年「つまり、一卵性の場合……『男の子と男の子』または『女の子と女の子』以外の可能性は無いってこと」%K%P
+Kid「So, for identical twins, you can't have anything other than two girls or two boys.」%K%P
+0x1D8
+少年「で、二卵性の双生児だけど……これは、ふたつの卵子にふたつの精子が結合してできたものなんだ」%K%P
+Kid「But dizygotic, on the other hand... is when two different eggs are fertilized by different sperm.」%K%P
+0x1E4
+少年「最初から別々の存在だったわけだから、遺伝子も異なるし、性別だって一緒になるとは限らない」%K%P
+Kid「So they're two separate entities from the beginning, each with a different genetic makeup. That way, they may or may not be the same gender.」%K%P
+0x1F0
+少年「顔も、あんまり似てないこともある」%K%P
+Kid「They may not even look much alike.」%K%P
+0x1FC
+少年「要するに、年の離れたキョウダイと同じような差異が、二卵性の双子にはあるってこと」%K%P
+Kid「They're basically just like other siblings.」%K%P
+0x208
+少年「だから、双子って言うよりも……『同じ時期に母体内にいて、同じ時期に生まれた単なるキョウダイ』って考えた方がわかりやすいと思う」%K%P
+Kid「So they're more like siblings who happened to be in their mother's body and get born about the same time.」%K%P
+0x214
+優「ふ〜ん、なるほどねぇ……」%K%P
+You「Hmmm. I get it...」%K%P
+0x220
+優「ってことは……『男の子と女の子の双子だった』っていう時点で、すでに二卵性であることは確実なわけだぁ」%K%P
+You「So... if a boy and a girl are twins... they have to be fraternal, not identical?」%K%P
+0x22C
+少年「そういうこと」%K%P
+Kid「Exactly.」%K%P
+0x238
+優「ふむふむ……」%K%P
+You「Hmmm.」%K%P
+0x24C
+優「……で？　……なんの話だったっけ？」%K%P
+You「...So... what were we talking about again?」%K%P
+0x258
+少年「忘れちゃったの？」%K%P
+Kid「You forgot?」%K%P
+0x26C
+優「えーっと、えーっとぉ……」%K%P
+You「Um, ummmm, well...」%K%P
+0x278
+少年「話の発端は、優がこう言ったことから始まったんだ」%K%P
+Kid「It started when you said something like...」%K%P
+0x284
+少年「『マヨと少年は双子……』」%K%P
+Kid「'So Mayo and you are twins...'」%K%P
+0x290
+少年「『なのに少年は、マヨみたいにコンピューター関係に詳しいわけじゃない』」%K%P
+Kid「'But you aren't any good at computers like Mayo is.'」%K%P
+0x29C
+少年「『その資質も、どうやらありそうもない。……これはどうして？』ってね」%K%P
+Kid「'In fact, you've got absolutely no aptitude for them. Why is that?'」%K%P
+0x2A8
+少年「それで、ぼくは答えたんだ」%K%P
+Kid「And then I said...」%K%P
+0x2B4
+少年「『二卵性の双生児だからだよ』って」%K%P
+Kid「'Because we're fraternal twins.'」%K%P
+0x2C8
+優「オ〜ッ！　イェ〜ッ！　オ〜モイダ〜シマシタァ〜ッ！」%K%P
+You「Ohh! Righhht! I remember now!」%K%P
+0x2D4
+優は遺跡の上で手足を伸ばし、バタバタと暴れた。%K%P
+You flailed her limbs around on top of the ruins.%K%P
+0x2E0
+そう、ぼくと優は今、レムリア遺跡の上にいるのだ。%K%P
+That was right, You and I were on the top of the Lemurian Ruins.%K%P
+0x2EC
+少年「というわけなんだけど、わかった？」%K%P
+Kid「So after all that, do you get it?」%K%P
+0x2F8
+優「……は？　……何が？」%K%P
+You「...Huh? Get what?」%K%P
+0x304
+バタついていた優の足がピタリと止まる。%K%P
+She paused in her flailing.%K%P
+0x310
+少年「ぼくがコンピューターをうまく扱えない理由だよ」%K%P
+Kid「The reason I'm not good at computers.」%K%P
+0x31C
+優「あっ、それね……こういうことでしょ？」%K%P
+You「Oh, that... It's like this, right?」%K%P
+0x328
+優「マヨと少年には『年の離れたキョウダイと同じような差異』があるわけだから……」%K%P
+You「Because you and Mayo are as different from one another as any other siblings...」%K%P
+0x334
+優「一卵性の双子とは違って、それぞれに遺伝した能力って言うのかな、素質って言うのかな、そういうのも全然違うってことなんだよね、きっと」%K%P
+You「Unlike identical twins, your genetic strengths, characters, or whatever are completely different.」%K%P
+0x340
+少年「うん」%K%P
+Kid「Right.」%K%P
+0x34C
+少年「ぼくと沙羅に受け継がれた共通の能力って言ったら『赤外線視力』ぐらいじゃないかな？」%K%P
+Kid「I'd say that our 'infrared vision' is the only inherited trait that we even share.」%K%P
+0x358
+少年「他のところは、あんまり似てないような気がする」%K%P
+Kid「Aside from that, I don't think we're very much alike.」%K%P
+0x364
+優「ふむふむ……」%K%P
+You「Hmmm...」%K%P
+0x370
+優「……で？　……その前は、なんの話だったっけ？」%K%P
+You「...So... what were we talking about before that?」%K%P
+0x37C
+少年「はぁ……」%K%P
+Kid「Ah...」%K%P
+0x388
+ぼくはため息をつき、説明を始めた。%K%P
+I sighed and started explaining.%K%P
+0x3C0
+その前に『優がどうしてこんなところにいるのか？』――理由を話さなければならない。%K%P
+But before that, I needed to explain what You and I were doing there.%K%P
+0x3CC
+話は今日の午後までさかのぼる……。（ぼくがまだ本名を知る前だ）%K%P
+It went back to that afternoon... (before I knew my real name).%K%P
+0x3D8
+ちょっと唐突ではあるけれど、そのときに、空はこんな事実を告げたのだった。%K%P
+Sora came out with some information rather abruptly.%K%P
+0x3E4
+空「田中陽一さんは、今から１７年前にお亡くなりになっています」%K%P
+Sora「Tanaka Yoichi-san passed away seventeen years ago.」%K%P
+0x3F0
+空「田中ゆきえさんも、１５年前に他界されたようです」%K%P
+Sora「Tanaka Yukie-san passed away fifteen years ago as well.」%K%P
+0x3FC
+『陽一さん』というのは優の父親のことで……『ゆきえさん』というのは優の母親のことだ。%K%P
+'Yoichi-san' was You's father, and 'Yukie-san' was her mother.%K%P
+0x408
+優の両親は、ふたりとも、亡くなっていたのである。%K%P
+Both of You's parents had passed away.%K%P
+0x414
+これは、残念ながら事実のようだった。%K%P
+It was, unfortunately, a fact.%K%P
+0x420
+証拠もあった。正確な日付の入ったメールや、その他のファイルだ。%K%P
+There was proof, including dated mail and other files.%K%P
+0x42C
+ぼくは、それらをきちんとこの目で確認している。%K%P
+I had seen them with my own eyes.%K%P
+0x438
+だけど優は、いまだに半信半疑でいるらしい。%K%P
+But You still wasn't convinced.%K%P
+0x444
+『お父さんは生きているんだ』と、まだ心のどこかで信じている。%K%P
+In her heart, she still believed that her father was alive.%K%P
+0x450
+もちろん、母親に関する話の方は、なおさら受け入れがたかったみたいだ。%K%P
+Of course, regarding her mother, she was even more vehement.%K%P
+0x45C
+優「だって、お母さんはＬｅＭＵで働いてるのよ？」%K%P
+You「But my mother works at LeMU.」%K%P
+0x468
+優「ついこの間まで一緒に住んでたのよ？」%K%P
+You「We were living together until right before all of this happened.」%K%P
+0x474
+優「それが、１５年前に死んだなんて……」%K%P
+You「There's no way she died fifteen years ago...」%K%P
+0x480
+ぼくは、言うべきかどうか躊躇したが……悩んだ末に、こう告げた。%K%P
+It was hard to know what to say... but I said...%K%P
+0x48C
+少年「そのお母さんは、優の本当のお母さんじゃ、ないんじゃないの？」%K%P
+Kid「Maybe she wasn't your real mother.」%K%P
+0x498
+少年「つまり、ゆきえさんとは別人で……」%K%P
+Kid「Meaning she might not even be Yukie-san...」%K%P
+0x4A4
+優は『あり得ない』といった感じで首を振るだけだった。%K%P
+You was shaking her head back and forth as if to say, 'Impossible.'%K%P
+0x4B0
+しばらくして、優は夢見るような口調でこんなことを言った。%K%P
+After a while, You spoke as if in a dream.%K%P
+0x4BC
+優「あ〜あ……」%K%P
+You「Aahhh...」%K%P
+0x4C8
+優「あそこに侵入することさえできればなぁ……」%K%P
+You「If only I could hack into there...」%K%P
+0x4D4
+優「そうすれば、もっと詳細な内容が、全貌が、わかるのになぁ……」%K%P
+You「Then I could find out details, get the whole story...」%K%P
+0x4E0
+『あそこ』とは、レミの『セキュリティレベルの高いデータ』のことを指している。%K%P
+The 'there' she meant was LeMMIH's high security data.%K%P
+0x4EC
+午後から夜にかけて、優は何度もレミへの侵入を試みていたが、認証の段階でことごとく蹴られていた。%K%P
+All afternoon and into the night, she had tried to hack her way in but kept getting rejected at the confirmation point.%K%P
+0x4F8
+パスワードはわかっている。%K%P
+She knew the password.%K%P
+0x504
+『海月の虚空に秋涼し時鳥／うみつきのこくうにすずしほととぎす』だ。%K%P
+'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.%K%P
+0x510
+読み方を変えてみたり、ひらがなにしてみたり、カタカナにしてみたり、ローマ字、大文字、小文字、半角、全角、英訳文、独訳文……。%K%P
+She kept trying different variations: caps, lowercase, varying widths, English, German...%K%P
+0x51C
+空や沙羅にも協力してもらい、考え得る限りの組み合わせ、可能性を試してみたが、結局……徒労に終わった。%K%P
+She enlisted Sora and Sara's help, and they tried every possibility they could think of... but all to no avail.%K%P
+0x528
+レミの築き上げた壁は高く、分厚く、優は敵陣を目前にして、完全なる敗北を喫したのだった。%K%P
+LeMMIH had built a high, impenetrable castle, and You was turned back again and again right at the gates.%K%P
+0x534
+挫折感と絶望感に打ちひしがれた優……。%K%P
+She was stricken with frustration and grief...%K%P
+0x540
+万策尽き果て、途方に暮れた優は、やがてフラフラと、このレムリア遺跡にやって来たというわけだ。%K%P
+Finally, exhausted and at a loss, she found her way over to the Lemurian Ruins.%K%P
+0x54C
+………………………………。%K%P
+.........%K%P
+0x558
+ぼくが優の姿を見つけたときには、すでに優は積み上げられた石材の上にいた。%K%P
+By the time I spotted her, she had climbed all the way to the top.%K%P
+0x564
+ぼくは優の隣に腰をおろした。ぼくらは何も語らなかった。%K%P
+I sat down beside her. Neither of us spoke.%K%P
+0x570
+ただ優だけは、時折思いついたようにため息をついた。%K%P
+But from time to time, You would let out a sigh like she had thought of something.%K%P
+0x57C
+時間がゆっくりと、流れた……。%K%P
+Time passed slowly...%K%P
+0x588
+優「ねえ？　少年は、予知ができるんでしょ？」%K%P
+You「Listen, Kid, you get premonitions, right?」%K%P
+0x594
+１５３回目のため息をついた後、優はふいに、そんなことを尋ねてきた。%K%P
+After about the 153rd sigh, You suddenly came out with that question.%K%P
+0x5A0
+優「私のお父さんとお母さんについて、なんかわかること、ないの？」%K%P
+You「Can you see anything about my parents?」%K%P
+0x5AC
+少年「そ、そんなこと言われても……予知と過去知は全然違うものだと思うし……」%K%P
+Kid「Well, you know... premonitions... aren't the same as seeing into the past...」%K%P
+0x5B8
+少年「それに……今から１５年前と１７年前ってことは……」%K%P
+Kid「And you're talking about fifteen and seventeen years ago...」%K%P
+0x5C4
+少年「ぼくが１歳か、まだ生まれてないときのことか……どっちにしても、そんな昔のこと、わかるわけないよ」%K%P
+Kid「When I was only one, or not even born yet. Either way, there's no way I can look that far into the past.」%K%P
+0x5D0
+優「まったくもうっ、使えないやっちゃなぁ〜」%K%P
+You「You're totally useless...」%K%P
+0x5DC
+優「空とマヨが悪戦苦闘してたときだって、少年はそばで、ぼんやりと見てただけだったし……」%K%P
+You「Even when Sora and Mayo were killing themselves helping me, you were just sitting there spaced out.」%K%P
+0x5E8
+少年「…………」%K%P
+Kid「.........」%K%P
+0x5F4
+優「あっ、そう言えば……」%K%P
+You「Hey, that reminds me...」%K%P
+0x600
+優「マヨと少年は双子、なんだよねぇ？」%K%P
+You「You and Mayo are twins, right?」%K%P
+0x60C
+優「なのに少年は、マヨみたいにコンピューター関係に詳しいわけじゃない」%K%P
+You「But you're not good with computers the way she is.」%K%P
+0x618
+優「その資質も、どうやらありそうもない。……これは、どうして？」%K%P
+You「In fact, you don't have any aptitude with them at all. Why is that?」%K%P
+0x650
+少年「だから、ぼくは答えたんだ」%K%P
+Kid「That's when I answered.」%K%P
+0x65C
+少年「『二卵性の双生児だからだよ』ってね」%K%P
+Kid「I said, 'Because we're fraternal twins'.」%K%P
+0x668
+優「ワ〜オッ！　バナ〜ナッ！　バナ〜ナッ！」%K%P
+You「Whoah! Banana, banaaaaana!」%K%P
+0x674
+優「オ〜モイダ〜シマシッ、キュッキュッキュキュッキュ、ダ〜シマシッ、キュッキュッキュキュッキュ、ダ〜シマシッ」%K%P
+You「I remember now... cow cow cow cow... rememberember, cow cow cow now...」%K%P
+0x680
+優「キュキュッキュ、キュッキュキュキュッキュ――オ〜モイダ〜シマシタァ〜ッ！」%K%P
+You「Cow cow cow cow, NOW I rememberember!」%K%P
+0x68C
+優は、壊れちゃったのかもしれない。%K%P
+You appeared to be malfunctioning.%K%P
+0x698
+想像を絶するほどの過酷な現実を突きつけられたせいで……。%K%P
+The harsh reality of things must have been too cruel for her to bear...%K%P
+0x6A4
+最初、空から真相を打ち明けられたときの優は、狂気に近いさまで狼狽し、恐慌状態へと陥り、子供のように泣きじゃくった。%K%P
+When Sora first told her, You went hysterical, almost crazy, and then burst into a sobbing fit like a child.%K%P
+0x6B0
+でも、気が済むまで泣いたせいか、その後の優はだいぶ落ち着きを取り戻したみたいだった。%K%P
+Maybe she had cried herself out. Because, since then, she had seemed much calmer.%K%P
+0x6BC
+そして、今の優は……%K%P
+But then...%K%P
+0x6C8
+優「アポー、アポー、パイナッポー」%K%P
+You「Apo, apo, a pineappo?」%K%P
+0x6D4
+こんなありさまであり……。%K%P
+She was in bad shape.%K%P
+0x6E0
+少年「ねえ、優？　大丈夫？」%K%P
+Kid「You? Are you okay?」%K%P
+0x6EC
+優「ほへっ？」%K%P
+You「Wazzat?」%K%P
+0x6F8
+少年「精神状態とか、ヤバイことになってない？」%K%P
+Kid「Uh, maybe you're a little psychologically strained?」%K%P
+0x704
+優「ぜ〜んぜん、平気だよ？」%K%P
+You「No waaaay, I'm fine!」%K%P
+0x710
+優「私、もうこの際だから、ひらきなおることにしたの」%K%P
+You「I'm starting over from here.」%K%P
+0x71C
+優「うじうじ考えてても、しょーがないでしょ？」%K%P
+You「No point in moping, right?」%K%P
+0x728
+少年「…………」%K%P
+Kid「.........」%K%P
+0x734
+優「私のことよりも、ホクたんの方はどうなの？」%K%P
+You「Enough about me, how about you, Hokutan?」%K%P
+0x740
+少年「ホ、ホクたん！？」%K%P
+Kid「Ho-Hokutan!?」%K%P
+0x74C
+優「だって少年の名前、ホクトなんでしょ？　……だから、ホクたん」%K%P
+You「Your name's Hokuto, right...? So... Hokutan.」%K%P
+0x758
+少年「や、やめてよ、そんな呼び方するの」%K%P
+Kid「Cut it out, don't call me that.」%K%P
+0x764
+優「どうして？」%K%P
+You「Why not?」%K%P
+0x770
+少年「ぼく……『ホクト』っていうのが自分の名前だとは、どうしても思えないんだ」%K%P
+Kid「I... still can't think of myself as a 'Hokuto'.」%K%P
+0x77C
+少年「もし、街中かどこかで誰かとすれ違ったときに『ホクトッ！』って呼びかけられても……」%K%P
+Kid「If I was walking down the street and someone called out, 'Hokuto!'...」%K%P
+0x788
+少年「たぶん、ぼくは振り向かないし、振り向けないと思う」%K%P
+Kid「I wouldn't turn around. In fact, I don't think I COULD.」%K%P
+0x794
+少年「『自分が呼ばれたんだ』ってことを、認識できないから……」%K%P
+Kid「It wouldn't seem like they were calling out to ME...」%K%P
+0x7A0
+優「そんなわがままなこと言ったって、ダメだよ」%K%P
+You「Well, even if that's what you think, that's just too bad.」%K%P
+0x7AC
+優「きみは、これから死ぬまで『ホクト』っていう名前を背負って、生きて行かなきゃいけないんだから」%K%P
+You「Your name is 'Hokuto' until you die, and you're just going to have to live with that.」%K%P
+0x7B8
+少年「でも……」%K%P
+Kid「But...」%K%P
+0x7C4
+少年「少なくともここにいるみんなにだけは『ホクト』って呼んで欲しくないんだ」%K%P
+Kid「If nothing else, I don't want you guys here to call me 'Hokuto'.」%K%P
+0x7D0
+少年「ぼくはもう『少年』って呼ばれることに慣れちゃったし、みんなだって『少年』って呼ぶことに慣れちゃってるでしょ？」%K%P
+Kid「I'm used to being called 'Kid', and you guys are used to it too, right?」%K%P
+0x7DC
+少年「そう簡単には、変えられないよ」%K%P
+Kid「You can't just switch in the middle like that.」%K%P
+0x7E8
+優「まあ、確かにそれもそうだけど……」%K%P
+You「Well, I suppose, but still...」%K%P
+0x7F4
+優「じゃあ、本当に『少年』のままで、いいのね？」%K%P
+You「You really want to stay 'Kid'?」%K%P
+0x800
+少年「うん、いい」%K%P
+Kid「Yeah, that's fine.」%K%P
+0x80C
+ぼくは断言した。%K%P
+I told her how I felt.%K%P
+0x818
+優「そんなに『ホクト』っていう名前、嫌いなの？」%K%P
+You「You really hate 'Hokuto' that much?」%K%P
+0x824
+少年「だからぁ！　何度も言うようだけど……」%K%P
+Kid「Listen! For the millionth time...」%K%P
+0x830
+少年「ぼくはただ『ホクト』っていうのが自分の名前だとは、思えないだけなんだ」%K%P
+Kid「I just don't think that 'Hokuto' is MY name...」%K%P
+0x83C
+少年「好きとか嫌いとかは関係無いんだって」%K%P
+Kid「It's got nothing to do with liking or disliking the name.」%K%P
+0x848
+優「ふ〜ん……」%K%P
+You「Reeeally...」%K%P
+0x854
+少年「それから、これはリンリンとランランの話をしたときにも言ったけど……」%K%P
+Kid「Look, I said this when we were talking about Ling Ling and Lang Lang, but...」%K%P
+0x860
+少年「ぼくは本名なんて、どうでもいいと思ってるんだよ」%K%P
+Kid「I really don't care what my name is.」%K%P
+0x86C
+少年「特に自分の名前にコダワリを持ってるわけでもないし、愛着もないし、未練もない」%K%P
+Kid「I'm not fussy, and I'm certainly not attached to it.」%K%P
+0x878
+優「だけど、どうでもいいってことはないと思うよ？」%K%P
+You「But you can't NOT care at all.」%K%P
+0x884
+優「好き嫌いは別として、名前っていうのは、一応その人の看板なわけだから」%K%P
+You「Whether you like it or not, a name is like a billboard for who you are.」%K%P
+0x890
+優「この社会で生きている以上、いつかは必ず、名前を必要とするときが訪れるの」%K%P
+You「If you're going to live in a society, you'll need a name eventually.」%K%P
+0x89C
+優「例えば、契約を交わすときとか、申請を出すときとか、試験のときとか、オマワリにパクられたときとか……」%K%P
+You「I mean, any time that you make a contract, or apply for something, take an exam, or get arrested...」%K%P
+0x8A8
+優「なんだかんだ言っても、本人かどうかを確認するときには、名前ってものが一番重要視されるんだよ」%K%P
+You「Whatever you say, your name is the most important way to verify who you are.」%K%P
+0x8B4
+優「言わば名前は、人間を識別する為の記号みたいなものね」%K%P
+You「Names are like ID numbers for people.」%K%P
+0x8C0
+少年「識別、かぁ……」%K%P
+Kid「Identification...」%K%P
+0x8DC
+ぼくはポツリと言葉を吐いた。%K%P
+The word just slipped out.%K%P
+0x8E8
+その直後のことだった！%K%P
+And then!%K%P
+0x8FC
+優「えっ！？　今、なんて言った！？」%K%P
+You「What!? What'd you just say!?」%K%P
+0x908
+優がぼくの後頭部をグッとつかみ、顔を引き寄せた。%K%P
+You grabbed the back of my head and pulled my face toward hers.%K%P
+0x914
+少年「な、な、な、なに……？」%K%P
+Kid「Wha-wha-wha-what...?」%K%P
+0x920
+優「今よ、今！　今今今！　今少年、なんて言ったのよ！」%K%P
+You「Just then! Just now! Now, now, now! Kid, what did you just say!?」%K%P
+0x92C
+少年「ぼ、ぼくが、言ったんじゃ、ないよ……」%K%P
+Kid「I didn't say anything...」%K%P
+0x938
+少年「ぼくはただ、優の言葉を、繰り返した、だけで……」%K%P
+Kid「I just repeated back what you were saying...」%K%P
+0x944
+優は威圧的な眼差しで、ぼくのことをにらみつけていた。%K%P
+You leveled a determined glare at me.%K%P
+0x950
+片手のヒトサシ指を立て、魔法使いの杖のようにくるくるとまわす。%K%P
+She raised her finger and twirled it like a magic wand.%K%P
+0x95C
+鼻から息を吸い込んだ。%K%P
+She breathed in through her nose.%K%P
+0x968
+吐き出すのかと思いきや、さらにさらに吸い続けた。%K%P
+I thought she was going to exhale, but she continued to take one long breath in.%K%P
+0x974
+ぼくは、両手で耳を塞いだ。%K%P
+I covered my ears.%K%P
+0x980
+耳を塞いだぼくの手を、優が強引に引き剥がす。%K%P
+She grabbed my hands and pulled them away from my ears.%K%P
+0x98C
+そして……。%K%P
+And then...%K%P
+0x998
+肺にため込んだ空気を大きく吐きながら、優はぼくの耳元でささやいた。%K%P
+With all the air she had just sucked in, she let loose right next to me.%K%P
+0x9C8
+優「わかっちゃった」%K%P
+You「I've GOT it!」%K%P
+0x9D4
+ニヤリ――優の口元がゆるむ。%K%P
+She grinned loosely.%K%P
+0x9E0
+少年「？？？」%K%P
+Kid「?」%K%P
+0x9EC
+ぼくはまばたきを繰り返すばかり……。%K%P
+I just kept blinking at her.%K%P
+0x9F8
+すると……。%K%P
+And then...%K%P
+0xA04
+優「ワカチャタデェ〜ス♪　ワカチャタデェ〜ス♪　ワタシ、ワカチャタデェ〜ス♪」%K%P
+You「I gawt it, I gawt it, I got it got it got it〜」%K%P
+0xA10
+優「Ｉ⑳ｓｅｅ，Ｉ⑳ｓｅｅ，アイスィテルゥ〜♪　ちゅっ♪」%K%P
+You「<I see, I see>, I sincerely LOVE you! Smooooch〜」%K%P
+0xA1C
+突然急性突発的に――優はぼくの頬にくちづけをした。%K%P
+Suddenly, out of the blue and with no warning―she kissed my cheek.%K%P
+0xA28
+悩恍な一撃……。%K%P
+A perfect hit.%K%P
+0xA34
+くらくらとめまいが……する……。%K%P
+I was a little... giddy...%K%P
+0xA40
+優「ほらぁ〜、早く早くぅ〜、早く、聞いて？」%K%P
+You「Well, hurry up, ask me!」%K%P
+0xA4C
+少年「……にゃ？」%K%P
+Kid「...Ask?」%K%P
+0xA58
+優「『ねえねえ、何がわかったの？』って……聞いて？」%K%P
+You「Come on, ask me, 'Hey, You, what did you figure out?'」%K%P
+0xA64
+ぼくは言われた通りのことを聞いてあげた。%K%P
+I did as I was told.%K%P
+0xA70
+少年「ネエネエ、ナニガ、ワカッタノ？」%K%P
+Kid「Hey, You, what did you figure out?」%K%P
+0xA7C
+優「おおっ！　よくぞ聞いてくれました、少年！」%K%P
+You「Funny you should ask, Kid!」%K%P
+0xA88
+優「実は――どうしてレミの認証をクリアできなかったのか？――その本当の原因が、わかったのであります！」%K%P
+You「You see, you know the reason we couldn't get past the confirmation on LeMMIH? I figured it out!」%K%P
+0xA94
+少年「？」%K%P
+Kid「?」%K%P
+0xAA0
+優「私達、今までずーっとパスワードが間違ってるって思ってたじゃない？」%K%P
+You「All this time, we thought we had the password wrong. Right?」%K%P
+0xAAC
+優「でも、そうじゃなかったの」%K%P
+You「But that wasn't it.」%K%P
+0xAB8
+優「パスワードは、たぶんあれでいいんだと思う」%K%P
+You「The password is probably fine.」%K%P
+0xAC4
+優「『海月の虚空に秋涼し時鳥』」%K%P
+You「The empty fall sky」%K%P
+0xAD0
+少年「えっ？　どういうこと？」%K%P
+Kid「Huh? What do you mean?」%K%P
+0xADC
+優「だからぁ、ぶっちゃけ、こういうこと」%K%P
+You「So, it's gotta be this...」%K%P
+0xAE8
+優「間違ってたのは、パスワードじゃなくて……『名前』だったのよ」%K%P
+You「It wasn't the password we had wrong... it was the username.」%K%P
+0xAF4
+少年「名前？」%K%P
+Kid「Username?」%K%P
+0xB00
+優「そう、名前」%K%P
+You「Yup.」%K%P
+0xB0C
+優「名前は、人間を識別する為の記号……本人かどうかを確認するときに、一番重要視されるもの……」%K%P
+You「A name is like an identification number for a person... It's what confirms who you are...」%K%P
+0xB18
+優「つまり、名前が間違ってたら、いくらパスワードが正しくっても認証は下りないってこと」%K%P
+You「So, if we had the name wrong, it wouldn't matter how perfectly we put the password in.」%K%P
+0xB24
+『アクセス不可／名前またはパスワードが違います』%K%P
+'Access denied. Invalid name or password.'%K%P
+0xB30
+何度となく目にしてきたエラーメッセージが、ぼくの頭の中に蘇った。%K%P
+I had seen that message umpteen times.%K%P
+0xB3C
+優「少年が言ったように、もしも私の知ってるお母さんが、本当のお母さんじゃないとしたら……」%K%P
+You「If you were right, and the mother I know isn't really my mother...」%K%P
+0xB48
+優「彼女の本名は『田中ゆきえ』ではないってことになる」%K%P
+You「It means her real name isn't 'Tanaka Yukie'.」%K%P
+0xB54
+優「ということは……？」%K%P
+You「Which would mean...?」%K%P
+0xB60
+少年「彼女の本当の名前さえわかれば、認証をクリアできる、のかな？」%K%P
+Kid「If you just knew her real name, you could clear LeMMIH's confirmation?」%K%P
+0xB6C
+優「正解！」%K%P
+You「Exactly!」%K%P
+0xB78
+優はぼくのおでこをポンと叩いた。%K%P
+You tapped my forehead.%K%P
+0xB84
+少年「けど……どうやって本当の名前を？」%K%P
+Kid「But... how will you figure out her real name?」%K%P
+0xB90
+優「それは……」%K%P
+You「Well...」%K%P
+0xB9C
+優「……空に聞いてみれば、わかるでしょ？」%K%P
+You「Sora ought to know, right?」%K%P
+0xBA8
+『空に？』と問い返す間もなく、優はぼくの腕をぐいっとつかんだ。%K%P
+Before I could say, 'Sora?', You had grabbed my arms.%K%P
+0xBB4
+つかんだかと思うと、いきなり……%K%P
+A second later...%K%P
+0xBC0
+優「とうっ！」%K%P
+You「Aaaaiii!」%K%P
+0xBCC
+ひと声発し、遺跡の上から飛び降りた。%K%P
+She jumped down off the ruins with a great cry.%K%P
+0xBF8
+腕を引っぱられたぼくの体が、無様なカッコウで、宙を、舞う。%K%P
+Pulled off balance, I flew clumsily through the air.%K%P
+0xC40
+――バッシャ〜ンッ！%K%P
+―Bam!%K%P
+0xC4C
+危うく頭から落ちそうになったが、猫のように体をひるがえし、無事に着地。%K%P
+I nearly toppled onto my head but managed to right myself like a cat and landed safely.%K%P
+0xC58
+自分の反射神経の鋭さに、思わず感動を覚える。%K%P
+My own excellent reflexes impressed me.%K%P
+0xC64
+一方、隣の優は……。%K%P
+As for You...%K%P
+0xC70
+水たまりの上に、腹ばいになって倒れていた。大の字だった。%K%P
+She was sprawled on her belly in a puddle, arms and legs spread awkwardly.%K%P
+0xC7C
+少年「ゆ、優！　大丈夫？」%K%P
+Kid「You? You! You okay?」%K%P
+0xC88
+ぼくが声をかけると、優はむくっと起き上がった。%K%P
+When I called her name, You hopped up.%K%P
+0xC9C
+髪の毛の先端からちょろちょろと水が流れ落ちている。%K%P
+Water dripped from her hair.%K%P
+0xCA8
+全身、水まみれだ。%K%P
+She was soaked from head to toe.%K%P
+0xCB4
+優「さっ、ぐずぐずしてないで、早く行くよ！」%K%P
+You「Well, don't just stand there, let's go!」%K%P
+0xCC0
+優は平然と言った。%K%P
+She spoke calmly.%K%P
+0xCFC
+水をはねあげながら、出口に向かって走り出す。%K%P
+Flinging off water, she headed toward the exit.%K%P
+0xD08
+その後ろ姿は、乾いたままだった。%K%P
+From the back, she looked completely dry.%K%P
+0xD40
+………………。%K%P
+.........%K%P
+0xD4C
+…………。%K%P
+......%K%P
+0xD58
+……。%K%P
+...%K%P
+0xD64
+ぼくはひとり、レムリア遺跡の門前にたたずみ、考えていた。%K%P
+I stood for a minute in front of the gates of the Lemurian Ruins, just thinking.%K%P
+0xD70
+優「少年が言ったように、もしも私の知ってるお母さんが、本当のお母さんじゃないとしたら……」%K%P
+You「If you were right, and the mother I know isn't really my mother...」%K%P
+0xD7C
+優「彼女の本名は『田中ゆきえ』ではないってことになる」%K%P
+You「It means her real name isn't 'Tanaka Yukie'.」%K%P
+0xD88
+じゃあ、その人の本名は……？%K%P
+So what was her name then...?%K%P
+0xD94
+名前……名前……名前……。%K%P
+Name... Name... Name...%K%P
+0xDA0
+優の本当の名前は――優美清秋香菜――。%K%P
+You's real name was Yubiseiakikana...%K%P
+0xDC8
+少年「……秋？」%K%P
+Kid「...Aki?」%K%P
+0xDD4
+秋……秋……秋……。%K%P
+Aki... Autumn... Autumn...%K%P
+0xDE0
+『海月の虚空に秋涼し時鳥』%K%P
+'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.%K%P
+0xDEC
+海……月……虚……空……秋……涼……時……鳥……。%K%P
+I broke it down by character. Empty... Fall... Sky... Single... Cuckoo... Calling... Brings... Chill...%K%P
+0xDF8
+脈絡なく飛び交う思考の断片。%K%P
+A jumble of bits and illogical fragments.%K%P
+0xE04
+そのひとつを捕まえてみようとするのだが、断片はたちまち消えてしまう。%K%P
+I tried to form them into a coherent pattern, but they slipped away.%K%P
+0xE10
+手ごたえはない。%K%P
+I couldn't grasp them.%K%P
+0xE1C
+けれど、なにか予感めいたものを感じずにはいられなかった。%K%P
+But I couldn't help but feel that I had brushed up against another premonition, or at least an intuition...%K%P
+0xE28
+――俳句――１７文字の言葉――。%K%P
+It was a haiku. Seventeen syllables.%K%P
+0xE34
+口に出して呟いてみる。%K%P
+I muttered it out loud.%K%P
+0xE40
+少年「海月の虚空に秋涼し時鳥」%K%P
+Kid「The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.」%K%P
+0xE4C
+少年「うみつきの、こくうにすずし、ほととぎす」%K%P
+Kid「The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.」%K%P
+0xE58
+と、そのときだった……。%K%P
+It was then...%K%P
+0xE64
+遺跡の入り口――その闇の向こうに、誰かが立っていた。%K%P
+Someone was standing in the darkness beyond the entrance to the ruins.%K%P
+0xE70
+人影……。%K%P
+A human figure...%K%P
+0xE7C
+女の子……だ……。%K%P
+A female...%K%P
+0xE88
+彼女の体は発熱し、赤よりも赤い光をほのかに放っていた。%K%P
+Her body was giving off heat, glowing redder than red.%K%P
+0xE94
+顔は見えない。%K%P
+I couldn't see her face.%K%P
+0xEA0
+ただそこに、いることだけがわかる。%K%P
+I could just see that she was there.%K%P
+0xEAC
+彼女は闇の中で息をひそめ、じっとぼくのことを見つめていた。%K%P
+She was holding her breath in the darkness, staring at me.%K%P
+0xEB8
+少年「だ、だれ！？　だれなの！？」%K%P
+Kid「Wh-who are you!?」%K%P
+0xEC4
+彼女は答えない。%K%P
+She didn't answer.%K%P
+0xED0
+近づいて来る様子もなければ、逃げる気配もなかった。%K%P
+She didn't come any closer, but she didn't seem like she was going to run.%K%P
+0xEDC
+ぼうっと光に包まれた彼女の姿は幻のようにも見える。%K%P
+The figure bathed in light looked like she might be a ghost.%K%P
+0xEE8
+幻……。%K%P
+A ghost...%K%P
+0xEF4
+幻の、少女……。%K%P
+A phantom girl...%K%P
+0xF00
+？？「ホクト……」%K%P
+???「Hokuto...」%K%P
+0xF0C
+小さな声が聞こえた。%K%P
+I heard a tiny voice.%K%P
+0xF18
+『ホクト』……ぼくの、名前……。%K%P
+'Hokuto'... My name...%K%P
+0xF24
+彼女はぼくのことを、呼んでいるのか……？%K%P
+Was she calling to me...?%K%P
+0xF30
+？？「ホクト……」%K%P
+???「Hokuto...」%K%P
+0xF3C
+ぼくは恐る恐る近づいていった。%K%P
+Fearfully, I went a little closer.%K%P
+0xF48
+闇が深くなる。%K%P
+The darkness grew deeper.%K%P
+0xF54
+彼女の放つ光が鮮やかさを増して行く。%K%P
+And at the same time, the light she gave off grew more brilliant.%K%P
+0xF60
+輪郭が、くっきりと浮かび上がった。%K%P
+Her outline sprang into view.%K%P
+0xF6C
+間違いない……。%K%P
+It had to be...%K%P
+0xF78
+彼女は……彼女は……あのときに見た……幻の……。%K%P
+She... She was... the ghost... I had seen...%K%P
+0xF84
+？？「ホクトのこすうみ、すぎしときに、つうず」%K%P
+???「The empty fall sky%NA lone Hokuto calls out%NBrings a chill to me.」%K%P
+0x10A4
+ココ「うみつきの、こくうにすずし、ほととぎす」%K%P
+Coco「The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.」%K%P
+0x10B0
+武「……は？」%K%P
+Takeshi「...Huh?」%K%P
+0x10C4
+ココ「ん？」%K%P
+Coco「Hm?」%K%P
+0x10D0
+武「今、何て言ったんだ？」%K%P
+Takeshi「What did you just say?」%K%P
+0x10DC
+ココ「『海月の虚空に秋涼し時鳥』って、言ったんだよ？」%K%P
+Coco「The empty fall sky%NA single cuckoo calls out%NBrings a chill to me?」%K%P
+0x10E8
+武「なんだよ、それ……」%K%P
+Takeshi「What is that...?」%K%P
+0x10F4
+武「俳句か？」%K%P
+Takeshi「Is that some haiku?」%K%P
+0x1100
+ココ「うん」%K%P
+Coco「Yeah.」%K%P
+0x110C
+武「どうして突然、俳句なんか……」%K%P
+Takeshi「Why a haiku all of a sudden...?」%K%P
+0x1120
+ココ「風流、でしょ？」%K%P
+Coco「Don't you think it's elegant?」%K%P
+0x112C
+武「フウリュウ〜？」%K%P
+Takeshi「Elegant?」%K%P
+0x1138
+ココ「みやびやか、でしょ？」%K%P
+Coco「Refined, isn't it?」%K%P
+0x1144
+武「ミヤビヤカ〜？」%K%P
+Takeshi「Refined?」%K%P
+0x1158
+ココ「大昔の日本人は、突然、俳句とか詠んじゃってみたりなんかしたらしいですよ？」%K%P
+Coco「Japanese people a long time ago just started making up haiku one day.」%K%P
+0x1164
+ココ「ほいでもってですなぁ……」%K%P
+Coco「So you see...」%K%P
+0x1178
+ココ「一句詠むことによって、世俗的な日常をしばし忘れ、優雅な気分に浸ってたらしいですよ？」%K%P
+Coco「The haiku helped them to forget their everyday worries and gave them lots of graceful and happy, happy feelings.」%K%P
+0x1184
+武「ほう……そうなんですかぁ……」%K%P
+Takeshi「Oho... Is that so...?」%K%P
+0x1190
+ココ「そうなんですよぉ」%K%P
+Coco「Oho, yes it is.」%K%P
+0x119C
+武「でもなぁ、ココ……今は大昔じゃないんだし……」%K%P
+Takeshi「But listen, Coco... It's not once upon a time right now, and...」%K%P
+0x11A8
+武「いきなり一句詠まれたりすると、お兄さんはビックリしてしまうんだよ」%K%P
+Takeshi「You kind of threw me off guard with your haiku-making there.」%K%P
+0x11BC
+ココ「でも、しょーがないじゃん」%K%P
+Coco「Well I can't help it.」%K%P
+0x11C8
+武「何がしょーがないのかな？」%K%P
+Takeshi「What do you mean you can't help it?」%K%P
+0x11D4
+ココ「ココ、たけぴょんとお話ししてたんじゃ、ないんだもん」%K%P
+Coco「I wasn't talking to you.」%K%P
+0x11E0
+武「えっ？」%K%P
+Takeshi「What?」%K%P
+0x11EC
+ココ「ココはねぇ、今、異次元の生命体と、お話ししてたの」%K%P
+Coco「I was talking to a life form from another dimension.」%K%P
+0x11F8
+武「イ、イジゲン！？」%K%P
+Takeshi「A-another dimension!?」%K%P
+0x120C
+ココ「そうだよ？」%K%P
+Coco「Well, yeah?」%K%P
+0x1218
+ココはまたしても、マイクロウェーブを放射し始めたようだ。%K%P
+Apparently, Coco was radiating microwaves.%K%P
+0x1224
+ああ、脳が揺れる……脳が揺れる……。%K%P
+Oh, my head... My head...%K%P
+0x1230
+鼻から脳ミソがたれてきた……。%K%P
+I could feel my brain start to melt and come out of my nose...%K%P
+0x123C
+――なに！？　――そんなわけがない！%K%P
+―What!? Wait a minute!%K%P
+0x1248
+鼻から脳ミソなんてたれるものか！%K%P
+My brain couldn't be coming out of my nose!%K%P
+0x1254
+俺は指の背中で、鼻をこすってみた。%K%P
+I rubbed my nose with my finger.%K%P
+0x1260
+ドロドロと粘り気のある物質が付着していた。黄色だった。%K%P
+Something sticky and viscous was stuck to my finger. It was bright yellow.%K%P
+0x126C
+武「ひ、ひやぁ〜〜〜っ！」%K%P
+Takeshi「Craaaaaaaaaaaap!」%K%P
+0x1278
+武「どうしよ、どうしよ、どうしよ、脳が、脳が、脳が出て来ちゃったよぉ〜〜〜っ！」%K%P
+Takeshi「Crap, crap, my brain, my brain, my brain is meltiiiing!」%K%P
+0x128C
+ココ「きゃはははははははは♪」%K%P
+Coco「Kyahahahaha〜」%K%P
+0x1298
+武「ばかぁ〜〜〜っ、笑いごとじゃ、ないんだよぉ〜〜〜っ！」%K%P
+Takeshi「Shut up, it's not funny, stupiiid!」%K%P
+0x12A4
+武「お前のせいで、お前のせいで、俺の脳が、俺の脳が〜〜〜っ！」%K%P
+Takeshi「It's your fault, it's your fault, that my brain, my brain...」%K%P
+0x12B0
+ココ「にゃはははははははは♪」%K%P
+Coco「Neeeeheeeheeee!」%K%P
+0x12BC
+ココは腹を抱え、足をバシャバシャと踏み鳴らして爆笑していた。%K%P
+Coco was stamping her feet, grabbing her belly, and laughing uproariously.%K%P
+0x12C8
+（あっ……そう言えば……）%K%P
+(Hey... Actually...)%K%P
+0x1308
+それは、今をさかのぼること３０分前。%K%P
+It had all happened 30 minutes earlier.%K%P
+0x1314
+ココ「ねえ〜、たけぴょん、たけぴょ〜ん」%K%P
+Coco「Hey, Takepyon, Takepyon〜」%K%P
+0x1320
+ココ「起きてよぉ〜」%K%P
+Coco「Wake up〜」%K%P
+0x132C
+ココ「眠れないんだよぉ〜」%K%P
+Coco「I can't go to sleep〜」%K%P
+0x1338
+ココ「一緒に遊ぼうよぉ〜」%K%P
+Coco「Come play with me〜」%K%P
+0x1344
+そんなことを言いながら……%K%P
+While saying that...%K%P
+0x1350
+ココは俺の体を激しく揺すったり、まぶたをつまみあげて『人魚の涙』をたらしたり、鼻の穴の中にマスタードを注入したりした。%K%P
+She was shaking me, grasping my eyelids, and dropping in 'mermaid tears', as well as squirting mustard up my nose.%K%P
+0x135C
+その執拗なまでの攻撃に負けて、俺はしぶしぶココに付き合ってやることにしたのだった。%K%P
+Giving in to her dogged persistence, I reluctantly decided to keep her company.%K%P
+0x1394
+ということはつまり……これは脳ミソではなく……。%K%P
+Which meant... it wasn't brain soup...%K%P
+0x13A0
+武「マスタード、だ」%K%P
+Takeshi「It's mustard.」%K%P
+0x13C8
+ココ「わひゃひゃひゃひゃひゃひゃひゃひゃ♪」%K%P
+Coco「Bwaahaaahyahyahyahya〜」%K%P
+0x13D4
+ココはためらいもせず、水たまりの上に寝転がった。%K%P
+Coco toppled over, right into a puddle.%K%P
+0x13E0
+ジャバジャバと水しぶきをあげながら、笑い転げている。%K%P
+Splashing the water around, she kept laughing and rolling back and forth.%K%P
+0x13EC
+武「ち、ちきしょーっ！」%K%P
+Takeshi「Damn it!」%K%P
+0x13F8
+武「ココ、ティッシュ持ってないか？」%K%P
+Takeshi「Coco, don't you have a tissue?」%K%P
+0x140C
+ココ「ハ、ハ、ハ、ハンカチなら、あるよぉ♪」%K%P
+Coco「I have a ha-ha-ha-handkerchief!」%K%P
+0x1418
+言いながら、ココはポケットから１枚のハンカチをつまみ出し、フラフラと揺らした。%K%P
+She pulled a handkerchief out of her pocket and fluttered it at me.%K%P
+0x1424
+ハンカチは濡れまくっていて、しずくがポタポタとしたたっている。%K%P
+The handkerchief was soaked, and drops of water dripped from it.%K%P
+0x1438
+俺はそれを受け取り、思い切り鼻をかんだ。%K%P
+I blew my nose into it mightily.%K%P
+0x1444
+中のものをすべて出し切るまで、何度もかみ続けた。%K%P
+I blew until I blew out everything there was to blow.%K%P
+0x1450
+武「ふぃ〜っと、スッキリした」%K%P
+Takeshi「Whew, that's better.」%K%P
+0x145C
+ハンカチをぐちゃぐちゃに丸め、ココに返す。%K%P
+I balled it up and gave it back to Coco.%K%P
+0x1468
+ココはそれを丁寧にたたみ、ポケットにしまった。%K%P
+She carefully folded it up and put it back in her pocket.%K%P
+0x1474
+『しまうのかっ！』――と俺は思ったが言わなかった。%K%P
+I thought―'You're actually putting that back!?'―but held my tongue.%K%P
+0x1480
+武「……で？　……なんの話だっけ？」%K%P
+Takeshi「...So...? What were we talking about?」%K%P
+0x1494
+ココ「イモムシくにゃくにゃの話だよ？」%K%P
+Coco「About caterpillar crawling, crawling.」%K%P
+0x14A0
+武「そんな話はしとらん！」%K%P
+Takeshi「No we weren't!」%K%P
+0x14B4
+ココ「イモムシ、イモムシ、くんにゃ、くんにゃ♪」%K%P
+Coco「Caterpillar, caterpillar, crawly crawly caterpillar〜」%K%P
+0x14C0
+ココ「イモムシ、イモムシ、ぷっぷくぷぅー♪」%K%P
+Coco「Caterpillar, caterpillar, boop boop de boop〜」%K%P
+0x14CC
+ココは床の上に寝そべって、イモムシ的な動きを開始した。%K%P
+Coco began crawling along the floor flat on her belly.%K%P
+0x14D8
+もはや、何も言うまい……。%K%P
+I didn't say a word...%K%P
+0x14EC
+ココ「ねえねえ、たけぴょん、たけぴょん！」%K%P
+Coco「Hey Takepyon, Takepyon!」%K%P
+0x14F8
+武「イモムシごっこだったら、やらないからな！」%K%P
+Takeshi「I'm not playing caterpillar with you!」%K%P
+0x150C
+ココ「えーっ！　どうしてーっ！」%K%P
+Coco「What!? Why not!?」%K%P
+0x1518
+武「どうしてもだ」%K%P
+Takeshi「I'm just not.」%K%P
+0x1548
+ココ「ヤダヤダヤダヤダァーッ！」%K%P
+Coco「No no no no no no!」%K%P
+0x1554
+ココ「イモムゥ〜したい、イモムゥ〜したい、イモムゥ〜したいーっ！」%K%P
+Coco「I wanna crawly, I wanna crawlypillar!」%K%P
+0x1560
+ココは水の上をのたうちまわっている。%K%P
+Coco splashed at the water.%K%P
+0x156C
+（これじゃあ昨夜とやってることが同じじゃないか……）%K%P
+(I went through this last night...)%K%P
+0x1578
+『だが、今日こそは同じ過ちは犯すまい』――俺は胸にかたく誓ったのだった。%K%P
+'There's NO way I'm making the same mistake today'―I swore that to myself.%K%P
+0x1584
+武「俺、もう寝る」%K%P
+Takeshi「I'm going to bed.」%K%P
+0x1598
+ココ「ええっ！？」%K%P
+Coco「Whaaat!?」%K%P
+0x15A4
+ココが跳び起きた。%K%P
+She jumped up.%K%P
+0x15B0
+ずぶ濡れの体で俺にすがりつく。%K%P
+And clung to me, sopping wet.%K%P
+0x15BC
+ココ「ダメッ！　絶対寝かせないからっ！」%K%P
+Coco「No! I won't let you sleep!」%K%P
+0x15C8
+武「ココが寝かそうと寝かすまいと寝るものは寝るのだ」%K%P
+Takeshi「Coco, I'm sleeping whether you let me or not.」%K%P
+0x15DC
+ココ「なんでそうやって、いぢめるんだよぉ……」%K%P
+Coco「Why are you being so mean...?」%K%P
+0x15E8
+武「どちらかと言えば、いぢめてるのはココの方だろ」%K%P
+Takeshi「You're the one being mean, Coco.」%K%P
+0x15F4
+ココ「ううっ……うううぅぅっ……」%K%P
+Coco「Oo... Oooo...」%K%P
+0x1608
+ココ「たけぴょんは……たけぴょんは……ココを置き去りにしても、平気なの……？」%K%P
+Coco「Takepyon... Takepyon... is just gonna abandon poor little Coco?」%K%P
+0x1614
+ココ「ココ、ひとりぼっちに、なっちゃうんだよ……？」%K%P
+Coco「I'll be all alone...」%K%P
+0x1620
+ココ「寂しいよぉ……寂しいよぉ……」%K%P
+Coco「Lonely... So lonely...」%K%P
+0x162C
+武「どうしてそうなるんだよ……」%K%P
+Takeshi「Why are you being like this...?」%K%P
+0x1638
+武「ココも一緒に寝ればいいじゃないかぁ」%K%P
+Takeshi「Why don't you come sleep too?」%K%P
+0x164C
+ココ「一緒、に……？」%K%P
+Coco「With you...?」%K%P
+0x1658
+ココ「たけぴょん、ココと添い寝してくれるの？」%K%P
+Coco「You'll come snuggle with me?」%K%P
+0x1664
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1670
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x167C
+武「……………………」%K%P
+Takeshi「..................」%K%P
+0x1688
+ココ「……………………」%K%P
+Coco「..................」%K%P
+0x1694
+武「添い寝は、さすがにできないが……」%K%P
+Takeshi「I don't think so.」%K%P
+0x16A8
+ココ「ほいじゃあさぁ、ほいじゃあさぁ、子守歌、唄ってくれる？」%K%P
+Coco「Well, well, will you at least sing me a lullaby?」%K%P
+0x16B4
+武「子守歌？」%K%P
+Takeshi「A lullaby?」%K%P
+0x16C0
+武「ってあのぉ……前にココが、唄ってたやつか？」%K%P
+Takeshi「Oh, you mean... that one you sang before?」%K%P
+0x16D4
+ココ「うん♪」%K%P
+Coco「Yup〜」%K%P
+0x16E0
+武「まあ、唄ってやることは、全然かまわないんだけど……」%K%P
+Takeshi「Well, I don't mind singing, but...」%K%P
+0x16EC
+武「でも俺、歌詞も曲も、覚えてないからなぁ」%K%P
+Takeshi「I don't remember the words or the tune.」%K%P
+0x1700
+ココ「大丈夫だよ」%K%P
+Coco「That's okay.」%K%P
+0x170C
+ココ「簡単だから、すぐに覚えられるはず」%K%P
+Coco「It's easy, you'll learn it right away.」%K%P
+0x1728
+そんなことを言うなり……%K%P
+With that said...%K%P
+0x1734
+ココは何の前ふりもせず、唐突に子守歌を唄い始めた。%K%P
+She burst into song abruptly.%K%P
+0x1748
+ココ「長弓背負いし……月の精……」%K%P
+Coco「Moon sprite... shouldering a long bow...」%K%P
+0x1754
+ココ「夢の中より……待ちをりぬ……」%K%P
+Coco「Waiting... inside a dream...」%K%P
+0x177C
+ココ「今宵やなぐゐ……月夜見囃子……」%K%P
+Coco「Tonight... a story by moonlight...」%K%P
+0x1788
+ココ「早く来んかと……待ちをりぬ……」%K%P
+Coco「Hoping the wait... will be short...」%K%P
+0x1794
+ココ「眠りたまふ……ぬくと丸みて……」%K%P
+Coco「Sleeping... curled and snug...」%K%P
+0x17A0
+ココ「眠りたまふ……母に抱かれて……」%K%P
+Coco「Sleeping... in mother's arms...」%K%P
+0x17AC
+ココ「真櫂掲げし……水の精……」%K%P
+Coco「Water sprite... lifting a pair of paddles...」%K%P
+0x17B8
+ココ「夢の中より……待ちをりぬ……」%K%P
+Coco「Waiting... inside a dream...」%K%P
+0x17C4
+ココ「今宵とりふね……うずまき鬼……」%K%P
+Coco「Tonight, the whirlpool demon... waiting for a boat...」%K%P
+0x17D0
+ココ「早く来んかと……待ちをりぬ……」%K%P
+Coco「Hoping the wait... will be short...」%K%P
+0x17DC
+ココ「眠りたまふ……ゆるゆる揺られ……」%K%P
+Coco「Rock, rock, rocked... to sleep...」%K%P
+0x17E8
+ココ「眠りたまふ……海に抱かれて……」%K%P
+Coco「Sleeping, sleeping... held by the ocean...」%K%P
+0x1804
+どうしてだろう……。%K%P
+What was it...?%K%P
+0x1810
+ココの子守歌を聴いたとたん、不思議な安らぎを覚えた。%K%P
+As soon as I heard Coco's lullaby, I felt a wondrous tranquility.%K%P
+0x181C
+胸の中に、ふっと息を吹きかけられたようで、少しくすぐったい気がする。%K%P
+I felt a tickle in my chest, like someone had blown lightly on me.%K%P
+0x1828
+その風は、胸の底に降り積もった垢や埃を吹き飛ばし、とっくの昔になくしてしまったと思っていた大切なものをあらわにした。%K%P
+That breath blew away all the dust and dirt that had built up inside me, and it revealed precious feelings I had thought lost long ago.%K%P
+0x1834
+『大切なもの』――それは幼い頃に見た空の広さだったり、あおい稲穂の波だったり、夕立の後の匂いだったり……。%K%P
+Precious wonder... like the vastness of the sky, as it seemed to me when I was a little child, or the deep blue waves, or the fragrance at twilight...%K%P
+0x1840
+あの頃は、海はどこまでも続いているのだと信じていた。月の美しさに目を奪われたこともあった。%K%P
+Back then, I thought the ocean went on forever, and I was transfixed by the perfect beauty of the moon.%K%P
+0x184C
+良くも悪くも、とろけるように甘い時代――。%K%P
+For better or for worse, a delightfully sweet time...%K%P
+0x1858
+ココの唄った子守歌は、なぜか感傷的な気分を呼び覚ますのだった。%K%P
+Coco's lullaby called up a sentimental mood in me.%K%P
+0x1864
+ぬくぬくとした甘ったるい匂いに、俺は不覚にも、溺れてしまった。%K%P
+Lost in its sweet fragrance, I made the mistake of drowning in it.%K%P
+0x1870
+武「いい歌だ……」%K%P
+Takeshi「What a good song...」%K%P
+0x187C
+ココ「えへっ♪」%K%P
+Coco「Ehe〜」%K%P
+0x1888
+武「なんて言う歌なんだ？」%K%P
+Takeshi「What's it called?」%K%P
+0x189C
+ココ「さあ〜？　題名とかまでは、聞いてないけど……」%K%P
+Coco「Who knows? I don't know its name...」%K%P
+0x18A8
+ココ「でもね？　ココは勝手に『月と海の子守歌』って、呼んでるんだ」%K%P
+Coco「But I just call it the Moon and Ocean Lullaby.」%K%P
+0x18B4
+武「月と、海？」%K%P
+Takeshi「Moon and ocean?」%K%P
+0x18C0
+武「だけど、出だしは確か『月と精』と『水の精』じゃなかったっけ？」%K%P
+Takeshi「But don't the verses start with 'moon sprite' and 'water sprite'?」%K%P
+0x18CC
+ココ「うん」%K%P
+Coco「Mm-hmmm.」%K%P
+0x18D8
+武「だったら『月と水の……』の方がいいんじゃないのか？」%K%P
+Takeshi「So shouldn't it be the Moon and Water Lullaby?」%K%P
+0x18E4
+ココ「ううん」%K%P
+Coco「Ummm...」%K%P
+0x18F0
+ココ「だって、２番の最後に『海に抱かれて』ってところがあるでしょ？」%K%P
+Coco「But at the end of the second verse, it says 'held by the ocean', right?」%K%P
+0x18FC
+武「ああ、そう言えば、そうだったかも……」%K%P
+Takeshi「Oh, that's true...」%K%P
+0x1908
+ココ「それにこれ……ママに教えてもらった子守歌だし……」%K%P
+Coco「And... my mommy taught me this lullaby...」%K%P
+0x1914
+ココ「だから……『月と海の子守歌』なの」%K%P
+Coco「So... it's called 'The Moon and Ocean Lullaby'.」%K%P
+0x1920
+武「えっ？？？」%K%P
+Takeshi「What?」%K%P
+0x192C
+『ココのママ』と『月と海』には、何か関係があるのだろうか？%K%P
+What was the connection between her mom and the moon and ocean?%K%P
+0x1938
+――ん！？%K%P
+―What!?%K%P
+0x1944
+ママ！？　月と、海！？%K%P
+Mommy!? Moon and sea!?%K%P
+0x1950
+ということは、もしかして……。%K%P
+Did that mean...%K%P
+0x195C
+武「もしかして、そのママって言うのは……」%K%P
+Takeshi「When you say mommy...」%K%P
+0x1968
+ココ「うん♪　つぐみんのことだよ♪」%K%P
+Coco「Right. Tsugumin.」%K%P
+0x1974
+ココ「つぐみんが……」%K%P
+Coco「Tsugumin...」%K%P

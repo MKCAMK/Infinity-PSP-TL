@@ -1,0 +1,1092 @@
+text area offset and size:
+0x1B88
+0x3FC2
+0xA8
+優とぼくは更衣室のベンチに、それぞれ反対向きになって座っている。%K%P
+You and I sat on the bench in the changing room, facing opposite directions.%K%P
+0xB4
+とうとう、優とふたりきりになってしまった。%K%P
+Finally, the two of us were alone.%K%P
+0xC0
+できるだけ、そういった状況は作りたくなかったのだが……。%K%P
+It was a situation I had been trying to avoid...%K%P
+0xCC
+昨日のくちびるの感触を思い出し、そわそわするぼく。%K%P
+I fidgeted as I thought of the touch of her lips the day before.%K%P
+0xD8
+しかしなぜ、こんなところに居続けているのか？%K%P
+I wondered why we had stayed there.%K%P
+0xE4
+それは優が、どこにも行こうとしないからであった。%K%P
+It was because You didn't try to go anywhere.%K%P
+0xF0
+沙羅にあんな風に言われたあと、ぼくだけ『じゃあ』と出て行くわけにはいかなかった。%K%P
+With what Sara had said, I couldn't just say 'See you' and leave.%K%P
+0xFC
+そんなことをしたら、昨日のことを意識しているのが悟られてしまいそうだった。%K%P
+If I did that, she'd be able to tell that I was still hung up on the day before.%K%P
+0x108
+ぼくは意識しないように心がけていた。%K%P
+I tried not to think about it.%K%P
+0x114
+だけど、意識しまいとすればするほど意識してしまう自分がいて、%K%P
+But the more I tried not to think about it, the more I did.%K%P
+0x120
+それを知っている自分は、意識していない素振りをしつつ、実は意識しているように振る舞おうとするのだが、そうすると本当に意識してしまう自分がいて、%K%P
+The part of me that knew all of that pretended I was unaware of it while acting like I was, but that just led to me actually being aware of it.%K%P
+0x12C
+だったらと、意識している素振りをしつつ、実は意識していないように振る舞おうとするのだが…………%K%P
+So I tried to pretend not to think about it as I was pretending to think about it...%K%P
+0x138
+――ん？？%K%P
+Huh?%K%P
+0x144
+おい、それじゃ、ちっとも意味がないじゃないかっ！%K%P
+Then I realized that it was all meaningless!%K%P
+0x150
+考えれば考えるほど、ぼくはますます混乱していった。%K%P
+The more I thought about it, the more confused I got.%K%P
+0x164
+優「…………」%K%P
+You「.........」%K%P
+0x170
+優はぼくの隣に腰を下ろしながら、じっと天井を見つめている。%K%P
+I sat down next to You and stared at the ceiling.%K%P
+0x17C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x188
+優「…………」%K%P
+You「.........」%K%P
+0x194
+少年「……………………」%K%P
+Kid「..................」%K%P
+0x1A0
+優「……………………」%K%P
+You「..................」%K%P
+0x1AC
+少年「…………………………………………」%K%P
+Kid「....................................」%K%P
+0x1B8
+優「…………………………………………」%K%P
+You「....................................」%K%P
+0x1C4
+（そ、そうだ……この沈黙がイケナイんだ）%K%P
+(Oh, that's right... This silence is bad.)%K%P
+0x1D0
+（何か、何か言葉を交わそう）%K%P
+(I better break it somehow.)%K%P
+0x1DC
+喋って気を紛らわすことで、平常心を取り戻そうと考えた。%K%P
+I thought I would try to say something and calm myself down.%K%P
+0x1E8
+少年「え、えー……」%K%P
+Kid「Uh... Um...」%K%P
+0x1F4
+少年「そ、その服似合ってるね？」%K%P
+Kid「Th-those clothes really suit you.」%K%P
+0x208
+優「は？」%K%P
+You「Huh?」%K%P
+0x214
+少年「い、いやっ、そのっ……なんで着替えたの？」%K%P
+Kid「N-no, I mean... why did you change?」%K%P
+0x220
+残念なことに、『こんらん』のステータスのままでは、コマンド通りの行動をとることはできなかった。%K%P
+Unfortunately, my mind was still in a state of confusion and wouldn't follow orders.%K%P
+0x234
+優「んー……そうねぇ、いわゆるひとつの『決意表明』かな？」%K%P
+You「Hmmm... I guess maybe you could call it an expression of my resolution.」%K%P
+0x240
+少年「え？」%K%P
+Kid「Huh?」%K%P
+0x254
+優「着替えた理由！」%K%P
+You「The reason that I changed!」%K%P
+0x260
+優「訊いたのは、きみでしょ？」%K%P
+You「You asked me, right?」%K%P
+0x26C
+少年「あ、ああ……」%K%P
+Kid「Y-yeah...」%K%P
+0x280
+優「ＬｅＭＵのユニフォームを脱ぎ捨てて……私の日常に即した服を身につける」%K%P
+You「I decided to dump the LeMU uniform... for the clothes I normally wear.」%K%P
+0x28C
+優「『ＬｅＭＵでの私、さよなら♪』って意味と、『日常の私、こんにちは♪』って意味をこめて」%K%P
+You「It's a way of saying goodbye to my LeMU self and hello to the normal me.」%K%P
+0x298
+優「私は、何がなんでもここを脱出して、普段の生活に戻るの」%K%P
+You「I just wanna get out of here and get back to my regular life.」%K%P
+0x2A4
+優「そういう決意表明」%K%P
+You「That's what I decided.」%K%P
+0x2B0
+少年「ふ、ふーん……そうなんだ」%K%P
+Kid「Hmmm... So that's why.」%K%P
+0x2C4
+優「うん」%K%P
+You「Yeah.」%K%P
+0x2D0
+少年「…………」%K%P
+Kid「.........」%K%P
+0x2DC
+優「…………」%K%P
+You「.........」%K%P
+0x2E8
+少年「……………………」%K%P
+Kid「..................」%K%P
+0x2F4
+優「……………………」%K%P
+You「..................」%K%P
+0x300
+少年「…………………………………………」%K%P
+Kid「....................................」%K%P
+0x30C
+優「…………………………………………」%K%P
+You「....................................」%K%P
+0x318
+これじゃ、ちっとも会話が続かない。%K%P
+At that rate, I figured the conversation was sure to fizzle out.%K%P
+0x324
+えーと、何か他に話題は…………。%K%p
+Uh, I needed something to talk about...%K%p
+0x1B50
+第３視点の話
+The third eye
+0x1B5C
+レムリアの話
+Lemuria
+0x1B68
+優の過去の話
+You's past
+0x37C
+少年「あ、そういえばさ！　第３視点のことなんだけどっ」%K%P
+Kid「Oh, that reminds me! I wanted to ask you about the third eye...」%K%P
+0x390
+優「第３視点？」%K%P
+You「The third eye?」%K%P
+0x39C
+少年「うん」%K%P
+Kid「Yeah.」%K%P
+0x3A8
+少年「……あっ」%K%P
+Kid「...Uh.」%K%P
+0x3F0
+優「最後に、第３の眼……」%K%P
+You「And the third eye...」%K%P
+0x3FC
+優「それは……ここに……」%K%P
+You「That's... right... here...」%K%P
+0x418
+少年「あ、そういえばさ！　レムリアのことなんだけどっ」%K%P
+Kid「Oh, that reminds me! I wanted to ask you about Lemuria.」%K%P
+0x42C
+優「レムリア？」%K%P
+You「Lemuria?」%K%P
+0x438
+少年「うん、優とは何度も遺跡に足を運んだけど、あの場所に行くと本当に過去にタイムスリップしたような……」%K%P
+Kid「Yeah. I mean, I've been there with you several times, but every time I go there I feel like I've traveled back through time...」%K%P
+0x444
+少年「……あっ」%K%P
+Kid「...Oh.」%K%P
+0x48C
+優「タイムスリップしたんでしょ？」%K%P
+You「You traveled through time, right?」%K%P
+0x498
+優「同じ出来事を経験したことがあるんでしょ？」%K%P
+You「You experienced all this before, right?」%K%P
+0x4A4
+優「だったら、これから私が何をするのか、知ってるはずじゃない」%K%P
+You「In that case, you should know what I'm about to do.」%K%P
+0x4C0
+少年「あ、そういえばさ！　優のお父さんのことなんだけどっ」%K%P
+Kid「Oh, that reminds me! I wanted to talk to you about your father.」%K%P
+0x4D4
+優「…………」%K%P
+You「.........」%K%P
+0x4E0
+優「その話は、もうやめようって言ったでしょ？」%K%P
+You「I told you I didn't want to talk about that, didn't I?」%K%P
+0x4EC
+少年「え？　うん……」%K%P
+Kid「Huh? Oh, yeah...」%K%P
+0x4F8
+少年「……あっ」%K%P
+Kid「...Uh.」%K%P
+0x540
+優「悪いんだけど、そういった話は、今日はやめよう？」%K%P
+You「I'm sorry, but could we just forget about that today?」%K%P
+0x54C
+優「だから今日は、そういうつもりで、ここへ誘ったんじゃないの」%K%P
+You「That wasn't the reason that I invited you here today.」%K%P
+0x558
+優「きみと一緒にいると、なんだか、落ち着くの……だから……」%K%P
+You「There's something about being with you that relaxes me...」%K%P
+0x5F0
+ふいに、昨夜のくちびるの感触が鮮烈に蘇る。%K%P
+Suddenly, I remembered and vividly relived the feeling of our lips touching the night before.%K%P
+0x604
+優「………………………………」%K%P
+You「...........................」%K%P
+0x610
+少年「………………………………」%K%P
+Kid「...........................」%K%P
+0x61C
+その話題を振ったことを、ぼくは激しく後悔していた。%K%P
+I was sorely regretting that I had brought up that topic.%K%P
+0x628
+優「そ、そういえばさぁ……」%K%P
+You「Th-that reminds me...」%K%P
+0x634
+少年「え？　う、うん」%K%P
+Kid「Eh? Y-yeah?」%K%P
+0x640
+優「『第３視点』って概念の本当の意味、教えてなかったよね？」%K%P
+You「I didn't really tell you about the meaning of the concept behind the third eye, did I?」%K%P
+0x64C
+少年「あ、ああ……うん」%K%P
+Kid「Uh... No.」%K%P
+0x658
+少年「いつも、『また今度ね』って話をはぐらかされてたから」%K%P
+Kid「You always say 'I'll tell you next time.'」%K%P
+0x664
+優「そうだったね」%K%P
+You「You're right.」%K%P
+0x678
+優「よしっ、いい機会だから、お姉さんが手取り足取り教えてあげよぉ〜♪」%K%P
+You「Well, this is a good chance for me to tell you the whole story.」%K%P
+0x684
+少年「本当？」%K%P
+Kid「Really?」%K%P
+0x690
+少年「でも、足は遠慮しておくよ」%K%P
+Kid「Well, you can skip the boring stuff.」%K%P
+0x6B0
+優は立ち上がって、ぼくに向き直った。%K%P
+You stood up and turned to face me.%K%P
+0x6C4
+優「えー……コホン」%K%P
+You「Ahem...」%K%P
+0x6D0
+優「では、なっきゅ先生の第３視点講座を始めるとします」%K%P
+You「It is time to start Professor Nakkyu's seminar on the third eye.」%K%P
+0x6F8
+パチパチ……と、まばらな拍手をするぼく。%K%P
+I clapped for her half-heartedly.%K%P
+0x714
+優「当たり前の話だけど、人間はふたつの視点を持ってるよねぇ？」%K%P
+You「First, we'll start with something that's blatantly obvious. People have two eyes, right?」%K%P
+0x720
+優「ひとつは右目、もうひとつは左目」%K%P
+You「One on the right, one on the left.」%K%P
+0x72C
+優は片目ずつ、交互にウィンクしながら言った。%K%P
+You winked with one eye and then the other.%K%P
+0x738
+優「このふたつの視点によって、人間は立体を認識することができるの」%K%P
+You「With these two eyes, people are aware of the three-dimensional world around them.」%K%P
+0x744
+優「もしも仮に、片方の視力を失ってしまったとしたら……不可能、とまでは言い切れないけど、立体を認識することは極めて困難になる」%K%P
+You「If you lost the sight in one of your eyes, I won't say it would be impossible, but it would be difficult to get a sense of the world, its depth and dimensions.」%K%P
+0x750
+優「ちょっと、片目をつぶってみて？」%K%P
+You「Close one eye for a second.」%K%P
+0x75C
+ぼくは言われた通り、右の目を閉じた。%K%P
+I closed my right eye as she said.%K%P
+0x768
+優「そうして見える世界は、基本的には『平面』としての情報だけによって構成されてるでしょ？」%K%P
+You「When you look at the world that way, the information you get is only enough to basically form a flat image of the world.」%K%P
+0x774
+優「もちろん、焦点――ピントを合わせたり、眼球を動かしたりすることによって、物体の『立体感』を把握することができないわけじゃないけど……」%K%P
+You「Of course, by focusing on different areas or moving your eyes, you could get a sense of the three-dimensional image of things, but...」%K%P
+0x780
+優「でも、両目を使ってるときに比べれば『立体としての認識度』って言うのかな？　そういうのは著しく低下してるはず」%K%P
+You「But it wouldn't give you anything close to the perspective or 'dimensional awareness' that you would have using both eyes.」%K%P
+0x794
+優「言ってることわかる？」%K%P
+You「Do you understand what I'm talking about?」%K%P
+0x7A0
+少年「…………」%K%P
+Kid「...」%K%P
+0x7B4
+優「じゃあ、余分なことは抜きにして言うけど……」%K%P
+You「Alright, I'll leave out the unnecessary stuff...」%K%P
+0x7C0
+優「つまりこういうこと」%K%P
+You「In other words, this is what I mean...」%K%P
+0x7CC
+優「人間が、片方の目だけから入手できる情報は、『平面・２次元』としての情報だけなのであ〜る」%K%P
+You「If a person looks at the world through one eye, they only get enough information for a flat, or two-dimensional, view.」%K%P
+0x7D8
+優「要するに、写真と同じなのよ」%K%P
+You「Essentially, it's like a picture.」%K%P
+0x7E4
+優「１枚の風景写真を見たとき、手前に林があって、奥に湖があって、そのまたずっと向こうに山脈があって……」%K%P
+You「If you're looking at a photograph of scenery, you have the trees in the foreground, a lake in the middle, and a string of mountains in the background...」%K%P
+0x7F0
+優「というような遠近感を、確かに知覚することはできる」%K%P
+You「Thus, you get a sense of distance in the picture.」%K%P
+0x7FC
+優「でも、その写真はあくまでも『２次元』じゃない？」%K%P
+You「But that picture is still only two-dimensional, right?」%K%P
+0x808
+優「『平面上』に現像しただけだよねぇ？」%K%P
+You「It was developed on a flat surface.」%K%P
+0x814
+優「というわけで、写真というのは……『３次元』の映像を『２次元』的に再現したものだ、ってことがわかってもらえたと思うんだけど」%K%P
+You「So, a photograph is actually a three-dimensional image recreated two-dimensionally. Now that I think you understand that...」%K%P
+0x820
+少年「…………」%K%P
+Kid「.........」%K%P
+0x834
+優「えっ？　まだわからない？」%K%P
+You「What? You still don't get it?」%K%P
+0x840
+少年「わからないし、左目が疲れてきた」%K%P
+Kid「I don't get it, and my left eye is tired.」%K%P
+0x84C
+優「しょうがないなぁ……」%K%P
+You「Oh well...」%K%P
+0x858
+優「じゃあ今度は、左目を閉じて……」%K%P
+You「Okay, this time close your left eye...」%K%P
+0x87C
+優「こらっ、両目つぶってどうすんのよ」%K%P
+You「Hey! What are you going to see with both eyes closed?」%K%P
+0x8A0
+ぼくは左目のまぶたを左手で押さえ、右目だけを開いた。%K%P
+I held the eyelid of my left eye shut with my left hand as I opened my right eye.%K%P
+0x8B4
+優「そうそう」%K%P
+You「That's it.」%K%P
+0x8C0
+優「そしたら、ちょっと軽く実験でもしてみようか？」%K%P
+You「Now, how about we do a little experiment?」%K%P
+0x8CC
+少年「実験？」%K%P
+Kid「Experiment?」%K%P
+0x8D8
+優は頷くと、ポケットからサインペンを取り出した。%K%P
+Nodding, You took a marker out of her pocket.%K%P
+0x8E4
+キャップをはずし、ペンの方をぼくに手渡す。%K%P
+She took the cap off and handed the marker to me.%K%P
+0x8F0
+少年「で？　どうすれば？」%K%P
+Kid「So? What do I do?」%K%P
+0x8FC
+優「私が持ってるこのキャップに、サインペンをはめてみて？」%K%P
+You「Try to put the pen in the cap that I'm holding.」%K%P
+0x910
+優はキャップを横にして、ぼくの前に掲げた。%K%P
+You turned the cap sideways and held it in front of me.%K%P
+0x91C
+少年「ぼくの先っちょの所を、優の穴の中に差し込めばいいんだね？」%K%P
+Kid「So you want me to put the tip of this in that hole of yours?」%K%P
+0x928
+優「うん、早く入れて」%K%P
+You「Yeah. Hurry up.」%K%P
+0x934
+少年「入れるよ？」%K%P
+Kid「You want me to put it in?」%K%P
+0x940
+優「うん……」%K%P
+You「Yeah...」%K%P
+0x94C
+ぼくは、黒光りしたその先端を持ち上げると、優の小さな空洞の中に……入れようと……。%K%P
+I took the shiny black pen, lifted it toward the little cap that You held... trying to put it in...%K%P
+0x958
+少年「あれ？　おっかしいなぁ……」%K%P
+Kid「Huh? That's weird...」%K%P
+0x964
+少年「穴の場所が、よくわかんないやぁ……」%K%P
+Kid「I can't find the hole...」%K%P
+0x970
+少し汁のにじみ出した先っちょの部分は、穴にはおさまらなかった。%K%P
+The slightly slippery tip wouldn't slip into the hole.%K%P
+0x97C
+何度も何度も試みたのだが、優の求めている場所がどこなのかわからない。%K%P
+I tried again and again, but it wouldn't go where You wanted it to go.%K%P
+0x988
+少年「こんなはずじゃなかったのに……」%K%P
+Kid「It should be easier than this...」%K%P
+0x994
+優「もうっ、だらしないなぁ〜」%K%P
+You「Geez, you're really bad at this.」%K%P
+0x9A0
+少年「だって、しょうがないじゃん」%K%P
+Kid「Well, whaddya expect me to do?」%K%P
+0x9AC
+少年「こんなことするの、初めてなんだから」%K%P
+Kid「It's my first time doing this.」%K%P
+0x9C0
+優「痛っ」%K%P
+You「Ow...」%K%P
+0x9CC
+少年「ご、ごめん……」%K%P
+Kid「S-sorry...」%K%P
+0x9D8
+優「どこに刺してんのよぉ……そこじゃないでしょ？」%K%P
+You「Where are you poking that thing...? That's the wrong spot.」%K%P
+0x9E4
+優「もうちょっと手前」%K%P
+You「It's a little closer to you.」%K%P
+0x9F0
+少年「ここ？」%K%P
+Kid「Here?」%K%P
+0x9FC
+優「違う違う、もっと奥」%K%P
+You「No, no. Farther back.」%K%P
+0xA08
+優「そう！　そこそこ！　そこに入れて！　早く！」%K%P
+You「Yeah! Right there! Stick it in! Hurry!」%K%P
+0xA14
+――ずぽっ。%K%P
+―Click.%K%P
+0xA28
+少年「はまったぁ！　やっとはまったよぉ！」%K%P
+Kid「I got it! Finally, it's in!」%K%P
+0xA34
+優「すごいすご〜い♪　こんなの初めて〜♪」%K%P
+You「Oh good, you did it, and it's your first time!」%K%P
+0xA40
+少年「…………」%K%P
+Kid「.........」%K%P
+0xA4C
+優「…………」%K%P
+You「.........」%K%P
+0xA58
+少年「…………」%K%P
+Kid「.........」%K%P
+0xA64
+優「…………」%K%P
+You「.........」%K%P
+0xA70
+少年「…………」%K%P
+Kid「.........」%K%P
+0xA8C
+優「オ、オホンッ……であるからしてぇ〜」%K%P
+You「Oho... So that is how that works.」%K%P
+0xA98
+優「ひとつの視点だけでは『立体』を認識することがいかに難しいことなのか、御理解いただけたと思うのですが……」%K%P
+You「I think you've seen how hard it is to be aware of the different dimensions of things from just one perspective...」%K%P
+0xAA4
+少年「で？」%K%P
+Kid「So?」%K%P
+0xAB0
+優「まとめると、こういうこと」%K%P
+You「To review, this is what I mean.」%K%P
+0xABC
+優「ひとつの視点から得られる情報は『平面・２次元』的な情報だけ」%K%P
+You「The information that you get from one point is flat, or two-dimensional, information.」%K%P
+0xAC8
+優「『立体・３次元』的な情報を獲得する為には、その視点が最低でもふたつ以上は必要なの」%K%P
+You「To get enough information for a three-dimensional view, you have to have at least two perspectives.」%K%P
+0xAD4
+優「つまり、右目と左目……」%K%P
+You「That is, your right and left eyes...」%K%P
+0xAE0
+優「このふたつの視点を使わない限り、私達は瞬間的に『３次元』を認識することはできないのよ」%K%P
+You「If you don't use two viewpoints, then you won't be able to register what's going on around you in three dimensions.」%K%P
+0xAEC
+少年「？」%K%P
+Kid「?」%K%P
+0xB00
+優「まだわからないかなぁ〜」%K%P
+You「Do you still NOT get it?」%K%P
+0xB0C
+少年「ううん、言ってることは理解できたけど……」%K%P
+Kid「I see what you're saying, but...」%K%P
+0xB18
+少年「それと第３視点に、どんな関係が？」%K%P
+Kid「What does this have to do with the third eye?」%K%P
+0xB24
+優「どんな関係もなにもないって」%K%P
+You「It doesn't have anything to do with it.」%K%P
+0xB30
+優「もうほとんど説明しつくしちゃってるんだから」%K%P
+You「I've already just about explained the whole thing.」%K%P
+0xB3C
+少年「？？？」%K%P
+Kid「?」%K%P
+0xB50
+優「だったら、逆にこっちから質問するけど……」%K%P
+You「Alright, let me try something else. Let me ask you a question...」%K%P
+0xB5C
+優「ひとつの視点から得られる情報は？」%K%P
+You「What kind of information can you get from one perspective?」%K%P
+0xB68
+少年「『２次元的』な情報、だったよね」%K%P
+Kid「You said two-dimensional information, right?」%K%P
+0xB74
+優「次に、ふたつの視点から得られる情報は？」%K%P
+You「And what kind of information can you get from two perspectives?」%K%P
+0xB80
+少年「『３次元的』な情報、だと思ったけど」%K%P
+Kid「I think you said three-dimensional information.」%K%P
+0xB8C
+優「では、３つの視点から得られる情報は？」%K%P
+You「And from three perspectives, what kind of information could you get?」%K%P
+0xB98
+少年「う〜ん……４次元的な、情報かな？」%K%P
+Kid「Hmmm... four-dimensional information, maybe?」%K%P
+0xBB4
+少年「えっ！？　４次元！？」%K%P
+Kid「Huh? The fourth dimension!」%K%P
+0xBC0
+それを聞いて、優はゆっくりと頷いた。%K%P
+You nodded slowly, listening to me.%K%P
+0xC08
+さて、『４次元』とは……%K%P
+So the fourth dimension was...%K%P
+0xC14
+いやそもそも『次元』とは、一体なんであろうか？%K%P
+Wait, what was a dimension anyway?%K%P
+0xC20
+優はロッカーの中からノートを取り出すと、お馴染みのサインペンで図解を示しながら説明してくれた。%K%P
+You took a notebook out of her locker and started illustrating her points with diagrams using the familiar pen.%K%P
+0xC48
+%FS▼『０次元』%FE%N
+%FSZero-dimensional.%FE%N
+0xC54
+%N
+
+0xC60
+それは点の世界。%K%N
+A world made of points.%K%N
+0xC6C
+０次元の存在は、体積も面積も持たない。%K%N
+With zero dimensions, there is no mass nor area.%K%N
+0xC78
+ただ、『座標』だけによって表されるもの。%K%N
+It is depicted using coordinates.%K%N
+0xC84
+あるいは我々にとってそれは、『無』であると言えるのかもしれない。%K%O
+Or we might call it 'nothingness', or even zero.%K%O
+0xCA4
+%FS▼『１次元』%FE%N
+%FSOne-dimensional.%FE%N
+0xCB0
+%N
+
+0xCBC
+それは点の連続体――直線の世界。%K%N
+This is an extension of the point―it is a straight line.%K%N
+0xCC8
+つまり、直線の断面は点となる。%K%N
+In other words, a cross-section of a straight line is a point.%K%N
+0xCD4
+『長さ（縦）』……ひとつの概念によって表わされるもの。%K%O
+This is depicted by one concept... length.%K%O
+0xCFC
+%FS▼『２次元』%FE%N
+%FSTwo-dimensional.%FE%N
+0xD08
+%N
+
+0xD14
+それは直線の連続体――平面の世界。%K%N
+This is an extension of the straight line―it is a flat world.%K%N
+0xD20
+つまり、平面の断面は直線になる。%K%N
+In other words, a cross-section of a plane, or flat world, is a straight line.%K%N
+0xD2C
+『長さ（縦）』『幅（横）』……ふたつの概念によって表わされるもの。%K%O
+This is depicted using two concepts... length and width.%K%O
+0xD54
+%FS▼『３次元』%FE%N
+%FSThree-dimensional.%FE%N
+0xD60
+%N
+
+0xD6C
+それは平面の連続体――立体の世界。%K%N
+This is an extension of the flat world―it is the three-dimensional world.%K%N
+0xD78
+つまり、立体の断面は平面になる。%K%N
+In other words, a cross-section of the solid world is a plane, or flat surface.%K%N
+0xD84
+『長さ（縦）』『幅（横）』『高さ』……３つの概念によって表わされるもの。%K%O
+This is depicted using three concepts... length, width, and height.%K%O
+0xD9C
+本来、これらは正確な言い方ではないが、あえてわかりやすく言うと、３次元とは『縦・横・高さによって構成された空間』のことであると言える。%K%N
+This isn't the most precise way of putting it, but you can think of three dimensions as an area in space composed of length, width, and height.%K%N
+0xDA8
+（これら縦・横・高さを、それぞれｘ軸ｙ軸ｚ軸とすると、ひとつの軸は、他の２軸に対して垂直に交わるものとする）%K%O
+(By depicting length, width, and height on the x, y, and z axes, one axis adds a vertical element to the other two.)%K%O
+0xDC0
+%N
+
+0xDCC
+%LCそして……%K%O
+%LCAnd...%K%O
+0xDEC
+４次元とは、これら３軸に『ｔ軸＝時間』を加えたもので、すでに４次元は空間ではないから、これを『時空間』と称す。%K%N
+The fourth dimension adds a 't' axis, or time, to these three, and because four dimensions is no longer just space, it is called space-time.%K%N
+0xDF8
+ｘ軸ｙ軸ｚ軸ｔ軸のうちのひとつの軸は、他の３軸に対して垂直に交わる。%K%O
+One of the x, y, z, and t axes adds a vertical element, crossing perpendicularly to the other three.%K%O
+0xE10
+%FS▼『４次元』%FE%N
+%FSFour-dimensional.%FE%N
+0xE1C
+%N
+
+0xE28
+立体の連続体――時空体の世界。%K%N
+This is an extension of three dimensions―a world of space and time.%K%N
+0xE34
+つまり、時空体の断面は立体になる。%K%N
+In other words, a cross-section of space-time is three-dimensional.%K%N
+0xE40
+『長さ（縦）』『幅（横）』『高さ』『時間』……４つの概念によって表わされるもの。%K%O
+Four dimensions are depicted using four concepts... length, width, height, and time.%K%O
+0xE7C
+少年「要するに、第３視点を獲得することによって、４次元的な情報を入手することができるようになるわけだ」%K%P
+Kid「So basically, if you're able to gain the third eye, then you have enough information to experience four dimensions.」%K%P
+0xE88
+優「そう、空間＋時間」%K%P
+You「Yup. It's space plus time.」%K%P
+0xE94
+優「私達がふたつの眼球を使って、目の前の広がった空間の映像を一瞬にして理解できるように……」%K%P
+You「Just like we can use our two eyes to constantly have an image of the space in the world before us...」%K%P
+0xEA0
+少年「３つめの視点を使えば、そこに横たわる時間の流れさえ知覚することができるんだ」%K%P
+Kid「So with three perspectives, we can also be aware of the cross-cutting element of time.」%K%P
+0xEB4
+優「うむ、そういうことであ〜る」%K%P
+You「Yup. That's it.」%K%P
+0xEC0
+優はキュポンと、サインペンにキャップをはめた。%K%P
+You put the cap on the pen.%K%P
+0xECC
+少年「なんとなく、わかってきたかもしれない」%K%P
+Kid「I feel like I kinda understand.」%K%P
+0xEE0
+優「なにが？」%K%P
+You「What?」%K%P
+0xEEC
+少年「ぼくの予知のことだよ」%K%P
+Kid「My premonitions.」%K%P
+0xEF8
+少年「ぼくは、なにもタイムスリップしたわけじゃなかったんだ」%K%P
+Kid「I didn't travel through time.」%K%P
+0xF0C
+優「――第３視点を獲得したんどわぁ！」%K%P
+You「I know! You've gained the third eye!」%K%P
+0xF18
+優「――だから未来のことがわかるんどわぁ！」%K%P
+You「That's why you know the future!」%K%P
+0xF24
+優「……なんてバカバカしいこと、言い出さないよねぇ？」%K%P
+You「...Would you stop talking about these stupid theories of yours?」%K%P
+0xF30
+少年「ダメ？」%K%P
+Kid「You don't think so?」%K%P
+0xF3C
+優「ダメ」%K%P
+You「Nope!」%K%P
+0xF50
+優「だって全然説得力ないもん」%K%P
+You「I mean, there's no evidence.」%K%P
+0xF5C
+優「どうして少年は、いきなり第３視点を開眼することになったの？」%K%P
+You「Why would your third eye suddenly open?」%K%P
+0xF68
+優「その理由は？　方法は？」%K%P
+You「For what reason? By what method?」%K%P
+0xF74
+少年「それは……記憶が戻れば……きっと……」%K%P
+Kid「I'll bet... if I get my memory back... then I'll...」%K%P
+0xF80
+優「ま〜た、すぐそうやって記憶喪失のせいにする」%K%P
+You「That again? You always fall back on your amnesia.」%K%P
+0xF8C
+優「って言うかさぁ、そもそもその記憶喪失の原因を探ってるんじゃなかったの？」%K%P
+You「You were looking for the cause of your memory loss in the first place, right?」%K%P
+0xF98
+優「記憶喪失と第３視点とに、どんな関係があるわけ？」%K%P
+You「So what do amnesia and the third eye have to do with each other?」%K%P
+0xFA4
+少年「…………」%K%P
+Kid「.........」%K%P
+0xFB0
+優「それから、少年が見たって言ってたあの幻の女の子のことは？」%K%P
+You「And what about that ghost girl that you said you saw?」%K%P
+0xFBC
+少年「…………」%K%P
+Kid「.........」%K%P
+0xFC8
+優「まったくもう、短絡的って言うか、浅はかって言うか、幼稚って言うか……」%K%P
+You「I mean, it's so naive, stupid, and childish...」%K%P
+0xFD4
+少年「だって、優のお母さんだって信じてたんでしょ？」%K%P
+Kid「But your mom believed in it, right?」%K%P
+0xFE8
+優「その話はやめて！」%K%P
+You「We're not going there!」%K%P
+0xFF4
+優「もう過去のことは考えたくないの！」%K%P
+You「I don't want to think about the past!」%K%P
+0x1010
+優「さっきも、そう言ったでしょ！」%K%P
+You「I told you that already!」%K%P
+0x1024
+優「昨日そう言ったじゃない！」%K%P
+You「I told you yesterday as well!」%K%P
+0x1030
+少年「だけど……」%K%P
+Kid「But...」%K%P
+0x103C
+少年「このままでいいの？」%K%P
+Kid「Do you like things the way they are?」%K%P
+0x1048
+少年「ほんとのお父さんとお母さんが誰なのか、このまま一生わからなくってもいいの？」%K%P
+Kid「You don't care if you never find out who your mom and dad were for the rest of your life?」%K%P
+0x1054
+優「やめて！」%K%P
+You「Stop it!」%K%P
+0x1060
+両手で耳を塞ぎ、拒絶の意志を示す優。%K%P
+You had covered both of her ears in denial.%K%P
+0x106C
+少年「………………」%K%P
+Kid「..................」%K%P
+0x1078
+優「………………」%K%P
+You「..................」%K%P
+0x1084
+少年「ぼくは……自分の過去が知りたかった」%K%P
+Kid「I... I wanted to know about my past.」%K%P
+0x1090
+少年「ううん、今だって知りたいと願ってる」%K%P
+Kid「I still hope to find it out.」%K%P
+0x109C
+少年「でもぼくには、記憶も手がかりもないから……」%K%P
+Kid「But I don't have my memory nor any clue to go by, so...」%K%P
+0x10A8
+優「…………」%K%P
+You「.........」%K%P
+0x10B4
+少年「優には……記憶があるんだろ？」%K%P
+Kid「You have... your memory, right?」%K%P
+0x10C8
+優「――！」%K%P
+You「―!」%K%P
+0x10D4
+少年「だとしたら、ぼくと違って、優には手がかりがあるってことだよね？」%K%P
+Kid「So that means that you have something that I don't have. You have a clue.」%K%P
+0x10E0
+少年「おまけに、レミを通じて、いろんな情報も手に入った」%K%P
+Kid「And more than that, you were able to get information from LeMMIH.」%K%P
+0x10EC
+少年「それなのに、どうして今更、考えたくないなんて言うの？」%K%P
+Kid「So how come you still don't want to think about it?」%K%P
+0x10F8
+優「…………」%K%P
+You「.........」%K%P
+0x1104
+少年「優は、『本当のこと』が知りたくて、ＬｅＭＵにやってきたんじゃないの？」%K%P
+Kid「I thought you came to LeMU because you wanted to find out the truth.」%K%P
+0x1110
+少年「なぜそこから目を逸らすの？」%K%P
+Kid「Why'd you change your mind?」%K%P
+0x111C
+少年「何がきみをそうさせてるの？」%K%P
+Kid「Did something make you change?」%K%P
+0x1128
+優「……………………」%K%P
+You「..................」%K%P
+0x1134
+少年「どうして、自分の過去を否定するの？」%K%P
+Kid「Why are you denying your past?」%K%P
+0x1140
+少年「自分自身を否定するの？」%K%P
+Kid「Isn't that the same as denying yourself?」%K%P
+0x114C
+少年「そのふたつの目で……」%K%P
+Kid「With your own two eyes...」%K%P
+0x1168
+少年「なぜ、『真実』を見つめようとしないの？」%K%P
+Kid「Why don't you try to face the truth directly?」%K%P
+0x1174
+優「…………………………………………」%K%P
+You「...........................」%K%P
+0x1190
+少年「優っ！！」%K%P
+Kid「You!」%K%P
+0x119C
+ぼくは優の腕を掴み、彼女の耳から引き離した。%K%P
+I grabbed You's arms and pulled them away from her ears.%K%P
+0x11A8
+少年「答えてくれよ！　なぜなんだよ！」%K%P
+Kid「Answer me! Why!?」%K%P
+0x11B4
+少年「なんで、あとちょっとのところで、諦めたりするんだよ！」%K%P
+Kid「Why do you want to give up when you're almost there?」%K%P
+0x11C0
+少年「なんでみすみす、今までの苦労を棒に振ったりするんだよ！」%K%P
+Kid「Why throw away everything that you've worked so hard for?」%K%P
+0x11CC
+ぼくは叫び、喚いた。%K%P
+I shouted at her.%K%P
+0x11D8
+信じられなかったから。%K%P
+Because I couldn't believe what she was doing.%K%P
+0x11E4
+望んでも決して得ることのできなかったもの……。%K%P
+It was something that she would be hard pressed to find in her wildest dreams...%K%P
+0x11F0
+それを今まさに手に入れようという瞬間に、急に心変わりをしてしまった彼女が。%K%P
+And just as she was about to attain it, she had suddenly changed her mind.%K%P
+0x11FC
+ぼくはまだ、月を掴むことができないでいる。%K%P
+I was nowhere near reaching my dream.%K%P
+0x1208
+でも優は、すぐ手の届く位置まで近づけている。%K%P
+But You's was almost within her reach.%K%P
+0x1214
+だから、とても……とても…………%K%P
+So I felt... terribly... terribly...%K%P
+0x1220
+……悔しかったのだ。%K%P
+...Disappointed.%K%P
+0x122C
+優「…………」%K%P
+You「.........」%K%P
+0x1238
+少年「ぼくには、わからないよ」%K%P
+Kid「I don't get it.」%K%P
+0x1244
+少年「知りたかったことが、もう目の前にあるってのに……」%K%P
+Kid「What you've longed to know is right in front of you, and...」%K%P
+0x1250
+少年「とても羨ましかったのに……とても、嬉しかったのに」%K%P
+Kid「I was so jealous... and so happy for you.」%K%P
+0x125C
+少年「どうして……」%K%P
+Kid「Why...?」%K%P
+0x1268
+優「…………」%K%P
+You「.........」%K%P
+0x1284
+優「怖くなったの」%K%P
+You「I got scared.」%K%P
+0x1290
+少年「え？」%K%P
+Kid「Huh?」%K%P
+0x12A4
+優「真実を知るのが……怖くなったのよ！！」%K%P
+You「I got scared of learning the truth!」%K%P
+0x12B0
+少年「…………」%K%P
+Kid「.........」%K%P
+0x12BC
+優「考えてみてよ！　今まで正しいと信じてたものが、全部嘘だってわかったのよ！！」%K%P
+You「Think about it! Everything that I've believed for so long has turned out to be lies.」%K%P
+0x12C8
+優「全部、作りものだったのよ……！」%K%P
+You「It's all just fiction...!」%K%P
+0x12D4
+優「ねえ！　こんなことってある？　それって普通のことなの？」%K%P
+You「Tell me! Is that supposed to happen? Is it normal?」%K%P
+0x12E0
+優「私には、信じられない……もう何もかもが、信じられない」%K%P
+You「I can't believe anymore... I can't believe anything.」%K%P
+0x12EC
+少年「……………………」%K%P
+Kid「..................」%K%P
+0x1300
+優「知らなかったの……真実が、こんなにも苦しいものだったなんて」%K%P
+You「I didn't know... that the truth was this painful.」%K%P
+0x130C
+胸を押さえる優。%K%P
+You put her hand on her chest.%K%P
+0x1318
+優「痛いの」%K%P
+You「It hurts.」%K%P
+0x1324
+優「心が痛いの」%K%P
+You「My heart hurts.」%K%P
+0x1330
+優「真実に近づくたび、心がズタズタに傷ついていくの……」%K%P
+You「The closer I get to the truth, the more my heart gets shredded to bits...」%K%P
+0x133C
+優「私にはもう、耐えられないんだよぉ……！」%K%P
+You「I can't take it anymore...!」%K%P
+0x1348
+少年「………………………………………………」%K%P
+Kid「.............................................」%K%P
+0x1354
+優「もう、知りたくない……」%K%P
+You「I don't want to know anymore...」%K%P
+0x1360
+優「本当のことなんて……聞きたくない！」%K%P
+You「I don't want to know... what is real!」%K%P
+0x13D8
+その音と揺れに、ぼくらはハッと顔を上げた。%K%P
+A sudden sound and shaking made us look up.%K%P
+0x1428
+次の瞬間、警報が響き渡る。%K%P
+The next instant, warning alarms started shrieking.%K%P
+0x1434
+鉄のきしむ音が響く。%K%P
+All around me, the squeal of straining metal echoed from the structure.%K%P
+0x1440
+断続的な揺れも続いている。%K%P
+The shaking continued on and off.%K%P
+0x144C
+な、何が……。%K%P
+Wh-what...%K%P
+0x1458
+優「ま、まさかっ……！」%K%P
+You「No... No way...!」%K%P
+0x1464
+少年「ついに圧潰が始まった……！？」%K%P
+Kid「Could implosion already have started...?」%K%P
+0x1470
+現在時刻は午後５時４５分。%K%P
+It was 5:45 p.m.%K%P
+0x147C
+完全圧潰推定時刻――『５月７日午前４時３０分前後』。%K%P
+The estimated time of implosion was 4:30 a.m. on May 7th.%K%P
+0x1488
+±１２時間の誤差を考えれば、もう始まってもオカシクナイ時間だった。%K%P
+But given the twelve-hour margin of error, I thought it could well be the implosion.%K%P
+0x1494
+――ぼくらは、部屋を飛び出した。%K%P
+We burst out of the room.%K%P
+0x14DC
+水浸しになっている通路。少しずつ水かさは増していく。%K%P
+The corridor was flooded, and the water level was rising.%K%P
+0x14E8
+ついに、ここまで水が……！%K%P
+I was stunned by how high the water already was...%K%P
+0x1504
+しばらくして、警報は鳴りやむ。%K%P
+In a little while, the alarm ceased.%K%P
+0x1510
+かろうじて浸水はおさまったようだった。%K%P
+It looked like the flooding had been stopped just in time.%K%P
+0x151C
+少年「おさまったようだね……」%K%P
+Kid「It looks like it's under control...」%K%P
+0x1530
+優「うん……」%K%P
+You「Yeah...」%K%P
+0x153C
+少年「みんな、無事かな？」%K%P
+Kid「I wonder if everybody's alright.」%K%P
+0x1548
+優「そうね、確認しましょう」%K%P
+You「Let's go check.」%K%P
+0x155C
+優「空？　空ぁーっ？　聞こえるー？」%K%P
+You「Sora? Sora? Can you hear me?」%K%P
+0x1568
+しかし応答はない。%K%P
+But there was no response.%K%P
+0x1574
+少年「だめだ……きっと、またセンサーが……」%K%P
+Kid「It's no good... I bet the sensors are out of whack...」%K%P
+0x1588
+優「ひとまず、空のところに行きましょう？　だぶん制御室にいると思うから」%K%P
+You「Should we go find Sora first? She's probably in the control room.」%K%P
+0x1594
+少年「うん」%K%P
+Kid「Yeah.」%K%P
+0x15A8
+もめ事のことは一旦忘れ、この事態への対処を優先することにした。%K%P
+We put our argument aside for the moment and concentrated on handling the situation at hand.%K%P
+0x15B4
+３階へ向かう、ぼくと優。%K%P
+You and I headed down to the third floor.%K%P
+0x15F8
+優「とにかく脱出する方法を早く探さないと！」%K%P
+You「We have to find a way out of here, fast!」%K%P
+0x1604
+階段を駆け下りながら優。%K%P
+You sprinted down the stairs.%K%P
+0x1610
+少年「………………」%K%P
+Kid「...」%K%P
+0x161C
+しかし、こんな状況だと言うのに、ぼくの頭はさっきの話の続きを考え続けていた。%K%P
+Even though we were in the middle of a crisis, I couldn't get my mind off of what we were talking about.%K%P
+0x1628
+優の両親についての謎。%K%P
+The mystery surrounding You's parents.%K%P
+0x1634
+ぼくの不可解な予知。%K%P
+And my inexplicable premonitions.%K%P
+0x1640
+この２点は『第３視点』というキーワードによって、結び付けられているような気がしてならない。%K%P
+I just had a feeling that those two things were somehow connected to the third eye.%K%P
+0x164C
+（なぜだろう？　なぜこんなにも気になるんだろう？）%K%P
+(Why? Why can't I shake this feeling?)%K%P
+0x1660
+３階へ降り立つ。%K%P
+We reached the third floor.%K%P
+0x166C
+少年「ねえ、優」%K%P
+Kid「Hey, You.」%K%P
+0x1680
+優「なに？　どうしたの？」%K%P
+You「What? What's wrong?」%K%P
+0x168C
+少年「ぼく、ちょっと思ったんだけど……」%K%P
+Kid「I was just thinking...」%K%P
+0x1698
+少年「優の両親のことと、ぼくの身に起きている不可解な出来事には、何か共通点があるんじゃないのかな？」%K%P
+Kid「I was thinking that the thing about your parents and the stuff that's been happening to me might have something in common.」%K%P
+0x16A4
+優「…………」%K%P
+You「.........」%K%P
+0x16B0
+少年「第３視点……このひとつの言葉によって、両者は強く結びつくような気がっ」%K%P
+Kid「I get the feeling that... the third eye ties them together somehow.」%K%P
+0x16C4
+優「ねえ？　なに言ってるの？　この状況わかってる？」%K%P
+You「What're you talking about? Do you know what kind of situation we're in right now?」%K%P
+0x16D0
+優「今は生きるか死ぬかの瀬戸際なのよ！？」%K%P
+You「This is about whether we live or die!」%K%P
+0x16DC
+優「そんなことどうでもいいじゃない！」%K%P
+You「That's not important now!」%K%P
+0x16E8
+少年「よくないよ！」%K%P
+Kid「It is!」%K%P
+0x16F4
+少年「だって確かに、優のお母さんは第３視点をっ」%K%P
+Kid「But you said that your mom said the third eye...」%K%P
+0x1700
+優「――お母さんなんて言わないで！！」%K%P
+You「Don't you talk to me about my mom!」%K%P
+0x1734
+優「あの人は……私のお母さんなんかじゃ……」%K%P
+You「That person... is not my...!」%K%P
+0x1748
+言いかけて、言葉を呑み込む優。%K%P
+You stopped mid-sentence.%K%P
+0x1778
+ふっと顔をあげ、突然、弾かれたように走り出した。%K%P
+Suddenly, she lifted her head and started running.%K%P
+0x1784
+慌てて、ぼくはそのあとを追った。%K%P
+I hurriedly went after her.%K%P
+0x1798
+優「あの人は……私のお母さんなんかじゃないの」%K%P
+You「That person... is not my mother.」%K%P
+0x17AC
+優はそう言うと、ぼくを振り切って歩き出す。%K%P
+After saying that, You turned and started walking.%K%P
+0x17B8
+脇目もふらず、制御室へと向かっていく。%K%P
+Looking straight ahead, she made for the control room.%K%P
+0x17C4
+ぼくはあとを追った。%K%P
+I followed her.%K%P

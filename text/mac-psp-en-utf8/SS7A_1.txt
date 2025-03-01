@@ -1,0 +1,585 @@
+text area offset and size:
+0xD90
+0x23FE
+0x70
+やがてゴウゴウと響いていた音がやみ、水の流れが緩やかになった。%K%P
+Finally, the roaring sounds stopped, and the flow of the water slowed.%K%P
+0x7C
+ギシギシと、悲鳴のようだった金属のこすれあう音も、小さくなった。%K%P
+The squeaking and screeching of metal on metal also died down.%K%P
+0x88
+浸水が止まったようだ。%K%P
+It seemed like the flooding had stopped.%K%P
+0x104
+救護室の天井には、まだ少しだけ空気が残っている。%K%P
+There was still a little air left in the ceiling of the infirmary.%K%P
+0x110
+ちょうどコップを逆さまにして水に入れたような感じだと思えばいい。%K%P
+It was kind of like a cup flipped upside down and mostly filled with water.%K%P
+0x11C
+ぼくと沙羅はそこに浮かんでいた。%K%P
+Sara and I were floating there.%K%P
+0x128
+少年「ちょっとした小康状態ってところかな……」%K%P
+Kid「It looks like things have quieted down a bit...」%K%P
+0x134
+ぼくは沙羅を見やる。%K%P
+I looked at Sara.%K%P
+0x140
+暗闇の中、沙羅だけが暖かな光を放っている。%K%P
+In the darkness, the only thing giving off a gentle aura of light was Sara.%K%P
+0x14C
+少年「沙羅、大丈夫か？」%K%P
+Kid「Are you okay, Sara?」%K%P
+0x158
+沙羅「うん、大丈夫……。ちょっと……、寒いかな」%K%P
+Sara「Yeah. I'm okay... Just... a little cold.」%K%P
+0x164
+沙羅は無理に笑顔を作ろうとする。%K%P
+Sara forced a smile for me.%K%P
+0x170
+少年「沙羅……、何だって戻ったりしたんだ」%K%P
+Kid「Sara... why did you come back?」%K%P
+0x17C
+少年「あと少し、あとほんの少しで助かったのに……」%K%P
+Kid「All you had to do was go a little farther, and you would have been safe...」%K%P
+0x188
+沙羅「うん……、あのね……」%K%P
+Sara「Uh... I...」%K%P
+0x194
+沙羅「お兄ちゃん、怒らない？」%K%P
+Sara「Do you promise you won't get mad?」%K%P
+0x1A0
+少年「怒る？　なんで？」%K%P
+Kid「Mad? Why would I get mad?」%K%P
+0x1AC
+沙羅「だって……」%K%P
+Sara「Well...」%K%P
+0x1B8
+少年「いいから、言ってみな」%K%P
+Kid「Just tell me.」%K%P
+0x208
+なんだか、変だった。%K%N
+I thought something was strange.%K%N
+0x214
+最初、ぼくと沙羅とでは、沙羅の方が上に%N立っていた気がする。%K%N
+From the beginning, Sara had always seemed like she had the upper hand in our relationship.%K%N
+0x220
+それが、兄と妹なのだと認めてしまった今では%N逆転していた。%K%N
+But once we knew that we were brother and sister, it felt like things had been reversed.%K%N
+0x22C
+幼い頃のように、沙羅はぼくに頼りきっている。%K%O
+Sara was relying on me... like when we were kids.%K%O
+0x25C
+沙羅「あのね、お兄ちゃん」%K%P
+Sara「Well...」%K%P
+0x268
+沙羅「これ……」%K%P
+Sara「This...」%K%P
+0x274
+沙羅は、そう言って、右手をあげた。%K%P
+Sara lifted her right hand.%K%P
+0x280
+その指先には、あの、鏡のカケラが握られていた。%K%P
+Pinched between her fingers was the shard of the mirror from my finger.%K%P
+0x28C
+少年「これは……、あの、カケラじゃないか」%K%P
+Kid「Hey... it's that piece of the mirror.」%K%P
+0x298
+沙羅「うん、途中で、これを置きっぱなしだったのに気がついたの」%K%P
+Sara「Yeah. I realized when we were running that this had been left here.」%K%P
+0x2A4
+少年「こんな物のために」%K%P
+Kid「So you came back for something like this!?」%K%P
+0x2B0
+沙羅「こんな物じゃないよ！」%K%P
+Sara「It's not just anything!」%K%P
+0x2BC
+沙羅「お兄ちゃんが必死で守ってくれた、大事な、大事な物だよ！」%K%P
+Sara「This was something that you fought so hard to protect!」%K%P
+0x2C8
+少年「沙羅……」%K%P
+Kid「Sara...」%K%P
+0x2D4
+少年「でも、命を賭けてまで取りに戻るようなものじゃないだろ！」%K%P
+Kid「But this isn't something worth risking your life to come back for!」%K%P
+0x2E0
+少年「ペンダントはちゃんとあるんだし！」%K%P
+Kid「You had the pendant anyway!」%K%P
+0x2EC
+沙羅「うん……、ゴメンね」%K%P
+Sara「You're right... I'm sorry.」%K%P
+0x2F8
+沙羅「お兄ちゃんまで、巻き添えにしちゃって……」%K%P
+Sara「I got you involved in all of this...」%K%P
+0x304
+少年「ぼくは勝手に引き返してきたんだ。そんなこと気にしなくていいよ」%K%P
+Kid「I chose to turn back. You can't blame yourself for that.」%K%P
+0x310
+沙羅「ううん、ゴメン……」%K%P
+Sara「No, I'm sorry...」%K%P
+0x31C
+それきり、沙羅はしばらく黙ってしまった。%K%P
+After that, Sara didn't speak for a while.%K%P
+0x328
+少年「沙羅？」%K%P
+Kid「Sara?」%K%P
+0x33C
+沙羅「本当は……、それだけじゃないの……」%K%P
+Sara「To tell the truth... it wasn't just that...」%K%P
+0x348
+少年「え？」%K%P
+Kid「Huh?」%K%P
+0x354
+沙羅「外に出るのが……、怖かったの」%K%P
+Sara「I was scared... to go outside...」%K%P
+0x360
+少年「怖い？　何で……」%K%P
+Kid「Scared? Of what...?」%K%P
+0x36C
+沙羅「外に出たら、また、元のような日々が戻ってくるんだって思ったら……」%K%P
+Sara「I thought that once I got outside, everything would return to like it was...」%K%P
+0x378
+沙羅「それ以上、足が動かなくなったの……」%K%P
+Sara「And once I thought about that, I couldn't move anymore...」%K%P
+0x384
+少年「元のようなって、いったい何が……」%K%P
+Kid「Like it was? What are you talking about...?」%K%P
+0x390
+沙羅「また、ライプリヒに監視されて、自由も何もない世界に戻るのかと思ったら……」%K%P
+Sara「I thought that Leiblich would start controlling us again. And all my freedom would be taken away...」%K%P
+0x39C
+沙羅「もう二度と、こんな自由を味わえないのかと思ったら、動けなかった」%K%P
+Sara「When I thought that I'd never be free again, I was paralyzed.」%K%P
+0x3A8
+少年「動けないって……」%K%P
+Kid「Paralyzed...?」%K%P
+0x3B4
+沙羅「ＬｅＭＵに閉じこめられてから……、みんなは何とか脱出しようとしてたみたいだけど……」%K%P
+Sara「Ever since we've been trapped in LeMU... everyone has been trying to escape, but...」%K%P
+0x3C8
+沙羅「私は……、うれしかった」%K%P
+Sara「But... I was happy.」%K%P
+0x3D4
+沙羅「どこにも、監視する人もいない、私が、私の意志で何でも決めていいんだって……」%K%P
+Sara「Nobody was looking over me, and I've been able to decide things for myself...」%K%P
+0x3E0
+沙羅「そう思ったら、すごくうれしかった」%K%P
+Sara「When I thought about that, I was so happy.」%K%P
+0x3EC
+沙羅「ライプリヒの研究所に入ってから、こんな自由を感じたことは一度も無かったから……」%K%P
+Sara「Ever since I entered Leiblich's research institute, I haven't felt free even once...」%K%P
+0x3F8
+ぼくは、沙羅のその言葉に愕然とした。%K%P
+Sara's words left me stunned.%K%P
+0x448
+そうだ。なぜぼくはそのことに思いいたらなかったんだろう。%K%N
+I wondered why I had never thought of things that way before.%K%N
+0x454
+ぼくは、早い内にライプリヒに見限られた。%K%N
+Leiblich had written me off early on.%K%N
+0x460
+たぶん、ぼくにはこれといった特殊な能力が、%N赤外線視力ぐらいしか無かったからだ。%K%O
+I figured that it was probably because the only special power I had was seeing infrared light.%K%O
+0x478
+しかし、たぶん沙羅は違ったんだ。%K%N
+But Sara was probably different.%K%N
+0x484
+あの、コンピューターの扱い……、%N優がハッカーと呼んだほどの手腕。%K%N
+The way that she had been able to use computers... You had called her a first-rate hacker.%K%N
+0x490
+それはその一端なのだろう。%K%N
+It was probably only the beginning.%K%N
+0x49C
+ぼくがあの研究所を離れてからも、沙羅は果てしない実験と、厳しい監視の元でずっと生きてきたんだ……。%K%O
+After I had left the institute, Sara must have lived under constant observation and undergone experiments.%K%O
+0x4CC
+そのことに思い至ったぼくは愕然とした。%K%P
+Thinking about it then amazed me.%K%P
+0x4D8
+沙羅「最初は、この事故も私の能力を試すための実験かなにかかと思ったの……」%K%P
+Sara「When all of this started, I thought this accident was just some kind of test of my abilities or something...」%K%P
+0x4E4
+沙羅「空が、ＲＳＤだってわかった後は、私の監視役なんじゃないかって、疑ったりもしたんだ」%K%P
+Sara「And when I found out that Sora was RSD-generated, I suspected that she was here to observe me...」%K%P
+0x4F0
+沙羅「でも、なっきゅ先輩もいたし……、どうも、そうではなくて本当の事故なんだってわかった後は……」%K%P
+Sara「But since Nakkyu was here... I realized that it was probably just an accident...」%K%P
+0x4FC
+沙羅「うれしかった……」%K%P
+Sara「And it made me happy...」%K%P
+0x508
+沙羅「今まで、ずっと、どこにいても誰かが私の事を監視してた……」%K%P
+Sara「Until now, everywhere I've gone, there's been someone watching me...」%K%P
+0x514
+沙羅「高校の中ででも、街に出てもずうっと」%K%P
+Sara「Even in high school or when I went out around town.」%K%P
+0x520
+沙羅「逃げだそうとしても無駄だった……。私は、研究所に帰るしかなかった」%K%P
+Sara「It was pointless trying to escape... The only place I had to go back to was the research lab.」%K%P
+0x52C
+沙羅「研究所に帰れば、また実験や、検査の繰り返し……」%K%P
+Sara「And back at the lab, the only thing waiting for me was more experiments and tests...」%K%P
+0x538
+沙羅「私には、自由なんかどこにも無かった」%K%P
+Sara「I've never had a taste of freedom.」%K%P
+0x544
+沙羅「だからね、私には、あの事故がうれしかったの……」%K%P
+Sara「I suppose that's why I was happy about the accident...」%K%P
+0x558
+沙羅「そんなこと言ったらいけないのかもしれないね……。みんなは必死だったんだし……」%K%P
+Sara「Maybe I shouldn't say it... I mean, everyone was so desperate and everything...」%K%P
+0x564
+沙羅「でも、私には今まで……こんな自由は無かったから……」%K%P
+Sara「But I've never had freedom like this...」%K%P
+0x570
+少年「沙羅……」%K%P
+Kid「Sara...」%K%P
+0x5C8
+ぼくはそれ以上何も言えなかった。%K%P
+That was all that I could say.%K%P
+0x5D4
+沙羅の一言一言が、ぼくの心に突き刺さる。%K%P
+Sara's each and every word made my heart ache.%K%P
+0x5E0
+沙羅は、そんなつもりがあって言っている訳ではないだろう。%K%P
+I knew that wasn't Sara's intention.%K%P
+0x5EC
+だけど、その一言一言が、ぼくに対する告発のように思えた。%K%P
+But it felt like every word of hers was a confession to me.%K%P
+0x5F8
+もちろんぼくにも監視はついていたけど、そんなに厳しいものじゃない。%K%P
+Of course, I had been under surveillance as well, but it had been nowhere near as strict.%K%P
+0x604
+ぼくがよけいな事をしたりしない限りは、ほとんど無いに等しいものだった。%K%P
+As long as I didn't do anything out of the ordinary, it was like there was no one there.%K%P
+0x610
+そんな中でのうのうとぼくは生きてきたんだ。%K%P
+I had been living carefree the entire time.%K%P
+0x61C
+なのに沙羅はずっと……、ずっとライプリヒにとらわれ、モルモットのように研究材料にされて……。%K%P
+But Sara had... been under Leiblich's careful watch the whole time... She was their guinea pig.%K%P
+0x628
+なぜ、もっと早く沙羅を助けに行ってやれなかったのか……。%K%P
+Why hadn't I gone to help Sara earlier...?%K%P
+0x634
+迎えに行くって……、必ず迎えに行くって約束したのに……。%K%P
+I promised that I would... but I hadn't...%K%P
+0x640
+もちろん、ぼくだって何もしてこなかった訳じゃない。%K%P
+Of course, I had tried.%K%P
+0x64C
+だけど、何をしても、その強大な力に握りつぶされてしまったんだ。%K%P
+But everything I did was blocked by Leiblich's far-reaching influence.%K%P
+0x658
+しかし、そんなこといいわけにならない。%K%P
+Still, I knew there could be no excuses.%K%P
+0x664
+なぜもっと必死になれなかったんだ。%K%P
+Why hadn't I tried harder?%K%P
+0x670
+なぜ……。%K%P
+Why...?%K%P
+0x67C
+沙羅「お兄ちゃん……？」%K%P
+Sara「Onii-chan...?」%K%P
+0x6A4
+沙羅の声にふと気づく。%K%P
+Sara was calling to me.%K%P
+0x6B0
+ぼくはいつの間にか自分の思いに沈み込んでいた。%K%P
+I had been daydreaming in my own world.%K%P
+0x6C4
+沙羅「お兄ちゃん、ありがとう」%K%P
+Sara「Onii-chan, thank you.」%K%P
+0x6D0
+少年「なんで……」%K%P
+Kid「For what...?」%K%P
+0x6DC
+沙羅「来て……、くれたから……」%K%P
+Sara「Because... you came...」%K%P
+0x6E8
+少年「違う！　ぼくは行けなかったんだ」%K%P
+Kid「No! I left you there by yourself.」%K%P
+0x6F4
+少年「迎えに……、行けなかったんだよ！」%K%P
+Kid「I didn't... come for you.」%K%P
+0x700
+沙羅「ううん、来てくれたよ」%K%P
+Sara「Yes, you did.」%K%P
+0x70C
+沙羅「ありがとう、来てくれて……」%K%P
+Sara「And I want to thank you...」%K%P
+0x718
+沙羅は、そう言ってほほえんだ。%K%P
+Sara said that and smiled.%K%P
+0x724
+その笑みは、あきらめの笑みにも見えた。%K%P
+The smile also seemed tinged with resignation.%K%P
+0x730
+沙羅「もういいんだ……」%K%P
+Sara「I don't care anymore...」%K%P
+0x73C
+沙羅「私は、ここで死んでもいい……」%K%P
+Sara「It's okay to die here...」%K%P
+0x748
+少年「沙羅、なんて事言うんだ！」%K%P
+Kid「Sara, what are you saying!?」%K%P
+0x754
+沙羅「だって、最後に自由を味わえたし……」%K%P
+Sara「I've finally tasted freedom...」%K%P
+0x760
+沙羅「お兄ちゃんにもこうして会えたんだもん」%K%P
+Sara「And I was able to meet you.」%K%P
+0x76C
+沙羅「あんな生活に戻るくらいなら、いっそ……」%K%P
+Sara「If it means going back to the life I had before, then I'd rather...」%K%P
+0x778
+沙羅「このままここで死んでしまった方が……いいよ……」%K%P
+Sara「Dying here and now would be... better...」%K%P
+0x784
+沙羅「私には今まで……死ぬ自由も無かったから……」%K%P
+Sara「Up until now... I never even had the freedom to die...」%K%P
+0x790
+その言葉はぼくに激しい衝撃をもたらした。%K%P
+Her words shocked me into silence.%K%P
+0x79C
+沙羅は、今まで、それほどまでにつらい思いをしてきていたんだ。%K%P
+I had no idea that Sara's life up until then had been so hard.%K%P
+0x7A8
+でも……。%K%P
+But...%K%P
+0x7B4
+少年「沙羅、だめだ」%K%P
+Kid「No, Sara.」%K%P
+0x7E4
+沙羅「お兄ちゃん？」%K%P
+Sara「Onii-chan?」%K%P
+0x7F0
+少年「そんな事言っちゃだめだ！」%K%P
+Kid「Don't talk like that!」%K%P
+0x7FC
+少年「生きるんだ、どんな事をしても！」%K%P
+Kid「We're going to live! No matter what!」%K%P
+0x808
+こんなところで沙羅を死なす訳にはいかない！%K%P
+I wasn't about to let Sara die there!%K%P
+0x814
+絶対に、沙羅を死なせてはならない。%K%P
+There was absolutely no way that I would let Sara die.%K%P
+0x820
+少年「死んでしまったら何にもならない！　あんな奴らに負けたことになるんだぞ！」%K%P
+Kid「If you die here, then it means you've lost to THEM!」%K%P
+0x82C
+少年「生き抜くんだ。生きるんだ！　絶対に！」%K%P
+Kid「You're going to live! Survive! No matter what!」%K%P
+0x838
+強い使命感が、ぼくを奮い立たせた。%K%P
+It was my responsibility to help Sara live.%K%P
+0x844
+少年「沙羅、行こう」%K%P
+Kid「Sara, let's go.」%K%P
+0x850
+ぼくは言う。%K%P
+I said...%K%P
+0x864
+沙羅「どこに？」%K%P
+Sara「Where?」%K%P
+0x870
+少年「海の上に」%K%P
+Kid「To the ocean surface.」%K%P
+0x87C
+沙羅「どうやって？」%K%P
+Sara「How?」%K%P
+0x888
+少年「泳いでだ」%K%P
+Kid「We'll swim.」%K%P
+0x894
+沙羅「無理だよ、気圧が……」%K%P
+Sara「It's impossible. The pressure will...」%K%P
+0x8A0
+少年「大丈夫。今のここの空気は、水圧で圧縮されている」%K%P
+Kid「We'll be okay. The air pressure here's been compressed by the water pressure.」%K%P
+0x8AC
+少年「ここは、今４．５気圧なんだ」%K%P
+Kid「We're at about 4.5 atmospheres here.」%K%P
+0x8B8
+少年「このまま海に出ても、肺がつぶれることはない」%K%P
+Kid「Even if we go out into the ocean from here, our lungs will be okay.」%K%P
+0x8CC
+沙羅「でも」%K%P
+Sara「But still.」%K%P
+0x8D8
+少年「このまま、救助を待っていても救助隊が来るとは限らないし、いつ来るのかもわからない……」%K%P
+Kid「We don't know that help will come for us. And even if it does, it might be too late...」%K%P
+0x8E4
+少年「それにこのままここにいるのは危険なんだ」%K%P
+Kid「Besides, it's too dangerous for us to stay here.」%K%P
+0x8F0
+少年「いいか、沙羅？　ぼくらは今、４．５倍に圧縮された空気を吸ってるんだよ」%K%P
+Kid「Listen, Sara. We're breathing at 4.5 atmospheres.」%K%P
+0x8FC
+少年「ここにずっといると、酸素中毒や窒素酔いになる恐れがある」%K%P
+Kid「If we stay here, we're in danger of oxygen poisoning or nitrogen narcosis.」%K%P
+0x908
+少年「それに、ＬｅＭＵがこのまま持つのかどうかもわからない」%K%P
+Kid「And we have no idea how long LeMU will hold.」%K%P
+0x914
+少年「ＬｅＭＵが崩れたりしたら、巻き込まれる可能性もある……」%K%P
+Kid「If LeMU collapses, then we'll get dragged down with it...」%K%P
+0x920
+少年「このままでは危険なんだ」%K%P
+Kid「It's too dangerous to stay here.」%K%P
+0x92C
+沙羅「…………」%K%P
+Sara「.........」%K%P
+0x938
+少年「…………」%K%P
+Kid「.........」%K%P
+0x94C
+沙羅「ねえ……」%K%P
+Sara「Hey...」%K%P
+0x958
+少年「ん？」%K%P
+Kid「What?」%K%P
+0x964
+沙羅「私が、泳げないの知ってるでしょ？」%K%P
+Sara「You know I can't swim, right?」%K%P
+0x970
+少年「大丈夫、今だって泳いでるようなもんじゃないか」%K%P
+Kid「You'll be okay. You're kind of swimming right now, aren't you?」%K%P
+0x97C
+少年「あの時の特訓を思い出すんだ」%K%P
+Kid「You'll just have to remember the lessons I gave you.」%K%P
+0x988
+沙羅「でも……、違うよ」%K%P
+Sara「But... it isn't the same.」%K%P
+0x994
+沙羅「今は浮かんでるだけだもん」%K%P
+Sara「I'm just floating right now.」%K%P
+0x9A0
+沙羅「外に出て、泳ぐのとは違うよ！」%K%P
+Sara「It's different than swimming in the ocean!」%K%P
+0x9AC
+少年「沙羅、大丈夫、心配するな！」%K%P
+Kid「Sara, you'll be okay! Don't worry!」%K%P
+0x9B8
+少年「ぼくが引っぱってくよ」%K%P
+Kid「I'll lead you.」%K%P
+0x9C4
+少年「お兄ちゃんが、引っぱってく」%K%P
+Kid「I'll pull you all the way.」%K%P
+0x9D8
+沙羅「そんなの……、無理だよ」%K%P
+Sara「No... It's not possible.」%K%P
+0x9E4
+少年「無理じゃない」%K%P
+Kid「We can do it.」%K%P
+0x9F0
+少年「お兄ちゃんを信用しろ」%K%P
+Kid「Believe in your brother.」%K%P
+0x9FC
+少年「ぼくは沙羅を……、沙羅を助けに来たんだ！」%K%P
+Kid「I came here... I came to help you, Sara!」%K%P
+0xA08
+沙羅「お兄ちゃん……」%K%P
+Sara「Onii-chan...」%K%P
+0xA14
+少年「沙羅、ぼくを信じて」%K%P
+Kid「Sara, believe in me.」%K%P
+0xA20
+沙羅は、首に掛かっているペンダントを、ぎゅっと握りしめる。%K%P
+Sara clasped the pendant she was wearing around her neck.%K%P
+0xA2C
+少年「行こう、沙羅！」%K%P
+Kid「Let's go, Sara!」%K%P
+0xA40
+沙羅「うん、お兄ちゃん！」%K%P
+Sara「Okay, onii-chan!」%K%P
+0xA64
+ぼくは沙羅を引っ張って救護室を出た。%K%P
+I pulled Sara along with me, and we left the infirmary.%K%P
+0xA70
+所々にある空気だまりを伝いながら、壁の崩壊しているところを探す。%K%P
+We moved from air pocket to air pocket, looking desperately for a place where the wall had collapsed in.%K%P
+0xA7C
+外に出られるほど、大きな亀裂のあいた箇所を見つけると、ぼくらはいったん、一番近い空気だまりまで引き返した。%K%P
+When we finally found a tear big enough for us to squeeze through, we doubled back to the nearest air pocket.%K%P
+0xA88
+そこで、小刻みに呼吸を繰り返し、血液に酸素を充満させる。%K%P
+We took a number of short breaths to boost the oxygen level in our blood.%K%P
+0xA94
+最後に大きく息を吸い込み、ぼくは沙羅の手を引いて、亀裂から、外へと泳ぎだした。%K%P
+Finally, taking a big breath, I grabbed onto Sara's hand and led her through the hole and into the ocean.%K%P
+0xAA8
+壁や床と言った比較物が無くなり、一瞬、どちらが上でどちらが下なのかわからなくなる。%K%P
+With the walls and floor gone, I lost sense of which way was up and which way was down.%K%P
+0xAB4
+すぐに、遙か頭上から差し込む光が見えた。%K%P
+But soon, I saw a faint light in the water above.%K%P
+0xAC0
+ぼくは、沙羅を小脇に抱えるようにして、その光に向かって泳ぎだした。%K%P
+I held Sara under my arm and headed for that light.%K%P
+0xACC
+必死で足を動かし、骨折した腕で水をかく。%K%P
+I desperately thrashed my legs and swam with my broken arm.%K%P
+0xAD8
+水圧で、肺から空気が徐々に押し出されていく。%K%P
+The water pressure was slowly pushing the air from my lungs.%K%P
+0xAE4
+沙羅の顔が苦しそうにゆがむ。%K%P
+Sara's face was twisted in pain.%K%P
+0xAF0
+ぼくも、すでに苦しくなってきていた。%K%P
+I was in agony.%K%P
+0xAFC
+それでもぼくは沙羅を引っ張って、光へ、光へと泳ぎ続けた。%K%P
+Still, I swam, struggling to pull Sara toward the light.%K%P
+0xB08
+その光の元に行ければ、すべてが解決する、すべてがうまくいくんだと、そう信じてぼくは水を蹴り続ける。%K%P
+I kept kicking, believing that everything would be okay if I could make it to the source of the light.%K%P
+0xB14
+肺の中の酸素がすべて絞り尽くされても、こんなところで沙羅を死なせたりは絶対にしない。%K%P
+Even if all of the oxygen was squeezed out of my lungs, I was not about to let Sara die there.%K%P
+0xB20
+その思いだけがぼくを突き動かす。%K%P
+That thought kept me moving.%K%P
+0xB30
+徐々に、徐々に、
+Slowly. Gradually.
+0xB44
+光が大きくなってくる。%K%P
+The light was getting bigger.%K%P
+0xB54
+沙羅の腕が、ぼくの体をぎゅっと締め付ける。%K%P
+Sara's arms squeezed me in desperation.%K%P
+0xB60
+ぼくは、沙羅を勇気づけるように、沙羅を抱えた右腕に力を込める。%K%P
+Hoping to give Sara courage, I gripped her tighter with my left arm.%K%P
+0xB6C
+沙羅は、それに答えるように一瞬、ぼくに笑いかけると、決然と水をかいて上昇を始めた。%K%P
+As if in response, Sara gave me a smile and started trying to swim upward.%K%P
+0xB78
+ぼくも、それにあわせて必死で泳ぐ。%K%P
+I matched her movements, swimming desperately.%K%P
+0xB84
+さあ、沙羅、行こう……。%K%P
+(Come, Sara...)%K%P
+0xB94
+あそこへ……、
+(Let's go...)
+0xBA8
+あの光の元へ……。%K%P
+(Toward the light...)%K%P
+0xBB8
+ぼくは沙羅を二度と手放したりはしない。%K%P
+I was never going to let Sara go again.%K%P
+0xBC4
+もう二度と大事な妹を置き去りにしたりはしない。%K%P
+I was never going to leave my precious sister behind.%K%P
+0xBD0
+もう、二度と……。%K%P
+Never again...%K%P
+0xBDC
+沙羅を……。%K%P
+Sara...%K%P

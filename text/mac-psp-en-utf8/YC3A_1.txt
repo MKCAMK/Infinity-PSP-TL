@@ -1,0 +1,852 @@
+text area offset and size:
+0x17C8
+0x37DB
+0xB4
+光と影の混濁する世界に、音は無かった。%K%P
+In that world, where the boundaries between light and shadow blended, there was no sound.%K%P
+0xC0
+白い闇の波動が大きなうねりとなって皮膚の中へと沁み込み、全身を強く揺さぶる。%K%P
+The motion of white waves of darkness surged forward, permeating my skin and shaking my whole body.%K%P
+0xCC
+何か……硬い殻のようなものが、共鳴現象を起こして、自ら黒い光を放ち始めた。%K%P
+Something... like a hard shell beginning to resonate and emit a black light from inside.%K%P
+0xD8
+波が静まる気配はない。%K%P
+There was no sign that the waves would stop.%K%P
+0xE4
+それどころか、ますます激しさを増して行くように思えた。%K%P
+Rather, they seemed to be getting stronger and stronger.%K%P
+0xF0
+殻にひとすじの亀裂が走った。%K%P
+A crack ran down the outer husk.%K%P
+0xFC
+亀裂は網の目のように広がり、たちまち殻のすべてを覆い尽くしてしまった。%K%P
+It began to spread like the strands of a web and soon covered the entire shell.%K%P
+0x108
+カケラがこぼれ落ちる。%K%P
+Pieces began to fall away.%K%P
+0x114
+ぽろぽろと……ぽろぽろと……。%K%P
+Dropping... to the floor...%K%P
+0x120
+剥落した殻の向こうに垣間見えたものは……まばゆいきらめき……。%K%P
+What I got a glimpse of through the fragmented shell... was dazzling...%K%P
+0x12C
+白よりも白い空間を満たしていた光の粒子が、互いに引き寄せられるように集束し始めた。%K%P
+The particles of light filling that white space began to converge on each other.%K%P
+0x138
+光がおぼろげな像を結ぶ。%K%P
+The light formed a vague image.%K%P
+0x144
+視界に飛び込んで来た影……。%K%P
+The image came flying into view...%K%P
+0x150
+それはただの、馴染みのある景色の切れ端だった。%K%P
+A fragment of a scene familiar to me.%K%P
+0x238
+会議室の中で、俺は目覚めた。%K%P
+I woke up in the middle of the conference room.%K%P
+0x244
+武「――えっ！？」%K%P
+Takeshi「―Eh!?」%K%P
+0x250
+武「『俺』！？」%K%P
+Takeshi「'Me'!?」%K%P
+0x25C
+なぜか自分の呼び方に、不自然な感じを覚える。%K%P
+Why did I feel such unease toward 'me'?%K%P
+0x268
+同じ文字をずっと見つめ続けていると、その文字の形がヘンテコに思えてくることがあるが……%K%P
+If you stared at something for a long time, it could seem to warp and change...%K%P
+0x274
+今、俺の感じた不自然さも、その感覚によく似ていた。%K%P
+The unnaturalness I felt right then seemed a lot like that phenomenon.%K%P
+0x280
+当たり前のことを、当たり前と思えない感じ。%K%P
+As though I was taking something for granted that I shouldn't.%K%P
+0x28C
+まあ、脳のちょっとした、気まぐれ的な誤作動のようなもんだろう。%K%P
+It was probably just my mind playing tricks on me.%K%P
+0x298
+俺はたいして気にもとめず……隣でテーブルに突っ伏して寝ていたココの肩を揺すった。%K%P
+And not thinking any more of it... I shook Coco's shoulder. She was asleep next to me, head down on the table.%K%P
+0x2A4
+武「おーい、起きろ。朝だぞ」%K%P
+Takeshi「Hey, get up. It's morning.」%K%P
+0x2B8
+ココ「ふにゅ……んん……」%K%P
+Coco「Funyuu... Hmmmmm...」%K%P
+0x2C4
+ココは目をこすりながら、静かに起き上がった。%K%P
+Rubbing her eyes, Coco got up slowly.%K%P
+0x2D8
+ココ「あー、お兄ちゃんおはよう……」%K%P
+Coco「Oh, good morning... onii-chan...」%K%P
+0x2E4
+武「……は？　お兄ちゃん？」%K%P
+Takeshi「...Huh? Onii-chan?」%K%P
+0x2F0
+武「ああ、そうか。ココには兄貴がいたのか。でも俺は兄じゃないぞ……」%K%P
+Takeshi「Oh, I see. You have a brother, Coco? But I'm not your brother...」%K%P
+0x2FC
+ココ「違うよぅ……お兄ちゃん……」%K%P
+Coco「No... Onii-chan...」%K%P
+0x308
+ココ「それより、早くしないと学校に遅刻するよぅ……」%K%P
+Coco「We need to get ready, or we'll be late for school...」%K%P
+0x314
+ココはまだ半分夢の中にいた。%K%P
+Coco was still half in dreamland.%K%P
+0x320
+武「学校？　遅刻？」%K%P
+Takeshi「Late for school?」%K%P
+0x32C
+武「お前は何を言ってるんだ？」%K%P
+Takeshi「What are you talking about?」%K%P
+0x338
+ココ「そういう設定なんだよぅ……」%K%P
+Coco「Well, that's just the setting it is...」%K%P
+0x344
+武「あのなぁ……」%K%P
+Takeshi「Uh, listen...」%K%P
+0x350
+武「いつまでも寝ぼけてないで、メシ行くぞメシ」%K%P
+Takeshi「Stop messing around, we're going to eat.」%K%P
+0x364
+ココ「あぁ……ＯＫ、たけぴょん……」%K%P
+Coco「Ah... Okay, Takepyon.」%K%P
+0x3D0
+俺とココが売店に行くと、他のみんなもすでに集合済みだった。%K%P
+When Coco and I made it to the kiosk, everyone had gathered there.%K%P
+0x3DC
+つぐみも、空も、優も、少年も……全員いる。%K%P
+Tsugumi, Sora, You, and the Kid... all of them.%K%P
+0x3E8
+俺は潜水艦の中へと入り込み、冷蔵庫を開いた。%K%P
+I made my way into the submarine and opened up the refrigerator.%K%P
+0x3F4
+武「おっ！」%K%P
+Takeshi「Oh!」%K%P
+0x400
+奥の方に隠されていたソーセージを発見。%K%P
+I spotted sausages hidden in the back.%K%P
+0x40C
+俺はみんなにホットドッグを作ってやることにした。%K%P
+I decided to make everyone hotdogs.%K%P
+0x418
+やがて、人数分の朝食を作り終えた俺は、カウンターから身を乗り出し、こう告げた。%K%P
+Soon after I'd made breakfast for everyone, I leaned out over the counter and said...%K%P
+0x424
+武「おらぁ、食いたい奴ぁ順に前に出ろ！」%K%P
+Takeshi「Alright, whoever wants to eat, get in line!」%K%P
+0x438
+ココ「じゃあココ一番」%K%P
+Coco「I'm first!」%K%P
+0x444
+武「おお！？　どうぞどうぞ」%K%P
+Takeshi「Oh!? Well, here ya go.」%K%P
+0x458
+ココ「さんきゅー♪」%K%P
+Coco「Thank you〜」%K%P
+0x46C
+武「ケチャップとマスタードはセルフサービスになっております」%K%P
+Takeshi「Help yourself to ketchup and mustard.」%K%P
+0x480
+少年「あ、ぼくにもひとつください……」%K%P
+Kid「Uh, I'd like one too...」%K%P
+0x49C
+優「ちょっとぉ、並びなさいよぉ、次はわ・た・し」%K%P
+You「Hey, wait in line! The next person is M-E-!」%K%P
+0x4B0
+これはたぶん、この場所で日常的に繰り返されてきた光景。%K%P
+That was probably the way things usually were at the shop.%K%P
+0x4BC
+いまだ俺達がここから脱出できるという見込みは立っていない。%K%P
+There still wasn't any schedule as to when we might get out of LeMU.%K%P
+0x4C8
+しかし、難しく悲観的に考えるのは止めた。%K%P
+But in the meantime, we'd stopped thinking about the difficult and negative things.%K%P
+0x4DC
+少年「なんか知らないけど、楽しそうだね」%K%P
+Kid「I'm not sure why, but you look like you're having fun.」%K%P
+0x4E8
+武「え、俺？　楽しいっていうか……楽しいかな？　そう見える？」%K%P
+Takeshi「Who, me? You think so? Fun... I guess, maybe...」%K%P
+0x504
+ココ「うん、なんか暮らしイキイキ！　って感じ」%K%P
+Coco「Yeah, you look like you might even be enjoying your life here.」%K%P
+0x518
+武「どんな感じだそれは……でも、結構面白いぞ。屋台経営は！」%K%P
+Takeshi「I wonder how that'd feel... I guess it'd be kind of fun, owning a stand like this!」%K%P
+0x52C
+少年「屋台……経営……」%K%P
+Kid「Owning... a stand...」%K%P
+0x538
+ココ「たけぴょん、本物の屋台のおにいちゃんみたい」%K%P
+Coco「Takepyon, you really do look like you work here.」%K%P
+0x544
+武「おう、まいど。御代はいらないよ」%K%P
+Takeshi「Hotdogs, get your hotdogs! They're on the house!」%K%P
+0x550
+ココ「ひょっとしてひょっとすると、前世がホットドッグ屋さんだったかもね」%K%P
+Coco「You don't think that maybe you could have sold hotdogs in a past life?」%K%P
+0x55C
+武「お客さん、そりゃあ誉めすぎだ……」%K%P
+Takeshi「Aw shucks, dear customer, you're just sayin' that...」%K%P
+0x578
+優「違うってココ、ミスターホットドッグというよりは」%K%P
+You「No, Coco. I don't think he was a hotdog man, I think he was...」%K%P
+0x58C
+優「……サンドイッチマン？」%K%P
+You「...A sandwich man?」%K%P
+0x598
+武「優、お前なぁ」%K%P
+Takeshi「Ah, come on, You!」%K%P
+0x5AC
+優「あっはっは……」%K%P
+You「Ahahahaha...」%K%P
+0x5C0
+熱々のホットドッグを受け取った３人は、はふはふしながら、屋台のそばを離れていった。%K%P
+The three of them took their hotdogs and walked a short distance from the stand, laughing.%K%P
+0x5CC
+すると、入れ替わるように、ふらりとつぐみがやって来る。%K%P
+And as if they had traded places, Tsugumi came up.%K%P
+0x5E0
+つぐみ「何かあったの？」%K%P
+Tsugumi「What just happened?」%K%P
+0x5EC
+武「いや、みんなでホットドッグ食ってるだけだよ。ほら、お前のもある」%K%P
+Takeshi「Ah, everyone was eating hotdogs. Hey, I've got one for you too.」%K%P
+0x5F8
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x60C
+つぐみは礼も言わずにそれを手に取り、部屋の隅っこの方へと向かった。%K%P
+Tsugumi took it without a word of thanks and went to the corner of the room.%K%P
+0x618
+空は今、少年と何か話している。%K%P
+Sora was talking with the Kid.%K%P
+0x624
+空にだけ御馳走できないのが、少し残念ではあった。%K%P
+I was a bit sad that I couldn't make anything for her.%K%P
+0x630
+俺は自分のぶんのホットドッグを頬張りながら、カウンター越しにみんなの姿をぼんやりと眺めていた。%K%P
+Still leaning over, I greedily stuffed my own hotdog into my mouth and watched everyone from where I was.%K%P
+0x63C
+今日は５月３日――。%K%P
+It was May 3rd―%K%P
+0x648
+ここに閉じ込められてから、もう３日目だ。%K%P
+It had been three days since we'd been trapped.%K%P
+0x654
+その割りにはみんな、疲れも悲愴感も見せずに明るかった。%K%P
+But everyone was bright and showed no feeling of fatigue or sadness.%K%P
+0x660
+中でも飛び切り元気だったのはココ――。%K%P
+Especially Coco―%K%P
+0x66C
+１日の夜にあれほど苦しんでいたのが嘘のようだ。%K%P
+It was hard to believe that she had suffered so much that first night.%K%P
+0x678
+ココはピピの尻尾を意味も無くいじって遊んでいた。%K%P
+For no reason, Coco was playing with Pipi's tail.%K%P
+0x684
+その笑顔を眺めていると、なぜかふと、ココに再会したあのときの様子が蘇ってきた。%K%P
+Looking at her smiling face, I suddenly remembered how we had bumped into each other again.%K%P
+0x690
+俺がエレベーターからココを救出した、あのときの光景が……。%K%P
+After I got her out of the elevator, I seemed to remember...%K%P
+0x6C8
+ココ「あっ！」%K%P
+Coco「Ah!」%K%P
+0x6D4
+武「あっ！」%K%P
+Takeshi「Ah!」%K%P
+0x6E0
+ココ「あのときの！」%K%P
+Coco「You're that guy from before!」%K%P
+0x6EC
+武「あのときの！」%K%P
+Takeshi「You're that girl from before!」%K%P
+0x6F8
+俺と彼女は、お互いに指をさして静止した。%K%P
+The girl and I pointed at each other and froze.%K%P
+0x704
+ピピ「わんっ！」%K%P
+Pipi「*Woof*!」%K%P
+0x710
+彼女の足元から１匹の仔犬が顔を出す。%K%P
+I spotted the scruffy face of a dog circling around her feet.%K%P
+0x71C
+武「ポポ……」%K%P
+Takeshi「Popo...」%K%P
+0x728
+ココ「『ポポ』じゃないよぉ……」%K%P
+Coco「His name's not 'Popo'...」%K%P
+0x734
+ココ「この子はピピ、私はココ……ごっちゃにしないでよね？」%K%P
+Coco「This little guy's name is Pipi, and my name's Coco... Try not to mix them up, okay?」%K%P
+0x740
+武「でも、なんでこんなところに？」%K%P
+Takeshi「But... what are you doing here?」%K%P
+0x74C
+ココ「なんでって言われても……」%K%P
+Coco「Well, what do you expect me to say to that...?」%K%P
+0x758
+ココ「下のフロアに行こうと思ったら……突然、このエスカレーターが止まっちゃって……」%K%P
+Coco「I was trying to go to one of the lower levels, and all of a sudden this escalator stopped, and...」%K%P
+0x764
+武「エスカレーターじゃなくて、エレベーター、な？」%K%P
+Takeshi「It isn't an escalator, it's an elevator, alright?」%K%P
+0x770
+ココ「きゃはっ、間違えちゃった……エベレーターね？」%K%P
+Coco「Haha, oops... I mean evelator, okay?」%K%P
+0x77C
+武「エベレーターじゃなくて、エレベーター、な？」%K%P
+Takeshi「No, NOT e-ve-lator, E-LE-VA-TOR.」%K%P
+0x788
+武「自動式階段がエスカレーター、箱型昇降機がエレベーター……ごっちゃにしないように」%K%P
+Takeshi「If you're on a moving staircase, that's called an escalator, and if you're in a box that goes up and down, that's an elevator... Try not to mix them up.」%K%P
+0x794
+ココ「…………」%K%P
+Coco「.........」%K%P
+0x7A0
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x7AC
+ココ「もうっ、そんなのどっちでもいいでしょ？」%K%P
+Coco「Does it really matter?」%K%P
+0x7B8
+ココ「とにかく、理由はわからないけど、いきなりこの箱の中に閉じ込められちゃったの」%K%P
+Coco「Anyway, I don't know why, but all of a sudden I was trapped in this box.」%K%P
+0x7C4
+武「そっか……」%K%P
+Takeshi「Really...」%K%P
+0x7D0
+ココ「ねえ？」%K%P
+Coco「Hey?」%K%P
+0x7DC
+武「ん？」%K%P
+Takeshi「Hmmm?」%K%P
+0x7E8
+ココ「早く……出して欲しいんですけど……」%K%P
+Coco「I'd kind of like to get out of here... soon...」%K%P
+0x7F4
+武「あ、ああ、悪い悪い」%K%P
+Takeshi「Oh, aah, I'm sorry.」%K%P
+0x800
+言いながら、俺は天井の上に腹ばいになった。%K%P
+I said that and got down on my stomach from atop the elevator.%K%P
+0x80C
+小さな穴から身を乗り出すようにして、ココの方へと腕を伸ばす。%K%P
+I leaned down from the small hole and stuck my hand out to Coco.%K%P
+0x818
+ココ「先に、ピピをお願い」%K%P
+Coco「Please, help Pipi first.」%K%P
+0x824
+ココはピピを抱き上げて、思い切り背伸びをし、それを高く掲げた。%K%P
+Coco held Pipi up to me, stretching as far as she could to make him reach.%K%P
+0x830
+俺はピピの前足をつかんで引っぱりあげ、天井の上に乗せた。%K%P
+I grabbed onto Pipi's front legs and pulled him out from the hole in the ceiling.%K%P
+0x83C
+武「さあ、次はココの番だ」%K%P
+Takeshi「Okay, it's your turn next, Coco.」%K%P
+0x848
+俺は再び手を差し出した。%K%P
+I stuck out my hand again.%K%P
+0x870
+ココ「うりゃっ、うりゃっ、とうっ！」%K%P
+Coco「Aia! Wah! Ayah!」%K%P
+0x87C
+ココはジャンプを繰り返し、俺の手につかまろうとした。%K%P
+Coco jumped over and over, reaching out for my hand.%K%P
+0x888
+だが、身長が低いせいか、ジャンプ力が乏しいせいか、俺の指先にはかすりもしない。%K%P
+But... either she was too short or just couldn't jump, because she didn't even reach my fingertips.%K%P
+0x8B0
+ココ「とりゃ！」%K%P
+Coco「Toriiyaa!」%K%P
+0x8D8
+ココ「うりゃ！」%K%P
+Coco「Uuuriya!」%K%P
+0x900
+ココ「えいっ！」%K%P
+Coco「Eeeiii!」%K%P
+0x928
+ココ「やぁっ！」%K%P
+Coco「Yaah!」%K%P
+0x950
+ココ「あちょーーーっ！」%K%P
+Coco「Waachooo!」%K%P
+0x988
+次に俺は、何気なく空の方へと視線を向けた。%K%P
+Next, I looked over to where Sora was.%K%P
+0x994
+空は少年の隣に立って、つぐみに何か語りかけていた。%K%P
+She was standing next to the Kid and talking with Tsugumi about something.%K%P
+0x9A0
+ここからでは、何を話しているのかは聞こえない。%K%P
+I couldn't hear what they were talking about from where I was.%K%P
+0x9AC
+茜ヶ崎空――。%K%P
+Akanegasaki Sora―%K%P
+0x9B8
+それにしても、彼女がＲＳＤ、幻影だったとはなぁ……。%K%P
+It was hard to believe she was only an illusion generated by RSD...%K%P
+0x9C4
+俺は改めて、遠く離れた空の姿をじっと見つめてみた。%K%P
+I stared at her again from a distance.%K%P
+0x9D0
+昨日聞いた空の言葉を、ぼんやりと思い出す……。%K%P
+I remembered what we'd talked about the day before...%K%P
+0xA10
+空「ところで倉成さん……」%K%P
+Sora「By the way, Kuranari-san...」%K%P
+0xA24
+空「倉成さんは……月を見たことがありますか？」%K%P
+Sora「Kuranari-san... Have you ever seen the moon?」%K%P
+0xA30
+武「ははっ、あるに決まってるだろ？」%K%P
+Takeshi「Hahaha! Yeah, are you kidding?」%K%P
+0xA44
+空「では満月の晩、倉成さんが月を見上げていたとします」%K%P
+Sora「Well, now let's say that you have seen a full moon.」%K%P
+0xA50
+空「そのとき、倉成さんが目を閉じてしまっても、月はそこにあると思いますか？」%K%P
+Sora「And let's say that you closed your eyes. Do you think the moon would still be there?」%K%P
+0xA5C
+武「なに当たり前のこと聞いてるんだよ」%K%P
+Takeshi「Why are you asking such obvious questions?」%K%P
+0xA68
+武「あるに決まってるじゃないか」%K%P
+Takeshi「Of course it would.」%K%P
+0xA7C
+空「ならば、世界中の人間が、いっせいに目を閉じたとしたらどうでしょう？」%K%P
+Sora「And how about if everyone in the world closed their eyes all at the same time?」%K%P
+0xA88
+武「質問の主旨はよくわからないが……世界中の人間が目を閉じたって、月は決して消えたりしないよ」%K%P
+Takeshi「I don't know what your point is, but... even if everyone in the world closed their eyes, the moon wouldn't disappear.」%K%P
+0xA9C
+空「本当ですか？」%K%P
+Sora「Really?」%K%P
+0xAA8
+武「ああ」%K%P
+Takeshi「Yeah.」%K%P
+0xAB4
+空「どうやって確かめます？」%K%P
+Sora「How can you be sure?」%K%P
+0xAC0
+武「目を開いてみればいいんじゃないか？」%K%P
+Takeshi「Just open your eyes, right?」%K%P
+0xAD4
+空「それでは仮定に背くことになります」%K%P
+Sora「That goes against the purpose of this exercise.」%K%P
+0xAE0
+空「私がお尋ねしたのは『観測せずに、月があるかどうかを確かめる方法は存在するか？』ということです」%K%P
+Sora「My question was whether or not there is any way of verifying that the moon exists if someone closes their eyes.」%K%P
+0xAEC
+空「倉成さんが目を閉じたときにも、世界は本当にあるのでしょうか？」%K%P
+Sora「When you close your eyes, do you think this world still exists?」%K%P
+0xAF8
+空「もしも、私の画像だけではなく、このＬｅＭＵの一切合切がすべてＲＳＤによる幻影だとしたら……どうしますか？」%K%P
+Sora「What if I told you that not only myself, but all of LeMU was nothing but an RSD-generated illusion... What would you do then?」%K%P
+0xB04
+空「倉成さんが今御覧になっている壁や、天井や、その他の景色のすべてを、実像だと証明することができますか？」%K%P
+Sora「Can you prove that the walls, the ceiling, and all of the scenery that you are observing actually exist?」%K%P
+0xB18
+空「ふふっ、ごめんなさい、冗談ですよ」%K%P
+Sora「Haha, I'm sorry. I was only joking.」%K%P
+0xB24
+武「冗談？」%K%P
+Takeshi「That's a joke?」%K%P
+0xB30
+空「ええ、ＬｅＭＵは確かに実在します」%K%P
+Sora「Yes, LeMU really does exist.」%K%P
+0xB3C
+空「倉成さんがあまりにも自信たっぷりにお答えになったので……ちょっとからかってみたくなっただけです」%K%P
+Sora「You sounded so full of confidence when you answered... I thought I would tease you just a bit.」%K%P
+0xB50
+空「しかし、これだけは言えます」%K%P
+Sora「However, I can say this.」%K%P
+0xB5C
+空「人間が世界を認識する為には、五感のうちのいずれかを使う以外に方法はありません」%K%P
+Sora「For humans to know the world around them, they must use one of their five senses.」%K%P
+0xB68
+空「すべての感覚を失ってしまったら、世界があるのかどうかさえわからなくなってしまうのです」%K%P
+Sora「If they lose all of these, they lose the ability to tell whether this world exists or not.」%K%P
+0xB7C
+空「逆に言えば、視点こそが、世界を作っていると言えるかもしれませんね」%K%P
+Sora「Another way of putting it might be to say that the perspective is in the eye of the beholder.」%K%P
+0xB88
+空「この場合の視点とは『視覚』のことだけを指しているのではなく、聴覚、嗅覚、味覚、触覚のすべての感覚を指しています」%K%P
+Sora「In this instance, I don't mean just sight, but hearing, smell, taste, and touch as well. All of the senses.」%K%P
+0xB94
+空「物事を知覚するポイント――それが視点なのです」%K%P
+Sora「The point at which we perceive the world―that is perspective.」%K%P
+0xBA8
+空「そして私は……」%K%P
+Sora「And I...」%K%P
+0xBBC
+空「私は……月と同じなのです」%K%P
+Sora「I... I am the same as the moon.」%K%P
+0xBFC
+まぶたを閉じれば消えてしまう存在……。%K%P
+Her existence disappeared when I closed my eyes...%K%P
+0xC08
+けれど、空は俺達と同じように、いや、俺達以上に『人間らしい温かさ、人を思いやる気持ち』を持っているような気がする。%K%P
+But I felt that Sora had just as much as, no, maybe even more human warmth and caring than the rest of us.%K%P
+0xC14
+それに引きかえ、あのつぐみの冷たさと言ったら……。%K%P
+Then again, there was Tsugumi's coldness...%K%P
+0xC54
+つぐみ「ふぅん……見かけによらず、まともなことも考えられるのね」%K%P
+Tsugumi「Hmmm...? I guess you're not as dumb as you look.」%K%P
+0xC60
+武「見かけによらず、ってどういう意味だよ」%K%P
+Takeshi「What do you mean by that?」%K%P
+0xC6C
+つぐみ「そのまんまの意味よ」%K%P
+Tsugumi「I mean exactly what I said.」%K%P
+0xC78
+つぐみ「あなた、頭悪そうだから」%K%P
+Tsugumi「You don't look that smart.」%K%P
+0xC84
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xC98
+つぐみ「これは、罠よ」%K%P
+Tsugumi「This is a trap.」%K%P
+0xCA4
+つぐみ「きっとあなたは出られない」%K%P
+Tsugumi「And you probably aren't going to get out.」%K%P
+0xCB0
+つぐみ「いえ、あなただけじゃなく、他の４人も、全員」%K%P
+Tsugumi「No, not just you, but everyone else as well. All four of them.」%K%P
+0xCBC
+つぐみ「みんな同じよ」%K%P
+Tsugumi「You're all the same.」%K%P
+0xCC8
+武「じゃあ、つぐみは？」%K%P
+Takeshi「Well, what about you then, Tsugumi?」%K%P
+0xCDC
+つぐみ「私は……」%K%P
+Tsugumi「I...」%K%P
+0xCF0
+つぐみ「そうね。ここで死んでもいいかな」%K%P
+Tsugumi「Yeah. I suppose I could die in a place like this.」%K%P
+0xCFC
+つぐみ「それも、悪くないかも」%K%P
+Tsugumi「It wouldn't be bad at all, I guess.」%K%P
+0xD3C
+あのときの凍りつくような笑みが、俺はいまだに忘れられない。%K%P
+I couldn't forget the cold smile that she had on her face as she said those words.%K%P
+0xD48
+そんなことを思いながらつぐみを眺めていると、彼女は俺の視線を感じ取ったのか、チラリと俺の方を向いた。%K%P
+I was thinking that and looking at her. I wasn't sure if she could feel my gaze, but she turned to look over at me.%K%P
+0xD54
+俺は、なぜか心を見透かされたような気がして、目をそらした。%K%P
+For some reason, I felt like she could see what I was thinking, and I avoided her eyes.%K%P
+0xD60
+すると、続いて視界に飛び込んで来たのは、優の姿だった。%K%P
+The next person to jump into my field of view was You.%K%P
+0xD6C
+ホットドッグを食べ終えた優は、今、ココと手を繋いで踊っていた。%K%P
+You had finished eating her hotdog and was dancing hand in hand with Coco.%K%P
+0xD78
+フォークダンスか何かだろうか？%K%P
+I wondered if it was some kind of folk dance.%K%P
+0xD84
+はちきれんばかりの笑みをたたえて、キャッキャキャッキャと浮かれ騒いでいる。%K%P
+She smiled so widely that it seemed like her face might split, and she laughed boisterously.%K%P
+0xD90
+らんらんと輝く瞳……。%K%P
+Her eyes shone so brightly...%K%P
+0xD9C
+しかし俺は知っているのだった……。%K%P
+But I knew...%K%P
+0xDA8
+その瞳の奥に秘められた、悲しい過去を……。%K%P
+There was a sad past hidden behind those eyes...%K%P
+0xDB4
+彼女の父親は、今から１７年前に行方不明になったのだと言う。%K%P
+Her father had disappeared seventeen years earlier.%K%P
+0xDC0
+俺はふと、昨日聞いた優の話を思い出した。%K%P
+I thought about the talk I'd had with You the day before.%K%P
+0xDCC
+彼女がアルバムなんてものを持ち歩いている理由は、父親との絆に代わる何かを、過去の想い出の中に求めているからなのかも知れない。%K%P
+Maybe the reason she carried that album around with her was that she wanted something to connect her with the memories of her father.%K%P
+0xE04
+俺は昨日（５月２日）……ぶらりと立ち寄ったレムリア遺跡の門前で、優とココの姿を見かけた。%K%P
+I'd bumped into You and Coco in front of the Lemurian Ruins the previous day (May 2nd).%K%P
+0xE10
+優の手の平には何か……文庫本か手帳のようなものがあり、彼女はその開かれたページを眺めていた。%K%P
+In the palm of You's hand was... some kind of journal or notebook. She had it opened and was staring at a page.%K%P
+0xE1C
+それを、隣に立ったココが、一緒になってのぞき込んでいた。%K%P
+Coco was standing next to her, peering over her shoulder.%K%P
+0xE28
+武「何見てるんだ？」%K%P
+Takeshi「What'cha looking at?」%K%P
+0xE3C
+ココ「うんとねぇ、うんとねぇ、お写真、見てたの」%K%P
+Coco「Um, uh, we were, um, looking at these pictures.」%K%P
+0xE48
+武「写真？」%K%P
+Takeshi「Pictures?」%K%P
+0xE54
+優「見たい？」%K%P
+You「You want to see them?」%K%P
+0xE60
+武「ああ」%K%P
+Takeshi「Sure.」%K%P
+0xE6C
+優「じゃあ、見せてあげよう」%K%P
+You「Okay, I'll show you.」%K%P
+0xE80
+優が俺に手渡したものは、文庫本でも手帳でもなく、１冊のファイルだった。%K%P
+What You handed over to me was neither a journal nor notebook, but a single file.%K%P
+0xE8C
+手の平にちょうど収まるぐらいの小さなファイルだ。%K%P
+One small enough to fit in the palm of my hand.%K%P
+0xE98
+ページは開かれたままで、インスタントカメラの写真が数枚挿し込まれていた。%K%P
+It was already open, and it had several pictures taken from an instant camera stuffed between the pages.%K%P
+0xEA4
+赤ん坊の写真だった。%K%P
+They were baby pictures.%K%P
+0xEB0
+武「これはまさか……」%K%P
+Takeshi「It can't be...」%K%P
+0xEBC
+武「優の子供！？」%K%P
+Takeshi「Your baby!?」%K%P
+0xED0
+優「バ〜カ！」%K%P
+You「Nooo, stupid!」%K%P
+0xF08
+優「私、まだ１８よ？　独身なのよ、独身！」%K%P
+You「I'm eighteen, okay? And I'm single. Single!」%K%P
+0xF14
+武「だよなぁ……」%K%P
+Takeshi「Yeah right...」%K%P
+0xF20
+武「ってことは、この赤ん坊は……？」%K%P
+Takeshi「Which means that this baby is...?」%K%P
+0xF3C
+ココ「なっきゅ、だよ？」%K%P
+Coco「It's Nakkyu, dummy.」%K%P
+0xF48
+ココ「なっきゅがちっちゃかった頃の、お写真なんだって」%K%P
+Coco「These are from when Nakkyu was a little bitty baby!」%K%P
+0xF54
+武「そんなもんを見て、ふたりで笑ってたのか？」%K%P
+Takeshi「So this is what you were laughing about?」%K%P
+0xF60
+優「いけない？」%K%P
+You「Something wrong with that?」%K%P
+0xF74
+優「だって、かわいいでしょ？　子供の頃の私」%K%P
+You「I mean, they're adorable, right? My baby pictures.」%K%P
+0xF80
+優「あっ、もちろん今でも、かわいいことに変わりはないんだけどね？」%K%P
+You「Uh, and of course the fact that I'm cute hasn't changed a bit, you know.」%K%P
+0xF8C
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xFA0
+優「それから……えーっと……ちょっと貸して？」%K%P
+You「Oh, and... um... can you hand those back?」%K%P
+0xFAC
+と言って、優は俺の持っていたファイルを奪い取り……%K%P
+And saying that, You snatched the file out of my hands...%K%P
+0xFC0
+優「これが、七五三のときの私で……」%K%P
+You「This picture is from when I was dressed up in a kimono as a kid...」%K%P
+0xFCC
+優「これが、運動会の応援団長をやったときのやつで……」%K%P
+You「And in this, I was head cheerleader for an athletic event at school.」%K%P
+0xFD8
+優「えーっと……それからこれは、中学校の入学式のときの写真でしょう」%K%P
+You「And... Oh, this one's from my first day of middle school.」%K%P
+0xFE4
+ページを次々とめくりながら、優は続けた。%K%P
+You continued to flip through the pages.%K%P
+0xFF8
+優「これは、高校の文化祭のときに撮ったやつ」%K%P
+You「And here's one that I took at the talent show my freshman year in high school.」%K%P
+0x1004
+優「ケーコ、みんみん、ベティ、ちーちゃん、ビーフ山本……あっ、これは一応先生ね？」%K%P
+You「Here's Keiko, Min-min, Betty, Chi-chan, Beef Yamamoto... Oh, and I couldn't forget my teacher, right?」%K%P
+0x1010
+優「花火大会でしょ……温泉旅行でしょ……あみちゃんちに泊まったときの写真でしょ……」%K%P
+You「And the fireworks festival... Here's my trip to the hot springs... Oh! And one from that time I stayed at Ami-chan's!」%K%P
+0x1024
+優「それからそれから……ん？　なんだ、これ？」%K%P
+You「And here we have... Huh? What is this?」%K%P
+0x1038
+優「ああ、はいはいはいはい、夜中に学校に忍び込んだときのやつだぁ……」%K%P
+You「Oooh, that's riiight. This is when we sneaked into school that one night...」%K%P
+0x1044
+優「卒業式のはねぇ……確か最後の方に……えーっと……」%K%P
+You「And of course, the graduation ceremony... There was one more... Uuummm...」%K%P
+0x1058
+優「これこれ、ふふっ、ぶさいくでしょ？　泣いちゃったあとだから……」%K%P
+You「Here it is, heh heh. It's hideous, right? I'd been crying and crying...」%K%P
+0x1064
+優がこれまでに経験してきた数々の歴史……。%K%P
+So much of You's history was there...%K%P
+0x1070
+笑顔、悲しい顔、おどけている顔、驚いた顔、照れている顔……。%K%P
+Smiling faces, sad faces, silly faces, surprised faces, even shy faces...%K%P
+0x107C
+女の子の友達がいて、男の子の友達もいて、教師がいて、人がいて、昼があり、夜があり、木漏れ陽があり、雨があり、風があった。%K%P
+There were girlfriends, boyfriends, teachers, people, afternoons, nights, good times, and hard times...%K%P
+0x1088
+当たり前のことかも知れないけれど、そこに写っていたのは、俺の知らない人々と、俺の知らない景色と、俺の知らない優だった。%K%P
+It went without saying, but shown in those photos were people I didn't know, places I didn't know, and a You that I didn't know.%K%P
+0x1094
+優「あとはねぇ、あとはねぇ……」%K%P
+You「Oh, and, and...」%K%P
+0x10A0
+優はなおも続けそうな勢いだったので、俺は慌てて口をはさんだ。%K%P
+You looked like she had no intention of stopping, so I rushed to get a word in.%K%P
+0x10AC
+武「なあ、優？　結局それは、なんなんだ？　アルバムか？」%K%P
+Takeshi「Um, You? So what is this, your life's history album or something?」%K%P
+0x10C0
+優「アルバムねぇ……そんなふうに呼んだことはないけど……」%K%P
+You「A history album... Well, I've never called it that before...」%K%P
+0x10CC
+優「まあ、ジャンルとしては、アルバムに分類されるのかな？」%K%P
+You「But if you had to label it, I guess you could call it that.」%K%P
+0x10D8
+武「で、どうしてお前、アルバムなんて持ってるんだ？」%K%P
+Takeshi「Uh, so why are you carrying that with you?」%K%P
+0x10E4
+優「ん？　なんでそんなこと聞くの？」%K%P
+You「Huh? Why do you even need to ask?」%K%P
+0x10F8
+ココ「たけぴょん、知らないの？　女の子はみんな、こういうの持ってるんだよ、普通」%K%P
+Coco「Takepyon, you don't know? All girls carry around things like this. It's normal.」%K%P
+0x1104
+武「そう、なのか？」%K%P
+Takeshi「You don't say?」%K%P
+0x1118
+優「うん」%K%P
+You「Yeah.」%K%P
+0x1124
+ココ「少なくとも、ココのまわりにいる女の子は、みんな持ち歩いてるよ？」%K%P
+Coco「Well, all the girls I know carry them around.」%K%P
+0x1138
+優「みんな、今頃なにしてるのかなぁ〜」%K%P
+You「I wonder what everyone is doing right about now...」%K%P
+0x1144
+優はページをめくりながら、ぽつりと呟いた。%K%P
+You murmured softly to herself as she flipped through the pages.%K%P
+0x1150
+優「私のこと、もしかして心配してくれてたりするのかなぁ？」%K%P
+You「Do any of these people ever worry about me?」%K%P
+0x1164
+ココ「あっ、そうだ……」%K%P
+Coco「Oh yeah...」%K%P
+0x1170
+ココ「たけぴょんはさぁ、ママとパパと一緒に住んでるの？」%K%P
+Coco「Do you live with your mom and dad, Takepyon?」%K%P
+0x117C
+ココ「それとも、ひとり暮らし？」%K%P
+Coco「Or do you live by yourself?」%K%P
+0x1188
+ココは唐突に、そんな質問を投げかけてきた。%K%P
+Coco threw the question at me abruptly.%K%P
+0x1194
+俺は答える前に、同じ質問をココに投げ返した。%K%P
+Before answering, I tossed the question back.%K%P
+0x11A0
+武「ココは？　お前は、もちろん両親と一緒に住んでるんだよなぁ？」%K%P
+Takeshi「How about you, Coco? You're probably still living with your parents, aren't you?」%K%P
+0x11B4
+ココ「ココ、１４歳なんだよ？　当たり前でしょ？」%K%P
+Coco「Well, I'm fourteen, aren't I? Of course I am.」%K%P
+0x11C8
+ココ「あっ、だけど今、パパは家にいないけど……」%K%P
+Coco「Ah, well, right now my dad isn't at home, but...」%K%P
+0x11D4
+武「ん？　なんで？」%K%P
+Takeshi「Hmm? Why not?」%K%P
+0x11E8
+ココ「『しゅっちょーちゅー』だから」%K%P
+Coco「Because he's on a 'business trip', that's why.」%K%P
+0x11F4
+武「ああ、そういうことな」%K%P
+Takeshi「Oh, I see.」%K%P
+0x1200
+武「んで、優の方は？　お前は、両親と同居してるのか？　それとも……」%K%P
+Takeshi「And what about you, You? Are you living with your parents, or...」%K%P
+0x120C
+『やべっ、やっちまったぁ』――気がついたのは、言ってしまった後だった。%K%P
+(Oh! Duh! Why did I ask that!?)―I realized it'd been a mistake to ask that.%K%P
+0x1218
+優の父親は、行方不明になっているのだ。%K%P
+You's dad was missing.%K%P
+0x1224
+優はまったく気にしていない様子でこう答えた。%K%P
+But it didn't seem as if she cared one way or another.%K%P
+0x1230
+優「私は、お母さんと一緒に住んでる」%K%P
+You「I'm living with my mom.」%K%P
+0x123C
+優「でも、心配なんかしてないと思うなぁ」%K%P
+You「But I doubt she's really worried about me.」%K%P
+0x1248
+優「そういう人だから、あの人……」%K%P
+You「That's just the kind of person she is, my mom...」%K%P
+0x1254
+武「そういう人？」%K%P
+Takeshi「What do you mean?」%K%P
+0x1260
+優「楽観的って言うかなんて言うか……あんまり、物事に動じるようなタイプの人じゃないのよねぇ」%K%P
+You「I guess you could call her a positive thinker... She isn't the type to really let herself get caught up in things.」%K%P
+0x126C
+優「無断外泊とかしても、全然平気みたいだし……」%K%P
+You「She doesn't care if I stay out all night...」%K%P
+0x1278
+優「今まで１８年間あの人と付き合ってきたけど……うるさく言われたことなんか一度もないんだ」%K%P
+You「I've been living with her for eighteen years... but she's never raised her voice at me once.」%K%P
+0x1284
+優「私、放任主義で育てられたの」%K%P
+You「I grew up pretty much doing whatever I wanted.」%K%P
+0x1290
+優「だから、こんなふうになっちゃったのかもね？」%K%P
+You「I suppose that's why I turned out the way I did.」%K%P
+0x129C
+優はアルバムのページを開いて見せた。%K%P
+You showed me a page from her album that she'd turned to.%K%P
+0x12A8
+そこには、パロスペシャルを華麗に決めている優の姿が写っていた。%K%P
+There was You, putting the hurt on some wrestler.%K%P
+0x12B4
+パロられているのは、屈強そうなひとりの男子であった。%K%P
+And the guy looked like a bulky jock of sorts.%K%P
+0x12F4
+長い回想から覚め、現実に戻ると、少しだけ景色が変わっていた。%K%P
+Coming out of my reverie, I noticed the scene had changed a bit.%K%P
+0x1300
+優と少年の姿がなかったのだ。%K%P
+You and the Kid had taken off somewhere.%K%P
+0x130C
+隣の憩いの間へと移動したのかも知れない。%K%P
+Maybe they'd gone to the rest area next door.%K%P
+0x1318
+武「ああ、それにしても、たったの２日間だって言うのに、いろんなことがあったよなぁ……」%K%P
+Takeshi「It's only been two days, and so much has happened...」%K%P
+0x1324
+武「こんなところに閉じ込められただけでも、異常事態だって言うのに……」%K%P
+Takeshi「Just being trapped here is an unusual state of affairs...」%K%P
+0x1330
+俺は思わず、独り言をこぼした。%K%P
+I said those words to myself without thinking.%K%P
+0x133C
+――と、そのときだった！%K%P
+―Just then!%K%P

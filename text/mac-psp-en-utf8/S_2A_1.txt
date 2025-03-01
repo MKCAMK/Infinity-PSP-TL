@@ -1,0 +1,504 @@
+text area offset and size:
+0x1218
+0x1F3F
+0xB4
+加圧を始めてから、どれだけ時間が経っただろうか。%K%P
+I wondered how much time had passed since the pressurization had started.%K%P
+0xC0
+気がつくと、すでに日付は変わっているようだった。%K%P
+I noticed that the date had already changed.%K%P
+0xCC
+ぼくらは固い床の上で、治療の終了をじっと待ち続けている。%K%P
+I waited on the hard floor for the treatment to finish.%K%P
+0xD8
+武「う〜ん……う〜ん…………むにゃむにゃ……」%K%P
+Takeshi「Um... ummmna... myuna... myuna.」%K%P
+0xE4
+……ただひとりの例外を除いて。%K%P
+...He was the only one of us...%K%P
+0xF8
+優「ったく、うっさいわね……このバカは」%K%P
+You「Geez, he's so loud... That idiot.」%K%P
+0x104
+沙羅「せんぷぁーい……眠れましぇーん……」%K%P
+Sara「Nakkyu... I can't sleep... at all...」%K%P
+0x110
+狭い室内に響き渡る、武の寝言。%K%P
+Takeshi's sleeptalking echoed throughout the room.%K%P
+0x11C
+精神が昂揚していたことも相まって、ぼくら３人は、とてもじゃないけど眠れる状態ではなかった。%K%P
+We were mentally drained. The three of us were in no state to sleep.%K%P
+0x128
+いや、眠れないばかりか、次第に苛立ちさえも覚えるようになっていた。%K%P
+No, it was worse than that. Gradually, we had started to go mad.%K%P
+0x134
+少年「ねぇ、起こして注意しようか？」%K%P
+Kid「Why don't we just wake him up and tell him?」%K%P
+0x140
+優「無駄よ。寝言とかイビキって、本人の意志とは無関係なんだから」%K%P
+You「It's no use. Snoring and talking in your sleep aren't things that people can control.」%K%P
+0x14C
+少年「じゃあ、テープで口を塞いじゃうとか？」%K%P
+Kid「We could tape his mouth shut...?」%K%P
+0x160
+沙羅「それよりも、濡れタオルを顔に被せる方が……」%K%P
+Sara「Or even better, we could drape a wet towel over his face...」%K%P
+0x16C
+少年「……死んじゃうんじゃないの？」%K%P
+Kid「...Wouldn't that kill him?」%K%P
+0x180
+優「うーん、そうねぇ……」%K%P
+You「Yeah, you're right...」%K%P
+0x194
+優「っていうか、そもそも、なんでコイツだけベッドで寝てんのよっ！」%K%P
+You「Why is HE the only one that gets to sleep on the bed?」%K%P
+0x1BC
+言いながら優は、ゲシッとベッドに足蹴りを食らわせた。%K%P
+You let the bed have a swift kick as she said that.%K%P
+0x248
+武「……やめろって…………くすぐったいよ〜〜……」%K%P
+Takeshi「Stop it... I said that tickles...」%K%P
+0x25C
+武「……あはっ…………あはははは……」%K%P
+Takeshi「...Aha... Woohoohoo...」%K%P
+0x270
+武「……そこ…………そこはダメだって……」%K%P
+Takeshi「...No... No... Not there...」%K%P
+0x284
+武「……それ……それ、さい…こ……う」%K%P
+Takeshi「...Oh... Yeah... Oh... I... like... that...」%K%P
+0x298
+武「……もっと……もっと…おねが……い……」%K%P
+Takeshi「...More... More... ple... ase...」%K%P
+0x2AC
+武「……う…うぅ……そんなところ……まで……」%K%P
+Takeshi「...Ooooh... Right there...」%K%P
+0x2C0
+武「……あ…ダメ…………もう…逝くッス……」%K%P
+Takeshi「...Oh... no... I'm... coming...」%K%P
+0x2D4
+そんなことはお構いなしと言わんばかりに、幸せそうな顔で熟睡している武。%K%P
+Takeshi shamelessly carried on like that, looking happily asleep.%K%P
+0x2E0
+沙羅「それにしても、どんな夢を見てるんだろうね？」%K%P
+Sara「I wonder what kind of dream he's having.」%K%P
+0x2EC
+少年「さぁ……」%K%P
+Kid「Who knows...?」%K%P
+0x300
+優「おおかた、イヤラシイ夢でも見てるんでしょうよ。このマヌケ面から察するに」%K%P
+You「I'll bet it's something sexual, judging from his stupid expression.」%K%P
+0x30C
+優は武の顔に手を伸ばすと、ほっぺをギューッとつねった。%K%P
+You reached out toward Takeshi's face and pinched his cheek.%K%P
+0x318
+すると……%K%P
+And then...%K%P
+0x334
+武「ゆ、ゆう…………優……」%K%P
+Takeshi「Y-You... You...」%K%P
+0x348
+優「えっ？」%K%P
+You「Huh?」%K%P
+0x354
+沙羅「えっ？」%K%P
+Sara「Huh?」%K%P
+0x360
+少年「…………」%K%P
+Kid「...」%K%P
+0x36C
+武「……むにゃむにゃ……」%K%P
+Takeshi「...Numya, mumya...」%K%P
+0x378
+少年「寝言……みたいだね」%K%P
+Kid「It seems... like he's talking in his sleep.」%K%P
+0x384
+沙羅「まさか、この人、なっきゅ先輩の夢を……？」%K%P
+Sara「He's not dreaming of You, is he...?」%K%P
+0x398
+優「や、やめてよねぇ……そんな、縁起でもない」%K%P
+You「Stop that... There's no way.」%K%P
+0x3E4
+武「う〜ん……う〜ん……優の身体……むにゃむにゃ……」%K%P
+Takeshi「Ooon... nyumm... You's body... nyum... myum...」%K%P
+0x3F8
+武「う〜ん……う〜ん……優って………むにゃむにゃ……」%K%P
+Takeshi「Ooonyumm... You... nyum... myum...」%K%P
+0x40C
+武「う〜ん……う〜ん……おい、優……むにゃむにゃ……」%K%P
+Takeshi「Oon... nyum... Hey, You... myumya...」%K%P
+0x428
+優「こらぁっ、倉成！　勝手にひとを夢の中に出すんじゃ――」%K%P
+You「Hey, Kuranari! How dare you have dreams abo―」%K%P
+0x4B4
+武「……なげぇ名前……親の顔が見てみてぇーよ…………むにゃむにゃ」%K%P
+Takeshi「...She's got a long name... Wants to see her dad... myumyum.」%K%P
+0x4C8
+武「……乱暴なんだっつーの……だから彼氏ができねぇんだ…………むにゃむにゃ」%K%P
+Takeshi「...And she's way too rough... That's why she can't get a guy... myumyum.」%K%P
+0x4DC
+武「……胸ないな……ないちち……ペチャペチャ♪　…………むにゃむにゃ」%K%P
+Takeshi「...And flat... as a board... myumyum.」%K%P
+0x4F0
+武「……おしゃべり女め……ウワサ好きのおばちゃんかつーの…………むにゃむにゃ」%K%P
+Takeshi「...And talks and talks... like an old hag that likes to gossip... myumyum.」%K%P
+0x504
+武「……いて！　この馬鹿力！　月までふっ飛ぶじゃねぇーか！　…………むにゃむにゃ」%K%P
+Takeshi「...Ow! Idiot! I'll kick you into next week...! Myumyum.」%K%P
+0x518
+武「……優…頼む……お願いだから…もうそれ以上は……あぁそんなこと……はしたないわ…………むにゃむにゃ」%K%P
+Takeshi「...You... Oh, no... Please... No more... Sssstop... OooOoh, that's... myumyum.」%K%P
+0x52C
+武「……優…やめろ……食わないでくれ……それは…食い物ぢゃないぞ……だから……やめてぇ…………むにゃむにゃ」%K%P
+Takeshi「...You... Stop... Don't eat... That's not food... Just stop... myumyum.」%K%P
+0x548
+優「は？」%K%P
+You「Huh?」%K%P
+0x554
+沙羅「へ？」%K%P
+Sara「What?」%K%P
+0x560
+少年「…………」%K%P
+Kid「.........」%K%P
+0x56C
+武「う〜ん……う〜ん…………優の……バカ…………」%K%P
+Takeshi「Oooow... Ooon... You... dummy...」%K%P
+0x588
+優「ちょ、ちょ、ちょ、ちょっと倉成ーーーっ！　あんた起きなさいよぉーーーーーーっっ！！」%K%P
+You「H-hey, hey, heeeey, Kuranariiii! Wake uuuup!」%K%P
+0x5BC
+武の胸ぐらを掴む優。%K%P
+You had grabbed hold of Takeshi's collar.%K%P
+0x5C8
+このまま放っておくと、武を絞め殺しかねない。%K%P
+If we didn't stop her, she might have strangled him.%K%P
+0x5DC
+沙羅「お、落ち着いて先輩。ただの寝言なんだから」%K%P
+Sara「Take it easy, Nakkyu. He's just talking in his sleep.」%K%P
+0x5E8
+少年「そ、そうだよ。本人も悪気はないんだから……たぶん」%K%P
+Kid「She's right. He doesn't mean anything by it... Probably not, anyway.」%K%P
+0x5F4
+そんなぼくらの気苦労も知らず、武はヘラヘラとニタ笑いを浮かべながら眠り続けている。%K%P
+Takeshi continued to blabber with a dumb, blissful look as he slept, oblivious to our troubles.%K%P
+0x610
+優「もうアッタマきたっ！　かくなる上は……っ！」%K%P
+You「I've had it! I have no choice but to...!」%K%P
+0x624
+少年「ど、どうするの……？」%K%P
+Kid「Wh-what are you going to do?」%K%P
+0x630
+優はポケットに手を突っ込むと、例のサインペンを取り出した。%K%P
+You put her hand in her pocket and pulled out the marker from before.%K%P
+0x658
+――キュポン！%K%P
+She popped the cap off of the pen and prepared to...%K%P
+0x66C
+優「にひっ♪」%K%P
+You「Heehee〜」%K%P
+0x680
+沙羅「ま、まさか……それで……」%K%P
+Sara「No... You're not going to...?」%K%P
+0x68C
+優「そのまさか、よ」%K%P
+You「You bet I am.」%K%P
+0x6A0
+沙羅「寝首をバッサリ……」%K%P
+Sara「You're gonna chop his head off...」%K%P
+0x6B4
+優「するかっ！　っていうか、できんわ！」%K%P
+You「Not with a pen!」%K%P
+0x6C8
+優「いい？　つまり、こうするってことよ」%K%P
+You「Watch this. This is what I'll do.」%K%P
+0x6F8
+言いながら優は、サインペンで武のまぶたの上に、少女マンガに出てくるようなクリクリ眼を描き始めた。%K%P
+As she said that, You took the pen and started drawing big round eyes (like a girl from a manga) on Takeshi's eyelids.%K%P
+0x704
+武「すーぴー……すーぴー……」%K%P
+Takeshi「Zzz... Zzz...」%K%P
+0x710
+優「ふっふっふっ……天罰覿面」%K%P
+You「Hehehe... What goes around comes around. Take that.」%K%P
+0x71C
+少年「ぷっ、ぷくくく……っ。ケ、ケッサクだ……」%K%P
+Kid「Heehee... It's a masterpiece...」%K%P
+0x728
+沙羅「わぁ、おもしろそ〜♪　なっきゅ先輩、私にもやらせて」%K%P
+Sara「Ha, that's funny. Let me try, Nakkyu.」%K%P
+0x750
+――きゅっきゅっきゅっ。%K%P
+Scribble, scribble, scribble.%K%P
+0x764
+沙羅の手によって、武の頬に、なるとのような渦巻きが描き加えられた。%K%P
+Sara sketched a whirlpool on Takeshi's cheek.%K%P
+0x770
+沙羅「ニンニン」%K%P
+Sara「Nin! Nin! Ninja!」%K%P
+0x77C
+武「う〜ん……う〜ん……」%K%P
+Takeshi「Ooon... nyum...」%K%P
+0x788
+少年「ぶわっはっはっ♪　は、腹が痛い〜……」%K%P
+Kid「HAHAHAHA! I'm laughing so hard my gut hurts...」%K%P
+0x794
+優「ほら、少年もこのアホに何か描いてやったら？　胸がスーッとするよ」%K%P
+You「Hey, Kid. Why don't you draw something on this idiot? You'll feel loads better.」%K%P
+0x7A0
+少年「うん、そうだね。えーと、えーと……」%K%P
+Kid「Alright. Let's see. Um...」%K%P
+0x7C8
+――きゅっきゅっきゅっ。%K%P
+Scribble, scribble, scribble.%K%P
+0x7DC
+ぼくは、額に『肉』と描いてやった。%K%P
+I drew meat on his forehead.%K%P
+0x7E8
+そうやって、ぼくら３人は代わる代わる武の顔面に落書きしていく。%K%P
+And the three of us kept taking turns doing graffiti on his face.%K%P
+0x818
+――きゅっきゅっきゅっ。%K%P
+Scribble, scribble, scribble.%K%P
+0x840
+――きゅっきゅっきゅっ。%K%P
+Scribble, scribble, scribble.%K%P
+0x868
+――きゅっきゅっきゅっ。%K%P
+Scribble, scribble, scribble.%K%P
+0x884
+……やがて数十分後。%K%P
+...Dozens of minutes later.%K%P
+0x890
+そこには見るも無惨でオゾマシイ、とにかく形容しがたい物体が、鼻ちょうちんを膨らませていた。%K%P
+Takeshi had been further transformed into a much-decorated creature: miserable, disfigured, and hard to describe.%K%P
+0x95C
+空「おはようございます、皆さん」%K%P
+Sora「Good morning, everyone.」%K%P
+0x968
+空「昨夜はぐっすりお休みになられましたか？」%K%P
+Sora「Did you sleep well?」%K%P
+0x97C
+優「おかげさまで、バッチリと完徹させていただきました」%K%P
+You「Thanks to somebody, I was up all night.」%K%P
+0x990
+空「えっ？　一睡もされていないのですか？」%K%P
+Sora「Huh? You didn't sleep a wink?」%K%P
+0x99C
+優「うん、このバカのせいでね」%K%P
+You「Nope, because of this idiot.」%K%P
+0x9C4
+優は足を振り上げて、ベッドに横たわった武を蹴り飛ばした。%K%P
+You lifted her foot and kicked Takeshi, who was lying on the bed.%K%P
+0x9D0
+武「う〜ん……う〜ん……オバサンパーマに……してくださ〜い……むにゃむにゃ……」%K%P
+Takeshi「Ooon... nyum... I'd like a perm... please... nyuma...」%K%P
+0x9DC
+武はいまだ、夢の中だ。%K%P
+Takeshi was still dreaming.%K%P
+0x9F0
+空「ふふっ、ふふっ、ふふふふふふふっ……」%K%P
+Sora「Ha... ha... haaaaaa...」%K%P
+0x9FC
+空は、武の顔の落書きに気づいたようで、吹き出す笑いを懸命にこらえていた。%K%P
+It looked like Sora had noticed the graffiti and was trying to keep from exploding with laughter.%K%P
+0xA08
+空「ふふっ、どうしたんですか？　この顔」%K%P
+Sora「What happened to his face?」%K%P
+0xA1C
+沙羅「あんまりにも頭にきたからぁ〜」%K%P
+Sara「We got so mad...」%K%P
+0xA28
+少年「みんなで、落書きしてやったんだ」%K%P
+Kid「We took turns drawing on him.」%K%P
+0xA3C
+優「そう、この魔法のサインペンで、きゅっきゅっきゅっとね」%K%P
+You「We scribbled the night away with this marker.」%K%P
+0xA48
+そう言って、優は高笑いした。%K%P
+Saying that, You laughed loudly.%K%P
+0xA5C
+空「それにしても、これは少しやり過ぎなのでは……？」%K%P
+Sora「Even so, maybe you went a little too far...」%K%P
+0xA70
+沙羅「いいのいいの、このオッサンのせいで、私達眠れなかったんだから」%K%P
+Sara「No, no. We didn't sleep at all because of this noisy beast.」%K%P
+0xA7C
+少年「天罰だよ、天罰」%K%P
+Kid「It's poetic justice.」%K%P
+0xA90
+優「だから空も、この落書きのことは、しばらく黙っててね？」%K%P
+You「So, Sora, hold off on telling him for a while, alright?」%K%P
+0xAA4
+空「つまり……気づかないフリをする、ということですか？」%K%P
+Sora「You mean... You want me to pretend that I don't notice?」%K%P
+0xAB8
+沙羅「そういうこと」%K%P
+Sara「That's it.」%K%P
+0xAC4
+武「う〜ん……う〜ん……ツムジんとこ……白いの出て来たぁ〜……むにゃむにゃ……」%K%P
+Takeshi「Ooon... nyuum... it's all white... Curlies... nyumanya...」%K%P
+0xAD8
+優「そんなことよりも空、減圧は……？」%K%P
+You「Enough of that. Sora, what about the decompression...?」%K%P
+0xAEC
+空「はい、もちろんすでに終了しています」%K%P
+Sora「You are all done, of course.」%K%P
+0xAF8
+空「体調の悪い方は、いらっしゃいませんよね？」%K%P
+Sora「Is there anyone that feels ill?」%K%P
+0xB0C
+沙羅「私は全然大丈夫」%K%P
+Sara「I feel fine.」%K%P
+0xB18
+少年「ぼくも」%K%P
+Kid「Me too.」%K%P
+0xB2C
+優「まあ、徹夜明けだから、頭は少しボーッとしてるけどね」%K%P
+You「Well, we were up all night, so I feel groggy.」%K%P
+0xB38
+空「倉成さんは……？」%K%P
+Sora「And Kuranari-san...?」%K%P
+0xB4C
+沙羅「これ、見ればわかるっしょ？」%K%P
+Sara「Just look at him.」%K%P
+0xB58
+武「う〜ん……う〜ん……算社理音国……アマリリス……吹けねぇ……むにゃむにゃ……」%K%P
+Takeshi「Ummmh... Ummmh... Math, social studies, science, English class, music... I can't play that... myum...」%K%P
+0xB74
+空「それでは皆さん、すぐに制御室にお集まりください」%K%P
+Sora「Alright, everyone. I would like to have you all gather in the control room at once.」%K%P
+0xB88
+空「私は、先に行っていますので」%K%P
+Sora「I'll go on ahead.」%K%P
+0xB94
+少年「何か……進展が……？」%K%P
+Kid「Has... anything happened...?」%K%P
+0xBA8
+空「話は、制御室の方でいたしますので……」%K%P
+Sora「I will tell you all about it in the control room...」%K%P
+0xBB4
+空「では、失礼します」%K%P
+Sora「Now, if you'll excuse me.」%K%P
+0xBF0
+空は頭を下げ、加減圧室を出て行った。%K%P
+Sora ducked and left the pressurization chamber.%K%P
+0xBFC
+最後に見せた空の顔からは、いつしか笑みが消えていた。%K%P
+Sora's face as she left was devoid of humor.%K%P
+0xC3C
+武を叩き起こし、制御室へと向かう。%K%P
+We got Takeshi up and made for the control room.%K%P
+0xC48
+ぼくの隣には沙羅が……。%K%P
+Sara was next to me...%K%P
+0xC54
+前方には優と武が、何か話しながら歩いている。%K%P
+Ahead, You and Takeshi were talking about something as they walked.%K%P
+0xC60
+ここからでは会話の内容は聞き取れない。%K%P
+I couldn't quite make out what they were saying.%K%P
+0xC6C
+やがて、武は速度をゆるめ、優のそばを離れてぼくらの隣に並んだ。%K%P
+Eventually Takeshi slowed down, separated from You, and came back to us.%K%P
+0xC78
+武「なあ、優のやつ、何であんなにピリピリしてんだ？」%K%P
+Takeshi「Hey, you got any idea what You's all miffed about?」%K%P
+0xC8C
+少年「さあ？」%K%P
+Kid「Who knows?」%K%P
+0xC98
+沙羅「心当たりとか、ないの？」%K%P
+Sara「You don't have any ideas?」%K%P
+0xCA4
+武「あったら聞いたりしないだろうが」%K%P
+Takeshi「If I did, you think I'd be asking you?」%K%P
+0xCB0
+武「優は、鏡を見ろとかなんとかって言ってたけどさ」%K%P
+Takeshi「You told me to 'look in the mirror', but...」%K%P
+0xCBC
+少年「ははっ、なぁ〜んだ、教えちゃったのかぁ」%K%P
+Kid「Huh?」%K%P
+0xCC8
+武「えっ？」%K%P
+Takeshi「What?」%K%P
+0xCDC
+沙羅「つまんないのぉ……」%K%P
+Sara「That's no fun...」%K%P
+0xCE8
+沙羅がそう言うと、武はさすがに気づいたらしく、手の平で顔を拭った。%K%P
+When Sara said that, it seemed like Takeshi finally figured it out. He wiped his face with his hand.%K%P
+0xCF4
+武「なんだ、これ」%K%P
+Takeshi「What's this?」%K%P
+0xD00
+手の平についた黒いインクを、武はじっと見つめた。%K%P
+He stared at the black ink on the palm of his hand.%K%P
+0xD0C
+武「ちっ、あの女……」%K%P
+Takeshi「Damn, that girl...」%K%P
+0xD18
+舌打ちをし、再び優のもとへと駆け寄って行く武。%K%P
+Clicking his tongue, Takeshi hurried back up ahead to You.%K%P
+0xD2C
+ぼくと沙羅は、武と優のやり取りを眺めながら、ケラケラと笑っていた。%K%P
+Sara and I laughed as we watched Takeshi and You exchange words.%K%P
+0xD6C
+制御室の前にはつぐみがいた。%K%P
+Tsugumi was in front of the control room.%K%P
+0xD78
+壁に寄りかかり、腕を組んで顔をうつむけている。%K%P
+She was leaning against the wall with her arms folded and head down.%K%P
+0xD84
+少年「おはよう」%K%P
+Kid「Good morning.」%K%P
+0xD98
+沙羅「おはよう」%K%P
+Sara「Good morning.」%K%P
+0xDAC
+ぼくらが挨拶すると、つぐみは静かに顔をあげた。%K%P
+With our greetings, Tsugumi slowly raised her head.%K%P
+0xDC0
+沙羅「ねえ、つぐみ？　昨夜どこに行ってたの？」%K%P
+Sara「Hey, Tsugumi, where did you go last night?」%K%P
+0xDCC
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xDD8
+少年「具合とか、悪くない？」%K%P
+Kid「Are you alright?」%K%P
+0xDE4
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xDF8
+沙羅「なんかね？　空が言ってたんだけどぉ、急激な気圧変化を経験するとっ」%K%P
+Sara「Sora was telling us about when there's a sudden change in air pressure...」%K%P
+0xE0C
+つぐみ「減圧症でしょ？　知ってるわよ」%K%P
+Tsugumi「The bends? I know.」%K%P
+0xE18
+つぐみ「私のことは心配しないで、大丈夫だから」%K%P
+Tsugumi「Don't worry about me. I'm fine.」%K%P
+0xE24
+（あれっ？）――ぼくは思った。%K%P
+(Huh?)―Something flashed through my mind.%K%P
+0xE30
+つぐみ……昨日とは少し様子が変わってるような気がする。%K%P
+...It seemed like something about Tsugumi had changed from the day before.%K%P
+0xE3C
+心なしか、態度も言葉づかいも穏やかになってるような気が……。%K%P
+Maybe it was loneliness, but her attitude and way of talking had been toned down.%K%P
+0xE48
+沙羅「ほんとに、平気なの？」%K%P
+Sara「Are you really fine?」%K%P
+0xE54
+つぐみ「うん……」%K%P
+Tsugumi「Yeah...」%K%P
+0xE60
+つぐみ「それよりも、早く中に入ったら？」%K%P
+Tsugumi「Let's get inside.」%K%P
+0xE6C
+つぐみ「空、待ってるわよ」%K%P
+Tsugumi「Sora is waiting for us.」%K%P
+0xE80
+つぐみに促され、ぼくと沙羅は制御室に入った。%K%P
+At Tsugumi's urging, Sara and I entered the control room.%K%P

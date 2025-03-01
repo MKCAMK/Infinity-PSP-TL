@@ -1,0 +1,486 @@
+text area offset and size:
+0xA50
+0x1A5B
+0x88
+未明――日付はすでに変わり、５月７日、日曜日。%K%P
+Daybreak. The date had changed to Sunday, May 7th.%K%P
+0x94
+あれからぼくらは一睡もしていない。%K%P
+Since that time, we hadn't slept at all.%K%P
+0xA0
+再び、ぼくの身体に変調が起こりだした。%K%P
+I was starting to feel bad again.%K%P
+0xAC
+頭痛、目眩、吐き気……身体の内側からにじみ出てくるような悪寒。%K%P
+It felt like a headache, dizziness, nausea, and chills were seeping out from deep in the core of my body.%K%P
+0xB8
+さざ波のように襲ってくる、鈍い痛みと極度の倦怠感……意識が朦朧とする。%K%P
+I suffered from a wave of dull pain and extreme fatigue... I was only half-conscious.%K%P
+0xC4
+疲労困憊……ぼくはもう限界だった。%K%P
+Exhaustion... I had reached my limit.%K%P
+0xD0
+だが、気力を奮い起こしてそれに耐え抜こうとする。%K%P
+But I tried to keep my energy from being sapped away.%K%P
+0xDC
+一寸先も見えない暗闇……この無限の恐怖の中、ぼくらはもがき、抗い続けていた。%K%P
+Surrounded by darkness and endless fear, we had fought our way so far...%K%P
+0xE8
+周囲の状況に、好転の気配はない。%K%P
+And there was no sign that things were going to get better.%K%P
+0xF4
+外部との通信も途絶えたまま。%K%P
+Communication lines with the outside were still down.%K%P
+0x100
+そして……%K%P
+And...%K%P
+0x10C
+脱出の糸口は、つかめていない。%K%P
+We had yet to find a clue leading to possible escape.%K%P
+0x148
+優は、依然として放心状態のままだった。%K%P
+You remained distant and spacey.%K%P
+0x154
+この数日間、ぼくらをリードしてきた快活な姿は、見る影もなかった。%K%P
+Our optimistic leader that helped us through the days of distress was nowhere to be seen.%K%P
+0x160
+誰かが彼女を救ってあげなくては……%K%P
+Someone had to save her...%K%P
+0x16C
+誰が？%K%P
+But who?%K%P
+0x178
+もちろん、ぼくだ。%K%P
+Of course, it was up to me.%K%P
+0x184
+今、彼女を救えるのは、ぼくしか残されていないのだ。%K%P
+At that point, I was the only person who could help her.%K%P
+0x190
+それに……%K%P
+Besides...%K%P
+0x1A4
+優「約束？」%K%P
+You「Promise?」%K%P
+0x1B0
+少年「うん、約束」%K%P
+Kid「Yeah, I promise.」%K%P
+0x1C4
+ぼくの指先には、あの指切りの温もりが残っている。%K%P
+The memory of that pledge remained stark in my mind.%K%P
+0x1D0
+少年「あのさ、空……」%K%P
+Kid「Uh, Sora...?」%K%P
+0x1E4
+空「はい、なんでしょう？」%K%P
+Sora「Yes? What is it?」%K%P
+0x1F0
+少年「悪いんだけど、ちょっとの間、優とふたりきりにさせてもらえるかな？」%K%P
+Kid「I'm sorry to ask, but could you leave me alone with You for a second?」%K%P
+0x1FC
+空「はい、わかりました」%K%P
+Sora「Certainly.」%K%P
+0x208
+少年「終わったら呼ぶから」%K%P
+Kid「When we're done, I'll call you.」%K%P
+0x214
+空「はい」%K%P
+Sora「Okay.」%K%P
+0x220
+少年「本当に、ごめん」%K%P
+Kid「I'm really sorry.」%K%P
+0x22C
+空「いいえ、お気になさらずとも良いのです」%K%P
+Sora「Please don't worry about it.」%K%P
+0x238
+少年「ありがとう」%K%P
+Kid「Thanks.」%K%P
+0x268
+空は消える。%K%P
+Sora vanished.%K%P
+0x274
+完全に気配が消える。%K%P
+All traces of her completely disappeared.%K%P
+0x280
+死角のない彼女が、この部屋を視界から外したのだ。%K%P
+Sora, who had no dimensional limits, had removed herself from our field of vision.%K%P
+0x28C
+さて……。%K%P
+Then...%K%P
+0x298
+まずぼくは、サイフォンにコーヒーをセットしようとした。%K%P
+Before continuing, I went to set the coffee machine to make fresh coffee.%K%P
+0x2A4
+少年「優？　コーヒー飲むだろ？」%K%P
+Kid「You? You're drinking coffee, right?」%K%P
+0x2B0
+優「…………」%K%P
+You「.........」%K%P
+0x2BC
+返事はないが、ぼくは構わずふたりぶん用意する。%K%P
+Ignoring her lack of response, I set it to prepare two cups.%K%P
+0x2C8
+それから優の隣に座った。%K%P
+Then I sat down beside her.%K%P
+0x304
+少年「お母さんのことは……その……なんて言ったらいいのか、わからないけど……」%K%P
+Kid「About your mother... I mean, I don't know what to say, but...」%K%P
+0x310
+少年「でも、ぼくは思うんだけど、ちゃんと本人と話し合ってみなくちゃいけないんじゃないのかな」%K%P
+Kid「Don't you think it's important to talk things over with her?」%K%P
+0x31C
+優「…………」%K%P
+You「.........」%K%P
+0x328
+少年「何か、やむを得ない事情があったのかもしれないし……」%K%P
+Kid「There may have been some reason why she did what she did...」%K%P
+0x334
+少年「ほら、あのヒトも言ってたじゃないか、浮島に上がってきたらすべて話してくれるって」%K%P
+Kid「Look, she did say she'd explain everything once you're back on the floating island.」%K%P
+0x340
+少年「だからさっ」%K%P
+Kid「So...」%K%P
+0x354
+優「わかったようなこと……言わないでよ」%K%P
+You「How dare you say that... like you know how this feels.」%K%P
+0x360
+少年「…………」%K%P
+Kid「.........」%K%P
+0x36C
+優「もう、あの人と話すようなことなんて、何一つないの」%K%P
+You「There's nothing left for me to say to her.」%K%P
+0x378
+優「どうでもいいの、もう……」%K%P
+You「Besides, it doesn't matter anymore...」%K%P
+0x384
+優「何もかも、どうでもよくなっちゃった……」%K%P
+You「I don't care what happens...」%K%P
+0x390
+少年「でもぼくらは、ここから脱出しなきゃいけない」%K%P
+Kid「Look, we've still got to find a way to escape this place... somehow.」%K%P
+0x39C
+優「なぜ？」%K%P
+You「Why?」%K%P
+0x3A8
+少年「約束したからだよ、優と」%K%P
+Kid「Because I made you a promise.」%K%P
+0x3B4
+優「どうやって？　何か脱出する方法があるの？」%K%P
+You「How are you going to keep it? Do you have some great plan to get us out of here?」%K%P
+0x3C0
+少年「そ、それは……これから考えるさ……」%K%P
+Kid「Well that's... what I want to figure out...」%K%P
+0x3D4
+優「ふぅ……」%K%P
+You「Hmmph...」%K%P
+0x3E0
+少年「ぼくらは、生き残らなくちゃいけないんだよ」%K%P
+Kid「Listen, we have to survive.」%K%P
+0x3EC
+少年「この７日間、ぼくは優からたくさんのことを教わった」%K%P
+Kid「You, over these last seven days, I've learned so much from you.」%K%P
+0x3F8
+少年「数え上げたら、きりがないぐらい、たくさんね」%K%P
+Kid「In so many ways I can't even begin to count.」%K%P
+0x404
+少年「そのなかで、最も大切だったことは……」%K%P
+Kid「But out of everything I've learned from you, the most important thing is...」%K%P
+0x410
+少年「生きること」%K%P
+Kid「How to live.」%K%P
+0x41C
+少年「精一杯生きることを、ぼくは優から教わった」%K%P
+Kid「You have to live life to the fullest. That's what you've taught me.」%K%P
+0x428
+優「…………」%K%P
+You「.........」%K%P
+0x434
+少年「だからぼくは、きちんとそれを実践したいんだ」%K%P
+Kid「So I want to put that lesson into practice.」%K%P
+0x440
+少年「――生きよう！　最後まで」%K%P
+Kid「I want to live! To the fullest, to the end!」%K%P
+0x44C
+それはぼくの、心からの願い。%K%P
+It was a heartfelt plea.%K%P
+0x458
+優「ねえ、少年……」%K%P
+You「Listen, Kid...」%K%P
+0x464
+少年「なに？」%K%P
+Kid「Yeah?」%K%P
+0x470
+優「生きることって……なんだろうね？」%K%P
+You「What does it... mean to live anyway?」%K%P
+0x47C
+少年「…………」%K%P
+Kid「.........」%K%P
+0x488
+少年「生きることとは……」%K%P
+Kid「Well, living means...」%K%P
+0x494
+少年「知ること、だと思う」%K%P
+Kid「To learn and to know, I think.」%K%P
+0x4A0
+無垢な赤ん坊が生まれて……知識を得て大人になって……やがて老いて忘れて、死んでいく。%K%P
+A child is born in innocence... gains knowledge through the years... only to forget it all when it is old... and dies.%K%P
+0x4AC
+ぼくのこの７日間の人生も、また、『知ること』に尽きていたと思う。%K%P
+Over the previous seven days, my life had been filled with things that I had learned.%K%P
+0x4B8
+記憶のない、真っさらな状態から始まった人生。%K%P
+From amnesia and emptiness, my life began.%K%P
+0x4C4
+いや、この７日間を振り返るにおいては、もうひとつ……。%K%P
+But looking back over the previous seven days, there was one more thing...%K%P
+0x4D0
+少年「そして、生きることとは……失っていくことであるようにも思える」%K%P
+Kid「I also think that to live means... to lose something.」%K%P
+0x4DC
+何かを得るためには、何かを無くしているはずなのだ。%K%P
+They said, 'Nothing ventured, nothing gained', but to gain something, you had to lose something.%K%P
+0x4E8
+ぼくが過去を、記憶を失ったように。%K%P
+Like me losing the past by losing my memory.%K%P
+0x4F4
+もちろん、それで得たものとは……。%K%P
+Even though I had lost much... I had also gained...%K%P
+0x500
+優「知ること？　失っていくこと？」%K%P
+You「Living means... to learn? And to lose something?」%K%P
+0x514
+優「ねえ、それってつまり、傷ついていくってこと？」%K%P
+You「So you're saying that we live only to get hurt?」%K%P
+0x520
+少年「…………」%K%P
+Kid「.........」%K%P
+0x52C
+少年「そうかもしれない」%K%P
+Kid「Maybe. I don't know.」%K%P
+0x540
+優「そう……」%K%P
+You「Well...」%K%P
+0x54C
+優「生きることが、傷つくことだというのなら……」%K%P
+You「If living means to be hurt...」%K%P
+0x558
+優「もう充分……」%K%P
+You「Then I've had enough...」%K%P
+0x564
+優「もう充分すぎる程、傷ついたよ」%K%P
+You「I've had more than my share of hurt.」%K%P
+0x570
+優「充分、生きたんだよ……だから……」%K%P
+You「And I've had enough of life... so...」%K%P
+0x57C
+少年「ちょ、ちょっと待ってよ！」%K%P
+Kid「W-wait a second!」%K%P
+0x588
+少年「まさか、優……！」%K%P
+Kid「What are you trying to say, You...!?」%K%P
+0x594
+少年「死にたい、なんて言うつもりじゃないだろうね……？」%K%P
+Kid「You're not saying you want to die...?」%K%P
+0x5A0
+優「……………………」%K%P
+You「............」%K%P
+0x5AC
+少年「……………………」%K%P
+Kid「............」%K%P
+0x5B8
+少年「ふっ、ふざけるなよ！　なんだよ、それはっ！」%K%P
+Kid「You can't be serious! What the hell's that all about!?」%K%P
+0x5C4
+少年「どういうことだよ！　そんなの、優らしくないじゃないかっ！」%K%P
+Kid「I can't believe you're saying that! It's not like you at all!」%K%P
+0x5D0
+少年「その服に着替えたときの優は……脱出の決意表明したときの優は、どこ行っちゃったんだよ！」%K%P
+Kid「What happened to the You a little while ago... who was so ready to get out of here? What happened to that You?」%K%P
+0x5DC
+優「……………………」%K%P
+You「..........」%K%P
+0x5E8
+少年「なんなんだよ……」%K%P
+Kid「Come on, what gives...?」%K%P
+0x5F4
+少年「いったい、どうしたんだよ……」%K%P
+Kid「What came over you all of a sudden...?」%K%P
+0x600
+少年「生まれてきたことの意味を、なんだと思ってるんだよ……！」%K%P
+Kid「Why do you think you were born anyway...!?」%K%P
+0x614
+優「やめて……」%K%P
+You「Stop it...」%K%P
+0x620
+優「くだらないお説教なら、もうやめて……」%K%P
+You「Would you stop with the stupid two-bit sermon... 」%K%P
+0x62C
+少年「くだらないのは、そっちじゃないか！」%K%P
+Kid「No, it's you who's talking stupid...」%K%P
+0x638
+少年「それとも優は、自分の命を、自分ひとりのものだと思ってるのか？」%K%P
+Kid「All this selfish crap, as if your life belongs only to you!」%K%P
+0x64C
+優「そんなこと考えてない！」%K%P
+You「That's not what I was thinking!」%K%P
+0x658
+優「考えてないけど……」%K%P
+You「I don't think that, it's just...」%K%P
+0x664
+優「でも私は……私を産んでくれたお母さんは、もういないんだよ？」%K%P
+You「All this time, the mother who I thought brought me into this world... She's gone.」%K%P
+0x670
+少年「けれどあの人は、優を産んだのは自分だと言ってた」%K%P
+Kid「But that other lady said she was your real mother.」%K%P
+0x67C
+優「そんなの嘘に決まってる！」%K%P
+You「Well, she's obviously lying!」%K%P
+0x688
+少年「どうしてそう言えるの？」%K%P
+Kid「How do you know?」%K%P
+0x69C
+優「それは……」%K%P
+You「Because...」%K%P
+0x6B0
+優「……今までもずっと、騙されてきたから……」%K%P
+You「...She's been lying to me from the start...」%K%P
+0x6BC
+少年「そんな統計論は、この場合、無意味だと思うけど？」%K%P
+Kid「Don't you think that's a little pointless right now?」%K%P
+0x6C8
+優「…………」%K%P
+You「.........」%K%P
+0x6D4
+少年「優だって、わかってるはずだろ？」%K%P
+Kid「I mean, you do understand, don't you...?」%K%P
+0x6E0
+少年「ちゃんと最後まで話を聞かない限り……結論は出せないんだよ」%K%P
+Kid「That until you hear her side of the story... you can't go jumping to conclusions.」%K%P
+0x6EC
+優「…………」%K%P
+You「.........」%K%P
+0x6F8
+少年「優を大切に思ってくれてる人のためにも、優には精一杯生きて欲しいと、ぼくは思う」%K%P
+Kid「I think you should live the best life you can for all the people around you who care about you.」%K%P
+0x704
+少年「優のお母さんのためにも……沙羅や武達のためにも……」%K%P
+Kid「For your mother... and for Sara and Takeshi as well...」%K%P
+0x710
+少年「ぼくのためにも……」%K%P
+Kid「And for me...」%K%P
+0x724
+優「……少年の、ため？」%K%P
+You「...For you?」%K%P
+0x730
+少年「さっきも言ったけど、ぼくは優からたくさんのことを教わった」%K%P
+Kid「I said it before, but there's so much that I've learned from you.」%K%P
+0x73C
+少年「きりがないくらい、たくさん感謝してる」%K%P
+Kid「I'm so very grateful to you.」%K%P
+0x748
+少年「本当に」%K%P
+Kid「Really.」%K%P
+0x754
+優「…………」%K%P
+You「.........」%K%P
+0x760
+少年「ぼくにとっての優は……仲間であり、保護者であり、先生であり……」%K%P
+Kid「You, you're a friend, a guardian, a teacher...」%K%P
+0x76C
+少年「そして……」%K%P
+Kid「And...」%K%P
+0x778
+少年「そして…………」%K%P
+Kid「And...」%K%P
+0x784
+優「……………………」%K%P
+You「......」%K%P
+0x790
+サイフォンへ向かい、コーヒーをカップにふたつ注ぐ。%K%P
+I walked back to the coffee machine and poured two cups of coffee.%K%P
+0x79C
+少年「優はさっき、もう充分生きたって言ったよね？」%K%P
+Kid「You said earlier that you've already lived enough, right?」%K%P
+0x7A8
+少年「でも、ぼくはまだ足りないと思う」%K%P
+Kid「But I don't think it's enough.」%K%P
+0x7B4
+少年「なぜなら、まだ知らなくちゃいけないことがたくさんあるからだよ」%K%P
+Kid「Because I think there's still stuff you need to learn.」%K%P
+0x7C0
+優「……お母さんのこと？」%K%P
+You「...You mean about my mother?」%K%P
+0x7CC
+少年「例えばね？」%K%P
+Kid「That's one thing, yes.」%K%P
+0x7D8
+少年「ところで優は、砂糖いくつだっけ？」%K%P
+Kid「By the way, how much sugar do you take?」%K%P
+0x7EC
+優「あ、私は……」%K%P
+You「Ah, I...」%K%P
+0x7F8
+ぼくは構わず、２杯の砂糖を入れた。%K%P
+Not listening, I added two spoonfuls.%K%P
+0x804
+少年「なんとなく思ったんだけど……コーヒーに入れる砂糖って、何かに似てるね？」%K%P
+Kid「I was thinking... Don't you think sugar in coffee reminds you of something?」%K%P
+0x810
+優「？？」%K%P
+You「?」%K%P
+0x81C
+少年「そう、生きるために必要な、何かに」%K%P
+Kid「You know, something that life depends on.」%K%P
+0x828
+優「は、はぁ……？」%K%P
+You「Huh...?」%K%P
+0x834
+少年「わからない？」%K%P
+Kid「Do you have any idea?」%K%P
+0x840
+優「わからないよ」%K%P
+You「I guess not.」%K%P
+0x84C
+少年「なんだ……これでふたつ目だね？　優が知らなくちゃいけないこと」%K%P
+Kid「That's the second thing you don't know about.」%K%P
+0x858
+優「…………」%K%P
+You「.........」%K%P
+0x864
+少年「悔しくない？」%K%P
+Kid「Makes you want to know, doesn't it?」%K%P
+0x870
+優「少し、悔しい……かも」%K%P
+You「A little... I guess.」%K%P
+0x87C
+少年「じゃあ、生き残ることができたら、無事脱出できたら、教えてあげるよ」%K%P
+Kid「Well, if we get out of here alive, I'll tell you what it is.」%K%P
+0x888
+ミルクと砂糖を入れた、ふたつのカップを運ぶ。%K%P
+I added milk and sugar, then carried the two cups over.%K%P
+0x894
+少年「はい、どうぞ」%K%P
+Kid「There you go.」%K%P
+0x8A8
+優「……ありがとう」%K%P
+You「...Thanks.」%K%P
+0x8B4
+優はカップを受け取り、そのまま黙ってひとくち飲んだ。%K%P
+You took the cup and silently sipped from it.%K%P
+0x8C0
+少年「お味はどう？」%K%P
+Kid「How does it taste?」%K%P
+0x8CC
+優「…………」%K%P
+You「.........」%K%P
+0x8D8
+ぼくの気持ち……。%K%P
+Were my feelings...%K%P
+0x8E4
+ぼくの気持ちは、届いただろうか。%K%P
+...Finally getting across to her?%K%P
+0x8F0
+優「とっても……甘いね」%K%P
+You「It's... very sweet.」%K%P
+0x8FC
+その笑顔は、雨上がりの空に浮かぶ太陽のように、穏やかで透き通っていた。%K%P
+She had a clear gentle smile, like the sun shining just after a rain.%K%P

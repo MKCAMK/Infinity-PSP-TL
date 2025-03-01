@@ -1,0 +1,195 @@
+text area offset and size:
+0x7E8
+0xCBE
+0x70
+空「皆さん、今晩はもう、お休みになられた方がいいと思います」%K%P
+Sora「Everyone, I think it is best that we go to sleep this evening.」%K%P
+0x84
+空「後のことは、私にお任せ下さい」%K%P
+Sora「Please leave the rest to me.」%K%P
+0x90
+そう言って、空はにこやかに微笑んだ。%K%P
+Saying that, Sora grinned.%K%P
+0xA4
+武「休むって言っても……どこで？」%K%P
+Takeshi「Sleep... But where?」%K%P
+0xB0
+沙羅「仮眠室みたいなのって、無いの？」%K%P
+Sara「Are there any places to lie down or anything?」%K%P
+0xC4
+空「水没した区画にありますが、ドライエリアには、残念ながら……」%K%P
+Sora「In the sectors that were submerged in water, but unfortunately not in the dry areas...」%K%P
+0xD8
+空「その代わり、と言ってはなんですが、別の場所を御用意してあります」%K%P
+Sora「Instead, I have prepared another place for you.」%K%P
+0xEC
+少年「別の……」%K%P
+Kid「Another...」%K%P
+0x108
+優「……場所？」%K%P
+You「...Place?」%K%P
+0x16C
+優「ちょ、ちょっと待ってよ、空！」%K%P
+You「Wa-wait a second, Sora!」%K%P
+0x178
+少年「こんな狭っ苦しい場所に、４人で寝なくちゃいけないの？」%K%P
+Kid「You're not saying that four people have to sleep in this cramped space?」%K%P
+0x184
+そこは、さっき少女がいなくなった場所だった。%K%P
+It was the place was where I had seen the girl.%K%P
+0x1A0
+沙羅「って言うか、この部屋って……なに？」%K%P
+Sara「What is this room anyway?」%K%P
+0x1B4
+空「御説明申し上げます」%K%P
+Sora「Let me explain.」%K%P
+0x1C0
+空「ここは、医療用の加減圧室です」%K%P
+Sora「This is a decompression room for medical purposes.」%K%P
+0x1CC
+空「この部屋で、減圧症の治療を行なうことができます」%K%P
+Sora「Here, people suffering from decompression sickness, or the bends, are treated.」%K%P
+0x1E8
+武「減圧症？」%K%P
+Takeshi「The bends?」%K%P
+0x1FC
+空「はい」%K%P
+Sora「Yes.」%K%P
+0x208
+空「通常、ＬｅＭＵから外に出るときには、６気圧から１気圧へ、長い時間をかけてゆっくりと減圧しなければなりません」%K%P
+Sora「Normally, when people leave LeMU, they spend an extended period of time going through decompression and adjusting from six atmospheres to one atmosphere.」%K%P
+0x214
+空「しかし皆さんは、今回の事故により、急激な気圧変化を経験されています」%K%P
+Sora「However, as a result of the accident, everyone has experienced a sudden change in pressure.」%K%P
+0x220
+空「もしかしたら、減圧症にかかっているかもしれません」%K%P
+Sora「You may be suffering from the bends.」%K%P
+0x234
+空「そこで、皆さんには念の為、この部屋の中で再加圧をしていただきたく……」%K%P
+Sora「So, just to be safe, I want to have everyone undergo repressurization in this room...」%K%P
+0x240
+少年「でもぼくら……全然具合なんか悪くないよ？」%K%P
+Kid「But... there's nothing wrong with us.」%K%P
+0x24C
+空「軽い減圧症は、すぐに自覚症状が現れるわけではないのです」%K%P
+Sora「In cases of light decompression sickness, you are not necessarily aware of it immediately.」%K%P
+0x258
+空「ひと晩ふた晩経ってから、痛み出すこともあります」%K%P
+Sora「There are cases where the pain doesn't start for a day or two.」%K%P
+0x26C
+武「ヤバいと気づいてからじゃ遅い……？」%K%P
+Takeshi「After you figure out you're in trouble, it's too late...?」%K%P
+0x280
+空「はい」%K%P
+Sora「Correct.」%K%P
+0x28C
+空「つまり、念には念を入れて、ということです」%K%P
+Sora「In other words, this is just to be completely safe.」%K%P
+0x2A8
+優「ねぇ、空？　救護室にある……えーと、ほら、アレ……」%K%P
+You「Hey, Sora. What about the... uh, that thing... in the infirmary?」%K%P
+0x2B4
+優「色んな病状を診断できる装置があったじゃない？」%K%P
+You「Wasn't there some device that can diagnose medical conditions?」%K%P
+0x2C8
+空「『Ｌ−ＭＲＩ』のことですか？」%K%P
+You「Do you mean the L-MRI?」%K%P
+0x2DC
+優「そうそう、それ」%K%P
+You「Yeah, yeah, that's it.」%K%P
+0x2F0
+優「あれでスキャニングすれば、減圧症にかかってるかどうか、すぐにわかるんじゃないの？」%K%P
+You「If you do a scan with that, can't we tell for sure if it's decompression sickness?」%K%P
+0x304
+空「残念ながら、それはできません」%K%P
+Sora「Unfortunately, no, we cannot.」%K%P
+0x318
+優「え？　なんで？」%K%P
+You「Really? Why not?」%K%P
+0x324
+空「先ほど見たところ、あの装置は故障中のようです。検証と修理に、それなりの手間と時間を要してしまいます」%K%P
+Sora「As you saw before, that device is out of order. Discovering the problem and repairing it would take time and energy.」%K%P
+0x338
+優「そうなんだ……」%K%P
+You「Oh, really...」%K%P
+0x354
+沙羅「ねえ？　ひとつ聞いてもいい？」%K%P
+Sara「Sora, can I ask you something?」%K%P
+0x368
+空「なんでしょう？」%K%P
+Sora「What?」%K%P
+0x374
+沙羅「減圧症のこと、もうちょっと詳しく知りたいんだけど……」%K%P
+Sara「I want to know more about this decompression sickness...」%K%P
+0x380
+空「わかりました」%K%P
+Sora「I see.」%K%P
+0x38C
+空「減圧症は、周囲に急激な気圧変化が起こった際に、体内に排出できないガスが溜まってしまう為に起こるものです」%K%P
+Sora「Decompression sickness occurs when there is a sudden change in the surrounding air pressure and gas bubbles that can't be discharged accrue in the body.」%K%P
+0x398
+空「ガスは気泡となって、筋組織や静脈中などに留まります」%K%P
+Sora「Gas becomes air bubbles, and these gather in tissues or veins.」%K%P
+0x3A4
+空「ガスが体内に多く残っていると、酸素呼吸効率が著しく低下します」%K%P
+Sora「When gas bubbles remain inside the body, the oxygen respiration efficiency drops dramatically.」%K%P
+0x3C0
+武「それって……どんなに深呼吸しても、窒息したみたいに苦しくなるってことか？」%K%P
+Takeshi「So... No matter how many deep breaths you take, it feels like you're suffocating?」%K%P
+0x3CC
+空「はい」%K%P
+Sora「Yes.」%K%P
+0x3E0
+空「そこで、この部屋を密閉して高濃度の酸素を注入、一旦約３気圧まで再加圧し……」%K%P
+Sora「So we will seal this room and pump in a high concentration of oxygen, slowly taking it up to approximately three atmospheres...」%K%P
+0x3EC
+空「その後、ゆっくりと減圧し、再び１気圧に戻します」%K%P
+Sora「After that, we slowly decompress it back down to one atmosphere.」%K%P
+0x3F8
+空「圧力差を利用して、体内の気泡を再び血液中に溶け込ませ、呼吸によって自然に排出できるようにするわけです」%K%P
+Sora「Using this difference in pressure, we dissolve the gas bubbles in your body back into the blood, where you get rid of them naturally by breathing.」%K%P
+0x40C
+武「つまり、缶コーラが噴出しないようにしてやるわけか……」%K%P
+Takeshi「So basically, you make us like a can of cola that won't blow up...」%K%P
+0x420
+空「ええ、その通りです」%K%P
+Sora「Yes, precisely.」%K%P
+0x434
+武「ＯＫ、わかったよ」%K%P
+Takeshi「Okay, I got it.」%K%P
+0x47C
+そして、数時間をかけての加減圧が開始されることになった。%K%P
+The decompression process took place over several hours.%K%P
+0x488
+それにしても……狭い……。%K%P
+But boy, it was... cramped...%K%P
+0x4E4
+つぐみは一体どこに行ったんだろう？%K%P
+I wondered where in the world Tsugumi could have gone.%K%P
+0x500
+空は再加圧をしなくてもいいのかな？%K%P
+And shouldn't Sora have been undergoing decompression as well?%K%P
+0x50C
+脳も体も、しびれるぐらいに疲れてたけど、不思議と眠気は襲って来なかった。%K%P
+I was so tired that my mind and body felt numb, but strangely, sleep didn't come for me.%K%P
+0x518
+ベッドは武がひとりで占領している。%K%P
+Takeshi had monopolized the bed.%K%P
+0x524
+すやすやと寝息を立てている武。%K%P
+He was breathing deeply and peacefully.%K%P
+0x530
+この非常事態によく眠れるよな……。%K%P
+Sleeping so well in an emergency like that...%K%P
+0x53C
+優と沙羅とぼくは、床の上に座っている。%K%P
+You, Sara, and I sat on the floor.%K%P
+0x548
+ぐーすかと眠りこけている武に、だんだんと腹が立ってきた。%K%P
+I gradually got annoyed with Takeshi sleeping like a log.%K%P
+0x554
+減圧が終了するまで、まだ４時間もある。%K%P
+There were still four hours until the decompression was complete.%K%P
+0x560
+夜はとても長かった……。%K%P
+The night was long...%K%P

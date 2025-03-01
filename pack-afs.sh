@@ -22,7 +22,7 @@ fi
 # Repack mac.afs (texts)
 repack_mac_afs () {
 	repack_scene () {
-		$REPACK_SCENE text/mac-psp-${TL_SUFFIX}/$1.txt e17_mac/$1.SCN e17_mac_${TL_SUFFIX}/$1.SCN
+		$REPACK_SCENE text/tmp/mac-psp-${TL_SUFFIX}/$1.txt e17_mac/$1.SCN e17_mac_${TL_SUFFIX}/$1.SCN
 		$COMPRESS ./e17_mac_${TL_SUFFIX}/$1.{SCN,BIP}
 	}
 
@@ -32,7 +32,7 @@ repack_mac_afs () {
 	# cp -f e17_mac/SHORTCUT.SCN e17_mac_${TL_SUFFIX}/SHORTCUT.SCN || exit 1
 	$COMPRESS ./e17_mac_${TL_SUFFIX}/SHORTCUT.{SCN,BIP}
 
-	for i in text/mac-psp-${TL_SUFFIX}/*.txt ; do
+	for i in text/tmp/mac-psp-${TL_SUFFIX}/*.txt ; do
 		echo Repacking $i
 		repack_scene `basename $i .txt` #& WAITPIDS="$! "$WAITPIDS
 	done

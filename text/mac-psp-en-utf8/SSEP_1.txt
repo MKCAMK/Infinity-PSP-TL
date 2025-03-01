@@ -1,0 +1,528 @@
+text area offset and size:
+0xD50
+0x1EC9
+0x78
+遠くに低いうなり声のような機械音が聞こえてくる。%K%P
+I heard a low mechanical sound from far away.%K%P
+0x84
+カサカサと、風が木々の葉を鳴らして通りすぎていく。%K%P
+The breeze passed through the trees' leaves, making them rustle.%K%P
+0x90
+ぼくの頬を同じ風がなでる。%K%P
+The same wind gently caressed my cheeks.%K%P
+0x9C
+……………………。%K%P
+...............%K%P
+0xA8
+風？%K%P
+Wind?%K%P
+0xB4
+葉音？%K%P
+Rustling leaves?%K%P
+0xC0
+ぼくは、ゆっくり目を開いた。%K%P
+I opened my eyes slowly.%K%P
+0xF8
+一瞬、ここがどこだかわからない。%K%P
+I didn't know where I was for a moment.%K%P
+0x104
+ＬｅＭＵの中にこんなところがあったっけ？%K%P
+Had there been such a place in LeMU?%K%P
+0x118
+上を見上げる。%K%P
+I looked up.%K%P
+0x124
+そこに天井は無かった。%K%P
+There was no ceiling.%K%P
+0x130
+辺り一面の星空。%K%P
+There was just a sprawling, starry sky.%K%P
+0x13C
+宇宙クジラの部屋のような作り物の空とは違う、無限の広がりを感じさせる大空。%K%P
+It was not like a fake sky like in the Cosmic Whale room, but a sky that felt broad and infinite.%K%P
+0x150
+ここは……、地上だ。%K%P
+I was... on the ground.%K%P
+0x15C
+正確に言えば、浮島、インゼル・ヌルだ。%K%P
+More precisely, I was on the floating island, Insel Null.%K%P
+0x168
+そう、ぼくは……、いや、ぼくらは泳ぎ切ったんだ。%K%P
+Yes, I had... No, we had swum to it...%K%P
+0x174
+ツヴァイトシュトックから、海面までの３４ｍを……。%K%P
+The nearly 34 meters from Zweiter Stock to the surface...%K%P
+0x180
+ぼくは何とかインゼル・ヌルの非常用フラップを意識をなくした沙羅を抱えたまま登り切り……。%K%P
+Somehow, I had climbed into the emergency entrance of Insel Null holding the unconscious Sara in my arms.%K%P
+0x18C
+そして沙羅が無事なのを確認したところまでは覚えている。%K%P
+I remembered checking to see if Sara was alright.%K%P
+0x198
+その後、疲労と酸欠とで気絶したんだろう。%K%P
+After that, I probably fainted from fatigue and a lack of oxygen.%K%P
+0x1A4
+ぼくは、ハッと体を起こしまわりを見回し、沙羅がぼくのすぐ横にいるのを見てほっと胸をなで下ろした。%K%P
+I awoke with a start, looked around, and was relieved to see Sara lying down next to me.%K%P
+0x1B0
+その胸は、かすかに上下し、規則正しい呼吸の音が確認できる。%K%P
+Her chest rose and fell faintly. I could hear the regular sound of her breathing.%K%P
+0x1BC
+ぼくは改めて、辺りを見回した。%K%P
+I looked around again.%K%P
+0x1C8
+インゼル・ヌルの端のほう、ちょうど緑の深い公園になっている辺りだ。%K%P
+I checked around the edge of Insel Null, which was a lush park.%K%P
+0x1D4
+木々の向こうに、管理棟やホテル、タワーの明かりが見える。%K%P
+I could see the administration center, hotel, and a tower of light behind the trees.%K%P
+0x1E0
+まだ空が暗いところを見ると、気絶していたのはそれほど長い時間ではなさそうだ。%K%P
+It was still dark, so it didn't seem like I'd been unconscious for very long.%K%P
+0x1EC
+１時間前後というところか……。%K%P
+Maybe about an hour or so...%K%P
+0x1F8
+しかし……、よく泳ぎ切れたものだ。%K%P
+I was... impressed that we had been able to swim all the way to the surface...%K%P
+0x204
+改めて思う。%K%P
+I went over it again in my head.%K%P
+0x210
+唐突に、１日、制御室で空と交わした会話が頭に浮かんだ。%K%P
+Suddenly, a conversation in the control room with Sora came to my mind.%K%P
+0x2A0
+空「１５階建てのビルを想像してみて下さい」%K%P
+Sora「Imagine a fifteen-story building.」%K%P
+0x2AC
+空「あるいは、３階建ての校舎を、５個積み重ねたものでも良いかもしれません」%K%P
+Sora「Or five three-story school buildings stacked on top of each other.」%K%P
+0x2B8
+少年「３階建ての校舎を、５個も……」%K%P
+Kid「Five schools stacked...」%K%P
+0x2C4
+少年「無理だよ、泳ぎ切れるわけないって」%K%P
+Kid「No way. I couldn't swim that.」%K%P
+0x2D8
+空「では、１０階建てのビルではどうですか？」%K%P
+Sora「Well, then how about a ten-story building?」%K%P
+0x2E4
+空「水深３４ｍ……ツヴァイトシュトックが、この位置にあります」%K%P
+Sora「The depth of Zweiter Stock only amounts to 34 meters.」%K%P
+0x2F0
+少年「３４ｍか……」%K%P
+Kid「34 meters...」%K%P
+0x384
+あのときぼくは、空になんと答えたっけ……。%K%P
+How had I responded to Sora...?%K%P
+0x3A0
+そうだ、ぼくは無理だと答えたんだ。%K%P
+I remembered. I had said it was impossible.%K%P
+0x3AC
+空は、それが正しい判断だと言っていた。%K%P
+Sora said I was being rational.%K%P
+0x3C0
+ぼくは、それなら何とか行けそうな気がすると言ったんだっけ。%K%P
+Hadn't I said that I thought I could swim it?%K%P
+0x3CC
+空は、気圧の事とか持ち出して、無理だと言っていたけど……。%K%P
+Sora talked about the pressure and said it was impossible...%K%P
+0x3D8
+でも……。%K%P
+But...%K%P
+0x428
+%N%N
+
+0x434
+%LC空でも間違うことがあるんだな。%K%N
+%LCEven Sora could be wrong.%K%N
+0x440
+%N
+
+0x44C
+%LCぼくらは泳ぎ切ったよ……、空。%K%O
+%LCWe were able to swim it, Sora.%K%O
+0x464
+……そう言えば、空はどうしたんだろう。%K%N
+...That reminded me... I wondered what had happened to Sora.%K%N
+0x470
+あの停電で、死んでしまったのだろうか……。%K%N
+Had she suffered the equivalent of death from the blackout...?%K%N
+0x47C
+%N
+
+0x488
+いや、空はＲＳＤだ。%K%N
+No. Sora was RSD-generated.%K%N
+0x494
+人間ではない。%K%N
+She wasn't human.%K%N
+0x4A0
+けっして死ぬ事はないんだ……。%K%O
+She couldn't die.%K%O
+0x4D0
+それはわかってはいたが、あれだけ長く一緒に過ごしていたんだ。%K%P
+I knew that, but I had been with her for such a long time.%K%P
+0x4DC
+それに空は……、何というか、すごく人間ぽい、とでも言うか……。%K%P
+And Sora was... how could I describe it? She was so... human...%K%P
+0x4E8
+大切な仲間を失ってしまったような、鈍い喪失感を覚えた。%K%P
+I felt a blunt sense of sadness, as if I had lost a close friend.%K%P
+0x504
+沙羅「う、んん……」%K%P
+Sara「Uh, ummmm...」%K%P
+0x510
+その声に意識を引き戻される。%K%P
+Sara's voice pulled me back to reality.%K%P
+0x51C
+そうだ、今はそんなことを考えている時ではない。%K%P
+It was not the time to be thinking about such things.%K%P
+0x528
+少年「沙羅……、沙羅？」%K%P
+Kid「Sara... Sara?」%K%P
+0x534
+そう言いながら、沙羅の肩を静かに揺する。%K%P
+I shook Sara's shoulder gently.%K%P
+0x540
+沙羅「う、ん、あ……」%K%P
+Sara「Uh, ummm, ah...」%K%P
+0x54C
+沙羅がうっすらと目を開いた。%K%P
+Sara opened her eyes slightly.%K%P
+0x558
+沙羅「お、にい、ちゃん？」%K%P
+Sara「O.. nii... chan?」%K%P
+0x564
+すぐに、その目が大きく見開かれる。%K%P
+Her eyes soon grew wide.%K%P
+0x570
+沙羅は、あわてて体を起こした。%K%P
+Sara hurriedly sat up.%K%P
+0x5AC
+沙羅「お兄ちゃん、ここは……」%K%P
+Sara「Onii-chan, where are we...?」%K%P
+0x5B8
+沙羅は、まだ状況を把握できていないようだ。%K%P
+Sara didn't seem to understand the situation.%K%P
+0x5C4
+少年「インゼル・ヌルだよ沙羅」%K%P
+Kid「Sara, this is Insel Null.」%K%P
+0x5D8
+沙羅「じゃあ、じゃあ……」%K%P
+Sara「So... So we...」%K%P
+0x5E4
+少年「助かったんだ。ぼくらは、泳ぎ切ったんだよ」%K%P
+Kid「We're safe now. We made it.」%K%P
+0x5F0
+少年「ツヴァイトシュトックからの３４ｍを……」%K%P
+Kid「Over 34 meters from Zweiter Stock...」%K%P
+0x604
+沙羅「まだ……、生きてる……？」%K%P
+Sara「Are we... still alive...?」%K%P
+0x610
+少年「そうだ。生きてるよ。沙羅も、ぼくも……」%K%P
+Kid「Yes. We're both still alive.」%K%P
+0x624
+沙羅「やった、やったね、お兄ちゃん！」%K%P
+Sara「We did it! We did it!」%K%P
+0x630
+少年「ああ、沙羅。ぼくらはやったんだ。生き残ったんだ」%K%P
+Kid「Yeah Sara. We did it. We survived.」%K%P
+0x63C
+沙羅「うん……、ありがとうお兄ちゃん」%K%P
+Sara「Yeah... Thank you, onii-chan.」%K%P
+0x648
+少年「言ったろ。ぼくを信じろって」%K%P
+Kid「I told you to trust me.」%K%P
+0x65C
+沙羅「うん、そうだね」%K%P
+Sara「Yes, you did.」%K%P
+0x668
+沙羅がにっこりほほえむ。%K%P
+Sara smiled.%K%P
+0x67C
+ハッと、沙羅は胸に手をやる。%K%P
+She suddenly put her hand on her chest.%K%P
+0x688
+服の中に入れたペンダントを、手触りで確かめたのだろう。%K%P
+She was probably touching the pendant under her shirt, checking to make sure it was still there.%K%P
+0x69C
+ほっとした様子で、ペンダントを引っ張り出し握りしめる。%K%P
+Looking relieved, she pulled the pendant out and grasped it in her hand.%K%P
+0x6A8
+沙羅「ありがとう……」%K%P
+Sara「Thank you...」%K%P
+0x6B4
+そっと沙羅が呟く。%K%P
+Sara whispered softly.%K%P
+0x6C0
+沙羅にとって、そのペンダントは、何者にも代え難いお守りなのだろう。%K%P
+I knew that the pendant was an irreplaceable lucky charm for Sara.%K%P
+0x6CC
+それから急に心配げな顔になり言った。%K%P
+Her face suddenly clouded over as she spoke.%K%P
+0x6E0
+沙羅「そうだ。お兄ちゃん……、なっきゅ先輩や、武達は？」%K%P
+Sara「Hey, onii-chan... what happened to Nakkyu, Takeshi, and the others?」%K%P
+0x6EC
+少年「たぶん、大丈夫だと思う」%K%P
+Kid「I think they're alright.」%K%P
+0x6F8
+少年「ぼくが引き返したときには、もう、かなり上まで行ってたんだ」%K%P
+Kid「By the time I turned back, they'd already climbed fairly high.」%K%P
+0x704
+少年「あのまま行けば、無事に地上に出られたはずだよ」%K%P
+Kid「If they kept going, they should've reached the surface.」%K%P
+0x718
+沙羅「そう……、よかった」%K%P
+Sara「Really? That's good to hear.」%K%P
+0x724
+沙羅は、ほっと胸をなで下ろした。%K%P
+Sara looked relieved.%K%P
+0x738
+沙羅「私達も、いつまでもここにいるわけにはいかないね……」%K%P
+Sara「We can't stay here forever...」%K%P
+0x744
+無事に地上に出られたというのに、沙羅の表情はいまいちさえない。%K%P
+We had made it to the surface safely, but Sara didn't look very well.%K%P
+0x750
+やはり、ライプリヒに連れ戻されることをおそれているのだろうか？%K%P
+Was she worried about being taken back to Leiblich after all?%K%P
+0x75C
+少年「なあ、沙羅……」%K%P
+Kid「Hey, Sara...」%K%P
+0x770
+沙羅「なに？」%K%P
+Sara「What?」%K%P
+0x77C
+少年「このまま、逃げよう」%K%P
+Kid「Let's just keep running. Let's run away.」%K%P
+0x788
+沙羅「逃げる？」%K%P
+Sara「Run away?」%K%P
+0x794
+少年「ああ、あいつらから……、ライプリヒから」%K%P
+Kid「Yes. From them... I mean, from Leiblich.」%K%P
+0x7A8
+沙羅「そんな……、無理だよ……」%K%P
+Sara「No... It's impossible...」%K%P
+0x7B4
+少年「無理じゃない」%K%P
+Kid「It is possible.」%K%P
+0x7C0
+沙羅「どうしてそんなこと言い切れるの？」%K%P
+Sara「How can you say that?」%K%P
+0x7CC
+沙羅「あいつらの事はお兄ちゃんだって知ってるでしょ！」%K%P
+Sara「You know about them, right?」%K%P
+0x7D8
+少年「いいか、沙羅、良く考えてみろ」%K%P
+Kid「Think about it, Sara.」%K%P
+0x7E4
+少年「今、この島は大混乱中なはずだ」%K%P
+Kid「This island has to be in utter chaos.」%K%P
+0x7F0
+少年「だってそうだろ、ＬｅＭＵ全体が浸水して、全体の構造すら危なくなっているし……」%K%P
+Kid「Right? LeMU was flooded, and the whole complex is totally destroyed...」%K%P
+0x7FC
+少年「優達が救出されたことで、大騒ぎになっているはずなんだ。だろ？」%K%P
+Kid「And since You and the others got out, this place should be in major confusion, right?」%K%P
+0x810
+沙羅「あ……、うん、そうだね……」%K%P
+Sara「Ah... Yeah, I suppose...」%K%P
+0x81C
+少年「優達はぼくらがまだＬｅＭＵに取り残されているって、そう言ってるはずだ」%K%P
+Kid「They'll be telling everyone how we were left behind in LeMU.」%K%P
+0x828
+少年「そして、優達にとって、それはうそでも何でもない、真実なんだ」%K%P
+Kid「And for You and the others, it's the truth.」%K%P
+0x834
+少年「奴らが疑って、調査したところで、それ以上の真実なんて出てこないよ」%K%P
+Kid「If Leiblich has their doubts and tries to look into them, that's as far as they can investigate.」%K%P
+0x848
+沙羅「そっか……」%K%P
+Sara「Right...」%K%P
+0x854
+少年「だから、今、みんなの目は……、ライプリヒの奴らも含めて、すべて海中に、ＬｅＭＵに向いてるんだ」%K%P
+Kid「So right now, everyone, including Leiblich's people, will be turning their attention to LeMU and looking under the ocean.」%K%P
+0x860
+少年「それどころか、ぼくらは、すでに死んでいると思われていてもおかしくない……」%K%P
+Kid「They might actually think that we're already dead...」%K%P
+0x86C
+沙羅「そうか、そうだよね！」%K%P
+Sara「Yes, that's true!」%K%P
+0x878
+少年「だから、さ」%K%P
+Kid「So...」%K%P
+0x884
+少年「だから、今こそが……」%K%P
+Kid「Now is...」%K%P
+0x898
+沙羅「チャンスなんだね！」%K%P
+Sara「It's our chance, isn't it!?」%K%P
+0x8A4
+少年「そう、今が、今だからこそチャンスなんだ」%K%P
+Kid「Yeah, right now is the chance we've been waiting for.」%K%P
+0x8B8
+沙羅「お兄ちゃん、すごい、すご〜い」%K%P
+Sara「You're so incredible, onii-chan!」%K%P
+0x8C4
+少年「ぼくらはすでにここにいるわけだから、ＬｅＭＵの中でなんか見つかるわけがない」%K%P
+Kid「We're already here, so it's impossible for them to find us in LeMU.」%K%P
+0x8D0
+少年「ＬｅＭＵの中でぼくらが見つからなかったとしたら……」%K%P
+Kid「And if they don't find us in LeMU...」%K%P
+0x8DC
+少年「捜索は、この辺りの海一帯に広がる」%K%P
+Kid「They'll expand their search for us to the sea around this area.」%K%P
+0x8F0
+沙羅「うん」%K%P
+Sara「Right.」%K%P
+0x8FC
+少年「もしかしたら、ぼくらは死んで、海流でどこかに流されたものと見なされるかもしれない……」%K%P
+Kid「They might suspect that we died and the current carried us off somewhere...」%K%P
+0x908
+沙羅「その間に、私たちが身を隠しちゃえば、追ってくる事なんか出来ないはずだよね」%K%P
+Sara「In the meantime, if we hide somewhere, they shouldn't be able to follow us, right?」%K%P
+0x914
+少年「まあ、そこまでうまくは行かないかもしれないけどな……」%K%P
+Kid「Well, I'm not sure if we can pull it all off that easily...」%K%P
+0x920
+少年「それでも、奴らが真相に気がつくまでかなりの時間が稼げるはずだ」%K%P
+Kid「But we'll still have a big head start before they figure out the truth.」%K%P
+0x934
+沙羅「そっか、うん！」%K%P
+Sara「Yeah, right!」%K%P
+0x948
+沙羅「あ……でも……」%K%P
+Sara「Oh... but...」%K%P
+0x954
+沙羅が、ふと視線を落とす。%K%P
+Suddenly, Sara looked down.%K%P
+0x960
+沙羅「でも……、この島からどうやって逃げるの？」%K%P
+Sara「But... how are we going to escape from this island?」%K%P
+0x96C
+少年「え？」%K%P
+Kid「What?」%K%P
+0x978
+沙羅「だって、ここから出る方法がなきゃ逃げようがないでしょ？」%K%P
+Sara「I mean, we can't escape without a way off of this island, right?」%K%P
+0x984
+少年「あ〜、それは……」%K%P
+Kid「Yeah... That's...」%K%P
+0x998
+沙羅「それは？」%K%P
+Sara「That's?」%K%P
+0x9A4
+沙羅は、ぼくを信じ切った瞳でじっと見つめる。%K%P
+Sara looked at me as if she was full of confidence in me.%K%P
+0x9B0
+少年「う……、あ〜、そうだな……」%K%P
+Kid「Uh... Ah... Well...」%K%P
+0x9BC
+参ったな、それは考えてなかった。%K%P
+She had me. I hadn't thought about that.%K%P
+0x9C8
+とにかく、海上に出ればなんとかなると思ってたし……。%K%P
+I thought we would be alright if we could just make it to the surface...%K%P
+0x9D4
+沙羅「…………」%K%P
+Sara「...」%K%P
+0x9E0
+ぼくは必死で考える。%K%P
+I desperately tried to think of something.%K%P
+0x9EC
+少年「うん、そうだ！」%K%P
+Kid「I know! I've got it!」%K%P
+0x9F8
+少年「たぶん、今ここに普段のスタッフとは違う工事関係者や技術スタッフがたくさん出入りしているはずだ」%K%P
+Kid「There should be all kinds of people around right now that aren't normally here, like construction workers and technical staff.」%K%P
+0xA04
+少年「だから、船やヘリコプターの出入りも激しいはずだ」%K%P
+Kid「So ships and helicopters should come and go frequently.」%K%P
+0xA10
+少年「まずどっかで……、服を手に入れて着替えよう」%K%P
+Kid「First of all... we find some clothes and change.」%K%P
+0xA1C
+少年「特に沙羅のその制服じゃあ……、目立つからな」%K%P
+Kid「Especially your uniform... It really stands out.」%K%P
+0xA28
+沙羅「あ……、そうだね」%K%P
+Sara「Oh... You're right.」%K%P
+0xA34
+沙羅は、自分の格好を改めて見直した。%K%P
+Sara looked herself over again.%K%P
+0xA40
+少年「それから……、ヘリコプターは無理でも、船のどれかに潜り込んでどっかの港まで行ければ……」%K%P
+Kid「And... if we can't get aboard a helicopter, then we can sneak onto some ship and get to a port...」%K%P
+0xA4C
+少年「そこまで行けば後は何とかなるよ！」%K%P
+Kid「And after that, we're going to be alright!」%K%P
+0xA60
+沙羅「そっか、やっぱりお兄ちゃんすごいね！　そこまで考えてたんだ」%K%P
+Sara「You're amazing! You really thought this through.」%K%P
+0xA6C
+少年「あ、いや、まあ……そうだね」%K%P
+Kid「Oh, uh... Thanks.」%K%P
+0xA78
+沙羅は無邪気に喜んでいる。%K%P
+Sara smiled innocently.%K%P
+0xA84
+ぼくは、この笑顔を一生守ってやる。%K%P
+I wanted to protect that smile forever.%K%P
+0xA90
+それが自分の使命なんだと、改めて思った。%K%P
+I thought once more that it would be my mission.%K%P
+0xA9C
+少年「さあ、沙羅」%K%P
+Kid「Let's go, Sara.」%K%P
+0xAB0
+ぼくは沙羅に左手をさしのべる。%K%P
+I held out my left hand to Sara.%K%P
+0xABC
+沙羅は少しためらいがちに、ぼくの方へ手を伸ばす。%K%P
+Sara reached out to me hesitantly.%K%P
+0xAC8
+ぼくは、その沙羅の手を、しっかり握りしめた。%K%P
+I held her hand and squeezed it tight.%K%P
+0xAD4
+沙羅の柔らかな手の平のぬくもりが、ぼくに伝わってくる。%K%P
+The warmth of her soft hand spread to mine.%K%P
+0xAE0
+一瞬、沙羅に親指を握られた時の事が頭をよぎる。%K%P
+For an instant, the memory of Sara holding my thumb flashed across my mind.%K%P
+0xAEC
+この手に埋まっていたあのカケラが……、結局ぼくの記憶を引き出し、沙羅との絆に気づかせてくれたんだ。%K%P
+That fragment in my hand... That shard had helped me retrieve my memory and rediscover the bond between Sara and me.%K%P
+0xAF8
+少年「さあ、行こう、沙羅」%K%P
+Kid「Let's go, Sara.」%K%P
+0xB04
+沙羅「うん、お兄ちゃん」%K%P
+Sara「Okay, onii-chan.」%K%P
+0xB10
+少年「ぼくらは、自由になるんだ！」%K%P
+Kid「We're going to be free!」%K%P
+0xB1C
+沙羅「自由に……」%K%P
+Sara「Free...」%K%P
+0xB28
+少年「そう、自由に！」%K%P
+Kid「Yes, free!」%K%P
+0xB34
+沙羅「うん！」%K%P
+Sara「Yeah!」%K%P
+0xB40
+ぼくは、もう二度と沙羅と離れたりはしない！%K%P
+I would never leave Sara again.%K%P
+0xB4C
+必ず、沙羅を守り抜いて見せる。必ず！%K%P
+I would protect Sara no matter what.%K%P
+0xB58
+ぼくらは、自由に向かって……、%K%P
+We started running...%K%P
+0xB64
+駆けだした。%K%P
+Toward freedom...%K%P

@@ -1,0 +1,1098 @@
+text area offset and size:
+0x1A70
+0x4273
+0x30
+カルセル・デルフィーネに着いた。%K%P
+We reached the Dolphin Carousel.%K%P
+0x3C
+回転イルカは、じっと静寂の中にたたずんでいる。%K%P
+The circling dolphins stood still in the silence.%K%P
+0x78
+空「静かですね……」%K%P
+Sora「It's so quiet...」%K%P
+0x84
+空「ここ連日の賑わいが、まるで全部嘘だったように思えます」%K%P
+Sora「Sometimes, it seems that the everyday hubbub is all an empty lie...」%K%P
+0x90
+空は小さく口にした。%K%P
+Sora spoke quietly.%K%P
+0xA4
+空「すいません、不適切な発言でした……。不謹慎ですね」%K%P
+Sora「I apologize, that was inappropriate. It doesn't fit the moment.」%K%P
+0xB0
+武「いや、構わないよ。俺だって、もしもここのことを、何日も前から――」%K%P
+Takeshi「No, I don't mind. If I had known about this place days before...」%K%P
+0xBC
+武「……そう、お客がいっぱいの頃から見て知ってたら、たぶん同じことを思うよ」%K%P
+Takeshi「...Yeah, and if I'd seen it back in the days when it was full of people, I'd probably be thinking the same thing.」%K%P
+0xC8
+武「空はいつから、ＬｅＭＵにいるんだ？」%K%P
+Takeshi「Sora, how long have you been here at LeMU?」%K%P
+0xDC
+空「私が実用レベルで稼動したのは、２０１１年の４月です」%K%P
+Sora「I started working at a functional level in April of 2011.」%K%P
+0xE8
+空「それ以来、ということになります」%K%P
+Sora「So since then.」%K%P
+0xF4
+武「６年、か……」%K%P
+Takeshi「Six years, huh...」%K%P
+0x100
+空「ええ、そうですね」%K%P
+Sora「Yes, that is correct.」%K%P
+0x10C
+空「２２２３日……」%K%P
+Sora「2223 days...」%K%P
+0x120
+それから空は、目を細める。%K%P
+Sora narrowed her eyes.%K%P
+0x12C
+何かに思いを馳せている。%K%P
+She was nearly overcome by some feeling.%K%P
+0x138
+郷愁――だろうか。%K%P
+Could it be nostalgia?%K%P
+0x144
+プログラムされた感情ではない気がした。%K%P
+It didn't seem like a programmed emotion.%K%P
+0x150
+きっと彼女にとっての、大切な思い出がここにあるのだろう。%K%P
+She must have treasured her memories of that place.%K%P
+0x15C
+しばらく俺は空と一緒に、静かなイルカ達の姿をじっと眺めていた。%K%P
+We gazed at the figures of the silent dolphins for a while.%K%P
+0x168
+武「ところで、なぁ、空」%K%P
+Takeshi「So listen, Sora.」%K%P
+0x174
+頃合を見計らって、俺は切り出す。%K%P
+I broke in, hoping it was the right moment.%K%P
+0x188
+空「はい、なんでしょう？」%K%P
+Sora「Yes? What is it?」%K%P
+0x194
+武「内緒の話があるって、言ったけどさぁ」%K%P
+Takeshi「You said you had to talk to me about a secret.」%K%P
+0x1A0
+武「そろそろ……話してくれないかな」%K%P
+Takeshi「Are you ready to tell me about it?」%K%P
+0x1AC
+空「ああ、そうでしたね……」%K%P
+Sora「Ah yes, that's right.」%K%P
+0x1DC
+空は姿勢を正し、俺に向き直った。%K%P
+She straightened and turned to face me.%K%P
+0x218
+それから突然、顔を輝かせて言った。%K%P
+Then, suddenly, her face shone as she said...%K%P
+0x224
+空「倉成さん、鬼ごっこしませんか？」%K%P
+Sora「Kuranari-san, shall we play tag?」%K%P
+0x230
+武「……え？」%K%P
+Takeshi「...Huh?」%K%P
+0x23C
+武「なんだって？」%K%P
+Takeshi「What...?」%K%P
+0x250
+空「昨日のヤミオニ、とっても面白かったんです！」%K%P
+Sora「Kick the can was so much fun yesterday!」%K%P
+0x25C
+空「だから、私と鬼ごっこしませんか？」%K%P
+Sora「So won't you play tag with me?」%K%P
+0x268
+武「鬼ごっこぉ？？」%K%P
+Takeshi「Tag?」%K%P
+0x274
+『だから』鬼ごっこ……の意味がうまく飲み込めない。%K%P
+I couldn't quite grasp the connection.%K%P
+0x288
+空「さぁ、倉成さん、私を――」%K%P
+Sora「Come on, Kuranari-san, you have to...」%K%P
+0x294
+空「捕まえてみてくださいっ！」%K%P
+Sora「Try and catch me!」%K%P
+0x2B0
+空はふわりと地面から浮かぶと、滑るように移動し始めた。%K%P
+She casually floated up off the ground and moved off as if she were gliding.%K%P
+0x2BC
+武「おっおい待てよ空……」%K%P
+Takeshi「Hey, wait a minute, Sora...」%K%P
+0x2D8
+空「ほら、こっちですよ？」%K%P
+Sora「Come on, this way!」%K%P
+0x2E4
+武「ど、どこにいるんだよ！？」%K%P
+Takeshi「Where did you go!?」%K%P
+0x2F0
+俺は咄嗟に、空の姿を目で追った。%K%P
+I immediately looked around for her.%K%P
+0x304
+空「ここですってば」%K%P
+Sora「Right here!」%K%P
+0x318
+空「こっちです」%K%P
+Sora「Over here!」%K%P
+0x32C
+空「どこ見てるんですか？」%K%P
+Sora「Where are you looking?」%K%P
+0x340
+空は、あちらこちらに瞬時に現れては消える。%K%P
+She would flicker into view here and there and then disappear again.%K%P
+0x34C
+武「あのなぁ〜〜、お前なぁ〜〜っ！！」%K%P
+Takeshi「Hey! You!」%K%P
+0x360
+空「こっちこっち」%K%P
+Sora「This way, this way!」%K%P
+0x374
+空「どうしたんですか？」%K%P
+Sora「What's the matter?」%K%P
+0x388
+空「私はここですよ？」%K%P
+Sora「I'm right here!」%K%P
+0x39C
+空は笑いながら、あらゆる場所に姿を現し、また見えなくなる。%K%P
+Laughing, she would show herself in one place and then disappear.%K%P
+0x3A8
+武「ああ！　もう！　なんなんだ！！」%K%P
+Takeshi「Oh, come on! What IS this!?」%K%P
+0x3B4
+武「そもそも、空にだってわかってるはずだぞ？」%K%P
+Takeshi「You know as well as I do...」%K%P
+0x3C0
+武「捕まえるって言ったって……」%K%P
+Takeshi「There's no way I can catch you...」%K%P
+0x3CC
+武「俺はどうやっても、お前を掴めないんだぞ！？」%K%P
+Takeshi「No matter what I do, I can't grab hold of you!」%K%P
+0x3E0
+空Ａ「ええっ！　そうなんですか！？」%K%P
+Sora A「What!? Really?」%K%P
+0x3EC
+空Ｂ「そ、そんなぁっ……！！」%K%P
+Sora B「No, surely not...!」%K%P
+0x3F8
+空Ｃ「そうでしたか……。ふふふっ、私、知りませんでした」%K%P
+Sora C「I see... Heehee, I didn't realize that.」%K%P
+0x404
+思い切りとぼけた。%K%P
+She was playing dumb.%K%P
+0x410
+空は３人になっていた……。%K%P
+Sora had split into three images...%K%P
+0x41C
+武「な、なんだよ……おい」%K%P
+Takeshi「What the heck...」%K%P
+0x428
+武「ど、どうしちゃったんだ、空？」%K%P
+Takeshi「What's happened to you, Sora?」%K%P
+0x43C
+空Ａ「あらぁ、どうしちゃったんでしょう？」%K%P
+Sora A「Hmm, what could it be?」%K%P
+0x448
+大げさに首を傾げる。%K%P
+She shrugged exaggeratedly.%K%P
+0x454
+３人全員が同時に傾いた……。%K%P
+All three leaned toward me at the same time...%K%P
+0x460
+空Ｂ「私、変ですか？」%K%P
+Sora B「Do you think I am strange?」%K%P
+0x46C
+空Ｃ「どうにかなってますか？」%K%P
+Sora C「Is there something wrong with me?」%K%P
+0x478
+武「それは俺のほうが訊きたいぞ！」%K%P
+Takeshi「I'm the one that should be asking that question!」%K%P
+0x484
+武「どういう風の吹き回しなんだよ！？」%K%P
+Takeshi「What the heck is going on here!?」%K%P
+0x498
+空Ｂ「ふふっ……♪」%K%P
+Sora B「Heehee〜」%K%P
+0x4A4
+空Ａ「なんだか、自分でもよくわからなくなってきました……♪」%K%P
+Sora A「I don't even know myself anymore what's going on...」%K%P
+0x4B0
+空Ｃ「とってもふわふわしてて、いい気持ちです……♪」%K%P
+Sora C「I feel all happy and fluffy...」%K%P
+0x4BC
+空は軽く酔っ払ったかのように、よろけながら浮かんでいた。%K%P
+She was floating around like someone who was slightly drunk.%K%P
+0x4C8
+俺は心配になってしまった……。%K%P
+I started to worry.%K%P
+0x4D4
+武「そ、空っ！　ほんとに大丈夫か？」%K%P
+Takeshi「S-Sora! Are you okay?」%K%P
+0x4E0
+武「具合悪くなってないか？　疲れてるんじゃないか？」%K%P
+Takeshi「You're sure you're not sick? Or tired?」%K%P
+0x4EC
+武「なんか、ヤバいことになってないよな？」%K%P
+Takeshi「Nothing bad's happened, has it?」%K%P
+0x4F8
+武「重大なエラーがないかどうか……レミに診てもらおうか？」%K%P
+Takeshi「Maybe we should get LeMMIH to check you out... to make sure there's not some serious error...」%K%P
+0x504
+空「もう……！　倉成さんったら……」%K%P
+Sora「Why, Kuranari-san...!」%K%P
+0x510
+空は口を尖らせ、大げさな溜め息をついてみせる。%K%P
+She pursed her mouth and took a huge sigh.%K%P
+0x52C
+それから突然、ぴしり、とかしこまったポーズで俺の目の前に現れた。%K%P
+Then, suddenly, she appeared right in front of me in a slightly troubled pose.%K%P
+0x538
+その像は動かず、ひとつだった。%K%P
+She didn't move, and there was only one of her.%K%P
+0x544
+空「わかりました」%K%P
+Sora「Alright.」%K%P
+0x550
+空「意地悪するのは、これくらいにしておきます」%K%P
+Sora「I will stop playing around with you.」%K%P
+0x55C
+武「い、意地悪……？？」%K%P
+Takeshi「Playing around...?」%K%P
+0x570
+空「ええ」%K%P
+Sora「Yes.」%K%P
+0x57C
+空「今のは、ちょっとした冗談です……」%K%P
+Sora「That was just a little joke...」%K%P
+0x588
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x594
+空「そろそろ本題に入りますね」%K%P
+Sora「Now, for the reason I brought you here.」%K%P
+0x5A0
+俺はちょっぴりこめかみを押さえて頭を振る。%K%P
+I shook my head, putting my fingers against my temples.%K%P
+0x5B4
+空はそんな俺を見て微笑む。%K%P
+Seeing that, Sora smiled at me.%K%P
+0x5C0
+やがてイルカは音も立てず、静かに回転し始めた。%K%P
+Without making any noise at all, the dolphins began quietly circling again.%K%P
+0x5F0
+俺は手近な人工岩（マスコットが貼りつけてある）に寄りかかった。%K%P
+I leaned against a handy artificial rock with a mascot pasted to it.%K%P
+0x5FC
+空はもう一度『気をつけ』をすると、ゆっくりと語り始めた。%K%P
+Sora stood at attention once again and began speaking slowly.%K%P
+0x638
+空「昨日のお話の続きです」%K%P
+Sora「This is the continuation of our conversation yesterday.」%K%P
+0x644
+空「私という存在が世界にひとつしかない理由……」%K%P
+Sora「The reason that there is only one being like me in the world...」%K%P
+0x650
+空「製作者のポリシーだとお話ししたと思います」%K%P
+Sora「I think I told you that it was the policy of my creator.」%K%P
+0x664
+空「独立したひとつの統合された人格である為に、私の能力にはあえて、制限が設けてあるのです」%K%P
+Sora「In order to give me a unified individual personality, there are restrictions on my faculties.」%K%P
+0x670
+空「しかし、理論上は、複数の私が同時に存在できます」%K%P
+Sora「However, theoretically, several of me can exist at the same time.」%K%P
+0x67C
+空「先程、お見せした通りです」%K%P
+Sora「Just like I showed you before.」%K%P
+0x690
+空「……もう１回見ますか？」%K%P
+Sora「...Shall I show you again?」%K%P
+0x69C
+武「いいや、遠慮しとくよ。目が回りそうだ」%K%P
+Takeshi「No thanks. I'm still recovering...」%K%P
+0x6B0
+空「ふふふっ……じゃ、もうしないことにしておきます」%K%P
+Sora「Heehee... Alright, I won't do it anymore.」%K%P
+0x6BC
+そこで一旦言葉を切る。%K%P
+She stopped there.%K%P
+0x6C8
+少し考えるようにして、それから深く息を吸って、空は続けた。%K%P
+She seemed to be thinking about something, then took a deep breath and continued.%K%P
+0x6DC
+空「さっきのあれ……」%K%P
+Sora「Just now...」%K%P
+0x6E8
+空「どれが私か、わかりましたか？」%K%P
+Sora「Could you tell which one was me?」%K%P
+0x6F4
+武「えっ？」%K%P
+Takeshi「Huh?」%K%P
+0x700
+空「どれが、私でしょう」%K%P
+Sora「Which one was me?」%K%P
+0x70C
+武「さぁ、どれって、言われてもなぁ……」%K%P
+Takeshi「Well, which... Uh...」%K%P
+0x718
+武「だいたい、あの、複数の空の姿……それぞれに違いがあるのか？」%K%P
+Takeshi「So the several versions of you... they're all different?」%K%P
+0x724
+空「いいえ、ありません」%K%P
+Sora「No.」%K%P
+0x730
+武「じゃあ、どれも同じだよ……」%K%P
+Takeshi「Well then, they're all the same.」%K%P
+0x73C
+武「全部、同じ空だ」%K%P
+Takeshi「They're all the same Sora.」%K%P
+0x750
+空「正解」%K%P
+Sora「Correct.」%K%P
+0x75C
+空は微笑んだ。%K%P
+Sora smiled.%K%P
+0x770
+空「そう、どれも私……」%K%P
+Sora「Yes, they're all me...」%K%P
+0x77C
+空「純粋なコピー……いえ、クローン、と言ったほうがわかり易いかもしれませんね」%K%P
+Sora「Perfect copies... No, perhaps it is easier to understand if I use the word 'clones'.」%K%P
+0x790
+空「倉成さんは、２０１０年に改正公布された『クローン法』についてご存知ですか？」%K%p
+Sora「Kuranari-san, are you aware of the 'Clone Law' that was officially amended in 2010?」%K%p
+0x1A18
+知ってる
+I know
+0x1A24
+知らない
+I don't know
+0x7D0
+武「ああ、知ってる。２０１０年に――」%K%P
+Takeshi「Yes, I know of it. In 2010...」%K%P
+0x7DC
+武「それまで禁止されていた人間のクローン受精は、法律で認められたんだ」%K%P
+Takeshi「Human cloning, which had been illegal up until then, was allowed by law.」%K%P
+0x7E8
+武「省庁の許可さえ得られれば、誰でもクローン受精による不妊治療が受けられるようになった」%K%P
+Takeshi「As long as anyone receives the approval of the authorities, they can undergo clone fertilization as a way to treat infertility.」%K%P
+0x7F4
+武「培養した体細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させる……」%K%P
+Takeshi「The nucleus is taken from an already- cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it's implanted into the mother's womb...」%K%P
+0x800
+武「俺の友達の親戚にも、経験者がいるよ」%K%P
+Takeshi「One of my friend's relatives went through it.」%K%P
+0x80C
+空「だったら、クローンについての説明はいりませんね……」%K%P
+Sora「Well then, you don't need an explanation about cloning.」%K%P
+0x820
+武「いや、知らない。つーか……忘れた」%K%P
+Takeshi「No, I don't know. I mean... I forget.」%K%P
+0x82C
+空「２０１０年に――」%K%P
+Sora「In 2010?」%K%P
+0x838
+空「それまで禁止されていた人間のクローン受精は、法律で認められました」%K%P
+Sora「Human cloning, which had been illegal up until then, was allowed by law.」%K%P
+0x844
+空「現在では、省庁の許可さえ得られれば、誰でもクローン受精による不妊治療が受けられるようになっています」%K%P
+Sora「Currently, as long as anyone receives the approval of the authorities, they can undergo clone fertilization as a way to treat infertility.」%K%P
+0x850
+空「培養した体細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させることで……」%K%P
+Sora「The nucleus is taken from an already- cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it's implanted into the mother's womb...」%K%P
+0x85C
+武「ああ、そうだ思い出した！！」%K%P
+Takeshi「Oh, that's right, I remember now!」%K%P
+0x868
+武「俺の友達の親戚にも、確か経験者がいるよ、うん」%K%P
+Takeshi「One of my friend's relatives went through it.」%K%P
+0x874
+空「ご理解頂けましたか？」%K%P
+Sora「Do you understand?」%K%P
+0x880
+武「あ、えーと……」%K%P
+Takeshi「Uh... Uhm... Well...」%K%P
+0x88C
+武「だけど、それとこれとは話が違うんじゃないかなぁ……」%K%P
+Takeshi「But what does that have to do with this?」%K%P
+0x898
+武「クローンはそれぞれ別々に成長して、別個の存在になるだろ？」%K%P
+Takeshi「Clones develop separately. In other words, they're different entities.」%K%P
+0x8A4
+武「同一の人間じゃないよ。双子みたいなもので……」%K%P
+Takeshi「They're not the same person. They're more like twins...」%K%P
+0x8B0
+空「でも、その由来は単一です」%K%P
+Sora「But their source is the same.」%K%P
+0x8BC
+空は淡々と述べた。%K%P
+She spoke almost casually.%K%P
+0x8C8
+空「話を戻しますね……」%K%P
+Sora「Let's go back to what we were talking about...」%K%P
+0x8EC
+それから空は、またしても多数に分身した。%K%P
+Then she branched into her several selves again.%K%P
+0x8F8
+それはもうしないって言ったじゃないか……。%K%P
+And she'd said she wouldn't do it anymore...%K%P
+0x904
+やっぱり俺は、目眩がした。%K%P
+Sure enough, I was dizzy.%K%P
+0x910
+空「この、等しく分けられた『私』……」%K%P
+Sora「This 'me', evenly divided...」%K%P
+0x91C
+空「すべてが『茜ヶ崎空』なのです」%K%P
+Sora「...is all 'Akanegasaki Sora'.」%K%P
+0x928
+空「そこには『私』がいますが、同時に『ここにいる私』はそこにはいない」%K%P
+Sora「That 'me' is over there, and at the same time, this 'me' is not there.」%K%P
+0x934
+空「ここに私がいて、けれど、向こうの『私』とは違う私」%K%P
+Sora「I am here, but the 'me' over there is a different 'me'.」%K%P
+0x940
+空「しかし私であることにかわりはない『私』……」%K%P
+Sora「But they are all me, the same 'me'...」%K%P
+0x94C
+空「すべて、私」%K%P
+Sora「All me.」%K%P
+0x958
+空「そうだとすれば……」%K%P
+Sora「Which means...」%K%P
+0x964
+空「私は単一であると同時に多数になる」%K%P
+Sora「I am one, yet at the same time, I am many.」%K%P
+0x970
+空「私は、あらゆる場所、どこにでもいる存在になる」%K%P
+Sora「I can be in any place, exist everywhere.」%K%P
+0x97C
+空「私は――遍在している」%K%P
+Sora「I am―omnipresent.」%K%P
+0x988
+空「ええ、そうです……」%K%P
+Sora「Yes, that's right.」%K%P
+0x994
+空「同じ空間の中に、時間の中に、複数の私が存在できるのです」%K%P
+Sora「There can be several of me existing in the same space at the same time.」%K%P
+0x9A0
+空「例えば、倉成さんの前と、ココちゃんの前」%K%P
+Sora「For example, in front of you and in front of Coco-chan.」%K%P
+0x9AC
+空「あそことここに、ふたりの私がいる」%K%P
+Sora「There and here, there are two of me.」%K%P
+0x9B8
+空「けれどそれは、決して『Ｗ』ではなく……」%K%P
+Sora「But they are definitely not 'W'...」%K%P
+0x9C4
+空「『Ｙ』なのです」%K%P
+Sora「But 'Y'.」%K%P
+0x9D0
+武「『Ｙ』？」%K%P
+Takeshi「'Y'?」%K%P
+0x9DC
+空「ある由来から出でて、分かれた『Ｙ』」%K%P
+Sora「'Y' because we split from our source, branching off.」%K%P
+0x9E8
+空は宙を舞った。%K%P
+Sora danced around in midair.%K%P
+0x9F4
+その残像は増えたり減ったりしている。%K%P
+Her other images multiplied and disappeared.%K%P
+0xA00
+もはや、大きさも量も距離も不定だった。%K%P
+It was impossible to even tell their size, amount, or distance.%K%P
+0xA0C
+空「そうですね……考えてみてください」%K%P
+Sora「You see... Please think of it this way.」%K%P
+0xA18
+空「もしも、あなたという人格を、そっくりそのままコピーすることができるとしたら……？」%K%P
+Sora「What if you could be copied exactly, just the way you are?」%K%P
+0xA24
+武「？？」%K%P
+Takeshi「?」%K%P
+0xA30
+……何を言っているんだ……？%K%P
+...What was she saying...?%K%P
+0xA3C
+空「たとえば……」%K%P
+Sora「For instance...」%K%P
+0xA48
+空「たとえば、あなたの脳に刻まれたすべての記憶、考えかた、感じかた、人格、性格、感情……」%K%P
+Sora「For instance, what if every recollection, thought, feeling, character trait, personality, and emotion that is etched into your mind...」%K%P
+0xA54
+空「それらすべての情報を、正確に、忠実に摘出することができたとして」%K%P
+Sora「In other words, your whole intelligence could be perfectly, exactly extracted...」%K%P
+0xA60
+空「それを何らかの記憶媒体に複製し、しかもその機能を再現できるとしたら」%K%P
+Sora「And then duplicated in some kind of storage medium, even reproducing all your abilities...」%K%P
+0xA6C
+空「そのとき、本当のあなたは、どこにいるでしょうか？」%K%P
+Sora「Then where is the real 'you'?」%K%P
+0xA78
+空「肉体に残ったままの人格が、本当のあなた？」%K%P
+Sora「The 'you' who stays in your body, is that the real 'you'?」%K%P
+0xA84
+空「それとも、複製した人格が、本当のあなた？」%K%P
+Sora「Or is the duplicate character, in fact, 'you'?」%K%P
+0xA90
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xA9C
+空「正解は、そのいずれにも、本当のあなたがいる、です」%K%P
+Sora「The answer is, in any case, that the real 'you' does exist in both.」%K%P
+0xAA8
+空「もしそのようなことが可能になったら……」%K%P
+Sora「If such a thing was possible...」%K%P
+0xAB4
+空「あなたは、非減数分裂的に分裂するでしょう」%K%P
+Sora「You would split in a form of non-reductional division.」%K%P
+0xAC0
+空「つまり、リンゴをふたつに割るような分裂の仕方ではなく……」%K%P
+Sora「In other words, it is not the same as splitting an apple into two...」%K%P
+0xACC
+空「そのリンゴと同じ質量、同じ形、同じ成分を持ったリンゴが、もうひとつ誕生するということです」%K%P
+Sora「It is as if another apple with the exact same mass, shape, and composition comes into being.」%K%P
+0xAD8
+空「そのとき、あなたはふたつになるでしょう」%K%P
+Sora「When that happens, you become two.」%K%P
+0xAF4
+空は分身をひとつだけ残して他を消し、俺の前に立った。%K%P
+Sora got rid of all but one extra body and stood in front of me.%K%P
+0xB00
+今、目の前には空が『ふたり』いる。%K%P
+There were only two copies of Sora before me.%K%P
+0xB0C
+どちらが元の空なのか、区別はつかない……。%K%p
+There was no way to tell which was the original...%K%p
+0x1A30
+もっと聞く
+Hear more
+0x1A3C
+暴れる
+Struggle
+0xB54
+（しかし空は何故、こんな話を……？）%K%P
+(But why is Sora telling me all this...?)%K%P
+0xB60
+そう思ったが、俺は黙って耳を傾けた。%K%P
+I wondered, but kept quiet and listened.%K%P
+0xB74
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xB80
+武「……わ」%K%P
+Takeshi「...I...」%K%P
+0xB8C
+武「わけわかんねぇ」%K%P
+Takeshi「I don't get it.」%K%P
+0xB98
+俺は頭を掻きむしりたくなった。%K%P
+I wanted to scratch my head.%K%P
+0xBA4
+いや、実際掻きむしった。%K%P
+No, I actually did scratch my head.%K%P
+0xBB0
+武「俺がふたつだって！？」%K%P
+Takeshi「There's two of me!?」%K%P
+0xBBC
+武「何を言ってる？」%K%P
+Takeshi「What are you saying?」%K%P
+0xBC8
+武「俺は誰だっ？」%K%P
+Takeshi「Who am I?」%K%P
+0xBD4
+武「俺は俺だあっ！」%K%P
+Takeshi「Who am I!?」%K%P
+0xBE0
+武「他に俺はいるかあぁっ！？」%K%P
+Takeshi「Is there another me!?」%K%P
+0xBEC
+武「いたら返事しろっての！！」%K%P
+Takeshi「If you're out there, answer me!」%K%P
+0xBF8
+暴れたくなった。%K%P
+I wanted to rage, to hit something.%K%P
+0xC04
+そうしないように歯をギリギリ食いしばっていた。%K%P
+I had to grind my teeth together to keep myself still.%K%P
+0xC18
+空「倉成さん、落ち着いて……」%K%P
+Sora「Calm down, Kuranari-san...」%K%P
+0xC24
+空「ちゃんと聞いてください……」%K%P
+Sora「Listen to me...」%K%P
+0xC30
+空は眉をへの字にする。%K%P
+She arched her eyebrow.%K%P
+0xC3C
+空「そうだとしたら、の話なんですよ……」%K%P
+Sora「I'm saying, what if...」%K%P
+0xC50
+空「細胞クローンでなく、真の意味でのクローニングというものがあったなら」%K%P
+Sora「If there were such a thing as true cloning, not just cellular cloning.」%K%P
+0xC5C
+空「オリジナルとまったく区別されることのないコピーがこの世に存在したら」%K%P
+Sora「If there were a copy that could exist in the world with absolutely no difference from the original.」%K%P
+0xC68
+空「そういう、仮定の話なんです……」%K%P
+Sora「I am simply speaking hypothetically...」%K%P
+0xC7C
+空「聞いてください、お願いですから……」%K%P
+Sora「Please, just listen to me...」%K%P
+0xC88
+武「わかった、わかった！！」%K%P
+Takeshi「Alright, alright!」%K%P
+0xC94
+武「わかったよ……聞くよ」%K%P
+Takeshi「Alright. I'll listen.」%K%P
+0xCA0
+俺は一旦音声変換機を外して耳の穴をかっぽじってから元に戻した。%K%P
+I took the voice adapter out for a moment, rubbed my ear, and put it back.%K%P
+0xCAC
+それから深呼吸をひとつ。%K%P
+Then I took a deep breath.%K%P
+0xCB8
+武「はぁーーーっ、ふぅーーーっ……」%K%P
+Takeshi「Haaaaaaaa... hoooooo...」%K%P
+0xCC4
+武「さぁ、来い！！」%K%P
+Takeshi「Alright, bring it on!」%K%P
+0xCD0
+空「…………」%K%P
+Sora「.........」%K%P
+0xCE4
+空「では、続けます……」%K%P
+Sora「Very well, I will continue.」%K%P
+0xCF0
+空「そう……あなたは、ふたつになった」%K%P
+Sora「Yes... You became two.」%K%P
+0xCFC
+ふたりの空は同時にしゃべっている。%K%P
+The two Soras were speaking in unison.%K%P
+0xD10
+空「歴史的には、その瞬間から、ふたりのあなたは別々の個体として、時間軸上を歩んで行くことになります」%K%P
+Sora「Historically, and from that moment forward, the two of you are traveling down the time axis as separate entities.」%K%P
+0xD1C
+空「けれど、その道のりを振り返ってみれば、ふたつのあなたは、ある１点で結ばれていたことがわかるはずです」%K%P
+Sora「But, if you turn around and look at the journey you have taken, you will see that the two of you were joined together at one point.」%K%P
+0xD28
+空「それが……つまり『Ｙ』なのです。『Ｗ』ではなく%N『Ｙ』」%K%P
+Sora「It is split like a 'Y', with two points emerging from one line. Not a 'W', with two separate points of origin.」%K%P
+0xD34
+空「あるポイントを基点として、別々に分かれて行くふたつの自分を、あなたは想像できないかもしれません」%K%P
+Sora「You may be unable to imagine two of yourself splitting apart and going different ways at a particular base point.」%K%P
+0xD40
+空「しかし、それは既に起こっていることなのです」%K%P
+Sora「But that is something that has already happened.」%K%P
+0xD54
+空「あなたは常に、絶え間なく訪れては過ぎ去って行く瞬間の中で、何らかの選択を迫られています」%K%P
+Sora「You are always, constantly, approaching a choice in each present moment that becomes the past the instant you visit it.」%K%P
+0xD60
+空「Ａの道を行くか？　Ｂの道を行くか？」%K%P
+Sora「Will you choose path A? Will you choose path B?」%K%P
+0xD6C
+空「ここにいるあなたがＡの道を歩んできたとしても、別の時間軸上では、Ｂの道を歩んできたあなたが存在するかもしれません」%K%P
+Sora「The 'you' that is standing here may have come down path A, but in another time axis, there may be a 'you' who is going down path B.」%K%P
+0xD78
+空「そして、Ａの道のあなたも、Ｂの道のあなたも、あなたであることに変わりはない」%K%P
+Sora「And both the 'you' on path A and the 'you' on path B are still 'you'.」%K%P
+0xD8C
+空「ただ、Ａの道にいるあなたは、Ｂの道にいるあなたのことを知りません」%K%P
+Sora「Except that the 'you' on path A doesn't know about the 'you' on path B.」%K%P
+0xD98
+空「知る手段がないからです」%K%P
+Sora「Because there is no way to know.」%K%P
+0xDA4
+空「同様に、Ｂの道にいるあなたも、Ａの道にいるあなたのことには気づかないでしょう」%K%P
+Sora「In the same way, the 'you' on path B probably isn't aware of the 'you' on path A either.」%K%P
+0xDC8
+空「なぜだかわかりますか？」%K%P
+Sora「Do you know why that is?」%K%P
+0xDDC
+空「なぜだかわかりますか？」%K%p
+Sora「Do you?」%K%p
+0x1A48
+わからない
+I don't know
+0x1A54
+わかる
+I do know
+0xE1C
+武「わからない……」%K%P
+Takeshi「I don't know...」%K%P
+0xE28
+俺は正直に答えた。%K%P
+I answered honestly.%K%P
+0xE34
+空「あなたが３次元的な知覚能力しか持っていないからです」%K%P
+Sora「It is because you only have the ability to perceive three dimensions.」%K%P
+0xE40
+空「倉成さん、私が立体に見えますか？」%K%P
+Sora「Kuranari-san, do I look corporeal to you?」%K%P
+0xE4C
+武「ああ、それは勿論」%K%P
+Takeshi「Of course.」%K%P
+0xE58
+空「では、耳の変換機を片側だけ外して、私の横に回り込んで見てください」%K%P
+Sora「In that case, please take out just one of the earphones of your voice adapter and come around here to my side.」%K%P
+0xE64
+俺はイヤホンをそっと外し、言う通りにしてみる。%K%P
+I carefully removed an earphone and did as she said.%K%P
+0xE70
+武「……！？」%K%P
+Takeshi「...!?」%K%P
+0xE7C
+武「おいっ、空、お前……」%K%P
+Takeshi「Hey, Sora, you...」%K%P
+0xE90
+突然、空の姿が見えなくなった。%K%P
+Naturally, Sora had become invisible.%K%P
+0xE9C
+武「どこに行った？」%K%P
+Takeshi「Where did you go?」%K%P
+0xEA8
+空「ここです」%K%P
+Sora「I am here.」%K%P
+0xEB4
+武「見えないぞ？」%K%P
+Takeshi「I can't see you...」%K%P
+0xEC0
+空「私は動いていません。姿も、消していません」%K%P
+Sora「I haven't moved. And I haven't made myself invisible.」%K%P
+0xECC
+空「元の位置に戻って頂けますか？」%K%P
+Sora「Will you please return to where you were?」%K%P
+0xED8
+武「あ、ああ……」%K%P
+Takeshi「Y-yeah...」%K%P
+0xEE4
+恐る恐る、身体を元の立ち位置に近づける。%K%P
+Hesitantly, I moved back toward where I had been standing.%K%P
+0xF00
+空の身体は……%K%P
+Sora's body...%K%P
+0xF0C
+何もない空間上から翻るようにして、少しずつ視野に入ってくる……。%K%P
+It was like watching something flutter into an empty space. She slowly came into my line of vision...%K%P
+0xF18
+俺は元に戻る。%K%P
+I went back to where I was.%K%P
+0xF24
+音声変換機も、耳に戻した。%K%P
+I put the voice adapter back in my ear.%K%P
+0xF40
+空も何事もなかったように、俺の視界の両端に立っていた。%K%P
+Sora was standing on both sides of my line of vision as if nothing had happened at all.%K%P
+0xF4C
+空「次は、右目をつぶってみてください」%K%P
+Sora「Now, please close your right eye.」%K%P
+0xF58
+武「こうか？」%K%P
+Takeshi「Like this?」%K%P
+0xF64
+右目を閉じる……。%K%P
+I closed my right eye.%K%P
+0xF78
+向かって右側に立っていた空の姿は、消えた。%K%P
+The Sora standing on the right side vanished.%K%P
+0xF84
+左側の空だけが、その場に残っている。%K%P
+Only the Sora standing on the left side was still there.%K%P
+0xF90
+空「次は、右目を開けて、左目をつぶってください」%K%P
+Sora「Next, open your right eye and close your left.」%K%P
+0xF9C
+右目を開き、左目を閉じる……。%K%P
+I opened my right eye and closed my left...%K%P
+0xFB8
+左の空が視界から消えて、右の空が再び現れる。%K%P
+That time, the Sora on the left vanished, and the Sora on the right sprang into view.%K%P
+0xFC4
+空「さぁ、両目を開けてください」%K%P
+Sora「Now, open both your eyes.」%K%P
+0xFD0
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xFE4
+変わらず視界の左右の端に、ふたりの空が立っていた。%K%P
+Just like before, two Soras stood at either edge of my vision.%K%P
+0xFF0
+空「３次元の立体を『見』るには……」%K%P
+Sora「To 'see' a three-dimensional figure...」%K%P
+0xFFC
+空「ふたつの眼から得た２次元情報のずれ、視差を利用します」%K%P
+Sora「You take two-dimensional information acquired from both of your eyes, and your brain analyzes and processes it accordingly to gain the correct depth.」%K%P
+0x1008
+空「では、３次元の空間そのものを外から眺め、認識するには……？」%K%P
+Sora「So to see a three-dimensional space from the outside, and be able to recognize it...?」%K%P
+0x1014
+武「……わからん。わからんけど……」%K%P
+Takeshi「...I don't get it. I don't get it, but...」%K%P
+0x1020
+武「なんとなく、わかってきた」%K%P
+Takeshi「Somehow, I think DO get it.」%K%P
+0x1034
+武「自明なことだよ」%K%P
+Takeshi「It's obvious.」%K%P
+0x1040
+俺は答える。%K%P
+I answered.%K%P
+0x104C
+武「空だって今、『知る手段がない』って明言したじゃないか」%K%P
+Takeshi「You just stated that 'there is no way to know'.」%K%P
+0x1058
+武「Ａの『俺』からは、Ｂの『俺』を『見』る手段が存在しない」%K%P
+Takeshi「There is no means in existence to let my 'A' self see my 'B' self.」%K%P
+0x1064
+武「人間が３次元の立体を認識する為には、ふたつの眼から平面化された映像情報を得て、その視差で知覚しなきゃならない」%K%P
+Takeshi「For a person to see a three-dimensional body, they have to receive flattened visual information from two eyes, and the brain has to make sense of it.」%K%P
+0x1070
+武「それと同じことで……」%K%P
+Takeshi「In the same way...」%K%P
+0x107C
+武「Ａの俺とＢの俺がいる、ということがわかる位置……『Ｙ』の字のさらに外にある視点に移動しない限り――」%K%P
+Takeshi「To know that both 'A' and 'B' of yourself exist, you'd have to move to a perspective completely outside the 'Y'.」%K%P
+0x1088
+武「たとえ頭でわかっていても、実際にＡとＢの俺が実在することを確かめることはできないんだ」%K%P
+Takeshi「Even if you understand it intellectually, you can't actually confirm that 'A' and 'B' both exist.」%K%P
+0x1094
+空「そうです」%K%P
+Sora「That's right.」%K%P
+0x10A8
+空「素晴らしいですね……。倉成さん、素質があるんじゃないですか？」%K%P
+Sora「Wonderful... Kuranari-san, you might be a natural at this.」%K%P
+0x10B4
+武「何の？」%K%P
+Takeshi「At what?」%K%P
+0x10C0
+空「物理学者……あるいは、哲学者の」%K%P
+Sora「At physics... or perhaps even philosophy.」%K%P
+0x10CC
+武「おだてないでくれ」%K%P
+Takeshi「You don't have to flatter me.」%K%P
+0x10E0
+空は、宙に手をかざした。%K%P
+Sora held her hand up in the air.%K%P
+0x10EC
+ホログラフィックが見える……。%K%P
+I could see a holograph...%K%P
+0x1108
+中空に現れた１枚の板は、綺麗に折りたたまれて正四角形になった。%K%P
+A board appeared in midair and neatly folded itself into a square.%K%P
+0x1114
+面の上に光点がひとつ現れ、移動を始める。%K%P
+A point of light appeared and started moving.%K%P
+0x1120
+空「仮に、２次元の世界に知的生命体がいるとしましょう」%K%P
+Sora「Let's say that there are intelligent beings in a two-dimensional world.」%K%P
+0x112C
+空「彼は３次元の立体を見ることができますか……？」%K%P
+Sora「Can they see a three-dimensional object?」%K%P
+0x1140
+空「いいえ、彼にはできません」%K%P
+Sora「No, they cannot.」%K%P
+0x114C
+四角形は立方体に変化する。%K%P
+The square changed into a cube.%K%P
+0x1158
+空「なぜなら、２次元的な存在である彼は、平面上で起こった出来事しか知覚することができないからです」%K%P
+Sora「The reason is that since they only exist in two dimensions, they can only perceive those things which happen on a plane.」%K%P
+0x1164
+空「２次元存在の視野には、直線（１次元）しか映りませんから……」%K%P
+Sora「In a two-dimensional field of vision, only straight lines (one dimension) can be reflected.」%K%P
+0x1170
+立方体の６つのすべての面に、光点があった。%K%P
+The dots of light appeared on all six faces of the cube.%K%P
+0x117C
+しかしそれぞれの面にある光点は、その単一の面の上だけを動き回り、他の光点と交わることは絶対にない。%K%P
+But each light only moved around the surface of its own square, never intersecting with the other lights.%K%P
+0x1190
+空「さて、何らかの理由で彼が３次元的存在に変化したとしましょう」%K%P
+Sora「Now then, let's say that for some reason they become three-dimensional.」%K%P
+0x119C
+空「すると、３次元的存在である彼の視野には、平面（２次元）しか映らなくなるはずです」%K%P
+Sora「Then, in their three-dimensional range of vision, only planes (two dimensions) can be reflected.」%K%P
+0x11A8
+６つの面にあった光点は集合してひとつになり、立方体の中央に移動する。%K%P
+The lights from the six surfaces gathered together to become one and moved to the center of the cube.%K%P
+0x11BC
+そして立方体の縦横に、新たなホログラムの立方体がいくつも現れた。%K%P
+And in every direction, new holograms of cubes appeared.%K%P
+0x11C8
+立方体同士は面でくっつき、隙間なく並ぶ。%K%P
+The cubes lined up surface to surface, without even a crevice between them.%K%P
+0x11D4
+空「３次元における立体視は、左目に映った平面と、右目に映った平面を合成しているに過ぎません」%K%P
+Sora「With three-dimensional sight, all that happens is that the plane reflected in the right eye and the plane reflected in the left eye are synthesized into one image.」%K%P
+0x11E0
+空「精巧に、緻密に描かれた富士山の書き割りと、本物の富士山の映像を、近づくことなしに見わけることはできないでしょう」%K%P
+Sora「It would be impossible to achieve something close to the real image of Mount Fuji, for example, even with a finely-drawn backdrop.」%K%P
+0x11EC
+すべての立方体の中には、光点がひとつずつ浮かんでいる。%K%P
+A light floated in each of the cubes.%K%P
+0x11F8
+立方体の内部にある光点は、盛んに外側の６つの面に衝突反射し、絶え間なく動いている。%K%P
+The lights moved incessantly, vigorously colliding into the six faces of the cubes and moving.%K%P
+0x1204
+しかしそれらは単一の立方体から出て行くことがなく、他の光点とは決して交わらない。%K%P
+But each light never left its cube and never intersected with any of the other lights.%K%P
+0x1210
+空「繰り返しますが……」%K%P
+Sora「Shall we go over it again?」%K%P
+0x121C
+空「平面（２次元）としての情報を、同時に２方向から入手することによって、立体を知覚していると錯覚しているだけなのです」%K%P
+Sora「By combining two-dimensional information coming in at the same time from two different sources, you are really just hallucinating that you are perceiving a solid form.」%K%P
+0x1228
+空「それは３次元的な視覚とは呼べません」%K%P
+Sora「That is not true three-dimensional vision.」%K%P
+0x1234
+空「３次元的な視覚とは、サイコロの６面すべてを、同時に見ることができる視覚のことを言うのです」%K%P
+Sora「Three-dimensional vision is when you can see all six sides of a cube at the same time.」%K%P
+0x1240
+空「ｎ次元存在にはｎ−１次元の視覚情報しか得られない」%K%P
+Sora「In an 'n' dimension, you can only obtain visual information in the dimension of 'n-1'.」%K%P
+0x124C
+空「ですからＹの字の先端にいる存在は、もう一方の先端にいる存在のことに気づけないのです」%K%P
+Sora「This is why if you are on one tip of the 'Y' shape, it means that you cannot be aware of what is happening at the other tip.」%K%P
+0x1258
+空「もしも、彼が３次元的視野を獲得したとき……」%K%P
+Sora「Let's say that you did obtain a three-dimensional range of vision...」%K%P
+0x1264
+空「つまり２次元平面から脱出して、３次元空間内から、その平面を『見下ろした』ときに――」%K%P
+Sora「So if you escaped the plane of two-dimensionality and looked 'down' from a three-dimensional space at the two-dimensional plane...」%K%P
+0x1270
+空「そのとき初めて『自分がＹの字の一部であったこと』に気づき」%K%P
+Sora「You would realize for the first time that you were at a particular point on the 'Y'...」%K%P
+0x127C
+空「さらに『枝分かれしたもうひとりの自分がいること』にも気づけるのです」%K%P
+Sora「And realize, too, that there is another 'you' who took a different branch of the 'Y'.」%K%P
+0x1288
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x129C
+ホログラムのブロックはすべて割れて、消える。%K%P
+The holographic cubes broke apart and then disappeared.%K%P
+0x12D8
+視界はいきなり、眩いばかりの白い光に満たされた。%K%P
+Suddenly, my field of vision was filled with a dazzling white light.%K%P
+0x12E4
+空の姿が歪んで見える。%K%P
+Sora looked distorted.%K%P
+0x12F0
+それは数え切れないほどの数に分裂する。%K%P
+She split into countless versions of herself.%K%P
+0x12FC
+視界を覆うほどの、空。%K%P
+I couldn't see anything but Soras.%K%P
+0x1338
+眼を開けていられない。%K%P
+I couldn't stand to hold my eyes open.%K%P
+0x1344
+どれが彼女なのかわからない。%K%P
+Which one was she?%K%P
+0x1350
+あるいは、すべてが彼女なのか……。%K%P
+Was she all of them...?%K%P
+0x135C
+空「そう、そしてこれは、３次元空間においても同じことです」%K%P
+Sora「You see, it's the same for a three-dimensional space...」%K%P
+0x1368
+空「あなたが４次元的視野を獲得したとき」%K%P
+Sora「When you acquire four-dimensional vision.」%K%P
+0x1374
+空「つまり、倉成さんが、３次元空間から脱出して、４次元空間内から、その空間を『見下ろした』とき」%K%P
+Sora「In other words, if you escape this third-dimensional space and look 'down' at it from a fourth-dimensional space...」%K%P
+0x1380
+空「そのとき初めて『自分がΨの字の一部であったこと』に気づき」%K%P
+Sora「You will realize for the first time that you were on one point of the 'Y'...」%K%P
+0x138C
+空「さらに『枝分かれした他の自分がいること』にも気づけるのです」%K%P
+Sora「And realize too that there is another 'you' who took a different branch of the 'Y'.」%K%P
+0x1398
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x13A4
+空「異なった歴史、異なった世界、異なった空間の中に……」%K%P
+Sora「In a different history, in a different world, in a different place...」%K%P
+0x13B0
+空「別の自分自身が存在する、ということが、わかってもらえたでしょうか？」%K%P
+Sora「...Another 'you' exists. Do you understand this?」%K%P
+0x13BC
+空「世界に、自己は遍在しているのです」%K%P
+Sora「You are omnipresent in the world.」%K%P
+0x13C8
+空「あなたと同様に、私という存在も、遍在しています」%K%P
+Sora「And in the same way, so am I.」%K%P
+0x13D4
+空「あなたも、私と同じ……」%K%P
+Sora「You and I...」%K%P
+0x13E0
+空「単一から分かれた『Ｙ』……」%K%P
+Sora「We are just branches of the 'Y'...」%K%P
+0x13EC
+空「ですが……」%K%P
+Sora「However...」%K%P
+0x13F8
+空「遍在する自己は、ひとつになれるのです……」%K%P
+Sora「These divided selves can become one...」%K%P
+0x1450
+空は、分身するのをやめた。%K%P
+Sora stopped dividing herself.%K%P
+0x145C
+視界の眩しさは薄れて消えていく。%K%P
+The brightness faded and then was gone.%K%P
+0x1468
+ひとつの空はゆっくりと舞って、俺の眼前へと静かに下りてくる。%K%P
+The single Sora quietly fluttered down to stand before me.%K%P
+0x1474
+背後のイルカは、いつの間にか回転をやめていた。%K%P
+The dolphins behind us had stopped their revolutions at some point.%K%P
+0x1488
+空「あなたの知らない『あなた』が、あなた自身と不可分の存在になれるとしたら」%K%P
+Sora「If the self you don't know were to become inseparably bound with you...」%K%P
+0x1494
+空「あなた自身が、他のあらゆる『あなた』を把握できる位置に立って、すべてを見通せたとしたら」%K%P
+Sora「If you could stand in a place where you could see and understand all the others that were 'you'...」%K%P
+0x14A0
+空「すべての『あなた』の体験はあなたひとりの体験に等しくなる」%K%P
+Sora「Then all the experiences of your other selves would become like your own experiences.」%K%P
+0x14AC
+空「あなたは本当の意味で、たったひとつの存在になる」%K%P
+Sora「In the truest sense, you would become one.」%K%P
+0x14B8
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x14C4
+俺は深く息を吐いた。%K%P
+I let out a long sigh.%K%P
+0x14D0
+武「なぁ……」%K%P
+Takeshi「Listen...」%K%P
+0x14DC
+武「ひとつだけ、訊いていいか？」%K%P
+Takeshi「Can I ask you just one thing?」%K%P
+0x14F0
+空「どうぞ……」%K%P
+Sora「Please do.」%K%P
+0x14FC
+武「どうして『俺』にその話をするんだ……？」%K%P
+Takeshi「Why are you telling me all of this...?」%K%P
+0x1510
+空「ふふっ……いい質問ですね……」%K%P
+Sora「Hmm... That's a good question...」%K%P
+0x151C
+空はくるりとその場で一回転して、にっこりと笑む。%K%P
+Sora turned in a full circle right where she was and smiled.%K%P
+0x1530
+空「伝説ですよ」%K%P
+Sora「It is a legend.」%K%P
+0x153C
+空「このＬｅＭＵの由来の……レムリア大陸に伝わる、伝説です」%K%P
+Sora「It is a legend passed down through the Lemurian continent... and is the origin behind LeMU.」%K%P
+0x1548
+空「そういうことにしておいてください」%K%P
+Sora「Let's just leave it at that.」%K%P
+0x155C
+空「……内緒ですよ？」%K%P
+Sora「...And you must understand, it is a secret.」%K%P
+0x1568
+空は人差し指を口の前に立てて、また微笑んだ。%K%P
+Sora held up one finger in front of her mouth and smiled once again.%K%P

@@ -1,0 +1,1767 @@
+text area offset and size:
+0x24A0
+0x67C4
+0x18
+と言った時にはすでに、ボクの意識は２０１７年へと舞い戻っていた。%K%P
+By the time these words left my mouth, I had already returned to 2017.%K%P
+0x88
+深い青の世界……。%K%P
+To that vast blue world...%K%P
+0x94
+海底に、無惨に横たわる男の体……。%K%P
+On the bottom of the ocean lay the cruelly broken body of a man...%K%P
+0xA0
+動かない……。%K%P
+It didn't move...%K%P
+0xAC
+ボクにどうしろと？%K%P
+What do you want me to do?%K%P
+0xB8
+ボクはこの世界の人間ではない。%K%P
+I'm not from this world.%K%P
+0xC4
+ボクにできることと言えば、ただ見るだけ……。%K%P
+The only thing that I can do is look...%K%P
+0xD0
+見守るだけ……。%K%P
+Just look on...%K%P
+0xDC
+この死体をボクに見せてどうしろと……？%K%P
+You wanted to show me this dead body...?%K%P
+0xE8
+ただ悲しい。%K%P
+It makes me sad.%K%P
+0xF4
+悲しいだけだ。%K%P
+Terribly sad.%K%P
+0x100
+自らの命を捨ててまで、愛する女を守り抜いた男のしかばねが、悲しいだけだ。%K%P
+He had thrown his life away to protect the woman he loved. It was heartbreaking.%K%P
+0x10C
+温もりの失せた体……。%K%P
+His body had lost all warmth...%K%P
+0x118
+ボクは目をそらさずに見つめ続けた。%K%P
+I kept staring%K%P
+0x124
+――と、そのときだった！%K%P
+―Just then!%K%P
+0x14C
+（お父さん！）%K%P
+(Dad!)%K%P
+0x158
+（お父さん！！）%K%P
+(DAD!)%K%P
+0x164
+（お父さん！！！）%K%P
+(DAAAAD!)%K%P
+0x170
+ボクの意識をかき分け、破り、切り裂き、強烈な意志の塊が、目覚めようとしていた。%K%P
+My awareness split, broke, fractured, as a powerful force of will woke up inside of me.%K%P
+0x17C
+それはほとばしるような情熱の息吹だった。%K%P
+I was infused with an overwhelming passion.%K%P
+0x188
+ホクトの強い信念が、意志が、感情が、自我が、燃えさかる炎と化してボクのすべてを包み込んだ。%K%P
+Hokuto's indomitable belief, willpower, emotions, and psyche were like a raging inferno that engulfed me.%K%P
+0x194
+獰猛で野生的な『力』が、ボクの中でいきり立ち、荒れ狂い、ボクの存在を凌駕した。%K%P
+That ferocious and wild power raged within me and superseded my existence.%K%P
+0x1A0
+『力』は白い閃光とともに炸裂し、雷鳴のような轟音を響かせた。%K%P
+It exploded in a shower of white sparks of light and roared like thunder.%K%P
+0x1AC
+その狂暴なまでの勢いに圧倒され、ボクはひるんだ。%K%P
+Overwhelmed by the raw vigor, I withdrew.%K%P
+0x1B8
+もう、ボクの出る幕ではなかった……。%K%P
+It was no place for me to be...%K%P
+0x1C4
+ホクトは鬱積した感情を爆発させ、本能的な『力』を闇の中へと解き放った。%K%P
+Hokuto exploded with bottled-up emotions and threw his instinctive power free into darkness.%K%P
+0x1D0
+少年「お父さん！　お父さん！　死んじゃやだよ！」%K%P
+Kid「Dad! DAD! Don't you die on me!」%K%P
+0x1DC
+少年「死なないで！」%K%P
+Kid「Please don't die!」%K%P
+0x1E8
+少年「ぼくはまだ、一度もお父さんに会ったことがないのに！」%K%P
+Kid「I still haven't met you yet!」%K%P
+0x1F4
+少年「ぼくを置いて行かないで！　お父さん！」%K%P
+Kid「Please don't leave me! Daaaad!」%K%P
+0x200
+少年「沙羅もぼくも待ってるんだよ！」%K%P
+Kid「Sara and I are waiting for you!」%K%P
+0x20C
+少年「お母さんだって待ってる！」%K%P
+Kid「Mom is waiting for you!」%K%P
+0x218
+少年「お母さんを悲しませないで！　ぼくらを助けてよ！」%K%P
+Kid「Please don't leave her sad! Help us!」%K%P
+0x224
+少年「約束したじゃないか！　――『絶対死なない』って言ったじゃないか！」%K%P
+Kid「You promised! You said 'I'm not going to die, no matter what', right!?」%K%P
+0x230
+少年「『ひとりも死なせはしない』って誓ったんでしょ！」%K%P
+Kid「You swore you wouldn't let even one person die!」%K%P
+0x23C
+少年「ココはまだ、研究所にいるんだよ！」%K%P
+Kid「Coco is still in the research facility!」%K%P
+0x248
+少年「このままじゃ、ココが死んじゃうんだよ！」%K%P
+Kid「If you don't do something, she's going to die!」%K%P
+0x254
+少年「お父さん！！　お父さん！！」%K%P
+Kid「Daaad! Daaaaaaad!」%K%P
+0x298
+武の目が……開いた……。%K%P
+Takeshi... opened his eyes...%K%P
+0x2A4
+この深い海の底で……過酷な水圧にさらされながら……。%K%P
+At the bottom of the seabed... under unbearable pressure...%K%P
+0x2B0
+彼は、意識を取り戻したのだ。%K%P
+He regained consciousness.%K%P
+0x2BC
+もう何分、何十分、彼は呼吸をしていないだろう？%K%P
+How many minutes had it been since he last breathed?%K%P
+0x2C8
+しかし今、彼は確かに生きている。%K%P
+But he was undeniably alive.%K%P
+0x2D4
+蘇ったのだ……。%K%P
+He had revived...%K%P
+0x2E8
+『俺は……』%K%P
+'I...'%K%P
+0x2F4
+『俺は、死なない！』%K%P
+'I'm not going to die!'%K%P
+0x300
+『それがあいつとの、約束だから！』%K%P
+'I promised her...!'%K%P
+0x30C
+武の心の叫び声が、ボクの耳に届いた。%K%P
+I could hear the screams of his mind in my ears.%K%P
+0x320
+武は身をひるがえし、岩礁を蹴って泳ぎ始めた。%K%P
+Takeshi flipped himself over, kicked off the reef, and began to swim.%K%P
+0x32C
+腕で水をかき、足で蹴り飛ばし、彼は一心不乱に海中を泳ぎ続けた。%K%P
+He cut the water with his arms and kicked with his legs, continuing to swim wildly through the water.%K%P
+0x338
+重くのしかかる水圧をものともせず、その姿は一切の抵抗を感じさせず、彼は氷上を滑るかのごとく闇の中を進んでいった。%K%P
+The water pressure did not faze him, and his body felt no resistance. He moved forward in the darkness as if he were skating on ice.%K%P
+0x344
+彼の背後には、かげろうのような軌跡がたなびいた。%K%P
+Bubbles trailed in an arc behind him.%K%P
+0x350
+驚異的な速度を保ちながら、前方に見えるほのかな光だけを頼りに、彼は水の壁を切り裂いて突き進んだ。%K%P
+He maintained an unthinkable speed, tearing apart the wall of water in front of him. His only source of guidance was a faint light visible ahead.%K%P
+0x388
+――バシャンッ！%K%P
+―Splash!%K%P
+0x394
+水面から勢いよく飛び跳ねた。%K%P
+His momentum carried him flying out of the water.%K%P
+0x3A0
+プールに顔を出した武は、その場で激しく咳き込み、肺にたまった海水をゴボゴボゴボゴボと吐き出した。%K%P
+Putting his face above the pool, he started coughing hard, trying to expel all of the seawater in his lungs.%K%P
+0x3AC
+プールのふちにつかまる。%K%P
+He clung to the edge of the pool.%K%P
+0x3B8
+深く深く息を吸い込む。%K%P
+Sucking in deep breaths of air.%K%P
+0x3C4
+息を吸い込んでいる途中でむせ返り、また大量の水を吐く。%K%P
+He coughed hard as he was breathing in and vomited a large amount of water.%K%P
+0x3D0
+そんなことを何度も繰り返した。%K%P
+He repeated that many times.%K%P
+0x3DC
+ようやく、その痛々しい発作が落ち着きを見せた頃には、武は死人のように憔悴し切っていた。%K%P
+When the painful fits had finally died down, Takeshi lay exhausted, like he was dead.%K%P
+0x3E8
+まあ、実際にさっきまで死んでいたのではあるが……。%K%P
+Truth be told, he probably had been dead...%K%P
+0x3F4
+武は這うようにして、フロアの上へと体を引きずりあげた。%K%P
+Takeshi crawled across the floor.%K%P
+0x400
+バッタリと、仰向けになって横たわる。%K%P
+He flipped over on his back with a thud.%K%P
+0x40C
+動けないらしい……。%K%P
+He couldn't move...%K%P
+0x418
+熱い吐息だけが、あたりに響き渡っていた。%K%P
+The sound of his heavy breathing echoed off of the walls.%K%P
+0x424
+少年「お父さん！　お父さん！　しっかりして！」%K%P
+Kid「Dad! Dad! Hang in there!」%K%P
+0x430
+ホクトが声をあげた。%K%P
+Hokuto called out.%K%P
+0x43C
+武「ははっ……」%K%P
+Takeshi「Haha...」%K%P
+0x448
+武は笑った。%K%P
+Takeshi laughed.%K%P
+0x454
+武「どこの誰だか……知らんけど……」%K%P
+Takeshi「I don't know... who the heck you are...」%K%P
+0x460
+武「俺を『お父さん』なんて、呼ぶんじゃない」%K%P
+Takeshi「But don't call me 'Dad'.」%K%P
+0x46C
+少年「お父さん……」%K%P
+Kid「Dad...」%K%P
+0x478
+武「だから、俺には子供なんかいないんだ」%K%P
+Takeshi「I'm telling you, I don't have any kids.」%K%P
+0x484
+少年「でもぼくは、お父さんの子供なんだよ」%K%P
+Kid「But I'm your son!」%K%P
+0x490
+武「じゃあ、母親は誰なんだ？」%K%P
+Takeshi「Okay then, who's your mom?」%K%P
+0x49C
+少年「つぐみ、つぐみだよ」%K%P
+Kid「Tsugumi. Tsugumi is.」%K%P
+0x4A8
+武「ふははははははははっ！」%K%P
+Takeshi「Hahahahaha!」%K%P
+0x4B4
+少年「うん、笑われてもしょーがないと思う」%K%P
+Kid「Yeah, it’s no surprise you’re laughing.」%K%P
+0x4C0
+少年「たぶん、信じてもらえないよね？」%K%P
+Kid「You probably don't believe me, do you?」%K%P
+0x4CC
+少年「ぼくは今……１７年後の未来から……話しかけてるんだ……」%K%P
+Kid「Because... I'm talking to you from... seventeen years in the future...」%K%P
+0x4D8
+武「ふーん……１７年後……２０３４年か……」%K%P
+Takeshi「Hmmm... Seventeen years... That'd make it 2034...」%K%P
+0x4E4
+武「ところでお前、どこにいるんだ？　姿が……見えないけど……」%K%P
+Takeshi「By the way, where are you? I can't see you... anywhere...」%K%P
+0x4F0
+少年「お父さんのすぐ近くにいるよ」%K%P
+Kid「I'm close by you.」%K%P
+0x504
+武は床にへばりついた背中を引き剥がし、のろのろと立ち上がった。%K%P
+Takeshi peeled himself off the floor where he'd been lying and rose slowly.%K%P
+0x510
+ぐるりとあたりを見まわす。%K%P
+He looked all around.%K%P
+0x51C
+少年「捜しても、お父さんにはぼくのことは見えないと思う」%K%P
+Kid「Even if you look for me, I don't think you can see me.」%K%P
+0x528
+少年「ぼくは、見てるだけだから、お父さんのことを……」%K%P
+Kid「I'm only looking at you, Dad.」%K%P
+0x534
+武「意味がわからないんだが……？」%K%P
+Takeshi「What are you talking about...?」%K%P
+0x540
+少年「お父さんの世界に肉体があるわけじゃないんだよ」%K%P
+Kid「My body isn't in your time.」%K%P
+0x54C
+少年「だから、もちろん声帯を使って言葉を発してるわけでもない」%K%P
+Kid「And it isn't like I'm using a speaker to send my words to you.」%K%P
+0x558
+少年「ぼくは、お父さんの心の中に、直接語りかけてるんだ」%K%P
+Kid「I'm connected to your mind, talking to you.」%K%P
+0x564
+武は耳の穴をほじった。%K%P
+Takeshi put his finger in his ear and wiggled it.%K%P
+0x578
+武「幻聴ってやつか？　俺もとうとう……」%K%P
+Takeshi「I must be hallucinating this. I wonder if I'm...」%K%P
+0x584
+少年「違うってば！」%K%P
+Kid「No!」%K%P
+0x590
+少年「とにかく、時間がないんだ！」%K%P
+Kid「You don't have time for this!」%K%P
+0x59C
+少年「今はのんびりと話している場合じゃないんだよ！」%K%P
+Kid「We don't have time to waste!」%K%P
+0x5B0
+武「ああ、そう言えばさっき、ココが研究所にいるとか何とかって言ってたな？」%K%P
+Takeshi「Oh yeah, you mentioned earlier about Coco in the research facility, right?」%K%P
+0x5BC
+少年「うん、そうなんだ」%K%P
+Kid「That's right.」%K%P
+0x5C8
+少年「ココは、潜水艇で脱出したわけじゃなかったんだ」%K%P
+Kid「Coco didn't get out in one of the submersibles.」%K%P
+0x5D4
+少年「管制官の言った『要救助者』っていうのは……優と桑古木と……それからあの研究員のことだったんだよ」%K%P
+Kid「The man from the rescue squad who told you about the survivors... He was talking about You, Kaburaki, and... the researcher.」%K%P
+0x5E8
+武「嘘、だろ……？」%K%P
+Takeshi「You've got to be joking...?」%K%P
+0x5F4
+少年「とにかく、研究所の中をもう一度調べてみて？」%K%P
+Kid「You've got to go back and check the research facility one more time.」%K%P
+0x600
+少年「そこに、ココがいるはずなんだ」%K%P
+Kid「Coco's still in there.」%K%P
+0x624
+武は通路を歩きまわった。%K%P
+Takeshi hurried down the corridor.%K%P
+0x630
+研究所の内部は無音に近かった。%K%P
+The research facility was almost entirely silent.%K%P
+0x63C
+武の靴音だけがひっそりと響いている。%K%P
+The only sound was the echo of Takeshi's shoes against the floor.%K%P
+0x648
+左へ右へと通路を折れ、しばらく歩き続けたが、人の気配はどこにもなかった。%K%P
+The corridor wound left and right. He searched around but didn't find any signs of anyone.%K%P
+0x670
+武「おいっ、やっぱり誰もいないじゃないか……」%K%P
+Takeshi「Hey, I don't see anyone...」%K%P
+0x67C
+少年「そんなはずないよ！」%K%P
+Kid「That's impossible!」%K%P
+0x688
+少年「絶対、研究所の中にいるんだ！」%K%P
+Kid「I'm telling you she's got to be there somewhere!」%K%P
+0x694
+武はあきれ果てたように首を振った。%K%P
+Takeshi tilted his head a bit, quizzically.%K%P
+0x6A8
+武「まあ、お前には礼を言っておこう」%K%P
+Takeshi「Well, I suppose I should thank you.」%K%P
+0x6B4
+武「お前が『お父さん！』なんて狂言じみたことを言って俺を起こさなかったら……」%K%P
+Takeshi「If you hadn't woken me up saying something stupid like 'Dad!'...」%K%P
+0x6C0
+武「きっと俺は、あのまま海の藻屑と化してただろうからな」%K%P
+Takeshi「I probably would have drowned...」%K%P
+0x6CC
+少年「体の方は大丈夫？」%K%P
+Kid「Are you alright?」%K%P
+0x6E0
+武「大丈夫なわけないだろ！？」%K%P
+Takeshi「What do you think!?」%K%P
+0x6EC
+武「この数時間以内に俺の身に降りかかった数々の出来事を考えてみろ！？」%K%P
+Takeshi「Just think about everything that's happened to me in the last few hours, will you!?」%K%P
+0x6F8
+武「ティーフブラウの発病から始まって、急激な減圧、加圧、つぐみから採取した抗体を打って……」%K%P
+Takeshi「It started with getting Tief Blau, I got decompressed, pressurized, and pumped up with Tsugumi's antibodies...」%K%P
+0x704
+武「最後は、海の底に放り出されて……窒息……」%K%P
+Takeshi「And finally ended with getting sucked out to the bottom of the sea... and practically drowning...」%K%P
+0x718
+武「放り出されてと言うか、自分で飛び込んだわけではあるが……」%K%P
+Takeshi「Well, I guess I DID kind of throw myself out there...」%K%P
+0x724
+少年「そのわりには……元気そうに見えるけど……」%K%P
+Kid「In spite of all that... you seem to be doing alright to me...」%K%P
+0x738
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x744
+少年「…………」%K%P
+Kid「.........」%K%P
+0x750
+武「う、うむ、確かに。……つぐみから採取した抗体が、効いてきたのかな」%K%P
+Takeshi「W-well, I suppose... Tsugumi's antibodies must've kicked in.」%K%P
+0x75C
+あるいは……。%K%P
+Or maybe...%K%P
+0x768
+あるいはキュレイウイルスがすでに、効果を発揮し始めたのかも知れない。%K%P
+The effects of the Curé virus had already started.%K%P
+0x774
+いや、そう簡単にＤＮＡの情報が書き換えられるはずはないか……。%K%P
+No, there was no way his DNA could be rewritten so quickly...%K%P
+0x780
+だが、そう考えれば、武が深海で息を吹き返したことも説明できるような気がする。%K%P
+But that might have been another explanation for why Takeshi recovered so quickly from jumping into the water...%K%P
+0x78C
+真相はわからない。%K%P
+I had no way of knowing.%K%P
+0x798
+いずれにせよ、歩き続けているうちに、武の血色は見違えるほど良くなっていた。%K%P
+It didn't matter, though. He looked a lot better after walking around for a while.%K%P
+0x7A4
+たくましささえ感じる。%K%P
+He looked strong, even.%K%P
+0x7B0
+武はしっかりとした足取りで、通路をどこまでも進んでいった。%K%P
+Takeshi walked down the passageway on steady legs.%K%P
+0x7F0
+十字路に差しかかる。%K%P
+He came to an intersection.%K%P
+0x7FC
+武はきょろきょろと左右を確かめて、左側へと足を運んだ。%K%P
+Checking quickly to the left and right, he set down the path to the left.%K%P
+0x808
+その直後のことだった。%K%P
+It was right after that.%K%P
+0x81C
+武「待て……」%K%P
+Takeshi「Wait a sec...」%K%P
+0x828
+武「今、何か……動かなかったか？」%K%P
+Takeshi「Did something just... move right now?」%K%P
+0x834
+ホクトの返事も待たずに、武は走り出した。%K%P
+Without waiting for Hokuto's reply, Takeshi started running.%K%P
+0x88C
+武「コ、ココッ！！」%K%P
+Takeshi「C-Coco!」%K%P
+0x898
+ココが通路に倒れていた。%K%P
+Coco had fallen down in the corridor.%K%P
+0x8B4
+武は取り乱し、うろたえながら、ココの体を抱き起こした。%K%P
+Takeshi rushed over to Coco and lifted up her motionless body.%K%P
+0x8C8
+ココ「た、たけぴょん……」%K%P
+Coco「Ta-Takepyon...」%K%P
+0x8D4
+ココが小さく口を開く。%K%P
+Coco spoke faintly.%K%P
+0x8E0
+武「お前……こんなとこで何を……！？」%K%P
+Takeshi「What... What are you doing here...!?」%K%P
+0x8EC
+ココ「うんとねぇ……うんとねぇ……ピピがねぇ……いなかったからねぇ……」%K%P
+Coco「Umm... Well... Pipi wasn't, um... I couldn't find him, and...」%K%P
+0x8F8
+ココ「だからねぇ……探しに……来たんだよ……」%K%P
+Coco「So I went... looking for him...」%K%P
+0x904
+どうやらココは、救助隊が到着する前に、たった１人でポッドを抜け出し、ピピを探し歩いていたようだ。%K%P
+It appeared that Coco had gotten out of the pod by herself, before the rescue squad had arrived, and gone off looking for Pipi.%K%P
+0x910
+武「はぁ……お前ってやつは……ほんとに……ほんとに……」%K%P
+Takeshi「You are the most... totally... totally...」%K%P
+0x91C
+武は大きくかぶりを振った。%K%P
+Takeshi shook his head, dumbfounded.%K%P
+0x928
+あきれ果てる武をよそに、ココは無邪気にも、こんな言葉をつぶやくのだった。%K%P
+Coco looked innocently at the exasperated Takeshi and muttered...%K%P
+0x934
+ココ「……ねえ？」%K%P
+Coco「Hey...?」%K%P
+0x940
+ココ「……他のみんなは？」%K%P
+Coco「...Is everyone else...」%K%P
+0x94C
+ココ「……まだ……寝てる……の？」%K%P
+Coco「...Still... sleeping...?」%K%P
+0x960
+ココはそれだけ言って、意識を失った。%K%P
+That was all Coco could say before she passed out.%K%P
+0x96C
+次の瞬間……。%K%P
+The next instant...%K%P
+0xA24
+――ドドォォォォォンッ！%K%P
+―BOOOOOooooM!%K%P
+0xA34
+地響きに似た重低音が、ＩＢＦの隔壁を揺さぶった。%K%P
+A loud explosion shook the walls of IBF.%K%P
+0xA40
+音は天井から聞こえて来た。%K%P
+The sound came from up above.%K%P
+0xA4C
+ＬｅＭＵの残骸が、研究所の屋根にぶつかったのかも知れない。%K%P
+The falling wreckage from LeMU had probably collided with the roof of the research facility.%K%P
+0xA58
+楽園の崩壊は、依然として続いていたのだ。%K%P
+Paradise was still collapsing, it seemed.%K%P
+0xA64
+武はココの体を素早く背負い、床を蹴って駆け出した。%K%P
+Takeshi quickly scooped up Coco's body and dashed across the floor.%K%P
+0xAA0
+懸命に足を振り上げながら、武は虚空に向かって叫んだ。%K%P
+Kicking up his feet, Takeshi screamed to the void.%K%P
+0xAAC
+武「おいっ、どうすればいいんだ……！？」%K%P
+Takeshi「Hey, what am I supposed to do...!?」%K%P
+0xAB8
+少年「プールから、泳いで脱出できない！？」%K%P
+Kid「Can't you escape by swimming through the pool!?」%K%P
+0xAC4
+ホクトが答える。%K%P
+Hokuto answered.%K%P
+0xAD0
+武「バカッ！」%K%P
+Takeshi「Idiot!」%K%P
+0xADC
+武「ここは水深１１９ｍだぞ！？」%K%P
+Takeshi「It's 119 meters underwater down here!」%K%P
+0xAE8
+武「息が続かない、ココも、俺も」%K%P
+Takeshi「Coco and I won't be able to hold our breath that long.」%K%P
+0xAF4
+武「だいいち浮上するにはなぁ？　減圧しながら、ゆっくりとゆっくりと昇っていかなきゃならないんだ！」%K%P
+Takeshi「Besides, in order to surface, we have to decompress slowly as we go up.」%K%P
+0xB00
+武「ここは１２．５気圧」%K%P
+Takeshi「It's 12.5 atmospheres down here.」%K%P
+0xB0C
+武「海上は１気圧だ」%K%P
+Takeshi「And the ocean surface is one atmosphere.」%K%P
+0xB18
+武「減圧しなかったら、まず間違いなく、生きて帰ることはできない」%K%P
+Takeshi「There's no way we can survive unless we get ourselves decompressed.」%K%P
+0xB24
+少年「エレベーターは！？」%K%P
+Kid「How about the elevator?」%K%P
+0xB30
+武「分断されてる」%K%P
+Takeshi「It's been cut off.」%K%P
+0xB3C
+武「エレベーターチューブはとっくの昔に倒壊して今はもうない」%K%P
+Takeshi「The elevator tubes were destroyed a long time ago.」%K%P
+0xB48
+武「上へのぼるルートは、ないんだ」%K%P
+Takeshi「There's no way to go up.」%K%P
+0xB54
+少年「ひとまず、診療室へ！」%K%P
+Kid「Well, let's go to the examination room!」%K%P
+0xB60
+武「わかってるよ、そんなことは……」%K%P
+Takeshi「Okay...」%K%P
+0xBD0
+武は診療室へと駆け込んだ。%K%P
+Takeshi ran into the examination room.%K%P
+0xBDC
+操作パネルを叩き、扉を閉鎖する。%K%P
+He hit the control panel and closed the door.%K%P
+0xBE8
+不思議なことに、ＩＢＦの内部に浸水の兆候はなかった。%K%P
+Strangely, there was no sign of flooding inside IBF.%K%P
+0xBF4
+流れ込む水の音も聞こえないし、今は震動も収まっている。%K%P
+There was no sound of running water, and the tremors had stopped for the time being.%K%P
+0xC00
+だが、安心してはいられない。%K%P
+But there was still no time to relax.%K%P
+0xC0C
+ココの肉体は限界をむかえつつあった。%K%P
+Coco's body was rapidly reaching its limit.%K%P
+0xC18
+武はココの体をベッドに横たえた。%K%P
+Takeshi laid Coco down on the bed.%K%P
+0xC24
+部屋の隅に置かれていたデスクのわきへと駆け寄る。%K%P
+He ran toward the side of the desk at the corner of the room.%K%P
+0xC30
+保管装置を開き、何かをつかみ取った。%K%P
+He opened the one of the storage bins and grabbed something.%K%P
+0xC3C
+何か――それはつぐみから採取した『ティーフブラウ・ウイルスの抗体』だった。%K%P
+Something... It was the antibodies for Tief Blau taken from Tsugumi.%K%P
+0xC48
+そう、ココはまだ、それを接種していないのだ。%K%P
+Coco hadn't been inoculated with it yet.%K%P
+0xC54
+武「…………」%K%P
+Takeshi「.........」%K%P
+0xC60
+無言のまま、武は抗体をココの腕に打った。%K%P
+Without a word, Takeshi gave Coco the antibodies.%K%P
+0xC6C
+ココは苦痛の表情を通り越してぐったりとしている。%K%P
+Coco had long passed the stage of suffering and lay there looking limp.%K%P
+0xC78
+武「頼む……早く効いてくれ……」%K%P
+Takeshi「Come on... Do the trick...」%K%P
+0xC84
+武は注射器を放り捨て、横たわったココの手の平を握りしめた。%K%P
+Takeshi threw the empty syringe away and held onto Coco's hand as she lay there.%K%P
+0xCB8
+………………。%K%P
+.........%K%P
+0xCC4
+…………。%K%P
+......%K%P
+0xCD0
+……。%K%P
+...%K%P
+0xCF4
+しばらく経っても、ココの病状に変化は現れなかった。%K%P
+A while had passed, but Coco's condition didn't seem to be improving.%K%P
+0xD00
+そればかりか、ますます悪化しているように見える。%K%P
+As a matter of fact, it seemed to be getting worse.%K%P
+0xD14
+武「くそっ、なんで効かねぇーんだよ！」%K%P
+Takeshi「Oh, come on! How come it isn't working!?」%K%P
+0xD20
+武は壁を殴りつけた。%K%P
+Takeshi banged the wall.%K%P
+0xD2C
+少年「ココは、お父さん達よりも、何日か前に感染してるんだ」%K%P
+Kid「Coco was infected a few days earlier than you, Dad.」%K%P
+0xD38
+少年「だからそのぶん、病気が進行しちゃってるんだと思う……」%K%P
+Kid「So her disease has been progressing for that much longer than everyone else...」%K%P
+0xD44
+武「ちっ、このままじっとしてても始まらないな……」%K%P
+Takeshi「Damn it, we can't just sit here and wait...」%K%P
+0xD50
+武「とにかく脱出方法だ……脱出方法……」%K%P
+Takeshi「Besides, we've got to find a way to escape.」%K%P
+0xD5C
+武「何か、手を考えなければ……」%K%P
+Takeshi「I just need to think of something...」%K%P
+0xD8C
+武はうなだれながら、うろうろと室内を歩きまわった。%K%P
+Takeshi paced around the room with his head down.%K%P
+0xD98
+時折、ゴンゴンと天井から重々しい響きが聞こえて来る。%K%P
+Occasionally, heavy noises echoed from the ceiling.%K%P
+0xDA4
+その音に、武は耳を傾けた。%K%P
+Takeshi listened to the noises.%K%P
+0xDB0
+そして……。%K%P
+And then...%K%P
+0xDBC
+ふと、何かに気づいたように顔をあげ、武はこんなことをつぶやいた。%K%P
+Takeshi, looking as if he had just realized something, whispered to himself.%K%P
+0xDD0
+武「さっき、俺とつぐみが脱出する前、アナウンスがあった」%K%P
+Takeshi「I heard an announcement earlier, before Tsugumi and I escaped.」%K%P
+0xDDC
+武「『圧潰何分前』とかいうドイツ語のアナウンスがな」%K%P
+Takeshi「The announcement said something in German like 'you're gonna be crushed in a few minutes'.」%K%P
+0xDE8
+武「なのに、どうしてなんだ？　なんでいまだにこの研究所は無事なんだ？」%K%P
+Takeshi「But this place is still standing. Why is that?」%K%P
+0xDF4
+少年「そんなこと、ぼくに聞かれてもわからないけど……」%K%P
+Kid「I don't know why either...」%K%P
+0xE00
+少年「でも……もしかしたら……」%K%P
+Kid「But... maybe...」%K%P
+0xE0C
+武「もしかしたら……なんだ？」%K%P
+Takeshi「Maybe... what?」%K%P
+0xE18
+少年「そのアナウンスは、ＬｅＭＵの圧潰を告げる為のものだったんじゃないかな？」%K%P
+Kid「That announcement might have been about LeMU imploding.」%K%P
+0xE24
+少年「だって、考えてみてよ？」%K%P
+Kid「But think about it...」%K%P
+0xE30
+少年「この研究所は、内部の気圧と外の水圧が、同じになるように保たれてるんだよ？」%K%P
+Kid「This laboratory has been built so that the atmosphere on the inside and outside are equal.」%K%P
+0xE3C
+少年「力が釣り合ってるんだから、そう簡単に潰れることはないんだと思う……」%K%P
+Kid「Since they're still balanced, it probably won't implode as easily...」%K%P
+0xE48
+確かにそうかも知れなかった。%K%P
+That must have been it.%K%P
+0xE54
+カラのペットボトルにキャップをして、地上の空気中に放置しておいたところで、それは何年経っても潰れはしない。%K%P
+If you left the cap on an empty plastic bottle, even if you came back years later, the air would still be trapped inside.%K%P
+0xE60
+どこかに強烈な力が加わらない限り……。%K%P
+Which meant that the laboratory should have been safe...%K%P
+0xE6C
+例えば、倒壊したＬｅＭＵの隔壁の、巨大な塊が落ちてくるとか……。%K%P
+Unless extreme force was added from somewhere...%K%P
+0xE78
+そういうことがない限り、研究所は安全なのだ。%K%P
+Such as a giant piece of partition from LeMU falling on it.%K%P
+0xE84
+武はホクトの説明を聞いて、頷いた。%K%P
+Takeshi nodded upon hearing Hokuto's explanation.%K%P
+0xE90
+納得したようには見えなかったが……%K%P
+Although he didn't seem to be fully convinced...%K%P
+0xE9C
+ひとまず、その解釈を肯定することで、目の前に立ち並んだ危機のひとつを払拭しようと思ったのだろう。%K%P
+By accepting the explanation, he was probably trying to clear one of the many problems facing him at the moment.%K%P
+0xEEC
+時間は刻一刻と進んで行き、時が経過するごとにココの病状は悪化していくばかりだった。%K%P
+As time progressed, Coco's condition got worse and worse.%K%P
+0xF1C
+武「ちきしょうっ！　なんでこんなことに！　なんで！　なんで！　なんでなんだよ！」%K%P
+Takeshi「Damn it! Why is this all happening? Why!? Why!? Why!?」%K%P
+0xF28
+武はガンガンと壁を蹴った。%K%P
+Takeshi kicked the wall.%K%P
+0xF34
+少年「お父さんが……もっと早く抗体を打ってあげてれば……」%K%P
+Kid「Well, Dad... you should have given her the antibody earlier...」%K%P
+0xF40
+武「あん！？　んなこと言ったってしょうがないだろ！」%K%P
+Takeshi「Huh!? It's a little late for that now, isn't it!?」%K%P
+0xF4C
+武「あのときココは、ポッドの中で加圧状態にあったんだ！」%K%P
+Takeshi「Besides, Coco was in the pod under pressure at that time!」%K%P
+0xF58
+武「フタをあけるわけにはいかなかったんだよ！」%K%P
+Takeshi「I couldn't just open up the lid!」%K%P
+0xF64
+少年「でも……フタをあけなくても注射ぐらいできたはずだよ」%K%P
+Kid「But... you could've given her a shot without opening the lid.」%K%P
+0xF70
+少年「だって優が言ってたじゃないか……」%K%P
+Kid「Because You said...」%K%P
+0xF94
+優「高圧酸素治療の他にも、レーザーでの減菌やら、簡単な手術のできる機能も備わってるらしいし……」%K%P
+You「It seems that this pod can also do laser disinfecting, as well as simple surgery, in addition to the oxygen treatment.」%K%P
+0xFA0
+優「使い方によっては、ハイバネーションすら可能のようだけど……」%K%P
+You「And depending on how you use it, even cryogenic suspension...」%K%P
+0xFC8
+少年「それだけの機能があるんだったら、きっと注射だって……」%K%P
+Kid「Since it has so many other functions, it probably should be able to give an injection...」%K%P
+0xFD4
+武「でも、優は『フタを閉めたまま注射ができる』なんてひとことも言ってなかったぞ？」%K%P
+Takeshi「But You didn't say a word about being able to give shots without opening the lid, did she?」%K%P
+0xFE0
+武「あいつが言わなかったってことは、それが不可能だからだろ……」%K%P
+Takeshi「And if she didn't mention it, it must not be possible...」%K%P
+0xFEC
+武「もちろん、俺や少年は、装置のことなんてまったくわからないしな」%K%P
+Takeshi「Besides, neither you nor I have any idea what this device can do.」%K%P
+0xFF8
+武「だいたい、ハイバネーションって何なんだよ？」%K%P
+Takeshi「What's cryogenic suspension anyway?」%K%P
+0x1004
+少年「冬眠のことだよ」%K%P
+Kid「It's like hibernation.」%K%P
+0x1010
+ホクトは、さも当然といった感じで答えた。%K%P
+Hokuto answered as if anyone would know.%K%P
+0x101C
+武「冬眠？」%K%P
+Takeshi「Hibernation?」%K%P
+0x1028
+武「って……あの、熊とかカエルとかがするやつか？」%K%P
+Takeshi「You mean... like bears do in the winter?」%K%P
+0x1034
+少年「うん」%K%P
+Kid「Yeah.」%K%P
+0x1040
+少年「ハイバネーション機能があるってことは、つまり、人工冬眠ができるってことだと思う」%K%P
+Kid「I'm pretty sure that cryogenic suspension means you can artificially induce hibernation.」%K%P
+0x104C
+少年「人間の体を、６度から７度ぐらいの低体温状態に保って、心拍数と呼吸数をギリギリまで減らす……」%K%P
+Kid「It keeps human body temperature low, around six to seven degrees Celcius, and reduces your heartbeat and breathing to the absolute minimum...」%K%P
+0x1058
+少年「そうすることによって、代謝効率をさげて、エネルギーを極力消費しないようにするんだ」%K%P
+Kid「That way, it increases your metabolic efficiency and conserves as much energy as possible.」%K%P
+0x1064
+武「ふーん……」%K%P
+Takeshi「I see...」%K%P
+0x1070
+武「だけど、なんでそんなもんがここに……」%K%P
+Takeshi「Hey, I wonder why they have it here...」%K%P
+0x108C
+言いかけて、武は動きを止めた。%K%P
+In the middle of saying that, Takeshi stopped suddenly.%K%P
+0x1098
+同時に、ホクトの思考も停止したのがわかった。%K%P
+At the same time, Hokuto's thoughts stopped too.%K%P
+0x10A4
+そして、ふたりは声をあわせ、一斉にこう叫んだ。%K%P
+And then they screamed out at the same time.%K%P
+0x10B0
+武「そうだ！　冬眠させちまえばいいんだ！」%K%P
+Takeshi「I got it! We'll put her in cryogenic suspension!」%K%P
+0x10BC
+少年「そうだ！　冬眠させればいいんだよ！」%K%P
+Kid「I got it! We can put her in cryogenic suspension!」%K%P
+0x10D0
+武「低体温状態に保てるってことは、ウイルスが体を蝕んで行く速度も遅くできるってことだよな？」%K%P
+Takeshi「If her body temperature is kept low, it'll slow down the rate of the virus infection too, right?」%K%P
+0x10DC
+少年「うん！」%K%P
+Kid「Yeah!」%K%P
+0x10E8
+武「よしっ、今はとにかく時間だ、時間さえあれば、きっとなんとかなる……」%K%P
+Takeshi「Alright! All we need now is a little more time. If we have time, I'm sure it'll work...」%K%P
+0x10F4
+少年「１分でも１秒でもいいから、ウイルスの侵攻速度を遅くできれば……それに越したことはないし」%K%P
+Kid「If we can slow down that virus even for a minute, or a second... it'll be better than nothing.」%K%P
+0x1100
+武「そうと決まれば早速……」%K%P
+Takeshi「Alright then...」%K%P
+0x1124
+武はぐったりとしたココを抱きかかえ、ポッドの中に運び込んだ。%K%P
+Takeshi carried the frail Coco and set her into the pod.%K%P
+0x1130
+続いてマニュアルのページを凄まじい速度でめくり、にらみつけた。%K%P
+Then he started flipping through the manual at full speed, skimming it.%K%P
+0x113C
+どうやら設定はたいして難しいものではなかったらしい。%K%P
+It didn't seem too difficult to set up.%K%P
+0x1148
+武は、武らしからぬ俊敏な動作で、華麗に、めまぐるしく端末を操った。%K%P
+Takeshi, unlike his usual self, manipulated the computer terminal swiftly and smoothly.%K%P
+0x1154
+やがて……。%K%P
+Then...%K%P
+0x1160
+『あとはスイッチを押すだけ』という状態にまでこぎつけた。%K%P
+All that was left was to turn on the switch.%K%P
+0x1180
+ココの眠るポッド――。%K%P
+Coco was asleep in the pod.%K%P
+0x118C
+カバーを閉鎖するスイッチに、武は手を伸ばした。%K%P
+Takeshi reached out his hand to the switch that would close the lid.%K%P
+0x1198
+スイッチを入れる直前……ココが静かに目をあけた。%K%P
+A split second before he flipped the switch... Coco quietly opened her eyes.%K%P
+0x11AC
+ココ「誰……？」%K%P
+Coco「Who is that...?」%K%P
+0x11B8
+武「えっ？」%K%P
+Takeshi「What?」%K%P
+0x11C4
+ココ「たけぴょんの後ろに立ってるのは、誰……？」%K%P
+Coco「Who's standing behind you, Takepyon...?」%K%P
+0x11D0
+武「俺の後ろ？」%K%P
+Takeshi「Behind me?」%K%P
+0x11DC
+武は振り返った。%K%P
+Takeshi looked back.%K%P
+0x11E8
+そこにはホクトがいた。%K%P
+Hokuto was there.%K%P
+0x11F4
+武「ココには、やつのことが見えるのか？」%K%P
+Takeshi「Can you see him, Coco?」%K%P
+0x1200
+ココ「うん、見える……」%K%P
+Coco「Yeah, I do...」%K%P
+0x120C
+少年「ココ……ぼくだよ、ホクトだよ」%K%P
+Kid「Coco... It's me, Hokuto.」%K%P
+0x1218
+ココ「ホクト……」%K%P
+Coco「Hokuto...」%K%P
+0x1224
+ココ「ホクトって言うんだ……？」%K%P
+Coco「Hokuto is your name...?」%K%P
+0x1230
+ココ「じゃあ、ホクたんって、呼んでもいい……？」%K%P
+Coco「Can I call you Hokutan...?」%K%P
+0x123C
+この時代のココは、ホクトのことをまだ知らないのか。%K%P
+The Coco of that time didn't seem to know Hokuto yet.%K%P
+0x1248
+じゃあ、あの幻影の少女は一体……？%K%P
+So who was the phantom girl that I had been seeing...?%K%P
+0x1254
+武「ホクト……」%K%P
+Takeshi「Hokuto...」%K%P
+0x1260
+武「それが、お前の名前なのか？」%K%P
+Takeshi「Is that your name?」%K%P
+0x126C
+少年「う、うん」%K%P
+Kid「Uh-huh.」%K%P
+0x1278
+武「そうか」%K%P
+Takeshi「Really.」%K%P
+0x1284
+武「ココ？」%K%P
+Takeshi「Coco?」%K%P
+0x1290
+武「俺には見えないが、そのホクトってやつが、俺たちのことを助けてくれたんだぞ？」%K%P
+Takeshi「I can't see him, but this guy Hokuto helped us, you know.」%K%P
+0x129C
+ココ「ホクたん……」%K%P
+Coco「Hokutan...」%K%P
+0x12A8
+ココ「ありがとう……」%K%P
+Coco「Thank you...」%K%P
+0x12B4
+ココ「それから……」%K%P
+Coco「And...」%K%P
+0x12C0
+ココ「それから……もうひとりの……きみも……」%K%P
+Coco「And... the other person... you...」%K%P
+0x12CC
+ココ「ありが……とう……」%K%P
+Coco「Thank... you....」%K%P
+0x12D8
+武「もうひとり？　もうひとり、誰かいるのか？」%K%P
+Takeshi「Other person? There's someone else?」%K%P
+0x12E4
+ココ「うん、いる……」%K%P
+Coco「Yeah, there is...」%K%P
+0x12F0
+ココ「ホクたんの向こうに……見える……」%K%P
+Coco「I can see him... behind Hokutan...」%K%P
+0x12FC
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x1308
+少年「…………」%K%P
+Kid「.........」%K%P
+0x1314
+沈黙が部屋に満ちた。%K%P
+Silence filled the room.%K%P
+0x1320
+なぜかいきなり、室温がぐんと上がったような気がした。%K%P
+The room temperature suddenly felt lower for some reason.%K%P
+0x132C
+ココは……。%K%P
+Coco...%K%P
+0x1338
+ココは今……ボクのことを見ていた……。%K%P
+Coco was... looking at me.%K%P
+0x1344
+ただ、ボクだけのことを……。%K%P
+Just me...%K%P
+0x1350
+ボクだけの瞳を……。%K%P
+Into my eyes...%K%P
+0x1378
+ＢＷ「ボクの、こと？」%K%P
+Blick Winkel「Are you talking about me?」%K%P
+0x1384
+ボクはどぎまぎしながら、思い切って言葉を発してみた。%K%P
+Feeling flustered, I gathered up my courage and spoke.%K%P
+0x1390
+ココ「そう、きみの、こと」%K%P
+Coco「Yes, you.」%K%P
+0x139C
+ココ「やっと会えたね……？」%K%P
+Coco「We finally meet...」%K%P
+0x13A8
+ＢＷ「……えっ？」%K%P
+Blick Winkel「...Huh?」%K%P
+0x13B4
+ココ「ココ、ホクたんのことは、知らないけど……」%K%P
+Coco「I don't know Hokutan, but...」%K%P
+0x13C0
+ココ「きみのことは、知ってるんだよ……？」%K%P
+Coco「But I sure know you...」%K%P
+0x13CC
+ココ「だって……」%K%P
+Coco「Because...」%K%P
+0x13D8
+ココ「だって……ずっと……ココのこと、見守って、くれてたでしょ？」%K%P
+Coco「Because... all this time... you've been watching over me, haven't you?」%K%P
+0x13E4
+ＢＷ「…………」%K%P
+Blick Winkel「.........」%K%P
+0x13F0
+ココ「４次元人間、さん……」%K%P
+Coco「Fourth dimension-san...」%K%P
+0x13FC
+ココ「ブリック、ヴィンケルさん……」%K%P
+Coco「Blick Winkel-san...」%K%P
+0x1408
+ＢＷ「…………」%K%P
+Blick Winkel「.........」%K%P
+0x1414
+ココ「またひよこごっこ、やろうね？」%K%P
+Coco「Let's play chicks again some time.」%K%P
+0x1420
+ココ「ぴよぴよって……ぴよぴよって……」%K%P
+Coco「We go piyo-piyo... Piyo-piyo...」%K%P
+0x142C
+武「ココ……それは俺と……」%K%P
+Takeshi「Coco... I was the one...」%K%P
+0x1438
+ココ「ふふっ」%K%P
+Coco「Hee.」%K%P
+0x1444
+ココの頬が微かにゆるんだ。%K%P
+Coco's cheeks eased up a little.%K%P
+0x1450
+ココ「たけぴょんには、わからないと、思うけど……」%K%P
+Coco「I don't think you knew it, Takepyon, but...」%K%P
+0x145C
+ココ「ココは、たけぴょんだけじゃなくて、この人とも、遊んだの」%K%P
+Coco「I was playing with him too, not just you.」%K%P
+0x1468
+ココ「ね？　そうだよね？」%K%P
+Coco「Huh? Isn't that right?」%K%P
+0x1474
+ココはボクに問いかけていた。%K%P
+Coco was asking me.%K%P
+0x1480
+ＢＷ「う、うん……」%K%P
+Blick Winkel「Uh-huh...」%K%P
+0x148C
+ＢＷ「ボクは、確かにココのこと、ずっと、見てたのかも知れない」%K%P
+Blick Winkel「I might have been watching over Coco for all this time.」%K%P
+0x1498
+ＢＷ「ずっと、ずっと、見守ってた……」%K%P
+Blick Winkel「I've been watching over you...」%K%P
+0x14A4
+ＢＷ「できることなら、もっと近づきたいとさえ、思ってた」%K%P
+Blick Winkel「I wanted to get closer to you too.」%K%P
+0x14B0
+ＢＷ「でも、そんなことは……きっと無理で……」%K%P
+Blick Winkel「But it was probably... not possible...」%K%P
+0x14BC
+ココ「ふふっ……」%K%P
+Coco「Heehee...」%K%P
+0x14C8
+ココ「ほいじゃあさあ……ココに、告白したのも、きみだったの、かな？」%K%P
+Coco「Then... you were the one who told me that you liked me?」%K%P
+0x14D4
+ＢＷ「うん、そうかも知れない……」%K%P
+Blick Winkel「Yes, I suppose I was...」%K%P
+0x14E0
+ＢＷ「……そうかも、知れない……」%K%P
+Blick Winkel「...I suppose I was...」%K%P
+0x14EC
+ボクとココは視線を重ねた。%K%P
+Coco and I looked at each other.%K%P
+0x14F8
+見つめあう……。%K%P
+We were staring at each other...%K%P
+0x1504
+その眼差しはとても熱くて……。%K%P
+Our eyes filled with passion...%K%P
+0x1510
+ボクの存在は、今にも蒸発してしまいそうだった。%K%P
+I felt as though my existence would evaporate at any second.%K%P
+0x151C
+ココ「ココ、これから、どうなっちゃうの？」%K%P
+Coco「What's going to happen to me?」%K%P
+0x1528
+ふいに、ココの瞳の奥に陰が射した。%K%P
+All of a sudden, a dark shadow had covered Coco's eyes.%K%P
+0x1534
+ココ「ココ……死んじゃうの？」%K%P
+Coco「Am I... going to die?」%K%P
+0x1540
+ＢＷ「バカッ！　死ぬわけないだろ！」%K%P
+Blick Winkel「Don't be silly! There's no way you're going to die!」%K%P
+0x154C
+ＢＷ「ボクが絶対、絶対、絶対に、ココを、助けてみせる！」%K%P
+Blick Winkel「No matter what, I'll save your life, Coco!」%K%P
+0x1558
+ＢＷ「死なせたりなんか、するもんか！」%K%P
+Blick Winkel「I won't let you die!」%K%P
+0x1564
+ボクはムキになって訴えた。%K%P
+Excitedly, I appealed to her.%K%P
+0x1570
+ココが嬉しそうに笑う……。%K%P
+Although she looked to be in some pain...%K%P
+0x157C
+つらそうな笑みだけど……。%K%P
+Coco smiled at me happily...%K%P
+0x1588
+でも……ボクの心はとろけてしまいそうで……。%K%P
+My heart seemed that it would surely melt...%K%P
+0x1594
+武「ココ……そういうわけだ……」%K%P
+Takeshi「Coco... Basically...」%K%P
+0x15A0
+武「俺達が必ずおまえを救ってみせる」%K%P
+Takeshi「We're going to save you no matter what.」%K%P
+0x15AC
+武「だから、今は安心して、ゆっくり休むんだ……」%K%P
+Takeshi「So just relax. I want you to rest now...」%K%P
+0x15B8
+そう言って、武はポッドを閉めようとした。%K%P
+As he was saying that, Takeshi went to close the pod.%K%P
+0x15C4
+ココ「待って！」%K%P
+Coco「Wait!」%K%P
+0x15D0
+ココ「どうするの？」%K%P
+Coco「What's going to happen?」%K%P
+0x15DC
+武「少しの間だけ、眠るんだよ、熊さんみたいにな」%K%P
+Takeshi「You're going to sleep for a while, just like a cuddly bear.」%K%P
+0x15E8
+ココ「いや……」%K%P
+Coco「No...」%K%P
+0x15F4
+ココ「お願い……ココを置いてかないで……」%K%P
+Coco「Please... don't leave me...」%K%P
+0x1600
+ココ「どこにも、行かないで……」%K%P
+Coco「Don't go anywhere...」%K%P
+0x160C
+ココ「ひとりぼっちに、しないで……」%K%P
+Coco「Don't leave me alone...」%K%P
+0x1618
+武「ひとりぼっちになんかするわけないだろ？」%K%P
+Takeshi「We're not going to leave you alone, are we?」%K%P
+0x1624
+武「俺達が、ずっとそばにいてやる」%K%P
+Takeshi「We're going to stay right here.」%K%P
+0x1630
+ココ「嘘だもん……」%K%P
+Coco「You're lying...」%K%P
+0x163C
+ココ「ココ、そんなの信じない……」%K%P
+Coco「I don't believe you...」%K%P
+0x1648
+武「わがまま言うな！」%K%P
+Takeshi「Quit being so stubborn!」%K%P
+0x1654
+武「このままじゃ、ほんとにお前は……お前は……」%K%P
+Takeshi「If we leave you like this, you're going to... You're going to...」%K%P
+0x1660
+ココ「いや……いや……いや……」%K%P
+Coco「No... No... No...」%K%P
+0x166C
+ココ「いやなの……」%K%P
+Coco「I don't want to...」%K%P
+0x1678
+ココ「ひとりぼっち、寂しいから、いやなの」%K%P
+Coco「I don't want to be all by myself. I'll be too lonely.」%K%P
+0x1684
+ココ「怖いの……怖いの……とっても……」%K%P
+Coco「I'm scared... I'm... so, so scared...」%K%P
+0x1690
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x169C
+ＢＷ「…………」%K%P
+Blick Winkel「.........」%K%P
+0x16A8
+ココ「じゃあ、たけぴょん、一緒に……」%K%P
+Coco「Takepyon, will you...」%K%P
+0x16B4
+ココ「一緒に……添い寝して……くれる？」%K%P
+Coco「Lie down... and... sleep next to me?」%K%P
+0x16C0
+武「無理言うな……」%K%P
+Takeshi「There's no way...」%K%P
+0x16CC
+武「このポッドはなぁ……」%K%P
+Takeshi「This pod is...」%K%P
+0x16D8
+言いかけて、武は言葉を切った。%K%P
+Takeshi stopped in the middle of what he was saying.%K%P
+0x16E4
+天井を仰ぎ見て、柱に取り付けられたモニターを見て、最後にココの隣のポッドへと視線を向けた。%K%P
+He looked up at the ceiling, then to the monitor on the wall, and finally to the pod next to Coco.%K%P
+0x16F0
+武「よし、じゃあ、こうしよう」%K%P
+Takeshi「Alright, how about this then?」%K%P
+0x16FC
+ココ「……？」%K%P
+Coco「...?」%K%P
+0x1708
+武「ココの隣のポッドに、俺が寝る」%K%P
+Takeshi「I'll sleep in the pod next to you.」%K%P
+0x1714
+武「どうだ？　それなら、寂しくないだろ？」%K%P
+Takeshi「How's that? You won't be lonely anymore, right?」%K%P
+0x1720
+ココは武とボクを交互に見た。%K%P
+Coco looked back and forth between Takeshi and me.%K%P
+0x172C
+眉根を寄せて、きゅっとくちびるをかみながら……。%K%P
+She had a worried look on her face...%K%P
+0x1738
+今にも泣き出しそうな瞳で、ボク達のことを見つめていた。%K%P
+And stared at us with eyes that seemed about to burst into tears.%K%P
+0x1744
+ココ「ほんとに……？」%K%P
+Coco「Really...?」%K%P
+0x1750
+ココ「嘘つかない……？」%K%P
+Coco「You aren't lying...?」%K%P
+0x175C
+武「ああ」%K%P
+Takeshi「Of course not.」%K%P
+0x1768
+ココ「絶対だよ……？」%K%P
+Coco「You promise...?」%K%P
+0x1774
+ココ「ココを置いて、行っちゃやだよ？」%K%P
+Coco「You won't leave me and go?」%K%P
+0x1780
+武「行かないよ、行くわけないだろ？」%K%P
+Takeshi「I wouldn't do that. Of course I won't go.」%K%P
+0x178C
+ココ「わかった……」%K%P
+Coco「Alright then...」%K%P
+0x1798
+ココ「ココ、たけぴょんのこと、信じる」%K%P
+Coco「I trust you, Takepyon.」%K%P
+0x17A4
+武「よし、いい子だ」%K%P
+Takeshi「That's a good girl.」%K%P
+0x17B0
+武がココの頭をなでる。%K%P
+Takeshi petted Coco's head.%K%P
+0x17BC
+武「じゃあ、閉めるぞ、ココ？」%K%P
+Takeshi「I'm going to close it now, okay, Coco?」%K%P
+0x17C8
+ココ「う、うん……」%K%P
+Coco「Uh-huh...」%K%P
+0x17D4
+武がスイッチを押した。%K%P
+Takeshi turned on the switch.%K%P
+0x17E0
+ポッドのカバーが、ゆっくりと、ゆっくりと、下りて行く。%K%P
+The lid of the pod slowly went down.%K%P
+0x17EC
+ココ「ねえ？」%K%P
+Coco「Hey?」%K%P
+0x17F8
+ココ「おやすみする前に、ひとつだけ、願い事、きいてくれる？」%K%P
+Coco「Before I go to sleep, will you listen to my request?」%K%P
+0x1804
+武「願い事？」%K%P
+Takeshi「Request?」%K%P
+0x1810
+ココ「たけぴょんに言ったんじゃ、ないよぉ……」%K%P
+Coco「I wasn't talking to you, Takepyon...」%K%P
+0x181C
+ココの視線は、ボクの方へと向けられていた。%K%P
+Coco's eyes were pointing toward me.%K%P
+0x1828
+ＢＷ「ボ、ボクに？」%K%P
+Blick Winkel「M-me?」%K%P
+0x1834
+ココ「うん」%K%P
+Coco「Yes.」%K%P
+0x1840
+ココ「あのね？　ココね？　ココね？」%K%P
+Coco「Well, um... I...」%K%P
+0x184C
+ココ「きみに、あいたい」%K%P
+Coco「I want to see you.」%K%P
+0x1858
+ＢＷ「……えっ？」%K%P
+Blick Winkel「...What?」%K%P
+0x1864
+ココ「きみにもう一度、あいたい」%K%P
+Coco「I want to see you again.」%K%P
+0x1870
+ココ「あって、あって、もっといっぱい、お話し、したいの」%K%P
+Coco「I want to see you and talk with you more.」%K%P
+0x187C
+ＢＷ「う、うん」%K%P
+Blick Winkel「Uh-huh.」%K%P
+0x1888
+ココ「もしかしたら、ココ……」%K%P
+Coco「I think that I...」%K%P
+0x1894
+ココ「きみのこと……」%K%P
+Coco「I might just...」%K%P
+0x18A0
+ココ「きみの、こと……」%K%P
+Coco「It's just that I...」%K%P
+0x18AC
+ＢＷ「…………」%K%P
+Blick Winkel「.........」%K%P
+0x18B8
+ココ「ダメだ……」%K%P
+Coco「Oh...」%K%P
+0x18C4
+ココ「やっぱり、言えないかも……」%K%P
+Coco「I can't say it...」%K%P
+0x18D0
+ＢＷ「…………」%K%P
+Blick Winkel「.........」%K%P
+0x18DC
+ココ「でも、約束、して？」%K%P
+Coco「But will you promise me?」%K%P
+0x18E8
+ココ「もう一度……いつか……あえるよね？」%K%P
+Coco「That... you and I will... see each other again someday?」%K%P
+0x18F4
+ＢＷ「うん」%K%P
+Blick Winkel「Yes.」%K%P
+0x1900
+ココ「ココ……待ってるから……」%K%P
+Coco「I'll be... waiting...」%K%P
+0x190C
+ココ「ずっとずっと、待ってるから……」%K%P
+Coco「I'll wait for you no matter what...」%K%P
+0x1918
+ココ「必ず……迎えに……来てね……？」%K%P
+Coco「You'll... come... get me...?」%K%P
+0x1924
+ココ「約束、だよ？」%K%P
+Coco「Promise?」%K%P
+0x1930
+ＢＷ「うん、約束だ」%K%P
+Blick Winkel「Yes, I promise.」%K%P
+0x193C
+カバーとポッドの間隔は、もうほとんどなかった。%K%P
+The space between the lid and the pod itself was almost gone.%K%P
+0x1948
+細い隙間から、かろうじて見えるココの姿……。%K%P
+I could barely see Coco through the narrow slit...%K%P
+0x1954
+ココはしっかりとボクの方を向きながら、最後に小さくつぶやいた。%K%P
+Coco faced toward me and whispered one last thing in her tiny voice.%K%P
+0x1960
+ココ「それじゃあ、おやすみ……」%K%P
+Coco「Well, good night...」%K%P
+0x196C
+ココ「お兄ちゃん……」%K%P
+Coco「Onii-chan...」%K%P
+0x199C
+『お兄ちゃん！？』――問い返す間もなく、ポッドは閉じてしまった。%K%P
+'Onii-chan!?'―Before I could say anything in reply, the lid had closed.%K%P
+0x19A8
+圧搾空気の弾ける音……。%K%P
+The sound of compressing air filled the room...%K%P
+0x19B4
+モーターの低いうなり……。%K%P
+The low whir of the motor...%K%P
+0x19C0
+軽い金属音を響かせて、ポッドは完全に密閉された。%K%P
+With a light metallic ring, the pod shut completely.%K%P
+0x19CC
+その筐体のわきに付いていた次のスイッチを、武が押す。%K%P
+Takeshi pushed another switch attached to the pod's chassis.%K%P
+0x19D8
+ハイバネーション機能が、作動を始めた。%K%P
+The cryogenic suspension function was activated.%K%P
+0x19E4
+シューッとガスの噴出するような小さな音が聞こえる。%K%P
+There were small sounds as though gas was leaking out.%K%P
+0x19F0
+ポッドは微細な震動とともに、ゆるやかに冷やされていった。%K%P
+The pod slowly cooled down, humming with a slight vibration.%K%P
+0x1A0C
+武「さて、と……」%K%P
+Takeshi「Well then...」%K%P
+0x1A18
+武「お〜い、なんとかヴィンケルゥ〜、いるかぁ〜？」%K%P
+Takeshi「Hey! Something Winkel! You still there?」%K%P
+0x1A24
+少年「なに？　お父さん」%K%P
+Kid「What is it, Dad?」%K%P
+0x1A30
+武「なんだ、ホクトか……」%K%P
+Takeshi「Oh, it's you, Hokuto...」%K%P
+0x1A44
+武「ったく、マギラワシイやつらだなぁ……」%K%P
+Takeshi「You guys are confusing me...」%K%P
+0x1A50
+武「お前は、なんとかヴィンケルとは別人なんだろ？」%K%P
+Takeshi「You and that Winkel guy are two different people, right?」%K%P
+0x1A5C
+武「それともホクトも、４次元の存在なのか？」%K%P
+Takeshi「Or you are from the fourth dimension too, Hokuto?」%K%P
+0x1A68
+少年「ううん、ぼくはただ、視点を借りてるだけなんだ、今は」%K%P
+Kid「No, I'm just borrowing his perspective for now.」%K%P
+0x1A7C
+武「ふ〜ん……」%K%P
+Takeshi「Really...」%K%P
+0x1A88
+武「って言うか、全然わけがわからんのだけど……まあ、いいや」%K%P
+Takeshi「I mean, I still don't get it at all... but I don't suppose it matters.」%K%P
+0x1A94
+それだけ言って、武はあいていたポッドの中へと身を沈めた。%K%P
+Saying that, Takeshi sank his body into an empty pod.%K%P
+0x1AA0
+ココの隣にあるポッドだ。%K%P
+The pod next to Coco's.%K%P
+0x1AB4
+少年「えっ！？　お、お父さん、どうするつもりなの！？」%K%P
+Kid「What!? Dad, what're you going to do!?」%K%P
+0x1AC0
+武「どうするもこうするも……しかたないだろ？」%K%P
+Takeshi「What do you think...? There's nothing else I can do, right?」%K%P
+0x1ACC
+武「約束しちまったからな……」%K%P
+Takeshi「I made her a promise, you know...」%K%P
+0x1AD8
+少年「じゃあ、お父さんも……！？」%K%P
+Kid「So you're going to...!?」%K%P
+0x1AE4
+武「うむ、そういうことだ」%K%P
+Takeshi「Yep, that's right.」%K%P
+0x1AF0
+武「どっちみち、脱出する方法はなさそうだしな」%K%P
+Takeshi「It doesn't look like there's a way to escape anyway.」%K%P
+0x1AFC
+武「救助隊の第２陣が来るのを待つしかないわけであり……」%K%P
+Takeshi「We'll just have to wait for the second rescue team to arrive...」%K%P
+0x1B08
+武「だが、ただ待っていても無駄に体力を消費するだけだから……」%K%P
+Takeshi「But it'll just be a waste of energy to wait here doing nothing, so...」%K%P
+0x1B14
+武「俺は、寝ることにする」%K%P
+Takeshi「I might as well get some sleep.」%K%P
+0x1B20
+少年「お、お父さん！　ちょっと待ってよ！」%K%P
+Kid「D-Dad! Wait a second!」%K%P
+0x1B2C
+武「待たん」%K%P
+Takeshi「No.」%K%P
+0x1B38
+武「俺はもう、疲れたんだよ」%K%P
+Takeshi「I'm tired.」%K%P
+0x1B44
+武「本当に、本当に、疲れたんだ……」%K%P
+Takeshi「I'm really, REALLY tired...」%K%P
+0x1B50
+武は寝ながら腕を伸ばし、カバーの閉鎖ボタンと、ハイバネーションの起動スイッチを同時に押した。%K%P
+Takeshi stretched his arm from where he lay and flicked the switch for both closing the lid and starting the cryogenic suspension at the same time.%K%P
+0x1B5C
+カバーが閉まって行く……。%K%P
+The lid started to close...%K%P
+0x1B68
+静かに……。%K%P
+Quietly...%K%P
+0x1B74
+一定の速度を保ちながら……。%K%P
+Steadily...%K%P
+0x1B80
+武「じゃあな、ホクト……」%K%P
+Takeshi「Alright, Hokuto...」%K%P
+0x1B8C
+武「あとは、よろしく頼むぞ……」%K%P
+Takeshi「I'm counting on you...」%K%P
+0x1B98
+少年「お父さん！」%K%P
+Kid「Dad!」%K%P
+0x1BA4
+武「あっ、ひとつ言い忘れたことがあった」%K%P
+Takeshi「Oh, hey, one more thing.」%K%P
+0x1BB0
+少年「？？？」%K%P
+Kid「?」%K%P
+0x1BBC
+武「その『お父さん』って呼び方、いいかげんやめてもらえないかな？」%K%P
+Takeshi「Quit calling me 'Dad', will you?」%K%P
+0x1BC8
+少年「だって……しょうがないじゃないか……」%K%P
+Kid「Well... I can't help it...」%K%P
+0x1BD4
+少年「ぼくはお父さんの、子供なんだから……」%K%P
+Kid「I'm your son...」%K%P
+0x1BE0
+武「違う違う、そういう意味で言ったんじゃないんだ」%K%P
+Takeshi「No, no, that's not what I mean.」%K%P
+0x1BEC
+武「どうせ『お父さん』って呼ぶんなら、もっと上品に、エレガントにだなぁ」%K%P
+Takeshi「If you call me 'Dad', why don't you say it a little more elegantly?」%K%P
+0x1BF8
+武「『パパ』と、『パパ』と、そうお呼びなさい」%K%P
+Takeshi「Call me 'Father', okay? 'Father'.」%K%P
+0x1C04
+武「わかったね？」%K%P
+Takeshi「You got it?」%K%P
+0x1C10
+ホクトが何かを言おうとして息を吸った。%K%P
+Hokuto took a deep breath, trying to say something.%K%P
+0x1C1C
+けれど、その言葉がこぼれる前に、ポッドのカバーは閉じてしまった。%K%P
+But before he could say it, the lid of the pod had shut.%K%P
+0x1C4C
+さっきの、ココのときと同じような音が重なり合うように響いた。%K%P
+A familiar hissing sound echoed in the room.%K%P
+0x1C58
+ハイバネーションが起動する。%K%P
+The cryogenic suspension had activated.%K%P
+0x1C64
+ポッドは小刻みに震えながら、冷却されていった。%K%P
+The pod cooled down with small vibrations.%K%P
+0x1C70
+…………………………。%K%P
+.........%K%P
+0x1C7C
+念の為、ボクとホクトはモニターを確認した。%K%P
+Just in case, Hokuto and I checked the monitor.%K%P
+0x1C88
+ふたつのポッドのハイバネーション装置は順調に作動している。%K%P
+The cryogenic suspension in the two pods was functioning properly.%K%P
+0x1C94
+ココと武の生体反応にも異常は無かった。%K%P
+There were no signs of abnormalities in the bio scans of Coco and Takeshi.%K%P
+0x1CE4
+２０１７年の世界――。%K%N
+The world in 2017...%K%N
+0x1CF0
+海底の研究所――。%K%N
+A laboratory at the bottom of the ocean...%K%N
+0x1CFC
+取り残された『視点』――。%K%N
+All that remained there was a 'perspective'...%K%N
+0x1D08
+ボクとホクトは考え始めた。%K%O
+Hokuto and I started to think.%K%O
+0x1D3C
+『そうだ！　ココと武がＩＢＦにいることを、すぐにみんなに知らせなくちゃ！』%K%N
+'Oh yeah! We gotta let everyone know Coco and Takeshi are here in IBF!'%K%N
+0x1D48
+そう思ったのは、ボクだったのか、ホクトだったのか、定かではない。%K%N
+I wasn't sure whether it was I or Hokuto who thought that.%K%N
+0x1D54
+入れ替わり立ち替わりを繰り返していたせいか、今や、ボクとホクトの境界はひどくあいまいなものになっていた。%K%N
+Maybe it was because we had switched places so often that the boundary between Hokuto and myself had started to become very vague.%K%N
+0x1D60
+ふたりの意識は混濁し、からみ合い、もつれ合って、融合の一歩手前の段階にまで達している。%K%O
+Our consciousnesses had gotten muddy, tangled, and intertwined. We were close to a state of fusion.%K%O
+0x1D78
+いや……。%K%N
+Or maybe...%K%N
+0x1D84
+もしかしたら、今までだってずっとそうだったのかも知れない。%K%N
+We might have been that way ever since the beginning.%K%N
+0x1D90
+ボクの考えていることはホクトの考えていることと同じで、ホクトの考えていることはボクの考えていることと同じで……。%K%N
+My thoughts were the same as Hokuto's, and Hokuto's thoughts were the same as mine...%K%N
+0x1D9C
+『ボクであること』と『ホクトであること』には、そうたいして差はないんじゃないのか？%K%O
+'Being me' and 'being Hokuto' weren't all that different.%K%O
+0x1DB4
+ボク達は前からひとつだったし、これからも、ひとつ……。%K%N
+We had been one since long ago and would continue to be one...%K%N
+0x1DC0
+ふと、そんなことを思った。%K%N
+That thought just went through my mind.%K%N
+0x1DCC
+でも、今は思索にふけっている余裕はないのだ。%K%N
+But it wasn't the time to be engrossed in such thoughts.%K%N
+0x1DD8
+ボクとホクトの意識は浮島へと飛んだ。%K%O
+Our consciousness flew up to the floating island.%K%O
+0x1E0C
+洋上に潜水艇が漂っている。%K%P
+A miniature submarine was floating on the ocean surface.%K%P
+0x1E18
+波にたゆたい、時にもてあそばれながら、気まぐれな航跡を引きずって、それは群青の海原を流れていた。%K%P
+Swaying in the waves and being teased along by time, it left a carefree trail in the deep blue ocean.%K%P
+0x1E24
+船内へと視点を潜り込ませたが、すでにつぐみは消えた後だった。%K%P
+I searched inside of it, but Tsugumi had already disappeared.%K%P
+0x1E30
+浮島の上のどこかに、きっといるはずなのだが……。%K%P
+She must be somewhere on the floating island...%K%P
+0x1E3C
+視角を広げ、人工島の全体を俯瞰する。%K%P
+I expanded my sight and looked down at the entire artificial island.%K%P
+0x1E48
+いた……。%K%P
+I saw someone...%K%P
+0x1E54
+だけどそれはつぐみではなかった。%K%P
+But it wasn't Tsugumi.%K%P
+0x1E60
+優美清春香菜だ。%K%P
+It was Yubiseiharukana.%K%P
+0x1E6C
+ボクとホクトは彼女のそばへと舞い降りた。%K%P
+Hokuto and I flew down near her side.%K%P
+0x1E80
+優美清春香菜の足元にはピピが歩いていた。%K%P
+Walking along with Yubiseiharukana was Pipi.%K%P
+0x1E8C
+ピピの体はびしょびしょに濡れ尽くしている。%K%P
+He was soaking wet.%K%P
+0x1E98
+ということは、この時間は――『海面に浮かんでいたピピを、彼女が回収した直後』――ということになるのか。%K%P
+Which meant that it must have been... right after You had picked up Pipi from the ocean surface.%K%P
+0x1EA4
+彼女は、ＬｅＭＵの職員と思しき男性数名に付き添われて、遊歩道を歩いていた。%K%P
+She was walking down the trail, attended by a few men who seemed to be staff members of LeMU.%K%P
+0x1EB0
+彼女の向かう先にヘリコプターが見える。%K%P
+She was walking toward a helicopter.%K%P
+0x1EBC
+もしかしたら、これから大病院かどこかに搬送されるのかも知れない。%K%P
+She was probably on her way to a large hospital or something.%K%P
+0x1EC8
+とは言え、顔色は悪くなかった。自分の足でしっかりと歩いている。%K%P
+She looked surprisingly healthy. She was walking steadily without support.%K%P
+0x1ED4
+表情は暗く沈んでいたが、健康状態だけは悪くなさそうだった。%K%P
+Although she seemed in a dark mood, at least her health seemed fine.%K%P
+0x1EE0
+恐らく、武と同じように抗体が効いたのだろう。%K%P
+The antibodies must have worked, just like with Takeshi.%K%P
+0x1EEC
+とにかく、武とココのことを一刻も早く彼女に教えなければ！%K%P
+Anyway, I needed to tell her what had happened to Takeshi and Coco!%K%P
+0x1EF8
+少年「優！　優！」%K%P
+Kid「You! You!」%K%P
+0x1F04
+声をかけたのはホクトだった。%K%P
+It was Hokuto who shouted at her.%K%P
+0x1F18
+優春「だ、だれ……？」%K%P
+You'haru'「Wh-who is it...?」%K%P
+0x1F24
+彼女は驚いた様子であたりを見まわした。%K%P
+Caught off guard, she glanced all around.%K%P
+0x1F30
+付き添いの職員は、独り言をつぶやく彼女のことを、訝しげに見ている。%K%P
+The staff members darted skeptical looks at her when she started talking to herself all of a sudden.%K%P
+0x1F3C
+少年「ぼくだよ、ぼく！」%K%P
+Kid「It's me!」%K%P
+0x1F48
+優春「『ぼく』って……誰よ？」%K%P
+You'haru'「Who is... this 'me'?」%K%P
+0x1F54
+彼女がホクトのことを知っているはずがない。%K%P
+There was no way she could have known Hokuto.%K%P
+0x1F60
+ホクトはまだ、この世界に生まれてさえいないのだから……。%K%P
+Hokuto hadn't even been born in that world...%K%P
+0x1F6C
+『１７年後の未来から語りかけているんだ』なんて言ったって、とても信じてもらえるとは思えなかった。%K%P
+And she wouldn't have believed us if we had told her, 'We're talking to you from seventeen years in the future.'%K%P
+0x1F78
+ホクトは言った。%K%P
+Hokuto told her...%K%P
+0x1F84
+少年「とにかく、聞いてほしいことがあるんだ」%K%P
+Kid「Look, there's something I want you tell you.」%K%P
+0x1F90
+少年「よく聞いて？」%K%P
+Kid「So listen to me carefully.」%K%P
+0x1F9C
+少年「実は……」%K%P
+Kid「Actually...」%K%P
+0x1FA8
+ホクトは、研究所にココと武が取り残され、現在、ポッドの中で冬眠状態になっていることを告げた。%K%P
+Hokuto told her that Coco and Takeshi had been left in the laboratory and that they were under cryogenic suspension in the pods.%K%P
+0x1FBC
+優春「ま、まさか！　そんな……」%K%P
+You'haru'「N-no way! It can't be...」%K%P
+0x1FC8
+少年「だから、早くふたりを助けてあげて！？」%K%P
+Kid「So you have to help them right away, okay!?」%K%P
+0x1FD4
+優春「本当なの！？」%K%P
+You'haru'「Are you serious!?」%K%P
+0x1FE0
+少年「本当だよ！」%K%P
+Kid「Totally!」%K%P
+0x1FEC
+少年「優を救出した潜水艇には、ココも武も乗ってなかったんだ」%K%P
+Kid「Coco and Takeshi weren't on the sub that rescued you.」%K%P
+0x1FF8
+少年「助かったのはあと、つぐみと、桑古木だけで……」%K%P
+Kid「And the only others who were rescued were Tsugumi and Kaburaki...」%K%P
+0x200C
+ピピ「わんわんっ！」%K%P
+Pipi「*Woof*, *woof*!」%K%P
+0x2018
+ピピがホクトとボクの方を見て、高く吠えた。%K%P
+Pipi looked at Hokuto and me, then gave a loud bark.%K%P
+0x2024
+少年「あっ、そうだ！　ピピ！」%K%P
+Kid「Oh yeah! Pipi!」%K%P
+0x2030
+少年「今、優の足元にいるピピ……ディスクをくわえてたでしょ？」%K%P
+Kid「Pipi... had a disc in his mouth, didn't he?」%K%P
+0x203C
+優春「う、うん……テラバイトディスクのことね？」%K%P
+You'haru'「Uh-huh... You mean the terabyte disc, right?」%K%P
+0x2048
+少年「そう、そこに、空のデータが、記憶が、入ってるから……」%K%P
+Kid「That's right, Sora's data and her memories are in it...」%K%P
+0x2054
+少年「それから、えーっと……」%K%P
+Kid「What else, um...」%K%P
+0x2068
+優春「ちょ、ちょっと待ってよ！」%K%P
+You'haru'「W-wait a second!」%K%P
+0x2074
+優春「あなた一体、どこにいるの！？」%K%P
+You'haru'「Where on earth are you now!?」%K%P
+0x2080
+少年「そんなことどうでもいいんだよ」%K%P
+Kid「That doesn't really matter.」%K%P
+0x208C
+少年「とにかく、ぼくの言ってることを信じて！」%K%P
+Kid「You have to believe me!」%K%P
+0x20A0
+優春「信じられるわけないでしょ……」%K%P
+You'haru'「How am I supposed to do that...?」%K%P
+0x20AC
+優春「なんなのよ、これ……。幻聴？」%K%P
+You'haru'「What is this... Am I hearing things?」%K%P
+0x20B8
+少年「違うってば！」%K%P
+Kid「No, you're not!」%K%P
+0x20C4
+少年「本当に武とココは……」%K%P
+Kid「Seriously, Takeshi and Coco are...」%K%P
+0x20D0
+ピピ「わんっ！」%K%P
+Pipi「*Bow*!」%K%P
+0x20DC
+ピピがまた吠えた。%K%P
+Pipi started barking again.%K%P
+0x20E8
+少年「あ、ああ、そうそうそうそう、そうだよ！」%K%P
+Kid「Oh, oh, I know!」%K%P
+0x20F4
+少年「ピピが、ピピが、目撃してるはずだ！」%K%P
+Kid「Pipi! Pipi must have seen it!」%K%P
+0x2100
+少年「通路に倒れてたココの姿を、ピピの目が、しっかりと捕らえてる」%K%P
+Kid「Pipi saw Coco collapsed in the hallway.」%K%P
+0x210C
+少年「たぶんピピの中に、そのときの画像データが保存されてると思う」%K%P
+Kid「There's gotta be some image data of that saved in Pipi's memory.」%K%P
+0x2118
+少年「それを、再生してみて？」%K%P
+Kid「Can you play it back?」%K%P
+0x2124
+優春「…………」%K%P
+You'haru'「.........」%K%P
+0x2130
+少年「…………」%K%P
+Kid「.........」%K%P
+0x2144
+優春「……………………」%K%P
+You'haru'「..................」%K%P
+0x2150
+少年「……………………」%K%P
+Kid「..................」%K%P
+0x215C
+彼女は考え込むようにうなだれ、まぶたを閉じ、コメカミのあたりをトントンと指先で叩いた。%K%P
+She dropped her head down as if deep in thought, closed her eyes, and massaged her temples with her fingertips.%K%P
+0x2168
+悩みに悩んだ末、ようやく結論を見出したのか、彼女は見当違いの方角をうわめづかいに見て、こう言った。%K%P
+After seeming distressed in that manner for a while, she must have reached a conclusion. You looked up in different direction and spoke.%K%P
+0x217C
+優春「わかった……」%K%P
+You'haru'「Alright...」%K%P
+0x2188
+優春「あなたが誰だか知らないけど……とにかく、調べてみるよ」%K%P
+You'haru'「I have no idea who you are, but I'll see what I can do.」%K%P
+0x2194
+少年「ありがとう、優」%K%P
+Kid「Thank you, You.」%K%P
+0x21A0
+少年「それじゃあ、頼んだよ？　もうぼく、もとの世界に戻らなきゃいけないから」%K%P
+Kid「I'm counting on you. It's about time I get back to where I came from.」%K%P
+0x21AC
+優春「もとの世界って？」%K%P
+You'haru'「Where did you come from?」%K%P
+0x21B8
+少年「きっと、信じてもらえないと思うけど……」%K%P
+Kid「You wouldn't believe me, but...」%K%P
+0x21C4
+少年「今から……１７年後の、世界だよ……」%K%P
+Kid「It's... seventeen years in the future...」%K%P

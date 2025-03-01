@@ -1,0 +1,960 @@
+text area offset and size:
+0x1680
+0x328F
+0x80
+既に時刻は日をまたいでいた。%K%P
+Midnight sneaked up on me.%K%P
+0x8C
+皆、早めに休みを取り、寝息を立てている者もいる。%K%P
+Everyone was already fast asleep. Some were snoring.%K%P
+0x98
+俺達を取り巻く状況は未だ好転しないが、悪化もしていない。%K%P
+For us, the situation wasn't getting any better, but at least it wasn't getting any worse.%K%P
+0xA4
+ならば、眠れるうちにゆっくり眠っておくのが一番だ……。%K%P
+It was better that we just slept to prepare for what might come...%K%P
+0xB0
+と頭で思ってはいるのだが……。%K%P
+...If only I could...%K%P
+0xE4
+武「寝つけねぇ」%K%P
+Takeshi「I can't sleep.」%K%P
+0xF0
+思いと裏腹に、しっかり目が冴えていた。%K%P
+TODO: 思いと裏腹に、しっかり目が冴えていた。%K%P
+0xFC
+きっとはたから見たら、俺の目はらんらんと輝いていたに違いなかった。%K%P
+If anyone was awake, they would see me bright-eyed and bushy-tailed.%K%P
+0x108
+疲れきっているはずなのに、どうして眠れないんだ？%K%P
+How could I be so tired but not be able to sleep?%K%P
+0x114
+俺は俺の身体に疑問を覚えた。%K%P
+I started wondering about my body.%K%P
+0x120
+（仕方ない……）%K%P
+(Oh well...)%K%P
+0x12C
+少し散歩して、気を紛らすことにする。%K%P
+I took a walk to get my mind off of things.%K%P
+0x178
+ぴちょん……。%K%P
+Splash...%K%P
+0x184
+静かに部屋を後にし、水の張った通路に足を浸す。%K%P
+I saw the corridor was covered in water as I quietly slipped out of the room.%K%P
+0x190
+武「うわ、冷たぁ〜い……」%K%P
+Takeshi「It's freezing!」%K%P
+0x19C
+どこからか流入し続けている海水は、夜になった為か、温度を下げていた。%K%P
+The ocean water flowing into the room was colder than usual, maybe because it was evening.%K%P
+0x1A8
+（余計に目が覚めちまった、ったく……）%K%P
+(Damn, now I'm even more awake...)%K%P
+0x1B4
+ひとり心で呟いて、重くなった靴を持ち上げながら前へ進む。%K%P
+I continued down the path, my heavily soaked shoes weighing me down with each step...%K%P
+0x1C8
+俺の湿った足音だけが反響している。%K%P
+Only the sound of my damp shoes echoed through the night.%K%P
+0x1D4
+ひと気のない通路、誰にも出会うことのない場所。%K%P
+I didn't encounter a soul as I walked down the corridor.%K%P
+0x1E0
+助けはまだ現れない――%K%P
+Nobody had come to get us...%K%P
+0x1EC
+だけど、悲観しないことに決めていた。%K%P
+...But I decided not to let it get me down.%K%P
+0x1F8
+俺達はまだここで生きているし、これから先も当分生きる。%K%P
+We were still alive. We had survived so far, and we would live for the foreseeable future.%K%P
+0x204
+誰か来るまで、生きていけると思う。%K%P
+I thought to myself that anyone who had made it as far as us would survive.%K%P
+0x210
+（そうだよ……）%K%P
+(Yeah...)%K%P
+0x21C
+（まだまだ大丈夫さ……）%K%P
+(We'll make it...)%K%P
+0x228
+頷きながら、俺は通路の角を折れた。%K%P
+As I nodded to myself, I turned a corner in the corridor.%K%P
+0x23C
+行き止まりか……。%K%P
+Was it a dead end?%K%P
+0x248
+いつの間にか、フロアの端まで来ていたようだ。%K%P
+It seemed like I had reached the end of the floor.%K%P
+0x254
+引き返して、元の通路へと戻る。%K%P
+I turned around and headed back along the passageway.%K%P
+0x288
+空「よかった！　倉成さん、ここにいたんですか？　探しましたよ」%K%P
+Sora「Oh good! There you are, Kuranari-san! I was looking for you.」%K%P
+0x294
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x2A0
+空「あら、どうしました？　倉成さん？」%K%P
+Sora「Hey, what's wrong?」%K%P
+0x2AC
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x2C0
+空「あの、もしもし？」%K%P
+Sora「Hello?」%K%P
+0x2CC
+武「……お」%K%P
+Takeshi「...Oh!」%K%P
+0x2D8
+武「おっぺけぺい」%K%P
+Takeshi「Sora...」%K%P
+0x2E4
+空「はい？」%K%P
+Sora「Yes?」%K%P
+0x2F0
+武「じゃなかった……脅かすない、空」%K%P
+Takeshi「Don't... scare me like that, Sora.」%K%P
+0x324
+驚いた。%K%P
+I was surprised.%K%P
+0x330
+一瞬、自分が固まってしまった。%K%P
+For an instant, I had stood there frozen.%K%P
+0x33C
+空が通路を曲がった瞬間、俺の目と鼻の先に現れていたからだ。%K%P
+Because the moment Sora had appeared around that corner, she and I had been face-to-face.%K%P
+0x348
+ひょっとしたら実際、お互いの鼻の先っぽくらいは重なっていたかもしれなかった。%K%P
+We were so close, it seemed like our noses overlapped.%K%P
+0x364
+思い出したように俺は３歩後ずさる。%K%P
+Realizing that, I took three steps backward.%K%P
+0x370
+心臓が高鳴るのがわかった……。%K%P
+I could feel my heart pounding.%K%P
+0x384
+空「あ、すいません。ちょっと結像位置が近すぎてしまいましたね」%K%P
+Sora「Oh, I'm so sorry. I didn't mean to get so close to you.」%K%P
+0x390
+空はほのかに頬を染めた。%K%P
+Sora's cheeks turned a soft red.%K%P
+0x39C
+空「変な風に見えてました？　私……」%K%P
+Sora「Oh, did I look strange? I...」%K%P
+0x3A8
+武「いや、それは大丈夫。心配ない。いつも通り、綺麗だ」%K%P
+Takeshi「No, no. Don't worry about it. You're beautiful, as always.」%K%P
+0x3B4
+空「そ、そうですか。ありがとうございます」%K%P
+Sora「Oh, well, thank you.」%K%P
+0x3C0
+空「なんだか……ちょっと照れますね」%K%P
+Sora「It is just... I'm a little embarrassed.」%K%P
+0x3CC
+ん？　なんか今とんでもないことを口走らなかったか……？%K%P
+Huh? I felt like I'd just blurted out something ridiculous...%K%P
+0x3D8
+しかし空はにこにこ笑っているので、恐らく構わないのだろう。%K%P
+But Sora had smiled when I said it, so maybe it was okay.%K%P
+0x3E4
+俺は動揺を抑える。%K%P
+I tried to calm myself down.%K%P
+0x3F8
+空「ああ、それより倉成さん。他の皆さんはお休みのようだったので、お伝えしなかったのですが……」%K%P
+Sora「Well, anyway. Everyone is still sound asleep, so I haven't told anyone, but...」%K%P
+0x404
+急に神妙な顔つきになって、空は言った。%K%P
+As she said, that her face suddenly changed.%K%P
+0x410
+武「ん？　何だ？」%K%P
+Takeshi「Huh? What?」%K%P
+0x41C
+空「先程、小町さんが寝返りを打とうとされたので、医療用電動ワゴンを差し向けて阻止しました」%K%P
+Sora「A little while ago, Komachi-san was tossing and turning in bed. So I dispatched the medical wagon to keep her still.」%K%P
+0x428
+武「……えっ」%K%P
+Takeshi「...Really?」%K%P
+0x43C
+空「私もさすがに驚きました。だって重傷なんですよ、彼女は。それなのに」%K%P
+Sora「Yes, I was surprised. She was seriously hurt, you know... and still...」%K%P
+0x448
+武「なぁ、もしかしてあいつ、そのうち目を覚ますんじゃないか？」%K%P
+Takeshi「Hey, she should wake up soon, don't you think?」%K%P
+0x454
+空「そうですね、意識が戻るかもしれません……」%K%P
+Sora「Yes, I think she may soon regain consciousness...」%K%P
+0x460
+武「それってマズくないか？　下手すると、傷が開いちまうぞ！」%K%P
+Takeshi「Well, she shouldn't be tossing and turning like that. She'll reopen her wounds.」%K%P
+0x474
+空「ああ、実は、それが……」%K%P
+Sora「Yes, actually, that is why...」%K%P
+0x480
+武「ヤバいって、それは！」%K%P
+Takeshi「Hey! We can't let that happen!」%K%P
+0x48C
+武「急ぐぞ、早く見に行ってやらないと！」%K%P
+Takeshi「That's it. I'll go and check on her!」%K%P
+0x4B0
+空「あっ、倉成さん――！」%K%P
+Sora「Ah, Kuranari-san...!」%K%P
+0x4EC
+俺は叫ぶ空を置き去りにして走り出した。%K%P
+I just left her standing there, calling after me.%K%P
+0x53C
+階段を駆け上り、通路を急ぎ足で進んだ。%K%P
+I flew up the stairs as fast as I could and sprinted down the corridor.%K%P
+0x560
+２階の救護室前に到着する。%K%P
+I arrived in front of the infirmary on the second floor.%K%P
+0x56C
+扉のオープンボタンを押す手ももどかしく感じた。%K%P
+I poked the button to open the door, but it seemed to take forever.%K%P
+0x59C
+扉は、静かに開いた。%K%P
+The door opened slowly and quietly.%K%P
+0x5A8
+つぐみは奥のベッドに、じっと横たわっていた。%K%P
+Tsugumi was lying there on a bed in the back of the room.%K%P
+0x5B4
+俺は歩を緩め、そこに近づいた。%K%P
+I walked slowly over to her...%K%P
+0x5C0
+隣の空きベッドに腰を下ろす。%K%P
+...And sat down on the bed next to hers.%K%P
+0x5CC
+少し離れたところにある医療用コンピューターが、つぐみの脈拍や血圧のデータを取っていて、その作動音が時々聞こえた。%K%P
+I could hear a computer working over at the other end of the room, collecting data on her pulse and blood pressure.%K%P
+0x5D8
+データは生きている証を、確かに伝えている。%K%P
+The data told us the most important thing, that she was still alive.%K%P
+0x5E4
+しかし……。%K%P
+However...%K%P
+0x5F8
+つぐみはまだ眠っていた。%K%P
+...Tsugumi was still unconscious.%K%P
+0x604
+寝返りを打った、というのは本当だろうか？%K%P
+Had she really turned in her sleep?%K%P
+0x610
+もしや、このまま眠り続けるのではないか……。%K%P
+Or would she continue to sleep like that...?%K%P
+0x61C
+だが瞬間、つぐみの指先が震えた。%K%P
+At that moment, her fingers began to twitch.%K%P
+0x628
+武「あっ……」%K%P
+Takeshi「Ah...」%K%P
+0x634
+彼女が目を覚ます。%K%P
+Her eyes opened.%K%P
+0x640
+どうしよう。%K%P
+I wondered what I should do.%K%P
+0x64C
+俺は何を言おう。%K%P
+What I should say.%K%P
+0x658
+何から言おうか……。%K%P
+Where to even begin...%K%P
+0x684
+考えるより早く、つぐみがそっと両目を開いた。%K%P
+But she woke before I could decide.%K%P
+0x690
+武「やぁ、おはよう……」%K%P
+Takeshi「Uhh... Good morning...」%K%P
+0x69C
+それだけ口にする。%K%P
+That was all I could say.%K%P
+0x6A8
+それ以外の台詞は、まだ考えていなかった。%K%P
+I hadn't thought of what to say beyond that.%K%P
+0x6DC
+つぐみ「……今、何時なの？」%K%P
+Tsugumi「...What time is it now?」%K%P
+0x6E8
+武「そうだな……」%K%P
+Takeshi「I'm not sure...」%K%P
+0x6F4
+ポケットからＰＤＡを出して、時刻を見た。%K%P
+I pulled my PDA from my pocket and checked the time.%K%P
+0x700
+武「５月４日、午前１時４２分ってとこだ」%K%P
+Takeshi「It's May 4th, 1:42 a.m.」%K%P
+0x70C
+つぐみ「そう……」%K%P
+Tsugumi「Really...」%K%P
+0x718
+つぐみは気だるそうに、肩を揺らした。%K%P
+Tsugumi appeared weak as she slightly moved her body.%K%P
+0x724
+武「気分はどうだ？」%K%P
+Takeshi「How are you feeling?」%K%P
+0x730
+つぐみ「愚問ね」%K%P
+Tsugumi「That's a stupid question...」%K%P
+0x73C
+武「いいから訊かせろよ、気分は？」%K%P
+Takeshi「I'm just asking. Tell me how you're feeling.」%K%P
+0x748
+つぐみ「悪いわ。なんだか、身体中、だるくて」%K%P
+Tsugumi「Awful. My whole body... hurts.」%K%P
+0x754
+つぐみ「最低よ……」%K%P
+Tsugumi「I feel terrible.」%K%P
+0x760
+武「そうか……」%K%P
+Takeshi「Oh...」%K%P
+0x76C
+つぐみは自分の顔の前で、自分の手を握ったり開いたりしていた。%K%P
+Tsugumi lifted her hand up to her face, opening and closing it slowly.%K%P
+0x778
+まだその動きは鈍い。%K%P
+Her movements were still sluggish.%K%P
+0x784
+武「傷は？　痛まないか？　麻酔は効いているはずだって、聞いたんだけど」%K%P
+Takeshi「How's the injury? Does it hurt? You may still be under a bit of anesthesia.」%K%P
+0x790
+つぐみ「……傷？」%K%P
+Tsugumi「...Injury?」%K%P
+0x79C
+つぐみ「麻酔……？」%K%P
+Tsugumi「Anesthesia...?」%K%P
+0x7A8
+武「おい……」%K%P
+Takeshi「Hey...」%K%P
+0x7B4
+武「まさか、覚えてないのか？」%K%P
+Takeshi「You didn't forget, did you?」%K%P
+0x7C0
+つぐみはゆっくりと視線を巡らせた。%K%P
+Tsugumi's eyes wandered about the room.%K%P
+0x7CC
+天井……%K%P
+To the ceiling...%K%P
+0x7D8
+シーツ……%K%P
+And the sheets...%K%P
+0x7E4
+足にはめられたギプス……%K%P
+The cast on her leg...%K%P
+0x7F0
+つぐみ「ああ、そうね。覚えてる」%K%P
+Tsugumi「Oh, right. I remember.」%K%P
+0x7FC
+つぐみ「思い出したわ、私……」%K%P
+Tsugumi「I remember now. I...」%K%P
+0x808
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x814
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x820
+つぐみは身体を起こそうとして、腕に点滴の管がつけられているのに気づき、嫌そうに顔をしかめた。%K%P
+Tsugumi tried to get up, but noticing the various IV cords snaking up her arm, she frowned.%K%P
+0x82C
+つぐみは生きている。%K%P
+She was alive.%K%P
+0x838
+今は傷を負いながらも、生きている。%K%P
+She was injured, but still breathing.%K%P
+0x844
+彼女が助かったのは、喜ばしいことだ。%K%P
+Her life had been saved, and for that I was grateful.%K%P
+0x850
+けれど……怪我をさせたのは、俺なんだ……。%K%p
+But... it was my fault... I was the one who caused her injury...%K%p
+0x1658
+ゴメン、と謝る
+I'm sorry, I apologize
+0x1664
+何も言わない
+I didn't say anything
+0x898
+武「ゴメン」%K%P
+Takeshi「I'm... I'm sorry.」%K%P
+0x8A4
+俺は率直な気持ちを、言葉にした。%K%P
+I wanted to tell her how I felt.%K%P
+0x8B0
+つぐみ「……どうして謝るの？」%K%P
+Tsugumi「...Why are you apologizing?」%K%P
+0x8BC
+武「お前が俺の為に、怪我をしたからだよ」%K%P
+Takeshi「It was my fault you were injured.」%K%P
+0x8C8
+武「俺の不注意で、こんなことになっちまって……」%K%P
+Takeshi「Because I was careless, you ended up getting hurt...」%K%P
+0x8D4
+武「すまないことしたと思ってる……」%K%P
+Takeshi「It was my fault...」%K%P
+0x8E0
+武「だから、ゴメン」%K%P
+Takeshi「...That's why I'm sorry.」%K%P
+0x8EC
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x8F8
+武「その上、つぐみはココのことを、かばってくれた」%K%P
+Takeshi「And what's more, you protected Coco.」%K%P
+0x904
+武「ココを助けてくれたんだ」%K%P
+Takeshi「You made sure she didn't get hurt.」%K%P
+0x910
+武「なんと礼を言ったらいいか……」%K%P
+Takeshi「I don't know how to thank you.」%K%P
+0x91C
+俺は頭を下げる。%K%P
+I lowered my head.%K%P
+0x930
+だが、つぐみはそんな俺を見て眉をつり上げた。%K%P
+But Tsugumi's face soured...%K%P
+0x93C
+こちらを睨みつける。%K%P
+...She was glaring at me.%K%P
+0x948
+つぐみ「勘違いしないで」%K%P
+Tsugumi「Don't misunderstand.」%K%P
+0x954
+つぐみ「ココの身代わりになって、傷を負ったわけじゃない」%K%P
+Tsugumi「I was injured, but it wasn't because I sacrificed myself for Coco's safety.」%K%P
+0x968
+俺はすぐに、気持ちを言葉に変えることができなかった。%K%P
+I didn't know how to respond to that.%K%P
+0x974
+つぐみが助かったこと。%K%P
+I had saved Tsugumi.%K%P
+0x980
+つぐみを傷つけたこと。%K%P
+And yet I had caused Tsugumi to get hurt.%K%P
+0x98C
+それをどう言ったらいいのか、わからなかった。%K%P
+From there on, I just didn't know what to say.%K%P
+0x998
+ただ俺は、黙ってつぐみのことを見つめた。%K%P
+All I could do was stare blankly, silently.%K%P
+0x9A4
+それから静かに頭を垂れた。他にできることはなかったと思う。%K%P
+I then bowed my head. There was nothing else I could do.%K%P
+0x9B0
+つぐみ「……何よ」%K%P
+Tsugumi「...What?」%K%P
+0x9BC
+つぐみ「なんなのよ……」%K%P
+Tsugumi「What is it...?」%K%P
+0x9C8
+俺は顔をあげた。%K%P
+I raised my head.%K%P
+0x9DC
+つぐみはこちらを睨みつけていた。%K%P
+Tsugumi was glaring at me again.%K%P
+0x9E8
+つぐみ「勘違いしないで」%K%P
+Tsugumi「You don't understand.」%K%P
+0x9F4
+つぐみ「私は傷のことなんて、なんとも思ってない」%K%P
+Tsugumi「I don't care at all about this injury...」%K%P
+0xA00
+つぐみ「あなたは『自分のせいだ』とでも言いたいの？」%K%P
+Tsugumi「Do you want to say it's your fault?」%K%P
+0xA0C
+つぐみ「……うぬぼれないでよ」%K%P
+Tsugumi「Don't be conceited.」%K%P
+0xA18
+つぐみは大きく息を吐いた。%K%P
+Tsugumi sighed heavily.%K%P
+0xA24
+つぐみ「私はただ……」%K%P
+Tsugumi「It's just that...」%K%P
+0xA30
+つぐみ「死にたかっただけ」%K%P
+Tsugumi「...It's just that... I wanted to die.」%K%P
+0xA3C
+武「……えっ？」%K%P
+Takeshi「...What?」%K%P
+0xA48
+つぐみ「なんで助けたりなんかしたの？」%K%P
+Tsugumi「How come you had to save me?」%K%P
+0xA54
+つぐみ「あのままほっといてもらえれば……」%K%P
+Tsugumi「If you left me alone...」%K%P
+0xA60
+つぐみ「死ねたのに」%K%P
+Tsugumi「...I could have finally died.」%K%P
+0xA6C
+武「なっ……？」%K%P
+Takeshi「What...?」%K%P
+0xA94
+俺は勢いよく立ち上がって拳を握った。%K%P
+I jumped up from the bed, shaking my fist furiously.%K%P
+0xAA0
+武「何だと！？」%K%P
+Takeshi「What the hell did you just say!?」%K%P
+0xAAC
+武「お、お前……っ！」%K%P
+Takeshi「You!」%K%P
+0xAB8
+武「死ねたのに？　死ねたのにって、どういうことだよ！？」%K%P
+Takeshi「What do you mean, 'I could have finally died'!?」%K%P
+0xAC4
+つぐみ「言ったでしょ？」%K%P
+Tsugumi「That's what I said, right?」%K%P
+0xAD0
+つぐみ「私は……死にたかった」%K%P
+Tsugumi「I... I wanted to die.」%K%P
+0xADC
+つぐみは俺に険しい目を向けたまま、押し黙った。%K%P
+Tsugumi gazed at me, narrowing her eyes. She was quiet.%K%P
+0xAE8
+俺もつぐみの眼を見据えた。%K%P
+I gazed back.%K%P
+0xAF4
+彼女の眼差しが冗談でないことを告げている。%K%P
+I could tell by the look in her eye that she wasn't joking.%K%P
+0xB4C
+だけど……だったらなおさら、俺には許せなくなった。%K%P
+And because of that, I couldn't forgive her.%K%P
+0xB9C
+バンッ！　と空きベッドに激しく手を突いた。%K%P
+Bam! I slammed my fists on the bed violently.%K%P
+0xBA8
+武「つぐみ、お前なぁっ……！」%K%P
+Takeshi「Tsugumi, you stupid little...」%K%P
+0xBB4
+武「死ぬなんて軽々しく言うもんじゃない！」%K%P
+Takeshi「How dare you say that so lightly!」%K%P
+0xBC0
+つぐみから目を逸らさずに、俺は叫んだ。%K%P
+I looked straight at her and screamed.%K%P
+0xBCC
+武「死んだら終わりなんだぞ？」%K%P
+Takeshi「When you die, it's game over. You understand that, right?」%K%P
+0xBD8
+武「俺達がどういう状況にいるのか忘れたのかよ！」%K%P
+Takeshi「Have you forgotten about us? What we're facing here?」%K%P
+0xBE4
+俺はつぐみを睨む。%K%P
+The situation had reversed to me glaring at Tsugumi.%K%P
+0xBF0
+こいつが悪事をしでかしたわけではない。%K%P
+It wasn't as if she had actually done something wrong.%K%P
+0xBFC
+しかし、こいつの発言を許すわけにはいかない。%K%P
+But that didn't mean I could forgive her for saying that.%K%P
+0xC08
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xC1C
+つぐみ「……ふん」%K%P
+Tsugumi「...Hmph.」%K%P
+0xC28
+つぐみは鼻で笑った。%K%P
+She snorted.%K%P
+0xC34
+つぐみ「あなたには、わからないのよ」%K%P
+Tsugumi「You don't understand, Takeshi.」%K%P
+0xC40
+つぐみ「人生なんて、ただの悪夢」%K%P
+Tsugumi「Life is a nightmare.」%K%P
+0xC4C
+つぐみ「この世の中で、命ほど醜いものはない」%K%P
+Tsugumi「This world is littered with ugliness.」%K%P
+0xC58
+武「あまったれたこと言ってんじゃねぇぞ！」%K%P
+Takeshi「Cut your poetic garbage!」%K%P
+0xC80
+バンッ！%K%P
+Wham!%K%P
+0xC8C
+俺は再び空きベッドを叩きつけた。%K%P
+Again, I pummeled the bed with my fists.%K%P
+0xC98
+武「命はなぁ！　この世の中で一番大切なものなんだよ！」%K%P
+Takeshi「Life! It's the most important thing in this world!」%K%P
+0xCA4
+武「偶然の中から生まれた奇蹟なんだよ！」%K%P
+Takeshi「Life is a miracle.」%K%P
+0xCB0
+つぐみ「違う、奇蹟なんかじゃない」%K%P
+Tsugumi「You're wrong! This is no miracle!」%K%P
+0xCBC
+つぐみ「この果てしなく広い宇宙の中で……」%K%P
+Tsugumi「In this ever-expanding universe...」%K%P
+0xCC8
+つぐみ「無限に連なる時間の中で……生命現象ほど奇特なものはない」%K%P
+Tsugumi「...Continuing infinitely... This phenomenon called 'life' is no miracle.」%K%P
+0xCD4
+つぐみ「不自然なのよ」%K%P
+Tsugumi「It's unnatural.」%K%P
+0xCE0
+つぐみ「生命は、この不毛なる世界に紛れ込んだ異物」%K%P
+Tsugumi「And it's an accident that we awoke in this disgusting world.」%K%P
+0xCEC
+武「違う、それは違うぞ、つぐみ」%K%P
+Takeshi「Wrong. You are wrong, Tsugumi.」%K%P
+0xCF8
+俺は声を押し殺す。%K%P
+I hesitated for a moment.%K%P
+0xD04
+武「お前は決定的に間違っている」%K%P
+Takeshi「You are unbelievably wrong.」%K%P
+0xD10
+つぐみ「どこがどう間違ってるの」%K%P
+Tsugumi「Where am I wrong?」%K%P
+0xD1C
+つぐみ「説明してご覧なさいよ……」%K%P
+Tsugumi「Come on. Tell me where I'm mistaken...」%K%P
+0xD28
+つぐみは表情を殺して、淡々と語る。%K%P
+All emotion left her face. She spoke plainly and precisely.%K%P
+0xD34
+つぐみ「命は欲望の塊」%K%P
+Tsugumi「Life is just a cluster of empty desires.」%K%P
+0xD40
+つぐみ「生命は、他の生命の犠牲によって成り立つ」%K%P
+Tsugumi「We build our lives on the corpses of others.」%K%P
+0xD4C
+つぐみ「牛を殺し、豚を殺し、鳥を殺し、魚を殺し、植物を殺し」%K%P
+Tsugumi「We kill cows, pigs, birds, fish, and plants...」%K%P
+0xD58
+つぐみ「そうしなければ人は生き続けることができない」%K%P
+Tsugumi「...And if we don't, we die.」%K%P
+0xD64
+つぐみ「食欲とはすなわち、殺戮本能の源」%K%P
+Tsugumi「Our appetites are whetted by the slaughtering of others.」%K%P
+0xD70
+つぐみ「睡眠欲は、怠惰のあかし」%K%P
+Tsugumi「Our desire for sleep only proves our indolence.」%K%P
+0xD7C
+つぐみ「卑猥で淫ら、醜悪なる交わりこそが、性欲の発露」%K%P
+Tsugumi「Our sexual desires are expressed through obscenity and sin.」%K%P
+0xD88
+つぐみ「あらゆる生命活動に伴う欲望はけがらわしい」%K%P
+Tsugumi「All the things that keep us alive, the things that drive us, are filthy.」%K%P
+0xD94
+つぐみ「欲望なくして生命を維持することはできない」%K%P
+Tsugumi「We can't live without them.」%K%P
+0xDA0
+つぐみ「清廉潔白な命なんて存在しないのよ」%K%P
+Tsugumi「There is no such thing as a life of purity.」%K%P
+0xDAC
+つぐみ「つまり……」%K%P
+Tsugumi「Ultimately...」%K%P
+0xDB8
+つぐみ「命は、それが存在した時点で、既に汚濁にまみれているの」%K%P
+Tsugumi「...From the moment we are born, we are already corrupted.」%K%P
+0xDC4
+武「だから、死にたいって？」%K%P
+Takeshi「And that's why you want to die?」%K%P
+0xDD0
+つぐみ「ええ、そうよ」%K%P
+Tsugumi「Yes.」%K%P
+0xDDC
+顔色を変えず平然と言った。%K%P
+I became quiet, contemplating what Tsugumi just said.%K%P
+0xDE8
+武「……ふん」%K%P
+Takeshi「...Heh.」%K%P
+0xDF4
+今度は俺が鼻で笑う。%K%P
+That time, it was me laughing.%K%P
+0xE00
+武「お前は、もっと賢いやつだと思ってたけど……どうやら買いかぶってたみたいだな」%K%P
+Takeshi「I thought you were smarter than that... but I guess I overrated you.」%K%P
+0xE0C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xE18
+武「確かに、つぐみの言ってることの半分は正しい」%K%P
+Takeshi「You do have a point, and I think you are partly right.」%K%P
+0xE24
+武「それは正直に認めるよ」%K%P
+Takeshi「I'll admit it.」%K%P
+0xE30
+武「人が生きる為には、ある程度の罪を犯さなければならない」%K%P
+Takeshi「In order for us to live, it's true that we must commit some atrocities.」%K%P
+0xE3C
+武「時には醜いこと、卑しいこともするさ」%K%P
+Takeshi「Sometimes people do terrible, despicable things.」%K%P
+0xE48
+武「でもな、そもそも『生きること』そのものは罪か？」%K%P
+Takeshi「But do you really think 'living' is a sin?」%K%P
+0xE54
+武「命を罪と考えることこそ、人間の傲慢な価値観の賜物だよ」%K%P
+Takeshi「Thinking life is a sin is the result of arrogant values.」%K%P
+0xE60
+武「鳥は、たわわに実った果実をついばむとき、それが醜いことだとは思っていないだろう？」%K%P
+Takeshi「You don't really think it's a crime for a bird to snatch fruit from a tree, do you?」%K%P
+0xE6C
+武「虎が兎の喉元に喰らいつくとき、罪悪感を抱くだろうか？」%K%P
+Takeshi「Does a tiger feel guilt for eating its prey?」%K%P
+0xE78
+武「次の生命を育む為に身体を重ねることを、どうして醜悪だと思う？」%K%P
+Takeshi「Is it really a terrible thing to join together and create new life?」%K%P
+0xE84
+武「それが生きる為に必要な行為ならば、すべてが正しく、尊いことだとわかるはずだ」%K%P
+Takeshi「Everything that is necessary to continue living is not only right, I believe it is sacred.」%K%P
+0xE90
+武「鳥だって、虎だって、蟻んこだって、ぺんぺん草だって」%K%P
+Takeshi「The birds, the tigers, the ants, even the grass...」%K%P
+0xE9C
+武「ガムシャラに生きてるやつは、みんなかっちょいいんだよ」%K%P
+Takeshi「...They all work so hard to live. It's a beautiful thing.」%K%P
+0xEA8
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xEB4
+武「そして、他の生命を慈しむ行為は、自ら生き延びることと同じくらい尊い」%K%P
+Takeshi「And to love the lives of others is just as important as loving yourself.」%K%P
+0xEC0
+武「そのことは、お前も知ってるはずだ」%K%P
+Takeshi「You have to realize that, don't you?」%K%P
+0xED4
+つぐみ「バカみたい……」%K%P
+Tsugumi「It's ridiculous.」%K%P
+0xEE0
+つぐみは眉をひそめた。%K%P
+Tsugumi frowned.%K%P
+0xEEC
+武「強がってんじゃねぇーよ！」%K%P
+Takeshi「Stop pretending to be so cold!」%K%P
+0xEF8
+俺はベッドを蹴り飛ばしたくなったが、堪える。%K%P
+I wanted to kick the bed over, yet I resisted somehow.%K%P
+0xF04
+武「じゃあどうしてあのときココをかばった！？」%K%P
+Takeshi「Alright, so why did you protect Coco?」%K%P
+0xF10
+武「自分の身を犠牲にして、ココのことを助けたじゃないか！！」%K%P
+Takeshi「Why did you sacrifice yourself to save Coco?」%K%P
+0xF1C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xF28
+武「何があったか知らないが、お前はただ、強がってるだけだ」%K%P
+Takeshi「I don't know exactly what happened back there, but I do know that you are avoiding the truth.」%K%P
+0xF34
+武「必死になって、命を否定しようとしている」%K%P
+Takeshi「You are desperately trying to deny life.」%K%P
+0xF40
+武「生命活動に伴う一切の欲望を、不埒だと考えようと自ら仕向けてる」%K%P
+Takeshi「Everyone's desires are born out of life. You only want to believe they're wrong to prove your selfish point.」%K%P
+0xF4C
+武「理屈に意固地にしがみついて、『死にたい』と思いながら生きて……」%K%P
+Takeshi「You're holding on obstinately, living while all you want to do is die...」%K%P
+0xF58
+武「論理が逆なんだよ！」%K%P
+Takeshi「Your logic is completely backwards!」%K%P
+0xF64
+武「生命は無条件で肯定されるべきだ」%K%P
+Takeshi「Life should be unconditionally embraced.」%K%P
+0xF70
+武「生命は皆、生きる為に生きている」%K%P
+Takeshi「Everyone lives for the sake of living.」%K%P
+0xF7C
+武「生きている者は、ずっと生きるべきなんだ」%K%P
+Takeshi「By definition, living beings must have life.」%K%P
+0xF88
+武「恋が美しいのなら、生きてることだって美しいはずだ」%K%P
+Takeshi「If love is beautiful, then so is life.」%K%P
+0xF94
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0xFA0
+つぐみ「あなたは何も、わかってない」%K%P
+Tsugumi「You don't understand a thing.」%K%P
+0xFAC
+武「ああ、わかってねぇよ」%K%P
+Takeshi「Yeah, I don't understand.」%K%P
+0xFB8
+武「会ってまだ３日だしな」%K%P
+Takeshi「We've known each other for what? Just three days.」%K%P
+0xFC4
+武「お前のことなんか、なんにも知らねぇよ」%K%P
+Takeshi「I don't know a THING about you...」%K%P
+0xFD0
+武「だけどな、俺の言ってることは絶対に間違ってない」%K%P
+Takeshi「...But I know for sure that what I'm saying is 100％ true.」%K%P
+0xFDC
+武「だから……」%K%P
+Takeshi「So...」%K%P
+0xFE8
+武「死にたいなんて、言うな」%K%P
+Takeshi「Don't say that you want to die.」%K%P
+0xFFC
+言わせない。%K%P
+I wouldn't let her say it.%K%P
+0x1008
+俺は唇を噛み締めてつぐみを見た。%K%P
+I bit my lip as I stared at Tsugumi.%K%P
+0x1014
+本当に、叩きつけるように、言いたいことを言わせてもらったが……。%K%P
+I had told Tsugumi exactly how I felt. No holding back, no regrets.%K%P
+0x1020
+二度と言わせたくはない。%K%P
+I didn't want her to say it anymore.%K%P
+0x102C
+俺ももう、言いたくはなかった。%K%P
+I didn't even want to have to say those things.%K%P
+0x1038
+生き残ったからには、死ぬなんて絶対に言わせない。%K%P
+She survived for a reason. She shouldn't say she wanted to throw that away.%K%P
+0x105C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1070
+つぐみ「……はぁ」%K%P
+Tsugumi「...*Sigh*...」%K%P
+0x107C
+つぐみは肩の力を抜いて、ふっと表情を緩めた。%K%P
+Tsugumi let all of the tension slip from her shoulders. Her eyes suddenly lit up.%K%P
+0x1088
+つぐみ「そうね、ええ……」%K%P
+Tsugumi「Yeah...」%K%P
+0x1094
+つぐみ「わかったわ……」%K%P
+Tsugumi「I get it...」%K%P
+0x10A0
+おお、やっとわかってくれたか……俺の顔も緩んでしまった。%K%P
+What, had I finally gotten through to her...? I couldn't help but smile.%K%P
+0x10AC
+つぐみはそれから微笑みをひとつ浮かべると……%K%P
+A smile appeared on her lips...%K%P
+0x10B8
+俺の顔をひと眺めして、呟いた。%K%P
+She glanced up at me and muttered something...%K%P
+0x10C4
+つぐみ「よくわかったわ」%K%P
+Tsugumi「I understand perfectly.」%K%P
+0x10D8
+つぐみ「あなたが、偽善者だってことが」%K%P
+Tsugumi「You... You're a total hypocrite.」%K%P
+0x1138
+空「あ、倉成さん。どうでしたか、小町さんは？」%K%P
+Sora「Ah, Kuranari-san. What happened? Where is Komachi-san?」%K%P
+0x1144
+空は扉のすぐ外で、心配そうに待っていた。%K%P
+Sora was waiting just outside the door with a worried expression on her face.%K%P
+0x1150
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x115C
+武「……生きてるよ」%K%P
+Takeshi「She's alive.」%K%P
+0x1170
+空「えっ？」%K%P
+Sora「Really?」%K%P
+0x117C
+武「だけどあいつ、死にたかったんだとさ」%K%P
+Takeshi「But she wishes she were dead.」%K%P
+0x1188
+空「く、倉成さん！　本当に言われたんですか、そんなことっ」%K%P
+Sora「Ku-Kuranari-san! Did she really tell you that?」%K%P
+0x1194
+武「ああ、本当だ」%K%P
+Takeshi「Yup. It's true.」%K%P
+0x11A0
+武「残念ながら、あいつの思い通りにはならなかったな」%K%P
+Takeshi「It's unfortunate, but she didn't get what she wanted. Death.」%K%P
+0x11B4
+空「で、でも、だからって……そんな」%K%P
+Sora「But, but... you don't have to...」%K%P
+0x11C0
+空の声は震えていた。%K%P
+Sora's voice quivered as she spoke.%K%P
+0x11CC
+武「まったく俺も、あんな奴のことなんか、助けなけりゃよかっ――」%K%P
+Takeshi「You know, I should have never even helped save―」%K%P
+0x11E0
+空「倉成さんっ！」%K%P
+Sora「Kuranari-san!」%K%P
+0x11EC
+空「やめてください……」%K%P
+Sora「Please stop this...」%K%P
+0x1200
+空「そんな、言い方って……ないと思います……」%K%P
+Sora「You should not say... things like that...」%K%P
+0x1214
+空「ひどいです、見損なってしまいます……」%K%P
+Sora「It is awful. I am so disappointed in you...」%K%P
+0x1220
+武「…………」%K%P
+Takeshi「.........」%K%P
+0x122C
+空「…………」%K%P
+Sora「.........」%K%P
+0x1238
+武「悪かった。空の気分まで損ねちまったな」%K%P
+Takeshi「I'm sorry. Now you're upset, Sora.」%K%P
+0x124C
+空「…………」%K%P
+Sora「.........」%K%P
+0x1258
+武「すまん。今の俺は、まともじゃないんだ……」%K%P
+Takeshi「I'm not myself right now...」%K%P
+0x1264
+武「寝直しに戻るよ、寝つきは悪そうだけどな」%K%P
+Takeshi「I'm heading back to bed, even though I know I can't sleep.」%K%P
+0x1270
+俺は片手を力なくあげて、空と別れる。%K%P
+I raised my hand weakly and parted with Sora.%K%P
+0x128C
+空はずっと、救護室の扉の前で立ち尽くしていた。%K%P
+Sora stood by the entrance to the medical room, frozen, without movement.%K%P
+0x12F4
+武「ああ、そうかよ！」%K%P
+Takeshi「I got it!」%K%P
+0x1300
+俺はつぐみから目を逸らしながら、吐き捨てるように言った。%K%P
+Turned away from Tsugumi, I blurted out something.%K%P
+0x130C
+武「だったらどうしてお前は、ココを助けたりしたんだ……？」%K%P
+Takeshi「Well then, Tsugumi, how come you helped Coco?」%K%P
+0x1318
+武「いや、どうして倉庫の修理になんか行ったんだ？」%K%P
+Takeshi「No, better yet, how come you went to repair the warehouse?」%K%P
+0x132C
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1338
+武「『死にたかった』だって？」%K%P
+Takeshi「You WANTED to die?」%K%P
+0x1344
+武「だったら俺達に構う必要なかったはずだ」%K%P
+Takeshi「Well, then you didn't really have to worry about us, now did you?」%K%P
+0x1350
+武「お互い勝手にくたばったって、よかったはずだ……」%K%P
+Takeshi「You shouldn't have cared at all if we'd all died...」%K%P
+0x135C
+武「違うかよ？」%K%P
+Takeshi「Right? Or wrong?」%K%P
+0x1368
+つぐみ「…………」%K%P
+Tsugumi「.........」%K%P
+0x1374
+つぐみは口を閉ざしたまま、動こうとしなかった。%K%P
+Tsugumi's mouth didn't move, and neither did the rest of her body. She just lay there.%K%P
+0x1380
+武「お前が助かって、俺はよかったと思ってる」%K%P
+Takeshi「You know, I'm glad I saved you...」%K%P
+0x138C
+武「だけどな……」%K%P
+Takeshi「...But...」%K%P
+0x1398
+武「まったく、俺も……」%K%P
+Takeshi「...I just stopped...」%K%P
+0x13A4
+武「どうしてお前を助けたりしたのか……わからなくなっちまった」%K%P
+Takeshi「...Thinking that saving you was a good idea.」%K%P
+0x13B0
+それ以上、会話はなかった。%K%P
+After that, I had nothing more to say.%K%P
+0x13BC
+俺は足早にベッドを去る。%K%P
+I rose to my feet and left the room.%K%P
