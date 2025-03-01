@@ -228,10 +228,10 @@ Sora「What... What in the world...?」%K%P
 And then...%K%P
 0x4D4
 『生体反応：５』%T030%N
-'Life readings: 5'%T030
+'Life readings: 5'%T030%N
 0x4E8
 『生体反応：７』%T030%N
-'Life readings: 7'%T030
+'Life readings: 7'%T030%N
 0x4FC
 『生体反応：６』%K%P
 'Life readings: 6'%K%P
