@@ -345,10 +345,10 @@ I tried pulling her up again, but... her face quickly drained of all color.%K%P
 (This is bad... If we don't... get in there quickly...!)%K%P
 0x15B4
 アナウンス「öｆｆｎｅｎ⑳Ｓｉｅ⑳
-Announcement「<öffnen Sie 」
+Announcement「<öffnen Sie 
 0x15C0
 ｄｉｅ⑳Ｔüｒ⑳ｖｏｎ⑳ＨＩＭＭＥＬ．」%K%P
-die Tür von HIMMEL.>"%K%P
+die Tür von HIMMEL.>」%K%P
 0x15D0
 突如、聞き慣れない声が通路にこだました。%K%P
 Suddenly, a voice that I hadn't heard before sounded from the corridor.%K%P

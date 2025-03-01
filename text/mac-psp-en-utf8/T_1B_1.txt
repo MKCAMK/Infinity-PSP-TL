@@ -1218,7 +1218,7 @@ Instantly, the content of the screen began to change, with a number of windows o
 Takeshi「Hey... you can operate these computers without even touching them?」%K%P
 0x1B44
 武「俺の持ってる最新式の携帯ですら、タッチパネルだぞ？」%K%P
-Takeshi「I've got the latest cell phone, and it's got a touch panel.」%K%P
+Takeshi「I've got the latest cell phone, and it's got a touch%Npanel.」%K%P
 0x1B50
 武「まぁ、静電充電はついてるけどさ……」%K%P
 Takeshi「And it's got a kinetic recharge function...」%K%P
@@ -1941,7 +1941,7 @@ You「That's right... He can't remember anything.」%K%P
 Sora「Did you suffer a concussion?」%K%P
 0x2B58
 空「あの、どこかでしたたかに頭を打ったのでは？」%K%P
-Sora「You might have bumped your head severely somewhere.」%K%P
+Sora「You might have bumped your head severely%Nsomewhere.」%K%P
 0x2B64
 武「そうだ、逃げるときに……すっ転んだとか」%K%P
 Takeshi「Yeah, you coulda taken a tumble... like when trying to escape.」%K%P

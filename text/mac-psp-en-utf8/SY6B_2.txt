@@ -42,7 +42,7 @@ You「That's not what I mean.」%K%P
 Kid「What then?」%K%P
 0x168
 優「『うみつきの、こくうにすずし、ほととぎす』」%K%P
-You「'The empty fall sky A single cuckoo calls out Brings a chill to me'.」%K%P
+You「'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.」%K%P
 0x174
 優「パスワードはこれで合ってるはず」%K%P
 You「That should be the password.」%K%P

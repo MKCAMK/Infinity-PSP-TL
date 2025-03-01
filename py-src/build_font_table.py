@@ -12,11 +12,11 @@ import r11
 def loadJapCjkCharsetAsIndex() -> list:
     font_table_len = 8192
     # index = [None] * font_table_len
-    
+
     sjis_table_with_char_u8 = os.path.dirname(__file__) + "/../text/charset-tables/sjis-0213-2004-with-char-u8.txt"
     with open(sjis_table_with_char_u8, "r", encoding="utf-8-sig") as unicode_file:
         lines = unicode_file.readlines()
-    
+
     lines = filter(lambda l: not l.startswith("##"), lines)
 
     ascii_lines_parsed = []
@@ -35,7 +35,7 @@ def loadJapCjkCharsetAsIndex() -> list:
 
         # if ("[200" in l):
         #     char_utf8 = " "
-        
+
         if (jis_bytes.__len__() == 2):
             # print(i, "char", char, "jis_bytes", jis_bytes)
             cjk_lines_parsed.append([char_utf8, char_jis_code, char_unicode, char_comment])
@@ -93,14 +93,23 @@ def loadJapCjkCharsetAsIndex() -> list:
     font_index[1136][3] += "# R11:Rendered as a blank space (full width?)"
     # ä ö ü tm ...
     font_index[1137][0] = "ä"
+    font_index[1137][3] += "# ⑩"
     font_index[1138][0] = "ö"
+    font_index[1138][3] += "# ⑪"
     font_index[1139][0] = "ü"
+    font_index[1139][3] += "# ⑫"
     font_index[1145][0] = "™"
     font_index[1145][3] += "# ⑱ in SJIS"
     #font_index[1146][0] = "…"
     # circled number 20
     font_index[1147][3] += "# R11: Rendered as a blank space (half width? or is it ideographic space U+3000?)"
     # see https://en.wikipedia.org/wiki/Whitespace_character for whitespace types breakdown
+
+    # custom
+    font_index[1140][0] = "é"
+    font_index[1140][3] += "# ⑬"
+    font_index[1141][0] = "à"
+    font_index[1141][3] += "# ⑭"
 
     # empty
     font_index[1182][0] = ""
