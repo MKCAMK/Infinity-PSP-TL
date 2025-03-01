@@ -18,7 +18,7 @@ sjis_enc = "shift_jis_2004"
 # "GB2312"
 
 
-r11_original_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-orig-font-table.txt"
+r11_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-custom-font-table.txt"
 r11_cn_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-cn-font-table.txt"
 
 en_r11_charset_as_list: Union[List[CharsetElement], None] = None
@@ -62,9 +62,7 @@ def clean_en_translation_line(line: str) -> str:
   line = re.sub("\u2015\u2015", "\u2015", line) # double em dash '——' -> single em dash '—'
   # double spaces were fixed manually where appropriate, use text search to find remaining cases
   # line = re.sub(r"(?<!\b\S \S)  +", " ", line) # collapse multiple spaces unless there are also extra spaces within the neighboring words
-  line = re.sub("\u00f6", "o", line) # ö no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
   # line = re.sub("\u014d", "o", line) # ō no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
-  line = re.sub("\u00e9", "e", line) # é (utf8:c3a9) in fiancé; SA5_07, TIP_102
   line = re.sub("na\u00efve", "naive", line) # "naïve": no umlaut for i
   if "''" in line:
     exit("unmatched ''")
@@ -139,7 +137,7 @@ def _init_r11_charset(lang = "en"):
     global en_r11_bytes_to_codes
     if en_r11_charset_as_list != None:
       return (en_r11_charset_as_list, en_r11_utf8_to_codes, en_r11_bytes_to_codes)
-    (en_r11_charset_as_list, en_r11_utf8_to_codes, en_r11_bytes_to_codes) = _load_r11_font_table(r11_original_font_table_path)
+    (en_r11_charset_as_list, en_r11_utf8_to_codes, en_r11_bytes_to_codes) = _load_r11_font_table(r11_font_table_path)
     return (en_r11_charset_as_list, en_r11_utf8_to_codes, en_r11_bytes_to_codes)
   elif lang == "cn":
     global cn_r11_charset_as_list

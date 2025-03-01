@@ -291,7 +291,7 @@ Pipi「*Woof*!」%K%P
 He tilted his head doubtfully.%K%P
 0x958
 係員「ココちゃんは、ＬｅＭＵに来たのは何回目かな？」%K%P
-Park staff「So, Coco-chan, how many times have you been to LeMU?」%K%P
+Park staff「So, Coco-chan, how many times have you been to%NLeMU?」%K%P
 0x964
 ココ「んーとねぇ、んーとねぇ……１・２・３・４・５……」%K%P
 Coco「Uh, well... One, two, three, four, five...」%K%P
@@ -426,7 +426,7 @@ Park staff「Now, if you look at this chart, you will see that the structure is 
 Park staff「From the top, these are called Insel Null, Erster Boden, Zweiter Stock, and Dritter Stock...」%K%P
 0xBD4
 係員「一般的に言われるグランドフロア〜地下３階までのことだとお考えいただいて結構です」%K%P
-Park staff「In terms of a normal building, you might think of it as a structure with a ground floor extending down to a three-story basement.」%K%P
+Park staff「In terms of a normal building, you might think of it as a structure with a ground floor extending down to a%Nthree-story basement.」%K%P
 0xBE0
 係員「インゼル・ヌルとは、ここ……浮島のことです」%K%P
 Park staff「Insel Null, here, is a floating island.」%K%P
@@ -567,7 +567,7 @@ Coco「Waaahahaha!」%K%P
 Coco「Well? That's a pretty good joke, huh?」%K%P
 0xEA0
 武「まぁ、気にならないこともないけど……後でな」%K%P
-Takeshi「Well, I suppose it could be worse, but... I'll talk to you later.」%K%P
+Takeshi「Well, I suppose it could be worse, but... I'll talk to you%Nlater.」%K%P
 0xEAC
 ココ「えーっ」%K%P
 Coco「Huh.」%K%P

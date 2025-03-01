@@ -469,508 +469,634 @@ Title
 ;1220;24;ココ編を武視点でスタート
 
 ;1228;10;プロローグ
-
+Prologue
 ;122c;14;インゼル・ヌル
+Insel Null
 
 ;1234;10;プロローグ
 ;dupe:1228
 ;1238;18;天国はどこにある？
+Where Is Heaven?
 
 ;1240;10;プロローグ
 ;dupe:1228
 ;1244;10;予感と予兆
+Premonitions And Omens
 
 ;124c;10;プロローグ
 ;dupe:1228
 ;1250;4;異変
+Adversity
 
 ;1258;6;武視点
-
+Takeshi
 ;125c;16;エルストボーデン
+Erster Boden
 
 ;1264;6;武視点
 ;dupe:1258
 ;1268;18;ドリットシュトック
+Dritter Stock
 
 ;1270;6;武視点
 ;dupe:1258
 ;1274;20;ツヴァイトシュトック
+Zweiter Stock
 
 ;127c;6;武視点
 ;dupe:1258
 ;1280;8;２次浸水
+Second Flooding
 
 ;1288;6;武視点
 ;dupe:1258
 ;128c;6;減圧症
+The Bends
 
 ;1294;6;武視点
 ;dupe:1258
 ;1298;4;反響
+Echo
 
 ;12a0;6;武視点
 ;dupe:1258
 ;12a4;8;空聞かず
+Ignore Sora
 
 ;12ac;6;武視点
 ;dupe:1258
 ;12b0;18;アルキメデスの原理
+The Archimedes Principle
 
 ;12b8;6;武視点
 ;dupe:1258
 ;12bc;8;トリック
+Trick
 
 ;12c4;6;武視点
 ;dupe:1258
 ;12c8;8;空を歩む
+Walking On The Sky
 
 ;12d0;6;武視点
 ;dupe:1258
 ;12d4;8;ヤミオニ
+Kick The Can
 
 ;12dc;6;武視点
 ;dupe:1258
 ;12e0;4;修復
+Restoration
 
 ;12e8;6;武視点
 ;dupe:1258
 ;12ec;4;負傷
+Injury
 
 ;12f4;6;武視点
 ;dupe:1258
 ;12f8;12;しばしの眠り
+Short Respite
 
 ;1300;6;武視点
 ;dupe:1258
 ;1304;10;空を吹く風
+Windblown Sky
 
 ;130c;6;武視点
 ;dupe:1258
 ;1310;10;空かける虹
+Sora's Rainbow
 
 ;1318;6;武視点
 ;dupe:1258
 ;131c;6;目覚め
+Awakening
 
 ;1324;6;武視点
 ;dupe:1258
 ;1328;10;空に標結う
+Useless Struggle
 
 ;1330;6;武視点
 ;dupe:1258
 ;1334;12;ピグマリオン
+Pygmalion
 
 ;133c;6;武視点
 ;dupe:1258
 ;1340;6;神隠し
+Spirited Away
 
 ;1348;6;武視点
 ;dupe:1258
 ;134c;4;疑惑
+Suspicion
 
 ;1354;6;武視点
 ;dupe:1258
 ;1358;12;空に三つ廊下
+Three Paths To Sora
 
 ;1360;6;武視点
 ;dupe:1258
 ;1364;8;噛み隠し
+Nibbled Away
 
 ;136c;6;武視点
 ;dupe:1258
 ;1370;4;仲間
+Friends
 
 ;1378;6;武視点
 ;dupe:1258
 ;137c;10;空に巣掻く
+Clawing At The Nest
 
 ;1384;6;武視点
 ;dupe:1258
 ;1388;10;夜明けまで
+Until Dawn
 
 ;1390;6;武視点
 ;dupe:1258
 ;1394;10;闇に紛れる
+Lurking In The Dark
 
 ;139c;6;武視点
 ;dupe:1258
 ;13a0;14;空に知られぬ雪
+Unknown Clouds
 
 ;13a8;6;武視点
 ;dupe:1258
 ;13ac;2;絆
+Bonds
 
 ;13b4;6;武視点
 ;dupe:1258
 ;13b8;2;鎖
+Chains
 
 ;13c0;6;武視点
 ;dupe:1258
 ;13c4;6;臨界点
+Crisis Point
 
 ;13cc;6;武視点
 ;dupe:1258
 ;13d0;10;生者／死者
+Dead Or Alive
 
 ;13d8;6;武視点
 ;dupe:1258
 ;13dc;10;虚空／真空
+Fake Sora/Real Sora
 
 ;13e4;6;武視点
 ;dupe:1258
 ;13e8;14;沈黙は最後の宴
+Silent Last Supper
 
 ;13f0;6;武視点
 ;dupe:1258
 ;13f4;12;空の色は……
+Sora's Colors...
 
 ;13fc;6;武視点
 ;dupe:1258
 ;1400;12;対決、そして
+Showdown And...
 
 ;1408;6;武視点
 ;dupe:1258
 ;140c;16;ティーフ・ブラウ
+Tief Blau
 
 ;1414;6;武視点
 ;dupe:1258
 ;1418;8;ヒンメル
+HIMMEL
 
 ;1420;6;武視点
 ;dupe:1258
 ;1424;6;ＩＢＦ
+IBF
 
 ;142c;16;武視点／つぐみ編
-
+Takeshi/Tsugumi
 ;1430;18;キュレイ・ウイルス
+Curé Virus
 
 ;1438;16;武視点／つぐみ編
 ;dupe:142c
 ;143c;10;約束の日へ
+Promised Day
 
 ;1444;12;武視点／空編
-
+Takeshi/Sora
 ;1448;10;空知らぬ雨
+Unknown Rain
 
 ;1450;12;武視点／空編
 ;dupe:1444
 ;1454;12;空で覚えてる
+Remembering Sora
 
 ;145c;6;武視点
 ;dupe:1258
 ;1460;10;Ｓｐｉｅｌ
+Spiel
 
 ;1468;6;武視点
 ;dupe:1258
 ;146c;20;Ｇｅｓｃｈｉｃｈｔｅ
+Geschichte
 
 ;1474;8;少年視点
-
+Kid
 ;1478;4;覚醒
+Awakening
 
 ;1480;8;少年視点
 ;dupe:1474
 ;1484;8;沙羅双樹
+Sarasoju
 
 ;148c;8;少年視点
 ;dupe:1474
 ;1490;24;『再会』あるいは『邂逅』
+Reunion Or Chance Meeting?
 
 ;1498;8;少年視点
 ;dupe:1474
 ;149c;8;生体反応
+Bio Readings
 
 ;14a4;8;少年視点
 ;dupe:1474
 ;14a8;14;それぞれの思惑
+Hidden Agendas
 
 ;14b0;8;少年視点
 ;dupe:1474
 ;14b4;4;少女
-;dupe:f18
+The Young Girl
+
 ;14bc;8;少年視点
 ;dupe:1474
 ;14c0;10;加圧と減圧
+Pressure Rises And Falls
 
 ;14c8;8;少年視点
 ;dupe:1474
 ;14cc;16;夢と現（うつつ）
+Waking And Sleeping
 
 ;14d4;8;少年視点
 ;dupe:1474
 ;14d8;10;１１９時間
+119 Hours
 
 ;14e0;8;少年視点
 ;dupe:1474
 ;14e4;22;リリック・ザ・ミミック
+Lyric The Mimic
 
 ;14ec;8;少年視点
 ;dupe:1474
 ;14f0;16;闇に浮かぶは朧月
+Hazy Moon In The Darkness
 
 ;14f8;8;少年視点
 ;dupe:1474
 ;14fc;8;真実の眼
+Inner Truths
 
 ;1504;8;少年視点
 ;dupe:1474
 ;1508;6;月の精
+Moon Sprite
 
 ;1510;8;少年視点
 ;dupe:1474
 ;1514;4;帰還
+The Return
 
 ;151c;8;少年視点
 ;dupe:1474
 ;1520;12;触れられぬ月
+Untouchable Moon
 
 ;1528;8;少年視点
 ;dupe:1474
 ;152c;4;闇鬼
+Kick The Can
 
 ;1534;8;少年視点
 ;dupe:1474
 ;1538;8;朝の儀式
+Morning Ritual
 
 ;1540;8;少年視点
 ;dupe:1474
 ;1544;14;マヨとなっきゅ
+Nakkyu And Mayo
 
 ;154c;8;少年視点
 ;dupe:1474
 ;1550;10;非予定調和
+Unexpected Harmony
 
 ;1558;8;少年視点
 ;dupe:1474
 ;155c;20;エンコード／デコード
+Encode/Decode
 
 ;1564;8;少年視点
 ;dupe:1474
 ;1568;24;レストア／ブレイクダウン
+Restore/Breakdown
 
 ;1570;8;少年視点
 ;dupe:1474
 ;1574;8;月と悪夢
+The Moon And Nightmares
 
 ;157c;8;少年視点
 ;dupe:1474
 ;1580;14;正常にして異常
+Abnormally Normal
 
 ;1588;8;少年視点
 ;dupe:1474
 ;158c;4;衝突
+Collision
 
 ;1594;8;少年視点
 ;dupe:1474
 ;1598;4;仮説
+Hypothesis
 
 ;15a0;14;少年視点／優編
-
+Kid/You
 ;15a4;22;ｔｈｅ⑳１ｓｔ⑳ｅｙｅ
+The First Eye
 
 ;15ac;14;少年視点／優編
 ;dupe:15a0
 ;15b0;12;Ｍａｌａｋｈ
+Malakh
 
 ;15b8;14;少年視点／優編
 ;dupe:15a0
 ;15bc;26;Ｐａｎｄｏｒａ’ｓ⑳ｂｏｘ
+Pandora's Box
 
 ;15c4;14;少年視点／優編
 ;dupe:15a0
 ;15c8;22;ｔｈｅ⑳２ｎｄ⑳ｅｙｅ
+The Second Eye
 
 ;15d0;14;少年視点／優編
 ;dupe:15a0
 ;15d4;12;Ａｓｔｒａｌ
+Astral
 
 ;15dc;14;少年視点／優編
 ;dupe:15a0
 ;15e0;14;Ｇａｂｒｉｅｌ
+Gabriel
 
 ;15e8;14;少年視点／優編
 ;dupe:15a0
 ;15ec;30;Ｙｏｍｏｔｓｕｈｉｒａｓａｋａ
+Yomotsu Hirasaka
 
 ;15f4;14;少年視点／優編
 ;dupe:15a0
 ;15f8;22;ｔｈｅ⑳３ｒｄ⑳ｅｙｅ
+The Third Eye
 
 ;1600;14;少年視点／優編
 ;dupe:15a0
 ;1604;14;Ｂａｂｙｌｏｎ
+Babylon
 
 ;160c;14;少年視点／優編
 ;dupe:15a0
 ;1610;16;Ａｓｍｏｄｅｕｓ
+Asmodeus
 
 ;1618;14;少年視点／優編
 ;dupe:15a0
 ;161c;16;Ｍａｈａｋａｌａ
+Mahakala
 
 ;1624;14;少年視点／優編
 ;dupe:15a0
 ;1628;14;Ｒａｐｈａｅｌ
+Raphael
 
 ;1630;14;少年視点／優編
 ;dupe:15a0
 ;1634;18;Ｌｅｖｉａｔｈａｎ
+Leviathan
 
 ;163c;14;少年視点／優編
 ;dupe:15a0
 ;1640;10;Ａｍｒｔａ
+Amrita
 
 ;1648;14;少年視点／優編
 ;dupe:15a0
 ;164c;20;Ｎｏａｈ’ｓ⑳ａｒｃ
+Noah's Ark
 
 ;1654;14;少年視点／優編
 ;dupe:15a0
 ;1658;16;Ｍａｃｈｏｎｏｍ
+Machonom
 
 ;1660;14;少年視点／優編
 ;dupe:15a0
 ;1664;16;Ｓｈｅｈａｑｉｍ
+Shehaqim
 
 ;166c;14;少年視点／優編
 ;dupe:15a0
 ;1670;20;Ｍｕｌｔｉｖｅｒｓｅ
+Multiverse
 
 ;1678;16;少年視点／沙羅編
-
+Kid/Sara
 ;167c;16;常⑳～とこしえ～
+Eternal
 
 ;1684;16;少年視点／沙羅編
 ;dupe:1678
 ;1688;14;探⑳～のぞみ～
+Hope
 
 ;1690;16;少年視点／沙羅編
 ;dupe:1678
 ;1694;16;惑⑳～とまどい～
+Confusion
 
 ;169c;16;少年視点／沙羅編
 ;dupe:1678
 ;16a0;14;禊⑳～みそぎ～
+Purification
 
 ;16a8;16;少年視点／沙羅編
 ;dupe:1678
 ;16ac;14;伝⑳～つたえ～
+Message
 
 ;16b4;16;少年視点／沙羅編
 ;dupe:1678
 ;16b8;16;生⑳～まほろば～
+Utopia
 
 ;16c0;16;少年視点／沙羅編
 ;dupe:1678
 ;16c4;14;蘇⑳～きおく～
+Memory
 
 ;16cc;16;少年視点／沙羅編
 ;dupe:1678
 ;16d0;14;契⑳～ちぎり～
+Promises
 
 ;16d8;16;少年視点／沙羅編
 ;dupe:1678
 ;16dc;14;兆⑳～きざし～
+Omen
 
 ;16e4;16;少年視点／沙羅編
 ;dupe:1678
 ;16e8;14;結⑳～きずな～
+Bonds
 
 ;16f0;16;少年視点／沙羅編
 ;dupe:1678
 ;16f4;14;交⑳～まじり～
+Merging
 
 ;16fc;16;少年視点／沙羅編
 ;dupe:1678
 ;1700;14;永⑳～みらい～
+Future
 
 ;1708;6;ココ編
-
+Coco
 ;170c;8;写真拝見
+Perusing Pictures
 
 ;1714;6;ココ編
 ;dupe:1708
 ;1718;8;誰我誰君
+Who Am I, Who Are You?
 
 ;1720;6;ココ編
 ;dupe:1708
 ;1724;8;追憶後顧
+Reflecting On The Past
 
 ;172c;6;ココ編
 ;dupe:1708
 ;1730;8;満身創痍
+Battered And Bruised
 
 ;1738;6;ココ編
 ;dupe:1708
 ;173c;8;陽鳥指輪
+Ring Of The Phoenix
 
 ;1744;6;ココ編
 ;dupe:1708
 ;1748;8;朧月贖罪
+Moonlight Atonement
 
 ;1750;6;ココ編
 ;dupe:1708
 ;1754;8;同胞児戯
+Childlike
 
 ;175c;6;ココ編
 ;dupe:1708
 ;1760;8;比丘尼涙
+Tears Of A Nun
 
 ;1768;6;ココ編
 ;dupe:1708
 ;176c;8;原罪称号
+Mark Of Original Sin
 
 ;1774;6;ココ編
 ;dupe:1708
 ;1778;8;芋虫ＤＪ
+Potato Bug DJ
 
 ;1780;6;ココ編
 ;dupe:1708
 ;1784;8;披瀝寸劇
+Drama Of The Heart
 
 ;178c;6;ココ編
 ;dupe:1708
 ;1790;8;創痕房事
+Scars Of Love
 
 ;1798;6;ココ編
 ;dupe:1708
 ;179c;8;３４春秋
+34 Years
 
 ;17a4;6;ココ編
 ;dupe:1708
 ;17a8;8;融解涼権
+Power To Dissolve
 
 ;17b0;6;ココ編
 ;dupe:1708
 ;17b4;8;４ＤＢＷ
+4DBW
 
 ;17bc;6;ココ編
 ;dupe:1708
 ;17c0;8;解脱涅槃
+Banished From Heaven
 
 ;17c8;6;ココ編
 ;dupe:1708
 ;17cc;8;寂滅降臨
+The Descent
 
 ;17d4;6;ココ編
 ;dupe:1708
 ;17d8;8;猛犬注意
+BEWARE OF DOG
 
 ;17e0;6;ココ編
 ;dupe:1708
 ;17e4;8;復活永眠
+Wake From Eternal Sleep
 
 ;17ec;6;ココ編
 ;dupe:1708
 ;17f0;8;時間背理
+Against The Flow Of Time
 
 ;17f8;6;ココ編
 ;dupe:1708
 ;17fc;8;最終覚醒
+Last Awakening
 
 ;1804;10;エピローグ
-
+Epilogue
 ;1808;22;ＢｌｉｃｋＷｉｎｋｅｌ
+Blick Winkel
 
 ;1814;6;OP00_1
 
@@ -4585,13 +4711,14 @@ Title
 ;345c;7;ADX57NL
 
 ;3464;11;Insel⑳null
-
+Insel null
 ;3468;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 
 ;346c;8;阿保⑳剛
 
 ;3470;0;
 ;dupe:f74
+
 ;3474;10;Ersteboden
 
 ;3478;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
@@ -4600,6 +4727,7 @@ Title
 ;dupe:346c
 ;3480;0;
 ;dupe:f74
+
 ;3484;11;Zweitestock
 
 ;3488;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
@@ -4608,6 +4736,7 @@ Title
 ;dupe:346c
 ;3490;0;
 ;dupe:f74
+
 ;3494;11;Drittestock
 
 ;3498;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
@@ -4616,22 +4745,25 @@ Title
 ;dupe:346c
 ;34a0;0;
 ;dupe:f74
-;34a4;20;Lemurianische⑳Ruine
 
+;34a4;20;Lemurianische⑳Ruine
+Lemurianische Ruine
 ;34a8;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;34ac;8;阿保⑳剛
 ;dupe:346c
 ;34b0;0;
 ;dupe:f74
-;34b4;14;Kosmisher⑳Wal
 
+;34b4;14;Kosmisher⑳Wal
+Kosmisher Wal
 ;34b8;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;34bc;8;阿保⑳剛
 ;dupe:346c
 ;34c0;0;
 ;dupe:f74
+
 ;34c4;6;Qualle
 
 ;34c8;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
@@ -4640,38 +4772,43 @@ Title
 ;dupe:346c
 ;34d0;0;
 ;dupe:f74
-;34d4;19;Karussell⑳Delphine
 
+;34d4;19;Karussell⑳Delphine
+Karussell Delphine
 ;34d8;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;34dc;8;阿保⑳剛
 ;dupe:346c
 ;34e0;0;
 ;dupe:f74
-;34e4;12;Weiser⑳Hund
 
+;34e4;12;Weiser⑳Hund
+Weiser Hund
 ;34e8;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;34ec;8;阿保⑳剛
 ;dupe:346c
 ;34f0;0;
 ;dupe:f74
-;34f4;12;IBF⑳Notfall
 
+;34f4;12;IBF⑳Notfall
+IBF Notfall
 ;34f8;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;34fc;8;阿保⑳剛
 ;dupe:346c
 ;3500;0;
 ;dupe:f74
-;3504;10;Tief⑳Blau
 
+;3504;10;Tief⑳Blau
+Tief Blau
 ;3508;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;350c;8;阿保⑳剛
 ;dupe:346c
 ;3510;0;
 ;dupe:f74
+
 ;3514;10;Kopfsprung
 
 ;3518;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
@@ -4680,14 +4817,16 @@ Title
 ;dupe:346c
 ;3520;0;
 ;dupe:f74
-;3524;26;Traum⑳in⑳der⑳Dunkelheit
 
+;3524;26;Traum⑳in⑳der⑳Dunkelheit
+Traum in der Dunkelheit
 ;3528;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;352c;8;阿保⑳剛
 ;dupe:346c
 ;3530;0;
 ;dupe:f74
+
 ;3534;9;Hologramm
 
 ;3538;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
@@ -4696,14 +4835,16 @@ Title
 ;dupe:346c
 ;3540;0;
 ;dupe:f74
-;3544;13;Das⑳Absuchen
 
+;3544;13;Das⑳Absuchen
+Das Absuchen
 ;3548;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;354c;8;阿保⑳剛
 ;dupe:346c
 ;3550;0;
 ;dupe:f74
+
 ;3554;18;Gedaechtnisschwund
 
 ;3558;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
@@ -4712,14 +4853,16 @@ Title
 ;dupe:346c
 ;3560;0;
 ;dupe:f74
-;3564;13;Drittes⑳Auge
 
+;3564;13;Drittes⑳Auge
+Drittes Auge
 ;3568;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;356c;8;阿保⑳剛
 ;dupe:346c
 ;3570;0;
 ;dupe:f74
+
 ;3574;7;Klamauk
 
 ;3578;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
@@ -4728,6 +4871,7 @@ Title
 ;dupe:346c
 ;3580;0;
 ;dupe:f74
+
 ;3584;10;Heilmittel
 
 ;3588;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
@@ -4736,6 +4880,7 @@ Title
 ;dupe:346c
 ;3590;0;
 ;dupe:f74
+
 ;3594;12;Wiedergeburt
 
 ;3598;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
@@ -4744,6 +4889,7 @@ Title
 ;dupe:346c
 ;35a0;0;
 ;dupe:f74
+
 ;35a4;5;Karma
 
 ;35a8;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
@@ -4752,48 +4898,54 @@ Title
 ;dupe:346c
 ;35b0;0;
 ;dupe:f74
-;35b4;20;Der⑳Mond⑳Das⑳Meer
 
+;35b4;20;Der⑳Mond⑳Das⑳Meer
+Der Mond Das Meer
 ;35b8;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;35bc;8;阿保⑳剛
 ;dupe:346c
 ;35c0;0;
 ;dupe:f74
-;35c4;21;Drittes⑳Auge⑳nehmen
 
+;35c4;21;Drittes⑳Auge⑳nehmen
+Drittes Auge nehmen
 ;35c8;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;35cc;8;阿保⑳剛
 ;dupe:346c
 ;35d0;0;
 ;dupe:f74
-;35d4;8;Je⑳nach
 
+;35d4;8;Je⑳nach
+Je nach
 ;35d8;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;35dc;8;阿保⑳剛
 ;dupe:346c
 ;35e0;0;
 ;dupe:f74
-;35e4;22;『It's⑳a⑳fine⑳day』
 
+;35e4;22;『It's⑳a⑳fine⑳day』
+It's a fine day
 ;35e8;24;Ｌｙｒｉｃｓ：志倉千代丸
 
 ;35ec;22;Ｍｕｓｉｃ：志倉千代丸
 
 ;35f0;20;Ｖｏｃａｌ：今井麻美
 
-;35f4;14;『The⑳Azure』
 
+;35f4;14;『The⑳Azure』
+The Azure
 ;35f8;22;Ｌｙｒｉｃｓ：橋詰亮子
 
 ;35fc;20;Ｍｕｓｉｃ：沢村⑳竣
 
 ;3600;20;Ｖｏｃａｌ：今井麻美
 ;dupe:35f0
-;3604;34;『LeMU⑳～遥かなるレムリア大陸～』
 
+;3604;34;『LeMU⑳～遥かなるレムリア大陸～』
+LeMU ~The Far Away Land of Lemuria~
 ;3608;24;Ｌｙｒｉｃｓ：志倉千代丸
 ;dupe:35e8
 ;360c;22;Ｍｕｓｉｃ：志倉千代丸
@@ -4801,7 +4953,7 @@ Title
 ;3610;22;Ｖｏｃａｌ：ＫＡＯＲＩ
 
 ;3614;16;『Aqua⑳Stripe』
-
+Aqua Stripe
 ;3618;24;Ｌｙｒｉｃｓ：志倉千代丸
 ;dupe:35e8
 ;361c;22;Ｍｕｓｉｃ：志倉千代丸
@@ -4809,7 +4961,7 @@ Title
 ;3620;20;Ｖｏｃａｌ：笠原弘子
 
 ;3624;32;『Der⑳Mond⑳Das⑳Meer』⑳-Sara-
-
+Der Mond Das Meer (Sara Ver.)
 ;3628;24;Ｌｙｒｉｃｓ：打越鋼太郎
 
 ;362c;20;Ｍｕｓｉｃ：阿保⑳剛
@@ -4817,7 +4969,7 @@ Title
 ;3630;20;Ｖｏｃａｌ：植田佳奈
 
 ;3634;32;『Der⑳Mond⑳Das⑳Meer』⑳-Coco-
-
+Der Mond Das Meer (Coco Ver.)
 ;3638;24;Ｌｙｒｉｃｓ：打越鋼太郎
 ;dupe:3628
 ;363c;20;Ｍｕｓｉｃ：阿保⑳剛
@@ -4825,21 +4977,23 @@ Title
 ;3640;20;Ｖｏｃａｌ：望月久代
 
 ;3644;14;Karma⑳-Piano-
-
+Karma (Piano ver.)
 ;3648;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;364c;8;阿保⑳剛
 ;dupe:346c
 ;3650;0;
 ;dupe:f74
-;3654;29;Der⑳Mond⑳Das⑳Meer⑳-Piano-
 
+;3654;29;Der⑳Mond⑳Das⑳Meer⑳-Piano-
+Der Mond Das Meer (Piano ver.)
 ;3658;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ
 ;dupe:3468
 ;365c;8;阿保⑳剛
 ;dupe:346c
 ;3660;0;
 ;dupe:f74
+
 ;3664;26;Je⑳nach⑳-Another⑳track-
 
 ;3668;26;Ｍｕｓｉｃ，Ａｒｒａｎｇｅ

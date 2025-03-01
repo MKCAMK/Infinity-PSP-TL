@@ -1857,13 +1857,13 @@ You「Anyway, as long as I have the password, things are fine.」%K%P
 'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.%K%P
 0x2804
 優「たぶんこれは、正岡子規の俳句『水無月の虚空に涼し時鳥』をもじったものだと思う」%K%P
-You「I think it's a variation of Masaoka Shiki's 'The empty June sky%NA single cuckoo calls out%NBrings a chill to me'.」%K%P
+You「I think it's a variation of Masaoka Shiki's 'The empty June sky... A single cuckoo calls out... Brings a chill to me'.」%K%P
 0x2810
 優「だから、正しい読み方は恐らく……」%K%P
 You「So if I input it like this...」%K%P
 0x281C
 優「『うみつきの　こくうにすずし　ほととぎす』」%K%P
-You「The empty fall sky A single cuckoo calls out%NBrings a chill to me'. 」%K%P
+You「The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'. 」%K%P
 0x2828
 少年「へぇ」%K%P
 Kid「Wow.」%K%P

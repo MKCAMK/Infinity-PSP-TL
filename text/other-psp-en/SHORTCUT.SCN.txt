@@ -1,67 +1,98 @@
 ﻿;10;16;５月１日　武視点
-This is a test.
+May 1 Takeshi's POV
 
 ;44;16;５月２日　武視点
+May 2 Takeshi's POV
 
 ;78;16;５月３日　武視点
+May 3 Takeshi's POV
 
 ;AC;18;５月４日　つぐみ編
+May 4 Tsugumi Ver.
 
 ;E0;18;５月５日　つぐみ編
+May 5 Tsugumi Ver.
 
 ;114;18;５月６日　つぐみ編
+May 6 Tsugumi Ver.
 
 ;148;18;５月７日　つぐみ編
+May 7 Tsugumi Ver.
 
 ;17C;14;５月４日　空編
+May 4 Sora Ver.
 
 ;1B0;14;５月５日　空編
+May 5 Sora Ver.
 
 ;1E4;14;５月６日　空編
+May 6 Sora Ver.
 
 ;218;14;５月７日　空編
+May 7 Sora Ver.
 
 ;24C;26;つぐみ・空編　バッドエンド
+Tsugumi-Sora Bad End
 
 ;280;18;５月１日　少年視点
+May 1 Kid's POV
 
 ;2B4;18;５月２日　少年視点
+May 2 Kid's POV
 
 ;2E8;18;５月３日　少年視点
+May 3 Kid's POV
 
 ;31C;14;５月４日　優編
+May 4 You Ver.
 
 ;350;14;５月５日　優編
+May 5 You Ver.
 
 ;384;14;５月６日　優編
+May 6 You Ver.
 
 ;3B8;14;５月７日　優編
+May 7 You Ver.
 
 ;3EC;18;優編　バッドエンド
+You Bad End
 
 ;420;16;５月４日　沙羅編
+May 4 Sara Ver.
 
 ;454;16;５月５日　沙羅編
+May 5 Sara Ver.
 
 ;488;16;５月６日　沙羅編
+May 6 Sara Ver.
 
 ;4BC;16;５月７日　沙羅編
+May 7 Sara Ver.
 
 ;4F0;20;沙羅編　バッドエンド
+Sara Bad End
 
 ;524;24;５月２日　ココ編／武視点
+May 2 Coco Ver./Takeshi's POV
 
 ;558;26;５月２日　ココ編／少年視点
+May 2 Coco Ver./Kid's POV
 
 ;58C;16;５月３日　ココ編
+May 3 Coco Ver.
 
 ;5C0;16;５月４日　ココ編
+May 4 Coco Ver.
 
 ;5F4;16;５月５日　ココ編
+May 5 Coco Ver.
 
 ;628;16;５月６日　ココ編
+May 6 Coco Ver.
 
 ;65C;16;５月７日　ココ編
+May 7 Coco Ver.
 
 ;14;100;エレベーターから脱出した武。%NだがＬｅＭＵからは、%N人の気配が消えていた。%N武は皆と共に階下へ……。
 
