@@ -260,13 +260,14 @@ compress_lzss(uint8_t *dst, uint32_t dstlen, uint8_t *src, uint32_t srcLen)
 		}
 		if ((mask <<= 1) == 0) {  /* Shift mask left one bit. */
 								  /* Send at most 8 units of code together */
-			for (i = 0; i < code_buf_ptr; i++)
+			for (i = 0; i < code_buf_ptr; i++) {
 				if (dst < dstend)
 					*dst++ = code_buf[i];
 				else {
 					free(sp);
 					return (void *)0;
 				}
+			}
 				code_buf[0] = 0;
 				code_buf_ptr = mask = 1;
 		}

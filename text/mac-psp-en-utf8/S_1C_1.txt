@@ -828,25 +828,25 @@ Kid「No. I haven't heard...」%K%P
 Sora「LeMMIH's proper name is...」%K%P
 0x14B8
 空「『Ｌｅｉｂｌｉｃｈ⑳Ｍｅｄｉｚｉｎ：Ｍｕｌｔｉｖｅｒｆａｈｒｅｎ%N
-Sora「<Leiblich Medizin: Multiverfahren」%N
+Sora「<Leiblich Medizin: Multiverfahren 
 0x14C4
 Ｉｎｔｅｌｌｉｇｅｎｔ⑳Ｈｉｒｎ⑳Ｓｙｓｔｅｍ』
-Intelligentes Hirnsystem.>
+Intelligentes Hirnsystem.> 
 0x14D0
 と言います」%K%P
-...That is its name."%K%P
+...That is its name.」%K%P
 0x14E0
 少年「……………………は、はいっ？　も、もう１回、いい？」%K%P
 Kid「Uh... what was that? Can you give it to me one more time?」%K%P
 0x14F0
 空「『Ｌｅｉｂｌｉｃｈ⑳Ｍｅｄｉｚｉｎ：Ｍｕｌｔｉｖｅｒｆａｈｒｅｎ%N
-Sora「<Leiblich Medizin: Multiverfahren」%N
+Sora「<Leiblich Medizin: Multiverfahren 
 0x14FC
 Ｉｎｔｅｌｌｉｇｅｎｔ⑳Ｈｉｒｎ⑳Ｓｙｓｔｅｍ』
-Intelligentes Hirnsystem.>
+Intelligentes Hirnsystem.> 
 0x1508
 ……です」%K%P
-...That is its name."%K%P
+...That is its name.」%K%P
 0x1518
 少年「それ、何語？」%K%P
 Kid「What language is that?」%K%P
@@ -858,13 +858,13 @@ Sora「It's German.」%K%P
 Kid「What does it mean?」%K%P
 0x1540
 空「最初の
-Sora「The first part,」
+Sora「The first part, 
 0x154C
 『Ｌｅｉｂｌｉｃｈ⑳Ｍｅｄｉｚｉｎ』は、
-<Leiblich Medizin>, indicates
+<Leiblich Medizin>, indicates 
 0x1558
 製薬会社の名前を表しています」%K%P
-the name of a pharmaceutical company."%K%P
+the name of a pharmaceutical company.」%K%P
 0x1568
 空「その後は『多重並列処理による人工知能システム』……と言った感じの意味合いです」%K%P
 Sora「The bit after that means something along the lines of 'parallel processing artificial intelligence system'.」%K%P

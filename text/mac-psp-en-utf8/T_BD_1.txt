@@ -54,10 +54,10 @@ That it all had only been a long dream...%K%P
 Thinking that, I closed my eyes slowly.%K%P
 0x18C
 アナウンス「Ｄｒｅｉ⑳Ｍｉｎｕｔｅｎ⑳
-Announcement「<Drei Minuten 」
+Announcement「<Drei Minuten 
 0x198
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
-vor der Implosion.>"%K%P
+vor der Implosion.>」%K%P
 0x1A8
 部屋のスピーカーから、無機質なアナウンスが聞こえる。%K%P
 An announcement grated mechanically from the room's speakers.%K%P
@@ -147,10 +147,10 @@ Tsugumi「I kept telling myself I couldn't die no matter what...」%K%P
 Tsugumi「But it looks like I was wrong again...」%K%P
 0x3A0
 アナウンス「Ｚｗｅｉ⑳Ｍｉｎｕｔｅｎ⑳
-Announcement「<Zwei Minuten 」
+Announcement「<Zwei Minuten 
 0x3AC
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
-vor der Implosion.>"%K%P
+vor der Implosion.>」%K%P
 0x3CC
 足を引きつらせながら、つぐみは扉へと歩いて行く。%K%P
 Dragging her leg, Tsugumi hobbled toward the door.%K%P
@@ -255,10 +255,10 @@ Takeshi「Tsu... Tsugumi...!」%K%P
 You「Tsugumi...!」%K%P
 0xA48
 アナウンス「Ｅｉｎｅ⑳Ｍｉｎｕｔｅ⑳
-Announcement「<Eine Minute 」
+Announcement「<Eine Minute 
 0xA54
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
-vor der Implosion.>"%K%P
+vor der Implosion.>」%K%P
 0xA80
 ピーーーーーー…………。%K%P
 Beeeeeeeep...%K%P

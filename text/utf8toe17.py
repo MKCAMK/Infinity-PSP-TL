@@ -15,6 +15,7 @@ with open(sys.argv[1], encoding='UTF-8') as f, open(sys.argv[2], 'w', encoding='
         line = line.replace('à', '⑭')
         line = line.replace('™', '⑱')
         line = line.replace('~', '〜')
+        line = line.replace('～', '〜')
         line = line.replace('ç', 'c')
         line = line.replace('ï', 'i')
         line = line.replace('Ö', '⑪')

@@ -159,10 +159,10 @@ Takeshi's body flipped like a small twig and flew into the wall.%K%P
 Tsugumi tumbled and danced through the air to fall on the floor with a thud.%K%P
 0x504
 アナウンス「Ｆｕｎｆ⑳Ｍｉｎｕｔｅｎ⑳
-Announcement「<Fünf Minuten 」
+Announcement「<Fünf Minuten 
 0x510
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
-vor der Implosion.>"%K%P
+vor der Implosion.>」%K%P
 0x528
 武「な、なんだ、今のアナウンス！？」%K%P
 Takeshi「Hey, WHAT did that announcement just say!?」%K%P
@@ -294,10 +294,10 @@ Tsugumi「They aren't going to just leave us high-tipping customers here.」%K%P
 In front of them, the small submarine bobbed gently in the waves.%K%P
 0x9E8
 アナウンス「Ｄｒｅｉ⑳Ｍｉｎｕｔｅｎ⑳
-Announcement「<Drei Minuten 」
+Announcement「<Drei Minuten 
 0x9F4
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
-vor der Implosion.>"%K%P
+vor der Implosion.>」%K%P
 0xA04
 圧潰３分前――。%K%P
 Three minutes until implosion―%K%P
