@@ -9,8 +9,7 @@ if len(sys.argv) != 2:
 with open(sys.argv[1], encoding='UTF-8') as f:
     lines = f.readlines()
 
-for i in range(3):
-    lines.pop(0)
+del lines[:3]
 
 for i in range(len(lines) // 3):
     i *= 3
@@ -19,4 +18,4 @@ for i in range(len(lines) // 3):
     count_en = lines[i+2].count('%')
     if count_jp != count_en:
         print('line {}: mismatch! {} in jp, {} in en'.format(i+3+1, count_jp, count_en))
-        print(lines[i+1], lines[i+2])
+        print(lines[i+1], lines[i+2], sep='')

@@ -6,7 +6,7 @@ text area offset and size:
 Two years later...%K%P
 0x114
 優「う〜ん、いいお天気ぃ〜♪」%K%P
-You「Wow, this is great weather・」%K%P
+You「Wow, this is great weather〜」%K%P
 0x120
 ぼくと優は船に揺られていた。%K%P
 You and I were riding on a boat.%K%P
@@ -165,7 +165,7 @@ You「You're right. You're not like you used to be.」%K%P
 Kid「?」%K%P
 0x390
 優「だって、こ〜んなに背も伸びたしね〜」%K%P
-You「Well, for one thing you got so tall・」%K%P
+You「Well, for one thing you got so tall〜」%K%P
 0x39C
 つま先立ちになって、ぼくの頭の上に手の平をかざした。%K%P
 She stood on her tiptoes and raised her hand over my head.%K%P

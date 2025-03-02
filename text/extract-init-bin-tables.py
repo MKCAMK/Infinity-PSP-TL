@@ -15,10 +15,10 @@ def read_strings_from_table(all_bytes, seg_table, seg_strings):
   for i, off in enumerate(offsets):
     table_offs = i*4+seg_table[0]
     # [workaround] skip areas which do not have text references:
-    if 0x3710 <= table_offs < 0x3B2C: continue
-    if 0x3B80 <= table_offs < 0x4f14: continue
-    if 0x7f90 <= table_offs < 0x86f8: continue
-    # if 0x7f90 <= table_offs < 0x871c: continue
+    if 0x3710 <= table_offs < 0x3E94: continue
+    if 0x57F8 <= table_offs < 0x5A24: continue
+    if 0x64B4 <= table_offs < 0x65C4: continue
+    if 0x6EE0 <= table_offs < 0x75E8: continue
 
     if (seg_strings[0] <= off < seg_strings[1]):
       end = all_bytes.find(b"\x00", off)

@@ -1125,10 +1125,10 @@ BOOOooom!%K%P
 With a roaring sound, the whole room suddenly shook violently, and my body vibrated.%K%P
 0x16D8
 アナウンス「Ｆüｎｆ⑳Ｍｉｎｕｔｅｎ⑳
-Announcement「<Fünf Minuten 」
+Announcement「<Fünf Minuten 
 0x16E4
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
-vor der Implosion.>"%K%P
+vor der Implosion.>」%K%P
 0x16F4
 武「おい、なんだ今のアナウンス」%K%P
 Takeshi「Hey, WHAT did that announcement just say!?」%K%P
@@ -1200,10 +1200,10 @@ Takeshi「Of course.」%K%P
 I took her hand firmly.%K%P
 0x18EC
 アナウンス「Ｖｉｅｒ⑳Ｍｉｎｕｔｅｎ⑳
-Announcement「<Vier Minuten 」
+Announcement「<Vier Minuten 
 0x18F8
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
-vor der Implosion.>"%K%P
+vor der Implosion.>」%K%P
 0x1908
 ＩＢＦ全体を揺るがす地響きは止まない。%K%P
 The shaking and rumbling of IBF continued.%K%P
@@ -1281,10 +1281,10 @@ Takeshi「Yeah, in Leiblich's name.」%K%P
 Tsugumi「Well, of course.」%K%P
 0x1AD0
 アナウンス「Ｄｒｅｉ⑳Ｍｉｎｕｔｅｎ⑳
-Announcement「<Drei Minuten 」
+Announcement「<Drei Minuten 
 0x1ADC
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
-vor der Implosion.>"%K%P
+vor der Implosion.>」%K%P
 0x1AF4
 圧潰３分前。%K%P
 Three minutes until implosion.%K%P

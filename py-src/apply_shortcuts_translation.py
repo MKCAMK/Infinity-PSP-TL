@@ -30,7 +30,7 @@ def main():
   with open(bin_in, "rb") as f_scn:
     scn_bytes = bytearray(f_scn.read())
 
-  
+
   head = scn_bytes[:addr_text[0]]
   # two bytes "0x90 0x90" not sure what they do. Could be just an alignment artifact
   text_magic_tail = scn_bytes[addr_text[1]:addr_text[1]+2]
@@ -41,7 +41,7 @@ def main():
   head_int = head_mv.cast("I")
 
   body = bytearray()
-  
+
   jp_pattern = re.compile("^;([\\da-fA-F]*);([\\d]*);(.*)$")
   text_pos = 0
   text_max_len = 0
@@ -50,23 +50,22 @@ def main():
     if match:
       table_off = int(match.group(1), 16)
       max_len = int(match.group(2), 10)
-      
+
       if i < len(txt_lines)-1 and txt_lines[i+1]:
-        i += 1
-        string = txt_lines[i]
+        string = txt_lines[i+1]
       else:
         string = match.group(3)
 
       text_max_len += max_len + 1
 
       str_bytes = r11.str_to_r11_bytes(string, encoding_table_lang, exception_on_unknown=True)
-      
+
       strbytelen = len(str_bytes) + 1
       body += str_bytes + b'\x00'
 
       head_int[table_off // 4] = addr_text[0] + text_pos
       text_pos += strbytelen
-  
+
   print("text_max_len: {}".format(text_max_len))
   if (text_pos > text_max_len):
     raise Exception("(text_pos > text_max_len: {} > {}".format(text_pos, text_max_len))
@@ -100,7 +99,7 @@ def main():
   f_out.seek(new_data_offset)
   f_out.write(shortcut_data)
   f_out.write(data2)
-  
+
   f_out.close()
 
 

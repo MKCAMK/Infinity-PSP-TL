@@ -11,11 +11,11 @@ def main():
   warn_chars_screen = 400;
   warn_chars_line = 45*4;
 
-  fdir = "mac-en-only/"
+  fdir = "mac-en-only-utf8"
   files = os.listdir(fdir);
 
   for fname in files:
-    f = open(fdir+fname, "r", encoding="sjisx0213")
+    f = open(os.path.join(fdir, fname), "r", encoding="UTF-8")
     lns = f.readlines()
     f.close()
     print(fname)

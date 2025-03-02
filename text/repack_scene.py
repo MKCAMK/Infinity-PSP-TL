@@ -33,9 +33,10 @@ def main():
       int_struct = struct.Struct("I");
 
       for i in range(len(entries) // 3):
-        reference_off = int(entries[i*3], 16);
-        jap_line = entries[i*3+1].replace(b"\n", b"\x00");
-        en_line  = entries[i*3+2].replace(b"\n", b"\x00");
+        i *= 3
+        reference_off = int(entries[i], 16);
+        jap_line = entries[i+1].replace(b"\n", b"\x00");
+        en_line  = entries[i+2].replace(b"\n", b"\x00");
         if en_line[0] == 0:
           en_line = jap_line
         pos = new_f.tell();
@@ -48,7 +49,7 @@ def main():
       new_f.close();
       old_mm.close();
 
-      
+
 
 
 

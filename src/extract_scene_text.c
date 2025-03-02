@@ -62,21 +62,21 @@ int main(int argc, char **argv)
     void *scn = mmap_file(in_name, &size);
 
     //read tail
-    table_tail_t *tail = (table_tail_t *)(scn + size - 0x18);
-    uint32_t entries_expected_tail = tail->num_entries + tail->unknown1;
+    // table_tail_t *tail = (table_tail_t *)(scn + size - 0x18);
+    // uint32_t entries_expected_tail = tail->num_entries + tail->unknown1;
     // printf("%s: Tail: entry count: %d\n", argv[0], tail->num_entries);
 
     // find text area offset
     off_t control_area_off = 0x0;
     off_t text_area_off = -1;
-    uint32_t entries_expected_head = 0;
+    // uint32_t entries_expected_head = 0;
     for (off_t i = control_area_off + 8; i < size - 4; i += 4)
     {
         if (0xffffffff == *(uint32_t *)(scn + i)
                 && 0xffffffff == *(uint32_t *)(scn + i + 4))
         {
             text_area_off = i + 8;
-            entries_expected_head = *(uint32_t *)(scn + i - 8);
+            // entries_expected_head = *(uint32_t *)(scn + i - 8);
             break;
         }
     }
