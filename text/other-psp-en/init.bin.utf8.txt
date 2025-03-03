@@ -6865,15 +6865,17 @@ Hospital
 ;79ac;4;船室
 
 ;79b8;32;ココのコメッチョ、気にならない？
-Don't you want to hear Coco's joke?
+「Don't you want to hear my joke?」
 ;79bc;32;ココのコメッチョ、気にならない？
 ;dupe:79b8
 ;79c0;32;ココのコメッチョ、気にならない？
 ;dupe:79b8
 
 ;79c4;38;突然、このエベレーターが止まっちゃって
+「The elevator just stopped all of a sudden.」
 
 ;79c8;30;もうどこにも……出られないんだ
+「There's... no way out anymore.」
 
 ;79cc;30;もうどこにも……出られないんだ
 ;dupe:79c8
@@ -6883,22 +6885,27 @@ Don't you want to hear Coco's joke?
 ;dupe:79c8
 
 ;79d8;30;月の精みたいに、ひとりぼっちで
+「All alone like a moon sprite.」
 
 ;79dc;20;ぴよぴよ、ぴよぴよ♪
+「Pi-yo-pi-yo, pi-yo-pi-yo♪」
 
 ;79e0;30;たけ、ぴょん……くる、しい……
+「Take...pyon... It... hurts...」
 
 ;79e4;26;う、う～ん……だぁれ……？
+「U-Umm... Who's there...?」
 
 ;79e8;26;う、う～ん……だぁれ……？
 ;dupe:79e4
 
 ;79ec;28;たけぴょん……ありがとう……
-Thank you, Takepyon...
+「Thank you, Takepyon...」
 ;79f0;28;たけぴょん……ありがとう……
 ;dupe:79ec
 
 ;79f4;22;ココも、がんばるよ……
+「Coco'll be strong, too...」
 
 ;79f8;22;ココも、がんばるよ……
 ;dupe:79f4
@@ -6906,6 +6913,7 @@ Thank you, Takepyon...
 ;dupe:79f4
 
 ;7a00;28;必ず……迎えに、来てね……？
+「You'll... come... get me...?」
 
 ;7a04;28;必ず……迎えに、来てね……？
 ;dupe:7a00
@@ -6913,13 +6921,16 @@ Thank you, Takepyon...
 ;dupe:7a00
 
 ;7a0c;24;ココ……待ってるから……
+「I'll be... waiting...」
 
 ;7a10;24;ココ……待ってるから……
 ;dupe:7a0c
 
 ;7a14;46;ココちゃんのショートコント――もしもイルカが～
+「It's the Coco-chan show!」
 
 ;7a18;36;これは、砂山崩しじゃなくて、涙山崩し
+「It's a mountain of tears, not sand.」
 
 ;7a1c;36;これは、砂山崩しじゃなくて、涙山崩し
 ;dupe:7a18
@@ -6929,8 +6940,10 @@ Thank you, Takepyon...
 ;dupe:7a18
 
 ;7a28;34;ねえねえ、たけぴょん、たけぴょん！
+「Hey, Takepyon, Takepyon!」
 
 ;7a2c;44;ココちゃんは、お兄ちゃんのことを、見ています
+「I'm looking at you, Onii-chan.」
 
 ;7a30;44;ココちゃんは、お兄ちゃんのことを、見ています
 ;dupe:7a2c
@@ -6946,15 +6959,19 @@ Thank you, Takepyon...
 ;dupe:7a2c
 
 ;7a48;30;ウーッ……ウーッ……ウーッ……
+「Grr... Grr... Grr...」
 
 ;7a4c;40;ピピがいなかったから……探しに来たんだよ
+「I couldn't find him, so I went looking for him.」
 
 ;7a50;40;ピピがいなかったから……探しに来たんだよ
 ;dupe:7a4c
 
 ;7a54;40;ねえ、ピピ……？　早く、おうち……帰ろ？
+「Hey, Pipi...? Let's go... home...」
 
 ;7a58;30;この石像に、傷を刻み込んでるの
+「I'm etching some marks into this statue!」
 
 ;7a5c;30;この石像に、傷を刻み込んでるの
 ;dupe:7a58
@@ -6964,10 +6981,13 @@ Thank you, Takepyon...
 ;dupe:7a58
 
 ;7a68;32;ずーっとずーっと待ってたんだよ？
+「I've been waiting sooooo long to see you!」
 
 ;7a6c;38;つぐみんのケガは……ココのせいなの……
+「It's my fault.」
 
 ;7a70;20;鏡の中の見知らぬ少年
+Unfamiliar Kid in the Mirror
 
 ;7a74;20;鏡の中の見知らぬ少年
 ;dupe:7a70
@@ -6975,6 +6995,7 @@ Thank you, Takepyon...
 ;dupe:7a70
 
 ;7a7c;20;ペンダントの中の面影
+Face in the Pendant
 
 ;7a80;20;ペンダントの中の面影
 ;dupe:7a7c
@@ -6989,8 +7010,10 @@ Thank you, Takepyon...
 ;dupe:7a8c
 
 ;7a94;18;着ぐるみの中の少年
+Kid in the Mascot Suit
 
 ;7a98;16;眠りの中の道化師
+Sleeping Buffoon
 
 ;7a9c;16;眠りの中の道化師
 ;dupe:7a98
@@ -7000,6 +7023,7 @@ Thank you, Takepyon...
 ;dupe:7a98
 
 ;7aa8;4;邂逅
+Chance
 
 ;7aac;4;邂逅
 ;dupe:7aa8
@@ -7007,17 +7031,22 @@ Thank you, Takepyon...
 ;dupe:7aa8
 
 ;7ab4;4;魚有
+Something Fishy
 
 ;7ab8;4;左指
+Finger
 
 ;7abc;4;月海
+Moon, Sea
 
 ;7ac0;4;衝突
 ;dupe:158c
 
 ;7ac4;4;首飾
+Pendant
 
 ;7ac8;4;追慕
+Yearning
 
 ;7acc;4;追慕
 ;dupe:7ac8
@@ -7025,22 +7054,28 @@ Thank you, Takepyon...
 ;dupe:7ac8
 
 ;7ad4;4;水溺
+Floundering
 
 ;7ad8;4;救出
+Rescue
 
 ;7adc;4;仮死
+Arrest
 
 ;7ae0;4;仮死
 ;dupe:7adc
 
 ;7ae4;4;特訓
+Training
 
 ;7ae8;4;接近
+Bonds
 
 ;7aec;4;接近
 ;dupe:7ae8
 
 ;7af0;4;信頼
+Trust
 
 ;7af4;4;信頼
 ;dupe:7af0
@@ -7048,6 +7083,7 @@ Thank you, Takepyon...
 ;dupe:7af0
 
 ;7afc;4;脱出
+Escape
 
 ;7b00;4;脱出
 ;dupe:7afc
@@ -7055,6 +7091,7 @@ Thank you, Takepyon...
 ;dupe:7afc
 
 ;7b0c;4;回想
+Reminiscence
 
 ;7b10;4;回想
 ;dupe:7b0c
@@ -7062,8 +7099,10 @@ Thank you, Takepyon...
 ;dupe:7b0c
 
 ;7b18;4;兄妹
+Siblings
 
 ;7b1c;4;野菜
+Lettuce
 
 ;7b20;4;野菜
 ;dupe:7b1c
@@ -7162,12 +7201,12 @@ Thank you, Takepyon...
 ;dupe:7bc0
 
 ;7bcc;14;Ｍｉｒａｃｌｅ
-Miracle
+
 ;7bd0;14;Ｍｉｒａｃｌｅ
 ;dupe:7bcc
 
 ;7bd4;16;Ｓｈｏｗｄｏｗｎ
-Showdown
+
 ;7bd8;16;Ｓｈｏｗｄｏｗｎ
 ;dupe:7bd4
 ;7bdc;16;Ｓｈｏｗｄｏｗｎ
@@ -7181,6 +7220,7 @@ Showdown
 ;dupe:7be4
 
 ;7bec;24;俺と彼女の２度目の出会い
+She and I meet again
 
 ;7bf0;24;俺と彼女の２度目の出会い
 ;dupe:7bec
@@ -7188,18 +7228,22 @@ Showdown
 ;dupe:7bec
 
 ;7bf8;20;俺の助けた彼女の友人
+Her friend I' saved
 
 ;7bfc;20;俺の助けた彼女の友人
 ;dupe:7bf8
 
 ;7c00;20;俺に曝けた彼女の傷跡
+The scars She showed Me
 
 ;7c04;16;俺と彼女の逃走劇
+She and I escape
 
 ;7c08;16;俺と彼女の逃走劇
 ;dupe:7c04
 
 ;7c0c;28;俺と彼女とアルキメデスの原理
+Me, Her, and Archimedes' Principle
 
 ;7c10;28;俺と彼女とアルキメデスの原理
 ;dupe:7c0c
@@ -7207,11 +7251,13 @@ Showdown
 ;dupe:7c0c
 
 ;7c18;26;俺と彼女と闇中のかくれんぼ
+Me, Her, and kick the can
 
 ;7c1c;26;俺と彼女と闇中のかくれんぼ
 ;dupe:7c18
 
 ;7c20;22;彼女の負傷と、俺の決意
+Her wound and My decision
 
 ;7c24;22;彼女の負傷と、俺の決意
 ;dupe:7c20
@@ -7219,6 +7265,7 @@ Showdown
 ;dupe:7c20
 
 ;7c2c;28;俺と彼女は、どこにいるのか？
+Where is She? Where am I?
 
 ;7c30;28;俺と彼女は、どこにいるのか？
 ;dupe:7c2c
@@ -7226,8 +7273,10 @@ Showdown
 ;dupe:7c2c
 
 ;7c38;16;俺と彼女の救出劇
+I rescue Her
 
 ;7c3c;24;彼女の負傷と、俺の悲しみ
+Her wound and My sorrow
 
 ;7c40;24;彼女の負傷と、俺の悲しみ
 ;dupe:7c3c
@@ -7239,6 +7288,7 @@ Showdown
 ;dupe:7c3c
 
 ;7c50;26;詰め寄る俺、嘆き悲しむ彼女
+Her tears, My embrace
 
 ;7c54;26;詰め寄る俺、嘆き悲しむ彼女
 ;dupe:7c50
@@ -7250,8 +7300,10 @@ Showdown
 ;dupe:7c50
 
 ;7c64;22;俺は知る、彼女の過去を
+I learn of Her past
 
 ;7c68;22;俺に語る、彼女の記憶を
+She tells Me of her memories
 
 ;7c6c;22;俺に語る、彼女の記憶を
 ;dupe:7c68
@@ -7259,6 +7311,7 @@ Showdown
 ;dupe:7c68
 
 ;7c74;18;俺と彼女の交わる心
+She and I overlap
 
 ;7c78;18;俺と彼女の交わる心
 ;dupe:7c74
@@ -7276,20 +7329,25 @@ Showdown
 ;dupe:7c88
 
 ;7c94;26;彼女は生きろ、俺は死なない
+She must live. I won't die.
 
 ;7c98;26;彼女は生きろ、俺は死なない
 ;dupe:7c94
 
 ;7c9c;38;彼女の抱（いだ）く、俺と彼女の子供たち
+She embraces Our children
 
 ;7ca0;34;彼女と抱き合う、俺と彼女の子供たち
+She holds Our children
 
 ;7ca4;15;I meet with YOU
+I meet You
 
 ;7ca8;15;I meet with YOU
 ;dupe:7ca4
 
 ;7cac;15;YOU & I repairs
+You and I Repair
 
 ;7cb0;15;YOU & I repairs
 ;dupe:7cac
@@ -7297,6 +7355,7 @@ Showdown
 ;dupe:7cac
 
 ;7cb8;18;YOU & I said ruins
+You and I in the Ruins
 
 ;7cbc;18;YOU & I said ruins
 ;dupe:7cb8
@@ -7304,15 +7363,19 @@ Showdown
 ;dupe:7cb8
 
 ;7cc4;17;YOU & I & hacking
+You and I Hacking
 
 ;7cc8;23;YOU & I & The third eye
+You and I and the Third Eye
 
 ;7ccc;23;YOU & I & The third eye
 ;dupe:7cc8
 
 ;7cd0;22;The first kiss YOU & I
+You and I Kiss
 
 ;7cd4;22;YOU & I & felt-tip pen
+You and I and the Felt-Tip Pen
 
 ;7cd8;22;YOU & I & felt-tip pen
 ;dupe:7cd4
@@ -7320,6 +7383,7 @@ Showdown
 ;dupe:7cd4
 
 ;7ce0;34;YOU & I & the other side of screen
+You and I and the You on the screen
 
 ;7ce4;34;YOU & I & the other side of screen
 ;dupe:7ce0
@@ -7329,8 +7393,10 @@ Showdown
 ;dupe:7ce0
 
 ;7cf0;21;I & YOUr KAKATOOTOSHI
+Your Flying Kick
 
 ;7cf4;29;I play hide and seek with YOU
+I play hide and seek with You
 
 ;7cf8;29;I play hide and seek with YOU
 ;dupe:7cf4
@@ -7338,120 +7404,169 @@ Showdown
 ;dupe:7cf4
 
 ;7d00;21;The future of YOU & I
+The future of You & I
 
 ;7d04;10;I love YOU
+I love You
 
 ;7d08;10;I love YOU
 ;dupe:7d04
 
 ;7d0c;25;YOU & I & the morning sun
+You and I and the Morning Sun
 
 ;7d10;21;YOU & YOUr mother & I
+You, Your Mother, and I
 
 ;7d14;21;YOU & YOUr mother & I
 ;dupe:7d10
 
 ;7d18;16;I confess to YOU
+I confess to You
 
 ;7d1c;16;I confess to YOU
 ;dupe:7d18
 
 ;7d20;20;YOU & I & YOUr child
+Your Child
 
 ;7d24;22;I & YOUr sleeping face
+Your Sleeping Face
 
 ;7d28;22;I & YOUr sleeping face
 ;dupe:7d24
 
 ;7d2c;20;I & YOUr great anger
+Your Anger
 
 ;7d30;18;Ever17 パッケージ1
+Ever17 Box Art 1
 
 ;7d34;18;Ever17 パッケージ2
+Ever17 Box Art 2
 
 ;7d38;23;Ever17 チラシ＆ポスター
+Ever17 Poster/Leaflet
 
 ;7d3c;22;Ever17 予約特典テレカ1
+Ever17 Pre-Order Telephone Card 1
 
 ;7d40;22;Ever17 予約特典テレカ2
+Ever17 Pre-Order Telephone Card 2
 
 ;7d44;22;Ever17 予約特典テレカ3
+Ever17 Pre-Order Telephone Card 3
 
 ;7d48;22;Ever17 予約特典テレカ4
+Ever17 Pre-Order Telephone Card 4
 
 ;7d4c;22;Ever17 予約特典テレカ5
+Ever17 Pre-Order Telephone Card 5
 
 ;7d50;36;Ever17 特典プロモーションブック 表紙
+Ever17 Promotion Book Cover
 
 ;7d54;38;Ever17 サウンドコレクション ジャケット
+Ever17 Sound Collection Jacket
 
 ;7d58;22;Ever17 ノベライズ 表紙
+Ever17 Novelization Cover
 
 ;7d5c;34;Ever17 ビジュアルファンブック 表紙
+Ever17 Visual Fanbook Cover
 
 ;7d60;30;Ever17 イベント限定販売テレカ1
+Ever17 Limited Event Telephone Card 1
 
 ;7d64;25;Ever17 PE 予約特典テレカ1
+Ever17 PE Pre-Order Telephone Card 1
 
 ;7d68;21;Ever17 PE パッケージ2
+Ever17 PE Box Art 2
 
 ;7d6c;21;Ever17 PE パッケージ3
+Ever17 PE Box Art 3
 
 ;7d70;25;Ever17 PE 予約特典テレカ2
+Ever17 PE Pre-Order Telephone Card 2
 
 ;7d74;25;Ever17 PE 予約特典テレカ3
+Ever17 PE Pre-Order Telephone Card 3
 
 ;7d78;25;Ever17 PE 予約特典テレカ4
+Ever17 PE Pre-Order Telephone Card 4
 
 ;7d7c;25;Ever17 PE 予約特典テレカ5
+Ever17 PE Pre-Order Telephone Card 5
 
 ;7d80;25;Ever17 PE 予約特典テレカ6
+Ever17 PE Pre-Order Telephone Card 6
 
 ;7d84;25;Ever17 PE 予約特典テレカ7
+Ever17 PE Pre-Order Telephone Card 7
 
 ;7d88;30;Ever17 イベント限定販売テレカ2
+Ever17 Limited Event Telephone Card 1
 
 ;7d8c;21;Ever17 PE パッケージ4
+Ever17 PE Box Art 4
 
 ;7d90;25;Ever17 PE 予約特典テレカ8
+Ever17 PE Pre-Order Telephone Card 8
 
 ;7d94;21;Ever17 PE パッケージ5
+Ever17 PE Box Art 5
 
 ;7d98;40;Ever17 PE 滝川悠・個人サイト掲載イラスト
+Ever17 PE Takigawa Yuu Website Illustration
 
 ;7d9c;42;ねものがたり3キャラクターズ（同人誌） 表紙
+Nemonogatari 3 (Doujinshi) Front Cover
 
 ;7da0;44;ねものがたり3キャラクターズ（同人誌） 裏表紙
+Nemonogatari 3 (Doujinshi) Back Cover
 
 ;7da4;43;ねものがたり3キャラクターズ（同人誌） 口絵1
+Nemonogatari 3 (Doujinshi) 1
 
 ;7da8;43;ねものがたり3キャラクターズ（同人誌） 口絵2
+Nemonogatari 3 (Doujinshi) 2
 
 ;7dac;43;ねものがたり3キャラクターズ（同人誌） 口絵3
+Nemonogatari 3 (Doujinshi) 3
 
 ;7db0;43;ねものがたり3キャラクターズ（同人誌） 口絵4
+Nemonogatari 3 (Doujinshi) 4
 
 ;7db4;32;ねものがたり4Game（同人誌） 表紙
+Nemonogatari 4Game (Doujinshi) Front Cover
 
 ;7db8;34;ねものがたり4Game（同人誌） 裏表紙
+Nemonogatari 4Game (Doujinshi) Back Cover
 
 ;7dbc;33;ねものがたり4Game（同人誌） 口絵1
+Nemonogatari 4Game (Doujinshi) 1
 
 ;7dc0;33;ねものがたり4Game（同人誌） 口絵2
+Nemonogatari 4Game (Doujinshi) 2
 
 ;7dc4;33;ねものがたり4Game（同人誌） 口絵3
+Nemonogatari 4Game (Doujinshi) 3
 
 ;7dc8;33;ねものがたり4Game（同人誌） 口絵4
+Nemonogatari 4Game (Doujinshi) 4
 
 ;7dcc;12;オープニング
-Opening
+Opening Movie
 
 ;7dd0;24;オリジナル版オープニング
-Original Opening
+Opening Movie (Original Ver.)
 
 ;7dd4;14;浸水ムービー１
+Flooding Movie 1
 
 ;7dd8;14;浸水ムービー２
+Flooding Movie 2
 
 ;7ddc;20;つぐみ編エンディング
 Tsugumi End
@@ -7469,7 +7584,7 @@ Sara End
 Coco End
 
 ;7df0;30;オリジナル版ココ編エンディング
-Coco End (Original ver.)
+Coco End (Original Ver.)
 
 ;7df4;6;テスト
 
