@@ -180,7 +180,7 @@ Tsugumi「It was too bright for me to relax.」%K%P
 Tsugumi「Some people want to rest...」%K%P
 0x41C
 武「だからって、勝手に明かり消すなよ」%K%P
-Takeshi「Well, that doesn't mean you just go turning off the lights!」%K%P
+Takeshi「Well, that doesn't mean you just go turning off the%Nlights!」%K%P
 0x428
 武「自分が休みたいからってさぁ……」%K%P
 Takeshi「Just because YOU want to rest...」%K%P
@@ -345,7 +345,7 @@ Coco「No it's not! Listen!」%K%P
 Takeshi「Oh, sorry...」%K%P
 0x79C
 ココ「で、鬼の人は空き缶を部屋のどこかに置いて……」%K%P
-Coco「The person that's 'it' puts a can somewhere in the room...」%K%P
+Coco「The person that's 'it' puts a can somewhere in the%Nroom...」%K%P
 0x7A8
 ココ「隠れた人は、鬼に見つからないようにそれを蹴るの！」%K%P
 Coco「And the people that hide try to kick the can before the person that's 'it' finds them.」%K%P

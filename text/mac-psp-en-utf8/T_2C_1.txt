@@ -405,7 +405,7 @@ Tsugumi took it without saying anything.%K%P
 Then I held out the remaining one to Sora.%K%P
 0x98C
 武「もう１個は空のぶんだ。まだ食べてないだろ？」%K%P
-Takeshi「The other one is for Sora. You haven't eaten, have you?」%K%P
+Takeshi「The other one is for Sora. You haven't eaten, have%Nyou?」%K%P
 0x9A0
 空「あ、いえ、私はいいんです……」%K%P
 Sora「Uh, no... I'm fine...」%K%P
@@ -801,7 +801,7 @@ Tsugumi「Random... Oh, I see. You're a learning program in which positive respo
 Sora「That is correct. I have been designed with specific emphasis on the functions of curiosity and concentration.」%K%P
 0x12A0
 空「音声入力による『形態素解析』も、恐らく他に例を見ないレベルで高速かつ正確なものを持っていると思います……」%K%P
-Sora「Morphological analysis from my audio input very likely operates at a speed and level of precision without peer.」%K%P
+Sora「Morphological analysis from my audio input very likely operates at a speed and level of precision without%Npeer.」%K%P
 0x12AC
 空「あとはちょっと、特殊な技術を使っている部分がありますね。詳細は、企業秘密ですが……」%K%P
 Sora「There are also a number of special technologies used to create me. However, the specifics of these are trade secrets which cannot be revealed...」%K%P
@@ -1467,7 +1467,7 @@ Sora「I imagine it is to help maintain an image of reality for visitors.」%K%P
 Sora「So that there is only one 'Sora' in the world.」%K%P
 0x207C
 空「そういう設定にしておかないと、お客様の中には混乱なされる方もいらっしゃいますし」%K%P
-Sora「Without that kind of setting, visitors would get confused.」%K%P
+Sora「Without that kind of setting, visitors would get%Nconfused.」%K%P
 0x2088
 武「？」%K%P
 Takeshi「?」%K%P
@@ -1527,7 +1527,7 @@ Takeshi「Flaw?」%K%P
 Sora「I...」%K%P
 0x21F4
 空「誰かに『見』られることによって、初めて具現化することができるのです」%K%P
-Sora「I am only 'seen' when someone looks at me.」%K%P
+Sora「I am only 'seen' when someone looks at%Nme.」%K%P
 0x2200
 武「えっ？」%K%P
 Takeshi「What?」%K%P

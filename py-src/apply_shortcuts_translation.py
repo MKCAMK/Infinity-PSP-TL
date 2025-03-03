@@ -68,19 +68,20 @@ def main():
 
   print("text_max_len: {}".format(text_max_len))
   if (text_pos > text_max_len):
-    raise Exception("(text_pos > text_max_len: {} > {}".format(text_pos, text_max_len))
+    # raise Exception("text_pos > text_max_len: {} > {}".format(text_pos, text_max_len))
+    print("text_pos > text_max_len: {} > {}".format(text_pos, text_max_len))
 
   # adjust data offsets
-  # new_data_offset = ((text[0]+text_pos) & ~0xf) + 0x10  # align new offset
-  new_data_offset = shortcut_data_offset # Keep old offset. No bugs, but all texts must fit the original size.
-  # data_offset_diff = new_data_offset - shortcut_data_offset
-  # print("Shortcuts data offset", new_data_offset, data_offset_diff)
-  # if (data_offset_diff != 0):
-  #   head_int[2] = new_data_offset
+  new_data_offset = ((addr_text[0] + text_pos + 3) & ~3)  # align new offset
+  # new_data_offset = shortcut_data_offset # Keep old offset. No bugs, but all texts must fit the original size.
+  data_offset_diff = new_data_offset - shortcut_data_offset
+  print("Shortcuts data offset", new_data_offset, data_offset_diff)
+  if (data_offset_diff != 0):
+    head_int[2] = new_data_offset
 
-  #   for i in range(table_entry_count):
-  #     data_offset_i = (table_offset + i*table_entry_sz + 0x8) // 4
-  #     head_int[data_offset_i] += data_offset_diff
+    for i in range(table_entry_count):
+      data_offset_i = (table_offset + i*table_entry_sz + 0x8) // 4
+      head_int[data_offset_i] += data_offset_diff
 
   #   # data2
   #   data2_mv = memoryview(data2)
