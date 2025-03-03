@@ -603,7 +603,7 @@ Sora「I mean LeMU's walls. The partitions between the outer seawater and the in
 Kid「What do you mean... when you say you found the limit?」%K%P
 0xD8C
 空「昨日もお伝えしましたように、ＬｅＭＵは基本的に、飽和潜水仕様の設計をもとに建造された構造物です」%K%P
-Sora「Like I said yesterday, LeMU is a structure basically constructed on a saturation diving specification design.」%K%P
+Sora「Like I said yesterday, LeMU is a structure basically constructed on a saturation diving specification%Ndesign.」%K%P
 0xD98
 空「つまり、内部の気圧が、外部の水圧と同等か、それを上まわるような構造になっていた、ということです」%K%P
 Sora「In other words, the internal air pressure equals or is greater than the external water pressure.」%K%P

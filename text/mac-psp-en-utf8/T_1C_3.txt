@@ -9,7 +9,7 @@ Takeshi「Well, I guess we can take it easy for now.」%K%P
 I left the room and hit the food stand, snagging some cola for everyone.%K%P
 0x78
 武「それじゃ配るぞー。投げるぞー。構えろよー」%K%P
-Takeshi「Alright, cola time! I'm gonna toss everybody one! Ready?」%K%P
+Takeshi「Alright, cola time! I'm gonna toss everybody one!%NReady?」%K%P
 0x84
 武「ありょ？　そういや俺いくつ持ってきてたっけ。１・２・３・４……」%K%P
 Takeshi「Oops. I got one, two, three, four...」%K%P
@@ -756,7 +756,7 @@ You「Yeah, it could well be.」%K%P
 Pipi looked up at Coco worriedly.%K%P
 0x1298
 優「ツヴァイトの救護室に行こう。倉成、おんぶ」%K%P
-You「Let's get her to the Zweiter infirmary. Kuranari, carry her.」%K%P
+You「Let's get her to the Zweiter infirmary. Kuranari, carry%Nher.」%K%P
 0x12A4
 武「は？」%K%P
 Takeshi「Huh?」%K%P

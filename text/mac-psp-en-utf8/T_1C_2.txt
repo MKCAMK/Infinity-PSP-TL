@@ -381,7 +381,7 @@ Takeshi「Actually, Pipi is incredible... I think I'm gonna have nightmares abou
 I shuddered.%K%P
 0x884
 武「さて、では輝け第１回、チャンピオンピピｖｓ．チャレンジャー少年の顔面ファイトを……」%K%P
-Takeshi「And now, in their first contest, we have the champion Pipi versus the challenger, The Kid, facing off in a face fight...」%K%P
+Takeshi「And now, in their first contest, we have the champion Pipi versus the challenger, The Kid, facing off in a face%Nfight...」%K%P
 0x890
 武「えー、始めたいと思いますがその前に」%K%P
 Takeshi「I want to get underway, but first...」%K%P
@@ -462,7 +462,7 @@ Sora「That's crude, Kuranari-san...」%K%P
 Pipi「*Woof*?」%K%P
 0xA54
 空「そうですね、私もひとつ考えましょう。それでは……キワクさん、というのはいかがでしょうか？」%K%P
-Sora「Well, let's see. Why don't I think of one... How about Melos-san?」%K%P
+Sora「Well, let's see. Why don't I think of one... How about%NMelos-san?」%K%P
 0xA60
 武「なんだ、キワクさんって」%K%P
 Takeshi「Why Melos?」%K%P
@@ -699,7 +699,7 @@ Takeshi「Everybody makes mistakes.」%K%P
 Takeshi「We may have even overlooked the cause of this when we were checking around a little bit ago... We're in this together.」%K%P
 0x137C
 武「今はみんな無事なんだから、良しとしようや」%K%P
-Takeshi「Everyone is fine, so let's just consider ourselves lucky.」%K%P
+Takeshi「Everyone is fine, so let's just consider ourselves%Nlucky.」%K%P
 0x1388
 空「ごめんなさい……」%K%P
 Sora「I am really sorry...」%K%P
@@ -735,7 +735,7 @@ Sora「My calculations and predictions were irresponsible...」%K%P
 Takeshi「Don't you go trying to blame yourself for this.」%K%P
 0x1434
 武「今はみんな無事なんだから、良しとしようや。なぁ？」%K%P
-Takeshi「Everyone is fine, so let's just consider ourselves lucky.」%K%P
+Takeshi「Everyone is fine, so let's just consider ourselves%Nlucky.」%K%P
 0x1448
 空「…………」%K%P
 Sora「...」%K%P

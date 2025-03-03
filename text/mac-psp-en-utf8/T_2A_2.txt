@@ -1017,7 +1017,7 @@ It seemed to me that Coco's unique personality kept even Tsugumi off balance.%K%
 Coco「Hmmm...」%K%P
 0x1858
 ココ「それで、どうだったの？　エレベーターは動きそう？」%K%P
-Coco「So how about it? Does it look like the elevator will move?」%K%P
+Coco「So how about it? Does it look like the elevator will%Nmove?」%K%P
 0x186C
 つぐみ「たぶんね」%K%P
 Tsugumi「Maybe.」%K%P
@@ -1035,7 +1035,7 @@ Tsugumi「I thought we'd go down to the third floor...」%K%P
 Coco「Third floor? Why don't we just use the emergency stairs like we always do?」%K%P
 0x18B0
 つぐみ「あの階段じゃ、行けないから」%K%P
-Tsugumi「Because those stairs won't get us where we need to go.」%K%P
+Tsugumi「Because those stairs won't get us where we need to%Ngo.」%K%P
 0x18C4
 ココ「ほえ？」%K%P
 Coco「Huh?」%K%P
@@ -1341,7 +1341,7 @@ Takeshi「Hey, hold on! When did I say I was scared?」%K%P
 I jumped in between Coco and Tsugumi.%K%P
 0x1F3C
 つぐみ「『いやだ、行きたくない』って、駄々っ子みたいに言ったじゃない」%K%P
-Tsugumi「'No. I don't want to go.' That sounds pretty scared to me.」%K%P
+Tsugumi「'No. I don't want to go.' That sounds pretty scared to%Nme.」%K%P
 0x1F48
 武「お前なぁ！　誰が駄々っ子だ誰が。そんなんじゃない、ただ物事は段取りを踏まえてだなぁ――」%K%P
 Takeshi「Hey! Who do you think you're calling scared? I just think that we should do something else first.」%K%P
@@ -1383,7 +1383,7 @@ But I dropped my hand...%K%P
 Takeshi「Okay, okay. Fine. I'll go with you.」%K%P
 0x2004
 武「一緒に行ってやるよ、お前が怖がるといけないからな！」%K%P
-Takeshi「I'll go with you because you are too scared to go alone.」%K%P
+Takeshi「I'll go with you because you are too scared to go%Nalone.」%K%P
 0x2018
 つぐみ「……ふん」%K%P
 Tsugumi「...Hmmph.」%K%P

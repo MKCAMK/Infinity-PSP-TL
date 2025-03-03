@@ -171,7 +171,7 @@ Takeshi「So that means that the air pressure in the room is just getting higher
 Takeshi「For example, it's like if you poured a bunch of water into a kettle, welded it shut, blocked the spout, and put it on a fire.」%K%P
 0x364
 武「そしたら、やがてヤカンは『ドッカーン！』と大爆発を起こしちまうよな？」%K%P
-Takeshi「Then, finally, it would go and explode with a 'boom', right?」%K%P
+Takeshi「Then, finally, it would go and explode with a 'boom',%Nright?」%K%P
 0x370
 武「でもこの通り……なぜか発電室は無事だ」%K%P
 Takeshi「But somehow... the generator room is fine.」%K%P
