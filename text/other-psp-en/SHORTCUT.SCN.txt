@@ -98,7 +98,7 @@ May 7 Coco Ver.
 Takeshi escapes the elevator, %Nbut there's no one to be found%Nin LeMU. He goes with Tsugumi%Nto the lower levels...
 
 ;48;78;ＬｅＭＵ２日目の朝を%N武は寝不足で迎えた。%N空は圧力隔壁の%N限界予測を告げた。
-Takeshi starts the day short on %Nsleep. Sora predicts the limits%Nof LeMU's partitions. The power%Nsuddenly goes out.
+Takeshi starts the day short on%Nsleep. Sora predicts the limits%Nof LeMU's partitions. The power%Nsuddenly goes out.
 
 ;7C;100;『救助は来ないが、悲観的に%N考えるのはやめた』%N……束の間の日常。しかし%N予期せぬ危機にさらされる。
 Takeshi's optimistic sentiments%Nare shattered after a small%Nmistake leads to an unexpected%Naccident.
@@ -107,10 +107,10 @@ Takeshi's optimistic sentiments%Nare shattered after a small%Nmistake leads to a
 Takeshi goes to visit the%Ninjured Tsugumi. She coldly%Ntells him "I wanted to die".
 
 ;E4;88;死の夢から目覚めた武。%Nつぐみと乗ったクヴァレで、%N武は思いがけぬ%N告白を受けるが……。
-Takeshi awakens from a%Nnightmare about death. On the%NJellyfish Gondola he receives%Nan unexpected confession...
+Takeshi awakens from a  %Nnightmare about death. On the   %NJellyfish Gondola he receives   %Nan unexpected confession...
 
 ;118;90;迫るタイムリミット。%N皆は宴会と称して、%N最後の食事を楽しむ。%Nしかしココに窮地が訪れた。
-The time limit quickly approaches.%NEveryone tries to enjoy a%N"Last Supper". However, a new%Npredicament arises.
+The time limit quickly approaches.%NEveryone tries to enjoy a%N"Last Supper". However, a new  %Npredicament arises.
 
 ;14C;104;万難を乗り越え生き延び、%NついにＩＢＦ脱出を果たす。%Nしかし深海での危機に、%N武はつぐみを救うべく……。
 The two were somehow able to%Nescape IBF, but the submarine%Nshuts down. Takeshi commits%Nhimself to saving Tsugumi.
@@ -119,7 +119,7 @@ The two were somehow able to%Nescape IBF, but the submarine%Nshuts down. Takeshi
 Takeshi is hurt by Tsugumi's%Ncold attitude, Sora tries to%Nease his pain with words%Nof sympathy.
 
 ;1B4;104;クヴァレでつぐみに襲われ、%N狂気に満ちた行為に耽る武。%Nだが、空の『目』はそれらを%Nすべて見ていた……。
-Assaulted by Tsugumi in%NQualle, Takeshi is driven to%Nmadness. Sora's omnipresent%N"eyes" see everything...
+Assaulted by Tsugumi in%NQualle, Takeshi is driven to%Nmadness. Sora's omnipresent%N"eyes" see everything.
 
 ;1E8;102;空の笑顔は本物だろうか……？%N時間は刻々と過ぎていく。%N訪れる脅威から、%N武は空を連れて脱出を試みる。
 Is Sora's smile real? Time%Ncontinues to slip away.%NTaking Sora with him,%NTakeshi tries to escape.
@@ -128,25 +128,25 @@ Is Sora's smile real? Time%Ncontinues to slip away.%NTaking Sora with him,%NTake
 Takeshi and Sora try to%Nspend their last moments%Nthinking "We are still here."
 
 ;250;104;もはや退路を断たれ、%N全ての可能性は否定された。%N悪夢のような現実を、ただ%N緩やかに受け入れていく……。
-All escape routes and%Npossibilities exhausted, the%Nonly option left is to%Naccept the nightmarish reality.
+All escape routes and  %Npossibilities exhausted, the   %Nonly option left is to   %Naccept the nightmarish reality.
 
 ;284;96;目覚めれば見知らぬ天井、%N誰かの介護を受ける少年。%N「ぼくは誰？」少年は、%N数多くの混乱を抱く。
 Looking up at an%Nunfamiliar ceiling, the Kid%Nreceives care from someone.%N"Who am I?"
 
 ;2B8;102;武のせいで眠れない夜を%N優や沙羅と共に過ごす……。%N明けて朝、空は圧力隔壁の%N限界予測を淡々と告げる。
-A sleepless night, thanks to%NTakeshi. The Kid opens up to%NYou and Sara. Sora predicts%Nthe limits of LeMU's partitions.
+A sleepless night, thanks to%NTakeshi. The Kid opens up to   %NYou and Sara. Sora predicts  %Nthe limits of LeMU's partitions.
 
 ;2EC;92;続く奇妙な日常。沙羅や%N優の楽しい思い出話……。%Nそんな中、空は倉庫浸水を%N報告するが……？
 Another strange day. Sara and%NYou discuss fond memories.%NSora reports that there is%Nflooding, but...
 
 ;320;98;第３視点ゆかりの地、%Nレムリア遺跡で少年は、%N優を助けると約束する。%N沙羅と優はレミへ再挑戦する。
-Discussing Lemuria and the%NThird Perspective, the Kid%Npromises to save You. You%Ntries to access LeMMIH again.
+Discussing Lemuria and the%NThird Perspective, the Kid%Npromises to save You. You  %Ntries to access LeMMIH again.
 
 ;354;102;再びのレムリア遺跡。%N優と少年は、昨日得た情報から%N真実を導き出そうとする。%Nしかし結論は出ない……。
-Back at the Lemurian Ruins,%NYou and the Kid try to%Nderive the truth from clues%Ndiscovered yesterday, but to no avail.
+Back at the Lemurian Ruins,%NYou and the Kid try to derive%Nthe truth from clues discovered%Nyesterday, but to no avail.
 
 ;388;104;青に蝕まれる夢を見た少年。%N優は、「この瞬間だけを%N大切にしたい」と言うが……。%N第３の眼はどこにある？
-The Kid dreams he is devoured%Nby blue. You says she just%Nwants to live in the present...%NWhere is the third eye?
+The Kid dreams he is devoured%Nby blue. You says she just%Nwants to live in the present...   %NWhere is the third eye?
 
 ;3BC;94;「生きることは知ること、%Nそして失うこと」%N……少年の心は、知性は、%N優を救うべく動き始める。
 "To live is to learn, and%Nto lose"... The Kid's heart%Nand mind race to save You.
@@ -155,19 +155,19 @@ The Kid dreams he is devoured%Nby blue. You says she just%Nwants to live in the 
 There is only one place%Nto go. The Kid picks up You%Nand heads there. To Himmel,%Nto Heaven.
 
 ;424;96;沙羅のペンダントに隠された%Nホログラムの男性……%N何かが結びつきそうで、%Nしかしまだわからない。
-Sara's pendant: the hologram of%Na man... It seems connected%Nto the Kid somehow, but just%Nhow is still unclear.
+Sara's pendant: the hologram of%Na man... It seems connected%Nto the Kid somehow, but just   %Nhow is still unclear.
 
 ;458;96;時折脳裏に響く謎の声に%N戸惑いながらも%N少年は沙羅に泳ぎを教える。%Nこの声は幻想か、記憶なのか？
-The Kid teaches Sara how%Nto swim while a mysterious voice%Nsounds in his mind. Is it%Nan illusion, or a memory?
+The Kid teaches Sara how%Nto swim while a mysterious voice%Nsounds in his mind. Is it   %Nan illusion, or a memory?
 
 ;48C;116;不意に聞こえた、懐かしい歌。%N少年の指先に眠っていたのは、%Nあのペンダントの欠片だった。%Nそれが指し示す事実は……。
 A nostalgic song. Buried%Nwithin the Kid's finger%Nis a fragment of the pendant...%Nrevealing the truth...
 
 ;4C0;102;兄と妹、繋がれた記憶と絆。%N少年と沙羅は沈み行く中、%N真の自由を目指して、%Nふたりは海中へと躍り出る。
-Brother and sister,%Nconnected by memories and bonds.%NHeading for true freedom, the%Ntwo plunge into the ocean.
+Brother and sister, connected%Nby memories and bonds.%NHeading for true freedom, the  %Ntwo plunge into the ocean.
 
 ;4F4;100;待って、待ち続けて、%Nしかし今はもう遅すぎた……。%N少年と沙羅は沈み行く%NＬｅＭＵと共に闇に溶ける。
-They waited, hoping, but it%Nwas too late... The%NKid and Sara share their final%Nwords in the sinking LeMU.
+They waited, hoping, but it%Nwas too late... The  %NKid and Sara share their final   %Nwords in the sinking LeMU.
 
 ;528;110;「ココは減圧症なのか？」%N……何故疑念を抱いたのか%N判らないまま、夜は明けた。%N「目を閉じても、月はあるか？」
 Takeshi wonders... "Does Coco%Nreally have decompression sickness?"%N"When you close your eyes,%Nis the moon still there?"
@@ -176,7 +176,7 @@ Takeshi wonders... "Does Coco%Nreally have decompression sickness?"%N"When you c
 How do I know her name? How%Ndo I know that Sora is RSD...%NThe Kid's memories are thrown%Ninto dissaray.
 
 ;590;102;違和感を覚えつつも%N迎えたＬｅＭＵでの３日目。%N倉庫の浸水は現実に起こった。%N現実は――鏡の中に……。
-An uncomfortable feeling welcomes%Nthe morning. The storage room%Nstarts to flood. The truth is%Nwithin the mirror...
+An uncomfortable feeling%Nwelcomes the morning.%NThe storage room starts to flood.%NThe truth is within the mirror...
 
 ;5C4;108;パパは太陽星人だ、と沙羅。%Nココは子守歌を武に歌って%N聞かせた……。知りたいものは、%Nボクの本当の名前……。
 Sara says her father was from%Nthe Sun. Coco sings a nursery%Nrhyme... What they seek is%N'my' true name...
