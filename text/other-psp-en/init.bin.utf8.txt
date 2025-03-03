@@ -4960,6 +4960,7 @@ Aqua Stripe
 ;361c;22;Ｍｕｓｉｃ：志倉千代丸
 ;dupe:35ec
 ;3620;20;Ｖｏｃａｌ：笠原弘子
+Vocal: Kasahara Hiroko
 
 ;3624;32;『Der⑳Mond⑳Das⑳Meer』⑳-Sara-
 Der Mond Das Meer -Sara-
@@ -6827,6 +6828,7 @@ Lemurianische Ruinen
 ;dupe:7844
 
 ;784c;4;船上
+Ship
 
 ;7850;12;ＬｅＭＵ外観
 Lemu Exterior
@@ -7160,12 +7162,12 @@ Thank you, Takepyon...
 ;dupe:7bc0
 
 ;7bcc;14;Ｍｉｒａｃｌｅ
-
+Miracle
 ;7bd0;14;Ｍｉｒａｃｌｅ
 ;dupe:7bcc
 
 ;7bd4;16;Ｓｈｏｗｄｏｗｎ
-
+Showdown
 ;7bd8;16;Ｓｈｏｗｄｏｗｎ
 ;dupe:7bd4
 ;7bdc;16;Ｓｈｏｗｄｏｗｎ
@@ -7442,24 +7444,32 @@ Thank you, Takepyon...
 ;7dc8;33;ねものがたり4Game（同人誌） 口絵4
 
 ;7dcc;12;オープニング
+Opening
 
 ;7dd0;24;オリジナル版オープニング
+Original Opening
 
 ;7dd4;14;浸水ムービー１
 
 ;7dd8;14;浸水ムービー２
 
 ;7ddc;20;つぐみ編エンディング
+Tsugumi End
 
 ;7de0;16;空編エンディング
+Sora End
 
 ;7de4;16;優編エンディング
+You End
 
 ;7de8;18;沙羅編エンディング
+Sara End
 
 ;7dec;18;ココ編エンディング
+Coco End
 
 ;7df0;30;オリジナル版ココ編エンディング
+Coco End (Original ver.)
 
 ;7df4;6;テスト
 
