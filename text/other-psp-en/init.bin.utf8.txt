@@ -7005,6 +7005,7 @@ Face in the Pendant
 ;dupe:7a7c
 
 ;7a8c;18;ポッドの中の大黒柱
+Main Man in the Pod
 
 ;7a90;18;ポッドの中の大黒柱
 ;dupe:7a8c
@@ -7115,6 +7116,7 @@ Lettuce
 ;dupe:7b24
 
 ;7b30;12;Ｍａｋｅｕｐ
+Make-Up
 
 ;7b34;12;Ｍａｋｅｕｐ
 ;dupe:7b30
@@ -7230,7 +7232,7 @@ She and I meet again
 ;dupe:7bec
 
 ;7bf8;20;俺の助けた彼女の友人
-Her friend I' saved
+Her friend I saved
 
 ;7bfc;20;俺の助けた彼女の友人
 ;dupe:7bf8
