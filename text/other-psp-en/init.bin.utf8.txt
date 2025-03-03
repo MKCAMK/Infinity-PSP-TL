@@ -7201,11 +7201,13 @@ Lettuce
 ;dupe:7bc0
 
 ;7bcc;14;Ｍｉｒａｃｌｅ
+Miracle
 
 ;7bd0;14;Ｍｉｒａｃｌｅ
 ;dupe:7bcc
 
 ;7bd4;16;Ｓｈｏｗｄｏｗｎ
+Showdown
 
 ;7bd8;16;Ｓｈｏｗｄｏｗｎ
 ;dupe:7bd4
