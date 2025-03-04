@@ -108,8 +108,23 @@ patch_boot_bin () {
 	cp -f ./$ISO_BIN_DIR/BOOT.BIN ./$ISO_BIN_DIR/EBOOT.BIN
 }
 
+repack_se_afs () {
+	[ -d "e17_x360_BGM" ] && [ -d "e17_se" ] || return
+	mkdir -p e17_se_mod
+	for i in $(seq -w 1 22) 24
+	do
+		cp e17_x360_BGM/bgm${i}.adx e17_se_mod/ADX${i}.ADX
+		cp e17_x360_BGM/bgm${i}nl.adx e17_se_mod/ADX${i}NL.ADX
+	done
+	cp e17_x360_BGM/bgm25.adx e17_se_mod/ADX26.ADX
+	cp e17_x360_BGM/bgm25nl.adx e17_se_mod/ADX26NL.ADX
+	$REPACK_AFS $ISO_RES_DIR/se.afs $WORKDIR/se_mod.afs e17_se_mod || exit 1
+	mv -f $WORKDIR/se_mod.afs $ISO_RES_DIR/se.afs
+}
+
 # Actually running above functions
 repack_mac_afs
 repack_etc_afs
+repack_se_afs
 repack_init_bin
 patch_boot_bin
