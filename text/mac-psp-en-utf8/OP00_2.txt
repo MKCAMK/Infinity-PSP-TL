@@ -93,7 +93,7 @@ He shook his head and sighed.%K%P
 It didn't seem his pants would dry any time soon.%K%P
 0x1FC
 係員「どうしたの？」%K%P
-Park staff「What's wrong?」%K%P
+Park Staff「What's wrong?」%K%P
 0x208
 ふわり、と柔らかな気配がして、彼女は彼の隣にやって来る。%K%P
 He sensed a slight movement, and a girl sat down next to him.%K%P
@@ -108,13 +108,13 @@ A white outfit with a bluish ribbon.%K%P
 She looked like a guide.%K%P
 0x268
 係員「もしかして、迷子かな？」%K%P
-Park staff「Are you lost?」%K%P
+Park Staff「Are you lost?」%K%P
 0x274
 にこにこと、彼女は屈託のない笑顔を浮かべていた。%K%P
 A beaming, innocent smile appeared on her shining face.%K%P
 0x280
 係員「友達とはぐれちゃったのかな？」%K%P
-Park staff「Did you get separated from your friends?」%K%P
+Park Staff「Did you get separated from your friends?」%K%P
 0x28C
 少年「ううん」%K%P
 Kid「Yeah.」%K%P
@@ -123,7 +123,7 @@ Kid「Yeah.」%K%P
 Kid「I've been waiting.」%K%P
 0x2AC
 係員「待ってる？」%K%P
-Park staff「Waiting?」%K%P
+Park Staff「Waiting?」%K%P
 0x2B8
 少年「いや……」%K%P
 Kid「Well...」%K%P
@@ -132,10 +132,10 @@ Kid「Well...」%K%P
 Kid「I was waiting.」%K%P
 0x2D0
 係員「待ってた……」%K%P
-Park staff「You were waiting...」%K%P
+Park Staff「You were waiting...」%K%P
 0x2EC
 係員「私を？」%K%P
-Park staff「For me?」%K%P
+Park Staff「For me?」%K%P
 0x2F8
 少年「ち、違うよ……」%K%P
 Kid「N-no...」%K%P
@@ -147,31 +147,31 @@ Looking at her grin, he seemed to be flustered.%K%P
 Kid「I was told to wait here, so...」%K%P
 0x324
 係員「ふーん……」%K%P
-Park staff「I see...」%K%P
+Park Staff「I see...」%K%P
 0x330
 係員「でも、待ち人来たらずって感じねぇ」%K%P
-Park staff「But it looks like they're not coming.」%K%P
+Park Staff「But it looks like they're not coming.」%K%P
 0x33C
 係員の彼女は、首を傾げる。%K%P
 She gave him a sideways glance.%K%P
 0x348
 係員「見るからに待ちぼうけの待ちくたびれな、少年……」%K%P
-Park staff「Listen, you've obviously been stood up, and you're tired of waiting...」%K%P
+Park Staff「Listen, you've obviously been stood up, and you're tired of waiting...」%K%P
 0x35C
 係員「そうだっ！」%K%P
-Park staff「I know!」%K%P
+Park Staff「I know!」%K%P
 0x368
 突然顔を輝かせ、彼女はぽんと手を合わせた。%K%P
 Her face suddenly lit up, and she clapped her hands together.%K%P
 0x374
 係員「ねえねえ、きみ、ひとりなんでしょ？」%K%P
-Park staff「Hey, hey, you're alone, right?」%K%P
+Park Staff「Hey, hey, you're alone, right?」%K%P
 0x380
 少年「えっ」%K%P
 Kid「Huh?」%K%P
 0x38C
 係員「退屈してたんじゃない？　ＬｅＭＵの中、案内してあげようか？」%K%P
-Park staff「Well, you're bored, right? How about I give you a tour of LeMU?」%K%P
+Park Staff「Well, you're bored, right? How about I give you a tour of LeMU?」%K%P
 0x398
 彼女は腕を引っ張る。%K%P
 She tugged at his arm.%K%P
@@ -183,7 +183,7 @@ Without waiting for his reply, she made him stand.%K%P
 Kid「B-but I'm waiting for someone.」%K%P
 0x3C4
 係員「待ち合わせ？　誰と？」%K%P
-Park staff「Waiting? For who?」%K%P
+Park Staff「Waiting? For who?」%K%P
 0x3D0
 少年「……えーと……」%K%P
 Kid「...Uh...」%K%P
@@ -195,16 +195,16 @@ Who was it?%K%P
 He couldn't think of the name.%K%P
 0x3F4
 係員「ま、誰だか知らないけどぉ……」%K%P
-Park staff「Well, I dunno who you're waiting for, but...」%K%P
+Park Staff「Well, I dunno who you're waiting for, but...」%K%P
 0x408
 係員「いつまで経っても来ないんなら、もう待たなくてもいいんじゃない？」%K%P
-Park staff「If they haven't shown up yet, don't you think you've waited long enough?」%K%P
+Park Staff「If they haven't shown up yet, don't you think you've waited long enough?」%K%P
 0x414
 楽しげに、跳ねるように、彼女が言う。%K%P
 She said that happily, almost prancing around.%K%P
 0x420
 係員「ねえ？　行こうよ？」%K%P
-Park staff「Whaddya say? How about it?」%K%P
+Park Staff「Whaddya say? How about it?」%K%P
 0x42C
 少年「う、うん……」%K%P
 Kid「Al-alright...」%K%P
@@ -669,13 +669,13 @@ Kid「What is this... This feeling...?」%K%P
 His heart was still beating furiously.%K%P
 0xFB8
 係員「どうかされましたか、お客様？」%K%P
-Park staff「Is something the matter?」%K%P
+Park Staff「Is something the matter?」%K%P
 0xFC4
 そこへ不意に話しかけて来たのは、優とは別のユニフォームを着た係員だった。%K%P
 A uniformed staff member, different than You, was talking to him.%K%P
 0xFD0
 係員「どなたかお捜しですか？」%K%P
-Park staff「Are you looking for someone?」%K%P
+Park Staff「Are you looking for someone?」%K%P
 0xFDC
 穏やかに笑みながら、係員は言う。%K%P
 She gave him a warm smile as she said that.%K%P
@@ -693,7 +693,7 @@ Kid「I'm trying to find someone!」%K%P
 Kid「I was supposed to meet up with them, but we must have missed each other.」%K%P
 0x1018
 係員「どんな方です？　お名前は？」%K%P
-Park staff「Who is it? What is their name?」%K%P
+Park Staff「Who is it? What is their name?」%K%P
 0x1024
 少年「えーと、それは――」%K%P
 Kid「Uh, their name...」%K%P

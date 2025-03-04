@@ -237,7 +237,7 @@ Finally, the gate to the entrance slipped shut quietly.%K%P
 The big tanuki fiddled with something on the wall, and the room got a shade darker.%K%P
 0x848
 係員「皆さん、どうもこんにちは！」%K%P
-Park staff「Hello, everybody!」%K%P
+Park Staff「Hello, everybody!」%K%P
 0x854
 係員が闇の中に浮かぶ。%K%P
 A park employee emerged out of the darkness.%K%P
@@ -252,13 +252,13 @@ The dim light shining on her made her seem like a character from some dream.%K%P
 Visitors「...」%K%P
 0x8B4
 係員「あれ？　反応がないですねぇ」%K%P
-Park staff「What? No reaction, folks?」%K%P
+Park Staff「What? No reaction, folks?」%K%P
 0x8C0
 係員「もう一度いきますよ？」%K%P
-Park staff「I'll try that again...」%K%P
+Park Staff「I'll try that again...」%K%P
 0x8CC
 係員「こんにちはーっ！」%K%P
-Park staff「Hello!」%K%P
+Park Staff「Hello!」%K%P
 0x8D8
 少女「こーんにっちゃーーーっ！」%K%P
 Young Girl「Hellooooo!」%K%P
@@ -267,10 +267,10 @@ Young Girl「Hellooooo!」%K%P
 It was the girl who, just a little while ago, had been attached to the rear of the large tanuki.%K%P
 0x8F8
 係員「あっ、元気のいい女の子、発見」%K%P
-Park staff「Oh! I've found a girl with some spunk.」%K%P
+Park Staff「Oh! I've found a girl with some spunk.」%K%P
 0x904
 係員「お名前は？」%K%P
-Park staff「What's your name?」%K%P
+Park Staff「What's your name?」%K%P
 0x910
 少女「やーーーがーーーみぃ、こーーーこーーーでーーーっす！」%K%P
 Young Girl「I'm Ya-ga-mi Co-co!」%K%P
@@ -291,7 +291,7 @@ Pipi「*Woof*!」%K%P
 He tilted his head doubtfully.%K%P
 0x958
 係員「ココちゃんは、ＬｅＭＵに来たのは何回目かな？」%K%P
-Park staff「So, Coco-chan, how many times have you been to%NLeMU?」%K%P
+Park Staff「So, Coco-chan, how many times have you been to%NLeMU?」%K%P
 0x964
 ココ「んーとねぇ、んーとねぇ……１・２・３・４・５……」%K%P
 Coco「Uh, well... One, two, three, four, five...」%K%P
@@ -300,7 +300,7 @@ Coco「Uh, well... One, two, three, four, five...」%K%P
 Coco「This is my first time!」%K%P
 0x97C
 係員「ふふふっ、面白い子ね」%K%P
-Park staff「Heehee. Aren't you a funny girl?」%K%P
+Park Staff「Heehee. Aren't you a funny girl?」%K%P
 0x988
 ココ「よく言われます」%K%P
 Coco「I get that a lot.」%K%P
@@ -309,19 +309,19 @@ Coco「I get that a lot.」%K%P
 Coco「You want me to do something even more funny?」%K%P
 0x9A8
 係員「えっ？」%K%P
-Park staff「What?」%K%P
+Park Staff「What?」%K%P
 0x9B4
 ココ「最近ね、友達からちょーうけるコメッチョ教わったの！」%K%P
 Coco「My friend told me a good joke the other day!」%K%P
 0x9C8
 係員「あ、ああ……えーっと……それは、また今度ね」%K%P
-Park staff「O-ooh... Er... Maybe some other time.」%K%P
+Park Staff「O-ooh... Er... Maybe some other time.」%K%P
 0x9D4
 ココ「どうしてぇーっ？」%K%P
 Coco「Why not?」%K%P
 0x9E0
 係員「これから、皆さんにお伝えしなくちゃいけないことがあるの」%K%P
-Park staff「Because I have to tell everyone something right now.」%K%P
+Park Staff「Because I have to tell everyone something right now.」%K%P
 0x9EC
 ココ「う〜ん……そっか、ほいじゃあしょうがないよね」%K%P
 Coco「Oh. Okay then...」%K%P
@@ -336,112 +336,112 @@ Coco「That's too bad, huh, Pipi?」%K%P
 Pipi「*Woof*!」%K%P
 0xA24
 係員「オホン……では、改めまして……」%K%P
-Park staff「Ahem. Once again...」%K%P
+Park Staff「Ahem. Once again...」%K%P
 0xA38
 係員「このたびは、海洋テーマパーク『ＬｅＭＵ』に御来場くださいまして、誠にありがとうございます」%K%P
-Park staff「On behalf of the LeMU marine theme park, I'd like to thank you very much for coming.」%K%P
+Park Staff「On behalf of the LeMU marine theme park, I'd like to thank you very much for coming.」%K%P
 0xA44
 係員「これから皆さんに、このテーマパーク『ＬｅＭＵ』の御説明と、少しだけ、注意事項をお知らせいたします」%K%P
-Park staff「I am about to give you a brief explanation about the LeMU theme park and tell you a few things to watch out for.」%K%P
+Park Staff「I am about to give you a brief explanation about the LeMU theme park and tell you a few things to watch out for.」%K%P
 0xA50
 ココ「え〜っ、そんなのどうでもいいから、早く中に入れてよぉ〜！」%K%P
 Coco「Hey, who cares? Hurry up and let us inside already!」%K%P
 0xA5C
 係員「私も勿論、すぐにでも皆さんを御案内したいのですが……」%K%P
-Park staff「I would love to take everyone inside...」%K%P
+Park Staff「I would love to take everyone inside...」%K%P
 0xA68
 係員「申し訳ありません」%K%P
-Park staff「But I'm terribly sorry.」%K%P
+Park Staff「But I'm terribly sorry.」%K%P
 0xA74
 係員「実はどうしても、皆さんにはこの加圧室に留まっていただく必要があるのです」%K%P
-Park staff「Everyone will actually have to stay in this room for now.」%K%P
+Park Staff「Everyone will actually have to stay in this room for now.」%K%P
 0xA80
 係員「たった１７分間だけです」%K%P
-Park staff「It will only take seventeen minutes.」%K%P
+Park Staff「It will only take seventeen minutes.」%K%P
 0xA8C
 係員「その間だけ、どうかお付き合いください」%K%P
-Park staff「So please just bear with me for that long.」%K%P
+Park Staff「So please just bear with me for that long.」%K%P
 0xAA0
 係員「まず、この部屋についてですが……ここは加圧室と申します」%K%P
-Park staff「First, let me explain a bit about this room... It is called a compression chamber.」%K%P
+Park Staff「First, let me explain a bit about this room... It is called a compression chamber.」%K%P
 0xAAC
 係員「これから、この中の空気圧を６気圧まで加圧します」%K%P
-Park staff「Starting from now, the air pressure in here is going to rise to six atmospheres.」%K%P
+Park Staff「Starting from now, the air pressure in here is going to rise to six atmospheres.」%K%P
 0xAB8
 係員「なぜ気圧を上げなければならないのか？　理由は後で御説明するとして……」%K%P
-Park staff「Why do you think it is necessary to raise the air pressure? I'll explain the reason for it in a moment...」%K%P
+Park Staff「Why do you think it is necessary to raise the air pressure? I'll explain the reason for it in a moment...」%K%P
 0xACC
 係員「その前に、ひとまず注意事項をお伝え致します」%K%P
-Park staff「But before that, let me tell you a few things you should be aware of.」%K%P
+Park Staff「But before that, let me tell you a few things you should be aware of.」%K%P
 0xAD8
 係員「これから気圧の上昇に伴い、皆さんは耳に違和感をお感じになると思います」%K%P
-Park staff「As the air pressure rises, you may start to feel a strange sensation in your ears.」%K%P
+Park Staff「As the air pressure rises, you may start to feel a strange sensation in your ears.」%K%P
 0xAE4
 係員「高い山の上から下りて来たときと同じように、気圧が鼓膜を圧迫するからです」%K%P
-Park staff「Like when you are descending a mountain or in an airplane. It's because the increased air pressure is pressing on your ear drums.」%K%P
+Park Staff「Like when you are descending a mountain or in an airplane. It's because the increased air pressure is pressing on your ear drums.」%K%P
 0xAF8
 係員「ですから、耳がちょっと変だな、と思われたときには……」%K%P
-Park staff「So if you think your ears feel a bit strange...」%K%P
+Park Staff「So if you think your ears feel a bit strange...」%K%P
 0xB04
 係員「指で鼻をつまみ、口をしっかりと閉じて、耳抜きをするようにして下さい」%K%P
-Park staff「Pinch your nose with your fingers, close your mouth tight, and try to pop your ears.」%K%P
+Park Staff「Pinch your nose with your fingers, close your mouth tight, and try to pop your ears.」%K%P
 0xB10
 係員「それでも耳が治らない場合や、体調が悪くなってしまわれた場合には、手をあげて知らせて下さいね」%K%P
-Park staff「If that doesn't get your ears back to normal, or you if don't feel well, please raise your hand and let me know.」%K%P
+Park Staff「If that doesn't get your ears back to normal, or you if don't feel well, please raise your hand and let me know.」%K%P
 0xB1C
 係員「そのときには、すぐに加圧を停止します」%K%P
-Park staff「In the event that happens, we will immediately stop increasing the air pressure.」%K%P
+Park Staff「In the event that happens, we will immediately stop increasing the air pressure.」%K%P
 0xB30
 係員「ところで、耳抜きのやりかたがわからない方、いらっしゃいませんか？」%K%P
-Park staff「By the way, are there any people here who don't know how to pop their ears?」%K%P
+Park Staff「By the way, are there any people here who don't know how to pop their ears?」%K%P
 0xB3C
 係員「…………」%K%P
-Park staff「...」%K%P
+Park Staff「...」%K%P
 0xB48
 係員「よろしいでしょうか？」%K%P
-Park staff「Is everything clear then?」%K%P
+Park Staff「Is everything clear then?」%K%P
 0xB54
 係員「…………」%K%P
-Park staff「...」%K%P
+Park Staff「...」%K%P
 0xB68
 係員「では、加圧を始めましょう」%K%P
-Park staff「Alright then. We'll initiate the rise in pressure.」%K%P
+Park Staff「Alright then. We'll initiate the rise in pressure.」%K%P
 0xB74
 係員「加圧時間は、先程も申し上げましたように１７分間です」%K%P
-Park staff「As I said before, the time required to increase the pressure is seventeen minutes.」%K%P
+Park Staff「As I said before, the time required to increase the pressure is seventeen minutes.」%K%P
 0xB80
 係員「その間に、皆さんにＬｅＭＵの構造について御説明いたします」%K%P
-Park staff「During that time, I will explain to everyone about the structure of LeMU.」%K%P
+Park Staff「During that time, I will explain to everyone about the structure of LeMU.」%K%P
 0xB9C
 係員「皆さんも御存知の通り、ＬｅＭＵは海の中に浮かんでいます」%K%P
-Park staff「As you all know, LeMU is floating in the ocean...」%K%P
+Park Staff「As you all know, LeMU is floating in the ocean...」%K%P
 0xBA8
 係員「水深１７ｍ〜５１ｍの、海の中に……」%K%P
-Park staff「At a depth of between 17 and 51 meters...」%K%P
+Park Staff「At a depth of between 17 and 51 meters...」%K%P
 0xBBC
 係員「さて、図を御覧いただければおわかりになるように、これらは４つの層に分かれた構造をしています」%K%P
-Park staff「Now, if you look at this chart, you will see that the structure is divided into four layers.」%K%P
+Park Staff「Now, if you look at this chart, you will see that the structure is divided into four layers.」%K%P
 0xBC8
 係員「上から順に、インゼル・ヌル、エルストボーデン、ツヴァイトシュトック、ドリットシュトックと呼ばれていますが……」%K%P
-Park staff「From the top, these are called Insel Null, Erster Boden, Zweiter Stock, and Dritter Stock...」%K%P
+Park Staff「From the top, these are called Insel Null, Erster Boden, Zweiter Stock, and Dritter Stock...」%K%P
 0xBD4
 係員「一般的に言われるグランドフロア〜地下３階までのことだとお考えいただいて結構です」%K%P
-Park staff「In terms of a normal building, you might think of it as a structure with a ground floor extending down to a%Nthree-story basement.」%K%P
+Park Staff「In terms of a normal building, you might think of it as a structure with a ground floor extending down to a%Nthree-story basement.」%K%P
 0xBE0
 係員「インゼル・ヌルとは、ここ……浮島のことです」%K%P
-Park staff「Insel Null, here, is a floating island.」%K%P
+Park Staff「Insel Null, here, is a floating island.」%K%P
 0xBEC
 係員「洋上に浮かんだ巨大な人工島……」%K%P
-Park staff「It is an immense man-made island floating in the ocean...」%K%P
+Park Staff「It is an immense man-made island floating in the ocean...」%K%P
 0xBF8
 係員「インゼルは島、ヌルはゼロという意味のドイツ語です」%K%P
-Park staff「In German, 'insel' means 'island' and 'null' means 'zero'.」%K%P
+Park Staff「In German, 'insel' means 'island' and 'null' means 'zero'.」%K%P
 0xC04
 係員「つまりここは地上階、『ゼロ・フロア』ということになりますね」%K%P
-Park staff「In other words, this is floor zero, or the ground floor.」%K%P
+Park Staff「In other words, this is floor zero, or the ground floor.」%K%P
 0xC10
 係員「次に、エルスト〜ドリットについてですが……」%K%P
-Park staff「Next is from Erster to Dritter...」%K%P
+Park Staff「Next is from Erster to Dritter...」%K%P
 0xC1C
 と、そのときだった。%K%P
 Just then.%K%P
@@ -576,58 +576,58 @@ Coco「Huh.」%K%P
 Patting the little dog's head, he turned back to listen to the explanation.%K%P
 0xECC
 係員「というわけで、各フロアの構造はおわかりになっていただけたと思います」%K%P
-Park staff「So now you should now have a general understanding of the layout of each floor.」%K%P
+Park Staff「So now you should now have a general understanding of the layout of each floor.」%K%P
 0xED8
 係員「ところで、このＬｅＭＵは、飽和潜水仕様の設計になっています」%K%P
-Park staff「By the way, LeMU was designed with saturation diving specifications.」%K%P
+Park Staff「By the way, LeMU was designed with saturation diving specifications.」%K%P
 0xEE4
 係員「つまり、内部の気圧が、外の水圧と同等か、またはそれを上まわるようになっているのです」%K%P
-Park staff「In other words, the air pressure inside is equivalent to or greater than the water pressure outside.」%K%P
+Park Staff「In other words, the air pressure inside is equivalent to or greater than the water pressure outside.」%K%P
 0xEF0
 係員「話の初めでもお伝えしましたように……」%K%P
-Park staff「As I said at the beginning...」%K%P
+Park Staff「As I said at the beginning...」%K%P
 0xEFC
 係員「これから皆さんがお入りになる館内は、どこもかしこも６気圧の混合ガスで充たされています」%K%P
-Park staff「The complex that we're all going to enter is filled with a mixture of gases at six atmospheres.」%K%P
+Park Staff「The complex that we're all going to enter is filled with a mixture of gases at six atmospheres.」%K%P
 0xF08
 係員「ですから、今このようにして、皆さんの身体を６気圧の大気に慣らしているというわけです」%K%P
-Park staff「So right now our bodies are adjusting to be able to handle pressure equivalent to six atmospheres.」%K%P
+Park Staff「So right now our bodies are adjusting to be able to handle pressure equivalent to six atmospheres.」%K%P
 0xF14
 係員「勿論、この混合ガスは、酸素・窒素・ヘリウムで構成されておりますので、人体にはまったく無害です」%K%P
-Park staff「Of course, this mixture of gases is composed of oxygen, nitrogen, and helium, and is completely harmless to people.」%K%P
+Park Staff「Of course, this mixture of gases is composed of oxygen, nitrogen, and helium, and is completely harmless to people.」%K%P
 0xF20
 係員「どうして中の気圧を高めているのかと申しますと……」%K%P
-Park staff「The reason for raising the air pressure inside is...」%K%P
+Park Staff「The reason for raising the air pressure inside is...」%K%P
 0xF2C
 係員「それは、ＬｅＭＵの安全性を確保する為に必要不可欠だからです」%K%P
-Park staff「That it is essential to make LeMU safe for everyone.」%K%P
+Park Staff「That it is essential to make LeMU safe for everyone.」%K%P
 0xF38
 係員「皆さんは、これから海の中へと潜って行くわけですが……」%K%P
-Park staff「Okay, everyone, we are now going to enter the ocean...」%K%P
+Park Staff「Okay, everyone, we are now going to enter the ocean...」%K%P
 0xF44
 係員「ここで、ちょっぴり不安に思われている方も、中にはいらっしゃるのではないでしょうか？」%K%P
-Park staff「Are any of you here feeling just a little bit nervous?」%K%P
+Park Staff「Are any of you here feeling just a little bit nervous?」%K%P
 0xF50
 係員「海水が漏れて中に入って来たらどうするんだ、とか、水圧に押し潰されて沈没してしまうんじゃないか、とか」%K%P
-Park staff「You might be worrying about what would happen if seawater started leaking inside, or that you might be crushed by the water pressure, or us sinking.」%K%P
+Park Staff「You might be worrying about what would happen if seawater started leaking inside, or that you might be crushed by the water pressure, or us sinking.」%K%P
 0xF5C
 係員「しかし、どうか御安心ください。そのような心配は一切御無用です」%K%P
-Park staff「However, please relax. There is nothing to worry about.」%K%P
+Park Staff「However, please relax. There is nothing to worry about.」%K%P
 0xF68
 係員「内部の気圧を高めているので、このＬｅＭＵが水圧によって押し潰されることは絶対にあり得ないのです」%K%P
-Park staff「There is absolutely no way that LeMU could be crushed by the outside water pressure because we have raised the air pressure inside.」%K%P
+Park Staff「There is absolutely no way that LeMU could be crushed by the outside water pressure because we have raised the air pressure inside.」%K%P
 0xF84
 係員「ところで、この加圧室に入る前に、皆さんにイヤホンのようなものをお配りしましたよね？」%K%P
-Park staff「By the way, before we entered this pressurization chamber, we handed out earphones to everyone, remember?」%K%P
+Park Staff「By the way, before we entered this pressurization chamber, we handed out earphones to everyone, remember?」%K%P
 0xF90
 係員「はい、そうです。今、皆さんが耳に装着されている、そのイヤホンです」%K%P
-Park staff「Yes, that's right, the earphones that everyone is using right now.」%K%P
+Park Staff「Yes, that's right, the earphones that everyone is using right now.」%K%P
 0xFA4
 係員「これはただのイヤホンではなく『音声変換機』と言います」%K%P
-Park staff「These are not your average earphones. They are 'voice alternators'.」%K%P
+Park Staff「These are not your average earphones. They are 'voice alternators'.」%K%P
 0xFB0
 係員「ＬｅＭＵの中にはヘリウムガスが充満しているので、この変換機を耳につけていないと、アヒルのような声に聞こえてしまうのです」%K%P
-Park staff「LeMU is pumped full of helium gas, so without these in your ears, you'll sound like a duck.」%K%P
+Park Staff「LeMU is pumped full of helium gas, so without these in your ears, you'll sound like a duck.」%K%P
 0xFBC
 彼は、試しに音声変換機を外してみた。%K%P
 He removed his voice alternators to see what would happen.%K%P
@@ -735,16 +735,16 @@ Takeshi「That's enough. I can't take any more of this. Thanks.」%K%P
 He put the voice alternators back in his ears and looked back at the staff member again.%K%P
 0x11A8
 係員「さあ、説明はこれで終わりです」%K%P
-Park staff「And that pretty much covers it.」%K%P
+Park Staff「And that pretty much covers it.」%K%P
 0x11B4
 係員「あと１分程で、この部屋の脇にあるドアが開きます」%K%P
-Park staff「In approximately one minute, the door on this side of the room will open.」%K%P
+Park Staff「In approximately one minute, the door on this side of the room will open.」%K%P
 0x11C0
 係員「ドアの向こうはエレベーターになっていますので、下降すれば、その先には素晴らしい楽園が広がっています」%K%P
-Park staff「On the other side of that door is an elevator, and at the bottom of it, a brilliant paradise awaits.」%K%P
+Park Staff「On the other side of that door is an elevator, and at the bottom of it, a brilliant paradise awaits.」%K%P
 0x11CC
 係員「それでは、海洋テーマパーク『ＬｅＭＵ』を、心ゆくまでお楽しみください」%K%P
-Park staff「We hope that you enjoy yourself to your heart's content here at the marine theme park LeMU.」%K%P
+Park Staff「We hope that you enjoy yourself to your heart's content here at the marine theme park LeMU.」%K%P
 0x11E0
 武「さて、それじゃ行くか……」%K%P
 Takeshi「Well, shall we go...?」%K%P
