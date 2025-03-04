@@ -1698,16 +1698,16 @@ Saying that, Sora touched the holographic image above the table.%K%P
 Then she said...%K%P
 0x2D08
 『１２時４５分――突然、ＬｅＭＵ内が停電に見舞われた。原因は不明』%K%P
-'12:45 p.m.―LeMU was suddenly struck by a blackout. The cause is unclear.'%K%P
+「12:45 p.m.―LeMU was suddenly struck by a blackout. The cause is unclear.」%K%P
 0x2D14
 『その直後、緊急避難警報が発令。……こちらも、原因はわからない』%K%P
-'Immediately after that, an emergency evacuation order was issued... The cause of this was unclear as well.'%K%P
+「Immediately after that, an emergency evacuation order was issued... The cause of this was unclear as well.」%K%P
 0x2D20
 『いずれにせよ、これをキッカケにして、ＬｅＭＵ内のすべての来場者、職員の避難が開始されることになった』%K%P
-'In any case, the evacuation of LeMU by visitors and employees was initiated at this point.'%K%P
+「In any case, the evacuation of LeMU by visitors and employees was initiated at this point.」%K%P
 0x2D2C
 『１２時５４分――緊急気密扉、開放』%K%P
-'12:54 p.m.―The emergency doors were activated.'%K%P
+「12:54 p.m.―The emergency doors were activated.」%K%P
 0x2D40
 少年「キンキュウキミツヒ、って？」%K%P
 Kid「What does that mean?」%K%P
@@ -1785,10 +1785,10 @@ Sora「Accordingly, the roughly six atmosphere mixture of gas inside was suddenl
 Sora continued her explanation.%K%P
 0x2EE8
 『１４時３９分――ヘリウムガスは、酸素・窒素よりも軽い為、先に放出され……やがて内部圧は、外気と同じ１気圧にまで低下した』%K%P
-'2:39 p.m.―Helium, since it is lighter than oxygen and nitrogen, was released first... and internal pressure dropped to the equivalent of the external pressure of one atmosphere.'%K%P
+「2:39 p.m.―Helium, since it is lighter than oxygen and nitrogen, was released first... and internal pressure dropped to the equivalent of the external pressure of one atmosphere.」%K%P
 0x2EF4
 『１５時５５分――浸水事故発生』%K%P
-'3:55 p.m.―Water leak occurs.'%K%P
+「3:55 p.m.―Water leak occurs.」%K%P
 0x2F24
 空「もともとＬｅＭＵは、飽和潜水仕様の設計をもとにして建造された構造物であり……」%K%P
 Sora「LeMU is a structure designed based upon saturation diving specifications...」%K%P

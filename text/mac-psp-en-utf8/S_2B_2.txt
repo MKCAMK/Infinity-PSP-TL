@@ -9,13 +9,13 @@ The room was covered in a massive web of pipes.%K%P
 The pipes continued into the adjacent generator room. It seemed that by opening and closing the valves, the water and oil pressure could be adjusted.%K%P
 0xBC
 『通常、発電室のコンディションを保っているのはレミなのだが、さすがのレミと言えども、発電機自体が故障してしまったらどうすることもできない』%K%P
-'Normally, LeMMIH is responsible for maintaining the generator room, but even it can't do much when the generator itself goes out.'%K%P
+「Normally, LeMMIH is responsible for maintaining the generator room, but even it can't do much when the generator itself goes out.」%K%P
 0xC8
 『何しろ、電力が供給されなくなってしまうのだから』%K%P
-'Anyhow, this is all because the power supply is down.'%K%P
+「Anyhow, this is all because the power supply is down.」%K%P
 0xD4
 『そこで、停電になったときでも、発電室のメンテナンスを手動で行なうことができるよう、この部屋は設けられたのだろう』%K%P
-'This room is designed so that maintenance can be performed manually at times like this, or during blackouts.'%K%P
+「This room is designed so that maintenance can be performed manually at times like this, or during blackouts.」%K%P
 0xFC
 ……という話を、ぼくは優から聞いた。%K%P
 ...That was what You told me.%K%P

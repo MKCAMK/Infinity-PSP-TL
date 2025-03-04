@@ -246,10 +246,10 @@ Printed on the label was 'Mermaid Tears'.%K%P
 I looked at the bottom of the bottle. There was a round stamp on it.%K%P
 0x4D0
 『名称：キャンディ』%K%P
-'Contents: Candy'%K%P
+「Contents: Candy」%K%P
 0x4DC
 『原材料名：砂糖、水飴、酸味料、香料』%K%P
-'Ingredients: sugar, corn syrup, acidifier, flavoring'%K%P
+「Ingredients: sugar, corn syrup, acidifier, flavoring」%K%P
 0x4E8
 振ってみた。シャカシャカと音がした。%K%P
 I shook the bottle. I heard a dry, crisp sound.%K%P

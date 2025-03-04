@@ -528,7 +528,7 @@ Before going to the conference room, I peeked into the control room.%K%P
 The bio scan figure was eating at my mind.%K%P
 0xAF8
 『生体反応：５』%K%P
-'Life readings: 5'%K%P
+「Life readings: 5」%K%P
 0xB04
 数字は『６』から『５』に変わっていた。%K%P
 The number had dropped from six to five.%K%P
@@ -561,7 +561,7 @@ No one else had seen the girl.%K%P
 Then I remembered the bio scan figure.%K%P
 0xC48
 ――『７』%K%P
-'7'%K%P
+「7」%K%P
 0xC54
 あの少女こそ、７番目の人物だったんじゃないのか？%K%P
 That girl was probably person number seven.%K%P
@@ -891,7 +891,7 @@ Before going to the conference room, I peeked into the control room.%K%P
 The bio scan figure was eating at my mind.%K%P
 0x14F4
 『生体反応：５』%K%P
-'Life readings: 5'%K%P
+「Life readings: 5」%K%P
 0x1500
 数字は『６』から『５』に変わっていた。%K%P
 The number had dropped from six to five.%K%P
@@ -924,7 +924,7 @@ No one else had seen the girl.%K%P
 Then I remembered the bio scan figure.%K%P
 0x1634
 ――『７』%K%P
-'7'%K%P
+「7」%K%P
 0x1640
 あの少女こそ、７番目の人物だったんじゃないのか？%K%P
 That girl was probably person number seven.%K%P

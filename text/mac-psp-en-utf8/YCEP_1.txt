@@ -243,7 +243,7 @@ I could see the three of them through the window.%K%P
 Takeshi was on the deck over by the railing, talking to the two kids.%K%P
 0x5C4
 『意味の無い質問には答えない』%K%P
-'I don't answer meaningless questions.'%K%P
+「I don't answer meaningless questions.」%K%P
 0x5D0
 そうね……。%K%P
 Yes...%K%P
@@ -498,7 +498,7 @@ Sara「Tanaka―Yubiseiharukana-san, right?」%K%P
 Doctor Tanaka nodded slightly.%K%P
 0xB40
 ホクト「大丈夫って、どういうことなの？」%K%P
-Hokuto「What do you mean, we'll be alright?"」%K%P
+Hokuto「What do you mean, we'll be alright?」%K%P
 0xB4C
 お兄ちゃんが田中先生に尋ねる。%K%P
 Hokuto asked Doctor Tanaka.%K%P
@@ -516,10 +516,10 @@ He opened it up.%K%P
 I nestled up against his shoulder and looked at the front page headline.%K%P
 0xBE4
 『ライプリヒ製薬、ティーフブラウ・ウイルス蔓延に関与か！？』%K%N
-'Leiblich Pharmaceuticals, responsible for outbreak of Tief Blau virus!?'%K%N
+「Leiblich Pharmaceuticals, responsible for outbreak of Tief Blau virus!?」%K%N
 0xBF0
 『一両日中にも強制捜査へ』%K%O
-'Compulsory investigation to begin in a day or two.'%K%O
+「Compulsory investigation to begin in a day or two.」%K%O
 0xC08
 ２０１７年から数年間にかけて世界中で猛威を振るったティーフブラウ・ウイルス（以下ＴＢ）が、%K%N
 It was learned that the Tief Blau virus (TB), which has ravaged the world since 2017,%K%N
@@ -780,13 +780,13 @@ They threatened my father, telling him, Should you escape from here, your wife a
 And to my mother, Yukie, Leiblich said...%K%P
 0x11D8
 『旦那様は、不慮の事故により行方不明となられています。%K%P
-'Your husband is missing after a tragic accident.'%K%P
+「Your husband is missing after a tragic accident.」%K%P
 0x11E4
 　ＬｅＭＵ建造の様子を視察に来られた際、あやまって足を踏みはずし、海へと転落されたようです。%K%P
-'When making his rounds on the LeMU premises, he slipped and fell into the ocean.'%K%P
+「When making his rounds on the LeMU premises, he slipped and fell into the ocean.」%K%P
 0x11F0
 　現在、海中をくまなく捜索しておりますが、依然として発見の報告はされておりません』……そのように告げた。%K%P
-'We are doing everything we can to search the surrounding waters, but his remains still have not been located.'%K%P
+「We are doing everything we can to search the surrounding waters, but his remains still have not been located.」%K%P
 0x11FC
 母はライプリヒの言葉を信じた。%K%P
 My mother believed them.%K%P
@@ -1137,7 +1137,7 @@ Hokuto「Well, because I want to study more about the third eye.」%K%P
 You was silent.%K%P
 0x1998
 『はあ！？　あんたバカじゃないの！？　第３視点なんてものはねぇ、この世に存在しないのよ！』%K%P
-'Huh!? What are you, stupid!? There's no such thing as the third eye!'%K%P
+「Huh!? What are you, stupid!? There's no such thing as the third eye!」%K%P
 0x19A4
 てっきりそんなふうに反論されるもんだとばっかり思っていたから、ぼくはちょっと拍子抜けした。%K%P
 I thought for sure that she would come back with something like that, so I was caught off guard by her reply.%K%P
@@ -1293,7 +1293,7 @@ Hokuto「Because I'm crazy about you.」%K%P
 
 0x1C98
 『なぜなら俺は、彼女のことが、好きだったから――』%K%P
-'Because I loved her―'%K%P
+「Because I loved her―」%K%P
 0x1CA4
 ２０１７年……俺はまだ１５歳だった。%K%P
 It was 2017... I was still fifteen.%K%P
@@ -1368,10 +1368,10 @@ At the same time, I thought, 'I've got to go save her!' and ran outside without 
 You caught up with me and started telling me things about the third eye, the fourth dimension, the past and future, but none of it made sense.%K%P
 0x1DC4
 『今から１７年後、きみは倉成武となって、再びＬｅＭＵに潜らなければならないの』%K%P
-'Seventeen years from now, you have to go back to LeMU. You'll return as Kuranari Takeshi.'%K%P
+「Seventeen years from now, you have to go back to LeMU. You'll return as Kuranari Takeshi.」%K%P
 0x1DD0
 『ブリックヴィンケルをだまし、錯覚させ、私達の世界へと降臨させなければ、閉じ込められたココも倉成も助からないのよ』%K%P
-'Unless we can trick Blick Winkel, wake him up, and bring him to our world, we'll never save Coco and Kuranari.'%K%P
+「Unless we can trick Blick Winkel, wake him up, and bring him to our world, we'll never save Coco and Kuranari.」%K%P
 0x1DDC
 『だからお願い……協力して？』――優はそう言った。%K%P
 'So please... help me?'―That was what You asked of me.%K%P
@@ -1401,7 +1401,7 @@ Still, there was Takeshi to consider as well.%K%P
 I respected him greatly.%K%P
 0x1E48
 『愛する女を守る為なら、自らの命さえかえりみない勇敢な男』%K%P
-'He was brave enough to sacrifice his life to save the woman that he loved.'%K%P
+「He was brave enough to sacrifice his life to save the woman that he loved.」%K%P
 0x1E54
 １５歳だった俺は、理想の男性像として武の姿を思い浮かべ、憧れていたのだ。%K%P
 For a fifteen-year-old like me, Takeshi was a role model.%K%P
@@ -1428,7 +1428,7 @@ Just six days... Coco and I had only spent six days together.%K%P
 But in those seventeen years, not a moment went by that I didn't think about her.%K%P
 0x1EB4
 『なぜなら俺は、彼女のことが、好きだったから――』%K%P
-'Because I loved her―'%K%P
+「Because I loved her―」%K%P
 0x1EC0
 それが、俺がみんなをだまし続けてきた唯一の理由だ。%K%P
 That was the only reason I had been able to fool everyone.%K%P
@@ -2097,10 +2097,10 @@ I wave my arms wildly.%K%P
 Hoping... Praying...%K%P
 0x2E4C
 『どうかこの想いが、お兄ちゃんに届きますように……』%K%P
-'Please let my thoughts reach my onii-chan...'%K%P
+「Please let my thoughts reach my onii-chan...」%K%P
 0x2E58
 『そして再び、お兄ちゃんにめぐり逢うときが、おとずれますように……』%K%P
-'And please, let me meet with him again someday...'%K%P
+「And please, let me meet with him again someday...」%K%P
 0x2E64
 今――。%K%P
 Now―%K%P

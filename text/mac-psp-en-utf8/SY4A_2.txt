@@ -24,7 +24,7 @@ Tap!%K%P
 Beeeeeeeep!%K%P
 0x120
 『アクセス不可／現在この名前ではログインできません』%K%P
-'Access denied. Cannot log in with the given name at this time.'%K%P
+「Access denied. Cannot log in with the given name at this time.」%K%P
 0x12C
 まだ、例のプロテクトは解除されていないようだった。%K%P
 It seemed like she still couldn't get past the security.%K%P
@@ -723,16 +723,16 @@ You「It's that tough, huh?」%K%P
 Sara nodded.%K%P
 0xF90
 『……普通、この系統のＯＳのソフトは、Ｃで組んであるだけだから……』%K%P
-'...Normally this kind of OS software is put together using C...'%K%P
+「...Normally this kind of OS software is put together using C...」%K%P
 0xF9C
 『……そこを狙ってＤｏＳ攻撃をかけてやれば……』%K%P
-'...So, I tried to attack it using DoS...'%K%P
+「...So, I tried to attack it using DoS...」%K%P
 0xFA8
 『……だけど、どれも改良が加えられていて……』%K%P
-'...But it's been reinforced...'%K%P
+「...But it's been reinforced...」%K%P
 0xFB4
 『……なかなかセキュリティホールが見つからない……』%K%P
-'...I'm having trouble finding a hole in the security...'%K%P
+「...I'm having trouble finding a hole in the security...」%K%P
 0xFC0
 そんな宇宙語的な会話が（ほとんど沙羅主体で）繰り広げられる。%K%P
 The conversation (mostly Sara talking) might as well have been in some alien language.%K%P

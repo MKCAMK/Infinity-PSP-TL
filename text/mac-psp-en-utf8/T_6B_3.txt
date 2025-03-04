@@ -354,7 +354,7 @@ Other than that, we came across some interesting information by accident.%K%N
 In the corner of a business log...%K%N
 0x6E4
 『ＩＢＦ来館ゲスト登録：八神ココ』%K%N
-'IBF Visitor Registry: Yagami Coco'%K%N
+「IBF Visitor Registry: Yagami Coco」%K%N
 0x6F0
 ココの名前が記されていたのだ……。%K%N
 Coco's name had been listed...%K%N
@@ -363,25 +363,25 @@ Coco's name had been listed...%K%N
 Looking further into the file, there seemed to be a personal memo written by somebody.%K%O
 0x714
 『久し振りに娘に会う』%K%N
-'I get to see my daughter for the first time in a while.'%K%N
+「I get to see my daughter for the first time in a while.」%K%N
 0x720
 『娘の学校はこの連休絡みで、１０日間ほど休みらしい』%K%N
-'Her school is on vacation, so she has a ten-day break.'%K%N
+「Her school is on vacation, so she has a ten-day break.」%K%N
 0x72C
 『私は随分長いことウイルス研究でここに缶詰になっているから、うらやましい話ではある……』%K%O
-'I've been trapped for so long in this tin can doing virus research that I'm jealous...'%K%O
+「I've been trapped for so long in this tin can doing virus research that I'm jealous...」%K%O
 0x744
 『さておき、ＩＢＦの見学許可が特別に下りたと伝えたら、すぐに行くからと明るい返事がかえってきた』%K%N
-'That aside, when I told her that special permission had been granted for her to come down and see IBF, she sent me a happy reply saying she would.'%K%N
+「That aside, when I told her that special permission had been granted for her to come down and see IBF, she sent me a happy reply saying she would.」%K%N
 0x750
 『メールは度々交換していると思うが、顔を合わせるのは何ヶ月振りだろう？』%K%N
-'We've exchanged mail every once in a while, but I wonder how long it's been since we've actually seen each other?'%K%N
+「We've exchanged mail every once in a while, but I wonder how long it's been since we've actually seen each other?」%K%N
 0x75C
 『父親の顔を忘れていなければいいのだが』%K%N
-'I'll just be happy if she hasn't forgotten what I look like.'%K%N
+「I'll just be happy if she hasn't forgotten what I look like.」%K%N
 0x768
 『Ｔ．Ｙ』%K%O
-'T.Y.'%K%O
+「T.Y.」%K%O
 0x780
 Ｔ．Ｙ……恐らく、八神氏のイニシャルだろう。%K%N
 T.Y.... I thought they were probably the initials of Doctor Yagami, Coco's dad.%K%N

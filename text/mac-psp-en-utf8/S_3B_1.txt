@@ -522,7 +522,7 @@ From her fingertips, a password was entered into the input field.%K%P
 Tap, tap, tap...%K%P
 0xAA8
 『＊%T010＊%T005＊%T020＊%T004＊%T005＊%T015＊%T003＊』%K%P
-'*%T010*%T005*%T020*%T004*%T005*%T015*%T003*'%K%P
+「*%T010*%T005*%T020*%T004*%T005*%T015*%T003*」%K%P
 0xAB4
 打ち込まれた文字は、第３者に知られないように、画面上では『＊』で表示されるとのことだ。%K%P
 The digits she typed in were blocked out by '*' so that anybody watching wouldn't know what the word was.%K%P
@@ -537,7 +537,7 @@ You finished her input and hit the Enter key.%K%P
 Beeeeeeeep!%K%P
 0xB1C
 『アクセス不可／名前またはパスワードが違います』%K%P
-'Access denied. Invalid name or password.'%K%P
+「Access denied. Invalid name or password.」%K%P
 0xB28
 だが優は、すかさず別の文字列の入力にシフトする。%K%P
 But You immediately tapped in another line of letters.%K%P
@@ -546,7 +546,7 @@ But You immediately tapped in another line of letters.%K%P
 Tap, tap, tap...%K%P
 0xB5C
 『＊%T015＊%T005＊%T020＊%T015＊%T005＊%T003＊%T010＊』%K%P
-'*%T015*%T005*%T020*%T015*%T005*%T003*%T010*'%K%P
+「*%T015*%T005*%T020*%T015*%T005*%T003*%T010*」%K%P
 0xB84
 カタッ！%K%P
 Tap!%K%P
@@ -555,7 +555,7 @@ Tap!%K%P
 Beeeeeeeep!%K%P
 0xBB8
 『アクセス不可／名前またはパスワードが違います』%K%P
-'Access denied. Invalid name or password.'%K%P
+「Access denied. Invalid name or password.」%K%P
 0xBE0
 カタカタカタ……。%K%P
 Tap, tap, tap...%K%P
@@ -1140,7 +1140,7 @@ In the end, she hadn't found any new clues.%K%P
 Actually, she hadn't even gotten past the authorization screen.%K%P
 0x1804
 『アクセス不可／名前またはパスワードが違います』%K%P
-'Access denied. Invalid name or password.'%K%P
+「Access denied. Invalid name or password.」%K%P
 0x1810
 幾度となく表示された、そのメッセージは今も画面の中央に点っていた。%K%P
 That message had been displayed again and again. It still sat in the middle of the screen.%K%P
@@ -1431,7 +1431,7 @@ I was obsessed with solving the puzzle we had found.%K%P
 It was frustrating.%K%P
 0x1EA4
 『大事なことを忘れてるのは、どっちなの？』%K%P
-'Now who's forgetting the important things?'%K%P
+「Now who's forgetting the important things?」%K%P
 0x1EB0
 ……あんなことを言われて。%K%P
 ...What could I say to that?%K%P
@@ -1890,7 +1890,7 @@ Tap!%K%P
 Beeeeeeeep!%K%P
 0x28F4
 『アクセス不可／名前またはパスワードが違います』%K%P
-'Access denied. Invalid name or password.'%K%P
+「Access denied. Invalid name or password.」%K%P
 0x2900
 しかしそれでも、Ｃレベルには侵入することができないのだった。%K%P
 But she still couldn't get into the C Level information.%K%P
@@ -1932,7 +1932,7 @@ Tap, tap, tap...%K%P
 Beeeeeeeep!%K%P
 0x2A0C
 『アクセス不可／名前またはパスワードが違います』%K%P
-'Access denied. Invalid name or password.'%K%P
+「Access denied. Invalid name or password.」%K%P
 0x2A18
 しかし、なかなか思うようにはいかないらしい。%K%P
 Things just didn't seem to want to go our way.%K%P
@@ -2019,7 +2019,7 @@ Tap!%K%P
 Beeeeeeeep!%K%P
 0x2CBC
 『アクセス不可／現在この名前ではログインできません』%K%P
-'Access denied. Cannot log in with the given name at this time.'%K%P
+「Access denied. Cannot log in with the given name at this time.」%K%P
 0x2CC8
 優「ええっ！　なにそれ〜っ！？」%K%P
 You「What!? What is this!?」%K%P

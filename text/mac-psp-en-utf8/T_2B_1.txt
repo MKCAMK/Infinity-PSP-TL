@@ -630,13 +630,13 @@ I wiped my sweat away with my collar.%K%P
 It was just like Tsugumi had said. The blackout had been caused when the safety valve had opened due to the drop in air pressure.%K%P
 0xEB8
 『水蒸気の圧力が過剰に増加した場合、バルブが自動的に開いてガス抜きを行い、破裂損傷を防止する』%K%P
-'When pressure from the steam becomes excessive, the valve automatically opens to release the gas and prevent damage.'%K%P
+「When pressure from the steam becomes excessive, the valve automatically opens to release the gas and prevent damage.」%K%P
 0xEC4
 『通常は、余分な蒸気を排出した後、バルブは自然に閉じるような仕組みになっているのだが……何しろ、室内は１気圧だ』%K%P
-'Normally, after a release of surplus gas, the valve is designed to shut automatically... but we're at one atmosphere, so...'%K%P
+「Normally, after a release of surplus gas, the valve is designed to shut automatically... but we're at one atmosphere, so...」%K%P
 0xED0
 『安全バルブは閉鎖されずに、いつまで経っても蒸気が漏れ続けた』%K%P
-'Because the safety valve never closed, the steam continued leaking.'%K%P
+「Because the safety valve never closed, the steam continued leaking.」%K%P
 0xEDC
 ……どうやら、そういうことらしい。%K%P
 ...Anyway, that was the gist of the explanation.%K%P

@@ -225,25 +225,25 @@ Kid「Because she was conducting research in the name of Lemuria?」%K%P
 You「Yeah. So my mom wanted to study the third eye, pretended there was a connection with Lemuria, and wrote about it.」%K%P
 0x548
 『ある説によると、レムリア人は大猿のような体格、４メートル前後の身長を有し……』%K%P
-'One theory has it that the people of Lemuria were giant apes that were four meters tall...'%K%P
+「One theory has it that the people of Lemuria were giant apes that were four meters tall...」%K%P
 0x554
 『褐色の肌を持ち、雌雄の違いが無く卵を産み、テレパシーによって意思の疎通をしていた、とされている』%K%P
-'They had walnut-colored skin, there were no differences between males and females, they laid eggs, and they communicated via telepathy.'%K%P
+「They had walnut-colored skin, there were no differences between males and females, they laid eggs, and they communicated via telepathy.」%K%P
 0x560
 『そして、後頭部には第３の眼を持っていたらしい』%K%P
-'And they had a third eye in the back of their heads.'%K%P
+「And they had a third eye in the back of their heads.」%K%P
 0x56C
 『テレパシー、第３の眼……これは『第３視点』にも通ずるところがある』%K%P
-'Telepathy and the third eye... This has something to do with the third perspective.'%K%P
+「Telepathy and the third eye... This has something to do with the third perspective.」%K%P
 0x578
 『かつて脊椎動物の祖先は３眼体制の生物だったことからも……』%K%P
-'Drawing on the idea that our vertebrate predecessors had three eyes...'%K%P
+「Drawing on the idea that our vertebrate predecessors had three eyes...」%K%P
 0x584
 『あるいは古代人――特にレムリア人とは、まるで息をするように、かの能力を使いこなせた人種だったのかもしれない』%K%P
-'So the ancients―especially the Lemurians―may well have been races that mastered the use of this power.'%K%P
+「So the ancients―especially the Lemurians―may well have been races that mastered the use of this power.」%K%P
 0x590
 『以上のことから推測するに……』%K%P
-'And based on the facts discovered, I conclude...'%K%P
+「And based on the facts discovered, I conclude...」%K%P
 0x59C
 優「『第３視点のルーツはレムリアにある』、と」%K%P
 You「'That the origin of the third eye is Lemuria.'」%K%P

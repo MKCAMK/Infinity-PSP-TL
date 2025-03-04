@@ -681,7 +681,7 @@ If so...%K%P
 No matter whether LeMU was crushed or not, she'd still be okay...%K%P
 0xEC8
 『そうだ、倉成さん。ここから脱出できたら、まず何がしたいですか？』%K%P
-'Tell me, Kuranari-san, after you escape from here, what's the first thing you want to do?'%K%P
+「Tell me, Kuranari-san, after you escape from here, what's the first thing you want to do?」%K%P
 0xED4
 …………。%K%P
 .........%K%P
@@ -690,10 +690,10 @@ No matter whether LeMU was crushed or not, she'd still be okay...%K%P
 Were her words just a flimsy attempt at compassion?%K%P
 0xEEC
 『人が生きるということに、改めて触れている気がしているんです』%K%P
-'I feel like I've gained a new perspective on human life.'%K%P
+「I feel like I've gained a new perspective on human life.」%K%P
 0xEF8
 『みんな、明日を信じて、生きてるんですよね……』%K%P
-'Come on, everybody! Believe in tomorrow so you can live today...'%K%P
+「Come on, everybody! Believe in tomorrow so you can live today...」%K%P
 0xF04
 すべてただの、プログラムされた言葉だと……。%K%P
 Were those words just robotic, programmed phrases...?%K%P

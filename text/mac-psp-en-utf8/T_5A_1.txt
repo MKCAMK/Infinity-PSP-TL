@@ -219,43 +219,43 @@ The screen read 'Periodic Maintenance in Progress.'%K%P
 The message continued.%K%P
 0x618
 『ＬｅＭＭＩＨ：全システム定期メンテナンスプログラムが作動しています』%K%P
-'LeMMIH: Full system periodic maintenance program in operation.'%K%P
+「LeMMIH: Full system periodic maintenance program in operation.」%K%P
 0x624
 『終了するまでは、レミの一部機能の呼び出しができません』%K%P
-'Until completion, portions of LeMMIH functions are inaccessible.'%K%P
+「Until completion, portions of LeMMIH functions are inaccessible.」%K%P
 0x630
 『メンテナンス終了時刻は、午前６時を予定しています』%K%P
-'Estimated completion time: 6 a.m.'%K%P
+「Estimated completion time: 6 a.m.」%K%P
 0x63C
 『その間、全館の自動管制システムは半休止していますが、各施設・アトラクション等の使用は通常どおり可能です』%K%P
-'While under maintenance, automatic control systems throughout the compound will be partially offline. However, facilities and attractions will operate normally.'%K%P
+「While under maintenance, automatic control systems throughout the compound will be partially offline. However, facilities and attractions will operate normally.」%K%P
 0x648
 『しかし各種センサー、状態記録システムはメンテナンス中に動作状態チェックを行う為、正常に機能していません』%K%P
-'Note: Since all sensors and recording systems operations will be checked during maintenance, function may be erratic.'%K%P
+「Note: Since all sensors and recording systems operations will be checked during maintenance, function may be erratic.」%K%P
 0x654
 『よって端末からのデータ参照は、現在不可能となっています』%K%P
-'Therefore, it will not be possible to access data through the terminals.'%K%P
+「Therefore, it will not be possible to access data through the terminals.」%K%P
 0x660
 『緊急時に限りメンテナンスを強制中断することはできますが、その後のレミの状態が不安定になってしまう危険があり……』%K%P
-'WARNING: This maintenance program should not be aborted except in cases of emergency. If aborted, there is the danger of making the LeMMIH system unstable...'%K%P
+「WARNING: This maintenance program should not be aborted except in cases of emergency. If aborted, there is the danger of making the LeMMIH system unstable...」%K%P
 0x66C
 『……ですので、どうかメンテナンス終了まではレミへのアクセスを控えてください』%K%P
-'...Therefore, please refrain from accessing LeMMIH until after maintenance completion.'%K%P
+「...Therefore, please refrain from accessing LeMMIH until after maintenance completion.」%K%P
 0x678
 『以上、宜しくお願いします』%K%P
-'Thank you for your cooperation.'%K%P
+「Thank you for your cooperation.」%K%P
 0x684
 『追伸：――』%K%P
-'Additional note:'%K%P
+「Additional note:」%K%P
 0x690
 『メンテ終了まで、私も現れることができません。皆さん同様、夜の間眠っていることになりますね』%K%P
-'Until the maintenance completes, I will be unavailable. Everybody should be asleep at this time anyway, right?'%K%P
+「Until the maintenance completes, I will be unavailable. Everybody should be asleep at this time anyway, right?」%K%P
 0x69C
 『夕食のときに皆さんにお伝えしたはずですが、もしお忘れになっている方がいらっしゃるといけないので……』%K%P
-'I informed everyone about this operation at dinnertime, but in case any of you forgot what I said, I am leaving this message...'%K%P
+「I informed everyone about this operation at dinnertime, but in case any of you forgot what I said, I am leaving this message...」%K%P
 0x6A8
 『それでは、おやすみなさい。――茜ヶ崎空』%K%P
-'That is all, good night.―Akanegasaki Sora'%K%P
+「That is all, good night.―Akanegasaki Sora」%K%P
 0x6BC
 （はあぁ……）%K%P
 (Well, how about that?)%K%P

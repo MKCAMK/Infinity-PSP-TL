@@ -1011,13 +1011,13 @@ Sara「And there doesn't seem to be anyone around...」%K%P
 While we walked, You brought Sara up to speed with the situation.%K%P
 0x18BC
 『優がＬｅＭＵでバイトしていること』%K%P
-'You was working at LeMU on a part-time basis.'%K%P
+「You was working at LeMU on a part-time basis.」%K%P
 0x18C8
 『ぼくが売店で倒れたこと』%K%P
-'I collapsed at the kiosk.'%K%P
+「I collapsed at the kiosk.」%K%P
 0x18D4
 『警報が発令され、ＬｅＭＵの中から誰もいなくなり、浸水が始まったこと』%K%P
-'The warning alarm sounded, everyone disappeared from LeMU, and the flooding started.'%K%P
+「The warning alarm sounded, everyone disappeared from LeMU, and the flooding started.」%K%P
 0x18E0
 沙羅は唖然とし、優の話に聞き入っていた。%K%P
 Stunned, Sara listened to You.%K%P
@@ -1356,13 +1356,13 @@ Sara「And there doesn't seem to be anyone around...」%K%P
 While we walked, You brought Sara up to speed with the situation.%K%P
 0x2134
 『優がＬｅＭＵでバイトしていること』%K%P
-'You was working at LeMU on a part-time basis.'%K%P
+「You was working at LeMU on a part-time basis.」%K%P
 0x2140
 『ぼくが売店で倒れたこと』%K%P
-'I collapsed at the kiosk.'%K%P
+「I collapsed at the kiosk.」%K%P
 0x214C
 『倒れたぼくを救護室に運び込んだこと』%K%P
-'After falling down, I was hauled to the infirmary.'%K%P
+「After falling down, I was hauled to the infirmary.」%K%P
 0x2158
 それらを語り終えてから、優は続けてこんなことを言った。%K%P
 After finishing the story, You went on.%K%P

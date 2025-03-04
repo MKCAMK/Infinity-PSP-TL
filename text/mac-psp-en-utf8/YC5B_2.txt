@@ -915,7 +915,7 @@ An old woman was living there, but Tsugumi couldn't tell whether she lived there
 It was that old woman who helped Tsugumi through the birth.%K%O
 0x12F0
 『玉のようじゃ、玉のようじゃ、よう頑張ったのぉ』%K%N
-'Ooh how precious, so precious... You done a fine job, deary.'%K%N
+「Ooh how precious, so precious... You done a fine job, deary.」%K%N
 0x12FC
 老婆は何度も繰り返しながら、ブリキのタライに湯を張って、ふたりの体を優しく洗った。%K%N
 The old lady repeated that many times as she gently rinsed the babies in a tin basin.%K%N
@@ -930,7 +930,7 @@ Tsugumi's eyes gazed, unfocused, out a nearby window.%K%O
 Snow was falling outside.%K%N
 0x1378
 『ほぉれ、めんこい子じゃあ、ちんちんのついとるのと、ついとらんのがおる、どっちを先に抱くかね？』%K%N
-'How darling... Yes, a precious boy and girl... Which one'll ya hold first?'%K%N
+「How darling... Yes, a precious boy and girl... Which one'll ya hold first?」%K%N
 0x1384
 闇医者の診断から、双子だということはわかっていたけれど、二卵性だということまでは知らなかった。%K%O
 The illegal doctor had told her, so she was expecting twins, but she never imagined that they would be fraternal.%K%O
@@ -939,28 +939,28 @@ The illegal doctor had told her, so she was expecting twins, but she never imagi
 A bit surprised, she said...%K%N
 0x13A8
 『ふたり、一緒に……』%K%N
-'Both at the same time...'%K%N
+「Both at the same time...」%K%N
 0x13B4
 ボロ布にくるまれたふたりの体を、つぐみはそっと懐に抱いた。%K%N
 Wrapped in an old cloth, Tsugumi gently held them to her chest.%K%N
 0x13C0
 『なぁに、心配するでない、布は沸騰した湯で煮たものじゃ、へその緒を切ったハサミも消毒してある』%K%O
-'Not to worry, my deary. I boiled them cloth and the scissors what cut their cord in hot water good, I did.'%K%O
+「Not to worry, my deary. I boiled them cloth and the scissors what cut their cord in hot water good, I did.」%K%O
 0x13D8
 『ありがとう』%K%N
-'Thank you.'%K%N
+「Thank you.」%K%N
 0x13E4
 つぐみは老婆に礼を言った。%K%N
 Tsugumi thanked her.%K%N
 0x13F0
 『ありがとう……ありがとう……』%K%N
-'Thank you... Thank you very much...'%K%N
+「Thank you... Thank you very much...」%K%N
 0x13FC
 無事に生まれて来たふたつの小さな命に、つぐみは感謝した。%K%N
 She gave thanks for the two lives who had been born safely.%K%N
 0x1408
 『ありがとう……』%K%N
-'Thank you...'%K%N
+「Thank you...」%K%N
 0x1414
 最後の言葉は、窓の外の深い闇に向かって告げられたものだった。%K%O
 And those last words were directed toward the deep darkness beyond the window.%K%O
@@ -978,10 +978,10 @@ The two babies pressed to Tsugumi's chest with their eyes closed let out small y
 Soon after she had given birth, Tsugumi's thoughts were turned to the possibility.%K%N
 0x14C8
 『もしもふたりが、私の胎内でキュレイウイルスに感染していたとしたら……』%K%N
-'If they got infected by Curé while they were inside of me...'%K%N
+「If they got infected by Curé while they were inside of me...」%K%N
 0x14D4
 『そして、私と同じように、組替えられたＤＮＡの配列を持っているとしたら……』%K%N
-'And if their DNA was altered just like me...'%K%N
+「And if their DNA was altered just like me...」%K%N
 0x14E0
 つぐみは闇医者のもとへと向かった。%K%O
 Tsugumi visited the illegal doctor.%K%O
@@ -996,58 +996,58 @@ According to taxonomic classification, a pure human would belong to 'Primates An
 Tsugumi, whose genetic information was altered by the Curé virus, was not a pure human anymore, but rather a subspecies of it.%K%O
 0x1548
 便宜上、今ここでは仮に、その亜種を『キュレイ種』と呼ぶことにするならば……%K%N
-'Let's just call you subspecies 'Curé' for now...'%K%N
+「Let's just call you subspecies 'Curé' for now...」%K%N
 0x1554
 『サピエンス種の武』と『キュレイ種のつぐみ』との交配によって生まれた『２人の子供』は、それらのハイブリッド（ハーフ）ということになる。%K%O
-'Now, any kids who were born from 'Takeshi, the Homo Sapiens' and 'Tsugumi, the Curé' would technically be 'hybrids'.'%K%O
+「Now, any kids who were born from 'Takeshi, the Homo Sapiens' and 'Tsugumi, the Curé' would technically be 'hybrids'.」%K%O
 0x156C
 ところで、キュレイウイルスは、純粋な人間、すなわち『ヒト属サピエンス種』にしか感染しないという特徴を持っている。%K%N
-'Now, by the way, I guess I should tell you that the Curé virus only infects pure humans, the 'Homo Sapiens'.'%K%N
+「Now, by the way, I guess I should tell you that the Curé virus only infects pure humans, the 'Homo Sapiens'.」%K%N
 0x1578
 従って『ハイブリッドである２人の子供』には、キュレイウイルスの影響はまったくないと考えられる。%K%N
-'So, there's no way the Curé virus could possibly affect your two 'little hybrids' there.'%K%N
+「So, there's no way the Curé virus could possibly affect your two 'little hybrids' there.」%K%N
 0x1584
 また同時に『テロメアの回復』や『自然治癒力の増大』といったキュレイ種独特の機能は、遺伝的には劣性遺伝することがわかっている。%K%O
-'While not much is known about the Curé virus, some of the unique functions scientists have discovered, such as 'regenerating telomeres' and 'regenerative healing', are inherited recessively.'%K%O
+「While not much is known about the Curé virus, some of the unique functions scientists have discovered, such as 'regenerating telomeres' and 'regenerative healing', are inherited recessively.」%K%O
 0x159C
 血液型で言うと『ＡＡ型の父』と『ＯＯ型の母』との間に生まれた子供は、全員『ＡＯ型』となり、その血液は『Ａ型』の性質を持つことになる。%K%N
-'For blood types, without exception, all children born from a 'type AA father' and a 'type OO mother', for instance, can only be 'type AO,' with a 'type A' predisposition.'%K%N
+「For blood types, without exception, all children born from a 'type AA father' and a 'type OO mother', for instance, can only be 'type AO,' with a 'type A' predisposition.」%K%N
 0x15A8
 なぜなら、Ａ型の因子は優性遺伝し、Ｏ型の因子は劣性遺伝するからだ。%K%N
-'Why? Because type A factors are inherited dominantly, and type O factors are inherited recessively.'%K%N
+「Why? Because type A factors are inherited dominantly, and type O factors are inherited recessively.」%K%N
 0x15B4
 子供の血液型が『Ｏ型』となる為には……%K%O
-'In order for a child's blood type to be 'type O'...'%K%O
+「In order for a child's blood type to be 'type O'...」%K%O
 0x15CC
 『ＡＯ型×ＡＯ型』『ＡＯ型×ＢＯ型』『ＡＯ型×ＯＯ型』『ＢＯ型×ＢＯ型』『ＢＯ型×ＯＯ型』『ＯＯ型×ＯＯ型』……%K%N
-'...You'd have to have a mixture of either 'AO x AO', 'AO x BO', 'AO x OO', 'BO x BO', 'BO x OO', or 'OO x OO'...'%K%N
+「...You'd have to have a mixture of either 'AO x AO', 'AO x BO', 'AO x OO', 'BO x BO', 'BO x OO', or 'OO x OO'...」%K%N
 0x15D8
 ……の、いずれかの組み合わせでなければならない。つまり、両親ともにＯ型の因子を持っている必要があるのだ。%K%N
-'...It can only be one of the above, meaning that BOTH the parents gotta add that type 'O' factor to the genetic milkshake.'%K%N
+「...It can only be one of the above, meaning that BOTH the parents gotta add that type 'O' factor to the genetic milkshake.」%K%N
 0x15E4
 キュレイ種においても同じことが言える。%K%O
-'Same goes for the Curé virus.'%K%O
+「Same goes for the Curé virus.」%K%O
 0x15FC
 『純サピエンス種の父』と『純キュレイ種の母』との間に生まれた子供は……%K%N
-'Any child born from a pureblooded 'Sapiens' and 'Curé' will...'%K%N
+「Any child born from a pureblooded 'Sapiens' and 'Curé' will...」%K%N
 0x1608
 全員『サピエンスキュレイ種』となり、遺伝的に優性な『サピエンス種』の身体的性質を受け継ぐことになる。%K%N
-'...All be 'Sapiens-Curé' and inherit the dominant physical traits of both.'%K%N
+「...All be 'Sapiens-Curé' and inherit the dominant physical traits of both.」%K%N
 0x1614
 生まれた子供が『キュレイ種』となる為には……%K%O
-'For them rugrats to become full-blooded 'Curé'...'%K%O
+「For them rugrats to become full-blooded 'Curé'...」%K%O
 0x162C
 『キュレイ種×キュレイ種』『サピエンスキュレイ種×キュレイ種』『サピエンスキュレイ種×サピエンスキュレイ種』……%K%N
-'...The parents would have be 'Curé x Curé', 'Sapiens Curé x Curé', or 'Sapiens Curé x Sapiens Curé'...'%K%N
+「...The parents would have be 'Curé x Curé', 'Sapiens Curé x Curé', or 'Sapiens Curé x Sapiens Curé'...」%K%N
 0x1638
 ……の、いずれかの組み合わせでなければならない。つまり、両親ともにキュレイ種の因子を持っている必要があるのだ。%K%O
-'...Any of those combinations, meaning that both parents have to be part or all Curé.'%K%O
+「...Any of those combinations, meaning that both parents have to be part or all Curé.」%K%O
 0x1650
 さて、もはや言うまでもなく、２人の子供は『純サピエンス種の父』と『純キュレイ種の母』との間に生まれた子供である。%K%N
-'And since these two little critters were born from a 'pure Sapiens' and 'pure Curé...'%K%N
+「And since these two little critters were born from a 'pure Sapiens' and 'pure Curé...」%K%N
 0x165C
 ゆえに、彼らはハイブリッドとは言え、その肉体の機能は、純粋な人間とほぼ同じであり、不老長寿等のキュレイ種的な特徴は持っていないことになる。%K%O
-'They'll have the same physical traits as a pure human and won't possess the Curé traits like perpetual youth.'%K%O
+「They'll have the same physical traits as a pure human and won't possess the Curé traits like perpetual youth.」%K%O
 0x1674
 『だから、心配することはないんです、わかりましたか？』――闇医者は、つぐみが連れて来たふたりの赤子を抱き上げて、再び高く笑った。%K%N
 'So, you don't have nothing to worry about, alright?' The doctor held up the two babies Tsugumi had brought and laughed again.%K%N
@@ -1107,7 +1107,7 @@ Their life was a peaceful one, and although they were poor, the poverty didn't t
 The three of them were always smiling.%K%O
 0x17B4
 『マンマ……マンマ……』『あ〜あ、ちゃったぁ……ちゃったぁ……』%K%N
-'Momma... Momma...' 'Oh... Chammiii, Chammiii...'%K%N
+「Momma... Momma...' 'Oh... Chammiii, Chammiii...」%K%N
 0x17C0
 今では、ふたりの赤ん坊はそんな言葉を口にするようになっている。%K%N
 They were already beginning to talk.%K%N
@@ -1161,7 +1161,7 @@ It had been two years already.%K%N
 But at the same time, she still hadn't given up hope.%K%N
 0x18E8
 『いいえ、違うわ。彼は生きている。きっとどこかで生きている。だって彼は、約束を破るような人じゃないもの』%K%N
-'No... He must be alive somewhere. He's a man of his word.'%K%N
+「No... He must be alive somewhere. He's a man of his word.」%K%N
 0x18F4
 ――と、そのときだった。%K%O
 ―Just then.%K%O
@@ -1242,10 +1242,10 @@ But no matter how challenging they were, even those days were filled with happin
 At night, all three of them slept together, cuddled up on a thin mattress.%K%N
 0x1AD8
 『マンマ……マンマ……』%K%N
-'Momma... Momma...'%K%N
+「Momma... Momma...」%K%N
 0x1AE4
 『あ〜あ、ちゃったぁ……ちゃったぁ……』%K%N
-'Aaah... Chammiii, Chammmiii...'%K%N
+「Aaah... Chammiii, Chammmiii...」%K%N
 0x1AF0
 むにゃむにゃと寝言をもらしながら、ふたりの幼な子は、母親の温もりを求め甘えてきた。%K%N
 Talking in their sleep, the two babies sought their mother's touch.%K%N
@@ -1284,19 +1284,19 @@ It was obvious to Tsugumi that, eventually, Leiblich would hunt them down.%K%N
 As they continued running, Tsugumi thought to herself.%K%O
 0x1BF0
 『仮に逃げのびることができたとしても、それがこの子達の幸せになるだろうか？』%K%N
-'Even if I could keep escaping, would it really be happiness for the two children?'%K%N
+「Even if I could keep escaping, would it really be happiness for the two children?」%K%N
 0x1BFC
 『もしかしたら、学校にだって行かせてやれないかもしれない』%K%N
-'They wouldn't be able to go to school.'%K%N
+「They wouldn't be able to go to school.」%K%N
 0x1C08
 『街から街へと渡り歩く生活は、この子達にはあまりにも酷だ』%K%N
-'And it would be too hard on them to keep moving from town to town.'%K%N
+「And it would be too hard on them to keep moving from town to town.」%K%N
 0x1C14
 『しかも……もしも捕まってしまったとしたら、ライプリヒがこの子達に何をするかわかったものではない』%K%O
-'Besides... if we ever get caught, what would they do to my children at Leiblich?'%K%O
+「Besides... if we ever get caught, what would they do to my children at Leiblich?」%K%O
 0x1C2C
 『私といては危険だ、あまりにも危険すぎる……』%K%N
-'It's too dangerous for them to be with me...'%K%N
+「It's too dangerous for them to be with me...」%K%N
 0x1C38
 つぐみは決意をかためた。%K%O
 Tsugumi made up her mind.%K%O
@@ -1314,7 +1314,7 @@ Even if Tsugumi had tried to explain, they couldn't have understood.%K%N
 With no other option, she left the pendant she had kept with her, making a wish as she gave it.%K%O
 0x1C8C
 『必ず戻ってくるからね？　迎えに来るからね？』%K%N
-'I will come back for you. I will come to get you, I promise.'%K%N
+「I will come back for you. I will come to get you, I promise.」%K%N
 0x1C98
 状況を呑み込むことのできないふたりの子供達は、ポロポロと涙を流す母親の姿を、寂しそうに、悲しそうに、見つめるだけだった。%K%N
 Being too young to understand the situation, the two children just stared at their mother, crying.%K%N
@@ -1395,7 +1395,7 @@ I had received a phone call before coming to LeMU.%K%P
 Over the phone, a voice had said to me...%K%P
 0x1E8C
 『ＬｅＭＵへ来れば、母親と妹に逢わせてやる』%K%P
-'If you come to LeMU, you can see your mother and sister.'%K%P
+「If you come to LeMU, you can see your mother and sister.」%K%P
 0x1E98
 少年「ああ、そうだ、そうだったんだ……」%K%P
 Kid「Oh, so that was it...」%K%P
@@ -1641,22 +1641,22 @@ He continued on...%K%P
 Without stopping his hands, he also carved some more names...%K%P
 0x2424
 『八神ココ』%K%P
-'Yagami Coco'%K%P
+「Yagami Coco」%K%P
 0x2430
 『田中優美清春香菜』%K%P
-'Tanaka Yubiseiharukana'%K%P
+「Tanaka Yubiseiharukana」%K%P
 0x243C
 『小町つぐみ』%K%P
-'Komachi Tsugumi'%K%P
+「Komachi Tsugumi」%K%P
 0x2448
 『茜ヶ崎空』%K%P
-'Akanegasaki Sora'%K%P
+「Akanegasaki Sora」%K%P
 0x2454
 『倉成武』%K%P
-'Kuranari Takeshi'%K%P
+「Kuranari Takeshi」%K%P
 0x2460
 『ピピ』『チャミ』%K%P
-'Pipi' and 'Chami'%K%P
+「Pipi' and 'Chami」%K%P
 0x2474
 ここに閉じ込められた全員の名前を、桑古木少年は書いたのだ。%K%P
 The young Kaburaki carved the names of everyone who had been confined there.%K%P
@@ -1965,13 +1965,13 @@ I needed to think about that problem first.%K%P
 The problem was...%K%P
 0x2A8C
 『どうしてぼくは、生まれる前の出来事や、別の歴史の流れなんてものを知覚することができるのか？』%K%P
-'How was I able to sense incidents that had taken place before I was born, or in separate time continua?'%K%P
+「How was I able to sense incidents that had taken place before I was born, or in separate time continua?」%K%P
 0x2A98
 そして――。%K%P
 And...%K%P
 0x2AA4
 『なぜ、今、１７年前と同じ事故が、同じ出来事が、発生したのか？』%K%P
-'Why is the same accident as seventeen years earlier taking place again?'%K%P
+「Why is the same accident as seventeen years earlier taking place again?」%K%P
 0x2AB0
 これが偶然であるはずはなかった。%K%P
 It couldn't have been a coincidence.%K%P

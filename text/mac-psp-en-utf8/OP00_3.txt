@@ -249,7 +249,7 @@ Not even his parents had ever even really spanked him before.%K%P
 It had been a totally cheap shot―the tanuki had landed a solid uppercut.%K%P
 0x718
 武「こ、こらぁ〜〜タヌキ〜〜っ！！　お、お前なぁ！！」%K%P
-Takeshi「Y-You damn tanuki! Y-You, little―!"」%K%P
+Takeshi「Y-You damn tanuki! Y-You, little―!」%K%P
 0x724
 タヌキ「…………」%K%P
 Tanuki「...」%K%P
@@ -411,7 +411,7 @@ The staff member disappeared.%K%P
 (I see...)%K%P
 0xAEC
 （あれはタヌキじゃなくて『みゅみゅーん』だったのか）%K%P
-(So that wasn't a tanuki. It was 'Myumyun'.)%K%P
+(So that wasn't a tanuki. It was 「Myumyun」.)%K%P
 0xB20
 結局、何故みゅみゅーんに殴られたのかわからない。%K%P
 He wasn't sure why Myumyun had hauled off and punched him.%K%P
@@ -741,7 +741,7 @@ He had found it.%K%P
 Though he had just been told that it was not, in fact, a tanuki, but Myumyun the lemur, that information had already left his mind.%K%P
 0x126C
 タヌキじゃなくてみゅみゅーんだ、とさっき聞いたばかりだが、彼の頭にはもうなかった。%K%P
-Though he had just been told that it was not, in-fact, a tanuki, but a 'Myumyun' (whatever that was), that information had already left his mind.%K%P
+Though he had just been told that it was not, in-fact, a tanuki, but a 「Myumyun」 (whatever that was), that information had already left his mind.%K%P
 0x1280
 （名前は忘れたが――）%K%P
 (I forgot its name...)%K%P
@@ -1047,7 +1047,7 @@ A woman.%K%P
 No, a girl...%K%P
 0x1AF0
 （いや、『女の子』、だろうな）%K%P
-(Definitely still a 'girl'.)%K%P
+(Definitely still a 「girl」.)%K%P
 0x1AFC
 そう、女の子がひとり、乗っていた。%K%P
 The lone girl was the only other passenger.%K%P

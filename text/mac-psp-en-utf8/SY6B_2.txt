@@ -54,7 +54,7 @@ Kid「But you couldn't get through with that before, right?」%K%P
 You input the password.%K%P
 0x1D0
 『アクセス不可／名前またはパスワードが違います』%K%P
-'Access denied. Invalid name or password.'%K%P
+「Access denied. Invalid name or password.」%K%P
 0x1DC
 少年「ほらね？」%K%P
 Kid「See?」%K%P

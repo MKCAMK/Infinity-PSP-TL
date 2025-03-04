@@ -60,10 +60,10 @@ The word 'utopia' might have sprung to mind to describe it.%K%P
 Actually, on a slab of rock on the boat dock of the floating island were carved the words:%K%P
 0x2C0
 『天国はどこにある？』%K%P
-'Where is heaven?'%K%P
+「Where is heaven?」%K%P
 0x2CC
 『空の上と、あなたの足元に……』%K%P
-'Above the sky, and at your feet...'%K%P
+「Above the sky, and at your feet...」%K%P
 0x2E0
 彼は浮島の手すりから身を乗り出すと、海中を覗き込んだ。%K%P
 Leaning out over the railing of the island, he gazed into the ocean depths.%K%P
@@ -105,7 +105,7 @@ Upon closer inspection, he noticed something biting the tanuki's tail.%K%P
 It was a girl.%K%P
 0x3CC
 誤解を招かぬよう念を押すが、彼女は『人間の』姿形をしていた。%K%P
-For the record, yes, a 'human' girl.%K%P
+For the record, yes, a 「human」 girl.%K%P
 0x3D8
 さらによくよく見ると、少女のお尻にも、何かがかじりついていた。%K%P
 Looking closer revealed that there was something strange about her as well.%K%P
@@ -117,7 +117,7 @@ Looking closer revealed that there was something strange about her as well.%K%P
 Namely, a small tanuki attached to the girl's backside.%K%P
 0x44C
 『大ダヌキの尻尾にかじりついている少女のお尻にかじりついている小ダヌキ』%K%P
-'A small tanuki biting a girl who was biting a bigger tanuki.'%K%P
+「A small tanuki biting a girl who was biting a bigger tanuki.」%K%P
 0x458
 その光景は、彼から現実感を奪うのに充分だった。%K%P
 The scene was enough to shatter his sense of reality.%K%P
@@ -288,7 +288,7 @@ Pipi「*Woof*!」%K%P
 (Wait, I thought they didn't let pets in here...)%K%P
 0x94C
 彼は首を傾げる。%K%P
-He tilted his head in confusion.%K%P
+He tilted his head, puzzled.%K%P
 0x958
 係員「ココちゃんは、ＬｅＭＵに来たのは何回目かな？」%K%P
 Park Staff「So, Coco-chan, how many times have you been to%NLeMU?」%K%P
@@ -492,7 +492,7 @@ Takeshi「An ameri... joke?」%K%P
 Coco「You haven't heard about them? They're real popular nowadays, ya know.」%K%P
 0xCEC
 武「知らないな、そんなの……何だ、それ？」%K%P
-Takeshi「No, I haven't. What's the deal with it?」%K%P
+Takeshi「No, I haven't. What's the deal with them?」%K%P
 0xD00
 ココ「アメリカンジョークのことだってば……米っちょ、米っちょ」%K%P
 Coco「An Ameri-joke is an American joke. Get it? 'Ameri-joke'.」%K%P
