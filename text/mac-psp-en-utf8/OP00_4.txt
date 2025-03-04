@@ -9,19 +9,19 @@ Couldn't be?%K%P
 He wondered if something had gone terribly wrong.%K%P
 0x38
 おかしい。%K%P
-It was strange.%K%P
+Something was wrong.%K%P
 0x44
 とてもおかしい……。%K%P
-Very strange...%K%P
+Very wrong...%K%P
 0x64
 （誰だ？）%K%P
-(Who's this?)%K%P
+(Who's that?)%K%P
 0x70
 （ああ、彼女だ）%K%P
 (Oh, it's her.)%K%P
 0x7C
 （やっと逢えた……）%K%P
-(We've finally met...)%K%P
+(I finally found you...)%K%P
 0x88
 （さっきからずっと、捜してたんだ……）%K%P
 (I've been looking for you this whole time...)%K%P
@@ -30,13 +30,13 @@ Very strange...%K%P
 But his voice didn't reach her.%K%P
 0xA0
 『――――、――――』%K%P
-――――,――――%K%P
+'――――, ――――'%K%P
 0xAC
 『――――』%K%P
-――――%K%P
+'――――'%K%P
 0xB8
 『――――――――』%K%P
-――――――――%K%P
+'――――――――'%K%P
 0xC4
 彼女の声も、聞こえなかった。%K%P
 He couldn't hear her voice either.%K%P
@@ -45,22 +45,22 @@ He couldn't hear her voice either.%K%P
 No matter how much he tried...%K%P
 0xDC
 今の彼には、何の音も届きはしなかった。%K%P
-No sounds reached him.%K%P
+No sound reached him.%K%P
 0xE8
 （くそう……どうなってるんだ……？）%K%P
-(Damn... What's going on...?)%K%P
+(Damn it... What's going on here...?)%K%P
 0xFC
 だが、かろうじて姿は見えた。%K%P
-But he faintly saw a figure.%K%P
+But he could just about make out a figure.%K%P
 0x108
 確かめることができた。%K%P
-He was able to make sure.%K%P
+Of that he could be certain.%K%P
 0x114
 彼と彼女が話しているのが、向こうに見えたのだ。%K%P
-He could see himself and the girl talking over there.%K%P
+He could see him and the girl talking over there.%K%P
 0x120
 向こう側に、見えた……。%K%P
-He saw it on the other side...%K%P
+He could see them on the other side...%K%P
 0x12C
 （ぼくが……）%K%P
 (I...)%K%P
@@ -69,67 +69,67 @@ He saw it on the other side...%K%P
 (I can see myself over there...?)%K%P
 0x144
 彼を見ている。%K%P
-He watched.%K%P
+He stared.%K%P
 0x150
 彼が見ている。%K%P
-And he watched.%K%P
+And he stared back.%K%P
 0x18C
 （変だよ……）%K%P
-(That's strange...)%K%P
+(This is weird...)%K%P
 0x198
 （違う……おかしいよ……）%K%P
-(No... It's odd...)%K%P
+(No... This is wrong...)%K%P
 0x1A4
 （だったら、ぼくを見ている『ぼく』は誰なんだ？）%K%P
-(If I'm watching them, then who is the 'me' watching me?)%K%P
+(If I'm 'me', then who is the 'me' over there?)%K%P
 0x1B0
 違和感。%K%P
-Something felt out of place.%K%P
+A creeping sense of unease.%K%P
 0x1BC
 事実を知って、唇が震えた。%K%P
-He knew the truth, and his lips trembled.%K%P
+Realizing the truth, his lips trembled.%K%P
 0x1C8
 （誰だ……？）%K%P
 (Who is that...?)%K%P
 0x1D4
 （あそこにいる『ぼく』は、いったい誰だ！？）%K%P
-(Who could the 'me' over there be?)%K%P
+(Who's the 'me' over there?!)%K%P
 0x1E0
 違和感が拭えない。%K%P
-He couldn't shake the feeling that something was wrong.%K%P
+He couldn't shake the feeling of unease.%K%P
 0x1EC
 まるで、夢。%K%P
 It was like a dream.%K%P
 0x1F8
 夢の続きを見ているようだった。%K%P
-It was like he was watching the continuation of a dream.%K%P
+Like he was watching the continuation of a dream.%K%P
 0x2DC
 けたたましく聞こえてくるのは、夢ではない。%K%P
-But a dream couldn't have felt so powerfully raw.%K%P
+But the noise shredding his ears was anything but a dream.%K%P
 0x2E8
 たくさんの悲鳴。%K%P
-All of the screaming.%K%P
+Screams, everywhere.%K%P
 0x2F4
 駆け足の音。%K%P
-And the sound of running feet.%K%P
+The panicked pattering of hurried footsteps.%K%P
 0x300
 けたたましく唸るサイレンの音。%K%P
-The shrill wailing of sirens.%K%P
+The shrill wail of sirens.%K%P
 0x30C
 それは、夢や幻ではなかった。%K%P
-That wasn't a dream or an illusion.%K%P
+That was no dream or illusion.%K%P
 0x320
 武「まさかって……何を知ってる？」%K%P
-Takeshi「Couldn't be? Do you know something about this?」%K%P
+Takeshi「'Couldn't be'? Do you know something about this?」%K%P
 0x32C
 女の子「何も知らない……」%K%P
 Girl「I don't know anything...」%K%P
 0x338
 女の子「あなたは何を知ってるの？」%K%P
-Girl「Do you know something?」%K%P
+Girl「Do you?」%K%P
 0x344
 武「知るわけないだろ」%K%P
-Takeshi「How could I know anything?」%K%P
+Takeshi「How the hell could I know anything?」%K%P
 0x350
 照明は徐々に弱まっていき、やがて消えた。%K%P
 The lights gradually dimmed and finally went out.%K%P
@@ -138,13 +138,13 @@ The lights gradually dimmed and finally went out.%K%P
 Why?%K%P
 0x408
 わからない。%K%P
-He had no idea.%K%P
+He didn't know.%K%P
 0x414
 知らない……。%K%P
-He didn't know...%K%P
+He had no idea...%K%P
 0x420
 そんなこと、知っているはずがなかった。%K%P
-There was no way he could know.%K%P
+There was no way he could have known.%K%P
 0x444
 だけどここは、ベッドの上。%K%P
 But there on the bed.%K%P
@@ -153,22 +153,22 @@ But there on the bed.%K%P
 There...%K%P
 0x45C
 上の、ベッドの、上。%K%P
-On the bed...%K%P
+Upon the bed...%K%P
 0x468
 ここは……。%K%P
 There...%K%P
 0x4D0
 下の、ベッドの、上の、ベッドの、下……。%K%P
-The bed below, the bed on top, the bed below...%K%P
+Below the bed, upon the bed below...%K%P
 0x4DC
 きみは……。%K%P
-Who are...%K%P
+Who...%K%P
 0x4E8
 （誰だ……？）%K%P
-(You...?)%K%P
+(Who are you...?)%K%P
 0x4F4
 誰だ……？%K%P
-Who...?%K%P
+Who are you...?%K%P
 0x500
 （やめて……）%K%P
 (Stop...)%K%P
@@ -189,10 +189,10 @@ Please don't come out.%K%P
 Don't crawl out of there.%K%P
 0x548
 （やめて……くれ……）%K%P
-(Stop... Plea...)%K%P
+(Please... stop...)%K%P
 0x554
 や……め……て……く……れ……。%K%P
-S-st... sto... stop...%K%P
+S-St... Sto... Stop...%K%P
 0x5A4
 いや……。%K%P
 No...%K%P
@@ -201,19 +201,19 @@ No...%K%P
 There was nothing to fear.%K%P
 0x5BC
 大丈夫だ。%K%P
-It was alright.%K%P
+It was all right.%K%P
 0x5C8
 もう誰もいないから。%K%P
-Because there was no longer anyone.%K%P
+Because there was no one there anyone.%K%P
 0x5D4
 ここには、誰もいないから……。%K%P
-Because there was no one there.%K%P
+No one left...%K%P
 0x664
 武「おい！　誰か！　誰かいないのか？」%K%P
-Takeshi「Hey! Who's there? Is there somebody there?」%K%P
+Takeshi「Hey! Someone! Anyone!」%K%P
 0x670
 武「俺はここだ！　ここにまだいるんだ！」%K%P
-Takeshi「I'm here! I'm still in here!」%K%P
+Takeshi「I'm still here! I'm still in here!」%K%P
 0x67C
 武「誰か、出してくれよ！」%K%P
 Takeshi「Somebody, get me out of here!」%K%P
@@ -222,7 +222,7 @@ Takeshi「Somebody, get me out of here!」%K%P
 Takeshi「Answer me... Please...」%K%P
 0x764
 少年「誰か、いませんかぁー？」%K%P
-Kid「Isn't there anyone there?」%K%P
+Kid「Hello? Is anyone there?」%K%P
 0x770
 誰も返事をしない。%K%P
 Nobody answered.%K%P
@@ -231,22 +231,22 @@ Nobody answered.%K%P
 The surroundings were filled with silence.%K%P
 0x788
 少年「なーんだ、誰もいないのかぁ」%K%P
-Kid「What? Is anybody there?」%K%P
+Kid「Oh, no one's left?」%K%P
 0x794
 少年「ひとり、かぁ……ふふふっ」%K%P
-Kid「So I'm alone... Heeheehee.」%K%P
+Kid「All alone, huh...? Heh, heh...」%K%P
 0x7A0
 笑いが込み上げる。%K%P
-He burst with laughter.%K%P
+Laughter welled up within him.%K%P
 0x7AC
 この上ない、解放感。%K%P
-The ultimate feeling of liberation.%K%P
+It was the ultimate feeling of liberation.%K%P
 0x7B8
 もはや何も自分を縛るものはない。%K%P
-There was no one to restrain him anymore.%K%P
+There was nothing there to restrain him anymore.%K%P
 0x7C4
 少年「あははははっ！」%K%P
-Kid「Ahahaha!」%K%P
+Kid「Ahahahahaha!」%K%P
 0x85C
 走り出した。%K%P
 And he ran.%K%P
@@ -258,40 +258,40 @@ But no one stopped him.%K%P
 Getting there was easy.%K%P
 0x880
 あとはただ、『そこ』の中心を目指すのみ。%K%P
-All that was left was to aim for the 'center'.%K%P
+All that was left was to aim for the center.%K%P
 0x88C
 一歩踏み出す。%K%P
-Just take a step.%K%P
+He took a step forward.%K%P
 0x898
 簡単だった。%K%P
 It was simple.%K%P
 0x8F0
 その身体は、水の中へと没した。%K%P
-He threw his body into the water.%K%P
+His body crashed into the water.%K%P
 0x8FC
 落ちて行く。%K%P
 He sank.%K%P
 0x944
 深く深く、落ちて行く……。%K%P
-Deeper, deeper, and deeper...%K%P
+Deeper and deeper, he sank...%K%P
 0xA0C
 喧騒が止んだ。%K%P
 Sound died away.%K%P
 0xA18
 嘘のような静けさが訪れる。%K%P
-The embrace of unbelievably pure silence.%K%P
+A silence too surreal to be real took its place.%K%P
 0xA24
 一条の光さえ射さぬ暗闇。%K%P
-Not even a beam of light pierced the darkness.%K%P
+Not even the faintest slint of light pierced the darkness.%K%P
 0xA30
 ただ繰り返される吐息だけが聞こえる。%K%P
-All he could hear was repetitive heavy breathing.%K%P
+All he could hear was his own heavy breathing, repeating over and over again.%K%P
 0xAC4
 思考は、溺れる。%K%P
-He lost himself, his mind short-circuiting.%K%P
+He lost himself, all thought drowning.%K%P
 0xAD0
 視界は深い青にまみれた。%K%P
-His vision narrowed and was overrun with blue.%K%P
+His vision was overrun with blue.%K%P
 0xADC
 深い青。%K%P
 Deep blue.%K%P
@@ -300,19 +300,19 @@ Deep blue.%K%P
 Blue...%K%P
 0xAF4
 疑わしい。%K%P
-Something was strange...%K%P
+Or was it?%K%P
 0xB00
 それは本当に、青なのか。%K%P
-He wondered if it really was blue.%K%P
+Was it really blue?%K%P
 0xB94
 じっとしているのに、鼓動は早鐘のようだ。%K%P
-Even though he was perfectly still, it seemed as if his heart was racing.%K%P
+Even though he was perfectly still, his heart still pounded like the screaming alarm from before.%K%P
 0xBA0
 汗が噴き出す。%K%P
 Sweat poured off of him.%K%P
 0xBAC
 呼吸は荒くなり、微かに息苦しい。%K%P
-His breathing was ragged and labored.%K%P
+His breathing was ragged and labored. His chest felt tight.%K%P
 0xC40
 意識は次第に、闇へ溶ける。%K%P
 Gradually, his consciousness dissolved into the darkness.%K%P
@@ -336,7 +336,7 @@ There were no boundaries to the color.%K%P
 His ears hurt. The ringing in them wouldn't stop.%K%P
 0xD1C
 肺に膨張圧を感じる。%K%P
-He felt pressure expanding in his lungs.%K%P
+Pressure expanded in his lungs.%K%P
 0xD28
 胃がムカムカして、気持ち悪い。%K%P
 He felt queasy, sick to his stomach.%K%P
@@ -345,7 +345,7 @@ He felt queasy, sick to his stomach.%K%P
 Girl「The air pressure... is dropping...」%K%P
 0xD40
 （そうだ……耳抜きをしないと……）%K%P
-(I forgot... I need to pop my ears...)%K%P
+(Oh, right... I need to pop my ears...)%K%P
 0xD4C
 ポンと音を立てて、耳の内側に溜まっていた空気が抜けた。%K%P
 With a pop, the air building inside his ears was released.%K%P
@@ -354,7 +354,7 @@ With a pop, the air building inside his ears was released.%K%P
 Takeshi「Damn...」%K%P
 0xD64
 武「出口は、どっちだ……？」%K%P
-Takeshi「Which way is the exit...?」%K%P
+Takeshi「Which way's the exit...?」%K%P
 0xE64
 ――漆黒。%K%P
 ―Pitch black.%K%P
@@ -363,49 +363,49 @@ Takeshi「Which way is the exit...?」%K%P
 Nothing moved.%K%P
 0xE7C
 自分も動かない。%K%P
-He didn't move either.%K%P
+Not even himself.%K%P
 0xE88
 風の吹く気配も感じられなかった。%K%P
-There wasn't any sign of a breeze.%K%P
+There wasn't any trace of a breeze.%K%P
 0xE94
 何も聞こえない。%K%P
 He didn't hear anything.%K%P
 0xEA0
 正体の見えない残響だけがそこにあった。%K%P
-Just echoes from something invisible.%K%P
+Just echoes from something unknown.%K%P
 0xEAC
 時間はすべて凍りついている。%K%P
 Time froze to a stop.%K%P
 0xEB8
 ここに留まっていれば、いずれ、生きていることさえも忘れてしまうのではないか……。%K%P
-If he stopped there, he felt like he would forget that he was even alive.%K%P
+If he stayed there, maybe he'd forget he was even alive.%K%P
 0xEC4
 そんな予感がした。%K%P
-It was his intuition.%K%P
+The thought crept into his mind.%K%P
 0xED0
 このまま、いっそ……。%K%P
-Only a little more...%K%P
+Maybe... it would be easier... to just stay like this...%K%P
 0xEDC
 いや……ダメだ！%K%P
-No!%K%P
+...No!%K%P
 0xEE8
 いけない。%K%P
-It was no good.%K%P
+He couldn't let that happen.%K%P
 0xEF4
 抜け出さなくては！%K%P
-He had to get out.%K%P
+He had to get out!%K%P
 0xF00
 進むべき方向もわからないままもがいた。%K%P
-But he didn't even know which direction to go.%K%P
+He didn't know which way to go, but even still...%K%P
 0xF0C
 この闇の中から……抜け出さなくては……いけない……。%K%P
-He had to get... himself out of the darkness... Had to...%K%P
+He had to... get himself out of the darkness...%K%P
 0xF18
 しかし、どうすればいい？%K%P
-But what could he do?%K%P
+But how?%K%P
 0xF24
 どうすれば……。%K%P
-What could...%K%P
+He...%K%P
 0xF30
 わからない。%K%P
 He didn't know.%K%P
@@ -447,16 +447,16 @@ Who am I?
 I've got to find them.%K%P
 0x1020
 静かに、%K%P
-I quietly%K%P
+Slowly, I...%K%P
 0x102C
 その扉を、開いた。%K%P
-opened the door.%K%P
+...opened the door.%K%P
 0x1080
 ぼくは――%K%P
-I didn't know where I was, but I%K%P
+I didn't know where I was, but...%K%P
 0x108C
 静かに、%K%P
-quietly%K%P
+...slowly, I...%K%P
 0x1098
 その目を、開いた。%K%P
-opened my eyes.%K%P
+...opened my eyes.%K%P
