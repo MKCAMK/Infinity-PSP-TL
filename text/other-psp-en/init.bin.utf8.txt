@@ -5795,7 +5795,7 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 Artificial Intelligence
 
 ;65c8;400;人工知能研究の第一人者といわれた%Nジョン・マッカーシーが1955年に提唱した%N人工知能、もしくはコンピュータなどに人工知能を%N持たせるための技術を指す言葉。%Nその技術の発展は目覚ましく、近年ではチェス専用%Nに特化したスパコン『ディープ・ブルー』が、%Nチェスの世界チャンピオン、ガルリ・カスパロフを%N破ったことが記憶に新しい。%N『AI』という略称の方が一般的に広く浸透している%Nという、めずらしい言葉である。
-More commonly known by the abbreviation AI. The ability for computational systems to pergorm tasks commonly associated with human intelligence. The term was first coined in 1955 by computer scientist John McCarthy. Development in this field has been rapid, with a recent example being how the supercomputer Deep Blue famously defeated chess world champion Garry Kasparov. 
+More commonly known by the abbreviation AI. The ability for computational systems to perform tasks commonly associated with human intelligence. The term was first coined in 1955 by computer scientist John McCarthy. Development in this field has been rapid, with a recent example being how the supercomputer Deep Blue famously defeated chess world champion Garry Kasparov. 
 
 ;65cc;44;空の知能（意識）は、このAIによるものである。
 Sora's consciousness is a form of AI.
@@ -5804,19 +5804,19 @@ Sora's consciousness is a form of AI.
 RSD
 
 ;65dc;414;Retinal Scanning Display。%N和訳するなら網膜走査映写装置というところか。%NLeMU館内のありとあらゆるところにしかけられた%Nセンサーと、来場者が身に着けている音声変換機で%N来場者の位置を特定、その網膜に向けて、人体に%N害がない微弱のレーザーを照射することで、映像を%N映し出す装置のこと。%Nちなみに走査とは、対象を電子線などでなぞったり%Nすることで、対象物の情報を得ること。%Nテレビなどで日常的に使われている技術である。
-Retinal Scanning Display。%NA system that uses sensors installed throughout LeMU and the voice alternators worn by guests to determine their location. A harmless, low-level laser is then projected onto their retinas to display images.%N%NIncidentally, 「scanning」 refers to the process of tracing an object with an electron beam or something similar to obtain information. It is a technology commonly used in devices such as televisions.
+Retinal Scanning Display.%NA system that uses sensors installed throughout LeMU and the voice alternators worn by guests to determine their location. A harmless, low-level laser is then projected onto their retinas to display images.%N%NIncidentally, 「scanning」 refers to the process of tracing an object with an electron beam or something similar to obtain information. It is a technology commonly used in devices such as televisions.
 
 ;65e8;2;EI
-EI
+Ei
 
 ;65ec;354;ドイツ語で卵を意味する名前を持つ、ツヴァイト%Nシュトックとドリットシュトックを結ぶ、楕円形状%Nのエレベーター。%N海中に直に設置されており、中性浮力と%Nアルキメデスの原理を応用して稼動している。%Nこう書くと複雑そうに見えるが、下降するときは%N空のバラストタンクに水を入れて自重を増やし、%N上昇するときはタンクの水を排出して軽くする、%Nというだけの話である。
-An oval-shaped elevator connection Zweiter Stock and Dritter Stock. Its name is derived from the German for 「egg」. It is installed directly into the ocean, and operates via neutral buoyancy and Archimedes' principle.%N%NThough this may sound complex, the mechanism is actually quite simple. To descend, water is sucked into the empty ballast tanks to increase weight, and to ascend, the water is expelled to reduce weight.
+An oval-shaped elevator connecting Zweiter Stock and Dritter Stock. Its name is derived from the German for 「egg」. It is installed directly into the ocean, and operates via neutral buoyancy and Archimedes' principle.%N%NThough this may sound complex, the mechanism is actually quite simple. To descend, water is sucked into the empty ballast tanks to increase weight, and to ascend, the water is expelled to reduce weight.
 
 ;65f8;8;茜ヶ崎空
 Akanegasaki Sora
 
 ;65fc;278;LeMU開発部に務めるシステムエンジニアという設定%NのRSD。%NRSD。プログラミングされた膨大な選択肢の中から%N妥当だと思われる返答を適宜選択できる極めて%N精度の高いAIが搭載されているが、まだまだ%N至らないところも多く、大人の女性としての%N落ち着きと、幼い少女のような危うさを併せ持つ。
-An artificial intellegence with the persona of a system enginneer working in LeMU's development department, created by RSD. Being an exceptionally advanced AI, she selects the most appropriate response from a vast array of programmed options. Hoever, there are still many imperfections. She possesses both the composure of an adult woman and the fragile innocence of a young girl.
+An artificial intellegence with the persona of a system enginneer working in LeMU's development department, created by RSD. Being an exceptionally advanced AI, she selects the most appropriate response from a vast array of programmed options. However, there are still many imperfections. She possesses both the composure of an adult woman and the fragile innocence of a young girl.
 
 ;6600;172;2034年、何らかの経緯で肉体を得ているが、%Nその真相を語る者はいない。真相を知る者がいると%Nすれば、それは肉体を持たないがゆえに遍在できた%Nかつての彼女自身だけかもしれない。
 By 2034, she has somehow obtained a physical body, but none speak of the truth behind it. If anyone knows the real story, it may only be her former self―who, lacking a physical form, could exist everywhere at once.
