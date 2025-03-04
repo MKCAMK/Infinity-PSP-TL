@@ -261,13 +261,13 @@ He went down on his knees and keeled over.%K%P
 Nearby visitors reacted.%K%P
 0x748
 係員「お客様、どうしました？」%K%P
-Park staff「Is everything alright?」%K%P
+Park Staff「Is everything alright?」%K%P
 0x764
 ちょうどそこへ、扉の向こうから係員がやってきた。%K%P
 Just then, a park employee appeared from the door.%K%P
 0x770
 係員「お腹でも痛いんですか？」%K%p
-Park staff「Are you having stomach pains?」%K%p
+Park Staff「Are you having stomach pains?」%K%p
 0x2398
 タヌキが……
 It was the tanuki
@@ -279,7 +279,7 @@ Forget it
 Takeshi「...That tanuki caught me with a body blow...」%K%P
 0x7CC
 係員「は？」%K%P
-Park staff「Huh?」%K%P
+Park Staff「Huh?」%K%P
 0x7D8
 係員は呆気に取られた、という顔をした。%K%P
 The employee gave him a surprised look.%K%P
@@ -309,16 +309,16 @@ And in an instant, it had disappeared down the walkway.%K%P
 Takeshi「.........」%K%P
 0x880
 係員「…………」%K%P
-Park staff「.........」%K%P
+Park Staff「.........」%K%P
 0x894
 係員「あー、あれはですねぇ」%K%P
-Park staff「Uh, that is, um, a...」%K%P
+Park Staff「Uh, that is, um, a...」%K%P
 0x8A0
 係員はタヌキの行く先を目で追いながら言った。%K%P
 The staff member looked after the tanuki as she spoke.%K%P
 0x8AC
 係員「タヌキじゃなくて、レミュール」%K%P
-Park staff「That's not a tanuki, that's a lemur.」%K%P
+Park Staff「That's not a tanuki, that's a lemur.」%K%P
 0x8B8
 武「れ、れみゅーるぅ？」%K%P
 Takeshi「Le-lemu... What?」%K%P
@@ -327,10 +327,10 @@ Takeshi「Le-lemu... What?」%K%P
 He rubbed his still-aching stomach as he spoke.%K%P
 0x8D8
 係員「そ。レミュール。キツネザル」%K%P
-Park staff「Yes. A lemur. You know, a fox-like monkey.」%K%P
+Park Staff「Yes. A lemur. You know, a fox-like monkey.」%K%P
 0x8E4
 係員「名前は『みゅみゅーん』」%K%P
-Park staff「Its name is Myumyun.」%K%P
+Park Staff「Its name is Myumyun.」%K%P
 0x900
 ＬｅＭＵの名前の由来であるレムリア大陸。%T030%K%N
 LeMU had been named after the continent of Lemuria.%T030%K%N
@@ -354,10 +354,10 @@ He named that continent Lemuria.%T030%K%N
 Moreover, the German zoologist Haeckel contended that the continent was the origin of mankind.%K%O
 0x978
 係員「あの着ぐるみは、ＬｅＭＵのマスコットキャラのひとつ、みゅみゅーん」%K%P
-Park staff「Myumyun is one of LeMU's mascots.」%K%P
+Park Staff「Myumyun is one of LeMU's mascots.」%K%P
 0x98C
 係員「で、どうしたんですか？　お腹が悪いんですか？　それとも……」%K%P
-Park staff「But what happened? Are you ill? Or...」%K%P
+Park Staff「But what happened? Are you ill? Or...」%K%P
 0x998
 武「いや、もういい。もういいんだ……」%K%P
 Takeshi「No. I'm fine now. Don't worry about me...」%K%P
@@ -366,13 +366,13 @@ Takeshi「No. I'm fine now. Don't worry about me...」%K%P
 Takeshi「It's over anyway.」%K%P
 0x9B8
 係員「はぁ、そうですか……」%K%P
-Park staff「Oh, I see...」%K%P
+Park Staff「Oh, I see...」%K%P
 0x9CC
 武「いや、なんでもない。ちょっとコケただけ」%K%P
 Takeshi「It's nothing. I just took a tumble.」%K%P
 0x9E0
 係員「そうですか」%K%P
-Park staff「Is that so?」%K%P
+Park Staff「Is that so?」%K%P
 0x9EC
 タヌキに一撃で倒された、とは口にしにくかった……。%K%P
 He couldn't bring himself to say that the tanuki had floored him with one punch...%K%P
@@ -390,19 +390,19 @@ The tanuki's silhouette pranced lightly away into the distance.%K%P
 A moment later, it had disappeared up the hallway ahead.%K%P
 0xA64
 係員「あれ、あの『みゅみゅーん』、どうしたんだろう？」%K%P
-Park staff「Oh. I wonder what happened to that Myumyun.」%K%P
+Park Staff「Oh. I wonder what happened to that Myumyun.」%K%P
 0xA70
 係員はタヌキの後ろ姿を目で追いながら、そう呟いた。%K%P
 The staff member looked after the tanuki as she spoke.%K%P
 0xA7C
 係員「持ち場に戻りなさいっての……まぁ、いいや」%K%P
-Park staff「You're probably thinking I should be getting back to my post, right...? Oh well.」%K%P
+Park Staff「You're probably thinking I should be getting back to my post, right...? Oh well.」%K%P
 0xA90
 彼女は彼のほうへ向き直って、にっこり笑う。%K%P
 She looked at him again and smiled, laughing.%K%P
 0xA9C
 係員「お客さん、何かありましたら、いつでも呼んでくださいね」%K%P
-Park staff「If you need anything, don't hesitate to call.」%K%P
+Park Staff「If you need anything, don't hesitate to call.」%K%P
 0xAD4
 係員は去って行った。%K%P
 The staff member disappeared.%K%P
@@ -834,7 +834,7 @@ He yelled.%K%P
 Visitors watched from a distance.%K%P
 0x14B0
 係員「どうしました？」%K%P
-Park staff「What's the matter?」%K%P
+Park Staff「What's the matter?」%K%P
 0x14BC
 騒ぎを聞いて、係員の女性が駆けつけた。%K%P
 A female employee had heard the fuss and came running.%K%P
@@ -843,7 +843,7 @@ A female employee had heard the fuss and came running.%K%P
 Takeshi「Huh? You're that girl from before... This guy just collapsed all of a sudden.」%K%P
 0x14E4
 係員「ちょっと見せて！」%K%P
-Park staff「Let me see!」%K%P
+Park Staff「Let me see!」%K%P
 0x14F8
 係員は、倒れている彼の脈を診始めた。%K%P
 The employee took the pulse of the fallen youth.%K%P
@@ -852,13 +852,13 @@ The employee took the pulse of the fallen youth.%K%P
 Takeshi wondered if she had any medical knowledge.%K%P
 0x1518
 係員「うん、大丈夫……だけど、このままにはしておけないね」%K%P
-Park staff「He's alright... but we can't leave him here like this.」%K%P
+Park Staff「He's alright... but we can't leave him here like this.」%K%P
 0x1524
 武「手伝うよ」%K%P
 Takeshi「I'll help.」%K%P
 0x1530
 係員「ええ、お願い」%K%P
-Park staff「Great, thanks.」%K%P
+Park Staff「Great, thanks.」%K%P
 0x15E8
 どうして、こんなことに。%K%P
 Why had such a thing happened?%K%P
@@ -930,25 +930,25 @@ He heard a different voice from somewhere...%K%P
 He had been hauled to the infirmary.%K%P
 0x17A4
 係員「でも、なんだろう？　貧血？」%K%P
-Park staff「I wonder what it could be? Is he anemic?」%K%P
+Park Staff「I wonder what it could be? Is he anemic?」%K%P
 0x17B0
 武「着ぐるみが暑かったんじゃないか？　着慣れないみたいだったから」%K%P
 Takeshi「Maybe it was the mascot suit? Maybe he couldn't get used to wearing it.」%K%P
 0x17BC
 係員「ありえるね。熱射病かな……」%K%P
-Park staff「It's possible. It could be heat exhaustion...」%K%P
+Park Staff「It's possible. It could be heat exhaustion...」%K%P
 0x17C8
 武「なぁ、なんとかなりそうか？」%K%P
 Takeshi「Does... it look like he'll be okay?」%K%P
 0x17DC
 係員「うん、重い病気じゃなさそうだし。しばらく休ませておけば大丈夫だよ」%K%P
-Park staff「It doesn't appear to be anything serious. A little rest and he should be fine.」%K%P
+Park Staff「It doesn't appear to be anything serious. A little rest and he should be fine.」%K%P
 0x17E8
 武「そっか」%K%P
 Takeshi「I see.」%K%P
 0x17F4
 係員「ありがとう、手伝ってくれて。あとは私が診るから」%K%P
-Park staff「Thanks for your help. I'll take it from here.」%K%P
+Park Staff「Thanks for your help. I'll take it from here.」%K%P
 0x1800
 武「ああ、それじゃ頼むよ」%K%P
 Takeshi「Oh, alright then.」%K%P

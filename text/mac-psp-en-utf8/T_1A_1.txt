@@ -447,16 +447,16 @@ I hadn't heard any footsteps.%K%P
 (When did she get here?)%K%P
 0xB94
 係員「……てください」%K%P
-Park staff「...From here.」%K%P
+Park Staff「...From here.」%K%P
 0xBA0
 係員「ダメです、ここから早く逃げて……」%K%P
-Park staff「This area is not safe. Please escape.」%K%P
+Park Staff「This area is not safe. Please escape.」%K%P
 0xBAC
 係員「逃げてください、お願いします」%K%P
-Park staff「Please. Please, you must escape from here.」%K%P
+Park Staff「Please. Please, you must escape from here.」%K%P
 0xBB8
 係員「危ないんです、危険なんです……」%K%P
-Park staff「It is dangerous, it is dangerous...」%K%P
+Park Staff「It is dangerous, it is dangerous...」%K%P
 0xBC4
 彼女は少し、パニックを起こしているように見えた。%K%P
 She looked slightly panicked.%K%P
@@ -465,19 +465,19 @@ She looked slightly panicked.%K%P
 Takeshi「Hey, hey. What's happened? What's dangerous? Stay calm. Explain what's going on...」%K%P
 0xBDC
 係員「お客様、はやく……速やかな避難を……予想外の……トラブルが」%K%P
-Park staff「You need to escape... We have had... unexpected... trouble.」%K%P
+Park Staff「You need to escape... We have had... unexpected... trouble.」%K%P
 0xBE8
 係員「レベル……デルタ……ティーフ……ブラウ」%K%P
-Park staff「Level... Delta... Tief... Blau.」%K%P
+Park Staff「Level... Delta... Tief... Blau.」%K%P
 0xBF4
 彼女は、呟くように繰り返した。%K%P
 She mumbled this again.%K%P
 0xC00
 係員「逃げてください、逃げて」%K%P
-Park staff「Please escape. Please.」%K%P
+Park Staff「Please escape. Please.」%K%P
 0xC28
 係員「お願い、逃げてぇっ！！」%K%P
-Park staff「Please get out of here!」%K%P
+Park Staff「Please get out of here!」%K%P
 0xD98
 がっしゃああぁぁん！！%K%P
 Crash!%K%P
@@ -573,7 +573,7 @@ It almost felt as though she might rip my arm off.%K%P
 Her strength was unbelievable.%K%P
 0x11C0
 係員「こちらです！　急いで、急いでっ！」%K%P
-Park staff「Over here! Hurry! Hurry!」%K%P
+Park Staff「Over here! Hurry! Hurry!」%K%P
 0x11CC
 女の子「わかってる！」%K%P
 Girl「I know!」%K%P
@@ -594,7 +594,7 @@ It looked like she had just been sucked into the swirling waters ahead, but... n
 Girl「Damn...」%K%P
 0x12D0
 係員「ダメです、こちらは動作していません！　戻って！」%K%P
-Park staff「This is no good! It's not functioning! Go back!」%K%P
+Park Staff「This is no good! It's not functioning! Go back!」%K%P
 0x12E4
 女の子「そんな暇ないっ！」%K%P
 Girl「There's no time!」%K%P
@@ -615,7 +615,7 @@ Takeshi「It's a dead end...!」%K%P
 Girl「Can we go through here?」%K%P
 0x13BC
 係員「はい！」%K%P
-Park staff「Yes!」%K%P
+Park Staff「Yes!」%K%P
 0x13D0
 女の子「行くわよ！！」%K%P
 Girl「I'm going!」%K%P

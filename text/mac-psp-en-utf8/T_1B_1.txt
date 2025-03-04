@@ -6,13 +6,13 @@ text area offset and size:
 There were still fish flopping around on the floor, but the water had receded a while earlier.%K%P
 0x8C
 係員「この区画の排水完了を確認しました……」%K%P
-Park staff「This sector is confirmed to be drained of water...」%K%P
+Park Staff「This sector is confirmed to be drained of water...」%K%P
 0x98
 係員「しかし、施設の約３０％は既に……」%K%P
-Park staff「However, 30％ of the facility is already...」%K%P
+Park Staff「However, 30％ of the facility is already...」%K%P
 0xAC
 係員「冠水、浸水したものと思われます……」%K%P
-Park staff「Believed to be submerged or completely flooded...」%K%P
+Park Staff「Believed to be submerged or completely flooded...」%K%P
 0xB8
 武「ちょっと、待ってくれ……」%K%P
 Takeshi「Hey, wait just a second...」%K%P
@@ -30,13 +30,13 @@ Takeshi「Hey! What are we supposed to do now?」%K%P
 Girl「There's no point arguing about this.」%K%P
 0x104
 係員「申し訳、ありません……」%K%P
-Park staff「I'm sorry, but...」%K%P
+Park Staff「I'm sorry, but...」%K%P
 0x110
 係員は本当にすまなそうに、深々と頭を下げた。%K%P
 The employee looked extremely sorry and was bowing.%K%P
 0x124
 係員「私の、責任です」%K%p
-Park staff「It is my responsibility.」%K%p
+Park Staff「It is my responsibility.」%K%p
 0x5078
 そうだ！　責任者出て来い！
 That's it! Get me the person in charge!
@@ -99,7 +99,7 @@ Takeshi「That's... the issue.」%K%P
 Takeshi「Sorry. I'm just a little aggravated. I didn't mean to take it out on you...」%K%P
 0x270
 係員「いえ……」%K%P
-Park staff「It's okay...」%K%P
+Park Staff「It's okay...」%K%P
 0x294
 武「いや、落ち着いて……そうだ、俺自身も落ち着け……」%K%P
 Takeshi「No, relax... Yeah, let's all relax...」%K%P
@@ -123,7 +123,7 @@ Takeshi「And don't tell me that this is part of the theme park atmosphere?」%K
 Girl「.........」%K%P
 0x2F0
 係員「…………」%K%P
-Park staff「.........」%K%P
+Park Staff「.........」%K%P
 0x2FC
 ふたりとも、答えようとしない。%K%P
 Neither of them tried to answer.%K%P
@@ -132,7 +132,7 @@ Neither of them tried to answer.%K%P
 The fish on the floor were still jumping around.%K%P
 0x324
 係員「本当に本当に、申し訳ありません……」%K%P
-Park staff「I'm really, really sorry...」%K%P
+Park Staff「I'm really, really sorry...」%K%P
 0x330
 係員はまた、頭が地面につきそうなくらいのお辞儀をした。%K%P
 The park employee was bowing so low that her head approached the floor.%K%P
@@ -144,7 +144,7 @@ For some reason, her clothes were completely dry.%K%P
 Girl「It doesn't do us any good just standing around here. Can you show us the way?」%K%P
 0x35C
 係員「わかりました……。近くに比較的安全な場所があります、ご案内します……」%K%P
-Park staff「Certainly. There is a relatively safe place nearby. I will take you there...」%K%P
+Park Staff「Certainly. There is a relatively safe place nearby. I will take you there...」%K%P
 0x368
 （比較的安全、か……）%K%P
 (RELATIVELY safe...?)%K%P
@@ -180,10 +180,10 @@ Did you just hear something?
 Takeshi「Hey, did you just hear something?」%K%P
 0x458
 係員「聞き間違いではないですか？」%K%P
-Park staff「Are you sure you aren't mistaken?」%K%P
+Park Staff「Are you sure you aren't mistaken?」%K%P
 0x464
 係員「このＬｅＭＵでは、水圧の関係で、鉄の隔壁がゴトゴトと鳴るようなことは珍しくありませんから」%K%P
-Park staff「Due to all of the water pressure here at LeMU, it isn't uncommon for the metal partitions to rattle occasionally.」%K%P
+Park Staff「Due to all of the water pressure here at LeMU, it isn't uncommon for the metal partitions to rattle occasionally.」%K%P
 0x478
 そうだな……空耳だろう。%K%P
 Yeah. It must have just been my imagination.%K%P
@@ -204,7 +204,7 @@ I stopped and asked the two of them.%K%P
 Girl「?」%K%P
 0x4DC
 係員「は？」%K%P
-Park staff「Huh?」%K%P
+Park Staff「Huh?」%K%P
 0x4E8
 武「ドンドンって、何かを叩く音が聞こえただろ？」%K%P
 Takeshi「You didn't just hear a kind of pounding noise?」%K%P
@@ -213,10 +213,10 @@ Takeshi「You didn't just hear a kind of pounding noise?」%K%P
 Girl「No.」%K%P
 0x508
 係員「聞き間違いではないですか？」%K%P
-Park staff「Are you sure you aren't mistaken?」%K%P
+Park Staff「Are you sure you aren't mistaken?」%K%P
 0x514
 係員「このＬｅＭＵでは、水圧の関係で、鉄の隔壁がゴトゴトと鳴るようなことは珍しくありませんから」%K%P
-Park staff「Due to all of the water pressure here at LeMU, it isn't uncommon for the metal partitions to rattle occasionally.」%K%P
+Park Staff「Due to all of the water pressure here at LeMU, it isn't uncommon for the metal partitions to rattle occasionally.」%K%P
 0x520
 武「いや、そういう音じゃなかったと思う」%K%P
 Takeshi「Nah, it didn't sound like that.」%K%P
@@ -228,13 +228,13 @@ Takeshi「It sounded like someone pounding on something with their hand.」%K%P
 Girl「?」%K%P
 0x544
 係員「？」%K%P
-Park staff「?」%K%P
+Park Staff「?」%K%P
 0x550
 武「ちょっと俺、調べて来るよ」%K%P
 Takeshi「I'm going to go check.」%K%P
 0x564
 係員「では、私も御一緒します」%K%P
-Park staff「Alright, we'll go with you.」%K%P
+Park Staff「Alright, we'll go with you.」%K%P
 0x570
 女の子は何も言わず、俺達について来た。%K%P
 The girl didn't say anything. She just silently tagged along with us.%K%P
@@ -249,7 +249,7 @@ Bam, bam, bam... Bam, bam, bam...%K%P
 Takeshi「There. You can hear it, right?」%K%P
 0x628
 係員「え、ええ……」%K%P
-Park staff「Yeah...」%K%P
+Park Staff「Yeah...」%K%P
 0x634
 女の子「つまり、私達以外にも閉じ込められた人が……？」%K%P
 Girl「So there's someone else trapped here too...?」%K%P
@@ -420,7 +420,7 @@ I struck my knee painfully.%K%P
 I heard a voice from below.%K%P
 0x9CC
 係員「お怪我ないですかぁ〜？」%K%P
-Park staff「Did you hurt yourself?」%K%P
+Park Staff「Did you hurt yourself?」%K%P
 0x9D8
 上からも声が……。%K%P
 And then a voice from above...%K%P
@@ -936,19 +936,19 @@ Sora「Someone's coming this way.」%K%P
 Takeshi「...What?」%K%P
 0x1498
 係員「はぁ〜〜〜〜〜〜っ」%K%P
-Park staff「*Sigh*...」%K%P
+Park Staff「*Sigh*...」%K%P
 0x14A4
 係員「それにしても、一時はどうなることかと思ったけど……」%K%P
-Park staff「For a while, I wondered what was going to happen to us, but...」%K%P
+Park Staff「For a while, I wondered what was going to happen to us, but...」%K%P
 0x14B0
 前に一度会った、係員の女の子だった。%K%P
 It was one of the female employees that I'd met once before.%K%P
 0x14C4
 係員「命あっての物種ってやつよねぇ……」%K%P
-Park staff「I'm glad we survived...」%K%P
+Park Staff「I'm glad we survived...」%K%P
 0x14D8
 係員「って、あれ？」%K%P
-Park staff「Hey, aren't you...?」%K%P
+Park Staff「Hey, aren't you...?」%K%P
 0x14E4
 彼女は、ようやく俺達の姿に気づいたようだ。%K%P
 The girl finally noticed us.%K%P
@@ -957,13 +957,13 @@ The girl finally noticed us.%K%P
 Takeshi「I didn't think there'd be anybody else here.」%K%P
 0x1504
 係員「そりゃどうも。元気？」%K%P
-Park staff「Yeah. How are you?」%K%P
+Park Staff「Yeah. How are you?」%K%P
 0x1510
 武「お陰様で、この通りさ」%K%P
 Takeshi「About as good as I look, I suppose.」%K%P
 0x151C
 係員「そっちも大変だったみたいね……」%K%P
-Park staff「Seems like you had a rough time of it too...」%K%P
+Park Staff「Seems like you had a rough time of it too...」%K%P
 0x1528
 武「ああ。察しがいいね……」%K%P
 Takeshi「Hey, lucky guess...」%K%P
@@ -993,16 +993,16 @@ For some reason, it bothered me.%K%P
 Takeshi「Is something wrong with him? He doesn't look so hot.」%K%P
 0x15AC
 係員「ああ、彼、ちょっとね……」%K%P
-Park staff「Oh, he's... a bit...」%K%P
+Park Staff「Oh, he's... a bit...」%K%P
 0x15B8
 係員の女の子は言い淀む。%K%P
 The attendant hesitated.%K%P
 0x15CC
 係員「ところで……」%K%P
-Park staff「By the way...」%K%P
+Park Staff「By the way...」%K%P
 0x15D8
 係員「ねぇ、空、状況はわかる？」%K%P
-Park staff「Hey, Sora, do you have any idea what our situation is?」%K%P
+Park Staff「Hey, Sora, do you have any idea what our situation is?」%K%P
 0x15E4
 係員の子は、空に訊いた。%K%P
 The girl asked Sora.%K%P
@@ -1017,37 +1017,37 @@ We went in a nearby attraction.%K%P
 Takeshi「So are we the only folks here?」%K%P
 0x1634
 係員「わかりません、現在調査中です」%K%P
-Park staff「I do not know. I am currently investigating.」%K%P
+Park Staff「I do not know. I am currently investigating.」%K%P
 0x1640
 歩きながら『調査中』も何もないだろう……。%K%P
 'Yeah right, investigating what?', I thought as we walked...%K%P
 0x1654
 係員「あっ！」%K%P
-Park staff「Ah!」%K%P
+Park Staff「Ah!」%K%P
 0x1660
 武「どうした？」%K%P
 Takeshi「What is it?」%K%P
 0x1674
 係員「誰かこちらに来ます、３名」%K%P
-Park staff「Three other people are approaching.」%K%P
+Park Staff「Three other people are approaching.」%K%P
 0x1680
 武「……なんだって？」%K%P
 Takeshi「...What?」%K%P
 0x16DC
 係員「はぁ〜〜〜〜〜〜っ」%K%P
-Park staff「*Sigh*...」%K%P
+Park Staff「*Sigh*...」%K%P
 0x16E8
 係員「それにしても、一時はどうなることかと思ったけど……」%K%P
-Park staff「For a while, I wondered what was going to happen to us, but...」%K%P
+Park Staff「For a while, I wondered what was going to happen to us, but...」%K%P
 0x16F4
 前に一度会った、係員の女の子だった。%K%P
 It was one of the female employees that I'd met once before.%K%P
 0x1708
 係員「命あっての物種ってやつよねぇ……」%K%P
-Park staff「I'm glad we survived...」%K%P
+Park Staff「I'm glad we survived...」%K%P
 0x171C
 係員「って、あれ？」%K%P
-Park staff「Hey, aren't you...?」%K%P
+Park Staff「Hey, aren't you...?」%K%P
 0x1728
 彼女は、ようやく俺達の姿に気づいたようだ。%K%P
 The girl finally noticed us.%K%P
@@ -1056,13 +1056,13 @@ The girl finally noticed us.%K%P
 Takeshi「I didn't think there'd be anybody else here.」%K%P
 0x1748
 係員「そりゃどうも。元気？」%K%P
-Park staff「Yeah. How are you?」%K%P
+Park Staff「Yeah. How are you?」%K%P
 0x1754
 武「お陰様で、この通りさ」%K%P
 Takeshi「About as good as I look, I suppose.」%K%P
 0x1760
 係員「そっちも大変だったみたいね……」%K%P
-Park staff「Seems like you had a rough time of it too...」%K%P
+Park Staff「Seems like you had a rough time of it too...」%K%P
 0x176C
 武「ああ。察しがいいね……」%K%P
 Takeshi「Hey, lucky guess...」%K%P
@@ -1113,16 +1113,16 @@ For some reason, it bothered me.%K%P
 Takeshi「Is something wrong with him? He doesn't look so hot.」%K%P
 0x1854
 係員「ああ、彼、ちょっとね……」%K%P
-Park staff「Oh, he's... a bit...」%K%P
+Park Staff「Oh, he's... a bit...」%K%P
 0x1860
 係員の女の子は言い淀む。%K%P
 The attendant hesitated.%K%P
 0x1874
 係員「ところで……」%K%P
-Park staff「By the way...」%K%P
+Park Staff「By the way...」%K%P
 0x1888
 係員「ねぇ、空、状況はわかる？」%K%P
-Park staff「Hey, Sora, do you have any idea what our situation is?」%K%P
+Park Staff「Hey, Sora, do you have any idea what our situation is?」%K%P
 0x1894
 係員の子は、ドレスのほうの係員の女性に訊いた。%K%P
 The girl attendant addressed the question to the staff member in the dress.%K%P
@@ -1134,22 +1134,22 @@ Sora「Well, the communication lines are down... I've been investigating ways to
 The attendant called Sora said that.%K%P
 0x18C0
 係員「だったら、中央制御室に行こう。あそこからなら、詳しくモニターできるでしょう？」%K%P
-Park staff「In that case, let's go to the central control room. We can monitor things in detail from there, right?」%K%P
+Park Staff「In that case, let's go to the central control room. We can monitor things in detail from there, right?」%K%P
 0x18D4
 空「そうですね。すみません、私が至らないばかりに……不便ですよね……」%K%P
 Sora「That sounds good. I wish I were more useful...」%K%P
 0x18E0
 係員「気にしないで、空」%K%P
-Park staff「Don't worry about it, Sora.」%K%P
+Park Staff「Don't worry about it, Sora.」%K%P
 0x18F4
 それから、係員の子は俺に向き直った。%K%P
 With that, the girl addressed me again.%K%P
 0x1900
 係員「それじゃ、これからドリットシュトック――３階に下りるけど」%K%P
-Park staff「We're going down to Dritter Stock―the third floor underwater.」%K%P
+Park Staff「We're going down to Dritter Stock―the third floor underwater.」%K%P
 0x190C
 係員「ついて来るよね？」%K%P
-Park staff「You're coming, right?」%K%P
+Park Staff「You're coming, right?」%K%P
 0x1918
 武「あ、ああ。行くよ」%K%P
 Takeshi「Y-yeah. I'll go.」%K%P
@@ -1164,7 +1164,7 @@ It looked like there were a number of similar narrow corridors above and below o
 I figured that they were probably used as shortcuts by employees as well.%K%P
 0x1960
 係員「私は田中――」%K%P
-Park staff「My name is Tanaka.」%K%P
+Park Staff「My name is Tanaka.」%K%P
 0x1974
 優「田中優。ほんとはもっと長ったらしい名前なんだけど、優でいいよ。あなたは？」%K%P
 You「Tanaka You. My real name is a lot longer, but just call me You. What's your name?」%K%P
