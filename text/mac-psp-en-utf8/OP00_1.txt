@@ -33,25 +33,25 @@ He murmured to himself.%K%P
 A solitary seagull traced a gentle arc in the sky as the wind carried it away.%K%P
 0x198
 風は潮の匂いをはらんでさらさらとそよいでいた。%K%P
-The wind, carrying the ocean's scent, blew by him gently.%K%P
+The breeze, carrying the ocean's scent, blew by him gently.%K%P
 0x1A4
 背後には、人々の喧騒。%K%P
 The din of people could be heard in the background.%K%P
 0x1B0
 子供達の歓声、響き渡る笑い声は、降り注ぐ日射しよりも陽気に聞こえる。%K%P
-The merry sound of children's voices echoed brighter than the sunlight pouring down.%K%P
+The merry sound of children's laughter echoed brighter than the sunlight pouring down.%K%P
 0x1BC
 武「平和だよなぁ……」%K%P
 Takeshi「So peaceful...」%K%P
 0x1C8
 まるで、夢の中にでもいるようだった。%K%P
-It was as if it was in a dream.%K%P
+It was as if it were in a dream.%K%P
 0x288
 ――東京都駒ヶ原諸島Ｍ島沖１６Ｋｍ。%K%P
 ―16 km from M Island, Komagahara Archipelago, Tokyo.%K%P
 0x294
 洋上に浮かんだ人工島『インゼル・ヌル』は、まさに現実とはかけ離れた別天地を思わせた。%K%P
-The man-made island, Insel Null, rose above the waves of the water. It seemed like a place removed from reality.%K%P
+The man-made island, Insel Null, rose above the waves of the water. It seemed like a place entirely removed from reality.%K%P
 0x2A0
 その様相は、ユートピア（楽園）という言葉さえ連想させる。%K%P
 The word 'utopia' might have sprung to mind to describe it.%K%P
@@ -69,7 +69,7 @@ Actually, on a slab of rock on the boat dock of the floating island were carved 
 Leaning out over the railing of the island, he gazed into the ocean depths.%K%P
 0x2EC
 金属製の巨大な構造物が、青い視界の彼方にゆらゆらと揺らめいて見える。%K%P
-In the blue distance, he saw a massive metallic structure swaying gently.%K%P
+He could see a massive metallic structure wavering faintly in the distant blue expanse.%K%P
 0x2F8
 武「楽園、か……」%K%P
 Takeshi「Utopia, huh...?」%K%P
@@ -84,28 +84,28 @@ And there was a tanuki, or raccoon dog.%K%P
 His eyes met those of the animal's.%K%P
 0x334
 彼とタヌキはしばらくの間、何も言わずに見つめ合っていた。%K%P
-For a moment, they eyed each other in silence.%K%P
+For a moment, they just stared at each other wordlessly.%K%P
 0x340
 武「ど、どうも……」%K%P
-Takeshi「Uh... He-hello...」%K%P
+Takeshi「Uh... H-Hello...」%K%P
 0x34C
 気まずい雰囲気を取り繕うように、彼は軽く会釈をする。%K%P
-To clear the air, he nodded his head.%K%P
+He tried saying something to clear the air...%K%P
 0x358
 タヌキは答えずに、そっぽを向いてしまった。%K%P
-The animal turned away, ignoring him.%K%P
+...But the animal turned away, ignoring him.%K%P
 0x364
 よく見ると、タヌキの尻尾のところには、何かがかじりついているのがわかった。%K%P
-Upon closer inspection, he noticed something biting the animal from behind.%K%P
+Upon closer inspection, he noticed something biting the tanuki's tail.%K%P
 0x3B4
 ？？「ウーッ……ウーッ……ウーッ……」%K%P
 ???「Grr... Grr... Grr...」%K%P
 0x3C0
 少女だった。%K%P
-It was a young girl.%K%P
+It was a girl.%K%P
 0x3CC
 誤解を招かぬよう念を押すが、彼女は『人間の』姿形をしていた。%K%P
-She was shaped like a 'person'.%K%P
+For the record, yes, a 'human' girl.%K%P
 0x3D8
 さらによくよく見ると、少女のお尻にも、何かがかじりついていた。%K%P
 Looking closer revealed that there was something strange about her as well.%K%P
@@ -117,16 +117,16 @@ Looking closer revealed that there was something strange about her as well.%K%P
 Namely, a small tanuki attached to the girl's backside.%K%P
 0x44C
 『大ダヌキの尻尾にかじりついている少女のお尻にかじりついている小ダヌキ』%K%P
-'In front of him, there was a big tanuki being bitten by a girl who was being bitten by a smaller tanuki.'%K%P
+'A small tanuki biting a girl who was biting a bigger tanuki.'%K%P
 0x458
 その光景は、彼から現実感を奪うのに充分だった。%K%P
-The scene was enough to make him lose his sense of reality.%K%P
+The scene was enough to shatter his sense of reality.%K%P
 0x464
 まぶたをこすり、こすっては開き……。%K%P
-He rubbed his eyes, rubbed them some more, and opened them again...%K%P
+He rubbed his eyes, rubbed them some more, and tried looking again...%K%P
 0x470
 まばたきを何度繰り返してみても、その奇妙な光景が消えることはなかった。%K%P
-Even after blinking several times... the bizarre scene refused to go away.%K%P
+But no matter how many times he blinked, the bizarre scene just refused to go away.%K%P
 0x47C
 タヌキ「ねぇ？」%K%P
 Tanuki「Hey.」%K%P
@@ -135,10 +135,10 @@ Tanuki「Hey.」%K%P
 Tanuki「Would you do something about this kid?」%K%P
 0x494
 大ダヌキがささやく。%K%P
-Whispered the big tanuki.%K%P
+The large tanuki whispered to him.%K%P
 0x4A0
 しかし放心状態の彼の耳に、その言葉は届かない。%K%P
-But the words didn't reach his mind because it was so busy trying to process the absurd scene.%K%P
+But in his state of sheer confusion, the words went in one ear and right out the other.%K%P
 0x4AC
 ？？「ウーッ……ウーッ……ウーッ……」%K%P
 ???「Grr... Grr... Grr...」%K%P
@@ -147,34 +147,34 @@ But the words didn't reach his mind because it was so busy trying to process the
 ???「Grr... Grr... Grr...」%K%P
 0x4C4
 （やっぱり俺は、夢の中に？）%K%P
-(I must be dreaming, right?)%K%P
+(Is this really a dream after all?)%K%P
 0x4D0
 ――彼は本気でそう思っていた。%K%P
-―That was what he was really thinking.%K%P
+―For a moment, he seriously had to consider the possibility.%K%P
 0x5FC
 （ん？）%K%P
 (Huh?)%K%P
 0x608
 ふと気づくと、タヌキ達が列を成して前に進んでいくのが見えた。%K%P
-He noticed that the two tanuki had formed a line and were moving forward.%K%P
+When he finally snapped out of his daze, he noticed that the two tanuki had formed a line and were moving forward.%K%P
 0x614
 行く手には密閉式の巨大なゲートがあった。%K%P
-In front of them was a massive gate that had been sealed shut.%K%P
+In front of them was a massive gate that was shut tight.%K%P
 0x620
 音もなくゲートは開かれ、大ダヌキ・小ダヌキ・少女は連なったまま、その中に入る。%K%P
-The gate swung open soundlessly, and the big tanuki, the little tanuki, and the girl went inside.%K%P
+The gate swung open without a sound, and the big tanuki, the little tanuki, and the girl went inside.%K%P
 0x640
 （ようやく俺の番か……）%K%P
 (Finally! My turn...)%K%P
 0x64C
 彼はすぐその後に続いた。%K%P
-He followed their footsteps.%K%P
+He followed right after them.%K%P
 0x694
 ＬｅＭＵへの一般客用入り口はそこにしかなかった。%K%P
-That was LeMU's only entrance for visitors.%K%P
+This was LeMU's only entrance for visitors.%K%P
 0x6A8
 ゲートには数人の係員が待機していて、訪れる客へ小型のイヤホンのようなものを手渡している。%K%P
-Several park employees waited at the gate and handed over what looked like earphones to the visitors.%K%P
+Several park employees waited at the gate and handed over what looked like earphones to the arriving guests.%K%P
 0x6B4
 この先では、このイヤホンを装着しなければならないらしい。%K%P
 It seemed that the earphones were to be used at some point up ahead.%K%P
@@ -183,7 +183,7 @@ It seemed that the earphones were to be used at some point up ahead.%K%P
 He wondered why.%K%P
 0x6D4
 軽く訝しみながらも指示に従い、彼は建物の内部に足を踏み入れた。%K%P
-Looking around skeptically, but obeying instructions, he stepped into the building.%K%P
+Looking around with a tinge of skepticism, but still obeying instructions, he stepped into the building.%K%P
 0x740
 天井を見渡す。%K%P
 He surveyed the ceiling.%K%P
@@ -195,22 +195,22 @@ There were no windows. From the polished round walls, it was clear that the room
 He looked around.%K%P
 0x764
 順番待ちをしていた多くの客が、この部屋へと入ってくる。%K%P
-Many of the visitors who had been waiting in line headed into the room.%K%P
+Many of the visitors he'd seen waiting in line were now filing into the room.%K%P
 0x770
 友達同士、恋人同士、家族連れの姿もある。%K%P
-Among them were friends, amorous couples, and people with their families.%K%P
+Among them were friends, amorous couples, and families alike.%K%P
 0x77C
 しかし、先程のタヌキの一家は離散していた。%K%P
 However, it seemed the 'Tanuki family' had split up.%K%P
 0x788
 大ダヌキは大勢の客を掻き分け、部屋の奥にあるもうひとつの扉へと進み出る。%K%P
-The big tanuki shoved its way through the crowd of people and continued through a door on the other side of the room.%K%P
+The large tanuki shoved its way through the crowd of people and made its way toward a door on the on the other side of the room.%K%P
 0x794
 少女は小ダヌキと一緒に、こちら側にたたずんでいた。%K%P
 The young girl stayed on the same side of the room as the little tanuki.%K%P
 0x7A0
 （あのタヌキ達は結局なんだかわからんが、ともかく……）%K%P
-(I've got no clue what those tanuki are all about, but...)%K%P
+(Can't say I have a clue what those tanuki are all about, but...)%K%P
 0x7AC
 （あいつら、やっぱりここにはいないな……）%K%P
 (I guess my friends aren't here either...)%K%P
@@ -222,7 +222,7 @@ He didn't see any familiar faces around.%K%P
 He figured maybe they had already taken the far elevator downstairs.%K%P
 0x7D0
 ２０分程前のことだが、入場待ちをしていた彼の目の前で、客が部屋の定員に達してしまった為に――%K%P
-Just 20 minutes earlier, the visitor room had reached capacity...%K%P
+Just 20 minutes earlier, while he'd been waiting in line, the visitor room had reached capacity...%K%P
 0x7DC
 一緒に並んでいた友人達は先にこの部屋に入り、彼だけがひとり、次回に取り残されることになっていたのだ。%K%P
 And the friends he had been waiting with had gone ahead, leaving him behind to go down with the next group.%K%P
@@ -231,7 +231,7 @@ And the friends he had been waiting with had gone ahead, leaving him behind to g
 (Oh well. I'm sure I'll find everyone down below soon enough.)%K%P
 0x7F4
 やがて、静かに入場ゲートが閉じられる。%K%P
-Finally, the gate to the entrance slipped shut quietly.%K%P
+Finally, the gate to the entrance quietly slipped shut.%K%P
 0x800
 大ダヌキが壁面に据え付けられたパネルを操作すると、部屋が少し暗くなった。%K%P
 The big tanuki fiddled with something on the wall, and the room got a shade darker.%K%P
@@ -243,10 +243,10 @@ Park Staff「Hello, everybody!」%K%P
 A park employee emerged out of the darkness.%K%P
 0x860
 いつの間に現れたのだろう。彼女は派手なドレスを着ている。%K%P
-He wondered where she had come from. She was wearing a flashy dress.%K%P
+He wondered when she had gotten there. She was wearing a flashy dress.%K%P
 0x86C
 ほのかな光を放つその姿はやはり、夢の中の出来事のように見えた。%K%P
-The dim light shining on her made her seem like a character from some dream.%K%P
+The dim light illuminating her made her seem like something out of a dream indeed.%K%P
 0x8A8
 客「…………」%K%P
 Visitors「...」%K%P
@@ -264,7 +264,7 @@ Park Staff「Hello!」%K%P
 Young Girl「Hellooooo!」%K%P
 0x8E4
 先程、大ダヌキの尻尾にかじりついていた少女が叫んだ。%K%P
-It was the girl who, just a little while ago, had been attached to the rear of the large tanuki.%K%P
+It was the girl who had been biting the large tanuki's tail earlier.%K%P
 0x8F8
 係員「あっ、元気のいい女の子、発見」%K%P
 Park Staff「Oh! I've found a girl with some spunk.」%K%P
@@ -276,31 +276,31 @@ Park Staff「What's your name?」%K%P
 Young Girl「I'm Ya-ga-mi Co-co!」%K%P
 0x91C
 ココ「で、こっちが愛犬のピピ」%K%P
-Coco「This is my pet dog, Pipi.」%K%P
+Coco「And this is my pet dog, Pipi.」%K%P
 0x928
 ピピ「わんっ！」%K%P
 Pipi「*Woof*!」%K%P
 0x934
 （あれはタヌキではなく犬だったのか）%K%P
-(So that isn't a tanuki, it's a dog.)%K%P
+(Oh, so that's not a tanuki, it's a dog.)%K%P
 0x940
 （でも、普通ペットは持ち込み禁止なはずでは？）%K%P
-(I thought they didn't let pets in here...)%K%P
+(Wait, I thought they didn't let pets in here...)%K%P
 0x94C
 彼は首を傾げる。%K%P
-He tilted his head doubtfully.%K%P
+He tilted his head in confusion.%K%P
 0x958
 係員「ココちゃんは、ＬｅＭＵに来たのは何回目かな？」%K%P
 Park Staff「So, Coco-chan, how many times have you been to%NLeMU?」%K%P
 0x964
 ココ「んーとねぇ、んーとねぇ……１・２・３・４・５……」%K%P
-Coco「Uh, well... One, two, three, four, five...」%K%P
+Coco「Um, well... One, two, three, four, five...」%K%P
 0x970
 ココ「今回が、はじめて！」%K%P
 Coco「This is my first time!」%K%P
 0x97C
 係員「ふふふっ、面白い子ね」%K%P
-Park Staff「Heehee. Aren't you a funny girl?」%K%P
+Park Staff「Hehe, aren't you a funny girl?」%K%P
 0x988
 ココ「よく言われます」%K%P
 Coco「I get that a lot.」%K%P
@@ -309,61 +309,61 @@ Coco「I get that a lot.」%K%P
 Coco「You want me to do something even more funny?」%K%P
 0x9A8
 係員「えっ？」%K%P
-Park Staff「What?」%K%P
+Park Staff「Hm?」%K%P
 0x9B4
 ココ「最近ね、友達からちょーうけるコメッチョ教わったの！」%K%P
-Coco「My friend told me a good joke the other day!」%K%P
+Coco「My friend told me a real good joke the other day!」%K%P
 0x9C8
 係員「あ、ああ……えーっと……それは、また今度ね」%K%P
-Park Staff「O-ooh... Er... Maybe some other time.」%K%P
+Park Staff「O-Oh... Er... Maybe some other time.」%K%P
 0x9D4
 ココ「どうしてぇーっ？」%K%P
 Coco「Why not?」%K%P
 0x9E0
 係員「これから、皆さんにお伝えしなくちゃいけないことがあるの」%K%P
-Park Staff「Because I have to tell everyone something right now.」%K%P
+Park Staff「Because I have to tell everyone something important right now.」%K%P
 0x9EC
 ココ「う〜ん……そっか、ほいじゃあしょうがないよね」%K%P
-Coco「Oh. Okay then...」%K%P
+Coco「Hmm... Oh well, okay then...」%K%P
 0x9F8
 ココ「でも、ほんとにオモシロイのになぁ……」%K%P
-Coco「But it's really funny...」%K%P
+Coco「It's really funny, though...」%K%P
 0xA04
 ココ「残念だね？　ピピ」%K%P
-Coco「That's too bad, huh, Pipi?」%K%P
+Coco「Too bad, huh, Pipi?」%K%P
 0xA10
 ピピ「わんっ！」%K%P
 Pipi「*Woof*!」%K%P
 0xA24
 係員「オホン……では、改めまして……」%K%P
-Park Staff「Ahem. Once again...」%K%P
+Park Staff「Ahem. Now, once again...」%K%P
 0xA38
 係員「このたびは、海洋テーマパーク『ＬｅＭＵ』に御来場くださいまして、誠にありがとうございます」%K%P
-Park Staff「On behalf of the LeMU marine theme park, I'd like to thank you very much for coming.」%K%P
+Park Staff「On behalf of the marine theme park LeMU, I'd like to thank you all very much for coming.」%K%P
 0xA44
 係員「これから皆さんに、このテーマパーク『ＬｅＭＵ』の御説明と、少しだけ、注意事項をお知らせいたします」%K%P
-Park Staff「I am about to give you a brief explanation about the LeMU theme park and tell you a few things to watch out for.」%K%P
+Park Staff「I am about to give you a brief explanation about the park and tell you a few things to watch out for.」%K%P
 0xA50
 ココ「え〜っ、そんなのどうでもいいから、早く中に入れてよぉ〜！」%K%P
 Coco「Hey, who cares? Hurry up and let us inside already!」%K%P
 0xA5C
 係員「私も勿論、すぐにでも皆さんを御案内したいのですが……」%K%P
-Park Staff「I would love to take everyone inside...」%K%P
+Park Staff「I would love to take everyone inside right away...」%K%P
 0xA68
 係員「申し訳ありません」%K%P
 Park Staff「But I'm terribly sorry.」%K%P
 0xA74
 係員「実はどうしても、皆さんにはこの加圧室に留まっていただく必要があるのです」%K%P
-Park Staff「Everyone will actually have to stay in this room for now.」%K%P
+Park Staff「Everyone will actually have to stay in this room for the time being.」%K%P
 0xA80
 係員「たった１７分間だけです」%K%P
-Park Staff「It will only take seventeen minutes.」%K%P
+Park Staff「It will only take 17 minutes.」%K%P
 0xA8C
 係員「その間だけ、どうかお付き合いください」%K%P
-Park Staff「So please just bear with me for that long.」%K%P
+Park Staff「So please bear with me for that long.」%K%P
 0xAA0
 係員「まず、この部屋についてですが……ここは加圧室と申します」%K%P
-Park Staff「First, let me explain a bit about this room... It is called a compression chamber.」%K%P
+Park Staff「Firstly, let me explain a bit about this room... It is called a pressurization chamber.」%K%P
 0xAAC
 係員「これから、この中の空気圧を６気圧まで加圧します」%K%P
 Park Staff「Starting from now, the air pressure in here is going to rise to six atmospheres.」%K%P
@@ -405,13 +405,13 @@ Park Staff「Is everything clear then?」%K%P
 Park Staff「...」%K%P
 0xB68
 係員「では、加圧を始めましょう」%K%P
-Park Staff「Alright then. We'll initiate the rise in pressure.」%K%P
+Park Staff「Very well, then. We'll initiate the rise in pressure.」%K%P
 0xB74
 係員「加圧時間は、先程も申し上げましたように１７分間です」%K%P
-Park Staff「As I said before, the time required to increase the pressure is seventeen minutes.」%K%P
+Park Staff「As I said before, this process will take 17 minutes.」%K%P
 0xB80
 係員「その間に、皆さんにＬｅＭＵの構造について御説明いたします」%K%P
-Park Staff「During that time, I will explain to everyone about the structure of LeMU.」%K%P
+Park Staff「During that time, I will explain a little about the structure of LeMU to you all.」%K%P
 0xB9C
 係員「皆さんも御存知の通り、ＬｅＭＵは海の中に浮かんでいます」%K%P
 Park Staff「As you all know, LeMU is floating in the ocean...」%K%P
@@ -429,10 +429,10 @@ Park Staff「From the top, these are called Insel Null, Erster Boden, Zweiter St
 Park Staff「In terms of a normal building, you might think of it as a structure with a ground floor extending down to a%Nthree-story basement.」%K%P
 0xBE0
 係員「インゼル・ヌルとは、ここ……浮島のことです」%K%P
-Park Staff「Insel Null, here, is a floating island.」%K%P
+Park Staff「Insel Null, where we are at the moment, is a floating island.」%K%P
 0xBEC
 係員「洋上に浮かんだ巨大な人工島……」%K%P
-Park Staff「It is an immense man-made island floating in the ocean...」%K%P
+Park Staff「It is an immense man-made island floating on the ocean's surface...」%K%P
 0xBF8
 係員「インゼルは島、ヌルはゼロという意味のドイツ語です」%K%P
 Park Staff「In German, 'insel' means 'island' and 'null' means 'zero'.」%K%P
@@ -444,13 +444,13 @@ Park Staff「In other words, this is floor zero, or the ground floor.」%K%P
 Park Staff「Next is from Erster to Dritter...」%K%P
 0xC1C
 と、そのときだった。%K%P
-Just then.%K%P
+Just then...%K%P
 0xC28
 ココ「ねえねえ？　ねえねえ？」%K%P
 Coco「Hey, hey. Hey, you.」%K%P
 0xC34
 ココ「ねえってばぁ！」%K%P
-Coco「Hey, I'm talking to you.」%K%P
+Coco「Hey, I'm talking to you!」%K%P
 0xC40
 説明に耳を傾けていた彼の背中を、ふいに誰かが引っぱった。%K%P
 As he was listening to the explanation, someone pulled on him from behind.%K%P
@@ -459,13 +459,13 @@ As he was listening to the explanation, someone pulled on him from behind.%K%P
 He turned to look around.%K%P
 0xC60
 そこにいたのは、さっき係員とやり取りしていた少女だった。%K%P
-It was the girl who had just been talking with the park staff.%K%P
+It was the girl who had just been talking with the lady giving the explanation.%K%P
 0xC6C
 名前は確か……%K%P
 (What was her name again...?)%K%P
 0xC78
 ココ「ねえ？　ココのコメッチョ、気にならない？」%K%P
-Coco「Hey. Don't you want to know about my joke?」%K%P
+Coco「Hey. Don't you want to hear my joke?」%K%P
 0xC84
 ああ、そうだった。%K%P
 (Oh, that's right.)%K%P
@@ -477,28 +477,28 @@ Coco「Hey. Don't you want to know about my joke?」%K%P
 (And that animal she's holding is Pepe, or Popo, or something...)%K%P
 0xCA8
 ココ「気になるでしょ？」%K%P
-Coco「You wanna know, don't you?」%K%P
+Coco「You wanna hear it, don't you?」%K%P
 0xCB4
 武「えっ？　何が？」%K%P
-Takeshi「Huh? What?」%K%P
+Takeshi「Huh? What are you talking about?」%K%P
 0xCC0
 ココ「さっき言おうとしたコメッチョのことだよ」%K%P
-Coco「The joke I was just talking about. It's an Ame-joke.」%K%P
+Coco「The joke I was just talking about. It's an Ameri-joke.」%K%P
 0xCCC
 武「こ、こめっちょ？」%K%P
-Takeshi「An ame... joke?」%K%P
+Takeshi「An ameri... joke?」%K%P
 0xCE0
 ココ「知らないの？　最近流行ってるっしょ？」%K%P
-Coco「You haven't heard about them? They're real popular now, ya know.」%K%P
+Coco「You haven't heard about them? They're real popular nowadays, ya know.」%K%P
 0xCEC
 武「知らないな、そんなの……何だ、それ？」%K%P
-Takeshi「No, I haven't. What are you talking about?」%K%P
+Takeshi「No, I haven't. What's the deal with it?」%K%P
 0xD00
 ココ「アメリカンジョークのことだってば……米っちょ、米っちょ」%K%P
-Coco「An Ame-joke is an American joke. Get it? 'Ame-joke'.」%K%P
+Coco「An Ameri-joke is an American joke. Get it? 'Ameri-joke'.」%K%P
 0xD0C
 武「ふ、ふ〜ん……」%K%P
-Takeshi「Hm? Hmm...」%K%P
+Takeshi「O-Oh...」%K%P
 0xD18
 ココ「気になるでしょ？　教えて欲しいでしょ？」%K%p
 Coco「Makes you wanna hear it, right? Want me to tell you?」%K%p
@@ -513,16 +513,16 @@ Listen to the staff member's explanation
 Takeshi「Yeah, I guess I'll listen to it.」%K%P
 0xD88
 ココ「ＯＫ！　じゃあ教えてあげよう！」%K%P
-Coco「Okay! Here it goes!」%K%P
+Coco「Okay! Here goes!」%K%P
 0xDBC
 ココ「昔、ある男が、死んだおじいさんの幽霊に向かってこんなことを尋ねたんだ」%K%P
-Coco「Once, there was this guy who was talking to the ghost of his dead grandfather. So he asked him a question.」%K%P
+Coco「Once upon a time, there was this guy who was talking to the ghost of his dead grandfather. So he asked him a question.」%K%P
 0xDC8
 ココ「『百万年と言ったら、幽霊にとってどれぐらいの時間なんでしょうか？』」%K%P
 Coco「'How long is a million years to a ghost?', he asked.」%K%P
 0xDD4
 ココ「すると幽霊はこう答えた」%K%P
-Coco「And the ghost answered.」%K%P
+Coco「And the ghost answered...」%K%P
 0xDE0
 ココ「『百万年と言ったら、わしにとっては１秒みたいなもんだよ』」%K%P
 Coco「'A million years is like a second to me.'」%K%P
@@ -534,10 +534,10 @@ Coco「Next, the man asked...」%K%P
 Coco「'How much is a million dollars to a ghost?'」%K%P
 0xE04
 ココ「幽霊は答えた」%K%P
-Coco「And the ghost answered.」%K%P
+Coco「And the ghost answered...」%K%P
 0xE10
 ココ「『百万ドル？　それは人間の価値で言えば１セントと同じようなものじゃ』」%K%P
-Coco「'A million dollars? It is but one small cent to me.'」%K%P
+Coco「'A million dollars? It's nothin' but one small cent to me.'」%K%P
 0xE1C
 ココ「その答えを聞いて、男はニヤニヤと愛想笑いを浮かべながら、最後にこんなことを聞いてみたんだ」%K%P
 Coco「When he heard that, the man pretended to smile all nice and then said...」%K%P
@@ -558,43 +558,43 @@ Coco「'But can I get you to wait just a second?'」%K%P
 Takeshi「...」%K%P
 0xE64
 ココ「ぷぷっ、ぷぷっ……」%K%P
-Coco「Heeheeheee...」%K%P
+Coco「Pft... Heehee...」%K%P
 0xE78
 ココ「キャハハハハハハハハ！」%K%P
 Coco「Waaahahaha!」%K%P
 0xE84
 ココ「どう？　とびっきりいかしたジョークでしょ？」%K%P
-Coco「Well? That's a pretty good joke, huh?」%K%P
+Coco「Well? Pretty good joke, huh?」%K%P
 0xEA0
 武「まぁ、気にならないこともないけど……後でな」%K%P
-Takeshi「Well, I suppose it could be worse, but... I'll talk to you%Nlater.」%K%P
+Takeshi「It's not that I don't want to hear it, but... later, okay?」%K%P
 0xEAC
 ココ「えーっ」%K%P
-Coco「Huh.」%K%P
+Coco「Whaaat?!」%K%P
 0xEB8
 彼は子犬の頭を撫でると、向き直って係員の説明に耳を傾けた。%K%P
-Patting the little dog's head, he turned back to listen to the explanation.%K%P
+He patted the little dog's head and turned back to listen to the explanation.%K%P
 0xECC
 係員「というわけで、各フロアの構造はおわかりになっていただけたと思います」%K%P
-Park Staff「So now you should now have a general understanding of the layout of each floor.」%K%P
+Park Staff「So, now you should have a general understanding of the layout of each floor.」%K%P
 0xED8
 係員「ところで、このＬｅＭＵは、飽和潜水仕様の設計になっています」%K%P
 Park Staff「By the way, LeMU was designed with saturation diving specifications.」%K%P
 0xEE4
 係員「つまり、内部の気圧が、外の水圧と同等か、またはそれを上まわるようになっているのです」%K%P
-Park Staff「In other words, the air pressure inside is equivalent to or greater than the water pressure outside.」%K%P
+Park Staff「In other words, the internal air pressure is equivalent to or greater than the water pressure outside.」%K%P
 0xEF0
 係員「話の初めでもお伝えしましたように……」%K%P
 Park Staff「As I said at the beginning...」%K%P
 0xEFC
 係員「これから皆さんがお入りになる館内は、どこもかしこも６気圧の混合ガスで充たされています」%K%P
-Park Staff「The complex that we're all going to enter is filled with a mixture of gases at six atmospheres.」%K%P
+Park Staff「The complex that you'll all be entering is filled with a mixture of gases at six atmospheres.」%K%P
 0xF08
 係員「ですから、今このようにして、皆さんの身体を６気圧の大気に慣らしているというわけです」%K%P
 Park Staff「So right now our bodies are adjusting to be able to handle pressure equivalent to six atmospheres.」%K%P
 0xF14
 係員「勿論、この混合ガスは、酸素・窒素・ヘリウムで構成されておりますので、人体にはまったく無害です」%K%P
-Park Staff「Of course, this mixture of gases is composed of oxygen, nitrogen, and helium, and is completely harmless to people.」%K%P
+Park Staff「This mixture of gases is composed of oxygen, nitrogen, and helium, and is of course completely harmless to people.」%K%P
 0xF20
 係員「どうして中の気圧を高めているのかと申しますと……」%K%P
 Park Staff「The reason for raising the air pressure inside is...」%K%P
@@ -603,28 +603,28 @@ Park Staff「The reason for raising the air pressure inside is...」%K%P
 Park Staff「That it is essential to make LeMU safe for everyone.」%K%P
 0xF38
 係員「皆さんは、これから海の中へと潜って行くわけですが……」%K%P
-Park Staff「Okay, everyone, we are now going to enter the ocean...」%K%P
+Park Staff「All of you are going to be far under the sea very soon...」%K%P
 0xF44
 係員「ここで、ちょっぴり不安に思われている方も、中にはいらっしゃるのではないでしょうか？」%K%P
 Park Staff「Are any of you here feeling just a little bit nervous?」%K%P
 0xF50
 係員「海水が漏れて中に入って来たらどうするんだ、とか、水圧に押し潰されて沈没してしまうんじゃないか、とか」%K%P
-Park Staff「You might be worrying about what would happen if seawater started leaking inside, or that you might be crushed by the water pressure, or us sinking.」%K%P
+Park Staff「You might be worrying about what would happen if seawater started leaking inside, or that we might be crushed by the water pressure and start sinking.」%K%P
 0xF5C
 係員「しかし、どうか御安心ください。そのような心配は一切御無用です」%K%P
-Park Staff「However, please relax. There is nothing to worry about.」%K%P
+Park Staff「However, please rest assured. There is nothing to worry about.」%K%P
 0xF68
 係員「内部の気圧を高めているので、このＬｅＭＵが水圧によって押し潰されることは絶対にあり得ないのです」%K%P
-Park Staff「There is absolutely no way that LeMU could be crushed by the outside water pressure because we have raised the air pressure inside.」%K%P
+Park Staff「It is absolutely impossible for LeMU to be crushed by the outside water pressure because we have raised the air pressure inside.」%K%P
 0xF84
 係員「ところで、この加圧室に入る前に、皆さんにイヤホンのようなものをお配りしましたよね？」%K%P
 Park Staff「By the way, before we entered this pressurization chamber, we handed out earphones to everyone, remember?」%K%P
 0xF90
 係員「はい、そうです。今、皆さんが耳に装着されている、そのイヤホンです」%K%P
-Park Staff「Yes, that's right, the earphones that everyone is using right now.」%K%P
+Park Staff「Yes, that's right, the earphones you're all currently wearing.」%K%P
 0xFA4
 係員「これはただのイヤホンではなく『音声変換機』と言います」%K%P
-Park Staff「These are not your average earphones. They are 'voice alternators'.」%K%P
+Park Staff「These are not just ordinary earphones. They are 'voice alternators'.」%K%P
 0xFB0
 係員「ＬｅＭＵの中にはヘリウムガスが充満しているので、この変換機を耳につけていないと、アヒルのような声に聞こえてしまうのです」%K%P
 Park Staff「LeMU is pumped full of helium gas, so without these in your ears, you'll sound like a duck.」%K%P
@@ -639,22 +639,22 @@ He removed his voice alternators to see what would happen.%K%P
 (Then again, maybe they sound more like aliens than ducks.)%K%P
 0xFE8
 周りにいる人達の声が、不思議なトーンに変わっていた。%K%P
-The voices of the people around him jumped to a strange higher tone.%K%P
+The voices of the people around him jumped to a strange higher pitch.%K%P
 0xFF4
 武「なぁ？　なんかしゃべってみてくれよ」%K%P
-Takeshi「Hey, say something.」%K%P
+Takeshi「Hey, try saying something.」%K%P
 0x1000
 ココ「なんかって？」%K%P
 Coco「Like what?」%K%P
 0x100C
 武「はははっ、なんだよその声、すげー笑える」%K%P
-Takeshi「Hahaha! Your voice is hilarious.」%K%P
+Takeshi「Hahaha! Your voice is hilarious!」%K%P
 0x1018
 ココ「えっ？　声？」%K%P
 Coco「Huh? My voice?」%K%P
 0x1034
 ココは係員の説明を聞いていなかったようだ。%K%P
-Coco hadn't been listening to the explanation.%K%P
+It seemed Coco hadn't been listening to the explanation.%K%P
 0x1040
 武「そうだ、さっきの米っちょ、もう１回聞かせてくれないか？」%K%P
 Takeshi「Can you tell me that joke one more time?」%K%P
@@ -666,16 +666,16 @@ Coco「Why?」%K%P
 Takeshi「C'mon, just do it.」%K%P
 0x1064
 ココ「昔、ある男が、死んだおじいさんの幽霊に向かってこんなことを尋ねたんだ」%K%P
-Coco「Once, there was this guy who was talking to the ghost of his dead grandfather. So he asked him a question.」%K%P
+Coco「Once upon a time, there was this guy who was talking to the ghost of his dead grandfather. So he asked him a question.」%K%P
 0x1070
 ココ「『百万年と言ったら、幽霊にとってどれぐらいの時間なんでしょうか？』」%K%P
 Coco「'How long is a million years to a ghost?', he asked.」%K%P
 0x107C
 ココ「すると幽霊はこう答えた」%K%P
-Coco「And the ghost answered.」%K%P
+Coco「And the ghost answered...」%K%P
 0x1088
 武「ぷっ……ぷぷっ……」%K%P
-Takeshi「Heee... heee...」%K%P
+Takeshi「Pft... Heh, heh...」%K%P
 0x1094
 武「だははははははははっ！」%K%P
 Takeshi「Waaahaaaah!」%K%P
@@ -690,10 +690,10 @@ He put the voice alternators back in his ears and looked back at the staff membe
 Coco「What's wrong with my voice?」%K%P
 0x10D4
 武「はははっ、さっきの説明聞いてなかったのかよ」%K%P
-Takeshi「Hahaha. You weren't listening to the explanation.」%K%P
+Takeshi「Hahaha, you weren't listening to the explanation, were you?」%K%P
 0x10E0
 ココ「なーに笑ってるのー？　にやにやしてるのー？」%K%P
-Coco「What are you laughing at? Why are you smiling like that?」%K%P
+Coco「What's so funny? Why are you smiling like that?」%K%P
 0x10EC
 ココ「あやしいひとみたいだよー？」%K%P
 Coco「You're acting really weird.」%K%P
@@ -711,10 +711,10 @@ Takeshi「It's so funny. You sound like an eight-legged alien.」%K%P
 Coco「Alien? Alien as in 'Take us to your leader'... goooba joooba doooba space alien?」%K%P
 0x1130
 ココ「クィクィ星人とか、太陽星人とか？」%K%P
-Coco「Like a Martian or someone from Planet Kuikui, or something?」%K%P
+Coco「Like a Martian, or a sun person, or someone from Planet Kuikui, or something?」%K%P
 0x113C
 ココ「イカン星人だと、この辺のさきっちょから、ビームがみゅ〜っと……」%K%P
-Coco「A star person? From the far edge of the galaxy, with lasers...?」%K%P
+Coco「A star person, from the far edge of the galaxy, with pew-pew laser beams...?」%K%P
 0x1148
 武「…………」%K%P
 Takeshi「...」%K%P
@@ -723,55 +723,55 @@ Takeshi「...」%K%P
 Coco「My joke was a lot funnier than THAT!」%K%P
 0x1168
 武「ぷっ……ぷぷっ……」%K%P
-Takeshi「Hee... haha...」%K%P
+Takeshi「Pft... Haha...」%K%P
 0x1174
 武「だははははははははっ！」%K%P
 Takeshi「Waaahaaaah!」%K%P
 0x1180
 武「もういい、もうお腹いっぱい。サンキュー……」%K%P
-Takeshi「That's enough. I can't take any more of this. Thanks.」%K%P
+Takeshi「All right, that's enough. I can't take any more of this. Thanks.」%K%P
 0x118C
 彼は音声変換機を耳に戻すと、再び係員のほうに視線を向けた。%K%P
 He put the voice alternators back in his ears and looked back at the staff member again.%K%P
 0x11A8
 係員「さあ、説明はこれで終わりです」%K%P
-Park Staff「And that pretty much covers it.」%K%P
+Park Staff「And that covers just about everything.」%K%P
 0x11B4
 係員「あと１分程で、この部屋の脇にあるドアが開きます」%K%P
 Park Staff「In approximately one minute, the door on this side of the room will open.」%K%P
 0x11C0
 係員「ドアの向こうはエレベーターになっていますので、下降すれば、その先には素晴らしい楽園が広がっています」%K%P
-Park Staff「On the other side of that door is an elevator, and at the bottom of it, a brilliant paradise awaits.」%K%P
+Park Staff「On the other side of that door is an elevator, and at the bottom of it, a wonderful paradise awaits you.」%K%P
 0x11CC
 係員「それでは、海洋テーマパーク『ＬｅＭＵ』を、心ゆくまでお楽しみください」%K%P
 Park Staff「We hope that you enjoy yourself to your heart's content here at the marine theme park LeMU.」%K%P
 0x11E0
 武「さて、それじゃ行くか……」%K%P
-Takeshi「Well, shall we go...?」%K%P
+Takeshi「Well then, time to get going...」%K%P
 0x11EC
 彼はエレベーターへ向かおうとする。%K%P
 Just as he headed for the elevator...%K%P
 0x11F8
 ココ「ところで、ねぇ、ひとりで来たの？」%K%P
-Coco「So are you here by yourself?」%K%P
+Coco「So, are you here by yourself?」%K%P
 0x1204
 武「ああ、俺？　いや、友達とはぐれちゃってさ」%K%P
-Takeshi「Who, me? No, I got separated from my friends.」%K%P
+Takeshi「Who, me? Nah, I got separated from my friends.」%K%P
 0x1210
 ココ「迷子なんだ？」%K%P
 Coco「So you're lost?」%K%P
 0x121C
 武「んー、ちょっと違うけど、まぁ似たようなもんかな」%K%P
-Takeshi「Not exactly. But something like that.」%K%P
+Takeshi「Not exactly, but something like that.」%K%P
 0x1228
 武「エレベーターを降りたらそこらへん、歩いて捜してみるよ」%K%P
 Takeshi「I'll head down the elevator and take a look around.」%K%P
 0x123C
 ココ「さっきの係のひとに相談してみたら？」%K%P
-Coco「How about checking with that girl who was just talking?」%K%P
+Coco「How about checking with that lady who was just talking?」%K%P
 0x1248
 武「お、それもそうだな。ちょっとすいません……」%K%P
-Takeshi「Oh, I suppose I could do that. Excuse me...」%K%P
+Takeshi「Oh, good idea. One sec...」%K%P
 0x125C
 振り返ると、いつの間にか係員は消えていた。%K%P
 Looking back, he saw that the employee had already disappeared.%K%P
