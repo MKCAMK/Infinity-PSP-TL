@@ -30,13 +30,13 @@ Very wrong...%K%P
 But his voice didn't reach her.%K%P
 0xA0
 『――――、――――』%K%P
-'――――, ――――'%K%P
+「――――, ――――」%K%P
 0xAC
 『――――』%K%P
-'――――'%K%P
+「――――」%K%P
 0xB8
 『――――――――』%K%P
-'――――――――'%K%P
+「――――――――」%K%P
 0xC4
 彼女の声も、聞こえなかった。%K%P
 He couldn't hear her voice either.%K%P
@@ -81,7 +81,7 @@ And he stared back.%K%P
 (No... This is wrong...)%K%P
 0x1A4
 （だったら、ぼくを見ている『ぼく』は誰なんだ？）%K%P
-(If I'm 'me', then who is the 'me' over there?)%K%P
+(If I'm 「me」, then who is the 「me」 over there?)%K%P
 0x1B0
 違和感。%K%P
 A creeping sense of unease.%K%P
@@ -93,7 +93,7 @@ Realizing the truth, his lips trembled.%K%P
 (Who is that...?)%K%P
 0x1D4
 （あそこにいる『ぼく』は、いったい誰だ！？）%K%P
-(Who's the 'me' over there?!)%K%P
+(Who's the 「me」 over there?!)%K%P
 0x1E0
 違和感が拭えない。%K%P
 He couldn't shake the feeling of unease.%K%P

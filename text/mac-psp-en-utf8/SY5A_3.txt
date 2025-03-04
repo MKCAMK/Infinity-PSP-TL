@@ -21,19 +21,19 @@ When I awoke, it was already around evening.%K%N
 There was a memo by the bed.%K%O
 0xEC
 『夕食の時間になるまで、私達は会議室にいます。%K%N
-'We will be in the conference room until dinner.'%K%N
+「We will be in the conference room until dinner.」%K%N
 0xF8
 ⑳もし、それまでに起きたようなら、きみもおいでよ。%K%N
-'If you wake up by then, please come along.'%K%N
+「If you wake up by then, please come along.」%K%N
 0x104
 ⑳この数日間、無理に付き合わせちゃってゴメンね？%K%N
-'I'm sorry for making you hang out with me the last couple days.'%K%N
+「I'm sorry for making you hang out with me the last couple days.」%K%N
 0x110
 ⑳せめて今だけは、ゆっくりと身体を休めてください。%K%N
-'Please make sure that you get enough rest.'%K%N
+「Please make sure that you get enough rest.」%K%N
 0x11C
 ⑳　　　　　　　　　　　　　　　　　　　　　　ＹＯＵ』%K%N
-'―You'%K%N
+「―You」%K%N
 0x128
 %N
 
@@ -468,16 +468,16 @@ Or something else...%K%O
 A few hours later, the installation started to flood again.%K%P
 0xBBC
 『ドリットシュトック／隔離区画――コスミッシャー・ヴァル完全浸水』%K%P
-'Dritter Stock―from the partition to the Cosmic Whale was submerged.'%K%P
+「Dritter Stock―from the partition to the Cosmic Whale was submerged.」%K%P
 0xBC8
 『犠牲者：無し』%K%P
-'Casualties: None'%K%P
+「Casualties: None」%K%P
 0xBD4
 『他部屋への漏水：無し』%K%P
-'Flooding to other rooms: None'%K%P
+「Flooding to other rooms: None」%K%P
 0xBE0
 『被害拡大の恐れ：無し』%K%P
-'Chance of damage spreading: None'%K%P
+「Chance of damage spreading: None」%K%P
 0xBEC
 館内に響き渡る空の声が、事実だけを淡々と告げた。%K%P
 Sora's voice conveyed the situation over the intercom in a matter-of-fact tone.%K%P

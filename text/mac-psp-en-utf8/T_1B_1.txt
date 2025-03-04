@@ -1197,7 +1197,7 @@ We arrived at Dritter Stock―the third floor underwater.%K%P
 We used the ladder in the emergency corridor to descend to another corridor and turned around the corner.%K%P
 0x1A58
 『Ｋｏｎｔｒｏｌｌｚｅｎｔｒｕｍ』%K%P
-'Kontrollzentrum'%K%P
+「Kontrollzentrum」%K%P
 0x1A64
 どうやら、ここが中央制御室らしい。%K%P
 It seemed that it was the central control room.%K%P
@@ -1716,19 +1716,19 @@ But something struck me as strange.%K%P
 Actually, it had been bothering me since before...%K%P
 0x25A4
 『一応……ということになっている』%K%P
-'Basically... the assistant chief.'%K%P
+「Basically... the assistant chief.」%K%P
 0x25B0
 彼女は自分のことを他人事のように話した。%K%P
 She spoke about herself as if she were someone else.%K%P
 0x25BC
 『私が把握できなかった』%K%P
-'I was not able to gauge the situation.'%K%P
+「I was not able to gauge the situation.」%K%P
 0x25C8
 あるいは、システムの不備を自分のことのように話した。%K%P
 She spoke as if the problems in the system were her own.%K%P
 0x25D4
 『本当に、申し訳ありません』%K%P
-'Please do excuse me.'%K%P
+「Please do excuse me.」%K%P
 0x25E0
 システムエンジニアという職業柄からだろうか？%K%P
 (System engineer... I wonder if she talks like that because of her job?)%K%P
@@ -2001,16 +2001,16 @@ Tsugumi「...」%K%P
 The string of events leading to the sudden toast went something like...%K%P
 0x2D28
 『なぁ少年、なんでもいいから、わかることないか？』%K%P
-'Hey, kid, don't you know anything about before?'%K%P
+「Hey, kid, don't you know anything about before?」%K%P
 0x2D34
 『お前自身について、わかることはないのか？』%K%P
-'Not even something personal about yourself?'%K%P
+「Not even something personal about yourself?」%K%P
 0x2D40
 『わかること……ぼくにわかること……あっ！』%K%P
-'What do I know... Oh!'%K%P
+「What do I know... Oh!」%K%P
 0x2D4C
 『ぼく……なんか飲みたいな。喉が渇いたよ』%K%P
-'I know... I'm kinda thirsty.'%K%P
+「I know... I'm kinda thirsty.」%K%P
 0x2D58
 ――とまぁ、ただそれだけである。%K%P
 ―And that was how it started.%K%P
@@ -2622,19 +2622,19 @@ The kid pointed at a corner of the monitor.%K%P
 It indicated a single digit number.%K%P
 0x3B98
 『生体反応：６』%K%P
-'Life readings: 6'%K%P
+「Life readings: 6」%K%P
 0x3BA4
 少年「よく見て……」%K%P
 Kid「Watch it closely...」%K%P
 0x3BB8
 『生体反応：５』%K%P
-'Life readings: 5'%K%P
+「Life readings: 5」%K%P
 0x3BCC
 『生体反応：７』%K%P
-'Life readings: 7'%K%P
+「Life readings: 7」%K%P
 0x3BE0
 『生体反応：６』%K%P
-'Life readings: 6'%K%P
+「Life readings: 6」%K%P
 0x3BF8
 ５・%K
 5%K
@@ -2697,7 +2697,7 @@ Watching them change was unsettling...%K%P
 Finally...%K%P
 0x3D5C
 『生体反応：６』%K%P
-'Life readings: 6'%K%P
+「Life readings: 6」%K%P
 0x3D68
 最後に、そこで停止した。%K%P
 The monitor settled on the number six.%K%P

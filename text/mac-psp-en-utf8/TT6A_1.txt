@@ -507,7 +507,7 @@ The Kid was sleeping on the L-MRI table.%K%P
 His results from the scan came up on the control panel's monitor.%K%P
 0xC34
 『Ｔｉｅｆ⑳Ｂｌａｕ⑳２０１７−Ｒｅｖ．１７』%K%P
-'Tief Blau 2017-Rev.17'%K%P
+「Tief Blau 2017-Rev.17」%K%P
 0xC48
 優「少年も、ティーフブラウに感染してる……」%K%P
 Takeshi「The Kid's been infected with Tief Blau too...」%K%P
@@ -1269,7 +1269,7 @@ You「Tsugumi, I want you to get scanned right now.」%K%P
 Tsugumi「.........」%K%P
 0x1D08
 『Ｃｕｒｅ．Ｖｉｒｕｓ−Ｐ−Ｃａｒｒｉｅｒ』%K%P
-'Curé Virus-P-Carrier'%K%P
+「Curé Virus-P-Carrier」%K%P
 0x1D14
 キュレイウイルスによって遺伝子を組み替えられたつぐみの身体は、病気や怪我に対する治癒力が極めて高い。%K%P
 Tsugumi's genetic makeup had been altered by Curé, giving her incredible regenerative powers against illness and injuries.%K%P
@@ -2010,13 +2010,13 @@ I was somehow able to force out an answer.%K%P
 Voices spilled out from the other end of the line.%K%P
 0x309C
 『おい、生存者がいたぞ！』%K%P
-'Hey, there are survivors down there!'%K%P
+「Hey, there are survivors down there!」%K%P
 0x30A8
 『まさか、信じられん！』%K%P
-'I can't believe it!'%K%P
+「I can't believe it!」%K%P
 0x30B4
 『なんてことだ！』%K%P
-'That's amazing!'%K%P
+「That's amazing!」%K%P
 0x30C0
 なんてこったと言いたいのは、こっちのほうだ。%K%P
 That was what I wanted to say.%K%P
@@ -2166,7 +2166,7 @@ The sound... seemed to come from above...%K%P
 An alarm sounded from the terminal, and the screen changed.%K%P
 0x340C
 『ＬｅＭＵ内に浸水事故発生』%K%P
-'Warning: flooding has occurred in LeMU'%K%P
+「Warning: flooding has occurred in LeMU」%K%P
 0x3418
 武「ＬｅＭＵが……！？」%K%P
 Takeshi「LeMU...!?」%K%P

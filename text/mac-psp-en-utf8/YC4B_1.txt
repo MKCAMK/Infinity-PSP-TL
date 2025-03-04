@@ -1116,7 +1116,7 @@ It turned out she wasn't as bad as I thought.%K%P
 After resting for about an hour in the infirmary, You regained a surprising amount of her strength.%K%P
 0x16B0
 『でも、どうして突然、あんなふうに苦しみ出したんだろう？』%K%P
-'But why did you suddenly start suffering like that?'%K%P
+「But why did you suddenly start suffering like that?」%K%P
 0x16BC
 俺は優に尋ねたが、話をはぐらかされて、まともなことは教えてもらえなかった。%K%P
 I asked You, but she changed the subject and didn't tell me anything.%K%P
@@ -1617,7 +1617,7 @@ You「The truth...」%K%P
 (She doesn't think she'll ever see him again...?)%K%P
 0x2098
 『――いつものことだから――』%K%P
-'It happens all the time.'%K%P
+「It happens all the time.」%K%P
 0x20A4
 （胸を押さえて苦しんでいた、優の姿……）%K%P
 (She'd been suffering with her hand on her chest...)%K%P

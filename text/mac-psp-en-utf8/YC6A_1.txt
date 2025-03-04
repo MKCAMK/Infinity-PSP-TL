@@ -75,7 +75,7 @@ I felt neither sadness nor anger... Neither impatience nor despair...%K%P
 I was looking at the reality in front of me as one might stare at a meaningless jumble of numbers.%K%P
 0x1C8
 『Ｔｉｅｆ⑳Ｂｌａｕ⑳２０１７−Ｒｅｖ．１７』%K%P
-'Tief Blau 2017-Rev.17'%K%P
+「Tief Blau 2017-Rev.17」%K%P
 0x1D4
 救護室の『Ｌ−ＭＲＩ』が、ココの症状をそう診断した。%K%P
 The L-MRI was scanning Coco's condition.%K%P
@@ -651,7 +651,7 @@ Operating the terminals, they scanned through some of the information there.%K%N
 They were searching for any information that they could use and finally came across something interesting.%K%O
 0xEF4
 『ＩＢＦ来館ゲスト登録：八神ココ』%K%N%N
-'IBF Visitor Registry: Yagami Coco'%K%N%N
+「IBF Visitor Registry: Yagami Coco」%K%N%N
 0xF00
 業務日誌の片隅に、ココの名前が記されていたのだ。%K%N
 Coco's name was listed in the corner of a business log.%K%N
@@ -660,25 +660,25 @@ Coco's name was listed in the corner of a business log.%K%N
 Looking further into the file, there seemed to be a personal memo written by somebody.%K%O
 0xF24
 『記録者：八神岳士』%K%N
-'Author: Yagami Takeshi'%K%N
+「Author: Yagami Takeshi」%K%N
 0xF30
 『久し振りに娘に会うことになった』%K%N
-'I get to see my daughter for the first time in a while.'%K%N
+「I get to see my daughter for the first time in a while.」%K%N
 0xF3C
 『娘の学校はこの連休絡みで、１０日間ほど休みらしい』%K%N
-'Her school is on vacation, so she has a ten-day break.'%K%N
+「Her school is on vacation, so she has a ten-day break.」%K%N
 0xF48
 『私は随分長いことウイルス研究でここに缶詰になっているから、うらやましい話ではある……』%K%O
-'I've been trapped for so long in this tin can doing virus research that I'm jealous...'%K%O
+「I've been trapped for so long in this tin can doing virus research that I'm jealous...」%K%O
 0xF60
 『さておき、ＩＢＦの見学許可が特別に下りたと伝えたら、すぐに行くからと明るい返事がかえってきた』%K%N
-'That aside, when I told her that special permission had been granted for her to come down and see IBF, she sent me a happy reply saying she would.'%K%N
+「That aside, when I told her that special permission had been granted for her to come down and see IBF, she sent me a happy reply saying she would.」%K%N
 0xF6C
 『メールは度々交換しているが、顔を合わせるのは何ヶ月振りだろう？』%K%N
-'We've exchanged mail every once in a while, but I wonder how long it's been since we've actually seen each other?'%K%N
+「We've exchanged mail every once in a while, but I wonder how long it's been since we've actually seen each other?」%K%N
 0xF78
 『父親の顔を忘れていなければいいのだが』%K%O
-'I'll just be happy if she hasn't forgotten what I look like.'%K%O
+「I'll just be happy if she hasn't forgotten what I look like.」%K%O
 0xF90
 つまりココは、５月１日以前に、ＩＢＦを一度訪れていたのだ。%K%N
 Which meant that Coco had visited IBF once before May 1st.%K%N
@@ -690,7 +690,7 @@ To meet her father...%K%O
 Postscript―%K%N
 0xFC0
 『Ｔ．Ｙの娘がＬｅＭＵにバイトとして来ているらしい。この事実を彼に告げるべきかどうか、私には、』%K%O
-'It seems like T.Y.'s daughter is working part-time here at LeMU. I'm still not sure if I should tell him or...'%K%O
+「It seems like T.Y.'s daughter is working part-time here at LeMU. I'm still not sure if I should tell him or...」%K%O
 0xFD8
 それ以上のことは、データが破損してしまっていて、わからなかった。%K%O
 After that point, all the data was corrupted, making it impossible to check what else had been written.%K%O
@@ -1542,7 +1542,7 @@ Tsugumi「You... would you scan me?」%K%P
 Tsugumi「Would you... check me?」%K%P
 0x21E4
 『Ｃｕｒｅ．Ｖｉｒｕｓ−Ｐ−Ｃａｒｒｉｅｒ』%K%P
-'Curé Virus-P-Carrier'%K%P
+「Curé Virus-P-Carrier」%K%P
 0x21F0
 Ｌ−ＭＲＩのディスプレイに、音もなく文字が並ぶ。%K%P
 Those words appeared on the L-MRI display without a sound.%K%P
@@ -2094,13 +2094,13 @@ Takeshi「Yeah! We can hear you! We hear you! Loud and clear!」%K%P
 Voices spilled out from the other end of the line.%K%P
 0x2D5C
 『おい、生存者がいたぞ！』%K%P
-'Hey, there are survivors down there!'%K%P
+「Hey, there are survivors down there!」%K%P
 0x2D68
 『まさか、信じられん！』%K%P
-'I can't believe it!'%K%P
+「I can't believe it!」%K%P
 0x2D74
 『なんてことだ！』%K%P
-'That's amazing!'%K%P
+「That's amazing!」%K%P
 0x2D80
 管制官「これから大至急、救難隊を向かわせる。第３ＩＢＦのプールは使用可能か？」%K%P
 Mission Control「We're sending a rescue team immediately. Can you access the pool in IBF Three?」%K%P
@@ -2220,7 +2220,7 @@ The sound seemed to come from above.%K%P
 An alarm sounded from the terminal, and the screen changed.%K%P
 0x3050
 『ＬｅＭＵ内に浸水事故発生』%K%P
-'Warning: flooding has occurred in LeMU'%K%P
+「Warning: flooding has occurred in LeMU」%K%P
 0x305C
 武「ＬｅＭＵが……！？」%K%P
 Takeshi「LeMU...!?」%K%P
@@ -2685,13 +2685,13 @@ Takeshi pointed to Himmel's console.%K%P
 There were letters written on the monitor.%K%P
 0x3B18
 『Ｗｉｌｌｋｏｍｍｅｎｅｒ⑳ＬｅＭＭＩＨ⑳Ｌｏｇｉｎ：Ｔ．Ｙ』%K%P
-'Willkommen LeMMIH Login: T.Y.'%K%P
+「Willkommen LeMMIH Login: T.Y.」%K%P
 0x3B24
 『ＬＭ−ＲＳＤＳ−４９１３Ａ　茜ヶ崎空』%K%P
-'LM-RSDS-4913A Akanegasaki Sora'%K%P
+「LM-RSDS-4913A Akanegasaki Sora」%K%P
 0x3B30
 『Ａｋｔｅｎｋｏｐｉｅ⑳ｗｉｒｄ⑳ｖｅｒｖｏｌｌｓｔäｎｄｉｇｔ』%K%P
-'Aktenkopie wird vervollständigt'%K%P
+「Aktenkopie wird vervollständigt」%K%P
 0x3B54
 ふいに、強烈な閃光が走った――。%K%P
 Suddenly, there was an intense flash of light―%K%P

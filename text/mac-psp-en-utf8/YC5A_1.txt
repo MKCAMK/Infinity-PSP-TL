@@ -600,7 +600,7 @@ You「A name is like an identification number for a person... It's what confirms
 You「So, if we had the name wrong, it wouldn't matter how perfectly we put the password in.」%K%P
 0xB24
 『アクセス不可／名前またはパスワードが違います』%K%P
-'Access denied. Invalid name or password.'%K%P
+「Access denied. Invalid name or password.」%K%P
 0xB30
 何度となく目にしてきたエラーメッセージが、ぼくの頭の中に蘇った。%K%P
 I had seen that message umpteen times.%K%P

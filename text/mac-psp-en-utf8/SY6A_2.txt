@@ -399,7 +399,7 @@ You「I want to spend... just a little more time with you.」%K%P
 Kid「Huh? But...」%K%P
 0x78C
 『何もすることなんて、ないじゃないか』%K%P
-'But there's nothing for us to do, is there?'%K%P
+「But there's nothing for us to do, is there?」%K%P
 0x798
 と言おうとした矢先……%K%P
 That was what I was about to say, but You said...%K%P

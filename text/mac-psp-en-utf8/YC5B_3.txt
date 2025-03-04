@@ -363,7 +363,7 @@ Coco「Blick Winkel-san.」%K%P
 'Blick Winkel'.%K%P
 0x910
 『Ｂｌｉｃｋ．．．Ｗｉｎｋｅｌ．．．』%K%P
-'Blick... Winkel...'%K%P
+「Blick... Winkel...」%K%P
 0x91C
 少年「キミハ……ダレ？」%K%P
 Kid「Who... are you?」%K%P
@@ -402,7 +402,7 @@ Coco「I'm pretty sure Blick Winkel-san knows everything.」%K%P
 'Blick Winkel'.%K%P
 0x9AC
 『Ｂｌｉｃｋ．．．Ｗｉｎｋｅｌ．．．』%K%P
-'Blick... Winkel...'%K%P
+「Blick... Winkel...」%K%P
 0x9B8
 血……。%K%P
 Blood...%K%P

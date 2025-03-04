@@ -507,7 +507,7 @@ Kid「But that's the way the game works, isn't it?」%K%P
 You「You're SO naive. In games, a man is supposed to WANT to win.」%K%P
 0xCF0
 『優は女じゃないの？』%K%P
-'But aren't you supposed to be a girl, You?'%K%P
+「But aren't you supposed to be a girl, You?」%K%P
 0xCFC
 というツッコミを、ぼくはギリギリのところで呑み込んだ。%K%P
 I stopped myself from saying that in the nick of time.%K%P
@@ -1581,10 +1581,10 @@ We heard Takeshi shouting soon after.%K%P
 Of course, neither I, You, Sara, nor Sora... none of us had kicked the can.%K%P
 0x2D7C
 『きっと、またつぐみだろう』%K%P
-'Oh, that had to be Tsugumi again.'%K%P
+「Oh, that had to be Tsugumi again.」%K%P
 0x2D88
 『知らないうちに、部屋に忍び込んでいたのだ』%K%P
-'She probably sneaked into the room without anybody noticing.'%K%P
+「She probably sneaked into the room without anybody noticing.」%K%P
 0x2D94
 そう、ぼくらは考えた。%K%P
 That was what we thought.%K%P

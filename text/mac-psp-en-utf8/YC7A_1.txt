@@ -999,7 +999,7 @@ When I returned to consciousness I was crying.%K%P
 Feelings overcame me in torrents, rushing through me hotly.%K%P
 0x1B18
 『お父さんは……死んでしまったんだ……』%K%P
-'Dad... is dead...'%K%P
+「Dad... is dead...」%K%P
 0x1B24
 悲しみは胸をしめつけ、虚しさは心に大きな穴をあけた。%K%P
 The weight of my sadness pressed down on me, and a sense of futility tore a hole in my heart.%K%P
@@ -1188,7 +1188,7 @@ Sora was standing right in front of me.%K%P
 Sora「We've been waiting for you.」%K%P
 0x1E68
 『どうして空が、ここに……？』%K%P
-'What are you doing here...?'%K%P
+「What are you doing here...?」%K%P
 0x1E74
 そのつぶやきは、声にならなかった。%K%P
 The thought didn't reach my lips.%K%P

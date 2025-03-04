@@ -372,13 +372,13 @@ Who told a hopeless guy like me that she loved me...%K%P
 The only place she existed... was there.%K%P
 0x73C
 『ねぇ、倉成さん……』%K%P
-'Hey, Kuranari-san...'%K%P
+「Hey, Kuranari-san...」%K%P
 0x748
 『私は何の為に、生まれてきたのでしょうか？』%K%P
-'Why was I created?'%K%P
+「Why was I created?」%K%P
 0x754
 『私が生きていることの目的は、いったい何なのでしょう？』%K%P
-'What is the purpose of my being alive?'%K%P
+「What is the purpose of my being alive?」%K%P
 0x778
 武「あっ……？」%K%P
 Takeshi「Huh...?」%K%P
@@ -585,7 +585,7 @@ The Kid was sleeping on the L-MRI table.%K%P
 His results from the scan came up on the control panel's monitor.%K%P
 0xD4C
 『Ｔｉｅｆ⑳Ｂｌａｕ⑳２０１７−Ｒｅｖ．１７』%K%P
-'Tief Blau 2017-Rev.17'%K%P
+「Tief Blau 2017-Rev.17」%K%P
 0xD60
 つぐみ「少年も、ティーフブラウに感染してる……」%K%P
 Tsugumi「The Kid's been infected with Tief Blau too...」%K%P
@@ -1356,13 +1356,13 @@ I was somehow able to force out an answer.%K%P
 Voices spilled out from the other end of the line.%K%P
 0x1D74
 『おい、生存者がいたぞ！』%K%P
-'Hey, there are survivors down there!'%K%P
+「Hey, there are survivors down there!」%K%P
 0x1D80
 『まさか、信じられん！』%K%P
-'I can't believe it!'%K%P
+「I can't believe it!」%K%P
 0x1D8C
 『なんてことだ！』%K%P
-'That's amazing!'%K%P
+「That's amazing!」%K%P
 0x1D98
 なんてこったと言いたいのは、こっちのほうだ。%K%P
 That was what I wanted to say.%K%P
@@ -1512,7 +1512,7 @@ The sound... seemed to come from above...%K%P
 An alarm sounded from the terminal, and the screen changed.%K%P
 0x20F0
 『ＬｅＭＵ内に浸水事故発生』%K%P
-'Warning: flooding has occurred in LeMU'%K%P
+「Warning: flooding has occurred in LeMU」%K%P
 0x20FC
 武「ＬｅＭＵが……！？」%K%P
 Takeshi「LeMU...!?」%K%P
@@ -2595,7 +2595,7 @@ The window that was open showed a message confirming the last entered password.%
 I hit enter.%K%P
 0x41C4
 『Ｗｉｌｌｋｏｍｍｅｎｅｒ⑳ＬｅＭＭＩＨ⑳Ｌｏｇｉｎ：Ｔ．Ｙ』%K%P
-'Willkommen LeMMIH Login: T.Y.'%K%P
+「Willkommen LeMMIH Login: T.Y.」%K%P
 0x41D0
 レミシステムの管理者専用メンテナンスモードが作動する。%K%P
 The manager-exclusive maintenance mode was in operation.%K%P
@@ -2604,10 +2604,10 @@ The manager-exclusive maintenance mode was in operation.%K%P
 In other words, we had cleared all of LeMMIH's security.%K%P
 0x41E8
 『警備室の、端末……』%K%P
-'The terminal in the security office...'%K%P
+「The terminal in the security office...」%K%P
 0x41F4
 『最後のパスワード、やっとわかったのに……』%K%P
-'I finally figured out the password...'%K%P
+「I finally figured out the password...」%K%P
 0x4200
 俺が朦朧とした意識の中で聞いた優の声は、正しかったのだ。%K%P
 You's voice, which I had heard through my stupor, had been right.%K%P

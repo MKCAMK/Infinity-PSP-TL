@@ -1836,7 +1836,7 @@ Sara「Might be good to show your face around here. Everyone's been worried abou
 Sara said that with her face still covered in ketchup.%K%P
 0x2AE8
 『なぜマヨネーズではなくケチャップなのか？』%K%P
-'Why was she using ketchup and not salad dressing?'%K%P
+「Why was she using ketchup and not salad dressing?」%K%P
 0x2AF4
 疑問に思いながらも、あえて尋ねるようなことはしなかった。%K%P
 The question nagged at me, but I didn't venture to ask.%K%P
@@ -2016,7 +2016,7 @@ When I opened my eyes, no one was there.%K%P
 In a wild panic, I ran up the remaining stairs and burst onto Zweiter Stock.%K%P
 0x2EEC
 『ぼくの顔とはこういう顔であろう』%K%P
-'I know what my face should look like!'%K%P
+「I know what my face should look like!」%K%P
 0x2EF8
 今現れた幻は、その『こういう顔』をしていた。%K%P
 But the apparition which had shown itself to me looked entirely different...%K%P
@@ -2298,7 +2298,7 @@ From her fingertips, a password was entered into the input field.%K%P
 Tap, tap, tap...%K%P
 0x34B0
 『＊%T010＊%T005＊%T020＊%T004＊%T005＊%T015＊%T003＊』%K%P
-'*%T010*%T005*%T020*%T004*%T005*%T015*%T003*'%K%P
+「*%T010*%T005*%T020*%T004*%T005*%T015*%T003*」%K%P
 0x34D8
 カタッ！%K%P
 Tap!%K%P
@@ -2310,7 +2310,7 @@ You finished her input and hit the Enter key.%K%P
 Beeeeeeeep!%K%P
 0x3518
 『アクセス不可／名前またはパスワードが違います』%K%P
-'Access denied. Invalid name or password.'%K%P
+「Access denied. Invalid name or password.」%K%P
 0x3524
 優はすかさず別の文字列の入力にシフトする。%K%P
 You immediately tapped in another line of letters.%K%P
@@ -2319,7 +2319,7 @@ You immediately tapped in another line of letters.%K%P
 Tap, tap, tap...%K%P
 0x3558
 『＊%T015＊%T005＊%T020＊%T015＊%T005＊%T003＊%T010＊』%K%P
-'*%T015*%T005*%T020*%T015*%T005*%T003*%T010*'%K%P
+「*%T015*%T005*%T020*%T015*%T005*%T003*%T010*」%K%P
 0x3580
 カタッ！%K%P
 Tap!%K%P
@@ -2328,7 +2328,7 @@ Tap!%K%P
 Beeeeeeeep!%K%P
 0x35B4
 『アクセス不可／名前またはパスワードが違います』%K%P
-'Access denied. Invalid name or password.'%K%P
+「Access denied. Invalid name or password.」%K%P
 0x35DC
 カタカタカタ……。%K%P
 Tap, tap, tap...%K%P
@@ -2484,7 +2484,7 @@ Tap!%K%P
 Beeeeeeeep!%K%P
 0x38E4
 『アクセス不可／名前またはパスワードが違います』%K%P
-'Access denied. Invalid name or password.'%K%P
+「Access denied. Invalid name or password.」%K%P
 0x38F0
 それでも、Ｃレベルへは侵入することができないようだった。%K%P
 But she still couldn't get into the C Level information.%K%P
@@ -2523,7 +2523,7 @@ Tap!%K%P
 Beeeeeeeep!%K%P
 0x3A38
 『アクセス不可／現在この名前ではログインできません』%K%P
-'Access denied. Cannot log in with the given name at this time.'%K%P
+「Access denied. Cannot log in with the given name at this time.」%K%P
 0x3A44
 優「ええっ！　なにそれ〜っ！？」%K%P
 You「What!? What is this!?」%K%P

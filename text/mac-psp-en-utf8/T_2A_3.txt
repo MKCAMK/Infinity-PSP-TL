@@ -306,7 +306,7 @@ Just then...%K%P
 Boom! The egg was shaken by a strong shock.%K%P
 0xB20
 『着いたんだ！　３階に！』%K%P
-'We made it to the third floor!'%K%P
+「We made it to the third floor!」%K%P
 0xB2C
 声をあげようとしたが、それは無理だった。%K%P
 I wanted to shout that, but it was impossible.%K%P
@@ -321,7 +321,7 @@ I didn't know if she had panicked or what, but Tsugumi was thrashing her arms an
 In the blur underwater... I pinned down Tsugumi's shoulder.%K%P
 0xB5C
 『大丈夫だ、俺がなんとかする』%K%P
-'It's alright. I'll take care of it.'%K%P
+「It's alright. I'll take care of it.」%K%P
 0xB68
 つぐみの身体から、すっと力が抜けて行くのがわかった。%K%P
 I felt Tsugumi's body relax.%K%P
@@ -828,13 +828,13 @@ It was dark, and I couldn't see everything, but the room was covered in an astou
 The pipes continued into the generator room next door. It seemed that opening and closing the valves could adjust the water and oil pressure.%K%P
 0x16F4
 『通常、発電室のコンディションを保っているのはレミなのだが、さすがのレミと言えども、発電機自体が故障してしまったらどうすることもできない』%K%P
-'Normally, LeMMIH is responsible for maintaining the generator room, but even LeMMIH can't do much when the generator itself goes out.'%K%P
+「Normally, LeMMIH is responsible for maintaining the generator room, but even LeMMIH can't do much when the generator itself goes out.」%K%P
 0x1700
 『何しろ、電力が供給されなくなってしまうのだから』%K%P
-'Anyhow, this is all because the power supply is down.'%K%P
+「Anyhow, this is all because the power supply is down.」%K%P
 0x170C
 『そこで、停電になったときでも、発電室のメンテナンスを手動で行なうことができるよう、この部屋は設けられたのだろう』%K%P
-'The room is designed so that maintenance can be performed manually at times like this, or during blackouts.'%K%P
+「The room is designed so that maintenance can be performed manually at times like this, or during blackouts.」%K%P
 0x1718
 ……という話を、俺はつぐみから聞いた。%K%P
 ...That was what Tsugumi told me.%K%P

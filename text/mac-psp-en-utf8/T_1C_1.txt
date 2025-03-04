@@ -1350,7 +1350,7 @@ There was no reply.%K%P
 %LC<Warehouse: Situation normal>%K%P
 0x1BB4
 『Ｒｅｔｔｕｎｇｓｓｔａｔｉｏｎ』%K%P
-'Krankenstation'%K%P
+「Krankenstation」%K%P
 0x1BC0
 救護室の前まで来た。%K%P
 I arrived in front of the infirmary.%K%P
