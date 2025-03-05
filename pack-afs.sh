@@ -118,7 +118,7 @@ repack_se_afs () {
 	done
 	cp e17_x360_BGM/bgm25.adx e17_se_mod/ADX26.ADX
 	cp e17_x360_BGM/bgm25nl.adx e17_se_mod/ADX26NL.ADX
-	$REPACK_AFS $ISO_RES_DIR/se.afs $WORKDIR/se_mod.afs e17_se_mod || exit 1
+	$REPACK_AFS $WORKDIR/se.afs $WORKDIR/se_mod.afs e17_se_mod || exit 1
 	mv -f $WORKDIR/se_mod.afs $ISO_RES_DIR/se.afs
 }
 

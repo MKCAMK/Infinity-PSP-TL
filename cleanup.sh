@@ -8,3 +8,4 @@ rm -rf text/mac-en-only
 rm -rf text/tmp
 rm -f text/font/FONT00.FNT text/font/FONT00.NEW
 rm -rf text/font/glyphs
+rm -rf patch/*.xdelta

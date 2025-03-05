@@ -156,6 +156,7 @@ Title
 ;dupe:f74
 ;fa8;0;
 ;dupe:f74
+
 ;fac;18;エンディング全開放
 
 ;fb0;14;タイトル全開放
@@ -186,6 +187,7 @@ Title
 ;dupe:f74
 ;fe4;0;
 ;dupe:f74
+
 ;fe8;10;選択肢最大
 
 ;fec;20;つぐみグッドクリアＦ
@@ -384,6 +386,7 @@ Title
 ;dupe:f74
 ;1178;0;
 ;dupe:f74
+
 ;117c;16;ＵＶ用フラグ００
 
 ;1180;16;ＵＶ用フラグ０１
@@ -5341,24 +5344,32 @@ Illustration: Takigawa Yuu
 ;dupe:4f14
 ;4f54;18;イラスト：滝川⑳悠
 ;dupe:4f14
+
 ;4f74;40;イラスト：滝川⑳悠　（協力・ソフマップ）
 Illustration: Takigawa Yuu (collab. Sofmap)
 ;4f94;40;イラスト：滝川⑳悠　（協力・ソフマップ）
 ;dupe:4f74
+
 ;4fb4;44;イラスト：滝川⑳悠　（協力・メッセサンオー）
 Illustration: Takigawa Yuu (collab. MESSE SANOH)
+
 ;4fd4;40;イラスト：滝川⑳悠　（協力・ゲーマーズ）
 Illustration: Takigawa Yuu (collab. GAMERS)
+
 ;4ff4;18;イラスト：滝川⑳悠
 ;dupe:4f14
+
 ;5014;40;イラスト：滝川⑳悠　（協力・ソフマップ）
 ;dupe:4f74
+
 ;5034;58;イラスト：滝川⑳悠%n（協力・サイトロンデジタルコンテンツ）
 Illustration: Takigawa Yuu%n(collab. Scitron Digital Contents)
+
 ;5054;46;イラスト：滝川⑳悠　（協力・エンターブレイン）
 Illustration: Takigawa Yuu (collab. Enterbrain)
 ;5074;46;イラスト：滝川⑳悠　（協力・エンターブレイン）
 ;dupe:5054
+
 ;5094;18;イラスト：滝川⑳悠
 ;dupe:4f14
 ;50b4;18;イラスト：滝川⑳悠
@@ -5367,18 +5378,22 @@ Illustration: Takigawa Yuu (collab. Enterbrain)
 ;dupe:4f14
 ;50f4;18;イラスト：滝川⑳悠
 ;dupe:4f14
+
 ;5114;40;イラスト：滝川⑳悠　（協力・ソフマップ）
 ;dupe:4f74
 ;5134;40;イラスト：滝川⑳悠　（協力・ソフマップ）
 ;dupe:4f74
+
 ;5154;44;イラスト：滝川⑳悠　（協力・メッセサンオー）
 ;dupe:4fb4
 ;5174;44;イラスト：滝川⑳悠　（協力・メッセサンオー）
 ;dupe:4fb4
+
 ;5194;40;イラスト：滝川⑳悠　（協力・ゲーマーズ）
 ;dupe:4fd4
 ;51b4;40;イラスト：滝川⑳悠　（協力・ゲーマーズ）
 ;dupe:4fd4
+
 ;51d4;18;イラスト：滝川⑳悠
 ;dupe:4f14
 ;51f4;18;イラスト：滝川⑳悠
@@ -5387,6 +5402,7 @@ Illustration: Takigawa Yuu (collab. Enterbrain)
 ;dupe:4f14
 ;5234;18;イラスト：滝川⑳悠
 ;dupe:4f14
+
 ;5254;56;イラスト：滝川⑳悠　（協力・滝川⑳悠）【非公式イラスト】
 Illustration: Takigawa Yuu (unofficial collaboration)
 ;5274;56;イラスト：滝川⑳悠　（協力・滝川⑳悠）【非公式イラスト】
@@ -5413,6 +5429,7 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 ;dupe:5254
 ;53d4;56;イラスト：滝川⑳悠　（協力・滝川⑳悠）【非公式イラスト】
 ;dupe:5254
+
 ;53f4;0;
 ;dupe:f74
 ;5414;0;
@@ -5479,6 +5496,7 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 ;dupe:f74
 ;57f4;0;
 ;dupe:f74
+
 ;5a24;44;～～～～～～～～～⑳前奏⑳～～～～～～～～～
 
 ;5a2c;0;
@@ -5515,6 +5533,7 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 ;dupe:f74
 ;5aa0;3;ﾂＦ
 ;dupe:5a98
+
 ;5aa8;44;～～～～～～～～～⑳前奏⑳～～～～～～～～～
 ;dupe:5a24
 ;5ab0;0;
@@ -5535,6 +5554,7 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 
 ;5af0;0;
 ;dupe:f74
+
 ;5af8;28;南へと　向かってゆく風の後を
 
 ;5b00;30;追いかけて　心が躍り出す季節へ
@@ -5571,6 +5591,7 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 ;dupe:5ae8
 ;5b80;0;
 ;dupe:f74
+
 ;5b88;30;水しぶき　キラキラの光を浴びて
 
 ;5b90;28;指先へ　伝う想いを今　感じた
@@ -5621,6 +5642,7 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 ;dupe:5ae0
 ;5c48;62;ａｎｄ⑳Ｉ’ｌｌ⑳ｓｈｏｗ⑳ｙｏｕ⑳ｏｕｒ⑳ｓｕｎｓｈｉｎｅ…
 ;dupe:5ae8
+
 ;5c50;0;
 ;dupe:f74
 ;5c58;0;
@@ -5633,6 +5655,7 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 ;dupe:f74
 ;5c6c;3;ﾂＦ
 ;dupe:5a98
+
 ;5c74;44;～～～～～～～～～⑳前奏⑳～～～～～～～～～
 ;dupe:5a24
 ;5c7c;0;
@@ -5673,6 +5696,7 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 ;dupe:f74
 ;5d00;3;ﾂＦ
 ;dupe:5a98
+
 ;5d08;44;～～～～～～～～～⑳前奏⑳～～～～～～～～～
 ;dupe:5a24
 ;5d10;0;
@@ -5715,6 +5739,7 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 ;dupe:f74
 ;5d9c;3;ﾂＦ
 ;dupe:5a98
+
 ;5da4;44;～～～～～～～～～⑳前奏⑳～～～～～～～～～
 ;dupe:5a24
 ;5dac;0;
@@ -5753,6 +5778,7 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 ;dupe:f74
 ;5e28;3;ﾂＦ
 ;dupe:5a98
+
 ;5e30;8;OP00.PMF
 
 ;5e40;8;OP01.PMF
@@ -6531,7 +6557,6 @@ Lemurianische Ruinen Entrance
 
 ;7620;22;コスミッシャー・ヴァル
 Kosmischer Wal
-
 ;7624;22;コスミッシャー・ヴァル
 ;dupe:7620
 ;7628;22;コスミッシャー・ヴァル
@@ -6851,7 +6876,6 @@ LeMU Exterior
 
 ;7858;10;ＩＢＦ外観
 IBF Exterior
-
 ;785c;10;ＩＢＦ外観
 ;dupe:7858
 
@@ -6893,7 +6917,6 @@ Cabin
 
 ;79c8;30;もうどこにも……出られないんだ
 「There's... no way out anymore.」
-
 ;79cc;30;もうどこにも……出られないんだ
 ;dupe:79c8
 ;79d0;30;もうどこにも……出られないんだ
@@ -6912,7 +6935,6 @@ Cabin
 
 ;79e4;26;う、う～ん……だぁれ……？
 「U-Umm... Who's there...?」
-
 ;79e8;26;う、う～ん……だぁれ……？
 ;dupe:79e4
 
@@ -6923,7 +6945,6 @@ Cabin
 
 ;79f4;22;ココも、がんばるよ……
 「Coco'll be strong, too...」
-
 ;79f8;22;ココも、がんばるよ……
 ;dupe:79f4
 ;79fc;22;ココも、がんばるよ……
@@ -6931,7 +6952,6 @@ Cabin
 
 ;7a00;28;必ず……迎えに、来てね……？
 「You'll... come... get me...?」
-
 ;7a04;28;必ず……迎えに、来てね……？
 ;dupe:7a00
 ;7a08;28;必ず……迎えに、来てね……？
@@ -6939,7 +6959,6 @@ Cabin
 
 ;7a0c;24;ココ……待ってるから……
 「I'll be... waiting...」
-
 ;7a10;24;ココ……待ってるから……
 ;dupe:7a0c
 
@@ -6948,7 +6967,6 @@ Cabin
 
 ;7a18;36;これは、砂山崩しじゃなくて、涙山崩し
 「It's a mountain of tears, not sand.」
-
 ;7a1c;36;これは、砂山崩しじゃなくて、涙山崩し
 ;dupe:7a18
 ;7a20;36;これは、砂山崩しじゃなくて、涙山崩し
@@ -6961,7 +6979,6 @@ Cabin
 
 ;7a2c;44;ココちゃんは、お兄ちゃんのことを、見ています
 「I'm looking at you, Onii-chan.」
-
 ;7a30;44;ココちゃんは、お兄ちゃんのことを、見ています
 ;dupe:7a2c
 ;7a34;44;ココちゃんは、お兄ちゃんのことを、見ています
@@ -6989,7 +7006,6 @@ Cabin
 
 ;7a58;30;この石像に、傷を刻み込んでるの
 「I'm etching some marks into this statue!」
-
 ;7a5c;30;この石像に、傷を刻み込んでるの
 ;dupe:7a58
 ;7a60;30;この石像に、傷を刻み込んでるの
@@ -7005,7 +7021,6 @@ Cabin
 
 ;7a70;20;鏡の中の見知らぬ少年
 Unfamiliar Kid in the Mirror
-
 ;7a74;20;鏡の中の見知らぬ少年
 ;dupe:7a70
 ;7a78;20;鏡の中の見知らぬ少年
@@ -7013,7 +7028,6 @@ Unfamiliar Kid in the Mirror
 
 ;7a7c;20;ペンダントの中の面影
 Face in the Pendant
-
 ;7a80;20;ペンダントの中の面影
 ;dupe:7a7c
 ;7a84;20;ペンダントの中の面影
@@ -7023,7 +7037,6 @@ Face in the Pendant
 
 ;7a8c;18;ポッドの中の大黒柱
 Main Man in the Pod
-
 ;7a90;18;ポッドの中の大黒柱
 ;dupe:7a8c
 
@@ -7032,7 +7045,6 @@ Kid in the Mascot Suit
 
 ;7a98;16;眠りの中の道化師
 Sleeping Buffoon
-
 ;7a9c;16;眠りの中の道化師
 ;dupe:7a98
 ;7aa0;16;眠りの中の道化師
@@ -7042,7 +7054,6 @@ Sleeping Buffoon
 
 ;7aa8;4;邂逅
 Chance
-
 ;7aac;4;邂逅
 ;dupe:7aa8
 ;7ab0;4;邂逅
@@ -7065,7 +7076,6 @@ Pendant
 
 ;7ac8;4;追慕
 Yearning
-
 ;7acc;4;追慕
 ;dupe:7ac8
 ;7ad0;4;追慕
@@ -7094,7 +7104,6 @@ Bonds
 
 ;7af0;4;信頼
 Trust
-
 ;7af4;4;信頼
 ;dupe:7af0
 ;7af8;4;信頼
@@ -7102,7 +7111,6 @@ Trust
 
 ;7afc;4;脱出
 Escape
-
 ;7b00;4;脱出
 ;dupe:7afc
 ;7b04;4;脱出
@@ -7110,7 +7118,6 @@ Escape
 
 ;7b0c;4;回想
 Reminiscence
-
 ;7b10;4;回想
 ;dupe:7b0c
 ;7b14;4;回想
@@ -7134,7 +7141,6 @@ Karussell
 
 ;7b30;12;Ｍａｋｅｕｐ
 Make-Up
-
 ;7b34;12;Ｍａｋｅｕｐ
 ;dupe:7b30
 ;7b38;12;Ｍａｋｅｕｐ
@@ -7142,7 +7148,6 @@ Make-Up
 
 ;7b3c;28;Ｈａｎｄ　ｂｅｒｕüｈｒｅｎ
 Hand Berühren
-
 ;7b40;26;Ｉｎｆｏｒｍａｔｉｏｎｅｎ
 Informationen
 ;7b44;26;Ｉｎｆｏｒｍａｔｉｏｎｅｎ
@@ -7222,13 +7227,11 @@ Widersprüche
 
 ;7bcc;14;Ｍｉｒａｃｌｅ
 Miracle
-
 ;7bd0;14;Ｍｉｒａｃｌｅ
 ;dupe:7bcc
 
 ;7bd4;16;Ｓｈｏｗｄｏｗｎ
 Showdown
-
 ;7bd8;16;Ｓｈｏｗｄｏｗｎ
 ;dupe:7bd4
 ;7bdc;16;Ｓｈｏｗｄｏｗｎ
@@ -7243,7 +7246,6 @@ Göttin
 
 ;7bec;24;俺と彼女の２度目の出会い
 She and I meet again
-
 ;7bf0;24;俺と彼女の２度目の出会い
 ;dupe:7bec
 ;7bf4;24;俺と彼女の２度目の出会い
@@ -7251,7 +7253,6 @@ She and I meet again
 
 ;7bf8;20;俺の助けた彼女の友人
 Her friend I saved
-
 ;7bfc;20;俺の助けた彼女の友人
 ;dupe:7bf8
 
@@ -7260,13 +7261,11 @@ The scars She showed Me
 
 ;7c04;16;俺と彼女の逃走劇
 She and I escape
-
 ;7c08;16;俺と彼女の逃走劇
 ;dupe:7c04
 
 ;7c0c;28;俺と彼女とアルキメデスの原理
 Me, Her, and Archimedes' Principle
-
 ;7c10;28;俺と彼女とアルキメデスの原理
 ;dupe:7c0c
 ;7c14;28;俺と彼女とアルキメデスの原理
@@ -7274,13 +7273,11 @@ Me, Her, and Archimedes' Principle
 
 ;7c18;26;俺と彼女と闇中のかくれんぼ
 Me, Her, and kick the can
-
 ;7c1c;26;俺と彼女と闇中のかくれんぼ
 ;dupe:7c18
 
 ;7c20;22;彼女の負傷と、俺の決意
 Her wound and My decision
-
 ;7c24;22;彼女の負傷と、俺の決意
 ;dupe:7c20
 ;7c28;22;彼女の負傷と、俺の決意
@@ -7288,7 +7285,6 @@ Her wound and My decision
 
 ;7c2c;28;俺と彼女は、どこにいるのか？
 Where is She? Where am I?
-
 ;7c30;28;俺と彼女は、どこにいるのか？
 ;dupe:7c2c
 ;7c34;28;俺と彼女は、どこにいるのか？
@@ -7299,7 +7295,6 @@ I rescue Her
 
 ;7c3c;24;彼女の負傷と、俺の悲しみ
 Her wound and My sorrow
-
 ;7c40;24;彼女の負傷と、俺の悲しみ
 ;dupe:7c3c
 ;7c44;24;彼女の負傷と、俺の悲しみ
@@ -7311,7 +7306,6 @@ Her wound and My sorrow
 
 ;7c50;26;詰め寄る俺、嘆き悲しむ彼女
 Her tears, My embrace
-
 ;7c54;26;詰め寄る俺、嘆き悲しむ彼女
 ;dupe:7c50
 ;7c58;26;詰め寄る俺、嘆き悲しむ彼女
@@ -7326,7 +7320,6 @@ I learn of Her past
 
 ;7c68;22;俺に語る、彼女の記憶を
 She tells Me of her memories
-
 ;7c6c;22;俺に語る、彼女の記憶を
 ;dupe:7c68
 ;7c70;22;俺に語る、彼女の記憶を
@@ -7334,7 +7327,6 @@ She tells Me of her memories
 
 ;7c74;18;俺と彼女の交わる心
 She and I overlap
-
 ;7c78;18;俺と彼女の交わる心
 ;dupe:7c74
 ;7c7c;18;俺と彼女の交わる心
@@ -7343,6 +7335,7 @@ She and I overlap
 ;dupe:7c74
 ;7c84;18;俺と彼女の交わる心
 ;dupe:7c74
+
 ;7c88;16;俺と彼女の脱出劇
 
 ;7c8c;16;俺と彼女の脱出劇
@@ -7352,7 +7345,6 @@ She and I overlap
 
 ;7c94;26;彼女は生きろ、俺は死なない
 She must live. I won't die.
-
 ;7c98;26;彼女は生きろ、俺は死なない
 ;dupe:7c94
 
@@ -7364,13 +7356,11 @@ She holds Our children
 
 ;7ca4;15;I meet with YOU
 I meet You
-
 ;7ca8;15;I meet with YOU
 ;dupe:7ca4
 
 ;7cac;15;YOU & I repairs
 You and I Repair
-
 ;7cb0;15;YOU & I repairs
 ;dupe:7cac
 ;7cb4;15;YOU & I repairs
@@ -7378,7 +7368,6 @@ You and I Repair
 
 ;7cb8;18;YOU & I said ruins
 You and I in the Ruins
-
 ;7cbc;18;YOU & I said ruins
 ;dupe:7cb8
 ;7cc0;18;YOU & I said ruins
@@ -7389,7 +7378,6 @@ You and I Hacking
 
 ;7cc8;23;YOU & I & The third eye
 You and I and the Third Eye
-
 ;7ccc;23;YOU & I & The third eye
 ;dupe:7cc8
 
@@ -7398,7 +7386,6 @@ You and I Kiss
 
 ;7cd4;22;YOU & I & felt-tip pen
 You and I and the Felt-Tip Pen
-
 ;7cd8;22;YOU & I & felt-tip pen
 ;dupe:7cd4
 ;7cdc;22;YOU & I & felt-tip pen
@@ -7406,7 +7393,6 @@ You and I and the Felt-Tip Pen
 
 ;7ce0;34;YOU & I & the other side of screen
 You and I and the You on the screen
-
 ;7ce4;34;YOU & I & the other side of screen
 ;dupe:7ce0
 ;7ce8;34;YOU & I & the other side of screen
@@ -7419,7 +7405,6 @@ Your Flying Kick
 
 ;7cf4;29;I play hide and seek with YOU
 I play hide and seek with You
-
 ;7cf8;29;I play hide and seek with YOU
 ;dupe:7cf4
 ;7cfc;29;I play hide and seek with YOU
@@ -7430,7 +7415,6 @@ The future of You & I
 
 ;7d04;10;I love YOU
 I love You
-
 ;7d08;10;I love YOU
 ;dupe:7d04
 
@@ -7439,13 +7423,11 @@ You and I and the Morning Sun
 
 ;7d10;21;YOU & YOUr mother & I
 You, Your Mother, and I
-
 ;7d14;21;YOU & YOUr mother & I
 ;dupe:7d10
 
 ;7d18;16;I confess to YOU
 I confess to You
-
 ;7d1c;16;I confess to YOU
 ;dupe:7d18
 
@@ -7454,7 +7436,6 @@ Your Child
 
 ;7d24;22;I & YOUr sleeping face
 Your Sleeping Face
-
 ;7d28;22;I & YOUr sleeping face
 ;dupe:7d24
 
