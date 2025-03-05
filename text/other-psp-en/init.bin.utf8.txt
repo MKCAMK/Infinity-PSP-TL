@@ -6530,6 +6530,7 @@ Lemurianische Ruinen Entrance
 ;dupe:760c
 
 ;7620;22;コスミッシャー・ヴァル
+Kosmischer Wal
 
 ;7624;22;コスミッシャー・ヴァル
 ;dupe:7620
@@ -6555,7 +6556,7 @@ Tuna Sandwich Stand
 ;dupe:7638
 
 ;764c;8;救護室前
-Infirmary Entrance
+Rettungsstation Entrance
 ;7650;8;救護室前
 ;dupe:764c
 ;7654;8;救護室前
@@ -6564,7 +6565,7 @@ Infirmary Entrance
 ;dupe:764c
 
 ;765c;6;救護室
-Infirmary
+Rettungsstation
 ;7660;6;救護室
 ;dupe:765c
 
@@ -6584,7 +6585,7 @@ Warehouse
 ;dupe:7674
 
 ;767c;6;小部屋
-The Little Room
+Little Room
 ;7680;6;小部屋
 ;dupe:767c
 ;7684;6;小部屋
@@ -6774,12 +6775,12 @@ Emergency Stairs
 ;dupe:77d4
 
 ;77dc;18;ＨＩＭＭＥＬへの扉
-HIMMEL Door
+Door to HIMMEL
 ;77e0;18;ＨＩＭＭＥＬへの扉
 ;dupe:77dc
 
 ;77e4;16;ＨＩＭＭＥＬ内部
-HIMMEL Interior
+Inside HIMMEL
 ;77e8;16;ＨＩＭＭＥＬ内部
 ;dupe:77e4
 
@@ -6819,9 +6820,10 @@ Qualle
 ;dupe:7820
 
 ;7828;4;部屋
+Room
 
 ;782c;20;インゼル・ヌル／俯瞰
-Insel Null Bird's-eye View
+Insel Null Bird's-Eye View
 ;7830;20;インゼル・ヌル／俯瞰
 ;dupe:782c
 ;7834;20;インゼル・ヌル／俯瞰
@@ -6843,19 +6845,21 @@ Lemurianische Ruinen
 Ship
 
 ;7850;12;ＬｅＭＵ外観
-Lemu Exterior
+LeMU Exterior
 ;7854;12;ＬｅＭＵ外観
 ;dupe:7850
 
 ;7858;10;ＩＢＦ外観
+IBF Exterior
 
 ;785c;10;ＩＢＦ外観
 ;dupe:7858
 
 ;7860;20;ＬｅＭＵ・ホログラム
+LeMU Hologram
 
 ;78e0;4;広場
-
+Plaza
 ;78e4;4;広場
 ;dupe:78e0
 ;78e8;4;広場
@@ -6875,9 +6879,10 @@ Lemu Exterior
 Hospital
 
 ;79ac;4;船室
+Cabin
 
 ;79b8;32;ココのコメッチョ、気にならない？
-「Don't you want to hear my joke?」
+「Don't you wanna hear my joke?」
 ;79bc;32;ココのコメッチョ、気にならない？
 ;dupe:79b8
 ;79c0;32;ココのコメッチョ、気にならない？
