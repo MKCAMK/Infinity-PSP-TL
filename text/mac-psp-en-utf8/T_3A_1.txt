@@ -57,7 +57,7 @@ You「Yeah... I suppose you did...」%K%P
 Dodging the subject, You laughed slightly.%K%P
 0x1A4
 優「起きるんなら、顔、洗ってきたら？」%K%P
-You「Hey, since you're up, why don't you go wash your face?」%K%P
+You「Hey, since you're up, why don't you go wash your%Nface?」%K%P
 0x1B0
 武「ああ、そうだな……」%K%P
 Takeshi「Yeah, I might as well...」%K%P
