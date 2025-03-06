@@ -687,7 +687,7 @@ Takeshi「They're all being patient.」%K%P
 Takeshi「They're helping out.」%K%P
 0xE84
 武「嫌でも、食って、生きて……」%K%P
-Takeshi「Even if they don't like it, they eat, and they're surviving...」%K%P
+Takeshi「Even if they don't like it, they eat, and they're%Nsurviving...」%K%P
 0xE90
 武「そうしなきゃ、終わりだ」%K%P
 Takeshi「If we don't... then we're finished!」%K%P
@@ -975,7 +975,7 @@ Takeshi「Sora, this isn't just any old fight.」%K%P
 Takeshi「I'm not trying to shut him out, I just...」%K%P
 0x1744
 武「食うことの大切さを知って欲しかっただけだ」%K%P
-Takeshi「I wanted him to know how important it was to keep eating.」%K%P
+Takeshi「I wanted him to know how important it was to keep%Neating.」%K%P
 0x1750
 空「わかっています。ですけど……」%K%P
 Sora「I know that. However...」%K%P
@@ -1317,7 +1317,7 @@ Takeshi「Open this door, Sora!」%K%P
 Takeshi「This is the only way out of here! Come on!」%K%P
 0x1EB8
 天井のパネルラインの隙間――%K%P
-TODO: 天井のパネルラインの隙間――%K%P
+%P
 0x1EC4
 スプリンクラーと並列に付けられた、たくさんの小型センサーが、一斉に、俺のことを見た。%K%P
 Suddenly, all of the sprinklers and the small sensors lined up next to them on the ceiling turned and pointed at me.%K%P
@@ -1344,7 +1344,7 @@ Sora「.........」%K%P
 Sora「What's wrong?」%K%P
 0x1F24
 武「お、おい、まさか……わからないのか、空？」%K%P
-Takeshi「Hey, come on... Don't tell me you don't understand, Sora?」%K%P
+Takeshi「Hey, come on... Don't tell me you don't understand,%NSora?」%K%P
 0x1F30
 空はじっと、俺の様子を観察している……。%K%P
 Sora was observing the situation leisurely...%K%P

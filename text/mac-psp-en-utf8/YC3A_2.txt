@@ -657,7 +657,7 @@ I chose my words as carefully as possible.%K%P
 Tsugumi「I'm perfectly sane.」%K%P
 0xDC8
 武「大丈夫だ。このぐらいの傷なら心配いらない」%K%P
-Takeshi「You'll be okay. The wound isn't that deep, so don't worry.」%K%P
+Takeshi「You'll be okay. The wound isn't that deep, so don't%Nworry.」%K%P
 0xDD4
 嘘だった。%K%P
 I was lying.%K%P
@@ -873,7 +873,7 @@ Sora put her hand on Tsugumi. A holographic window appeared in the air.%K%P
 A small sensor or camera started moving on the ceiling.%K%P
 0x1288
 空「あくまで生体スキャンの応用ですから、はっきりとは申し上げられませんが……」%K%P
-Sora「Well, this is just a bio scan, so I can't tell for certain, but...」%K%P
+Sora「Well, this is just a bio scan, so I can't tell for certain,%Nbut...」%K%P
 0x1294
 空「大腿骨に損傷。複雑骨折しているかもしれません」%K%P
 Sora「Her femur is fractured. And it looks like it might be a complex fracture.」%K%P

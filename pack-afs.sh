@@ -109,7 +109,7 @@ patch_boot_bin () {
 }
 
 repack_se_afs () {
-	[ -d "e17_x360_BGM" ] && [ -d "e17_se" ] || return
+	[ -d "e17_x360_BGM" ] && [ -f "$WORKDIR/se.afs" ] || return
 	mkdir -p e17_se_mod
 	for i in $(seq -w 1 22) 24
 	do
@@ -122,9 +122,24 @@ repack_se_afs () {
 	mv -f $WORKDIR/se_mod.afs $ISO_RES_DIR/se.afs
 }
 
+repack_bg_afs () {
+	mkdir -p e17_bg_${TL_SUFFIX}
+	for i in bg-${TL_SUFFIX}/*.R11 ; do
+		$COMPRESS $i e17_bg_${TL_SUFFIX}/$(basename $i .R11).BIP || exit 1
+	done
+	for i in bg-${TL_SUFFIX}/*.GIM ; do
+		#[ ! -f $i ] && break
+		$COMPRESS $i e17_bg_${TL_SUFFIX}/$(basename $i .GIM).T2P || exit 1
+	done
+
+	$REPACK_AFS $WORKDIR/bg.afs $WORKDIR/bg-repacked.afs ./e17_bg_${TL_SUFFIX} || exit 1
+	mv -f $WORKDIR/bg-repacked.afs $ISO_RES_DIR/bg.afs
+}
+
 # Actually running above functions
 repack_mac_afs
 repack_etc_afs
 repack_se_afs
+repack_bg_afs
 repack_init_bin
 patch_boot_bin

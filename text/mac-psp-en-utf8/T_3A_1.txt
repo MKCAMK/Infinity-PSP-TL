@@ -858,7 +858,7 @@ Takeshi「Why do you think something would go wrong all of a sudden?」%K%P
 Sora「Well... everything doesn't always go according to plan...」%K%P
 0x1410
 ココ「みんなが飛び跳ねたからかなぁ？」%K%P
-Coco「Is it because everyone was bouncing around so much?」%K%P
+Coco「Is it because everyone was bouncing around so%Nmuch?」%K%P
 0x141C
 ココは何げなく言った。%K%P
 Coco said that casually.%K%P

@@ -516,7 +516,7 @@ Tsugumi「He probably traveled through some pipe.」%K%P
 Takeshi「Pipe?」%K%P
 0xB70
 つぐみ「電気ケーブルが収容されてるパイプとか、細い通気孔とか」%K%P
-Tsugumi「The pipes with the electric cables or the power sockets.」%K%P
+Tsugumi「The pipes with the electric cables or the power%Nsockets.」%K%P
 0xB7C
 武「なるほどねぇ〜」%K%P
 Takeshi「Oh, I see.」%K%P
@@ -663,7 +663,7 @@ Tsugumi「Yeah, but 51 meters is a long way...」%K%P
 Takeshi「It'll be alright.」%K%P
 0xED0
 武「潜水で、２５ｍプールを１往復したことならある、一応」%K%P
-Takeshi「Actually, I swam down and back in a 25-meter pool once.」%K%P
+Takeshi「Actually, I swam down and back in a 25-meter pool%Nonce.」%K%P
 0xEDC
 武「クイックターンで壁を蹴って、だけどな」%K%P
 Takeshi「I kicked off the far wall coming back, but still...」%K%P

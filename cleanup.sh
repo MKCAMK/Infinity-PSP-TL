@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # rm -rf e17_x360_iso_extracted/ e17_x360_BGM/
-rm -rf e17_mac/ e17_etc/ e17_iso_extracted/ e17_mac_en/ e17_etc_en/ e17_se/ e17_se_mod/
+rm -rf e17_mac/ e17_etc/ e17_iso_extracted/ e17_mac_en/ e17_etc_en/ e17_se/ e17_se_mod/ e17_bg/ e17_bg_en/
 rm -rf bin/
 rm -rf workdir
 rm -rf text/mac-en-only

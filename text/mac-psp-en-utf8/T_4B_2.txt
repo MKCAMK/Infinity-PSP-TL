@@ -387,7 +387,7 @@ Sora disappeared from the monitor...%K%P
 And instantly, she was standing in front of us.%K%P
 0x940
 空「ええと……立ち位置は合ってますか？　私の映像、ちゃんと出てますよね……？」%K%P
-Sora「Am I standing in the right place? Can you see me alright?」%K%P
+Sora「Am I standing in the right place? Can you see me%Nalright?」%K%P
 0x94C
 空は不安げに眉を下げる。%K%P
 Sora looked worried.%K%P

@@ -165,7 +165,7 @@ Takeshi「Hey, Sora, are you busy right now?」%K%P
 Sora「What? No, not really, but...」%K%P
 0x340
 空「倉成さん、お休みにならなくてもいいんですか？」%K%P
-Sora「Kuranari-san, are you sure you do not need more rest?」%K%P
+Sora「Kuranari-san, are you sure you do not need more%Nrest?」%K%P
 0x34C
 武「いいって。元々、眠れないから散歩しようと思ってたんだ」%K%P
 Takeshi「No, I'm fine. I already tried to sleep, but I couldn't, which is why I went for a walk.」%K%P
@@ -303,7 +303,7 @@ Sora「I suppose you are right...」%K%P
 Takeshi「So don't worry about it.」%K%P
 0x600
 空「皆さんの脱出経路を、きちんと確保できればいいんですけど。通信系の回復だって……」%K%P
-Sora「It would be great if we could ensure that everybody has an escape route, but even the communications are still...」%K%P
+Sora「It would be great if we could ensure that everybody has an escape route, but even the communications are%Nstill...」%K%P
 0x60C
 武「いいんだってば。それが難しいってことは、もうわかってる。無理難題は言わないよ」%K%P
 Takeshi「That's alright. I know it's difficult. We're not expecting the impossible.」%K%P
@@ -753,7 +753,7 @@ Sora「Love is one of those mysterious things that people are programmed to do.�
 Sora「One of its functions is reproduction...」%K%P
 0xDB8
 空「それでいて、生殖そのものからは独立したものであるところのっ」%K%P
-Sora「...But that appears to be a function independent of love.」%K%P
+Sora「...But that appears to be a function independent of%Nlove.」%K%P
 0xDC4
 武「ストップ！」%K%P
 Takeshi「Stop!」%K%P
