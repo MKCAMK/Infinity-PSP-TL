@@ -96,13 +96,13 @@ Takeshi「What, are you training in some ancient fighting art on the sly!?」%K%
 You「Geez, Kuranari. Why do you have to get like that?」%K%P
 0x23C
 武「冬山でツキノワグマと決闘するんじゃないのか？」%K%P
-Takeshi「Yeah, out fighting the black bears under the winter moon!」%K%P
+Takeshi「Yeah, out fighting the black bears under the winter%Nmoon!」%K%P
 0x250
 優「違うって。温泉よ温泉。秘湯巡り」%K%P
 You「Nope. I hunt out hot springs that nobody knows about.」%K%P
 0x264
 優「ああ、前人未踏の地に幻の湯を求めて三千里……いいわよねぇ、これぞ女のロマンって感じ……！」%K%P
-You「Yeah, deep in the mountains, someplace no one else has ever been. Oh, now THAT is this girl's idea of romantic!」%K%P
+You「Yeah, deep in the mountains, someplace no one else has ever been. Oh, now THAT is this girl's idea of%Nromantic!」%K%P
 0x270
 陶酔したように身をくねらせて、優は言った。%K%P
 You wriggled as if intoxicated by the image.%K%P

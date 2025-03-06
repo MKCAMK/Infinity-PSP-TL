@@ -60,7 +60,7 @@ Takeshi「Oh, really?」%K%P
 There was a mountain of packets just like the one I had found under the bed in the infirmary.%K%P
 0x150
 武「そうか。じゃ、探索のときは皆、寝ぼけてたのかもしれんな……」%K%P
-Takeshi「I guess we were all half-asleep when we looked last time.」%K%P
+Takeshi「I guess we were all half-asleep when we looked last%Ntime.」%K%P
 0x15C
 武「ひとまず食料の心配はいらないわけだ」%K%P
 Takeshi「Well, we don't need to worry about food for the time being.」%K%P
@@ -243,7 +243,7 @@ Sora「I... wanted to speak about the lecture.」%K%P
 Sora「Coco-chan was afraid of me, and Tanaka-san seemed mad about something...」%K%P
 0x508
 空「でも、倉成さんが間違ったことを言ったわけではないんじゃないかな？　って、そう思ってたんです」%K%P
-Sora「But what you said wasn't wrong... At least I don't think so.」%K%P
+Sora「But what you said wasn't wrong... At least I don't think%Nso.」%K%P
 0x514
 武「うん、俺もね……」%K%P
 Takeshi「Hmm, neither do I...」%K%P

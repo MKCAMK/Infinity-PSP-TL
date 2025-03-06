@@ -372,7 +372,7 @@ Tsugumi seemed slightly disturbed.%K%P
 Takeshi「It's... nothing. No special reason.」%K%P
 0x930
 武「意味のない質問だなぁ、と思っただけさ」%K%P
-Takeshi「It's just that, well, I thought your question was pointless.」%K%P
+Takeshi「It's just that, well, I thought your question was%Npointless.」%K%P
 0x944
 一瞬、つぐみは顔をしかめて……%K%P
 At first, Tsugumi started to frown...%K%P
@@ -1086,7 +1086,7 @@ Tsugumi「And that essence is realized only through your body, the hardware.」%
 Tsugumi「That's it. Your body is just the hardware.」%K%P
 0x1698
 つぐみ「武という本質を具現化する為の、ただの道具」%K%P
-Tsugumi「It's just a device in which the entity of 'you' is embodied.」%K%P
+Tsugumi「It's just a device in which the entity of 'you' is%Nembodied.」%K%P
 0x16A4
 武「……お」%K%P
 Takeshi「...I see. Hmm.」%K%P

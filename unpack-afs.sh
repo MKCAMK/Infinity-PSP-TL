@@ -19,6 +19,8 @@ mv e17_iso_extracted/PSP_GAME/SYSDIR/BOOT.BIN $WORK_DIR/BOOT.BIN
 
 cp $RES_DIR/mac.afs $WORK_DIR/mac.afs
 cp $RES_DIR/etc.afs $WORK_DIR/etc.afs
+cp $RES_DIR/bg.afs $WORK_DIR/bg.afs
+[ -d "e17_x360_BGM" ] && cp $RES_DIR/se.afs $WORK_DIR/se.afs
 cp $RES_DIR/init.bin $WORK_DIR/init.bin
 
 PKG=mac
@@ -47,6 +49,20 @@ for i in e17_$PKG/*.FOP ; do
 	$DECOMPRESS e17_$PKG/$f{.FOP,.FNT} || exit 1
 done
 cp e17_$PKG/FONT00.FNT text/font/FONT00.FNT
+
+#PKG=bg
+#rm -rf e17_$PKG/
+#unpack_afs $PKG
+#for i in e17_$PKG/*.BIP; do
+#	f=`basename $i .BIP`
+#	#echo "Decompressing $f"
+#	$DECOMPRESS e17_$PKG/$f{.BIP,.R11} || exit 1
+#done
+#for i in e17_$PKG/*.T2P; do
+#        f=`basename $i .T2P`
+#        #echo "Decompressing $f"
+#        $DECOMPRESS e17_$PKG/$f{.T2P,.GIM} || exit 1
+#done
 
 cd text/font
 python3 ../../py-src/extract_font.py pnghalf || exit 1

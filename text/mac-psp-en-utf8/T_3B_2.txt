@@ -285,7 +285,7 @@ I leaned against a handy artificial rock with a mascot pasted to it.%K%P
 Sora stood at attention once again and began speaking slowly.%K%P
 0x638
 空「昨日のお話の続きです」%K%P
-Sora「This is the continuation of our conversation yesterday.」%K%P
+Sora「This is the continuation of our conversation%Nyesterday.」%K%P
 0x644
 空「私という存在が世界にひとつしかない理由……」%K%P
 Sora「The reason that there is only one being like me in the world...」%K%P
@@ -375,7 +375,7 @@ Takeshi「Human cloning, which had been illegal up until then, was allowed by la
 Takeshi「As long as anyone receives the approval of the authorities, they can undergo clone fertilization as a way to treat infertility.」%K%P
 0x7F4
 武「培養した体細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させる……」%K%P
-Takeshi「The nucleus is taken from an already- cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it's implanted into the mother's womb...」%K%P
+Takeshi「The nucleus is taken from an already-cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it's implanted into the mother's womb...」%K%P
 0x800
 武「俺の友達の親戚にも、経験者がいるよ」%K%P
 Takeshi「One of my friend's relatives went through it.」%K%P
@@ -396,7 +396,7 @@ Sora「Human cloning, which had been illegal up until then, was allowed by law.�
 Sora「Currently, as long as anyone receives the approval of the authorities, they can undergo clone fertilization as a way to treat infertility.」%K%P
 0x850
 空「培養した体細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させることで……」%K%P
-Sora「The nucleus is taken from an already- cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it's implanted into the mother's womb...」%K%P
+Sora「The nucleus is taken from an already-cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it's implanted into the mother's womb...」%K%P
 0x85C
 武「ああ、そうだ思い出した！！」%K%P
 Takeshi「Oh, that's right, I remember now!」%K%P
@@ -732,7 +732,7 @@ Sora「Kuranari-san, do I look corporeal to you?」%K%P
 Takeshi「Of course.」%K%P
 0xE58
 空「では、耳の変換機を片側だけ外して、私の横に回り込んで見てください」%K%P
-Sora「In that case, please take out just one of the earphones of your voice adapter and come around here to my side.」%K%P
+Sora「In that case, please take out just one of the earphones of your voice adapter and come around here to my%Nside.」%K%P
 0xE64
 俺はイヤホンをそっと外し、言う通りにしてみる。%K%P
 I carefully removed an earphone and did as she said.%K%P

@@ -408,7 +408,7 @@ Takeshi「But we don't have a choice.」%K%P
 Takeshi「We all want to get out of here!」%K%P
 0x8D4
 武「つぐみだって、早くここから脱出したいだろ？」%K%P
-Takeshi「Don't you want to get out of here as soon as possible?」%K%P
+Takeshi「Don't you want to get out of here as soon as%Npossible?」%K%P
 0x8E0
 武「一応同じ船に乗り合わせちまった以上は仲間なんだよ」%K%P
 Takeshi「As long as we're in the same boat, we're friends.」%K%P

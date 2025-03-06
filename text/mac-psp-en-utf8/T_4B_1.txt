@@ -402,7 +402,7 @@ Coco「Wow, really!?」%K%P
 Coco「Oh, good〜」%K%P
 0x89C
 ココ「たけぴょんのサンド、実はココが作ったのだぴょーん♪」%K%P
-Coco「Actually, I made your sandwich all by my very own self〜」%K%P
+Coco「Actually, I made your sandwich all by my very own%Nself〜」%K%P
 0x8B0
 ココ「ふっふっふ、あれはねぇ〜〜……」%K%P
 Coco「Heehee, you see...」%K%P

@@ -357,7 +357,7 @@ You「Normally, all the data concerning LeMMIH's system has security protection.
 You「And of course, the personal data of the development staff has it as well.」%K%P
 0x870
 優「そのプロテクトを解く為の鍵……レミのセキュリティロックを外せる、緊急用の最終パスワード――それを、探してるのよ」%K%P
-You「And so I'm hunting for the key to unlock that protection―an emergency override.」%K%P
+You「And so I'm hunting for the key to unlock that%Nprotection―an emergency override.」%K%P
 0x87C
 武「ほぅ、そうだったのか……」%K%P
 Takeshi「Oh, so that's what you've been up to...」%K%P
@@ -600,7 +600,7 @@ You「Cracking the security protection is going to be a real pain. This stubborn
 You「So what exactly awaits hidden inside...? It's a little too soon to go there.」%K%P
 0xCF4
 優「結局、な〜んにもわかってないのと一緒だよ」%K%P
-You「Until I can get inside, it's the same as not knowing a thing.」%K%P
+You「Until I can get inside, it's the same as not knowing a%Nthing.」%K%P
 0xD00
 そう言って、優は大げさに肩をすくめる。%K%P
 You said this and then gave a big shrug.%K%P

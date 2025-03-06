@@ -354,7 +354,7 @@ It took her a while before she said anything.%K%P
 Sora「Listen, Kuranari-san...」%K%P
 0x62C
 空「目に見えているもの、音に聞こえているものは、現実……」%K%P
-Sora「Everything you see and everything you hear is reality...」%K%P
+Sora「Everything you see and everything you hear is%Nreality...」%K%P
 0x638
 空「でも、それは真実なのかどうか……？」%K%P
 Sora「But is it true or not...?」%K%P
@@ -462,7 +462,7 @@ Sora「Really...?」%K%P
 Takeshi「Of course not.」%K%P
 0x7F4
 武「俺と空は、同じじゃない。同一の存在じゃないんだ」%K%P
-Takeshi「We aren't the same, you and me. We just aren't the same.」%K%P
+Takeshi「We aren't the same, you and me. We just aren't the%Nsame.」%K%P
 0x800
 武「わからないことだって、当然ある」%K%P
 Takeshi「Look, there's no way that I would know why.」%K%P
@@ -1017,7 +1017,7 @@ Sora「You cannot be touched by him, but you want him to hold you.」%K%P
 Sora「You want to do the impossible.」%K%P
 0x1138
 空「現実味のない無意味な思考です」%K%P
-Sora「These are meaningless thoughts with no basis in reality.」%K%P
+Sora「These are meaningless thoughts with no basis in%Nreality.」%K%P
 0x1144
 空「…………」%K%P
 Sora「.........」%K%P
@@ -1251,7 +1251,7 @@ Fake Sora「Holding on to contradictory emotions like this will simply cause you
 Sora「.........」%K%P
 0x14F8
 偽空「倉成武をどう思っているのか、本当のことを言ってごらんなさい」%K%P
-Fake Sora「Why not tell Kuranari Takeshi what you really think of him?」%K%P
+Fake Sora「Why not tell Kuranari Takeshi what you really think of%Nhim?」%K%P
 0x1504
 空「…………」%K%P
 Sora「.........」%K%P
