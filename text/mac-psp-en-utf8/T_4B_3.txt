@@ -33,7 +33,7 @@ Thinking to explore a little, I set my foot inside.%K%P
 A huge whale was stretched out.%K%P
 0xEC
 『コスミッシャー・ヴァル』とエントランスに書いてある……。%K%P
-It said 'Cosmic Whale' on the entrance.%K%P
+It said 「Cosmic Whale」 on the entrance.%K%P
 0xF8
 それがこのアトラクションの名前らしい。%K%P
 Apparently, that was the name of the attraction.%K%P
@@ -60,7 +60,7 @@ After making sure that Tsugumi wasn't there, I left through a different door.%K%
 I quickly reached the generator room.%K%P
 0x160
 『Ｋｒａｆｔｗｅｒｋ』と書かれた扉……。%K%P
-The door said 'Kraftwerk'.%K%P
+The door said 「Kraftwerk」.%K%P
 0x16C
 俺は扉を押し開け、室内へと入った。%K%P
 I pushed open the door and stepped inside.%K%P
@@ -90,7 +90,7 @@ I decided to go in there.%K%P
 The room was full of pipes.%K%P
 0x24C
 確認したが、このパイプ部屋にはネームプレートがなかった。あえて呼ぶなら、圧力調整室、とでも言うのだろうか。%K%P
-There was no sign on the door, but I supposed it would be called something like a 'pressure regulation room' or something.%K%P
+There was no sign on the door, but I supposed it would be called something like a 「pressure regulation room」 or something.%K%P
 0x258
 ここからのパイプは、発電室のボイラーやタービンへと続いているはずだ。%K%P
 I assumed that the pipes must have been connected to the boilers and turbines in the generator room.%K%P

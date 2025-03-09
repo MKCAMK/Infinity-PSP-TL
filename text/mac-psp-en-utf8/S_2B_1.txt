@@ -18,10 +18,10 @@ Pliers, a spanner, a screwdriver, a hammer, a small welding machine... et cetera
 We packed all of the tools we imagined we might need into a toolbox and headed for the neutral buoyancy elevator.%K%P
 0xC8
 ――中性浮力式エレベーター『ＥＩ／アイ』。%K%P
-―The neutral buoyancy elevator 'Ei'.%K%P
+―The neutral buoyancy elevator 「Ei」.%K%P
 0xD4
 『ＥＩ』とはドイツ語で『卵』のことを意味する。%K%P
-'Ei' meant 'egg' in German.%K%P
+「Ei」 meant 「egg」 in German.%K%P
 0xE0
 文字通り、乗り物の形状は卵型をしていて、ＬｅＭＵの側面に設置されたレールに沿って、海中を上下に移動する。%K%P
 It was also a literal take on the egg-shaped elevator that traveled up and down rails into the ocean on the side of LeMU.%K%P
@@ -36,7 +36,7 @@ It would take in or release seawater from the tank as necessary to increase or r
 Once we were inside, we sealed the watertight doors on the LeMU side of the elevator.%K%P
 0x134
 あとは、ＬｅＭＵに接続されているロックを開放すれば、自然と『卵』は沈んで行くはずだ。%K%P
-All we had to do was release the lock connecting us to LeMU, and the 'egg' would sink away.%K%P
+All we had to do was release the lock connecting us to LeMU, and the 「egg」 would sink away.%K%P
 0x15C
 優は、扉の脇に付いていた作動レバーを引いた。%K%P
 You pulled the operating lever next to the door.%K%P
@@ -1701,13 +1701,13 @@ Only we people and higher vertebrates had lost the third eye over a long process
 Therefore, we had two light sensitive eyeballs, one on each side, instead.%K%N
 0x27D0
 この退化した第３の眼は『松果体（ショウカタイ）』と%N呼ばれている。%K%O
-The lost third eye was called a 'pineal body'.%K%O
+The lost third eye was called a 「pineal body」.%K%O
 0x27E8
 なお、松果体は内分泌器官としては機能しており、%N我々の脳の内部で、太古の時代と変わることなく、%N今でも２４時間のリズムを刻みつづけている。%K%N
 It had functioned in the brain for eons and was responsible for secreting hormones that helped carve out our 24-hour rhythm.%K%N
 0x27F4
 俗に言う『体内時計』とは、この松果体あっての能力なのである。%K%O
-What we called our 'internal clocks' existed because of the pineal body.%K%O
+What we called our 「internal clocks」 existed because of the pineal body.%K%O
 0x2828
 ……というようなウンチクを、ぼくがボルトを閉めている間、優は話してくれた。%K%P
 ...That was essentially the rundown that You gave me as I was tightening the bolts.%K%P

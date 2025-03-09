@@ -42,7 +42,7 @@ Takeshi「What's that supposed to mean?」%K%P
 You「You never know when to quit... Ahhh, I'm sorry, I didn't mean it in a bad way.」%K%P
 0x11C
 優「いつでも前向きに考えてるから……すごいな、って思う」%K%P
-You「You always try to be positive... I just have to admire that.」%K%P
+You「You always try to be positive... I just have to admire%Nthat.」%K%P
 0x128
 優「うん、ほんとだよ」%K%P
 You「I mean it.」%K%P
@@ -285,7 +285,7 @@ Takeshi「Really...」%K%P
 Even if Sora was everywhere...%K%P
 0x5B0
 俺にとっての『茜ヶ崎空』は、たったひとりだけだ。%K%P
-There was only one 'Akanegasaki Sora' that I knew.%K%P
+There was only one 「Akanegasaki Sora」 that I knew.%K%P
 0x5BC
 武「つまり……」%K%P
 Takeshi「Meaning...」%K%P
@@ -984,7 +984,7 @@ You「Well, yeah. 'Cause they hurt!」%K%P
 You puffed out her cheeks stubbornly.%K%P
 0x1680
 武「命がかかってるってのに、お前は何を言い出すんだよ……！」%K%P
-Takeshi「What are you talking about!? Your life's on the line here...!」%K%P
+Takeshi「What are you talking about!? Your life's on the line%Nhere...!」%K%P
 0x168C
 武「仕方ない、注射器を貸せ、優！」%K%P
 Takeshi「You don't have a choice, so give me the syringe!」%K%P
@@ -1017,7 +1017,7 @@ I grabbed onto You's arm and stuck the needle in it.%K%P
 You「Hey! Where do you think you're sticking that!?」%K%P
 0x1724
 優「違う！　そこじゃないって！　ああ乱暴にしないでっ！」%K%P
-You「You've got it all wrong! Not there! Aaaa, stop mangling me!」%K%P
+You「You've got it all wrong! Not there! Aaaa, stop mangling%Nme!」%K%P
 0x1730
 優「痛い痛い！　もう！　ゆっくりやってよ！」%K%P
 You「Ow! Ouch! Stop! Go more slowly!」%K%P
@@ -1188,7 +1188,7 @@ Was I sleeping?%K%P
 Which was it?%K%P
 0x1A7C
 こうして考えている俺は、いったいどこにいるのだろう？%K%P
-And where was the 'me' that was thinking about all these things?%K%P
+And where was the 「me」 that was thinking about all these things?%K%P
 0x1A90
 優「あと少しだけ、時間があったら……」%K%P
 You「If we just had a little more time...」%K%P
@@ -1419,7 +1419,7 @@ Mission Control「LeMU's partition strength threshold is already being exceeded.
 Mission Control「If one section implodes, there's the risk that another area could collapse and start sinking.」%K%P
 0x1E70
 管制官「いずれにしろ、重量のある破片が落下し、研究所上部にぶつかることが予想される」%K%P
-Mission Control「If that happens, we think there's a high possibility that heavy pieces could crash down on the research facility.」%K%P
+Mission Control「If that happens, we think there's a high possibility that heavy pieces could crash down on the research%Nfacility.」%K%P
 0x1E7C
 武「なるほどな……」%K%P
 Takeshi「You don't say...」%K%P
@@ -1443,7 +1443,7 @@ Takeshi「Ah, hey! W-wait a sec!」%K%P
 I hit the call button repeatedly, but there was no answer.%K%P
 0x1ED0
 武「くそっ、こっちからは回線を開けないのか……？」%K%P
-Takeshi「Damn it, we can't open up communications from this side...」%K%P
+Takeshi「Damn it, we can't open up communications from this%Nside...」%K%P
 0x1EDC
 仕方がない。%K%P
 I didn't have any other choice.%K%P
@@ -1470,7 +1470,7 @@ Takeshi「It's a small electric submersible...」%K%P
 The submarine was in a separate sealed sector attached to IBF.%K%P
 0x1F58
 飽和潜水仕様の中性浮力潜水艇だ。%K%P
-The specifications said it was a 'neutral buoyancy' miniature submarine for saturation diving.%K%P
+The specifications said it was a 「neutral buoyancy」 miniature submarine for saturation diving.%K%P
 0x1F64
 遠隔操作で、こちらのプールに呼べるらしい。%K%P
 The important thing was that it could be brought over to the pool by remote control.%K%P
@@ -3102,7 +3102,7 @@ The cable was twisted in places, and I could tell the connector was bent.%K%P
 I cut it with my nippers, dug out the copper wire with my pliers, replaced the connector, and reattached the cable.%K%P
 0x4BAC
 武「直してみたぞ。どうだ空、通信できそうか？」%K%P
-Takeshi「I think I fixed it. What do you think, Sora, will it go through?」%K%P
+Takeshi「I think I fixed it. What do you think, Sora, will it go%Nthrough?」%K%P
 0x4BB8
 空「はい、恐らく」%K%P
 Sora「Yes, probably.」%K%P
@@ -3219,7 +3219,7 @@ Sora「Please, go back to Zweiter.」%K%P
 Takeshi「No.」%K%P
 0x4E00
 武「ドリットシュトックの全通路の水密扉を開放してくれ」%K%P
-Takeshi「Open all the floodgates in Dritter Stock's passageways.」%K%P
+Takeshi「Open all the floodgates in Dritter Stock's%Npassageways.」%K%P
 0x4E14
 空「できません」%K%P
 Sora「I can't.」%K%P
@@ -3234,7 +3234,7 @@ Takeshi「Just hurry up and open them!」%K%P
 Sora「I can't. If I open the doors, Dritter Stock will be completely flooded.」%K%P
 0x4E44
 空「ヒンメルの外は、すべて海水に満たされるんです」%K%P
-Sora「Everything outside of Himmel will be covered in seawater.」%K%P
+Sora「Everything outside of Himmel will be covered in%Nseawater.」%K%P
 0x4E50
 空「そうしたら、倉成さんは、もう二度と……」%K%P
 Sora「If I do that, you'll never again be able to...」%K%P

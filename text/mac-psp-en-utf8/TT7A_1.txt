@@ -180,7 +180,7 @@ Takeshi「Cut...?」%K%P
 Tsugumi「You fell over, and... I tried to stop you from falling, but...」%K%P
 0x42C
 つぐみ「間に合わなくって……。額が割れてるわ、武」%K%P
-Tsugumi「I didn't get there in time. You split your forehead, Takeshi.」%K%P
+Tsugumi「I didn't get there in time. You split your forehead,%NTakeshi.」%K%P
 0x438
 つぐみは小さく、艶やかな唇を開いて呟く。%K%P
 Tsugumi opened her glossy lips slightly and murmured.%K%P
@@ -810,7 +810,7 @@ Takeshi「I don't know how to say it, but...」%K%P
 I looked up toward the heavens I couldn't see.%K%P
 0x10C4
 そこに何があるかは知らない。%K%P
-I didn't know if there was 'something above'.%K%P
+I didn't know if there was 「something above」.%K%P
 0x10D0
 知る必要があるのだろうか。%K%P
 Didn't know if it really mattered.%K%P
@@ -2013,7 +2013,7 @@ My field of vision filled with white bubbles heading up toward the heavens.%K%P
 I closed my eyes slowly.%K%P
 0x32A0
 そのとき、俺はここにいることを初めて知った。%K%P
-That was when I realized for the first time that I was 'there'.%K%P
+That was when I realized for the first time that I was 「there」.%K%P
 0x32AC
 俺はここにいる。%K%P
 「I'm here.」%K%P

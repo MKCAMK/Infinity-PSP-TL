@@ -873,7 +873,7 @@ Taken off guard, Coco looked as if she'd been gut-punched.%K%P
 But it wasn't surprising.%K%P
 0x1330
 『浸水しました』と言われて『はい、そうですか』と答えるようなやつは、どこにもいないだろう。%K%P
-Not many people would calmly reply, 'Oh, really' when notified that they had just missed a massive flood.%K%P
+Not many people would calmly reply, 「Oh, really」 when notified that they had just missed a massive flood.%K%P
 0x133C
 むしろ、俺達がこうして、比較的落ち着いて行動できていることの方が不思議だ。%K%P
 Actually, the fact that our group was able to act as calmly as it did seemed fairly unusual.%K%P
@@ -1020,7 +1020,7 @@ Takeshi「So are we the only folks here?」%K%P
 Park Staff「I do not know. I am currently investigating.」%K%P
 0x1640
 歩きながら『調査中』も何もないだろう……。%K%P
-'Yeah right, investigating what?', I thought as we walked...%K%P
+「Yeah right, investigating what?」, I thought as we walked...%K%P
 0x1654
 係員「あっ！」%K%P
 Park Staff「Ah!」%K%P
@@ -1347,7 +1347,7 @@ Sora「Some electrical systems, including the elevators, are not functioning. Th
 Sora「That is another reason that I was not able to survey the situation adequately before.」%K%P
 0x1E18
 （『私が』把握できなかった……？）%K%P
-(What does she mean 'she' wasn't able to...?)%K%P
+(What does she mean 「she」 wasn't able to...?)%K%P
 0x1E24
 少し引っかかるものを覚えたが、続きを聞くことにする。%K%P
 Something about her words nagged at my mind, but I listened to the rest of what she had to say.%K%P
@@ -1896,16 +1896,16 @@ Amnesia:%T030%K%N
 Refers to memories lost for a certain period of time. It is more common with new memories than with old memories.%T030%K%N
 0x2A1C
 この期間の健忘が完全なものを全健忘、不完全で部分的にしか想起しえないものを部分健忘という。%K%O
-During the period of memory loss, if the person has no memories at all, it is called 'complete amnesia', but in instances in which some memories can be recalled, it is called 'partial amnesia'.%K%O
+During the period of memory loss, if the person has no memories at all, it is called 「complete amnesia」, but in instances in which some memories can be recalled, it is called 「partial amnesia」.%K%O
 0x2A34
 通常、健忘は頭部外傷・てんかん発作・症状精神病・ヒステリーなどの際にみられる意識障害の間の出来事についての想起不能という形で現れることが多い。%T030%K%N
 Generally, amnesia results from trauma to the head, epileptic seizures, mental diseases, and disorders that manifest themselves as memory impairments.%T030%K%N
 0x2A40
 意識清明になったとき、意識障害が始まった時点より遡って追想の欠如がみられる場合を逆行健忘といい、意識回復後にわたって健忘が認められる場合や、記銘障害が著しく、次々に周囲の出来事を忘れていく場合を前向健忘という。%K%O
-When a person has trouble recollecting events prior to the impairment, it is known as 'retrograde amnesia'. If new memories cannot be formed after the onset of the impairment, it is known as 'anterograde amnesia'.%K%O
+When a person has trouble recollecting events prior to the impairment, it is known as 「retrograde amnesia」. If new memories cannot be formed after the onset of the impairment, it is known as 「anterograde amnesia」.%K%O
 0x2A58
 器質的病変に基づく健忘を器質健忘というのに対して、心因に基づくものを心因健忘といい、全般健忘（全生活史健忘）が代表的なものである。%T030%K%N
-Amnesia caused by inherent mental factors is referred to as 'organic amnesia', while that induced by psychological stress is typically known as 'psychogenic amnesia', with 'hysterical amnesia' being the most typical example.%T030%K%N
+Amnesia caused by inherent mental factors is referred to as 「organic amnesia」, while that induced by psychological stress is typically known as 「psychogenic amnesia」, with 「hysterical amnesia」 being the most typical example.%T030%K%N
 0x2A64
 これは社会的事実についての知識はよく保たれていながら、名前・生いたち・家族や友人のことなど自分の全生活史にわたるすべてを想起できない状態であり……%T030%K%N
 This is an affliction in which the victim often cannot recall knowledge relating to his or her personal history, such as one's name, history, family, or friends...%T030%K%O
@@ -1950,7 +1950,7 @@ Takeshi「Yeah, you coulda taken a tumble... like when trying to escape.」%K%P
 Tsugumi「Hmmph...」%K%P
 0x2B7C
 『すっ転んだ』と俺が口にしたら、つぐみが鼻で笑った。%K%P
-Tsugumi had let loose a nasty snort when I said 'tumble'.%K%P
+Tsugumi had let loose a nasty snort when I said 「tumble」.%K%P
 0x2B88
 少年「わからない……何も、覚えてないんだ」%K%P
 Kid「I don't know... I don't remember anything.」%K%P
@@ -2043,7 +2043,7 @@ Sora seemed older than me. She seemed polite and serious.%K%P
 She seemed the typical Japanese woman.%K%P
 0x2DE0
 そんな表現が似合うかもしれなかった。%K%P
-'Prim and proper' could be one way of describing Sora.%K%P
+「Prim and proper」 could be one way of describing Sora.%K%P
 0x2DEC
 俺はふと、辺りを見回してみた。%K%P
 I looked around at my surroundings.%K%P

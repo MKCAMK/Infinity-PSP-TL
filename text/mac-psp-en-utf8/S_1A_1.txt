@@ -825,7 +825,7 @@ It looked like she soon found what she was looking for.%K%P
 And she headed toward it single-mindedly.%K%P
 0x11A0
 １本の梯子……その脇には真っ赤な文字で『ａｕｓｇａｎｇ／非常口』と書かれ、矢印が上に向かって伸びている。%K%P
-A ladder... Next to it, the words 'Ausgang/Emergency Exit' were written in straight red letters with an arrow pointing upward.%K%P
+A ladder... Next to it, the words 「Ausgang/Emergency Exit」 were written in straight red letters with an arrow pointing upward.%K%P
 0x11AC
 梯子の先――天井には頑丈そうな扉があり、円形のハンドルのようなものがついていた。%K%P
 At the other end of the ladder was the ceiling and a sturdy looking door with a round-shaped handle attached to it.%K%P
@@ -906,7 +906,7 @@ You「Well, don't just stand there. Get over here and help me!」%K%P
 Spurred by her words, I firmly grabbed onto the handle.%K%P
 0x13A4
 『öｆｆｎｅｎ／開く』と書かれた矢印の方に向かって、渾身の力を込める。%K%P
-I tried with all my might to turn it in the direction of the arrow that said 'öffnen / open'.%K%P
+I tried with all my might to turn it in the direction of the arrow that said 「öffnen / open」.%K%P
 0x13B0
 少年「くっそぉー……なんだよ、これぇ……」%K%P
 Kid「Damn... What's with this...」%K%P
@@ -1728,10 +1728,10 @@ No, it was something closer to a sense of loss.%K%P
 I felt that I had lost the bulk of my existence.%K%P
 0x2750
 誰かが『ぼく』をごっそりと奪い去って行き、残された『ぼく』はただの抜け殻で……。%K%P
-Like someone had stolen 'me' away. And the 'me' who was left was just an empty shell.%K%P
+Like someone had stolen 「me」 away. And the 「me」 who was left was just an empty shell.%K%P
 0x275C
 ここにいる『ぼく』は、本当の『ぼく』じゃ……ないのかもしれない。%K%P
-The 'me' that was there... Who knew if it was even the real me?%K%P
+The 「me」 that was there... Who knew if it was even the real me?%K%P
 0x2768
 そう考えたとたん、凍りつくような不安がぼくを襲った。%K%P
 The instant that thought went through my mind, I was frozen by an icy wave of unease.%K%P

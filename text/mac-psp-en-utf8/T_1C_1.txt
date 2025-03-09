@@ -96,7 +96,7 @@ There was a carousel there.%K%P
 Instead of horses, it had a dolphin theme...%K%P
 0x2DC
 『カルセル・デルフィーネ』というのが正式名称のようだ。%K%P
-It looked like its official name was 'Delphinkarussell'.%K%P
+It looked like its official name was 「Delphinkarussell」.%K%P
 0x2E8
 人の気配の消えたメリーゴーランドは、少し気味が悪く、そして寂しい。%K%P
 With no visitors around, the merry-go-round seemed a little spooky and very lonely.%K%P
@@ -231,7 +231,7 @@ Takeshi「I mean, what a WONDERFUL explanation, you're a model employee!」%K%P
 You「Hmmm...」%K%P
 0x5B4
 優「倉成君はイルカがぐるぐる廻るのに驚いて『おわおぁっ！！』とかセクシーな叫び声をあげた上にちょっぴりブルっちゃいました♪」%K%P
-You「Kuranari, that sure was a sexy scream you let out when the dolphins started moving. You were scared, weren't you〜」%K%P
+You「Kuranari-kun, that sure was a sexy scream you let out when the dolphins started moving. You were scared, weren't you〜」%K%P
 0x5C0
 優「って、みんなに言いふらしちゃおっかなぁ……」%K%P
 You「I think I'll tell everyone about it...」%K%P
@@ -405,10 +405,10 @@ You hugged her knees more tightly.%K%P
 You「My mom has convinced herself that my dad is already dead...」%K%P
 0x8E8
 『死』……。%K%P
-'Dead'...%K%P
+「Dead」...%K%P
 0x8F4
 その言葉は、俺の胸に重く響いた。%K%P
-The word 'dead' had a heavy ring to it.%K%P
+The word 「dead」 had a heavy ring to it.%K%P
 0x900
 優「でも、でもね？」%K%P
 You「But, you know?」%K%P
@@ -798,7 +798,7 @@ The front wall was packed with monitors. They were all stained dark from cigaret
 Ashtrays were stacked up like it was normal.%K%P
 0x1094
 これ見よがしな、ドでかい『禁煙』の文字の張り紙。%K%P
-And there was a huge sign plastered on the wall that said 'NO SMOKING'.%K%P
+And there was a huge sign plastered on the wall that said 「NO SMOKING」.%K%P
 0x10A0
 俺は咄嗟に大学のむさ苦しい部室長屋（漢専用・築２５年）を思い浮かべ、笑い出しそうになった。%K%P
 I recalled the sloppy clubroom back at college (it had 25 years of history being only used by guys) and couldn't help but chuckle.%K%P
@@ -924,7 +924,7 @@ I didn't really understand what she meant.%K%P
 (She's probably really into her job.)%K%P
 0x12B0
 システムエンジニアという人種には、こういったちょっと変わった方が多いのかもしれないと、俺は勝手に納得した。%K%P
-I imagined that the position of system engineer was probably just an occupation that drew 'interesting types' and felt satisfied with that.%K%P
+I imagined that the position of system engineer was probably just an occupation that drew 「interesting types」 and felt satisfied with that.%K%P
 0x12C0
 %N
 
@@ -966,7 +966,7 @@ I went in the far door, which was open.%K%P
 I had been aiming for the elevator, but wound up somewhere else.%K%P
 0x13EC
 看板には『クヴァレ』と書いてある。%K%P
-The sign said 'Qualle'.%K%P
+The sign said 「Qualle」.%K%P
 0x13F8
 クヴァレってなんだ？%K%P
 I had no clue what that meant.%K%P
@@ -1275,7 +1275,7 @@ Then she left disappearing down the corridor and I was alone.%K%P
 
 0x1A1C
 %LC＜クラゲゴンドラ『クヴァレ』　異状なし＞%K%P
-%LC<Jellyfish Gondola 'Qualle': Situation normal>%K%P
+%LC<Jellyfish Gondola 「Qualle」: Situation normal>%K%P
 0x1A30
 %N
 
@@ -1380,7 +1380,7 @@ There were two normal beds and one that looked like it was for surgery.%K%P
 There was also a huge machine attached to one of them.%K%P
 0x1C50
 『Ｌ−ＭＲＩ』と書いてある。%K%P
-'L-MRI' was written on it.%K%P
+「L-MRI」 was written on it.%K%P
 0x1C5C
 なんだかわからないが、恐らくスキャナーの類だ。%K%P
 I didn't know what it was, but it looked like it was some kind of scanner.%K%P

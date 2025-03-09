@@ -117,7 +117,7 @@ Tsugumi「You remember? That journal entry we found.」%K%P
 Takeshi「Oh, it was him...」%K%P
 0x2B8
 『娘を頼む』と言い残した、研究員。%K%P
-His last words had been, 'Take care of my daughter.'%K%P
+His last words had been, 「Take care of my daughter.」%K%P
 0x2CC
 つぐみ「あの研究員こそが、恐らく、ココの父親だったのよ」%K%P
 Tsugumi「I think that was Coco's dad.」%K%P
@@ -141,7 +141,7 @@ Takeshi「What do you think about Coco's condition?」%K%P
 Takeshi「Why did Coco get TB anyway...?」%K%P
 0x348
 つぐみ「そうね……ココは５月１日以前に、一度このＩＢＦに降りている」%K%P
-Tsugumi「Well... Coco had been to IBF at least once before May 1st.」%K%P
+Tsugumi「Well... Coco had been to IBF at least once before May%N1st.」%K%P
 0x354
 つぐみ「そのとき既に、ＩＢＦで研究していたＴＢウイルスが、漏れていたとしたら？」%K%P
 Tsugumi「Maybe there was already an outbreak of the TB virus at that time.」%K%P
@@ -213,7 +213,7 @@ Takeshi「I can't believe it...!」%K%P
 All I could do was sigh in frustration.%K%P
 0x498
 武「道理で、それじゃここに救助隊が来ないのも……？」%K%P
-Takeshi「That's the reason that no rescue team is coming here...?」%K%P
+Takeshi「That's the reason that no rescue team is coming%Nhere...?」%K%P
 0x4AC
 つぐみ「きっとそのせいなのね」%K%P
 Tsugumi「I'm sure that's it.」%K%P
@@ -888,7 +888,7 @@ You「Well yeah. 'Cause they hurt!」%K%P
 You puffed out her cheeks stubbornly.%K%P
 0x1508
 武「命がかかってるってのに、お前は何を言い出すんだよ……！」%K%P
-Takeshi「What are you talking about!? Your life's on the line here...!」%K%P
+Takeshi「What are you talking about!? Your life's on the line%Nhere...!」%K%P
 0x1514
 武「仕方ない、注射器を貸せ、優！」%K%P
 Takeshi「You don't have a choice, so give me the syringe!」%K%P
@@ -921,7 +921,7 @@ I grabbed onto You's arm and stuck the needle in it.%K%P
 You「Hey! Where do you think you're sticking that!?」%K%P
 0x15AC
 優「違う！　そこじゃないって！　ああ乱暴にしないでっ！」%K%P
-You「You've got it all wrong! Not there! Aaaa, stop mangling me!」%K%P
+You「You've got it all wrong! Not there! Aaaa, stop mangling%Nme!」%K%P
 0x15B8
 優「痛い痛い！　もう！　ゆっくりやってよ！」%K%P
 You「Ow! Ouch! Stop! Go more slowly!」%K%P
@@ -1251,10 +1251,10 @@ She didn't show any signs of the TB virus.%K%P
 I dredged up Tsugumi's old words from the depths of my memory...%K%P
 0x1C74
 『免疫機能並びに代謝効率は著しく能力向上し』%K%P
-'Highly improved immune system and increased metabolic efficiency'.%K%P
+「Highly improved immune system and increased metabolic efficiency」.%K%P
 0x1C80
 『テロメアは回復し続ける』%K%P
-'Telomeres that continue to rejuvenate'.%K%P
+「Telomeres that continue to rejuvenate」.%K%P
 0x1C8C
 …………。%K%P
 .........%K%P
@@ -1284,7 +1284,7 @@ Curé...%K%P
 Tsugumi had gone beyond the normal human capability...%K%P
 0x1D44
 つぐみは、自分はその中でも特殊だと言っていた。%K%P
-She had mentioned that she was 'special'.%K%P
+She had mentioned that she was 「special」.%K%P
 0x1D50
 遺伝子の組み替えが全身に渡って順調に行われた例は、恐らく、非常に稀なのだ。%K%P
 Successful cases of genetic manipulation were probably exceedingly rare.%K%P
@@ -1581,7 +1581,7 @@ You「Listen, Kuranari, Tsugumi...」%K%P
 You opened her mouth to talk from where she was seated at the terminal.%K%P
 0x25F8
 優「この診療室の奥に簡単なラボがあるの」%K%P
-You「There's a simple lab in the back of the examination room.」%K%P
+You「There's a simple lab in the back of the examination%Nroom.」%K%P
 0x2604
 優「遠心分離機のついた、アンプル精製用のマシンも備えられてる……」%K%P
 You「I saw a centrifuge and a machine for refining serum...」%K%P
@@ -1815,7 +1815,7 @@ Was I alive?%K%P
 Was I dead?%K%P
 0x2D0C
 こうして考えている俺は、いったいどこにいるのだろう？%K%P
-And where was the 'me' that was thinking about all these things?%K%P
+And where was the 「me」 that was thinking about all these things?%K%P
 0x2D20
 優「もう、大丈夫……」%K%P
 You「It's fine now...」%K%P
@@ -2073,7 +2073,7 @@ Mission Control「LeMU's partition strength threshold is already being exceeded.
 Mission Control「If one section implodes, there's the risk that another area could collapse and start sinking.」%K%P
 0x3198
 管制官「いずれにしろ、重量のある破片が落下し、研究所上部にぶつかることが予想される」%K%P
-Mission Control「If that happens, we think there's a high possibility that heavy pieces could crash down on the research facility.」%K%P
+Mission Control「If that happens, we think there's a high possibility that heavy pieces could crash down on the research%Nfacility.」%K%P
 0x31A4
 武「なるほどな……」%K%P
 Takeshi「You don't say...」%K%P
@@ -2097,7 +2097,7 @@ Takeshi「Ah, hey! W-wait a sec!」%K%P
 I hit the call button repeatedly, but there was no answer.%K%P
 0x31F8
 武「くそっ、こっちからは回線を開けないのか……？」%K%P
-Takeshi「Damn it, we can't open up communications from this side...」%K%P
+Takeshi「Damn it, we can't open up communications from this%Nside...」%K%P
 0x3204
 仕方がない。%K%P
 I didn't have any other choice.%K%P
@@ -2124,7 +2124,7 @@ Takeshi「It's a small electric submersible...」%K%P
 The submarine was in a separate sealed sector attached to IBF.%K%P
 0x3280
 飽和潜水仕様の中性浮力潜水艇だ。%K%P
-The specifications said it was a 'neutral buoyancy' miniature submarine for saturation diving.%K%P
+The specifications said it was a 「neutral buoyancy」 miniature submarine for saturation diving.%K%P
 0x328C
 遠隔操作で、こちらのプールに呼べるらしい。%K%P
 The important thing was that it could be brought over to the pool by remote control.%K%P
@@ -2637,7 +2637,7 @@ She looked at me as though she still couldn't believe I was actually there.%K%P
 Takeshi「Well, I'm a good swimmer.」%K%P
 0x4524
 武「潜水で、２５ｍプールを１往復したことならある、一応」%K%P
-Takeshi「Actually, I swam down and back in a 25-meter pool once.」%K%P
+Takeshi「Actually, I swam down and back in a 25-meter pool%Nonce.」%K%P
 0x4530
 武「クイックターンで壁を蹴って、だけどな」%K%P
 Takeshi「I kicked off the wall coming back, but still...」%K%P

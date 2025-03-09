@@ -60,7 +60,7 @@ Then again, there were others with me too, one of them opening her mouth so wide
 She looked REALLY happy.%K%P
 0x1D8
 優「倉成タケさまぁ〜んっ♪」%K%P
-You「Kuranariiii〜」%K%P
+You「Kuranari Take-samaaaa〜♪」%K%P
 0x1E4
 そして、そいつは包装紙をひらひらと振った……。%K%P
 And had flipped off the wrapping paper...%K%P
@@ -108,7 +108,7 @@ Still, I was irritated as I waited for the cold oil to heat up again.%K%P
 I anxiously fidgeted as I waited.%K%P
 0x2C0
 フライ挟みでフライヤーをカンカン叩く。%K%P
-The wire basket struck the frying pan with a clang.%K%P
+The wire basket struck the fryer with a clang.%K%P
 0x2CC
 （さっさと作って、さっさと持ってくか……）%K%P
 (I'll just get this done as soon as I can...)%K%P
@@ -117,7 +117,7 @@ The wire basket struck the frying pan with a clang.%K%P
 Tsugumi「Hey...」%K%P
 0x2EC
 不意に、売店の軒先に客が現れた。%K%P
-A 'customer' had showed up without warning.%K%P
+A 「customer」 had showed up without warning.%K%P
 0x2F8
 つぐみ「私もひとつ、追加を頼みたいんだけど」%K%P
 Tsugumi「I'd like to ask for another one if that's okay.」%K%P
@@ -234,7 +234,7 @@ She was smiling so gently...%K%P
 She had surprised me when she started talking to me all of a sudden...%K%P
 0x538
 今のつぐみは、『死』なんて間違っても口にしそうにない。%K%P
-The Tsugumi right then seemed like she would never talk about 'dying', even by accident.%K%P
+The Tsugumi right then seemed like she would never talk about 「dying」, even by accident.%K%P
 0x544
 あれから、吹っ切れたのだろうか？%K%P
 I wondered if she had resolved her feelings.%K%P
@@ -267,7 +267,7 @@ Had she totally forgotten about the events of the other night? I had to wonder.%
 (Well, if she doesn't care, then I suppose that's best...)%K%P
 0x5C4
 今のつぐみは、『死』なんて間違っても口にしそうにない。%K%P
-The Tsugumi right then seemed like she would never talk about 'dying', even by accident.%K%P
+The Tsugumi right then seemed like she would never talk about 「dying」, even by accident.%K%P
 0x5D0
 彼女のその笑顔を、信じてみることにした。%K%P
 I decided to believe that her smile was real.%K%P
@@ -741,7 +741,7 @@ You「Ahh...!」%K%P
 Just then, the Kid knocked the sandwich out of You's hand.%K%P
 0x1038
 まだひと口も食べていない、田中専用スペシャル……。%K%P
-She hadn't even taken a bite out of her 'Tanaka Special'...%K%P
+She hadn't even taken a bite out of her 「Tanaka%NSpecial」...%K%P
 0x1060
 それは、水面にぽちゃりと音を立て、それからゆっくりと沈んだ。%K%P
 It fell into the water with a splash and sank slowly.%K%P
@@ -1188,7 +1188,7 @@ But once something had been said, it wasn't easy to take it back.%K%P
 I stopped at the end of the corridor.%K%P
 0x1BC0
 『ＨＩＭＭＥＬ』%K%P
-'HIMMEL'.%K%P
+「HIMMEL」.%K%P
 0x1BCC
 袋小路。どこにも行くことはできない。%K%P
 Dead end. Nowhere to go.%K%P

@@ -216,7 +216,7 @@ Sora「Implosion of LeMU is estimated to occur at 4:30 a.m. on May 7th.」%K%P
 Sora「The calculation has a margin of error of plus or minus twelve hours.」%K%P
 0x508
 空「この推定数値には、今のところ大きな変更はかかっていません」%K%P
-Sora「There has been no significant change in this prediction.」%K%P
+Sora「There has been no significant change in this%Nprediction.」%K%P
 0x514
 空「隔壁強度は、一部において既に、限界を超えつつあるのです」%K%P
 Sora「In one area, the strength limits of partitions have already been exceeded.」%K%P
@@ -432,7 +432,7 @@ Sora「I believe it was only due to a large amount of activity from the thermal 
 Kid「.........」%K%P
 0x9D0
 しかし顔色はなかなか元に戻ってくれない。%K%P
-But her facial coloring still hadn't returned to normal.%K%P
+But the color of his face still hadn't returned to normal.%K%P
 0x9E4
 お互いに、顔を見合わせる……。%K%P
 Everyone looked around the room, exchanging glances.%K%P
@@ -639,7 +639,7 @@ Pipi「*Bow-wow*!」%K%P
 I had only thrown out the idea as a way to lighten the mood...%K%P
 0xE68
 いつの間にか『宴会』ということになっている。%K%P
-And before I knew it, we had ourselves a full-blown 'party' in the making.%K%P
+And before I knew it, we had ourselves a full-blown%N「party」 in the making.%K%P
 0xE74
 ……まぁ、いいか。%K%P
 ...Well, whatever.%K%P
@@ -726,7 +726,7 @@ Coco「You know? What's wrong with dreaming like that?」%K%P
 Takeshi「Yeah, you're right.」%K%P
 0x1040
 武「実は正直、俺もそう思ってたんだ」%K%P
-Takeshi「You know... To tell you the truth, I'm thinking the same way.」%K%P
+Takeshi「You know... To tell you the truth, I'm thinking the same%Nway.」%K%P
 0x104C
 武「ひょっとしてひょっとしたら、助けに来てくれるさ！」%K%P
 Takeshi「I think that someone might come to rescue us!」%K%P
@@ -1011,7 +1011,7 @@ Takeshi「There's no way you could've forgotten.」%K%P
 Takeshi「I know I haven't.」%K%P
 0x1694
 武「忘れるもんか……そんな簡単な話じゃないんだ」%K%P
-Takeshi「That's not something you can... just simply forget about.」%K%P
+Takeshi「That's not something you can... just simply forget%Nabout.」%K%P
 0x16A0
 武「もっとも、答えは簡単には出せやしない。だけど」%K%P
 Takeshi「I realize it's not something you can talk about casually, but...」%K%P

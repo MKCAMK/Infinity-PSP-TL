@@ -213,7 +213,7 @@ As always, the room smelled like smoke.%K%P
 I tried the terminal.%K%P
 0x600
 画面には『定期メンテナンス中』のメッセージが表示された。%K%P
-The screen read 'Periodic Maintenance in Progress.'%K%P
+The screen read 「Periodic Maintenance in Progress.」%K%P
 0x60C
 その下を読み進める。%K%P
 The message continued.%K%P
@@ -969,10 +969,10 @@ Me... Kuranari Takeshi. Since the moment I was born, I had existed as one person
 There was no doubt about that fact.%T030%K%N
 0x1460
 アルバムに載っている赤ん坊の俺も、小学校の運動会で走っている俺も、そして、ここにいる俺も……同じ『倉成武』という個体である。%K%O
-The 'me' as a baby in the photo album, the 'me' running around in elementary school, and finally, the 'me' sitting there... they were all the same organism called 'Kuranari Takeshi'.%K%O
+The 「me」 as a baby in the photo album, the 「me」 running around in elementary school, and finally, the 「me」 sitting there... they were all the same organism called 「Kuranari Takeshi」.%K%O
 0x1478
 しかし、その実体はどこに存在するのか？%T030%K%N
-So where exactly did the entity called 'me' exist?%T030%K%N
+So where exactly did the entity called 「me」 exist?%T030%K%N
 0x1484
 大昔の人は、それはハート、つまり心臓に宿ると信じていた。%T030%K%N
 In the past, people thought the soul existed in a person's heart.%T030%K%N
@@ -987,7 +987,7 @@ The brain.%T030%K%N
 I wondered briefly if I existed only in my memories.%T030%K%N
 0x14C0
 ならば、あの少年のように記憶を一切失ってしまったら、それはもう、倉成武ではないのだろうか？%T030%K%N
-But if that were the truth, then if I lost my memory like the Kid, wouldn't that mean I was no longer 'Kuranari Takeshi'?%T030%K%N
+But if that were the truth, then if I lost my memory like the Kid, wouldn't that mean I was no longer 「Kuranari%NTakeshi」?%T030%K%N
 0x14CC
 考え方？　感性？　感情？　感覚？　人格？　価値観？%T030%K%N
 Thoughts? Senses? Emotions? Sensations? Character? Values?%T030%K%N
@@ -996,10 +996,10 @@ Thoughts? Senses? Emotions? Sensations? Character? Values?%T030%K%N
 All of those things were nothing but functions of the organ called the brain.%K%O
 0x14F0
 そもそも、ここにいる俺は、小学校の運動会で走っていた俺とは別の分子によって構成されている。%T030%K%N
-For one thing, the 'me' that ran around in elementary school was composed of different molecules than the 'me' there.%T030%K%N
+For one thing, the 「me」 that ran around in elementary school was composed of different molecules than the 「me」 there.%T030%K%N
 0x14FC
 あのときの俺と、今の俺は、物質的側面から見れば、別人だ。%T030%K%N
-From a purely material point of view, my younger 'me' was entirely different than my older 'me'.%T030%K%N
+From a purely material point of view, my younger 「me」 was entirely different than my older 「me」.%T030%K%N
 0x1508
 細胞は、日々生まれ変わっている。%T030%K%N
 Cells died and were replaced daily.%T030%K%N
@@ -1017,16 +1017,16 @@ By comparison, a rock would be composed of the exact same molecules five years b
 But a human body was different.%T030%K%N
 0x1550
 ５年前の俺の細胞と、今の俺の細胞は、別のものだ。%K%O
-The cells of 'me' five years ago were not the same as the cells of 'me' then.%K%O
+The cells of 「me」 five years ago were not the same as the cells of 「me」 then.%K%O
 0x1568
 だが、５年前の俺という存在と、今の俺という存在は、確実に同じものである。%T030%K%N
-Even so, the 'me' of five years before and the 'me' then were definitely the same.%T030%K%N
+Even so, the 「me」 of five years before and the 「me」 then were definitely the same.%T030%K%N
 0x1574
 では、その『俺』とはいったいなんなのか？%T030%K%N
-Then just what was it that defined 'me'?%T030%K%N
+Then just what was it that defined 「me」?%T030%K%N
 0x1580
 『俺』の実体は、どこにあるというのか……？%K%O
-And where did that 'me' exist...?%K%O
+And where did that 「me」 exist...?%K%O
 0x15B4
 つぐみは俺の首から手を外す。息苦しさは薄れた。%K%P
 Tsugumi took her hand off of my neck. I breathed easier.%K%P
@@ -1176,10 +1176,10 @@ Tsugumi「I'll never grow older than seventeen.」%K%P
 Takeshi「.........」%K%P
 0x1808
 『免疫機能並びに代謝効率は著しく能力向上し』%K%P
-'Highly improved immune system and increased metabolic efficiency'.%K%P
+「Highly improved immune system and increased metabolic efficiency」.%K%P
 0x1814
 『テロメアは回復し続ける』%K%P
-'Telomeres that continue to rejuvenate'.%K%P
+「Telomeres that continue to rejuvenate」.%K%P
 0x1820
 その話を鵜呑みにするならば……。%K%P
 Well, if what she said was to be believed...%K%P

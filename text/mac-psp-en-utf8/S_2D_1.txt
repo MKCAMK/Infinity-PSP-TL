@@ -288,10 +288,10 @@ You「Of course, Kuranari's okay with it, right?」%K%P
 Takeshi「Geez. Whatever.」%K%P
 0x788
 かくして、ヤミオニは全員一致（つぐみを除く）で決行されることになった。%K%P
-So we unanimously agreed (except for Tsugumi) to play 'kick the can'.%K%P
+So we unanimously agreed (except for Tsugumi) to play 「kick the can」.%K%P
 0x794
 まずは、ジャンケンで鬼を決めるわけだが……%K%P
-We decided who was 'it' using rock, paper, scissors.%K%P
+We decided who was 「it」 using rock, paper, scissors.%K%P
 0x7F0
 沙羅「せーの、チッケッピ！」%K%P
 Sara「Ready, Ro Sham Bo!」%K%P
@@ -450,16 +450,16 @@ Splash, splash, splash...%K%P
 The sound of our stepping through water sounded deeper than before.%K%P
 0xBB4
 （なるほどぉ……『音を大きくする』ってのは、こういうことね……）%K%P
-(I see... So this is what Sora meant by 'making the sound carry better'...)%K%P
+(I see... So this is what Sora meant by 「making the sound carry better」...)%K%P
 0xBC0
 自分の音を他人の音と間違わないように、反響音にも気をつけたほうがいいかもしれない。%K%P
 I thought that I'd have to pay attention to which sounds were mine and which were others'.%K%P
 0xBCC
 おまけにぼくらは、『鬼』と『鬼以外』の足音を見分けなければならない。%K%P
-And we'd have to determine which footsteps belonged to the person that was 'it'.%K%P
+And we'd have to determine which footsteps belonged to the person that was 「it」.%K%P
 0xBD8
 その点、鬼は自分以外の足音は、すべて敵なのだ。%K%P
-But for the person that was 'it', it was easier because everyone else was the enemy.%K%P
+But for the person that was 「it」, it was easier because everyone else was the enemy.%K%P
 0xBE4
 これでぼくらが断然有利、というハンデはかなり軽減された。%K%P
 That pretty much negated any advantage we might have had.%K%P
@@ -894,7 +894,7 @@ Takeshi「Timing your rush just right, waiting for the person who is 'it' to go 
 You「Well, alright...」%K%P
 0x1790
 今度は自分が鬼になるというのに、渋々優は承知した。%K%P
-You reluctantly agreed to be 'it' the next time.%K%P
+You reluctantly agreed to be 「it」 the next time.%K%P
 0x179C
 武「みんなも、それでいいな？」%K%P
 Takeshi「Alright. Everybody good with that?」%K%P
@@ -1845,10 +1845,10 @@ I edged closer.%K%P
 Kid「.........」%K%P
 0x3634
 やっぱり『何か』いる。%K%P
-There was definitely 'something' there.%K%P
+There was definitely 「something」 there.%K%P
 0x3640
 ここからだと、はっきりとその『何か』は特定できないが、人に間違いないだろう。%K%P
-From where I was, I couldn't tell exactly what that 'something' was, but it was definitely a person.%K%P
+From where I was, I couldn't tell exactly what that 「something」 was, but it was definitely a person.%K%P
 0x364C
 もしかして、コアラのつもりだろうか。%K%P
 Maybe they thought they were acting like a koala.%K%P
@@ -1860,7 +1860,7 @@ What did they intend to do if they fell?%K%P
 (I mean, can you really call that hiding?)%K%P
 0x3670
 ぼくは、その『へばりついている誰か』に呼びかけた。%K%P
-I called out to that clinging 'something'.%K%P
+I called out to that clinging 「something」.%K%P
 0x367C
 少年「あのー、疲れませんかー？　危ないですよー」%K%P
 Kid「Uh, isn't that tiring? It sure looks dangerous.」%K%P

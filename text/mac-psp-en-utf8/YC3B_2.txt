@@ -615,7 +615,7 @@ And then, without a sound, she vanished.%K%P
 For a while, I just stood there, lost in thought.%K%P
 0xD54
 『勝ち逃げ』『食い逃げ』という言葉はあるが『話し逃げ』という言葉は恐らく存在しないだろう。%K%P
-There was 'doorbell ditching' and 'dining and dashing', but I figured there wasn't a phrase like 'chat and run' or 'debate and dash'.%K%P
+There was 「doorbell ditching」 and 「dining and dashing」, but I figured there wasn't a phrase like 「chat and run」 or 「debate and dash」.%K%P
 0xD60
 しかし、今の空は、まさしく『話し逃げ』そのものだった。%K%P
 But that was exactly what Sora had just done to me.%K%P
@@ -780,7 +780,7 @@ I was famished as well, but there was one more place I had to go before I went t
 Of course, it was to see Tsugumi.%K%P
 0x107C
 手術は、空が『ＷとＹ』の話をするよりもかなり前……今から７時間前に無事終了している。%K%P
-Her surgery was finished a long time before Sora's talk about 'W and Y'... over seven hours before.%K%P
+Her surgery was finished a long time before Sora's talk about 「W and Y」... over seven hours before.%K%P
 0x1088
 つぐみの容態についても、俺は空から聞いていた。%K%P
 I'd asked Sora about Tsugumi's condition.%K%P
@@ -801,7 +801,7 @@ We were lucky that there was no damage done to her brain or organs.%K%P
 Only her right thigh was injured.%K%P
 0x10D0
 『だけ』という言い方が適切かどうかはわからない。%K%P
-Maybe 'only' wasn't the best way to put it...%K%P
+Maybe 「only」 wasn't the best way to put it...%K%P
 0x10DC
 なにしろ、複雑骨折に動脈の切断……もう少し処置が遅れていたら失血死していたかもしれないのだ。%K%P
 In any case, she had a complex fracture and a severed artery... and if we had taken any longer to treat her... she might have died from blood loss.%K%P
@@ -822,7 +822,7 @@ It wasn't my first time visiting her since the surgery.%K%P
 I had been in and out from that afternoon to the evening, again and again.%K%P
 0x117C
 今思えば、空がいきなり俺のことを呼び出して『ＷとＹ』の話を語って聞かせたのも……%K%P
-Thinking about it then, it seemed to me that the reason Sora had suddenly called me and explained about the whole 'W and Y' thing...%K%P
+Thinking about it then, it seemed to me that the reason Sora had suddenly called me and explained about the whole 「W and Y」 thing...%K%P
 0x1188
 しばしの間、つぐみのことを忘れさせようと思ったからなのかもしれない。%K%P
 Had probably been to take my mind off of Tsugumi.%K%P
@@ -945,16 +945,16 @@ Takeshi「What... are you up to...?」%K%P
 Coco just stood there silently, eyes on the surface of the water.%K%P
 0x1448
 よく見ると、左手に『何か』を握りしめているのがわかった。%K%P
-Looking closer, I saw that she was clutching 'something' in her left hand.%K%P
+Looking closer, I saw that she was clutching 「something」 in her left hand.%K%P
 0x1454
 その『何か』を、ココは右手でそっとつまむと、宙に向かって放り投げた。%K%P
-Then, Coco took that 'something' in her right hand and let loose with it, tossing it into space.%K%P
+Then, Coco took that 「something」 in her right hand and let loose with it, tossing it into space.%K%P
 0x1460
 ――ピチャン。%K%P
 ―Splish.%K%P
 0x146C
 弱々しい音をたてて……『何か』は水の中へと沈んでいった。%K%P
-With a light splashing sound... that 'something' hit and sank in the water.%K%P
+With a light splashing sound... that 「something」 hit and sank in the water.%K%P
 0x1478
 波紋が広がり、消えて行く……。%K%P
 It disappeared amidst a circle of expanding ripples.%K%P
@@ -1017,7 +1017,7 @@ Coco flicked one of them with the tip of her finger.%K%P
 ―Splish.%K%P
 0x1568
 『涙』は水の中へと没した。%K%P
-And that 'tear' sank into the water.%K%P
+And that 「tear」 sank into the water.%K%P
 0x1574
 ココ「ココね……？」%K%P
 Coco「I...」%K%P
@@ -1059,7 +1059,7 @@ Coco「If Tsugumin hadn't saved me... I might have died...」%K%P
 ―Splish.%K%P
 0x1610
 『涙』は放物線を描き、水の中にしたたり落ちた。%K%P
-The 'tear' traced an arc through the air before falling into the water.%K%P
+The 「tear」 traced an arc through the air before falling into the water.%K%P
 0x161C
 ココ「つぐみん……」%K%P
 Coco「Tsugumin...」%K%P
@@ -1101,7 +1101,7 @@ Coco「It's because I wasn't paying attention...」%K%P
 Coco「That's why... Tsugumin had to get hurt instead of me...」%K%P
 0x16D0
 ココの握りしめていた『涙』が、バラバラとこぼれ落ちた。%K%P
-Coco let the 'tears' she was holding fall, scattering below her.%K%P
+Coco let the 「tears」 she was holding fall, scattering below her.%K%P
 0x16DC
 白い水しぶきが一斉に飛びはね、水面が激しくざわめく。%K%P
 A burst of white spray erupted from the water's surface below her.%K%P
@@ -1176,7 +1176,7 @@ Takeshi「No...」%K%P
 I didn't know how to say what had to be said.%K%P
 0x1864
 『ごめん』と言って頭を下げても、今の俺の気持ちは伝わらないだろう。%K%P
-I didn't think that just saying 'I'm sorry' and bowing my head would get my feelings across.%K%P
+I didn't think that just saying 「I'm sorry」 and bowing my head would get my feelings across.%K%P
 0x1870
 俺は慎重に言葉を選んだ。%K%P
 I wanted to choose my words carefully.%K%P

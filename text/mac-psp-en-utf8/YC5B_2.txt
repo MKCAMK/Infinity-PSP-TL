@@ -717,7 +717,7 @@ It was a fetid stench, greasy and rotten.%K%N
 For it was Tsugumi's body that they were after.%K%O
 0xE90
 『人類の究極の夢を叶えること――真理を追究すること――』という美名のもとに行なわれる人体実験。%K%N
-What they wanted was nothing more than to perform human experiments under the pretext of 'making the ultimate human dream come true'.%K%N
+What they wanted was nothing more than to perform human experiments under the pretext of 「making the ultimate human dream come true」.%K%N
 0xE9C
 つぐみの体をもてあそび、痛めつけることによって、彼らは知識と富と名声を手に入れようと企んでいた。%K%N
 By using Tsugumi's body, they were planning to gain knowledge, fame, and fortune.%K%N
@@ -726,7 +726,7 @@ By using Tsugumi's body, they were planning to gain knowledge, fame, and fortune
 That was indeed their desire.%K%O
 0xEC0
 『お待ちしておりました』――男のひとりが深々と頭をさげた。%K%N
-'We've been waiting for you.'―One of them took a deep bow.%K%N
+「We've been waiting for you.」―One of them took a deep bow.%K%N
 0xECC
 その紳士的な振る舞いの陰から、ほとばしるような邪欲が垣間見え、つぐみは吐き気をもよおした。%K%N
 Behind his veneer of politeness was an evil that threatened to spill forth, making Tsugumi sick to her stomach.%K%N
@@ -759,7 +759,7 @@ A supply-carrying vessel slipped out of the floating island's port.%K%O
 Tsugumi had stowed away on the vessel, hiding herself among the cargo. She was headed to the mainland.%K%N
 0xFA4
 これまでのつぐみの日常は『いかにして彼らから逃げ延びるか？』――それを考えることだけに費やされてきた。%K%N
-From that moment on, Tsugumi's life was consumed with one thought―'how to escape from them'.%K%N
+From that moment on, Tsugumi's life was consumed with one thought―「how to escape from them」.%K%N
 0xFB0
 犯罪者でもなく、うしろめたいことなど何もないのに、つぐみは人々の視線を避け、闇に紛れ、背後に忍び寄る不気味な気配に脅えながら生きてきた。%K%O
 Although she wasn't a criminal, she avoided people, preferring to hide in the darkness, all the while threatened by ominous feelings of being hunted.%K%O
@@ -987,10 +987,10 @@ Soon after she had given birth, Tsugumi's thoughts were turned to the possibilit
 Tsugumi visited the illegal doctor.%K%O
 0x1518
 『心配することはないですよ』――闇医者は高笑いしながらそう言い、このような話を告げた。%K%N
-'Don't worry about it.'―He explained, laughing...%K%N
+「Don't worry about it.」―He explained, laughing...%K%N
 0x1524
 分類学上、純粋な人間は『霊長目真猿亜目ヒト上科ヒト科ヒト亜科ヒト属サピエンス種』に属する。%K%N
-According to taxonomic classification, a pure human would belong to 'Primates Anthropoidea Hominoidea Hominidae Homo Sapiens'.%K%N
+According to taxonomic classification, a pure human would belong to 「Primates Anthropoidea Hominoidea Hominidae Homo Sapiens」.%K%N
 0x1530
 キュレイウイルスによって遺伝情報を書き換えられたつぐみは、すでに純粋な人間とは呼べず、その亜種であると考えられる。%K%O
 Tsugumi, whose genetic information was altered by the Curé virus, was not a pure human anymore, but rather a subspecies of it.%K%O
@@ -1050,7 +1050,7 @@ Tsugumi, whose genetic information was altered by the Curé virus, was not a pur
 「They'll have the same physical traits as a pure human and won't possess the Curé traits like perpetual youth.」%K%O
 0x1674
 『だから、心配することはないんです、わかりましたか？』――闇医者は、つぐみが連れて来たふたりの赤子を抱き上げて、再び高く笑った。%K%N
-'So, you don't have nothing to worry about, alright?' The doctor held up the two babies Tsugumi had brought and laughed again.%K%N
+「So, you don't have nothing to worry about, alright?」 The doctor held up the two babies Tsugumi had brought and laughed again.%K%N
 0x1680
 闇医者の素性をつぐみは知らなかった。%K%N
 Tsugumi didn't know his background.%K%N
@@ -1107,7 +1107,7 @@ Their life was a peaceful one, and although they were poor, the poverty didn't t
 The three of them were always smiling.%K%O
 0x17B4
 『マンマ……マンマ……』『あ〜あ、ちゃったぁ……ちゃったぁ……』%K%N
-「Momma... Momma...' 'Oh... Chammiii, Chammiii...」%K%N
+「Momma... Momma...」 「Oh... Chammiii, Chammiii...」%K%N
 0x17C0
 今では、ふたりの赤ん坊はそんな言葉を口にするようになっている。%K%N
 They were already beginning to talk.%K%N
@@ -1116,7 +1116,7 @@ They were already beginning to talk.%K%N
 The boy had started walking a few steps at a time. The was girl able to stand, barely, as she held onto things.%K%O
 0x17E4
 『あ〜あ、ちゃったぁ……ちゃったぁ……』と言ったのは女の子の方だ。満１才でこのような発話するのは大変珍しい。%K%N
-The girl had begun to speak, 'Oh... Chammiii, Chammiii...', which was very unusual for a one-year-old.%K%N
+The girl had begun to speak, 「Oh... Chammiii, Chammiii...」, which was very unusual for a one-year-old.%K%N
 0x17F0
 身体的な発育は男の子の方が早く、知能の発育は女の子の方が早かったようだ。%K%N
 The boy, it seemed, grew faster physically, and the girl grew faster intellectually.%K%N
@@ -1140,22 +1140,22 @@ The boy ran around the sand, falling and getting back up over and over.%K%N
 The girl was sitting by the water, putting her hands in the waves...%K%N
 0x187C
 『ちぃーめたい……ちぃーめたいの……』と言って、はしゃいでいた。%K%O
-She was giggling, saying, 'Cooold... So cold...'%K%O
+She was giggling, saying, 「Cooold... So cold...」%K%O
 0x1894
 つぐみは水平線の彼方を眺めながら、武のことを考えていた。%K%N
 Watching out over the flat surface of the ocean, Tsugumi's thoughts turned to Takeshi.%K%N
 0x18A0
 『だったら生きろ。生きている限り生きろ。大丈夫……俺は死なない』――武が残した最後の言葉。%K%N
-'So live! As long as you're alive, live! Don't worry... I'm not going to die.'―those were Takeshi's last words to her.%K%N
+「So live! As long as you're alive, live! Don't worry... I'm not going to die.」―those were Takeshi's last words to her.%K%N
 0x18AC
 あれからもう２年が経つ。%K%N
 It had been two years already.%K%N
 0x18B8
 『俺は死なない』――そう言って、男は愛する女を守り、ここにいる子供達を守り、海の底へと沈んでいった。%K%O
-'I'm not going to die.'―After saying that, he sank to the bottom of the ocean, protecting the woman he loved, protecting the children right in front of her.%K%O
+「I'm not going to die.」―After saying that, he sank to the bottom of the ocean, protecting the woman he loved, protecting the children right in front of her.%K%O
 0x18D0
 『バカ、嘘つき』――つぐみは海原に向かって呟いた。%K%N
-'You fool, you're a liar.'―Tsugumi whispered to the ocean.%K%N
+「You fool, you're a liar.」―Tsugumi whispered to the ocean.%K%N
 0x18DC
 しかしそう思う一方で、まだ彼女は一縷の望みを捨て切れずにいた。%K%N
 But at the same time, she still hadn't given up hope.%K%N
@@ -1230,7 +1230,7 @@ She refused to eat things she didn't like, and when she got in a bad mood, she w
 And no matter how much Tsugumi warned her, she wouldn't stop playing with her brother's hair.%K%N
 0x1A90
 そしてしばしば『チャミたん、もっと！　もっと！　もっと！』とせがんだ。%K%O
-And she would always demand, 'More Chami! More Chami!'%K%O
+And she would always demand, 「More Chami! More Chami!」%K%O
 0x1AA8
 ふたりの子供達に翻弄され、振りまわされる毎日……。%K%N
 Those days were filled with Tsugumi being buffeted about by her two rambunctious children...%K%N
@@ -1263,7 +1263,7 @@ Her peaceful world was shattered to pieces.%K%O
 It all happened so unexpectedly...%K%N
 0x1B84
 日々の安らぎに酔いしれ、すっかりと気を緩めていたつぐみは、奴らに対する警戒を完全に怠っていた。%K%N
-Caught up in her life of happiness, Tsugumi had forgotten to watch out for 'them'.%K%N
+Caught up in her life of happiness, Tsugumi had forgotten to watch out for 「them」.%K%N
 0x1B90
 どこから情報を入手したのかわからないが、奴らが、不意につぐみの前へと姿を現したのだった。%K%N
 She didn't know how they had found out, but they had somehow gathered information and showed up without warning.%K%N
@@ -1359,13 +1359,13 @@ Wandering through darkness.%K%O
 Tsugumi finished telling her story and closed her eyes gently.%K%P
 0x1D90
 結局最後まで、話の中で、つぐみの口から『ホクト』や『沙羅』といった名前が出ることはなかった。%K%P
-She never once mentioned the names 'Hokuto' or 'Sara' in the story.%K%P
+She never once mentioned the names 「Hokuto」 or 「Sara」 in the story.%K%P
 0x1D9C
 理由は、それらの名前が、つぐみの名付けたものではなかったからだ。%K%P
 Because those names weren't the names Tsugumi had given them.%K%P
 0x1DA8
 『ホクト』と『沙羅』という名前を付けたのは、つぐみではない別の誰かだったようだ。%K%P
-Someone else had named them 'Hokuto' and 'Sara'.%K%P
+Someone else had named them 「Hokuto」 and 「Sara」.%K%P
 0x1DDC
 ………………。%K%P
 .........%K%P
@@ -1440,7 +1440,7 @@ Kid「You aren't Kuranari Takeshi!」%K%P
 Barging into the rest area, I demanded an answer from the man in front of me.%K%P
 0x1FA0
 もはや、彼を『武』と呼ぶことはできない。%K%P
-I couldn't call him 'Takeshi' anymore.%K%P
+I couldn't call him 「Takeshi」 anymore.%K%P
 0x1FAC
 こいつは、ぼくらのことを今までだまし続けてきたんだ。%K%P
 That guy had been deceiving us the whole time.%K%P
@@ -1620,7 +1620,7 @@ Without a word, the young Kaburaki went behind the statue and started scratching
 He had a screwdriver in his hand...%K%P
 0x23D0
 『桑古木涼権』%K%P
-'Kaburaki Ryogo'.%K%P
+「Kaburaki Ryogo」.%K%P
 0x23DC
 カクカクと尖った細い字で、桑古木少年は深々と、石像に傷を刻み込んだ。%K%P
 With thin, sharp writing, the young Kaburaki carved his name deeply into the statue.%K%P
@@ -1656,7 +1656,7 @@ Without stopping his hands, he also carved some more names...%K%P
 「Kuranari Takeshi」%K%P
 0x2460
 『ピピ』『チャミ』%K%P
-「Pipi' and 'Chami」%K%P
+「Pipi」 and 「Chami」%K%P
 0x2474
 ここに閉じ込められた全員の名前を、桑古木少年は書いたのだ。%K%P
 The young Kaburaki carved the names of everyone who had been confined there.%K%P
@@ -1728,7 +1728,7 @@ I looked at the back of the other statues as well.%K%P
 Surprisingly, there were similar drawings on the statue pointing to the sky.%K%P
 0x26C8
 さらに、胸に手の平を重ねた石像には、６人の名前と、ピピ、チャミ、という記述が見られた。%K%P
-There were also six people's names as well as 'Pipi' and 'Chami' carved into the statue which stood with its hand on its chest.%K%P
+There were also six people's names as well as 「Pipi」 and 「Chami」 carved into the statue which stood with its hand on its chest.%K%P
 0x26DC
 東に手を伸ばした石像にだけ、何も描かれていない。%K%P
 There was no writing on the statue pointing east.%K%P
@@ -1755,7 +1755,7 @@ I didn't know things that I was supposed to know... I knew things that I wasn't 
 Some parts of it had come back, but nothing really important.%K%P
 0x2744
 そもそも、ホクトという存在がどんな人間なのか、ぼくにはまだわからない。%K%P
-To begin with, I still didn't know what kind of person 'Hokuto' was.%K%P
+To begin with, I still didn't know what kind of person 「Hokuto」 was.%K%P
 0x2750
 と同時に、ぼくは知らないはずのことを知り、見えるはずのないものを見ることができる。%K%P
 And at the same time, I knew what I wasn't supposed to know and I could see what I wasn't supposed to see.%K%P
@@ -1887,7 +1887,7 @@ Kid「...Huh?」%K%P
 No, no, even before that.%K%P
 0x2954
 優美清春香菜は『致命的な心臓病』をわずらっていたんじゃなかったっけ？%K%P
-Yubiseiharukana suffered from 'critical heart disease', right?%K%P
+Yubiseiharukana suffered from 「critical heart disease」, right?%K%P
 0x2960
 なのに今でも、優美清春香菜は、生きている。%K%P
 But she was still alive and well.%K%P
@@ -1932,7 +1932,7 @@ And although I didn't have proof, my instincts told me Yubiseiharukana didn't po
 Then again, in the world of 2017...%K%P
 0x2A08
 つぐみは自分のことを『キュレイに感染した者の中でも特殊な存在なのだ』というようなことを言っていた。%K%P
-Tsugumi had mentioned she was 'special' among carriers of the Curé virus.%K%P
+Tsugumi had mentioned she was 「special」 among carriers of the Curé virus.%K%P
 0x2A14
 恐らく、遺伝子の組み替えが全身に渡って順調に行われた例は、非常に稀なのだと思う。%K%P
 Perhaps she was a rare example of DNA replacement that had taken place safely over the whole body.%K%P
@@ -1944,7 +1944,7 @@ That meant...?%K%P
 Yubiseiharukana and Kaburaki weren't complete Curé?%K%P
 0x2A38
 でも……不完全なキュレイ種なんてものが、存在するとも思えないし……。%K%P
-But... it didn't seem to me that there could be any such thing as an 'incomplete Curé'...%K%P
+But... it didn't seem to me that there could be any such thing as an 「incomplete Curé」...%K%P
 0x2A44
 少年「う〜ん……」%K%P
 Kid「Um...」%K%P

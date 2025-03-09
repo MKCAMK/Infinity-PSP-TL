@@ -360,7 +360,7 @@ More than the injury, more than the flooding, more than anything, Coco's words w
 Coco「Blick Winkel-san.」%K%P
 0x904
 『ブリックヴィンケル』%K%P
-'Blick Winkel'.%K%P
+「Blick Winkel」.%K%P
 0x910
 『Ｂｌｉｃｋ．．．Ｗｉｎｋｅｌ．．．』%K%P
 「Blick... Winkel...」%K%P
@@ -399,7 +399,7 @@ Coco「Because you aren't really Hokutan, right?」%K%P
 Coco「I'm pretty sure Blick Winkel-san knows everything.」%K%P
 0x9A0
 『ブリックヴィンケル』%K%P
-'Blick Winkel'.%K%P
+「Blick Winkel」.%K%P
 0x9AC
 『Ｂｌｉｃｋ．．．Ｗｉｎｋｅｌ．．．』%K%P
 「Blick... Winkel...」%K%P

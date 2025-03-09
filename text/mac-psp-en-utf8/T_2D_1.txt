@@ -405,7 +405,7 @@ Takeshi「She'll come back after a while. You'll see.」%K%P
 After that...%K%P
 0x914
 ジャンケンで鬼を決めることになり……%K%P
-We decided who was 'it' using rock, paper, scissors.%K%P
+We decided who was 「it」 using rock, paper, scissors.%K%P
 0x948
 ココ「ほいっ！」%K%P
 Coco「Ready, go!」%K%P
@@ -576,7 +576,7 @@ My footsteps reverbated, producing an unnaturally deep sound.%K%P
 It was kind of like how I imagined sonar would sound.%K%P
 0xCE0
 （なるほどぉ……『音を大きくする』ってのは、こういうことね……）%K%P
-(I see... So this is what Sora meant by 'making the sound carry better'...)%K%P
+(I see... So this is what Sora meant by 「making the sound carry better」...)%K%P
 0xCEC
 潜水艦になった気分だ。%K%P
 I felt like I was in a submarine.%K%P
@@ -891,7 +891,7 @@ Takeshi「Timing your rush just right, waiting for the person who is 'it' to go 
 You「Well, alright...」%K%P
 0x1680
 今度は自分が鬼になるというのに、渋々優は承知した。%K%P
-You reluctantly agreed to be 'it' the next time.%K%P
+You reluctantly agreed to be 「it」 the next time.%K%P
 0x168C
 もしかすると、こいつは普段から（？）肉弾戦主体の缶蹴りに馴染んでいるのかもしれない。%K%P
 I thought that maybe she was used to hand-to-hand, full-contact battles of kick the can.%K%P
@@ -1173,7 +1173,7 @@ Takeshi「...Huh?」%K%P
 I glimpsed something reflected on the water's surface, moving...%K%P
 0x1E94
 すいーっと滑るように泳いでいく、今まで見たことのない大きな魚……。%K%P
-The biggest 'fish' I'd ever seen started sliding away in the water...%K%P
+The biggest 「fish」 I'd ever seen started sliding away in the water...%K%P
 0x1EA0
 武「って、少年じゃねーか！」%K%P
 Takeshi「Hey, if it ain't the Kid!」%K%P
@@ -1227,7 +1227,7 @@ Kid「A bit...」%K%P
 He glided along, enjoying himself.%K%P
 0x2008
 水を得たような、とはこのことか。%K%P
-That was probably what people meant by 'taking to water like a fish'.%K%P
+That was probably what people meant by 「taking to water like a fish」.%K%P
 0x2014
 そのまま闇に紛れて、向こう岸に泳いでいこうとする……。%K%P
 In the darkness, he swam to the other side of the room...%K%P
@@ -1593,7 +1593,7 @@ Takeshi「Hey! Once you've been caught, it's against the rules to kick the can!�
 I shouted that into the darkness, but everyone had already run away.%K%P
 0x281C
 仕方なく、また俺が鬼となってもう一度捜す。%K%P
-There was nothing I could do. I was 'it' again. I had to go search.%K%P
+There was nothing I could do. I was 「it」 again. I had to go search.%K%P
 0x2828
 少年・優・ココ・ピピ・空……。%K%P
 The Kid, You, Coco, Pipi, Sora...%K%P

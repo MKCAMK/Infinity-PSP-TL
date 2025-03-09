@@ -504,7 +504,7 @@ C. What You's mom had told her (the only source of information about Yoichi's di
 D. The existence of You's mom%K%O
 0xAD8
 ぼくらは警備室に移動し、再度『田中ゆきえ氏死去に関するファイル』を確認する。%K%N
-We moved to the security office and checked the 'File Concerning the Death of Tanaka Yukie' again.%K%N
+We moved to the security office and checked the 「File Concerning the Death of Tanaka Yukie」 again.%K%N
 0xAE4
 これだけの証拠がある以上、残念ながら、ゆきえ氏が亡くなっていることだけは事実のようだ。%K%N
 With as much evidence as there was in the file, it looked like Yukie's death was indeed a fact.%K%N
@@ -903,10 +903,10 @@ I wondered if I was still stuck on those words.%K%O
 
 0x14C8
 %LC７日に……%K%N
-%LC'On the 7th...'%K%N
+%LC「On the 7th...」%K%N
 0x14D4
 %LC――あなたは死ぬの%K%O
-%LC'You will die.'%K%O
+%LC「You will die.」%K%O
 0x14EC
 あれ以来ぼくらに、ほとんどアプローチをかけてこないつぐみ。%K%N
 Ever since then, Tsugumi had mostly left me alone.%K%N
@@ -1155,7 +1155,7 @@ Sara finally got the idea.%K%P
 Ultimately, Sara gave up. Since I figured that You was waiting for me, I started walking.%K%P
 0x1A54
 優いわく『例のところ』。%K%P
-I thought about what You meant by 'THE place'.%K%P
+I thought about what You meant by 「THE place」.%K%P
 0x1A60
 おそらく、それは…………。%K%P
 I figured it was probably...%K%P

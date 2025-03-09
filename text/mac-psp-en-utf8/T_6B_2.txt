@@ -15,7 +15,7 @@ I briefly put Coco down and leaned her up against the wall.%K%P
 The Kid went up to Coco and lent her his shoulder.%K%P
 0x68
 『ＨＩＭＭＥＬ』――%K%P
-'HIMMEL'―%K%P
+「HIMMEL」―%K%P
 0x74
 開かずの扉。%K%P
 The door that wouldn't open.%K%P
@@ -396,7 +396,7 @@ The whiteness of the wall and floor was emphasized by the brightness of the ligh
 Himmel―it didn't necessarily seem like a mistake to have named the room heaven.%K%P
 0x180C
 『ＨＩＭＭＥＬ』と書かれたプレートが、機械に貼りつけられている。%K%P
-The machines displayed nameplates with 'HIMMEL' written on them.%K%P
+The machines displayed nameplates with 「HIMMEL」 written on them.%K%P
 0x1818
 ここはコンピューターのコントロールルームらしい。%K%P
 It seemed that we were in the computer control room.%K%P
@@ -453,7 +453,7 @@ But he didn't have any ID card or nameplate to check.%K%P
 Researcher「Uuugh...」%K%P
 0x1900
 武「なぁ、あんたは下の研究所のスタッフなのか？」%K%P
-Takeshi「Hey, are you one of the staff from the research facility?」%K%P
+Takeshi「Hey, are you one of the staff from the research%Nfacility?」%K%P
 0x190C
 研究員「あ、ああ。そうだ……」%K%P
 Researcher「Y-yeah... That's right...」%K%P

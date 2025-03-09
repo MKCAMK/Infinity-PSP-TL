@@ -384,7 +384,7 @@ Takeshi「Huh? You sure?」%K%P
 Takeshi looked at me.%K%P
 0x8F0
 彼の目は、『おい、意味わかるか？』と尋ねている。%K%p
-His eyes said, 'What the heck is she talking about?'%K%p
+His eyes said, 「What the heck is she talking about?」%K%p
 0x1960
 わかる
 I get it

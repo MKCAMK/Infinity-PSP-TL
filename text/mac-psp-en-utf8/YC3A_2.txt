@@ -1122,7 +1122,7 @@ Seemed?%K%P
 (Haha, what am I thinking...?)%K%P
 0x1924
 あれは、ただの『夢』――『夢』そのものじゃないか……。%K%P
-(It was only a 'dream'―just a 'dream'...)%K%P
+(It was only a 「dream」―just a 「dream」...)%K%P
 0x1938
 沙羅「ねえ？　教えてよ」%K%P
 Sara「Hey? Tell me.」%K%P
@@ -1707,7 +1707,7 @@ It was a smell somehow so familiar, almost animal and private.%K%P
 ―The conference room.%K%P
 0x2888
 今、ぼくはイスに座ってドンサタツタを頬ばっている。%K%P
-I was sitting in a chair, stuffing my mouth with a 'tuna-wich-sand'.%K%P
+I was sitting in a chair, stuffing my mouth with a 「tuna-wich-sand」.%K%P
 0x2894
 もういい加減タツタサンドは食べ飽きていたので、タツタ揚げとタツタ揚げでパンを挟んでドンサタツタ。%K%P
 I'd grown bored of the tuna sandwiches, so I invented my own version, a slice of bread between two pieces of meat.%K%P
@@ -1722,7 +1722,7 @@ Sara was sitting directly in front of me.%K%P
 Sara was eating straight from a head of lettuce with nothing but ketchup as a topping.%K%P
 0x28CC
 『野菜が足りない、野菜が足りないのよねぇ』と、聞こえるか聞こえないかぐらいの小声で呟きながら……。%K%P
-Muttering in a voice so small I could barely hear it, she was saying 'I'm not getting enough vegetables. I'm just not getting enough vegetables.'%K%P
+Muttering in a voice so small I could barely hear it, she was saying 「I'm not getting enough vegetables. I'm just not getting enough vegetables.」%K%P
 0x28D8
 少年「ねえ？　他のみんなはどこに行ったの？」%K%P
 Kid「Say, where'd everybody else run off to?」%K%P
@@ -1860,10 +1860,10 @@ Since arriving at LeMU, I hadn't eaten a tomato.%K%P
 I wasn't sure I had ever tasted a tomato before coming to LeMU.%K%P
 0x2B94
 要するに『トマトをかじった記憶』というものが完全に欠落しているのだった。%K%P
-Basically, I totally lacked all memory of 'eating tomatoes'.%K%P
+Basically, I totally lacked all memory of 「eating tomatoes」.%K%P
 0x2BA0
 でも、ぼくは『トマトの味がどういう味なのか』ということを知っているし『ケチャップはトマトの味がするものだ』という常識も持っている。%K%P
-But still, I had knowledge of 'what a tomato is supposed to taste like', and that 'ketchup has the flavor of tomatoes'.%K%P
+But still, I had knowledge of 「what a tomato is supposed to taste like」, and that 「ketchup has the flavor of tomatoes」.%K%P
 0x2BAC
 空の話によると、どうやらぼくは、ぼくの歴史に関する記憶だけを失ってしまったらしい。%K%P
 According to Sora, I had evidently only lost the memory of my personal past.%K%P
@@ -1914,7 +1914,7 @@ I knew the boundaries between life and death.%K%P
 Common sense and the absurd...%K%P
 0x2C88
 無意識のうちに、ぼくは何が『真』で、何が『偽』か、思慮分別を行なっているのだ。%K%P
-Somehow, unconsciously, I could judge between what was 'true' and what was 'false'.%K%P
+Somehow, unconsciously, I could judge between what was 「true」 and what was 「false」.%K%P
 0x2C94
 どのようにして……？%K%P
 But how...?%K%P
@@ -1929,7 +1929,7 @@ But if that was the case...%K%P
 Then there was something that bothered me.%K%P
 0x2CC4
 『鏡』――。%K%P
-'Mirrors'...%K%P
+「Mirrors」...%K%P
 0x2CD0
 ぼくは『鏡をのぞき込めば、そこには自分の姿が映し出されているはずだ』ということを、常識的に知っている。%K%P
 I knew that when I looked in a mirror, the image projected was myself.%K%P
@@ -1941,10 +1941,10 @@ But despite that knowledge, I had fallen into a delirious state of confusion the
 Why...?%K%P
 0x2CF4
 そこに映し出された姿を見て、直感的に『違う！』と思ったからだ。%K%P
-When I saw the image, my immediate reaction was, 'NO! This is wrong!'%K%P
+When I saw the image, my immediate reaction was, 「NO! This is wrong!」%K%P
 0x2D00
 つまり『これは常識的な姿じゃない！　非常識的な、異常な姿だ！』という判断が、瞬間的にぼくの中でなされた、ということである。%K%P
-In other words, my instant reaction was, 'This isn't what I should look like! It can't be right!'%K%P
+In other words, my instant reaction was, 「This isn't what I should look like! It can't be right!」%K%P
 0x2D0C
 もっと簡単に言おう。%K%P
 Or to put it more simply...%K%P
@@ -1953,7 +1953,7 @@ Or to put it more simply...%K%P
 When I tasted the ketchup, I could tell it was made from tomatoes. It seemed like a natural conclusion.%K%P
 0x2D24
 なぜなら『ケチャップとはこういう味であろう』というぼくの中のイメージと、実際の味が一致したからだ。%K%P
-It was because the flavor matched my image of 'what tomatoes should taste like.'%K%P
+It was because the flavor matched my image of 「what tomatoes should taste like.」%K%P
 0x2D30
 ところが、昨夜はそうではなかった。%K%P
 The previous night's experience, however, was entirely different.%K%P
@@ -2259,10 +2259,10 @@ Kid「Probably.」%K%P
 You「That's why there's a screen where the computer asks, 'Hey, who's trying to look at this?'」%K%P
 0x33A8
 言いながら優は、マウスカーソルでウィンドウの中にある『Ｎａｍｅ』と書かれた入力欄をクルクルと囲った。%K%P
-As she spoke, You used the mouse to click on the box for 'Name'.%K%P
+As she spoke, You used the mouse to click on the box for 「Name」.%K%P
 0x33B4
 そこには『ＹＵＫＩＥ　ＴＡＮＡＫＡ』と書き込まれている。%K%P
-Inside the box were written the words 'YUKIE TANAKA'.%K%P
+Inside the box were written the words 「YUKIE TANAKA」.%K%P
 0x33C0
 優「当然、私の名前だとアクセスできるわけないから、こうやってアクセス可能な人間の名前を偽って入力するわけね」%K%P
 You「Of course, there's no way I could access the system using my name, so I'm using someone else's name to get me in.」%K%P
@@ -2745,7 +2745,7 @@ Only to find...%K%P
 Sara was gone.%K%P
 0x3F0C
 同時に――『ドンッ！　ドンッ！　ドンッ！』――音が聞こえてくる。%K%P
-At that same moment, I heard a sound―'Bang! Bang! Bang!'%K%P
+At that same moment, I heard a sound―「Bang! Bang! Bang!」%K%P
 0x3F18
 鉄の壁か何かを強打する音だった。%K%P
 Like something pounding powerfully against a steel wall.%K%P
@@ -2787,7 +2787,7 @@ Sara「Nothing. What do you mean?」%K%P
 Sara acted like there was nothing out of the ordinary.%K%P
 0x4008
 本当に普通過ぎて、普通という表現以外思い浮かばないぐらい普通だった。%K%P
-In fact, she seemed so normal that 'normal' didn't begin to describe it well enough.%K%P
+In fact, she seemed so normal that 「normal」 didn't begin to describe it well enough.%K%P
 0x4014
 音は、依然として鳴り止まない。扉の向こうから聞こえてくる。%K%P
 The bashing sound continued unabated. It was coming from beyond the door.%K%P
@@ -2955,7 +2955,7 @@ Kid「Hahahahahaha!」%K%P
 ...I decided to try to play it off by laughing.%K%P
 0x435C
 『不思議なことを不思議だと思わないこと』は、もう不思議でもなんでもなくなっていた。%K%P
-Not thinking of strange events as 'strange' was becoming... not so strange after all.%K%P
+Not thinking of strange events as 「strange」 was becoming... not so strange after all.%K%P
 0x4368
 偶然が続くと必然になるように、連続する異常は正常になるのだ。……と思う。%K%P
 When enough coincidences happened one after the other, they stopped being coincidental and started to become unavoidable.%K%P

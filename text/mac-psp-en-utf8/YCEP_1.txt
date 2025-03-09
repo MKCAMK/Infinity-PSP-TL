@@ -306,7 +306,7 @@ Takeshi「I...」%K%P
 Takeshi「I'm not going to die.」%K%P
 0x718
 そう言い残し、ひとりタクシーを飛び降りたバカな男。%K%P
-And after saying that, he jumped from our 'taxi', that stupid man.%K%P
+And after saying that, he jumped from our 「taxi」, that stupid man.%K%P
 0x724
 バカな男……。%K%P
 Stupid man...%K%P
@@ -318,7 +318,7 @@ But... he kept his promise.%K%P
 So there was something I had to tell him.%K%P
 0x748
 私は船室を出た。……『完全に紫外線を遮断できる服』を身にまとって。%K%P
-Going outside... wrapped in my '100％ UV protective clothing', I...%K%P
+Going outside... wrapped in my 「100％ UV protective clothing」, I...%K%P
 0x7D0
 彼のもとへと歩み寄って行く。%K%P
 I walked over to where he was.%K%P
@@ -465,7 +465,7 @@ I could feel the beating of his tiny heart in my palm.%K%P
 Thump, thump... His heartbeat was tiny, but consistent...%K%P
 0xA94
 当たり前のことだけど――『チャミは一生懸命、けなげに生きているんだ』――と、私はそんなことを思った。%K%P
-It went without saying, but I thought to myself―'Chami is living each moment to the fullest.'%K%P
+It went without saying, but I thought to myself―「Chami is living each moment to the fullest.」%K%P
 0xAA0
 沙羅「ねえ、お兄ちゃん？　私達、これからどうなっちゃうのかなぁ？」%K%P
 Sara「Hey, onii-chan? What do you think is going to happen to us after this?」%K%P
@@ -774,7 +774,7 @@ However...%K%P
 Leiblich found out before he could make his move and put him in a situation he could not escape from.%K%P
 0x11C0
 『ここから脱走したら、お前の妻と娘は交通事故にあって死ぬだろう』などと、父は脅迫されていたのだと言う。%K%P
-They threatened my father, telling him, Should you escape from here, your wife and child will probably die... in an 'unfortunate car accident'.'%K%P
+They threatened my father, telling him, 「Should you escape from here, your wife and child will probably die... in an 'unfortunate car accident'.」%K%P
 0x11CC
 ライプリヒ製薬は、私の母、ゆきえに対し……%K%P
 And to my mother, Yukie, Leiblich said...%K%P
@@ -843,7 +843,7 @@ You'haru'「Because of that accident, the Tief Blau virus broke out, causing ter
 You'haru'「But... Leiblich Pharmaceuticals concealed everything. The truth about the virus and the research facility was locked away.」%K%P
 0x13BC
 『発生源不明、未知の悪性ウイルス』――マスコミはそんなふうに報道した。%K%O
-And the press only reported that it was 'a deadly virus of unknown origin'.%K%O
+And the press only reported that it was 「a deadly virus of unknown origin」.%K%O
 0x13D4
 専門家でさえも、その正体はつかめなかった。%K%N
 Even the experts had no idea where the disease really came from.%K%N
@@ -954,7 +954,7 @@ Just afraid to accept the truth... She didn't know how to handle it... and was s
 So I reached out and held her closely.%K%P
 0x1608
 『今のあなたには、言葉は必要ないでしょ？』――胸の中で、そんな言葉をつぶやきながら。%K%P
-'There's no need for you to say anything'―I thought that quietly to myself.%K%P
+「There's no need for you to say anything」―I thought that quietly to myself.%K%P
 0x161C
 優秋「お母さん……」%K%P
 You'aki'「Mom...」%K%P
@@ -999,13 +999,13 @@ You'haru'「You are everything to me.」%K%P
 Mom said those words to me.%K%P
 0x1708
 本当は『私の娘よ』って、そう答えて欲しかったんだけど……。%K%P
-I had wanted her to tell me, 'You are my daughter', but...%K%P
+I had wanted her to tell me, 「You are my daughter」, but...%K%P
 0x1714
 でも、不思議と嫌な気はしなかった。%K%P
 For some reason, it didn't bother me.%K%P
 0x1720
 『もっと怒るべきなんじゃないか』とか『１発引っぱたいてやるぐらいのことはするべきなんじゃないか』とか……%K%P
-'Shouldn't you be furious?' and 'You should slap her across the face'...%K%P
+「Shouldn't you be furious?」 and 「You should slap her across the face」...%K%P
 0x172C
 冷静なもうひとりの自分が、頭の中でささやく。%K%P
 Another voice inside my head murmured that.%K%P
@@ -1029,7 +1029,7 @@ Mom...%K%P
 When it came down to it, I still thought of her as my mother.%K%P
 0x1780
 それは理性とはまったく無関係な部分に存在する本能的な『うずき』であって……その『うずうず感』は、私には制御不能であり……。%K%P
-There was an instinctive 'itch' that transcended my basic reason... It was beyond my ability to control...%K%P
+There was an instinctive 「itch」 that transcended my basic reason... It was beyond my ability to control...%K%P
 0x178C
 要するに、誰が何と言おうと、この人は、私の母親に違いないのだ、と思った。%K%P
 In the end, no matter what anyone said, the woman in front of me was my mother.%K%P
@@ -1065,7 +1065,7 @@ But something... had changed slightly.%K%P
 Because my existence itself was something hard to explain...%K%P
 0x1810
 この世界に『優美清秋香菜』という人間が実在するという神秘性を考えれば……%K%P
-If I thought about the fact that I myself, 'the girl called You', was somewhat of a mystic entity...%K%P
+If I thought about the fact that I myself, 「the girl called You」, was somewhat of a mystic entity...%K%P
 0x181C
 エクトプラズムだろうが、キャトルミューティレーションだろうが、浦島太郎だろうが、レムリア文明だろうが……%K%P
 Then ectoplasm, cattle mutilations, Rip Van Winkle, the Lemurian civilization...%K%P
@@ -1074,7 +1074,7 @@ Then ectoplasm, cattle mutilations, Rip Van Winkle, the Lemurian civilization...
 All of those seemed like normal, everyday things.%K%P
 0x1834
 それから、もちろん『第３視点』も……。%K%P
-Even the 'third eye'...%K%P
+Even the 「third eye」...%K%P
 0x1840
 ……………………………………………。%K%P
 .........%K%P
@@ -1362,7 +1362,7 @@ By the time I found out that Coco had been left behind in the research facility,
 When You (Yubiseiharukana) told me what had happened, I was shocked.%K%P
 0x1DAC
 同時に『すぐに助け出しに行かなければ！』と思い、俺は話の続きも聞かずに表へと飛び出した。%K%P
-At the same time, I thought, 'I've got to go save her!' and ran outside without waiting for You to finish the rest of her story.%K%P
+At the same time, I thought, 「I've got to go save her!」 and ran outside without waiting for You to finish the rest of her story.%K%P
 0x1DB8
 優は俺のことを引きとめ、第３視点だとか、４次元だとか、過去だとか、未来だとか、わけのわからない話を始めた。%K%P
 You caught up with me and started telling me things about the third eye, the fourth dimension, the past and future, but none of it made sense.%K%P
@@ -1374,7 +1374,7 @@ You caught up with me and started telling me things about the third eye, the fou
 「Unless we can trick Blick Winkel, wake him up, and bring him to our world, we'll never save Coco and Kuranari.」%K%P
 0x1DDC
 『だからお願い……協力して？』――優はそう言った。%K%P
-'So please... help me?'―That was what You asked of me.%K%P
+「So please... help me?」―That was what You asked of me.%K%P
 0x1DE8
 俺がすべてを納得するまでには、それから数ヶ月かかった。%K%P
 It took a few more months for me to become fully convinced.%K%P
@@ -1905,7 +1905,7 @@ The world was full of strange and wonderful things.%K%P
 Wasn't it?%K%P
 0x27B8
 『ピグマリオンの話』も……『ポチッとな』も……%K%P
-The discussion about Pygmalion... and saying 'click'...%K%P
+The discussion about Pygmalion... and saying 「click」...%K%P
 0x27C4
 テラバイトディスクには、書き込まれているはずのない記憶なのですから……。%K%P
 Neither of those should have been on my terabyte disc...%K%P
@@ -2145,22 +2145,22 @@ But there are some things I am sure of.%K%P
 
 0x2F68
 %LC%FS『ボクは今、見ている』%FE%K%N
-%LC%FS'Right now, I am seeing.'%FE%K%N
+%LC%FS「Right now, I am seeing.」%FE%K%N
 0x2F74
 %LC%FS『ボクは今、見られている』%FE%K%N
-%LC%FS'Right now, I am being seen.'%FE%K%N
+%LC%FS「Right now, I am being seen.」%FE%K%N
 0x2F80
 %LC%FS『キミは今、見ている』%FE%K%O
-%LC%FS'Right now, you are seeing.'%FE%K%O
+%LC%FS「Right now, you are seeing.」%FE%K%O
 0x2F98
 %N%N%N
 
 0x2FA4
 %FS⑳⑳　　『キミは今……%FE%K%N
-%FS'And right now, you are...'%FE%K%N
+%FS「And right now, you are...」%FE%K%N
 0x2FB0
 %FS⑳⑳　　　……きっと誰かに、見つめられている』%FE%K
-%FS'Surely being seen by someone.'%FE%K
+%FS「Surely being seen by someone.」%FE%K
 0x2FD8
 %O
 

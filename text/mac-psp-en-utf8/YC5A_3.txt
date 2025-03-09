@@ -306,7 +306,7 @@ The Curé virus is a type of retrovirus.%K%N
 Like many retroviruses, the Curé virus is not contagious across species.%K%O
 0x90C
 一般的に『キュレイウイルス』と言った場合には、それは、ヒトにしか感染しない『ヒト・キュレイウイルス』のことを指している。%K%N
-When people simply say 'the Curé virus', they're actually referring to the human version of the virus.%K%N
+When people simply say 「the Curé virus」, they're actually referring to the human version of the virus.%K%N
 0x918
 変異体として、サルにしか感染しないキュレイや、ネズミにしか感染しないキュレイも発見されてはいるが……%K%N
 There are variants, such as the monkey-specific Curé, the rat-specific Curé...%K%N
@@ -330,16 +330,16 @@ At the same time, the cells with the rewritten DNA go on to divide and multiply,
 Normally, when cancer cells develop in a body...%K%N
 0x984
 人間の染色体の、第１７番目に存在する『ｐ５３』の働きによって、撃退されることがわかっている。%K%O
-The body repulses them with the 'p53' function located on the seventeenth chromosome.%K%O
+The body repulses them with the 「p53」 function located on the seventeenth chromosome.%K%O
 0x99C
 『ｐ５３』とは――ある種の酵素やタンパク質を生成し、遺伝子に異常が認められた場合には……%K%N
-'p53' creates certain enzymes and proteins, and when there has been damage done to a gene...%K%N
+「p53」 creates certain enzymes and proteins, and when there has been damage done to a gene...%K%N
 0x9A8
 細胞分裂を止めたり、アポトーシス（細胞の自然死）に導いたり、傷ついたＤＮＡの修復を行なったりする『ガン抑制遺伝子』のこと。%K%N
-It stops replication or causes apoptosis (natural cell death) and works to repair the damaged DNA, thus earning its name 'the anti-cancer gene'.%K%N
+It stops replication or causes apoptosis (natural cell death) and works to repair the damaged DNA, thus earning its name 「the anti-cancer gene」.%K%N
 0x9B4
 キュレイウイルスは、この『ｐ５３』という遺伝子にも変異を起こさせ、不能にしてしまう。%K%O
-The Curé virus mutates this 'p53' gene as well, rendering it useless.%K%O
+The Curé virus mutates this 「p53」 gene as well, rendering it useless.%K%O
 0x9CC
 従って、キュレイに感染した細胞は、何の抵抗も受けることなく、やすやすと全身に広がって行くことができるのだ。%K%N
 Thus, the Curé-infected cells can spread throughout the body uncontested.%K%N
@@ -348,7 +348,7 @@ Thus, the Curé-infected cells can spread throughout the body uncontested.%K%N
 Then, once all the DNA code is rewritten, the host literally becomes a new species.%K%N
 0x9E4
 『新しい種』――ここでは仮に『キュレイ種』と呼ぶことにする。%K%O
-A new species― We'll just call it the 'Curé species' here.%K%O
+A new species―We'll just call it the 「Curé species」 here.%K%O
 0x9FC
 キュレイ種の肉体には、次のような独特の機能が備わっている。%K%N
 The Curé species body is endowed with the following unique characteristics:%K%N
@@ -366,13 +366,13 @@ Telomeres are the base sequence located at either end of a chromosome and genera
 After a certain number of divisions, the telomere gets so short that the cell can no longer divide.%K%N
 0xA44
 ゆえにテロメアは、細胞分裂の『回数券』などとも呼ばれている。%K%O
-So telomeres are like the 'bus tickets' of cell division. Once you spend them, they're gone.%K%O
+So telomeres are like the 「bus tickets」 of cell division. Once you spend them, they're gone.%K%O
 0xA5C
 ところが、キュレイ種は違う。%K%N
 But not the Curé species.%K%N
 0xA68
 この新しい生命体は、体内でテロメラーゼという酵素を作り、失ったはずの回数券を何度でも継ぎ足すことができるからだ。%K%N
-This new body produces an enzyme called telomerase, which allows unlimited recycling of the 'bus tickets' that normally would already have been spent.%K%N
+This new body produces an enzyme called telomerase, which allows unlimited recycling of the 「bus tickets」 that normally would already have been spent.%K%N
 0xA74
 これにより、細胞は半永久的に分裂を繰り返すことになり、以降、決して老いたり、衰えたりしなくなる。%K%N
 This allows for almost endless cell division to continue, thereby eliminating aging and weakening.%K%N
@@ -399,10 +399,10 @@ And it is believed that this is what so dramatically shortens the time required 
 Actually, there is one more distinguishing characteristic of the Curé species.%K%N
 0xAF8
 それは――『赤外線視力』である。%K%N
-Which is―'infrared vision'.%K%N
+Which is―「infrared vision」.%K%N
 0xB04
 キュレイ種は、その発生過程において『ｐ５３』の機能を失ってしまった為、紫外線に対して極度に弱い体質を持つ。%K%N
-Because, in its production, it lost the faculties of 'p53', the Curé species possesses a constitution extremely vulnerable to ultraviolet rays.%K%N
+Because, in its production, it lost the faculties of 「p53」, the Curé species possesses a constitution extremely vulnerable to ultraviolet rays.%K%N
 0xB10
 皮膚細胞にあるＤＮＡは、長時間紫外線にさらされることによって、簡単に傷つき、ガン化してしまう。%K%O
 The DNA in skin cells is quickly damaged when exposed to the sun for any duration, causing those cells to become cancerous.%K%O
@@ -414,13 +414,13 @@ In a normal human, thanks to the cancer suppression gene, damaged DNA is let die
 But the Curé species cannot do this.%K%N
 0xB40
 『ｐ５３』以外の遺伝子によって、それを補うような酵素を作ることも可能なのだが、やはり限界があるのだ。%K%O
-It was possible to use another gene to produce an enzyme to perform the same function as 'p53', but alas, this solution proved to be limited.%K%O
+It was possible to use another gene to produce an enzyme to perform the same function as 「p53」, but alas, this solution proved to be limited.%K%O
 0xB58
 それゆえ、キュレイ種は紫外線に対して脆弱であり、屋外では、主に夜間にしか活動することができない。%K%N
 Therefore, Curé species are very vulnerable to ultraviolet rays and can only venture outside at night.%K%N
 0xB64
 『赤外線視力』は、この欠点を補完する為に備わった遺伝的な形質なのかもしれない。%K%O
-The 'infrared vision' was developed to make up for this shortcoming.%K%O
+The 「infrared vision」 was developed to make up for this shortcoming.%K%O
 0xB98
 つぐみ「私には、そういう特殊な能力があるの」%K%P
 Tsugumi「I have this unique ability.」%K%P

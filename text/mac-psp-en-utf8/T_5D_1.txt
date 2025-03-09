@@ -639,7 +639,7 @@ Sora「So, I can't keep it a secret.」%K%P
 Sora「I can't just pretend that I don't know anything.」%K%P
 0xAD8
 空「ううん……黙っていようと思っていました」%K%P
-Sora「Ummm... I thought I would keep it to myself.」%K%P
+Sora「No... I thought I would keep it to myself.」%K%P
 0xAE4
 空「でも、だけど……」%K%P
 Sora「But... But...」%K%P
@@ -900,7 +900,7 @@ Sora「You believe you can do something which is physically impossible.」%K%P
 Sora「.........」%K%P
 0xF54
 空「修復処理を継続します」%K%P
-Sora「Resuming backup procedure.」%K%P
+Sora「Resuming repair procedure.」%K%P
 0xF60
 空「茜ヶ崎空の、論理処理効率低下の原因を確認中……」%K%P
 Sora「Logic processing deficiency in Akanegasaki Sora, cause under investigation...」%K%P
@@ -1428,7 +1428,7 @@ The corridor wall...!%K%P
 I took the PDA out of my pocket and jammed it into the crevice of the wall I had found.%K%P
 0x186C
 偽空の『目』……多目的センサーに向かって、バックライトを最大にしてボタンを連打した。%K%P
-I turned it toward the fake Sora's 'eyes', her sensors... and set the backlight on full. I hit the buttons repeatedly.%K%P
+I turned it toward the fake Sora's 「eyes」, her sensors... and set the backlight on full. I hit the buttons repeatedly.%K%P
 0x189C
 アナウンス「Ｓｙｓｔｅｍ⑳ｗｉｅｄｅｒａｕｆｎａｈｍｅ．」%K%P
 Announcement「<System-Wiederaufnahme.>」%K%P
@@ -1515,7 +1515,7 @@ You read out the contents to all of us.%K%P
 Third floor: Dritter Stock partition schematic―%K%P
 0x1A78
 『コスミッシャー・ヴァル』の部屋が、完全浸水した。%K%P
-The 'Cosmic Whale' room had flooded completely.%K%P
+The 「Cosmic Whale」 room had flooded completely.%K%P
 0x1ABC
 犠牲者：なし。%K%P
 Casualties: None.%K%P

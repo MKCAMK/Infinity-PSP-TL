@@ -786,7 +786,7 @@ Kid「I don't know what you're talking about, really...」%K%P
 Takeshi「You slugged me!」%K%P
 0x1380
 少年「違うよ違う、知らない……」%K%P
-Kid「No, I didn't! I swear, I don't know what you're talking about!」%K%P
+Kid「No, I didn't! I swear, I don't know what you're talking%Nabout!」%K%P
 0x138C
 武「嘘つけ、忘れたのか？」%K%P
 Takeshi「Yeah, right! What, don't tell me you forgot already?」%K%P

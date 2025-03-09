@@ -372,7 +372,7 @@ Coco「Oh, that reminds me...」%K%P
 Coco「Takepyon. Takepyon! I talked to Sora-san.」%K%P
 0x824
 ココ「空さんがね、つぐみんと少し話をしてきた、って言ってたよ」%K%P
-Coco「And guess what? Sora-san said she spoke to Tsugumin.」%K%P
+Coco「And guess what? Sora-san said she spoke to%NTsugumin.」%K%P
 0x830
 武「おおっ？　本当か？？」%K%P
 Takeshi「Oh, really?」%K%P

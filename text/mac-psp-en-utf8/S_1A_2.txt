@@ -678,7 +678,7 @@ Matsunaga Sara.%K%N
 
 0x10B0
 そう、間違いない、彼女の名前は『松永沙羅』だ。%K%N
-Yes. I was sure. Her name was 'Matsunaga Sara'.%K%N
+Yes. I was sure. Her name was 「Matsunaga Sara」.%K%N
 0x10BC
 だけど……どうして……。%K%N
 But... how...%K%N
@@ -990,7 +990,7 @@ You「Heeheehee〜」%K%P
 The pain in my head had eased at some point while I was watching their exchange.%K%P
 0x17DC
 いや、別の意味で『痛い』やり取りではあったんだけど……。%K%P
-It was a 'painful' exchange in a different meaning of the word, but...%K%P
+It was a 「painful」 exchange in a different meaning of the word, but...%K%P
 0x185C
 すっかり落ち着きを取り戻したぼくは、ふたりと並んで出口を目指した。%K%P
 After I had calmed down again, we went to find an exit.%K%P
@@ -1137,7 +1137,7 @@ Sara「No... I'm kidding... I'm just joking.」%K%P
 Sara「There's no reason I should remember him.」%K%P
 0x1B84
 ――『あるわけない』？？？%K%P
-'No reason'?%K%P
+「No reason」?%K%P
 0x1B90
 どういう意味だろう？%K%P
 I wondered what she meant by that.%K%P
@@ -1485,7 +1485,7 @@ And the final place that we ended up...%K%P
 Was in front of a small door at the end of a narrow corridor.%K%P
 0x2494
 中央に『ＨＩＭＭＥＬ』というアルファベットの刻印がある。%K%P
-In the middle, the word 'HIMMEL' was engraved.%K%P
+In the middle, the word 「HIMMEL」 was engraved.%K%P
 0x24A0
 少年「ここは……？」%K%P
 Kid「What is this...?」%K%P

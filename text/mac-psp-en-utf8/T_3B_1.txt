@@ -21,7 +21,7 @@ As we made the rounds, I said things like...%K%P
 「Let's find something decent to eat - no more of those tuna sandwiches from the kiosk!」%K%P
 0xB0
 『浮力の足りないＥＩには果たして何人乗れるのか？』とか、%K%P
-And 'How many people can really ride on an Ei that doesn't have enough buoyancy?'%K%P
+And 「How many people can really ride on an Ei that doesn't have enough buoyancy?」%K%P
 0xBC
 くだらない提案をいくつかしてみた。%K%P
 I also made other ridiculous propositions.%K%P
@@ -75,7 +75,7 @@ Takeshi「Nothing, really. I just thought I'd get some coffee or something to wa
 Takeshi「What about you two? What are you and the Kid up to?」%K%P
 0x1CC
 優は、例のスキャナー『Ｌ−ＭＲＩ』のところに、何やら工具や部品を広げている最中だった。%K%P
-It looked like she was in the middle of spreading out tools and parts next to the 'L-MRI' scanner.%K%P
+It looked like she was in the middle of spreading out tools and parts next to the 「L-MRI」 scanner.%K%P
 0x1D8
 少年もスキャナーの近くにしゃがんで、資料のようなものを眺めている。%K%P
 The Kid was crouched down by the scanner as well, looking at what appeared to be pages of data.%K%P
@@ -276,7 +276,7 @@ Tsugumi was stretched out peacefully.%K%P
 It was probably due to the serious nature of the operation, but she was getting an IV.%K%P
 0x610
 呼吸器はつけていなかった。もっとも、この救護室に呼吸器がないだけかもしれない。%K%P
-At least she wasn't hooked up to a respirator. Then again, that could have been because the infirmary didn't have a respirator...%K%P
+At least she wasn't hooked up to a ventilator. Then again, that could have been because the infirmary didn't have a ventilator...%K%P
 0x61C
 幸いにも、苦しそうな表情は浮かべていない。%K%P
 Thankfully, she didn't look like she was in pain.%K%P
@@ -615,7 +615,7 @@ Kid「I don't know either.」%K%P
 The Kid had insulation tape wrapped around his fingers.%K%P
 0xC9C
 優「倉成ぃ〜、あんたじゃないの？」%K%P
-You「Kuranari-san, you sure it wasn't you?」%K%P
+You「Kuranari, you sure it wasn't you?」%K%P
 0xCA8
 武「俺なもんか。俺が訊いてるのに……」%K%P
 Takeshi「Why would it be me if I'm the one asking about it...?」%K%P

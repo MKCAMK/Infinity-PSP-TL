@@ -480,7 +480,7 @@ Kid「...?」%K%P
 You「My mother has convinced herself that my father is already dead...」%K%P
 0xBA0
 『死』という言葉が、胸にズシンと響く。%K%P
-The word 'dead' had a heavy ring to it.%K%P
+The word 「dead」 had a heavy ring to it.%K%P
 0xBAC
 優は瞳をうるませながら、ぼくのことを真っ直ぐ見つめていた。%K%P
 You looked straight at me as her eyes watered.%K%P
@@ -507,7 +507,7 @@ I couldn't find any words.%K%P
 I didn't know what to say to her.%K%P
 0xC24
 『そうだよ！　きっとどこかで生きてるよ！』――優はぼくの励ましを、待っているのかもしれない。%K%P
-She might have been waiting for me say something like 'You're right! He's probably alive somewhere!'%K%P
+She might have been waiting for me say something like 「You're right! He's probably alive somewhere!」%K%P
 0xC30
 けれど、言えなかった。%K%P
 But I couldn't say it.%K%P
@@ -1071,7 +1071,7 @@ I waited for the rest of the explanation.%K%P
 But Sora didn't say anything more.%K%P
 0x18F0
 『後は、自分で考えろ』……そういうことなのだろうか？%K%P
-...I guessed she was trying to say, 'Figure the rest out yourself.'%K%P
+...I guessed she was trying to say, 「Figure the rest out yourself.」%K%P
 0x18FC
 ぼくは考えた……。%K%P
 I thought...%K%P
@@ -1137,7 +1137,7 @@ There were unique kinds of microorganisms found around thermal seafloor vents th
 That was why Leiblich Pharmaceuticals was researching microorganisms on the seafloor...%K%P
 0x1AB4
 『ヒンメル』――『ＩＢＦ』――『高圧酸素治療装置』――。%K%P
-'Himmel'―'IBF'―'High-pressure oxygen treatment device'―%K%P
+「Himmel」―「IBF」―「High-pressure oxygen treatment device」―%K%P
 0x1AC0
 ぼくの脳内のスクリーンには、次々と既知の言葉が映し出された。%K%P
 All those words that I had known flashed onto the screen of my mind.%K%P

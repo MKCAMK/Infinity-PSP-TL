@@ -87,7 +87,7 @@ Sora「Implosion of LeMU is estimated to occur at 4:30 a.m. on May 7th.」%K%P
 Sora「The calculation has a margin of error of plus or minus twelve hours.」%K%P
 0x1E8
 空「この推定数値には、今のところ大きな変更はかかっていません」%K%P
-Sora「There has been no significant change in this prediction.」%K%P
+Sora「There has been no significant change in this%Nprediction.」%K%P
 0x1F4
 空「隔壁強度は、一部において既に、限界を超えつつあるのです」%K%P
 Sora「In one area, the strength limits of partitions have already been exceeded.」%K%P
@@ -444,7 +444,7 @@ She had said that they all had been used during the evacuation on May 1st.%K%O
 
 0x8C0
 %LC最終結論――『現時点では、脱出の望み無し』%K%O
-%LCFinal conclusion― 'Current prognosis for escape: hopeless.'%K%O
+%LCFinal conclusion―「Current prognosis for escape: hopeless.」%K%O
 0x8D8
 だが、たったひとつだけ。%K%N
 But there was one thing.%K%N

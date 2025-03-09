@@ -78,7 +78,7 @@ I was pretending I was fine.%K%P
 Even I knew the reason was obvious.%K%P
 0x1AC
 気にしているのだ、『あいつ』のことを……。%K%P
-I was worried about 'her'...%K%P
+I was worried about 「her」...%K%P
 0x1C0
 優「はあぁ〜〜〜〜〜〜〜〜〜〜〜っ……」%K%P
 You「*Sigh*...」%K%P
@@ -222,7 +222,7 @@ She told me the truth.%K%P
 But at the same time, she lied.%K%P
 0x42C
 ＹＥＳかＮＯか、デジタルな判断をするはずのプログラムは、必死で矛盾を受け入れようとした……。%K%P
-A computer program that could only accept 'yes' or 'no', 'ones' and 'zeroes', had tried desperately to accept a contradiction...%K%P
+A computer program that could only accept 「yes」 or%N「no」, 「ones」 and 「zeroes」, had tried desperately to accept a contradiction...%K%P
 0x438
 優「ＡＩも、人とおんなじなんだよ」%K%P
 You「In a sense, AI is similar to people.」%K%P
@@ -387,7 +387,7 @@ I figured it was something just between Tsugumi and me.%K%P
 And...%K%P
 0x6C8
 『知っている』と断言できるほどには、俺は知らないのだ。%K%P
-I didn't really know enough about her condition to say, 'Yeah, I know something.'%K%P
+I didn't really know enough about her condition to say, 「Yeah, I know something.」%K%P
 0x6D4
 事実を認識しながら、信じ切ることができていない。%K%P
 I was still having a difficult time believing the whole thing.%K%P
@@ -708,7 +708,7 @@ Tsugumi「Some AI you are! You think I'm stupid? You think you can fool me?」%K
 Sora「It is not a lie! I am telling the truth!」%K%P
 0xDA8
 空「私には、あの部屋の先にあるものの情報は、何も与えられては……」%K%P
-Sora「I don't have any information of what's behind that door...」%K%P
+Sora「I don't have any information of what's behind that%Ndoor...」%K%P
 0xDC4
 ココ「やめて！！」%K%P
 Coco「Stop it!」%K%P
@@ -987,7 +987,7 @@ But I could still make it.%K%P
 There was no way I was going to fail.%K%P
 0x13F4
 『ダメだ、手遅れだ』なんて言わないし、誰にも言わせない。%K%P
-I wasn't going to say, 'It's no use, we're too late', and I wasn't going to let anyone else say it either.%K%P
+I wasn't going to say, 「It's no use, we're too late」, and I wasn't going to let anyone else say it either.%K%P
 0x1400
 少しでも望みがある限りは、決してそれを捨てはしない。%K%P
 As long as there was some hope left, I wouldn't give up.%K%P

@@ -66,7 +66,7 @@ Sara「Oh. In that case, can you bring me back something to drink?」%K%P
 Kid「Huh?」%K%P
 0x190
 なぜここで、『だったら』という流れになるのだろう？%K%P
-Why was that an 'in that case' thing?%K%P
+Why was that an 「in that case」 thing?%K%P
 0x1A4
 沙羅「私、喉渇いちゃってさ……。売店にジュースとか置いてあったよね？」%K%P
 Sara「I'm thirsty... I think there was juice in the kiosk, right?」%K%P
@@ -669,7 +669,7 @@ But I thought it might have been because I had no memory.%K%P
 It also seemed that any more questions would stall the conversation.%K%P
 0xF38
 だから今の時点では、『よくわからないけど、そういうものなのだ』と認識することにしたのだ。%K%P
-So I decided to take an 'I don't get it, but that's okay' approach.%K%P
+So I decided to take an 「I don't get it, but that's okay」 approach.%K%P
 0xF4C
 沙羅「それにしても、随分高度な人格を持たされてるんだね」%K%P
 Sara「And it's supporting such an advanced personality.」%K%P
@@ -1587,7 +1587,7 @@ Sora「At that moment, I would cease to exist.」%K%P
 After the discussion, I stayed in the rest area alone.%K%P
 0x23D4
 今は一応『自由時間』ということになっている。%K%P
-It was a 'free time' of sorts.%K%P
+It was a 「free time」 of sorts.%K%P
 0x23E0
 きっとみんなは、ＬｅＭＵの中に散り、思い思いの時を過ごしているのだろう。%K%P
 I imagined that everyone was walking around LeMU, spending the time as they pleased.%K%P
@@ -1944,7 +1944,7 @@ Sora「Do you understand?」%K%P
 I felt like I had been able to get the gist of what she meant.%K%P
 0x2B4C
 ただ……『私は月と同じなのです』……その言葉の真意がよくわからなかった。%K%P
-Still... I didn't know exactly what she meant by 'I am the same as the moon.'%K%P
+Still... I didn't know exactly what she meant by 「I am the same as the moon.」%K%P
 0x2B58
 ぼくは漆黒の闇夜に浮かんだ青白い月を、ぼんやりと思い浮かべてみた。%K%P
 I mustered an image of a silvery blue moon, its light piercing through the dark night.%K%P

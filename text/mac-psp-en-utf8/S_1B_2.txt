@@ -6,7 +6,7 @@ text area offset and size:
 Nearly an hour had passed since Tsugumi had left the room.%K%P
 0x70
 空は『事態の打開策について検討してみます』と言って、制御室に戻った。%K%P
-Sora had said that she was going to try to 'think of a plan' and went back to the control room.%K%P
+Sora had said that she was going to try to 「think of a plan」 and went back to the control room.%K%P
 0x7C
 残されたぼくら４人は、何をするわけでもなく、何を話すわけでもなく、ただ外部からの連絡や救助が来るのを待ち続けていた。%K%P
 The remaining four of us didn't have anything to say or do and continued to wait for contact or help from the outside.%K%P
@@ -99,13 +99,13 @@ Without thinking, I let out a sigh.%K%P
 Incidentally, there was another thing that I hadn't been able to understand.%K%P
 0x224
 いつの間にか、みんながぼくのことを『少年』と呼んでいる。%K%P
-Somewhere along the line, everyone had taken to calling me 'Kid'.%K%P
+Somewhere along the line, everyone had taken to calling me 「Kid」.%K%P
 0x230
 あんな適当な成り行きで決めちゃった呼び方――『少年』――が、今のぼくの名前だった。%K%P
-That random decision-making process to find a consensus on my name had ended up with me being called 'Kid'.%K%P
+That random decision-making process to find a consensus on my name had ended up with me being called 「Kid」.%K%P
 0x23C
 まあ『ポリフェノール・三郎』よりは、いくらかマシだけど……。%K%P
-Well, it was better than 'John Mitochondria' anyway.%K%P
+Well, it was better than 「John Mitochondria」 anyway.%K%P
 0x248
 それでもやっぱり、理解に苦しむ。%K%P
 But still, it was all hard for me to understand.%K%P
@@ -183,7 +183,7 @@ I figured that was probably the control room.%K%P
 Just then, I noticed something strange.%K%P
 0x3E8
 モニターの片隅に『生体反応：７』という表示が小さく浮かんでいる。%K%P
-In a corner of the monitor 'Life readings: 7' was displayed in small letters.%K%P
+In a corner of the monitor 「Life readings: 7」 was displayed in small letters.%K%P
 0x3F4
 少年「ね、ねえ……？」%K%P
 Kid「U...um...?」%K%P
@@ -258,7 +258,7 @@ And then...%K%P
 The numbers changed by the second.%K%P
 0x5A0
 『６』を基準にして、プラスマイナス『１』の増減……。%K%P
-And always the number 'six' plus or minus one.%K%P
+And always the number 「six」 plus or minus one.%K%P
 0x5AC
 空「なぜ、なぜこんなことが……」%K%P
 Sora「Why? Why is this happening...?」%K%P
@@ -297,7 +297,7 @@ For a while, I watched the number switch.%K%P
 Finally...%K%P
 0x6A4
 数字は『６』を示し、完全に沈黙した。%K%P
-It stopped on the number 'six'.%K%P
+It stopped on the number 「six」.%K%P
 0x6B0
 『生体反応：６』%K%P
 「Life readings: 6」%K%P
@@ -339,10 +339,10 @@ Kid「That's true, but...」%K%P
 And the exact number of humans trapped was...%K%p
 0x3418
 『６』
-'6'
+「6」
 0x3424
 『５』
-'5'
+「5」
 0x7E0
 ――６人だ。%K%P
 Six people.%K%P

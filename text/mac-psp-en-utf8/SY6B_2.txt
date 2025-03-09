@@ -9,7 +9,7 @@ Sora wasn't inside.%K%P
 I looked at the life reading numbers.%K%P
 0x98
 実体を持たない空は生体反応には検出されないはずだから、この数字『５』は、閉じ込められたぼくらの人数と一致している。%K%P
-Not being human, Sora wouldn't register on the bio scan, so the number 'five' matched with the number of us that we knew to be stuck in LeMU.%K%P
+Not being human, Sora wouldn't register on the bio scan, so the number 「five」 matched with the number of us that we knew to be stuck in LeMU.%K%P
 0xA4
 つまり、みんな無事ということだ。ひとまず、ほっとした。%K%P
 In other words, everyone was alive.%K%P
@@ -72,7 +72,7 @@ You「It was the name.」%K%P
 You moved the cursor to the name column.%K%P
 0x218
 そこには、『田中ゆきえ』と入力されている。%K%P
-It read 'Tanaka Yukie'.%K%P
+It read 「Tanaka Yukie」.%K%P
 0x224
 優「あの人は、私の本当のお母さんじゃなかった……」%K%P
 You「That person wasn't my real mother...」%K%P
@@ -396,7 +396,7 @@ My mind was confused with what might be true and what false.%K%P
 ...But...%K%P
 0x85C
 （『秋』という名前の『春』があっても、いいんじゃないのか？）%K%P
-(I thought that if a name had autumn, or 'aki', in it, there might as well be one with spring, or 'haru', in it.)%K%P
+(I thought that if a name had autumn, or 「aki」, in it, there might as well be one with spring, or 「haru」, in it.)%K%P
 0x868
 やがてぼくは、そんな風に考えるようになっていた。%K%P
 Gradually, I became convinced that it could be right.%K%P
@@ -591,7 +591,7 @@ Some of them even thought it might be a trap.%K%N
 Of course, that was what I thought at first too.%K%N
 0xC58
 『今頃になって、なぜ……？』と。%K%O
-My skeptical mind wanted to ask, 'Why now...?'%K%O
+My skeptical mind wanted to ask, 「Why now...?」%K%O
 0xC70
 しかし、ぼくらは狐につままれたような気持ちになりつつも、それに従うより他なかった。%K%N
 We felt like a trick might still be being played on us, but we had no other choice but to go along with it.%K%N

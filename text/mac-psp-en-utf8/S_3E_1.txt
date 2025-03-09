@@ -219,7 +219,7 @@ You「When he left, he was saying something about wanting a drink. He might be h
 Kid「Huh? A beer in LeMU?」%K%P
 0x4BC
 『さあ？』といった感じで、肩をすくめる優。%K%P
-You shrugged as if to say 'Who knows?'%K%P
+You shrugged as if to say 「Who knows?」%K%P
 0x4C8
 優「そう言うそっちは、どうだったの？　つぐみは？」%K%P
 You「What about you? How did things go with Tsugumi?」%K%P
