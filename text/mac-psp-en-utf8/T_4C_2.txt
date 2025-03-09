@@ -1056,7 +1056,7 @@ Takeshi「Hey, Hammy!」%K%P
 That probably wasn't its name, but never mind...%K%P
 0x18C4
 『ジャンガリアーッ！』と呼ぶよりはマシだろう。%K%P
-It was better than yelling 'Djungariaaan!'%K%P
+It was better than yelling 「Djungariaaan!」%K%P
 0x18D0
 つぐみ「武、大丈夫？」%K%P
 Tsugumi「Takeshi, are you alright?」%K%P
@@ -1617,7 +1617,7 @@ Tsugumi「No! Be careful! Don't squeeze him so hard!」%K%P
 Takeshi「What?」%K%P
 0x2560
 つぐみは俺の手からネズミ（？）を素早く奪い取った。%K%P
-Tsugumi snatched the 'rat' from my hand.%K%P
+Tsugumi snatched the 「rat」 from my hand.%K%P
 0x256C
 そして、そのネズミ（？）をいたわるようにそっと撫でた。%K%P
 She stroked it gently as if she was consoling it.%K%P

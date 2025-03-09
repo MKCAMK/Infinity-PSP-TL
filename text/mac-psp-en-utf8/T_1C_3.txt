@@ -195,7 +195,7 @@ You「Does it hurt if you swing your arms around?」%K%P
 Coco「Just a little...」%K%P
 0x4A4
 あまり『ちょっとだけ』といった感じには見えない。%K%P
-But it looked like it hurt more than 'just a little'.%K%P
+But it looked like it hurt more than 「just a little」.%K%P
 0x4B0
 空「フロアの急激な減圧による、減圧症の疑いがあります」%K%P
 Sora「I suspect it might be decompression sickness due to the sudden loss of pressure on this floor.」%K%P
@@ -744,7 +744,7 @@ You「Does it hurt if you swing your arms around?」%K%P
 Coco「Just a little...」%K%P
 0x1244
 『ちょっとだけ』という雰囲気には見えない。%K%P
-But it looked like it hurt more than 'just a little'.%K%P
+But it looked like it hurt more than 「just a little」.%K%P
 0x126C
 空「フロアの急激な減圧による、減圧症の疑いがあります」%K%P
 Sora「I suspect it might be decompression sickness due to the sudden loss of pressure on this floor.」%K%P

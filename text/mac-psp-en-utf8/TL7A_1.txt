@@ -177,7 +177,7 @@ Sora「............」%K%P
 Sora「Yes, you are right.」%K%P
 0x524
 『考えるのをやめる』のは、職務に忠実な彼女には難しいのかもしれない。%K%P
-It may have been difficult for someone as conscientious as Sora to just 'stop thinking'.%K%P
+It may have been difficult for someone as conscientious as Sora to just 「stop thinking」.%K%P
 0x530
 それでも、空は笑ってくれた。%K%P
 Still, Sora smiled for me.%K%P
@@ -342,7 +342,7 @@ With the little knowledge I had, I needed to find the file.%K%P
 「LM-RSDS-4913A Akanegasaki Sora」%K%P
 0x868
 メニューから、ディスクへのコピーを選択した。%K%P
-I chose 'Copy to Disc' from the menu.%K%P
+I chose 「Copy to Disc」 from the menu.%K%P
 0x874
 全コピーが成功する確証はないが、とにかくやってみる。%K%P
 There was no guarantee that it would be successful, but I was going to try.%K%P
@@ -360,7 +360,7 @@ I thought it was probably the last gamble in my lifetime.%K%P
 Takeshi「Click.」%K%P
 0x8CC
 エンターキーを叩くと、データコピーは始まった。%K%P
-I hit the 'enter' key, and the data began copying.%K%P
+I hit the 「enter」 key, and the data began copying.%K%P
 0x8D8
 武「茜ヶ崎君、ボタンを叩くときの掛け声は『ポチッとな』だ。覚えておくように」%K%P
 Takeshi「Akanegasaki-kun, remember to shout 'Click' when you hit a button.」%K%P

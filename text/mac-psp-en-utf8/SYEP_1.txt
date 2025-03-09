@@ -27,7 +27,7 @@ The sea breeze whipped at us a little strongly, and You used her hand to hold he
 She had recently started to grow her hair out.%K%P
 0x168
 なんとなくだけど、『あの人』に似てきたのかもしれない。%K%P
-It seemed that she was starting to look more like 'her'.%K%P
+It seemed that she was starting to look more like 「her」.%K%P
 0x174
 それから……ちょっぴり、素直で女らしくなってきたようにも……。%K%P
 That, and... she seemed to have become a bit more easygoing and ladylike...%K%P
@@ -150,10 +150,10 @@ But my basic nature hadn't changed.%K%P
 Some things changed. Some things never did.%K%P
 0x354
 ぼくは、ぼくであり……けれど過去のぼくは、別のぼくで……。%K%P
-I was still 'me'... but myself in the past was different...%K%P
+I was still 「me」... but myself in the past was different...%K%P
 0x360
 例えるなら、『別の世界のぼく』みたいなもので……。%K%P
-If I had to explain it, I might say that it was like 'me in another world'...%K%P
+If I had to explain it, I might say that it was like 「me in another world」...%K%P
 0x36C
 つまりは、そういうことなのかもしれない。%K%P
 Maybe that was it.%K%P
@@ -321,7 +321,7 @@ Sora「Please come this way...」%K%P
 Kid「Oh, you're...!」%K%P
 0x704
 ぼくらの目の前に現れた『田中先生』なる人物は、あのディスプレイの女性……%K%P
-The person called 'Doctor Tanaka' who appeared in front of us was the woman I'd seen on the monitor...%K%P
+The person called 「Doctor Tanaka」 who appeared in front of us was the woman I'd seen on the monitor...%K%P
 0x710
 ようするに、優の母親を名乗っていた、その人だった。%K%P
 It was the person who had claimed to be You's mother.%K%P
@@ -474,7 +474,7 @@ After a while, we asked Doctor Tanaka question after question.%K%O
 ...Did You's father and mother really die?%K%N
 0x9D4
 ――ならば、あなた……『田中先生』は何者なのか？%K%N
-...If so, then who was she... 'Doctor Tanaka'?%K%N
+...If so, then who was she... 「Doctor Tanaka」?%K%N
 0x9E0
 ――あの俳句のパスワードに込められた意味は何なのか？%K%N
 ...What was the meaning of the haiku password?%K%N
@@ -489,7 +489,7 @@ After a while, we asked Doctor Tanaka question after question.%K%O
 And...%K%O
 0xA1C
 『第３視点』とは何なのか？%K%N
-What was 'the third eye'?%K%N
+What was 「the third eye」?%K%N
 0xA28
 ………………。%K%N
 .........%K%N

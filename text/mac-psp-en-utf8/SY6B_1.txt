@@ -21,7 +21,7 @@ I wondered why we had stayed there.%K%P
 It was because You didn't try to go anywhere.%K%P
 0xF0
 沙羅にあんな風に言われたあと、ぼくだけ『じゃあ』と出て行くわけにはいかなかった。%K%P
-With what Sara had said, I couldn't just say 'See you' and leave.%K%P
+With what Sara had said, I couldn't just say 「See you」 and leave.%K%P
 0xFC
 そんなことをしたら、昨日のことを意識しているのが悟られてしまいそうだった。%K%P
 If I did that, she'd be able to tell that I was still hung up on the day before.%K%P
@@ -564,7 +564,7 @@ With zero dimensions, there is no mass nor area.%K%N
 It is depicted using coordinates.%K%N
 0xC84
 あるいは我々にとってそれは、『無』であると言えるのかもしれない。%K%O
-Or we might call it 'nothingness', or even zero.%K%O
+Or we might call it 「nothingness」, or even zero.%K%O
 0xCA4
 %FS▼『１次元』%FE%N
 %FSOne-dimensional.%FE%N
@@ -624,7 +624,7 @@ This isn't the most precise way of putting it, but you can think of three dimens
 %LCAnd...%K%O
 0xDEC
 ４次元とは、これら３軸に『ｔ軸＝時間』を加えたもので、すでに４次元は空間ではないから、これを『時空間』と称す。%K%N
-The fourth dimension adds a 't' axis, or time, to these three, and because four dimensions is no longer just space, it is called space-time.%K%N
+The fourth dimension adds a 「t」 axis, or time, to these three, and because four dimensions is no longer just space, it is called space-time.%K%N
 0xDF8
 ｘ軸ｙ軸ｚ軸ｔ軸のうちのひとつの軸は、他の３軸に対して垂直に交わる。%K%O
 One of the x, y, z, and t axes adds a vertical element, crossing perpendicularly to the other three.%K%O

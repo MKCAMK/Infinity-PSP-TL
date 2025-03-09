@@ -273,7 +273,7 @@ Coco「It's supposed to be for salads. It was the last one at the gift shop.」%
 Takeshi「Hmmmmm...」%K%P
 0x634
 チューブには『暮らしに彩りを添える逸品』『練りカニ海鮮　甘口』と書いてあった。%K%P
-The tube said 'Add some spice to your life' and 'Crab-flavored cream sauce: mild'.%K%P
+The tube said 「Add some spice to your life」 and 「Crab-flavored cream sauce: mild」.%K%P
 0x640
 武「食生活に幅が出そうだな」%K%P
 Takeshi「That could really broaden your culinary horizons.」%K%P
@@ -525,7 +525,7 @@ After having a good stretch, I watched Coco and the others play.%K%P
 The three of them, two kids and an animal, circled the stone statue.%K%P
 0xC28
 誰が鬼なのかは、特に決まっていないようだ。%K%P
-They were playing a game of chase, not really caring who was 'it'.%K%P
+They were playing a game of chase, not really caring who was 「it」.%K%P
 0xC34
 飽きもせずにくるくる、ずっと同じ場所を回り続けている。%K%P
 Without seeming to get bored, they kept running around and around.%K%P

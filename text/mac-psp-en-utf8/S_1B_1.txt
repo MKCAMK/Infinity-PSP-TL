@@ -327,7 +327,7 @@ Kid「Huh? What's wrong?」%K%P
 I couldn't help but notice a dark look in her eyes.%K%P
 0x730
 『ニンニン』と言って別れたときの表情は、少しも残っていない。%K%P
-There was nothing left of the 'ninja' attitude that she had departed with.%K%P
+There was nothing left of the 「ninja」 attitude that she had departed with.%K%P
 0x73C
 少年「なんか、あったの？」%K%P
 Kid「Did something happen?」%K%P
@@ -762,7 +762,7 @@ Kid「Ooooh, that's right.」%K%P
 Kid「You mean like your colleagues... or Sara's classmates, or teachers...」%K%P
 0x1120
 それを聞いて優は、『そのとおり』とばかりに大きく頷いた。%K%P
-You gave a big nod as if to say 'That's right.'%K%P
+You gave a big nod as if to say 「That's right.」%K%P
 0x1134
 優「倉成だって、ひとりで来たわけじゃないんでしょ？」%K%P
 You「And Kuranari, you weren't alone when you got here either, right?」%K%P
@@ -837,7 +837,7 @@ Sora「We are short of staff here. From time to time, I do that kind of work.」
 Sora smiled.%K%P
 0x1308
 『地上のゲート』って、何だろう？%K%P
-I wondered what the 'gate above ground' was.%K%P
+I wondered what the 「gate above ground」 was.%K%P
 0x1314
 武と空の会話は理解できなかったけど、とりあえず、空がＬｅＭＵに詳しいことの理由だけはわかった。%K%P
 I didn't understand what Takeshi and Sora were talking about, but at least I knew the reason why Sora knew so much about LeMU.%K%P

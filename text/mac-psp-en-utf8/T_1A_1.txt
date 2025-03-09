@@ -66,7 +66,7 @@ We found a floor directory, so we decided to look around the rooms listed on it.
 We came out to an open space.%K%P
 0x1C0
 『憩いの間』、と題されている。%K%P
-It was called the 'rest area'.%K%P
+It was called the 「rest area」.%K%P
 0x1CC
 床には鞄や片方だけの靴、グッズショップの包みなどが散乱している。%K%P
 There was a scattered mess of bags, a pair of shoes, wrapping paper from the souvenir shop, and other stuff discarded on the floor.%K%P
@@ -192,7 +192,7 @@ I felt like if I went quiet, I would return to the darkness of before.%K%P
 In the room we went in next, ruins were awaiting us.%K%P
 0x428
 『レムリアニッシュ・ルイーネ』……。%K%P
-'Lemurian Ruins'...%K%P
+「Lemurian Ruins」...%K%P
 0x434
 そこには静寂だけが満ちている。%K%P
 They were filled with silence.%K%P
@@ -399,7 +399,7 @@ It was just the two of us. Me and her.%K%P
 Then I remembered that I still didn't know who she was.%K%P
 0xAAC
 今も、俺に『勝手にしろ』と言ったが……%K%P
-She had told me to 'do what I want', but...%K%P
+She had told me to 「do what I want」, but...%K%P
 0xAB8
 さっきまでは一緒に逃げようとしていた、と思う。%K%P
 Until then, we'd been trying to escape together.%K%P

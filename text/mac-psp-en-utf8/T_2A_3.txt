@@ -3,10 +3,10 @@ text area offset and size:
 0x37FA
 0x70
 ――中性浮力式エレベーター『ＥＩ／アイ』。%K%P
-―The neutral buoyancy elevator 'Ei'.%K%P
+―The neutral buoyancy elevator 「Ei」.%K%P
 0x7C
 『ＥＩ』とはドイツ語で『卵』のことを意味する。%K%P
-'Ei' meant 'egg' in German.%K%P
+「Ei」 meant 「egg」 in German.%K%P
 0x88
 文字通り、乗り物の形状は卵型をしていて、ＬｅＭＵの側面に設置されたレールに沿って、海中を上下に移動する。%K%P
 It was also a literal take on the egg-shaped elevator that traveled up and down rails into the ocean on the side of LeMU.%K%P
@@ -21,7 +21,7 @@ It would take in or release seawater from the tank as necessary to increase or r
 Once Tsugumi and I were inside, we sealed the watertight doors on the LeMU side of the elevator.%K%P
 0xD4
 あとは、ＬｅＭＵに接続されているロックを開放すれば、自然と『卵』は沈んで行くはずだ。%K%P
-All we had to do was release the lock connecting us to LeMU, and the 'egg' would sink away.%K%P
+All we had to do was release the lock connecting us to LeMU, and the 「egg」 would sink away.%K%P
 0xFC
 つぐみは、扉の脇に付いていた作動レバーを引いた。%K%P
 Tsugumi pulled the operating lever next to the door.%K%P
@@ -282,7 +282,7 @@ Tsugumi「M-maybe...」%K%P
 Takeshi「No, not 'maybe'!」%K%P
 0x9E8
 武「だいたいお前がだなぁ、こんな無謀なこふぉごぼごぼごぼ……」%K%P
-Takeshi「This harebrained idea was all your... *cough*, *splutter*...」%K%P
+Takeshi「This harebrained idea was all your... *cough*,%N*splutter*...」%K%P
 0xA30
 水面は喉を超え、冷たい海水が口の中へと流れ込んだ。%K%P
 The surface of the water reached my throat, and cold seawater rushed into my mouth.%K%P
@@ -414,7 +414,7 @@ I thought that maybe she was reflecting on what she had done.%K%P
 (That's it, maybe...)%K%P
 0xE10
 （こいつは他人との協調性を、うっかりどこかに置き忘れて来てしまっただけなんじゃないだろうか……？）%K%P
-(Maybe she just isn't a 'people person' and has a hard time getting along with others...)%K%P
+(Maybe she just isn't a 「people person」 and has a hard time getting along with others...)%K%P
 0xE1C
 孤立無援の、脆い存在……。%K%P
 She seemed fragile and lonely...%K%P
@@ -498,7 +498,7 @@ Tsugumi turned back to me.%K%P
 Shrouded in the darkness, I couldn't really make out her expression.%K%P
 0x102C
 武「んなこと言ったって、実際俺が扉を開かなかったら、今ごろふたりとも、卵の中で溺れ死んでたかもしれないんだぞ？」%K%P
-Takeshi「Yeah, but if I hadn't opened up that door, the chances are you and I would both be floating drowned in that egg.」%K%P
+Takeshi「Yeah, but if I hadn't opened up that door, the chances are you and I would both be floating drowned in that%Negg.」%K%P
 0x1038
 つぐみ「あなたに助けられるくらいなら、死んだほうがまだよかった」%K%P
 Tsugumi「If I have to be saved by you, then I'd rather die.」%K%P
@@ -684,7 +684,7 @@ Tsugumi「No. You're more than a rock...」%K%P
 Tsugumi「You're a rock head.」%K%P
 0x13C0
 『ウツケモノォ〜！？』――と反論する間もなく目的地に着いてしまったようだ。%K%P
-As I was thinking of a comeback to 'rock head', we arrived at our destination.%K%P
+As I was thinking of a comeback to 「rock head」, we arrived at our destination.%K%P
 0x13CC
 黄色と黒のストライプがぼんやりと見える。%K%P
 Dim yellow and black stripes appeared ahead.%K%P
@@ -780,7 +780,7 @@ Takeshi「.........」%K%P
 Tsugumi「This generator is designed to operate normally at six atmospheres.」%K%P
 0x15AC
 つぐみ「でも、ＬｅＭＵ内の大気は今……１気圧」%K%P
-Tsugumi「But right now, LeMU's air pressure is at one atmosphere.」%K%P
+Tsugumi「But right now, LeMU's air pressure is at one%Natmosphere.」%K%P
 0x15B8
 つぐみ「高圧力の蒸気が充満したタンクとか、パイプとか、そういったものに亀裂が生じる可能性も、ないとは言えないわ」%K%P
 Tsugumi「There is a possibility that a tank or pipe filled with high-pressure steam could have ruptured.」%K%P
@@ -819,7 +819,7 @@ After that...%K%P
 Tsugumi and I made for the room next door to the generator room.%K%P
 0x1684
 『ひとまず、発電機に送り込んでいる熱水を止めよう』というつぐみの提案に従ったのだ。%K%P
-We were implementing Tsugumi's plan: 'First, shut off the hot water flowing to the generator room'.%K%P
+We were implementing Tsugumi's plan: 「First, shut off the hot water flowing to the generator room」.%K%P
 0x16DC
 薄暗くて全体は把握できなかったが、その部屋には、おびただしい数のパイプが張りめぐらされているようだった。%K%P
 It was dark, and I couldn't see everything, but the room was covered in an astounding network of pipes.%K%P
@@ -834,7 +834,7 @@ The pipes continued into the generator room next door. It seemed that opening an
 「Anyhow, this is all because the power supply is down.」%K%P
 0x170C
 『そこで、停電になったときでも、発電室のメンテナンスを手動で行なうことができるよう、この部屋は設けられたのだろう』%K%P
-「The room is designed so that maintenance can be performed manually at times like this, or during blackouts.」%K%P
+「The room is designed so that maintenance can be performed manually at times like this, or during%Nblackouts.」%K%P
 0x1718
 ……という話を、俺はつぐみから聞いた。%K%P
 ...That was what Tsugumi told me.%K%P
@@ -864,13 +864,13 @@ But Tsugumi knew.%K%P
 (What kind of girl is Tsugumi anyway...?)%K%P
 0x1784
 さっき発電室の前で『中が危険だ』と言ったことの理由も、まだちゃんと聞いていなかった。%K%P
-I still hadn't found out how she had known that the inside of the generator room was 'dangerous'.%K%P
+I still hadn't found out how she had known that the inside of the generator room was 「dangerous」.%K%P
 0x1790
 （つぐみとＬｅＭＵには、何か深い関係がある……そういうことか……？）%K%P
 (I wonder if Tsugumi has some kind of connection with LeMU...)%K%P
 0x17A4
 つぐみ「ふぅ……」%K%P
-Tsugumi「Hmmph...」%K%P
+Tsugumi「Phew...」%K%P
 0x17B0
 つぐみ「これで、たぶん大丈夫だと思う」%K%P
 Tsugumi「I think this should do it.」%K%P

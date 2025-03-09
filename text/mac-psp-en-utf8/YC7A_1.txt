@@ -9,7 +9,7 @@ text area offset and size:
 I was in the middle of a white darkness.%K%P
 0xE0
 気がつくと……『ぼく』は別の世界へとまぎれ込んでいた。%K%P
-Before I knew it... 'I' had become lost in another world.%K%P
+Before I knew it... 「I」 had become lost in another world.%K%P
 0xEC
 ここはどこなのか？　考えるまでもなく答えは見つかった。%K%P
 I didn't even have time to wonder where I was before I found the answer.%K%P
@@ -102,7 +102,7 @@ There was no response. All of the color had vanished from his eyes.%K%P
 He didn't move at all. Pipi was frozen... as if he was dead.%K%P
 0x2DC
 ふと……『ぼく』の脳裏に、錆付いた記憶の断片が浮かんできた。%K%P
-Suddenly... a faded fragment of a memory appeared in the back of 'my' mind.%K%P
+Suddenly... a faded fragment of a memory appeared in the back of 「my」 mind.%K%P
 0x2E8
 それは時の流れと共に風化し、色褪せてはいたが、確かに見覚えのある光景だった。%K%P
 Although it had been weathered and tinged by the flow of the time, it was a scene that I was positive I knew.%K%P
@@ -231,7 +231,7 @@ Takeshi took her hand firmly.%K%P
 
 0x790
 『ぼく』は傍観する。%K%N
-'I' continued to observe.%K%N
+「I」 continued to observe.%K%N
 0x79C
 ありのままの世界をありのままに受容し、呑みこみ、入力する。%K%N
 I accepted the world as it was, understood it, and input it.%K%N
@@ -258,10 +258,10 @@ Therefore, even if I were to have had emotions, there was nothing I could do wit
 The only thing I could do was watch...%K%O
 0x83C
 しかも、その『見る』という行為ですら、現実の感覚とはかけ離れていて……。%K%N
-Furthermore, the act of watching was different to what would normally be associated with 'sight'.%K%N
+Furthermore, the act of watching was different to what would normally be associated with 「sight」.%K%N
 0x848
 『視覚』は、感情や思考に先立って遥か彼方の前方にあり、完全に孤立し、剥離していた。%K%N
-That type of 'vision' went far beyond feelings or thoughts; it was completely isolated, completely removed.%K%N
+That type of 「vision」 went far beyond feelings or thoughts; it was completely isolated, completely removed.%K%N
 0x854
 時間の流れは、たったひとつの刹那に凝縮し、目の前で炸裂した。%K%N
 The passage of time had condensed down to one moment, and that had exploded in front of me.%K%N
@@ -1125,7 +1125,7 @@ He wouldn't even look at me.%K%P
 It was obvious that he was the closest person to being responsible for everything happening here.%K%P
 0x1D3C
 『倉成武』――ぼくの父親の名前。%K%P
-'Kuranari Takeshi'―my father's name.%K%P
+「Kuranari Takeshi」―my father's name.%K%P
 0x1D48
 彼は偽りの名をかたり、今までぼくらのことをあざむいてきたのだ。%K%P
 He had used that name to deceive us the whole time.%K%P

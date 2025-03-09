@@ -216,7 +216,7 @@ Sora「Implosion of LeMU is estimated to occur at 4:30 a.m. on May 7th.」%K%P
 Sora「The calculation has a margin of error of plus or minus twelve hours.」%K%P
 0x508
 空「この推定数値には、今のところ大きな変更はかかっていません」%K%P
-Sora「There has been no significant change in this prediction.」%K%P
+Sora「There has been no significant change in this%Nprediction.」%K%P
 0x514
 空「隔壁強度は、一部において既に、限界を超えつつあるのです」%K%P
 Sora「In one area, the strength limits of partitions have already been exceeded.」%K%P
@@ -261,7 +261,7 @@ While I listened to Sora's report...%K%P
 I couldn't help thinking about the two Soras from the previous day―the real one and the fake.%K%P
 0x5CC
 あの後、本当に『思考修復処理』とやらをしてしまったのだろうか？%K%P
-How much of her thought processing had been 'repaired'?%K%P
+How much of her thought processing had been%N「repaired」?%K%P
 0x5E0
 目の前にいる空は、あくまでも事務的に、状況に対応している。%K%P
 Speaking in front of me was a Sora who was practical, businesslike, and simply responding to the situation at hand.%K%P
@@ -447,7 +447,7 @@ Sora「I believe it was only due to a large amount of activity from the thermal 
 Kid「.........」%K%P
 0xA04
 しかし顔色はなかなか元に戻ってくれない。%K%P
-But her facial coloring still hadn't returned to normal.%K%P
+But the color of his face still hadn't returned to normal.%K%P
 0xA18
 お互いに、顔を見合わせる……。%K%P
 Everyone looked around the room, exchanging glances.%K%P
@@ -654,7 +654,7 @@ Pipi「*Bow-wow*!」%K%P
 I had only thrown out the idea as a way to lighten the mood...%K%P
 0xE9C
 いつの間にか『宴会』ということになっている。%K%P
-And before I knew it, we had ourselves a full-blown 'party' in the making.%K%P
+And before I knew it, we had ourselves a full-blown%N「party」 in the making.%K%P
 0xEA8
 ……まぁ、いいか。%K%P
 ...Well, whatever.%K%P
@@ -987,7 +987,7 @@ Takeshi「There's no way you could've forgotten.」%K%P
 Takeshi「I know I haven't.」%K%P
 0x15F4
 武「忘れるもんか……そんな簡単な話じゃないんだ」%K%P
-Takeshi「That's not something you can... just simply forget about.」%K%P
+Takeshi「That's not something you can... just simply forget%Nabout.」%K%P
 0x1600
 武「もっとも、答えは簡単には出せやしない。だけど」%K%P
 Takeshi「I realize it's not something you can talk about casually, but...」%K%P
@@ -1011,7 +1011,7 @@ Sora「I... do not remember.」%K%P
 Sora「I am sorry.」%K%P
 0x1664
 空「忘れちゃったんですよ。数時間の間、記憶がないんです」%K%P
-Sora「I forgot them. There is a gap in my memory of a few hours.」%K%P
+Sora「I forgot them. There is a gap in my memory of a few%Nhours.」%K%P
 0x1670
 武「……そんな……どうして」%K%P
 Takeshi「How... Why?」%K%P
@@ -1059,7 +1059,7 @@ Sora「That was how my creator made me...」%K%P
 Takeshi「.........」%K%P
 0x1734
 『できてる』なんて、『作られてる』なんて、言わないで欲しい。%K%P
-I didn't want her to talk about herself as something 'made' or how she was 'manufactured'.%K%P
+I didn't want her to talk about herself as something%N「made」 or how she was 「manufactured」.%K%P
 0x1748
 空「倉成さん、そんな泣きそうな顔をしないでください」%K%P
 Sora「Kuranari-san, please do not look at me as if you are going to cry.」%K%P

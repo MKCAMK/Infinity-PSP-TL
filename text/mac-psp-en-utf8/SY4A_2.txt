@@ -1914,7 +1914,7 @@ Everyone「Alright!」%K%P
 And so we restarted the investigation into You's father.%K%P
 0x2888
 調査の手がかりは、優から聞いた――『田中陽一／タナカヨウイチ』――優のお父さんの名前、ただひとつ。%K%P
-The only clue that we had to start off our investigation was the name of You's father, 'Tanaka Yoichi'.%K%P
+The only clue that we had to start off our investigation was the name of You's father, 「Tanaka Yoichi」.%K%P
 0x2894
 実際のところ、その作業はレミの中に潜り込んだ空の手によって行われた。%K%P
 Actually, the work going on beneath the surface of LeMMIH's exterior was all done by Sora.%K%P
@@ -2253,7 +2253,7 @@ The next thing that was uploaded to the server read...%K%P
 At the end of the files, what appeared was...%K%P
 0x2ECC
 総務部人事課の男性社員Ａと、研究部研究第２課の女性社員Ｂの交わしたチャットのログである。%K%P
-A record of an online conversation between employee 'Man A' in the Personnel Section of the General Affairs Division and 'Woman B' in the Second Section of the Research Division.%K%P
+A record of an online conversation between employee 「Man A」 in the Personnel Section of the General Affairs Division and 「Woman B」 in the Second Section of the Research Division.%K%P
 0x2EF4
 Ａ＞しかし驚いたよなー%K%N
 A > But it really was a shock.%K%N

@@ -1320,7 +1320,7 @@ Coco「Well, good night...」%K%P
 Coco「Onii-chan...」%K%P
 0x199C
 『お兄ちゃん！？』――問い返す間もなく、ポッドは閉じてしまった。%K%P
-'Onii-chan!?'―Before I could say anything in reply, the lid had closed.%K%P
+「Onii-chan!?」―Before I could say anything in reply, the lid had closed.%K%P
 0x19A8
 圧搾空気の弾ける音……。%K%P
 The sound of compressing air filled the room...%K%P
@@ -1500,7 +1500,7 @@ The world in 2017...%K%N
 A laboratory at the bottom of the ocean...%K%N
 0x1CFC
 取り残された『視点』――。%K%N
-All that remained there was a 'perspective'...%K%N
+All that remained there was a 「perspective」...%K%N
 0x1D08
 ボクとホクトは考え始めた。%K%O
 Hokuto and I started to think.%K%O
@@ -1527,7 +1527,7 @@ We might have been that way ever since the beginning.%K%N
 My thoughts were the same as Hokuto's, and Hokuto's thoughts were the same as mine...%K%N
 0x1D9C
 『ボクであること』と『ホクトであること』には、そうたいして差はないんじゃないのか？%K%O
-'Being me' and 'being Hokuto' weren't all that different.%K%O
+「Being me」 and 「being Hokuto」 weren't all that different.%K%O
 0x1DB4
 ボク達は前からひとつだったし、これからも、ひとつ……。%K%N
 We had been one since long ago and would continue to be one...%K%N
@@ -1626,7 +1626,7 @@ There was no way she could have known Hokuto.%K%P
 Hokuto hadn't even been born in that world...%K%P
 0x1F6C
 『１７年後の未来から語りかけているんだ』なんて言ったって、とても信じてもらえるとは思えなかった。%K%P
-And she wouldn't have believed us if we had told her, 'We're talking to you from seventeen years in the future.'%K%P
+And she wouldn't have believed us if we had told her, 「We're talking to you from seventeen years in the future.」%K%P
 0x1F78
 ホクトは言った。%K%P
 Hokuto told her...%K%P

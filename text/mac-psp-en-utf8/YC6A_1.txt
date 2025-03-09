@@ -21,7 +21,7 @@ Pieces of the world flowed by without context...%K%P
 I was simply an onlooker of everything in the world.%K%P
 0xB4
 そう……なす術もなく見守るだけの……『視点』に過ぎなかった。%K%P
-Yes... I couldn't take part, I could only watch... I was nothing more than a 'perspective'.%K%P
+Yes... I couldn't take part, I could only watch... I was nothing more than a 「perspective」.%K%P
 0xEC
 ココ「うーっ……うーっ……ううっ……」%K%P
 Coco「Agh... Ah... Uugh...」%K%P
@@ -63,7 +63,7 @@ You「Ku-Kuranari... what are we going to do!?」%K%P
 Takeshi「Wait! Don't panic! Everyone just calm down!」%K%P
 0x190
 ひとつの『視点』と化したぼくには、感情というものが無かった。%K%P
-I was only a 'perspective' and had no real sense of feeling.%K%P
+I was only a 「perspective」 and had no real sense of feeling.%K%P
 0x19C
 視覚と意識のリンクは途絶え、ただ目の前で繰り広げられる光景を、淡々と見つめ続けることしかできなかった。%K%P
 The link between my sight and consciousness had been broken, and all I could do was continually gaze at the scene unfolding before me.%K%P
@@ -321,7 +321,7 @@ Researcher「Uuugh...」%K%P
 The researcher let out a dry gasp and opened his eyes slightly.%K%P
 0x784
 武「なあ、あんたは下の研究所のスタッフなのか？」%K%P
-Takeshi「Hey, are you one of the staff from the research facility?」%K%P
+Takeshi「Hey, are you one of the staff from the research%Nfacility?」%K%P
 0x790
 研究員「あ、ああ……そうだ……」%K%P
 Researcher「Y-yeah... That's right...」%K%P
@@ -1209,10 +1209,10 @@ Wait...%K%P
 No, that wasn't true.%K%P
 0x1ACC
 ふたりの視線の先には――『ぼく』がいた。%K%P
-Both of their lines of sight were pointed at―'me'.%K%P
+Both of their lines of sight were pointed at―「me」.%K%P
 0x1AD8
 武とつぐみは、今――『ぼく』のことを見ているのだ。%K%P
-Takeshi and Tsugumi were looking at―'me' right then.%K%P
+Takeshi and Tsugumi were looking at―「me」 right then.%K%P
 0x1AEC
 武「いや……」%K%P
 Takeshi「Uh...」%K%P
@@ -1566,7 +1566,7 @@ Curé...%K%P
 Tsugumi had gone beyond the normal human capability...%K%P
 0x224C
 つぐみは、自分はその中でも特殊だと言っていた。%K%P
-She had mentioned that she was 'special'.%K%P
+She had mentioned that she was 「special」.%K%P
 0x2258
 遺伝子の組み替えが全身に渡って順調に行われた例は、恐らく、非常に稀なのだろう。%K%P
 Successful cases of genetic manipulation were probably exceedingly rare.%K%P
@@ -1734,7 +1734,7 @@ Tsugumi「And thought that you want to die?」%K%P
 Takeshi「No.」%K%P
 0x2588
 ここはどこなんだろう？――『ぼく』は思った。%K%P
-Where was this?―'I' wondered.%K%P
+Where was this?―「I」 wondered.%K%P
 0x2594
 誰かの心の中……？%K%P
 Was I inside someone...?%K%P
@@ -1779,7 +1779,7 @@ My vision returned gradually...%K%P
 The scene spread out gradually before me...%K%P
 0x26B0
 相変わらず『ぼく』は、心を失ったまま……。%K%P
-But 'I' had still lost my center...%K%P
+But 「I」 had still lost my center...%K%P
 0x26BC
 殺伐とした気配、重くよどんだ空気を感じながらも、やはり、何も思うことはない。%K%P
 Other than a sense of impending disaster and the stagnant, heavy air around me, I could feel nothing else.%K%P
@@ -1791,7 +1791,7 @@ Look.%K%P
 Stare intently.%K%P
 0x26E0
 『なぜ、見ているのか？』……一瞬、そんな疑問がよぎったが、すぐにかき消されてしまった。%K%P
-'Why do you even bother looking?'―was a doubt that crept through my mind, but it faded quickly.%K%P
+「Why do you even bother looking?」―was a doubt that crept through my mind, but it faded quickly.%K%P
 0x26EC
 ぼくにできることは、世界をありのままに受け入れるだけ……。%K%P
 All I COULD do was to watch the events in the world as they passed by...%K%P
@@ -2052,7 +2052,7 @@ The three infected people were lying, worn out, on their beds.%K%N
 Tsugumi said something briefly to Takeshi and went back to LeMU.%K%N
 0x2C44
 『チャミを連れて来るから』――それが、つぐみの残した言葉だった。%K%N
-'I'm going to go get Chami and bring him back'―were the words she left him with.%K%N
+「I'm going to go get Chami and bring him back」―were the words she left him with.%K%N
 0x2C50
 武は小さく頷いて、まぶたを閉じた。%K%O
 Takeshi nodded weakly and closed his eyes.%K%O
@@ -2184,7 +2184,7 @@ Takeshi「It's a small electric submersible...」%K%P
 The submarine was in a separate sealed sector attached to IBF.%K%P
 0x2EEC
 飽和潜水仕様の中性浮力潜水艇だ。%K%P
-The specifications said it was a 'neutral buoyancy' miniature submarine for saturation diving.%K%P
+The specifications said it was a 「neutral buoyancy」 miniature submarine for saturation diving.%K%P
 0x2EF8
 遠隔操作で、こちらのプールに呼べるらしい。%K%P
 The important thing was that it could be brought over to the pool by remote control.%K%P
@@ -2709,7 +2709,7 @@ You「The last password and name, T.Y....」%K%P
 You「TANAKA YOICHI...」%K%P
 0x3B90
 ここはどこなんだろう？――『ぼく』は思った。%K%P
-Where was this?―'I' wondered.%K%P
+Where was this?―「I」 wondered.%K%P
 0x3B9C
 誰かの心の中……？%K%P
 Was I inside someone...?%K%P
@@ -3207,7 +3207,7 @@ You「I found an exit we can escape through!」%K%P
 You was screaming.%K%P
 0x4700
 『脱出口が見つかったの』……ぼくは同じ言葉を何度も頭の中でつぶやいた。%K%P
-'I found an exit'... I said those words to myself over and over.%K%P
+「I found an exit」... I said those words to myself over and over.%K%P
 0x470C
 その意味が理解できるようになるまで、数秒かかった。%K%P
 It took me a few seconds to grasp the enormity of those words.%K%P
@@ -3375,7 +3375,7 @@ Kaburaki screamed at us from up above.%K%P
 I briefly saw the backs of Sara and Tsugumi, who were running up ahead.%K%P
 0x4B10
 『もう少し』――桑古木の言葉に胸が躍った。%K%P
-The meaning of Kaburaki's words, 'Just a little more', hit me.%K%P
+The meaning of Kaburaki's words, 「Just a little more」, hit me.%K%P
 0x4B1C
 （もう少し……もう少しでここから出られるのだ……）%K%P
 (Just a little more... and we can escape from here...)%K%P

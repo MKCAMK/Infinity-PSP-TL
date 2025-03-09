@@ -357,13 +357,13 @@ You「Don't you think it'd just be faster to ask Mayo?」%K%P
 I thought back briefly to the sight of myself in that mirror.%K%P
 0x7C4
 ぼくはあのとき『自分の顔』が『自分の顔』ではないように思えて錯乱した。%K%P
-I had been so confused at that time because 'my face' didn't look like 'my face'.%K%P
+I had been so confused at that time because 「my face」 didn't look like 「my face」.%K%P
 0x7D0
 同じように、沙羅から名前を聞き出したら……%K%P
 If the same thing happened when Sara told me my name...%K%P
 0x7DC
 ぼくは『自分の名前』を『自分の名前』ではないように思って取り乱してしまうかもしれない。%K%P
-I was afraid that I might feel like 'my name' wasn't really 'my name' and end up all confused again.%K%P
+I was afraid that I might feel like 「my name」 wasn't really 「my name」 and end up all confused again.%K%P
 0x7E8
 少し、怖かった。%K%P
 To tell the truth, it was a bit scary.%K%P
@@ -747,7 +747,7 @@ I knew her hand was touching my shoulder, but I couldn't feel it.%K%P
 I was dizzy and about to faint.%K%P
 0xEC0
 『倒れてしまえばどんなにか楽なのに』と、ぼくはそのとき思った。%K%P
-I thought to myself, 'This'll probably be a lot easier if I just faint.'%K%P
+I thought to myself, 「This'll probably be a lot easier if I just faint.」%K%P
 0xECC
 けれど、ぼくの両足はしっかりとフロアを踏みしめこらえた。%K%P
 But both my feet stood soundly on the floor, and I braced myself.%K%P
@@ -831,7 +831,7 @@ You「Hokuto, huh?」%K%P
 You「So that's what he's called...」%K%P
 0x1090
 優「言われてみれば、確かに『ホクト』って感じかも」%K%P
-You「Now that you mention it, he does look kind of like a 'Hokuto' to me.」%K%P
+You「Now that you mention it, he does look kind of like a 「Hokuto」 to me.」%K%P
 0x109C
 少年「ホクト……」%K%P
 Kid「Hokuto...」%K%P
@@ -861,10 +861,10 @@ Kid「Hokuto... Hokuto... Hokuto...」%K%P
 My hunch had been right.%K%P
 0x1110
 『ホクト』という名前に聞き覚えはない。%K%P
-I had never heard the name 'Hokuto' before.%K%P
+I had never heard the name 「Hokuto」 before.%K%P
 0x111C
 『ホクト』――それがぼくの名前とはとても思えなかった。%K%P
-'Hokuto'―That couldn't possibly be my name.%K%P
+「Hokuto」―That couldn't possibly be my name.%K%P
 0x1128
 実感が、まるでわかない。%K%P
 It didn't feel real to me at all.%K%P
@@ -873,7 +873,7 @@ It didn't feel real to me at all.%K%P
 But Sara wouldn't lie to me.%K%P
 0x1140
 ぼくは『ホクト』という名前なんだ、きっと。%K%P
-So I figured 'Hokuto' must be my name.%K%P
+So I figured 「Hokuto」 must be my name.%K%P
 0x114C
 ホクト……ホクト……ホクト……。%K%P
 Hokuto... Hokuto... Hokuto...%K%P
@@ -909,7 +909,7 @@ I had five fingers...%K%P
 Everything seemed out of place to me.%K%P
 0x11D0
 本当の自分を、取り戻せずにいた。%K%P
-I still couldn't regain the 'real' me.%K%P
+I still couldn't regain the 「real」 me.%K%P
 0x11DC
 手の平を見ているのはぼくなのか？　ぼくではない誰かなのか？%K%P
 (Is this me who's looking at my palm? Or is it somebody that isn't me?)%K%P
@@ -957,7 +957,7 @@ Takeshi「I'm not laughing!」%K%P
 I tried to keep a straight face... but the corners of my mouth started to twitch.%K%P
 0x13A4
 『チャミちゃん、チャミちゃん、ご飯でちゅよぉ〜♪』と、猫なで声で話しかけるつぐみの図が、頭に浮かんで離れなかった。%K%P
-I could just imagine Tsugumi baby-talking to it―'Chami-chan, Chami-chan, it's din-din time〜'%K%P
+I could just imagine Tsugumi baby-talking to it―「Chami-chan, Chami-chan, it's din-din time〜」%K%P
 0x13B0
 つぐみ「ああああああああ……」%K%P
 Tsugumi「Aaaaaah...!」%K%P
@@ -1335,7 +1335,7 @@ Pipi「*Bow-wow*!」%K%P
 After a while...%K%P
 0x1B10
 俺とつぐみは、ココに向かって『パパやママと呼ばないように』切々と訴えた。%K%P
-Tsugumi and I had begged Coco not to call us 'daddy' or 'mommy'.%K%P
+Tsugumi and I had begged Coco not to call us 「daddy」 or 「mommy」.%K%P
 0x1B1C
 納得させるまでに３時間ばかりかかった。%K%P
 It took us about three hours to finally convince her.%K%P
@@ -1344,7 +1344,7 @@ It took us about three hours to finally convince her.%K%P
 It was three times more exhausting to convince Coco than to dash with You on my back AND swim 102 meters underwater.%K%P
 0x1B34
 ちなみに、ココがつぐみのことを『ママ』と呼ぶことにした理由は……%K%P
-Incidentally, Coco's reason for calling Tsugumi 'mommy' was...%K%P
+Incidentally, Coco's reason for calling Tsugumi 「mommy」 was...%K%P
 0x1B40
 ココ「ママのいない人は、ママっぽい人のことを、ママって呼んでもいいんだよ？」%K%P
 Coco「A girl who doesn't have a mommy can call somebody who reminds her of mommy 'Mommy.'」%K%P

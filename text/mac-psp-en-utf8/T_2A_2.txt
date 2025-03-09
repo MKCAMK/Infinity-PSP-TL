@@ -183,7 +183,7 @@ Takeshi「Oh, there she is.」%K%P
 Takeshi「What are you doing here?」%K%P
 0x464
 『ＨＩＭＭＥＬ』と書かれた扉――%K%P
-'HIMMEL' was written on the door...%K%P
+「HIMMEL」 was written on the door...%K%P
 0x470
 つぐみは何をするわけでもなく、その扉の前にたたずんでいた。%K%P
 Tsugumi wasn't really doing anything. She just stood in front of the door.%K%P
@@ -492,7 +492,7 @@ Finally...%K%P
 I found a room where the corridor played out.%K%P
 0xBF8
 『ＨＩＭＭＥＬ』と書かれた扉――%K%P
-'HIMMEL' was written on the door...%K%P
+「HIMMEL」 was written on the door...%K%P
 0xC04
 武「いや、ここじゃないよなぁ」%K%P
 Takeshi「No, this isn't it.」%K%P

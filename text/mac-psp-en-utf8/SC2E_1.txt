@@ -99,10 +99,10 @@ Still, I had an odd sense that something was not quite right.%K%P
 I felt that until just a while before, I was not really myself.%K%P
 0x3AC
 『ぼくではないぼく』%K%P
-'A me that is not me'.%K%P
+「A me that is not me」.%K%P
 0x3B8
 『ぼくではないぼく』って……誰……？%K%P
-'A me that is not me'. Who... could... that be?%K%P
+「A me that is not me」. Who... could... that be?%K%P
 0x3C4
 なんでそんな疑問を抱いたりするのだろうか？%K%P
 I wondered why those doubts were creeping into my mind.%K%P
@@ -138,13 +138,13 @@ I started with what I knew...%K%P
 It seemed that we were all playing kick the can in the dark.%K%P
 0x448
 そして、武を含めて他のみんなが逃げ出して行ったことを考えれば、鬼になっているのはこのぼくであるということがわかる。%K%P
-And thinking back on the fact that Takeshi and everyone had run away, it seemed clear that I was 'it'.%K%P
+And thinking back on the fact that Takeshi and everyone had run away, it seemed clear that I was 「it」.%K%P
 0x454
 いや、待て待て……。%K%P
 No, wait...%K%P
 0x460
 今はヤミオニのことなんか、どうでもいいんじゃないのか？%K%P
-All I could think was, 'Who cared about the game now?'%K%P
+All I could think was, 「Who cared about the game now?」%K%P
 0x46C
 そんなことよりも、この奇妙な感覚の原因を探る方が先なんじゃ……？%K%P
 I thought it was more important to find out the cause of that strange feeling.%K%P
@@ -183,7 +183,7 @@ I left the conference room and started my search.%K%P
 Strangely, my doubts and sense of unease lessened with time.%K%P
 0x520
 ぼくは平然と、当たり前のようにヤミオニへと没頭し始めていた。%K%P
-I calmly went about devoting myself to being 'it'.%K%P
+I calmly went about devoting myself to being 「it」.%K%P
 0x568
 ほとんど光の無い真っ暗闇の中で、ぼくは次から次へとみんなを捜し出していった。%K%P
 In the darkness, almost completely devoid of light, I went place to place looking for everyone.%K%P
@@ -351,13 +351,13 @@ Sara「...Who are you?」%K%P
 She grilled me about how I knew, but I had no answer.%K%P
 0xA30
 ぼくは、彼女の名前が『松永沙羅』であるということを知っていた。%K%P
-Still, I knew her name was 'Matsunaga Sara'.%K%P
+Still, I knew her name was 「Matsunaga Sara」.%K%P
 0xA3C
 知っていたにもかかわらず、なぜ知っていたのかはわからなかった。%K%P
 Even though I knew it, I still didn't know how I knew it.%K%P
 0xA48
 『沙羅』という言葉は、無意識のうちに、口からこぼれ出したものだった。%K%P
-The word 'Sara' just unconsciously popped out of my mouth.%K%P
+The word 「Sara」 just unconsciously popped out of my mouth.%K%P
 0xAF8
 その後……。%K%N
 After that...%K%N
@@ -525,7 +525,7 @@ I knew something there was no reason I should have known...%K%P
 I didn't know why, but I knew her name.%K%P
 0xFA0
 『八神ココ』――。%K%P
-'Yagami Coco'.%K%P
+「Yagami Coco」.%K%P
 0xFAC
 そしてココは、ぼくが目を離している隙に、音も無く消えてしまったのだった。%K%P
 And then, the moment I took my eyes off of her, Coco disappeared without a sound.%K%P
@@ -621,7 +621,7 @@ Coco disappeared in the spray.%K%P
 Then night came, and we decided to play kick the can in the dark.%K%N
 0x1348
 武が鬼になり、何度かそれを繰り返した後、いつしかぼくが鬼をするはめになってしまい……。%K%N
-Takeshi was 'it' again and again, but finally, my turn came.%K%N
+Takeshi was 「it」 again and again, but finally, my turn came.%K%N
 0x1354
 闇の中で次々とみんなを見つけ出していったんだけど……。%K%O
 I had found everyone, one after another, in the dark...%K%O

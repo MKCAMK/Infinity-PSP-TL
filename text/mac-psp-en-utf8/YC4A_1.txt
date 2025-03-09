@@ -252,7 +252,7 @@ She handed me the pendant and the lighter, and I stared closely at the image.%K%
 It went without saying, but he seemed to look like a normal person.%K%P
 0x610
 太陽星人なるものがいかなる容貌しているのかはわからないが、ここに浮かび上がっているのは明らかに地球人の顔だった。%K%P
-I had no idea how people from the sun were supposed to look, but the man in the image at least had the face of an 'earthling'.%K%P
+I had no idea how people from the sun were supposed to look, but the man in the image at least had the face of an 「earthling」.%K%P
 0x61C
 どこにでもいそうな、極一般的な青年の容姿に見える。%K%P
 He looked like any ordinary young man to me.%K%P
@@ -474,7 +474,7 @@ It was a man who I hadn't even seen before...%K%P
 Looking at it that closely, I realized that a piece from the mirror was missing.%K%P
 0xA50
 『親指の傷跡』……『埋め込まれたカケラ』……。%K%P
-A scar on my thumb... 'A piece to be filled in'...%K%P
+A scar on my thumb... 「A piece to be filled in」...%K%P
 0xA5C
 ぼくは薄々と、事の真相に気づき始めていた。%K%P
 I started to suspect the truth of the matter.%K%P
@@ -921,7 +921,7 @@ Takeshi「Coco!」%K%P
 There was no way I was going to let that outburst go.%K%P
 0x1388
 『本気で怒るぞ！』という視線をココに投げつける。%K%P
-I gave her a look that said, 'I'm about to get angry.'%K%P
+I gave her a look that said, 「I'm about to get angry.」%K%P
 0x1394
 するとココは……%K%P
 And Coco responded with...%K%P
@@ -1008,10 +1008,10 @@ Takeshi「Piiiii!」%K%P
 Dear Father and Mother... how is everything with you?%K%P
 0x1664
 ぼくは今、水深３４ｍの海の中で、ひよこごっこをしています。%K%P
-I'm currently playing 'chicks' 34 meters under the surface of the ocean.%K%P
+I'm currently playing 「chicks」 34 meters under the surface of the ocean.%K%P
 0x1670
 ひよこごっことは、ルイ１４世の考案した格調高い遊戯で、いかにひよこになり切れるかによって勝敗を決めるゲームのことです。%K%P
-Playing 'chicks' is an elegant game developed by Louis XIV. You win if you can mimic a chick the best.%K%P
+Playing 「chicks」 is an elegant game developed by Louis XIV. You win if you can mimic a chick the best.%K%P
 0x167C
 腕を羽のようにパタパタさせたり、通路の隅に落ちているゴミをついばんだり……%K%P
 You flap your arms like wings and peck at garbage that has fallen in the corridors...%K%P
@@ -1020,7 +1020,7 @@ You flap your arms like wings and peck at garbage that has fallen in the corrido
 Sometimes, you even trip and fall like a cute newborn baby chick to compete to see who looks the most like a chick.%K%P
 0x1694
 鳴き声は基本的に『ぴ』と『よ』と『ん』の３文字だけによって構成されていますが、上級者になると……%K%P
-The sounds used basically consist of three sounds ('pi', 'yo', and 'n'), but as you get better...%K%P
+The sounds used basically consist of three sounds (「pi」, 「yo」, and 「n」), but as you get better...%K%P
 0x16A0
 ココ「パサパサッ……パサパサッ……」%K%P
 Coco「Flap flap... flap flap...」%K%P
@@ -1032,7 +1032,7 @@ Coco「Furu-furu-furu... Poso...」%K%P
 ...You can use imaginative sounds and even express yourself with various little chickadee gestures.%K%P
 0x16C4
 僕はまだ初心者ですから『ぴ』と『よ』と『ん』だけしか使うことはできません。%K%P
-Since I'm only a beginner, I can only use 'pi', 'yo', and 'n' so far.%K%P
+Since I'm only a beginner, I can only use 「pi」, 「yo」, and 「n」 so far.%K%P
 0x16D0
 もっと頑張って、早く１匹前のひよこに……いいえ、お父さんとお母さんと同じような立派な軍鶏になりたいです。%K%P
 But I'm working hard to become a full-fledged chick... No, I mean a full-fledged chicken like Mom and Dad.%K%P
@@ -1068,7 +1068,7 @@ Sometimes, she even flips her hips up in the air.%K%P
 She is the epitome of chick-ness...%K%P
 0x1754
 お父さん！　お母さん！　先生は日本一の、いえ、世界一の『ひよ真似師』に違いありません！%K%P
-Father! Mother! My teacher is the best 'chick-mimic' in Japan... No, in the world!%K%P
+Father! Mother! My teacher is the best 「chick-mimic」 in Japan... No, in the world!%K%P
 0x1760
 武「ああ、だからと言って先生……」%K%P
 Takeshi「Oh, but teacher...」%K%P
@@ -1089,13 +1089,13 @@ It's because I spoke the human language.%K%P
 Takeshi「Piyoyoyoyon...」%K%P
 0x17A8
 今のはひよこ語で『ごめんなさい』という意味です。%K%P
-That meant 'I'm sorry' in chick language.%K%P
+That meant 「I'm sorry」 in chick language.%K%P
 0x17B4
 武「ぴよよよよん……ぴよよよよん……」%K%P
 Takeshi「Piyoyoyoyon... Piyoyoyoyon...」%K%P
 0x17C0
 きっとお父さんとお母さんは『水深３４ｍの海の中でひよこごっこに興じる我が息子の姿』を、うまく想像することができないでしょう。%K%P
-It must be very hard for you two to imagine your own son playing 'chicks' 34 meters under the ocean.%K%P
+It must be very hard for you two to imagine your own son playing 「chicks」 34 meters under the ocean.%K%P
 0x17CC
 あるいはそれ以前の問題として、信じてもらえていないかもしれませんね？%K%P
 Or I suppose you probably don't even believe that I'm doing this in the first place.%K%P
@@ -1128,7 +1128,7 @@ Takeshi「Piyopiyo...」%K%P
 Coco「Piyopiyo...」%K%P
 0x185C
 こうして、ひよこごっこは終わった。%K%P
-That was the end of our game of 'chicks.'%K%P
+That was the end of our game of 「chicks.」%K%P
 0x1868
 言うまでもなく、結果はココの勝ちだった。%K%P
 Needless to say, Coco won the game.%K%P
@@ -1170,7 +1170,7 @@ Her hand was so very small...%K%P
 I thought to myself.%K%P
 0x1968
 あんなにも俺のことを『パパ』と呼びたがっていたココ……。%K%P
-Coco had wanted so badly to call me 'daddy'...%K%P
+Coco had wanted so badly to call me 「daddy」...%K%P
 0x1974
 今はすっかり、そのことは忘れてしまったらしい。%K%P
 But it seemed that she had forgotten all about it.%K%P
@@ -1506,7 +1506,7 @@ Sara「Onii-chan...」%K%P
 Kid「What is it, Sara?」%K%P
 0x2148
 沙羅がぼくのことを『お兄ちゃん』と呼び始めてから、かれこれ１２時間以上経つ。%K%P
-It had been over twelve hours since Sara started calling me 'onii-chan'.%K%P
+It had been over twelve hours since Sara started calling me 「onii-chan」.%K%P
 0x2154
 沙羅のまぶたからは、ようやく赤みが失せてきた。%K%P
 The swelling of Sara's eyelids had just started to fade.%K%P
@@ -1533,7 +1533,7 @@ Maybe I had just pretended not to realize, when, in fact, I really had...%K%O
 It was strange, but I didn't quite understand the details of my own mental state.%K%N
 0x2218
 なぜなら、気づかないフリをさせていたのは、ぼくではないぼくだったような気がするからだ。%K%N
-Because it almost felt like the person who had caused me to pretend was a 'me' that wasn't really 'me'.%K%N
+Because it almost felt like the person who had caused me to pretend was a 「me」 that wasn't really 「me」.%K%N
 0x2224
 いずれにせよ……%K%N
 If that made sense...%K%N
@@ -1584,7 +1584,7 @@ As we expected, the piece removed from my thumb had matched the missing part in 
 What was more, when we exposed the piece to infrared light, an image of the same man in the pendant came up.%K%N
 0x2314
 空の話によると、ホログラムは写真とは異なり『部分に全体が宿る』のだと言う。%K%O
-According to Sora, unlike a regular picture, a hologram 'shows the whole image in a part'.%K%O
+According to Sora, unlike a regular picture, a hologram 「shows the whole image in a part」.%K%O
 0x232C
 写真の場合、切り取られた一部分を見ただけでは全体像を想像することは絶対に不可能だが……%K%N
 For a picture, it would be impossible to see the whole image with just one piece of it...%K%N
@@ -1596,7 +1596,7 @@ But with a hologram, it was possible to generate the whole image even from a tin
 That was one of the special properties of a hologram.%K%O
 0x235C
 ところで、ここで『赤外線視力（ＩＮＦＲＡＶＩＳＩＯＮ）』というものについて少しだけ語らなければならない。%K%N
-To explain a little bit about 'infrared vision (infravision)'...%K%N
+To explain a little bit about 「infrared vision (infravision)」...%K%N
 0x2368
 通常、人間の可視領域は、光の波長が３８０ｎｍ〜７８０ｎｍの間だけに限られている。%K%N
 Usually, the visible range for humans was limited to light with a wavelength of between 380 to 780 nanometers.%K%N
@@ -1620,7 +1620,7 @@ Infrared rays were emitted from all objects that had temperature. Stronger light
 By sensing those things, you could tell the location and shape of an object in the darkness.%K%O
 0x23D4
 そして……驚くべきことに、ぼくと沙羅にはこの『赤外線視力』があるのだと言う。%K%N
-Surprisingly, Sara and I were told that we had the ability called 'infrared vision'.%K%N
+Surprisingly, Sara and I were told that we had the ability called 「infrared vision」.%K%N
 0x23E0
 ぼくらにとっては当たり前のことだから、温度が見えない状況とか、まったくの暗闇といった光景を、ぼくらはうまく想像することができない。%K%N
 Since we had that ability naturally, it was difficult for us to imagine not being able to sense the temperature or to imagine complete darkness.%K%N
@@ -1701,7 +1701,7 @@ We had spent a long half-day talking about all sorts of things.%K%P
 The memories of our childhood...%K%P
 0x25B0
 その中にはもちろん、あの『病院』での出来事も含まれている。%K%P
-Then our time at the 'hospital' as well, of course.%K%P
+Then our time at the 「hospital」 as well, of course.%K%P
 0x25BC
 ぼくが約束を守らなかったこと……守れなかったこと……。%K%P
 How I hadn't kept my promise... Couldn't keep my promise...%K%P
@@ -1725,7 +1725,7 @@ But...%K%P
 Sara and I didn't need many words anymore.%K%P
 0x2610
 『お兄ちゃん』『なに？　沙羅』――たったそれだけの会話で、ふたりはわかり合えた。%K%P
-'Onii-chan.' 'Yes, Sara?'―With just those words, we could understand each other.%K%P
+「Onii-chan.」 「Yes, Sara?」―With just those words, we could understand each other.%K%P
 0x2624
 沙羅はぼくの肩に頭を乗せ、まぶたをそっと閉じた。%K%P
 Sara put her head on my shoulder and closed her eyes gently.%K%P

@@ -54,7 +54,7 @@ It was as if it were in a dream.%K%P
 The man-made island, Insel Null, rose above the waves of the water. It seemed like a place entirely removed from reality.%K%P
 0x2A0
 その様相は、ユートピア（楽園）という言葉さえ連想させる。%K%P
-The word 'utopia' might have sprung to mind to describe it.%K%P
+The word 「utopia」 might have sprung to mind to describe it.%K%P
 0x2AC
 実際、この浮島の船着場にある石碑には、このような文字が刻まれていた。%K%P
 Actually, on a slab of rock on the boat dock of the floating island were carved the words:%K%P
@@ -429,7 +429,7 @@ Park Staff「From the top, these are called Insel Null, Erster Boden, Zweiter St
 Park Staff「In terms of a normal building, you might think of it as a structure with a ground floor extending down to a%Nthree-story basement.」%K%P
 0xBE0
 係員「インゼル・ヌルとは、ここ……浮島のことです」%K%P
-Park Staff「Insel Null, where we are at the moment, is a floating island.」%K%P
+Park Staff「Insel Null, where we are at the moment, is a floating%Nisland.」%K%P
 0xBEC
 係員「洋上に浮かんだ巨大な人工島……」%K%P
 Park Staff「It is an immense man-made island floating on the ocean's surface...」%K%P
@@ -603,7 +603,7 @@ Park Staff「The reason for raising the air pressure inside is...」%K%P
 Park Staff「That it is essential to make LeMU safe for everyone.」%K%P
 0xF38
 係員「皆さんは、これから海の中へと潜って行くわけですが……」%K%P
-Park Staff「All of you are going to be far under the sea very soon...」%K%P
+Park Staff「All of you are going to be far under the sea very%Nsoon...」%K%P
 0xF44
 係員「ここで、ちょっぴり不安に思われている方も、中にはいらっしゃるのではないでしょうか？」%K%P
 Park Staff「Are any of you here feeling just a little bit nervous?」%K%P
@@ -768,7 +768,7 @@ Takeshi「Not exactly, but something like that.」%K%P
 Takeshi「I'll head down the elevator and take a look around.」%K%P
 0x123C
 ココ「さっきの係のひとに相談してみたら？」%K%P
-Coco「How about checking with that lady who was just talking?」%K%P
+Coco「How about checking with that lady who was just%Ntalking?」%K%P
 0x1248
 武「お、それもそうだな。ちょっとすいません……」%K%P
 Takeshi「Oh, good idea. One sec...」%K%P

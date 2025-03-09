@@ -450,10 +450,10 @@ Kid「Probably.」%K%P
 You「That's why there's a screen where the computer asks, 'Hey, who's trying to look at this?'」%K%P
 0x928
 言いながら優は、マウスカーソルでウィンドウの中にある『Ｎａｍｅ』と書かれた入力欄をクルクルと囲った。%K%P
-As she spoke, You used the mouse to click on the box for 'Name'.%K%P
+As she spoke, You used the mouse to click on the box for 「Name」.%K%P
 0x934
 そこには『ＹＵＫＩＥ　ＴＡＮＡＫＡ』と書き込まれている。%K%P
-Inside the box were written the words 'YUKIE TANAKA'.%K%P
+Inside the box were written the words 「YUKIE TANAKA」.%K%P
 0x940
 優「当然、私の名前だとアクセスできるわけないから、こうやってアクセス可能な人間の名前を偽って入力するわけね」%K%P
 You「Of course, there's no way I could access the system using my name, so I'm using someone else's name to get me in.」%K%P
@@ -471,7 +471,7 @@ You「Obviously, the people who programmed this aren't stupid. So, to prevent fa
 You「The screen then says, 'If you really are Tanaka Yukie, please show me your password.'」%K%P
 0x97C
 画面のカーソルは、名前入力欄の下にある『Ｐａβｗｏｒｔ』と書かれた欄を囲む。%K%P
-You then used the mouse to circle around the box for 'Password'.%K%P
+You then used the mouse to circle around the box for 「Password」.%K%P
 0x988
 そこはまだ、空欄である。%K%P
 It was still blank.%K%P
@@ -525,7 +525,7 @@ Tap, tap, tap...%K%P
 「*%T010*%T005*%T020*%T004*%T005*%T015*%T003*」%K%P
 0xAB4
 打ち込まれた文字は、第３者に知られないように、画面上では『＊』で表示されるとのことだ。%K%P
-The digits she typed in were blocked out by '*' so that anybody watching wouldn't know what the word was.%K%P
+The digits she typed in were blocked out by 「*」 so that anybody watching wouldn't know what the word was.%K%P
 0xADC
 カタッ！%K%P
 Tap!%K%P
@@ -636,7 +636,7 @@ Kid「Lemurian continent?」%K%P
 That reminded me, Sora had said that LeMU had been named after a continent called Lemuria.%K%P
 0xD40
 ドリットシュトックのアトラクションにも『レムリア遺跡』なんてのがあるし……。%K%P
-On Dritter Stock, there was an attraction called the 'Lemurian Ruins'...%K%P
+On Dritter Stock, there was an attraction called the 「Lemurian Ruins」...%K%P
 0xD4C
 優「レムリアっていうのは、紀元前２億年〜５千万年に存在したと言われる幻の大陸のこと」%K%P
 You「Lemuria is the phantom continent that is said to have existed from 200 million to 50 million years B.C.」%K%P
@@ -903,13 +903,13 @@ Only we people and higher vertebrates had lost the third eye over a long process
 Therefore, we had two light sensitive eyeballs, one on each side, instead.%K%N
 0x12BC
 この退化した第３の眼は『松果体（ショウカタイ）』と%N呼ばれている。%K%O
-The lost third eye was called a 'pineal body'.%K%O
+The lost third eye was called a 「pineal body」.%K%O
 0x12D4
 なお、松果体は内分泌器官としては機能しており、%N我々の脳の内部で、太古の時代と変わることなく、%N今でも２４時間のリズムを刻みつづけている。%K%N
 It had functioned in the brain for eons and was responsible for secreting hormones that helped carve out our 24-hour rhythm.%K%N
 0x12E0
 俗に言う『体内時計』とは、この松果体あっての能力なのである。%K%O
-What we called our 'internal clocks' existed because of the pineal body.%K%O
+What we called our 「internal clocks」 existed because of the pineal body.%K%O
 0x1310
 少年「盲腸とか、指の間の水掻きとかと同じってこと？」%K%P
 Kid「You mean like an appendix or the webbing between fingers?」%K%P
@@ -1272,7 +1272,7 @@ You「This was inside my mom's machine.」%K%P
 %FSWhen I went in, I saw that her computer was on.%FE%V%N
 0x1AD8
 %FS中をのぞくと、ご丁寧に『パスワード』とタイトルの%Nつけられたテキストファイルがあってね。%FE%V%N
-%FSLooking at it, I saw that there was a text file entitled 'Password'.%FE%V%N
+%FSLooking at it, I saw that there was a text file entitled 「Password」.%FE%V%N
 0x1AE4
 %FS開いてみると、たった１行……%FE%V%N
 %FSWhen I opened it, it was only one line...%FE%V%N
@@ -1854,7 +1854,7 @@ You「I don't care about that now.」%K%P
 You「Anyway, as long as I have the password, things are fine.」%K%P
 0x27F8
 『海月の虚空に秋涼し時鳥』%K%P
-'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.%K%P
+「The empty fall sky%NA single cuckoo calls out%NBrings a chill to me」.%K%P
 0x2804
 優「たぶんこれは、正岡子規の俳句『水無月の虚空に涼し時鳥』をもじったものだと思う」%K%P
 You「I think it's a variation of Masaoka Shiki's 'The empty June sky... A single cuckoo calls out... Brings a chill to me'.」%K%P
