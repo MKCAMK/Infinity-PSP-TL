@@ -1404,7 +1404,7 @@ Tsugumi「What's that noise...?」%K%P
 Takeshi「No clue...」%K%P
 0x1D98
 武「おい、そっちの画面になんか出てるぞ？」%K%P
-Takeshi「Hey, something just came up on that screen over there.」%K%P
+Takeshi「Hey, something just came up on that screen over%Nthere.」%K%P
 0x1DA4
 つぐみの背後にあるモニターが明滅している。%K%P
 The monitor behind Tsugumi started blinking.%K%P
@@ -2013,7 +2013,7 @@ My field of vision filled with white bubbles heading up toward the heavens.%K%P
 I closed my eyes slowly.%K%P
 0x32A0
 そのとき、俺はここにいることを初めて知った。%K%P
-That was when I realized for the first time that I was 「there」.%K%P
+That was when I realized for the first time that I was%N「there」.%K%P
 0x32AC
 俺はここにいる。%K%P
 「I'm here.」%K%P
