@@ -1,5 +1,6 @@
 #!/bin/sh
 
+./_cleanup.sh && \
 ./cleanup.sh && \
 ./compile.sh && \
 ./unpack-iso.sh && \

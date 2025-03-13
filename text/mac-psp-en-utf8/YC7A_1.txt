@@ -429,7 +429,7 @@ Tsugumi「What's that noise...?」%K%P
 Takeshi「No clue...」%K%P
 0xEA4
 武「おい、そっちの画面になんか出てるぞ？」%K%P
-Takeshi「Hey, something just came up on that screen over there.」%K%P
+Takeshi「Hey, something just came up on that screen over%Nthere.」%K%P
 0xEB0
 つぐみの背後にあるモニターが明滅している。%K%P
 The monitor behind Tsugumi started blinking.%K%P
