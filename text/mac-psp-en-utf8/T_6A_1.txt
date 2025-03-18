@@ -489,7 +489,7 @@ Takeshi「And let's have a good time...」%K%P
 Takeshi「Oh, that's right. Does anybody want beer...?」%K%P
 0xB44
 優「え？　あ、あの……」%K%P
-You「What? B-but...」%K%P
+You「What? B-But...」%K%P
 0xB50
 優はおずおずと手をあげて言った。%K%P
 You raised her hand timidly.%K%P
@@ -579,7 +579,7 @@ You slammed her fist into her palm excitedly and looked about the room.%K%P
 You「What about Tsugumi?」%K%P
 0xD24
 優「って、あ、あれ……？」%K%P
-You「Tsugumi? H-huh...?」%K%P
+You「Tsugumi? H-Huh...?」%K%P
 0xD30
 優「いないね……つぐみ」%K%P
 You「She's not here...」%K%P
@@ -609,7 +609,7 @@ You「There's nothing we can do.」%K%P
 You「She'll be back soon, right, Kuranari?」%K%P
 0xDC4
 武「あ、ああ……」%K%P
-Takeshi「Y-yeah...」%K%P
+Takeshi「Y-Yeah...」%K%P
 0xDE0
 優「それじゃ皆、宴会の準備よろしくぅ！」%K%P
 You「Okay, everyone, let's get ready to party!」%K%P
@@ -627,7 +627,7 @@ Sora「Yes!」%K%P
 Pipi「*Woof*!」%K%P
 0xE38
 武「お、おう！」%K%P
-Takeshi「Y-yeah!」%K%P
+Takeshi「Y-Yeah!」%K%P
 0xE44
 ココ「宴会しよう♪　そうしよう♪」%K%P
 Coco「Let's party〜 Party〜」%K%P
@@ -699,7 +699,7 @@ Takeshi「.........」%K%P
 Coco「Huh, Takepyon? Are you fed up with me?」%K%P
 0xFB4
 武「い、いや……」%K%P
-Takeshi「N-no...」%K%P
+Takeshi「N-No...」%K%P
 0xFC8
 ココ「なんて不謹慎なお子様なんでしょう！　ああ嘆かわしい！　親の顔が見てみたいわぁ〜ん！　とか」%K%P
 Coco「You think I'm just a silly girl, don't you? Ah! So sad! But you want to see what kind of parents could have raised me.」%K%P

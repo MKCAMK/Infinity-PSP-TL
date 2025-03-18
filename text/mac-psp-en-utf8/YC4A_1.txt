@@ -357,7 +357,7 @@ Sara「And that I was sent to Earth on some kind of mission... I used to imagine
 Sara「Looking back on it now, I know those were really just childish fantasies.」%K%P
 0x810
 少年「ちょ、ちょっと待ってよ、沙羅」%K%P
-Kid「W-wait a second, Sara.」%K%P
+Kid「W-Wait a second, Sara.」%K%P
 0x81C
 少年「ここは水深５１ｍの海の中だよ？　太陽なんてどこにもっ」%K%P
 Kid「We're 51 meters underwater. Where is the sun...?」%K%P
@@ -1260,7 +1260,7 @@ You「I don't know, it's just...」%K%P
 Coco「Oh, I know! We can play another game right now!」%K%P
 0x1B60
 優「い、今から！？」%K%P
-You「N-now!?」%K%P
+You「N-Now!?」%K%P
 0x1B6C
 優「いいよいいよ、ほんとに……」%K%P
 You「No, no, no, it's alright, really...」%K%P
@@ -1284,7 +1284,7 @@ Coco「Oh well.」%K%P
 Coco「I suppose I'll wait until tomorrow then.」%K%P
 0x1BE0
 優「あ、明日！？」%K%P
-You「To-tomorrow!?」%K%P
+You「To-Tomorrow!?」%K%P
 0x1BF4
 ココ「わぁ〜い、わぁ〜い、明日はなっきゅとひよこごっこだぁ〜い♪」%K%P
 Coco「Yahoo! I get to play 'chicks' with Nakkyu tomorrow〜」%K%P

@@ -243,7 +243,7 @@ Takeshi「If you said you didn't want it, I don't know what I'd...」%K%P
 Tsugumi began to walk away without listening as I was talking.%K%P
 0x56C
 武「お、おいっ、ちょっと待てよ！」%K%P
-Takeshi「H-hey! Hold on a second!」%K%P
+Takeshi「H-Hey! Hold on a second!」%K%P
 0x580
 俺は咄嗟につぐみの肩を掴んだ。%K%P
 I suddenly grabbed Tsugumi's shoulder.%K%P
@@ -297,7 +297,7 @@ I instinctively glanced up at the ceiling.%K%P
 Listening carefully, I heard a sound like the rumble of thunder far away.%K%P
 0x6F8
 武「な、なんだ……？」%K%P
-Takeshi「Wh-what...?」%K%P
+Takeshi「Wh-What...?」%K%P
 0x704
 武「なんなんだよ……おい、まさか」%K%P
 Takeshi「What is happening...? It couldn't be...」%K%P
@@ -606,7 +606,7 @@ Instinctively, I looked to the ceiling.%K%P
 Listening carefully, I heard a sound like the rumble of thunder far away.%K%P
 0xEB8
 武「な、なんだ……？」%K%P
-Takeshi「Wh-what...?」%K%P
+Takeshi「Wh-What...?」%K%P
 0xEC4
 武「なんなんだよ……おい、まさか」%K%P
 Takeshi「What's happening? It couldn't be...」%K%P
@@ -1245,7 +1245,7 @@ Help Tsugumi
 Look for Sora first
 0x1D50
 武「わ、わかった……」%K%P
-Takeshi「A-alright...」%K%P
+Takeshi「A-Alright...」%K%P
 0x1D5C
 武「付き合ってやるよ」%K%P
 Takeshi「I'll go with you.」%K%P
@@ -1284,7 +1284,7 @@ Coco「Roger! Ten-four that!」%K%P
 Coco clicked her heels together and gave a kind of salute.%K%P
 0x1E20
 武「い、いやだね……」%K%P
-Takeshi「N-no...」%K%P
+Takeshi「N-No...」%K%P
 0x1E2C
 武「俺は行きたくない」%K%P
 Takeshi「I don't want to go.」%K%P

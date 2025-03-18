@@ -207,7 +207,7 @@ You「Just a bit ago, when I was walking around Zweiter Stock with Mayo... we bu
 Kid「So you're stuck here too, huh?」%K%P
 0x4E4
 空「え、ええ……」%K%P
-Sora「Y-yes...」%K%P
+Sora「Y-Yes...」%K%P
 0x4F0
 武「そういうこと」%K%P
 Takeshi「That's right.」%K%P
@@ -288,7 +288,7 @@ With her glare eating into me, I couldn't take even one step forward.%K%P
 There was no way I could talk with her.%K%P
 0x660
 （な、なんでだろう……？）%K%P
-(Wh-what that's all about...?)%K%P
+(Wh-What that's all about...?)%K%P
 0x66C
 （何をそんなに怒ってるんだろう……？）%K%P
 (Why is she so angry...?)%K%P
@@ -351,7 +351,7 @@ Sara「.........」%K%P
 Kid「Hey!」%K%P
 0x798
 沙羅「えっ？　な、なに？」%K%P
-Sara「Huh? Wh-what?」%K%P
+Sara「Huh? Wh-What?」%K%P
 0x7A4
 少年「平気？」%K%P
 Kid「You alright?」%K%P
@@ -471,7 +471,7 @@ Sora「First, the first floor, Erster Boden...」%K%P
 Sora「Is completely flooded.」%K%P
 0xA80
 優「か、完全に！？」%K%P
-You「Co-completely!?」%K%P
+You「Co-Completely!?」%K%P
 0xA8C
 空「はい。隔壁もすべて下ろされ、通路を通行することはできません」%K%P
 Sora「Yes. All of the partitions have dropped, and it isn't possible to get through any of its corridors.」%K%P
@@ -1011,7 +1011,7 @@ Sora「Normally, one's memory returns within a few days or months.」%K%P
 Sora「Hypnotism and electric shock therapy are also said to be effective means...」%K%P
 0x173C
 少年「デ、デンゲキ……」%K%P
-Kid「E-electric shock...」%K%P
+Kid「E-Electric shock...」%K%P
 0x1750
 空「ふふふっ、安心して下さい」%K%P
 Sora「Hahaha. Relax.」%K%P
@@ -1149,7 +1149,7 @@ My temples were throbbing.%K%P
 My face was distorted with the pain.%K%P
 0x1AF4
 優「ちょ、ちょっと待った！」%K%P
-You「Wa-wait a second!」%K%P
+You「Wa-Wait a second!」%K%P
 0x1B08
 沙羅「？」%K%P
 Sara「?」%K%P
@@ -1431,7 +1431,7 @@ The room went quiet...%K%P
 We all looked at each other.%K%P
 0x2664
 優「う、うん……そうだね……」%K%P
-You「Ye-yeah... She's right...」%K%P
+You「Ye-Yeah... She's right...」%K%P
 0x2670
 口を開いたのは優だった。%K%P
 The first one to open her mouth was You.%K%P
@@ -1518,7 +1518,7 @@ Tsugumi「Can you please not touch me...?」%K%P
 Tsugumi stopped walking and said it in a small voice.%K%P
 0x28F0
 少年「ご、ごめん……」%K%P
-Kid「S-sorry...」%K%P
+Kid「S-Sorry...」%K%P
 0x28FC
 謝って、彼女の肩から手をどける。%K%P
 Apologizing, I took my hand from her shoulder.%K%P
@@ -1599,7 +1599,7 @@ Kid「Those guys? Join up?」%K%P
 Tsugumi「You were just talking about amnesia, right?」%K%P
 0x2A98
 少年「う、うん……」%K%P
-Kid「Y-yeah...」%K%P
+Kid「Y-Yeah...」%K%P
 0x2AAC
 つぐみ「じゃあ、なんで奴らのことを知ってるの？」%K%P
 Tsugumi「So how do you know those guys?」%K%P
@@ -1839,7 +1839,7 @@ Sora「You are almost correct.」%K%P
 Sora「Impressive, Kid-san. Are you sure you're suffering from amnesia?」%K%P
 0x3018
 少年「えっ？　う、うん……たぶん……」%K%P
-Kid「Huh? Y-yeah... Pretty sure...」%K%P
+Kid「Huh? Y-Yeah... Pretty sure...」%K%P
 0x302C
 空「他に、補足すべきことはありません」%K%P
 Sora「I have nothing left to add.」%K%P
@@ -1971,7 +1971,7 @@ Only You remained silent.%K%P
 It looked like she was awkwardly avoiding my gaze.%K%P
 0x332C
 空「と、とにかくそれは……はずさないで下さい」%K%P
-Sora「A-anyway... Please just don't take them off.」%K%P
+Sora「A-Anyway... Please just don't take them off.」%K%P
 0x3338
 少年「だから、理由は？」%K%P
 Kid「Why not? What reason is there...?」%K%P

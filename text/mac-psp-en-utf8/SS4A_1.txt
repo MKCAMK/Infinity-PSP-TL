@@ -294,7 +294,7 @@ Kid「I mean...」%K%P
 Kid「It looks like you're sitting there grinning at yourself.」%K%P
 0x658
 沙羅「ち、ちがうよぉ！」%K%P
-Sara「N-no I'm not!」%K%P
+Sara「N-No I'm not!」%K%P
 0x664
 少年「沙羅って、意外とナルシスト、なの？」%K%P
 Kid「I guess you've got a bit of a narcissistic side?」%K%P
@@ -384,7 +384,7 @@ Kid「So this is a hologram pendant?」%K%P
 Sara「Huh?」%K%P
 0x814
 沙羅「そ、そうだけど……」%K%P
-Sara「Y-yes, but...」%K%P
+Sara「Y-Yes, but...」%K%P
 0x83C
 そのホログラムは人間の姿を映し出していた。%K%P
 The mirror showed a person.%K%P

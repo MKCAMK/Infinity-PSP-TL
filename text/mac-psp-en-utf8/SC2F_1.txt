@@ -204,7 +204,7 @@ Kid「Underage means you can't drink alcohol. It's the law.」%K%P
 Takeshi「So you're saying you won't break any law?」%K%P
 0x76C
 少年「う、うん……」%K%P
-Kid「Y-yeah...」%K%P
+Kid「Y-Yeah...」%K%P
 0x778
 武「だけどおまえ、タツタサンドも食ったし、コーラも飲んだよな？　金も払わずに」%K%P
 Takeshi「But you ate sandwiches and drank cola, right? And you didn't pay anything.」%K%P
@@ -285,7 +285,7 @@ Takeshi「What? Hey! Hold on a sec!」%K%P
 Takeshi「Kid... You've got no memory, right?」%K%P
 0x900
 少年「う、うん……」%K%P
-Kid「R-right...」%K%P
+Kid「R-Right...」%K%P
 0x90C
 武「だったらどうして、自分が『１６歳だ』って、知ってるんだ？」%K%P
 Takeshi「So... how do you know that you're sixteen?」%K%P
@@ -489,7 +489,7 @@ His face contorted in a way that chilled my spine. He clutched his hair with bot
 His body shook, wracked with convulsions.%K%P
 0xE48
 武「な、なんだ！　どうしたんだよ！　少年！」%K%P
-Takeshi「Wh-what is it? What's going on!? Kid!」%K%P
+Takeshi「Wh-What is it? What's going on!? Kid!」%K%P
 0xE54
 彼は頬に爪を立て、首筋を掻き毟り、下顎を突き出して舌を垂らした。%K%P
 He put his fingernails on his cheek and harshly scratched the flesh around his neck. His lower jaw protruded forward, drooping downward as his tongue hung out.%K%P
@@ -531,7 +531,7 @@ Kid「No... No... No...」%K%P
 Kid「It's not me... It's not me... It's not me...」%K%P
 0xEF0
 武「ちょ、ちょっと待ってろ！」%K%P
-Takeshi「J-just hold on, Kid!」%K%P
+Takeshi「J-Just hold on, Kid!」%K%P
 0xEFC
 武「今、みんな呼んで来るからな！」%K%P
 Takeshi「I'll go get everyone!」%K%P

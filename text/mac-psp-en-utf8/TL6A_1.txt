@@ -432,13 +432,13 @@ I quickly put my hand to my nose.%K%P
 My upper lip was wet with something.%K%P
 0x894
 優「ち、ちょっと？　大丈夫？」%K%P
-You「He-hey? Are you okay?」%K%P
+You「He-Hey? Are you okay?」%K%P
 0x8A0
 心配そうに優が顔を覗き込んだ。%K%P
 You looked worriedly at my face.%K%P
 0x8AC
 武「だ、大丈夫、大丈夫……」%K%P
-Takeshi「I-it's fine, it's fine...」%K%P
+Takeshi「I-It's fine, it's fine...」%K%P
 0x8B8
 上を向いたまま鼻の下を拭い、俺は答える。%K%P
 I looked up and wiped under my nose as I replied.%K%P
@@ -450,7 +450,7 @@ Takeshi「I wasn't thinking anything sexual! Absolutely! Positively!」%K%P
 You「...I don't know if I should believe you.」%K%P
 0x8E4
 武「バ、バカ。こんな時に、そんなわけないだろ」%K%P
-Takeshi「A-as if! Not at a time like this.」%K%P
+Takeshi「A-As if! Not at a time like this.」%K%P
 0x8F0
 出血はなかなか止まらない。%K%P
 My nose wouldn't stop bleeding.%K%P
@@ -519,7 +519,7 @@ You「Hang in there!」%K%P
 Takeshi「Huh... Quit shaking me, it's making me feel sick.」%K%P
 0xB9C
 優「ご、ごめんっ……」%K%P
-You「S-sorry...」%K%P
+You「S-Sorry...」%K%P
 0xBA8
 武「いや、大丈夫。大丈夫だって、優」%K%P
 Takeshi「Hey, I'm fine. Don't worry, You.」%K%P
@@ -615,7 +615,7 @@ Takeshi「.........」%K%P
 You「Kuranari, I want you to get scanned too.」%K%P
 0xDE4
 武「な、なんでだよっ！」%K%P
-Takeshi「Wh-why!?」%K%P
+Takeshi「Wh-Why!?」%K%P
 0xDF0
 優「スキャンを受けてよ……頼むから」%K%P
 You「Just let me scan you... please.」%K%P
@@ -636,7 +636,7 @@ Tsugumi gently took the Kid off of the L-MRI examination table and forcefully pu
 Pressing on both of my shoulders, she forced me down on the table.%K%P
 0xE48
 武「そ、そんなことしなくたって……わかったよ、受けるよ」%K%P
-Takeshi「Y-you don't have to do that... Fine, I'll let you check me.」%K%P
+Takeshi「Y-You don't have to do that... Fine, I'll let you check me.」%K%P
 0xE54
 俺はつぐみの腕を振り払った。%K%P
 I brushed Tsugumi's hands off of me.%K%P
@@ -648,7 +648,7 @@ Takeshi「See? I'm lying down now.」%K%P
 Tsugumi「Okay... You, please start the scan.」%K%P
 0xE80
 優「う、うん」%K%P
-You「O-okay.」%K%P
+You「O-Okay.」%K%P
 0xEBC
 コントロールパネルを優が操作する。%K%P
 You started operating the control panel.%K%P
@@ -663,7 +663,7 @@ After a while...%K%P
 You「The scan's finished...」%K%P
 0xF10
 武「け、結果はっ」%K%P
-Takeshi「Wh-what's it say?」%K%P
+Takeshi「Wh-What's it say?」%K%P
 0xF1C
 自分の声が僅かに上擦っているのがわかる。%K%P
 My voice cracked when I asked the question.%K%P
@@ -672,7 +672,7 @@ My voice cracked when I asked the question.%K%P
 You「.........」%K%P
 0xF3C
 武「な、なんとか言えよ優」%K%P
-Takeshi「A-at least say something, You.」%K%P
+Takeshi「A-At least say something, You.」%K%P
 0xF48
 優「結果は……」%K%P
 You「The results are...」%K%P
@@ -732,7 +732,7 @@ Putting my hand on a wall, I somehow held myself up.%K%P
 Kid「We're in trouble, huh...?」%K%P
 0x1178
 武「ま、まあな……」%K%P
-Takeshi「Y-you can say that again...」%K%P
+Takeshi「Y-You can say that again...」%K%P
 0x118C
 少年「例のアンプルがあれば、オレンジのアンプル……うっ」%K%P
 Kid「If only we had that serum... The orange one... agh.」%K%P
@@ -744,7 +744,7 @@ The Kid pressed his hand to his face.%K%P
 As he wiped his mouth, I noticed a thin trail of blood there.%K%P
 0x11B0
 武「そ、そうだ、アンプルだ……。ＩＢＦでＴＢを扱ってたのなら、あれもここにあるはずだ」%K%P
-Takeshi「Y-yeah, the serum... If they've been handling TB here at IBF, they should have some of that.」%K%P
+Takeshi「Y-Yeah, the serum... If they've been handling TB here at IBF, they should have some of that.」%K%P
 0x11BC
 武「あれを使えば、症状は軽減される……」%K%P
 Takeshi「If we use that, then the symptoms should lessen...」%K%P
@@ -801,7 +801,7 @@ Takeshi「!?」%K%P
 Pipi「*Woof*! *Woof*!」%K%P
 0x12E8
 武「ま、またお前！　どこから……？」%K%P
-Takeshi「H-hey! Where'd you get...?」%K%P
+Takeshi「H-Hey! Where'd you get...?」%K%P
 0x12F4
 優「どうしたの？　……あっ！」%K%P
 You「What's wrong...? Ah!」%K%P
@@ -855,7 +855,7 @@ He nodded.%K%P
 Takeshi「.........」%K%P
 0x13C0
 武「と、とにかく注射だ……」%K%P
-Takeshi「W-well, we need to take these immediately...」%K%P
+Takeshi「W-Well, we need to take these immediately...」%K%P
 0x13D4
 武「すまん優、準備をしてくれ。注射がまともにできるのはお前だけだ」%K%P
 Takeshi「Sorry, You, but get these ready. You're the only one who knows how to give shots.」%K%P
@@ -864,7 +864,7 @@ Takeshi「Sorry, You, but get these ready. You're the only one who knows how to 
 Tsugumi「I found some syringes over here, You.」%K%P
 0x13EC
 優「わ、わかった！」%K%P
-You「O-okay!」%K%P
+You「O-Okay!」%K%P
 0x1400
 俺達は床のアンプルをかき集めて、ベッドの上に並べた。%K%P
 We gathered all of the cartridges of serum from the floor and put them on the bed.%K%P
@@ -957,7 +957,7 @@ Her coughing finally stopped.%K%P
 But her hands wouldn't go still.%K%P
 0x15FC
 武「ど、どうしたんだよ。調子悪いのか？　代わりに注射してやろうか？」%K%P
-Takeshi「Wh-what's wrong? You aren't feeling well? You want me to give the shot to you?」%K%P
+Takeshi「Wh-What's wrong? You aren't feeling well? You want me to give the shot to you?」%K%P
 0x1618
 優「え、や、やだよう……」%K%P
 You「Huh, n-no way...」%K%P
@@ -1335,7 +1335,7 @@ Was I actually hearing someone's voice over the speaker!?%K%P
 I hurried over to the terminal and removed You's hands from it, taking over the control panel.%K%P
 0x1D20
 武「も、もしもしっ！」%K%P
-Takeshi「H-hello!」%K%P
+Takeshi「H-Hello!」%K%P
 0x1D2C
 武「こちらＩＢＦ診療室……どうぞ」%K%P
 Takeshi「This is the IBF infirmary... over!」%K%P
@@ -1410,7 +1410,7 @@ Mission Control「However, if something goes wrong...」%K%P
 Mission Control「There should be a small deep-exploration submarine left in the research facility. I hate to make you do this, but I want you to escape to that area.」%K%P
 0x1E4C
 武「ま、万一、って？　どういうことだ？」%K%P
-Takeshi「S-something goes wrong...? Wh-what do you mean...?」%K%P
+Takeshi「S-Something goes wrong...? Wh-What do you mean...?」%K%P
 0x1E58
 管制官「ＬｅＭＵの隔壁強度は、既に限界を超えている」%K%P
 Mission Control「LeMU's partition strength threshold is already being exceeded.」%K%P
@@ -1437,7 +1437,7 @@ Click...%K%P
 The communications cut out suddenly.%K%P
 0x1EB8
 武「あっ、おい！　ま、待ってくれ！」%K%P
-Takeshi「Ah, hey! W-wait a sec!」%K%P
+Takeshi「Ah, hey! W-Wait a sec!」%K%P
 0x1EC4
 パネルの通話キーを何度も叩いたが、応答はなかった。%K%P
 I hit the call button repeatedly, but there was no answer.%K%P
@@ -1590,7 +1590,7 @@ Takeshi「Okay, then I want you to get back to the examination room right away. 
 And saying that, I headed for the lift.%K%P
 0x24A4
 つぐみ「ち、ちょっと武！　どこに行くつもり！？」%K%P
-Tsugumi「W-wait, Takeshi! Where are you going!?」%K%P
+Tsugumi「W-Wait, Takeshi! Where are you going!?」%K%P
 0x24B0
 武「上だよ。ＬｅＭＵだ」%K%P
 Takeshi「Up. To LeMU.」%K%P
@@ -1599,7 +1599,7 @@ Takeshi「Up. To LeMU.」%K%P
 Takeshi「We've still got an hour. I'm going to go get Sora!」%K%P
 0x24D0
 つぐみ「ま、待って！　無茶よ！」%K%P
-Tsugumi「W-wait! That's crazy!」%K%P
+Tsugumi「W-Wait! That's crazy!」%K%P
 0x24DC
 つぐみは追いかけてきて、俺の腕を掴んだ。%K%P
 Tsugumi chased after me and grabbed onto my arm.%K%P
@@ -1683,7 +1683,7 @@ I realized how much I had missed that voice.%K%P
 I waved to Sora as she appeared outside the window.%K%P
 0x28AC
 空「な、なにやってるんですか、こんなところで！」%K%P
-Sora「Wh-what are you doing here!?」%K%P
+Sora「Wh-What are you doing here!?」%K%P
 0x28B8
 武「そんなの、聞くまでもないだろ？」%K%P
 Takeshi「Well, it's obvious, isn't it? I came back.」%K%P
@@ -1758,7 +1758,7 @@ Takeshi「I need to know how much time!」%K%P
 Sora「If I hurry... twelve hours.」%K%P
 0x29D8
 武「じゅ、じゅうにじかんっ！？　バカ言うな！　そんなに待ってられるか！」%K%P
-Takeshi「Tw-twelve hours!? We don't have that long!」%K%P
+Takeshi「Tw-Twelve hours!? We don't have that long!」%K%P
 0x29E4
 空「血液中に溶け込んだ窒素を排出しないと、減圧症になってしまいます」%K%P
 Sora「If we don't dissolve the nitrogen in your blood, you will get decompression sickness.」%K%P
@@ -2412,7 +2412,7 @@ Sora「I fiddled around a bit with the RSD laser levels...」%K%P
 Sora「And so I seared your eye...」%K%P
 0x3D60
 武「な、何！？」%K%P
-Takeshi「Wha-what!?」%K%P
+Takeshi「Wha-What!?」%K%P
 0x3D6C
 空「本来ならば、できないことですが……」%K%P
 Sora「Actually, it's not something I should be able to do...」%K%P
@@ -2928,7 +2928,7 @@ Takeshi「What? What did you say?」%K%P
 Sora「5, 4, 3...」%K%P
 0x4850
 武「おい！　ち、ちょっと待て！！」%K%P
-Takeshi「Hey! Wai-wait!」%K%P
+Takeshi「Hey! Wai-Wait!」%K%P
 0x485C
 空「２・１……」%K%P
 Sora「2, 1...」%K%P
@@ -2976,7 +2976,7 @@ Takeshi「Okay... You don't have to feel so bad. I'm fine. You just scared the c
 Takeshi「I'm alright. I'm fine. Look, see, I'm alive and everything.」%K%P
 0x4944
 空「は、はい……」%K%P
-Sora「Al-alright...」%K%P
+Sora「Al-Alright...」%K%P
 0x4950
 武「そう簡単にくたばってたまるか。やることがまだ残ってるんだ！」%K%P
 Takeshi「You can't kill me off that easy. I've still got things to do!」%K%P
@@ -3183,7 +3183,7 @@ Takeshi「Well, you made it easy for me to come back here without being discover
 Takeshi「I didn't know what I'd do if you wouldn't let me in the room.」%K%P
 0x4D60
 空「ふ、ふざけないでください！」%K%P
-Sora「S-stop fooling around!」%K%P
+Sora「S-Stop fooling around!」%K%P
 0x4D6C
 空は、怒鳴った。%K%P
 She yelled.%K%P

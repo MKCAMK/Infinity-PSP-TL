@@ -516,7 +516,7 @@ You「That's what I mean...」%K%P
 Suddenly, You's voice level dropped.%K%P
 0xB6C
 武「な、なんだよ……」%K%P
-Takeshi「Wh-what's that...?」%K%P
+Takeshi「Wh-What's that...?」%K%P
 0xB80
 優「倉成も、おかしいと思わない？」%K%P
 You「Come on, Kuranari. You think it's strange too, right?」%K%P
@@ -537,7 +537,7 @@ You「There might be a data communication link up and running somewhere.」%K%P
 Takeshi「What?」%K%P
 0xBC8
 武「だ、だったら空はなんで俺達に黙ってるんだよ、そのことを！？」%K%P
-Takeshi「Wh-why would Sora keep this from us?」%K%P
+Takeshi「Wh-Why would Sora keep this from us?」%K%P
 0xBDC
 優「ここから先は、私の推測だけど……」%K%P
 You「What I'm going to say is only speculation, but...」%K%P

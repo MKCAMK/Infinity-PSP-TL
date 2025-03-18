@@ -228,7 +228,7 @@ Kid「...What?」%K%P
 The girl just stared at my face.%K%P
 0x5C4
 少年「い、行こう！」%K%P
-Kid「L-let's go!」%K%P
+Kid「L-Let's go!」%K%P
 0x5D8
 ぼくは少女の手を引いて、ぐんぐんと歩き出した。%K%P
 I took her hand and tugged it as I began to walk.%K%P
@@ -285,7 +285,7 @@ Takeshi「.........」%K%P
 Sora「.........」%K%P
 0x750
 少年「ど、どうしたの、みんな？」%K%P
-Kid「Wh-what's the matter with everyone?」%K%P
+Kid「Wh-What's the matter with everyone?」%K%P
 0x75C
 少年「なんで驚かないの？」%K%P
 Kid「Why aren't you surprised?」%K%P
@@ -324,7 +324,7 @@ Sara「?」%K%P
 I looked back at everyone.%K%P
 0x844
 少年「ち、ちがうんだよ！　確かに見たんだ！」%K%P
-Kid「Th-this isn't right! I swear, I saw her!」%K%P
+Kid「Th-This isn't right! I swear, I saw her!」%K%P
 0x850
 少年「ついさっきまで、ぼくが手をつないでたのは沙羅じゃなくて……」%K%P
 Kid「We were walking here hand in hand. It wasn't Sara...」%K%P
@@ -348,7 +348,7 @@ Kid「Sara... Why are you lying...?」%K%P
 Sara「Huh? What're you talking about? You're the one who's lying.」%K%P
 0x8BC
 少年「そんな……そんな……」%K%P
-Kid「Wh-what...?」%K%P
+Kid「Wh-What...?」%K%P
 0x8C8
 少年「クジラ部屋で、あの女の子はヒザを抱えて座ってたんだ」%K%P
 Kid「The girl was in the Cosmic Whale room... She was sitting down, hugging her knees.」%K%P

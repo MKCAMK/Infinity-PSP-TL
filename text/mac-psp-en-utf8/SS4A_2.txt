@@ -36,7 +36,7 @@ Surprised, I looked up, and there was Takeshi.%K%P
 Takeshi「You looking for something?」%K%P
 0x1C4
 少年「う、うん……」%K%P
-Kid「Y-yeah...」%K%P
+Kid「Y-Yeah...」%K%P
 0x1D0
 少年「実は……」%K%P
 Kid「Actually...」%K%P
@@ -75,7 +75,7 @@ Kid「It's right here.」%K%P
 I peered into the mirror.%K%P
 0x278
 少年「あ、あれっ！？」%K%P
-Kid「Wh-what?」%K%P
+Kid「Wh-What?」%K%P
 0x284
 少年「消えてる……」%K%P
 Kid「He's gone...」%K%P
@@ -111,7 +111,7 @@ Takeshi「And since the pendant is something that's important to Sara.」%K%P
 Takeshi「I'll help you look for the broken piece.」%K%P
 0x328
 少年「あ、ありがとう」%K%P
-Kid「Th-thanks.」%K%P
+Kid「Th-Thanks.」%K%P
 0x33C
 武「負けるなよぉ〜、少年！」%K%P
 Takeshi「First to find it wins, Kid!」%K%P
@@ -141,13 +141,13 @@ Takeshi「What're you talking about?」%K%P
 Takeshi「You're gonna pay me, not Sara!」%K%P
 0x3C0
 少年「ど、どうして？」%K%P
-Kid「Wh-why?」%K%P
+Kid「Wh-Why?」%K%P
 0x3D4
 武「うぃ〜うぃ〜、くのくのぉ〜、しらばっくれてもダメだぞ〜い」%K%P
 Takeshi「Heeey, heeey, don't play innocent with me, champ.」%K%P
 0x3E0
 少年「……は、はい？」%K%P
-Kid「...Wh-what?」%K%P
+Kid「...Wh-What?」%K%P
 0x3FC
 武「全部おまえのテガラにするつもりなんだろ？」%K%P
 Takeshi「You don't think I'd let you take all the credit, do you?」%K%P

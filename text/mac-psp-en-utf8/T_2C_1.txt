@@ -105,7 +105,7 @@ Takeshi「You want me to help you set up the cards?」%K%P
 Coco「Yes please〜」%K%P
 0x27C
 つぐみ「ち、ちょっと待ちなさいよ……」%K%P
-Tsugumi「W-wait a minute...」%K%P
+Tsugumi「W-Wait a minute...」%K%P
 0x288
 優「そうよ、いったいなんなの？」%K%P
 You「What in the world are you talking about?」%K%P
@@ -552,7 +552,7 @@ Takeshi「I meant to toss them as if I was handing them over... That's weird... 
 Sora「Excuse me. Kuranari-san, there is nothing strange about it.」%K%P
 0xCD4
 武「で、でもっ！　コーラ、コーラ吹いてる、かかってる……服は大丈夫か？」%K%P
-Takeshi「B-but! The cola blew up, and... is your clothing alright?」%K%P
+Takeshi「B-But! The cola blew up, and... is your clothing alright?」%K%P
 0xCE8
 空「はい」%K%P
 Sora「Yes.」%K%P
@@ -603,7 +603,7 @@ You「I just had to watch because it was so funny, Kuranari...」%K%P
 You「You really don't listen to anything...」%K%P
 0xE28
 武「な、何をだよ」%K%P
-Takeshi「Wh-what are you talking about?」%K%P
+Takeshi「Wh-What are you talking about?」%K%P
 0xE34
 俺はまだドキドキしていた。%K%P
 I was still confused.%K%P
@@ -675,7 +675,7 @@ You「Kuranari, you're not even warm.」%K%P
 Tsugumi「...Don't be stupid.」%K%P
 0xFC4
 武「じ、じゃあ、なんだよ。さっさと教えてくれよ……」%K%P
-Takeshi「W-well then, tell me what she is...」%K%P
+Takeshi「W-Well then, tell me what she is...」%K%P
 0xFE0
 見回せば、うろたえているのは俺だけだった。%K%P
 Looking around, I saw that I was the only one who was confused.%K%P
@@ -858,7 +858,7 @@ Tsugumi「Heehee... You really are quite amazing.」%K%P
 Tsugumi laughed a little.%K%P
 0x13C4
 武「な、なぁつぐみ、どういうことだ？」%K%P
-Takeshi「H-hey, Tsugumi, whaddya think you're doing?」%K%P
+Takeshi「H-Hey, Tsugumi, whaddya think you're doing?」%K%P
 0x13D0
 俺は耐え切れずに訊いた。%K%P
 I had to ask.%K%P

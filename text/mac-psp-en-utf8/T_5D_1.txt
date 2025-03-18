@@ -141,7 +141,7 @@ Sora「Why does something as inconvenient as me exist...?」%K%P
 Sora「I don't know anymore...」%K%P
 0x278
 武「ふ、不便なんかじゃ……ないさ！」%K%P
-Takeshi「H-hey, you aren't... inconvenient!」%K%P
+Takeshi「H-Hey, you aren't... inconvenient!」%K%P
 0x284
 俺は叫んだ。%K%P
 I shouted that.%K%P
@@ -198,7 +198,7 @@ Yes
 No
 0x380
 武「あ、あるよ」%K%P
-Takeshi「Y-yes, I have.」%K%P
+Takeshi「Y-Yes, I have.」%K%P
 0x38C
 武「２０年そこら生きてれば、時には嘘もついたことがある」%K%P
 Takeshi「In the 20 years I've been alive, of course I've lied.」%K%P
@@ -213,7 +213,7 @@ Sora「How many times have you lied?」%K%P
 Takeshi「I don't have a clue. It's not like I've taken notes.」%K%P
 0x3C4
 武「な、ないよ」%K%P
-Takeshi「N-no.」%K%P
+Takeshi「N-No.」%K%P
 0x3D0
 空「本当に？　今までの人生で、一度も？」%K%P
 Sora「Really? In your whole life, not even once?」%K%P
@@ -372,7 +372,7 @@ Takeshi「.........」%K%P
 I couldn't really grasp what Sora was getting at.%K%P
 0x67C
 武「あ、あれ……！？」%K%P
-Takeshi「Wh-what...!?」%K%P
+Takeshi「Wh-What...!?」%K%P
 0x688
 急に空間は、白く染まった。%K%P
 The space around me suddenly grew white.%K%P
@@ -381,7 +381,7 @@ The space around me suddenly grew white.%K%P
 My head hurt...%K%P
 0x6A0
 武「ど、どうしたんだ……？」%K%P
-Takeshi「Wh-what happened...?」%K%P
+Takeshi「Wh-What happened...?」%K%P
 0x6AC
 光が眩しくて、目を開けていられない。%K%P
 The light was so bright that I couldn't open my eyes.%K%P
@@ -390,7 +390,7 @@ The light was so bright that I couldn't open my eyes.%K%P
 Sora「I'm adjusting the light. Bear with me for a while.」%K%P
 0x6C4
 武「お、ＯＫ……」%K%P
-Takeshi「O-okay...」%K%P
+Takeshi「O-Okay...」%K%P
 0x6D0
 くらくらと目眩を感じながら、俺は海の中心に立っていた。%K%P
 Feeling slightly dizzy, I stood in the middle of the ocean.%K%P
@@ -453,7 +453,7 @@ Sora「I wonder how it could have happened...?」%K%P
 Sora「Do you know why?」%K%P
 0x7D0
 武「い、いや……俺に訊かれてもわからないぞ」%K%P
-Takeshi「N-no... How should I know?」%K%P
+Takeshi「N-No... How should I know?」%K%P
 0x7DC
 空「そうですか……？」%K%P
 Sora「Really...?」%K%P
@@ -666,7 +666,7 @@ There was a painful pounding deep in my chest.%K%P
 Sora「Kuranari-san, you got on the ride with Komachi-san, right?」%K%P
 0xB44
 武「あ、ああ……」%K%P
-Takeshi「Y-yeah...」%K%P
+Takeshi「Y-Yeah...」%K%P
 0xB50
 空「何してたんですか？」%K%P
 Sora「What were you doing?」%K%P
@@ -948,7 +948,7 @@ Sora「Abnormalities detected in her treatment of information related to Kuranar
 Sora listed off that information without emotion.%K%P
 0x101C
 空「い、異常なんかじゃありませんっ！」%K%P
-Sora「I-it isn't abnormal!」%K%P
+Sora「I-It isn't abnormal!」%K%P
 0x1028
 空は言い募る。%K%P
 Sora pressed back.%K%P

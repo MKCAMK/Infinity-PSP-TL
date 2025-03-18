@@ -174,7 +174,7 @@ It bothered me...%K%P
 Takeshi「What's behind you?」%K%P
 0x420
 つぐみ「……な……ない」%K%P
-Tsugumi「...N-nothing...」%K%P
+Tsugumi「...N-Nothing...」%K%P
 0x42C
 つぐみ「なんにもない……」%K%P
 Tsugumi「There's nothing behind me.」%K%P
@@ -240,7 +240,7 @@ Then, pushing me aside, she tried to head out of the room.%K%P
 Tsugumi「...Move. You're in my way.」%K%P
 0x58C
 武「お、おい、つぐみ……？」%K%P
-Takeshi「H-hey, Tsugumi...?」%K%P
+Takeshi「H-Hey, Tsugumi...?」%K%P
 0x5A0
 つぐみ「邪魔しないで……」%K%P
 Tsugumi「Don't bother me...」%K%P

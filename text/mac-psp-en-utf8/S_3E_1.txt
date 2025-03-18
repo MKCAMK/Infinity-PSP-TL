@@ -474,7 +474,7 @@ Kid「I think it helps to explain my lost memory somehow.」%K%P
 You「Hmmph. And? How does it explain your memory?」%K%P
 0xA0C
 少年「えっ？　そ、それは……えーと……うまく言えないけど……」%K%P
-Kid「Eh? Th-that's... uh... hard to explain, but...」%K%P
+Kid「Eh? Th-That's... uh... hard to explain, but...」%K%P
 0xA20
 優「きみの思考回路はいったいどうなってるわけ？」%K%P
 You「What is going on in that head of yours?」%K%P
@@ -654,7 +654,7 @@ You shouted in between breaths.%K%P
 Sora「A way to escape?」%K%P
 0xE5C
 少年「ほ、本当なの？　優？」%K%P
-Kid「R-really? You did?」%K%P
+Kid「R-Really? You did?」%K%P
 0xE70
 優「まあ、ね……はぁはぁはぁ……」%K%P
 You「Well... *PANT*, *PANT*...」%K%P

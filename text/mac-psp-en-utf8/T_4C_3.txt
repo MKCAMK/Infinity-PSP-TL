@@ -120,7 +120,7 @@ Sora「You do too, Kuranari-san?」%K%P
 Sora「Actually... so do I.」%K%P
 0x2B4
 武「え、そうなの？」%K%P
-Takeshi「R-really?」%K%P
+Takeshi「R-Really?」%K%P
 0x2C0
 武「じゃあ、そちらからお先にどうぞ……レディファーストって奴で」%K%P
 Takeshi「Okay, after you... Ladies first.」%K%P
@@ -378,7 +378,7 @@ Sora「.........」%K%P
 Takeshi「Repeat after me: 'It's fine, it's fine!'」%K%P
 0x7DC
 空「だ、大丈夫、大丈夫……」%K%P
-Sora「I-it's fine, it's fine...」%K%P
+Sora「I-It's fine, it's fine...」%K%P
 0x7E8
 顔を真っ赤にしながら、空は恐る恐るガラス面に接近していった。%K%P
 Blushing furiously, Sora timidly approached the window.%K%P
@@ -435,7 +435,7 @@ It was a red, water-based pen.%K%P
 Takeshi「Alright then. You know, I thought you were a traditional Japanese girl.」%K%P
 0x8C8
 空「そ、そうなんですか？」%K%P
-Sora「R-really?」%K%P
+Sora「R-Really?」%K%P
 0x8D4
 武「ああ。純情純真、大いに結構」%K%P
 Takeshi「Ah. Pure and sincere. Lovely.」%K%P

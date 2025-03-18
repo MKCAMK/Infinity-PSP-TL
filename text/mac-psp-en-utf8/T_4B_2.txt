@@ -51,7 +51,7 @@ Takeshi「You know, joke around, cheer her up a little bit...」%K%P
 You「Really? I don't know...」%K%P
 0x274
 少年「あ、あれっ！？」%K%P
-Kid「H-hey!」%K%P
+Kid「H-Hey!」%K%P
 0x288
 少年は急に立ち止まった。%K%P
 The Kid had stopped suddenly.%K%P
@@ -231,7 +231,7 @@ Saying that, You raised her eyes to the ceiling.%K%P
 You「What in the world...」%K%P
 0x66C
 ココ「ね、ねぇ、そしたらぁ……」%K%P
-Coco「Wai-wait, then...」%K%P
+Coco「Wai-Wait, then...」%K%P
 0x678
 ココ「つぐみん、どうなっちゃったの？」%K%P
 Coco「What happened to Tsugumin?」%K%P
@@ -312,7 +312,7 @@ Takeshi「She ought to know what happened, right?」%K%P
 You looked at me with a glimmer of hope.%K%P
 0x7E8
 優「そ、そうだよね。わかった、呼んでみる！」%K%P
-You「Y-yeah, you're right. Let's call her.」%K%P
+You「Y-Yeah, you're right. Let's call her.」%K%P
 0x7FC
 俺と優は、部屋の隅にあるレミの端末へと急いだ。%K%P
 We rushed over to the LeMMIH terminal in the corner of the room.%K%P

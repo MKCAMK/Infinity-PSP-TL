@@ -240,7 +240,7 @@ You「Serum? What kind?」%K%P
 Sora「It's... I don't know if it is here or not...」%K%P
 0x584
 優「そ、そんな……！」%K%P
-You「Wh-what...!」%K%P
+You「Wh-What...!」%K%P
 0x590
 優は壁に駆け寄り、そこに据え付けられた医療用具の棚を片っ端から開ける。%K%P
 You ran up to the wall and opened up a shelf filled with medical tools.%K%P
@@ -321,7 +321,7 @@ Takeshi「What!?」%K%P
 I quickly snatched whatever it was out of Pipi's mouth and lifted it up.%K%P
 0x770
 武「こ、これかっ！」%K%P
-Takeshi「Th-this!?」%K%P
+Takeshi「Th-This!?」%K%P
 0x784
 優「アンプル……！」%K%P
 You「It's the serum...!」%K%P
@@ -336,7 +336,7 @@ Takeshi「How do we use it?」%K%P
 Sora「Break off the tip and inject the contents into Coco-chan!」%K%P
 0x7B4
 武「お、ＯＫ！！」%K%P
-Takeshi「O-okay!」%K%P
+Takeshi「O-Okay!」%K%P
 0x7C0
 武「優、頼む！」%K%P
 Takeshi「You, do your magic!」%K%P
@@ -591,7 +591,7 @@ Takeshi「IBF, huh...?」%K%P
 Takeshi「Can we go there? How do we get there?」%K%P
 0xD38
 少年「ま、待って……！」%K%P
-Kid「W-wait...!」%K%P
+Kid「W-Wait...!」%K%P
 0xD44
 割り込むように、少年が叫んだ。%K%P
 The Kid interrupted with a shout.%K%P
@@ -663,7 +663,7 @@ I looked at You and Sora, then nodded.%K%P
 You「Does that sound good to you? Kid?」%K%P
 0xEC0
 少年「そ、そうだね。わかったよ」%K%P
-Kid「Y-yeah. Alright.」%K%P
+Kid「Y-Yeah. Alright.」%K%P
 0xED4
 武「よーし、ＯＫ……」%K%P
 Takeshi「Alright, okay...」%K%P
@@ -693,7 +693,7 @@ Sora「.........」%K%P
 Takeshi「Hey, Kid... Give me a hand!」%K%P
 0xF50
 少年「は、はいっ」%K%P
-Kid「O-okay.」%K%P
+Kid「O-Okay.」%K%P
 0xF5C
 ココの身体をそっと抱き起こし、俺は再び背中に担いだ。%K%P
 I picked up Coco's inert body and carried her piggyback.%K%P

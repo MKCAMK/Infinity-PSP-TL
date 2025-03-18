@@ -315,7 +315,7 @@ Sara「Eh!?」%K%P
 Kid「So there was somebody?」%K%P
 0x978
 沙羅「い、いないよ……いない……けど……」%K%P
-Sara「N-no... There wasn't, but...」%K%P
+Sara「N-No... There wasn't, but...」%K%P
 0x984
 少年「けど……？」%K%P
 Kid「But...?」%K%P
@@ -411,7 +411,7 @@ Takeshi「What're you talking about, Kid?」%K%P
 Kid「Sora is... an RSD-generated image.」%K%P
 0xC88
 沙羅「は、はい！？」%K%P
-Sara「Wh-what!?」%K%P
+Sara「Wh-What!?」%K%P
 0xC9C
 武「ＲＳＤ！？」%K%P
 Takeshi「RSD!?」%K%P
@@ -486,7 +486,7 @@ Kid「There are lots of other people...」%K%P
 Young Girl「Help...? Did you come to help?」%K%P
 0xEF4
 少年「う、うん……そうだよ」%K%P
-Kid「Y-yeah... That's right.」%K%P
+Kid「Y-Yeah... That's right.」%K%P
 0xF08
 少女「でも……きっと無理だよ……」%K%P
 Young Girl「But... it's probably impossible...」%K%P
@@ -576,7 +576,7 @@ Coco「I waited and waited... for you to come...」%K%P
 Coco「I was waiting... all alone like a moon sprite...」%K%P
 0x1194
 少年「だ、だったら、ぼくらのところに来ればよかったじゃないか……」%K%P
-Kid「Th-then you should have come to me...」%K%P
+Kid「Th-Then you should have come to me...」%K%P
 0x11A0
 ココ「ダメなんだよ……」%K%P
 Coco「I couldn't...」%K%P

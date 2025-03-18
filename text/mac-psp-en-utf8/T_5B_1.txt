@@ -432,7 +432,7 @@ Coco「Uh-oh!」%K%P
 Because of her unsteady position on the pedestal, Coco suddenly lost her balance.%K%P
 0x9E8
 少年「あ、危ない！！」%K%P
-Kid「L-look out!」%K%P
+Kid「L-Look out!」%K%P
 0x9FC
 咄嗟に少年が後ろから、ココの身体を支えた。%K%P
 Without hesitating, the Kid jumped forward, steadying her body.%K%P
@@ -441,7 +441,7 @@ Without hesitating, the Kid jumped forward, steadying her body.%K%P
 He grabbed her by the hips to prevent her from slipping down, then carefully lowered her to sit on the pedestal.%K%P
 0xA24
 ココ「あ、ありがと……」%K%P
-Coco「Th-thank you...」%K%P
+Coco「Th-Thank you...」%K%P
 0xA30
 少年「足元、気をつけてね」%K%P
 Kid「Watch your step, okay?」%K%P

@@ -27,7 +27,7 @@ Suddenly, a low metallic sound reverberated throughout the complex.%K%P
 It was a dull, muffled sound.%K%P
 0xF4
 武「な、なんだ！？」%K%P
-Takeshi「Wh-what was that!?」%K%P
+Takeshi「Wh-What was that!?」%K%P
 0x108
 つぐみ「少し……揺れたわね」%K%P
 Tsugumi「This whole place just shook... a little.」%K%P
@@ -498,7 +498,7 @@ Tsugumi「Heh heh. Does this LOOK okay to you?」%K%P
 Tsugumi「Always asking stupid questions.」%K%P
 0xB44
 武「わ、笑うな！　今そいつをどけてやるから待ってろ！」%K%P
-Takeshi「S-stop laughing! I'm going to get that stuff off you, just wait!」%K%P
+Takeshi「S-Stop laughing! I'm going to get that stuff off you, just wait!」%K%P
 0xB50
 俺は鉄材を持ち上げようとした。%K%P
 I tried to lift the metal off of her.%K%P
@@ -573,7 +573,7 @@ Takeshi「I won't let you give up on me now, damn it!」%K%P
 Takeshi「Hey, Coco! What are you standing there for!?」%K%P
 0xC70
 ココ「わ、は、はいっ！！」%K%P
-Coco「Wah! Y-yes!?」%K%P
+Coco「Wah! Y-Yes!?」%K%P
 0xC7C
 武「そこのインターホンで連絡しろっ！」%K%P
 Takeshi「Get on that intercom and contact the others!」%K%P
@@ -588,7 +588,7 @@ Coco「It's no use... It's broken! I pushed the button, but nothing happened!」
 Takeshi「So run up and tell the others to get over here!」%K%P
 0xCAC
 ココ「わ、わかったよおっ！！」%K%P
-Coco「O-okay, I'm going!」%K%P
+Coco「O-Okay, I'm going!」%K%P
 0xCB8
 ココはうろたえながらも強く頷き、出て行った。%K%P
 Although she looked flustered, Coco nodded and ran off.%K%P
@@ -1470,7 +1470,7 @@ Kid「Aaaah! Sa-Sa-Sa-Sara!」%K%P
 I jumped about three meters away, bending backward as I leaped.%K%P
 0x242C
 少年「い、い、い、いつの間に！？」%K%P
-Kid「Wh-wh-when'd you get here!?」%K%P
+Kid「Wh-Wh-When'd you get here!?」%K%P
 0x2440
 沙羅「ふっふっふ……」%K%P
 Sara「Heh heh heh...」%K%P
@@ -1524,7 +1524,7 @@ My face, on the other hand...%K%P
 Kid「Hey? Who's that reflected in the mirror?」%K%P
 0x2534
 沙羅「……は、はい？　……意味が、わからないんですけど」%K%P
-Sara「...H-huh...? I don't understand the question.」%K%P
+Sara「...H-Huh...? I don't understand the question.」%K%P
 0x2540
 少年「この少年だよ」%K%P
 Kid「This kid.」%K%P
@@ -1644,7 +1644,7 @@ Kid「.........」%K%P
 Sara「I think you look a little like me.」%K%P
 0x2714
 少年「……に、似てる？　……ぼくと、沙羅が？」%K%P
-Kid「...L-look like...? I look like you?」%K%P
+Kid「...L-Look like...? I look like you?」%K%P
 0x2720
 食い入るように沙羅の顔を見つめる。%K%P
 I stared intently at Sara's face.%K%P
@@ -2409,7 +2409,7 @@ Although the words were bursting out of my mouth against my will...%K%P
 You seemed to be unaware of my state. She simply did as I suggested and gazed at the paper from an angle.%K%P
 0x372C
 優「ほ、ほんとだぁ〜〜！」%K%P
-You「Y-you're right!」%K%P
+You「Y-You're right!」%K%P
 0x3738
 優「すっごーーいっ！　すごいよ、少年！」%K%P
 You「Amazing...! Really amazing, Kid!」%K%P
@@ -2496,7 +2496,7 @@ And then, suddenly―%K%P
 Beeeeeeeep!%K%P
 0x3968
 優「あ、あれ……？」%K%P
-You「Wh-what in the...?」%K%P
+You「Wh-What in the...?」%K%P
 0x3974
 画面がブラックアウトしてしまう。%K%P
 The screen went black.%K%P

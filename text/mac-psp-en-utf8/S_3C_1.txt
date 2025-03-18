@@ -156,7 +156,7 @@ Tsugumi「What's wrong? If you don't hurry, I'll leave you behind.」%K%P
 Tsugumi walked briskly ahead.%K%P
 0x3A8
 少年「ね、ねえ……つぐみ、どうしちゃったのかな？」%K%P
-Kid「H-hey... What's the matter with her?」%K%P
+Kid「H-Hey... What's the matter with her?」%K%P
 0x3B4
 沙羅「わ、私に訊かれたって……」%K%P
 Sara「How would I know?」%K%P
@@ -432,7 +432,7 @@ The inside of my head went all white.%K%P
 It felt like my consciousness was whisked off somewhere else.%K%P
 0xB8C
 （な、なんだ……これ？）%K%P
-(Wh-what was that?)%K%P
+(Wh-What was that?)%K%P
 0xB98
 脳裏に、閃光のように、叩きつけられるように、何かが映し出される。%K%P
 An image flashed at the back of my mind, and it felt like my brain was being hammered by light.%K%P

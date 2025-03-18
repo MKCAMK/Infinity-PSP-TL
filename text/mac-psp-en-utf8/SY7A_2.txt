@@ -99,7 +99,7 @@ Kid「And... the safety doors to the emergency stairwell can be opened manually.
 Sora「It is possible.」%K%P
 0x22C
 優「ちょ、ちょっと待ってよ！　いったい何考えてんの、少年？」%K%P
-You「S-slow down, Kid! What are you saying?」%K%P
+You「S-Slow down, Kid! What are you saying?」%K%P
 0x238
 少年「なにって……」%K%P
 Kid「What I'm saying is...」%K%P

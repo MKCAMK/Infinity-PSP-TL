@@ -519,7 +519,7 @@ Coco「I just... had to see you again...」%K%P
 Coco「My onii-chan...」%K%P
 0xAFC
 ＢＷ「う、うん……」%K%P
-Blick Winkel「Y-yeah...」%K%P
+Blick Winkel「Y-Yeah...」%K%P
 0xB08
 ＢＷ「でもココ……？」%K%P
 Blick Winkel「But Coco...?」%K%P
@@ -600,7 +600,7 @@ Coco「Onii-chan, I might have fallen in love with you.」%K%P
 My heart skipped a few beats.%K%P
 0xC80
 ＢＷ「で、でも……」%K%P
-Blick Winkel「B-but...」%K%P
+Blick Winkel「B-But...」%K%P
 0xC8C
 ＢＷ「ボクらはまだ……………………あっ……」%K%P
 Blick Winkel「But I still... Ah...」%K%P
@@ -708,7 +708,7 @@ Takeshi「...Um!?」%K%P
 Takeshi abruptly woke up.%K%P
 0xE84
 武「ど、どこだ……？　ここは……？」%K%P
-Takeshi「Wh-where...? Is this...?」%K%P
+Takeshi「Wh-Where...? Is this...?」%K%P
 0xE90
 きょろきょろとあたりを見まわす。%K%P
 He looked around, confused.%K%P
@@ -717,7 +717,7 @@ He looked around, confused.%K%P
 Takeshi realized that Hokuto's face was in front of him and said...%K%P
 0xEA8
 武「お、おまえは……」%K%P
-Takeshi「Wh-who on...」%K%P
+Takeshi「Wh-Who on...」%K%P
 0xEB4
 武「おまえは、一体……」%K%P
 Takeshi「Earth are you...?」%K%P
@@ -807,7 +807,7 @@ Takeshi「Whoah, stop it now!」%K%P
 Takeshi forcefully peeled him away...%K%P
 0x1038
 少年「ど、どうして！？　なんで拒絶するの！？」%K%P
-Kid「Wh-why!? Why don't you want me to hug you!?」%K%P
+Kid「Wh-Why!? Why don't you want me to hug you!?」%K%P
 0x104C
 武「その質問に答える前に、ひとつ聞きたいことがある」%K%P
 Takeshi「Before I answer that question, there's something I want to ask you.」%K%P
@@ -852,7 +852,7 @@ Kid「.........」%K%P
 Coco「.........」%K%P
 0x111C
 武「さ、３ヶ月、かな？」%K%P
-Takeshi「Th-three months, then... maybe?」%K%P
+Takeshi「Th-Three months, then... maybe?」%K%P
 0x1128
 少年「…………」%K%P
 Kid「.........」%K%P
@@ -861,7 +861,7 @@ Kid「.........」%K%P
 Coco「.........」%K%P
 0x1140
 武「う、嘘、だろ……」%K%P
-Takeshi「Y-you gotta be kidding...」%K%P
+Takeshi「Y-You gotta be kidding...」%K%P
 0x114C
 武「じゃあ、なにか？　俺は、夏を通り越して、秋まで……」%K%P
 Takeshi「You mean I've slept past summer and into autumn...?」%K%P
@@ -909,7 +909,7 @@ Kid「You have been...」%K%P
 Coco「Sleeping for...」%K%P
 0x126C
 武「じゅ、じゅ、じゅ、じゅ、じゅ、じゅ、じゅ、じゅ……」%K%P
-Takeshi「Se-se-se-se-se-se-se-se...」%K%P
+Takeshi「Se-Se-Se-Se-Se-Se-Se-Se...」%K%P
 0x1278
 武「１７ねぇーーーーーーーーーーーーーーーーーんっ！？」%K%P
 Takeshi「Seventeen yeeeeaaaaarrrrrrssss!?」%K%P

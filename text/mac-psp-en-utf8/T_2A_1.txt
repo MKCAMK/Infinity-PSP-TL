@@ -309,7 +309,7 @@ You「HOWEVER! HOWEVER!」%K%P
 You「If you take the other path... you will be in dire straits.」%K%P
 0x738
 武「た、たいへん……って？」%K%P
-Takeshi「D-dire...?」%K%P
+Takeshi「D-Dire...?」%K%P
 0x74C
 優「う〜む……これ以上は、わしの口からは言えんのぉ」%K%P
 You「Yes... but I can tell you no more.」%K%P
@@ -351,7 +351,7 @@ Black ink!?%K%P
 I remembered what I was angry about. Forget fortune telling!%K%P
 0x7F8
 武「お、お前なぁ！　そうやって話をごまかそうと……」%K%P
-Takeshi「Y-you! You're trying to trick me...」%K%P
+Takeshi「Y-You! You're trying to trick me...」%K%P
 0x804
 武「……って、あれっ！？」%K%P
 Takeshi「...Hey, what!?」%K%P
@@ -501,7 +501,7 @@ Takeshi「Huh?」%K%P
 Tsugumi shook her head as if she was fed up with me and vanished inside the control room.%K%P
 0xB28
 （……さ、最低？）%K%P
-(...A-absolute worst?)%K%P
+(...A-Absolute worst?)%K%P
 0xB34
 武「おいおいっ、ちょっと待ってくれよ！」%K%P
 Takeshi「Hey! Hold on a sec!」%K%P

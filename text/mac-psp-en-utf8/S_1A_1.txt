@@ -273,7 +273,7 @@ My headache had gotten worse.%K%P
 For an instant, I feared my chastity might be violated and grabbed the belt of my pants.%K%P
 0x624
 少年「わ、わかったよ……飲む……飲むってば」%K%P
-Kid「A-alright. I'll take it... I'll take it.」%K%P
+Kid「A-Alright. I'll take it... I'll take it.」%K%P
 0x630
 半ば脅迫される形で、ぼくは痛み止めをムリヤリ飲み込んだ。%K%P
 Feeling half-threatened, I downed the medicine even though I didn't want to.%K%P
@@ -420,7 +420,7 @@ Like something being stolen away... I lost consciousness... and...%K%P
 ???「So? Do you remember?」%K%P
 0x8E0
 少年「う、うん……」%K%P
-Kid「Y-yes...」%K%P
+Kid「Y-Yes...」%K%P
 0x8EC
 ？？「他に質問は？」%K%P
 ???「Do you have any other questions?」%K%P
@@ -708,7 +708,7 @@ Just the man-made walls on both sides...%K%P
 Unnatural light, whiter than white, shone from the ceiling and gave off a cold light.%K%P
 0xEE4
 少年「ど、どうして……」%K%P
-Kid「Wh-why...」%K%P
+Kid「Wh-Why...」%K%P
 0xEF0
 少年「どうして……誰もいないの……？」%K%P
 Kid「Why... isn't anyone here...?」%K%P
@@ -1599,7 +1599,7 @@ You「Hey, next time you decide to go and keel over, can you do it somewhere a l
 You「Because it was really a pain hauling you piggyback all the way here...」%K%P
 0x2480
 少年「ご、ごめん……」%K%P
-Kid「S-sorry...」%K%P
+Kid「S-Sorry...」%K%P
 0x2494
 優「あ、別に、謝らなくてもいいんだけどさ……」%K%P
 You「Oh, it's alright. You don't have to apologize...」%K%P
@@ -1641,7 +1641,7 @@ You「So just calm down... I want you to relax and answer them.」%K%P
 You「Alright?」%K%P
 0x2580
 少年「う、うん……」%K%P
-Kid「S-sure...」%K%P
+Kid「S-Sure...」%K%P
 0x2594
 優「まず、今日の日付は……わかるかなぁ？」%K%P
 You「First, do you know... today's date?」%K%P

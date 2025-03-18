@@ -96,7 +96,7 @@ I had no idea.%K%P
 Takeshi「Hey, You? Where is that high-pressure oxygen thing that Sora was talking about?」%K%P
 0x234
 優「わ、わかんないよ、そんなの……」%K%P
-You「H-how should I know...?」%K%P
+You「H-How should I know...?」%K%P
 0x240
 武「つぐみ、どうする？」%K%P
 Takeshi「Tsugumi, what should we do?」%K%P
@@ -105,13 +105,13 @@ Takeshi「Tsugumi, what should we do?」%K%P
 Tsugumi「Well, we'll have to look for it. None of us know a thing about this place.」%K%P
 0x258
 研究員「ぐっ……ま、待て……！」%K%P
-Researcher「*Gagh*... W-wait!」%K%P
+Researcher「*Gagh*... W-Wait!」%K%P
 0x264
 咳き込みながら、研究員が口を開いた。%K%P
 The researcher coughed as he spoke.%K%P
 0x270
 武「お、おいオッサン！　あんま動くな、大丈夫か！？」%K%P
-Takeshi「H-hey, don't move! Are you okay!?」%K%P
+Takeshi「H-Hey, don't move! Are you okay!?」%K%P
 0x27C
 研究員「無事とは言えんが、まだ生きてるよ……」%K%P
 Researcher「I've been better... but at least I'm alive...」%K%P
@@ -555,7 +555,7 @@ He thrashed and contorted inside of the cramped capsule.%K%P
 You「Aaah!」%K%P
 0xB3C
 武「お、オッサン！！」%K%P
-Takeshi「H-hey, man!」%K%P
+Takeshi「H-Hey, man!」%K%P
 0xB48
 彼は激しく咳き込み、喉を掻きむしるようにして……%K%P
 The researcher coughed violently and clawed at his throat.%K%P

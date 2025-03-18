@@ -375,7 +375,7 @@ Takeshi「.........」%K%P
 Kid「.........」%K%P
 0x750
 武「う、うむ、確かに。……つぐみから採取した抗体が、効いてきたのかな」%K%P
-Takeshi「W-well, I suppose... Tsugumi's antibodies must've kicked in.」%K%P
+Takeshi「W-Well, I suppose... Tsugumi's antibodies must've kicked in.」%K%P
 0x75C
 あるいは……。%K%P
 Or maybe...%K%P
@@ -1236,7 +1236,7 @@ Coco「I wasn't talking to you, Takepyon...」%K%P
 Coco's eyes were pointing toward me.%K%P
 0x1828
 ＢＷ「ボ、ボクに？」%K%P
-Blick Winkel「M-me?」%K%P
+Blick Winkel「M-Me?」%K%P
 0x1834
 ココ「うん」%K%P
 Coco「Yes.」%K%P
@@ -1605,7 +1605,7 @@ Kid「You! You!」%K%P
 It was Hokuto who shouted at her.%K%P
 0x1F18
 優春「だ、だれ……？」%K%P
-You'haru'「Wh-who is it...?」%K%P
+You'haru'「Wh-Who is it...?」%K%P
 0x1F24
 彼女は驚いた様子であたりを見まわした。%K%P
 Caught off guard, she glanced all around.%K%P
@@ -1644,7 +1644,7 @@ Kid「Actually...」%K%P
 Hokuto told her that Coco and Takeshi had been left in the laboratory and that they were under cryogenic suspension in the pods.%K%P
 0x1FBC
 優春「ま、まさか！　そんな……」%K%P
-You'haru'「N-no way! It can't be...」%K%P
+You'haru'「N-No way! It can't be...」%K%P
 0x1FC8
 少年「だから、早くふたりを助けてあげて！？」%K%P
 Kid「So you have to help them right away, okay!?」%K%P
@@ -1683,7 +1683,7 @@ Kid「That's right, Sora's data and her memories are in it...」%K%P
 Kid「What else, um...」%K%P
 0x2068
 優春「ちょ、ちょっと待ってよ！」%K%P
-You'haru'「W-wait a second!」%K%P
+You'haru'「W-Wait a second!」%K%P
 0x2074
 優春「あなた一体、どこにいるの！？」%K%P
 You'haru'「Where on earth are you now!?」%K%P

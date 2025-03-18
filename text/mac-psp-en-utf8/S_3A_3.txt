@@ -12,7 +12,7 @@ Kid「Ah...!」%K%P
 I looked up at the ceiling.%K%P
 0xA0
 少年「あ、あれっ……？？」%K%P
-Kid「Wh-what's that...?」%K%P
+Kid「Wh-What's that...?」%K%P
 0xAC
 一瞬、何かが『見えた』気がしたのだ。%K%P
 I had thought I had seen something for a second.%K%P
@@ -21,7 +21,7 @@ I had thought I had seen something for a second.%K%P
 But when I had done a double take, I didn't see anything.%K%P
 0xCC
 武「お、おい、どうしたんだ？」%K%P
-Takeshi「H-hey, what's wrong?」%K%P
+Takeshi「H-Hey, what's wrong?」%K%P
 0xD8
 ぼくは声をかけられても、まだ天井から目を離すことができずにいた。%K%P
 Even with Takeshi calling out to me, I couldn't tear my eyes from the ceiling.%K%P
@@ -213,7 +213,7 @@ Kid「?」%K%P
 Schedule...?%K%P
 0x4B8
 武「おお、そうだとも。本来ならば、みんなにご馳走するはずだったホットドッグが、なくなっちまったんだからなっ！」%K%P
-Takeshi「We-well yeah! Because the hotdogs that I wanted everyone to eat are gone now!」%K%P
+Takeshi「We-Well yeah! Because the hotdogs that I wanted everyone to eat are gone now!」%K%P
 0x4C4
 じぃっと、武の目を見つめるつぐみ。%K%P
 Tsugumi stared unflinchingly at Takeshi.%K%P
@@ -234,7 +234,7 @@ Suddenly, a low metallic sound reverberated throughout the complex.%K%P
 It was a dull, muffled sound.%K%P
 0x9F4
 武「な、なんだ！？」%K%P
-Takeshi「Wh-what was that!?」%K%P
+Takeshi「Wh-What was that!?」%K%P
 0xA08
 つぐみ「少し……揺れたわね」%K%P
 Tsugumi「This whole place just shook... a little.」%K%P

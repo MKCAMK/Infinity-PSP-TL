@@ -81,7 +81,7 @@ Girl「Why don't you just be quiet...」%K%P
 Her icy, threatening voice overwhelmed me.%K%P
 0x210
 武「わ、わかったよ」%K%P
-Takeshi「Al-alright.」%K%P
+Takeshi「Al-Alright.」%K%P
 0x234
 武「別に、あんたのせいじゃない」%K%P
 Takeshi「It's not your fault.」%K%P
@@ -285,7 +285,7 @@ The three of us looked at each other and nodded.%K%P
 Takeshi「Hey! Can you hear us!?」%K%P
 0x71C
 ？？「あっ！　き、き、き、聞こえます！　聞こえますよぉーっ！」%K%P
-???「Ah! Y-y-yeah! I can hear you!」%K%P
+???「Ah! Y-Y-Yeah! I can hear you!」%K%P
 0x728
 武「ちょっと待ってろ！？　今、出してやるからな！」%K%P
 Takeshi「Hang on! We'll get you out!」%K%P
@@ -861,7 +861,7 @@ How we all failed to get out in time.%K%P
 And of course, the flooding. Everything.%K%P
 0x1300
 ココ「し、しんすいじこぉ〜！？」%K%P
-Coco「F-flooooding!?」%K%P
+Coco「F-Flooooding!?」%K%P
 0x130C
 ココ「それって、海の水が、ＬｅＭＵの中に流れ込んできたってこと！？」%K%P
 Coco「You mean water from the ocean came gushing into LeMU!?」%K%P
@@ -1152,7 +1152,7 @@ Park Staff「We're going down to Dritter Stock―the third floor underwater.」%
 Park Staff「You're coming, right?」%K%P
 0x1918
 武「あ、ああ。行くよ」%K%P
-Takeshi「Y-yeah. I'll go.」%K%P
+Takeshi「Y-Yeah. I'll go.」%K%P
 0x1934
 アトラクションの裏側から、非常用の通路へ入った。%K%P
 We took an emergency corridor behind one of the attractions.%K%P
@@ -1494,7 +1494,7 @@ You「And how old are you?」%K%P
 Coco「I'm in ninth grade.」%K%P
 0x210C
 武「な、なぬぃっ！？」%K%P
-Takeshi「Wh-what?」%K%P
+Takeshi「Wh-What?」%K%P
 0x2120
 ココ「ほへ？　どうかしたの？」%K%P
 Coco「What? What's the matter?」%K%P
@@ -1992,7 +1992,7 @@ Coco「Cheers!」%K%P
 Takeshi「Okay then. Cheers.」%K%P
 0x2CEC
 少年「いただきます」%K%P
-Kid「Ch-cheers.」%K%P
+Kid「Ch-Cheers.」%K%P
 0x2D08
 つぐみ「…………」%K%P
 Tsugumi「...」%K%P

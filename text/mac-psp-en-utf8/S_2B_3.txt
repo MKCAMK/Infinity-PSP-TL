@@ -81,7 +81,7 @@ Sara「Just kidding.」%K%P
 Sara's expression relaxed into a silly look.%K%P
 0x1F8
 少年「な、なんだよ……脅かさないでよ」%K%P
-Kid「Wh-what... Don't scare me like that.」%K%P
+Kid「Wh-What... Don't scare me like that.」%K%P
 0x20C
 沙羅「ごめんごめん」%K%P
 Sara「Sorry.」%K%P
@@ -339,7 +339,7 @@ Just then...%K%P
 ???「Waiting inside a dream.」%V%P
 0x8A8
 少年「だ……だれ……？」%K%P
-Kid「Wh-who's there...?」%K%P
+Kid「Wh-Who's there...?」%K%P
 0x8B4
 ？？「今宵やなぐゐ、月夜見囃子」%V%P
 ???「Tonight, a story by moonlight.」%V%P
@@ -348,7 +348,7 @@ Kid「Wh-who's there...?」%K%P
 ???「Hoping the wait will be short.」%V%P
 0x8CC
 少年「ね、ねえ……誰なの……？」%K%P
-Kid「H-hey... Who's there...?」%K%P
+Kid「H-Hey... Who's there...?」%K%P
 0x8D8
 ？？「眠りたまふ、ぬくと丸みて」%V%P
 ???「Sleeping curled and snug.」%V%P
@@ -381,7 +381,7 @@ Coco「I waited and waited... for you to come...」%K%P
 Coco「I was waiting... all alone like a moon sprite...」%K%P
 0x974
 少年「だ、だったら、ぼくらのところに来ればよかったじゃないか……」%K%P
-Kid「Th-then you should have come to me...」%K%P
+Kid「Th-Then you should have come to me...」%K%P
 0x980
 ココ「ダメなんだよ……」%K%P
 Coco「I couldn't...」%K%P

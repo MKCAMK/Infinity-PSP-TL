@@ -726,7 +726,7 @@ Kid「Huh?」%K%P
 You「If I remember correctly... You came into the room and sat on the floor, right?」%K%P
 0x1F1C
 少年「う、うん……」%K%P
-Kid「Y-yeah...」%K%P
+Kid「Y-Yeah...」%K%P
 0x1F30
 優「どのへん？」%K%P
 You「Whereabouts?」%K%P

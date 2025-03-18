@@ -159,7 +159,7 @@ Dragging her leg, Tsugumi hobbled toward the door.%K%P
 Takeshi「Tsugumi...」%K%P
 0x3E4
 武「ま、待てよっ！」%K%P
-Takeshi「W-wait!」%K%P
+Takeshi「W-Wait!」%K%P
 0x528
 俺は彼女を追おうとして、無様に転んだ。%K%P
 I tried to chase after her but tripped awkwardly.%K%P
@@ -177,7 +177,7 @@ Sprawled out on the floor, my whole body was numb, and I couldn't move.%K%P
 Takeshi「...!?」%K%P
 0x77C
 武「お、俺の身体は……どうしちまったんだ」%K%P
-Takeshi「Wh-what's happening... to me?」%K%P
+Takeshi「Wh-What's happening... to me?」%K%P
 0x788
 優「…………」%K%P
 You「.........」%K%P
@@ -483,7 +483,7 @@ Red.%K%P
 Everything was red...%K%P
 0x10D0
 目には何も見えない……。%K%P
-I couldn't see anything%K%P
+I couldn't see anything...%K%P
 0x10DC
 手には、ぬるりとした生暖かい感触だけ。%K%P
 All I could feel was slippery warmth.%K%P

@@ -249,7 +249,7 @@ Takeshi「Anyway, I threw in every ingredient and spice that I could find. It's 
 Tsugumi「...」%K%P
 0x5D4
 優「ちょ、ちょっと！　それはいくらなんでも酷すぎるでしょ！？」%K%P
-You「H-hey! That's just too cruel!」%K%P
+You「H-Hey! That's just too cruel!」%K%P
 0x5E0
 沙羅「そ、そうだよ……！」%K%P
 Sara「Yeah...!」%K%P
@@ -264,7 +264,7 @@ Takeshi「Shut up! I'm the cook here.」%K%P
 Sora「Ko-Komachi-san... I highly recommend inducing vomiting immediately...!」%K%P
 0x618
 空「今すぐ、お水をっ！　い、いえっ、まずはお薬を……！」%K%P
-Sora「Get water quickly! N-no... We'll need medicine first...!」%K%P
+Sora「Get water quickly! N-No... We'll need medicine first...!」%K%P
 0x62C
 武「大丈夫だって、ちょっと腹壊すだけで、死ぬわけじゃねーよ」%K%P
 Takeshi「She'll be fine. She'll get the runs, but she won't die.」%K%P
@@ -609,7 +609,7 @@ Sad?%K%P
 Just then, the girl lost her balance, falling from her awkward place on the pedestal.%K%P
 0xF38
 少年「あ、危ない！！」%K%P
-Kid「L-look out!」%K%P
+Kid「L-Look out!」%K%P
 0xF60
 ぼくはダッシュする。%K%P
 I ran toward her.%K%P

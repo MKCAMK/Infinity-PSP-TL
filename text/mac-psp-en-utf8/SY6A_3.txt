@@ -270,7 +270,7 @@ Tsugumi「I heard from Sara that your operating priorities have been changed.」
 Tsugumi「That you're not as stubborn about protecting Leiblich as before.」%K%P
 0x514
 空「は、はい……それが何か？」%K%P
-Sora「Y-yes... and what about it?」%K%P
+Sora「Y-Yes... and what about it?」%K%P
 0x520
 つぐみ「今のあなたなら、私に協力できるかもしれない」%K%P
 Tsugumi「Maybe you can work with me now.」%K%P
@@ -600,7 +600,7 @@ Takeshi「Sounds like something big is going down.」%K%P
 You「Trouble? What kind of trouble?」%K%P
 0xCBC
 少年「い、いいから、来て！　止めなきゃ！」%K%P
-Kid「C-come on! We've gotta go and stop it!」%K%P
+Kid「C-Come on! We've gotta go and stop it!」%K%P
 0xCC8
 ぜいぜいと息を切らしながら、ぼくは言う。%K%P
 I told them that as I struggled to get my breath back.%K%P
@@ -609,7 +609,7 @@ I told them that as I struggled to get my breath back.%K%P
 Takeshi「Stop what? Hey, explain what's going on.」%K%P
 0xCE8
 沙羅「な、何があったの？」%K%P
-Sara「Wh-what happened?」%K%P
+Sara「Wh-What happened?」%K%P
 0xCF4
 少年「中央制御室……！」%K%P
 Kid「The central control room...!」%K%P
@@ -630,10 +630,10 @@ Kid「I just couldn't watch, so I...」%K%P
 You「This is bad news... at a time like this.」%K%P
 0xD4C
 沙羅「い、行こう！　止めようよっ！」%K%P
-Sara「L-let's go! We've got to stop them!」%K%P
+Sara「L-Let's go! We've got to stop them!」%K%P
 0xD60
 武「あ、ああ！　早いとこ行くぞ！」%K%P
-Takeshi「Y-yeah! We'd better hurry!」%K%P
+Takeshi「Y-Yeah! We'd better hurry!」%K%P
 0xDA4
 部屋になだれ込むぼくら。%K%P
 We burst into the room.%K%P
@@ -915,7 +915,7 @@ Lying? Woman?%K%P
 He seemed to be in a bad mood.%K%P
 0x1418
 少年「や、やあ、武」%K%P
-Kid「H-hey there, Takeshi.」%K%P
+Kid「H-Hey there, Takeshi.」%K%P
 0x142C
 武「んんっ？　おう、少年か。なんじゃい？」%K%P
 Takeshi「Huh? Oh, hey, Kid. What's up?」%K%P

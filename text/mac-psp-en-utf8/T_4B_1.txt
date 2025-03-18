@@ -162,7 +162,7 @@ The lettuce that normally went into the tuna sandwiches had been diced.%K%P
 I'd never seen such a shocking kitchen.%K%P
 0x378
 武「ど、どうしたんだ、これは？」%K%P
-Takeshi「Wh-what exactly happened here?」%K%P
+Takeshi「Wh-What exactly happened here?」%K%P
 0x38C
 ココ「にゃっはっはっは……♪」%K%P
 Coco「Neeheehee〜」%K%P
@@ -174,7 +174,7 @@ Coco「We tried dividing up the work〜」%K%P
 Coco「Let's eat, Takepyon, let's eat〜」%K%P
 0x3B8
 武「ま、待て！　ちょっと待て！」%K%P
-Takeshi「H-hey! Wait, wait!」%K%P
+Takeshi「H-Hey! Wait, wait!」%K%P
 0x3C4
 武「これは……食い物なのか？　食えるのか？」%K%P
 Takeshi「Is this food? You can actually eat this?」%K%P
@@ -492,7 +492,7 @@ Takeshi「Well, that's good.」%K%P
 You「Hm...? Kuranari, did you do something to her?」%K%P
 0xA74
 武「な、なんにもしてねーよ！」%K%P
-Takeshi「N-no! Nothing!」%K%P
+Takeshi「N-No! Nothing!」%K%P
 0xA80
 優「なんかあやし〜い……『なら、いいんだけど』なーんて言っちゃってさぁ」%K%P
 You「You're acting pretty suspicious. Why'd you say, 'Well, that's good'...?」%K%P
@@ -555,7 +555,7 @@ You「What do you have to say for yourself, Kuranari?」%K%P
 Kid「If you don't want to talk about it, don't worry...」%K%P
 0xBB8
 ココ「え、なになに、何の話？　面白い話？」%K%P
-Coco「Huh? Wha-what? Are you talking about something fun?」%K%P
+Coco「Huh? Wha-What? Are you talking about something fun?」%K%P
 0xBC4
 ピピ「わんわん！」%K%P
 Pipi「*Woof*! *Woof*!」%K%P
@@ -1188,7 +1188,7 @@ Takeshi「Why do you ask about something you already know?」%K%P
 You「It's your fault for trying to be so mysterious! Heehee...」%K%P
 0x19BC
 武「うぬぬ、お、おのれ……！」%K%P
-Takeshi「Y-y-you little...」%K%P
+Takeshi「Y-Y-You little...」%K%P
 0x19C8
 悔しいが、完全に優にノセられてしまったようだ。%K%P
 I hated to admit it, but she had taken me for a ride.%K%P

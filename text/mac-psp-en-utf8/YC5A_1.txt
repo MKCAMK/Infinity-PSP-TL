@@ -477,7 +477,7 @@ You「What!? What'd you just say!?」%K%P
 You grabbed the back of my head and pulled my face toward hers.%K%P
 0x914
 少年「な、な、な、なに……？」%K%P
-Kid「Wha-wha-wha-what...?」%K%P
+Kid「Wha-Wha-Wha-What...?」%K%P
 0x920
 優「今よ、今！　今今今！　今少年、なんて言ったのよ！」%K%P
 You「Just then! Just now! Now, now, now! Kid, what did you just say!?」%K%P
@@ -774,7 +774,7 @@ I could just see that she was there.%K%P
 She was holding her breath in the darkness, staring at me.%K%P
 0xEB8
 少年「だ、だれ！？　だれなの！？」%K%P
-Kid「Wh-who are you!?」%K%P
+Kid「Wh-Who are you!?」%K%P
 0xEC4
 彼女は答えない。%K%P
 She didn't answer.%K%P
@@ -903,7 +903,7 @@ Takeshi「What?」%K%P
 Coco「I was talking to a life form from another dimension.」%K%P
 0x11F8
 武「イ、イジゲン！？」%K%P
-Takeshi「A-another dimension!?」%K%P
+Takeshi「A-Another dimension!?」%K%P
 0x120C
 ココ「そうだよ？」%K%P
 Coco「Well, yeah?」%K%P

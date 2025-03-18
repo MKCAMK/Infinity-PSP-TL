@@ -360,7 +360,7 @@ Takeshi「You know...」%K%P
 Takeshi「You're as cute as ever...」%K%P
 0x884
 つぐみ「えっ？　えっ？　えっ？　や、やめてよ……そんな……」%K%P
-Tsugumi「Eh? Eh? Eh? S-stop it... I...」%K%P
+Tsugumi「Eh? Eh? Eh? S-Stop it... I...」%K%P
 0x898
 武「いや、だってあまりにも可愛いからさ」%K%P
 Takeshi「No, you're too cute.」%K%P
@@ -372,7 +372,7 @@ Tsugumi「What's with you all of a sudden...」%K%P
 Takeshi「You're so cute, I could just eat you up.」%K%P
 0x8BC
 つぐみ「や、やだ……なによ……なんでそんなこと……」%K%P
-Tsugumi「S-stop it... What... are you talking about...?」%K%P
+Tsugumi「S-Stop it... What... are you talking about...?」%K%P
 0x8D0
 武「うむ、やっぱりお前はチャーミングだ」%K%P
 Takeshi「Uh-huh, you sure are charming.」%K%P
@@ -1260,7 +1260,7 @@ You'aki'「...What!?」%K%P
 Hokuto「So I'm pretty sure that in this time, you and I are destined to be together as well.」%K%P
 0x1BCC
 優秋「ちょ、ちょ、ちょ、ちょっと待ってよ、少年！　勝手に決めないでよ！」%K%P
-You'aki'「H-h-h-hey, wait a second, Kid! You're getting ahead of yourself here!」%K%P
+You'aki'「H-H-H-Hey, wait a second, Kid! You're getting ahead of yourself here!」%K%P
 0x1BD8
 優秋「運命だか何だか知らないけど……そういうことは、お互いの承認と了解を得て、初めて成立する関係でしょ？」%K%P
 You'aki'「I don't know much about fate, but... things like that are decided with both people's consent. AFTER that happens, you start going out.」%K%P
@@ -1269,7 +1269,7 @@ You'aki'「I don't know much about fate, but... things like that are decided wit
 Hokuto「Yeah... Okay, I'll say it right now.」%K%P
 0x1BF8
 優秋「い、いま！？」%K%P
-You'aki'「N-now!?」%K%P
+You'aki'「N-Now!?」%K%P
 0x1C04
 ホクト「うん……」%K%P
 Hokuto「Yeah...」%K%P
@@ -1662,7 +1662,7 @@ It was as bright as the sun and powerfully magnetic. He could charm me effortles
 Takeshi「By the way, Sora? Can I ask you something?」%K%P
 0x236C
 空「な、なんでしょう？」%K%P
-Sora「Wh-what is it?」%K%P
+Sora「Wh-What is it?」%K%P
 0x2378
 私は胸のうちを悟られまいとして、視線をそらし、暴走する意識の制御を懸命に試みました。%K%P
 I looked away and tried desperately to regain control of my wildly racing mind so that he would not see through to my true feelings.%K%P
@@ -1737,13 +1737,13 @@ Holding Pipi firmly to my chest, I grabbed onto Kuranari-san's palm with my free
 I had waited those seventeen years for just that moment.%K%P
 0x24C0
 武「ど、どうしたんだよ、空？　酒でも飲んだのか？　顔が真っ赤だぞ？」%K%P
-Takeshi「Wh-what's wrong, Sora? Have you been drinking or something? Your face is all red.」%K%P
+Takeshi「Wh-What's wrong, Sora? Have you been drinking or something? Your face is all red.」%K%P
 0x24CC
 空「倉成先生……」%K%P
 Sora「Professor Kuranari...」%K%P
 0x24D8
 武「な、なんだね、茜ヶ崎くん……」%K%P
-Takeshi「Wh-what is it, Akanegasaki-kun...?」%K%P
+Takeshi「Wh-What is it, Akanegasaki-kun...?」%K%P
 0x24E4
 空「世の中には、不思議なことがたくさんあるのですね？」%K%P
 Sora「There are so many strange things in this world, don't you think?」%K%P
@@ -1758,7 +1758,7 @@ Sora「You asked about my body, didn't you, Professor?」%K%P
 Sora「You wondered how I came to have this body, didn't you?」%K%P
 0x2514
 武「う、うん……」%K%P
-Takeshi「Y-yeah...」%K%P
+Takeshi「Y-Yeah...」%K%P
 0x2520
 空「その答えは、たったひとつです」%K%P
 Sora「There is only one answer.」%K%P
@@ -2070,7 +2070,7 @@ And soon, everyone shows up one by one.%K%P
 Sora-san... Nakkyu's daughter...%K%P
 0x2D48
 空「ど、どうしたんですか？　田中さん」%K%P
-Sora「Wh-what's going on, Tanaka-san?」%K%P
+Sora「Wh-What's going on, Tanaka-san?」%K%P
 0x2D54
 優秋「いいからいいから、早く早くぅ♪」%K%P
 You'aki'「Just come on! Hurry!」%K%P

@@ -141,7 +141,7 @@ Kid「Or who I am...」%K%P
 You「Huh?」%K%P
 0x38C
 優「ちょ、ちょ、ちょ、ちょ、ちょっと待って？」%K%P
-You「Wa-wa-wait a second.」%K%P
+You「Wa-Wa-Wait a second.」%K%P
 0x3A0
 優「少年はマヨのお兄ちゃんなんだよねぇ？　そのことは、ちゃんと思い出したんだよねぇ？」%K%P
 You「You're Mayo's brother, right? You did remember that, don't you?」%K%P
@@ -1092,7 +1092,7 @@ Tsugumi stopped walking.%K%P
 She quickly flipped up her skirt with her hands.%K%P
 0x1614
 武「バ、バカッ！」%K%P
-Takeshi「C-cut it out!」%K%P
+Takeshi「C-Cut it out!」%K%P
 0x1620
 俺は慌ててつぐみの手をひっぱたき、それを止めた。%K%P
 In shock, I slapped Tsugumi's hand and stopped her.%K%P

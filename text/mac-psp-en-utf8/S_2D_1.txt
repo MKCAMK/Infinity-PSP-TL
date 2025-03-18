@@ -201,7 +201,7 @@ She walked briskly toward the corner of the room...%K%P
 And flipped off the light switch.%K%P
 0x540
 武「な、なんだよいきなり。暗いじゃないか」%K%P
-Takeshi「Wh-what are you thinking? It's dark.」%K%P
+Takeshi「Wh-What are you thinking? It's dark.」%K%P
 0x54C
 つぐみ「どう？　これで気が済んだ？」%K%P
 Tsugumi「How about that? Satisfied?」%K%P
@@ -330,7 +330,7 @@ You「You can hide anywhere as long as it's on the third floor. Alright, everyon
 You「Ready...」%K%P
 0x8B8
 武「ち、ちょっと待ったぁ！」%K%P
-Takeshi「W-wait a sec!」%K%P
+Takeshi「W-Wait a sec!」%K%P
 0x8CC
 優が片手をあげて号令をかけるのを、武は慌てて止めた。%K%P
 Takeshi held up a hand, hurriedly stopping You from sending everyone off.%K%P
@@ -759,7 +759,7 @@ Takeshi「*Cough*, *cough*... pwahh!」%K%P
 Floundering in the water, Takeshi stood up.%K%P
 0x13C8
 武「って、おっ、おばえだあぁ〜〜！！」%K%P
-Takeshi「H-hey, you!」%K%P
+Takeshi「H-Hey, you!」%K%P
 0x13D4
 優「ふっふっふっ……この勝負もらった！」%K%P
 You「Heehee... I won this battle!」%K%P
@@ -1203,7 +1203,7 @@ Takeshi「Hey! I know someone's there! Who is it!?」%K%P
 You「He found us! Run!」%K%P
 0x1FB4
 少年「う、うん！　で、でも……」%K%P
-Kid「Yeah! B-but...」%K%P
+Kid「Yeah! B-But...」%K%P
 0x1FC0
 逃げる、って……どこに？%K%P
 Where could we run?%K%P
@@ -1269,7 +1269,7 @@ Sara「I know! I've got a great idea!」%K%P
 Saying that, Sara stopped suddenly.%K%P
 0x2528
 少年「な、なに？」%K%P
-Kid「Wh-what?」%K%P
+Kid「Wh-What?」%K%P
 0x2534
 空「どうしたのですか？」%K%P
 Sora「What is it?」%K%P
@@ -1374,7 +1374,7 @@ A watertight door blocked our way forward.%K%P
 Kid「We're stuck!」%K%P
 0x27C0
 沙羅「い、行き止まり！？」%K%P
-Sara「A-a dead end!?」%K%P
+Sara「A-A dead end!?」%K%P
 0x27CC
 空「だから、私は申し上げたのですが……」%K%P
 Sora「That's what I was saying...」%K%P
@@ -1554,7 +1554,7 @@ Clatter, clatter, clatter...%K%P
 The sound of a can being kicked rang out in the darkness.%K%P
 0x2CA4
 少年「あ、あれれ？？」%K%P
-Kid「Wh-what was that?」%K%P
+Kid「Wh-What was that?」%K%P
 0x2CB8
 優「な、なんだか、よくわかんないけど……」%K%P
 You「I have no idea, but...」%K%P
@@ -1977,7 +1977,7 @@ Her eyes were on the can.%K%P
 It was as if she knew where the can was.%K%P
 0x3A18
 （ち、ちくしょー！　缶の位置は変えたはずなのにっ）%K%P
-(D-damn! I thought I changed the location of the can.)%K%P
+(D-Damn! I thought I changed the location of the can.)%K%P
 0x3A24
 ぼくも缶へと走り寄る。%K%P
 I also ran toward the can.%K%P
