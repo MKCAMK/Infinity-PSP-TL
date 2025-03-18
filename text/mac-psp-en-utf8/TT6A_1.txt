@@ -33,7 +33,7 @@ Tsugumi smiled slightly.%K%P
 Tsugumi「You really like to waste your time, don't you, Takeshi?」%K%P
 0x100
 武「わ、悪あがきって言うなよ」%K%P
-Takeshi「Th-this isn't wasting time.」%K%P
+Takeshi「Th-This isn't wasting time.」%K%P
 0x114
 つぐみ「ふふっ、ごめんね……でも」%K%P
 Tsugumi「Haha, sorry... but...」%K%P
@@ -153,7 +153,7 @@ Takeshi「What?」%K%P
 Tsugumi「TB's incubation period is two to seven days... That's consistent with the timing of Coco's symptoms, isn't it?」%K%P
 0x380
 武「た、確かに……そうだな」%K%P
-Takeshi「Y-yeah... I guess you're right.」%K%P
+Takeshi「Y-Yeah... I guess you're right.」%K%P
 0x38C
 武「ココは事前にＩＢＦを訪れた際に、何らかの経路でＴＢに感染してしまった……」%K%P
 Takeshi「When Coco came to IBF, she was probably exposed to TB somehow...」%K%P
@@ -171,7 +171,7 @@ Tsugumi「When they found that a few people had become infected, they must have 
 Tsugumi「As people started dying, the staff here tried to escape, and when the escape pods ran out...」%K%P
 0x3D8
 武「ま、待て！　だとしたら……！！」%K%P
-Takeshi「W-wait! That means...!」%K%P
+Takeshi「W-Wait! That means...!」%K%P
 0x3E4
 武「あの警報は……」%K%P
 Takeshi「That alarm meant...」%K%P
@@ -294,7 +294,7 @@ Tsugumi「I want to go with you, Takeshi... Together...」%K%P
 Takeshi「Huh? Did you say something?」%K%P
 0x62C
 つぐみ「な、なんでもないっ」%K%P
-Tsugumi「I-it's nothing.」%K%P
+Tsugumi「I-It's nothing.」%K%P
 0x638
 つぐみは何故か、顔を赤らめている。%K%P
 For some reason, Tsugumi's face was red.%K%P
@@ -351,13 +351,13 @@ I quickly put my hand to my nose.%K%P
 My upper lip was wet with something.%K%P
 0x784
 つぐみ「ち、ちょっと？　大丈夫？」%K%P
-Tsugumi「He-hey? Are you okay?」%K%P
+Tsugumi「He-Hey? Are you okay?」%K%P
 0x790
 心配そうにつぐみが顔を覗き込んだ。%K%P
 Tsugumi looked worriedly at my face.%K%P
 0x79C
 武「だ、大丈夫、大丈夫……」%K%P
-Takeshi「I-it's fine, it's fine...」%K%P
+Takeshi「I-It's fine, it's fine...」%K%P
 0x7A8
 上を向いたまま鼻の下を拭い、俺は答える。%K%P
 I looked up and wiped under my nose as I replied.%K%P
@@ -366,7 +366,7 @@ I looked up and wiped under my nose as I replied.%K%P
 Takeshi「I wasn't thinking anything sexual! Absolutely! Positively!」%K%P
 0x7C8
 つぐみ「べ、別に私……そんなこと、気にしてない」%K%P
-Tsugumi「I-it's not like I... I don't care about that!」%K%P
+Tsugumi「I-It's not like I... I don't care about that!」%K%P
 0x7D4
 武「なら、いいんだけんどさぁ〜」%K%P
 Takeshi「Well, alright then...」%K%P
@@ -441,10 +441,10 @@ Tsugumi「Takeshi, hang in there!」%K%P
 Takeshi「Huh... Quit shaking me, it's making me feel sick.」%K%P
 0xA84
 つぐみ「ご、ごめんっ……」%K%P
-Tsugumi「S-sorry...」%K%P
+Tsugumi「S-Sorry...」%K%P
 0xA90
 武「いや、大丈夫。大丈夫だって、つぐみ」%K%P
-Takeshi「N-no, I'm fine. Don't worry, Tsugumi...」%K%P
+Takeshi「N-No, I'm fine. Don't worry, Tsugumi...」%K%P
 0xAA4
 つぐみ「全然大丈夫じゃないっ！」%K%P
 Tsugumi「You're not fine at all!」%K%P
@@ -456,7 +456,7 @@ Tsugumi「You're bleeding all over, Takeshi!」%K%P
 Tsugumi「We need to get you to the examination room and get you looked at right away.」%K%P
 0xAD0
 武「あ、ああ。げほっ」%K%P
-Takeshi「Y-yeah... *Cough*...」%K%P
+Takeshi「Y-Yeah... *Cough*...」%K%P
 0xAE4
 いかん、いかんぞ……。%K%P
 It wasn't a good situation...%K%P
@@ -537,7 +537,7 @@ Takeshi「.........」%K%P
 Tsugumi「Takeshi, I want you to get scanned too.」%K%P
 0xCD4
 武「な、なんでだよっ！」%K%P
-Takeshi「Wh-why!?」%K%P
+Takeshi「Wh-Why!?」%K%P
 0xCE8
 つぐみ「スキャンを受けてよ……お願いだから」%K%P
 Tsugumi「Just let me scan you... please.」%K%P
@@ -555,7 +555,7 @@ Tsugumi gently took the Kid off of the L-MRI examination table and forcefully pu
 Pressing on both of my shoulders, she forced me down on the table.%K%P
 0xD2C
 武「そ、そんなことしなくたって……わかったよ、受けるよ」%K%P
-Takeshi「Y-you don't have to do that... Fine, I'll let you check me.」%K%P
+Takeshi「Y-You don't have to do that... Fine, I'll let you check me.」%K%P
 0xD38
 俺はつぐみの腕を振り払った。%K%P
 I brushed Tsugumi's hands off of me.%K%P
@@ -567,7 +567,7 @@ Takeshi「See? I'm lying down now.」%K%P
 Tsugumi「Okay... You, please start the scan.」%K%P
 0xD64
 優「う、うん」%K%P
-You「O-okay.」%K%P
+You「O-Okay.」%K%P
 0xDA0
 コントロールパネルを優が操作する。%K%P
 You started operating the control panel.%K%P
@@ -582,7 +582,7 @@ After a while...%K%P
 You「The scan's finished...」%K%P
 0xDF4
 武「け、結果はっ」%K%P
-Takeshi「Wh-what's it say?」%K%P
+Takeshi「Wh-What's it say?」%K%P
 0xE00
 自分の声が僅かに上擦っているのがわかる。%K%P
 My voice cracked when I asked the question.%K%P
@@ -591,7 +591,7 @@ My voice cracked when I asked the question.%K%P
 You「.........」%K%P
 0xE20
 武「な、なんとか言えよ優」%K%P
-Takeshi「A-at least say something, You.」%K%P
+Takeshi「A-At least say something, You.」%K%P
 0xE2C
 優「結果は……」%K%P
 You「The results are...」%K%P
@@ -606,7 +606,7 @@ Tsugumi「The result is positive... You're infected too, Takeshi.」%K%P
 Tsugumi read the monitor for me.%K%P
 0xE6C
 武「……！！　そ……そうか……」%K%P
-Takeshi「...! R-really...?」%K%P
+Takeshi「...! R-Really...?」%K%P
 0xE78
 つぐみ「残念だけど……」%K%P
 Tsugumi「I'm sorry to say it, but...」%K%P
@@ -645,7 +645,7 @@ Putting my hand on a wall, I somehow held myself up.%K%P
 Kid「We're in trouble, huh...?」%K%P
 0x104C
 武「ま、まあな……」%K%P
-Takeshi「Y-you can say that again...」%K%P
+Takeshi「Y-You can say that again...」%K%P
 0x1060
 少年「例のアンプルがあれば、オレンジのアンプル……うっ」%K%P
 Kid「If only we had that serum... The orange one... agh.」%K%P
@@ -657,7 +657,7 @@ The Kid pressed his hand to his face.%K%P
 As he wiped his mouth, I noticed a thin trail of blood there.%K%P
 0x1084
 武「そ、そうだ、アンプルだ……。ＩＢＦでＴＢを扱ってたのなら、あれもここにあるはずだ」%K%P
-Takeshi「Y-yeah, the serum... If they've been handling TB here at IBF, they should have some of that.」%K%P
+Takeshi「Y-Yeah, the serum... If they've been handling TB here at IBF, they should have some of that.」%K%P
 0x1090
 武「あれを使えば、症状は軽減される……」%K%P
 Takeshi「If we use that, then the symptoms should lessen...」%K%P
@@ -714,7 +714,7 @@ Takeshi「!?」%K%P
 Pipi「*Bow-wow*!」%K%P
 0x11BC
 武「ま、またお前！　どこから……？」%K%P
-Takeshi「H-hey! Where'd you get...?」%K%P
+Takeshi「H-Hey! Where'd you get...?」%K%P
 0x11C8
 優「どうしたの？　……あっ！」%K%P
 You「What's wrong...? Ah!」%K%P
@@ -768,7 +768,7 @@ He nodded.%K%P
 Takeshi「.........」%K%P
 0x1294
 武「と、とにかく注射だ……」%K%P
-Takeshi「W-well, we need to take these immediately...」%K%P
+Takeshi「W-Well, we need to take these immediately...」%K%P
 0x12A8
 武「すまん優、準備をしてくれ。注射がまともにできるのはお前だけだ」%K%P
 Takeshi「Sorry, You, but get these ready. You're the only one who knows how to give shots.」%K%P
@@ -777,7 +777,7 @@ Takeshi「Sorry, You, but get these ready. You're the only one who knows how to 
 Tsugumi「I found some syringes over here, You.」%K%P
 0x12C0
 優「わ、わかった！」%K%P
-You「O-okay!」%K%P
+You「O-Okay!」%K%P
 0x12D4
 俺達は床のアンプルをかき集めて、ベッドの上に並べた。%K%P
 We gathered all of the cartridges of serum from the floor and put them on the bed.%K%P
@@ -861,7 +861,7 @@ Her coughing finally stopped.%K%P
 But her hands wouldn't go still.%K%P
 0x148C
 武「ど、どうしたんだよ。調子悪いのか？　代わりに注射してやろうか？」%K%P
-Takeshi「Wh-what's wrong? You aren't feeling well? You want me to give the shot to you?」%K%P
+Takeshi「Wh-What's wrong? You aren't feeling well? You want me to give the shot to you?」%K%P
 0x14A0
 優「え、や、やだよう……」%K%P
 You「Huh, n-no way...」%K%P
@@ -1461,7 +1461,7 @@ Takeshi「Smallpox, penicillin, snake antivenom...」%K%P
 Takeshi「You're pretty smart, so this should make sense to you, right?」%K%P
 0x214C
 つぐみ「ま……まさか、そんな」%K%P
-Tsugumi「N-no way.」%K%P
+Tsugumi「N-No way.」%K%P
 0x2158
 武「そういうことだ」%K%P
 Takeshi「It's our only chance.」%K%P
@@ -1989,7 +1989,7 @@ Was I actually hearing someone's voice over the speaker!?%K%P
 I hurried over to the terminal and removed You's hands from it, taking over the control panel.%K%P
 0x3048
 武「も、もしもしっ！」%K%P
-Takeshi「H-hello!」%K%P
+Takeshi「H-Hello!」%K%P
 0x3054
 武「こちらＩＢＦ診療室……どうぞ」%K%P
 Takeshi「This is the IBF infirmary... over!」%K%P
@@ -2064,7 +2064,7 @@ Mission Control「However, if something goes wrong...」%K%P
 Mission Control「There should be a small deep-exploration submarine left in the research facility. I hate to make you do this, but I want you to escape to that area.」%K%P
 0x3174
 武「ま、万一、って？　どういうことだ？」%K%P
-Takeshi「S-something goes wrong...? Wh-what do you mean...?」%K%P
+Takeshi「S-Something goes wrong...? Wh-What do you mean...?」%K%P
 0x3180
 管制官「ＬｅＭＵの隔壁強度は、既に限界を超えている」%K%P
 Mission Control「LeMU's partition strength threshold is already being exceeded.」%K%P
@@ -2091,7 +2091,7 @@ Click...%K%P
 The communications cut out suddenly.%K%P
 0x31E0
 武「あっ、おい！　ま、待ってくれ！」%K%P
-Takeshi「Ah, hey! W-wait a sec!」%K%P
+Takeshi「Ah, hey! W-Wait a sec!」%K%P
 0x31EC
 パネルの通話キーを何度も叩いたが、応答はなかった。%K%P
 I hit the call button repeatedly, but there was no answer.%K%P
@@ -2256,7 +2256,7 @@ I realized how much I had missed that voice.%K%P
 I waved to Sora as she appeared outside the window.%K%P
 0x3880
 空「な、なにやってるんですか、こんなところで！」%K%P
-Sora「Wh-what are you doing here!?」%K%P
+Sora「Wh-What are you doing here!?」%K%P
 0x388C
 武「そんなの、聞くまでもないだろ？　戻って来たんだ」%K%P
 Takeshi「Well, it's obvious, isn't it? I came back.」%K%P
@@ -2310,7 +2310,7 @@ Takeshi「I need to know how much time!」%K%P
 Sora「If I hurry... twelve hours.」%K%P
 0x3958
 武「じゅ、じゅうにじかんっ！？　そんなに待ってられるかよ！」%K%P
-Takeshi「Tw-twelve hours!? We don't have that long!」%K%P
+Takeshi「Tw-Twelve hours!? We don't have that long!」%K%P
 0x3964
 空「血液中に溶け込んだ窒素を排出しないと、減圧症になってしまいます」%K%P
 Sora「If we don't dissolve the nitrogen in your blood, you will get decompression sickness.」%K%P
@@ -2589,7 +2589,7 @@ Takeshi「Well, I guess I'm a bit late, but...」%K%P
 I scratched my nose.%K%P
 0x444C
 つぐみ「ば、バカっ！　何しに来たのよ！！」%K%P
-Tsugumi「Y-you idiot! What are you doing here!?」%K%P
+Tsugumi「Y-You idiot! What are you doing here!?」%K%P
 0x4458
 つぐみ「死ぬ……つもりなの！？」%K%P
 Tsugumi「Do you... want do die!?」%K%P
@@ -3126,13 +3126,13 @@ Takeshi「Well...」%K%P
 Takeshi「I might just take a nap until the next bus comes...」%K%P
 0x4FF8
 つぐみ「ば、バス？」%K%P
-Tsugumi「B-bus?」%K%P
+Tsugumi「B-Bus?」%K%P
 0x5004
 武「もしバスが来るのが遅いようなら、タクシー呼んでくれ」%K%P
 Takeshi「If you think the bus is going to be late, call a taxi for me, will you?」%K%P
 0x5018
 つぐみ「た、タクシー……？？」%K%P
-Tsugumi「T-taxi?」%K%P
+Tsugumi「T-Taxi?」%K%P
 0x5024
 つぐみ「何、言ってるのよ……武？」%K%P
 Tsugumi「What are you talking about... Takeshi?」%K%P
@@ -3141,7 +3141,7 @@ Tsugumi「What are you talking about... Takeshi?」%K%P
 Takeshi「If you push that button, a small submarine will come over here by remote control―our very own private taxi should come here from another area of IBF.」%K%P
 0x5044
 つぐみ「う、うん……」%K%P
-Tsugumi「O-okay...」%K%P
+Tsugumi「O-Okay...」%K%P
 0x5050
 武「まぁ、とにかく」%K%P
 Takeshi「Anyway...」%K%P

@@ -36,7 +36,7 @@ Tsugumi「Takeshi, get up.」%K%P
 Tsugumi「The taxi's here.」%K%P
 0x1A4
 武「あ、ああ……」%K%P
-Takeshi「O-okay...」%K%P
+Takeshi「O-Okay...」%K%P
 0x1C0
 ベッドから跳ねるようにして、武は起き上がった。%K%P
 Takeshi jumped out of bed and stood up.%K%P
@@ -441,7 +441,7 @@ Tsugumi「What does it say...?」%K%P
 Takeshi「You're closer than I am, so why don't you turn around and look at it yourself?」%K%P
 0xED4
 つぐみ「い……嫌よ……」%K%P
-Tsugumi「N-no...」%K%P
+Tsugumi「N-No...」%K%P
 0xEE0
 つぐみ「見たくない……」%K%P
 Tsugumi「I don't want to see it...」%K%P
@@ -636,7 +636,7 @@ Tsugumi raised her voice.%K%P
 A single tear fell, rolling down cheek.%K%P
 0x1220
 つぐみ「な、なにやってるのよ、武！？」%K%P
-Tsugumi「Wh-what are you doing, Takeshi!?」%K%P
+Tsugumi「Wh-What are you doing, Takeshi!?」%K%P
 0x122C
 武「何って、お前……見てわからないか？」%K%P
 Takeshi「What... you can't tell by looking?」%K%P
@@ -1083,7 +1083,7 @@ I had no idea of what had happened after that.%K%P
 I couldn't imagine that I had been standing outside all night...%K%P
 0x1C8C
 少年「あ、あれっ？」%K%P
-Kid「H-huh?」%K%P
+Kid「H-Huh?」%K%P
 0x1C98
 そう言えば、他のみんなの姿がなかった。%K%P
 I suddenly realized that nobody else was there.%K%P

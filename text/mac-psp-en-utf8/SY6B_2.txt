@@ -216,7 +216,7 @@ Kid「............」%K%P
 You「But you have to promise not to laugh. Okay?」%K%P
 0x490
 少年「う、うん、もちろんだよ……」%K%P
-Kid「S-sure...」%K%P
+Kid「S-Sure...」%K%P
 0x49C
 優「よし！　それでは教えて進ぜよう！」%K%P
 You「Alright! Here I go!」%K%P
@@ -426,7 +426,7 @@ We looked at a map of the complex and talked about various possibilities.%K%P
 You「Huh!?」%K%P
 0x958
 少年「な、なに……この音……？」%K%P
-Kid「Wh-what... What does that shout mean...?」%K%P
+Kid「Wh-What... What does that shout mean...?」%K%P
 0x964
 優「ま、まさか……これ……」%K%P
 You「Could it be... that this...」%K%P
@@ -453,7 +453,7 @@ It showed the face of a girl that I didn't recognize.%K%P
 You「.........」%K%P
 0x9FC
 優「おかあ……さん……」%K%P
-You「M-mother...」%K%P
+You「M-Mother...」%K%P
 0xA08
 この人が……？%K%P
 Was she...?%K%P
@@ -768,7 +768,7 @@ Kid「.........」%K%P
 Tsugumi「It's a good thing that my prediction was off, huh?」%K%P
 0xFF4
 少年「そ、そのことなんだけど……」%K%P
-Kid「Th-that's what I wanted to ask...」%K%P
+Kid「Th-That's what I wanted to ask...」%K%P
 0x1008
 つぐみ「………………」%K%P
 Tsugumi「.........」%K%P

@@ -198,7 +198,7 @@ Sora「Let me see... Right now... Kuranari-san... is... Um...」%K%P
 Sora「Now he is just in the corridor above the changing room...」%K%P
 0x3D8
 沙羅「ね、ねぇっ！　ちょっと様子見に行った方がよくない？」%K%P
-Sara「H-hey! Maybe we should go take a look?」%K%P
+Sara「H-Hey! Maybe we should go take a look?」%K%P
 0x3E4
 少年「そ……そうだね！」%K%P
 Kid「I think you're right!」%K%P
@@ -318,7 +318,7 @@ You「Look at this... It's got a coffee stain on it... Do you believe that...?�
 There did seem to be a little black stain.%K%P
 0x914
 沙羅「そ、それだけ……？」%K%P
-Sara「Th-that's all...?」%K%P
+Sara「Th-That's all...?」%K%P
 0x920
 少年「それだけで、あの悲鳴……？」%K%P
 Kid「You screamed because of that...?」%K%P
@@ -330,7 +330,7 @@ You「Well, yeah.」%K%P
 You「I mean, this is my favorite jacket.」%K%P
 0x94C
 少年「ひ、人騒がせにも程があるよ……それに着替え終わってるなら、何も物を投げなくても……」%K%P
-Kid「D-don't just freak out like that... And if you're done changing, why'd you throw that at me...?」%K%P
+Kid「D-Don't just freak out like that... And if you're done changing, why'd you throw that at me...?」%K%P
 0x960
 優「何言ってんの！　女の子が着替えてるかもしれない部屋に、無断で入る方が悪いんだよ！」%K%P
 You「What're you talking about!? You're the one who broke into a room where a girl might be changing!」%K%P

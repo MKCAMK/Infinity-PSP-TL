@@ -57,7 +57,7 @@ Kid「I'm positive. These eyes saw her.」%K%P
 You「Maybe you've got some kind of eye disease.」%K%P
 0x1DC
 少年「えっ？　びょ、びょうき……？」%K%P
-Kid「Huh? Di-disease...?」%K%P
+Kid「Huh? Di-Disease...?」%K%P
 0x1F0
 優「うそうそ……冗談だって。どうしてすぐ本気にするかなぁ〜？」%K%P
 You「I'm kidding... It's a joke. Why do you always take everything seriously?」%K%P

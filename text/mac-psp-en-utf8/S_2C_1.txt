@@ -492,7 +492,7 @@ Takeshi「I meant to toss them as if I was handing them over... That's weird... 
 Sora「Excuse me. Kuranari-san, there is nothing strange about it.」%K%P
 0xAFC
 武「で、でもっ！　コーラ、コーラ吹いてる、かかってる……服は大丈夫か？」%K%P
-Takeshi「B-but! The cola blew up, and... is your clothing alright?」%K%P
+Takeshi「B-But! The cola blew up, and... is your clothing alright?」%K%P
 0xB08
 空「はい」%K%P
 Sora「Yes.」%K%P
@@ -543,7 +543,7 @@ You「I just had to watch because it was so funny, Kuranari...」%K%P
 You「You really don't listen to anything...」%K%P
 0xC48
 武「な、何をだよ」%K%P
-Takeshi「Wh-what are you talking about?」%K%P
+Takeshi「Wh-What are you talking about?」%K%P
 0xC54
 武はまだ錯乱していた。%K%P
 Takeshi was still confused.%K%P

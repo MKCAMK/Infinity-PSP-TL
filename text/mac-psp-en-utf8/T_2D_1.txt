@@ -171,7 +171,7 @@ And flipped off the light switch.%K%P
 Tsugumi returned to her seat and slowly sat down again.%K%P
 0x3F8
 武「な、なんだよいきなり。暗いじゃないか」%K%P
-Takeshi「Wh-what are you thinking? It's dark.」%K%P
+Takeshi「Wh-What are you thinking? It's dark.」%K%P
 0x404
 つぐみ「まぶしくって落ち着けないわ」%K%P
 Tsugumi「It was too bright for me to relax.」%K%P
@@ -444,7 +444,7 @@ You「You can hide anywhere as long as it's on the third floor. Alright, everyon
 You「Ready...」%K%P
 0xA18
 武「ち、ちょっと待ったぁ！」%K%P
-Takeshi「W-wait a sec!」%K%P
+Takeshi「W-Wait a sec!」%K%P
 0xA24
 優が片手をあげて号令をかけるのを、俺は慌てて止めた。%K%P
 I held up a hand, hurriedly stopping You from sending everyone off.%K%P
@@ -750,7 +750,7 @@ Takeshi「*Cough*, *cough*... pwahh!」%K%P
 Floundering about in the water, I stood up.%K%P
 0x12D8
 武「って、おっ、おばえだあぁ〜〜！！」%K%P
-Takeshi「H-hey, you!」%K%P
+Takeshi「H-Hey, you!」%K%P
 0x12F4
 優「ふっふっふっ……この勝負もらった！」%K%P
 You「Heehee... I won this battle!」%K%P
@@ -1371,7 +1371,7 @@ Takeshi「.........」%K%P
 Sora「Uhhhh... I, um....」%K%P
 0x236C
 空「い……いらっしゃいませぇ！」%K%P
-Sora「W-welcome... to our restaurant!」%K%P
+Sora「W-Welcome... to our restaurant!」%K%P
 0x2378
 武「はぁ？」%K%P
 Takeshi「Huh?」%K%P
@@ -1887,7 +1887,7 @@ Kid「Hey... Whose voice is that?」%K%P
 The lights turned on.%K%P
 0x2F30
 武「だ、誰が明かりをつけた！？」%K%P
-Takeshi「Wh-who turned the lights on?」%K%P
+Takeshi「Wh-Who turned the lights on?」%K%P
 0x2F44
 空「私です……」%K%P
 Sora「I did.」%K%P
@@ -1932,7 +1932,7 @@ Kid「Who could have been counting?」%K%P
 Takeshi「It wasn't you?」%K%P
 0x3034
 少年「ち、違うよ！」%K%P
-Kid「N-no!」%K%P
+Kid「N-No!」%K%P
 0x3040
 武「お前の声だったと思ったんだが……じゃあ、誰だ？」%K%P
 Takeshi「I thought it sounded like you... So then who?」%K%P
@@ -1944,7 +1944,7 @@ Kid「I d-dunno.」%K%P
 Kabing!%K%P
 0x30D4
 優「ね、ねぇ……」%K%P
-You「H-hey...」%K%P
+You「H-Hey...」%K%P
 0x30E0
 ココ「今の……缶蹴ったの」%K%P
 Coco「That was... the can being kicked.」%K%P

@@ -15,7 +15,7 @@ Coco「A whale of a time〜」%K%P
 Coco「Neeheehahahaha〜」%K%P
 0x170
 武「お、お前……」%K%P
-Takeshi「Y-you...」%K%P
+Takeshi「Y-You...」%K%P
 0x17C
 武「まさかそんなクダラナイ駄洒落を言う為に、わざわざ俺を、こんなとこまで連れて来たんじゃないだろうな？」%K%P
 Takeshi「You better not have asked me to come all this way just to tell me that stupid joke.」%K%P
@@ -30,7 +30,7 @@ Coco「No.」%K%P
 Coco「I just wanted to go on a date with you and...」%K%P
 0x1B4
 武「で、でーと？」%K%P
-Takeshi「D-date?」%K%P
+Takeshi「D-Date?」%K%P
 0x1C0
 ココ「うん」%K%P
 Coco「Yeah.」%K%P
@@ -222,7 +222,7 @@ Kid「Blick... Winkel...」%K%P
 ―Just then!%K%P
 0x638
 ――ガ、ガガ、ガガガガガガガガ、ガッゴンッ！%K%P
-―Ka-ka-ka-ka-KABOOOM!%K%P
+―Ka-Ka-Ka-Ka-KABOOOM!%K%P
 0x644
 強烈な音が鼓膜を突き刺した。%K%P
 A massive boom rocked our eardrums.%K%P

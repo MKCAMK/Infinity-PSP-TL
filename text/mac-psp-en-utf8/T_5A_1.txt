@@ -534,7 +534,7 @@ Tsugumi「You see, well... I was with Chami...」%K%P
 Takeshi「You mean your hamster?」%K%P
 0xC54
 つぐみ「そ、そうよ……」%K%P
-Tsugumi「Y-yeah...」%K%P
+Tsugumi「Y-Yeah...」%K%P
 0xC60
 武「てことは、ひとりと１匹だなぁ」%K%P
 Takeshi「In other words, one adult and one 'critter'.」%K%P
@@ -630,7 +630,7 @@ That a slight smile still remained on her face.%K%P
 Tsugumi「Let's go.」%K%P
 0xE24
 武「あ、ああ……」%K%P
-Takeshi「Y-yeah...」%K%P
+Takeshi「Y-Yeah...」%K%P
 0xE90
 俺達はゴンドラに乗り込む。%K%P
 Together, we got inside the ride.%K%P
@@ -1404,7 +1404,7 @@ Sora「.........」%K%P
 Sora「Alright, everyone, why don't we go to breakfast?」%K%P
 0x1C68
 あ、あれ……？%K%P
-Wh-what in the...?%K%P
+Wh-What in the...?%K%P
 0x1C74
 今、俺、無視されなかったか？%K%P
 Was it just me, or did she totally ignore my question?%K%P

@@ -66,7 +66,7 @@ Sora「Kuranari-san? Are you alright?」%K%P
 Takeshi「Aaaaaaaaagh!」%K%P
 0x1D8
 武「っぁあ！！　ぐえっ、ごほっ、がはぁ……」%K%P
-Takeshi「A-ahgh... *cough*, *cough*...」%K%P
+Takeshi「A-Ahgh... *cough*, *cough*...」%K%P
 0x1E4
 俺は目を白黒させながらもがき、喉の奥の肉片を胃袋へと脱出させる。%K%P
 Blinking and struggling, I finally managed to swallow the chunk of meat.%K%P
@@ -87,7 +87,7 @@ Sora「What is it?」%K%P
 Takeshi「Not a word about what you just saw, okay?」%K%P
 0x23C
 空「え、ええ……構いません。承知しました」%K%P
-Sora「Y-yes... Alright. I understand.」%K%P
+Sora「Y-Yes... Alright. I understand.」%K%P
 0x250
 空「でも、何してたんです？　何か食べていたんですか？」%K%P
 Sora「But what were you doing? Were you eating something?」%K%P
@@ -132,7 +132,7 @@ Takeshi「Oh?」%K%P
 Sora「Yes, she said she was sorry for going too far and smashing the medical equipment.」%K%P
 0x300
 武「あ、謝ったのか、あいつが！？」%K%P
-Takeshi「A-apologized? Tsugumi!?」%K%P
+Takeshi「A-Apologized? Tsugumi!?」%K%P
 0x30C
 空「はい」%K%P
 Sora「Yes.」%K%P
@@ -315,7 +315,7 @@ Coco「Takepyon? Are you alright?」%K%P
 Takeshi「Aaaaaaaaagh!」%K%P
 0x718
 武「っぁあ！！　ぐえっ、ごほっ、がはぁ……」%K%P
-Takeshi「A-ahgh...*cough*, *cough*...」%K%P
+Takeshi「A-Ahgh...*cough*, *cough*...」%K%P
 0x724
 俺は目を白黒させながらもがき、喉の奥の肉片を胃袋へと脱出させる。%K%P
 Blinking and struggling, I finally managed to swallow the chunk of meat.%K%P
@@ -396,7 +396,7 @@ Coco「And when Tsugumin ran into Sora-san in the infirmary.」%K%P
 Coco「She apologized for going all crazy and smashing the stuff. She even cleaned up the mess.」%K%P
 0x894
 武「あ、謝ったのか、あいつが！？」%K%P
-Takeshi「A-apologized? Tsugumi!?」%K%P
+Takeshi「A-Apologized? Tsugumi!?」%K%P
 0x8A0
 ココ「うん、ココはそう聞いたよ」%K%P
 Coco「Yup. That's what I heard.」%K%P
@@ -519,7 +519,7 @@ Coco「You like Tsugumin, don't you?」%K%P
 Takeshi「...Huh?」%K%P
 0xAE0
 武「ば、バカなこと言うなよ。そんなわけないだろ？」%K%P
-Takeshi「Y-you gotta be kidding me! There's no way!」%K%P
+Takeshi「Y-You gotta be kidding me! There's no way!」%K%P
 0xAEC
 ココ「そう？　そうかなぁ？」%K%P
 Coco「Really? I wonder?」%K%P

@@ -117,7 +117,7 @@ Of course, no one was riding it...%K%P
 All of a sudden, it no longer seemed so lonely, but that much more spooky.%K%P
 0x394
 武「どどどどどど、どーなってんの！」%K%P
-Takeshi「Wh-wh-wh-what is this?」%K%P
+Takeshi「Wh-Wh-Wh-What is this?」%K%P
 0x3A0
 武「気をつけろ！　この遊園地は呪われている！」%K%P
 Takeshi「Watch out! This place is haunted.」%K%P
@@ -354,7 +354,7 @@ Takeshi「...What?」%K%P
 You「He just went missing...」%K%P
 0x81C
 武「い、いつ！？」%K%P
-Takeshi「Wh-when?」%K%P
+Takeshi「Wh-When?」%K%P
 0x828
 優「それが……」%K%P
 You「He...」%K%P
@@ -702,7 +702,7 @@ Takeshi「If you're eighteen, then you've got a baby face.」%K%P
 Takeshi「Geez! Don't tell me you forget your own face?」%K%P
 0xE98
 少年「……か、お？」%K%P
-Kid「...F-face?」%K%P
+Kid「...F-Face?」%K%P
 0xEA4
 武「心配なら後で鏡見て、自分の似顔絵もメモっとけばいいんじゃないか……？」%K%P
 Takeshi「If you're worried about it, go take a look in the mirror. You could sketch a self-portrait in case you forget later...」%K%P

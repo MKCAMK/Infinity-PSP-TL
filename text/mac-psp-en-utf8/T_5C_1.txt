@@ -126,7 +126,7 @@ Tsugumi「I'd like to ask for another one if that's okay.」%K%P
 Takeshi「GEEZ!」%K%P
 0x318
 つぐみ「な、何よ、武……」%K%P
-Tsugumi「Wh-what, Takeshi...?」%K%P
+Tsugumi「Wh-What, Takeshi...?」%K%P
 0x324
 つぐみ「機嫌悪そうね……」%K%P
 Tsugumi「Did I catch you at a bad time...?」%K%P
@@ -396,7 +396,7 @@ I pretended to show surprise.%K%P
 Takeshi「Be careful, those're some gourmet goods, you know?」%K%P
 0x880
 優「な、何よぉ！　そっちが突然投げたんじゃないのよ！？」%K%P
-You「W-well, you're the one who threw it all of a sudden!」%K%P
+You「W-Well, you're the one who threw it all of a sudden!」%K%P
 0x88C
 優は頬を膨らませる。%K%P
 You's cheeks puffed up.%K%P
@@ -507,7 +507,7 @@ He took the mangled package and...%K%P
 Threw it with all of his might against the water on the ground.%K%P
 0xB00
 武「な、なっ！？」%K%P
-Takeshi「Wh-what!?」%K%P
+Takeshi「Wh-What!?」%K%P
 0xB0C
 武「なにやってんだよっ！　お前っ！！」%K%P
 Takeshi「What the hell are you doing!?」%K%P
@@ -1131,7 +1131,7 @@ Takeshi「Sora...!?」%K%P
 After watching her run off, Tsugumi stood right in front of me.%K%P
 0x1A8C
 武「な……なんだよ？」%K%P
-Takeshi「Wh-what?」%K%P
+Takeshi「Wh-What?」%K%P
 0x1A98
 つぐみは俺を睨みつけていた。%K%P
 Tsugumi was glaring at me.%K%P
@@ -1410,7 +1410,7 @@ Sora「I have no need to consume organic matter.」%K%P
 Sora「It is unnecessary for me to eat to continue life.」%K%P
 0x2034
 武「な、何言ってるんだよっ！」%K%P
-Takeshi「Wh-what are you talking about!?」%K%P
+Takeshi「Wh-What are you talking about!?」%K%P
 0x2040
 武「空っ！！」%K%P
 Takeshi「Soraaa!!」%K%P
@@ -1713,7 +1713,7 @@ What was she thinking...?%K%P
 Takeshi「Ouch!」%K%P
 0x2780
 武「な、な、な、何すんだよっ……痛ーっ！」%K%P
-Takeshi「Wh-wh-wh-what are you doing...!? That hurts!」%K%P
+Takeshi「Wh-Wh-Wh-What are you doing...!? That hurts!」%K%P
 0x2794
 つぐみ「いいから、来なさい！」%K%P
 Tsugumi「Stop whining and get over here!」%K%P
@@ -1728,7 +1728,7 @@ Totally clueless, I followed along behind her.%K%P
 She had grabbed my ear and mercilessly tugged...%K%P
 0x27DC
 武「は、放せっ！　つぐみっ！」%K%P
-Takeshi「L-let me go! Tsugumi!」%K%P
+Takeshi「L-Let me go! Tsugumi!」%K%P
 0x27E8
 武「なんでこんなことするんだよっ！　痛た……」%K%P
 Takeshi「Why are you doing this!? Ouch...」%K%P
@@ -1779,7 +1779,7 @@ Tsugumi「Just when I thought you'd FINALLY shut up...」%K%P
 Tsugumi let out a big sigh.%K%P
 0x2934
 武「な、なんだよ、その顔は」%K%P
-Takeshi「Wh-what's that face supposed to mean!?」%K%P
+Takeshi「Wh-What's that face supposed to mean!?」%K%P
 0x2948
 つぐみ「見てのとおり……」%K%P
 Tsugumi「Just what it looks like...」%K%P
@@ -1800,7 +1800,7 @@ She looked completely fed up.%K%P
 Tsugumi turned, and she started walking away from me.%K%P
 0x2998
 武「お、おい！　ちょっと待てよ！」%K%P
-Takeshi「H-hey! Wait a second!」%K%P
+Takeshi「H-Hey! Wait a second!」%K%P
 0x29C8
 武「なんでだ？」%K%P
 Takeshi「Why?」%K%P
@@ -1869,7 +1869,7 @@ Tsugumi「Okay, I will...」%K%P
 Tsugumi「It's a stupid question, but I'll answer it for you anyway.」%K%P
 0x2B10
 武「あ、ああ……」%K%P
-Takeshi「O-okay...」%K%P
+Takeshi「O-Okay...」%K%P
 0x2B24
 唐突につぐみは、微笑んで俺を見た。%K%P
 All of a sudden, Tsugumi smiled at me.%K%P
@@ -1890,7 +1890,7 @@ Takeshi「...I was fairly angry... so I really don't remember that well...」%K%
 Takeshi「And might not have been all 'there' at the time...」%K%P
 0x2B6C
 武「で、でもなぁっ！」%K%P
-Takeshi「B-but you know!」%K%P
+Takeshi「B-But you know!」%K%P
 0x2B78
 武「俺は少年に、間違ったことを言ったとは思ってない！」%K%P
 Takeshi「I really don't think I said anything wrong to the Kid!」%K%P

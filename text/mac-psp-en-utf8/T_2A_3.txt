@@ -78,7 +78,7 @@ Tsugumi took the lit torch in hand and slowly stood up.%K%P
 Blue flame erupted from it like a jet engine, hissing in the dim light.%K%P
 0x280
 武「ま、ま、ま、まさか……」%K%P
-Takeshi「N-n-n-n-no way...」%K%P
+Takeshi「N-N-N-N-No way...」%K%P
 0x28C
 武「冗談だろ？　つぐみ……」%K%P
 Takeshi「You're kidding, right? Tsugumi...」%K%P
@@ -105,7 +105,7 @@ A coin-sized hole opened in the egg-shaped elevator, and seawater came spurting 
 Takeshi「You idiot! Idiot! Idiooot!」%K%P
 0x380
 武「どどどどどどどどどーすんだよ、おまえ！」%K%P
-Takeshi「Wh-wh-wh-wh-what're you trying to do?」%K%P
+Takeshi「Wh-Wh-Wh-Wh-What're you trying to do?」%K%P
 0x38C
 武「あな、あな、あな、あな開いちゃったじゃねーかよ！」%K%P
 Takeshi「A hole! There's a hole!」%K%P
@@ -186,7 +186,7 @@ Tsugumi stared at me.%K%P
 It was a serious, hard look.%K%P
 0x5A0
 武「よ、よーしっ、上等じゃねーか！」%K%P
-Takeshi「F-fine, have it your way!」%K%P
+Takeshi「F-Fine, have it your way!」%K%P
 0x5AC
 武「こうなったら最後の最後まで、たとえ地の底水の底！　徹底的に付き合ってやらぁ！！」%K%P
 Takeshi「I'll go along with you to the end! Even if we sink to the bottom of the ocean!」%K%P
@@ -261,7 +261,7 @@ My legs were floating... I was on my toes...%K%P
 I kicked off the floor with all my power and seized an edge of the ceiling.%K%P
 0x994
 武「な、なぁ……」%K%P
-Takeshi「H-hey...」%K%P
+Takeshi「H-Hey...」%K%P
 0x9A0
 武「この状況って、非常にやばいんじゃないでしょうか？」%K%P
 Takeshi「Don't you think this is pretty dangerous?」%K%P
@@ -276,7 +276,7 @@ It seemed she was getting a little worried.%K%P
 Takeshi「I wonder if... we'll die like this...」%K%P
 0x9D0
 つぐみ「か、かもね……」%K%P
-Tsugumi「M-maybe...」%K%P
+Tsugumi「M-Maybe...」%K%P
 0x9DC
 武「『かもね♪』じゃないだろーが！」%K%P
 Takeshi「No, not 'maybe'!」%K%P
@@ -540,7 +540,7 @@ Tsugumi「Yes. I did.」%K%P
 Tsugumi「What about it?」%K%P
 0x10EC
 武「な、なーんだ、やっぱりお前は、俺のことを頼りにしてたんじゃないか」%K%P
-Takeshi「S-s-so you are depending on me after all.」%K%P
+Takeshi「S-S-So you are depending on me after all.」%K%P
 0x10F8
 武「ようやく認める気になったか」%K%P
 Takeshi「And now you finally admit it?」%K%P
@@ -675,7 +675,7 @@ Tsugumi「So don't get me wrong.」%K%P
 Tsugumi「Of the five people trapped here, you're the heaviest, right?」%K%P
 0x137C
 武「て、てめぇ……俺は漬物石じゃねぇんだぞ！」%K%P
-Takeshi「Y-you... I'm not just some big rock paperweight!」%K%P
+Takeshi「Y-You... I'm not just some big rock paperweight!」%K%P
 0x1390
 つぐみ「そうね、あなたは漬物石って言うよりも、ただの……」%K%P
 Tsugumi「No. You're more than a rock...」%K%P

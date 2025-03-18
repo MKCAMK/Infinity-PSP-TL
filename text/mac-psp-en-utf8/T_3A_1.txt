@@ -357,13 +357,13 @@ Kid「Ah...!」%K%P
 The Kid suddenly looked up at the ceiling.%K%P
 0x8C8
 少年「あ、あれっ……？？」%K%P
-Kid「Wh-what's that...?」%K%P
+Kid「Wh-What's that...?」%K%P
 0x8D4
 何かを見つけたように、視線を宙にクギ付けにして、目をしばたいている。%K%P
 He blinked; his eyes were focused on the ceiling as if he had seen something.%K%P
 0x8F0
 武「お、おい、どうしたんだ？」%K%P
-Takeshi「H-hey, what's wrong?」%K%P
+Takeshi「H-Hey, what's wrong?」%K%P
 0x8FC
 気になって俺は声をかけた。%K%P
 My curiosity piqued, I asked him.%K%P
@@ -441,7 +441,7 @@ Tsugumi placed the wrapper on the counter...%K%P
 Slowly, with the ketchup in her right hand and the mustard in her left, she squeezed the tubes. Their contents gushed out.%K%P
 0xAB4
 武「お、おい、つぐみ」%K%P
-Takeshi「H-hey, Tsugumi!」%K%P
+Takeshi「H-Hey, Tsugumi!」%K%P
 0xAC8
 つぐみ「何？」%K%P
 Tsugumi「What?」%K%P
@@ -462,7 +462,7 @@ Tsugumi bit into the hotdog.%K%P
 Tsugumi「.........」%K%P
 0xB20
 武「な、な？　辛い？　かれーだろ？」%K%P
-Takeshi「H-hey? Is it spicy? I bet it's spicy?」%K%P
+Takeshi「H-Hey? Is it spicy? I bet it's spicy?」%K%P
 0xB34
 つぐみ「そんなことない」%K%P
 Tsugumi「Not really.」%K%P
@@ -597,7 +597,7 @@ Suddenly, a low metallic sound reverberated throughout the complex.%K%P
 It was a dull, muffled sound.%K%P
 0xE60
 武「な、なんだ！？」%K%P
-Takeshi「Wh-what was that!?」%K%P
+Takeshi「Wh-What was that!?」%K%P
 0xE6C
 つぐみ「少し……揺れたわね」%K%P
 Tsugumi「This whole place just shook... a little.」%K%P
@@ -759,7 +759,7 @@ Sora「Yes, Kuranari-san. What is it?」%K%P
 Takeshi「You mention you'd 'overslept' earlier...?」%K%P
 0x11FC
 空「ああっ、ごめんなさいっ……」%K%P
-Sora「Y-yes, I'm sorry...」%K%P
+Sora「Y-Yes, I'm sorry...」%K%P
 0x1208
 空は顔を赤らめてもじもじとした。%K%P
 Sora's face went a deep shade of red.%K%P

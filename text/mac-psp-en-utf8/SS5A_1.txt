@@ -162,7 +162,7 @@ I tried to grab Sara, but she swam away from me.%K%P
 Sara「Just leave me alone!」%K%P
 0x448
 少年「え？　ちょ、ちょっと、沙羅？」%K%P
-Kid「Huh? W-w-wait, Sara?」%K%P
+Kid「Huh? W-W-Wait, Sara?」%K%P
 0x454
 沙羅「だからぁ、近づかないでってば、スケベ！」%K%P
 Sara「I said stay away from me, pervert!」%K%P
@@ -297,7 +297,7 @@ Kid「Is that right...?」%K%P
 Sara「Ah, heehee...」%K%P
 0x7B8
 少年「な、なに？」%K%P
-Kid「Wh-what?」%K%P
+Kid「Wh-What?」%K%P
 0x7C4
 沙羅「ぷぷぷ、少年殿は、あんな冗談を真に受けておられたか、ニンニン」%K%P
 Sara「Heehee. Kid, you take everything so seriously. Nin! Nin! Ninja!」%K%P
@@ -309,7 +309,7 @@ Kid「Oh... So... that was a joke!」%K%P
 Sara「Sure it was. Me? A ninja?」%K%P
 0x7E8
 少年「だ、だって……」%K%P
-Kid「B-but...」%K%P
+Kid「B-But...」%K%P
 0x7F4
 沙羅「あはは、でも、泳げないのはホントだよ」%K%P
 Sara「Ahaha, but it's true that I can't swim.」%K%P
@@ -465,7 +465,7 @@ Kid「No I'm not.」%K%P
 Sara「Oh! I know what it is.」%K%P
 0xAEC
 少年「な、なにが？」%K%P
-Kid「Wh-what?」%K%P
+Kid「Wh-What?」%K%P
 0xB00
 沙羅「少年、私の水着姿にホレたな〜。だ〜めだよ、おそっちゃぁ！」%K%P
 Sara「It's because I look so good in this swimsuit! Better keep your hands off!」%K%P
@@ -627,7 +627,7 @@ Sara「Of course I do!」%K%P
 Kid「Hmmm. Really?」%K%P
 0xE74
 沙羅「な、なに？」%K%P
-Sara「Wh-whaddya mean?」%K%P
+Sara「Wh-Whaddya mean?」%K%P
 0xE80
 少年「ねえ、沙羅」%K%P
 Kid「Listen, Sara.」%K%P
@@ -843,7 +843,7 @@ I approached Sara.%K%P
 Sara「Paaa... AHAHAhaaaaaa!」%K%P
 0x1424
 少年「な、なんだよ」%K%P
-Kid「Wh-what?」%K%P
+Kid「Wh-What?」%K%P
 0x1430
 沙羅「だって、プププ、あんなにあっさり引っかかるんだもん、クククク……」%K%P
 Sara「You fall for EVERYTHING so easily! Heehee...」%K%P
@@ -1023,7 +1023,7 @@ I was taken aback. I was waiting for some witty comeback.%K%P
 But Sara was sincerely saying thanks.%K%P
 0x18D0
 少年「ず、ずいぶん素直じゃないか」%K%P
-Kid「W-wow. You're being surprisingly nice to me...」%K%P
+Kid「W-Wow. You're being surprisingly nice to me...」%K%P
 0x18E4
 沙羅「ん、ホントに、感謝してるもん」%K%P
 Sara「Yeah, well, I'm really grateful.」%K%P
@@ -1056,7 +1056,7 @@ Still, I never thought that she would come out and say, 「Thanks」...%K%P
 Sara「I really mean it. Thanks, Kid.」%K%P
 0x1974
 少年「う、うん。でも、いい気にならないでよ。まだまだあんなんじゃ、泳げたなんて言えないんだから」%K%P
-Kid「Y-yeah. But don't let it go to your head, because you can't really call what you were doing swimming.」%K%P
+Kid「Y-Yeah. But don't let it go to your head, because you can't really call what you were doing swimming.」%K%P
 0x1980
 ぼくは、気恥ずかしくて、つい憎まれ口をたたいてしまった。%K%P
 I was embarrassed and reflexively went into mean mode.%K%P
@@ -1065,7 +1065,7 @@ I was embarrassed and reflexively went into mean mode.%K%P
 Sara「I know. If we have another chance, I hope you'll teach me again.」%K%P
 0x1998
 少年「う、うん」%K%P
-Kid「S-sure.」%K%P
+Kid「S-Sure.」%K%P
 0x19AC
 沙羅「今度こそ、ちゃんと泳げるようになるんだから」%K%P
 Sara「Next time, I'll really learn to swim.」%K%P

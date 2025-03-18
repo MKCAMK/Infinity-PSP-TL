@@ -429,7 +429,7 @@ Kid「...What?」%K%P
 You「He just went missing...」%K%P
 0xA98
 少年「い、いつ！？」%K%P
-Kid「Wh-when?」%K%P
+Kid「Wh-When?」%K%P
 0xAA4
 優「それが……」%K%P
 You「He...」%K%P
@@ -636,7 +636,7 @@ Tsugumi「Well, if you aren't lying... then I'll warn you about one thing.」%K%
 Tsugumi「You are... just being used by them.」%K%P
 0xF50
 少年「り、利用、されてる？」%K%P
-Kid「U-using me?」%K%P
+Kid「U-Using me?」%K%P
 0xF5C
 少年「ね、ねえ？　だから、その奴らって言うのは誰なんだよ！」%K%P
 Kid「So... So who do you mean when you say those guys?」%K%P
@@ -705,7 +705,7 @@ I didn't know if I'd surprised her, but her face seemed to stiffen.%K%P
 Sara「Oh, Kid... Don't scare me like that.」%K%P
 0x116C
 少年「ご、ごめん……」%K%P
-Kid「S-sorry...」%K%P
+Kid「S-Sorry...」%K%P
 0x1178
 沙羅はぼくを軽く睨みつけると、両手をポケットにつっこんで、それから床に降りたった。%K%P
 After shooting me a slight glare, Sara stuck her hands in her pockets and dropped to the floor.%K%P
@@ -1155,7 +1155,7 @@ Kid「On the ocean floor... below LeMU... Leiblich Pharmaceuticals has a researc
 I said that straight out to Sora.%K%P
 0x1B14
 空「ど、どうして……それを……！？」%K%P
-Sora「H-how do... you... know about that!?」%K%P
+Sora「H-How do... you... know about that!?」%K%P
 0x1B20
 少年「やっぱりそうか……」%K%P
 Kid「I thought so...」%K%P
@@ -1398,7 +1398,7 @@ Kid「You weren't here at the time we set up. Where have you been until now?」%
 Takeshi「Stupid! You're the one that wasn't here, right? You're totally late.」%K%P
 0x2078
 少年「うっ……。それは……謝るよ。で、でも、もう少し待っててくれたっていいじゃないか」%K%P
-Kid「Oh... Sorry... about that. B-but you could have waited a little longer.」%K%P
+Kid「Oh... Sorry... about that. B-But you could have waited a little longer.」%K%P
 0x208C
 武「俺は忙しいんだ。お前のことだけ、かまってるわけにはいかねーんだよ」%K%P
 Takeshi「Hey, I'm a busy guy. I'm not here to look after you.」%K%P
@@ -1434,7 +1434,7 @@ Kid「?」%K%P
 Takeshi「Can we stop this meaningless conversation?」%K%P
 0x2120
 少年「う、うん。そうだね……なんだか、バカバカしいや」%K%P
-Kid「Y-yeah. It is kind of stupid.」%K%P
+Kid「Y-Yeah. It is kind of stupid.」%K%P
 0x2134
 武「だろ？」%K%P
 Takeshi「Isn't it?」%K%P

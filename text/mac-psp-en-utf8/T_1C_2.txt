@@ -564,7 +564,7 @@ Tsugumi「Don't you think we should grab hold of something?」%K%P
 You「Yes. Everyone grab something and steady yourself!」%K%P
 0xEA0
 武「わ、わかった」%K%P
-Takeshi「O-okay.」%K%P
+Takeshi「O-Okay.」%K%P
 0xED4
 手近の支柱に手を伸ばした。%K%P
 I reached out for a support pillar nearby.%K%P

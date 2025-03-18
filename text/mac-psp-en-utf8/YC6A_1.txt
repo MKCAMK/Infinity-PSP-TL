@@ -201,7 +201,7 @@ Sora「.........」%K%P
 Takeshi「Hey, Kid... Give me a hand!」%K%P
 0x458
 桑古木「は、はいっ」%K%P
-Kaburaki「O-okay.」%K%P
+Kaburaki「O-Okay.」%K%P
 0x46C
 武はココの体をそっと抱き起こし、背中に担いだ。%K%P
 Takeshi picked up Coco's inert body and carried her piggyback.%K%P
@@ -279,7 +279,7 @@ Squinting against the brightness, they walked into the room to explore.%K%P
 It appeared as if it was the computer control room.%K%P
 0x6A4
 武「あ、おいっ！　人が……」%K%P
-Takeshi「H-hey! There's someone here...」%K%P
+Takeshi「H-Hey! There's someone here...」%K%P
 0x6B0
 武「こいつか？　扉を開けたのは？」%K%P
 Takeshi「Did he open up the door just now?」%K%P
@@ -324,7 +324,7 @@ The researcher let out a dry gasp and opened his eyes slightly.%K%P
 Takeshi「Hey, are you one of the staff from the research%Nfacility?」%K%P
 0x790
 研究員「あ、ああ……そうだ……」%K%P
-Researcher「Y-yeah... That's right...」%K%P
+Researcher「Y-Yeah... That's right...」%K%P
 0x79C
 研究員「君は……救助隊じゃなさそうだな……」%K%P
 Researcher「Doesn't seem like you're... here to rescue me...」%K%P
@@ -345,7 +345,7 @@ Researcher「Hahaha, what a surprise... *gagh*...」%K%P
 Blood trickled from his mouth, and he smiled wryly.%K%P
 0x7EC
 武「お、おいっ、あんま無理にしゃべるな！」%K%P
-Takeshi「H-hey! Don't strain yourself. You don't have to talk!」%K%P
+Takeshi「H-Hey! Don't strain yourself. You don't have to talk!」%K%P
 0x7F8
 研究員「すまんな……我々のせいで」%K%P
 Researcher「I'm so sorry... It's all our fault...」%K%P
@@ -486,7 +486,7 @@ An L-MRI, the same type that had been in LeMU's infirmary, was in the room.%K%P
 Takeshi「Hey, You? Where is that high-pressure oxygen thing that Sora was talking about?」%K%P
 0xB58
 優「わ、わかんないよ、そんなの……」%K%P
-You「H-how should I know...?」%K%P
+You「H-How should I know...?」%K%P
 0xB6C
 武「つぐみ、どうする？」%K%P
 Takeshi「Tsugumi, what should we do?」%K%P
@@ -495,13 +495,13 @@ Takeshi「Tsugumi, what should we do?」%K%P
 Tsugumi「Well, we'll have to look for it. None of us know a thing about this place.」%K%P
 0xB94
 研究員「ぐっ……ま、待て……！」%K%P
-Researcher「*Gagh*... W-wait!」%K%P
+Researcher「*Gagh*... W-Wait!」%K%P
 0xBA0
 咳き込みながら、研究員が口を開いた。%K%P
 The researcher coughed as he spoke.%K%P
 0xBB4
 武「お、おいオッサン！　あんま動くな、大丈夫か！？」%K%P
-Takeshi「H-hey, don't move! Are you okay!?」%K%P
+Takeshi「H-Hey, don't move! Are you okay!?」%K%P
 0xBC0
 研究員「無事とは言えんが、まだ生きてるよ……」%K%P
 Researcher「I've been better... but at least I'm alive...」%K%P
@@ -846,7 +846,7 @@ He thrashed and contorted inside of the cramped capsule.%K%P
 You「Aaah!」%K%P
 0x13A8
 武「オ、オッサン！！」%K%P
-Takeshi「H-hey, man!」%K%P
+Takeshi「H-Hey, man!」%K%P
 0x13B4
 研究員が激しく咳き込み、喉を掻きむしる。%K%P
 The researcher coughed violently and clawed at his throat.%K%P
@@ -1257,13 +1257,13 @@ Takeshi quickly put his hand to his nose.%K%P
 His upper lip was wet with something.%K%P
 0x1BAC
 つぐみ「ちょ、ちょっと？　大丈夫？」%K%P
-Tsugumi「He-hey? Are you okay?」%K%P
+Tsugumi「He-Hey? Are you okay?」%K%P
 0x1BB8
 つぐみが心配そうに武の顔をのぞき込む。%K%P
 Tsugumi looked worriedly at Takeshi's face.%K%P
 0x1BCC
 武「だ、大丈夫、大丈夫……」%K%P
-Takeshi「I-it's fine, it's fine...」%K%P
+Takeshi「I-It's fine, it's fine...」%K%P
 0x1BD8
 上を向いたまま鼻の下を拭い、武は答えた。%K%P
 Takeshi looked up and wiped under my nose as he replied.%K%P
@@ -1272,7 +1272,7 @@ Takeshi looked up and wiped under my nose as he replied.%K%P
 Takeshi「I wasn't thinking anything sexual! Absolutely! Positively!」%K%P
 0x1C00
 つぐみ「べ、別に私……そんなこと、気にしてない」%K%P
-Tsugumi「I-it's not like I... I don't care about that!」%K%P
+Tsugumi「I-It's not like I... I don't care about that!」%K%P
 0x1C14
 武「なら、いいんだけどさぁ〜」%K%P
 Takeshi「Well, alright then...」%K%P
@@ -1305,7 +1305,7 @@ Copious amounts of fresh blood poured from his nose and mouth.%K%P
 Simultaneously, his knees buckled.%K%P
 0x1CDC
 武「あ、あれっ……？　ど、どうしたんだろ……俺……」%K%P
-Takeshi「H-huh...? Wh-what's wrong... with... me...」%K%P
+Takeshi「H-Huh...? Wh-What's wrong... with... me...」%K%P
 0x1CE8
 血まみれになった両手を見て、武がつぶやく。%K%P
 Takeshi looked at his blood-covered hands and blinked.%K%P
@@ -1314,7 +1314,7 @@ Takeshi looked at his blood-covered hands and blinked.%K%P
 His legs swayed unsteadily, and the color quickly drained from his face.%K%P
 0x1D00
 武「な、なんだよ……これ……」%K%P
-Takeshi「Wh-what this... about...」%K%P
+Takeshi「Wh-What this... about...」%K%P
 0x1D0C
 武「……血……血……血が……」%K%P
 Takeshi「...Blood... Blood... Blood is...」%K%P
@@ -1326,7 +1326,7 @@ Tsugumi「Takeshi!」%K%P
 Tsugumi「Takeshi, hang in there!」%K%P
 0x1D38
 武「い、いや、大丈夫、大丈夫だって、つぐみ……」%K%P
-Takeshi「N-no, I'm fine. Don't worry, Tsugumi...」%K%P
+Takeshi「N-No, I'm fine. Don't worry, Tsugumi...」%K%P
 0x1D44
 武「心配……するな……」%K%P
 Takeshi「Don't... worry...」%K%P
@@ -1341,7 +1341,7 @@ Tsugumi「You're bleeding all over, Takeshi!」%K%P
 Tsugumi「We need to get you to the examination room and get you looked at right away.」%K%P
 0x1D7C
 武「あ、ああ……げほっげほっ……」%K%P
-Takeshi「Y-yeah... *Cough*...」%K%P
+Takeshi「Y-Yeah... *Cough*...」%K%P
 0x1D90
 つぐみが武の肩を支え、通路の入り口へと引きずって行く。%K%P
 Tsugumi supported Takeshi with her shoulder and pulled him along into the entrance of the corridor.%K%P
@@ -1482,7 +1482,7 @@ Takeshi「What?」%K%P
 Tsugumi「Don't you think it's strange that I don't need any serum?」%K%P
 0x2060
 武「ん？　あ、ああ……そう言えば……そうだな……」%K%P
-Takeshi「Huh? A-ah... Well, now that you mention it... yeah...」%K%P
+Takeshi「Huh? A-Ah... Well, now that you mention it... yeah...」%K%P
 0x206C
 武「つらくないか？」%K%P
 Takeshi「Are you okay?」%K%P
@@ -1524,7 +1524,7 @@ Takeshi「Meaning...」%K%P
 Takeshi「...It's... Well, you know?」%K%P
 0x2120
 つぐみ「う、うん……」%K%P
-Tsugumi「Y-yeah...」%K%P
+Tsugumi「Y-Yeah...」%K%P
 0x212C
 少しうつむいて、つぐみは片方の頬を歪めた。%K%P
 She looked down slightly and puffed out her cheeks.%K%P
@@ -1830,7 +1830,7 @@ Takeshi「Smallpox, penicillin, snake antivenom...」%K%P
 Takeshi「You're pretty smart, so this should make sense to you, right?」%K%P
 0x27C0
 つぐみ「ま……まさか、そんな」%K%P
-Tsugumi「N-no way.」%K%P
+Tsugumi「N-No way.」%K%P
 0x27CC
 武「そういうことだ」%K%P
 Takeshi「It's our only chance.」%K%P
@@ -2076,7 +2076,7 @@ Mission Control「This is the emergency rescue team from the Maritime Defense Fo
 Takeshi rushed over to the terminal.%K%P
 0x2CF0
 武「も、もしもしっ！」%K%P
-Takeshi「H-hello!」%K%P
+Takeshi「H-Hello!」%K%P
 0x2CFC
 武「こ、こちらＩＢＦ診療室……どうぞ！」%K%P
 Takeshi「This is the IBF infirmary... over!」%K%P
@@ -2133,7 +2133,7 @@ Mission Control「However, if something goes wrong...」%K%P
 Mission Control「There should be a small deep-exploration submarine left in the research facility. I hate to make you do this, but I want you to escape to that area.」%K%P
 0x2E00
 武「ま、万一、って……どういうことだ……？」%K%P
-Takeshi「S-something goes wrong...? Wh-what do you mean...?」%K%P
+Takeshi「S-Something goes wrong...? Wh-What do you mean...?」%K%P
 0x2E0C
 管制官「ＬｅＭＵの隔壁強度は、既に限界を超えている」%K%P
 Mission Control「LeMU's partition strength threshold is already being exceeded.」%K%P
@@ -2145,7 +2145,7 @@ Mission Control「If one section implodes, there's the risk that another area co
 Mission Control「If that happens, we think there's a high possibility that heavy pieces could crash down on the research facility.」%K%P
 0x2E30
 武「そ、そうか……わかった……」%K%P
-Takeshi「A-alright... I understand...」%K%P
+Takeshi「A-Alright... I understand...」%K%P
 0x2E3C
 管制官「もちろん、そのような事態になる前に迅速な救助が行えるよう、我々も最善を尽くす」%K%P
 Mission Control「Of course, we're doing everything we can to get to you before that happens.」%K%P
@@ -2157,7 +2157,7 @@ Mission Control「We're heading there no matter what! So please hang on a little
 Click... The communications cut out suddenly.%K%P
 0x2E68
 武「あっ、おい！　ま、待ってくれ！」%K%P
-Takeshi「Ah, hey! W-wait a sec!」%K%P
+Takeshi「Ah, hey! W-Wait a sec!」%K%P
 0x2E74
 武がパネルの通話キーを何度も叩く。%K%P
 Takeshi hit the call button repeatedly.%K%P
@@ -2292,7 +2292,7 @@ Takeshi waved to Sora as she appeared outside the window.%K%P
 Takeshi「Hey! It's been a while!」%K%P
 0x3214
 空「な、なにやってるんですか、こんなところで！」%K%P
-Sora「Wh-what are you doing here!?」%K%P
+Sora「Wh-What are you doing here!?」%K%P
 0x3220
 武「そんなの、聞くまでもないだろ？　戻って来たんだ」%K%P
 Takeshi「Well, it's obvious, isn't it? I came back.」%K%P
@@ -2346,7 +2346,7 @@ Takeshi「I need to know how much time!」%K%P
 Sora「If I hurry... twelve hours.」%K%P
 0x32FC
 武「じゅ、じゅうにじかんっ！？　そんなに待ってられるかよ！」%K%P
-Takeshi「Tw-twelve hours!? We don't have that long!」%K%P
+Takeshi「Tw-Twelve hours!? We don't have that long!」%K%P
 0x3308
 空「血液中に溶け込んだ窒素を排出しないと、減圧症になってしまいます」%K%P
 Sora「If we don't dissolve the nitrogen in your blood, you will get decompression sickness.」%K%P
@@ -2415,7 +2415,7 @@ Sora「Kuranari-san!」%K%P
 Sora「Kuranari-san... Are you okay?」%K%P
 0x3468
 武「ふぅ……どうやらまだ……生きてるみたいだ……」%K%P
-Takeshi「W-well... It looks like... I'm still alive...」%K%P
+Takeshi「W-Well... It looks like... I'm still alive...」%K%P
 0x347C
 武はズルズルと床の上を這った。%K%P
 Takeshi crawled weakly over the floor.%K%P
@@ -2532,7 +2532,7 @@ Takeshi「Well, I guess I'm a bit late, but...」%K%P
 Takeshi scratched his nose.%K%P
 0x3800
 つぐみ「バ、バカッ！　何しに来たのよ！！」%K%P
-Tsugumi「Y-you idiot! What are you doing here!?」%K%P
+Tsugumi「Y-You idiot! What are you doing here!?」%K%P
 0x380C
 つぐみ「死ぬ……つもりなの！？」%K%P
 Tsugumi「Do you... want do die!?」%K%P
@@ -2667,13 +2667,13 @@ Takeshi「Hey, what's the rush, Sora?」%K%P
 Although Takeshi was out of breath, he waved the flustered Sora off with his hands.%K%P
 0x3AB8
 空「そ、そんな！　急いでください！」%K%P
-Sora「C-come on! You have to hurry!」%K%P
+Sora「C-Come on! You have to hurry!」%K%P
 0x3AC4
 武「落ち着けって……。忘れ物がもうひとつ、残ってるんだから……」%K%P
 Takeshi「Relax... I still have one more thing I've forgotten...」%K%P
 0x3AD8
 空「わ、忘れ物……？　なんですか？」%K%P
-Sora「F-forgotten...? What?」%K%P
+Sora「F-Forgotten...? What?」%K%P
 0x3AEC
 武「これだよ」%K%P
 Takeshi「This.」%K%P
@@ -2772,7 +2772,7 @@ Had Takeshi been able to hear You's voice?%K%P
 He stuffed the disc in his pocket.%K%P
 0x3D0C
 空「は、はい……」%K%P
-Sora「Y-yes...」%K%P
+Sora「Y-Yes...」%K%P
 0x3D18
 呆気に取られる空を横目に、武はつぐみと揃って、ガラスの向こう側へとまわり込んだ。%K%P
 Taking a side-glance at the dumbfounded Sora, Takeshi went along with Tsugumi to the other side of the glass...%K%P
@@ -2853,7 +2853,7 @@ Takeshi「That the only place to find you is here, yet I can find you anywhere..
 Sora「Yes...」%K%P
 0x3EFC
 武「ああっと、それから……」%K%P
-Takeshi「O-oh, and...」%K%P
+Takeshi「O-Oh, and...」%K%P
 0x3F08
 武「ボタンを叩くときのかけ声は『ポチッとな』だ。覚えておくように」%K%P
 Takeshi「When you hit a button, don't forget to say 'click'. Remember that.」%K%P
@@ -3069,13 +3069,13 @@ Takeshi「Well...」%K%P
 Takeshi「I might just take a nap until the next bus comes...」%K%P
 0x43A8
 つぐみ「バ、バス？」%K%P
-Tsugumi「B-bus?」%K%P
+Tsugumi「B-Bus?」%K%P
 0x43BC
 武「もしバスが来るのが遅いようなら、タクシー呼んでくれ」%K%P
 Takeshi「If you think the bus is going to be late, call a taxi for me, will you?」%K%P
 0x43C8
 つぐみ「タ、タクシー……？」%K%P
-Tsugumi「T-taxi?」%K%P
+Tsugumi「T-Taxi?」%K%P
 0x43D4
 つぐみ「何、言ってるのよ……武？」%K%P
 Tsugumi「What are you talking about... Takeshi?」%K%P
@@ -3084,7 +3084,7 @@ Tsugumi「What are you talking about... Takeshi?」%K%P
 Takeshi「If you push that button, a small submarine will come over here by remote control―our very own private taxi should come here from another area of IBF.」%K%P
 0x43F4
 つぐみ「う、うん……」%K%P
-Tsugumi「O-okay...」%K%P
+Tsugumi「O-Okay...」%K%P
 0x4400
 武「まあ、とにかく」%K%P
 Takeshi「Anyway...」%K%P

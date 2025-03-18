@@ -129,7 +129,7 @@ Kid「Sora told me to come.」%K%P
 You「Sora?」%K%P
 0x30C
 少年「う、うん。えーっと……えーと」%K%P
-Kid「Y-yeah. Uh... She... Um...」%K%P
+Kid「Y-Yeah. Uh... She... Um...」%K%P
 0x318
 少年「…………様子が変だから、ちょっと見て来て欲しい、って……」%K%P
 Kid「She said... that something was strange and that she wanted me to take a look...」%K%P
@@ -828,7 +828,7 @@ Kid「Hmmmm. Wow... I don't get it, but it sounds pretty fantastic.」%K%P
 You「Please don't say, 'I wish I had that!' Please, please don't.」%K%P
 0x1110
 少年「ど、どうしてさ……」%K%P
-Kid「Wh-why...」%K%P
+Kid「Wh-Why...」%K%P
 0x111C
 事実、思っていた。%K%P
 I had actually been thinking just that.%K%P
@@ -1785,7 +1785,7 @@ You grabbed the slip of paper from my hand.%K%P
 Then she copied me and set the paper sideways in the same way.%K%P
 0x26DC
 優「ほ、ほんとだぁ〜〜！」%K%P
-You「Y-you're right!」%K%P
+You「Y-You're right!」%K%P
 0x26E8
 優「すっごーーいっ！　すごいよ、少年！」%K%P
 You「Amazing...! Really amazing, Kid!」%K%P
@@ -1989,13 +1989,13 @@ I was already at my wit's end and incapable of speech.%K%P
 And then, suddenly―%K%P
 0x2BE0
 優「あ、あれ……？」%K%P
-You「Wh-what in the...?」%K%P
+You「Wh-What in the...?」%K%P
 0x2BEC
 画面がブラックアウトしてしまう。%K%P
 The screen went black.%K%P
 0x2BF8
 少年「な、何が起こったの？」%K%P
-Kid「Wh-what just happened?」%K%P
+Kid「Wh-What just happened?」%K%P
 0x2C0C
 優「わからないけど、認証画面から強制排出されちゃったみたい……」%K%P
 You「I don't know, but it looks like it automatically shut down the authorization screen...」%K%P

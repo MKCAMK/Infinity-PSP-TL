@@ -63,7 +63,7 @@ You「Huh?」%K%P
 Kid「You still sure you want to know?」%K%P
 0x1F8
 優「う、う〜ん……」%K%P
-You「W-well...」%K%P
+You「W-Well...」%K%P
 0x204
 優「んじゃ、訊かない」%K%P
 You「Then I won't ask.」%K%P
@@ -291,7 +291,7 @@ Kid「...So-So-So-Sora!?」%K%P
 Sora「I promised you that I would see you again soon, didn't I?」%K%P
 0x610
 少年「で、で、で、でも……どうして、ここに！？」%K%P
-Kid「Bu-but... why are you here?」%K%P
+Kid「Bu-But... why are you here?」%K%P
 0x624
 空「御迷惑でした？」%K%P
 Sora「Am I bothering you?」%K%P
@@ -327,7 +327,7 @@ The person called 「Doctor Tanaka」 who appeared in front of us was the woman 
 It was the person who had claimed to be You's mother.%K%P
 0x71C
 優「お、お母さん……」%K%P
-You「M-mother...」%K%P
+You「M-Mother...」%K%P
 0x728
 田中先生「優……よく無事で……」%K%P
 Doctor Tanaka「You... I'm so happy you're alive...」%K%P
@@ -360,13 +360,13 @@ Or had I met her in the past...?%K%P
 Doctor Tanaka「What's wrong? Is there something that you would like to ask?」%K%P
 0x7A0
 少年「そ、そうだよ！　聞きたいことなんか、山ほどあるよ！」%K%P
-Kid「Y-yes! I have tons of things I want to ask.」%K%P
+Kid「Y-Yes! I have tons of things I want to ask.」%K%P
 0x7AC
 田中先生「ええ、ひとつ残らず全部話すつもりですから、ご心配なく」%K%P
 Doctor Tanaka「Fine. Don't worry, I'll tell you everything.」%K%P
 0x7B8
 少年「そ、そうだな……ま、まずはっ」%K%P
-Kid「Alright then... F-first, I want to...」%K%P
+Kid「Alright then... F-First, I want to...」%K%P
 0x7C4
 優「ちょっと待って！」%K%P
 You「Hold on!」%K%P

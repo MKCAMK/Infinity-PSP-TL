@@ -84,13 +84,13 @@ I thought I would try to say something and calm myself down.%K%P
 Kid「Uh... Um...」%K%P
 0x1F4
 少年「そ、その服似合ってるね？」%K%P
-Kid「Th-those clothes really suit you.」%K%P
+Kid「Th-Those clothes really suit you.」%K%P
 0x208
 優「は？」%K%P
 You「Huh?」%K%P
 0x214
 少年「い、いやっ、そのっ……なんで着替えたの？」%K%P
-Kid「N-no, I mean... why did you change?」%K%P
+Kid「N-No, I mean... why did you change?」%K%P
 0x220
 残念なことに、『こんらん』のステータスのままでは、コマンド通りの行動をとることはできなかった。%K%P
 Unfortunately, my mind was still in a state of confusion and wouldn't follow orders.%K%P
@@ -108,7 +108,7 @@ You「The reason that I changed!」%K%P
 You「You asked me, right?」%K%P
 0x26C
 少年「あ、ああ……」%K%P
-Kid「Y-yeah...」%K%P
+Kid「Y-Yeah...」%K%P
 0x280
 優「ＬｅＭＵのユニフォームを脱ぎ捨てて……私の日常に即した服を身につける」%K%P
 You「I decided to dump the LeMU uniform... for the clothes I normally wear.」%K%P
@@ -237,10 +237,10 @@ Kid「...........................」%K%P
 I was sorely regretting that I had brought up that topic.%K%P
 0x628
 優「そ、そういえばさぁ……」%K%P
-You「Th-that reminds me...」%K%P
+You「Th-That reminds me...」%K%P
 0x634
 少年「え？　う、うん」%K%P
-Kid「Eh? Y-yeah?」%K%P
+Kid「Eh? Y-Yeah?」%K%P
 0x640
 優「『第３視点』って概念の本当の意味、教えてなかったよね？」%K%P
 You「I didn't really tell you about the meaning of the concept behind the third eye, did I?」%K%P
@@ -426,7 +426,7 @@ Kid「It's my first time doing this.」%K%P
 You「Ow...」%K%P
 0x9CC
 少年「ご、ごめん……」%K%P
-Kid「S-sorry...」%K%P
+Kid「S-Sorry...」%K%P
 0x9D8
 優「どこに刺してんのよぉ……そこじゃないでしょ？」%K%P
 You「Where are you poking that thing...? That's the wrong spot.」%K%P
@@ -939,7 +939,7 @@ All around me, the squeal of straining metal echoed from the structure.%K%P
 The shaking continued on and off.%K%P
 0x144C
 な、何が……。%K%P
-Wh-what...%K%P
+Wh-What...%K%P
 0x1458
 優「ま、まさかっ……！」%K%P
 You「No... No way...!」%K%P

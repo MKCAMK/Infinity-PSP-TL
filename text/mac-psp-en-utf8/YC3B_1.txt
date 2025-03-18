@@ -435,7 +435,7 @@ Tsugumi「Hehehehehehehehe...」%K%P
 She kept shaking her head and laughing hard.%K%P
 0x944
 少年「な、なにがオカシイんだよぉ」%K%P
-Kid「Wh-what's so funny?」%K%P
+Kid「Wh-What's so funny?」%K%P
 0x950
 つぐみ「だって……『なかよし』って……」%K%P
 Tsugumi「Because... you said 'buddy'...」%K%P
@@ -450,7 +450,7 @@ Tsugumi「I am much older than you think.」%K%P
 Tsugumi covered her mouth as she kept laughing.%K%P
 0x980
 少年「わ、笑わないでよぉ！」%K%P
-Kid「H-hey, stop laughing!」%K%P
+Kid「H-Hey, stop laughing!」%K%P
 0x98C
 少年「ぼくは……ぼくは、本気で言ってるんだぞ！」%K%P
 Kid「I... I'm being serious!」%K%P
@@ -468,7 +468,7 @@ Kid「If you don't want to be 'buddies' with us then why do you come to where ev
 Tsugumi「Do you really want to know?」%K%P
 0x9D0
 少年「う、うん……」%K%P
-Kid「Y-yeah...」%K%P
+Kid「Y-Yeah...」%K%P
 0x9DC
 つぐみ「だったら、教えてあげてもいいけど……」%K%P
 Tsugumi「I can tell you why if you want, but...」%K%P
@@ -495,7 +495,7 @@ I know about it
 I don't know about it
 0xA58
 少年「う、うん……お菓子のことでしょ？」%K%P
-Kid「Y-yeah... It's a kind of chocolate bar, right?」%K%P
+Kid「Y-Yeah... It's a kind of chocolate bar, right?」%K%P
 0xA64
 少年「オモチャの指輪が、オマケについてくるやつ……」%K%P
 Kid「A toy ring comes with it as an extra surprise...」%K%P

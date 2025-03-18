@@ -213,7 +213,7 @@ Sara「Seven!?」%K%P
 Takeshi「Seven!?」%K%P
 0x48C
 空「ど、どうして……」%K%P
-Sora「W-why...」%K%P
+Sora「W-Why...」%K%P
 0x498
 ＬｅＭＵに閉じ込められたのは、優・沙羅・空・つぐみ・武……それからぼくの『計６人』だったはずだ。%K%P
 There should have been a total of six people trapped in LeMU... You, Sara, Sora, Tsugumi, Takeshi, and me.%K%P
@@ -303,7 +303,7 @@ It stopped on the number 「six」.%K%P
 「Life readings: 6」%K%P
 0x6CC
 少年「あ、あれっ？　……『６』で、止まっちゃった」%K%P
-Kid「H-huh...? It stopped on six.」%K%P
+Kid「H-Huh...? It stopped on six.」%K%P
 0x6D8
 優「壊れてたんじゃないの？　センサーの誤動作なんて、よくあることでしょ？」%K%P
 You「It's probably broken or something.」%K%P
@@ -423,7 +423,7 @@ Takeshi「What're you talking about, Kid?」%K%P
 Kid「Sora is... an RSD-generated image.」%K%P
 0x99C
 沙羅「は、はい！？」%K%P
-Sara「Wh-what!?」%K%P
+Sara「Wh-What!?」%K%P
 0x9B0
 武「ＲＳＤ！？」%K%P
 Takeshi「RSD!?」%K%P
@@ -471,7 +471,7 @@ Sora「Actually, your disbelief is really quite a compliment.」%K%P
 Sora「However, Kuranari-san... it is a fact.」%K%P
 0xAAC
 沙羅「ほ、ほんとに……？」%K%P
-Sara「R-really...?」%K%P
+Sara「R-Really...?」%K%P
 0xAC0
 そう言って、沙羅は恐る恐る、右手を空の体の方へと伸ばした。%K%P
 Looking scared, Sara reached her right hand out toward Sora.%K%P
@@ -990,7 +990,7 @@ Sara「...Huh?」%K%P
 Tsugumi「You... Your name is Sara, right?」%K%P
 0x16F4
 沙羅「う、うん」%K%P
-Sara「Y-yes.」%K%P
+Sara「Y-Yes.」%K%P
 0x1700
 つぐみ「沙羅のことは、疑ってないの」%K%P
 Tsugumi「I'm not suspicious of you, Sara.」%K%P
@@ -1038,7 +1038,7 @@ Tsugumi「Not somebody... YOU ALL did.」%K%P
 You「Aha... Ahaha... Ahahahahaha...」%K%P
 0x182C
 つぐみ「な、なにが可笑しいのよ？」%K%P
-Tsugumi「Wh-what's so funny?」%K%P
+Tsugumi「Wh-What's so funny?」%K%P
 0x1840
 優「だって……だってぇ……」%K%P
 You「It's... I mean...」%K%P
@@ -1251,7 +1251,7 @@ Sara「Is Tsugumi... really that dangerous?」%K%P
 Takeshi「Oh, that's right. I haven't told Sara, You, and you two all about that crazy girl, have I?」%K%P
 0x1DCC
 沙羅「う、うん……」%K%P
-Sara「N-no.」%K%P
+Sara「N-No.」%K%P
 0x1DD8
 優「うん……」%K%P
 You「No...」%K%P
@@ -1476,7 +1476,7 @@ Kid「Fifty tons!?」%K%P
 Sora「That's correct.」%K%P
 0x238C
 少年「で、でもさぁ……」%K%P
-Kid「B-but...」%K%P
+Kid「B-But...」%K%P
 0x2398
 少年「素潜りやってる人達っているよねぇ？」%K%P
 Kid「What about those people that skin dive?」%K%P
@@ -1578,7 +1578,7 @@ Kid「Well, I would float... Actually, I think it would be easier than walking t
 Sora「You don't have any idea how severe water pressure is at a 34 meter depth, do you, Kid-san?」%K%P
 0x2588
 少年「えっ？　ちょ、ちょっと待ってよ……」%K%P
-Kid「Huh? N-now hold on just a minute...」%K%P
+Kid「Huh? N-Now hold on just a minute...」%K%P
 0x2594
 少年「さっき空は……『水圧に耐えることができたとして』って仮定したはずだけど？」%K%P
 Kid「Just a second ago... you were talking about even if one could endure the water pressure.」%K%P

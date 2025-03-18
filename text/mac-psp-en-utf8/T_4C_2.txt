@@ -423,7 +423,7 @@ The map showed the isolated sector on the third floor.%K%P
 Takeshi「Is it that rat you're looking for?」%K%P
 0x9B4
 つぐみ「……ま、まさか」%K%P
-Tsugumi「...O-of course not!」%K%P
+Tsugumi「...O-Of course not!」%K%P
 0x9C0
 つぐみは、明らかにうろたえていた。%K%P
 Tsugumi was obviously flustered.%K%P
@@ -474,7 +474,7 @@ Takeshi「Oh, so that's what it's called, a Djungarian, huh...?」%K%P
 Takeshi「You're pretty knowledgeable, Tsugumi.」%K%P
 0xAA8
 つぐみ「……そ、そのぐらい、誰だって知ってるわ」%K%P
-Tsugumi「...E-everybody knows what they're called...」%K%P
+Tsugumi「...E-Everybody knows what they're called...」%K%P
 0xAB4
 彼女は軽く膨れる。%K%P
 Her chest puffed out slightly.%K%P
@@ -606,7 +606,7 @@ Still in her grip, I kept moving.%K%P
 Tsugumi came with me.%K%P
 0xDBC
 つぐみ「ち、ちょっと……」%K%P
-Tsugumi「W-wait!」%K%P
+Tsugumi「W-Wait!」%K%P
 0xDC8
 つぐみ「正気なの、あなた！？」%K%P
 Tsugumi「Are you out of your mind?」%K%P
@@ -1218,7 +1218,7 @@ Tsugumi was waiting beside the hatch.%K%P
 Takeshi「Look what the cat dragged in... me. Well, here I am. I'm back.」%K%P
 0x1BF0
 つぐみ「お、おかえり」%K%P
-Tsugumi「W-welcome back..」%K%P
+Tsugumi「W-Welcome back..」%K%P
 0x1C18
 俺はハッチを閉じて立ち上がる。%K%P
 I closed the hatch and stood up.%K%P
@@ -1482,7 +1482,7 @@ Takeshi「...Gagh...」%K%P
 What erupted from my mouth were the semi-liquid remains of my hotdog.%K%P
 0x2278
 （ど、どうして……？）%K%P
-(Wha-what the...?)%K%P
+(Wha-What the...?)%K%P
 0x2284
 わけのわからない悪寒と共に、俺の意識は遠ざかる……。%K%P
 I felt a chill as I lost consciousness...%K%P
@@ -1530,7 +1530,7 @@ She pulled up the rope as she stood up and closed the hatch.%K%P
 I slowly got off the floor.%K%P
 0x23C4
 武「ど、どうだった、つぐみ？」%K%P
-Takeshi「Ho-how'd it go, Tsugumi?」%K%P
+Takeshi「Ho-How'd it go, Tsugumi?」%K%P
 0x23D8
 つぐみ「見つけはしたの。部屋の隅に追い詰めて……。でも、失敗」%K%P
 Tsugumi「I found him. He was in the corner of the room. But I couldn't catch him.」%K%P

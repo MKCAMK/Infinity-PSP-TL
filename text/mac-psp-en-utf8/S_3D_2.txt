@@ -75,7 +75,7 @@ And then, she gave Takeshi the evil eye.%K%P
 Tsugumi「What are you all planning anyway?」%K%P
 0x1CC
 武「な、何を、って……それこそ何だよ？　意味わかんねぇこと言うなよ……」%K%P
-Takeshi「Wh-what... are we? What are YOU planning? Stop with the nonsense already.」%K%P
+Takeshi「Wh-What... are we? What are YOU planning? Stop with the nonsense already.」%K%P
 0x1D8
 つぐみ「…………」%K%P
 Tsugumi「.........」%K%P
@@ -309,7 +309,7 @@ But she shook off my hand.%K%P
 Tsugumi「I told you never to touch me.」%K%P
 0x754
 少年「ご、ごめん……」%K%P
-Kid「S-sorry...」%K%P
+Kid「S-Sorry...」%K%P
 0x760
 つぐみ「…………」%K%P
 Tsugumi「.........」%K%P
@@ -417,7 +417,7 @@ Tsugumi turned and faced me...%K%P
 Tsugumi「What an insightful comment.」%K%P
 0x94C
 少年「ちゃ、茶化さないでよ」%K%P
-Kid「Do-don't joke around.」%K%P
+Kid「Do-Don't joke around.」%K%P
 0x960
 つぐみ「率直な感想を言ったまでよ」%K%P
 Tsugumi「I'm just telling you exactly how I feel.」%K%P
@@ -522,7 +522,7 @@ That was...%K%P
 ―Because the same thing was happening again.%K%P
 0xB38
 少年「そ、そうかぁっ！」%K%P
-Kid「Th-that's it!」%K%P
+Kid「Th-That's it!」%K%P
 0xB44
 少年「つぐみとぼくは、過去にタイムスリップしたんだ！」%K%P
 Kid「You and I must have traveled to the past, Tsugumi!」%K%P
@@ -666,7 +666,7 @@ It was just like...%K%P
 %LCIt's all your fault!%V%P
 0xF24
 少年「て、てめぇ……」%K%P
-Kid「Y-you...」%K%P
+Kid「Y-You...」%K%P
 0xF30
 熱くたぎるような憎悪の塊が、ぼくの中で弾け飛んだ。%K%P
 A hot surge of hate raced through me.%K%P

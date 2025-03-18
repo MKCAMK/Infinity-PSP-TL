@@ -660,7 +660,7 @@ Takeshi「Whoooooa!」%K%P
 Kid「Whaaaaaat!?」%K%P
 0xF18
 武「ほ、ほんとかっ！？」%K%P
-Takeshi「R-really!?」%K%P
+Takeshi「R-Really!?」%K%P
 0xF24
 少年「知らない知らない知らない、知らない知らない知らない」%K%P
 Kid「No, no, no, no, no, no.」%K%P
@@ -726,7 +726,7 @@ Kid「I see...」%K%P
 Takeshi「You, will you help?」%K%P
 0x1068
 優「う、うん……いいけど……」%K%P
-You「S-sure... I suppose...」%K%P
+You「S-Sure... I suppose...」%K%P
 0x1074
 少年「…………」%K%P
 Kid「.........」%K%P
@@ -924,7 +924,7 @@ Sara「Kyaaaaaa!」%K%P
 All of a sudden, Sara screamed from the direction of the kiosk.%K%P
 0x1550
 沙羅「ネ、ネズミがでたぁ〜〜〜！！！」%K%P
-Sara「R-rat! Th-th-there's a rat!」%K%P
+Sara「R-Rat! Th-Th-There's a rat!」%K%P
 0x1584
 それを聞いた武は、つぐみのことはひとまず放っておいて売店へと走っていく。%K%P
 Hearing that, Takeshi forgot about Tsugumi for an instant and ran to the kiosk.%K%P
@@ -1125,7 +1125,7 @@ What did she mean, eighteen?%K%P
 Kid「I don't know what you're talking about. I just gave her a helping hand...」%K%P
 0x1990
 沙羅「な、なんとっ！　いきなし、そげなことまで要求しちゃったとですかっ！？」%K%P
-Sara「Wh-what? You skipped first base?」%K%P
+Sara「Wh-What? You skipped first base?」%K%P
 0x199C
 少年「はぁ？」%K%P
 Kid「Huh?」%K%P

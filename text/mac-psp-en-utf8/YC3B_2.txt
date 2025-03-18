@@ -1197,7 +1197,7 @@ Coco opened her mouth before I could speak.%K%P
 Tsugumi「Apologize?」%K%P
 0x18B8
 ココ「う、うん……」%K%P
-Coco「Y-yes...」%K%P
+Coco「Y-Yes...」%K%P
 0x18C4
 ココ「だって、だって、つぐみんは、つぐみんは、ココのこと、助けてくれたから……」%K%P
 Coco「Because, because... you were trying to help me...」%K%P
@@ -1386,7 +1386,7 @@ Just as I was about to say I was sorry...%K%P
 The shrill scream of a warning siren rang loudly in my ears.%K%P
 0x1BE8
 武「な、なんだ！？」%K%P
-Takeshi「Wh-what's that!?」%K%P
+Takeshi「Wh-What's that!?」%K%P
 0x1BFC
 ココ「まさかまた、浸水！？」%K%P
 Coco「Oh no! Not more flooding!?」%K%P
@@ -1398,13 +1398,13 @@ Coco's face went pale.%K%P
 Focusing her eyes on one point on the wall, Tsugumi raised her body up.%K%P
 0x1C30
 武「ま、待てよ、つぐみ！　何やってんだよ！」%K%P
-Takeshi「W-wait! Tsugumi, what are you doing!?」%K%P
+Takeshi「W-Wait! Tsugumi, what are you doing!?」%K%P
 0x1C3C
 つぐみ「調べに行くのよ」%K%P
 Tsugumi「I'm gonna see what's going on.」%K%P
 0x1C48
 武「バ、バカッ！　絶対安静なんだぞ！　動けるわけないだろ！」%K%P
-Takeshi「S-stupid! You have to rest! You can't go moving around!」%K%P
+Takeshi「S-Stupid! You have to rest! You can't go moving around!」%K%P
 0x1C54
 つぐみ「大丈夫よ、このぐらいのケガなら……」%K%P
 Tsugumi「I'm fine. This injury is no big deal...」%K%P
@@ -1581,7 +1581,7 @@ Sora just laughed. She didn't try to answer.%K%P
 Just then...%K%P
 0x1FCC
 優「ちょ、ちょっと、何があったの！？」%K%P
-You「H-hey, what's happening!?」%K%P
+You「H-Hey, what's happening!?」%K%P
 0x1FD8
 優が血相を変えて、部屋の中へと飛び込んで来た。%K%P
 You frantically came running into the room.%K%P

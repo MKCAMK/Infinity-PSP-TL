@@ -291,13 +291,13 @@ Tsugumi「Hey.」%K%P
 I didn't know what she was thinking, but Tsugumi suddenly put her face in front of mine.%K%P
 0x58C
 武「な、なんでしょう？」%K%P
-Takeshi「Wh-what?」%K%P
+Takeshi「Wh-What?」%K%P
 0x598
 つぐみ「今度は、私の番ね？」%K%P
 Tsugumi「Now it's my turn.」%K%P
 0x5A4
 武「……は、はいっ？」%K%P
-Takeshi「...Y-yeah?」%K%P
+Takeshi「...Y-Yeah?」%K%P
 0x5B0
 つぐみ「質問、してもいいでしょ？」%K%P
 Tsugumi「Can I ask you a question?」%K%P
@@ -381,7 +381,7 @@ Tsugumi「You jerk! You dumb jerk!」%K%P
 I screamed.%K%P
 0x86C
 武「な、なんなんだよ、これっ！」%K%P
-Takeshi「Wh-what are you doing?」%K%P
+Takeshi「Wh-What are you doing?」%K%P
 0x894
 スプレーらしきものが、俺の顔面に思いっきりぶちまけられている。%K%P
 Some kind of spray showered my face.%K%P
@@ -453,7 +453,7 @@ Takeshi「*Swish*, *swish*, *swish*, *swish*, *swish*...」%K%P
 Takeshi「Blah!」%K%P
 0xA74
 つぐみ「ちょ、ちょっと！」%K%P
-Tsugumi「H-hey!」%K%P
+Tsugumi「H-Hey!」%K%P
 0xA80
 つぐみ「汚いからこんなとこに吐き出さないでよ！」%K%P
 Tsugumi「That's dirty, so don't go spitting it over here!」%K%P
@@ -504,7 +504,7 @@ Takeshi「Whose?」%K%P
 Tsugumi「Yours.」%K%P
 0xB74
 武「て、て、て、てめぇ……」%K%P
-Takeshi「Y-y-y-y-you...」%K%P
+Takeshi「Y-Y-Y-Y-You...」%K%P
 0xB80
 言いかけて、俺ははたと気づいた。%K%P
 And then I realized something.%K%P
@@ -552,7 +552,7 @@ It stung my nose like overripe fruit...%K%P
 It smelled like a hangover.%K%P
 0xC3C
 武「あ、ありがとう」%K%P
-Takeshi「Th-thanks.」%K%P
+Takeshi「Th-Thanks.」%K%P
 0xC48
 一応、礼を言いつつ……%K%P
 I thanked her...%K%P
@@ -897,7 +897,7 @@ It was then that Tsugumi acted.%K%P
 She suddenly opened the watertight door.%K%P
 0x1640
 武「お、おいっ！　待てよ！　どうするつもりなんだ！」%K%P
-Takeshi「H-hey! Wait! Whaddya think you're doing?」%K%P
+Takeshi「H-Hey! Wait! Whaddya think you're doing?」%K%P
 0x1690
 つぐみは答えずに、ＬｅＭＵ側の扉も開いた。%K%P
 Without answering, Tsugumi also opened the LeMU side door.%K%P

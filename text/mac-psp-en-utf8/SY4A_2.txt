@@ -219,7 +219,7 @@ Sara「Yup.」%K%P
 Sara「I mean, it's to help Nakkyu, right? I can't very well say no.」%K%P
 0x574
 少年「あ、ありがとう！」%K%P
-Kid「Th-thanks!」%K%P
+Kid「Th-Thanks!」%K%P
 0x588
 沙羅の手をとって、ぼくは歓喜した。%K%P
 I grabbed Sara's hand and shouted happily.%K%P
@@ -231,7 +231,7 @@ I was so happy I could have jumped for joy... Actually, I did jump.%K%P
 I was sure that things would go fine.%K%P
 0x5AC
 沙羅「ちょ、ちょっと、ちょっとぉ……なんで、少年がそんなに喜ぶの？」%K%P
-Sara「H-hey, hey, wait... Kid, what are you so happy about?」%K%P
+Sara「H-Hey, hey, wait... Kid, what are you so happy about?」%K%P
 0x5B8
 少年「え？」%K%P
 Kid「Huh?」%K%P
@@ -255,7 +255,7 @@ Sara stared at me suspiciously.%K%P
 Sara「Oh, I get it〜」%K%P
 0x61C
 少年「な、なんだよ！」%K%P
-Kid「Wh-what?」%K%P
+Kid「Wh-What?」%K%P
 0x630
 ポムポム……沙羅はぼくの肩をたたいた。%K%P
 ...Sara patted me on the back.%K%P
@@ -390,7 +390,7 @@ Kid「What's that?」%K%P
 Sara「It's an unchangeable string of letters or numbers created by a mathematical function when a user sets a password.」%K%P
 0x968
 少年「は、はい？？？」%K%P
-Kid「Wh-what?」%K%P
+Kid「Wh-What?」%K%P
 0x974
 沙羅「ハッシュさえ見つかってしまえば、簡単にパスワードを特定できるんだけどね」%K%P
 Sara「If you can find the hash, then it's easy to get a password.」%K%P
@@ -645,7 +645,7 @@ Sara「Oh, thank you so much」%K%P
 Sara's coffee came with milk and the sugar bowl.%K%P
 0xE10
 少年「あ、あれれ？」%K%P
-Kid「H-hey.」%K%P
+Kid「H-Hey.」%K%P
 0xE1C
 少年「ねえ、コーヒーには不純物を入れちゃイケナイんでしょ？」%K%P
 Kid「Didn't you say that you weren't supposed to put anything in coffee?」%K%P
@@ -783,7 +783,7 @@ Sara「136-bit.」%K%P
 Kid「What?」%K%P
 0x1098
 優「な、なによ……それ……」%K%P
-You「Wh-what...? That means...」%K%P
+You「Wh-What...? That means...」%K%P
 0x10A4
 ２の１３６乗通りの暗号パターン。%K%P
 The number of possible patterns was 2 to the 136th power.%K%P
@@ -981,7 +981,7 @@ She was wearing a white-looking cape that fanned out like a pair of wings...%K%P
 She looked like an angel descending from heaven...%K%P
 0x148C
 少年「ど、どうしたの、空……いきなり現れたりして……」%K%P
-Kid「Wh-what is it, Sora...? Showing up all of a sudden...」%K%P
+Kid「Wh-What is it, Sora...? Showing up all of a sudden...」%K%P
 0x1498
 空「…………」%K%P
 Sora「.........」%K%P
@@ -1251,7 +1251,7 @@ Sora「Ugghhh...!」%K%P
 Sora began to suffer.%K%P
 0x1A0C
 少年「ど、どうかしたの？」%K%P
-Kid「Wh-what's the matter?」%K%P
+Kid「Wh-What's the matter?」%K%P
 0x1A28
 空「あ、あぁ……やめて……やめてください……！」%K%P
 Sora「Ohhhh... Please stop...!」%K%P
@@ -1269,7 +1269,7 @@ Sora「System scanning error.」%K%P
 Sora「Unauthorized access to the autonomic nervous system confirmed.」%K%P
 0x1AC0
 少年「ど、どうしちゃったの！？」%K%P
-Kid「Wh-what happened?」%K%P
+Kid「Wh-What happened?」%K%P
 0x1ACC
 優「そんなの、私だってわからないよ！」%K%P
 You「How am I supposed to know?」%K%P
@@ -1302,7 +1302,7 @@ You「Huh?」%K%P
 Sora「Escape...」%K%P
 0x1B4C
 空「は、早く！」%K%P
-Sora「H-hurry!」%K%P
+Sora「H-Hurry!」%K%P
 0x1B60
 空「『侵入経路、判明』」%K%P
 Sora「Intruder route discovered.」%K%P
@@ -1329,7 +1329,7 @@ We were in the middle of a roiling ocean.%K%P
 The water swirled loudly.%K%P
 0x1BDC
 （ど、どういうことなんだ！？！？）%K%P
-(Wh-what is this!?)%K%P
+(Wh-What is this!?)%K%P
 0x1BE8
 ぼくらは瞬く間に渦に呑み込まれ、身体がバラバラに引き裂かれそうになる。%K%P
 It appeared as if we were about to be sucked in and have our bodies torn to pieces.%K%P
@@ -1392,7 +1392,7 @@ Sora「Sound is also being emitted from the room's speakers.」%K%P
 Sora「As long as you are in LeMU, you cannot escape.」%K%P
 0x1CF8
 少年「や、やめてくれぇ……っ！！」%K%P
-Kid「Pl-please stop...!」%K%P
+Kid「Pl-Please stop...!」%K%P
 0x1D04
 優「あ、あぁぁぁぁぁあああっ！！」%K%P
 You「Ahhhhhhhhhhhh!」%K%P
@@ -1410,7 +1410,7 @@ Sora「I am warning you. Remove yourself from LeMMIH.」%K%P
 Sora「Cease what you are doing immediately.」%K%P
 0x1D50
 沙羅「い、いやよ……！」%K%P
-Sara「N-no...!」%K%P
+Sara「N-No...!」%K%P
 0x1D64
 空「お願いです、松永さん。もう結構ですから、中止してください！」%K%P
 Sora「Please, Matsunaga-san. That is enough. Please stop!」%K%P
@@ -1548,7 +1548,7 @@ Sara「Here goes the overload...」%K%P
 Beeeeeeeep!%K%P
 0x20AC
 空「ううぅぅぅっ！！！　わ、わからなくなっていく……」%K%P
-Sora「Waaaaa! Wh-what's happening to me...?」%K%P
+Sora「Waaaaa! Wh-What's happening to me...?」%K%P
 0x20B8
 空「私は……私は茜ヶ崎空……ＬｅＭＵ開発部ＳＥ主任代理……ＬｅＭＵの運行を補佐する者」%K%P
 Sora「I am... I am Akanegasaki Sora... A system engineer in LeMU's research and development division... and assistant in charge of operating LeMU.」%K%P
@@ -1992,7 +1992,7 @@ Kid「34 years ago...?」%K%P
 Sara「...」%K%P
 0x2A54
 優「ちょ……ちょっと……待って？」%K%P
-You「H-hold... on...」%K%P
+You「H-Hold... on...」%K%P
 0x2A60
 優「３４年前って、どういうこと？」%K%P
 You「What do you mean 34 years ago?」%K%P
@@ -2007,7 +2007,7 @@ You「I was born 18 years ago.」%K%P
 You「How could anything as ridiculous as my father dying 34 years ago be true?」%K%P
 0x2A90
 少年「そ、そうだよ……空の言ってること、全然つじつまが合わないよ」%K%P
-Kid「Y-yeah... Sora, what you're saying just doesn't match the facts.」%K%P
+Kid「Y-Yeah... Sora, what you're saying just doesn't match the facts.」%K%P
 0x2A9C
 空「とにかく、落ち着いて聞いて下さい」%K%P
 Sora「Please just stay calm and listen.」%K%P
@@ -2181,7 +2181,7 @@ You「So tell me. What happened with my mother?」%K%P
 Sora「You're sure?」%K%P
 0x2D9C
 優「う、うん」%K%P
-You「Y-yes.」%K%P
+You「Y-Yes.」%K%P
 0x2DA8
 空「では、お伝え致します」%K%P
 Sora「Then I will tell you.」%K%P
@@ -2196,7 +2196,7 @@ Sora「Passed away fifteen years ago.」%K%P
 You「No!?」%K%P
 0x2DE0
 優「な、なに言ってるのよ、空……」%K%P
-You「Wh-what are you saying? Sora...」%K%P
+You「Wh-What are you saying? Sora...」%K%P
 0x2DEC
 優「いい加減にしてよ……」%K%P
 You「How can you tell me that...」%K%P

@@ -345,7 +345,7 @@ Looking back, there was Takeshi with the toolbox on the floor, breathing hard.%K
 You「Geez. Gimme a break. Kid, give him a hand.」%K%P
 0x984
 少年「う、うん……わかった」%K%P
-Kid「A-alright.」%K%P
+Kid「A-Alright.」%K%P
 0x9AC
 武のところまで、早足で戻るぼく。%K%P
 I hurried to where Takeshi was.%K%P
@@ -372,7 +372,7 @@ Kid「Quit exaggerating...」%K%P
 Kid「Oh, Takeshi! Watch out! There's a bump sticking out there!」%K%P
 0xA3C
 武「ぬぉっ！　あ、あぶねぇっ！」%K%P
-Takeshi「Whoa! Th-that was close!」%K%P
+Takeshi「Whoa! Th-That was close!」%K%P
 0xA48
 かろうじて体勢を立て直す武。%K%P
 Takeshi was just able to right himself.%K%P
@@ -420,13 +420,13 @@ You reached toward the door handle...%K%P
 (――!?)%K%P
 0xB78
 少年「ちょ、ちょっと待った！」%K%P
-Kid「Wa-wait a second!」%K%P
+Kid「Wa-Wait a second!」%K%P
 0xB84
 ぼくは反射的に優の腕をつかんでいた。%K%P
 Instinctively, I grabbed You's arm.%K%P
 0xB98
 優「え？　え？　な、なに……！？」%K%P
-You「Wh-what? What is it...?」%K%P
+You「Wh-What? What is it...?」%K%P
 0xBA4
 武「？」%K%P
 Takeshi「?」%K%P
@@ -783,7 +783,7 @@ Takeshi「Huh?」%K%P
 Sara「I'm a licensed Iga Ninja!」%K%P
 0x147C
 武「な、なんだぁ、そりゃ……？」%K%P
-Takeshi「Wh-what's that?」%K%P
+Takeshi「Wh-What's that?」%K%P
 0x1490
 沙羅「だぁからようするにぃ〜、命がおしくば手を出すなってこと！」%K%P
 Sara「It means that if you value your life you'd better stay back!」%K%P
@@ -1557,7 +1557,7 @@ And there...%K%P
 Was You's face.%K%P
 0x24E8
 （い、いつの間に……？）%K%P
-(Wh-when did she get so close?)%K%P
+(Wh-When did she get so close?)%K%P
 0x24F4
 お互いの吐息が、かかってしまいそうな距離。%K%P
 We were at a distance where could just about feel each other's breath.%K%P

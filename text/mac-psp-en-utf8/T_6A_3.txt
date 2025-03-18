@@ -12,7 +12,7 @@ You「You shouldn't litter, you know?」%K%P
 You picked the wrapper out of the water and twisted it around her finger.%K%P
 0x74
 武「い、いいじゃないかよ、もう。そのくらいさぁ……」%K%P
-Takeshi「Wh-who cares? It doesn't matter at this point anyway...」%K%P
+Takeshi「Wh-Who cares? It doesn't matter at this point anyway...」%K%P
 0x88
 優「またまたぁ〜、な〜にいきなりふて腐れちゃってるのかなぁ〜、この男はぁ」%K%P
 You「Oh, not that again. Quit your sulking, pal!」%K%P
@@ -54,7 +54,7 @@ You「Even if you look fine, I know it's just for show.」%K%P
 You「I know you're depressed, Kuranari.」%K%P
 0x13C
 武「だ、だからっ！　そんなことは、全然ちっとも、ないぞっ……！」%K%P
-Takeshi「W-well, because! I mean, i-it isn't like that at all...!」%K%P
+Takeshi「W-Well, because! I mean, i-it isn't like that at all...!」%K%P
 0x150
 優「何が『だから』なのよ？」%K%P
 You「What's this 'because'?」%K%P
@@ -528,7 +528,7 @@ Takeshi「Kid? Where the heck did you just go?」%K%P
 You「Trouble? What kind of trouble?」%K%P
 0x9AC
 少年「い、いいから、来て！　止めなきゃ！」%K%P
-Kid「C-come on! We've gotta go and stop it!」%K%P
+Kid「C-Come on! We've gotta go and stop it!」%K%P
 0x9B8
 ぜいぜいと息を切らしながら、少年は言う。%K%P
 The Kid was breathing heavily, yelling between breaths.%K%P
@@ -537,7 +537,7 @@ The Kid was breathing heavily, yelling between breaths.%K%P
 Takeshi「Stop what? Hey, explain what's going on.」%K%P
 0x9D0
 ココ「な、何があったの？」%K%P
-Coco「Wh-what happened?」%K%P
+Coco「Wh-What happened?」%K%P
 0x9DC
 ピピ「わん」%K%P
 Pipi「*Woof*」%K%P
@@ -567,10 +567,10 @@ Kid「I just couldn't watch, so I...」%K%P
 You「This is bad news... at a time like this.」%K%P
 0xA58
 ココ「い、行こう！　止めようよっ！」%K%P
-Coco「L-let's go! We've got to stop them!」%K%P
+Coco「L-Let's go! We've got to stop them!」%K%P
 0xA64
 武「あ、ああ！　早いとこ行くぞ！」%K%P
-Takeshi「Y-yeah! We'd better hurry!」%K%P
+Takeshi「Y-Yeah! We'd better hurry!」%K%P
 0xA70
 ピピ「わんわん！」%K%P
 Pipi「*Bow-wow*!」%K%P
@@ -807,7 +807,7 @@ It was different than crying...%K%P
 Takeshi「Coco...」%K%P
 0x1010
 武「お、おい、お前……？」%K%P
-Takeshi「H-hey, what...?」%K%P
+Takeshi「H-Hey, what...?」%K%P
 0x101C
 武「いったい、急にどうしたん――」%K%P
 Takeshi「What's up with you all of a sudden...?」%K%P
@@ -939,7 +939,7 @@ Pipi looked up at Coco worriedly.%K%P
 Takeshi「We're going to the infirmary on Zweiter.」%K%P
 0x1280
 優「り、了解！」%K%P
-You「O-okay!」%K%P
+You「O-Okay!」%K%P
 0x128C
 ピピ「わんわん！」%K%P
 Pipi「*Woof*! *Woof*!」%K%P

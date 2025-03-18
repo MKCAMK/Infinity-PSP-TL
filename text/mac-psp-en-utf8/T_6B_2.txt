@@ -174,7 +174,7 @@ You「Aaaaaiiiiii!」%K%P
 With a perfect flying drop-kick, she threw open the panel to the electronic lock.%K%P
 0xFFC
 武「ななっ、何やってんだよお前は！？　ふざけてる場合かよ！」%K%P
-Takeshi「Wh-wh-what are you doing!? This isn't the time to be goofing off!」%K%P
+Takeshi「Wh-Wh-What are you doing!? This isn't the time to be goofing off!」%K%P
 0x1010
 優「まともにやって開かないんなら、ぶっ壊すしかないでしょーがっ！！」%K%P
 You「If it won't open any other way, I'm going to break it down!」%K%P
@@ -402,7 +402,7 @@ The machines displayed nameplates with 「HIMMEL」 written on them.%K%P
 It seemed that we were in the computer control room.%K%P
 0x1824
 武「あ、おいっ！　人が……」%K%P
-Takeshi「H-hey! There's someone here...」%K%P
+Takeshi「H-Hey! There's someone here...」%K%P
 0x1830
 武「こいつか？　扉を開けたのは？」%K%P
 Takeshi「Did he open up the door just now?」%K%P
@@ -456,7 +456,7 @@ Researcher「Uuugh...」%K%P
 Takeshi「Hey, are you one of the staff from the research%Nfacility?」%K%P
 0x190C
 研究員「あ、ああ。そうだ……」%K%P
-Researcher「Y-yeah... That's right...」%K%P
+Researcher「Y-Yeah... That's right...」%K%P
 0x1918
 息も絶え絶え、研究員は答えた。%K%P
 Breathing faintly, the researcher replied.%K%P
@@ -483,7 +483,7 @@ Researcher「Hahaha, what a surprise... *gagh*...」%K%P
 Blood trickled from his mouth, and he smiled wryly.%K%P
 0x1978
 武「お、おいっ、あんま無理にしゃべるな！」%K%P
-Takeshi「H-hey! Don't strain yourself. You don't have to talk!」%K%P
+Takeshi「H-Hey! Don't strain yourself. You don't have to talk!」%K%P
 0x1984
 研究員「すまんな……我々のせいで」%K%P
 Researcher「I'm so sorry... It's all our fault...」%K%P
@@ -519,7 +519,7 @@ Tsugumi「Takeshi, cut it out, you're shaking him too hard.」%K%P
 Tsugumi「He's unconscious. Just leave him alone for now.」%K%P
 0x1A10
 武「あ、ああ……」%K%P
-Takeshi「O-okay...」%K%P
+Takeshi「O-Okay...」%K%P
 0x1A24
 つぐみ「こうなれば……彼も一緒に連れて行くしかないでしょうね」%K%P
 Tsugumi「We'll... We'll have to bring him with us.」%K%P

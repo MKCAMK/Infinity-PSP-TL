@@ -96,7 +96,7 @@ Kid「There are lots of other people...」%K%P
 Young Girl「Help...? Did you come to help?」%K%P
 0x248
 少年「う、うん……そうだよ」%K%P
-Kid「Y-yeah... That's right.」%K%P
+Kid「Y-Yeah... That's right.」%K%P
 0x25C
 少女「でも……きっと無理だよ……」%K%P
 Young Girl「But... it's probably impossible...」%K%P
@@ -183,7 +183,7 @@ I looked back.%K%P
 The girl had vanished, and there was no sign that anyone had been sitting where she had been.%K%P
 0x420
 少年「そ、そんなはず……」%K%P
-Kid「Im-impossible...」%K%P
+Kid「Im-Impossible...」%K%P
 0x434
 武「おいおい、やめてくれよ……記憶喪失の次は、幻覚か？」%K%P
 Takeshi「Stop it already. What? Are you tired of memory loss and working on hallucinations now?」%K%P
@@ -201,7 +201,7 @@ Kid「There was a girl here! She was sitting on this bed!」%K%P
 Takeshi「Listen, Kid...」%K%P
 0x478
 少年「な、なに……？」%K%P
-Kid「Wh-what...?」%K%P
+Kid「Wh-What...?」%K%P
 0x48C
 武「腹、減らないか？」%K%P
 Takeshi「Aren't you hungry?」%K%P
@@ -210,7 +210,7 @@ Takeshi「Aren't you hungry?」%K%P
 Kid「Hungry...?」%K%P
 0x4A4
 少年「そ、そんなこと、今はどうだっていいんだよ！」%K%P
-Kid「Wh-who cares about that right now?」%K%P
+Kid「Wh-Who cares about that right now?」%K%P
 0x4B0
 少年「ここに、女の子が……女の子が……」%K%P
 Kid「There was a girl here... A girl, I tell you...」%K%P
@@ -297,7 +297,7 @@ So I would take her out of there...%K%P
 Coco「Don't go... Please...」%K%P
 0x648
 少年「え、えっ？」%K%P
-Kid「Wh-what?」%K%P
+Kid「Wh-What?」%K%P
 0x654
 ココ「どこにも行かないで……」%K%P
 Coco「Please, don't go...」%K%P
@@ -735,7 +735,7 @@ Kid「There are lots of other people...」%K%P
 Young Girl「Help...? Did you come to help?」%K%P
 0x11C0
 少年「う、うん……そうだよ」%K%P
-Kid「Y-yeah... That's right.」%K%P
+Kid「Y-Yeah... That's right.」%K%P
 0x11D4
 少女「でも……きっと無理だよ……」%K%P
 Young Girl「But... it's probably impossible...」%K%P
@@ -813,7 +813,7 @@ I looked back.%K%P
 The girl had vanished, and there was no sign that anyone had been sitting where she had been.%K%P
 0x1338
 少年「そ、そんなはず……」%K%P
-Kid「Im-impossible...」%K%P
+Kid「Im-Impossible...」%K%P
 0x134C
 武「おいおい、やめてくれよ……記憶喪失の次は、幻覚か？」%K%P
 Takeshi「Stop it already. What? Are you tired of memory loss and working on hallucinations now?」%K%P
@@ -831,7 +831,7 @@ Kid「There was a girl here! She was sitting on this bed!」%K%P
 Takeshi「Listen, Kid...」%K%P
 0x1390
 少年「な、なに……？」%K%P
-Kid「Wh-what...?」%K%P
+Kid「Wh-What...?」%K%P
 0x13A4
 武「腹、減らないか？」%K%P
 Takeshi「Aren't you hungry?」%K%P
@@ -840,7 +840,7 @@ Takeshi「Aren't you hungry?」%K%P
 Kid「Hungry...?」%K%P
 0x13BC
 少年「そ、そんなこと、今はどうだっていいんだよ！」%K%P
-Kid「Wh-who cares about that right now?」%K%P
+Kid「Wh-Who cares about that right now?」%K%P
 0x13C8
 少年「ここに、女の子が……女の子が……」%K%P
 Kid「There was a girl here... A girl, I tell you...」%K%P

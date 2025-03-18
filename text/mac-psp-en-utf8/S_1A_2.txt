@@ -3,7 +3,7 @@ text area offset and size:
 0x6789
 0x5C
 少年「み、水だ……」%K%P
-Kid「Wa-water...」%K%P
+Kid「Wa-Water...」%K%P
 0x68
 フロアに降り立ったぼくは、思わず声をもらした。%K%P
 I muttered that without thinking when we reached the floor.%K%P
@@ -228,7 +228,7 @@ You took an adhesive bandage from her pocket and put it on the bloody finger.%K%
 You「I swear, you need so much looking after.」%K%P
 0x5B8
 少年「あ、ありがとう……」%K%P
-Kid「Th-thanks...」%K%P
+Kid「Th-Thanks...」%K%P
 0x5C4
 その人差し指は、少しだけ甘い匂いがした。%K%P
 My finger smelled faintly sweet.%K%P
@@ -630,7 +630,7 @@ Sara「Eh!?」%K%P
 Kid「So there was somebody?」%K%P
 0xF54
 沙羅「い、いないよ……いない……けど……」%K%P
-Sara「N-no... There wasn't, but...」%K%P
+Sara「N-No... There wasn't, but...」%K%P
 0xF60
 少年「けど……？」%K%P
 Kid「But...?」%K%P
@@ -651,7 +651,7 @@ Sara「My...」%K%P
 Sara「My... name...」%K%P
 0xFC0
 少年「な、名前……？」%K%P
-Kid「N-name...?」%K%P
+Kid「N-Name...?」%K%P
 0xFD4
 優「あれっ？　そう言えばまだ、きみにマヨの本名教えてなかったよねぇ……」%K%P
 You「What? Oh, that's right. We haven't told you Mayo's real name...」%K%P
@@ -741,7 +741,7 @@ The power drained from my body.%K%P
 I crumpled on the spot as if I had been sucked dry of energy.%K%P
 0x11F0
 優「ちょ、ちょっと……また例の発作なの！？」%K%P
-You「W-wait... Not another one of your fits!?」%K%P
+You「W-Wait... Not another one of your fits!?」%K%P
 0x1204
 優「いい加減にしてよ、もう……」%K%P
 You「Gimme a break. Geez...」%K%P
@@ -939,7 +939,7 @@ You「I'll put my finger in that gooey pit...」%K%P
 As she talked, You did exactly as she said.%K%P
 0x162C
 沙羅「ちょ、ちょっとやめてくださいよ！　先輩！」%K%P
-Sara「W-wait! Stop! Nakkyu!」%K%P
+Sara「W-Wait! Stop! Nakkyu!」%K%P
 0x1638
 優「ぐ〜りぐ〜りぐり……」%K%P
 You「Pick, pick... Goooooey...」%K%P
@@ -1269,7 +1269,7 @@ Well, whatever. It wasn't important.%K%P
 Sara「By the way... Um... Your name is...?」%K%P
 0x1EEC
 少年「な、名前……？」%K%P
-Kid「N-name...」%K%P
+Kid「N-Name...」%K%P
 0x1EF8
 沙羅「うん。きみの、名前」%K%P
 Sara「Yeah. Your name.」%K%P
@@ -1293,7 +1293,7 @@ Sara「Amnesia...?」%K%P
 Sara「...Really?」%K%P
 0x1F74
 少年「う、うん……」%K%P
-Kid「Ye-yes...」%K%P
+Kid「Ye-Yes...」%K%P
 0x1F88
 沙羅「へぇ〜、すごいじゃん」%K%P
 Sara「Oh wow. Cool.」%K%P
@@ -1683,7 +1683,7 @@ You「I'm going to smash it into this stupid machine!」%K%P
 You「I'm going to destroy it! Crush it into smithereens! Absolutely pulverize it!」%K%P
 0x2B68
 沙羅「お、落ち着いて！　とにかく落ち着いて下さい！」%K%P
-Sara「Ta-take it easy! Just calm down!」%K%P
+Sara「Ta-Take it easy! Just calm down!」%K%P
 0x2B74
 優「これが落ち着いていられますかっつーの！」%K%P
 You「How do you expect me to stay calm in a situation like this?」%K%P
