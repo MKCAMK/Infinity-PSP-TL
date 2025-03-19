@@ -138,13 +138,13 @@ The theme park LeMU floating in the ocean!%K%P
 And I had been walking around LeMU with her.%K%P
 0x354
 古代の遺跡……%T030
-There were ancient ruins...%T030
+There were ancient ruins... %T030
 0x368
 闇に浮かんだクジラ……%T030
-The whale floating in the darkness...%T030
+The whale floating in the darkness... %T030
 0x37C
 クラゲのゴンドラ……%T030
-The Jellyfish Gondola...%T030
+The Jellyfish Gondola... %T030
 0x390
 メリーゴーランド……。%K%P
 And merry-go-round...%K%P
@@ -825,7 +825,7 @@ It looked like she soon found what she was looking for.%K%P
 And she headed toward it single-mindedly.%K%P
 0x11A0
 １本の梯子……その脇には真っ赤な文字で『ａｕｓｇａｎｇ／非常口』と書かれ、矢印が上に向かって伸びている。%K%P
-A ladder... Next to it, the words 「Ausgang/Emergency Exit」 were written in straight red letters with an arrow pointing upward.%K%P
+A ladder... Next to it, the words 「Ausgang / Emergency%NExit」 were written in straight red letters with an arrow pointing upward.%K%P
 0x11AC
 梯子の先――天井には頑丈そうな扉があり、円形のハンドルのようなものがついていた。%K%P
 At the other end of the ladder was the ceiling and a sturdy looking door with a round-shaped handle attached to it.%K%P
@@ -1635,7 +1635,7 @@ You said it very carefully.%K%P
 You「I'm gonna ask you a couple of questions...」%K%P
 0x2560
 優「とにかく落ち着いて……体を楽ぅ〜にして、答えて欲しいの」%K%P
-You「So just calm down... I want you to relax and answer them.」%K%P
+You「So just calm down... I want you to relax and answer%Nthem.」%K%P
 0x2574
 優「いい？」%K%P
 You「Alright?」%K%P
@@ -1737,7 +1737,7 @@ The 「me」 that was there... Who knew if it was even the real me?%K%P
 The instant that thought went through my mind, I was frozen by an icy wave of unease.%K%P
 0x2774
 怖くて、心細くて、寂しくて……。%K%P
-Scared, isolated, lonely,...%K%P
+Scared, isolated, lonely...%K%P
 0x279C
 少年「優……」%K%P
 Kid「You...」%K%P

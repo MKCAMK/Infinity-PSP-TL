@@ -36,7 +36,7 @@ I looked around to be sure, but there weren't any signs that water was leaking f
 Kid「Well then, what is this...?」%K%P
 0xF0
 優「さっきの……私達が巻き込まれた浸水のせいよ」%K%P
-You「This must be from the water that washed us away earlier.」%K%P
+You「This must be from the water that washed us away%Nearlier.」%K%P
 0xFC
 優「ツヴァイトシュトックにたまった海水が、このフロアに流れ込んだんじゃないかな？」%K%P
 You「I figure the seawater that pooled on Zweiter Stock flowed down here.」%K%P
@@ -75,7 +75,7 @@ Finally...%K%P
 When we turned into a corridor, we heard an unexpected sound.%K%P
 0x208
 ドンドンドンドンッ……
-Bam, bam, bam, bam...
+Bam, bam, bam, bam... 
 0x244
 ドンドンドンドンッ……。%K%P
 Bam, bam, bam, bam...%K%P
@@ -87,7 +87,7 @@ You「Hey, did you hear something just now?」%K%P
 We stopped and listened.%K%P
 0x294
 ドンドンドンドンッ……
-Bam, bam, bam, bam...
+Bam, bam, bam, bam... 
 0x2D0
 ドンドンドンドンッ……。%K%P
 Bam, bam, bam, bam...%K%P
@@ -1227,7 +1227,7 @@ There was something a little off about Mayo's greeting.%K%P
 You「And this is Mayo.」%K%P
 0x1E2C
 優「高校のときの後輩なの」%K%P
-You「She goes to your old high school?」%K%P
+You「She goes to my old high school.」%K%P
 0x1E38
 少年「どうも、初めまして」%K%P
 Kid「Nice to meet you too.」%K%P
