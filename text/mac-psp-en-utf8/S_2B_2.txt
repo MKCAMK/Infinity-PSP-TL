@@ -15,7 +15,7 @@ The pipes continued into the adjacent generator room. It seemed that by opening 
 「Anyhow, this is all because the power supply is down.」%K%P
 0xD4
 『そこで、停電になったときでも、発電室のメンテナンスを手動で行なうことができるよう、この部屋は設けられたのだろう』%K%P
-「This room is designed so that maintenance can be performed manually at times like this, or during blackouts.」%K%P
+「This room is designed so that maintenance can be performed manually during blackouts.」%K%P
 0xFC
 ……という話を、ぼくは優から聞いた。%K%P
 ...That was what You told me.%K%P

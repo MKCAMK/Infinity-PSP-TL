@@ -852,7 +852,7 @@ You「Two?」%K%P
 Takeshi「I mean You.」%K%P
 0x135C
 優「私は、職員って言うか、ただのバイトだけど……」%K%P
-You「Well, I'm not really an employee. It's just a part-time thing...」%K%P
+You「Well, I'm not really an employee. It's just a part-time%Nthing...」%K%P
 0x1370
 優「倉成は？　遊びに来たんだよねぇ？」%K%P
 You「And Kuranari? You just came for fun?」%K%P
@@ -1467,7 +1467,7 @@ Takeshi「What's up with her?」%K%P
 You「Why is she so angry?」%K%P
 0x2764
 沙羅「武……なんか嫌われるようなことしたんでしょ？」%K%P
-Sara「Takeshi... did you do something to make her mad at you?」%K%P
+Sara「Takeshi... did you do something to make her mad at%Nyou?」%K%P
 0x2778
 武「してねぇーよ！」%K%P
 Takeshi「I didn't!」%K%P
@@ -1680,7 +1680,7 @@ You「And what steps we... should take from now.」%K%P
 Sara「That's what we were discussing.」%K%P
 0x2C8C
 少年「ふーん、事故の原因と、対応策、か……」%K%P
-Kid「Oh. The cause of the accident and steps to take, huh...?」%K%P
+Kid「Oh. The cause of the accident and steps to take,%Nhuh...?」%K%P
 0x2C98
 少年「ねえ？　悪いんだけど、それ、ぼくにも教えてくれないかなぁ？　簡単でいいからさぁ」%K%P
 Kid「Hey, do you mind filling me in on what you came up with? You can keep it simple.」%K%P
@@ -1740,7 +1740,7 @@ Kid「?」%K%P
 Sora「In the manual, it is written that...」%K%P
 0x2DD8
 空「『緊急の場合でも、お客様には一時的に、インゼル・ヌル上の加減圧室にとどまっていただく必要がある』」%K%P
-Sora「'In the case of an emergency, it is necessary to temporarily hold visitors in the decompression chamber.'」%K%P
+Sora「'In the case of an emergency, it is necessary to temporarily hold visitors in the decompression%Nchamber.'」%K%P
 0x2DE4
 少年「なんで？　すぐに逃げなきゃいけないんだよ？　どうしてわざわざ加減圧室なんかに……」%K%P
 Kid「Why? But what if you have to escape in a hurry? Why do you have to stop in the decompression chamber?」%K%P

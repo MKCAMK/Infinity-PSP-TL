@@ -630,7 +630,7 @@ Kid「...............」%K%P
 Tsugumi「Fine.」%K%P
 0xF30
 つぐみ「もしもあなたが嘘をついてないとしたら……ひとつだけ、忠告しといてあげる」%K%P
-Tsugumi「Well, if you aren't lying... then I'll warn you about one thing.」%K%P
+Tsugumi「Well, if you aren't lying... then I'll warn you about one%Nthing.」%K%P
 0xF44
 つぐみ「あなたはきっと……利用されてるのよ、奴らに」%K%P
 Tsugumi「You are... just being used by them.」%K%P
@@ -831,19 +831,19 @@ Sora「LeMMIH's proper name is...」%K%P
 Sora「<Leiblich Medizin: Multiverfahren 
 0x14C4
 Ｉｎｔｅｌｌｉｇｅｎｔ⑳Ｈｉｒｎ⑳Ｓｙｓｔｅｍ』
-Intelligentes Hirnsystem.> 
+Intelligentes%NHirnsystem.> 
 0x14D0
 と言います」%K%P
 ...That is its name.」%K%P
 0x14E0
 少年「……………………は、はいっ？　も、もう１回、いい？」%K%P
-Kid「Uh... what was that? Can you give it to me one more time?」%K%P
+Kid「Uh... what was that? Can you give it to me one more%Ntime?」%K%P
 0x14F0
 空「『Ｌｅｉｂｌｉｃｈ⑳Ｍｅｄｉｚｉｎ：Ｍｕｌｔｉｖｅｒｆａｈｒｅｎ%N
 Sora「<Leiblich Medizin: Multiverfahren 
 0x14FC
 Ｉｎｔｅｌｌｉｇｅｎｔ⑳Ｈｉｒｎ⑳Ｓｙｓｔｅｍ』
-Intelligentes Hirnsystem.> 
+Intelligentes%NHirnsystem.> 
 0x1508
 ……です」%K%P
 ...That is its name.」%K%P
@@ -894,7 +894,7 @@ Kid「So what is the relationship between Leiblich and LeMU?」%K%P
 Sora「The company managing this theme park is called LeMU.」%K%P
 0x15D4
 空「そして、この会社の筆頭株主が、ライプリヒ製薬なのです」%K%P
-Sora「And the largest stockholder is Leiblich Pharmaceuticals.」%K%P
+Sora「And the largest stockholder is Leiblich%NPharmaceuticals.」%K%P
 0x15E0
 少年「う〜ん……う〜ん……う〜ん……」%K%P
 Kid「I see...」%K%P
@@ -942,7 +942,7 @@ Sora「German?」%K%P
 Kid「Yeah.」%K%P
 0x169C
 少年「ついさっき『レミの正式名称はドイツ語だ』って、教えてくれたでしょ？」%K%P
-Kid「You just said that LeMMIH's official name is German, right?」%K%P
+Kid「You just said that LeMMIH's official name is German,%Nright?」%K%P
 0x16A8
 少年「それから、ＬｅＭＵのあちこちには、ドイツ語の表記がいっぱいあるし……」%K%P
 Kid「And all around LeMU are these German signs and stuff...」%K%P

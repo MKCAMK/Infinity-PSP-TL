@@ -1095,7 +1095,7 @@ Sora「Kid-san, can you see me?」%K%P
 Kid「Yes. I see you.」%K%P
 0x186C
 空「少年さんのすぐ隣に立っています。間違いありませんか？」%K%P
-Sora「I am standing right next to you. You're sure?」%K%P
+Sora「I am right next to you. You're sure?」%K%P
 0x1878
 少年「間違いないよ」%K%P
 Kid「I'm positive.」%K%P
@@ -1284,7 +1284,7 @@ Sora「Anyway, that is how it works. Do you understand?」%K%P
 Kid「.........」%K%P
 0x1C30
 空「少年さん、今度は、ちょっと左を向いてみてください」%K%P
-Sora「Kid-san, now try to face a little to the left.」%K%P
+Sora「Kid-san, now please keep facing to the left.」%K%P
 0x1C3C
 言われた通り、ぼくは左を向いた。%K%P
 I faced to the left as she said.%K%P
@@ -1362,7 +1362,7 @@ Sora「I imagine it is to help maintain an image of reality for visitors.」%K%P
 Sora「So that there is only one 'Sora' in the world.」%K%P
 0x1D88
 空「そういう設定にしておかないと、お客様の中には混乱なされる方もいらっしゃいますし」%K%P
-Sora「Without that kind of setting, visitors would get confused.」%K%P
+Sora「Without that kind of setting, visitors would get%Nconfused.」%K%P
 0x1D94
 少年「？」%K%P
 Kid「?」%K%P
@@ -1422,7 +1422,7 @@ Kid「Flaw?」%K%P
 Sora「I...」%K%P
 0x1ECC
 空「誰かに『見』られることによって、初めて具現化することができるのです」%K%P
-Sora「I am only 'seen' when someone looks at me.」%K%P
+Sora「I am only 'seen' when someone looks at%Nme.」%K%P
 0x1ED8
 少年「えっ？」%K%P
 Kid「What?」%K%P

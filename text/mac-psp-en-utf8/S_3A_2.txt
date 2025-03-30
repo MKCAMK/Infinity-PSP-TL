@@ -30,7 +30,7 @@ Sara「Yeah. That Konnie.」%K%P
 You「He's still there. He's been around for ages.」%K%P
 0xEC
 沙羅「そのコニーがね？　ついにこの間、電子犬を買ったんですよ」%K%P
-Sara「You know what? The other day, he bought a robotic dog.」%K%P
+Sara「You know what? The other day, he bought a robotic%Ndog.」%K%P
 0x100
 優「へぇ、そうなの？　あの大のメカ嫌いが？」%K%P
 You「No kidding? He did? That mechanophobe?」%K%P
@@ -204,7 +204,7 @@ All of a sudden, from among the din of voices and activity, someone called out t
 I stopped.%K%P
 0x528
 声のした方を振り向くと、手をヒラヒラと振りながら、満面の笑顔を浮かべる女子生徒の姿があった。%K%P
-Looking in the direction of the voice was a girl student, her face one big smile.%K%P
+When I looked in the direction of the voice, a school girl wearing a big smile on her face was there, waving her hand.%K%P
 0x534
 制服のリボンの色からして、３年生に間違いない。%K%P
 From the ribbon on her uniform, it was clear she was a senior.%K%P
@@ -324,7 +324,7 @@ Sara「She means they were short on members and were about to fold.」%K%P
 Takeshi「Oh, I see.」%K%P
 0x7B0
 沙羅「なにしろ、なっきゅ先輩を入れて、たったの３人しか部員がいなかったでござるからなぁ」%K%P
-Sara「I mean, including Nakkyu, there were only three members.」%K%P
+Sara「I mean, including Nakkyu, there were only three%Nmembers.」%K%P
 0x7BC
 武「だっはっは♪　そりゃ、ひでぇな」%K%P
 Takeshi「Hahaha! That's pretty grim.」%K%P
@@ -369,7 +369,7 @@ You「Geez! That's gross... You spewed soda everywhere!」%K%P
 Takeshi「Stupid! Hacking is not robust and certainly isn't in 'the public interest'!」%K%P
 0x8A4
 優「なんでよぉ！」%K%P
-You「What are you talking about?」%K%P
+You「Why's that?!」%K%P
 0x8B0
 武「犯罪だろーが、それは」%K%P
 Takeshi「It's a crime, that's why.」%K%P
@@ -513,7 +513,7 @@ You「She didn't join the club without a fight. Mayo is Mayo, after all.」%K%P
 With that ambiguous comment, You got a distant look in her eye and started to speak.%K%P
 0xBBC
 優「あの日、マヨを部室まで連れ込むところまでは良かったの」%K%P
-You「That day, I could have taken Mayo to our club room...」%K%P
+You「That day, everything was fine up until I brought Mayo to our club room...」%K%P
 0xBC8
 優「でも……でもね？」%K%P
 You「But... But...」%K%P
@@ -639,7 +639,7 @@ Matsunaga「This is a hacking club, right?」%K%P
 You「Right.」%K%P
 0xE34
 松永「でもそのわりに、画面に映ってるの、ただのゲームみたいなんですけど」%K%P
-Matsunaga「But it looks like the only thing on the screens are games.」%K%P
+Matsunaga「But it looks like the only thing on the screens are%Ngames.」%K%P
 0xE40
 優「うーむ、そこなんだなぁ……」%K%P
 You「Uh, well, that's true...」%K%P
@@ -795,7 +795,7 @@ All of the computers in that room that were connected to the network were in the
 You「No way. That girl...」%K%P
 0x10DC
 優「あの短時間で、ここのシステムをクラッキングしたってこと？」%K%P
-You「Could she have cracked the whole system that quickly?」%K%P
+You「Could she have cracked the whole system that%Nquickly?」%K%P
 0x10E8
 ふと視線を落とすと、薄汚れたくまんばぴ人形が、恨めしげに私を見上げていた。%K%P
 Looking down, there was a stuffed bumblebee glaring up nastily at me.%K%P
@@ -852,7 +852,7 @@ Finally, Sara was overwhelmed by You's enthusiasm and joined the club.%K%P
 You「That was how Mayo and I became friends.」%K%P
 0x123C
 沙羅「ニンともカンとも、ニンニン」%K%P
-Sara「Okey-dokey!」%K%P
+Sara「Whenever, wherever: Nin! Nin! Ninja!」%K%P
 0x1294
 長い長い話が終わり、ぼくらは大きく伸びをした。%K%P
 With that long, long story finally over, we all stretched.%K%P
