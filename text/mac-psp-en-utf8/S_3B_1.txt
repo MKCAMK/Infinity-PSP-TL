@@ -195,7 +195,7 @@ Kid「Looking into something?」%K%P
 White steam curled into the air from where she was pouring the coffee.%K%P
 0x478
 少年「それは、みんなに隠れてやらなきゃいけないことなの？」%K%P
-Kid「Is this something that you have to hide from everyone?」%K%P
+Kid「Is this something that you have to hide from%Neveryone?」%K%P
 0x484
 少し糾弾めいた言い方になってしまう。%K%P
 I thought it came out a little too accusatory.%K%P
@@ -234,7 +234,7 @@ You sat down next to me and took a sip of her coffee.%K%P
 Then she gradually started to talk.%K%P
 0x52C
 優「私、前に言ったことあったよね？　私がＬｅＭＵのバイトを始めたきっかけ……」%K%P
-You「I told you before, right? About why I got this job at LeMU...」%K%P
+You「I told you before, right? About why I got this job at%NLeMU...」%K%P
 0x538
 優「行方不明になったお父さんの、手がかりを探してる、って」%K%P
 You「I'm looking for clues about my father, who disappeared.」%K%P
@@ -297,7 +297,7 @@ Kid「Hmmm. That's interesting...」%K%P
 You「An accident seventeen years ago, shrouded in mystery.」%K%P
 0x640
 優「１７年前に、行方不明になったお父さん」%K%P
-You「And my father, who disappeared seventeen years ago.」%K%P
+You「And my father, who disappeared seventeen years%Nago.」%K%P
 0x64C
 優「そして、お父さんは事故の直前までここで働いていた」%K%P
 You「He worked here until right before the accident.」%K%P
@@ -525,7 +525,7 @@ Tap, tap, tap...%K%P
 「*%T010*%T005*%T020*%T004*%T005*%T015*%T003*」%K%P
 0xAB4
 打ち込まれた文字は、第３者に知られないように、画面上では『＊』で表示されるとのことだ。%K%P
-The digits she typed in were blocked out by 「*」 so that anybody watching wouldn't know what the word was.%K%P
+The characters she typed in were blocked out by 「*」 so that anybody watching wouldn't know what the word was.%K%P
 0xADC
 カタッ！%K%P
 Tap!%K%P
@@ -735,7 +735,7 @@ Kid「I wonder why? It sounds like a waste to me.」%K%P
 You「Who knows? But it's a company we're talking about, so I'll bet it has to do with money.」%K%P
 0xEDC
 優「まあそんなこと、私達に知ることはできないし、別に知りたくもないよ」%K%P
-You「But there's no way for us to know, and I don't really care.」%K%P
+You「But there's no way for us to know, and I don't really%Ncare.」%K%P
 0xF04
 カタカタカタ……。%K%P
 Tap, tap, tap...%K%P
@@ -1209,7 +1209,7 @@ I remembered that Sara was a top-level hacker.%K%P
 Kid「You said that Sara took first prize in some code-breaking contest, right?」%K%P
 0x1940
 少年「きっと、パスワードを解析するプログラムを作ってくれるって」%K%P
-Kid「I'll bet she'd make a password-breaking program for you.」%K%P
+Kid「I'll bet she'd make a password-breaking program for%Nyou.」%K%P
 0x1954
 優「かもね」%K%P
 You「Maybe.」%K%P
@@ -1767,7 +1767,7 @@ I had to think two-dimensionally.%K%P
 Kid「I got it! Listen, if you take the paper and set it like this...」%K%P
 0x265C
 少年「えーっと、なになに……」%K%P
-Kid「What? Let's see...」%K%P
+Kid「Okay, let's see...」%K%P
 0x2668
 少年「『クラゲノ……コクウニ……シュウリョウシ……トキトリ』」%K%P
 Kid「'The empty fall sky...%NA single cuckoo calls out...%NBrings a chill to me'.」%K%P
@@ -1851,7 +1851,7 @@ Kid「Think so? It's hard to believe that would make it print like this.」%K%P
 You「I don't care about that now.」%K%P
 0x27EC
 優「とにかく、パスワードがわかればそれでいいんだから」%K%P
-You「Anyway, as long as I have the password, things are fine.」%K%P
+You「Anyway, as long as I have the password, things are%Nfine.」%K%P
 0x27F8
 『海月の虚空に秋涼し時鳥』%K%P
 「The empty fall sky%NA single cuckoo calls out%NBrings a chill to me」.%K%P
@@ -1881,7 +1881,7 @@ But...%K%P
 Tap, tap, tap...%K%P
 0x2898
 優「うみつきの、こくうにすずし、ほととぎす……と」%K%P
-You「'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.%NOkay then!」%K%P
+You「'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'. Okay then!」%K%P
 0x28C0
 カタッ！%K%P
 Tap!%K%P
@@ -2052,7 +2052,7 @@ You「So we'll have to give up for the time being, I guess.」%K%P
 You shrugged exaggeratedly.%K%P
 0x2D98
 優「せっかく苦労して解読してくれた少年には悪いんだけど……」%K%P
-You「And you went to so much trouble to read this for me, Kid...」%K%P
+You「And you went to so much trouble to read this for me,%NKid...」%K%P
 0x2DA4
 優「そもそもこの句が、そのままパスワードであるという保証はどこにもないんだよね」%K%P
 You「But from the start, there was no guarantee that what's on that paper is the password.」%K%P

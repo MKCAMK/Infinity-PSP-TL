@@ -6,7 +6,7 @@ text area offset and size:
 Before going for repairs, we had to secure tools.%K%P
 0x6C
 ぼくら４人はツヴァイトシュトックにあがると、まずは倉庫に立ち寄った。%K%P
-When the four of us ascended from Zweiter Stock, we stopped by the warehouse first.%K%P
+When the four of us ascended to Zweiter Stock, we stopped by the warehouse first.%K%P
 0x78
 幸いと、道具はすぐに見つかった。%K%P
 Fortunately, we found the tools we needed right away.%K%P
@@ -369,7 +369,7 @@ Takeshi「Whew! Thanks. I thought my arms would fall off, carrying it all alone.
 Kid「Quit exaggerating...」%K%P
 0xA28
 少年「――あっ、武！　足下、気をつけて！　そこ、段差あるから！」%K%P
-Kid「Oh, Takeshi! Watch out! There's a bump sticking out there!」%K%P
+Kid「Oh, Takeshi! Watch out! There's a bump sticking out%Nthere!」%K%P
 0xA3C
 武「ぬぉっ！　あ、あぶねぇっ！」%K%P
 Takeshi「Whoa! Th-That was close!」%K%P
@@ -600,7 +600,7 @@ Why don't we go together?
 Kid「I'm going to help out You.」%K%P
 0xFBC
 武「そうかい。なら、俺と沙羅で留守番だな」%K%P
-Takeshi「Okay. In that case, Sara and I will hold down the fort here.」%K%P
+Takeshi「Okay. In that case, Sara and I will hold down the fort%Nhere.」%K%P
 0xFD0
 武「おい、それなら文句ねぇだろ？」%K%P
 Takeshi「You can't complain about that, right?」%K%P
@@ -615,7 +615,7 @@ Takeshi「Geez. Damned if I do, damned if I don't.」%K%P
 It seemed that Takeshi was oblivious to his disturbing dream the night before.%K%P
 0x1010
 少年「きっと優は、優なりに武のこと気遣ってるんだと思うよ」%K%P
-Kid「I figure that You is concerned about you in her own way.」%K%P
+Kid「I figure that You is concerned about you in her own%Nway.」%K%P
 0x101C
 少年「ほら、重い工具箱を運んでもらったりしたわけだから、少しは休んで……ってことじゃないのかな？」%K%P
 Kid「Like when she had you carry the heavy toolbox... Maybe it was her way of saying 'rest a bit' or 'take it easy'.」%K%P

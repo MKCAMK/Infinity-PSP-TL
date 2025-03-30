@@ -1368,7 +1368,7 @@ While we walked, You brought Sara up to speed with the situation.%K%P
 After finishing the story, You went on.%K%P
 0x216C
 優「そしたらね？　突然『警報』が鳴り響いて……」%K%P
-You「And then, you know, suddenly the alarm started ringing...」%K%P
+You「And then, you know, suddenly the alarm started%Nringing...」%K%P
 0x2178
 少年「警報？？？」%K%P
 Kid「Alarm?」%K%P
@@ -1377,7 +1377,7 @@ Kid「Alarm?」%K%P
 You「What? I didn't tell you about this yet?」%K%P
 0x2198
 少年「……？」%K%P
-Kid「Owwww...」%K%P
+Kid「...?」%K%P
 0x21AC
 優「きみが意識を失ってる間に『緊急避難警報』みたいなやつが、アナウンスされたのね」%K%P
 You「While you were out, they rang the emergency evacuation alarm.」%K%P
@@ -1392,7 +1392,7 @@ You「Mayo, you heard it, right?」%K%P
 Sara「Yes.」%K%P
 0x21F4
 沙羅「いきなりエレベーターが止まって……中に閉じ込められちゃって……」%K%P
-Sara「The elevator suddenly stopped... and I got stuck inside...」%K%P
+Sara「The elevator suddenly stopped... and I got stuck%Ninside...」%K%P
 0x2208
 沙羅「そのすぐ後だったかな？　警報が聞こえたのは」%K%P
 Sara「I think it was right after that when I heard the alarm.」%K%P

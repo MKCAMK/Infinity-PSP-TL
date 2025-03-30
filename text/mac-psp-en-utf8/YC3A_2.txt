@@ -2094,7 +2094,7 @@ You「I'm looking into something.」%K%P
 Kid「Looking into something?」%K%P
 0x30A8
 優「私、前に言ったことあったよね？　私がＬｅＭＵのバイトを始めたきっかけ……」%K%P
-You「I told you before, right? About why I got this job at LeMU...」%K%P
+You「I told you before, right? About why I got this job at%NLeMU...」%K%P
 0x30B4
 優「行方不明になったお父さんの、手がかりを探してる、って」%K%P
 You「I'm looking for clues about my father, who disappeared.」%K%P
@@ -2157,7 +2157,7 @@ Kid「Hmmm. That's interesting...」%K%P
 You「An accident seventeen years ago, shrouded in mystery.」%K%P
 0x31B4
 優「１７年前に、行方不明になったお父さん」%K%P
-You「And my father, who disappeared seventeen years ago.」%K%P
+You「And my father, who disappeared seventeen years%Nago.」%K%P
 0x31C0
 優「そして、お父さんは事故の直前までここで働いてた」%K%P
 You「He worked here until right before the accident.」%K%P

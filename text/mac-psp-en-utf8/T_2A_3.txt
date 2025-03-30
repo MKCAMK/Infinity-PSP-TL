@@ -834,7 +834,7 @@ The pipes continued into the generator room next door. It seemed that opening an
 「Anyhow, this is all because the power supply is down.」%K%P
 0x170C
 『そこで、停電になったときでも、発電室のメンテナンスを手動で行なうことができるよう、この部屋は設けられたのだろう』%K%P
-「The room is designed so that maintenance can be performed manually at times like this, or during%Nblackouts.」%K%P
+「The room is designed so that maintenance can be performed manually during blackouts.」%K%P
 0x1718
 ……という話を、俺はつぐみから聞いた。%K%P
 ...That was what Tsugumi told me.%K%P

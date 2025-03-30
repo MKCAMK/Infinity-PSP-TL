@@ -1557,7 +1557,7 @@ Kid「So basically, what you're trying to say is that we can't escape by swimmin
 Sora「Yes.」%K%P
 0x250C
 少年「結局は、おとなしく救助を待つしかないんだ」%K%P
-Kid「I guess in the end, all we can do is wait for help to arrive.」%K%P
+Kid「I guess in the end, all we can do is wait for help to%Narrive.」%K%P
 0x2520
 空「そういうことに、なります」%K%P
 Sora「That's what it comes down to.」%K%P
