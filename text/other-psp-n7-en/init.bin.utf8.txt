@@ -250,25 +250,25 @@ Debug Mode
 Yuka Bad End
 
 ;1d28;10;優夏クリア
-Yuka Good End
+Yuka End
 
 ;1d2c;16;バッドエンド−遙
 Haruka Bad End
 
 ;1d30;8;遙クリア
-Haruka Good End
+Haruka End
 
 ;1d34;18;バッドエンド−沙紀
 Saki Bad End
 
 ;1d38;10;沙紀クリア
-Saki Good End
+Saki End
 
 ;1d3c;20;バッドエンド−くるみ
 Kurumi Bad End
 
 ;1d40;12;くるみクリア
-Kurumi Good End
+Kurumi End
 
 ;1d44;20;バッドエンド−いづみ
 Izumi Bad End
@@ -277,25 +277,25 @@ Izumi Bad End
 Izumi Super Bad End
 
 ;1d4c;12;いづみクリア
-Izumi Good End
+Izumi End
 
 ;1d50;26;バッドエンド−いづみキュア
 Izumi Cure Bad End
 
 ;1d54;22;いづみクリア−邯鄲の夢
-Izumi Good End - A Vain Dream
+Izumi End - A Vain Dream
 
 ;1d58;18;いづみキュアクリア
-Izumi Cure Good End A
+Izumi Cure End A
 
 ;1d5c;16;優夏キュアバッド
 Yuka Cure Bad End
 
 ;1d60;24;優夏キュア〜無限なる想い
-Yuka Cure Good End A - Infinite Feelings
+Yuka Cure End A - Infinite Feelings
 
 ;1d64;24;優夏キュア〜永遠なる想い
-Yuka Cure Good End B - Eternal Feelings
+Yuka Cure End B - Eternal Feelings
 
 ;1d68;6;大団円
 Grand Finale
@@ -412,7 +412,7 @@ User Scenario 33
 Cure route unlocked.
 
 ;1e00;18;いずみキュアクリア
-Izumi Cure Good End
+Izumi Cure End
 
 ;1e08;20;プログラムレジスタ０
 Program register 0
@@ -6735,7 +6735,7 @@ Bad End
 ;dupe:50e0
 
 ;5148;22;邯鄲の夢−いづみクリア
-Izumi Cure Good End B - A Vain Dream
+Izumi Cure End B - A Vain Dream
 ;514c;14;ノーマルエンド
 Normal End
 
@@ -6760,12 +6760,12 @@ Izumi Bad End B
 ;dupe:50ec
 
 ;5184;26;優夏キュア〜無限なる想い〜
-Yuka Cure Good End A -Infinite Feelings-
+Yuka Cure End A -Infinite Feelings-
 ;5188;12;グッドエンド
 ;dupe:50e0
 
 ;5190;26;優夏キュア〜永遠なる想い〜
-Yuka Cure Good End B -Eternal Feelings-
+Yuka Cure End B -Eternal Feelings-
 ;5194;12;グッドエンド
 ;dupe:50e0
 
@@ -9241,7 +9241,7 @@ Kurumi Time Travel
 Izumi Time Travel
 
 ;98c8;10;優夏エンド
-Yuka Good End
+Yuka End
 
 ;98cc;16;優夏キュアエンド
 Yuka Cure End
@@ -9250,28 +9250,28 @@ Yuka Cure End
 Yuka End - After Izumi Cure
 
 ;98d4;8;遙エンド
-Haruka Good End
+Haruka End
 
 ;98d8;24;遙エンド・いづみクリア後
 Haruka End - After Izumi Cure
 
 ;98dc;10;沙紀エンド
-Saki Good End
+Saki End
 
 ;98e0;26;沙紀エンド・いづみクリア後
-Saki Good End - After Izumi Cure
+Saki End - After Izumi Cure
 
 ;98e4;12;くるみエンド
-Kurumi Good End
+Kurumi End
 
 ;98e8;28;くるみエンド・いづみクリア後
-Kurumi Good End - After Izumi Cure
+Kurumi End - After Izumi Cure
 
 ;98ec;12;いづみエンド
-Izumi Good End
+Izumi End
 
 ;98f0;18;いづみキュアエンド
-Izumi Cure Good End
+Izumi Cure End
 
 ;98f4;12;バッドエンド
 ;dupe:50ec

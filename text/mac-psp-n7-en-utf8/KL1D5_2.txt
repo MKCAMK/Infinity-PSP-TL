@@ -717,7 +717,7 @@ Makoto「?」%K%P
 Makoto「I can't.」%K%P
 0xF50
 くるみ「ええ〜っ！　この大不況の御時世に、折り紙のひとつもできないなんてぇ！」%K%P
-Kurumi「What!? There's someone in these times of recession that%Ncan't fold origami!? Impossible!」%K%P
+Kurumi「What!? There's someone in these times of recession%Nthat can't fold origami!? Impossible!」%K%P
 0xF5C
 不況と折り紙って関係あるのか？%K%P
 What the hell does origami have to do with a recession?%K%P
