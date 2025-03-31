@@ -1,0 +1,141 @@
+text area offset and size:
+0x478
+0x81E
+0x16C
+防波堤の上で、のんびりと釣り糸を垂らしていた。%K%P
+I'm on the pier, leisurely dangling my fishing line.%K%P
+0x178
+前と同じ様に、遙は、釣っては逃がし、釣っては逃がしを繰り返した。%K%P
+Like the last time, Haruka constantly repeats the cycle%Nof catching a fish, then letting it go.%K%P
+0x184
+嬉しそうに顔をほころばせながら、釣り糸の先を見つめる遙。%K%P
+She stares at her fishing line with a delighted%Nexpression on her face.%K%P
+0x190
+いつの間にか前の歴史よりも、遙の表情は豊かになっているような気がする。%K%P
+Now that I think about it, Haruka's expression feels like%Nit's become much more happier than it was in the last%Nhistory.%K%P
+0x19C
+（……何でだろう？）%K%P
+(... Why is that?)%K%P
+0x1A8
+そう言えば、前の２日、遙はこの防波堤で、沙紀と言い争いをしていた。%K%P
+The answer hits me; on the last 2nd, she had a quarrel%Nwith Saki at this pier.%K%P
+0x1B4
+あの一件がなかったから……それで遙は前よりも、落ち着いた気分でいられるのかもしれない。%K%P
+But this time, that never happened... so Haruka might not%Nbe depressed as she was last time.%K%P
+0x1C0
+いずれにせよ、嬉しそうにしている遙の姿は、オレの心を救ってくれた。%K%P
+At any rate, her cheerfulness is helping me relax.%K%P
+0x1CC
+昨夜からずっと『いづみさんの残した謎の言葉』が、ぐるぐるぐるぐると頭の中を駆け巡っていたが……。%K%P
+Ever since last night, my mind's been endlessly running%Naround in circles because of Izumi-san's words about%Nthe "remaining mysteries".%K%P
+0x1D8
+そのことさえも忘れさせてくれるほど、それは実に微笑ましい光景だった。%K%P
+But thanks to this truly pleasant scene, I've almost%Nforgotten about that.%K%P
+0x1E4
+………………………………。%K%P
+...%K%P
+0x1FC
+とは言え、いつまでもこんなふうに、のんびりとしているわけにはいかない。%K%P
+However, there's no way that I can keep thinking like that%Nand act so leisurely forever.%K%P
+0x208
+──早いとこ、いづみさんから真相を聞き出さなければ！%K%P
+―I need to get the truth from Izumi-san quickly!%K%P
+0x214
+タイミングを誤まると、また昨日のようなことにもなりかねない。%K%P
+If I screw up my timing, then things could turn out the way%Nthey did yesterday.%K%P
+0x220
+（今なら、くるみはみんなとテニスに行ってるはずだから、ルナビーチにはいづみさんしかいないだろう）%K%P
+(Right now, Kurumi and the others are playing tennis, so%NIzumi-san is probably alone at Lunabeach.)%K%P
+0x22C
+思い立ったオレは、隣の遙にこう告げた。%K%P
+I gather my resolve, and talk to Haruka.%K%P
+0x238
+誠「なあ、遙？　ちょっとオレ、用事があるんだよ」%K%P
+Makoto「Say, Haruka? I've got a little errand to take care of.」%K%P
+0x25C
+遙「用事？」%K%P
+Haruka「An errand?」%K%P
+0x268
+誠「ああ……どうしても、会わなきゃいけない約束があって……」%K%P
+Makoto「Yeah... I promised to meet up with someone today...」%K%P
+0x274
+遙「私まだ、釣りしたい」%K%P
+Haruka「I still want to fish.」%K%P
+0x280
+誠「うん。だから遙は、ここで待っててくれよ。すぐに戻って来るから」%K%P
+Makoto「Okay. Just wait right here. I'll be back soon.」%K%P
+0x28C
+遙「すぐって、どれくらい？」%K%P
+Haruka「How long is 'soon'?」%K%P
+0x298
+誠「２時間ぐらい、かな？」%K%P
+Makoto「About two hours, perhaps?」%K%P
+0x2A4
+遙「２時間って……『すぐ』じゃないと思う」%K%P
+Haruka「Two hours... I don't think you'd call that 'soon'.」%K%P
+0x2B0
+誠「まあ、確かに『すぐ』じゃないけど……」%K%P
+Makoto「Well, it certainly isn't 'soon', but...」%K%P
+0x2BC
+遙「いいよ……別に……」%K%P
+Haruka「It's fine... I don't mind...」%K%P
+0x2C8
+誠「ほんと、ごめんな？」%K%P
+Makoto「I'm really sorry about this.」%K%P
+0x2D4
+遙「あの人に、会いに行くんでしょ？」%K%P
+Haruka「You're going to meet with 'her', right?」%K%P
+0x2E0
+誠「……えっ？」%K%P
+Makoto「... Huh?」%K%P
+0x2EC
+遙「『先生』に……」%K%P
+Haruka「The 'Professor'...」%K%P
+0x2F8
+誠「ち、ちがうよ！　なに言ってんだよ、遙！」%K%P
+Makoto「Y-You're wrong! What are you saying, Haruka!?」%K%P
+0x304
+遙「大丈夫、誰にも言わないから」%K%P
+Haruka「It's all right, I won't tell anyone.」%K%P
+0x310
+誠「だから違うんだって！」%K%P
+Makoto「I'm telling you, you're wrong!」%K%P
+0x31C
+遙「うん……」%K%P
+Haruka「Right...」%K%P
+0x328
+誠「ほんとに違うんだぞ？」%K%P
+Makoto「Seriously, you're wrong.」%K%P
+0x334
+遙「うん……」%K%P
+Haruka「Right...」%K%P
+0x340
+誠「…………」%K%P
+Makoto「...」%K%P
+0x34C
+遙「…………」%K%P
+Haruka「...」%K%P
+0x358
+誠「とにかくオレ、行かなくちゃいけないから」%K%P
+Makoto「Anyway, I've gotta go now.」%K%P
+0x364
+遙「うん……」%K%P
+Haruka「Right...」%K%P
+0x370
+誠「また後でな？」%K%P
+Makoto「I'll see you later.」%K%P
+0x37C
+遙「うん……」%K%P
+Haruka「Right...」%K%P
+0x388
+誠「なあ、遙？　ほんとにわかってんのか？」%K%P
+Makoto「Say, Haruka? Do you really understand?」%K%P
+0x39C
+遙「うん、大丈夫」%K%P
+Haruka「Yes. It's all right.」%K%P
+0x3A8
+遙「私のくち、超合金よりも、かたいから」%K%P
+Haruka「My lips are sealed.」%K%P
+0x3B4
+誠「はぁ……やれやれ……」%K%P
+Makoto「Haah... oh brother...」%K%P

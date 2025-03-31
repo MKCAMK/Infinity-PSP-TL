@@ -29,7 +29,7 @@ Header = namedtuple('Header', [
   'blockSize', 'magic1', 'width', 'height', 'magic2'])
 headerStruct = Struct('<8sIIIIHBBBB')
 
-# Left and right borders of the glyph, in px. The count goes from the left for both values. 
+# Left and right borders of the glyph, in px. The count goes from the left for both values.
 # Glyphs count in FONT00 - 8192
 # GlyphMetadata = namedtuple('GlyphMetadata', ['l', 'r'])
 glyphMetadataStruct = Struct('<BB')
@@ -159,14 +159,14 @@ def writePngsPane(panePngPath: str, font: Font, glyphsCountPerRow: int, withBord
       # if not withBorders:
       #   texture[i].append(0x0)
       #   continue
-      
+
       if (i % gridH == gridH-1):
         texture[i].append(0x3)
       elif (j % gridW == gridW-1):
         texture[i].append(0x3)
       else:
         texture[i].append(0x0)
-  
+
   for i in range(h):
     row = i//gridH
     glyphH = i % gridH
@@ -268,7 +268,7 @@ def pngsToRawGlyphBlock(blockSize, pngPath0, pngPath1):
   if pngMaps[0][3]['bitdepth'] != 2 or pngMaps[1][3]['bitdepth'] != 2:
     print("Bitdepth must be 2! (files: {0} {1})".format(pngPath0, pngPath1))
     exit(1)
-  
+
   BPP = 2
   w = pngMaps[0][0]
   h = pngMaps[0][1]
@@ -311,11 +311,11 @@ def main():
     print('  autotrim [<FONT00.FNT>] - trims all spaces between letters by 1px on both sides')
     print('  repack <dir> - packs pngs and metadata in <dir> into a "%s" font file'%(REPACKEDPATH))
     exit(1)
-  
+
   print(sys.argv[0])
   cmd = sys.argv[1]
   srcpath = sys.argv[2] if len(sys.argv) > 2 else 'FONT00.FNT'
-  
+
   if (cmd == 'png' or cmd == 'pnghalf'):
     os.makedirs('glyphs/', 0o755, exist_ok=True)
     print('Extracting', srcpath, 'to PNGs')
@@ -354,7 +354,7 @@ def main():
     font = generateFont(srcpath)
     print('Writing to', REPACKEDPATH)
     packFont(font, REPACKEDPATH)
-  
+
 
 if __name__ == '__main__':
   main();

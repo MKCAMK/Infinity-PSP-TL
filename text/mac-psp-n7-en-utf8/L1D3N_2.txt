@@ -1,0 +1,2220 @@
+text area offset and size:
+0x41A0
+0x9463
+0x80
+墓地へと続く道は、ここから西の方角に%N伸びている（らしい）。%K
+The road to the graveyard appears to be west from%Nhere.%K
+0x8C
+（らしい）と言うのは、%Nその道が、道とは呼べぬ道だったからだ。%K%P
+Well, I say "road," but I doubt you could even call it that.%K%P
+0x98
+くるみにその存在を教えられるまで、そこは周りと同じ、ただの茂みだとばかり思っていた。%K%P
+Up until Kurumi told us of its existence, I thought it was%Njust a part of the thicket.%K%P
+0xA4
+そんな『道』の果てに、本当に墓地なんかあるのだろうか？%K%P
+Is there really something like a graveyard at the other%Nend of that thing?%K%P
+0xB0
+あるとすれば、そうとうにヤバい場所であることは確かだろう。%K%P
+If it really does exist, then it's almost certain that it%Ncould be a dangerous place.%K%P
+0xBC
+さっきまではあんなに威勢のよかった%Nみんなだったが、この期に及んで、%Nさすがにその表情には緊張の色が浮かんでいた。%K%P
+Everyone seemed so enthusiastic and excited about it%Nup until now, but that's all been replaced with nervous%Nanxiety.%K%P
+0x190
+しかしくるみだけは相変わらずやる気満々なようで、先頭に立って森の中に入って行ったのも、やはり彼女だった。%K%P
+Only Kurumi seems to be enthusiastic as she leads the%Ngroup into the forest.%K%P
+0x19C
+みんなは『おいてけぼりだけは勘弁』とばかりに、しがみつくようにしてくるみの後について行く。%K%P
+Everyone tails closely behind her, as if they were%Nscared of some unknown horror hiding in the bushes.%K%P
+0x1A8
+オレも、彼らに続いて、茂みの中へと片足を伸ばしたのだったが……%K%P
+Just as I'm about to enter the thicket...%K%P
+0x1BC
+くるみ「あっ！　ちょっとタンマ！」%K%P
+Kurumi「Ah! Hold on!」%K%P
+0x1C8
+……急に先頭のくるみがブレーキをかけた。%K%P
+... Suddenly, our fearless leader Kurumi halts.%K%P
+0x1D4
+危く将棋倒しになりそうだったが、すんでの所で踏みとどまる。%K%P
+It seems like everyone is about to fall one after the%Nother, but they manage to regain their balance.%K%P
+0x1F0
+優夏「も、%W%Wもう……いきなり立ち止まらないでよ、%Nくるみちゃん！」%K%P
+Yuka「G-Geez... what was that all about, Kurumi-chan!?」%K%P
+0x204
+くるみ「ごめんごめんっ……」%K%P
+Kurumi「Sorry, sorry...」%K%P
+0x210
+くるみ「あのね？　くるみ、ロッジに忘れ物してきちゃったみたい」%K%P
+Kurumi「You see, it seems like Kurumi forgot something at the%Nlodge.」%K%P
+0x224
+優夏「忘れ物？」%K%P
+Yuka「Forgot something?」%K%P
+0x230
+くるみ「うん。だからみんなは、先に行っててよ！」%K%P
+Kurumi「Yep. So go on ahead, guys!」%K%P
+0x244
+優夏「さ、先に、って言われても……%W%W誰が先頭に…%W%W立つのよ…？」%K%P
+Yuka「'G-Go on ahead'... you say that, but... Who will... lead us...?」%K%P
+0x250
+誠「じゃあ、オレが前に出ようか？」%K%P
+Makoto「I guess I can.」%K%P
+0x264
+くるみ「ダメッ！　お兄ちゃんは、くるみと一緒に忘れ物を取りに行くの！」%K%P
+Kurumi「No way! Onii-chan, you're going to go with Kurumi to get%Nwhat she forgot!」%K%P
+0x270
+何故か断定口調のくるみ……。%K%P
+It doesn't seem like she's going to let me have a say in%Nthis...%K%P
+0x28C
+くるみ「大丈夫だよ！%Nお兄ちゃん以外にも、ここに頼もし〜い人がいるじゃな〜いっ！？」%K%P
+Kurumi「It'll be fine. With the exception of Onii-chan, there's still%None person here reliable enough, right!?」%K%P
+0x298
+みんな「…………？」%K%P
+Everyone「...?」%K%P
+0x2A4
+くるみ「おっくん？　みんなを守ってあげてね？」%K%P
+Kurumi「Will you protect everyone, Okkun?」%K%P
+0x2B8
+億彦「ぼ、%W%Wぼ、%W%Wぼ、%W%W僕がぁ！？」%K%P
+Okuhiko「M-M-M-ME!?」%K%P
+0x2C4
+くるみ「男の子なんだから、当たり前でしょ？」%K%P
+Kurumi「You're a guy, so it's only natural, right?」%K%P
+0x2D8
+……………………。%K%P
+...%K%P
+0x2E4
+結局、ぶつぶつと文句を言いながらも、億彦は列の最前に立って森の中を進んで行った……。%K%P
+In the end, Okuhiko leads the group through the forest%Nas he loudly complains...%K%P
+0x350
+再び、ロッジの前に戻って来たオレとくるみ。%K%P
+Kurumi and I have returned to the lodge.%K%P
+0x35C
+何だかくるみの口元が『懸命に笑いをこらえている』といった感じにほころんで見えるのだが、%Nこれは……？%K%P
+Kurumi looks like she's trying to suppress a mischievous%Ngrin. What's she up to...?%K%P
+0x370
+誠「なあくるみ？　忘れ物っていったいっ」%K%P
+Makoto「Hey, Kurumi? What did you forget?」%K%P
+0x37C
+くるみ「うっそぴょーん♪」%K%P
+Kurumi「Kurumi lied♪」%K%P
+0x388
+誠「はぁ？」%K%P
+Makoto「Huh?」%K%P
+0x39C
+くるみ「忘れ物なんて、ウソだよ〜ん♪」%K%P
+Kurumi「Kurumi lied about forgetting something♪」%K%P
+0x3A8
+誠「じゃ、じゃあなんでわざわざ、戻って来たりしたんだよ？」%K%P
+Makoto「Th-Then why did you have us come back here?」%K%P
+0x3B4
+くるみ「ふっふっふっふっふっふっふっ……」%K%P
+Kurumi「Heh heh heh heh heh...」%K%P
+0x3C0
+誠「？」%K%P
+Makoto「?」%K%P
+0x3CC
+くるみ「なっはっはっはっはっはっはっ……」%K%P
+Kurumi「Nahahahahahaha...」%K%P
+0x3D8
+誠「ごめん。オレ先に行くな？」%K%P
+Makoto「That's it, I'm leaving.」%K%P
+0x3EC
+くるみ「ちょ〜っと待ったぁ〜！」%K%P
+Kurumi「Hold on!」%K%P
+0x3F8
+くるみがぐっとオレの腕をつかんで引き戻す。%K%P
+Kurumi firmly grabs my arm and pulls me back.%K%P
+0x40C
+くるみ「ではこれから、作戦の内容をお伝え致します」%K%P
+Kurumi「Now that we're alone, Kurumi will promptly brief you on the%Ndetails of our strategy.」%K%P
+0x418
+誠「作戦？」%K%P
+Makoto「Strategy?」%K%P
+0x42C
+くるみ「そう、作戦！」%K%P
+Kurumi「Right, strategy!」%K%P
+0x438
+くるみ「肝だめしには２種類の楽しみ方がある、っていうのは、知ってるよねぇ？」%K%P
+Kurumi「Did you know that there are two types of ways to enjoy%Na Test of Courage?」%K%P
+0x444
+誠「いいや、知らないけど？」%K%P
+Makoto「No, I didn't.」%K%P
+0x458
+くるみ「え？　知らないのぉ？」%K%P
+Kurumi「Huh? Really?」%K%P
+0x46C
+くるみ「１つ目は、思いっ切り怖がってみること」%K%P
+Kurumi「One: try to get scared to your heart's content.」%K%P
+0x478
+くるみ「２つ目は、思いっ切り怖がらせてあげること」%K%P
+Kurumi「Two: scare others to their heart's content.」%K%P
+0x484
+誠「なるほどねぇ」%K%P
+Makoto「Oh, I get it.」%K%P
+0x498
+くるみ「でね？　くるみはぁ、その後の方の楽しみを満喫したいなぁ、なんて思ってるんだけどぉ」%K%P
+Kurumi「Right? And you see, Kurumi was thinking she'd like to fully%Nenjoy it by trying the latter method.」%K%P
+0x4A4
+誠「つまりみんなをおどかしたい、と？」%K%P
+Makoto「You want to scare the others?」%K%P
+0x4B0
+くるみ「うん。だけどぉ、それをやるにはどうしても協力してくれる人が必要なわけでぇ」%K%P
+Kurumi「Bingo. But in order for the mission to work, Kurumi needs%Na partner in crime.」%K%P
+0x4BC
+誠「その役を……%W%W%Wオレに？」%K%P
+Makoto「And for that role, you picked... me?」%K%P
+0x4C8
+くるみ「そういうこと！」%K%P
+Kurumi「That's right!」%K%P
+0x4D4
+誠「う〜ん……」%K%P
+Makoto「Hmm...」%K%P
+0x4E8
+くるみ「それで、まずはその第１段階として、お兄ちゃんとくるみがペアにならなきゃいけないと思うの」%K%P
+Kurumi「Therefore, Kurumi has deducted that step one of the%Noperation is for you and her to become a pair.」%K%P
+0x4F4
+誠「ペア？」%K%P
+Makoto「A pair?」%K%P
+0x500
+くるみ「そっ。だって肝だめしって、たいがい２人組のペアになってやるのが普通でしょ？」%K%P
+Kurumi「Right! In Tests of Courage, it's a general rule of thumb for%Npeople to be paired up in groups of two, right?」%K%P
+0x50C
+誠「まあ、確かにそうだな」%K%P
+Makoto「Well, that's true.」%K%P
+0x518
+くるみ「だからぁ、向こうに着いたときに、くるみが『ペア分けのジャンケンをやろう！』って言ってみるから……」%K%P
+Kurumi「That's why, when the time comes, Kurumi will suggest,%N'Let's try dividing people into pairs through%NRock-Paper-Scissors!'...」%K%P
+0x52C
+くるみ「そしたらお兄ちゃんは、グーパーグーパー…の順で手を出してね？」%K%P
+Kurumi「If we do that and it's your turn for 'Rock, Paper,%NScissors'... use rock, okay?」%K%P
+0x538
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0x544
+くるみ「くるみも、その順番通りに出すから」%K%P
+Kurumi「Because Kurumi is also going to be using rock.」%K%P
+0x550
+誠「ああ、なるほど……。そうやって２人がずっと同じ手を出し続けていれば、どう転んでも、最終的にはオレとくるみがペアを組むことになるもんな？」%K%P
+Makoto「Ah, I see... By doing that, that means as long as we%Ncontinue using rock, no matter how many rounds we go%Nfor, you and I will eventually become a pair?」%K%P
+0x564
+くるみ「ね？　名案だと思わない？」%K%P
+Kurumi「Well? Don't you think it's a good idea?」%K%P
+0x570
+名案、って言うほど大それたもんでもないと思うが……。%K%P
+Calling it a good idea is a bit of a stretch, but it's pretty%Nsolid...%K%P
+0x57C
+誠「で、作戦の第２段階っていうのは、何なんだ？」%K%P
+Makoto「Well then, what's step two?」%K%P
+0x590
+くるみ「そ、%W%Wそれは……」%K%P
+Kurumi「W-Well...」%K%P
+0x5A4
+くるみ「それは、向こうに行ってから、考えるよ」%K%P
+Kurumi「Kurumi will have to wing it once we get there.」%K%P
+0x5B0
+誠「何だよ、行き当たりバッタリ作戦だったのか？」%K%P
+Makoto「Some plan... you've already hit a dead end.」%K%P
+0x5C4
+くるみ「だってぇ、行ってみなくちゃ、どんな小道具が落ちてるかなんて分からないもん」%K%P
+Kurumi「But we need to go, since Kurumi doesn't know what kind%Nof props are lying around.」%K%P
+0x5D0
+小道具、って……。%K%P
+"Props"...?%K%P
+0x5DC
+誠「まっ、いいや。分かった分かった。じゃあ、考えとくな？」%K%P
+Makoto「Well, whatever. I understand. So you'll think about it?」%K%P
+0x5F0
+くるみ「うん。すごい作戦、期待してるから♪」%K%P
+Kurumi「Yep. Expect an amazing plan♪」%K%P
+0x604
+そう言い残し、オレは再び茂みの中へと分け入った。%K%P
+Departing with those words, I once again force my way%Nthrough the thicket.%K%P
+0x610
+くるみ「ちょ、%W%Wちょっと待ってよぉ〜」%K%P
+Kurumi「W-Wait up〜」%K%P
+0x61C
+くるみが小走りに、オレの後をついて来る。%K%N
+Kurumi jogs right after me.%K%N
+0x628
+先を行くみんなの姿は、もうとっくに見えなくなっていた。%K%P
+Everyone else has gone so far ahead that we can no%Nlonger see them.%K%P
+0x68C
+くるみ「パンパカパーーン♪」%K%P
+Kurumi「Ta-da♪」%K%P
+0x698
+くるみ「それではここらへんでルールをご説明いたします」%K%P
+Kurumi「Well then, now that we're here, Kurumi will explain the rules.」%K%P
+0x6A4
+なぜかくるみだけ異常にテンションが高い。%K%N
+For some reason, Kurumi seems really impatient.%K%N
+0x6B0
+早くもやる気満々といった感じだ。%K%P
+It feels like she wants to just hurry up and begin.%K%P
+0x6BC
+くるみ「日本肝試し振興会発行の本年度版公式ルールブックによりますと……『肝試しとは、人が恐れるべき場所に行き度胸が有るかどうか試す競技』……となっていますがぁ……」%K%P
+Kurumi「According to the Japanese Test of Courage Awareness%NClub Official Rulebook, first edition... 'A Test of Courage is%Na trial held in a scary place to test one's courage.'」%K%P
+0x6C8
+くるみ「今回の人が恐れるべき場所は、墓地の奥にある古井戸になっておりまーーす♪」%K%P
+Kurumi「This time around, the 'scary place' has been decided to%Nbe an old well in the graveyard♪」%K%P
+0x6D4
+くるみ「そこでぇ、そこまで到達できたかどうかのジャッジを、日本肝試し振興会正式審判員のぉ、わたくし、くるみがつとめさせていただきまーーす」%K%P
+Kurumi「The judge who will see whether or not you make it there,%Nan official referee appointed by the Japanese Test of%NCourage Awareness Club, is none other than I, Kurumi!」%K%P
+0x6E0
+誠「おい、%W%W%Wおい、それじゃくるみは行かないというわけか？」%K%P
+Makoto「Hey, hey, then you're not participating, Kurumi?」%K%P
+0x6F4
+くるみ「そうじゃなくて最初から行ってて競技の結果を判定する係！」%K%P
+Kurumi「That's not true. From the start, she'll be judging the%Nresults of the match!」%K%P
+0x700
+誠「それは卑怯でしょ」%K%P
+Makoto「That's unfair, isn't it?」%K%P
+0x714
+くるみ「だってくるみはいつも行ってるから%N全然恐くないもーーん♪」%K%P
+Kurumi「But Kurumi always goes, so it's not scary at all for her♪」%K%P
+0x720
+誠「うーーん確かに」%K%P
+Makoto「Well, that's true.」%K%P
+0x72C
+くるみ「それに１人で向こうで待ってるほうが普通恐いよ」%K%P
+Kurumi「Besides, it'd be more scary for one of you guys to be%Nwaiting over there by yourself, you know?」%K%P
+0x748
+億彦「それもそうだね、じゃあくるみちゃんよろしくたのむよ」%K%P
+Okuhiko「That's also true. Well then, we'll leave it to you,%NKurumi-chan.」%K%P
+0x75C
+優夏「そうね」%K%P
+Yuka「All right.」%K%P
+0x778
+遙「……」%K%P
+Haruka「...」%K%P
+0x78C
+いづみ「もう、そうやって自分勝手なんだからぁ」%K%P
+Izumi「Geez, do you have to be so self-centered...?」%K%P
+0x878
+くるみ「それじゃあ、しゅっぱぁ〜つ♪」%K%P
+Kurumi「Well then, let's go〜♪」%K%P
+0x884
+しかしくるみだけ相変わらずやる気満々なようで、先頭に立って森の中に入って行ったのも、やはり彼女だった。%K%P
+Only Kurumi seems to be enthusiastic as she leads the%Ngroup into the forest.%K%P
+0x898
+みんなは『おいてけぼりだけは勘弁』とばかりに、しがみつくようにしてくるみの後について行く。%K%P
+Everyone tails closely behind her, as if they're begging%Nher not to leave them behind.%K%P
+0x8A4
+オレも、彼らに続いて、茂みの中へと片足を伸ばしたのだったが……%K%P
+Just as I'm about to step into the thicket...%K%P
+0x8B0
+？？「ね、%W%Wねぇ……%W%W誠……」%K%P
+??「H-Hey... Makoto...」%K%P
+0x8BC
+……後ろから、ふいに呼びかけられて振り向いた。%K%P
+... I turn around when someone behind me suddenly calls%Nme.%K%P
+0x8D0
+誠「優夏、か……。なんだぁ、先に行ったのかと思ってたけど……」%K%P
+Makoto「Yuka... Huh, I thought you were ahead of me...」%K%P
+0x8DC
+誠「ははぁ〜ん、さては怖じ気づいたな？」%K%P
+Makoto「Aha, lost your nerve?」%K%P
+0x8F0
+優夏「ま、%W%W%Wまっさかぁ〜、そんなわけ…%W%W%Wないでしょ…」%K%P
+Yuka「N-No way, there's no way... that's it...」%K%P
+0x8FC
+誠「じゃあ……%W%Wなんだよ？」%K%P
+Makoto「Well then... what is it?」%K%P
+0x910
+優夏「う、%W%Wうん……%W%W%Wあ、%W%Wあのね？」%K%P
+Yuka「R-Right... U-Umm?」%K%P
+0x91C
+誠「うん」%K%P
+Makoto「What?」%K%P
+0x928
+優夏「これから肝だめし……%W%W%Wやるよねぇ？」%K%P
+Yuka「So we're really going to do this... Test of Courage?」%K%P
+0x934
+誠「ああ」%K%P
+Makoto「Yeah.」%K%P
+0x940
+優夏「で…肝だめしっていうのは…たいがい%N２人組の…ペアになったり…するでしょ？」%K%P
+Yuka「And... in a Test of Courage... people usually get put into%Npairs... right?」%K%P
+0x94C
+誠「まあ、普通はそうだなぁ」%K%P
+Makoto「Well, that's how it's usually done.」%K%P
+0x958
+優夏「で、%W%Wでもね？　ちょっと思ったんだけどぉ……」%K%P
+Yuka「B-But you know what? I was thinking a bit...」%K%P
+0x964
+誠「？」%K%P
+Makoto「?」%K%P
+0x970
+優夏「私達って…全員で…６人いるよねぇ？」%K%P
+Yuka「There's... six of us... aren't there?」%K%P
+0x97C
+優夏「それで、くるみちゃんは審判だから実質５人じゃない？」%K%P
+Yuka「And since Kurumi-chan will be the judge, that means%Nthere's essentially five of us, right?」%K%P
+0x988
+優夏「５人ってことは…奇数ってことじゃない？」%K%P
+Yuka「Five people... that's an odd number, isn't it?」%K%P
+0x994
+誠「なあ優夏？　もったいつけてないで、早く結論を言えよ、結論を！」%K%P
+Makoto「Hey, Yuka? Stop stalling and get to the point!」%K%P
+0x9A0
+優夏「う、%W%Wうん……。だからね？　%N私……グーパーグーパー…の順で、%N手を出すから……」%K%P
+Yuka「R-Right... So you know? When it's... time for...%NRock-Paper-Scissors, I'll use rock...」%K%P
+0x9AC
+誠「はい？」%K%P
+Makoto「Huh?」%K%P
+0x9C0
+優夏「ま、%W%W誠も…%W%W%Wその順番で出してくれると…嬉しいなぁ…なんて…思ったり…してみたりして……」%K%P
+Yuka「Ma-Makoto, I thought... if you... used... rock... at that time%Nas well... it would be nice...」%K%P
+0x9CC
+誠「…………つまり、こういうことか？」%K%P
+Makoto「... So let's see if I'm thinking what you're thinking.」%K%P
+0x9D8
+誠「最初のペア分けジャンケンの時に、オレと優夏が同じ手を出し続けていれば、最終的に２・２・１で分かれた場合、最後の１人にならなくて済む、と？」%K%P
+Makoto「When we have to divide into pairs via%NRock-Paper-Scissors, we'll keep using rock. That way, in%Ncase we're divided into pairs of 2-2-1, you won't be the%None all alone, right?」%K%P
+0x9E4
+優夏「そう……%W%W%Wかも」%K%P
+Yuka「You... may be right.」%K%P
+0x9F0
+誠「かも、じゃなくて、そうなんだろ？」%K%P
+Makoto「It's not 'may be' right, it is right, isn't it?」%K%P
+0x9FC
+優夏「……う…%W%W%Wうん」%K%P
+Yuka「... Y... Yeah.」%K%P
+0xA08
+口ごもりながらも、優夏は静かにうなずいて見せた。%K%P
+Although she hesitates to say this, she gives me a quiet%Nnod.%K%P
+0xA14
+誠「なんだよ！　やっぱり怖いんじゃないかぁ！」%K%P
+Makoto「See! You really are scared, aren't you!?」%K%P
+0xA28
+優夏「こ、%W%W%Wこ、%W%W%Wこ、%W%W%Wこわくなんか、ないってばぁ！」%K%P
+Yuka「T-T-T-There's no way in hell I'm scared!」%K%P
+0xA34
+その言い方が、全てを物語っている……。%K%P
+Her tone says otherwise...%K%P
+0xA40
+誠「うん。分かった分かった。%Nじゃあ、考えとくな？」%K%P
+Makoto「Ok, I get it, I get it. Well, I'll think about it.」%K%P
+0xA54
+優夏「考えとく、って……%W%W%W結局どっちなのよぉ！？」%K%P
+Yuka「'Think about it'... are you going to or not!?」%K%P
+0xA60
+誠「さぁ……？」%K%P
+Makoto「Who knows...?」%K%P
+0xA6C
+誠「まっ、あけてみてからのお楽しみってことで」%K%P
+Makoto「Well, it sounds fun, so maybe I'll give it a try.」%K%P
+0xA80
+そう言い残し、オレは再び茂みの中へと踏み込んだ。%K%P
+Departing with those words, I once again step into the%Nthicket.%K%P
+0xA8C
+優夏「ちょ、ちょっと待ってよぉ〜」%K%P
+Yuka「W-Wait up〜」%K%P
+0xA98
+優夏が小走りに、オレの後をついて来る。%K%P
+Yuka jogs after me.%K%P
+0xAA4
+先を行くみんなの姿は、もうとっくに見えなくなっていた。%K%P
+Everyone else has gone so far ahead that we can no%Nlonger see them.%K%P
+0xAD4
+くるみ「それじゃあ、しゅっぱぁ〜つ♪」%K%P
+Kurumi「Well then, let's go♪」%K%P
+0xAE0
+くるみだけは相変わらずやる気満々なようで、%N先頭に立って森の中に入って行ったのも、%Nやはり彼女だった。%K%P
+Only Kurumi seems to be enthusiastic as she leads the%Ngroup into the forest.%K%P
+0xAEC
+みんなは『おいてけぼりだけは勘弁』とばかりに、しがみつくようにしてくるみの後について行く。%K%P
+Everyone tails closely behind her, as if they're begging%Nher not to leave them behind.%K%P
+0xAF8
+オレも、彼らに続いて、茂みの中へと片足を伸ばしたのだったが……%K%P
+Just as I'm about to step into the thicket...%K%P
+0xB04
+？？「ねぇ、誠くん……」%K%P
+??「Hey, Makoto-kun...」%K%P
+0xB10
+……後ろから、ふいに呼びかけられて振り向いた。%K%P
+... I turn around when someone behind me suddenly calls%Nmy name.%K%P
+0xB24
+誠「いづみさん……%W%W%Wどうしたの？」%K%P
+Makoto「Izumi-san... is something up?」%K%P
+0xB30
+いづみ「う、%W%W%Wうん……%W%W%Wあのね？」%K%P
+Izumi「Y-Yes... Umm?」%K%P
+0xB44
+いづみ「これから肝だめし、やるでしょ？」%K%P
+Izumi「So we're really going to do this Test of Courage, right?」%K%P
+0xB50
+誠「うん」%K%P
+Makoto「Yeah.」%K%P
+0xB5C
+いづみ「で、肝だめしっていうのは、たいがい２人組のペアになって、やったりするじゃない？」%K%P
+Izumi「And in a Test of Courage, people usually get put into%Npairs, right?」%K%P
+0xB68
+誠「まあ、普通はそうかもね」%K%P
+Makoto「Well, that's how it's usually done.」%K%P
+0xB74
+いづみ「でね？　%W%W%Wたぶん向こうに着いたら、ペア分けのジャンケンかなんかを、すると思うんだけど……」%K%P
+Izumi「Isn't it? And I think that when we get there, it's likely that%Nwe'll be divided into pairs via Rock-Paper-Scissors...」%K%P
+0xB80
+誠「ああ、同じ手になった人とペアになる、%Nって……アレね？」%K%P
+Makoto「Right, those who have the same hand become pairs...%Nisn't that right?」%K%P
+0xB8C
+いづみ「うん。そう……」%K%P
+Izumi「Yes, it is...」%K%P
+0xBA0
+いづみ「そこで……%W%W%Wものは相談なんだけど……」%K%P
+Izumi「Therefore... I wanted to discuss something with you.」%K%P
+0xBAC
+誠「？」%K%P
+Makoto「?」%K%P
+0xBB8
+いづみ「誠くん、グーパーグーパー…の順で手を出してくれないかなぁ？」%K%P
+Izumi「Makoto-kun, would you use rock during%NRock-Paper-Scissors?」%K%P
+0xBC4
+誠「は、はい！？」%K%P
+Makoto「Wh-What!?」%K%P
+0xBD0
+いづみ「私もその順番通りに出すから」%K%P
+Izumi「I'll also use rock like you.」%K%P
+0xBDC
+誠「え……？　%W%W%Wそれってつまり……」%K%P
+Makoto「Huh...? Wait, are you saying...」%K%P
+0xBE8
+つまり、２人がずっと同じ手を出し続けていれば、%Nどう転んでも、最終的にはオレといづみさんが%Nペアを組む、ということになるのだ。%K%P
+In other words, if we continue to use rock, me and%NIzumi-san will eventually become a pair.%K%P
+0xBF4
+いづみ「そう。そういうこと」%K%P
+Izumi「Yes, you seem to have realized it.」%K%P
+0xC00
+誠「…………」%K%P
+Makoto「...」%K%P
+0xC0C
+オレは答に途惑った。%K%P
+I'm at a loss for words.%K%P
+0xC18
+いづみさんの真意が分からなかったからだ。%K%P
+I don't know what Izumi-san's true intentions are.%K%P
+0xC24
+ただ単純に『男の子と組んだ方が怖くないから』というだけの意味なのか？%K%P
+Does she think she'll be safer if she's with a guy?%K%P
+0xC30
+それとも……。%K%P
+Or could it be...%K%P
+0xC3C
+それとも『オレとペアになりたい』という積極的なモーションなのか？%K%P
+That she's taking a proactive motion towards wanting to%Npair up with me?%K%P
+0xC50
+いづみ「ま、%W%Wまあ……%W%W%W嫌なら別に、いいんだけど……」%K%P
+Izumi「W-Well... if you don't want to, that's fine...」%K%P
+0xC5C
+誠「いや、そういうんじゃなくて……」%K%P
+Makoto「No, that's not it...」%K%P
+0xC68
+いづみ「とにかく私は、その順番で出すから」%K%P
+Izumi「Anyway, I'll be going with rock.」%K%P
+0xC7C
+いづみ「誠くん……%W%W%W考えといてね？」%K%P
+Izumi「Makoto-kun... will you think about it?」%K%P
+0xC90
+そう言い残し、いづみさんはみんなの後を追いかけて行った。%K%P
+Departing with those words, Izumi-san jogs after%Neveryone.%K%P
+0xC9C
+誠「考えといて、って言われてもなぁ……」%K%P
+Makoto「O-Okay...」%K%P
+0xCA8
+困惑の独り言。%K%P
+I mumble to myself, bewildered.%K%P
+0xCB4
+しかし実際は、オレ自身に対する照れ隠しだったのだけれど……。%K%P
+I feel my face grow hot as I try settle my nerves...%K%P
+0xCE4
+くるみ「それじゃあ、しゅっぱぁ〜つ♪」%K%P
+Kurumi「Well then, let's go♪」%K%P
+0xCF0
+くるみだけは相変わらずやる気満々なようで、先頭に立って森の中に入って行ったのも、やはり彼女だった。%K%P
+Only Kurumi seems to be enthusiastic as she leads the%Ngroup into the forest.%K%P
+0xCFC
+みんなは『おいてけぼりだけは勘弁』とばかりに、しがみつくようにしてくるみの後について行く。%K%P
+Everyone tails closely behind her, as if they're begging%Nher not to leave them behind.%K%P
+0xD08
+オレも、彼らに続いて、茂みの中へと片足を伸ばしたその時……%K%P
+Just as I'm about to step into the thicket...%K%P
+0xD14
+後ろからオレをつっつくやつがいたので振り返ってみるとそれは遙だった。%K%P
+Someone pokes me from behind. I turn around, and see%Nit's Haruka.%K%P
+0xD28
+遙「ねぇ、%W%W誠……」%K%P
+Haruka「Hey, Makoto...」%K%P
+0xD34
+遙「私、ずーーとパー出すから……」%K%P
+Haruka「I'll always go with paper...」%K%P
+0xD40
+誠「へっ？」%K%P
+Makoto「Huh?」%K%P
+0xD4C
+遙「パーしか出さないから……」%K%P
+Haruka「I won't use anything but paper...」%K%P
+0xD58
+なんのことを言っているのかよくわからなかったが適当に相づちを打っておいた。%K%P
+I don't really get what she's trying to say, but I give her%Na nod as a safe, suitable response.%K%P
+0xE08
+墓場は青い闇だった。苔むした墓石は半分倒れかかっていたり、あるいは完全に倒壊して地べたに転がっていたりしている。%K%P
+The graveyard is dimly lit by the pale moon. Half of the%Nmoss-covered tombstones are either half-fallen or%Ncompletely fallen to the ground.%K%P
+0xE14
+この連日の好天にもかかわらず、辺りは独特のひんやりとした湿気に満ちていた。%K%P
+The air is cool and damp, in spite of the relatively warm%Nweather we've had over the past few days.%K%P
+0xE28
+くるみ「あのね？　ここに眠ってるのは、ぜ〜んぶ無縁仏なんだって！」%K%P
+Kurumi「Did you know? Everyone buried here is a 'muenbotoke',%Nsomeone who died without family or friends to bury them!」%K%P
+0xE34
+優夏「無縁……%W%W仏？」%K%P
+Yuka「Muen... botoke?」%K%P
+0xE40
+くるみ「うん。例えばぁ、浜にあがった身元不明の水死体とかぁ、森の中で首をくくった身寄りのない老人とかぁ……」%K%P
+Kurumi「Right. For example, unidentified drowned corpses that%Nwash up on the beach, old-timers with no relatives who%Nhang themselves in the forest...」%K%P
+0xE4C
+くるみ「生きながらにして深い穴の底に放り込まれた無実の罪人とかぁ……%W%W%Wあとはねぇ……」%K%P
+Kurumi「Innocent 'criminals' thrown to the bottom of deep holes%Nwhile still alive... Let's see, what else...」%K%P
+0xE58
+優夏「あ、%W%Wありがとう、くるみちゃん……%W%Wもう…%W%W十分よ……」%K%P
+Yuka「Th-Thanks, Kurumi-chan... That's... enough...」%K%P
+0xE6C
+『身元不明の水死体』と聞いたとたん、みんなはいつの間にか、それぞれの距離を半歩ずつ縮めていた。%K%P
+The instant we hear, "unidentified drowned corpses", we%Nall instinctively take a half step backwards.%K%P
+0xE88
+くるみ「じゃ〜あ、早くやろっ？　肝だめし♪」%K%P
+Kurumi「Well then, let's get this show on the road♪」%K%P
+0xE94
+あっけらかんとしたくるみの言葉に、返事をかえす者はいない。%K%P
+None of us answer Kurumi, who seems indifferent to our%Nplight.%K%P
+0xEA0
+みんなはチラチラとお互いに目配せをして、何かを訴えているようだった。%K%P
+Everyone exchanges worried glances with each other.%K%P
+0xEAC
+つまり……『やっぱりヤメにしない？』と……。%K%P
+"Is it too late to turn back now?" ... is a question we all%Nseem to be asking ourselves.%K%P
+0xEC0
+くるみ「もう、みんな怖がりだなぁ。大丈夫だよぉ……」%K%P
+Kurumi「Geez, everyone's so scared. It's all right...」%K%P
+0xECC
+くるみ「万が一、取り憑かれたとしても、くるみが有名な霊媒師を紹介してあげるからっ！」%K%P
+Kurumi「Even if, by any chance, you happen to get possessed%Nby a ghost, Kurumi will refer you to a famous spirit medium!」%K%P
+0xED8
+安心させるフリをしながらも、くるみは更に恐怖をあおった。%K%P
+Kurumi's "reassurance" only scares us further, clearly%Nher intent.%K%P
+0xF10
+くるみ「それじゃあ早速、ペア分けのジャンケン、だね？」%K%P
+Kurumi「Well then, let's get right to dividing the pairs through%NRock-Paper-Scissors, okay?」%K%P
+0xF1C
+くるみ「同じ手を出した人が２人いたら、それでペアが成立ね？」%K%P
+Kurumi「If two people have the same hand, those two will become%Na pair.」%K%P
+0xF28
+くるみ「でぇ、３人とか４人とか５人とか同じ手の人がいたら、その人達だけで、またジャンケンするの」%K%P
+Kurumi「But if there are three, four, or five people with the same%Nhand, they have to go through another round.」%K%P
+0xF34
+くるみ「分かった？」%K%P
+Kurumi「Got it?」%K%P
+0xF40
+完全にくるみのペースに呑まれたみんな……。%K%P
+Everything's completely going at Kurumi's pace...%K%P
+0xF4C
+もはや、さすがに『ＮＯ』とは言い出しづらい状況だった。%K%P
+This is no longer a situation we can just back out of%Nanymore.%K%P
+0xF58
+誠「しょうがねぇなぁ、それじゃいくぞ」%K%P
+Makoto「Can't be helped. Well then, let's go.」%K%P
+0xFD4
+とその瞬間、オレと優夏の目が合った。%K%P
+At that instant, Yuka and I make eye contact.%K%P
+0xFE8
+くるみ「せーのっ、%W%W%Wジャーンケーン……」%K
+Kurumi「Ready, Set! Rock, Paper, Scissors...」%K
+0x40A0
+グーを出す
+Rock!
+0x40AC
+チョキを出す
+Scissors!
+0x40B8
+パーを出す
+Paper!
+0x1048
+誠「……ポン！」%K%P
+Makoto「... Go!」%K%P
+0x1054
+みんなが一斉に手を出した。%K%P
+Everyone releases their hands simultaneously.%K%P
+0x1060
+オレがグー、遙がチョキ、いづみさんもチョキ、億彦も同じくチョキで……%K%N
+I have rock, Haruka has scissors, Izumi-san has%Nscissors, Okuhiko also has scissors...%K%N
+0x106C
+……さっきの打ち合わせ通り、優夏はやはりグーを出した。%K%P
+... And just as she had planned earlier, Yuka has rock.%K%P
+0x1078
+くるみ「あ……これでいちおう『お兄ちゃんと優夏さん』は決まったね？」%K%P
+Kurumi「Ah... For now, one pair has been decided, Onii-chan and%NYuka-san.」%K%P
+0x108C
+優夏はオレの方を見ながら『ありがと』と声に出さずにつぶやいた。%K%P
+Yuka looks towards me and mouths a silent "thanks."%K%P
+0x1098
+くるみ「ほんじゃあ今度は、遙さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
+0x10AC
+誠「……ポン！」%K%P
+Makoto「... Go!」%K%P
+0x10B8
+みんなが一斉に手を出した。%K%N
+Everyone releases their hands simultaneously.%K%N
+0x10C4
+律義にも、優夏はさっきの言葉通り、突き出した拳を握りしめている。%K%P
+True to her word, Yuka releases a tight fist- rock.%K%P
+0x10D8
+チョキを出したオレに向かって『なんでよぉ！！』と声に出さずに非難した。%K%P
+When I release scissors, Yuka mouths a silent "What the%Nhell!?".%K%P
+0x10E4
+そんな優夏の冷たい視線を、オレはさらりとかわしながら、他のメンバーの手を確認してみる。%K%P
+I immediately avoid her cold glare while checking the%Nothers' hands.%K%P
+0x1148
+遙がグー、億彦も同じくグーで……%K%N
+Haruka has rock, and Okuhiko also has rock...%K%N
+0x115C
+オレと同じチョキを出したのは、いづみさん%Nだった。%K%P
+And like me, Izumi-san also has scissors.%K%P
+0x1168
+くるみ「ほんじゃあ今度は、おっくんと優夏さんと遙さんで、グーパーだよ？」%K%P
+Kurumi「Well then, it's time for another round where Okkun,%NYuka-san, and Haruka-san can only use rock or paper,%Nokay?」%K%P
+0x118C
+いづみさんがグー、億彦も同じくグーで……%K%N
+Izumi-san has rock, Okuhiko also has rock...%K%N
+0x11A0
+オレと同じチョキを出したのは、遙だった。%K%P
+And like me, Haruka also has scissors.%K%P
+0x11AC
+くるみ「ほんじゃあ今度は、優夏さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
+Kurumi「Well then, this time around, Yuka-san, Okkun, and%NOnee-chan can only use rock or paper, okay?」%K%P
+0x11C0
+誠「……ポン！」%K%P
+Makoto「... Go!」%K%P
+0x11CC
+みんなが一斉に手を出した。%K%N
+Everyone releases their hands simultaneously.%K%N
+0x11D8
+律義にも、優夏はさっきの言葉通り、突き出した拳を握りしめている。%K%P
+True to her word, Yuka releases a tight fist- rock.%K%P
+0x11EC
+パーを出したオレに向かって『なんでよぉ！！』と声に出さずに非難した。%K%P
+When I release paper, Yuka mouths a silent "What the%Nhell!?".%K%P
+0x11F8
+そんな優夏の冷たい視線を、オレはさらりとかわしながら、他のメンバーの手を確認してみる。%K%P
+I immediately avoid her cold glare while checking the%Nothers' hands.%K%P
+0x125C
+遙がグー、億彦も同じくグーで……%K%N
+Haruka has rock, and Okuhiko also has rock...%K%N
+0x1270
+オレと同じパーを出したのは、いづみさんだった。%K%P
+And like me, Izumi-san also has paper.%K%P
+0x127C
+くるみ「ほんじゃあ今度は、おっくんと優夏さんと遙さんで、グーパーだよ？」%K%P
+Kurumi「Well then, it's time for another round where Okkun,%NYuka-san, and Haruka-san can only use rock or paper,%Nokay?」%K%P
+0x12A0
+いづみさんはグー、億彦も同じくグーで……%K%N
+Izumi-san has rock, and Okuhiko also rock...%K%N
+0x12B4
+オレと同じパーを出したのは、遙だった。%K%P
+And like me, Haruka also has paper.%K%P
+0x12C0
+くるみ「ほんじゃあ今度は、優夏さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
+Kurumi「Well then, this time around, Yuka-san, Okkun, and%NOnee-chan can only use rock or paper, okay?」%K%P
+0x12EC
+とその瞬間、オレとくるみの目が合った。%K%P
+At that instant, Kurumi and I make eye contact.%K%P
+0x12F8
+オレはさっきの打ち合わせ通りグーを出すことにした。%K%P
+Just as we had planned earlier, we prepare to release%Nrock.%K%P
+0x1304
+くるみ「せーのっ、ジャーンケーン……」%K%P
+Kurumi「Ready, Set! Rock, Paper, Scissors...」%K%P
+0x1310
+くるみ「……ポン！」%K%P
+Kurumi「... Go!」%K%P
+0x131C
+みんなが一斉に手を出した。%K%P
+Everyone releases their hands simultaneously.%K%P
+0x1328
+オレがグー、遙がチョキ、優夏もチョキ、いづみさんはパー、億彦も同じくパーで……%K%N
+I have rock, Haruka has scissors, Yuka also has%Nscissors, Izumi-san has paper, and Okuhiko also has%Npaper...%K%N
+0x133C
+……くるみはやはりグーを出した。%K%P
+... As expected, Kurumi has rock.%K%P
+0x1348
+くるみ「あ……これでいちおう『遙さんと優夏さん』『お兄ちゃんとくるみ』『お姉ちゃんとおっくん』だね？」%K%P
+Kurumi「Ah... For now, the pairs are Haruka-san and Yuka-san,%NOnii-chan and Kurumi, and Onee-chan and Okkun.」%K%P
+0x135C
+くるみはオレの方を見ながら『ありがと』と声に出さずにつぶやいた。%K%P
+Kurumi looks towards me and mouths a silent "thanks."%K%P
+0x1378
+優夏「頑張ろうね、遙！」%K%P
+Yuka「Let's do our best, Haruka!」%K%P
+0x1384
+遙「う、うん……」%K%P
+Haruka「Y-Yes...」%K%P
+0x13B8
+とその瞬間、オレといづみさんの目が合った。%K%P
+And in that instant, me and Izumi-san make eye contact.%K%P
+0x13CC
+くるみ「せーのっ、ジャーンケーン……」%K
+Kurumi「Ready, Set! Rock, Paper, Scissors...」%K
+0x40C4
+グーを出す
+Rock!
+0x40D0
+チョキを出す
+Scissors!
+0x40DC
+パーを出す
+Paper!
+0x142C
+誠「……ポン！」%K%P
+Makoto「... Go!」%K%P
+0x1438
+みんなが一斉に手を出した。%K%P
+Everyone releases their hands simultaneously.%K%P
+0x1444
+オレがグー、遙はパー、優夏もパー、%N億彦も同じくパーで……%K%N
+I have rock, Haruka has paper, Yuka has paper, and%NOkuhiko also has paper...%K%N
+0x1458
+……さっきの打ち合わせ通り、いづみさんはやはりグーを出した。%K%P
+... Just as she had planned earlier, Izumi-san releases%Nrock.%K%P
+0x1464
+くるみ「あ……%W%W%Wこれでいちおう『お姉ちゃんとお兄ちゃん』は決まったね？」%K%P
+Kurumi「Ah... For now, one pair has been decided, Onee-chan and%NOnii-chan.」%K%P
+0x1478
+いづみさんはオレの方を見ながら『ありがと』と声に出さずにつぶやいた。%K%P
+Izumi-san looks towards me and mouths a silent "thank%Nyou."%K%P
+0x1484
+くるみ「ほんじゃあ今度は、おっくんと優夏さんと%N遙さんで、グーパーだよ？」%K%P
+Kurumi「Well then, it's time for another round for Okkun, Yuka-san,%Nand Haruka-san.」%K%P
+0x1498
+誠「……ポン！」%K%P
+Makoto「... Go!」%K%P
+0x14A4
+みんなが一斉に手を出した。%K%N
+Everyone releases their hands simultaneously.%K%N
+0x14B0
+律義にも、いづみさんはさっきの言葉通り、突き出した掌を握りしめている。%K%P
+True to her word, Izumi-san releases a tight fist for rock.%K%P
+0x14C4
+チョキを出したオレに向かって、ちょっと淋しげな視線を投げかけていた。%K%P
+When I release scissors, Izumi-san throws me a slightly%Ndisheartened look.%K%P
+0x14D0
+（何だか、悪いことしちゃったかな……）%K%P
+(I feel kinda bad for turning her down...)%K%P
+0x14DC
+オレはかすかな罪悪感を抱きながらも、彼女の視線を避けるようにかわし、他のメンバーの手を確認してみた。%K%P
+Although I feel a little guilty, I avoid her gaze and check%Nthe others' hands.%K%P
+0x1510
+遙がグー、億彦も同じくグーで……%K%N
+Haruka has rock, and Okuhiko also has rock...%K%N
+0x1524
+オレと同じチョキを出したのは、優夏だった。%K%P
+And like me, Yuka has scissors.%K%P
+0x1530
+くるみ「ほんじゃあ今度は、遙さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
+0x1554
+優夏がグー、億彦も同じくグーで……%K%N
+Yuka has rock, and Okuhiko also has rock...%K%N
+0x1568
+オレと同じチョキを出したのは、遙だった。%K%P
+And like me, Haruka also has scissors.%K%P
+0x1574
+くるみ「ほんじゃあ今度は、優夏さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
+Kurumi「Well then, this time around, Yuka-san, Okkun, and%NOnee-chan can only use rock or paper, okay?」%K%P
+0x1588
+誠「……ポン！」%K%P
+Makoto「... Go!」%K%P
+0x1594
+みんなが一斉に手を出した。%K%N
+Everyone releases their hands simultaneously.%K%N
+0x15A0
+律義にも、いづみさんはさっきの言葉通り、突き出した掌を握りしめている。%K%P
+True to her word, Izumi-san releases a tight fist for rock.%K%P
+0x15B4
+パーを出したオレに向かって、ちょっと淋しげな視線を投げかけていた。%K%P
+When I release scissors, Izumi-san throws me a slightly%Ndisheartened look.%K%P
+0x15C0
+（何だか、悪いことしちゃったかな……）%K%P
+(I feel kinda bad for turning her down...)%K%P
+0x15CC
+オレはかすかな罪悪感を抱きながらも、彼女の視線を避けるようにかわし、他のメンバーの手を確認してみた。%K%P
+Although I feel a little guilty, I avoid her glance and check%Nthe others' hands.%K%P
+0x1600
+遙がグー、億彦も同じくグーで……%K%N
+Haruka has rock, and Okuhiko also has rock...%K%N
+0x1614
+オレと同じパーを出したのは、優夏だった。%K%P
+And like me, Yuka has paper.%K%P
+0x1620
+くるみ「ほんじゃあ今度は、遙さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
+0x1644
+優夏はグー、億彦も同じくグーで……%K%N
+Yuka has rock, Okuhiko has rock...%K%N
+0x1658
+オレと同じパーを出したのは、遙だった。%K%P
+And like me, Haruka also has paper.%K%P
+0x1664
+くるみ「ほんじゃあ今度は、優夏さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
+Kurumi「Well then, this time around, Yuka-san, Okkun, and%NOnee-chan can only use rock or paper, okay?」%K%P
+0x1680
+とその瞬間、オレと遙の目が合った。%K%P
+In that instant, Haruka and I make eye contact.%K%P
+0x1694
+くるみ「せーのっ、%W%W%Wジャーンケーン……」%K
+Kurumi「Ready, Set! Rock, Paper, Scissors...」%K
+0x40E8
+グーを出す
+Rock!
+0x40F4
+チョキを出す
+Scissors!
+0x4100
+パーを出す
+Paper!
+0x16E4
+くるみ「……ポン！」%K%P
+Kurumi「... Go!」%K%P
+0x16F0
+みんなが一斉に手を出した。%K%N
+Everyone releases their hands simultaneously.%K%N
+0x16FC
+律義にも、遙はさっきの言葉通り、突き出した掌を広げている。%K%P
+True to her word, Haruka releases her stretched out%Npalm for paper.%K%P
+0x1710
+グーを出したオレに向かって、ちょっと淋しげな視線を投げかけていた。%K%P
+When I release rock, Haruka throws a slightly lonely%Nglance at me.%K%P
+0x171C
+（何だか、悪いことしちゃったかな……）%K%P
+(I feel kinda bad for turning her down...)%K%P
+0x1728
+オレはかすかな罪悪感を抱きながらも、彼女の視線を避けるようにかわし、他のメンバーの手を確認してみた。%K%P
+Although I feel a little guilty, I avoid her glance and check%Nthe others' hands.%K%P
+0x1784
+優夏はパー、億彦も同じくパーで……%K%N
+Yuka has paper, and Okuhiko also has paper...%K%N
+0x17A0
+オレと同じグーを出したのは、いづみさんだった。%K%P
+And like me, Izumi-san has rock.%K%P
+0x17AC
+くるみ「ほんじゃあ今度は、おっくんと優夏さんと遙さんで、グーパーだよ？」%K%P
+Kurumi「Well then, it's time for another round where Okkun,%NYuka-san, and Haruka-san can only use rock or paper,%Nokay?」%K%P
+0x17D8
+いづみさんはパー、億彦も同じくパーで……%K%N
+Izumi-san has paper, and Okuhiko also has paper...%K%N
+0x17EC
+オレと同じグーを出したのは、優夏だった。%K%P
+And like me, Yuka has rock.%K%P
+0x17F8
+くるみ「ほんじゃあ今度は、遙さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
+0x1814
+くるみ「……ポン！」%K%P
+Kurumi「... Go!」%K%P
+0x1820
+みんなが一斉に手を出した。%K%N
+Everyone releases their hands simultaneously.%K%N
+0x182C
+律義にも、遙はさっきの言葉通り、突き出した掌を広げている。%K%P
+True to her word, Haruka releases her stretched out%Npalm for paper.%K%P
+0x1840
+チョキを出したオレに向かって、ちょっと淋しげな視線を投げかけていた。%K%P
+When I release scissors, Haruka throws a slightly lonely%Nglance at me.%K%P
+0x184C
+（何だか、悪いことしちゃったかな……）%K%P
+(I feel kinda bad for turning her down...)%K%P
+0x1858
+オレはかすかな罪悪感を抱きながらも、彼女の視線を避けるようにかわし、他のメンバーの手を確認してみた。%K%P
+Although I feel a little guilty, I avoid her glance and check%Nthe others' hands.%K%P
+0x18BC
+優夏はグー、億彦も同じくグーで……%K%N
+Yuka has rock, Okuhiko has rock...%K%N
+0x18D0
+オレと同じチョキを出したのは、いづみさんだった。%K%P
+And like me, Izumi-san also has scissors.%K%P
+0x18DC
+くるみ「ほんじゃあ今度は、おっくんと優夏さんと遙さんで、グーパーだよ？」%K%P
+Kurumi「Well then, it's time for another round where Okkun,%NYuka-san, and Haruka-san can only use rock or paper,%Nokay?」%K%P
+0x1908
+いづみさんはパー、億彦も同じくパーで……%K%N
+Izumi-san has paper, and Okuhiko also has paper...%K%N
+0x191C
+オレと同じチョキを出したのは、優夏だった。%K%P
+And like me, Yuka has scissors.%K%P
+0x1928
+くるみ「ほんじゃあ今度は、遙さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
+0x1954
+誠「……ポン！」%K%P
+Makoto「... Go!」%K%P
+0x1960
+みんなが一斉に手を出した。%K%P
+Everyone releases their hands simultaneously.%K%P
+0x196C
+オレがパー、優夏がグー、いづみさんもグー、%N億彦も同じくグーで……%K%N
+I have paper, Yuka has rock, Izumi-san has rock, and%NOkuhiko also has rock...%K%N
+0x1980
+……さっきの打ち合わせ通り、遙はやはりパーを出した。%K%P
+... Just as she had planned earlier, Haruka releases%Npaper.%K%P
+0x198C
+くるみ「あ……%W%W%Wこれでいちおう『遙さんとお兄ちゃん』は決まったね？」%K%P
+Kurumi「Ah... For now, one pair has been decided, Haruka-san%Nand Onii-chan.」%K%P
+0x19A0
+遙はオレの方を見ながら『ありがとう』と声に出さずにつぶやいた。%K%P
+Haruka looks towards me and mouths a silent, "thank%Nyou."%K%P
+0x19AC
+くるみ「ほんじゃあ今度は、優夏さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
+Kurumi「Well then, this time around, Yuka-san, Okkun, and%NOnee-chan can only use rock or paper, okay?」%K%P
+0x19F4
+億彦「え？　どうしてだい？　%N僕らは３人ひと組でっ」%K%P
+Okuhiko「Huh? Why's that? Can't we just form a group of three?」%K%P
+0x1A2C
+くるみ「ブブーッ！　ダメだぴょ〜ん！」%K%P
+Kurumi「Bzzt Bzzt! Wrongamundo!」%K%P
+0x1A38
+くるみ「日本肝試し振興会発行の本年度版公式ルールブックによると……『肝だめし中は、常に１人もしくは２人で行動すべし』%N……となってるんだもんね」%K%P
+Kurumi「According to the Japanese Test of Courage Awareness%NClub Rulebook, this year's Edition... 'During a Test of%NCourage, there may only be groups of one or two'...%Nthat's how it is.」%K%P
+0x1A4C
+億彦「そ、そんなものっ」%K%P
+Okuhiko「Y-You've gotta be kidding me...」%K%P
+0x1A58
+くるみ「せーのっ、%W%W%Wジャーンケーン……」%K%P
+Kurumi「Ready, Set! Rock, Paper, Scissors...」%K%P
+0x1A6C
+億彦「ホイ……」%K%P
+Okuhiko「Go...」%K%P
+0x1A80
+億彦「…………%W%Wって、何つられて出してるんだよ、%N僕はぁぁぁ！」%K%P
+Okuhiko「... Dammit, why did I pick that one!?」%K%P
+0x1A8C
+３人の輪の中をひょいと覗き込むと、億彦はグーで、他の２人は共にパーを出していた。%K%P
+When I quickly peep into the ring of three hands, I see%Nthat while Okuhiko picked rock, the other two picked%Npaper.%K%P
+0x1AA0
+くるみ「というわけで、ペアも決まったことだし、%N次に今回のルールについて説明しま〜す♪」%K%P
+Kurumi「So in conclusion, we have our pairs. Kurumi will now%Nexplain the rest of the rules♪」%K%P
+0x1AAC
+億彦は意気消沈し、近くにあった墓石の上にヘナヘナと座り込んでしまった……。%K%P
+Okuhiko dejectedly sits down on a nearby tombstone...%K%P
+0x1B40
+優夏は『ひとりにならなくて済んだ』ということに安堵したのだろう。%N『ふーっ』と大きく息をついていた……。%K%P
+Yuka seems to be relieved, as if she's saying "I'm so%Nglad I'm not alone." She takes a deep breath, and sighs...%K%P
+0x1B54
+優夏は『ひとりにならなくて済んだ』ということに安堵したのだろう。%N『ふーっ』と大きく息をついていた……。%K%P
+Yuka seems to be relieved, as if she's saying "I'm so%Nglad I'm not alone." She takes a deep breath, and sighs...%K%P
+0x1B68
+優夏は『ひとりにならなくて済んだ』ということに安堵したのだろう。%N『ふーっ』と大きく息をついていた……。%K%P
+Yuka seems to be relieved, as if she's saying "I'm so%Nglad I'm not alone." She takes a deep breath, and sighs...%K%P
+0x1BD4
+くるみの言ったルールとはこうだった。%K%P
+Kurumi lays out the rules.%K%P
+0x1BE0
+『この墓地のどこかに古い井戸があるので、それを２人で協力して探し出すこと』%K%P
+"There's an old well somewhere in this graveyard. Two of%Nyou will team up to look for it."%K%P
+0x1BEC
+『発見したら、その証拠として、井戸の壁に小石か何かで自分達のサインを刻む』%K%P
+"If you find it, sign your names on the wall of the well with%Na pebble as proof."%K%P
+0x1BF8
+『それが出来たら、スタート地点に戻って良い』%K%P
+"If you can do that, you can return to the start point."%K%P
+0x1C04
+オレ達のペアは、代表者、つまりオレがジャンケンをして、一番最初に出発することとなった。%K%P
+It was decided that we should play%NRock-Paper-Scissors to pick a representative to%Nchoose which pair goes first.%K%P
+0x1C10
+次のペアは、オレ達が出てから１０分後にスタートすると言う。%K%P
+They would also decide when the next pair will leave ten%Nminutes after the first.%K%P
+0x1C1C
+ちなみに、オレはジャンケンには勝っていた。%K%P
+Incidentally, I won the match.%K%P
+0x1C28
+好きな順番を選んで良い、とのことだったので、待ち時間の最も少ないトップバッターをオレは迷わず選んだのだ。%K%P
+When I heard that I could pick whatever order I liked, I%Nimmediately picked to go first, since I wanted to get this%Nover with.%K%P
+0x1C34
+とは言え、オレにとっては、最初だろうが、%N最後だろうが、別にどっちでもよかったのだ%Nけれど……。%K%P
+Though I guess now that I think about it, it doesn't really%Nmatter if I go first or last...%K%P
+0x1CF0
+しかし優夏にとっては、それは最重要課題だったらしく……%K%P
+Yuka, on the other hand, thinks otherwise...%K%P
+0x1CFC
+優夏「よりによってなんで最初なんか選ぶのよぉ！」%K%P
+Yuka「What possessed you to make us go first!?」%K%P
+0x1D08
+……冗談ではなく、かなり本気で激怒していた。%K%P
+... She's not joking, she's seriously angry.%K%P
+0x1D14
+誠「じゃあ、最後の方がよかったのか？」%K%P
+Makoto「Well then, would you have preferred to go last?」%K%P
+0x1D28
+優夏「最後なんて問題外！　普通こういうときは、%N真ん中を選ぶのがセオリーでしょ！？」%K%P
+Yuka「That's out of the question! Normally, you'd pick to go in%Nthe middle, right!?」%K%P
+0x1D4C
+優夏「はぁ……誠と組もうなんて思った私がバカだったよぉ……」%K%P
+Yuka「Haah... I was an idiot to team up with you, Makoto...」%K%P
+0x1D58
+誠「おいおい、少しは感謝しろよな？」%K%P
+Makoto「Hey, hey, how about a little gratitude?」%K%P
+0x1D64
+誠「オレがもしもパー出してたら、優夏は確実に、ひとりでこの墓地の中をさまようことになってたんだぞ？」%K%P
+Makoto「If I had picked paper, you would have ended up%Nwandering around this graveyard all alone, wouldn't you?」%K%P
+0x1D70
+優夏「先頭に立つぐらいなら、ひとりで真ん中歩いてた方が全然マシだよ……」%K%P
+Yuka「If I were picking, I'd prefer to be alone and in the middle...」%K%P
+0x1D7C
+誠「……ったく……よく言うよな」%K%P
+Makoto「... Geez... Listen to yourself.」%K%P
+0x1D90
+誠「あれ？　ひょっとして……怖いんですか？」%K%P
+Makoto「Huh? Are you... are you scared?」%K%P
+0x1DA4
+優夏「こ、こ、こ、こわいわけ、な、ないでしょ！？」%K%P
+Yuka「Th-Th-Th-There's no way that I'm sc-scared!」%K%P
+0x1DB0
+その言い方が、全てを物語っているような気がするが……。%K%P
+Her tone completely betrays her words...%K%P
+0x1DE8
+出発してから、いったいどれくらい歩いただろうか？%K%P
+Just how long has it been since we started walking?%K%P
+0x1DF4
+いくつかの角を曲がって、もうとっくにみんなの姿は見えなくなっている。%K%P
+We've taken countless turns, and we already lost sight%Nof the others a long time ago.%K%P
+0x1E00
+この暗闇の中では、意外と井戸を探すのは難しいということに気づいた。%K%P
+It's difficult to find the well in this darkness.%K%P
+0x1E0C
+もっと簡単に見つかるもんだとばかり思っていたけれど……。%K%P
+To think I thought this was going to be easy...%K%P
+0x1E50
+──ふと、墓石の間の草むらに、葉ずれの音を聞く。%K%P
+―Suddenly,the sound of rustling leaves comes from%Nthe bushes between the tombstones.%K%P
+0x1E5C
+優夏「ね、ねぇ、誠……。%Nいまなんか……聞こえなかった？」%K%P
+Yuka「H-hey, Makoto... Did you... hear something just now?」%K%P
+0x1E68
+誠「風だろ？　きっと」%K%P
+Makoto「It's probably just the wind.」%K%P
+0x1E74
+優夏「そ、そうかなぁ？」%K%P
+Yuka「Y-You think so?」%K%P
+0x1E9C
+優夏「ほ、ほらぁ！　やっぱりなんかいるよぉ！」%K%P
+Yuka「L-Listen! There really is something here!」%K%P
+0x1EA8
+誠「大丈夫だって」%K%P
+Makoto「It's all right.」%K%P
+0x1EB4
+優夏「大丈夫じゃないって！」%K%P
+Yuka「It's NOT all right!」%K%P
+0x1EC0
+誠「…………」%K%P
+Makoto「...」%K%P
+0x1EDC
+優夏「…………」%K%P
+Yuka「...」%K%P
+0x1EE8
+誠「………………」%K%P
+Makoto「...」%K%P
+0x1EF4
+優夏「ちょ、ちょっとぉ……なんで黙るのよぉ」%K%P
+Yuka「H-Hey... why aren't you saying anything?」%K%P
+0x1F00
+誠「なんで、って言われても……。%Nこれは会話の間だろ？」%K%P
+Makoto「'Why'...? Is this even the time to be chatting?」%K%P
+0x1F0C
+優夏「黙らないで！」%K%P
+Yuka「Don't just ignore me!」%K%P
+0x1F34
+誠「はぁ？」%K%P
+Makoto「Huh?」%K%P
+0x1F40
+優夏「なんか喋ってて！」%K%P
+Yuka「Say something!」%K%P
+0x1F4C
+誠「なんか、って……なにを？」%K%P
+Makoto「Something...? Like what?」%K%P
+0x1F58
+優夏「なんでもいいからっ！　なんでもいいから、とにかく明るい話」%K%P
+Yuka「Anything's fine! It doesn't matter, just talk about%Nsomething cheerful!」%K%P
+0x1F64
+誠「明るい話ねぇ……」%K
+Makoto「Something cheerful, huh...?」%K
+0x410C
+今話題のタレントの話を
+Talk about the latest idol.
+0x4118
+大学の噂話を
+Talk about a rumor from college.
+0x1FA4
+誠「あっ、そうだ！」%K%P
+Makoto「Oh, I know!」%K%P
+0x1FB0
+誠「この前、マンションの自室で首吊り自殺したタレント……えーっと名前、なんて言ったっけなぁ……」%K%P
+Makoto「Recently, there was this idol who hung herself in her own%Napartment... umm, what was her name again...」%K%P
+0x1FC4
+誠「あっ、そうだ！」%K%P
+Makoto「Oh, I know!」%K%P
+0x1FD0
+誠「この前、うちの大学の講堂で首吊り自殺した学生……えーっと学部、なんだったっけなぁ……」%K%P
+Makoto「Recently, I heard that there was this student at our%Ncollege who hung himself in the auditorium... um, what%Ndepartment were they from again...」%K%P
+0x1FDC
+優夏「ご、ごめん。やっぱり黙っててもらえる？」%K%P
+Yuka「S-Sorry. Maybe you shouldn't talk.」%K%P
+0x1FE8
+誠「なんだよ、人がせっかくっ」%K%P
+Makoto「What? Didn't you want me to?」%K%P
+0x1FF4
+優夏「いいから！　黙ってて！」%K%P
+Yuka「It's fine, just be quiet!」%K%P
+0x202C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x2038
+優夏「…………」%K%P
+Yuka「...」%K%P
+0x2044
+誠「………………」%K%P
+Makoto「...」%K%P
+0x2050
+優夏「ウソォ！　やっぱ喋ってぇ〜！」%K%P
+Yuka「I can't take it! Talk to me!」%K%P
+0x205C
+誠「お、お前なぁ……」%K%P
+Makoto「Y-You...」%K%P
+0x2068
+優夏「だ、だけど、別の話ね？」%K%P
+Yuka「B-But, could you talk about something else?」%K%P
+0x2074
+誠「別の話なんて、無いよ」%K%P
+Makoto「I don't have any other stories.」%K%P
+0x2080
+優夏「じゃあ……歌、唄って？」%K%P
+Yuka「Well then... could you sing a song?」%K%P
+0x208C
+誠「うたぁ？」%K%P
+Makoto「A song?」%K%P
+0x2098
+優夏「できれば、陽気なやつがいいな」%K%P
+Yuka「Do you think you can sing something cheerful?」%K%P
+0x20A4
+誠「陽気な歌ねぇ……」%K
+Makoto「A cheerful song...」%K
+0x4124
+『死神レクイエム』を
+"Requiem for the Grim Reaper."
+0x4130
+『お人形だ〜い好き♪』を
+"I Love Dolls♪"
+0x20E4
+誠「鮮血したたる夕闇にぃ〜♪」%K%P
+Makoto「Fresh blood dripping in the twilight〜♪」%K%P
+0x20F0
+誠「カマを掲げて首を刈るぅ〜♪」%K%P
+Makoto「He'll cut your head off with his scythe〜♪」%K%P
+0x2104
+誠「おにんぎょ大好き、パパパヤー♪」%K%P
+Makoto「I love dolls, papapaya-♪」%K%P
+0x2110
+誠「１番好きなのワラ人形ぉー♪　%N木づち片手に五寸釘ぃー♪」%K%P
+Makoto「My favorite straw doll-♪ Carrying a mallet in one hand%Nand nails in the other-♪」%K%P
+0x211C
+誠「憎いアイツを呪うためぇー♪　%N呪って祟って殺してみせぇーるぅー♪」%K%P
+Makoto「It'll curse that guy I hate most-♪ I'll try to kill him with that%Ncurse-♪」%K%P
+0x2128
+優夏「そ、それのどこが陽気なのよぉ！」%K%P
+Yuka「H-how was that cheerful!?」%K%P
+0x2134
+誠「バカ！　%Nこれから徐々に陽気になってくんだろうが！　%Nちゃんと最後まで聞けよな」%K%P
+Makoto「Idiot! If you'd have listened to the whole thing, you'd%Nhave known it gets more cheerful after that!」%K%P
+0x2140
+優夏「もういいっ！」%K%P
+Yuka「Enough!」%K%P
+0x214C
+優夏「はぁ……まったく……」%K%P
+Yuka「Haah... Geez...」%K%P
+0x2158
+優夏は心の底から疲れ切ったようなため息を%Nついた。%K%P
+Yuka lets out a weary sigh.%K%P
+0x21D4
+腕時計を見ると、既に９時をまわっていた。%K%N
+I check my watch to find that it's past 9:00.%K%N
+0x21E0
+これで全員が出発したことになる。%K%N
+Everyone's gone off to look for the well by now.%K%N
+0x21EC
+にもかかわらず、話し声はおろか、足音さえも聞こえないのは何故だろう？%K%P
+If that's true, then why can't I hear their voices or their%Nfootsteps?%K%P
+0x21F8
+もしかしたら、他のみんなは、もうゴールに辿り着いているのかもしれない。%K%P
+It's possible that they might have already reached the%Ngoal.%K%P
+0x2204
+くるみといづみさんは、井戸のある場所を知っているんだろうし……。%K%N
+Kurumi and Izumi-san probably know where the well is...%K%N
+0x2210
+だとすると、オレ達は見当違いの方角に来ていたことになるが？%K%P
+If that's the case, then we're probably headed the%Nwrong way.%K%P
+0x221C
+誠「なあ、優夏？　とりあえず一度、スタート地点まで戻らないか？」%K%P
+Makoto「Hey, Yuka? Why don't we just head back to the starting%Npoint?」%K%P
+0x2228
+優夏「？」%K%P
+Yuka「?」%K%P
+0x2234
+誠「こっちの方は、あらかた探し終えたし……。%Nたぶん別の方角にあると思うんだよな、%N井戸……」%K%P
+Makoto「I think we're going the wrong way... The well might be in%Nanother direction...」%K%P
+0x2240
+優夏「う、うん……。分かった……」%K%P
+Yuka「R-Right... Okay...」%K%P
+0x224C
+かくしてオレ達は、来た道を戻ることとなった。%K%P
+Thus we head back the way we came.%K%P
+0x2258
+と言っても、実際にはどこをどう曲がって来たのかなんて、覚えてる筈がない。%K%P
+Actually, since we took so many turns, I can't really tell if%Nwe are going the right way or not.%K%P
+0x2264
+（まさか……迷ったか？）%K%P
+(We're not... lost, are we?)%K%P
+0x2270
+さすがのオレでも、幾ばくかの心細さを感じないわけじゃなかった。%K%P
+Even though this Test of Courage doesn't scare me like%Nit does Yuka, it's not like I don't feel discouraged by this%Nturn of events.%K%P
+0x227C
+漂うむら雲が、ゆっくりと月を覆っていく。%K%N
+The lingering clouds slowly cover the moon.%K%N
+0x2288
+辺りの闇は、いつしか一段とその深さを%N増していた……。%K%N
+Before I realize it, the darkness around me has grown%Nthicker...%K%N
+0x2294
+──と、その時！%K%P
+―And, at that time!%K%P
+0x22F4
+再び、さっきとは別の場所で草の音を聞く。%K%P
+Once again, I hear something moving in the grass.%K%P
+0x2300
+優夏「ま、まただよ……？」%K%P
+Yuka「A-Again...?」%K%P
+0x230C
+誠「あ、ああ……」%K%P
+Makoto「Y-Yeah...」%K%P
+0x2318
+優夏「ねえ？　何だか私達……さっきから、誰かにつけられてるような……気がしない？」%K%P
+Yuka「Hey? Doesn't it feel like... that ever since earlier...%Nsomeone's been following us?」%K%P
+0x2324
+誠「つけられてる？」%K%P
+Makoto「Following us?」%K%P
+0x2330
+優夏「誰かに、じいっと見つめられてるような……%N気が……」%K%P
+Yuka「It feels like someone... is watching us...」%K%P
+0x233C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x2348
+オレには、それを否定することはできなかった。%K%N
+I can't just laugh off what she said.%K%N
+0x2354
+確かに、その墓石の陰や、茂みの奥に、%N得体の知れぬ冷たい視線のようなものを感じる。%K%P
+It does feel like a pair of mysterious and cold eyes are%Nspying at us from the bushes in the shadow of the%Ntombstones.%K%P
+0x2360
+……ふいに、湿り気を帯びた生ぬるい風が、オレの首筋をふわりと撫でた。%K%N
+... Suddenly, a moist breeze gently strokes the back of%Nmy neck.%K%N
+0x236C
+それはあたかも、生きた人間の温かな吐息のようだった。%K%P
+It's like the warm sigh of a living human.%K%P
+0x23A4
+優夏「ね、ねえ……誠？」%K%P
+Yuka「H-Hey... Makoto?」%K%P
+0x23B0
+優夏「あ、あのね？」%K%P
+Yuka「U-Um, can I ask you something?」%K%P
+0x23BC
+誠「？」%K%P
+Makoto「?」%K%P
+0x23C8
+優夏「手、つないでも……いい？」%K%P
+Yuka「Could you... hold my hand?」%K%P
+0x23D4
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0x23E0
+優夏「いや、別に、そういうんじゃ、%Nないんだけど……」%K
+Yuka「It's not like I mean anything by it, but...」%K
+0x413C
+黙って手を差し出す
+Silently hold out my hand.
+0x4148
+黙って優夏の手を握る
+Silently take Yuka's hand.
+0x4154
+断る
+Refuse.
+0x2438
+オレは黙って手を差し出した。%K%P
+I silently hold out my hand.%K%P
+0x244C
+優夏は、一瞬ためらいながらも、すぐにオレの手の平に触れてきた。%K%P
+Yuka hesitates before slowly reaching for my open palm.%K%P
+0x2470
+オレは黙って優夏の手を握った。%K%P
+I silently take Yuka's hand.%K%P
+0x247C
+そこに触れた瞬間、優夏の腕がぴくっと揺れた。%K%P
+Her arm trembles the moment I touch her.%K%P
+0x2490
+誠「ダメだ」%K%P
+Makoto「No way!」%K%P
+0x249C
+オレは言い放った。%K%P
+I can't help but exclaim this.%K%P
+0x24A8
+誠「だって優夏は、怖くなんかないんだろ？」%K%P
+Makoto「Didn't you say you weren't scared?」%K%P
+0x24B4
+優夏「……………………」%K%P
+Yuka「...」%K%P
+0x24C0
+予想に反し、優夏は反論しなかった。%K%N
+Surprisingly, Yuka doesn't object.%K%N
+0x24CC
+もはや、強がりさえも言えぬ状況、ということらしい。%K%P
+I guess she can't even try to talk tough here.%K%P
+0x24E0
+すると、優夏は唐突に──いや、唐突だったが、まるで当たり前のことのように極めて自然に──オレの手の平に触れてきた。%K%P
+Just then, Yuka suddenly―no, it's sudden, but it also%Nfeels natural, as if it were a completely normal%Naction―takes my hand.%K%P
+0x24FC
+とても、やわらかな手だった。%K%N
+Her hand is very soft.%K%N
+0x2508
+しっとりと汗に濡れ……ほのかに温かく……%K%N
+It's damp with sweat... but faintly warm...%K%N
+0x2514
+……そしてかすかに震えている。%K%P
+... And it's shaking slightly.%K%P
+0x2520
+力を抜いた軽い握りかたのせいで、手の平が少しくすぐったい。%K%P
+Her hand brushes against mine, tickling my palm.%K%P
+0x252C
+ふと気がつけば、いつの間にかオレの鼓動は暴れるように脈打っていた。%K%N
+I realize in alarm that my heart is pounding violently.%K%N
+0x2538
+震えていたのは、あるいはオレの方だったのかもしれない……。%K%P
+She's not the one who's trembling; I am...%K%P
+0x25A4
+手をつなぎ始めて１０分。%K%N
+We've been holding hands for the past ten minutes.%K%N
+0x25B0
+歩いても歩いても、いまだなお古井戸は見つからない。%K%P
+We walk and walk, but we still can't find the well.%K%P
+0x25BC
+（もしや、オレ達は騙されているんじゃ？）%K%P
+(Have we been duped?)%K%P
+0x25C8
+（最初っからここには井戸なんか無くって……）%K%P
+(Maybe there was no well from the start...)%K%P
+0x25D4
+……そんな疑念が湧いてくる。%K%P
+... My doubt steadily grows.%K%P
+0x25E0
+実は、オレ達を送り出してから、他のみんなはさっさとロッジに帰ってしまっていて、今頃は、リビングでＴＶかなんかを見ながら、のんびりとくつろいでいるのかもしれない。%K%P
+Maybe the truth is that the others sent us out before%Nreturning to the lodge. Perhaps they're all relaxing right%Nnow in the living room, watching TV.%K%P
+0x25EC
+億彦「くっくっく……まんまと引っかかったな、あいつら！」%K%P
+Okuhiko「Heh heh heh... They completely bought it!」%K%P
+0x25F8
+（億彦の考えそうなことだけど……）%K%P
+(Okuhiko would say something like that...)%K%P
+0x2604
+やがて……天のむら雲が静かに流れ去り、再び月が姿を現した。%K%N
+Before long... the clouds in the sky part, and the moon%Nreappears.%K%N
+0x2610
+今まで暗がりの中を歩いていたせいで、月の光が嘘みたいに明るく見える。%K%P
+The moon's light dispels the darkness we'd been walking%Nthrough.%K%P
+0x261C
+お陰で、周りの様子も鮮明にうかがい知ることができた。%K%N
+Thanks to that, we can now clearly see our surroundings.%K%N
+0x2628
+と思ったそばから……%K%P
+As my eyes adjust...%K%P
+0x2634
+優夏「あっ！　あったぁ！」%K%P
+Yuka「Ah! Found it!」%K%P
+0x2640
+……優夏が何かを発見したらしく、オレの手をぐいぐいと引っ張ってどこかへと導いていく。%K%P
+... Yuka begins to drag me to whatever it is she has%Ndiscovered.%K%P
+0x264C
+誠「あ、あったって……何が？」%K%P
+Makoto「F-Found it... Found what?」%K%P
+0x2680
+優夏「こ〜れっ！」%K%P
+Yuka「This!」%K%P
+0x268C
+立ち止まった優夏の正面には、オレ達の探し求めていたもの──井戸があった。%K%N
+Yuka stops, and in front of her lies our target―the%Nwell.%K%N
+0x2698
+ついさっきまで固くこわばっていた優夏の表情が、今は柔らかくゆるんでいる。%K%P
+Her face was stiff with fear a few moments ago, but now%Na broad grin is stretched across her face.%K%P
+0x26A4
+きっと探し物を見つけた喜びが、恐怖に勝ったのだろう。%K%P
+Her delight at finding the well has overshadowed her%Nprevious fear.%K%P
+0x26B0
+優夏「さっ、早いとこやる事やって、%Nとっとと退散しよっ？」%K%P
+Yuka「Well then, let's just get this over with right away so we%Ncan go back.」%K%P
+0x26C4
+優夏は腰をかがめて、井戸にサインを刻む為の適当な小石を探し始めた。%K%P
+Yuka bends over, and begins to look for a small pebble%Nin order to carve her name into the well.%K%P
+0x26D0
+優夏「なんかちっちゃいのばっかで、全然落ちてないなぁ……」%K%P
+Yuka「I can't find anything to carve with...」%K%P
+0x26DC
+ヒザに両手を添えながら、１歩、また１歩とオレのそばから離れて行く優夏。%K%P
+With her hands on her knees, Yuka takes two steps%Naway from me.%K%P
+0x26E8
+オレは、何だか嫌な胸騒ぎを覚えていた。%K%N
+I'm starting to grow uneasy.%K%N
+0x26F4
+この場合の胸騒ぎとは、オレの経験的な勘からくるものだ。%K%P
+My intuition is telling me that something is wrong.%K%P
+0x2700
+こんな廃墟みたいな墓地の中で、どうしてこの井戸の周りだけ、こんなにもキレイになっているんだろう？%K%P
+How is it that only the area around the well got this clean%Nwhen the rest of the graveyard is like a ruin?%K%P
+0x270C
+石ころの１つや２つぐらい当然のように落ちていてもいい場所なのに、小枝１本見つからないとはいかにも不自然極まりない。%K%P
+Even though this is a place where it wouldn't be%Nunnatural to find a pebble or two on the ground, there%Nare trees; there ought to be fallen branches.%K%P
+0x2718
+──古い墓場と古い井戸。%K%N
+―An old graveyard and an old well.%K%N
+0x2724
+何となく、オレは出発前のくるみの言葉を思い出していた……。%K%P
+For some reason, I remember Kurumi's words from just%Nbefore we left...%K%P
+0x2740
+『生きながらにして深い穴の底に放り込まれた無実の罪人とかぁ』%K%P
+"Or innocent 'criminals' who were thrown to the bottom of%Na deep hole while they were still alive."%K%P
+0x274C
+（深い穴の底？）%K%P
+(A deep hole?)%K%P
+0x2758
+（それってひょっとして……？）%K%P
+(Could it be...?)%K%P
+0x2780
+草むらが揺れた。%K%N
+The bushes shake.%K%N
+0x2794
+優夏がピタリとその動きを止める。%K%N
+Yuka freezes.%K%N
+0x27A0
+オレ達はじっと凍りついたまま、静寂の中に耳を澄ませた。%K%P
+Our eyes peel onto the bushes as we listen warily.%K%P
+0x27C8
+音は今、優夏の目の前にあった。%K%N
+Whatever it is, it's in front of Yuka.%K%N
+0x27D4
+その高く生い茂った草むらの陰に、確かに何かがひそんでいるのだ。%K%P
+There's definitely something lurking in the overgrown%Nbushes.%K%P
+0x27E0
+誠「……優夏」%K%P
+Makoto「... Yuka.」%K%P
+0x27EC
+ささやくように声をかけた。%K%P
+I whisper hoarsely.%K%P
+0x27F8
+誠「ゆっくりと……戻って来い」%K%P
+Makoto「Walk towards me... slowly.」%K%P
+0x2804
+しかし優夏は、わなわなと震えるばかりで、その足を動かすことができないでいる。%K%P
+However, Yuka is frozen in fear.%K%P
+0x2810
+はりつめる緊張の糸……。%K%N
+The tension in the air is like a strung up string...%K%N
+0x281C
+背筋を駆け抜けていく冷たい戦慄……。%K%P
+Shivers run up my spine...%K%P
+0x2860
+？？「わあっ！！！」%K%P
+??「WAH!!!」%K%P
+0x286C
+突如、草の間からヌラッと現われ出たのは白い生首だった。%K%P
+Suddenly, a white, freshly severed head appears out of%Nthe bushes.%K%P
+0x2878
+腰をかがめたまま硬直していた優夏が……%K%N
+The stiff, bent over Yuka...%K%N
+0x2884
+……恐る恐る顔を上げ……%K%N
+... slowly raises her head...%K%N
+0x2890
+……その白い生首を仰ぎ見たとたん！%K%P
+... and looks at it. In that instant...!%K%P
+0x28B4
+優夏「キェェェェェェェアァァァァァァァ！！！」%K%P
+Yuka「KYAAAAAAAAAAAA!!!」%K%P
+0x28C0
+……まさしく断末魔のごとき悲鳴をあげる。%K%P
+... Her agonized scream is piercing, like that of a dying%Nperson.%K%P
+0x28CC
+それを見た生首は、アゴの下にあてていた懐中電灯のスイッチを切り……%K%P
+A flashlight from underneath the severed head's chin is%Nthen turned off...%K%P
+0x2904
+くるみ「びっくした？　びっくした？」%K%P
+Kurumi「Were you surprised? Were you surprised?」%K%P
+0x2910
+……嬉々として尋ねてきた。%K
+... and Kurumi gleefully asks this.%K
+0x4160
+『ちょっとな』と答える
+"A little."
+0x416C
+『子供じゃないんだから』とあしらう
+"I'm not a kid, you know."
+0x2958
+誠「ちょっとな……」%K%P
+Makoto「A little...」%K%P
+0x2964
+あまりにもくるみの様子が嬉しそうだったので、オレは驚いたフリをしてやることにした。%K%P
+I decide to pretend to be a little surprised after seeing%Nhow delighted Kurumi was.%K%P
+0x2970
+もちろん、本当は薄々感づいていたことなのだけれど……。%K%P
+Of course, I had a hunch that this was going to happen...%K%P
+0x297C
+誠「だけど、オレよりももっとビックリしてたやつが……」%K%P
+Makoto「I'm fine, but I think Yuka soiled herself...」%K%P
+0x2988
+オレは横目で優夏の方を見た。%K%P
+I glance towards Yuka.%K%P
+0x2994
+彼女は今、ノリづけされたワイシャツみたいに固まったまま、放心状態で立ち尽くしている。%K%P
+Right now, she is standing completely still in a daze, like%Na deer in the headlights.%K%P
+0x29A8
+こうなるだろうということは、薄々感づいていた。%K%P
+I figured that something like this was going to happen.%K%P
+0x29B4
+誠「子供じゃないんだから、そんな使い古された手で驚くわけないだろ？」%K%P
+Makoto「I'm not a kid, so there's no way such worn out tricks will%Nwork.」%K%P
+0x29C0
+と言って、くるみをあしらう。%K%P
+I tell Kurumi this.%K%P
+0x29CC
+しかしその直後、視界の片隅に放心状態で立ち尽くしていた優夏の姿を認め……%K%P
+However, out of the corner of my eye, I see Yuka%Nstanding completely still.%K%P
+0x29D8
+誠「まっ、一部の例外を除いてな？」%K%P
+Makoto「Well, that's more than I can say for her.」%K%P
+0x29E4
+とオレは付け加えた。%K%P
+I add.%K%P
+0x29F0
+くるみ「てへっ♪　ごめんね、優夏さん？」%K%P
+Kurumi「Teehee♪ Sorry, Yuka-san.」%K%P
+0x2A04
+優夏「…………く%W%W…くるみ…%W%Wちゃん……」%K%P
+Yuka「... Ku... Kurumi... chan...」%K%P
+0x2A10
+優夏「……な%W%W…なんで…%W%Wくるみちゃん…%W%Wが…？」%K%P
+Yuka「... Wh... Why... is Kurumi... chan...?」%K%P
+0x2A1C
+いまだ状況を把握し切れていない様子の優夏。%K%P
+She still doesn't seem to understand what's going on.%K%P
+0x2A30
+優夏「はっ！」%K%P
+Yuka「Ah!」%K%P
+0x2A3C
+やっと正気に戻ったか……。%K%P
+She's finally snapped out of it...%K%P
+0x2A48
+優夏「く、%W%Wくるみちゃん！　%W%W%Nは、%W%Wはやく、逃げないと！」%K%P
+Yuka「K-Kurumi-chan! H-Hurry, we've got to get out of here!」%K%P
+0x2A5C
+くるみ「へ？」%K%P
+Kurumi「Huh?」%K%P
+0x2A68
+優夏「な、%W%Wな、%W%Wな、%W%Wなまくびが！」%K%P
+Yuka「Th-Th-Th-There's a possessed head!」%K%P
+0x2A74
+やっぱり正気じゃなかった……。%K%P
+Guess I spoke too soon...%K%P
+0x2A88
+くるみ「きゃはははははははっ♪　%Nもう優夏さん、さいこぉー！」%K%P
+Kurumi「Kyahahahahahahaha♪ Geez, Yuka-san, you're the%Ngreatest!」%K%P
+0x2A94
+おどかしがいのある相手に巡り会えて、くるみは御満悦といった感じだった。%K%P
+Kurumi is delighted for having scared Yuka so much.%K%P
+0x2AA0
+──ところが！！%K%P
+―However!!%K%P
+0x2AE4
+何故か再び草が揺れた……。%K%N
+For some reason, the bushes rustle again...%K%N
+0x2AF0
+くるみが隠れていたのとは別の場所だ。%K%P
+It's from a different place than where Kurumi was hiding.%K%P
+0x2AFC
+誠「……はは〜ん、なるほど。%N２段仕込みってわけか？」%K%P
+Makoto「... Ha ha, I see. Who's your accomplice?」%K%P
+0x2B08
+誠「くるみの登場でホッとさせといて、今度は……別の誰かがおどかす、と？」%K%P
+Makoto「The first time was for your entrance, so this one... must%Nbe your partner?」%K%P
+0x2B1C
+くるみ「え……？」%K%P
+Kurumi「Huh...?」%K%P
+0x2B28
+ひと言つぶやいたくるみは、首をぶるぶると振って否定した。%K%P
+Kurumi mutters this and shakes her head slowly in denial.%K%P
+0x2B34
+誠「ち、ちがうのか？　……じゃあ、今の音は？」%K%P
+Makoto「I-I'm wrong? ... Then what was that sound?」%K%P
+0x2B48
+優夏「もう、なに言っちゃってんのよ、誠！？」%K%P
+Yuka「Geez, what are you saying, Makoto!?」%K%P
+0x2B54
+優夏「さっき誠も見たでしょ！？　%Nあの、なまくびだってば！」%K%P
+Yuka「Didn't you see it earlier? That possessed head!?」%K%P
+0x2B60
+まあ、優夏のことはほっとくとして……。%K%P
+I'll just ignore Yuka for now...%K%P
+0x2B6C
+誠「なあ、くるみ？　ひとつ聞いても、いいか？」%K%P
+Makoto「Say, Kurumi? Can I ask you one thing?」%K%P
+0x2B80
+くるみ「？」%K%P
+Kurumi「?」%K%P
+0x2B8C
+誠「くるみ……%W%W肝だめしが始ってから、ずっとここに隠れてたのか？」%K%P
+Makoto「Kurumi... have you been hiding here since the start of%Nthe Test of Courage?」%K%P
+0x2B98
+くるみ「う、%W%Wうん。そうだけど？」%K%P
+Kurumi「Y-Yeah. That's right.」%K%P
+0x2BA4
+誠「ってことは、オレ達の後を、つけて来たり%Nとか……」%K%P
+Makoto「Which means that you weren't following us, were you...?」%K%P
+0x2BB0
+くるみ「そ、%W%Wそんなこと、してないよ」%K%P
+Kurumi「Sh-She never did that.」%K%P
+0x2BBC
+くるみ「くるみはずっと、ここにいたもん」%K%P
+Kurumi「Kurumi's been here this whole time.」%K%P
+0x2BC8
+くるみの顔からは、すっかりと血の気が失せていた。%K%P
+She's turned ghastly pale.%K%P
+0x2BD4
+その表情から察するに、くるみが嘘をついているとはとても思えない。%K%P
+Judging by her expression, I don't think she's lying.%K%P
+0x2BE8
+一方優夏はと言うと、彼女もまた、くちびるを真っ青にして細い肩を小刻みに震わせている。%K%P
+When Yuka hears this, her lips go white again, and her%Nthin shoulders slowly start shaking.%K%P
+0x2BF4
+大きく見ひらかれた瞳は、今にも泣き出しそうな程に脅えていた。%K%P
+Her eyes widen and she looks so frightened that it%Nseems she'll burst into tears any moment.%K%P
+0x2C1C
+一段と激しく葉が揺れる。%K%P
+The leaves shake violently.%K%P
+0x2C28
+反射的に身構えるオレ達。%K%P
+We all immediately stand on guard.%K%P
+0x2C34
+かたずを呑んで、闇の中に目を凝らした……。%K%P
+I gulp, and try to focus my eyes in the darkness...%K%P
+0x2C70
+やがて……%K%P
+Soon enough...%K%P
+0x2C98
+……草の根元にひょこっと突き出た小さな首。%K%N
+... A small head sticks itself out of the base of the%Nbushes.%K%N
+0x2CA4
+……体毛にまみれた小さな首。%K%N
+... It's covered in fur.%K%N
+0x2CB0
+……体毛に？%K%P
+... Fur?%K%P
+0x2CD8
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x2CE4
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x2CF8
+優夏「……………………」%K%P
+Yuka「...」%K%P
+0x2D04
+誠「い、いぬ、だ……」%K%P
+Makoto「I-It's a dog...」%K%P
+0x2D34
+くるみ「かわい〜いっ♪」%K%P
+Kurumi「How cute♪」%K%P
+0x2D40
+くるみ「子犬だよぉ、子犬！」%K%P
+Kurumi「It's a puppy, a puppy!」%K%P
+0x2D4C
+くるみが歓喜の声をあげる。%K%P
+Kurumi shouts in delight.%K%P
+0x2D58
+しかし子犬は……%K%P
+The puppy, however...%K%P
+0x2DAC
+……ひと言だけ吠えて、草むらの奥へと逃げ込んだ。%K%P
+... barks once, then runs back into the bushes.%K%P
+0x2DB8
+くるみ「あっ、こらっ！　待てぇ〜！」%K%P
+Kurumi「Ah, hey! Wait!」%K%P
+0x2DCC
+くるみは子犬の後を追いかけて、たちまち茂みの中へと消えて行ってしまった。%K%P
+Kurumi chases after it, and suddenly disappears into%Nthe bushes.%K%P
+0x2DD8
+取り残されたオレと優夏は、どんどんと遠ざかっていく葉ずれの音を、茫然としながら聞いていた。%K%P
+Yuka and I are left behind, and we listen to the sound of%Nthe two of them steadily getting farther away in%Ndumbfoundment.%K%P
+0x2DE4
+誠「なんでこんなとこに……%W%W子犬が？」%K%P
+Makoto「Why was there... a puppy here of all places?」%K%P
+0x2DF0
+優夏「…………」%K%P
+Yuka「...」%K%P
+0x2DFC
+誠「あ、%W%Wあれっ？　%W%W優夏？」%K%P
+Makoto「H-Huh? Yuka?」%K%P
+0x2E08
+優夏「…………」%K%P
+Yuka「...」%K%P
+0x2E14
+誠「おーいっ！」%K%P
+Makoto「Hey!」%K%P
+0x2E28
+オレは優夏の目の前に手をかざした。%K%P
+I wave my hand in front of Yuka.%K%P
+0x2E34
+２・３度左右に振ってみるが、優夏はまばたきすらしない。%K%P
+I wave it three more times, but she doesn't even blink.%K%P
+0x2E40
+優夏「く、%W%Wく、%W%Wく、%W%Wく、%W%Wく、%W%Wく、%W%Wく……」%K%P
+Yuka「H-H-H-H-H-H-H...」%K%P
+0x2E4C
+優夏「く、%W%Wくび、%W%Wくび、%W%Wくび……」%K%P
+Yuka「H-Head, head, head...」%K%P
+0x2E58
+ダメだ……。完全にイッちゃってる……。%K%P
+No good... she's completely gone...%K%P
+0x2E64
+優夏「くびがひと〜つ……%W%Wくびがふた〜つ……」%K%P
+Yuka「One head... two heads...」%K%P
+0x2E70
+誠「はぁ……。やれやれ……」%K%P
+Makoto「Haah... Oh brother...」%K%P
+0x2EA0
+──その後、ロッジに帰り着くまで、オレに手を引かれた優夏は、まるで泥酔した中年サラリーマンみたいな意味不明のうわ言を延々とつぶやき続けたのだった……。%K%P
+―After that, I drag Yuka back towards the the lodge%Nas she continues rambling incoherently, like a drunk%Nmiddle-aged salaryman...%K%P
+0x2F14
+くるみ「それじゃ１番目行ってきまーーす♪」%K%P
+Kurumi「Well then, Group #1, heading out!♪」%K%P
+0x2F20
+くるみは意気揚々といった感じでオレの手を引いて先を急いだ。%K%P
+Kurumi, in high spirits, grabs my hand and runs ahead.%K%P
+0x2F7C
+くるみ「うまくいったね」%K%P
+Kurumi「Good work.」%K%P
+0x2F88
+誠「ああ……、それでどうするんだ」%K%P
+Makoto「Thanks... well then, what will we do?」%K%P
+0x2F9C
+くるみ「なにが？」%K%P
+Kurumi「About what?」%K%P
+0x2FA8
+誠「作戦だよ、作戦」%K%P
+Makoto「About the plan.」%K%P
+0x2FBC
+くるみ「実はねぇ……」%K%P
+Kurumi「Truth is...」%K%P
+0x2FC8
+くるみはこっそり持っていたポーチから何やら色々出してきた。%K%P
+Kurumi takes various things out from a pouch she%Nsecretly had.%K%P
+0x2FDC
+くるみ「じゃーん！！」%K%P
+Kurumi「Ta-da!!」%K%P
+0x2FE8
+中から出てきたものは、懐中電灯、糸、恐いお面、こんにゃく…………？%K%P
+She takes out a flashlight, string, a scary mask, and...%Nkonnyaku...?%K%P
+0x2FF4
+誠「こんにゃく？」%K%P
+Makoto「Konnyaku?」%K%P
+0x3000
+誠「お前、いつのまにそんなものそろえたんだ？」%K%P
+Makoto「Just when did you get all of these things ready?」%K%P
+0x300C
+くるみ「へへーん、どうだ。くるくるくるみマジック♪」%K%P
+Kurumi「Heh heh, what do you think? It's KuruKuru Kurumi Magic♪」%K%P
+0x3018
+誠「……」%K%P
+Makoto「...」%K%P
+0x305C
+誠「そんでどうすんだ？」%K%P
+Makoto「So what's the plan?」%K%P
+0x3068
+くるみ「まず、くるみがこのお面を被って井戸の中に隠れまーーーす♪」%K%P
+Kurumi「First, Kurumi will hide the mask in the well♪」%K%P
+0x3074
+誠「ほう、それで？」%K%P
+Makoto「I see, and then?」%K%P
+0x3080
+くるみ「誰か来たら下から光を当てて……%Nひゅーーどろどろ、どんどんどんどん……」%K%P
+Kurumi「Then if someone comes, we'll shine the light from below...%NOoooooo-boooooo, woooooo...」%K%P
+0x308C
+誠「ほほう、それで？」%K%P
+Makoto「Oh ho, and then?」%K%P
+0x3098
+くるみ「その瞬間、お兄ちゃんは！」%K%P
+Kurumi「In that instant, Onii-chan-」%K%P
+0x30A4
+誠「オレは？」%K%P
+Makoto「Me?」%K%P
+0x30B0
+くるみ「驚いてる相手に後ろから！」%K%P
+Kurumi「You'll scare them from behind!」%K%P
+0x30BC
+誠「後ろから」%K%P
+Makoto「How so?」%K%P
+0x30C8
+くるみ「そのこんにゃくで、首んとこ『ぴちゃ』とやるの！」%K%P
+Kurumi「By using the konnyaku and dripping it on their neck!」%K%P
+0x30D4
+誠「ぴちゃっと？」%K%P
+Makoto「Drip it?」%K%P
+0x30E0
+くるみ「名づけて……お面恐くて、こんにゃくはぴちゃっとひんやりダイエットに効きますだいさくせーーん♪」%K%P
+Kurumi「It's called... The Scary Mask and Cold Dripping Konnyaku%NThat's As Effective As A Diet Strategy♪」%K%P
+0x30EC
+誠「なげーーんだよ」%K%P
+Makoto「Damn, that's a long name.」%K%P
+0x30F8
+誠「……」%K%P
+Makoto「...」%K%P
+0x3104
+誠「でもなぁ、どうやってオレは後ろまで近づくわけ？」%K%P
+Makoto「But how am I supposed to sneak up on them?」%K%P
+0x3110
+誠「こんにゃく持って後ろ回ったって、振り向かれたら間抜けなだけだぞ！」%K%P
+Makoto「If they turn around when I'm holding the konnyaku, I'll just%Nlook like an idiot!」%K%P
+0x311C
+くるみ「へへーん、そのためにこの糸があるんですぅ！」%K%P
+Kurumi「Heh heh, that's what the string's for!」%K%P
+0x3128
+誠「ほほーーっ」%K%P
+Makoto「Oh ho.」%K%P
+0x3134
+くるみ「お兄ちゃんはその辺で、何か棒見つけて糸で%Nこんにゃくを吊るすの！」%K%P
+Kurumi「Onii-chan, find a branch nearby and tie the string to it to%Nhang the konnyaku up!」%K%P
+0x3140
+くるみ「それで、後ろの茂みに隠れてそっから%Nやれば……もう相手は……」%K%P
+Kurumi「And then, hide in a nearby bush, and then from there, do%Nit... Afterwards, that person will...」%K%P
+0x314C
+くるみ「戦々恐々、阿鼻叫喚、空前絶後の酒池肉林……」%K%P
+Kurumi「They'll shake in fear, scream in agony, and horribly sully%Nthemselves...」%K%P
+0x3158
+誠「……」%K%P
+Makoto「...」%K%P
+0x3164
+くるみ「名づけて……」%K%P
+Kurumi「Kurumi'll call it...」%K%P
+0x3170
+誠「もういいって！！」%K%P
+Makoto「That's enough!!」%K%P
+0x3184
+くるみ「なによーっ、この日の為に何ヶ月も前から作戦練ってたのにぃ！」%K%P
+Kurumi「Oh come on! Kurumi spent months perfecting this plan!」%K%P
+0x3190
+誠「嘘付けぇ！」%K%P
+Makoto「Liar!」%K%P
+0x31A4
+くるみ「でも、良い作戦でしょ？」%K%P
+Kurumi「But it's a good plan, right?」%K%P
+0x31B0
+誠「……」%K%P
+Makoto「...」%K%P
+0x31BC
+さてどうだろうか？%K
+How should I answer?%K
+0x4178
+なかなかだな
+It's pretty good.
+0x4184
+所詮子供だましだ
+It's mere child's play.
+0x3204
+誠「まあ、なかなかだな」%K%P
+Makoto「Well, it's pretty good.」%K%P
+0x3210
+誠「優夏だったらきっと腰抜かすだろう」%K%P
+Makoto「If it's Yuka, she'll be pissing herself.」%K%P
+0x321C
+くるみ「でしょ、でしょぉ！」%K%P
+Kurumi「Right, right!」%K%P
+0x3228
+誠「見直したよ！」%K%P
+Makoto「You've just gained a ton of points in my book!」%K%P
+0x3234
+くるみ「ほんとにぃ♪」%K%P
+Kurumi「Really?♪」%K%P
+0x3240
+誠「ああ、ほんとだ」%K%P
+Makoto「Yeah, really.」%K%P
+0x324C
+くるみ「ほんとに、ほんとにぃ♪」%K%P
+Kurumi「Really?♪」%K%P
+0x3258
+誠「ほんとだって」%K%P
+Makoto「Really.」%K%P
+0x3264
+くるみ「じゃぁご褒美ちょーだい！」%K%P
+Kurumi「Then how about a reward!?」%K%P
+0x3270
+誠「へ？」%K%P
+Makoto「Huh?」%K%P
+0x327C
+くるみ「ご%W%W・ほ%W%W・う%W%W・び♪」%K%P
+Kurumi「A re-war-d♪」%K%P
+0x3288
+誠「あのぉー、ご褒美ってなんですか？」%K%P
+Makoto「Um... what kind of reward?」%K%P
+0x3294
+くるみ「そんなの自分で考えてよぉ！」%K%P
+Kurumi「Think of it yourself!」%K%P
+0x32A0
+誠「……」%K%P
+Makoto「...」%K%P
+0x32AC
+誠「わかった、わかった。いい子いい子……」%K%P
+Makoto「Got it. You're such a good girl...」%K%P
+0x32B8
+オレはくるみの頭をなでてやった。%K%P
+I pet Kurumi's head, like a puppy.%K%P
+0x32CC
+くるみ「あーもぅ、そーやって子供扱いしてぇ……」%K%P
+Kurumi「Ah, geez, don't treat Kurumi like a kid...」%K%P
+0x32D8
+誠「でもなかなか嬉しそうじゃん！」%K%P
+Makoto「Doesn't this sort of thing make you happy?」%K%P
+0x32E4
+くるみ「そんなのうれしくないもん！！」%K%P
+Kurumi「It doesn't!!」%K%P
+0x32F0
+誠「じゃぁどんなのが嬉しいんだ？」%K%P
+Makoto「Then what would make you happy?」%K%P
+0x32FC
+くるみ「それはぁー、%W%Wえーーと」%K%P
+Kurumi「Well, umm-」%K%P
+0x3310
+誠「所詮子供だましだな」%K%P
+Makoto「It's mere child's play.」%K%P
+0x3324
+くるみ「なによーー、じゃあなにか他に作戦あるのぉーー」%K%P
+Kurumi「Hey! Well then, do you have any better ideas?」%K%P
+0x3330
+誠「ん？　%W%Wうーーん……」%K%P
+Makoto「Huh? Hmm...」%K%P
+0x333C
+誠「……」%K%P
+Makoto「...」%K%P
+0x3348
+くるみ「お兄ちゃん自分で全然考えないくせに、くるみの作戦馬鹿にしないでよぉ」%K%P
+Kurumi「Don't ridicule Kurumi's plan if you can't think of anything%Nyourself.」%K%P
+0x3354
+誠「作戦って言ってもその程度だろう」%K%P
+Makoto「Hey, I'm still capable of cooking something up.」%K%P
+0x3360
+くるみ「だったらもっといいの考えてよぉ」%K%P
+Kurumi「Then think of something better.」%K%P
+0x336C
+誠「おっ、おう」%K%P
+Makoto「S-Sure.」%K%P
+0x3378
+誠「……」%K%P
+Makoto「...」%K%P
+0x3384
+誠「じゃぁ、そのこんにゃくを使って……」%K%P
+Makoto「Well, if we use this konyakku...」%K%P
+0x3390
+くるみ「こんにゃく使って？」%K%P
+Kurumi「If we use the konyakku?」%K%P
+0x339C
+（いかん、何も思い付かん……）%K%P
+(Crap, I've got to think of something...)%K%P
+0x33A8
+誠「うーーんと」%K%P
+Makoto「Ummmm-」%K%P
+0x33B4
+くるみ「どうすんのよぉ」%K%P
+Kurumi「What do you-」%K%P
+0x33C0
+？？「あっ、見ーつけた！！」%K%P
+??「Oh, found it!!」%K%P
+0x3400
+くるみ「あーーーーーーっ！！」%K%P
+Kurumi「AHHHHHHHH!!」%K%P
+0x341C
+優夏「なんかすごくうるさかったから、すぐ分かったよ」%K%P
+Yuka「It was really loud over here, so I found it quickly.」%K%P
+0x3428
+誠「しまったーーーっ！！」%K%P
+Makoto「Dammit!!」%K%P
+0x343C
+くるみ「もーーーーーっ、お兄ちゃんの……%W%W%W%Nばかーーーーーーーっ！！」%K%P
+Kurumi「Geeeeeeeeez, Onii-chan... YOU IDIOOOOOOOOOOT!!」%K%P
+0x3448
+誠「……」%K%P
+Makoto「...」%K%P
+0x34D8
+足許の石畳がひんやりと冷たい。微かな風が辺りの木々を揺らし、わけもなくオレの心を怯えさせた。%K%P
+The stone pavement is pleasantly cool. A breeze stirs%Nthe nearby trees, making me somehow uneasy.%K%P
+0x34E4
+苔むした墓石の群れは、無縁仏がほとんどだという。オレは幽霊やらお化けだのは一切信じないが、%Nここにいると妙に不安定な気分になってくるように%N感じていた。%K%P
+Kurumi said that almost everyone buried in this group of%Nmoss-covered tombstones are muenbotoke. I%Nabsolutely don't believe in ghosts or monsters, but%Nbeing here is making me feel strangely insecure.%K%P
+0x34F8
+一緒に歩みを進めている遙のほうは、相変わらずの無表情で全くこの雰囲気に動じていない様子だ。%N遙には想像力ってもんがないのか。と、オレは%N恨めしく思っていた。%K%P
+Haruka, who's walking alongside me with her usual stony%Nface, is completely unfazed by this atmosphere. Doesn't%Nshe have an imagination?%K%P
+0x3504
+誠「しかしくるみのやつ、よくこんな場所知ってるよな。そう言えばさっき、ここに眠ってるのはみんな%N無縁仏だ、なんて言ってたけど……」%K%P
+Makoto「Kurumi sure knows this place well. Now that I think about it,%Nshe did say earlier that everyone buried here is a%Nmuenbotoke...」%K%P
+0x3510
+何か喋らずにはいられない気分だった。全く、%N肝だめしなんかするんじゃなかった。%K%P
+The silence is killing me. Sheesh, we shouldn't have done%Nthis Test of Courage.%K%P
+0x351C
+遙「ムエンボトケって？」%K%P
+Haruka「'Muenbotoke'?」%K%P
+0x3528
+誠「知らないのか？　死んだとき家族とか親戚とか、葬ってくれる人が誰もいないと無縁仏になるんだよ。ほら『縁』が『無』い『仏』って書くだろ？」%K%P
+Makoto「You don't know? When someone dies and they have no%Nfamily or relatives to bury them, they become muenbotoke.%K%PSee, you write the word with the characters 'nothing' (無),%N'relationship' (縁), and 'deceased' (仏)... a dead person%Nwith no relationships.」%K%P
+0x3534
+遙「『縁』がない……」%K%P
+Haruka「No 'relationships'...」%K%P
+0x3540
+誠「寂しいっちゃ寂しいよな、死んでも誰も何も感じてくれないって」%K%P
+Makoto「It sounds very lonely, dying without having a person%Nwho cares about you.」%K%P
+0x3554
+遙「私が死んでも、たぶん誰も何も感じない……」%K%P
+Haruka「When I die, it's likely that nobody will care either...」%K%P
+0x3560
+誠「遙……何を言い出すんだ」%K%P
+Makoto「Haruka... what are you saying?」%K%P
+0x356C
+遙「私は誰かの代わりだから……%Nコピーに過ぎないから……」%K%P
+Haruka「It's because I'm just someone's replacement... because%NI'm nothing more than a copy...」%K%P
+0x3578
+誠「遙……オレは許せないよ。あんな言い方する%Nなんて」%K%P
+Makoto「Haruka... I won't forgive her for talking about you that way.」%K%P
+0x3584
+遙「……？」%K%P
+Haruka「...?」%K%P
+0x3590
+誠「沙紀だよ。何の権利があってあんなふうに遙を%N貶める？　オレは許せない」%K%P
+Makoto「I mean Saki. What gives her the idea that she has the%Nright to look down on you like that? That's not right.」%K%P
+0x35A4
+遙「本当にそう思う？」%K%P
+Haruka「Do you really think that?」%K%P
+0x35B0
+誠「思うよ。昨日の海のことといい、今日のことといい……だいたい何で沙紀は遙がクローンだって%N知ってたんだ？」%K%P
+Makoto「Yeah. It pisses me off when I think about the incident at%Nthe ocean yesterday, as well as what happened today...%NBut how did she know that you're a clone in the first%Nplace?」%K%P
+0x35BC
+遙「……」%K%P
+Haruka「...」%K%P
+0x35C8
+誠「沙紀と何かあったのか？　一昨日初めて会った%Nわけじゃないのか？」%K%P
+Makoto「Did something happen between you and Saki? Was the%Nday before yesterday not the first time you had met?」%K%P
+0x35D4
+遙「……」%K%P
+Haruka「...」%K%P
+0x35E0
+遙はオレから後退り始めていた。ひときわ目立つ%N大きな墓標への石畳へと。%K%P
+Haruka begins to step away from me. She moves to a%Nstone paving by a large, conspicuous tombstone.%K%P
+0x35EC
+沙紀とのことには触れてほしくない。遙の顔がそう言っていた。オレはかまわずグイッと踏み込んだ。%N遙の表情から感情が読めたことに、%N半ば驚きながら……。%K%P
+Haruka's face says, "I don't want to talk about Saki."%NIgnoring this, I step towards her. I'm partly surprised that%NI can read emotions off of Haruka's face...%K%P
+0x35F8
+誠「どうなんだ？」%K%P
+Makoto「It wasn't, was it?」%K%P
+0x3604
+突風が駆け抜けた。木々が凄まじい騒ぎ声あげる。%Nガタッ！　足許の石畳がずれた。%K%P
+A sudden gust of wind passes by, making the trees%Nsound like they're in an uproar.%K%P
+0x3610
+オレは呼吸を整えて遙を見た。%K%P
+CRASH! I slip on the stone paving. I catch my breath and%Nlook at Haruka.%K%P
+0x3634
+遙の目が輝いていた。好奇心。それだった。遙は%Nオレの足許にしゃがみこむと、石畳を動かし始めた。%K%P
+Haruka's eyes are shining with curiosity. She squats%Ndown and begins to crawl.%K%P
+0x3640
+誠「やめろ……ヘンなことすんな。ここはお前……」%K%P
+Makoto「Stop... stop acting so creepy. Come on, get up...」%K%P
+0x364C
+遙は意に介さない。ゴリゴリ、と音をたてて石畳が%N開いた。中は真暗だった。何も見えない。%N真の暗闇と言っていい。%K%P
+Haruka pays no heed to my words, and I hear the sound%Nof scraping against the stone pavement.%K%PIt's completely dark; I can't see a thing. This is what they%Ncall true darkness.%K%P
+0x3658
+オレは思わず飛びのいた。自然にそのまま逃げようとしていた。逃げられなかった。遙の手が、オレの足を掴んだのだ。%K%P
+I immediately spring to my feet. I would try to run away,%Nbut Haruka grabs one of my ankles before I can do so.%K%P
+0x366C
+遙「あの人は、私から奪った」%K%P
+Haruka「She stole from me.」%K%P
+0x3678
+誠「奪った？」%K%P
+Makoto「Stole?」%K%P
+0x3684
+立ち竦んだオレを見上げて、遙が吐き出すように%N言った。%K%P
+Haruka still clings to my leg as she says this.%K%P
+0x3690
+遙「あの日だけじゃなく……また、奪った……」%K%P
+Haruka「It wasn't just that day... she stole from me again...」%K%P
+0x369C
+誠「何を？　何を奪ったんだ？」%K%P
+Makoto「What? What did she steal from you?」%K%P
+0x36A8
+遙「私……」%K%P
+Haruka「My...」%K%P
+0x36B4
+──と、その時だった。%K%P
+―Then, at that time.%K%P
+0x36C8
+？？「キェェェェェェェアァァァァァァァ！！！」%K%P
+??「KYAAAAAAAAAAAAAAAAAAAAA!!!」%K%P
+0x36F0
+背後から聞こえた凄まじい叫び声に、オレと遙は振り向いた。%K%P
+Haruka and I turn around upon hearing this bloodcurdling%Nscream from behind us.%K%P
+0x36FC
+？？「うわ〜〜〜〜〜んっ！！」%K%P
+??「WAAAAAAAAAAAHHHHHH!!」%K%P
+0x3708
+泣き声をあげながら、こちらに向かって猛スピードで駆け寄って来る黒い影は……%K%P
+As the crying gets louder, we see a black shadow%Nrunning towards us with great speed...%K%P
+0x371C
+……優夏だった。%K%P
+... It's Yuka.%K%P
+0x3728
+誠「ど、どうした、優夏！？」%K%P
+Makoto「Wh-What's wrong, Yuka!?」%K%P
+0x3734
+優夏「く、く、く、く、く、く、く……」%K%P
+Yuka「H-H-H-H-H-H...」%K%P
+0x3740
+誠「とにかく落ち着け！」%K%P
+Makoto「Calm down!」%K%P
+0x374C
+オレは優夏の両肩をしっかりとつかんで、彼女を%Nなだめた。%K%P
+I firmly grasp Yuka's shoulders, and calm her down.%K%P
+0x3760
+優夏「く、くび、くび、くび……」%K%P
+Yuka「H-He-Head-Head...」%K%P
+0x376C
+誠「くびぃ？？」%K%P
+Makoto「Head??」%K%P
+0x3778
+と、そこに……%K%P
+Soon enough...%K%P
+0x3794
+いづみ「はぁはぁ……もう、優夏ちゃん、急に走り出さないでよぉー！」%K%P
+Izumi「Haah, haah... Geez, don't go running off without a word,%NYuka-chan!」%K%P
+0x37A0
+……優夏とペアを組んでいたいづみさんが、%N息を切らしながらやって来た。%K%P
+... Izumi, who was paired with Yuka, comes up to us, quite%Nout of breath.%K%P
+0x37AC
+いづみ「あれは犬！　……草むらから子犬が首を出した%Nだけでしょ？」%K%P
+Izumi「That was a dog! ... It was just a puppy sticking its head%Nout of the bushes!」%K%P
+0x37B8
+子犬……？　こんな墓場の中に、子犬がねぇ……。%K%P
+A puppy...? To think there'd be a puppy in this%Ngraveyard...%K%P
+0x37C4
+……って言うか、そんなもんに驚くなよ、優夏……！%K%P
+... Wait a minute, that's what scared Yuka...!?%K%P

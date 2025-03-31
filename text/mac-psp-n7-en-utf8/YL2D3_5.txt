@@ -1,0 +1,153 @@
+text area offset and size:
+0x4F8
+0x7D6
+0x9C
+真夜中の誰もいない温泉……。%K%P
+The hot spring is completely empty in the middle of the%Nnight...%K%P
+0xA8
+（この寂寥感あふれる光景も、なかなか趣きがあっていいかもしれないなぁ……）%K%P
+(But it's rather charming, despite how desolate it looks...)%K%P
+0xB4
+ここに来て、オレは考えを改めた。%K%P
+Coming here has distracted me from my thoughts.%K%P
+0xC0
+服を豪快に脱ぎ捨てたオレは、腰にタオルを%N巻きつけ、湯船に向かって歩いて行く。%K%P
+I enthusiastically throw off my clothes, wrap a towel%Naround my waist, and start walking towards the springs.%K%P
+0xCC
+すると……%K%P
+Just then...%K%P
+0x13C
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x148
+誠「あ……優夏」%K%P
+Makoto「Ah... Yuka.」%K%P
+0x15C
+優夏「きゃーーーーーーーっ！！！」%K%P
+Yuka「KYAAAAAAA!!!」%K%P
+0x168
+誠「ぐわぁーーーーーーっ！！！」%K%P
+Makoto「GWAAAAAAAH!!!」%K%P
+0x190
+優夏「な、なにやってんのよ、誠！」%K%P
+Yuka「Wh-What are you doing, Makoto!?」%K%P
+0x19C
+誠「それはこっちのセリフだよ！」%K%P
+Makoto「I could be asking you the same thing!」%K%P
+0x1A8
+優夏「のぞきにきたんでしょ！？」%K%P
+Yuka「You were peeking, weren't you!?」%K%P
+0x1B4
+誠「バ、バカ！　そんな訳ないだろ！？」%K%P
+Makoto「I-Idiot! It's not like that at all!」%K%P
+0x1C0
+優夏「…………………………」%K%P
+Yuka「...」%K%P
+0x1CC
+誠「…………………………」%K%P
+Makoto「...」%K%P
+0x1D8
+優夏「…………………………」%K%P
+Yuka「...」%K%P
+0x1E4
+誠「………………………？」%K%P
+Makoto「...?」%K%P
+0x230
+優夏「まっ、いっかぁ♪」%K%P
+Yuka「Well, whatever♪」%K%P
+0x23C
+ええっ！？　い、いいの！？%K%P
+Huuuh!? R-Really!?%K%P
+0x248
+その言葉に、オレは不覚にも狼狽してしまった。%K%P
+Those words completely baffle me.%K%P
+0x254
+だって優夏は、バスタオル１枚しか身につけていないわけで……。%K%P
+Because Yuka only has one bath towel on...%K%P
+0x260
+そしてオレも、腰に薄っぺらいタオルを巻いている%Nだけだったし……。%K%P
+And I also only have a very thin towel wrapped around%Nmy waist...%K%P
+0x26C
+しかも、今は真夜中……。%K%P
+Furthermore, it's the dead of night right now...%K%P
+0x278
+この人里離れた温泉に、オレと優夏は２人きり……。%K%P
+Yuka and I are all alone in this hot spring in the middle of%Nnowhere...%K%P
+0x284
+優夏「ほらっ……そんなとこ突っ立ってたら風邪%Nひいちゃうよ？」%K%P
+Yuka「Come on... if you stand in a place like that, you'll catch a%Ncold.」%K%P
+0x290
+優夏「一緒に、はいろっ？」%K%P
+Yuka「Why don't we go in together?」%K%P
+0x29C
+優夏は笑顔で、オレを誘っている。%K%P
+Yuka invites me with a smile.%K%P
+0x2A8
+誘っている……？%K%P
+Inviting me...?%K%P
+0x2B4
+（……ほ、ほんとに……いいのか？）%K%P
+(... I-Is this really... all right?)%K%P
+0x2C0
+オレは、体中のいろいろな場所を硬直させながら、ゆっくりと湯船に近づいて行った……。%K%P
+I slowly approach the hot spring as my body stiffens in%Nvarious places.%K%P
+0x2CC
+と、その時。%K%P
+And just then...%K%P
+0x2D8
+──パサリ……。%K%P
+―Whoosh...%K%P
+0x2E4
+何かが落ちた……。%K%P
+Something falls...%K%P
+0x32C
+優夏の顔が、瞬く間に険しくなっていく。%K%P
+Yuka's face starts to grow grim.%K%P
+0x338
+誠「ん？　どうした？」%K%P
+Makoto「Hmm? What's wrong?」%K%P
+0x344
+優夏「ちょっと……誠……」%K%P
+Yuka「Umm... Makoto...」%K%P
+0x350
+誠「ん？」%K%P
+Makoto「Hmm?」%K%P
+0x35C
+優夏「たっ、たっ、たっ……」%K%P
+Yuka「Y-Y-Y...」%K%P
+0x368
+誠「……？」%K%P
+Makoto「...?」%K%P
+0x374
+優夏「タオル！」%K%P
+Yuka「Your towel!」%K%P
+0x380
+誠「タオル？？？」%K%P
+Makoto「My towel???」%K%P
+0x3A8
+指摘され、いまさらながら気がついた。%K%P
+Now that she's pointed it out, I finally notice.%K%P
+0x3B4
+腰に巻いていたタオルを、いつの間にか落として%Nしまっていたことに……。%K%P
+The towel wrapped around my waist has fallen off without%Nme noticing...%K%P
+0x3C0
+誠「ぐはっ！！！！！！！」%K%P
+Makoto「GWAAA!!!!!!!」%K%P
+0x3CC
+オレは慌てふためきながら脱いだ服をひっつかむと、そのまま一目散に逃げ出した。%K%P
+While panicking, I quickly grab my clothes on the ground,%Nand run away as fast as I can.%K%P
+0x414
+部屋に逃げ帰ったオレは、裸のまま布団をかぶって%N目を閉じた。%K%P
+Having scurried back to my room, I get into my bed, still%Nnaked, throw the covers over me, and shut my eyes.%K%P
+0x420
+（ったく優夏のやつ……）%K%P
+(Geez, Yuka...)%K%P
+0x42C
+お湯には一滴も浸かっていなかったが、体は%Nほてるように熱かった……。%K%P
+I didn't get any hot water on me, but my whole body feels%Nhot, like it's burning...%K%P
+0x438
+（オレもまだまだ純情なのかもしれないな……）%K%P
+(I guess that means I've still got a pure heart...)%K%P
+0x444
+（そう……いろいろな意味で……）%K%P
+(Yeah... that's right...)%K%P

@@ -1,0 +1,867 @@
+text area offset and size:
+0x1B88
+0x3140
+0x17C
+１０時を過ぎた頃……話し疲れたくるみは、眠たそうに目をこすりながら、ルナビーチの２階へとあがって行った。%K%P
+It's past 10:00... Kurumi got tired of talking, as she%Nheaded up to Lunabeach's second floor while rubbing%Nher sleepy eyes.%K%P
+0x188
+前と同じように、いづみさんと２人っきりの状況が生まれる。%K%P
+Like last time, Izumi-san and I find ourselves all alone.%K%P
+0x194
+オレは、すぐにロッジに帰るつもりでいた。%K%P
+I plan on going back to the lodge soon.%K%P
+0x1A0
+ここにいると……まさかとは思うが……あの日と同じ事になるかもしれないと思ったからだ。%K%P
+If I stay here... Well, I don't think it's as likely, but... I think%Nthe same thing as the last time I was in this situation%Nmight happen again.%K%P
+0x1AC
+何度も何度も暇乞いを切り出そうと思ったが、しかしキッカケがうまくつかめなかった。%K%P
+I repeatedly tell myself that I need to say goodbye to%Nher and leave, but I keep feeling like the timing isn't%Nexactly right.%K%P
+0x1B8
+いづみさんは、延々と他愛無い話を続けた……。%K%P
+Instead, we continue to chatter on about trivial things...%K%P
+0x1C4
+まるでいづみさんまで、何かのキッカケをつかもうとしているかに見えた。%K%P
+It's as if even Izumi-san herself is trying to wait for some%Nkind of timing as well.%K%P
+0x1D0
+くるみが眠りについてから、ちょうど２時間が経とうとしている。%K%P
+Exactly two hours have passed since Kurumi went up to%Ngo to sleep.%K%P
+0x1DC
+オレの腕時計の日付表示は、既に６日に変わっていた……。%K%P
+The date display on my watch has already changed to%Nthe 6th...%K%P
+0x244
+誠「じゃあオレ……そろそろ失礼します」%K%P
+Makoto「Well then... it's about time I get going.」%K%P
+0x250
+オレは立ち上がろうとした。%K%P
+I try to stand up.%K%P
+0x264
+いづみ「誠くん……！」%K%P
+Izumi「Makoto-kun...!」%K%P
+0x270
+いづみさんが慌てたように、オレを引き止めた。%K%P
+Izumi-san frantically restrains me.%K%P
+0x27C
+誠「な、なんですか？」%K%P
+Makoto「Wh-What is it?」%K%P
+0x288
+いづみ「誠くん……今日の話の続き……聞かせてもらえないかなぁ？」%K%P
+Izumi「Makoto-kun... I'm wondering if you could tell me... the rest%Nof that story?」%K%P
+0x2BC
+心臓が大きく鳴った。%K%N
+My heart beats loudly.%K%N
+0x2C8
+嫌な予感がする……。%K%N
+I have a bad feeling about this...%K%N
+0x2D4
+とてつもなく嫌な予感が……。%K%P
+A very bad feeling...%K%P
+0x2F8
+誠「いづみさん。ほんとにオレ、もう帰らなくちゃっ」%K%P
+Makoto「Izumi-san, I really need to get ba-」%K%P
+0x30C
+いづみ「誠くん……知ってたの？%Nくるみの傷のこと……」%K%P
+Izumi「Makoto-kun... did you know about Kurumi's scar...?」%K%P
+0x318
+誠「その話は、明日するから！」%K%P
+Makoto「We can talk about that tomorrow!」%K%P
+0x33C
+いづみ「くるみが実の妹だって……どうしてあの時、そう言い切ったの？」%K%P
+Izumi「'Kurumi is my real sister'... Why did you declare that back%Nthen?」%K%P
+0x348
+誠「いづみさん！」%K%P
+Makoto「Izumi-san!」%K%P
+0x354
+オレはすぐに、店の階段の方を窺った。%K%N
+I immediately glance towards the shop's stairway.%K%N
+0x360
+大丈夫だ……。まだくるみは下りて来ていない……。%K%P
+It's all right... Kurumi still hasn't come down yet...%K%P
+0x36C
+オレは小さな声で……%K%P
+I lower my voice...%K%P
+0x378
+誠「くるみに聞かれたらどうするんだよ！？」%K%P
+Makoto「What would you do if Kurumi heard!?」%K%P
+0x384
+……そう強く訴えた。%K%P
+... and scold her.%K%P
+0x390
+オレの言葉に、いづみさんも階段の方を見て……。%K%P
+Alarmed, Izumi-san also looks towards the staircase...%K%P
+0x39C
+いづみ「大丈夫よ……。あの子、１度寝たら絶対に起きないから」%K%P
+Izumi「It's all right... once she sleeps, she definitely won't wake%Nup.」%K%P
+0x3A8
+誠「そんなことないよ！　前だって……」%K%P
+Makoto「That's not true! Last time-」%K%P
+0x3B4
+いづみ「前だって……？」%K%P
+Izumi「Last time...?」%K%P
+0x3C0
+苛立ちが増す。%K%N
+I'm getting very irritated.%K%N
+0x3CC
+全て言ってしまいたい──そんな衝動を懸命にこらえた。%K%P
+Just tell her everything―I'm doing everything in my%Npower to resist that impulse.%K%P
+0x3E0
+いづみ「ねえ？　なんで断言できるの？」%K%P
+Izumi「Hey? How could you say that without any doubts?」%K%P
+0x3EC
+いづみ「教えてよ、誠くん！　私も知りたいのよ！　真実を！」%K%P
+Izumi「Tell me, Makoto-kun! I want to know the truth too!」%K%P
+0x3F8
+誠「……………………」%K
+Makoto「...」%K
+0x1B30
+全部話す
+Tell her everything.
+0x1B3C
+無視して立ち上がる
+Ignore her and stand up.
+0x440
+誠「わかりました……。全部話します……」%K%P
+Makoto「I understand... I'll tell you everything...」%K%P
+0x44C
+オレは決心した。%K%P
+I've resolved myself.%K%P
+0x458
+誠「でも、ここで話すわけにはいかないから……。一緒に、来てもらえますか？」%K%P
+Makoto「But there's no way we can talk about it here... Will you%Ncome with me?」%K%P
+0x46C
+いづみさんは、黙ってうなずいた。%K%P
+Izumi-san silently nods.%K%P
+0x4E4
+オレといづみさんは、月浜の真ん中へと歩いて来た。%K%P
+Izumi-san and I walk to the center of Moon Beach.%K%P
+0x4F0
+さすがにここまで来れば、くるみに話を聞かれることもないだろう。%K%P
+If we go this far, then there's probably no way Kurumi%Ncould hear us talking.%K%P
+0x4FC
+誰もいない寂しげな浜。%K%P
+The beach is empty, being completely devoid of people%Nexcept for us.%K%P
+0x508
+ひんやりと冷たい夜風に吹かれながら、オレはゆっくりと話し始めたのだった……。%K%P
+I slowly begin to talk as the cold night wind blows by...%K%P
+0x514
+誠「いづみさんの話……まとめると、こう言うことになるよね？」%K%P
+Makoto「After hearing your story... this is how I would sum it up.」%K%P
+0x520
+誠「くるみが産まれたのは、今から２１年前だった。そして生後１ヶ月の頃に、何者かの手によって誘拐された」%K%P
+Makoto「Kurumi was born 21 years ago, and one month later,%Nsomeone kidnapped her.」%K%P
+0x52C
+いづみ「ええ……」%K%P
+Izumi「Yes...」%K%P
+0x538
+誠「誘拐犯は、犯行に及んでから７日後に、あの司紀杜神社の倒壊事故によって息絶え……」%K%P
+Makoto「Seven days after the crime was committed, the%Nkidnapper died when the Shiki no Mori Shrine was%Ndestroyed...」%K%P
+0x544
+誠「……それから３年後、くるみは再建された神社で発見された」%K%P
+Makoto「... And three years later, Kurumi was discovered in the%Nrebuilt shrine.」%K%P
+0x550
+誠「しかし体は、何故か誘拐されたときのまま……全く成長していなかった」%K%P
+Makoto「But, for some reason, her body was the same as when%Nshe had been kidnapped... She hadn't aged at all.」%K%P
+0x55C
+誠「だからいづみさんは、その赤ん坊が確かにくるみだったという自信が持てずにいる……そうでしょ？」%K%P
+Makoto「That's why you have doubts that the baby was the real%NKurumi... am I right?」%K%P
+0x570
+いづみ「ええ……そうよ……」%K%P
+Izumi「Yes... that's right...」%K%P
+0x57C
+誠「だけどね、いづみさん？　その赤ん坊は、間違いなく『くるみ』なんだよ！」%K%P
+Makoto「But you know, what, Izumi-san? That baby was definitely%N'Kurumi'!」%K%P
+0x588
+誠「くるみの背中の傷──それが何よりの証拠だ」%K%P
+Makoto「The scar on Kurumi's back―that's the biggest proof%Nof all.」%K%P
+0x59C
+いづみ「え……？　傷……？　あの傷が……証拠に？」%K%P
+Izumi「Huh...? The scar...? That scar is... the proof?」%K%P
+0x5A8
+深くうなずいて答えながら、オレはこう続けた。%K%P
+I firmly nod in reply as I continue.%K%P
+0x5B4
+誠「神社の倒壊事故が起きたとき……きっとくるみも、その誘拐犯と一緒にいたんだよ……」%K%P
+Makoto「When that shrine was destroyed... Kurumi was definitely%Nalso in there with the kidnapper...」%K%P
+0x5C0
+誠「くるみの傷は、その事故のときに負ったものなんだ……」%K%P
+Makoto「Kurumi received that scar from the incident...」%K%P
+0x5D4
+いづみ「……？」%K%P
+Izumi「...?」%K%P
+0x5E0
+誠「つまり……」%K%P
+Makoto「In other words...」%K%P
+0x5EC
+誠「──くるみはタイムスリップしたんだよ！%N３年後の未来に！」%K%P
+Makoto「―Kurumi time traveled three years into the future!」%K%P
+0x600
+いづみ「……え？」%K%P
+Izumi「... What?」%K%P
+0x60C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x620
+いづみ「誠くん…………からかってるの？」%K%P
+Izumi「Makoto-kun... are you mocking me?」%K%P
+0x62C
+誠「い、いづみさん！」%K%P
+Makoto「I-Izumi-san!」%K%P
+0x640
+いづみ「……冗談にも……冗談にもほどがあるわよ？」%K%P
+Izumi「... Was that... Was that nothing more than a joke?」%K%P
+0x64C
+誠「冗談なんかじゃないんだ！%N本気で言ってるんだよ、オレは！」%K%P
+Makoto「I'm not joking! I'm being completely serious here!」%K%P
+0x670
+いづみ「……………………」%K%P
+Izumi「...」%K%P
+0x67C
+誠「信じて、くれないんですか？」%K%P
+Makoto「You won't believe me?」%K%P
+0x688
+いづみ「……………………」%K%P
+Izumi「...」%K%P
+0x694
+誠「でもタイムスリップはほんとにっ」%K%P
+Makoto「But I'm telling the truth about the time tra-」%K%P
+0x6A8
+いづみ「わかった……。もうわかったわよ……誠くん」%K%P
+Izumi「I understand... I understand already... Makoto-kun.」%K%P
+0x6B4
+いづみ「ありがとう……」%K%P
+Izumi「Thank you...」%K%P
+0x6C8
+いづみ「私のこと、安心させてくれようとしたんでしょ？」%K%P
+Izumi「You were trying to give me peace of mind, weren't you?」%K%P
+0x6D4
+誠「違うよ、いづみさん！」%K%P
+Makoto「You're wrong, Izumi-san!」%K%P
+0x6E8
+いづみ「もういいの……。%Nほんとに……わかったから……」%K%P
+Izumi「That's enough... I really... understand, so...」%K%P
+0x6F4
+誠「いづみさん……」%K%P
+Makoto「Izumi-san...」%K%P
+0x700
+いづみさんは肩を落としていた。%K%N
+Izumi-san's shoulders drop.%K%N
+0x70C
+うつむきながら、オレのもとを去って行く。%K%P
+She passes by me while keeping her head down.%K%P
+0x718
+（やっぱり……信じてもらえなかった……）%K%P
+(So she didn't... believe me after all...)%K%P
+0x724
+けれど、それも仕方のないことだと思う。%K%N
+But it's something that can't be helped.%K%N
+0x730
+こんな奇妙でおかしな話を、いったい誰が信じてくれよう！%K%P
+Who the hell would believe such a strange, ridiculous%Nstory anyway!?%K%P
+0x73C
+オレだって、自分自身でタイムスリップを経験していなかったら、こんな戯言には耳も貸さなかった筈だ。%K%P
+Even I myself would have thought it was complete bullshit%Nif I hadn't personally experienced time travel myself.%K%P
+0x748
+苛立たしさを通り越して、もはやオレは全てを諦めきっていた。%K%N
+I'm beyond irritated, but I've already given up on%Neverything.%K%N
+0x754
+オレの話を信用してくれる者なんか、誰もいやしないのだ……。%K%P
+There's no one who will believe my story...%K%P
+0x7B0
+ルナビーチのドアの前で、いづみさんはオレのことを待っていた。%K%P
+Izumi-san is waiting for me by the front door to%NLunabeach.%K%P
+0x7BC
+オレはいづみさんに……%K%P
+I...%K%P
+0x7C8
+誠「おやすみなさい……」%K%P
+Makoto「Goodnight...」%K%P
+0x7D4
+……ひと言だけ告げて、その場を立ち去ろうとした。%K%P
+... just say that word to Izumi-san, and try to take my%Nleave.%K%P
+0x7E0
+いづみ「誠くん……」%K%P
+Izumi「Makoto-kun...」%K%P
+0x7EC
+背中に寂しげな言葉を聞き、すっと振り返る。%K%P
+I turn around to face her.%K%P
+0x800
+いづみ「誠くん……心配しないでも、私は大丈夫よ」%K%P
+Izumi「Makoto-kun... don't worry, I'll be fine.」%K%P
+0x80C
+ふと、いづみさんの肩越しに、何かが動いた……。%K%P
+Suddenly, I see something moving from over Izumi-san's%Nshoulder...%K%P
+0x820
+いづみ「昨日も言ったけど……」%K%P
+Izumi「It's as I said yesterday...」%K%P
+0x82C
+店のドア──そのガラスの向こうに……。%K%P
+The shop's door―on the other side of that glass%Ndoor...%K%P
+0x838
+いづみ「くるみのこと……私は本当の妹だと思ってる」%K%P
+Izumi「I think of Kurumi... as my real sister.」%K%P
+0x844
+人影%W%W…………………………。%K%P
+A person...%K%P
+0x858
+いづみ「たとえ親が違っても……」%K%P
+Izumi「Even if we have different parents...」%K%P
+0x864
+誠「い…………いづみさん……」%K%P
+Makoto「I... Izumi-san...」%K%P
+0x870
+いづみ「そんなこと、関係無いの……」%K%P
+Izumi「That has nothing to do with it...」%K%P
+0x87C
+誠「いづみさんっ！！」%K%P
+Makoto「Izumi-san!!」%K%P
+0x890
+いづみ「血の繋がりなんか、関係ないの！」%K%P
+Izumi「It has nothing to do with being related by blood!」%K%P
+0x89C
+いづみ「むしろ、血を分けた姉妹じゃないからこそっ」%K%P
+Izumi「Rather, it's because we're not blood related sisters%Nthat-」%K%P
+0x8E0
+──突然の物音。%K%P
+―A sudden noise.%K%P
+0x8F4
+その音に、飛び退くようにいづみさんが振り向く。%K%P
+That sound causes Izumi-san to jump back as she turns%Naround.%K%P
+0x900
+（まさか……）%K%P
+(No way...)%K%P
+0x93C
+オレはいづみさんを押し退けて、素早く店のドアを開いた。%K%P
+I brush past Izumi-san, and quickly open the door.%K%P
+0x950
+いづみ「く……くるみ……」%K%P
+Izumi「K... Kurumi...」%K%P
+0x95C
+鼓動が、止まった。%K%P
+My heart stops.%K%P
+0x968
+くるみ「ほんと？」%K%P
+Kurumi「Is it true?」%K%P
+0x974
+くるみ「ほんとなの？」%K%P
+Kurumi「Is it really true?」%K%P
+0x980
+いづみ「…………………………」%K%P
+Izumi「...」%K%P
+0x98C
+くるみ「くるみは、お姉ちゃんの妹じゃ……ないの？」%K%P
+Kurumi「Kurumi isn't Onee-chan's... sister?」%K%P
+0x998
+誠「違う！　くるみといづみさんはっ」%K%P
+Makoto「You're wrong! You and Izumi-san are-」%K%P
+0x9AC
+くるみ「嘘つき……」%K%P
+Kurumi「You liar...」%K%P
+0x9B8
+くるみ「みんな……みんな……くるみのことを騙して……」%K%P
+Kurumi「Everyone... Everyone... is deceiving Kurumi...」%K%P
+0x9C4
+誠「くるみ！　頼むから話をっ」%K%P
+Makoto「Kurumi! Please, listen to-」%K%P
+0x9D8
+くるみ「嘘つきぃー！！」%K%P
+Kurumi「YOU LIAR!!」%K%P
+0xA08
+振り向いたくるみが、ルナビーチの中へと駆け込む。%K%P
+Kurumi turns around, and rushes right into Lunabeach.%K%P
+0xA14
+誠「くるみ！」%K%P
+Makoto「Kurumi!」%K%P
+0xA74
+床を思い切り蹴飛ばして追いかけた。%K%P
+I run as fast as I can after her.%K%P
+0xA9C
+イスやテーブルをなぎ倒すようにして、くるみは店の中を駆け抜けて行く……。%K%P
+Kurumi runs right through the shop while mowing down the%Nchairs and tables...%K%P
+0xAA8
+行き止まりのテラスで、くるみはためらうことなく月浜に飛んだ。%K%P
+The terrace seems to be a dead end, but Kurumi jumps%Ndown off of it onto Moon Beach without hesitation.%K%P
+0xAD0
+すぐに、オレも手すりを飛び越える……。%K%P
+I also immediately jump over the handrail...%K%P
+0xD04
+──グキッ！%K%N
+―Wham!%K%N
+0xD10
+激痛が体を駆け抜けた！%K%N
+Intense pain runs through my body!%K%N
+0xD1C
+砂の傾斜に足をひねったのだ。%K%P
+A dip in the sand has twisted my ankle.%K%P
+0xD28
+隣には、両ヒザを着いたくるみの姿があった。%K%N
+Next to me is Kurumi, who's sitting on her knees.%K%N
+0xD34
+立ち上がるくるみ……オレはその肩をガッシリと捕まえた。%K%P
+She stands up... and I grab her firmly by the shoulders.%K%P
+0xD80
+くるみは泣いている。%K%P
+Kurumi is crying.%K%P
+0xD8C
+その瞳から、ぽろぽろぽろぽろと大粒の涙がこぼれ落ちていく……。%K%P
+Large teardrops begin to pour out of her eyes...%K%P
+0xD98
+手の平で、拭っても拭っても、なお涙はあふれた。%K%P
+She keeps wiping them away with her palms, but more%Ntears just keep on coming.%K%P
+0xDA4
+くるみ「みんな……みんな……くるみのこと……騙して……」%K%P
+Kurumi「Everyone... everyone... is deceiving... Kurumi...」%K%P
+0xDB0
+誠「違うんだ、くるみ！　オレの話を聞け！」%K%P
+Makoto「You're wrong, Kurumi! Listen to me!」%K%P
+0xDBC
+オレは激しくくるみの肩を揺すった。%K%N
+I firmly shake Kurumi by the shoulders.%K%N
+0xDC8
+オレの怒鳴り声にひるむくるみ……。%K%P
+Kurumi flinches from my shouts...%K%P
+0xDD4
+だけど……いったいどう説明すれば……！？%K
+But... just how should I explain this!?%K
+0x1B48
+タイムスリップの事を話そう
+Tell her about the time travel.
+0x1B54
+それ以外の方法で、何とか……
+There has to be another method...
+0xE14
+誠「いいか？　よく聞けよ、くるみ？」%K%P
+Makoto「All right? Listen closely, Kurumi.」%K%P
+0xE20
+くるみは鳴咽だけを続けている。%K%P
+Kurumi only continues to cry.%K%P
+0xE2C
+視界の片隅には、オープンテラスで茫然と立ち尽くすいづみさんの姿があった。%K%P
+In the corner of my field of vision, I see a dumbfounded%NIzumi-san standing on the terrace.%K%P
+0xE38
+誠「くるみといづみさんは、血の繋がった、本当の姉妹だ」%K%P
+Makoto「You and Izumi-san are true blood related sisters.」%K%P
+0xE44
+誠「くるみはあの神社で……」%K%P
+Makoto「Kurumi, you time traveled...」%K%P
+0xE50
+誠「……タイムスリップしたんだよ！」%K%P
+Makoto「... from that shrine!」%K%P
+0xE5C
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0xE68
+誠「背中の傷が……その証しだ」%K%P
+Makoto「The scar on your back... is the proof.」%K%P
+0xE74
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0xE80
+誠「あの神社の倒壊事故が起きたとき、くるみはそこにっ」%K%P
+Makoto「During the incident where that shrine collapsed, you%Nwere the-」%K%P
+0xE8C
+くるみ「お兄ちゃん……」%K%P
+Kurumi「Onii-chan...」%K%P
+0xE98
+くるみ「神社って……なに……？」%K%P
+Kurumi「What... shrine...?」%K%P
+0xEA4
+誠「あ、ああ……だからっ」%K%P
+Makoto「R-Right... like I was saying-」%K%P
+0xEB0
+くるみ「事故って……？」%K%P
+Kurumi「What 'incident'...?」%K%P
+0xEBC
+誠「それはだから……」%K%P
+Makoto「That is...」%K%P
+0xEC8
+くるみ「お兄ちゃん……わかんないよ……」%K%P
+Kurumi「Onii-chan... Kurumi doesn't understand...」%K%P
+0xED4
+くるみ「タイムスリップって……？」%K%P
+Kurumi「'Time travel'...?」%K%P
+0xEE0
+誠「そうだ。だからおまえは、タイムスリップして……」%K%P
+Makoto「That's right. Like I was saying, you time traveled...」%K%P
+0xEEC
+くるみ「どうして……？」%K%P
+Kurumi「Why...?」%K%P
+0xEF8
+誠「……え？」%K%P
+Makoto「... Huh?」%K%P
+0xF04
+くるみ「どうしてそんな……嘘つくの……？」%K%P
+Kurumi「Why are... you lying like that...?」%K%P
+0xF10
+誠「嘘なんかじゃない！」%K%P
+Makoto「It's not a lie!」%K%P
+0xF1C
+くるみ「くるみなら……騙せると……思ったの？」%K%P
+Kurumi「Did you think... you could deceive... Kurumi?」%K%P
+0xF28
+誠「違う！　違うよ、くるみ！%Nオレを信じてくれ！」%K%P
+Makoto「You're wrong! You're wrong, Kurumi! Trust me!」%K%P
+0xF34
+くるみ「そんな話、信じれるわけないよ！」%K%P
+Kurumi「There's no way Kurumi would believe a story like that!」%K%P
+0xF40
+誠「くるみ……」%K%P
+Makoto「Kurumi...」%K%P
+0xF54
+誠「いいか？　よく聞けよ、くるみ？」%K%P
+Makoto「All right? Listen closely, Kurumi.」%K%P
+0xF60
+くるみは鳴咽だけを続けている。%K%P
+Kurumi only continues to cry.%K%P
+0xF6C
+視界の片隅には、オープンテラスで茫然と立ち尽くすいづみさんの姿があった。%K%P
+In the corner of my field of vision, I see a dumbfounded%NIzumi-san standing on the terrace.%K%P
+0xF78
+誠「くるみといづみさんは、血の繋がった、本当の姉妹だ」%K%P
+Makoto「You and Izumi-san are true blood related sisters.」%K%P
+0xF84
+くるみ「………………」%K%P
+Kurumi「...」%K%P
+0xF90
+くるみ「お兄ちゃん……どうして……？」%K%P
+Kurumi「Onii-chan... why...?」%K%P
+0xF9C
+誠「え……？」%K%P
+Makoto「Huh...?」%K%P
+0xFA8
+くるみ「お兄ちゃんに、どうしてそんなことが分かるの？」%K%P
+Kurumi「Onii-chan, why do you know that?」%K%P
+0xFB4
+誠「そ、それは……だからっ」%K%P
+Makoto「Th-That's... because-」%K%P
+0xFC8
+オレは何も言わずに立ち上がった。%K%P
+I say nothing and stand up.%K%P
+0xFD4
+いづみさんには悪いが、ここは無視してでも立ち去るしかない。%K%P
+I feel bad for Izumi-san, but all I can do is ignore her and%Nset out to leave.%K%P
+0xFE0
+だがしかし……。%K%P
+However...%K%P
+0xFF4
+いづみ「本当に、くるみと私に……」%K%P
+Izumi「Are Kurumi and I...」%K%P
+0x1000
+誠「いづみさん！！」%K%P
+Makoto「Izumi-san!!」%K%P
+0x100C
+いづみ「血の繋がりが……」%K%P
+Izumi「Really blood related...」%K%P
+0x1018
+誠「！！！」%K%P
+Makoto「!!!」%K%P
+0x1024
+いづみ「あるのかどうか……」%K%P
+Izumi「Or not...?」%K%P
+0x1068
+いづみ「く……くるみ……」%K%P
+Izumi「K... Kurumi...」%K%P
+0x1074
+鼓動が、止まった。%K%P
+My heart stops.%K%P
+0x1080
+くるみ「ほんと？」%K%P
+Kurumi「Is it true?」%K%P
+0x108C
+くるみ「ほんとなの？」%K%P
+Kurumi「Is it really true?」%K%P
+0x1098
+いづみ「…………………………」%K%P
+Izumi「...」%K%P
+0x10A4
+くるみ「くるみは、お姉ちゃんの妹じゃ……ないの？」%K%P
+Kurumi「Kurumi isn't Onee-chan's... sister?」%K%P
+0x10B0
+誠「違う！　くるみといづみさんはっ」%K%P
+Makoto「You're wrong! You and Izumi-san are-」%K%P
+0x10BC
+くるみ「嘘つき……」%K%P
+Kurumi「You liar...」%K%P
+0x10C8
+くるみ「みんな……みんな……%Nくるみのこと騙して……」%K%P
+Kurumi「Everyone... everyone... is deceiving Kurumi...」%K%P
+0x10D4
+誠「くるみ！　頼むから話をっ」%K%P
+Makoto「Kurumi! Please, listen to-」%K%P
+0x10E0
+くるみ「嘘つきぃー！！」%K%P
+Kurumi「YOU LIAR!!」%K%P
+0x1154
+くるみがルナビーチを飛び出して行く！%K%P
+Kurumi runs out of Lunabeach!%K%P
+0x1160
+誠「くるみっ」%K%P
+Makoto「Kurumi!」%K%P
+0x116C
+オレはためらいもなく手すりを飛び越え、月浜へと飛んだ。%K%N
+Without hesitating, I jump over the handrail onto Moon%NBeach.%K%N
+0x1178
+そう！　先回りする為に！%K%P
+That's right! I'll get there before she does!%K%P
+0x13AC
+──グキッ！%K%N
+―Wham!%K%N
+0x13B8
+激痛が体を駆け抜けた！%K%N
+Intense pain runs through my body!%K%N
+0x13C4
+砂の傾斜に足をひねったのだ。%K%P
+A dip in the sand has twisted my ankle.%K%P
+0x13D0
+と、そこに、店の脇を回り込んで来たくるみの姿。%K%P
+I then see Kurumi as she rounds the side of the shop,%Ncoming close.%K%P
+0x13DC
+ちょうど正面に駆けて来たくるみの肩をガッシリと捕まえた。%K%P
+She runs directly in front of me, giving me the chance for%Nme to grab her by the shoulders.%K%P
+0x1428
+くるみは泣いている。%K%P
+Kurumi is crying.%K%P
+0x1434
+その瞳から、ぽろぽろぽろぽろと大粒の涙がこぼれ落ちていく……。%K%P
+Large teardrops begin to pour out of her eyes...%K%P
+0x1440
+手の平で、拭っても拭っても、なお涙はあふれた。%K%P
+She keeps wiping them away with her palms, but more%Ntears just keep on coming.%K%P
+0x144C
+くるみ「みんな……みんな……くるみのこと……騙して……」%K%P
+Kurumi「Everyone... everyone... is deceiving... Kurumi...」%K%P
+0x1458
+誠「違うんだ、くるみ！　オレの話を聞け！」%K%P
+Makoto「You're wrong, Kurumi! Listen to me!」%K%P
+0x1464
+オレは激しくくるみの肩を揺すった。%K%N
+I firmly shake Kurumi by the shoulders.%K%N
+0x1470
+オレの怒鳴り声にひるむくるみ……。%K%P
+Kurumi flinches from my shouts...%K%P
+0x147C
+だけど、一体どう説明すれば……？%K
+But... just how should I explain this!?%K
+0x1B60
+タイムスリップの事を話そう
+Tell her about the time travel.
+0x1B6C
+それ以外の方法で、何とか……
+There has to be another method...
+0x14BC
+誠「いいか？　よく聞けよ、くるみ？」%K%P
+Makoto「All right? Listen closely, Kurumi.」%K%P
+0x14C8
+くるみは鳴咽だけを続けている。%K%P
+Kurumi only continues to cry.%K%P
+0x14D4
+視界の片隅には、オープンテラスで茫然と立ち尽くすいづみさんの姿があった。%K%P
+In the corner of my field of vision, I see a dumbfounded%NIzumi-san standing on the terrace.%K%P
+0x14E0
+誠「くるみといづみさんは、血の繋がった、本当の姉妹だ」%K%P
+Makoto「You and Izumi-san are true blood related sisters.」%K%P
+0x14EC
+誠「それをこれから、説明する」%K%P
+Makoto「As for how, I will explain that now.」%K%P
+0x14F8
+誠「くるみは今から２１年前に産声をあげた」%K%P
+Makoto「Kurumi, you were born 21 years ago.」%K%P
+0x1504
+誠「そして生後１ヶ月の頃に、何者かの手によって誘拐された」%K%P
+Makoto「And one month later, someone kidnapped you.」%K%P
+0x1510
+誠「誘拐犯は、犯行に及んでから７日後に、あの司紀杜神社の倒壊事故によって息絶えてしまった」%K%P
+Makoto「Seven days after the crime was committed, the%Nkidnapper died when the Shiki no Mori Shrine was%Ndestroyed.」%K%P
+0x151C
+誠「そのとき、実はくるみも、その犯人と一緒にいたんだ」%K%P
+Makoto「The truth is, you were there with the kidnapper at that%Ntime.」%K%P
+0x1528
+誠「くるみの背中の傷は、その事故のときにできたんだよ」%K%P
+Makoto「You received the scar on your back from the incident.」%K%P
+0x1534
+くるみ「………………」%K%P
+Kurumi「...」%K%P
+0x1540
+誠「それから３年後、くるみは再建された神社で発見された」%K%P
+Makoto「And three years later, you were discovered in the%Nrebuilt shrine.」%K%P
+0x154C
+誠「しかし体は何故か、誘拐されたときのまま……全く成長していなかったんだ」%K%P
+Makoto「But your body was the same as when you had been%Nkidnapped for some reason... you hadn't aged at all.」%K%P
+0x1558
+誠「だから多くの人々は、その赤ん坊がくるみである筈がないと思った」%K%P
+Makoto「That's why a lot of people thought 'There's no way that%Nbaby can be Kurumi'.」%K%P
+0x1564
+誠「それが、血の繋がりうんぬんの誤解を招く結果になったんだよ」%K%P
+Makoto「And as a result, it caused the misunderstanding that%Nyou and Izumi-san weren't blood related.」%K%P
+0x1570
+くるみ「………………」%K%P
+Kurumi「...」%K%P
+0x157C
+誠「だけどな、くるみ？　その赤ん坊は、確かにおまえなんだ」%K%P
+Makoto「But you know what, Kurumi? That baby was definitely you.」%K%P
+0x1588
+誠「くるみの背中の傷──それが証拠だ」%K%P
+Makoto「The scar on your back― that's the proof.」%K%P
+0x1594
+くるみ「………………」%K%P
+Kurumi「...」%K%P
+0x15A0
+誠「くるみは……タイムスリップしたんだよ！　３年後の未来に！」%K%P
+Makoto「Kurumi... you time traveled three years into the future!」%K%P
+0x15AC
+誠「成長なんかしてないのは当たり前だったんだ！」%K%P
+Makoto「It's only natural that you didn't age!」%K%P
+0x15B8
+くるみ「お兄ちゃん……どうして……？」%K%P
+Kurumi「Onii-chan... why...?」%K%P
+0x15C4
+誠「……え？」%K%P
+Makoto「... Huh?」%K%P
+0x15D0
+くるみ「どうしてそんな……嘘つくの……？」%K%P
+Kurumi「Why are... you lying like that...?」%K%P
+0x15DC
+誠「嘘なんかじゃない！」%K%P
+Makoto「It's not a lie!」%K%P
+0x15E8
+くるみ「くるみなら……騙せると……思ったの？」%K%P
+Kurumi「Did you think... you could deceive... Kurumi?」%K%P
+0x15F4
+誠「何でだよ……。何で信用してくれないんだ、くるみ？」%K%P
+Makoto「Why... Why don't you believe me, Kurumi?」%K%P
+0x1600
+くるみ「そんな話、信じられるわけないよ！」%K%P
+Kurumi「There's no way Kurumi would believe a story like that!」%K%P
+0x160C
+誠「くるみ……」%K%P
+Makoto「Kurumi...」%K%P
+0x1628
+誠「いいか？　よく聞けよ、くるみ？」%K%P
+Makoto「All right? Listen closely, Kurumi.」%K%P
+0x1634
+くるみは鳴咽だけを続けている。%K%P
+Kurumi only continues to cry.%K%P
+0x1640
+視界の片隅には、オープンテラスで茫然と立ち尽くすいづみさんの姿があった。%K%P
+In the corner of my field of vision, I see a dumbfounded%NIzumi-san standing on the terrace.%K%P
+0x164C
+誠「くるみといづみさんは、血の繋がった、本当の姉妹だ」%K%P
+Makoto「You and Izumi-san are true blood related sisters.」%K%P
+0x1658
+くるみ「………………」%K%P
+Kurumi「...」%K%P
+0x1664
+くるみ「お兄ちゃん……どうして……？」%K%P
+Kurumi「Onii-chan... why...?」%K%P
+0x1670
+誠「え……？」%K%P
+Makoto「Huh...?」%K%P
+0x167C
+くるみ「お兄ちゃんに、どうしてそんなこと分かるの？」%K%P
+Kurumi「Onii-chan, why do you know that?」%K%P
+0x1688
+誠「そ、それは……だからっ」%K%P
+Makoto「Th-That's... because-」%K%P
+0x16A4
+くるみ「もう嘘つかないで！」%K%P
+Kurumi「Stop lying already!」%K%P
+0x16B0
+くるみ「パパも……ママも……お姉ちゃんも……お兄ちゃんも……」%K%P
+Kurumi「Papa... Mama... Onee-chan... and Onii-chan...」%K%P
+0x16BC
+くるみ「嫌い……」%K%P
+Kurumi「... Kurumi hates them...」%K%P
+0x16C8
+くるみ「だいっきらい！」%K%P
+Kurumi「I hate you!」%K%P
+0x16D4
+くるみ「みんな、だいっきらい！！」%K%P
+Kurumi「I HATE EVERYONE!!」%K%P
+0x16E8
+くるみがオレの手を振りほどいた。%K%N
+Kurumi shakes off of my grasp.%K%N
+0x16F4
+振り向いて……駆け出すくるみ。%K%N
+She turns around... and breaks off into a run.%K%N
+0x1700
+かろうじて服のすそをつかんだ。%K%P
+I barely manage to grab onto the hem of her clothes.%K%P
+0x1728
+体勢を崩したくるみが、砂浜に倒れる。%K%N
+Kurumi trips and falls down on the beach.%K%N
+0x1734
+倒れた拍子に……%K%P
+In that instant...%K%P
+0x1784
+──鈴！！！%K%P
+―The bell!!!%K%P
+0x1790
+（そ、そんな……そんなバカな！！！！！）%K%P
+(Th-That's... impossible!!!!!)%K%P
+0x179C
+くるみは鈴を拾って立ち上がった。%K%N
+Kurumi picks up the bell and stands up.%K%N
+0x17A8
+そして再び駆け出す。%K%P
+She darts across the beach.%K%P
+0x17B4
+オレは後を追いかけようと、最初の１歩を砂に着けたとたん！%K%P
+I try to pursue her, but the instant I take a step forward%Non the beach...%K%P
+0x17C0
+──激痛が走る！%K%P
+―Pain runs through my body!%K%P
+0x17CC
+神経をピリピリと伝って、脳を震わせた。%K%N
+It shoots up towards my brain, numbing it.%K%N
+0x17D8
+ヒザの力が抜け、そのまま両手をついた。%K%N
+I squat to stop myself from collapsing.%K%N
+0x17E4
+ぐっと奥歯を噛み締め、痛みをこらえる。%K%P
+I firmly clench my teeth to endure the pain.%K%P
+0x17F0
+（くるみをこのまま、行かすわけにはいかない！）%K%P
+(I can't let Kurumi go off now!)%K%P
+0x17FC
+くるみの後ろ姿がぐんぐんと遠ざかっていく。%K%N
+I see Kurumi's retreating figure steadily begin to%Ndisappear.%K%N
+0x1808
+走り出すオレ……１歩足を踏み出すごとに、痛みが全身をつらぬいた。%K%P
+I start running... every time I take a step forward, pain%Nrushes through my whole body.%K%P
+0x1814
+だが、オレは走らなければならない。%K%N
+But I have to run.%K%N
+0x1820
+くるみを追いかけなければならない。%K%P
+I have to follow Kurumi.%K%P
+0x182C
+くるみを失いたくなかった。%K%N
+I don't want to lose her.%K%N
+0x1838
+くるみの笑顔を消したくなかった。%K%P
+I don't want Kurumi's smile to disappear.%K%P
+0x1844
+（もう２度と、くるみを傷つけないと誓ったのに……）%K%P
+(Even though I vowed never to hurt Kurumi again...)%K%P
+0x1850
+痛みに堪えながら、足を出す。%K%P
+I step forward while enduring the pain.%K%P
+0x185C
+走っても、走っても、くるみの影は小さくなるばかりだ。%K%P
+I run and run, but Kurumi's figure only gets smaller and%Nsmaller.%K%P
+0x1868
+くるみが消えて行く……。%K%N
+Kurumi disappears...%K%N
+0x1874
+堤防の彼方へと消えて行く……。%K%P
+She disappears over the banks...%K%P
+0x1880
+オレは力を失って砂浜に崩れた。%K%N
+I lose all my strength, and collapse on the beach.%K%N
+0x188C
+頭の中が真っ白に染まった。%K%N
+My head is going blank.%K%N
+0x1898
+意識が徐々に……遠のいていく……。%K%P
+My consciousness... slowly starts to fade...%K%P
+0x18A4
+誠「くるみ……」%K%P
+Makoto「Kurumi...」%K%P

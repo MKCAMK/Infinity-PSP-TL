@@ -1,0 +1,576 @@
+text area offset and size:
+0x10B0
+0x22E3
+0x8C
+遙「おかえり……」%K%P
+Haruka「Welcome back...」%K%P
+0x98
+誠「…………」%K%P
+Makoto「...」%K%P
+0xA4
+遙「どうしたの……？」%K%P
+Haruka「What's wrong...?」%K%P
+0xB0
+誠「…………」%K%P
+Makoto「...」%K%P
+0xBC
+遙「まだ２時間……経ってないよ」%K%P
+Haruka「It hasn't even been... two hours yet.」%K%P
+0xC8
+誠「…………」%K%P
+Makoto「...」%K%P
+0xDC
+遙「あっ……」%K%P
+Haruka「Ah...」%K%P
+0xE8
+その瞬間、遙の釣り竿がグンッとしなった。%K%P
+In that instant, something tugs on Haruka's fishing rod.%K%P
+0xFC
+ジリジリとリールを巻く遙の姿……。%K%P
+Haruka slowly but steadily winds the reel...%K%P
+0x108
+西日を浴びた頬はキラキラと輝き、くちもとには無邪気な笑みが浮かんでいる。%K%P
+Her cheeks bathed by the setting sun glitter radiantly,%Nand an innocent smile rises to her face.%K%P
+0x114
+優夏も、くるみも、そして遙も……前以上にこの合宿を楽しんでいるように見えた。%K%P
+Yuka, Kurumi, and Haruka... They seem to be enjoying the%NSeminar Camp more than they were last time.%K%P
+0x120
+世界は、今日も変わることなく動き続けている。%K%P
+The world continues to move on without change today%Nas well.%K%P
+0x12C
+悶々と悩み苦しむオレのことなんか、置き去りにして……。%K%P
+I'm the only one who's continuously anxious...%K%P
+0x138
+（このままじゃいけない！）%K%P
+(I can't go on like this!)%K%P
+0x144
+一方ではそう思いながらも、いまだ解き明かすことのできない多くの謎が、オレの心をユウウツにさせた。%K%P
+On the other hand, although I think this, my mind is filled%Nwith melancholy due to the many mysteries that I still%Ncan't explain.%K%P
+0x150
+（未来なんか……知らない方がいい……）%K%P
+(It's best... not to know the future...)%K%P
+0x15C
+（前みたいに、何も考えずにのんびりと過ごせたなら、どんなに幸せだろう）%K%P
+(It's way happier to be like I was in the past, where I didn't%Nthink about anything and just leisurely passed the time.)%K%P
+0x168
+けれど、もう仕方がないのだ。%K%P
+But there's nothing that can be done about it.%K%P
+0x174
+今できることだけを、考えていくしかない。%K%P
+The only thing I can do now is think.%K%P
+0x180
+過去に戻ることはできても……%K%N
+Even though I can go back to the past...%K%N
+0x18C
+過去のオレに戻ることは……できないのだから……。%K%P
+I can't go back... to who I was...%K%P
+0x208
+西の空が赤く染まっていく。%K%P
+The western sky begins to turn red.%K%P
+0x214
+時間は刻々と過ぎ去っていく。%K%P
+Time begins to pass away moment after moment.%K%P
+0x220
+遙は釣り糸をたらしながら、移ろい行く雲の色を確かめている。%K%P
+Haruka hangs her fishing rod down while checking the%Ncolor of the moving clouds.%K%P
+0x234
+遙「誠……？」%K%P
+Haruka「Makoto...?」%K%P
+0x240
+誠「？」%K%P
+Makoto「?」%K%P
+0x24C
+遙「キス、したことある？」%K%P
+Haruka「Have you ever kissed someone?」%K%P
+0x260
+世界は、今日も変わることなく動き続けている。%K%P
+The world continues to move on without change today%Nas well.%K%P
+0x26C
+ひとり取り残されたオレは、為す術もなくたたずんでいる。%K%P
+I've been left behind, loitering around at my wits' end.%K%P
+0x278
+さらさらとそよぐ海風に、遙の前髪が揺れていた……。%K%P
+Haruka's bangs sway in the sea breeze...%K%P
+0x2BC
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0x360
+その後……。%K%N
+After that...%K%N
+0x36C
+オレと遙はロッジに戻って来た。%K%N
+Haruka and I return to the lodge.%K%N
+0x378
+テラスに出ると億彦が、何やらひとりでわめいていた。%K%N
+Okuhiko was out on the terrace, shouting something to%Nhimself.%K%N
+0x384
+残念ながら、何を言っていたのかはよく覚えていない。%K%N%N
+Unfortunately, I don't really remember what he said.%K%N%N
+0x390
+やがて沙紀がやって来て、何事もなかったかのように平然と、オレ達のわきを通り過ぎて行った。%K%P
+Before long, Saki came over, but she calmly and silently%Npassed by, as if nothing was happening.%K%P
+0x3A4
+無論、バスケットも無事だった。%K%N
+Naturally, the basket remained unscathed as well.%K%N
+0x3B0
+沙紀が海に落ちなかったおかげで、億彦に対する好意も芽生えず、結果的に沙紀が激怒することもなくなったというわけだ。%K%P
+Since Saki didn't fall into the ocean, she doesn't have%Nany feelings for Okuhiko. Thus, she didn't get angry.%K%P
+0x3C4
+したがって、遙がクローンだという事実を、みんなは知らない。%K%N
+That also means that no one knows that Haruka is a%Nclone.%K%N
+0x3D0
+沙紀でさえ、知っているのかどうか疑わしい。%K%N
+I'm doubtful whether or not Saki even knew that.%K%N
+0x3DC
+なにしろ、沙紀と遙の関係は、前の歴史が嘘だったかのように、和気あいあいとしているのだから……。%K%N
+They're so friendly to each other now that it's hard to%Nbelieve that they were fighting in the last history...%K%N
+0x3E8
+歴史は、着々と良い方向にむかって進んでいるようだ。%K%P
+It seems that history is steadily proceeding in a good%Ndirection.%K%P
+0x3FC
+にもかかわらず、オレの心の中だけが、時の経過とともに、ずぶずぶと奈落の底へと呑み込まれていく……。%K%N%N
+Despite that, my heart feels like it's sinking deeper and%Ndeeper into an abyss as time passes...%K%N%N
+0x408
+このまま、果てしなく落ち続けていくのだろうか？%K%N
+Will it continue to fall forever?%K%N
+0x414
+それとも、やがて這い上がることができるのだろうか？%K%P
+Or will it eventually climb back up?%K%P
+0x428
+いずれにせよ、運命の時が近づいていることに間違いはなかった。%K%N%N
+At any rate, there's no doubt that the fated time is%Napproaching quickly.%K%N%N
+0x434
+運命の時……すべての真相が明かされる、その瞬間が……。%K%N%N
+The fated time... The moment where the truth will be%Nrevealed...%K%N%N
+0x440
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0x5D0
+くるみ「わぁ〜〜♪　ここって、カニがいっぱいいるよぉ〜♪」%K%P
+Kurumi「Wow〜〜♪ There's a lot of crabs here〜♪」%K%P
+0x5DC
+──姫ヶ浜の岩場。%K%P
+―We're by the rocky area at Princess Beach.%K%P
+0x5E8
+その潮だまりを覗き込みながら、くるみが黄色い声をあげた。%K%P
+Kurumi's shrill voice rings out as she peeks into the tide%Npool.%K%P
+0x5F4
+くるみ「ねえねえ？　ここってカニさんの学校なのかな？」%K%P
+Kurumi「Hey, hey, do you think this is a school for crabs?」%K%P
+0x600
+誠「う〜ん……学校って言うよりも……部屋じゃないか？」%K%P
+Makoto「Hmm... Rather than a school... I'd call it a stable.」%K%P
+0x60C
+くるみ「部屋？　部屋って何の？」%K%P
+Kurumi「A stable? What do you mean, stable?」%K%P
+0x618
+誠「そんなの決まってるだろ？　──相撲部屋！」%K%P
+Makoto「Isn't that obvious? ―It's a sumo stable!」%K%P
+0x624
+くるみ「ほっほぉ〜……ってことは、この一番ちっこいやつが親方かな？」%K%P
+Kurumi「Oh ho〜... Which means the smallest one is the stable%Nmaster?」%K%P
+0x630
+誠「……なんで？」%K%P
+Makoto「... Why's that?」%K%P
+0x63C
+くるみ「だって、ふつう親方よりも、現役力士の方がおっきいでしょ？」%K%P
+Kurumi「Because usually, the active sumo wrestler is bigger%Nthan the stable master, right?」%K%P
+0x648
+誠「ああ、なるほどね」%K%P
+Makoto「Oh, I see.」%K%P
+0x654
+くるみ「わ〜い♪　カニカニ……」%K%P
+Kurumi「Yay♪ Crabs...」%K%P
+0x660
+くるみ「カニィ〜〜♪」%K%P
+Kurumi「Crabs〜〜♪」%K%P
+0x66C
+歓声をあげながら、くるみは『親方』をむんずとつかみ取った。%K%P
+As she shouts in joy, Kurumi picks out and takes the%N"stable manager".%K%P
+0x678
+くるみ「ねぇ、カニさん。くるみとジャンケンしようか？」%K%P
+Kurumi「Hey, Mr. Crab. Wanna play Rock-Paper-Scissors with%NKurumi?」%K%P
+0x684
+くるみ「せ〜の、じゃ〜んけ〜ん…………グ〜！」%K%P
+Kurumi「Ready, set, Rock, Paper, Scissors... Rock!」%K%P
+0x690
+くるみ「わ〜い、勝った勝った〜♪」%K%P
+Kurumi「Yay, Kurumi won♪」%K%P
+0x69C
+岩場の上で、くるみはこおどりして喜んでいた。%K%P
+Kurumi dances in joy on top of the rocks.%K%P
+0x6A8
+天真らんまんな笑み……。%K%P
+Her innocent smile...%K%P
+0x6B4
+いつもと変わらない日常……。%K%P
+These unchanging days...%K%P
+0x6C0
+動き続ける世界……。%K%P
+The world continues to go on...%K%P
+0x6D4
+ふと、空を見上げた。%K%P
+Suddenly, I look up at the sky.%K%P
+0x6E0
+１羽のトビが、まるい輪を描きながら飛んでいた。%K%P
+I see a black kite flying in the air, circling around.%K%P
+0x6EC
+くるくると、くるくると、飽きもせずに回り続けている。%K%P
+It continues to turn around and around, without getting%Ntired of flapping.%K%P
+0x6F8
+すると……%K%P
+Just then...%K%P
+0x714
+くるみ「あれ？」%K%P
+Kurumi「Huh?」%K%P
+0x720
+……ふいに発せられたその声に、オレは視線を戻した。%K%P
+... I tear my gaze from the sky and return it to Kurumi.%K%P
+0x72C
+誠「ん？　どうしたんだ？」%K%P
+Makoto「Hmm? What's wrong?」%K%P
+0x738
+くるみ「ううん……なんでもない」%K%P
+Kurumi「No... it's nothing.」%K%P
+0x744
+くるみ「ちょっと、面白いものを拾っただけ……」%K%P
+Kurumi「Kurumi just picked up something a little interesting...」%K%P
+0x750
+誠「……面白い……もの？」%K%P
+Makoto「... Something... interesting?」%K%P
+0x75C
+（オモシロイ……モノ……？）%K%P
+(Something... interesting...?)%K%P
+0x770
+いづみ「ああ……これ？」%K%P
+Izumi「Oh... this?」%K%P
+0x77C
+いづみ「これは、くるみにもらったの」%K%P
+Izumi「Kurumi gave this to me.」%K%P
+0x788
+いづみ「確かおとといの、夜だったかしら？　『姫ヶ浜で拾ったの』って言って……」%K%P
+Izumi「It was the night of the 4th. Kurumi said she 'picked it up%Non Princess Beach'...」%K%P
+0x79C
+ってことは、まさか……%K%P
+Which means that's...%K%P
+0x7A8
+──鈴！？%K%P
+―The bell!?%K%P
+0x7B4
+前の４日、くるみは姫ヶ浜で鈴を拾い、それをいづみさんに渡した。%K%P
+On the last 4th, Kurumi picked up the bell on Princess%NBeach, and gave it to Izumi-san.%K%P
+0x7C0
+もしも同じ歴史が繰り返すとすれば……%K%P
+If the same history repeats itself, then...%K%P
+0x7CC
+誠「な、なあ、くるみ？」%K%P
+Makoto「H-Hey, Kurumi?」%K%P
+0x7D8
+誠「ちょっとそれ……見せてもらえないかな？」%K%P
+Makoto「Can I... have a look at it?」%K%P
+0x808
+くるみ「いいけど……ジャンケンして勝ったらね♪」%K%P
+Kurumi「All right... If you beat Kurumi at Rock-Paper-Scissors♪」%K%P
+0x814
+誠「ジャ、ジャンケン！？」%K%P
+Makoto「R-Rock-Paper-Scissors!?」%K%P
+0x820
+誠「そんなことしてる場合じゃっ」%K%P
+Makoto「Now's not the time for-」%K%P
+0x82C
+くるみ「いいから、いいから！」%K%P
+Kurumi「It's fine, it's fine!」%K%P
+0x840
+くるみ「じゃあ、いくよぉ〜♪　せぇ〜の……」%K%P
+Kurumi「Then let's go〜♪ Ready, set...」%K%P
+0x84C
+──その瞬間、オレの思考は超速で回転し始めた。%K%P
+―Just then, the gears in my mind start to whirl ultra%Nfast.%K%P
+0x858
+（前回のくるみの手は確か……チョキ）%K%P
+(Last time, Kurumi used... Scissors.)%K%P
+0x864
+（そうだよ、そう！　くるみは手に持ったカニを差し出して……）%K%P
+(Yes, that's right! Kurumi extended the crab she was%Nholding...)%K%P
+0x870
+（だとすれば、恐らく今回も！）%K%P
+(If that's the case, then she'll probably do the same%Nthing now!)%K%P
+0x884
+くるみ「じゃ〜んけ〜ん……ホイ！」%K%P
+Kurumi「Rock, Paper, Scissors... Go!」%K%P
+0x890
+そのかけ声とともに、オレはにぎりしめた拳を突き出した！%K%P
+When she shouts this, I stick out my firmly clenched fist!%K%P
+0x89C
+当然、くるみの出した手は『カニ』%K%P
+Naturally, Kurumi has stuck out the "crab".%K%P
+0x8B0
+くるみ「うわぁ〜ん、負けちゃったよぉ〜」%K%P
+Kurumi「Uwaa, Kurumi lost〜」%K%P
+0x8C4
+くるみ「こらっ！　カニ大道楽！　きみのせいだからね？」%K%P
+Kurumi「Hey! Sumo Crab! This is your fault, isn't it?」%K%P
+0x8D0
+くるみ「そうやってチョキばっか出してるから負けちゃうんじゃない！」%K%P
+Kurumi「We lost because you used scissors!」%K%P
+0x8DC
+親方は何も言わず、口からブクブクと白い泡を吹いていた。%K%P
+The stable manager says nothing, white foam coming%Nfrom its mouth.%K%P
+0x8F0
+くるみ「もう、しょうがないなぁ〜」%K%P
+Kurumi「Geez, it can't be helped〜」%K%P
+0x904
+くるみ「それじゃあ約束どおり、見せてあげよぉ」%K%P
+Kurumi「Then as promised, Kurumi will show you.」%K%P
+0x910
+そう言って、くるみは左手をすっと伸ばし、手の平を開いた。%K%P
+As she says this, Kurumi quickly extends her left hand,%Nand opens her palm.%K%P
+0x91C
+誠「……………………えっ？」%K%P
+Makoto「... Huh?」%K%P
+0x928
+何も、無かった。%K%P
+There's nothing there.%K%P
+0x934
+くるみの手の平には、海水と、いくつかの砂がこびり付いているだけで、他には何も……無かったのだ。%K%P
+In Kurumi's palm is just seawater and countless grains of%Nsand, and... nothing else.%K%P
+0x940
+誠「なあ、くるみ！　もったいぶってないで、早く見せろよ？」%K%P
+Makoto「Hey, Kurumi! Quit lording it over me. Hurry up and show me.」%K%P
+0x954
+くるみ「え？　だから見せてるでしょ？」%K%P
+Kurumi「Huh? But Kurumi is showing you, right?」%K%P
+0x960
+誠「見せてないだろ！？　ったく、大人をからかうんじゃない！」%K%P
+Makoto「No you're not! Geez, don't joke around with adults!」%K%P
+0x974
+くるみ「からかってなんかいないもん！」%K%P
+Kurumi「Kurumi's not joking around!」%K%P
+0x980
+くるみ「もっとちゃ〜んとよく見てよ！」%K%P
+Kurumi「Just take a closer look!」%K%P
+0x98C
+誠「……ちゃんと？」%K%P
+Makoto「... Closer?」%K%P
+0x9A0
+くるみ「うん……」%K%P
+Kurumi「Yeah...」%K%P
+0x9AC
+うなずきながら、くるみは手の平をオレの目の前に突きつけた。%K%P
+Kurumi thrusts her palm right in front of my eyes while%Nnodding.%K%P
+0x9B8
+じーっと、手の平を見つめるオレ……。%K%P
+I firmly stare at her palm...%K%P
+0x9C4
+誠「なんだよ！　やっぱり何にも無いじゃないか！」%K%P
+Makoto「What the hell!? There really is nothing there!」%K%P
+0x9D8
+くるみ「あるってばぁ！」%K%P
+Kurumi「There is!」%K%P
+0x9E4
+くるみ「ほらっ、ここ、ここ！」%K%P
+Kurumi「See, it's here, here!」%K%P
+0x9F0
+カニの爪先で、手の平の真ん中を指し示すくるみ。%K%P
+Using the crab's toes, Kurumi points to the center of her%Nhand.%K%P
+0x9FC
+よく見ると、そこには確かに……%K%P
+Looking closely, there certainly is something...%K%P
+0xA10
+くるみ「ねっ？　あるでしょ？」%K%P
+Kurumi「Well? It's there, isn't it?」%K%P
+0xA1C
+くるみ「──星の砂♪」%K%P
+Kurumi「―It's a star sand♪」%K%P
+0xA28
+……ギザギザに尖った小さな粒。%K%P
+... It's a jagged, pointy small grain.%K%P
+0xA34
+あの鈴ではなく、星の砂……。%K%P
+It's not the bell, but a star sand...%K%P
+0xA40
+手の平にたまったしずくの中に、星はまばゆく輝いていた。%K%P
+The star in her palm sparkles brightly.%K%P
+0xAC4
+くるみ「はっけよ〜い！　……のこった！」%K%P
+Kurumi「Ready! ... Go!」%K%P
+0xAD8
+くるみ「のこった、のこった」%K%P
+Kurumi「Go, go!」%K%P
+0xAE4
+くるみ「のぉこったぁ〜〜！」%K%P
+Kurumi「GOOOOO〜〜!」%K%P
+0xAF8
+くるみ「押し出しでぇ、カニ大道楽の勝ちぃ〜♪」%K%P
+Kurumi「Ring out! Sumo Crab wins〜♪」%K%P
+0xB04
+勝った『親方』と負けたカニ……その両方のコウラを、くるみは指先で撫でていた。%K%P
+Kurumi takes the winning crab (the "stable manager")%Nand the losing crab, and strokes them equally.%K%P
+0xB10
+弾けるような笑顔を、満面に浮かべながら……。%K%P
+A smile crosses her entire face...%K%P
+0xB1C
+──変わらない現実。%K%N
+―This is an unchanging reality.%K%N
+0xB28
+──変わりゆく現実……星の砂。%K%P
+―And yet a dynamic one... what with the star sand.%K%P
+0xB3C
+いづみ「──そう！　──誠くんの妄想の中の出来事に過ぎないのよ！」%K%P
+Izumi「―Yes! ―It's nothing more than an event in your%Ndelusion, Makoto-kun!」%K%P
+0xB50
+ふと、昨夜のいづみさんの言葉が脳裏をよぎる……。%K%P
+Suddenly, the words Izumi-san said last night cross my%Nmind...%K%P
+0xB5C
+（この光景が、すべて妄想だと……？）%K%P
+(This scene is all just a delusion...?)%K%P
+0xB68
+（くるみの笑顔も、やわらかな陽射しも、打ち寄せる波の音も……）%K%P
+(Kurumi's smile, the soft sunlight, and the roar of the%Nwaves breaking on the shore...)%K%P
+0xB74
+（全部、オレの意識が創り出した幻影だと言うのか……？）%K%P
+(You're saying that all this is an illusion invented by my%Nconsciousness...?)%K%P
+0xB80
+（………………………………）%K%P
+(...)%K%P
+0xB8C
+（はぁ…………なに考えてんだよ、オレは！）%K%P
+(Haah... what the hell am I thinking!?)%K%P
+0xB98
+（そんな愚にもつかない子供ダマシ、信じるほうがどうかしてるぞ！）%K%P
+(I'd have to be nuts to believe in such utter bullshit!)%K%P
+0xBA4
+今のオレには、むしろタイムスリップや無限ループの方が、よほど現実的な出来事のように思えた。%K%P
+Rather than be bothered with time travel and infinite%Nloops, I should be more focused on realistic things.%K%P
+0xBB8
+くるみ「ん？　お兄ちゃん、どうしたの？」%K%P
+Kurumi「Hmm? What's wrong, Onii-chan?」%K%P
+0xBC4
+くるみ「ミケンにキュッとシワなんか寄せちゃってさ」%K%P
+Kurumi「Your eyebrows and face are all scrunched up.」%K%P
+0xBD0
+誠「…………」%K%P
+Makoto「...」%K%P
+0xBE4
+くるみ「ひょっとして……面白くない？　カニ相撲」%K%P
+Kurumi「Could it be... that you don't find the crab sumo%Ninteresting?」%K%P
+0xBF0
+誠「そ、そんなこと……ないぞ？」%K%P
+Makoto「N-No, that's not it.」%K%P
+0xBFC
+くるみ「ほんとに？」%K%P
+Kurumi「Really?」%K%P
+0xC08
+誠「ああ……」%K%P
+Makoto「Yeah...」%K%P
+0xC14
+くるみ「無理に合わせてくれなくっても、いいんだよ？」%K%P
+Kurumi「You don't have to be here if you don't want to.」%K%P
+0xC20
+誠「だから、マジでオモシロイって！」%K%P
+Makoto「I'm telling you, it's really interesting!」%K%P
+0xC2C
+誠「血沸き肉躍るほど、激烈にエキサイティングだよ！」%K%P
+Makoto「It's so exciting that it feels like my skin's gonna melt with%Nhow hot my blood is boiling!」%K%P
+0xC40
+くるみ「ふ〜ん……」%K%P
+Kurumi「Hmm...」%K%P
+0xC54
+くるみ「……ならいいんだけど♪」%K%P
+Kurumi「... Then it's fine♪」%K%P
+0xC60
+くるみ「くるみひとりで喜んでるのかと思って、ちょっと心配しちゃったから♪」%K%P
+Kurumi「Kurumi thought she was the only one having fun, so she%Nwas a little worried♪」%K%P
+0xC6C
+くるみの顔に、ぽっとあかりが灯った。%K%P
+Kurumi's face lights up slightly.%K%P
+0xC78
+誠「おいっ、くるみ！　そんなこと言ってる間に……ほらっ、親方が逃げちゃってるぞ？　いいのか？」%K%P
+Makoto「Hey, Kurumi! While we've been talking... the crabs have%Nbeen running away. Is that what you want?」%K%P
+0xC8C
+くるみ「ああっ！　こらっ、待てぇ〜、カニ大道楽！」%K%P
+Kurumi「Ah! Hey, wait up, Sumo Crab!」%K%P
+0xCA0
+くるみはあわてて立ち上がると、親方を追って駆け出した。%K%P
+Kurumi frantically stands up, and starts chasing after%Nthe crabs.%K%P
+0xCBC
+だが次の瞬間……。%K%P
+But one second later...%K%P
+0xCE4
+前のめりになって、くるみは激しく転倒した。%K%P
+Kurumi trips, and falls straight into the ground.%K%P
+0xCF0
+舞い上がる砂埃……エビ反りになった背中……顔面がズボッと砂の中に埋もれている。%K%P
+A cloud of sand soars up... She holds out her hands and%Narches her back like a shrimp... and her face is buried in%Nthe sand.%K%P
+0xCFC
+誠「な、なにやってんだよ、くるみ！？」%K%P
+Makoto「Wh-What are you doing, Kurumi!?」%K%P
+0xD08
+オレはくるみのそばに駆け寄って、その体を抱き起こしてやった。%K%P
+I run over to Kurumi's side, and help her up.%K%P
+0xD14
+砂まみれの顔で、きょとんとオレの方を見るくるみ。%K%P
+Kurumi looks at me, her face covered in sand.%K%P
+0xD20
+誠「だいじょうぶか？」%K%P
+Makoto「Are you all right?」%K%P
+0xD34
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0xD40
+誠「……………………」%K%P
+Makoto「...」%K%P
+0xD54
+くるみ「……えへっ♪」%K%P
+Kurumi「... Eheh♪」%K%P
+0xD60
+くるみ「ずっとしゃがんでたから、足がしびれちゃってぇ〜♪」%K%P
+Kurumi「Kurumi was crouching all this time, so her legs fell%Nasleep〜♪」%K%P
+0xD6C
+くるみは照れ笑いを浮かべた。%K%P
+An embarrassed smile rises to Kurumi's face.%K%P
+0xD78
+ほころんだ頬からポロポロと、砂の粒が落ちて行く。%K%P
+Grains of sand fall off her face like rain drops.%K%P
+0xD84
+──変わらない現実。%K%N
+―This is an unchanging reality.%K%N
+0xD90
+──変わりゆく現実……砂まみれの顔。%K%P
+―And yet a dynamic one... what with that sand%Ncovered face.%K%P
+0xD9C
+これでいいんだと思った。%K%P
+I think that this is all right.%K%P
+0xDA8
+『真実かどうかよりも、信じれるかどうかのほうが大切』%K%P
+"What's more important than whether it's true or not is%Nwhether you can believe it or not."%K%P
+0xDB4
+（要するに……そういうことなのだ……）%K%P
+(In short... that's how it is...)%K%P
+0xDC0
+くるみはキュッと目をつぶって、顔に付いた砂を手の平で拭った。%K%P
+Kurumi shuts her eyes tightly, and wipes the sand off%Nher face with her palm.%K%P
+0xDCC
+けれど、濡れたその手の平にも、大量の砂がこびり付いている。%K%P
+However, her hands are wet, so now a lot of sand is%Nstuck to her palm.%K%P
+0xDD8
+当然のこととして、砂を払おうとすればするほど、くるみの顔はますます汚れていった。%K%P
+As a matter of course, the more she tries to wipe off, the%Ndirtier her face gets.%K%P
+0xDE4
+誠「はぁ……ったく……」%K%P
+Makoto「Haah... geez...」%K%P
+0xDF0
+つぶやきながら、オレは人差し指の背中で、くるみの頬を拭いてやった。%K%P
+While muttering this, I use the back of my index finger to%Nwipe Kurumi's face.%K%P
+0xE04
+くるみ「てへへへっ……♪」%K%P
+Kurumi「Teheheheh...♪」%K%P
+0xE10
+はにかんで、小さな舌をペロッと出すくるみ。%K%P
+Kurumi bashfully sticks out her tongue.%K%P
+0xE1C
+気がつくと、オレの口元には微笑みが浮かんでいた。%K%P
+Before I realize it, a smile has risen to my face.%K%P
+0xE54
+………………。%N…………。%N……。%K%P
+... ... ...%K%P

@@ -1,0 +1,357 @@
+text area offset and size:
+0x7C0
+0x1576
+0x74
+やがて、オレ達は展望公園に到着した。%K%P
+Before long, we arrive at Viewpoint Park.%K%P
+0x80
+いづみさんは公園のフェンスの脇に立ち、海を眺めている。%K%P
+Izumi-san is standing by the safety rail, gazing out at%Nthe ocean.%K%P
+0x8C
+海の方からかすかに吹いて来る潮風が、いづみさんの髪を揺らす。%K%P
+The light sea breeze blows by Izumi-san, swaying%Nthrough her hair.%K%P
+0x98
+静かな潮騒の音と、時折打ち寄せる高波の音だけが、辺りにこだましていた。%K%P
+All I can hear around me is the calming roar of the waves,%Nwhich occasionally wash up against the bottom of the%Ncape.%K%P
+0xA4
+公園に到着してから、いづみさんはひと言も喋っていない……。%K%P
+Izumi-san hasn't said a single word since we arrived at%Nthe park...%K%P
+0xBC
+（わからない……。いづみさんが何をしたくて、こんなところまで連れて来たのか？）%K%P
+(I don't get it... What is Izumi-san hoping to do by taking%Nme all the way to a place like this?)%K%P
+0xC8
+（やっぱり、本人に直接聞いてみたほうがいいのかな……？）%K%P
+(I wonder if it would it be best after all if I just asked her%Ndirectly...?)%K%P
+0xD4
+オレはゆっくりと、いづみさんに近づいて行った。%K%P
+I slowly approach Izumi-san.%K%P
+0xF8
+いづみ「誠くん……」%K%P
+Izumi「Makoto-kun...」%K%P
+0x104
+誠「は、はい……！」%K%P
+Makoto「Y-Yes...!?」%K%P
+0x110
+いづみさんが口を開いたのは、ちょうどオレがいづみさんの真後ろに立ったときだった。%K%P
+Izumi-san opens her mouth just as I stand right behind%Nher.%K%P
+0x11C
+いづみ「せっかく走ったのに、風が冷たいからすぐに寒くなっちゃうね？」%K%P
+Izumi「Even though we went through all this trouble to run here,%Nthe wind has just gone back from chilly to cold again,%Nhasn't it?」%K%P
+0x128
+誠「そ……そうですね」%K%P
+Makoto「Y... You're right.」%K%P
+0x134
+確かに走ったときにかいた汗は、すっかりと冷え切っていた。%K%P
+It's true. All that sweat that I let off as I ran has become%Ncompletely chilled.%K%P
+0x140
+いづみ「でも……やっぱり……」%K%P
+Izumi「But... as I thought...」%K%P
+0x14C
+（やっぱり……何？）%K%P
+(As I thought... what?)%K%P
+0x158
+いづみ「やっぱり……今日は……」%K%P
+Izumi「As I thought... today is...」%K%P
+0x164
+（今日は？）%K%P
+(Today is what?)%K%P
+0x170
+いづみ「ちょっと寒いけど、やっぱり今日は……」%K%P
+Izumi「It's a little cold, but as I thought, today...」%K%P
+0x17C
+誠「……………………？」%K%P
+Makoto「...?」%K%P
+0x190
+いづみ「今日は、一段と星がキレイだね」%K%P
+Izumi「Today is the day the stars are at their most beautiful.」%K%P
+0x19C
+いづみさんが感嘆のため息をもらす。%K%P
+She lets out a sigh of awe.%K%P
+0x1B8
+誠「は？　星？」%K%P
+Makoto「Huh? The stars?」%K%P
+0x1C4
+いづみ「来てよかったでしょう？」%K%P
+Izumi「It's a good thing we came here, right?」%K%P
+0x1D0
+誠「……………………あ！」%K%P
+Makoto「... Ah!」%K%P
+0x214
+そこには、満天の星空が待っていた。%K%P
+A canopy of stars hangs above me.%K%P
+0x220
+漆黒のビロードの中に、キラキラと輝く宝石のような星々。%K%P
+The stars sparkle like shining gems on jet black velvet.%K%P
+0x22C
+いや……どんな宝石でも……何カラットのダイヤモンドでも……ここまでの輝きを見せることはないだろう。%K%P
+No... not just gems... diamonds of the highest karat%Npossible... I've never seen anything so radiant in my%Nentire life.%K%P
+0x238
+そんな……そんなにも素晴らしい星空だった。%K%P
+This starry sky is truly captivating.%K%P
+0x244
+魂が天に引き寄せられるかのような……自然と空へ吸い寄せられてしまうような……そんな夜空。%K%P
+It feels like it's pulling my soul up towards the heavens...%Nlike it's drawing me up to the sky... That's how amazing it is.%K%P
+0x250
+いづみ「ありがとう……今日は」%K%P
+Izumi「Thank you... for today.」%K%P
+0x25C
+誠「……？」%K%P
+Makoto「...?」%K%P
+0x268
+いづみ「くるみのこと」%K%P
+Izumi「For Kurumi.」%K%P
+0x274
+誠「あ、ああ……」%K%P
+Makoto「R-Right...」%K%P
+0x280
+そこでいづみさんは、ゆっくりと振り向いた。%K%P
+Izumi-san slowly turns around.%K%P
+0x294
+いづみ「誠くん達がいなかったら……大変なことになってたかもしれない」%K%P
+Izumi「If you and the others hadn't been here... I might not have%Nfound her by now.」%K%P
+0x2A0
+誠「そんな……大げさな」%K%P
+Makoto「No way... you're overexaggerating.」%K%P
+0x2AC
+改めてお礼を言われると、何だか少し照れくさい。%K%P
+I feel a bit embarrassed to receive such praise.%K%P
+0x2B8
+誠「オレ達が探さなかったとしても、無事に帰って来たと思うよ？」%K%P
+Makoto「Anyway, even if we didn't look, don't you think she still%Nwould have come back safe?」%K%P
+0x2C4
+誠「くるみ……意外としっかりしてるとこあるし……」%K%P
+Makoto「Kurumi is surprisingly level-headed, after all...」%K%P
+0x2D0
+いづみ「……………………」%K%P
+Izumi「...」%K%P
+0x2DC
+いづみさんは、うつむいてしまった。%K%P
+Izumi-san hangs her head downwards.%K%P
+0x2E8
+どうしたんだ？%K　何かオレ、まずいことでも言ったんだろうか？%K%P
+What's wrong?%K Did I say something I shouldn't have?%K%P
+0x2F4
+いづみ「……誠くん、あのね……？」%K%P
+Izumi「... Um, Makoto-kun...?」%K%P
+0x300
+誠「はい……」%K%P
+Makoto「Yes...?」%K%P
+0x30C
+いづみ「くるみって、けっこう放浪癖っぽいところがあるの……」%K%P
+Izumi「Kurumi has quite the vagrant habits...」%K%P
+0x318
+いづみ「時々ふらっと出かけて、そのまましばらく帰って来なかったりする事があってね」%K%P
+Izumi「Occasionally, she'll suddenly go out, only to come back%Na little while later.」%K%P
+0x324
+いづみ「それで……その度に心配になって……」%K%P
+Izumi「That's why... I was worried this time...」%K%P
+0x330
+誠「でも、ちゃんと帰って来てるんでしょ？　今までは……。だったらっ」%K%P
+Makoto「But she'd still come back on her own, right? I mean, she's%Ndone so up until now, hasn't she?」%K%P
+0x33C
+いづみ「今までは……ね。でも……でもね？」%K%P
+Izumi「Up until now... yes. But... But you know?」%K%P
+0x348
+誠「？」%K%P
+Makoto「?」%K%P
+0x354
+いづみ「……ううん……何でもないの……気にしないで」%K%P
+Izumi「... No... it's nothing... Don't worry about it.」%K%P
+0x360
+誠「…………」%K%P
+Makoto「...」%K%P
+0x36C
+オレはあえて聞き返すことはしなかった。%K%P
+I can't bring myself to ask her what she means.%K%P
+0x378
+何故なら、いづみさんの笑顔が、何だかそれを拒否しているように思えたから。%K%P
+I feel that if I did, I'd be denying her smile.%K%P
+0x394
+いづみ「……それにしても、この４日間、いろんな事があったわよね」%K%P
+Izumi「... Nevertheless, a lot of things have happened in the%Nlast four days.」%K%P
+0x3A0
+誠「そうですね……」%K%P
+Makoto「You're right...」%K%P
+0x3AC
+オレといづみさんは、これまでのことを思い起して話を始めた。%K%P
+Izumi-san and I then begin to talk as we recall everything%Nthat's happened so far.%K%P
+0x3D4
+──くるみが間違ってピザを届けてしまったこと。%K%N
+―Kurumi delivering the pizza to our place by mistake.%K%N
+0x3E0
+──オレ達がルナビーチへやって来たこと。%K%N
+―When I came to Lunabeach with the others.%K%N
+0x3EC
+──沙紀がクレームをつけに怒鳴り込んで来たこと。%K%P
+―Saki coming in to yell and complain.%K%P
+0x3F8
+──プールへ忍びこんだこと。%K%N
+―When we all went to the pool.%K%N
+0x404
+──釣りに出かけて、沙紀が溺れかけたこと。%K%N
+―Going fishing with Haruka, and Saki's anger.%K%N
+0x410
+──遙がクローンだと知らされたこと。%K%P
+―Learning that Haruka was a clone.%K%P
+0x41C
+──肝だめしをしたこと。%K%N
+―The Test of Courage.%K%N
+0x428
+──バーベキューをしたこと。%K%N
+―The barbecue.%K%N
+0x434
+──そして……%W%Wみんなのこと。%K%P
+―And... about the others.%K%P
+0x440
+いづみさんは、みんなの中から１人ずつ挙げて、良いところ、悪いところをそれぞれ言って聞かせてくれた。%K%P
+One by one, Izumi-san rattles off everyone's good and%Nbad traits.%K%P
+0x44C
+（よく見てるんだな……）%K%P
+(She's been paying attention...)%K%P
+0x458
+オレは感心した。%K%P
+I'm impressed.%K%P
+0x464
+確かに主観的ではあるが、決して間違った捉え方はしていなかった。%K%P
+I'm a biased person, so I wouldn't have been able to%Ndraw such objective conclusions.%K%P
+0x470
+いづみ「そして……誠くん」%K%P
+Izumi「And then... there's you, Makoto-kun.」%K%P
+0x47C
+ついに、オレの番になってしまった。%K%P
+Finally, my turn has arrived.%K%P
+0x488
+いづみ「誠くんは、行動力に長けてるよね……。くるみを探してくれた時もそうだった」%K%P
+Izumi「You have an excellent ability to take action... You%Nshowed that when you were searching for Kurumi.」%K%P
+0x494
+誠「……」%K%P
+Makoto「...」%K%P
+0x4A0
+いづみ「でも、頭は悪くないのに人の気持ちを理解するのが苦手で……」%K%P
+Izumi「But even though you're not stupid, you're bad at%Nunderstanding people's feelings...」%K%P
+0x4AC
+誠「……」%K%P
+Makoto「...」%K%P
+0x4B8
+いづみ「時々、誠くんの何でもないひと言が、誰かを傷つけることがあったり……」%K%P
+Izumi「Occasionally, your brief, trifling comments end up hurting%Nother people...」%K%P
+0x4C4
+誠「そ、そうですか……？」%K%P
+Makoto「R-Really...?」%K%P
+0x4D0
+いづみ「たぶん、大きくハズれてはいないと思うよ」%K%P
+Izumi「I think that's probably your greatest flaw.」%K%P
+0x4DC
+あまり納得がいかなかった。%K%N
+I don't really understand or accept that.%K%N
+0x4E8
+オレが他人の気持ちをわかってない？%K%N
+I don't understand other's emotions?%K%N
+0x4F4
+そうか？　%W%W%W十分、わかってるつもりだけど……。%K%P
+Really? I was trying to be understanding enough...%K%P
+0x500
+誠「何だか、年長者ぶった言い方ですね？」%K%P
+Makoto「You sound like an old person.」%K%P
+0x50C
+いづみ「ぶってなんかいないわよ。本当に年長者だもの」%K%P
+Izumi「It's not 'like'. I really am old.」%K%P
+0x518
+誠「まあ、もう２２ですからね……」%K%P
+Makoto「Well, you're already 22 years old...」%K%P
+0x524
+いづみ「あ！　%W%W%Wホラ、その一言！」%K%P
+Izumi「Ah! See, that's what I mean!」%K%P
+0x530
+誠「……あ」%K%P
+Makoto「... Oh.」%K%P
+0x53C
+いづみ「その一言がみんなを傷つけてるのよ」%K%P
+Izumi「It's comments like that that hurt everyone.」%K%P
+0x548
+誠「…………」%K%P
+Makoto「...」%K%P
+0x554
+いづみ「口は災いの元……よ。%W%W%W誠くん？」%K%P
+Izumi「Words can be the source of catastrophes... Well,%NMakoto-kun?」%K%P
+0x560
+誠「……反省します」%K%P
+Makoto「... I'll keep it in mind.」%K%P
+0x56C
+知らなかった。自分が知らないうちに、みんなを傷つけていたなんて……。%K%P
+I had no idea... I had no idea that I was hurting others...%K%P
+0x578
+こうもきっぱり言われるとやはりショックだった。%K%P
+Having it being told to me so bluntly really is a shock.%K%P
+0x594
+いづみ「でも……」%K%P
+Izumi「But...」%K%P
+0x5A0
+誠「……？」%K%P
+Makoto「...?」%K%P
+0x5AC
+いづみさんは、オレの目をじっと見つめている。%K%N
+Izumi-san looks into my eyes.%K%N
+0x5B8
+オレは目を逸らすことが出来なかった。%K%P
+I am unable to look away.%K%P
+0x5C4
+いづみ「でもね……そんな困った性格のあなたが……」%K%P
+Izumi「But... it seems that in spite of that troublesome%Npersonality of yours...」%K%P
+0x5D0
+いづみ「好きになってたみたい……」%K%P
+Izumi「I've fallen in love with you...」%K%P
+0x5F8
+心臓がひときわ大きく高鳴る。%K%P
+My heart skips a beat.%K%P
+0x604
+いづみさんのひと言が、耳から脳へ……%K%N
+Izumi-san's words go from my ears to my brain...%K%N
+0x610
+……そして、神経を通じて体中へ染み渡っていく感覚。%K%P
+... And then, it feels like they're spreading all around my%Nbody via my nerves.%K%P
+0x61C
+次第に、全身の血液が騒ぎ出す。%Nぞわぞわ……と。%K%P
+Gradually, my blood starts to grow hotter and hotter.%K%P
+0x628
+いづみさんが……オレのことを！？%K%N
+Izumi-san... loves me!?%K%N
+0x634
+知らなかった……。%K%N
+I didn't know...%K%N
+0x640
+そんなこと、全然気づかなかった……。%K%P
+I didn't notice it at all...%K%P
+0x64C
+いづみさんのさっきの言葉──『人の気持ちを理解するのが苦手で……』%K%N
+Izumi-san said it earlier―"You're bad at%Nunderstanding people's feelings..."%K%N
+0x658
+その言葉が、オレの胸に深く突き刺さった。%K%P
+Those words deeply pierce me in the heart like a dagger.%K%P
+0x68C
+誠「ごめん、%W%W%Wいづみさん……。%W%W%Wオレ……」%K%P
+Makoto「I'm sorry, Izumi-san... I...」%K%P
+0x698
+誠「いづみさんの気持ち……%W%W%Wちっとも気づかなくて……」%K%P
+Makoto「I never... noticed your feelings...」%K%P
+0x6B4
+いづみ「別に謝らなくてもいいのよ」%K%P
+Izumi「You don't have to apologize.」%K%P
+0x6C0
+いづみ「私が勝手に好きになっちゃったんだから……」%K%P
+Izumi「I was the one who fell in love off on my own, after all...」%K%P
+0x6CC
+いづみ「……だからお願い。%W%Wしばらくの間、%Wあなたを好きでいさせて……」%K%P
+Izumi「... So please... For this short time, let me love you...」%K%P
+0x6D8
+これが……人に愛された時の……気持ち……？%K%N
+Is this what it feels like... to be loved... by another%Nperson?%K%N
+0x6E4
+いや、そうじゃないのかもしれない。%K%P
+No, that might not be it.%K%P
+0x6F0
+オレは、人に愛されたのではなく……%K%N
+I'm not being loved by a "person"...%K%N
+0x6FC
+──『女神』に……愛されたのかもしれない……。%K%P
+―I might be being loved... by a "goddess".%K%P

@@ -1,0 +1,174 @@
+text area offset and size:
+0x730
+0x89C
+0x7C
+いづみ「……お願い……」%K%P
+Izumi「... Please...」%K%P
+0x88
+いづみ「……起きてよぉ……」%K%P
+Izumi「... Wake up...」%K%P
+0x94
+いづみ「……起きて……」%K%P
+Izumi「... Wake up...」%K%P
+0xA0
+いづみ「……誠くんがいなくちゃ……」%K%P
+Izumi「... Makoto-kun, if you're gone...」%K%P
+0xAC
+いづみ「……いやなの……」%K%P
+Izumi「... I don't want that...」%K%P
+0xB8
+いづみ「……ダメなの……」%K%P
+Izumi「... That's no good...」%K%P
+0xC4
+いづみ「……私……生きていけないよ……」%K%P
+Izumi「... I... couldn't go on living...」%K%P
+0xD0
+いづみ「……ずっとそばに……」%K%P
+Izumi「... I want to always...」%K%P
+0xDC
+いづみ「……いてほしいの……」%K%P
+Izumi「... be by your side...」%K%P
+0xE8
+いづみ「……死んじゃやだよぉ……」%K%P
+Izumi「... I don't want you to die...」%K%P
+0xF4
+いづみ「……ねえ、起きてよぉ……」%K%P
+Izumi「... Hey, wake up...」%K%P
+0x100
+いづみ「……起きてってばぁ……」%K%P
+Izumi「... I said wake up...」%K%P
+0x10C
+いづみ「……もう１度……」%K%P
+Izumi「... Just one more time...」%K%P
+0x118
+いづみ「……見ようよ……星……」%K%P
+Izumi「... I want to see... the stars with you...」%K%P
+0x124
+いづみ「…………星…………星…………」%K%P
+Izumi「... The stars... The stars...」%K%P
+0x130
+（……いづみ……%T060さん……）%K%P
+(... Izumi... san...)%K%P
+0x168
+目を開いた。%K%P
+I open my eyes.%K%P
+0x174
+雨が降っていた。%K%N
+The rain is falling.%K%N
+0x180
+灰色の空が見えた。%K%N
+I see a grey sky.%K%N
+0x18C
+無数のしずくが、舞い降りていた。%K%P
+Countless drops of water are flying down.%K%P
+0x1A4
+いづみ「──ま、まことくん！！！」%K%P
+Izumi「―Ma-Makoto-kun!!!」%K%P
+0x1B0
+誠「………………………………」%K%P
+Makoto「...」%K%P
+0x1BC
+いづみ「大丈夫！？　しっかりして！？」%K%P
+Izumi「Are you all right!? Hang in there!」%K%P
+0x1D8
+誠「………………………………」%K%P
+Makoto「...」%K%P
+0x1E4
+いづみさん……。%K%N
+Izumi-san...%K%N
+0x1F0
+いづみさんが、泣いていた。%K%P
+She's crying.%K%P
+0x1FC
+その向こうに、高い崖の先端が見えた。%K%P
+Beyond her, I see the tip of a tall cliff.%K%P
+0x208
+背中に、ぬるぬるとした泥の感触を覚えた。%K%P
+I feel the sensation of slippery mud on my back.%K%P
+0x214
+誠「………どうして……………%T030オレ………」%K%P
+Makoto「... What... am I doing...」%K%P
+0x220
+誠「………こんなとこ…………%T030に………？」%K%P
+Makoto「... In a place... like this...?」%K%P
+0x22C
+言いながら立ち上がろうとしたが、やはり体は動かなかった。%K%P
+I try to stand up as I say this, but as I thought, my body%Nwon't move.%K%P
+0x238
+呼吸をするたびに、口から大量の血があふれ出した。%K%P
+Every time I take a breath, a large amount of blood%Ncomes overflowing from my mouth.%K%P
+0x244
+いづみ「……誠くんが……誠くんが……」%K%P
+Izumi「... Because, Makoto-kun... Makoto-kun, you...」%K%P
+0x250
+いづみ「……助けて……くれたの……」%K%P
+Izumi「... saved... me...」%K%P
+0x25C
+いづみ「……あの崖から落ちて……」%K%P
+Izumi「... from falling off that cliff...」%K%P
+0x268
+いづみ「……誠くんが……誠くんが……」%K%P
+Izumi「... Makoto-kun... you...」%K%P
+0x274
+いづみ「……かばって……くれたの……」%K%P
+Izumi「... protected... me...」%K%P
+0x280
+（──崖？）%K%P
+(―Cliff?)%K%P
+0x28C
+オレは力を振り絞り、左手を持ち上げた。%K%P
+I muster my strength and raise my left hand.%K%P
+0x2A8
+『６日　ＳＡＴ　１０：２６』%K%P
+(6 SAT 10:26 A.M.)%K%P
+0x2B4
+かつてのいづみさんの言葉が、ぼんやりと頭に浮かんだ。%K%P
+The former Izumi-san's words faintly pop into my mind.%K%P
+0x300
+いづみ「誠くんは『私が死なない』という歴史を創り上げた瞬間に、本当の現実世界に戻るのよ」%K%P
+Izumi「The moment you create the history in which 'I don't die',%Nyou go back to the true, real world.」%K%P
+0x32C
+誠「………いづみ………%T030さん………」%K%P
+Makoto「... Izumi... san...」%K%P
+0x338
+誠「……………………………%T030砂……」%K%P
+Makoto「... The star...」%K%P
+0x344
+いづみ「えっ？」%K%P
+Izumi「Huh?」%K%P
+0x350
+誠「…………………%T030星の……%T030砂……」%K%P
+Makoto「... The star... sand...」%K%P
+0x35C
+いづみ「星の、砂…………」%K%P
+Izumi「Star sand...」%K%P
+0x368
+いづみ「星の砂って………」%K%P
+Izumi「Star sand...」%K%P
+0x384
+いづみ「……………なに？」%K%P
+Izumi「... What are you talking about?」%K%P
+0x390
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0x3B8
+冷たい雨が、降っていた。%K%P
+The cold rain falls.%K%P
+0x3C4
+雨音の彼方に、救急車のサイレンを聞いた。%K%P
+Beyond the sound of rain, I hear an ambulance siren.%K%P
+0x3D0
+オレは感覚の失せた左手で、無理矢理ポケットの中を探った。%K%P
+Though my left hand is numb, I use it to search my%Npocket, despite my body's complaints.%K%P
+0x3DC
+そうして取り出したものは……%K%P
+And I take out...%K%P
+0x408
+──３粒の、星。%K%N
+―The three grains of star sand.%K%N
+0x414
+青く透き通った水の中……%K%N
+They're in the blue, transparent water...%K%N
+0x420
+３つの星が、%T060寄り添うように%T030輝%Wい%Wて%Wい%Wた%W…%W…%W。%K%P
+The three stars, as if nestling together, shine...%K%P

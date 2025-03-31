@@ -1,0 +1,240 @@
+text area offset and size:
+0x690
+0xF10
+0x40
+くるみに置いてかれたオレは、空腹を満たすためにルナビーチへと来ていた。%K%P
+Having been ditched by Kurumi, I go to Lunabeach to%Nsatisfy my hunger.%K%P
+0x4C
+もちろん、さっきのくるみの言葉が気がかりだったというのもある……。%K%P
+Of course, I'm also concerned about what Kurumi said%Nearlier...%K%P
+0x60
+いづみ「あら？　誠くん。いらっしゃい♪」%K%P
+Izumi「Oh, Makoto-kun. Welcome♪」%K%P
+0x88
+店内に入ると、いつも通りのにこやかな表情で、いづみさんがオレを迎えてくれた。%K%P
+When I enter the shop, Izumi-san greets me, smiling as%Nalways.%K%P
+0x94
+いづみ「くるみは、どうしたの？　一緒だって%N聞いてたけど？」%K%P
+Izumi「Where's Kurumi? I heard the two of you were together.」%K%P
+0xA0
+くるみ……。そう。くるみの話では、いづみさんはオレ達の大学の関係者のようなのだが……？%K%P
+Kurumi... Right. Kurumi said that Izumi-san has some sort%Nof connection to my college...%K%P
+0xAC
+気になって、いづみさんの顔をじっと見つめるオレ。%K%P
+Curious, I stare at Izumi-san's face.%K%P
+0xB8
+いづみ「……？　私の顔、何かついてる？」%K%P
+Izumi「...? Is there something on my face?」%K%P
+0xC4
+誠「あ、いや……なんでも」%K%P
+Makoto「Oh, no... there isn't.」%K%P
+0xD0
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0xDC
+誠「…………」%K%P
+Makoto「...」%K%P
+0xE8
+いづみ「……やっぱり、何かあるんでしょ？」%K%P
+Izumi「... So there really is something?」%K%P
+0xF4
+どうしよう……？%K%P
+What should I do...?%K%P
+0x100
+思い切って、聞いてみようかな……。%K%P
+Well, there's no harm in asking, I suppose...%K%P
+0x10C
+誠「ねえ、くるみから聞いたんだけど……」%K%P
+Makoto「Hey, I heard it from Kurumi, but...」%K%P
+0x118
+いづみ「……？」%K%P
+Izumi「...?」%K%P
+0x124
+誠「……いづみさんて、オレ達の大学と、何か関係があるんですか？」%K%P
+Makoto「... Izumi-san, do you have some connection to my%Ncollege?」%K%P
+0x130
+いづみさんは一瞬チラッと視線をそらせ、そしてこう答えた。%K%P
+Izumi-san instantly averts her gaze from me, and%Nanswers.%K%P
+0x13C
+いづみ「ふふふっ……。もう〜、くるみったら、しょうがないな〜……」%K%P
+Izumi「Hee hee hee... Geez, if Kurumi said it, I guess it can't be%Nhelped...」%K%P
+0x148
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x154
+いづみ「……実はね、私、誠くんの大学のＯＧなの」%K%P
+Izumi「... The truth is, I'm a graduate from your college,%NMakoto-kun.」%K%P
+0x160
+誠「えっ！？」%K%P
+Makoto「Huh!?」%K%P
+0x16C
+いづみ「ビックリした？」%K%P
+Izumi「Are you surprised?」%K%P
+0x178
+誠「え、ええ……。意外です」%K%P
+Makoto「Y-Yes... It was quite unexpected.」%K%P
+0x184
+いづみ「別に、隠すほどのことでもないんだけど、何だか言うタイミングを逃しちゃって……」%K%P
+Izumi「It's not like it was something I was trying to hide, but I%Nnever felt it was necessary to mention it...」%K%P
+0x190
+いづみ「だって、そうでしょ？　今更な感じがするし……」%K%P
+Izumi「Though I feel like I should have done so earlier...」%K%P
+0x19C
+いづみ「もしかしたら、キャンパスでも知らずにすれ違っていたかもしれないなんて思うと、なんだか恥かしくて……」%K%P
+Izumi「I suppose it's because it's embarrassing to think that%Nwe could have unwittingly missed each other on campus%N...」%K%P
+0x1A8
+（な〜んだ……そうだったのかぁ……）%K%P
+(Oh... so that's all it was...)%K%P
+0x1B4
+（いづみさんは、うちの大学の卒業生……）%K%P
+(Izumi-san is a graduate from my college...)%K%P
+0x1C0
+（やっぱり、世間って狭いんだなぁ……）%K%P
+(It really is a small world...)%K%P
+0x1CC
+オレはつくづくそう思った。%K%P
+What are the odds of that?%K%P
+0x214
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0x24C
+誠「ふぅ〜、ごちそうさまでした！」%K%P
+Makoto「Whew〜, thanks for the meal!」%K%P
+0x258
+いづみさんの作ったエビピラフを平らげ、オレの満腹中枢はようやく満たされた。%K%P
+Izumi-san's shrimp pilaf has finally satisfied my hunger.%K%P
+0x288
+いづみさんは食べ終えた食器を片づけながら、うれしそうに顔をほころばせている。%K%P
+Izumi-san cleans up the plates I ate off of with a happy%Nface.%K%P
+0x29C
+いづみ「ところで……」%K%P
+Izumi「By the way...」%K%P
+0x2A8
+誠「はい？」%K%P
+Makoto「Yes?」%K%P
+0x2B4
+いづみ「これから時間、空いてる？」%K%P
+Izumi「Are you free from now on?」%K%P
+0x2C0
+誠「え？　は、はい。空いてます……」%K%P
+Makoto「Huh? Y-Yeah, I'm free...」%K%P
+0x2CC
+いづみ「優夏ちゃんから聞いてるかな？　今日の５時にルナビーチに集合って話」%K%P
+Izumi「Have you heard from Yuka-chan? Everyone's gathering%Nhere at 5:00 today.」%K%P
+0x2D8
+誠「ええ。……５時から何があるんですか？」%K%P
+Makoto「Yeah... What's happening at 5:00?」%K%P
+0x2EC
+いづみ「うふふ……。みんなでバーベキューをするの♪」%K%P
+Izumi「Hee hee hee... We're all having a barbecue♪」%K%P
+0x2F8
+誠「へぇ」%K%P
+Makoto「Wow.」%K%P
+0x304
+いづみ「だから、いろいろと準備することもあって……」%K%P
+Izumi「So there's a lot of preparations that must be made...」%K%P
+0x310
+誠「ふむふむ」%K%P
+Makoto「I see, I see.」%K%P
+0x31C
+いづみ「でも、私にはお店があるでしょ？」%K%P
+Izumi「But I'm running the shop, you know?」%K%P
+0x328
+誠「はい」%K%P
+Makoto「Yes.」%K%P
+0x334
+全く客のいない店内を見てしまうと説得力に欠ける言い方だが、とりあえずうなずいておく。%K%P
+I have no idea where she's trying to go with this, so I just%Nnod my head.%K%P
+0x348
+いづみ「だから、誠くんにも準備を手伝って欲しいの」%K%P
+Izumi「That's why I want you to help with the preparations as%Nwell.」%K%P
+0x354
+誠「な〜るほど…………%T060えっ？」%K%P
+Makoto「I see...%T060 What?」%K%P
+0x3A0
+いづみ「お願いできるかしら？」%K
+Izumi「Could you please help out?」%K
+0x668
+『まかせてよ』
+"Leave it to me."
+0x674
+『……実は用事が』
+"... I've got an errand."
+0x3F0
+誠「うん。それなら任せてよ！　いづみさん！」%K%P
+Makoto「Yes, leave it to me, Izumi-san!」%K%P
+0x404
+いづみ「本当？　助かるなぁ〜♪」%K%P
+Izumi「Really? You're a lifesaver〜♪」%K%P
+0x418
+いづみ「ありがとね、誠くん♪」%K%P
+Izumi「Thank you, Makoto-kun♪」%K%P
+0x424
+いづみさんはそう言って、オレの手を取り、にぎりしめた。%K%P
+Izumi-san takes my hand and grasps it tightly as she%Nsays this.%K%P
+0x430
+ぎゅっと熱意のこもった手の平の感触……。%K%P
+But maybe she's gripping it a little too tightly...%K%P
+0x43C
+（こんなにまでして、喜ぶことなのかな？）%K%P
+(Is this really something to get overjoyed about?)%K%P
+0x448
+などと思いながらも、嬉しそうに顔をほころばせるいづみさんを見て、オレの心は軽やかに弾んでいた。%K%P
+Although I think that, seeing Izumi-san's beaming smiling%Nface causes my heart to skip a beat.%K%P
+0x484
+いづみ「お願いできるかしら？」%K%P
+Izumi「Can you do a favor for me?」%K%P
+0x490
+誠「……はっ！　思い出した！%N実は用事があるんだった。ゴメン、いづみさん！」%K%P
+Makoto「... Crap! I just remembered! The truth is, there's something%NI have to do. Sorry, Izumi-san!」%K%P
+0x4A4
+いづみ「えぇ〜、そうなの〜？」%K%P
+Izumi「Whaaaat, really?」%K%P
+0x4B0
+口を尖らせるいづみさん。%K%P
+Izumi-san pouts.%K%P
+0x4BC
+もちろん、用事なんてものは何もない。口からデマカセってやつだ。%K%P
+Of course, I have nothing to do. I just quickly came up%Nwith an excuse.%K%P
+0x4C8
+オレだけ準備を手伝うなんて、何だか割に合わないような気がする。%K%P
+I don't think it's fair if I'm the only one helping out with%Npreparations.%K%P
+0x4D4
+早い話が……めんどくさかったのだ。%K%P
+Long story short... it's too much of a hassle.%K%P
+0x4E8
+いづみ「……そう。じゃあ、しょうがないわね」%K%P
+Izumi「... I see. Then it can't be helped.」%K%P
+0x4F4
+誠「本当にゴメンナサイ」%K%P
+Makoto「I'm really sorry.」%K%P
+0x500
+いづみ「ううん。別にいいのよ。もともと１人で準備しようって思ってたところだし」%K%P
+Izumi「No, it doesn't really matter. I was planning to go on my%Nown, anyway.」%K%P
+0x50C
+いづみ「それに、お店もこんな状態じゃ……ね。ヒマをもてあますよりは、いいのかもね」%K%P
+Izumi「Besides, as you can see, the shop's as empty as%Nalways... There's more than enough time to take care of%Neverything, so it should be okay.」%K%P
+0x518
+誠「……うん。じゃあ、そういうことで。ごちそうさま」%K%P
+Makoto「... Right. Well, good luck. Thanks for the food.」%K%P
+0x52C
+いづみ「ええ。それじゃ誠くん、集合時間に遅れちゃダメよ？」%K%P
+Izumi「Yes. Well then, don't be late for the meeting time, okay?」%K%P
+0x538
+誠「ははっ、大丈夫ですよ」%K%P
+Makoto「Ha ha, I'll be fine.」%K%P
+0x544
+オレはそう言い残すと、ルナビーチを後にした。%K%P
+With those words, I leave Lunabeach.%K%P
+0x574
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0x580
+やがて、太陽は傾き、約束の集合時間になった。%K%P
+Before long, the sun is setting, and the promised time%Narrives.%K%P
+0x58C
+ルナビーチに集まったオレ達は、みんなで手分けしてバーベキューの道具を姫ヶ浜に運んだ。%K%P
+We meet at Lunabeach, where we all pitch in carrying the%Ntools needed for the barbecue to Princess Beach.%K%P
+0x598
+そして……%K%P
+And then...%K%P

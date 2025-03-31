@@ -43,7 +43,7 @@ def detectJpSpeakerAndBrackets(jp_line):
   # Note:
   # There are a few exceptions with corner bracket usage, like at line 1041 in CO4_02.txt,
   # where it is used not for direct speech, but as a regular quotation.
-  
+
   #meta_pattern = r"(?:%[A-Zp][A-Z0-9]*)*?"
   main_text_pattern_ja = "^((?:[^%]*?\u300c|『)?).*?(\u300d|』)?$"
   match_ja = re.match(main_text_pattern_ja, jp_line)
@@ -51,7 +51,7 @@ def detectJpSpeakerAndBrackets(jp_line):
   jp_speaker = match_ja.group(1) # always a speaker name + a corner bracket, or empty
   jp_trailing_bracket = match_ja.group(2)
   jp_leading_bracket = ""
-  
+
   if debug: eprint("JP match %s,%s;"%(jp_speaker, jp_trailing_bracket))
   if debug and "\u300c" == jp_speaker:
     eprint("\u300c without a speaker %s %s,%s; %s"%(sys.argv[1], jp_speaker, jp_trailing_bracket, jp_line))
@@ -68,7 +68,7 @@ def loadJpMacChapterFile(chapter_name: str) -> List[str]:
   orig_chapter_path = os.path.dirname(__file__) + "/../text/tmp/mac-psp-jp/" + chapter_name + ".txt"
   with open(orig_chapter_path, "r", encoding=r11.sjis_enc) as r11_jp_textfile:
     return r11_jp_textfile.readlines()
-  
+
 def filterTrueJpLines(lines: List[str]) -> List[str]:
   # starting from 4th line, every 2nd out of 3
   lines_filtered = [l.rstrip() for i, l in enumerate(lines[3:]) if i%3==1]
@@ -99,12 +99,12 @@ def loadTlBuckets(lines):
 
       if (should_run_buffer_overflow_validations and "%K%P" in line and not line.endswith("%K%P")):
         eprint("Possible typo: found a symbol after '%%K%%P' in '%s'"%(line))
-      
+
       current_tl_bucket = TlBucket()
       current_tl_bucket.jp = line
       tl_buckets.append(current_tl_bucket)
       state = STATE_TRANSLATED_EN
-      
+
       # skips lines in tl_skip_lines
       # skips "-------------------------------------------" lines 
       # skips textless %N %O %P %p sequences
@@ -113,14 +113,14 @@ def loadTlBuckets(lines):
           fourty_dashes_pattern.match(line):
         state = STATE_JP
         if should_run_buffer_overflow_validations and ("%P" in line or "%O" in line): page_buf = 0
-    
+
     elif state == STATE_TRANSLATED_EN:
       current_tl_bucket.en = line
       # look for CN line next
       state = STATE_TRANSLATED_CN
       if line.strip() == "":
         eprint("EN line was empty! (jp)'{}' [{}]".format(current_tl_bucket.jp, fileinput.filename()))
-      
+
     elif state == STATE_TRANSLATED_CN:
       current_tl_bucket.cn = line
       if line.strip() == "":
@@ -153,7 +153,7 @@ def prepareTlLines(tl_buckets, tl_suffix, current_filename, jp_mac_chapter_lines
 
     jp_trailing_meta = r11.find_trailing_control_sequence(jp_line)
     jp_tips = detectTips(jp_line)
-    
+
     if (tl_suffix == "en" and not en_line):
       # output slightly cleaned up original if there's no TL
       en_line = r11.clean_en_translation_line(jp_line)
@@ -183,7 +183,7 @@ def prepareTlLines(tl_buckets, tl_suffix, current_filename, jp_mac_chapter_lines
       # lineLen = len(en_line)
       # if nonenlen > 1:
       #   print("Warning! Found too many non-en chars: [{}] in line {}".format(nonen, en_line))
-      
+
       if jp_speaker:
         translated_speaker = names.translateNamesString(jp_speaker, tl_suffix)
         # append TL'ed speaker + opening bracket
@@ -208,7 +208,7 @@ def prepareTlLines(tl_buckets, tl_suffix, current_filename, jp_mac_chapter_lines
       export_translated_line += en_line
       export_translated_line += jp_trailing_bracket if jp_trailing_bracket else ""
       trailing_control = en_trailing_meta if en_trailing_meta else jp_trailing_meta
-    
+
     elif tl_suffix == 'cn':
       cn_trailing_meta = r11.find_trailing_control_sequence(cn_line)
       cn_tips = detectTips(cn_line)

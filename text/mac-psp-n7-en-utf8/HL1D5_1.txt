@@ -1,0 +1,411 @@
+text area offset and size:
+0xE90
+0x1AC8
+0x134
+──コン、コン！　コン、コン！%K%Nドアをたたく音。%K%P
+―*Knock*, *knock*! *Knock*, *knock*! Someone's%Nknocking on the door.%K%P
+0x140
+（う……う〜ん……）%K%P
+(Mmm... Mmm〜...)%K%P
+0x14C
+（誰だよ……こんな時間に……？）%K%P
+(Who would come over... so late at night...?)%K%P
+0x158
+オレは眠い目をこすりながら、ベッドから身を%N起こした。%K%P
+I get up from the bed while I rub my sleepy eyes.%K%P
+0x180
+ノックはまだ続いている。%K%N
+The knocking continues.%K%N
+0x18C
+オレはドアのところまで歩いて行き、それを開いた。%K%P
+I walk over to the door, and open it.%K%P
+0x3B0
+──ゴン！%K%P
+―Wham!%K%P
+0x3BC
+誠「！？」%K%P
+Makoto「!?」%K%P
+0x3E4
+遙だった。%K%N
+It's Haruka.%K%N
+0x3F0
+ドアに額をぶつけたらしく、手を当てて%N恥ずかしそうに笑っていた。%K%P
+It seems she'd banged her forehead on the door, as%Nshe's now rubbing it with a sheepish smile.%K%P
+0x3FC
+誠「あ……今、オレがやっちゃったか？」%K%P
+Makoto「Ah... Did I do that just now?」%K%P
+0x410
+遙「ううん、そうじゃない。ちょっと寝ぼけてて……」%K%P
+Haruka「No, that's not it. I was slightly half-asleep...」%K%P
+0x41C
+誠「それにしちゃ、しっかりノックしてたけど」%K%P
+Makoto「Really? You were knocking rather loudly for someone%Nwho was just 'half-asleep'...」%K%P
+0x430
+遙「あ、%Wそ、%Wそれは……」%K%P
+Haruka「Ah, th-that's...」%K%P
+0x43C
+黙りこくってしまった。%K%P
+She falls silent.%K%P
+0x448
+だが以前の遙と違う。%K%N
+Haruka's acting kind of funny right now.%K%N
+0x454
+明らかに焦っている。%K%N
+She's obviously in some kind of hurry.%K%N
+0x460
+心を見透かされて、誤魔化すに誤魔化せず、%Nただ黙るしかないといった感じだ。%K%P
+She probably fell silent because she sees that I didn't%Nbuy her act, and now doesn't know what to say next.%K%P
+0x46C
+誠「ごめん。ちょっと意地悪言っちゃったな」%K%P
+Makoto「Sorry. I was just teasing you there.」%K%P
+0x480
+遙「意地悪？」%K%P
+Haruka「'Teasing'?」%K%P
+0x48C
+誠「って言うんだよ、こういうこと」%K%P
+Makoto「Yeah, exactly.」%K%P
+0x498
+遙「……そうなんだ」%K%P
+Haruka「... I see.」%K%P
+0x4A4
+誠「で、何？」%K%P
+Makoto「So, what's up?」%K%P
+0x4B0
+遙「いい」%K%P
+Haruka「Forget it.」%K%P
+0x4BC
+誠「いいって……」%K%P
+Makoto「Huh? Why are you telling me to forget it when you've%Ncome all the way here...?」%K%P
+0x4C8
+遙「誠、熟睡してたみたいだから」%K%P
+Haruka「Well, it seems like you were sound asleep.」%K%P
+0x4D4
+誠「まあね……一番気持ちいいときだった」%K%P
+Makoto「Well, yeah... it's really late and I value my sleep.」%K%P
+0x4E0
+遙「そうか……私が寝つかれないでいるからって、%Nみんな、そうとは限らない……」%K%P
+Haruka「I see... just because I can't sleep doesn't mean that%Nothers can't either...」%K%P
+0x4EC
+誠「当たり前だろ。起こされた身になってみろよ」%K%P
+Makoto「Of course. It's considered rude to wake people up like%Nthat, you know.」%K%P
+0x500
+遙「ごめん……なさい」%K%P
+Haruka「I'm... sorry.」%K%P
+0x50C
+誠「うん……まあ、わかればいいんだけど」%K%P
+Makoto「Hmm... well, if you understand, it's fine.」%K%P
+0x518
+遙「じゃ、お休みなさい」%K%P
+Haruka「Well then, good night.」%K%P
+0x52C
+遙は、くるりとオレに背を向けた。オレは、考えるより先に呼び止めていた。%K%P
+As Haruka turns her back towards me, I impulsively call%Nout for her to stop.%K%P
+0x538
+誠「おっ、おい！　待てよ」%K%P
+Makoto「H-Hey! Hold on!」%K%P
+0x54C
+遙「え？」%K%P
+Haruka「Huh?」%K%P
+0x558
+誠「寝つかれないんだろ？%K%Nそれに、何か用事があるんじゃなかったのか？」%K%P
+Makoto「You can't sleep, right? And besides, didn't you have%Nsomething you wanted to say to me?」%K%P
+0x564
+遙「私は今、お休みなさいって言った。それに、%N誠も熟睡してたって言った」%K%P
+Haruka「Just now, I said good night. And you also said that you%Nwere sound asleep.」%K%P
+0x570
+小さくぴしゃりとオレに浴びせてきた。%Nオレは二の句が継げなかった。%K%P
+Haruka's words sting, as if they had slapped me right%Nacross the face. I gawk at her, speechless.%K%P
+0x57C
+誠「……」%K%P
+Makoto「...」%K%P
+0x590
+遙「こういうの、意地悪って言うんだ？」%K%P
+Haruka「Isn't this what you call being 'teased'?」%K%P
+0x59C
+振り向いた遙の顔に、ぱあっと悪戯っぽい笑みが広がった。%K%P
+Haruka turns around to give me a wide, impish smile.%K%P
+0x5A8
+楽しそうだった。%K%Nこんな遙の顔を見るのは初めてだった。%K%P
+She's beaming. It's the first time I've ever seen an%Nexpression like that on her face.%K%P
+0x5B4
+誠「そういうの、あんまり覚えるなよな……」%K%P
+Makoto「You pick up on things way too easily...」%K%P
+0x5C0
+困惑したようにオレが言うと、遙が声を殺してまた笑った。オレはため息をついた。%K%P
+When she sees how embarrassed I am, Haruka covers%Nher mouth and giggles. I heave a sigh.%K%P
+0x5CC
+誠「で、どうしたの？」%K%P
+Makoto「So, what's up?」%K%P
+0x5E0
+遙「お願いがあるんだけど……」%K%P
+Haruka「There's a favor I'd like to ask you...」%K%P
+0x5EC
+遙が……オレにお願い？%K%Nいったい何なのだろう？%K%P
+Haruka... wants to ask me a favor? Just what could it be?%K%P
+0x5F8
+遙「……あ、あの……、昨日の夜も私、眠れなかったの。それでひとりで外を歩いていたら……不知火を見たの。朝の４時半ぐらいだったと思う……」%K%P
+Haruka「U-Umm... I couldn't sleep last night either. So when I took a%Nwalk outside by myself... I saw some shiranui. I think it was%Nabout 4:30 in the morning...」%K%P
+0x604
+誠「不知火？」%K%P
+Makoto「Shiranui? You mean like will-o'-the-wisps?」%K%P
+0x610
+遙「そう、不知火……とってもきれいだった……。%Nだからね、今日も見に行こうと思うの」%K%P
+Haruka「Right, shiranui... They were very pretty... That's why I was%Nthinking of going to see them again tonight.」%K%P
+0x61C
+誠「それで、オレに一緒に行って欲しいと？」%K%P
+Makoto「And you want me to go with you?」%K%P
+0x628
+遙「……うん」%K%P
+Haruka「... Yes.」%K%P
+0x634
+もちろん、断る理由など何もない。オレは%N腕時計のライトを点けて時間を確認してから言った。%K%P
+Well, I don't see why not. I turn on my watch light to check%Nthe time.%K%P
+0x640
+誠「わかったよ。%Kでも、まだ１時過ぎだから%N早いんじゃないか？　ちょっとだけでもいいから、%N寝ておいた方がいいよ」%K%P
+Makoto「Sure, but it's only 1:00. Isn't that too early? I think it'd be%Nbest if we got some more sleep, even if it's only for a%Nlittle bit.」%K%P
+0x64C
+誠「明日もきっと忙しくなるんだろうし……。%Kなんなら、オレの腕時計貸そうか？」%K%P
+Makoto「Because I'm sure tomorrow will also get busy... I can lend%Nyou my watch, if you'd like.」%K%P
+0x658
+遙「ううん。大丈夫。じゃあ、ちょっとだけ寝るから後で呼びに来るね」%K%P
+Haruka「No, I'll be fine. Well then, I'll let you sleep for a bit, then%Ncome to wake you up afterwards.」%K%P
+0x664
+誠「ああ。ドアの鍵は開けとくから、もしも寝てたら%Nたたき起こしてよ」%K%P
+Makoto「Okay. I'll leave the door unlocked so that you can wake%Nme up if I'm still asleep.」%K%P
+0x670
+遙「うん。わかった。約束だよ」%K%P
+Haruka「All right, I understand. It's a promise.」%K%P
+0x67C
+誠「……約束だ」%K%P
+Makoto「... It's a promise.」%K%P
+0x6AC
+オレのその言葉を聞くと、遙は満足そうな笑顔を%N浮かべて部屋から出ていった。%K%P
+A smile rises on Haruka's lips at those words. Satisfied,%Nshe leaves the room.%K%P
+0x6B8
+４時半か……。%K%Nオレは腕時計のアラームをセットして、再びベッドに%Nもぐり込んだ……。%K%P
+4:30, huh... I set my watch alarm to that time before I%Ncollapse on the bed...%K%P
+0x738
+腕時計のアラーム……。%K%Nそれを耳にして、オレはすぐに目を覚ました。%K%Nと、同時に……%K%P
+My watch alarm... When I hear that sound, I immediately%Nwake up. And, at the same time...%K%P
+0x760
+……ドアをノックする音。%K%P
+... I hear the sound of knocking on the door.%K%P
+0x794
+遙「……起きてる？」%K%P
+Haruka「... Are you awake?」%K%P
+0x7A0
+小さくひそめるような、遠慮がちな声がもれてきた。%K%P
+She slowly asks this in a quiet voice.%K%P
+0x7AC
+誠「あっ……起きてるよ！　ちょっと待ってて！」%K%P
+Makoto「Ah... I'm awake! Wait a minute!」%K%P
+0x7B8
+遙「……うん」%K%P
+Haruka「... Okay.」%K%P
+0x7C4
+オレは慌ててベッドから起き上がると、遙の待つ%Nリビングへと出て行った……。%K%P
+I quickly get off the bed and head out to the living room,%Nwhere Haruka is waiting...%K%P
+0x820
+静まり返ったリビングは、ため息が出てしまいそうな程の寂しさに満ちていた。%K%N
+I let out a sigh in the quiet, empty room.%K%N
+0x82C
+ロフトの上から、スースーと億彦の寝息が%N聞こえている。%K%P
+I can hear Okuhiko snoring from up in the loft.%K%P
+0x838
+誠「じゃ、行こうか？」%K%P
+Makoto「Well then, shall we go?」%K%P
+0x844
+オレがうながすと、遙は『うん』とうなずいて%N見せた。%K%P
+I ask this with a nod, and Haruka follows suit.%K%P
+0x858
+玄関のドアノブに手をかけるオレ。%K%N
+I start to reach out for the doorknob on the front door.%K%N
+0x874
+と、その時……%K%P
+And, at that moment...%K%P
+0x880
+億彦「おいっ！　待て！」%K%P
+Okuhiko「Hey! Wait!」%K%P
+0x88C
+……急にとどろいた億彦の声。%K%N
+... Okuhiko suddenly shouts in a roaring voice.%K%N
+0x898
+ビクッとして上を見上げると……%K%P
+When I look up in surprise...%K%P
+0x914
+億彦「まずい……%W%Wエネルギーが……%W%Wエネルギーが……%W%W足り……%W%W%Wない……%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
+0x928
+億彦「ニュートリノエナジーパワーオンッ！……%W%Wへ〜%W%Wんしん！……%W%Wとぉ！%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「Neutrino Energy, Power On! ... Trans〜form! ... There! ...%NZzz...」%K%P
+0x93C
+億彦「出たなハイテク怪人掃除機男……%W%Wううっ……%W%W吸われる……%W%W吸わ……%W%Wれる……%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
+0x950
+億彦「お疲れ様でしたぁ……%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「Good work... Zzz...」%K%P
+0x964
+億彦「コラッ！…ボウズ！%W%W…舞台に上がるな舞台に！%N%W%W…おいっやめろ！%W%W…チャックを…%W%Wチャックを…%W%Wおろすな！%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't...%Nlower... that zipper! ... Zzz...」%K%P
+0x978
+……どうやら寝言のようだった。%K%P
+... It seems he's just sleeptalking.%K%P
+0x984
+（ふーっ……ったく、いったいどんな夢見てんだよ、%N億彦の奴……）%K%P
+(Whew... man, what kind of dream is he having anyway...?)%K%P
+0x990
+億彦のことは無視して、オレはそのまま玄関の扉を%N開いた……。%K%P
+I ignore Okuhiko and open the front door...%K%P
+0xA04
+海岸線へ下る坂道を、オレと遙は並んで歩いていく。%K%N
+Haruka and I begin to walk side-by-side down the hill%Nroad that leads to the shoreline.%K%N
+0xA10
+その途中の道で、遙がふいにつぶやいた。%K%P
+On the way, Haruka suddenly mutters this.%K%P
+0xA24
+遙「きれい……」%K%P
+Haruka「They're so pretty...」%K%P
+0xA30
+遙は微笑みを浮かべながら、夜空を見つめていた。%K%P
+Haruka stares at the night sky as a smile graces her lips.%K%P
+0xA68
+オレも空を見上げた。%K%P
+I also look up at the sky.%K%P
+0xA74
+満天の星空だった。%K%N
+It's completely covered in stars.%K%N
+0xA80
+まるで地上に降り注ぐように、星々は明るく%Nきらめいていた。%K%P
+They shine brightly, their light raining down onto the%Nearth.%K%P
+0xA9C
+オレは遙に目を移した。%K%P
+My eyes turn to Haruka.%K%P
+0xAA8
+星を見上げる遙の横顔には、清冽な美しさがあった。%K%N
+There's a cool and clear beauty to her face as she%Nlooks up at the stars.%K%N
+0xAB4
+この世で受けた汚いもの全てを、星の光が洗い流していく……%Kそんな瞬間を見ているようだ。%K%P
+It looks as if all the filthy things the world has burdened%Nher with are starting to be dispelled by the light of the%Nstars...%K%P
+0xAC0
+オレは思った%K%N──遙は、オレにとって何なんだろう……？%K%P
+That's when it hits me.%K ―What does Haruka mean to%Nme...?%K%P
+0xACC
+ここ数日の遙と過ごした時間の記憶が、オレの脳裏に甦った。%K%P
+My heart clutches at the thought.%K%PThe memories of the time I've spent with Haruka here over%Nthe past few days rush through my mind.%K%P
+0xAD8
+最初は何だか危なっかしい子供を見ているような%N気分だった。%K%P
+At first, I felt like she was just a little girl, unable to get a%Ngrip on the world.%K%P
+0xAE4
+そうだ……たびたびオレは%N『娘を持った父親のようだ』なんて思っていた。%K%N
+That's right... I sometimes felt as if I were her father.%K%N
+0xAF0
+いや、そういう気持ちは今でも心のどこかにある。%K%P
+No, even now, I still have those protective feelings%Ntowards her.%K%P
+0xAFC
+けれど、本当にそうなんだろうか？%K%N
+But is that truly it?%K%N
+0xB08
+それだけなんだろうか……？%K%P
+Is that really all it is...?%K%P
+0xB40
+オレと遙が海岸線に出た頃、星々はこの夜最高の%N輝きの時を迎えたかのように、美しく激しく%N瞬いていた。%K%P
+When Haruka and I reach the shoreline, the stars twinkle%Nwith a beautiful intensity, as if they've reached the time%Non this night where they shine their brightest.%K%P
+0xB54
+遙は海を臨みながら、身を乗り出すように星降る空を見上げている。%K%N
+As Haruka faces the sea, she looks up towards the%Nstarlit sky as if she's yearning to become part of it.%K%N
+0xB60
+その顔には、どこか不安そうな、無理に笑おうと%Nしているような感じがあった。%K%P
+Her face seems anxious, and it feels like she's trying to%Nforce herself to smile.%K%P
+0xB6C
+オレは、遙の心の底を覗き見てしまったような%N気がした。%K%P
+It's like I'm seeing the bottom of Haruka's heart.%K%P
+0xB78
+何となく罪悪感にかられて、オレは海に目を移した。%K%N
+I start to feel a little guilty, so I shift my gaze towards the%Nocean.%K%N
+0xB84
+その時だ……。%K%P
+At that moment...%K%P
+0xB90
+赤や黄色を帯びたいくつもの光が、水平線上に%N浮かび上がった。%K%N
+Countless lights with tinges of red and yellow rise above%Nthe water's surface.%K%N
+0xB9C
+近づいたり遠ざかったりしては明滅している。%K%P
+They approach us before bobbing away, flickering.%K%P
+0xBA8
+まるで海上に大きな螢が飛んでいるかのように、%Nすーっと横に走ったりもしていた。%K%P
+They resemble giant fireflies hovering above the water,%Nswaying to and fro in straight lines.%K%P
+0xBB4
+誠「こ、これが……？」%K%P
+Makoto「Th-this is...?」%K%P
+0xBC0
+遙「……不知火」%K%P
+Haruka「... Shiranui.」%K%P
+0xBCC
+遙「船に乗ってる人を導くように動いていく。%N誰がどこで何のために揺らしているのかわからない。だから不知火って呼ぶんだって……」%K%P
+Haruka「They move as if they're guiding sailors on ships. No one%Nknows where they came from or why they sway the way%Nthey do. That's why they're called shiranui, or 'unknown%Nfire'...」%K%P
+0xBD8
+誠「へえ、そうなんだ……」%K%P
+Makoto「Wow...」%K%P
+0xBE4
+誠「でも不知火って確か……陸の灯かりが水面付近の冷気によって異常屈折して、それでいろんな形に%N変化して見えるんだよな？」%K%P
+Makoto「But if I remember correctly... aren't shiranui lights from the%Nshore that refract abnormally due to cold air around the%Nwater's surface? That's why they appear to shapeshift,%Nright?」%K%P
+0xBF0
+遙「それ、違う……」%K%P
+Haruka「That's wrong...」%K%P
+0xBFC
+誠「違うって……。%K不知火の正体くらい、%N遙だって知ってるだろ？%Nオレなんかより頭いいんだから」%K%P
+Makoto「'Wrong'...? But surely you must have known that. You're%Nway smarter than me, after a-」%K%P
+0xC08
+遙「違う……！」%K%P
+Haruka「That's wrong...!」%K%P
+0xC14
+誠「遙……」%K%P
+Makoto「Haruka...」%K%P
+0xC20
+遙「頭いいとか、そんなの関係ない」%K%P
+Haruka「It has nothing to do with being smart.」%K%P
+0xC2C
+誠「……」%K%P
+Makoto「...」%K%P
+0xC38
+遙「あれは、違うの」%K%P
+Haruka「That's wrong.」%K%P
+0xC44
+誠「……」%K%P
+Makoto「...」%K%P
+0xC50
+遙「誰が灯しているのかわからないの」%K%P
+Haruka「No one knows why they light up.」%K%P
+0xC5C
+誠「……」%K%P
+Makoto「...」%K%P
+0xC68
+遙「誰も知らない」%K%P
+Haruka「Nobody knows that.」%K%P
+0xC74
+誠「……」%K%P
+Makoto「...」%K%P
+0xC80
+遙「知ることもできない……」%K%P
+Haruka「It'll always remain a mystery...」%K%P
+0xC8C
+誠「だから……%W%W不知火」%K%P
+Makoto「That's why... it's shiranui?」%K%P
+0xC98
+遙「そう……%W%Wだから、不知火……」%K%P
+Haruka「Yes... That's why it's shiranui...」%K%P
+0xCA4
+清冽……。%K%N
+Cool and clear...%K%N
+0xCB0
+やはりオレはそう感じた。%K%P
+Haruka really does give off that kind of feeling.%K%P
+0xCBC
+遙には普通の人間にはない何かがある。%K%N
+She has something that normal people don't.%K%N
+0xCC8
+それがクローンであることと何の関係があるかは%Nわからないが、オレはこう信じていた。%K%P
+I don't know whether or not it's related to her being a%Nclone, but I believe that.%K%P
+0xCD4
+（遙は、%W%Wどこか遠い異世界から来たんだ、%N%W%Wきっと……）%K%P
+(It's like Haruka came from a faraway parallel universe...)%K%P

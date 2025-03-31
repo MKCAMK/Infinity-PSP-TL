@@ -1,0 +1,432 @@
+text area offset and size:
+0xCC8
+0x18A3
+0x74
+いづみさんの作った料理を食べ終えた後……みんなは月浜に出て行った。%K%P
+After we finish the delicious dinner Izumi-san cooked for%Nus... everyone goes to Moon Beach.%K%P
+0x80
+くるみも、みんなの後に続いて外に出ようとしたが、オレはその腕をつかんで引き止めることにした。%K%P
+Kurumi also tries to follow the others and go outside, but%NI decide to grab her by the arm and pull her back.%K%P
+0x94
+くるみ「えっ？　なぁ〜に？」%K%P
+Kurumi「Huh? What?」%K%P
+0xA0
+くるみが振り向いて尋ねる。%K%P
+Kurumi turns around, questioning me.%K%P
+0xAC
+誠「いや、ちょっと話が……」%K%P
+Makoto「No, I just wanted to talk...」%K%P
+0xB8
+もちろん、話なんかなかった。%K%P
+Of course, I have nothing to talk about.%K%P
+0xC4
+ただ、今はくるみを月浜に行かせるわけにはいかないのだ。%K%P
+I just absolutely can't let Kurumi go to Moon Beach.%K%P
+0xD0
+これからいづみさんは『司紀杜神社』の話を語り始めるだろう。%K%P
+Soon, Izumi-san will probably start telling the others the%Nstory of the "Shiki no Mori Shrine."%K%P
+0xDC
+できればくるみには、神社の存在を知らずに、この７日間を終えてもらいたかった。%K%P
+If possible, I want these seven days to end without%NKurumi learning about the shrine.%K%P
+0xE8
+くるみと神社にどんな関係があるのか？　──それはまだわからないが……。%K%P
+What's Kurumi's connection to the shrine? ―I still%Ndon't know...%K%P
+0xF4
+くるみ「話って？」%K%P
+Kurumi「Talk?」%K%P
+0x100
+誠「う〜ん……何て言えばいいのかなぁ……%Nそのぉ……」%K%P
+Makoto「Umm... how do I put this... err...」%K%P
+0x114
+くるみ「……あっ、わかった！　%Nさっきの予知のことでしょ？」%K%P
+Kurumi「... Oh, got it! You're trying to talk about your prediction%Nearlier, right?」%K%P
+0x120
+誠「あ、ああ……まあ……そんなところかなぁ？」%K%P
+Makoto「Ah, um... well... didn't I tell you so?」%K%P
+0x12C
+くるみ「でも、それだったらくるみ、もう知ってるよ？」%K%P
+Kurumi「But Kurumi already figured out the trick.」%K%P
+0x138
+誠「知ってる？」%K%P
+Makoto「What trick?」%K%P
+0x144
+くるみ「最初っから、優夏さんと打ち合わせしてたんでしょ？」%K%P
+Kurumi「You planned it with Yuka-san from the start, right?」%K%P
+0x150
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x164
+くるみ「もう、とぼけたって無駄だよ？%N絶対そうなんだもん！　%Nそれ以外考えられないもん！」%K%P
+Kurumi「Geez, it's useless to play dumb, you know? It has to be%Nthat! Kurumi can't think of any other way than that!」%K%P
+0x170
+誠「……………………バレた？」%K%P
+Makoto「... I guess you got me?」%K%P
+0x17C
+くるみ「やっぱりねぇ♪　そうだと思った♪」%K%P
+Kurumi「Kurumi knew it♪ That's what she thought♪」%K%P
+0x190
+くるみ「じゃ、くるみも月浜にっ」%K%P
+Kurumi「Then Kurumi will head to Moon Be-」%K%P
+0x19C
+誠「ちょっと待ったぁ！」%K%P
+Makoto「Hold it!」%K%P
+0x1A8
+外に向かおうとするくるみの腕を、ぐっとつかむ。%K%P
+Just as Kurumi tries to go outside, I grab her arm again.%K%P
+0x1B4
+いづみさんの話は、まだ始まったばかりだろう。%K%P
+Izumi-san's story has probably only just begun.%K%P
+0x1C0
+誠「なあ？　……くるみって、怖〜い話とかって、大好きだったよなぁ？」%K%P
+Makoto「Hey... Kurumi, do you love scary stories?」%K%P
+0x1D4
+くるみ「うん♪　だ〜い好き♪」%K%P
+Kurumi「Yep♪ She loves them♪」%K%P
+0x1E0
+誠「じゃあオレが、その怖〜い話を聞かせてあげよう！」%K%P
+Makoto「Then I shall tell you a scary story!」%K%P
+0x1EC
+くるみ「うん♪　また今度ね？」%K%P
+Kurumi「Sure♪ Maybe next time?」%K%P
+0x1F8
+と言って、くるりと振り向くくるみ。%K%P
+Kurumi says this, and turns around.%K%P
+0x204
+再度腕をつかんでそれを止める。%K%P
+I hold her back by the arm yet again.%K%P
+0x210
+誠「だから、待てってぇ！」%K%P
+Makoto「I'm telling you to wait!」%K%P
+0x224
+くるみ「もう〜、なぁ〜にぃ！？」%K%P
+Kurumi「Geez, what is it!?」%K%P
+0x230
+誠「今度じゃダメなんだよ。今じゃないと……今じゃないと、忘れちゃうから……」%K%P
+Makoto「I can't tell you next time. If I don't tell you this time, I'll... I'll%Nforget it...」%K%P
+0x244
+くるみ「う〜ん……じゃあ、ちょっとだけだよ？」%K%P
+Kurumi「Hmm... then Kurumi'll listen just for a little bit.」%K%P
+0x250
+誠「よしっ。なら始めるぞ？」%K%P
+Makoto「All right. Then I'll begin.」%K%P
+0x264
+くるみ「うん」%K%P
+Kurumi「Okay.」%K%P
+0x270
+誠「これはな？　%Nオレの友達から聞いた話なんだけど……」%K%P
+Makoto「I heard this from my friend...」%K%P
+0x27C
+誠「とある峠の山道……その長〜いトンネルにっ」%K%P
+Makoto「There's this mountain trail on a pass... with this loooong%Ntunnel-」%K%P
+0x290
+くるみ「あっ、それなら聞いたことあるから……」%K%P
+Kurumi「Oh, Kurumi's heard that one already...」%K%P
+0x29C
+くるりと振り向くくるみ。%K%P
+With that, Kurumi turns around.%K%P
+0x2A8
+またまた腕をつかんで……%K%N
+I reach out to hold her back...%K%N
+0x2B4
+……空振り。%K%P
+... but I miss.%K%P
+0x2C0
+くるみはオレの手をすっとかわして、表に飛び出して行く……。%K%P
+Kurumi evades my grasp, and rushes out the door...%K%P
+0x2CC
+（ま、まずい……！）%K%P
+(C-Crap...!)%K%P
+0x334
+後を追いかけたが、時すでに遅し……。%K%P
+I run after her, but by the time I get there...%K%P
+0x364
+くるみ「ねえねえ、何の話してるのぉ？」%K%P
+Kurumi「Hey, what were you talking about?」%K%P
+0x378
+沙紀「この近くにね？　神社があるんだって」%K%P
+Saki「There's a shrine nearby.」%K%P
+0x394
+億彦「その神社にまつわる噂話を、いづみさんから聞いてたところなんだ」%K%P
+Okuhiko「Izumi-san was in the middle of telling us a rumor about%Nthat shrine.」%K%P
+0x3A0
+くるみ「ふーん……」%K%P
+Kurumi「Hmm...」%K%P
+0x3AC
+億彦「くるみちゃんは、その神社の話、聞いたことないのかい？」%K%P
+Okuhiko「Kurumi-chan, you've never heard of that shrine before?」%K%P
+0x3B8
+くるみ「うんっ。今初めて聞いたっ！」%K%P
+Kurumi「Nope. First time Kurumi's ever heard of it!」%K%P
+0x3C4
+億彦「じゃあ、ちょうど良かったじゃないか？」%K%P
+Okuhiko「Well then, isn't that exciting?」%K%P
+0x3D0
+良くねぇーんだよ……。%K%P
+It isn't exciting at all...%K%P
+0x3EC
+沙紀「さっ、いづみさん、続きをどうぞ？」%K%P
+Saki「Well then, Izumi-san, will you continue?」%K%P
+0x408
+いづみ「う、うん……」%K%P
+Izumi「Y-Yes...」%K%P
+0x414
+いづみ「……………………」%K%P
+Izumi「...」%K%P
+0x420
+沙紀「いづみ…さん？」%K%P
+Saki「Izumi... san?」%K%P
+0x42C
+いづみ「えーっと……」%K%P
+Izumi「Umm...」%K%P
+0x438
+いづみ「どこまで話したっけ？」%K%P
+Izumi「Where was I?」%K%P
+0x444
+沙紀「『いづみさんも、最初は作り話だろうと思ってた……』って、そこまで」%K%P
+Saki「You were up to the part where you initially thought it was%Nnothing more than a myth.」%K%P
+0x450
+いづみ「そっか……。うん、そう。私も、最初に話を聞いた時には疑ってたの。だけどね……」%K%P
+Izumi「I see... Yes, that's right. When I first heard that story, I%Nwas also doubtful. But then...」%K%P
+0x4D4
+はぁ……。%K%N
+Haah...%K%N
+0x4E0
+だけどまあ、仕方がない……。%K%N
+But there's nothing more that can be done here,%Nanyway...%K%N
+0x4EC
+くるみが神社の話を聞いたからと言って、あの歴史が繰り返すとは限らないし……。%K%N
+Just because Kurumi's heard the story of the shrine%Nnow doesn't necessarily mean that history will repeat%Nitself..%K%N
+0x4F8
+これは、ただのキッカケにしか過ぎないわけで……。%K%N
+This is only the trigger for that incident...%K%N
+0x504
+いや、そもそもキッカケですらないのかもしれない。%K%P
+No, it might not actually be the trigger in the first place.%K%P
+0x518
+あの出来事の根本的な原因は『オレといづみさんの会話をくるみに聞かれてしまった』という所にある。%K%N
+What really caused it was Kurumi overhearing my%Nconversation with Izumi-san.%K%N
+0x524
+それさえなければ、あんなことにはならなかった筈だ。%K%N
+If it hadn't happened, then that incident would never%Nhave happened.%K%N
+0x530
+逆に言えば、それさえ防ぐことができれば悲劇は避けられる、ということになる。%K%N
+That means that if I can prevent that conversation, then%NI can avert that tragedy.%K%N
+0x53C
+起きてしまったことは、もうやむを得ない。%K%P%N
+I can't do anything about events that have already%Noccurred, after all.%K%P
+0x548
+──とにかく前向きに考えよう！%W%W%N%N
+―Anyway, I've got to think positively!%W%W%N%N
+0x554
+オレはすぐに気を取り直したのだった。%K%P
+I immediately pull myself together.%K%P
+0x5B4
+いづみ「ダメよっ！　絶対にダメッ！」%K%P
+Izumi「No way! Absolutely not!」%K%P
+0x5C0
+そのいづみさんの大声に、ふと我に返る。%K%P
+Izumi-san's shout abruptly brings me back to reality.%K%P
+0x5D4
+くるみ「ええ〜っ、なんでぇ〜」%K%P
+Kurumi「Huh, why not?」%K%P
+0x5E0
+いづみ「なんでも！」%K%P
+Izumi「'Why not'!?」%K%P
+0x5EC
+いづみ「いい、くるみ？　今私が言ったことは、冗談なんかじゃないのよ？　分かってるの？」%K%P
+Izumi「Weren't you listening, Kurumi? That story I told you just%Nnow wasn't a joke. Do you understand that?」%K%P
+0x5F8
+くるみ「分かってるよぉ……。%Nだけど…遠くから眺めるぐらいならぁ…」%K%P
+Kurumi「Kurumi understands... But... if we only look at it from a%Ndistance, then...」%K%P
+0x604
+いづみ「ほら、分かってない。%N全然分かってないじゃない」%K%P
+Izumi「See, you don't understand. You don't understand at all!」%K%P
+0x610
+くるみ「だってぇ……」%K%P
+Kurumi「But...」%K%P
+0x61C
+いづみ「だってじゃないのっ！%Nとにかくダメなもんはダメッ！」%K%P
+Izumi「No buts! No means no!」%K%P
+0x628
+いづみ「いい？　分かった？」%K%P
+Izumi「All right? Do you understand?」%K%P
+0x63C
+くるみ「ぶぅ……」%K%P
+Kurumi「Boo...」%K%P
+0x6B0
+優夏「それじゃあ、いづみさん、くるみちゃん、%Nおやすみなさい」%K%P
+Yuka「Well then, goodnight, Izumi-san, Kurumi-chan.」%K%P
+0x6CC
+いづみ「うん。気をつけて帰ってね？」%K%P
+Izumi「Goodnight. Please be careful on your way back, okay?」%K%P
+0x6D8
+くるみ「バイバァ〜イ♪」%K%P
+Kurumi「Bye bye♪」%K%P
+0x6E4
+それぞれに挨拶を交わし終えた後、２人の姉妹は扉の奥へと消えていった。%K%P
+Once everyone finishes saying their goodbyes, the two%Nsisters disappear into the shop.%K%P
+0x6F8
+と思ったら……。%K%P
+Or so I think...%K%P
+0x704
+くるみ「あっ！　忘れてた！」%K%P
+Kurumi「Oh!! Almost forgot!」%K%P
+0x734
+ドアが思い切り開け放たれて、再びくるみの%N登場……。%K%P
+Kurumi comes out again, throwing open the door with all%Nher might...%K%P
+0x740
+（あれ？　オカシイな……）%K%P
+(Huh? This is strange...)%K%P
+0x74C
+ここでくるみが出てくるのは『沙紀からの伝言を思い出したから』だったよな？%K%P
+Didn't Kurumi come back out last time because she had%Nforgotten to deliver Saki's message?%K%P
+0x758
+でも、沙紀は今、この場にいるわけで……。%K%P
+But this time, nothing happened to Saki...%K%P
+0x764
+くるみ「あのね？　そう言えば、伝えなきゃいけないことがあったの！」%K%P
+Kurumi「You know what? Kurumi remembered there's something%Nshe had to tell you!」%K%P
+0x770
+みんな「？？？」%K%P
+Everyone「???」%K%P
+0x77C
+くるみ「これから、くるみね？　億彦くんのこと『おっくん』って呼ぶことにしたから♪」%K%P
+Kurumi「From now on, Kurumi has decided to call Okuhiko-kun%N'Okkun'♪」%K%P
+0x788
+億彦「……………………へ？」%K%P
+Okuhiko「... Huh?」%K%P
+0x794
+くるみ「でぇ、誠くんのことは『お兄ちゃん』って呼ぶことに決めたの♪」%K%P
+Kurumi「And she's decided to call Makoto-kun 'Onii-chan'♪」%K%P
+0x7A0
+億彦「お兄ちゃん？」%K%P
+Okuhiko「Onii-chan?」%K%P
+0x7AC
+優夏「お兄ちゃん？」%K%P
+Yuka「Onii-chan?」%K%P
+0x7B8
+遙「お兄ちゃん？」%K%P
+Haruka「Onii-chan?」%K%P
+0x7C4
+くるみ「いいでしょ？　お兄ちゃん？」%K%P
+Kurumi「Is that all right, Onii-chan?」%K%P
+0x7D0
+誠「ああ。いいよ」%K%P
+Makoto「Yeah, it's all right.」%K%P
+0x7DC
+オレは快く答えた。%K%P
+I answer positively.%K%P
+0x7E8
+『お兄ちゃん』か……。%K%N
+"Onii-chan"...%K%N
+0x7F4
+その響きをとても懐かしく思った。%K%N
+I've missed being called that.%K%N
+0x800
+ふんわりと心を和ませてくれる言葉だ……。%K%P
+Those words soothe my heart...%K%P
+0x814
+くるみ「えへっ♪　よかった♪」%K%P
+Kurumi「Eheh♪ That's good♪」%K%P
+0x820
+くるみ「それじゃあみなさん、おやすみなさ〜い♪」%K%P
+Kurumi「Well then, goodnight everyone♪」%K%P
+0x82C
+手を大きく振りながら、ルナビーチの中へと入って行くくるみ。%K%P
+Kurumi goes back into Lunabeach while waving her hand%Nwidely.%K%P
+0x838
+そんなことをわざわざ伝えるために……。%K%P
+So she came out here just to tell us that...%K%P
+0x844
+オレは思わずにやけてしまった。%K%P
+I instinctively break out into a grin.%K%P
+0x8AC
+ロッジに戻って来たオレは、風呂に入り、歯を磨き、寝間着に着替えてベッドに寝転んだ。%K%P
+When we return to the lodge, I take a bath, brush my%Nteeth, change into my nightclothes, and lie down on the%Nbed.%K%P
+0x8B8
+誠「ふぁ〜……」%K%P
+Makoto「Aaah...」%K%P
+0x8C4
+そのアクビと同時に……%K%P
+As I yawn...%K%P
+0x8EC
+……部屋のドアをノックする音。%K%P
+... I hear a knock on the door.%K%P
+0x8F8
+誠「は〜い？　どうぞぉ」%K%P
+Makoto「Yes, come in.」%K%P
+0x934
+遙「あの……」%K%P
+Haruka「Um...」%K%P
+0x940
+誠「遙？　どうしたんだ？」%K%P
+Makoto「Haruka? What's wrong?」%K%P
+0x94C
+遙「誠……釣りできる？」%K%P
+Haruka「Makoto... can you fish?」%K%P
+0x968
+誠「釣り？」%K%P
+Makoto「Fish?」%K%P
+0x974
+ああ、そう言えば、遙と釣りに行ったのは、明日だったな……。%K%P
+Ah, now that I think about it, tomorrow is the day Haruka%Nand I went fishing...%K%P
+0x980
+誠「ああ、釣りだったらまかしてくれ！」%K%P
+Makoto「Yeah! I'm great at fishing!」%K%P
+0x98C
+威勢よく答えた。%K%P
+I answer cheerfully.%K%P
+0x998
+遙「じゃあ明日……教えてくれる？」%K%P
+Haruka「Then... will you teach me tomorrow?」%K%P
+0x9A4
+誠「もちろん！」%K%P
+Makoto「Of course!」%K%P
+0x9B0
+遙「ほんとに？」%K%P
+Haruka「Really?」%K%P
+0x9BC
+誠「ほんとに！」%K%P
+Makoto「Really!」%K%P
+0x9C8
+遙「…………」%K%P
+Haruka「...」%K%P
+0x9D4
+誠「…………？」%K%P
+Makoto「...?」%K%P
+0x9E8
+遙「ありがと」%K%P
+Haruka「Thank you.」%K%P
+0x9F4
+誠「いえいえ……って言うか、まだ教えてないんだし……」%K%P
+Makoto「No, no... I haven't even taught you yet...」%K%P
+0xA00
+誠「礼を言うのは早過ぎるんじゃないか？」%K%P
+Makoto「Isn't it too early to be thanking me?」%K%P
+0xA0C
+遙「うん……でも……ありがと」%K%P
+Haruka「Yes... but... thank you.」%K%P
+0xA18
+誠「……じゃあ、明日な？」%K%P
+Makoto「... Well then, tomorrow?」%K%P
+0xA24
+遙「うん」%K%P
+Haruka「Yes.」%K%P
+0xA38
+遙は部屋を出て行った。%K%P
+Haruka leaves the room.%K%P
+0xA44
+前にも思ったように……%K%P
+I look back on my previous thoughts...%K%P
+0xA50
+『この７日間を、楽しい出来事だけで埋め尽くすこと』%K%P
+"The next seven days will be happy ones."%K%P
+0xA5C
+『５人の女の子全員を幸せに導くこと……』%K%P
+"I will guide them to happiness..."%K%P
+0xA68
+……それが、もうひとつのオレの重要な役割なのだ。%K%P
+... That's my other important duty.%K%P
+0xA74
+遙を釣りに連れて行くことに、迷いなどなかった……。%K%P
+I didn't even hesitate to accept Haruka's offer to go%Nfishing...%K%P

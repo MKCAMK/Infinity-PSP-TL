@@ -1,0 +1,144 @@
+text area offset and size:
+0x3C0
+0x6B9
+0x98
+ガバッと思い切り布団を蹴飛ばして目覚めた。%K%P
+As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+0xA4
+しばし茫然として虚空を眺める。%K%P
+Still half asleep, I blankly stare into space.%K%P
+0xB0
+見たことのある……天井……。%K%P
+It's a familiar... ceiling...%K%P
+0xBC
+気がつけば、体中がぐっしょりと汗に覆われていて、やけに冷たかった。%K%P
+I realize I'm freezing, my body soaked with sweat all over.%K%P
+0xC8
+オレは大きく息を吸い込み、そして静かに吐き出した。%K%P
+I take a deep breath and slowly exhale.%K%P
+0xD4
+杉の木の温かい香りが、鼻腔の奥から脳の中心へと沁み込んでいく。%K%P
+The warm scent of wood goes through my nose and fills%Nmy head.%K%P
+0xE0
+これを３回繰り返したおかげで…………。%K%P
+It takes me three more breaths until...%K%P
+0xEC
+誠「え……？」%K%P
+Makoto「Huh...?」%K%P
+0xF8
+誠「こ、ここは……」%K%P
+Makoto「T-This is...」%K%P
+0x104
+誠「ロッジ……」%K%P
+Makoto「The lodge...」%K%P
+0x110
+誠「……ロッジじゃないかぁ！」%K%P
+Makoto「... This is the lodge, isn't it!?」%K%P
+0x138
+弾かれたようにベッドから飛び退く。%K%P
+I quickly jump out of the bed.%K%P
+0x144
+床の中央に立ち、部屋の中をぐるりと見回した。%K%P
+I stand in the center of the room, and look around.%K%P
+0x150
+（間違いない……）%K%P
+(There's no mistaking it...)%K%P
+0x15C
+（ここはオレの寝室だ！）%K%P
+(This is my bedroom!)%K%P
+0x168
+どういうことだ？%K%P
+What's going on?%K%P
+0x174
+……そうだ。%K%N
+... That's right.%K%N
+0x180
+オレは確か沙紀を展望公園まで追いかけた。%K%N
+I definitely followed Saki to Viewpoint Park.%K%N
+0x18C
+そして沙紀は、オレの目の前で海に飛び込んだのだ。%K%P
+And then Saki plunged into the sea before my very eyes.%K%P
+0x198
+（……夢？　あれは『夢』だったのか……？）%K%P
+(... A dream? Was that a "dream"...?)%K%P
+0x1A4
+しかし……夢にしては鮮明な記憶がある。%K%P
+However... for a dream, I remember it quite clearly.%K%P
+0x1B0
+しかもあの瞬間だけではない。%K%N
+Also, I don't just remember that moment.%K%N
+0x1BC
+その前の記憶も、その前日も、そのまた前日も……。%K%P
+I have memories of what happened before that, and the%Nday before that, and the day before that one...%K%P
+0x1C8
+次々とオレの脳裏に合宿の様々な出来事が甦ってきた。%K%P
+One by one, I remember the various events that%Nhappened during the Camp.%K%P
+0x1D4
+──違う！%K%P
+―That's wrong!%K%P
+0x1E0
+──違うよ！　何言ってんだ、オレは！%K%P
+―That's wrong! What the hell am I saying!?%K%P
+0x1EC
+──あれは『夢』なんかじゃない！！%K%P
+―That wasn't a "dream"!!%K%P
+0x1F8
+──『夢』なんかじゃなくてっ……%K%P
+―There's no way in hell that was a "dream"...%K%P
+0x220
+突然！　銃声のように暴力的な音が響いた！%K%P
+Suddenly, I hear a sound as violent as a gunshot!%K%P
+0x22C
+振り返ると、そこに立っていたのは……%K%P
+I turn around, and standing there, I see...%K%P
+0x238
+立っていたのは……………………………。%K%P
+I see...%K%P
+0x288
+優夏「ど……どういうこと！？」%K%P
+Yuka「Wh... What's going on!?」%K%P
+0x294
+優夏「どうして……！？」%K%P
+Yuka「Why...!?」%K%P
+0x2A0
+まさか、こんなことって、まさか……。%K%P
+It's impossible. This is impossible.%K%P
+0x2AC
+ふと、オレは腕時計に目をやった。%K%P
+I quickly look at my watch.%K%P
+0x2B8
+『１日　ＭＯＮ　０９：１９』%K%P
+"1 MON 09:19 A.M."%K%P
+0x2C4
+──１日。%K%P
+―1st.%K%P
+0x2D0
+──１日？%K%P
+―1st?%K%P
+0x2DC
+──１日？？？%K%P
+―1st???%K%P
+0x2E8
+誠「ツイタチィッ！！！！！！！！？」%K%P
+Makoto「THE FIRST!!!!!!!!?」%K%P
+0x2F4
+優夏「……？」%K%P
+Yuka「...?」%K%P
+0x300
+どういうことだ？%K%P
+What's the meaning of this?%K%P
+0x30C
+何が起きたんだ？%K%P
+What happened?%K%P
+0x318
+どうしてオレは、ここに？%K%P
+Why am I here?%K%P
+0x324
+頭の中は極度に混乱を来していた。%K%P
+My mind is thrown into extreme confusion.%K%P
+0x330
+誠「ご、ごめん、優夏……」%K%P
+Makoto「S-Sorry, Yuka...」%K%P
+0x33C
+入り口に立ち塞がった優夏を強引に押し退けると、オレはリビングへと踊り出た。%K%P
+I brush past Yuka and head for the living room.%K%P

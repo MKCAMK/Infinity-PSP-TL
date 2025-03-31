@@ -1,0 +1,777 @@
+text area offset and size:
+0x1E90
+0x2C0A
+0x5C
+優夏「よぉ〜し、いくわよぉ♪」%K%P
+Yuka「All right, here I go♪」%K%P
+0x68
+着替えから戻って来た優夏は、ネットの向こう側で%N不敵な笑みを浮かべていた。%K%P
+When Yuka returns from changing her clothes, she%Nstands on the opposite side of the net, wearing a daring%Ngrin.%K%P
+0x74
+優夏「ふっふっふっ……」%K%P
+Yuka「Hee hee hee...」%K%P
+0x80
+優夏「この日のために密かに開発されたサーブ！」%K%P
+Yuka「I have been secretly developing this serve for this day!」%K%P
+0x8C
+優夏「稲妻ゴロゴロアレキサンダーサーブ！」%K%P
+Yuka「Lightning Rumble Alexander Thunder Serve!」%K%P
+0x98
+誠「能書きはいいから早く打て」%K%P
+Makoto「Stop boasting and serve already!」%K%P
+0xA4
+優夏はボールをコートに２・３度ついてから高々と%N投げ上げた。%K%P
+Yuka throws the ball high in the air a few times.%K%P
+0xB0
+きれいに反り返った上半身から、いったい%Nどんなサーブが……。%K%P
+She bends back as far as she can. Just what kind of%Nserve is she...%K%P
+0xBC
+優夏「雷さま！　雷さま！　お願いだから、おヘソは%N取らないでぇ〜！」%K%P
+Yuka「O Lighting! O Lightning! Please, don't strike me down!!」%K%P
+0xD0
+優夏「ゴロゴロピッカンドォーーーンッ！」%K%P
+Yuka「ROARING ELECTRIC STRIKE!」%K%P
+0x100
+誠「──！？」%K%P
+Makoto「―!?」%K%P
+0x128
+──コンコンコンコンコン……。%K%P
+―*SLAM!*...%K%P
+0x13C
+……………………………………。%K%P
+...%K%P
+0x148
+１歩も動けなかった……。%K%P
+Not even a second has passed...%K%P
+0x154
+稲妻のような豪速球は弓なりにしなって空を切り、%N鋭くコートに突き刺さった。%K%P
+The ball creates a graceful arc in the air before%Nslamming down into the court as fast as lightning.%K%P
+0x160
+（ま、まじかよ……）%K%P
+(A-Are you serious...?)%K%P
+0x16C
+ひたいに、じっとりと汗がにじんでいた。%K%P
+I break into a sweat.%K%P
+0x1C8
+優夏「これで、フィフティーン・オールね♪」%K%P
+Yuka「With this, it's 15-All♪」%K%P
+0x1D4
+優夏「あれぇ〜？　さっきまでの勢いは、%Nど〜しちゃったのかなぁ〜？」%K%P
+Yuka「Huuh? Where's all that energy you had just now, I%Nwonder?」%K%P
+0x1E0
+誠「ははっ、ははははっ……。な、なかなか%Nやるじゃないか……」%K%P
+Makoto「Haha... Y-You're not half bad...」%K%P
+0x1EC
+優夏「なんか笑顔がひきつってるんですけど？」%K%P
+Yuka「Careful, your smile's slipping.」%K%P
+0x1F8
+誠「バカ言え！　ちょっと油断してただけだ！」%K%P
+Makoto「Don't be ridiculous! I was just caught a little unprepared,%Nthat's all!」%K%P
+0x204
+それは確かに事実だった。%K%P
+No, seriously. I really was.%K%P
+0x218
+優夏の放ったサーブは、これが１本目では%Nなかったのだ。%K%P
+That wasn't Yuka's first hit.%K%P
+0x224
+ついさっきのダブル・フォルトを含めて、%Nこれで３本目。%K%P
+Her prior serve was a double fault, so this is her third%None.%K%P
+0x230
+最初の２本は、オレの背後のフェンスを越えて、%N森の中へと姿を消した。%K%P
+Her first two hits went all the way over the fence behind%Nme and disappeared into the forest.%K%P
+0x23C
+ショッパナからそんなヘッポコサーブを%N２本も見せつけられては、油断しないわけがない。%K%P
+Of course I was caught unprepared; her first two serves%Nwere terrible.%K%P
+0x248
+女の子だと思って、少し甘く見ていたようだ。%K%P
+It's clear now that I've got to stop taking her lightly.%K%P
+0x25C
+優夏「いいのかなぁ〜？　そんなに強がっちゃって」%K%P
+Yuka「What's wrong? Out of bluffs?」%K%P
+0x268
+優夏はベースライン（コートの底辺のライン）に%N沿って、ゆっくりと左側に移動した。%K%P
+Yuka runs along the baseline, and slowly moves her left%Nhand.%K%P
+0x274
+優夏「じゃっ、次いくよぉ〜♪」%K%P
+Yuka「Well then, here's the next one♪」%K%P
+0x280
+優夏「お日様ポカポカキッスオブファイアサーブ！」%K%P
+Yuka「Sun's Warmth Kiss of Fire Serve!」%K%P
+0x28C
+オレは息をのみ、ラケットを強く握りしめて身構えた。%K%P
+I take a deep breath as I tightly grasp my racket.%K%P
+0x298
+優夏はふわりとボールを投げ上げると、頂点に達したその瞬間！%K%P
+Yuka lightly throws the ball into the air, waits for the ball%Nto reach its peak, and then...!%K%P
+0x2A4
+優夏「お天道様！　お天道様！　シミソバカスが気になる%N年頃なのぉ〜！」%K%P
+Yuka「O Sun! O Sun! Grant me blessings with your bright rays!」%K%P
+0x2B8
+優夏「ポカポカジリジリメラメラボーーーンッ！」%K%P
+Yuka「BLAZING SCORCHING FIRE BOMB!」%K%P
+0x2F0
+燃えあがる火の玉のような強烈なサーブが放たれた！%K%P
+She hits the ball with a serve as powerful as a fireball!%K%P
+0x2FC
+さっき以上の凄まじいスピード……。%K%P
+It's just as fierce as the one earlier...%K%P
+0x308
+しかし、今度はオレの真っ正面だった。%K%P
+It's heading straight towards me.%K%P
+0x314
+（よしっ、これなら返せる！）%K
+(All right, I'll return it with this!)%K
+0x1DC8
+クロスに返す
+Return crosscourt.
+0x1DD4
+ストレートに返す
+Return down the line.
+0x1DE0
+ロブを上げる
+Lob her.
+0x364
+オレはそのままクロスに打ち返した。%K%P
+Just like that, I hit a crosscourt return.%K%P
+0x394
+だが……。%K%P
+But...%K%P
+0x3A0
+なんと優夏は、ネットに向かって猛然とダッシュ！%K%P
+Yuka furiously dashes towards the net!%K%P
+0x3AC
+（しまった！　サーブ＆ボレーか！）%K%P
+(Crap! A serve and volley!)%K%P
+0x3DC
+気づいたときには、優夏の華麗なボレーが%Nコートの右隅に決まっていた。%K%P
+By the time I realize it, Yuka's splendid volley is settled in%Nthe right corner of the court.%K%P
+0x3E8
+………………………………。%K%P
+...%K%P
+0x43C
+優夏「岡さん。その程度では私に勝てなくってよ」%K%P
+Yuka「It'll take more than that to beat me, Mr. Echizen.」%K%P
+0x448
+（く、くそぉ〜）%K%P
+(D-Damn it〜)%K%P
+0x454
+（これで『３０−１５』か……）%K%P
+(Now it's "30-15"...)%K%P
+0x460
+（……って言うか、オカサンて誰だよっ！？）%K%P
+(... And who the hell is "Mr. Echizen"!?)%K%P
+0x46C
+そんなことを思いながらも、悔しさのあまり、%N声を出すことさえできなかった。%K%P
+I'm so mortified that I'm struck speechless.%K%P
+0x478
+優夏「さぁ〜てと……」%K%P
+Yuka「Well then...」%K%P
+0x484
+優夏「このまま一気に決めちゃおっかなぁ〜♪」%K%P
+Yuka「At this rate, I'll settle it in one blow〜♪」%K%P
+0x498
+オレはストレートに打ち返した。%K%P
+I return the ball down the line.%K%P
+0x4C8
+だが……。%K%P
+But...%K%P
+0x4D4
+なんと優夏は、ネットに向かって猛然とダッシュ！%K%P
+Yuka furiously dashes towards the net!%K%P
+0x4E0
+（しまった！　サーブ＆ボレーか！）%K%P
+(Crap! A serve and volley!)%K%P
+0x51C
+気づいたときには、優夏の華麗なボレーが%Nコートの右隅に決まっていた。%K%P
+By the time I realize it, Yuka's splendid volley is settled in%Nthe right corner of the court.%K%P
+0x528
+………………………………。%K%P
+...%K%P
+0x57C
+優夏「岡さん。その程度では私に勝てなくってよ」%K%P
+Yuka「It'll take more than that to beat me, Mr. Echizen.」%K%P
+0x588
+（く、くそぉ〜）%K%P
+(D-Damn it〜)%K%P
+0x594
+（これで『３０−１５』か……）%K%P
+(Now it's "30-15"...)%K%P
+0x5A0
+（……って言うか、オカサンて誰だよっ！？）%K%P
+(... And who the hell is "Mr. Echizen"!?)%K%P
+0x5AC
+そんなことを思いながらも、悔しさのあまり、%N声を出すことさえできなかった。%K%P
+I'm so mortified that I'm struck speechless.%K%P
+0x5B8
+優夏「さぁ〜てと……」%K%P
+Yuka「Well then...」%K%P
+0x5C4
+優夏「このまま一気に決めちゃおっかなぁ〜♪」%K%P
+Yuka「At this rate, I'll settle it in one blow〜♪」%K%P
+0x5D8
+オレはベースラインギリギリにロブを打ち上げた。%K%P
+I just barely make it to the baseline, and lob the ball.%K%P
+0x608
+予想どおり、優夏はサーブ＆ボレーを狙おうと、%Nネットに向かって猛然とダッシュをかけていた。%K%P
+Just as I expected, Yuka furiously dashes up to the net%Nas she attempts a serve and a volley.%K%P
+0x614
+慌てて振り向き、ボールを追い駆ける優夏……。%K%P
+She quickly turns around, and chases after the ball...%K%P
+0x620
+だが、時すでに遅し。%K%P
+But it's already too late.%K%P
+0x62C
+ボールは優夏の頭上を越え、ベースラインの内側に%Nストンと落ちた。%K%P
+The ball flies over her head and falls inside the baseline.%K%P
+0x638
+………………………………。%K%P
+...%K%P
+0x694
+誠「ふっふっふっ、お前の思考パターンは%N全部お見通しだ！」%K%P
+Makoto「Heh heh heh, I've completely figured out your strategy!」%K%P
+0x6A0
+優夏「またまたぁ〜、強がり言っちゃって……」%K%P
+Yuka「There you go, acting all cocky again...」%K%P
+0x6AC
+優夏「ほんとはミスショットだったんじゃないの？」%K%P
+Yuka「That was out of bounds, wasn't it?」%K%P
+0x6B8
+誠「はあ〜？　あれのどこがミスショットなんだよ！」%K%P
+Makoto「Don't be such a baby. You know it wasn't!」%K%P
+0x6C4
+優夏「まっ、どっちにしろ、その程度じゃまだまだね」%K%P
+Yuka「Well, either way, you've still got a ways to go.」%K%P
+0x6D0
+（くっ、何なんだよ、その余裕は……）%K%P
+(Damn, she's so full of herself...)%K%P
+0x6DC
+優夏「これで『１５−３０』かぁ……」%K%P
+Yuka「With this, it's '15-30'...」%K%P
+0x6E8
+優夏「勝負はこれからよ？」%K%P
+Yuka「Here's where it really begins.」%K%P
+0x6F4
+休む間もなく、優夏は次のサーブの体勢に入った。%K%P
+Yuka enters her next serving pose without skipping a%Nbeat.%K%P
+0x700
+優夏「次は、北風ヒュルリラカミカゼサーブよ！」%K%P
+Yuka「Next is the Northern Wind Whirling Kamikaze Serve!」%K%P
+0x70C
+優夏「風さん！　風さん！　私を遠くに連れてって！」%K%P
+Yuka「O Wind! O Wind! Take me far away!」%K%P
+0x718
+（ったく、黙って打てないのかよ……）%K%P
+(Sheesh, just shut up and serve...)%K%P
+0x72C
+優夏「ヒュルリヒュルリラバビュバビューーーンッ！」%K%P
+Yuka「WHIRLING WHIRLING TORNADO SMASH!」%K%P
+0x764
+竜巻のように高速回転のかかったボールは、%Nサービスラインギリギリの位置で跳ね上がった。%K%P
+The ball, spinning as fast as a tornado, lands right near%Nthe edge of the service line and bounces back up.%K%P
+0x770
+弾かれたように体を動かし、ボールを捉えるオレ。%K%P
+My body moves towards the descending ball.%K%P
+0x77C
+次に返す方向は……%K
+My next return will be a...%K
+0x1DEC
+クロス
+Crosscourt.
+0x1DF8
+ストレート
+Straight.
+0x7BC
+オレはそのままクロスに打ち返した。%K%P
+Just like that, I hit a crosscourt return.%K%P
+0x7EC
+──うっ！　──しまった！%K%P
+―Oh crap!%K%P
+0x7F8
+完全なミスショット……。%K%P
+I completely screwed up the shot...%K%P
+0x804
+ボールはへろへろと間抜けな軌跡を描きながら、%N優夏の目の前へと飛んで行く。%K%P
+The ball slowly flies right straight towards Yuka.%K%P
+0x818
+優夏「待ってましたぁーっ！　この１球を！」%K%P
+Yuka「I've been waiting for this!」%K%P
+0x82C
+優夏「とぉーーーっ！」%K%P
+Yuka「There!」%K%P
+0x864
+優夏はここぞとばかり、渾身の力を込めて%Nスマッシュを打ち込んだ。%K%P
+With all her strength, Yuka smashes the ball.%K%P
+0x870
+鋭角に突き刺さったボールは高く跳ね上がり、%Nフェンスを越えて森の中へと消えて行った。%K%P
+The ball slams into the court, then bounces up over the%Nfence and into the forest.%K%P
+0x87C
+（ちっ、やられた……）%K%P
+(Damn, she got me...)%K%P
+0x890
+オレはストレートに打ち返した。%K%P
+I return the ball down the line.%K%P
+0x8C0
+軽やかなステップを踏みながら、優夏がオレの返球に素早く追いつく。%K%P
+Moving quickly, Yuka quickly catches up with my return%Nserve.%K%P
+0x8D4
+優夏「えいっ！」%K%P
+Yuka「Yaah!」%K%P
+0x90C
+流れるように無駄のない動作で、優夏は軽々と%Nボールを返した。%K%P
+She flawlessly returns the ball.%K%P
+0x918
+トップスピンのかかったボールが、%N吸い込まれるようにコートを打つ。%K
+The ball dives towards the court as if it's being sucked%Nin.%K
+0x1E04
+とりあえず返す
+Gotta return it.
+0x1E10
+ここはロブで
+Lob it.
+0x958
+誠「とりゃっ！」%K%P
+Makoto「Hyaa!」%K%P
+0x980
+なんとか打ち返すことはできたが、このままじゃ%Nラチがあかない。%K%P
+I somehow manage to return the ball, but at this rate, I%Nwon't be able to make any headway.%K%P
+0x98C
+（ここはひとつ……）%K
+(I'll just...)%K
+0x1E1C
+前に出てみる
+Try running to the net.
+0x1E28
+チャンスを待つ
+Wait for my chance.
+0x9D4
+（よしっ！　前に出てボレーだ！）%K%P
+(All right! I'll run up front and volley it!)%K%P
+0x9E0
+そう思うと同時に、ネットに向かって走り出した。%K%P
+I immediately charge for the net.%K%P
+0x9EC
+──しかし！%K%P
+―But!%K%P
+0xA1C
+（うっ！　まずいっ！）%K%P
+(Shit! This is bad!)%K%P
+0xA28
+優夏はオレの裏をかいて、高々とロブを上げてきた。%K%P
+Yuka mimics my moves, and hits the ball high into the air%Nwith a lob.%K%P
+0xA34
+ボールはオレの頭上を越え……%K%P
+It flies over my head...%K%P
+0xA40
+……ベースラインを越え……%K%P
+... over the baseline...%K%P
+0xA4C
+……背後のフェンスを越えて……%K%P
+... over the fence behind me...%K%P
+0xA58
+……森の中へと消えて行った……。%K%P
+... and disappears into the forest...%K%P
+0xA6C
+優夏「あ〜ん、失敗しちゃったぁ〜」%K%P
+Yuka「Ugh, I missed〜」%K%P
+0xA78
+オレはホッと胸をなでおろした。%K%P
+I let out a sigh of relief.%K%P
+0xA94
+いや、あせってはダメだ。%K%P
+No, I can't be impatient.%K%P
+0xAA0
+相手がミスるまで、ひたすらチャンスを%N待つしかない。%K%P
+Until my opponent slips, I have to wait for my chance.%K%P
+0xAB4
+優夏「ほれっ！」%K%P
+Yuka「Take this!」%K%P
+0xAEC
+いとも簡単に、あっさりと打ち返えしてくる%N優夏……。%K%P
+As if it was second nature, Yuka quickly hits a return...%K%P
+0xAF8
+ボールはゆるやかなカーブを描いて、サイドラインの真上に落ちた。%K%P
+The ball arcs in the air and falls right above the sideline.%K%P
+0xB04
+誠「くそっ！」%K%P
+Makoto「Shit!」%K%P
+0xB10
+俊敏な動きでボールを追い駆けるオレ。%K%P
+I follow the rapidly moving ball.%K%P
+0xB38
+思い切り腕を伸ばしたが、ラケットに当てるだけで%N精いっぱいだった。%K%P
+I reach out and swing my racket with all my strength.%K%P
+0xB44
+返球はへろへろと間抜けな軌跡を描きながら、優夏の目の前へと飛んで行く。%K%P
+The ball weakly curves up into the air as it flies straight%Ntowards Yuka.%K%P
+0xB58
+優夏「待ってましたぁーっ！　この１球を！」%K%P
+Yuka「I've been waiting for this!」%K%P
+0xB6C
+優夏「とぉーーーっ！」%K%P
+Yuka「There!」%K%P
+0xBA4
+優夏はここぞとばかり、渾身の力を込めて%Nスマッシュを打ち込んだ。%K%P
+With all her strength, Yuka smashes the ball.%K%P
+0xBB0
+鋭角に突き刺さったボールは高く跳ね上がり、%Nフェンスを越えて森の中へと消えて行った。%K%P
+The ball slams into the court, then bounces up over the%Nfence and into the forest.%K%P
+0xBBC
+（ちっ、やられた……）%K%P
+(Damn, she got me...)%K%P
+0xBD0
+（よしっ！　ここはロブで……）%K%P
+(All right! I'll lob it...)%K%P
+0xC00
+──うっ！　──しまった！%K%P
+―Oh crap!%K%P
+0xC0C
+完全なミスショット……。%K%P
+I completely screwed up the shot...%K%P
+0xC18
+ボールはへろへろと間抜けな軌跡を描きながら、%N優夏の目の前へと飛んで行く。%K%P
+The ball slowly flies right straight towards Yuka.%K%P
+0xC2C
+優夏「待ってましたぁーっ！　この１球を！」%K%P
+Yuka「I've been waiting for this!」%K%P
+0xC40
+優夏「とぉーーーっ！」%K%P
+Yuka「There!」%K%P
+0xC78
+優夏はここぞとばかり、渾身の力を込めて%Nスマッシュを打ち込んだ。%K%P
+With all her strength, Yuka smashes the ball.%K%P
+0xC84
+鋭角に突き刺さったボールは高く跳ね上がり、%Nフェンスを越えて森の中へと消えて行った。%K%P
+The ball slams into the court, then bounces up over the%Nfence and into the forest.%K%P
+0xC90
+（ちっ、やられた……）%K%P
+(Damn, she got me...)%K%P
+0xD24
+（これで『１５−４０』か……）%K%P
+(With this, it's "15-40", huh...)%K%P
+0xD30
+（思ったより、たいしたことないな……）%K%P
+(This isn't as hard as I thought...)%K%P
+0xD3C
+（初めのサービスエースは、まぐれだったのかも%Nしれない）%K%P
+(That amazing first serve of hers must have been a%Nfluke.)%K%P
+0xD48
+敗色濃厚の優夏は、けれどどういうわけか、%N依然として自信に満ちあふれていた。%K%P
+Despite Yuka's almost inevitable loss, she's still beaming%Nwith confidence.%K%P
+0xD54
+虎視耽々と何かを企んでいるかのように、%N意味深な笑みを浮かべながら……%K%P
+She mischievously smiles, as if she's plotting something...%K%P
+0xDA8
+（これで『４０−１５』か……）%K%P
+(With this, it's "40-15", huh...)%K%P
+0xDB4
+（あと１ポイントで優夏のゲーム）%K%P
+(Yuka only needs one more point to win.)%K%P
+0xDC0
+（完全にヤラレっぱなしじゃないか……）%K%P
+(She's owning me, isn't she...?)%K%P
+0xDCC
+敗色濃厚のオレをよそに、優夏は意気揚々と%N次のサーブの構えに入った。%K%P
+Yuka gets ready to serve, triumphant in the face of my%Nalmost inevitable loss.%K%P
+0xE20
+（これで『３０−３０』か……）%K%P
+(With this, it's "30-30", huh...)%K%P
+0xE2C
+（大丈夫、まだまだ勝算はあるぞ……）%K%P
+(It's all right, there's still a chance to win...)%K%P
+0xE40
+優夏「さてと、ウォーミングアップも済んだし……」%K%P
+Yuka「Well then, warm up time's over...」%K%P
+0xE4C
+優夏「そろそろ本気だしちゃおっかなぁ〜」%K%P
+Yuka「Maybe I should get serious.」%K%P
+0xE58
+言ったとたん、優夏の瞳がキラリと光った。%K%P
+Her eyes are sparkling with excitement.%K%P
+0xE64
+（ふっ、なめやがって……）%K%P
+(Hmph, don't take me lightly...)%K%P
+0xE70
+優夏「南極ヒエヒエエメラルドクーラーサーブ！」%K%P
+Yuka「South Pole Eight Below Emerald Cooler Serve!」%K%P
+0xE7C
+優夏「タロォ〜！　ジロォ〜！」%K%P
+Yuka「Jack! Dewey!」%K%P
+0xE90
+優夏「ワオォォォォォンッ！」%K%P
+Yuka「HAWOOOOOOOOO!」%K%P
+0xEC8
+割れた氷の先端のように、鋭く尖ったサーブだった。%K%P
+Yuka fires a powerfully sharp serve that could smash%Nthrough ice.%K%P
+0xED4
+しかし、だいぶ目が慣れてきたせいか、その速度は%N今までよりも衰えて見える。%K%P
+However, her serves have lost their ability to daunt me. I%Ncan do this.%K%P
+0xEE0
+（思い切って、勝負に出てみるか？）%K
+(How should I try returning?)%K
+0x1E34
+ボレーを狙う
+Hit a volley.
+0x1E40
+ドロップショット
+Do a drop shot.
+0xF20
+（ここは返球と同時に前に出て、ボレーを狙おう！）%K%P
+(After my return, I'll move up to the net and prepare for a%Nvolley!)%K%P
+0xF2C
+と思ったのだが……%K%P
+Or so I thought...%K%P
+0xF5C
+あせったオレの腕は、ガチガチに硬直していた。%K%P
+My arm is frozen with impatience.%K%P
+0xF68
+右隅に打ち返したつもりが、大きく軌道をそれ……%K%P
+I hit the return with great force, knocking it into orbit...%K%P
+0xF74
+……ボールはサイドラインを割ってアウトに……。%K%P
+... But the ball lands outside the sideline...%K%P
+0xF80
+………………………………。%K%P
+...%K%P
+0xF94
+誠「チッ……」%K%P
+Makoto「Damn...」%K%P
+0xFA0
+思わず舌打ち。%K%P
+I suck my teeth.%K%P
+0xFAC
+優夏の方をなるべく見ないようにして、オレは%Nラケットのガットを指先でいじった。%K%P
+I try to avoid Yuka's gaze as I grip my racket tightly.%K%P
+0xFC0
+優夏「ああ〜、もしかして、ラケットのせいにしてるぅ？」%K%P
+Yuka「Ah, don't tell me you're going to blame your racket?」%K%P
+0xFCC
+誠「ったく、いちいちうるせぇーんだよ、お前は！」%K%P
+Makoto「Dammit, shut the hell up!」%K%P
+0xFD8
+誠「いいから黙って、次のサーブ打てよ」%K%P
+Makoto「Just shut up and serve.」%K%P
+0xFE4
+優夏は満面の笑みを浮かべながら……%K%P
+Yuka gives a broad grin...%K%P
+0xFF0
+優夏「はぁ〜い♪」%K%P
+Yuka「Suuuure♪」%K%P
+0xFFC
+……と答えた。%K%P
+... and replies.%K%P
+0x1050
+（スコアは『４０−３０』……）%K%P
+(The score is "40-30"...)%K%P
+0x105C
+（あと１ポイントで優夏のゲームだ）%K%P
+(Yuka needs just one more point to win the game.)%K%P
+0x109C
+オレはボールを切るようにして、ネットすれすれに%Nドロップショットを打ち込んだ。%K%P
+I hit a drop shot close to the net with a scooping motion.%K%P
+0x10A8
+速度を失ったボールがふらふらと舞い上がり、%N落ちていく。%K%P
+The ball shoots up in the air, and loses speed as it%Nunsteadily heads for the ground.%K%P
+0x10B4
+優夏は風のような素早さで、落下地点めがけて駆け寄った。%K%P
+Yuka wildly charges towards where it'll fall.%K%P
+0x10C0
+（──まさか！？　──間に合うのか！？）%K%P
+(―No way! ―Will she make it!?)%K%P
+0x10CC
+次の瞬間……。%K%P
+And then...%K%P
+0x10D8
+ボールはネットの上にカツンとぶつかり、そのまま%N相手側のコートにポトリと落ちた。%K%P
+The ball brushes past the top of the net, then falls onto%Nthe opposite side of the court.%K%P
+0x10E4
+………………………………。%K%P
+...%K%P
+0x10F8
+（ふぅ……危ない、危ない……）%K%P
+(Whew... that was close...)%K%P
+0x1104
+オレは安堵のため息をもらした。%K%P
+I sigh in relief.%K%P
+0x1118
+優夏「あ〜ん、惜っしい！　もうちょっとだったんだけどなぁ……」%K%P
+Yuka「Aww, this sucks! I was so close...」%K%P
+0x1124
+悔しそうに顔をしかめながら、優夏はそう言った。%K%P
+Yuka pouts in frustration.%K%P
+0x116C
+（これでスコアは『３０−４０』……）%K%P
+(The score is "30-40" now...)%K%P
+0x1178
+（あと１ポイントでオレのゲームだ）%K%P
+(I just need one more point to win.)%K%P
+0x1184
+優夏は飛び跳ねるようにしてベースラインに戻ると、１度だけボールをコートについた。%K%P
+Yuka hops back to the base line, and prepares another%Nball.%K%P
+0x1198
+優夏「いくわよぉ〜♪」%K%P
+Yuka「Here I go〜♪」%K%P
+0x11A4
+優夏「古今東西……」%K%P
+Yuka「From all ages and all countries...」%K%P
+0x11B0
+優夏「……お酒の種類♪」%K%P
+Yuka「... We must name different kinds of liquor♪」%K%P
+0x11BC
+誠「は？？？」%K%P
+Makoto「What???」%K%P
+0x11D0
+優夏「焼酎！」%K%P
+Yuka「Johnnie Walker!」%K%P
+0x1208
+問い返すオレの言葉も聞かずに、優夏はいきなり%N超速サーブを放った。%K%P
+Yuka pays no attention to me as she suddenly launches%Nan ultra-fast serve.%K%P
+0x1214
+誠「おいっ！　勝手にルール変えんなよっ！」%K%P
+Makoto「Hey! You can't just change the rules!」%K%P
+0x1220
+と言いながらも……%K%P
+Even so...%K%P
+0x122C
+誠「ぶ、ぶ、ぶ、ぶらんでぇ〜！」%K%P
+Makoto「B-B-B-Brandy!」%K%P
+0x125C
+……まんまと優夏の術中にはまっていた。%K%P
+...I still play along.%K%P
+0x1270
+優夏「日本酒！」%K%P
+Yuka「Sake!」%K%P
+0x12A8
+（えーっと、えーっと、酒の種類だろ……？）%K
+(Um, um, what other kinds of liquor are there...?)%K
+0x1E4C
+ウォッカ！
+Vodka!
+0x1E58
+ビール！
+Beer!
+0x1E64
+ジン！
+Gin!
+0x1E70
+老酒！
+Shaoxing wine!
+0x1330
+誠「ウォッカ！」%K%P
+Makoto「Vodka!」%K%P
+0x1370
+優夏「泡盛！」%K%P
+Yuka「Okinawa sake!」%K%P
+0x13B0
+誠「ビール！」%K%P
+Makoto「Beer!」%K%P
+0x13F0
+優夏「ワイン！」%K%P
+Yuka「Wine!」%K%P
+0x1430
+誠「ジン！」%K%P
+Makoto「Gin!」%K%P
+0x1470
+優夏「テキーラ！」%K%P
+Yuka「Tequila!」%K%P
+0x14B0
+誠「老酒！」%K%P
+Makoto「Shaoxing wine!」%K%P
+0x14F0
+優夏「ラム酒！」%K%P
+Yuka「Rum!」%K%P
+0x15C8
+誠「ウォッカ！」%K%P
+Makoto「Vodka!」%K%P
+0x15EC
+誠「ビール！」%K%P
+Makoto「Beer!」%K%P
+0x1610
+誠「ジン！」%K%P
+Makoto「Gin!」%K%P
+0x1634
+誠「老酒！」%K%P
+Makoto「Shaoxing wine!」%K%P
+0x1648
+誠「えーっと、えーっと、えーっと……」%K%P
+Makoto「Um, um, um...」%K%P
+0x1654
+（ダメだっ！　思い浮かばないっ！）%K%P
+(No good! I can't think of anything!)%K%P
+0x16A8
+──コンコンコンコンコン……。%K%P
+―*SLAM!*...%K%P
+0x16B4
+ボールは鋭くコートに突き刺さり、背後のフェンスに当たって動きを止めた。%K%P
+The ball flies straight past the court, and crashes in the%Nfence behind me.%K%P
+0x16C0
+豪快なスマッシュを放った優夏は、ゆっくりと上体を起こすと……%K%P
+Yuka, who had hit that superb smash, straightens her%Nposture and...%K%P
+0x16D4
+優夏「ちょっとオトナゲなかったかしらぁ〜？」%K%P
+Yuka「Maybe we should have played tee ball instead?」%K%P
+0x16E0
+優夏「おほほほほほほほ♪」%K%P
+Yuka「Ohohohohohohoho♪」%K%P
+0x16EC
+……小指を立てた手の平を口元にそえ、挑発的な%N笑い声をあげた。%K%P
+... laughs like a stereotypical haughty English%Nnoblewoman.%K%P
+0x16F8
+けれど、その笑顔の中に、イヤミのようなものは%Nまったく感じられなかった。%K%P
+However, I don't feel insulted.%K%P
+0x1704
+むしろ、オレの心をポカポカと温めてくれた。%K%P
+Rather, it's kind of heartwarming.%K%P
+0x1710
+とても不思議な笑顔だった。%K%P
+Her silly laugh makes me smile.%K%P
+0x171C
+気がつくと、オレの頬はふわりとゆるんでいた。%K%P
+Before I know it, any frustrations I had were gone.%K%P
+0x1740
+結局、第１セットの第１ゲームは、残念ながら、優夏に獲られてしまったのだった……。%K%P
+In the end, the first set in the first match unfortunately%Nended with Yuka's victory...%K%P
+0x1788
+優夏「えーっと、えーっと、えーっと……」%K%P
+Yuka「Um, um, um...」%K%P
+0x1794
+優夏「うわぁ〜ん！　思い浮かばないよぉ〜！」%K%P
+Yuka「Waah! I can't think of anything!」%K%P
+0x17A0
+ニヤリ……オレは笑みを浮かべた。%K%P
+I smirk.%K%P
+0x17AC
+が、その直後！%K%P
+But immediately afterwards...!%K%P
+0x17C0
+優夏「あっ、そうだ！」%K%P
+Yuka「Ah, forget it!」%K%P
+0x17CC
+優夏はそう言って、思い切り腕を振り上げた。%K%P
+Yuka raises her arm overhead with all her strength.%K%P
+0x17D8
+優夏「せぇ〜のっ……」%K%P
+Yuka「Time to get...」%K%P
+0x17E4
+優夏「スマ〜〜〜ッ酒！！！」%K%P
+Yuka「SMASHED!!!」%K%P
+0x1814
+優夏の放った豪快なスマッ酒は、たちまち背後の%N森の中へと呑み込まれていった。%K%P
+Yuka's splendid smash disappears into the forest%Nbehind me.%K%P
+0x1820
+…………………………………………。%K%P
+...%K%P
+0x1834
+誠「こらっ！　どこ打ってんだよ、優夏！」%K%P
+Makoto「Hey! Where were you aiming, Yuka!?」%K%P
+0x1840
+優夏はぺロッと舌を出し、おどけてみせた。%K%P
+She sticks out her tongue at me.%K%P
+0x184C
+そんな優夏の様子を見て、いつの間にか、%Nオレの顔にも笑みが広がっていた。%K%P
+Seeing Yuka act like that makes me smile.%K%P
+0x1870
+結局、第１セットの第１ゲームは、見事、オレの勝利に終わったのだった……。%K%P
+In the end, the first set in the first match ended with my%Nsplendid victory...%K%P
+0x18B0
+………………。%N…………。%N……。%K%P
+... ... ...%K%P

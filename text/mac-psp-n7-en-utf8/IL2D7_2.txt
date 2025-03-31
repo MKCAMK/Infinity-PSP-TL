@@ -1,0 +1,105 @@
+text area offset and size:
+0x5C8
+0x4FA
+0x7C
+やがて……ポツリポツリと雨が降り始めた。%K%P
+Before long... it begins to rain.%K%P
+0x88
+誠「雨……%W%W%Wだね？」%K%P
+Makoto「It's... raining, huh?」%K%P
+0x9C
+いづみ「そうだね……。さっきまで、あんなにいい天気だったのに……」%K%P
+Izumi「That's right... Even though the weather was so good up%Nuntil now...」%K%P
+0xA8
+誠「…………」%K%P
+Makoto「...」%K%P
+0xB4
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0xC0
+誠「…………」%K%P
+Makoto「...」%K%P
+0xCC
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0xD8
+誠「ねぇ？」%K%P
+Makoto「Hey?」%K%P
+0xE4
+いづみ「うん？」%K%P
+Izumi「Yes?」%K%P
+0xF0
+誠「外……%W%W%W出ようよ？」%K%P
+Makoto「Can we... go outside?」%K%P
+0x104
+いづみ「えっ？」%K%P
+Izumi「Huh?」%K%P
+0x110
+誠「行きたい所があるんだ。いづみさんと一緒に……」%K%P
+Makoto「There's somewhere I want to go with you...」%K%P
+0x11C
+いづみ「？？？」%K%P
+Izumi「???」%K%P
+0x1DC
+表に出た。%K%N
+We leave.%K%N
+0x1E8
+１本の傘に２人で入りながら、目的地を目指す。%K%P
+We head towards my goal while getting under a single%Numbrella.%K%P
+0x208
+いづみ「ねぇ、どこに行くつもりなの？」%K%P
+Izumi「Hey, where do you plan on going?」%K%P
+0x214
+誠「そのうち、わかるって……」%K%P
+Makoto「You'll know when we get there...」%K%P
+0x220
+小さい傘の中、いづみさんと寄り添って歩く。%K%N
+Izumi-san nestles close to me under the small umbrella.%K%N
+0x22C
+その肩が濡れないように、オレは傘を傾けた。%K%P
+I tilt the umbrella to prevent her shoulders from getting%Nwet.%K%P
+0x238
+いづみさんは黙ったまま、それを元に戻す。%K%N
+Izumi-san silently returns it to its original position.%K%N
+0x244
+やわらかな手の平が、オレの手首に触れた。%K%P
+Her soft palm touches my wrist.%K%P
+0x268
+少しくすぐったいような、手の平の感触……。%K%P
+The sensation of her palm makes me a little%Nembarrassed...%K%P
+0x27C
+傘を打ちつける雨音は、優しい旋律を奏でていた……。%K%P
+The sound of the rain against the umbrella is like a%Ngentle melody...%K%P
+0x2D8
+いづみ「ここ……%W%W%W姫ヶ浜……%W%W%Wよね？」%K%P
+Izumi「This... is Princess Beach... isn't it?」%K%P
+0x2E4
+そう……。%K%N
+Right...%K%N
+0x2F0
+ここがオレの目指していた場所だった。%K%P
+This is the place I wanted to go.%K%P
+0x2FC
+誠「へぇ……いづみさんでも、この辺の地理で自信のない場所があるんだ？」%K%P
+Makoto「Wow... so there really are some places on this island%Nwhose location you're not sure about, huh?」%K%P
+0x310
+いづみ「あぁ〜、バカにしてるなぁ〜！%Nないよ。そんなところは！」%K%P
+Izumi「Hey, don't make fun of me! That's not true at all!」%K%P
+0x324
+いづみ「……でも、どうしてここへ？」%K%P
+Izumi「... But why here?」%K%P
+0x330
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x34C
+いづみ「……………………」%K%P
+Izumi「...」%K%P
+0x358
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x36C
+いづみ「この１０日間、いろんなことがあったよね」%K%P
+Izumi「A lot of things happened in these past ten days.」%K%P
+0x378
+誠「……うん」%K%P
+Makoto「... Yeah.」%K%P

@@ -1,15 +1,14 @@
 #!/bin/bash
 
-# Extracts text from scenes (aka chapters, main text) to text files with the original encoding.
-# Before running this, iso and afs packages must be unpacked, so that .SCN files are present in e17_mac/ folder.
+. ./text_1_extract-jap-scenes-func.sh
 
-mkdir -p text/tmp/mac-psp-jp/
-for i in e17_mac/[A-Z0-9]*_[0-9]*.SCN ; do
-	f=`basename $i .SCN`
-	echo "Extracting scene $f text"
-	# process translation files
-	# ./bin/extract_scene_text e17_mac/$f.SCN tmp/mac-psp-jp/$f.txt & WAITPIDS="$! $WAITPIDS"
-	./bin/extract_scene_text e17_mac/$f.SCN text/tmp/mac-psp-jp/$f.txt || exit 1;
-done
-# wait $WAITPIDS &>/dev/null
+[ -z "$TL_SUFFIX" ] && TL_SUFFIX=en
+
+if [ "$GAME" = "n7" ]; then
+	for i in n7_mac/USER[0-9]*.SCN; do
+		f=$(basename $i .SCN)
+		[ -e text/mac-psp-n7-${TL_SUFFIX}-utf8/$f.txt ] && continue
+		extract_scene $f
+	done
+fi
 echo "Done."

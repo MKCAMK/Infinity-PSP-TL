@@ -1,0 +1,414 @@
+text area offset and size:
+0xB20
+0x1951
+0xBC
+豪雨の中、その少女に向かって歩いて行く……。%K%P
+I walk towards the girl in the downpour...%K%P
+0xC8
+足に痛みはない。寒さも冷たさも感じない。%K%P
+There's no pain in my legs. I don't feel the cold, icy air.%K%P
+0xD4
+水の上を浮かび歩くような感覚……。%K%P
+It feels like I'm walking on water...%K%P
+0xE0
+ただその少女だけを見つめながら、ゆっくりと足を運んだ。%K%P
+All I do is stare at the girl while I slowly make my way%Ntowards her.%K%P
+0xEC
+……ふと、少女は顔をあげた。%K%P
+... Suddenly, the girl raises her head.%K%P
+0xF8
+オレに気づき、小さな口を開く。%K%P
+When she sees me, her small mouth drops open.%K%P
+0x104
+立ち止まった少女は茫然とオレのことを見ていた。%K%P
+The girl stands stock still, looking at me in blank%Namazement.%K%P
+0x110
+徐々に縮まっていく距離……。%K%N
+I gradually begin to close the distance between us...%K%N
+0x11C
+少女の影が近づく……。%K%P
+The girl's figure approaches...%K%P
+0x128
+そして……%K%N
+And...%K%N
+0x134
+……オレは目の前に立った。%K%P
+... she stands before my eyes.%K%P
+0x1AC
+くるみの……目の前に……。%K%P
+I stand... right in front of Kurumi...%K%P
+0x1EC
+誠「タイムスリップ……」%K%P
+Makoto「Time travel...」%K%P
+0x1F8
+誠「馬鹿馬鹿しい話だよな……まったく……」%K%P
+Makoto「What a ridiculous story... really...」%K%P
+0x204
+誠「おとぎばなしの方が、よっぽどまともだよ……」%K%P
+Makoto「A fairy tale sounds almost normal compared to it...」%K%P
+0x210
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x22C
+誠「だけどな？　こんな下らない世界でも、オレにとっては最高の時間だった」%K%P
+Makoto「But you know what? To me, this has been the best time%NI've spent in this good for nothing world.」%K%P
+0x238
+誠「優夏の能天気な笑い声も……」%K%P
+Makoto「Yuka's optimistic laugh...」%K%P
+0x244
+誠「常識はずれの遙の行動も……」%K%P
+Makoto「Haruka's unconventional behavior...」%K%P
+0x250
+誠「怒ったときの沙紀の顔も……」%K%P
+Makoto「The face Saki would make when she got angry...」%K%P
+0x25C
+誠「いづみさんの包み込むような優しさも……」%K%P
+Makoto「Being wrapped up in Izumi-san's kindness...」%K%P
+0x268
+誠「どれもこれも大切な想い出だった……」%K%P
+Makoto「All of those are precious memories...」%K%P
+0x274
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x280
+誠「でも……」%K%P
+Makoto「But...」%K%P
+0x28C
+誠「……オレにとっての一番の宝物は……」%K%P
+Makoto「... To me, the greatest treasure of all is..」%K%P
+0x298
+誠「……くるみ。……おまえなんだ」%K%P
+Makoto「... You...」%K%P
+0x2A4
+誠「くるみの無邪気な微笑み……天使のような笑顔を、オレはずっと見守っていたかった」%K%P
+Makoto「Your innocent smile... Your angelic smile... I wanted to%Nwatch over it forever.」%K%P
+0x2B0
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x2BC
+誠「くるみ……」%K%P
+Makoto「Kurumi...」%K%P
+0x2C8
+誠「これから話すことを、信じようが信じまいが、それはおまえにまかせる」%K%P
+Makoto「Whether or not you believe what I'm about to tell you is%Ncompletely up to you.」%K%P
+0x2D4
+誠「ただもしも信じてもらえなかったら……」%K%P
+Makoto「But if you don't believe me, then...」%K%P
+0x2E0
+誠「オレはこの世界から……消える」%K%P
+Makoto「I will disappear from this world.」%K%P
+0x2EC
+誠「全てを終わらせる……」%K%P
+Makoto「I will end everything...」%K%P
+0x2F8
+誠「無限ループを断ち切るために……」%K%P
+Makoto「For the sake of severing this infinite loop...」%K%P
+0x304
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x310
+誠「オレは、今から６日前……ちょうどこの時刻に、この神社でタイムスリップした」%K%P
+Makoto「Almost at this exact time six days ago... I time traveled%Nfrom this shrine.」%K%P
+0x31C
+誠「オレは前にも、くるみと一緒に６日間を過ごしたことがあるんだ」%K%P
+Makoto「Before that, I had spent six days with you.」%K%P
+0x328
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x334
+誠「……くるみ？　海の水は、なんでしょっぱいのか知ってるか？」%K%P
+Makoto「... Kurumi? Do you know why the ocean's water is so%Nsalty?」%K%P
+0x340
+くるみ「…………え？」%K%P
+Kurumi「... Huh?」%K%P
+0x34C
+誠「海の水はな？%N月の涙でできてるからなんだよ……。%Nだから、しょっぱいんだ……」%K%P
+Makoto「The ocean's water is the moon's tears. That's why it's so%Nsalty...」%K%P
+0x358
+誠「まんまるお月様は、ひとりぼっちで淋しくて、夜の闇の中で泣きました。しくしく…しくしく…と……」%K%P
+Makoto「Because the moon was all alone, it was lonely, and would%Ncry during the night. 'Sob, sob... sob, sob'...」%K%P
+0x364
+誠「まんまるお月様は、それでもまだ淋しくて、%N涙の中に子供を生みました。%Nたくさんの子供達……」%K%P
+Makoto「Even so, the moon was still lonely, and so its tears gave%Nbirth to children. A lot of children...」%K%P
+0x370
+誠「海の月と書いて、くらげ……」%K%P
+Makoto「The child of the moon and the sea, the jellyfish...」%K%P
+0x37C
+誠「くるみは、くらげみたいになりたいんだよな？」%K%P
+Makoto「Kurumi, you want to be like a jellyfish, right?」%K%P
+0x388
+誠「くらげみたいに、ふんわりふんわりと、海の上を漂うように生きていけたら……」%K%P
+Makoto「You want to gently float in the sea from day to night...」%K%P
+0x394
+くるみ「…………お兄……ちゃん……」%K%P
+Kurumi「... Onii... chan...」%K%P
+0x3A0
+誠「それからオレの夢……まだ聞かせてなかったよな？」%K%P
+Makoto「And there's my dream... I haven't told you it yet, have I?」%K%P
+0x3AC
+誠「オレの夢は……優しいお嫁さんをもらうことだ」%K%P
+Makoto「My dream... is to get married to a kind wife.」%K%P
+0x3B8
+誠「疲れ切って仕事から帰って来たオレに、そのお嫁さんは、まずあったかいスープを１杯、出してくれる」%K%P
+Makoto「When I come home from work all exhausted, she would%Nfirst give me a bowl of warm soup.」%K%P
+0x3C4
+誠「あったかいお風呂が用意してあって……あったかい日本酒を、お酌してくれたりして……」%K%P
+Makoto「She'll prepare a warm bath for me... and pour me a cup of%Nwarm sake...」%K%P
+0x3D0
+誠「子供達は、オレとお嫁さんの間にはさまれて、あったかい笑顔を浮かべてる……」%K%P
+Makoto「Our kids will get between us, and we'll all have warm%Nsmiles rise to our faces...」%K%P
+0x3DC
+誠「夏は、窓を開けっぱなしにして、風鈴の音を聞きながら、家族みんなでナイター中継を見るんだ……」%K%P
+Makoto「In the summer, we'll leave the windows open, and the%Nwhole family will watch a night game on TV while listening%Nto the wind chimes...」%K%P
+0x3E8
+誠「冬は、こたつにくるまって、みかんを食べながら、風邪薬のＣＭを見たりとかして……」%K%P
+Makoto「In the winter, we'll wrap ourselves up in a kotatsu, and%Nwatch cold medicine commercials while eating oranges...」%K%P
+0x3F4
+誠「特別なことなんか、なにも要らない……。%N平凡な日常……極普通のありきたりの家庭……」%K%P
+Makoto「We won't need anything special... Just ordinary days...%Nas a very plain, ordinary family...」%K%P
+0x400
+誠「オレの胸に顔をうずめて……お嫁さんは眠るんだ……すやすやすやすやと……」%K%P
+Makoto「At night, she will bury her face in my chest... and sleep%Nsoundly...」%K%P
+0x40C
+くるみ「……どうして……？%Nどうしてお兄ちゃん……？」%K%P
+Kurumi「... How...? Onii-chan, how did...?」%K%P
+0x418
+オレは手の平を広げた。%K%P
+I spread open my palm.%K%P
+0x424
+そこには雨でぐしょぐしょになった『オレ』がいる。%K%P
+In there is the soaking wet "me".%K%P
+0x430
+それを、破らないように丁寧に解いていき……もとの正方形の紙に戻した。%K%P
+And then, I carefully unfold it so that I don't rip it... and%Nrestore it to its original square form.%K%P
+0x43C
+オレはくるみの足元にしゃがみこんで、その折り紙を、折り始める。%K%P
+I crouch down at Kurumi's feet, and begin to fold it.%K%P
+0x448
+濡れた紙、濡れた地面で、なかなかうまくはいかない。%K%P
+The paper and the ground are wet, so it's very hard to%Ndo.%K%P
+0x454
+けれど懸命になって、オレはそれを折り続ける。%K%P
+But I become determined and keep folding it with all I've%Ngot.%K%P
+0x460
+ぺたぺたと張り付く紙を慎重に……慎重に……指先でつまみながら……。%K%P
+Eventually, I finish folding, and then... I very carefully...%Nhold it up between my fingertips...%K%P
+0x46C
+くるみ「それ……その折り方……」%K%P
+Kurumi「That... that folding method...」%K%P
+0x478
+そうしてできたものは……。%K%P
+The finished product is...%K%P
+0x484
+誠「ほら……くるみ１７号だ」%K%P
+Makoto「Look... it's Kurumi Unit 17.」%K%P
+0x490
+くるみ「なんで……？」%K%P
+Kurumi「Why...?」%K%P
+0x49C
+くるみ「くるみしか……知らないのに……。%Nなんで……？」%K%P
+Kurumi「Even though... Kurumi's the only one who knows that%Nmethod... Why...?」%K%P
+0x4A8
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x4B4
+くるみ「ほんと……なの……？」%K%P
+Kurumi「Is... it true...?」%K%P
+0x4C0
+くるみ「タイムスリップ……ほんとなの……？」%K%P
+Kurumi「Did you really... time travel...?」%K%P
+0x4CC
+オレは黙ってうなずいた。%K%P
+I give a deep nod.%K%P
+0x4D8
+くるみ「うそ……」%K%P
+Kurumi「You're lying...」%K%P
+0x4E4
+誠「嘘じゃない……」%K%P
+Makoto「It's not a lie...」%K%P
+0x4F0
+誠「嘘じゃないんだよ、くるみ……」%K%P
+Makoto「It's not a lie, Kurumi...」%K%P
+0x4FC
+オレはくるみを抱きしめた。%K%N
+I embrace Kurumi.%K%N
+0x508
+やわらかく、包み込むように……。%K%P
+Softly, tenderly...%K%P
+0x514
+そうして、オレはくるみの服の中に手を忍ばせた。%K%N
+And then, I reach out for Kurumi's back.%K%N
+0x520
+傷痕にそっと触れる。%K%P
+I gently touch her scar.%K%P
+0x52C
+くるみ「お兄ちゃん……」%K%P
+Kurumi「Onii-chan...」%K%P
+0x538
+誠「くるみ……」%K%P
+Makoto「Kurumi...」%K%P
+0x544
+誠「オレ、好きなんだ……。くるみのことが……」%K%P
+Makoto「Kurumi... I love you...」%K%P
+0x550
+誠「くるみの全部が大好きなんだ……」%K%P
+Makoto「I love everything about you...」%K%P
+0x55C
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x568
+誠「オレのそばに、いて欲しい……」%K%P
+Makoto「I want you to be by my side...」%K%P
+0x574
+誠「ずっと……そばに……」%K%P
+Makoto「Always... for eternity...」%K%P
+0x580
+くるみ「お兄ちゃん……」%K%P
+Kurumi「Onii-chan...」%K%P
+0x5EC
+オレとくるみはくちびるを寄せ合った。%K%N
+Kurumi and I kiss each other on the lips.%K%N
+0x5F8
+ふわふわとしなやかなくちびる……。%K%P
+Her lips are light and supple...%K%P
+0x604
+小さな舌の先が、オレのそれに触れた。%K%N
+The tip of her small tongue touches mine.%K%N
+0x610
+冷たく濡れた感触が、オレのそれに伝わってくる。%K%P
+The cold, wet sensation is transferred into me.%K%P
+0x61C
+くるみの生温かい吐息が、くちびるの間からあふれていた。%K%P
+Kurumi's lively breath was overflowing from her lips.%K%P
+0x628
+頬を伝い流れる雨滴が、２人の口の中に溶け込んだ。%K%P
+Raindrops flowing down our cheeks melted into our%Nmouths.%K%P
+0x634
+さらさらとした液体……交じり合い、広がり、流れていく……。%K%P
+Smooth liquid... Spreading, flowing...%K%P
+0x640
+……鼻先が、なめらかな頬に触れた。%K%N
+... The tip of my nose grazes her soft cheek.%K%N
+0x64C
+それは幼さの残る香りだった。%K%P
+A childish scent is emitted from that cheek.%K%P
+0x658
+無垢で穢れないその香りに、みなぎるような命を感じた。%K%P
+Her pure, innocent scent is brimming with life.%K%P
+0x664
+（くるみは、今ここに、生きている……）%K%P
+(Kurumi... is alive right here, right now...)%K%P
+0x670
+……やがて、くちびるをそっと離した。%K%N
+... Before long, our lips gently part.%K%N
+0x67C
+きつく、壊れてしまうぐらいに激しく抱き合った。%K%P
+And then, we embrace each other as hard as we can.%K%P
+0x688
+くるみはオレの胸に顔をうずめながら、震えるように泣いていた。%K%P
+Kurumi buries her face in my chest, trembling as she%Ncries.%K%P
+0x694
+傷痕が、手の平に熱かった。%K%P
+Her scar warms my palm up.%K%P
+0x6A0
+くるみ「くるみも……好き」%K%P
+Kurumi「Same... here.」%K%P
+0x6AC
+くるみ「お兄ちゃんのこと……」%K%P
+Kurumi「Onii-chan...」%K%P
+0x6B8
+くるみ「……大好きだよ……」%K%P
+Kurumi「... I love you...」%K%P
+0x6C4
+誠「……くるみ……」%K%P
+Makoto「... Kurumi...」%K%P
+0x6D0
+くるみ「あったかい……」%K%P
+Kurumi「It's warm...」%K%P
+0x6DC
+くるみ「お兄ちゃんの胸……」%K%P
+Kurumi「Onii-chan, your chest is...」%K%P
+0x6E8
+くるみ「とっても、あったかいよぉ……」%K%P
+Kurumi「Very warm...」%K%P
+0x6F4
+水にまみれながら、オレとくるみはひとつになった。%K%P
+As we are soaked by the rain, Kurumi and I become one.%K%P
+0x700
+とろけるように、ふたつの体は重なっていた。%K%P
+Our bodies press together as if they're melting into%Neach other.%K%P
+0x70C
+たたきつけるような雨が、降り続いている。%K%P
+The pelting rain continues to strike us.%K%P
+0x718
+けれど、そのしずくは決して冷たくはなかった。%K%P
+We're not bothered by its chill.%K%P
+0x724
+オレ達の体は、灼熱の塊のように燃えていた……。%K%P
+Our bodies are burning up like a sun...%K%P
+0x77C
+今、神社に行ってもくるみはいないだろう。%N
+Even if I go to the shrine right now, Kurumi probably won't%Nbe there.%N
+0x788
+他のどこかに、必ずいる筈だ。%K%P
+She's definitely somewhere else.%K%P
+0x794
+あの神社に辿り着く前に、何としてでもくるみを探し出さなければ……。%K%P
+I've got to find Kurumi by any means necessary before%Nshe arrives at the shrine...%K%P
+0x7A0
+オレの中には迷いなどなかった。%K%P
+There's no hesitation within me.%K%P
+0x7AC
+（歴史を絶対に変えてみせる……）%K%P
+(I will definitely change history...)%K%P
+0x7B8
+オレは痛みをこらえ、足を引きずりながら歩き始めた……。%K%P
+I endure the pain, and begin to walk, dragging my legs%Nalong...%K%P
+0x860
+いつの間にか、雨は本降りになっていた。%K%P
+Before I know it, the drizzle becomes a constant rain.%K%P
+0x86C
+殴りつけるような雨に打たれながら、オレは必死に歩き続けた。%K%P
+I desperately continue to walk as the rain hits me.%K%P
+0x878
+くるみの姿を、探し求めて……。%K%P
+I look for Kurumi...%K%P
+0x934
+朦朧とする意識の中、どこからともなく聞こえて来るくるみの声……。%K%P
+In my dim consciousness, I hear Kurumi's voice out of%Nnowhere...%K%P
+0x940
+くるみ「はっけよ〜い！　……のこった！」%K%P
+Kurumi「Ready! ... Go!」%K%P
+0x94C
+くるみ「のこった、のこった」%K%P
+Kurumi「Go, go!」%K%P
+0x958
+くるみ「のぉこったぁ〜〜！」%K%P
+Kurumi「GOOOOO〜〜!」%K%P
+0x964
+くるみ「押し出しでぇ、カニ大道楽の勝ちぃ〜♪」%K%P
+Kurumi「Ring out! Sumo Crab wins〜♪」%K%P
+0x970
+いつまでも、眺めていたかった……。%K%P
+I want to look at it forever...%K%P
+0x97C
+天使のような微笑みを……ずっと見守っていたかった……。%K%P
+I want to forever... watch over that angelic smile...%K%P
+0x9BC
+くるみ「ゆぅ〜びきぃ〜りげぇ〜んまぁ〜んう〜そついたらっ♪」%K%P
+Kurumi「Cross-my-heart-and-hope-to-die If-you-lie...♪」%K%P
+0x9C8
+くるみ「あっ……嘘ついたら、どうしよっか？」%K%P
+Kurumi「Ah... what should we do if you lie?」%K%P
+0x9D4
+くるみ「そうだなぁ……」%K%P
+Kurumi「Let's see...」%K%P
+0x9E0
+くるみ「ほいじゃあ、ほっぺにちゅう……ね？」%K%P
+Kurumi「If you lie, kiss Kurumi on the cheek... okay?」%K%P
+0xA20
+くるみ「でぇ、誠くんのことは『お兄ちゃん』って呼ぶことに決めたの♪」%K%P
+Kurumi「And she's decided to call Makoto-kun 'Onii-chan'♪」%K%P
+0xA2C
+くるみ「いいでしょ？　お兄ちゃん？」%K%P
+Kurumi「Is that all right, Onii-chan?」%K%P

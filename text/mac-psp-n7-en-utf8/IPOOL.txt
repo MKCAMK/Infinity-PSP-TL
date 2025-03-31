@@ -1,0 +1,972 @@
+text area offset and size:
+0x1668
+0x390F
+0x18
+？？「くすくす……」%K%P
+??「Hee hee...」%K%P
+0x58
+声のした方向を見ると、いづみさんがプールの縁に座って、オレを眺めていた。%K%P
+I turn to find Izumi-san, giggling as she watches me by%Nthe edge of the pool.%K%P
+0x64
+いづみ「泳ぎ、上手だね」%K%P
+Izumi「You're a good swimmer.」%K%P
+0x70
+誠「そうっすか？」%K%P
+Makoto「You think so?」%K%P
+0x7C
+いづみ「うん。それに息もよく続いてた。大したモンだよ」%K%P
+Izumi「Yes, and you do a good job at holding your breath. It's%Nnot that easy to do.」%K%P
+0x88
+誠「……そんなことないですよ」%K%P
+Makoto「... I don't think that's true.」%K%P
+0x94
+そう言いつつも、まんざらでもない。誉められて嬉しくない奴なんているものか。%K%P
+Though my words are humble, I feel far from modest. Who%Nwouldn't feel proud after being praised like that?%K%P
+0xA0
+それも、いづみさんのような美人であれば、なおさらのことだ。%K%P
+Especially when it's given by a beautiful woman like%NIzumi-san.%K%P
+0xB4
+いづみ「……でも」%K%P
+Izumi「... But.」%K%P
+0xC0
+誠「？」%K%P
+Makoto「?」%K%P
+0xD4
+いづみ「それでも、たぶん私の方が誠くんよりも%N上手いかな？」%K%P
+Izumi「Even so, I think I'm a better swimmer than you are,%NMakoto-kun.」%K%P
+0xE0
+誠「勝負します？」%K%P
+Makoto「Wanna test that theory?」%K%P
+0xEC
+それならばと、オレはいづみさんに勝負を挑んだ。%K%P
+I challenge Izumi-san.%K%P
+0xF8
+いづみさんは『いいよ』とばかりに頷いてくれる。%K%P
+She nods in agreement.%K%P
+0x104
+いづみ「なにか賭ける？」%K%P
+Izumi「Do you want to bet?」%K%P
+0x110
+誠「いいっすよ」%K%P
+Makoto「Sure thing.」%K%P
+0x11C
+自分の泳ぎに自信があるわけではなかった。%K%P
+It's not that I'm confident in my own swimming.%K%P
+0x128
+ただ、なんとなく話の流れ上、そういう風になってしまったわけで……。%K%P
+It's just that the way this conversation is going, it feels%Nlike the right thing to do...%K%P
+0x13C
+いづみ「誠くんは？」%K%P
+Izumi「So what if I win?」%K%P
+0x148
+誠「オレは……肩モミ券１日分」%K%P
+Makoto「I... will give you a day's worth of shoulder massages.」%K%P
+0x15C
+いづみ「セコイわね。……せめて１週間分にしてくれない？」%K%P
+Izumi「That's stingy... Why don't you make it one week?」%K%P
+0x168
+誠「え？　そんなのでいいの？」%K%P
+Makoto「Huh? Do you really need it for that long?」%K%P
+0x17C
+いづみ「ええ。最近、肩凝っちゃって……。やっぱり年かしら……？」%K%P
+Izumi「Yes. Lately, my shoulders have been so stiff... I wonder if%Nage is catching up with me...?」%K%P
+0x188
+誠「いえ……そんな……」%K%P
+Makoto「No... that's not...」%K%P
+0x194
+そっか……。いづみさん、１人であの店を切り盛りしてるんだものな。%K%P
+Of course... Izumi-san has been managing that%Nrestaurant alone.%K%P
+0x1A0
+そりゃ肩も凝るよ。よっし……それなら……。%K%P
+That's why her shoulders are stiff. All right... in that case...%K%P
+0x1AC
+誠「いづみさん。オレが負けたら、１日だけルナビーチの仕事手伝うよ。……それもタダで」%K%P
+Makoto「Izumi-san, if I lose, then I'll help out at Lunabeach for one%Nday... Sound good?」%K%P
+0x1C0
+いづみ「え〜。本当？」%K%P
+Izumi「Huh, really?」%K%P
+0x1CC
+誠「男に二言はない！」%K%P
+Makoto「A man never goes back on his word!」%K%P
+0x1E0
+いづみ「ふ〜ん……それじゃ私は……」%K
+Izumi「Hmm... then if you win, I'll...」%K
+0x15F8
+『膝枕！　膝枕してくれ〜』
+"Let me rest my head on your lap!"
+0x1604
+いづみさんに任せる
+Leave it to Izumi-san.
+0x230
+誠「膝枕！　いづみさん、膝枕してくれ〜」%K%P
+Makoto「Let me rest my head on your lap!」%K%P
+0x23C
+とっさにオレは言い放った。%K%P
+I immediately declare this.%K%P
+0x250
+いづみ「え！？」%K%P
+Izumi「What!?」%K%P
+0x25C
+誠「……はっ！」%K%P
+Makoto「... Agh!!」%K%P
+0x268
+オレは何を言っているんだ？　これじゃ、まるでセクハラじゃないか？%K%P
+What the hell am I saying? Wouldn't that be considered%Nsexual harassment?%K%P
+0x27C
+しかし、いづみさんはニコリと微笑んで%N答えてくれた。%K%P
+However, Izumi-san smiles sweetly at me, and answers.%K%P
+0x288
+いづみ「いいわよ。ただし、私に勝ったらね」%K%P
+Izumi「All right. However, if I win...」%K%P
+0x294
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0x2A0
+これは、どう捉えていいのだろう？%K%P
+She's totally okay with it?%K%P
+0x2AC
+相当な自信があるのか……？　それとも……？%K%P
+Is she really this confident...? Or is it...?%K%P
+0x2C0
+いづみ「それじゃ、膝枕して耳掻きまでしてあげちゃおう♪」%K%P
+Izumi「Well then, I'll let you rest your head in my lap while I pick%Nyour ears♪」%K%P
+0x2CC
+誠「え？　本当！」%K%P
+Makoto「Huh? Really!?」%K%P
+0x2D8
+もう言葉の意味なんかどうでもいいや。膝枕だ。耳掻きだ。%K%P
+It's like she doesn't even care about the meaning of%Nthose words. Laying my head in her lap as she picks my%Nears.%K%P
+0x2E4
+よっしゃ〜！　勝ったるぜ〜！！%K%P
+Hell yeah! I've gotta win!!%K%P
+0x2F0
+オレは気合を入れた。%K%P
+I get fired up.%K%P
+0x304
+いづみ「ルナビーチのお食事券。１年分」%K%P
+Izumi「I'll let you have a year's supply of free food from%NLunabeach.」%K%P
+0x310
+誠「えっ？！　マジ？」%K%P
+Makoto「WHAT!? Really?」%K%P
+0x324
+いづみ「うん」%K%P
+Izumi「Yes.」%K%P
+0x330
+誠「よっしゃ〜！　勝ったるぜ〜！！」%K%P
+Makoto「All right〜! I've gotta win!!」%K%P
+0x33C
+オレは気合を入れた。%K%P
+I get fired up.%K%P
+0x350
+……………………。%K%P
+...%K%P
+0x35C
+オレ達は、競泳用のプールの飛びこみ台についた。%K%P
+We stand on the diving boards used for swimming races%Nat the pool.%K%P
+0x370
+いづみ「それじゃ、行くわよ」%K%P
+Izumi「Well then, let's go.」%K%P
+0x37C
+誠「よ〜い……」%K%P
+Makoto「Ready... Set...」%K%P
+0x388
+？？「ド〜〜ン！」%K%P
+??「GOOOO!」%K%P
+0x394
+誠「は？」%K%P
+Makoto「Huh?」%K%P
+0x3D4
+オレは何者かに突き落とされて、頭からプールへと転落した。%K%P
+Someone pushes me from behind, and I fall head first into%Nthe pool.%K%P
+0x3FC
+いづみさんは、その隙にスタートを切っていた。%K%P
+Izumi-san starts swimming in that interval...%K%P
+0x438
+優夏「キャハハハハ…………♪」%K%P
+Yuka「Kyahahahaha...♪」%K%P
+0x444
+……オレを突き落としたのは、優夏だった。%K%P
+... The culprit was Yuka.%K%P
+0x450
+優夏は腹を抱えて笑っている。おまけに、手に持っているのは……ビール！%K%P
+She is holding her sides with laughter. In her hand, she is%Nholding a glass of... beer!%K%P
+0x45C
+誠「お、お前……酔ってんのか……？」%K%P
+Makoto「A-Are you... drunk...?」%K%P
+0x478
+優夏「あれ〜？　早く泳がなくてもいいの？」%K%P
+Yuka「Huh? Shouldn't you hurry up and swim?」%K%P
+0x484
+誠「……え？」%K%P
+Makoto「... Huh?」%K%P
+0x490
+そんなことをしている間に、いづみさんはとっくに遥か先の地点まで泳いでいる。%K%P
+In the time I've been floating here, Izumi-san has almost%Nreached the other end of the pool.%K%P
+0x49C
+誠「あぁっ！！」%K%P
+Makoto「AAHH!!」%K%P
+0x4B8
+誠「……ひ、膝枕〜〜〜っ！！」%K%P
+Makoto「...Y-YOU JUST COST ME MY HEAD REST AND MY EAR PICKING!!」%K%P
+0x4CC
+優夏「ほえ〜？」%K%P
+Yuka「Huh〜?」%K%P
+0x4E0
+慌ててオレは泳ぎ始めた。%K%P
+I frantically start swimming.%K%P
+0x4F4
+誠「……お、お食事券〜〜っ！！」%K%P
+Makoto「... Y-YOU JUST COST ME MY YEAR'S SUPPLY OF FOOD!!」%K%P
+0x508
+優夏「ほえ？」%K%P
+Yuka「Huh?」%K%P
+0x51C
+慌ててオレは泳ぎ始めた。%K%P
+I frantically start swimming.%K%P
+0x554
+オレは、いづみさんに追いつこうと必死で泳いだ。%K%P
+I desperately swim after Izumi-san.%K%P
+0x560
+必死でクロールした。必死で水を掻いた。必死で息継ぎをした。%K%P
+I desperately crawl, paddle, and breaststroke.%K%P
+0x56C
+たぶん、いつもより速く泳げていたに違いない。%K%P
+I desperately try every fast swimming technique in the%Nbook...%K%P
+0x578
+……でも、それでも、いづみさんはもっと速かった。%K%P
+... But even so, Izumi-san is faster.%K%P
+0x584
+オレが半分くらい泳いでいた頃には、すでにいづみさんはゴールしていたようだ。%K%P
+By the time I'm halfway there, Izumi-san has already%Nreached the goal.%K%P
+0x590
+…………しばらくの後、ようやくオレもゴールまで泳ぎ切る。%K%P
+... I reach the finishing point soon after.%K%P
+0x5A4
+いづみ「……どう？　恐れ入った？」%K
+Izumi「... Well? Are you impressed?」%K
+0x1610
+『恐れ入りました……』
+"Yeah, I am..."
+0x161C
+『い、今のはナシ！』
+"Th-That didn't count!"
+0x5EC
+誠「恐れ入りました……」%K%P
+Makoto「Yeah, I am...」%K%P
+0x5F8
+オレは素直に負けを認めた。%K%P
+I honestly admit defeat.%K%P
+0x604
+おそらく、優夏の妨害（？）がなくても、勝てなかっただろう。%K%P
+Even if Yuka hadn't interfered, I probably still would have%Nlost.%K%P
+0x610
+それほど速かったのだ。いづみさんは。%K%P
+Izumi-san is simply unbelievably fast.%K%P
+0x624
+いづみ「誠くんって、素直なんだね」%K%P
+Izumi「You're an honest one, Makoto-kun.」%K%P
+0x638
+誠「い、今のはナシ！」%K%P
+Makoto「Th-That didn't count!」%K%P
+0x64C
+いづみ「え〜っ、どうして〜？」%K%P
+Izumi「Huh〜, why not〜?」%K%P
+0x658
+誠「だって……」%K%P
+Makoto「Because...」%K%P
+0x664
+いづみ「男に二言はない！」%K%P
+Izumi「Men don't go back on their word!」%K%P
+0x670
+誠「うっ……！」%K%P
+Makoto「Ugh...!!」%K%P
+0x67C
+誠「……だ、だって、オレ邪魔されたんですよ。%N優夏に」%K%P
+Makoto「... B-Because Yuka came and got in my way.」%K%P
+0x690
+いづみ「ふ〜ん……」%K%P
+Izumi「Hmm...」%K%P
+0x69C
+いづみ「じゃあ、妨害さえ無ければ、勝ててた？」%K%P
+Izumi「So you're saying that you would've won if she hadn't%Ngotten in your way?」%K%P
+0x6A8
+誠「そりゃ、もう！」%K%P
+Makoto「Of course!」%K%P
+0x6BC
+いづみ「……いいわよ。それじゃ再勝負ね」%K%P
+Izumi「... Very well. Then let's have a rematch.」%K%P
+0x6C8
+……ほっ。%K%P
+... Bring it on.%K%P
+0x6DC
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x6E8
+……甘かった。何がって？　そりゃ考え方が。%K%P
+... It was foolish for me to accept her challenge.%K%P
+0x6F4
+オレは負けた。それも惨敗だった。%K%P
+I lost. She completely trashed me.%K%P
+0x700
+おそらく、さっきも優夏の妨害（？）がなくても、勝てなかっただろう。%K%P
+Even if Yuka hadn't interfered earlier, I probably still%Nwould have lost.%K%P
+0x70C
+それほど速かったのだ。いづみさんは。%K%P
+Izumi-san is simply too fast.%K%P
+0x718
+いづみ「……これで文句はないよね？」%K%P
+Izumi「... Are you satisfied now?」%K%P
+0x724
+オレは頷くしかなかった。%K%P
+I can't do anything but nod.%K%P
+0x738
+いづみ「ふふふ……。じゃあ誠くんは、ルナビーチでタダ働きね」%K%P
+Izumi「Hee hee hee... then you have to work at Lunabeach as%Npromised, Makoto-kun.」%K%P
+0x744
+誠「……はい」%K%P
+Makoto「... Okay.」%K%P
+0x750
+いづみ「いつでもいいからね♪　誠くんの都合のいい日で」%K%P
+Izumi「Whenever's fine♪ Whichever is the most convenient day%Nfor you.」%K%P
+0x75C
+誠「……はい」%K%P
+Makoto「... Okay.」%K%P
+0x770
+オレ達は、プールから上がるとプールの縁に腰を下ろした。%K%P
+We get out of the pool and sit down on the edge of the%Npool.%K%P
+0x78C
+水面に足を浸す。%K%Nそう、昨夜の遙のように。%K%P
+I dip my feet into the water. Just like Haruka last night...%K%P
+0x7BC
+いづみ「ふふふ……」%K%P
+Izumi「Hee hee hee...」%K%P
+0x7C8
+誠「？　……どうしたんですか？」%K%P
+Makoto「? ... What's up?」%K%P
+0x7D4
+いづみ「そう言えば、こうやってプライベートな時間をエンジョイするなんて、久しぶりだなって思ったの」%K%P
+Izumi「Now that I think about it, it's been a long time since I've%Nhad time in private to enjoy myself.」%K%P
+0x7E0
+いづみ「誠くん達みたいな若いコと、付き合うこともほとんどないしね」%K%P
+Izumi「I've almost no time to spend with people as young as%Nyour group.」%K%P
+0x7EC
+誠「……ずっと、仕事ずくめなんですか？」%K%P
+Makoto「... Are you saying you're a workaholic or something?」%K%P
+0x7F8
+いづみ「う〜ん……。まあ、そういうわけでもないんだけどね」%K%P
+Izumi「Hmm... Well, I wouldn't say that it's like that.」%K%P
+0x804
+いづみ「まあ、社会に出るといろいろと苦労することが多くなるってことよ」%K%P
+Izumi「Well, full fledged adults have lots of troubles.」%K%P
+0x810
+誠「ふ〜ん」%K%P
+Makoto「Hmm...」%K%P
+0x81C
+社会人か……。オレも２年後にはそうなるんだな。%K%N
+Full fledged adults, huh... In two years, I guess I'll be right%Nup there with them.%K%N
+0x828
+……あ、その前に就職活動か……。%K%P
+... Ah, but I've got to go job hunting before that...%K%P
+0x834
+なんだか実感がわかないな。%K%P
+It doesn't feel real.%K%P
+0x840
+社会に出るってどういうことなんだろう？%K%P
+What will I do when I go out into society?%K%P
+0x84C
+いづみ「どうしたの？　急に黙り込んじゃって」%K%P
+Izumi「What's wrong? You suddenly fell silent.」%K%P
+0x858
+誠「いや……。オレももう２年もすれば社会人なんだな……って」%K%P
+Makoto「No... it's just that I'll be a full fledged adult as well in just%Ntwo years.」%K%P
+0x864
+誠「なんだか実感わかないですよ。それどころか、その頃オレは何をしているのやら……」%K%P
+Makoto「It doesn't feel real. On the contrary, I don't even know%Nwhat I'll be doing then...」%K%P
+0x870
+いづみ「う〜ん……。ま、そのうち、わかるんじゃない？」%K%P
+Izumi「Hmm... well, won't you know at that time?」%K%P
+0x87C
+誠「はあ……」%K%P
+Makoto「Perhaps...」%K%P
+0x888
+いづみ「大丈夫よ。誠くんなら、立派な社会人に%Nなれるって♪」%K%P
+Izumi「It's fine. You'll be a fine adult, Makoto-kun♪」%K%P
+0x894
+誠「……そうかな？」%K%P
+Makoto「... You think so?」%K%P
+0x8A0
+いづみ「そうよ」%K%P
+Izumi「I do.」%K%P
+0x8AC
+誠「どうして？」%K%P
+Makoto「Why's that?」%K%P
+0x8B8
+いづみ「えっ？」%K%P
+Izumi「Huh?」%K%P
+0x8C4
+誠「どうして『立派な社会人になれる』なんて、言い切れるんですか？」%K%P
+Makoto「How can you assert that 'I'll become a splendid adult'?」%K%P
+0x8D0
+いづみ「はは〜ん、そうやって聞き返すってことは、そうとう自信が無いんだなぁ？」%K%P
+Izumi「Ah ha, judging from that response, you don't have a lot%Nof self-confidence, do you?」%K%P
+0x8DC
+誠「自信、かぁ……」%K%P
+Makoto「Confidence, huh...」%K%P
+0x8E8
+誠「確かに、無いかも」%K%P
+Makoto「You're right, I don't have any.」%K%P
+0x8F4
+誠「そもそも、ちゃんと卒業できるかどうかだって、わからないんだから」%K%P
+Makoto「In the first place, I don't know if I'll even be able to%Ngraduate or not.」%K%P
+0x900
+いづみ「授業、あんまり出てないの？」%K%P
+Izumi「You don't attend your classes much?」%K%P
+0x90C
+誠「『あんまり』どころか『全然』ね？」%K%P
+Makoto「'Much' is an overstatement. Try 'not at all'.」%K%P
+0x918
+そう言って自嘲したオレに、いづみさんも微笑みを返した。%K%P
+Izumi-san just sympathetically smiles as I deride myself.%K%P
+0x924
+誠「単位もほとんど取れてないし、ほんとだったら留年するとこだったんだ」%K%P
+Makoto「I've obtained virtually no credits, and I should have to%Nrepeat a year.」%K%P
+0x930
+誠「でも、学科の主任に土下座して頼み込んで……」%K%P
+Makoto「But I practically prostrated myself and begged before%Nmy course of study official...」%K%P
+0x93C
+いづみ「それで、いちおうなんとか３年に上がることはできた、と？」%K%P
+Izumi「And so, somehow, you were able to temporarily advance%Nto your junior year?」%K%P
+0x948
+誠「まあ、そういうことです」%K%P
+Makoto「Pretty much.」%K%P
+0x954
+いづみさんは終始笑顔を絶やさなかった。%K%P
+Izumi-san still smiles at me.%K%P
+0x960
+その微笑みは、出来の悪い生徒の悩みを聞く小学校の先生みたいに……優しかった。%K%P
+It's like the smile of an elementary school teacher who's%Nlistening to one her students with bad grades tell her%Ntheir worries... It's a very kind one.%K%P
+0x96C
+いづみ「だけど、確かに大変よね……」%K%P
+Izumi「But that's certainly difficult...」%K%P
+0x978
+いづみ「心理学科って、文学部の中でも１番進級基準が厳しいでしょ？」%K%P
+Izumi「The Psychology major has the strictest advancement%Ncriteria in the Literature Department, right?」%K%P
+0x984
+誠「えっ？」%K%P
+Makoto「Huh?」%K%P
+0x990
+誠「……あっ……そうみたいですけど……」%K%P
+Makoto「Yeah... it sure seems that way...」%K%P
+0x99C
+誠「でもいづみさん……なんでオレが心理学科だって、知ってるんですか？」%K%P
+Makoto「But Izumi-san... how did you know I was going for a%NPsychology major?」%K%P
+0x9A8
+いづみ「……えっ？」%K%P
+Izumi「... Huh?!」%K%P
+0x9BC
+いづみ「あ、ああ……それは……………………」%K%P
+Izumi「A-Ah... that's...」%K%P
+0x9C8
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x9D4
+いづみ「……………………聞いたから」%K%P
+Izumi「... because I heard about it.」%K%P
+0x9E8
+いづみ「そうっ、優夏ちゃんに、聞いたからよ？」%K%P
+Izumi「That's right, I heard it from Yuka-chan!」%K%P
+0x9F4
+いづみさんの表情が、ほんの少しだけこわばったように見えた。%K%P
+Izumi-san's expression momentarily stiffens.%K%P
+0xA08
+その視線をすっと下にそらすと、水面に浸していた足をバタバタを振って水しぶきをあげた。%K%P
+She lowers her head and kicks her legs, splashing the%Nwater.%K%P
+0xA1C
+いづみ「ねえ？　誠くん？」%K%P
+Izumi「Hey, Makoto-kun?」%K%P
+0xA28
+足を止め、再びオレのほうに向きなおるいづみさん。%K%P
+She stops kicking, and looks at me.%K%P
+0xA34
+しかしすぐに……%K%P
+But immediately afterwards...%K%P
+0xA48
+いづみ「ううん……何でもない……」%K%P
+Izumi「No... it's nothing.」%K%P
+0xA54
+……そう言って、また視線をそらしてしまった。%K%P
+... she says this, and averts her gaze.%K%P
+0xA60
+誠「？？？」%K%P
+Makoto「???」%K%P
+0xA6C
+それっきり、いづみさんは黙り込んでしまった。%K%P
+Izumi-san falls completely silent.%K%P
+0xA78
+何かを考え込んでいるかのように……。%K%P
+It's like she's deep in thought about something...%K%P
+0xA84
+……別の話題に変えた方が無難かな？%K
+... Should I change the topic?%K
+0x1628
+『くるみって不思議な子ですよね』
+"Kurumi's quite a strange girl."
+0x1634
+『趣味はなんですか？』
+"What are your hobbies?"
+0x1640
+『尊敬する人は誰ですか？』
+"Who do you respect most?"
+0x164C
+『彼氏いるんですか？』
+"Do you have a boyfriend?"
+0xAEC
+誠「くるみって不思議な子ですよね」%K%P
+Makoto「Kurumi's quite a strange girl.」%K%P
+0xB00
+いづみ「え？　どうして？」%K%P
+Izumi「Huh? How so?」%K%P
+0xB0C
+誠「う〜ん、なんて言ったらいいか……。その……」%K%P
+Makoto「Hmm, how do I put it... err...」%K%P
+0xB18
+誠「普段は、すっごく子供っぽいのに、時々……やたら大人びた表情をしていたり……」%K%P
+Makoto「Normally, she's very childish, but from time to time... she%Nlooks very mature...」%K%P
+0xB24
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0xB30
+誠「……あ、いや……。ただ、なんとなく、そう思えただけなんですよ」%K%P
+Makoto「... Ah, no... it's just, um, what I think.」%K%P
+0xB3C
+いづみ「……」%K%P
+Izumi「...」%K%P
+0xB48
+誠「……あ、あの……あんまり深く%N考えないでください」%K%P
+Makoto「... U-Um... Please don't think too much about it.」%K%P
+0xB54
+いづみ「……ふふっ。誠くん……くるみの事、気になる？」%K%P
+Izumi「... Hee hee, Makoto-kun... are you interested in Kurumi?」%K%P
+0xB60
+誠「へ？」%K%P
+Makoto「What?」%K%P
+0xB6C
+いづみ「図星」%K%P
+Izumi「Bullseye!」%K%P
+0xB78
+誠「ち、違いますよ……な、何言っているんですか？」%K%P
+Makoto「Y-You're wrong... Wh-What are you saying?」%K%P
+0xB84
+いづみ「くすっ♪　動揺してる」%K%P
+Izumi「Hee hee♪ You're getting embarrassed.」%K%P
+0xB90
+いづみ「もぉ〜、しょうがないな〜。こうなったら、お姉さんが一肌脱いであげますか〜」%K%P
+Izumi「Ge〜ez, guess I have no choice. At times like these, it's%Nthe big sister's duty to pitch in and help〜」%K%P
+0xB9C
+誠「や、やめてくださいよ……」%K%P
+Makoto「P-Please stop...」%K%P
+0xBA8
+いづみ「うりうり〜♪　正直に白状しちゃいなさいよ」%K%P
+Izumi「Heh heh〜♪ Just honestly confess to her.」%K%P
+0xBB4
+いづみさんは、オレの体を人差し指でグリグリとこねりながら、悪戯っぽい顔をする。%K%P
+Izumi-san says this with an impish face while poking me%Nwith her index finger.%K%P
+0xBC0
+……知らなかった。この人、こんな子供っぽいところもあるんだ……。%K%P
+... I had no idea that Izumi-san had this childish side...%K%P
+0xBD4
+誠「あの……いづみさんの趣味はなんですか？」%K%P
+Makoto「Um... what are your hobbies, Izumi-san?」%K%P
+0xBE8
+いづみ「ん？」%K%P
+Izumi「Huh?」%K%P
+0xBF4
+誠「あ、いや……その、趣味とかないのかな……って」%K%P
+Makoto「Ah, no... I was just wondering... that's all.」%K%P
+0xC00
+いづみ「くすっ。なんだか、お見合いみたいな質問ね」%K%P
+Izumi「Hee hee! That sounds kinda like a question at an%Narranged marriage interview.」%K%P
+0xC0C
+誠「そ……そうっすね」%K%P
+Makoto「I... I suppose so.」%K%P
+0xC18
+いづみ「……そうねぇ……。最近ではやっぱり%N泳ぐことかな？」%K%P
+Izumi「... Let's see... Lately, I've been into swimming.」%K%P
+0xC24
+いづみ「このプールもよく利用する方だしね」%K%P
+Izumi「I often use this pool for that.」%K%P
+0xC30
+誠「そっか……。それじゃ泳ぎも速いわけだ……」%K%P
+Makoto「I see... So that's why you're a fast swimmer...」%K%P
+0xC3C
+いづみ「大学の頃は、車に凝ってたこともあったっけ……」%K%P
+Izumi「In college, I became obsessed with cars...」%K%P
+0xC48
+誠「へぇ……。いづみさん、免許もっているんだ」%K%P
+Makoto「Wow... so you have your license?」%K%P
+0xC54
+いづみ「もちろん♪　これでも若い頃はブイブイと言わせていたものよ」%K%P
+Izumi「Of course♪ I may not look like it, but I did a lot of these%Ntypes of things when I was young.」%K%P
+0xC60
+誠「だから、今でも十分若いって……」%K%P
+Makoto「You're still pretty young now...」%K%P
+0xC74
+いづみ「でもね……」%K%P
+Izumi「But...」%K%P
+0xC80
+誠「？」%K%P
+Makoto「?」%K%P
+0xC8C
+いづみ「もう６回なの……」%K%P
+Izumi「It's already been six times...」%K%P
+0xC98
+誠「何が？」%K%P
+Makoto「Huh?」%K%P
+0xCA4
+いづみ「免停」%K%P
+Izumi「That I've had my license suspended.」%K%P
+0xCB0
+誠「…………は？」%K%P
+Makoto「... Come again?」%K%P
+0xCC4
+いづみ「おかしいのよね〜。これでもセーフティドライバーのつもりなのに……」%K%P
+Izumi「It's strange〜. Even though I have every intention of%Nbeing a safe driver...」%K%P
+0xCD0
+免停……つまり、免許停止。%K%N
+A suspended license...%K%N
+0xCDC
+交通規則を違反するなどによって、一定期間、運転免許が使用できなくなり、つまりは、運転できなくなるっていう罰則だ。%K%P
+In other words, because she violated traffic laws, she's%Nbeen unable to use her driver's license and forbidden%Nto drive by penal regulations.%K%P
+0xCE8
+誠「何、やったの？　……いづみさん」%K%P
+Makoto「Wh-What did you do?」%K%P
+0xCF4
+いづみ「え？　別に……。普通に運転してただけ」%K%P
+Izumi「Huh? Nothing really... I was just driving normally.」%K%P
+0xD00
+誠「普通……って、それじゃ捕まることないでしょ？」%K%P
+Makoto「If that's the case, then why were you pulled over?」%K%P
+0xD0C
+いづみ「うん……。でもね……血が騒ぐのよ」%K%P
+Izumi「Well... you see... my blood got riled up.」%K%P
+0xD18
+誠「……？」%K%P
+Makoto「...?」%K%P
+0xD24
+いづみ「白いバイクを見るとね。血が騒ぐの……」%K%P
+Izumi「I saw a white motorcycle... and my blood got riled up...」%K%P
+0xD30
+いづみ「で、ふと気がつくと……」%K%P
+Izumi「But then, I suddenly regained my senses...」%K%P
+0xD3C
+誠「もう、いい……。%W%W%Wわかったよ……」%K%P
+Makoto「That's enough... I get it...」%K%P
+0xD48
+………………。%K%P
+...%K%P
+0xD54
+どこが、セーフティドライバーなんだよ……。%K%N
+Some "safe driver" she was...%K%N
+0xD60
+白バイと勝負するなんて、完全なスピード狂じゃないか。%K%P
+She raced the white motorcycle, and went completely%Nover the speed limit, didn't she?%K%P
+0xD6C
+今は穏和そうに小首を傾げているいづみさん……。%K%N
+The same gentle Izumi-san who is tilting her head right%Nnow...%K%N
+0xD78
+そんないづみさんが白バイと勝負している光景が、一瞬、頭に浮かんだ。%K%P
+The scene of Izumi-san racing the white motorcycle%Ninstantly flashes in my head.%K%P
+0xD8C
+誠「……尊敬する人っています？」%K%P
+Makoto「... Who do you respect the most?」%K%P
+0xDA0
+いづみ「は？」%K%P
+Izumi「Huh?」%K%P
+0xDAC
+………………って、オ、オレは何を聞いているんだぁぁぁっ！！%K%P
+... Wait, wh-what am I asking her!!?%K%P
+0xDB8
+いづみ「……そうねぇ」%K%P
+Izumi「... Let's see.」%K%P
+0xDC4
+そんなオレの心境はどこ吹く風という感じで、真剣に考え込んでいるいづみさん。%K%P
+Izumi-san takes my question seriously and thoughtfully%Nponders on an answer.%K%P
+0xDD0
+いづみ「……探偵ホームズ」%K%P
+Izumi「... Sherlock Holmes.」%K%P
+0xDDC
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0xDE8
+いづみ「私の尊敬する人。それはホームズ」%K%P
+Izumi「Sherlock Holmes. That's the person I respect the most.」%K%P
+0xDF4
+誠「……あ、でも……」%K%P
+Makoto「... Ah, but...」%K%P
+0xE00
+それはコナン・ドイルが創造した架空の人物で、実在した人じゃないでしょ？%K%N
+He's not real, he's just a fictional character created by%NArthur Conan Doyle, isn't he?%K%N
+0xE0C
+オレがそう言おうとしたところを間髪入れずに言葉を続けるいづみさん。%K%P
+I'm about to say this, but Izumi-san continues without%Nmissing a beat.%K%P
+0xE18
+いづみ「憧れちゃうよね〜、ああいうのって。私、将来は探偵になろうって思ってた頃もあって……」%K%P
+Izumi「I admired him. There was a time where I thought I wanted%Nto become a detective in the future...」%K%P
+0xE24
+いづみ「僅かな証拠も見逃さない優れた洞察力……」%K%P
+Izumi「His excellent perception that would allow him to not%Noverlook even the smallest amount of evidence...」%K%P
+0xE30
+いづみ「僅かな証拠からトリックを導き出す無限の推理力……」%K%P
+Izumi「His endless deductive skills, which he would use to%Nderive tricks from those small amounts of evidence...」%K%P
+0xE3C
+いづみ「そして、最後まで諦めない不屈の精神力……」%K%P
+Izumi「And his fortitude, which wouldn't allow him to give up until%Nthe end...」%K%P
+0xE48
+いづみ「あぁ……シビれる〜。ね、誠くんもそう思うでしょ？」%K%P
+Izumi「Ah... He's so amazing〜. Don't you think so?」%K%P
+0xE54
+誠「え、ええ……まあ」%K%P
+Makoto「Y-Yeah... sure.」%K%P
+0xE60
+オレは、こんな質問を考えた自分をキツく叱っておくことにした。%K%N
+I never read the stories, so I can't really relate.%K%N
+0xE6C
+それにしても、いづみさんって……わからない。%K%P
+This isn't helping me to get to know Izumi-san better.%K%P
+0xE88
+誠「いづみさんって、今、彼氏いるんですか？」%K%P
+Makoto「Izumi-san, do you have a boyfriend?」%K%P
+0xE9C
+いづみ「ん〜？　普通、前振りもなく、そういう無粋なこと聞くかなぁ〜？」%K%P
+Izumi「Huh〜? Normally, you shouldn't ask such an insensitive%Nquestion without a lead-in.」%K%P
+0xEB0
+いづみ「もし、私が最近、フラれたばかりだったとしたら、傷ついちゃうなぁ」%K%P
+Izumi「What if I had been dumped recently? That question would%Nhave reopened sore wounds.」%K%P
+0xEBC
+……はい。自分でもそう思います……って、え？　フラれた？%K%P
+... Right. That's what I thought... wait, what? Dumped?%K%P
+0xEC8
+誠「いづみさん……最近、フラれたの？」%K%P
+Makoto「Izumi-san... were you dumped recently?」%K%P
+0xEDC
+いづみ「ふふっ……知りたい？」%K%P
+Izumi「Hee hee... Do you want to know?」%K%P
+0xEE8
+ハイ、知りたいです。オレは頷く。%K%P
+I eagerly nod.%K%P
+0xEF4
+いづみ「残念ながら、フラれてません」%K%P
+Izumi「Unfortunately, I haven't been been dumped.」%K%P
+0xF00
+誠「残念……。じゃない、それはよかったですね」%K%P
+Makoto「Unfortunately... Wait, isn't that a good thing?」%K%P
+0xF0C
+いづみ「別に……誰とも付き合ってるなんて言ってないんだけど……」%K%P
+Izumi「Not really... I never said I was going out with someone,%Nafter all...」%K%P
+0xF18
+誠「え？　彼氏いないの？」%K%P
+Makoto「Huh? You don't have a boyfriend?」%K%P
+0xF24
+いづみ「悪かったわね」%K%P
+Izumi「Well, sorry to disappoint you.」%K%P
+0xF30
+いづみさんは、口を尖らせて抗議する。%K%P
+Izumi-san objects with a pout.%K%P
+0xF3C
+なんだか、それはくるみの仕草に似てないこともなかった。%K%P
+It kinda reminds me of something Kurumi would do.%K%P
+0xF48
+誠「いえ……。そういう訳じゃなくて……」%K%P
+Makoto「No... that's not what I...」%K%P
+0xF54
+いづみ「くすっ♪　冗談よ」%K%P
+Izumi「Hee hee♪ Just kidding!」%K%P
+0xF60
+いづみ「まぁ、今のところいないけど……。でも毎日が忙しいから、今のところ興味無いだけ……」%K%P
+Izumi「Well, I don't have one right now... But I'm so busy%Neveryday anyway that I'm not really interested in one at%Nthe moment...」%K%P
+0xF6C
+いづみ「ふふっ……、こんなところでいいかしら？」%K%P
+Izumi「Hee hee... but perhaps that's a good thing?」%K%P
+0xF78
+悪戯っぽい笑みを浮かべて、小首をかしげる。%K%P
+Izumi-san tilts her head and gives me a mischievous%Nsmile.%K%P
+0xF84
+……オレは、そんないづみさんを見て、ふと思った。%K%P
+... A thought occurs to me as I look at her.%K%P
+0xF90
+（いづみさんにとって、オレは、どういう風に映っているのだろう？）%K%P
+(How does Izumi-san see me?)%K%P
+0xFA4
+……守野いづみ……さん……か。%K%P
+... Izumi... Morino...%K%P
+0xFB0
+……ん？%K%P
+... Huh?%K%P
+0xFBC
+オレはそこでふと思い出す。守野っていう名字に聞き覚えがあったからだ。%K%N
+It then hits me. I remember where I've heard the name%N"Morino" before.%K%N
+0xFC8
+初めて出会った時にも感じていた違和感。……確かにどこかで聞いたことがある。%K%P
+That was why I thought her name was familiar.%K%P
+0xFD4
+……思い出した！%K%P
+... I've finally remembered!%K%P
+0xFE0
+誠「……そう言えば、いづみさんの『守野』っていう名字……」%K%P
+Makoto「... Now that I think about it, your last name is 'Morino', right?」%K%P
+0xFEC
+誠「遺伝子工学の権威として世界的に有名な『守野博士』と同じですね」%K%P
+Makoto「You have the same last name as Dr. Morino, the world%Nfamous authority on genetic engineering.」%K%P
+0x1000
+いづみ「へぇ〜、よく知ってるわね」%K%P
+Izumi「Wow, you're well informed.」%K%P
+0x100C
+誠「ええ、授業で習いましたから……」%K%P
+Makoto「Yes, I learned about it at school...」%K%P
+0x1018
+いづみ「ふ〜ん……」%K%P
+Izumi「Hmm...」%K%P
+0x1024
+いづみ「その人ね、ウチの父なの」%K%P
+Izumi「He's my father.」%K%P
+0x1030
+誠「へぇ〜、そうだったんですかぁ。それだったら同じなのは当然ですよね……」%K%P
+Makoto「Oh, so that's it. It's only natural you'd have the same last%Nname then...」%K%P
+0x103C
+…………って、ウチの父？%K%P
+... Wait, her father?%K%P
+0x1048
+ええぇぇぇぇぇぇぇっ！！！！%K%P
+WHAAAAAAAAAAAT!!!?%K%P
+0x1054
+誠「『ウチの父』……って、あの『守野博士』が、いづみさんの父親！？」%K%P
+Makoto「You said 'my father'... so THE Dr. Morino is your father!?」%K%P
+0x1060
+いづみ「そうなの……ヘン？」%K%P
+Izumi「Is that... strange?」%K%P
+0x106C
+誠「いや……。%Nヘンとか、そういうんじゃなくて……」%K%P
+Makoto「No... It's not that...」%K%P
+0x1078
+驚いた……。%K%P
+It's just surprising...%K%P
+0x1084
+いや、今まで色々驚かされてきたけど、これが一番驚いた。%K%P
+No, this is quite possibly the most startling thing I've%Never heard in my entire life.%K%P
+0x1090
+いづみ「なんだか、すごい有名人らしいんだけど、家ではごく普通の父親よ……たぶん」%K%P
+Izumi「It seems like he's a very famous person, but at home,%Nhe's just a normal father... probably.」%K%P
+0x109C
+いづみ「お風呂から上がれば、下着１枚で平気でくつろいでいるし……」%K%P
+Izumi「After getting out of the bath, he loiters around in his%Nunderwear...」%K%P
+0x10A8
+……世間って、意外と狭いんだな……。%K%P
+... I guess it's a small world after all...%K%P
+0x10B4
+いやその前に、いづみさん『守野博士』のこと、%N『有名人らしい』だなんて……%N本当にわかっているのかな？%K%P
+No, but Izumi-san said "it seems like he's a very famous%Nperson"... Doesn't she know just how famous he is...?%K%P
+0x111C
+いづみ「……あっ！」%K%P
+Izumi「... Ah!!」%K%P
+0x1128
+突然、いづみさんは飛びあがるように立ちあがる。%K%P
+Suddenly, Izumi-san springs to her feet.%K%P
+0x1134
+誠「どうしたんですか？」%K%P
+Makoto「Is something wrong?」%K%P
+0x1140
+いづみ「うん……ちょっと……。私、電話してくるね」%K%P
+Izumi「Well... you see... I have to make a phone call.」%K%P
+0x114C
+誠「電話？」%K%P
+Makoto「A phone call?」%K%P
+0x1160
+いづみ「忘れてたかもしれないの……%N裏口の鍵を閉めるのを。くるみに言って、%N確認してもらわなきゃ」%K%P
+Izumi「I might have forgotten to lock the backdoor. I have to%Ncall Kurumi just to make sure.」%K%P
+0x116C
+誠「くるみがいるなら、大丈夫じゃないんですか？」%K%P
+Makoto「If Kurumi's there, then shouldn't it be all right?」%K%P
+0x1178
+いづみ「うん……。でも、いちおう念の為」%K%P
+Izumi「Yes... But I just want to be safe.」%K%P
+0x1184
+いづみ「それじゃ、誠くん。また後で♪」%K%P
+Izumi「Well then, I'll see you later, Makoto-kun♪」%K%P
+0x11A8
+優夏「あれ〜？　誠？」%K%P
+Yuka「Huh〜? Makoto?」%K%P
+0x11D8
+……いづみさんと別れたオレは、喉の渇きを覚え、売店へと向かった。%K%P
+... After parting with Izumi-san, I'm feeling thirsty, so I go to%Nget a drink.%K%P
+0x11E4
+そして、そこで優夏と合流した。%K%P
+And there, I met up with Yuka.%K%P
+0x11F0
+優夏の手には、相変わらずビールが握られている。%K%P
+She's still holding a glass of beer in her hand...%K%P
+0x11FC
+優夏「ど〜したの？　そんなに怖い顔して？」%K%P
+Yuka「What's wrong? Your face looks scary.」%K%P
+0x1208
+誠「……お前、もう忘れたんかいっ」%K%P
+Makoto「... Have you already forgotten?!」%K%P
+0x1214
+優夏「？」%K%P
+Yuka「?」%K%P
+0x1220
+誠「さっき、オレがいづみさんと競泳してた時……」%K%P
+Makoto「Earlier, when Izumi-san and I were racing in the pool...」%K%P
+0x1234
+優夏「ああ〜〜！　はいはいはいはいはい……」%K%P
+Yuka「Oh〜〜! Right right right right right...」%K%P
+0x1240
+誠「やな奴だな。……お前って」%K%P
+Makoto「... You really get on my nerves sometimes, you know?」%K%P
+0x124C
+優夏「そんな……。あんなの、ちょっとした軽いジョークじゃない……」%K%P
+Yuka「Hey... that was just a harmless little joke...」%K%P
+0x1258
+誠「その『ちょっとした軽いジョーク』のせいで……%Nオレは……オレは……」%K%P
+Makoto「Because of your 'harmless little joke', I... I...」%K%P
+0x1264
+ふるふる……と肩を震わせるオレ。%K%N
+My shoulders are shaking.%K%N
+0x1270
+ちくしょー！　もう許せんっ！！%K%P
+DAMMIT! You'll pay for that!!!%K%P
+0x1284
+優夏「も〜！　いつまでも細かいことでグジグジしてるのって、男らしくないなぁ」%K%P
+Yuka「Gee〜ez! It's so unmanly for you to mope over trivial%Nthings forever.」%K%P
+0x1290
+優夏「こうやって、誠意をもって謝っているってのに……」%K%P
+Yuka「Even though I apologized to you in good faith...」%K%P
+0x129C
+……いつ謝った？　こんちくしょうめ……。%K%P
+... What apology, you damn bi... wait a minute.%K%P
+0x12A8
+誠「ほぉ〜……。では、その誠意とやらを見せてもらおうか？」%K%P
+Makoto「Oh ho... Then why don't you show me that good faith?」%K%P
+0x12BC
+優夏「え？」%K%P
+Yuka「Huh?」%K%P
+0x12C8
+誠「なんか奢れ」%K%P
+Makoto「Get me a drink.」%K%P
+0x12DC
+優夏「うん。いいよ♪」%K%P
+Yuka「Sure, all right♪」%K%P
+0x12E8
+誠「……へ？」%K%P
+Makoto「... What?」%K%P
+0x12F4
+あまりにも、あっさりと承諾した優夏を見て、オレは目が点になった。%K%P
+I didn't think Yuka would agree so quickly.%K%P
+0x1300
+優夏「それじゃ、あそこのデッキチェアで待っていて、持っていってあげるから」%K%P
+Yuka「Well then, just wait in that deck chair, and I'll get one for%Nyou.」%K%P
+0x130C
+誠「ＯＫ〜♪」%K%P
+Makoto「Okay♪」%K%P
+0x1354
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P

@@ -1,0 +1,882 @@
+text area offset and size:
+0x1918
+0x350B
+0x154
+ふと……目が覚めた。%K%P
+Suddenly... I wake up.%K%P
+0x160
+別に悪夢にうなされたわけでもなければ、何か物音を聞いたわけでもない。%K%P
+It's not that I had a nightmare, or heard a loud sound.%K%P
+0x16C
+それは実に自然な、ゆっくりといざなわれるような目覚めだった。%K%P
+I just somehow woke up for no reason...%K%P
+0x178
+枕元に置いた腕時計を見る。%K%P
+I take a look at my watch, which I'd placed on my bedside.%K%P
+0x184
+『１時１０分』……眠りについてから、３時間ぐらい経っただろうか。%K%P
+"1:10 A.M."... It's probably only been about three hours%Nsince I went to bed.%K%P
+0x190
+頭は驚くほど醒め切っていて、今なら２桁の掛け算でも１０秒以内に解けそうだ。%K%P
+My mind is surprisingly wide awake, so I try to do%Nmultiplication tables in my mind to help me go back to%Nsleep.%K%P
+0x19C
+何度か……寝返りをうってみる……。%K%P
+I try this countless times...%K%P
+0x1A8
+けれど、覚醒したオレの脳には、まどろみのきざしさえも現われなかった。%K%P
+It's no use- I'm too alert.%K%P
+0x1B4
+あきらめて、ベッドをするりと脱け出しリビングに出た……。%K%P
+Resigning myself, I slip out of bed and head out to the%Nliving room...%K%P
+0x214
+リビングには、もちろん誰もいなかった。%K%P
+Of course, there's no one in the living room.%K%P
+0x220
+静まり返った室内は、ため息が出てしまいそうな程の寂しさに満ちている。%K%P
+I let out a sigh in the quiet, empty room.%K%P
+0x22C
+ロフトの上から、スースーと億彦の寝息が聞こえていた。%K%P
+I can hear Okuhiko snoring from up in the loft.%K%P
+0x238
+と、その時……%K%P
+Then, all of the sudden...%K%P
+0x244
+億彦「おいっ！　待て！」%K%P
+Okuhiko「Hey! Wait!」%K%P
+0x250
+……急にとどろいた億彦の声。%K%N
+... Okuhiko suddenly shouts in a roaring voice.%K%N
+0x25C
+ビクッとして上を見上げると……%K%P
+When I look up in surprise...%K%P
+0x2D8
+億彦「まずい……%W%Wエネルギーが……%W%Wエネルギーが……%W%W足り……%W%W%Wない……%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
+0x2EC
+億彦「ニュートリノエナジーパワーオンッ！……%W%Wへ〜%W%Wんしん！……%W%Wとぉ！%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「Neutrino Energy, Power On! ... Trans〜form! ... There! ...%NZzz...」%K%P
+0x300
+億彦「出たなハイテク怪人掃除機男……%W%Wううっ……%W%W吸われる……%W%W吸わ……%W%Wれる……%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
+0x314
+億彦「お疲れ様でしたぁ……%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「Good work... Zzz...」%K%P
+0x328
+億彦「コラッ！…ボウズ！%W%W…舞台に上がるな舞台に！%N%W%W…おいっやめろ！%W%W…チャックを…%W%Wチャックを…%W%Wおろすな！%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't...%Nlower... that zipper! ... Zzz...」%K%P
+0x33C
+……どうやら寝言のようだった。%K%P
+... It seems he's just sleeptalking.%K%P
+0x348
+（ふーっ……ったく、いったいどんな夢見てんだよ、億彦の奴……）%K%P
+(Whew... man, what kind of dream is he having anyway...?)%K%P
+0x354
+そんな億彦のことは無視し、オレは何気なくロッジの外へと出てみることにした……。%K%P
+I ignore Okuhiko, and casually decide to try going%Noutside the lodge...%K%P
+0x3A4
+森の隙間から、沙紀の別荘の明かりがぼんやりと見えた。%K%P
+From an opening in the forest, I can vaguely see that the%Nlights in Saki's summer house are on.%K%P
+0x3B0
+（そうだ……沙紀に聞かなきゃいけないことがあったんだ！）%K%P
+(That's right... there's something I've got to ask Saki!)%K%P
+0x3BC
+思い立ったオレは、沙紀の別荘へと向かった。%K%P
+I determinedly head towards the summer house.%K%P
+0x414
+とにかく沙紀には、気になることが多すぎる。%K%P
+In any case, there's just too many things about Saki%Nthat are bothering me.%K%P
+0x420
+鈴のこと……。遙とのこと……。%K%P
+The bell... Haruka...%K%P
+0x42C
+この際ハッキリさせてやる。%K%P
+I'll make sure I get the full story this time.%K%P
+0x438
+いつになくオレは強気になっていた。%K%P
+I'm unusually confident right now.%K%P
+0x444
+別荘に着くと、オレは呼び鈴に手をかけた。%K%P
+When I arrive at the summer house, I start to reach for%Nthe buzzer.%K%P
+0x450
+その時だ……。%K%P
+At that time...%K%P
+0x478
+（ん……？）%K%P
+(Hmm...?)%K%P
+0x484
+沙紀の声が聞こえたような気がした。%K%P
+I feel like I can hear Saki's voice.%K%P
+0x490
+耳を澄ませてみる。%K%P
+I try to strain my ears.%K%P
+0x4B8
+沙紀「待って。待ってって言ってるでしょう？」%K%P
+Saki「Wait. Didn't I tell you to wait?」%K%P
+0x508
+やっぱりそうだ。%K%P
+I was right.%K%P
+0x514
+オレは声のする方へと歩いて行った。%K%P
+I walk towards the direction of the voice.%K%P
+0x520
+広い敷地をぐるりと半周すると、裏庭に出た。%K%P
+I circle halfway around the wide grounds, and arrive at%Nthe backyard.%K%P
+0x52C
+勝手口らしき辺りから、光が洩れている。%K%P
+There's light coming from the area around the back door.%K%P
+0x538
+沙紀の小さいながらも弾んだ声が近づいてきた。%K%P
+Saki's lively voice grows louder as I get closer.%K%P
+0x544
+それに交じって何やら甘えるような鳴き声も……。%K%P
+I can also hear some kind of high-pitched bark...%K%P
+0x56C
+オレは立ち止まって、目をこらした。%K%P
+I stop and stare.%K%P
+0x580
+沙紀がいた。%K%P
+Saki's there.%K%P
+0x58C
+メガネをかけた沙紀が、足元にじゃれつく子犬を抱き上げたところだった。%K%P
+She's wearing a pair of glasses, and is holding, in her%Narms, a playful puppy by her feet.%K%P
+0x598
+どうやらそれは、子供の野良犬のようだ。%K%P
+It seems to be a stray puppy.%K%P
+0x5A4
+さっきの鳴き声の正体はこいつだったのか……。%K%P
+It's the source of that bark I heard just now...%K%P
+0x5B0
+沙紀「心配してたのよ？　どこ行ってたの？」%K%P
+Saki「You worried me! Where did you go?」%K%P
+0x5D8
+抱き寄せられた子犬が、沙紀の頬を嬉しそうになめていた。%K%P
+The puppy she's holding happily licks her cheek.%K%P
+0x5E4
+沙紀もくすぐったそうに声をあげている。%K%P
+She lets out a ticklish laugh.%K%P
+0x5F0
+オレは、いつもとはずいぶん違って見える沙紀に驚いていた。%K%P
+I'm surprised to see Saki so different from her usual self.%K%P
+0x5FC
+もちろん、それはメガネのことなんかじゃない。%K%P
+Of course, I'm not talking about her glasses.%K%P
+0x608
+満たされたような、やさしく穏やかなその表情に、だ。%K%P
+I'm talking about how gentle, peaceful, and content she%Nlooks.%K%P
+0x614
+沙紀「さ、ちょっとここで待ってるのよ」%K%P
+Saki「Okay, wait there for a little bit.」%K%P
+0x63C
+子犬を降ろした沙紀が、家の中に消えた。%K%P
+Saki puts the puppy down, and disappears into the%Nhouse.%K%P
+0x648
+子犬は、ぱたぱたとシッポを振り『ワン！』と幼い声を発した。%K%P
+The dog wags its tail back and forth and starts barking%Nin its high-pitched voice.%K%P
+0x654
+オレは勝手口に近づいた。%K%P
+I approach the back door.%K%P
+0x660
+子犬が気づきそうになったところで、物陰に身を寄せる。%K%P
+The puppy almost notices me, so I head for cover.%K%P
+0x66C
+沙紀が出てきた。%K%P
+Saki comes out.%K%P
+0x678
+何かが入ったプラスチック容器を持っている。%K%P
+She's holding a plastic container with something inside.%K%P
+0x684
+子犬がすごい勢いでシッポを振り、甘えるように声をあげた。%K%P
+The puppy vigorously wags its tail as it barks in%Nanticipation.%K%P
+0x6AC
+沙紀「しーっ。お利口さんにしてない子には御褒美あげない」%K%P
+Saki「Shh. You won't get a treat if you're naughty.」%K%P
+0x6B8
+沙紀はちょっと叱るふりをして、プラスチック容器をあけた。%K%P
+Saki scolds the puppy a bit before opening the plastic%Ncontainer.%K%P
+0x6C4
+残り物にしては立派な肉料理だ。%K%P
+Inside are leftovers of a splendid meat dish.%K%P
+0x6D0
+沙紀はしゃがみこむと、プラスチックの容器を子犬に差し出した。%K%P
+Saki crouches down, and presents the plastic container%Nto the puppy.%K%P
+0x6DC
+子犬が興奮したように肉にむしゃぶりつく。%K%P
+It excitedly chews on the meat.%K%P
+0x6E8
+──そうか！%K%P
+―I see!%K%P
+0x6F4
+オレはバーべキュー大会の時のもめ事を思い出した。%K%P
+I recall the quarrel at the barbecue.%K%P
+0x700
+あのときの牛肉……本当はちょっとだけこいつに分けてやるつもりだったのかぁ……。%K%P
+The beef she took back then... she actually planned to%Nsplit it with this puppy...%K%P
+0x70C
+それをオレ達が盗んだのどうのって大袈裟に騒ぐから、きっと引っ込みがつかなくなって……。%K%P
+It seems that she felt very uneasy about stealing the%Nbeef from us, but at that point, she'd gone too far to%Nretreat...%K%P
+0x718
+沙紀「慌てちゃって……喉に詰まらせないでね」%K%P
+Saki「Don't eat so quickly... or you'll choke.」%K%P
+0x724
+やさしく子犬の背を撫でる沙紀の顔は、慈しみに溢れていた。%K%P
+Saki gently pets the puppy on its back, her face%Nbrimming with affection.%K%P
+0x730
+いつもはオレ達にやたらと攻撃的で、ひねくれたことばかり言ってるくせに……。%K%P
+Even though she's nothing but extremely aggressive%Nand foul-mouthed towards the rest of us...%K%P
+0x73C
+（根はやさしい子なんじゃないか……）%K%P
+(She really is a kind girl deep down, isn't she...?)%K%P
+0x748
+沙紀達に気づかれないように、オレはそっとその場を離れた。%K%P
+I quietly leave so that Saki doesn't notice me.%K%P
+0x754
+沙紀を問いただしてやろうなんて考えは、きれいさっぱりと消え去ってしまっていた。%K%P
+My thoughts of questioning Saki have completely%Ndisappeared.%K%P
+0x760
+何だかいい気分で眠りに就けそうだ……。%K%P
+It seems like I'll be going to sleep in a good mood...%K%P
+0x7B0
+沙紀の別荘から帰ったオレは、心地よい気分のまま、再びまぶたを閉じた……。%K%P
+That feel-good state lingers as I go to bed, and allows%Nme to quickly fall asleep...%K%P
+0x804
+しかし、そのまどろみもつかの間だった。%K%P
+But that slumber is brief.%K%P
+0x858
+（うるせえなあ……。誰だよ？　せっかくいい気分なのに……）%K%P
+(It's so noisy... Who is it? Just when I finally got into a%Ngood mood...)%K%P
+0x864
+深い闇の底へと落ちる前に、その音がオレの眠りを妨げたのだ。%K%P
+Just before I can fall deeply asleep, that sound%Ndisturbs it.%K%P
+0x870
+それは、部屋の窓をたたく音だった。%K%P
+It's the sound of tapping on the window...%K%P
+0x87C
+斜めの天井についた小さな窓……それを誰かが叩いている。%K%P
+The small window on the wide ceiling... someone's tapping%Nit...%K%P
+0x888
+苛立ったオレは、ガバッとベッドの上に立ち上がった。%K%P
+Irritated, I stand on top of my bed.%K%P
+0x894
+背伸びして、天窓を思い切り開け放つ。%K%P
+I stand on my tiptoes and open the ceiling window.%K%P
+0x8A0
+両腕で懸垂し、オレは窓の外に上半身を出した……。%K%P
+Pulling up with both of my arms, I raise the upper half of%Nmy body outside the window...%K%P
+0x8AC
+誠「！？」%K%P
+Makoto「!?」%K%P
+0x8D4
+沙紀だった。%K%P
+It's Saki.%K%P
+0x8E0
+沙紀が長い木の枝で、窓を叩いていたのだ。%K%P
+Saki tapped the window with a long tree branch.%K%P
+0x8EC
+オレに気づいた沙紀は、恥ずかしそうに顔をそむけ、早口でこう言った。%K%P
+When Saki notices me, she averts her face as she%Nbecomes flustered, and talks rapidly.%K%P
+0x8F8
+沙紀「ちょっと、散歩の途中だから」%K%P
+Saki「I'm just in the middle of a walk.」%K%P
+0x904
+誠「は？」%K%P
+Makoto「Come again?」%K%P
+0x910
+沙紀「別に誠くんに会いに来たんじゃないから」%K%P
+Saki「It's not like I came here to see you.」%K%P
+0x91C
+誠「はあ？」%K%P
+Makoto「Uh... what?」%K%P
+0x928
+沙紀「つまり、わざわざ来たんじゃないってこと」%K%P
+Saki「In other words, it's all just a coincidence.」%K%P
+0x934
+誠「はあ……」%K%P
+Makoto「Right...」%K%P
+0x940
+沙紀「だから……今朝、いちおう……ありがとう」%K%P
+Saki「It's just that... while I'm here... thank you for this morning.」%K%P
+0x94C
+誠「へ？」%K%P
+Makoto「Huh?」%K%P
+0x958
+沙紀「バスケット！」%K%P
+Saki「For the basket!」%K%P
+0x964
+誠「いちおうって……」%K%P
+Makoto「'While I'm here'...」%K%P
+0x970
+沙紀「じゃ、お礼言ったから」%K
+Saki「Well then, that means I've thanked you.」%K
+0x18D8
+『待てよ』
+"Wait."
+0x18E4
+『あ、ああ……』
+"Y-Yeah..."
+0x9B8
+誠「待てよ」%K%P
+Makoto「Wait.」%K%P
+0x9C4
+沙紀「お休みなさい」%K%P
+Saki「Good night.」%K%P
+0x9D0
+誠「待てってば、ちょっと！」%K%P
+Makoto「Hey, I said wait!」%K%P
+0x9DC
+誠「今そっち行くから待ってろよ？　いいな？　そこにいろ！？　帰るんじゃないぞ！？」%K%P
+Makoto「Will you wait right there? Okay? Stay right there! Don't run%Noff!」%K%P
+0x9E8
+オレは沙紀の返事も聞かず、窓を閉めてベッドに降り立った。%K%P
+Without waiting for Saki to reply, I shut the window, and%Nget off the bed.%K%P
+0xA20
+急いで着替えたオレは、足を忍ばせて外へ出た。%K%P
+I quickly change my clothes and sneak outside.%K%P
+0xA2C
+誠「沙紀！」%K%P
+Makoto「Saki!」%K%P
+0xA38
+いるかどうか不安だったオレは、つい大きな声をあげてしまった。%K%P
+I abruptly shout in alarm. Where is she?%K%P
+0xA44
+沙紀「いるわよ。ここ！」%K%P
+Saki「I'm right here!」%K%P
+0xA50
+誠「ああ、よかった。びっくりした」%K%P
+Makoto「Oh, good. You surprised me.」%K%P
+0xA64
+沙紀「びっくりしたのはこっち。あんな声出して……。で、何？」%K%P
+Saki「I'm the one who's surprised. Yelling like that... So, what is%Nit?」%K%P
+0xA70
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0xA7C
+沙紀「用事。何の用？」%K%P
+Saki「Your business. What's your business with me?」%K%P
+0xA88
+誠「そんなもの、特にないけど……」%K%P
+Makoto「I don't have any, but...」%K%P
+0xA94
+沙紀「じゃ、帰るね」%K%P
+Saki「Then I'm going home.」%K%P
+0xAA0
+誠「おいおい、用事なんかなくてもいいだろ？　せっかく来てくれたんだし……」%K%P
+Makoto「Hey, hey, I don't have to have business with you, do I?%NYou've come all this way, after all...」%K%P
+0xAAC
+沙紀「だから私はわざわざ来たんじゃなくて、散歩の途中だって言ったでしょう？」%K%P
+Saki「Didn't I just tell you that coming here in the middle of my%Nwalk was a complete coincidence?」%K%P
+0xAB8
+誠「何で……こんな真夜中に？」%K%P
+Makoto「Why... in the middle of the night?」%K%P
+0xAC4
+沙紀「何でもいいじゃない？」%K%P
+Saki「It doesn't matter, does it?」%K%P
+0xAD0
+誠「何でもいいならここにいろよ」%K%P
+Makoto「If it's doesn't matter, then come here.」%K%P
+0xADC
+沙紀「ダメ。星は動いているから」%K%P
+Saki「No way. The stars will move.」%K%P
+0xAF0
+誠「あ、ああ……」%K%P
+Makoto「Y-Yeah...」%K%P
+0xAFC
+沙紀「それじゃ、お休みなさい」%K%P
+Saki「Well then, good night.」%K%P
+0xB08
+誠「……お休み」%K%P
+Makoto「... Good night.」%K%P
+0xB14
+沙紀はロッジの階段を駆け下り、去っていった。%K%P
+Saki quickly goes down the lodge's staircase and%Nleaves.%K%P
+0xB20
+オレは窓を閉めて、再びベッドに潜りこむ。%K%P
+I shut the window, and crawl into my bed again.%K%P
+0xB2C
+わずかな時間とはいえ、窓を開けっぱなしにしていたので部屋の空気はだいぶ冷たい。%K%P
+Even though it was only for a short time, having the%Nwindow open has caused the room to get freezing cold.%K%P
+0xB38
+オレは布団を頭まで被るようにして、逃げていく体温を保とうとした。%K%P
+I pull the covers over my head to try to preserve my%Nescaping body temperature.%K%P
+0xB44
+そして、沙紀の事を考える……。%K%P
+And then, I think of Saki...%K%P
+0xB50
+人に対して素直になれない沙紀。%K%P
+The Saki who isn't honest towards other people.%K%P
+0xB5C
+人に弱さを見せたがらない沙紀。%K%P
+The Saki who doesn't show any weakness to other%Npeople.%K%P
+0xB68
+人一倍プライドの高い沙紀。%K%P
+The Saki who is prouder than others.%K%P
+0xB74
+でも、オレだけは知っている。%K%P
+But I'm the only one who knows.%K%P
+0xB80
+誰よりも沙紀が優しい子だという事を……。%K%P
+I know the fact that Saki is a nice girl better than anyone%Nelse...%K%P
+0xB8C
+……ただ、ちょっとだけ気持ちを表現するのが下手なだけなんだ。%K%P
+... She's simply a little bad at expressing her feelings.%K%P
+0xB98
+さっきのあれも、彼女なりの精一杯の感謝の表現なのだ。%K%P
+What she did just now was the best she could do to%Nexpress her thanks.%K%P
+0xBA4
+そんな事を考えているうちに、沙紀を帰してしまった事が、何だかとても寂しく思えてきた。%K%P
+While thinking about that, I feel that it's kinda lonely for%NSaki just to go home like that.%K%P
+0xBB0
+（沙紀……）%K%P
+(Saki...)%K%P
+0xBBC
+気持ちを抑えることができずに、布団を跳ね除ける。%K%P
+Unable to keep my emotions in check, I push aside the%Ncovers.%K%P
+0xBC8
+（まだ、間に合うかもしれない……）%K%P
+(I might have enough time to make it...)%K%P
+0xC00
+急いで着替えたオレは外へと出た。%K%P
+I quickly change my clothes and sneak outside.%K%P
+0xC0C
+誠「沙紀！」%K%P
+Makoto「Saki!」%K%P
+0xC18
+いる筈がない……。しかしオレは声を出さずにはいられなかった。%K%P
+There's no way she's here... Even so, I can't help but yell.%K%P
+0xC24
+沙紀「いるわよ。ここ！」%K%P
+Saki「I'm right here!」%K%P
+0xC30
+誠「え……！？」%K%P
+Makoto「Huh...!?」%K%P
+0xC44
+誠「なんだ、いたのかよ。……びっくりした」%K%P
+Makoto「What's this, you're still here... You surprised me.」%K%P
+0xC50
+沙紀「びっくりしたのはこっち。あんな声出して……。で、何？」%K%P
+Saki「I'm the one who's surprised. Yelling like that... So, what is%Nit?」%K%P
+0xC5C
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0xC68
+沙紀「用事。何の用？」%K%P
+Saki「Your business. What's your business with me?」%K%P
+0xC74
+誠「そんなもの、特にないけど……」%K%P
+Makoto「I don't have any, but...」%K%P
+0xC80
+沙紀「じゃ、そろそろ帰るね」%K%P
+Saki「Then I'm going back.」%K%P
+0xC8C
+誠「おいおい、ちょっと待てよ！」%K%P
+Makoto「Hey, hold on!」%K%P
+0xC98
+沙紀「用事、ないんでしょ？」%K%P
+Saki「You don't have any business with me, right?」%K%P
+0xCA4
+誠「ないよ」%K%P
+Makoto「Nope.」%K%P
+0xCB0
+沙紀「じゃあ、別にいいじゃない」%K%P
+Saki「Then it's fine, isn't it?」%K%P
+0xCBC
+誠「……沙紀こそ、これから何か用事あるのか？」%K%P
+Makoto「... Well, do YOU have any business after this, Saki?」%K%P
+0xCC8
+沙紀「ないわよ」%K%P
+Saki「Nope.」%K%P
+0xCD4
+誠「だったら……。せっかく来てくれたんだし、少しくらいゆっくりしていけよ」%K%P
+Makoto「If that's the case... since you've come all this way, you%Nought to rest for a while.」%K%P
+0xCE0
+沙紀「だから私はわざわざ来たんじゃなくて、散歩の途中だって言ったでしょう？」%K%P
+Saki「Didn't I just tell you that coming here in the middle of my%Nwalk was a complete coincidence?」%K%P
+0xCEC
+誠「何で……こんな真夜中に？」%K%P
+Makoto「Why... in the middle of the night?」%K%P
+0xCF8
+沙紀「何でもいいじゃない？」%K%P
+Saki「It doesn't matter, does it?」%K%P
+0xD04
+誠「何でもいいならここにいろよ」%K%P
+Makoto「If it's doesn't matter, then come here.」%K%P
+0xD10
+沙紀「ダメ。星は動いているから」%K%P
+Saki「No way. The stars will move.」%K%P
+0xD40
+誠「星？」%K%P
+Makoto「Stars?」%K%P
+0xD54
+ふと、オレは空を見上げた。%K%P
+I suddenly look up.%K%P
+0xD60
+はっと胸を突かれた想いだった。%K%P
+I'm taken aback as my heart is awestruck.%K%P
+0xD6C
+雲ひとつない夜空に、星がいっぱい瞬いている。%K%P
+The cloudless night sky is adorned with bright stars.%K%P
+0xD78
+全然気づかなかった……。%K%P
+I didn't notice them at all...%K%P
+0xDA0
+沙紀「この季節、このあたりは一番星空がきれいなの」%K%P
+Saki「The stars around here are at the height of their beauty%Naround this season.」%K%P
+0xDAC
+誠「沙紀は星が好きなのか？」%K%P
+Makoto「So you like stars, Saki?」%K%P
+0xDB8
+沙紀「特にってわけじゃないけど」%K%P
+Saki「Not particularly.」%K%P
+0xDC4
+誠「わかるよ。沙紀ならきっと、好きだろな」%K%P
+Makoto「I get it... You definitely like them, right?」%K%P
+0xDD0
+沙紀「……」%K%P
+Saki「...」%K%P
+0xDE4
+オレは、さっき別荘へ行ったときのことを思い出していた。%K%P
+I remember what happened when I went to the summer%Nhouse earlier.%K%P
+0xDF0
+子犬を慈しむ沙紀には、星空を見つめる姿も、またよく似合う。……オレにはそう思えた。%K%P
+I feel that the sight of Saki looking at the stars really%Nsuits her, just as the sight of her being affectionate to%Nthat puppy was...%K%P
+0xDFC
+沙紀は顔をうつむかせると、足早に歩き出した。%K%P
+Saki hangs her head down, and walks quickly.%K%P
+0xE08
+誠「どこ行くの？」%K%P
+Makoto「Where are you going?」%K%P
+0xE14
+沙紀「あっち」%K%P
+Saki「Over there.」%K%P
+0xE20
+林道の方へと歩いて行く。%K%P
+She starts walking towards the forest path.%K%P
+0xE2C
+誠「じゃオレも」%K%P
+Makoto「Then I'll go too.」%K%P
+0xE38
+沙紀「近寄らないで」%K%P
+Saki「Don't get close to me.」%K%P
+0xE44
+誠「へえへえ……」%K%P
+Makoto「Understood, mistress...」%K%P
+0xE50
+何故だか腹が立たなかった。%K%P
+For some reason, I'm not angry.%K%P
+0xE5C
+オレは不思議な気持ちで沙紀の後をついて行った。%K%P
+A strange emotion stirs inside of me as I follow her.%K%P
+0xEAC
+どこまで行くつもりなのか、沙紀は林道の坂道をどんどんと下って行く。%K%P
+I don't know how far she plans on going, but Saki steadily%Ndescends the forest path's hill road.%K%P
+0xEB8
+オレは、のんびり星空を見上げながら、そのすぐ後ろを歩いていた。%K%P
+I follow her as I leisurely look up at the stars.%K%P
+0xEC4
+星座の名前などはさっぱりだが、こうして見ていると妙にロマンを感じてくる。%K%P
+I don't know the names of the constellations, but looking%Nat them like this feels strangely romantic.%K%P
+0xED0
+（子供の頃、無心に星を見つめていたときが確かにあったな……）%K%P
+(I remember that there were times where I would%Ninnocently look at the stars when I was a kid...)%K%P
+0xEDC
+あの頃は『女の子がどうの』『好きだの嫌いだの』なんて世界があるとは思いもしなかった。%K%P
+At that time, I didn't think that there was a world where%Nyou thought about girls in terms of "like or dislike".%K%P
+0xEE8
+懐かしいと言えば懐かしいが……%K%P
+It's a very nostalgic time, but...%K%P
+0xEF4
+……今のオレは……。%K%P
+... The current me...%K%P
+0xF08
+沙紀「誠くん。何そんなところでモタモタしてるの？」%K%P
+Saki「Makoto-kun, why are you walking so slowly?」%K%P
+0xF14
+誠「おい、沙紀？　ちょっとこっち来てみろよ？」%K%P
+Makoto「Hey, Saki? Could you come here for a second?」%K%P
+0xF20
+沙紀「どうして？」%K%P
+Saki「Why?」%K%P
+0xF2C
+誠「いいから、いいから」%K%P
+Makoto「You'll see.」%K%P
+0xF38
+……今のオレは、そんな世界があることを既に知ってしまった。%K%P
+... The current me already knows that world exists.%K%P
+0xF44
+もう元には戻れない。良くも悪くも、オレは多くのことを知り過ぎていた。%K%P
+I can't return to who I was. I've already learned too many%Nthings, both good and bad.%K%P
+0xF58
+沙紀「なに？」%K%P
+Saki「What?」%K%P
+0xF64
+小首を傾げながら、沙紀が尋ねてくる。%K%P
+Saki asks this as she tilts her head.%K%P
+0xF70
+オレは……。%K
+I...%K
+0x18F0
+仰向けになって体を伸ばした
+Lie down and stretch
+0x18FC
+足をかけて沙紀を突き倒した
+Push Saki down as she walks.
+0xFDC
+オレは仰向けになって体を伸ばした。%K%P
+I lie down face-up and stretch.%K%P
+0xFE8
+沙紀「何……やってんの？」%K%P
+Saki「What... are you doing?」%K%P
+0xFF4
+沙紀が訝しげな表情でオレを見ている。%K%P
+Saki looks at me with a suspicious expression.%K%P
+0x1000
+誠「きれいだな？」%K%P
+Makoto「I've never seen anything so beautiful before.」%K%P
+0x100C
+沙紀「……なっ！　なによ……いきなり……」%K%P
+Saki「... Wha-!? What's this... all of the sudden...」%K%P
+0x1018
+誠「星」%K%P
+Makoto「These stars.」%K%P
+0x1024
+沙紀「えっ……？」%K%P
+Saki「Huh...?」%K%P
+0x1030
+オレの視線を追いかけるようにして夜空を見上げる沙紀。%K%P
+Saki follows my gaze until she sees that I'm looking at the%Nstars.%K%P
+0x103C
+沙紀「あ……ああ、そうよね……」%K%P
+Saki「Y... Yeah, you're right...」%K%P
+0x1048
+誠「なに慌ててんだ？」%K%P
+Makoto「Why are you flustered?」%K%P
+0x1054
+沙紀「あ、あわててなんかいないわよっ！」%K%P
+Saki「I-I'm not flustered, dammit!」%K%P
+0x1060
+動揺する沙紀の様子に笑みをもらしつつ、オレは再び星空を見やった。%K%P
+I grin at Saki's agitation and look up at the stars again.%K%P
+0x106C
+誠「沙紀もやってみろよ」%K%P
+Makoto「Come on, you should try it.」%K%P
+0x1078
+沙紀「は……？」%K%P
+Saki「Huh...?」%K%P
+0x1084
+誠「こうやって、寝転んで星を眺めるんだ。気持ちいいぞ〜」%K%P
+Makoto「Lie down like this and gaze at the stars. It feels great.」%K%P
+0x1090
+オレは『う〜ん』と大きく伸びをする。満天の星空の下。本当に気持ちいい。%K%P
+I stretch my body out under this starry sky. It really%Ndoes feel great.%K%P
+0x109C
+誠「な？　やってみろよ？」%K%P
+Makoto「Well? Why don't you give it a try?」%K%P
+0x10A8
+オレの顔を、じっと見つめている沙紀。%K%P
+Saki firmly stares at me.%K%P
+0x10B4
+沙紀「……庶民レベルがやりそうなこと」%K%P
+Saki「... Only a commoner would find this entertaining.」%K%P
+0x10C0
+誠「そう。だからオレがやりそうなことだろ？」%K%P
+Makoto「That's right. That's why I'm doing it, right?」%K%P
+0x10CC
+沙紀「おまけに、子供っぽいわ」%K%P
+Saki「And you're childish, too.」%K%P
+0x10D8
+誠「そういや、子供の頃、よくこうしてたよ」%K%P
+Makoto「That's because I did this a lot when I was a kid.」%K%P
+0x10E4
+すると、沙紀はふっと表情を和らげた。%K%P
+Just then, Saki's face suddenly softens.%K%P
+0x10F0
+沙紀「そんなに、私に横にいて欲しいなら、いてあげるけど……」%K%P
+Saki「If you wanted me to lay by your side so badly, you only%Nhad to ask...」%K%P
+0x10FC
+言いながら、地べたにゆっくりと腰を下ろした。%K%P
+As she says this, she slowly sits on the ground.%K%P
+0x1108
+そして、遠慮がちに体を伸ばし、仰向けに寝そべる。%K%P
+She shyly lays back, her body sprawled on the grass.%K%P
+0x1368
+近寄って来たところを、オレはいきなり足をかけて沙紀を突き倒した。%K%P
+When I get close enough to Saki, I suddenly push her%Ndown as she walks.%K%P
+0x1374
+沙紀「！！！」%K%P
+Saki「!!!」%K%P
+0x1380
+オレも沙紀と一緒に林道に倒れ込む。驚いた沙紀が起き上がろうとするのを、オレは横から押さえつけた。%K%P
+I collapse onto the forest path along with with Saki. When%Nshe tries to get back up, I push her down from the side.%K%P
+0x138C
+沙紀「な、なにするの！　イヤッ！」%K%P
+Saki「Wh-What the hell are you doing!? No!」%K%P
+0x1398
+誠「騒ぐなって。そのまま、そのまま」%K%P
+Makoto「Don't make a fuss. Just stay like this.」%K%P
+0x13A4
+暴れようとする沙紀の体をグイッと押さえながら、オレは空をアゴで示した。%K%P
+As I hold down the struggling Saki with my arm, I point to%Nthe sky.%K%P
+0x13E0
+沙紀「……？」%K%P
+Saki「...?」%K%P
+0x13EC
+沙紀が、ふっと星空に目を向ける。%K%P
+Saki suddenly looks up at the starry sky.%K%P
+0x13F8
+誠「オレ、子供の頃、よくこうしてたんだ」%K%P
+Makoto「When I was a kid, I did this a lot.」%K%P
+0x1404
+誠「星がきれいな時は、こうして見るんだ」%K%P
+Makoto「When the stars were beautiful, I would watch them like this.」%K%P
+0x1410
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x141C
+オレは沙紀の体から手を離し、仰向けになって体を伸ばした。%K%P
+I take my hand off of Saki.%K%P
+0x1428
+沙紀はオレの横で、まだ体を固くしたまま縮こまっている。%K%P
+She's still stiffly curled up near me.%K%P
+0x1434
+誠「やってみろよ？　沙紀も……」%K%P
+Makoto「Why don't you give it a try...?」%K%P
+0x1440
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x144C
+沙紀「……そんなに、私に横にいて欲しいならいてあげるけど……」%K%P
+Saki「... If you wanted me to lay by your side so badly, you%Nonly had to ask...」%K%P
+0x1458
+沙紀が遠慮がちに体を伸ばし、仰向けに寝そべった。%K%P
+She shyly lays back, her body sprawled on the grass.%K%P
+0x146C
+沙紀「悪くないわね……天然のプラネタリウムってところ？」%K%P
+Saki「This isn't bad... it's like a natural planetarium.」%K%P
+0x1478
+（やれやれ……）%K%P
+(Oh brother...)%K%P
+0x1484
+（手間のかかるお嬢様だ、全く……）%K%P
+(Such a stubborn rich girl...)%K%P
+0x1490
+苦笑しながら、沙紀の方を見た。%K%P
+I look towards Saki with a bitter smile.%K%P
+0x149C
+沙紀はじっと星を見つめている。何だか楽しげな表情で……。%K%P
+Saki is stargazing with a rather content expression...%K%P
+0x14A8
+オレの方には目もくれず、夢中でそれを眺めていた。%K%P
+She doesn't pay any attention to me, staring dazedly at%Nthe stars.%K%P
+0x14B4
+濃紺の星空が、沙紀の大きな瞳に映えている。%K%P
+The dark blue starry sky shines in Saki's large eyes.%K%P
+0x14C0
+みずみずしく透き通った頬は、夜露をまとって濡れていた。%K%P
+Her pale cheeks get wet with the evening dew.%K%P
+0x14CC
+思わず、指先で触れてしまいたくなるような、つるりとした肌だった。%K%P
+She instinctively touches it with her fingertip, and flicks%Nit off her skin.%K%P
+0x14D8
+細いうなじのくぼみには、やわらかな産毛がほつれている。%K%P
+She sighs, and her soft hair becomes loose.%K%P
+0x14E4
+それは美しく、あでやかな女の乱れ髪だった。%K%P
+Her unraveled hair is beautiful, befitting of a%Nfascinatingly elegant woman.%K%P
+0x14F0
+夜はしんしんと更けていく。%K%P
+The night wears on by.%K%P
+0x14FC
+オレと沙紀は大地に寝転びながら、体いっぱいに星々の輝きを浴び続けた……。%K%P
+Saki and I continue to lie on the ground while being%Nbathed by the stars' radiance...%K%P
+0x1508
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x152C
+──と、いう感じで映画みたいに終わってくれればいいのだが……%K%N
+―If this were a movie, then things would have ended%Nperfectly, but...%K%N
+0x1538
+……そう上手くいかないのが現実ってものだ。%K%P
+... Reality is something that doesn't often go that well.%K%P
+0x1570
+沙紀「どう責任取ってくれるわけ？」%K%P
+Saki「How do you plan on taking responsibility for this?」%K%P
+0x157C
+誠「責任ったって、ちょっとくらいの泥、気にすることじゃないだろ？」%K%P
+Makoto「'Responsibility'? It's just a little mud. It's not something to%Nworry about, is it?」%K%P
+0x1590
+沙紀「誠くんはよくても私はイヤなの。絶・対・イ・ヤ！」%K%P
+Saki「You might be fine with it, but I sure as hell am not.%NAb-so-lute-ly not!」%K%P
+0x159C
+なんとこのお嬢様は、恐るべき潔癖症だったのだ。%K%P
+It seems this rich girl is quite the neat freak.%K%P
+0x15A8
+いざ帰ろうというときになって、泥が服についたのなんのと大騒ぎをし始めたわけで……。%K%P
+When we got up to head back, we found that we had%Ngotten mud on our clothes, causing Saki to start a hissy%Nfit...%K%P
+0x15B4
+誠「へえへえ。落としゃいいんでしょ落としゃ……」%K%P
+Makoto「Understood, mistress. I shall clean it off as you desire...」%K%P
+0x15C0
+ぱさぱさ……。オレは手の甲で泥をはたいた。%K%P
+I begin to write on the mud using the back of my hand.%K%P
+0x15D4
+沙紀「いい加減にやらないでくれる？」%K%P
+Saki「Could you not be so irresponsible?」%K%P
+0x15E0
+誠「はあ？　オレは奴隷かよ……」%K%P
+Makoto「Huh? What am I, your slave...?」%K%P
+0x15EC
+沙紀「絶対私に泥をつけないって誓ってよ」%K%P
+Saki「Swear that you definitely won't get mud on me.」%K%P
+0x15F8
+誠「はい！？」%K%P
+Makoto「What!?」%K%P
+0x1604
+沙紀「誓いなさいよ」%K%P
+Saki「Swear it.」%K%P
+0x1610
+誠「…………」%K%P
+Makoto「...」%K%P
+0x161C
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x1628
+（ったく、なんでオレがそんなこと……）%K%P
+(Damn it, why do I have to do something like this...?)%K%P
+0x1634
+心の中でそうぼやきながらも、オレはしぶしぶ宣誓したのだった。%K%P
+Although I grumble in my mind, I reluctantly make the oath.%K%P
+0x1640
+誠「ゼッタイ、サキニ、ドロハ、ツケマセン」%K%P
+Makoto「I. DEFINITELY. WON'T. GET. MUD. ON. YOU. SAKI.」%K%P
+0x164C
+沙紀「今後一切、私に泥をつける者も許さない。はい、誓って」%K%P
+Saki「Henceforth, you will not forgive any living creature who%Ngets mud on me, with no exceptions. All right now, swear it.」%K%P
+0x1658
+誠「ん？　……じゃあオレは『泥をつけた奴』に報復かなんかをしなくちゃいけないわけだ？」%K%P
+Makoto「Huh? ... So if that means if something gets mud on you, I%Nhave to exact revenge on it no matter what?」%K%P
+0x1664
+沙紀「文句ある？　庶民はすべからくひざまづけ！」%K%P
+Saki「Are you complaining? As a commoner, you should be%Nkneeling before me!」%K%P
+0x1678
+（やれやれ……どういう神経してるんだか……）%K%P
+(Oh brother... she has quite the nerve...)%K%P
+0x1684
+（これだからお嬢様は……）%K%P
+(She really is a rich girl...)%K%P
+0x1690
+それにしても沙紀……無茶苦茶楽しそうだな……。%K%P
+Even so, Saki... seems to be having a lot of fun...%K%P
+0x169C
+その顔を見てるうちに…『まっ、こういうのもアリかな？』…などと、オレは思い始めた。%K%P
+While looking at her face... I'm starting to figure that this%Nisn't so bad.%K%P
+0x16A8
+沙紀も、本当はやさしい奴なんだ。%K%P
+Saki really is a kind person.%K%P
+0x16B4
+ただそれを上手く表現することができないだけなんだ。%K%P
+She's just unable to express that very well.%K%P
+0x16C0
+今、そういった沙紀の本質的な部分をわかっているのはオレだけだ。%K%P
+Right now, I realize I'm the only one to have seen the%Nessence of Saki's true character.%K%P
+0x16CC
+オレくらい、こいつの言うこと聞いてやってもいいじゃないか。──そんな気になっていた。%K%P
+I think at the very least, I can listen to what she has to%Nsay, right?%K%P

@@ -1,0 +1,333 @@
+text area offset and size:
+0x1020
+0x1446
+0x4C
+？？「……起きてる？」%K%P
+??「... Are you awake?」%K%P
+0x68
+ドアをノックする音と誰かの声で、オレは目を覚ました。%K%P
+I am awakened by the sound of the door being knocked%Nand someone's voice.%K%P
+0x74
+（遙、か……？？？）%K%P
+(Is that Haruka...???)%K%P
+0x80
+（やっぱり外に行きたいのかな……？）%K%P
+(So she really does want to go outside...?)%K%P
+0x8C
+誠「あ、開いてるよ……」%K%P
+Makoto「Yeah, it's open...」%K%P
+0xA0
+？？「うん」%K%P
+??「Okay.」%K%P
+0xD0
+誠「あっ……！」%K%P
+Makoto「Ah...!」%K%P
+0xDC
+誠「……く、%W%Wくるみ！？」%K%P
+Makoto「... K-Kurumi!?」%K%P
+0x124
+くるみ「そうでーす！　くるみでーす！！」%K%P
+Kurumi「That's right! It's Kurumi!!」%K%P
+0x130
+誠「ど、どうしたんだよ……？%Nこんな時間に……突然……」%K%P
+Makoto「What is it...? Coming in so suddenly... at this time...」%K%P
+0x154
+くるみ「えっ！　お兄ちゃん忘れちゃったのぉ？　お昼に『遊びに来るよぉ〜』って言ったじゃない」%K%P
+Kurumi「What!? Did you forget, Onii-chan? At noon, Kurumi said%Nshe was coming over to visit, didn't she?」%K%P
+0x160
+くるみ「ほらっ、お兄ちゃん達もうすぐ帰っちゃうでしょ。だから、もっと遊んでおきたいなーと思って」%K%P
+Kurumi「See, you and the others are going back very soon. So%NKurumi thought she wanted have more fun with you all.」%K%P
+0x16C
+確かに言われてみれば、そんなことを言われたような気もするが……。%K%P
+Certainly, now that she mentions it, I feel that she did%Nsay that...%K%P
+0x178
+誠「……そう言えば、そうだったな。それで、何して遊ぶんだ？」%K%P
+Makoto「... Now that I think about it, you're right. So then, do you%Nwant to play something?」%K%P
+0x18C
+くるみ「え〜っ？　何でもいいの？」%K%P
+Kurumi「Huh? Can we play anything?」%K%P
+0x198
+誠「……あんまり、ムチャなのは勘弁だけど」%K%P
+Makoto「... If it's something too extreme, then please cut me a%Nbreak.」%K%P
+0x1AC
+くるみ「くるみ、ほんと言うと、お兄ちゃんとおしゃべりしたかっただけなんだけど……それなら、何か考えちゃおっかな」%K%P
+Kurumi「To be honest, Kurumi just wanted to talk to you,%NOnii-chan... But if you say so, then Kurumi wonders if she%Nshould think up something.」%K%P
+0x1B8
+誠「えっ？」%K%P
+Makoto「Huh?」%K%P
+0x1C4
+思わず目が点になる。%K%N
+I'm stunned.%K%N
+0x1D0
+寝起きで頭がぼうっとしていたオレは、くるみの言葉を上手く理解することができなかった。%K%P
+As my mind is still in a daze from waking up, I'm unable to%Nunderstand Kurumi's words very well.%K%P
+0x1E4
+くるみ「それじゃぁ……えっとねぇ……」%K%P
+Kurumi「Well then... umm...」%K%P
+0x1F0
+何やら考えている素振りを見せつつ、くるみはベッドに腰かけたオレの隣に座ってきた。%K%P
+Kurumi sits down on the bed next to me, acting like she's%Ndeep in thought.%K%P
+0x1FC
+肩が触れ合うほどの距離……くるみは心なしか頬を染めている。%K%P
+She's so close to me that our shoulders are almost%Ntouching each other... Kurumi is blushing a little.%K%P
+0x218
+──と、その時！%K%P
+―And at that time!%K%P
+0x248
+半開きになっていたドアの外で、何かが床にたたきつけられる音がした。%K%P
+From outside the partly open door, I hear the sound of%Nsomething striking the floor.%K%P
+0x254
+くるみ「えっ、えっ、なに？」%K%P
+Kurumi「Huh? Huh? What was that?」%K%P
+0x268
+オレは素早く立ち上がり、ドアを開いた。%K%P
+I quickly stand up, and open the door.%K%P
+0x2BC
+しかしリビングに人影はない。%K%N
+But there's no one in the living room.%K%N
+0x2C8
+部屋の中をぐるりと見回してから、視線を床に向けた。%K%P
+I survey the entire room, then my gaze turns to the floor.%K%P
+0x2D4
+オレの部屋の前……%K%N
+There's something in front of my room...%K%N
+0x2E0
+そのドアの下に落ちていたものは……%K%N
+Lying at the foot of the door is...%K%N
+0x2EC
+──『鎮痛薬』だった。%K%P
+―"Aspirin".%K%P
+0x2F8
+かなり強く投げつけられたようで、箱のかどがつぶれてしまっている。%K%P
+The box of medicine seems to have been thrown%Nconsiderably hard, as it's smashed.%K%P
+0x304
+（……まさか……）%K%P
+(... It couldn't be...)%K%P
+0x338
+キリキリと痛むような胸騒ぎを覚えた。%K%P
+I feel uneasiness strike me like pain.%K%P
+0x360
+すぐに遙の部屋の前に駆け寄り、その扉をたたいた。%K%P
+I immediately rush over to the front of Haruka's room, and%Nknock on her door.%K%P
+0x3B4
+激しくノックを繰り返すが、返事はない。%K%P
+I knock again, harder this time, but there's no response.%K%P
+0x3C0
+誠「遙！　遙！　いないのか！？」%K%P
+Makoto「Haruka! Haruka! Are you there!?」%K%P
+0x3CC
+？？「誠……」%K%P
+??「Makoto...」%K%P
+0x3D8
+ふいに背後から声をかけられ、振り返った。%K%P
+Suddenly, I hear someone calling me from behind, so I%Nturn around.%K%P
+0x3EC
+優夏「あれ〜、何やってんの？%N遙ならさっき『散歩に行く』って外に出てったよ？」%K%P
+Yuka「Huh, what are you doing? If you're looking for Haruka, she%Njust went outside, saying she was going to take a walk.」%K%P
+0x3F8
+誠「！！！！！」%K%P
+Makoto「!!!」%K%P
+0x40C
+優夏「何だか泣いてたみたいだけど……%W%Wあっ……あんたが遙をいじめたんでしょ！？」%K%P
+Yuka「It seemed like she was crying... Ah... you were mean to%NHaruka, weren't you!?」%K%P
+0x418
+優夏「しっかりしなさいよねぇ……もう……遙は純粋なんだから」%K%P
+Yuka「Get a hold of yourself... Geez... Haruka is pure, you know.」%K%P
+0x424
+誠「おい、優夏……遙は……そ、外に……！？」%K%P
+Makoto「Hey, Yuka... Haruka... w-went outside...!?」%K%P
+0x438
+優夏「だ〜か〜ら〜今言ったでしょ？　外に……%W%Wあっ、待ちなさいよ！」%K%P
+Yuka「Didn't. I. Just. Say. That? She went outside... Ah, hold it!」%K%P
+0x44C
+とっさに優夏を押し退けて走り出していた。%K%P
+I immediately brush Yuka aside and start running.%K%P
+0x458
+リビングを駆け抜け、玄関のドアを力任せに開け放つ。%K%P
+I rush through the living room, and fling open the front%Ndoor with all of my strength.%K%P
+0x4AC
+転がるように表に飛び出した。%K%P
+I rush outside faster than a bullet.%K%P
+0x4B8
+そのまま流れるように坂道へと向かう。%K%P
+And like that, I head towards the hill road.%K%P
+0x4C4
+すると……%K%P
+Just then...%K%P
+0x4D0
+くるみ「待って！　待ってよ、お兄ちゃん！　どこ行くの！　くるみをおいてかないで！！」%K%P
+Kurumi「Wait! Wait, Onii-chan! Where are you going!? Don't leave%NKurumi alone!!」%K%P
+0x4DC
+……猛然と駆けていたオレの背中に、くるみの声が聞こえた。%K%P
+... As I run fiercely, I hear Kurumi's voice from behind me.%K%P
+0x4F0
+振り向くと、そこには、心配そうな目でオレを見つめるくるみの姿があった。%K%N
+When I turn around, I see Kurumi standing there, staring%Nat me with concerned eyes.%K%N
+0x4FC
+しかしオレには、そこで立ち止まる余裕などなかった。%K%P
+But there's no time for me to be loafing around.%K%P
+0x508
+誠「遙を探して来る！」%K%P
+Makoto「I'm going to look for Haruka!」%K%P
+0x514
+くるみ「えっ？」%K%P
+Kurumi「Huh?」%K%P
+0x520
+誠「すぐに戻るから、くるみはロッジで待ってろ！」%K%P
+Makoto「I'll be back soon, so wait in the lodge!」%K%P
+0x534
+強く言い残して、オレは闇の世界へと飛び込んで行った……。%K%P
+I plunge into the darkness after leaving her with those%Nwords...%K%P
+0x5B0
+ひょっとして、遙は自分のオリジナルがくるみだということを知っているのだろうか……？%K%P
+Could it be that Haruka knows that Kurumi is her Original...?%K%P
+0x5BC
+もしそうなら……。%K%N
+If that's true...%K%N
+0x5C8
+もしそうなら……%N遙はひどく傷ついたに違いない！%K%P
+If that's true, then... Haruka must have been really hurt!%K%P
+0x5D4
+頭が痛かった筈のオレが、そのくるみと２人っきりで部屋のベッドに座っていたのだから……。%K%P
+She saw me, who was supposed to have a headache, all%Nalone with Kurumi, who was sitting really close to me on%Nthe bed...%K%P
+0x5E0
+不吉な予感が脳裏をよぎる。%K%P
+An ominous presentiment crosses my mind.%K%P
+0x5EC
+時が経つにつれ、胸の中のざわめきはどんどんと果てしなくふくらんでいった。%K%P
+As time passes, the stirring in my heart swells more and%Nmore, to the point where it feels endless.%K%P
+0x5F8
+遙……。%K%N遙は今……どこに……？%K
+Haruka... Where is she... right now...?%K
+0xF50
+姫ヶ浜
+Princess Beach.
+0xF5C
+月浜
+Moon Beach.
+0xF68
+展望公園
+Viewpoint Park.
+0xF74
+神社
+The shrine.
+0x720
+ここには遙の姿は見あたらない……一体、何処に行ってしまったというんだ……！？%K%P
+Haruka's nowhere to be found here... Just where could%Nshe have gone...!?%K%P
+0x72C
+無事で、無事でいてくれさえすれば良いのだが……。%K
+Please, please be safe...%K
+0x748
+誠「遙！　遙！　いるなら返事をしてくれ！！」%K%P
+Makoto「Haruka! Haruka! If you're there, please answer me!!」%K%P
+0x754
+オレは大声で叫びながら、あたりを探し回った。しかし、依然として遙の姿は見えない……。%K
+I scream this out while searching about the vicinity. But I%Nstill don't see Haruka...%K
+0x770
+ダメだ……。やはり遙はいなかった……。%K%P
+It's useless... Haruka isn't here after all...%K%P
+0x77C
+こうなったら島中の全ての場所を、片っ端から探して行くしかないだろう。%K%P
+If it's come to this, then I have no choice but to search%Nevery square meter of the island.%K%P
+0x788
+とにかくオレは、じっとしていることに耐えられなかった……。%K%P
+Anyway, I can't bear standing still like this...%K%P
+0xF80
+月浜
+Moon Beach.
+0xF8C
+展望公園
+Viewpoint Park.
+0xF98
+神社
+The shrine.
+0x8D4
+ここには遙の姿は見あたらない……一体、何処に行ってしまったというんだ……！？%K%P
+Haruka's nowhere to be found here... Just where could%Nshe have gone...!?%K%P
+0x8E0
+無事で、無事でいてくれさえすれば良いのだが……。%K
+Please, please be safe...%K
+0x8FC
+誠「遙！　遙！　いるなら返事をしてくれ！！」%K%P
+Makoto「Haruka! Haruka! If you're there, please answer me!!」%K%P
+0x908
+オレは大声で叫びながら、あたりを探し回った。しかし、依然として遙の姿は見えない……。%K
+I scream this out while searching about the vicinity. But I%Nstill don't see Haruka...%K
+0x924
+ダメだ……。やはり遙はいなかった……。%K%P
+It's useless... Haruka isn't here after all...%K%P
+0x930
+こうなったら島中の全ての場所を、片っ端から探して行くしかないだろう。%K%P
+If it's come to this, then I have no choice but to search%Nevery square inch of the island.%K%P
+0x93C
+とにかくオレは、じっとしていることに耐えられなかった……。%K%P
+Anyway, I can't bear standing still like this...%K%P
+0xFA4
+姫ヶ浜
+Princess Beach.
+0xFB0
+展望公園
+Viewpoint Park.
+0xFBC
+神社
+The shrine.
+0xA88
+ここには遙の姿は見あたらない……一体、何処に行ってしまったというんだ……！？%K%P
+Haruka's nowhere to be found here... Just where could%Nshe have gone...!?%K%P
+0xA94
+無事で、無事でいてくれさえすれば良いのだが……。%K
+Please, please be safe...%K
+0xAB0
+誠「遙！　遙！　いるなら返事をしてくれ！！」%K%P
+Makoto「Haruka! Haruka! If you're there, please answer me!!」%K%P
+0xABC
+オレは大声で叫びながら、あたりを探し回った。しかし、依然として遙の姿は見えない……。%K
+I scream this out while searching about the vicinity. But I%Nstill don't see Haruka...%K
+0xAD8
+ダメだ……。やはり遙はいなかった……。%K%P
+It's useless... Haruka isn't here after all...%K%P
+0xAE4
+こうなったら島中の全ての場所を、片っ端から探して行くしかないだろう。%K%P
+If it's come to this, then I have no choice but to search%Nevery square inch of the island.%K%P
+0xAF0
+とにかくオレは、じっとしていることに耐えられなかった……。%K%P
+Anyway, I can't bear standing still like this...%K%P
+0xFC8
+姫ヶ浜
+Princess Beach.
+0xFD4
+月浜
+Moon Beach.
+0xFE0
+神社
+The shrine.
+0xC3C
+ここには遙の姿は見あたらない……一体、何処に行ってしまったというんだ……！？%K%P
+Haruka's nowhere to be found here... Just where could%Nshe have gone...!?%K%P
+0xC48
+無事で、無事でいてくれさえすれば良いのだが……。%K
+Please, please be safe...%K
+0xC64
+誠「遙！　遙！　いるなら返事をしてくれ！！」%K%P
+Makoto「Haruka! Haruka! If you're there, please answer me!!」%K%P
+0xC70
+オレは大声で叫びながら、あたりを探し回った。しかし、依然として遙の姿は見えない……。%K
+I scream this out while searching about the vicinity. But I%Nstill don't see Haruka...%K
+0xC8C
+ダメだ……。やはり遙はいなかった……。%K%P
+It's useless... Haruka isn't here after all...%K%P
+0xC98
+こうなったら島中の全ての場所を、片っ端から探して行くしかないだろう。%K%P
+If it's come to this, then I have no choice but to search%Nevery square inch of the island.%K%P
+0xCA4
+とにかくオレは、じっとしていることに耐えられなかった……。%K%P
+Anyway, I can't bear standing still like this...%K%P
+0xFEC
+姫ヶ浜
+Princess Beach.
+0xFF8
+月浜
+Moon Beach.
+0x1004
+展望公園
+Viewpoint Park.

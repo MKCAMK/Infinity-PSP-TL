@@ -1,0 +1,576 @@
+text area offset and size:
+0x10E8
+0x274C
+0x70
+声「４月１日月曜日。お昼のニュースです」%K%P
+Announcer「Today is Monday, April 1st. This is the afternoon news.」%K%P
+0x7C
+つけっぱなしにしていたＴＶから、アナウンサーの丁寧な言葉が聞こえた。%K%P
+We hear a polite voice from the announcer on TV, which%Nis still on.%K%P
+0x88
+と同時に、鳩の鳴き声……。%K%P
+At that moment, a bird chirps...%K%P
+0x94
+やけに下手クソな鳩の鳴き声を耳にする。%K%P
+The rather sharp and shrill noise fills my ears.%K%P
+0xA0
+その声の主を求めて、オレは視線をさまよわせた。%K%P
+I try to find out where it is coming from.%K%P
+0xAC
+海を臨む大きなガラス窓の右上に、それはいた。%K%P
+I find it in the upper-right corner of the giant glass%Nwindow overlooking the ocean.%K%P
+0xC4
+誠「いつぶりだろう……鳩時計なんて見たの……」%K%P
+Makoto「A cuckoo clock... This the first time I've seen one...」%K%P
+0xD0
+感嘆交じりの声を洩らす。%K%P
+My voice is full of awe.%K%P
+0xF4
+優夏「あれ？　今気づいたの？」%K%P
+Yuka「Huh? You just noticed it?」%K%P
+0x100
+誠「ああ、今気づいた」%K%P
+Makoto「Yeah, just now.」%K%P
+0x114
+１０時には着替えの為に自室にいて、１１時には、あのおぞましい料理の事に気を取られていたから、それぞれの時報は聞き逃してしまっていたのだろう。%K%P
+At 10, I was changing my clothes in my room, and at 11, I%Nwas caught up with that repulsive meal, so I missed the%Nsound of the clock both times.%K%P
+0x120
+優夏「私も、昨日初めて気づいたときには驚いたけど」%K%P
+Yuka「I was also surprised when I first noticed it yesterday.」%K%P
+0x12C
+そんな優夏の声に振り向いてみると、オレ以外の３人は当たり前のような素の表情だった。%K%P
+I look around to find that nobody else is surprised by%Nthis.%K%P
+0x138
+……そうか。優夏や遙や億彦は、昨日オレが来る前に、既にこの時報を聞いているのだ。%K%P
+... Oh, right. Yuka, Haruka, and Okuhiko arrived before me%Nyesterday, so they've already heard it.%K%P
+0x14C
+優夏「なんか、懐かしいなぁ……」%K%P
+Yuka「It's kind of nostalgic...」%K%P
+0x158
+優夏「今でも覚えてるけど、私が最後に鳩時計を見たのは、中学の頃だった……」%K%P
+Yuka「If my memory serves me right, the last time I saw one of%Nthose things was in middle school...」%K%P
+0x164
+誠「ふーん……」%K%P
+Makoto「Huh...」%K%P
+0x170
+優夏「これよりも、もうちょっと大き目のやつで、窓が２つ付いてるの」%K%P
+Yuka「It was a little bigger than this one, and had two doors on%Nit, not one.」%K%P
+0x17C
+優夏「もちろん鳩も２羽いて……。私、その２羽の鳩は、きっとツガイなんだろうと思ってた……」%K%P
+Yuka「Of course, there were two birds... I'm pretty sure I thought%Nthey were a male and female pair of doves...」%K%P
+0x188
+誠「……」%K%P
+Makoto「...」%K%P
+0x194
+優夏「……」%K%P
+Yuka「...」%K%P
+0x1A0
+誠「……？」%K%P
+Makoto「...?」%K%P
+0x1B4
+優夏「……？」%K%P
+Yuka「...?」%K%P
+0x1C0
+誠「えっ？　続きは？」%K%P
+Makoto「Huh? Aren't you going to continue?」%K%P
+0x1CC
+優夏「いや……ただそれだけなんだけどね？」%K%P
+Yuka「No... that's all there is to it.」%K%P
+0x1D8
+誠「それだけ、って……」%K%P
+Makoto「'That's all there is'...?」%K%P
+0x1E4
+オレにはそうは思えなかった。%K%P
+Something doesn't feel right.%K%P
+0x1F0
+この話の先には、あるいは裏には、もっと壮大な物語が流れているような気がする。%K%P
+I feel that at the tip of that conversation, there's an%Neven greater story behind it that's now been washed%Naway.%K%P
+0x1FC
+それは優夏の瞳を見れば明らかだった。%K%P
+It's obvious just by looking at her.%K%P
+0x208
+彼女の瞳は今、ほのかなきらめきをたたえている。%K%P
+Just now, there was a faint glitter in her eyes.%K%P
+0x224
+億彦「ねえ、そろそろ行かないか？」%K%P
+Okuhiko「Hey, shouldn't we go now?」%K%P
+0x230
+億彦が、長い前髪をかき上げながら立ち上がった。%K%P
+As he rises, Okuhiko flicks his long bangs away from his%Nface.%K%P
+0x23C
+優夏「うん、そうだね。こんなとこ閉じこもってても、時間がもったいないし」%K%P
+Yuka「Yeah, you're right. It'll be a big waste of time if we stayed%Nindoors all day.」%K%P
+0x248
+誠「行く、って……どこに？」%K%P
+Makoto「Where are we going?」%K%P
+0x254
+億彦「そんなの、決まってるだろ？」%K%P
+Okuhiko「Isn't it obvious?」%K%P
+0x260
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x274
+優夏「テ・ニ・ス」%K%P
+Yuka「To play T-E-N-N-I-S.」%K%P
+0x280
+誠「テ、テニス！？」%K%P
+Makoto「Te-Tennis!?」%K%P
+0x28C
+優夏「さ、みなさん支度して下さ〜い！」%K%P
+Yuka「Well then, everyone, please get ready!」%K%P
+0x298
+誠「…………」%K%P
+Makoto「...」%K%P
+0x2A4
+思いがけぬ展開に、何を言っていいのかわからなかった。%K%P
+Well, that was unexpected.%K%P
+0x2B0
+いや、テニス自体がどうこうと言う問題ではない。%K%P
+It's not that tennis itself is a problem.%K%P
+0x2BC
+そういうことじゃなくて、さも当たり前のことのように、優夏や億彦が『テニスに行こう』と言い出したことが、オレにはしっくりこなかったのだ。%K%P
+It's that Yuka and Okuhiko just said "let's play tennis"%Nlike it was nothing, and there seems to be no issue with it.%K%P
+0x2C8
+だって、この合宿は……%K%P
+Just what is...%K%P
+0x348
+誠「この合宿は……ゼミ合宿、なんだろ？」%K%P
+Makoto「Just what is... this 'Seminar Camp' anyway?」%K%P
+0x354
+テニスコートへと向かう道中、オレは班長であるところの優夏に疑問をぶつけてみた。%K%P
+I ask Yuka this on our way to the tennis court, since%Nshe's our leader.%K%P
+0x360
+優夏「だから？」%K%P
+Yuka「What do you mean?」%K%P
+0x36C
+誠「だからぁ……%W『ゼミ』って冠が付いてる以上、%N『サークル』とか『部活』とか、そういうのとは%N異なった主旨で実施されてるわけだろ、これは？」%K%P
+Makoto「I mean... So aside from the traditional meaning of seminar,%Nthere's also other things implemented in it, like 'clubs'%Nand 'social activities'?」%K%P
+0x378
+『いかにも』といった感じに、深々とうなずく%N優夏。%K%P
+Yuka nods in affirmation.%K%P
+0x384
+誠「なのに、いきなりしょっぱなから『テニス』なのか？それで、いいのか？」%K%P
+Makoto「Even so, is it all right for us to suddenly start playing%Ntennis from the get go?」%K%P
+0x398
+優夏「いいのいいの。ぜ〜んぜん、問題無し」%K%P
+Yuka「It's all right. There's absolutely no problems with it.」%K%P
+0x3A4
+誠「……なあ優夏。根本的なこと、%N聞いてもいいかな？」%K%P
+Makoto「... Hey, Yuka. May I ask you what's really been bugging%Nme?」%K%P
+0x3B0
+優夏「どうぞ？」%K%P
+Yuka「Go ahead.」%K%P
+0x3BC
+誠「そもそもこの『ゼミ合宿』とかいうやつって、一体何なんだよ？」%K%P
+Makoto「In the first place, just what is a 'Seminar Camp'?」%K%P
+0x3D0
+優夏「何なんだ、って言われても……。だから『ゼミ』の『合宿』だよ」%K
+Yuka「'Just what is it', you say... Obviously, it's 'camping' in a%N'seminar'.」%K
+0x10A8
+『答になってない』と言う
+Don't ask any more.
+0x10B4
+『ゼミ』って何？
+"What do you mean, 'seminar'?"
+0x410
+誠「答になってないよ」%K%P
+Makoto「That's enough for me.」%K%P
+0x41C
+優夏「そうかなぁ？」%K%P
+Yuka「Really?」%K%P
+0x428
+明らかにしらばっくれている様子の優夏。%K%P
+I can tell Yuka's a bit dubious.%K%P
+0x43C
+誠「『ゼミ』の『合宿』ねぇ……。うん、なるほど」%K%P
+Makoto「'Camping' in a 'seminar'... Yeah, it makes sense.」%K%P
+0x448
+誠「じゃあ、『ゼミ』っていうのは何なんだ？」%K%P
+Makoto「But what does it mean by 'seminar', exactly?」%K%P
+0x45C
+優夏「えっ！？　冗談でしょ、誠？」%K%P
+Yuka「What!? Are you kidding, Makoto?」%K%P
+0x468
+誠「いや、本気で聞いてるんだって。オレ、滅多に学校行かないから、そういうのって全然わかんないんだよな」%K%P
+Makoto「No, I'm being totally serious. I rarely went to my classes,%Nso I'm completely clueless about things like this.」%K%P
+0x47C
+優夏「へぇー……。まさか、この期に及んで『ゼミ』の意味を知らない学生が、うちの大学にいたなんて驚きだけど……」%K%P
+Yuka「Hmm... I'm surprised, I didn't think that there were students%Nin our college by this time who didn't know about the%Nmeaning of the 'Seminar', but...」%K%P
+0x490
+優夏「じゃあ、しょうがない。教えてあげよう」%K%P
+Yuka「Well, it can't be helped. I'll tell you about it.」%K%P
+0x49C
+誠「ああ、頼む」%K%P
+Makoto「I'd appreciate it.」%K%P
+0x4B0
+優夏「あのね？　本来、ごく一般的な大学では、４年生になると同時に、各学生が任意の『ゼミ』を選んでそこに所属し、何らかの学問的対象を研究するのね？」%K%P
+Yuka「Okay. So you know how that originally, very liberal%Ncolleges offered a 'Seminar' program in which senior%Nyear students could join and research a topic of their%Nchoice, right?」%K%P
+0x4BC
+誠「うん」%K%P
+Makoto「Yeah.」%K%P
+0x4C8
+優夏「だから『ゼミ』って言うのは、要するに『研究室』のことだと思ってくれて構わないと思う」%K%P
+Yuka「So basically, if you think of the 'Seminar' as a 'lab', I don't%Nthink they'd mind.」%K%P
+0x4D4
+誠「ほうほう」%K%P
+Makoto「Interesting.」%K%P
+0x4E0
+優夏「でね？　『ゼミ』に於いて研究した成果は、いわゆる『卒論』っていう形をとって、年末に発表しなくちゃいけないわけ」%K%P
+Yuka「Right? And at the end of the year, they had to publish%Nthe research results of the 'Seminar', in a so-called%N'bachelor's thesis'.」%K%P
+0x4EC
+優夏「その『卒論』が、大学のいろんな偉い先生達に認められることによって、私達は晴れて卒業することができるの」%K%P
+Yuka「If that 'bachelor's thesis' was approved by various%Ndistinguished teachers, that student would be all clear%Nto graduate...」%K%P
+0x4F8
+優夏「最近では、大学や学部によって『ゼミ』とか%N『卒論』とかが全く無い所もあるみたいだけど、ま、とにかく、うちの大学ではいまだにそのシステムが生き続けてて……」%K%P
+Yuka「However, it doesn't seem like many colleges or%Nundergraduate programs have a place for such things%Nanymore, but our college is still keeping that system%Nalive...」%K%P
+0x504
+誠「ちょっと待った。だけどオレ達、まだ３年になったばっかりじゃないかぁ？」%K%P
+Makoto「Wait a minute. But we're only just about to become%Njuniors, right?」%K%P
+0x510
+優夏「そう。だから正確に言うと、私達が所属しているのは、実は『プレゼミ』っていうやつなの」%K%P
+Yuka「Right. Technically, we're actually members of a%N'Pre-Seminar'.」%K%P
+0x51C
+誠「プレ%W%Wゼミィ？」%K%P
+Makoto「Pre-Seminar?」%K%P
+0x528
+優夏「つまり、来年から始まる本格的な『ゼミ』の、言わば準備段階みたいなものね？」%K%P
+Yuka「Think of it as a sort of prep course for the real seminar%Nthat starts next year. A sort of prerequisite, if you will.」%K%P
+0x534
+誠「ふーん……」%K%P
+Makoto「Hmm...」%K%P
+0x540
+優夏「わかった？」%K%P
+Yuka「Get it now?」%K%P
+0x54C
+誠「なんとなくね」%K%P
+Makoto「More or less.」%K%P
+0x558
+優夏「うん。いいんじゃないかな、なんとなくで。私だって、まだよく把握できてないし」%K%P
+Yuka「Good. You'll be fine, then. Honestly, I don't fully%Nunderstand it either.」%K%P
+0x564
+誠「……あ、でも……だったらなおさら%N理解できないよ」%K%P
+Makoto「... Ah, but... There's one thing I still don't get.」%K%P
+0x570
+優夏「何が？」%K%P
+Yuka「What's that?」%K%P
+0x57C
+誠「この合宿の目的……」%K%P
+Makoto「The goal of this Camp...」%K%P
+0x588
+オレはチラッと後ろを窺った。億彦は、オレと優夏の後方を、遙と並んでついて来ている。%K%P
+I take a look over my shoulder. Okuhiko is behind me and%NYuka, walking right next to Haruka.%K%P
+0x594
+億彦はしきりに遙に話しかけていたが、あまり会話が弾んでいるようには見えなかった。%K%P
+Okuhiko is trying to start a conversation with Haruka,%Nwhich doesn't seem to be working.%K%P
+0x5A0
+視線を前に戻すと、まるで億彦がブツブツと独り言をつぶやいているように聞こえる。%K%P
+When I quickly turn my head back, it's as if I can hear him%Nquietly grumble to himself.%K%P
+0x5AC
+誠「億彦は『最初っから目的なんか無い。%N有るとすれば、班員の親睦を深めることが%N唯一の目的だ』みたいなことを言ってたけど？」%K%P
+Makoto「Okuhiko thinks 'From the start, there was no goal. If there%Ntruly is one, then it's only to deepen the bonds of%Nfriendship between the group members.' Is he right?」%K%P
+0x5B8
+優夏「おしいっ！　おしいけど、ちょっと違うかな？」%K%P
+Yuka「Close! That's close, but it's a little different from that.」%K%P
+0x5C4
+誠「どう違うんだよ？」%K%P
+Makoto「How so?」%K%P
+0x5D8
+優夏「それはまだ……言えないの」%K%P
+Yuka「I still... can't tell you that.」%K%P
+0x5E4
+誠「はぁ？」%K%P
+Makoto「Huh?」%K%P
+0x5F8
+優夏「だって命令なんだもん」%K%P
+Yuka「Well, I was ordered not to.」%K%P
+0x604
+誠「命令？」%K%P
+Makoto「Ordered?」%K%P
+0x618
+優夏「教授じきじきの御達しなの。『合宿最終日まで、その主旨は教えてはならない』ってね」%K%P
+Yuka「They're direct, official orders from the professor in%Ncharge. 'Until the last day of the Camp, don't tell anyone%Nthe purpose behind it.'」%K%P
+0x624
+誠「……なんで？」%K%P
+Makoto「Why...?」%K%P
+0x638
+優夏「もう、そんなにしつこく聞かないの！」%K%P
+Yuka「Geez, stop being so persistent!」%K%P
+0x644
+誠「でもっ」%K%P
+Makoto「But-」%K%P
+0x658
+優夏「優夏先生の恋愛方程式その１%N%W%W%W%W──『しつこい男は嫌われる』%N%W%W%W──よく覚えときなさい♪」%K%P
+Yuka「The First Law of Professor Yuka's Love Formula:%N―'Dislike persistent men.' ―Please remember that♪」%K%P
+0x66C
+そう言って、優夏は優しく微笑んだ。%K%P
+Yuka gives me a kind smile.%K%P
+0x694
+その微笑みを見た瞬間、オレの心臓はトクンと大きく脈打った。%K%P
+That smile makes my heart pound loudly.%K%P
+0x6A0
+耳たぶが焼けるように熱い。%K%P
+I can feel my ears burn hot.%K%P
+0x6AC
+その色を悟られまいとして、オレはちょっと焦っていた。%K%P
+When I realize what that means, I try not to act anxious.%K%P
+0x6B8
+『しつこい男は嫌われる』%N──嫌われる、って%W%W%W%W……誰に？%K%P
+"Dislike persistent men." ―Dislike... who?%K%P
+0x6C4
+頬を撫でるそよ風は、春の匂いをはらんでいた。%K%P
+Flustered, I feel the wind playfully brush against my%Ncheeks.%K%P
+0x724
+テニスコートは、ロッジから徒歩で５分程の距離にあった。%K%P
+It takes us five minutes to walk from the lodge to the%Ntennis court.%K%P
+0x738
+優夏「さ、やろやろぉ！」%K%P
+Yuka「All right then, let's play!」%K%P
+0x744
+優夏は、コートの管理人から借りてきた４本のラケットを、押し付けるようにしてオレ達３人に手渡した。%K%P
+Yuka has rented four rackets from the court's manager,%Nand forced them into our hands.%K%P
+0x750
+無邪気な喜びに満ちた瞳が、キラキラとした輝きを放ってまぶしい。%K%P
+It's almost blinding how much joy her eyes are radiating.%K%P
+0x75C
+すると……%K%P
+Just then...%K%P
+0x778
+遙「私…いい…」%K%P
+Haruka「I'll... pass...」%K%P
+0x784
+……遙はそう言って、今もらったばかりのラケットを、そっとベンチに立てかけた。%K%P
+... She places the racket she had just received gently%Nagainst the bench.%K%P
+0x798
+優夏「ええっ？」%K%P
+Yuka「Whaaat?」%K%P
+0x7B4
+億彦「遙ちゃん、やらないの！？」%K%P
+Okuhiko「Haruka-chan, you're not playing!?」%K%P
+0x7C0
+優夏よりも、億彦の方が遥かに動揺していた。%K%P
+He is much more disturbed by this than Yuka.%K%P
+0x7CC
+そう言えば、さっきから億彦は、テニスをやることに対してかなり乗り気なように見える。%K%P
+Now that I think about it, Okuhiko seemed to be extremely%Neager to play tennis.%K%P
+0x7D8
+ブルジョア育ちの彼のことだから、恐らく幼い頃からテニスの英才教育でも受けていたに違いない。%K%P
+I bet that because he was brought up as practically%Nnobility, he probably had private lessons on how to play%Ntennis since he was a kid.%K%P
+0x7E4
+遙「うん」%K%P
+Haruka「Yes.」%K%P
+0x7F8
+億彦「でも、見てるだけじゃつまらないよ？」%K%P
+Okuhiko「But won't you get bored just watching us?」%K%P
+0x804
+遙「見てない」%K%P
+Haruka「I'm not going to watch.」%K%P
+0x818
+億彦「えっ？」%K%P
+Okuhiko「Huh?」%K%P
+0x824
+遙「私…海が見たいから…」%K%P
+Haruka「Because... I want to see the ocean...」%K%P
+0x838
+億彦「海？　……海に、行きたいの？」%K%P
+Okuhiko「The ocean? ... You want to go to the ocean?」%K%P
+0x844
+遙は小さくうなずいた。%K%P
+Haruka gives a small nod.%K%P
+0x850
+億彦「海、かぁ……」%K%P
+Okuhiko「The ocean, huh...」%K%P
+0x864
+億彦「じゃ、僕も行こうかな」%K%P
+Okuhiko「Then I'm going too.」%K%P
+0x880
+優夏「えっ、億彦くんも？」%K%P
+Yuka「Huh, you too, Okuhiko-kun?」%K%P
+0x894
+億彦「だって、よく考えてみてくれよ？%Nせっかく海のそばに来たんじゃないか。%Nまずは海を見たいと思うのは、当然の欲求だよ」%K%P
+Okuhiko「Come on, think about it. We're finally by the ocean, aren't%Nwe? It's only natural that we ought to see it first!」%K%P
+0x8A0
+億彦「それに、%Nテニスだったら、いつでもできるしね？」%K%P
+Okuhiko「And besides, we can play tennis whenever we like, right?」%K%P
+0x8B4
+優夏「そっかぁ……。うん、ちょっと残念だけど、でもしょうがないよね」%K%P
+Yuka「I see... Well, that's too bad, but I guess it can't be helped.」%K%P
+0x8C8
+そのとたん、億彦の目尻はゆるやかに垂れた。%N口元も、若干ニンマリと歪んだような気がする。%K%P
+There's a victorious glint in Okuhiko's eyes. His mouth%Nalso warps into another smug smile.%K%P
+0x8E4
+優夏「じゃあ私達は、ここにいるから」%K%P
+Yuka「Then we'll be right here.」%K%P
+0x8F0
+──はいっ？　私達？%K　私…%W%W%W達？%K%P
+―What? "We"? W... We?%K%P
+0x8FC
+『達』っていうのは、%W%Wつまり、オレと優夏ってことか？%K
+So by "we", Yuka means me and her?%K
+0x10C0
+オレも海に行きたい
+I also want to go to the ocean.
+0x10CC
+優夏と一緒にテニスをする
+I'll play tennis with Yuka.
+0x944
+誠「おいおい、ちょっと待ってくれよ、優夏」%K%P
+Makoto「Hey, wait a minute, Yuka.」%K%P
+0x950
+優夏「？」%K%P
+Yuka「?」%K%P
+0x95C
+誠「オレはまだ、テニスをするなんて一言もいってないぞ？」%K%P
+Makoto「I never said I was going to play tennis.」%K%P
+0x968
+優夏「？？」%K%P
+Yuka「??」%K%P
+0x974
+誠「オレも……海に行く」%K%P
+Makoto「I'm also... going to the ocean.」%K%P
+0x988
+優夏「ええーっ！？」%K%P
+Yuka「Huuuh!?」%K%P
+0x9A4
+億彦が『チッ』と微かに舌打ちをした。とても小さな音だったが、オレには確かに聞こえた。%K%P
+Okuhiko faintly clicks his tongue as if to say "Dammit". It%Nwas a very quiet sound, but I definitely heard it.%K%P
+0x9B0
+彼が何を思っているのか、その露骨な態度が全てを物語っていた。%K%P
+If he's trying to be discreet, he's not doing a very good%Njob of it.%K%P
+0x9C4
+優夏「もぉ……。けっこう楽しみにしてたのになぁ……テニス」%K%P
+Yuka「Geez... and I was looking forward to playing too...」%K%P
+0x9D0
+……まあ、そういうことになるだろう。%K%P
+... Well, I figured she'd say that.%K%P
+0x9DC
+さすがに１人じゃ、テニスをすることはできないし。%K%P
+It's impossible to play tennis solo.%K%P
+0x9E8
+優夏「は〜あ……」%K%P
+Yuka「Haah...」%K%P
+0x9F4
+その沈み込むような優夏の瞳を見て、ちょっと悪いことをしたかな、とも思った。%K%P
+Yuka looks so depressed that it's making me feel guilty.%K%P
+0xA00
+けれど、それはそれでやむを得ないことだ。%K%N集団生活とはそういうものなのだ。%K%P
+But that's just the way things work. In groups, the%Nmajority rules.%K%P
+0xA14
+すいすいと歩き出した優夏達に、オレは声をかけた。%K%P
+As Yuka begins to walk away, I call her over.%K%P
+0xA20
+誠「ちょっと待てよ。どうするんだ、これ？」%K%P
+Makoto「Hold on. What are you going to do with these?」%K%P
+0xA2C
+ラケットのことだ。遙のものなんか、ベンチに立てかけたままだ。%K%P
+I point towards the rackets. I notice that Haruka left hers%Nthe way it was, leaning against the bench.%K%P
+0xA40
+優夏「え？　ああ、はいはい、わかってます。私がまとめて返してきますよ〜だ」%K%P
+Yuka「Huh? Ah, yeah, yeah, I know. I'll go collect and return them.」%K%P
+0xA6C
+オレの手から、優夏が荒々しくラケットを%N奪い取った。%Kご機嫌ナナメだ。%K%P
+Yuka rudely snatches mine out of my hands. She seems%Na bit mad...%K%P
+0xA78
+ベンチからもラケットを取り振り回す。%W%Wぶん回す。%K%Nかなりご機嫌ナナメだ。%K%P
+She takes the racket from the bench and swings it wildly.%NIt spins rapidly. Yep... she's pissed.%K%P
+0xA84
+危ない……！%W%W%W　思ったときは遅かった。%K%P
+Just then, I notice something, but by the time I think "Look%Nout...!" it's already too late.%K%P
+0xAAC
+鈍い音だった。%K%P
+A thick sound rings out.%K%P
+0xAB8
+億彦「☆○◎×……！」%K%P
+Okuhiko「☆○◎×...!」%K%P
+0xACC
+優夏「あ……」%K%P
+Yuka「Ah...」%K%P
+0xAE0
+ラケットが億彦の後頭部を直撃していた。%K%P
+The racket smashes into the back of Okuhiko's head.%K%P
+0xB08
+億彦がくらくらと倒れ伏す。%K%N慌てて優夏がしゃがみこんで、億彦の体を揺すった。%K%Nぴくりともしない。%K%P
+Okuhiko collapses to the ground in a daze. Panicking,%NYuka crouches down and shakes his body. He's%Nknocked out.%K%P
+0xB1C
+優夏「ど、どうしよう……」%K%P
+Yuka「W-What should I do...」%K%P
+0xB28
+誠「天罰だな」%K%P
+Makoto「Divine punishment, huh?」%K%P
+0xB3C
+優夏「何で私が%Nそんなの受けなきゃなんないのよ……！」%K%P
+Yuka「Why must I receive that...!?」%K%P
+0xB48
+誠「優夏のことじゃねえよ──アレ？　遙は？」%K%P
+Makoto「Not you, Yuka―Huh? Where's Haruka?」%K%P
+0xB5C
+遙の姿が見えなくなっていた。%K%N見回すと……%T015いた。%K%Nとっくにテニスコートの外だ。%K%P
+I've lost sight of her. I look around... Found her. Haruka's%Nalready far away from the tennis court.%K%P
+0xB68
+誠「優夏。ちょっと、ここ頼む」%K%P
+Makoto「Yuka, I'll leave this to you.」%K%P
+0xB7C
+優夏「な……%W%W勝手な行動しないでよ！」%K%P
+Yuka「Wha... Don't just go acting rashly!」%K%P
+0xB88
+誠「勝手な行動、止めに行くんだよ！」%K%P
+Makoto「I'm going to go STOP her from acting rashly!」%K%P
+0xBC4
+言い捨てると、オレは遙の後を追った。%K%N遙の後ろ姿は、道の曲り角に消えかかっていた。%K%P
+I shout this over my shoulder before chasing after%NHaruka. She disappears as she goes around the%Nstreet's corner.%K%P
+0xC18
+……ま、いっかぁ。%K%P
+... Well, whatever.%K%P
+0xC24
+オレもテニスは嫌いじゃないし、たまには体を%N動かすのもいいかもしれない。%K%P
+It's not like I hate tennis. Besides, I could use a little%Nexercise.%K%P
+0xC30
+むせ返るような森の息吹きに包まれて、オレの心は%N開放的になっていた。何だかむしょうに体が疼く。%K%P
+The chilly, fresh morning air almost makes my bones ache.%K%P
+0xC4C
+億彦「じゃ、そういうことで」%K%P
+Okuhiko「Well, see you later.」%K%P
+0xC60
+言い残して、億彦は歩き出した。%K%P
+Okuhiko starts walking away.%K%P
+0xC6C
+彼が歩き出す前に、とっくに遙も背中を向けていた。%K%P
+Haruka already left long before him.%K%P
+0xC78
+去り際の遙の表情はあまり嬉しそうには見えず、そのことが、オレにとってはかえって嬉しかったりした。%K%P
+Though she had left with a rather stony expression, I%Nbet Haruka was thrilled to leave.%K%P
+0xC8C
+優夏「ちゃんと夕方までには帰って来てよ？」%K%P
+Yuka「Get back before evening, okay?」%K%P
+0xC98
+彼らの後ろ姿に向かって、優夏が声をかける。%K%P
+Yuka shouts this to Okuhiko.%K%P
+0xCA4
+億彦が、優夏の言葉に片手をあげて答える。%K%P
+Without turning around, he casually waves in%Nacknowledgement.%K%P
+0xCB0
+何とも彼らしいキザなサインだ、と思った。%K%P
+He's trying way too hard to act cool, but that's Okuhiko%Nfor you.%K%P
+0xCC4
+優夏「じゃあ私、着替えて来るから」%K%P
+Yuka「Well then, I'm going to go change my clothes.」%K%P
+0xCD0
+誠「着替えるって……何に？」%K%P
+Makoto「Change... into what?」%K%P
+0xCE4
+優夏「テニスウェアに！」%K%P
+Yuka「Tennis wear!」%K%P
+0xCF8
+優夏「だって、さすがにこの服じゃ、テニスは%Nできないでしょ？」%K%P
+Yuka「After all, I can't exactly play tennis that well in these%Nclothes, can I?」%K%P
+0xD04
+言いながら、優夏は指先で服のえりをつまんで%N見せた。%K%P
+To emphasize her point, Yuka pinches the collar of her%Nclothes.%K%P
+0xD10
+誠「まあ、そりゃそうだな……」%K%P
+Makoto「I guess so...」%K%P
+0xD24
+優夏「だから、誠はここで待ってて？　すぐ戻って%N来るから！」%K%P
+Yuka「Mind waiting a minute, Makoto? I'll be back soon!」%K%P
+0xD38
+優夏は管理事務所の隣の更衣室に向かって駆けて行った……。%K%P
+Yuka rushes over to the changing room next to the%Ncourt management office...%K%P

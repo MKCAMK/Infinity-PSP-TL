@@ -1,0 +1,378 @@
+text area offset and size:
+0x958
+0x199D
+0x5C
+カニ相撲の最後の取り組みを終えてから、すでに１０分以上経つ。%K%P
+Ten minutes have already passed since the crab's last%Nsumo match.%K%P
+0x68
+オレとくるみは渚にしゃがみ込んで、ぼんやりと海を見つめていた。%K%P
+Kurumi and I are crouching down by the shore, blankly%Nstaring at the ocean.%K%P
+0x74
+水平線の彼方から、尽きることなく運ばれて来る波には、ひとつとして同じものはない。%K%P
+Endless waves come on after another from beyond the%Nhorizon, each one being different from the last.%K%P
+0x80
+こうしてずっと眺めていても、飽きることがないのはそのせいだろうか？%K%P
+I wonder why it is that I never get tired of staring at%Nthem?%K%P
+0x8C
+波打ちぎわに、白く細かなうたかたの群……。%K%P
+A group of small white bubbles wash up on the beach%Nwith each wave...%K%P
+0x98
+寄せては返す波のまにまに、消えつ結びつ漂っていた。%K%P
+Then the next approaching wave will swallow them up,%Nleaving no trace of them behind.%K%P
+0xAC
+くるみ「ねえ、お兄ちゃん？」%K%P
+Kurumi「Hey, Onii-chan?」%K%P
+0xB8
+誠「……ん？」%K%P
+Makoto「... Hmm?」%K%P
+0xCC
+くるみ「お兄ちゃんは、水って……好き？」%K%P
+Kurumi「Onii-chan, do you like... water?」%K%P
+0xD8
+誠「水？」%K%P
+Makoto「Water?」%K%P
+0xE4
+くるみ「うん。……水遊びとか、お風呂とか……そういうの、好き？」%K
+Kurumi「Yeah... like playing in the water or taking a bath... Do you%Nlike those things?」%K
+0x930
+好き
+I do.
+0x93C
+嫌い
+I don't.
+0x124
+誠「う〜ん……どっちかって言うと、好きかな」%K%P
+Makoto「Hmm... I guess I would say that I like it.」%K%P
+0x130
+誠「子供の頃は、水鉄砲とか水風船とか、そんなんでよく悪戯してたし……」%K%P
+Makoto「When I was a kid, I used to love pulling pranks with water%Nguns and water balloons...」%K%P
+0x144
+くるみ「ふ〜ん……」%K%P
+Kurumi「Hmm...」%K%P
+0x150
+誠「でも、どうしてそんなこと、聞くんだ？」%K%P
+Makoto「But why are you asking me this?」%K%P
+0x164
+くるみ「えっとぉ……それはね？　う〜んと……う〜んと……」%K%P
+Kurumi「Umm... well, you see... Err... err...」%K%P
+0x170
+誠「……？」%K%P
+Makoto「...?」%K%P
+0x184
+くるみ「好きだから！」%K%P
+Kurumi「Kurumi likes it!」%K%P
+0x190
+くるみ「くるみも、水が大好きだから！」%K%P
+Kurumi「Kurumi also loves water!」%K%P
+0x1A4
+誠「う〜ん……どっちかって言うと、嫌いかも」%K%P
+Makoto「Hmm... well, I guess I would say that I don't like it.」%K%P
+0x1B0
+誠「風呂だって、できればメンドクサイから入りたくないし……」%K%P
+Makoto「Baths are so troublesome that if possible, I'd rather not%Nhave them...」%K%P
+0x1C4
+くるみ「ふ〜ん……そっかぁ……」%K%P
+Kurumi「Hmm... is that so...」%K%P
+0x1D0
+誠「でも、どうしてそんなこと、聞くんだ？」%K%P
+Makoto「But why are you asking me this?」%K%P
+0x1E4
+くるみ「えっとぉ……それはね？　う〜んと……う〜んと……」%K%P
+Kurumi「Umm... well, you see... Err... err...」%K%P
+0x1F0
+誠「……？」%K%P
+Makoto「...?」%K%P
+0x204
+くるみ「好きだから！」%K%P
+Kurumi「Kurumi likes it!」%K%P
+0x210
+くるみ「くるみは、水が大好きだから！」%K%P
+Kurumi「Kurumi loves water!」%K%P
+0x224
+くるみ「くるみね？　水の上にプカプカと浮かんでるのが大好きなの」%K%P
+Kurumi「Kurumi loves floating in the water.」%K%P
+0x238
+くるみ「くらげみたいに……ゆったりと……のんびりと……」%K%P
+Kurumi「Like a jellyfish... calmly... leisurely...」%K%P
+0x244
+くるみ「そうしてるだけで、何だか懐かしい気がするんだぁ……」%K%P
+Kurumi「When she does that, it feels kinda nostalgic...」%K%P
+0x250
+くるみ「あったかくて、やさしくて……そのまま、水の中に溶けちゃいたくなって……」%K%P
+Kurumi「It's so warm and calm... Being like that makes Kurumi want%Nto dissolve into the water...」%K%P
+0x25C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x268
+くるみ「だからね？　ほんとはくるみ……みんなと一緒に、行きたかったの」%K%P
+Kurumi「That's why Kurumi... really wanted to go with everyone.」%K%P
+0x274
+くるみ「プールも……温泉も……」%K%P
+Kurumi「To the pool... and the hot springs...」%K%P
+0x280
+誠「だったら、一緒に来ればよかったじゃないか、くるみも……」%K%P
+Makoto「Well, if you wanted to, then why didn't you? It's okay, isn't%Nit...?」%K%P
+0x294
+言ったとたん、くるみの表情はたちまち曇った。%K%P
+The instant I say this, Kurumi's expression suddenly%Ngrows dim.%K%P
+0x2A0
+肩を落とし、視線をうつむけ、足元の砂を指先でつまんだ。%K%P
+Her shoulders drop, her eyes go down, and she plays%Nwith the sand by her feet with her fingertips.%K%P
+0x2B8
+くるみ「怖かったの……」%K%P
+Kurumi「She was scared...」%K%P
+0x2C4
+くるみ「みんなに、嫌われるのが……」%K%P
+Kurumi「She was scared everyone would hate her...」%K%P
+0x2D0
+嫌われる？？？%K%P
+Hate???%K%P
+0x308
+くるみ「くるみの背中…………傷があるの」%K%P
+Kurumi「There's a scar... on Kurumi's back.」%K%P
+0x314
+くるみ「まるでノコギリの刃でざっくりとえぐったような……深い傷痕が……」%K%P
+Kurumi「It's a deep scar... that looks as if it were cut and gouged%Nout by a saw...」%K%P
+0x320
+くるみ「お医者さんの話では、赤ちゃんの頃……それも産まれてすぐに出来た傷だろうって」%K%P
+Kurumi「The doctors said she got it when Kurumi was a baby... in%Naddition to that, they say it probably happened shortly%Nafter she was born.」%K%P
+0x32C
+くるみ「でもね？　パパもママもお姉ちゃんも、くるみに嘘ついてるんだ」%K%P
+Kurumi「But you know what? Papa, Mama, and Onee-chan are%Nlying to Kurumi.」%K%P
+0x338
+くるみ「３歳の頃、階段から落ちて出来た傷だって……くるみにそう言うの」%K%P
+Kurumi「They told Kurumi that she got that scar when she fell%Ndown the stairs when she was three.」%K%P
+0x344
+くるみ「どう見たって、階段から落ちて出来るような傷じゃ……ないのにね……」%K%P
+Kurumi「Even though no matter how you look at it, there's no way%NKurumi could have gotten that scar... from falling down%Nthe stairs...」%K%P
+0x350
+何も言えなかった。何を言っていいのかわからなかった。%K%P
+I don't say anything. I don't know what I should say.%K%P
+0x35C
+思いがけぬ告白を受け、ただただくるみの話を黙って聞くことしか、オレにはできなかった。%K%P
+After hearing Kurumi's unexpected confession, all I can%Ndo is silently listen to her story.%K%P
+0x368
+くるみ「それでね？　くるみ……この傷にはちょっとした苦い想い出があるの……」%K%P
+Kurumi「And you know what else? This scar... has given Kurumi%Nquite a few painful memories...」%K%P
+0x374
+くるみ「中学の頃……くるみには、気になる男の子がいたんだ……」%K%P
+Kurumi「In middle school... there was this boy Kurumi was into...」%K%P
+0x380
+くるみ「いっこ上の先輩だったんだけど……勉強のこととか、遊びのこととか、いろんなことを教えてくれたの……」%K%P
+Kurumi「He was a senpai older than Kurumi, but... whether it was%Nstudying or playing, he taught Kurumi several things...」%K%P
+0x38C
+くるみ「放課後になると、毎日のように近くの公園に立ち寄って、２人で下らないおしゃべりをしてた……」%K%P
+Kurumi「Every day, when school ended, we would stop by this%Nnearby park, and chat about trivial things...」%K%P
+0x398
+くるみ「下らないおしゃべりでも、くるみにとっては大切な時間だったの……。とても……大切な……」%K%P
+Kurumi「Even though it was just trivial chat, to Kurumi, those were%Nprecious times. Very... precious...」%K%P
+0x3A4
+くるみ「くるみ……大好きだったんだよ……その先輩のことが……」%K%P
+Kurumi「Kurumi... loved... that senpai...」%K%P
+0x3B0
+くるみ「だけどね？　ある日を境に、その先輩……くるみとはひと言も話してくれなくなっちゃったんだ……」%K%P
+Kurumi「But you know what? One day, that senpai... stopped%Ntalking to Kurumi... He wouldn't say a single word to her...」%K%P
+0x3BC
+くるみ「廊下ですれ違っても、視線さえ合わせてくれなくて……」%K%P
+Kurumi「He wouldn't even exchange glances with her when we%Npassed in the hallways...」%K%P
+0x3C8
+くるみ「放課後の公園……くるみはひとりぼっちでブランコに揺られてた……」%K%P
+Kurumi「After school... Kurumi was all alone at the park, swinging%Non the swing...」%K%P
+0x3D4
+くるみ「夜がふけるまで……ずぅっとひとりぼっちで……ゆらゆら……ゆらゆらと……」%K%P
+Kurumi「She stayed there until night... alone all that whole time...%Nswinging away... swinging away...」%K%P
+0x3E0
+くるみ「その先輩がくるみと話してくれなくなった理由は、後で友達から聞いたの……」%K%P
+Kurumi「Kurumi heard the reason why that senpai stopped%Ntalking to her from her friends later...」%K%P
+0x3F4
+…………。%N……………………。%K%P
+... ...%K%P
+0x400
+先輩「あの女、背中にこんなでっかい傷があんだよ！」%K%P
+Senpai「That girl's got this giant scar on her back!」%K%P
+0x40C
+先輩「何で出来たのかなんて知らねぇけど……とにかく、あれはもう完全にパスだな」%K%P
+Senpai「I dunno know how she got it, but... at any rate, I'm%Ncompletely through with her.」%K%P
+0x418
+先輩「あんな気持ち悪い傷痕があったんじゃ、一緒に海にも行けねぇもん！」%K%P
+Senpai「There's no way in hell I can go with her to the beach with%Nthat disgusting scar!」%K%P
+0x424
+先輩「連れてるこっちが恥ずかしいし……」%K%P
+Senpai「It'd be way too embarrassing...」%K%P
+0x430
+先輩「ああ。そうそう。だからもうシカトシカト！」%K%P
+Senpai「Yes, that's right. That's why I'm ignoring her!」%K%P
+0x43C
+先輩「変に勘違いされても厄介だしさ！」%K%P
+Senpai「She's nothing more than a nuisance to me at this point!」%K%P
+0x448
+……………………。%N…………。%K%P
+... ...%K%P
+0x488
+くるみ「正直言うと……かなりショックだった……」%K%P
+Kurumi「To be honest... it was a great shock...」%K%P
+0x494
+くるみ「背中のそれよりも、深く深く傷ついたよ……」%K%P
+Kurumi「It left a scar on Kurumi much deeper than the one on her%Nback...」%K%P
+0x4A0
+くるみ「それ以来、人前で背中を見せるのが、怖くなっちゃったんだ……」%K%P
+Kurumi「Ever since then, Kurumi's been afraid to show her back in%Nfront of other people...」%K%P
+0x4AC
+くるみ「うん……。だから、そういうわけ……。みんなと一緒に、プールや温泉に行かなかったのは……」%K%P
+Kurumi「Yes... That's the reason... why Kurumi didn't go to the pool%Nand hot springs with everyone else...」%K%P
+0x4B8
+オレは激しく憤った。怒りに体が打ち震えた。%K%P
+I'm incredibly angry. So angry that my body is shaking%Nfrom it.%K%P
+0x4C4
+その先輩とやらをここに連れて来て、ボコボコに殴ってやりたい。%K%P
+I want to drag that senpai here and beat the living shit%Nout of him.%K%P
+0x4D0
+蹴り飛ばして骨を砕いて、海の底に沈めてやる……。%K%P
+I want to kick him until his bones break, and throw him to%Nthe bottom of the sea...%K%P
+0x4DC
+いつの間にか、オレの拳はギュッと力強く握りしめられていた。%K%P
+Without realizing it, I clench my hands into tight fists.%K%P
+0x4E8
+くるみ「このこと……今まで誰にも言ったことなかったんだ……」%K%P
+Kurumi「Up until now... Kurumi's never told anyone about this...」%K%P
+0x4F4
+くるみ「たぶん、これからも誰にも言わないと思う……」%K%P
+Kurumi「And Kurumi thinks she probably won't tell it to anyone%Nafter this...」%K%P
+0x500
+くるみ「知ってるのは、お兄ちゃんだけ……」%K%P
+Kurumi「You're the only one who knows this, Onii-chan...」%K%P
+0x514
+くるみ「お兄ちゃんだから、話したんだよ？」%K%P
+Kurumi「Kurumi only told you because you're Onii-chan.」%K%P
+0x520
+くるみ「……だから何だってわけでも……ないんだけど……」%K%P
+Kurumi「... So don't... tell anyone else...」%K%P
+0x534
+言い終えて、くるみは口をきゅっとつぐんだ。%K%P
+When she finishes speaking, Kurumi grows silent.%K%P
+0x540
+オレは……かけるべき言葉を探していた。%K%P
+I'm... searching for the right words.%K%P
+0x54C
+何か、言わなければいけない。%K%P
+I have to say something.%K%P
+0x558
+だけど、どうしても言葉が見つからなかった。%K%P
+But no matter how hard I try, I can't find the right words.%K%P
+0x564
+明るく励ますのも、同情して慰めるのも、何か違うような気がして……。%K%P
+It feels like it would be wrong if I tried to cheerfully%Nencourage her, or to try comforting her by being%Nsympathetic...%K%P
+0x570
+くるみの苦しみ、その痛みを思えば思うほど、オレはますます寡黙になった。%K%P
+I grow more and more quiet as I struggle over thinking up%Nways to distract Kurumi from her pain.%K%P
+0x58C
+──と、その直後！%K%P
+―And, right after that!%K%P
+0x5E8
+──ドンッ！%K%P
+―WHAM!%K%P
+0x5F4
+突き上げるような衝撃波とともに、それはやって来た。%K%P
+The earth abruptly rumbles from a violent shock wave.%K%P
+0x614
+くるみ「きゃっ！」%K%P
+Kurumi「Kyaa!」%K%P
+0x628
+短い悲鳴をあげ、くるみがオレの胸に飛び込んでくる。%K%P
+Kurumi lets out a short scream, and plunges towards my%Nchest.%K%P
+0x634
+思わぬ出来事に体勢を崩したオレは、そのまま砂の上に押し倒されてしまった。%K%P
+Surprised by this unforeseen shock wave, I quickly lose%Nmy balance, and fall onto the sand.%K%P
+0x640
+ぎゅっとオレの胸にしがみつくくるみ……。%K%P
+Kurumi is tightly clinging to my chest...%K%P
+0x64C
+行き場を失ったオレの腕は、いつの間にかくるみの体を抱きしめていた。%K%P
+Before I realize it, I'm embracing her body.%K%P
+0x658
+やがて……………………%K%P
+Before long...%K%P
+0x6A8
+……大地の揺れは、音も無くゆるやかに引いていった。%K%P
+... The ground's shaking finally fades away, and all is%Nsilent.%K%P
+0x6B4
+ただ、そこに残されたもの……ぴったりと重なり合った２つの体。%K%P
+The only evidence of it having occurred... is the two of%Nus, lying on top of each other.%K%P
+0x6C0
+オレの手の平は、くるみの背中に触れていた。%K%P
+My palm is touching Kurumi's back.%K%P
+0x6CC
+服の上からでも、その感触はしっかりと伝わってきた。%K%P
+Though my hand is on top of her clothes, I can clearly%Nfeel something through it.%K%P
+0x6D8
+──深々と刻まれた傷痕。%K%N
+―It's a very deeply engraved scar.%K%N
+0x6E4
+──ぼこぼこのおうとつ。%K%P
+―I can feel rough bulges protruding unnaturally on%Nthe otherwise smooth surface of her bare skin.%K%P
+0x6F0
+くるみの悲しみが、手の平に沁みていた。%K%P
+Kurumi's sadness is passing itself through my palm.%K%P
+0x6FC
+胸がキリキリと、しめつけられるように痛んだ。%K%P
+It manifests as a throbbing pain coming from my chest.%K%P
+0x708
+誠「くるみ……」%K%P
+Makoto「Kurumi...」%K%P
+0x714
+くるみ「いいの……」%K%P
+Kurumi「It's all right...」%K%P
+0x720
+くるみ「お願いだから……なにも言わないで……」%K%P
+Kurumi「Please... don't say anything...」%K%P
+0x72C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x738
+くるみ「その代わり……」%K%P
+Kurumi「In exchange...」%K%P
+0x744
+くるみ「もうちょっとだけ……」%K%P
+Kurumi「Can we...」%K%P
+0x750
+くるみ「もうちょっとだけ……このままでいさせて？」%K%P
+Kurumi「Can we stay like this... for just a little while?」%K%P
+0x75C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x768
+くるみ「なんだかこうしてると……すごく落ち着くの……」%K%P
+Kurumi「When we're like this... Kurumi feels very calm...」%K%P
+0x774
+くるみ「水の上にプカプカと……浮かんでるみたいで……」%K%P
+Kurumi「Like she's floating... in the water...」%K%P
+0x780
+誠「…………」%K%P
+Makoto「...」%K%P
+0x78C
+くるみ「お兄ちゃんの胸……」%K%P
+Kurumi「Onii-chan, your chest is...」%K%P
+0x798
+くるみ「……あったかいね……」%K%P
+Kurumi「... warm...」%K%P
+0x7A4
+くるみの傷痕を、そっと手の平で包み込んだ。%K%P
+The feeling of Kurumi's scar wraps up around my hand.%K%P
+0x7B0
+たぎるような熱さを、そこに感じていた。%K%P
+I feel myself boiling with rage from within.%K%P
+0x7BC
+『──こんなもの、消えてしまえばいいのに！』%K%P
+(―This thing should just disappear!)%K%P
+0x7C8
+強く想わずにはいられなかった。%K%P
+This strong thought can't help but worm its way into my%Nhead.%K%P
+0x7D4
+ジリジリと照りつける太陽の下……%K%P
+The scorching sun beats down on me...%K%P
+0x7E0
+今のオレにできることと言えば、こうして抱きしめてやることぐらいしかなかった。%K%P
+All I'm able to do right now is continue to hold her like this.%K%P
+0x818
+………………。%N…………。%N……。%K%P
+... ... ...%K%P

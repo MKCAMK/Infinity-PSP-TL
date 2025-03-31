@@ -1,0 +1,174 @@
+text area offset and size:
+0x670
+0xA8F
+0x80
+しばらくして、各自着替えが終わって、玄関前に集合した。%K%P
+After changing our clothes, we all meet at the front door.%K%P
+0x94
+優夏「それじゃ、くるみちゃん、行ってきま〜す♪」%K%P
+Yuka「Well then, we're off, Kurumi-chan♪」%K%P
+0xA0
+くるみの見送りを受けて、オレ達は温泉へと歩き始める。%K%P
+Kurumi sees us off, and we start walking to the hot%Nsprings.%K%P
+0xB4
+しかし……%K%P
+But...%K%P
+0xC0
+誠「ゴメン、みんな！」%K%P
+Makoto「Sorry, guys!」%K%P
+0xCC
+……オレはいきなりそう告げた。%K%P
+... I suddenly speak up.%K%P
+0xD8
+誠「やっぱりオレ、温泉行くのやめるよ」%K%P
+Makoto「I'm not going to the hot springs after all.」%K%P
+0xEC
+優夏「え？　%W%W%Wどうして？」%K%P
+Yuka「Huh? Why not?」%K%P
+0xF8
+誠「実は、恥ずかしいから黙ってたんだけど……」%K%P
+Makoto「Actually, I was embarrassed, so I didn't say anything,%Nbut...」%K%P
+0x104
+みんな「？？？」%K%P
+Everyone「???」%K%P
+0x110
+誠「……オレも『お江戸でガッテン』の熱狂的なファンだったんだ！」%K%P
+Makoto「... I'm also a huge fan of 'Oedo Gatten'!」%K%P
+0x12C
+億彦「は？」%K%P
+Okuhiko「Huh?」%K%P
+0x138
+誠「だからオレ、ロッジに戻るよ！　もうすぐ番組、%N始まっちゃうし……」%K%P
+Makoto「So I'm heading back to the lodge! The show's about to%Nstart soon...」%K%P
+0x144
+誠「それじゃあな！」%K%P
+Makoto「See you later!」%K%P
+0x150
+オレは、唖然とするみんなの視線を背中に%N受けながら、ロッジに向かって走って行った……。%K%P
+I head back towards the lodge while receiving the%Ndumbfounded glances of the others on my back...%K%P
+0x200
+くるみ「あっ……お兄ちゃん……。どうしたの？」%K%P
+Kurumi「Ah... Onii-chan... What's wrong?」%K%P
+0x20C
+誠「いや、オレもテレビ……見たかったから……」%K%P
+Makoto「Nothing, I just... wanted to watch some TV too...」%K%P
+0x218
+くるみ「そうなの……？」%K%P
+Kurumi「Really...?」%K%P
+0x224
+誠「ああ……」%K%P
+Makoto「Yeah...」%K%P
+0x230
+くるみはつまらなそうにテレビを眺めていた。%K%P
+Looking rather bored, Kurumi turns her gaze back to the%NTV.%K%P
+0x23C
+どう見ても『お江戸でガッテン』を心待ちにしていたようには思えない。%K%P
+I can't shake the feeling that she didn't intend to stay%Nhere and watch "Oedo Gatten".%K%P
+0x248
+何か、温泉に行きたくない理由でも……？%K%P
+Then what's her reason for not wanting to go to the hot%Nsprings...?%K%P
+0x254
+と思って、はっと気づいた。%K%P
+As I think, I am taken aback as I realize something.%K%P
+0x270
+そう言えばくるみ、２日のプールのときも、頭が痛いなんて嘘ついて……。%K%P
+Now that I think about it, this is just like yesterday, when%NKurumi lied about having a headache so she didn't have%Nto go to the pool...%K%P
+0x27C
+ってことは、またスタイルのことを気にして？%K%P
+Could it be that she's worried about her figure again?%K%P
+0x290
+そう言えばくるみ、２日のプールのときも、ひとりでルナビーチに残ってたじゃないか。%K%P
+Now that I think about it, this is just like yesterday, Kurumi%Nstayed behind alone at Lunabeach when we all went to%Nthe pool, right?%K%P
+0x29C
+あのときは、頭が痛いからって言ってたけど……。%K%P
+At that time, she said it was because she had a%Nheadache, but...%K%P
+0x2E8
+くるみ「お兄ちゃん？」%K%P
+Kurumi「Onii-chan?」%K%P
+0x2F4
+ふいにくるみが問いかけてきた。%K%P
+Suddenly, Kurumi asks me a question.%K%P
+0x300
+くるみ「おもしろいとこ、行こっか？」%K%P
+Kurumi「Wanna go see an interesting place?」%K%P
+0x30C
+誠「おもしろいとこ？」%K%P
+Makoto「'An interesting place'?」%K%P
+0x318
+くるみ「うん。だって今日の『お江戸でガッテン』つまんないんだもん」%K%P
+Kurumi「Yep, since today's 'Oedo Gatten' is boring.」%K%P
+0x324
+くるみはＴＶの電源をポチッと切り、勢いよく立ち上がった。%K%P
+Kurumi picks up the remote, turns off the TV, and stands%Nup.%K%P
+0x330
+誠「おもしろいとこって、どこだよ？」%K%P
+Makoto「Where is this 'interesting place'?」%K%P
+0x33C
+くるみ「いいからいいから♪　くるみについて来て♪」%K%P
+Kurumi「You'll see♪ Come with Kurumi♪」%K%P
+0x350
+言い残し、玄関を飛び出して行くくるみ。%K%P
+Kurumi quickly runs out the front door, leaving with those%Nwords.%K%P
+0x35C
+誠「おいっ！　ちょっと待てよ、くるみ！」%K%P
+Makoto「Hey, wait, Kurumi!」%K%P
+0x368
+オレもすぐに、その後を追いかけた……。%K%P
+I immediately go after her...%K%P
+0x3EC
+林道に出ると、くるみはオレの手の平を握ってきた。%K%P
+When we go out to the forest path, Kurumi grabs my hand.%K%P
+0x3F8
+そうしてオレの手を引きながら、ぐんぐんと闇の中を突き進んで行く。%K%P
+While leading me by the hand, she steadily plunges%Nthrough the darkness.%K%P
+0x404
+くるみの小さな手の感触が、オレの手の平に温かく沁みていた。%K%P
+The sensation and warmth of Kurumi's small hand%Npermeates through my own.%K%P
+0x410
+まるで赤ん坊のそれのように、やわらかな肌だった。%K%P
+Her skin feels as soft as a baby's.%K%P
+0x41C
+誠「いいかげん、行き先を教えてくれてもいいんじゃないか？」%K%P
+Makoto「All right, that's enough. Can't you tell me where we're%Ngoing now?」%K%P
+0x428
+オレは尋ねた。%K%P
+I ask her this.%K%P
+0x434
+くるみ「だから、おもしろいとこだってば！」%K%P
+Kurumi「Like Kurumi said, to an interesting place!」%K%P
+0x440
+誠「わかった……。じゃあ質問を変えよう。そこは、どうおもしろい所なんだ？」%K%P
+Makoto「I know that... Then I'll change the question. How%Ninteresting is this place?」%K%P
+0x44C
+くるみ「う〜ん……そうだなぁ……」%K%P
+Kurumi「Hmm... let's see...」%K%P
+0x460
+くるみ「ハラハラドキドキソワソワワクワク……そんな感じかなぁ？」%K%P
+Kurumi「Your heart goes pit-a-pat, pounds like a jackhammer,%Ngets all restless, and pumps you up... maybe that kind of%Nfeeling?」%K%P
+0x46C
+誠「全然わからないよ、それじゃあ……」%K%P
+Makoto「That makes no sense at all...」%K%P
+0x478
+くるみ「だって、わからないように言ってるんだもん♪」%K%P
+Kurumi「But it's something that can't really be put in words♪」%K%P
+0x484
+はぁ……仕方ない。%K%P
+Haah... oh well, whatever...%K%P
+0x490
+黙ってついて行くことにするか……。%K%P
+I'll just be quiet and follow her...%K%P
+0x4D8
+海岸線沿いの道に出て、少しばかり歩いたところで……%K%N
+We get on the coastline road, and just walk down it for a%Nlittle while...%K%N
+0x500
+……急にくるみは、茂みの中へとオレを連れ込んだ。%K%P
+... Kurumi abruptly leads me into a thicket.%K%P
+0x538
+誠「お、おいっ、くるみ！」%K%P
+Makoto「H-Hey, Kurumi!」%K%P
+0x560
+オレの言葉も聞かず、ただひたすら茂みの奥へと進んで行くくるみ……。%K%P
+Kurumi doesn't listen to me, for she's entirely focused on%Nadvancing through the thicket...%K%P
+0x56C
+やがて……。%K%P
+Before long...%K%P

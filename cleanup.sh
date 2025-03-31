@@ -1,12 +1,12 @@
 #!/bin/sh
 
-# rm -rf e17_x360_iso_extracted/ e17_x360_BGM/
-rm -rf e17_mac/ e17_etc/ e17_iso_extracted/ e17_mac_en/ e17_etc_en/ e17_se/ e17_se_mod/ e17_bg/ e17_bg_en/
+[ -z "$GAME" ] && export GAME=e17
+
+rm -rf ${GAME}_mac/ ${GAME}_etc/ ${GAME}_iso_extracted/ ${GAME}_mac_*/ ${GAME}_etc_*/ ${GAME}_se/ ${GAME}_se_mod/ ${GAME}_bg/ ${GAME}_bg_*/
 rm -rf bin/
-rm -rf workdir
-rm -rf text/mac-en-only*/
-rm -rf text/tmp
-rm -f text/font/FONT00.FNT text/font/FONT00.NEW
-rm -rf text/font/glyphs
-rm -f patch/*.xdelta
-rm -f iso/e17-repacked.iso
+rm -rf workdir workdir-${GAME}
+rm -rf text/mac-*-only*/ text/mac-${GAME}-*-only*/
+rm -rf text/tmp-${GAME}
+rm -rf text/font/${GAME}
+rm -f patch/${GAME}-*.xdelta
+rm -f iso/${GAME}-repacked.iso

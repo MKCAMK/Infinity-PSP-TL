@@ -1,0 +1,87 @@
+text area offset and size:
+0x4C8
+0x54A
+0xE4
+『どうして%W…%W…』%K%P
+(Why...?)%K%P
+0xF0
+それはオレの言葉だったのだろうか？%K%N
+Could those be my words?%K%N
+0xFC
+あるいは……別の誰かの？%K%P
+Or... someone else's?%K%P
+0x108
+いや、今となっては、そもそもそれが『言葉』だったのかどうかさえ疑わしい。%K%P
+No, right now, it's doubtful whether these are even%N"words" or not.%K%P
+0x114
+ここには何も無かった。%K%N
+There's nothing here.%K%N
+0x120
+音も無く、色も無く、風も無く……。%K%N
+No sound, no color, no wind...%K%N
+0x12C
+まるで、白濁した液体の中をゆらゆらとさまよっているような感覚だった。%K%P
+It feels like I'm swaying around in a cloudy liquid.%K%P
+0x138
+ただ、とても寒くて……。%K%N
+It's so cold...%K%N
+0x144
+息を吸い込むたびに、肺や気管が、乾いた音を鳴らして凍りついていくようで……。%K%P
+With every breath I take, my windpipe and lungs let out a%Ndry sound as if they're frozen...%K%P
+0x1A4
+重く垂れ下がったその手の平には、小さな光の欠片（かけら）が握りしめられていた。%K%P
+That heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
+0x1B0
+──鈴、か？%K%P
+―A bell?%K%P
+0x1BC
+ひとしずくの球体……なめらかに磨かれた金属製の表面が、冷たい光を放っている。%K%P
+It's a small sphere... The smooth, metal surface shines as%Nit emits a cold light.%K%P
+0x1C8
+鈴の底には細長い音孔が刻まれ、鈴の頂きには色あせた紅色のひもが結ばれていた。%K%P
+The bottom has a long, narrow hole carved into it, and a%Nsmall, dull crimson string is tied to the top.%K%P
+0x1D4
+やがて手の平から、そうっとすり抜けるようにして…………鈴は……%K%P
+Before long, the bell begins to quietly slip out of the%Npalm... It then...%K%P
+0x204
+……こぼれ落ちた。%K%P
+... slips out and falls.%K%P
+0x24C
+オレは彼女の胸に泣きすがりながら、小刻みに激しく体を震わせていた。%K%P
+I tearfully cling to her chest as my body's trembling%Ngradually intensifies.%K%P
+0x258
+腕の中に、冷たく濡れた肌の感触……。%K%N
+In my arms, I can feel her cold, wet skin...%K%N
+0x264
+硬直した細い肢体……。%K%N
+Her thin limbs are stiff...%K%P
+0x270
+透き通るような彼女の白い頬は、触れたら壊れてしまいそうな程に、はかなく見えた。%K%P
+Looking at her ghastly pale, almost transparent cheeks,%NI feel like she might shatter into a thousand pieces if I%Ntouched her cheek.%K%P
+0x27C
+それはあたかも、ガラス細工の人形のようだった。%K%N
+As if she were a doll made of glass.%K%N
+0x288
+もはやそれは動かない。%K%N
+She has already stopped moving.%K%N
+0x294
+何も語らず、笑うこともない。%K%P
+She doesn't speak or smile.%K%P
+0x2A0
+輝きを奪われ、温もりを剥ぎ取られ、残ったものはただの……脱け殻だけ。%K%P
+With her radiance and warmth completely gone, all that's%Nleft of her... is an empty shell.%K%P
+0x2AC
+空っぽの……%W%W%W脱け殻。%K%P
+A completely... empty shell.%K%P
+0x2B8
+４月６日土曜日。%K%N
+Today is Saturday, April 6th, 2019.%K%N
+0x2C4
+──オレは彼女を失った。%K%P
+―I've lost her.%K%P
+0x2D0
+『どうして%W…%W…』%K%P
+(Why...?)%K%P
+0x2DC
+重く沈み込むようなかすれた声だけが、虚しく宙をただよっていた……。%K%P
+Only that hoarse voice fills this empty void...%K%P

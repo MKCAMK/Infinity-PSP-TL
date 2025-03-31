@@ -1,0 +1,438 @@
+text area offset and size:
+0xB58
+0x1899
+0xC4
+長い階段を登り切った。%K%N
+I ascend the long staircase.%K%N
+0xD0
+夜はすっかりと明けている。%K%N
+The night has been completely vanquished by the dawn.%K%N
+0xDC
+雨に煙る境内に、人影はなかった。%K%P
+I can't see anyone in the shrine grounds, hazy from the%Nrain.%K%P
+0xE8
+大地に激しく打ちつける大粒の雨……。%K%N
+The ground is violently pounded by swarms of large rain%Ndrops...%K%N
+0xF4
+その雨音は、世界中の一切の音という音をかき消してしまっていた。%K%P
+The sound of the rainfall is so loud that it feels like it%Ncould erase the whole world itself.%K%P
+0x100
+湿った空気を吸い込む。%K鼻腔の奥に冷気が沁みる。%K%P
+I take a breath of the wet air.%K My nasal cavities are%Npierced by the cold.%K%P
+0x10C
+……境内は、一面の大きな水たまりだった。%K%P
+... The whole grounds have become one large water%Npuddle.%K%P
+0x118
+１歩、また１歩と、ゆっくりと水たまりの中を歩いて行く。足を運ぶたびに…ぴちゃ…ぴちゃ…と冷たい音が霧の中に響いた。%K%P
+I take two steps, slowly walking into the puddle of water.%NThe cold sound of my footsteps as I walk across the%Nwater echoes in the mist.%K%P
+0x124
+幻のように白くぼやけた神社が、徐々に近づいて来る。%K%N
+I get closer and closer to the dim, white mirage-like%Nshrine.%K%N
+0x130
+あやふやだったその輪郭が、次第にあらわになっていく。%K%P
+Its vague features gradually start to become clearer.%K%P
+0x13C
+開け放たれた神社の扉が見える。%K%N
+I can see that the door to the shrine has been thrown%Nopen.%K%N
+0x148
+扉の奥にはふわふわと埃の舞う闇があった。%K%P
+Dust from inside the door flutters about in the darkness.%K%P
+0x154
+その１歩を運ぶごとに、中の様子が鮮やかに浮かび上がってくる。%K%P
+With each step forward that I take, the inner details of%Nthe shrine become clearer and clearer.%K%P
+0x160
+まるで吸い取られるかのように、闇の粒子はすうっと音もなく消え失せていった……。%K%P
+It's as if all the particles of darkness in the shrine%Ndisappeared swiftly and soundlessly, like they were%Nsucked up by something.%K%P
+0x1C0
+やがて……%K%N
+Before long...%K%N
+0x1CC
+……見つけた。%K%P
+... I find her.%K%P
+0x21C
+神社の中に、ひっそりとたたずむ１人の少女の姿を……。%W%W%W%K%P
+I see a girl silently standing still inside the shrine...%W%W%W%K%P
+0x228
+……くるみ……。%K%N
+... It's Kurumi...%K%N
+0x234
+……くるみ……。%K%P
+... Kurumi...%K%P
+0x240
+誠「くるみぃーっ！！！」%K%P
+Makoto「KURUMI!!!」%K%P
+0x24C
+大地を蹴った。%K%N
+I kick off the ground.%K%N
+0x258
+しのつく雨をかきわけるようにして走る。%K%N
+I run in order to push my way through the pelting rain.%K%N
+0x264
+渾身の力を込めて、足を振り上げる。%K%P
+I use whatever energy I have left to sprint towards her.%K%P
+0x270
+水たまりに足元をすくわれながら、よろめいてもなお走り続ける。%K%P
+Even though I trip and stumble over puddles, I still keep%Nrunning.%K%P
+0x27C
+誠「くるみぃーーーっ！！！」%K%P
+Makoto「KURUMIIIIIIIII!!!」%K%P
+0x288
+再び叫んだ。%K%N
+I scream again.%K%N
+0x294
+しかし無情にも、雨音がオレの声をさえぎった。%K%N
+But the ruthless sound of the rain drowns out my voice.%K%N
+0x2A0
+くるみはオレのことに気づいていない。%K%P
+Kurumi doesn't notice me.%K%P
+0x2AC
+神社の床の中央で、人形のように固まったまま、悄然と立ち尽くしていた。%K%P
+She's standing stock still in the middle of the shrine%Ndejectedly, as stiff as a doll.%K%P
+0x2B8
+……だが、もうすぐだ。%K%N
+... But I'm almost there.%K%N
+0x2C4
+もうすぐそこ……%W%W%W目の前に、くるみがいる。%K%N
+I'm almost there... Kurumi is right before my eyes.%K%N
+0x2D0
+あと数歩で、その短い階段に足が届く。%K%P
+Just a few more steps, and I'll have reached that short%Nstaircase.%K%P
+0x2DC
+誠「くるみっ！」%K%P
+Makoto「Kurumi!」%K%P
+0x2E8
+息を切らしながら、かろうじて声を絞り出した。%K%P
+Nearly out of breath, I barely manage to wring out my%Nvoice.%K%P
+0x2F4
+くるみが……%W%W%W静かに振り向く。%K%N
+Kurumi... quietly turns around.%K%N
+0x300
+そうっと、%W%W%W流れるように……。%K%P
+Gently, without a sound...%K%P
+0x33C
+くるみ「お兄ちゃん……」%K%P
+Kurumi「Onii-chan...」%K%P
+0x348
+ぽつりと……%W%W%Wつぶやいた……。%K%N
+She... mutters this in a lonely voice...%K%N
+0x354
+──その瞬間！%K%P
+―At that very instant!%K%P
+0x3B8
+大地が揺れた。%K%N
+The earth shakes.%K%N
+0x3C4
+体勢を崩し、前のめりになって転がった。%K%P
+I lose my footing and fall forward, crashing onto the%Nground face first.%K%P
+0x3D0
+荒れ狂うような地震……。%K%N
+It's a raging earthquake...%K%N
+0x3DC
+激しい揺れが、波打つように襲って来る。%K%P
+The violent tremors come in waves.%K%P
+0x3E8
+のたうちまわる怪物の腹……。%K%N
+It feel like I'm in the belly of a writhing monster...%K%N
+0x3F4
+悶え、苦しみ、暴れる大地……。%K%N
+The suffering, anguished, raging earth...%K%N
+0x400
+太い柱がミシミシと音をたてながら軋んだ。%K%P
+The thick pillars make a creaking sound as they grate.%K%P
+0x40C
+天井から細かい木片がボロボロボロボロとこぼれ落ちている。%K%N
+Small splinters come falling from the ceiling as it tears%Napart.%K%N
+0x418
+見上げれば、今や神社は陽炎のようにゆらゆらと、右に左に傾いでいた。%K%P
+When I look up, I see that the shrine is now slanting left%Nand right, like a swaying heat haze.%K%P
+0x424
+──崩れる……。%K%N
+―It's collapsing...%K%N
+0x430
+──神社が……%W%W%W崩れる……。%K%P
+―The shrine... is collapsing...%K%P
+0x43C
+（くるみ……）%K%P
+(Kurumi...)%K%P
+0x448
+──このままじゃくるみが！！！%K%N
+―At this rate, Kurumi will...!!!%K%N
+0x454
+両手をつき、立ち上がろうとしたその時……。%K%P
+I push myself up with my hands, but the moment I try to%Nstand up...%K%P
+0x524
+瓦礫の山……。%K%N
+A mountain of rubble...%K%N
+0x530
+そこにあったのは、見るも無惨な瓦礫の山だった。%K%N
+Where the shrine once stood is now a cruel mountain of%Nrubble.%K%P
+0x53C
+折れた柱……粉々に砕けた屋根の残骸……。%K%P
+The broken pillars... the wreckage of the roof that's been%Nsmashed to pieces...%K%P
+0x558
+１枚の分厚い板に手をかけた。%K%N
+I start to reach for a thick plank of wood.%K%N
+0x564
+力を込め、その板を持ち上げようと踏ん張る。%K%P
+With all of my strength, I brace myself as I try to lift it.%K%P
+0x570
+しかし、そこにのしかかった太い柱はあまりにも重く、板は微動だにしない。%K%P
+However, the plank is way too heavy, and won't budge%Nan inch.%K%P
+0x57C
+さらに力を振り絞る。全身の力を腕に集める。%K%N
+I muster even more strength as I try to put everything%NI've got into lifting it.%K%N
+0x588
+ギギーッと重々しい音が響いた。%K%P
+The grave sound of creaking echoes.%K%P
+0x594
+……雨に濡れた手が滑る。%K%P
+... My hands, wet from the rain, slip.%K%P
+0x5A0
+爪がパチパチと弾け飛んだ。%K%N
+My fingernails burst open and pop off.%K%N
+0x5AC
+鋭い痛み……。爪を剥ぎ取られた指先からは、真っ赤な鮮血がしたたっている。%K%P
+I feel a sharp pain... bright red, fresh blood comes%Npouring from the fingertips that have had their nails torn%Noff.%K%P
+0x5B8
+それでもオレはあきらめない。%K%N
+Even so, I don't give up.%K%N
+0x5C4
+痛みなんか、今のオレには関係なかった。%K%N
+I mustn't be bothered with the pain.%K%N
+0x5D0
+骨が砕け、肉が引き千切れてもかまわない。%K%P
+I don't care if my bones break or if my flesh is torn off.%K%P
+0x5DC
+最後の力……%W%W%W血管が破裂しそうなほどの凶暴な力を込めて、その分厚い板を持ち上げた……。%K%P
+I'll use everything I've got... I put so much brutal power%Ninto my body that my blood vessels almost rupture, and%Nuse it to lift up the thick plank...%K%P
+0x5F0
+くるみ……。%K%N
+Kurumi...%K%N
+0x5FC
+透き通るようなくるみの白い頬は、触れたら壊れてしまいそうな程に、はかなく見えた。%K%P
+Looking at Kurumi's ghastly pale, almost transparent%Ncheeks, I feel like she might shatter into a thousand%Npieces if I touched her cheek.%K%P
+0x608
+それはあたかも、ガラス細工の人形のようで……。%K%N
+As if she were a doll made of glass...%K%N
+0x614
+重く垂れ下がったその手の平には、小さな光の欠片（かけら）が握りしめられていた。%K%P
+Her heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
+0x630
+──鈴。%K%N
+―The bell.%K%N
+0x63C
+あの鈴だった……。%K%N
+It's that bell...%K%N
+0x648
+銀色の冷たい光……。%W%W%W色あせた紅色のひも……。%K%P
+That cold, silver light... That dull, crimson string...%K%P
+0x654
+やがて手の平から、そうっとすり抜けるようにして……%K%N
+Before long, the bell begins to quietly slip out of the%Npalm...%K%N
+0x660
+…………%W%W%W鈴は…………%W%W%Wこぼれ落ちた。%K%P
+... It then... slips out and falls.%K%P
+0x6B4
+オレはくるみの胸に顔をうずめた。%K%N
+I bury my face into Kurumi's chest.%K%N
+0x6C0
+小刻みに、激しく体を震わせていた。%K%P
+My body's trembling gradually intensifies.%K%P
+0x6CC
+腕の中に、冷たく濡れた肌の感触……。%K%N
+In my arms, I can feel her cold, wet skin...%K%N
+0x6D8
+硬直した細い肢体……。%K%N
+Her thin limbs are stiff...%K%N
+0x6E4
+くるみの……%W%W%W脱け殻……。%K%P
+This is Kurumi's... empty shell...%K%P
+0x6F0
+誠「どうして%W…%W…」%K%P
+Makoto「Why...」%K%P
+0x6FC
+重く沈み込むような声だけが、虚しく宙をただよう……。%K%P
+My hoarse voice alone fills this empty void...%K%P
+0x730
+…………………………………………。%K%P
+...%K%P
+0x73C
+くるみ「まんまるお月様は、ひとりぼっちで淋しくて、夜の闇の中で泣きました。%Nしくしく…%W%W%Wしくしく…%W%W%Wと……」%K%P
+Kurumi「Because the moon was all alone, it was lonely, and would%Ncry during the night. 'Sob, sob... sob, sob'...」%K%P
+0x748
+くるみ「まんまるお月様は、それでもまだ淋しくて、涙の中に子供を生みました。たくさんの子供達……」%K%P
+Kurumi「Even so, the moon was still lonely, and so its tears gave%Nbirth to children. A lot of children...」%K%P
+0x754
+くるみ「海の月と書いて、くらげ……」%K%P
+Kurumi「The child of the moon and the sea, the jellyfish...」%K%P
+0x760
+くるみ「くるみは、くらげを見てたの」%K%P
+Kurumi「Kurumi was looking at the jellyfish.」%K%P
+0x77C
+…………………………………………。%K%P
+...%K%P
+0x788
+くるみ「くるみの夢はねぇ……」%K%P
+Kurumi「Kurumi's dream...」%K%P
+0x794
+くるみ「お嫁さんになること♪」%K%P
+Kurumi「Is to become a wife♪」%K%P
+0x7A0
+くるみ「だんなさんのあったかい胸に顔をうずめて……夜はすやすやと眠るんだぁ……」%K%P
+Kurumi「At night, Kurumi will bury her face in her husband's warm%Nchest... and sleep soundly...」%K%P
+0x7AC
+くるみ「ねぇ、%W%Wお兄ちゃん？」%K%P
+Kurumi「Hey, Onii-chan?」%K%P
+0x7B8
+くるみ「……お兄ちゃんの胸は……%W%W%Wあったかいよね？」%K%P
+Kurumi「... Your chest... is it warm?」%K%P
+0x7C4
+…………………………………………。%K%P
+...%K%P
+0x7D0
+くるみ「で〜きたっと♪」%K%P
+Kurumi「It's done!♪」%K%P
+0x7DC
+くるみ「名付けて、くるみ１７号！」%K%P
+Kurumi「Kurumi will call it Kurumi Unit 17!」%K%P
+0x7E8
+くるみ「あっ……%W%Wだけどこの折り方、企業秘密だから、絶対誰にも教えちゃダメだよ？」%K%P
+Kurumi「Ah... but this folding method is a trade secret. You%Nmustn't tell anyone about it, no matter what.」%K%P
+0x7F4
+くるみ「くるみも、まだ誰にも教えてないんだから……」%K%P
+Kurumi「Kurumi still hasn't told anyone either, so...」%K%P
+0x800
+…………………………………………。%K%P
+...%K%P
+0x80C
+くるみ「これは……」%K%P
+Kurumi「This is...」%K%P
+0x818
+くるみ「……お兄ちゃん」%K%P
+Kurumi「... Onii-chan.」%K%P
+0x824
+くるみ「お兄ちゃんが、笑ったところ！」%K%P
+Kurumi「This is Onii-chan when he's smiling!」%K%P
+0x840
+オレはポケットの中に手を入れた。%K%N
+I put my hand into my pocket.%K%N
+0x84C
+くるみの折った『オレ』を取り出す。%K%P
+I pull out the "me" out that Kurumi folded.%K%P
+0x858
+手の平の上に乗った……%W%W%W『オレ』。%K%N
+I place... "me" on my palm.%K%N
+0x864
+ぐしゃりと握りつぶした……。%K%P
+I grasp it with all my might...%K%P
+0x88C
+（くるみ…………%W%W%Wどうして…………）%K%P
+(Kurumi... why...)%K%P
+0x898
+くるみ「ゆぅ〜びきぃ〜りげぇ〜んまぁ〜んう〜そついたらっ♪」%K%P
+Kurumi「Cross-my-heart-and-hope-to-die If-you-lie...♪」%K%P
+0x8A4
+くるみ「あっ……%W%W%W嘘ついたら、どうしよっか？」%K%P
+Kurumi「Ah... what should we do if you lie?」%K%P
+0x8B0
+くるみ「そうだなぁ……」%K%P
+Kurumi「Let's see...」%K%P
+0x8BC
+くるみ「ほいじゃあ、ほっぺにちゅう……%W%W%Wね？」%K%P
+Kurumi「If you lie, kiss Kurumi on the cheek... okay?」%K%P
+0x8C8
+約束しただろ……。%W%W%Wゆびきりしたじゃないか……。%K%N
+We made a promise, right...? We pinkie-swore it, didn't we...?%K%N
+0x8D4
+お化け屋敷……いっしょに行こうって……。%K%P
+To go to a haunted house... together...%K%P
+0x8E0
+遊園地……%W%W%Wどうすんだよ……。%K%N
+To the amusement park... What should I do...?%K%N
+0x8EC
+──どうすんだよ、くるみ！！%K%P
+―What should I do, Kurumi!!?%K%P
+0x8F8
+くるみ「ねぇ？　お兄ちゃん？」%K%P
+Kurumi「Hey, Onii-chan?」%K%P
+0x904
+くるみ「くるみ……%W%W%W見せたいものがあるんだけど？」%K%P
+Kurumi「Kurumi... wants to show you something, okay?」%K%P
+0x910
+くるみ「お兄ちゃんになら、見せてもいいかなって……」%K%P
+Kurumi「If it's you, Onii-chan, then she can show you...」%K%P
+0x91C
+くるみ「いいの……%W%W%W何も言わなくて……」%K%P
+Kurumi「It's all right... you don't have to say anything...」%K%P
+0x928
+くるみ「くるみが勝手に見せたいって、思っただけだから……」%K%P
+Kurumi「All you have to do is think 'Kurumi was selfish for wanting%Nto show it to me'...」%K%P
+0x934
+くるみ「見てもらえただけで……%W%W%Wそれでいいの……」%K%P
+Kurumi「Just seeing it... is enough...」%K%P
+0x940
+くるみ……。%K%N
+Kurumi...%K%N
+0x94C
+オレは……。%K%N
+I...%K%N
+0x958
+オレは…………。%K%P
+I...%K%P
+0x964
+くるみ「もう嘘つかないで！」%K%P
+Kurumi「Stop lying already!」%K%P
+0x970
+くるみ「だいっきらい！」%K%P
+Kurumi「I hate you!」%K%P
+0x97C
+くるみ「みんな、だいっきらい！！」%K%P
+Kurumi「I HATE EVERYONE!!」%K%P
+0x9C4
+オレは大地を呪った。%K%N
+I curse the earth.%K%N
+0x9D0
+天を呪い、神を呪った。%K%N
+I curse the heavens. I curse God.%K%N
+0x9DC
+そして…%W%W%Wオレ自身に対する嫌悪…%W%W%W憎悪…%W%W%W憤怒…。%K%P
+And... I feel disgust... hatred... and indignation... towards%Nmyself...%K%P
+0x9E8
+胸をかきむしり、心臓をえぐり出して、この両手で、この両手で、力の限りひねり潰してしまいたい……。%K%P
+I tear at my chest, wanting to gouge out my heart and%Ncrush it as hard as I can with my own hands...%K%P
+0x9F4
+やり場のない怒りに悶え、うち震えた。%K%N
+Without an outlet to voice my rage, my whole body%Nshudders as I try to restrain it.%K%N
+0xA00
+奥歯をギリギリと噛みしめ、口の中からどす黒い血があふれた。%K%P
+I gnaw and grind my molars, and dark blood comes%Noverflowing out of my mouth.%K%P
+0xA0C
+（もしも……）%K%P
+(If...)%K%P
+0xA18
+（もしも願いが叶うなら……）%K%P
+(If I could have one wish granted...)%K%P
+0xA24
+（くるみの笑顔を……）%K%P
+(It would be...)%K%P
+0xA30
+（天使のようなくるみの笑顔を……）%K%P
+(To see Kurumi's angelic smile...)%K%P
+0xA3C
+（…………%W%W%W再び…………）%K%P
+(... once again...)%K%P
+0xA58
+天をにらみ、激しく牙をむく。%K%N
+I glare at the sky, and bare my teeth.%K%N
+0xA64
+張り裂けんばかりの叫び声をあげながら……%K%P
+As I scream at the top of my lungs, wringing out every%Nsingle emotion from within me...%K%P
+0xA70
+やがてオレは……%K%N
+I soon...%K%N
+0xA7C
+地獄の底へと……%K%N
+begin to fall...%K%N
+0xA88
+落ちて行った……。%K%P
+to the bottom of hell...%K%P

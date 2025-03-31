@@ -1,0 +1,330 @@
+text area offset and size:
+0xCC0
+0x14A5
+0x134
+さわやかな朝の光が差し込んでいる。%K%P
+The clear morning light shines in.%K%P
+0x140
+いつも起き抜けに感じる気怠さが、今朝のオレには全くなかった。%K%P
+For once, I wake up in eager anticipation.%K%P
+0x14C
+遙の行動が気になって仕方がなかった。%K%N
+I can't help feeling anxious about what Haruka will do.%K%N
+0x158
+明日のことはわからない、と言っていた遙が、オレとの約束を守ろうとするだろうか？%K%P
+Will she keep her promise with me or not?%K%P
+0x1AC
+リビングに行くと、優夏とくるみがいた。テーブルにトーストを並べている。%K%P
+When I enter the living room, Yuka and Kurumi are already%Nthere. There's toast sitting on the table.%K%P
+0x1E4
+誠「おはよう」%K%P
+Makoto「Good morning.」%K%P
+0x1F8
+優夏「あ、誠。おはよう」%K%P
+Yuka「Oh, Makoto. Good morning.」%K%P
+0x214
+くるみ「おーすっ、お兄ちゃん」%K%P
+Kurumi「Hi there, Onii-chan.」%K%P
+0x220
+誠「へえ、今朝はまともなもの食えそうだな」%K%P
+Makoto「Wow, so we actually have something edible for once.」%K%P
+0x23C
+優夏「どういう意味よ」%K%P
+Yuka「What's that supposed to mean?」%K%P
+0x248
+誠「い、いや……それよか、これどうしたの？」%K%P
+Makoto「N-Nothing... anyway, where did this come from?」%K%P
+0x264
+くるみ「お姉ちゃんが作ってくれたの。やっぱ持つべきものは姉妹だよねー」%K%P
+Kurumi「Onee-chan made it. See, you can count on us for all your%Nneeds!」%K%P
+0x270
+誠「調子のいいこと言って」%K%P
+Makoto「You sound like you're in a good mood.」%K%P
+0x27C
+くるみ「いいじゃん。さ、早く食べて行こうよ？」%K%P
+Kurumi「Right you are. C'mon, let's eat and get going.」%K%P
+0x288
+誠「え？　ど、どこに？」%K%P
+Makoto「Huh? Wh-Where to?」%K%P
+0x294
+くるみ「テニスに決まってまーす」%K%P
+Kurumi「We're gonna play tennis.」%K%P
+0x2A8
+優夏「あ、言ってなかったけど、今日はそういう予定だから」%K%P
+Yuka「Ah, I didn't tell you, but that's what's on today's schedule.」%K%P
+0x2B4
+誠「いや、それはちょっと、オレ……」%K%P
+Makoto「Well, you see, I can't...」%K%P
+0x2C8
+優夏「何？　班長命令だゾ」%K%P
+Yuka「What? These are your group leader's orders, you know.」%K%P
+0x2D4
+誠「遙も行くって言ってるのか？」%K%P
+Makoto「I take it you didn't tell Haruka either?」%K%P
+0x2E0
+優夏「な、何？　いきなり怖い顔して」%K%P
+Yuka「Wh-What's with the scary face all of the sudden?」%K%P
+0x2EC
+くるみ「遙さんはまだ起きてないよ。おっくんもだけど」%K%P
+Kurumi「Haruka-san hasn't woken up yet. Same with Okkun.」%K%P
+0x2F8
+誠「そ、そうか……」%K%P
+Makoto「I-I see...」%K%P
+0x304
+くるみ「もうお腹すいた。くるみ達、先食べちゃお？」%K%P
+Kurumi「Kurumi's starving. Can we eat now?」%K%P
+0x318
+優夏「そうね。いただきま〜す」%K%P
+Yuka「You're right. Let's eat〜!」%K%P
+0x324
+誠「あ、%Wいただき、%Wます……」%K%P
+Makoto「Ah, let's... eat...」%K%P
+0x330
+オレ達は、トーストを噛り始めた。オレは全く味がわからなかった。遙のことが気になっていたのだ。%K%P
+We all begin eating the toast. However, because I'm%Nworried about Haruka, it has no flavor to me.%K%P
+0x33C
+おおかた食べ終えた頃、遙が走るようにリビングに入ってきた。%K%P
+Just as I'm about to finish eating, Haruka comes running%Ninto the living room.%K%P
+0x348
+その後から億彦が駆け込んでくる。%K%P
+Okuhiko rushes in after her.%K%P
+0x35C
+億彦「約束って？　何約束したの？」%K%P
+Okuhiko「Promise? What promise?」%K%P
+0x368
+遙「……今日は、釣りに行くの」%K%P
+Haruka「... I'm going fishing today.」%K%P
+0x374
+億彦「釣り？　いいじゃない？　僕が教えてあげる。一緒に行こう。ね？」%K%P
+Okuhiko「Fishing? That's fine. I'll teach you how to do it. So let's go%Ntogether, okay?」%K%P
+0x390
+優夏「ちょっと。今日の予定はテニスなんだけど」%K%P
+Yuka「Hold on. We're scheduled to play tennis today.」%K%P
+0x39C
+遙「え……テニス？」%K%P
+Haruka「Huh? ... Tennis?」%K%P
+0x3A8
+優夏「遙。今日は『私、いい』なんて言わせないからね。班長命令なんだから」%K%P
+Yuka「Haruka, you can't just say 'I'll pass' today. That'd be%Ngoing against the group leader's orders.」%K%P
+0x3BC
+遙が困ったような表情を浮かべ、オレを見た。%K%P
+Haruka looks at me with a troubled expression.%K%P
+0x3D8
+億彦「そうだよ、遙ちゃん。やっぱテニスでしょう。釣りなんてジジくさい」%K%P
+Okuhiko「That's right, Haruka-chan. As planned, we're playing%Ntennis. Fishing is just for old geezers anyway.」%K%P
+0x3E4
+遙「約束、したの……」%K%P
+Haruka「I made a promise...」%K%P
+0x3F0
+億彦「いいじゃない、その約束はキャンセルで」%K%P
+Okuhiko「It's fine, just cancel that promise.」%K%P
+0x3FC
+遙「約束は守らなきゃいけないの……！」%K%P
+Haruka「I have to keep my promise no matter what...!」%K%P
+0x410
+億彦「……！」%K%P
+Okuhiko「...!」%K%P
+0x41C
+遙「それが、信じあうってことだから」%K%P
+Haruka「It's something that shows we trust each other.」%K%P
+0x438
+優夏「遙……」%K%P
+Yuka「Haruka...」%K%P
+0x444
+遙「約束は、守らなきゃいけないの……」%K%P
+Haruka「I have to keep my promise no matter what...」%K%P
+0x460
+くるみ「遙さん、約束って誰としたんですかぁ？」%K%P
+Kurumi「Haruka-san, who did you make that promise with?」%K%P
+0x474
+遙「それは……」%K
+Haruka「It was...」%K
+0xC98
+『……オレだよ』
+"... With me."
+0xCA4
+『………………』
+"..."
+0x4CC
+誠「……オレだよ」%K%P
+Makoto「... With me.」%K%P
+0x4E0
+くるみ「え？」%K%P
+Kurumi「Huh?」%K%P
+0x508
+遙「……」%K%P
+Haruka「...」%K%P
+0x514
+誠「オレ、今日、遙と釣りに行く。%Nテニスには行かない」%K%P
+Makoto「Haruka and I are going fishing today. We're not going to%Nplay tennis.」%K%P
+0x530
+億彦「な、どうして石原が？　本当なの、遙ちゃん？」%K%P
+Okuhiko「Wh-Why is Ishihara saying that? Is this true,%NHaruka-chan?」%K%P
+0x53C
+遙「うん」%K%P
+Haruka「Yes.」%K%P
+0x560
+誠「………………」%K%P
+Makoto「...」%K%P
+0x56C
+オレは無言だった。遙がオレを見ている。オレは目をそらしてしまった。%K%P
+I remain silent. Haruka is looking at me. I avert my eyes.%K%P
+0x578
+オレだよ。そう一言、言ってあげればいいのに……言い出せない。%K%P
+"With me". Even though those words should easily come%Nout of my mouth... they don't.%K%P
+0x584
+『遙もオレを信じるんだ』自分の言った言葉が胸に刺さる。%K%P
+My own words, "And you trust me too," are piercing my%Nheart.%K%P
+0x598
+くるみ「まさか……お兄ちゃん……なの？」%K%P
+Kurumi「It can't be... with... Onii-chan?」%K%P
+0x5A4
+くるみが遙の視線がオレに向けられているのを察知する。%K%P
+Kurumi realizes that Haruka is looking at me.%K%P
+0x5B0
+オレは覚悟を決めた。%K%P
+I resolve myself.%K%P
+0x5BC
+誠「ああ……オレだよ」%K%P
+Makoto「Yeah... it's with me.」%K%P
+0x5E4
+誠「オレ、今日、遙と釣りに行く。%Nテニスには行かない」%K%P
+Makoto「Haruka and I are going fishing today. We're not going to%Nplay tennis.」%K%P
+0x600
+億彦「な、どうして石原が？　本当なの、遙ちゃん？」%K%P
+Okuhiko「Wh-Why is Ishihara saying that? Is this true,%NHaruka-chan?」%K%P
+0x60C
+遙「……うん」%K%P
+Haruka「... Yes.」%K%P
+0x618
+誠「そういうことだからよろしく。悪いけど優夏、オレ達、命令無視するから」%K%P
+Makoto「So we'll be going now. Sorry Yuka, but we're going to%Nhave to ignore your orders.」%K%P
+0x634
+優夏「ま、いいけど。班長ったって別に権力者じゃないんだし」%K%P
+Yuka「Well, that's fine. The leader's not a dictator, after all.」%K%P
+0x650
+億彦「ちょっと待って、優夏ちゃん。そんな簡単に許しちゃダメだよ。%N石原ぁ、君はまだわかってないのか？　ゼミってのは集団行動が基本じゃないか」%K%P
+Okuhiko「Just hold on, Yuka-chan. You can't just let them off this%Neasy. Ishihara, you still don't understand? The basis of%Nthis seminar is group activities, isn't it?」%K%P
+0x65C
+誠「億彦にそんなこと言われる筋合いないな」%K%P
+Makoto「You have no right to say that.」%K%P
+0x670
+億彦「何だって……！」%K%P
+Okuhiko「What was that...!?」%K%P
+0x684
+オレはリビングから出ていこうとした。%K%P
+I leave the living room.%K%P
+0x690
+遙がすっと寄ってきた。%K%P
+Haruka quickly follows me.%K%P
+0x69C
+億彦が遙に追いすがる。%K%P
+However, Okuhiko is hot on Haruka's heels.%K%P
+0x6B0
+億彦「待ってよ、遙ちゃん。石原と何かあったの？」%K%P
+Okuhiko「Wait, Haruka-chan. What happened between you and%NIshihara?」%K%P
+0x6C4
+遙「……約束だから」%K%P
+Haruka「... We made a promise.」%K%P
+0x6D0
+億彦「そんなの理由になってないよ。石原と昨日何かあったんだね？」%K%P
+Okuhiko「That's not an explanation. What happened between you%Nand Ishihara yesterday?」%K%P
+0x6DC
+遙「億彦に話すことじゃない」%K%P
+Haruka「I'm not going to tell you.」%K%P
+0x6E8
+億彦「どうして？」%K%P
+Okuhiko「Why not?」%K%P
+0x6FC
+遙「私と、誠とのことだから……億彦には関係ない」%K%P
+Haruka「This is something between me and Makoto... It doesn't%Nconcern you, Okuhiko.」%K%P
+0x710
+億彦「遙ちゃん……！」%K%P
+Okuhiko「Haruka-chan...!」%K%P
+0x734
+そのとき。バスケットをぶら下げた沙紀が入ってきた。%K%P
+At that moment, Saki comes in carrying a basket.%K%P
+0x740
+沙紀は億彦をちらっと見ると、バスケットをテーブルに置いた。何となくうきうきしてる感じだ。%K%P
+She glances at Okuhiko as she places it on the table.%NShe's kinda cheerful this morning.%K%P
+0x770
+沙紀「お早よう、みなさん！　昨日はご心配をおかけしました！」%K%P
+Saki「Good morning, everyone! Thank you for your concern%Nyesterday!」%K%P
+0x77C
+沙紀のどこかノーテンキな声に、オレ達は拍子抜けしてしまっていた。%K%P
+Saki's optimistic voice ends our argument anticlimatically.%K%P
+0x790
+沙紀「どうしたの？　黙りこくって。%Nえ？　私？　退院したのよ。１泊だけってことだったでしょう？」%K%P
+Saki「What's wrong? Why are you all silent? Oh, is it me? I was%Ndischarged from the clinic. They said I only had to stay%None night, remember?」%K%P
+0x7AC
+優夏「あ、沙紀、そのことじゃ、ないんだけどね……」%K%P
+Yuka「Ah, Saki, that's not it...」%K%P
+0x7B8
+沙紀「え？　何？　私の何？」%K%P
+Saki「Huh? Then what? Is it something else about me?」%K%P
+0x7C4
+優夏「だから……沙紀のことじゃなくて……」%K%P
+Yuka「No... It's not about you, Saki...」%K%P
+0x7E0
+くるみ「ねぇ、それ何ですか、沙紀さん？」%K%P
+Kurumi「Hey, what's that, Saki-san?」%K%P
+0x7F4
+バスケットを指さされた沙紀は、少し慌て気味に億彦を見た。%K%P
+She points to the basket, and Saki throws Okuhiko a coy%Nglance.%K%P
+0x808
+沙紀「あの、億彦くん。ちょっとね、作ってみたんだけど、どうかしら？」%K%P
+Saki「Um, Okuhiko-kun. I tried making these, what do you think?」%K%P
+0x814
+バスケットを開けると、小さなサンドウィッチがきれいに並んでいた。%K%P
+She opens the basket, which contains small sandwiches%Nthat are neatly lined up.%K%P
+0x828
+くるみ「うわぁ、可愛いー。沙紀さん、これ、おっくんのために？」%K%P
+Kurumi「Wow, it's cute〜. Saki-san, did you make these for Okkun?」%K%P
+0x834
+沙紀「え？　だから、どうかなって、%Nそれだけだけど……」%K%P
+Saki「Huh? No, I just made these on a whim, that's all...」%K%P
+0x840
+くるみ「見てよ、おっくん。よかったねー。この、幸せ者ぉ」%K%P
+Kurumi「Take a look, Okkun. You're quite the lucky guy, huh?」%K%P
+0x85C
+億彦「さすがだね、沙紀ちゃん。僕が好きなもの、わかるんだ」%K%P
+Okuhiko「Impressive, Saki-chan. You knew exactly what I liked.」%K%P
+0x868
+沙紀「あ、ええ、そう……どうしよう……」%K%P
+Saki「Ah, er, uh... what should I...」%K%P
+0x874
+億彦「僕、嬉しいよ」%K%P
+Okuhiko「I'm happy.」%K%P
+0x888
+オレは呆れて何も言えなかった。%K%P
+I wordlessly stare in shock.%K%P
+0x894
+突然、遙がオレの手をつかんだ。驚いてオレが見ると、遙はグイッと引っ張った。%K%P
+Suddenly, Haruka grabs my hand and starts to drag me%Nalong as I look at her in surprise.%K%P
+0x8CC
+遙は沙紀と目も合わせず、オレを連れ出していく。億彦が慌てたように追いかけようとした。%K%P
+She takes me outside, avoiding eye contact with Saki.%NOkuhiko frantically tries to go after us.%K%P
+0x8D8
+すると、沙紀の手が億彦の腕に絡みついた。%K%P
+At that moment, Saki grabs Okuhiko's arm with her hands.%K%P
+0x8E4
+沙紀「億彦くん、テニスに行く気ないかな？　コート取ってあるんだけど」%K%P
+Saki「Okuhiko-kun, you don't feel like playing tennis? I was%Nhoping we could play at the court.」%K%P
+0x8F0
+億彦「……い、いいね、釣りなんてジジくさいことやってられないよね」%K%P
+Okuhiko「... S-Sounds good. Fishing is just for old geezers%Nanyway, I don't want to do that.」%K%P
+0x8FC
+沙紀「え、釣り？」%K%P
+Saki「Huh, fishing?」%K%P
+0x908
+億彦「あ、何でもない。さすがだね、沙紀ちゃん。僕がテニス好きだってわかるの？」%K%P
+Okuhiko「Ah, it's nothing. I'm impressed, Saki-chan. You knew I liked%Ntennis?」%K%P
+0x914
+悔し紛れとしか思えない億彦の声を背中に聞き、オレはニヤリと笑った。%K%P
+I smirk as I listen to Okuhiko's spiteful voice.%K%P
+0x920
+ザマアミロ。%K%N
+Serves you right!%K%N
+0x92C
+メチャメチャ気分がいい。こういうときもないとやってられねえぜ。%K%P
+Damn, this feels good. Looks like karma does exist after%Nall...%K%P

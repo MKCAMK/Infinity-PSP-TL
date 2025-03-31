@@ -1134,8 +1134,8 @@
 1133:	0x8745	⑥	
 1134:	0x8746	⑦	
 1135:	0x8747	⑧	
-1136:	0x8748	⑨	# R11:Rendered as a blank space (full width?)
-1137:	0x8749	ä	# ⑩
+1136:	0x8748	⑨	# R11/E17:Rendered as a blank space (full width?)
+1137:	0x8749	⑩	# ä in e17 in r11, but blank space in n7
 1138:	0x874A	ö	# ⑪
 1139:	0x874B	ü	# ⑫
 1140:	0x874C	⑬	

@@ -1,0 +1,933 @@
+text area offset and size:
+0x1E30
+0x3FE8
+0x138
+オレは遙とふたりで釣りを楽しんでいた。%K%P
+I'm having fun fishing with Haruka.%K%P
+0x184
+心地よい風が遙の髪を抜けると、彼女はオレを見て%N微笑んだ。%K%P
+As a pleasant breeze brushes Haruka's hair, she turns%Nto me and smiles.%K%P
+0x190
+記憶を掘り起こせば何度も見たことが%Nあるのだろう……%Kしかし、その笑顔はとても%N新鮮なものに感じられた。%K%P
+Even though I've probably seen it countless times%Nbefore in my memories, I still find her smile refreshing.%K%P
+0x19C
+オレはそんな安らぎの中にぼんやりと浸っていた。%K%N
+I am immersed in this tranquility.%K%N
+0x1A8
+遙とふたり……平和で幸せな時間が過ぎていく……。%K%P
+Haruka and I... pass this peaceful and happy time with%Neach other...%K%P
+0x1B4
+相変わらずオレの釣果はさっぱりだったが、%Nそんなことはどうでもいいことだ。%K%P
+As usual, I don't catch any fish, but that doesn't matter.%K%P
+0x1C0
+（この時だけが永遠に繰り返されればいいのに……）%K%P
+(It would be nice if just this scene could be repeated for%Neternity...)%K%P
+0x1CC
+どこかでそんなことを考えているオレがいた。%K%P
+That thought comes from somewhere deep inside me.%K%P
+0x1D8
+しかし……しかし……。%K%N
+But... But...%K%N
+0x1E4
+６日未明の悲劇……あの出来事だけは、もう２度と%N経験したくはなかった。%K%P
+The tragedy that happened in the early hours of the%N6th... I never want to experience that ever again.%K%P
+0x1F0
+それまでに、何とかしなければ……！%K%N何とか……！！%K%P
+Until then, I've got to do something...! Anything...!!%K%P
+0x268
+どれぐらい夢の世界を%N漂っていたのだろうか……？%K%P
+How long have I been wandering around in my dream%Nworld...?%K%P
+0x274
+がんがんと痛む頭を無理矢理たたき起こし、オレはベッドから飛び起きた。%K%N
+A throbbing headache forces me to wake up, and I jump%Nto my feet from the bed.%K%N
+0x280
+目にまぶしい朝の光が、部屋中に満ちている。%K%P
+The room is filled with the dazzling morning sunlight.%K%P
+0x28C
+今日は問題の３日だ。%K%Nそう……沙紀が『遙がクローンだということ』を%Nみんなの前で暴露した日……。%K%P
+Today is the problematic 3rd. That's right... the day Saki%Nwill reveal to everyone that Haruka is a clone...%K%P
+0x298
+あの日、オレが遙にキスしたことがバレて億彦が怒り……%W%W%Wその状況を目撃した沙紀が爆発したのだ。%K%N
+On that day, Okuhiko got pissed when he learned Haruka%Nand I kissed... Saki practically exploded when she saw%Nthat happen.%K%N
+0x2A4
+と言うことは、億彦が怒らなければ、沙紀も問題を%N起こさなかった筈で……。%K%P
+So if Okuhiko doesn't get mad, then the problem with Saki%Nshouldn't occur either...%K%P
+0x2B0
+すなわち、オレが遙にキスをしなければ良いという%Nことなのか？%K%P
+Then if Haruka and I don't kiss, it'll all be good?%K%P
+0x2BC
+いや、しかし既に、オレは遙にキスを%Nしてしまっている。%K%N
+No, but Haruka and I have already kissed.%K%N
+0x2C8
+ならば、どうすればいいのか……？%K%P
+If that's the case, then what should I do...?%K%P
+0x2D4
+とにかく、ここでじっとしていても始まらない。%K%N
+Anyway, just standing here won't solve anything.%K%N
+0x2E0
+オレはそう思い立って、部屋のドアに向かって%N歩き始めた。%K%P
+I gather up my courage as I walk towards the door.%K%P
+0x308
+……と、その時、誰かが部屋のドアを静かに%Nノックした。%K%P
+... And, at that time, someone quietly knocks on the door.%K%P
+0x314
+誠「はい……」%K%P
+Makoto「Come in...」%K%P
+0x36C
+遙「あ、私……」%K%P
+Haruka「Ah, I...」%K%P
+0x378
+誠「遙……わざわざ起こしに来てくれたのか？」%K%P
+Makoto「Haruka... did you come here just to wake me up?」%K%P
+0x384
+遙「……約束……したから……」%K%P
+Haruka「... Because... we made a promise...」%K%P
+0x390
+そう。オレは昨日の夜、再び遙と釣りに行く約束を%Nしていた。%K%P
+That's right. Last night, I once again promised to go%Nfishing with Haruka.%K%P
+0x39C
+何らかの形で遙との接触を保ちたかったし、それに、遙に心を見つけさせるにはそれが一番だと%N思ったからだ。%K%P
+Not only is this a way for me to preserve my bond with%NHaruka, but I also think that it's the best way for Haruka%Nto find her heart.%K%P
+0x3A8
+けれど、オレの記憶の中の３日目では……遙が朝、%Nオレを起こしに来るようなことは無かった%N筈だが……。%K%P
+But on the 3rd in my memories... Haruka didn't come to%Nwake me...%K%P
+0x3B4
+何かが変わり始めている%N……そういうことなのか？%K%P
+Something is beginning to change... is that it?%K%P
+0x3C0
+まあ、いい。早速行動を開始しよう。%K%P
+Well, whatever. Let's begin right away.%K%P
+0x3CC
+誠「よしっ、じゃあ行こうか？」%K%P
+Makoto「All right then, shall we go?」%K%P
+0x3D8
+遙「……うん」%K%P
+Haruka「... Yes.」%K%P
+0x464
+そうしてオレ達は、例によって例のごとく、%Nこの防波堤にやって来た。%K%P
+And then, we arrive at the pier, same as always.%K%P
+0x470
+遙は夢中になって釣りに没頭し、オレは%N釣りのことなんかそっちのけで、遙の横顔だけを%Nぼんやりと眺めていた。%K%P
+Haruka becomes engrossed in fishing while I blankly%Nstare at her face.%K%P
+0x47C
+自然と、口元がゆるんでしまう。%K%P
+A natural smile rises to her lips.%K%P
+0x4A4
+オレは、遙と過ごすこの時を、本当に愛おしく思っていた。%K%P
+I truly cherish the time I spend with Haruka.%K%P
+0x4B0
+しかし、オレに残された時間はわずかしかない。%K%N
+However, I don't have much time left.%K%N
+0x4BC
+今日の午後が勝負なのだ。%K%N
+This afternoon will be a challenge.%K%N
+0x4C8
+幸福感に酔いしれている場合ではなかった。%K%P
+Now's not the time to get intoxicated with euphoria.%K%P
+0x4D4
+誠「遙、よく聞いてくれ」%K%P
+Makoto「Haruka, please listen carefully.」%K%P
+0x4E8
+遙「……何？」%K%P
+Haruka「... What?」%K%P
+0x510
+釣り糸を海面に垂らしたまま、遙がこっちを振り向く。%K%P
+Haruka turns towards me while dangling her fishing line%Non the surface of the sea.%K%P
+0x51C
+誠「今日、もしかしたら、ちょっと%W%W……いや、%Nすごく嫌なことがあるかもしれない」%K%P
+Makoto「Today, perhaps something a little... no, really bad might%Nhappen.」%K%P
+0x528
+誠「でも、それは誤解なんだ。%K……だから、%N取り乱さずに落ち着いていて欲しい」%K%P
+Makoto「But it's going to be a misunderstanding.%K ... So I want you%Nto not get upset and remain calm.」%K%P
+0x53C
+遙「……え？　何のことを言ってるの……？」%K%P
+Haruka「Huh? What are you talking about...?」%K%P
+0x548
+誠「今はわからないかもしれない。%Kでも……オレを%N信じて欲しいんだ」%K%P
+Makoto「You might not understand right now.%K But... I want you to%Nbelieve in me.」%K%P
+0x570
+遙のまっすぐなふたつの瞳が、オレを見つめる。%K%P
+Haruka's honest eyes look straight into mine.%K%P
+0x584
+遙「わかった……誠を信じる」%K%P
+Haruka「I understand... I'll trust you.」%K%P
+0x590
+誠「……ありがとう」%K%P
+Makoto「... Thank you.」%K%P
+0x5C0
+遙の言葉でほんの少しだけ安堵したオレは、%Nエサのない釣り針を投げた。%K%N
+Feeling a little relieved by those words, I cast my%Nbaitless fish hook out to sea.%K%N
+0x5CC
+今のオレは考える時間が欲しいのであって、%N魚を釣りたいわけではない。%K%P
+Right now, I want time to think, so I'm not going to be%Nfishing.%K%P
+0x5D8
+（あとは……億彦を怒らせないことだけだな）%K%P
+(All that's left... is just to make sure Okuhiko doesn't get%Nangry.)%K%P
+0x5E4
+（さて、どうするか？）%K%P
+(Well then, what should I do?)%K%P
+0x5F0
+（ひとまず、今日は遙とキスをしないように%Nしておこう……）%K%P
+(For now, I should try not to kiss Haruka today...)%K%P
+0x67C
+誠「よし、そろそろ帰ろうか？」%K%P
+Makoto「All right, looks like it's time to head back.」%K%P
+0x688
+空がすっかりと茜色に染まった頃、オレは遙に%Nそう告げた。%K%P
+I tell Haruka this when the sky has been dyed a brilliant%Nred color.%K%P
+0x6B0
+今日のオレは、遙とキスをしていない。%K%N
+Today, I haven't kissed Haruka.%K%N
+0x6BC
+実は、遙がいつ言い出すかと気が気じゃなかったの%Nだが、彼女は最後までその素振りを見せなかった。%K%P
+The truth is, I was on edge the whole time wondering when%Nshe would bring it up, but in the end, she never showed%Nany signs of doing so.%K%P
+0x6D0
+遙「結局、誠は釣れなかったね？」%K%P
+Haruka「You didn't catch any fish today, did you?」%K%P
+0x6DC
+誠「ああ。でもそのぶん遙が釣れたから、%Nいいんじゃないか？」%K%P
+Makoto「Nope. But you caught more than enough to compensate%Nfor that, so isn't that good?」%K%P
+0x6E8
+遙「……また、一緒に来てくれる？」%K%P
+Haruka「... Can we come here together again?」%K%P
+0x6F4
+誠「ああ。また一緒に来ような？」%K%P
+Makoto「Yeah, of course.」%K%P
+0x708
+遙「約束……」%K%P
+Haruka「Promise...?」%K%P
+0x714
+誠「ああ、約束だ……」%K%P
+Makoto「Promise.」%K%P
+0x720
+誠「……ほら、みんなが待ってるから帰ろう」%K%P
+Makoto「... Come on, everyone's waiting, so let's go back.」%K%P
+0x72C
+遙「……うん……」%K%P
+Haruka「... Yes...」%K%P
+0x754
+今度は、前回よりも時間を遅らせて帰ることにした。%K%P
+This time, I decide that we should return later than we did%Nlast time.%K%P
+0x760
+これで、あの事件が起きないといいのだが……。%K%P
+With this, maybe that incident won't happen. That's what%NI'd hoped, but...%K%P
+0x7CC
+釣りを終えてロッジに戻ったオレ達だったが……%K%N
+When we return to the lodge after fishing...%K%N
+0x7D8
+……なんと他のみんなもまだ戻っていなかった。%K%P
+... we find that the others haven't come back yet.%K%P
+0x7E4
+（……どうすればいい？）%K%P
+(... What should I do?)%K%P
+0x7F0
+まず重要なのは、億彦と遙を２人きりにさせないことだろう。%K%N
+First, the most important thing is to make sure that%NHaruka isn't left alone with Okuhiko.%K%N
+0x7FC
+オレはしばらくの間、自室に戻らずに遙とリビングで休んでいた。%K%P
+In the short time I have, instead of returning to my room, I%Nrest in the living room with Haruka.%K%P
+0x808
+誠「疲れたか？」%K%P
+Makoto「Are you tired?」%K%P
+0x81C
+遙「ううん、大丈夫。楽しかったから……」%K%P
+Haruka「No, I'm all right. I had fun, so...」%K%P
+0x868
+すると突然……玄関のドアが乱暴に開け放たれた。%K%P
+Just then, all of the sudden... the front door is violently%Nthrown open.%K%P
+0x8B0
+億彦だった。%K%N
+It's Okuhiko.%K%N
+0x8BC
+億彦は肩をいからせながら、大股で近づいて来る。%K%N
+Okuhiko strides towards us while straddling his%Nshoulders.%K%N
+0x8C8
+明らかに機嫌を損ねているようだ……。%K%P
+Saying he's not pleased would be an understatement...%K%P
+0x8D4
+やがて遙の前に仁王立ちした億彦は、いきなりこんなことを言い出した。%K%P
+Before long, he takes an imposing stance in front of%NHaruka, and suddenly says this.%K%P
+0x8F8
+億彦「どうして石原なんかと釣りに行ったの？　あいつのどこがいいわけ？」%K%P
+Okuhiko「Why did you go fishing with Ishihara? What do you see in%Nthat asshole?」%K%P
+0x904
+すぐ目の前にいるオレのことを『あいつ』呼ばわりする億彦。%K%N
+Even though he's right in front of me, Okuhiko calls me%N"that asshole".%K%N
+0x910
+オレの存在を無視するかのような言い方だった。%K%P
+He talks as if he's ignoring my existence altogether.%K%P
+0x92C
+遙「誠は……やさしくしてくれる……」%K%P
+Haruka「Makoto... is kind to me...」%K%P
+0x940
+億彦「やさしい？　石原が？　%Nあいつはただ低俗なだけだ。%Nどうせ何か魂胆があるに決まってるさ」%K%P
+Okuhiko「Kind? Ishihara? He's nothing but a vulgar bastard. In any%Ncase, it's clear as day that he has a ulterior motive.」%K%P
+0x94C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x960
+遙「私達は信じあっているの。億彦には%Nわからない……」%K%P
+Haruka「We trust each other. You wouldn't understand...」%K%P
+0x974
+億彦「遙ちゃんこそ石原のこと、わかってないよ」%K%P
+Okuhiko「You're the one who doesn't understand about Ishihara.」%K%P
+0x980
+誠「…………」%K%P
+Makoto「...」%K%P
+0x994
+遙「私と誠のことは、億彦には関係ない」%K%P
+Haruka「What's going on between me and Makoto is none of your%Nconcern.」%K%P
+0x9A8
+億彦「いや、ある！%W%W　関係あるよ！%W%W　遙ちゃん、%N僕は君のことを……！」%K%P
+Okuhiko「You're wrong! It does concern me! Haruka-chan, I...!」%K%P
+0x9B4
+誠「……ちょっと待ったぁぁぁ！！！」%K
+Makoto「... Hold it right there!!!!」%K
+0x1DF0
+億彦をなだめる
+Calm down Okuhiko.
+0x1DFC
+遙を連れ出す
+Get Haruka out of here.
+0x9FC
+誠「遙、行こう！　ここにいると気分が悪くなる！」%K%P
+Makoto「Haruka, let's go! We don't need someone like him killing the%Nmood!」%K%P
+0xA10
+遙「待って。ちゃんと誠が言って」%K%P
+Haruka「Wait. Tell him straight.」%K%P
+0xA1C
+誠「えっ？」%K%P
+Makoto「Huh?」%K%P
+0xA30
+遙「私と誠。信じあってるってこと。どんなことが%Nあっても……そうでしょう？」%K%P
+Haruka「About me and you. About how we trust each other. No%Nmatter what happens... isn't that right?」%K%P
+0xA44
+遙「億彦に言ってあげて。億彦には関係ないんだって。私達にしかわからないんだって」%K%P
+Haruka「Tell Okuhiko. Tell him it doesn't concern him. Tell him we're%Nthe only ones who understand.」%K%P
+0xA50
+（ま、まずい……この展開は……！！）%K%P
+(C-Crap... this is really bad...!!)%K%P
+0xA64
+遙「どうして黙ってるの？」%K%P
+Haruka「Why aren't you saying anything?」%K%P
+0xA78
+遙も億彦もオレの言葉を待っている。%K%N
+Haruka and Okuhiko are waiting for me to speak.%K%N
+0xA84
+けれど……返答次第では最悪の事態を%N招きかねない！！%K%P
+But... that awful event could happen depending on my%Nreply!!%K%P
+0xA90
+（一体何て答えりゃいいんだ……？？？）%K
+(Just how should I answer...???)%K
+0x1E08
+『オレと遙は信じあってる』
+"Haruka and I trust each other."
+0x1E14
+『オレ達は釣りに行ってただけだ』
+"All we did was go fishing."
+0xAD8
+誠「そうだ！　オレと遙は信じあってるんだ！」%K%P
+Makoto「That's right! Haruka and I trust each other!」%K%P
+0xAE4
+言ってしまった……。%K%P
+I managed to say it...%K%P
+0xAF0
+遙「誠とは信じあってるの。%N……キスもしてくれたし……」%K%P
+Haruka「Makoto and I trust each other. ... He even gave me a kiss...」%K%P
+0xB04
+誠「別に……オレ達はただ釣りに行ってただけで……」%K%P
+Makoto「It wasn't much, really... all we did was go fishing...」%K%P
+0xB10
+オレはそう言って、億彦をなだめようとした。%K%P
+I say this to try to calm Okuhiko down.%K%P
+0xB24
+億彦「くっ……。まったく遙ちゃんはどうしてこんなヤツについて行ったんだ？」%K%P
+Okuhiko「Damn it... Why did you go with this bastard at all,%NHaruka-chan?」%K%P
+0xB38
+遙「誠は……悪くないよ。約束を守ってくれただけ」%K%P
+Haruka「Makoto's... not a bad person. We were just keeping our%Npromise.」%K%P
+0xB44
+誠「そうそう……たまたま約束をしてて……」%K%P
+Makoto「Right, right... It was an unexpected promise...」%K%P
+0xB58
+億彦「約束！？　それじゃ遙ちゃん、オレと約束しようよ。明日ふたりっきりでさ……」%K%P
+Okuhiko「Promise!? Then make a promise with me, Haruka-chan.%NTomorrow, the two of us will...」%K%P
+0xB6C
+遙「億彦には関係ないの……」%K%P
+Haruka「It doesn't concern you...」%K%P
+0xB80
+遙「億彦に言ってあげて。億彦には関係ないんだって。私達にしかわからないんだって」%K%P
+Haruka「Tell Okuhiko. Tell him it doesn't concern him. Tell him we're%Nthe only ones who understand.」%K%P
+0xB8C
+（遙……何で同じ言葉を繰り返すんだ！）%K%P
+(Haruka... why did you repeat the same words!?)%K%P
+0xB98
+（これじゃまた同じ流れに……！）%K%P
+(This means that the same thing will happen...!)%K%P
+0xBAC
+遙「どうして黙ってるの？」%K%P
+Haruka「Why aren't you saying anything?」%K%P
+0xBB8
+誠「…………………………」%K%P
+Makoto「...」%K%P
+0xBC4
+遙「私達、信じあえてないってこと？」%K%P
+Haruka「Are you saying we can't trust each other?」%K%P
+0xBD0
+誠「そうじゃない……%Kそうじゃないけどな？」%K%P
+Makoto「That's not it... That's not it at all, but-」%K%P
+0xBDC
+遙「私のこと、何とも思ってないの？　%N……キスもしてくれたのに……」%K%P
+Haruka「So you don't think anything of me at all? ... Even though%Nyou gave me a kiss...」%K%P
+0xBF0
+（ぐっ……！）%K%P
+(No...!)%K%P
+0xC04
+億彦「遙ちゃんに何てことをするんだ！　君の持ち物じゃ%Nないんだぞ！」%K%P
+Okuhiko「How could you do that to Haruka-chan!? She doesn't%Nbelong to you, dammit!」%K%P
+0xC18
+億彦「遙ちゃん、こんないい加減な奴の%Nどこがいいんだ！？」%K%P
+Okuhiko「Haruka-chan, what's so good about this irresponsible%Nbastard!?」%K%P
+0xC2C
+遙「誠はいい加減じゃない……」%K%P
+Haruka「Makoto's not irresponsible...!」%K%P
+0xC40
+億彦「僕は違う。信じるなんてレベルじゃない。%N愛しているんだ！」%K%P
+Okuhiko「I'm different. I'm beyond a level of trust with you. I love%Nyou!」%K%P
+0xC54
+遙「…………」%K%P
+Haruka「...」%K%P
+0xC60
+億彦「わからないのかい？　僕を見るんだ！　%N君を愛している男がここにいる！」%K%P
+Okuhiko「You don't understand!? Look at me! The man who loves%Nyou is right here!」%K%P
+0xC74
+遙は億彦から顔をそむけ、オレの方を見た。%K%N
+Haruka looks away from Okuhiko's face and looks at me.%K%N
+0xC80
+何かを求めるような眼差しで……。%K%P
+It's a gaze that seems to be seeking something...%K%P
+0xC8C
+億彦「遙ちゃん！」%K%P
+Okuhiko「Haruka-chan!」%K%P
+0xC98
+誠「やめろ、億彦！」%K%P
+Makoto「Stop it, Okuhiko!」%K%P
+0xCE4
+リビングに反響した物音……。%K%N
+A sound echoes in the living room...%K%N
+0xCF0
+オレ達は、反射的に振り返った。%K%P
+We all turn towards the sound.%K%P
+0xD0C
+玄関脇に沙紀が立ち尽くしている。%K%N
+Saki is standing frozen by the front door.%K%N
+0xD18
+バスケットを持って……。%K%N
+She's carrying her basket...%K%N
+0xD24
+足元には、テニスのラケットが寂しげに%N転がっていた。%K%P
+By her feet are tennis rackets, scattered about.%K%P
+0xD5C
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0xD68
+結局、オレには時の流れを変えることは%Nできなかったのだ……。%K%P
+In the end, I was unable to change the flow of time...%K%P
+0xDA0
+気がつくと日は沈み、外は深い闇に包まれていた。%K%P
+When I come to my senses, I notice that it's completely%Ndark outside.%K%P
+0xDAC
+部屋に戻ったオレは、ベッドに腰をかけて茫然としていた。%K%P
+I'd returned to my room, and now I'm sitting down on the%Nbed in a daze.%K%P
+0xDB8
+ほとんど放心状態だった。%K%P
+I'm very absentminded at the moment.%K%P
+0xDC4
+沙紀が怒りをぶちまけて、遙のことを暴露して……。%K%P
+Saki got angry and revealed the truth about Haruka...%K%P
+0xDD0
+歴史は、そっくりそのまま繰り返したのだ。%K%P
+History is completely repeating itself.%K%P
+0xDDC
+（やはり、オレ１人があがいてみたところで、どうにもならないのか……？）%K%P
+(So even if I struggle, it's all futile...?)%K%P
+0xDE8
+自分の無力さに、オレは打ちひしがれていた。%K%P
+I am crushed by my own powerlessness.%K%P
+0xE10
+やがて……ドアをノックする音が聞こえてきた。%K%P
+After a while... I hear the sound of knocking on the door.%K%P
+0xE74
+遙だった。%K%N
+It's Haruka.%K%N
+0xE80
+遙はみずからオレの部屋に入って来て……けれど%N一向に口を開こうとはしなかった。%K%P
+Haruka enters my room... But she doesn't open her mouth.%K%P
+0xE8C
+言葉を探しているというわけでもなく……%K%N
+It's not like she's looking for what words to say...%K%N
+0xEA8
+……ただじっと、オレが話しかけるのを%N待っているように見えた。%K%P
+... She's just standing still, seeming as if she's waiting for%Nme to say something to her.%K%P
+0xEB4
+誠「別に……気にすることないよ」%K%P
+Makoto「This isn't something... you should really worry about.」%K%P
+0xEC0
+オレは穏やかにそう言った。%K%N
+I say this gently.%K%N
+0xECC
+本当に、そんなことは気にして欲しくなかった。%K%P
+I really don't want her to be worried by it.%K%P
+0xED8
+クローンだの何だのといった問題で、%N遙が沈み込む姿は見たくなかったのだ。%K%P
+I don't want to see Haruka looking depressed over%Nthinking that there's an issue with her being a clone.%K%P
+0xEE4
+遙「だから……私には心がないの……」%K%P
+Haruka「That's why... I have no heart...」%K%P
+0xEF0
+遙「誰かの代わりだから」%K%P
+Haruka「Because I'm just someone's replacement.」%K%P
+0xEFC
+遙「コピーに過ぎないから」%K%P
+Haruka「Because I'm nothing more than a copy.」%K%P
+0xF08
+誠「…………」%K%P
+Makoto「...」%K%P
+0xF1C
+遙「驚いた？」%K%P
+Haruka「Surprised?」%K%P
+0xF28
+誠「驚かないよ、そんなこと……」%K%P
+Makoto「No, not at all.」%K%P
+0xF34
+そんなこと、前から知ってたことだし、それに……%K%P
+I already knew about it from last time, and besides...%K%P
+0xF40
+誠「……たとえクローンだったとしても、%N遙は遙じゃないか。オレ達は何も変わらないよ」%K%P
+Makoto「... Even if you're a clone, Haruka is Haruka, right? Nothing%Nhas changed between us.」%K%P
+0xF4C
+誠「だから、オレは何とも思ってないし、遙だって%N気にすることなんかないんだ」%K%P
+Makoto「That's why I don't think anything of it, and why you%Nshouldn't be worried about it.」%K%P
+0xF58
+オレは言葉を選びながら、慎重に答えた。%K%P
+I answer while choosing my words carefully.%K%P
+0xF64
+遙「……」%K%P
+Haruka「...」%K%P
+0xF78
+遙は息を呑み、びっくりしたような表情をしていた。%K%P
+A surprised expression appears on Haruka's face, her%Nbreath having been taken away.%K%P
+0xF8C
+遙「……嬉しい」%K%P
+Haruka「... I'm happy.」%K%P
+0xF98
+遙「誠に、そう言ってもらえて……」%K%P
+Haruka「I'm happy to hear that from you, Makoto...」%K%P
+0xFA4
+遙は微笑んだ。%K%N
+Haruka smiles.%K%N
+0xFB0
+やさしい微笑みだった。%K%P
+It's a tender grin.%K%P
+0xFBC
+『私達は信じあっているの』%K%N
+"We trust each other."%K%N
+0xFC8
+遙の言葉が蘇ってくる……。%K%P
+I remember Haruka's words...%K%P
+0xFD4
+胸に熱い想いが込み上げてきた。%K%N
+My heart is brimming with emotions.%K%N
+0xFE0
+抑え切れぬこの想いを、今、遙に伝えたい。%K%N
+I want to somehow convey these feelings to Haruka right%Nnow.%K%N
+0xFEC
+感情を、形に表して示したかった。%K%P
+I want to show these feelings to her in a way words%Ncannot express.%K%P
+0xFF8
+そんな時どうすればいいのか？　%N……オレは既に知っている。%K%P
+What should I do at a time like this? ... I already know that.%K%P
+0x100C
+何も言わずに、遙の髪に触れた。%K%N
+I gently touch Haruka's hair.%K%N
+0x1018
+そうして、その額にくちびるを近づけていく……。%K%P
+And then, I begin to bring my lips near her forehead...%K%P
+0x1024
+……するとその時%N……ふと、オレはあることに気づいた。%K%P
+... Just then... I suddenly notice something.%K%P
+0x1030
+あらわになった遙の額──その隅に、小さな傷痕を%N見つけたのだ。%K%P
+In the recesses of Haruka's now exposed forehead―%NI find a small scar.%K%P
+0x103C
+何だか、見てはいけないものを見てしまったような%N気がして、オレはすっと遙の髪から手を離した。%K%P
+I feel like I've seen something I shouldn't have, so I%Nquickly take my hand out of Haruka's hair.%K%P
+0x1050
+遙「どうしたの？」%K%P
+Haruka「What's wrong?」%K%P
+0x105C
+誠「いや、何でもない」%K%P
+Makoto「No, it's nothing.」%K%P
+0x1070
+遙「誠……何か隠してる……」%K%P
+Haruka「Makoto... you're hiding something...」%K%P
+0x107C
+遙「誠と私……信じあってるのに……」%K%P
+Haruka「Even though... we trust each other...」%K%P
+0x1088
+遙「私の額……ずっと……」%K%P
+Haruka「You've just been... gazing at my forehead...」%K%P
+0x1094
+オレの視線……%K額をじっと見つめていた%Nオレの視線を、遙に悟られてしまった。%K%P
+My glance... Haruka must have realized that I was firmly%Nstaring at her forehead.%K%P
+0x10A0
+『信じあっているのに……』%K%P
+"Even though we trust each other..."%K%P
+0x10AC
+確かにそうだ。%K%N別に隠すことなんかないんじゃないのか？%K%P
+She's right. I don't really have a reason to hide it, do I?%K%P
+0x10B8
+オレは思い切って、聞いてみることにした。%K%P
+I resolve myself, and decide to try asking her.%K%P
+0x10C4
+誠「遙……？　その額の傷跡……どうしたんだ？」%K%P
+Makoto「Haruka...? That scar on your forehead... how did you get%Nit?」%K%P
+0x10D8
+遙「傷跡……？」%K%P
+Haruka「Scar...?」%K%P
+0x10E4
+誠「ああ」%K%P
+Makoto「Yeah.」%K%P
+0x10F0
+遙「これのこと？」%K%P
+Haruka「You mean this?」%K%P
+0x10FC
+遙はそう言って、そっと前髪をかきあげた。%K%P
+Haruka says this, and softly parts her bangs.%K%P
+0x114C
+確かに、それはあった。%K%N
+It really is there.%K%N
+0x1158
+近づいて見なければ気づかない程の、小さな薄い%N傷痕だった。%K%P
+It's a small, thin scar that I would never have noticed if I%Nhadn't seen it up close.%K%P
+0x1164
+誠「どうしたんだ、それ……？」%K%P
+Makoto「How did you get that...?」%K%P
+0x1170
+もう１度尋ねてみる。%K%P
+I try asking one more time.%K%P
+0x117C
+遙は口を結んだまま……『さあ？』と言った感じで%N小首を傾げた。%K%P
+Haruka remains silent... She tilts her head as if to say,%N"Who knows?"%K%P
+0x1188
+誠「覚えてないのか？」%K%P
+Makoto「You don't remember?」%K%P
+0x1194
+オレの問いかけに、遙は『うん』とうなずいて%N見せる。%K%P
+Haruka nods.%K%P
+0x11A0
+誠「そっか……」%K%P
+Makoto「I see...」%K%P
+0x11AC
+オレがつぶやくと、遙は前髪を下ろした。%K%P
+When I mutter this, I lower Haruka's bangs.%K%P
+0x11C8
+そして……%K%P
+And then...%K%P
+0x11D4
+遙「それじゃあ、おやすみ……」%K%P
+Haruka「Well then, goodnight...」%K%P
+0x1204
+……遙は何事もなかったかのように、部屋を%N出て行った。%K%P
+... Haruka leaves the room as if nothing happened.%K%P
+0x1210
+最後に見せた遙の微笑みは、オレの心を%N和ませてくれた。%K%P
+The last smile she shows me calms my heart down.%K%P
+0x121C
+ほんの少しだけ言葉を交わしただけなのに、%Nさっきのような沈うつな思いはすっかりと%N消え去ってしまっていた。%K%P
+Our small exchange managed to erase my previous%Ndepression.%K%P
+0x1228
+それはたぶんオレだけではなく、遙にとっても%N同じことだったのだろうと思う……。%K%P
+It's probably not just me. I think Haruka is also going%Nthrough the same thing...%K%P
+0x12A4
+再び扉をたたく音を聞いたのは、遙が立ち去ってから間もなくのことだった。%K%P
+Shortly after Haruka leaves, I hear another knock on the%Ndoor.%K%P
+0x1308
+ドアを開き、次に部屋に入って来たのはいづみさんだった。%K%P
+The door opens, and Izumi-san steps into the room.%K%P
+0x1314
+いづみさんは、前の３日と同じように、%Nクローンに関する数々の話を聞かせてくれた。%K%P
+Like the last 3rd, Izumi-san tells me various stories%Nrelated to clones.%K%P
+0x1320
+けれど、それはかつて聞いた内容と%Nそっくりそのままで……%K%N
+But I've heard the exact same details once already, so...%K%N
+0x132C
+……いづみさんには申し訳ないが、%N話はうわの空だった。%K%P
+... Though I feel guilty for doing it, I tune out Izumi-san.%K%P
+0x1338
+ただ、オレはひたすら遙のことだけを考えていた。%K%N
+It's just that I can't think of anything but Haruka.%K%N
+0x1344
+遙のことだけしか考えることができなかった。%K%P
+She's the only thing I'm able to think about.%K%P
+0x1350
+適当に受け流すオレを相手に、いづみさんの話は%N続いている。%K%P
+Izumi-san continues her story, ignorant of my inattention.%K%P
+0x135C
+しかし……%K%P
+However...%K%P
+0x1380
+いづみ「私の父親、一応遺伝子工学の権威だから、%N受け売りよ、受け売り……」%K%P
+Izumi「My father is currently the authority on genetic%Nengineering. I'm... I'm just repeating what he told me.」%K%P
+0x138C
+……ふと、そのひと言が、オレの胸にとまった。%K%P
+... Suddenly, my heart skips a beat at those words.%K%P
+0x1398
+次の瞬間、オレはふっと浮かんできたある疑問を、%N何気なく口に出していた。%K%P
+In the next instant, I casually express a question that%Nhas suddenly hit me.%K%P
+0x13A4
+誠「いづみさんのお父さんは、%Nクローンを作ったこと……%W%W%Wないんですか？」%K%P
+Makoto「Izumi-san, your father hasn't made any clones... has he?」%K%P
+0x13D4
+いづみ「……え！？」%K%P
+Izumi「... Huh!?」%K%P
+0x13E0
+いづみさんの顔から、一瞬にして血の気が引いた。%K%Nこんないづみさんの姿を見るのは初めてだ……。%K%P
+Izumi-san's face instantly goes pale. It's the first time%NI've seen Izumi-san like this...%K%P
+0x13EC
+誠「あっ……何かマズイこと、聞いちゃったかな……？」%K%P
+Makoto「Ah... did I just ask something wrong...?」%K%P
+0x1400
+いづみ「そうじゃない。そうじゃないんだけど……」%K%P
+Izumi「That's not it. That's not it, but...」%K%P
+0x140C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x143C
+いづみ「誠くん、私の話、ちゃんと聞いてた？%Nクローン裁判のこと……%W裁判にかけられた科学者は%Nどうしてクローンを作ったと思う？%W%W　%N厳重に罰せられることを承知の上で……」%K%P
+Izumi「Listen to me carefully. About the clone trial... Why do you%Nthink the tried scientist thought of making a clone,%Ndespite knowing he could receive severe punishment...?」%K%P
+0x1448
+誠「それは……」%K%P
+Makoto「Well...」%K%P
+0x1454
+誠「……会いたかった……から？」%K%P
+Makoto「... Because he wanted... to see his lost child again?」%K%P
+0x1468
+いづみ「そう。会いたかったから。私のお父さんも、%N同じだった」%K%P
+Izumi「Yes. He wanted to see his lost child again. My father was%Nalso the same.」%K%P
+0x1474
+誠「いづみさんの……お父さんも？？？」%K%P
+Makoto「Your... father???」%K%P
+0x1480
+……ってことは、やっぱり！？%K%P
+... Wait, you're not telling me that he...!?%K%P
+0x148C
+いづみ「くるみが……生まれてすぐ行方不明になったことがあったの……」%K%P
+Izumi「Kurumi... was kidnapped shortly after she was born...」%K%P
+0x1498
+誠「く、くるみが……？」%K%P
+Makoto「K-Kurumi was...?」%K%P
+0x14A4
+オレは唖然として、いづみさんの話に聞き入った。%K%P
+Dumbfounded, I become lost in Izumi-san's story.%K%P
+0x150C
+……。%N…………。%N……事件は何の前触れもなく訪れた。%K%P
+... ... ... It happened without warning.%K%P
+0x1520
+ある日、いづみさんの両親は生後１ヶ月の赤ん坊……くるみを連れて買い物に出かけた。%K%N
+One day, Izumi-san's parents went out shopping, taking%Ntheir one-month old baby with them... Kurumi.%K%N
+0x152C
+そのショッピングセンターで、ちょっと目を離している間に……%K%N
+In that shopping center, they took their eyes off of her%Nfor one minute...%K%N
+0x1538
+……くるみはこつ然と姿を消してしまった。%K%N
+... And in the next, she had suddenly vanished.%K%N
+0x1544
+空になった乳母車だけを残して……。%K%N%N
+All that was left was her empty stroller...%K%N%N
+0x1550
+つまり、くるみは誘拐されたのだ。%K%P
+In other words, Kurumi had been kidnapped.%K%P
+0x1564
+目撃者の証言から、誘拐犯の目星は既についていた。%K%N
+According to the witnesses, the kidnapper's demands%Nwere already left behind in the stroller.%K%N
+0x1570
+その犯人はすぐに指名手配され、警察は%N全力をあげてくるみを捜索した。%K%N
+A bounty for the criminal was quickly placed as the%Npolice tirelessly searched for Kurumi.%K%N
+0x157C
+マスコミにも大々的に報じられたのだが%K%N……結局、くるみは見つからなかった……。%K%P
+The media extensively reported on this, but... In the end,%Nthey couldn't find Kurumi...%K%P
+0x1590
+……そうして、くるみが行方不明になってから１年が経った頃……%K%N
+... And then, around one year after Kurumi's%Ndisappearance...%K%N
+0x159C
+……守野博士は、くるみをもう１度、創ろうと%N決意した。%K%N%N
+... Dr. Morino decided to recreate Kurumi.%K%N%N
+0x15A8
+どうしても我が子に会いたかった……。%K%N%N
+"I want to see my child again, no matter what..."%K%N%N
+0x15B4
+人の親ならば誰しもが抱く当然の感情を、彼は%N己の技術によって達成しようと考えたのだ。%K%P
+With these sentiments that any parent must have, he%Nthought to use his own technology to achieve them.%K%P
+0x15C8
+人に知れたら重い罰を受け、%N遺伝子工学の世界からも追放される。%K%N
+If anyone found out, he'd be severely punished and%Nalso booted from the world of genetic engineering.%K%N
+0x15D4
+博士は、そのことを覚悟の上で、クローン作成に%N着手した。%K%P
+Despite that, the doctor began work on creating a clone.%K%P
+0x15E8
+まず、博士はくるみの血液を入手した。%K%N
+First, Dr. Morino obtained a sample of Kurumi's blood.%K%N
+0x15F4
+それは、くるみが生まれた直後、感染症や白血球数等に異常がないかどうかを検査する為に採血され、大学病院内に冷凍保存されていたものだった。%K%N
+It was held in the cold storage of a university hospital,%Nbecause it had been taken from Kurumi immediately after%Nbirth in order to be examined to see whether or not she%Nhad any infectious diseases or any abnormalities in her%K%Pwhite blood cells and the like.%K%P
+0x1600
+くるみの血液細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させた。%K%N%N
+The nucleus extracted from Kurumi's blood cell was then%Ntransplanted into an egg cell that had already had its%Nnucleus extracted, then implanted into the mother's%Nwomb.%K%N%N
+0x160C
+それから約９ヶ月後……くるみのクローンが%N産声をあげた。%K%P
+Nine months later... Kurumi's clone let out her first cry.%K%P
+0x1620
+当時、２歳と１１ヶ月だったいづみさんには、%Nそのときの記憶は無いと言う。%K%N
+Izumi-san was only 2 years and 11 months old at the time,%Nso she has no real memory to call her own of this.%K%N
+0x162C
+この話は、後に両親から直接聞かされた%N話なのだそうだ。%N…………。%N……。%K%P
+It seems this story was just the one her parents told%Nher directly after it had happened. ... ...%K%P
+0x1684
+いづみ「けど、子供って残酷よね……%Nそうしてできた第２の妹を、私はずいぶん%Nいじめたの。……きっと親の愛情を%N全部取られちゃうと思ったのね」%K%P
+Izumi「But I was a cruel child... After her birth, I was extremely%Nmean towards my new little sister... I must have thought%Nshe was stealing all of my parent's love.」%K%P
+0x1690
+いづみ「だから『こんな子、私の本当の妹じゃない』なんて言って、追いかけて来る妹を突き飛ばしたことが%Nあった」%K%P
+Izumi「So I said horrible things like 'A kid like this isn't my real%Nsister', and pushed her away one time when she chased%Nafter me.」%K%P
+0x16A4
+いづみ「ひどいでしょう？　いくら子供とは言っても……。%N彼女、額から血が出てた……」%K%P
+Izumi「That was awful, wasn't it? Just because I was a child was%Nno excuse... She was left bleeding from her forehead...」%K%P
+0x16B0
+誠「……えっ！？」%K%P
+Makoto「... What!?」%K%P
+0x16C4
+いづみ「もしかして、傷が残ったんじゃないかな……%Nかなり深かったから……%Nだから、私は誰の額も見ないようにしてるの……」%K%P
+Izumi「I wonder if that gash is still there... It was pretty deep,%Nafter all... That's why I try not to look at anyone's%Nforehead...」%K%P
+0x16D0
+誠「ちょ、ちょっと待ってよ、いづみさん！」%K%P
+Makoto「H-Hold on, Izumi-san!」%K%P
+0x16DC
+ぞわぞわと胸が騒ぎ出す。%K%N
+My heart thumps loudly in my chest.%K%N
+0x16E8
+オレの全身を、たちまち鳥肌が覆い尽くした。%K%P
+My whole body is instantly covered in goosebumps.%K%P
+0x16F4
+誠「もう１度……確認するけど……」%K%P
+Makoto「Let me confirm this... one more time...」%K%P
+0x1700
+誠「その子の額には……%N傷が……残ったんですか！？」%K%P
+Makoto「That girl's forehead... has a scar... on it!?」%K%P
+0x170C
+いづみさんはくちびるを噛みしめながら、ゆっくりと深くうなずいて見せた。%K%P
+Izumi-san gives me a slow, deep nod while biting her lip.%K%P
+0x1718
+誠「それで……その後その子は……！？」%K%P
+Makoto「And then... what happened to that girl after that...!?」%K%P
+0x1724
+遠くを見るような眼差しで、いづみさんは静かに先を続けた。%K%P
+Izumi-san quietly continues as she gazes out into the%Ndistance.%K%P
+0x1738
+いづみ「くるみが、ある日突然発見されたのよ……」%K%P
+Izumi「One day, Kurumi was suddenly found...」%K%P
+0x17A0
+……。%N…………。%Nくるみが発見されたのは、誘拐されてから３年後の%Nことだった……。%K%P
+... ... Kurumi was found three years after she had been%Nkidnapped...%K%P
+0x17B4
+父親はクローンの子を溺愛していたが、%N本物のくるみが無事保護されたことで、面倒なことになってしまった。%K%N
+Her father doted on the clone girl, but when the real%NKurumi was safely placed back into his care, the%Nsituation became troublesome.%K%N
+0x17C0
+もちろん父親は、２人とも等しく愛していた。%K%N
+Of course, their father loved them equally.%K%N
+0x17CC
+しかし当時は、クローンに対する迫害が%N行なわれていた時代だ。%K%N%N
+But those days were an era where clones were faced%Nwith persecution.%K%N%N
+0x17D8
+このまま２人を一緒にさせておけば、彼女達が%N成長するに従い、いずれ片方がクローンである%Nという事実が発覚してしまうに違いない。%K%P
+If he kept both of them, as they grew up, the fact that%None of them was a clone would undoubtedly come to light.%K%P
+0x17EC
+そこで父親は、泣く泣くクローンの子を手放すことに決め……%K%N
+And so, their father decided to give up the clone girl as%Nshe cried...%K%N
+0x17F8
+……当時研究室の助手を務めていた信用のおける%N青年夫婦の元へと養子縁組させたのだった。%K%N
+... She was adopted by a young, reliable couple who%Nworked as her father's laboratory assistants at the time.%K%N
+0x1804
+…………。%N……。%K%P
+... ...%K%P
+0x1880
+ひと通り語り終えたいづみさんは、既にオレの部屋を後にしていた。%K%P
+Izumi-san leaves the room after finishing her story.%K%P
+0x188C
+誰もいなくなった部屋の中で、オレは遙のことを%N考えた。%K%N
+In the empty room, my thoughts turn to Haruka.%K%N
+0x18B4
+『私は誰かの代わりだから』%K%N
+"Because I'm just someone's replacement."%K%N
+0x18C0
+……確かに遙はそう言っていた。%K%P
+... Haruka certainly said that.%K%P
+0x18CC
+今のいづみさんの話で何より重要なことは……%K%N
+The most important thing about Izumi-san's story just%Nnow is...%K%N
+0x18D8
+──くるみが遙の『オリジナル』であるかもしれないということだ！%K%P
+―that Kurumi might be Haruka's "Original"!%K%P
+0x18E4
+これは、自分のルーツが何であるかをつかみかねて%Nいる遙にとっては、極めて重要な事だろう。%K%P
+Haruka must be dying to learn this sort of information%Nabout her roots.%K%P
+0x18F0
+しかし……この事実を知ったら、クローンであることを自覚している遙が苦悩することも間違いない。%K%P
+On the other hand... if Haruka learned the truth, she might%Nend up suffering more, as she's self-conscious enough%Nas it is due to the fact she's a clone.%K%P
+0x18FC
+しかも、その相手が知り合いだったとすれば、%Nなおさらのことだ……。%K%P
+Futhermore, it might make things even more awkward if%Nshe learned that her Original is an acquaintance of%Nhers...%K%P
+0x1908
+ここまで考えて、オレはふぅっと大きく息を吐いた。%K%N
+When my thoughts reach this point, I let out a loud sigh.%K%N
+0x1914
+ため息が、静寂を支配するかのように、暗い部屋を%N漂う。%K%P
+It echoes in the dark and quiet room.%K%P
+0x1920
+（じゃあ、どうすればいい？）%K%P
+(Then what should I do?)%K%P
+0x192C
+（どうすれば……？？？）%K%P
+(What should I do...???)%K%P
+0x1938
+──そうだ！%K%N
+―That's right!%K%N
+0x1944
+唐突に生まれた考えに、オレは思わずベッドの上に%N立ち上がっていた。%K%P
+Struck by a sudden idea, I spontaneously stand on top%Nof my bed.%K%P
+0x1950
+『彼女達２人が同じじゃないことを証明する！』%K%N……これが最も有効な方法ではないのだろうか？%K%P
+"I just need to prove those two aren't the same!" ... Isn't%Nthat the most effective method?%K%P
+0x195C
+２人の差を見つける！%K%N
+I'll look for the differences between them!%K%N
+0x1968
+その決定的な差異を！%K%P
+Then I'll pick the most distinctive one!%K%P
+0x1974
+そうすれば、遙は自分を見つけ出すことが%Nできるだろう！%K%N
+If I do that, then Haruka will probably be able to discover%Nherself!%K%N
+0x1980
+自分という存在の尊さに、必ず気づいてくれる筈だ！%K%P
+She should definitely discover how valuable her own%Nexistence truly is!%K%P
+0x198C
+そして恐らく歴史も変わる……。%K%N
+And then, history too will probably change...%K%N
+0x1998
+この点に関しては、オレは理屈抜きで、%N確証に近いものを感じていた。%K%P
+Although this is just a baseless theory, I feel confident%Nthat this plan will work.%K%P
+0x19A4
+オレは満足して、ベッドに潜り込んだ。%K%N
+Satisfied, I crawl into my bed.%K%N
+0x19B0
+明日は、忙しくなりそうだ……。%K%P
+It seems tomorrow will be busy...%K%P

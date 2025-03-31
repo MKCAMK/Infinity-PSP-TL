@@ -1,0 +1,372 @@
+text area offset and size:
+0x838
+0x1DC6
+0x54
+いづみさんは大きく息を吸い込み、そして吐き出した。%K%P
+Izumi-san takes a deep breath, and sighs.%K%P
+0x60
+スカートのシワをていねいに伸ばし、ヒザの上で指を組んだ。%K%P
+She carefully straightens out her skirt again, and%Nplaces her fingers on her knees.%K%P
+0x6C
+──シュレディンガーの猫。%K%N
+―Schrödinger's cat.%K%N
+0x78
+『観察者の意思が、過去の事実を決める』%K%P
+"The observer's intention decides the truth of the past."%K%P
+0x84
+──キュレイシンドロームの第３の特徴。%K%N
+―The Third Trait of Curé Syndrome.%K%N
+0x90
+『強固な思念が、新たな現実を生み出す』%K%P
+"A firm thought creates a new reality."%K%P
+0x9C
+なるほど、確かにこの２つには共通点があった。%K%P
+I see, those two certainly do share some common points.%K%P
+0xA8
+いずれも、誰かの頭の中の想像が、すでに決まっているはずの現実を変えたのだ。%K%P
+Anyway, someone's imagination has already changed%Nreality.%K%P
+0xB4
+観察者の『フタを開こう』という思いが、共存状態にあった猫の生死を決め……%K%P
+When the observer thinks "Let's open the lid", he is%Nconfirming the life or death status between the%Ncoexisting states the cat is in...%K%P
+0xC0
+少年の『病を癒したい』という想いが、そこにあったはずの病巣さえ消し去ってしまった。%K%P
+Tom felt "I want to heal her illness", and that caused the%Nfocus of her illness to disappear.%K%P
+0xCC
+さて……ここからが本題だ。%K%P
+Now then... back to the real issue at hand.%K%P
+0xD8
+このことと無限ループには、いったいどんな関係があると言うのか？%K%P
+Just how can you say this is related to the infinite loop?%K%P
+0xE4
+『誰かの想像が現実を変える』%K%P
+"Someone's imagination can change reality."%K%P
+0xF0
+ならば、タイムスリップという現象は……果たして……？%K%P
+If that's the case, then is it really... related to the%Nphenomenon of time travel...?%K%P
+0x104
+いづみ「実験……」%K%P
+Izumi「The experiment...」%K%P
+0x110
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x11C
+いづみ「キュレイシンドロームの実験……」%K%P
+Izumi「The experiment for Curé Syndrome...」%K%P
+0x128
+いづみ「その本当の目的も、実はこの第３の特徴を調査することにあったの」%K%P
+Izumi「Its true goal also was actually an investigation on The%NThird Trait.」%K%P
+0x134
+いづみ「誠くんに嘘をついて……妄想を抱かせて……その妄想が、本当に真実になるのかどうか……それを調べるつもりだったの」%K%P
+Izumi「To lie to you, Makoto-kun... to make you embrace your%Ndelusions... and see if those delusions would actually%Nbecome reality or not... that's what I planned to%Ninvestigate.」%K%P
+0x140
+いづみ「もちろん最初は、第３の特徴なんて、半信半疑だった……」%K%P
+Izumi「Of course, at first, I was dubious about The Third Trait...」%K%P
+0x14C
+いづみ「ひとりの学者として、そんなバカみたいな現象を信じれるはずがなかったのよ」%K%P
+Izumi「As a scholar, I couldn't believe this idiotic phenomenon.」%K%P
+0x158
+いづみ「だから実験は、第３の特徴に、別の解釈を見つける為のものだったの」%K%P
+Izumi「That's why this experiment was conducted; in order to%Ndiscover another explanation for The Third Trait.」%K%P
+0x164
+誠「要するに、第３の特徴を否定する為のもの──反証実験だった、と？」%K%P
+Makoto「In short, it was something to deny The Third Trait―a%Ncounter-proof experiment, right?」%K%P
+0x170
+いづみ「ええ……」%K%P
+Izumi「Yes...」%K%P
+0x184
+いづみ「だけどね？　予想に反して実験は……成功してしまったみたい……」%K%P
+Izumi「But you know what? Against my expectations... it seems%Nthe experiment has succeeded...」%K%P
+0x1AC
+いづみ「第３の特徴は……証明されてしまったのよ……」%K%P
+Izumi「The Third Trait... was proven...」%K%P
+0x1B8
+誠「えっ！？　ちょ、ちょっと待ってよ、いづみさん！」%K%P
+Makoto「What!? W-Wait a minute, Izumi-san!」%K%P
+0x1C4
+誠「それって……どういうこと！？」%K%P
+Makoto「Just what... does that mean!?」%K%P
+0x1D0
+誠「『実験は１度もやったことがない』って、前にいづみさん、そう言ってたじゃないか！」%K%P
+Makoto「Didn't you say earlier that 'We didn't conduct the%Nexperiment once'?」%K%P
+0x1DC
+誠「まさか……また嘘を？」%K%P
+Makoto「It can't be... are you lying to me again?」%K%P
+0x1F0
+いづみ「ううん、そうじゃないの。私の言ったことは、確かに本当なの」%K%P
+Izumi「No, that's not it. What I said was certainly the truth.」%K%P
+0x1FC
+いづみ「今まで、誠くんをだましたことなんか、１度もないのよ」%K%P
+Izumi「So far, I haven't deceived you once, Makoto-kun.」%K%P
+0x208
+誠「ええっ？　言ってることが滅茶苦茶だよ、いづみさん！」%K%P
+Makoto「What? What you're saying isn't making any sense!」%K%P
+0x214
+誠「じゃあ『実験が成功した』って、どういうことなんだよ？」%K%P
+Makoto「Then what did you mean by 'The experiment succeeded'?」%K%P
+0x220
+誠「『第３の特徴が証明された』って……なんでそんなこと？」%K%P
+Makoto「'The Third Trait was proven'... Why do you say that?」%K%P
+0x234
+いづみ「今、目の前にあるこの現実」%K%P
+Izumi「Because of this reality that exists right now, before our%Neyes.」%K%P
+0x240
+いづみ「私達がこうして、奇妙な現実を経験していること」%K%P
+Izumi「The fact that we are experiencing this strange reality in%Nthis way.」%K%P
+0x24C
+いづみ「それが何よりの、証拠なの……」%K%P
+Izumi「And above all, there's proof...」%K%P
+0x258
+いづみ「タイムスリップ、無限ループ、予知のこと、記憶のこと……」%K%P
+Izumi「The time travel, the infinite loop, the premonitions, and%Nthe memories...」%K%P
+0x26C
+いづみ「──そのすべてが、第３の特徴の正しさを証明してるのよ！」%K%P
+Izumi「―All of these prove The Third Trait's accuracy!」%K%P
+0x278
+誠「………………………………」%K%P
+Makoto「...」%K%P
+0x284
+いづみ「………………………………」%K%P
+Izumi「...」%K%P
+0x290
+誠「あああああああーっ、わかんねぇぇぇぇぇぇぇ！」%K%P
+Makoto「AHHHHHHH, I don't get ittttttttttttt!」%K%P
+0x29C
+誠「言ってることが全然わかんないよ、いづみさん！」%K%P
+Makoto「I don't get a single word of what you're saying!」%K%P
+0x2A8
+誠「だって……よく考えてみてよ？」%K%P
+Makoto「After all... think about it carefully.」%K%P
+0x2B4
+誠「米のことも、地震のことも、バッテリーのことも、夕飯のことも、トランプのことも……」%K%P
+Makoto「The rice, the earthquake, the battery, the dinner, and the%Ncards...」%K%P
+0x2C0
+誠「オレは誰にもだまされてないのに、そのすべてを言い当てたんだ！」%K%P
+Makoto「Even though no one deceived me, I was correct about all%Nof them!」%K%P
+0x2CC
+誠「つまり『実験』なんかとは全く無関係に『予知』という現象は発生したってことだ！」%K%P
+Makoto「In other words, this 'experiment' of yours is completely%Nunrelated to the occurrence of the phenomenon known%Nas 'premonitions!'」%K%P
+0x2D8
+誠「この一連の現象と実験のことを結びつけて考えるのは、どう考えたってオカシイよ！」%K%P
+Makoto「No matter how I think about it, it's illogical to consider that%Nthese chains of phenomena are related to the%Nexperiment!」%K%P
+0x2EC
+いづみ「ううん……」%K%P
+Izumi「No...」%K%P
+0x2F8
+いづみ「オカシクなんか、ないのよ……」%K%P
+Izumi「It's not strange at all...」%K%P
+0x304
+誠「………………………………」%K%P
+Makoto「...」%K%P
+0x310
+いづみ「きっと、こういうことだと思うの」%K%P
+Izumi「I think this is how it went down.」%K%P
+0x348
+いづみ「そもそも、誠くんがまだ、この無限ループに巻き込まれる前、一番最初にこの６日間を体験してた時は……」%K%P
+Izumi「At the start, before you were caught up in this infinite%Nloop, during the very first series of six days that you%Nexperienced...」%K%P
+0x354
+いづみ「誠くんには『予知』なんて、できなかったんじゃないのかな？」%K%P
+Izumi「You weren't able to have 'premonitions' at all.」%K%P
+0x360
+いづみ「そのときはまだ、お米のことも、地震のことも、誠くんは何も……知らなかった」%K%P
+Izumi「At that time, you still knew nothing... Not about the rice or%Nthe earthquake.」%K%P
+0x36C
+いづみ「そして、その時間の中にいた過去の私は……予定通り、実験を開始してしまったんだと思う」%K%P
+Izumi「And then, I think the past me in that time... commenced the%Nexperiment, just as planned.」%K%P
+0x378
+いづみ「たぶん、何らかの方法で、誠くんに予知能力があるかのように信じ込ませたのね」%K%P
+Izumi「In some manner, I probably made you firmly believe that it%Nwas as though you had precognition.」%K%P
+0x384
+誠「……………………………」%K%P
+Makoto「...」%K%P
+0x390
+いづみ「やがて、誠くんの意識の中には、キュレイシンドロームの兆候が現れ始めた」%K%P
+Izumi「Before long, the symptoms of Curé Syndrome began to%Nmanifest within your consciousness.」%K%P
+0x39C
+いづみ「つまり誠くんは、ある種の妄想を抱き始めるようになったということ」%K%P
+Izumi「In other words, you started to embrace a certain%Ndelusion.」%K%P
+0x3A8
+いづみ「ところが、その妄想内容は、私の予想していたものとは少し違っていたの」%K%P
+Izumi「However, the subject of your delusion was slightly%Ndifferent from what I had planned.」%K%P
+0x3B4
+いづみ「誠くんは『予知能力がある』と思ったわけではなく……『自分はタイムスリップしたのでは？』と考えるようになった」%K%P
+Izumi「You didn't think 'I have the power to receive%Npremonitions'... You started to think 'Have I time traveled?'」%K%P
+0x3C0
+『予知なんてことができるのは、未来を１度、経験したことがあるからだ』%K%P
+"I can have premonitions because I've experienced the%Nfuture once."%K%P
+0x3CC
+いづみ「……そんなふうに、思い込んでしまったのよ」%K%P
+Izumi「... You were convinced in that manner.」%K%P
+0x3D8
+誠「……………………………」%K%P
+Makoto「...」%K%P
+0x3E4
+いづみ「予定では、実験はそのまま、何事もなく終わるはずだった」%K%P
+Izumi「If the experiment went as planned, then it should have%Nended without incident.」%K%P
+0x3F0
+いづみ「４月７日午前零時……誠くんにすべてを打ち明ければ、妄想は妄想のまま、跡形も無く消え失せてしまうはずだったの」%K%P
+Izumi「At midnight on April 7th... If I had revealed everything to%Nyou, your delusion should have disappeared without a%Ntrace.」%K%P
+0x3FC
+誠「でも……そうはならなかった……」%K%P
+Makoto「But... that's not what happened...」%K%P
+0x408
+いづみ「ええ……」%K%P
+Izumi「Yes...」%K%P
+0x414
+いづみ「その直前に、最悪の事態が、起こってしまったから……」%K%P
+Izumi「Just before that, the worst possible situation occurred...」%K%P
+0x458
+いづみ「……私が………………………………………」%K%P
+Izumi「... Because...」%K%P
+0x46C
+いづみ「……………………死んでしまったから……」%K%P
+Izumi「... I died...」%K%P
+0x478
+誠「……………………………」%K%P
+Makoto「...」%K%P
+0x49C
+いづみ「その光景を目の当たりにした誠くんは、きっとこんなことを、考えてくれたんだと思う」%K%P
+Izumi「I think that the Makoto-kun who was faced with that%Nscene surely thought this.」%K%P
+0x4A8
+『過去に戻りたい。過去に戻って歴史を変えてしまいたい』%K%P
+"I want to go back to the past. I want to go back to the%Npast and change history."%K%P
+0x4B4
+『そして自分には、それを可能にする不思議な能力がある』%K%P
+"And I have a miraculous ability that will enable me to do%Nthat."%K%P
+0x4C0
+いづみ「その強い思念が、誠くんの中にあった『現実』を、歪めたのよ」%K%P
+Izumi「That strong thought warped the 'reality' within you.」%K%P
+0x4CC
+いづみ「妄想が、新たな現実を、生み出したの」%K%P
+Izumi「Your delusion produced a new reality.」%K%P
+0x50C
+誠「だからオレは、過去に戻ったのか……」%K%P
+Makoto「And so I returned to the past...?」%K%P
+0x518
+誠「そのとき初めて『本当に』タイムスリップしてしまった……」%K%P
+Makoto「That was the first time I 'really' time traveled...」%K%P
+0x524
+誠「すでに未来を経験しているオレは『本当の』予知をすることになった……」%K%P
+Makoto「It was arranged that the me who had already%Nexperienced the future had 'real' premonitions...」%K%P
+0x530
+いづみ「……………………………」%K%P
+Izumi「...」%K%P
+0x53C
+誠「いや、待てよ」%K%P
+Makoto「No, wait.」%K%P
+0x548
+誠「じゃあ、記憶のことはどうなる？」%K%P
+Makoto「Then how do you explain my memories?」%K%P
+0x554
+誠「前の歴史の中では、アイマイな記憶しか持っていなかったのに、だけど今は、こんなふうにしっかりとした記憶を……」%K%P
+Makoto「Even though I only had vague memories in the earlier%Nhistories, right now, I have complete memories that I can%Neasily remember..」%K%P
+0x560
+いづみ「……そう。……私も誠くんと、同じことを思った」%K%P
+Izumi「... Right... I was thinking the same thing as you, Makoto-kun.」%K%P
+0x56C
+いづみ「そもそも記憶というのは、脳に蓄積されるものでしょ？」%K%P
+Izumi「In the first place, those which are called memories are%Nsomething stored in the brain, right?」%K%P
+0x578
+いづみ「だとすると、今の私達の脳は、タイムスリップする直前のそれと同じものということになる」%K%P
+Izumi「If that's the case, then it means that our current brains%Nare the same as the ones we had right before we time%Ntraveled.」%K%P
+0x584
+いづみ「けれど、この時間の中には、私も誠くんも、１人しかいない」%K%P
+Izumi「However, there's only one of you and me in this time%Nperiod.」%K%P
+0x590
+いづみ「ということは、私達は肉体とともに時間をさかのぼって来たわけじゃないということになる」%K%P
+Izumi「That means we didn't travel back in time with our%Nrespective bodies.」%K%P
+0x59C
+誠「それじゃあいったい……この記憶はどこから……？」%K%P
+Makoto「So then... where did these memories come from...?」%K%P
+0x5A8
+いづみ「その答は……もう、出てるわ」%K%P
+Izumi「The answer to that... has already appeared.」%K%P
+0x5B4
+いづみ「この記憶は、どこからやって来たわけでもないの」%K%P
+Izumi「It's not that these memories came from somewhere.」%K%P
+0x5C0
+いづみ「私達の脳は、４月６日のあの時間に、とどまったままなのよ」%K%P
+Izumi「Our brains are remaining at that time on April 6th.」%K%P
+0x5D4
+いづみ「つまり私達は……」%K%P
+Izumi「In other words, we...」%K%P
+0x5E0
+いづみ「──タイムスリップなんか、していなかったの！」%K%P
+Izumi「―Never time traveled!」%K%P
+0x5EC
+誠「……なっ、なにを今さらっ」%K%P
+Makoto「... Wh-What are you saying now-」%K%P
+0x600
+いづみ「ねえ？　誠くん？」%K%P
+Izumi「Hey? Makoto-kun?」%K%P
+0x60C
+いづみ「ひょっとしたらこの現実は……誰かの妄想の中の出来事かも、しれないよね？」%K%P
+Izumi「Perhaps this reality... might be an event in someone's%Ndelusion.」%K%P
+0x618
+誠「妄想の、中？」%K%P
+Makoto「In a delusion?」%K%P
+0x624
+いづみ「誠くんにとっては、誠くんの中に芽生えた妄想で……私にとっては、私の中に芽生えた妄想……」%K%P
+Izumi「To you, it's a delusion that sprouted within you... To me,%Nit's a delusion that spouted within me...」%K%P
+0x630
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x63C
+いづみ「いい？　私はさっきから『誠くんが過去に戻った』なんて、ひとことも言ってないよね？」%K%P
+Izumi「All right? I never said earlier that 'Makoto-kun went back%Nto the past', did I?」%K%P
+0x648
+いづみ「『過去に戻りたい』という強い思念が、誠くんの中にあった現実を『歪めた』って……そう言っただけでしょ？」%K%P
+Izumi「I only said that your strong desire to go back to the%Npast 'warped' the reality within you... Isn't that right?」%K%P
+0x654
+誠「………」%K%P
+Makoto「...」%K%P
+0x660
+いづみ「誠くんは、私が死ぬ光景を目撃して『過去に戻りたい』と強く願った」%K%P
+Izumi「Makoto-kun, when you witnessed the scene of my death,%Nyou strongly wished 'I want to go back to the past'.」%K%P
+0x66C
+いづみ「だけどその想いは、誠くんの意識を『過去に戻した』んじゃなくて、理想の過去を『追想、妄想させた』だけなんじゃないかしら？」%K%P
+Izumi「But I wonder if it instead, that thought of yours made you%N'reminisce in a delusional way' about an ideal past,%Nrather than taking your consciousness 'back to the%Npast'.」%K%P
+0x678
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x684
+いづみ「『観察者の意思が、過去の事実を決める』」%K%P
+Izumi「'The observer's intention decides the facts of the past.'」%K%P
+0x690
+いづみ「シュレディンガーの猫のような現象が、もしも日常的に私達の身の回りに起こっているとしたら……」%K%P
+Izumi「What if we assume a phenomenon like Schrödinger's cat%Nroutinely happens in our daily lives...?」%K%P
+0x69C
+いづみ「『誰かの強い願望が、過去の事実を変えてしまう』……そんなことも、あり得ない話じゃないと思うの」%K%P
+Izumi「'Someone's strong wish completely changes the facts%Nof the past'... Also consider that that isn't an impossible%Nstory.」%K%P
+0x6A8
+いづみ「事実、キャビン博士はそういった現象を、実際に体験してるわけだし……」%K%P
+Izumi「In fact, Dr. Cabin has actually experienced a%Nphenomenon described as such...」%K%P
+0x6B4
+誠「………」%K%P
+Makoto「...」%K%P
+0x6C0
+いづみ「でもね？」%K%P
+Izumi「But you know what?」%K%P
+0x6CC
+いづみ「それはなにも『過去にタイムスリップして歴史を変えてしまう』っていう意味なんかでは、決してないの」%K%P
+Izumi「It's doesn't mean something like 'You time travel into the%Npast and end up changing history'.」%K%P
+0x6D8
+いづみ「『妄想したその瞬間に過去を変えてしまう』……そういう意味なのよ」%K%P
+Izumi「'You change the past the moment you have a delusion'...%NThat's what it means.」%K%P
+0x6E4
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x6F0
+いづみ「要するに誠くんは、私が死ぬ光景を見たその瞬間……『そうはならない別の可能性』を、妄想したということ」%K%P
+Izumi「In short, the instant you witnessed the scene of my%Ndeath, you had the delusion of 'a different possibility%Nwhere it didn't turn out like this.'」%K%P
+0x714
+いづみ「ううん、もっと正確に言うと……」%K%P
+Izumi「No, to be more accurate...」%K%P
+0x720
+いづみ「『そうはならない別の可能性』を、妄想『している』ということなの」%K%P
+Izumi「You're 'having' the delusion of 'a different possibility%Nwhere it didn't turn out like this.'」%K%P
+0x72C
+誠「じゃあ今……%T030オレの目の前にある現実は……」%K%P
+Makoto「Then, right now... the reality I see before my eyes is...」%K%P
+0x740
+いづみ「──そう！　──誠くんの妄想の中の出来事に過ぎないのよ！」%K%P
+Izumi「―Yes! ―It's nothing more than an event in your%Ndelusion, Makoto-kun!」%K%P

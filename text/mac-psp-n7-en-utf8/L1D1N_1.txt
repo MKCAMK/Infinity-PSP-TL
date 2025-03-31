@@ -1,0 +1,405 @@
+text area offset and size:
+0xD68
+0x1CFC
+0x88
+いづみ「さっ、できたわよぉ〜」%K%P
+Izumi「All right, it's ready〜!」%K%P
+0x9C
+と言っていづみさんが運んできた料理の数々は、見ただけでも絶品とわかる出来栄えだった。%K%P
+As Izumi-san says this, she places down many different%Ndishes. I can see just by looking that they're all of%Nsuperb quality.%K%P
+0xA8
+アツアツのパンプキンスープからは、とろけるようにまろやかで濃厚な香りが……%K%P
+There is a charming, rich aroma coming from the steaming%Npumpkin soup...%K%P
+0xB4
+イタリアンサラダに添えられたドレッシングからは、ガーリックとオリーブオイルの芳じゅんな香りが……%K%P
+The Italian salad is garnished with dressing, and the%Nplates of garlic and olive oil have an amazing smell...%K%P
+0xC0
+そして魚介類をふんだんに盛り込んだパエリアからは、ブイヤベースのあの独特の磯の香りが立ち昇っている。%K%P
+There are a wide variety of fish included with the paella,%Nmany adorned with the characteristic seashore scent%Nof bouillabaisse.%K%P
+0xCC
+早くも、オレの口の中には溢れんばかりの唾液が込み上げてきていた。%K%P
+My mouth quickly begins to water like crazy as I breathe%Nin those delicious scents.%K%P
+0xD8
+誠「いっただっきま〜す！」%K%P
+Makoto「Let's eat!」%K%P
+0xE4
+早速、アツアツのパンプキンスープをひとさじ、口に含んでみる。%K%P
+I instantly begin to stuff my face with the steaming%Npumpkin soup.%K%P
+0x128
+誠「うぅぅぅっ……」%K
+Makoto「Ooooooh...!」%K
+0xD28
+そのまま失神してしまうかと思った
+It feels like I'm going to faint.
+0xD34
+そのまま失神してしまった
+Faint.
+0x170
+誠「うぅぅぅっ……」%K%P
+Makoto「Ooooooh...!」%K%P
+0x17C
+そのまま失神してしまうかと思った。%K%N
+It feels like I'm going to faint.%K%N
+0x188
+美味すぎて……。%K%P
+It's too damn good...%K%P
+0x194
+昼に優夏が作った料理（あれが料理と呼べるなら）と比べると、雲泥の差だった。%K%P
+There's a world of difference between this and the food%NYuka made for lunch (if you could call that food).%K%P
+0x1A0
+こんなにも美味しく感じてしまうのは、あるいはそのギャップのせいなのかもしれない。%K%P
+The difference between the two is overwhelming.%K%P
+0x1AC
+誠「いづみさん、これ最高だよ！」%K%P
+Makoto「Izumi-san, this is amazing!」%K%P
+0x1B8
+感きわまって叫ぶオレ。%K%P
+I eagerly shout this.%K%P
+0x21C
+そのまま失神してしまった。美味すぎて……。%K%P
+I'm fainting. It's too damn good...%K%P
+0x228
+オレは、しばらくの間意識を失っていたが、やがてみんなに介抱される。%K%P
+I pass out momentarily, and before long, I wake up to the%Nsight of the others hovering over me.%K%P
+0x234
+いづみ「だ、大丈夫？　誠くん」%K%P
+Izumi「A-Are you all right, Makoto-kun?」%K%P
+0x248
+誠「あ、いや……大丈夫です。いづみさんの料理が想像以上に美味かったから、つい……」%K%P
+Makoto「Oh, yeah, I'm all right. It's just that your food was tastier%Nbeyond my imagination...」%K%P
+0x25C
+優夏「普通、そこまでオーバーなリアクションする〜？　%Nなーんか、ワザとらしい……」%K%P
+Yuka「Aren't you overreacting? It seems kinda contrived...」%K%P
+0x268
+優夏が呆れ顔でオレに非難を浴びせる。%K%P
+Yuka looks stunned.%K%P
+0x274
+お前に食べさせられた料理の後だから、なお更なんだよ！%K%P
+Well, after making me eat that crap you call food, this is%Nlike a feast cooked by the gods!%K%P
+0x280
+オレは心の中で、そう付け加えるのを忘れなかった。%K%P
+I didn't say that, but I sure as hell thought of it.%K%P
+0x29C
+いづみ「なーんだ。%W%W私てっきり、ちょっと日付のたったお野菜使ったから、食あたりしたのかと思っちゃった」%K%P
+Izumi「Oh, so that's all. I thought for certain that because I%Nused a few expired vegetables, you had gotten food%Npoisoning.」%K%P
+0x2A8
+………………！！%K%P
+...!!%K%P
+0x2B4
+オレたちはその言葉に戦慄を覚えた。%K%P
+Those words make us all shudder.%K%P
+0x2C0
+誠「い……%W%Wいづみさん……。%W%W%Wそれ、本当？」%K%P
+Makoto「I... Izumi-san... Is that true?」%K%P
+0x2CC
+億彦などは顔が引きつり、情けない表情を浮かべている。%K%P
+Okuhiko's face twitches with a frightened expression.%K%P
+0x2E0
+いづみ「い……いや〜ね！　冗談よ冗談！%Nも〜、みんな真に受けたらダメよ〜」%K%P
+Izumi「N... No! I'm just kidding! Geez, it's no good if you all take me%Nseriously.」%K%P
+0x2EC
+いづみさんはパタパタと手を振りながら、必死に弁解する。%K%P
+Izumi-san frantically waves her hands, desperately%Ntrying to explain herself.%K%P
+0x308
+優夏「なーんだ、いづみさん冗談きついなー！　私、おかわりまでしちゃったのに」%K%P
+Yuka「Come on, don't scare me like that, Izumi-san! I even had%Nseconds!」%K%P
+0x314
+安心しろ。優夏の鉄の胃袋だったら、そのくらい屁のカッパだ。%K%P
+Well, with your iron stomach, you have nothing to fear.%K%P
+0x330
+くるみ「お姉ちゃーん、趣味悪〜い！」%K%P
+Kurumi「Onee-chan, you've got a sick mind!」%K%P
+0x33C
+くるみが口を尖らせて抗議する。%K%P
+Kurumi pouts in protest.%K%P
+0x350
+いづみ「もぉ〜、悪かったわよ……。ゴメンね、みんな」%K%P
+Izumi「Geez, I know that was wrong... I'm sorry, everyone.」%K%P
+0x35C
+誠「もういいよ、いづみさん。でもこの料理、マジで最高だよ！」%K%P
+Makoto「It's fine. But this cooking is seriously the best I've ever%Nhad!」%K%P
+0x368
+フォローも兼ねて、そう言うオレ。%K%P
+I try to back her up.%K%P
+0x38C
+いづみ「よかったぁ、喜んでもらえて」%K%P
+Izumi「I'm so glad that you like it.」%K%P
+0x398
+いづみさんは、オレ達の食べる姿を嬉しそうに見守っていた。%K%P
+Izumi-san happily watches us eat.%K%P
+0x3B4
+優夏「これなら、さすがの沙紀だって%N文句はないでしょ？」%K%P
+Yuka「With this, even you can't complain, right, Saki?」%K%P
+0x3C0
+と、沙紀に向かって声をかける優夏。%K%P
+Yuka then speaks to Saki.%K%P
+0x3DC
+沙紀「う〜ん、まあ……悪くはないわね」%K%P
+Saki「Hmm, well... it's not bad.」%K%P
+0x3E8
+そう言ってるわりには、すごい勢いで、次から次へと料理を口に運んでいる。%K%N
+As she says this, she eats seconds after seconds%Nenthusiastically.%K%N
+0x3F4
+ピザも来なかったことだし、もしかしたら昼ゴハンを食べていないのかもしれない。%K%P
+Since her pizza never arrived, she might not have eaten%Nany lunch.%K%P
+0x400
+その沙紀の豪快な食べっぷりに、いづみさんはいかにも満足そうだった。%K%P
+As Saki is eating heartily, Izumi-san is indeed satisfied.%K%P
+0x41C
+オレの斜め前には、遙とくるみが並んで座っている。%K%P
+Diagonally from me, Haruka and Kurumi are sitting next to%Neach other.%K%P
+0x428
+くるみ「ね？　お姉ちゃんの作った料理って最高でしょ？」%K%P
+Kurumi「Hey? Isn't Onee-chan's cooking the best?」%K%P
+0x434
+くるみはにこやかに、隣の遙に問いかけた。%K%P
+The smiling Kurumi asks Haruka this.%K%P
+0x440
+すると……%K%P
+Just then...%K%P
+0x45C
+……遙はふいに動きを止め、
+... Haruka suddenly stops moving,
+0x484
+そして静かに、右手に持ったスプーンを皿の上へと戻した。%K%P
+and then quietly places the spoon in her right hand on%Ntop of the plate.%K%P
+0x490
+とたんに静まり返る一同……。%K%P
+All of us fall silent...%K%P
+0x49C
+誠「どうしたんだ、遙？」%K%P
+Makoto「What's wrong, Haruka?」%K%P
+0x4A8
+オレが尋ねるが、遙の唇はしっかりと閉じられたまま動かない。%K%P
+I ask her this, but Haruka's lips remain firmly shut and%Ndon't move.%K%P
+0x4B4
+くるみも不思議そうに、遙の横顔をうかがっている。%K%P
+Kurumi observes Haruka's expression with wonder.%K%P
+0x4F0
+遙「……ごめんなさい」%K%P
+Haruka「... I'm sorry.」%K%P
+0x4FC
+ささやくように小さな声がこぼれた。%K%P
+She says this in a quiet voice that's like a whisper.%K%P
+0x528
+億彦「具合でも悪いのかい？」%K%P
+Okuhiko「Are you not feeling well?」%K%P
+0x534
+億彦が心配そうに声をかける。%K%P
+Okuhiko asks this in concern.%K%P
+0x540
+遙「……う、うん」%K%P
+Haruka「... Y-Yes.」%K%P
+0x54C
+つぶやいた遙の顔色は、確かにひどかった。%K%P
+Her face certainly looks pretty pale.%K%P
+0x558
+そう言えば、ここに来たときから、遙の様子は少しおかしかったような気もする。%K%P
+Now that I think about it, when we got here, it felt like%NHaruka was acting a little weird.%K%P
+0x56C
+遙「……ほんとに……ごめんなさい」%K%P
+Haruka「... I'm really... sorry about this.」%K%P
+0x580
+遙はそう言って席を立った。%K%P
+Haruka leaves her seat as she says this.%K%P
+0x58C
+いづみ「大丈夫？」%K%P
+Izumi「Are you all right?」%K%P
+0x598
+いづみさんが不安気な表情を浮かべ、遙のかたわらに寄り添う。%K%P
+Worried, Izumi-san nestles over next to Haruka.%K%P
+0x5A4
+遙はいづみさんに抱えられるようにして、オレ達のいる大テーブルから最も離れた位置……カウンターの一番隅っこのイスに、静かに腰をかけた。%K%P
+Haruka leans on Izumi-san's arm as she is led far away%Nfrom the table... and quietly sits down in the seat at the%Nfarthest corner of the counter.%K%P
+0x5B8
+くるみ「くるみ……何かイケナイこと、言ったかなぁ……」%K%P
+Kurumi「Did... Kurumi say something wrong...?」%K%P
+0x5C4
+くるみは『どうしたらいいのかわからない』といった感じで、きょとんとしている。%K%P
+Kurumi looks puzzled, as if she doesn't know what to do.%K%P
+0x5D0
+まだあどけなさの残る大きな瞳は清らかに%N澄んでいた。%K%P
+Her bright, large eyes are still filled with innocence.%K%P
+0x608
+優夏「ははっ、そんなことないよぉ。大丈夫。くるみちゃんのせいじゃないって！」%K%P
+Yuka「Ha ha! That's not it. It's all right, Kurumi-chan, it's not your%Nfault!」%K%P
+0x61C
+優夏の優しい声音が、とりあえずはこの場の雰囲気を救ってくれた。%K%P
+Yuka's gentle voice dispels the gloomy atmosphere for%Nthe time being.%K%P
+0x678
+豪華なディナーを満喫したオレ達は、さっきと同じように、大テーブルを囲む形で座っていた。%K%P
+We returned to sitting around the huge table, fully%Nenjoying our wonderful dinner.%K%P
+0x684
+遙も気分が落ち着いたらしく、今は元の席に戻っている。%K%P
+Haruka has also calmed down, and is now sitting in her%Noriginal seat.%K%P
+0x6C8
+いづみさんは全ての後片付けを終えてから、オレ達に食後の紅茶を運んでくれた。%K
+Izumi-san clears everything away when we've finished,%Nand serves us some after-dinner black tea.%K
+0xD40
+『ここまでしてもらって、いいのかな？』
+"Is it all right to accept this?"
+0xD4C
+特に何も言わなかった
+I have nothing in particular to say.
+0x710
+いづみさんは全ての後片付けを終えてから、オレ達に食後の紅茶を運んでくれた。%K%P
+Izumi-san clears everything away when we've finished,%Nand serves us some after-dinner black tea.%K%P
+0x72C
+誠「何か、こんなにしてもらっちゃって、いいのかな？」%K%P
+Makoto「Is it all right for us to accept this?」%K%P
+0x738
+とオレは言った。%K%P
+I speak up.%K%P
+0x74C
+いづみ「だからいいんだってば！　せめてもの償いにと思って御馳走したんだから」%K%P
+Izumi「I told you, it's fine! It's the least I could do to make up for%Nearlier.」%K%P
+0x758
+いづみさんは、昼のピザの一件を指してそう言ってくれてるんだろう。%K%P
+Izumi-san's probably talking about the pizza incident.%K%P
+0x764
+だけど、沙紀に償うっていうのはよくわかるけど、オレ達に対してまで同じようなほどこしをする必要はないと思うんだが……。%K%P
+But while I can understand her repaying Saki, I don't think%Nwe deserve such hospitality...%K%P
+0x780
+いづみ「紅茶の数、足りてるよね？」%K%P
+Izumi「Is this enough tea?」%K%P
+0x78C
+いづみさんは、人数と紅茶の数を確認する。%K%P
+Izumi-san makes sure we all have teacups.%K%P
+0x798
+すると……%K%P
+Just then...%K%P
+0x7B4
+億彦「ほんとに、申し訳ないなぁ」%K%P
+Okuhiko「I'm really sorry about all the trouble.」%K%P
+0x7C0
+……と億彦。%K%P
+... Okuhiko says this.%K%P
+0x7CC
+なんだか言ってるわりには、あまり悪怯れているふうには見えないけど……。%K%P
+It doesn't seem like there's much shyness in the way he%Nsaid that...%K%P
+0x7D8
+億彦「ところでいづみさん？」%K%P
+Okuhiko「By the way, Izumi-san?」%K%P
+0x7E4
+いづみ「ん？」%K%P
+Izumi「Hmm?」%K%P
+0x7F0
+億彦「さっきは確か、こんな事を言ってましたよね？%N『夜になるとこの店はレストランを兼ねた%Nバーになる』って……」%K%P
+Okuhiko「You said this earlier, didn't you? 'When it's night time, the%Nshop is both a restaurant and a bar.'...」%K%P
+0x7FC
+いづみ「言ってたけど、それが？」%K%P
+Izumi「I did, what of it?」%K%P
+0x808
+億彦「ってことはひょっとして、今日は僕らの為に、特別に早く店を閉めてくれたんですか？」%K%P
+Okuhiko「Then could it be that you closed the shop earlier today%Nfor us?」%K%P
+0x81C
+いづみ「えっ？」%K%P
+Izumi「Huh?」%K%P
+0x828
+そう言えばそうだ。%K%P
+Now that he mentions it, he's right.%K%P
+0x834
+オレ達が食事をしている間、客は１人も訪れていないし……。%K%P
+In the time it took us to eat, there hasn't been a single%Ncustomer...%K%P
+0x840
+誠「じゃあ、わざわざ貸し切りにしてくれたんだぁ」%K%P
+Makoto「Then does that mean you reserved the place just for%Nus?」%K%P
+0x864
+くるみ「きゃははははっ！　ちがうちがうっ！」%K%P
+Kurumi「Kyahahahaha! Wrong, wrong!」%K%P
+0x870
+いきなりくるみが腹を抱えて笑い出した。%K%P
+Kurumi suddenly bursts out into laughter, holding her%Nsides.%K%P
+0x87C
+くるみ「今だって、全然営業中だってば！　うちの店ではこれが普通なの！」%K%P
+Kurumi「We've been completely open this whole time! This is%Nnormal for the shop!」%K%P
+0x888
+くるみ「つまり、開店休業状態ってこと」%K%P
+Kurumi「In other words, we're open, but not getting any business.」%K%P
+0x89C
+いづみ「まあ……夜はね」%K%P
+Izumi「Well... it is night.」%K%P
+0x8B0
+くるみ「夜は、って……昼間だって、あんまりお客さん来ないじゃな〜い？」%K%P
+Kurumi「True... but we don't get many customers even during the%Nday, you know?」%K%P
+0x8BC
+いづみ「まあ……シーズンオフだからね」%K%P
+Izumi「Well... it's off season.」%K%P
+0x8C8
+いづみさんはちょっときまりが悪そうだった。%K%P
+Izumi-san doesn't look happy to admit it.%K%P
+0x8E4
+沙紀「でもこの味で繁盛してないっていうのも、何か不思議な気がするけど……？」%K%P
+Saki「But it's strange that this place doesn't get much%Nbusiness in spite of the great food...」%K%P
+0x8F8
+くるみ「みんな取られちゃうんだよ……月屋に」%K%P
+Kurumi「That's because almost everyone goes to... Tsukiya.」%K%P
+0x904
+沙紀「『月屋』？」%K%P
+Saki「'Tsukiya'?」%K%P
+0x910
+くるみ「ほら、ここからでも見えるでしょ？　あのデッカイ建物！」%K%P
+Kurumi「You can see it from here. It's that huge building!」%K%P
+0x91C
+くるみの指差した方向を見ると、そこには確かに、暗闇の中に煌々（こうこう）と明かりを灯した白亜の建造物があった。%K%P
+Looking in the direction Kurumi's pointing, we can see a%Nbrightly lit white wall structure in the darkness.%K%P
+0x928
+くるみ「あれが月屋ホテル。この店の商売敵ってわけ」%K%P
+Kurumi「That's Tsukiya Hotel. It's this shop's main competition.」%K%P
+0x934
+誠「ふーん……」%K%P
+Makoto「Hmm...」%K%P
+0x940
+くるみ「見た感じは豪華に見えるけど、%N実はけっこう庶民的なホテルなの」%K%P
+Kurumi「It may look extravagant, but it's actually an%Neconomically priced hotel.」%K%P
+0x94C
+くるみ「最上階にある展望レストランは、ここよりも断然値段が安いし、それに見晴らしも最高で……」%K%P
+Kurumi「On the top floor is a viewpoint restaurant, which is not%Nonly cheaper than here, but the view is simply amazing...」%K%P
+0x958
+沙紀「だけど、品がないわね」%K%P
+Saki「But it has no dignity.」%K%P
+0x964
+たったひと言で、一刀両断して見せる沙紀。%K%P
+Saki boldly states this.%K%P
+0x970
+沙紀「ここの景観と全く合ってないもの。%Nただケバケバしいだけで……」%K%P
+Saki「The scenery here is just as good. That place is nothing%Nbut gaudy...」%K%P
+0x97C
+沙紀「ああいうのを『虚飾』っていうのよ」%K%P
+Saki「All they have is what's called 'affectation'.」%K%P
+0x998
+いづみ「でしょ？　そうそうそうそうそうなのよ！」%K%P
+Izumi「Right? That's very very very very true!」%K%P
+0x9AC
+いづみ「さすが沙紀ちゃん、見る目あるねぇ！」%K%P
+Izumi「Impressive, Saki-chan. You have a good eye!」%K%P
+0x9B8
+いづみさんが、ここぞとばかりに加勢する。%K%P
+Izumi-san showers Saki with praise.%K%P
+0x9CC
+沙紀「……いや、だからって私は、何もこの店を弁護して言ってるわけじゃないからね？」%K%P
+Saki「... No, it's not like I'm defending this shop of anything.」%K%P
+0x9D8
+けれど、その言葉はどうも、オレには本心であるとは思われない。%K%P
+However, it's obvious she's lying.%K%P
+0x9E4
+人に賛成されることを嫌い、故意にヒラリと身をかわす……。%K%P
+She dislikes being agreed with, so she's denying it...%K%P
+0x9F0
+きっと、そんなアマノジャクな性格なのだろう、沙紀という子は。%K%P
+She's definitely just the kind of person who says the%Nopposite of what she means.%K%P
+0xA04
+一方、いづみさんは、ほがらかな笑みを%N浮かべながら、ティースプーンを%N両手でいじっている。%K%P
+Izumi-san smiles cheerfully as her hands fiddle with a%Nteaspoon.%K%P
+0xA10
+沙紀の言葉の真意を、いづみさんはちゃんと理解しているのだ。%K%P
+She seems to understand the true meaning behind%NSaki's words.%K%P
+0xA2C
+くるみ「それに、温水プールだって%Nついてるんだからぁ！」%K%P
+Kurumi「Besides, they've got a heated pool there as well!」%K%P
+0xA38
+ひとりムキになっているのは、くるみだけだった。%K%P
+Kurumi's seems to be the only serious one here.%K%P
+0xA44
+その場違いな発言を受けて、あたりからは自然と笑い声がわきあがった……。%K%P
+Immediately after hearing that random statement, we all%Nspontaneously laugh out loud...%K%P

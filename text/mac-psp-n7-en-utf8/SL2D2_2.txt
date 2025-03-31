@@ -1,0 +1,309 @@
+text area offset and size:
+0x6D0
+0x14B2
+0x74
+沙紀は診療所に運ばれ、オレの記憶通りの診断をされた。%K%P
+We take Saki to the clinic, and the diagnosis is the same%Nas in my memory.%K%P
+0x80
+念の為１泊の入院というのも同じだった。%K%P
+And just like last time, she'll be staying over one night%Njust to be safe.%K%P
+0x8C
+優夏「でもよかった。一時はどうなることかと思った」%K%P
+Yuka「But I'm glad. I didn't know what would happen there for a%Nwhile.」%K%P
+0x98
+沙紀「人間ってなかなか死ねないものね」%K%P
+Saki「It seems humans can't die that easily after all.」%K%P
+0xA4
+誠「何だよ、それ！　死にたかったのかよ！」%K%P
+Makoto「What's up with that!? Did you want to die!?」%K%P
+0xB0
+沙紀「……ごめんなさい。そういう意味じゃないのよ」%K%P
+Saki「... I'm sorry. That's not what I meant.」%K%P
+0xBC
+誠「えっ？」%K%P
+Makoto「Huh?」%K%P
+0xC8
+沙紀「素直に喜べばいいのにね……。だから私、可愛くないのかな……」%K%P
+Saki「I wish I could honestly be glad... That's why I'm sure I'm not%Ncute...」%K%P
+0xD4
+誠「……………………」%K%P
+Makoto「...」%K%P
+0xE0
+沙紀「せっかく誠くんに助けてもらった命なのに……」%K%P
+Saki「Even though you went to all the trouble of saving my life,%NMakoto-kun...」%K%P
+0xFC
+誠「……ま、まあ、そうだな」%K%P
+Makoto「... W-Well, that's true.」%K%P
+0x108
+沙紀はオレを命の恩人だと思っているようだ。%K%N
+It seems Saki thinks I'm the one who saved her life.%K%N
+0x114
+まあ、確かにそういうことなのかもしれないが……。%K%P
+Well, that might be true, but...%K%P
+0x120
+しかし、こうも突然素直にされると、何だか調子が狂ってしまう。%K%P
+Her sudden honesty is throwing me a bit off balance.%K%P
+0x134
+誠「……え？」%K%P
+Makoto「... Huh?」%K%P
+0x140
+オレは激しく混乱していた。%K%P
+My mind is thrown into intense disorder.%K%P
+0x14C
+沙紀はオレを命の恩人だと思ってしまったのだ。%K%P
+Saki thinks I saved her life.%K%P
+0x158
+これでは前回の億彦と一緒じゃないか！%K%P
+This is exactly the same as with what happened with%NOkuhiko last time, isn't it?!%K%P
+0x164
+しかし、本当のことを切り出すタイミングがつかめなかった。%K%P
+But I can't find the timing to break the truth to her.%K%P
+0x170
+このままじゃ、まずいんだが……。%K%P
+If things stay like this, it'll be bad...%K%P
+0x17C
+いづみ「それよりこれからどうするの？　ずっとみんなで沙紀ちゃんについてることもなさそうだけど……」%K%P
+Izumi「More importantly, what are we going to do now? It%Ndoesn't seem like we can all stay here with Saki-chan%Nthe whole time...」%K%P
+0x188
+いづみ「とりあえずうちの店で落ち着かない？　沙紀ちゃんの方は……そうだ。くるみ、ついててあげて？」%K%P
+Izumi「Anyway, why don't we head back to my shop to settle%Ndown? As for Saki-chan... I know. Kurumi, stay with her.」%K%P
+0x194
+くるみ「えっ？　くるみだけ？」%K%P
+Kurumi「Huh? Just Kurumi?」%K%P
+0x1A0
+いづみ「たまには人の役に立ちなさい。ほら、沙紀ちゃんにはちゃんとピザを届けられなかったんだから、罪ほろぼし」%K%P
+Izumi「You need to be helpful to others every once in a while.%NThink of it as atonement for failing to deliver the pizza to%NSaki-chan.」%K%P
+0x1AC
+くるみ「あーっ、そんなのないよ。あれはくるみのせいじゃないのに……」%K%P
+Kurumi「Ah―, no fair. Even though that wasn't Kurumi's fault...」%K%P
+0x1B8
+いづみ「お姉ちゃんの言うこときけないの？」%K%P
+Izumi「You're not going to listen to your sister?」%K%P
+0x1C4
+くるみ「……すぅぐそうやって……。わかったよ、もう」%K%P
+Kurumi「... Why'd you have to put it that way... Kurumi gets it, geez.」%K%P
+0x1D0
+誠「待ってください。オレが残りますよ！」%K%P
+Makoto「Please wait a minute. I'll stay here!」%K%P
+0x1DC
+オレはそう告げた。%K%P
+I announce this.%K%P
+0x1E8
+沙紀のそばに……いたかったから……。%K%P
+Because I want to be... by Saki's side...%K%P
+0x1F4
+それに、確かめたいこともあるのだ。%K%P
+And besides, there's also something I want to confirm.%K%P
+0x200
+沙紀「いいわよ、わざわざ私についてなんかなくて」%K%P
+Saki「It's fine, you don't have to stay here just for me.」%K%P
+0x20C
+誠「沙紀が心配することじゃないんだよ。オレがただここにいたいだけなんだから」%K%P
+Makoto「I'm not worried about you, Saki. I just want to stay here.」%K%P
+0x218
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x224
+いづみ「じゃ、お願いしちゃおっか？　誠くんに」%K%P
+Izumi「Well then, I guess we'll leave it to you, Makoto-kun.」%K%P
+0x230
+いづみさんの言葉にみんながうなずいた。%K%P
+Everyone nods at Izumi-san's words.%K%P
+0x280
+そうしてみんなが帰った後、オレは沙紀と向き合った。%K%P
+And after everyone leaves, Saki and I face each other.%K%P
+0x28C
+沙紀はどこか恥ずかしげにオレを見上げた。%K%N
+She believes that I saved her life.%K%N
+0x298
+オレを恩人だと信じている目だ。%K%P
+I can tell by the embarrassed way she's looking at me.%K%P
+0x2A4
+人のことなど信じられないと強がってきた沙紀だが、本当は信じたくて仕方がないのだ。%K%P
+Saki says she can't trust people and acts tough, but%Nshe really can't help but want to trust them.%K%P
+0x2B0
+自分をまるごと受けとめてくれる愛が欲しいに違いないのだ。%K%P
+It's no different than someone who's pining for love.%K%P
+0x2BC
+オレは記憶の中の沙紀を思い出しながら、鈴を巡っての遙との関係を明らかにしようとした。%K%P
+As I remember the Saki in my memories, I decide to try to%Nfinally have her reveal her connection to Haruka and the%Nbell.%K%P
+0x2EC
+誠「ところで、沙紀？　あのとき遙と何を話してたんだ？」%K%P
+Makoto「By the way, what were you talking to Haruka about at%Nthat time?」%K%P
+0x2F8
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x304
+誠「高波が来る前だよ。遙になんだか話しかけられてただろ？」%K%P
+Makoto「Just before the monstrous wave hit, you were talking%Nwith Haruka, right?」%K%P
+0x310
+誠「それで、沙紀が逃げるように防波堤を走って行って……」%K%P
+Makoto「After that, you ran all the way towards the tip of the pier...」%K%P
+0x31C
+沙紀「あ、あの……遙ちゃんに何か聞いたの？」%K%P
+Saki「U-Um... did you hear something from Haruka-chan?」%K%P
+0x328
+誠「そうじゃないけど……心配なんだ」%K%P
+Makoto「No, but... I'm worried.」%K%P
+0x334
+沙紀「遙ちゃんのこと？」%K%P
+Saki「About Haruka-chan?」%K%P
+0x340
+誠「沙紀のことがだよ！　何言ってるんだ……」%K%P
+Makoto「About you! What are you saying...?」%K%P
+0x34C
+沙紀「どうして？」%K%P
+Saki「Why?」%K%P
+0x358
+誠「えっ？」%K%P
+Makoto「Huh?」%K%P
+0x364
+沙紀「どうして私のことなんかが？」%K%P
+Saki「Why are you worried about me?」%K%P
+0x370
+誠「……どうしてもだ！」%K%P
+Makoto「... It doesn't matter!」%K%P
+0x37C
+沙紀「誠くん……」%K%P
+Saki「Makoto-kun...」%K%P
+0x388
+誠「オレに……話してくれないか？」%K%P
+Makoto「You... won't tell me?」%K%P
+0x394
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x3BC
+オレはポケットから鈴を取り出した。%K%P
+I take the bell out of my pocket.%K%P
+0x3C8
+沙紀の顔色が変わるのがわかった。%K%P
+I notice Saki's face turning pale.%K%P
+0x3D4
+誠「この鈴が何か関係があるんだろ？　オレにはわかるんだ……」%K%P
+Makoto「This bell means something to you, doesn't it? I at least%Nknow that much...」%K%P
+0x3E0
+リンリンとオレは鈴を鳴らした。%K%P
+I ring the bell.%K%P
+0x3EC
+沙紀はオレが思った通りの反応を示した。%K%P
+Just as I expected, Saki reacts to it.%K%P
+0x3F8
+鈴から目をそらし、ブルブルと全身を震わせている。%K%P
+She averts her gaze from the bell, her body visibly%Ntrembling.%K%P
+0x404
+沙紀「やめて……やめて……！」%K%P
+Saki「Stop... stop...!」%K%P
+0x410
+誠「何があったのか、教えてくれ！」%K%P
+Makoto「Tell me what happened!」%K%P
+0x41C
+沙紀「イヤッ……イヤッ……！」%K%P
+Saki「No... No...!」%K%P
+0x454
+オレは沙紀を思い切り抱き寄せた。ギュッと腕に力を込める。%K%P
+I embrace Saki as hard as I can.%K%P
+0x460
+誠「心配するな……。オレがついてる」%K%P
+Makoto「Don't worry... I'm here.」%K%P
+0x46C
+沙紀「……誠くん」%K%P
+Saki「... Makoto-kun.」%K%P
+0x478
+誠「オレが信じてる」%K%P
+Makoto「I trust you.」%K%P
+0x484
+震えながら沙紀は小さくうなずいた。%K%P
+The trembling Saki gives a small nod.%K%P
+0x498
+沙紀「子供の頃ね？　別荘の裏に炭焼き小屋があって、そこには私と同じ位の女の子がいたの。お父さんと２人だけで暮らしてた」%K%P
+Saki「When I was a kid, there was this charcoal burning hut%Nbehind my summer house where a girl about my age lived.%NThe only ones that lived there were her and her father.」%K%P
+0x4A4
+沙紀「その子と私は仲良くなって鈴をあげたの。ママからもらった鈴を……」%K%P
+Saki「That girl and I became good friends, and I gave her a%Nbell. It was a bell I got from my Mama...」%K%P
+0x4B0
+誠「それが、これか……？」%K%P
+Makoto「And this is that bell...?」%K%P
+0x4BC
+沙紀「わからない。だけどそっくりなのよ」%K%P
+Saki「I don't know. But it's the spitting image of it.」%K%P
+0x4C8
+誠「そっくり？」%K%P
+Makoto「Spitting image?」%K%P
+0x4D4
+沙紀「そうしたらママがすごく怒って、取り返してきなさいって。１度あげたものだから、そんなのやだって言ったら、今度はパパが……」%K%P
+Saki「When I did that, Mama got really angry at me, and told me,%N'Get it back!'. That was the only thing I had given the girl,%Nso I told Mama I wouldn't do it. Then my Papa...」%K%P
+0x4E0
+誠「何て言ったんだ？」%K%P
+Makoto「What did he say?」%K%P
+0x4EC
+沙紀「ママの言うこと聞けないなら、うちの子じゃない。炭焼き小屋の子供になればいい」%K%P
+Saki「'If you don't listen to what your Mama says, then you're%Nnot my daughter.' That I might as well join the girl in the%Ncharcoal burning hut.」%K%P
+0x4F8
+誠「…………」%K%P
+Makoto「...」%K%P
+0x504
+沙紀「だから私……ママと一緒に取り返しに行った。すごい抵抗するその子から取り上げるように奪い返して、それでも追いかけて来るから私……」%K%P
+Saki「That's why I... went to get it back together with Mama. The%Ngirl tried to chase after me when we retrieved it, acting%Nlike we were thieves...」%K%P
+0x510
+沙紀「ママに言われて……石を投げたの。何度も、何度も……。その子、額の左側から血を流して……。怖かった、怖かったのよ。それなのに！！」%K%P
+Saki「Mama told me to throw stones at her... so I did, over and%Nover again. She was bleeding heavily from the left side%Nof her forehead. I was scared. I was really scared. But...!!」%K%P
+0x51C
+沙紀「ママは言うのよ……『それでいい、それでいい』って……。『クローンなんかと絶対仲良くなっちゃいけません』『情けもかけちゃいけません』って……」%K%P
+Saki「Despite that, Mama told me... 'It's all right, it's all right'...%N'You absolutely mustn't be friendly with clones.' 'You%Nmustn't sympathize with her'...」%K%P
+0x528
+誠「クローン……」%K%P
+Makoto「A clone...」%K%P
+0x534
+沙紀「その子はクローンだったの。まだ法律で認められてない頃だったから、隠れるように住んでたのよ」%K%P
+Saki「That girl was a clone. At that time, the Clone Law hadn't%Nbeen passed yet, so they were living in hiding.」%K%P
+0x540
+沙紀「あの遙って子……額の左側に、傷があった……。そして何よりも、その『鈴』を持ってた！　だから、だから、私！！」%K%P
+Saki「That girl, Haruka... she has a scar on the left side of her%Nforehead... And more than anything, she has that bell!%NThat's why, that's why, I-!!」%K%P
+0x54C
+誠「また取り上げたのか？」%K%P
+Makoto「You took it again?」%K%P
+0x558
+沙紀「……怖かったの、それだけなのよ」%K%P
+Saki「... I was just scared.」%K%P
+0x564
+誠「だけど、その子は本当に遙なのか？」%K%P
+Makoto「But was that girl really Haruka?」%K%P
+0x570
+沙紀「……わからない。もう名前も思い出せなくて……思い出したくないの！」%K%P
+Saki「... I don't know. I can't remember her name anymore... I don't%Nwant to remember!」%K%P
+0x57C
+誠「沙紀……。確かめよう。遙とちゃんと話して確かめよう」%K%P
+Makoto「Saki... Try to confirm it. Have a proper chat with Haruka%Nand try to confirm it.」%K%P
+0x588
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x594
+誠「沙紀？」%K%P
+Makoto「Saki?」%K%P
+0x5A0
+沙紀「イヤッ……遙と会うなんて……。本当は顔を見るのも怖いの……」%K%P
+Saki「No... I can't meet with Haruka... The truth is, I get scared%Nwhenever I see her face...」%K%P
+0x5AC
+誠「そうか……わかった。だったら、後はオレに任せろ」%K%P
+Makoto「I see... I understand. Leave the rest to me.」%K%P
+0x5B8
+沙紀「えっ？」%K%P
+Saki「Huh?」%K%P
+0x5C4
+誠「オレが確かめてやるよ」%K%P
+Makoto「I'll do it.」%K%P
+0x5D0
+沙紀は不安げにオレを見つめていた。%K%P
+Saki looks at me with unease.%K%P
+0x5DC
+そんな沙紀に向かって、オレは力強くこう言った。%K%P
+I look into Saki's eyes, and speak with a firm voice.%K%P
+0x5E8
+誠「大丈夫……心配するな。オレを信じてくれ！」%K%P
+Makoto「It's fine... don't worry. Trust me!」%K%P
+0x5F4
+誠「オレも沙紀を……沙紀だけを信じ続けるから！」%K%P
+Makoto「And I'll also continue... to only trust you!」%K%P
+0x608
+沙紀は、すがるような目で、大きくゆっくりとうなずいて見せた。%K%P
+Saki stares at me with wide eyes, and nods slowly.%K%P

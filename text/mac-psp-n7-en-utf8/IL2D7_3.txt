@@ -1,0 +1,165 @@
+text area offset and size:
+0x7F0
+0x938
+0xC0
+誠「いづみさん……」%K%P
+Makoto「Izumi-san...」%K%P
+0xCC
+誠「オレ、いづみさんに話さなきゃならないことがあるんだ」%K%P
+Makoto「There's something I have to tell you, Izumi-san.」%K%P
+0xD8
+いづみ「…………うん」%K%P
+Izumi「... All right.」%K%P
+0xF4
+誠「あの日……星空の下で言ってくれた言葉の返事を、%K今、%W%Wするよ」%K%P
+Makoto「Right now... I have my answer to what you told me that%Nnight, so here it is...」%K%P
+0x100
+誠「今……%W%W%Wここで……」%K%P
+Makoto「Right here... right now...」%K%P
+0x11C
+誠「オレも……%Kいづみさんのこと……%K好きだよ」%K%P
+Makoto「Izumi-san... I... love you too.」%K%P
+0x128
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0x134
+誠「『恋の岬で想いを告げて、%K%N愛の入り江で想いを遂げる』」%K%P
+Makoto「'Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love.'」%K%P
+0x148
+いづみ「覚えてて……%W%W%Wくれたんだ……」%K%P
+Izumi「You... remembered...」%K%P
+0x154
+誠「…………」%K%P
+Makoto「...」%K%P
+0x168
+いづみさんは、オレの返事を待たなかった。%K%N
+Izumi-san doesn't wait for my reply.%K%N
+0x174
+いきなり傘を投げ出して……%K%P
+She suddenly throws aside the umbrella...%K%P
+0x1FC
+誠「…………」%K%P
+Makoto「...」%K%P
+0x208
+……くちびるを……%W%W%W重ねた。%K%P
+... and kisses me... on the lips.%K%P
+0x214
+誠「いづみ……%W%W%Wさん……」%K%P
+Makoto「Izumi... san...」%K%P
+0x220
+女神の……%W%W%W優しいくちづけ……。%K%P
+This is the goddess'... gentle kiss...%K%P
+0x22C
+オレ達の想いは……%T060今……%T060遂げられたのだ。%K%P
+We're currently... carrying out... our feelings.%K%P
+0x378
+誠「いづみさん……%W%W%Wごめん♪」%K%P
+Makoto「Izumi-san... sorry♪」%K%P
+0x38C
+いづみ「……え！？」%K%P
+Izumi「... Huh!?」%K%P
+0x398
+誠「オレ、いづみさんのこと、裏切っちゃった♪」%K%P
+Makoto「I betrayed you♪」%K%P
+0x3A4
+いづみ「どういう……%W%W%Wこと？」%K%P
+Izumi「What do... you mean?」%K%P
+0x3B0
+誠「ははっ、ははっ、はははははっ…………」%K%P
+Makoto「Ha ha, ha ha, ha ha ha ha ha...」%K%P
+0x3BC
+いづみ「……………………」%K%P
+Izumi「...」%K%P
+0x3D0
+肩を震わすいづみさん。%K%P
+Izumi-san's shoulders shake.%K%P
+0x3DC
+オレは……オレは……%K%P
+I... I...%K%P
+0x3FC
+──笑って誤魔化すしかなかったんだぁ！%K%P
+―All I can do is continue to fake laughing.%K%P
+0x408
+すると……。%K%P
+Just then...%K%P
+0x42C
+くるみ「うっそぴょ〜〜〜ん♪」%K%P
+Kurumi「Fooled you♪」%K%P
+0x454
+誠「どぅわぁぁぁぁぁぁっ〜〜〜〜〜！！！！！」%K%P
+Makoto「UWAAAAAA〜〜〜〜〜!!!!!」%K%P
+0x460
+オレは心臓が飛び出すくらい驚いた。%K%P
+My heart nearly leaps out of my chest in shock.%K%P
+0x474
+くるみ「びっくした？　%W%Wびっくした？」%K%P
+Kurumi「Were you surprised? Were you surprised?」%K%P
+0x480
+嬉々として尋ねて来るくるみ。%K%P
+Kurumi asks this gleefully.%K%P
+0x49C
+いづみ「くっ……%W%W%Wくく……」%K%P
+Izumi「Hee... hee hee...」%K%P
+0x4A8
+いづみさんは、肩を震わして……%K%N
+Izumi-san's shaking shoulders...%K%N
+0x4B4
+……笑いを堪えている？？？%K%P
+... Were because she was trying to hide her laughter???%K%P
+0x4C8
+ぞろぞろと、姿を現すみんな。%K%P
+In quick succession, everyone reveals themselves.%K%P
+0x510
+優夏も、%W%W沙紀も、%W%W遙も……みんな込み上げてくる笑いを懸命に押し殺しているかのようだ。%K%P
+Yuka, Saki, and Haruka... Everyone is laughing their guts%Nout.%K%P
+0x51C
+（こ、%W%W%Wこれっていったい、ど〜いうこと？）%K%P
+(Wh-What's going on?)%K%P
+0x528
+……オレは知らされた。%K%P
+... They then explain it to me.%K%P
+0x534
+今までの出来事は、全てくるみの企てた%N『逆の逆のそのまた逆ドッキリ』だったことが。%K%P
+All the events that have happened up until now has%Nbeen planned by Kurumi, in her "Twisty Twist With Yet%NAnother Twist Candid Camera-esque Plan".%K%P
+0x540
+つまり『億彦を騙すために合宿を延長したこと』も……%K%P
+In other words, "Extending the lodge in order to deceive%NOkuhiko" was part of it...%K%P
+0x54C
+『くるみが途中で抜けてしまったこと』も……%K%N
+"Kurumi leaving after the first day" was part of it...%K%N
+0x558
+『優夏、遙、沙紀の３人が、次々と誘惑してきたこと』も……%K%P
+"Yuka, Haruka, and Saki tempting Makoto one by one"%Nwas part of it...%K%P
+0x564
+──全て計画的な事柄だったのだ！！%K%P
+―Everything was planned out!!%K%P
+0x570
+ただし、億彦だけはそれを知らされず、マジで騙されていたらしい。%K%P
+However, Okuhiko was the only one who didn't know%Nabout this, so he really was being deceived.%K%P
+0x57C
+つまり、この４日間、２本のドッキリが同時に進行していたということだ。%K%P
+In other words, there had been two Candid%NCamera-esque plans going on simultaneously in the%Npast four days.%K%P
+0x588
+茫然と立ち尽くすオレ。%K%N
+I stand there completely dumbfounded.%K%N
+0x594
+まるで、昨夜の億彦のように……。%K%P
+I'm just like Okuhiko last night...%K%P
+0x5B8
+ふと、まだ笑い続けているいづみさんの姿が目に止まった。%K%P
+Suddenly, as they continue to laugh, Izumi-san catches%Nmy attention.%K%P
+0x5C4
+目には涙が浮かんでいる。%K%P
+There are tears in her eyes.%K%P
+0x5D0
+そ、そんなに、今のオレの姿って、%N可笑しいのか！？%K%P
+I-Is how I look right now really that funny!?%K%P
+0x5DC
+……しかし、その笑い顔の奥に、%N何だかもの哀しい陰りが見え隠れするのは%N気のせいだろうか……？%K%P
+... But within her face, I see a twinge of sorrow appearing%Nand disappearing. Is it just my imagination...?%K%P
+0x5F0
+その時、いづみさんの手から『鈴』がこぼれ落ちた……。%K%P
+At that moment, a "bell" falls from Izumi-san's hand...%K%P
+0x5FC
+あの『鈴』が……。%K%P
+It's that "bell"...%K%P

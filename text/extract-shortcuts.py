@@ -2,16 +2,26 @@
 # -*- coding: utf-8 -*-
 
 import sys
+import os
 import re
 
 
 def main():
 
-  text = [0x694, 0x1582]
-  text_tables = [0x0, 0x694]
+  game = os.environ["GAME"] if "GAME" in os.environ else "e17"
 
-  path = sys.argv[1] if len(sys.argv) > 1 else "SHORTCUT.SCN"
-  txtpath = sys.argv[2] if len(sys.argv) > 2 else path + ".jp.txt"
+  if game == "r11":
+    text = [0x62c, 0xf2e]
+    text_tables = [0x0, 0x62c]
+  elif game == "n7":
+    text = [0xde4, 0x2eca]
+    text_tables = [0x0, 0xde4]
+  else: # e17
+    text = [0x694, 0x1582]
+    text_tables = [0x0, 0x694]
+
+  path = sys.argv[1] if len(sys.argv) > 1 else f"SHORTCUT.SCN"
+  txtpath = sys.argv[2] if len(sys.argv) > 2 else path + "." + game + ".jp.txt"
 
   f=open(path, "rb")
   data_bytes = f.read()
@@ -26,7 +36,13 @@ def main():
     st = match.group(1)
     size = match.end(1) - match.start(1)
     offset = match.start(1) + text[0]
-    table_offset = int_view.index(offset, text_tables[0], text_tables[1]) * 4
+    int_table_offset = int_view.index(offset, text_tables[0], text_tables[1] // 4)
+    while int_view[int_table_offset-1] != 0: # the lazy way
+      try:
+        int_table_offset = int_view.index(offset, int_table_offset+1, text_tables[1] // 4)
+      except ValueError:
+        break
+    table_offset = int_table_offset * 4
     f.write(b";%X;%d;%s\n\n"%(table_offset, size, st))
 
   f.close()

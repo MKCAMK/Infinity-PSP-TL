@@ -1,0 +1,888 @@
+text area offset and size:
+0x1F88
+0x30E5
+0x170
+突然、闇に響いた鈴の音……。%K%P
+Suddenly, I hear the sound of a ringing bell in the%Ndarkness...%K%P
+0x17C
+飛び退くようにして、ベッドから転げ落ちた。%K%P
+I fall out of my bed as I try to jump out of it.%K%P
+0x188
+それは、あの絶望的な夢の中で聞いた音と、全く同じ音だった。%K%P
+It's the exact same sound from my hopeless dream...%K%P
+0x194
+心臓がバクバクと暴れている。%K%P
+My heart pounds violently.%K%P
+0x1A0
+鈴の音は、確かにリビングの方から聞こえた。%K%P
+The sound of the bell definitely came from the living room.%K%P
+0x1AC
+オレは、まだ眠っていた体に無理矢理力を入れて、リビングへと躍り出た。%K%P
+Despite my body feeling sluggish, I force myself up and%Nrun towards the living room.%K%P
+0x1E4
+闇の粒子は深く濃く、室内に満ちていた。%K%P
+The room is pitch black. It's impossible to see anything.%K%P
+0x20C
+再び、かすかな鈴の音……。%K%P
+I hear the faint sound of the bell again...%K%P
+0x218
+と同時に、テラスの短い階段をトントンと駆け下りて行く足音が耳に届いた。%K%P
+And at the same time, I hear the sound of tapping%Nfootsteps running down the short staircase on the%Nterrace.%K%P
+0x224
+──外だ！%K%P
+―It's coming from outside!%K%P
+0x230
+オレはすぐに玄関の扉を開いた。%K%P
+I immediately open the front door.%K%P
+0x2AC
+外はどしゃ降りの雨だった。%K%P
+It's pouring rain outside.%K%P
+0x2C4
+短い階段を駆け下りて、オレは豪雨の中に飛び込んだ。%K%P
+I rush down the short staircase and plunge into the%Ndownpour.%K%P
+0x2D0
+林道の入り口付近に、２つの真っ赤なライトが見えた。%K%P
+Near the entrance of the forest path, I see two bright%Nred lights.%K%P
+0x2DC
+車のテールランプだ。%K%P
+It's the tail lights of a car.%K%P
+0x2E8
+その車に向かって、ひとつの影が走って行く……。%K%P
+I see a shadow running towards the car...%K%P
+0x2F4
+ポニーテールの後ろ髪が、雨に打たれて揺れていた。%K%P
+The shadow has a ponytail that sways with the rain.%K%P
+0x300
+──沙紀！？%K%P
+―Saki!?%K%P
+0x328
+……車のドアが閉まった。%K%P
+... The car's door slams shut.%K%P
+0x334
+ヘッドライトが灯り、降り注ぐ無数の雨滴が闇の中に鮮やかに浮かび上がる。%K%P
+The headlights turn on, illuminating the countless falling%Nraindrops in the darkness.%K%P
+0x340
+よく見ると、車の屋根には球形の白い物体が乗っていた。%K%P
+When I look closely I see that the car has a white sphere%Nshaped object on its roof, an object I've seen before%Non certain cars in cities.%K%P
+0x34C
+どうやら、それはタクシーのようだった。%K%P
+It seems that it's a taxi.%K%P
+0x358
+ブオンッ……重々しい排気音とともに、タクシーが走り出す。%K%P
+Vroom... the taxi starts driving away in unison with the%Nsound of exhaust coming from its pipe.%K%P
+0x380
+真っ赤なテールランプが徐々に遠ざかり、砂利を蹴飛ばすタイヤの音は、やがて雨音の中に消えていった……。%K%P
+The bright red tail lights of the taxi get farther and%Nfarther away, and the sound of the tires driving on%Ngravel is eventually drowned away by the rain...%K%P
+0x38C
+（あれは……あれは間違いなく沙紀だった……）%K%P
+(That was... that was definitely Saki...)%K%P
+0x398
+こんな真夜中にロッジに何を……？？？%K%P
+What was she doing at the lodge in the middle of the%Nnight...???%K%P
+0x3A4
+それにタクシーなんか乗って、沙紀はどこへ……？？？%K%P
+And why did she get into a taxi, and where is she going%Nin it...???%K%P
+0x3B0
+気がつくと、オレの全身は水にまみれていた。%K%P
+I suddenly realize my whole body is soaked with water.%K%P
+0x3BC
+キリキリと刺すような寒さが、オレを襲った。%K%P
+I am assaulted by a stinging cold.%K%P
+0x3C8
+ひとまず、ロッジに帰ろう。%K%P
+For now, I'll go back to the lodge.%K%P
+0x3D4
+振り返ると、窓が閉まる音がした。%K%P
+When I turn around, I hear the sound of a window closing.%K%P
+0x3E0
+誰か、起きたのかもしれない……。%K%P
+Someone might be awake...%K%P
+0x3EC
+オレはガタガタと震えながら、リビングへと戻った。%K%P
+I return to the living room while shivering.%K%P
+0x45C
+玄関をくぐったオレは、暗闇の中に目を凝らしてあたりを窺った。%K%P
+I go back in through the front door, and stare in the%Ndarkness to check my surroundings.%K%P
+0x468
+人の気配は全く感じられない。%K%P
+I don't sense anyone else's presence.%K%P
+0x474
+他の誰かが起きている様子はなかった。%K%P
+There's no sign that any of the others are awake.%K%P
+0x480
+ってことは、さっき耳にした音……窓の閉まる音は、気のせいだったのか？%K%P
+Which means that the sound I heard earlier... the window%Nclosing, that is, was just my imagination?%K%P
+0x48C
+何だかそう考えてみると、さっき聞いた鈴の音も、遠ざかって行くタクシーも、全て幻だったような気がしてくる。%K%P
+When I try thinking of it that way, it feels like the sound of%Nthe bell I heard earlier and the taxi were all just illusions.%K%P
+0x498
+もちろん、雨の中で揺れていた沙紀のポニーテールも……。%K%P
+Of course, Saki's ponytail swaying in the rain would be%Nthe same...%K%P
+0x4A4
+（オレは……寝ぼけてたんじゃないだろうか？）%K%P
+(Am I... still half-asleep?)%K%P
+0x4B0
+うっ積したオレの中の感情が、幻影を見せた。きっと、そんなところだろう……。%K%P
+I must be so overwhelmed that I'm hallucinating. That must%Nbe it...%K%P
+0x4BC
+だいたい沙紀がこんな夜更けに、どっかに出かけるとは思えない。%K%P
+In the first place, I can't think of anywhere Saki would go%Nout to this late at night.%K%P
+0x4C8
+しかも、この雨だ……。%K%P
+And in this rain to boot...%K%P
+0x500
+オレはひとりうなずきながら、部屋に戻り、着替えを済ませた。%K%P
+As I nod to myself, I return to my room and change my%Nclothes.%K%P
+0x50C
+温もりの残ったベッドに再びもぐり込んで、まぶたを閉じる。%K%P
+I once again crawl into my still warm bed, and close my%Neyes.%K%P
+0x518
+さっき眠る前にオレを悩ませていた苦痛は、不思議とやわらいでいた。%K%P
+I strangely feel much less troubled now than before.%K%P
+0x5A0
+オレはぼんやりと目を覚ました。%K%P
+I wake up.%K%P
+0x5AC
+相変わらず、雨音が響いていた。%K%P
+As usual, the sound of the rain is still echoing.%K%P
+0x5B8
+耳を直接打つかのように激しい音……。%K%P
+It's an intense sound that feels like it's directly hitting my%Nears...%K%P
+0x5C4
+どしゃ降りが続いているのだろう。%K%P
+The downpour is probably still going on.%K%P
+0x5D0
+２度寝にはちょっとうるさすぎる……などと思いながら寝返りをうったその時……。%K%P
+It's a little too loud for me to try to fall asleep again...%NWhen I turn over in my bed while having thoughts like%Nthat...%K%P
+0x5EC
+いづみ「ええ〜〜〜〜〜〜〜〜〜〜〜〜〜っ！！！」%K%P
+Izumi「WHAAAAAAAAAAAAAAT!!!?」%K%P
+0x614
+ほとんど絶叫だった。%K%P
+I hear a loud scream.%K%P
+0x620
+胸騒ぎを覚え、オレはベッドから飛び起きた。%K%P
+Feeling uneasy, I jump out of the bed.%K%P
+0x658
+リビングに駆け込むと、他のみんなもぞろぞろと集まって来ていた。%K%P
+When I rush into the living room, everyone else gathers in%Nsuccession.%K%P
+0x664
+その中央で、いづみさんがハンドバッグをひっくり返してうろたえている。%K%P
+In the center, Izumi-san is flustered, overturning her%Nhandbag.%K%P
+0x670
+顔面蒼白で、目は血走っていた。%K%N
+Her face is has gone pale, and her eyes are bloodshot.%K%N
+0x67C
+とても尋常な様子ではない。%K%P
+This isn't like her at all.%K%P
+0x688
+誠「いづみさん！　何があったんですか！？」%K%P
+Makoto「Izumi-san! What happened!?」%K%P
+0x69C
+いづみ「昨日の売上金が……全部なくなってる！」%K%P
+Izumi「Yesterday's proceeds... they're all gone!」%K%P
+0x6A8
+誠「……ええっ！？」%K%P
+Makoto「... What!?」%K%P
+0x6C4
+くるみ「お姉ちゃん、ちゃんと調べたの？」%K%P
+Kurumi「Onee-chan, did you look thoroughly?」%K%P
+0x6D0
+いづみ「当たり前よ」%K%P
+Izumi「Of course!」%K%P
+0x6EC
+優夏「どこか、別の所に置いたりしてません？」%K%P
+Yuka「Did you possibly put them down in a different place?」%K%P
+0x6F8
+いづみ「そんなことしないよ。あれだけは！」%K%P
+Izumi「No way. This is the only place they'd be!」%K%P
+0x714
+億彦「それなら盗まれたんだね？　それしか考えられない……」%K%P
+Okuhiko「If that's the case, then they were stolen. That's the only%Npossibility I can think of...」%K%P
+0x720
+誠「盗むって……オレ達の誰かが盗んだって言うのか！？」%K%P
+Makoto「'Stolen'... Are you saying one of us stole them!?」%K%P
+0x73C
+億彦「短絡的だな、何も僕はそこまで言ってない」%K%P
+Okuhiko「Don't be hasty. I wouldn't go as far as to say that.」%K%P
+0x758
+遙「盗まれたの、それだけかな……？」%K%P
+Haruka「Are you sure she was the only one stolen from...?」%K%P
+0x774
+いづみ「えっ？」%K%P
+Izumi「What?」%K%P
+0x790
+遙「みんなの財布、とか……」%K%P
+Haruka「Maybe all our wallets were stolen from as well...」%K%P
+0x7A4
+億彦「調べた方がいいね」%K%P
+Okuhiko「It'd be best if we checked them all.」%K%P
+0x7B8
+優夏が、部屋に向かって走り出す。%K%P
+Yuka begins to run for her room.%K%P
+0x7C4
+それを合図に、オレ達はそれぞれの財布を確認しに走った。%K%P
+Taking that as a signal, we all run off to check our%Nrespective wallets.%K%P
+0x7D0
+──数分後。%K%N
+―Several minutes later.%K%N
+0x7DC
+全員が顔面蒼白になった。%K%P
+All our faces have gone pale.%K%P
+0x7E8
+オレ達は顔を突き合わせて、誰も何も言えなかった。%K%P
+Though we've all gathered, nobody says a word.%K%P
+0x7F4
+くぐもるような雨音だけが、部屋の中に響いていた。%K%P
+Only the sound of the pouring rain can be heard.%K%P
+0x808
+優夏「どうする？」%K%P
+Yuka「What should we do?」%K%P
+0x814
+ようやく優夏が口を開いた。%K%P
+Yuka finally speaks.%K%P
+0x820
+くるみが心配そうにいづみさんを見る。%K%N
+With a concerned expression, Kurumi looks at Izumi-san.%K%N
+0x82C
+いづみさんは、親指の爪を噛んでいた。%K%P
+Izumi-san is biting her thumbnail.%K%P
+0x848
+遙「この中の誰かが犯人、かな？」%K%P
+Haruka「Perhaps someone amongst us is the culprit.」%K%P
+0x854
+誠「バカなこと言うなよ、遙？」%K%P
+Makoto「Haruka, don't say something so stupid.」%K%P
+0x860
+遙「可能性よ」%K%P
+Haruka「It's a possibility.」%K%P
+0x87C
+億彦「うん、それはそうなんだけど、僕、気になることがある」%K%P
+Okuhiko「Yeah, that's true, but there's something that's bugging%Nme.」%K%P
+0x890
+優夏「なに？」%K%P
+Yuka「What?」%K%P
+0x89C
+誠「それより警察だ。警察に届けよう！」%K%P
+Makoto「More importantly, we need to call the police!」%K%P
+0x8B0
+億彦「待つんだ。その前に僕がっ」%K%P
+Okuhiko「Wait. Before that, I-」%K%P
+0x8BC
+誠「そんなのん気なこと言ってる場合か！」%K%P
+Makoto「This isn't the time to be telling us your concerns!」%K%P
+0x8D0
+優夏「うんうん。とにかく警察……」%K%P
+Yuka「He's right. Anyway, the police...」%K%P
+0x8F4
+オレは電話の前に立って、受話器を取った。%K%P
+I stand in front of the phone and pick up the receiver.%K%P
+0x900
+震える指先で『１』『１』と押したその時……%K%P
+As my hands tremble, I'm about to dial the number for the%Npolice, when all of the sudden...%K%P
+0x90C
+……玄関のドアが、静かに開いた。%K%P
+... The front door quietly opens.%K%P
+0x954
+雨音が、大きく聞こえる。%K%P
+I can hear the loud sound of the rainfall.%K%P
+0x960
+オレは振り向いて、玄関の方を見た。%K%P
+I turn around, and look towards the front door.%K%P
+0x9A8
+沙紀「ごめんください！　誠くん、いる？」%K%P
+Saki「Pardon my intrusion! Makoto-kun, are you there?」%K%P
+0x9B4
+誠「沙紀……」%K%P
+Makoto「Saki...」%K%P
+0x9C0
+オレは、ひとまず受話器を置いた。%K%P
+I put the receiver down for the time being.%K%P
+0x9CC
+沙紀が髪についた雨滴を払いながら、リビングへと入って来る。%K%P
+Saki enters the living room while wiping the raindrops out%Nof her hair.%K%P
+0x9F0
+沙紀「勝手に入ってきちゃった。外、すごい雨なもんだから。悪いけど、タオル貸してもらえる？」%K%P
+Saki「Sorry for barging in like this, but it's really pouring out%Nthere. Sorry, but could I borrow a towel?」%K%P
+0x9FC
+優夏がすっとキッチンに向かった。%K%N
+Yuka heads towards the kitchen.%K%N
+0xA08
+いづみさんがちょっと顔をあげて沙紀を見た。%K%N
+Izumi-san slightly raises her head and looks at Saki.%K%N
+0xA14
+億彦がチラリと沙紀を一瞥する。%K%P
+Okuhiko glances at Saki.%K%P
+0xA20
+遙はジリジリとしりぞいた。%K%N
+Haruka slowly steps back.%K%N
+0xA2C
+くるみはうつむきながら、上目づかいに沙紀を見ていた。%K%P
+Kurumi looks at Saki with upturned eyes, her head still%Nhanging downwards.%K%P
+0xA38
+沙紀は、そんなみんなの様子には全く気づかず、オレの方に近寄って来た。%K%P
+Saki, not noticing how different the others are acting,%Napproaches me.%K%P
+0xA4C
+沙紀「あっ、誠くん……ちょっといろいろ話があるの、いい？」%K%P
+Saki「Ah, Makoto-kun... there's a few things I have to tell you,%Nokay?」%K%P
+0xA58
+誠「沙紀、今ちょっと……」%K%P
+Makoto「Saki, now's not the best time...」%K%P
+0xA6C
+沙紀「え？　どうかしたの？」%K%P
+Saki「Huh? Is something wrong?」%K%P
+0xA78
+やっと、沙紀はみんなの異変に気づいたようだ。%K%P
+Saki seems to have finally noticed everyone's change%Nin behavior.%K%P
+0xA84
+不思議そうに小首を傾げながら、まわりをキョロキョロと見回している。%K%P
+She tilts her head questioningly as she surveys her%Nsurroundings.%K%P
+0xAA0
+優夏「ドロボーに入られたのよ」%K%P
+Yuka「A thief broke in.」%K%P
+0xABC
+沙紀「えっ？　ドロボーって……」%K%P
+Saki「What? A thief...?」%K%P
+0xAC8
+誠「みんな、金を盗まれたんだ。ルナビーチの昨日の売上金も、全部……」%K%P
+Makoto「Everyone's money was stolen. All of yesterday's%Nproceeds from Lunabeach are completely gone as well...」%K%P
+0xAE4
+億彦「……まさか……君じゃないよね？」%K%P
+Okuhiko「... Don't tell me... it was you?」%K%P
+0xAF8
+沙紀「なっ……」%K%P
+Saki「Wha...」%K%P
+0xB04
+億彦「昨日の真夜中、君、ここに来たでしょう？　僕は見たんだ。君がロッジから出て行くところ。それからタクシーに乗ってどこかへ行ったね？」%K%P
+Okuhiko「You came here in the dead of night last night, right? I%Nsaw it. I saw you just as you left the lodge. And where%Ndid you go on that taxi you got into?」%K%P
+0xB10
+……じゃあ……やっぱりあれは、幻なんかじゃなく……。%K%P
+... Then... that really wasn't an illusion after all...%K%P
+0xB2C
+優夏「それ、本当？」%K%P
+Yuka「Is that true?」%K%P
+0xB48
+沙紀「わ、私……」%K%P
+Saki「I-I...」%K%P
+0xB64
+億彦「知らないとは言わせないよ？　証人がいる……」%K%P
+Okuhiko「You can't say you don't know about it. There was%Nanother witness...」%K%P
+0xB80
+優夏「誰よ？」%K%P
+Yuka「Who?」%K%P
+0xB94
+億彦「石原……。見たままをちゃんと言ってくれないかな？」%K%P
+Okuhiko「Ishihara... Would you please tell us exactly what you%Nsaw?」%K%P
+0xBB0
+いづみ「誠くんが？」%K%P
+Izumi「Makoto-kun, you saw it?」%K%P
+0xBBC
+誠「……………………」%K%P
+Makoto「...」%K%P
+0xBD8
+優夏「何を見たの？」%K%P
+Yuka「What did you see?」%K%P
+0xBEC
+億彦「外まで追いかけて行ってたよね？　君も彼女の顔を見ている筈だ……」%K%P
+Okuhiko「You chased her outside, didn't you? You should have%Nseen her face as well...」%K%P
+0xC00
+優夏「誠、追いかけたの？」%K%P
+Yuka「Makoto, you chased her?」%K%P
+0xC0C
+誠「い、いや、オレは……」%K%P
+Makoto「N-No, I...」%K%P
+0xC20
+億彦「嘘つくのはやめてくれよな？」%K%P
+Okuhiko「Would you stop lying?」%K%P
+0xC2C
+オレはうつむいた。みんなの視線が突き刺さってくるのがわかった。%K%P
+I lower my head, fully aware of the others' piercing glares.%K%P
+0xC38
+顔をあげ、沙紀の方を見る。%K%N
+I lift my face and look towards Saki.%K%N
+0xC44
+沙紀は真っすぐに、オレの瞳を見つめていた。%K%P
+She is staring straight into my eyes.%K%P
+0xC50
+誠「……ああ、確かに、追いかけたよ……」%K%P
+Makoto「... Yeah, I definitely followed them...」%K%P
+0xC6C
+いづみ「誰だったの？」%K%P
+Izumi「Who was it?」%K%P
+0xC88
+優夏「誰！？」%K%P
+Yuka「Who!?」%K%P
+0xCC0
+くるみ「…………」%K%P
+Kurumi「...」%K%P
+0xCDC
+遙「…………」%K
+Haruka「...」%K
+0x1F60
+『どうなんだ、沙紀？』
+"Well, Saki?"
+0x1F6C
+『……………………』
+"..."
+0xD40
+誠「どうなんだ、沙紀？」%K%P
+Makoto「Well, Saki?」%K%P
+0xD54
+沙紀「！！！」%K%P
+Saki「!!!」%K%P
+0xD70
+くるみ「沙紀さん、本当に！？」%K%P
+Kurumi「Saki-san, is this true!?」%K%P
+0xD84
+遙「顔がそうだって認めてる」%K%P
+Haruka「It's written all over her face.」%K%P
+0xDA0
+億彦「決まりだね。今に君は何かやるって、僕はずっと思ってたよ」%K%P
+Okuhiko「It's settled then. I've been wondering this whole time what%Nyou were doing.」%K%P
+0xDB4
+誠「沙紀……昨夜ここで……何してたんだ？」%K%P
+Makoto「Saki... what did you do here... last night?」%K%P
+0xDC8
+沙紀「私……そんなことしてない」%K%P
+Saki「I... I didn't do it.」%K%P
+0xDD4
+沙紀「……盗んでなんかいない！」%K%P
+Saki「... I didn't steal anything!」%K%P
+0xDE0
+誠「だったら何してたのか、みんなに説明しろよ？」%K%P
+Makoto「Then why don't you explain to all of us what you were%Ndoing?」%K%P
+0xDEC
+沙紀「私は知らない！」%K%P
+Saki「I don't know!」%K%P
+0xDF8
+誠「知らないじゃわかんないだろ？」%K%P
+Makoto「How can you not know what you did yourself?」%K%P
+0xE04
+沙紀「知らないものは知らない！」%K%P
+Saki「I don't know what I don't know!」%K%P
+0xE20
+いづみ「沙紀ちゃん……１度だけ聞かせてね？　……あなたなの？」%K%P
+Izumi「Saki-chan... can I ask you one thing? ... Was it you?」%K%P
+0xE3C
+沙紀は目をそらした。唇をぎゅっとかんで、拳を握りしめている。%K%P
+Saki averts her eyes. She purses her lips, and clenches%Nher hands into fists.%K%P
+0xE58
+いづみ「沙紀ちゃん！？」%K%P
+Izumi「Saki-chan!?」%K%P
+0xE6C
+くるみ「教えて？　本当のこと言って？」%K%P
+Kurumi「Will you tell us? Will you tell us the truth?」%K%P
+0xE80
+沙紀「………………………………」%K%P
+Saki「...」%K%P
+0xE8C
+誠「沙紀？　こんなところで意地張るなよ？」%K%P
+Makoto「Saki, don't be stubborn at a time like this.」%K%P
+0xEA0
+沙紀「……信じてくれないの？」%K%P
+Saki「... Don't you trust me?」%K%P
+0xEAC
+誠「信じてるよ」%K%P
+Makoto「I do.」%K%P
+0xEC0
+沙紀「嘘！」%K%P
+Saki「You're lying!」%K%P
+0xECC
+誠「嘘じゃない！」%K%P
+Makoto「No I'm not!」%K%P
+0xED8
+沙紀「嘘じゃないならどうして説明しろなんて言うの！？」%K%P
+Saki「If I'm not lying, then why are you ordering me to explain!?」%K%P
+0xEE4
+誠「そ、それは…………」%K%P
+Makoto「Th-That's...」%K%P
+0xEF0
+沙紀「言葉にしなきゃ、信じてくれないんだ！？」%K%P
+Saki「So you can't trust me unless I use words!?」%K%P
+0xEFC
+誠「違う！　信じてるから言ってるんだ！」%K%P
+Makoto「You're wrong! It's because I trust you that I want you to%Nexplain!」%K%P
+0xF08
+沙紀が、ゆっくりと首を振る……。%K%P
+Saki slowly shakes her head...%K%P
+0xF14
+沙紀「誠も同じね……。人なんてみんな同じよ！！」%K%P
+Saki「You're the same, Makoto... All humans are the same!!」%K%P
+0xF54
+誠「……………………」%K%P
+Makoto「...」%K%P
+0xF60
+億彦「おいっ！　石原！？」%K%P
+Okuhiko「Hey! Ishihara!?」%K%P
+0xF6C
+誠「わからない……。だけどオレには、わからないんだ……」%K%P
+Makoto「I don't know... I just don't know...」%K%P
+0xF78
+それだけ言うのが精一杯だった……。%K%P
+I just want to scream that she's innocent...%K%P
+0xF84
+『違う！　沙紀じゃない！』──そう言いたいのに、言えなかった。%K%P
+"You're wrong! It wasn't Saki!"― I want to so badly, but%NI can't.%K%P
+0xF90
+昨夜見たあの後ろ姿は、間違いなく沙紀だった。%K%P
+That person I saw last night was definitely Saki.%K%P
+0xF9C
+だから、オレは沙紀をかばうことができなかった。信じたいのに、信じられなかった。%K%P
+That's why I can't cover for her. Even though I want to%Ntrust her, I can't.%K%P
+0xFA8
+心の中に黒いもやが立ちこめる。%K%P
+I don't know what to do.%K%P
+0xFB4
+オレは激しく取り乱し、正常な判断力を失っていた。%K%P
+My mind is scrambled, and I lose the ability to make any%Nsound judgments.%K%P
+0xFC8
+億彦「もういい……。その態度を見ていれば、言われなくてもわかった……」%K%P
+Okuhiko「Whatever... Judging from your behavior, you don't even%Nneed to say anything for me to know...」%K%P
+0xFDC
+億彦「沙紀ちゃん！　昨夜、ここで何してたんだ！？」%K%P
+Okuhiko「Saki-chan! What were you doing here last night!?」%K%P
+0xFF8
+沙紀「私……そんなことしてない」%K%P
+Saki「I... I didn't do it.」%K%P
+0x1004
+沙紀「……盗んでなんかいない！」%K%P
+Saki「... I didn't steal anything!」%K%P
+0x1020
+億彦「だったら何してたのか、言ってくれよ？」%K%P
+Okuhiko「If that's the case, then why don't you tell us what you%Nwere doing?」%K%P
+0x103C
+沙紀「私は知らない！」%K%P
+Saki「I don't know!」%K%P
+0x1058
+億彦「知らないじゃ、わかるものもわからないだろ？」%K%P
+Okuhiko「There's no way you don't know about what you did!」%K%P
+0x1074
+沙紀「知らないものは知らない！」%K%P
+Saki「I don't know what I don't know!」%K%P
+0x1088
+いづみ「沙紀ちゃん……１度だけ聞かせてね？　……あなたなの？」%K%P
+Izumi「Saki-chan... can I ask you one thing? ... Was it you?」%K%P
+0x109C
+沙紀は目をそらした。唇をぎゅっとかんで、拳を握りしめている。%K%P
+Saki averts her eyes. She purses her lips, and clenches%Nher hands into fists.%K%P
+0x10A8
+いづみ「沙紀ちゃん！？」%K%P
+Izumi「Saki-chan!?」%K%P
+0x10C4
+くるみ「教えて？　本当のこと言って？」%K%P
+Kurumi「Will you tell us? Will you tell us the truth?」%K%P
+0x10D0
+沙紀「…………………………」%K%P
+Saki「...」%K%P
+0x10E4
+誠「……沙紀……」%K%P
+Makoto「... Saki...」%K%P
+0x10F0
+やっとの思いで、声を絞り出した。%K%P
+I finally manage to wring my voice out.%K%P
+0x10FC
+沙紀がオレの方を見る。%K%P
+Saki looks towards me.%K%P
+0x1108
+助けを求めるような眼差しで……。オレにすがりつくような眼差しで……。%K%P
+Her desperate gaze is begging me to help her...%K%P
+0x111C
+沙紀「誠くんは……信じてくれるわよね？」%K%P
+Saki「Makoto-kun... you trust me, right?」%K%P
+0x1128
+誠「ああ……信じてるよ……」%K%P
+Makoto「Yeah... I trust you...」%K%P
+0x113C
+沙紀「……嘘！」%K%P
+Saki「... You're lying!」%K%P
+0x1148
+誠「嘘じゃない……」%K%P
+Makoto「I'm not...」%K%P
+0x1154
+沙紀「嘘じゃないならどうして何も言ってくれないの！？　私じゃないって言ってくれないの！？」%K%P
+Saki「If you're not lying, then why aren't you saying anything!?%NWhy aren't you saying it wasn't me!?」%K%P
+0x1160
+誠「そ、それは…………」%K%P
+Makoto「Th-That's...」%K%P
+0x116C
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x1178
+誠「沙紀……。みんなが納得のいくような返答を……してくれ……」%K%P
+Makoto「Saki... give an answer so that... everyone will%Nunderstand...」%K%P
+0x1184
+誠「そうすれば、みんなっ」%K%P
+Makoto「Once you do that, everyone-」%K%P
+0x1190
+沙紀「誠くんも、言葉にしなきゃ、信じてくれないんだ！」%K%P
+Saki「So you can't trust me either unless I use words!?」%K%P
+0x119C
+誠「違う……。信じたいから言ってるんだよ……」%K%P
+Makoto「You're wrong... I want you to say it because I want to%Ntrust you...」%K%P
+0x11A8
+沙紀が、ゆっくりと首を振る……。%K%P
+Saki slowly shakes her head...%K%P
+0x11B4
+沙紀「誠も同じね……。人なんてみんな同じよ！！」%K%P
+Saki「You're the same, Makoto... All humans are the same!!」%K%P
+0x11C8
+沙紀は踵を返し、玄関を飛び出した。%K%P
+Saki turns back, and bursts out the front door.%K%P
+0x11D4
+誠「沙紀！！」%K%P
+Makoto「Saki!!」%K%P
+0x1294
+泥沼と化した林道を、転がるように駆け下りていく沙紀……。%K%P
+Saki begins to descend the forest path, which has%Npractically changed into a marsh, as if she's tumbling%Ndown.%K%P
+0x12A0
+その背中を、オレは必死で追いかけた。%K%P
+I desperately chase after her.%K%P
+0x12D8
+殴りつけるような雨などものともせず、オレは走り続ける。%K%P
+I keep running against the pouring rain.%K%P
+0x12E4
+沙紀との距離が徐々に縮まって行く。%K%P
+I slowly close the distance between Saki and I.%K%P
+0x12F0
+やがて、沙紀は岬へと続く脇道に入った。%K%P
+Before long, Saki gets onto the road that leads to the%Ncape.%K%P
+0x12FC
+あの桜並木……オレもすぐにその並木道に駆け込む。%K%P
+Those cherry blossom trees... I also immediately rush%Nonto the tree-lined street.%K%P
+0x1334
+オレは沙紀を追いかけている。%K%P
+I chase Saki.%K%P
+0x1340
+このまま行けば、展望公園に辿り着く。%K%P
+If we continue like this, we'll arrive at Viewpoint Park.%K%P
+0x134C
+つまり行き止まりに……。%K%P
+In other words, a dead end...%K%P
+0x1358
+その時、オレは沙紀に何て言えばいいのだろう？%K%P
+At that time, what should I say to Saki?%K%P
+0x1364
+何を言う為に、オレは沙紀を追いかけてるんだ？%K%P
+What do I even want to say once I catch up with her?%K%P
+0x1370
+『言葉なんかいらない……』%K%P
+"You don't need words..."%K%P
+0x137C
+『オレが猫と桜になってやる』%K%P
+"I'll become the cat and the cherry blossom tree."%K%P
+0x1388
+昨日、オレは沙紀にそう言った。%K%P
+I said that to Saki yesterday...%K%P
+0x1394
+なのに……オレは沙紀のことを完全に信じることができなかった。%K%P
+Even so... I couldn't completely trust Saki.%K%P
+0x13A0
+今さら、何を言ったって……。%K%P
+What am I supposed to say to her now, of all times...?%K%P
+0x13E8
+岬の突端……行き止まり……。%K%P
+The tip of the cape... the dead end...%K%P
+0x13F4
+沙紀はフェンスをつかんだまま、オレに背中を向けている。%K%P
+Saki grips the fence with her back turned to me.%K%P
+0x1400
+オレは速度をゆるめ、ゆっくりと沙紀に近づいて行った。%K%P
+I slow down, and cautiously approach her.%K%P
+0x140C
+崖の下から、砕け散る波しぶきの音が響いている。%K%P
+I hear the sound of waves breaking at the bottom of the%Ncliff.%K%P
+0x1418
+冷たい雨が、沙紀の背中を激しく叩きつけていた。%K%P
+The cold rain intensely beats down on Saki's back.%K%P
+0x1424
+誠「沙紀……」%K%P
+Makoto「Saki...」%K%P
+0x1430
+オレは声をかけた。%K%P
+I call out to her.%K%P
+0x143C
+沙紀は答えようともせず、振り向きもせず……%K%N
+Saki doesn't try to answer or turn around...%K%N
+0x1448
+──突然、行き止まりの境界を越え始めた！%K%P
+―Suddenly, she begins to cross over the boundary%Nof the dead end!%K%P
+0x1454
+誠「沙紀！！！」%K%P
+Makoto「Saki!!!」%K%P
+0x1460
+水を蹴って駆け出す。%K%P
+I kick off the wet ground and start running.%K%P
+0x146C
+沙紀は鉄の柵を乗り越えて、反対側に降り立った。%K%P
+Saki climbs over the iron fence, and stands on the%Nopposite side of it.%K%P
+0x1478
+まさか……。%K%P
+She can't be...%K%P
+0x1510
+沙紀「来ないで！」%K%P
+Saki「Stay back!」%K%P
+0x151C
+誠「……！！」%K%P
+Makoto「...!!」%K%P
+0x1528
+沙紀「近寄らないで！」%K%P
+Saki「Don't get any closer!」%K%P
+0x1534
+オレは立ち止まった。%K%P
+I come to a halt.%K%P
+0x1540
+吹きすさぶ風が、沙紀の髪をなびかせている。%K%P
+The fiercely blowing wind waves through Saki's hair.%K%P
+0x154C
+誠「沙紀……」%K%P
+Makoto「Saki...」%K%P
+0x1558
+誠「オレは……オレは……ずっと沙紀だけを信じ続けるって……誓ったのに……」%K%P
+Makoto「I... I... I swore to always continue believing in only you...%NEven though I swore that...」%K%P
+0x1564
+沙紀「いいの……もういいのよ……私なんて……」%K%P
+Saki「It's fine... it doesn't matter anymore... It doesn't matter%Nanymore...」%K%P
+0x1570
+沙紀がすっと視線をうつむかせた。%K%P
+Saki glances directly downwards.%K%P
+0x157C
+胸をしめつけるような切ない瞳の色だった。%K%P
+My chest tightens from the painful look in her eyes.%K%P
+0x1588
+沙紀「私のことなんて、もう誰も何とも思わない！」%K%P
+Saki「No one even gives a shit about me anymore!」%K%P
+0x1594
+誠「違うよ、沙紀！　そんなこと……」%K%P
+Makoto「You're wrong, Saki! That's not...」%K%P
+0x15A0
+言いながら、オレは慎重に、沙紀に歩み寄った。%K%P
+As I say that, I carefully step towards Saki.%K%P
+0x15AC
+と、その時……。%K%P
+And, at that time...%K%P
+0x15B8
+沙紀は垂れ下がった左手を、静かに持ち上げ、そして開いた……。%K%P
+Saki quietly raises her dangling left hand, and opens it...%K%P
+0x15C4
+その手の平の上に……あったものは……%K%P
+Lying there... in her palm is...%K%P
+0x15D8
+……鈴。%K%P
+... the bell.%K%P
+0x15E4
+あの鈴だった。%K%P
+It's that bell.%K%P
+0x15F0
+海でなくしたと言っていた……あの鈴。%K%P
+The bell she said she lost... in the ocean.%K%P
+0x15FC
+今は遙が持っていると、そう言ってたのに……。%K%P
+Even though she said Haruka had it now...%K%P
+0x1610
+沙紀「ずっと私が持ってたのよ……」%K%P
+Saki「I've had it the whole time...」%K%P
+0x161C
+誠「な、なんでだよ……」%K%P
+Makoto「Wh-Why...?」%K%P
+0x1628
+沙紀「私もあなたに嘘をついていたの」%K%P
+Saki「I was also lying to you.」%K%P
+0x1634
+沙紀「あなたを信じてはいなかったの」%K%P
+Saki「I didn't trust you.」%K%P
+0x1640
+沙紀「私は人なんか信じない。信じられない……信じたくない！」%K%P
+Saki「I don't trust people. I can't trust them... I don't want to%Ntrust them!」%K%P
+0x164C
+誠「沙紀……」%K%P
+Makoto「Saki...」%K%P
+0x1658
+沙紀「自分を誰かに信じて欲しいとも思わない……信じてくれなくていい！」%K%P
+Saki「I never thought of wanting someone to trust me either... I%Nwas fine not being trusted!」%K%P
+0x1664
+誠「…………」%K%P
+Makoto「...」%K%P
+0x1670
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x167C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x1688
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x1694
+誠「沙紀……頼むから話を……聞いてくれ……」%K%P
+Makoto「Saki... please... listen to me...」%K%P
+0x16A0
+１歩、足を踏み出した。%K%P
+I take a step forward.%K%P
+0x16AC
+沙紀「近寄らないでって言ったでしょ！」%K%P
+Saki「I told you not to get any closer!」%K%P
+0x16B8
+もう１歩、前に進む。%K%P
+I take another step forward.%K%P
+0x16C4
+沙紀「来ないで！」%K%P
+Saki「Stay away!」%K%P
+0x16D0
+沙紀「本当にそれ以上来ないで……」%K%P
+Saki「Don't get any closer, or I'll really...」%K%P
+0x16DC
+オレはそっと手を差し出した。%K%P
+I gently reach my hand out.%K%P
+0x16E8
+沙紀がゆっくりと首を振る。%K%P
+Saki slowly shakes her head.%K%P
+0x16F4
+手を伸ばしたまま、オレは少しずつ、近づいて行った。%K%P
+While continuing to keep my hand stretched out, I%Napproach her even more.%K%P
+0x1700
+誠「つかまれ……」%K%P
+Makoto「Take my hand...」%K%P
+0x170C
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x1718
+誠「つかまるんだ、沙紀……」%K%P
+Makoto「Take my hand, Saki...」%K%P
+0x1724
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x1730
+ぐっともう１歩……足を踏み出した瞬間だった！%K%P
+I take another firm step... at that instant!%K%P
+0x174C
+するりと、沙紀の右手がフェンスから落ちた。%K%P
+Saki lets go of the fence with her right hand.%K%P
+0x1758
+静かに、そっとまぶたを閉じて……%K%P
+She gently closes her eyes...%K%P
+0x1764
+……沙紀の体が、背後に傾く。%K%P
+... Her body leans backwards.%K%P
+0x1770
+力を失った左手から、鈴がこぼれた……。%K%P
+The bell slips and falls from her now powerless left hand...%K%P
+0x17E4
+そのまま………………落ちて行った……。%K%P
+And like that... she falls...%K%P
+0x17F0
+黒々と艶めく闇の中へ……。%K%P
+She falls into the pitch black, alluring darkness...%K%P
+0x17FC
+風に踊る１枚の紙きれのように……。%K%P
+Like a scrap of paper dancing in the wind...%K%P
+0x1808
+誠「沙紀……」%K%P
+Makoto「Saki...」%K%P
+0x1814
+誠「どうして%W…%W…」%K%P
+Makoto「Why...」%K%P
+0x1820
+誠「どうしてだよ……沙紀……」%K%P
+Makoto「Why... Saki...」%K%P
+0x1838
+誠「沙紀ーーーーーーっ！！！」%K%P
+Makoto「SAKIIIIIIIIII!!!」%K%P

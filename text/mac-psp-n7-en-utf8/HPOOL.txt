@@ -1,0 +1,1143 @@
+text area offset and size:
+0x1A18
+0x3BB6
+0x44
+オレはそこでふと気づいた。滑り台の階段のところに遙が座っている。%K%P
+I suddenly notice Haruka, who's sitting on the steps of%Nthe slide.%K%P
+0x50
+遙は何をするわけでもなく、ひざを抱えて座り込んだまま、キラキラ陽光を反射するプールの水面を眺めている。%K%P
+She doesn't seem to be doing anything in particular%Nother than hugging her knees while gazing at the%Nsparkling sunlight reflecting off the pool's surface.%K%P
+0x98
+誠「よう！　何をやっているんだ？」%K%P
+Makoto「Yo! What's up?」%K%P
+0xA4
+そんな遙にオレは話しかける。%K%P
+I call out to Haruka.%K%P
+0xB0
+遙「…………」%K%P
+Haruka「...」%K%P
+0xBC
+何も語らない遙……。視線は水面に向けられたままである。%K%P
+She doesn't reply... Her eyes are glued on the the%Nwater's surface.%K%P
+0xC8
+誠「ここ滑り台だぜ。遙も滑りたいのか？」%K%P
+Makoto「This is the water slide. Do you want to ride it too?」%K%P
+0xD4
+遙「…………」%K%P
+Haruka「...」%K%P
+0xE0
+……無言。やはり視線は水面に向けられたまま。%K%P
+... Not a word. She seems so terribly focused.%K%P
+0xEC
+遙の視線を追ってオレもプールの水面に目をやる。%K%P
+I follow suit and stare at the water.%K%P
+0xF8
+……別に、これといって変わったところはない。%K%P
+... There's nothing interesting or unusual about it.%K%P
+0x104
+誠「……なあ、何を見てるんだ？」%K%P
+Makoto「... Say, what are you looking at?」%K%P
+0x110
+質問を変えるオレ。%K%P
+I ask another question.%K%P
+0x11C
+遙「…………」%K%P
+Haruka「...」%K%P
+0x128
+視線は水面に……。%K%P
+She's still looking at the water...%K%P
+0x134
+誠「…………」%K%P
+Makoto「...」%K%P
+0x140
+誠「……なあ、遙。オレには水しか見えないんだけど……」%K%P
+Makoto「... Say, Haruka. I don't see anything but water...」%K%P
+0x14C
+遙「…………」%K%P
+Haruka「...」%K%P
+0x158
+誠「まさか、水を見ているなんてことないよな？」%K%P
+Makoto「It couldn't be that you're just looking at the water, right?」%K%P
+0x164
+言ってみて、我ながらアホな質問だと思う。んなヤツいるわけないだろ……。%K%P
+I try asking this, but even I think it's a stupid question.%NThere's no way she'd...%K%P
+0x170
+遙「……水」%K%P
+Haruka「... The water.」%K%P
+0x17C
+ようやく口を開く遙。視線は水面に向けられたままで。%K%P
+Haruka finally speaks. She's still fixated on the water's%Nsurface.%K%P
+0x188
+誠「へ……？」%K%P
+Makoto「Huh...?」%K%P
+0x194
+遙「水……見てるの……」%K%P
+Haruka「I was looking... at the water...」%K%P
+0x1A0
+当然のことのように返答する遙。%K%P
+Haruka replies as if it's normal to do.%K%P
+0x1AC
+誠「…………」%K%P
+Makoto「...」%K%P
+0x1B8
+オレは唖然とする。%K%P
+I'm dumbfounded.%K%P
+0x1C4
+もしかして、オレって、からかわれてる？%K
+Could she be mocking me?%K
+0x18A0
+『なるほど……』とりあえず相槌
+Act like I understand.
+0x18AC
+『だめだ、こりゃ……』遙は放っておく
+Ignore Haruka.
+0x20C
+誠「そう……、水、見てるんだ……。うん……うん、なるほど……」%K%P
+Makoto「I see... You were looking at the water... Yeah... yeah, I get%Nit...」%K%P
+0x218
+とりあえずオレは相槌をうってみる。%K%P
+For the time being, I try to act like I understand her.%K%P
+0x224
+でも、なんだか、ひどく情けない気分だ……。%K%P
+However, I feel pretty bad about lying...%K%P
+0x230
+遙「水……見るの好きだから……」%K%P
+Haruka「I like... looking at the water...」%K%P
+0x23C
+水面を見つめたまま遙。%K%P
+She's still staring at it.%K%P
+0x248
+オレは、ふと遙の横顔を眺める。%K%P
+I observe her face.%K%P
+0x254
+ひどく無感情な表情。%K%P
+She has a very apathetic expression.%K%P
+0x260
+だけど、とてもじゃないが、オレにはからかっているようには見えなかった。%K%P
+I don't see any signs of her mocking me, however.%K%P
+0x26C
+そう言えば……とオレは思い出した。%K%P
+Now that I think about it... I remember something.%K%P
+0x278
+昨日の朝のこと。蛇口から落ちる水滴を飽きることなく眺めていたことを。%K%P
+Yesterday morning, she also stared at the water%Ndripping from that faucet.%K%P
+0x294
+昨日の姫ヶ浜で打ち寄せる波に素足を浸していたこと。%K%P
+She also soaked her bare feet in the waves on Princess%NBeach yesterday.%K%P
+0x2A0
+誠「…………」%K%P
+Makoto「...」%K%P
+0x2AC
+遙「…………」%K%P
+Haruka「...」%K%P
+0x2B8
+再び無言になる２人。沈黙の空気が……やけに重い。%K%P
+The two of us fall silent again. This silence is getting%Nuncomfortable.%K%P
+0x2C4
+なんで水なんかが好きなんだろう？　オレは疑問に思う。%K%P
+I want to as her "Why do you like water so much?"%K%P
+0x2D0
+……が、質問するのは思い留まった。どうせ答えてはくれないだろうから。%K%P
+... But I decide not to. At any rate, I don't think she'll%Nanswer me anyway.%K%P
+0x2DC
+話題を変えよう。オレは考える。%K%P
+I should change the topic.%K%P
+0x2E8
+遙が喜びそうな話題にしよう。%K%P
+I need to bring up a topic that'll interest Haruka.%K%P
+0x2F4
+……え〜っと、遙が喜びそうな話題……話題は……と。%K%P
+... Umm, what topic would interest her... Mmm...%K%P
+0x300
+……ん？%K%P
+... Hmm?%K%P
+0x30C
+オレは気づく。%K%P
+Then it hits me.%K%P
+0x318
+遙が喜びそうな話題ってなんだ？%K%P
+What topic would interest Haruka?%K%P
+0x324
+何も思いつかない……っていうか、オレ、遙のこと何も知らないじゃないか！%K%P
+I can't think of anything... because I don't know anything%Nabout her yet, right?!%K%P
+0x330
+だったら、遙のことを質問してみようか。まあ、答えてくれないかもしれないけど……。%K%P
+I should ask her questions about herself. Well, she might%Nnot answer me, but...%K%P
+0x33C
+遙「…………」%K%P
+Haruka「...」%K%P
+0x348
+ええい！　ダメもとで聞いてしまえ！%K%P
+Well, it can't hurt to try!%K%P
+0x354
+このままでは気まずくて、オレは窒息死してしまう。%K%P
+If things stay this awkward, I'm going to suffocate to%Ndeath.%K%P
+0x360
+誠「ねえ、遙？」%K%P
+Makoto「Hey, Haruka?」%K%P
+0x36C
+遙「…………」%K%P
+Haruka「...」%K%P
+0x378
+あいかわらず、顔はずっとむこうを向いているが、聞いていないということはないだろう。%K%P
+Like always, she doesn't turn to face me, but I know%Nshe's listening.%K%P
+0x384
+さて、何を質問してみようか……。%K
+Well then, what should I try asking her...?%K
+0x18B8
+遙って飛び級したんだよね
+Comment on how she skipped a grade.
+0x18C4
+休日はどうやって過ごしているの？
+What do you do on your days off?
+0x18D0
+好きな食べ物って何？
+What are your favorite foods?
+0x18DC
+遙の好みのタイプって？
+What's your type?
+0x3F4
+誠「遙って……オレ達より１つ年下なんだよな？」%K%P
+Makoto「Haruka... you're one year younger than us, right?」%K%P
+0x418
+遙「…………」%K%P
+Haruka「...」%K%P
+0x424
+あいかわらず無反応だが、構わず続けるオレ。%K%P
+She doesn't respond, but I continue to talk anyway.%K%P
+0x430
+誠「でも、オレ達と同学年。……つまり、遙って飛び級したってことだよね？」%K%P
+Makoto「But you're in the same grade we are. ... So that means%Nyou've skipped a grade, right?」%K%P
+0x43C
+遙「…………」%K%P
+Haruka「...」%K%P
+0x448
+誠「すごいよな〜、飛び級なんて。それって、すごく優秀じゃないと出来ないことだろ？」%K%P
+Makoto「Skipping a grade... that's amazing. Only top notch%Nstudents can accomplish that!」%K%P
+0x454
+遙「…………」%K%P
+Haruka「...」%K%P
+0x460
+誠「本当にすごいよ。１つ年下なのに、頭のレベルはオレ達と同等……。いや、それ以上かもしれないってことだからな」%K%P
+Makoto「Seriously, that's amazing. You're a year younger than%Nus, yet you're just as smart as we are... No, you might%Neven be smarter than us.」%K%P
+0x46C
+『すごいな』を連発するオレ。%K%P
+I keep saying "amazing."%K%P
+0x478
+誰しも、誉められて嫌な気分になるヤツはいない。%K%P
+Being praised makes everyone feel good.%K%P
+0x484
+これで少しは、会話できる雰囲気に持っていてければ、こっちのものなのだが……。%K%P
+With this, I feel that the mood has now lightened enough%Nfor us to talk normally...%K%P
+0x490
+遙「…………」%K%P
+Haruka「...」%K%P
+0x49C
+遙「…………珍しい？」%K%P
+Haruka「... Is that rare?」%K%P
+0x4A8
+誠「……え？」%K%P
+Makoto「... Huh?」%K%P
+0x4B4
+遙「それって珍しい？　それって普通じゃない？」%K%P
+Haruka「Is that rare? Is that not normal?」%K%P
+0x4C0
+誠「あ……それは、え〜っと……」%K%P
+Makoto「Ah... that's, umm...」%K%P
+0x4CC
+予期していない返答に、オレは言葉に詰まる。%K%P
+Her unexpected reply has left me at a loss for words.%K%P
+0x4D8
+誠「……う〜ん、まあ、普通じゃないよな……」%K%P
+Makoto「... Hmm, well, I wouldn't call it normal...」%K%P
+0x4E4
+遙「そう……」%K%P
+Haruka「I see...」%K%P
+0x4F0
+誠「あ、でも、それって喜んでいいことだぞ？　普通じゃないってことは、平凡な人間じゃないってことなんだから……」%K%P
+Makoto「Ah, but isn't that something to be proud of? Because it's%Nnot normal, it means you're not an ordinary human...」%K%P
+0x4FC
+なんとかフォローを入れようとする。%K%P
+I decided I had to follow up on that.%K%P
+0x508
+遙「……別に……どうでもいいことだから」%K%P
+Haruka「It doesn't... matter to me.」%K%P
+0x514
+誠「……あ、そう……」%K%P
+Makoto「Oh... I see...」%K%P
+0x520
+なんだか、見事玉砕したって感じ。%K%P
+I kinda feel like I've suffered an magnificent, honorable%Ndefeat.%K%P
+0x54C
+……話題を変えよう。%K
+... I'll change the topic.%K
+0x18E8
+休日はどうやって過ごしているの？
+What do you do on your days off?
+0x18F4
+好きな食べ物って何？
+What are your favorite foods?
+0x1900
+遙の好みのタイプって？
+What's your type?
+0x59C
+誠「遙って、休日はどうやって過ごしてるの？」%K%P
+Makoto「Haruka, what do you do on your days off?」%K%P
+0x5C0
+遙「…………」%K%P
+Haruka「...」%K%P
+0x5CC
+誠「遙のイメージって、なんだか優等生って感じだけど、日がな１日中、机にかじりついているっていう雰囲気じゃないし……」%K%P
+Makoto「The image I have of you is somewhat of an honor%Nstudent, but not one who's glued to her desk 24/7...」%K%P
+0x5D8
+誠「かといって、スポーツに汗を流しているっていう感じでもないし……」%K%P
+Makoto「On the other hand, I can't see you doing sports...」%K%P
+0x5E4
+誠「バイトしてる……っていうのもイメージ沸かないな……」%K%P
+Makoto「And you don't really strike me as someone with a part%Ntime job either...」%K%P
+0x5F0
+誠「……で、本当のところ、どうなの？」%K%P
+Makoto「... So, what is it that you really do?」%K%P
+0x5FC
+遙「…………」%K%P
+Haruka「...」%K%P
+0x608
+誠「あ……、その……、答えたくなかったら、答えなくてもいいよ」%K%P
+Makoto「Ah... Umm... If you don't want to answer that, that's fine.」%K%P
+0x614
+玉砕か……。話題を変えようとしたその時、遙が口を開いた。%K%P
+There goes another failed attempt... As I'm about to%Nchange the subject, Haruka speaks.%K%P
+0x620
+遙「…………家に帰るの」%K%P
+Haruka「... I go home.」%K%P
+0x62C
+誠「…………家？」%K%P
+Makoto「... Home?」%K%P
+0x638
+遙「そう、家。……私、普段は寮生活だから」%K%P
+Haruka「Right, home. ... Because I live at my dorm most of the time.」%K%P
+0x644
+誠「あ……、なるほどね」%K%P
+Makoto「Ah... I see.」%K%P
+0x650
+遙「家に帰って、お母さんの手伝いをするの……」%K%P
+Haruka「When I go home, I help my mother out...」%K%P
+0x65C
+誠「そっか〜、偉いな、遙は」%K%P
+Makoto「I see. You're great, Haruka.」%K%P
+0x668
+なんだか子供を誉めているみたいだ。%K%P
+It feels like I'm praising a child.%K%P
+0x674
+遙「誠は……」%K%P
+Haruka「Makoto...」%K%P
+0x680
+誠「…………ん？」%K%P
+Makoto「... Hmm?」%K%P
+0x68C
+遙「誠は……、お父さんとお母さんの事……好き？」%K%P
+Haruka「Makoto... do you like... your father and mother?」%K%P
+0x698
+誠「……え、え〜っと……」%K%P
+Makoto「U-Umm...」%K%P
+0x6A4
+突然の質問に戸惑うオレ。%K%P
+I'm bewildered by her sudden question.%K%P
+0x6B0
+どう答えるべきなのだろうか？%K
+How should I answer that?%K
+0x190C
+『好きだよ』
+"I like them."
+0x1918
+『あまり好きじゃないかな』
+"I don't really like them."
+0x6F8
+誠「うん、好きだよ」%K%P
+Makoto「Yeah, I like them.」%K%P
+0x704
+本心からそう言った。%K%P
+Those are my true feelings.%K%P
+0x710
+たまにケンカすることもあるけど、たまにうっとうしいと思うこともあるけど%K%P
+They occasionally have fights, and sometimes make me%Nfeel depressed,%K
+0x71C
+やっぱり両親っていうものは、オレにとって愛すべき存在だ。%K%P
+but they're my parents, and to me, are people who%Nshould be loved.%K%P
+0x728
+誠「両親のこと嫌いっていうヤツ……まあ、中にいるけど……、心から嫌っているヤツは、あまりいないんじゃないかな？」%K%P
+Makoto「People who hate their parents... well, they definitely%Nexist, but... I think most people who claim to hate their%Nparents still love them deep down, you know?」%K%P
+0x734
+遙「……そう」%K%P
+Haruka「... I see.」%K%P
+0x740
+誠「そう言う遙は、どうなんだ？」%K%P
+Makoto「What about you?」%K%P
+0x74C
+遙「……私も……好きだよ」%K%P
+Haruka「... I also... like them.」%K%P
+0x758
+遙は、そこでオレを見て、そう答えた。%K%P
+Haruka looks at me as she says this.%K%P
+0x764
+誠「そっか……」%K%P
+Makoto「I see...」%K%P
+0x770
+遙「……私の……唯一の、絆だから」%K%P
+Haruka「... Because they... are my only bond.」%K%P
+0x77C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x788
+なんだか、オレはこれ以上、詮索するべきではないと思った。%K%P
+For some reason, I feel that I mustn't pry any further.%K%P
+0x7B4
+……話題を変えよう。%K
+... I'll change the topic.%K
+0x1924
+遙って飛び級したんだよね
+Comment on how she skipped a grade.
+0x1930
+好きな食べ物って何？
+What are your favorite foods?
+0x193C
+遙の好みのタイプって？
+What's your type?
+0x804
+誠「う〜ん……、あまり好きじゃないかな」%K%P
+Makoto「Hmm... I don't really like them.」%K%P
+0x810
+本心ではなかった。ただ、照れくさかっただけ。%K%P
+I don't really feel this way. I'm just embarrassed to admit%Nit.%K%P
+0x81C
+たまにケンカすることもあるけど、たまにうっとうしいと思うこともあるけど%K%P
+They sometimes drive me insane...%K%P
+0x828
+やっぱり両親っていうものは、オレにとって愛すべき存在だから。%K%P
+... But they're my parents, and to me, are people who%Nshould be loved.%K%P
+0x834
+誠「まあ、いろいろと感謝はしてるけど、時々、うっとおしく感じるんだよね」%K%P
+Makoto「Well, I am grateful to them for a lot things, but sometimes, I%Nfeel they can be so irritating.」%K%P
+0x840
+誠「ホラ、もうオレなんて２０才過ぎたのに、まだ何かと世話を焼いて来るんだ。もういいかげんにしろって感じ」%K%P
+Makoto「For example, I'm already 20 years old, but they still treat%Nme like I'm a kid. I wish they'd just cut it out.」%K%P
+0x84C
+遙「……そう」%K%P
+Haruka「... I see.」%K%P
+0x858
+誠「遙も、そう思うだろ？」%K%P
+Makoto「Haruka, do you feel that way too?」%K%P
+0x864
+遙「……私は……好きだよ」%K%P
+Haruka「... I... like them.」%K%P
+0x870
+遙は、そこでオレを見て、そう答えた。%K%P
+Haruka looks at me as she speaks.%K%P
+0x87C
+誠「……そ、そう」%K%P
+Makoto「... I-I see.」%K%P
+0x888
+遙「……私の……唯一の、絆だから」%K%P
+Haruka「... Because they... are my only bond.」%K%P
+0x894
+誠「…………」%K%P
+Makoto「...」%K%P
+0x8A0
+なんだか、オレは気まずさをひしひしと感じ始めた。%K%P
+I begin to feel extremely awkward.%K%P
+0x8C4
+……話題を変えよう。%K
+... I'll change the topic.%K
+0x1948
+遙って飛び級したんだよね
+Comment on how she skipped a grade.
+0x1954
+好きな食べ物って何？
+What are your favorite foods?
+0x1960
+遙の好みのタイプって？
+What's your type?
+0x934
+誠「オレ、特別好き嫌いとかなくて、何でも食べられるんだ」%K%P
+Makoto「I'm not really picky; I'll eat just about anything.」%K%P
+0x940
+誠「でも逆に、これといって大好物っていうのもないんだよね」%K%P
+Makoto「Still, I have some favorites.」%K%P
+0x94C
+誠「遙は、何か好きな食べ物ってある？」%K%P
+Makoto「What I'm trying to ask is, well, do you have any favorite%Nfoods?」%K%P
+0x960
+遙「…………」%K%P
+Haruka「...」%K%P
+0x96C
+遙はうつむいたまま、何も言おうとしない。%K%P
+Haruka silently lowers her head.%K%P
+0x978
+誠「あ……。いや、何聞いているんだろう、オレ。別に答えなくてもいいから……」%K%P
+Makoto「Ah... what am I saying? If you don't want to answer, that's%Nfine...」%K%P
+0x984
+遙「キャベツの芯……」%K%P
+Haruka「Cabbage cores...」%K%P
+0x990
+うつむいたまま、それだけ一言。%K%P
+She says this with her head still down.%K%P
+0x99C
+誠「……は、はい？」%K%P
+Makoto「... H-Huh?」%K%P
+0x9A8
+遙「キャベツの芯、……美味しかった」%K%P
+Haruka「Cabbage cores... are delicious.」%K%P
+0x9B4
+そこで遙はオレを見た。ふざけているようには見えない。%K%P
+Haruka looks at me. There's no signs that she's joking.%K%P
+0x9C0
+遙「おととい……。ロッジについた日、優夏が作ってくれたの……やきそば。……塩味だった」%K%P
+Haruka「The day before yesterday... The day we arrived at the%Nlodge, Yuka made... yakisoba... It was quite salty.」%K%P
+0x9CC
+誠「そのやきそばに、入っていたのか？　キャベツの芯……」%K%P
+Makoto「So are you saying that there were cabbage cores in%Nthe yakisoba...?」%K%P
+0x9D8
+コクンと遙は頷く。%K%P
+Haruka nods.%K%P
+0x9E4
+誠「そ……そうか……」%K%P
+Makoto「I... I see...」%K%P
+0x9F0
+リアクションに困るオレ。遙がキャベツの芯が好物だったのも驚いたが……、それ以上に、優夏が食べられる（？）料理を作れたという方が驚異だった。%K%P
+I'm a little shocked. I'm surprised that Haruka likes%Ncabbage cores... but I'm even more surprised that Yuka%Nactually cooked something edible.%K%P
+0x9FC
+あの日、もう少し早くロッジに着いていたら、それが拝めたかもしれないんだな。……ちょっと残念。%K%P
+If I had arrived at the lodge earlier that day, I might have%Nseen it too... I'm a bit disappointed.%K%P
+0xA08
+誠「じ、じゃあ……、逆に嫌いなものは？」%K%P
+Makoto「Th-Then... what do you dislike?」%K%P
+0xA14
+平然を装って再び訊ねるオレ。%K%P
+Pretending to be calm, I ask her another question.%K%P
+0xA20
+遙「……卵、それと牛乳」%K%P
+Haruka「... Eggs and milk.」%K%P
+0xA2C
+誠「ふ〜ん、なんで？」%K%P
+Makoto「Huh, why's that?」%K%P
+0xA38
+遙「……ネトネトしているから」%K%P
+Haruka「... Because they're gooey.」%K%P
+0xA44
+誠「ネトネト？」%K%P
+Makoto「Gooey?」%K%P
+0xA50
+遙「気持ち悪いの……」%K%P
+Haruka「They make me feel sick...」%K%P
+0xA6C
+オレは昨日、遙が廃船に群がっていたフナムシを興味深そうに眺めていたことを思い起こした。あんなものを見て喜んでいられるのに、牛乳や卵が食べられないっていう感覚が分からない。%K%P
+I find it strange how someone who can't drink their milk%Nand eat eggs can happily look at creatures like sea%Nroaches.%K%P
+0xA78
+まあ、好き嫌いっていうのは、そういうものなのかもしれないが……。%K%P
+Well, I guess those simply might be a part of her likes and%Ndislikes, but still...%K%P
+0xA84
+誠「全然、食べないのか……？」%K%P
+Makoto「You don't eat them at all...?」%K%P
+0xA90
+遙「……うん」%K%P
+Haruka「... No.」%K%P
+0xA9C
+誠「遙、好き嫌いはいけないぞ。卵や牛乳だって、ちゃんと食べないと丈夫な体に育たない……」%K%P
+Makoto「You can't be picky. If you don't have eggs or milk, your%Nbody won't grow up big and...」%K%P
+0xAA8
+そこまで言って、オレはハッと気づく。%K%P
+I abruptly stop talking.%K%P
+0xAB4
+何言ってるんだ、オレ？　遙はもう大学生だぞ。これじゃ、子供に世話を焼く親みたいじゃないか……。%K%P
+What the hell am I saying? Haruka's a college student. I%Nwas treating her like a kid just now, wasn't I...?%K%P
+0xAC0
+オレはなんだか恥かしくなって、遙から視線を逸らした。%K%P
+I become kind of embarrassed, and look away from%NHaruka.%K%P
+0xACC
+遙「……うん」%K%P
+Haruka「... Yes.」%K%P
+0xAD8
+誠「……？」%K%P
+Makoto「...?」%K%P
+0xAE4
+遙「……今度からは食べるようにする」%K%P
+Haruka「... I'll try to have them more often.」%K%P
+0xAF0
+誠「あ、ああ。……うん」%K%P
+Makoto「A-Ah... Yeah.」%K%P
+0xAFC
+オレはその言葉に、少し驚くと同時に、なんだか救われたような気持ちになれた。%K%P
+I'm a little surprised by her declaration, but also pleased%Nthat she took my advice.%K%P
+0xB20
+……話題を変えよう。%K
+... I'll change the topic.%K
+0x196C
+遙って飛び級したんだよね
+Comment on how she skipped a grade.
+0x1978
+休日はどうやって過ごしているの？
+What do you do on your days off?
+0x1984
+遙の好みのタイプって？
+What's your type?
+0xB88
+誠「遙って、どんなタイプの男性が好みなんだ？」%K%P
+Makoto「Haruka, what kind of guy is your type?」%K%P
+0xB94
+……ちょっとプライベートな質問だったかな？%K%P
+... Wait, isn't this question a little bit too personal?%K%P
+0xBA0
+遙「…………」%K%P
+Haruka「...」%K%P
+0xBAC
+やっぱり、答えたくないよな……当然か。%K%P
+Of course she doesn't want to answer... That's only%Nnatural.%K%P
+0xBB8
+誠「じゃあ……」%K%P
+Makoto「Nevermind, sorry...」%K%P
+0xBC4
+とっさにオレは、話題を変えようとした。%K%P
+I decide to change the topic.%K%P
+0xBD0
+遙「誠は……？」%K%P
+Haruka「What about you...?」%K%P
+0xBDC
+誠「え……？」%K%P
+Makoto「Huh...?」%K%P
+0xBE8
+遙「誠は、どんなタイプが好みなの……？」%K%P
+Haruka「Makoto, what's your type...?」%K%P
+0xBF4
+いっ……！！%K%P
+Wha...!!!%K%P
+0xC00
+これは予想しなかった展開だ。%K%P
+I wasn't expecting this.%K%P
+0xC0C
+誠「えっと……え〜っと……」%K%P
+Makoto「Umm... Umm...」%K%P
+0xC18
+遙は真剣な表情で、オレの返答を待っている。%K%P
+Haruka is waiting for my answer with a serious%Nexpression.%K%P
+0xC24
+これはちゃんと答えないと、まずいよな……。%K%P
+I need to answer properly, or this could be bad...%K%P
+0xC30
+オレは答えた。%K
+I answered.%K
+0x1990
+優夏みたいな活発な女の子
+An active girl like Yuka
+0x199C
+遙みたいな大人しい女の子
+A quiet girl like you
+0x19A8
+沙紀みたいなキツイ女の子
+A determined girl like Saki
+0x19B4
+くるみみたいな妹っぽい女の子
+A sisterly girl like Kurumi
+0x19C0
+いづみさんみたいな大人の女性
+An adult woman like Izumi-san
+0xCA0
+誠「優夏みたいな活発な女の子……かな？」%K%P
+Makoto「An active girl like Yuka... I guess?」%K%P
+0xCAC
+遙「……そう」%K%P
+Haruka「... I see.」%K%P
+0xCB8
+つぶやくように返事をする遙。%K%P
+Haruka replies in a mumbled voice.%K%P
+0xCC4
+その表情からは、感情が読み取れない。%K%P
+Her expression is hard to read.%K%P
+0xCE0
+誠「遙みたいな大人しい女の子……かな？」%K%P
+Makoto「A quiet girl like you... I guess?」%K%P
+0xCEC
+遙「……私……みたいな？」%K%P
+Haruka「... Like... me...?」%K%P
+0xCF8
+オウム返しにつぶやく遙。%K%P
+Haruka repeats my words.%K%P
+0xD0C
+遙「…………」%K%P
+Haruka「...」%K%P
+0xD18
+そのまま、うつむき無言になる。%K%P
+She silently lowers her head.%K%P
+0xD24
+その表情からは、感情が読み取れない。%K%P
+Her expression is hard to read.%K%P
+0xD40
+誠「沙紀みたいなキツイ女の子……かな？」%K%P
+Makoto「A determined girl like Saki... I guess?」%K%P
+0xD4C
+遙「……そう」%K%P
+Haruka「... I see.」%K%P
+0xD58
+つぶやくように返事をする遙。%K%P
+Haruka replies in a mumbled voice.%K%P
+0xD64
+その表情からは、感情が読み取れない。%K%P
+Her expression is hard to read.%K%P
+0xD78
+誠「くるみみたいな妹っぽい女の子……かな？」%K%P
+Makoto「A sisterly girl like Kurumi... I guess?」%K%P
+0xD84
+遙「……そう」%K%P
+Haruka「... I see.」%K%P
+0xD90
+つぶやくように返事をする遙。%K%P
+Haruka replies in a mumbled voice.%K%P
+0xD9C
+その表情からは、感情が読み取れない。%K%P
+Her expression is hard to read.%K%P
+0xDB0
+誠「いづみさんみたいな大人の女性……かな？」%K%P
+Makoto「An adult woman like Izumi-san... I guess?」%K%P
+0xDBC
+遙「……そう」%K%P
+Haruka「... I see.」%K%P
+0xDC8
+つぶやくように返事をする遙。%K%P
+Haruka replies in a mumbled voice.%K%P
+0xDD4
+その表情からは、感情が読み取れない。%K%P
+Her expression is hard to read.%K%P
+0xDE0
+誠「…………」%K%P
+Makoto「...」%K%P
+0xDEC
+遙「…………」%K%P
+Haruka「...」%K%P
+0xDF8
+２人とも黙り込んでしまう。%K%P
+The two of us are dead silent.%K%P
+0xE04
+う〜ん。この話題では、もはやここまでかな？%K%P
+Hmm. I guess it's time to move on to another topic.%K%P
+0xE28
+……話題を変えよう。%K
+... I'll change the topic.%K
+0x19CC
+遙って飛び級したんだよね
+Comment on how she skipped a grade.
+0x19D8
+休日はどうやって過ごしているの？
+What do you do on your days off?
+0x19E4
+好きな食べ物って何？
+What are your favorite foods?
+0xE88
+遙「……なんで？」%K%P
+Haruka「... Why?」%K%P
+0xE94
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0xEA8
+遙「……なんで、そんなに私のことを聞きたがるの？」%K%P
+Haruka「... Why are you so curious about me?」%K%P
+0xEB4
+怪訝そうな顔で、本当に不思議そうに訊ねる遙。%K%P
+She asks me this with a truly confused expression and%Nvoice.%K%P
+0xEC0
+誠「え……と、それは……」%K%P
+Makoto「U... Umm, that's because...」%K%P
+0xECC
+返答につまるオレ。実は自分でもよくわからない。%K%P
+I can't answer. The truth is, even I don't understand it%Nvery well myself.%K%P
+0xED8
+遙「どうして？」%K%P
+Haruka「Why?」%K%P
+0xEE4
+もう一度、訊ねる遙。%K
+Haruka asks again.%K
+0x19F0
+遙に興味があるからだよ
+Because I'm interested in you.
+0x19FC
+遙のことが好きだからだよ
+Because I like you.
+0xF2C
+誠「それは……遙に興味があるからだよ」%K%P
+Makoto「It's because... I'm interested in you.」%K%P
+0xF38
+遙「私に……興味？」%K%P
+Haruka「You're interested... in me?」%K%P
+0xF44
+誠「遙のことが知りたいんだよ」%K%P
+Makoto「I want to know more about you, Haruka.」%K%P
+0xF50
+遙「…………」%K%P
+Haruka「...」%K%P
+0xF64
+オレを見つめる遙。%K%P
+I look at Haruka.%K%P
+0xF70
+誠「…………」%K%P
+Makoto「...」%K%P
+0xF7C
+オレもじっと遙の目を見つめる。%K%P
+I stare firmly into her eyes.%K%P
+0xF90
+遙「！……」%K%P
+Haruka「...!」%K%P
+0xF9C
+あわてて視線を逸らす遙。%K%P
+Flustered, she averts her gaze from me.%K%P
+0xFA8
+あいかわらずの無表情だが、こころなしか頬が高揚しているような……。%K%P
+Though she's trying to hide it, Haruka is blushing...%K%P
+0xFBC
+誠「それは……遙のことが好きだからだよ」%K%P
+Makoto「It's because... I like you.」%K%P
+0xFC8
+好き？　遙のことが？%K%P
+Like? I like Haruka?%K%P
+0xFD4
+本当なのだろうか？%K%P
+Is that true?%K%P
+0xFE0
+まだ知り合ったばかりなのに？　彼女のこと何も知らないのに？%K%P
+Even though we're just acquaintances? Even though I%Nknow nothing about her?%K%P
+0xFF4
+遙「…………好き？」%K%P
+Haruka「... 'Like'?」%K%P
+0x1000
+誠「あ……ああ」%K%P
+Makoto「Y... Yeah.」%K%P
+0x100C
+勢いで言ってしまった手前、頷くオレ。%K%P
+I nod before forcing myself to say this.%K%P
+0x1018
+遙「…………」%K%P
+Haruka「...」%K%P
+0x1024
+うつむく遙。%K%P
+Haruka lowers her head again.%K%P
+0x1030
+誠「あ……えと……」%K%P
+Makoto「Ah... Umm...」%K%P
+0x103C
+動揺するオレ。ひょっとして嫌がられたのだろうか？%K%P
+I'm on edge. Am I annoying her?%K%P
+0x1048
+誠「あ……その……冗談だから、あはは……、こんな冗談、本気にするなよな、遙〜」%K%P
+Makoto「Ah... err... it was just a joke, ahahaha... don't take it%Nseriously.」%K%P
+0x1054
+オレは必死でとりつくろう。%K%P
+I desperately try to smooth this over.%K%P
+0x1060
+遙「冗談……なの？」%K%P
+Haruka「It was... a joke?」%K%P
+0x106C
+誠「あ……ああ」%K%P
+Makoto「Y... Yeah.」%K%P
+0x1078
+遙「そう……よかった……」%K%P
+Haruka「I see... I'm glad...」%K%P
+0x1084
+誠「…………」%K%P
+Makoto「...」%K%P
+0x1090
+やっぱり、嫌がられていた……。%K%P
+As I thought, I was pestering her...%K%P
+0x109C
+オレはショックを隠し切れない。%K%P
+I try to hide my shock.%K%P
+0x10B0
+遙「わからないから……。『好き』って言葉の意味が……」%K%P
+Haruka「Because I don't know... The meaning of the word 'like'...」%K%P
+0x10BC
+誠「え……？」%K%P
+Makoto「Huh...?」%K%P
+0x10C8
+遙「好きって言われても、どんな顔すればいいのか……わからないから……」%K%P
+Haruka「Because if someone told me they liked me, I wouldn't%Nknow... how to react...」%K%P
+0x10D4
+遙「好きって言われたら、どういうこと考えたらいいのか……わからないから……」%K%P
+Haruka「Because if someone told me they liked me, I wouldn't%Nknow... what to think...」%K%P
+0x10E0
+誠「…………」%K%P
+Makoto「...」%K%P
+0x10F4
+オレ達は、再び沈黙してしまう。%K%P
+We fall silent again.%K%P
+0x1100
+またもや、気まずい空気……。%K%P
+Once again, the atmosphere is awkward...%K%P
+0x110C
+誠「なあ、滑り台。やらないか？」%K%P
+Makoto「Hey, do you want to go on the slide?」%K%P
+0x1118
+とりあえず、この場を打開するために、行動に出ることにした。%K%P
+For the time being, in order to break this deadlock%Nbetween us, I've got to act.%K%P
+0x112C
+遙「……滑り台？」%K%P
+Haruka「... The slide?」%K%P
+0x1138
+誠「ホラ、ここ滑り台なんだぜ。気づかなかったのか？」%K%P
+Makoto「See, this is the slide. You didn't notice?」%K%P
+0x1144
+コクン……。頷く遙。%K%P
+Haruka nods.%K%P
+0x1150
+誠「滑るか？　遙？　滑り台？」%K%P
+Makoto「Do you want to ride it?」%K%P
+0x1164
+遙「……」%K%P
+Haruka「...」%K%P
+0x1170
+どうやら、迷っているようだ。%K%P
+She seems hesitant.%K%P
+0x117C
+誠「やろう！　滑り台。きっと気持ちいいぜ」%K%P
+Makoto「Let's do it! I know you're gonna love it, it feels great!」%K%P
+0x1188
+遙「気持ちいい……？」%K%P
+Haruka「Feels great...?」%K%P
+0x1194
+誠「ああ、滑っている間は、何も考えられないくらいだ……」%K%P
+Makoto「Yeah, when you're sliding, you can't think about%Nanything...」%K%P
+0x11A0
+ちょっと大げさに言い張るオレ。いや、かなり大げさかも……。%K%P
+I keep on insisting, exaggerating it a little bit. No, scratch%Nthat, I'm really overexaggerating...%K%P
+0x11AC
+遙「何も……考えられない……？」%K%P
+Haruka「Can't think... about anything...?」%K%P
+0x11B8
+誠「ああ」%K%P
+Makoto「Yeah.」%K%P
+0x11C4
+遙「……」%K%P
+Haruka「...」%K%P
+0x11D8
+遙「滑る」%K%P
+Haruka「Then I'll do it.」%K%P
+0x11E4
+遙は、はっきりとそう答えた。%K%P
+Haruka answers clearly.%K%P
+0x11F8
+遙「…………」%K%P
+Haruka「...」%K%P
+0x1204
+誠「遙……？　どうしたんだ？」%K%P
+Makoto「Haruka...? What's wrong?」%K%P
+0x1210
+遙「…………」%K%P
+Haruka「...」%K%P
+0x121C
+無表情な遙。……いや、顔がこわばっているといった方が正しいか？%K%P
+She's expressionless. ... No, would it be better to say%Nthat her expression has gone stiff?%K%P
+0x1228
+誠「遙……もしかして緊張してるのか？」%K%P
+Makoto「Haruka... could it be that you're nervous?」%K%P
+0x1234
+遙「……」%K%P
+Haruka「...」%K%P
+0x1240
+コクン。うなずく遙。%K%P
+She nods.%K%P
+0x1254
+遙「ねぇ……」%K%P
+Haruka「Hey...」%K%P
+0x1260
+突然、手を握ってくる遙。オレはギョッとしてしまう。%K%P
+Suddenly, Haruka grabs my hand, startling me.%K%P
+0x126C
+遙「誠も一緒に滑って……」%K%P
+Haruka「Let's go on the slide together...」%K%P
+0x1280
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x128C
+結局、２人で滑ることになってしまった。%K%P
+In the end, it's come down to the two of us sliding%Ntogether.%K%P
+0x12A0
+オレの両足の間に遙が座り込み、後ろから遙を抱え込むような姿勢をとらされる。%K%P
+Haruka sits down between my legs as I hold her from%Nbehind.%K%P
+0x12AC
+後ろから流れてくる温水が、お尻に心地よい。%K%P
+The warm water flowing from behind me feels pleasant%Nagainst my back.%K%P
+0x12B8
+いや……それ以上に……。%K%P
+But... at this rate...%K%P
+0x12C4
+誠「ち、ちょっと……これって、少し危なくないか……？」%K%P
+Makoto「D-Don't you... think this is a little dangerous...?」%K%P
+0x12D0
+遙「大丈夫……。誠さえ、しっかり掴まえててくれれば……」%K%P
+Haruka「It's all right... You're holding me tight enough...」%K%P
+0x12DC
+誠「いや……そういう意味じゃなくて……」%K%P
+Makoto「No... that's not what I meant...」%K%P
+0x12E8
+遙「行くよ……！」%K%P
+Haruka「Let's go...!」%K%P
+0x12F4
+誠「ち、ちょい、タンマ……！」%K%P
+Makoto「W-Wait, not ye...!」%K%P
+0x1300
+でも遙は待たない。オレ達は一気に滑り出す。%K%P
+But Haruka doesn't wait. We take a deep breath.%K%P
+0x130C
+水の流れに乗って、猛スピードで滑り落ちて行く。%K%P
+As we ride the flowing water, we slide down with great%Nspeed.%K%P
+0x1318
+遙「！！……」%K%P
+Haruka「!!...」%K%P
+0x1324
+声にならない悲鳴をあげている遙。%K%P
+Haruka can't help but shout.%K%P
+0x1330
+誠「……！！」%K%P
+Makoto「...!!」%K%P
+0x133C
+別の意味で声にならない悲鳴をあげるオレ。%K%P
+I yell for a totally different reason.%K%P
+0x1348
+遙は滑り降りる爽快感に酔いしれているが、オレはそれどころじゃない。%K%P
+While Haruka is intoxicated by the exhilarating feeling of%Nsliding down, I don't share her sentiments.%K%P
+0x1354
+大の大人が２人で滑っているのだ。ひどく体が密着してしまってオレは気が気でなかった。%K%P
+We're two adults on a water slide. The fact that we're%Npractically glued together as well causes me to feel%Nuneasy.%K%P
+0x138C
+ようやく終着駅だ。オレ達はプールの水を全身にかぶる。%K%P
+We finally reach the end point. Our bodies are flung into%Nthe pool's water.%K%P
+0x1398
+誠「ふぇ〜……」%K%P
+Makoto「Whew...」%K%P
+0x13A4
+遙が頭から水を滴らせながら、こっちを振り向く。%K%P
+Haruka turns towards me with water dripping from her%Nhead.%K%P
+0x13B8
+誠「……あ！」%K%P
+Makoto「... Ah!」%K%P
+0x13C4
+遙「うふふ……」%K%P
+Haruka「Hee hee...」%K%P
+0x13D0
+なんと……、遙が笑っている。%K%P
+What the... Haruka just smiled...%K%P
+0x13DC
+満面の笑顔と呼ぶほどではないが、オレが見る初めての遙の笑顔だった。%K%P
+It was just a small grin, but I've never seen her smile like%Nthat before.%K%P
+0x13E8
+遙「ね……、もう１回」%K%P
+Haruka「Hey... one more time.」%K%P
+0x13F4
+誠「……は？」%K%P
+Makoto「... Huh?」%K%P
+0x1400
+遙「もう１回……、行こ」%K%P
+Haruka「Let's go... one more time.」%K%P
+0x140C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x1418
+オレが解放されるまで、何回付き合わされたのか……もはや、覚えていない。%K%P
+We took so many trips down the slide together that I lost%Ntrack.%K%P
+0x1468
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x1474
+遙から解放されたオレは、喉の渇きを覚えて売店へ向かった。%K%P
+Once I leave Haruka, I head over to the drink stand to%Nquench my thirst.%K%P
+0x14F8
+優夏「あれ〜？　誠じゃない」%K%P
+Yuka「Huh? Well, if it isn't Makoto.」%K%P
+0x1504
+誠「あ……優夏」%K%P
+Makoto「Oh... Yuka.」%K%P
+0x1510
+優夏「なんだか、誠、クタクタみたいだね」%K%P
+Yuka「You look kinda beat.」%K%P
+0x151C
+誠「あ……ああ、滑り台、遙のヤツに付き合わされていたんだ……」%K%P
+Makoto「Y... Yeah. I was riding on the slide together with Haruka...」%K%P
+0x1528
+優夏「はぁ〜……？」%K%P
+Yuka「Huh...?」%K%P
+0x1534
+オレは優夏にさっきまでのことを話した。%K%P
+I tell Yuka what we were doing just now.%K%P
+0x1540
+優夏「ふ〜ん、なんだか子供みたいだね」%K%P
+Yuka「Hmm, that sounds kinda childish.」%K%P
+0x154C
+誠「だよな〜。遙のやつ、もしかして、今まで滑り台やったことなかったんじゃないか？」%K%P
+Makoto「Agreed. Perhaps this is the first time Haruka's ever been%Non a slide?」%K%P
+0x1558
+優夏「違う違う……。私が言っているのは、『誠が』ってこと」%K%P
+Yuka「Wrong, wrong... I was talking about you.」%K%P
+0x1564
+誠「はい？　オレが？　なんでだよ」%K%P
+Makoto「Huh? Me? Why?」%K%P
+0x1570
+優夏「だって、最初に誘ったのは誠なんでしょ？　２０才にもなって滑り台なんて、子供以外の何物でもないじゃない」%K%P
+Yuka「Because weren't you the one who invited her in the first%Nplace? You're 20 years old, and yet you're doing things%Nthat only kids do.」%K%P
+0x157C
+誠「うっ……！」%K%P
+Makoto「Ugh...!」%K%P
+0x1588
+返す言葉もない。確かに、オレって子供なのかも……。%K%P
+I have no comeback. Certainly, what I did was pretty%Nchildish...%K%P
+0x1594
+優夏「それよりさぁ、喉渇かない？　奢ってあげるよ」%K%P
+Yuka「Anyway, are you thirsty? It's on me.」%K%P
+0x15A0
+誠「おっ！　ラッキー！　ご馳走になります」%K%P
+Makoto「Oh! Looks like I got lucky! Thank you very much!」%K%P
+0x15B4
+（だめだ、こりゃ……）%K%P
+(This is no good...)%K%P
+0x15C0
+オレは放っておくことにした。もう、何を言っても会話が成り立ちそうにない。%K%P
+I'll just ignore Haruka for now. It's extremely unlikely I can%Nhold up a conversation with her anyway.%K%P
+0x15CC
+誠「遙……。オレ、ひと滑りしてくるよ」%K%P
+Makoto「Haruka... I'm going on the slide now.」%K%P
+0x15D8
+遙「…………」%K%P
+Haruka「...」%K%P
+0x15E4
+最後に１声かけて、オレは滑り台の階段を駆け上がっていった。%K%P
+With those final words, I run up the stairs to the slide.%K%P
+0x1608
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x1614
+シューーーー………………%K%P
+Whooooosh...%K%P
+0x163C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x1648
+滑ってみたものの、なんだか思ったよりも楽しくない。%K%P
+I went on the slide, but for some reason, it wasn't as fun%Nas I thought it'd be.%K%P
+0x1654
+子供の頃は、もっと面白かったはずなのに……。%K%P
+Even though it was much more fun when I was a kid...%K%P
+0x1660
+誠「もう……行こう……」%K%P
+Makoto「That's enough... I'll go now.」%K%P
+0x166C
+オレは、喉の渇きを覚えて売店へ向かった。%K%P
+I head over to the drink stand to quench my thirst.%K%P
+0x16A8
+優夏「あれ〜？　誠じゃない」%K%P
+Yuka「Huh? Well, if it isn't Makoto.」%K%P
+0x16B4
+誠「あ……優夏」%K%P
+Makoto「Oh... Yuka.」%K%P
+0x16C0
+優夏「喉渇かない？　奢ってあげるよ」%K%P
+Yuka「Anyway, are you thirsty? It's on me.」%K%P
+0x16CC
+誠「おっ！　ラッキー！　ご馳走になります」%K%P
+Makoto「Oh! Looks like I got lucky! Thank you very much!」%K%P
+0x1724
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
