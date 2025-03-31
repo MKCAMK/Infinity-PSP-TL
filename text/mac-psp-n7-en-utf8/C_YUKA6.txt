@@ -204,10 +204,10 @@ The 6th...%K%P
 5:00... on the 6th...%K%P
 0x63C
 『何をやっても歴史というものは変わらない』%K%P
-"Then no matter what happens, history wouldn't change."%K%P
+「Then no matter what happens, history wouldn't change.」%K%P
 0x648
 『世界中で起こる全ての出来事は、初めから何もかも決まっている』%K%P
-"Everything which occurs in the world has been%Npredetermined from the beginning."%K%P
+「Everything which occurs in the world has been%Npredetermined from the beginning.」%K%P
 0x654
 変えたつもりになっていただけ……。%K%P
 Even though we planned to change it...%K%P
@@ -774,7 +774,7 @@ I bite down on my lips hard, then turn around and start%Nrunning up the staircas
 The one to save Kurumi-chan won't be Makoto, but me!%K%P
 0x1530
 この弱い自分が、今、一番守りたいもの…………それは……。%K%P
-Right now, the one that this weak person known as "me"%Nwants to protect the most... is...%K%P
+Right now, the one that this weak person known as 「me」%Nwants to protect the most... is...%K%P
 0x153C
 （それは……私じゃなくて、誠なんだよ！！）%K%P
 (It's not myself....it's Makoto!!)%K%P
@@ -876,7 +876,7 @@ Those words flash through my mind.%K%P
 I put my hand into my pocket, looking for the bell...%K%P
 0x17C8
 ……鈴？%K%P
-...Wait, "bell"?%K%P
+...Wait, 「bell」?%K%P
 0x17D4
 ……誠！？%K%P
 ...Makoto!?%K%P
@@ -915,7 +915,7 @@ For us to be together forever...!
 For a miracle to happen once more...!
 0x190C
 『いつまでも、一緒に……！』%K%P
-"We'll be together forever...!"%K%P
+「We'll be together forever...!」%K%P
 0x1918
 鈴を取り出して握りしめる。%K%P
 I take out the bell, and grasp it tightly.%K%P
@@ -984,31 +984,31 @@ And finally, I lose consciousness―.%K%P
 ―A memory of that far off day, when I looked at that%Nclear sky and heard the story about the twins...%K%P
 0x1B7C
 『仲のよい２人は、どんな時でも一緒だったんだよ』%K%P
-"The two of them were so close that they were always%Ntogether, no matter what time."%K%P
+「The two of them were so close that they were always%Ntogether, no matter what time.」%K%P
 0x1B88
 『だから……死ぬ時も一緒でいたかった……』%K%P
-"So likewise... They wanted to die at the same time..."%K%P
+「So likewise... They wanted to die at the same time...」%K%P
 0x1B94
 『不死身だったポルックスは、ゼウスに頼んだんだ』%K%P
-"And so Pollux made a request to Zeus."%K%P
+「And so Pollux made a request to Zeus.」%K%P
 0x1BA0
 『「自分の不死を解いてくれ」、と』%K%P
-"'Take away my immortality'."%K%P
+「'Take away my immortality'.」%K%P
 0x1BAC
 『願いの叶えられた２人は仲良く天へと上げられ……』%K%P
-"Zeus granted that wish, and the two of them went up to%Nthe heavens together..."%K%P
+「Zeus granted that wish, and the two of them went up to%Nthe heavens together...」%K%P
 0x1BB8
 『……冬の空に輝く星座になった…………』%K%P
-"... They became a constellation that shines in the winter%Nskies..."%K%P
+「... They became a constellation that shines in the winter%Nskies...」%K%P
 0x1BC4
 ……………………。%K%P
 ...%K%P
 0x1C24
 『今一度、奇跡を……！』%K%P
-"Let a miracle happen once more...!"%K%P
+「Let a miracle happen once more...!」%K%P
 0x1C30
 この世に、奇跡というものがあるのなら……%K%P
-If the things known as "miracles" exist in this world, then...%K%P
+If the things known as 「miracles」 exist in this world, then...%K%P
 0x1C3C
 （お願い！　もう一度……！！）%K%P
 (Please! One more time...!!)%K%P

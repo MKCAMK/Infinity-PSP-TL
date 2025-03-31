@@ -21,7 +21,7 @@ Kurumi「Kurumi was going to go to Princess Beach to watch%Nsome crab sumo, so s
 Makoto「I see.」%K%P
 0x100
 って『カニ相撲』って何だよ！？　まあ、だいたい想像はつくけど……。%K%P
-Wait, what the hell is "Crab sumo"!? Well, it's pretty%Nself-explanatory, but...%K%P
+Wait, what the hell is 「Crab sumo」!? Well, it's pretty%Nself-explanatory, but...%K%P
 0x10C
 くるみ「で、お兄ちゃんは、どこに行くの？」%K%P
 Kurumi「So, where are you going, Onii-chan?」%K%P
@@ -519,16 +519,16 @@ When I've finished seven of my eight assignments, it's a%Nlittle past 3:30.%K%N
 I finished window cleaning much earlier than I had%Nexpected, thanks to a salt removing detergent%NIzumi-san lent me.%K%N%N
 0xBC8
 『塩を除去する為の専用の洗剤』%N%N
-"A salt removing detergent."%N%N
+「A salt removing detergent.」%N%N
 0xBD4
 ──そんなものがこの世の中にあるなんて、初めて知った。%K%P
 ―I never knew until now something like that existed in%Nthis world.%K%P
 0xBE8
 昔、ネジ工場でバイトしていた友人が『月刊ネジ』という雑誌を誇らしげにオレに見せてくれた時と同じようなカルチャーショックを覚えた。%K%N%N
-This is the same feeling of culture shock I felt in the past%Nwhen a friend of mine who worked in a screw factory%Nproudly showed me a magazine called "Monthly Toolbox".%K%N%N
+This is the same feeling of culture shock I felt in the past%Nwhen a friend of mine who worked in a screw factory%Nproudly showed me a magazine called 「Monthly Toolbox」.%K%N%N
 0xBF4
 『必要は発明の母』%K%N
-"Necessity is the mother of invention,"%K%N
+「Necessity is the mother of invention,」%K%N
 0xC00
 とはよく言ったもんだ。%K%N%N
 as he would frequently say.%K%N%N
@@ -630,13 +630,13 @@ Occult...%K%P
 The word suddenly triggers a memory.%K%P
 0xE3C
 『おもしろいとこ』……昨日の夜、くるみはそんなことを言って、オレを神社に連れて行った。%K%P
-"An interesting place"... last night, Kurumi said that, and%Ntook me to the shrine.%K%P
+「An interesting place」... last night, Kurumi said that, and%Ntook me to the shrine.%K%P
 0xE48
 何が何でも神社の正体を確かめてやる！──そんな執念みたいなものを、くるみは抱いていたようだ。%K%P
-She was really tenacious about investigating that%Nplace. as if she were thinking "I want to confirm the%Nshrine's true nature!"%K%P
+She was really tenacious about investigating that%Nplace. as if she were thinking 「I want to confirm the%Nshrine's true nature!」%K%P
 0xE54
 確かに『人一倍好奇心が旺盛』というのは、間違いではないのだろう。%K%P
-Izumi-san sure hit the nail on the head when she said%Nthat "Kurumi's filled with more curiosity than most people."%K%P
+Izumi-san sure hit the nail on the head when she said%Nthat 「Kurumi's filled with more curiosity than most people.」%K%P
 0xE60
 オレはそのことをいづみさんに言った。%K%P
 I ought to talk to her about that.%K%P
@@ -684,13 +684,13 @@ I resolve myself, and decide to try asking her.%K%P
 There shouldn't be anything wrong with at least asking...%K%P
 0xF2C
 『これから、ミステリーツアー行かない？』%K%P
-"After this, do you want to go on a Mystery Tour?"%K%P
+「After this, do you want to go on a Mystery Tour?」%K%P
 0xF38
 ……月浜で、いづみさんの話が終わった後、くるみは瞳を爛々と輝かせてそう言った。%K%P
 ... After Izumi-san finished her story on Moon Beach,%NKurumi spoke with a mischievous glint in her eyes.%K%P
 0xF44
 確かに『人一倍好奇心が旺盛』というのは、間違いではないのだろう。%K%P
-Izumi-san sure hit the nail on the head when she said%N"Kurumi's filled with more curiosity than most people."%K%P
+Izumi-san sure hit the nail on the head when she said%N「Kurumi's filled with more curiosity than most people.」%K%P
 0xF50
 あのときは、いづみさんが猛反対したから、断念したみたいだったけど……。%K%P
 At that time, because Izumi-san was extremely against it,%Nit looked like she'd give up her plans...%K%P
@@ -756,10 +756,10 @@ It seems I'm not going to make any progress by directly%Nasking.%K%P
 I'll just have to trick her into confessing...%K
 0x1AD8
 『実は今晩神社に行くつもり』
-"I plan to go to the shrine tonight."
+「I plan to go to the shrine tonight.」
 0x1AE4
 『死鬼の神の真相を知っている』
-"I know the truth about the God of Demons."
+「I know the truth about the God of Demons.」
 0x1098
 誠「いづみさん……実はオレ、今晩あの神社に行ってみようと思ってるんだ」%K%P
 Makoto「Izumi-san... the truth is, I was thinking about trying to go%Nto the shrine tonight.」%K%P
@@ -1044,7 +1044,7 @@ Kurumi「If we go back now... hmm... We'll be ten minutes late, right?」%K%P
 I look at my watch.%K%P
 0x1674
 『４時４０分』──ここからだとルナビーチまで、歩いて３０分はかかるから……%K%P
-"4:40 P.M."―On foot, it's about half an hour from here%Nto Lunabeach...%K%P
+「4:40 P.M.」―On foot, it's about half an hour from here%Nto Lunabeach...%K%P
 0x1680
 ……確かにくるみの言う通りだった。%K%P
 ... Kurumi's right.%K%P

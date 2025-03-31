@@ -6,7 +6,7 @@ text area offset and size:
 The next morning... I wake up, kill time in the living room for%Na little while, then head for Saki's summer house.%K%P
 0x160
 時刻は『１０時１２分』%K%N
-The time is "10:12 A.M."%K%N
+The time is 「10:12 A.M.」%K%N
 0x16C
 ちょうど今頃、あの子犬が沙紀の元へとやって来ている筈だ。%K%P
 It should be at this exact time that the puppy comes%Nover to see Saki.%K%P
@@ -186,7 +186,7 @@ I embrace Saki without a word.%K%P
 Makoto「That's enough. I don't want to see you cry...」%K%P
 0x508
 誠「前にも言ったけど、オレは沙紀のことを信じてるよ」%K%P
-Makoto「I told you before- I trust you, Saki.」%K%P
+Makoto「I told you before―I trust you, Saki.」%K%P
 0x514
 誠「そしてこれからも、沙紀のことを信じ続ける……」%K%P
 Makoto「And from now on, I'll continue to trust you...」%K%P
@@ -219,7 +219,7 @@ The sisters are as cheerful as ever.%K%P
 Saki doesn't act rude towards them and has fun.%K%P
 0x5E8
 さらに優夏も『魔法使いの絵』のことなんか、全く気にしていないようだった。%K%P
-Yuka also doesn't seem bothered about the "Magician's%NPortrait" incident, too.%K%P
+Yuka also doesn't seem bothered about the 「Magician's%NPortrait」 incident, too.%K%P
 0x5F4
 と言うよりも、ひょっとしたらそんなことはすっかりと忘れてしまっているのかもしれない。%K%P
 Actually, it might be better to say that it's possible that%Nshe's completely forgotten about it.%K%P

@@ -258,7 +258,7 @@ I broke my promise.%K%P
 All because I hesitated for that one moment...%K%P
 0x69C
 ……そうだよ！　……オレは思ったんだよ、あの時！%K%P
-That's right...! At that time, it happened because I thought%Nof "that"!%K%P
+That's right...! At that time, it happened because I thought%Nof 「that」!%K%P
 0x6A8
 まず自分のことを思ったんだ！%K%P
 I thought of myself first!%K%P
@@ -309,7 +309,7 @@ All of them...%K%P
 (I'm such... a goddamn coward...)%K%P
 0x794
 『自由になりたいなら怖れてはいけない』%K%P
-"If you want to be free, then you mustn't be afraid."%K%P
+「If you want to be free, then you mustn't be afraid.」%K%P
 0x7A0
 ──闘えよ！%K%P
 ―I'll fight!%K%P
@@ -339,7 +339,7 @@ I'll destroy such a ridiculous fate!%K%P
 I'll never repeat this again!%K%P
 0x80C
 『優夏を必ず守ってみせる』%K%P
-"I will definitely protect Yuka."%K%P
+「I will definitely protect Yuka.」%K%P
 0x818
 この誓いを……%T030もう破っては……%T030いけない……。%K%P
 I can't... break that oath... ever again...%K%P
@@ -399,7 +399,7 @@ I go to the ticket booth window.%K%P
 A notice set up against it quickly catches my eye.%K%P
 0x9C0
 『本日、悪天候のため運休』%K%P
-"Today, ferry service has been suspended due to bad%Nweather."%K%P
+「Today, ferry service has been suspended due to bad%Nweather.」%K%P
 0x9CC
 誠「悪天候？？　こんな良い天気なのに？？」%K%P
 Makoto「Bad weather?? But it's so nice right now. What's going%Non??」%K%P

@@ -60,10 +60,10 @@ Then... Then... the dream I had just now...%K%P
 ―That's wrong! What the hell am I saying!?%K%P
 0x1B4
 ──あれは『夢』なんかじゃない！！%K%N
-―That wasn't a "dream"!!%K%N
+―That wasn't a 「dream」!!%K%N
 0x1C0
 ──『夢』なんかじゃなくてっ……%K%P
-―There's no way in hell that was a "dream"...%K%P
+―There's no way in hell that was a 「dream」...%K%P
 0x204
 突然！　鼓膜を突き破るような大音響を聞いた！%K%P
 Suddenly, I hear a sound as violent as a gunshot!%K%P
@@ -87,7 +87,7 @@ This scene... it's definitely...%K%P
 I quickly look at my watch.%K%P
 0x2B8
 『１日　ＭＯＮ　０９：１９』%K%P
-"1 MON 9:19 A.M."%K%P
+「1 MON 9:19 A.M.」%K%P
 0x2C4
 ……１日。%K%P
 ―1st.%K%P
@@ -303,13 +303,13 @@ My unconscious body was taken to the hospital and%Nwas afterwards brought back t
 After that, Okuhiko thought...%K%P
 0x878
 『オレが意識を取り戻した時に、その日が４月１日であるようなフリをしよう』%K%P
-"When he regains consciousness, I'll pretend as if that%Nday were April 1st."%K%P
+「When he regains consciousness, I'll pretend as if that%Nday were April 1st.」%K%P
 0x884
 ……と、たくらんだ。%K%P
 ... and decided to trick me.%K%P
 0x890
 『今日は４月１日……じゃあオレはまさか、タイムスリップを！？』%K%P
-"Today is April 1st... Then I must have time traveled!"%K%P
+「Today is April 1st... Then I must have time traveled!」%K%P
 0x89C
 そんなふうにして、オレがうろたえるとでも思ったのだろう。%K%P
 If I didn't have a stronger grasp on my mind, I probably%Nwould have thought that.%K%P
@@ -771,7 +771,7 @@ Izumi-san says this, and lifts up my wrist.%K%P
 The letters on the watch between Izumi-san and I are%Nclearly visible.%K%P
 0x128C
 『１日……ＭＯＮ……』%K%P
-"1.. MON..."%K%P
+「1.. MON...」%K%P
 0x1298
 誠「──いいかげんにしてくれよ！」%K%P
 Makoto「―Just cut it out already!」%K%P
@@ -1014,10 +1014,10 @@ Unintentionally, I let out a deep sigh.%K%P
 I have no pity for the me who can't trust Izumi-san...%K%P
 0x1908
 と同時に『もはや、だまされてなるものか！』という頑固な意地もあった。%K%P
-But at the same time, I can't help but be stubborn and%Nremain wary, telling myself that "I won't let myself be%Ndeceived again!"%K%P
+But at the same time, I can't help but be stubborn and%Nremain wary, telling myself that 「I won't let myself be%Ndeceived again!」%K%P
 0x1914
 とても、複雑な心境だった……。%K%P
-"Bitten once, shy twice", huh...?%K%P
+「Bitten once, shy twice」, huh...?%K%P
 0x195C
 ちょうど坂の中腹にたどりついた頃、前から元気良く走って来る少女の姿を見つけた。%K%P
 When I get exactly halfway up the hill, I see that same girl%Nfrom earlier cheerfully running down.%K%P
@@ -1221,7 +1221,7 @@ Announcer「Today is Monday, April 1st. This is the afternoon news.」%K%P
 Her voice instantly reaches my ears.%K%P
 0x1E80
 『４月１日月曜日』%K%P
-"Monday, April 1st."%K%P
+「Monday, April 1st.」%K%P
 0x1E8C
 もう１度、頭の中で繰り返す。%K%P
 It repeats once more in my head.%K%P
@@ -1236,7 +1236,7 @@ I look at the old, round cathode ray tube.%K%P
 In it, I see the prim and proper announcer sitting down.%K%P
 0x1ECC
 画面の左上には白い文字で『４月１日月曜日』とあった。%K%P
-On the upper left corner of the screen, in white font is%Nthe words "Monday, April 1st."%K%P
+On the upper left corner of the screen, in white font is%Nthe words 「Monday, April 1st.」%K%P
 0x1ED8
 誠「……う、うそだろ……？」%K%P
 Makoto「... Y-You're kidding, right...?」%K%P
@@ -1470,7 +1470,7 @@ First, I decide to call the friends of people who I'm on%Ngood terms with.%K%P
 I call them one by one, and ask them for the date.%K%P
 0x24D4
 すると、返って来た答はことごとく%T015『１日に決まってるだろ！？』%K%P
-When I do, the response I get each time is "It's the 1st,%Nduh!"%K%P
+When I do, the response I get each time is 「It's the 1st,%Nduh!」%K%P
 0x24FC
 …………………………………………。%K%P
 ...%K%P
@@ -1491,7 +1491,7 @@ I try asking strangers from nearly every prefectures, to%Nthose up north in Hokk
 However, everyone replies with this, as if it's obvious.%K%N%N
 0x25C4
 『今日は、４月１日ですよ』%K%N%N
-"Today is April 1st."%K%N%N
+「Today is April 1st.」%K%N%N
 0x25D0
 もはや、疑う余地はなかった。%K%N%N
 There's no more room for doubt.%K%N%N

@@ -135,7 +135,7 @@ Haruka「...」%K%P
 The two of us fall silent again. This silence is getting%Nuncomfortable.%K%P
 0x2C4
 なんで水なんかが好きなんだろう？　オレは疑問に思う。%K%P
-I want to as her "Why do you like water so much?"%K%P
+I want to as her 「Why do you like water so much?」%K%P
 0x2D0
 ……が、質問するのは思い留まった。どうせ答えてはくれないだろうから。%K%P
 ... But I decide not to. At any rate, I don't think she'll%Nanswer me anyway.%K%P
@@ -222,7 +222,7 @@ Haruka「...」%K%P
 Makoto「Seriously, that's amazing. You're a year younger than%Nus, yet you're just as smart as we are... No, you might%Neven be smarter than us.」%K%P
 0x46C
 『すごいな』を連発するオレ。%K%P
-I keep saying "amazing."%K%P
+I keep saying 「amazing.」%K%P
 0x478
 誰しも、誉められて嫌な気分になるヤツはいない。%K%P
 Being praised makes everyone feel good.%K%P
@@ -348,10 +348,10 @@ I'm bewildered by her sudden question.%K%P
 How should I answer that?%K
 0x190C
 『好きだよ』
-"I like them."
+「I like them.」
 0x1918
 『あまり好きじゃないかな』
-"I don't really like them."
+「I don't really like them.」
 0x6F8
 誠「うん、好きだよ」%K%P
 Makoto「Yeah, I like them.」%K%P

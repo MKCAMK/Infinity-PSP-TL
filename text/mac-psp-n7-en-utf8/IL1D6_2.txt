@@ -123,10 +123,10 @@ I can't feel anything that makes it seem like she's lying in%Nthat serious gaze 
 I remember her words from two nights ago...%K%P
 0x4A4
 『でもね……そんな困った性格のあなたが……』%K%P
-"But... it seems that in spite of that troublesome%Npersonality of yours..."%K%P
+「But... it seems that in spite of that troublesome%Npersonality of yours...」%K%P
 0x4B0
 『好きになってたみたい……』%K%P
-"I've fallen in love with you..."%K%P
+「I've fallen in love with you...」%K%P
 0x4BC
 体中の血が、たぎるように熱かった。%K%P
 My blood is boiling.%K%P
@@ -249,13 +249,13 @@ As soon as I see it, I suddenly remember something.%K%P
 Kurumi's words from when we went to see the crab sumo...%K%P
 0x850
 ──『面白いもの、拾ったの』%K%P
-―"Kurumi just picked up something a little%Ninteresting."%K%P
+―「Kurumi just picked up something a little%Ninteresting.」%K%P
 0x85C
 そして、昨日ルナビーチで聞いたいづみさんの言葉……%K%P
 And yesterday, at Lunabeach, Izumi-san told me...%K%P
 0x868
 ──『今朝くるみがプレゼントしてくれたんだけどね……これ、なんでも姫ヶ浜で見つけたらしいの』%K%P
-―"This morning, I got a present from Kurumi...%NAccording to her, it seems she found it on Princess%NBeach."%K%P
+―「This morning, I got a present from Kurumi...%NAccording to her, it seems she found it on Princess%NBeach.」%K%P
 0x874
 （くるみが姫ヶ浜で見つけたのは……%Kあの『鈴』だったんだ……）%K%P
 (Kurumi found this bell... on Princess Beach...)%K%P

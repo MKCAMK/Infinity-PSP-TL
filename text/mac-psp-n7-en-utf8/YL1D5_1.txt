@@ -15,7 +15,7 @@ I just somehow woke up for no reason...%K%P
 I take a look at my watch, which I'd placed on my bedside.%K%P
 0x184
 『２時５０分』%K%P
-"2:50 A.M."%K%P
+「2:50 A.M.」%K%P
 0x190
 眠りについてから、まだ１時間とちょっとしか経っていない。%K%P
 It hasn't even been an hour since I went to sleep.%K%P
@@ -30,7 +30,7 @@ My mind is surprisingly wide awake, so I try to do%Nmultiplication tables in my 
 I try this countless times...%K%P
 0x1C0
 けれど、覚醒したオレの脳には、まどろみのきざしさえも現われなかった。%K%P
-It's no use- I'm too alert.%K%P
+It's no use―I'm too alert.%K%P
 0x1CC
 あきらめて、ベッドをするりと脱け出す。%K%P
 I give up and get out of bed.%K%P
@@ -210,16 +210,16 @@ Yuka「Now that I think about it, it's the same feeling as when I%Nsaw those che
 Those words bring me back to reality.%K%P
 0x6B4
 そうだった……あの桜を見に行ったときのこと……聞かなければならない。%K%P
-That's right... when we saw those cherry blossoms... I%Nhave to ask her about "that".%K%P
+That's right... when we saw those cherry blossoms... I%Nhave to ask her about 「that」.%K%P
 0x6C0
 ──どうして『鈴』のことを知ってたのか？%K%P
-―Why did she know about the "bell"?%K%P
+―Why did she know about the 「bell」?%K%P
 0x6CC
 ──なぜ女の子から『鈴』を取り戻さなければならなかったのか？%K%P
-―Why did she have to take back the "bell" from that%Ngirl?%K%P
+―Why did she have to take back the 「bell」 from that%Ngirl?%K%P
 0x6D8
 ──そして……今でもあの『鈴』を持っているのか？%K%P
-―And... does she have that "bell" even now?%K%P
+―And... does she have that 「bell」 even now?%K%P
 0x6E4
 ずっと２人っきりになれる機会を探していたのだ。%K%P
 I've been waiting for the chance for the two of us to be%Nall alone.%K%P
@@ -321,7 +321,7 @@ Yuka「It's just... I thought it sounded... rather old-fashioned...」%K%P
 Makoto「It... It may sound old-fashioned, but I really believe in that.」%K%P
 0x8AC
 誠「男は女を守るもの──昔から、そう決まってるんだよ！」%K%P
-Makoto「Men ought to try their best to protect women- that's the%Nway it's been for ages!」%K%P
+Makoto「Men ought to try their best to protect women―that's the%Nway it's been for ages!」%K%P
 0x8B8
 優夏「それじゃあ私のこと、守ってくれようとしたんだ？」%K%P
 Yuka「Well then, are you saying you'll try to protect me?」%K%P

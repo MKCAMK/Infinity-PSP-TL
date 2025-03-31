@@ -240,7 +240,7 @@ To say nothing less of my voice, which also won't come%Nout.%K%P
 (If Kurumi wasn't kidnapped, then...)%K%P
 0x5F8
 （あの『空白の３年間』がなければ……）%K%P
-(If that "three year blank" never happened, then...)%K%P
+(If that 「three year blank」 never happened, then...)%K%P
 0x604
 （──遙はこの歴史の中に──存在しないと！？）%K%P
 (―Does that mean that Haruka―doesn't exist in%Nthis history!?)%K%P
@@ -447,7 +447,7 @@ Makoto「In order to erase Kurumi's scar... in order to erase that%N'three year 
 Makoto「I erased the existence of the shrine from this history!」%K%P
 0xB54
 『第３の特徴が証明されれば、空白の３年間を歴史から抹消できる』%K%P
-"If The Third Trait's been proven, then I can erase that%Nthree year blank from history."%K%P
+「If The Third Trait's been proven, then I can erase that%Nthree year blank from history.」%K%P
 0xB60
 誠「あの夜のプールで、いづみさんそう言ってただろ？」%K%P
 Makoto「You said something like that at the pool last night, didn't%Nyou?」%K%P
@@ -999,7 +999,7 @@ I try dragging her body to the edge of the road...%K%P
 ... But I trip on something, and fall flat on the ground.%K%P
 0x2070
 足元に転がっていたのは、あの『コンクリートのカケラ』……。%K%P
-Lying by my feet is that "fragment of concrete"...%K%P
+Lying by my feet is that 「fragment of concrete」...%K%P
 0x207C
 誠「っ！」%K%P
 Makoto「!」%K%P
@@ -1044,7 +1044,7 @@ I try dragging her body to the edge of the road...%K%P
 ... But I trip on something, and fall flat on the ground.%K%P
 0x2344
 足元に転がっていたのは、あの『コンクリートのカケラ』……。%K%P
-Lying by my feet is that "fragment of concrete"...%K%P
+Lying by my feet is that 「fragment of concrete」...%K%P
 0x2350
 誠「っ！」%K%P
 Makoto「!」%K%P
@@ -1128,7 +1128,7 @@ Makoto「Haruka! I'll leave Izumi-san to you!」%K%P
 The instant I make my decision, I entrust Izumi-san to%NHaruka, and rush out into the middle of the road.%K%P
 0x2674
 『どんなことがあっても、いづみさんを守り抜いてみせる！』%K%P
-"No matter what happens, I will protect Izumi-san to the%Nend!"%K%P
+「No matter what happens, I will protect Izumi-san to the%Nend!」%K%P
 0x2680
 （……命を……懸けてでも……）%K%P
 (... Even if... it costs me my life...)%K%P
@@ -1404,7 +1404,7 @@ And beyond it... I see a coldly shining... silver... light...%K%P
 In that instant, my consciousness fades...%K%P
 0x31C0
 『どんなことがあっても、いづみさんを守り抜いてみせる！』%K%P
-"No matter what happens, I will protect Izumi-san until the%Nend!"%K%P
+「No matter what happens, I will protect Izumi-san until the%Nend!」%K%P
 0x31CC
 オレは再び立ち上がった。%K%P
 I stand up again.%K%P

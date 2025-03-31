@@ -129,7 +129,7 @@ Well, that was unexpected.%K%P
 It's not that tennis itself is a problem.%K%P
 0x2BC
 そういうことじゃなくて、さも当たり前のことのように、優夏や億彦が『テニスに行こう』と言い出したことが、オレにはしっくりこなかったのだ。%K%P
-It's that Yuka and Okuhiko just said "let's play tennis"%Nlike it was nothing, and there seems to be no issue with it.%K%P
+It's that Yuka and Okuhiko just said 「let's play tennis」%Nlike it was nothing, and there seems to be no issue with it.%K%P
 0x2C8
 だって、この合宿は……%K%P
 Just what is...%K%P
@@ -171,7 +171,7 @@ Yuka「'Just what is it', you say... Obviously, it's 'camping' in a%N'seminar'.�
 Don't ask any more.
 0x10B4
 『ゼミ』って何？
-"What do you mean, 'seminar'?"
+「What do you mean, 'seminar'?」
 0x410
 誠「答になってないよ」%K%P
 Makoto「That's enough for me.」%K%P
@@ -315,7 +315,7 @@ I can feel my ears burn hot.%K%P
 When I realize what that means, I try not to act anxious.%K%P
 0x6B8
 『しつこい男は嫌われる』%N──嫌われる、って%W%W%W%W……誰に？%K%P
-"Dislike persistent men." ―Dislike... who?%K%P
+「Dislike persistent men.」 ―Dislike... who?%K%P
 0x6C4
 頬を撫でるそよ風は、春の匂いをはらんでいた。%K%P
 Flustered, I feel the wind playfully brush against my%Ncheeks.%K%P
@@ -402,10 +402,10 @@ There's a victorious glint in Okuhiko's eyes. His mouth%Nalso warps into another
 Yuka「Then we'll be right here.」%K%P
 0x8F0
 ──はいっ？　私達？%K　私…%W%W%W達？%K%P
-―What? "We"? W... We?%K%P
+―What? 「We」? W... We?%K%P
 0x8FC
 『達』っていうのは、%W%Wつまり、オレと優夏ってことか？%K
-So by "we", Yuka means me and her?%K
+So by 「we」, Yuka means me and her?%K
 0x10C0
 オレも海に行きたい
 I also want to go to the ocean.
@@ -432,7 +432,7 @@ Makoto「I'm also... going to the ocean.」%K%P
 Yuka「Huuuh!?」%K%P
 0x9A4
 億彦が『チッ』と微かに舌打ちをした。とても小さな音だったが、オレには確かに聞こえた。%K%P
-Okuhiko faintly clicks his tongue as if to say "Dammit". It%Nwas a very quiet sound, but I definitely heard it.%K%P
+Okuhiko faintly clicks his tongue as if to say 「Dammit」. It%Nwas a very quiet sound, but I definitely heard it.%K%P
 0x9B0
 彼が何を思っているのか、その露骨な態度が全てを物語っていた。%K%P
 If he's trying to be discreet, he's not doing a very good%Njob of it.%K%P
@@ -474,7 +474,7 @@ Yuka rudely snatches mine out of my hands. She seems%Na bit mad...%K%P
 She takes the racket from the bench and swings it wildly.%NIt spins rapidly. Yep... she's pissed.%K%P
 0xA84
 危ない……！%W%W%W　思ったときは遅かった。%K%P
-Just then, I notice something, but by the time I think "Look%Nout...!" it's already too late.%K%P
+Just then, I notice something, but by the time I think 「Look%Nout...!」 it's already too late.%K%P
 0xAAC
 鈍い音だった。%K%P
 A thick sound rings out.%K%P

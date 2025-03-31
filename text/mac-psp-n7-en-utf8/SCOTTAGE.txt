@@ -27,7 +27,7 @@ As I hold the basket, I examine the house.%K%P
 I didn't notice it last night, but it's not half bad.%K%P
 0xA0
 『朝倉家』がどれだけ金持ちなのか、オレには想像もつかないけれど、この建物を見る限り不快感はなかった。%K%P
-I can't imagine how wealthy this "Asakura family" is, but%Njudging by this house, I get the feeling that they're%Npretty well off.%K%P
+I can't imagine how wealthy this 「Asakura family」 is, but%Njudging by this house, I get the feeling that they're%Npretty well off.%K%P
 0xAC
 古くさい言い方だが、成金趣味といった感じが全くない。豪華な造りではあるのだが、そう、どこか自然とうまく調和している。%K%P
 The summer house is incredible. I feel like it could have%Nbeen designed by Frank Lloyd Wright, as rather than%Nbeing over-the-top lavish, it seems to be organic and in%Nsync with nature.%K%P
@@ -36,7 +36,7 @@ The summer house is incredible. I feel like it could have%Nbeen designed by Fran
 Nature, huh... I suddenly remember the day I first met Saki.%K%P
 0xC4
 月屋ホテルや温水プールを見て、『虚飾』だとか『俗悪』とか言っていた沙紀。%K%P
-When she saw Tsukiya Hotel and the heated pool, she%Nscoffed and used words like "affectation" and "worldly."%K%P
+When she saw Tsukiya Hotel and the heated pool, she%Nscoffed and used words like 「affectation」 and 「worldly.」%K%P
 0xD0
 いくら人間があがいたって、自然の美しさには及ばないとも言っていた。%K%P
 She said that no matter how hard humans try, there's no%Nway they can match up to natural beauty.%K%P
@@ -204,10 +204,10 @@ Makoto「Take it yourself.」%K%P
 Saki「Just put it down over there.」%K
 0x17D0
 『……わかったよ』
-"... All right."
+「... All right.」
 0x17DC
 『ちゃんと沙紀の手で受け取れよ』
-"You should take it with your own hands."
+「You should take it with your own hands.」
 0x410
 誠「……わかったよ」%K%P
 Makoto「... All right.」%K%P
@@ -231,7 +231,7 @@ Saki「Well... it's not bad.」%K%P
 Just as I thought. Saki is just being strangely stubborn%Nagain.%K%P
 0x464
 『ありがとう』……たったひと言で済むことなのに……やれやれ。%K%P
-A "thank you" would have been nice... Oh, well.%K%P
+A 「thank you」 would have been nice... Oh, well.%K%P
 0x470
 そこでオレは、沙紀からは見えない反対側も見せてあげようと、バスケットをくるりと回して見せた。%K%P
 I turn the basket around to show off the other side of it.%K%P
@@ -459,7 +459,7 @@ Makoto「... Haruka?」%K%P
 Haruka「...」%K
 0x17E8
 『ちょっと待てよ！』
-"Wait a minute!"
+「Wait a minute!」
 0x17F4
 黙って遙を見送った
 Silently see off Haruka.

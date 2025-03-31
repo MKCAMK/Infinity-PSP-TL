@@ -141,10 +141,10 @@ Kurumi「Haruka-san, who did you make that promise with?」%K%P
 Haruka「It was...」%K
 0xC98
 『……オレだよ』
-"... With me."
+「... With me.」
 0xCA4
 『………………』
-"..."
+「...」
 0x4CC
 誠「……オレだよ」%K%P
 Makoto「... With me.」%K%P
@@ -171,10 +171,10 @@ Makoto「...」%K%P
 I remain silent. Haruka is looking at me. I avert my eyes.%K%P
 0x578
 オレだよ。そう一言、言ってあげればいいのに……言い出せない。%K%P
-"With me". Even though those words should easily come%Nout of my mouth... they don't.%K%P
+「With me」. Even though those words should easily come%Nout of my mouth... they don't.%K%P
 0x584
 『遙もオレを信じるんだ』自分の言った言葉が胸に刺さる。%K%P
-My own words, "And you trust me too," are piercing my%Nheart.%K%P
+My own words, 「And you trust me too,」 are piercing my%Nheart.%K%P
 0x598
 くるみ「まさか……お兄ちゃん……なの？」%K%P
 Kurumi「It can't be... with... Onii-chan?」%K%P

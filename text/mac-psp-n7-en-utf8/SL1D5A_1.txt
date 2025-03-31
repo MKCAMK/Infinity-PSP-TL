@@ -15,7 +15,7 @@ I just somehow woke up for no reason...%K%P
 I take a look at my watch, which I'd placed on my bedside.%K%P
 0x184
 『１時１０分』……眠りについてから、３時間ぐらい経っただろうか。%K%P
-"1:10 A.M."... It's probably only been about three hours%Nsince I went to bed.%K%P
+「1:10 A.M.」... It's probably only been about three hours%Nsince I went to bed.%K%P
 0x190
 頭は驚くほど醒め切っていて、今なら２桁の掛け算でも１０秒以内に解けそうだ。%K%P
 My mind is surprisingly wide awake, so I try to do%Nmultiplication tables in my mind to help me go back to%Nsleep.%K%P
@@ -24,7 +24,7 @@ My mind is surprisingly wide awake, so I try to do%Nmultiplication tables in my 
 I try this countless times...%K%P
 0x1A8
 けれど、覚醒したオレの脳には、まどろみのきざしさえも現われなかった。%K%P
-It's no use- I'm too alert.%K%P
+It's no use―I'm too alert.%K%P
 0x1B4
 あきらめて、ベッドをするりと脱け出しリビングに出た……。%K%P
 Resigning myself, I slip out of bed and head out to the%Nliving room...%K%P
@@ -309,10 +309,10 @@ Makoto「'While I'm here'...」%K%P
 Saki「Well then, that means I've thanked you.」%K
 0x18D8
 『待てよ』
-"Wait."
+「Wait.」
 0x18E4
 『あ、ああ……』
-"Y-Yeah..."
+「Y-Yeah...」
 0x9B8
 誠「待てよ」%K%P
 Makoto「Wait.」%K%P
@@ -579,7 +579,7 @@ I don't know the names of the constellations, but looking%Nat them like this fee
 (I remember that there were times where I would%Ninnocently look at the stars when I was a kid...)%K%P
 0xEDC
 あの頃は『女の子がどうの』『好きだの嫌いだの』なんて世界があるとは思いもしなかった。%K%P
-At that time, I didn't think that there was a world where%Nyou thought about girls in terms of "like or dislike".%K%P
+At that time, I didn't think that there was a world where%Nyou thought about girls in terms of 「like or dislike」.%K%P
 0xEE8
 懐かしいと言えば懐かしいが……%K%P
 It's a very nostalgic time, but...%K%P

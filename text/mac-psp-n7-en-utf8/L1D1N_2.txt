@@ -3,7 +3,7 @@ text area offset and size:
 0x2965
 0x30
 『じゃあ、その温水プールとやらを見に行こう！』%K%N
-"Then let's sneak in and check it out!"%K%N
+「Then let's sneak in and check it out!」%K%N
 0x3C
 ……と真っ先に切り出したのは、何を隠そうこのオレ自身だった。%K%P
 ... To tell the truth, I was the one who said that, as an%Nicebreaker.%K%P
@@ -81,7 +81,7 @@ Makoto「Hey! Yuka, wait!」%K%P
 Yuka leaves the pool without hearing me...%K%P
 0x1D4
 （『ロッジに帰って』って……）%K%P
-("I'll go back to the lodge"...)%K%P
+(「I'll go back to the lodge」...)%K%P
 0x1E0
 簡単に言うけど、あの距離だと往復に１時間近くかかるような気がするが……。%K%P
 Easier said than done. I think a round trip will take nearly%Nan hour...%K%P
@@ -114,10 +114,10 @@ Saki's eyes are so passionate that they're scary.%K%P
 Saki「No matter how hard humans try, they can't match up to%Nnatural beauty.」%K
 0x10B8
 『そうだね』
-"You're right."
+「You're right.」
 0x10C4
 『そうかなぁ？』
-"You think so?"
+「You think so?」
 0x29C
 誠「そうだね」%K%P
 Makoto「You're right.」%K%P
@@ -219,7 +219,7 @@ It's filled with the scent of spring...%K%P
 And Haruka... her nearly transparent figure, bathed by%Nthe pale light, is beautiful.%K
 0x10D0
 『気持ちいい？』オレはそう尋ねた
-Ask her, "Does this feel good?"
+Ask her, 「Does this feel good?」
 0x10DC
 何も言わず、遙の顔を見つめた
 Say nothing, just look at Haruka's face.
@@ -363,7 +363,7 @@ By the time I notice it, it's already too late.%K%P
 A giant sheet of water shoots up as Izumi-san falls into%Nthe pool.%K%P
 0x828
 くるみは…これはしたたかと言うのだろうか？…いづみさんを犠牲にした形で、ちゃっかり自分だけプールサイドに生き残っていた。%K%P
-Only Kurumi remains on the poolside, looking like she%Nsacrificed Izumi-san to save herself (is this what you'd%Ncall "determination"?).%K%P
+Only Kurumi remains on the poolside, looking like she%Nsacrificed Izumi-san to save herself (is this what you'd%Ncall 「determination」?).%K%P
 0x834
 水面に顔を出したいづみさんは、まるで小さな子供のように、ひどく脅え切った表情を浮かべていた……。%K%P
 Izumi-san's face, sticking out of the pool's surface, has%Nan expression like that of a scared stiff little kid...%K%P
@@ -426,7 +426,7 @@ I try raising my voice even more, but it doesn't seem like%Neither of them can h
 This isn't working out. I have to give them a more general%Nwarning. With that, I...%K
 0x10E8
 『いづみさん、地震が来るんだよ！！』
-"Izumi-san, an earthquake's coming!!"
+「Izumi-san, an earthquake's coming!!」
 0x10F4
 ２人の元へ駆け寄った
 Run over to them.

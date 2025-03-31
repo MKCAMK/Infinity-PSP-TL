@@ -84,7 +84,7 @@ Kurumi「You're the same... as... that... senpai...」%K%P
 Senpai...?%K%P
 0x218
 先輩って……%W%W%Wくるみが中学生だった頃の……。%K%P
-By "senpai"... she must be referring to that guy from her%Nmiddle school days...%K%P
+By 「senpai」... she must be referring to that guy from her%Nmiddle school days...%K%P
 0x224
 くるみ「嘘ついて……%W%W%Wみんな……%W%W%Wみんな……」%K%P
 Kurumi「Everyone's... Everyone's... lying...」%K%P
@@ -117,10 +117,10 @@ I feel like a dagger has been thrust into my heart...%K%P
 I definitely... said that.%K%N
 0x29C
 酷かった、と……。%K%N
-"Horrifying"...%K%N
+「Horrifying」...%K%N
 0x2A8
 酷かった、と……%W%W%W言ってしまった。%K%P
-"Horrifying"... I said that.%K%P
+「Horrifying」... I said that.%K%P
 0x2B4
 くるみ「みんな……%W%W%Wみんな……%W%W%Wくるみの大好きな人……%W%W%Wばっかりが……」%K%P
 Kurumi「Everyone... everyone... everyone Kurumi loves... just%Ndoes nothing but...」%K%P
@@ -324,7 +324,7 @@ I wander aimlessly around the shrine.%K%P
 Suddenly, I look at my watch.%K%P
 0x89C
 『６日　ＳＡＴ　００：５４』%K%P
-"6 SAT 12:54 A.M."%K%P
+「6 SAT 12:54 A.M.」%K%P
 0x8EC
 鈴の……%W%W%W音……？%K%P
 The sound... of that bell...?%K%P
@@ -342,13 +342,13 @@ It's an altar bell―a bell dangling from a small building%Nmodeled after a smal
 There's probably a draft blowing from somewhere that's%Ncausing the bell to swing...%K%P
 0x928
 『鈴』……%K%N
-"Bell"...%K%N
+「Bell」...%K%N
 0x934
 『鈴』……%K%N
-"Bell"...%K%N
+「Bell」...%K%N
 0x940
 『鈴』…………。%K%N
-"Bell"...%K%N
+「Bell」...%K%N
 0x94C
 まさか……。%K%P
 It can't be...%K%P
@@ -462,7 +462,7 @@ It couldn't be that the thing...%K%N
 ... That she picked up back then...%K%N
 0xC8C
 ……『鈴』……？%K%P
-was the "bell"...?%K%P
+was the 「bell」...?%K%P
 0xC98
 そうなのか……？%K%N
 Is that it...?%K%N
@@ -552,7 +552,7 @@ I finally arrive at Viewpoint Park, but in the end, I'm unable%Nto find Kurumi.%
 In the darkness, I hear the sound of the waves crashing%Nagainst the cape.%K%P
 0x10EC
 世界を覆い尽くしたこの『闇』自体が、憎しみの咆哮をあげているかのようだった。%K%P
-It seems like the "darkness" itself that's enveloped the%Nworld is letting out a furious roar.%K%P
+It seems like the 「darkness」 itself that's enveloped the%Nworld is letting out a furious roar.%K%P
 0x1104
 展望公園……。%K%N
 Viewpoint Park...%K%N
@@ -576,7 +576,7 @@ Kurumi「The truth is... Kurumi... really wanted to go with everyone...」%K%P
 Kurumi「To the pool... and the hot springs...」%K%P
 0x126C
 オレは、くるみの傷のことを『酷い』と言った。その痛みをしっかりと受け止めたつもりで……だけど本当は、避けていたのだ。%K%P
-I called Kurumi's scar "horrifying." I'd intended to take%Nthat pain away... but the truth is, I was avoiding it.%K%P
+I called Kurumi's scar 「horrifying.」 I'd intended to take%Nthat pain away... but the truth is, I was avoiding it.%K%P
 0x1278
 あの傷を、オレは忌み嫌っていた。触れることさえできなかった。くるみの傷を、癒すことはできなかったのだ。%K%P
 I loathe that scar. I can't even touch it. I can't heal%NKurumi's scar.%K%P

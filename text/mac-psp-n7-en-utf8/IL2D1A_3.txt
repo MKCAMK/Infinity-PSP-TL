@@ -48,7 +48,7 @@ It's something he remembers quite well.%K I'm honestly%Nimpressed.%K%P
 Okuhiko is really serious in going all out to try to make%Nthis trick work on me.%K%N
 0x174
 別の言い方をすれば『嫌なやつ』ってことだけど……。%K%P
-You could call him a "despicable bastard", for that, but...%K%P
+You could call him a 「despicable bastard」, for that, but...%K%P
 0x180
 同じことを繰り返すというのは本当に難しい。それに妙なものだ。%K%P
 It must be really difficult to repeat the exact same%Nactions. I must commend him.%K%P
@@ -84,7 +84,7 @@ Makoto「Huh? ... What's wrong, Okuhiko?」%K%P
 Okuhiko「... Ishihara, didn't you ask me that before?」%K%P
 0x224
 おそらく、億彦が予想していたオレの言葉は『今日は何日だ？』だったのだろう。%K%P
-Okuhiko was probably expecting me to ask, "What's%Ntoday's date?"%K%P
+Okuhiko was probably expecting me to ask, 「What's%Ntoday's date?」%K%P
 0x230
 しかしオレは『１日と同じ言葉』を発した。%K%P
 But instead, I asked the same question I did on the 1st.%K%P
@@ -132,7 +132,7 @@ Okuhiko's face has gone pale. Heh heh heh... Serves you%Nright.%K%P
 Yuka「Good morning!」%K%P
 0x390
 優夏が起きて来た。%Nたぶん、あの時と同じ時刻だった。%K%P
-Yuka has "awoken". It's probably at the same time as the%N1st.%K%P
+Yuka has 「awoken」. It's probably at the same time as the%N1st.%K%P
 0x39C
 誠「おはよう」%K%P
 Makoto「Good morning.」%K%P
@@ -237,7 +237,7 @@ Haruka's fine... she'll sacrifice her breakfast if it means%Nrepeating the same 
 But there's no way I can get out of this...!%K%P
 0x5F0
 あの料理（？）を思い出して、%W%W胃液がこみ上げてきた……。%K%P
-Just remembering that "food" makes my stomach churn...%K%P
+Just remembering that 「food」 makes my stomach churn...%K%P
 0x604
 オレは喉まで出かけた言葉を、慌てて飲みこんだ。%K%P
 I frantically swallow the words that almost come bursting%Nout of my mouth.%K%P
@@ -255,10 +255,10 @@ It's only natural. They'll sacrifice their breakfasts if it%Nmeans letting the s
 But I'll be forced to eat that crap again!%K%P
 0x640
 あの料理（？）を思い出して、%W%W胃液がこみ上げてきた……。%K%P
-Just remembering that "food" makes my stomach churn...%K%P
+Just remembering that 「food」 makes my stomach churn...%K%P
 0x6A0
 オレ達は、ローカル放送のテレビ番組『すこやかＹＯＵとぴあ』を見ながら、優夏が料理を作り終えるのを待っている。%K%P
-While waiting for Yuka to finish cooking, we watch "A%NHealthy YOUtopia" on the TV.%K%P
+While waiting for Yuka to finish cooking, we watch 「A%NHealthy YOUtopia」 on the TV.%K%P
 0x6AC
 もちろん、この日この時間に、この番組はやっていない。%K%P
 Needless to say, this isn't the episode that's airing now.%K%P
@@ -324,7 +324,7 @@ I can feel my chest and throat filling up with nausea.%K%P
 I have once again become a victim of that sad excuse%Nfor food.%K%P
 0x84C
 オレはソファに深く腰を下ろし、リビングの天井を眺めながら『もう２度と優夏に食事は作らせまい！』と誓った。%K%P
-I sink down deep into the sofa and stare at the living%Nroom's ceiling as I swear that "I'll never let Yuka cook%Never again!"%K%P
+I sink down deep into the sofa and stare at the living%Nroom's ceiling as I swear that 「I'll never let Yuka cook%Never again!」%K%P
 0x858
 そう誓ったのは、これで通算４２回目だった。%K%P
 I swear this 42 times.%K%P
@@ -339,7 +339,7 @@ Haruka is also brushing her teeth, just like last time.%K%P
 But this time, Okuhiko isn't helping Yuka.%K%P
 0x888
 なにやら考え事をしている。ロダンの『考える人』のようなポーズをとりながら……。%K%P
-He seems to be in deep thought. The pose he's in%Nresembles Rodin's "The Thinker"...%K%P
+He seems to be in deep thought. The pose he's in%Nresembles Rodin's 「The Thinker」...%K%P
 0x8C0
 その直後、玄関のチャイムが鳴る。%K%P
 Just then, the doorbell rings from the front door.%K%P
@@ -366,7 +366,7 @@ If anyone saw her now, they'd think the Kurumi in front of%Nmy eyes was the Kuru
 Kurumi「Then, this isn't the Asakura house...」%K%P
 0x984
 オレが『そのピザはウチが頼んだものではない』と告げると、くるみは驚きの表情を浮かべた。%K%P
-After informing her that "No one here ordered pizza", a%Nsurprised look appears on Kurumi's face.%K%P
+After informing her that 「No one here ordered pizza」, a%Nsurprised look appears on Kurumi's face.%K%P
 0x990
 誠「いいや。ここには朝倉なんて名前の人はっ」%K%P
 Makoto「No, there isn't anyone here name Asaku...」%K%P
@@ -459,10 +459,10 @@ Yuka「Huh? Go where, Okuhiko-kun?」%K%P
 Okuhiko「Huh? Yuka-chan... e-er, look, didn't we make a promise on%Nthe night of March 31st? That we'd all go play tennis the%Nnext day.」%K%P
 0xC40
 『昨日』ではなく『３月３１日』と言うところが、タイムスリップっぽくて良い。%K%P
-He didn't say "yesterday", but "March 31st", like a time%Ntraveler.%K%P
+He didn't say 「yesterday」, but 「March 31st」, like a time%Ntraveler.%K%P
 0xC4C
 億彦にとっては『３月３１日』が昨日だという感覚がないからなのだろう。%Nまあ、それはみんな同じなのだが……。%K%P
-That's because to Okuhiko, it probably doesn't feel like%N"March 31st" was yesterday. Well, it's the same for all of%Nus...%K%P
+That's because to Okuhiko, it probably doesn't feel like%N「March 31st」 was yesterday. Well, it's the same for all of%Nus...%K%P
 0xC58
 しかし……。%K%N
 However...%K%N
@@ -483,7 +483,7 @@ Okuhiko「... H-Hang in there... Yuka-chan.」%K%P
 For once, I agree with Okuhiko.%K%P
 0xCC0
 優夏は『ゴメ〜ン』という目でオレを見る。%K%P
-Yuka looks at me as if to say "sorry."%K%P
+Yuka looks at me as if to say 「sorry.」%K%P
 0xCCC
 幸いにも、億彦は怪しんではいない様子だ。%K%P
 Fortunately, Okuhiko doesn't seem suspicious.%K%P
@@ -609,7 +609,7 @@ Umm, let's see, this is where I...%K%P
 Now that I think about it, I'm supposed to stay here and%Nplay tennis with Yuka...%K%P
 0xFE0
 やっぱりここは、歴史通りに行動する方がいいだろう……とオレは考えた。%K%P
-It's probably for the best if I do so and act in%Naccordance with "history"...%K%P
+It's probably for the best if I do so and act in%Naccordance with 「history」...%K%P
 0xFF4
 億彦「じゃ、そういうことで」%K%P
 Okuhiko「Well, see you later.」%K%P
@@ -636,7 +636,7 @@ Okuhiko「I'LL TEACH YOU HOW TO FISH!!!」%K%P
 Now that I think about it, I went with Haruka to the ocean.%K%P
 0x10E4
 やっぱりここは、歴史通りに行動する方がいいだろう……とオレは考えた。%K%P
-It's probably for the best if I do so to act in accordance%Nwith "history"... That's what I think.%K%P
+It's probably for the best if I do so to act in accordance%Nwith 「history」... That's what I think.%K%P
 0x10F0
 まあ、既に遙が『釣りに行きたい』って言った段階で、歴史は変わっているのだが……。%K%P
 Well, Haruka already said that she wants to go fishing, so%Nhistory's changed anyway, but...%K%P

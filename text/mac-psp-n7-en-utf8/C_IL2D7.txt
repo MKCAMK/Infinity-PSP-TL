@@ -51,7 +51,7 @@ Haruka「Yes...」%K%P
 I can see Haruka's face faintly change color.%K%P
 0x1FC
 誠「だけど、なにもくるみが声をあげることはないだろ？」%K%P
-Makoto「And that's another thing- you confused me with the way%Nyou said 'she was changing clothes'! After all, there was%Nno reason for you to scream, right, Kurumi?」%K%P
+Makoto「And that's another thing―you confused me with the way%Nyou said 'she was changing clothes'! After all, there was%Nno reason for you to scream, right, Kurumi?」%K%P
 0x208
 誠「オレが見たのは、くるみが着替えてるとこじゃないんだから……」%K%P
 Makoto「The one I saw changing clothes wasn't you...」%K%P
@@ -96,7 +96,7 @@ Thinking about it now, it seems like that was the natural%Nthing to do.%K%P
 The person I saw in the room... Their head was completely%Ncovered by their clothes, so all I could see was their%Nback.%K%P
 0x360
 『ドアを開けたのがオレだということ』を、その人物が気づくはずはなかった。%K%P
-The person who "noticed that I had opened the door"%Nwasn't the one changing clothes.%K%P
+The person who 「noticed that I had opened the door」%Nwasn't the one changing clothes.%K%P
 0x36C
 つまり、部屋の中には『服を脱いでいた人間』と……もう１人……『ドアを開いたオレのことを発見した人間』がいたということになる。%K%P
 In short, there were two people in my room... The one who%Nwas undressing, and the other who saw me open the%Ndoor.%K%P
@@ -105,7 +105,7 @@ In short, there were two people in my room... The one who%Nwas undressing, and t
 Of course, the first person was Haruka, and the second%Nperson was Kurumi...%K%P
 0x384
 結局、オレが見たのは『くるみの背中』ではなく『遙の背中』だったというわけだ。%K%P
-In the end, what I saw wasn't "Kurumi's back", but rather,%N"Haruka's back".%K%P
+In the end, what I saw wasn't 「Kurumi's back」, but rather,%N「Haruka's back」.%K%P
 0x398
 くるみ「それに、くるみが『２０歳』っていうのも、事実なんだからしょうがないじゃない」%K%P
 Kurumi「And when Kurumi said that she was '20 years old', that%Nwas a fact, so it couldn't be helped.」%K%P
@@ -141,7 +141,7 @@ As expected, Kurumi was shocked, but after seeing how%Nsincere Izumi-san was, sh
 It seems that Izumi-san told Haruka the truth as well.%K%P
 0x47C
 あの雨の夜、遙が『お姉ちゃん』と言っていたのは、そういうわけだった。%K%P
-That's why Haruka called her "Onee-chan" on that rainy%Nnight.%K%P
+That's why Haruka called her 「Onee-chan」 on that rainy%Nnight.%K%P
 0x490
 くるみ「ねえねえ、お兄ちゃん？」%K%P
 Kurumi「Hey, hey, Onii-chan?」%K%P
@@ -291,7 +291,7 @@ Haruka places it in my unbroken hand.%K%P
 ―It's the bell.%K%N
 0x7C0
 ペチャンコに押し潰された『あの鈴』だった。%K%P
-It's smashed and crushed flat, but it's "that bell".%K%P
+It's smashed and crushed flat, but it's 「that bell」.%K%P
 0x7CC
 表面にギザギザとした傷がついている。%K%P
 The surface has all these jagged scratches on it.%K%P
@@ -414,7 +414,7 @@ Kurumi「Good luck!」%K%P
 Kurumi then energetically runs after Haruka.%K%P
 0xCB0
 （『頑張って』って……%T030なにを……？）%K%P
-(What did she mean... "good luck"...?)%K%P
+(What did she mean... 「good luck」...?)%K%P
 0xCBC
 少しドキドキしながら、店のドアに手をかけた。%K%P
 With my heart beating loudly, I reach out to open the%Nshop's door.%K%P
@@ -549,13 +549,13 @@ A scrap of paper... It seems like some kind of leaflet.%K%P
 (Why do I feel like I've seen this before...?)%K%P
 0xFC8
 『７月６日（土）──司紀杜祭』%K%N
-"July 6th (Saturday) ―Shiki no Mori(司紀杜) Festival."%K%N
+「July 6th (Saturday) ―Shiki no Mori(司紀杜) Festival.」%K%N
 0xFD4
 『７月７日（日）──杜紀司祭』%K%N
-"July 7th (Sunday) ―Tokitsukasa (杜紀司) Festival".%K%N
+「July 7th (Sunday) ―Tokitsukasa (杜紀司) Festival」.%K%N
 0xFE0
 『ご家族お誘い合わせの上、ぜひ御参加ください』%K%P
-"Invite all of your family members, and please%Nparticipate."%K%P
+「Invite all of your family members, and please%Nparticipate.」%K%P
 0xFEC
 紙の下の方には、そう書かれていた。%K%P
 That's what's written on the bottom half of the paper.%K%P
@@ -579,16 +579,16 @@ Makoto「...」%K%P
 Izumi「Hey, Makoto-kun? Could you try reading this?」%K%P
 0x1040
 いづみさんが指差した場所には『杜紀司神社と司紀杜神社の歴史』と書かれていた。%K%P
-Izumi-san points to a part where "History of the Shiki no%NMori Shrine and the Tokitsukasa Shrine", is written.%K%P
+Izumi-san points to a part where 「History of the Shiki no%NMori Shrine and the Tokitsukasa Shrine」, is written.%K%P
 0x104C
 その下に続く文面を読んでみる。%K%P
 I continue to read the contents under the title.%K%P
 0x1058
 『杜紀司神社と司紀杜神社は、この島に古来より伝わる伝説の神（双子の神）を奉る為に建てられたものです』%K%P
-"The Tokitsukasa Shrine and the Shiki no Mori Shrine%Nwere built to honor twin gods from an ancient legend%Npassed down on this island."%K%P
+「The Tokitsukasa Shrine and the Shiki no Mori Shrine%Nwere built to honor twin gods from an ancient legend%Npassed down on this island.」%K%P
 0x1064
 『それぞれの神社には、御神体として銀色の鈴が１つずつ納められており、その鈴に触れた者には不思議な力が宿る……という言い伝えも残されています』%K%P
-"In each shrine, a single silver bell was enshrined as an%Nobject of worship, and a mysterious power is granted to%None who touches one of the bells... Or so the legend%Nsays."%K%P
+「In each shrine, a single silver bell was enshrined as an%Nobject of worship, and a mysterious power is granted to%None who touches one of the bells... Or so the legend%Nsays.」%K%P
 0x1070
 いづみ「どうやら『シキノモリ神社』の隣には『トキツカサ神社』という双子の神社があったらしいのよ」%K%P
 Izumi「It seems that there were twin shrines built very close to%Neach other: the 'Shiki no Mori Shrine' and the%N'Tokitsukasa Shrine'.」%K%P
@@ -612,10 +612,10 @@ I see...%K%N
 Did I not realize it because of that strange,%Nuncomfortable feeling in the forest while I was on my way%Nto the shrine...?%K%P
 0x10C4
 オレが歩いていたのは『トキツカサ神社』へと至る道だったというわけだ。%K%P
-The road I went down was the one that lead to the%N"Tokitsukasa Shrine".%K%P
+The road I went down was the one that lead to the%N「Tokitsukasa Shrine」.%K%P
 0x10D0
 どこでどう道を間違えたのかはわからないが、億彦と沙紀は、そのまま『シキノモリ神社』の方へと進んだのだろう。%K%P
-I don't know where I went astray, but Okuhiko and Saki%Nprobably went the right way and ended up at the "Shiki%Nno Mori Shrine".%K%P
+I don't know where I went astray, but Okuhiko and Saki%Nprobably went the right way and ended up at the 「Shiki%Nno Mori Shrine」.%K%P
 0x10DC
 （２人が神社に向かったのは、ただの好奇心かなにかだと思う）%K%P
 (I think the two of them went there just because they%Nwere curious or something.)%K%P
@@ -696,4 +696,4 @@ We're confirming each other's existences, and our%Nmaturing feelings.%K%P
 Before long, our lips part from each other...%K%N
 0x122C
 ……いづみさんは最後にこう言った。%K%P
-... Izumi-san says this last.%K%P"The stars will continue to shine for eternity..."%K%P"In the water... always... always..."%K%P"So don't... forget this shine, okay?"%K%P"We'll always..."%K%P"Be together, right...?"%K%PI silently rummage through my pocket.%K%PI take out...%K%P―The small glass bottle. The three stars are swaying in%Nthe water, twinkling brightly...%K%PThe cards spread out on the floor...%K%N... They're completely blank...%K%P%LC%C[afaTo see the Grand Finale, please watch this ending%Nonce more.%K%P
+... Izumi-san says this last.%K%P「The stars will continue to shine for eternity...」%K%P「In the water... always... always...」%K%P「So don't... forget this shine, okay?」%K%P「We'll always...」%K%P「Be together, right...?」%K%PI silently rummage through my pocket.%K%PI take out...%K%P―The small glass bottle. The three stars are swaying in%Nthe water, twinkling brightly...%K%PThe cards spread out on the floor...%K%N... They're completely blank...%K%P%LC%C[afaTo see the Grand Finale, please watch this ending%Nonce more.%K%P

@@ -9,7 +9,7 @@ I suddenly wake up.%K%P
 I fell asleep without realizing it...%K%P
 0x74
 腕時計は『１１時３８分』を示している。%K%P
-My watch says "11:38 A.M.".%K%P
+My watch says 「11:38 A.M.」.%K%P
 0x80
 いつもよりもずいぶんと遅い目覚めだった。%K%P
 It's a lot later than when I normally wake up.%K%P
@@ -297,7 +297,7 @@ Makoto「... I... have paper.」%K%P
 Kurumi「Like Kurumi said, you don't get to see it, Onii-chan.」%K%P
 0x694
 くるみは『おもしろいもの』を、ポケットの中へとしまい込んだ。%K%P
-Kurumi puts the "something interesting" in her pocket.%K%P
+Kurumi puts the 「something interesting」 in her pocket.%K%P
 0x6BC
 ──ん？？？%K%P
 ―Huh???%K%P
@@ -516,13 +516,13 @@ Makoto「Something fun???」%K%P
 My hunger satisfied, we rest for a while, and then walk%Ntowards Viewpoint Park.%K%P
 0xB28
 『おもしろいことしよっか？』というくるみの言葉に従って、ここまでついて来たのだった。%K%P
-"You wanna do something fun?" We came here because I%Ndecide to abide by Kurumi's words.%K%P
+「You wanna do something fun?」 We came here because I%Ndecide to abide by Kurumi's words.%K%P
 0xB34
 例によって、くるみはその内容を教えてくれなかった。%K%P
 However, as usual, she didn't tell me any details.%K%P
 0xB40
 『着いてからのお楽しみ』だと言うが……。%K%P
-"It'll be more fun to find out when you get there yourself,"%Nshe said...%K%P
+「It'll be more fun to find out when you get there yourself,」%Nshe said...%K%P
 0xB4C
 …………………………。%K%P
 ...%K%P
@@ -909,7 +909,7 @@ Kurumi「Well, whatever...」%K%P
 Kurumi「Kurumi will give you this... as a commemoration♪」%K%P
 0x1328
 くるみが『オレ』を、オレの手の平の上に移した。%K%P
-Kurumi places "me" on my palm.%K%P
+Kurumi places 「me」 on my palm.%K%P
 0x1334
 くるみ「くるみからの、ささやかなプレゼント……」%K%P
 Kurumi「It's a modest present from Kurumi...」%K%P
@@ -930,7 +930,7 @@ Although I think this...%K%P
 Makoto「Th-Thank you...」%K%P
 0x1384
 ……オレはそうつぶやいて『オレ』をオレのポケットの中に、丁寧にしまい込んだ。%K%P
-... I mutter these words, and carefully place "me" in my%Npocket.%K%P
+... I mutter these words, and carefully place 「me」 in my%Npocket.%K%P
 0x1390
 くるみは満面の笑顔を浮かべて、オレのことを優しく見つめていた……。%K%P
 A smile rises to Kurumi's face, and she looks at me with%Nkindness...%K%P
@@ -1116,7 +1116,7 @@ Whoosh...%K%P
 I can now see... Kurumi's small back.%K%P
 0x17F4
 そこには深々と刻まれた……『傷痕』があった。%K%P
-On it is that deeply engraved... "scar".%K%P
+On it is that deeply engraved... 「scar」.%K%P
 0x1800
 （くるみ……）%K%P
 (Kurumi...)%K%P
@@ -1164,7 +1164,7 @@ I don't know what to say.%K%P
 I can't find the words.%K%P
 0x18B4
 『たいしたことないよ』……『気にすることないって』……。%K%P
-"It's no big deal,"... "Don't worry about it,"...%K%P
+「It's no big deal,」... 「Don't worry about it,」...%K%P
 0x18C0
 ──違う！%K%P
 ―No!%K%P

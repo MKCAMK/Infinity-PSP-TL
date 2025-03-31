@@ -84,7 +84,7 @@ Yuka「Let's hurry up and find the ball. We're wasting time.」%K%P
 Makoto「...」%K%P
 0x1E0
 結局『負けは負けなのだ』と、つくづく思った。%K%P
-In the end, to her, "a loss is a loss."%K%P
+In the end, to her, 「a loss is a loss.」%K%P
 0x1EC
 オレがいくら虚勢を張ってみたところで、勝者であるところの優夏にとっては、ただの負け惜しみにしか%N聞こえない。%K%P
 Since Yuka is the winner, she only hears my bluffs as%Nexcuses.%K%P
@@ -111,7 +111,7 @@ As I begin to trudge through the thicket, I let out a weary%Nsigh.%K%P
 (Anyway...)%K%P
 0x25C
 （何で呼び捨てなんだろう…『まこと』って…？）%K%P
-(Why does she just call me "Makoto" without any%Nhonorifics...?)%K%P
+(Why does she just call me 「Makoto」 without any%Nhonorifics...?)%K%P
 0x268
 今朝は、この疑問に対して、ちょっといい加減に%N自分で納得してしまっていたけれど、%Nしかしよーく考えてみると、やっぱりいささか%N不自然なように思われる。%K%P
 When I thought of this question earlier today, I just%Njumped to conclusions and thought I understood it, but%Nwhen I really stop to think about it, it doesn't make sense.%K%P
@@ -159,7 +159,7 @@ Yuka???%K%P
 All of the sudden, I realize something.%K%P
 0x324
 （オレは優夏のことを…『ゆうか』…って呼んでる！）%K%P
-(Come to think of it, I've just been calling her "Yuka"%Nwithout any honorifics either!)%K%P
+(Come to think of it, I've just been calling her 「Yuka」%Nwithout any honorifics either!)%K%P
 0x330
 オレ自身も、彼女のことを呼び捨てにしてたんだ。%K%P
 I'm the same as she is.%K%P
@@ -195,7 +195,7 @@ Yuka「Found it!」%K%P
 Makoto「...」%K%P
 0x3D4
 結局『負けは負けなのだ』と、つくづく思った。%K%P
-In the end, she thinks that "a loss is a loss."%K%P
+In the end, she thinks that 「a loss is a loss.」%K%P
 0x3E0
 オレがいくら虚勢を張ってみたところで、勝者であるところの優夏にとっては、ただの負け惜しみにしか%N聞こえない。%K%P
 Since Yuka is the winner, she only hears my bluffs as%Nexcuses.%K%P
@@ -234,7 +234,7 @@ As I begin to trudge through the ticket, I let out a weary%Nsigh.%K%P
 (Anyway...)%K%P
 0x488
 （何で呼び捨てなんだろう…『まこと』って…？）%K%P
-(Why does she just call me "Makoto" without any%Nhonorifics...?)%K%P
+(Why does she just call me 「Makoto」 without any%Nhonorifics...?)%K%P
 0x494
 今朝は、この疑問に対して、ちょっといい加減に%N自分で納得してしまっていたけれど、%Nしかしよーく考えてみると、やっぱりいささか%N不自然なように思われる。%K%P
 When I thought of this question earlier today, I just%Njumped to conclusions and thought I understood it, but%Nwhen I really stop to think about it, it doesn't make sense.%K%P
@@ -276,7 +276,7 @@ Yuka???%K%P
 All of the sudden, I realize something.%K%P
 0x530
 （オレは優夏のことを…『ゆうか』…って呼んでる！）%K%P
-(Come to think of it, I've just been calling her "Yuka"%Nwithout any honorifics either!)%K%P
+(Come to think of it, I've just been calling her 「Yuka」%Nwithout any honorifics either!)%K%P
 0x53C
 オレ自身も、彼女のことを呼び捨てにしてたんだ。%K%P
 I'm the same as she is.%K%P
@@ -435,7 +435,7 @@ It's easy to see why...%K%P
 There's something refreshing about Yuka's blunt and%Ncarefree personality.%K%P
 0x8F4
 『竹を割ったような性格』とは、きっと彼女みたいな女の子のことを言うのだろう。%K%P
-She's the type of girl who I'd say has a "candid" attitude.%K%P
+She's the type of girl who I'd say has a 「candid」 attitude.%K%P
 0x900
 優夏「お〜いっ、そこのへなちょこぉ〜、早くサーブ%N打ってよぉ！」%K%P
 Yuka「Hey, pathetic boy. Hurry up and serve!」%K%P
@@ -477,10 +477,10 @@ Yuka「Well then, I wonder what I should have you do?」%K%P
 ... is obvious just by looking at Yuka's expression.%K
 0xF78
 『やっぱり、あの約束無しにしない？』
-"Can we just forget about it?"
+「Can we just forget about it?」
 0xF84
 『もったいぶってないで早く言えよ』
-"Stop lording it over me and say it."
+「Stop lording it over me and say it.」
 0xA70
 誠「その……やっぱりあの約束、無しにしない？」%K%P
 Makoto「Um... so, can we just forget about it?」%K%P
@@ -561,7 +561,7 @@ A bit to the west is a small cove surrounded by a rock%Nwall.%K%P
 To the east is a long, wide beach with white sand.%K%P
 0xC78
 小さな入り江の方を『姫ヶ浜』、長くて広い%N砂浜の方を『月浜』と呼ぶらしい。%K%P
-The small cove is called "Princess Beach", while the wide%Nbeach is called "Moon Beach".%K%P
+The small cove is called 「Princess Beach」, while the wide%Nbeach is called 「Moon Beach」.%K%P
 0xC84
 オレ達は、まず姫ヶ浜を当たってみることにした。%Nただ海が見たいだけだったら、普通は近い方を%N選ぶ筈だ。%K%P
 We first try going to Princess Beach. It made the most%Nsense to check there first, since it was closer.%K%P
@@ -579,10 +579,10 @@ Okuhiko「What are you doing in a place like this...?」%K%P
 It seems they were just on their way back to the lodge.%K%P
 0xCC8
 優夏が事情を説明し…『せっかくここまで下りて%N来たのだから』…ということで、結局、オレ達４人は商店街へと繰り出すことになった。%K%P
-Yuka explains that "We've already come down this far,"%Nso in the end, the four of us decide to leave for the%Nshopping district.%K%P
+Yuka explains that 「We've already come down this far,」%Nso in the end, the four of us decide to leave for the%Nshopping district.%K%P
 0xCD4
 まあ、あの寂れた商店街では『繰り出す』という%N表現は正しくないかもしれないが……。%K%P
-Well, considering how deserted that shopping district is,%N"leave for" might not be the best way to put it...%K%P
+Well, considering how deserted that shopping district is,%N「leave for」 might not be the best way to put it...%K%P
 0xCE0
 オレ達が話し合っている間、遙は終始つまらなそうにそっぽを向いていた。%K%P
 As we talk, Haruka averts her eyes, looking rather bored.%K%P

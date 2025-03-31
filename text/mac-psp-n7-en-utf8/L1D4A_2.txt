@@ -162,7 +162,7 @@ Makoto「Well then, what about you, Haruka? Where are you going?」%K%P
 Kurumi「Well, Kurumi is going to Princess Beach...」%K
 0xED8
 『お前には聞いとらんっ！』とつっこむ
-Shout "I didn't ask you!"
+Shout 「I didn't ask you!」
 0xEE4
 一応最後まで聞いてやる
 Hear her out.
@@ -183,7 +183,7 @@ Makoto「So, Haruka, where are you planning on going?」%K%P
 Kurumi「Kurumi is going to catch two crabs...」%K
 0xEF0
 『お前には聞いとらんっ！』とつっこむ
-Shout "I didn't ask you!"
+Shout 「I didn't ask you!」
 0xEFC
 一応最後まで聞いてやる
 Hear her out.
@@ -195,7 +195,7 @@ Kurumi「Kurumi is going to catch two crabs... and make them crab%Nsumo on the b
 Makoto「Oh, making the crabs sumo, are we?」%K%P
 0x5AC
 って『カニ相撲』って何だよ！？　まあ、だいたい想像はつくけど……。%K%P
-Wait, what the hell is "Crab sumo"!? Well, it's pretty%Nself-explanatory, but...%K%P
+Wait, what the hell is 「Crab sumo」!? Well, it's pretty%Nself-explanatory, but...%K%P
 0x5C0
 誠「んで、遙はどこに行くんだっけ？」%K%P
 Makoto「All right then, Haruka, where are you going?」%K%P
@@ -204,7 +204,7 @@ Makoto「All right then, Haruka, where are you going?」%K%P
 Kurumi「Kurumi will be the referee for the crab sumo...」%K
 0xF08
 『お前には聞いとらんっ！』とつっこむ
-Shout "I didn't ask you!"
+Shout 「I didn't ask you!」
 0xF14
 一応最後まで聞いてやる
 Hear her out.
@@ -321,10 +321,10 @@ Yuka「No way!」%K%P
 Yuka「If I said that, what would you do?」%K
 0xF50
 『んなこと言うなら他の場所に行くよ』
-"If you did, I'd just go somewhere else."
+「If you did, I'd just go somewhere else.」
 0xF5C
 『優夏が何と言おうと意地でも花見に行く』
-"I'd go there no matter what you said."
+「I'd go there no matter what you said.」
 0x910
 誠「んなこと言うならっ」%K%P
 Makoto「If you said that-」%K%P
@@ -390,7 +390,7 @@ I decide to go fishing with Haruka.%K%P
 Makoto「Say, Haruka? Would it be okay if I went fishing with you?」%K%P
 0xAC8
 遙は『うん』とうなずいた。何だか少し照れくさそうに、口元をかすかにゆるませながら……%K%P
-Haruka nods as a "yes." She seems to be a little%Nembarrassed as a faint smile forms on her face...%K%P
+Haruka nods as a 「yes.」 She seems to be a little%Nembarrassed as a faint smile forms on her face...%K%P
 0xAD4
 誠「じゃあオレ、すぐに仕度して来るから……。ちょっと待ってて！」%K%P
 Makoto「Well then, I'll go get ready... Wait for me!」%K%P

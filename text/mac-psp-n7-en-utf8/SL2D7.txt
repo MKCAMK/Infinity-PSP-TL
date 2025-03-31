@@ -33,7 +33,7 @@ On that night, a sleepless Saki went out to take a walk in%Nthe rain when she sa
 It was that very same puppy.%K%N
 0x224
 もしかしたら車に轢かれたのかもしれない……%K%N
-"Perhaps it was run over by a car..."%K%N
+「Perhaps it was run over by a car...」%K%N
 0x230
 ……そう思った沙紀は、慌てて別荘に駆け込むと、%N島のタクシー業社に電話をかけた。%K%P
 ... When Saki thought that, she frantically rushed back to%Nher summer house and called the island's taxi service.%K%P
@@ -78,16 +78,16 @@ After that, Saki brought it to the clinic. (The island%Ndoesn't have an animal h
 When she did, the doctor...%K%N%N
 0x2F0
 『はははははっ。車に轢かれたって？』%K%N
-"Ha ha ha ha ha. Run over by a car?"%K%N
+「Ha ha ha ha ha. Run over by a car?」%K%N
 0x2FC
 『これは、雨に濡れて衰弱しているだけだよ』%K%N
-"It's just debilitated from being soaked by the rain."%K%N
+「It's just debilitated from being soaked by the rain.」%K%N
 0x308
 『大丈夫。２・３日安静にしていれば、すぐに%N良くなるよ』%K%N
-"It's all right. If you give it two to three days of rest, it'll%Nbe up and about before you know it."%K%N
+「It's all right. If you give it two to three days of rest, it'll%Nbe up and about before you know it.」%K%N
 0x314
 『前の君と同じようにね？』%K%P
-"It's the same as you when you were brought here a few%Ndays ago."%K%P
+「It's the same as you when you were brought here a few%Ndays ago.」%K%P
 0x328
 ……明るくそう答えたのだそうだ。%K%N
 ... gave that cheerful answer.%K%N
@@ -99,7 +99,7 @@ At the doctor's recommendation, Saki decided to sleep%Nby the puppy's side that 
 And the next morning...%K%N
 0x354
 『あとは、快復するまで、私が責任をもって面倒を%Nみよう』%K%N
-"After this, I'll take responsibility for it and take care of it%Nuntil it recovers."%K%N
+「After this, I'll take responsibility for it and take care of it%Nuntil it recovers.」%K%N
 0x360
 ……医者にそう言われた沙紀は、ほっと胸を%N撫で下ろし、笑顔を浮かべたまま帰宅した。%K%N
 ... When the doctor told Saki that, she went home with a%Nrelieved smile on her face.%K%N

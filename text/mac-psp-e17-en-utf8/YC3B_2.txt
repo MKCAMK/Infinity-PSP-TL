@@ -327,7 +327,7 @@ Sora「Human cloning, which had been illegal up until then, was allowed by law.�
 Sora「Currently, as long as anyone receives the approval of the authorities, they can undergo clone fertilization as a way to treat infertility.」%K%P
 0x778
 空「培養した体細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させることで……」%K%P
-Sora「The nucleus is taken from an already- cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it is implanted into the mother's womb...」%K%P
+Sora「The nucleus is taken from an already-cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it is implanted into the mother's womb...」%K%P
 0x784
 武「ああ、そうだ思い出した！」%K%P
 Takeshi「Oh, that's right, I remember now!」%K%P

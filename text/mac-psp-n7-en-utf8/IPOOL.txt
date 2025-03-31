@@ -93,7 +93,7 @@ Makoto「A man never goes back on his word!」%K%P
 Izumi「Hmm... then if you win, I'll...」%K
 0x15F8
 『膝枕！　膝枕してくれ〜』
-"Let me rest my head on your lap!"
+「Let me rest my head on your lap!」
 0x1604
 いづみさんに任せる
 Leave it to Izumi-san.
@@ -246,10 +246,10 @@ By the time I'm halfway there, Izumi-san has already%Nreached the goal.%K%P
 Izumi「... Well? Are you impressed?」%K
 0x1610
 『恐れ入りました……』
-"Yeah, I am..."
+「Yeah, I am...」
 0x161C
 『い、今のはナシ！』
-"Th-That didn't count!"
+「Th-That didn't count!」
 0x5EC
 誠「恐れ入りました……」%K%P
 Makoto「Yeah, I am...」%K%P
@@ -510,16 +510,16 @@ It's like she's deep in thought about something...%K%P
 ... Should I change the topic?%K
 0x1628
 『くるみって不思議な子ですよね』
-"Kurumi's quite a strange girl."
+「Kurumi's quite a strange girl.」
 0x1634
 『趣味はなんですか？』
-"What are your hobbies?"
+「What are your hobbies?」
 0x1640
 『尊敬する人は誰ですか？』
-"Who do you respect most?"
+「Who do you respect most?」
 0x164C
 『彼氏いるんですか？』
-"Do you have a boyfriend?"
+「Do you have a boyfriend?」
 0xAEC
 誠「くるみって不思議な子ですよね」%K%P
 Makoto「Kurumi's quite a strange girl.」%K%P
@@ -666,7 +666,7 @@ Makoto「That's enough... I get it...」%K%P
 ...%K%P
 0xD54
 どこが、セーフティドライバーなんだよ……。%K%N
-Some "safe driver" she was...%K%N
+Some 「safe driver」 she was...%K%N
 0xD60
 白バイと勝負するなんて、完全なスピード狂じゃないか。%K%P
 She raced the white motorcycle, and went completely%Nover the speed limit, didn't she?%K%P
@@ -804,7 +804,7 @@ Izumi-san tilts her head and gives me a mischievous%Nsmile.%K%P
 ... Huh?%K%P
 0xFBC
 オレはそこでふと思い出す。守野っていう名字に聞き覚えがあったからだ。%K%N
-It then hits me. I remember where I've heard the name%N"Morino" before.%K%N
+It then hits me. I remember where I've heard the name%N「Morino」 before.%K%N
 0xFC8
 初めて出会った時にも感じていた違和感。……確かにどこかで聞いたことがある。%K%P
 That was why I thought her name was familiar.%K%P
@@ -864,7 +864,7 @@ Izumi「After getting out of the bath, he loiters around in his%Nunderwear...」
 ... I guess it's a small world after all...%K%P
 0x10B4
 いやその前に、いづみさん『守野博士』のこと、%N『有名人らしい』だなんて……%N本当にわかっているのかな？%K%P
-No, but Izumi-san said "it seems like he's a very famous%Nperson"... Doesn't she know just how famous he is...?%K%P
+No, but Izumi-san said 「it seems like he's a very famous%Nperson」... Doesn't she know just how famous he is...?%K%P
 0x111C
 いづみ「……あっ！」%K%P
 Izumi「... Ah!!」%K%P

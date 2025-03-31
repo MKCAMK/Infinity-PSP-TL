@@ -66,7 +66,7 @@ Kurumi「Make them sumo wrestle each other...」%K%P
 Makoto「I see. Well today has the best weather for crabs, after%Nall.」%K%P
 0x164
 カニずもう日和って、なんだ？%K%P
-"The best weather for crabs"? What the hell?%K%P
+「The best weather for crabs」? What the hell?%K%P
 0x170
 オレは自分につっこみたくなったが、とりあえず言葉を続けた。%K%P
 I decide to ignore whatever I just said, and continue%Ntalking.%K%P
@@ -486,7 +486,7 @@ Kurumi「Because at Onii-chan's college, Onee-chan...」%K%P
 Kurumi「... Oh.」%K%P
 0xC14
 そこまで言いかけたくるみは、%N『いっけな〜い』といった感じで口に手を当てて、%N決まりの悪そうな顔をする。%K%P
-Kurumi stops talking and places a hand over her mouth%Nas if to say "oh, crap." She's wearing the guilty face of a%Nchild who's been caught with their hand in a cookie jar.%K%P
+Kurumi stops talking and places a hand over her mouth%Nas if to say 「oh, crap.」 She's wearing the guilty face of a%Nchild who's been caught with their hand in a cookie jar.%K%P
 0xC20
 誠「オレ達の大学……って？　……それ、どういう意味だ？」%K%P
 Makoto「My college...? ... What do you mean by that?」%K%P

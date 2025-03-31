@@ -417,7 +417,7 @@ Makoto「W-What are you saying, Izumi-san?」%K%P
 Makoto「Right now, Kurumi is 17 years old...and yet you say she%Nwas kidnapped 21 years ago...」%K%P
 0x874
 いづみ「そう。確かにそんなこと……あるわけないのよ……。だから私は……自信が持てないでいるの……」%K%P
-Izumi「There's... there's no way that's possible, is there...?"」%K%P
+Izumi「There's... there's no way that's possible, is there...?」%K%P
 0x880
 いづみ「今も言ったけど、くるみが誘拐されたとき、私は１歳だったし……」%K%P
 Izumi「Right. Certainly... that's impossible... That's why... I have no%Nconfidence in this story...」%K%P
@@ -699,7 +699,7 @@ In other words, it's like this:%K%P
 Just before the shrine was destroyed, Kurumi was in%Nthere with the kidnapper.%K%P
 0xD54
 倒壊の直後──それで、その時の事故のせいで、背中に傷を負ってしまったのだ。%K%P
-But via some kind of unknown source, "immediately after%Nthe shrine was destroyed", only Kurumi time traveled%Nthree years into the future...%K%P
+But via some kind of unknown source, 「immediately after%Nthe shrine was destroyed」, only Kurumi time traveled%Nthree years into the future...%K%P
 0xD60
 ……これが正しいかどうか、それはすぐにでも解き明かすことができる！%K%P
 Immediately after it was destroyed... ―therefore, she%Ngot injured on her back due to debris that fell during%Nthe destruction of the shrine.%K%P
@@ -822,13 +822,13 @@ After the barbecue, we all gathered in the lodge and%Nheld a seven bridge tourna
 It only ended about thirty minutes ago, and when I came%Nto my senses, Kurumi had taken possession of my bed%Nwithout me noticing it.%K%P
 0x1050
 ルナビーチの屋根の上で、くるみが『傷』の話をする時間はもうすぐだ。%K%P
-It's almost the time when I met Kurumi on the roof of%NLunabeach last time and she talked about her "scar".%K%P
+It's almost the time when I met Kurumi on the roof of%NLunabeach last time and she talked about her 「scar」.%K%P
 0x105C
 けれど、このまま寝かしておいてやろう。%K%P
 But I'll just let her sleep like this.%K%P
 0x1068
 あの『先輩』とやらの腹立たしい話は、聞きたくなかったし……。%W%W%W%K%P
-I don't want to hear that infuriating story about that%N"senpai" of hers...%W%W%W%K%P
+I don't want to hear that infuriating story about that%N「senpai」 of hers...%W%W%W%K%P
 0x1074
 大丈夫だ。%K%P
 It'll be fine.%K%P

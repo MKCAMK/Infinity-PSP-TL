@@ -57,10 +57,10 @@ My target is...%K%P
 ...the door before my eyes, which I violently force open.%K%P
 0x1A4
 その部屋の中央に、『彼』は立っていた。%K%P
-"He" is standing in the center of the room.%K%P
+「He」 is standing in the center of the room.%K%P
 0x1B0
 たった今起きたばかりなのであろう……寝間着姿の『彼』が、振り返る。%K%P
-It seems like "he's" only just woken up... "He" turns%Naround, still wearing "his" nightclothes.%K%P
+It seems like 「he's」 only just woken up... 「He」 turns%Naround, still wearing 「his」 nightclothes.%K%P
 0x1BC
 胸がぎゅっと押し潰されるようだった。%K%P
 It feels like my heart is tightly crushed.%K%P
@@ -75,7 +75,7 @@ Before long...%K%N
 Before long...%K%P
 0x230
 やがて、その目が、私を捉えた。%K%P
-Before long, "his" eyes notice me.%K%P
+Before long, 「his」 eyes notice me.%K%P
 0x23C
 （ま、まこと…………）%K%P
 (M-Makoto...)%K%P
@@ -168,7 +168,7 @@ When Makoto tears his body off of me, he slowly raises%Nhis left hand.%K%P
 I lean in close as we both look at his watch's face.%K%P
 0x3C4
 『１日　ＭＯＮ　０９：１９』%K%P
-"1st MON 9:19 A.M."%K%P
+「1st MON 9:19 A.M.」%K%P
 0x3D0
 優夏「……………………」%K%P
 Yuka「...」%K%P
@@ -795,7 +795,7 @@ Yuka「Fine! Then I'll add some toast to it!」%K%P
 ...Unfortunately, I was unable to show off my cooking%Nskills.%K%P
 0x145C
 かつて友人達に『超一流のコックですら裸足で逃げ%N出す』と言わしめた私の料理。%K%P
-A friend of mine once commented that I was "An elite%Ncook whose skills and cooking make everyone run%Naway."%K%P
+A friend of mine once commented that I was 「An elite%Ncook whose skills and cooking make everyone run%Naway.」%K%P
 0x1468
 もう一度、誠だけには食べてほしかったなぁ……。%K%P
 I wanted to have at least Makoto eat it one more time...%K%P
@@ -819,7 +819,7 @@ Okuhiko quickly changes the channel.%K%P
 This time, an image of a cooking show appears.%K%P
 0x14BC
 画面右上に『すこやかＹＯＵとぴあ』とタイトルロゴが表示されている。%K%P
-In the upper right hand corner of the screen is the title%Nlogo, "A Healthy YOUtopia".%K%P
+In the upper right hand corner of the screen is the title%Nlogo, 「A Healthy YOUtopia」.%K%P
 0x14C8
 再びポチポチとチャンネルを切り替えてみるが、それ以外は全て砂嵐だった。%K%P
 Okuhiko changes the channel again, but all we see is the%Nriver from earlier.%K%P
@@ -828,7 +828,7 @@ Okuhiko changes the channel again, but all we see is the%Nriver from earlier.%K%
 Okuhiko「It seems like all they've got is this local broadcasting%Ncrap...」%K%P
 0x14E0
 そう言って『すこやかＹＯＵとぴあ』に画面を戻した。%K%P
-Okuhiko changes the channel back to "A Healthy%NYOUtopia".%K%P
+Okuhiko changes the channel back to 「A Healthy%NYOUtopia」.%K%P
 0x14F4
 遙「ゴハン……どうするの？」%K%P
 Haruka「What should we do... about food?」%K%P
@@ -912,7 +912,7 @@ Makoto「Oh, thank you!」%K%P
 Now that I think about it, when I first met Kurumi-chan last%Ntime, Makoto said...%K%P
 0x174C
 『昼にピザが届いただろ？　あれ、この子が届けて%Nくれたんだ』%K%P
-"Remember the pizza we ate for lunch? She's the one%Nwho delivered it."%K%P
+「Remember the pizza we ate for lunch? She's the one%Nwho delivered it.」%K%P
 0x1758
 すると……まさか……？%K%P
 Which means... Is he thinking of...!?%K%P
@@ -966,7 +966,7 @@ I shoot a criticizing glare at Makoto, but he calmly%Nignores it.%K%P
 Kurumi「Huh!? A mistake!?」%K%P
 0x18C4
 くるみ「でも、伝票には確かに『シーフードピザ』って書いてあるよ？」%K%P
-Kurumi「But the receipt definitely says you ordered a "Seafood%NPizza", didn't you?」%K%P
+Kurumi「But the receipt definitely says you ordered a 「Seafood%NPizza」, didn't you?」%K%P
 0x18D8
 優夏「だからぁ、そういう意味じゃなくって、何も%N注文なんかしてないってこと」%K%P
 Yuka「I'm telling you, that's not what I meant. I'm saying we didn't%Norder anything.」%K%P
@@ -1071,7 +1071,7 @@ We hear a polite voice from the announcer on the TV,%Nwhich is still on.%K%P
 At the same time, the mechanical bird starts chirping...%K%P
 0x1C1C
 『自由になりたいなら怖れてはいけない』%K%P
-"If you want to be free, then you mustn't be afraid."%K%P
+「If you want to be free, then you mustn't be afraid.」%K%P
 0x1C6C
 途端に胸に広がる、やるせない気持ち……。%K%P
 Just then, a feeling of misery spreads in my heart...%K%P
@@ -1200,7 +1200,7 @@ Yuka「'Just what did we experience, and what are we%Nthinking?'...」%K%P
 Yuka「If we don't reach a mutual understanding first, our%Nconversations will clash, and then we'll have no idea%Nwhat the other's saying, right?」%K%P
 0x1F78
 なるほど、と深くうなずく誠。%K%P
-Makoto gives me a deep nod, as if to say "I see".%K%P
+Makoto gives me a deep nod, as if to say 「I see」.%K%P
 0x1F84
 優夏「じゃあ、いい？　まず最初に、今わかってる事実%Nから、確認するよ？」%K%P
 Yuka「All right then. First off, let's confirm what we do know,%Nokay?」%K%P
@@ -1248,7 +1248,7 @@ Yuka「It's just, do you really think that this is a simple problem%Nthat can be
 Makoto「Hmm?」%K%P
 0x2164
 優夏「私が今あげた３つの事実……１つ目と２つ目だけだったら、ただの『タイムスリップ』って言っちゃってもいいんだろうけど……」%K%P
-Yuka「The three facts we know right now... If all we knew were #1%Nand #2, then it'd probably be all right just to say that it%Nwas time travel', but..."」%K%P
+Yuka「The three facts we know right now... If all we knew were #1%Nand #2, then it'd probably be all right just to say that it%Nwas time travel', but...」%K%P
 0x2170
 優夏「重要なのは、３つ目なのよぉ……」%K%P
 Yuka「The most important one is #3...」%K%P
@@ -1509,7 +1509,7 @@ I know that he's trying to get off the island as quickly as%Npossible.%K%N
 It's true that if we could get off this island, the tragedy%Nof the 6th might not repeat itself.%K%N
 0x27A0
 フェリーに乗って、あるいは漁船を使って、この島から脱出する。%K%N
-"By using the ferry or a fishing boat, we can escape%Nthis island."%K%N
+「By using the ferry or a fishing boat, we can escape%Nthis island.」%K%N
 0x27AC
 誠はそう考えた。%K%P
 That's what Makoto thinks.%K%P
@@ -1518,19 +1518,19 @@ That's what Makoto thinks.%K%P
 However, today, the ferry is...%K%N%N
 0x27CC
 『本日、　悪天候のため運休』%K%N%N
-"Today, ferry service has been suspended due to bad%Nweather."%K%N%N
+「Today, ferry service has been suspended due to bad%Nweather.」%K%N%N
 0x27D8
 近くにいた漁師に、船を貸してもらえるように頼んでも……%K%P
 Makoto then talks to a nearby fisherman, asking him to%Nlend him his boat, but...%K%P
 0x27EC
 『バ、バァータレェ！！』%K%N%N
-"D-Dumbass!!"%K%N%N
+「D-Dumbass!!」%K%N%N
 0x27F8
 『海さ……海さ、なめるんでねぇ！』%K%N%N
-"Don't... don't underestimate the ocean!"%K%N%N
+「Don't... don't underestimate the ocean!」%K%N%N
 0x2804
 『なぁ〜んも海のごど知らんで、よぐもそっだら%N生意気なごど……』%K%N%N
-"Yah know nothin' about the ocean, so don't get so%Nconceited..."%K%N%N
+「Yah know nothin' about the ocean, so don't get so%Nconceited...」%K%N%N
 0x2810
 ……漁師の怒鳴り声は、私の耳に届くほどだった。%K%P
 ...The shouting fisherman's voice reaches my ears.%K%P
@@ -1614,7 +1614,7 @@ Makoto「?」%K%P
 Yuka「We have reliable memories this time... right?」%K%P
 0x29FC
 『前回の記憶をしっかりと覚えている』%K%P
-"I remember everything that happened in the last loop."%K%P
+「I remember everything that happened in the last loop.」%K%P
 0x2A08
 これこそが、先程テニスコートで気がついた事実%Nだった。%K%P
 This fact is what I realized earlier at the tennis court.%K%P
@@ -1722,7 +1722,7 @@ Makoto「'Promises must definitely be kept' ―that's what you%Nwrote in your le
 Makoto「Don't forget this vow... okay?」%K%P
 0x2BFC
 『約束は、絶対に、守ること』%K%P
-"Promises must definitely be kept."%K%P
+「Promises must definitely be kept.」%K%P
 0x2C08
 その言葉を、胸に焼きつけるように、頭の中で繰り返した。%K%P
 Those words are burned into my mind, repeating over%Nand over again.%K%P
@@ -1758,7 +1758,7 @@ The reason why we returned to the past at that moment...%K%P
 There's only one thing... that I can think of.%K%P
 0x2CF4
 『はるさめや　みさきの　はてに　なりひびく　すずとともにや　ときは　とかれん』%K%P
-"The spring rain/ At the end of the cape/ Together with/%NThe echoing bell/ Will free you from time."%K%P
+「The spring rain/ At the end of the cape/ Together with/%NThe echoing bell/ Will free you from time.」%K%P
 0x2D00
 だとしたら、これからやるべき事は────。%K%P
 If that's the case, then what we should be doing is―%K%P
@@ -1965,7 +1965,7 @@ Although I say this, I smile and rush over to Makoto.%K%P
 My mind is still full of anxiety.%K However...%K%P
 0x31D0
 『自由になりたいなら怖れてはいけない』%K%P
-"If you want to be free, then you mustn't be afraid."%K%P
+「If you want to be free, then you mustn't be afraid.」%K%P
 0x31DC
 オソレテハ、%T030イケナイ……。%K%P
 I mustn't be afraid...%K%P
@@ -2067,10 +2067,10 @@ Yuka「I remembered... that it was yours...」%K%P
 Yuka「That's why, on the morning of the last 1st... I headed%Nstraight for... your room.」%K%P
 0x3444
 『誰かが死ぬ夢だった』%K%P
-"A dream where someone died."%K%P
+「A dream where someone died.」%K%P
 0x3450
 ──その誰かは……誠だったんだよ……？%K%P
-"―Was that someone... Makoto...?"%K%P
+「―Was that someone... Makoto...?」%K%P
 0x345C
 優夏「何もわかってない様子の誠を見て……」%K%P
 Yuka「When I saw that you knew nothing, Makoto...」%K%P
@@ -2130,10 +2130,10 @@ Makoto「Oh... that?」%K%P
 Makoto「It was a present from Kurumi...」%K%P
 0x3594
 『これは今日の午後、月浜で拾ったものです』%K%P
-"This is something Kurumi found on Moon Beach this%Nafternoon."%K%P
+「This is something Kurumi found on Moon Beach this%Nafternoon.」%K%P
 0x35A0
 『とってもきれいだったから、お兄ちゃんにあげる%Nね♪』%K%P
-"It's very pretty, so she'll give it to you♪"%K%P
+「It's very pretty, so she'll give it to you♪」%K%P
 0x35AC
 くるみちゃんから手紙をもらったこと。%K%Nその手紙の内容と、手紙に鈴が同封されていたことを、誠は話してくれた。%K%P
 Makoto had gotten a letter from Kurumi-chan.%K He tells me%Nthe contents of the letter, and that enclosed with the%Nletter was his bell.%K%P
@@ -3081,10 +3081,10 @@ But Makoto pretends not to know about it.%K%N
 ―It's in order to create a good history.%K%N
 0x4CC8
 なんでも、これもまた『大切な想い出のひとかけら』なのだそうだ。%K%P
-After all, this is also "A precious memory".%K%P
+After all, this is also 「A precious memory」.%K%P
 0x4CDC
 ……ルナビーチに帰り『明日プールに行こう』と約束を交わした。%K%N
-...We return to Lunabeach, and promise to "Go to the pool%Ntomorrow".%K%N
+...We return to Lunabeach, and promise to 「Go to the pool%Ntomorrow」.%K%N
 0x4CE8
 いづみさん、くるみちゃんとは、そこで別れた……。%K%N%N
 We part ways with Izumi-san and Kurumi-chan...%K%N%N
@@ -3099,7 +3099,7 @@ And then...%K%P
 Many things happened today.%K%P
 0x4DA0
 ボーっと天井を眺めながら今日１日のことを考えて%Nみた。%K%P
-I vacantly stare at the ceiling while thinking over the%Nevents of "this April 1st".%K%P
+I vacantly stare at the ceiling while thinking over the%Nevents of 「this April 1st」.%K%P
 0x4E08
 今日という１日……。%K%N
 The today known as April 1st...%K%N
@@ -3123,7 +3123,7 @@ Finally, I'm hit with intense feelings of shame.%K%P
 Makoto and I, in order to escape from the infinite loop,%Nmade that promise.%K%N%N
 0x4E64
 『あの神社には、何がどうなろうと、決して近づか%Nない』と。%K%N%N
-"No matter what happens, never go near that shrine%Nagain..."%K%N%N
+「No matter what happens, never go near that shrine%Nagain...」%K%N%N
 0x4E70
 神社……。%K%N
 The shrine...%K%N
@@ -3267,4 +3267,4 @@ I wait impatiently to fall asleep so that I can forget%Neverything...%K%P
 I feel like I can hear the sound of a small bird chirping%Nfrom somewhere...%K%P
 0x515C
 その日の夢には、何十万匹もの羊が登場し、メェーメェーと鳴き声を上げていた…………。%K%P
-I dream of thousands of sheep, going "Baa, baa"%Ncountless times...%K%P
+I dream of thousands of sheep, going 「Baa, baa」%Ncountless times...%K%P

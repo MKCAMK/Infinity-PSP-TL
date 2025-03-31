@@ -111,10 +111,10 @@ Haruka is staring at the rain.%K%N
 The endlessly pouring rain.%K%P
 0x3D8
 『水』%K
-"Water."%K
+「Water.」%K
 0x3E4
 　遙は、天から降り注ぐ『水』を、%N微動だにすることなく見つめていた。%K%N
-Haruka is looking at the "water" falling from the sky, not%Nshowing the slightest hint of movement.%K%N
+Haruka is looking at the 「water」 falling from the sky, not%Nshowing the slightest hint of movement.%K%N
 0x3F0
 遙の目は……『水』だけを見つめているのだ。%K%P
 Her eyes... are focusing intensely on it.%K%P
@@ -129,7 +129,7 @@ I call out to her.%K%N
 Haruka turns towards me.%K%N
 0x444
 『水』を受けたその顔は、たとえようもなく%N美しかった。%K%P
-Her face, wet with "water", has an ethereal beauty to it.%K%P
+Her face, wet with 「water」, has an ethereal beauty to it.%K%P
 0x450
 誠「……」%K%P
 Makoto「...」%K%P
@@ -630,7 +630,7 @@ It's been approximately half an hour since we arrived at%Nthe clinic.%K%P
 We woke up the sleeping doctor and quickly brought%NHaruka into the sickroom.%K%P
 0x12CC
 医者は巧みな手さばきで『止血処置』を施し、%Nなんとか流れ続けていた血だけは止めることは%N出来た。%K%P
-With his skillful handling, the doctor performs%N"hemostasis treatment", which seems to have at least%Nsuccessfully stopped the bleeding.%K%P
+With his skillful handling, the doctor performs%N「hemostasis treatment」, which seems to have at least%Nsuccessfully stopped the bleeding.%K%P
 0x12D8
 しかし、予断を許さない状況だということは、%N見ていればわかる。%K%P
 However, by the looks of things, I know that it's too early%Nto jump to conclusions.%K%P
@@ -753,7 +753,7 @@ Makoto「...」%K%P
 Even... Even I want to yell at him.%K%N
 0x14D4
 『遙が死ぬ』なんて言う奴は許しちゃおけない。%K%P
-I can't forgive someone who just simply says, "Haruka will%Ndie."%K%P
+I can't forgive someone who just simply says, 「Haruka will%Ndie.」%K%P
 0x14E0
 でも……それでどうなるっていうんだ！？%K%N
 But... What would that accomplish!?%K%N

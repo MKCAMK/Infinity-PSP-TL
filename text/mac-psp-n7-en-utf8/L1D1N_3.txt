@@ -6,13 +6,13 @@ text area offset and size:
 We all ran away, back to Lunabeach.%K%P
 0x4C
 ここに着いたのは３０分ぐらい前で、その時からずっと、オレはあることを考え続けていた……。%K%P
-In the half hour we've been here, I've been thinking about%N"that" this whole time...%K%P
+In the half hour we've been here, I've been thinking about%N「that」 this whole time...%K%P
 0x58
 『月浜で遙が転んだこと』『米が切れていたこと』……そして%K%N『あの地震とプールに落ちたいづみさんのこと』%K%P
-"Haruka falling down on Moon Beach", "The shortage of%Nrice"... and this time, "The earthquake and Izumi-san%Nfalling into the pool."%K%P
+「Haruka falling down on Moon Beach」, 「The shortage of%Nrice」... and this time, 「The earthquake and Izumi-san%Nfalling into the pool.」%K%P
 0x64
 『地震が来るんだよ』……%W%Wあの時オレが言ったことを、みんなは全く気にしていないようだった。%K%P
-"An earthquake's coming." ... No one has paid any%Nattention to what I said back there.%K%P
+「An earthquake's coming.」 ... No one has paid any%Nattention to what I said back there.%K%P
 0x70
 彼らは今、そんなこととは別の話題で盛り上がっている。%K%P
 Right now, they're engaged in a conversation about%Nsomething else entirely.%K%P
@@ -75,7 +75,7 @@ Haruka「An unusual... phenomenon?」%K%P
 Hmm... how do I explain it to them?%K
 0xA90
 きっぱり『予知をした』と言う
-Simply say "I had a premonition."
+Simply say 「I had a premonition.」
 0xA9C
 曖昧に表現する
 Express it in vaguer terms.
@@ -90,7 +90,7 @@ I simply tell them this.%K%P
 I don't know why, but all of the sudden, I've been given%Nthe power to receive premonitions.%K%P
 0x2A0
 今までに起きた現象をきちんと説明するには、%Nどう考えても『予知能力が備わった』としか%N言いようがなかったのだ。%K%P
-No matter how I think about how to explain this%Nphenomenon, the only way I can think of how to express%Nit is, "I've been given the power to receive premonitions."%K%P
+No matter how I think about how to explain this%Nphenomenon, the only way I can think of how to express%Nit is, 「I've been given the power to receive premonitions.」%K%P
 0x2B4
 誠「なんとなく未来を予知できるっていうか……」%K%P
 Makoto「Somehow, I had a premonition of the future...」%K%P
@@ -102,7 +102,7 @@ I vaguely mumble this.%K%P
 I don't know why, but all of the sudden, I've been given%Nthe power to receive premonitions.%K%P
 0x2D8
 今までに起きた現象をきちんと説明するには、%Nどう考えても『予知能力が備わった』としか%N言いようがなかったのだ。%K%P
-No matter how I think about how to explain this%Nphenomenon, the only way I can think of how to express%Nit is, "I've been given the power to receive premonitions."%K%P
+No matter how I think about how to explain this%Nphenomenon, the only way I can think of how to express%Nit is, 「I've been given the power to receive premonitions.」%K%P
 0x2F4
 億彦「はぁ？？？」%K%P
 Okuhiko「Huh???」%K%P

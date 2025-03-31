@@ -53,6 +53,12 @@ repack_mac_afs () {
 	# wait $WAITPIDS &> /dev/null
 	echo "Finished repacking scenes"
 
+	if [ -f ${GAME}_mac_${TL_SUFFIX}/SL2D4_3.SCN ]; then
+		echo "Fixing SL2D4_3.SCN"
+ 		printf "\x05" | dd oflag=seek_bytes conv=notrunc seek=160 of=./${GAME}_mac_${TL_SUFFIX}/SL2D4_3.SCN
+	 	$COMPRESS ./${GAME}_mac_${TL_SUFFIX}/SL2D4_3.{SCN,BIP}
+	fi
+
 	$REPACK_AFS $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./${GAME}_mac_${TL_SUFFIX} || exit 1
 	mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
 }

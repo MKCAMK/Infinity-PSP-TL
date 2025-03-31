@@ -45,7 +45,7 @@ A thin film of hot milk rises to the surface of the mug in%Nher right hand.%K%P
 Yuka「Oh, Kurumi-tan... Hau ah yuu feelin'?」%K%P
 0x158
 くるみ「うん。ちょっと横になったら、すっかり良くなっちゃった」%K%P
-Kurumi「Good! After Kurumi had a nap, she got completely better.」%K%P
+Kurumi「Good! After Kurumi had a nap, she got completely%Nbetter.」%K%P
 0x164
 優夏「おおっ、それはよかったよかった、なっはっはっはっは♪」%K%P
 Yuka「Ohhhh! Dash gud, dash gud, nahahahaha♪」%K%P
@@ -57,7 +57,7 @@ Yuka「Ah!!」%K%P
 Yuka suddenly leans forward and points to the mug in%NKurumi's hand.%K%P
 0x190
 ま、まさか、また言うのか？　あれを……。%K%P
-Sh-She's not planning on say saying that again, is%Nshe...?"%K%P
+Sh-She's not planning on say saying that again, is%Nshe...?%K%P
 0x19C
 優夏「わたくし、たったいま、ものすごいことにきづいてしまいましたっ！」%K%P
 Yuka「I have jusht come up wif shomefing amashing!」%K%P

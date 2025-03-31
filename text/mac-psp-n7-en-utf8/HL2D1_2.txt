@@ -81,7 +81,7 @@ My mind is still in chaos.%K%N
 I'm unable to fully grasp the reality before me.%K%P
 0x258
 『生き、てる？』%N──そう聞き返してきた遙の視線は、オレの方に%N向けられてはいなかった。%K%P
-"'Alive?'" ―Haruka doesn't bother to turn towards me%Nas she asks this.%K%P
+「'Alive?'」 ―Haruka doesn't bother to turn towards me%Nas she asks this.%K%P
 0x264
 遙はただぼんやりと、蛇口からしたたり落ちる水滴を眺めている。%K%P
 Instead, she blankly stares at the dripping faucet.%K%P
@@ -126,7 +126,7 @@ It feels like everything we've worked towards has%Ncrumbled up into dust...%K%P
 Haruka has lost sight of it once again...%K%N
 0x30C
 『心』を……。%K%P
-Her "heart"...%K%P
+Her 「heart」...%K%P
 0x344
 オレの脇をすり抜けて、遙がリビングへ戻って行く。%K%P
 Haruka slips right by me and returns to the living room.%K%P
@@ -135,7 +135,7 @@ Haruka slips right by me and returns to the living room.%K%P
 I go after her while sorting things out in my head.%K%P
 0x394
 ……そうこうしているうちに、『奴』が眠そうな目を%Nこすりながら、リビングへと姿を現した。%K%P
-... It's at that point that "he" shows up, entering the living%Nroom while rubbing the sleep out of his eyes.%K%P
+... It's at that point that 「he」 shows up, entering the living%Nroom while rubbing the sleep out of his eyes.%K%P
 0x3DC
 億彦「やあ！」%K%P
 Okuhiko「Hey!」%K%P
@@ -492,10 +492,10 @@ I become flustered from Haruka's unexpected question.%K%P
 The answer that comes out of my mouth is...%K
 0x1A28
 『もちろん』
-"Of course."
+「Of course.」
 0x1A34
 『い、いちおう……』
-"O-Once..."
+「O-Once...」
 0xEE0
 誠「もちろん」%K%P
 Makoto「Of course.」%K%P
@@ -615,7 +615,7 @@ The sea breeze begins to gently blow in the space%Nbetween us...%K%P
 I think this over and over again.%K%P
 0x1148
 『心がない』なんて、決して言わせない。%K%N
-I will never let Haruka say she has "no heart" ever again.%K%N
+I will never let Haruka say she has 「no heart」 ever again.%K%N
 0x1154
 遙は、遙なのだから……。%K%P
 Because Haruka is her own person...%K%P
@@ -771,7 +771,7 @@ We walk down Moon Beach.%K Like last time, we've decided%Nto return by walking d
 I've just remembered something.%K%P
 0x160C
 （そうだ……。確かオレはここの辺で、あの『鈴』を拾ったんだった……）%K%P
-(That's right... it was definitely around here that I found%Nthat "bell"...)%K%P
+(That's right... it was definitely around here that I found%Nthat 「bell」...)%K%P
 0x1634
 オレはあたりを見まわした。%K%N
 I check my surroundings.%K%N

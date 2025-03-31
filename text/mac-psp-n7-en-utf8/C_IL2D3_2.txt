@@ -21,16 +21,16 @@ The top half's been torn off, so I don't really know the%Ndetails.%K%P
 But on the bottom half is...%K%P
 0xC8
 『７月７日（日）──杜紀司祭』%K%P
-"July 7th (Sunday)―(杜紀司) Festival".%K%P
+「July 7th (Sunday)―(杜紀司) Festival」.%K%P
 0xD4
 『ご家族お誘い合わせの上、ぜひ御参加ください』%K%P
-"Invite all of your family members, and please%Nparticipate."%K%P
+「Invite all of your family members, and please%Nparticipate.」%K%P
 0xE0
 ……そう書かれていた。%K%P
 ... That's what's written.%K%P
 0xEC
 （杜紀司祭%T030──ときつかさまつり、%T015か？）%K%P
-((杜紀司) Festival ―The "Tokitsukasa" Festival, huh?)%K%P
+((杜紀司) Festival ―The 「Tokitsukasa」 Festival, huh?)%K%P
 0xF8
 （……………………………………………）%K%P
 (...)%K%P
@@ -105,16 +105,16 @@ Makoto「Who's immortal...?」%K%P
 Makoto「... Immor... tal...?」%K%P
 0x284
 『ボクのなかに『死』は無い』%K%P
-"I have no 'death' in me."%K%P
+「I have no 'death' in me.」%K%P
 0x290
 『だからボクは『死』なない』%K%P
-"That's why I won't 'die'."%K%P
+「That's why I won't 'die'.」%K%P
 0x29C
 『ボクは死なないし死ねない』%K%P
-"I won't die because I can't die."%K%P
+「I won't die because I can't die.」%K%P
 0x2A8
 『…………永遠に……………』%K%P
-"... I'll live forever..."%K%P
+「... I'll live forever...」%K%P
 0x2C4
 優夏「キエ〜〜〜〜〜〜〜〜〜ッ！」%K%P
 Yuka「KEEEEEEEEEEEH!」%K%P
@@ -351,7 +351,7 @@ Yuka「It's completely weird!」%K%P
 Yuka「In the first place, that name... isn't cute...」%K%P
 0x73C
 『って、お前が付けたんだろが！』%K%P
-"Hey, you're the one who came up with it, aren't you!?"%K%P
+「Hey, you're the one who came up with it, aren't you!?」%K%P
 0x748
 と言いたい気持ちを、ぐっとこらえつつ……%K%P
 I wish I could say that out loud, but I resist the urge...%K%P
@@ -633,7 +633,7 @@ Yuka「The structure of the device is simple.」%K%P
 Yuka「If α particles come flying out from the radioactive%Nmaterial in the box...」%K%P
 0xC5C
 優夏「検出ロボット『信くん１号』が、それを感知して……」%K%P
-Yuka「The detection robot- let's call him 'Beli-kun Unit 1'-%Nperceives the particles...」%K%P
+Yuka「The detection robot―let's call him 'Beli-kun Unit 1'―%Nperceives the particles...」%K%P
 0xC68
 優夏「毒ガスの入ったビンをパリィ〜〜〜ンッ！と割っちゃう仕組みです」%K%P
 Yuka「And then releases a mechanism that makes the glass%Nbottle with the poison gas go *craaaaaaaack* by%Nbreaking it apart.」%K%P
@@ -885,7 +885,7 @@ Makoto「There was no 50％ chance that it was alive. It was%N'completely' dead.
 Yuka「Right... This is already after you've observed it? I see no%Nproblems with saying that.」%K%P
 0x1168
 誠「あああああああっ！　わかんねぇぇぇぇぇぇぇっ！」%K%P
-Makoto「ARRRRRGH! I DON"T GET ITTTTTT!」%K%P
+Makoto「ARRRRRGH! I DON'T GET ITTTTTT!」%K%P
 0x1174
 誠「なあ、優夏？　もっと簡単に説明できないのか！？」%K%P
 Makoto「Hey, Yuka? Can't you explain this any simpler!?」%K%P
@@ -978,19 +978,19 @@ Yuka and Kurumi begin a make-believe sword fight using%Nplastic swords.%K%P
 Honestly... I'm lost now.%K%P
 0x1398
 『──誠は『過去を決めた』のよ』%K%P
-"―You 'decided the past'."%K%P
+「―You 'decided the past'.」%K%P
 0x13A4
 『過去に戻ることなんて……できないんだから……』%K%P
-"It's impossible... to go back to the past..."%K%P
+「It's impossible... to go back to the past...」%K%P
 0x13B0
 優夏の言葉が、頭の中を駆けめぐる。%K%P
 Yuka's words run through my head.%K%P
 0x13BC
 『シュレディンガーの猫』%K%P
-"Schrödinger's cat."%K%P
+「Schrödinger's cat.」%K%P
 0x13C8
 それとキュレイシンドロームの『第３の特徴』には、どうやら関係があるらしい。%K%P
-Apparently, it's somehow related to "The Third Trait" of%NCuré Syndrome.%K%P
+Apparently, it's somehow related to 「The Third Trait」 of%NCuré Syndrome.%K%P
 0x13D4
 いづみさんは昨日の夜、確かにそう言っていたのだ。%K%P
 Izumi-san definitely said that last night.%K%P

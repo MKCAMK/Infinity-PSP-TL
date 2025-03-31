@@ -3,10 +3,10 @@ text area offset and size:
 0x13BF
 0xA8
 『いくら陽射しが強いとは言え、さすがに水着１枚で外に出るのはちょっとつらい』%K%P
-"Although the sunlight is strong, it's only the start of%Nspring, so it'll be a bit cold to go outside with just a%Nbathing suit on."%K%P
+「Although the sunlight is strong, it's only the start of%Nspring, so it'll be a bit cold to go outside with just a%Nbathing suit on.」%K%P
 0xB4
 『プールサイドに出たら、真っ先に水に飛び込んだ方がいいだろう』%K%P
-"If we go to the poolside, it'd probably be best to dive%Nstraight for the water."%K%P
+「If we go to the poolside, it'd probably be best to dive%Nstraight for the water.」%K%P
 0xC0
 ……と思っていたが、予想に反して、外気は嘘みたいな暖かさだった。%K%P
 ... At least, I was thinking that, but to my surprise, it's%Nactually warm outside.%K%P
@@ -129,7 +129,7 @@ Okuhiko「Well then, adios, amigos!」%K%P
 Okuhiko leaves us with these words, and he suddenly%Nbegins running towards the poolside, diving in...%K%P
 0x388
 が、華麗なる腹打ちダイブ……。%K%P
-... With a "magnificent" belly dive...%K%P
+... With a 「magnificent」 belly dive...%K%P
 0x394
 『パチン』という痛々しい音とともに、豪快な水しぶきが舞い上がる。%K%P
 A sheet of water shoots up into the air as he%Npathetically crashes into the pool.%K%P
@@ -180,7 +180,7 @@ I don't know why, but my body is just itching to do so.%K%P
 Is it because it's spring...?%K%P
 0x5C0
 『心がバーニングヒートさ』と言った億彦の気持ちが、何となく分かったような気がする。%K%P
-Whatever the reason, I think this is what Okuhiko meant%Nwhen he said, "My soul is filled with a fiery heat."%K%P
+Whatever the reason, I think this is what Okuhiko meant%Nwhen he said, 「My soul is filled with a fiery heat.」%K%P
 0x5E8
 オレは早速、水中へと飛び込んだ。%K%P
 I immediately dive underwater.%K%P

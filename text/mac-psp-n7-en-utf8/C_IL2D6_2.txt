@@ -63,10 +63,10 @@ Izumi「Don't forget... my existence, okay?」%K%P
 (Why the hell have I been thinking about all of this stupid%Ncrap...?)%K%P
 0x1DC
 （『いづみさんのぬくもりを信じる』って……）%K%P
-("I believe in Izumi-san's warmth"...)%K%P
+(「I believe in Izumi-san's warmth」...)%K%P
 0x1E8
 （『いづみさんのそばにずっといるから』って……）%K%P
-("I'll always be by Izumi-san's side"...)%K%P
+(「I'll always be by Izumi-san's side」...)%K%P
 0x1F4
 （──そう固く誓ったじゃないか！）%K%P
 (―I swore those things, didn't I?!)%K%P
@@ -279,7 +279,7 @@ Looking closely, I see a pure white grain of sand on her%Nwet palm.%K%P
 It's in the shape of shining star... It's like Leo...%K%P
 0x6F4
 いづみさんは『星の砂』の乗った手の平を結ぶと、もう片方の手でポケットを探った。%K%P
-Izumi-san closes the hand with the "star sand" in it, and%Nuses her other hand to search through her pocket.%K%P
+Izumi-san closes the hand with the 「star sand」 in it, and%Nuses her other hand to search through her pocket.%K%P
 0x700
 取り出したものは、親指ほどの大きさの……%K%P
 The thing she takes out is as big as her thumb...%K%P
@@ -309,7 +309,7 @@ Izumi「It washed up at the pier in the harbor...」%K%P
 Izumi「It's just a small grain...」%K%P
 0x7A8
 いづみさんは小ビンの詮を抜いて、今拾ったばかりの『星の砂』をその中に入れた。%K%P
-Izumi-san takes the cork off the small bottle, and puts%Nthe "star sand" she just picked up into it.%K%P
+Izumi-san takes the cork off the small bottle, and puts%Nthe 「star sand」 she just picked up into it.%K%P
 0x7B4
 手の平についたしずくとともに、砂粒はビンの壁を流れて底に落ちた。%K%P
 The grain of sand sinks to the bottom of the bottle%Ntogether with the other small grains in Izumi-san's hand.%K%P
@@ -534,7 +534,7 @@ It's as if we're confirming each other's existences...%K%P
 To prove that we won't disappear...%K%P
 0xC5C
 『恋の岬で想いを告げて、%T015愛の入り江で想いを遂げる』%K%P
-"Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love."%K%P
+「Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love.」%K%P
 0xC68
 オレ達は……%T030今……%K%N
 Right now... we're...%K%N

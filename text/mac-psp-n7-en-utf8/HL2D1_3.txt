@@ -15,7 +15,7 @@ Haruka is sitting on the bow of the ship, firmly staring at%Nthe ocean. Her soft
 I'm unable to move, as if my soul had been drained from%Nmy body.%K%N
 0xEC
 『これ以上近づいてはいけない』%K%N
-"You mustn't get any closer."%K%N
+「You mustn't get any closer.」%K%N
 0xF8
 ……誰かかから、そう言われているような気がした。%K%P
 ... It feels like someone's saying that to me.%K%P
@@ -237,10 +237,10 @@ I become flustered from Haruka's unexpected question.%K%P
 The answer that comes out of my mouth is...%K
 0xFD8
 『もちろん』
-"Of course."
+「Of course.」
 0xFE4
 『い、いちおう……』
-"O-Once..."
+「O-Once...」
 0x5C4
 誠「もちろん」%K%P
 Makoto「Of course.」%K%P
@@ -360,7 +360,7 @@ The sea breeze begins to gently blow in the space%Nbetween us...%K%P
 I think this over and over again.%K%P
 0x810
 『心がない』なんて、決して言わせない。%K%N
-I will never let Haruka say she has "no heart" ever again.%K%N
+I will never let Haruka say she has 「no heart」 ever again.%K%N
 0x81C
 遙は、遙なのだから……。%K%P
 Because Haruka is her own person...%K%P
@@ -516,7 +516,7 @@ We walk down Moon Beach.%K Like last time, we've decided%Nto return by walking d
 I've just remembered something.%K%P
 0xCD4
 （そうだ……。確かオレはここの辺で、あの『鈴』を拾ったんだった……）%K%P
-(That's right... it was definitely around here that I found%Nthat "bell"...)%K%P
+(That's right... it was definitely around here that I found%Nthat 「bell」...)%K%P
 0xCFC
 オレはあたりを見まわした。%K%N
 I check my surroundings.%K%N

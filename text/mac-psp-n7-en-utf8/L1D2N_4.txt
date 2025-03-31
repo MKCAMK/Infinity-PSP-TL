@@ -51,10 +51,10 @@ Makoto「...」%K%P
 Haruka「It's fine if I can't fish...」%K
 0x4E8
 『オ、オレが教えてやるよ』
-"I-I'll teach you."
+「I-I'll teach you.」
 0x4F4
 『心が……ない？』
-"You have no... heart?"
+「You have no... heart?」
 0x19C
 誠「オ、オレが教えてやるよ」%K%P
 Makoto「I-I'll teach you.」%K%P
@@ -75,7 +75,7 @@ If she wants to learn how to fish, then I'll give her all the%Nhelp she needs.%K
 I want to get to know her better and%Nstart to understand her feelings.%K%P
 0x1F4
 『心』がないなんて言ってる子の、%N気持ちの奥底を。%Kそれから沙紀とのことを聞いたっていいじゃないか。%K%P
-I want to understand the depths of the emotions of this%Ngirl who says she has no "heart". After that, won't it be%Nall right to ask her about Saki?%K%P
+I want to understand the depths of the emotions of this%Ngirl who says she has no 「heart」. After that, won't it be%Nall right to ask her about Saki?%K%P
 0x200
 オレはそう思った。%K%P
 That's what I think.%K%P
@@ -87,7 +87,7 @@ Makoto「You have no... heart?」%K%P
 Haruka「... None.」%K%P
 0x22C
 心がない……いったいどういうことだろう？%K%N
-She "doesn't have a heart"... Just what does that mean?%K%P
+She 「doesn't have a heart」... Just what does that mean?%K%P
 0x238
 遙はオレ達にはない何かを抱え込んでいるように見えた。%K%P
 Haruka seems to be dwelling on something by herself.%K%N
@@ -120,7 +120,7 @@ If she wants to learn how to fish, then I'll give her all the%Nhelp she needs.%K
 I want to get to know her better and start to understand%Nher feelings.%K%P
 0x2C8
 それから沙紀とのことを聞いたっていいじゃないか。オレはそう思った。%K%P
-I want to understand the depths of the emotions of this%Ngirl who says she has no "heart".%K%P
+I want to understand the depths of the emotions of this%Ngirl who says she has no 「heart」.%K%P
 0x2D4
 誠「明日、２人で釣りに行こう」%K%P
 After that, won't it be all right to ask her about Saki?%NThat's what I think.%K%P
@@ -192,4 +192,4 @@ Haruka slowly nods.%K%N
 It looks like she wanted to say something.%K%P
 0x3F0
 オレはそう思っていた……。%K%P
-Like this, she'll learn more and more. Slowly, but surely,%Nher "heart" will be born. Even Haruka should be able to%Nrealize that.%K%P
+Like this, she'll learn more and more. Slowly, but surely,%Nher 「heart」 will be born. Even Haruka should be able to%Nrealize that.%K%P

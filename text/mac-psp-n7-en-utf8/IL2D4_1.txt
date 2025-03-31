@@ -6,7 +6,7 @@ text area offset and size:
 I head to Lunabeach after waking up.%K%P
 0x140
 過去の４日目を考えると、ここはくるみとカニ捕りに行くべきなのだろうが、%Nそんなことは既にどうでもよくなっていた。%K%P
-When I think about the "last" 4th, I realize that I probably%Nshould be going to see the crab sumo with Kurumi like%N"last time", but something like that no longer matters to%Nme.%K%P
+When I think about the 「last」 4th, I realize that I probably%Nshould be going to see the crab sumo with Kurumi like%N「last time」, but something like that no longer matters to%Nme.%K%P
 0x14C
 幸いにも、億彦は朝早く、遙とともに釣りに出かけて行った。%K%P
 Fortunately, Okuhiko left early this morning to go fishing%Nwith Haruka.%K%P
@@ -75,10 +75,10 @@ All he needed were eight words.%K%P
 These words were:%K%P
 0x2D8
 『ボクは、%W%Wここにいるよ』%K%N
-"I'm... right here."%K%N
+「I'm... right here.」%K%N
 0x2E4
 『キミがそこにいて、%W%Wよかった』%K%P
-"I'm glad... that you're here."%K%P
+「I'm glad... that you're here.」%K%P
 0x2F0
 いづみ「ふふ……どうしたの？　朝っぱらから……」%K%P
 Izumi「Hee hee... what's wrong? You're up early...」%K%P

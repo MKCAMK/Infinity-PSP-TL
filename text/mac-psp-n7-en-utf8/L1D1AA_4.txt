@@ -42,7 +42,7 @@ Okuhiko「Don't you think so, Haruka-chan?」%K%P
 ―Haruka!?%K%N
 0xD4
 ──そうか『遙』って名前なのか、この子は！%K%P
-―I see, so "Haruka" is that girl's name!%K%P
+―I see, so 「Haruka」 is that girl's name!%K%P
 0xF8
 億彦「そう思うだろ？」%K%P
 Okuhiko「Don't you think so?」%K%P
@@ -189,10 +189,10 @@ Makoto「What!?」%K%P
 Yuka「What, is there something wrong?」%K
 0x820
 『優夏、料理作れるの？』
-"Yuka, you can cook?"
+「Yuka, you can cook?」
 0x82C
 『いや、そうじゃなくて……材料とか……』
-"That's not it... Do we have ingredients?"
+「That's not it... Do we have ingredients?」
 0x470
 誠「優夏、料理作れるの？」%K%P
 Makoto「Yuka, you can cook?」%K%P
@@ -243,7 +243,7 @@ Makoto「I see.」%K%P
 Yuka「I think it'll probably take about 15 minutes. Um, toast's%Nokay, right?」%K%P
 0x548
 億彦は『お任せしますよ』といった感じに%N軽くうなずいた。オレもそれに倣う。%K%P
-Okuhiko gives her a quick nod as if to say "I'll leave it to%Nyou". I follow suit.%K%P
+Okuhiko gives her a quick nod as if to say 「I'll leave it to%Nyou」. I follow suit.%K%P
 0x554
 優夏「遙は？」%K%P
 Yuka「What about you, Haruka?」%K%P

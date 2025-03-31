@@ -213,7 +213,7 @@ If Yuka goes over there right now, nothing will change.%K%P
 Kurumi―she didn't go missing on the 4th.%K%P
 0x73C
 『歴史が変わった』……オレと優夏はそう思って喜び浮かれていた。%K%P
-"History changed"... Yuka and I were overjoyed with that%Nthought.%K%P
+「History changed」... Yuka and I were overjoyed with that%Nthought.%K%P
 0x748
 だが……。%K%N
 But...%K%N
@@ -225,10 +225,10 @@ In the end, the same thing is happening.%K%P
 Kurumi still disappeared. All that's changed is the date.%K%P
 0x76C
 『ラプラスの悪魔』が微笑んでいる。%K%P
-"Laplace's demon" is smiling.%K%P
+「Laplace's demon」 is smiling.%K%P
 0x778
 『全ての出来事は初めから何もかも決まっている……偶然ではなく必然的に起こるものなのだ』%K%P
-"Everything which occurs in the world has been%Npredetermined from the beginning... Its occurrence is by%Nno means accidental, but in fact inevitable."%K%P
+「Everything which occurs in the world has been%Npredetermined from the beginning... Its occurrence is by%Nno means accidental, but in fact inevitable.」%K%P
 0x784
 歴史は、変えられやしないのか！？%K%P
 So history could never be changed!?%K%P
@@ -402,7 +402,7 @@ If I go over there right now, nothing will change.%K%P
 Kurumi―she didn't go missing on the 4th.%K%P
 0xC6C
 『歴史が変わった』……オレと優夏はそう思って喜び浮かれていた。%K%P
-"History changed"... Yuka and I were overjoyed with that%Nthought.%K%P
+「History changed」... Yuka and I were overjoyed with that%Nthought.%K%P
 0xC78
 だが……。%K%N
 But...%K%N
@@ -414,10 +414,10 @@ In the end, the same thing is happening.%K%P
 Kurumi still disappeared. All that's changed is the date.%K%P
 0xC9C
 『ラプラスの悪魔』が微笑んでいる。%K%P
-"Laplace's demon" is smiling.%K%P
+「Laplace's demon」 is smiling.%K%P
 0xCA8
 『全ての出来事は初めから何もかも決まっている……偶然ではなく必然的に起こるものなのだ』%K%P
-"Everything which occurs in the world has been%Npredetermined from the beginning... Its occurrence is by%Nno means accidental, but in fact inevitable."%K%P
+「Everything which occurs in the world has been%Npredetermined from the beginning... Its occurrence is by%Nno means accidental, but in fact inevitable.」%K%P
 0xCB4
 歴史は、変えられやしないのか！？%K%P
 So history could never be changed!?%K%P
@@ -927,7 +927,7 @@ In Yuka's palm is her bell.%K%P
 At the same time, I hear the sound of the shrine%Ncrumbling...%K%P
 0x19D0
 『優夏を必ず守ってみせる！』%K%P
-"I will definitely protect Yuka!"%K%P
+「I will definitely protect Yuka!」%K%P
 0x19DC
 ──その刹那、迷いなどなかった！！%K%P
 ―I don't hesitate for an instant!!%K%P
@@ -942,16 +942,16 @@ Like that, I push down on the ground and jump...%K%P
 ... With that force, we flutter around up in midair.%K%P
 0x1A0C
 『時を止めたいなら、時間を壊せばいい』%K%N
-"If you want to stop time, then it's all right to destroy%Ntime."%K%N
+「If you want to stop time, then it's all right to destroy%Ntime.」%K%N
 0x1A18
 『時から逃れたいなら、羽ばたけばいい』%K%P
-"If you want to escape from time, it's all right to flap your%Nwings."%K%P
+「If you want to escape from time, it's all right to flap your%Nwings.」%K%P
 0x1A24
 『縛られたままじゃ、自由にはなれない』%K%N
-"If you stay tied down, you can't be free."%K%N
+「If you stay tied down, you can't be free.」%K%N
 0x1A30
 『自由になりたいなら怖れてはいけない』%K%P
-"If you want to be free, then you mustn't be afraid."%K%P
+「If you want to be free, then you mustn't be afraid.」%K%P
 0x1A3C
 オレと優夏は抱き合ったまま、漆黒の海原に向かって落ちて行った……。%K%P
 Yuka and I embrace each other as we fall down towards%Nthe black sea...%K%P

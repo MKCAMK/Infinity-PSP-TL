@@ -36,34 +36,34 @@ He seems to be the same age as the girl.%K%P
 The boy speaks.%K%N%N
 0x15C
 『このへん、みおぼえないの……？』%K%N%N
-"You don't recognize this area...?"%K%N%N
+「You don't recognize this area...?」%K%N%N
 0x168
 女の子はベソをかきながらうなずいた。%K%N%N
 The girl nods, still crying.%K%N%N
 0x174
 『ねぇ、おまわりさんにきこうよ。きっとかえりみち、おしえてくれるよ』%K%N%N
-"Then go ask a policeman. He'll definitely show you the%Nway home."%K%N%N
+「Then go ask a policeman. He'll definitely show you the%Nway home.」%K%N%N
 0x180
 『ひっく、ひっく……』%K%P
-"*Hic, hic*..."%K%P
+「*Hic, hic*...」%K%P
 0x194
 『そういえば、なまえは？　なまえ、きいてなかった』%K%N%N
-"By the way, what's your name? You haven't told me yet."%K%N%N
+「By the way, what's your name? You haven't told me yet.」%K%N%N
 0x1A0
 『うえ〜ん、うえ〜ん！』%K%N%N
-"Uwaah, uwaah!"%K%N%N
+「Uwaah, uwaah!」%K%N%N
 0x1AC
 『ないてばかりじゃ、わかんないよぉ〜……』%K%N%N
-"I can't understand you if all you do is cry..."%K%N%N
+「I can't understand you if all you do is cry...」%K%N%N
 0x1B8
 『わ〜ん！　わ〜〜ん！』%K%P
-"Waah! Waah!"%K%P
+「Waah! Waah!」%K%P
 0x1CC
 『ひっく……おうちに、かえりたい……』%K%N%N
-"*Hic*...I wanna go home..."%K%N%N
+「*Hic*...I wanna go home...」%K%N%N
 0x1D8
 『そうだ……！』%K%N%N
-"I know...!"%K%N%N
+「I know...!」%K%N%N
 0x1E4
 男の子はポケットの中を探り出す。%K%N
 The boy searches through his pocket.%K%N
@@ -72,7 +72,7 @@ The boy searches through his pocket.%K%N
 Before long, he takes something small out.%K%P
 0x204
 『これあげるから、もう、なかないで……』%K%N%N
-"I'll give this to you, so don't cry anymore..."%K%N%N
+「I'll give this to you, so don't cry anymore...」%K%N%N
 0x210
 女の子の手を取ると……%K%N
 He takes the girl's hand...%K%N
@@ -84,7 +84,7 @@ He takes the girl's hand...%K%N
 It's... a small key chain.%K%N%N
 0x23C
 『ね？♪』%K%N%N
-"Well?♪"%K%N%N
+「Well?♪」%K%N%N
 0x248
 男の子は女の子に微笑みかけた。%K%N
 The boy smiles at the girl.%K%N
@@ -96,16 +96,16 @@ The girl looks back and forth between the key chain in%Nher palm and the boy's f
 After a little while, the girl stops crying, and smiles.%K%P
 0x274
 『ありがとう……』%K%N%N
-"Thank you..."%K%N%N
+「Thank you...」%K%N%N
 0x280
 『うん。で、キミの、なまえは？』%K%N%N
-"Yeah. So, what's you name?"%K%N%N
+「Yeah. So, what's you name?」%K%N%N
 0x28C
 女の子は、涙で汚れた顔を袖口でぬぐうと、たどたどしい口調で、自分の名前を告げた。%K%N%N
 The girl wipes the tears off her face, and with an%Nawkward voice, she states her name.%K%N%N
 0x298
 『わたしの、%T030なまえは…%W…%W…%W…%W…%W…%W』%K%P
-"My name is ... "%K%P
+「My name is ... 」%K%P
 0x3DC
 さわやかな朝の光が差し込んでいる。%K%P
 The refreshing morning light shines in.%K%P
@@ -189,7 +189,7 @@ Once we're all gathered, I announce that today's plan is%Nto play tennis.%K%N%N
 Of course, I know that once I announce that, Makoto and%NHaruka will tell us that they're going fishing.%K%P
 0x5FC
 『良い歴史は良いままに』%K%N%N
-"The good parts of history must stay good."%K%N%N
+「The good parts of history must stay good.」%K%N%N
 0x608
 誠が遙と釣りに行くことは良い歴史だと思っていた。%K%N
 Makoto feels that going fishing with Haruka is a good%Nevent.%K%N
@@ -351,7 +351,7 @@ Or are the ingredients in this sandwich different from%Nlast time...?%K%P
 After our lunch break, we resume the match.%K%P
 0xBC4
 午後は、『優夏−くるみ』ペア　Ｖ．Ｓ．『沙紀−%N億彦』ペアのダブルス。%K%P
-In the afternoon, we do pair doubles, with "Yuka-Kurumi"%NVS "Saki-Okuhiko".%K%P
+In the afternoon, we do pair doubles, with 「Yuka-Kurumi」%NVS 「Saki-Okuhiko」.%K%P
 0xBD0
 かなりの接戦になり、もはや鈴の事を考える余裕なんてなかった。%K%P
 It's such a close match that I don't have the luxury to%Nthink about the bell anymore.%K%P
@@ -420,7 +420,7 @@ Then when the 6th comes, Makoto will have no bell.%K%P
 What if...%K What if an unexpected accident happens?%K What%Nif Makoto's life is put in danger?%K%P
 0xE1C
 …………その時、誠は『本当に』死んでしまう！%K%P
-...Then, Makoto will "really" die!%K%P
+...Then, Makoto will 「really」 die!%K%P
 0xE28
 私は不安で不安で、しょうがなくなった。%K%P
 My anxiety is growing more and more.%K%P
@@ -441,7 +441,7 @@ After all, I'll be changing history considerably.%K%P
 Right now, should I go and find the bell first...?%K Or should I%Ngo shopping first like in the last history...?%K%P
 0xE70
 私は『運命の選択』に迫られた────。%K
-A "fated choice" has arrived before me―%K
+A 「fated choice」 has arrived before me―%K
 0x50C8
 まずは買い物へ
 Go shopping first.
@@ -579,7 +579,7 @@ I see Kurumi a bit farther away from me.%K%P
 In the end, I decided to get her help.%K%P
 0x1210
 『ひいおじいちゃんの形見を落とした』と嘘をついて。%K%P
-I lied to her, telling her that "I dropped a memento of my%Ngrandpa here."%K%P
+I lied to her, telling her that 「I dropped a memento of my%Ngrandpa here.」%K%P
 0x121C
 その方が確実に見つけられると思ったから……。%K%P
 This way, I think she'll certainly find it...%K%P
@@ -591,7 +591,7 @@ If I just do that much, I don't think it'll cause a big change%Nto history...%K%
 I'm certain of it.%K%P
 0x1240
 『鈴は絶対に見つかる』という確信が……。%K%P
-I'm certain that "We'll definitely find the bell"...%K%P
+I'm certain that 「We'll definitely find the bell」...%K%P
 0x124C
 やがて……%K%P
 Before long...%K%P
@@ -684,7 +684,7 @@ Kurumi「What was it?」%K%P
 Yuka「Th-That's...」%K%P
 0x14A8
 くるみちゃんは、『なに？　なに？』といった好奇心いっぱいの眼差しで見つめてくる。%K%P
-Kurumi-chan looks at me with an curious gaze that%Nscreams "What is it, what is it?"%K%P
+Kurumi-chan looks at me with an curious gaze that%Nscreams 「What is it, what is it?」%K%P
 0x14B4
 優夏「……」%K%P
 Yuka「...」%K%P
@@ -945,7 +945,7 @@ Kurumi「Who?」%K%P
 Yuka「Th-That's...」%K%P
 0x1AA8
 くるみちゃんは、『なに？　なに？』といった好奇心いっぱいの眼差しで見つめてくる。%K%P
-Kurumi-chan looks at me with an inquisitive gaze that%Nscreams "Who is it, who is it?"%K%P
+Kurumi-chan looks at me with an inquisitive gaze that%Nscreams 「Who is it, who is it?」%K%P
 0x1AB4
 優夏「……」%K%P
 Yuka「...」%K%P
@@ -1719,7 +1719,7 @@ She looks like the way she did last night.%K%P
 We go outside the lodge.%K%P
 0x2D18
 『誰にも聞かれたくない話』という事らしい。%K%P
-It seems it's a conversation that "she doesn't want%Nanyone to hear."%K%P
+It seems it's a conversation that 「she doesn't want%Nanyone to hear.」%K%P
 0x2D24
 あたりはもうすっかり暮れてしまって、坂道の先は%N薄暗くてよく見えない。%K%P
 Our surroundings are completely dark, and I can't even%Nsee down the tip of the hill road right now.%K%P
@@ -2034,10 +2034,10 @@ Saki's words are running around and around in my head%Nover and over again...%K%
 I continue to think about the meaning of those words, not%Neating a bite...%K%P
 0x33DC
 『誠くんは、あの男の子そのものよ』%K%P
-"Makoto-kun is exactly like that boy."%K%P
+「Makoto-kun is exactly like that boy.」%K%P
 0x33E8
 『優夏は……もう大丈夫なの？　あの男の子のこと………？』%K%P
-"Are you... over him? That boy, I mean..."%K%P
+「Are you... over him? That boy, I mean...」%K%P
 0x33F4
 何で、そんなことを私に言う必要があったの？%K%P
 Why did she need to ask me that?%K%P
@@ -2046,13 +2046,13 @@ Why did she need to ask me that?%K%P
 Saki has nothing to gain from that...%K%P
 0x340C
 『私は何の気兼ねもなく確かめられるわね……』%K%P
-"Now I can confirm it for myself without the need to%Nhesitate..."%K%P
+「Now I can confirm it for myself without the need to%Nhesitate...」%K%P
 0x3418
 何を……？%K%Nこの後に及んで、何を確かめるの……？%K%P
 What...?%K What is she going to confirm...?%K%P
 0x3424
 『あの男の子……。好きだったのよ、私も……』%K%P
-"I also... loved that boy..."%K%P
+「I also... loved that boy...」%K%P
 0x3430
 知らなかった……。%K%P
 I didn't know...%K%P
@@ -2151,7 +2151,7 @@ Walking beside Makoto is Saki.%K%P
 They're talking about something... Unfortunately, I can't%Nmake any of it out.%K%P
 0x3654
 （もしかして、あれが沙紀の言っていた『確かめる』こと……？）%K%P
-(Could it be that this is what Saki meant when she said%N"confirm"...?)%K%P
+(Could it be that this is what Saki meant when she said%N「confirm」...?)%K%P
 0x3660
 誠が何かを言った。%K%Nそれを聞いて沙紀が驚く、ややあって微笑む。%K%P
 Makoto says something.%K When she hears it, Saki looks%Nsurprised, but smiles a second later.%K%P
@@ -2409,7 +2409,7 @@ Yuka「...That's Leo.」%K%P
 In the wide spring night sky, there's many constellations.%K%N
 0x3D24
 まるで、『？』マークを裏返しにしたような形。%K%N
-There's one that looks like an inside out "?"%K%N
+There's one that looks like an inside out 「?」%K%N
 0x3D30
 乙女座とカニ座に挟まれるようにして、それはあった。%K%P
 The one I'm pointing to is in between Virgo and Cancer.%K%P
@@ -2772,7 +2772,7 @@ Yuka「I-Izumi-san!? Why do you think it's Makoto!?」%K%P
 Izumi「Well now, I wonder that myself〜♪」%K%P
 0x4460
 『なにもかもお見通し♪』って顔をしながら、いづみさんは更衣室へと向かっていった。%K%P
-With a face that says "I can see through everything♪",%NIzumi-san goes to change her clothes.%K%P
+With a face that says 「I can see through everything♪」,%NIzumi-san goes to change her clothes.%K%P
 0x446C
 優夏「…………」%K%P
 Yuka「...」%K%P

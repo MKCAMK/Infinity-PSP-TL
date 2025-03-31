@@ -48,7 +48,7 @@ I steal a glance at Makoto's face.%K%P
 His expression is a jumble of bewilderment and irritation...%K%P
 0x210
 『きっと誠くんも、優夏ちゃんのこと好きだと思うよ』%K%P
-"But I think that Makoto-kun definitely loves you too."%K%P
+「But I think that Makoto-kun definitely loves you too.」%K%P
 0x21C
 昨夜のいづみさんの言葉がリフレインした。%K%P
 Izumi-san's words from last night repeat themselves in%Nmy mind.%K%P
@@ -102,7 +102,7 @@ Izumi「It refers to 'Laplace's Demon'.」%K%P
 Izumi「These are the words of a French mathematician and%Nastronomer named Laplace.」%K%P
 0x358
 いづみ「『ある瞬間の、世界中のありとあらゆる全ての状態を、正確に知ることができる『悪魔』という生き物がいたとする……」%K%P
-Izumi「'Suppose there exists a "demon," that is, an entity that%Npossesses the ability to know, at a certain moment, the%Nstate of all things in the universe...」%K%P
+Izumi「'Suppose there exists a 「demon,」 that is, an entity that%Npossesses the ability to know, at a certain moment, the%Nstate of all things in the universe...」%K%P
 0x364
 いづみ「……たとえそれが、いかに短い瞬間であったとしても、悪魔にとっては未来や過去の状態をうかがい知るには十分なのだ』」%K%P
 Izumi「...Then, no matter how brief this moment is, it would always%Nbe enough for the demon to unravel everything that%Nhappened in the past and will happen in the future.'」%K%P
@@ -120,7 +120,7 @@ Izumi「...Its occurrence is by no means accidental, but in fact%Ninevitable... 
 Izumi「I believe that in philosophy, this is called 'causal%Ndeterminism'.」%K%P
 0x3A8
 『全ての出来事は、初めから何もかも決まっている……偶然ではなく必然的に起こるものなのだ』%K%P
-"'Everything which occurs in the world has been%Npredetermined from the beginning. Its occurrence is by%Nno means accidental, but in fact inevitable'."%K%P
+「'Everything which occurs in the world has been%Npredetermined from the beginning. Its occurrence is by%Nno means accidental, but in fact inevitable'.」%K%P
 0x3B4
 何もかも……決まっている……？%K%P
 Everything's... been decided...?%K%P
@@ -150,7 +150,7 @@ After lunch, we go to the shopping district.%K%P
 We're responsible for helping out with the barbecue.%K%P
 0x498
 買わなければならないものは『牛肉、ピーマン、%N玉ネギ、油、ビール』と大量にある。%K%P
-The things that we have to buy are large quantities of%N"beef, green peppers, onions, oil, and beer".%K%P
+The things that we have to buy are large quantities of%N「beef, green peppers, onions, oil, and beer」.%K%P
 0x4A4
 けれど、車は動かないし、自転車はこの間壊れて%Nしまっていた。%K%P
 However, the car isn't working and the bike broke the%Nother day.%K%P
@@ -603,7 +603,7 @@ Yuka「...」%K%P
 Kurumi「Yuka-san...?」%K%P
 0xF98
 『……なくさないで……』%K%P
-"...Don't lose it..."%K%P
+「...Don't lose it...」%K%P
 0xFAC
 小波の音が、だんだんと遠ざかっていく……。%K%P
 The sound of the wavelets steadily grows more and%Nmore distant...%K%P
@@ -663,7 +663,7 @@ Boy「The cat keychain.」%K%P
 Yuka「―!?」%K%P
 0x1110
 『これあげるから、もう、なかないで……』%K%P
-"I'll give this to you, so don't cry anymore..."%K%P
+「I'll give this to you, so don't cry anymore...」%K%P
 0x111C
 優夏「…………」%K%P
 Yuka「...」%K%P
@@ -699,10 +699,10 @@ Yuka「...」%K%P
 Boy「Well, you DID tell me your name back then.」%K%P
 0x11A0
 『わたしの、なまえは…………』%K%P
-"My name is..."%K%P
+「My name is...」%K%P
 0x11AC
 『……かわしま　ゆうか』%K%P
-"...Yuka Kawashima."%K%P
+「...Yuka Kawashima.」%K%P
 0x11B8
 紫の空、泣いてた少女……誰かに教えた、その名前……。%K%P
 In the world with the purple sky, the crying girl... told%Nsomeone her name...%K%P
@@ -1017,7 +1017,7 @@ In that shrine, we saw that talisman, which was the trigger%Nto our start of thi
 In other words, in order to make sure we don't repeat the%Nsame history, we can't let Kurumi-chan go to the shrine.%K%P
 0x1984
 というよりも、くるみちゃんを失踪させる事、%Nそのものが『悪い歴史』なのだ。%K%N%N
-What he's saying is that Kurumi-chan's disappearance%Nitself is a "bad event".%K%N%N
+What he's saying is that Kurumi-chan's disappearance%Nitself is a 「bad event」.%K%N%N
 0x1990
 事件を未然に防ぐためにも誠は今晩、ずっと%Nくるみちゃんを見張る……。%K%N%N
 In order to prevent that incident from happening, Makoto%Nwants to watch over Kurumi-chan for the entire night...%K%N%N
@@ -1050,7 +1050,7 @@ Makoto「...」%K%P
 Makoto shrugs his shoulders.%K%P
 0x1A64
 『酔っ払いを当てにするのはやめとこう』などと思っているのかもしれない……。%K%P
-He might be thinking "I should've waited until she%Nsobered up."%K%P
+He might be thinking 「I should've waited until she%Nsobered up.」%K%P
 0x1A80
 ──と、その時！%K%P
 ―And, at that time!%K%P

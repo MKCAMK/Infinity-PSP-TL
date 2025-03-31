@@ -147,7 +147,7 @@ I am surprised by her tone.%K%P
 In a matter of seconds, she's gone from an extremely%Nserious tone to an almost unimaginably cheerful voice.%K%P
 0x328
 『何事もなかったように』──きっとこれは、優夏の精一杯の演技なのだろう。%K%P
-"Pretend that nothing happened."―Yuka is really%Ntrying her best to do so.%K%P
+「Pretend that nothing happened.」―Yuka is really%Ntrying her best to do so.%K%P
 0x344
 億彦「やあ！」%K%P
 Okuhiko「Hey!」%K%P
@@ -213,7 +213,7 @@ Yuka「H-Hmm... Lately, I've been awfully forgetful...」%K%P
 Okuhiko「Forgetful, huh... I didn't think you were that ditzy...」%K%P
 0x478
 億彦は『やれやれ』といった感じで笑みを浮かべた。%K%P
-Okuhiko smiles as if he's saying, "Oh brother."%K%P
+Okuhiko smiles as if he's saying, 「Oh brother.」%K%P
 0x484
 億彦「しょうがないなぁ……」%K%P
 Okuhiko「Oh well...」%K%P
@@ -624,7 +624,7 @@ Okuhiko quickly changes the channel.%K%P
 This time, an image of a cooking show appears.%K%P
 0xF08
 画面右上に『すこやかＹＯＵとぴあ』とタイトルロゴが表示されている。%K%P
-In the upper right hand corner of the screen is the title%Nlogo, "A Healthy YOUtopia".%K%P
+In the upper right hand corner of the screen is the title%Nlogo, 「A Healthy YOUtopia」.%K%P
 0xF14
 再び億彦がポチポチとチャンネルを切り替えたが、それ以外は全て砂嵐だった。%K%P
 Okuhiko changes the channel again, but all we see is the%Nriver from earlier.%K%P
@@ -633,7 +633,7 @@ Okuhiko changes the channel again, but all we see is the%Nriver from earlier.%K%
 Okuhiko「It seems like all they've got is this local broadcasting%Ncrap...」%K%P
 0xF3C
 億彦はそう言って『すこやかＹＯＵとぴあ』に画面を戻した。%K%P
-Okuhiko changes the channel back to "A Healthy%NYOUtopia".%K%P
+Okuhiko changes the channel back to 「A Healthy%NYOUtopia」.%K%P
 0xF50
 遙「ゴハン……どうするの？」%K%P
 Haruka「What should we do... about food?」%K%P
@@ -666,7 +666,7 @@ Haruka also gives a nod of agreement.%K%P
 This plan seems to bewilder Yuka and causes her to tilt%Nher head in confusion.%K%P
 0xFE0
 オレは『アレだ！』と言葉に出さずに口だけを動かした。%K%P
-I mouth the words 'That'!" However, as it's only one%Nsyllable, Yuka doesn't get it. Therefore, I mouth the%Nletters "T-H-A-T".%K%P
+I mouth the words 「That!」 However, as it's only one%Nsyllable, Yuka doesn't get it. Therefore, I mouth the%Nletters 「T-H-A-T」.%K%P
 0xFEC
 しかし、それでも優夏は意味がわかっていない様子だった。%K%P
 But Yuka still doesn't seem to understand what I mean.%K%P
@@ -675,7 +675,7 @@ But Yuka still doesn't seem to understand what I mean.%K%P
 She probably doesn't remember...%K%P
 0x1004
 そう……今から３０分後に『アレ』が届けられることを……。%K%P
-That's right... in half an hour, "that" will arrive...%K%P
+That's right... in half an hour, 「that」 will arrive...%K%P
 0x1074
 チャイムが鳴った。%K%P
 The doorbell rings.%K%P
@@ -741,7 +741,7 @@ Kurumi「Huh!? A mistake!?」%K%P
 A disturbed expression clouds her face as she%Nsearches through her pocket with her free hand until%Nshe pulls out a scrap of paper.%K%P
 0x1270
 くるみ「でも、伝票には確かに『シーフードピザ』って書いてあるよ？」%K%P
-Kurumi「But the receipt definitely says you ordered a "Seafood%NPizza", didn't you?」%K%P
+Kurumi「But the receipt definitely says you ordered a 「Seafood%NPizza」, didn't you?」%K%P
 0x127C
 優夏「だからぁ、そういう意味じゃなくって、何も注文なんかしてないってこと」%K%P
 Yuka「I'm telling you, that's not what I meant. I'm saying we didn't%Norder anything.」%K%P
@@ -846,7 +846,7 @@ Suddenly, I remember when I saw the cherry blossoms.%K%P
 Yuka said... that her first love was similar to me.%K%P
 0x1538
 『自由になりたいなら怖れてはいけない』%K%P
-"If you want to be free, then you mustn't be afraid."%K%P
+「If you want to be free, then you mustn't be afraid.」%K%P
 0x1544
 そんなくさいセリフを言うような奴と、オレが似ているなんて考えられない。%K%P
 I don't think I could be similar to a guy who'd use a cheap%Nline like that.%K%P

@@ -9,10 +9,10 @@ Even though she shouldn't be far ahead, I still lose sight%Nof Haruka at the for
 When I come out of the forest road and into the%Ncoastline, I arrive at a crossroads.%K There's this small%Ncove called Princess Beach, to the west, and it seems%Nlike the east leads to a long beach called Moon Beach.%K%P
 0x7C
 どうする？%N──その時だ。『姫ヶ浜』のほうに、遙の後ろ姿が見えた気がした。まるで蜃気楼のように、ぼやっとすぐ消えてしまったが……。%K%P
-Where should I go? ―It's at that moment that I see%NHaruka heading towards "Princess Beach". But... she%Nvanishes shortly afterwards, as if she were a mirage...%K%P
+Where should I go? ―It's at that moment that I see%NHaruka heading towards 「Princess Beach」. But... she%Nvanishes shortly afterwards, as if she were a mirage...%K%P
 0xA4
 オレは『姫ヶ浜』へと走り出した。%K%P
-I start running towards "Princess Beach".%K%P
+I start running towards 「Princess Beach」.%K%P
 0x12C
 岩場に囲まれたプライベートビーチ。姫ヶ浜に足を踏み入れたオレは、そんな気がした。%K%P
 As I walk on Princess Beach, I get the feeling that this%Nplace surrounded by rock is a private beach.%K%P
@@ -60,7 +60,7 @@ As I gaze into Haruka's large eyes, I can neither answer%Nher nor move.%K
 Attempt to put my feelings into words.
 0xD44
 『オレも海が見たかったから』と嘘をつく
-Lie with: "I also wanted to see the ocean."
+Lie with: 「I also wanted to see the ocean.」
 0x244
 誠「それは……%W%W%Wそれは、お前、%W%Wえっと」%K%P
 Makoto「That's... that is, you, um...」%K%P
@@ -204,7 +204,7 @@ Haruka is staring at it. For some reason, her face%Nbrightens up. Does she like 
 Nah, that can't be...
 0xD5C
 『好きなのか？』素直に聞いてみる
-Bluntly ask her, "Do you like them?"
+Bluntly ask her, 「Do you like them?」
 0x578
 まさかね……。%K%P
 Nah, that can't be...%K%P
@@ -318,7 +318,7 @@ Damn you, Yuka... Don't talk about people behind their%Nbacks! Don't just agree 
 ―Huh?? Yuka??%K%P
 0x7B4
 （オレも優夏のこと、『ゆうか』って呼んでる！）%K%P
-(Come to think of it, I've just been calling her "Yuka"%Nwithout any honorifics either!)%K%P
+(Come to think of it, I've just been calling her 「Yuka」%Nwithout any honorifics either!)%K%P
 0x7C0
 よく考えれば優夏だけのことじゃない。オレは遙のことも『はるか』って、億彦のことも『おくひこ』って、そういうふうに呼んでいるじゃないか。%K%P
 Thinking about it carefully, I realize that it hasn't just%Nbeen Yuka. I've been addressing Haruka and Okuhiko%Nwithout any honorifics either, haven't I?%K%P
@@ -366,7 +366,7 @@ Haruka「What?」%K%P
 Makoto「N-No, it's just, you...」%K%P
 0x90C
 服まで脱ぐつもりなのか？%Nなんて言えるわけがなかった。%K%P
-"Were you planning to strip?" There's no way I can say%Nsomething like that.%K%P
+「Were you planning to strip?」 There's no way I can say%Nsomething like that.%K%P
 0x918
 遙「裸になると思った？」%K%P
 Haruka「Did you think I was going to strip naked?」%K%P
@@ -423,7 +423,7 @@ Makoto「??」%K%P
 Haruka walks away without even looking at me...%K%P
 0x9F8
 何なんだ？　オレのほうがわからないよ。%K%N心が無い？%K%N何を言ってるんだ？%K%P
-What was that? I don't get it at all. "I have no heart"?%NWhat is she saying?%K%P
+What was that? I don't get it at all. 「I have no heart」?%NWhat is she saying?%K%P
 0xA04
 聞き返そうとしたこの言葉を、オレは呑み込んだ。%K%P
 Though I want to ask her more about it, I swallow my%Nwords.%K%P
@@ -465,7 +465,7 @@ She tells us that they went looking for us, but came back%Nafter searching Moon 
 Because they didn't find us, she said they'd decided to%Nwait back at the lodge.%K%P
 0xB70
 オレが適当に理由をでっちあげると……『せっかくここで会えたんだから何もロッジに帰らなくても』……ということになり、オレ達４人は商店街へと繰り出すことになった。%K%P
-I quickly come up with a quick excuse and then I say...%N"We've finally met up here, so we don't need to go back%Nto the lodge"... so the four of us decide to leave for the%Nshopping district.%K%P
+I quickly come up with a quick excuse and then I say...%N「We've finally met up here, so we don't need to go back%Nto the lodge」... so the four of us decide to leave for the%Nshopping district.%K%P
 0xB7C
 まあ、あの寂れた商店街では『繰り出す』という表現は正しくないかもしれないが……。%K%P
 Well, considering how deserted that district is, 'leave for'%Nmight not be the best way to put it...%K%P

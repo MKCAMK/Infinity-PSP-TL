@@ -6,7 +6,7 @@ text area offset and size:
 But I can't wipe this last smudge of uneasiness from me.%K%P
 0x8C
 優夏は前にも『２度とここ（神社）には来ない』%N……そう言っていたのだ。%K%P
-Last time, Yuka also said "Don't come back here [the%Nshrine] again"...%K%P
+Last time, Yuka also said 「Don't come back here [the%Nshrine] again」...%K%P
 0x98
 にもかかわらず、優夏はあそこに行った。%K%P
 In spite of that, Yuka went there.%K%P
@@ -15,7 +15,7 @@ In spite of that, Yuka went there.%K%P
 Yesterday... no, on the morning of the last April 6th, on%Nthe tip of that cliff, Yuka said this...%K%P
 0xB0
 『どうしても過去に戻りたかったから』と。%K%P
-"I wanted to go back to the past, no matter what."%K%P
+「I wanted to go back to the past, no matter what.」%K%P
 0xBC
 ──過去に……戻りたかった……？%K%P
 ―I wanted... to go back to the past...?%K%P
@@ -345,7 +345,7 @@ Yuka「I remembered... that it was yours...」%K%P
 Yuka「That's why also why on the morning of the last 1st... I%Nheaded straight... for your room.」%K%P
 0x7E8
 『誰かが死ぬ夢だった』%K%P
-"A dream where someone died."%K%P
+「A dream where someone died.」%K%P
 0x7F4
 ──その誰かとはつまり……オレだった……。%K%P
 ―So in other words, that someone... was me...%K%P
@@ -423,10 +423,10 @@ Makoto「Oh... that?」%K%P
 Makoto「It was a present from Kurumi...」%K%P
 0x984
 『これは今日の午後、月浜で拾ったものです』%K%P
-"This is something Kurumi found on Moon Beach this%Nafternoon."%K%P
+「This is something Kurumi found on Moon Beach this%Nafternoon.」%K%P
 0x990
 『とってもきれいだったから、お兄ちゃんに%Nあげるね♪』%K%P
-"It's very pretty, so she'll give it to you♪"%K%P
+「It's very pretty, so she'll give it to you♪」%K%P
 0x99C
 その手紙の内容を、オレは優夏に伝えた。%K%P
 I tell Yuka the contents of the letter.%K%P
@@ -471,7 +471,7 @@ Makoto「???」%K%P
 Yuka「If Kurumi-chan hadn't given you that bell, you'd be dead.」%K%P
 0xABC
 ──『死』という言葉がオレの胸をつらぬいた。%K%P
-―The word "dead" pierces my chest.%K%P
+―The word 「dead」 pierces my chest.%K%P
 0xAC8
 優夏「『すずとともにや　ときはとかれん』……って%Nことは、鈴を持ってなかったら？」%K%P
 Yuka「'The echoing bell/ Will free you from time'... so if you didn't%Nhave that bell...」%K%P
@@ -666,7 +666,7 @@ Yuka pinches something in her fingers, and shows it to%Nme.%K%P
 Its metal surface that emits a cold light... the light crimson%Nstring...%K%P
 0xED0
 それは間違いなく『あの鈴』だった。%K%P
-This is definitely "that bell".%K%P
+This is definitely 「that bell」.%K%P
 0xEF8
 風に揺れた鈴が、透き通った音色を１つ奏でた。%K%P
 The bells sways in the wind, and rings out once.%K%P
@@ -1026,7 +1026,7 @@ It seems I'm looking forward to that day...%K%P
 We go to Lunabeach, and introduce ourselves as if%Nwe're meeting them for the first time.%K%N
 0x1750
 沙紀がやって来て、遙のついた嘘……%W%W『朝倉』だと%N名乗ったことがバレた。%K%N
-Saki arrives, and busts Haruka by revealing her lie... the%Nlie that her name was "Asakura".%K%N
+Saki arrives, and busts Haruka by revealing her lie... the%Nlie that her name was 「Asakura」.%K%N
 0x175C
 『米を切らしていること』は、話をややこしくしたく%Nなかったので、敢えて言わないことにした。%K%N
 I don't want to make the conversation complicated, so I%Ndecide not to tell them that they're short on rice.%K%N
@@ -1086,7 +1086,7 @@ We have paella, pumpkin soup and Italian salad.%K%N
 I'll never get tired of that taste no matter how many times%NI eat it...%W%W%W%N%N
 0x18A0
 『月屋ホテルの温水プールに行ってみよう！』%K%N%N
-"Let's go to the heated pool at Tsukiya Hotel!"%K%N%N
+「Let's go to the heated pool at Tsukiya Hotel!」%K%N%N
 0x18AC
 そう切り出して……%K%P
 I break the ice...%K%P
@@ -1128,4 +1128,4 @@ What is it...? What is it...?%K%P
 Although I'm thinking, I'm having trouble defeating this%Nstrong drowsiness.%K%P
 0x1A88
 眠りは、落雷のように唐突に、オレの意識を奪った。%K%P
-As if I had an "off" switch, I close my eyes and fall%Nasleep almost instantly.%K%P
+As if I had an 「off」 switch, I close my eyes and fall%Nasleep almost instantly.%K%P

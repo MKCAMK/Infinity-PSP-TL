@@ -204,7 +204,7 @@ It's obvious the puppy has known her for a long time.%K%P
 Despite this, Saki stands stock still.%K%P
 0x4AC
 『まとわりつかれたくない』だのと言ってしまったもんだから、引っ込みがつかなくなっているのだろう。%K%P
-Now that she's said she "doesn't want it clinging to me,",%Nshe's reached the point where she can't back out.%K%P
+Now that she's said she 「doesn't want it clinging to me,」,%Nshe's reached the point where she can't back out.%K%P
 0x4B8
 まっ、いつものことなのだが……。%K%P
 Well, this is just typical of her...%K%P
@@ -240,7 +240,7 @@ Makoto「All this time... you've been taking care of it way before we%Ncame to t
 Saki「I said you're wrong, dammit! Didn't I tell you that I don't%Nwant this wild dog to be clinging to me!?」%K%P
 0x554
 沙紀は足元の子犬から逃げるように後ずさって『シッシッ！』と手を振った。%K%P
-Saki steps back and tries to run away from the puppy at%Nher feet. She waves her hand, as if to say "Shoo!"%K%P
+Saki steps back and tries to run away from the puppy at%Nher feet. She waves her hand, as if to say 「Shoo!」%K%P
 0x560
 子犬は無邪気にも沙紀のそばに寄って行く。%K%P
 The puppy innocently approaches Saki.%K%P
@@ -414,7 +414,7 @@ Makoto「Magician's Portrait?」%K%P
 Now that I think about it... didn't Saki said something to%NYuka on the 3rd...?%K%P
 0xA34
 『うるさいわね、優夏！　あなたは黙って絵、描いてなさいよ！』%K%P
-"Shut up, Yuka! Why don't you just go draw your little%Npictures like you did back then...!?"%K%P
+「Shut up, Yuka! Why don't you just go draw your little%Npictures like you did back then...!?」%K%P
 0xA48
 優夏「中学の文化祭でね？　クラスで魔法使いの絵を描いたんだ。どれくらいだろ。教室の壁一面くらいあったかな。みんなでところどころ分担して色着けして」%K%P
 Yuka「It was during our middle school culture festival. The%Nclass was drawing a picture called the Magician's%NPortrait. I wonder how long we drew it for?」%K%P「Anyway, it covered one of the walls of our classroom.%NEveryone divided the work by coloring their own portion%K%Pof it.」%K%P

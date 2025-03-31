@@ -1,4 +1,4 @@
-;1ba8;4;？？
+﻿;1ba8;4;？？
 ???
 
 ;1bac;2;誠
@@ -80,10 +80,10 @@ Manager
 Clerk
 
 ;1c14;8;守野姉妹
-Morino sisters
+;dupe:1be0
 
 ;1c18;4;先輩
-Senpai
+;dupe:1bec
 
 ;1c1c;2;父
 Father
@@ -164,8 +164,7 @@ Yuka & Okuhiko
 Islander A
 
 ;1c84;8;不審人物
-Suspicious person
-
+;dupe:1c70
 ;1c88;4;人影
 Silhouette
 
@@ -185,33 +184,34 @@ Title
 ;1ca8;14;デバッグモード
 Debug Mode
 
-;1cac;1;
+;1cac;0;
 
-;1cb0;1;
-
-;1cb4;1;
-
-;1cb8;1;
-
-;1cbc;1;
-
-;1cc0;1;
-
-;1cc4;1;
-
-;1cc8;1;
-
-;1ccc;1;
-
-;1cd0;1;
-
-;1cd4;1;
-
-;1cd8;1;
-
-;1cdc;1;
-
-;1ce0;1;
+;1cb0;0;
+;dupe:1cac
+;1cb4;0;
+;dupe:1cac
+;1cb8;0;
+;dupe:1cac
+;1cbc;0;
+;dupe:1cac
+;1cc0;0;
+;dupe:1cac
+;1cc4;0;
+;dupe:1cac
+;1cc8;0;
+;dupe:1cac
+;1ccc;0;
+;dupe:1cac
+;1cd0;0;
+;dupe:1cac
+;1cd4;0;
+;dupe:1cac
+;1cd8;0;
+;dupe:1cac
+;1cdc;0;
+;dupe:1cac
+;1ce0;0;
+;dupe:1cac
 
 ;1ce4;18;エンディング全開放
 
@@ -229,19 +229,20 @@ Debug Mode
 
 ;1d00;14;ＴＩＰＳ全開放
 
-;1d04;1;
-
-;1d08;1;
-
-;1d0c;1;
-
-;1d10;1;
-
-;1d14;1;
-
-;1d18;1;
-
-;1d1c;1;
+;1d04;0;
+;dupe:1cac
+;1d08;0;
+;dupe:1cac
+;1d0c;0;
+;dupe:1cac
+;1d10;0;
+;dupe:1cac
+;1d14;0;
+;dupe:1cac
+;1d18;0;
+;dupe:1cac
+;1d1c;0;
+;dupe:1cac
 
 ;1d20;10;選択肢最大
 
@@ -556,29 +557,30 @@ Temporary flag 02
 ;1ef0;20;テンポラリフラグ０３
 Temporary flag 03
 
-;1ef4;1;
-
-;1ef8;1;
-
-;1efc;1;
-
-;1f00;1;
-
-;1f04;1;
-
-;1f08;1;
-
-;1f0c;1;
-
-;1f10;1;
-
-;1f14;1;
-
-;1f18;1;
-
-;1f1c;1;
-
-;1f20;1;
+;1ef4;0;
+;dupe:1cac
+;1ef8;0;
+;dupe:1cac
+;1efc;0;
+;dupe:1cac
+;1f00;0;
+;dupe:1cac
+;1f04;0;
+;dupe:1cac
+;1f08;0;
+;dupe:1cac
+;1f0c;0;
+;dupe:1cac
+;1f10;0;
+;dupe:1cac
+;1f14;0;
+;dupe:1cac
+;1f18;0;
+;dupe:1cac
+;1f1c;0;
+;dupe:1cac
+;1f20;0;
+;dupe:1cac
 
 ;1f24;16;ＵＶ用フラグ００
 
@@ -680,6 +682,7 @@ Kurumi Magic
 ;1fdc;12;作り話聞いた
 
 ;1fe0;10;優夏の初恋
+Yuka's First Love
 
 ;1fe4;10;カニ大道楽
 Sumo Crab
@@ -689,6 +692,7 @@ Sumo Crab
 ;1fec;16;こんなの楽勝っす
 
 ;1ff0;16;もう誰も信じない
+I don't trust anyone anymore
 
 ;1ff4;8;ずぶ濡れ
 
@@ -700,1482 +704,1231 @@ Sumo Crab
 
 ;2008;10;共通ルート
 Common Route
-
 ;200c;12;醒めないユメ
 A Dream That Cannot Be Woken From
 
 ;2014;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2018;16;すべてのはじまり
 The Beginning of Everything
 
 ;2020;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2024;20;『おはよう』の決着を
-The End of "Good Morning"
+The End of 「Good Morning」
 
 ;202c;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2030;14;噂の絶えない男
 The Legendary Undying Man
 
 ;2038;10;共通ルート
-Common Route
-
+;dupe:2008
 ;203c;22;アイツが絶対確信犯！？
 The Premeditated Crime
 
 ;2044;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2048;18;青空よ！　サヨナラ
 Farewell, Blue Sky!
 
 ;2050;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2054;16;届けられた出会い
 Infatuating Delivery Girl
 
 ;205c;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2060;12;キワドイ選択
 Dangerous Choice
 
 ;2068;10;共通ルート
-Common Route
-
+;dupe:2008
 ;206c;18;誠　Ｖ．Ｓ．　優夏
 Makoto vs. Yuka
 
 ;2074;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2078;10;一生の約束
 Once In A Lifetime Promise
 
 ;2080;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2084;10;見えない心
 Invisible Heart
 
 ;208c;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2090;8;夢か幻か
 Haruka and Vision on Moon Beach
 
 ;2098;10;共通ルート
-Common Route
-
+;dupe:2008
 ;209c;22;ルナビーチで全員集合！
 All Members, Gather At Lunabeach!
 
 ;20a4;10;共通ルート
-Common Route
-
+;dupe:2008
 ;20a8;14;２人でお買い物
 Shopping Together
 
 ;20b0;10;共通ルート
-Common Route
-
+;dupe:2008
 ;20b4;12;おいしい料理
 Delicious Meal
 
 ;20bc;10;共通ルート
-Common Route
-
+;dupe:2008
 ;20c0;18;水の似合うあのヒト
 The Water Suits Her
 
 ;20c8;10;共通ルート
-Common Route
-
+;dupe:2008
 ;20cc;16;エイプリルフール
 April Fool's
 
 ;20d4;10;共通ルート
-Common Route
-
+;dupe:2008
 ;20d8;18;出血大サービス！？
 Nosebleed Inducing Fanservice!?
 
 ;20e0;10;共通ルート
-Common Route
-
+;dupe:2008
 ;20e4;22;熱帯低気圧注意報発令！
 Official Warning For Tropical Cyclone!
 
 ;20ec;10;共通ルート
-Common Route
-
+;dupe:2008
 ;20f0;12;不安のニオイ
 Uneasy Scent
 
 ;20f8;10;共通ルート
-Common Route
-
+;dupe:2008
 ;20fc;14;今日はプール♪
 Today At The Pool♪
 
 ;2104;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2108;18;くるみを追って……
 In Pursuit Of Kurumi...
 
 ;2110;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2114;14;守野ファミリー
 Morino Family
 
 ;211c;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2120;10;病人と牛乳
 Sick Person and Hot Milk
 
 ;2128;10;共通ルート
-Common Route
-
+;dupe:2008
 ;212c;10;水着持参！
 Bring Your Swimsuit!
 
 ;2134;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2138;16;差し伸べられた手
 Extended Hand
 
 ;2140;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2144;14;滑り台がお好き
 I Like Slides
 
 ;214c;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2150;10;眩しい肢体
 Dazzling Body
 
 ;2158;10;共通ルート
-Common Route
-
+;dupe:2008
 ;215c;14;前世はお魚！？
 You Were A Fish In Your Last Life!?
 
 ;2164;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2168;12;極上生ビール
 First Rate Draft Beer
 
 ;2170;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2174;12;病人とミルク
 Sick Person and Milk
 
 ;217c;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2180;12;トロを求めて
 The Quest For Toro
 
 ;2188;10;共通ルート
-Common Route
-
+;dupe:2008
 ;218c;10;優夏の予感
 Yuka's Premonition
 
 ;2194;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2198;10;心和む夕日
 The Calming Sunset
 
 ;21a0;10;共通ルート
-Common Route
-
+;dupe:2008
 ;21a4;8;伝説……
 Things Best Left Unknown
 
 ;21ac;10;共通ルート
-Common Route
-
+;dupe:2008
 ;21b0;28;お兄ちゃんって、呼ばれたい！
 I Want To Call You Onii-chan!
 
 ;21b8;10;共通ルート
-Common Route
-
+;dupe:2008
 ;21bc;14;いやらしい手口
 Detestable Trick
 
 ;21c4;10;共通ルート
-Common Route
-
+;dupe:2008
 ;21c8;10;気になる心
 Concerned Heart
 
 ;21d0;10;共通ルート
-Common Route
-
+;dupe:2008
 ;21d4;8;気分爽快
 Refreshing Feeling
 
 ;21dc;10;共通ルート
-Common Route
-
+;dupe:2008
 ;21e0;14;守ってあげたい
 The Protective Type
 
 ;21e8;10;共通ルート
-Common Route
-
+;dupe:2008
 ;21ec;18;恥かしさは幸福の味
 Happiness in Embarrassment
 
 ;21f4;10;共通ルート
-Common Route
-
+;dupe:2008
 ;21f8;12;喜びの見返り
 Reversal of Joy
 
 ;2200;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2204;12;非人道的思想
 Thoughts of Inhumanity
 
 ;220c;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2210;20;今夜のメニューは……
 Tonight's Menu Is...
 
 ;2218;10;共通ルート
-Common Route
-
+;dupe:2008
 ;221c;12;くるみの提案
 Kurumi's Proposal
 
 ;2224;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2228;16;お嬢様と話し合い
 Talk With The Rich Girl
 
 ;2230;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2234;16;恐怖！？の肝試し
 Terrifying Test of Courage
 
 ;223c;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2240;10;女神の抱擁
-Goddess's Embrace
+;dupe:1fb8
 
 ;2248;10;共通ルート
-Common Route
-
+;dupe:2008
 ;224c;22;温泉でふんわりのんびり
 Relaxation At The Hot Springs
 
 ;2254;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2258;14;くるみの好奇心
 Kurumi's Curiosity
 
 ;2260;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2264;28;くるみと『お江戸でガッテン』
-Kurumi and "Oedo Gatten"
+Kurumi and 「Oedo Gatten」
 
 ;226c;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2270;14;くるみスマイル
 Kurumi's Smile
 
 ;2278;10;共通ルート
-Common Route
-
+;dupe:2008
 ;227c;16;自由日の過ごし方
 Ways To Spend A Free Day
 
 ;2284;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2288;10;優夏の初恋
-Yuka's First Love
+;dupe:1fe0
 
 ;2290;10;共通ルート
-Common Route
-
+;dupe:2008
 ;2294;6;遙の涙
 Haruka's Tears
 
 ;229c;10;共通ルート
-Common Route
-
+;dupe:2008
 ;22a0;14;素直になれない
 I can't be honest with you
 
 ;22a8;10;共通ルート
-Common Route
-
+;dupe:2008
 ;22ac;14;カニカニ繁殖中
 Crabs In The Middle of Breeding
 
 ;22b4;10;共通ルート
-Common Route
-
+;dupe:2008
 ;22b8;16;いづみさんの正体
 Izumi-san's True Nature
 
 ;22c0;10;共通ルート
-Common Route
-
+;dupe:2008
 ;22c4;10;バーベ準備
 Barbecue Preparations
 
 ;22cc;10;共通ルート
-Common Route
-
+;dupe:2008
 ;22d0;16;お姉さまの手伝い
 Helping Big Sister Izumi
 
 ;22d8;10;共通ルート
-Common Route
-
+;dupe:2008
 ;22dc;22;姫ヶ浜バーベキュー大会
 Barbecue on Princess Beach
 
 ;22e4;10;共通ルート
-Common Route
-
+;dupe:2008
 ;22e8;6;神隠し
 Spirited Away
 
 ;22f0;10;優夏ルート
-Yuka Route
-
+Yuka
 ;22f4;22;片想いと両想いの境界線
-Boundary Line Between Unrequited and Mutual Love
+Line Between Unrequited and Mutual Love
 
 ;22fc;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;2300;6;司紀杜
 Shiki no Mori
 
 ;2308;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;230c;10;裏切り行為
 Act of Betrayal
 
 ;2314;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;2318;8;岬の果て
 At The End of The Cape
 
 ;2320;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;2324;10;蘇った悪夢
 Revived Dream
 
 ;232c;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;2330;14;くりかえす日常
 Repeating Day
 
 ;2338;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;233c;14;終わらない日常
 Unending Days
 
 ;2344;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;2348;18;千里の道も一歩から
-A Journey of A Thousand Miles Begins With A Single Step
+A Journey Begins With A Single Step
 
 ;2350;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;2354;22;大切な想い出を守ること
 Important Memories To Protect
 
 ;235c;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;2360;28;泥酔優夏はトラブルメーカー？
 Yuka, The Drunk Troublemaker
 
 ;2368;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;236c;12;楽しい気苦労
 Fun Anxiety
 
 ;2374;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;2378;8;希望の鈴
 Bell of Hope
 
 ;2380;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;2384;12;可愛い仕返し
 Cute Retaliation
 
 ;238c;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;2390;24;姿の似てないそっくりさん
 You Don't Look Similar At All
 
 ;2398;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;239c;14;魅惑の湯けむり
 Steam of Attraction
 
 ;23a4;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;23a8;22;混浴天国＜パラダイス＞
 Mixed Bathing Heaven <Paradise>
 
 ;23b0;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;23b4;12;預言者いづみ
 Prophet Izumi
 
 ;23bc;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;23c0;22;バーベキュー・パート２
 Barbecue: Part 2
 
 ;23c8;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;23cc;10;小さな嫉妬
 A Little Jealousy
 
 ;23d4;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;23d8;16;切れない運命の環
 Unseverable Ring of Fate
 
 ;23e0;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;23e4;22;自由な世界を求めて……
 Seeking A Free World...
 
 ;23ec;10;優夏ルート
-Yuka Route
-
+;dupe:22f0
 ;23f0;14;数億年ごしの恋
 I Want You By My Side
 
 ;23f8;8;遙ルート
-Haruka Route
-
+Haruka
 ;23fc;12;神秘的な感性
 Mysterious Sensation
 
 ;2404;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;2408;8;眠り王子
 Sleeping Prince
 
 ;2410;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;2414;8;釣り好き
 I Like Fishing
 
 ;241c;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;2420;12;満たされた心
 Satisfied Heart
 
 ;2428;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;242c;12;皆無な選択肢
 No Choices
 
 ;2434;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;2438;12;永遠の眠り姫
 Eternally Sleeping Beauty
 
 ;2440;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;2444;14;くりかえす日常
-Repeating Day
+;dupe:2330
 
 ;244c;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;2450;12;加速する日常
 Sped-Up Day
 
 ;2458;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;245c;10;悩みのタネ
 Seeds of Worry
 
 ;2464;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;2468;26;人間でも、クローンでも……
 Whether Human Or Clone...
 
 ;2470;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;2474;16;『遙』という存在
-The Existence Called "Haruka"
+The Existence Called 「Haruka」
 
 ;247c;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;2480;18;星空の下で誓う言葉
 Vow Under the Starry Sky
 
 ;2488;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;248c;22;遙のすべて、遙がすべて
 Haruka's Entirety, Haruka Is Everything
 
 ;2494;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;2498;8;嘘の価値
 Value of Lies
 
 ;24a0;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;24a4;10;暖かい反応
 Warm Reaction
 
 ;24ac;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;24b0;18;心の中にみえるモノ
 That Which Can Be Seen In The Heart
 
 ;24b8;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;24bc;12;僅かな可能性
 A Small Possibility
 
 ;24c4;8;遙ルート
-Haruka Route
-
+;dupe:23f8
 ;24c8;6;血の絆
 Bonds of Blood
 
 ;24d0;10;沙紀ルート
-Saki Route
-
+Saki
 ;24d4;14;隠された優しさ
 Hidden Kindness
 
 ;24dc;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;24e0;4;孤立
 Solitude
 
 ;24e8;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;24ec;10;嘘つきの刃
 Liar's Edge
 
 ;24f4;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;24f8;12;隠された弱さ
 Hidden Weakness
 
 ;2500;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;2504;12;疑いの眼差し
 Doubtful Gaze
 
 ;250c;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;2510;18;果たせなかった誓い
 Unfulfilled Vow
 
 ;2518;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;251c;14;くりかえす日常
-Repeating Day
+;dupe:2330
 
 ;2524;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;2528;8;固い決意
 Solid Determination
 
 ;2530;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;2534;10;沙紀の過去
 Saki's Past
 
 ;253c;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;2540;8;遙の過去
 Haruka's Past
 
 ;2548;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;254c;16;早とちりする瞬間
 Jumping To Wrong Conclusions
 
 ;2554;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;2558;14;可愛げのある女
 Cute Girl
 
 ;2560;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;2564;14;手をとりあって
 Take Each Other's Hands
 
 ;256c;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;2570;10;新しい親睦
 New Friendship
 
 ;2578;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;257c;12;ぷにぷにくん
 Squishy
 
 ;2584;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;2588;24;もう、泣かせないから……
 You Don't Need To Cry Anymore...
 
 ;2590;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;2594;18;言葉より大切なもの
 Precious Things More Important Than Words
 
 ;259c;10;沙紀ルート
-Saki Route
-
+;dupe:24d0
 ;25a0;12;素直なお嬢様
 Honest Girl
 
 ;25a8;12;くるみルート
-Kurumi Route
-
+Kurumi
 ;25ac;8;トラウマ
 Trauma
 
 ;25b4;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;25b8;10;平凡な幸せ
 Ordinary Happiness
 
 ;25c0;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;25c4;12;くるみの秘密
 Kurumi's Secret
 
 ;25cc;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;25d0;10;くるみの涙
 Kurumi's Tears
 
 ;25d8;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;25dc;14;くるみの白い手
 Kurumi's White Hand
 
 ;25e4;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;25e8;16;咆哮、そして……
 A Roar, And Then...
 
 ;25f0;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;25f4;14;くりかえす日常
-Repeating Day
+;dupe:2330
 
 ;25fc;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;2600;14;くるみの精一杯
 Kurumi, Doing Her Best
 
 ;2608;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;260c;14;酔っぱらい参上
 The Drunkard's Visit
 
 ;2614;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;2618;14;『司紀杜神社』
-"Shiki no Mori Shrine"
+「Shiki no Mori Shrine」
 
 ;2620;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;2624;14;嘘のような歴史
 Unbelievable History
 
 ;262c;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;2630;10;幸せな姉妹
 Happy Sisters
 
 ;2638;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;263c;8;嫌な地震
 Unpleasant Earthquake
 
 ;2644;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;2648;10;点から線へ
 Connecting The Dots
 
 ;2650;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;2654;10;僅かな歪み
 Slightly Crooked
 
 ;265c;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;2660;20;しわくちゃの『オレ』
-The Wrinkled "Me"
+The Wrinkled 「Me」
 
 ;2668;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;266c;24;再び目にしたくるみの一部
 The Second Look At the Scar
 
 ;2674;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;2678;18;誰もが知りたい真実
 The Desired Truth
 
 ;2680;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;2684;16;失いたくない笑顔
 The Smile I Don't Want To Lose
 
 ;268c;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;2690;22;くるみとまんまるお月様
 The Moon and Kurumi
 
 ;2698;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;269c;14;銀色の冷たい光
 Cold, Silver Light
 
 ;26a4;12;くるみルート
-Kurumi Route
-
+;dupe:25a8
 ;26a8;12;もう一度……
 Once More...
 
 ;26b0;12;いづみルート
-Izumi Route
-
+Izumi
 ;26b4;14;『女神』の誘い
-The "Goddess"'s Invitation
+The 「Goddess」's Invitation
 
 ;26bc;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;26c0;12;恋の岬で……
 At The Cape of Affection...
 
 ;26c8;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;26cc;16;Ｆｏｒｅｃａｓｔ
 Forecast
 
 ;26d4;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;26d8;18;いづみのそばで……
 By Izumi's Side...
 
 ;26e0;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;26e4;14;ボディーガード
 Bodyguard
 
 ;26ec;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;26f0;12;嘘の中の真実
 Truth In Lies
 
 ;26f8;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;26fc;12;失われた女神
 Lost Goddess
 
 ;2704;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;2708;14;いづみの仕返し
 Izumi's Revenge
 
 ;2710;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;2714;12;リベンジ！！
 Revenge!!
 
 ;271c;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;2720;12;優夏との約束
 Promise With Yuka
 
 ;2728;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;272c;12;遙とパクパク
 Speechless
 
 ;2734;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;2738;14;演じられた過去
 Reenacted Past
 
 ;2740;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;2744;12;再現フィルム
 Recording
 
 ;274c;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;2750;10;迫真の演技
 True-to-Life Performance
 
 ;2758;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;275c;16;２度目の肝だめし
 The Second Test Of Courage
 
 ;2764;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;2768;22;『４月４日』の作戦会議
-Strategy Meeting for "April 4th"
+Strategy Meeting for 「April 4th」
 
 ;2770;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;2774;20;想いを伝えたくて……
 Feelings I Want To Convey...
 
 ;277c;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;2780;12;さまよう億彦
 Wandering Okuhiko
 
 ;2788;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;278c;22;バーベキュー・パート２
-Barbecue: Part 2
+;dupe:23c0
 
 ;2794;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;2798;8;沙紀の唇
 Saki's Lips
 
 ;27a0;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;27a4;16;ハリキリおっくん
 Suicidal Okkun
 
 ;27ac;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;27b0;16;ズッコケおっくん
 Misguided Okkun
 
 ;27b8;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;27bc;20;終演……それから……
 The End of the Play... And Then...
 
 ;27c4;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;27c8;12;愛の入り江へ
 To The Cove of Love
 
 ;27d0;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;27d4;4;告白
 Confession
 
 ;27dc;12;いづみルート
-Izumi Route
-
+;dupe:26b0
 ;27e0;20;思い出の１０ｄａｙｓ
 10 Days of Memories
 
 ;27e8;18;いづみキュアルート
-Izumi Cure Route
-
+Izumi Cure
 ;27ec;14;『女神』の誘い
-The "Goddess"'s Invitation
+;dupe:26b4
 
 ;27f4;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;27f8;12;恋の岬で……
-At The Cape of Affection...
+;dupe:26c0
 
 ;2800;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2804;16;Ｆｏｒｅｃａｓｔ
-Forecast
+;dupe:26cc
 
 ;280c;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2810;18;いづみのそばで……
-By Izumi's Side...
+;dupe:26d8
 
 ;2818;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;281c;16;寝る子は育つ！？
 Sleep Is Important To Growth!?
 
 ;2824;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2828;14;定番のゲーム？
 A Staple Game?
 
 ;2830;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2834;4;苦悩
 Anguish
 
 ;283c;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2840;18;この一瞬を、大切に
 This Very Instant Is Precious
 
 ;2848;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;284c;26;Ｒａｉｎｙ　ｍｅｍｏｒｙｓ
 Rainy Memories
 
 ;2854;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2858;8;真実と嘘
 Truth and Lies
 
 ;2860;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2864;12;キュレイ……
 Curé...
 
 ;286c;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2870;12;Ｎｅｖｅｒ７
 Never7
 
 ;2878;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;287c;14;くりかえす日常
-Repeating Day
+;dupe:2330
 
 ;2884;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2888;10;合宿の目的
 The Camp's Goal
 
 ;2890;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2894;14;『ＣＵＲＥ．』
-"Cure."
+「Cure.」
 
 ;289c;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;28a0;12;加速する日常
-Sped-Up Day
+;dupe:2450
 
 ;28a8;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;28ac;20;Ｄｉｓｔｏｒｔｉｏｎ
 Distortion
 
 ;28b4;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;28b8;12;恋の岬と神社
 The Cape of Affection and The Shrine
 
 ;28c0;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;28c4;20;記憶はどこから……？
 Where Did These Memories Come From...?
 
 ;28cc;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;28d0;14;くりかえす日常
-Repeating Day
+;dupe:2330
 
 ;28d8;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;28dc;8;深まる謎
 Deepening Mystery
 
 ;28e4;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;28e8;16;ひとときの安らぎ
 Moment of Peace
 
 ;28f0;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;28f4;16;シュレディンガー
 Schrödinger
 
 ;28fc;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2900;28;変わらぬ日常、変わりゆく日常
 Unchanging and Changing Days
 
 ;2908;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;290c;10;第３の特徴
 The Third Trait
 
 ;2914;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2918;20;タイムスリップの正体
 The True Nature of the Time Travel
 
 ;2920;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2924;24;このぬくもりを、信じたい
 I Want To Believe In This Warmth
 
 ;292c;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2930;12;癒えない痛み
 Never-Healing Pain
 
 ;2938;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;293c;8;守野姉妹
-Morino sisters
+;dupe:1be0
 
 ;2944;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2948;14;お月様とくらげ
 The Moon and Jellyfish
 
 ;2950;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2954;8;光の女神
 Goddess of Light
 
 ;295c;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2960;12;笑顔のままで
 Smile As You Should
 
 ;2968;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;296c;12;消えゆく現実
 Disappearing Reality
 
 ;2974;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2978;18;妄想と現実の狭間で
 Rift Between Delusion and Reality
 
 ;2980;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2984;10;想いを……
 Feelings...
 
 ;298c;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;2990;10;消滅……！
 Vanished...!
 
 ;2998;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;299c;10;見えない星
 Invisible Stars
 
 ;29a4;18;いづみキュアルート
-Izumi Cure Route
-
+;dupe:27e8
 ;29a8;10;永遠の輝き
 Eternal Radiance
 
 ;29b0;10;エピローグ
 Epilogue
-
 ;29b4;20;邯鄲（かんたん）の夢
 A Vain Dream
 
 ;29bc;10;エピローグ
-Epilogue
-
+;dupe:29b0
 ;29c0;38;ｔｈｅ　ｅｎｄ　ｏｆ　ｉｎｆｉｎｉｔｙ
 the end of infinity
 
 ;29c8;16;優夏キュアルート
-Yuka Cure Route
-
+Yuka Cure
 ;29cc;26;優夏キュア・１〜無限最先〜
-Yuka Cure 1 - First Infinity
+1 - First Infinity
 
 ;29d4;16;優夏キュアルート
-Yuka Cure Route
-
+;dupe:29c8
 ;29d8;32;優夏キュア・２〜無限からの脱出〜
-Yuka Cure 2 - Escape from Infinity
+2 - Escape from Infinity
 
 ;29e0;16;優夏キュアルート
-Yuka Cure Route
-
+;dupe:29c8
 ;29e4;30;優夏キュア・３〜無限への願い〜
-Yuka Cure 3 - Wish to Infinity
+3 - Wish to Infinity
 
 ;29ec;16;優夏キュアルート
-Yuka Cure Route
-
+;dupe:29c8
 ;29f0;32;優夏キュア・４〜無限の夜空に……
-Yuka Cure 4 - In the Infinite Night Sky...
+4 - In the Infinite Night Sky...
 
 ;29f8;16;優夏キュアルート
-Yuka Cure Route
-
+;dupe:29c8
 ;29fc;34;優夏キュア・５〜無限より逃れる時〜
-Yuka Cure 5 - Time to Escape from Infinity
+5 - Time to Escape from Infinity
 
 ;2a04;16;優夏キュアルート
-Yuka Cure Route
-
+;dupe:29c8
 ;2a08;32;優夏キュア・６〜無限を望む理由〜
-Yuka Cure 6 - Reason for Infinity
+6 - Reason for Infinity
 
 ;2a10;16;優夏キュアルート
-Yuka Cure Route
-
+;dupe:29c8
 ;2a14;32;優夏キュア・７〜無限は繰り返す〜
-Yuka Cure 7 - Infinity Repeats
+7 - Infinity Repeats
 
 ;2a1c;16;優夏キュアルート
-Yuka Cure Route
-
+;dupe:29c8
 ;2a20;30;優夏キュア・８〜永遠なる想い〜
-Yuka Cure 8 - Eternal Feelings
+8 - Eternal Feelings
 
 ;2a28;16;優夏キュアルート
-Yuka Cure Route
-
+;dupe:29c8
 ;2a2c;30;優夏キュア・８〜無限なる想い〜
-Yuka Cure 8 - Infinite Feelings
+8 - Infinite Feelings
 
 ;2a34;16;ユーザーシナリオ
 User Scenario
-
 ;2a38;14;彼女たちの未来
 Their Future
 
 ;2a40;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2a44;20;お兄ちゃんであること
 Being a Big Brother
 
 ;2a4c;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2a50;12;誠→像→水？
 
 ;2a58;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2a5c;28;２人の思いに忍び寄る迷いの影
 
 ;2a64;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2a68;18;かけがえのない２人
 
 ;2a70;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2a74;28;迷いの果てに訪れた永遠の暗闇
 
 ;2a7c;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2a80;10;くるみ⇔遙
 Kurumi ⇔ Haruka
 
 ;2a88;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2a8c;20;来るべき未来のために
 
 ;2a94;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2a98;12;永遠の７時間
 
 ;2aa0;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2aa4;10;鍋の恐怖！
 
 ;2aac;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2ab0;12;億彦ＣＵＲＥ
 Okuhiko Cure
 
 ;2ab8;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2abc;27;『まごころ』 お兄ちゃん経由
 
 ;2ac4;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2ac8;28;ベイビィアイムユアナイトメア
 
 ;2ad0;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2ad4;24;くるくるくるみの見る夢は
 
 ;2adc;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2ae0;14;重なりあう想い
 
 ;2ae8;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2aec;22;復活！！澄空のラプラス
 
 ;2af4;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2af8;26;キャンパスライフは無限大？
 
 ;2b00;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b04;20;誠・人生最も長い一日
 
 ;2b0c;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b10;24;キーホルダーを奪回せよ！
 
 ;2b18;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b1c;10;おっくん編
 Okkun Compilation
 
 ;2b24;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b28;18;ｉｆ−ｆｉｎｉｔｙ
 
 ;2b30;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b34;22;時が紡ぎしはるかな想い
 
 ;2b3c;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b40;12;ピノキオの涙
 
 ;2b48;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b4c;22;北大路氏の平穏なる日常
 
 ;2b54;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b58;10;誠ＣＵＲＥ
 Makoto Cure
 
 ;2b60;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b64;14;ヒーローの条件
 
 ;2b6c;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b70;18;明日を奪いに来た人
 
 ;2b78;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b7c;28;未来の時から　はるばると！？
 
 ;2b84;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b88;18;さよならをもう一度
 
 ;2b90;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2b94;14;おんなじココロ
 
 ;2b9c;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2ba0;14;「誠」複製計画
-"Makoto" duplication plan
+「Makoto」 duplication plan
 
 ;2ba8;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2bac;10;水鏡の真実
 
 ;2bb4;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2bb8;8;夢追い人
 Dream chaser
 
 ;2bc0;16;ユーザーシナリオ
-User Scenario
-
+;dupe:2a34
 ;2bc4;20;ｉｎｆｉｎｉｔｙ　０
 Infinity 0
 
@@ -6688,216 +6441,217 @@ Infinity 0
 ;4f1c;23;作曲・編曲%X160阿保⑳剛
 Composition:%X150Takeshi Abo
 
-;4f20;1;
-
-;4f24;1;
+;4f20;0;
+;dupe:1cac
+;4f24;0;
+;dupe:1cac
 
 ;4f28;6;HARUKA
 
 ;4f2c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4f30;1;
-
-;4f34;1;
+;dupe:4f1c
+;4f30;0;
+;dupe:1cac
+;4f34;0;
+;dupe:1cac
 
 ;4f38;4;SAKI
 
 ;4f3c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4f40;1;
-
-;4f44;1;
+;dupe:4f1c
+;4f40;0;
+;dupe:1cac
+;4f44;0;
+;dupe:1cac
 
 ;4f48;6;KURUMI
 
 ;4f4c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4f50;1;
-
-;4f54;1;
+;dupe:4f1c
+;4f50;0;
+;dupe:1cac
+;4f54;0;
+;dupe:1cac
 
 ;4f58;5;IZUMI
 
 ;4f5c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4f60;1;
-
-;4f64;1;
+;dupe:4f1c
+;4f60;0;
+;dupe:1cac
+;4f64;0;
+;dupe:1cac
 
 ;4f68;14;Phantasmagoria
 
 ;4f6c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4f70;1;
-
-;4f74;1;
+;dupe:4f1c
+;4f70;0;
+;dupe:1cac
+;4f74;0;
+;dupe:1cac
 
 ;4f78;10;De-Ja-view
 
 ;4f7c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4f80;1;
-
-;4f84;1;
+;dupe:4f1c
+;4f80;0;
+;dupe:1cac
+;4f84;0;
+;dupe:1cac
 
 ;4f88;20;In⑳the⑳sunny⑳spot
-
+In the sunny spot
 ;4f8c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4f90;1;
-
-;4f94;1;
+;dupe:4f1c
+;4f90;0;
+;dupe:1cac
+;4f94;0;
+;dupe:1cac
 
 ;4f98;20;Like⑳real⑳in⑳mist
-
+Like real in mist
 ;4f9c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4fa0;1;
-
-;4fa4;1;
+;dupe:4f1c
+;4fa0;0;
+;dupe:1cac
+;4fa4;0;
+;dupe:1cac
 
 ;4fa8;10;Irritation
 
 ;4fac;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4fb0;1;
-
-;4fb4;1;
+;dupe:4f1c
+;4fb0;0;
+;dupe:1cac
+;4fb4;0;
+;dupe:1cac
 
 ;4fb8;8;Darkside
 
 ;4fbc;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4fc0;1;
-
-;4fc4;1;
+;dupe:4f1c
+;4fc0;0;
+;dupe:1cac
+;4fc4;0;
+;dupe:1cac
 
 ;4fc8;15;Magic⑳of⑳true
-
+Magic of true
 ;4fcc;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4fd0;1;
-
-;4fd4;1;
+;dupe:4f1c
+;4fd0;0;
+;dupe:1cac
+;4fd4;0;
+;dupe:1cac
 
 ;4fd8;15;Confusion⑳mind
-
+Confusion mind
 ;4fdc;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4fe0;1;
-
-;4fe4;1;
+;dupe:4f1c
+;4fe0;0;
+;dupe:1cac
+;4fe4;0;
+;dupe:1cac
 
 ;4fe8;10;Uneasiness
 
 ;4fec;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;4ff0;1;
-
-;4ff4;1;
+;dupe:4f1c
+;4ff0;0;
+;dupe:1cac
+;4ff4;0;
+;dupe:1cac
 
 ;4ff8;7;Despair
 
 ;4ffc;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;5000;1;
-
-;5004;1;
+;dupe:4f1c
+;5000;0;
+;dupe:1cac
+;5004;0;
+;dupe:1cac
 
 ;5008;6;Warmth
 
 ;500c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;5010;1;
-
-;5014;1;
+;dupe:4f1c
+;5010;0;
+;dupe:1cac
+;5014;0;
+;dupe:1cac
 
 ;5018;11;Achievement
 
 ;501c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;5020;1;
-
-;5024;1;
+;dupe:4f1c
+;5020;0;
+;dupe:1cac
+;5024;0;
+;dupe:1cac
 
 ;5028;7;Languor
 
 ;502c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;5030;1;
-
-;5034;1;
+;dupe:4f1c
+;5030;0;
+;dupe:1cac
+;5034;0;
+;dupe:1cac
 
 ;5038;5;Ouch!
 
 ;503c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;5040;1;
-
-;5044;1;
+;dupe:4f1c
+;5040;0;
+;dupe:1cac
+;5044;0;
+;dupe:1cac
 
 ;5048;10;Once⑳more
-
+Once more
 ;504c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;5050;1;
-
-;5054;1;
+;dupe:4f1c
+;5050;0;
+;dupe:1cac
+;5054;0;
+;dupe:1cac
 
 ;5058;19;Once⑳more⑳-Piano-
-
+Once more -Piano-
 ;505c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;5060;1;
-
-;5064;1;
+;dupe:4f1c
+;5060;0;
+;dupe:1cac
+;5064;0;
+;dupe:1cac
 
 ;5068;23;Beginning⑳of⑳Infinity
-
+Beginning of Infinity
 ;506c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;5070;1;
-
-;5074;1;
+;dupe:4f1c
+;5070;0;
+;dupe:1cac
+;5074;0;
+;dupe:1cac
 
 ;5078;23;The⑳end⑳of⑳dimention
-
+The end of dimention
 ;507c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;5080;1;
-
-;5084;1;
+;dupe:4f1c
+;5080;0;
+;dupe:1cac
+;5084;0;
+;dupe:1cac
 
 ;5088;31;Beginning⑳of⑳Infinity⑳-Cure-
-
+Beginning of Infinity -Cure-
 ;508c;23;作曲・編曲%X160阿保⑳剛
-Composition:%X150Takeshi Abo
-
-;5090;1;
-
-;5094;1;
+;dupe:4f1c
+;5090;0;
+;dupe:1cac
+;5094;0;
+;dupe:1cac
 
 ;5098;14;TREASURE DREAM
 
@@ -6907,6 +6661,7 @@ Lyrics:%X120Chiyomaru Shikura
 Composition:%X120Chiyomaru Shikura
 ;50a4;15;歌%X140川島優夏
 Song:%X120Yuka Kawashima
+
 ;50a8;22;千億の星屑降らす夜ノ空
 
 ;50ac;15;作詞%X140KOKOMI
@@ -6915,423 +6670,401 @@ Lyrics:%X130KOKOMI
 Composition:%X130Keisuke Kurose
 ;50b4;13;歌%X140Asriel
 Song:%X130Asriel
+
 ;50b8;8;綻びし華
 
 ;50bc;15;作詞%X140KOKOMI
-Lyrics:%X130KOKOMI
+;dupe:50ac
 ;50c0;19;作曲%X140黒瀬⑳圭亮
-Composition:%X130Keisuke Kurose
+;dupe:50b0
 ;50c4;13;歌%X140Asriel
-Song:%X130Asriel
+;dupe:50b4
+
 ;50c8;20;−−−−−−−−−−
 
-;50cc;1;
-
-;50d0;1;
-
-;50d4;1;
+;50cc;0;
+;dupe:1cac
+;50d0;0;
+;dupe:1cac
+;50d4;0;
+;dupe:1cac
 
 ;50dc;10;優夏クリア
-Yuka Good End
-
+;dupe:1d28
 ;50e0;12;グッドエンド
 Good End
 
 ;50e8;18;バッドエンド−優夏
-Yuka Bad End
-
+;dupe:1d24
 ;50ec;12;バッドエンド
 Bad End
 
 ;50f4;8;遙クリア
-Haruka Good End
-
+;dupe:1d30
 ;50f8;12;グッドエンド
-Good End
+;dupe:50e0
 
 ;5100;16;バッドエンド−遙
-Haruka Bad End
-
+;dupe:1d2c
 ;5104;12;バッドエンド
-Bad End
+;dupe:50ec
 
 ;510c;10;沙紀クリア
-Saki Good End
-
+;dupe:1d38
 ;5110;12;グッドエンド
-Good End
+;dupe:50e0
 
 ;5118;18;バッドエンド−沙紀
-Saki Bad End
-
+;dupe:1d34
 ;511c;12;バッドエンド
-Bad End
+;dupe:50ec
 
 ;5124;12;くるみクリア
-Kurumi Good End
-
+;dupe:1d40
 ;5128;12;グッドエンド
-Good End
+;dupe:50e0
 
 ;5130;20;バッドエンド−くるみ
-Kurumi Bad End
-
+;dupe:1d3c
 ;5134;12;バッドエンド
-Bad End
+;dupe:50ec
 
 ;513c;18;いづみキュアクリア
-Izumi Cure Good End A
-
+;dupe:1d58
 ;5140;12;グッドエンド
-Good End
+;dupe:50e0
 
 ;5148;22;邯鄲の夢−いづみクリア
 Izumi Cure Good End B - A Vain Dream
-
 ;514c;14;ノーマルエンド
 Normal End
 
 ;5154;26;バッドエンド−いづみキュア
-Izumi Cure Bad End
-
+;dupe:1d50
 ;5158;12;バッドエンド
-Bad End
+;dupe:50ec
 
 ;5160;12;いづみクリア
-Izumi Good End
-
+;dupe:1d4c
 ;5164;12;グッドエンド
-Good End
+;dupe:50e0
 
 ;516c;22;バッドエンド１−いづみ
 Izumi Bad End A
-
 ;5170;12;バッドエンド
-Bad End
+;dupe:50ec
 
 ;5178;22;バッドエンド２−いづみ
 Izumi Bad End B
-
 ;517c;12;バッドエンド
-Bad End
+;dupe:50ec
 
 ;5184;26;優夏キュア〜無限なる想い〜
 Yuka Cure Good End A -Infinite Feelings-
-
 ;5188;12;グッドエンド
-Good End
+;dupe:50e0
 
 ;5190;26;優夏キュア〜永遠なる想い〜
 Yuka Cure Good End B -Eternal Feelings-
-
 ;5194;12;グッドエンド
-Good End
+;dupe:50e0
 
 ;519c;24;バッドエンド−優夏キュア
 Yuka Cure Bad End
-
 ;51a0;12;バッドエンド
-Bad End
+;dupe:50ec
 
 ;51a8;18;グランドフィナーレ
 Grand Finale
-
 ;51ac;12;グッドエンド
-Good End
+;dupe:50e0
 
 ;51b4;22;ユーザーシナリオ全終了
-All Append Stories End
-
+;dupe:1d6c
 ;51b8;12;コンプリート
 Complete
 
-;58f0;1;
-
-;5910;1;
-
-;5930;1;
-
-;5950;1;
-
-;5970;1;
-
-;5990;1;
-
-;59b0;1;
-
-;59d0;1;
-
-;59f0;1;
-
-;5a10;1;
-
-;5a30;1;
-
-;5a50;1;
-
-;5a70;1;
-
-;5a90;1;
-
-;5ab0;1;
-
-;5ad0;1;
-
-;5af0;1;
-
-;5b10;1;
-
-;5b30;1;
-
-;5b50;1;
-
-;5b70;1;
-
-;5b90;1;
-
-;5bb0;1;
-
-;5bd0;1;
-
-;5bf0;1;
-
-;5c10;1;
-
-;5c30;1;
-
-;5c50;1;
-
-;5c70;1;
-
-;5c90;1;
-
-;5cb0;1;
-
-;5cd0;1;
-
-;5cf0;1;
-
-;5d10;1;
-
-;5d30;1;
-
-;5d50;1;
-
-;5d70;1;
-
-;5d90;1;
-
-;5db0;1;
-
-;5dd0;1;
-
-;5df0;1;
-
-;5e10;1;
-
-;5e30;1;
-
-;5e50;1;
-
-;5e70;1;
-
-;5e90;1;
-
-;5eb0;1;
-
-;5ed0;1;
-
-;5ef0;1;
-
-;5f10;1;
-
-;5f30;1;
-
-;5f50;1;
-
-;5f70;1;
-
-;5f90;1;
-
-;5fb0;1;
-
-;5fd0;1;
-
-;5ff0;1;
-
-;6010;1;
-
-;6030;1;
-
-;6050;1;
-
-;6070;1;
-
-;6090;1;
-
-;60b0;1;
-
-;60d0;1;
-
-;60f0;1;
-
-;6110;1;
-
-;6130;1;
-
-;6150;1;
-
-;6170;1;
-
-;6190;1;
-
-;61b0;1;
-
-;61d0;1;
-
-;61f0;1;
-
-;6210;1;
-
-;6230;1;
-
-;6250;1;
-
-;6270;1;
-
-;6290;1;
-
-;62b0;1;
-
-;62d0;1;
-
-;62f0;1;
-
-;6310;1;
-
-;6330;1;
-
-;6350;1;
-
-;6370;1;
-
-;6390;1;
-
-;63b0;1;
-
-;63d0;1;
-
-;63f0;1;
-
-;6410;1;
-
-;6430;1;
-
-;6450;1;
-
-;6470;1;
-
-;6490;1;
-
-;64b0;1;
-
-;64d0;1;
-
-;64f0;1;
-
-;6510;1;
-
-;6530;1;
-
-;6550;1;
-
-;6570;1;
-
-;6590;1;
-
-;65b0;1;
-
-;65d0;1;
-
-;65f0;1;
-
-;6610;1;
-
-;6630;1;
-
-;6650;1;
-
-;6670;1;
-
-;6690;1;
-
-;66b0;1;
-
-;66d0;1;
-
-;66f0;1;
-
-;6710;1;
-
-;6730;1;
-
-;6750;1;
-
-;6770;1;
-
-;6790;1;
-
-;67b0;1;
-
-;67d0;1;
-
-;67f0;1;
-
-;6810;1;
-
-;6830;1;
-
-;6850;1;
-
-;6870;1;
-
-;6890;1;
-
-;68b0;1;
-
-;68d0;1;
-
-;68f0;1;
-
-;6910;1;
-
-;6930;1;
-
-;6950;1;
+;58f0;0;
+;dupe:1cac
+;5910;0;
+;dupe:1cac
+;5930;0;
+;dupe:1cac
+;5950;0;
+;dupe:1cac
+;5970;0;
+;dupe:1cac
+;5990;0;
+;dupe:1cac
+;59b0;0;
+;dupe:1cac
+;59d0;0;
+;dupe:1cac
+;59f0;0;
+;dupe:1cac
+;5a10;0;
+;dupe:1cac
+;5a30;0;
+;dupe:1cac
+;5a50;0;
+;dupe:1cac
+;5a70;0;
+;dupe:1cac
+;5a90;0;
+;dupe:1cac
+;5ab0;0;
+;dupe:1cac
+;5ad0;0;
+;dupe:1cac
+;5af0;0;
+;dupe:1cac
+;5b10;0;
+;dupe:1cac
+;5b30;0;
+;dupe:1cac
+;5b50;0;
+;dupe:1cac
+;5b70;0;
+;dupe:1cac
+;5b90;0;
+;dupe:1cac
+;5bb0;0;
+;dupe:1cac
+;5bd0;0;
+;dupe:1cac
+;5bf0;0;
+;dupe:1cac
+;5c10;0;
+;dupe:1cac
+;5c30;0;
+;dupe:1cac
+;5c50;0;
+;dupe:1cac
+;5c70;0;
+;dupe:1cac
+;5c90;0;
+;dupe:1cac
+;5cb0;0;
+;dupe:1cac
+;5cd0;0;
+;dupe:1cac
+;5cf0;0;
+;dupe:1cac
+;5d10;0;
+;dupe:1cac
+;5d30;0;
+;dupe:1cac
+;5d50;0;
+;dupe:1cac
+;5d70;0;
+;dupe:1cac
+;5d90;0;
+;dupe:1cac
+;5db0;0;
+;dupe:1cac
+;5dd0;0;
+;dupe:1cac
+;5df0;0;
+;dupe:1cac
+;5e10;0;
+;dupe:1cac
+;5e30;0;
+;dupe:1cac
+;5e50;0;
+;dupe:1cac
+;5e70;0;
+;dupe:1cac
+;5e90;0;
+;dupe:1cac
+;5eb0;0;
+;dupe:1cac
+;5ed0;0;
+;dupe:1cac
+;5ef0;0;
+;dupe:1cac
+;5f10;0;
+;dupe:1cac
+;5f30;0;
+;dupe:1cac
+;5f50;0;
+;dupe:1cac
+;5f70;0;
+;dupe:1cac
+;5f90;0;
+;dupe:1cac
+;5fb0;0;
+;dupe:1cac
+;5fd0;0;
+;dupe:1cac
+;5ff0;0;
+;dupe:1cac
+;6010;0;
+;dupe:1cac
+;6030;0;
+;dupe:1cac
+;6050;0;
+;dupe:1cac
+;6070;0;
+;dupe:1cac
+;6090;0;
+;dupe:1cac
+;60b0;0;
+;dupe:1cac
+;60d0;0;
+;dupe:1cac
+;60f0;0;
+;dupe:1cac
+;6110;0;
+;dupe:1cac
+;6130;0;
+;dupe:1cac
+;6150;0;
+;dupe:1cac
+;6170;0;
+;dupe:1cac
+;6190;0;
+;dupe:1cac
+;61b0;0;
+;dupe:1cac
+;61d0;0;
+;dupe:1cac
+;61f0;0;
+;dupe:1cac
+;6210;0;
+;dupe:1cac
+;6230;0;
+;dupe:1cac
+;6250;0;
+;dupe:1cac
+;6270;0;
+;dupe:1cac
+;6290;0;
+;dupe:1cac
+;62b0;0;
+;dupe:1cac
+;62d0;0;
+;dupe:1cac
+;62f0;0;
+;dupe:1cac
+;6310;0;
+;dupe:1cac
+;6330;0;
+;dupe:1cac
+;6350;0;
+;dupe:1cac
+;6370;0;
+;dupe:1cac
+;6390;0;
+;dupe:1cac
+;63b0;0;
+;dupe:1cac
+;63d0;0;
+;dupe:1cac
+;63f0;0;
+;dupe:1cac
+;6410;0;
+;dupe:1cac
+;6430;0;
+;dupe:1cac
+;6450;0;
+;dupe:1cac
+;6470;0;
+;dupe:1cac
+;6490;0;
+;dupe:1cac
+;64b0;0;
+;dupe:1cac
+;64d0;0;
+;dupe:1cac
+;64f0;0;
+;dupe:1cac
+;6510;0;
+;dupe:1cac
+;6530;0;
+;dupe:1cac
+;6550;0;
+;dupe:1cac
+;6570;0;
+;dupe:1cac
+;6590;0;
+;dupe:1cac
+;65b0;0;
+;dupe:1cac
+;65d0;0;
+;dupe:1cac
+;65f0;0;
+;dupe:1cac
+;6610;0;
+;dupe:1cac
+;6630;0;
+;dupe:1cac
+;6650;0;
+;dupe:1cac
+;6670;0;
+;dupe:1cac
+;6690;0;
+;dupe:1cac
+;66b0;0;
+;dupe:1cac
+;66d0;0;
+;dupe:1cac
+;66f0;0;
+;dupe:1cac
+;6710;0;
+;dupe:1cac
+;6730;0;
+;dupe:1cac
+;6750;0;
+;dupe:1cac
+;6770;0;
+;dupe:1cac
+;6790;0;
+;dupe:1cac
+;67b0;0;
+;dupe:1cac
+;67d0;0;
+;dupe:1cac
+;67f0;0;
+;dupe:1cac
+;6810;0;
+;dupe:1cac
+;6830;0;
+;dupe:1cac
+;6850;0;
+;dupe:1cac
+;6870;0;
+;dupe:1cac
+;6890;0;
+;dupe:1cac
+;68b0;0;
+;dupe:1cac
+;68d0;0;
+;dupe:1cac
+;68f0;0;
+;dupe:1cac
+;6910;0;
+;dupe:1cac
+;6930;0;
+;dupe:1cac
+;6950;0;
+;dupe:1cac
 
 ;6970;18;イラスト：影崎夕那
 Illustration: Yuna Kagesaki
-
 ;6990;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;69b0;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;69d0;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;69f0;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;6a10;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;6a30;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;6a50;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
+;dupe:6970
 
 ;6a70;40;イラスト：影崎夕那（協力・バンプレスト）
 Illustration: Yuna Kagesaki (collab. Banpresto)
@@ -7349,188 +7082,163 @@ Illustration: Yuna Kagesaki (collab. Sofmap)
 Illustration: Yuna Kagesaki (collab. MESSE SANOH)
 
 ;6b10;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;6b30;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;6b50;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;6b70;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;6b90;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
+;dupe:6970
 
 ;6bb0;38;イラスト：影崎夕那（協力・ソフマップ）
-Illustration: Yuna Kagesaki (collab. Sofmap)
+;dupe:6ad0
 
 ;6bd0;42;イラスト：影崎夕那（協力・メッセサンオー）
-Illustration: Yuna Kagesaki (collab. MESSE SANOH)
+;dupe:6af0
 
 ;6bf0;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;6c10;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;6c30;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;6c50;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
+;dupe:6970
 
 ;6c70;38;イラスト：影崎夕那（協力・ソフマップ）
-Illustration: Yuna Kagesaki (collab. Sofmap)
+;dupe:6ad0
 
 ;6c90;42;イラスト：影崎夕那（協力・メッセサンオー）
-Illustration: Yuna Kagesaki (collab. MESSE SANOH)
+;dupe:6af0
 
 ;6cb0;42;イラスト：影崎夕那（協力・メッセサンオー）
-Illustration: Yuna Kagesaki (collab. MESSE SANOH)
+;dupe:6af0
 
 ;6cd0;59;イラスト：影崎夕那　n（協力・キルタイムコミュニケーション）
 Illustration: Yuna Kagesaki (collab. Kill Time Communication)
 
 ;6cf0;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
-
+;dupe:6970
 ;6d10;18;イラスト：影崎夕那
-Illustration: Yuna Kagesaki
+;dupe:6970
 
 ;6d30;30;原画：影崎夕那／CG：KID⑳STAFF
 Original: Yuna Kagesaki and KID CG team
-
 ;6d50;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6d70;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6d90;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6db0;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6dd0;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6df0;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6e10;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6e30;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6e50;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6e70;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6e90;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6eb0;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6ed0;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6ef0;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6f10;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
-
+;dupe:6d30
 ;6f30;30;原画：影崎夕那／CG：KID⑳STAFF
-Original: Yuna Kagesaki and KID CG team
+;dupe:6d30
 
 ;6f50;54;イラスト：影崎夕那（協力・影崎夕那）【非公式イラスト】
 Illustration: Yuna Kagesaki (unofficial collaboration)
-
 ;6f70;54;イラスト：影崎夕那（協力・影崎夕那）【非公式イラスト】
-Illustration: Yuna Kagesaki (unofficial collaboration)
-
+;dupe:6f50
 ;6f90;54;イラスト：影崎夕那（協力・影崎夕那）【非公式イラスト】
-Illustration: Yuna Kagesaki (unofficial collaboration)
+;dupe:6f50
 
-;6fb0;1;
-
-;6fd0;1;
-
-;6ff0;1;
-
-;7010;1;
-
-;7030;1;
-
-;7050;1;
-
-;7070;1;
-
-;7090;1;
-
-;70b0;1;
-
-;70d0;1;
-
-;70f0;1;
-
-;7110;1;
-
-;7130;1;
-
-;7150;1;
-
-;7170;1;
-
-;7190;1;
-
-;71b0;1;
-
-;71d0;1;
-
-;71f0;1;
-
-;7210;1;
-
-;7230;1;
-
-;7250;1;
-
-;7270;1;
-
-;7290;1;
-
-;72b0;1;
-
-;72d0;1;
-
-;72f0;1;
-
-;7310;1;
-
-;7330;1;
-
-;7350;1;
-
-;7370;1;
-
-;7390;1;
-
-;73b0;1;
-
-;73d0;1;
+;6fb0;0;
+;dupe:1cac
+;6fd0;0;
+;dupe:1cac
+;6ff0;0;
+;dupe:1cac
+;7010;0;
+;dupe:1cac
+;7030;0;
+;dupe:1cac
+;7050;0;
+;dupe:1cac
+;7070;0;
+;dupe:1cac
+;7090;0;
+;dupe:1cac
+;70b0;0;
+;dupe:1cac
+;70d0;0;
+;dupe:1cac
+;70f0;0;
+;dupe:1cac
+;7110;0;
+;dupe:1cac
+;7130;0;
+;dupe:1cac
+;7150;0;
+;dupe:1cac
+;7170;0;
+;dupe:1cac
+;7190;0;
+;dupe:1cac
+;71b0;0;
+;dupe:1cac
+;71d0;0;
+;dupe:1cac
+;71f0;0;
+;dupe:1cac
+;7210;0;
+;dupe:1cac
+;7230;0;
+;dupe:1cac
+;7250;0;
+;dupe:1cac
+;7270;0;
+;dupe:1cac
+;7290;0;
+;dupe:1cac
+;72b0;0;
+;dupe:1cac
+;72d0;0;
+;dupe:1cac
+;72f0;0;
+;dupe:1cac
+;7310;0;
+;dupe:1cac
+;7330;0;
+;dupe:1cac
+;7350;0;
+;dupe:1cac
+;7370;0;
+;dupe:1cac
+;7390;0;
+;dupe:1cac
+;73b0;0;
+;dupe:1cac
+;73d0;0;
+;dupe:1cac
 
 ;7598;44;〜〜〜〜〜〜〜〜〜⑳前奏⑳〜〜〜〜〜〜〜〜〜
 
-;75a0;1;
-
+;75a0;0;
+;dupe:1cac
 ;75a8;42;Ａｈ−⑳理由もなく時が流れ⑳街は色を変えた
 
 ;75b0;32;閉じ込めたままの不安に背を向けて
@@ -7555,12 +7263,12 @@ Illustration: Yuna Kagesaki (unofficial collaboration)
 
 ;7600;32;心のｔｒｅａｓｕｒｅ⑳ｄｒｅａｍ
 
-;7608;1;
-
+;7608;0;
+;dupe:1cac
 ;7610;44;〜〜〜〜〜〜〜〜〜⑳間奏⑳〜〜〜〜〜〜〜〜〜
 
-;7618;1;
-
+;7618;0;
+;dupe:1cac
 ;7620;40;Ａｈ−⑳嘘も上手になった⑳時計の針はどこ
 
 ;7628;36;カカトの高い靴⑳ホントは慣れないけど
@@ -7578,25 +7286,25 @@ Illustration: Yuna Kagesaki (unofficial collaboration)
 ;7658;32;気付かせてくれた小さなきっかけを
 
 ;7660;30;今ここにいる自分を愛しく感じて
-
+;dupe:75f0
 ;7668;28;落書きを集めよう⑳空に書いた
 
 ;7670;36;気持ちはｔｒｅａｓｕｒｅ⑳ｄｒｅａｍ
 
 ;7678;44;それが全て⑳心のｔｒｅａｓｕｒｅ⑳ｄｒｅａｍ
 
-;7680;1;
-
-;7688;1;
-
-;7690;1;
-
-;7698;1;
-
+;7680;0;
+;dupe:1cac
+;7688;0;
+;dupe:1cac
+;7690;0;
+;dupe:1cac
+;7698;0;
+;dupe:1cac
 ;76a4;44;〜〜〜〜〜〜〜〜〜⑳前奏⑳〜〜〜〜〜〜〜〜〜
-
-;76ac;1;
-
+;dupe:7598
+;76ac;0;
+;dupe:1cac
 ;76b4;46;平凡な日をこんなにも尊いと感じているなんてさ、
 
 ;76bc;44;昨日までなら笑い話みたいな夢で終わりだけど。
@@ -7623,18 +7331,18 @@ Illustration: Yuna Kagesaki (unofficial collaboration)
 
 ;7714;20;帰りが遅い、僕らを。
 
-;771c;1;
-
-;7724;1;
-
-;772c;1;
-
-;7734;1;
-
+;771c;0;
+;dupe:1cac
+;7724;0;
+;dupe:1cac
+;772c;0;
+;dupe:1cac
+;7734;0;
+;dupe:1cac
 ;7740;44;〜〜〜〜〜〜〜〜〜⑳前奏⑳〜〜〜〜〜〜〜〜〜
-
-;7748;1;
-
+;dupe:7598
+;7748;0;
+;dupe:1cac
 ;7750;18;答えのなき海の中で
 
 ;7758;38;答えを知る　僅か残る希望を手繰り寄せて
@@ -7661,14 +7369,14 @@ Illustration: Yuna Kagesaki (unofficial collaboration)
 
 ;77b0;26;厳しさは嘆き≠Never ×××
 
-;77b8;1;
-
-;77c0;1;
-
-;77c8;1;
-
-;77d0;1;
-
+;77b8;0;
+;dupe:1cac
+;77c0;0;
+;dupe:1cac
+;77c8;0;
+;dupe:1cac
+;77d0;0;
+;dupe:1cac
 ;77dc;8;OP00.PMF
 
 ;77ec;8;OP01.PMF
@@ -7736,7 +7444,7 @@ Makoto Ishihara
 A college student in the Literature Department,%Nmajoring in Psychology. He will become a junior in the%Nspring, and it will be two years until he joins society.%NSince he doesn't have any real ambitions, he tends to%Nskip his college lectures, and staggers through each%Nday.
 
 ;7fc4;138;ゼミの担当教授のいづみはもちろん、%Nゼミ生の誰ともまったく面識がなかったために、%Nキュレイシンドロームの%N反証実験の被験者にされてしまう。
-Under normal circumstances, he would have been held%Nback, but he's learned that this could be remedied if he%Nattended the Seminar Camp. He then "participated" by%Nbecoming a member of this seminar he'd never heard of%Nbefore. However, Izumi, the professor in charge of the%NSeminar Lodge, had plans for him. She had made sure%Nthat he knew no one else there so that he could%Nbecome the test subject for the Curé Syndrome%Ncounter experiment.
+Under normal circumstances, he would have been held%Nback, but he's learned that this could be remedied if he%Nattended the Seminar Camp. He then 「participated」 by%Nbecoming a member of this seminar he'd never heard of%Nbefore. However, Izumi, the professor in charge of the%NSeminar Lodge, had plans for him. She had made sure%Nthat he knew no one else there so that he could%Nbecome the test subject for the Curé Syndrome%Ncounter experiment.
 
 ;7fd0;8;川島優夏
 Yuka Kawashima
@@ -7769,7 +7477,7 @@ Since then, she's been slightly wary of other humans.%NEver since the incident, 
 Kurumi Morino
 
 ;8010;254;春休みを利用して姉いづみが勤める%N喫茶店ルナビーチに遊びに来ている、%N明るく天真爛漫な高校生。%N生後間もないころに誘拐されたことがあり、%N警察の必死の捜索にもかかわらず%N行方がつかめなかったが、一度倒壊した後に%N再建された司紀杜神社で３年後に発見された。
-Height: 152 cm (5'0''), Age: 17, Birthday: June 18, 2001%N(actually 1998) (Gemini)%N Likes: Tons of things! (Onii-chan, the occult, etc...)%NDislikes: Carrots, green peppers, onions.%N A cheerful, innocent high school student who is using%Nher spring break to visit her sister Izumi and help her%Nrun the cafe "Lunabeach".
+Height: 152 cm (5'0"), Age: 17, Birthday: June 18, 2001%N(actually 1998) (Gemini)%N Likes: Tons of things! (Onii-chan, the occult, etc...)%NDislikes: Carrots, green peppers, onions.%N A cheerful, innocent high school student who is using%Nher spring break to visit her sister Izumi and help her%Nrun the cafe 「Lunabeach」.
 
 ;8014;312;だが不思議なことに、彼女は誘拐当時から%Nまったく成長しておらず、しかも背中には、%N誘拐事件発生から１週間後に起きた司紀杜神社の%N倒壊に巻き込まれたかのような大怪我を負っていた。%Nこの奇妙な事実に答えを出せる者はいなかったが、%N特例措置としてくるみの戸籍上の誕生年を%N３年分遅らせることで、事態は一応の解決を見た。
 She was kidnapped as an infant, and despite a%Ndesperate search by the police, she wasn't found until%Nthree years later, when she was found in the new Shiki%Nno Mori Shrine after the original was destroyed.%NMiraculously, she hadn't aged at all from the time she%Nwas kidnapped, though she had received a serious%Ninjury on her back from the destruction of the Shiki no%NMori Shrine, which happened a week after her%Nkidnapping.
@@ -7781,7 +7489,7 @@ No one could explain this strange fact, but by ways of%Nexceptional measures, Ku
 Izumi Morino
 
 ;8028;344;喫茶ルナビーチのアルバイトで、くるみの姉。%N清楚で聡明な女性で、慈愛に満ちた優しいまなざしは%N女神を思わせる。%Nそのうえ、しっかりしているようで%Nオッチョコチョイであるなど、%N男心をどこまでもくすぐる女性だが、%Nもちろん意図的なものではない。%N落ち着いた性格に似合わずかなりのスピード狂で、%Nこれまでに６回もの運転免許停止処分（免停）を%N経験。
-Height: 163 cm (5'4''), Age: 22, Birthday: March 24, 1997%N Likes: Detectives, conjecture, ladies' bikes. Dislikes:%NGen-san, the local fisherman (for groping her butt).%N Kurumi's older sister and part-time worker at the cafe%N"Lunabeach". Tidy and wise, her kindness and%Naffection could leave one under the impression she's%Na goddess. In addition, while she seems level-headed,%Nshe's actually quite a scatterbrain. A very attractive%Nwoman who, unintentionally, is quite popular with men.
+Height: 163 cm (5'4"), Age: 22, Birthday: March 24, 1997%N Likes: Detectives, conjecture, ladies' bikes. Dislikes:%NGen-san, the local fisherman (for groping her butt).%N Kurumi's older sister and part-time worker at the cafe%N「Lunabeach」. Tidy and wise, her kindness and%Naffection could leave one under the impression she's%Na goddess. In addition, while she seems level-headed,%Nshe's actually quite a scatterbrain. A very attractive%Nwoman who, unintentionally, is quite popular with men.
 
 ;802c;374;車のバッテリーが上がってしまったのは、彼女の%N荒っぽい運転もひと役買っているかもしれない。%N実は、誠達の大学で若くして教鞭を執る才媛で、%N今回のゼミ合宿は、学会で提唱されている%Nキュレイシンドロームの反証実験を行うために%N彼女が企画したもの。%N教え子である誠を騙さなければいけないことに%N心苦しさを覚えながら始めた合宿で、彼女が目にした%Nキュレイシンドロームの真実とは……？
 Despite her calm personality, she's quite a speeder,%Nwhich caused her driver's license to be suspended%Nsix times. Her car's battery's death may have been the%Nresult of her rough driving style. She's a young%Nteacher at Makoto and the others' college due to her%Ntalents, and planned this Seminar Camp to conduct a%Ncounter experiment of Curé Syndrome. She starts the%Ncamp while feeling guilty for having to deceive Makoto,%Nher student.%N What is the truth of Curé Syndrome that she sees...?
@@ -7790,10 +7498,10 @@ Despite her calm personality, she's quite a speeder,%Nwhich caused her driver's 
 Okuhiko Iida
 
 ;803c;204;誠と同じゼミに所属する青年で、%Nその名を知らぬ者はいない%Nブルジョア『飯田財閥』の御曹司。%N極端なフェミニスト思考の持ち主で、%N女性には分け隔てなく優しいが、%N同性には悪意があるような言動を取ることも。%N
-Height: 179 cm (5'10''), Age: 20, Birthday: January 11, 1999%N Likes: Cute girls. Dislikes: Men.%N A young man who's a member of the same Seminar as%NMakoto. It seems that everybody knows his name%Nbecause he's the son of the upper-class "Iida%NFinancial Group". He considers himself to be a proper%Ngentleman, as he acts chivalrous towards girls, though%Nhis speech and conduct towards men are incredibly%Nspiteful.
+Height: 179 cm (5'10"), Age: 20, Birthday: January 11, 1999%N Likes: Cute girls. Dislikes: Men.%N A young man who's a member of the same Seminar as%NMakoto. It seems that everybody knows his name%Nbecause he's the son of the upper-class 「Iida%NFinancial Group」. He considers himself to be a proper%Ngentleman, as he acts chivalrous towards girls, though%Nhis speech and conduct towards men are incredibly%Nspiteful.
 
 ;8040;324;合宿前にいづみから聞かされた%Nキュレイシンドロームの反証実験に乗り気で、%N誠の予言をことごとく否定する%Nリアリストの役を買って出た。%N飯田財閥の跡取りとして何不自由なく%N生きているように見えるが、夢の中では%N『腎臓人間オックマン』としてカタルシスに満ちた%N戦いの日々を生きているあたり、%N上流階級ならではの気苦労も多そうだ。
-Before the camp began, he showed interest in the%NCuré Syndrome counter experiment Izumi told him%Nabout, and volunteered to take the role of the realist%Nwho denied all of Makoto's premonitions. It seems that%Nas the heir of the Iida Financial Group, he has his own%Nshare of burdens. He's unable to live without care, but%Nhis dreams are full of days of him fighting evil as%N"Artifical Human Okkuman".
+Before the camp began, he showed interest in the%NCuré Syndrome counter experiment Izumi told him%Nabout, and volunteered to take the role of the realist%Nwho denied all of Makoto's premonitions. It seems that%Nas the heir of the Iida Financial Group, he has his own%Nshare of burdens. He's unable to live without care, but%Nhis dreams are full of days of him fighting evil as%N「Artifical Human Okkuman」.
 
 ;804c;8;守野茂蔵
 Shigezo Morino
@@ -7808,13 +7516,12 @@ After that, when Kurumi was safely taken back into his%Ncare, he gave Haruka to 
 Yue-chan
 
 ;8064;274;家族と一緒に、島へ観光にやってきていた、%N無邪気な女の子。%N優夏が捨てた鈴を偶然に拾ってしまい、%N太った猫のマスコットキャラのキーホルダーと%N引き換えに、鈴を優夏に渡した。%Nこの後、長きにわたってこのキーホルダーを%N大事にしてくれそうな、%Nそんな未来を予感させてくれる少女。
-An innocent little girl who came to the island with her%Nfamily to sightsee. By chance, she picked up the bell%Nthat Yuka threw away, but gave it back to Yuka in%Nexchange for the fat cat mascot character keychain.%NIt seems that she'll treasure the keychain for a long time.%N%NYue was the name of the main heroine from the KID%NVisual Novel "Memories Off".
+An innocent little girl who came to the island with her%Nfamily to sightsee. By chance, she picked up the bell%Nthat Yuka threw away, but gave it back to Yuka in%Nexchange for the fat cat mascot character keychain.%NIt seems that she'll treasure the keychain for a long time.%N%NYue was the name of the main heroine from the KID%NVisual Novel 「Memories Off」.
 
 ;8070;16;シュレディンガー
-Schrödinger
-
+;dupe:28f4
 ;8074;302;エルヴィン・ルドルフ・ヨーゼフ・%Nアレクサンダー・シュレーディンガー。%N１８８７年生まれ、１９６１年没。%Nオーストリアの物理学者で、%N波動力学を展開し、量子力学の構築に貢献した。%N一般的に『シュレディンガーの猫』と呼ばれる%N思考実験で、当時の量子力学の統計解釈に対する%N一元的な物の見方に一石を投じた。
-Erwin Rudolf Josef Alexander Schrödinger. He lived%Nfrom 1887 to 1961. An Austrian physicist, he developed%Nwave mechanics, and contributed to the construction%Nof quantum mechanics. His popular thought experiment,%Ncalled "Schrödinger's Cat", caused a stir by%Nchallenging the ensemble interpretation of quantum%Nmechanics, which at that time was a centralized way of%Nunderstanding.
+Erwin Rudolf Josef Alexander Schrödinger. He lived%Nfrom 1887 to 1961. An Austrian physicist, he developed%Nwave mechanics, and contributed to the construction%Nof quantum mechanics. His popular thought experiment,%Ncalled 「Schrödinger's Cat」, caused a stir by%Nchallenging the ensemble interpretation of quantum%Nmechanics, which at that time was a centralized way of%Nunderstanding.
 
 ;8078;404;よく誤解されがちなのだが、%Nシュレディンガーは決してシュレディンガーの猫に%N怪奇現象のような意味を込めたわけではない。%Nむしろ逆に、『そんな現象が発生しうる解釈』に%N疑問を投げかけるために、%Nパラドックス（矛盾）として用いたのだ。%Nそういう意味では、キュレイシンドロームに%N疑念を抱いて、別の解釈を見つける為の実験を%N行うに至ったいづみも、扱う現象こそ違えど、%N同じ立ち位置に属すると言えるかもしれない。
 A common misconception is that Schrödinger's Cat%Nwas intended to imply a bizarre phenomenon. On the%Ncontrary, the example was used as a complaint%Nagainst the Copenhagen interpretation, stating that it%Ncauses such a paradox.%NIn that sense, Izumi, who was doubtful of Curé%NSyndrome and conducted an experiment in order to%Nfind another explanation for it, was perhaps placed in%Nthe same situation as him, as her experiment was a sort%Nof challenge against the existence of the phenomenon.
@@ -7823,7 +7530,7 @@ A common misconception is that Schrödinger's Cat%Nwas intended to imply a bizar
 Artificial Human Okkuman
 
 ;8088;162;いつもはさわやかな好青年（自称）の飯田億彦が、%N神が送った正義の戦士オックマンに変身し、%N地球の平和をおびやかす怪人達を倒していく%N痛快特撮番組……だと思われる。
-A thriller SFX show starring Okuhiko Iida, the lad%N"ever-invigorated with youth", who transforms into%NOkkuman, the godsent hero of justice... apparently.
+A thriller SFX show starring Okuhiko Iida, the lad%N「ever-invigorated with youth」, who transforms into%NOkkuman, the godsent hero of justice... apparently.
 
 ;808c;332;類推するに、レイディジェニーなる相棒がいること、%Nニュートリノエナジーパワーなる未知のエネルギーで%N変身していること、そして遊園地などで%Nヒーローショーが開催されていることがわかるが、%Nこれらは彼の想像の産物によるものと思われ、%N大財閥の御曹司たる彼が、常日ごろから%Nいかに心労やプレッシャーを抱えて生きているか、%N想像に難くない。
 Several things are known about Okkuman: His partner,%NLady Jenny, has a penchant for inductive reasoning.%NHe transforms utilizing the unknown power of Neutrino%NEnergy. Also, he stars in hero show attractions at%Namusement parks. However, all these facts are thought%Nto be no more than Okuhiko's delusions; a reasonable%Nassessment, considering the pressure and anxiety%Nthat accompany the lifestyle of a son of a financial%Ngroup's head family.
@@ -7838,8 +7545,7 @@ A former classmate and friend of Izumi's, whom she%Nnicknamed Yume-chan. Having 
 It is predicted that as cloning gains acceptance,%Nclones will reach new areas of social standing, and%Nbring diversity to society, for better or worse.
 
 ;80ac;6;男の子
-The Boy
-
+;dupe:1be4
 ;80b0;364;優夏の中学生時代のクラスメイト。%N彼女の初恋の少年で、さりげない優しさと、%Nちょっとキザな物言い、%Nそして何にも勝る強い意志が特徴的。%N修学旅行の際に、宿泊先で発生した火災から%N優夏達を助け、亡くなっている。%N優夏と沙紀に言わせれば、%N誠に雰囲気がよく似ているらしい。%N誠が何かと彼のことを毛嫌いするのは、嫉妬の他に、%N同属嫌悪のようなものもあるのかもしれない。%N
 Yuka's classmate from middle school. He was her first%Nlove, and is described as being kind in a nonchalant%Nmanner, having a slightly affected way of speaking,%Nand above all, a strong, characteristic will. He died%Nduring a school field trip when he gave up his life to%Nsave Yuka and her friends from a fire that had broken%Nout in their hotel. According to Yuka and Saki, it seems%Nthat Makoto's attitude greatly resembles the boy's.
 
@@ -7847,11 +7553,10 @@ Yuka's classmate from middle school. He was her first%Nlove, and is described as
 Makoto's prejudice towards him, in addition to jealousy,%Nmight be due to his congeneric hatred; his disdain for%Nhow uncanny the resemblance is.%N%NThis is off-topic, but the night of the field trip, he told%NYuka the myth of Gemini──%NThe mortal older brother who died, outlived by his%Nyounger brother. The immortal younger brother who%Ncould never die.
 
 ;80b8;84;また、本作全編に渡って端々に登場する%N『双子』というキーワードとの関連性も興味深い。
-Even though they were similar, they followed different%Ndestinies. This seems to suggest some sort of%Nprofound meaning. Yuka became captured by an%Ninfinite loop, where she herself wasn't even able to die,%Nher destiny overlapping with Makoto's...%N%NAlso, the relevance of every appearance of the%Nkeyword "twin" that spans across the whole story is%Nsomething of great interest.
+Even though they were similar, they followed different%Ndestinies. This seems to suggest some sort of%Nprofound meaning. Yuka became captured by an%Ninfinite loop, where she herself wasn't even able to die,%Nher destiny overlapping with Makoto's...%N%NAlso, the relevance of every appearance of the%Nkeyword 「twin」 that spans across the whole story is%Nsomething of great interest.
 
 ;80c4;10;カニ大道楽
-Sumo Crab
-
+;dupe:1fe4
 ;80c8;374;カニだけで構成されるカニ相撲部屋の親方ガニ。%Nなりは小さくとも親方なのだから、%Nかつては強かったはず……というのは、%Nくるみならではの柔軟な発想による、%Nまさに逆転の発想とでもいうべきもの。%Nカニ相撲でも見事優勝を果たしたが、%N基本的に横にしか歩けないカニに相撲を取らせる%Nという勝負方法には若干の疑問が残り、%Nカニ大道楽が真の実力者なのかは%Nいまいち疑わしいところがある。
 The head coach crab of an all-crab crab sumo gym.%NHe's head coach despite his small stature, so he%Nmust've been strong in the past... According to%NKurumi's logic, at least. He's the very image of an%Nunder-crab. He achieved a magnificent victory in the%Ncrab sumo championship. But some sports%Ncommentators remain skeptical of crab sumo's validity%Nas a sport, considering the crustacean is essentially%Nlimited to horizontal movement.%NSumo Crab's true strength thus remains to be confirmed.
 
@@ -7859,19 +7564,19 @@ The head coach crab of an all-crab crab sumo gym.%NHe's head coach despite his s
 Michael Cabin
 
 ;80d8;300;アメリカの精神科医。勤務先の病院で担当していた%Nパラノイア（妄想症）にかかった少年、%Nトム・フェイブリンのカウンセリングをするうちに、%N彼の中に既存の定義では片付けられない、%Nある特殊な症状を持つ感応精神病を見出す。%N後にそれを『キュレイシンドローム』と命名して発表し、%N学会に大きな波紋を起こした。
-An American psychiatrist. He was in charge of the%Ncounseling of Tom Faiblin, a boy at the hospital he was%Nemployed at, who had paranoia. While working with him,%Nhe noticed that the boy had a unique condition similar%Nto Shared Psychotic Disorder, but was unable to be%Ndefined by any pre-existing definitions. Later, he%Nannounced his findings on this condition, which he%Nwould christen "Curé Syndrome", causing great%Nrepercussions on the scientific community.
+An American psychiatrist. He was in charge of the%Ncounseling of Tom Faiblin, a boy at the hospital he was%Nemployed at, who had paranoia. While working with him,%Nhe noticed that the boy had a unique condition similar%Nto Shared Psychotic Disorder, but was unable to be%Ndefined by any pre-existing definitions. Later, he%Nannounced his findings on this condition, which he%Nwould christen 「Curé Syndrome」, causing great%Nrepercussions on the scientific community.
 
 ;80e4;18;トム・フェイブリン
 Tom Faiblin
 
 ;80e8;218;精神科医マイケル・キャビンの%Nカウンセリングを受けていた少年。%N１０歳の時に溺れた妹を助け、%N彼女が奇跡的に息を吹き返したことから、家族から%N『死んだ人間を蘇らせる奇跡的な力がある』と%N言われ続けて妄想に取りつかれる。
-A boy who received counseling from psychiatrist%NMichael Cabin. When he was 10, he saved his younger%Nsister from drowning, miraculously bringing her back to%Nlife. He continued to hear his family say things like "He%Nhas the miraculous power to resurrect the dead." As a%Nresult, he became obsessed with this delusion.
+A boy who received counseling from psychiatrist%NMichael Cabin. When he was 10, he saved his younger%Nsister from drowning, miraculously bringing her back to%Nlife. He continued to hear his family say things like 「He%Nhas the miraculous power to resurrect the dead.」 As a%Nresult, he became obsessed with this delusion.
 
 ;80f4;22;検出ロボット信くん１号
 Detection Robot Beli-kun Unit 1
 
 ;80f8;246;優夏が『シュレディンガーの猫』を%N説明する際に設定した、放射性物質に含まれる%Nα粒子を検出するためのロボット。%N信くんの『信』は『信じる』の『信』。%Nそう名前がついている以上、%Nさぞかし高い精度を持つ、%N信頼に値する高性能ロボットだと思われる。%N
-The name of the robot that detects α particles from%Nradioactive material in Yuka's explanation of the setup%Nfor "Schrödinger's Cat". The "beli" in Beli-kun comes%Nfrom "believe". Not only does this name indicate the%Nrobot's high precision, but it also reflects that the%Nrobot is highly efficient.
+The name of the robot that detects α particles from%Nradioactive material in Yuka's explanation of the setup%Nfor 「Schrödinger's Cat」. The 「beli」 in Beli-kun comes%Nfrom 「believe」. Not only does this name indicate the%Nrobot's high precision, but it also reflects that the%Nrobot is highly efficient.
 
 ;80fc;156;ただ、α粒子を検出するのに、あえてロボットを%N使う必要性はまったくないところが、%Nこの優夏の説明における%N一番のツッコミどころであることは忘れてはならない。
 However, even though it detects α particles, there%Nwas absolutely no need to use a robot in it, so Yuka's%Nexplanation can be considered a bit ridiculous in that%Nregard.
@@ -7886,7 +7591,7 @@ Tom Faiblin's childhood friend, patient at the hospital%NMichael Cabin worked at
 Gen-san
 
 ;811c;288;ルナビーチの近所に住んでいると思われる漁師。%Nことあるごとにいづみのおしりに触るという、%Nうらやま……破廉恥な行為をしては、%Nいづみを怒らせているが、いづみに%N心底嫌われているわけではないところを見ると%N『明るくおしゃべりで、ちょっとエッチなおじさん』%Nといった感じの人物像が想像される。
-A fisherman who supposedly lives near Lunabeach. He%Ntries to touch Izumi’s rear whenever he’s given an%Nopportunity. Such an enviable... I mean, shameless, act%Ngarners Izumi's anger. Despite that, she doesn’t%Nactually hate him. This development gives him the air%Nof a "cheerful, yet slightly perverted old man".
+A fisherman who supposedly lives near Lunabeach. He%Ntries to touch Izumi’s rear whenever he’s given an%Nopportunity. Such an enviable... I mean, shameless, act%Ngarners Izumi's anger. Despite that, she doesn’t%Nactually hate him. This development gives him the air%Nof a 「cheerful, yet slightly perverted old man」.
 
 ;8120;148;とはいえ、同レベルのスキンシップを%N実際に女性してしまうと、%N相手がいづみのように寛大な性格をしていない限り、%N犯罪になってしまいかねないので注意。
 Still, he should be more cautious. Most women aren’t%Nas tolerant. Were he to behave this intimate towards%Nthem, He might be charged with sexual harassment.
@@ -7895,13 +7600,13 @@ Still, he should be more cautious. Most women aren’t%Nas tolerant. Were he to 
 Princess Beach
 
 ;8130;330;展望公園の近くにある、小さな入り江。%Nこの地域一帯には『恋の岬で想いを告げて、%N愛の入り江で想いを遂げる』という%N言い伝えが残っており、名前の由来は恋人達が%Nここで『秘め事』をするということにあるようだ。%N打ち捨てられた廃船などもあり、%N観光に向いているとはいえないが、%N色々な意味で、カップルは訪れるべき場所であるかもしれない。
-A small cove located close to Viewpoint Park,%Notherwise known as "Himegahama". In the area, there's%Na tradition to "express your feelings on the Cape of%NAffection, and carry out those feelings at the Cove of%NLove." Notably, it was also known as "Himegoto wo suru%Nhama- The Beach of Secrets", as it was there that%Nlovers would keep their "secrets". There's an%Nabandoned ship there, and while that's the beach's%Nmain tourist attraction, it's also frequented by couples%Nfor various reasons.
+A small cove located close to Viewpoint Park,%Notherwise known as 「Himegahama」. In the area, there's%Na tradition to 「express your feelings on the Cape of%NAffection, and carry out those feelings at the Cove of%NLove.」 Notably, it was also known as 「Himegoto wo suru%Nhama―The Beach of Secrets」, as it was there that%Nlovers would keep their 「secrets」. There's an%Nabandoned ship there, and while that's the beach's%Nmain tourist attraction, it's also frequented by couples%Nfor various reasons.
 
 ;813c;4;月浜
 Moon Beach
 
 ;8140;284;島の南東に広がる、長く弓なりに伸びる浜辺の名称。%N名前の由来は三日月を連想させる%Nその形状からとも取れるが、はっきりとしていない。%N月浜に所在する月屋ホテルや%Nルナビーチなどの施設にも月にちなんだ名称が%Nつけられているあたり、この島一帯に、%N月にちなんだ伝承などがあるのかもしれない。
-The name of the long, crescent shaped beach%Nstretched out on the southeast edge of the island.%NThe beach got its name from its crescent moon shape.%NBuilt next to the beach is Lunabeach and the Tsukiya%N(which means "Moon House") Hotel, both names also%Nderived from the beach. Perhaps there are more%Nlocations named after the moon in the group of islands%Nthis one is located in.
+The name of the long, crescent shaped beach%Nstretched out on the southeast edge of the island.%NThe beach got its name from its crescent moon shape.%NBuilt next to the beach is Lunabeach and the Tsukiya%N(which means 「Moon House」) Hotel, both names also%Nderived from the beach. Perhaps there are more%Nlocations named after the moon in the group of islands%Nthis one is located in.
 
 ;814c;10;ルナビーチ
 Lunabeach
@@ -7943,16 +7648,16 @@ Built together with the Tokitsukasa Shrine in order to%Nhonor the twin gods pass
 Tokitsukasa Shrine
 
 ;81b0;220;司紀杜神社とともに、島に古くから伝わる%N伝説の双子の神を奉った神社だが、%N今日では倒壊してしまっており、%Nそこへと至る長い石段が残るのみである。%N神社の名称は、『時』を『司る』神を奉っていたから%Nではないかと考えられる。
-A shrine built together with the Shiki no Mori Shrine in%Norder to worship the twin gods in the old legend%Npassed down on the island, but nowadays, it's already%Ncrumbled apart. All that remains of it is the long stone%Nstaircase. The shrine most likely got its name from the%Nfact that it was built to worship the god who "rules%Nover (tsukasadoru) time (toki)".
+A shrine built together with the Shiki no Mori Shrine in%Norder to worship the twin gods in the old legend%Npassed down on the island, but nowadays, it's already%Ncrumbled apart. All that remains of it is the long stone%Nstaircase. The shrine most likely got its name from the%Nfact that it was built to worship the god who 「rules%Nover (tsukasadoru) time (toki)」.
 
 ;81b4;216;ちなみに日本では、長い年月を経るうちに、%Nその名が本来持つ意味が薄れていき、%N字面が変化していくことがある。%N身近な例を挙げるなら、日本最高峰を誇る富士山は、%Nかつては不二山、不死山などと%N表記されたと言われている。
-Incidentally, in Japan, as the years go by, the original%Nmeaning of places are lost, and so the kanji used for%Nthe places start to change. For example, Japan's%Ntallest and most famous mountain, Mt. Fuji (富士山, the%Ncharacters meaning "wealthy", "man" and "mountain"),%Nis said to have once been written as Mt. Fuji (不二山,%Nmeaning "peerless mountain"), Mt. Fuji (不死山, meaning%N"immortality mountain"), etc.
+Incidentally, in Japan, as the years go by, the original%Nmeaning of places are lost, and so the kanji used for%Nthe places start to change. For example, Japan's%Ntallest and most famous mountain, Mt. Fuji (富士山, the%Ncharacters meaning 「wealthy」, 「man」 and 「mountain」),%Nis said to have once been written as Mt. Fuji (不二山,%Nmeaning 「peerless mountain」), Mt. Fuji (不死山, meaning%N「immortality mountain」), etc.
 
 ;81c0;4;澄空
 Sumisora
 
 ;81c4;280;神奈川県澄空市。地域民から『シカ電』と親しまれる%N芦鹿島鉄道芦鹿島線の沿線にある街で、%N駅の周辺は開けているが、%N古くからある住宅地はいまだ昔の面影を残している。%Nかつてはいづみが通っていた私立高校%N澄空学園を有しており、多感な生徒達による、%Nさまざまなドラマが生まれているとか。
-Sumisora City, located in the Kanagawa Prefecture.%NKnown by the residents as "Shikaden" for its fast%NAshika Island Railroad and Ashika Island Rail Line. The%Narea around the station is modern, but there are still%Ntraces of the past remaining in the old residential%Ndistrict. Izumi once attended its private high school,%NSumisora Academy, where various dramas emerged%Ndue to its many emotional students. Sumisora was the%Nsetting of the KID Visual Novel "Memories Off".
+Sumisora City, located in the Kanagawa Prefecture.%NKnown by the residents as 「Shikaden」 for its fast%NAshika Island Railroad and Ashika Island Rail Line. The%Narea around the station is modern, but there are still%Ntraces of the past remaining in the old residential%Ndistrict. Izumi once attended its private high school,%NSumisora Academy, where various dramas emerged%Ndue to its many emotional students. Sumisora was the%Nsetting of the KID Visual Novel 「Memories Off」.
 
 ;81d0;6;防波堤
 Pier
@@ -7964,7 +7669,7 @@ Also known as a breakwater, it's an artificial bank%Ncreated to dock ships and t
 Clinic
 
 ;81e4;306;島にある唯一の医療機関。%N診療所とは、医療法第一条の五によると、%N『患者を入院させるための施設を有しないもの%N又は１９人以下の患者を入院させるための%N施設を有するもの』%Nと定義されており、この島の診療所は前者にあたる。%Nすなわち、重病人や重体患者が出た場合は、%N速やかにフェリーで本土へ搬送する必要がある。
-The island's only medical institution. According to the%NMedical Service Law, Article 1, Section 5, clincs are%Ndefined as "an institution that doesn't hospitalize%Npatients, or an institution that hospitalizes no more%Nthan 19 patients." The one on the island fits the first%Ndefinition. In case patients are seriously ill or in critical%Ncondition, they need to be transported to the mainland%Nvia a high-speed ferry.
+The island's only medical institution. According to the%NMedical Service Law, Article 1, Section 5, clincs are%Ndefined as 「an institution that doesn't hospitalize%Npatients, or an institution that hospitalizes no more%Nthan 19 patients.」 The one on the island fits the first%Ndefinition. In case patients are seriously ill or in critical%Ncondition, they need to be transported to the mainland%Nvia a high-speed ferry.
 
 ;81f0;4;灯台
 Lighthouse
@@ -8003,64 +7708,64 @@ Cherry Blossom Trees
 The gentle ascent up to Viewpoint Park is a hidden%Nsightseeing spot, lined with cherry trees on either%Nside. In the spring, countless cherry petals scatter on%Ntheir descent from these trees, filling the area with an%Naura of wonder.
 
 ;8240;346;たまに『桜の木の下には死体が埋まっている』と%N冗談めかして言われることがあるが、%Nこれは一説には平安時代の歌人%N西行（さいぎょう）法師が、%N晩年に『願はくは　花の下にて　春死なん%Nそのきさらぎの　望月のころ』と詠んだのが%N始まりで、その彼が持つ死生観が広く浸透したからと%N言われている。%N西行法師も、桜の美しさに魅せられた%N一人であったのだろう。
-Occasionally, people joke about how there's a corpse%Nburied underneath the cherry trees. One theory%Nascribes this tale to the Heian period poet, Saigyo%NHoshi, who in his late years wrote "I wish to die under%Nthe flowers in the spring, around the day of full moon in%NFebruary." The theory states that Saigyo's opinion on%Ndeath had permeated through this poem. Saigyo Hoshi%Nwas likely another individual enchanted by the beauty%Nof the cherry blossoms.
+Occasionally, people joke about how there's a corpse%Nburied underneath the cherry trees. One theory%Nascribes this tale to the Heian period poet, Saigyo%NHoshi, who in his late years wrote 「I wish to die under%Nthe flowers in the spring, around the day of full moon in%NFebruary.」 The theory states that Saigyo's opinion on%Ndeath had permeated through this poem. Saigyo Hoshi%Nwas likely another individual enchanted by the beauty%Nof the cherry blossoms.
 
 ;824c;8;飯田財閥
 Iida Financial Group
 
 ;8250;330;『あの飯田財閥』というだけで、%N誰もが思い当たるほどの、超国家級の財閥。%Nその人脈も相当に豊富で、遺伝子工学の世界的権威、%N守野茂蔵教授とも密接なパイプを%N有しているとする噂もある。%Nゆくゆくは長男である飯田億彦が、%Nグループを背負って立つものと思われる。%Nしかし現当主は、誠達と同じ大学に通う跡継ぎに、%N危機感はないのだろうか？
-If you say "Iida Financial Group" to anyone, that%Nultranationalistic class financial group would come to%Nmind. Along with their personal connections and%Nextreme wealth, there are rumors that they have%Nconnections to world authority on genetic engineering,%NDr. Shigezo Morino. Okuhiko Iida, the family's only son, is%Nplanned to take over the group. The current head of%Nthe family went to the same college as Makoto and the%Nothers, so there hopefully won't be any issues with its%Nheir.
+If you say 「Iida Financial Group」 to anyone, that%Nultranationalistic class financial group would come to%Nmind. Along with their personal connections and%Nextreme wealth, there are rumors that they have%Nconnections to world authority on genetic engineering,%NDr. Shigezo Morino. Okuhiko Iida, the family's only son, is%Nplanned to take over the group. The current head of%Nthe family went to the same college as Makoto and the%Nothers, so there hopefully won't be any issues with its%Nheir.
 
 ;825c;20;すこやかＹＯＵとぴあ
 A Healthy YOUtopia
 
 ;8260;252;誠達がゼミ合宿に来ている『島』のローカル放送局で%N放映していた番組。%N『すこやか』というタイトルにふさわしく、%N日々の生活の中での健康に重きを置いた番組。%N遙がビデオ録画を欠かさないほど気に入っているが、%Nこの番組のどこに惹きつけられたのかは謎である。
-A TV show on one of the local broadcasting channels%Nof the "island" that the Seminar Lodge take place on.%NThe "Healthy" part of the title is appropriate, as the%Nshow emphasizes and encourages healthy lifestyles.%NHaruka is so interested in it that she never fails to%Nrecord it while on the island, though it's a mystery as%Nto what sort of appeal it could possibly have.
+A TV show on one of the local broadcasting channels%Nof the 「island」 that the Seminar Lodge take place on.%NThe 「Healthy」 part of the title is appropriate, as the%Nshow emphasizes and encourages healthy lifestyles.%NHaruka is so interested in it that she never fails to%Nrecord it while on the island, though it's a mystery as%Nto what sort of appeal it could possibly have.
 
 ;826c;20;優夏先生の恋愛方程式
 Professor Yuka's Love Formula
 
 ;8270;332;優夏と沙紀が中学生時代に作り上げた、%N独自の恋愛テクニック。%Nその１は『しつこい男は嫌われる』、%Nその２は『男は押しが肝心』、%Nその３は『約束は絶対守ること』……と、%N全部で４８個の教えで構成されている。%N教え同士が矛盾をはらむこともあるが、%Nそこには、常にＴＰＯをわきまえるべしという%N暗黙の教えが隠されている……のかもしれない。
-Original love techniques that Yuka and Saki came up%Nwith while in middle school. Rule #1: "Dislike persistent%Nmen", Rule #2: "Audacity is essential for guys", Rule #3:%N"Promises must be kept"... There's 48 of them in total,%Nso we'll stop here. Though many of the laws are quite%Ncontradictory with one another, this can be justified%Nby the fact that different techniques are based on%Nmultiple changing factors, such as time, place, and%Noccasion... maybe.
+Original love techniques that Yuka and Saki came up%Nwith while in middle school. Rule #1: 「Dislike persistent%Nmen」, Rule #2: 「Audacity is essential for guys」, Rule #3:%N「Promises must be kept」... There's 48 of them in total,%Nso we'll stop here. Though many of the laws are quite%Ncontradictory with one another, this can be justified%Nby the fact that different techniques are based on%Nmultiple changing factors, such as time, place, and%Noccasion... maybe.
 
 ;8274;76;優夏と同様にして沙紀が作り上げたものは%N『朝倉先生の恋愛方程式』と呼ばれる。
-Yuka and Saki also created a series of similar%Ntechniques that they called "Professor Asakura's%NLove Formula".
+Yuka and Saki also created a series of similar%Ntechniques that they called 「Professor Asakura's%NLove Formula」.
 
 ;8280;20;朝倉先生の恋愛方程式
 Professor Asakura's Love Formula
 
 ;8284;398;中学生時代の優夏と沙紀が作った恋愛テクニック。%Nその１からその３までは『優夏先生の恋愛方程式』と%N同じものと思われるが、%Nその４は『男は度胸、女は愛嬌』となっている。%N余談だが、数学でいうところの方程式には、%N『解が無いこと』が解とされる式が存在する。%Nそこまで考慮したうえで、『恋愛には答えなんてない』%Nという意味が込められているとするなら、%Nこの恋愛方程式は相当に深いネーミングであるといえる。
-Love techniques that Yuka and Saki came up with while%Nin middle school. Formulas 1-3 are the same as%N"Professor Yuka's Laws of Love"; Forumla 4 is "Men are%Ncourageous, woman are charming". This is a bit%Noff-topic, but in mathematics, formulas exist in order to%Nsolve "things that haven't been solved". Thus, with this%Nin mind, the name "Love Formula" implies that "Love has%Nno answer". A truly deep name befitting a truly deep%Nformula.
+Love techniques that Yuka and Saki came up with while%Nin middle school. Formulas 1-3 are the same as%N「Professor Yuka's Laws of Love」; Forumla 4 is 「Men are%Ncourageous, woman are charming」. This is a bit%Noff-topic, but in mathematics, formulas exist in order to%Nsolve 「things that haven't been solved」. Thus, with this%Nin mind, the name 「Love Formula」 implies that 「Love has%Nno answer」. A truly deep name befitting a truly deep%Nformula.
 
 ;8290;32;稲妻ゴロゴロアレキサンダーサーブ
 Lightning Rumble Alexander Thunder Serve
 
 ;8294;218;優夏が持つ必殺サーブの一つ。%N『稲妻ゴロゴロ』と『サンダー』を掛けたものと%N思われるが、『アレキサンダー』という名称は%N同名のカクテルからも取ったものと思われ、%Nアルコール好きな彼女らしい%Nネーミングであるといえる。%N
-A finishing move serve that Yuka possesses. In%Naddition to "Lightining Rumble" and "Thunder", bringing%Nto mind a high speed serve, "Alexander" is the name of%Na cocktail, a name that clearly illustrates her love for%Nalcohol.
+A finishing move serve that Yuka possesses. In%Naddition to 「Lightining Rumble」 and 「Thunder」, bringing%Nto mind a high speed serve, 「Alexander」 is the name of%Na cocktail, a name that clearly illustrates her love for%Nalcohol.
 
 ;8298;232;なお、彼女が放つ必殺サーブは、%N他に『お日様ポカポカキッスオブファイアサーブ』、%N『北風ヒュルリラカミカゼサーブ』、%N『南極ヒエヒエエメラルドクーラーサーブ』があるが、%Nこれらにはすべてカクテルの名前が%N隠されているのが彼女らしい。
-In addition, she possesses several other finishing%Nmove serves, like "Sun's Warmth Kiss of Fire Serve",%N"Northern Wind Whirling Kamikaze Serve", and "South%NPole Eight Below Emerald Cooler Serve", all of them%Ncontaining the names of cocktails in them.
+In addition, she possesses several other finishing%Nmove serves, like 「Sun's Warmth Kiss of Fire Serve」,%N「Northern Wind Whirling Kamikaze Serve」, and 「South%NPole Eight Below Emerald Cooler Serve」, all of them%Ncontaining the names of cocktails in them.
 
 ;82a4;10;お兄ちゃん
 Onii-chan
 
 ;82a8;120;くるみによれば%N『お兄ちゃんがいない人はお兄ちゃんっぽい人の%Nことをお兄ちゃんって呼んでもいいんだもん！』%Nとのこと。%N
-Refers to Kurumi's idea that "A girl who doesn't have a%Nbrother could call someone who is like a brother,%N'Onii-chan'!"
+Refers to Kurumi's idea that 「A girl who doesn't have a%Nbrother could call someone who is like a brother,%N'Onii-chan'!」
 
 ;82ac;344;そもそも『兄』という言葉は非情に定義が曖昧で、%N単に年長者である男性への呼称として用いられる%Nことがあるので、作中で誠達がそうであったように、%N上記のくるみのセリフを論理的に否定することは難しい。%Nただ、逆に男性が年下の『妹っぽい』女の子を%N本当に妹呼ばわりした場合は完全にアウトなので注意したい。%Nいつの世も、かわいい女の子は正義なのである。
-By strict definition, the Japanese word "Nii" can be%Nused in reference to any elder male, without any%Nconnotation attached. With this definition in mind,%NMakoto, and other characters in the story who fit that%Ndescription, have a hard time forming a%Ncounterargument to Kurumi's above line. However, don't%Neven think about exploiting her argument and treat all%Nyounger girls as your little sisters, so please be%Nwarned... Because in every society and in every age,%Ncute girls are justice.
+By strict definition, the Japanese word 「Nii」 can be%Nused in reference to any elder male, without any%Nconnotation attached. With this definition in mind,%NMakoto, and other characters in the story who fit that%Ndescription, have a hard time forming a%Ncounterargument to Kurumi's above line. However, don't%Neven think about exploiting her argument and treat all%Nyounger girls as your little sisters, so please be%Nwarned... Because in every society and in every age,%Ncute girls are justice.
 
 ;82b8;24;くるくるくるみマジック♪
 KuruKuru Kurumi Magic♪
 
 ;82bc;194;ふところから物を取り出すときに発せられる%Nくるみ語のひとつ。%Nお年ごろの女の子であることを武器に、%Nいかにかわいらしく、かつ自然に言えるかがカギ。%Nと同義語に『くるくるくるみらく〜る♪』がある。
-A Kuriminese word Kurumi uses whenever she reveals%Nan item she's carrying. Those things are considered%Nas weapons for a girl her age, but the natural way she%Nsays it is indeed quite cute. A synonym for this is a%N"KuruKuru Kurumiracle♪"
+A Kuriminese word Kurumi uses whenever she reveals%Nan item she's carrying. Those things are considered%Nas weapons for a girl her age, but the natural way she%Nsays it is indeed quite cute. A synonym for this is a%N「KuruKuru Kurumiracle♪」
 
 ;82c8;26;太った猫のマスコットキャラ
 Fat Cat Mascot Character
 
 ;82cc;328;『努力』や『根性』などど刻印された%Nキーホルダーのように、言ってしまえば%Nどこにでもあるような、まるまると太った猫を%N愛嬌タップリにディフォルメしたキーホルダー。%Nそれでも優夏にとっては、大切な思い出を%N想起させる思い入れのある一品。%N優夏いわく『ニンニンネコピョン』、%Nくるみいわく『シュレッドくん』、誠いわく『ボンちゃん』。
-A very charming key chain in the form of a%Nsuper-deformed fat cat. It's a fairly commonplace key%Nchain, such as the ones engraved with the kanji for%NEffort or Guts. Nevertheless, it's a nostalgic item for%NYuka, full of precious memories. Yuka calls it the "Nin Nin%NNeko Pyon", Kurumi calls it "Schrödy", and Makoto calls%Nit "Lashy".
+A very charming key chain in the form of a%Nsuper-deformed fat cat. It's a fairly commonplace key%Nchain, such as the ones engraved with the kanji for%NEffort or Guts. Nevertheless, it's a nostalgic item for%NYuka, full of precious memories. Yuka calls it the 「Nin Nin%NNeko Pyon」, Kurumi calls it 「Schrödy」, and Makoto calls%Nit 「Lashy」.
 
 ;82d8;16;日本肝試し振興会
 Test of Courage Awareness Club
@@ -8072,7 +7777,7 @@ A mysterious organization that Kurumi claims exists. Its%Npurpose is to spread w
 Oedo Gatten
 
 ;82ec;316;『島』のローカル局で放送されているコメディー番組。%Nガッテン（＝合点）という言葉が使われていることから、%N江戸時代を舞台に、コントの形式を取った情報番組であるとも考えられる。%N余談だが、『合点』はそれ自体に理解する、%N承知するといった意味があるので、%N『合点承知！』などと言ってしまうと%N意味がおかしくなってしまう。
-A comedy show broadcast on the "island's" local%Nchannels. From the fact that it uses the Japanese%Nword "gatten" (meaning "understanding"), it can be%Nthought of as a comedic documentary set in the Edo%Nperiod (1603-1868). As a side note, the word "gatten"%Nis sometimes paired with its synonym, "shouchi" in the%Nphrase "gatten shouchi!" This phrase is amusing for%Nits rhythmic sense, similar to the English phrase%N"okey-dokey."
+A comedy show broadcast on the 「island's」 local%Nchannels. From the fact that it uses the Japanese%Nword 「gatten」 (meaning 「understanding」), it can be%Nthought of as a comedic documentary set in the Edo%Nperiod (1603-1868). As a side note, the word 「gatten」%Nis sometimes paired with its synonym, 「shouchi」 in the%Nphrase 「gatten shouchi!」 This phrase is amusing for%Nits rhythmic sense, similar to the English phrase%N「okey-dokey.」
 
 ;82f8;12;こういう展開
 This Kind of Situation
@@ -8084,13 +7789,12 @@ In the morning, the cute little sister or the childhood%Nfriend who lives next d
 After the mysterious girl starts running her mouth off%Nat him, the main protagonist will run away to his%Nclassroom, barely avoiding being late, and then see%Nthe girl from earlier entering the class as a transfer%Nstudent... Kurumi probably likes games like that.
 
 ;830c;20;キュレイシンドローム
-Curé Syndrome
-
+;dupe:1fa8
 ;8310;304;精神科医マイケル・キャビン博士が提唱した、%Nパラノイア（妄想症）の特殊な類型。%N嘘をついた人間と嘘をつかれた人間が、%Nともに心の底からそれを真実だと思い込んでいて、%N更にその嘘が、多数の人間に真実だと認識される%Nという２つの条件を満たした時、%Nその嘘が新たな現実になるという、%N極めて特殊な症状のこと。%N
 A special type of paranoia proposed by psychiatrist%NMichael Cabin. The symptoms are extremely unique, and%Nonce its two conditions are fulfilled (#1: The liar and%Nthose being lied to are under the impression from the%Nbottom of their hearts that the lie is the truth, and #2: If%Nsaid lie is acknowledged by many people as the truth),%Nit's said that the lie will become a new reality.%NThis aberrant theory has received much opposition,%Nand isn't acknowledged as an official medical case.
 
 ;8314;384;この常軌を逸した学説は多くの反発を受け、%N正式な症例としては認知されていない。%Nだが、現実という言葉の定義は非常に曖昧なもので、%N自分にとっての現実と、隣人にとっての現実は%N同じものなのか、という『他我問題』は%N到底答えが出せるものではない。%Nそうした意味で、一概に否定することもできない%N症例だといえる。%N守野茂蔵博士によれば、この世にはもう一つの%N『キュレイ』があるらしいが……。
-But as the definition of the word "reality" is vague,%Nwhether the reality as far as you're concerned is the%Nsame thing as the reality as far as your neighbor is%Nconcerned is not something that can be explained with%Nthe "Problem of Other Minds". With this in mind, Curé%NSyndrome cannot be unconditionally denied as a%Nmedical case.%NAccording to Dr. Shigezo Morino, it seems that there is%None more "Curé" in this world...
+But as the definition of the word 「reality」 is vague,%Nwhether the reality as far as you're concerned is the%Nsame thing as the reality as far as your neighbor is%Nconcerned is not something that can be explained with%Nthe 「Problem of Other Minds」. With this in mind, Curé%NSyndrome cannot be unconditionally denied as a%Nmedical case.%NAccording to Dr. Shigezo Morino, it seems that there is%None more 「Curé」 in this world...
 
 ;8320;12;くるみ１７号
 Kurumi Unit 17
@@ -8102,28 +7806,28 @@ A passionate expert in the art of origami, Kurumi had%Ncarefully made a paper ai
 Mental Guts!
 
 ;8334;296;くるみの周囲で親しまれていた、%N神経衰弱によく似たトランプゲームの一種。%Nカードを１枚めくるたびに『ピロ』とかわいらしく%N言わなければならず、成人男性が遊ぶには、%Nそれ相応の精神負荷を覚悟する必要がある。%N推測の域を出ないが、ペアが成立した際には%N『ピンポンドォーン！』と宣言するものと見られる。
-A card game very similar to Concentration that Kurumi%Nis familar with. Every time you flip a card, you have to%Nsay "flippy", so men need to be mentally prepared in%Norder to play it. The rest is all conjecture, but when%Nyou manage to make a pair, it seems that you shout%Nout "Mental Guts!"
+A card game very similar to Concentration that Kurumi%Nis familar with. Every time you flip a card, you have to%Nsay 「flippy」, so men need to be mentally prepared in%Norder to play it. The rest is all conjecture, but when%Nyou manage to make a pair, it seems that you shout%Nout 「Mental Guts!」
 
 ;8340;20;スーパーめくりんちょ
 Super Memory
 
 ;8344;398;いづみの周囲で親しまれていた%N神経衰弱によく似たトランプゲームの一種。%Nカードを１枚めくるたびに、その数字の合否を問わず%N『めくりんちょ』とかわいらしく%N言わなければならないので、成人男性が遊ぶには%N相応の羞恥心を捨て去る必要がある。%Nこのゲームのどの辺りが『スーパー』なのかは%N多分に想像の余地を残しており、%Nもしかしたら、いづみの周りでは『めくりんちょ』なる%N遊びも流行っていたのかもしれない。
-A card game very similar to Concentration that Izumi is%Nfamilar with. Every time you flip a card, you have to say%N"memmy", so men need to be mentally prepared in order%Nto play it. Where the "Super" in the name comes from%Nleaves a lot to the imagination, but perhaps it's%Nbecause the game is "super popular" in the circles%Nwhere Izumi learned it from.
+A card game very similar to Concentration that Izumi is%Nfamilar with. Every time you flip a card, you have to say%N「memmy」, so men need to be mentally prepared in order%Nto play it. Where the 「Super」 in the name comes from%Nleaves a lot to the imagination, but perhaps it's%Nbecause the game is 「super popular」 in the circles%Nwhere Izumi learned it from.
 
 ;8350;18;カンタンアイランド
 Vain Island
 
 ;8354;280;くるみが愛読しているコミックの１つ。%N題名にある『カンタン』は、『邯鄲の夢』から%N来ているものと思われる。%N邯鄲の夢とは、ある青年が歩んだ%N栄枯盛衰の５０年が、実は道士に借りた%N不思議な枕で見た夢だった、という中国の故事。%N栄枯盛衰がいかに儚いものであるかを%N説いた言葉である。%N
-One of Kurumi's favorite manga. It is thought that the%N"Vain" in the title comes from "a vain dream of wealth%Nand splendor." "The Vain Dream of Wealth and%NSplendor" is a Chinese story of a young man who%Nwalked through the vicissitudes of fortune for fifty%Nyears, but in reality, it was a dream he was having while%Nsleeping on a mysterious pillow he borrowed from a%NTaoist. It explains that the vicissitudes of fortune are%Nbut fleeting and transient.
+One of Kurumi's favorite manga. It is thought that the%N「Vain」 in the title comes from 「a vain dream of wealth%Nand splendor.」 「The Vain Dream of Wealth and%NSplendor」 is a Chinese story of a young man who%Nwalked through the vicissitudes of fortune for fifty%Nyears, but in reality, it was a dream he was having while%Nsleeping on a mysterious pillow he borrowed from a%NTaoist. It explains that the vicissitudes of fortune are%Nbut fleeting and transient.
 
 ;8358;256;また、カンタンアイランドの作中には%N『シュレッドくん』なる猫が登場人物として%N設定されており、その名前の由来は%N『シュレディンガーの猫』であると思われる。%Nこれらの要素から鑑みるに、%Nカンタンという響きとは裏腹に、%N奥が深いコミックであることがうかがえる。
-Also, in Vain Island, there is a cat known as "Schrödy",%Nwhose name is thought to originate from%N"Schrödinger's Cat". Considering all of the manga's%Ncomplexities, it appears to be much deeper than it%Nseems.
+Also, in Vain Island, there is a cat known as 「Schrödy」,%Nwhose name is thought to originate from%N「Schrödinger's Cat」. Considering all of the manga's%Ncomplexities, it appears to be much deeper than it%Nseems.
 
 ;835c;388;カンタンアイランドを意訳すると、%N「『邯鄲の夢』の如き『島』」といったところか。%N%Nもしもキュレイシンドロームが実在するとしたら、%N妄想が真実になったとき……%N強固な思念が新たな現実を生み出すとき……%Nキュレイに冒された者は、それまで追想していた%N妄想の世界から、本当の現実世界に戻るという。%Nまるで、無限ループから解放されたかのように。%Nまるで、『邯鄲の夢』から醒めるたかのように……。
-If Curé Syndrome really does exist, then when%Ndelusions become reality... When a new reality is%Nbrought forth by a firm thought... Then it's said the%Nperson afflicted with Curé will return to the true real%Nworld from the delusional one that they have dwelt in.%NIt's as if they're being released from the infinite loop, as%Nif they're waking up from their own "vain dream of%Nwealth and splendor"...
+If Curé Syndrome really does exist, then when%Ndelusions become reality... When a new reality is%Nbrought forth by a firm thought... Then it's said the%Nperson afflicted with Curé will return to the true real%Nworld from the delusional one that they have dwelt in.%NIt's as if they're being released from the infinite loop, as%Nif they're waking up from their own 「vain dream of%Nwealth and splendor」...
 
 ;8360;90;ひょっとしたら、誠達がいる『島』の出来事みたいな%Nストーリーが描かれているのかも知れない。
-Perhaps the events on the "island" that Makoto and%Nthe others are on might be depicted as a similar story.
+Perhaps the events on the 「island」 that Makoto and%Nthe others are on might be depicted as a similar story.
 
 ;836c;12;忍々猫ぴょん
 Nin Nin Neko Pyon
@@ -8138,16 +7842,15 @@ To Yuka, that Nin Nin Neko Pyon key chain is something%Nprofoundly memorable, an
 Popping Deflating Babirinko
 
 ;8384;386;遙を虜にする、謎に包まれた%N遊園地のアトラクションの名称。%N誠やくるみと行きたがるからには、%Nこのアトラクションを体感済みであろう遙は%N『ばびっちゃうよ？』などと訳の分からないことを%N言っており、いったい何がどうなってしまうのか、%Nそれすら名称から想像できない%Nアトラクションというのもかえって珍しい。%Nそうして気にかけてしまう時点で、%Nこんな奇抜な名称にした意味はあるのかもしれない。
-The name of the mysterious amusement park attraction%Nwith which Haruka is obsessed. As a Babirinko veteran,%NHaruka tries to pitch the ride to Makoto and Kurumi, but%Nall she says are incomprehensible things like "It'll Babi%Nyour socks off!" It's actually quite unusual for an%Nattraction's name to not give a single hint as to what it%Nentails. However, with that in mind, maybe there's%Nactually a purpose behind the enigmatic name.
+The name of the mysterious amusement park attraction%Nwith which Haruka is obsessed. As a Babirinko veteran,%NHaruka tries to pitch the ride to Makoto and Kurumi, but%Nall she says are incomprehensible things like 「It'll Babi%Nyour socks off!」 It's actually quite unusual for an%Nattraction's name to not give a single hint as to what it%Nentails. However, with that in mind, maybe there's%Nactually a purpose behind the enigmatic name.
 
 ;8390;12;Ｎｅｖｅｒ７
-Never7
-
+;dupe:2870
 ;8394;320;本作品のタイトル。訳を付けるなら%N『決して７にはならない』というところか。%N６日間の『無限ループ』から抜け出せず、%Nいつまでたっても４月７日を迎えられない、%N誰かが犠牲になってしまい、%N誠、億彦、優夏、遙、沙紀、くるみ、いづみの７人全員が%Nそろった状態を保てないなど、%Nこのタイトルにはさまざまな意味が込められている。%N
-The title of this game. The meaning of the title is "Can%Nnever be 7", which refers to many things. Mainly, it%Nrefers to the inability to escape the six day "infinite%Nloop" and never reaching April 7th. It also refers to the%Nseven cast members of Makoto, Okuhiko, Yuka, Haruka,%NSaki, Kurumi, and Izumi, most whom aren't always able to%Nstay alive.
+The title of this game. The meaning of the title is 「Can%Nnever be 7」, which refers to many things. Mainly, it%Nrefers to the inability to escape the six day 「infinite%Nloop」 and never reaching April 7th. It also refers to the%Nseven cast members of Makoto, Okuhiko, Yuka, Haruka,%NSaki, Kurumi, and Izumi, most whom aren't always able to%Nstay alive.
 
 ;8398;254;また、カジノなどで見られるスロットマシーンの%N大当たりが『７７７』であるように、%N西洋では７は幸福の数字として見られることがある。%Nそれを踏まえると、この言葉には、悲しい結末を%N迎える６日間を指して『決してもたらされない幸せ』を%N意味しているともとれる。
-Furthermore on slot machines, "777" symbolizes the%Njackpot, and 7 itself is considered a lucky number in%Nmany parts of the world. The title is also based on this%Nbelief, as the sad ending to the six days that "never%Nbring luck or happiness".
+Furthermore on slot machines, 「777」 symbolizes the%Njackpot, and 7 itself is considered a lucky number in%Nmany parts of the world. The title is also based on this%Nbelief, as the sad ending to the six days that 「never%Nbring luck or happiness」.
 
 ;83a4;12;不思議な物体
 Mysterious Object
@@ -8165,7 +7868,7 @@ Bell
 A musical instrument. A metal and ceramic hollow%Nsphere with a ball inside that rings every time the%Nsphere is shaken. It is used in Shinto rituals when the%Nshrine maiden performs a dance, and can also be%Nseen as a large bell in the shrine and in festival bands,%Nas Japan has a deep connection to religious%Nfestivals. The loud, clear timbre that it makes is known%Nto calm the hearts of those who hear it.
 
 ;83c0;196;作中に度々登場する『例の鈴』も、%Nやはり神社の祭器なのだろうか。%Nあの島における神社といえば、司紀杜神社。%Nそれと、杜紀司神社。%N鈴がふたつ存在する理由も、%N双子の神社に関係があるのかもしれない。
-In the story, "the bell" is frequently seen. Is it really a%Nshrine bell used in rituals? On the island, there is a%Nshrine called the Shiki no Mori Shrine. There's also the%NTokitsukasa Shrine. The reason the two bells exist%Nmight also have a connection to the twin shrines.
+In the story, 「the bell」 is frequently seen. Is it really a%Nshrine bell used in rituals? On the island, there is a%Nshrine called the Shiki no Mori Shrine. There's also the%NTokitsukasa Shrine. The reason the two bells exist%Nmight also have a connection to the twin shrines.
 
 ;83cc;8;オカルト
 Occult
@@ -8180,7 +7883,7 @@ Kurumi's love for such unscientific phenomenon is%Nnaturally due to her characte
 Dream
 
 ;83e4;340;人はなぜ、眠っている間に夢を見るのか。%Nそのメカニズムは現代医学をもってしても%Nまだ明らかにはなっていない。%N眠っている際に、脳が記憶を整理する過程で%N見るものともいわれているが、夢で見たことが%Nそのまま現実になってしまう正夢や、%N自分が今、夢を見ていることを自覚できてしまう%N明晰夢など、それだけでは説明できない事象も%N多々見られている。
-Why do humans have dreams while they sleep? That%Nmechanism is something that still isn't clear, even with%Nmodern medical science. It's said that, while sleeping,%Nwe are actually seeing the process of our brains%Narranging our memories, which we interpret as a dream.%NStill, that doesn't explain why we have "prophetic%Ndreams" that become a reality, or why we have lucid%Ndreams where we can become self-aware of the fact%Nthat we're dreaming and take control of it.
+Why do humans have dreams while they sleep? That%Nmechanism is something that still isn't clear, even with%Nmodern medical science. It's said that, while sleeping,%Nwe are actually seeing the process of our brains%Narranging our memories, which we interpret as a dream.%NStill, that doesn't explain why we have 「prophetic%Ndreams」 that become a reality, or why we have lucid%Ndreams where we can become self-aware of the fact%Nthat we're dreaming and take control of it.
 
 ;83e8;132;未だ不可解な現象なので、立派な（？）大学生である%N誠や優夏が、１日に見た悪夢に翻弄され続けるのも、%Nやむえないといえるかもしれない。
 These are phenomenons that remain unexplained to%Nthis date.%NBecause it's still a mysterious phenomenon, it may be%Ninevitable that the (questionably) upstanding college%Nstudents Makoto and Yuka will continue to make light of%Ntheir nightmare on the 1st.
@@ -8192,13 +7895,13 @@ Cuckoo Clock
 A type of wall-mounted clock with a small door that,%Nevery hour on the dot, opens and sends out a bird%Nthat chirps to announce the change in hour. The first%None was said to be invented in Greece in the 2nd%Ncentury BC, but it wasn't until the 18th century that the%Nmodern cuckoo clock was invented and popularized in%NGermany. Notably, while most cuckoo clocks around the%Nworld are designed to have cuckoos in them, in Japan,%Nthe most common design has a dove come out of the%Nclock instead.
 
 ;83fc;210;その経緯は定かではないが、『閑古鳥が鳴く』という%Nことわざからも分かるように、カッコーは%Nその鳴き声が寂寥（せきりょう）感を想起させること、%Nそしてハトは平和の象徴として%N広く愛されていることなどが考えられる。
-Indeed, in Japanese, instead of "cuckoo clock", they%Nare more commonly known as "dove clocks".%N There is no definite answer for why doves became%Ncommonplace, but it can be thought that one reason is%Nthat in Japanese, the phrase "the cuckoo chirps" is%Nan expression that means "business is slow", so%Nperhaps the chirps of cuckoos were thought to bring%Nabout loneliness. And as doves were a symbol of%Npeace, they were much more loved, possibly why they%Nwere used to replace the cuckoo.
+Indeed, in Japanese, instead of 「cuckoo clock」, they%Nare more commonly known as 「dove clocks」.%N There is no definite answer for why doves became%Ncommonplace, but it can be thought that one reason is%Nthat in Japanese, the phrase 「the cuckoo chirps」 is%Nan expression that means 「business is slow」, so%Nperhaps the chirps of cuckoos were thought to bring%Nabout loneliness. And as doves were a symbol of%Npeace, they were much more loved, possibly why they%Nwere used to replace the cuckoo.
 
 ;8400;294;優夏はそんな鳩時計に、%N引き裂かれた恋人達を重ね合わせた。%N時間に囚われ、１日に２度しか出会えないツガイの鳩。%N絵の中だけでも結ばれて欲しいと、%N優夏は、時計の針を止めて%Nツガイを寄り添わせたイラストを描いた。%Nだけど、まさにそれは『初恋の男の子の死』という%N過去を振り切れない優夏自身だった。
-The cuckoo clock that Yuka knew overlapped with the%Nimage of "separated lovers" to her. A male and female%Npair of doves who could only meet twice a day,%Nprisoners of time. Wanting to unite them, even if it was%Nonly in a picture, Yuka drew a picture of the pair%Ncuddling close together while stopping the hands of%Nthe clock. However, that became a part of the past%NYuka herself couldn't shake off- the past of the%N"death of her first love".
+The cuckoo clock that Yuka knew overlapped with the%Nimage of 「separated lovers」 to her. A male and female%Npair of doves who could only meet twice a day,%Nprisoners of time. Wanting to unite them, even if it was%Nonly in a picture, Yuka drew a picture of the pair%Ncuddling close together while stopping the hands of%Nthe clock. However, that became a part of the past%NYuka herself couldn't shake off―the past of the%N「death of her first love」.
 
 ;8404;192;当時、男の子は言った。%N時を止めたいなら、時間を壊せばいい──と。%N数年後──言葉通りの意味で%N『時間に囚われた』誠と優夏。%Nやがて、誠は『鳩時計と少年の話』の中に%N『真実』を見いだして……。
-At the same time, that boy said this: "If you want to%Nstop time, then it's all right to destroy time." Several%Nyears later──those exact words became significant%Nfor Makoto and Yuka- the "prisoners of time". Before%Nlong, Makoto discovered the "truth," in the "story of%Nthe cuckoo clock and the boy"...
+At the same time, that boy said this: 「If you want to%Nstop time, then it's all right to destroy time.」 Several%Nyears later──those exact words became significant%Nfor Makoto and Yuka―the 「prisoners of time」. Before%Nlong, Makoto discovered the 「truth,」 in the 「story of%Nthe cuckoo clock and the boy」...
 
 ;8410;6;夢遊病
 Sleepwalking
@@ -8207,7 +7910,7 @@ Sleepwalking
 A condition when you suddenly get up while sleeping%Nand start walking around. Sleepwalkers never have%Nmemories of sleepwalking, since their activity happens%Nwhen they're unconscious. There is no clear or definite%Ncause of this, but a plausible theory is that it is due to%Nexcess anxiety, fatigue, stress, and other such%Nconditions.
 
 ;8418;274;合宿初日の朝、誠の部屋に飛び込んできた優夏が、%N照れ隠しの意味で、自分のことを%N『夢遊病の人みたいだ』と述べたが、%N彼女の場合は『酔っぱらいの人みたいだ』と%N表現した方が似合っていたかもしれない。%Nいや、あるいは優夏は、泥酔した自分が%N豹変する性質を知らないだけなのか……。
-On the first morning of the camp, in order to hide her%Nembarrassment of bursting into Makoto's room, Yuka%Nstates that she was "kind of like a sleepwalker",%Nthough in her case, a more apt descriptions would%Nhave been "kind of like a drunkard." Of course, it's%Npossible that Yuka is ignorant of her sudden change%Nof behavior when she's drunk...
+On the first morning of the camp, in order to hide her%Nembarrassment of bursting into Makoto's room, Yuka%Nstates that she was 「kind of like a sleepwalker」,%Nthough in her case, a more apt descriptions would%Nhave been 「kind of like a drunkard.」 Of course, it's%Npossible that Yuka is ignorant of her sudden change%Nof behavior when she's drunk...
 
 ;8424;8;デジャヴ
 Déjà vu
@@ -8216,16 +7919,16 @@ Déjà vu
 The feeling that you've seen an event before.%NSpecifically, its the feeling you get when you feel that%Nyou've experienced it before, though you've%Nsupposedly never have. A characteristic typical of%Ndéjà vu is that, despite this feeling, you generally%Ncan't recall if it's related to a past experience you've%Nonce went through.
 
 ;842c;208;その『過去の経験』を夢で見ていたと%N感じる場合もあるが、%Nその夢を見たということ自体が、そう思いたい自分が%N生み出した架空の記憶であることも多々あり、%Nつくづく人の脳の深淵さを%N思い知らせてくれる事象である。
-There are also cases where this "past experience"%Nfeels like a dream, a hazy memory that you can barely%Nmake out. Other times, you feel like you've dreamed%Nabout them. Often, however, one only believes that%Nbecause they want to think it's just a dream. It's a%Nphenomenon that shows how complex the human brain%Nis.
+There are also cases where this 「past experience」%Nfeels like a dream, a hazy memory that you can barely%Nmake out. Other times, you feel like you've dreamed%Nabout them. Often, however, one only believes that%Nbecause they want to think it's just a dream. It's a%Nphenomenon that shows how complex the human brain%Nis.
 
 ;8438;6;第六感
 Sixth Sense
 
 ;843c;228;人が外界を認識するために使う、五つの感覚＝五感%N（視覚、聴覚、触覚、味覚、嗅覚）に続くとされる、%N六つ目の感覚のこと。%N予知能力など、超能力と言って差し支えない能力、%N広義でとらえれば、いわゆる『カン』も%N第六感であるとされる。
-Is considered to be the sixth sensation out of the five%Nsenses (sight, hearing, touch, taste, smell) that%Nhumans use to recognize the physical world, were it to%Ncontinue. Thought to be a supernatural ability such as%Nprecognition or ESP, if we were to use a broader sense%Nof the word, this sixth sense would be known as a form%Nof "intuition".
+Is considered to be the sixth sensation out of the five%Nsenses (sight, hearing, touch, taste, smell) that%Nhumans use to recognize the physical world, were it to%Ncontinue. Thought to be a supernatural ability such as%Nprecognition or ESP, if we were to use a broader sense%Nof the word, this sixth sense would be known as a form%Nof 「intuition」.
 
 ;8440;278;第六感の存在は科学的、医学的には証明されて%Nいないが、古来から『虫の知らせ』などという言葉が%Nあるように、一概に否定できるものでもないだろう。%N当初、誠は自分の身に起きる『不可解な現象』を%N第六感の仕業ではないかとも考えたが、%N実際は、もっと恐ろしい事態に巻き込まれており……。
-The existence of the sixth sense is both scientifically%Nand medically unproven, but as words such as%N"foreboding" have existed since ancient times, it%Nprobably cannot be unconditionally denied, either. At%Nfirst, Makoto thought that the "mysterious%Nphenomenon" occuring to his own body could be the%Nact of a so-called sixth sense, but in reality, he had%Ngotten involved in a much more terrifying situation...
+The existence of the sixth sense is both scientifically%Nand medically unproven, but as words such as%N「foreboding」 have existed since ancient times, it%Nprobably cannot be unconditionally denied, either. At%Nfirst, Makoto thought that the 「mysterious%Nphenomenon」 occuring to his own body could be the%Nact of a so-called sixth sense, but in reality, he had%Ngotten involved in a much more terrifying situation...
 
 ;844c;8;予知能力
 Premonition Power (Precognition)
@@ -8237,8 +7940,7 @@ The ability to know, in advance, things that will occur in%Nthe future. To use t
 Also, around the year 2000, a man named John Titor,%Nclaiming to have come from the year 2036, appeared%Non the internet, and left topics behind with many%Npredictions of the future. If time travel really is%Npossible, then those who come from the future could%Nbe called prophets. Yes... just like Makoto...
 
 ;8460;16;エイプリルフール
-April Fool's
-
+;dupe:20cc
 ;8464;290;またの名を４月バカ。毎年４月１日だけは、%N（公序良俗に反しない範囲で）人に嘘をついて%Nからかってもいい日とされているが、%N実はその起源は明らかになっていない。%Nとはいえ、人の夢の中まで騙せるわけもなく、%N誠は皮肉にもエイプリルフールの日に見た%N非現実的な夢を避けるために奔走することとなる。
 A holiday that takes place every year on April 1st,%Nwhere people lie And play pranks on each other. Of%Ncourse, no laws or moral codes are broken in doing so.%NThe holiday’s origins are unclear. That said, although%Nit's impossible for people's dreams to play pranks on%Nthem, it is rather ironic that Makoto had his dream on%NApril Fool's Day, and has put in a lot of effort into trying%Nto prevent it from occurring ever since.
 
@@ -8246,16 +7948,16 @@ A holiday that takes place every year on April 1st,%Nwhere people lie And play p
 Toro
 
 ;8474;344;マグロの身の中で、とりわけ脂質が多い%N腹部の肉を指す。%N語源はその食感がトロリとしているからだと%Nいわれている。%Nあくまでも特定部位の肉を意味するので、%N生きたマグロを指してトロというのは、%N生きた牛を指してビーフというのと同様、%Nどちらも誤りである。%N余談だが、このシリーズ恒例のマグロネタ。%Nすべては優夏の『例の発言』から始まったのだ……。
-The inside of a tuna, especially the excessive fat of%Nthe tuna's stomach meat. The root of the name is said%Nto come from the thickness (torori) of its texture.%NCalling live tuna "toro" is a mistake. It's like calling a%Nliving cow "beef"; the term only refers to the specific%Nportion of meat. It is custom for every game in this%Nseries to feature a "tuna" in some form. It all started%Nwith Yuka's "proposal"...
+The inside of a tuna, especially the excessive fat of%Nthe tuna's stomach meat. The root of the name is said%Nto come from the thickness (torori) of its texture.%NCalling live tuna 「toro」 is a mistake. It's like calling a%Nliving cow 「beef」; the term only refers to the specific%Nportion of meat. It is custom for every game in this%Nseries to feature a 「tuna」 in some form. It all started%Nwith Yuka's 「proposal」...
 
 ;8480;4;偶然
 Coincidence
 
 ;8484;320;因果関係がなく、%N起こる必然性が感じられない出来事のこと。%N対義語は必然。%Nだが、その出来事を実際に味わった者には%N偶然と感じられても、ラプラスの提唱する%Nラプラスの悪魔のような存在を仮定すれば、%Nその者にとってはそれは必然となってしまう。%N一時期テレビをもてはやした、%Nどっきりカメラを想像してもらえると分かりやすい。
-An event with no causal relationship whose%Noccurrence does not feel inevitable. In fact,%N"inevitable" would be an antonym of the word. But even%Nif it feels like it was a coincidence, there are people%Nwho believe that there is actual meaning in its%Noccurrence. For example, if one believes in the%Nexistence of "Laplace's Demon", proposed by Laplace%Nhimself, then to them person, the occurrence of that%Nevent was actually inevitable.
+An event with no causal relationship whose%Noccurrence does not feel inevitable. In fact,%N「inevitable」 would be an antonym of the word. But even%Nif it feels like it was a coincidence, there are people%Nwho believe that there is actual meaning in its%Noccurrence. For example, if one believes in the%Nexistence of 「Laplace's Demon」, proposed by Laplace%Nhimself, then to them person, the occurrence of that%Nevent was actually inevitable.
 
 ;8488;358;驚かされる側にとっては『偶然』かもしれないが、%N驚かす側にとってはそれは『必然』なのである。%N語を使う主体によって意味が変わる、%N非常に定義が難しい語であるといえる。%Nトランプの絵柄をピタリと当て続けた誠……。%Nあれは偶然だったのか、必然だったのか。%N必然だったとしたら、誠は絵柄を『知って』いたのか、%Nそれとも『決めた』のか。%N未だ興味の尽きぬ問題である。
-For those who watch TV, think of it like a Candid%NCamera-esque prank, where a series of apparent%Ncoincidences turn out to have been planned ahead of%Ntime. To the ones being surprised, it might be a%N"coincidence", but to the pranksters, it is an%N"inevitability". Makoto kept getting correct pairs in the%Ncard game... was it a coincidence, or an inevitability? If%Nit was an inevitability, then did Makoto "know" which%Ncards were which, or did he "decide" it? That still%Nremains a mystery.
+For those who watch TV, think of it like a Candid%NCamera-esque prank, where a series of apparent%Ncoincidences turn out to have been planned ahead of%Ntime. To the ones being surprised, it might be a%N「coincidence」, but to the pranksters, it is an%N「inevitability」. Makoto kept getting correct pairs in the%Ncard game... was it a coincidence, or an inevitability? If%Nit was an inevitability, then did Makoto 「know」 which%Ncards were which, or did he 「decide」 it? That still%Nremains a mystery.
 
 ;8494;4;護符
 Talisman
@@ -8270,31 +7972,30 @@ A kind of so-called charm that is believed to defend%Noneself against disasters.
 UFO Summoning Ritual
 
 ;84ac;218;一番有名なものは、数人で手をつないで円陣を組み%N『ベントラ ベントラ スペースピープル』と%N唱え続ける。%N宇宙人に英語が通じるのか……%Nと考えては負けである。%N少しくらい怪しいと思っても、%Nまずは信じることが重要である。
-The most famous one is for several people to join%Nhands, form a circle, and continuously chant, "Ventura,%Nventura, space people." Can aliens understand%NEnglish...? You'll lose if you think that way. People may%Nthink it's at least a little dubious, but it's vital to keep%Nan open mind.
+The most famous one is for several people to join%Nhands, form a circle, and continuously chant, 「Ventura,%Nventura, space people.」 Can aliens understand%NEnglish...? You'll lose if you think that way. People may%Nthink it's at least a little dubious, but it's vital to keep%Nan open mind.
 
 ;84b0;262;だがもちろんのこと、この儀式によってＵＦＯ、%Nもしくは宇宙人とコンタクトを取れたという%N実例の報告はない。%N月浜に車座になって座っていた誠らを見て、%Nすぐに『ＵＦＯを呼ぶ儀式』を連想するくるみ。%N察するに、彼女は実際に儀式を執り行ったことが%Nあるのかもしれない。
-Of course, there have been no illustrated reports of%Never coming into contact with UFOs or aliens by means%Nof this ritual. When she saw Makoto and the others%Nsitting in a circle, Kurumi was instantly reminded of an%N"UFO summoning ritual". It's only a guess, but maybe%Nshe's actually held one of these rituals before.
+Of course, there have been no illustrated reports of%Never coming into contact with UFOs or aliens by means%Nof this ritual. When she saw Makoto and the others%Nsitting in a circle, Kurumi was instantly reminded of an%N「UFO summoning ritual」. It's only a guess, but maybe%Nshe's actually held one of these rituals before.
 
 ;84bc;6;神隠し
-Spirited Away
-
+;dupe:22e8
 ;84c0;302;古来の日本では、なんの前触れもなく%N人が失踪したり、行方不明になったりすることを%N神隠しと呼んで恐れた。%Nその背景には、山や森などを神格化して畏れ敬う、%N自然崇拝の考えが色濃くあるものと見られる。%N過去の記録をひも解くと、神隠しにあった人間は、%Nその後、再び人々の前に帰ってくる例も%Nあったとされる。%N
 Spiriting away is a term used throughout Japanese%Nhistory to describe unexplained vanishings. This belief%Nis thought to be heavily influenced by animism, where%Nthe mountains and forests are deified and respected%Nout of fear. Close examination of historical records%Nreveals that there were times where people who had%Nbeen spirited away later returned.
 
 ;84c4;374;少し見方を変えれば、ある日こつ然と姿を消した%N浦島太郎も、彼に近しい者達にとっては%N神隠しも同然であったかもしれない。%N『くるみの神隠し事件』に見舞われた守野夫妻や。%Nいづみの心境を思うと、察するに余りある。%Nのちに、いづみが科学の道を志して成功するのは、%N非科学的で悪夢のような体験が%N原動力となっていたのかもしれない。%Nすべては真実を解き明かし、くるみを救うために……。
-When Rip van Winkle suddenly disappeared, perhaps%Nhis family and friends had thought he had been%Nspirited away. It would be nearly impossible to imagine%Nthe Morino family's mental state after Kurumi's "spirited%Naway" incident. The driving force behind Izumi's%Nsuccess in traveling down the path of science might%Nironically be attributed to this unscientific, nightmarish%Npersonal experience of hers. It was to be able to%Nexplain the truth behind the incident in order to help%Nher sister...
+When Rip van Winkle suddenly disappeared, perhaps%Nhis family and friends had thought he had been%Nspirited away. It would be nearly impossible to imagine%Nthe Morino family's mental state after Kurumi's 「spirited%Naway」 incident. The driving force behind Izumi's%Nsuccess in traveling down the path of science might%Nironically be attributed to this unscientific, nightmarish%Npersonal experience of hers. It was to be able to%Nexplain the truth behind the incident in order to help%Nher sister...
 
 ;84d0;2;心
 Heart/Kokoro
 
 ;84d4;336;体の中のどこかにあり、人間の精神作用や%N感情を生み出す元として考えられているもの。%N心臓にあると考えられていた時代もあり、%N英単語の『ｈｅａｒｔ』が心を意味すると同時に%N心臓を意味するのはその名残であるといえる。%N今日、心はどこにあるのかと言われれば、%Nその最有力候補はやはり脳であると思われるが、%N医学的に解明されているわけではない。
-In Japanese, "kokoro", or "heart", refers to a place%Nsomewhere in the body that can be thought to be the%Nsource of logic and emotion. It's similar to the concept%Nof a "soul". In the past, the "heart" was thought to be%Nlocated in the heart (the organ, which is called%N"shinzou" in Japanese). As a remnant of this, the word%N"heart" refers to both the concept and the organ in%NEnglish.
+In Japanese, 「kokoro」, or 「heart」, refers to a place%Nsomewhere in the body that can be thought to be the%Nsource of logic and emotion. It's similar to the concept%Nof a 「soul」. In the past, the 「heart」 was thought to be%Nlocated in the heart (the organ, which is called%N「shinzou」 in Japanese). As a remnant of this, the word%N「heart」 refers to both the concept and the organ in%NEnglish.
 
 ;84d8;174;また、実態がまったく明らかになっていないにも%N関わらず、その病気の存在だけは認知されており%N（一般的に精神疾患と呼ばれる）、%N治し方までもがある程度確立しているのが興味深い。
-Today, if you were to ask where the "heart" is, the%Nanswer you'd likely get would be "the brain", but even%Ndoctors can't clarify this. Despite that there is no%Nscientific evidence of its existence, at the very least,%Nthe existence of illnesses associated with it (known%Nas mental illnesses), have been acknowledged.%NInterestingly enough, that field has gone far, to the%Nextent that the study of treatment methods for these%Nillnesses is a very prominent field.
+Today, if you were to ask where the 「heart」 is, the%Nanswer you'd likely get would be 「the brain」, but even%Ndoctors can't clarify this. Despite that there is no%Nscientific evidence of its existence, at the very least,%Nthe existence of illnesses associated with it (known%Nas mental illnesses), have been acknowledged.%NInterestingly enough, that field has gone far, to the%Nextent that the study of treatment methods for these%Nillnesses is a very prominent field.
 
 ;84dc;276;ただし、『心がない』と称する人間に対しての治療法はあるのだろうか？%N心のありかがハッキリしない以上、%N本当に『ない』かどうかを調べる（診察する）ことさえできない。%Nまるで、悪魔の不在を証明しなければならないような難問だ。%N誠が答えに窮するのも無理はない。%Nとりあえず、頑張れ。
-However, are there any treatment methods for%Nsomeone who claims that they have "no heart"? As%Nlong as it's not clear if a heart actually exists, there is%Nno way to medically examine whether or not they%N"don't" have one. It's a difficult problem that's similar to%Nthe Devil's Proof, and only natural that Makoto is at a%Nloss for an answer. At any rate, good luck.
+However, are there any treatment methods for%Nsomeone who claims that they have 「no heart」? As%Nlong as it's not clear if a heart actually exists, there is%Nno way to medically examine whether or not they%N「don't」 have one. It's a difficult problem that's similar to%Nthe Devil's Proof, and only natural that Makoto is at a%Nloss for an answer. At any rate, good luck.
 
 ;84e8;8;竹取物語
 Tale of the Bamboo Cutter
@@ -8303,7 +8004,7 @@ Tale of the Bamboo Cutter
 Japan's oldest folktale, its age and author both%Nunknown. In it, Taketori-no-Okina took a baby out of a%Nshining bamboo stalk and named her Princess Kaguya,%Nwho grew up into a beautiful woman. Though she had%Nmany suitors, she refused them all, and once it became%Nclear she could never marry, she ended up returning%Nto her birthplace on the Capital of the Moon.
 
 ;84f0;310;かぐや姫や竹取の翁は架空の人物だが、作品中には%N実在の人物も登場しており、%N彼らの生きた時代を鑑みて、作中の時代設定は%N奈良時代であろうと推測されている。%Nやはり遙は、自分の境遇とかぐや姫を%N重ね合わせていたのだろうか？%Nだとすると、さしずめ誠と億彦は、%Nかぐや姫の無理難題を課せられた%N求婚者というところか。
-Princess Kaguya and Taketori-no-Okina are fictional%Ncharacters, but just as they existed inside the world%Nof the story, it is thought that they "existed" in the%NNara era, a guess taken from details inside the story.%NPerhaps Haruka's own circumstances overlap with%Nthose of Princess Kaguya's? If that's the case, then%Nperhaps Makoto and Okuhiko can be compared to the%Nsuitors who were given unreasonable demands by%NPrincess Kaguya.
+Princess Kaguya and Taketori-no-Okina are fictional%Ncharacters, but just as they existed inside the world%Nof the story, it is thought that they 「existed」 in the%NNara era, a guess taken from details inside the story.%NPerhaps Haruka's own circumstances overlap with%Nthose of Princess Kaguya's? If that's the case, then%Nperhaps Makoto and Okuhiko can be compared to the%Nsuitors who were given unreasonable demands by%NPrincess Kaguya.
 
 ;84fc;8;クローン
 Clone
@@ -8312,13 +8013,13 @@ Clone
 A group of cells created by means of asexual%Nreproduction that have the exact same genetic%Ninformation as its parent (Original). Also used to refer%Nto a cloned human who is born due to this method.
 
 ;8504;404;作中では、２０１０年に起きた『クローン裁判』が%Nきっかけで世論の風向きが変わり、%N人間のクローン受精が解禁されているが、%N現実では日本で制定されている、%N『ヒトに関するクローン技術等の規制に関する法律』%Nをはじめ、世界的に人間のクローンを作ることは%N禁じられている。%Nもし、優秀な人間の持つ遺伝子がクローン技術で%N最大限に活用されるような世界になってしまったら、%N遺伝子による新たな差別が生まれてしまう。
-In the story, the "Clone Trial" of 2010 begun a total%Nturnabout in public opinion, causing the lift of the ban%Non the fertilization of human clones. In reality, Japan%Nhas laws related to the "restriction of the use of%Ncloning technology concerning humans", and%Ninternationally, the creation of human clones is%Nprohibited. Perhaps if cloning technology was%Nmaximized with humans who had superior genes, it%Ncould lead to the birth of a new discrimination based%Naround one's genes.
+In the story, the 「Clone Trial」 of 2010 begun a total%Nturnabout in public opinion, causing the lift of the ban%Non the fertilization of human clones. In reality, Japan%Nhas laws related to the 「restriction of the use of%Ncloning technology concerning humans」, and%Ninternationally, the creation of human clones is%Nprohibited. Perhaps if cloning technology was%Nmaximized with humans who had superior genes, it%Ncould lead to the birth of a new discrimination based%Naround one's genes.
 
 ;8510;6;無縁仏
 Muenbotoke
 
 ;8514;286;ここでいう仏とは、死者を指す隠語。無縁仏とは、%N何らかの理由で供養してくれる親類や縁者が%Nいなくなってしまった死者のことをいう。%N転じて、身元が不明なままである死者も%N無縁仏であるといえる。%N時間に囚われ、未来に置いてきた（？）自分の遺体も、%Nある意味では無縁仏といえるのかもしれない。
-Japanese slang for a dead person.%NSpecifically, a muenbotoke is one who passed away%Nand has no relatives or immediate family to give them a%Nmemorial. Alternatively, an unidentifiable body can also%Nbe called a muenbotoke. Perhaps in the far future we%Nare all fated to be muenbotoke, when even our names%Nare ceased to be remembered. The word is written with%Nthree characters: "Mu" (無), meaning "nothing", "En" (縁)%Nmeaning "relations/bonds", and "botoke"(仏), meaning%N"the dead".
+Japanese slang for a dead person.%NSpecifically, a muenbotoke is one who passed away%Nand has no relatives or immediate family to give them a%Nmemorial. Alternatively, an unidentifiable body can also%Nbe called a muenbotoke. Perhaps in the far future we%Nare all fated to be muenbotoke, when even our names%Nare ceased to be remembered. The word is written with%Nthree characters: 「Mu」 (無), meaning 「nothing」, 「En」 (縁),%Nmeaning 「relations/bonds」, and 「botoke」 (仏), meaning%N「the dead」.
 
 ;8520;8;フナムシ
 Sea Roach
@@ -8330,13 +8031,13 @@ A species of Crustacea: Isopoda that can been seen%Nall over the world on the be
 Theory of Relativity
 
 ;8534;422;ドイツの物理学者アルバート・アインシュタインが%N提唱した、特殊相対性理論と一般相対性理論の総称。%N一般的に有名なのは、%N特殊相対性理論で提唱されていた%N『光速に近づけば近づくほど時間の流れが遅くなる』%N『物質は光速を超えられない』などがある。%NＳＦ作品などで、何十年も宇宙を航行していた%N宇宙飛行士がほとんど年を取らずに帰ってくる%N描写は多くの人が目にしたことがあるだろう。%Nあれは、この相対性理論にもとづくものである。%N
-A term used for both the special theory of relativity%Nand the general theory of relativity proposed by%NA. Einstein. The famous special theory of relativity%Nproposes "The closer something gets to the speed of%Nlight, the slower the flow of time is for it" and "A%Nsubstance cannot exceed the speed of light". Many%Nwere exposed to sci-fi works depicting astronauts%Nwho flew in space for many years, and return home%Nhaving barely aged. This is an example of the Theory%Nof Relativity at work.
+A term used for both the special theory of relativity%Nand the general theory of relativity proposed by%NA. Einstein. The famous special theory of relativity%Nproposes 「The closer something gets to the speed of%Nlight, the slower the flow of time is for it」 and 「A%Nsubstance cannot exceed the speed of light」. Many%Nwere exposed to sci-fi works depicting astronauts%Nwho flew in space for many years, and return home%Nhaving barely aged. This is an example of the Theory%Nof Relativity at work.
 
 ;8538;336;この相対性理論を宇宙に当てはめると、%N宇宙は縮小か膨張を続けているという解が%N得られるのだが、自分で提唱しておきながら%Nこの解が信じられなかったアインシュタインは、%N宇宙が不変であり続けられるような解になる%N『宇宙定数』を新たに提唱したが、%N後年、宇宙が本当に膨張し続けていると判明。%N『生涯最大の失敗をした』と語ったエピソードは有名。
-When applying this Theory of Relativity to the universe,%Nwe can begin to understand the continuous reduction%Nor expansion of it. But although Einstein proposed this%Nhimself, he didn't believe in this. He created a new%Nproposal, the "cosmological constant" as a solution%Nfor his enduring belief that the universe was%Nunchanging. However, it was proven years later that%Nthe universe continues to expand. Einstein would later%Ncall the cosmological constant the "biggest blunder"%Nin his life.
+When applying this Theory of Relativity to the universe,%Nwe can begin to understand the continuous reduction%Nor expansion of it. But although Einstein proposed this%Nhimself, he didn't believe in this. He created a new%Nproposal, the 「cosmological constant」 as a solution%Nfor his enduring belief that the universe was%Nunchanging. However, it was proven years later that%Nthe universe continues to expand. Einstein would later%Ncall the cosmological constant the 「biggest blunder」%Nin his life.
 
 ;853c;342;誠は、優夏のタイムスリップ論を否定する時、%Nこの相対性理論の名前をあげた。%N相対性理論に従えば、『時間を遡るためには、%N光速を超える速度の運動が必要』となっている。%N実を言うと、理論上は時間軸も対称性をもっている%N（過去方向に進む軸もある）が、%Nそれ以前に、大原則として%N『物質は光速を超えられない』ので、%Nやはり過去には戻れないことになる。
-When Makoto denies Yuka's time travel theory, he%Nbrings up the name of the Theory of Relativity. If we%Nabide by the Theory of Relativity, then to go back in%Ntime, a time traveler needs to exceed the speed of%Nlight. In all honesty, if you consider the time axis and%Nsymmetry, it's theoretically possible to have an axis%Nthat advances to the past. But, as previously stated,%Nsince the general rule is "a substance cannot exceed%Nthe speed of light", it's believed to be impossible.
+When Makoto denies Yuka's time travel theory, he%Nbrings up the name of the Theory of Relativity. If we%Nabide by the Theory of Relativity, then to go back in%Ntime, a time traveler needs to exceed the speed of%Nlight. In all honesty, if you consider the time axis and%Nsymmetry, it's theoretically possible to have an axis%Nthat advances to the past. But, as previously stated,%Nsince the general rule is 「a substance cannot exceed%Nthe speed of light」, it's believed to be impossible.
 
 ;8540;260;しかし、よくよく考えてみれば、%N誠らは肉体ごと過去に戻ったわけではなく、%N記憶（精神？　心？）だけが%N４月１日に戻されただけである。%Nこれは、物質のクサビから解き放たれていることを%N意味するので、誠達の現象に相対性理論を%N持ち出すのはお門違いなのかもしれない。
 Though, if you think about it carefully, it's not like it's%NMakoto and Yuka's bodies that are traveling back in%Ntime; instead, only their memories (Their souls? Their%Nminds?) are returning to April 1st. Therefore, the%Nphenomenon Makoto and the others are going through%Nmight mean that bringing up the Theory of Relativity is%Ncompletely pointless.
@@ -8345,13 +8046,13 @@ Though, if you think about it carefully, it's not like it's%NMakoto and Yuka's b
 Infinite Loop
 
 ;8550;430;終わることなく、永久に同じことを繰り返すこと。%N誠にとっての４月１日〜４月６日の６日間。%N地球という惑星にも、そしてわれわれ人間にも、%Nいつの日か必ず寿命（＝終わり）が来る以上、%Nほぼ理論上でしか存在しえない概念だともいえる。%N本当の意味での無限には、その文字通り、%N『限り』があってはいけないので、%N終わりも始まりもあってはならない。%Nリピート設定したＣＤもボタンひとつで止まるように、%N始まりのある無限には、終わりがあるのだ。
-The same things repeating endlessly. To Makoto, this is%Nthe period of April 1st-April 6th. Everything must come%Nto an end, whether it's the life of a planet, or the life of%Na man. Thus, infinite loops are widely considered a%Ntheoretical concept. Etymologically, infinity comes from%N"in-" meaning not, and "finis-" meaning boundary; true%Ninfinity has no end, nor a beginning.%NHowever, just like a CD player on Repeat can be%Nstopped with a button, an "infinity" with a beginning%Nhas an end.
+The same things repeating endlessly. To Makoto, this is%Nthe period of April 1st-April 6th. Everything must come%Nto an end, whether it's the life of a planet, or the life of%Na man. Thus, infinite loops are widely considered a%Ntheoretical concept. Etymologically, infinity comes from%N「in-」 meaning not, and 「finis-」 meaning boundary; true%Ninfinity has no end, nor a beginning.%NHowever, just like a CD player on Repeat can be%Nstopped with a button, an 「infinity」 with a beginning%Nhas an end.
 
 ;855c;14;タイムスリップ
 Time Travel
 
 ;8560;226;われわれが認識しうる時間軸から外れ、%N瞬時に過去や未来へと移動すること。%Nタイムトリップ、タイムリープなどともいわれる。%NＳＦの父と呼ばれるイギリスの小説家%NＨ．Ｇ．ウェルズの著書『タイム・マシン』にて%N一般に広められた概念。
-To escape from the time axis that we are in, and move%Nto the past and/or future. There are several different%Nnames for this, such as a time trip, a time rip, or a time%Nslip. If we were to categorize the type of time travel%NMakoto felt he was experiencing, it would be a "time%Nslip". The general idea of this was propogated by the%Nnovel "The Time Machine", written by English author H.G.%NWells, "The Father of Science Fiction".
+To escape from the time axis that we are in, and move%Nto the past and/or future. There are several different%Nnames for this, such as a time trip, a time rip, or a time%Nslip. If we were to categorize the type of time travel%NMakoto felt he was experiencing, it would be a 「time%Nslip」. The general idea of this was propogated by the%Nnovel 「The Time Machine」, written by English author H.G.%NWells, 「The Father of Science Fiction」.
 
 ;8564;234;仮にタイムスリップが実現しても答えが出ない、%Nタイムスリップ独自の矛盾である、%Nタイムパラドックスが発生する危険を%Nはらんでいるので、タイムスリップは、%Nその実現方法を模索するよりは、%NＳＦ小説の題材として楽しむ方が賢いといえそうだ。
 Even if, for argument's sake, there was a clear answer%Non whether or not time travel is possible, because of%Nthe inconsistencies of the characterstics of time%Ntravel, the danger of a time paradox is still very%Npresent. As a result, sci-fi novels seem to enjoy%Nexploring different methods and solutions on how time%Ntravel could be possible.
@@ -8360,25 +8061,24 @@ Even if, for argument's sake, there was a clear answer%Non whether or not time t
 Butterfly Effect
 
 ;8574;250;些細な物事が、そこからさまざまなプロセスを経て、%N思いもよらない影響を及ぼすことの例え。%N語源は、『ブラジルでのバタフライ（蝶）の羽ばたきが%Nテキサスでトルネードを引き起こすか』という%N講演の題に由来する。%N日本では『風が吹けば桶屋が儲かる』が近い。
-An example to show how even trivial things and%Ndecisions through various events can have%Nunexpected effects on things. The name is derived%Nfrom the theme of the lecture it originated from: "Does%Nthe flap of a butterfly's wings in Brazil set off a%Ntornado in Texas?" This is similar to the Japanese%Nphrase, "When the wind blows, the barrel makers%Nprosper".
+An example to show how even trivial things and%Ndecisions through various events can have%Nunexpected effects on things. The name is derived%Nfrom the theme of the lecture it originated from: 「Does%Nthe flap of a butterfly's wings in Brazil set off a%Ntornado in Texas?」 This is similar to the Japanese%Nphrase, 「When the wind blows, the barrel makers%Nprosper」.
 
 ;8578;316;優夏は無限ループに絶望した誠を、%Nこのバタフライ効果を例にあげて励ました。%Nアドベンチャーゲームにおいても、%N選択肢をひとつ間違えるだけで、%Nさまざまなプロセスを経て、結末が喜劇か悲劇かに%N決定的に分岐する。%Nそれもまた、このバタフライ効果のせい……%Nかどうかは知らないが、%Nくれぐれも軽々しく選んだりしないように。
 Yuka used this example to cheer up Makoto, who had%Nfallen into despair from the infinite loop. Even in visual%Nnovels does making one wrong choice cause various%Nevents to occur that will create a decisive split%Nbetween a comedic and tragic conclusion. This also%Nthe fault of the butterfly effect... we don't know whether%Nthat's true or not, but we sincerely hope that you don't%Nmake choices lightly.
 
 ;8584;8;ラプラス
-Laplace
-
+;dupe:1c30
 ;8588;426;ピエール＝シモン・ラプラス。フランスの数学者。%N１７４９年３月２３日生まれ、１８２７年３月５日没。%N今より未来に起きる現象は、すべてがこれまでに%N起きたことに起因すると主張した決定論者。%Nその考え方のもと、この世における%Nすべての物質の状態を知る超越的存在がいると%N仮定すれば、彼にとって不確実なことは何一つない、%Nと主張した。%Nラプラス自身はその超越的存在を知性と呼んだが、%N一般的に『すべてを知る全能の存在』は神と言う。%N
 Pierre-Simon Laplace, a French mathematician. Born on%NMarch 23rd, 1749, and died on March 5th, 1827. An%Nadvocate of determinism, the idea that the%Nphenomenons occuring from now into the future had all%Nbeen caused by incidents that occured beforehand.%NThe origins of this way of thinking came from the claim%Nthat if we assume that there is a transcendental%Nexistence that knows the states of everything in this%Nworld, then to it, everything would already been%Npredetermined.
 
 ;858c;296;後年、学問に神の概念を持ち込むなとばかりに、%N原子の動きのすべてを知ることは、%Nいかなる存在であっても不可能であると判明した。%N学生時代のいづみが『澄空のラプラス』と%N呼ばれていたのは、このラプラスの悪魔のように%N何でもお見通しであったからであると思われる。%N本当にそう呼ばれていたら、の話だが。
-Laplace called that existence an "intellect", but%Ngenerally, an "ominpotent existence that knows%Neverything" is called "God". Later, taking into account%Nthe concept of a god, he claimed that if a being who%Nknew the state of every atom existed, it couldn't be%Nconfirmed. It can be thought that Izumi was called%N"Sumisora's Laplace" in her student days because%Nshe could see through and predict anything, like%NLaplace's Demon. That is, if her story is true and she%Nwas actually called that.
+Laplace called that existence an 「intellect」, but%Ngenerally, an 「ominpotent existence that knows%Neverything」 is called 「God」. Later, taking into account%Nthe concept of a god, he claimed that if a being who%Nknew the state of every atom existed, it couldn't be%Nconfirmed. It can be thought that Izumi was called%N「Sumisora's Laplace」 in her student days because%Nshe could see through and predict anything, like%NLaplace's Demon. That is, if her story is true and she%Nwas actually called that.
 
 ;8598;6;決定論
 Determinism
 
 ;859c;336;この世界で起こる物事は、全て何らかの事象によって%N定められているものとする考え方。%Nここでいう何らかの事象とは、%N時には神の意思であったり、%N因果応報という考え方を引き合いに出すなら、%N前世の行いであったりする。%Nあなたが本作をプレイして、この項目を見ることすら、%Nすでに定められていたことだとしたら……。%Nあなたは信じられるだろうか。
-A way of thinking that states that everything occuring%Nin this world has been predetermined by some kind of%Nphenomenon. This "some kind of phenomenon", has at%Ntimes been called things like "the will of God", or,%Naccording to the concept of karma, is the result of%Nsome action conducted in one's past life. Perhaps you%Nplaying this game and reading this TIP had already%Nbeen predetermined... Do you believe that?
+A way of thinking that states that everything occuring%Nin this world has been predetermined by some kind of%Nphenomenon. This 「some kind of phenomenon」, has at%Ntimes been called things like 「the will of God」, or,%Naccording to the concept of karma, is the result of%Nsome action conducted in one's past life. Perhaps you%Nplaying this game and reading this TIP had already%Nbeen predetermined... Do you believe that?
 
 ;85a8;12;メビウスの輪
 Möbius Strip
@@ -8387,7 +8087,7 @@ Möbius Strip
 A twisted ring with no front or back, made by bending a%Nrectangle once in a long belt-shape, and pasting the%Nends together. Discovered in 19th century Germany.%NFor example, if you begin to trace the front, it becomes%Nthe back before you even notice it, and if you try to%Ntrace the back, before you know it, it becomes the%Nfront. From the fact that this repeats endlessly, or that%Nits shape resembles the symbol for infinity (∞), it's%Noften used as an metaphor for things that have no%Nend.
 
 ;85b0;230;しかし、メビウスの輪自体は、紙とノリで%N簡単に作れることからもわかるように有限である。%Nこれでもまだビジュアルがイメージできない人は、%N本作のタイトルロゴをご覧頂きたい。%NＮｅｖｅｒ７の後ろにある図形こそが、%Nメビウスの輪である。
-However, considering how it can easily be constructed%Nwith paper or seaweed, we can understand that the%Nmöbius strip itself is finite. For those of you who still%Ncan't visualize what this looks like, look no farther than%Nthe title logo of this game. The shape behind the words%N"Never7" is a möbius strip.
+However, considering how it can easily be constructed%Nwith paper or seaweed, we can understand that the%Nmöbius strip itself is finite. For those of you who still%Ncan't visualize what this looks like, look no farther than%Nthe title logo of this game. The shape behind the words%N「Never7」 is a möbius strip.
 
 ;85bc;12;酒は百薬の長
 Good Wine Makes Good Blood
@@ -8405,10 +8105,10 @@ Time Paradox
 A change in the past created by time travel that%Ncauses a contradiction. The most famous example of%Nthis is if you were to go back in time via time travel and%Nkill your parents. If you did that, then you couldn't have%Nbeen born, and if you weren't born into this world, then%Nyou couldn't have existed to go back in time and kill%Nyour parents in the first place. ... That's how it goes.
 
 ;85d8;308;このタイムパラドックスの矛盾を%N説明するものとして、過去を改変した瞬間に、%Nその過去を正史とする別世界が%N生まれるものとする『パラレルワールド』の概念、%N量子力学の『多世界解釈』の概念、%Nそもそも過去は改変できず、%Nあるべき歴史の矯正力が働くなど、%N様々な考えが挙げられるが、%N当然、どれも推測の域を出ない。
-One way to explain this contradiction is that the%Nmoment a change is made to the past, another world%Ndifferent from the "original" world is born. This is known as%Nthe concept of a "parallel world", which relates%Nto the quantum mechanics concept known as the%N"Many-Worlds Interpretation". This brings up many%Nquestions, such as if there's a power that can correct%Nhistory into an ideal one, or if you could change%Nhistory in the first place, but naturally, it's all up to%Nconjecture.
+One way to explain this contradiction is that the%Nmoment a change is made to the past, another world%Ndifferent from the 「original」 world is born. This is known as%Nthe concept of a 「parallel world」, which relates%Nto the quantum mechanics concept known as the%N「Many-Worlds Interpretation」. This brings up many%Nquestions, such as if there's a power that can correct%Nhistory into an ideal one, or if you could change%Nhistory in the first place, but naturally, it's all up to%Nconjecture.
 
 ;85dc;220;さて、本作の世界観においては、%Nタイムパラドックスの矛盾を解消するために、%Nどんな考えがふさわしいだろうか？%Nもし、あなたにとって最も納得のいく考えが%N見つかったとしたら……%N『それ』こそが、本作における『真実』である。
-Now then, what would be needed in order to negate the%Ncontradiction known as a time paradox in regards to%Nthis story's depiction of the world? If you discover the%Nmost comprehensible interpretation to you... Then%N"that" is the "truth" with regards to this story.
+Now then, what would be needed in order to negate the%Ncontradiction known as a time paradox in regards to%Nthis story's depiction of the world? If you discover the%Nmost comprehensible interpretation to you... Then%N「that」 is the 「truth」 with regards to this story.
 
 ;85e8;10;ダウジング
 Dowsing
@@ -8423,7 +8123,7 @@ When Kurumi looks for the bell, she walks with a wire%NL-rod in each hand held o
 Portmanteau
 
 ;8600;342;『竹やぶ焼けた（たけやぶやけた）』などのように、%N上から読んでも下から読んでも同じ発音にしたうえ、%Nかつ、文単体で意味が通るように書かれた文のこと。%N込み入った文であればあるほど、考え出すには%Nそれ相応のセンスや頭の回転が必要になる。%N即興で回文を作り上げられる優夏は%N称えられてしかるべきである。%N%N……悪酔いさえしていなければ、の話だが。
-The blending of two words to create a new word (such%Nas "smog", from "smoke" and "fog"). Yuka makes up%Nportmanteaus when drunk, combining a person's name%Nwith a food or drink.%N ... Then again, maybe it doesn't take much talent to%Ncome up with portmanteaus like that. In the Japanese%Nversion, Yuka came up with palindromes (spelled the%Nsame was forwards and backwards, like "Rats live on%Nno evil star"): "Kurumi to hoto miruku" and "Yaketai%NIshihara wa shiitake ya".
+The blending of two words to create a new word (such%Nas 「smog」, from 「smoke」 and 「fog」). Yuka makes up%Nportmanteaus when drunk, combining a person's name%Nwith a food or drink.%N ... Then again, maybe it doesn't take much talent to%Ncome up with portmanteaus like that. In the Japanese%Nversion, Yuka came up with palindromes (spelled the%Nsame was forwards and backwards, like 「Rats live on%Nno evil star」): 「Kurumi to hoto miruku」 and 「Yaketai%NIshihara wa shiitake ya」.
 
 ;860c;12;エルニーニョ
 El Nino
@@ -8432,16 +8132,16 @@ El Nino
 The abnormal rising of the sea's temperature%Nin the vicinity of the Equator, located in the South Pacific%Nnear South America. As a result of its occurrence, it%Nbrings out a change in atmospheric pressure, causing%Na meteorological phenomenon. When El Nino occurs,%Nphenomena such as long rainy seasons, cool%Nsummers, and mild winters can be seen in Japan. El Nino%Nis Spanish for Baby Jesus, and was named that%Nbecause the phenomenon usually occurs around%NChristmas time in the South Pacific.
 
 ;8614;314;エルニーニョを初めて見た人達は、%Nそれまでの経験では説明しえない自然の神秘に、%Nキリストに通ずるものを見出したのかもしれない。%Nところで、この『エルニーニョ』という言葉は%N結構発音しにくい。%N漁師の源さんのように横文字が苦手な人には%N『えるにょーにょ』とか『えろにーにょ』とか、%N言い間違えても仕方ない……と思う。
-The first people to witness El Nino were perhaps so%Nawestruck by its natural mystery that they likened it to%NChrist. I digress, but the phrase "El Nino" is quite hard%Nto pronounce in Japanese. People like the fisherman%NGen-san, who have a hard time reading European%Nlanguages, might mistake its pronunciation for things%Nlike "El Nyo Nyo" or "Ero Ninyo"... I guess?
+The first people to witness El Nino were perhaps so%Nawestruck by its natural mystery that they likened it to%NChrist. I digress, but the phrase 「El Nino」 is quite hard%Nto pronounce in Japanese. People like the fisherman%NGen-san, who have a hard time reading European%Nlanguages, might mistake its pronunciation for things%Nlike 「El Nyo Nyo」 or 「Ero Ninyo」... I guess?
 
 ;8620;18;トンビがタカを生む
 The Apple Doesn't Fall Far From The Tree
 
 ;8624;324;平凡な両親が優秀な子どもを生むことの例え。%Nトンビ（鳶）は他にも、卑しい者でもたたずまい次第で%N上品に見えることにたとえて、%N『トンビも居ずまいからタカに見える』などといわれ、%Nことわざの世界ではロクな扱いを受けていない。%Nその理由は、時にはカラスに追いやられたりもする%Nトンビが、実はタカ目タカ科に属するからかもしれない。
-An idiom used to describe a striking similarity, physical%Nand/or behavioral, of a child to their parents. If the%Napple doesn't fall far from the tree, then it (meaning the%Nchild) will end up like its parents; it's like "like father, like%Nson" or "like mother, like daughter". Originates from 16th%Ncentury Germany, where residents were known to say%N"Der Apfel fllt nicht weit vom Baum" as early as 1554,%Nas seen in the "Bergpostilla", a collection of sermons%Npublished in 1562.
+An idiom used to describe a striking similarity, physical%Nand/or behavioral, of a child to their parents. If the%Napple doesn't fall far from the tree, then it (meaning the%Nchild) will end up like its parents; it's like 「like father, like%Nson」 or 「like mother, like daughter」. Originates from 16th%Ncentury Germany, where residents were known to say%N「Der Apfel fllt nicht weit vom Baum」 as early as 1554,%Nas seen in the 「Bergpostilla」, a collection of sermons%Npublished in 1562.
 
 ;8628;160;くるみは守野博士の娘である自分のことを、%N『トンビがタカを生む』ならぬ%N『タカがトンビを生む』と評したが、%Nくるみ本人が自分の才能に気づいていないだけといえる。
-Kurumi, as Professor Morino's daughter, says "the%Napple does fall far from the tree." In essence, she's%Nsaying she isn't as talented as her father, though she%Nmay just not realize her own talent.%N In the Japanese version, Kurumi said "a kite produced%Nby a hawk", referring to the two species of birds. The%Nidea is that while hawks are expert predators with%Ngreat eyesight, kites are lower in both areas.%NMetaphorically, it would mean "an ordinary child born of%Nremarkable parents".
+Kurumi, as Professor Morino's daughter, says 「the%Napple does fall far from the tree.」 In essence, she's%Nsaying she isn't as talented as her father, though she%Nmay just not realize her own talent.%N In the Japanese version, Kurumi said 「a kite produced%Nby a hawk」, referring to the two species of birds. The%Nidea is that while hawks are expert predators with%Ngreat eyesight, kites are lower in both areas.%NMetaphorically, it would mean 「an ordinary child born of%Nremarkable parents」.
 
 ;8634;26;塩を除去する為の専用の洗剤
 Salt Removal Detergent
@@ -8459,13 +8159,13 @@ Monthly Toolbox
 Many may think it strange and alien to them, but there%Nactually exists a monthly magazine that reports on the%Ntrends in the screw industry. Similarily, there are%Nmonthly magazines that just talk about stone and%Ncement concrete. However, those manufacturers who%Ndeal in these businesses are probably not surprised%Nto see these specialized magazines. What might be%Nsurprising is that there are people out there who%Nabsolutely enjoy those kinds of hobbies and read%Nthose kinds of magazines.
 
 ;8650;180;ところで、この雑誌が『とある海洋テーマパーク』の%N女子更衣室にあったという目撃証言がある。%N%Nネジ業界の専門誌を購読する%Nテーマパークの女性職員……。%Nここも驚いていいところかも。
-By the way, it's been said that this magazine has been%Nseen in the girl's locker room of "a certain underwater%Ntheme park". That there's a female theme park%Nemployee who has a subscription to magazine about%Nthe screw industry... that might be the most baffling%Nthing.
+By the way, it's been said that this magazine has been%Nseen in the girl's locker room of 「a certain underwater%Ntheme park」. That there's a female theme park%Nemployee who has a subscription to magazine about%Nthe screw industry... that might be the most baffling%Nthing.
 
 ;865c;12;縄のついた鈴
 Rope Bell
 
 ;8660;422;神社の拝殿に吊るされている、大きな鈴のこと。%Nお参りする時に鳴らすのは、%N神様の注意をこちらに引くため、%Nとも言われている。ちなみに、縄の正式名称は鈴緒、%N鈴の正式名称は本坪（ほんつぼ）鈴といい、%N仏壇屋や装束店など、神具を取り扱っている%N店舗を訪れれば、一般人でも購入することができる。%N奇しくも、司紀杜神社では『縄のついた鈴』が%N誠の注意を引き、結果として、『はるさめや……』の%N護符や、秘密の裏口の存在を知らしめた。
-A large bell hung in the hall of worship in a Shinto%Nshrine. It's said that if you ring the bell during a shrine%Nvisit, you announce your presence to the local deity.%NThe rope is called Suzuo, and the bell is called%NHontsubo. Buddhists and interior decorating stores%Nthat deal in ritual items can sell them to civilians.%NStrangely, the "rope bell" in the Shiki no Mori Shrine%Nattracted Makoto's attention, and so he discovered%Nthe "spring rain..." talisman and the secret rear%Nentrance.
+A large bell hung in the hall of worship in a Shinto%Nshrine. It's said that if you ring the bell during a shrine%Nvisit, you announce your presence to the local deity.%NThe rope is called Suzuo, and the bell is called%NHontsubo. Buddhists and interior decorating stores%Nthat deal in ritual items can sell them to civilians.%NStrangely, the 「rope bell」 in the Shiki no Mori Shrine%Nattracted Makoto's attention, and so he discovered%Nthe 「spring rain...」 talisman and the secret rear%Nentrance.
 
 ;866c;4;宇宙
 Universe
@@ -8477,19 +8177,19 @@ An endless, vast space that exists outside of the%NEarth's atmosphere that is th
 According to Einstein's Theory of Relativity, it seems%Nthat the universe is forever expanding. However, if it%Nwas created by the Big Bang, then what existed%Nbefore its creation and what's at the end of the%Nuniverse (Is there even an end to begin with?) are but%Ntwo of the many mysteries that still remain unsolved in%Nhumanity's quest to understand the origin of all things%Nin nature.
 
 ;8678;324;現代科学で説明ができないにも関わらず、%N非科学的と言われることはほとんどない%N不思議な空間である。%N日常生活の中では、ほとんど『宇宙』を%N意識することなどないと思うが、%N誠のように満天の星空を見上げた時、%N自分が大宇宙という時空の中に存在していることを、%N自分という存在の、あまりにも小さなことを%Nひしひしと思い知らされる。
-In spite of modern science being unable to explain%Nthem, there's almost no mysteries about space that%Ncan't be explained with science. People are almost%Nalways unaware of or never conscious of the%N"universe" in their everyday lives, but if you look up%Ninto the starry sky just as Makoto did, you'll realize%Nthat compared to the existence called the universe%Nthat lies in space time, your own existence is so%Nincredibly small.
+In spite of modern science being unable to explain%Nthem, there's almost no mysteries about space that%Ncan't be explained with science. People are almost%Nalways unaware of or never conscious of the%N「universe」 in their everyday lives, but if you look up%Ninto the starry sky just as Makoto did, you'll realize%Nthat compared to the existence called the universe%Nthat lies in space time, your own existence is so%Nincredibly small.
 
 ;8684;16;永遠の時間の流れ
 Eternal Flow of Time
 
 ;8688;346;時間という言葉の定義は実にさまざまである。%N人間が定めた時の長さを指すことがあれば、%N時刻のある一点を意味する場合もある。%N過去から現在、未来へと続く、%N世界に不可欠な構成要素として使われることもある。%NＳＦ作品などで見られる『時間が止まった世界』を%N想像してもらえれば分かるように、%N時間とはわれわれが物事の変化を%N認識するための概念である。%N
-There are actually various definitions of the word%N"time". If humans identify "time" as a determined length,%Nthen there are also cases where it also means a%Nspecific point in time. It is also used as an essential%Ncomponent of the world, from past to present,%Ncontinuing to the future. Time is a concept also used in%Norder to recognize the changes in everything; for%Nexample, in science fiction works and the like, without%Nthese constant changes, time is considered%N"stopped".
+There are actually various definitions of the word%N「time」. If humans identify 「time」 as a determined length,%Nthen there are also cases where it also means a%Nspecific point in time. It is also used as an essential%Ncomponent of the world, from past to present,%Ncontinuing to the future. Time is a concept also used in%Norder to recognize the changes in everything; for%Nexample, in science fiction works and the like, without%Nthese constant changes, time is considered%N「stopped」.
 
 ;868c;312;すなわち永遠の時間の流れとは、常になにかが%N変化し続ける世界であるということになる。%N宇宙はやがてどうなるのか、というのは%N諸説分かれるところではあるが、%Nある程度まで膨張したらやがて一点に収縮し、%N再びビッグバン爆発を起こすという仮説%N『ビッグクランチ』が真実であれば、%N永遠の時間の流れは実在するといえる。%N
-In other words, the eternal flow of time implies that%Nthere is always something changing in the universe.%NThere are several branching theories as to the%Nultimate fate of the universe, but one theory states%Nthat if it expands to a certain extent, it will eventually%Ncontract into a single point. After this "Big Crunch",%Nanother Big Bang would occur, which would make the%Nflow of time truly eternal.
+In other words, the eternal flow of time implies that%Nthere is always something changing in the universe.%NThere are several branching theories as to the%Nultimate fate of the universe, but one theory states%Nthat if it expands to a certain extent, it will eventually%Ncontract into a single point. After this 「Big Crunch」,%Nanother Big Bang would occur, which would make the%Nflow of time truly eternal.
 
 ;8690;260;このシリーズにおける無限ループも、%N『永遠の時間の流れ』に含まれるのかどうか……%N誠のように、前回の記憶を保持して%Nループしているとしたら、残された記憶によって%Nリアクションに変化が生じていくため、%Nループ現象も『永遠の時間の流れ』と%N呼んでいいかもしれない。
-Concerning whether or not an infinite loop like the one%Nin this series is part of the "eternal flow of time"... If one%Nretains one's memories like Makoto does, then one%Ncould bring about different reactions based upon%Nthose lingering memories. It's for that reason that even%Nloop phenomena may be said to be part of the "eternal%Nflow of time".
+Concerning whether or not an infinite loop like the one%Nin this series is part of the 「eternal flow of time」... If one%Nretains one's memories like Makoto does, then one%Ncould bring about different reactions based upon%Nthose lingering memories. It's for that reason that even%Nloop phenomena may be said to be part of the 「eternal%Nflow of time」.
 
 ;869c;6;くらげ
 Jellyfish
@@ -8513,13 +8213,13 @@ Kurumi's origami technique is godlike. With just a single%Nsheet of paper, she c
 Scatterbrained
 
 ;86c8;338;そそっかしい性格で、早とちりやドジが多いこと。%N今日では、慌しい状況になると対応しきれず、%Nあたふたとしてしまう人のことも指すことがある。%Nようするに、いづみさんのこと。%Nその語源は感嘆詞の『おっと』、%N落ち着かずに動き回る様を表す副詞『ちょこちょこ』、%N『ちょっと』を意味する副詞『ちょい』の%N３つが合わさってできたものだとされている。
-To be thoughtless; to be quick to jump to conclusions;%Nto blunder often. May also refer to people who get%Ncarelessly hasty when their schedule piles up. In a%Nword, Izumi-san. Scatterbrained is a portmanteau of%Nthe words "scatter" and "brain". The Japanese word%Nfor scatterbrained, "occhokochoi", is a portmanteau%Nof the words "otto" (oops), "chokochoko" (restless),%Nand "choi" (hold up).
+To be thoughtless; to be quick to jump to conclusions;%Nto blunder often. May also refer to people who get%Ncarelessly hasty when their schedule piles up. In a%Nword, Izumi-san. Scatterbrained is a portmanteau of%Nthe words 「scatter」 and 「brain」. The Japanese word%Nfor scatterbrained, 「occhokochoi」, is a portmanteau%Nof the words 「otto」 (oops), 「chokochoko」 (restless),%Nand 「choi」 (hold up).
 
 ;86d4;10;感応精神病
 Shared Psychotic Disorder
 
 ;86d8;330;心の病をわずらった人の近くにいる人達が、%N影響を受けて同じような症状や%N精神状態になってしまうこと。%N例として、集団ヒステリーや%N激しい被害妄想などが挙げられる。%Nあくまでも患者に感応して発症しているだけなので、%N多くの場合は患者と距離を置くことで症状が治まる。%Nキュレイシンドロームは、%Nこの感応精神病の一種であるとされている。
-Mental illness where people near a patient are%Ninfluenced by them, and start to show a similar mental%Ncondition. For instance, this can lead to the rise of%Nmass hysteria and severe persecution complexes.%NSince the patient induces all symptoms, often the%Nfurther one is from them, the weaker their symptoms%Nget. Curé Syndrome can be described as a type of%NShared Psychotic Disorder. The illness was first%Ndiscovered in French psychiatry as "folie à deux",%Nmeaning "madness shared by two".
+Mental illness where people near a patient are%Ninfluenced by them, and start to show a similar mental%Ncondition. For instance, this can lead to the rise of%Nmass hysteria and severe persecution complexes.%NSince the patient induces all symptoms, often the%Nfurther one is from them, the weaker their symptoms%Nget. Curé Syndrome can be described as a type of%NShared Psychotic Disorder. The illness was first%Ndiscovered in French psychiatry as 「folie à deux」,%Nmeaning 「madness shared by two」.
 
 ;86e4;8;空想虚言
 Mythomania
@@ -8537,22 +8237,22 @@ Schrödinger's Cat
 A thought experiment proposed by physicist Erwin%NSchrödinger. If a cat is placed inside a box with a%Nradioactive material that has a fixed probability of%Noutbreaking, and is left in there for a fixed amount of%Ntime, when that time comes, is that cat alive or dead?%NJust like in the story, the observer decides the cat's%Nlife or death status by means of observing it. This way%Nof thinking is called the Copenhagen interpretation.
 
 ;8700;240;また、猫を箱に閉じ込めたことで世界が%N『猫が生きている世界』と%N『猫が死んでいる世界』の２つに分かれ、%N自分がそのどちらの世界にいるのか、%N猫の生死を観測することで確認することができる、%Nとする考え方をエヴェレット解釈（多世界解釈）という。
-It's also possible that the world in which the cat is%Nlocked in the box splits into two: "The world where the%Ncat is alive" and "The world where the cat is dead".%NYou can determine which world you are in by observing%Nthe cat and confirming its life or death status. This way%Nof thinking is called the Everett Interpretation (The%NMany-Worlds Interpretation).
+It's also possible that the world in which the cat is%Nlocked in the box splits into two: 「The world where the%Ncat is alive」 and 「The world where the cat is dead」.%NYou can determine which world you are in by observing%Nthe cat and confirming its life or death status. This way%Nof thinking is called the Everett Interpretation (The%NMany-Worlds Interpretation).
 
 ;8704;192;作中では、キュレイシンドロームの概念を%Nコペンハーゲン解釈的に説明しているが、%N本作を『神のような巨視的な視点』で俯瞰すると、%N全体のシナリオは多世界解釈のように%N構成されていることがわかる。
-In the story, the concept of Curé Syndrome is%Nexplained with a Copenhagen Interpretation-like%Nexplanation, but if you take a look at the whole story%N(with a "god-like macroscopic viewpoint"), you can%Nunderstand that all the scenarios are comprised like%Nthe Many-Worlds Interpretation.
+In the story, the concept of Curé Syndrome is%Nexplained with a Copenhagen Interpretation-like%Nexplanation, but if you take a look at the whole story%N(with a 「god-like macroscopic viewpoint」), you can%Nunderstand that all the scenarios are comprised like%Nthe Many-Worlds Interpretation.
 
 ;8708;322;また、コペンハーゲン解釈的な考えに従えば、%N発生している事象の理由さえも相対的なものとなり、%N例えば、優夏編ではキュレイシンドロームという言葉すら登場しないので、誠は%N『キュレイシンドロームという概念を観測できない』。%Nゆえに、優夏編（の誠の観ている世界）においては、%N『キュレイシンドロームは存在しない』のと同義である。
-Or, if we abide by the Copenhagen interpretation way%Nof thinking, then even the reasons for the occuring%Nphenomenons are relevant. For example, in Yuka's%NRoute, because the phrase "Curé Syndrome" never%Nappears, Makoto "is unable to observe the concept%Nknown as Curé Syndrome". Consequently, this means%Nthat the "Curé Syndrome doesn't exist" with regards%Nto the Yuka's Route('s world that Makoto is%Nobserving).
+Or, if we abide by the Copenhagen interpretation way%Nof thinking, then even the reasons for the occuring%Nphenomenons are relevant. For example, in Yuka's%NRoute, because the phrase 「Curé Syndrome」 never%Nappears, Makoto 「is unable to observe the concept%Nknown as Curé Syndrome」. Consequently, this means%Nthat the 「Curé Syndrome doesn't exist」 with regards%Nto the Yuka's Route('s world that Makoto is%Nobserving).
 
 ;8714;8;レグルス
 Regulus
 
 ;8718;350;獅子座の心臓にあたる位置にあるアルファ星%N（一番明るい星）で、その意味は『小さい王』。%N地球からは７０光年ほど離れた位置にある。%Nすなわち、肉眼で見ることができるレグルスの光は%N７０年前に放たれたものであり、今、この瞬間に%Nレグルスという星が存在しているかどうかわからない。%Nそういう意味で、星空は観測者を過去へと導く%Nタイムマシンであるともいえる。
-An Alpha star (the brightest star) placed at the heart%Nof Leo, whose name means "little king". It is 70 light%Nyears away from Earth. This means that the light from%NRegulus that we can see with the naked eye was%Nreleased 70 years ago; so there's a chance that it%Ndoesn't even exist anymore. With this in mind, one could%Nsay that the starry sky is a time machine that guides%Nthe observer to the past.
+An Alpha star (the brightest star) placed at the heart%Nof Leo, whose name means 「little king」. It is 70 light%Nyears away from Earth. This means that the light from%NRegulus that we can see with the naked eye was%Nreleased 70 years ago; so there's a chance that it%Ndoesn't even exist anymore. With this in mind, one could%Nsay that the starry sky is a time machine that guides%Nthe observer to the past.
 
 ;871c;162;いづみは、『レグルスは、今でも輝き続けてる』%Nという言葉に、誠への気持ち、くるみとの関係、%Nキュレイシンドロームの存在……%N様々な想いを込めていたのかもしれない。
-Izumi's words, "Even now, Regulus continues to shine"%Ncould be said to refer to her feelings for Makoto, her%Nrelationship with Kurumi, and the existence of Curé%NSyndrome... It might be packed with various meanings.
+Izumi's words, 「Even now, Regulus continues to shine」%Ncould be said to refer to her feelings for Makoto, her%Nrelationship with Kurumi, and the existence of Curé%NSyndrome... It might be packed with various meanings.
 
 ;8728;12;メイテイ状態
 Intoxication
@@ -8564,7 +8264,7 @@ A severely drunk state that occurs due to the intake%Nof alcoholic beverages. Du
 Masamune
 
 ;873c;386;鎌倉時代末期に実在した刀工の名前。生没年不詳。%Nひと振りの名刀を指す固有名詞のように使われる%Nケースも見られるが、『正宗』という語が%N刀を指す場合は、正確には彼の鍛えた刀すべてを意味する。%N刀工・正宗の人物像については不明な点が多く、%Nそんな謎めいたところが、彼をより稀代の刀工%Nたらしめているのかもしれない。%N優夏の持っていたオモチャの刀が%N『正宗』である可能性は……まったく、ない。
-The name of a swordsmith who lived in the closing%Nyears of the Kamakura era (1185-1333 A.D.). Birth and%Ndeath unknown. Sometimes the word "Masamune" is%Nused as a proper noun to refer to a single sword,%Nthough his namesake technically refers to all of the%Nswords he made. Not much is known about Masamune,%Nthe swordsmith, but perhaps that mystery only adds%Nto the rarity of his masterworks. Yuka's toy sword just%Nmight possibly be a Masamune... imitation.
+The name of a swordsmith who lived in the closing%Nyears of the Kamakura era (1185-1333 A.D.). Birth and%Ndeath unknown. Sometimes the word 「Masamune」 is%Nused as a proper noun to refer to a single sword,%Nthough his namesake technically refers to all of the%Nswords he made. Not much is known about Masamune,%Nthe swordsmith, but perhaps that mystery only adds%Nto the rarity of his masterworks. Yuka's toy sword just%Nmight possibly be a Masamune... imitation.
 
 ;8748;8;神経衰弱
 Concentration
@@ -8573,16 +8273,16 @@ Concentration
 A card game. First, after removing the Joker from the%Ndeck, the players shuffle the 52 cards and spread%Nthem out on a flat surface, like a table. A player then%Nflips two of the cards, and if they're the same number,%Nthe player wins that pair. This process is repeated%Nuntil all the cards are gone, and the one with the most%Npairs wins the game. The player truly requires a large%Namount of concentration in order to memorize all the%Ndifferent cards and their positions, hence the name.
 
 ;8750;122;地域によっては『ピロピロピンポンドォーン！』や%N『スーパーめくりんちょ』なる名称で%N親しまれているらしいが、定かではない。
-In some areas, it seems the game is known as "Mental%NGuts" or "Super Memory", but this has not been fully%Nconfirmed.
+In some areas, it seems the game is known as 「Mental%NGuts」 or 「Super Memory」, but this has not been fully%Nconfirmed.
 
 ;875c;8;ウイルス
 Virus
 
 ;8760;290;動物や植物を寄生主として、%N自己を増殖することができる微生物の一種。%Nラテン語で毒を意味する。%N今日では、コンピューターに被害をもたらすことが%N目的の不正なプログラムも指す。%Nまた、ウイルス自体の特性から、%N物事や事象が急速に伝播していくことを%N『ウイルスのように〜』と例えることもある。%N
-A type of germ that is able to propogate itself, mainly%Nvia parasitic relationships with animals and plants. The%Nword is Latin for "poison". Nowadays, it's also used to%Nrefer to illegal programs that attempt to damage%Ncomputer software. Also, because of the nature of%Nviruses, whenever something spreads rapidly, people%Noften use the phrase, "It's spreading like a virus".
+A type of germ that is able to propogate itself, mainly%Nvia parasitic relationships with animals and plants. The%Nword is Latin for 「poison」. Nowadays, it's also used to%Nrefer to illegal programs that attempt to damage%Ncomputer software. Also, because of the nature of%Nviruses, whenever something spreads rapidly, people%Noften use the phrase, 「It's spreading like a virus」.
 
 ;8764;136;キュレイシンドロームのもたらした『不死の奇跡』は、%N『まるでウイルスに感染するかのように』、%Nあっと言う間に広まっていったらしいが……？
-The "Miracle of Immortality" brought about from Curé%NSydrome seemed to spread in the blink of an eye "as if%Nit were some kind of viral infection," didn't it...?
+The 「Miracle of Immortality」 brought about from Curé%NSydrome seemed to spread in the blink of an eye 「as if%Nit were some kind of viral infection,」 didn't it...?
 
 ;8770;6;星の砂
 Star Sand
@@ -8597,7 +8297,7 @@ Knowing the truth behind it may ruin its mysterious%Nimpression, so perhaps it i
 Bulldog Rock-Paper-Scissors
 
 ;8788;314;２人で遊ぶジャンケン遊びの１種。%N１勝したら相手の頬を片手でつまみ、%N２勝したら両手で相手の頬の左右をつまむ。%Nそして３勝したら%N『たてたて、よこよこ、まーる書いてちょん！』%Nと歌いながら、相手の頬をつねり、ちょんの部分で、%Nあたかも洗濯バサミを外すかのように%N相手の頬をつねりながら手を離す非情のゲームである。%N
-A version of Rock-Paper-Scissors played with two%Npeople. If you win once, you pinch one of your%Nopponent's cheeks. If you win twice, you may pinch%Nboth of your opponent's cheeks. If you win three times,%Nyou sing "up up, out out, draw a circle, chon!" while%Ntugging your opponent's cheeks. Once you get to the%N"chon" part, you have to let go.
+A version of Rock-Paper-Scissors played with two%Npeople. If you win once, you pinch one of your%Nopponent's cheeks. If you win twice, you may pinch%Nboth of your opponent's cheeks. If you win three times,%Nyou sing 「up up, out out, draw a circle, chon!」 while%Ntugging your opponent's cheeks. Once you get to the%N「chon」 part, you have to let go.
 
 ;878c;254;力を入れれば大人でも涙目になるのは必至だが、%Nそれと同時に、大人が涙目になりながらも%N必死に興じる遊びでもない。%Nちなみに、誠といづみのように%N『お互いの頬をつねり合う』ことは、%N通常のジャンケンブルドッグでは起き得ない。%Nくるみの超解釈には頭が下がる。
 A serious game will inevitably end with someone in%Ntears, even adults. Even though it can make grown%Nadults cry, it's not really that amusing a game. By the%Nway, it's unheard of for both participants to be%Npinching each others cheeks during the game, like%Nwhat Makoto and Izumi were doing. Hats off to Kurumi's%Ncreative imagination.
@@ -8609,7 +8309,7 @@ The Ten Foot Square Hut
 A book that was published in 1212. Penned by Kamo no%NChomei. A famous work that joined together kanji,%Nkatakana, and hiragana, combining both Japanese and%NChinese characters. Together with Kenkou Houshi%N(also known as Yoshida Kenkou)'s Essays in Idleness%Nand Sei Shonagon's The Pillow Book, it has been called%None of Japan's Great Three Writings.
 
 ;87a0;274;ちなみに随筆とは、作者が見聞きしたことや%Nその時思ったことなどを気ままに書き連ねた%Nもののことと。%Nすなわち方丈記とは、鎌倉時代にできた%Nエッセイなのである。%N……などなど、きちんと覚えて、%N受験には正々堂々と望みましょう。%Nくれぐれも、くるみのような悪さを企てないように。
-By "writings", it means a list of the author's personal%Nobservations, thoughts, and so on at the time they%Nwere written. With this information, we can say with%Nconfidence that The Ten Foot Square Hut is an essay%Nwritten during the Kamakura period. ... And so on and so%Nforth, but what's most important to remember is that we%Nhope you take your entrance exams fair and square.%NPlease don't try to pull a stupid stunt like Kurumi did.
+By 「writings」, it means a list of the author's personal%Nobservations, thoughts, and so on at the time they%Nwere written. With this information, we can say with%Nconfidence that The Ten Foot Square Hut is an essay%Nwritten during the Kamakura period. ... And so on and so%Nforth, but what's most important to remember is that we%Nhope you take your entrance exams fair and square.%NPlease don't try to pull a stupid stunt like Kurumi did.
 
 ;87ac;20;ウォータースライダー
 Water Slide
@@ -8624,7 +8324,7 @@ Some slides are meant for two people to ride together.%NHowever, these types are
 Bush Warbler
 
 ;87c4;260;スズメ目ウグイス科に分類される鳥。%Nその鳴き声の美しさははるか昔から%N日本人に親しまれており、%Nコマドリ、オオルリとともに日本三鳴鳥と呼ばれる。%Nおなじみの『ホーホケキョ』という鳴き声は%N漢字で書くと『法、法華経』となることから、%N経読み鳥と呼ばれることも。%N
-A bird of the order Passeriformes and family Cettiidae.%NIts beautiful cry has captured the hearts of the%NJapanese since times long past. It is known as one of%Nthe Three Songbirds of Japan, along with the%NJapanese Robin and the blue-and-whiteflycatcher.%NDue to its familiar cry, transcribed as "ho-hokekyo",%Nwhich sounds like the Japanese word for the Lotus%NSutra, "hokekyou", the bush warbler is also known as%Nthe sutra-reading bird.
+A bird of the order Passeriformes and family Cettiidae.%NIts beautiful cry has captured the hearts of the%NJapanese since times long past. It is known as one of%Nthe Three Songbirds of Japan, along with the%NJapanese Robin and the blue-and-whiteflycatcher.%NDue to its familiar cry, transcribed as 「ho-hokekyo」,%Nwhich sounds like the Japanese word for the Lotus%NSutra, 「hokekyou」, the bush warbler is also known as%Nthe sutra-reading bird.
 
 ;87c8;299;鳴き声が聞こえ始める季節が早春であることから、%N春告鳥（ハルツゲドリ）という別名もある。%N優夏編の2ndループの初日、%N優夏が（億彦に対して）ついた嘘の中に%Nこのウグイスは登場したのだが、%Nとっさについた嘘にしては風情がある。%Nツガイの鳩時計への印象といい、%Nシラフの優夏は意外と詩人なのかもしれない。
 Since its cry can first be heard in the early spring, it is%Nalso known as the spring-announcing bird. In Yuka's%Nroute, on the first day of the second loop, Yuka lies to%NOkuhiko about a bush warbler. For a lie made up on the%Nspot, it was surprisingly elegant. The cuckoo clock%Nmay have given her some inspiration, but maybe Yuka's%Nactually quite poetic when she's sober.
@@ -8639,7 +8339,7 @@ The act of having someone take an exam in the%Nexaminee's stead for things like 
 Counter Experiment
 
 ;87e8;406;ある仮説が、科学的に信頼が置けるかどうかを%N確かめるため、または、仮説に対する反証が%N観測されないかどうかを確かめる実験のこと。%N字面から勘違いしてしまいがちだが、%Nある仮説を否定するためのものではない。%N反証実験に耐えうる（仮説と反対の結果が%N観測できない）ならば、その仮説は信頼が保障され、%N反証実験に耐えられない（仮説と反対の結果が%N観測される）ならば、その仮説は信頼がおけない、%Nとするのみである。
-An experiment designed to retest a hypothesis'%Nscientific reliability, and to see if any%Ncounter-evidence can be found against it. The term is%Nmisleading; a counter experiment is not meant to spurn%Nits hypothesis. If a hypothesis endures a counter%Nexperiment (no counter- evidence found), the%Nhypothesis gains reliability. If a hypothesis can't%Nendure a counter experiment (counter- evidence%Nfound), the hypothesis loses reliability. No further%Nconnotation is attached to the term.
+An experiment designed to retest a hypothesis'%Nscientific reliability, and to see if any%Ncounter-evidence can be found against it. The term is%Nmisleading; a counter experiment is not meant to spurn%Nits hypothesis. If a hypothesis endures a counter%Nexperiment (no counter-evidence found), the%Nhypothesis gains reliability. If a hypothesis can't%Nendure a counter experiment (counter-evidence%Nfound), the hypothesis loses reliability. No further%Nconnotation is attached to the term.
 
 ;87ec;78;実験の結果、キュレイシンドロームは、%Nそのどちらに当てはまったのだろうか……？
 What was the result of the experiment? Was Curé%NSyndrome denied... or proven..?
@@ -8651,445 +8351,328 @@ Delusion
 A psychological term once used to describe%Nsomething frequently seen in mental patients, where%Nthey make extremely subjective decisions based%Nheavily on misbeliefs. Today, it's casually used to%Ndescribe the misbeliefs also held by healthy people.
 
 ;8800;310;もともとは、『対象の形態にとらわれた誤った判断』%Nという意味の仏教用語から来ている。%N精神疾患患者の妄想の場合、%N周囲から見たら『妄想』であっても、%N当人にとっては『現実』に違いない。%Nここから考えを飛躍すれば、%Nあるいは『現実』とは相対的なものであり、%N人それぞれ異なった世界を%N認識しているのかもしれない。
-The Japanese word for delusion originally comes from%NBuddhist terminology. A mental patient's "delusion" is%Nno different to him than "reality". Taking a logical leap%Nfrom there, perhaps "reality" is also relative. Maybe%Neverybody experiences their own variant world.
+The Japanese word for delusion originally comes from%NBuddhist terminology. A mental patient's 「delusion」 is%Nno different to him than 「reality」. Taking a logical leap%Nfrom there, perhaps 「reality」 is also relative. Maybe%Neverybody experiences their own variant world.
 
 ;92d8;12;ロッジ・外観
 Lodge, Exterior
-
 ;92dc;12;ロッジ・外観
-Lodge, Exterior
-
+;dupe:92d8
 ;92e0;12;ロッジ・外観
-Lodge, Exterior
-
+;dupe:92d8
 ;92e4;12;ロッジ・外観
-Lodge, Exterior
-
+;dupe:92d8
 ;92e8;12;ロッジ・外観
-Lodge, Exterior
-
+;dupe:92d8
 ;92ec;12;ロッジ・外観
-Lodge, Exterior
+;dupe:92d8
 
 ;92f0;16;ロッジ・誠の部屋
 Lodge, Makoto's room
-
 ;92f4;16;ロッジ・誠の部屋
-Lodge, Makoto's room
-
+;dupe:92f0
 ;92f8;16;ロッジ・誠の部屋
-Lodge, Makoto's room
-
+;dupe:92f0
 ;92fc;16;ロッジ・誠の部屋
-Lodge, Makoto's room
-
+;dupe:92f0
 ;9300;16;ロッジ・誠の部屋
-Lodge, Makoto's room
-
+;dupe:92f0
 ;9304;16;ロッジ・誠の部屋
-Lodge, Makoto's room
+;dupe:92f0
 
 ;9308;16;ロッジ・リビング
 Lodge, Living Room
-
 ;930c;16;ロッジ・リビング
-Lodge, Living Room
-
+;dupe:9308
 ;9310;16;ロッジ・リビング
-Lodge, Living Room
-
+;dupe:9308
 ;9314;16;ロッジ・リビング
-Lodge, Living Room
-
+;dupe:9308
 ;9318;16;ロッジ・リビング
-Lodge, Living Room
-
+;dupe:9308
 ;931c;16;ロッジ・リビング
-Lodge, Living Room
-
+;dupe:9308
 ;9320;16;ロッジ・リビング
-Lodge, Living Room
+;dupe:9308
 
 ;9324;16;ロッジ・ベランダ
 Lodge, Veranda
-
 ;9328;16;ロッジ・ベランダ
-Lodge, Veranda
-
+;dupe:9324
 ;932c;16;ロッジ・ベランダ
-Lodge, Veranda
-
+;dupe:9324
 ;9330;16;ロッジ・ベランダ
-Lodge, Veranda
-
+;dupe:9324
 ;9334;16;ロッジ・ベランダ
-Lodge, Veranda
-
+;dupe:9324
 ;9338;16;ロッジ・ベランダ
-Lodge, Veranda
-
+;dupe:9324
 ;933c;16;ロッジ・ベランダ
-Lodge, Veranda
+;dupe:9324
 
 ;9340;16;沙紀の別荘・外観
 Saki's Summer House, Exterior
-
 ;9344;16;沙紀の別荘・外観
-Saki's Summer House, Exterior
-
+;dupe:9340
 ;9348;16;沙紀の別荘・外観
-Saki's Summer House, Exterior
-
+;dupe:9340
 ;934c;16;沙紀の別荘・外観
-Saki's Summer House, Exterior
-
+;dupe:9340
 ;9350;16;沙紀の別荘・外観
-Saki's Summer House, Exterior
+;dupe:9340
 
 ;9354;20;沙紀の別荘・リビング
 Saki's Summer House, Living Room
-
 ;9358;20;沙紀の別荘・リビング
-Saki's Summer House, Living Room
-
+;dupe:9354
 ;935c;20;沙紀の別荘・リビング
-Saki's Summer House, Living Room
-
+;dupe:9354
 ;9360;20;沙紀の別荘・リビング
-Saki's Summer House, Living Room
-
+;dupe:9354
 ;9364;20;沙紀の別荘・リビング
-Saki's Summer House, Living Room
-
+;dupe:9354
 ;9368;20;沙紀の別荘・リビング
-Saki's Summer House, Living Room
+;dupe:9354
 
 ;936c;16;ルナビーチ・外観
 Lunabeach, Exterior
-
 ;9370;16;ルナビーチ・外観
-Lunabeach, Exterior
-
+;dupe:936c
 ;9374;16;ルナビーチ・外観
-Lunabeach, Exterior
-
+;dupe:936c
 ;9378;16;ルナビーチ・外観
-Lunabeach, Exterior
-
+;dupe:936c
 ;937c;16;ルナビーチ・外観
-Lunabeach, Exterior
+;dupe:936c
 
 ;9380;18;ルナビーチ・テラス
 Lunabeach, Terrace
-
 ;9384;18;ルナビーチ・テラス
-Lunabeach, Terrace
-
+;dupe:9380
 ;9388;18;ルナビーチ・テラス
-Lunabeach, Terrace
-
+;dupe:9380
 ;938c;18;ルナビーチ・テラス
-Lunabeach, Terrace
-
+;dupe:9380
 ;9390;18;ルナビーチ・テラス
-Lunabeach, Terrace
-
+;dupe:9380
 ;9394;18;ルナビーチ・テラス
-Lunabeach, Terrace
-
+;dupe:9380
 ;9398;18;ルナビーチ・テラス
-Lunabeach, Terrace
+;dupe:9380
 
 ;939c;16;月屋ホテル・玄関
 Tsukiya Hotel Entrance
-
 ;93a0;16;月屋ホテル・玄関
-Tsukiya Hotel Entrance
-
+;dupe:939c
 ;93a4;16;月屋ホテル・玄関
-Tsukiya Hotel Entrance
-
+;dupe:939c
 ;93a8;16;月屋ホテル・玄関
-Tsukiya Hotel Entrance
-
+;dupe:939c
 ;93ac;16;月屋ホテル・玄関
-Tsukiya Hotel Entrance
+;dupe:939c
 
 ;93b0;18;月屋ホテル・プール
 Tsukiya Hotel Pool
-
 ;93b4;18;月屋ホテル・プール
-Tsukiya Hotel Pool
-
+;dupe:93b0
 ;93b8;18;月屋ホテル・プール
-Tsukiya Hotel Pool
-
+;dupe:93b0
 ;93bc;18;月屋ホテル・プール
-Tsukiya Hotel Pool
-
+;dupe:93b0
 ;93c0;18;月屋ホテル・プール
-Tsukiya Hotel Pool
-
+;dupe:93b0
 ;93c4;18;月屋ホテル・プール
-Tsukiya Hotel Pool
+;dupe:93b0
 
 ;93c8;2;港
 Harbor
-
 ;93cc;2;港
-Harbor
-
+;dupe:93c8
 ;93d0;2;港
-Harbor
-
+;dupe:93c8
 ;93d4;2;港
-Harbor
-
+;dupe:93c8
 ;93d8;2;港
-Harbor
+;dupe:93c8
 
 ;93dc;6;商店街
-Shopping District
-
+;dupe:8204
 ;93e0;6;商店街
-Shopping District
-
+;dupe:8204
 ;93e4;6;商店街
-Shopping District
-
+;dupe:8204
 ;93e8;6;商店街
-Shopping District
-
+;dupe:8204
 ;93ec;6;商店街
-Shopping District
-
+;dupe:8204
 ;93f0;6;商店街
-Shopping District
+;dupe:8204
 
 ;93f4;4;林道
 Path through Forest
-
 ;93f8;4;林道
-Path through Forest
-
+;dupe:93f4
 ;93fc;4;林道
-Path through Forest
-
+;dupe:93f4
 ;9400;4;林道
-Path through Forest
-
+;dupe:93f4
 ;9404;4;林道
-Path through Forest
+;dupe:93f4
 
 ;9408;10;海岸線道路
 Coastline Road
-
 ;940c;10;海岸線道路
-Coastline Road
-
+;dupe:9408
 ;9410;10;海岸線道路
-Coastline Road
-
+;dupe:9408
 ;9414;10;海岸線道路
-Coastline Road
-
+;dupe:9408
 ;9418;10;海岸線道路
-Coastline Road
-
+;dupe:9408
 ;941c;10;海岸線道路
-Coastline Road
-
+;dupe:9408
 ;9420;10;海岸線道路
-Coastline Road
-
+;dupe:9408
 ;9424;10;海岸線道路
-Coastline Road
-
+;dupe:9408
 ;9428;10;海岸線道路
-Coastline Road
-
+;dupe:9408
 ;942c;10;海岸線道路
-Coastline Road
+;dupe:9408
 
 ;9430;6;田舎道
 Country Road
-
 ;9434;6;田舎道
-Country Road
-
+;dupe:9430
 ;9438;6;田舎道
-Country Road
-
+;dupe:9430
 ;943c;6;田舎道
-Country Road
-
+;dupe:9430
 ;9440;6;田舎道
-Country Road
+;dupe:9430
 
 ;9444;6;波止場
 Pier
-
 ;9448;6;波止場
-Pier
-
+;dupe:9444
 ;944c;6;波止場
-Pier
-
+;dupe:9444
 ;9450;6;波止場
-Pier
-
+;dupe:9444
 ;9454;6;波止場
-Pier
+;dupe:9444
 
 ;9458;4;月浜
-Moon Beach
-
+;dupe:813c
 ;945c;4;月浜
-Moon Beach
-
+;dupe:813c
 ;9460;4;月浜
-Moon Beach
-
+;dupe:813c
 ;9464;4;月浜
-Moon Beach
-
+;dupe:813c
 ;9468;4;月浜
-Moon Beach
-
+;dupe:813c
 ;946c;4;月浜
-Moon Beach
+;dupe:813c
 
 ;9470;6;姫ヶ浜
-Princess Beach
-
+;dupe:812c
 ;9474;6;姫ヶ浜
-Princess Beach
-
+;dupe:812c
 ;9478;6;姫ヶ浜
-Princess Beach
-
+;dupe:812c
 ;947c;6;姫ヶ浜
-Princess Beach
-
+;dupe:812c
 ;9480;6;姫ヶ浜
-Princess Beach
+;dupe:812c
 
 ;9484;12;テニスコート
 Tennis Court
-
 ;9488;12;テニスコート
-Tennis Court
+;dupe:9484
 
 ;948c;8;展望公園
-Viewpoint Park
-
+;dupe:816c
 ;9490;8;展望公園
-Viewpoint Park
-
+;dupe:816c
 ;9494;8;展望公園
-Viewpoint Park
-
+;dupe:816c
 ;9498;8;展望公園
-Viewpoint Park
-
+;dupe:816c
 ;949c;8;展望公園
-Viewpoint Park
+;dupe:816c
 
 ;94a0;4;墓地
-Graveyard
+;dupe:817c
 
 ;94a4;8;露天風呂
 Open Air Hot Spring
-
 ;94a8;8;露天風呂
-Open Air Hot Spring
+;dupe:94a4
 
 ;94ac;4;石段
 Stone Staircase
-
 ;94b0;4;石段
-Stone Staircase
-
+;dupe:94ac
 ;94b4;4;石段
-Stone Staircase
-
+;dupe:94ac
 ;94b8;4;石段
-Stone Staircase
-
+;dupe:94ac
 ;94bc;4;石段
-Stone Staircase
-
+;dupe:94ac
 ;94c0;4;石段
-Stone Staircase
+;dupe:94ac
 
 ;94c4;10;司紀杜神社
-Shiki no Mori Shrine
-
+;dupe:819c
 ;94c8;10;司紀杜神社
-Shiki no Mori Shrine
-
+;dupe:819c
 ;94cc;10;司紀杜神社
-Shiki no Mori Shrine
-
+;dupe:819c
 ;94d0;10;司紀杜神社
-Shiki no Mori Shrine
-
+;dupe:819c
 ;94d4;10;司紀杜神社
-Shiki no Mori Shrine
-
+;dupe:819c
 ;94d8;10;司紀杜神社
-Shiki no Mori Shrine
-
+;dupe:819c
 ;94dc;10;司紀杜神社
-Shiki no Mori Shrine
+;dupe:819c
 
 ;94e0;12;司紀杜神社内
 Inside Shiki no Mori Shrine
-
 ;94e4;12;司紀杜神社内
-Inside Shiki no Mori Shrine
-
+;dupe:94e0
 ;94e8;12;司紀杜神社内
-Inside Shiki no Mori Shrine
+;dupe:94e0
 
 ;94ec;6;古井戸
 Old Well
-
 ;94f0;6;古井戸
-Old Well
+;dupe:94ec
 
 ;94f4;6;桜並木
-Cherry Blossom Trees
-
+;dupe:8238
 ;94f8;6;桜並木
-Cherry Blossom Trees
-
+;dupe:8238
 ;94fc;6;桜並木
-Cherry Blossom Trees
-
+;dupe:8238
 ;9500;6;桜並木
-Cherry Blossom Trees
+;dupe:8238
 
 ;9504;2;森
 Forest
-
 ;9508;2;森
-Forest
-
+;dupe:9504
 ;950c;2;森
-Forest
+;dupe:9504
 
 ;9510;16;ルナビーチ・店内
 Lunabeach, Inside
-
 ;9514;16;ルナビーチ・店内
-Lunabeach, Inside
-
+;dupe:9510
 ;9518;16;ルナビーチ・店内
-Lunabeach, Inside
-
+;dupe:9510
 ;951c;16;ルナビーチ・店内
-Lunabeach, Inside
+;dupe:9510
 
 ;9520;4;夜空
 Night Sky
@@ -9099,42 +8682,34 @@ Shiki no Mori Shrine, Back
 
 ;9528;18;ロッジ・ダイニング
 Lodge, Dining Room
-
 ;952c;18;ロッジ・ダイニング
-Lodge, Dining Room
-
+;dupe:9528
 ;9530;18;ロッジ・ダイニング
-Lodge, Dining Room
+;dupe:9528
 
 ;9534;16;ロッジ・キッチン
 Lodge, Kitchen
-
 ;9538;16;ロッジ・キッチン
-Lodge, Kitchen
-
+;dupe:9534
 ;953c;16;ロッジ・キッチン
-Lodge, Kitchen
+;dupe:9534
 
 ;9540;16;ルナビーチ・裏庭
 Lunabeach, Backyard
-
 ;9544;16;ルナビーチ・裏庭
-Lunabeach, Backyard
+;dupe:9540
 
 ;9548;6;診療所
-Clinic
+;dupe:81e0
 
 ;954c;18;ロッジ・有夏の部屋
 Lodge, Yuka's Room
-
 ;9550;18;ロッジ・有夏の部屋
-Lodge, Yuka's Room
-
+;dupe:954c
 ;9554;18;ロッジ・有夏の部屋
-Lodge, Yuka's Room
-
+;dupe:954c
 ;9558;18;ロッジ・有夏の部屋
-Lodge, Yuka's Room
+;dupe:954c
 
 ;955c;2;崖
 Cliff
@@ -9143,37 +8718,28 @@ Cliff
 On Board
 
 ;9564;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
-
+;dupe:22dc
 ;9568;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
-
+;dupe:22dc
 ;956c;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
-
+;dupe:22dc
 ;9570;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
-
+;dupe:22dc
 ;9574;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
-
+;dupe:22dc
 ;9578;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
-
+;dupe:22dc
 ;957c;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
-
+;dupe:22dc
 ;9580;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
-
+;dupe:22dc
 ;9584;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
+;dupe:22dc
 
 ;95f0;14;空っぽの脱け殻
 Empty Shell
-
 ;95f4;14;空っぽの脱け殻
-Empty Shell
+;dupe:95f0
 
 ;95f8;10;光のかけら
 Fragment of Light
@@ -9182,49 +8748,40 @@ Fragment of Light
 Shiki no Mori's Talisman
 
 ;9600;10;司紀杜神社
-Shiki no Mori Shrine
-
+;dupe:819c
 ;9604;10;司紀杜神社
-Shiki no Mori Shrine
+;dupe:819c
 
 ;9608;20;なんとかネコピョン？
 Something something Neko Pyon?
 
 ;960c;12;夜空のかけら
 Fragments of the Night Sky
-
 ;9610;12;夜空のかけら
-Fragments of the Night Sky
-
+;dupe:960c
 ;9614;12;夜空のかけら
-Fragments of the Night Sky
+;dupe:960c
 
 ;9618;10;水を見る瞳
 Gazing down at the water
 
 ;961c;14;夢か？　幻か？
 Is it a dream? An illusion?
-
 ;9620;14;夢か？　幻か？
-Is it a dream? An illusion?
+;dupe:961c
 
 ;9624;24;その気持ち、確かめたくて
 I want to confirm that feeling
-
 ;9628;24;その気持ち、確かめたくて
-I want to confirm that feeling
-
+;dupe:9624
 ;962c;24;その気持ち、確かめたくて
-I want to confirm that feeling
-
+;dupe:9624
 ;9630;24;その気持ち、確かめたくて
-I want to confirm that feeling
-
+;dupe:9624
 ;9634;24;その気持ち、確かめたくて
-I want to confirm that feeling
-
+;dupe:9624
 ;9638;24;その気持ち、確かめたくて
-I want to confirm that feeling
+;dupe:9624
 
 ;963c;8;人魚の心
 Mermaid's heart
@@ -9233,22 +8790,21 @@ Mermaid's heart
 The Call of Shiranui
 
 ;9644;10;見えない心
-Invisible Heart
+;dupe:2084
 
 ;9648;8;遙の過去
-Haruka's Past
+;dupe:2540
 
 ;964c;12;生きている証
 Proof of Life
 
 ;9650;6;血の絆
-Bonds of Blood
+;dupe:24c8
 
 ;9654;14;眠れる森の美女
 Sleeping Beauty
-
 ;9658;14;眠れる森の美女
-Sleeping Beauty
+;dupe:9654
 
 ;965c;8;誠の意地
 Makoto's stubbornness
@@ -9258,66 +8814,59 @@ Haruka's temperature
 
 ;9664;8;興味津々
 Curious
-
 ;9668;8;興味津々
-Curious
+;dupe:9664
 
 ;966c;8;誠の計算
 Makoto's Calculation
 
 ;9670;12;遙にあるもの
 What lies far away
-
 ;9674;12;遙にあるもの
-What lies far away
-
+;dupe:9670
 ;9678;12;遙にあるもの
-What lies far away
+;dupe:9670
 
 ;967c;22;ルナビーチへようこそ♪
 Welcome to Lunabeach♪
 
 ;9680;18;水の似合うあのヒト
-The Water Suits Her
+;dupe:20c0
 
 ;9684;12;死鬼ノ杜伝説
 The Shiki no Mori Legend
 
 ;9688;12;くるみの秘密
-Kurumi's Secret
+;dupe:25c4
 
 ;968c;24;恋の岬で想いを告げて……
 Express your feelings on the Cape of Affection...
 
 ;9690;8;非業の死
 Unnatural death
-
 ;9694;8;非業の死
-Unnatural death
+;dupe:9690
 
 ;9698;28;……愛の入り江で想いを遂げる
 ... and carry out these feelings at the Cove of Love
-
 ;969c;28;……愛の入り江で想いを遂げる
-... and carry out these feelings at the Cove of Love
+;dupe:9698
 
 ;96a0;10;雨のち晴れ
 Sunny after rain
 
 ;96a4;14;前世はお魚！？
-You Were a Fish in Your Last Life!?
-
+;dupe:215c
 ;96a8;14;前世はお魚！？
-You Were a Fish in Your Last Life!?
+;dupe:215c
 
 ;96ac;10;女神の抱擁
-Goddess's Embrace
+;dupe:1fb8
 
 ;96b0;12;７日前の記憶
 Memories of the last 7 days
-
 ;96b4;12;７日前の記憶
-Memories of the last 7 days
+;dupe:96b0
 
 ;96b8;22;プカプカ……プカプカと
 Floating and floating...
@@ -9329,43 +8878,41 @@ Memory of Izumi
 Let's be together forever
 
 ;96c4;16;届けられた出会い
-Infatuating Delivery Girl
+;dupe:2054
 
 ;96c8;10;叶わぬ願い
 Unfulfilled Wish
 
 ;96cc;14;くるみの好奇心
-Kurumi's Curiosity
+;dupe:2258
 
 ;96d0;14;カニカニ繁殖中
-Crabs In The Middle of Breeding
+;dupe:22ac
 
 ;96d4;22;くるみと神社と月明かり
 Kurumi at Moonlit Shrine
 
 ;96d8;20;ひとりぼっちのお月様
 Lonely Moon
-
 ;96dc;20;ひとりぼっちのお月様
-Lonely Moon
+;dupe:96d8
 
 ;96e0;10;くるみの涙
-Kurumi's Tears
+;dupe:25d0
 
 ;96e4;20;くるみとひとつに……
 One with Kurumi
 
 ;96e8;14;くるみスマイル
-Kurumi's Smile
+;dupe:2270
 
 ;96ec;16;ビールにまみれて
 Covered in Beer
 
 ;96f0;16;小道具はバッチリ
 Perfect Prop
-
 ;96f4;16;小道具はバッチリ
-Perfect Prop
+;dupe:96f0
 
 ;96f8;14;カニカニ相撲中
 Crab Sumo
@@ -9375,105 +8922,93 @@ The Greatest Treasure
 
 ;9700;10;診療所にて
 At the Clinic
-
 ;9704;10;診療所にて
-At the Clinic
+;dupe:9700
 
 ;9708;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
-
+;dupe:22dc
 ;970c;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
-
+;dupe:22dc
 ;9710;22;姫ヶ浜バーベキュー大会
-Barbecue on Princess Beach
+;dupe:22dc
 
 ;9714;10;消えた傷跡
 Missing Scar
 
 ;9718;18;グランドフィナーレ
-Grand Finale
+;dupe:51a8
 
 ;971c;26;Ａｎｇｅｒ ＆ ｈｕｎｇｅｒ
 Anger & Hunger
 
 ;9720;10;悪夢の予兆
 Bad Feeling
-
 ;9724;10;悪夢の予兆
-Bad Feeling
-
+;dupe:9720
 ;9728;10;悪夢の予兆
-Bad Feeling
-
+;dupe:9720
 ;972c;10;悪夢の予兆
-Bad Feeling
+;dupe:9720
 
 ;9730;14;都合のいい事故
 Convenient Accident
 
 ;9734;14;隠された優しさ
-Hidden Kindness
+;dupe:24d4
 
 ;9738;20;天然のプラネタリウム
 Natural Planetarium
 
 ;973c;10;眩しい肢体
-Dazzling Body
-
+;dupe:2150
 ;9740;10;眩しい肢体
-Dazzling Body
+;dupe:2150
 
 ;9744;14;信じたい優しさ
 The kindness I want to believe in
 
 ;9748;18;言葉より大切なもの
-Precious Things More Important Than Words
+;dupe:2594
 
 ;974c;10;新たな居候
 New Freeloader
 
 ;9750;16;もう誰も信じない
-I don't trust anyone anymore
+;dupe:1ff0
 
 ;9754;14;スピード恐怖症
 Fear of Speed
 
 ;9758;14;悪くはないわね
 Not too bad
-
 ;975c;14;悪くはないわね
-Not too bad
+;dupe:9758
 
 ;9760;8;一触即発
 Critical Situation
 
 ;9764;16;信じられない……
 Unbelievable...
-
 ;9768;16;信じられない……
-Unbelievable...
-
+;dupe:9764
 ;976c;16;信じられない……
-Unbelievable...
+;dupe:9764
 
 ;9770;16;すべてのはじまり
-The Beginning of Everything
+;dupe:2018
 
 ;9774;18;ボールを探して……
 Looking for the ball...
 
 ;9778;12;恐怖の肝試し
 Test of Courage
-
 ;977c;12;恐怖の肝試し
-Test of Courage
+;dupe:9778
 
 ;9780;27;Ｃｈｅｒｒｙ Ｂｌｏｓｓｏｍ
 Cherry Blossom
-
 ;9784;27;Ｃｈｅｒｒｙ Ｂｌｏｓｓｏｍ
-Cherry Blossom
+;dupe:9780
 
 ;9788;24;優夏とくるみと神社と月光
 Yuka, Kurumi, Shrine and Moonlight
@@ -9485,61 +9020,51 @@ Stardust of Sorrow
 At the end of the cape...
 
 ;9794;14;魅惑の湯けむり
-Steam of Attraction
-
+;dupe:239c
 ;9798;14;魅惑の湯けむり
-Steam of Attraction
+;dupe:239c
 
 ;979c;12;過去への訣別
 Farewell to the Past
-
 ;97a0;12;過去への訣別
-Farewell to the Past
+;dupe:979c
 
 ;97a4;14;数億年ごしの恋
-Hundreds of Millions of Years of Love
+;dupe:23f0
 
 ;97a8;18;夕暮れ時のお買い物
 Shopping at dusk
-
 ;97ac;18;夕暮れ時のお買い物
-Shopping at dusk
+;dupe:97a8
 
 ;97b0;16;切れない運命の輪
 Unseverable Ring of Fate
 
 ;97b4;16;差し伸べられた手
-Extended Hand
+;dupe:2138
 
 ;97b8;18;優夏謹製最終兵器！
 Yuka's ultimate weapon!
-
 ;97bc;18;優夏謹製最終兵器！
-Yuka's ultimate weapon!
-
+;dupe:97b8
 ;97c0;18;優夏謹製最終兵器！
-Yuka's ultimate weapon!
-
+;dupe:97b8
 ;97c4;18;優夏謹製最終兵器！
-Yuka's ultimate weapon!
+;dupe:97b8
 
 ;97c8;12;極上生ビール
-First Rate Draft Beer
-
+;dupe:2168
 ;97cc;12;極上生ビール
-First Rate Draft Beer
-
+;dupe:2168
 ;97d0;12;極上生ビール
-First Rate Draft Beer
+;dupe:2168
 
 ;97d4;16;スーパーサーブ！
 Super Serve!
-
 ;97d8;16;スーパーサーブ！
-Super Serve!
-
+;dupe:97d4
 ;97dc;16;スーパーサーブ！
-Super Serve!
+;dupe:97d4
 
 ;97e0;26;オレは……ここにいるよ……
 I... am here...
@@ -9572,10 +9097,10 @@ infinity Poster
 infinity Trading Card Perk
 
 ;9808;42;infinity⑳「Megami⑳Magazine」⑳ピンナップ
-infinity "Megami Magazine" Pinup
+infinity 「Megami Magazine」 Pinup
 
 ;980c;37;infinity⑳「げーむじんPARTNER」⑳扉絵
-infinity "Geimujin PARTNER" Pinup
+infinity 「Geimujin PARTNER」 Pinup
 
 ;9810;26;infinity⑳予約特典テレカ１
 infinity Subscription Perk Telephone Card 1
@@ -9749,7 +9274,7 @@ Izumi Good End
 Izumi Cure Good End
 
 ;98f4;12;バッドエンド
-Bad End
+;dupe:50ec
 
 ;98f8;28;バッドエンド・いづみクリア後
 Bad End - After Izumi Cure

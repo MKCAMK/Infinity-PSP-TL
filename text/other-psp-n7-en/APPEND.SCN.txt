@@ -2,14 +2,17 @@
 Yuka Cure
 
 ;44;14;彼女たちの未来
+Their Future
 
 ;78;20;お兄ちゃんであること
+Being a Big Brother
 
 ;AC;12;誠→像→水？
 
 ;E0;28;２人の思いに忍び寄る迷いの影
 
 ;114;10;くるみ⇔遙
+Kurumi ⇔ Haruka
 
 ;148;20;来るべき未来のために
 
@@ -37,6 +40,7 @@ Okuhiko Cure
 ;384;24;キーホルダーを奪回せよ！
 
 ;3B8;10;おっくん編
+Okkun Compilation
 
 ;3EC;18;ｉｆ−ｆｉｎｉｔｙ
 if-finity
@@ -48,6 +52,7 @@ if-finity
 ;488;22;北大路氏の平穏なる日常
 
 ;4BC;10;誠ＣＵＲＥ
+Makoto Cure
 
 ;4F0;14;ヒーローの条件
 
@@ -60,13 +65,15 @@ if-finity
 ;5C0;14;おんなじココロ
 
 ;5F4;14;「誠」複製計画
+「Makoto」 duplication plan
 
 ;628;10;水鏡の真実
 
 ;65C;8;夢追い人
+Dream chaser
 
 ;690;20;ｉｎｆｉｎｉｔｙ　０
-infinity 0
+Infinity 0
 
 ;14;54;優夏キュア%Nシナリオ：中澤⑳工%N脚本協力：打越⑳鋼太郎
 Yuka Cure%NScenario: Takumi Nakazawa%NIn cooperation with:%NKotaro Uchikoshi

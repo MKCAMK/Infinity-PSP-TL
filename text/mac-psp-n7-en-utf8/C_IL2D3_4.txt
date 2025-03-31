@@ -489,10 +489,10 @@ Izumi「To put it simply, they were childhood friends... They might%Neven have l
 Izumi「Anyway, Tom frequently visited Julia's hospital room.」%K%P
 0x97C
 『彼女の病を癒したい』%K%P
-"I want to cure her illness."%K%P
+「I want to cure her illness.」%K%P
 0x988
 『そして自分には、それを可能にする不思議な能力がある』%K%P
-"And I have a miraculous ability that will enable me to do%Nthat."%K%P
+「And I have a miraculous ability that will enable me to do%Nthat.」%K%P
 0x994
 いづみ「そう信じていたトム少年は、ある日、ジュリアの額にそっと手を触れた……」%K%P
 Izumi「And one day, Tom, who believed that, gently touched%NJulia's forehead...」%K%P
@@ -513,28 +513,28 @@ Izumi「In the end, Dr. Cabin decided to investigate the origin of%N'Cure'―the
 Izumi「Before long, several months had passed, and Dr. Cabin%Nfinally reached a hypothesis.」%K%P
 0xA38
 『妄想が人から人へと伝播する症状を、ある種の感応精神病として定義するならば、その精神疾患における妄想内容とは、ひとつの生物にたとえることができる』%K%N%N
-"If you were to define the symptoms of a delusion that%Nspreads from person to person as some kind of shared%Npsychotic disorder, then you could liken the contents%Nof the delusion in regards to that mental illness to that%K%Pof a living creature."%K%P
+「If you were to define the symptoms of a delusion that%Nspreads from person to person as some kind of shared%Npsychotic disorder, then you could liken the contents%Nof the delusion in regards to that mental illness to that%K%Pof a living creature.」%K%P
 0xA44
 『ひとりの人間の中に、突然変異によって生み出されたこの生物は、それが存在することの妥当性と、存在して欲しいと願う人々の意思を糧として、次から次へと人々の意識の中に繁殖していくものなのかもしれない』%K%P
-"Said creature, which is created in a single person's%Nmind due to a mutation, may reproduce and spread into%Nother people's consciousnesses one after the other%Nby feeding off the validity of its existence, as well as%K%Pthe intentions of people who desire for its existence."%K%P
+「Said creature, which is created in a single person's%Nmind due to a mutation, may reproduce and spread into%Nother people's consciousnesses one after the other%Nby feeding off the validity of its existence, as well as%K%Pthe intentions of people who desire for its existence.」%K%P
 0xA58
 『従って、この生物が生まれたときの時代背景に相応しい妥当性と、人々の願望……この２つが強大であればあるほど、その生命力もまた激しさを増していくのである』%K%P
-"Hence, the more suitable the historical background the%Ncreature is born into and the more powerful the desires%Nof the people at that time, the stronger its vitality, or%Nintensity, grows."%K%P
+「Hence, the more suitable the historical background the%Ncreature is born into and the more powerful the desires%Nof the people at that time, the stronger its vitality, or%Nintensity, grows.」%K%P
 0xA6C
 『ところで、この生物が繁殖する過程において、最大の天敵となるものは常識である』%K%N%N
-"Incidentally, the greatest natural enemy to this living%Ncreature's ability to propagate is common sense."%K%N%N
+「Incidentally, the greatest natural enemy to this living%Ncreature's ability to propagate is common sense.」%K%N%N
 0xA78
 『常識を陶汰するだけの生命力を持ち得たとき、初めてこの生物は新たな現実として姿を現す』%K%N%N
-"Once this creature obtains the vitality to eliminate%Ncommon sense, it appears as a new reality for the first%Ntime."%K%N%N
+「Once this creature obtains the vitality to eliminate%Ncommon sense, it appears as a new reality for the first%Ntime.」%K%N%N
 0xA84
 『或いは、世界各地に伝わる宗教的奇跡も、この生物の胎動として見ることができるのではなかろうか？』%K%P
-"Is it perhaps possible that the religious miracles%Ncirculated all over the world can also be seen as the%Nquickening of this creature?"%K%P
+「Is it perhaps possible that the religious miracles%Ncirculated all over the world can also be seen as the%Nquickening of this creature?」%K%P
 0xA98
 『人々の意識（妥当性による信頼感と強い願望）が、この生物を現実のものとして生み出した』%K%N%N
-"People's consciousnesses (trust and strong desires%Ndue to validity) bring forth this creature as a reality."%K%N%N
+「People's consciousnesses (trust and strong desires%Ndue to validity) bring forth this creature as a reality.」%K%N%N
 0xAA4
 『強固な思念（妄想）は、新たな現実を創造することができるのかもしれない』%K%P
-"It might be possible for a strong thought (a delusion) to%Ncreate a new reality."%K%P
+「It might be possible for a strong thought (a delusion) to%Ncreate a new reality.」%K%P
 0xAFC
 いづみ「要するにね？　こういうことなの」%K%P
 Izumi「In short, it's like this.」%K%P

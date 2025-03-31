@@ -304,7 +304,7 @@ Power off and end the game?%N%SYes%n  /  %N%SNo
 ▼Continue
 
 ;120480;175;『Ever17 -the out of infinity-%%NPremium Edition』の%%Nセーブデータが破損している可能性があります%%Nセーブデータを上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-'Ever17 -the out of infinity-%%NPremium Edition' save data will be lost.%%NAre you sure you want to overwrite the save data?%%N%%SYes%%n  /  %%n%%SNo
+「Ever17 -the out of infinity-%%NPremium Edition」 save data will be lost.%%NAre you sure you want to overwrite the save data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;120530;79;セーブデータを上書きしています%%Nメモリースティック™を絶対抜かないでください
 Overwriting save data%%NPlease do not remove the Memory Stick™
@@ -331,10 +331,10 @@ Memory Stick™ is not formatted%%N
 Not enough free space on Memory Stick™%%NAt least %s KB is required to save%%N
 
 ;12073c;107;メモリースティック™に%%N『Ever17 -the out of infinity-%%NPremium Edition』の%%Nセーブデータがありません%%N
-Save data for%%N'Ever17 -the out of infinity-%%NPremium Edition'%%Nis not present on Memory Stick™%%N
+Save data for%%N「Ever17 -the out of infinity-%%NPremium Edition」%%Nis not present on Memory Stick™%%N
 
 ;1207a8;103;『Ever17 -the out of infinity-%%NPremium Edition』の%%Nセーブデータが破損している可能性があります%%N
-Save data for%%N'Ever17 -the out of infinity-%%NPremium Edition'%%Nmay be corrupted%%N
+Save data for%%N「Ever17 -the out of infinity-%%NPremium Edition」%%Nmay be corrupted%%N
 
 ;120810;55;同時に開けるファイル数を%%N越えているので開けません%%N
 
@@ -342,10 +342,10 @@ Save data for%%N'Ever17 -the out of infinity-%%NPremium Edition'%%Nmay be corrup
 Rewrite failed%%N
 
 ;120864;103;『Ever17 -the out of infinity-%%NPremium Edition』の%%Nシステムデータが破損している可能性があります%%N
-System data for%%N'Ever17 -the out of infinity-%%NPremium Edition'%%Nmay be corrupted%%N
+System data for%%N「Ever17 -the out of infinity-%%NPremium Edition」%%Nmay be corrupted%%N
 
 ;1208cc;87;『Ever17 -the out of infinity-%%NPremium Edition』の%%Nシステムデータがありません%%N
-System data for%%N'Ever17 -the out of infinity-%%NPremium Edition'%%Nis not present%%N
+System data for%%N「Ever17 -the out of infinity-%%NPremium Edition」%%Nwas not found%%N
 
 ;120924;31;もう一度チェックしますか？%%N
 Try again?%%N
@@ -357,7 +357,7 @@ Start the game?%%N
 %%SYes%%n  /  %%n%%SNo
 
 ;120994;167;メモリースティック™に%%N『Ever17 -the out of infinity-%%NPremium Edition』の%%Nセーブに必要な空き容量がありませんでした%%Nセーブには%sＫＢ以上の空き容量が必要です%%N
-There is not enough space on Memory Stick™%%Nto save 'Ever17 -the out of infinity-%%NPremium Edition'%%NYou need at least %s KB of free space%%N
+There is not enough space on Memory Stick™%%Nto save 「Ever17 -the out of infinity-%%NPremium Edition」%%NYou need at least %s KB of free space%%N
 
 ;120a3c;47;メモリースティック™が%%N挿入されていません%%N
 Memory Stick™ not inserted%%N
@@ -369,7 +369,7 @@ Memory Stick™ was write-protected%%Nand save data could not be accessed%%N
 Memory Stick™ access error has occurred%%N
 
 ;120b04;91;『Ever17 -the out of infinity-%%NPremium Edition』の%%Nセーブデータがありませんでした%%N
-No save data was found for%%N'Ever17 -the out of infinity-%%NPremium Edition'%%N
+No save data was found for%%N「Ever17 -the out of infinity-%%NPremium Edition」%%N
 
 ;120b60;75;渡されたパラメータが%%N不正でユーティリティが%%N動作できませんでいした%%N
 
@@ -394,7 +394,7 @@ Memory Stick™ is not formatted.%%NDo you want to format and create save data?%
 Formatting%%NPlease do not remove the Memory Stick™
 
 ;120d90;127;『Ever17 -the out of infinity-%%NPremium Edition』の%%Nセーブデータを作成してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Do you want to create save data for%%N'Ever17 -the out of infinity-%%NPremium Edition'?%%N%%SYes%%n  /  %%n%%SNo
+Do you want to create save data for%%N「Ever17 -the out of infinity-%%NPremium Edition」?%%N%%SYes%%n  /  %%n%%SNo
 
 ;120e10;75;セーブデータを作成しています%%Nメモリースティック™を絶対抜かないでください
 Creating save data%%NPlease do not remove the Memory Stick™
@@ -442,13 +442,13 @@ System data loaded
 Choose the save location
 
 ;1211b8;247;『Ever17 -the out of infinity-%%NPremium Edition』の%%Nセーブデータが破損している可能性があります%%Nこのままゲームを開始してもよろしいですか？%%N※このままゲームを開始した場合%%Nシステムデータは初期状態で開始されます%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-The save data of 'Ever17 -the out of infinity-%%NPremium Edition'%%Nmay be corrupted.%%NIf you start the game as it is,%%Nthe system data will be reset.%%NAre you sure?%%N%%SYes%%n  /  %%n%%SNo
+The save data of 「Ever17 -the out of infinity-%%NPremium Edition」%%Nmay be corrupted.%%NIf you start the game as it is,%%Nthe system data will be reset.%%NAre you sure?%%N%%SYes%%n  /  %%n%%SNo
 
 ;1212b0;159;メモリースティック™が挿入されていません%%Nセーブには%sＫＢ以上の空き容量が必要です%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 No Memory Stick™ is inserted%%NAt least %s KB of free space is required for saving%%NAre you sure you want to start the game as is?%%N%%SYes%%N  /  %%n%%SNo
 
 ;121350;231;メモリースティック™に%%N『Ever17 -the out of infinity-%%NPremium Edition』の%%Nセーブデータがありませんでした%%Nセーブには%sＫＢ以上の空き容量が必要です%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-No save data for 'Ever17 -the out of infinity-%%NPremium Edition'%%Nwas found on the Memory Stick™%%NYou need at least %s KB of free space to save.%%NStart the game now?%%N%%SYes%%N  /  %%n%%SNo
+No save data for 「Ever17 -the out of infinity-%%NPremium Edition」%%Nwas found on the Memory Stick™%%NYou need at least %s KB of free space to save.%%NStart the game now?%%N%%SYes%%N  /  %%n%%SNo
 
 ;121438;199;メモリースティック™の空き容量が不足しています%%Nセーブには%sＫＢ以上の空き容量が必要です%%Nこのままではセーブができません%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 There is not enough free space on%%Nthe Memory Stick™.%%NYou need at least %s KB of free%Nspace to save.%%NStart the game as is?%%N%%SYes%%n  /  %%n%%SNo

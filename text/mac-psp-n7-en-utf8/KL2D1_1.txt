@@ -63,10 +63,10 @@ Was...%K%P
 ―That's wrong! What the hell am I saying!?%K%N
 0x190
 ――あれは『夢』なんかじゃない！！%K%N
-―That wasn't a "dream"!!%K%N
+―That wasn't a 「dream」!!%K%N
 0x19C
 ――『夢』なんかじゃなくてっ……%K%P
-―There's no way in hell that was a "dream"...%K%P
+―There's no way in hell that was a 「dream」...%K%P
 0x1E0
 突然！　銃声のように暴力的な音が響いた！%K%P
 Suddenly, I hear a sound as violent as a gunshot!%K%P
@@ -90,7 +90,7 @@ It's impossible. This is impossible.%K%P
 I quickly look at my watch.%K%P
 0x278
 『１日　ＭＯＮ　０９：１９』%K%P
-"1 MON 09:19 A.M."%K%P
+「1 MON 09:19 A.M.」%K%P
 0x284
 ――１日。%K%N
 ―1st.%K%N

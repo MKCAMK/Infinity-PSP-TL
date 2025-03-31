@@ -78,40 +78,40 @@ Her bed is completely empty.%K%P
 There's a notepad on top of a white table near the%Nwindow...%K%P
 0x3C8
 『誠へ……』%K%P
-"Dear Makoto..."%K%P
+「Dear Makoto...」%K%P
 0x3D4
 『ごめんなさい。私、あそこへ行きます』%K%P
-"I'm sorry. I'm going there."%K%P
+「I'm sorry. I'm going there.」%K%P
 0x3E0
 『私には、どうしても行かなければならない理由があるの。だけど、絶対に追いかけて来ないで！』%K%P
-"I have a reason that means I have to go there, no%Nmatter what. But you mustn't come after me!"%K%P
+「I have a reason that means I have to go there, no%Nmatter what. But you mustn't come after me!」%K%P
 0x3EC
 『誠なら、分かるでしょ？　誠まであそこに行ったら、結局、同じ事の繰り返しになってしまう』%K%P
-"If it's you, you'll understand, right? If you go there, the%Nsame thing will happen again in the end."%K%P
+「If it's you, you'll understand, right? If you go there, the%Nsame thing will happen again in the end.」%K%P
 0x3F8
 『歴史はきっと変わらない』%K%P
-"History definitely won't change."%K%P
+「History definitely won't change.」%K%P
 0x414
 『あのテニスの時の賭け……覚えてるよね？』%K%P
-"That bet we made at tennis... remember it?"%K%P
+「That bet we made at tennis... remember it?」%K%P
 0x420
 『私が勝ったら、何でも言うことをきくこと』%K%P
-"Since I won, you have to do any one thing I say."%K%P
+「Since I won, you have to do any one thing I say.」%K%P
 0x42C
 『その権利……今ここで使わせてもらうよ？』%K%P
-"Since I have that right... I'm going to use it now, okay?"%K%P
+「Since I have that right... I'm going to use it now, okay?」%K%P
 0x440
 『誠、誓ってくれたでしょ？%N今後一切、あそこには近寄らない、って……』%K%P
-"You swore it, didn't you? 'I'll never again go back to the%Nshrine'..."%K%P
+「You swore it, didn't you? 'I'll never again go back to the%Nshrine'...」%K%P
 0x44C
 『だから、ね？　お願い……。絶対に追いかけて来ないで！』%K%P
-"That's why, okay? Please... you mustn't come after me!"%K%P
+「That's why, okay? Please... you mustn't come after me!」%K%P
 0x478
 『優夏先生の恋愛方程式その３%N──約束は絶対守ること──』%K%P
-"The Third Law of Professor Yuka's Love%NFormula:―Promises must be kept―"%K%P
+「The Third Law of Professor Yuka's Love%NFormula:―Promises must be kept―」%K%P
 0x484
 『……優夏』%K%P
-"... Yuka."%K%P
+「... Yuka.」%K%P
 0x51C
 オレはロッジを飛び出した。%K%P
 I rush out of the lodge.%K%P
@@ -135,7 +135,7 @@ I've got to stop Yuka by any means necessary before%Nshe gets there.%K%P
 Why, Yuka...?%K%P
 0x59C
 『私ももう２度と、ここには来ないから……』%K%N
-"I'll never come here again either..."%K%N
+「I'll never come here again either...」%K%N
 0x5A8
 そう言ったじゃないか！%K%P
 You said that, didn't you!?%K%P
@@ -162,7 +162,7 @@ It can't be...%K%N
 It can't be that that was Yuka?%K%P
 0x654
 優夏が言った言葉──『誰かが死ぬ夢だった』%K%P
-Yuka said that she had―"a dream where someone%Ndied".%K%P
+Yuka said that she had―「a dream where someone%Ndied」.%K%P
 0x660
 それがもしも、嘘だったとしたら？%K%P
 What if that was a lie?%K%P
@@ -228,7 +228,7 @@ Yuka said that under the tempest of stardust...%K%P
 My chest grows hot, like it's burning.%K%P
 0x804
 『約束は絶対守ること』%K%P
-"Definitely keep your promises."%K%P
+「Definitely keep your promises.」%K%P
 0x810
 そうだ！%K%N
 That's right!%K%N
@@ -240,7 +240,7 @@ There's no way I'm going to break my promise!%K%P
 I made a vow to that starry sky!%K%N
 0x834
 ──『優夏を必ず守ってみせる！』と……。%K%P
-―"I will definitely protect Yuka!"%K%P
+―「I will definitely protect Yuka!」%K%P
 0x840
 いや、けれど義務感なんかじゃなかった。%K%N
 No, but this isn't anything like a sense of duty.%K%N

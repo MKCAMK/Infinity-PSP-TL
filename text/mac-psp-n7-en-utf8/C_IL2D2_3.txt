@@ -12,7 +12,7 @@ One person admires the cherry blossoms in full bloom...%NAnother's thoughts turn
 ... and yet another person frolics like an innocent child%Nwhile trying to claw their way up the lighthouse...%K%P
 0x64
 それは、オレが初めて経験した過去だった。%K%P
-This is the first time I've experienced this "past".%K%P
+This is the first time I've experienced this 「past」.%K%P
 0x70
 この時間の中で、新たに生まれた現実だった。%K%P
 A new reality has been born in this time.%K%P
@@ -54,7 +54,7 @@ On the way back to Lunabeach from Viewpoint Park, I%Npurposely slow my pace.%K%P
 As everyone's retreating figures become smaller, I%Nfreely think to myself.%K%P
 0x210
 『無限ループ』%K%N
-"Infinite loop."%K%N
+「Infinite loop.」%K%N
 0x21C
 今までの状況を考えれば、確かにその推測は間違いではないようだ。%K%N
 If I think about the situation up until now, that conjecture%Ncertainly seems right.%K%N
@@ -81,16 +81,16 @@ In short, the memories I had in the last loop were very%Nfaint fragments.%K%N
 Though I sometimes vaguely recalled things right before%Nthey happened, those moments were rare; it was as if I%Nhad forgotten everything else.%K%N
 0x284
 ──じゃあ、どうして今のオレには、こんなにも『完全な記憶』が？%K%N
-―Then why is it that the current me has such%N"complete memories"?%K%N
+―Then why is it that the current me has such%N「complete memories」?%K%N
 0x290
 ………………………………。%K%P
 ...%K%P
 0x2A4
 だいたい『記憶』って、何なんだろう？%K%N
-In the first place, just what is "memory"?%K%N
+In the first place, just what is 「memory」?%K%N
 0x2B0
 『記憶』っていうのは、脳に刻まれるものなんじゃないのか？%K%N
-What we call a "memory" is something that's etched into%Nyour brain, isn't it?%K%N
+What we call a 「memory」 is something that's etched into%Nyour brain, isn't it?%K%N
 0x2BC
 だとすると『今のオレの脳』は、『タイムスリップする直前の脳』と同じもの、ということになる。%K%N
 If that's the case, then that means my current brain is%Nthe same as my brain just before I time traveled.%K%N
@@ -117,10 +117,10 @@ Although I'm admonishing myself, I try to brainstorm some%Nmore...%K%P
 ... But from then on, I just keep repeating the same%Nquestion.%K%N%N
 0x32C
 （それじゃあどうして、今のオレには『完全な記憶』が？）%K%N
-(Then why does the current me have "complete%Nmemories"?)%K%N
+(Then why does the current me have 「complete%Nmemories」?)%K%N
 0x338
 （この鮮明な『記憶』は、いったいどこからやって来たと言うんだ？）%K%N
-(Just where did these clear "memories" come from?)%K%N
+(Just where did these clear 「memories」 come from?)%K%N
 0x344
 （はぁ……）%K%N%N
 (Haah...)%K%N%N
@@ -528,7 +528,7 @@ Before long...%K%N
 I've been left behind...%K%P
 0xB44
 ふと、足元を見ると、道の片隅に『コンクリートのカケラ』が転がっていた。%K%P
-Suddenly, when I look down at my feet, I see the%N"fragment of concrete" lying in a corner of the road.%K%P
+Suddenly, when I look down at my feet, I see the%N「fragment of concrete」 lying in a corner of the road.%K%P
 0xB50
 昨夜、あの鈴を砕いた、いや砕こうとした、例のカケラだ。%K%P
 It's the piece that I used last night to destroy (well, tried%Nto destroy) the bell.%K%P
@@ -543,16 +543,16 @@ It's the piece that I used last night to destroy (well, tried%Nto destroy) the b
 (Is it related to the cause of the time travel?)%K%P
 0xB90
 『タイムスリップ』%K
-"Time travel."%K
+「Time travel.」%K
 0xB9C
 　『無限ループ』%K%N
-"The infinite loop."%K%N
+「The infinite loop.」%K%N
 0xBA8
 『記憶の謎』%K
-"The mystery of our memories."%K
+「The mystery of our memories.」%K
 0xBB4
 　『鈴の正体』%K%P
-"The true nature of the bell."%K%P
+「The true nature of the bell.」%K%P
 0xBC0
 考えれば考えるほど、謎は深まるばかりだ。%K%P
 The mysteries just keep intensifying the more I mull over%Nthem.%K%P

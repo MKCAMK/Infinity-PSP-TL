@@ -12,7 +12,7 @@ Damn. She said it again...%K%P
 Makoto「I know! You don't have to tell me for me to know that!」%K%P
 0x8C
 遙「いいよ。代わりに私がどんどん釣ってあげる」%K%P
-Haruka「It's fine. That's why I'm catching so much- it's to make up%Nfor you.」%K%P
+Haruka「It's fine. That's why I'm catching so much―it's to make up%Nfor you.」%K%P
 0x98
 冷やかすように、遙が上目づかいでオレのことを覗き込んでいる。%K%N
 Haruka teases me with a coy grin.%K%N
@@ -129,7 +129,7 @@ Haruka「Yes... That's why it's shiranui...」%K%P
 Haruka「Makoto... as I thought, you really have no talent for this.」%K%P
 0x438
 遙「いいよ。代わりに私がどんどん釣ってあげる」%K%P
-Haruka「It's fine. That's why I'm catching so much- it's to make up%Nfor you.」%K%P
+Haruka「It's fine. That's why I'm catching so much―it's to make up%Nfor you.」%K%P
 0x480
 大学に入ってからというもの、怠惰で内容の無い%N生活を送ってきたオレにとっては、どれもこれも%N貴重な体験ばかりだった。%K%P
 To me, who has been a slacker since entering college, all%Nof those memories are just precious personal%Nexperiences to me.%K%P
@@ -138,10 +138,10 @@ To me, who has been a slacker since entering college, all%Nof those memories are
 Now that I think about it, what was the goal of this Camp%Nagain...?%K%P
 0x498
 『最初っから目的なんか無い。有るとすれば、班員の親睦を深めることが唯一の目的だ』%K……億彦は確か%Nそんなことを言ってたな。%K%P
-"From the start, there was no goal. If there truly is one,%Nthen it's only to deepen the bonds of friendship%Nbetween the group members."%K ... Okuhiko certainly said%Nsomething like that, didn't he?%K%P
+「From the start, there was no goal. If there truly is one,%Nthen it's only to deepen the bonds of friendship%Nbetween the group members.」%K ... Okuhiko certainly said%Nsomething like that, didn't he?%K%P
 0x4A4
 『合宿最終日まで、合宿の主旨を教えてはならない』%K……こっちは優夏の言葉だ。%K%P
-"Until the last day of the Camp, I can't tell anyone the%Npurpose behind it." ... Yuka also said something like that.%K%P
+「Until the last day of the Camp, I can't tell anyone the%Npurpose behind it.」 ... Yuka also said something like that.%K%P
 0x4B0
 けれどそんなことなんて、もはやどうでもよかった。%K%P
 But none of that matters to me anymore.%K%P
@@ -162,7 +162,7 @@ On the afternoon of the 7th, we'll have no choice but to%Nleave here.%K%N
 And then, we'll return to our ordinary lives.%K%P
 0x4F8
 普段の生活……。%K普段って何だ？%K%N何もない生活のことか？%K%N
-Ordinary lives... Just what is "ordinary"? An empty life%Nwhere nothing happens?%K%N
+Ordinary lives... Just what is 「ordinary」? An empty life%Nwhere nothing happens?%K%N
 0x504
 そのことを考えると、ユウウツにならずには%Nいられなかった。%K%P
 When I think that, I can't help but become melancholic.%K%P
@@ -273,13 +273,13 @@ If it was just a little bit colder, then there'd be frost%Ncollecting on the gro
 We silently advance towards the coastline.%K%P
 0x83C
 （今夜は『姫ヶ浜』まで行こう）%K%P
-(We'll only go as far as "Princess Beach" tonight.)%K%P
+(We'll only go as far as 「Princess Beach」 tonight.)%K%P
 0x848
 オレはそう思っていた。%K%N
 I think this, briefly thinking back to something that%Nhappened a few moments ago.%K%N
 0x854
 ロッジを出たとき『近くで海が見たい』と遙が%Nつぶやいたからだ。%K%P
-When we left the lodge, Haruka had muttered, "I want to%Ngo somewhere close where we can see the ocean."%K%P
+When we left the lodge, Haruka had muttered, 「I want to%Ngo somewhere close where we can see the ocean.」%K%P
 0x868
 誠「今夜はずっと、星が見えそうにないな……」%K%P
 Makoto「I don't think we'll be able to see the stars tonight...」%K%P
@@ -414,7 +414,7 @@ My heart is brimming with emotions.%K%N
 Haruka said it just now.%K%N
 0xACC
 『誠と……２人っきりでいたかったから』%W%Wと……。%K%P
-"I wanted... just the two of us to be together..."%K%P
+「I wanted... just the two of us to be together...」%K%P
 0xAD8
 遙は、オレを男として見てくれている。%K%N
 Haruka sees me as a man.%K%N
@@ -492,16 +492,16 @@ Haruka silently turns her gaze towards me.%K%P
 Makoto「Why is it that you love water so much?」%K%P
 0xCC8
 そう……あくまでも『水』なのだ。%K%P
-Yes... the ever-persistent "water".%K%P
+Yes... the ever-persistent 「water」.%K%P
 0xCD4
 海に限らず……%K%Nプールに限らず……%K水道の蛇口からしたたる水滴に%N限らず……。%K%P
 Not just the ocean... Not just the pool... Not just the%Ndrops of water from the dripping faucet...%K%P
 0xCE0
 オレには、遙がずっと『水』に執着しているように思えていた。%K%P
-I feel that Haruka has always been attached to "water".%K%P
+I feel that Haruka has always been attached to 「water」.%K%P
 0xCEC
 『好き嫌い』などというレベルを遥かに超えて……。%K%P
-It's way beyond the level of "liking or disliking"%Nsomething...%K%P
+It's way beyond the level of 「liking or disliking」%Nsomething...%K%P
 0xCF8
 遙「…………」%K%P
 Haruka「...」%K%P
