@@ -24,13 +24,13 @@ Okuhiko says this.%K%P
 He's right... Thanks to the fact it's facing the water and%Nthat you can can hear the pleasant sound of the tiny%Nwaves washing up on shore, it's reminiscent of an Italian%Nrestaurant overlooking the Adriatic Sea.%K%P
 0x13C
 入り口の上にかけられた看板には『ルナビーチ』%W%Wとある。%K%P
-The sign above the entrance reads "Lunabeach" in big%Nletters.%K%P
+The sign above the entrance reads 「Lunabeach」 in big%Nletters.%K%P
 0x148
 ルナビーチ……か。%K%P
 Lunabeach... huh.%K%P
 0x154
 入り口の扉には『営業中』と書かれたプレートが%Nかかっている。%K%P
-The front door has has a plate with the word "OPEN"%Nwritten on it.%K%P
+The front door has has a plate with the word 「OPEN」%Nwritten on it.%K%P
 0x168
 しばらくオレ達は足取りを止め、喫茶店と夕焼空とが織り成す情景に目を奪われていた。%K%P
 After a little while, we stop walking as we take in the sight%Nof the café interweaving itself with the late afternoon%Nsky.%K%P
@@ -321,7 +321,7 @@ Spoil a child too much, and she'll grow up spoiled. Well,%Nthat's my outside opi
 (Huh? ... Morino?)%K%P
 0x7F0
 オレは『守野』という名字に、なにやら奇妙な感覚を覚えた。%K%P
-The surname "Morino" triggers something within me.%K%P
+The surname 「Morino」 triggers something within me.%K%P
 0x7FC
 ……どこかで聞いたような？%K%N
 ... Where have I heard it before?%K%N
@@ -447,7 +447,7 @@ She tells her how we'll be juniors in college.%K%N
 That we're all members of the same seminar.%K%P
 0xA70
 現在、合宿のために近くのロッジに泊まっているということ%K……なんかを話して聞かせる。%K%P
-That we're currently staying at a nearby lodge for a%N"Seminar Camp"... She explains everything.%K%P
+That we're currently staying at a nearby lodge for a%N「Seminar Camp」... She explains everything.%K%P
 0xA7C
 やがて、優夏、オレと、それぞれが自己紹介を済ました。%K%P
 Afterwards, we both give her our names.%K%P
@@ -558,7 +558,7 @@ Kurumi「... Did you say... 'Iida'?」%K%P
 I'm taken aback by Kurumi's words.%K%P
 0xD60
 おい、億彦……！　お前、ピザの配達の時に%N『朝倉』って名乗っていただろうがっ……。%K%P
-Dammit, Okuhiko...! When you accepted the pizza, you%Nintroduced yourself as "Asakura"...%K%P
+Dammit, Okuhiko...! When you accepted the pizza, you%Nintroduced yourself as 「Asakura」...%K%P
 0xD74
 億彦もそれに気づいたらしく、ポーズをとったまま硬直している。%K%P
 Okuhiko seems to have realized this too, as his body%Nstiffens.%K%P
@@ -726,7 +726,7 @@ Giving me a brief glance, Yuka takes a deep breath and%Nstares at Saki.%K%N
 She looks surprised.%K%P
 0x1150
 億彦が『フン』と鼻を鳴らす音が聞こえた。%K%N
-I hear Okuhiko snort, as if to say "Hmph".%K%N
+I hear Okuhiko snort, as if to say 「Hmph」.%K%N
 0x115C
 沙紀にズバズバやられたことが気に喰わないのだ。%K%P
 Saki doesn't seem very pleased by my words.%K%P
@@ -837,7 +837,7 @@ Kurumi「It did too! Kurumi delivered it to an 'Asakura-san'!」%K%P
 I suddenly realize what's going on. It was the pizza from%Nlunch.%K%N
 0x1314
 確かにくるみは『朝倉さんに』と言っていた。%K%P
-Kurumi had said she was bringing it to an "Asakura-san".%K%P
+Kurumi had said she was bringing it to an 「Asakura-san」.%K%P
 0x1320
 それを億彦が……。%Kオレは億彦を見た。%K%N億彦も気づいたらしく、あたふたとしている。%K%P
 And then, Okuhiko... I look at Okuhiko. The guy looks%Nantsy; he must understand what's going on as well.%K%P
@@ -852,7 +852,7 @@ Saki「Don't talk until I say so!」%K%P
 Kurumi「Kurumi did deliver it to 'Asakura-san'!」%K%P
 0x136C
 と、億彦を指差す。%W%N一瞬、億彦が困ったように顔をそむけた。%K%P
-She points towards Okuhiko. Okuhiko instantly turns his%Nhead away, as if to say "Oh crap!".%K%P
+She points towards Okuhiko. Okuhiko instantly turns his%Nhead away, as if to say 「Oh crap!」.%K%P
 0x1378
 沙紀「ちょっとどういうことなのよ、それ！？」%K%P
 Saki「Just what the hell does that mean!?」%K%P
@@ -861,7 +861,7 @@ Saki「Just what the hell does that mean!?」%K%P
 Saki glares at Okuhiko. Okuhiko abruptly stops in his%Ntracks. It seems he was trying to run away.%K
 0x2BE0
 『いや、だからそれは……』
-"No, you see, that's because..."
+「No, you see, that's because...」
 0x2BEC
 オレは億彦をかばう気など毛頭なかった
 I won't cover for Okuhiko.
@@ -966,10 +966,10 @@ Izumi「Will you all eat with them as well?」%K%P
 Izumi「Will you all eat with them as well?」%K
 0x2BF8
 『よろこんで♪』
-"With pleasure♪"
+「With pleasure♪」
 0x2C04
 『え〜っと……』
-"Um..."
+「Um...」
 0x168C
 誠「よろこんで♪」%K%P
 Makoto「With pleasure♪」%K%P
@@ -1008,10 +1008,10 @@ I gaze at the hesitant Haruka.%K%P
 ... Haruka suddenly averts her eyes.%K%P
 0x1764
 ……私、いい……。%W%Wオレにはそう言っているように思えた。%K%P
-... "I'll pass"... is what I think she's trying to say.%K%P
+... 「I'll pass」... is what I think she's trying to say.%K%P
 0x1770
 それならば……。%Kそこまで思いかけた時……。%K%P
-"If that's the case, then..." Just as I begin to think that...%K%P
+「If that's the case, then...」 Just as I begin to think that...%K%P
 0x178C
 くるみ「ねぇ〜、食べていきなよぉ〜」%K%P
 Kurumi「Hey, come on and eat.」%K%P
@@ -1182,7 +1182,7 @@ Everyone nods in agreement.%K%P
 Kurumi「But what should we do about rice now...? That's the real%Nquestion.」%K%P
 0x1B24
 誠「だったら、オレが買って来ようか？」%K%P
-Makoto「Here's an idea- what if I go buy some?」%K%P
+Makoto「Here's an idea―what if I go buy some?」%K%P
 0x1B30
 オレは真っ先に名乗りをあげた。%K%P
 I immediately offer to help.%K%P

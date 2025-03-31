@@ -42,7 +42,7 @@ It can't be...%K%N
 Back then, did Kurumi pick it up... before I could find it...?%K%P
 0x150
 あの『鈴』を……。%K%P
-That "bell"...%K%P
+That 「bell」...%K%P
 0x1E8
 バカな……。%K%N
 Impossible...%K%N
@@ -99,13 +99,13 @@ Izumi「... Kurumi... might not be my real sister...」%K%P
 (Why did she say that...?)%K%P
 0x3A8
 （『くるみは私の本当の妹よ』──そう思ってるんだったら……何で……）%K%P
-("Kurumi is my real sister"―if you had just thought%Nthat, then... dammit!)%K%P
+(「Kurumi is my real sister」―if you had just thought%Nthat, then... dammit!)%K%P
 0x3B4
 ふと、気がついて腕時計を見る。%K%P
 I find myself looking at my watch as I come to my senses.%K%P
 0x3C0
 『６日　ＳＡＴ　０４：２０』%K%P
-("6 SAT 4:20 A.M.")%K%P
+(「6 SAT 4:20 A.M.」)%K%P
 0x3CC
 もう探している時間はない。%K%N
 There's no more time to search.%K%N

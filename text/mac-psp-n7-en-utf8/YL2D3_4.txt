@@ -3,7 +3,7 @@ text area offset and size:
 0x5FE
 0x5C
 オレはくるみと一緒に『お江戸でガッテン』を%N見ていた。%K%P
-Kurumi and I watch "Oedo Gatten" together.%K%P
+Kurumi and I watch 「Oedo Gatten」 together.%K%P
 0x68
 他のみんなは温泉に行っている。%K%P
 The others go to the hot springs.%K%P
@@ -45,7 +45,7 @@ Everyone returns from the hot springs around 11:00...%K%P
 Saki, Izumi-san, and Kurumi go back to their respective%Nhomes.%K%P
 0x184
 他のメンバーと『おやすみ』の挨拶を交わし、オレは部屋へと戻って来た。%K%P
-I say "goodnight" to the rest of the members, and return%Nto my room.%K%P
+I say 「goodnight」 to the rest of the members, and return%Nto my room.%K%P
 0x190
 天井をボーッと見つめながら、今日という１日を考えてみる。%K%P
 As I absently stare at the ceiling, I think about today.%K%P

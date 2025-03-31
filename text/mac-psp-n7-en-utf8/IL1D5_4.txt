@@ -192,7 +192,7 @@ The customers finally stop coming.%K%P
 Izumi「Makoto-kun, shall we take a little break...?」%K%P
 0x6B0
 最後の客が店を出て行くと、いづみさんは入口のプレートを『準備中』にして戻って来た。%K%P
-Once the last customer has left, Izumi-san turns the%Nplate on the entrance from "OPEN" to "CLOSED" and%Ncomes back.%K%P
+Once the last customer has left, Izumi-san turns the%Nplate on the entrance from 「OPEN」 to 「CLOSED」 and%Ncomes back.%K%P
 0x6C4
 いづみ「はい、どうぞ……」%K%P
 Izumi「Here you go...」%K%P
@@ -213,7 +213,7 @@ It's so quiet here that it feels like that the hustle and%Nbustle that was going
 Suddenly, I remember those words from last night.%K%P
 0x70C
 『……だからお願い。しばらくの間、あなたを好きでいさせて……』%K%P
-"... So please... For this short time, let me love you..."%K%P
+「... So please... For this short time, let me love you...」%K%P
 0x718
 ……そんなふうに言ってくれた人が、今、目の前に座っている。%K%P
 ... The one who said those words is sitting in front of me%Nright now.%K%P
@@ -258,7 +258,7 @@ Makoto「Y-Yes... I should be perfectly fine.」%K%P
 This conversation is making me so overly-conscious of%Nmyself that I'm getting flustered.%K%P
 0x7C8
 そわそわしていたのだ。何かの拍子に『あの時の返事は？』と聞かれてしまいそうで……。%K%P
-I'm restless. The way she's acting, it seems like she'll end%Nup asking me "What's your answer from last night?" any%Nminute now...%K%P
+I'm restless. The way she's acting, it seems like she'll end%Nup asking me 「What's your answer from last night?」 any%Nminute now...%K%P
 0x7E4
 すると突然……%K%P
 Just then, out of the blue...%K%P
@@ -483,4 +483,4 @@ Kurumi「Yaay♪ Let's all play a card game tonight, guys!」%K%P
 The overjoyed Kurumi skips about the room.%K%P
 0xD48
 その様子を見たいづみさんは『しょうがないわねぇ』といった感じで、眉間にシワを寄せていた。%K%P
-Izumi-san furrows her brow at this, as if to say, "can't be%Nhelped".%K%P
+Izumi-san furrows her brow at this, as if to say, 「can't be%Nhelped」.%K%P

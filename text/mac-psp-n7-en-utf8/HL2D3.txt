@@ -252,7 +252,7 @@ Before long, he takes an imposing stance in front of%NHaruka, and suddenly says 
 Okuhiko「Why did you go fishing with Ishihara? What do you see in%Nthat asshole?」%K%P
 0x904
 すぐ目の前にいるオレのことを『あいつ』呼ばわりする億彦。%K%N
-Even though he's right in front of me, Okuhiko calls me%N"that asshole".%K%N
+Even though he's right in front of me, Okuhiko calls me%N「that asshole」.%K%N
 0x910
 オレの存在を無視するかのような言い方だった。%K%P
 He talks as if he's ignoring my existence altogether.%K%P
@@ -321,10 +321,10 @@ But... that awful event could happen depending on my%Nreply!!%K%P
 (Just how should I answer...???)%K
 0x1E08
 『オレと遙は信じあってる』
-"Haruka and I trust each other."
+「Haruka and I trust each other.」
 0x1E14
 『オレ達は釣りに行ってただけだ』
-"All we did was go fishing."
+「All we did was go fishing.」
 0xAD8
 誠「そうだ！　オレと遙は信じあってるんだ！」%K%P
 Makoto「That's right! Haruka and I trust each other!」%K%P
@@ -531,7 +531,7 @@ Haruka smiles.%K%N
 It's a tender grin.%K%P
 0xFBC
 『私達は信じあっているの』%K%N
-"We trust each other."%K%N
+「We trust each other.」%K%N
 0xFC8
 遙の言葉が蘇ってくる……。%K%P
 I remember Haruka's words...%K%P
@@ -582,7 +582,7 @@ Haruka「You've just been... gazing at my forehead...」%K%P
 My glance... Haruka must have realized that I was firmly%Nstaring at her forehead.%K%P
 0x10A0
 『信じあっているのに……』%K%P
-"Even though we trust each other..."%K%P
+「Even though we trust each other...」%K%P
 0x10AC
 確かにそうだ。%K%N別に隠すことなんかないんじゃないのか？%K%P
 She's right. I don't really have a reason to hide it, do I?%K%P
@@ -618,7 +618,7 @@ Makoto「How did you get that...?」%K%P
 I try asking one more time.%K%P
 0x117C
 遙は口を結んだまま……『さあ？』と言った感じで%N小首を傾げた。%K%P
-Haruka remains silent... She tilts her head as if to say,%N"Who knows?"%K%P
+Haruka remains silent... She tilts her head as if to say,%N「Who knows?」%K%P
 0x1188
 誠「覚えてないのか？」%K%P
 Makoto「You don't remember?」%K%P
@@ -765,7 +765,7 @@ The media extensively reported on this, but... In the end,%Nthey couldn't find K
 ... Dr. Morino decided to recreate Kurumi.%K%N%N
 0x15A8
 どうしても我が子に会いたかった……。%K%N%N
-"I want to see my child again, no matter what..."%K%N%N
+「I want to see my child again, no matter what...」%K%N%N
 0x15B4
 人の親ならば誰しもが抱く当然の感情を、彼は%N己の技術によって達成しようと考えたのだ。%K%P
 With these sentiments that any parent must have, he%Nthought to use his own technology to achieve them.%K%P
@@ -867,7 +867,7 @@ Izumi-san leaves the room after finishing her story.%K%P
 In the empty room, my thoughts turn to Haruka.%K%N
 0x18B4
 『私は誰かの代わりだから』%K%N
-"Because I'm just someone's replacement."%K%N
+「Because I'm just someone's replacement.」%K%N
 0x18C0
 ……確かに遙はそう言っていた。%K%P
 ... Haruka certainly said that.%K%P
@@ -876,7 +876,7 @@ In the empty room, my thoughts turn to Haruka.%K%N
 The most important thing about Izumi-san's story just%Nnow is...%K%N
 0x18D8
 ──くるみが遙の『オリジナル』であるかもしれないということだ！%K%P
-―that Kurumi might be Haruka's "Original"!%K%P
+―that Kurumi might be Haruka's 「Original」!%K%P
 0x18E4
 これは、自分のルーツが何であるかをつかみかねて%Nいる遙にとっては、極めて重要な事だろう。%K%P
 Haruka must be dying to learn this sort of information%Nabout her roots.%K%P
@@ -906,7 +906,7 @@ It echoes in the dark and quiet room.%K%P
 Struck by a sudden idea, I spontaneously stand on top%Nof my bed.%K%P
 0x1950
 『彼女達２人が同じじゃないことを証明する！』%K%N……これが最も有効な方法ではないのだろうか？%K%P
-"I just need to prove those two aren't the same!" ... Isn't%Nthat the most effective method?%K%P
+「I just need to prove those two aren't the same!」 ... Isn't%Nthat the most effective method?%K%P
 0x195C
 ２人の差を見つける！%K%N
 I'll look for the differences between them!%K%N

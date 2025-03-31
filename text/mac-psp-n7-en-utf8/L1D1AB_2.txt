@@ -3,7 +3,7 @@ text area offset and size:
 0x1A10
 0x54
 オレと優夏は、例の『不思議な物体』の全てと、それぞれ２枚ずつ（億彦と遙の残した分を合わせて）の『炭』を平らげた。%K%P
-Yuka and I ate all of the "Mysterious Object", along with%Ntwo pieces each of the "charcoal", including Haruka and%NOkuhiko's share.%K%P
+Yuka and I ate all of the 「Mysterious Object」, along with%Ntwo pieces each of the 「charcoal」, including Haruka and%NOkuhiko's share.%K%P
 0x60
 優夏は今、幸せそうに鼻歌なんぞ唄いながら、%Nキッチンで食器を洗っている。%K%P
 Right now, Yuka is happily humming while washing the%Ndishes.%K%P
@@ -150,7 +150,7 @@ Yuka「Why would I do that?」%K%P
 Makoto「What about you, Okuhiko?」%K%P
 0x3A0
 背中を向けたまま、手の平を軽く振って『ＮＯ』を示す億彦。%K%P
-With his back turned to me, Okuhiko lightly waves his palm,%Nindicating a "no."%K%P
+With his back turned to me, Okuhiko lightly waves his palm,%Nindicating a 「no.」%K%P
 0x3AC
 残るは遙か……。%K%P
 All that's left is Haruka...%K%P
@@ -204,10 +204,10 @@ As she says this, she hands over the receipt.%K%P
 I take it from her and compare it to the nameplate.%K%P
 0x4A4
 表札には『３丁目８番地１号』とあった。%K%P
-The nameplate says, "District 3, House 8, #1".%K%P
+The nameplate says, 「District 3, House 8, #1」.%K%P
 0x4B0
 そして伝票にも『３−８−１』と書かれている。%K%P
-And written on the receipt is "3-8-1".%K%P
+And written on the receipt is 「3-8-1」.%K%P
 0x4BC
 誠「あれ？」%K%P
 Makoto「Huh?」%K%P
@@ -216,7 +216,7 @@ Makoto「Huh?」%K%P
 I take a closer look at them.%K%P
 0x4D4
 『３丁目８番地１号』と『３−８−１』%K%P
-"District 3, House 8, #1" and "3-8-1".%K%P
+「District 3, House 8, #1」 and 「3-8-1」.%K%P
 0x4E0
 ……ん？？？%K%P
 ... What's this???%K%P

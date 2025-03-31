@@ -201,7 +201,7 @@ It's quiet between us.%K%P
 Whenever I try to talk to her, Saki just bluntly retaliates.%NThis isn't getting anywhere...%K%P
 0x500
 無言による気まずい空気は重苦しく、ゆっくりと進んでいる分、より時間の流れが長く感じられた。%K%P
-The atmosphere's become quite awkward. Guess this the%Nopposite of "time flies when you're having fun", huh...?%K%P
+The atmosphere's become quite awkward. Guess this the%Nopposite of 「time flies when you're having fun」, huh...?%K%P
 0x50C
 こんなことなら、驚かしてでもスピードを上げるべきだったか……？%K%P
 If I had known things would be going this slow, then%Nshould I have sped up even if it would have scared%Nher...?%K%P
@@ -399,7 +399,7 @@ Look away.
 Our eyes meet, and I try giving her a little smile.%K%P
 0xBC0
 沙紀はつん、とオレから目を逸らした。何も喋ろうとしない。%K%P
-Saki gives a "hmph", and averts her eyes. She doesn't%Nsay a word.%K%P
+Saki gives a 「hmph」, and averts her eyes. She doesn't%Nsay a word.%K%P
 0xBCC
 （え、そんな。……やっぱり）%K%P
 (Wait a minute... Yuka!)%K%P

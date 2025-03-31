@@ -12,10 +12,10 @@ Saki and I are heading towards the lodge.%K%P
 Saki「Makoto-kun, you don't think I'm obscene, do you?」%K
 0x1070
 『そんなこと……ない』
-"Of course... not."
+「Of course... not.」
 0x107C
 『うっ……』
-"Uhh..."
+「Uhh...」
 0xC4
 誠「そんなこと……ない」%K%P
 Makoto「Of course... not.」%K%P
@@ -177,7 +177,7 @@ I trust Saki's words.%K%P
 I just promised it earlier...%K%P
 0x388
 『どんなことがあっても、沙紀だけを信じる』と……。%K%P
-"No matter what happens, I'll only trust Saki."%K%P
+「No matter what happens, I'll only trust Saki.」%K%P
 0x3F4
 そうこうしているうちに、オレ達はルナビーチの前までやって来ていた。%K%P
 While we were talking, we pass by the front of Lunabeach.%K%P
@@ -366,7 +366,7 @@ Saki lowers her head as her shoulders shake.%K%P
 Saki「This is all the same, isn't it... This is the same as back%Nthen...!!」%K%P
 0x8F8
 あの時、って……。%K%P
-"Back then"...%K%P
+「Back then」...%K%P
 0x904
 まさか……億彦を命の恩人だと勘違いしてた……あの時の事を言ってるのか？%K%P
 It can't be... is she talking about the time... where she%Nmistook Okuhiko as the one who saved her life?%K%P
@@ -396,7 +396,7 @@ I made the same mistake Okuhiko made.%K%P
 Though I didn't have any ill intentions, I still ended up%Ndeceiving her, just like he did.%K%P
 0x978
 『人は嘘ついてばっかり』%K%N
-"Humans are just liars."%K%N
+「Humans are just liars.」%K%N
 0x984
 沙紀の言葉が、重く胸にのしかかっていた……。%K%P
 Saki's words weigh heavily in my heart...%K%P

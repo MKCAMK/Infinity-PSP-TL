@@ -186,7 +186,7 @@ Kurumi「Yay♪ Crabs...」%K%P
 Kurumi「Crabs〜〜♪」%K%P
 0x66C
 歓声をあげながら、くるみは『親方』をむんずとつかみ取った。%K%P
-As she shouts in joy, Kurumi picks out and takes the%N"stable manager".%K%P
+As she shouts in joy, Kurumi picks out and takes the%N「stable manager」.%K%P
 0x678
 くるみ「ねぇ、カニさん。くるみとジャンケンしようか？」%K%P
 Kurumi「Hey, Mr. Crab. Wanna play Rock-Paper-Scissors with%NKurumi?」%K%P
@@ -303,7 +303,7 @@ Kurumi「Rock, Paper, Scissors... Go!」%K%P
 When she shouts this, I stick out my firmly clenched fist!%K%P
 0x89C
 当然、くるみの出した手は『カニ』%K%P
-Naturally, Kurumi has stuck out the "crab".%K%P
+Naturally, Kurumi has stuck out the 「crab」.%K%P
 0x8B0
 くるみ「うわぁ〜ん、負けちゃったよぉ〜」%K%P
 Kurumi「Uwaa, Kurumi lost〜」%K%P
@@ -405,7 +405,7 @@ Kurumi「GOOOOO〜〜!」%K%P
 Kurumi「Ring out! Sumo Crab wins〜♪」%K%P
 0xB04
 勝った『親方』と負けたカニ……その両方のコウラを、くるみは指先で撫でていた。%K%P
-Kurumi takes the winning crab (the "stable manager")%Nand the losing crab, and strokes them equally.%K%P
+Kurumi takes the winning crab (the 「stable manager」)%Nand the losing crab, and strokes them equally.%K%P
 0xB10
 弾けるような笑顔を、満面に浮かべながら……。%K%P
 A smile crosses her entire face...%K%P
@@ -543,7 +543,7 @@ Grains of sand fall off her face like rain drops.%K%P
 I think that this is all right.%K%P
 0xDA8
 『真実かどうかよりも、信じれるかどうかのほうが大切』%K%P
-"What's more important than whether it's true or not is%Nwhether you can believe it or not."%K%P
+「What's more important than whether it's true or not is%Nwhether you can believe it or not.」%K%P
 0xDB4
 （要するに……そういうことなのだ……）%K%P
 (In short... that's how it is...)%K%P

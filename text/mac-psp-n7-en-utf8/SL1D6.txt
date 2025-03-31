@@ -420,10 +420,10 @@ Kurumi「...」%K%P
 Haruka「...」%K
 0x1F60
 『どうなんだ、沙紀？』
-"Well, Saki?"
+「Well, Saki?」
 0x1F6C
 『……………………』
-"..."
+「...」
 0xD40
 誠「どうなんだ、沙紀？」%K%P
 Makoto「Well, Saki?」%K%P
@@ -522,7 +522,7 @@ Makoto「I don't know... I just don't know...」%K%P
 I just want to scream that she's innocent...%K%P
 0xF84
 『違う！　沙紀じゃない！』──そう言いたいのに、言えなかった。%K%P
-"You're wrong! It wasn't Saki!"― I want to so badly, but%NI can't.%K%P
+「You're wrong! It wasn't Saki!」― I want to so badly, but%NI can't.%K%P
 0xF90
 昨夜見たあの後ろ姿は、間違いなく沙紀だった。%K%P
 That person I saw last night was definitely Saki.%K%P
@@ -666,10 +666,10 @@ At that time, what should I say to Saki?%K%P
 What do I even want to say once I catch up with her?%K%P
 0x1370
 『言葉なんかいらない……』%K%P
-"You don't need words..."%K%P
+「You don't need words...」%K%P
 0x137C
 『オレが猫と桜になってやる』%K%P
-"I'll become the cat and the cherry blossom tree."%K%P
+「I'll become the cat and the cherry blossom tree.」%K%P
 0x1388
 昨日、オレは沙紀にそう言った。%K%P
 I said that to Saki yesterday...%K%P

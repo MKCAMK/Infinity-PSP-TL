@@ -156,10 +156,10 @@ Makoto「I see...%T060 What?」%K%P
 Izumi「Could you please help out?」%K
 0x668
 『まかせてよ』
-"Leave it to me."
+「Leave it to me.」
 0x674
 『……実は用事が』
-"... I've got an errand."
+「... I've got an errand.」
 0x3F0
 誠「うん。それなら任せてよ！　いづみさん！」%K%P
 Makoto「Yes, leave it to me, Izumi-san!」%K%P

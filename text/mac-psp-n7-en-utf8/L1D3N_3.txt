@@ -72,7 +72,7 @@ Naturally, Kurumi reprimands Izumi-san.%K%P
 Haruka silently shoots Izumi-san a flustered look as she%Nnurses her nose.%K%P
 0x1C8
 いづみさんは、ゴメンゴメン……と２人をあやしつつ、『行きたい？』ってな表情でオレ達を見やる。%K%P
-Izumi-san hastily apologizes, though her mind is clearly%Nstill on the hot springs. She looks at us with a face that%Nsays, "Do you want to go?"%K%P
+Izumi-san hastily apologizes, though her mind is clearly%Nstill on the hot springs. She looks at us with a face that%Nsays, 「Do you want to go?」%K%P
 0x1E4
 優夏「え〜？　ホント！？　ねぇねぇ、みんなで入りにいこうよ！」%K%P
 Yuka「Huh? Really!? Hey, let's go there, guys!」%K%P
@@ -81,7 +81,7 @@ Yuka「Huh? Really!? Hey, let's go there, guys!」%K%P
 Yuka gets really excited.%K%P
 0x1FC
 オレも億彦も『いいですね〜』って感じで頷く。%K%P
-Okuhiko and I nod as if to say "sounds good".%K%P
+Okuhiko and I nod as if to say 「sounds good」.%K%P
 0x208
 遙からは反応がないが、何も言わないところを見ると、特に反対しているようではないようだ。%K%P
 Haruka doesn't respond, but it doesn't seem like she%Nhas any particular objections against it.%K%P
@@ -333,7 +333,7 @@ It seems like Kurumi could burst into tears at any time.%K%P
 Izumi-san silently shakes her head.%K%P
 0x84C
 『いいのよ……』そう言っているかのように……。%K%P
-It's as if she's saying "It's fine..."%K%P
+It's as if she's saying 「It's fine...」%K%P
 0x858
 いづみ「じゃあ、私達は温泉行くけど……、くるみ、お留守番お願いね」%K%P
 Izumi「Well then, we're going to the hot springs... Kurumi, please%Nwatch over the lodge.」%K%P
@@ -1089,7 +1089,7 @@ It seems I was pulled from the hot spring after I fainted.%K%P
 Everyone else is worried about me.%K%P
 0x1F90
 ……いや、約１名『例外』がいた。%K%P
-... Well, there's one "exception."%K%P
+... Well, there's one 「exception.」%K%P
 0x1FC0
 顔を真っ赤にした優夏だけは、酔っ払い口調でオレをののしった。%K%P
 Only the flush-faced Yuka is reprimanding me in a%Ndrunken voice.%K%P

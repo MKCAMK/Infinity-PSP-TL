@@ -87,10 +87,10 @@ Something like that is inconsequential to me.%K%P
 Even if our attitudes are similar, it's as inconsequential%Nas a grain of sand on the beach.%K%P
 0x2E0
 ただひとつだけ言わせてもらえるとするならば……%K%P
-If I had it my own way, instead of saying that "I'm similar to%Nthat boy"...%K%P
+If I had it my own way, instead of saying that 「I'm similar to%Nthat boy」...%K%P
 0x2EC
 ……『オレが少年に似ている』というのは誤りで『少年がオレに似ている』というのが正しい表現ってもんだろう。%K%P
-... the right expression would be, "That boy is similar to%Nme."%K%P
+... the right expression would be, 「That boy is similar to%Nme.」%K%P
 0x2F8
 真似してるのは、オレではなく少年の方なのだから。%K%P
 It's not me who's being a copycat, it's that boy.%K%P
@@ -285,7 +285,7 @@ Makoto「Yeah, I've heard of it before.」%K%P
 Makoto「According to the words of a French mathematician and%Nastronomer named Laplace...」%K%P
 0x72C
 誠「『ある瞬間の、世界中のありとあらゆる全ての状態を、正確に知ることができる『悪魔』という生き物がいたとする……」%K%P
-Makoto「'Suppose there exists a "demon", that is, an entity that%Npossesses the ability to know, at a certain moment, the%Nstate of all things in the universe...」%K%P
+Makoto「'Suppose there exists a 「demon」, that is, an entity that%Npossesses the ability to know, at a certain moment, the%Nstate of all things in the universe...」%K%P
 0x738
 誠「……たとえそれが、いかに短い瞬間であったとしても、悪魔にとっては未来や過去の状態をうかがい知るには十分なのだ』」%K%P
 Makoto「... Then, no matter how brief this moment is, it would always%Nbe enough for the demon to unravel everything that%Nhappened in the past and will happen in the future.'」%K%P
@@ -438,10 +438,10 @@ Izumi-san bashfully sticks out her tongue.%K%P
 I'm...%K%P
 0x9F8
 ……そのいづみさんの嘘よりも、今の『ラプラスの悪魔』の話が、ちょっと引っかかっていた。%K%P
-... more disturbed by the story of "Laplace's demon"%Nthan Izumi-san's lie.%K%P
+... more disturbed by the story of 「Laplace's demon」%Nthan Izumi-san's lie.%K%P
 0xA04
 『全ての出来事は、初めから何もかも決まっている……偶然ではなく必然的に起こるものなのだ』%K%P
-"Everything which occurs in the world has been%Npredetermined from the beginning... Its occurrence is by%Nno means accidental, but in fact inevitable."%K%P
+「Everything which occurs in the world has been%Npredetermined from the beginning... Its occurrence is by%Nno means accidental, but in fact inevitable.」%K%P
 0xA10
 何もかも……決まっている……？%K%P
 Everything's been predetermined...?%K%P
@@ -465,7 +465,7 @@ But since Yuka and I already knew about it, we've gotten%Nto the point where not
 Only Izumi-san is upset by this contingency, as her%Ncoffee cups completely broke.%K%N%N
 0xAFC
 『このところの地震で、どんどんと食器が減って行く』と、いづみさんは嘆いていた。%K%P
-"These recent earthquakes cause us to lose more and%Nmore tableware," she laments.%K%P
+「These recent earthquakes cause us to lose more and%Nmore tableware,」 she laments.%K%P
 0xB10
 そして、５時にみんながやって来るまでの間、オレ達３人はずっと、他愛無い世間話をして盛り上がっていた。%K%N
 And so, up until everyone arrives at 5:00, the three of%Nus pass the time exchanging trifling gossip.%K%N

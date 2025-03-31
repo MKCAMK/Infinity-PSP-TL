@@ -123,7 +123,7 @@ Was everything a dream...?%K%N
 No, that's also probably not right.%K%P
 0x384
 じゃあ、今日という日は、いったい何なんだ？%K%N
-Then just what is "today"?%K%N
+Then just what is 「today」?%K%N
 0x390
 ……わからない。%K%N
 ... I don't know.%K%N
@@ -294,7 +294,7 @@ Kurumi's words are the finishing blow...%K%N
 It feels like I've been struck hard in the gut...%K%P
 0x74C
 もちろん『全く予想してなかった』というわけじゃないけれど……実際にその言葉を聞くのは、とてもつらいことだった。%K%P
-Of course, it's not like this was "completely%Nunexpected," but... actually hearing those words is very%Npainful.%K%P
+Of course, it's not like this was 「completely%Nunexpected,」 but... actually hearing those words is very%Npainful.%K%P
 0x758
 ──真実を打ち明けるか？%K%N
 ―Should I tell them the truth?%K%N
@@ -417,7 +417,7 @@ But...%K%N
 ... At the same time, I can't get rid of this profound feeling%Nof loneliness whirling around in my heart.%K%P
 0xAD0
 『ううん……全然知らない人ぉ』%K%N
-"Nope... never seen him before."%K%N
+「Nope... never seen him before.」%K%N
 0xADC
 そのくるみの言葉が、あまりにも切なかったか%Nら……。%K%P
 Kurumi's words were incredibly painful...%K%P
@@ -453,7 +453,7 @@ This is definitely not the first time I've time traveled.%K%P
 The reason why I can say this is because of that%Nhopeless dream I had on the morning of the last 1st...%K%N
 0xB60
 その光景は、まさしく昨日のそれと同じで……。%K%P
-That scene was exactly the same scene from%N"yesterday"...%K%P
+That scene was exactly the same scene from%N「yesterday」...%K%P
 0xB6C
 だとすれば、前回の、その前にも同じに６日間があったのだろう。%K%P
 If that's the case, then before the last loop, I must have%Nexperienced those same six days before.%K%P
@@ -468,7 +468,7 @@ And if I think about it conversely, then after this, those%Nsame six days will r
 No... that's wrong...%K%N
 0xB9C
 ……今日のオレと、前回の１日のオレには明らかな違いがある。%K%P
-... There's one very clear difference from the "me" of%Ntoday and the "me" of the last loop's 1st.%K%P
+... There's one very clear difference from the 「me」 of%Ntoday and the 「me」 of the last loop's 1st.%K%P
 0xBA8
 ──記憶。%K%N
 ―My memories.%K%N
@@ -528,7 +528,7 @@ Doing that would mean having to tell Kurumi about those%Ntragic events that will
 There's no way in hell...%K%N
 0xD0C
 『４月６日の朝、くるみは死ぬ！』%K%N
-"On the morning of April 6th, Kurumi died!"%K%N
+「On the morning of April 6th, Kurumi died!」%K%N
 0xD18
 ……言えるわけがない。%K%P
 ... that I can say something like that.%K%P
@@ -561,7 +561,7 @@ Then what if I force Kurumi to come with me and take her%Naway from the island..
 ... No, that won't work.%K%P
 0xDEC
 いづみさん、前の１日に%N『波が高くて船が出れない』って言ってたっけ……。%K%N
-If my memory serves me right, on the last 1st, Izumi-san%Nsaid "There's high waves, so the boats can't leave,"...%K%N
+If my memory serves me right, on the last 1st, Izumi-san%Nsaid 「There's high waves, so the boats can't leave,」...%K%N
 0xDF8
 なんてこった……。%K%P
 Great...%K%P
@@ -738,7 +738,7 @@ Kurumi「Thank you very much for your continued patronage〜♪」%K%P
 Makoto「K... Kurumi...!」%K%P
 0x1300
 腕時計を一瞥──%W%W%W『１１時３２分』%K%P
-I quickly glance at my watch―"11:32 A.M."%K%P
+I quickly glance at my watch―「11:32 A.M.」%K%P
 0x130C
 そうだった……。%K%N
 That's right...%K%N
@@ -777,13 +777,13 @@ Kurumi「Hmm?」%K%P
 Wh-What should I do...?%K%N
 0x141C
 前と同じように『そんなもん頼んでない』って言おうか……？%K%P
-Should I say "I never ordered anything like that," like last%Ntime...?%K%P
+Should I say 「I never ordered anything like that,」 like last%Ntime...?%K%P
 0x1428
 それとも、親切に『沙紀の家と間違えてる』って教えてやろうか……？%K
 Or should I try redirecting her to Saki's place...?%K
 0x3AB0
 そんなもん頼んでない
-"I didn't order that."
+「I didn't order that.」
 0x3ABC
 沙紀の家と間違えてる
 Redirect her to Saki's place.
@@ -936,7 +936,7 @@ Looking at Okuhiko's face from the side as he sees her%Noff, I notice just how g
 I can kinda understand where Okuhiko's coming from.%K%P
 0x1730
 『お口直し』という言葉があるように、人間は、不味いものを食べた後には、まともな料理を口にしたくなるものだ。%K%P
-Anybody would want to "clean their palette", so to%Nspeak, in order to get rid of the terrible taste left in their%Nmouths from bad food, such as Yuka's cooking...%K%P
+Anybody would want to 「clean their palette」, so to%Nspeak, in order to get rid of the terrible taste left in their%Nmouths from bad food, such as Yuka's cooking...%K%P
 0x173C
 恐らく、今回の億彦はそういう魂胆なのだろう……。%K%P
 That's probably what his ulterior motive was this time...%K%P
@@ -972,13 +972,13 @@ When I look at that smile, I begin to think...%K%P
 And Haruka and I go to Princess Beach again...%K%N%N
 0x1868
 遙はまたも『心がない』とオレに言った。%K%N%N
-Once again, Haruka tells me that she has "no heart".%K%N%N
+Once again, Haruka tells me that she has 「no heart」.%K%N%N
 0x1874
 その言葉を聞いたオレは、今回も、必ず遙を釣りに連れてってやろうと決意した。%K%P
 When I hear those words, I vow to take Haruka fishing%Nagain this time.%K%P
 0x1888
 『心』うんぬんの問題は関係無い。%K%N%N
-Her problem has nothing to do with her "heart."%K%N%N
+Her problem has nothing to do with her 「heart.」%K%N%N
 0x1894
 心があろうがなかろうが、あのときの遙は、理屈抜きで楽しそうに笑っていた。%K%N%N
 Whether she does or doesn't have a heart, Haruka still%Nhad a beaming smile on when we went fishing.%K%N%N
@@ -1017,7 +1017,7 @@ I'm the only one who can change the future.%K%P
 In other words, it's all up to me whether everyone%Nbecomes happy or miserable.%K%N
 0x193C
 大袈裟な言い方をすれば『オレがみんなの運命を握っている』と言うこともできるだろう。%K%N%N
-To put it rather dramatically, I guess I could say that, "I'm%Nthe one who holds everyone's fate in my hands."%K%N%N
+To put it rather dramatically, I guess I could say that, 「I'm%Nthe one who holds everyone's fate in my hands.」%K%N%N
 0x1948
 これから始まる６日間、いや７日間を、楽しい出来事だけで埋め尽くすこと……。%K%N
 From now on, these next six, no, seven days will be%Nhappy ones...%K%N
@@ -1245,7 +1245,7 @@ Kurumi「That's right. Onee-chan and Kurumi are true%Nblood-related sisters.」%
 Kurumi sticks out her chest and answers.%K%P
 0x1F60
 『血を分けた実の姉妹』か……。%K%P
-"True blood-related sisters,"...%K%P
+「True blood-related sisters,」...%K%P
 0x1F6C
 オレはたちまち沈み込んでしまった。%K%P
 I suddenly become depressed.%K%P
@@ -1599,7 +1599,7 @@ If I stay depressed like this, then what will the others%Nthink of me?%K%N
 To the other girls, this is the first time we've met.%K%N
 0x293C
 『何だか知らないけど陰気な奴』……そう思っているかもしれない。%K%N%N
-"I don't really know him, but he's a pretty gloomy guy,"...%Nthat might be what they're thinking.%K%N%N
+「I don't really know him, but he's a pretty gloomy guy,」...%Nthat might be what they're thinking.%K%N%N
 0x2948
 特にくるみ──くるみとは、この時間へと飛ばされてから、ほとんど会話をしていなかった。%K%P
 Especially Kurumi―Ever since I went flying back in time,%NI've barely spoken to her.%K%P
@@ -1788,7 +1788,7 @@ Okuhiko, true to his skirt-chaser nature, looks at%NHaruka's face again and agai
 ... Suddenly, I stop walking.%K%P
 0x2DE0
 そう言えばこの後、オレはあの『鈴』をこの浜で拾うんだった！%K%P
-Now that I think about it, it was right about now that I%Nfound that "bell" washed up on the beach!%K%P
+Now that I think about it, it was right about now that I%Nfound that 「bell」 washed up on the beach!%K%P
 0x2DEC
 オレはその鈴を海へ投げ……どういうわけか、くるみは姫ヶ浜でそれを拾った。%K%P
 I threw the bell back into the ocean... and somehow%NKurumi picked it up on Princess Beach.%K%P
@@ -1797,7 +1797,7 @@ I threw the bell back into the ocean... and somehow%NKurumi picked it up on Prin
 Why on Princess Beach? ―That's not the current%Nproblem!%K%P
 0x2E04
 重要なのは『前回の１日の朝の夢にも、あの鈴が出てきた』という事実だ。%K%P
-The important part is the fact that "in my dream on the%Nmorning of the 1st in the last loop, that bell was there."%K%P
+The important part is the fact that 「in my dream on the%Nmorning of the 1st in the last loop, that bell was there.」%K%P
 0x2E10
 そして、昨日のくるみの手の平にも……。%K%P
 And yesterday, it was in Kurumi's palm as well...%K%P
@@ -1992,10 +1992,10 @@ But strangely, I don't feel bad about it.%K%P
 On the other hand, I'm feeling quite happy.%K%P
 0x3200
 あれだけ探したのに見つからなかったということは、要するに『鈴は無かった』ということになる。%K%P
-If I couldn't find the bell after all of that, then that means%N"the bell is gone."%K%P
+If I couldn't find the bell after all of that, then that means%N「the bell is gone.」%K%P
 0x320C
 『鈴が無い』──それはつまり、歴史が変わったことを意味するのだ。%K%P
-"The bell is gone,"―in other words, it means that%Nhistory has changed.%K%P
+「The bell is gone,」―in other words, it means that%Nhistory has changed.%K%P
 0x3218
 もう２度と、この世界に鈴が現れることはないだろう。%K%P
 That bell probably won't appear in this world ever again.%K%P

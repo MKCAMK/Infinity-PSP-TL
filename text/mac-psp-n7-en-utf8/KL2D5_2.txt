@@ -72,7 +72,7 @@ Kurumi「A horshoe crab.」%K%P
 Makoto「Then what's this?」%K%P
 0x180
 くるみ「ヤマタノオロチ」%K%P
-Kurumi「The Yamato no Orochi- the Eight Forked Serpent.」%K%P
+Kurumi「The Yamato no Orochi―the Eight Forked Serpent.」%K%P
 0x18C
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -132,7 +132,7 @@ Kurumi「That's why...」%K%P
 Kurumi「Kurumi will give you this... as a commemoration♪」%K%P
 0x288
 くるみが『オレ』を、オレの手の平の上に移した。%K%P
-Kurumi places "me" on my palm.%K%P
+Kurumi places 「me」 on my palm.%K%P
 0x294
 くるみ「くるみからの、ささやかなプレゼント……」%K%P
 Kurumi「It's a modest present from Kurumi...」%K%P
@@ -153,7 +153,7 @@ Although I think this...%K%P
 Makoto「Thank you.」%K%P
 0x2DC
 ……オレはそう言って『オレ』をオレのポケットの中に、丁寧にしまい込んだ。%K%P
-... I mutter these words, and carefully place "me" in my%Npocket.%K%P
+... I mutter these words, and carefully place 「me」 in my%Npocket.%K%P
 0x2E8
 くるみは満面の笑顔を浮かべて、オレのことを優しく見つめていた……。%K%P
 A warm smile rises on Kurumi's face as she looks at me...%K%P

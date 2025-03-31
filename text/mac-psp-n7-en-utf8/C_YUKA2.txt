@@ -234,7 +234,7 @@ Yuka「I'm not!」%K%P
 Pissed off, I shout this in defiance of Makoto's%Ncomposed words and attitude.%K%P
 0x6E8
 『怒ってる』なんて言ったら、なんだか負けな気が%Nしたのだ。%K%P
-If say "I'm mad", then it'll kinda feel like I've lost to him.%K%P
+If say 「I'm mad」, then it'll kinda feel like I've lost to him.%K%P
 0x6F4
 しかし、さすがに悪いと思ったのか……%K%P
 But boy, is his face looking really punchable right about%Nnow...%K%P
@@ -246,7 +246,7 @@ Makoto「All right! Got it! It can't be helped, so I'll treat you to a%Ndrink!�
 ...He said it.%K%P
 0x718
 『１杯おごる』という単語が、私の視界をパッと明るくする。%K%P
-Those simple words "I'll treat you to a drink" have rapidly%Nbrightened my vision.%K%P
+Those simple words 「I'll treat you to a drink」 have rapidly%Nbrightened my vision.%K%P
 0x72C
 優夏「えっ？　ビ〜ルゥ？♪」%K%P
 Yuka「Huh? Beer?♪」%K%P
@@ -303,7 +303,7 @@ A comfortable stimulus like an electric shock travels%Ndown my entire body throu
 Thanks to that, I stop thinking of unnecessary things.%K%P
 0x8AC
 『酒は百薬の長』という言葉が思い浮かぶ。%K%P
-The words "good wine makes good blood" come to mind.%K%P
+The words 「good wine makes good blood」 come to mind.%K%P
 0x8B8
 （やっぱりアルコールの力は偉大よねぇ♪）%K%P
 (The power of alcohol is really amazing♪)%K%P
@@ -396,7 +396,7 @@ Yuka「AHH!!!!」%K%P
 Makoto firmly grips my shoulders, looks at me with a%Nserious expression, then quickly begins to explain.%K%P
 0xA58
 頭がボーっとして、そのほとんどは理解不能だったけど、『釣り』という単語と『行くと大変なことになる』というニュアンスだけは理解できた。%K%P
-My mind is fuzzy, so I barely understand anything he%Nsays, but I do catch the words "fishing" and "it'll be a big%Nproblem if we go."%K%P
+My mind is fuzzy, so I barely understand anything he%Nsays, but I do catch the words 「fishing」 and 「it'll be a big%Nproblem if we go.」%K%P
 0xA6C
 優夏「らいじょうぶ、らいじょうぶ！」%K%P
 Yuka「Ish faine, ish faine!」%K%P
@@ -768,13 +768,13 @@ Makoto「Do you really understand?」%K%P
 Yuka「Geesh, don't worree abaut it... Eye got it!」%K%P
 0x1304
 え〜と……とにかく『トロ』がダメ、と？%K%P
-So he must mean "toro" as in the fatty part of tuna. Um...%Nso I can't have "toro", right?%K%P
+So he must mean 「toro」 as in the fatty part of tuna. Um...%Nso I can't have 「toro」, right?%K%P
 0x1310
 はい、はい、はい……。%K%Nもちろん、ちゃ〜んと分かってるとも。%K%P
 Yeah, yeah, yeah...%K Of course I understand that.%K%P
 0x131C
 今度スシ屋に行った時、私は『ウニ』を注文するつもりだった。%K%P
-So the next time I'm at a sushi shop, I'll just order a "sea%Nurchin" instead.%K%P
+So the next time I'm at a sushi shop, I'll just order a 「sea%Nurchin」 instead.%K%P
 0x13A0
 くるみ「おっはよぉー！」%K%P
 Kurumi「Morning!」%K%P
@@ -1005,7 +1005,7 @@ This is the third time I've watched the sunset on this%Nisland.%K%N
 Suddenly, I remember the promise Makoto and I%Nexchanged.%K%N%N
 0x1924
 『７日の朝日を、一緒に見よう』%K%N%N
-"We'll see the morning of April 7th together."%K%N%N
+「We'll see the morning of April 7th together.」%K%N%N
 0x1930
 私は、まだ見ぬ朝日の美しさを、信じて止まなかった。%K%P
 I won't stop believing until I see the beauty of the%Nmorning I've never seen.%K%P
@@ -1044,7 +1044,7 @@ Both of them accept these nicknames.%K%P
 In fact, Makoto seems to have been looking forward to%Nthis, as he is now smiling.%K%P
 0x1A60
 『おっくん』……。%K%N『お兄ちゃん』……。%K%P
-"Okkun"...%K "Onii-chan"...%K%P
+「Okkun」...%K 「Onii-chan」...%K%P
 0x1A6C
 心を震わす、懐かしい響きだった……。%K%P
 It's a familiar sound that makes my heart tremble...%K%P
@@ -1056,7 +1056,7 @@ Right now, we're walking on Moon Beach.%K%P
 Like last time, the others are returning to the lodge via%Nthe paved road.%K%P
 0x1B24
 私と誠は、くるみちゃんと別れた後、『ちょっと２人だけで話がしたいから』と告げて、みんなとは違うルートで帰ることにした。%K%P
-After we parted from Kurumi-chan, I told Makoto-kun that I%Nwanted "the two of us to talk alone", and so we decided%Nto take a different route from the others.%K%P
+After we parted from Kurumi-chan, I told Makoto-kun that I%Nwanted 「the two of us to talk alone」, and so we decided%Nto take a different route from the others.%K%P
 0x1B30
 遙と億彦くんは、私達の様子から何か察したのか、特に追及してくることはなかった。%K%P
 Haruka and Okuhiko-kun seemed kinda curious about%Nwhat we're up to, but they don't seem to be looking into it.%K%P
@@ -1104,7 +1104,7 @@ Makoto「Hey...?」%K%P
 While staring at the ocean, Makoto mutters this.%K%P
 0x1C08
 『なあに？』と私が振り向く。%K%P
-I turn around, as if to say "What?"%K%P
+I turn around, as if to say 「What?」%K%P
 0x1C14
 誠「この海のどこかに、もう１つの鈴が眠っているんだよな……」%K%P
 Makoto「Somewhere in this ocean lies the other bell...」%K%P
@@ -1158,7 +1158,7 @@ Yuka「Theoretically, it's an inconsistency that could possibly%Nbe created by t
 Makoto「Y-Yeah...」%K%P
 0x1D0C
 『仮に』という言葉がコッケイに聞こえたのか、誠は笑いを堪えながらうなずいた。%K%P
-Apparently finding it comical to hear me say something%Nlike "theoretically", Makoto nods while holding back a%Nlaugh.%K%P
+Apparently finding it comical to hear me say something%Nlike 「theoretically」, Makoto nods while holding back a%Nlaugh.%K%P
 0x1D18
 優夏「つまり……」%K%P
 Yuka「In other words...」%K%P
@@ -1209,7 +1209,7 @@ Makoto「Theoretically, it's an inconsistency that could possibly%Nbe created by
 Yuka「I-I see...」%K%P
 0x1DF0
 『仮に』という言葉が、やけにコッケイに聞こえた。%K%P
-It's kinda funny hearing the word "theoretically" coming%Nfrom Makoto.%K%P
+It's kinda funny hearing the word 「theoretically」 coming%Nfrom Makoto.%K%P
 0x1DFC
 誠「簡単に説明すると、だ……」%K%P
 Makoto「To explain it simply...」%K%P
@@ -1254,7 +1254,7 @@ Yuka「And you'd be born...?」%K%P
 Makoto「That's right... If you think that way, then that means no%Nmatter what happens, history can't change...」%K%P
 0x1EA4
 『何をやっても歴史というものは変わらない』%K%P
-"No matter what happens, history can't change."%K%P
+「No matter what happens, history can't change.」%K%P
 0x1EB0
 何だか、とても嫌な言葉だった……。%K%P
 Those are very unpleasant words...%K%P
@@ -1533,7 +1533,7 @@ While walking, I mentally repeat the wish I made earlier one%Nmore time.%K%P
 The wish I made on that shooting star of hope...%K%P
 0x23F4
 『願わくば、いつまでも、一緒に……！』%K%P
-"I wish that we'll always be together...!"%K%P
+「I wish that we'll always be together...!」%K%P
 0x2400
 願わくば…………。%K%P
 My wish...%K%P

@@ -48,10 +48,10 @@ Should I just tell her the truth?%K%P
 After all, I told Izumi-san about my dream during the Test%Nof Courage.%K%P
 0x18C
 だけど『夢に出て来たのはいづみさんだった』なんて、そんなこと……。%K%P
-But to say "Izumi-san was the one in my dream", or...%K%P
+But to say 「Izumi-san was the one in my dream」, or...%K%P
 0x198
 『いづみさんは明日、死んじゃうかもしれないんだ』%K%P
-"Izumi-san, you might die tomorrow."%K%P
+「Izumi-san, you might die tomorrow.」%K%P
 0x1A4
 ──そんなこと、言えるわけがない！%K%P
 ―There's no way I can say that!%K%P
@@ -249,13 +249,13 @@ Right now, I don't have the time to consider anything else.%K%P
 That's what my instincts are telling me.%K%P
 0x568
 いづみさんが予知のことを信じているのかどうかはわからないが、いずれにせよ、この状況で『夢』のことを告げたら、きっと取り返しのつかないことになる。%K%P
-I don't know whether Izumi-san believes what I said about%Nmy premonitions or not, but at any rate, if I were to tell%Nher about the "dream", she'd surely freak out.%K%P
+I don't know whether Izumi-san believes what I said about%Nmy premonitions or not, but at any rate, if I were to tell%Nher about the 「dream」, she'd surely freak out.%K%P
 0x574
 昨日の晩、あの満天の星空の下で、いづみさんはこう言ったのだ。%K%P
 Last night, under the starry sky, Izumi-san said this.%K%P
 0x580
 『レグルスは、今でも輝き続けてる』%T060と……。%K%P
-"Regulus is continuing to shine even now,"...%K%P
+「Regulus is continuing to shine even now,」...%K%P
 0x58C
 もうこれ以上、いづみさんを悲しませたくはなかった。%K%P
 I don't want to make Izumi-san any sadder.%K%P
@@ -312,7 +312,7 @@ Yes... I remember it clearly.%K%P
 Izumi-san's words on the night of the Test of Courage...%K%P
 0x67C
 『大丈夫……%N誠くんは、何も心配しなくていいから……』%K%P
-"It's all right... because you have nothing to worry about,%NMakoto-kun..."%K%P
+「It's all right... because you have nothing to worry about,%NMakoto-kun...」%K%P
 0x688
 あのときの包み込むような優しさを、%T030ぬくもりを、%T030オレは決して忘れたりはしない。%K%P
 I will never forget the kindness and warmth she%Nenveloped me in back then.%K%P

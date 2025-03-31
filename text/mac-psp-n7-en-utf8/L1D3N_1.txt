@@ -54,7 +54,7 @@ Makoto「Wait a minute! I want to talk to you!」%K%P
 Saki「Well, I don't!」%K%P
 0x18C
 ツンと顔を背けた沙紀が、裏口を閉めようとした。%K%N
-Saki gives me a "hmph", and tries to slam the door shut.%K%N
+Saki gives me a 「hmph」, and tries to slam the door shut.%K%N
 0x198
 扉が閉まる寸前、オレは沙紀の腕をつかみ、強引に引き寄せた。%K%P
 Just before the door closes, I grab Saki's arm, and%Nforcibly pull her towards me.%K%P
@@ -159,7 +159,7 @@ When return to the lodge, I contemplate the situation in%Nsolitude.%K%P
 (Saki and Haruka... what did they fight about on the pier%Nyesterday...?)%K%P
 0x41C
 （『あんなもの』って、いったい何なんだ？）%K%P
-(Just what is "that thing"?)%K%P
+(Just what is 「that thing」?)%K%P
 0x428
 ふと、リビングのテーブルの上に置かれたバスケットが目に入った。%K%P
 Suddenly, the ruined basket on the table catches my%Neyes.%K%P

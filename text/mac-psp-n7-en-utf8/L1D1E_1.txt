@@ -39,10 +39,10 @@ Makoto「Yeah, you were right.」%K%P
 That's right... On our way to the shopping district, Yuka%Nsuggested that we climb the bank on the east side of%Nthe road to see this sight.%K
 0x8D0
 『ああ、確かにな』
-"Yeah, you were right."
+「Yeah, you were right.」
 0x8DC
 『そうかな〜』
-"You really think so?"
+「You really think so?」
 0x188
 誠「ああ、確かにな」%K%P
 Makoto「Yeah, you were right.」%K%P
@@ -72,7 +72,7 @@ I haven't felt this moved by such a breathtaking%Nscenery in a long time.%K%P
 Makoto「We didn't have to go all the way here to see it, did we?」%K%P
 0x21C
 ただ、……%Wその……%Wなんていうか、素直に『綺麗だ』と認めるのがシャクだったのだ。%K%P
-It's just... Um... I'd feel defeated if I were to admit that this%Nis "pretty."%K%P
+It's just... Um... I'd feel defeated if I were to admit that this%Nis 「pretty.」%K%P
 0x228
 もしかしたら、あのテニスの賭けに負けた悔しさを引きずっているのかもしれない。%K%P
 I guess it's because I'm still sore over losing that bet in%Ntennis.%K%P
@@ -210,7 +210,7 @@ While this is happening, Haruka slowly doubles over.%K%P
 She bends her knees and grips the edge of the%Nembankment. Judging from her stance, I already know%Nwhat's going to happen next.%K%P
 0x5D4
 『遙！』%W%W……とオレが言う前に、既に彼女は宙を舞っていた。%K%N
-"Wait!"... Before I can warn her, she's already in midair.%K%N
+「Wait!」... Before I can warn her, she's already in midair.%K%N
 0x5E0
 そして次の瞬間……%K%P
 And then...%K%P

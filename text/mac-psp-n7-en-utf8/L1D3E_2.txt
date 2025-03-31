@@ -132,10 +132,10 @@ Haruka「What do... you mean?」%K%P
 Makoto「It wasn't about how I felt about you. It was because...」%K
 0x1FD0
 『遙がキスしてくれって言ったから……』
-"Because you told me to kiss you..."
+「Because you told me to kiss you...」
 0x1FDC
 あれは……
-"Because..."
+「Because...」
 0x344
 誠「遙がキスしてくれって……」%K%P
 Makoto「Because you told me to ki...」%K%P
@@ -369,7 +369,7 @@ In the next instant, Saki violently thrusts Kurumi away.%K%P
 She throws Kurumi right onto the stairs! Kurumi gasps%Nloudly, and stares dumbfoundedly at Saki.%K
 0x2000
 『沙紀……！　お前、なんてことを……』
-"Saki...! How could you...!?"
+「Saki...! How could you...!?」
 0x200C
 くるみの元に駆け寄る
 Run over to Kurumi.
@@ -522,7 +522,7 @@ Okuhiko's and Yuka's defense sounded a bit off.%K%P
 It sounded empty. Forced.%K%P
 0x1418
 あるのを知ってて見ようとしていなかったものを、初めて見つけたふりをしている……。%K%P
-It sounded like Haruka was the first clone they'd actually%Nknown was a clone, so they just pulled whatever facts%Nthey had on hand to create a so-called "defense".%K%P
+It sounded like Haruka was the first clone they'd actually%Nknown was a clone, so they just pulled whatever facts%Nthey had on hand to create a so-called 「defense」.%K%P
 0x1424
 それは……オレも同じ気持ちだった。%K%P
 Though... I'm no better. She's the first person I've known%Nwas a clone as well.%K%P
@@ -612,10 +612,10 @@ Makoto「Umm... how do I put this...」%K%P
 Haruka「...」%K
 0x2018
 『気にするなよ』
-"Don't worry about it."
+「Don't worry about it.」
 0x2024
 『本当は……、ちょっとビックリした』
-"Honestly... I was a bit surprised."
+「Honestly... I was a bit surprised.」
 0x1620
 誠「……アレだよ、気にするなよ。クローンだろうがコピーだろうが、遙は遙じゃないか。たとえ心がないなんてことがあっても」%K%P
 Makoto「... Don't worry about it. Whether you're a clone or a copy,%NHaruka is Haruka. Even if you don't have a heart.」%K%P

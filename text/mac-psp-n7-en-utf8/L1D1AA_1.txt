@@ -156,13 +156,13 @@ She says nothing, but instead stares directly into my%Neyes.%K%P
 ... This is kind of awkward.%K%P
 0x46C
 デパートの食料品売り場で『パパ〜♪』と言いながら、オレの太ももにぎゅっとしがみついてきた見ず知らずの幼い女の子に気づいたときのような……%K%Nそんな困惑した空気に似ている。%K
-It's almost like this one time at the grocery store when a%Nlittle girl I didn't know tightly clinged to my leg while saying "Daddy〜♪"...%K%PYeah, this situation feels the same.%K
+It's almost like this one time at the grocery store when a%Nlittle girl I didn't know tightly clinged to my leg while saying 「Daddy〜♪」...%K%PYeah, this situation feels the same.%K
 0xDA8
 ニッコリ微笑んでみる
 Try giving her a comforting smile.
 0xDB4
 『何か、あった？』と穏やかに聞いてみる
-Calmly ask her "Did something happen?"
+Calmly ask her 「Did something happen?」
 0x4AC
 オレは、かつてデパートの食料品売り場で%Nそうしたときと同じように、彼女に向かってニッコリと微笑んで見せた。%K%P
 I give her the same comforting smile that I gave to the%Nlittle girl.%K%P
@@ -246,7 +246,7 @@ I instantly raise a hand to my cheek, mimicking the girl's%Nprevious action.%K%P
 I almost missed it.%K%P
 0x658
 『誠』%K%N
-"Makoto".%K%N
+「Makoto」.%K%N
 0x664
 今彼女は確かにそう言った。%K%N『まこと』って……。%K%P
 She definitely said that just now. Saying 'Makoto' just%Nlike that...%K%P
@@ -294,7 +294,7 @@ Makoto「Hmph... Geez...」%K%P
 Still, doesn't she think she's being a little too familiar with%Nme?%K%P
 0x790
 『まこと』って%W%W……いきなり呼び捨てかよ！%K%P
-"Makoto"... don't go addressing people you barely know%Nwithout a "-kun" or something!%K%P
+「Makoto」... don't go addressing people you barely know%Nwithout a 「-kun」 or something!%K%P
 0x79C
 そりゃ、いくらなんでも失礼だろ？%K%N昨日会ったばっかりだってえのに……。%K%P
 Isn't that really rude? We just met yesterday...%K%P
@@ -387,10 +387,10 @@ Makoto「...?」%K%P
 At that moment, her expression becomes dim.%K%P
 0x98C
 （絶望感……）%K%P
-("Hopelessness"...)%K%P
+(「Hopelessness」...)%K%P
 0x998
 そう言えば、オレが今朝見たのも、%Nひどく嫌な『夢』だったっけ……。%K%P
-Now that she mentions it, I also woke up this morning from%Na rather grim "dream"...%K%P
+Now that she mentions it, I also woke up this morning from%Na rather grim 「dream」...%K%P
 0x9AC
 ？？「でもよかったぁ」%K%P
 ??「But I'm glad.」%K%P
@@ -450,10 +450,10 @@ After I give a slight nod in agreement, she leaves the%Nroom.%K%P
 I almost missed it.%K%P
 0xB04
 『誠』%K……今彼女は確かにそう言った。%K%N『まこと』って……。%K%P
-"Makoto".%K She definitely said that just now.%K Like we're%Nbest friends, or something...%K%P
+「Makoto」.%K She definitely said that just now.%K Like we're%Nbest friends, or something...%K%P
 0xB10
 昨日会ったばっかだってえのに、いきなり呼び捨てかよ！%K%P
-We only just met yesterday; why are you calling me that%Nwithout a "-kun" or something!?%K%P
+We only just met yesterday; why are you calling me that%Nwithout a 「-kun」 or something!?%K%P
 0xB38
 （う〜ん……。でも、まっ、いっか）%K%P
 (Meh, whatever.)%K%P
@@ -474,7 +474,7 @@ We only just met yesterday; why are you calling me that%Nwithout a "-kun" or som
 (Um, what did she say her name was again..?)%K%P
 0xB80
 確か、頭に『ゆ』がついたような気が……。%K%N
-I definitely think that it started with a "Yu"...%K%N
+I definitely think that it started with a 「Yu」...%K%N
 0xB8C
 ゆりこ……%W%Wゆきえ……%W%Wゆみ……%W%Wゆえ……%W%Wゆうか……%K%P
 Yuriko... Yukie... Yumi... Yue... Yuka...%K%P
@@ -483,7 +483,7 @@ Yuriko... Yukie... Yumi... Yue... Yuka...%K%P
 ―Yuka...?%K%N
 0xBA4
 そうだ、『優夏』だ『優夏』！　思い出した。%K%P
-Yeah, that's right! It was "Yuka".%K%P
+Yeah, that's right! It was 「Yuka」.%K%P
 0xBB0
 間違いない。%K%N
 I remember now.%K%N
@@ -492,7 +492,7 @@ I remember now.%K%N
 She said so when she introduced herself last night.%K%P
 0xBC8
 で、名字は…『川島』%W%W…だったかな？%K%P
-And her last name was... "Kawashima"... wasn't it?%K%P
+And her last name was... 「Kawashima」... wasn't it?%K%P
 0xBD4
 『川島優夏』か……。%K%P
 Yuka Kawashima, huh...%K%P

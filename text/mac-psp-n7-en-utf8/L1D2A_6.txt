@@ -141,7 +141,7 @@ Izumi「Could it be related to what you said yesterday...?」%K
 Dodge the question.
 0x127C
 もう一度『予知』のことを言ってみる
-Say it was a "premonition" one more time.
+Say it was a 「premonition」 one more time.
 0x52C
 誠「いや、そういうんじゃないと思うよ？」%K%P
 Makoto「No, I don't think it's like that at all.」%K%P
@@ -201,7 +201,7 @@ Trying to avoid Izumi-san's gaze as much as possible, I%Nback up Okuhiko.%K%P
 Izumi「But Makoto-kun...」%K%P
 0x690
 『何か納得いかない』といった感じのいづみさんの声を、背中に聞いた。%K%P
-As I turn my back, Izumi-san says this in a way that says%N"I don't understand this at all."%K%P
+As I turn my back, Izumi-san says this in a way that says%N「I don't understand this at all.」%K%P
 0x69C
 けれどオレは、敢えて聞こえないフリをして足早に先を急ぐ。%K%N
 But I pretend not to hear her and quicken my pace.%K%N
@@ -210,7 +210,7 @@ But I pretend not to hear her and quicken my pace.%K%N
 Besides, the one who doesn't understand the most is%Nmyself.%K%P
 0x6B4
 どうして『バッテリーが上がっちゃってるんじゃ？』なんて言葉が、口をついて出たのだろう？%K%P
-Why did the words "The battery's dead, isn't it?" come%Nout of my mouth?%K%P
+Why did the words 「The battery's dead, isn't it?」 come%Nout of my mouth?%K%P
 0x6C0
 何だか自分が自分でないような、そんな苛立たしい違和感を、オレは覚えずにはいられなかった……。%K%P
 Somehow, it felt like it wasn't me who said it. I'm shrouded%Nby this irritating, uncomfortable sensation...%K%P
@@ -360,7 +360,7 @@ Naturally, since I came in the middle of the conversation, I%Nhave no clue what 
 I wouldn't normally butt into a conversation, or at least%Nwould be reluctant to, but I'd rather get everything else%Noff my mind right now.%K%P
 0xAF0
 オレは素直に『何が嬉しいんだ？』──そう聞いてみることにした。%K%P
-So I try bluntly asking Kurumi "Happy about what?"%K%P
+So I try bluntly asking Kurumi 「Happy about what?」%K%P
 0xAFC
 すると……%K%P
 Just then...%K%P
@@ -468,7 +468,7 @@ Okuhiko「Right? So just get lost, Ishihara.」%K%P
 Okuhiko「Haruka-chan and I, however, are in favor of going fishing.%NWe don't need a negative guy like you to kill the mood.」%K%P
 0xD04
 『オレがいなくったって盛り上がってなかったじゃないか！』と言おうと思ったが、まあいい……。%K%P
-(You didn't even have a "mood" in the first place, did%Nyou!?) I feel like saying this, but I'll let it go...%K%P
+(You didn't even have a 「mood」 in the first place, did%Nyou!?) I feel like saying this, but I'll let it go...%K%P
 0xD10
 こいつのことは、ほっとこう。%K%P
 I'm just going to ignore him.%K%P
@@ -477,7 +477,7 @@ I'm just going to ignore him.%K%P
 Anyway, I'm interested in knowing why Haruka is in favor%Nof this.%K%P
 0xD28
 そこで『どうして遙は、釣りに行きたいんだ？』と、オレは遙に尋ねてみた。%K%P
-I then try asking her, "Why did you want to go fishing?"%K%P
+I then try asking her, 「Why did you want to go fishing?」%K%P
 0xD3C
 億彦「バカだなぁ、そんなことも分からないのかい？」%K%P
 Okuhiko「You idiot, you don't understand that either?」%K%P

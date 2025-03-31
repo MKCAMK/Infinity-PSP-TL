@@ -156,10 +156,10 @@ Yuka「It'll take more than that to beat me, Mr. Echizen.」%K%P
 (D-Damn it〜)%K%P
 0x454
 （これで『３０−１５』か……）%K%P
-(Now it's "30-15"...)%K%P
+(Now it's 「30-15」...)%K%P
 0x460
 （……って言うか、オカサンて誰だよっ！？）%K%P
-(... And who the hell is "Mr. Echizen"!?)%K%P
+(... And who the hell is 「Mr. Echizen」!?)%K%P
 0x46C
 そんなことを思いながらも、悔しさのあまり、%N声を出すことさえできなかった。%K%P
 I'm so mortified that I'm struck speechless.%K%P
@@ -195,10 +195,10 @@ Yuka「It'll take more than that to beat me, Mr. Echizen.」%K%P
 (D-Damn it〜)%K%P
 0x594
 （これで『３０−１５』か……）%K%P
-(Now it's "30-15"...)%K%P
+(Now it's 「30-15」...)%K%P
 0x5A0
 （……って言うか、オカサンて誰だよっ！？）%K%P
-(... And who the hell is "Mr. Echizen"!?)%K%P
+(... And who the hell is 「Mr. Echizen」!?)%K%P
 0x5AC
 そんなことを思いながらも、悔しさのあまり、%N声を出すことさえできなかった。%K%P
 I'm so mortified that I'm struck speechless.%K%P
@@ -447,7 +447,7 @@ The ball slams into the court, then bounces up over the%Nfence and into the fore
 (Damn, she got me...)%K%P
 0xD24
 （これで『１５−４０』か……）%K%P
-(With this, it's "15-40", huh...)%K%P
+(With this, it's 「15-40」, huh...)%K%P
 0xD30
 （思ったより、たいしたことないな……）%K%P
 (This isn't as hard as I thought...)%K%P
@@ -462,7 +462,7 @@ Despite Yuka's almost inevitable loss, she's still beaming%Nwith confidence.%K%P
 She mischievously smiles, as if she's plotting something...%K%P
 0xDA8
 （これで『４０−１５』か……）%K%P
-(With this, it's "40-15", huh...)%K%P
+(With this, it's 「40-15」, huh...)%K%P
 0xDB4
 （あと１ポイントで優夏のゲーム）%K%P
 (Yuka only needs one more point to win.)%K%P
@@ -474,7 +474,7 @@ She mischievously smiles, as if she's plotting something...%K%P
 Yuka gets ready to serve, triumphant in the face of my%Nalmost inevitable loss.%K%P
 0xE20
 （これで『３０−３０』か……）%K%P
-(With this, it's "30-30", huh...)%K%P
+(With this, it's 「30-30」, huh...)%K%P
 0xE2C
 （大丈夫、まだまだ勝算はあるぞ……）%K%P
 (It's all right, there's still a chance to win...)%K%P
@@ -561,7 +561,7 @@ Yuka「Suuuure♪」%K%P
 ... and replies.%K%P
 0x1050
 （スコアは『４０−３０』……）%K%P
-(The score is "40-30"...)%K%P
+(The score is 「40-30」...)%K%P
 0x105C
 （あと１ポイントで優夏のゲームだ）%K%P
 (Yuka needs just one more point to win the game.)%K%P
@@ -600,7 +600,7 @@ Yuka「Aww, this sucks! I was so close...」%K%P
 Yuka pouts in frustration.%K%P
 0x116C
 （これでスコアは『３０−４０』……）%K%P
-(The score is "30-40" now...)%K%P
+(The score is 「30-40」 now...)%K%P
 0x1178
 （あと１ポイントでオレのゲームだ）%K%P
 (I just need one more point to win.)%K%P

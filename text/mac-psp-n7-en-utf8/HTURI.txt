@@ -90,7 +90,7 @@ Makoto「Say... Haruka...?」%K%P
 Haruka「What?」%K%P
 0x264
 『本当のところを教えてほしいんだ』と言いかかったその時だった。%K%P
-"I want you to tell me what really happened between you%Nand Saki." But before I can say this...%K%P
+「I want you to tell me what really happened between you%Nand Saki.」 But before I can say this...%K%P
 0x2DC
 ゴォーッと地の底から湧き上がるような凄まじいごう音が響いた。%K%P
 We hear a tremendous noise breaking out from the%Nbottom of the earth.%K%P
@@ -255,10 +255,10 @@ Before long, Haruka releases the fish and faces me.%K%P
 Haruka「Makoto, do you think fish also have hearts?」%K
 0x1480
 『あると思う』
-"I do."
+「I do.」
 0x148C
 『どうかな？』
-"I wouldn't know."
+「I wouldn't know.」
 0x744
 誠「ああ。きっとあるよ、魚にだって」%K%P
 Makoto「Yeah, I definitely do.」%K%P
@@ -375,7 +375,7 @@ Of course Haruka didn't turn into foam in the water...%K%P
 I enter the shopping district to look for Haruka.%K%P
 0x9CC
 釣り人のひとりが『商店街の方に歩いて行ったようだ』と教えてくれたからだ。%K%P
-A fisherman told me "It seems that she was headed%Ntowards the shopping district."%K%P
+A fisherman told me 「It seems that she was headed%Ntowards the shopping district.」%K%P
 0x9D8
 しかし、この狭い通りの中でも、遙の姿は見つからなかった。%K%P
 However, I can't find Haruka even in this narrow street.%K%P
@@ -480,7 +480,7 @@ Saki「Stop accusing me. I don't have it anymore.」%K%P
 Haruka「You're lying. You took it away.」%K%P
 0xC50
 『取り上げた』だって？　何のことだ？%K%P
-"Took it away"? Took what?%K%P
+「Took it away」? Took what?%K%P
 0xC5C
 沙紀「痛い！　離して！」%K%P
 Saki「Ow! Let me go!」%K%P
@@ -507,10 +507,10 @@ Saki「I'm not lying!」%K%P
 Haruka「You're lying! You're lying! Give it back! Give me back that%N'bell'!」%K%P
 0xCD8
 ──『鈴』！？　『鈴』だって！？%K%N
-―"Bell"!? Did she just say "bell"!?%K%N
+―「Bell」!? Did she just say 「bell」!?%K%N
 0xCE4
 沙紀が遙から奪ったもの。それは『鈴』なのか！？%K%P
-The thing Saki stole from Haruka was a "bell"!?%K%P
+The thing Saki stole from Haruka was a 「bell」!?%K%P
 0xCF0
 と、その瞬間！%K%P
 And in that instant!%K%P
@@ -576,10 +576,10 @@ Makoto「Haruka! Haruka! Hang in there!」%K%P
 While I shake her, my mind flashes back to the night of%Nthe 1st.%K%P
 0xDFC
 確かここ……月浜だった。あの時拾い上げた『鈴』……。訳もなく怖くなって、オレは海へ投げ捨てた。%K%P
-It was definitely here... on Moon Beach. Back then, I%Npicked up the "bell"... I threw it into the ocean because it%Nscared me for no reason.%K%P
+It was definitely here... on Moon Beach. Back then, I%Npicked up the 「bell」... I threw it into the ocean because it%Nscared me for no reason.%K%P
 0xE08
 あの『鈴』が、何か遙と沙紀に関係しているのだとすれば、オレが見た『夢』は何の意味があるというんだろう？%K%P
-If that "bell" is connected to Haruka and Saki somehow,%Nthen what is the meaning of the dream I had?%K%P
+If that 「bell」 is connected to Haruka and Saki somehow,%Nthen what is the meaning of the dream I had?%K%P
 0xE14
 誠「遙！」%K%P
 Makoto「Haruka!」%K%P
@@ -717,7 +717,7 @@ Haruka「Will you protect me?」%K%P
 Makoto「Well, if it's you...」%K%P
 0x11B4
 『当たり前だ』と言おうとした瞬間、遙が大きく笑い出した。%K%P
-In the instant I'm about to say "Then of course I will,"%NHaruka laughs loudly.%K%P
+In the instant I'm about to say 「Then of course I will,」%NHaruka laughs loudly.%K%P
 0x11C8
 遙「そういう話はやめ。ストップ、ストップゥ！」%K%P
 Haruka「Forget I ever said anything. I need to stop right here!」%K%P

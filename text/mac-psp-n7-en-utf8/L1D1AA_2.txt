@@ -60,10 +60,10 @@ I... try to pull my thoughts together.%K%P
 ―First, the camp.%K%N
 0x15C
 合宿と言っても、これは部活やサークルのそれでは%Nない。%K%P
-Well, I say "camp", but this isn't for a school club or%Nanything.%K%P
+Well, I say 「camp」, but this isn't for a school club or%Nanything.%K%P
 0x168
 『ゼミ合宿』%K……オレの２０年間という長い人生の%N中で、生まれて初めて聞いた、何とも不可解な%N種類の合宿だった。%K%P
-The "Seminar Camp". ... In all of my 20 long years of life,%Nthis is the first time I've ever heard of such a bizarre%Ncamp.%K%P
+The 「Seminar Camp」. ... In all of my 20 long years of life,%Nthis is the first time I've ever heard of such a bizarre%Ncamp.%K%P
 0x174
 ほとんど授業に出ていないせいもあって、オレは%N大学の諸々のシステムに関して、あまりよく%N理解していない。%K%P
 Truthfully, I don't really understand much about my%Ncollege's various systems, as I skipped classes often.%K%P
@@ -72,16 +72,16 @@ Truthfully, I don't really understand much about my%Ncollege's various systems, 
 At the start of last month, when the final exam results%Nand the list of those who were or weren't advancing to%Ntheir next grade were posted, I quickly peeked at the%Nboard, and saw...%K%P
 0x18C
 『文学部心理学科ゼミ所属者名簿』%K%P
-"Roster of Literature Department Psychology Major%NSeminar Members."%K%P
+「Roster of Literature Department Psychology Major%NSeminar Members.」%K%P
 0x198
 ……なるものが貼り出されていて、オレは自分が%N『ナントカゼミの第５班：川島班』に配属された%Nことを、そこで初めて知ったのだった。%K%P
-... It was from that announcement that I learned for the%Nfirst time that I was assigned to "The (Something)%NSeminar's 5th Camp Group: Kawashima Party".%K%P
+... It was from that announcement that I learned for the%Nfirst time that I was assigned to 「The (Something)%NSeminar's 5th Camp Group: Kawashima Party」.%K%P
 0x1A4
 （ゼミの正式な名前は……%W%Wえーっと……%W%W%W忘れた）%K%P
 (The Seminar Camp's official name is... Err... I forgot.)%K%P
 0x1B0
 （って言うか、そもそも『ゼミ』って何なんだよ！？）%K%P
-(But anyway, what the hell does it mean by "Seminar"!?)%K%P
+(But anyway, what the hell does it mean by 「Seminar」!?)%K%P
 0x1BC
 で、その名簿の隣にはもう１枚張り紙があって……%K%P
 Next to that roster was a sheet of paper, which said...%K%P
@@ -105,7 +105,7 @@ Next to that roster was a sheet of paper, which said...%K%P
 Ours, the Kawashima Party, was assigned to the lodge%Nfrom (Sunday, March 31st-Sunday, April 7th.)%K%P
 0x210
 文書の最後には『その他の詳細に関しては、%N各班長の指示に従うこと。以上』とあった。%K%P
-The bottom of the note read: "Other details will be given%Nby your designated group leader. That is all."%K%P
+The bottom of the note read: 「Other details will be given%Nby your designated group leader. That is all.」%K%P
 0x21C
 川島班の班長は、当たり前だが、川島という%N名前だった。%K%P
 Of course, it makes sense that the leader of the%NKawashima Party was Kawashima herself.%K%P
@@ -132,7 +132,7 @@ Yuka「Well then, I'll see you there!」%K%P
 ... I ended up arriving here last night about... a little past%N10:00?%K%P
 0x28C
 オレの住んでいる場所から２００ｋｍも離れたここ──絶海の孤島へと、オレは無事に到着したのだった。%K%P
-I live about 124 miles from here, but I still managed to%Nmake it here - this island in the middle of nowhere -%Nsafely.%K%P
+I live about 124 miles from here, but I still managed to%Nmake it here―this island in the middle of nowhere―%Nsafely.%K%P
 0x298
 けれど実際は『訳もわからず、半ば強制的に連れて来させられた』と言った方が、より的確な表現の%Nような気もする。%K%P
 Honestly, I feel like I was dragged so far from home for no%Nreason.%K%P
@@ -183,10 +183,10 @@ No, she might not have ignored me intentionally, as it%Nseemed to be an unconsci
 For instance, if she thought she heard the greeting%Ncoming from the TV, then she probably would have%Nignored it.%K%P
 0x3EC
 肩透かしを食らった形のオレは、ふらふらと流されて行く『おはよう』の決着をつけるべく、キッチンの%N方へと足を向けた。%K%P
-Having been ignored, I become determined to clear up%Nthis "good morning" issue, so I stagger to my feet and%Nhead for the kitchen.%K%P
+Having been ignored, I become determined to clear up%Nthis 「good morning」 issue, so I stagger to my feet and%Nhead for the kitchen.%K%P
 0x47C
 再度捕まえ直した『おはよう』を、もう一度ここで%N放してみる。%K%P
-In an attempt to fix the situation, I face her and try to%Nsay "Good morning", again.%K%P
+In an attempt to fix the situation, I face her and try to%Nsay 「Good morning」, again.%K%P
 0x488
 誠「おはよう」%K%P
 Makoto「Good morning.」%K%P
@@ -345,4 +345,4 @@ But now, the girl is sitting where I was in a demure manner.%K%P
 While trying to think about what to say...%K%P
 0x7FC
 ……そうこうしているうちに、『奴』が眠そうな目を%Nこすりながら、リビングへと姿を現した。%K%P
-... It's at that point that "he" shows up, entering the living%Nroom while rubbing the sleep out of his eyes.%K%P
+... It's at that point that 「he」 shows up, entering the living%Nroom while rubbing the sleep out of his eyes.%K%P

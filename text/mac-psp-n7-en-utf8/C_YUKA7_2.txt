@@ -87,10 +87,10 @@ Makoto「...」%K%P
 Yuka「...」%K%P
 0x254
 『──７日──』%K%P
-"―7―"%K%P
+「―7―」%K%P
 0x260
 『７日　ＳＵＮ　０５：０３』%K%P
-"7 SUN 5:03 A.M."%K%P
+「7 SUN 5:03 A.M.」%K%P
 0x26C
 誠「優夏……オレ達……」%K%P
 Makoto「Yuka... we...」%K%P
@@ -351,7 +351,7 @@ Yuka「Nope♪」%K%P
 And so, the two of us have arrived at Moon Beach.%K%P
 0x9D4
 私と誠は約束した……『７日の朝日を一緒に見よう』と。%K%P
-Makoto and I made a promise... "We'll see the sunrise of%Nthe 7th together."%K%P
+Makoto and I made a promise... 「We'll see the sunrise of%Nthe 7th together.」%K%P
 0x9E0
 ──７日。%K%P
 ―Today's the 7th.%K%P
@@ -363,10 +363,10 @@ It's the start of the morning...%K%P
 The morning sun is now beginning to slowly rise from%Nbeyond the golden ocean...%K%P
 0xA04
 『ときはとかれん』%K%N──それはきっと『無限ループの時の流れから解き放たれる』と言う意味で……。%K%P
-"Will free you from time."%K ―That surely meant "to be%Nreleased from the infinite loop's flow of time"...%K%P
+「Will free you from time.」%K ―That surely meant 「to be%Nreleased from the infinite loop's flow of time」...%K%P
 0xA10
 『みさきのはて』%K%N──それはたぶん『本当の岬の果て……つまり海の中』のことを指していたのだろう。%K%P
-"At the end of the cape"%K ―That was probably%Nindicating, "The real end of the cape"...In other words, "in%Nthe ocean."%K%P
+「At the end of the cape」%K ―That was probably%Nindicating, 「The real end of the cape」...In other words, 「in%Nthe ocean.」%K%P
 0xA1C
 私達は今、解き放たれたのだ……。%K%P
 Right now, we've been released...%K%P

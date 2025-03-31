@@ -12,7 +12,7 @@ I've already trashed around in my bed many times.%K%P
 I glance at the watch wrapped around my wrist.%K%P
 0x13C
 『５日　ＦＲＩ　０２：２０』%K%P
-"5 FRI 2:20 A.M."%K%P
+「5 FRI 2:20 A.M.」%K%P
 0x148
 前のこの日、この夜のことを、オレは決して忘れてはいなかった。%K%P
 I definitely won't forget what happened on this day, this%Nvery night in the last loop.%K%P
@@ -192,7 +192,7 @@ Their radiance feels like it's piercing my eyes.%K%P
 It's true that I saw these stars last night.%K%P
 0x4F8
 けれどあのときは、前みたいな気分にはなれなかったし……それに……%K%P
-But it didn't have the feeling it had on "that" night... and%Nbesides...%K%P
+But it didn't have the feeling it had on 「that」 night... and%Nbesides...%K%P
 0x504
 今夜は大事なことを、いづみさんに告げなければならない。%K%P
 I have to tell Izumi-san something important tonight.%K%P
@@ -477,7 +477,7 @@ If I'd been in Izumi-san's position, I think I would have%Ndone the same thing.%
 That three year blank... Kurumi not aging at all... The Shiki%Nno Mori Shrine...%K%P
 0xAE0
 『この島に来れば、これらの謎を解く鍵が見つかるかもしれない』と考えるのは当然のことだった。%K%P
-It would be completely natural to think, "By coming to this%Nisland, I might find the key to solving these mysteries."%K%P
+It would be completely natural to think, 「By coming to this%Nisland, I might find the key to solving these mysteries.」%K%P
 0xAEC
 いづみ「島中の人から話を聞いたり、役場まで行って資料を調べたりしたんだけど……」%K%P
 Izumi「I asked the people on the island, and went to the town%Nhall to examine documents...」%K%P
@@ -525,7 +525,7 @@ Izumi「I told him that I was coming back again at the beginning%Nof April...」
 Izumi「And the manager said...」%K%P
 0xBA8
 『ああ〜、その頃はちょうど、オラ、イタリアさ行ってるでよぉ〜』%K%P
-"Ah〜. Actually, that's exactly the time I'm goin' to%NItaly〜."%K%P
+「Ah〜. Actually, that's exactly the time I'm goin' to%NItaly〜.」%K%P
 0xBB4
 いづみ「それを聞いた瞬間、ひらめいたの……」%K%P
 Izumi「The instant I heard that, it hit me...」%K%P
@@ -609,7 +609,7 @@ Makoto「In the first place, the origin of this incident...」%K%P
 Isn't that wrong!? What the hell am I saying!?%K%P
 0xD1C
 『タイムスリップの方が真実だ』とするなら、やはりいづみさんは、オレのことを１度もだましてなんかいなかったわけで……。%K%P
-If we were to assume "this reality is a delusion", and that%N"the time travel is real", then this Izumi-san really hasn't%Ndeceived me once...%K%P
+If we were to assume 「this reality is a delusion」, and that%N「the time travel is real」, then this Izumi-san really hasn't%Ndeceived me once...%K%P
 0xD28
 ドウカシテんのは、オレの方じゃないか！%K%P
 I'm really am nuts, aren't I!?%K%P
@@ -762,13 +762,13 @@ Makoto「My words?」%K%P
 (The words I said this afternoon?)%K%P
 0xFD8
 『全部、教えてやればいいんだ！』%K%P
-"Tell them everything!"%K%P
+「Tell them everything!」%K%P
 0xFE4
 （じゃあやっぱりいづみさんは、すべてを打ち明けることに……）%K%P
 (Then Izumi-san's decided to reveal everything after%Nall...)%K%P
 0xFF8
 『胸の中にしまっておいた方がいい』%K%P
-"It'd be best to keep everything locked up in your mind."%K%P
+「It'd be best to keep everything locked up in your mind.」%K%P
 0x1004
 （つまりいづみさんは、すべて隠し続ける決意を固めた、と……）%K%P
 (In other words, Izumi-san's fortified her resolve to%Ncontinue hiding everything...)%K%P
@@ -999,7 +999,7 @@ The water feels pleasant...%K%P
 (Water... water, huh...)%K%P
 0x140C
 遙、くるみ、いづみさん、３人の原風景──水の%N記憶。%K%P
-Haruka, Kurumi, and Izumi-san. Their "primal scenery"%Nis―memories of water.%K%P
+Haruka, Kurumi, and Izumi-san. Their 「primal scenery」%Nis―memories of water.%K%P
 0x1418
 その１ヶ月間、彼女達がどんな日常を過ごしてきたのかはわからない。%K%P
 I don't know what kind of days passed by for those%Nthree during that one month.%K%P

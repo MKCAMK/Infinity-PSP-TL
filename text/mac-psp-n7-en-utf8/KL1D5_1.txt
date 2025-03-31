@@ -15,7 +15,7 @@ I just somehow woke up for no reason...%K%P
 I take a look at my watch, which I'd placed on my bedside.%K%P
 0x164
 『２時２０分』%K%P
-"2:20 A.M."%K%P
+「2:20 A.M.」%K%P
 0x170
 眠りについてから、まだ１時間とちょっとしか経っていない。%K%P
 It hasn't even been an hour since I went to sleep.%K%P
@@ -30,7 +30,7 @@ My mind is surprisingly wide awake, so I try to do%Nmultiplication tables in my 
 I try this countless times...%K%P
 0x1A0
 けれど、覚醒したオレの脳には、まどろみのきざしさえも現われなかった。%K%P
-It's no use- I'm too alert.%K%P
+It's no use―I'm too alert.%K%P
 0x1AC
 あきらめて、ベッドをするりと脱け出す。%K%P
 I give up and get out of bed.%K%P
@@ -249,7 +249,7 @@ Makoto「Then wait! I'll be there soon!」%K%P
 Fortunately, the door to Lunabeach is unlocked.%K%P
 0x78C
 幸い……って言うより、不用心じゃないか？%K%P
-... No, "carelessly" seems to be a more apt term.%K%P
+... No, 「carelessly」 seems to be a more apt term.%K%P
 0x798
 そんなことを思いながら、店の２階に上がる。%K%P
 I muse over this as I walk upstairs to the second floor.%K%P

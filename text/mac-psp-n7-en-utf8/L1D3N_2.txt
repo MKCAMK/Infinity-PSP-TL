@@ -6,7 +6,7 @@ text area offset and size:
 The road to the graveyard appears to be west from%Nhere.%K
 0x8C
 （らしい）と言うのは、%Nその道が、道とは呼べぬ道だったからだ。%K%P
-Well, I say "road," but I doubt you could even call it that.%K%P
+Well, I say 「road,」 but I doubt you could even call it that.%K%P
 0x98
 くるみにその存在を教えられるまで、そこは周りと同じ、ただの茂みだとばかり思っていた。%K%P
 Up until Kurumi told us of its existence, I thought it was%Njust a part of the thicket.%K%P
@@ -219,7 +219,7 @@ Makoto「Some plan... you've already hit a dead end.」%K%P
 Kurumi「But we need to go, since Kurumi doesn't know what kind%Nof props are lying around.」%K%P
 0x5D0
 小道具、って……。%K%P
-"Props"...?%K%P
+「Props」...?%K%P
 0x5DC
 誠「まっ、いいや。分かった分かった。じゃあ、考えとくな？」%K%P
 Makoto「Well, whatever. I understand. So you'll think about it?」%K%P
@@ -579,7 +579,7 @@ Kurumi「Innocent 'criminals' thrown to the bottom of deep holes%Nwhile still al
 Yuka「Th-Thanks, Kurumi-chan... That's... enough...」%K%P
 0xE6C
 『身元不明の水死体』と聞いたとたん、みんなはいつの間にか、それぞれの距離を半歩ずつ縮めていた。%K%P
-The instant we hear, "unidentified drowned corpses", we%Nall instinctively take a half step backwards.%K%P
+The instant we hear, 「unidentified drowned corpses」, we%Nall instinctively take a half step backwards.%K%P
 0xE88
 くるみ「じゃ〜あ、早くやろっ？　肝だめし♪」%K%P
 Kurumi「Well then, let's get this show on the road♪」%K%P
@@ -591,7 +591,7 @@ None of us answer Kurumi, who seems indifferent to our%Nplight.%K%P
 Everyone exchanges worried glances with each other.%K%P
 0xEAC
 つまり……『やっぱりヤメにしない？』と……。%K%P
-"Is it too late to turn back now?" ... is a question we all%Nseem to be asking ourselves.%K%P
+「Is it too late to turn back now?」 ... is a question we all%Nseem to be asking ourselves.%K%P
 0xEC0
 くるみ「もう、みんな怖がりだなぁ。大丈夫だよぉ……」%K%P
 Kurumi「Geez, everyone's so scared. It's all right...」%K%P
@@ -600,7 +600,7 @@ Kurumi「Geez, everyone's so scared. It's all right...」%K%P
 Kurumi「Even if, by any chance, you happen to get possessed%Nby a ghost, Kurumi will refer you to a famous spirit medium!」%K%P
 0xED8
 安心させるフリをしながらも、くるみは更に恐怖をあおった。%K%P
-Kurumi's "reassurance" only scares us further, clearly%Nher intent.%K%P
+Kurumi's 「reassurance」 only scares us further, clearly%Nher intent.%K%P
 0xF10
 くるみ「それじゃあ早速、ペア分けのジャンケン、だね？」%K%P
 Kurumi「Well then, let's get right to dividing the pairs through%NRock-Paper-Scissors, okay?」%K%P
@@ -654,7 +654,7 @@ I have rock, Haruka has scissors, Izumi-san has%Nscissors, Okuhiko also has scis
 Kurumi「Ah... For now, one pair has been decided, Onii-chan and%NYuka-san.」%K%P
 0x108C
 優夏はオレの方を見ながら『ありがと』と声に出さずにつぶやいた。%K%P
-Yuka looks towards me and mouths a silent "thanks."%K%P
+Yuka looks towards me and mouths a silent 「thanks.」%K%P
 0x1098
 くるみ「ほんじゃあ今度は、遙さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
 Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
@@ -666,10 +666,10 @@ Makoto「... Go!」%K%P
 Everyone releases their hands simultaneously.%K%N
 0x10C4
 律義にも、優夏はさっきの言葉通り、突き出した拳を握りしめている。%K%P
-True to her word, Yuka releases a tight fist- rock.%K%P
+True to her word, Yuka releases a tight fist―rock.%K%P
 0x10D8
 チョキを出したオレに向かって『なんでよぉ！！』と声に出さずに非難した。%K%P
-When I release scissors, Yuka mouths a silent "What the%Nhell!?".%K%P
+When I release scissors, Yuka mouths a silent 「What the%Nhell!?」.%K%P
 0x10E4
 そんな優夏の冷たい視線を、オレはさらりとかわしながら、他のメンバーの手を確認してみる。%K%P
 I immediately avoid her cold glare while checking the%Nothers' hands.%K%P
@@ -699,10 +699,10 @@ Makoto「... Go!」%K%P
 Everyone releases their hands simultaneously.%K%N
 0x11D8
 律義にも、優夏はさっきの言葉通り、突き出した拳を握りしめている。%K%P
-True to her word, Yuka releases a tight fist- rock.%K%P
+True to her word, Yuka releases a tight fist―rock.%K%P
 0x11EC
 パーを出したオレに向かって『なんでよぉ！！』と声に出さずに非難した。%K%P
-When I release paper, Yuka mouths a silent "What the%Nhell!?".%K%P
+When I release paper, Yuka mouths a silent 「What the%Nhell!?」.%K%P
 0x11F8
 そんな優夏の冷たい視線を、オレはさらりとかわしながら、他のメンバーの手を確認してみる。%K%P
 I immediately avoid her cold glare while checking the%Nothers' hands.%K%P
@@ -750,7 +750,7 @@ I have rock, Haruka has scissors, Yuka also has%Nscissors, Izumi-san has paper, 
 Kurumi「Ah... For now, the pairs are Haruka-san and Yuka-san,%NOnii-chan and Kurumi, and Onee-chan and Okkun.」%K%P
 0x135C
 くるみはオレの方を見ながら『ありがと』と声に出さずにつぶやいた。%K%P
-Kurumi looks towards me and mouths a silent "thanks."%K%P
+Kurumi looks towards me and mouths a silent 「thanks.」%K%P
 0x1378
 優夏「頑張ろうね、遙！」%K%P
 Yuka「Let's do our best, Haruka!」%K%P
@@ -789,7 +789,7 @@ I have rock, Haruka has paper, Yuka has paper, and%NOkuhiko also has paper...%K%
 Kurumi「Ah... For now, one pair has been decided, Onee-chan and%NOnii-chan.」%K%P
 0x1478
 いづみさんはオレの方を見ながら『ありがと』と声に出さずにつぶやいた。%K%P
-Izumi-san looks towards me and mouths a silent "thank%Nyou."%K%P
+Izumi-san looks towards me and mouths a silent 「thank%Nyou.」%K%P
 0x1484
 くるみ「ほんじゃあ今度は、おっくんと優夏さんと%N遙さんで、グーパーだよ？」%K%P
 Kurumi「Well then, it's time for another round for Okkun, Yuka-san,%Nand Haruka-san.」%K%P
@@ -969,7 +969,7 @@ I have paper, Yuka has rock, Izumi-san has rock, and%NOkuhiko also has rock...%K
 Kurumi「Ah... For now, one pair has been decided, Haruka-san%Nand Onii-chan.」%K%P
 0x19A0
 遙はオレの方を見ながら『ありがとう』と声に出さずにつぶやいた。%K%P
-Haruka looks towards me and mouths a silent, "thank%Nyou."%K%P
+Haruka looks towards me and mouths a silent, 「thank%Nyou.」%K%P
 0x19AC
 くるみ「ほんじゃあ今度は、優夏さんとおっくんとお姉ちゃんで、グーパーだよ？」%K%P
 Kurumi「Well then, this time around, Yuka-san, Okkun, and%NOnee-chan can only use rock or paper, okay?」%K%P
@@ -1005,25 +1005,25 @@ Kurumi「So in conclusion, we have our pairs. Kurumi will now%Nexplain the rest 
 Okuhiko dejectedly sits down on a nearby tombstone...%K%P
 0x1B40
 優夏は『ひとりにならなくて済んだ』ということに安堵したのだろう。%N『ふーっ』と大きく息をついていた……。%K%P
-Yuka seems to be relieved, as if she's saying "I'm so%Nglad I'm not alone." She takes a deep breath, and sighs...%K%P
+Yuka seems to be relieved, as if she's saying 「I'm so%Nglad I'm not alone.」 She takes a deep breath, and sighs...%K%P
 0x1B54
 優夏は『ひとりにならなくて済んだ』ということに安堵したのだろう。%N『ふーっ』と大きく息をついていた……。%K%P
-Yuka seems to be relieved, as if she's saying "I'm so%Nglad I'm not alone." She takes a deep breath, and sighs...%K%P
+Yuka seems to be relieved, as if she's saying 「I'm so%Nglad I'm not alone.」 She takes a deep breath, and sighs...%K%P
 0x1B68
 優夏は『ひとりにならなくて済んだ』ということに安堵したのだろう。%N『ふーっ』と大きく息をついていた……。%K%P
-Yuka seems to be relieved, as if she's saying "I'm so%Nglad I'm not alone." She takes a deep breath, and sighs...%K%P
+Yuka seems to be relieved, as if she's saying 「I'm so%Nglad I'm not alone.」 She takes a deep breath, and sighs...%K%P
 0x1BD4
 くるみの言ったルールとはこうだった。%K%P
 Kurumi lays out the rules.%K%P
 0x1BE0
 『この墓地のどこかに古い井戸があるので、それを２人で協力して探し出すこと』%K%P
-"There's an old well somewhere in this graveyard. Two of%Nyou will team up to look for it."%K%P
+「There's an old well somewhere in this graveyard. Two of%Nyou will team up to look for it.」%K%P
 0x1BEC
 『発見したら、その証拠として、井戸の壁に小石か何かで自分達のサインを刻む』%K%P
-"If you find it, sign your names on the wall of the well with%Na pebble as proof."%K%P
+「If you find it, sign your names on the wall of the well with%Na pebble as proof.」%K%P
 0x1BF8
 『それが出来たら、スタート地点に戻って良い』%K%P
-"If you can do that, you can return to the start point."%K%P
+「If you can do that, you can return to the start point.」%K%P
 0x1C04
 オレ達のペアは、代表者、つまりオレがジャンケンをして、一番最初に出発することとなった。%K%P
 It was decided that we should play%NRock-Paper-Scissors to pick a representative to%Nchoose which pair goes first.%K%P
@@ -1206,10 +1206,10 @@ Yuka「Do you think you can sing something cheerful?」%K%P
 Makoto「A cheerful song...」%K
 0x4124
 『死神レクイエム』を
-"Requiem for the Grim Reaper."
+「Requiem for the Grim Reaper.」
 0x4130
 『お人形だ〜い好き♪』を
-"I Love Dolls♪"
+「I Love Dolls♪」
 0x20E4
 誠「鮮血したたる夕闇にぃ〜♪」%K%P
 Makoto「Fresh blood dripping in the twilight〜♪」%K%P
@@ -1491,7 +1491,7 @@ Even though this is a place where it wouldn't be%Nunnatural to find a pebble or 
 For some reason, I remember Kurumi's words from just%Nbefore we left...%K%P
 0x2740
 『生きながらにして深い穴の底に放り込まれた無実の罪人とかぁ』%K%P
-"Or innocent 'criminals' who were thrown to the bottom of%Na deep hole while they were still alive."%K%P
+「Or innocent 'criminals' who were thrown to the bottom of%Na deep hole while they were still alive.」%K%P
 0x274C
 （深い穴の底？）%K%P
 (A deep hole?)%K%P
@@ -1563,10 +1563,10 @@ Kurumi「Were you surprised? Were you surprised?」%K%P
 ... and Kurumi gleefully asks this.%K
 0x4160
 『ちょっとな』と答える
-"A little."
+「A little.」
 0x416C
 『子供じゃないんだから』とあしらう
-"I'm not a kid, you know."
+「I'm not a kid, you know.」
 0x2958
 誠「ちょっとな……」%K%P
 Makoto「A little...」%K%P
@@ -2124,7 +2124,7 @@ Haruka「...」%K%P
 Haruka begins to step away from me. She moves to a%Nstone paving by a large, conspicuous tombstone.%K%P
 0x35EC
 沙紀とのことには触れてほしくない。遙の顔がそう言っていた。オレはかまわずグイッと踏み込んだ。%N遙の表情から感情が読めたことに、%N半ば驚きながら……。%K%P
-Haruka's face says, "I don't want to talk about Saki."%NIgnoring this, I step towards her. I'm partly surprised that%NI can read emotions off of Haruka's face...%K%P
+Haruka's face says, 「I don't want to talk about Saki.」%NIgnoring this, I step towards her. I'm partly surprised that%NI can read emotions off of Haruka's face...%K%P
 0x35F8
 誠「どうなんだ？」%K%P
 Makoto「It wasn't, was it?」%K%P

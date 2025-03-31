@@ -195,31 +195,31 @@ Izumi「... Then, when he was 10, in the summer of 2003...」%K%P
 Izumi「Suddenly he began saying incoherent, illogical things.」%K%P
 0x3C0
 『ボクのなかに『死』は無い』%K%P
-"I have no 'death' in me."%K%P
+「I have no 'death' in me.」%K%P
 0x3CC
 『だからボクは『死』なない』%K%P
-"That's why I won't 'die'."%K%P
+「That's why I won't 'die'.」%K%P
 0x3D8
 『ボクは死なないし死ねない』%K%P
-"I won't die because I can't die."%K%P
+「I won't die because I can't die.」%K%P
 0x3E4
 『…………永遠に……………』%K%P
-"... I'll live forever..."%K%P
+「... I'll live forever...」%K%P
 0x3F0
 誠「……………………………」%K%P
 Makoto「...」%K%P
 0x3FC
 『死なないボクに触れた者もまた、死なない』%K%P
-"Anyone who touches me will also become immortal."%K%P
+「Anyone who touches me will also become immortal.」%K%P
 0x408
 『不死は伝染し、やがて世界から死は消える』%K%P
-"By infecting others with immortality through this%NImmortality Contagion, death will soon disappear from the%Nworld."%K%P
+「By infecting others with immortality through this%NImmortality Contagion, death will soon disappear from the%Nworld.」%K%P
 0x414
 『誰も死なないし……死ねなくなるのだ……』%K%P
-"No one will die... They can't die anymore..."%K%P
+「No one will die... They can't die anymore...」%K%P
 0x420
 『……………………永遠に……………………』%K%P
-"... They'll live for eternity..."%K%P
+「... They'll live for eternity...」%K%P
 0x42C
 誠「………………………………………………」%K%P
 Makoto「...」%K%P
@@ -348,10 +348,10 @@ Izumi「His parents and his sister.」%K%P
 Izumi「They were truly convinced that a miracle had occurred.」%K%P
 0x624
 『トムは死んだ人間を生き返らせることができるんだ！』%K%P
-"Tom, you're able to bring dead people back to life!"%K%P
+「Tom, you're able to bring dead people back to life!」%K%P
 0x630
 『お兄ちゃんには奇跡を起こす不思議な力があるのよ！』%K%P
-"Big brother, you have a marvelous power that makes%Nmiracles happen!"%K%P
+「Big brother, you have a marvelous power that makes%Nmiracles happen!」%K%P
 0x63C
 いづみ「来る日も来る日も、彼らは少年に向かってずうっとそう言い続けていたのよ」%K%P
 Izumi「Every day, they would turn to Tom and keep saying this.」%K%P
@@ -849,7 +849,7 @@ Izumi「I... didn't understand what was what...」%K%P
 Makoto「...」%K%P
 0xFDC
 『すべての予知は、現実に、当たっていた』%K%P
-"In reality, all of my premonitions were correct."%K%P
+「In reality, all of my premonitions were correct.」%K%P
 0xFE8
 そんな衝撃的な事実を知らされたにもかかわらず、オレの心はなぜか冷静だった。%K%P
 Despite being informed of this startling fact, it doesn't%Nphase me.%K%P

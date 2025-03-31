@@ -270,7 +270,7 @@ Yuka「The meaning of those words...」%K%P
 Yuka「The meaning of the words... written on the talisman...」%K%P
 0x630
 『はるさめや　みさきのはてに　なりひびく%Nすずとともにや　ときはとかれん』%K%P
-"The spring rain/ At the end of the cape/ Together with/%NThe ringing bell/ Will free you from time".%K%P
+「The spring rain/ At the end of the cape/ Together with/%NThe ringing bell/ Will free you from time」.%K%P
 0x63C
 優夏「いつの間にか、外はどしゃ降りの雨だった……」%K%P
 Yuka「And before I realized it, it was pouring rain outside...」%K%P
@@ -414,13 +414,13 @@ While wrapped up in both, several scenes run through%Nmy head.%K%P
 ...%K%P
 0x918
 『願いを１つ、叶えてあげる』%K%P
-"If I could have one wish granted..."%K%P
+「If I could have one wish granted...」%K%P
 0x924
 ──昔よくした、もしもの話。%K%P
-―In the past, I would always think about that "what if".%K%P
+―In the past, I would always think about that 「what if」.%K%P
 0x930
 『もう一度、あの時間（とき）に、戻りたい』%K%P
-"I want to go back to that time once more."%K%P
+「I want to go back to that time once more.」%K%P
 0x93C
 ──前の私は、それを願った。%K%P
 ―The past me wished that.%K%P
@@ -498,10 +498,10 @@ It might actually be a bad thing...%K%P
 ...%K%P
 0xB7C
 『願いを１つ、叶えてあげる』%K%P
-"If I could have one wish granted."%K%P
+「If I could have one wish granted.」%K%P
 0xB88
 ──昔よくした、もしもの話。%K%P
-―In the past, I would always think about that "what if".%K%P
+―In the past, I would always think about that 「what if」.%K%P
 0xB94
 ──今の私は、何を願うの？%K%P
 ―What does the current me wish for?%K%P
@@ -762,7 +762,7 @@ Is he planning on sleeping forever...?%K%P
 But if he does come out of his room, then what kind of%Nface should I show him?%K What words should I use?%K%P
 0x13BC
 にこやかな笑顔で、『おはよう』？%K%N……それとも……%K%Nすまなさそうに視線を落として、『ごめんね』？%K%P
-Should I give him a wide smile and say "Good morning"?%K ...%NOr...%K Should I give him an apologetic glance and say%N"Sorry"?%K%P
+Should I give him a wide smile and say 「Good morning」?%K ...%NOr...%K Should I give him an apologetic glance and say%N「Sorry」?%K%P
 0x13C8
 その時、誠はどんな顔をする？%K%Nどんな言葉を返す？%K%P
 At that time, what face would Makoto make?%K What words%Nwould he respond with?%K%P
@@ -1239,7 +1239,7 @@ Saki「He made a troubled face, then went deep in thought...」%K%P
 Saki「...And then, his face grew serious, and he said this...」%K%P
 0x1E08
 『オレ、もう好きな人、いるから……』%K%P
-"I already have someone I love..."%K%P
+「I already have someone I love...」%K%P
 0x1E14
 優夏「…………………………」%K%P
 Yuka「...」%K%P
@@ -1353,7 +1353,7 @@ Yuka「Lilacs...?」%K%P
 ...It's the flower used in Saki's perfume.%K%P
 0x204C
 『沙紀ちゃんの使ってる香水って、もしかしてライラック？』%K%P
-"By the way, Saki-chan, is that perfume you're using%Nlilac?"%K%P
+「By the way, Saki-chan, is that perfume you're using%Nlilac?」%K%P
 0x2058
 昨日、いづみさんがそう言ってた。%K%P
 Izumi-san said that yesterday.%K%P
@@ -1542,7 +1542,7 @@ Saki's captivating eyes don't move an inch.%K%P
 I wonder if she plans to keep staring at me like that%Nforever until she gets an answer...%K%P
 0x2448
 『どうなの？』%K%N彼女の目が訴えている。%K%P
-"Well?"%K Her eyes are asking me that.%K%P
+「Well?」%K Her eyes are asking me that.%K%P
 0x2454
 その緊張に耐えられなくなった私は、ゆっくりと首を振った。%K%P
 Unable to stand the tension anymore, I slowly shake my%Nhead.%K%P
@@ -1581,7 +1581,7 @@ Saki「How long will this continue?」%K%P
 Saki「You've always continued to deceive me!!!」%K%P
 0x2728
 沙紀がテーブルを『バン！』と叩いた。%K%P
-Saki strikes the table with a "bang!"%K%P
+Saki strikes the table with a 「bang!」%K%P
 0x2740
 グイッと身を乗り出して、睨みつける。%K%P
 She leans her body forward, and glares at me.%K%P
@@ -1965,10 +1965,10 @@ Yuka「When the time came for my turn... I had already nearly lost%Nconsciousnes
 Yuka「I remember... as he held me in his arms, I continued to call%Nhis name again and again...」%K%P
 0x3110
 『大丈夫、大丈夫だ……』%K%P
-"It's all right, it's all right..."%K%P
+「It's all right, it's all right...」%K%P
 0x311C
 『オレは……ここにいるよ……』%K%P
-"I'm... right here..."%K%P
+「I'm... right here...」%K%P
 0x3128
 優夏「その、言葉だけ……」%K%P
 Yuka「Those were the only words he spoke...」%K%P
@@ -2433,7 +2433,7 @@ Since she did it both times, is this her way of being%Nconsiderate and trying to
 I didn't remember how it tasted last time... so I'm a little%Nsurprised at how delicious it is.%K%N
 0x3C08
 『いいお嫁さんになれるよ』と茶化したら、なぜか%N億彦くんが照れた。%K%N
-When I jokingly comment "You'll make a good wife%Nsomeday", Okuhiko-kun seems rather embarrassed for%Nsome reason.%K%N
+When I jokingly comment 「You'll make a good wife%Nsomeday」, Okuhiko-kun seems rather embarrassed for%Nsome reason.%K%N
 0x3C14
 （……？？？）%K%N
 (...???)%K%N
@@ -2466,13 +2466,13 @@ I'm worried, but as I am now, I don't have the courage to%Nknock on his door.%K%
 I still don't know what sort of face I should greet him with...%K%P
 0x3D10
 『いつも、あともう１歩を踏み出せない』%K%P
-"You've always been unable to take another step%Nforward."%K%P
+「You've always been unable to take another step%Nforward.」%K%P
 0x3D1C
 そう。いつかノックしなければならない……。%K%P
 That's right. Eventually, I'll have to knock...%K%P
 0x3D28
 『あとは優夏の気持ち次第なんだと思う』%K%P
-"I think the rest depends on your feelings."%K%P
+「I think the rest depends on your feelings.」%K%P
 0x3D34
 ノックしなきゃ、扉はずっと、開かない……。%K%P
 I have to knock, or the door will never open...%K%P
@@ -2511,7 +2511,7 @@ When the time comes to go back, Makoto will have no%Nchoice but to see me.%K%P
 ...At that time, I plan to go out to Makoto and say this.%K%P
 0x3E30
 『おはよう……』%K%P
-"Good morning..."%K%P
+「Good morning...」%K%P
 0x3E3C
 ごく自然に、いつもの私のままで。%K%P
 I'll act very natural, like my usual self.%K%P
@@ -2589,10 +2589,10 @@ Yuka「I see...」%K%P
 Suddenly, I remember the flower language of lilacs that%NSaki told me about earlier.%K%P
 0x4008
 『青春の喜び』。%K%P
-"The joy of youth."%K%P
+「The joy of youth.」%K%P
 0x4014
 それから……『若き日の思い出』。%K%P
-And... "Memories of younger days."%K%P
+And... 「Memories of younger days.」%K%P
 0x4020
 優夏「『若き日の思い出』……か」%K%P
 Yuka「'Memories of younger days'...huh?」%K%P

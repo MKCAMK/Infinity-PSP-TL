@@ -105,10 +105,10 @@ Makoto「Huh!?」%K%P
 Haruka「I think you might be able to fit on the luggage carrier.」%K
 0x700
 『そういうわけにはいかないよ』
-"Thanks, but I don't think I should."
+「Thanks, but I don't think I should.」
 0x70C
 『よろしくお願いします』
-"Sounds like a plan... I guess."
+「Sounds like a plan... I guess.」
 0x318
 誠「そういうわけにはいかないよ」%K%P
 Makoto「Thanks, but I don't think I should.」%K%P

@@ -51,7 +51,7 @@ I leave the puppy, and return to the lodge.%K%P
 Yuka isn't in the living room.%K%P
 0x18C
 （『もう１度、沙紀を呼んで来て』……そう頼んだくせに、どこ行ったんだろう？）%K%P
-("Call Saki here one more time." ... Even though she asked%Nme that, where did she go?)%K%P
+(「Call Saki here one more time.」 ... Even though she asked%Nme that, where did she go?)%K%P
 0x198
 部屋の中には遙だけがいた。ソファにちょこんと腰かけている。%K%P
 I find Haruka lounging on the sofa.%K%P
@@ -108,7 +108,7 @@ Haruka「It'd be best if you didn't get any closer to her... Because%Nyou don't 
 Her sudden words leave me dumbfounded.%K%P
 0x278
 （あの人……あの人って、沙紀のことなのか？）%K%P
-("Her"... by "her", she means Saki, right?)%K%P
+(「Her」... by 「her」, she means Saki, right?)%K%P
 0x284
 誠「なあ、遙？　……どうしてそんなに沙紀のこと嫌うんだよ？」%K%P
 Makoto「Say, Haruka? ... Why do you hate Saki so much?」%K%P
@@ -219,7 +219,7 @@ Though she's far away, I can tell that she's on the road%Nthat leads to the shop
 I instantly begin to run towards her.%K%P
 0x4D4
 『行くあてがない』なんていうのは、嘘だったことに気がついた。%K%P
-I realize that I was lying to myself when I said, "I'm not%Nheading anywhere in particular".%K%P
+I realize that I was lying to myself when I said, 「I'm not%Nheading anywhere in particular」.%K%P
 0x4E0
 オレは、沙紀を探していたんだ。%K%P
 I went to look for Saki.%K%P
@@ -351,10 +351,10 @@ It seems that Saki has misunderstood my actions from%Nthis morning.%K%P
 Saki「If that's the case, then it's irresponsible to pity it from%Nthe start...」%K
 0x11F8
 『ああ……そうかもな』
-"Yeah... that might be right."
+「Yeah... that might be right.」
 0x1204
 『そうかな？』
-"You think so?"
+「You think so?」
 0x80C
 誠「ああ……そうかもな」%K%P
 Makoto「Yeah... that might be right.」%K%P
@@ -480,7 +480,7 @@ Crash! The waves break, and a sheet of spray hits Saki%Nin the face.%K%P
 But Saki doesn't seem fazed by the water, and just%Nsilently stares at the sea.%K%P
 0xB20
 ──『嘘をつくから、人を信用できない』%K%P
-―"Because they lie, I can't trust humans."%K%P
+―「Because they lie, I can't trust humans.」%K%P
 0xB2C
 その瞬間、オレの脳裏に優夏の言葉が蘇った。%K%P
 In that instant, I recall Yuka's words.%K%P
@@ -543,7 +543,7 @@ Saki nods while biting her lip.%K%P
 New tears overflow her eyes.%K%P
 0xC34
 ぐっと『悔しさ』を押し殺した表情……。%K%P
-She's trying to overcome her "bitterness"...%K%P
+She's trying to overcome her 「bitterness」...%K%P
 0xC40
 そうなのだ……。%K%N
 That's right...%K%N
@@ -558,7 +558,7 @@ She was just bitter...%K%P
 That's why she snuck into school in the middle of the%Nnight, in order to see the picture all alone.%K%P
 0xC70
 『魔法使いの絵』を見上げて、その夜も今のように泣いたに違いない。%K%P
-She must have been crying like she is now when she%Nlooked up at the "Magician's Portrait".%K%P
+She must have been crying like she is now when she%Nlooked up at the 「Magician's Portrait」.%K%P
 0xC7C
 つまらないプライド？　……そうかもしれない。%K%P
 Was it foolish pride? ... That might be it.%K%P

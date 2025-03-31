@@ -201,7 +201,7 @@ Makoto「Let's have a look...」%K%P
 I glance at the first page of the file.%K%P
 0x51C
 『キュレイシンドロームの考察』%K%P
-"Curé Syndrome Inquiry"%K%P
+「Curé Syndrome Inquiry」%K%P
 0x528
 そこには、黒のゴシック体でそう書かれていた。%K%P
 It's written in a large, black Gothic font.%K%P
@@ -213,22 +213,22 @@ Makoto「Curé Syndrome? What the hell's that?」%K%P
 This time, I flip open to a random page and try reading it.%K%P
 0x568
 『２：記憶錯誤……（１）誤記憶』%K%P
-"2: Paramnesia... (1) False Memory Syndrome."%K%P
+「2: Paramnesia... (1) False Memory Syndrome.」%K%P
 0x574
 『実際に経験した内容とは違ったものが、空想的・誇張的に脚色されて追想される』%K%P
-"Actual experiences are recalled, but in a fictional,%Nexaggerated, dramatized way."%K%P
+「Actual experiences are recalled, but in a fictional,%Nexaggerated, dramatized way.」%K%P
 0x580
 『特に顕示欲の強いヒステリー性格者や山師的、あるいは虚言者──欺瞞者類型のものにみる場合……』%K%P
-"This is especially the case with those with hysterical%Npersonalities who crave attention, impostors, or%Npossibly liars―the pattern is that they all deceive%Nothers..."%K%P
+「This is especially the case with those with hysterical%Npersonalities who crave attention, impostors, or%Npossibly liars―the pattern is that they all deceive%Nothers...」%K%P
 0x58C
 『……実際の体験に空想的・誇大的内容の架空の物語を意識的にまじえて話しているうちに……』%K%P
-"While they deliberately mix personal experiences with%Nimaginary, exaggerated stories as they talk..."%K%P
+「While they deliberately mix personal experiences with%Nimaginary, exaggerated stories as they talk...」%K%P
 0x598
 『……虚言が自分で、嘘か真実かの区別がつかなくなり、その物語の主人公になりきってしまうことがある』%K%P
-"... they become unable to tell if their story was real or%Nfake, and accidentally end up completely turning into%Nthe main character of that story."%K%P
+「... they become unable to tell if their story was real or%Nfake, and accidentally end up completely turning into%Nthe main character of that story.」%K%P
 0x5A4
 『これを空想虚言（ファンタスティック・シュードロジー）という』%K%P
-"This is called Mythomania (Pseudologia Fantastica)."%K%P
+「This is called Mythomania (Pseudologia Fantastica).」%K%P
 0x5C0
 誠「……はぁ？？？」%K%P
 Makoto「... Huh???」%K%P
@@ -288,7 +288,7 @@ I turn my elbows while steering the handles as I blithely%Nride the bike while t
 (Huh? Hold on.)%K%P
 0x748
 （そう言えばこれって『ゼミ合宿』だったんだよな？）%K%P
-(Now that I think about it, this is a "Seminar" Camp, isn't it?)%K%P
+(Now that I think about it, this is a 「Seminar」 Camp, isn't it?)%K%P
 0x754
 （ってことは、勉強してないオレ達のほうが、ほんとはオカシイのか？）%K%P
 (Then isn't it really strange that we're not doing any kind%Nof studying at all?)%K%P
@@ -303,7 +303,7 @@ I turn my elbows while steering the handles as I blithely%Nride the bike while t
 (Even though I'm a Psychology student, I didn't%Nunderstand any of that stuff about False Memory%NSyndrome or Mythomania.)%K%P
 0x784
 （もちろん『キュレイシンドローム』とかいうヤツも、オレにとっては未知の言葉だった）%K%P
-(Of course, to me, that "Curé Syndrome" stuff may as%Nwell have been gibberish.)%K%P
+(Of course, to me, that 「Curé Syndrome」 stuff may as%Nwell have been gibberish.)%K%P
 0x790
 （キュレイシンドローム……）%K%P
 (Curé Syndrome...)%K%P

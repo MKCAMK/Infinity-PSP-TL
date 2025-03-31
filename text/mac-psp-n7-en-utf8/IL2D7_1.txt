@@ -6,7 +6,7 @@ text area offset and size:
 I'm drinking tea at Lunabeach.%K%P
 0x94
 オレたちの波止場。%K%P
-It's our "wharf."%K%P
+It's our 「wharf.」%K%P
 0xA0
 そして、オレの『愛すべきひと』のいるところ……。%K%P
 This is also where the woman I love is...%K%P
@@ -51,7 +51,7 @@ Makoto「Yeah... well, the thing is...」%K%P
 It's like this.%K%P
 0x16C
 億彦のヤツは『薄々と』だが、騙されているかもしれないって、気づいていたらしい。%K%P
-It was "faintly", but it seems Okuhiko realized early on%Nthat he might be being tricked.%K%P
+It was 「faintly」, but it seems Okuhiko realized early on%Nthat he might be being tricked.%K%P
 0x178
 しかし、それでも騙されているという事実を否定し、律儀に同じ行動に徹していたのには理由がある。%K%P
 However, he denied the fact that he was being%Ndeceived, and consciously made sure to faithfully%Nrepeat the same actions.%K%P
@@ -60,7 +60,7 @@ However, he denied the fact that he was being%Ndeceived, and consciously made su
 By doing so, he would ensure that the same events%Nwould repeat, and would be able to make plans in%Nadvance to manipulate future events in order to make%Nhis wish come true.%K%P
 0x190
 つまり、遙の行動が予測できることで、前回の６日間で成し得なかった『遙・攻略』の再チャレンジに挑もうとしていたらしい。%K%P
-That is, trying to impress Haruka. To use a video game%Nanalogy, he considered the previous six days as his%N"Haruka walkthrough", and tried to use this knowledge to%Nwoo her.%K%P
+That is, trying to impress Haruka. To use a video game%Nanalogy, he considered the previous six days as his%N「Haruka walkthrough」, and tried to use this knowledge to%Nwoo her.%K%P
 0x19C
 まるで、テレビゲームのセーブポイントからやり直すかのように……。%K%P
 To him, it was as if he had reloaded from an earlier save%Npoint in a video game...%K%P

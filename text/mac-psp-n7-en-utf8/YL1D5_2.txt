@@ -438,10 +438,10 @@ Yuka「Of course, like you, I don't remember even minor details,%Nlike where and
 I hadn't even thought of it... until now...%K%P
 0x8F8
 優夏が言った『絶望的な夢』とは、オレの見たそれと同じだったのだ！%K%P
-The "hopeless dream" Yuka said she had was the same%Nas mine!%K%P
+The 「hopeless dream」 Yuka said she had was the same%Nas mine!%K%P
 0x904
 驚きなどといったものを遥かに越え、オレの頭の中は完全に真っ白になった。%K%P
-"Surprised" doesn't even begin to describe how I feel.%NMy mind goes completely blank.%K%P
+「Surprised」 doesn't even begin to describe how I feel.%NMy mind goes completely blank.%K%P
 0x910
 誠「……何で……教えてくれなかったんだよ？」%K%P
 Makoto「... Why... didn't you tell me?」%K%P
@@ -630,7 +630,7 @@ For now, the matter of the bell has been settled.%K%P
 Of course, I still have many questions left.%K%P
 0xC20
 『予知のこと』『予知夢のこと』そして──『どうして優夏とオレが同じ時刻に同じ夢を見たのか？』%K%P
-The "premonitions", the "prophetic dream", and―"Why%Ndid Yuka and I have the same dream at the same time?"%K%P
+The 「premonitions」, the 「prophetic dream」, and―「Why%Ndid Yuka and I have the same dream at the same time?」%K%P
 0xC2C
 しかし、鈴のことが解決した今となっては、それらは考える必要の無い事柄に思えた。%K%P
 However, now that the issue of the bell has been%Nsettled, those things aren't really an issue anymore.%K%P
@@ -657,13 +657,13 @@ Something's unclear.%K%P
 There's definitely something bugging me in the corners%Nof my heart.%K%P
 0xC8C
 それはあるいは、優夏の言葉じりのせいかも知れなかった。%K%P
-That "something" is possibly a slip of the tongue that%NYuka might have made.%K%P
+That 「something」 is possibly a slip of the tongue that%NYuka might have made.%K%P
 0xC98
 『それにあの朝、誠の部屋に行ったとき……誠は全然わかってないみたいだったし……』%K%P
-"And on that morning, when I went into your room... you%Ndidn't seem to know any of it..."%K%P
+「And on that morning, when I went into your room... you%Ndidn't seem to know any of it...」%K%P
 0xCA4
 『だから私、そのときは本当に『ただの夢だったんだ』って思ったの』%K%P
-"Because of that, I really thought it was 'just a dream' at%Nthat time."%K%P
+「Because of that, I really thought it was 'just a dream' at%Nthat time.」%K%P
 0xCB0
 う〜ん……何が引っかかってるんだろう？%K%P
 Hmm... just what could be bothering me?%K%P
@@ -990,7 +990,7 @@ Yuka keeps running...%K%P
 ... And then we finally arrive at our destination...%K%P
 0x14C0
 ……ここ『司紀の杜神社』だった。%K%P
-... This is the "Shiki no Mori Shrine".%K%P
+... This is the 「Shiki no Mori Shrine」.%K%P
 0x14CC
 （何故こんな所に優夏は……？）%K%P
 (Why did Yuka come to this place...?)%K%P
@@ -1308,13 +1308,13 @@ Yuka「So in the corners of our mind, we remembered that 'Saki%Nalmost drowned' 
 I remember...%K%P
 0x1B00
 『遙が月浜で転ぶこと』%K%N『いづみさんがプールに落ちること』%K%N『車のバッテリーがあがってたこと』%K%N『３日の夕食の献立がカレーだということ』%K%P
-"Haruka falling onto Moon Beach." "Izumi-san falling into%Nthe pool." "The car's battery was dead." "Our dinner on%Nthe 3rd would be curry."%K%P
+「Haruka falling onto Moon Beach.」 「Izumi-san falling into%Nthe pool.」 「The car's battery was dead.」 「Our dinner on%Nthe 3rd would be curry.」%K%P
 0x1B14
 『遙が月浜で転ぶこと』%K%N『いづみさんがプールに落ちること』%K%N『車のバッテリーがあがってたこと』%K%N『３日の夕食の献立がシチューだということ』%K%P
-"Haruka falling onto Moon Beach." "Izumi-san falling into%Nthe pool." "The car's battery was dead." "Our dinner on%Nthe 3rd would be stew."%K%P
+「Haruka falling onto Moon Beach.」 「Izumi-san falling into%Nthe pool.」 「The car's battery was dead.」 「Our dinner on%Nthe 3rd would be stew.」%K%P
 0x1B28
 『遙が月浜で転ぶこと』%K%N『いづみさんがプールに落ちること』%K%N『車のバッテリーがあがってたこと』%K%N『３日の夕食の献立が肉ジャガだということ』%K%P
-"Haruka falling onto Moon Beach." "Izumi-san falling into%Nthe pool." "The car's battery was dead." "Our dinner on%Nthe 3rd would be meat-potato stew."%K%P
+「Haruka falling onto Moon Beach.」 「Izumi-san falling into%Nthe pool.」 「The car's battery was dead.」 「Our dinner on%Nthe 3rd would be meat-potato stew.」%K%P
 0x1B34
 ……全部覚えてたから……。%K%P
 ... I remembered all of it...%K%P
@@ -1506,10 +1506,10 @@ One hour... it feels like such a short time.%K%P
 Yet it also feels like it's incredibly far away.%K%P
 0x1F74
 いや、もっと正確に言うと、オレが長いと感じているのはこれからの２５時間に対してなのかもしれない。%K%P
-No, it might be more accurate that the "far away" I'm%Nthinking of is 25 hours from now...%K%P
+No, it might be more accurate that the 「far away」 I'm%Nthinking of is 25 hours from now...%K%P
 0x1F80
 眠って、目が醒めたら７日になっている……。%K%P
-"If I sleep now, it might be the 7th when I wake up..."%K%P
+「If I sleep now, it might be the 7th when I wake up...」%K%P
 0x1F8C
 そんな奇跡を、オレは心の底から待ちわびていた。%K%P
 I impatiently await for that miracle from the bottom of%Nheart.%K%P
@@ -1533,10 +1533,10 @@ As I absently stare at the ceiling, I go over the story%NYuka told me one more t
 You don't even need to use Einstein's Theory of%NRelativity to tell that something like that could never%Nhappen in real life.%K%N
 0x203C
 しかし『単なる偶然』で済ませられないような不可思議な現象が、実際に、この５日間のあいだに頻繁に発生しているのもまた事実なのだ。%K%P
-But it's also a fact that there's actually been strange%Nphenomenons that've been frequently occurring over%Nthe past five days that can't be chalked up as "simple%Ncoincidences".%K%P
+But it's also a fact that there's actually been strange%Nphenomenons that've been frequently occurring over%Nthe past five days that can't be chalked up as 「simple%Ncoincidences」.%K%P
 0x2050
 『予知のこと』%W『鈴のこと』%W『神社のこと』……%W%W%Wそして『あの夢のこと』%K%N%N
-The "premonitions", the "bell", the "shrine"... and that%N"dream".%K%N%N
+The 「premonitions」, the 「bell」, the 「shrine」... and that%N「dream」.%K%N%N
 0x205C
 優夏の推測が正しいとすると、それらの全てを説明することができてしまう。%K%N%N
 If Yuka's theory is correct, then all of those can be%Ncompletely explained.%K%N%N
@@ -1566,10 +1566,10 @@ Somewhere in them, there's something strange and%Ninconsistent about them... it'
 Now that I think about it, didn't Yuka say something%Nstrange on the coastline road this morning...?%K%N%N
 0x20D8
 『それにあの朝、誠の部屋に行ったとき……%W%W誠は全然わかってないみたいだったし……』%K%N%N
-"And on that morning, when I went into your room... you%Ndidn't seem to know any of it...%K%N%N
+「And on that morning, when I went into your room... you%Ndidn't seem to know any of it...」%K%N%N
 0x20E4
 『だから私、そのときは本当に『ただの夢だったんだ』って思ったの』%K%P
-"Because of that, I really thought it was 'just a dream' at%Nthat time.%K%P
+「Because of that, I really thought it was 'just a dream' at%Nthat time.」%K%P
 0x20F8
 何故だろう？%K%N
 Why?%K%N
@@ -1629,10 +1629,10 @@ Haruka leaves the room...%K%P
 ... The paper bag is in my hands.%K%P
 0x22B8
 そう言えばくるみ、ルナビーチで『いいものあげよっか？』って言って、それっきりだったな。%K%P
-Now that I think about it, at Lunabeach, Kurumi said, "Do%Nyou want something good?" just before we left.%K%P
+Now that I think about it, at Lunabeach, Kurumi said, 「Do%Nyou want something good?」 just before we left.%K%P
 0x22C4
 これがその『いいもの』ってやつなのか？%K%P
-This is that "something good"?%K%P
+This is that 「something good」?%K%P
 0x22D0
 （……だけど遙のやつ、ノックぐらいしろよな！）%K%P
 (... But couldn't Haruka have at least knocked?!)%K%P
@@ -1671,7 +1671,7 @@ When I thrust the paper bag in my pocket, I begin to pace%Naround the room...%K%
 Thus far, Yuka and I have been put in surprisingly similar%Ncircumstances, had more or less the same thoughts,%Nand acted similarly.%K%N
 0x2470
 それは、優夏の話が真実だとすると『オレ達２人が同じ歴史を経験して来たからだ』ということになる。%K%P
-If we assume Yuka's story is true, then it's because%N"we've experienced the same history."%K%P
+If we assume Yuka's story is true, then it's because%N「we've experienced the same history.」%K%P
 0x2484
 しかし！　しかしだ！%K%N
 However!%K%N
@@ -1689,13 +1689,13 @@ That's right! This is it! There's a contradiction here!%K%N
 First of all, why didn't I go to Yuka's room? I try to come%Nup with an answer.%K%P
 0x24C8
 あの朝目覚めた時、オレは夢のことを『ただの夢』だと思った。%K%N
-When I woke up that morning, I thought that dream was%N"just a dream".%K%N
+When I woke up that morning, I thought that dream was%N「just a dream」.%K%N
 0x24D4
 『現実』ではない『ただの夢』だと……。%K%N
-Not "reality", "just a dream"...%K%N
+Not 「reality」, 「just a dream」...%K%N
 0x24E0
 だが、もし仮に『現実』だと思っていたとしても、やはり優夏の部屋になんか行こうとは思わなかった筈だ。%K%N
-But, for argument's sake, even if I had thought it was%N"reality", I still wouldn't have thought of trying to go to%NYuka's room.%K%N
+But, for argument's sake, even if I had thought it was%N「reality」, I still wouldn't have thought of trying to go to%NYuka's room.%K%N
 0x24EC
 何故なら、その夢に出て来た人物が誰かなんて、わからなかったから……。%K%N
 That's because I didn't know who the person in my dream%Nwas...%K%N
@@ -1713,7 +1713,7 @@ Of course!%K%N%N
 ―Because I was in Yuka's dream!!!%K%N%N
 0x2530
 そして、あの朝の時点では、まだ、優夏は『夢』のことを『現実』だと思っていたのだろう。%K%N
-When she woke up that morning, Yuka probably thought%Nthe "dream" was "reality".%K%N
+When she woke up that morning, Yuka probably thought%Nthe 「dream」 was 「reality」.%K%N
 0x253C
 だからこそ、夢に出て来たオレの所へと、真っ先にやって来た。%K%P
 Since I appeared in her dream, she headed straight for%Nmy room.%K%P
@@ -1722,7 +1722,7 @@ Since I appeared in her dream, she headed straight for%Nmy room.%K%P
 She headed straight for me... but I was calm and the%Nsame as always. There was nothing strange about me at%Nall.%K%N
 0x255C
 そこで初めて優夏は『ただの夢』だった、と思うようになったのだ……。%K%P
-And that's when Yuka reached the point where she%Nbegan to think that "it was just a dream"...%K%P
+And that's when Yuka reached the point where she%Nbegan to think that 「it was just a dream」...%K%P
 0x2570
 ………………………………………………。%K%N%N
 ...%K%N%N
@@ -1767,7 +1767,7 @@ Yuka also said so on the coastline road.%K%N%N
 「"How could I? Saying something as so dreary like 'I had a%Ndream where someone died'...」%K%P
 0x2630
 『誰かが死ぬ夢』──『誰かが』%K%N
-"I had a dream where someone died." ―"Someone".%K%N
+「I had a dream where someone died.」 ―「Someone」.%K%N
 0x263C
 自分が死ぬんだったら、絶対にそんな言い方はしないだろう。%K%N
 If she herself had died, then she definitely wouldn't have%Ndescribed it that way.%K%N
@@ -1776,7 +1776,7 @@ If she herself had died, then she definitely wouldn't have%Ndescribed it that wa
 If that's the case... what does it mean?%K%N
 0x2654
 ２人の見たのは『実は違う夢だった』なんてことは、まず考えられない。%K%N
-First of all, I can't think something like "we actually had%Ndifferent dreams."%K%N
+First of all, I can't think something like 「we actually had%Ndifferent dreams.」%K%N
 0x2660
 あの鈴を見たこと……それが全てを物語っている。%K%P
 We both saw that bell... that says it all.%K%P
@@ -1794,10 +1794,10 @@ Then what is it...?%K%N%N
 It's so simple!%K%N
 0x26A4
 つまり──オレと優夏は一緒に目撃したのだ！　%W%W誰かが亡くなる瞬間を！%K%P
-In other words―Yuka and I witnessed it together! The%Nmoment that "someone" died!%K%P
+In other words―Yuka and I witnessed it together! The%Nmoment that 「someone」 died!%K%P
 0x26B8
 例えば仮に『まずオレがその瞬間を目撃し、次に後を追って来た優夏がそれを目撃した』とする。%K%N
-Let's say, for argument's sake, "First, I witnessed that%Nmoment, and next, Yuka, who was following behind me,%Nwitnessed it."%K%N
+Let's say, for argument's sake, 「First, I witnessed that%Nmoment, and next, Yuka, who was following behind me,%Nwitnessed it.」%K%N
 0x26C4
 オレは、後ろに優夏がいることには気づかない。%K%N
 I didn't realize that Yuka was behind me.%K%N
@@ -1860,7 +1860,7 @@ I furiously punch the door.%K%P
 (I won't let anyone die!!!)%K%P
 0x28EC
 『鈴』%K%P
-The "bell".%K%P
+The 「bell」.%K%P
 0x28F8
 優夏はあの鈴を、展望公園から海に投げ捨てたと言った。%K%P
 Yuka said she threw that bell into the ocean from%NViewpoint Park.%K%P
@@ -1905,4 +1905,4 @@ There are clear remnants of the punch mark I made on%Nthe door.%K%P
 I look at the watch on my left wrist one more time.%K%P
 0x2A58
 日付は%T030『４月６日土曜日』を示していた……。%K%P
-The date is "April 6"...%K%P
+The date is 「April 6」...%K%P

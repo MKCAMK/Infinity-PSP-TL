@@ -60,10 +60,10 @@ Then... Then... the dream I had just now...%K%P
 ―That's wrong! What the hell am I saying!?%K%P
 0x1B0
 ──あれは『夢』なんかじゃない！！%K%P
-―That wasn't a "dream"!!%K%P
+―That wasn't a 「dream」!!%K%P
 0x1BC
 ──『夢』なんかじゃなくてっ……%K%P
-―There's no way in hell that was a "dream"...%K%P
+―There's no way in hell that was a 「dream」...%K%P
 0x200
 突然！　銃声のように暴力的な音が響いた！%K%P
 Suddenly, I hear a sound as violent as a gunshot!%K%P
@@ -78,7 +78,7 @@ I see...%K%P
 Yuka「Wh... What's going on!?」%K%P
 0x274
 『優夏……』%K%P
-"Yuka..."%K%P
+「Yuka...」%K%P
 0x280
 そう言ったつもりが、声にならなかった……。%K%P
 I try to speak, but the words won't seem to come out...%K%P
@@ -189,7 +189,7 @@ Yuka「Makoto... Makoto...」%K%P
 Yuka continues to whisper this.%K%P
 0x488
 まるで、すぐ目の前にいるオレのことを確かめるように……。%K%P
-It's as if she's trying to confirm that the "me" right%Nbefore her eyes is real...%K%P
+It's as if she's trying to confirm that the 「me」 right%Nbefore her eyes is real...%K%P
 0x494
 誠「大丈夫、%T030大丈夫だ……」%K%P
 Makoto「It's all right, it's all right...」%K%P

@@ -3,7 +3,7 @@ text area offset and size:
 0x225B
 0x5C
 『じゃあ、その温水プールとやらを見に行こう！』%K%P
-"Then let's sneak in and check out the heated pool!"%K%P
+「Then let's sneak in and check out the heated pool!」%K%P
 0x68
 ……オレのひと言で、みんなは月屋ホテルへと向かうことになった。%K%P
 ... Everyone ends up heading to Tsukiya Hotel as a result%Nof my comment.%K%P
@@ -456,7 +456,7 @@ Yuka「That's right. Just give up for today and try it tomorrow.」%K%P
 There is no way for me to counter the assault of the four%Ngirls.%K%P
 0xBC4
 よく言ったものだ。%N『物事は女が無口にならないと始まらない』%N……と。%K%P
-I don't want to risk angering them. As they say... "Hell%Nhath no fury like a woman's scorn."%K%P
+I don't want to risk angering them. As they say... 「Hell%Nhath no fury like a woman's scorn.」%K%P
 0xBD0
 女性が喋っている以上、オレに勝ち目はない。%K%P
 As long as they're talking, I have no chance of%Nsucceeding.%K%P

@@ -507,7 +507,7 @@ Haruka... Is Haruka still alive...?%K%P
 If my memories are correct, then my watch alarm should%Ngo off shortly after Haruka dies...%K%P
 0x13C4
 確かあれは……%W%W%W『午前４時３０分』……。%K%P
-That's certainly... "4:30 A.M."...%K%P
+That's certainly... 「4:30 A.M.」...%K%P
 0x13D0
 間違いない。%K%N
 There's no mistake.%K%N
@@ -741,7 +741,7 @@ Even though I've searched so much, I can't find her...%K%N
 It's as if the existence known as Kurumi has completely%Nvanished from this planet...%K%P
 0x1DB8
 時刻は『午前３時３０分』……。%K%P
-The current time is "3:30 A.M."...%K%P
+The current time is 「3:30 A.M.」...%K%P
 0x1DC4
 タイムリミットまで……あと１時間……。%K%P
 Only one hour... until my time limit is up...%K%P
@@ -786,7 +786,7 @@ I... I swore it...%K%N
 On that day... that night when I saw the shiranui with%NHaruka...%K%P
 0x1F28
 『遙を守る』って…………%W%W%W%W%N……そう誓ったんだ……！！！%K%P
-"I'll protect Haruka,"... ... I swore that...!!%K%P
+「I'll protect Haruka,」... ... I swore that...!!%K%P
 0x1FC8
 遙「わかった……誠を信じる」%K%P
 Haruka「I understand... I'll trust you.」%K%P
@@ -930,7 +930,7 @@ That's right...%K%N
 When I left the lodge, I definitely said that.%K%P
 0x25D4
 『くるみはロッジで待ってろ！』……と。%K%P
-"Wait at the lodge!" ...%K%P
+「Wait at the lodge!」 ...%K%P
 0x25E0
 オレは最後の希望を託して、ロッジへと自転車を飛ばした……。%K%P
 Entrusting everything on my last hope, I ride to the%Nlodge...%K%P
@@ -1053,7 +1053,7 @@ When I wake up, I see Haruka's peaceful sleeping face%Nbefore my eyes...%K%P
 That face... it's like she's Sleeping Beauty herself.%K%P
 0x29E8
 いや……『寝顔』という表現は、正しくないのかもしれない……。%K%P
-No... "sleeping face" might not be the correct%Nexpression...%K%P
+No... 「sleeping face」 might not be the correct%Nexpression...%K%P
 0x29F4
 もしかしたら……遙は……。%K%P
 Perhaps... Haruka's...%K%P
@@ -1155,7 +1155,7 @@ I... I... couldn't protect Haruka...%K%P
 ... ... ...%K%P
 0x2D24
 医者は巧みな手さばきで『止血処置』を施し、なんとか流れ続けていた血だけは止めることは出来た。%K%P
-With his skillful handling, the doctor performs%N"hemostasis treatment", which seems to have at least%Nsuccessfully stopped the bleeding.%K%P
+With his skillful handling, the doctor performs%N「hemostasis treatment」, which seems to have at least%Nsuccessfully stopped the bleeding.%K%P
 0x2D30
 しかし、予断を許さない状況だということは、見ていればわかる。%K%P
 However, by the looks of things, I know that it's too early%Nto jump to conclusions.%K%P

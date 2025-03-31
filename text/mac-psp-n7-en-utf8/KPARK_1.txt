@@ -6,7 +6,7 @@ text area offset and size:
 It's now noon.%K%P
 0x70
 くるみは、相変わらず『胸』のことを気にしてプールには行きたがらない。%K%P
-Kurumi is still worried about that "breast" issue, so she's%Ntoo anxious to go the pool.%K%P
+Kurumi is still worried about that 「breast」 issue, so she's%Ntoo anxious to go the pool.%K%P
 0x7C
 くるみを残してオレだけプールに……というわけにもいかず、オレ達はこうしてルナビーチでみんなが帰って来るのを待つことになったのだった。%K%P
 I didn't want to leave Kurumi and go to the pool by%Nmyself... so we ended up waiting at Lunabeach until%Neveryone returns.%K%P
@@ -144,7 +144,7 @@ Kurumi「Oh, but the ones at home aren't like that.」%K%P
 Kurumi「They're THAT huge!」%K%P
 0x2B8
 『こ〜んな』と言って、くるみは両腕をいっぱいに広げて見せた。%K%P
-When she says "THAT", Kurumi stretches her arms as%Nwide as she can to show me.%K%P
+When she says 「THAT」, Kurumi stretches her arms as%Nwide as she can to show me.%K%P
 0x2C4
 両腕を広げた長さはその人の身長と同じだと言うから、そのネズミはくるみと同じくらいの身の丈があることになる。%K%P
 If what she's saying is true, then the rodents seem to be%Nthe same size as Kurumi.%K%P

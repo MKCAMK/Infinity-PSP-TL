@@ -99,7 +99,7 @@ Izumi「The reason why is because all your memories didn't%Nexist, so in the rea
 Izumi「And so, you thought like this next.」%K%P
 0x318
 『この６日間の出来事を少しだけ覚えていることにしよう』%K%P
-"I'll decide to try remembering just a little about the%Nevents of these six days."%K%P
+「I'll decide to try remembering just a little about the%Nevents of these six days.」%K%P
 0x324
 いづみ「『少しだけ……』」%K%P
 Izumi「'Just a little...'」%K%P
@@ -114,7 +114,7 @@ Izumi「But even so, you were unable to change the history%Nwithin your delusion
 Izumi「Reluctantly... you finally decided to use your last resort.」%K%P
 0x380
 『全ての記憶を引き受けよう』%K%P
-"I'll try undertaking all my memories."%K%P
+「I'll try undertaking all my memories.」%K%P
 0x38C
 いづみ「ただし、これが『捻じ曲げられた過去である』という事実だけは隠蔽することにした」%K%P
 Izumi「However, you decided to hide one thing: The fact that%Nthis 'is a distorted past'.」%K%P
@@ -129,7 +129,7 @@ Izumi「Likewise, you also absolutely couldn't have remembered%Nthe fact that 'Y
 Izumi「That's because you had to give rationale and%Npersuasiveness to this imaginary past. And then, you%Ndecided to produce the fictional story of an 'infinite%Nloop'.」%K%P
 0x3FC
 『何度も何度も繰り返して来たこの６日間の一切は、全て現実の出来事だった』%K%P
-"Everything in these endlessly repeating six days were%Nreal events."%K%P
+「Everything in these endlessly repeating six days were%Nreal events.」%K%P
 0x458
 いづみ「『妄想などでは決してなかった』と、自分自身に信じ込ませる為にね」%K%P
 Izumi「It was in order to make yourself firmly believe that 'this%Nwas definitely not a delusion or something'.」%K%P
@@ -270,16 +270,16 @@ Izumi「... death...」%K%P
 Izumi「The me who saw that scene strongly wished this.」%K%P
 0x6BC
 『過去に戻りたい。過去に戻って歴史を変えてしまいたい』%K%P
-"I want to go back to the past. I want to go back to the%Npast and completely change history."%K%P
+「I want to go back to the past. I want to go back to the%Npast and completely change history.」%K%P
 0x6C8
 『そして今、それが可能であるということを、私は知っている』%K%P
-"And now, I know that this is possible."%K%P
+「And now, I know that this is possible.」%K%P
 0x6D4
 『妄想は、真実になり得る』%K%P
-"I know delusions can become reality."%K%P
+「I know delusions can become reality.」%K%P
 0x6E0
 『強固な思念は、新たな現実を生み出すことができる』%K%P
-"A strong thought can produce a new reality."%K%P
+「A strong thought can produce a new reality.」%K%P
 0x6F4
 いづみ「次の瞬間、私は別の可能性を求めて妄想を始めることになった」%K%P
 Izumi「The next instant, it was arranged so that my delusion to%Nseek another possibility began.」%K%P
@@ -468,10 +468,10 @@ She rubs it against me countless times, like a spoiled%Nkitten.%K%P
 The tip of her nose tickles my chest.%K%P
 0xA28
 『このぬくもりを、忘れないでね？』%K%P
-"Don't forget this warmth, all right?"%K%P
+「Don't forget this warmth, all right?」%K%P
 0xA34
 『私の存在を……忘れないで？』%K%P
-"Don't forget... my existence, all right?"%K%P
+「Don't forget... my existence, all right?」%K%P
 0xA40
 ついさっき聞いたばかりのいづみさんの言葉。%K%P
 Those are the words Izumi-san said to me just a little%Nwhile ago.%K%P

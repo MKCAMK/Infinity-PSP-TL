@@ -322,7 +322,7 @@ Turn off the power and exit the game?%N%SYes%n  /  %n%SNo
 ▼Continue
 
 ;11df14;155;『Never7 -the end of infinity-』の%%Nセーブデータが破損している可能性があります%%Nセーブデータを上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-『Never7 -the end of infinity-』 save data will be lost.%%NAre you sure you want to overwrite the save data?%%N%%SYes%%n  /  %%n%%SNo
+「Never7 -the end of infinity-」 save data will be lost.%%NAre you sure you want to overwrite the save data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11dfb0;79;セーブデータを上書きしています%%Nメモリースティック™を絶対抜かないでください
 Overwriting save data%%NPlease do not remove the Memory Stick™
@@ -349,10 +349,10 @@ Memory Stick™ is not formatted%%N
 Not enough free space on Memory Stick™%%NAt least %s KB is required to save%%N
 
 ;11e1c0;91;メモリースティック™に%%N『Never7 -the end of infinity-』の%%Nセーブデータがありません%%N
-Save data for%%N『Never7 -the end of infinity-』%%Nis not present on Memory Stick™%%N
+Save data for%%N「Never7 -the end of infinity-」%%Nis not present on Memory Stick™%%N
 
 ;11e21c;83;『Never7 -the end of infinity-』の%%Nセーブデータが破損している可能性があります%%N
-Save data for%%N『Never7 -the end of infinity-』%%Nmay be corrupted%%N
+Save data for%%N「Never7 -the end of infinity-」%%Nmay be corrupted%%N
 
 ;11e270;55;同時に開けるファイル数を%%N越えているので開けません%%N
 
@@ -360,7 +360,7 @@ Save data for%%N『Never7 -the end of infinity-』%%Nmay be corrupted%%N
 Rewrite failed%%N
 
 ;11e2c4;87;『Never7 -the end of infinity-』の%%Nシステムデータが破損している可能性があります%%N
-System data for%%N『Never7 -the end of infinity-』%%Nmay be corrupted%%N
+System data for%%N「Never7 -the end of infinity-」%%Nmay be corrupted%%N
 
 ;11e31c;67;『Never7 -the end of infinity-』の%%Nシステムデータがありません%%N
 System data for%%NNever7 -the end of infinity-%%Nis not present%%N
@@ -375,7 +375,7 @@ Start the game?%%N
 %%SYes%%n  /  %%n%%SNo
 
 ;11e3d0;155;メモリースティック™に%%N『Never7 -the end of infinity-』の%%Nセーブに必要な空き容量がありませんでした%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%N
-There is not enough space on Memory Stick™%%Nto save 『Never7 -the end of infinity-』%%NYou need at least %s KB of free space%%N
+There is not enough space on Memory Stick™%%Nto save 「Never7 -the end of infinity-」%%NYou need at least %s KB of free space%%N
 
 ;11e46c;47;メモリースティック™が%%N挿入されていません%%N
 Memory Stick™ not inserted%%N
@@ -387,7 +387,7 @@ Memory Stick™ was write-protected%%Nand save data could not be accessed%%N
 Memory Stick™ access error has occurred%%N
 
 ;11e534;71;『Never7 -the end of infinity-』の%%Nセーブデータがありませんでした%%N
-No save data was found for%%N『Never7 -the end of infinity-』%%N
+No save data was found for%%N「Never7 -the end of infinity-」%%N
 
 ;11e57c;75;渡されたパラメータが%%N不正でユーティリティが%%N動作できませんでいした%%N
 
@@ -412,7 +412,7 @@ Memory Stick™ is not formatted.%%NDo you want to format and create save data?%
 Formatting%%NPlease do not remove the Memory Stick™
 
 ;11e7a0;111;『Never7 -the end of infinity-』の%%Nセーブデータを作成してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Do you want to create save data for%%N『Never7 -the end of infinity-』?%%N%%SYes%%n  /  %%n%%SNo
+Do you want to create save data for%%N「Never7 -the end of infinity-」?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11e810;75;セーブデータを作成しています%%Nメモリースティック™を絶対抜かないでください
 Creating save data%%NPlease do not remove the Memory Stick™
@@ -460,13 +460,13 @@ System data loaded
 Choose the save location
 
 ;11ebb8;231;『Never7 -the end of infinity-』の%%Nセーブデータが破損している可能性があります%%Nこのままゲームを開始してもよろしいですか？%%N※このままゲームを開始した場合%%Nシステムデータは初期状態で開始されます%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-The save data of 『Never7 -the end of infinity-』%%Nmay be corrupted.%%NIf you start the game as it is,%%Nthe system data will be reset.%%NAre you sure?%%N%%SYes%%n  /  %%n%%SNo
+The save data of 「Never7 -the end of infinity-」%%Nmay be corrupted.%%NIf you start the game as it is,%%Nthe system data will be reset.%%NAre you sure?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11eca0;159;メモリースティック™が挿入されていません%%Nセーブには%sＫＢ以上の空き容量が必要です%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 No Memory Stick™ is inserted%%NAt least %s KB of free space is required for saving%%NAre you sure you want to start the game as is?%%N%%SYes%%N  /  %%n%%SNo
 
 ;11ed40;215;メモリースティック™に%%N『Never7 -the end of infinity-』の%%Nセーブデータがありませんでした%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-No save data for 『Never7 -the end of infinity-』%%Nwas found on the Memory Stick™%%NYou need at least %s KB of free space to save.%%NStart the game now?%%N%%SYes%%N  /  %%n%%SNo
+No save data for 「Never7 -the end of infinity-」%%Nwas found on the Memory Stick™%%NYou need at least %s KB of free space to save.%%NStart the game now?%%N%%SYes%%N  /  %%n%%SNo
 
 ;11ee18;203;メモリースティック™の空き容量が不足しています%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%Nこのままではセーブができません%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 There is not enough free space on%%Nthe Memory Stick™.%%NYou need at least %s KB of free%Nspace to save.%%NStart the game as is?%%N%%SYes%%n  /  %%n%%SNo

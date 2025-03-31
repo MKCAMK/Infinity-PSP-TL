@@ -180,10 +180,10 @@ A paper bag???%K%P
 Right... it's the paper bag Haruka gave me... I'd put it away%Nin my pocket.%K%P
 0x34C
 『いいものあげよっか？』%K%N
-"Do you want something good?"%K%N
+「Do you want something good?」%K%N
 0x358
 ──くるみの言ってたその『いいもの』が、この中に入っている筈だった。%K%P
-―In here must be that "something good" Kurumi was%Ntalking about.%K%P
+―In here must be that 「something good」 Kurumi was%Ntalking about.%K%P
 0x364
 オレは、袋をビリッと横に破いて中の物を取り出してみた。%K%N
 I tear the paper bag open, and take out what was inside%Nit.%K%N
@@ -198,10 +198,10 @@ I check the scrap of paper first. It seems to be a short%Nletter.%K%P
 I read it.%K%P
 0x394
 『お兄ちゃんへ……。これは今日の午後、月浜で拾ったものです』%K%P
-"Dear Onii-chan... Kurumi found this this afternoon on%NMoon Beach."%K%P
+「Dear Onii-chan... Kurumi found this this afternoon on%NMoon Beach.」%K%P
 0x3A0
 『とってもきれいだったから、お兄ちゃんにあげるね♪%N……くるみより』%K%P
-"It's very pretty, so she'll give it to you♪ ... From Kurumi."%K%P
+「It's very pretty, so she'll give it to you♪ ... From Kurumi.」%K%P
 0x3AC
 この綿の塊を、拾った？%K%N
 She found this lump of cotton?%K%N
@@ -477,7 +477,7 @@ My heart... feels like it's been gouged out by a sharp%Nknife.%K%P
 I broke my vow...%K%P
 0xA14
 『優夏を必ず守ってみせる』──そう誓ったのに……。%K%P
-Even though I swore that "I will definitely protect Yuka"...%K%P
+Even though I swore that 「I will definitely protect Yuka」...%K%P
 0xA20
 遅かったのだ……。%K%N
 I was too late...%K%N

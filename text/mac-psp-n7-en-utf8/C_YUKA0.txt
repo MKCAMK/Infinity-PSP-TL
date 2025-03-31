@@ -27,7 +27,7 @@ Yuka「Well, anyway, I'm pleased to meet you!」%K%P
 Yuka「Well then, go ahead and eat up〜♪」%K%P
 0x170
 億彦「ゴ、%W%Wゴメンよ……。%W%W僕、ちょっと胃の調子が悪くて……」%K%P
-Okuhiko「S- Sorry... My stomach's not feeling so good...」%K%P
+Okuhiko「S-Sorry... My stomach's not feeling so good...」%K%P
 0x184
 遙「私、お腹、空いてない」%K%P
 Haruka「I'm... not hungry.」%K%P
@@ -159,10 +159,10 @@ Yuka「To you, Makoto...」%K%P
 Just memories...%K%P
 0x5CC
 あの『悪夢』さえ、見なければ………………。%K%P
-If only I hadn't seen that "nightmare"...%K%P
+If only I hadn't seen that 「nightmare」...%K%P
 0x604
 優夏「ど%W%W……どういうこと！？」%K%P
-Yuka「Wh- ...What's going on!?」%K%P
+Yuka「Wh... What's going on!?」%K%P
 0x660
 誠「その夢は誰かが……」%K%P
 Makoto「In that dream...」%K%P
@@ -294,10 +294,10 @@ Yuka「After this, with no exceptions, don't approach this%Nshrine...」%K%P
 Yuka「Of course, I'll never come here again as well...」%K%P
 0x958
 『誠へ……』%K%P
-"Dear Makoto..."%K%P
+「Dear Makoto...」%K%P
 0x964
 『ごめんなさい。私、あそこへ行きます』%K%P
-"I'm sorry. I'm going there."%K%P
+「I'm sorry. I'm going there.」%K%P
 0x9A4
 優夏「やっぱり、来ちゃったんだ？」%K%P
 Yuka「So you came here after all.」%K%P
@@ -429,7 +429,7 @@ My heart... felt as if it had been gouged out by a sharp%Nknife.%K%P
 I broke my promise...%K%P
 0xDB0
 『今後一切、この神社には、近寄らない』──そう誓ったのに……。%K%P
-"After this, with no exceptions, I won't approach this%Nshrine..." ―Even though I swore that...%K%P
+「After this, with no exceptions, I won't approach this%Nshrine...」 ―Even though I swore that...%K%P
 0xDBC
 あまりにも大きな…………裏切りの、代償。%K%P
 This is the reparation... for my extremely great betrayal.%K%P
@@ -456,7 +456,7 @@ It might have been my wish.%K%N
 Or it might have been Makoto's wish.%K%P
 0xEBC
 『もう一度、%T015あの時間（とき）へ────！』%K%P
-"I want to go back to that time , once more―!"%K%P
+「I want to go back to that time , once more―!」%K%P
 0xF2C
 ──その時、%T030奇跡は起きた…………。%K%P
 ―At that time , a miracle happened...%K%P

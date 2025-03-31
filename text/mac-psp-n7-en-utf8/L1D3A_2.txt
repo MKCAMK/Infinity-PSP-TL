@@ -24,10 +24,10 @@ Her normally expressionless face is getting increasingly%Nintense, and it feels 
 Haruka「I kept my promise, didn't I?」%K
 0x8A0
 『ああ、遙は約束を守った』
-"Yeah, you did."
+「Yeah, you did.」
 0x8AC
 『……ま、まあね』
-"... W-Well, yeah."
+「... W-Well, yeah.」
 0x118
 誠「ああ、遙は約束を守ったよ」%K%P
 Makoto「Yeah, you did.」%K%P
@@ -189,7 +189,7 @@ Makoto「...」%K
 I have no response.
 0x8C4
 『それは違うよ。遙』
-"That's wrong."
+「That's wrong.」
 0x4B0
 オレは返す言葉がなかった。%K%P
 I have no response.%K%P
@@ -198,7 +198,7 @@ I have no response.%K%P
 That's because I thought she was right on mark. Haruka%Nplaces the fishing rod down, and gazes far off into the%Ndistance. She's starting to return to her cold,%Nexpressionless state...%K%P
 0x4C8
 オレは何とかしなくちゃ、と思った。%N何か言わなくちゃ、と焦った。%K%P
-"I've got to do something", "I've got to say something."%NThese thoughts rush through my head.%K%P
+「I've got to do something」, 「I've got to say something.」%NThese thoughts rush through my head.%K%P
 0x4D4
 ──何も出てこない。オレは手持ち無沙汰を誤魔化すように、遙の釣竿を取った。%K%P
 ―But nothing will come out of my mouth. Trying to pass%Nmy silence off as boredom, I pick up Haruka's fishing%Nrod.%K%P
@@ -213,7 +213,7 @@ Makoto「That's wrong.」%K%P
 I object, though I don't have any clear answer.%K%P
 0x514
 『じゃあ、どうしてなの？』そう訊ねられたら、オレには答えられない。%K%P
-If she asks me "why?", I won't know how to respond.%K%P
+If she asks me 「why?」, I won't know how to respond.%K%P
 0x520
 遙の言葉は確かに的を射ているからだ。%K%P
 Haruka's words were right on the mark.%K%P
@@ -264,7 +264,7 @@ Makoto「That's right. It was a world full of peace...」%K%P
 Haah... Why am I talking so high and mighty about this?%K%P
 0x5E0
 何故か遙を前にすると、こんなふうに説教好きな先生みたいになってしまう。%K%P
-Why is it that I take the role of teacher who loves%Npreaching in this style whenever I'm with Haruka?"%K%P
+Why is it that I take the role of teacher who loves%Npreaching in this style whenever I'm with Haruka?%K%P
 0x5EC
 遙「どのくらい昔かな？」%K%P
 Haruka「How long ago do you think those olden days were?」%K%P

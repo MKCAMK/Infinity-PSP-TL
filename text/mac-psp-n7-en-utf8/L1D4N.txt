@@ -36,7 +36,7 @@ Despite my efforts, I lose consciousness in the blink of%Nan eye...%K%P
 (Haruka and Saki― What exactly is their history?)%K%P
 0x310
 （『鈴』……。やはり遙が言っていた『鈴』とは、あの『鈴』のことなのだろうか？）%K%P
-("Bell"... So was the "bell" Haruka mentioned the same as%Nthat one'?)%K%P
+(「Bell」... So was the 「bell」 Haruka mentioned the same as%Nthat one'?)%K%P
 0x31C
 肉体的にも精神的にも疲労困ぱいだった。%K%P
 I'm completely exhausted, both physically and mentally.%K%P
@@ -60,7 +60,7 @@ Just before I fall asleep... I feel like I can hear Haruka's%Nwhispering voice i
 Haruka「You're lying! You're lying! Give it back! Give me back that%N'bell'!」%K%P
 0x378
 （『鈴』……。やはり遙が言っていた『鈴』とは、あの『鈴』のことなのだろうか？）%K%P
-("Bell"... So was that "bell" Haruka mentioned the same as%Nthat one?)%K%P
+(「Bell」... So was that 「bell」 Haruka mentioned the same as%Nthat one?)%K%P
 0x384
 肉体的にも精神的にも疲労困ぱいだった。%K%P
 I'm completely exhausted, both physically and mentally.%K%P
@@ -330,7 +330,7 @@ That's right, she could be at the shrine!%K%P
 Last night, Kurumi recklessly took me to the shrine...%K%P
 0xB78
 おとといの晩、くるみはみんなに『ミステリーツアーに行こう』と誘った。%K%P
-Two nights ago, Kurumi invited everyone to go on a%N"Mystery Tour".%K%P
+Two nights ago, Kurumi invited everyone to go on a%N「Mystery Tour」.%K%P
 0xB84
 いづみさんに怒られても、何だか納得いかないような顔をして……。%K%P
 Even though Izumi-san then got angry, Kurumi still had a%Nkind of unsatisfied expression on her face...%K%P
@@ -678,7 +678,7 @@ Makoto「We need to confirm it... There's no way in hell we can just%Ngo back an
 Yuka「Don't go...」%K%P
 0x12E8
 いやだ？　何がそんなに……？%K%P
-"Don't go"? Why's she so against this...?%K%P
+「Don't go」? Why's she so against this...?%K%P
 0x12F4
 優夏「誠ぉ……。お願い……」%K%P
 Yuka「Makoto... Please...」%K%P
@@ -960,7 +960,7 @@ It's the shrine, its image vaguely materializing in the%Ndarkness...%K%P
 A wooden, rectangular sign is hanging under the eaves.%K%P
 0x1A20
 『司紀杜』%K──札にはそう書かれていた。%K%P
-"Shiki no Mori" ―That's what's written on it.%K%P
+「Shiki no Mori」 ―That's what's written on it.%K%P
 0x1A70
 街灯の下に出たせいか、くるみも優夏も、さっきよりは表情に落ち着きを取り戻していた。%K%P
 Being under the streetlights has made Kurumi and Yuka a%Nlot calmer than they were earlier.%K%P
@@ -1104,7 +1104,7 @@ Izumi「Since you went to the trouble of gathering here, would%Nyou at least lik
 Makoto「No, it's really late, so we need to head back.」%K%P
 0x1D90
 いづみさんは『わかったわ』といった感じで、残念そうにうなずいていた。%K%P
-Izumi-san nods in disappointment, as if to say, "I%Nunderstand."%K%P
+Izumi-san nods in disappointment, as if to say, 「I%Nunderstand.」%K%P
 0x1DC4
 しかし……%K%P
 However...%K%P
@@ -1170,7 +1170,7 @@ Izumi「Umm... Makoto-kun, I want you to come here at that time.」%K%P
 ... Huh?%K%P
 0x1EFC
 『今夜３時』……ってことは、真夜中の３時ってことだよな？%K%P
-"Tonight at 3:00..." She means 3:00 in the middle of the%Nnight?%K%P
+「Tonight at 3:00...」 She means 3:00 in the middle of the%Nnight?%K%P
 0x1F08
 そんな時間に……いったいどうして？%K%P
 Why... at that time?%K%P
