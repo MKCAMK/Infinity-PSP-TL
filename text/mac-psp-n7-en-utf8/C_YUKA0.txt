@@ -1,0 +1,462 @@
+text area offset and size:
+0x1208
+0x1AC0
+0x94
+──７日間の合宿。%K%N
+―Seven days of the Camp.%K%N
+0xA0
+それは、何事も無く平穏に終わる筈だった。%K%P
+It should have ended peacefully without any incidents.%K%P
+0xAC
+思い出だけを、記憶のアルバムに残して……。%K%P
+Only the memories would be left behind in my album of%Nrecollections...%K%P
+0xF4
+優夏「えーっと、確か『石原……%W%W%W誠くん』だったよね？」%K%P
+Yuka「Um, you're Makoto-kun... that is, Makoto Ishihara , right?」%K%P
+0x108
+優夏「どうもはじめまして♪」%K%P
+Yuka「It's nice to meet you♪」%K%P
+0x114
+優夏「私は『優夏』…『川島優夏』。何故だか知らない%Nけど、気がついたら『班長』とかいう厄介な役職に任命されてた」%K%P
+Yuka「I'm 'Yuka'... 'Yuka Kawashima'. I really don't know why, but%Nbefore I knew it, I became the 'leader' of this group.」%K%P
+0x120
+優夏「まあとにかく、よろしくね！」%K%P
+Yuka「Well, anyway, I'm pleased to meet you!」%K%P
+0x164
+優夏「さっ、どうぞ召し上がれぇ〜♪」%K%P
+Yuka「Well then, go ahead and eat up〜♪」%K%P
+0x170
+億彦「ゴ、%W%Wゴメンよ……。%W%W僕、ちょっと胃の調子が悪くて……」%K%P
+Okuhiko「S- Sorry... My stomach's not feeling so good...」%K%P
+0x184
+遙「私、お腹、空いてない」%K%P
+Haruka「I'm... not hungry.」%K%P
+0x198
+優夏「ええーーーっ！　せっかく作ったのにぃー！」%K%P
+Yuka「Whaaat---!? But I just finished it and everything!」%K%P
+0x1A4
+優夏「これでも何度も何度も作り直したんだからね！」%K%P
+Yuka「I remade it countless times, you know!」%K%P
+0x1B8
+優夏「誠はお腹……空いてるよねぇ？」%K%P
+Yuka「Makoto, you're hungry... right?」%K%P
+0x1FC
+優夏「いいのかなぁ〜？　そんなに強がっちゃって」%K%P
+Yuka「What's wrong? Out of bluffs?」%K%P
+0x208
+優夏「じゃっ、次いくよぉ〜♪」%K%P
+Yuka「Well then, here's the next one♪」%K%P
+0x214
+優夏「お日様ポカポカキッスオブファイアサーブ！」%K%P
+Yuka「Sun's Warmth Kiss of Fire Serve!」%K%P
+0x220
+優夏「お天道様！　お天道様！　シミソバカスが気になる年頃なのぉ〜！」%K%P
+Yuka「O Sun! O Sun! Grant me blessings with your bright rays!」%K%P
+0x234
+優夏「ポカポカジリジリメラメラボーーーンッ！」%K%P
+Yuka「BLAZING SCORCHING FIRE BOMB!」%K%P
+0x294
+優夏「こういうのが、ずうっと続けばいいのになぁ……」%K%P
+Yuka「It'd be nice if it continued to go on like this forever...」%K%P
+0x2A0
+優夏「こんなふうに夢の中を漂うようにして、生きていけたらいいのに……」%K%P
+Yuka「It'd be nice if we could keep on living as though we were%Nwandering in a dream like this...」%K%P
+0x2B4
+優夏「だってこの合宿が終わったら、すぐに学校が始まっちゃうんだよ？」%K%P
+Yuka「Once this Camp is over, school will start again right%Naway, won't it?」%K%P
+0x2C0
+優夏「退屈な授業と退屈なバイト……。叫び出したいぐらいに平凡な日常……」%K%P
+Yuka「Back to boring classes and a boring job... Those%Nordinary days that make me want to scream...」%K%P
+0x2CC
+優夏「私にとっては、あっちの世界の方が、よっぽどうんざりしちゃうよぉ」%K%P
+Yuka「To me, that world is incredibly tedious.」%K%P
+0x310
+優夏「なんで、って言われても……ただ何となく。ちょっともったいぶってみたかっただけ」%K%P
+Yuka「Well, because you're so easy to tease. I just wanted to%Ntry lording it over you for a bit.」%K%P
+0x324
+優夏「だって誠、可愛いんだもん♪」%K%P
+Yuka「Besides, Makoto, you were so cute♪」%K%P
+0x338
+優夏「うん。必死になった表情とか、すごい可愛いっ♪」%K%P
+Yuka「Yeah. It was really cute how desperate you looked♪」%K%P
+0x34C
+優夏「なんかこう……生まれたての子犬みたいで！」%K%P
+Yuka「It was kinda... like a newborn puppy!」%K%P
+0x3B8
+優夏「ねえ、誠……？」%K%P
+Yuka「Hey, Makoto...?」%K%P
+0x3C4
+優夏「……誠の初恋って、いつだった？」%K%P
+Yuka「...When was your first love?」%K%P
+0x3D0
+誠「オレは………………」%K%P
+Makoto「Mine was...」%K%P
+0x3DC
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0x3E8
+優夏「そっかぁ……」%K%P
+Yuka「I see...」%K%P
+0x3F4
+誠「優夏は？　優夏の初恋は、いつだったんだ？」%K%P
+Makoto「What about you, Yuka? When was your first love?」%K%P
+0x400
+優夏「私は……」%K%P
+Yuka「Mine...」%K%P
+0x40C
+優夏「私は……中学の頃だった……」%K%P
+Yuka「Mine was... in middle school...」%K%P
+0x418
+優夏「今でも忘れられない想い出……」%K%P
+Yuka「Even now, I can't forget it...」%K%P
+0x424
+優夏「その恋は、中３の春に始まったの……」%K%P
+Yuka「I met my first love in spring, when I was in 9th grade...」%K%P
+0x430
+優夏「４月の始業式の日に……」%K%P
+Yuka「It was the day of the opening ceremony in April, when the%Nnew semester started...」%K%P
+0x474
+優夏「それが私の、恋の始まり……」%K%P
+Yuka「That was how I fell in love...」%K%P
+0x480
+誠「…………………%T030そっかぁ……」%K%P
+Makoto「...I see...」%K%P
+0x48C
+誠「なあ、優夏？　それで、その『男の子』とは、うまくいったのか？」%K%P
+Makoto「Say, Yuka? Did it go well with that boy?」%K%P
+0x498
+優夏「ん？　うーん…………」%K%P
+Yuka「Huh? Mmm...」%K%P
+0x4B4
+優夏「ううん。ずっと、片想いだったから……」%K%P
+Yuka「No. Because it was always an unrequited love...」%K%P
+0x4C0
+誠「………………」%K%P
+Makoto「...」%K%P
+0x4CC
+優夏「だけど……」%K%P
+Yuka「But...」%K%P
+0x4D8
+優夏「だけど、今でもその人のこと、忘れられないの」%K%P
+Yuka「But even now, I can't forget him...」%K%P
+0x4E4
+誠「──！？」%K%P
+Makoto「―!?」%K%P
+0x4F0
+優夏「その人ね……？」%K%P
+Yuka「He was...」%K%P
+0x4FC
+優夏「その人ね？　とっても似てるんだぁ……」%K%P
+Yuka「He was very similar...」%K%P
+0x528
+優夏「誠に……」%K%P
+Yuka「To you, Makoto...」%K%P
+0x560
+──そう。あとに残るのは、普段の日常とは、ほんの少しだけ違う『思い出』だけだった……。%K%P
+―That's right. All that would be left afterwards would%Nbe normal days and just a few happy memories...%K%P
+0x56C
+思い出、だけ…………。%K%P
+Just memories...%K%P
+0x5CC
+あの『悪夢』さえ、見なければ………………。%K%P
+If only I hadn't seen that "nightmare"...%K%P
+0x604
+優夏「ど%W%W……どういうこと！？」%K%P
+Yuka「Wh- ...What's going on!?」%K%P
+0x660
+誠「その夢は誰かが……」%K%P
+Makoto「In that dream...」%K%P
+0x66C
+誠「誰かが……亡くなってしまう夢だった」%K%P
+Makoto「Someone... died.」%K%P
+0x680
+優夏「！？」%K%P
+Yuka「!?」%K%P
+0x68C
+誠「４月６日土曜日に……」%K%P
+Makoto「It was Saturday, April 6th...」%K%P
+0x698
+誠「正確な時刻や場所は覚えてない。そこにいたのが誰なのかもわからない……」%K%P
+Makoto「I don't remember the exact time and location. And I don't%Nknow who that 'someone' was either...」%K%P
+0x6A4
+誠「ただ……その亡骸の、手の平に……」%K%P
+Makoto「But... in that corpse's palm...」%K%P
+0x6B0
+優夏「ちょっと待って！！」%K%P
+Yuka「Hold on!!」%K%P
+0x6C4
+優夏「ちょっと……待って……」%K%P
+Yuka「Hold... on...」%K%P
+0x6D0
+優夏「まさか……」%K%P
+Yuka「It couldn't be...」%K%P
+0x6DC
+優夏「まさかその手の平にあったのは……『鈴』？」%K%P
+Yuka「It couldn't be that in that person's palm was... a 'bell'?」%K%P
+0x6E8
+誠「！？」%K%P
+Makoto「!?」%K%P
+0x6FC
+優夏「そうなの！？　そうなのね！？」%K%P
+Yuka「That's right!? That's right, isn't it!?」%K%P
+0x720
+優夏「何でよ……。何でいまさら……」%K%P
+Yuka「Why... Why now...?」%K%P
+0x72C
+誠「い、いまさら？　いまさらって……何だよ？　どういうことなんだ、優夏！？」%K%P
+Makoto「N-Now? What do you mean... 'now'? What does that mean!?」%K%P
+0x738
+優夏「……………………」%K%P
+Yuka「...」%K%P
+0x744
+誠「おい、優夏！？」%K%P
+Makoto「Hey, Yuka!?」%K%P
+0x750
+優夏「……………………」%K%P
+Yuka「...」%K%P
+0x78C
+優夏「誠……」%K%P
+Yuka「Makoto...」%K%P
+0x798
+優夏「いい、誠？」%K%P
+Yuka「All right, Makoto?」%K%P
+0x7A4
+優夏「落ち着いて、聞いてね？」%K%P
+Yuka「Will you remain calm and listen to me?」%K%P
+0x7B0
+優夏「誠が見た夢──実は私も…同じ夢を…見たの……」%K%P
+Yuka「The dream you had―the truth is... I also... had the same%Ndream...」%K%P
+0x7BC
+誠「……！？」%K%P
+Makoto「...!?」%K%P
+0x7C8
+優夏「それも誠と同じ日……１日の朝に……」%K%P
+Yuka「It was also on the same day as you... the morning of the%N1st...」%K%P
+0x808
+優夏「『はるさめや　みさきのはてに　なりひびく　すずとともにや　ときはとかれん』」%K%P
+Yuka「'The spring rain/ At the end of the cape/ Together with/%NThe echoing bell/ Will free you from time.'」%K%P
+0x814
+優夏「その『ときはとかれん』のところ！」%K%P
+Yuka「It's the 'Will free you from time' part!」%K%P
+0x820
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x82C
+優夏「わからない？　この意味？」%K%P
+Yuka「You don't understand what it means?」%K%P
+0x838
+誠「……………………%T015え？」%K%P
+Makoto「...Huh?」%K%P
+0x844
+優夏「『時』の流れから『解き』放たれて、別の時間へと飛ばされる……」%K%P
+Yuka「To be 'set free' from the flow of 'time' and to be blown%Naway to a different time...」%K%P
+0x850
+優夏「つまり──タイムスリップするって意味なのよ！」%K%P
+Yuka「In other words―it means time travel!」%K%P
+0x86C
+優夏「あの日──４月６日土曜日に……私達は解き放たれた……５日前の世界へと……」%K%P
+Yuka「On that day―Saturday, April 6th... we were sent... to%Nthe world of five days ago...」%K%P
+0x878
+優夏「そして、もしもこの仮説が正しいとすれば、こう言うこともできるかもしれない」%K%P
+Yuka「And if this hypothesis is right, then what I'm about to say%Nmight also be possible.」%K%P
+0x884
+優夏「明日──４月６日土曜日に……私達は解き放たれる……５日前の世界へと……」%K%P
+Yuka「Tomorrow―On Saturday, April 6th... we will be sent... to%Nthe world of five days ago...」%K%P
+0x890
+誠「そんな……バカなこと……」%K%P
+Makoto「That... can't be...」%K%P
+0x89C
+誠「あり得ないよ……絶対に……あり得っこない……」%K%P
+Makoto「It's impossible... it's definitely... impossible...」%K%P
+0x8B8
+優夏「うん……。そうだよね……。そう思うのは当然のことだよ……」%K%P
+Yuka「Yeah... That's right... It's only natural to think that way...」%K%P
+0x8C4
+優夏「冷静に考えれば、こんな馬鹿馬鹿しい話、信じろって言う方がどうかしてると思う……」%K%P
+Yuka「When I think about it calmly, I realize that telling you to%Nbelieve this absurd story is just nuts...」%K%P
+0x8D0
+優夏「全てはただの妄想で、私の頭がおかしくなってるだけかもしれない……」%K%P
+Yuka「I might just have gone insane, and everything's a mere%Ndelusion of mine...」%K%P
+0x8DC
+優夏「だけど……」%K%P
+Yuka「But...」%K%P
+0x8E8
+優夏「だけど……もしこれが……真実だったとしたら……」%K%P
+Yuka「But... in case this is... reality, then...」%K%P
+0x8F4
+優夏「だからお願い……。これだけは、誓って欲しいの……」%K%P
+Yuka「So please... I want you to swear just one thing...」%K%P
+0x900
+優夏「今後一切、この神社には、近寄らないって……」%K%P
+Yuka「After this, with no exceptions, don't approach this%Nshrine...」%K%P
+0x90C
+優夏「もちろん、私ももう２度と、ここには来ないから……」%K%P
+Yuka「Of course, I'll never come here again as well...」%K%P
+0x958
+『誠へ……』%K%P
+"Dear Makoto..."%K%P
+0x964
+『ごめんなさい。私、あそこへ行きます』%K%P
+"I'm sorry. I'm going there."%K%P
+0x9A4
+優夏「やっぱり、来ちゃったんだ？」%K%P
+Yuka「So you came here after all.」%K%P
+0x9B0
+誠「どうして……。なんで優夏……」%K%P
+Makoto「Why... Why, Yuka...?」%K%P
+0x9BC
+優夏「約束、破ったなぁ？」%K%P
+Yuka「You broke your promise, huh?」%K%P
+0x9C8
+優夏「今後一切ここには近寄らないって……そう誓ったくせに……」%K%P
+Yuka「You swore that you wouldn't approach the shrine again,%Nno matter what...」%K%P
+0x9D4
+誠「そんなこと、今はどうだっていいだろ！？%T030%Nオレが聞いてるのは、わざわざ危険を冒してまでこんなところに来た、その理由だ！」%K%P
+Makoto「You're a fine one to talk, aren't you!? What reason did%Nyou have for coming here when you knew how risky it%Nwas!?」%K%P
+0xA0C
+守れなかった約束…………。%K%N
+A promise that couldn't be kept...%K%N
+0xA18
+誠と交わした、大事な約束……。%K%N
+The important promise that Makoto and I made...%K%N
+0xA24
+あの時、私は守ることが出来なかった……。%K%P
+At that time, I couldn't keep it...%K%P
+0xA8C
+優夏「ど……どういうこと……？？？」%K%P
+Yuka「Wh... What's the meaning of this...???」%K%P
+0xA98
+優夏「なんで鈴が……２つも……？？？」%K%P
+Yuka「Why are there... two bells...???」%K%P
+0xAA4
+誠「ゆ、優夏……」%K%P
+Makoto「Y-Yuka...」%K%P
+0xAB0
+誠「優夏……捨てたって……言ったじゃないか……？」%K%P
+Makoto「Yuka... you said you threw it away... didn't you...?」%K%P
+0xAC4
+優夏「だってぇ……」%K%P
+Yuka「But...」%K%P
+0xAD0
+優夏「だってぇ……！」%K%P
+Yuka「But...!」%K%P
+0xADC
+誠「嘘……だったんだな……？」%K%P
+Makoto「Were... you lying...?」%K%P
+0xBE4
+あの時……%K%N
+At that time...%K%N
+0xBF0
+地震で神社が倒壊する、あの時……%K%N
+At that time, an earthquake destroyed the shrine...%K%N
+0xBFC
+誠は私をかばおうとしてくれた……。%K%P
+Makoto tried to protect me...%K%P
+0xC20
+誠「男は女を守るもの──昔から、そう決まってるんだよ！」%K%P
+Makoto「Men ought to try their best to protect women―that's%Nthe way it's been for ages!」%K%P
+0xC2C
+優夏「それじゃあ私のこと、守ってくれようとしたんだ？」%K%P
+Yuka「Well then, are you saying you'll try to protect me?」%K%P
+0xC38
+誠「…………そうだ」%K%P
+Makoto「...That's right.」%K%P
+0xC44
+優夏「バカだよ、そんなの……」%K%P
+Yuka「That's just stupid...」%K%P
+0xC50
+誠「バカなもんか！」%K%P
+Makoto「It's not stupid!」%K%P
+0xC5C
+誠「これからだって、優夏のこと、オレは必ず守ってみせるよ！」%K%P
+Makoto「From now on, I will definitely protect you!」%K%P
+0xC68
+優夏「……本気で……言ってるの？」%K%P
+Yuka「...Are you... serious?」%K%P
+0xC74
+誠「冗談にしちゃ、出来が悪すぎるだろ？」%K%P
+Makoto「If this were a joke, it'd be a pretty crappy one, wouldn't%Nit?」%K%P
+0xC80
+誠「本気だよ。この星空に誓って、本気だ！」%K%P
+Makoto「I'm serious. I swear on this starry sky that I'm serious!」%K%P
+0xC8C
+優夏「ふふっ」%K%P
+Yuka「Hee hee.」%K%P
+0xC98
+優夏「やさしいね……」%K%P
+Yuka「You're kind...」%K%P
+0xCA4
+誠「……やさしい？」%K%P
+Makoto「...Kind?」%K%P
+0xCB0
+優夏「そういう所がそっくりなんだよ」%K%P
+Yuka「You're the spitting image of him in that regard.」%K%P
+0xCF8
+けれど……それは、ほんの少しだけ遅くて…………%K%P
+But... he was just a little too late...%K%P
+0xD2C
+……現実となった、悪夢……。%K%P
+...The nightmare had become reality...%K%P
+0xD38
+重く垂れ下がったその手の平が見えた。%K%P
+I saw Makoto's heavily dangling palm.%K%P
+0xD44
+その上に、小さな光の欠片（かけら）……。%K%P
+On top of it was a small fragment of light...%K%P
+0xD50
+──鈴。%K%P
+―The bell.%K%P
+0xD5C
+苦しかった……。%K%N
+It was so painful...%K%N
+0xD68
+地獄のような苦痛だった。%K%P
+It was as if I was burning in hellfire.%K%P
+0xD74
+身悶えし、胸をかきむしりたくなるような激痛。%K%N
+My body writhed in agony as the pain clawed at my heart.%K%N
+0xD80
+それは肉体的な痛みではなかった。%K%P
+But it wasn't physical pain.%K%P
+0xD8C
+心を……。%K%N
+It was my heart...%K%N
+0xD98
+心を……グサリグサリと尖った刃物でえぐられているような痛み。%K%P
+My heart... felt as if it had been gouged out by a sharp%Nknife.%K%P
+0xDA4
+私は約束を、誓いを破ってしまった……。%K%P
+I broke my promise...%K%P
+0xDB0
+『今後一切、この神社には、近寄らない』──そう誓ったのに……。%K%P
+"After this, with no exceptions, I won't approach this%Nshrine..." ―Even though I swore that...%K%P
+0xDBC
+あまりにも大きな…………裏切りの、代償。%K%P
+This is the reparation... for my extremely great betrayal.%K%P
+0xDC8
+優夏「どうして%W…%W…」%K%P
+Yuka「Why ...」%K%P
+0xDD4
+かすれた声が、虚しく宙をただよう。%K%P
+My hoarse voice filled the empty void.%K%P
+0xDE0
+涙が、ぽろぽろぽろぽろと、とめどなく頬を伝った。%K%P
+Tears streamed down from my face.%K%P
+0xDEC
+やがて誠の手の平から……%K%P
+Before long, from Makoto's palm...%K%P
+0xE1C
+……鈴は落ちた。%K%P
+...the bell falls.%K%P
+0xEA4
+それは、私の願いだったのかもしれない。%K%N
+It might have been my wish.%K%N
+0xEB0
+或いは、誠の願いだったのかもしれない。%K%P
+Or it might have been Makoto's wish.%K%P
+0xEBC
+『もう一度、%T015あの時間（とき）へ────！』%K%P
+"I want to go back to that time , once more―!"%K%P
+0xF2C
+──その時、%T030奇跡は起きた…………。%K%P
+―At that time , a miracle happened...%K%P

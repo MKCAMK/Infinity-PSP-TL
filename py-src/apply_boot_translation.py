@@ -2,21 +2,25 @@
 # -*- coding: utf-8 -*-
 
 import sys
+import os
 import re
 
 import r11
 
 elf_head_size = 0xA0
 
-text_area     = [0x12116c, 0x128698]
-# text_tables   = [0x12bb8c, 0x136aa0]
+text_area_e17  = [0x12116c, 0x128698]
+text_area_r11 = [0x121118, 0x12b9a4]
+text_area_n7 = [0x11d118, 0x123bc0]
+
+text_area = text_area_e17
 
 
 
 def patch_find_and_replace(bytearr, original_text, new_text, max_len, find_from_pos, new_text_lang = "en"):
 
   original_bytes = r11.str_to_r11_bytes(original_text, exception_on_unknown=True) + b'\x00'
-  
+
   if len(original_bytes)-1 > max_len:
     print("String buffer overflow. {0}/{1} '{2}'.".format(len(original_bytes)-1, max_len, new_text))
     raise Exception
@@ -47,7 +51,14 @@ def main():
 
   if len(sys.argv) != 5:
     exit("Usage: %s translation.txt source-BOOT.BIN output-BOOT.BIN en|cn")
-  
+
+  global text_area
+  if "GAME" in os.environ:
+    if os.environ["GAME"] == "r11":
+      text_area = text_area_r11
+    elif os.environ["GAME"] == "n7":
+      text_area = text_area_n7
+
   print("Applying BOOT.BIN translation.")
 
   txt     = sys.argv[1]
@@ -107,7 +118,7 @@ def main():
         else:
           raise Exception("Cannot complete")
 
-  
+
   f_bin=open(bin_out, "wb")
   f_bin.write(bin_bytes)
   f_bin.close()

@@ -1,0 +1,300 @@
+text area offset and size:
+0x8C0
+0x12E3
+0x134
+起床後、オレはルナビーチへと向かっていた。%K%P
+I head to Lunabeach after waking up.%K%P
+0x140
+過去の４日目を考えると、ここはくるみとカニ捕りに行くべきなのだろうが、%Nそんなことは既にどうでもよくなっていた。%K%P
+When I think about the "last" 4th, I realize that I probably%Nshould be going to see the crab sumo with Kurumi like%N"last time", but something like that no longer matters to%Nme.%K%P
+0x14C
+幸いにも、億彦は朝早く、遙とともに釣りに出かけて行った。%K%P
+Fortunately, Okuhiko left early this morning to go fishing%Nwith Haruka.%K%P
+0x158
+これで億彦に邪魔される心配はない。%K%P
+I don't have to worry about him getting in my way.%K%P
+0x164
+不思議と、億彦が遙につきまとうことにも腹は立たなくなっていた。%K%P
+Strangely, the thought of Okuhiko accompanying Haruka%Ndoesn't make me angry.%K%P
+0x170
+億彦も遙に対して真面目なのだ。%Kあれだけの妨害を受けてもあきらめないんだから。%K%P
+Okuhiko is serious about Haruka.%K Despite being rejected%Nand ridiculed many times, he never gives up.%K%P
+0x17C
+まあ、往生際が悪いと言うか、妨害を妨害とも感じぬ、ただのバカと言うか……。%K%P
+Granted, he's too oblivious to tell that he's being%Nrejected, and he doesn't know when to quit, so I guess%Nyou could just call him an idiot...%K%P
+0x188
+けれど少なくとも、真剣という意味では間違っていない筈だ。%K%P
+Still, I understand what it means to be serious about%Nsomeone.%K%P
+0x194
+だから……オレもいづみさんに対して、真剣に、%W%W真面目に、%W%Wバカになろうと思う。%K%P
+After all... I'm even more serious about Izumi-san.%K%P
+0x1A0
+もう、なりふり構っていられないのだ。%K%P
+I don't care how I look anymore.%K%P
+0x1AC
+だって……%Kオレだって往生際が悪いのだから……。%K%P
+After all... I'm just as bad at not knowing when to give up...%K%P
+0x1E4
+タイムリミットは、今日を入れて、あと２日！%K%P
+Including today, my time limit is two days!%K%P
+0x1F0
+……もう後がないんだ！！%K%P
+... No more, no less!!%K%P
+0x1FC
+オレはルナビーチ目がけて、全力で走って行った。%K%P
+I run as fast as I can, aiming for Lunabeach.%K%P
+0x260
+いづみ「あら？　いらっしゃ〜い♪」%K%P
+Izumi「Oh? Welcome♪」%K%P
+0x26C
+息を切らして入ってきたオレに、いづみさんが笑顔で出迎えてくれる。%K%P
+Even though I came in here out of breath, Izumi-san still%Ngives me a smile.%K%P
+0x278
+オレは安心した。%K%P
+I'm relieved.%K%P
+0x284
+だって、そこに居てくれたんだから。%K%P
+After all, if she wasn't here, I'd...%K%P
+0x290
+誠「よかった……%W%Wそこにいてくれて」%K%P
+Makoto「I'm glad... that you're here.」%K%P
+0x29C
+いづみ「？？？」%K%P
+Izumi「???」%K%P
+0x2A8
+とある本で読んだことがある。%K%P
+It's from a book I read.%K%P
+0x2B4
+相手に気持ちを伝えるのに、沢山の言葉は要らない。%K%P
+There was this guy, who, when the time came to confess%Nhis feelings, didn't need many words.%K%P
+0x2C0
+愛の言葉ですら、たった２言ずつでこと足りてしまう。%K%P
+All he needed were eight words.%K%P
+0x2CC
+その２言とは、こうだ。%K%P
+These words were:%K%P
+0x2D8
+『ボクは、%W%Wここにいるよ』%K%N
+"I'm... right here."%K%N
+0x2E4
+『キミがそこにいて、%W%Wよかった』%K%P
+"I'm glad... that you're here."%K%P
+0x2F0
+いづみ「ふふ……どうしたの？　朝っぱらから……」%K%P
+Izumi「Hee hee... what's wrong? You're up early...」%K%P
+0x2FC
+いづみさんは、オレの意味不明な言葉を、笑って受け流してくれた。%K%P
+Izumi-san turns aside my cryptic words with a smile.%K%P
+0x308
+オレの言葉が通じているかどうかは問題ではない。%K%P
+The problem isn't whether or not I can get my words%Nthrough to her.%K%P
+0x314
+通じていなければ、これから通じるように努力すればいいのだ。%K%P
+The main problem is that I need to work up my courage to%Nsay it...%K%P
+0x320
+誠「いや……また今日も忙しいのかなって思って……」%K%P
+Makoto「No... I didn't know if today would also be busy...」%K%P
+0x32C
+オレは４月５日の、あの慌ただしい店内を思い出していた。%K%P
+I remember how busy the shop was on April 5th.%K%P
+0x338
+いづみ「心配してくれて、ありがと。でも大丈夫。ほら、今日は閑古鳥が鳴きそうだから……」%K%P
+Izumi「Thank you for worrying. But I'm all right. See, business is%Nin a slump as always...」%K%P
+0x344
+いづみ「それにね。忘れてもらっては困るんだけど、本来、今日は火曜日なのよ？」%K%P
+Izumi「Besides, you've probably forgotten in all of this%Nexcitement, but today's actually Tuesday.」%K%P
+0x350
+誠「……あ！」%K%P
+Makoto「... Ah!」%K%P
+0x35C
+そうだった……。%K%P
+That's right...%K%P
+0x368
+億彦を騙している流れで、スッカリと忘れてしまっていたが、今日は４月９日火曜日……。%K%P
+Because we've been so busy deceiving Okuhiko, I've%Ncompletely forgotten that today is Tuesday, April 9th...%K%P
+0x374
+つまり、ルナビーチの定休日なのだ。%K%P
+In other words, Lunabeach is closed for today.%K%P
+0x380
+いづみ「億彦くんが来るかもしれないから、いちおうお店は開いてるんだけど……まあ、今はその心配はなさそうね？」%K%P
+Izumi「Okuhiko-kun might come, so I've kept the shop open%Ntemporarily... Well, it seems like there's nothing to worry%Nabout for now, right?」%K%P
+0x38C
+誠「うん……。億彦のヤツは、お昼まで遙と釣りをしてるだろうね」%K%P
+Makoto「Yeah... Okuhiko will probably be fishing with Haruka until%Nnoon.」%K%P
+0x398
+いづみ「あ、そうなの？　じゃあお昼頃には寄るかな？」%K%P
+Izumi「Oh, really? Then perhaps he'll come here at noon.」%K%P
+0x3A4
+誠「……たぶん」%K%P
+Makoto「... Probably.」%K%P
+0x3B0
+いづみ「じゃあ、お店閉められないね。せっかくだから、どこか散歩にでも行こうと思ったのに……」%K%P
+Izumi「Then I can't close the shop. And just when I was thinking%Nof taking a walk somewhere...」%K%P
+0x3BC
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0x3C8
+それは聞き捨てならない。%K%P
+I don't overlook those words.%K%P
+0x3D4
+散歩……。%K%P
+A walk...%K%P
+0x3E0
+今店を閉めれば、いづみさんと散歩に……。%K%P
+If she were to close the shop now, then I could walk with%NIzumi-san...%K%P
+0x3EC
+いづみ「紅茶入れるよ。……飲むでしょ？」%K%P
+Izumi「I poured some black tea... Would you like some?」%K%P
+0x3F8
+誠「あ、それよりもっ」%K%P
+Makoto「Um, actually-」%K%P
+0x404
+いづみ「コーヒーの方がよかった？」%K%P
+Izumi「Or would you prefer coffee?」%K%P
+0x410
+誠「そうじゃなくてっ」%K%P
+Makoto「That's not-」%K%P
+0x41C
+いづみ「ごめんなさい……日本茶は切らしてるの」%K%P
+Izumi「I'm very sorry... but I'm out of Japanese tea.」%K%P
+0x428
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x434
+いづみ「ふふっ♪　……冗談よ。で、どうしたいの？」%K%P
+Izumi「Hee hee♪ ... Just kidding. So, what do you want?」%K%P
+0x440
+悪戯っぽく笑ういづみさん。%K%N
+Izumi-san gives a mischievous smile.%K%N
+0x44C
+最初からわかっていたみたいだ。%K%P
+It seems she knew from the beginning.%K%P
+0x458
+オレはこの人には、一生かなわないんだろうか？%K%P
+I just can't beat her, can I?%K%P
+0x464
+誠「ちょっと……散歩に出ない？」%K%P
+Makoto「Can we... take a little walk?」%K%P
+0x470
+いづみ「え？　でも……」%K%P
+Izumi「Huh? But...」%K%P
+0x47C
+誠「大丈夫。億彦達がやって来る前には帰って来るから……」%K%P
+Makoto「It's all right. We'll get back before Okuhiko and Haruka get%Nhere...」%K%P
+0x488
+いづみ「うん……」%K%P
+Izumi「Hmm...」%K%P
+0x494
+誠「行こうよ」%K%P
+Makoto「Let's go.」%K%P
+0x4A0
+いづみ「…………ええ♪」%K%P
+Izumi「... Sure♪」%K%P
+0x500
+オレ達は、まず港へと向かった。%K%P
+First, we head to the harbor.%K%P
+0x50C
+本当に億彦が遙と釣りをしているのかどうか？　……それを確認するために。%K%P
+Did Okuhiko and Haruka really go fishing or not? ... We%Ncame here to confirm that.%K%P
+0x560
+防波堤に着くと、そこには１人水面に釣り糸を垂らしている遙の姿があった。%K%P
+When we arrive at the pier, we see Haruka sitting alone%Nwith her fishing rod in the water.%K%P
+0x56C
+誠「あれ？」%K%P
+Makoto「Huh?」%K%P
+0x578
+いづみ「遙ちゃん……だけみたいね」%K%P
+Izumi「Haruka-chan... seems to be all alone.」%K%P
+0x584
+オレ達は、遙のそばへ近づいて行った。%K%P
+We walk over to Haruka's side.%K%P
+0x598
+遙がオレ達に気づいて振り向く。%K%P
+Haruka turns around when she notices us.%K%P
+0x5A4
+……と、次の瞬間、遙の竿がグイッと弓なりにしなった。%K%P
+... At that moment, something tugs against her fishing rod.%K%P
+0x5B8
+遙「…………」%K%P
+Haruka「...」%K%P
+0x5C4
+無表情で竿を引き、リールをまわす遙。そして見事にアジを釣り上げた。%K%P
+Haruka expressionlessly pulls back on the rod, and%Nreels it in. She then masterfully pulls in a horse mackerel.%K%P
+0x5D0
+しばらく、ピタピタと手の中で跳ねるアジを見ていた遙だが、無言でそのまま海へと逃がしてあげる。%K%P
+For a little while, Haruka holds the flopping horse%Nmackerel in her hands, looks at it, and then silently%Nreleases it back into the ocean.%K%P
+0x5DC
+誠「遙……億彦は？」%K%P
+Makoto「Haruka... where's Okuhiko?」%K%P
+0x5E8
+いづみ「一緒だって聞いてたけど？」%K%P
+Izumi「I heard you were together.」%K%P
+0x5F4
+遙は首を横に振った。%K%P
+Haruka shakes her head.%K%P
+0x600
+誠「でも、一緒に出て行ったって優夏が……」%K%P
+Makoto「But Yuka said you left together...」%K%P
+0x60C
+遙「億彦なら、どこかに散歩に出かけた」%K%P
+Haruka「If you're looking for Okuhiko, he went out on a walk%Nsomewhere.」%K%P
+0x618
+誠「散歩……」%K%P
+Makoto「A walk...」%K%P
+0x62C
+遙「億彦も全然釣れていなかったから……」%K%P
+Haruka「Because Okuhiko caught absolutely nothing...」%K%P
+0x638
+たぶん、理由はそれだけじゃないだろう。%K%P
+That's probably not the only reason.%K%P
+0x644
+どんな話題を振っても、全く反応を示してくれない遙に痺れを切らし、気分転換に出かけた……とまあ、そんなところだろう。%K%P
+I bet that he got tired of trying to strike up a%Nconversation with Haruka, who showed no signs of%Nresponding, so he left for a change of mood.%K%P
+0x650
+億彦も案外、忍耐力がないんだな……。%K%P
+Okuhiko is surprisingly impatient...%K%P
+0x65C
+そう言えばアイツって、いいトコのお坊ちゃんだっけ？%K%P
+Now that I think about it, he's from a prestigious family,%Nisn't he?%K%P
+0x668
+忘れていたが、億彦は飯田財閥の御曹司なのだ。%K%P
+I'd forgotten that Okuhiko was the son of the Iida%NFinancial Group.%K%P
+0x674
+この数日間のヤツの言動には、そんな雰囲気は全然感じられなかった。%K%P
+His speech and conduct over the past few days%Nhaven't reflected any of that at all.%K%P
+0x680
+成金の息子って、あんなものなのかな……？%K%P
+Is this really what the sons of the newly wealthy are%Nlike...?%K%P
+0x68C
+誠「じゃあ遙、オレ達、ちょっとこれから出かけるから」%K%P
+Makoto「Well then, Haruka, we'll be going now.」%K%P
+0x698
+いづみ「お昼にはお店に戻ってるからね」%K%P
+Izumi「We'll return to the shop at noon.」%K%P
+0x6A4
+黙ってうなずく遙。%K%P
+Haruka silently nods.%K%P
+0x6B8
+オレ達は、再び釣り竿と格闘を始めた遙を置いて、その場を後にした。%K%P
+We leave just as Haruka gets another bite on her fishing%Nrod.%K%P
+0x734
+商店街に差しかかったとき、いづみさんはふいに立ち止まった。%K%P
+When we reach the shopping district, Izumi-san suddenly%Nhesitates.%K%P
+0x748
+いづみ「あっ……。ちょっといいかしら？」%K%P
+Izumi「Ah... mind if we stop here a bit?」%K%P
+0x754
+誠「え？　何が？」%K%P
+Makoto「Huh? Why?」%K%P
+0x768
+いづみ「うん……実はね？　バーベキューの材料を切らしてるの」%K%P
+Izumi「Well... the truth is, I'm out of ingredients for the barbecue.」%K%P
+0x774
+あ……、バーベキュー。%K%P
+Oh... the barbecue.%K%P
+0x780
+そう言えば今日は、バーベキューをする日だったっけ……。%K%P
+Now that I think about it, today is the day of the%Nbarbecue...%K%P
+0x794
+オレといづみさんは、商店街の店を回って、野菜やら肉やらを買い込んだ。%K%P
+Izumi-san and I go around the shopping district, and buy%Nmeat and vegetables.%K%P

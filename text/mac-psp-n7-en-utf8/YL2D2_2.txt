@@ -1,0 +1,561 @@
+text area offset and size:
+0x1380
+0x20FC
+0x98
+優夏「ぎゃはははははははっ♪」%K%P
+Yuka「Gyahahahahahahaha♪」%K%P
+0xA4
+優夏の笑い声は、オレの不安をあおった。%K%P
+Yuka's laughter makes me feel uneasy.%K%P
+0xB0
+みんなには聞こえないぐらいの小声で、オレは優夏に耳打ちをする。%K%P
+I whisper into Yuka's ear so quietly that only she can%Nhear me.%K%P
+0xBC
+誠「おい、優夏？　わかってんだろうな？」%K%P
+Makoto「Hey, Yuka? You understand, right?」%K%P
+0xC8
+誠「間違っても『トロが食べたい』なんて言い出すなよな！」%K%P
+Makoto「Even by mistake, you mustn't say 'I want to eat toro'!」%K%P
+0xD4
+優夏「おうっ、わあってる、わあってる！」%K%P
+Yuka「Yeah, eye noe, eye noe!」%K%P
+0xE0
+オレの肩をバシバシとたたく優夏。%K%P
+Yuka strikes me hard on the shoulder.%K%P
+0xEC
+（はぁ……）%K%P
+(Haah...)%K%P
+0xF8
+心の中でため息をついた。%K%P
+I loudly sigh.%K%P
+0x104
+と、そこに……%K%P
+And then...%K%P
+0x120
+くるみ「おっはよぉー！」%K%P
+Kurumi「Morning!」%K%P
+0x12C
+……例のテンションで、くるみが現われた。%K%P
+... Kurumi appears.%K%P
+0x138
+右手に持ったマグカップの中には、薄い膜を張った牛乳が注がれている。%K%P
+A thin film of hot milk rises to the surface of the mug in%Nher right hand.%K%P
+0x14C
+優夏「おっ、くるみたん……どうれすか、ぐあいのほうは？」%K%P
+Yuka「Oh, Kurumi-tan... Hau ah yuu feelin'?」%K%P
+0x158
+くるみ「うん。ちょっと横になったら、すっかり良くなっちゃった」%K%P
+Kurumi「Good! After Kurumi had a nap, she got completely better.」%K%P
+0x164
+優夏「おおっ、それはよかったよかった、なっはっはっはっは♪」%K%P
+Yuka「Ohhhh! Dash gud, dash gud, nahahahaha♪」%K%P
+0x178
+優夏「あっ！！」%K%P
+Yuka「Ah!!」%K%P
+0x184
+優夏が身を乗り出すようにして、くるみの持ったマグカップを指差した。%K%P
+Yuka suddenly leans forward and points to the mug in%NKurumi's hand.%K%P
+0x190
+ま、まさか、また言うのか？　あれを……。%K%P
+Sh-She's not planning on say saying that again, is%Nshe...?"%K%P
+0x19C
+優夏「わたくし、たったいま、ものすごいことにきづいてしまいましたっ！」%K%P
+Yuka「I have jusht come up wif shomefing amashing!」%K%P
+0x1A8
+誠「くるみとっホットミルク……とか言うなよな！」%K%P
+Makoto「Yeah, yeah, when you cross Kurumi and milk, you get%N'Kurumilk'... now let's move on!」%K%P
+0x1B4
+先手を打って、阻止してやった……%K%P
+I beat her to the punch to obstruct her...%K%P
+0x1C0
+……つもりだったのだが……。%K%P
+... Well, that was what I'd planned, but it doesn't look like it%Nturned out the way I wanted...%K%P
+0x1D4
+くるみ「きゃはははははははっ♪　うまいっ！　うまいよ、それぇ！」%K%P
+Kurumi「Kyahahahahahahaha♪ Well done! That's great!」%K%P
+0x1E0
+優夏「ぎゃはははははははっ♪　まこと……おもしろすぎ……♪」%K%P
+Yuka「Gyahahahahahahaha♪ Makoto... yer too funee...♪」%K%P
+0x1EC
+やっちまったらしい……。%K%P
+It seems I completely failed...%K%P
+0x1F8
+優夏「いまろき、かいぶんなんて……♪」%K%P
+Yuka「Yuu jusht meid a portmanteau...♪」%K%P
+0x204
+優夏「まことも、オヤジらねぇ……♪」%K%P
+Yuka「Makoto, yer too much...♪」%K%P
+0x210
+誠「………………………………」%K%P
+Makoto「...」%K%P
+0x224
+言うまでもなく、他のみんなは、彼女達の世界についていけないようだった。%K%P
+It's clear that those two are completely alienated in their%Nown world.%K%P
+0x230
+耳の穴をほじったり、意味もなく天井に吊るされたランプを見つめていたりしている。%K%P
+I pick my ears and look at the ceiling, staring at the lamp%Nfor no reason.%K%P
+0x23C
+そうして、ひとしきり笑い終えた後……%K%P
+And then, when the long laughter finally ends...%K%P
+0x258
+優夏「は〜あ……」%K%P
+Yuka「Haah...」%K%P
+0x264
+……優夏は大きなため息をついて、急にふさぎ込んでしまった。%K%P
+...Yuka lets out a big sigh, and suddenly looks mopey.%K%P
+0x270
+まずい……。%K%P
+This is bad...%K%P
+0x27C
+この展開は、非常にまずい。%K%P
+This is really bad.%K%P
+0x288
+優夏のやつ、絶対に言う──オレの直感がそう告げた。%K%P
+Yuka's definitely going to say it―that's what my%Nintuition is telling me.%K%P
+0x294
+ここは話を別の方向に向けなければ！%K%P
+I've got to turn this conversation in a different direction!%K%P
+0x2A0
+誠「ああ、今日はいい天気だなあ！」%K%P
+Makoto「Ah, the weather's so good today!」%K%P
+0x2AC
+誠「ねえ、いづみさんも、そう思うでしょ？」%K%P
+Makoto「Don't you think so too, Izumi-san?」%K%P
+0x2C0
+いづみ「え？　あ、ああ……うん。そうね」%K%P
+Izumi「Huh? A-Ah... Yes. That's right.」%K%P
+0x2CC
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x2D8
+いづみ「……………………」%K%P
+Izumi「...」%K%P
+0x2EC
+うわっ、やばい。話が続かない。%K%P
+Crap. The conversation's dead.%K%P
+0x2F8
+何とか別の話題を……。%K%P
+I need another topic...%K%P
+0x304
+と考えている間に……%K%P
+As I think that...%K%P
+0x310
+優夏「ト…ト…ト…」%K%P
+Yuka「To... To... To...」%K%P
+0x31C
+誠「わおっ♪　沙紀のポニーテール、いかすじゃ〜ん♪　かっわいい〜♪　キュートキュート♪」%K%P
+Makoto「Wow♪ Saki, your ponytail is so cool and cute♪ Swish,%Nswish♪」%K%P
+0x330
+沙紀「……は？」%K%P
+Saki「... The hell?」%K%P
+0x344
+誠「あっ！　遙のおめめって、よく見るとウサギさんみた〜い、ぴょ〜んっ、ぴょ〜ん♪」%K%P
+Makoto「Ah! If you look closely, Haruka's eyes are like a rabbit's!%NBounce, bounce♪」%K%P
+0x358
+遙「……」%K%P
+Haruka「...」%K%P
+0x36C
+誠「億彦って、億彦って……%K……ファラララララ〜♪」%K%P
+Makoto「Okuhiko, umm... Falalalalalala〜♪」%K%P
+0x380
+億彦「だ、だいじょうぶか？　石原？」%K%P
+Okuhiko「A-Are you all right, Ishihara?」%K%P
+0x38C
+誠「えーっと、えーっと……それからそれから……」%K%P
+Makoto「Um, umm... Let's see, let's see...」%K%P
+0x3A8
+優夏「ト…ト…ト…」%K%P
+Yuka「To... To... To...」%K%P
+0x3B4
+──うぐっ！？%K%P
+―Shit!%K%P
+0x3C0
+優夏「ト…ト…ト…」%K%P
+Yuka「To... To... To...」%K%P
+0x3CC
+優夏「トウダイ」%K%P
+Yuka「Tower.」%K%P
+0x3D8
+誠「？？？？？」%K%P
+Makoto「?????」%K%P
+0x3E4
+優夏「トウダイが……みたい……」%K%P
+Yuka「I wanna shee... de lighthoushe tower...」%K%P
+0x414
+優夏「トウダイがみたぁーーーいっ！！」%K%P
+Yuka「I wanna shee de lighthoushe tower!!」%K%P
+0x420
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x43C
+くるみ「じゃっ、見に行こうよ！　灯台！」%K%P
+Kurumi「Then let's go see the lighthouse!」%K%P
+0x458
+沙紀「だけど灯台なんて、この辺にあるの？」%K%P
+Saki「But is there a lighthouse around here?」%K%P
+0x46C
+くるみ「うん。展望公園っていうところに立ってるの」%K%P
+Kurumi「Yeah. There's one in Viewpoint Park.」%K%P
+0x480
+くるみ「ね？　だから見に行こっ？　優夏さん？」%K%P
+Kurumi「See? So why don't we go see it, Yuka-san?」%K%P
+0x49C
+優夏「よぉーしっ！　……と、いいたいところらけど……」%K%P
+Yuka「Arright! ... Dash what I'd like to shay, but...」%K%P
+0x4B0
+優夏「ふたりっきりっていうのは、ちょっとさみしいやねぇ……」%K%P
+Yuka「If ish jusht de too of ush goin', ish a little lonely...」%K%P
+0x4C4
+優夏「そこでみんなも……！」%K%P
+Yuka「So den, eberiwan...!」%K%P
+0x4E8
+優夏「みんなも、とうだい？　……なぁ〜んちゃって♪」%K%P
+Yuka「Whaddya fink, guysh! ... Hee hee♪」%K%P
+0x554
+いづみ「あ…あれっ…？」%K%P
+Izumi「H-Huh...?!」%K%P
+0x5A8
+いづみ「うそぉ……」%K%P
+Izumi「No way...」%K%P
+0x624
+いづみ「ダメだわ。バッテリーあがっちゃってるみたい……」%K%P
+Izumi「No good. It seems the battery's dead...」%K%P
+0x630
+いづみ「しょうがない……。歩いていきましょう？」%K%P
+Izumi「Oh well... Shall we walk?」%K%P
+0x644
+いづみさんはそう言って、自ら先頭に立って歩き始めた。%K%P
+Izumi-san says that as she begins to walk, naturally%Ntaking the lead.%K%P
+0x650
+もちろんオレは、きゅっと口をつぐんだまま、その様子を見守っていた……。%K%P
+Of course, I kept my mouth shut about the battery, and%Njust let nature take its course...%K%P
+0x700
+桜並木に着いた。%K%P
+We arrive at the cherry blossom trees.%K%P
+0x70C
+今、優夏とくるみは、展望公園の灯台のまわりをぐるぐると回って、追いかけっこに夢中だ。%K%P
+Right now, Yuka and Kurumi are playfully chasing each%Nother around the lighthouse in Viewpoint Park.%K%P
+0x718
+オレを含めた他の５人は、桜並木の所で立ち止まっていた。%K%P
+The rest of us are still standing on the cherry blossom%Nroad, completely stunned.%K%P
+0x724
+沙紀と遙と億彦は、この桜を見るのは今日が初めてだった。%K%P
+This is Saki, Haruka, and Okuhiko's first time seeing these%Ncherry blossoms.%K%P
+0x730
+３人は、あまりの素晴らしさに圧倒されているようだ。%K%P
+The three of them seem to be under an incredible sense%Nof awe.%K%P
+0x73C
+いづみ「『恋の岬で想いを告げて、愛の入り江で想いを遂げる』」%K%P
+Izumi「'Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love.'」%K%P
+0x748
+いづみさんは、桜並木の果て、優夏とくるみが駆けずり回っている灯台の方を、ぼんやりと眺めていた。%K%P
+Izumi-san is at the edge of the cherry blossom road,%Nabsently watching Yuka and Kurumi run around the%Nlighthouse.%K%P
+0x75C
+沙紀「え？　……何ですか、それ？」%K%P
+Saki「Huh...? What's that?」%K%P
+0x778
+いづみ「この辺の、古い言い伝えみたいなものよ」%K%P
+Izumi「It's an old tradition on this island.」%K%P
+0x784
+いづみ「あの灯台の下で、好きな異性に告白すると、恋が実るって言われてるの……」%K%P
+Izumi「If a man and woman confess their feelings for each%Nother under that lighthouse, it's said that their affection%Nwill bear fruit...」%K%P
+0x798
+……前の２日、月浜で車座になって聞いた話。%K%P
+... It's the story she told us on the last 2nd when we were%Nsitting in circle.%K%P
+0x7A4
+この灯台の古い言い伝えと、それから……あの神社の伝説。%K%P
+The old tradition about this lighthouse, and after that...%Nthe legend of the shrine.%K%P
+0x7B0
+その話をいづみさんは、静かに語り始めた。%K%P
+Izumi-san quietly begins telling the story.%K%P
+0x7BC
+同じ話を２度聞くというのは、正直言って……退屈だった。%K%P
+To be honest, hearing the same story twice is boring.%K%P
+0x7C8
+いづみさんには悪いけど、オレは話を聞くフリをしながら別のことを考えていた……。%K%P
+I feel bad for Izumi-san, but I pretend to listen to the%Nstory while thinking about something else...%K%P
+0x858
+優夏のやつ……。%K%N
+Yuka...%K%N
+0x864
+ったくハラハラさせやがって……。%K%N
+She almost gave me a heart attack back there...%K%N
+0x870
+でもまあ……%W%W結果オーライか……。%K%N
+But, well... things turned out all right in the end...%K%N
+0x87C
+このままいけば、沙紀が波に呑まれることはまずないだろう。%K%P
+If we stay like this, Saki won't get swallowed up by the%Nwave.%K%P
+0x890
+──歴史は変わったのだ。%K%N%N
+―We changed history.%K%N%N
+0x89C
+実際に、オレと優夏は歴史を変えることができたのだ。%K%N
+Yuka and I were actually able to change it.%K%N
+0x8A8
+その事実は、オレの心を大いに勇気づけてくれたのだった……。%K%P
+This fact cheers me up considerably...%K%P
+0x920
+……と、そこに、くるみと優夏が息を切らしながら戻って来た。%K%P
+... And then, Kurumi and Yuka come back while out of%Nbreath.%K%P
+0x950
+くるみ「ねえねえ、何の話してるのぉ？」%K%P
+Kurumi「Hey, what were you talking about?」%K%P
+0x96C
+沙紀「この近くにね？　神社があるんだって」%K%P
+Saki「There's a shrine nearby.」%K%P
+0x988
+億彦「その神社にまつわる噂話を、いづみさんから聞いてたところなんだ」%K%P
+Okuhiko「Izumi-san was in the middle of telling us a rumor about%Nthat shrine.」%K%P
+0x9A4
+くるみ「ふーん……」%K%P
+Kurumi「Hmm...」%K%P
+0x9B0
+億彦「くるみちゃんは、その神社の話、聞いたことないのかい？」%K%P
+Okuhiko「Kurumi-chan, you've never heard of that shrine before?」%K%P
+0x9C4
+くるみ「うんっ。今初めて聞いたっ！」%K%P
+Kurumi「Nope. First time Kurumi's ever heard of it!」%K%P
+0x9D0
+億彦「じゃあ、ちょうど良かったじゃないか？」%K%P
+Okuhiko「Well then, isn't that exciting?」%K%P
+0x9DC
+くるみは、瞳をらんらんと輝かせている。%K%P
+Kurumi's eyes light up.%K%P
+0x9F8
+沙紀「さっ、いづみさん、続きをどうぞ？」%K%P
+Saki「Well then, Izumi-san, will you continue?」%K%P
+0xA14
+いづみ「う、うん……」%K%P
+Izumi「Y-Yes...」%K%P
+0xA20
+いづみ「……………………」%K%P
+Izumi「...」%K%P
+0xA2C
+沙紀「いづみ…さん？」%K%P
+Saki「Izumi... san?」%K%P
+0xA38
+いづみ「えーっと……」%K%P
+Izumi「Umm...」%K%P
+0xA44
+いづみ「どこまで話したっけ？」%K%P
+Izumi「Where was I?」%K%P
+0xA50
+沙紀「『いづみさんも、最初は作り話だろうと思ってた……』って、そこまで」%K%P
+Saki「You were up to the part where you initially thought it was%Nnothing more than a myth.」%K%P
+0xA5C
+いづみ「そっか……。うん、そう。私も、最初に話を聞いた時には疑ってたの。だけどね……」%K%P
+Izumi「I see... Yes, that's right. When I first heard that story, I%Nwas also doubtful. But then...」%K%P
+0xAEC
+いづみさん……%W%W%Wくるみが来たとたん、急に様子が変わった。%K%N
+Izumi-san... the instant Kurumi arrived, she suddenly%Nchanged.%K%N
+0xAF8
+確か、前にこの話を聞いたときもそうだったっけ……。%K%N
+This definitely also happened the last time we heard this%Nstory, if my memory serves me right...%K%N
+0xB04
+くるみといづみさんと……%W%W神社。%K%N%N
+Kurumi, Izumi-san, and... the shrine.%K%N%N
+0xB10
+何か関係があるのだろうか……？%K%P
+Could they be connected in some way...?%K%P
+0xB90
+いづみ「ダメよっ！　絶対にダメッ！」%K%P
+Izumi「No way! Absolutely not!」%K%P
+0xB9C
+そのいづみさんの大声に、ふと我に返る。%K%P
+Izumi-san's shout abruptly brings me back to reality.%K%P
+0xBB8
+くるみ「ええ〜っ、なんでぇ〜」%K%P
+Kurumi「Huh, why not?」%K%P
+0xBC4
+いづみ「なんでも！」%K%P
+Izumi「'Why not'!?」%K%P
+0xBD0
+いづみ「いい、くるみ？　今私が言ったことは、冗談なんかじゃないのよ？　分かってるの？」%K%P
+Izumi「Weren't you listening, Kurumi? That story I told you just%Nnow wasn't a joke. Do you understand that?」%K%P
+0xBDC
+くるみ「分かってるよぉ……。だけど…遠くから眺めるぐらいならぁ…」%K%P
+Kurumi「Kurumi understands... But... if we only look at it from a%Ndistance, then...」%K%P
+0xBE8
+いづみ「ほら、分かってない。全然分かってないじゃない」%K%P
+Izumi「See, you don't understand. You don't understand at all!」%K%P
+0xBF4
+くるみ「だってぇ……」%K%P
+Kurumi「But...」%K%P
+0xC00
+いづみ「だってじゃないのっ！　とにかくダメなもんはダメッ！」%K%P
+Izumi「No buts! No means no!」%K%P
+0xC0C
+いづみ「いい？　分かった？」%K%P
+Izumi「All right? Do you understand?」%K%P
+0xC20
+くるみ「ぶぅ……」%K%P
+Kurumi「Boo...」%K%P
+0xCDC
+オレ達は、この展望公園で思い思いの時を過ごした。%K%P
+We pass the time in Viewpoint Park idly.%K%P
+0xCE8
+ある者は満開の桜をめで……ある者は海の彼方に想いを馳せ……%K%P
+One person admires the cherry blossoms in full bloom...%NAnother's thoughts turn to what lies beyond the sea...%K%P
+0xCF4
+……またある者は、子供のように無邪気にはしゃぎながら、灯台によじ登ろうともがいたりしていた……。%K%P
+... and yet another person frolics like an innocent child%Nwhile trying to claw their way up the lighthouse...%K%P
+0xD00
+そして、この夕陽……。%K%P
+And then, this setting sun...%K%P
+0xD0C
+今７人は、岬のフェンスにずらりと並び、水平線に沈んで行く真っ赤な太陽を眺めている。%K%P
+Right now, the seven of us are lined in a row by the%Ncape's fence, watching the bright red sun as it sinks%Nbelow the horizon.%K%P
+0xD18
+沈み行くその速度が、いつもよりも遥かに早く感じるのは気のせいだろうか？%K%P
+Is it just my imagination, or does it feel like the sun's%Ndescending at a faster speed than usual?%K%P
+0xD24
+まるで、するすると降りて行く幕のようだった。%K%P
+It's like a smoothly descending curtain.%K%P
+0xD30
+何だか名残惜しい気分……。%K%P
+I feel a little reluctance to see it set and go away...%K%P
+0xD3C
+何気なく、みんなの様子を窺ってみる。%K%P
+I casually examine the others.%K%P
+0xD48
+夕陽を受けた頬はピンク色に染まって、いかにもハツラツとして見えた。%K%P
+They really seem lively, their cheeks dyed pink from the%Nsetting sun.%K%P
+0xD54
+──悪い歴史だけを良い歴史に変えてしまおう。%K%P
+―I'll only change the bad events into good ones.%K%P
+0xD60
+その目論見は、見事に成功している。%K%P
+That plan has been a splendid success so far.%K%P
+0xD6C
+結局、沙紀は海に落ちなかった。%K%P
+In the end, Saki never fell into the ocean.%K%P
+0xD78
+沙紀が海に落ちなければ、遙とのイザコザも、きっと起きないだろう。%K%P
+Since she didn't fall into the ocean, it's very likely she%Nwon't get into a quarrel with Haruka either.%K%P
+0xD84
+そうすれば、良い想い出だけが残ることになる。%K%P
+If that happens, then only good memories will remain.%K%P
+0xD90
+実際、今この瞬間も、新しく生まれた良い想い出のひとつだった。%K%P
+And currently, at this very moment, a new good memory%Nhas been born.%K%P
+0xD9C
+全ては着々と、順調に進んでいる……。%K%P
+Everything is advancing steadily and favorably so far...%K%P
+0xE0C
+ルナビーチで夕食を御馳走になり、ロッジに戻って来たのは９時過ぎだった。%K%P
+We're treated to dinner at Lunabeach, and get back to%Nthe lodge past 9:00.%K%P
+0xE18
+オレは風呂に入り、歯を磨き、寝間着に着替えてベッドに寝転んだ。%K%P
+I take a bath, brush my teeth, change into my%Nnightclothes, and lie down on my bed.%K%P
+0xE24
+誠「ふぁ〜……」%K%P
+Makoto「Aaah...」%K%P
+0xE4C
+そのアクビと同時に、いきなり遙が入って来た。%K%P
+As I yawn, Haruka suddenly enters my room.%K%P
+0xE58
+またも、ノック無しにだ。%K%P
+She didn't knock this time either.%K%P
+0xE6C
+誠「は、遙！？　ど、どうしたんだ？」%K%P
+Makoto「H-Haruka!? Wh-What's wrong?」%K%P
+0xE94
+遙「あの……」%K%P
+Haruka「Umm...」%K%P
+0xEA0
+誠「ん？」%K%P
+Makoto「Hmm?」%K%P
+0xEAC
+遙「誠……釣りできる？」%K%P
+Haruka「Makoto... can you fish?」%K%P
+0xEB8
+誠「釣り？」%K%P
+Makoto「Fish?」%K%P
+0xEC4
+その瞬間、オレの脳裏に記憶が蘇った。%K%P
+In that instant, several memories float into my mind.%K%P
+0xED0
+遙と釣りに行ったこと……。%K%P
+Haruka and I going fishing...%K%P
+0xEDC
+あの夕焼け空の下、額にくちびるを当てたこと……。%K%P
+Kissing her on the forehead under that sunset sky...%K%P
+0xEE8
+そう。それは明日──３日の出来事だった。%K%P
+Yes. That's tomorrow―on the 3rd.%K%P
+0xEF4
+誠「ああ！　釣りだったらまかしてくれ！」%K%P
+Makoto「Yeah! I'm great at fishing!」%K%P
+0xF00
+威勢よく答える。%K%P
+I answer cheerfully.%K%P
+0xF0C
+遙「じゃあ明日……教えてくれる？」%K%P
+Haruka「Then... will you teach me tomorrow?」%K%P
+0xF18
+誠「もちろん！」%K%P
+Makoto「Of course!」%K%P
+0xF24
+遙「ほんとに？」%K%P
+Haruka「Really?」%K%P
+0xF30
+誠「ほんとに！」%K%P
+Makoto「Really!」%K%P
+0xF3C
+遙「絶対？」%K%P
+Haruka「Definitely?」%K%P
+0xF48
+誠「絶対だ！」%K%P
+Makoto「Definitely!」%K%P
+0xF54
+遙「…………」%K%P
+Haruka「...」%K%P
+0xF60
+誠「…………？」%K%P
+Makoto「...?」%K%P
+0xF74
+遙「ありがと」%K%P
+Haruka「Thank you.」%K%P
+0xF80
+誠「いえいえ……って言うか、まだ教えてないんだし……」%K%P
+Makoto「No, no... I haven't even taught you yet...」%K%P
+0xF8C
+誠「礼を言うのは早過ぎるんじゃないか？」%K%P
+Makoto「Isn't it too early to be thanking me?」%K%P
+0xF98
+遙「うん……でも……ありがと」%K%P
+Haruka「Yes... but... thank you.」%K%P
+0xFA4
+誠「……じゃあ、明日な？」%K%P
+Makoto「... Well then, tomorrow?」%K%P
+0xFB0
+遙「うん」%K%P
+Haruka「Yes.」%K%P
+0xFC4
+遙は部屋を出て行った。%K%P
+Haruka leaves my room.%K%P
+0xFD0
+そう言えば遙、前に心が無いなんて言ってたな……。%K%P
+Come to think of it, she said last time that she had no%Nheart...%K%P
+0xFDC
+今でも、やっぱりそんなこと、思ってるんだろうか？%K%P
+Does she still think that even now?%K%P
+0xFE8
+今でも？？%K%P
+Even now??%K%P
+0xFF4
+いや、その言い方はおかしいぞ。%K%P
+No, that's a strange way of putting it.%K%P
+0x1000
+これは、過去なんだから……。%K%P
+This is the past, after all...%K%P
+0x100C
+まあどっちにしろ、遙を釣りに連れて行くのは悪くないことだ。%K%P
+Well, either way, taking Haruka fishing doesn't sound bad%Nat all.%K%P
+0x1018
+あの日以来、どんどんと釣りにのめり込んでいったからな、遙。%K%P
+Ever since that day, she grew more and more obsessed%Nwith fishing.%K%P
+0x1024
+その楽しみを、この時間の中でも教えてやらなくちゃ……。%K%P
+I have to teach her that hobby again...%K%P

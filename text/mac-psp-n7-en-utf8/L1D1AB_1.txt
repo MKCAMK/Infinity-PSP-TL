@@ -1,0 +1,213 @@
+text area offset and size:
+0x668
+0x10CE
+0x5C
+『たぶん１５分ぐらいで出来ると思う』と優夏が言ってから、既に１時間以上経過している。%K%P
+Even though Yuka had said it would only take her about%Nfifteen minutes, it's been almost an hour.%K%P
+0x68
+優夏のやつ、いったいどんな朝食を作ってるって言うんだろう？%K%P
+Just what the hell is Yuka cooking in there anyway?%K%P
+0x74
+あと５分で１１時。もはやブランチと呼ぶにも遅すぎる時間だった。%K%P
+It's now almost 11, so it's too late to even call it brunch.%K%P
+0x80
+待っている間に、オレ達３人は、顔を洗い、服を着替えた。%K%P
+While waiting, the three of us decided to wash our faces%Nand change our clothes.%K%P
+0x8C
+そして今、オアズケ状態のオレ達は、部屋の隅に置かれたＴＶを眺めている。%K%P
+Currently, we are watching the TV that's sitting in the%Ncorner of the room.%K%P
+0x98
+番組名は『すこやかＹＯＵとぴあ』という%N健康ものだ。%K%P
+There's a health show on called "A Healthy YOUtopia."%K%P
+0xA4
+『緑黄色野菜の上手な摂り方』というサブタイトルからもわかるように、内容は料理番組のそれとほとんど変わらなかった。%K%P
+Judging from its subtitle, "Good Green Vegetables To%NEat," it's basically a cooking show.%K%P
+0xB0
+もちろんそんな番組、見たくて見てるわけじゃない。%K%P
+Of course, none of us want to watch this.%K%P
+0xBC
+悲しいかな、ここでは島のローカル放送（２局）しか映らないらしいのだ。%K%P
+Unfortunately, this island only has two channels, both of%Nwhich are local broadcasting.%K%P
+0xC8
+ちなみに、もう１方の局では『全国清流探訪』という短いドキュメンタリー番組を放送していた。%K%P
+The other channel happens to be featuring a short%Ndocumentary on "Natural Streams All Over the Country."%K%P
+0xD4
+どっちもどっちだが、この空腹感をまぎらす為には、さらさらと流れる小川のせせらぎを聞いていた方が少しはマシだったかもしれない。%K%P
+Though both of the shows are boring, I think the one%Nabout streams might have been a better candidate for%Ndistracting us from our hunger.%K%P
+0xE0
+腹がグルグルと鳴る。そろそろ限界が近づいているようだ。%K%P
+My stomach is rumbling. I don't think I can last much%Nlonger.%K%P
+0xF4
+優夏「お待たせしましたぁ〜」%K%P
+Yuka「Sorry to keep you waiting〜」%K%P
+0x100
+ようやく、優夏がキッチンから顔を出した。%K%P
+Finally, Yuka peeks her head out from the kitchen.%K%P
+0x10C
+優夏「食事は、もうテーブルの方に運んじゃって%Nあるから、みなさんそっちに移動して下さ〜い」%K%P
+Yuka「I've already set the food on the table. Let's eat!」%K%P
+0x128
+その言葉を聞いて、真っ先に立ち上がったのは遙だった。%K%P
+At these words, Haruka immediately stands up.%K%P
+0x134
+ちょっと意外な感じがする。%K%P
+I'm kind of surprised.%K%P
+0x148
+何事に於いても積極的に行動することはないと思っていた遙が、いの一番に腰をあげたのだ。%K%P
+I find it odd that the usually indifferent Haruka is this%Ndetermined about eating breakfast.%K%P
+0x154
+きっと遙も、表には出さなかったが相当お腹が空いていたのだろう。%K%P
+I guess she must be practically starving.%K%P
+0x18C
+テーブルに着いたオレ達３人は、目を丸くしていた。%K%P
+Upon arriving at the table, our eyes widen.%K%P
+0x198
+南仏プロヴァンスの４つ星レストランに匹敵する程の豪華さ……%K%N
+Our wondrous vision of food rivaling a 4-star restaurant%Nin Southern France...%K%N
+0x1A4
+……なんてものは、そこにはカケラも存在しない。%K%P
+... is gloriously shattered into pieces.%K%P
+0x1B8
+テーブル中央の大皿には、いまだかつて見たこともない『不思議な物体』が山盛りになって積まれていた。%K%P
+There's a "Mysterious Object" that I've never seen%Nbefore in my life heaped up into a pile at the center of%Nthe table.%K%P
+0x1C4
+それとともに、それぞれの目の前に１枚ずつ、トースト（こ、%W%Wこれは%Wトー%Wス%Wト%Wだよな？）が置かれている。%K%P
+Next to that are four plates with toast (T-That thing... IS%Ntoast... right?) placed on them.%K%P
+0x1D0
+『不思議な物体』は、あたかも色力検査に使うカードのごとく複雑怪奇なマダラ模様をしており、その形状はネチャネチャと粘性を帯びたゼリー状をしていた。%K%P
+As if it had come from outer space, this "Mystery%NObject" has a complicated and mysterious pattern of%Nspots, and is shaped like some kind of viscous jelly mold.%K%P
+0x1DC
+かたやトーストの方は、こちらはシンプルに%N黒の単色でまとめられている。%N（ひとことで言うと、ただの『炭』だが……）%K%P
+As for Yuka's "toast", it's a solid black mass (It might as%Nwell be called "charcoal"...).%K%P
+0x1E8
+優夏「さっ、どうぞ召し上がれぇ〜♪」%K%P
+Yuka「Well then, go ahead and eat up〜♪」%K%P
+0x204
+優夏が得意気な笑みを浮かべながら、オレ達を促す。%K%P
+Yuka urges us on with a large, proud smile.%K%P
+0x210
+と同時に『炭』の上に『不思議な物体』を乗せ、自ら率先してパクパクとそれを頬ばり始めた。%K%P
+At the same time, she takes the "Mysterious Object",%Nplaces it on the "Charcoal", and smacks her lips.%K%P
+0x21C
+その光景を唖然としながら見守るオレ達……。%K%P
+We watch her, dumbstruck...%K%P
+0x228
+やがて……%K%P
+Before long...%K%P
+0x234
+優夏「あれぇ？　みんな、どうしたの？」%K%P
+Yuka「Huh? Guys, what's wrong?」%K%P
+0x240
+……小首を傾げる優夏。%K%P
+... Yuka tilts her head.%K%P
+0x268
+億彦「ゴ、%W%Wゴメンよ……。%W%W僕、ちょっと胃の調子が悪くて……」%K%P
+Okuhiko「S-Sorry... my stomach's not feeling so good...」%K%P
+0x274
+うわっ、きったねーぞ、億彦！%K%P
+Wow, that's cheap, Okuhiko!%K%P
+0x288
+遙「私、お腹、空いてない」%K%P
+Haruka「I'm... not hungry.」%K%P
+0x294
+おいおい、嘘つくなよ、遙！%K%P
+Haruka! Not you too!%K%P
+0x2A8
+優夏「ええーーーっ！　せっかく作ったのにぃー！」%K%P
+Yuka「Whaaat―!? But I just finished it and everything!」%K%P
+0x2B4
+優夏「これでも何度も何度も作り直したんだからね！」%K%P
+Yuka「I remade it countless times, you know!」%K%P
+0x2C0
+料理の善し悪しと、作り直した回数には何の関連性も無いと思うのだが……。%K%P
+I don't think the quality of food has anything to do with%Nhow many times you remake it...%K%P
+0x2CC
+それに『１時間以上も手間ひまをかけ、何度も何度も作り直した結果、出来上がったのがコレ』という事実も、オレにはよく理解できなかった。%K%P
+Furthermore, if it's true that "this is the result of all my%Ntime and effort for the last hour, including the countless%Ntimes I remade it," then I just can't understand.%K%P
+0x2D8
+ならば、初期の作品とは一体どんなモノだったと言うのか？%N……想像しただけでも身の毛がよだつ。%K%P
+If that's the case, then just what kind of thing was her%Ninitial result? ... Just trying to imagine it makes my hair%Nstand on end.%K%P
+0x2E4
+すると、オレの心を見透かすかのように、優夏はこう言った。%K%P
+Suddenly, as if she's reading my mind, Yuka says this:%K%P
+0x2F8
+優夏「誠はお腹……空いてるよねぇ？」%K%P
+Yuka「Makoto, you're hungry... right?」%K%P
+0x304
+それは完全に強制性を含んだ言い回しだった。%K
+She makes it sound as if I'm completely obliged to eat%Nthis.%K
+0x640
+『う、うん……』
+"Y-Yeah..."
+0x64C
+『う、ううん……』
+"N-No..."
+0x34C
+誠「う、%W%Wうん……」%K%P
+Makoto「Y-Yeah...」%K%P
+0x358
+オレはうなずくしかなかった……。%K%P
+I hopelessly nod...%K%P
+0x374
+誠「う、%W%Wううん……」%K%P
+Makoto「N-No...」%K%P
+0x380
+オレはどうにか、かぶりを振った。%K%P
+Somehow, I manage to shake my head.%K%P
+0x394
+優夏「えー……、誠……もなの？」%K%P
+Yuka「Whaaat... Makoto... you too?」%K%P
+0x3A0
+誠「…………」%K%P
+Makoto「...」%K%P
+0x3E0
+優夏「せっかく作ったのにぃ〜……」%K%P
+Yuka「Even though I worked so hard...」%K%P
+0x3EC
+優夏は、そっと視線を料理に落とす。%K%P
+She sadly looks down at her cooking.%K%P
+0x3F8
+優夏「誠だけは、食べてくれると思ったのに……」%K%P
+Yuka「I thought that you would at least try some...」%K%P
+0x414
+見ると、遙と億彦もオレに非難のまなざしを浴びせている。%K%P
+I look back to find Haruka and Okuhiko shooting me%Ncriticizing glares..%K%P
+0x420
+（おいおいおい……、オレだけ悪者かよ！）%K%P
+(Hey, no fair... You two have no right to judge me!!!)%K%P
+0x434
+オレはうつむく優夏を見て、それから、テーブル上の『不思議な物体』を見据える。%K%P
+I look at Yuka, who is still hanging her head, before%Nfocusing on the "Mysterious Object" on the table.%K%P
+0x440
+誠「う%Wぅ%W…%W…%W…%W…！」%K%P
+Makoto「Ugh...!」%K%P
+0x44C
+オレは目をつぶった。%Nそして目の前にある料理（？）が、『今にもよだれが出そうなほど、美味そうな料理である』と自己暗示をかける。%K%P
+I close my eyes. I try to convince myself that the%Nfood(?) is so delicious that it makes my mouth water just%Nthinking about it.%K%P
+0x458
+（………………%Kよし！）%K%P
+(... All right!)%K%P
+0x464
+しばし沈黙ののち、オレは覚悟を決めた。%K%P
+After a brief moment of silence, I steel my resolution.%K%P
+0x478
+誠「優夏……。本当はお腹ペコペコなんだ。やっぱり頂くことにするよ……」%K%P
+Makoto「Yuka... To be honest, I'm starving. I've decided I will eat%Nthis after all...」%K%P
+0x48C
+優夏はそれを聞くと、さっきまでの様子が嘘だったかのように、パッと表情を和らげた。%K%P
+Yuka instantly calms down upon hearing this, wiping%Naway any signs of her previous depression.%K%P
+0x498
+オレはそんな優夏の変わり身の早さにあきれつつも、断りきれなかった自分を呪った。%K%P
+Her change is so sudden and genuine that I curse%Nmyself for not being able to say "no".%K%P
+0x4AC
+その後の地獄絵図に関しては、もはや説明するまでもないだろう。%K%P
+In the end, let's just say that Yuka's food drove me to%Nhell and back.%K%P
+0x4B8
+……………………。%K%P
+...%K%P
+0x4C4
+余談だが『不思議な物体』のレシピは、遂に最後まで明かされることはなかった。%K%P
+I never did figure out what the recipe of the "Mysterious%NObject" was.%K%P
+0x4D0
+恐怖のあまり、聞くことはできなかったし、聞きたくもなかったから……。%K%P
+In all honesty, I'm too terrified to ask.%K%P

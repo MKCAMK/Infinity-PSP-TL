@@ -1,0 +1,216 @@
+text area offset and size:
+0x608
+0x1185
+0x5C
+？？「やあ！」%K%P
+??「Hey!」%K%P
+0x68
+それは鳥肌が立つほど嫌味な『やあ！』だった。%K%N
+He says that in such a gaudy voice that it causes me to%Nshiver repulsively.%K%N
+0x74
+民衆を見下した独裁者の『やあ！』にも似ている。%K%P
+It resembles the greeting of a dictator looking down on%Nhis people.%K%P
+0x80
+彼は部屋の中央に立ち尽くしていたオレの顔を%N一瞥すると、続いてその視線をあの無口な女の子の方へと流した。%K%P
+He looks at me as I stand still in the center of the room,%Nthen turns his attention towards the silent girl.%K%P
+0x94
+？？「あれぇ？　ひょっとして……オジャマだったかな？」%K%P
+??「Huh? I'm not... interrupting something, am I?」%K%P
+0xA8
+オレの方は見ず、彼女だけに向かって語りかけているようだ。%K%N
+He asks the girl this as he ignores my presence.%K%N
+0xB4
+しかし、やはり彼女は答えない。%K%P
+Of course, she doesn't answer him.%K%P
+0xC8
+？？「……って、そんなわけないかぁ。ははっ」%K%P
+??「Nah, there's no way it's like that. Ha ha ha!」%K%P
+0xDC
+笑いながら、再びチラッとオレの方を見る。%K%N
+While laughing, he glares at me again.%K%N
+0xE8
+さげすむような視線……。%K%P
+His eyes are full with scorn...%K%P
+0xF4
+（何が言いたいんだろう、こいつは……？）%K%P
+(Does he have something against me...?)%K%P
+0x108
+大アクビをしながら、彼はゆっくりとソファへと%N歩み寄り、そこに深く腰を下ろした。%K%N
+He lets out a loud yawn while slowly walking over to the%Nsofa before sitting on it.%K%N
+0x114
+無口な女の子とは、５０ｃｍ程度の距離を保っている。%K%P
+He keeps about 50 cm between the girl and himself.%K%P
+0x120
+５０ｃｍ……微妙な距離だ。%K%N
+50 cm... That's pretty incredible.%K%N
+0x12C
+それはたぶん、彼の小脳の中に手続的記憶として%N刷り込まれていたものだろう。%K%P
+It's a distance that's not too far to be distant, but not%Ntoo close to be considered creepy.%K%P
+0x138
+つまり自動車や自転車の運転と同じように、彼は意識することなく、そういった的確な距離を取ることの%Nできる男なのだ。%K%P
+He did it so effortlessly that it must be like second%Nnature to him, a process that's been imprinted and%Nstored in his brain, such as unconsciously controlling a%Ncar or bike would be.%K%P
+0x144
+ある意味『熟練の業』と言ってもいいかもしれない。%K%P
+I suppose this is what you call a "master".%K%P
+0x150
+……オレは、この男に関してだけは、前からその%N名前を知っていた。%K%P
+... This guy is the only one whose name I'd heard before%Ncoming here.%K%P
+0x15C
+『飯田億彦』%K%N
+"Okuhiko Iida."%K%N
+0x168
+うちの大学の学生なら、誰でも１度はこの名前を%N聞いたことがある筈だ。%K%P
+If you were a student at my college, you would have%Nheard his name at least once.%K%P
+0x174
+また学外の人間でも『飯田財閥の御曹司』と聞けば、恐らくピンと来るんじゃないだろうか？%K%P
+I bet that even if you asked somebody off-campus,%Nthey'd have heard of him, the 'Son of the Iida Financial%NGroup'.%K%P
+0x180
+飯田一族は、とにかくオレ達庶民の想像の域を%N超越した、国家級のブルジョアである。%N億彦は、その一族のトップとなることを既に%N約束された人物だった。%K%P
+In any case, the upper class Iida family live lives that us%Nworking class people can only dream about. As Okuhiko%Nis the family's heir, it has been arranged for him to%Nbecome the head of it someday.%K%P
+0x18C
+少なくとも学内では、彼の噂を耳にしない日は無い。%K%P
+In school, you couldn't go a day without hearing gossip%Nabout him.%K%P
+0x198
+『愛車のフェラーロのトランクには、常にゲンナマが%N数千万単位で積まれている』だの……%K%P
+"He always keeps millions of yen in the trunk of his%Nbeloved Ferraro," or...%K%P
+0x1A4
+『このまえ、某有名美少女タレントを、金に%Nもの言わせてああしたのこうしたの』だの……%K%P
+"I heard that he conducted business with a celebrity,%Nand then..." Most of the stories are basically...%K%P
+0x1B0
+『２年前にアレやってアレしてるとこをアレされた%Nけど、アレ贈ってアレしたらアレだった』だの……。%K%P
+"Two years ago, that happened to him, but when he gave%Nthat and did that..." ... Vague, outlandish stuff like that.%K%P
+0x1BC
+そして昨日の晩、オレは初めて、その噂の『億彦』%Nとかいう男に出会ったのだった。%K
+And last night, I first met the infamous "Okuhiko" in%Nperson.%K
+0x5E0
+昨日の晩のことを思い出す
+Recall last night's events.
+0x5EC
+億彦に話しかける
+Talk to Okuhiko.
+0x258
+──３月３１日　日曜日。%K%N
+―Sunday, March 31st.%K%N
+0x264
+ここに到着したのは、夜の１０時を少し回った%N頃だった。%K%P
+When I arrived here, it was a little past 10:00 at night.%K%P
+0x270
+月明かりに照らされたロッジの外観は、オレが想像%Nしていたものよりも遥かに大きく、そして美しかった。%K%P
+The exterior of the lodge was illuminated by moonlight.%NMy imagination ran wild as I was awed by its beauty and%Nhow much bigger it was than what I thought it would be.%K%P
+0x27C
+大学の合宿所なんてものは、体育会系の部室の%Nように狭っ苦しくて薄汚れているもんだとばかり%N思っていたが、どうやらここは違うらしい。%K%P
+When I heard of a "college-run lodge", I just assumed%Nthat it'd be painfully cramped and extremely dirty, like a%Nreally cheap, rundown motel. Clearly, I was wrong.%K%P
+0x288
+きっと、そもそもそういった類の合宿所とは異なった用途の為に購入されたものなのだろう。%K%N
+There's no way the college would own such luxurious%Nproperty for just this camp.%K%N
+0x294
+例えば、大学関係者の接待だとか何だとかに%N利用する為、とかね。%K%P
+Maybe it's a vacation spot for the college's staff.%K%P
+0x2A0
+……そんなようなことを何気なく考えながら、オレは玄関のドアを開いた。%K%P
+... That's what I was thinking as I opened the front door.%K%P
+0x2D0
+そこには、何とも得体の知れぬ妙な空気が%N満ちていた。%K%P
+The room was filled with a mysterious atmosphere that%Nseemed uncharacteristic.%K%P
+0x2DC
+──部屋の床に、ヒザを抱えてポツンと座っている%N女の子。%K%P
+―A lone girl was sitting on the floor, clutching her%Nknees.%K%P
+0x2E8
+──ダイニングテーブルに頬杖をつき、どこか遠くを見ている女の子。%K%P
+―I saw another sitting at the dining table, spacing out%Nwhile resting her chin in her hands.%K%P
+0x2F4
+──ソファにふんぞり返り、ワイングラスをくるくると回している男。%K%P
+―A man was reclining on the sofa, swirling a wine glass%Nin his hand.%K%P
+0x300
+誰ひとりとして言葉を発する者は無く、また会話の%N痕跡さえも見つけることはできなかった。%K%P
+No one spoke to each other; I don't even think there was%Nany conversation to begin with.%K%P
+0x30C
+全くの無音……。%K%N
+It was completely silent...%K%N
+0x318
+いや、時折男の喉元を通り過ぎるワインの音だけが%N微かに聞こえはしたが。%K%P
+No, I could occasionally hear the faint sound of the man%Ngulping down his wine, but that was it.%K%P
+0x324
+やがて、丸テーブルの女の子がオレに気づき……%K%P
+Before long, the girl from the round table noticed me...%K%P
+0x338
+？？「あ、お疲れ様ぁ〜」%K%P
+??「Ah, glad you could make it〜」%K%P
+0x344
+……と声をかけてきた。%K%P
+... Is what she said.%K%P
+0x350
+言ってる本人の方が、オレなんかよりもよっぽど%N疲れ切ってるように見えた。%K%P
+From the way she said that, it seemed like she was much%Nmore tired than me.%K%P
+0x35C
+？？「えーっと、確か『石原……%W%W%W誠くん』だったよね？」%K%P
+??「Um, you're Makoto-kun... that is, 'Makoto Ishihara'... right?」%K%P
+0x368
+誠「あ、ああ……」%K%P
+Makoto「Y-Yeah...」%K%P
+0x37C
+？？「どうもはじめまして♪」%K%P
+??「It's nice to meet you♪」%K%P
+0x388
+優夏「私は『優夏』…%W%W『川島優夏』。何故だか知らない%Nけど、気がついたら『班長』とかいう厄介な役職に%N任命されてた」%K%P
+Yuka「I'm Yuka... 'Yuka Kawashima'. I really don't know why, but%Nbefore I knew it, I became the 'leader' of this group.」%K%P
+0x39C
+優夏「別に成績優秀でもなければ、素行が良いわけでもないのにね。きっとクジ引きかなんかでいい加減に%N決めちゃったんだと思うけど」%K%P
+Yuka「I mean, it's not like I have particularly good grades, and%Nmy behavior's not exactly the best. I guess they must%Nhave just randomly decided by lottery or something like%Nthat.」%K%P
+0x3B0
+優夏「まあとにかく、よろしくね！」%K%P
+Yuka「Well, anyway, I'm pleased to meet you!」%K%P
+0x3BC
+誠「ああ……こちらこそ」%K%P
+Makoto「Yeah... same here.」%K%P
+0x3D0
+オレはそう言って、今度は他の２人の方へと視線を%N移した。%K%P
+After saying this, I glanced at the other two in the room.%K%P
+0x3DC
+ヒザを抱えた女の子は、床を見つめながら微動だに%Nしない。%K%N
+The girl clutching her knees stared at the floor without%Neven moving.%K%N
+0x3E8
+その様は、あらかじめ備え付けられていた石膏の%Nオブジェのようにさえ見える。%K%P
+She looked as if she were a piece of art made of plaster%Nthat had been previously placed in here.%K%P
+0x3F4
+一方男は、片手に持ったグラスを掲げ、電球の光に%N透かしながらワインの色を確かめていた。%K%N
+The man casually held his wine glass up towards the%Nlamp light to check out the wine's color.%K%N
+0x400
+その姿勢を保ったまま、男が静かに口を開く。%K%P
+As he was doing this, he began to speak.%K%P
+0x414
+億彦「『飯田億彦』……って、%N聞いたこと、ないかい？」%K%P
+Okuhiko「Name's Okuhiko Iida... I'm guessing you've heard of me%Nbefore?」%K%P
+0x420
+誠「え？　それってあの……飯田財閥の？」%K%P
+Makoto「Huh? You can't be... the heir of the Iida Financial Group?」%K%P
+0x434
+億彦「そういう言い方は、あまり好きじゃないんだけどねぇ……」%K%P
+Okuhiko「I don't really like that tone of yours...」%K%P
+0x440
+誠「？」%K%P
+Makoto「?」%K%P
+0x454
+億彦「まあいいさ。そう、僕がその『飯田億彦』だ。%Nよろしくな」%K%P
+Okuhiko「Well, whatever. Yes, I am that 'Okuhiko Iida'. Nice to meet%Nyou.」%K%P
+0x460
+誠「……………………よろ%W%W……しく……」%K%P
+Makoto「... Nice to... meet you too...」%K%P
+0x46C
+不覚にも、動揺してしまったオレ。しかし無理も%Nないさ。%K%P
+I was so startled that I messed up my greeting. I couldn't%Nhelp it, though.%K%P
+0x478
+『飯田億彦』%W%W──あの噂の『億彦』が、まさかオレと一緒の班だったなんて！%K%P
+"Okuhiko Iida"―I couldn't believe the infamous%N"Okuhiko" was in the same group as me!%K%P
+0x484
+いきなり仮病でも使って帰ってしまおうか、と本気で思った。%K%N
+Suddenly, I began to contemplate whether or not to fake%Nan illness so I could go home.%K%N
+0x490
+ひとことで言うと、暗澹（あんたん）たる気分だった。%K%P
+I was beginning to feel depressed.%K%P
+0x4A4
+……それから、オレ達はほとんど言葉を交わすこともなく、それぞれの寝床についた。%K%N
+... After that, we barely exchanged a single word, and%Nwent to our beds.%K%N
+0x4B0
+結局、ヒザを抱えた女の子は最後まで一言も%N喋ることはなかった。%K%P
+In the end, the girl clutching her knees never said a%Nsingle word.%K%P

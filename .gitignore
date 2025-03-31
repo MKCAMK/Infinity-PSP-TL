@@ -1,30 +1,21 @@
 /workdir/
+/workdir-*/
 /bin/
 
-/e17_mac*/
-/e17_etc*/
-/e17_se*/
-/e17_bg*/
-/e17_x360_BGM*/
-/e17_iso_extracted/
-/e17_x360_iso_extracted/
-/n7_mac*/
-/n7_etc*/
-/n7_iso_extracted/
-/r11_mac*/
-/r11_etc*/
-/r11_iso_extracted/
-
-/e17_iso_cn_extracted/
-/e17_etc_cn/
-/n7_iso_cn_extracted/
-/n7_etc_cn/
+/e17_*/
+/n7_*/
+/r11_*/
 
 /text/tmp/
 /text/mac-en-only-utf8/
+/text/tmp-*/
+/text/mac-*-en-only-utf8/
 /text/font/FONT*
 /text/font/glyphs/
 /text/font/glyphs-cn/
+/text/font/e17/
+/text/font/n7/
+/text/font/r11/
 
 /iso/*.iso
 /iso/*.dax

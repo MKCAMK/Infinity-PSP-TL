@@ -1,10 +1,16 @@
 #!/bin/sh
 
-ISODIR=./iso
-ORIGINAL_ISO=$ISODIR/Ever17-jap.iso
-REPACKED_ISO=$ISODIR/e17-repacked.iso
-[ -z "$TL_SUFFIX" ] && TL_SUFFIX="en"
-PATCH_FILE=./patch/e17-$TL_SUFFIX.xdelta
+[ -z "$GAME" ] && export GAME=e17
+REPACKED_ISO=./iso/${GAME}-repacked.iso
+[ -z "$TL_SUFFIX" ] && export TL_SUFFIX=en
+PATCH_FILE=./patch/${GAME}-$TL_SUFFIX.xdelta
+if [ "$GAME" = "r11" ]; then
+	ORIGINAL_ISO=./iso/Remember11-jap.iso
+elif [ "$GAME" = "n7" ]; then
+	ORIGINAL_ISO=./iso/Never7-jap.iso
+else
+	ORIGINAL_ISO=./iso/Ever17-jap.iso
+fi
 
 rm $PATCH_FILE 2>/dev/null
 

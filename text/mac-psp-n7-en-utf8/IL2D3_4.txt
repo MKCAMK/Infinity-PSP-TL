@@ -1,0 +1,225 @@
+text area offset and size:
+0x738
+0xDF4
+0x40
+気がつくと、何故かオレは、ルナビーチのテーブルの上に突っ伏していた。%K%P
+When I come to, I am lying on top of one of the tables in%NLunabeach for some reason.%K%P
+0x4C
+気づかないうちにオレは夢遊病にかかっていたのだろうか……。%K%N
+Did I start sleepwalking when I wasn't paying attention...?%K%N
+0x58
+いや、%W%Wそれとも……。%K%P
+No, I was probably just distracted with something else...%K%P
+0x64
+……もう１つ気になっていることがあった。%K%N……優夏の様子がいつも通りに戻っていたのだ。%K%P
+... Another strange thing happened too. ... Yuka's%Ncompletely back to normal.%K%P
+0x70
+さっきまでのことは、まるで無かったかのような……%W%W%Wそんな素振りだった。%K%P
+She's acting as if what happened earlier never%Noccurred.%K%P
+0x7C
+…………………………。%K%P
+...%K%P
+0x88
+オレの目覚めを合図にして、再び作戦会議が始まった。%K%P
+Once the others see that I'm awake, we begin the next%Nstrategy meeting.%K%P
+0xA4
+明日は通常通り『４月４日』で行こうということに決まった。%K%P
+We decide to let time flow normally by letting tomorrow be%N"April 4th".%K%P
+0xD4
+いづみ「……でね？　明日の夜まで、億彦くんを騙し続けられたら、そこで終了ということにしたいの」%K%P
+Izumi「... Agreed? We can continue tricking Okuhiko until%Ntomorrow night, but I think we should end it there.」%K%P
+0xE0
+さすがに、騙し続けることに罪悪感を感じてきたのだろう。%K%P
+As expected, she's probably feeling guilty about%Ncontinuing to deceive Okuhiko.%K%P
+0xEC
+オレも、そして、他のみんなも同じ考えだった。%K%P
+The others and I feel the same way.%K%P
+0xF8
+みんなは、いづみさんの提案を快く受け入れた。%K%P
+Everyone accepts Izumi-san's proposal.%K%P
+0x10C
+それを見て、いづみさんはにこやかに微笑んだ。%K%P
+When she sees that, Izumi-san smiles.%K%P
+0x120
+いづみ「明日のことで気になることが２点あるわ」%K%P
+Izumi「There are two points of concern for tomorrow.」%K%P
+0x12C
+再び、真面目な顔でいづみさん。%K%P
+Once again, Izumi-san's face turns serious.%K%P
+0x138
+１点目は、明日のお昼頃に起きなくてはならない地震についてだった。%K%P
+The first point is that there will be no earthquake%Ntomorrow during the daytime.%K%P
+0x144
+いづみ「でもこれは、考えてもしょうがないわね」%K%P
+Izumi「But we can't do anything about that.」%K%P
+0x150
+誠「ま、偶然起きたらラッキーってことで……」%K%P
+Makoto「Well, we'd be really lucky if one happened by chance%Ntomorrow...」%K%P
+0x15C
+２点目は、くるみの失踪騒ぎについてだった。%K%P
+The second thing is about Kurumi's disappearance.%K%P
+0x168
+いづみ「くるみがいない以上……これは起きないっていうことにするしかないね」%K%P
+Izumi「Without Kurumi present... all we can do is to decide not to%Nhave it take place.」%K%P
+0x174
+誠「そうだな……」%K%P
+Makoto「You're right...」%K%P
+0x180
+優夏も沙紀も、やむを得ないといった感じの表情を浮かべた。%K%N
+Yuka and Saki also have resigned expressions.%K%N
+0x18C
+けれど……%K%P
+But...%K%P
+0x1E0
+遙「ちょっと待って……」%K%P
+Haruka「Wait a minute...」%K%P
+0x1EC
+……そこに、遙が割って入った。%K%P
+... Haruka steps in.%K%P
+0x1F8
+遙「私が……行方不明になる」%K%P
+Haruka「I'll... go missing.」%K%P
+0x20C
+いづみ「え？　遙ちゃんが？」%K%P
+Izumi「Huh? You will, Haruka-chan?」%K%P
+0x218
+誠「は、遙……お前……」%K%P
+Makoto「H-Haruka... you...」%K%P
+0x224
+遙「そうすれば……億彦は必死になって探すと思うの」%K%P
+Haruka「If that happens... then I think Okuhiko will desperately go%Nsearching for me.」%K%P
+0x230
+反論できるものなど、１人も居なかった。%K%P
+No one objects.%K%P
+0x23C
+結局、くるみの代わりに遙が失踪することで決定した。%K%P
+In the end, it's decided that Haruka will disappear in%NKurumi's place.%K%P
+0x26C
+やがて会議が終了し、みんなは静かに立ち上がった。%K%P
+Before long, the meeting ends, and everyone quietly%Nstands up.%K%P
+0x278
+何だか名残惜しそうなみんなの表情……。%K%P
+Everyone looks reluctant to part...%K%P
+0x284
+それを見て、オレは悟った。%K%P
+When I see that, I understand.%K%P
+0x290
+何故みんながここまでして、億彦を騙すという行為に真剣になっているのか？%K%P
+Why has it been that up until now, everyone's been%Nserious about deceiving Okuhiko?%K%P
+0x2B8
+（みんな……別れたくないんだ）%K%P
+(None of us... want to part.)%K%P
+0x2C4
+（この楽しい物語が、いつまでもいつまでも永遠に続いてくれたらと……そう願っているのだ）%K%P
+("I want this fun story to continue forever,"... That's what%Nwe're all wishing.)%K%P
+0x2D0
+オレも、みんなと同じ気持ちだった。%K%P
+I feel the same as the others.%K%P
+0x2DC
+本来なら、既に合宿は終了し、普段の生活に戻っている時期だ。%K%P
+Originally, the Camp was already supposed to be over,%Nand we were supposed to have returned to our normal%Nlives by now.%K%P
+0x2E8
+しかし、それを無理矢理延長するような形で、オレ達はまだここに居続けている。%K%P
+But we all wanted to find a way to forcefully extend it so%Nthat we could continue remaining here.%K%P
+0x2F4
+『億彦を騙す』%K──ただ、それだけの理由で……。%K%P
+"Deceiving Okuhiko." ―The only reason we're doing%Nthat is to stay here...%K%P
+0x300
+それも明日、全て終わってしまう。%K%P
+And tomorrow, that all ends.%K%P
+0x328
+（いづみさん……！）%K%P
+(Izumi-san...!)%K%P
+0x350
+オレはまたいづみさんが恋しくなった。%K%P
+I yearn for Izumi-san again.%K%P
+0x35C
+明日でこれが終わって、明後日には帰らなければならないと思ったら、オレはあせらずにはいられなかった。%K%P
+This will end tomorrow, but when I think about how I'll have%Nto leave the day after that, I can't help but feel rushed.%K%P
+0x368
+──もう、時間がないんだ！%K%N
+―There's no more time!%K%N
+0x374
+オレはまだ、いづみさんに気持ちを伝えてないんだ！%K%P
+I still haven't told Izumi-san how I feel!%K%P
+0x380
+誠「いづみさん……。今日、ここに泊まってってもいいかな？」%K%P
+Makoto「Izumi-san... Is it okay if I stay over here tonight?」%K%P
+0x394
+いづみ「え？」%K%P
+Izumi「What?」%K%P
+0x3BC
+沙紀「！？」%K%P
+Saki「!?」%K%P
+0x3D0
+遙「……」%K%P
+Haruka「...」%K%P
+0x3F8
+優夏「な、何言ってるの？　誠？」%K%P
+Yuka「Wh-What are you saying, Makoto?」%K%P
+0x404
+誠「もう……%W%W%W眠くて……%W%W%Wロッジに帰りたくないんだ」%K%P
+Makoto「I'm... so sleepy... I don't want to go back to the lodge.」%K%P
+0x42C
+いづみ「で、%W%W%Wでも……」%K%P
+Izumi「B-But...」%K%P
+0x438
+いづみさんは、何故かチラリと２階を見た。%K%P
+Izumi-san is glancing at the second floor for some%Nreason.%K%P
+0x444
+オレの寝る場所があるかどうか、心配しているのだろうか？%K%N
+Is she worried about whether or not I'll have a place to%Nsleep?%K%N
+0x450
+それとも……？%K%P
+Or could it be...?%K%P
+0x45C
+（大丈夫だよ、いづみさん……）%K%P
+(It's all right, Izumi-san...)%K%P
+0x468
+（オレはなにも、そんなつもりで泊まりたいと言ったわけじゃないんだ）%K%P
+(It's not like I said I wanted to sleep here because I'd%Nplanned on doing THAT.)%K%P
+0x474
+（ただ、オレはいづみさんに伝えたいだけなんだ）%K%P
+(All I want to do is tell her...)%K%P
+0x480
+（オレの想いを……）%K%P
+(How I feel...)%K%P
+0x48C
+（だから……あの場所へ行って欲しいんだ……%N一緒に！）%K%P
+(That's why... I want to go to that place together... with%Nher!)%K%P
+0x498
+フラフラといづみさんに近づくオレ。%K%P
+I approach the nervous Izumi-san.%K%P
+0x4EC
+しかし、寸前のところで優夏に阻止された。%K%P
+However, just before I can reach her, Yuka stops me.%K%P
+0x4F8
+誠「い゛、いででででで…………！！」%K%P
+Makoto「O-OWWWWW...!!」%K%P
+0x504
+優夏に、思いっ切り耳たぶを引っ張られた。%K%P
+Yuka pulls on my ear with all her might.%K%P
+0x518
+優夏「そんなこと、できるわけないでしょっ！」%K%P
+Yuka「There's no way in hell that I'm letting you do that!」%K%P
+0x524
+誠「で……%W%W%Wでも……」%K%P
+Makoto「B... But...」%K%P
+0x530
+優夏「班長として、これ以上の勝手な別行動は許さないからねっ！」%K%P
+Yuka「As the leader, I will not allow any more selfish,%Nindependent actions of this kind!」%K%P
+0x578
+ズリズリと引っ張られながら、ルナビーチを後にするオレ。%K%P
+Yuka then leaves Lunabeach, dragging me by the ear%Nbehind her.%K%P
+0x58C
+心配そうにオレを見送るいづみさん。%K%P
+Izumi-san sees me off with an anxious look.%K%P
+0x598
+大丈夫だ……まだ明日がある！%K%P
+It's all right... there's still tomorrow!%K%P
+0x5A4
+明日、絶対に決着をつけてやる！%K%P
+Tomorrow, I'll definitely settle this!%K%P
+0x5B0
+（それまで待っててくれ……いづみさん……）%K%P
+(Wait until then... Izumi-san...)%K%P

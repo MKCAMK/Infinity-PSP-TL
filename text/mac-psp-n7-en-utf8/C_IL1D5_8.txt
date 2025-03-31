@@ -1,0 +1,534 @@
+text area offset and size:
+0xCF0
+0x1E10
+0x40
+夜が近づいていた。%K%P
+Night is drawing near.%K%P
+0x4C
+何の前ぶれもなく、ひたひたと忍び寄る闇の気配を肌で感じた。%K%P
+The darkness gradually creeps up on me without warning.%K%P
+0x58
+今、オレは灯台の壁によりかかるようにして座っている。%K%P
+Right now, I'm sitting against the wall of the lighthouse.%K%P
+0x64
+背中には、ひんやりと冷たい壁の感触……。%K%P
+I feel the cold sensation of the lighthouse against my%Nback...%K%P
+0x70
+足の裏が、熱を持ってズキズキと痛んだ。%K%P
+A hot, throbbing pain runs through the soles of my feet.%K%P
+0x7C
+けれど、１歩たりとも動く気にはなれない。%K%P
+Still, I don't feel like moving.%K%P
+0x88
+（これから、どうすればいいのか……？）%K%P
+(What should I do from now on...?)%K%P
+0x94
+（いったい、何が起ころうとしているのか……？）%K%P
+(Just what is going to happen...?)%K%P
+0xA0
+いまだ心は、渾沌の中にあった。%K%P
+Even now, my mind is lost in confusion.%K%P
+0xAC
+遙「こんなとこで、何やってるの？」%K%P
+Haruka「What are you doing in a place like this?」%K%P
+0xDC
+顔をあげると、目の前に遙が立っていた。%K%P
+I lift my face, and see Haruka standing before me.%K%P
+0xE8
+遙「何か、あった？」%K%P
+Haruka「Did something happen?」%K%P
+0xF4
+誠「……どうして？」%K%P
+Makoto「... Why do you think that?」%K%P
+0x100
+遙「だって……顔色、悪いから……」%K%P
+Haruka「Because... your face is pale...」%K%P
+0x10C
+誠「そうか……？」%K%P
+Makoto「Really...?」%K%P
+0x118
+遙「うん」%K%P
+Haruka「Yes.」%K%P
+0x124
+誠「まあ……ちょっといろいろ、あってな」%K%P
+Makoto「Well... a lot of things happened.」%K%P
+0x130
+遙「いろいろ？」%K%P
+Haruka「A lot of things?」%K%P
+0x13C
+誠「ああ……」%K%P
+Makoto「Yeah...」%K%P
+0x150
+オレが答えると、遙はミケンにきゅっとシワを寄せた。%K%P
+Haruka knits her eyebrows together at my answer.%K%P
+0x15C
+遙「誠？」%K%P
+Haruka「Makoto?」%K%P
+0x168
+誠「ん？」%K%P
+Makoto「Hmm?」%K%P
+0x174
+遙「あんまり考え過ぎないほうが、いいよ？」%K%P
+Haruka「Wouldn't it be best if you didn't think too much about it?」%K%P
+0x180
+誠「……えっ？」%K%P
+Makoto「... Huh?」%K%P
+0x18C
+遙「どんなに考えたって、すべては、なるようにしかならないんだから……」%K%P
+Haruka「No matter how much you think, you can only deal with%Neverything when you're at that point...」%K%P
+0x198
+遙「すでに起こったことなんて、誰にも変えることはできないし、これから起こることなんて、誰にもわからない……でしょ？」%K%P
+Haruka「If it's already happened, then nobody can change it. If%Nit's something that will happen in the future, then no one%Nwill know what it is... right?」%K%P
+0x1A4
+オレは、動揺を隠すことができなかった。%K%P
+I was unable to hide my unrest.%K%P
+0x1B0
+まるで、心の中を見透かされているようで……。%K%P
+It's like she can read my mind without trouble...%K%P
+0x1C4
+遙「人間って、過去に起きたことを、ああすれば良かった、こうすれば良かったって後悔したりするけど……」%K%P
+Haruka「People tend to regret events that happened in the%Npast, thinking they should have done this instead of%Nthat...」%K%P
+0x1D0
+遙「でもそんなことで悩むの、意味ないことだと思わない？」%K%P
+Haruka「But don't you think it's meaningless to worry about that?」%K%P
+0x1DC
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x1E8
+遙「未来も、同じ……」%K%P
+Haruka「The future is the same...」%K%P
+0x1F4
+遙「ほんとにツマラナイ、ちょっとしたことで、何か良いことがありそうな気がして浮かれたり、逆に悪いことが起きそうな気がしておびえたり……」%K%P
+Haruka「It's really trifling and insignificant to be happy when you%Nfeel something good is going to happen, or to get%Nscared when you feel something bad is going to%Nhappen...」%K%P
+0x200
+遙「そういうのって、ムダだと思う」%K%P
+Haruka「I think that doing that is useless.」%K%P
+0x20C
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x220
+遙「私達が生きているのは、今目の前にある一瞬だけでしょ？」%K%P
+Haruka「Isn't it best if you just focus on the present, on the%Nreality you're living in right now at this very instant?」%K%P
+0x22C
+遙「過去や未来じゃなく、この瞬間だけが、現実でしょ？」%K%P
+Haruka「After all, the past is behind us and the future is%Nuncertain, right?」%K%P
+0x240
+遙「だから……」%K%P
+Haruka「That's all...」%K%P
+0x24C
+そう言ったきり、遙は口を閉ざしてしまった。%K%P
+After saying this, Haruka closes her mouth.%K%P
+0x258
+けれど、その先に続く言葉は、聞かなくてもオレにはわかった。%K%P
+But she doesn't need to say any more for me to%Nunderstand.%K%P
+0x264
+誠「ありがとう……遙」%K%P
+Makoto「Thank you... Haruka.」%K%P
+0x270
+オレは立ち上がった。%K%P
+I stand up.%K%P
+0x27C
+暗闇の中、一条の光が唐突に、あたりを照らし始めた。%K%P
+In the darkness, a single strand of light begins to shine.%K%P
+0x288
+遙が、どうしてそんなことを言い出したのかはわからない。%K%P
+I don't know why Haruka said all of that.%K%P
+0x294
+ひょっとしたら、オレの浮かない顔つきを見て『きっとツマラナイことで悩んでいるに違いない』と、そう思っただけなのかもしれない。%K%P
+Perhaps she thought I must've been worrying about%Nsomething insignificant when she saw my concerned%Nexpression.%K%P
+0x2A0
+けれど、その言葉はオレにとって、救いとなった。%K%P
+But to me, those words have become salvation.%K%P
+0x2AC
+──今、何をなすべきか？%K%P
+―What must I do now?%K%P
+0x2B8
+遙のおかげで、オレはようやく、その答えを見つけることができたのだ。%K%P
+Thanks to Haruka, I've finally been able to find the%Nanswer to that.%K%P
+0x2C4
+誠「ありがとう……」%K%P
+Makoto「Thank you...」%K%P
+0x2D0
+もう１度、礼を言った。%K%P
+I thank her once more.%K%P
+0x2E4
+遙は少し照れくさそうに、視線をすっと横にそらせた。%K%P
+Haruka seems to be a little embarrassed, as she averts%Nher gaze to the side.%K%P
+0x308
+遙の肩越しに、鉄のフェンスが見える。%K%P
+I can see the iron fence over Haruka's shoulder.%K%P
+0x314
+何本かの細い鉄パイプが、ぐにゃりと曲がって、海側に飛び出していた。%K%P
+Several thin iron pipes have been bent terribly, while%Nothers on the seaward side have fallen into the ocean.%K%P
+0x33C
+さらにその向こう側には広大な海原……。%K%P
+I look beyond that side, at the wide ocean...%K%P
+0x348
+吹き渡る潮風の音を、オレは耳元で聞いていた……。%K%P
+The sound of the blowing sea breeze reaches my ears...%K%P
+0x3AC
+展望公園で遙と別れたオレは、ルナビーチにやって来た。%K%P
+I split up from Haruka at Viewpoint Park, and head to%NLunabeach.%K%P
+0x3B8
+今、オレがやらなければならないことは何なのか？%K%P
+What is it that I have to do now?%K%P
+0x3C4
+考えてみれば、簡単なことだった。%K%P
+When I think about it, it's simple.%K%P
+0x3D0
+──いづみさんのそばに、いること。%K%P
+―I have to be by Izumi-san's side.%K%P
+0x3DC
+予知だとか何だとか、そんなことはもう関係ない。%K%N
+It has nothing to do with the premonition I had or%Nanything like that.%K%N
+0x3E8
+過去や未来のことなんか、どうでもいい。%K%P
+The past and the future don't matter.%K%P
+0x3F4
+ただオレは、いづみさんのそばにいたかった。%K%P
+I just want to be by Izumi-san's side.%K%P
+0x400
+今、この瞬間を、いづみさんと共に過ごしたかったのだ。%K%P
+Right now, at this very instant, I want nothing more than%Nto spend time together with Izumi-san.%K%P
+0x454
+誠「いづみさん！」%K%P
+Makoto「Izumi-san!」%K%P
+0x460
+ドアを開くなり、いつもの調子で声をかけた。%K%P
+I open the door and call out to her in my usual voice.%K%P
+0x46C
+しかしいづみさんは……%K%P
+But Izumi-san...%K%P
+0x49C
+いづみ「あ……」%K%P
+Izumi「Ah...」%K%P
+0x4B0
+いづみ「誠くん……」%K%P
+Izumi「Makoto-kun...」%K%P
+0x4BC
+……昼に見たときと同じように、何か思いつめるような、浮かない顔だ。%K%P
+... still has that same depressed expression she had at%Nnoon; the expression of one thinking deeply.%K%P
+0x4C8
+（あのトランプのこと……まだ考えてるのかな？）%K%P
+(Is she still thinking... about the card game...?)%K%P
+0x4D4
+誠「いづみさん？」%K%P
+Makoto「Izumi-san?」%K%P
+0x4E0
+いづみ「ん？」%K%P
+Izumi「Huh?」%K%P
+0x4EC
+誠「なんか、手伝いましょうか？」%K%P
+Makoto「Can I help you out?」%K%P
+0x4F8
+いづみ「手伝う……って？」%K%P
+Izumi「Help... out?」%K%P
+0x504
+誠「皿洗いでも、掃除でも、なんでもやりますよ？」%K%P
+Makoto「I'll do whatever you ask, like washing the plates or%Ncleaning up.」%K%P
+0x518
+いづみ「でも……もう全部、終わっちゃったから」%K%P
+Izumi「But... that's all been done.」%K%P
+0x524
+いづみ「お店……今日はいつもより、早く閉めちゃったの」%K%P
+Izumi「Today... I closed the shop earlier than usual.」%K%P
+0x530
+誠「そっか……終わっちゃったんだ……」%K%P
+Makoto「I see... so you're all done...」%K%P
+0x544
+いづみ「あっ……」%K%P
+Izumi「Oh...」%K%P
+0x550
+いづみ「でもひとつだけ、手伝ってもらいたいことが……」%K%P
+Izumi「But there is one thing I'd like your help with...」%K%P
+0x55C
+誠「えっ？　何ですか？」%K%P
+Makoto「Huh? What is it?」%K%P
+0x568
+いづみ「うん……」%K%P
+Izumi「Yes...」%K%P
+0x57C
+いづみ「……あのね？」%K%P
+Izumi「... You know what?」%K%P
+0x5D8
+あたりはすっかりと、夜の闇に包まれていた。%K%P
+The surrounding area has been completely enveloped in%Ndarkness.%K%P
+0x5E4
+昼間太陽が出ていなかったせいか、テラスに座っていると少し肌寒い。%K%P
+Since the sun hasn't been out once today, it's a little%Nchilly when I sit down on the terrace.%K%P
+0x5F0
+目の前のテーブルの上には、空になった食器が置かれている。%K%P
+A now empty plate is on the table in front of me, only a%Nfew stains from food left behind on it.%K%P
+0x5FC
+そう、いづみさんが言ってた『手伝ってもらいたいこと』とは『作った料理を食べること』だったのだ。%K%P
+Right, the thing Izumi-san said she "wanted help with"%Nwas "eating her cooking".%K%P
+0x608
+閉店後『ロッジに遊びに行く』と言い残して出て行ったくるみの分を、いづみさんは余計に作ってしまったのだと言う。%K%P
+After the shop closed, Kurumi left saying she was "going%Nover to visit the lodge", without eating the food%NIzumi-san made for her, so Izumi-san ended up with too%Nmuch.%K%P
+0x61C
+くるみ「なんか、優夏さんとしゃべってたらぁ、話が盛り上がっちゃって……」%K%P
+Kurumi「Kurumi and Yuka-san are having fun talking, actually...」%K%P
+0x628
+くるみ「……ということだから、くるみ、今日はこっちに泊まるね？」%K%P
+Kurumi「... So Kurumi will stay over here tonight, okay?」%K%P
+0x63C
+くるみは電話で、そう伝えてきたそうだ。%K%P
+Kurumi said that over the phone.%K%P
+0x648
+まあ、それはそれで、オレにとっては喜ばしいことだった。%K%P
+Well, in this case, it's left me quite happy.%K%P
+0x654
+いづみさんの作った『ブイヤーベース風トルネッテ』を食べることができたわけだし……%K%P
+Because it means that I get to eat the%Nbouillabaisse-style fish stew Izumi-san cooked...%K%P
+0x660
+それに……%K%N
+And besides...%K%N
+0x66C
+くるみが帰って来ないということは……%K%P
+Kurumi won't be coming back here...%K%P
+0x678
+いづみさんと……%K%N
+Which means...%K%N
+0x684
+ずっと２人っきりでいられる、ということでもあり……。%K%P
+Izumi-san and I will be here all alone the whole time...%K%P
+0x698
+いづみ「誠くん？」%K%P
+Izumi「Makoto-kun?」%K%P
+0x6A4
+誠「はい？」%K%P
+Makoto「Yes?」%K%P
+0x6C8
+いづみ「あの……あのね？」%K%P
+Izumi「U... Umm...」%K%P
+0x6D4
+ただひとつ気がかりなのは、この表情だ。%K%P
+Her expression only shows concern.%K%P
+0x6E0
+さっきからずっと、いづみさんは沈み込むような暗い顔をしている。%K%P
+For all this time, ever since that incident, Izumi-san's had%Na dark, depressed look on her face.%K%P
+0x6EC
+誠「何ですか？」%K%P
+Makoto「What is it?」%K%P
+0x6F8
+いづみ「……………………」%K%P
+Izumi「...」%K%P
+0x704
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x710
+いづみ「……………………」%K%P
+Izumi「...」%K%P
+0x71C
+誠「？」%K%P
+Makoto「?」%K%P
+0x74C
+いづみ「誠くん……」%K%P
+Izumi「Makoto-kun...」%K%P
+0x758
+ようやく発せられたその声は、胸に迫り来るような重々しい響きだった。%K%P
+She sounds grave, as if it she's speaking straight from%Nher heart.%K%P
+0x764
+いづみ「落ち着いて、聞いてね？」%K%P
+Izumi「Stay calm and listen to me.」%K%P
+0x770
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x77C
+いづみ「私……あれからずっと……考えてたんだけど……」%K%P
+Izumi「I... Ever since then... I've been thinking about it...」%K%P
+0x788
+誠「……あれから？」%K%P
+Makoto「... 'Then'?」%K%P
+0x794
+いづみ「うん、そう……あのトランプのときから……ずっと……」%K%P
+Izumi「Yes that's right... All this time... since the card game...」%K%P
+0x7A0
+いづみ「それで……思ったの」%K%P
+Izumi「And then... I thought of it.」%K%P
+0x7AC
+いづみ「なんとなく……わかったような気がしたの」%K%P
+Izumi「Somehow... I feel that I understand it.」%K%P
+0x7B8
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x7C4
+いづみ「予知のこと……」%K%P
+Izumi「The premonitions...」%K%P
+0x7D0
+誠「えっ……？」%K%P
+Makoto「What...?」%K%P
+0x7DC
+いづみ「誠くんの予知のこと……」%K%P
+Izumi「Makoto-kun, your premonitions...」%K%P
+0x7E8
+いづみ「あれってきっと」%K%P
+Izumi「Are surely-」%K%P
+0x7F4
+誠「ちょ、ちょっと待った！」%K%P
+Makoto「W-Wait a minute!」%K%P
+0x808
+いづみ「……？」%K%P
+Izumi「...?」%K%P
+0x814
+誠「いづみさん、もういいんだよ、そのことは」%K%P
+Makoto「Izumi-san, that's enough of that.」%K%P
+0x820
+いづみ「もういい、って……？」%K%P
+Izumi「'That's enough'...?」%K%P
+0x82C
+誠「予知のことは、もういいんだ」%K%P
+Makoto「I've had enough of these premonitions.」%K%P
+0x838
+誠「そんなこと、オレは気にしてないし、信じてもいない」%K%P
+Makoto「I've decided not to worry about them and stop believing%Nthem.」%K%P
+0x84C
+いづみ「……えっ？」%K%P
+Izumi「... What?」%K%P
+0x858
+誠「予知なんてバカなこと、考えるのはやめたんだよ」%K%P
+Makoto「I'm done thinking about foolish things like premonitions.」%K%P
+0x864
+誠「未来のことは、誰にもわからない……」%K%P
+Makoto「No one knows the future...」%K%P
+0x870
+誠「たとえ今までの予知が１００回当たったとしても、次の予知が当たるとは限らない……」%K%P
+Makoto「Even if I received a hundred correct premonitions up%Nuntil now, there's no telling if the next one will actually be%Ncorrect...」%K%P
+0x87C
+誠「……そうでしょ？」%K%P
+Makoto「... Isn't that right?」%K%P
+0x888
+誠「大事なのは、今目の前にあるこの瞬間……」%K%P
+Makoto「What's important is now, the very moment before our%Neyes...」%K%P
+0x894
+この瞬間……%K%N
+At this very moment...%K%N
+0x8A0
+……いづみさんと一緒にいること。%K%P
+... I'm with Izumi-san.%K%P
+0x8B4
+いづみ「違うのよ、誠くん！　そういうことじゃっ」%K%P
+Izumi「You're wrong, Makoto-kun! That's not what I-」%K%P
+0x8C0
+誠「だから、いいんだって！」%K%P
+Makoto「I said that's enough!」%K%P
+0x8CC
+誠「そういうことだろうと、どういうことだろうと、もうオレには関係ないんだ！」%K%P
+Makoto「Those things have nothing to do with me anymore!」%K%P
+0x8E0
+いづみ「でもっ」%K%P
+Izumi「But-」%K%P
+0x8EC
+誠「ほんとに！」%K%P
+Makoto「I'm serious!」%K%P
+0x8F8
+誠「ほんとにいづみさん……」%K%P
+Makoto「I'm serious, Izumi-san...」%K%P
+0x904
+誠「……お願いだから……もうやめてよ……」%K%P
+Makoto「... Please... stop it...」%K%P
+0x910
+誠「予知の話なんて……やめようよ……」%K%P
+Makoto「Stop talking... about premonitions...」%K%P
+0x91C
+いづみ「………………………………」%K%P
+Izumi「...」%K%P
+0x928
+誠「………………………………」%K%P
+Makoto「...」%K%P
+0x94C
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0x958
+沈黙が、続いた。%K%P
+The silence continues.%K%P
+0x964
+いづみさんはうつむいたまま、まだ何かを思い悩んでいるようだった。%K%P
+Izumi-san hangs her head downwards, apparently still%Nworrying about something.%K%P
+0x970
+そんないづみさんの表情が、オレの胸をしめつける。%K%P
+Izumi-san's expression causes my chest to tighten.%K%P
+0x97C
+誠「ほらっ、だから別の話、しようよ！」%K%P
+Makoto「Come on, let's talk about something else!」%K%P
+0x988
+いづみ「………………………………」%K%P
+Izumi「...」%K%P
+0x994
+誠「なんか、オモシロイ話！」%K%P
+Makoto「Let's talk about something interesting!」%K%P
+0x9A0
+誠「そうだなぁ……例えば……」%K%P
+Makoto「Like... for example...」%K%P
+0x9AC
+いづみ「………………………………」%K%P
+Izumi「...」%K%P
+0x9B8
+誠「あっ、そうだ！　星の話は？」%K%P
+Makoto「Oh, I know! How about we talk about stars?」%K%P
+0x9CC
+いづみ「……星？」%K%P
+Izumi「... Stars?」%K%P
+0x9D8
+誠「だっていづみさん、なんか星とか、詳しそうだから」%K%P
+Makoto「Yeah. After all, you seem to know a whole lot about stars.」%K%P
+0x9E4
+誠「レグルスとかピノキオンとか、オレの知らない星の名前、知ってたし」%K%P
+Makoto「Tell me the names of more stars I don't know, and stuff%Nabout Regulus and Pinnochion.」%K%P
+0x9F8
+いづみ「ピノキオンじゃなくて……」%K%P
+Izumi「It's not 'Pinnochion'...」%K%P
+0xA04
+いづみ「……プロキオン」%K%P
+Izumi「... It's Procyon.」%K%P
+0xA10
+そう言ったいづみさんの口もとが、かすかにゆるんだ。%K%P
+When Izumi-san says that, a faint smile appears on her%Nface.%K%P
+0xA1C
+その表情を見て、オレはさらに勢いづいて話し続けた。%K%P
+When I see that expression, I become more determined,%Nand continue to talk.%K%P
+0xA44
+誠「あっ、そうだった、そうだった」%K%P
+Makoto「Ah, right, right.」%K%P
+0xA50
+誠「ピノキオンじゃなくて、プロキオンね」%K%P
+Makoto「It's Procyon, not Pinnochion.」%K%P
+0xA5C
+誠「まっ、どっちでもいいんだけど……」%K%P
+Makoto「Well, either one's fine...」%K%P
+0xA68
+誠「いや、よくないか……よくないぞ？　きっとよくない」%K%P
+Makoto「No, that's no good... that's no good at all. Definitely not.」%K%P
+0xA74
+誠「プロキオン、%T030プロキオン、%T015と……%T030よしっ、覚えた！」%K%P
+Makoto「Procyon, Procyon, Procyon... There, I've memorized it!」%K%P
+0xA80
+誠「で、そのピノキオンがっ」%K%P
+Makoto「So, about Pinnochion-」%K%P
+0xA94
+いづみ「プロキオン！」%K%P
+Izumi「Procyon!」%K%P
+0xAA0
+いづみさんは、笑った。%K%N
+Izumi-san smiles.%K%N
+0xAAC
+あの優しい微笑みが、そこにはあった。%K%P
+Her kind smile is back.%K%P
+0xAB8
+いづみ「……わかったわ」%K%P
+Izumi「... All right.」%K%P
+0xAC4
+いづみ「じゃあ星の話……」%K%P
+Izumi「Then, shall we talk...」%K%P
+0xAD8
+いづみ「……しましょうか？」%K%P
+Izumi「... About stars?」%K%P
+0xAE4
+オレは満面の笑顔でこたえた。%K%P
+I smile widely in reply.%K%P
+0xAF0
+誠「うんっ！」%K%P
+Makoto「Yeah!」%K%P
+0xAFC
+子供のように、元気良くうなずいてみせた……。%K%P
+I nod my head energetically, like a child...%K%P

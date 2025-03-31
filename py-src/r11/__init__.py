@@ -64,8 +64,8 @@ def clean_en_translation_line(line: str) -> str:
   # line = re.sub(r"(?<!\b\S \S)  +", " ", line) # collapse multiple spaces unless there are also extra spaces within the neighboring words
   # line = re.sub("\u014d", "o", line) # ō no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
   line = re.sub("na\u00efve", "naive", line) # "naïve": no umlaut for i
-  if "''" in line:
-    exit("unmatched ''")
+  #if "''" in line:
+  #  exit("unmatched ''")
   # line = re.sub("\u2473", "\u2473", line) # ⑳ ('CIRCLED NUMBER TWENTY' (U+2473)). No need to replace, rendered as a wide space. (glyph #1147)
   # spaces are too thin on pc; Not the case for psp.
 
@@ -95,6 +95,8 @@ def str_to_r11_bytes(text: str, lang = "en", exception_on_unknown = False) -> by
       r11_bytearray.extend(b'\x20')
     elif ch == '\n':
       r11_bytearray.extend(b'\n')
+    elif ch == '\t':
+      r11_bytearray.extend(b'\t')
     else:
       try:
         r11_char_code = r11_utf8_to_codes[ch][1]
@@ -121,7 +123,7 @@ def str_to_r11_font_codepoints(text: str, lang = "en") -> List[int]:
     if ch == ' ':
       fontIndices.append(751)
       continue
-    
+
     try:
       r11_char_code = r11_utf8_to_codes[ch][0]
       fontIndices.append(r11_char_code)
@@ -162,7 +164,7 @@ def _load_r11_font_table(r11_font_table_path) -> Tuple[List[CharsetElement], dic
   for i, v in enumerate(table_as_list):
     if i != v[0]:
       raise Exception("Charset index was not sequential")
-    
+
     utf8_ch = v[2]
     r11_b = v[1]
     utf8_to_codes[utf8_ch] = v

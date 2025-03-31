@@ -1,0 +1,300 @@
+text area offset and size:
+0xA70
+0xF19
+0xA0
+ガバッと思い切り布団を蹴飛ばして目覚めた。%K%P
+As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+0xAC
+しばし茫然として虚空を眺める。%K%P
+Still half asleep, I blankly stare at the ceiling.%K%P
+0xB8
+見たことのある……天井……。%K%P
+It's a familiar... ceiling...%K%P
+0xC4
+気がつけば、体中がぐっしょりと汗に覆われていて、やけに冷たかった。%K%P
+I realize I'm freezing, my body soaked with sweat all over.%K%P
+0xD0
+オレは大きく息を吸い込み、そして静かに吐き出した。%K%P
+I take a deep breath and slowly exhale.%K%P
+0xDC
+杉の木の温かい香りが、鼻腔の奥から脳の中心へと沁み込んでいく。%K%P
+The warm scent of wood goes through my nose and fills%Nmy head.%K%P
+0xE8
+これを３回繰り返したおかげで…………。%K%P
+It takes me three more breaths until...%K%P
+0x11C
+誠「え……？」%K%P
+Makoto「Huh...?」%K%P
+0x128
+誠「う、嘘だろ……」%K%P
+Makoto「N-No way...」%K%P
+0x134
+誠「そんなこと……」%K%P
+Makoto「There's no way...」%K%P
+0x140
+誠「そんな筈は……」%K%P
+Makoto「There's just no way...」%K%P
+0x14C
+オレはゆっくりとベッドから起き上がった。%K%P
+I slowly get up from the bed.%K%P
+0x158
+床の中央に立ち、部屋の中をぐるりと見回す。%K%P
+I stand in the center of the room, and look around.%K%P
+0x164
+──まさか……。%K%P
+―It can't be...%K%P
+0x19C
+突然！　何かが破裂するような凶暴な音が響いた！%K%P
+Suddenly, I hear a sound as violent as an explosion!%K%P
+0x1A8
+振り返ると、そこに立っていたのは……%K%P
+I turn around, and standing there, I see...%K%P
+0x1B4
+立っていたのは……………………………。%K%P
+I see...%K%P
+0x204
+優夏「ど……どういうこと！？」%K%P
+Yuka「Wh... What's going on!?」%K%P
+0x210
+優夏……。%K%P
+Yuka...%K%P
+0x21C
+優夏「どうして……！？」%K%P
+Yuka「Why...!?」%K%P
+0x248
+（落ち着け……）%K%P
+(Calm down...)%K%P
+0x254
+（落ち着くんだ……）%K%P
+(I've got to calm down...)%K%P
+0x260
+（まず何をすればいい……？）%K%P
+(First of all, what should I do...?)%K%P
+0x26C
+（日付を……今日の日付を確かめなければ！）%K%P
+(The date... we've got to confirm today's date!)%K%P
+0x284
+オレは恐る恐る、左腕を持ち上げた。%K%P
+I timidly raise my left arm.%K%P
+0x290
+オレと優夏……肩を寄せ合って、腕時計の文字盤を共に見つめる。%K%P
+Yuka leans in close as we both look at my watch's face.%K%P
+0x2BC
+『──１日──』%K%P
+(―1―)%K%P
+0x2C8
+誠「そ、そんなバカな！！！」%K%P
+Makoto「Th-That's impossible!!!」%K%P
+0x2D4
+いや……。%K%P
+No...%K%P
+0x2E0
+もう１度、目を凝らしてよく見た。%K%P
+I stare at it carefully one more time.%K%P
+0x2EC
+『──７日──』%K%P
+(―7―)%K%P
+0x2F8
+『７日　ＳＵＮ　０５：０３』%K%P
+(7 SUN 5:03 A.M.)%K%P
+0x304
+『１』ではなく『７』だった……。%K%P
+The number isn't a "1", it's a "7"...%K%P
+0x310
+『７』だったぁ！？%K%P
+A "7"!?%K%P
+0x31C
+誠「優夏……オレ達……」%K%P
+Makoto「Yuka... we...」%K%P
+0x328
+優夏「助かった……の？」%K%P
+Yuka「Were... saved?」%K%P
+0x334
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x340
+優夏「……………………」%K%P
+Yuka「...」%K%P
+0x34C
+オレと優夏は顔を見合わせた。%K%P
+Yuka and I exchange glances.%K%P
+0x358
+誠「いや、ちょっと待て……」%K%P
+Makoto「No, hold on...」%K%P
+0x364
+誠「ひょっとしたら、オレの時計が狂ってるって可能性も……」%K%P
+Makoto「It's possible that my watch could be busted...」%K%P
+0x378
+コクリとうなずく優夏……。%K%P
+Yuka nods...%K%P
+0x384
+次の瞬間、慌てふためいたオレと優夏は、もつれ合うように絡まったまま、リビングへと飛び出した。%K%P
+In the next instant, Yuka and I, flustered and still%Nintertwined, quickly rush out to the living room.%K%P
+0x3E0
+くるみ「お、お兄ちゃん！！」%K%P
+Kurumi「O-Onii-chan!!」%K%P
+0x3EC
+誠「く……くるみ！」%K%P
+Makoto「K... Kurumi!」%K%P
+0x408
+沙紀「ちょ、ちょっとどういうこと！？」%K%P
+Saki「H-Hold on, what's the meaning of this!?」%K%P
+0x424
+いづみ「２人とも……いつの間に……帰ってたの！？」%K%P
+Izumi「When did... you two... get back!?」%K%P
+0x430
+優夏「え……？」%K%P
+Yuka「Huh...?」%K%P
+0x44C
+遙「探したんだよ……？」%K%P
+Haruka「We've been looking for you...」%K%P
+0x468
+くるみ「もうっ、どこ行ってたのよぉ！？」%K%P
+Kurumi「Geez, where did you go!?」%K%P
+0x474
+誠「どこって……言われても……」%K%P
+Makoto「'Where'... even if you say that...」%K%P
+0x490
+億彦「まったく心配かけないでくれよぉ……」%K%P
+Okuhiko「Sheesh, don't worry us like that...」%K%P
+0x4AC
+沙紀「出かけるんなら、ひと言ぐらい声かけてよね！？」%K%P
+Saki「If you went out, then you should have at least told us%Nsomething!」%K%P
+0x4B8
+優夏は状況が把握できないと見えて、困惑した表情を浮かべていた。%K%P
+Yuka looks like she can't grasp the situation, a%Nbewildered expression forming on her face.%K%P
+0x4CC
+誠「あのぉ……」%K%P
+Makoto「Umm...」%K%P
+0x4D8
+誠「……ちょっとお尋ねしたいことがあるんですがぁ……」%K%P
+Makoto「... There's something we have to ask you...」%K%P
+0x4E4
+みんな「？？？」%K%P
+Everyone「???」%K%P
+0x4F0
+オレは優夏の方を向き『うん』とうなずいて見せた。%K%P
+I glance over towards Yuka and nod.%K%P
+0x4FC
+優夏「今日、何日だったっけ？」%K%P
+Yuka「What's today's date?」%K%P
+0x508
+みんな「！？！？！？」%K%P
+Everyone「!?!?!?」%K%P
+0x558
+いづみ「ええっ！？」%K%P
+Izumi「Huh!?」%K%P
+0x574
+億彦「おいおい、優夏ちゃん？　ほんとに大丈夫かい？」%K%P
+Okuhiko「Hey, Yuka-chan? Are you really all right?」%K%P
+0x580
+億彦「確かこの前も、そんなこと言ってたじゃないかぁ……」%K%P
+Okuhiko「You asked me that some time ago as well, didn't you...?」%K%P
+0x58C
+この前も……？%K%P
+Some time ago as well...!?%K%P
+0x598
+ってことは……！？%K%P
+That means...!?%K%P
+0x5BC
+遙「４月７日、日曜日……」%K%P
+Haruka「It's Sunday, April 7th...」%K%P
+0x5C8
+誠「………………………………………………」%K%P
+Makoto「...」%K%P
+0x5D4
+優夏「………………………………………………」%K%P
+Yuka「...」%K%P
+0x5E8
+誠「４月７日……」%K%P
+Makoto「Sunday...」%K%P
+0x5FC
+優夏「……日曜日」%K%P
+Yuka「...April 7th.」%K%P
+0x608
+誠「じゃあ、やっぱりオレ達……」%K%P
+Makoto「Then, we really were...」%K%P
+0x61C
+優夏「……助かったのよぉ！」%K%P
+Yuka「... Saved!」%K%P
+0x64C
+オレと優夏は、思わず抱き合っていた。%K%P
+Yuka and I instinctively embrace each other.%K%P
+0x658
+優夏はオレの胸に顔をうずめ、オレは優夏のやわらかな髪にくちびるを寄せた。%K%P
+Yuka buries her face into my chest, and I bring my lips to%NYuka's soft hair.%K%P
+0x664
+甘くとろけるような香りが体を包む。%K%P
+That bewitching, sweet scent captivates me completely.%K%P
+0x670
+そうしてぎゅうっと強く抱きしめ合いながら……%K%P
+We embrace each other even tighter...%K%P
+0x67C
+みんな「……………………」%K%P
+Everyone「...」%K%P
+0x688
+……しかし、すぐにみんなの冷たい視線に気がついた。%K%P
+... It takes me a moment to realize that everyone is%Nblatantly staring at us.%K%P
+0x694
+パッと何事もなかったかのように離れるオレと優夏。%K%P
+Yuka and I rapidly break off like nothing happened.%K%P
+0x6A0
+優夏の頬は真っ赤に色づいていた。%K%P
+Yuka's cheeks are bright red.%K%P
+0x6B4
+いづみ「はは〜ん……なるほど。そういうことだったのねぇ〜」%K%P
+Izumi「Ah ha... I see. So that's what it was〜」%K%P
+0x6C8
+沙紀「１泊２日の、恋の逃避行ですか？」%K%P
+Saki「So the two of you eloped for a night and two days?」%K%P
+0x6E4
+くるみ「ええっ！？　そうなの、お兄ちゃん？」%K%P
+Kurumi「What!? Is that true, Onii-chan?」%K%P
+0x6F8
+誠「う、う〜ん……」%K%P
+Makoto「M-Mmm...」%K%P
+0x704
+誠「……ってその前に、だいたいくるみはどこ行ってたんだよ！？」%K%P
+Makoto「... Wait, before that, where did you go in the first place!?」%K%P
+0x718
+くるみ「どこって？」%K%P
+Kurumi「'Where'?」%K%P
+0x724
+誠「昨日の朝！」%K%P
+Makoto「Yesterday morning!」%K%P
+0x738
+くるみ「ああ、あれ？」%K%P
+Kurumi「Oh, that?」%K%P
+0x744
+くるみ「あれは、子犬を探しに行ってたの」%K%P
+Kurumi「Kurumi was looking for that puppy.」%K%P
+0x750
+くるみ「大雨だったから、外じゃかわいそうだと思って……」%K%P
+Kurumi「It was out in that downpour, so she felt sorry that it had%Nto be outside...」%K%P
+0x764
+………………………………。%K%P
+...%K%P
+0x770
+もはや、ため息も出なかった。%K%P
+I can't even let out a sigh.%K%P
+0x77C
+すると突然……%K%P
+All of the sudden...%K%P
+0x790
+優夏「あっ、誠！」%K%P
+Yuka「Ah, Makoto!」%K%P
+0x79C
+……優夏が声をあげた。%K%P
+... Yuka speaks up.%K%P
+0x7A8
+誠「ん？？？」%K%P
+Makoto「Hmm???」%K%P
+0x7B4
+優夏「早く行かないと、間に合わなくなっちゃうよ！」%K%P
+Yuka「If we don't hurry and go, we won't make it!」%K%P
+0x7C0
+誠「間に合わないって…………何に？」%K%P
+Makoto「'Won't make it'... won't make what?」%K%P
+0x7CC
+そう尋ねたとたん、優夏はいきなり何も言わずにオレの腕をつかむと、はやてのような素早さで玄関を飛び出した……。%K%P
+The instant I ask that, Yuka wordlessly grabs my arm,%Nand rushes out the front door as fast as a hurricane...%K%P

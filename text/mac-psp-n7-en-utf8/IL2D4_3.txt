@@ -1,0 +1,165 @@
+text area offset and size:
+0x628
+0x9CA
+0x5C
+姫ヶ浜にて、オレ達みんなはバーベキューの準備を進めていた。%K%P
+At Princess Beach, everyone makes the preparations%Nfor the barbecue.%K%P
+0x68
+億彦は、いづみさんに頼んで、ルナビーチから下痢止めの薬を持って来てもらっていた。%K%P
+At Okuhiko's request, Izumi-san brought some medicine%Nfrom Lunabeach to stop the diarrhea he was suffering%Nfrom.%K%P
+0x74
+その下痢止めの薬を手の平に乗せながら、億彦は今、どうやら水を探しているようだ。%K%P
+Right now, Okuhiko is holding the medicine in his hand%Nwhile apparently looking for water.%K%P
+0x80
+そんな億彦の様子を眺めていると、ふいに優夏が話しかけてきた。%K%P
+When Yuka sees Okuhiko like that, she suddenly speaks%Nup.%K%P
+0x94
+優夏「ねぇ〜、誠でしょ〜。盗んだのは〜？」%K%P
+Yuka「Hey〜, Makoto〜. Did you steal them?」%K%P
+0xA0
+誠「はぁ？」%K%P
+Makoto「Huh?」%K%P
+0xAC
+優夏「私がね、お昼に食べようと思って作ったオニギリ、盗んでいったでしょ〜？」%K%P
+Yuka「You stole the rice balls that I made for lunch, didn't you?」%K%P
+0xB8
+誠「そんなものは知らん」%K%P
+Makoto「I didn't know about that.」%K%P
+0xC4
+だいたい、お前が作ったものなんて食べたくもない。%K%P
+Anyway, there's no way in hell that I'd want to eat your%Ncooking again.%K%P
+0xD8
+優夏「あれ〜？　ヘンだなぁ〜？　てっきり誠だと思ったのに……」%K%P
+Yuka「Huh? That's strange. Even though I was so certain that it%Nwas you...」%K%P
+0xE4
+優夏「リビングのテーブルに置いてあった筈なんだけどなぁ〜」%K%P
+Yuka「I placed them on the table in the living room.」%K%P
+0x100
+遙「それなら、私が持っていった……」%K%P
+Haruka「If that's the case, then I took them...」%K%P
+0x114
+優夏「え？」%K%P
+Yuka「Huh?」%K%P
+0x120
+誠「じゃあ、遙が食べたのか？」%K%P
+Makoto「Then you ate them, Haruka?」%K%P
+0x12C
+ふるふる……首を振る遙。%K%P
+Haruka shakes her head.%K%P
+0x138
+優夏「じゃあ、誰が？」%K%P
+Yuka「Then who was it?」%K%P
+0x144
+遙「それは……」%K%P
+Haruka「It was...」%K%P
+0x160
+億彦「ブホッ！」%K%P
+Okuhiko「BLEH!」%K%P
+0x16C
+億彦が、飲みかけていた下痢止めの薬を噴き出した。%K%P
+Okuhiko tries to take the medicine, but spits it out.%K%P
+0x180
+億彦「げほげほげほ……」%K%P
+Okuhiko「*cough* *cough* *cough*...」%K%P
+0x194
+優夏「？？？」%K%P
+Yuka「???」%K%P
+0x1A0
+誠「水無しで飲み込もうとしたもんだから、ムセたんだろ？　きっと……」%K%P
+Makoto「It must be hard to try to take medicine like that without%Nany water, huh...?」%K%P
+0x20C
+やがて、バーベキュー大会も佳境に入った。%K%P
+Before long, we've reached the climax of the barbecue.%K%P
+0x218
+みんなは、いつものように名演技を続けている。%K%P
+Everyone continues to put on the fine performances%Nthey've done so far.%K%P
+0x240
+沙紀がヘマをやらかすのも、そのままだった。%K%P
+Saki "messes up" and spills beer on Yuka, just like last%Ntime.%K%P
+0x280
+優夏「……ちょ、ちょっと、さきぃぃぃ……」%K%P
+Yuka「... H-Hey, Shakiiiiii...」%K%P
+0x294
+沙紀「……ご、ごめん」%K%P
+Saki「... S-Sorry.」%K%P
+0x2A0
+またケンカするのか……。やれやれだな。%K%P
+They're going to fight again... Oh brother.%K%P
+0x2AC
+億彦は、本当のケンカだと思って狼狽している。%K%P
+Okuhiko, thinking this is a real fight, seems to be%Npanicking.%K%P
+0x2B8
+（２回目なんだから落ち着けよ……）%K%P
+(You'd think he'd be calm the second time...)%K%P
+0x2C4
+……と、オレは思った。%K%P
+... At least, that's what I think.%K%P
+0x2E0
+遙「謝ってない……２回しか」%K%P
+Haruka「Only apologizing twice... is hardly what you'd call%N'countless'.」%K%P
+0x2F4
+沙紀「２回も謝れば十分でしょ！　こんなみっともない酔っ払いに！」%K%P
+Saki「Twice is enough for this shameful drunkard, right?!」%K%P
+0x310
+優夏「みっともない酔っ払い！？」%K%P
+Yuka「Shameful drunkahd!?」%K%P
+0x31C
+（はぁ……勝手にやってくれ……）%K%P
+(Haah... here it comes...)%K%P
+0x328
+（どうせ演技なんだから……）%K%P
+(Well, at least it's just acting...)%K%P
+0x334
+オレはタカをくくって傍観していた。%K%N
+I stand by on the sidelines, watching as a spectator.%K%N
+0x340
+だが……。%K%P
+But...%K%P
+0x370
+優夏「むぅぅ〜〜〜っ！！　%Nもぉ〜、怒ったからねぇぇっ！！！」%K%P
+Yuka「Mmmph〜〜〜!! Dash it, eyam pisshed!!!」%K%P
+0x384
+沙紀「……え？」%K%P
+Saki「... Huh?」%K%P
+0x3AC
+なんと、本気で優夏は怒っていた。%K%P
+It seems Yuka is really angry.%K%P
+0x3B8
+どうやら、かなり酔っ払っていたらしい。%K%P
+She looks really drunk...%K%P
+0x3CC
+沙紀「痛い痛い……。キーーッ！　%Nやったわねぇ〜〜っ！！！」%K%P
+Saki「Ow, ow... AGH! You've done it now!!!」%K%P
+0x3D8
+優夏「キャー！　爪で引っかくなんてぇ〜……。%Nこのぉ〜！」%K%P
+Yuka「Kya! Yuu shcratched me wif yer nailsh... Damn yuu〜!」%K%P
+0x3E4
+予定外の取っ組み合いの大ゲンカが始ってしまった。%K%P
+And so, a big fight begins between both of them, one%Nthat we had not planned.%K%P
+0x3F0
+誠「お、おい……。%Kバカ！　止めろよ、２人とも！」%K%P
+Makoto「H-Hey... Stop it, you idiots!」%K%P
+0x3FC
+オレと遙は沙紀を、いづみさんと億彦は優夏を、それぞれ押さえつける。%K%P
+Haruka and I restrain Saki, and Izumi-san and Okuhiko%Nrestrain Yuka.%K%P
+0x408
+その４人が協力しあって、なんとか２人を引き離すことができた。%K%P
+The four of us manage to somehow separate them.%K%P
+0x41C
+優夏「はーはー……」%K%P
+Yuka「Haah... haah...」%K%P
+0x430
+沙紀「ふーふー……」%K%P
+Saki「Aah... Aah...」%K%P
+0x43C
+いづみ「優夏ちゃん、沙紀ちゃん。%Nお、落ち着いて……%W%W%Wねっ？」%K%P
+Izumi「Yuka-chan, Saki-chan. P-Please... calm down, okay?」%K%P
+0x448
+オレは、押さえつけていた沙紀の腕をつかんだ。%K%P
+I grab Saki by the arm.%K%P
+0x464
+誠「いづみさん！　オレが沙紀をなだめるから、優夏のことは頼むよ！」%K%P
+Makoto「Izumi-san! I'll calm down Saki, so I'll leave Yuka to you!」%K%P
+0x470
+そう告げて、みんなから少し離れた岩場まで、沙紀を連れて行った……。%K%P
+After that, I take Saki away from the others, and settle%Ndown by the rock wall...%K%P

@@ -1,0 +1,606 @@
+text area offset and size:
+0x1110
+0x2965
+0x30
+『じゃあ、その温水プールとやらを見に行こう！』%K%N
+"Then let's sneak in and check it out!"%K%N
+0x3C
+……と真っ先に切り出したのは、何を隠そうこのオレ自身だった。%K%P
+... To tell the truth, I was the one who said that, as an%Nicebreaker.%K%P
+0x48
+みんなはおおむね賛成だったが、ひとりだけ執拗に反対し続けた人物がいる。%K%P
+Nearly everyone agrees, but there's still one person%Nwho relentlessly protests.%K%P
+0x90
+いづみ「ほら、もう見たでしょ？　早く戻ろうよ！」%K%P
+Izumi「There, now you've seen it, right? Now let's hurry on back!」%K%P
+0xA4
+いづみさんが尻込みするとは、ちょっと意外だった。%K%P
+Izumi-san's hesitation is a little surprising.%K%P
+0xB0
+そしてまた、他のみんなが一様に賛成意見だったことも、実はオレにとっては意外だったのである。%K%P
+Then again, I'm also surprised that the others all agreed%Nto this.%K%P
+0xBC
+オレは、ほとんど冗談のつもりでさっきの提案をしたのだ。%K%P
+I only meant that proposal as a joke.%K%P
+0xC8
+なのに、まさか本当にこれが実行されてしまうとは……。%K%P
+Even so, to think we'd actually be doing this...%K%P
+0xDC
+優夏「なんか、思ったよりも楽勝だったね？」%K%P
+Yuka「Somehow, this is a lot easier than I thought it'd be.」%K%P
+0xE8
+と優夏。%K%P
+Yuka says this.%K%P
+0xF4
+小声ながらも、その心のたかぶりようは手に取るように伝わってきた。%K%P
+Although she's whispering, I can tell she's excited.%K%P
+0x100
+誠「な？　言っただろ？」%K%P
+Makoto「Well? What did I tell you?」%K%P
+0x10C
+オレは誇らし気にそう返した。%K%P
+I respond proudly.%K%P
+0x118
+このプールには、フェンスというものが無い。%K%P
+This pool doesn't have a fence.%K%P
+0x124
+代わりに巡らされていたのはただの生け垣で、その隙間を抜けることによって、オレ達はいとも簡単に内部へと侵入することができたのだった。%K%P
+Instead, it's surrounded by hedges, so after we found a%Ngap, it was extremely easy for us to sneak in.%K%P
+0x130
+しかも好都合なことに、オレ達以外の人の姿は全く見当たらなかった……。%K%P
+Fortunately, there's no one else here except for us...%K%P
+0x144
+優夏「あっ！　そうだ！」%K%P
+Yuka「Ah! I know!」%K%P
+0x150
+何か思いついたように、優夏が声をあげた。%K%P
+Yuka's voice rises, as if she's just thought of something.%K%P
+0x15C
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x170
+優夏「水着、持って来よっ♪」%K%P
+Yuka「I'll go get my swimsuit!♪」%K%P
+0x17C
+誠「は、%W%Wはいっ！？」%K%P
+Makoto「W-What!?」%K%P
+0x190
+優夏「だって、せっかく侵入に成功したんだもん。泳がなくっちゃ、もったいないでしょ？」%K%P
+Yuka「After all, we broke in successfully, so it'd be a complete%Nwaste if we didn't go swimming.」%K%P
+0x19C
+誠「……」%K%P
+Makoto「...」%K%P
+0x1A8
+優夏「じゃ、私、ロッジに帰って水着取って来るから……みんなにそう伝えといて！」%K%P
+Yuka「Well then, I'll go back to the lodge and get my swimsuit...%Ntell the others for me!」%K%P
+0x1BC
+誠「……おいっ！　待てよ、優夏！」%K%P
+Makoto「Hey! Yuka, wait!」%K%P
+0x1C8
+オレの言葉も聞かずに、優夏はプールを出て行ってしまった……。%K%P
+Yuka leaves the pool without hearing me...%K%P
+0x1D4
+（『ロッジに帰って』って……）%K%P
+("I'll go back to the lodge"...)%K%P
+0x1E0
+簡単に言うけど、あの距離だと往復に１時間近くかかるような気がするが……。%K%P
+Easier said than done. I think a round trip will take nearly%Nan hour...%K%P
+0x1EC
+オレ達に『それまでここにいろ』ってこと%Nなんだろうか？%K%P
+Does she think we're just going to stay here that long?%K%P
+0x1F8
+ったく……勝手だよなぁ……優夏のやつ……。%K%P
+Man... that Yuka... She's so selfish sometimes...%K%P
+0x20C
+……と思っている所へ現れたのは、沙紀だった。%K%P
+... As I'm thinking, Saki comes over.%K%P
+0x218
+沙紀はいきなり、こんなことを言い始めた。%K%P
+Suddenly, she starts talking to me.%K%P
+0x224
+沙紀「しょせん日本のホテルなんて、%Nこんなもんよねぇ」%K%P
+Saki「It seems that all Japanese hotels are the same.」%K%P
+0x230
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0x23C
+沙紀「ここの経営者はわかってないのよ、月浜の美しさっていうのが……」%K%P
+Saki「The manager here clearly doesn't understand the%Nbeauty of Moon Beach...」%K%P
+0x248
+沙紀の視線は、怖いぐらいに真摯（しんし）だった。%K%P
+Saki's eyes are so passionate that they're scary.%K%P
+0x254
+沙紀「いくら人間があがいてみたところで、%N自然の美しさには到底及ばないもの」%K
+Saki「No matter how hard humans try, they can't match up to%Nnatural beauty.」%K
+0x10B8
+『そうだね』
+"You're right."
+0x10C4
+『そうかなぁ？』
+"You think so?"
+0x29C
+誠「そうだね」%K%P
+Makoto「You're right.」%K%P
+0x2A8
+とりあえず、オレは言葉を合わせた。%K%P
+For the time being, I'll agree with her.%K%P
+0x2BC
+沙紀「そうでしょ？　……こんなもの、単なる俗悪な娯楽施設よ。誠くん、わかってるじゃない」%K%P
+Saki「Aren't I...? These things are nothing more than worldly%Nrecreational facilities. Glad you get it.」%K%P
+0x2C8
+沙紀は満足そうにそう言い残してオレのそばを離れた。%K%P
+Satisfied, Saki leaves me with those words.%K%P
+0x2DC
+だが、しかし本当は……%K%P
+However, the truth is...%K%P
+0x2F0
+誠「そうかなぁ？」%K%P
+Makoto「You think so?」%K%P
+0x304
+沙紀「そうよ。%N……こんなもの、単なる俗悪な娯楽施設でしょ？」%K%P
+Saki「Of course. These things are nothing more than crappy%Nrecreational facilities.」%K%P
+0x310
+沙紀はそう言い残してオレのそばを離れた。%K%P
+Saki leaves me with those words.%K%P
+0x324
+彼女の言っていたことは、オレにはあまり共感できない。%K%P
+I can't really sympathize with her.%K%P
+0x330
+むしろ『こういうのって、なんかロマンチックだよな』などと、柄にも無いことを思ったりしていた。%K%P
+All I can think of is how romantic this is, quite%Nuncharacteristic of me.%K%P
+0x33C
+今、目の前にある光景……プールの底に埋め込まれたライトのせいで、まるで水そのものが蒼白く輝いているように見える。%K%P
+By romantic, I mean the pool... The lights at the bottom of%Nit make the water look like it's glowing.%K%P
+0x348
+水底から天に向かって拡散した光の束は、天国への門さえも彷彿とさせた。%K%P
+The scattering bundle of lights that shine to the sky%Nfrom the bottom of the pool make it closely resemble the%Ngates to Heaven.%K%P
+0x354
+その水をくぐり抜けた先には、まばゆいばかりの光の国が広がっているんじゃないだろうか、と……。%K%P
+The tips of light passing through the water are like a%Ndazzling, expanding country of light...%K%P
+0x368
+億彦「まっ、こういうのもアリかな……」%K%P
+Okuhiko「Well, I guess this is nice...」%K%P
+0x374
+ふいに現れた億彦が、何やら気取った言い方をする。%K%P
+Okuhiko suddenly appears and says this, but he%Nspeaks in a somewhat affected tone.%K%P
+0x380
+お陰でオレは、たちまち現実の世界へと連れ戻されることとなった。%K%P
+Thanks to that, I am brought back to reality.%K%P
+0x39C
+くるみ「ね？　くるみの言いたかったこと、わかってくれたでしょ？」%K%P
+Kurumi「Well? Now do you understand what Kurumi meant?」%K%P
+0x3A8
+今度はくるみか……。%K%P
+This time, Kurumi speaks...%K%P
+0x3B4
+オレは微笑みを浮かべてそれに答えた。%K%P
+I respond to her question with a smile.%K%P
+0x3C8
+──ところで遙は……？%K%P
+―Wait, where's Haruka...?%K%P
+0x3D4
+視線をさまよわせることもなく、すぐに遙は見つかった。%K%P
+Glancing around, I quickly spot Haruka.%K%P
+0x3E0
+プールサイドにひとり、ちょこんと腰をかけて、つま先を水に浸していた。%K%P
+She's sitting alone by the poolside, dipping her feet in%Nthe water.%K%P
+0x424
+その細い足を動かすたびに、小さな波紋が広がっていく。%K%P
+Every time she moves her slender legs, she creates tiny%Nripples that spread.%K%P
+0x430
+遙の全身に、ゆらゆらと揺らめく光の影が映えていた。%K%P
+The flickering, wavering light reflects and shines on%NHaruka's entire body.%K%P
+0x43C
+オレは吸い寄せられるようにして、ゆっくりと彼女の元へと歩み寄った。%K%P
+I slowly walk towards her, as if I'm being drawn in.%K%P
+0x450
+何も言わず、彼女の隣に静かに座る。%K%P
+I say nothing and silently sit down next to her.%K%P
+0x45C
+ぴちゃぴちゃというしずくの音だけが、静寂の中へと呑み込まれていく。%K%P
+With the exception of the sound of splashing water, we%Nare wrapped up in stillness.%K%P
+0x468
+くるみ「もう、ほら、おいでってばぁ！」%K%P
+Kurumi「Geez, c'mon, try and catch Kurumi!」%K%P
+0x474
+いづみ「ちょっとくるみ、大きな声出さないでよっ」%K%P
+Izumi「Hold on Kurumi, don't shout.」%K%P
+0x480
+プールサイドの向かい側では、仲むつまじい姉妹のじゃれ合い……。%K%P
+On the opposite side of the pool, the two happy sisters%Nare playing together...%K%P
+0x48C
+時折、思いついたように通り過ぎる%N穏やかな夜風……。%K%P
+As I think, the gentle evening breeze brushes against%Nmy skin...%K%P
+0x498
+春らしい埃の匂いをはらんだ穏やかな夜風……。%K%P
+It's filled with the scent of spring...%K%P
+0x4A4
+そして……青い光を浴びた遙の姿は、透き通るように美しかった。%K
+And Haruka... her nearly transparent figure, bathed by%Nthe pale light, is beautiful.%K
+0x10D0
+『気持ちいい？』オレはそう尋ねた
+Ask her, "Does this feel good?"
+0x10DC
+何も言わず、遙の顔を見つめた
+Say nothing, just look at Haruka's face.
+0x4EC
+誠「気持ちいい？」%K%P
+Makoto「Does this feel good?」%K%P
+0x4F8
+水に浸った彼女のつま先を見つめながら、オレはそう尋ねた。%K%P
+I ask this as I glance at her tiptoes, soaked in the water.%K%P
+0x504
+遙「……うん」%K%P
+Haruka「... Yes.」%K%P
+0x510
+そのひと言が、オレの心をきゅっとしめつける。%K%P
+With that one word, my heart tightens up.%K%P
+0x51C
+そこには、今までの彼女の言葉には無かった温もりの響きがあった。%K%P
+Up until now, there hasn't been a single ounce of warmth%Nin her voice.%K%P
+0x528
+オレは、今初めて、遙の温度というものに触れたのかもしれない。%K%P
+This might be the first time I've felt something like this%Nfrom Haruka.%K%P
+0x534
+……何故だかわからないが、胸がつまるような想いだった。%K%P
+... I don't know why, but my heart is filled with emotion.%K%P
+0x540
+そんなどぎまぎした心を悟られまいとして、オレは視線を彼方の水面（みなも）へと遠く離した。%K%P
+When I realize my mind is in a flutter, I turn my gaze%Nacross the water's surface.%K%P
+0x554
+オレは何も言わず、遙の顔を見つめた。%K%P
+I say nothing and just look at Haruka's face.%K%P
+0x560
+遙はオレが隣にいることなど、気にすることもなく、つま先を水に浸しつづけている。%K%P
+She doesn't seem to notice I'm sitting next to her, as she%Ncontinues to dip her tiptoes in the water.%K%P
+0x56C
+ぴちゃぴちゃ……。%K%P
+Splash, splash...%K%P
+0x578
+遙の横顔を眺めているうちに、ふと、彼女の表情が今までと少し違うことに気づく。%K%P
+Gazing at her face from the side, I suddenly notice%Nthere's something different in the way she's carrying%Nherself.%K%P
+0x584
+なんて言えばいいんだろう……。%K%P
+How do I put it in words...%K%P
+0x590
+しがらみから吹っ切れたかのような……。何かを悟りきったかのような……。%K%P
+It's like she's broken free of her bonds... as if she's%Nattained enlightenment...%K%P
+0x59C
+悲しそうな瞳……。オレはそんな彼女の瞳に吸い込まれるかのような錯覚を覚える。%K%P
+Those sad eyes... her pupils are like an optical illusion%Nthat I feel like I'm being sucked into.%K%P
+0x5A8
+遙「……気持ちいい」%K%P
+Haruka「... This feels good.」%K%P
+0x5B4
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0x5C0
+突然の彼女の言葉に戸惑うオレ。%K%P
+I am caught off-guard by her sudden statement.%K%P
+0x5CC
+返す言葉が思いつかない。%K……いや、そうではない。%K%P
+I don't quite know how to reply. ... Well, it's more than that.%K%P
+0x5D8
+彼女のひと言が、オレの心をきゅっと%Nしめつけたのだ。%K%P
+With those words, my heart has tightened up.%K%P
+0x5E4
+そこには、今までの彼女の言葉には無かった温もりの響きがあった。%K%P
+Up until now, there hasn't been a single echo of warmth in%Nher words.%K%P
+0x5F0
+オレは、今初めて、遙の温度というものに触れたから戸惑ったのかもしれない。%K%P
+This might be the first time I've seen something like this%Nfrom Haruka.%K%P
+0x5FC
+……何故だかわからないが、胸がつまるような想いだった。%K%P
+... I don't know why, but my heart is filled with emotion.%K%P
+0x608
+そんなどぎまぎした心を悟られまいとして、オレは視線を彼方の水面（みなも）へと遠く離した。%K%P
+When I realize my mind is in a flutter, I turn my gaze%Nacross the water's surface.%K%P
+0x61C
+蒼白い光が、にじむように目の奥へと広がる。%K%P
+The shimmering lights dance before my eyes, blurring%Nthem.%K%P
+0x628
+揺れる水面に、ふらふらとめまいを覚えた。%K%P
+The swaying water makes me dizzy.%K%P
+0x634
+光の国……まるで今にも吸い込まれてしまいそうで……。%K%P
+The country of light... feels like it could swallow me up at%Nany time...%K%P
+0x66C
+徐々に視界がかすんでいく……。%K%P
+My field of vision slowly begins to grow hazy...%K%P
+0x678
+たゆたうような倦怠感が、体中を包み込む。%K%P
+A drifting sense of fatigue wraps up my body.%K%P
+0x684
+意識が朦朧（もうろう）としてきた。%K%P
+My consciousness becomes faint.%K%P
+0x690
+（……オレはいったい……どこに……？）%K%P
+(... Just where... am I...?)%K%P
+0x724
+ふと我に返った。%K%P
+Suddenly, I come to my senses.%K%P
+0x730
+対面のプールサイドでは、相変わらずいづみさんとくるみがじゃれあっていた。%K%P
+On the opposite side of the pool, Izumi-san and Kurumi%Nare still playing with each other.%K%P
+0x73C
+いづみ「こらっ！　いい加減にしないと怒るわよ！」%K%P
+Izumi「Hey! If you don't cut it out, I'll get mad!」%K%P
+0x748
+くるみ「へへ〜ん、こっこまでおいでぇ〜♪」%K%P
+Kurumi「Heh heh, catch Kurumi if you can!」%K%P
+0x754
+水際スレスレに立って挑発するくるみ。%K%P
+Kurumi stands close by the pool's edge, egging%NIzumi-san on.%K%P
+0x760
+いづみさんはそのくるみを捕まえようと、慎重な足取りでジリジリと距離を縮めていく。%K%P
+Izumi-san, trying to catch Kurumi, begins to carefully%Nclose the distance between them.%K%P
+0x76C
+やがて……%K%P
+Soon enough...%K%P
+0x778
+いづみ「ほら、捕まえたっ！」%K%P
+Izumi「There, I've got you now!」%K%P
+0x784
+……いづみさんの腕が、遂にくるみの袖をつかんだ。%K%P
+... Izumi-san finally grabs Kurumi by her sleeve.%K%P
+0x790
+──するとその瞬間！%K%P
+―Just then, at that exact moment!%K%P
+0x7D0
+突然、大地が揺れ始めた。%K%P
+The ground suddenly begins to shake.%K%P
+0x7DC
+穏やかだった水面が、たちまちかき乱されて細波に震える。%K%P
+The calm surface of the water is disturbed by ripples%Nthat begin to violently form.%K%P
+0x7E8
+光の束はバラバラに砕けて、四方八方へと飛散した。%K%P
+The bundle of light shatters into pieces as it scatters%Nout in all directions.%K%P
+0x7F4
+『あっ！』と気がついたときにはもう遅かった。%K%P
+By the time I notice it, it's already too late.%K%P
+0x81C
+大きな水しぶきをあげ、いづみさんは%Nプールに落ちた。%K%P
+A giant sheet of water shoots up as Izumi-san falls into%Nthe pool.%K%P
+0x828
+くるみは…これはしたたかと言うのだろうか？…いづみさんを犠牲にした形で、ちゃっかり自分だけプールサイドに生き残っていた。%K%P
+Only Kurumi remains on the poolside, looking like she%Nsacrificed Izumi-san to save herself (is this what you'd%Ncall "determination"?).%K%P
+0x834
+水面に顔を出したいづみさんは、まるで小さな子供のように、ひどく脅え切った表情を浮かべていた……。%K%P
+Izumi-san's face, sticking out of the pool's surface, has%Nan expression like that of a scared stiff little kid...%K%P
+0x88C
+ふと我に返った。%K%P
+Suddenly, I come to my senses.%K%P
+0x898
+対面のプールサイドでは、いづみさんとくるみがじゃれあっている。%K%P
+On the opposite side of the pool, Izumi-san and Kurumi%Nare playing with each other.%K%P
+0x8A4
+（えっ！？）%K%P
+(What!?)%K%P
+0x8B0
+いづみ「こらっ！　いい加減にしないと怒るわよ！」%K%P
+Izumi「Hey! If you don't cut it out, I'll get mad!」%K%P
+0x8BC
+くるみ「へへ〜ん、こっこまでおいでぇ〜♪」%K%P
+Kurumi「Heh heh, catch Kurumi if you can!」%K%P
+0x8C8
+水際スレスレに立って挑発するくるみ。%K%P
+Kurumi stands close by the pool's edge, egging%NIzumi-san on.%K%P
+0x8F0
+（まただ……）%K%P
+(It's happening again...)%K%P
+0x8FC
+オレは直感で悟った。%K%P
+I understand it now.%K%P
+0x908
+（また、あの時と同じことが起きてる……）%K%P
+(This is the same thing that happened earlier...)%K%P
+0x914
+（月浜で、遙が転んだ時と同じことが……）%K%P
+(It's the same thing that happened when Haruka fell down%Non Moon Beach...)%K%P
+0x920
+そう思っている間にも、いづみさんは慎重な足取りで、ジリジリとくるみとの距離を詰めていく。%K%P
+As I'm thinking all of this, Izumi-san begins to carefully%Nclose the distance between her and Kurumi.%K%P
+0x92C
+その光景を前にして、とっさにオレは%Nこう叫んでいた。%K%P
+I quickly call out to her.%K%P
+0x938
+誠「ダメだよ、いづみさん！」%K%P
+Makoto「Don't do it, Izumi-san!」%K%P
+0x944
+いづみさんがチラッとこちらに目を向けた。%K%P
+Izumi-san glances in my direction.%K%P
+0x950
+しかしすぐに視線を元に戻し、その足を決して止めようとはしない。%K%P
+However, soon enough, she looks back at Kurumi, her%Nlegs still in motion.%K%P
+0x95C
+誠「いづみさん！」%K%P
+Makoto「Izumi-san!」%K%P
+0x968
+誠「くるみ！」%K%P
+Makoto「Kurumi!」%K%P
+0x974
+一段と声を張り上げてみたが、全く相手にされていないようだ。%K%P
+I try raising my voice even more, but it doesn't seem like%Neither of them can hear me.%K%P
+0x9C8
+これじゃ、らちがあかない。%K%Nただの普通の警告としか取ってもらえないんだ。%K%Nならばと……%K
+This isn't working out. I have to give them a more general%Nwarning. With that, I...%K
+0x10E8
+『いづみさん、地震が来るんだよ！！』
+"Izumi-san, an earthquake's coming!!"
+0x10F4
+２人の元へ駆け寄った
+Run over to them.
+0xA08
+これじゃ、らちがあかない。%K%Nただの普通の警告としか取ってもらえないんだ。%K%Nならばと……%K%P
+This isn't working out. I have to give them a more general%Nwarning. With that, I...%K%P
+0xA14
+誠「いづみさん、地震が来るんだよ！！」%K%P
+Makoto「Izumi-san, an earthquake's coming!!」%K%P
+0xA20
+……そう叫んでみた。%K%P
+... try shouting.%K%P
+0xA2C
+その言葉を聞いて、くるみがクルリと振りかえる。%K%P
+Hearing my words, Kurumi turns towards me.%K%P
+0xA38
+しかしその隙を突いて……%K%P
+But by taking that chance...%K%P
+0xA44
+いづみ「ほら、捕まえたっ！」%K%P
+Izumi「There, I've got you now!」%K%P
+0xA50
+……いづみさんは遂に……くるみの袖を%Nつかんでしまった。%K%P
+... Izumi-san finally... grabs Kurumi by the sleeve.%K%P
+0xABC
+全てわかっていたことだ……。%K%P
+I already know what's going to happen...%K%P
+0xAC8
+大地は揺れ、水面は波立ち、光は出鱈目な方向へと飛び散る。%K%P
+The ground shakes, the pool ripples, and the lights fly%Naround in random directions.%K%P
+0xAD4
+この瞬間にはもう手遅れで……。%K%P
+By now, it's too late...%K%P
+0xAFC
+大きな水しぶきがあがり、いづみさんはプールに落ちるのだ。%K%P
+A giant sheet of water shoots up as Izumi-san falls into%Nthe pool.%K%P
+0xB08
+水面に顔を出したいづみさん……ひどく脅え切ったその表情も、ついさっき見たものと、何ひとつ変わる所は無い。%K%P
+Her face emerges from the pool... with a frightened look%Non it. Absolutely nothing has changed from what I saw...%K%P
+0xB48
+……やがて、大地は落ち着きを取り戻し……%K%N
+... Soon enough, the ground calms down...%K%N
+0xB7C
+……水面に、再び静寂が訪れた。%K%P
+... The surface of the pool is once again still.%K%P
+0xB88
+プールサイドにあがったいづみさんは、頭の天辺から足の先までびしょびしょに濡れ尽くしているようだ。%K%P
+Izumi-san has climbed out of the pool, and is completely%Nsoaked from head to toe.%K%P
+0xB94
+見事に生き残ったくるみと、まんまとやられてしまったいづみさん……。%K%P
+The completely dry Kurumi, and the utterly soaked%NIzumi-san...%K%P
+0xBA0
+姉妹はお互いに顔を見合わせ……%K%P
+The sisters stare at each other's faces...%K%P
+0xBAC
+……そして、いきなり弾かれたように声をたてて笑い始めた。%K%P
+... And suddenly, they begin to laugh.%K%P
+0xBC8
+その幸せそうな笑い声が、彼女達の関係を如実に物語っているような気がする。%K%P
+Their happy laughter feels like a testament of their%Nrelationship.%K%P
+0xBD4
+いつ果てるともなく、笑い続ける２人……。%K%P
+Those two continue to laugh with no signs of stopping...%K%P
+0xBE0
+（はぁ……やれやれだ……）%K%P
+(Haah... Oh brother...)%K%P
+0xBEC
+オレはため息を洩らしつつ、反対側のプールサイドへと向かった。%K%P
+I let out a sigh, and face the other side of the pool.%K%P
+0xBF8
+このまま放っておいたら、日が昇るまで笑い続けているかもしれない。%K%P
+If they continue like this, their laughter may reach the%Nsun.%K%P
+0xC04
+２人の声はホテルの壁に反射して、高く高く響き渡っていた。%K%P
+Their two voices reverberate off the wall of the hotel,%Nresounding louder and louder.%K%P
+0xC10
+当然の結果として、その直後、オレ達は雷鳴のような警備員の怒鳴り声を聞くはめになったのだった……。%K%P
+As a result, we soon hear a security guard shouting as%Nloud as thunder...%K%P
+0xC3C
+オレは２人の元へ駆け寄った。%K%P
+I run towards them.%K%P
+0xC48
+オレは知っている。たぶんこれは……。%Nだから助けなきゃいけない！%K%P
+I know what's going to happen. This is probably... Anyway,%NI have to save them!%K%P
+0xC54
+くるみの元へジリジリと寄るいづみさん。%K%P
+Izumi-san slowly approaches Kurumi.%K%P
+0xC60
+……間に合うのか？%K%P
+... Will I make it?%K%P
+0xC6C
+誠「いづみさん、待って！！」%K%P
+Makoto「Izumi-san, wait!!」%K%P
+0xC78
+オレは叫ぶ。%K%P
+I shout.%K%P
+0xC8C
+いづみ「くるみ、観念しなさい！」%K%P
+Izumi「Kurumi, prepare yourself!」%K%P
+0xCA0
+しかし、オレの言葉はいづみさんに届いていない。%K%P
+But Izumi-san doesn't hear me.%K%P
+0xCAC
+誠「くるみ、地震が来るんだよ！　すぐにプールから離れろ！」%K%P
+Makoto「Kurumi, an earthquake's coming! Get away from the pool%Nright now!」%K%P
+0xCB8
+今度はくるみに向かって叫ぶ。%K%P
+This time, I shout at Kurumi.%K%P
+0xCCC
+くるみ「え？　今……なんて？」%K%P
+Kurumi「Huh? What did... you say?」%K%P
+0xCE0
+くるみの注意が、いづみさんからオレに移る。%K%P
+Kurumi's attention shifts from Izumi-san to me.%K%P
+0xCEC
+……と、その時！%K%P
+... But, at that moment!%K%P
+0xCF8
+いづみ「ほら、捕まえたっ！」%K%P
+Izumi「There, I've got you now!」%K%P
+0xD04
+……いづみさんは遂に……くるみの袖を%Nつかんでしまった。%K%P
+... Izumi-san finally... grabs Kurumi by the sleeve.%K%P
+0xD70
+全てわかっていたことだ……。%K%P
+I already know what's going to happen...%K%P
+0xD7C
+大地は揺れ、水面は波立ち、光は出鱈目な方向へと飛び散る。%K%P
+The ground shakes, the pool ripples, and the lights fly%Naround in random directions.%K%P
+0xD88
+この瞬間にはもう手遅れで……。%K%P
+By now, it's too late...%K%P
+0xDB0
+大きな水しぶきがあがり、いづみさんはプールに落ちるのだ。%K%P
+A giant sheet of water shoots up as Izumi-san falls into%Nthe pool.%K%P
+0xDBC
+水面に顔を出したいづみさん……ひどく脅え切ったその表情も、ついさっき見たものと、何ひとつ変わる所は無い。%K%P
+Her face emerges from the pool... with a frightened look%Non it. Absolutely nothing has changed from what I saw...%K%P
+0xDFC
+……やがて、大地は落ち着きを取り戻し……%K%N
+... Soon enough, the ground calms down...%K%N
+0xE30
+……水面に、再び静寂が訪れた。%K%P
+... The surface of the pool is once again calm.%K%P
+0xE3C
+（はぁ……やれやれだ……）%K%P
+(Hah... Oh brother...)%K%P
+0xE48
+オレはため息を洩らしつつ、いづみさんの落ちた所まで駆け寄った。%K%P
+I let out a sigh, and run over to where Izumi fell.%K%P
+0xEA8
+プールサイドにあがったいづみさんは、頭の天辺から足の先までびしょびしょに濡れ尽くしている。%K%P
+Izumi-san has climbed out of the pool, and is completely%Nsoaked from head to toe.%K%P
+0xEB4
+見事に生き残ったくるみと、まんまとやられてしまったいづみさん……。%K%P
+The dry Kurumi, and the soaked Izumi-san...%K%P
+0xEC0
+姉妹はお互いに顔を見合わせ……%K%P
+The sisters stare at each other's faces...%K%P
+0xECC
+……そして、いきなり弾かれたように声をたてて笑い始めた。%K%P
+... And suddenly, they begin to laugh.%K%P
+0xED8
+その幸せそうな笑い声が、彼女達の関係を如実に物語っているような気がする。%K%P
+Their happy laughter feels like a testament of their%Nrelationship.%K%P
+0xEE4
+いつ果てるともなく、笑い続ける２人……。%K%P
+Those two continue to laugh with no signs of stopping...%K%P
+0xEF0
+このまま放っておいたら、日が昇るまで笑い続けているかもしれない。%K%P
+If they continue like this, their laughter may reach the%Nsun.%K%P
+0xEFC
+２人の声はホテルの壁に反射して、高く高く響き渡っていた。%K%P
+Their two voices reverberate off the wall of the hotel,%Nresounding loudly and loudly.%K%P
+0xF08
+当然の結果として、その直後、オレ達は雷鳴のような警備員の怒鳴り声を聞くはめになったのだった……。%K%P
+As a result, we soon hear a security guard shouting as%Nloud as thunder...%K%P

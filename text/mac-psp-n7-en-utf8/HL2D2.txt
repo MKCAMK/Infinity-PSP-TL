@@ -1,0 +1,219 @@
+text area offset and size:
+0x8D0
+0xF44
+0x150
+オレはこの日、沙紀が高波に呑みこまれるという%N事実を知っている。%K%N
+I know that Saki will be swallowed up by that monstrous%Nwave today.%K%N
+0x15C
+絶対に未然に防がなければならない……。%K%P
+I have to find some way to prevent it...%K%P
+0x168
+思えば、すべての歯車が狂い始めたのは、すべてこの事件からだったのだから……。%K%P
+When I think about it, it was because of this incident%Nwhen everything started going wrong...%K%P
+0x174
+さて、決めたのはいいが、オレはどこから手をつけたものかと迷っていた。%K%P
+Well, it's great and all that I've decided to try to prevent%Nit, but where do I begin and how?%K%P
+0x180
+結局ズルズルと、みんなに流されるがままに、%Nここまでやって来てしまった。%K%P
+In the end, I went with the flow along with everyone else,%Nand now we've finally arrived here.%K%P
+0x18C
+釣り竿を抱えながら、防波堤を歩くオレ達。%Kこのままでは前回と同じ結果をたどってしまう。%K%P
+We walk to the pier while carrying our fishing rods. At this%Nrate, the result will be the same as last time.%K%P
+0x198
+ダメだ……！%K　そんなことは許されない……！！%K%N
+No way...! I can't let that happen...!%K%N
+0x1A4
+絶対にっ……！！%K%P
+Absolutely not...!!%K%P
+0x1B0
+とりあえず、沙紀を防波堤の方に行かせなければ%Nいいのだろうか……？%K%Nいや、その前に沙紀と遙の言い争いを%N止めるべきでは……？%K
+Anyway, I need to stop Saki from going out towards the%Npier... No, before that, should I stop Saki and Haruka's%Nquarrel...?%K
+0x8A8
+沙紀に話しかける
+Call out to Saki.
+0x8B4
+遙に話しかける
+Call out to Haruka.
+0x1F0
+オレは沙紀に話しかけた。%K%P
+I call out to Saki.%K%P
+0x20C
+誠「おーい、沙紀！」%K%P
+Makoto「Hey, Saki!」%K%P
+0x23C
+沙紀「なに？」%K%P
+Saki「What?」%K%P
+0x248
+誠「あのー……」%K%P
+Makoto「Um...」%K%P
+0x254
+誠「えーと……」%K%P
+Makoto「Err...」%K%P
+0x260
+誠「そのー……」%K%P
+Makoto「Well...」%K%P
+0x274
+沙紀「何よ、はっきりしない人ねぇ」%K%P
+Saki「Geez, spit it out already.」%K%P
+0x280
+（し、しまった……！%K%N　何を話すのか考えてないじゃないかっ……！）%K%P
+(D-Dammit...! I can't think of anything to say...!)%K%P
+0x28C
+えーと……%K話題、%K話題……。%K%P
+Umm... What to say, what to say...%K%P
+0x2B0
+優夏「ねえ、誠？」%K%P
+Yuka「Hey, Makoto?」%K%P
+0x2E0
+その時、優夏が話しかけてきた。%K%P
+Just then, Yuka calls out to me.%K%P
+0x2EC
+誠「ちょっと今忙しいんだ！」%K%P
+Makoto「I'm a little busy right now!」%K%P
+0x2F8
+優夏「ちょっと、大事な話があるの」%K%P
+Yuka「I have something important to talk about.」%K%P
+0x304
+誠「だから、忙しいんだって！」%K%P
+Makoto「I told you, I'm busy!」%K%P
+0x310
+優夏「やな予感がするのよ……」%K%P
+Yuka「I have a bad feeling...」%K%P
+0x31C
+誠「わかってるよ！　そんなこと！」%K%P
+Makoto「I know that!」%K%P
+0x328
+誠「だから……だからオレは今……」%K%P
+Makoto「I told you... right now, I'm...」%K%P
+0x344
+オレは遙に話しかけた。%K%P
+I call out to Haruka.%K%P
+0x350
+誠「なあ、遙？　オレがしっかり釣りを%N教えてやるからな？」%K%P
+Makoto「Say, Haruka? Would you like me to teach you how to fish?」%K%P
+0x380
+遙「……」%K%P
+Haruka「...」%K%P
+0x38C
+誠「任せとけってオレの釣りの腕ときたら、%Nそりゃぁもう……」%K%P
+Makoto「When it comes to fishing, I'm not the greatest, but I can%Nstill...」%K%P
+0x3B0
+億彦「おいっ、石原！」%K%P
+Okuhiko「Hey, Ishihara!」%K%P
+0x3E0
+億彦「お前ちょっと、遙ちゃんに馴れ馴れしすぎるぞ」%K%P
+Okuhiko「You're getting way too friendly with Haruka-chan.」%K%P
+0x3EC
+誠「お前には関係ねぇだろ！」%K%P
+Makoto「It doesn't concern you!」%K%P
+0x400
+億彦「それが関係あるんだよ！」%K%P
+Okuhiko「It does concern me!」%K%P
+0x40C
+誠「いいから、邪魔するな！%K　今忙しいんだ！」%K%P
+Makoto「Look, just piss off! I'm busy right now!」%K%P
+0x418
+億彦「何が忙しいんだよ！？」%K%P
+Okuhiko「With what!?」%K%P
+0x424
+誠「お前とこうしているうちにっ……！！」%K%P
+Makoto「Instead of wasting time with you, I could be...!!」%K%P
+0x438
+その時、沙紀の声が響いた。%K%Nいつの間にか、沙紀と遙が言い争っていた。%K%Nオレはすぐさま走り出したが……。%K%P
+At that time, I hear the echo of Saki's voice. Saki and%NHaruka had started quarreling without me noticing. I%Nimmediately start running...%K%P
+0x44C
+沙紀「キャアーーーッ！」%K%P
+Saki「AAAAAH!」%K%P
+0x474
+悲鳴とともに、凄まじい波音がとどろいた。%K%P
+Saki screams at the same time as the booming roar of a%Nwave breaks out.%K%P
+0x480
+間に合わなかった。信じられないほどの高波が、%Nしぶきをあげて防波堤を襲っていた！%K%P
+I didn't make it in time. The unbelievably large wave%Nstrikes the pier with a large sheet of water!%K%P
+0x494
+叩きつけるように沙紀の体を包み込み、%Nあっという間に呑み込んでしまった！%K%P
+As it strikes, the wave devours Saki and drags her into%Nthe ocean!%K%P
+0x4A0
+オレは、その場に凍りついていた。%K%P
+I'm frozen in place.%K%P
+0x4AC
+（しまった……）%K%P
+(Dammit...)%K%P
+0x4B8
+（防げなかった……%Kわかっていたのに%N防げなかった……）%K%P
+(I couldn't prevent it... Even though I knew about it, I%Ncouldn't prevent it...)%K%P
+0x4E0
+その時だ。ただひとり走り出したいづみさんが、%N防波堤の先から海に飛び込んだ！%K%P
+Izumi-san runs and dives into the ocean off of the tip of%Nthe pier!%K%P
+0x4EC
+（いづみさん……！）%K%P
+(Izumi-san...!)%K%P
+0x508
+（──いや、大丈夫な筈だ……）%K%P
+(―No, she should be all right...)%K%P
+0x514
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x558
+結局、またいづみさんが助けることに%Nなってしまった。%K%N
+In the end, Izumi-san saves her again.%K%N
+0x564
+オレは波打ち際に立ちつくしたままだった。%K%P
+I stand stock-still on the beach.%K%P
+0x59C
+（変えようとした……%K変えようと努力した……）%K%P
+(I tried to change this... I tried hard to change this...)%K%P
+0x5A8
+しかし、現実に事件は再び起こってしまった。%K%N
+But the reality is that the incident happened again.%K%N
+0x5B4
+やはり、オレひとりの意志で歴史を変えるなどということは、不可能なのだろうか……？%K%P
+Then is it impossible for just my will to change history...?%K%P
+0x60C
+沙紀を病院に運んだ帰り道、みんなの表情は%Nとても穏やかだった。%K緊張の糸がほぐれた、とでも%N言うのだろうか？%K%P
+On the way back, everyone seems to be at ease.%K I%Nguess you could say that the tension in the%Natmosphere somehow unwinded.%K%P
+0x618
+『とにかく無事で良かった』という安堵感に、%Nそれぞれが浸っているように見えた。%K%P
+Everybody seems to be relieved that everything turned%Nout all right.%K%P
+0x624
+燃え上がるような夕陽の赤が、より一層みんなの心を和ませてくれたのかもしれない。%K%P
+The fiery, red sunset is also probably contributing to%Nthe reason why everyone's hearts are calming down.%K%P
+0x630
+しかし……%Kしかしオレだけは、他のみんなとは%N別のことを考えていた……。%K%P
+However...%K However, I'm probably the only one still%Nanxious...%K%P
+0x698
+『どうすれば歴史を変えることができるのか？』%K%N……オレはその１点のみを思索していた。%K%P
+"How can I change history? Is it even possible?" ...%NThat's the question endlessly revolving in my mind.%K%P
+0x6C0
+ひとりベッドに入ってからも、同じことだけを%N考え続けている。%K%P
+When I get into bed, I can only continue thinking the same%Nthing.%K%P
+0x6CC
+今日の、沙紀が高波にさらわれた事件は、%N変えることができなかった。%K%P
+I failed to prevent Saki from being swallowed up by that%Nmonstrous wave.%K%P
+0x6D8
+しかし、現実にオレは過去の記憶を持っているし、%N過去を完璧になぞっているというわけでもない……。%K%P
+Still, it's not like this past is exactly the same as my%Nmemories of the one before...%K%P
+0x6E4
+いや、そもそも『過去』という概念そのものが%Nこの状況を誤認しているのではないだろうか？%K%N
+No, in the first place, is it accurate to consider this the%N"past"?%K%N
+0x6F0
+これから体験することは『過去』ではなく『未来』%Nなのだから……。%K%P
+After all, events you experience at points ahead in time%Nare not the "past", but the "future"...%K%P
+0x6FC
+何にしても、明日が勝負だ。%K%N遙がクローンであることが暴露された日……。%K%N
+Either way, it doesn't change that tomorrow will be a%Nchallenge. The day Haruka was revealed to be a clone...%K%N
+0x708
+あの最悪の展開だけは避けなければならない。%K%P
+I have to find some way to stop that from happening.%K%P
+0x714
+しかし、果たしてオレの意志と行動だけで、歴史は%N変化するのか……！？%K%P
+But can my will alone really change history...!?%K%P
+0x720
+あるいは、未来はあくまでも未来であって、%Nオレの窺い知ることの出来る範疇には無いのでは%Nないのか……？%K%P
+Or is the future, being what it is, just something I cannot%Ncomprehend, and therefore cannot change...?%K%P
+0x72C
+考えれば考えるほど、混乱してくる思考を%Nまとめることができなかった。%K%P
+I think as hard as I can, but I am unable to settle my%Ndisordered thoughts.%K%P
+0x738
+そして……%Kそしてオレはいつの間にか、深い眠りへと誘われていた……。%K%P
+And then...%K And then, before I know it, I fall into a deep%Nsleep...%K%P

@@ -1,0 +1,195 @@
+text area offset and size:
+0x510
+0xAF2
+0x5C
+ロッジに戻り、風呂から出たオレは、沙紀との事が気になったので、遙を部屋に招いて直接聞いてみようと思った。%K%P
+When I return to the lodge, I take a bath, and once I'm out,%NI decide to try inviting Haruka to my room so I can%Ndirectly ask her about what happened between her and%NSaki.%K%P
+0x78
+オレは、ストレートに聞くのが一番だと思った。%K%P
+I think asking her straight will be the best way.%K%P
+0x84
+防波堤で遙が沙紀に激しく話しかけているのを見たことを伝え、ズバリと切り込んだ。%K%P
+If I tell her that I saw her and Saki arguing at the pier,%Nthen I can settle this right away.%K%P
+0xB4
+誠「沙紀と何を話してたんだ？」%K%P
+Makoto「What were you talking to Saki about?」%K%P
+0xC0
+遙「……」%K%P
+Haruka「...」%K%P
+0xCC
+誠「……いや、話したくなきゃ、それはそれでいいんだけど……」%K%P
+Makoto「... It's fine if you don't want to tell me...」%K%P
+0xE0
+遙「釣りのやり方、教わろうと思って……けど、教えてくれなくて……」%K%P
+Haruka「I thought she could teach me how to fish... but she%Nwouldn't teach me.」%K%P
+0xEC
+違うな。%K%N
+That's not true.%K%N
+0xF8
+オレはハッキリわかっていた。それなのにオレの口から出た言葉は……%K%P
+I clearly understand that. Even so, the words that come%Nout of my mouth are...%K%P
+0x104
+誠「沙紀の奴、お嬢様だからな」%K%P
+Makoto「Talk about a spoiled rich girl.」%K%P
+0x110
+そういう問題じゃないのに……。%K%P
+Even though that's not the problem here...%K%P
+0x124
+遙「いいの……私は違うし……」%K%P
+Haruka「It's fine... Because I'm different...」%K%P
+0x130
+誠「何が？」%K%P
+Makoto「How so?」%K%P
+0x13C
+遙「ないから……心が……」%K%P
+Haruka「Because I have... no heart...」%K%P
+0x148
+誠「……」%K%P
+Makoto「...」%K%P
+0x154
+遙「釣りなんか、できなくてもいいの……」%K
+Haruka「It's fine if I can't fish...」%K
+0x4E8
+『オ、オレが教えてやるよ』
+"I-I'll teach you."
+0x4F4
+『心が……ない？』
+"You have no... heart?"
+0x19C
+誠「オ、オレが教えてやるよ」%K%P
+Makoto「I-I'll teach you.」%K%P
+0x1B8
+遙「……本当？」%K%P
+Haruka「... Really?」%K%P
+0x1C4
+オレはうなずいた。%K%N
+I give her a nod.%K%N
+0x1D0
+考えてみれば、オレは今まで遙のこと何も知ろうとしてなかった。%K%P
+Now that I think about it, up until now, I've never really%Ntried to learn about Haruka.%K%P
+0x1DC
+釣りを覚えたいなら、とことんつきあってやろうじゃないか。%K%P
+If she wants to learn how to fish, then I'll give her all the%Nhelp she needs.%K%P
+0x1E8
+そうやって遙のことを、遙の気持ちをわかっていくことが先決だ。%K%P
+I want to get to know her better and%Nstart to understand her feelings.%K%P
+0x1F4
+『心』がないなんて言ってる子の、%N気持ちの奥底を。%Kそれから沙紀とのことを聞いたっていいじゃないか。%K%P
+I want to understand the depths of the emotions of this%Ngirl who says she has no "heart". After that, won't it be%Nall right to ask her about Saki?%K%P
+0x200
+オレはそう思った。%K%P
+That's what I think.%K%P
+0x214
+誠「心が……ない？」%K%P
+Makoto「You have no... heart?」%K%P
+0x220
+遙「…………ないの」%K%P
+Haruka「... None.」%K%P
+0x22C
+心がない……いったいどういうことだろう？%K%N
+She "doesn't have a heart"... Just what does that mean?%K%P
+0x238
+遙はオレ達にはない何かを抱え込んでいるように見えた。%K%P
+Haruka seems to be dwelling on something by herself.%K%N
+0x244
+オレ達に決して心を開かない遙。それは彼女が言うように心がないから？　いや、それならばいっそ……。%K%P
+Haruka has never opened her heart to us. Is it because%Nshe really thinks she has no heart? Well then, if that's%Nthe case...%K%P
+0x250
+誠「オレが教えてやるよ」%K%P
+Makoto「I'll teach you.」%K%P
+0x264
+遙「……え？」%K%P
+Haruka「... Huh?」%K%P
+0x270
+誠「釣り。遙、釣り教えて欲しいんだろ？」%K%P
+Haruka「How to fish. You wanted to learn how to fish, right?」%K%P
+0x27C
+コクリと頷く遙。%K%P
+Haruka nods.%K%P
+0x298
+遙「本当に、教えてくれるの？」%K%P
+Haruka「Will you really teach me?」%K%P
+0x2A4
+今度はオレの方がうなずいた。考えてみれば、オレは今まで遙のこと何も知ろうとしてなかった。%K%P
+This time, I'm the one to nod. Now that I think about it, up%Nuntil now, I've never really tried to learn about Haruka.%K%P
+0x2B0
+釣りを覚えたいなら、とことんつきあってやろうじゃないか。そうやって遙のことを、遙の気持ちをわかっていくことが先決だ。%K%P
+If she wants to learn how to fish, then I'll give her all the%Nhelp she needs.%K%P
+0x2BC
+『心』がないなんて言ってる子の、気持ちの奥底を。%K%P
+I want to get to know her better and start to understand%Nher feelings.%K%P
+0x2C8
+それから沙紀とのことを聞いたっていいじゃないか。オレはそう思った。%K%P
+I want to understand the depths of the emotions of this%Ngirl who says she has no "heart".%K%P
+0x2D4
+誠「明日、２人で釣りに行こう」%K%P
+After that, won't it be all right to ask her about Saki?%NThat's what I think.%K%P
+0x2E0
+遙「……」%K%P
+Makoto「Tomorrow, the two of us will go fishing.」%K%P
+0x2EC
+誠「な？　約束だぞ？」%K%P
+Haruka「...」%K%P
+0x2F8
+遙「約束……」%K%P
+Makoto「Right? It's a promise.」%K%P
+0x304
+誠「そうだ。約束だ」%K%P
+Haruka「A promise...」%K%P
+0x310
+遙「どうして約束なんてできるの？」%K%P
+Makoto「That's right, a promise.」%K%P
+0x31C
+誠「え？」%K%P
+Haruka「How can we make something like a promise?」%K%P
+0x328
+遙「明日のことなんかわからない……んじゃない？」%K%P
+Makoto「Huh?」%K%P
+0x334
+誠「明日、何があっても行くんだよ。そう２人で決めるんだ」%K%P
+Haruka「You don't know what will happen tomorrow... right?」%K%P
+0x340
+遙「どうして決められるの？」%K%P
+Makoto「We'll go tomorrow, no matter what happens. That's what%Nwe've decided.」%K%P
+0x34C
+誠「それは……オレが遙を信じてるからだよ」%K%P
+Haruka「How can you decide that?」%K%P
+0x358
+遙「信じる……」%K%P
+Makoto「That's... because I trust you.」%K%P
+0x364
+誠「遙もオレを信じるんだ」%K%P
+Haruka「Trust...」%K%P
+0x370
+遙「私も、信じる……」%K%P
+Makoto「And you trust me too.」%K%P
+0x37C
+誠「そうだよ。そうやって信じあわなきゃ、約束なんてできない」%K%P
+Haruka「I trust you too...」%K%P
+0x388
+遙「信じあう……」%K%P
+Makoto「That's right. Without mutual trust, a promise means%Nnothing.」%K%P
+0x394
+誠「うん……」%K%P
+Haruka「Mutual trust...」%K%P
+0x3A0
+遙「私と……誠……これで信じあえたの？」%K%P
+Makoto「Yeah...」%K%P
+0x3AC
+誠「そうだよ」%K%P
+Haruka「So then, you... and I... can trust each other?」%K%P
+0x3B8
+誠「明日になってもこの約束を忘れないこと。%K%Nどんなことがあっても守ること。いいな？」%K%P
+Makoto「That's right.」%K%P
+0x3CC
+遙はゆっくりうなずいた。%K%N
+Makoto「When tomorrow comes, don't forget this promise. Keep it,%Nno matter what happens. All right?」%K%P
+0x3D8
+噛みしめるように。%K%P
+Haruka slowly nods.%K%N
+0x3E4
+こうやって少しずつ覚えていけばいい。%Nそうすればいつか『心』が生まれる。それが遙にも%N自覚できる筈だ。%K%P
+It looks like she wanted to say something.%K%P
+0x3F0
+オレはそう思っていた……。%K%P
+Like this, she'll learn more and more. Slowly, but surely,%Nher "heart" will be born. Even Haruka should be able to%Nrealize that.%K%P

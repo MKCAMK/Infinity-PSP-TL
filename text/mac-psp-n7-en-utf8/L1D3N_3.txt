@@ -1,0 +1,1134 @@
+text area offset and size:
+0x2880
+0x489F
+0x40
+ひっそりと静まり返る森の中、聞こえてくるのは夜道を行くオレ達の足音だけ。%K%P
+In the middle of the quiet, still forest, the only sound we%Nhear are our own footsteps that we make on this nightly%Nstroll.%K%P
+0x4C
+オレ達は、いづみさんを先頭にロッジに向かって歩いていた。%K%P
+We're walking back to the lodge, with Izumi-san in the lead.%K%P
+0x7C
+優夏「すっかり汗かいちゃったね……」%K%P
+Yuka「I'm so sweaty...」%K%P
+0x88
+優夏が肌に張り付いた服を摘み上げるようにして表情を曇らせている。%K%P
+Yuka frowns as she pinches her clothes, which have%Nstuck to her body.%K%P
+0xA4
+億彦「まったくだ……」%K%P
+Okuhiko「You can say that again...」%K%P
+0xB0
+優夏の言葉に同調して頷く億彦。その表情は少し青ざめて見える。%K%P
+Okuhiko nods sympathetically at her statement. His face%Nseems a little pale.%K%P
+0xBC
+それは、空から降り注ぐ淡い月明かりによってもたらされたものなのか、%K%P
+Is it due to the pale moonlight pouring down from the sky,%K%P
+0xC8
+はたまた、先ほどまで怯えていた恐怖からくるものなのか……まあ、どうでもいいことなのだが。%K%P
+or is it because of the fear he was feeling just a little%Nwhile ago...? Well, it doesn't really matter.%K%P
+0xE4
+遙「…………」%K%P
+Haruka「...」%K%P
+0xF0
+遙だけは何も言わない。%K%P
+Haruka alone says nothing.%K%P
+0xFC
+涼しげな表情で黙々といづみさんの後ろを歩いている。%K%P
+She walks behind the silent Izumi-san with a composed%Nexpression.%K%P
+0x110
+誠「帰ったらシャワーだよな」%K%P
+Makoto「Let's take showers when we get back.」%K%P
+0x11C
+オレは３人に向かって、そう言葉を返す。%K%P
+I suggest this to my fellow Seminar Camp members.%K%P
+0x128
+優夏と億彦は、『当然』と言わんばかりに頷き返す。%K%P
+Yuka and Okuhiko nod in agreement.%K%P
+0x13C
+くるみ「あー！　くるみも、くるみも〜」%K%P
+Kurumi「Ah! Kurumi too, Kurumi too〜」%K%P
+0x148
+遙のとなりを歩いていたくるみが、それを聞いて%Nはしゃぎだした。%K%P
+Kurumi, who's walking next to Haruka, is in high spirits%Nafter hearing us.%K%P
+0x164
+いづみ「あ、そうそう。近くに露天風呂の温泉があるのよ」%K%P
+Izumi「Oh, right. There's actually an open air hot spring nearby.」%K%P
+0x170
+……と、先頭を歩いていたいづみさんが、待っていたとばかりに振り向きざま、そう告げた。%K%P
+... As if she had been anticipating it, Izumi-san abruptly%Nturns around to inform us of this.%K%P
+0x17C
+突然、立ち止まったものだから、すぐ後ろを歩いていた遙とくるみは、ボフッといづみさんの胸に顔をぶつける。%K%P
+Since she is at the head of the group, Haruka and Kurumi,%Nwho were walking right behind her, both crash their%Nfaces into Izumi's chest.%K%P
+0x198
+くるみ「も〜、お姉ちゃん！%N突然、立ち止まんないでよぉ〜」%K%P
+Kurumi「Geez〜, Onee-chan! Don't stop so suddenly〜」%K%P
+0x1A4
+遙「…………」%K%P
+Haruka「...」%K%P
+0x1B0
+当然のように、いづみさんを叱責するくるみ。%K%P
+Naturally, Kurumi reprimands Izumi-san.%K%P
+0x1BC
+遙も両手で鼻を抑えて、無言ながら、いづみさんに非難の目を向けている。%K%P
+Haruka silently shoots Izumi-san a flustered look as she%Nnurses her nose.%K%P
+0x1C8
+いづみさんは、ゴメンゴメン……と２人をあやしつつ、『行きたい？』ってな表情でオレ達を見やる。%K%P
+Izumi-san hastily apologizes, though her mind is clearly%Nstill on the hot springs. She looks at us with a face that%Nsays, "Do you want to go?"%K%P
+0x1E4
+優夏「え〜？　ホント！？　ねぇねぇ、みんなで入りにいこうよ！」%K%P
+Yuka「Huh? Really!? Hey, let's go there, guys!」%K%P
+0x1F0
+なぜか大はしゃぎしだす優夏。%K%P
+Yuka gets really excited.%K%P
+0x1FC
+オレも億彦も『いいですね〜』って感じで頷く。%K%P
+Okuhiko and I nod as if to say "sounds good".%K%P
+0x208
+遙からは反応がないが、何も言わないところを見ると、特に反対しているようではないようだ。%K%P
+Haruka doesn't respond, but it doesn't seem like she%Nhas any particular objections against it.%K%P
+0x25C
+くるみ「…………」%K%P
+Kurumi「...」%K%P
+0x268
+だが、くるみだけは、さっきまでの元気は%Nどこへやら、うつむき、黙りこんでしまっていた。%K%P
+However, Kurumi silently hangs her head downwards, all%Nthe enthusiasm she had mere moments ago suddenly%Ngone.%K%P
+0x290
+いづみ「くるみも……、いいよね？」%K%P
+Izumi「Kurumi... are you also okay?」%K%P
+0x29C
+それは、まるで厳かな儀式を開始する際の確認のような聞き方だった。%K%P
+She asked the question as if to make sure that Kurumi%Nwas ready for a solemn ritual to begin.%K%P
+0x2A8
+やや不安げに、くるみを見つめるいづみさん。%K%P
+Izumi-san uneasily looks at Kurumi.%K%P
+0x2BC
+しばらくして、『ニコリ』と微笑みながら、いづみさんに頷くくるみ。%K%P
+After a short while, Kurumi nods to Izumi-san while giving%Na sweet smile.%K%P
+0x2D0
+それを見たいづみさんは、ふっと表情を和らげて頷き返す。%K%P
+When she sees that, Izumi-san's expression suddenly%Nrelaxes and she nods back.%K%P
+0x2DC
+誠「？？」%K%P
+Makoto「??」%K%P
+0x320
+いづみ「ちなみに……」%K%P
+Izumi「Incidentally...」%K%P
+0x32C
+いづみ「そこ、混浴なんだけど……」%K%P
+Izumi「The hot springs are mixed bathing...」%K%P
+0x340
+億彦「えっ！？」%K%P
+Okuhiko「What!?」%K%P
+0x34C
+それを聞いて、顔を輝かせる億彦。%K%P
+Upon hearing that, Okuhiko's face seems to light up.%K%P
+0x358
+横目でチラリと遙を見た……ようだったが、気のせいだろうか？%K%P
+He takes a fleeting, sidelong glance at Haruka... so it%Nseems, or is it just my imagination?%K%P
+0x364
+誠「それは……いくらなんでも、まずいんじゃないんですか？」%K%P
+Makoto「That's... Say what you like, but don't you think that's a bit%Ntoo dangerous?」%K%P
+0x370
+億彦を見て、なんだか気がひけるオレ。%K%P
+Looking at Okuhiko, I feel kinda reluctant.%K%P
+0x37C
+なにも、狼の前に羊を放たなくても……。%K%P
+It'll be like throwing sheep in front of a wolf...%K%P
+0x390
+いづみ「う〜ん……、年頃の男女が混浴……。やっぱり、まずいかしら？」%K%P
+Izumi「Hmm... Well, we have both men and women... Maybe it really%Nis too dangerous?」%K%P
+0x39C
+自分で言い出しておきながら、いづみさんは本当に困ったような表情で腕組みする。%K%P
+Izumi-san folds her arms with a troubled face upon%Nhearing my point.%K%P
+0x3B8
+優夏「男女交代で入れば問題ないって♪」%K%P
+Yuka「If we alternate going in between men and women, then%Nthere's no problem at all♪」%K%P
+0x3C4
+しかし、そんなことはお構いなくとばかりに、平然と言い放つ優夏。%K%P
+However, Yuka calmly declares this, not seeming to have%Nfussed over the matter.%K%P
+0x3E0
+億彦「……ちっ！」%K%P
+Okuhiko「... Tch!」%K%P
+0x3EC
+小さく舌打ちする億彦。%K%P
+Okuhiko clicks his tongue.%K%P
+0x400
+……オレの危惧したことは気のせいではなかったようだ。%K%P
+... It seems my fears weren't part of my imagination after%Nall.%K%P
+0x40C
+しかし、ホッとする反面、どうせ入るなら一緒の方がいいと、頭の隅で考えていたりするオレ……。%K%P
+However, in the corners of my mind, I think that while I'm%Nrelieved, I also kinda would have liked it if we had gone in%Ntogether...%K%P
+0x418
+オレも正常な男性だからな……。%K%P
+Guess I'm just a normal guy after all...%K%P
+0x42C
+くるみ「だめだめ〜、そんなんじゃ。お兄ちゃんとおっくんに覗かれないって保証ないもん！」%K%P
+Kurumi「No way, no way, that's not good. There's no guarantee%Nthat Onii-chan and Okkun won't try to peek!」%K%P
+0x438
+それぐらいじゃ『絶対に覗かれる』とばかりに言い放つくるみ。%K%P
+Kurumi seems to think that we'll definitely peek.%K%P
+0x444
+オレ達、よっぽど信用されていないんだな……。%K%P
+She doesn't have much faith in us, huh...%K%P
+0x458
+いづみ「そういえば、あそこの温泉って、一応柵でくくってあるけど、もうボロボロなのよね……」%K%P
+Izumi「Now that you mention it, there's a wall around that hot%Nspring, but it's completely tattered...」%K%P
+0x46C
+優夏「う〜ん……。それじゃ、水着つけて%N入るってのは？」%K%P
+Yuka「Hmm... Well then, what if we went in in our swimsuits?」%K%P
+0x478
+優夏「一旦帰って、水着を下に着こんでくるの。それなら着替えを覗かれる心配も問題ないでしょ？」%K%P
+Yuka「We can go back to get our swimsuits. Then once we've%Nchanged, we won't have to worry about getting peeked%Nat.」%K%P
+0x494
+億彦「おおっ！　それは、ナイスアイディアだよ。優夏ちゃん♪」%K%P
+Okuhiko「Oh! That's a nice idea, Yuka-chan♪」%K%P
+0x4B0
+いづみ「ふふふ……。実は、そんなことだろうと思って、しっかり水着を用意してたりして♪」%K%P
+Izumi「Hee hee hee... The truth is, I thought this might happen,%Nso I brought a swimsuit♪」%K%P
+0x4C4
+くるみ「えへへ〜♪」%K%P
+Kurumi「Eheheh〜♪」%K%P
+0x4D0
+そこで、悪戯っぽく微笑むいづみさん。%K%P
+Izumi-san gives an impish smile.%K%P
+0x4DC
+ペロッと舌なんか出していたりするくるみ。%K%P
+Kurumi is sticking her tongue out.%K%P
+0x4E8
+さては、２人とも最初からそのつもりだったな？%K%P
+Was this their plan from the beginning?%K%P
+0x4F4
+どうやら、オレ達の反応を見て楽しんでいたようだ。……ひどいよなぁ。%K%P
+It seems that they're having fun watching our reactions...%NThey're terrible.%K%P
+0x510
+優夏「なんだったら私達が入っている間、誠と億彦くんは木かなにかに縛り付けちゃおっか……」%K%P
+Yuka「Well, it seems that we won't need to find anything to tie%NMakoto and Okuhiko-kun up to a tree...」%K%P
+0x51C
+突然、とんでもないことを言い出す優夏。%K%P
+Suddenly, Yuka throws out a ridiculous suggestion.%K%P
+0x528
+お、おいおい。そいつはカンベンだ……。%K%P
+H-Hey, cut me a break...%K%P
+0x544
+億彦「ち、ちょっとは信用してくれよ……」%K%P
+Okuhiko「H-Have some faith in us...」%K%P
+0x550
+泣きそうな顔で億彦。%K%P
+Okuhiko looks like he's about to cry.%K%P
+0x55C
+もしかしたら、オレもそんな顔をしているのかもしれない。%K%P
+I probably look the same.%K%P
+0x578
+優夏「まあ、それは冗談だとして……」%K%P
+Yuka「Well, it was just a joke...」%K%P
+0x58C
+優夏「じゃあ、そういうことで決定〜♪」%K%P
+Yuka「Well then, it's decided〜♪」%K%P
+0x598
+優夏「各自ロッジで水着を着こんで、２０分後にロッジ玄関前に集合ねっ」%K%P
+Yuka「We'll each go in the lodge, get our swimsuits, and meet in%N20 minutes at the front door.」%K%P
+0x5A4
+だが、当の優夏はそんなことどうでもいいみたいに、どんどん話を進めてしまっていた。%K%P
+But Yuka continues the conversation as if we're not%Neven there.%K%P
+0x5B0
+……ん？　なんか変だよな。このやりとり。%K%P
+... Huh? Something's weird about this exchange.%K%P
+0x5BC
+誠「でも優夏？　オレ思ったんだけど……」%K%P
+Makoto「Hey, Yuka? I was thinking...」%K%P
+0x5D0
+優夏「ん？」%K%P
+Yuka「Hmm?」%K%P
+0x5DC
+誠「こういうときは女の子の方が渋って、男の方が説得にあたるっていうのが筋じゃないのか？」%K%P
+Makoto「In times like this, isn't it usually the girl who's reluctant to%Ngo to the hot springs, while the guy's the persuasive%None?」%K%P
+0x5F0
+優夏「まあまあ、そんなこと気にしない気にしない〜」%K%P
+Yuka「Now now, don't worry about it.」%K%P
+0x5FC
+そんなこんなで、再びロッジに向かって歩き出した。%K%P
+With that, we once again head towards the lodge.%K%P
+0x608
+優夏は足取り軽く、鼻歌なんか歌っていたりする。%K%P
+Yuka walks lightly, humming some song to herself.%K%P
+0x684
+ロッジに到着したオレ達は、各自、自分の部屋で着替えることになった。%K%P
+Once we enter the lodge, we each head to our own%Nrooms to change.%K%P
+0x690
+ちなみに、いづみさんとくるみは、優夏達の部屋を使用するとのこと。%K%P
+Incidentally, Izumi-san and Kurumi are using Yuka and%NHaruka's rooms.%K%P
+0x69C
+さて部屋へ入ろうかという時、%K%P
+Just when I'm about to enter my room...%K%P
+0x6B0
+くるみをじっと見ていた遙がこんなことを言った。%K%P
+Haruka stares firmly at Kurumi, and says this.%K%P
+0x6BC
+遙「くるみ……、肌きれい」%K%P
+Haruka「Kurumi... you have pretty skin.」%K%P
+0x6D0
+くるみ「え…………！？」%K%P
+Kurumi「Huh...!?」%K%P
+0x6EC
+優夏「…………？　%W%Wどうかした？　くるみちゃん」%K%P
+Yuka「...? Something wrong, Kurumi-chan?」%K%P
+0x6F8
+くるみ「う、%W%W%Wううん……。%W%Wなんでもないよ……。あ、%W%Wありがとう、遙さん……」%K%P
+Kurumi「N-No... it's nothing... Th-Thank you, Haruka-san...」%K%P
+0x704
+遙「……？」%K%P
+Haruka「...?」%K%P
+0x718
+優夏「でも、本当にそうだね。%Nくるみちゃん、背中洗いっこしようか♪」%K%P
+Yuka「But it's true. Kurumi-chan, what do you say to me giving%Nyou a back wash?」%K%P
+0x724
+……その時だ。%K%P
+... Just then.%K%P
+0x764
+くるみの顔がにわかに凍りついたのは。%K%P
+Kurumi's face suddenly freezes.%K%P
+0x770
+いづみさんが、はっと息を呑みこむのが聞こえる。%K%P
+I hear Izumi-san give a taken aback gasp.%K%P
+0x784
+くるみ「あ……%W%W%Wご、%W%W%Wごめん……」%K%P
+Kurumi「Ah... S-Sorry...」%K%P
+0x790
+くるみ「そう言えばくるみ、『お江戸でガッテン』見なくっちゃ」%K%P
+Kurumi「Now that Kurumi thinks about it, Kurumi's got to watch%N'Oedo Gatten'.」%K%P
+0x7A4
+優夏「へ？」%K%P
+Yuka「Huh?」%K%P
+0x7B0
+目を丸くする優夏。%K%P
+Yuka's eyes widen.%K%P
+0x7BC
+突然のことに、オレも何が何だか分からない。%K%P
+This unexpected event has also left me utterly%Nconfused.%K%P
+0x7C8
+誠「……ど、%W%W%Wどうしたんだ？　%W%W%Wくる……」%K%P
+Makoto「... Wh-What's wrong? Kuru...」%K%P
+0x7D4
+くるみ「あぁ……%W%W%W本当にごめん！　%Nどうしても見なくちゃいけないの……」%K%P
+Kurumi「Ah... Kurumi's really sorry! She has to see it no matter%Nwhat...」%K%P
+0x7E0
+くるみ「そのぅ……、%W%W%Wそう！　見ないと友達との会話に入れなくなっちゃうの」%K%P
+Kurumi「Umm... Right! If Kurumi doesn't watch it, she won't be able%Nto talk about it with her friends.」%K%P
+0x7EC
+オレの言葉を裂いて、必死で謝罪するくるみ。%K%P
+Kurumi interrupts me, giving a desperate apology.%K%P
+0x808
+いづみ「……そっか。それじゃ、しょうがないよね。%Nくるみ……」%K%P
+Izumi「... I see. Then it can't be helped. Kurumi...」%K%P
+0x814
+いづみさんは、悲しそうな顔をして、くるみの肩に手を置いた。%K%P
+With a sad face, Izumi-san places a hand on Kurumi's%Nshoulder.%K%P
+0x820
+くるみ「……ごめんね。お姉ちゃん」%K%P
+Kurumi「... Sorry, Onee-chan.」%K%P
+0x82C
+くるみは、今にも泣き出しそうだった。%K%P
+It seems like Kurumi could burst into tears at any time.%K%P
+0x840
+いづみさんは黙って首をふる。%K%P
+Izumi-san silently shakes her head.%K%P
+0x84C
+『いいのよ……』そう言っているかのように……。%K%P
+It's as if she's saying "It's fine..."%K%P
+0x858
+いづみ「じゃあ、私達は温泉行くけど……、くるみ、お留守番お願いね」%K%P
+Izumi「Well then, we're going to the hot springs... Kurumi, please%Nwatch over the lodge.」%K%P
+0x864
+くるみ「うん……」%K%P
+Kurumi「Yeah...」%K%P
+0x880
+……オレは思った。%K%P
+... I then think:%K%P
+0x894
+……オレは思った。%K
+... I then think:%K
+0x2800
+『所詮、テレビっ子か……』
+(What a TV addict...)
+0x280C
+『くるみ……どうしたんだ？』
+(Kurumi... what's wrong?)
+0x8D4
+所詮、くるみもテレビっ子なんだな……。%K%N
+(In the end, Kurumi's also a TV addict, huh...?)%K%N
+0x8E0
+オレはそう思った。%K%P
+That thought runs through my head.%K%P
+0x8F4
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x960
+しばらくして、各自着替えが終わって、玄関前に集合した。%K%P
+After changing our clothes, we all meet at the front door.%K%P
+0x96C
+優夏「それじゃ、くるみちゃん、行ってきま〜す♪」%K%P
+Yuka「Well then, we're off, Kurumi-chan♪」%K%P
+0x978
+くるみの見送りを受けて、オレ達は温泉へ向った。%K%P
+Kurumi watches us leave as we start walking towards%Nthe hot springs.%K%P
+0x984
+始めのうち、いづみさんは元気がなかったが、次第にいつもの調子に戻り、%K%P
+At first, Izumi-san wasn't that enthused,%K%P
+0x990
+オレは、いづみさんの事も、くるみの事も気にしなくなった。%K%P
+but she gradually grew more cheerful, so I stopped%Nworrying about her.%K%P
+0xA34
+やがて、行く先に湯気のようなものが上がっているのが確認できた。%K%P
+Soon enough, we're able to see something like steam%Nrising from our destination.%K%P
+0xA40
+気持ち、空気に硫黄の匂いが混じっているような感じがする。%K%P
+I can smell the scent of sulfur mixed in the air.%K%P
+0xA54
+遙「なんだか……臭い」%K%P
+Haruka「It kind of... stinks.」%K%P
+0xA68
+優夏「誠〜、女の子の前でオナラするなんて……。サイテー」%K%P
+Yuka「Makoto, farting in front of a girl... You're the worst.」%K%P
+0xA74
+誠「アホ！　これは温泉の匂いだろーが！」%K%P
+Makoto「Dumbass! That's the smell of the hot springs, right?!」%K%P
+0xA80
+鼻をつまんでオレを非難する優夏。%K%P
+I pinch my nose and reproach Yuka.%K%P
+0xA8C
+すかさず、つっこむオレ。%K%P
+Despite the stench, I keep moving forward.%K%P
+0xAA8
+いづみ「そもそも、ここを最初に見つけたのは……」%K%P
+Izumi「The one who first found this place was...」%K%P
+0xABC
+億彦「そういえば、ウチのパパも温泉を%N所有していて……」%K%P
+Okuhiko「By the way, my Papa also owns a hot spring...」%K%P
+0xAC8
+温泉のことについて語り出すいづみさん。%K%P
+Izumi-san is talking about the hot spring.%K%P
+0xAD4
+自慢話を始める億彦。%K%P
+Okuhiko interrupts to brag.%K%P
+0xAE0
+そんなこんなで、オレ達一向は、温泉目指して森の中を進んで行った。%K%P
+We ignore him as we advance towards the hot spring%Nthrough the forest.%K%P
+0xBCC
+その温泉はさして遠くなかった。%K%P
+The hot spring isn't very far.%K%P
+0xBD8
+オレ達は５分経つか経たないかのうちに目的地に着いてしまった。%K%P
+We arrive there in under five minutes.%K%P
+0xBE4
+それは、森の中にポツンと存在する天然の岩風呂だった。%K%P
+It's an isolated, natural hot spring surrounded by rocks,%Nlying in the middle of the forest.%K%P
+0xBF0
+夜はさすがに肌寒いので、モワモワと乳白色のお湯から立ちこめる湯気が、なんだかとても頼もしげに見える。%K%P
+In this chilly night, the enveloping steam coming from the%Nmilky white hot water seems very promising.%K%P
+0xC70
+優夏「わぁ〜♪　なんだかお猿さんでも、入っていそう……」%K%P
+Yuka「Wow♪ It kinda looks like a bath where you'd find a%Nbathhouse prostitute...」%K%P
+0xC84
+遙「……お猿？」%K%P
+Haruka「... Bathhouse prostitute?」%K%P
+0xC90
+優夏「知らないの、遙？　えっとねぇ……」%K%P
+Yuka「You don't know what those are, Haruka? Let's see...」%K%P
+0xC9C
+誠「バカ！　余計なことは教えんでいい！」%K%P
+Makoto「Idiot! Don't tell what's best left unknown!」%K%P
+0xCB0
+優夏「あ、ひどーい！」%K%P
+Yuka「Hey, what the hell?!」%K%P
+0xCCC
+頬を膨らまして抗議する優夏を無視して、オレは温泉について説明を始めたいづみさんに注目した。%K%P
+Ignoring the sulking Yuka, I turn my attention to Izumi-san,%Nwho's beginning to explain about the hot springs.%K%P
+0xCD8
+なんでも、ここは自然に涌き出た温泉で、管理人も所有者も不明なのだそうだ。%K%P
+It seems no one knows who's the manager and owner of%Nthese natural hot springs.%K%P
+0xCE4
+一応、温泉の周りは柵に囲まれているが、朽ち果てて隙間だらけ……。%K%P
+A wall had been built around the hot spring, but it's%Nrotted away to the point where it's riddled with gaps...%K%P
+0xCF0
+確かに、これじゃ覗きたい放題だ。%K%P
+You really could peek here as much as you liked.%K%P
+0xD0C
+優夏「ここの温泉って、何に効くんですか？」%K%P
+Yuka「Is this hot spring even safe to use?」%K%P
+0xD20
+いづみ「……え？　さあ……」%K%P
+Izumi「... Huh? Who knows...」%K%P
+0xD34
+優夏「あれ？　知らないんですか？」%K%P
+Yuka「Huh? You don't know?」%K%P
+0xD48
+いづみ「うん。でも、大丈夫。体に毒じゃないことは確かだから……」%K%P
+Izumi「No. But it's all right. I at least know it's not poisonous to%Nthe body...」%K%P
+0xD5C
+優夏「ふ〜ん……」%K%P
+Yuka「Hmm...」%K%P
+0xD68
+でもオレは、いづみさんの性格を考えて、ちょびっとだけ心配になる。%K%P
+I get a little worried when I start to consider how much of%Na ditz Izumi-san can be.%K%P
+0xD74
+ま、死ぬことはないだろうけど……。%K%P
+Well, we probably won't die, but...%K%P
+0xDC8
+優夏「そっれじゃー、いっちば〜ん！」%K%P
+Yuka「Well then, I'll go first!」%K%P
+0xDE8
+誠「ぬぉっ！！」%K%P
+Makoto「Whoa!!」%K%P
+0xDF4
+いきなり、服を脱ぎ出す優夏。知っていても、これには驚いた。%K%P
+Suddenly, Yuka takes off her clothes. I knew she was%Ngoing to do it, but it's still shocking.%K%P
+0xE08
+優夏「……？　どうしたの？」%K%P
+Yuka「...? Something wrong?」%K%P
+0xE14
+誠「……いや、なんでもない」%K%P
+Makoto「... No, it's nothing.」%K%P
+0xE20
+優夏「……そ。まあいいや」%K%P
+Yuka「... I see. Well, whatever.」%K%P
+0xE2C
+優夏は女の子らしく、そろそろとお湯に足を浸す……%K%P
+Yuka delicately dips her foot in the hot spring, like most%Ngirls would...%K%P
+0xED0
+ことなく、ザボーンとお湯に飛びこむ。%K%P
+... before she suddenly dives into the hot spring with a%Nsplash.%K%P
+0xEF8
+優夏「う〜ん、いいお湯加減〜♪」%K%P
+Yuka「Mmm, the water temperature is really good♪」%K%P
+0xF04
+はぁ〜……もう、ついてゆけん。%K%P
+Haah〜... Geez, you're such a kid.%K%P
+0xF2C
+やがて、他のみんなも次々と服を脱いで、温泉に入っていった。%K%P
+Soon enough, everyone takes off their clothes one by%None and enters the hot spring.%K%P
+0xF38
+さて……オレも入ろうかな？%K%P
+Well then... should I enter as well?%K%P
+0xF64
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0xF9C
+……入ってから１０分が経過した。%K%N
+... It's been ten minutes since I've entered.%K%N
+0xFA8
+だんだんと茹だってきたのを感じる。%K%N
+I feel more and more like I'm boiling up.%K%N
+0xFB4
+あぁ〜……頭がボーッとしてくる……。%K%P
+Aah〜... I'm completely relaxed...%K%P
+0xFC0
+そこで、オレは……。%K
+Well then, I'll...%K
+0x2818
+『ふぃ〜』縁に腰掛ける
+(Whew...) Sit up on the edge of a rock.
+0x2824
+『ボボンガボンボンボ〜ン♪』歌い出す
+(Duh duh duh dah duh♪) Sing.
+0x2830
+『ス〜イスイ……』平泳ぎを始める
+(Whoosh〜 Whoosh...) Start breast stroking.
+0x283C
+『なんのこれしき！』浸かり続ける
+(Good enough!) Simply bask in the water.
+0x1070
+ザバッ！　岩でできた縁に腰掛ける。%K%P
+*SPLASH!* I sit on the edge of a rock.%K%P
+0x107C
+穏やかに吹いてくる夜風にさらされて、茹だった上半身がすこぶる気持ちいい。%K%P
+The gentle night's breeze feels pleasant and cool%Nagainst my burning hot skin.%K%P
+0x1088
+誠「ふぃ〜……」%K%P
+Makoto「Whew...」%K%P
+0x1094
+上半身だけ冷たい風にさらし、下半身は熱いお湯につけたまま。%K%P
+Only the top half of my body is exposed to the cold%Nwind, as my lower half is still submerged in the hot water.%K%P
+0x10A0
+これぞ、露天風呂の醍醐味！%K%P
+This is the true charm of open air hot springs!%K%P
+0x10AC
+はぁ〜……でも本当にいい気持ちだ。こんな気分で風呂に入るのは何年ぶりだろう。%K%P
+Haah〜... But this seriously feels good. I wonder how%Nmany years it's been since going in a bath has made me%Nfeel so good.%K%P
+0x10B8
+思えば、この合宿にやって来て色んな事があったけど、『安らぎ』を感じるのは初めてではないだろうか？%K%P
+Now that I think about it, we've done a lot of different%Nthings at this camp, but it's all felt so peaceful.%K%P
+0x10C4
+……その時、億彦の声が耳に入ってきた。%K%P
+... At that time, I hear Okuhiko's voice.%K%P
+0x10D0
+誰かに話しかけているようだ。%K%P
+He's apparently talking to someone.%K%P
+0x10DC
+そろそろと、声の方向へ進む。%K%P
+I quietly turn my head in the direction of his voice.%K%P
+0x10E8
+……いた。すぐ近くには遙もいた。２人して肩までお湯に浸っている。%K%P
+... There he is. Soon, I also see Haruka. The two of them%Nhave their shoulders submerged in the hot water.%K%P
+0x10F4
+億彦は、なにやら執拗に遙に話しかけていた。%K%P
+Okuhiko is relentlessly trying to talk to Haruka.%K%P
+0x1100
+まぁ、いつもどおり、遙は黙りこくっているのだが……。%K%P
+Well, as always, Haruka is staying silent, but...%K%P
+0x110C
+うっとおしそうな表情の遙。なんとなくだが、そんな風に思えた。%K%P
+She looks gloomy. I don't know why, but that's the feeling%NI get.%K%P
+0x1144
+よし！　それならば……。オレは妙案を講じた。%K%P
+All right! If that's the case... Then I've got an excellent%Nplan to help her out... Time to put my ingenious plot into%Naction.%K%P
+0x1150
+タオルで空気をためて……。%K%P
+I roll up a towel that's full of air...%K%P
+0x115C
+腰のあたりまでお湯に沈めて……。%K%P
+I then sink it into the hot water until it's at level with my%Nlower back...%K%P
+0x1168
+……これでＯＫ。%K%P
+... And now I'm ready.%K%P
+0x1174
+そのまま２人に近づく。ザバザバザバ……。%K%P
+Weapon in hand, I approach them. *Splash, splash,%Nsplash*...%K%P
+0x1180
+２人がオレに気づいた。%K%P
+The two of them watch me.%K%P
+0x1200
+億彦は『なんだね。ぶしつけな……』って顔でオレを睨む。%K%P
+Okuhiko glares at me, clearly disgusted by my behavior.%K%P
+0x120C
+誠「……うぅっ！」%K%P
+Makoto「... Ugh!」%K%P
+0x1218
+そんなのは無視して、一声うめくオレ。%K%P
+I try to ignore him, but I can't help but groan.%K%P
+0x1224
+そして、沈めていたタオルの空気を搾り出すように解放する。%K%P
+With that, I squeeze the air out the submerged towel,%Nforming bubbles that rise just above the back of my%Nwaist, making it look like the air came from a certain other%Nplace.%K%P
+0x1230
+ボコボコボコ……と。%K%P
+*Bubble bubble bubble*...%K%P
+0x1260
+億彦「んなぁっ……！！！」%K%P
+Okuhiko「WHAAA...!!!」%K%P
+0x126C
+目を皿のように大きく見開き、あんぐりと大口を開けたまま硬直する億彦。%K%P
+Paralyzed, Okuhiko's eyes widen to the size of plates.%NHis mouth opens wider than I ever thought was possible.%K%P
+0x1278
+遙「億彦……口、大きい……」%K%P
+Haruka「Okuhiko's... mouth is huge...」%K%P
+0x1284
+誠「ああ。これなら洗面器がすっぽりと入ってもおかしくないな」%K%P
+Makoto「Yeah. It's so big that I think you could stuff an entire%Nwash basin in there.」%K%P
+0x1298
+遙の言葉に、オレは自分の洗面器と億彦の顔とを見比べてうなずく。%K%P
+In response to Haruka's statement, I compare my wash%Nbasin with Okuhiko's face and nod.%K%P
+0x12A4
+億彦「ひっ…………」%K%P
+Okuhiko「Eee...」%K%P
+0x12B0
+遙「？」%K%P
+Haruka「??」%K%P
+0x12C4
+億彦「ひぇぇぇぇぇぇぇぇぇっ！！！」%K%P
+Okuhiko「EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEK!!!」%K%P
+0x12D8
+ジャバジャバジャバジャバ…………！！%K%P
+*Splash Splash Splash...!!!*%K%P
+0x12E4
+鼻を摘みながら、大きな悲鳴を上げて走り去っていく億彦。%K%P
+While plucking his nose, Okuhiko screams and runs away.%K%P
+0x12F8
+遙「？？」%K%P
+Haruka「??」%K%P
+0x1304
+そんな億彦を目で追いながら、パチクリしている遙。%K%P
+Haruka blinks with surprise while watching Okuhiko.%K%P
+0x1310
+状況が把握できていないのであろう。%K%P
+She probably didn't get it.%K%P
+0x131C
+まあ、それが予想できたからこそのギャグだったのだが……。%K%P
+Well, that was an extremely predictable joke, but...%K%P
+0x1328
+遙「……ねぇ、億彦どうしたの？」%K%P
+Haruka「... Hey, what's wrong with Okuhiko?」%K%P
+0x1334
+誠「……さぁ？」%K%P
+Makoto「... Who knows?」%K%P
+0x1350
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x1378
+しばし沈黙が続いた。%K%P
+Our silence continues for a short while.%K%P
+0x1384
+遙「…………」%K%P
+Haruka「...」%K%P
+0x1390
+誠「…………」%K%P
+Makoto「...」%K%P
+0x139C
+遙「…………」%K%P
+Haruka「...」%K%P
+0x13A8
+誠「なぁ、遙……」%K%P
+Makoto「Say, Haruka...」%K%P
+0x13B4
+遙「…………」%K%P
+Haruka「...」%K%P
+0x13C0
+やがて沈黙が苦痛になったオレは、ようやく遙に話しかけた。%K%P
+Unable to bear the silence any longer, I try to strike up a%Nconversation.%K%P
+0x13CC
+……が、遙からは何も反応がない。%K%P
+... But she doesn't respond.%K%P
+0x13D8
+誠「……遙？」%K%P
+Makoto「... Haruka?」%K%P
+0x13EC
+遙「ふぅ〜……ブクブク……」%K%P
+Haruka「Aah〜... *boil boil boil*...」%K%P
+0x1474
+誠「なっ！？　遙！」%K%P
+Makoto「HEY!? Haruka!」%K%P
+0x1480
+気がつかないうちに、顔を真っ赤にしてのぼせている……。%K%P
+When I wasn't paying attention, her face turned bright%Nred...%K%P
+0x148C
+こんなになるまで無理して入っているなんて。%K%P
+If she's gotten this bad, then she shouldn't have stayed%Nin for so long.%K%P
+0x1498
+そんなことを考えてしまうが、とりあえず、遙を引き上げるのが先決だ。%K%P
+Right now, my main priority is to get Haruka out of the%Nwater.%K%P
+0x14A4
+オレは沈みかけていた遙を引き上げ、両手で抱え込む。%K%P
+I pull up the sinking Haruka, and hold her in my arms.%K%P
+0x14B0
+両手ごしに伝わる柔らかな肌の感触に軽いめまいを覚えつつも、なんとか風当たりのいいところまで運び出した。%K%P
+I feel light headed and dizzy from the sensation of her%Nsoft skin transmitting through my hands, but I somehow%Nmanage to carry her until I find a place with a good%Nbreeze.%K%P
+0x14BC
+柵にかけてあった服で遙の顔を仰いでやる。%K%P
+I look at Haruka's face as I place her against the wall%Nwhere our clothes are.%K%P
+0x14C8
+バサバサバサ……。%K%P
+*Badump, badump...*%K%P
+0x14E4
+遙「ふぅ……ふぅ……」%K%P
+Haruka「Haah... haah...」%K%P
+0x14F0
+静かに、だが小刻みに息を吐き出す遙。%K%P
+It's quiet, but Haruka starts slowly breathing in and out.%K%P
+0x14FC
+必死で仰ぎ続けるオレ。%K%P
+I desperately continue to watch her.%K%P
+0x1554
+と、そこを偶然、優夏が通りかかった。%K%P
+And then, by pure chance, Yuka passes by.%K%P
+0x1560
+誠「おっ、優夏。いいところにっ！　手伝ってくれ、遙が……」%K%P
+Makoto「Oh, Yuka! Good timing! Help me out, Haruka just...」%K%P
+0x156C
+そこまで言いかけて、オレは言葉を呑み込む。%K%P
+I talk up til that point, then swallow my words.%K%P
+0x15A4
+タコと見違えんばかりの赤ら顔、トロ〜ンとした目つき、平衡感覚のないフラフラとした足取り、そして……手にしたお銚子。%K%P
+Her face is flushed red like a lobster, her eyes are all%Nunfocused, her gait is all staggered with no sense of%Nbalance, and... she has sake in her hand.%K%P
+0x15B0
+だぁぁぁ……！！　こいつ、酒飲んだな〜〜！！%K%P
+DAAAA...!! She's drunk!!%K%P
+0x15C4
+優夏「わぁ〜、どうひたの〜？　まこったん？」%K%P
+Yuka「Wah, whash rong? Mako-tan?」%K%P
+0x15D0
+優夏「……おんやぁ〜？　おねんねれすかぁ〜？　はるかったんっ？」%K%P
+Yuka「... Oooh? Ish shomefing up wif Haruka-tan?」%K%P
+0x15DC
+ダ、ダメだ……。こうなったら、もう手がつけられん……。%K%P
+This isn't good... As she is now, she can't help me at all...%K%P
+0x15E8
+オレはからんでくる優夏をかわしつつ、のぼせた遙の顔を懸命に仰ぎ続けたのだった……。%K%P
+I ignore the plastered Yuka, and immediately return all of%Nmy focus to the panting Haruka's face...%K%P
+0x1658
+誠「ボボンガボンボンボ〜ンとなぁ〜♪」%K%P
+Makoto「Duh duh duh duh dah duh♪」%K%P
+0x1664
+いい気分になったオレは歌い出した。%K%P
+Because I'm in such a good mood, I start singing.%K%P
+0x1670
+はぁ〜……本当にいい気持ちだ。%Nこんな気分で風呂に入るのは何年ぶりだろう。%K%P
+Haah〜... But this seriously feels good. I wonder how%Nmany years it's been since going in a bath has made me%Nfeel so good.%K%P
+0x167C
+思えば、この合宿にやってきて%N色んな事があったけど、『安らぎ』を感じるのは%N初めてではないだろうか？%K%P
+Now that I think about it, we've done a lot of different%Nthings in this camp, but it's all felt so peaceful.%K%P
+0x1688
+……なんて事を夢見心地で考えてしまう。すると……。%K%P
+... I start to drift off to sleep, lulled by these thoughts.%NJust then...%K%P
+0x16A4
+？？「こらぁ〜！　やかましいぞぉ〜」%K%P
+??「Hey! Yer sho noishee〜」%K%P
+0x16B0
+誠「……は？」%K%P
+Makoto「... Huh?」%K%P
+0x16BC
+現実に引き戻されるオレ。%K%P
+I am brought back to reality.%K%P
+0x16C8
+……今の声？　誰？%K%P
+... Whose voice was that?%K%P
+0x16D4
+優夏「うっさいのよ〜。くぅぉのぉ……おんちぃ〜」%K%P
+Yuka「Shaddahp〜 Yuu... tone-deaf〜」%K%P
+0x16E0
+間違いない……優夏だ。%Nでも、このロレツが回っていない喋り方。%Nまさか……！？%K%P
+No doubt about it... it's Yuka. But her voice is extremely%Nslurred. Oh god, please don't be what I think she is...%K%P
+0x16EC
+とそこに、ひゅーっと一陣の風が吹いた。目の前立ちこめていた湯気が吹き飛ばされる。%K%P
+Just then, a gust of wind blows by. It dispels the steam%Nfloating before my eyes.%K%P
+0x1788
+向こうの側に人影が見えた。それは案の定、優夏だった。%K%P
+I can see the shadow of a person on the other side. As I%Nthought, it's Yuka.%K%P
+0x1794
+優夏はお湯にお盆を浮かせて、日本酒をグビグビと飲んでいる。%K%P
+She is floating in the water like a lantern during the Bon%NFestival, gulping down some sake.%K%P
+0x17A0
+（こ、こんな所でも……）%K%P
+(Sh-She's drinking even in a place like this...)%K%P
+0x17B4
+優夏「ニャハハハハハハ……。%W%Wグビグビ〜」%K%P
+Yuka「Nyahahahahahaha... *Gulp, gulp〜*」%K%P
+0x17C0
+だいぶ酔っ払っている。この辺で止めさせないと、大変なことになるかも……。%K%P
+She's considerably drunk. If she doesn't stop soon,%Nthings could get ugly...%K%P
+0x17CC
+ザブザブザブ……。%K%P
+*Splash, splash, splash*...%K%P
+0x17D8
+オレは足早に優夏の所へと近づいて行った。%K%P
+I quickly approach Yuka.%K%P
+0x17F4
+はぁ〜……本当にいい気持ちだ。こんな気分で風呂に入るのは何年ぶりだろう。%K%P
+Haah〜... But this seriously feels good. I wonder how%Nmany years it's been since going in a bath has made me%Nfeel so good.%K%P
+0x1800
+思えば、この合宿にやってきて%N色んな事があったけど、『安らぎ』を感じるのは%N初めてではないだろうか？%K%P
+Now that I think about it, we've done a lot of different%Nthings in this camp, but it's all felt so peaceful.%K%P
+0x180C
+スーイスイ……。おもわず平泳ぎしてしまうオレ。%K%P
+*Whoosh, whoosh...* I spontaneously begin breast%Nstroking.%K%P
+0x1818
+普通、こんなことしたら怒られちゃうけど、ここだったら安心だろう。%K%P
+Normally, doing this would piss someone off, but since%Nit's just us, I suppose it's all right.%K%P
+0x1824
+？？「こらぁぁあ〜！」%K%P
+??「Hey yuu〜!」%K%P
+0x1830
+……いや、やっぱり怒られた。%K%P
+... Scratch that. I really did piss someone off.%K%P
+0x18C4
+優夏「ナミをたてないれよ〜。こぼれちゃうれしょっ！」%K%P
+Yuka「Shtop meikin' weifsh〜. It'll shpill!」%K%P
+0x18D0
+……はぁ？　こぼれる？　なにが？%K%P
+... Huh? Spill? What will?%K%P
+0x18E4
+ジャバジャバジャバ……。%K%P
+*Splash Splash Splash...*%K%P
+0x18F0
+誠「…………ぐわっ！」%K%P
+Makoto「... Gwaa!」%K%P
+0x18FC
+近づいてみて驚愕！　%K%P
+I get surprised when I see something approaching me!%K%P
+0x1908
+彼女はお湯にお盆を浮かせて日本酒をグビグビと飲んでいたのだ。%K%P
+Yuka's floating in the water like a lantern during the Bon%NFestival, gulping down some sake.%K%P
+0x1914
+（こ、こんな所でも……）%K%P
+(E-Even in a place like this...)%K%P
+0x1920
+優夏「グビグビ……キュ〜！」%K%P
+Yuka「*Gulp, gulp*... Kyuu〜!」%K%P
+0x1934
+優夏「やっぱり、おんせんといったらこれよねっ！　そうれしょ？　まこったん？」%K%P
+Yuka「Ash eye fought, hot shpringsh ah de besht! Ishen't dat%Nrite, Mako-tan?」%K%P
+0x1940
+赤ら顔でそんなことを言う優夏。%N共感なんぞ出来るかっ！%K%P
+Yuka says this with a flushed face. How am I supposed%Nto respond to this!?%K%P
+0x194C
+きっと彼女の両親が、これを見たら泣き出すだろうな……。いや、オレが親父だったら絶対泣く。%K%P
+If her parents saw this, they'd probably cry... No, if I were%Nher father, I'd definitely weep.%K%P
+0x1958
+しかし、こりゃだいぶ酔っ払ってるな……。%K%P
+She's extremely drunk...%K%P
+0x1964
+この辺で止めさせないと、%N大変なことになるかも……。%K%P
+If I don't stop her now, things could get ugly...%K%P
+0x1970
+さて……。どんな手段で止めさせようか……？%K
+Well then... How should I stop her...?%K
+0x2848
+最初は優しく
+Start out nice.
+0x2854
+最初から強引に
+Start out forceful.
+0x2860
+いきなりキレる
+Get angry.
+0x19C0
+オレはまず優しく出ることにした。%K%P
+I decide to try being nice.%K%P
+0x19CC
+誠「なぁ、優夏？　%Nあんまり飲みすぎると体に毒だぞ。%Nいい子だから、その辺で…………ぬぁっ！」%K%P
+Makoto「Hey, Yuka? If you drink so much, you'll poison your body.%NBe a good girl and sto... Whoa!」%K%P
+0x19D8
+オレは最後まで、言い終えることが出来なかった。%K%N
+I am unable finish my speech.%K%N
+0x19E4
+突然の優夏の放った足払い！%K%N
+Yuka suddenly trips me!%K%N
+0x19F0
+オレは前のめりに倒れこみ……。%K%P
+I pitch forward and fall...%K%P
+0x1A20
+豪快な音を立ててお湯につっぷしてしまう。思いっきりお湯を飲みこんでしまう。%K%P
+I fall prostrate into the water, making a splendid sound. I%Naccidentally drink a large amount of water.%K%P
+0x1A2C
+ザバァ…………。%Nどばどばどばーーっ！%K%P
+*Splash* *Cough, cough, cough!*%K%P
+0x1A38
+誠「………………」%K%P
+Makoto「...」%K%P
+0x1A4C
+優夏「ニャハハハハハ…………♪　きったな〜い」%K%P
+Yuka「Nyahahahahaha...♪ Yer show derty!」%K%P
+0x1A58
+目に涙を浮かべて大笑いしている優夏。%K%P
+Tears rise in Yuka's eyes as she laughs her ass off.%K%P
+0x1A64
+ピクピク……！　こ、この〜……！！%K%N
+*Twitch, twitch...!* Y-You little...!!%K%N
+0x1A70
+カァッと頭に血が上ったが……。%K%N
+Blood is rushing to my head...%K%N
+0x1A7C
+……いや、待て待て。%K%P
+... No, hold on.%K%P
+0x1A88
+相手は酔っ払いだ。酔っ払い相手にマジになってどうする。%K%P
+My opponent is a drunkard. What do I have to do to make%Nthis drunkard take me seriously?%K%P
+0x1A94
+落ち着きを取り戻したオレは、もう１度、今度はちょっと強引に攻めてみることにした。%K%P
+I regain my calm, and decide to try one more time, making%Nmy assault a little more forceful this time.%K%P
+0x1AA0
+誠「優夏〜？　もう十分飲んだだろ〜？　%Nさあ、それをこっちに渡すんだ……」%K%P
+Makoto「Yuka〜? Haven't you had enough to drink? Come on,%Nhand it over...」%K%P
+0x1AAC
+優夏の手にしたお銚子を無理やり奪い取ろうとする。%K%P
+I try to forcefully snatch the cup of sake out of Yuka's%Nhand.%K%P
+0x1AC0
+優夏「ん〜？　……%W%W%Wだぁ〜〜めっ！！！」%K%P
+Yuka「Hmm? ... NAAAAAAH〜〜WEEEEEEEI!!!」%K%P
+0x1ACC
+すると優夏は、伸ばしたオレの腕をつかんでお湯の中へと引きずり込んだ。%K%P
+Just then, Yuka grabs my outstretched arm, and drags%Nme into the hot water.%K%P
+0x1AFC
+豪快な音を立ててお湯につっぷすオレ。%K%P
+I fall prostrate into the water, making a splendid sound.%K%P
+0x1B08
+うぅっ！　思いっきり鼻にお湯が入った。%K%P
+A lot of hot water goes flooding into my nose.%K%P
+0x1B14
+ザバザバァァ…………。%K%P
+*Splash*%K%P
+0x1B20
+誠「………………」%K%P
+Makoto「...」%K%P
+0x1B34
+優夏「ニャハハハハハハハハハハ……♪　%Nヘンなかお〜」%K%P
+Yuka「Nyahahahahahahahahahaha...♪ Yer feish ish funee〜」%K%P
+0x1B40
+腹を抱えて笑っている……。%K%P
+She holds her stomach with laughter...%K%P
+0x1B4C
+さらに追い討ちをかけるかのようにビシャビシャと%Nお湯をかけてくる。%K%P
+She splashes hot water on me to add even more salt to%Nthe wound.%K%P
+0x1B58
+こ、%W%Wこの……%W%W%Wアマァ……！！%K%N
+Y-You... bitch...!!%K%N
+0x1B64
+……ついにオレはキレてしまった。%K%P
+... I decide to forcefully cut in.%K%P
+0x1B70
+誠「くぉのぉ〜！　酔っ払いがぁっ！！」%K%P
+Makoto「Dammit! You're so drunk!!」%K%P
+0x1B84
+優夏「！？」%K%P
+Yuka「!?」%K%P
+0x1B90
+オレの張り上げた大声にキョトンとする優夏。%K%P
+Yuka stares in puzzlement at my raised voice.%K%P
+0x1B9C
+（ん？　分かってくれたのか？）%K%P
+(Huh? Did she understand that?)%K%P
+0x1BA8
+すると、何を思ったのか、優夏はバシャバシャとお湯をかき分けて、オレの後ろに回り込んだ。%K%P
+Just as I'm thinking this, Yuka cuts her way through the%Nhot water and gets behind me.%K%P
+0x1C30
+そして突然、後ろからオレに向かって抱きついて来たではないか！%K%P
+And then, Yuka suddenly walks up behind me and wraps%Nher arms around me!%K%P
+0x1C3C
+（なっ……なぬぅっ！！）%K%P
+(WH... WHAA!!?)%K%P
+0x1C48
+誠「ゆ、優夏！？　%N……ま、まずいって、こんなところで……」%K%P
+Makoto「Y-Yuka!? ... Th-This is bad... in a place like this...」%K%P
+0x1C54
+オレは思いっ切りうろたえてしまった。%K%P
+I become extremely flustered.%K%P
+0x1C60
+…………いや、しかしそれは富士山よりも巨大な勘違いだった。%K%P
+... No, but that was a misunderstanding even bigger than%NMt. Fuji.%K%P
+0x1C6C
+そのまま優夏は、力いっぱい『ギューーッ』と絞めつけてきたのだ。%K%P
+As she wraps her arms around me, Yuka puts even more%Npower into them, starting to strangle me.%K%P
+0x1C78
+首を……。%K%P
+My neck is...%K%P
+0x1C84
+誠「うっ……ぐぅ………………」%K%P
+Makoto「Ug... ghhh...」%K%P
+0x1C90
+優夏「くぅぉの〜！　%Nだ〜れが、よっぱらいれすってぇ〜〜！！」%K%P
+Yuka「Wai yuu! Hoosh de drunk wan heer!!」%K%P
+0x1C9C
+誠「だ…だれがって……お前以外……%Nいないだろ……」%K%P
+Makoto「Wh... Who... there's no one else... but you...」%K%P
+0x1CA8
+うかつだった……。%Nこいつは、ここまで酒グセが悪いのか……！？%K%P
+I was careless... She must have some really bad drinking%Nhabits to go this far...!%K%P
+0x1CB4
+オレは必死の抵抗を試みるが……。%K%P
+I desperately try to resist her, but...%K%P
+0x1CC0
+優夏「わたしはぁ〜……%W%Wよっぱらってなんかないの%Nよぉ〜〜！」%K%P
+Yuka「Eyam〜 ... NAHT DRUNNNNNK〜〜!」%K%P
+0x1CCC
+ギリギリギリギリ……。%W%W
+*Griiiiiiiiiind...*%W%W
+0x1CD8
+薄れゆく意識の中、オレは……%K%P
+With my consciousness fading, I...%K%P
+0x1CE4
+（優夏って、けっこう胸あるんだな……）%K%P
+(Yuka's... got a nice chest...)%K%P
+0x1CF0
+……そんな健康的な事を考えていたりした。%K%P
+... think this incredibly healthy thought.%K%P
+0x1D58
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x1D74
+ぬぉぉ〜〜っ！　なんのこれしきっ！！%K%P
+Woohoo〜〜! This is nothing!!%K%P
+0x1D80
+誰に見せつけるわけでもなく、１人我慢大会を始めてしまうオレ。%K%P
+It's not like anyone's watching, so I decide to start an%Nendurance contest with myself.%K%P
+0x1D8C
+それが、そもそもの間違いだった。%K%P
+But that quickly turns out to be a mistake.%K%P
+0x1DA8
+…………あぁ、%W%W%Wダ、%W%Wダメだ。%K%P
+... Ah, c-crap.%K%P
+0x1DB4
+い、%W%W意識が遠のいて……%W%W%Wく……。%K%P
+M-My consciousness is fading... Kuh...%K%P
+0x1E0C
+……ガクッ！%K%N
+... *ACK!*%K%N
+0x1E18
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x1E80
+…………%W%W%W意識を失ったオレは夢を見た。%K%P
+... After I lose consciousness, I have a dream.%K%P
+0x1E8C
+それはタコと化したオレがグツグツと煮えたぎる鍋の中で、茹でダコにされていく夢だった……。%K%P
+In the dream, I'm an octopus being boiled to death in a%Npot...%K%P
+0x1E98
+まさに、悲劇的な夢だった。%K%P
+It was such a tragic dream.%K%P
+0x1F04
+気がつくと、そこにはいづみさんの顔。%K%P
+When I regain consciousness, the first thing I see is%NIzumi-san's worried face.%K%P
+0x1F10
+いづみさんだけではなく、みんなが心配そうに、オレの顔を覗き込んでいた。%K%P
+I then notice that it's not just her; everybody else has%Nsurrounded me, concerned looks on their faces.%K%P
+0x1F24
+いづみ「……大丈夫？」%K%P
+Izumi「... Are you all right?」%K%P
+0x1F30
+優しく問いかけてくるいづみさん。%K%P
+She asks me this gently.%K%P
+0x1F3C
+なんと、オレの頭はいづみさんの太ももの上！%K%Nつまりは、膝枕してもらってるというわけだ！！%K%P
+My head is on top of Izumi-san's thighs! So in other%Nwords, I was sleeping on her lap!!%K%P
+0x1F48
+あぁ……なんて幸せ者なんだ、オレは……。%K%P
+Aah... I'm so happy I could die...%K%P
+0x1F54
+後頭部に当たったいづみさんの太ももの感触に酔いしれる。%K%P
+I get intoxicated from the feeling of Izumi-san's thighs%Nagainst the back of my head.%K%P
+0x1F60
+なんでも、オレは気絶してお湯から引きあげられたらしい。%K%P
+It seems I was pulled from the hot spring after I fainted.%K%P
+0x1F6C
+みんなオレを気づかってくれている。%K%P
+Everyone else is worried about me.%K%P
+0x1F90
+……いや、約１名『例外』がいた。%K%P
+... Well, there's one "exception."%K%P
+0x1FC0
+顔を真っ赤にした優夏だけは、酔っ払い口調でオレをののしった。%K%P
+Only the flush-faced Yuka is reprimanding me in a%Ndrunken voice.%K%P
+0x1FCC
+こんなところでも酒を飲んでいたらしい。%K%P
+It seems she got drunk even in a place like this.%K%P
+0x1FD8
+酔っ払っているだけあって、ののしり方も%Nタチが悪い。%K%P
+As expected of a drunkard, she reprimands me in a%Nrather nasty way.%K%P
+0x1FE4
+優夏「なぁ〜さけないなぁ〜……。%Nおとこのこれしょ？%Nあんたはっ！」%K%P
+Yuka「Paa〜fetic〜 ... Yer a guy, aren't yuu?!」%K%P
+0x200C
+強烈なデコピンを１発お見舞いされる。%K%P
+She pokes me hard on the forehead as she asks this.%K%P
+0x2018
+誠「ぐぁっ！　痛ってぇ〜！」%K%P
+Makoto「Gwa! That hurt〜!」%K%P
+0x2024
+だ、誰か、ヤツを止めてくれ……。%K%P
+S-Someone stop her...%K%P
+0x2030
+オレは涙目でそう訴えた……。%K%P
+Grief ridden tears flow out of my eyes...%K%P
+0x20CC
+そんなこんなで、ロッジに着いたのは%N１１時を少しまわった頃だった。%K%P
+After our night out, we return to the lodge a little past%N11:00.%K%P
+0x20D8
+温泉に入ったことで、逆にへとへとに%N疲れ果ててしまっていた。%K%P
+It had been a refreshing, though exhausting, experience.%K%P
+0x20E4
+ベッドの上に横たわると、オレは一瞬にして深い眠りの底へと落ちて行った……。%K%P
+I fall into a deep sleep the moment I climb into bed...%K%P
+0x2158
+（くるみ……%W%W%Wどうしたんだ？）%K%P
+(Kurumi... what's wrong?)%K%P
+0x2164
+何だか心に引っかかるものを感じていた……。%K%P
+It's really bugging me...%K%P
+0x2188
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P

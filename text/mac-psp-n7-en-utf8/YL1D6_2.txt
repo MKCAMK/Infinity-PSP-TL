@@ -1,0 +1,537 @@
+text area offset and size:
+0xC70
+0x1F14
+0x28
+誠「優夏！？」%K%P
+Makoto「Yuka!?」%K%P
+0x50
+思わず叫んでいた。%K%N
+I immediately shout.%K%N
+0x5C
+優夏は神社の壁に背中を預け、どんよりと灰色に濁った海の彼方を見つめている。%K%P
+Yuka is leaning against the wall of the shrine, gazing off%Ntowards the dull, muddy grey ocean.%K%P
+0x68
+優夏「やっぱり、来ちゃったんだ？」%K%P
+Yuka「So you came here after all.」%K%P
+0x74
+優夏は視線をそらさずに言った。%K%P
+Yuka says this without looking at me.%K%P
+0x80
+誠「どうして……。なんで優夏……」%K%P
+Makoto「Why... Why, Yuka...?」%K%P
+0x8C
+優夏「約束、破ったなぁ？」%K%P
+Yuka「You broke your promise, huh?」%K%P
+0xA8
+優夏「何でも言うこときくって……そういう約束だったのに……」%K%P
+Yuka「Even though you made that promise... to do any one%Nthing I said...」%K%P
+0xBC
+優夏「今後一切ここには近寄らないって……そう誓ったくせに……」%K%P
+Yuka「You swore that you wouldn't approach the shrine again,%Nno matter what...」%K%P
+0xC8
+誠「そんなこと、今はどうだっていいだろ！？%T030%Nオレが聞いてるのは、わざわざ危険を冒してまでこんなところに来た、その理由だ！」%K%P
+Makoto「You're a fine one to talk, aren't you!? Why did you come%Nhere?! You knew how dangerous it was!」%K%P
+0xD4
+優夏は答えない。%K%N
+Yuka doesn't respond.%K%N
+0xE0
+答える素振りさえ見せない。%K%P
+She doesn't even show a single sign that she'll answer.%K%P
+0xEC
+時折吹きつける海風が、神社の柱をミシミシと軋ませていた。%K%P
+The pillars of the shrine occasionally creak as the sea%Nbreeze blows against them.%K%P
+0xF8
+……チラリと足元を見る。%K%P
+... I look down at my feet.%K%P
+0x104
+ここが、まさに正真正銘の岬の突端だということに、今気づいた。%K%N
+I realize we're now on the very tip of the cape.%K%N
+0x110
+人ひとりがやっと立っていられる程度の極めて狭い崖っぷち。%K%P
+The edge of the cliff is so narrow that there is barely%Nenough room for one person to stand on it.%K%P
+0x11C
+正面は断崖絶壁で、数十階建てのビルに匹敵する程の高さがあった。%K%P
+The entire height from the top to the bottom of the cliff is%Nalmost as large as a skyscraper.%K%P
+0x128
+遥か遠く……崖の最下端に打ち寄せる波が、岩肌に当たって白い水飛沫をあげているのが見える。%K%P
+It's a long way down... at the very bottom, I see the%Nwaves crashing against the bare rock of the cliff,%Nsheets of water shooting up.%K%P
+0x134
+一方背後には、今にも崩れ落ちそうな朽ち果てた神社の壁が、岬を遮るような形でそびえ立っていた。%K%P
+I cling to the back wall of the fragile shrine that's on the%Nverge of collapsing.%K%P
+0x140
+視線を頭上に転ずると、この狭い崖っぷちをすっぽりと覆うようにして、神社の長い軒が張り出している。%K%P
+I observe that along with the back wall, the long eaves%Nsticking out of the shrine completely conceal and%Nisolate this area.%K%P
+0x14C
+つまり、目の前は崖、後ろは壁という完全に孤立した閉ざされた場所だった。%K%P
+In other words, the edge of the cliff is so shrewdly%Nhidden that most would have been oblivious to its%Nexistence.%K%P
+0x158
+元に戻るには、今出てきたばかりの小さな四角い出口をくぐる以外に方法はない。%K%P
+In other words, the only way to get back to the other%Nside of the shrine is to pass through that small square%Nexit.%K%P
+0x164
+優夏「私達、ほんとバカみたいね？」%K%P
+Yuka「We're really idiots, aren't we?」%K%P
+0x170
+優夏がふいにつぶやいた。%K%P
+Yuka suddenly mutters this.%K%P
+0x17C
+優夏「結局、迷信だったんだよ……。誠の言った通りだった……」%K%P
+Yuka「In the end, it was just a superstition... It's just as you%Nsaid...」%K%P
+0x188
+優夏「でもひょっとしたら、昔は迷信じゃなかったのかもしれないけど……」%K%P
+Yuka「But perhaps in the past, it might not have been a%Nsuperstition...」%K%P
+0x194
+そう言って、優夏は足元の小石を軽く蹴った。%K%P
+As she says this, Yuka kicks a pebble at her feet.%K%P
+0x1A0
+小石はコロコロと転がって崖の下へと姿を消した。%K%P
+The small pebble rolls off the cliff and disappears.%K%P
+0x1AC
+優夏「私、昨日の晩、気づいたの……」%K%P
+Yuka「I realized it last night...」%K%P
+0x1B8
+優夏「『はるさめや　みさきのはてに　なりひびく　すずとともにや　ときはとかれん』」%K%P
+Yuka「'The spring rain/ At the end of the cape/ Together with/%NThe echoing bell/ Will free you from time.'」%K%P
+0x1C4
+優夏「その『みさきのはて』っていうのが、神社の裏……つまり、ここのことを指してるんじゃないかなって……」%K%P
+Yuka「That 'At the end of the cape' part is talking about behind%Nthe shrine... in other words, I thought that it was referring%Nto here...」%K%P
+0x1D0
+誠「ちょっと待てよ、優夏？　それじゃあ、優夏がここに来た理由は……」%K%P
+Makoto「Wait a minute, Yuka. So the reason you came here was...」%K%P
+0x1DC
+優夏「うん。そう……」%K%P
+Yuka「Yes, that's right...」%K%P
+0x1E8
+優夏「どうしても、過去に戻りたかったから……」%K%P
+Yuka「I wanted to go back to the past, no matter what...」%K%P
+0x1F4
+誠「ど、どうして……」%K%P
+Makoto「Wh-Why...?」%K%P
+0x200
+優夏「だけど、ね？　『みさきのはて』は、もう無くなっちゃったみたい……」%K%P
+Yuka「But you know what? It seems that the 'end of the cape'%Nis already gone...」%K%P
+0x20C
+優夏は明らかに、話をはぐらかしていた。%K%P
+Yuka is clearly dodging the question.%K%P
+0x218
+優夏「昔はこの先に、もう少しだけ、岬が続いてたんだよ、きっと……」%K%P
+Yuka「In the past, the tip of this cape was definitely just a bit%Nlonger...」%K%P
+0x224
+優夏「でも、永い歳月の間に、岬の先端は波に浸蝕され、海の中へと崩れ落ちてしまった……」%K%P
+Yuka「But over a long period of time, the tip of the cape was%Nslowly eroded by the waves until it tumbled into the sea...」%K%P
+0x230
+優夏「だから……あの話がたとえ迷信じゃなかったとしても……」%K%P
+Yuka「That's why... even if that story wasn't a superstition now...」%K%P
+0x24C
+優夏「もう誰も、過去になんか戻れないんだよぉ……」%K%P
+Yuka「No one can go back to the past anymore...」%K%P
+0x274
+優夏が再び小石を蹴った。%K%P
+Yuka kicks another pebble.%K%P
+0x280
+（過去に戻りたかったなんて……どういうつもりなんだ……！？）%K%P
+(She wanted to go back to the past... What was she%Nplanning to do there...!?)%K%P
+0x28C
+そう思いながらも……%K%P
+I can't think of any plausible reason...%K%P
+0x298
+（けれど……無事でよかった……）%K%P
+(But... I'm glad she's safe...)%K%P
+0x2A4
+……オレは優夏の笑顔を見て、ホッとしたのだった。%K%P
+Seeing Yuka's smile gives me a feeling of relief.%K%P
+0x2B0
+空は黒い雨雲に覆われていたが、それでも時間が経つにつれ、徐々に明るさを増していった。%K%P
+The sky is covered in black rain clouds, but they get%Nbrighter and brighter in proportion to the passing time.%K%P
+0x2BC
+ふと、腕時計を見る。%K%P
+I look at my watch.%K%P
+0x2C8
+『午前５時３２分』%K……この雨雲さえなければ、水平線から昇る真っ赤な朝日を臨むことができたのだが……。%K%P
+(5:32 A.M.)... If only these rain clouds weren't here, we'd%Nbe able to see the bright red sun rise from the horizon...%K%P
+0x2D4
+まあ、この際贅沢は言っていられない。%K%N
+Well, we don't have that kind of luxury.%K%N
+0x2E0
+とにかく、何事もなかったのだ。それで、十分だった……。%K%P
+Anyway, nothing's happened. That's good enough...%K%P
+0x2EC
+安心したとたん、急に強烈な寒さがオレを襲った。%K%N
+The instant I sigh in relief, a sudden chill assaults me.%K%N
+0x2F8
+この降りしきる雨の中、傘もささずに走って来たのだ。寒いのは当たり前だった。%K%P
+I ran through this downpour without an umbrella. It's only%Nnatural that I'm cold.%K%P
+0x304
+オレは凍えた体を少しでも温めようと、何気なくポケットの中に手を入れた。%K%P
+In an attempt to warm up my body a little, I casually put%Nmy hands in my pockets.%K%P
+0x310
+──ん？%K%P
+―Huh?%K%P
+0x31C
+何か、紙のような質感を指先に覚える。%K%P
+I feel my fingertips brush against what feels like paper.%K%P
+0x328
+それを、引っ張り出してみた。%K%P
+I pull whatever it is out of my pocket.%K%P
+0x334
+紙袋？？？%K%P
+A paper bag???%K%P
+0x340
+そうか……昨日の晩、遙が届けてくれた紙袋……ポケットに入れっぱなしだったんだ。%K%P
+Right... it's the paper bag Haruka gave me... I'd put it away%Nin my pocket.%K%P
+0x34C
+『いいものあげよっか？』%K%N
+"Do you want something good?"%K%N
+0x358
+──くるみの言ってたその『いいもの』が、この中に入っている筈だった。%K%P
+―In here must be that "something good" Kurumi was%Ntalking about.%K%P
+0x364
+オレは、袋をビリッと横に破いて中の物を取り出してみた。%K%N
+I tear the paper bag open, and take out what was inside%Nit.%K%N
+0x370
+──真っ白い綿の塊と１枚の小さな紙切れ。%K%P
+―There's two things: a pure white lump of cotton and a%Nscrap of paper.%K%P
+0x37C
+まずは紙切れを開いてみた。それは短い文面の手紙のようだった。%K%P
+I check the scrap of paper first. It seems to be a short%Nletter.%K%P
+0x388
+読んでみる。%K%P
+I read it.%K%P
+0x394
+『お兄ちゃんへ……。これは今日の午後、月浜で拾ったものです』%K%P
+"Dear Onii-chan... Kurumi found this this afternoon on%NMoon Beach."%K%P
+0x3A0
+『とってもきれいだったから、お兄ちゃんにあげるね♪%N……くるみより』%K%P
+"It's very pretty, so she'll give it to you♪ ... From Kurumi."%K%P
+0x3AC
+この綿の塊を、拾った？%K%N
+She found this lump of cotton?%K%N
+0x3B8
+いや……よく手で触ってみると、中に何かが包まれているのがわかった。%K%P
+No... when I feel it carefully, I can tell the cotton is%Nwrapping up something.%K%P
+0x3C4
+幾重にも重ねられた綿を、丁寧に剥がしていく……。%K%P
+I carefully begin to tear off the layers of cotton...%K%P
+0x404
+──戦慄が駆け抜けた！%K%P
+―A shudder runs through me!%K%P
+0x48C
+すぐに目をそらし、それを手の平でぎゅっと力強く握りしめた……。%K%P
+I immediately look away, and close my palm into a fist...%K%P
+0x498
+（嘘だろ……）%K%P
+(It's impossible...)%K%P
+0x4A4
+（嘘だろ……）%K%P
+(It's impossible...)%K%P
+0x4B0
+（嘘だろ……！！！）%K%P
+(It's impossible...!!!)%K%P
+0x4BC
+熱く燃えるような血流が体中を駆け巡っていた。%K%P
+The blood rushing throughout my body starts boiling.%K%P
+0x4E0
+優夏「どうして……どうして誠が……！？」%K%P
+Yuka「Why... Why do you...!?」%K%P
+0x4EC
+優夏の顔からは血の気が失せ、あたかも蝋人形のようだった。%K%P
+Yuka's face has gone pale, as if she's a wax model.%K%P
+0x4F8
+優夏も見たのだ……。%K%N
+Yuka saw it...%K%N
+0x504
+オレの手の平に乗った……鈴を！%K%P
+The thing in my palm... the bell!%K%P
+0x518
+するとその直後、優夏が棒のように固まったその腕を、ふっと前に伸ばした。%K%P
+Immediately after that, Yuka arm becomes as stiff as a%Npole, and she suddenly reaches it out in front of me.%K%P
+0x524
+ブルブルと震える手の平を、ゆっくりと、開く……。%K%P
+She slowly opens her trembling palm...%K%P
+0x550
+誠「……………………………………」%K%P
+Makoto「...」%K%P
+0x55C
+息が出来なかった。%K%N
+I can't breathe.%K%N
+0x568
+ましてや言葉なんて、出よう筈はない。%K%P
+I can't even speak.%K%P
+0x574
+口の中がカラカラに渇いた。%K%N
+My mouth is dry.%K%N
+0x580
+背筋が鉄のように硬直した。%K%P
+My spine is as stiff as iron.%K%P
+0x594
+優夏「ど……どういうこと……？？？」%K%P
+Yuka「Wh... What's the meaning of this...???」%K%P
+0x5A0
+優夏「なんで鈴が……２つも……？？？」%K%P
+Yuka「Why are there... two bells...???」%K%P
+0x5AC
+誠「ゆ、優夏……」%K%P
+Makoto「Y-Yuka...」%K%P
+0x5B8
+オレは懸命に声を絞り出した。%K%P
+It takes everything I've got to say that word.%K%P
+0x5C4
+誠「優夏……捨てたって……言ったじゃないか……？」%K%P
+Makoto「Yuka... you said you threw it away... didn't you...?」%K%P
+0x5D8
+優夏「だってぇ……」%K%P
+Yuka「But...」%K%P
+0x5E4
+優夏「だってぇ……！」%K%P
+Yuka「But...!」%K%P
+0x5F0
+誠「嘘……だったんだな……？」%K%P
+Makoto「Were... you lying...?」%K%P
+0x5FC
+優夏は震えながらうなずいた。%K%P
+Yuka nods, her body trembling.%K%P
+0x608
+優夏「それより……誠が今持ってる……鈴は……？」%K%P
+Yuka「But more importantly... Makoto... where did that bell you%Nhave now come from...?」%K%P
+0x614
+誠「……わからないよ……%T030%Nそんなの……わからない……」%K%P
+Makoto「I don't know... I don't... know...」%K%P
+0x620
+オレは出鱈目に首を振った。%K%P
+I shake my head countless times.%K%P
+0x62C
+そしてようやく冷静な思考を取り戻す。%K%P
+I finally regain the ability to think calmly.%K%P
+0x638
+今、やらなきゃならないことは何だ！？%K%P
+There's no time for a leisurely conversation!!%K%P
+0x644
+こんな悠長な会話をしてる時じゃないだろ！！%K%P
+We've got more dire things to worry about right now!%K%P
+0x650
+誠「とにかく早くここから出よう！%N話はその後だ！」%K%P
+Makoto「Anyway, let's get out of here right away! We can talk%Nlater!」%K%P
+0x65C
+オレは握りしめられていない方の手で、優夏の腕をつかんだ。%K%P
+I grab Yuka's arm with my free hand.%K%P
+0x668
+優夏「……鈴は？」%K%P
+Yuka「...The bell?」%K%P
+0x674
+優夏が言った。%K%P
+Yuka says this.%K%P
+0x680
+──そうだ！%K%N
+―That's right!%K%N
+0x68C
+まずこの鈴を、捨てなきゃ！%K%P
+First, I've got to get rid of this bell!%K%P
+0x698
+そんな初歩的なことさえ気づかなかったのは、極度に頭がパニくっている証拠だった。%K%P
+The fact that I didn't realize such a basic thing proves%Nhow much of a panic my mind is in.%K%P
+0x6A4
+……オレはすぐに……%K
+... I immediately...%K
+0x6B0
+　……大きく振りかぶって……%K%N
+... take out the bell...%K%N
+0x6BC
+……その鈴を……%K
+... and prepare...%K
+0x6C8
+　……海に……%K%P
+... to cast it into the ocean...%K%P
+0x6EC
+──だが、その瞬間！！%K%P
+―But at that instant!!%K%P
+0x748
+じ、地震……？%K%P
+A-An earthquake...?%K%P
+0x754
+──バキッ！%K%N
+―CRASH!%K%N
+0x760
+耳をつんざくような轟音が背後に響いた。%K%N
+My ears are pierced by a roaring sound coming from%Nbehind me.%K%N
+0x76C
+何事かと思って振り向く……。%K%P
+I turn around...%K%P
+0x778
+──メキメキメキッ！%K%N
+―Rumble rumble!!%K%N
+0x784
+再び、何かが弾けるような乾いた高音。%K%P
+Once again, I hear the high-pitched sound of something%Ncracking.%K%P
+0x790
+それとともに、かしいだ神社の壁が、オレ達に今、のしかからんとしている！%K%N
+And along with it, I feel the shrine's wall that we're leaning%Nagainst tilting towards us!%K%N
+0x79C
+狼狽する優夏の肩越しには、細かい木屑を巻き上げながら、太い柱が弓なりにしなっている。%K%P
+Over the panicked Yuka's shoulder, I can see segments%Nof the thick pillars breaking up into small wood chips as%Nthey blow up in the air.%K%P
+0x7A8
+頭上に張り出した軒が重々しくも迫り来る！%K%P
+The eaves sticking out from overhead are weightily%Nlooming over us!%K%P
+0x7B4
+足元には崖……逃げる場所はない！%K%P
+With our feet on the cliff... there's nowhere to run!%K%P
+0x7C0
+──どうする！？%K%P
+―What should I do!?%K%P
+0x7CC
+一瞬のためらい……。%K%N
+I hesitate for a moment.%K%N
+0x7D8
+海に？　いや、この高さじゃ絶対助からないっ！%K%P
+The ocean? No, from this height, it'd be suicide!%K%P
+0x7E4
+今は優夏を……。%K%N
+Right now, at least...%K%N
+0x7F0
+せめて優夏だけでも……。%K%N
+At the very least, Yuka alone should...%K%N
+0x7FC
+渾身の力を込めて大地を蹴り上げ、優夏に向かって飛びかかった……。%K%P
+With all of my strength, I kick off the ground, and leap%Ntowards Yuka...%K%P
+0x8AC
+とても……寒かった……。%K%N
+I'm so... cold...%K%N
+0x8B8
+全身が、痺れて動かない。%K%P
+My whole body has gone numb. I can't move.%K%P
+0x8C4
+不思議なことに、痛みはなかった。%K%P
+Strangely, there's no pain.%K%P
+0x8D0
+口の中に錆びた鉄の味があるだけ……。%K%N
+All there is is the taste of rusty iron in my mouth...%K%N
+0x8DC
+それ以外の一切の感覚は完全に麻痺している。%K%P
+All of my other senses are completely paralyzed.%K%P
+0x8E8
+と、突然襲って来た強烈な吐き気。%K%P
+Suddenly, I am assaulted with severe nausea.%K%P
+0x8F4
+ドッと全てを吐き出した。%K%P
+I throw it all up.%K%P
+0x910
+血だ……。%K%N
+Blood...%K%N
+0x91C
+それも、溺れそうな程に大量の、血……。%K%P
+I threw so much blood that I could drown in it...%K%P
+0x928
+血はとどまることなく、がぶがぶがぶがぶと溢れ流れた。%K%P
+The blood won't stop, as it overflows in my mouth and%Nguzzles down my throat.%K%P
+0x934
+どうも、それは口以外の部分からも流れているらしかった。%K%P
+It seems I'm bleeding from other parts besides my mouth.%K%P
+0x940
+首か？%K%N
+My neck?%K%N
+0x94C
+首の動脈が、切れたのか？%K%N
+Did I cut an artery in my neck?%K%N
+0x958
+血は、開け放たれた蛇口の水のように、容赦なく流れていく。%K%P
+The blood begins to flow out of me relentlessly, like a%Nfaucet that's been left on full blast.%K%P
+0x964
+徐々に薄れていく意識……。%K%P
+My consciousness slowly begins to fade...%K%P
+0x970
+目を細め、ぼんやりとかすんだ視界に焦点を合わせた。%K%P
+I close my eyes partly, and focus my faint, dim field of%Nvision..%K%P
+0x97C
+目の前に……%K%N
+Right in front of me...%K%N
+0x988
+……優夏が横たわっている。%K%P
+... lies Yuka.%K%P
+0x99C
+重く垂れ下がったその手の平が見えた。%K%P
+I can see her heavily dangling palm.%K%P
+0x9A8
+その上に、小さな光の欠片（かけら）……。%K%P
+On top of it is a small fragment of light...%K%P
+0x9B4
+──鈴。%K%P
+―The bell.%K%P
+0x9C0
+苦しかった……。%K%N
+It's so painful...%K%N
+0x9CC
+地獄のような苦痛だった。%K%P
+It hurts like hell.%K%P
+0x9D8
+身悶えし、胸をかきむしりたくなるような激痛。%K%N
+I'm writhing in agony from the pain that feels like it's%Nclawing at my heart.%K%N
+0x9E4
+それは肉体的な痛みではなかった。%K%P
+But it's not physical pain.%K%P
+0x9F0
+心を……。%K%N
+My heart...%K%N
+0x9FC
+心を……グサリグサリと尖った刃物でえぐられているような痛みだ。%K%P
+My heart... feels like it's been gouged out by a sharp%Nknife.%K%P
+0xA08
+オレは約束を、誓いを破ってしまった……。%K%P
+I broke my vow...%K%P
+0xA14
+『優夏を必ず守ってみせる』──そう誓ったのに……。%K%P
+Even though I swore that "I will definitely protect Yuka"...%K%P
+0xA20
+遅かったのだ……。%K%N
+I was too late...%K%N
+0xA2C
+ほんの一瞬……。%K%N
+I was just an instant too late...%K%N
+0xA38
+あの一瞬のためらいさえ無ければ……。%K%P
+If I hadn't hesitated in that one instant...%K%P
+0xA44
+オレは優夏を……かばうことができた筈だ。%K%P
+I could have... protected Yuka.%K%P
+0xA50
+なのに……。%K%N
+Even so...%K%N
+0xA5C
+なのに……。%K%P
+Even so...%K%P
+0xA68
+オレは最期の力を振り絞り、虫のように這って、優夏の傍らへとすり寄った。%K%P
+I muster the last of my strength to crawl like an insect%Nover to Yuka's side.%K%P
+0xA74
+腕の中に、ぬるぬると血に濡れた肌の感触……。%K%N
+In my arms, I feel Yuka's skin is wet with slippery blood...%K%N
+0xA80
+透き通るような優夏の白い頬……。%K%N
+Her cheeks are ghastly pale, almost transparent...%K%N
+0xA8C
+それはあたかも、ガラス細工の人形のようだった。%K%P
+As if she were a doll made of glass.%K%P
+0xA98
+優夏「どうして%W…%W…」%K%P
+Yuka「Why...」%K%P
+0xAA4
+かすれた声が、虚しく宙をただよう。%K%P
+Her hoarse voice fills this empty void.%K%P
+0xAB0
+涙が、ぽろぽろぽろぽろと、とめどなく頬を伝った。%K%P
+Many tears pour down her face nonstop.%K%P
+0xABC
+やがて優夏の手の平から……%K%P
+Before long, from Yuka's palm...%K%P
+0xAD0
+……鈴は落ちた。%K%P
+... the bell falls.%K%P
+0xADC
+そしてオレの手の平からも……%K%P
+And from my palm as well...%K%P
+0xB14
+……鈴がこぼれた。%K%P
+... the bell slips out and falls.%K%P
+0xB2C
+その瞬間……%K%N
+At that moment...%K%N
+0xB38
+──光は、失われた。%K%P
+―All light fades.%K%P

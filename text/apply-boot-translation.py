@@ -2,11 +2,17 @@
 # -*- coding: utf-8 -*-
 
 import sys
+import os
 import re
 
 elf_head_size = 0xA0
 
-text_area     = [0x12116c, 0x128698]
+text_area_e17  = [0x12116c, 0x128698]
+text_area_r11 = [0x121118, 0x12b9a4]
+text_area_n7 = [0x11d118, 0x123bc0]
+
+text_area = text_area_e17
+
 # text_tables   = [0x12bb8c, 0x136aa0]
 
 # relocation_area = [0x137528, 0x141520]
@@ -74,7 +80,14 @@ def main():
 
   if len(sys.argv) != 4:
     exit("Usage: %s translation.txt source-BOOT.BIN output-BOOT.BIN")
-  
+
+  global text_area
+  if "GAME" in os.environ:
+    if os.environ["GAME"] == "r11":
+      text_area = text_area_r11
+    elif os.environ["GAME"] == "n7":
+      text_area = text_area_n7
+
   print("Applying BOOT.BIN translation.")
 
   txt     = sys.argv[1]
@@ -130,7 +143,7 @@ def main():
         else:
           exit("Cannot complete")
 
-  
+
   f_bin=open(bin_out, "wb")
   f_bin.write(bin_bytes)
   f_bin.close()

@@ -1,0 +1,975 @@
+text area offset and size:
+0x1BF0
+0x40AD
+0x78
+……ようやく準備が整った。%K%N
+... The barbecue is finally set up.%K%N
+0x84
+みんなは手に手に紙コップを持っている。%K%N
+Everyone is holding their own paper cup.%K%N
+0x90
+中にはよく冷えたビール。%K%P
+Inside them is ice cold beer.%K%P
+0x9C
+（ただし、くるみと遙はオレンジジュース）%K%P
+(However, Kurumi and Haruka have orange juice.)%K%P
+0xA8
+鉄板からジュワーッと香ばしい煙が立ち昇っていた。%K%P
+Savory smoke begins to rise from the iron plate.%K%P
+0xBC
+いづみ「それじゃあ、乾杯しましょうか？」%K%P
+Izumi「Well then, shall we make a toast?」%K%P
+0xC8
+いづみ「乾杯の音頭は……そうね、ここは川島班の班長さんに、お願いしようかな？」%K%P
+Izumi「The one to lead off the toast will be... right. Leader of the%NKawashima Party, would you do the honors?」%K%P
+0xE4
+優夏「えっ？　私が？」%K%P
+Yuka「Huh? Me?」%K%P
+0xF0
+みんなの視線が、一斉に優夏の方へと向けられた。%K%P
+Everyone's gazes immediately turn to Yuka.%K%P
+0x104
+優夏「よしっ。まかせて！」%K%P
+Yuka「All right! Leave it to me!」%K%P
+0x118
+優夏「……だけど……何に乾杯すれば、いいのかな？」%K%P
+Yuka「... But... what should I toast to?」%K%P
+0x124
+くるみ「もう、そういうのは自分で考えるもんだよ、優夏さん？」%K%P
+Kurumi「Geez, you're supposed to think it up yourself, Yuka-san!」%K%P
+0x138
+優夏「そっかぁ……。それもそうね」%K%P
+Yuka「I see... You're right.」%K%P
+0x14C
+優夏「う〜んと……」%K%P
+Yuka「Let's see...」%K%P
+0x158
+優夏「じゃあ、こうしてみんなが巡り会えたことに……」%K%P
+Yuka「All right, then to our chance meeting...」%K%P
+0x16C
+優夏「それから、ちょっと遅いけど、沙紀の快気祝いの意味も込めて……」%K%P
+Yuka「And it's a little late, but also to Saki's recovery...」%K%P
+0x178
+優夏「それじゃあ、乾杯っ♪」%K%P
+Yuka「Well then, cheers♪」%K%P
+0x184
+みんな「かんぱ〜い！」%K%P
+Everyone「Cheers!」%K%P
+0x190
+声を合わせ、紙コップを掲げるみんな……。%K%N
+With their voices in unison, everyone touts their paper%Ncups...%K%N
+0x19C
+それぞれに笑顔を浮かべながら……。%K%N
+... They're all smiling...%K%N
+0x1A8
+笑顔を……%T030浮かべながら……？%K%P
+They're... smiling...?%K%P
+0x25C
+オレはふと気づいた。今さらながら……。%K%P
+I only realized it just now...%K%P
+0x268
+きっとあまりにもみんなの様子が自然だったから気づかなかったのだろう。%K%P
+I must not have realized it because everyone's acting%Nso naturally.%K%P
+0x2AC
+沙紀と遙の嬉しそうな顔……。%K%N
+Saki and Haruka's happy faces...%K%N
+0x2B8
+昨日あれだけのことがあったのに、２人が嬉しそうにしているのはどういうことだ？%K%P
+Why do they seem so happy, even though they fought%Nonly yesterday?%K%P
+0x2E0
+誠「くるみ、くるみ……ちょっと……」%K%P
+Makoto「Kurumi, Kurumi... come here...」%K%P
+0x2EC
+くるみ「ん？　な〜に？」%K%P
+Kurumi「Hmm? What?」%K%P
+0x2F8
+他のみんなが会話に夢中になっているのを見計らって、オレはくるみをさり気な〜く隅っこの方に呼び出した。%K%P
+When everyone else becomes engrossed in%Nconversation with each other, I pick that time to casually%Ncall Kurumi over towards a nook.%K%P
+0x330
+誠「つかぬことを聞くけど……」%K%P
+Makoto「This may be an abrupt question, but...」%K%P
+0x33C
+くるみ「？」%K%P
+Kurumi「?」%K%P
+0x348
+誠「沙紀と遙って、オレがルナビーチに来る前から、あんな感じだったのか？」%K%P
+Makoto「Were Saki and Haruka in this kind of mood before I%Narrived at Lunabeach?」%K%P
+0x354
+オレは、輪になっているみんなの方にチラッと視線を向けた。%K%P
+I quickly glance towards the circle of people that has%Nnow formed by the plate.%K%P
+0x360
+くるみ「あっ、そっかぁ……。%Nお兄ちゃん、知らないんだぁ……」%K%P
+Kurumi「Oh, that's right... Onii-chan, you don't know...」%K%P
+0x36C
+誠「なんか、あったのか？」%K%P
+Makoto「Did something happen?」%K%P
+0x378
+くるみ「うん。あのね？」%K%P
+Kurumi「Yeah. Guess what?」%K%P
+0x384
+そう言うと、くるみは急に声をひそめて話し始めた。%K%P
+When she says that, Kurumi suddenly begins to whisper.%K%P
+0x390
+くるみ「沙紀さん……本当はルナビーチに来るつもりは%Nなかったみたいなの」%K%P
+Kurumi「Truth is, it seems Saki-san... had no intention of coming to%NLunabeach.」%K%P
+0x39C
+誠「？」%K%P
+Makoto「?」%K%P
+0x3A8
+くるみ「それで、お兄ちゃんが来る前……って言っても４時ぐらいだけど……」%K%P
+Kurumi「And then, before you came, Onii-chan... Kurumi thinks it%Nwas just about 4:00.」%K%P
+0x3B4
+くるみ「お姉ちゃんが、沙紀さんの別荘に行って、なんとか説得して……」%K%P
+Kurumi「Onee-chan went to Saki-san's summer house, and%Nmanaged to persuade her somehow...」%K%P
+0x3C0
+誠「で、沙紀は機嫌を直した、と……」%K%P
+Makoto「So that put Saki back in a good mood...」%K%P
+0x3CC
+くるみ「そういうこと。ほら、お姉ちゃんって、そういうの得意でしょ？」%K%P
+Kurumi「That's right. See, that's Onee-chan's specialty, right?」%K%P
+0x3D8
+誠「……だけど遙の方は、それでＯＫだったのか？」%K%P
+Makoto「... But is Haruka okay?」%K%P
+0x3E4
+くるみ「うん。遙さんは、あんまり気にしてないみたいだったよ？」%K%P
+Kurumi「Yeah. It seems you don't have to worry much about%NHaruka-san.」%K%P
+0x3F0
+誠「じゃあ、２人は仲直り、したのかな？」%K%P
+Makoto「Then those two have made peace?」%K%P
+0x3FC
+くるみ「う〜ん……それはどうかなぁ……。%Nそこまではいってないと思うけど……」%K%P
+Kurumi「Hmm... Kurumi wonders about that... Kurumi doesn't think%Nshe would go as far as to say that...」%K%P
+0x408
+くるみ「なんだかんだ言っても、沙紀さんの方は、やっぱりちょっと引っかかってるみたいだし……」%K%P
+Kurumi「Saki-san does seem to be a little upset...」%K%P
+0x414
+誠「そうなのか？」%K%P
+Makoto「Really?」%K%P
+0x420
+くるみ「あっ……別にこれと言って、%N理由があるってわけじゃないんだけど……」%K%P
+Kurumi「Ah... it's not like Kurumi can tell if she feels that way or%Nnot...」%K%P
+0x42C
+くるみ「ただくるみには……そう思えちゃうんだよ%Nねぇ……なんとなく……」%K%P
+Kurumi「It's just what Kurumi... happens to... think...」%K%P
+0x438
+誠「ふーん……なるほど」%K%P
+Makoto「Hmm... I see.」%K%P
+0x444
+誠「ありがとな、くるみ！」%K%P
+Makoto「Thank you, Kurumi!」%K%P
+0x450
+そう言って、オレはくるみの頭を撫でてやった。%K%P
+I pat her on the head.%K%P
+0x464
+沙紀の嬉しそうな顔……。%K%N
+Saki seems happy...%K%N
+0x470
+さっきあれだけのことがあったのに、沙紀が嬉しそうにしているのはどういうことだ？%K%P
+She was fighting with Haruka mere hours ago. How's this%Npossible?%K%P
+0x498
+誠「くるみ、くるみ……ちょっと……」%K%P
+Makoto「Kurumi, Kurumi... come here...」%K%P
+0x4A4
+くるみ「ん？　な〜に？」%K%P
+Kurumi「Hmm? What?」%K%P
+0x4B0
+他のみんなが会話に夢中になっているのを見計らって、オレはくるみをさり気な〜く隅っこの方に呼び出した。%K%P
+When everyone else becomes engrossed in%Nconversation with each other, I pick that time to casually%Ncall Kurumi over towards a nook.%K%P
+0x4E8
+誠「つかぬことを聞くけど……」%K%P
+Makoto「This may be an abrupt question, but...」%K%P
+0x4F4
+くるみ「？」%K%P
+Kurumi「?」%K%P
+0x500
+誠「沙紀って、オレと遙がルナビーチに来る前から、あんな感じだったのか？」%K%P
+Makoto「Was Saki in this kind of mood before Haruka and I arrived%Nat Lunabeach?」%K%P
+0x50C
+オレは、沙紀の方にチラッと視線を向けた。%K%P
+I quickly glance towards Saki.%K%P
+0x518
+くるみ「あっ、そっかぁ……。%Nお兄ちゃん、知らないんだぁ……」%K%P
+Kurumi「Oh, that's right... Onii-chan, you don't know...」%K%P
+0x524
+誠「なんか、あったのか？」%K%P
+Makoto「Did something happen?」%K%P
+0x530
+くるみ「うん。あのね？」%K%P
+Kurumi「Yeah. Guess what?」%K%P
+0x53C
+そう言うと、くるみは急に声をひそめて話し始めた。%K%P
+When she says that, Kurumi suddenly begins to whisper.%K%P
+0x548
+くるみ「沙紀さん……本当はルナビーチに来るつもりはなかったみたいなの」%K%P
+Kurumi「Truth is, it seems Saki-san... had no intention of coming to%NLunabeach.」%K%P
+0x554
+誠「？」%K%P
+Makoto「?」%K%P
+0x560
+くるみ「それで、お兄ちゃんが来る前……って言っても４時ぐらいだけど……」%K%P
+Kurumi「And then, before you came, Onii-chan... Kurumi thinks it%Nwas just about 4:00.」%K%P
+0x56C
+くるみ「お姉ちゃんが、沙紀さんの別荘に行って、なんとか説得して……」%K%P
+Kurumi「Onee-chan went to Saki-san's summer house, and%Nmanaged to persuade her somehow...」%K%P
+0x578
+誠「で、沙紀を連れて来た、と……」%K%P
+Makoto「So she brought Saki along...」%K%P
+0x584
+くるみ「そういうこと。ほら、お姉ちゃんって、そういうの得意でしょ？」%K%P
+Kurumi「That's right. See, that's Onee-chan's specialty, right?」%K%P
+0x590
+誠「……じゃあ沙紀は、もうすっかり機嫌を直したってことか？」%K%P
+Makoto「... Then does that mean that completely put Saki in a%Ngood mood?」%K%P
+0x59C
+くるみ「う〜ん……それはどうかなぁ……。%Nそこまではいってないと思うけど……」%K%P
+Kurumi「Hmm... Kurumi wonders about that... Kurumi doesn't think%Nshe would go as far as to say that...」%K%P
+0x5A8
+（まぁ……そりゃそうだよな……）%K%P
+(Well... that's a given...)%K%P
+0x5B4
+いづみさんがどうやって沙紀を説得したのかはわからないが、今日の遙との言い争いを見た限りでは、そう簡単に沙紀が機嫌を直すとは思えない。%K%P
+I don't know how Izumi-san managed to persuade Saki.%NGiven that she quarreled with Haruka today, it would%Nhave taken a miracle to cheer her up so much.%K%P
+0x5C0
+くるみ「あっ……別にこれと言って、理由があるってわけじゃないんだけど……」%K%P
+Kurumi「Ah... it's not like Kurumi can tell if she feels that way or%Nnot...」%K%P
+0x5CC
+くるみ「ただくるみには……そう思えちゃうんだよ%Nねぇ……なんとなく……」%K%P
+Kurumi「It's just what Kurumi... happens to... think...」%K%P
+0x5D8
+誠「ふーん……なるほど」%K%P
+Makoto「Hmm... I see.」%K%P
+0x5E4
+誠「ありがとな、くるみ！」%K%P
+Makoto「Thank you, Kurumi!」%K%P
+0x5F0
+そう言って、オレはくるみの頭を撫でてやった。%K%P
+I pat her on the head.%K%P
+0x604
+沙紀と遙の嬉しそうな顔……。%K%N
+Saki and Haruka's happy faces...%K%N
+0x610
+さっきあれだけのことがあったのに、２人が嬉しそうにしているのはどういうことだ？%K%P
+How are they both so happy when they fought mere%Nhours ago?%K%P
+0x638
+誠「くるみ、くるみ……ちょっと……」%K%P
+Makoto「Kurumi, Kurumi... come here...」%K%P
+0x644
+くるみ「ん？　な〜に？」%K%P
+Kurumi「Hmm? What?」%K%P
+0x650
+他のみんなが会話に夢中になっているのを見計らって、オレはくるみをさり気な〜く隅っこの方に呼び出した。%K%P
+When everyone else becomes engrossed in%Nconversation with each other, I pick that time to casually%Ncall Kurumi over towards a nook.%K%P
+0x688
+誠「つかぬことを聞くけど……」%K%P
+Makoto「This may be an abrupt question, but...」%K%P
+0x694
+くるみ「？」%K%P
+Kurumi「?」%K%P
+0x6A0
+誠「沙紀と遙って、最初から、あんな感じだったっけ？」%K%P
+Makoto「Have Saki and Haruka been in this mood since the%Nbeginning?」%K%P
+0x6AC
+オレは、輪になっているみんなの方にチラッと視線を向けた。%K%P
+I quickly glance towards the circle of people that has%Nnow formed by the plate.%K%P
+0x6B8
+くるみ「あっ、そっかぁ……。%Nお兄ちゃん、知らないんだぁ……」%K%P
+Kurumi「Oh, that's right... Onii-chan, you don't know...」%K%P
+0x6C4
+誠「なんか、あったのか？」%K%P
+Makoto「Did something happen?」%K%P
+0x6D0
+くるみ「うん。あのね？」%K%P
+Kurumi「Yeah. Guess what?」%K%P
+0x6DC
+くるみは声をひそめて話し始めた。%K%P
+When she says that, Kurumi suddenly begins to whisper.%K%P
+0x6E8
+その話によると、どうやら沙紀は、最初ルナビーチに来るつもりはなかったようだ。%K%P
+According to her, Saki originally had no intention of%Ncoming to Lunabeach.%K%P
+0x6F4
+そこで億彦が、沙紀をなだめ、なんとか説得して連れて来たらしい。%K%P
+But then Okuhiko managed to calm her down, and%Npersuaded her to come along with him.%K%P
+0x700
+（あの沙紀を説得するとは……）%K%P
+(Okuhiko actually managed to persuade Saki...)%K%P
+0x70C
+（億彦もなかなかやるもんだ……）%K%P
+(Damn, he's good...!)%K%P
+0x718
+オレは少しだけ感心した。%K%P
+I feel a bit of admiration.%K%P
+0x724
+誠「……だけど遙の方は、それでＯＫだったのか？」%K%P
+Makoto「... But is Haruka okay?」%K%P
+0x730
+くるみ「うん。遙さんは、あんまり気にしてないみたいだったよ？」%K%P
+Kurumi「Yeah. It seems you don't have to worry much about%NHaruka-san.」%K%P
+0x73C
+（遙は……気にしてない？）%K%P
+(Don't worry... about Haruka?)%K%P
+0x748
+誠「じゃあ……まさかとは思うけど……２人は仲直りした、とか？」%K%P
+Makoto「Then... are you saying that... those two have made%Npeace?」%K%P
+0x754
+くるみ「う〜ん……それはどうかなぁ……。%Nそこまではいってないと思うけど……」%K%P
+Kurumi「Hmm... Kurumi wonders about that... Kurumi doesn't think%Nshe would go as far as to say that...」%K%P
+0x760
+くるみ「なんだかんだ言っても、沙紀さんの方は、やっぱりちょっと引っかかってるみたいだし……」%K%P
+Kurumi「To put it some way or another, at the very least, Saki%Ndoes seem a little bothered by it all after all...」%K%P
+0x76C
+（まあ、そうだろうな……）%K%P
+(Well, that's probably true...)%K%P
+0x778
+今日の展望公園での言い争いを見た限りでは、そう簡単に２人が仲直りするとは思えない。%K%P
+Given that she quarreled with Haruka today at Viewpoint%NPark, it would have taken a miracle to cheer her up so%Nmuch.%K%P
+0x784
+くるみ「あっ……別にこれと言って、理由があるってわけじゃないんだけど……」%K%P
+Kurumi「Ah... it's not like Kurumi can tell if she feels that way or%Nnot...」%K%P
+0x790
+くるみ「ただくるみには……そう思えちゃうんだよ%Nねぇ……なんとなく……」%K%P
+Kurumi「It's just what Kurumi... happens to... think...」%K%P
+0x79C
+誠「ふーん……なるほど」%K%P
+Makoto「Hmm... I see.」%K%P
+0x7A8
+誠「ありがとな、くるみ！」%K%P
+Makoto「Thank you, Kurumi!」%K%P
+0x7B4
+そう言って、オレはくるみの頭を撫でてやった。%K%P
+I pat her on the head.%K%P
+0x7C8
+沙紀と遙の嬉しそうな顔……。%K%N
+Saki and Haruka's happy faces...%K%N
+0x7D4
+昨日あれだけのことがあったのに、２人が嬉しそうにしているのはどういうことだ？%K%P
+Why do they seem so happy, even though they fought%Nonly yesterday?%K%P
+0x7FC
+誠「くるみ、くるみ……ちょっと……」%K%P
+Makoto「Kurumi, Kurumi... come here...」%K%P
+0x808
+くるみ「ん？　な〜に？」%K%P
+Kurumi「Hmm? What?」%K%P
+0x814
+他のみんなが会話に夢中になっているのを見計らって、オレはくるみをさり気な〜く隅っこの方に呼び出した。%K%P
+When everyone else becomes engrossed in%Nconversation with each other, I pick that time to casually%Ncall Kurumi over towards a nook.%K%P
+0x84C
+誠「つかぬことを聞くけど……」%K%P
+Makoto「This may be an abrupt question, but...」%K%P
+0x858
+くるみ「？」%K%P
+Kurumi「?」%K%P
+0x864
+誠「沙紀と遙って、最初から、あんな感じだったっけ？」%K%P
+Makoto「Have Saki and Haruka been in this mood since the%Nbeginning?」%K%P
+0x870
+オレは、輪になっているみんなの方にチラッと視線を向けた。%K%P
+I quickly glance towards the circle of people that has%Nnow formed by the plate.%K%P
+0x87C
+くるみ「あっ、そっかぁ……。%Nお兄ちゃん、知らないんだぁ……」%K%P
+Kurumi「Oh, that's right... Onii-chan, you don't know...」%K%P
+0x888
+誠「なんか、あったのか？」%K%P
+Makoto「Did something happen?」%K%P
+0x894
+くるみ「うん。あのね？」%K%P
+Kurumi「Yeah. Guess what?」%K%P
+0x8A0
+くるみは声をひそめて話し始めた。%K%P
+When she says that, Kurumi suddenly begins to whisper.%K%P
+0x8AC
+その話によると、どうやら沙紀は、最初ルナビーチに来るつもりはなかったようだ。%K%P
+According to her, Saki originally had no intention of%Ncoming to Lunabeach.%K%P
+0x8B8
+そこで億彦が、沙紀をなだめ、なんとか説得して連れて来たらしい。%K%P
+But then Okuhiko managed to calm her down, and%Npersuaded her to come along with him.%K%P
+0x8C4
+（あの沙紀を説得するとは……）%K%P
+(Okuhiko actually managed to persuade Saki...)%K%P
+0x8D0
+（億彦もなかなかやるもんだ……）%K%P
+(Damn, he's good...!)%K%P
+0x8DC
+オレは少しだけ感心した。%K%P
+I feel a bit of admiration.%K%P
+0x8E8
+誠「……だけど遙の方は、それでＯＫだったのか？」%K%P
+Makoto「... But is Haruka okay?」%K%P
+0x8F4
+くるみ「うん。遙さんは、あんまり気にしてないみたいだったよ？」%K%P
+Kurumi「Yeah. It seems you don't have to worry much about%NHaruka-san.」%K%P
+0x900
+誠「じゃあ、２人は仲直り、したのかな？」%K%P
+Makoto「Then those two have made peace?」%K%P
+0x90C
+くるみ「う〜ん……それはどうかなぁ……。%Nそこまではいってないと思うけど……」%K%P
+Kurumi「Hmm... Kurumi wonders about that... Kurumi doesn't think%Nshe would go as far as to say that...」%K%P
+0x918
+くるみ「なんだかんだ言っても、沙紀さんの方は、やっぱりちょっと引っかかってるみたいだし……」%K%P
+Kurumi「Saki-san does seem to be a little upset...」%K%P
+0x924
+誠「そうなのか？」%K%P
+Makoto「Really?」%K%P
+0x930
+くるみ「あっ……別にこれと言って、理由があるってわけじゃないんだけど……」%K%P
+Kurumi「Ah... it's not like Kurumi can tell if she feels that way or%Nnot...」%K%P
+0x93C
+くるみ「ただくるみには……そう思えちゃうんだよ%Nねぇ……なんとなく……」%K%P
+Kurumi「It's just what Kurumi... happens to... think...」%K%P
+0x948
+誠「ふーん……なるほど」%K%P
+Makoto「Hmm... I see.」%K%P
+0x954
+誠「ありがとな、くるみ！」%K%P
+Makoto「Thank you, Kurumi!」%K%P
+0x960
+そう言って、オレはくるみの頭を撫でてやった。%K%P
+I pat her on the head.%K%P
+0x9B4
+再びみんなの輪の中に戻る。%K%P
+I go back into the circle with everyone.%K%P
+0x9C0
+言われてみると、確かに沙紀の表情には、何か納得のいかない思いを抱いているような、そんな陰りが見て取れる。%K%P
+Now that Kurumi's mentioned it, it's easy to tell by Saki's%Nexpression that there's definitely something bothering%Nher about this whole situation.%K%P
+0x9CC
+それは、言われてみなければ気づかないほど、微妙な陰りだったのだけれど……。%K%P
+If Kurumi hadn't told me, I wouldn't have noticed it...%K%P
+0x9E4
+すると、ふいに遙が口を開いた……。%K%P
+Just then, Haruka suddenly speaks...%K%P
+0xA2C
+遙「これ……」%K%P
+Haruka「This...」%K%P
+0xA38
+そう言って遙が掲げたものは、どこかで拾ってきたような、薄汚れた透明のビニール袋だった。%K%P
+Haruka dangles a slightly dirty, clear plastic bag in front%Nof her.%K%P
+0xA44
+中には、何やらウヨウヨと蠢く小さな生き物がびっしりと詰め込まれている。%K%P
+Inside is a wriggling group of small, living creatures,%Nclosely packed and jammed in the bag.%K%P
+0xA50
+みんなは口をポカ〜ンと開けて、絶句していた……。%K%P
+Everyone's jaws drop...%K%P
+0xA5C
+誠「な、なんだよ、それ……？」%K%P
+Makoto「Wh-What are those...?」%K%P
+0xA68
+オレは思い切って聞いてみた。%K%P
+Resolving myself, I decide to try asking her.%K%P
+0xA74
+遙「フナムシ」%K%P
+Haruka「Sea roaches.」%K%P
+0xA80
+あっさりと答える遙。%K%P
+Haruka quickly answers.%K%P
+0xA8C
+億彦「そ、そ、そ、それを、ど、どうするつもりなんだい、遙ちゃん？」%K%P
+Okuhiko「Wh-Wh-Wh-What d-do you intend to do with them,%NHaruka-chan?」%K%P
+0xA98
+すると返ってきた答は……%K%P
+Soon enough, she responds with...%K%P
+0xAB4
+遙「食べるの」%K%P
+Haruka「Eat them.」%K%P
+0xAC0
+億彦「…………え？」%K%P
+Okuhiko「... Huh?」%K%P
+0xACC
+優夏「…………え？」%K%P
+Yuka「... Huh?」%K%P
+0xAD8
+いづみ「…………え？」%K%P
+Izumi「... Huh?」%K%P
+0xAE4
+沙紀「…………え？」%K%P
+Saki「... Huh?」%K%P
+0xAF0
+誠「…………ええっ！？」%K%P
+Makoto「... Huuuh!?」%K%P
+0xB0C
+くるみ「……だけど、意外と美味しいかもよ？」%K%P
+Kurumi「... But they might be surprisingly tasty!」%K%P
+0xB18
+くるみがポツリとつぶやいた。%K%P
+Kurumi mutters this.%K%P
+0xB24
+沙紀「お、美味しいわけないでしょ、そんなもの！」%K%P
+Saki「Th-There's no way something like that would be good!」%K%P
+0xB40
+遙「……焼いてみよ？」%K%P
+Haruka「... Shall I try grilling them?」%K%P
+0xB54
+沙紀「ちょっとあんた、人の話聞いてるの！？」%K%P
+Saki「Hey, listen to what people are saying, dammit!」%K%P
+0xB60
+くるみ「焼こぉ、焼こぉ、フナムシ焼こぉ♪」%K%P
+Kurumi「Grill them, grill them, grill the sea roaches♪」%K%P
+0xB6C
+沙紀「焼かないの！」%K%P
+Saki「Don't grill them!」%K%P
+0xB78
+完全に２人のペースだ……。%K%P
+Haruka ignores her pleas...%K%P
+0xB84
+そんなことを言ってる間にも、遙は黙々と、結わいたビニールの口をほどこうとしていた。%K%P
+As Saki protests, Haruka has almost finished opening%Nthe plastic bag.%K%P
+0xB98
+いづみ「ちょっと遙ちゃん……？」%K%P
+Izumi「Hold on, Haruka-chan..?」%K%P
+0xBB4
+優夏「やめなさい、遙！」%K%P
+Yuka「Stop it, Haruka!」%K%P
+0xBC0
+優夏が手を伸ばし、遙の手からビニール袋を奪おうとする。%K%P
+Yuka reaches her arm out, and tries to snatch the%Nplastic bag out of Haruka's hands.%K%P
+0xBCC
+──と、その瞬間だった！%K%P
+And in that instant!%K%P
+0xC20
+ビニールの口がガバッと開き、フナムシの大群が飛び散ったのだ。%K%P
+The opening to the plastic bag opens up, and the large%Ngroup of sea roaches scatter.%K%P
+0xC34
+億彦「ぐわぁーーーっ！！！」%K%P
+Okuhiko「GUWAAAAAAA!!!」%K%P
+0xC40
+最も大きな声をあげたのは億彦だった。%K%P
+Okuhiko screams in an extremely loud voice.%K%P
+0xC54
+慌てふためく一同……超速で四方八方へと逃げ出していく。%K%P
+We all panic, and begin to frantically run away.%K%P
+0xC60
+クモの子を散らすようとは、まさにこのことだ。%K%N
+We're like spiders running away from a fire.%K%N
+0xC6C
+飛び散ったフナムシは、運よく鉄板の上には乗らず、砂浜の上を右往左往しながら……%K%P
+Fortunately, none of the sea roaches land on top of the%Niron plate as they scatter away...%K%P
+0xC90
+……やがて、岩場の方へと消えて行った。%K%P
+... And before long, they've all disappeared in the%Ndirection of the rocks.%K%P
+0xCB8
+誠「おーい、もう大丈夫だぞぉ！」%K%P
+Makoto「Heeey, it's all right now!」%K%P
+0xCC4
+オレの声を聞いて、みんなは恐る恐る戻って来た。%K%P
+When they hear my voice, everyone timidly comes back.%K%P
+0xCD8
+優夏「もう！　遙！？　くるみちゃん！？」%K%P
+Yuka「Sheesh! Haruka!? Kurumi-chan!?」%K%P
+0xCE4
+優夏が戻って来るなり一喝する。%K%P
+As soon as Yuka comes back, she cries in a thunderous%Nvoice.%K%P
+0xD00
+遙「だって……」%K%P
+Haruka「But...」%K%P
+0xD0C
+くるみ「……食べたかったんだもん」%K%P
+Kurumi「... We wanted to eat them.」%K%P
+0xD18
+遙とくるみは、しゅんと肩を落としていた……。%K%P
+Haruka and Kurumi slump their shoulders in%Ndisappointment...%K%P
+0xDBC
+あれから１時間以上が経った。%K%N
+About an hour has passed since then.%K%N
+0xDC8
+宴もたけなわ、と言ったところか？%K%P
+I guess you could say the party's in full swing?%K%P
+0xDD4
+あのフナムシ事件は、かえってみんなの心をヒートアップさせたようだった。%K%P
+On contrary to what you'd expect, it seems that sea%Nroach incident only caused everyone's hearts to%Nbecome heated up.%K%P
+0xDE0
+いい意味でのヒートアップ──つまり、さっきよりもますます活気が出てきたということだ。%K%P
+I mean "heated up" in a good way - in other words, it's%Neven livelier than before.%K%P
+0xDEC
+お互いに、茶化したり、おどけてみたりの和やかな雰囲気。%K%P
+Everything is calm as we fool around and poke fun at%Neach other.%K%P
+0xDF8
+いや、和やかな、という表現を遥かに超えて、やかましいぐらいの大騒ぎだ。%K%P
+No, calling it "calm" is too much of a stretch, as there's%Nstill a noisy clamor about.%K%P
+0xE20
+特に……%K優夏。%K%P
+Particularly from... Yuka.%K%P
+0xE68
+優夏「プッハーッ！　やっぱバーベキューにはビールれしょ？　ね？　ね？」%K%P
+Yuka「Phaaa! Beer goshe well wif barbecuesh, doeshen't it?%NRight? Right?」%K%P
+0xE74
+彼女にとっては、小一時間もあれば、出来上がるのには十分だった。%K%P
+To her, one short hour must be more than enough time to%Nget plastered.%K%P
+0xE80
+優夏「くるみたんも、のむ？」%K%P
+Yuka「Kurumi-tan, yuu want a drink?」%K%P
+0xE8C
+言いながら、オレンジジュースの入った%Nくるみの紙コップに、ビールを注ごうとする優夏。%K%P
+As she says this, she takes Kurumi's paper cup filled%Nwith orange juice and tries to pour in beer.%K%P
+0xE98
+誠「おいおい、未成年に勧めるなよ！」%K%P
+Makoto「Hey, hey, don't encourage minors!」%K%P
+0xEAC
+優夏「もう、かたいこといっちゃってぇ〜」%K%P
+Yuka「Sheesh, yer shou shtiff.」%K%P
+0xEB8
+優夏「のみがたらないんらないれすか？　まこったん？」%K%P
+Yuka「Yuu haven't had enuff to drink yet, have yuu, Mako-tan?」%K%P
+0xEC4
+今度はオレの方に、ビールの缶を向ける。%K%P
+This time, she thrusts a beer can towards me.%K%P
+0xED0
+（ったく、優夏に酒は禁物だな）%K%P
+(Geez, Yuka should be banned from alcohol...)%K%P
+0xEDC
+（ちゃんと監視しとくべきだった……）%K%P
+(I should've kept a close eye on her...)%K%P
+0xEE8
+誠「はぁ……」%K%P
+Makoto「Haah...」%K%P
+0xEF4
+いつの間にか、ため息が出ていた。%K%P
+I release a weary sigh.%K%P
+0xF08
+優夏「あっ、ま〜たそうやってすぐしぼむぅぅぅ」%K%P
+Yuka「Ahh, if yer like dat, yer gonna widder away shooooooon.」%K%P
+0xF14
+優夏「あんたはシイタケかっつーの！」%K%P
+Yuka「Yuu'll bee like a shiitake!」%K%P
+0xF20
+億彦「だっはっはっはっは♪　シイタケはいいね、%N優夏ちゃん？」%K%P
+Okuhiko「Dahahahaha♪ Aren't shiitakes nice, Yuka-chan?」%K%P
+0xF3C
+億彦に笑われたせいで、何だか腹が立ってきた。%K%P
+Thanks to Okuhiko's laugh, I'm kind of pissed off.%K%P
+0xF48
+その腹立たしさをまぎらわそうと、焼けた牛肉に箸を伸ばすオレ。%K%P
+In an attempt to sway off my irritation, I reach my%Nchopsticks out for a grilled piece of beef.%K%P
+0xF54
+ところがその際、誤って手を滑らし、箸を鉄板の上に落っことしてしまった。%K%P
+But just as I'm on the verge of grabbing it, my hand slips%Naccidentally, and the chopsticks fall on top of the iron%Nplate.%K%P
+0xF68
+くるみ「もう、お兄ちゃん、酔っ払ってるんじゃないのぉ？」%K%P
+Kurumi「Geez, Onii-chan, you sure you're not drunk?」%K%P
+0xF74
+酔っ払ってる？%K%N
+Drunk?%K%N
+0xF80
+……うーん……確かにそうかもな。%K%N
+... Hmm... that's certainly possible.%K%N
+0xF8C
+コップを倒したり、箸を落としたりするのは、酔ってきた兆候だ。%K%P
+Doing things such as knocking over cups and dropping%Nmy chopsticks are signs that I could be drunk.%K%P
+0xF98
+（もう少し自制しなくちゃな……）%K%P
+(I need to show a little more self-control...)%K%P
+0xFA4
+そんなことを思いながら……%K%N
+While I'm thinking this...%K%N
+0xFB0
+……しかし何を血迷ったか、オレはいきなり、素手で鉄板の上の箸をつかもうとしてしまった。%K%P
+... I seem to have lost my mind, as I suddenly try to grab%Nmy chopsticks off the iron plate with my bare hands.%K%P
+0xFBC
+誠「あっち！！」%K%P
+Makoto「HOT!!」%K%P
+0xFC8
+慌てて手を離すオレ。%K%P
+I frantically jerk my hand away.%K%P
+0xFDC
+くるみ「キャハハハッ♪　しょうがないなぁ、もう……くるみが取ってあげるよぉ♪」%K%P
+Kurumi「Kyahahaha♪ Geez, you're so helpless... Kurumi will get%Nthem for you♪」%K%P
+0xFE8
+くるみは自分の箸を使って、%Nオレの箸を取ってくれた。%K%P
+Kurumi picks up my chopsticks using her own.%K%P
+0x1018
+すると……%K%P
+Just then...%K%P
+0x1034
+優夏「あっ！！」%K%P
+Yuka「Ahh!!」%K%P
+0x1040
+……突然、優夏が身を乗り出すようにして、軽い火傷を負ったオレの手の平をビシッと指差した。%K%P
+... Suddenly, Yuka tries to bend herself forward, and%Npoints at my lightly burnt hand.%K%P
+0x104C
+それも人差し指と中指、２本の指を使って……。%K%P
+She points at me using her middle and index fingers...%K%P
+0x1074
+優夏「わたくし、たったいま、ものすごいことにきづいてしまいましたっ！」%K%P
+Yuka「Eye have jusht come up wif shomefing amashin'!」%K%P
+0x1080
+くるみ「……えっ？」%K%P
+Kurumi「... Huh?!」%K%P
+0x1094
+優夏「焼けた石原は、シイタケや！」%K%P
+Yuka「Whaa doo yuu call a burnt Ishihara?」%K%P
+0x10A0
+くるみ「……へっ？」%K%P
+Kurumi「... What?」%K%P
+0x10AC
+優夏「かいぶんよ、か・い・ぶ・ん！」%K%P
+Yuka「Ish a joke, a joke!」%K%P
+0x10B8
+優夏「『やけたいしはらはシイタケや』……ぎゃくからよんれも『やケタイシはらはしいたけや』」%K%P
+Yuka「Whaa doo yuu call a burnt Ishihara? An 'Ishiitakehara'!」%K%P
+0x10C4
+くるみ「…………」%K%P
+Kurumi「...」%K%P
+0x10D0
+誠「……ま、またかよ……」%K%P
+Makoto「... Th-That's pretty weak...」%K%P
+0x10DC
+くるみ「う〜ん……優夏さん、それ、ちょっとイマイチかも」%K%P
+Kurumi「Hmm... Yuka-san, sorry, but it's not really that funny.」%K%P
+0x10F0
+優夏「ええーっ！　ウソォー！%Nけっこうじしんあったのにぃー！　ぶぅ……」%K%P
+Yuka「Huuuuh! Yer kiddin'! Even dough I fought it wash radder%Nclever! Boo...」%K%P
+0x10FC
+ぶぅたれている……。%K%P
+She's booing again...%K%P
+0x1108
+まあ、オレ的にはとりあえず安心した。%K%N
+Well, for the time being, I'm relieved.%K%N
+0x1114
+優夏＆くるみの最強タッグが組まれると、後々かなり厄介だからな。%K%P
+If Yuka and Kurumi were in perfect synch, then I'd fear for%Nthe future of this planet.%K%P
+0x1120
+優夏「う〜〜〜〜〜〜〜ん」%K%P
+Yuka「Hmmm〜〜〜〜〜〜〜mmmm.」%K%P
+0x1134
+優夏「なら、こういうのはどう？」%K%P
+Yuka「Den haush dish?」%K%P
+0x1140
+瞳を輝かせる優夏。%K%P
+Yuka's eyes sparkle.%K%P
+0x1164
+──と、その時！%K%P
+―And at that time!%K%P
+0x11A8
+今度は沙紀がヘマをやらかした。%K%N
+This time, Saki's the one who commits a blunder.%K%N
+0x11B4
+右手に持っていた紙コップを左手に持ち替えようとした拍子に、手を滑らせてしまったのだ。%K%P
+The instant she tries to transfer the paper cup in her%Nright hand to her left hand, her hand slips.%K%P
+0x11C0
+そして、その最大かつ唯一の犠牲者となったのは、隣に立っていた優夏だった。%K%P
+Her beer splashes all over Yuka, who was standing right%Nnext to her.%K%P
+0x11CC
+胸元から下の部分……ほぼ全身に、大量のビールを浴びている。%K%P
+From her chest to her lower sections... almost her entire%Nbody has been soaked by a large amount of beer.%K%P
+0x11E0
+優夏「……ちょ、ちょっと、さきぃぃぃ……」%K%P
+Yuka「... H-Hey, Shakiiiiii...」%K%P
+0x11FC
+沙紀「……ご、ごめん」%K%P
+Saki「... S-Sorry.」%K%P
+0x1208
+あたりは水を打ったような静けさだった。%K%P
+Everyone becomes completely silent.%K%P
+0x1214
+億彦「だけど、これぞまさに『水もしたたるいい女』じゃないか？」%K%P
+Okuhiko「But I guess you could say she's 'soaking up the beer',%Nright? That's not much of a difference.」%K%P
+0x1220
+億彦が余計なことを言う。%K%N
+Okuhiko makes an unnecessary joke.%K%N
+0x122C
+それを聞いた沙紀は……%K%P
+When Saki hears that...%K%P
+0x1240
+沙紀「ふふっ」%K%P
+Saki「Hee hee...」%K%P
+0x124C
+……含み笑いをした。%K%P
+... She giggles.%K%P
+0x1268
+優夏「もう、笑いごとじゃないよぉ」%K%P
+Yuka「Geesh, dish ish no laffin' matter!」%K%P
+0x1284
+沙紀「……ほんとに、ごめん」%K%P
+Saki「... Really, I'm sorry.」%K%P
+0x1290
+沙紀「だって億彦くんが、ふふっ、変なこと…言うから……」%K%P
+Saki「It's just what Okuhiko-kun, hee hee, said was... kinda true...」%K%P
+0x12C0
+──言ったとたん、さっきとは別の方角から何かが飛んだ！%K%P
+―The instant she says this, something comes flying%Nfrom a different direction!%K%P
+0x12CC
+オレンジ色の液体……ジュースだ。%K%N
+It's an orange colored liquid... juice.%K%N
+0x12D8
+そのオレンジジュースは、まるで個体のように真っ直ぐ飛んで、沙紀に直撃していた。%K%P
+That orange juice flies straight as if it were a living%Nbeing, landing a direct hit on Saki.%K%P
+0x12EC
+それが発射された方角を一斉に見る一同……。%K%P
+We all simultaneously look in the direction of where the%Njuice was thrown...%K%P
+0x131C
+そこには、空になった紙コップを手にした遙の姿があった。%K%P
+Standing there is Haruka, holding an empty paper cup.%K%P
+0x1338
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x1344
+沙紀は、何が起こったのか分からない、といった感じで茫然としている。%K%P
+Saki seems bewildered, as if she doesn't fully%Nunderstand what just happened.%K%P
+0x1360
+遙「悪いと思って……ないみたいだったから」%K%P
+Haruka「You don't seem... to feel bad about what you did.」%K%P
+0x136C
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x1378
+遙「同じことしてあげないと……分からないんじゃないかと、思ったから」%K%P
+Haruka「I didn't think you'd understand... unless the same thing%Nwas done to you.」%K%P
+0x138C
+沙紀「な……な……なにすんのよ！」%K%P
+Saki「Wh... Wh... What the hell's your problem!?」%K%P
+0x1398
+沙紀「悪いと思ってたわよ！%Nだから何度も何度も謝ったじゃない！」%K%P
+Saki「I did feel bad! That's why I apologized countless times!」%K%P
+0x13A4
+遙「謝ってない……２回しか」%K%P
+Haruka「Only apologizing twice... is hardly what you'd call%N'countless'.」%K%P
+0x13B0
+沙紀「２回も謝れば十分でしょ！%Nこんなみっともない酔っ払いに！」%K%P
+Saki「Twice is enough for this shameful drunkard, right?!」%K%P
+0x13BC
+優夏「みっともない酔っ払い！？」%K%P
+Yuka「Shameful drunkahd!?」%K%P
+0x13C8
+優夏「酔っ払いはそっちでしょ！？　そうじゃなきゃビールなんかこぼしたりするわけないんだから！」%K%P
+Yuka「Aren't yuu de drunk wan here!? If yuu weren't, den%Ndere'sh nah wei yuu would have shpilled beer over me!」%K%P
+0x13D4
+優夏「それとも、わざとやったって言うの！」%K%P
+Yuka「Or ah yuu shayin' yuu did it on purposhe!?」%K%P
+0x13E0
+沙紀「わざとそんなことする人がどこにいるのよ！？」%K%P
+Saki「What kind of person would do that on purpose!?」%K%P
+0x13EC
+沙紀「そうよ！　人間だったらそんなこと、故意にやったりしないのよ！」%K%P
+Saki「That's right! If you're a 'human', then you'd never do%Nsomething like that on purpose!」%K%P
+0x13F8
+沙紀「クローンっていう人種は、どうやら違うみたいだけどね！」%K%P
+Saki「But somehow, it seems that 'clones' are different in that%Nregard, aren't they!?」%K%P
+0x1414
+すると……%K%P
+Just then...%K%P
+0x1430
+いづみ「いい加減にしなさいっ！！！」%K%P
+Izumi「ENOUGH!!!」%K%P
+0x143C
+……遂に見かねたいづみさんが、大声をはりあげた。あの穏和ないづみさんが、だ。%K%N
+... Finally, Izumi-san raises her voice, unable to watch any%Nlonger. That same gentle Izumi-san.%K%N
+0x1448
+そのひと言で、あたりに再び静寂が訪れた……。%K%P
+Her roar immediately shuts us up...%K%P
+0x1454
+いづみ「もうみんな大人なんだから、そんな下らないことでケンカしないの！」%K%P
+Izumi「You're all adults here, so don't fight over such a trivial%Nthing!」%K%P
+0x1460
+例の３人は、さすがにいづみさんには%N刃向うことができないと見えて、%Nぐっと押し黙ったまま下を向いてしまった。%K%P
+The three of them are overwhelmed and can't face%NIzumi-san's deathly glare, staying firmly silent while%Nstaring at the ground.%K%P
+0x1474
+嫌な空気が流れる……。%K%N
+This is really awkward...%K%N
+0x1480
+第三者のオレでさえ逃げ出したくなるような、ぎこちない空気だ。%K%P
+Even though I'm a third party, I really want to run away...%K%P
+0x148C
+いや、第三者だったからこそ、逃げ出したかったのかもしれない。%K%P
+No, I might want to run away exactly because I'm a third%Nparty.%K%P
+0x1498
+そんな最悪の雰囲気の中……やがて沙紀は、こうつぶやいた。%K%P
+It couldn't possibly get any worse... Saki breaks the%Nsilence and mutters something.%K%P
+0x14C8
+沙紀「とにかく……」%K%P
+Saki「Anyway...」%K%P
+0x14D4
+沙紀「……私はもう帰るから」%K%P
+Saki「... I'm going home now.」%K%P
+0x14F0
+足元に置いた自分のバッグを拾い上げる沙紀。%K%P
+Saki picks up her bag, which she'd placed at her feet.%K%P
+0x1520
+その弾みで、バッグの中から何かがこぼれ落ちた。%K%P
+She accidently drops something.%K%P
+0x152C
+砂の上を見る。%K%N
+I look on top of the sand.%K%N
+0x1538
+そこにあったのは、なんと、みんなで割り勘していづみさんに買って来てもらった…………『牛肉のパック』だった。%K%P
+Sprawled on the beach is the "Beef Bag"... the bag full of%Nbeef that we all paid Izumi-san to buy.%K%P
+0x154C
+どうして沙紀が……？%K%P
+Why does Saki...?%K%P
+0x1568
+遙「そんなの盗んで……どうするつもり？」%K%P
+Haruka「What are you planning to do... by stealing that?」%K%P
+0x1574
+遙は何のためらいも見せずにそう言い放った。%K%P
+Haruka asks her this unfalteringly.%K%P
+0x1588
+沙紀「盗んだんじゃないわよ！」%K%P
+Saki「I'm not stealing!」%K%P
+0x1594
+遙「じゃあ……もらったんだ？」%K%P
+Haruka「Then... you're taking it?」%K%P
+0x15A0
+沙紀「……うるさいわね！　どうだっていいでしょ、そんなこと！」%K%P
+Saki「... Shut up! It's not worth worrying over, is it!?」%K%P
+0x15B4
+遙「よくないよ……」%K%P
+Haruka「You can't do that...」%K%P
+0x15C0
+遙「みんなでお金出して……買ったんだから」%K%P
+Haruka「Because everyone chipped in... to buy this.」%K%P
+0x15D4
+沙紀「もうっ、うるさいのよ、あんたイチイチ！！」%K%P
+Saki「Geez, shut your damn mouth, you bitch!!」%K%P
+0x15E0
+沙紀「だったら警察にでもなんでも通報すれば！？」%K%P
+Saki「Then why don't you report me to the police!?」%K%P
+0x15F4
+沙紀「私は逃げも隠れもしないっ！　あの別荘にずっといるから！」%K%P
+Saki「I won't run or hide, because I'll always be in that summer%Nhouse!」%K%P
+0x1608
+沙紀は何かを断ち切るようにきゅっと振り向くと、砂を巻き上げながら坂道に向かって駆けて行ってしまった……。%K%P
+Saki turns around as if she's blocking something, and%Nruns towards the hill road while kicking up sand...%K%P
+0x162C
+砂浜に残された牛肉が、まるでロウ細工の作り物のように見える。%K%P
+The beef left on the sandy beach looks artificial, like%Nwaxwork.%K%P
+0x1638
+鉄板の下の火は、今にも消えてしまいそうな程にほのかだ。%K%P
+The fire under the iron plate seems like it could go out%Nany time now.%K%P
+0x166C
+……１分経っても、２分経っても、１０分経っても、誰ひとりとして口を開く者はいなかった。%K%P
+... One minute, two minutes, and even ten minutes pass%Nwithout a single person opening their mouths.%K%P
+0x1678
+どうしてこんなことになってしまったんだろう？%K%N
+Why did things turn out this way?%K%N
+0x1684
+ついさっきまで、あんなに楽しそうに笑いあっていたのに……。%K%P
+Just a few mere minutes ago, the air was covered with%Nthe sound of our happy laughter...%K%P
+0x1690
+結局、やっぱり沙紀と遙は、例の一件を引きずっていたのだ。%K%P
+In the end, it seems the tension between Saki and Haruka%Nreally was still weighing heavily on their minds.%K%P
+0x169C
+（なんとかしなくちゃいけない……）%K%P
+(I need to do something...)%K%P
+0x16A8
+（けれど、オレにいったい何ができる……？）%K%P
+(But what can I even do...?)%K%P
+0x16B4
+そんなことを思いながら、オレはふと、遠くの岩陰へと視線を移した。%K%P
+As I think this, my gaze suddenly shifts towards the%Nshadow of a distant rock.%K%P
+0x16D0
+そこには、ひっそりとうずくまったくるみの姿が……。%K%P
+Over there, alone and filled with sadness, is Kurumi...%K%P
+0x16DC
+彼女は今、小さな背中を丸めながら、肩を揺らして泣いている。%K%P
+Right now, she's curled up her small back while her%Nshoulders shake as she cries.%K%P
+0x16E8
+込み上げる鳴咽を懸命にこらえて……しくしく…しくしく…と……。%K%P
+She lets out the sobs that have been welling up inside%Nof her... *Sob*, *sob*... *sob*, *sob*...%K%P
+0x16F4
+オレには、くるみの悲しみが痛いほどよく分かった。%K%Nこんな醜い言い争いに、耐えられるような子じゃないのだ、くるみは……。%K%P
+I understand Kurumi's torment so well that it almost hurts.%NKurumi's the kind of kid who can't bear such an ugly%Nargument like that...%K%P
+0x1700
+駆け寄って慰めようかとも思ったが、かけるべき言葉が見つからなかった。%K%N
+I think of running up to her and comforting her, but I can't%Nthink of any words I should use to do so.%K%N
+0x170C
+今は……そっとしておくしかない……。%K%P
+Right now... I have no choice but to stay silent...%K%P
+0x173C
+絶え間無く打ち寄せる細波の音は、海の嘆きの音だった。%K%P
+The sound of the waves incessantly breaking on the%Nshore is the sound of the sea's lamentations.%K%P

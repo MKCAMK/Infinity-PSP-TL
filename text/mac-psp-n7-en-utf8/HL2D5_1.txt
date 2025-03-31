@@ -1,0 +1,315 @@
+text area offset and size:
+0xB18
+0x1504
+0x154
+？？「……起きてる？」%K%P
+??「... Are you awake?」%K%P
+0x170
+深夜、遠慮がちなノックの音と共に、今や聞き慣れた、涼やかな声が漏れてきた。%K%P
+Late at night, I hear a quiet knock on the door, along with%Na clear voice I've now become accustomed to.%K%P
+0x17C
+誠「ああ。開いてるから入って来いよ」%K%P
+Makoto「Yeah. It's open, so come on in.」%K%P
+0x188
+？？「……うん」%K%P
+??「... All right.」%K%P
+0x1B0
+もちろん、薄暗い部屋に入って来たのは遙だった。%K%P
+Of course, the one who comes into the dim room is Haruka.%K%P
+0x1F8
+遙「ごめん、寝てたんじゃないの？」%K%P
+Haruka「I'm sorry, were you asleep?」%K%P
+0x204
+誠「いや、何か眠れなくて……。それより遙こそどうしたんだ？」%K%P
+Makoto「No, I couldn't sleep for some reason... But more%Nimportantly, what about you? Is something up?」%K%P
+0x210
+遙「私も眠れなくて……それでね？　お願いがあるんだけど……」%K%P
+Haruka「I couldn't sleep either... So I wanted to ask you a favor,%Nbut...」%K%P
+0x21C
+そうか……。そう言えばこの時刻、遙が『不知火を見に行こう』って誘いに来たんだったっけ……。%K%P
+I see... I remember that on the last 5th, this was the time%Nwhen Haruka invited me to go see the shiranui with her...%K%P
+0x240
+遙「……あ、あの……昨日の夜も私、眠れなかったの。それでひとりで外を歩いていたら……不知火を見たの。朝の４時半ぐらいだったと思う……」%K%P
+Haruka「U-Umm... I couldn't sleep last night either. So, when I took a%Nwalk outside by myself... I saw some shiranui. I think it was%Nabout 4:30 in the morning...」%K%P
+0x24C
+誠「それを見に行こうって、誘いに来たんだろ？」%K%P
+Makoto「So you thought you'd go to see them again, and came%Nhere to invite me?」%K%P
+0x258
+オレは迷わずそう告げた。%K%P
+I instantly ask this.%K%P
+0x26C
+遙「……うん」%K%P
+Haruka「... Yes.」%K%P
+0x278
+誠「わかった。じゃあ見に行こう……不知火」%K%P
+Makoto「Got it. Then let's go... see the shiranui.」%K%P
+0x284
+誠「でも、まだ１時過ぎだから早いんじゃないか？%Nちょっとだけでもいいから、寝ておいた方がいいよ」%K%P
+Makoto「But it's only 1:00. That's too early, isn't it? I think it'd be%Nbest if we got some more sleep, even if it's only for a%Nlittle bit.」%K%P
+0x290
+誠「明日もきっと忙しくなるからな？%K　なんなら、オレの腕時計貸そうか？」%K%P
+Makoto「Because I'm sure tomorrow will also get busy... I can lend%Nyou my watch if you'd like.」%K%P
+0x29C
+遙「ううん。大丈夫。じゃあ、ちょっとだけ寝るから、後で呼びに来るね？」%K%P
+Haruka「No, I'll be fine. Well then, I'll let you sleep for a bit, then%Ncome to wake you up afterwards.」%K%P
+0x2A8
+誠「ああ。ドアの鍵は開けとくから、もしも寝てたらたたき起こしてよ」%K%P
+Makoto「Yeah. I'll leave the door unlocked so that you can wake%Nme up if I'm still asleep.」%K%P
+0x2B4
+遙「うん。わかった。約束だよ」%K%P
+Haruka「All right, I understand. It's a promise.」%K%P
+0x2C0
+誠「……約束だ」%K%P
+Makoto「... It's a promise.」%K%P
+0x30C
+オレのその言葉を聞くと、遙は満足そうな笑顔を浮かべて部屋から出て行った。%K%P
+When she hears those words, a satisfied smile rises to%NHaruka's face, and she leaves the room.%K%P
+0x318
+４時半か……オレは腕時計のアラームをセットした。%K%P
+4:30, huh... I set my watch alarm to that time.%K%P
+0x324
+確か、あの事件が起こった日……オレは意識を失う前に、この腕時計のアラームを聞いた。%K%P
+I'm sure that on that day of the "incident", the last thing I%Nheard before I lost consciousness was my watch alarm...%K%P
+0x330
+と言うことはつまり……前の６日……遙が息を引き取ったのは、午前４時半の少し前だったということになる。%K%P
+So in other words, that means... on the previous 6th...%NHaruka died shortly before 4:30 A.M.%K%P
+0x33C
+本当になんとか……なるのだろうか……？%K%P
+Will I really... get through this somehow...?%K%P
+0x3AC
+腕時計のアラーム……。%K%N
+My watch alarm...%K%N
+0x3B8
+と、同時に……%K%P
+And, at the same time...%K%P
+0x3E0
+遙「誠……起きてる？」%K%P
+Haruka「Makoto... are you awake?」%K%P
+0x3F4
+……遠慮がちな遙の声が、扉の外から洩れてきた。%K%P
+... Haruka's quiet, restrained voice comes in from outside%Nthe door.%K%P
+0x424
+遙「ごめんね……無理なことお願いしちゃって」%K%P
+Haruka「I'm sorry... for making such an unreasonable request.」%K%P
+0x430
+誠「……何言ってんだよ。オレが遙と一緒にいたいんだから、いいんだよ」%K%P
+Makoto「... What are you talking about? I wanted to be with you, so%Nit's fine.」%K%P
+0x444
+遙「誠……」%K%P
+Haruka「Makoto...」%K%P
+0x450
+自分で言ってて、何だか恥ずかしくなった。%K%P
+I get a little embarrassed by what I said.%K%P
+0x45C
+その照れくささを隠すように、オレは遙の腕をぐんぐんと引っ張って、ロッジの外に連れ出した。%K%P
+As if to hide that embarrassment, I take Haruka's arm and%Nleave the lodge.%K%P
+0x4E4
+海岸線へと続く坂道を、オレと遙は並んで下って行く。%K%P
+Haruka and I begin to walk side-by-side down the hill%Nroad that leads to the shoreline.%K%P
+0x4F0
+……すると、遙がふっとつぶやいた。%K%P
+... Just then, Haruka suddenly mutters this.%K%P
+0x504
+遙「きれい……」%K%P
+Haruka「They're so pretty...」%K%P
+0x510
+微笑みながら夜空を促す遙。%K%P
+Haruka smiles as she gazes at the night sky.%K%P
+0x52C
+オレも空を見上げると、満天の星空が広がっていた。%K%P
+When I also look up, I see a canopy of stars.%K%P
+0x538
+まるで地上に降り注ぐように、星々は明るくきらめいている。%K%P
+The stars shine brightly, as if their light is raining down%Non the very soil of this earth.%K%P
+0x544
+この星空だけは、移りゆく時の中で変わることはないのだろう。%K%P
+These stars are the one thing that don't change with the%Nmovement of time.%K%P
+0x550
+何だか自分がちっぽけな存在にも思えてくる。%K%N何もできない、無力な存在……。%K%P
+My own existence feels tiny compared to them. A%Npowerless existence that can't do anything...%K%P
+0x55C
+──オレは本当に遙を守り通すことができるのだろうか……？%K%P
+―Can I really protect Haruka...?%K%P
+0x568
+ふと、遙に目を移した。%K%P
+Suddenly, I shift my gaze towards her.%K%P
+0x584
+星を見上げる彼女の横顔には、清冽なまでの美しさがあった。%K%P
+Haruka's face has a cool and clear beauty to it as she%Nlooks up at the stars.%K%P
+0x590
+この世で受けた汚濁の全てを、星の光が洗い流していく。……そんな瞬間を見ているようだった。%K%P
+It looks as if all the filthy things the world has burdened%Nher with are starting to be dispelled by the light of the%Nstars... that's what I think.%K%P
+0x59C
+（彼女を失うわけにはいかない……。%W%W%W絶対に歴史を変えてみせる……）%K%P
+(I can't lose her... I'll definitely change history!)%K%P
+0x5A8
+オレは遙を見つめながら、心の中で、何度も何度もつぶやいていた……。%K%P
+I repeat this over and over in my mind while looking at%NHaruka.%K%P
+0x5F8
+やがて海岸線に出た。%K%N
+Before long, we arrive at the coastline.%K%N
+0x60C
+遙は海を臨みながら、身を乗り出すように星降る空を見上げている。%K%P
+As Haruka faces the sea, she looks up longingly at the%Nshimmering stars.%K%P
+0x618
+その顔には、何故か不安そうな、無理に笑おうとしているような感じがあった。%K%P
+Her face looks anxious, and it feels like she's trying to%Nforce herself to smile.%K%P
+0x624
+誠「……」　%K%P
+Makoto「...」%K%P
+0x638
+遙「え？　どうかしたの？」%K%P
+Haruka「Huh? Is something wrong?」%K%P
+0x644
+誠「いや、ちょっと遙に見とれちゃって……」%K%P
+Makoto「No, I was just fascinated by you...」%K%P
+0x658
+遙「……ばか」%K%P
+Haruka「... Idiot.」%K%P
+0x66C
+遙はちょっと照れたような表情を浮かべると、黒い海の彼方に視線を移した。%K%P
+A slightly embarrassed expression rises to Haruka's%Nface, and she turns towards beyond the black ocean.%K%P
+0x678
+遙「あ……海……」%K%P
+Haruka「Ah... the ocean...」%K%P
+0x68C
+その言葉に、オレもつられて海を見た。%K%P
+With those words, I also look at the ocean.%K%P
+0x698
+水平線の上に、赤や黄色を帯びたいくつもの光が浮かび上がっている。%K%P
+Countless lights with tinges of red and yellow rise above%Nthe water's surface.%K%P
+0x6A4
+近づいたり遠ざかったりしては明滅していた。%K%P
+They approach us before bobbing away, flickering.%K%P
+0x6B0
+遙「きれい……」%K%P
+Haruka「How pretty...」%K%P
+0x6BC
+誠「船乗りを導くように動いていく光……。%K誰がどこで何の為に揺らしているのかわからない……。%Kだから不知火って呼ぶんだ……」%K%P
+Makoto「They start to move as if they're guiding sailors on ships.%NNo one knows where they came from or for what reason%Nthey sway. That's why they call it shiranui, or 'unknown%Nfire'...」%K%P
+0x6C8
+遙「うん……。私もその話、知ってる……」%K%P
+Haruka「Yes... I know that story too...」%K%P
+0x6D4
+知っていて当然だ。この知識は遙自身から得たものなのだから。%K%P
+Of course I know it... After all, she had told me this before.%K%P
+0x6E0
+オレ達はしばし無言のまま、美しい光の揺らめきに魅入っていた。%K%P
+We stay silent for a short while as we are entranced by%Nthe beautiful lights swaying around.%K%P
+0x6EC
+遙のいるこの幻想的な空間には、１枚のすぐれた絵画のような引力があった。%K%P
+There's this fantastical atmosphere around Haruka right%Nnow, possessing the kind of attractive power a master%Npainting holds.%K%P
+0x6F8
+少しでも気を抜くと、まるでその中に吸い込まれてしまいそうで……。%K%P
+I let myself relax a bit, as if allowing myself to be%Nabsorbed into this atmosphere...%K%P
+0x704
+遙「誰も知らない」%K%P
+Haruka「Nobody knows that.」%K%P
+0x710
+遙「知ることもできない……」%K%P
+Haruka「It can't be learned about either...」%K%P
+0x71C
+誠「だから……%W%W%W不知火」%K%P
+Makoto「That's why... it's shiranui.」%K%P
+0x728
+遙「そう。%W%W%Wだから……%W%W不知火……」%K%P
+Haruka「Yes. That's why... it's shiranui...」%K%P
+0x734
+遙「そっと耳をすませば、聞こえてくるの」%K%P
+Haruka「If you listen carefully, you can hear them.」%K%P
+0x740
+誠「不知火の、呼ぶ声……？」%K%P
+Makoto「The calling voices of the shiranui...?」%K%P
+0x74C
+遙「そう……」%K%P
+Haruka「Yes...」%K%P
+0x758
+遙がすっと目を閉じた。オレも、遙を真似てまぶたを下ろす。%K%P
+Haruka closes her eyes. I mimic Haruka and do the same.%K%P
+0x790
+しかし……残念ながらオレには不知火の声を聞くことはできなかった。%K%P
+But... unfortunately, I'm unable to hear the shiranui's%Nvoices.%K%P
+0x79C
+ただ、オレの隣に寄り添うようにたたずむ遙の吐息だけが、闇の中にひっそりと聞こえていた。%K%P
+All I can hear is the sound of Haruka breathing. She's%Nstanding so close to me that we're practically nestled%Ntogether.%K%P
+0x7A8
+さり気なく腕を絡ませると、遙のかすかな鼓動も耳にすることができた。%K%P
+I gently entwine my arm with hers, allowing me to hear%NHaruka's faint heartbeat.%K%P
+0x7B4
+この命の躍動を、決して止めてはならない……。%K%P
+I will never let this beating stop...%K%P
+0x7C0
+遙を守ることができるのは……%W%W%W%Nオレだけなのだ……。%K%P
+I'm the only one... who can protect Haruka...%K%P
+0x7DC
+誠「遙……」%K%P
+Makoto「Haruka...」%K%P
+0x7E8
+遙「……」%K%P
+Haruka「...」%K%P
+0x7F4
+誠「オレ、絶対にお前を守るよ……」%K%P
+Makoto「I will definitely protect you...」%K%P
+0x800
+遙「……え？」%K%P
+Haruka「... Huh?」%K%P
+0x80C
+遙は不思議そうに、オレを見つめている。%K%P
+Haruka looks at me questioningly.%K%P
+0x818
+だが、オレはどうしても言葉に出して言っておきたかった。%K%P
+Despite her confusion, I want her to understand this.%K%P
+0x824
+それは遙と、オレ自身に対する誓いの言葉だった。%K%P
+Those words are the oath I've sworn to myself.%K%P
+0x830
+誠「何があっても、%W%W%W絶対に遙を守り切る！」%K%P
+Makoto「No matter what happens, I will definitely hold on to you!」%K%P
+0x83C
+誠「オレは遙を、もう２度と、失いたくないから……」%K%P
+Makoto「I don't want to lose you again...」%K%P
+0x848
+遙「……」%K%P
+Haruka「...」%K%P
+0x854
+誠「……」%K%P
+Makoto「...」%K%P
+0x860
+遙「……誠……」%K%P
+Haruka「... Makoto...」%K%P
+0x87C
+遙「……私は……」%K%P
+Haruka「... I...」%K%P
+0x890
+………………………………。%K%P
+...%K%P
+0x89C
+……気がつくと、遙はオレの胸の中にいた。%K%P
+... I realize that Haruka is in my chest.%K%P
+0x8A8
+温かい……%W%W%W遙のぬくもりが、沁みてくる……。%K%P
+She's warm... Haruka's warmth flows into my body...%K%P
+0x8B4
+遙はオレの胸にそっと手をそえ、静かに言った。%K%P
+Haruka gently places her hand on my chest.%K%P
+0x8DC
+遙「私は、いなくなったりしないよ。私も、誠がいるこの世界が大好き……」%K%P
+Haruka「I won't leave. I also love this world where you exist too%Nmuch...」%K%P
+0x8E8
+誠「……遙……」%K%P
+Makoto「... Haruka...」%K%P
+0x8FC
+ふと、空を見あげると、一条の美しい光が流れていく瞬間が目に飛び込んできた。%K%P
+When I look up to the sky, I suddenly see a beautiful%Nstream of light flash by.%K%P
+0x908
+（オレは遙を守る！）%K%P
+(I will protect Haruka!)%K%P
+0x914
+再び立てた強固な誓いを胸に、オレは遙をきつく抱きしめた。%K%P
+I once again solemnly swear this to myself as I tightly%Nembrace her.%K%P
+0x920
+流星は、そんなオレ達のことを祝福するかのように、次々と白い閃光を放って闇の中を舞っていた。%K%P
+The shooting star seems to bless us as it shoots%Ndazzling lights that brighten up the darkness one by%None.%K%P
+0x92C
+満天の星空の下、オレ達は夜が明けるまで、強く強く抱きしめあっていた……。%K%P
+We hold each other close underneath the stars until%Nnight comes to an end...%K%P

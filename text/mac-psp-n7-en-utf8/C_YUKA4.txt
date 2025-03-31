@@ -1,0 +1,1188 @@
+text area offset and size:
+0x23E0
+0x4AB2
+0x134
+朝食のサンドウィッチを食べ終えた私と誠は、朝の%N海岸線を歩いている。%K%P
+After we finish eating our sandwiches for breakfast,%NMakoto and I walk by the morning coastline.%K%P
+0x140
+今回も『花見に行く』と言った私に、誠はついて来ることにしたらしい。%K%P
+When I suddenly look up, I see the very picture of a wide,%Nblue sky...%K%P
+0x14C
+……ふと見上げると、絵に描いたような青空が広がっていた。%K%P
+The springtime haze is hanging in the air all across the%Nsea,%K%P
+0x158
+海の彼方にはハルガスミがかかり、白波をあげて遠くを走るヨットは幻のよう……。%K%P
+making a yacht traveling across the water seem like an%Nillusion as it creates whitecaps...%K%P
+0x164
+誠「なあ、優夏？　また今日も花見に行くのか？」%K%P
+Makoto「Hey, Yuka? Aren't we going to see the cherry blossoms%Nagain?」%K%P
+0x170
+怪訝な顔で、誠は尋ねてきた。%K%P
+Makoto asks this with a puzzled face.%K%P
+0x17C
+確かに私達は、前の４日とおとといと……２回も%Nお花見をしている。%K%P
+It's true that on the last 4th, we went to see them... and%Nwe went for a second time the day before yesterday.%K%P
+0x190
+優夏「ううん。今日は、やめとくよ」%K%P
+Yuka「No. We're not going today.」%K%P
+0x19C
+優夏「今日はルナビーチにでも行って、の〜んびり過ごそっ？」%K%P
+Yuka「Why don't we go to Lunabeach to relax and pass the%Ntime instead?」%K%P
+0x1A8
+誠「ああ、そうだな。どうせ５時になったら、ルナビーチに集合しなきゃならないわけだし……」%K%P
+Makoto「Yeah, good idea. We have to meet with everyone at%NLunabeach at 5:00 anyway...」%K%P
+0x1BC
+優夏「それに……桜を見ると、何だか思い出しちゃうしね？」%K%P
+Yuka「Besides... looking at those cherry blossoms just makes%Nme remember him.」%K%P
+0x1C8
+誠「え……？」%K%P
+Makoto「Huh...?」%K%P
+0x1E4
+優夏「あの初恋の、男の子のこと」%K%P
+Yuka「The first boy that I loved.」%K%P
+0x1F8
+誠の顔を、チラリと盗み見た。%K%P
+I steal a glance at Makoto's face.%K%P
+0x204
+困惑と苛立ちを、ごちゃ混ぜにしたような表情……。%K%P
+His expression is a jumble of bewilderment and irritation...%K%P
+0x210
+『きっと誠くんも、優夏ちゃんのこと好きだと思うよ』%K%P
+"But I think that Makoto-kun definitely loves you too."%K%P
+0x21C
+昨夜のいづみさんの言葉がリフレインした。%K%P
+Izumi-san's words from last night repeat themselves in%Nmy mind.%K%P
+0x228
+誠も……、私のことが……？%K%P
+Makoto... also loves me...?%K%P
+0x234
+胸の動悸が激しくなった。%K%P
+My heart starts beating furiously.%K%P
+0x240
+（あんなこと言われたから意識しちゃうよぉ……）%K%P
+(I've become conscious of him now because she said%Nthat...)%K%P
+0x24C
+心臓の音が聞こえてしまわないようにと、私は両手で胸を抑えた。%K%P
+As if terrified that he can hear the noise in my heart, I%Nplace my hands over my chest.%K%P
+0x258
+………………。%K%P
+...%K%P
+0x264
+ふと気がつくと、誠は普段の調子を取り戻していた。%K%P
+Suddenly, I notice that Makoto's expression has%Nreturned to normal.%K%P
+0x270
+陽気に口笛なんて吹いているし。%K%P
+He's cheerfully whistling.%K%P
+0x27C
+優夏「………………」%K%P
+Yuka「...」%K%P
+0x288
+（やっぱ……そんなわけないか……）%K%P
+(So... it's not like that after all...)%K%P
+0x294
+だいたい、私だって本当に好きなのかどうか、自信ないんだから……。%K%P
+In the first place, I'm not even certain if I really love him or%Nnot...%K%P
+0x308
+相変わらず、お客のいないルナビーチ……。%K%P
+As usual, Lunabeach has no customers...%K%P
+0x314
+私達はコーヒーをすすりながら、いづみさんと他愛のない話をしていた。%K%P
+We make trivial conversation with Izumi-san while slurping%Ndown coffee.%K%P
+0x320
+……やがて、いづみさんはこんな話を始める。%K%P
+...Before long, Izumi-san slyly steers the conversation to%Na certain topic.%K%P
+0x334
+いづみ「ああ…『ラプラス』って、知らない？」%K%P
+Izumi「Oh... you don't know what 'Laplace' is?」%K%P
+0x340
+いづみ「『ラプラスの悪魔』」%K%P
+Izumi「It refers to 'Laplace's Demon'.」%K%P
+0x34C
+いづみ「フランスの数学者であり天文学者でもあるラプラスという人が言った言葉なの……」%K%P
+Izumi「These are the words of a French mathematician and%Nastronomer named Laplace.」%K%P
+0x358
+いづみ「『ある瞬間の、世界中のありとあらゆる全ての状態を、正確に知ることができる『悪魔』という生き物がいたとする……」%K%P
+Izumi「'Suppose there exists a "demon," that is, an entity that%Npossesses the ability to know, at a certain moment, the%Nstate of all things in the universe...」%K%P
+0x364
+いづみ「……たとえそれが、いかに短い瞬間であったとしても、悪魔にとっては未来や過去の状態をうかがい知るには十分なのだ』」%K%P
+Izumi「...Then, no matter how brief this moment is, it would always%Nbe enough for the demon to unravel everything that%Nhappened in the past and will happen in the future.'」%K%P
+0x370
+いづみ「要するに、ラプラスっていう人は……『世界中で起こる全ての出来事は、初めから何もかも決まっている』ってことが言いたかったのね」%K%P
+Izumi「In short, what that man was saying was this. 'Everything%Nwhich occurs in the world has been predetermined from%Nthe beginning.'」%K%P
+0x37C
+いづみ「どんなにちっちゃなちっちゃな出来事でも、もちろんおっきな出来事でも……」%K%P
+Izumi「No matter how big or how small an event is...」%K%P
+0x388
+いづみ「……それらは偶然ではなく必然的に起こるものなのだ……っていう意味なんだって」%K%P
+Izumi「...Its occurrence is by no means accidental, but in fact%Ninevitable... That's what it means.」%K%P
+0x394
+いづみ「哲学の用語では『決定論的世界観』とか言うらしいんだけどね？」%K%P
+Izumi「I believe that in philosophy, this is called 'causal%Ndeterminism'.」%K%P
+0x3A8
+『全ての出来事は、初めから何もかも決まっている……偶然ではなく必然的に起こるものなのだ』%K%P
+"'Everything which occurs in the world has been%Npredetermined from the beginning. Its occurrence is by%Nno means accidental, but in fact inevitable'."%K%P
+0x3B4
+何もかも……決まっている……？%K%P
+Everything's... been decided...?%K%P
+0x3C0
+嫌な言葉だった……。%K%P
+I don't like those words...%K%P
+0x3CC
+２日の夜に誠から聞いた、タイムパラドックスの話と%N同じくらいに……。%K%P
+It's like when I talked about time paradoxes with Makoto%Non the night of the 2nd...%K%P
+0x3D8
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0x3E4
+……やがて、ひょんな事から、今度の夏休みにルナビーチで、１週間ただ働きをする事になってしまった。%K%P
+...Before long, due to unusual circumstances, it ends up%Nbeing arranged so that I'll be working at Lunabeach for%None week during our summer break.%K%P
+0x3F0
+なんで、そんなことを引き受けるつもりになったのか%N自分でも分からない。%K%P
+Even I don't know why I ended up agreeing to do%Nsomething like that.%K%P
+0x3FC
+もしかしたら……近い未来の目標が、欲しかったのかもしれない……。%K%P
+Perhaps... I might have wanted to have an objective for%Nthe near future...%K%P
+0x480
+昼食の後、私達は商店街へやって来た。%K%P
+After lunch, we go to the shopping district.%K%P
+0x48C
+バーベキューの手伝いを引き受けたのである。%K%P
+We're responsible for helping out with the barbecue.%K%P
+0x498
+買わなければならないものは『牛肉、ピーマン、%N玉ネギ、油、ビール』と大量にある。%K%P
+The things that we have to buy are large quantities of%N"beef, green peppers, onions, oil, and beer".%K%P
+0x4A4
+けれど、車は動かないし、自転車はこの間壊れて%Nしまっていた。%K%P
+However, the car isn't working and the bike broke the%Nother day.%K%P
+0x4B0
+仕方なく、私達は徒歩で用事を済ますことになった。%K%P
+That means we have no choice but to walk in order to%Ntake care of our errands.%K%P
+0x4BC
+……数十分後、私達は、両手いっぱいの買い物袋を抱えていた。%K%P
+...An hour or so later, we are carrying full shopping bags%Nin both our hands.%K%P
+0x4D0
+優夏「ふぅ〜、これで買い忘れとかないよね？」%K%P
+Yuka「Whew... we didn't forget anything, did we?」%K%P
+0x4DC
+誠「あ、ああ、たぶん……な」%K%P
+Makoto「N-No... probably not.」%K%P
+0x4E8
+誠「しっかし……このビール、多過ぎやしないか？%N遙とくるみは、酒飲めないんだぞ？」%K%P
+Makoto「But... don't you think this is too much beer? Haruka and%NKurumi can't even drink it.」%K%P
+0x4FC
+優夏「全然、多くなんてないじゃなぁ〜い……」%K%P
+Yuka「This isn't a lot at all...」%K%P
+0x508
+誠「しょ、正気で言ってんのか！？　６本入りの缶ビール、８ケースだぞっ！？」%K%P
+Makoto「A-Are you kidding me!? We bought eight cases of%Nsix-pack beer!!」%K%P
+0x514
+誠「ったく、重いもんばっかりだっつーのに……！」%K%P
+Makoto「Dammit, all it does is act as extra weight...!」%K%P
+0x520
+誠は袋をブランと下げたまま、１歩も動けない様子だった。%K%P
+Makoto slouches and drags the bags, looking like he%Ncan't take another step forward.%K%P
+0x534
+優夏「それじゃあ戻りますかぁ」%K%P
+Yuka「Well then, shall we go back?」%K%P
+0x548
+けれど私は、平然とそう言ってのけると、そのまま%Nテクテクと歩き出す。%K%P
+Even though I say this calmly, I trudge along, full of%Nirritation.%K%P
+0x554
+（なにさっ！　この前なんて、沙紀を背負ったまま、%N米袋運んでたくせにぃ〜！！）%K%P
+(What the hell!? You didn't complain when you had to%Ncarry the rice and Saki on your back last time!!)%K%P
+0x560
+……そんなことを、心の中でわめきながら……。%K%P
+...As I continue to walk, I scream this in my mind...%K%P
+0x574
+……結局、誠の荷物は、お店から台車を借りて運ぶ%Nことにした。%K%P
+...In the end, we decide to bring Makoto's bags back by%Nborrowing a push car from one of the nearby shops.%K%P
+0x5A0
+ルナビーチはもう目の前だった。%K%P
+Lunabeach is already before our eyes.%K%P
+0x5AC
+誠「あっ、ひとつ思い出したんだけど……」%K%P
+Makoto「Ah, I just remembered something...」%K%P
+0x5C0
+優夏「え！？　なに？　買い忘れ？」%K%P
+Yuka「Huh!? What is it!? Did we forget to buy something?」%K%P
+0x5CC
+誠「いや、そうじゃなくて……ほら、昨日の晩飯の時…………」%K%P
+Makoto「No, that's not it... It's about last night...」%K%P
+0x5D8
+誠「優夏、オレに用があったんじゃないのか？」%K%P
+Makoto「Yuka, didn't you have some business with me?」%K%P
+0x5EC
+優夏「…………………………」%K%P
+Yuka「...」%K%P
+0x5F8
+誠「なんか、真剣な顔してオレのこと見てただろ？」%K%P
+Makoto「You were looking at me with a serious expression back%Nthen, weren't you?」%K%P
+0x604
+優夏「……う〜ん、どうだったかなぁ？」%K%P
+Yuka「...Hmm, was I really?」%K%P
+0x610
+誠「あの後、２人だけになれるチャンスなかったし、肝試し終わったあと、オレすぐに寝ちゃったから……」%K%P
+Makoto「After that, the two of us didn't get a chance to talk%Nalone, because after the Test of Courage, I went to%Nsleep right away...」%K%P
+0x61C
+（肝……%T015試し……）%K%P
+(The Test ...of Courage...)%K%P
+0x628
+誠「本当は、なにかあったんじゃないのか？」%K%P
+Makoto「Did something happen?」%K%P
+0x634
+誠「遠慮しないで言えよ。優夏の問題はオレの問題でもあるんだから」%K%P
+Makoto「You don't have to restrain yourself. Your problems are%Nmy problems, after all.」%K%P
+0x640
+優夏「…………」%K%P
+Yuka「...」%K%P
+0x64C
+誠「あ、いや……今のは、そういうことではなく……」%K%P
+Makoto「Ah, no... that's not what I meant...」%K%P
+0x658
+優夏「…………………………」%K%P
+Yuka「...」%K%P
+0x664
+誠「だっ、だから、オレ達は協力し合わないとイケナイって意味であり、決してっ」%K%P
+Makoto「Wh-What I meant was that there's no point to us working%Ntogether if we can't share those kinds of problems... but...」%K%P
+0x678
+優夏「ん？　……何が？」%K%P
+Yuka「Hmm? ...What?」%K%P
+0x684
+誠「…………………………」%K%P
+Makoto「...」%K%P
+0x690
+誠「……聞いてなかったなら、%T030いいや……」%K%P
+Makoto「...If you don't want me to ask , that's fine...」%K%P
+0x69C
+優夏「？？？」%K%P
+Yuka「???」%K%P
+0x6A8
+誠「それよりもっ」%K%P
+Makoto「More importantly-」%K%P
+0x6B4
+優夏「ああ、昨日のことね？」%K%P
+Yuka「Oh, about yesterday?」%K%P
+0x6C0
+優夏「本当に、なんにもないよ……」%K%P
+Yuka「That really was nothing...」%K%P
+0x6CC
+優夏「ただ、誠の食べてる姿見てたら、なんだか食欲なくなっちゃって……」%K%P
+Yuka「It's just that when I saw you eating, I kinda lost my%Nappetite...」%K%P
+0x6D8
+誠「……どういう意味だよ？」%K%P
+Makoto「...What do you mean?」%K%P
+0x6EC
+優夏「べ〜つにぃ」%K%P
+Yuka「Nothing really.」%K%P
+0x6F8
+誠「言いたいことあるなら、ハッキリ言えよな」%K%P
+Makoto「If there's something you want to say, then just say it flat%Nout.」%K%P
+0x70C
+優夏「……………………」%K%P
+Yuka「...」%K%P
+0x73C
+優夏「じゃあ、言うけど……！」%K%P
+Yuka「Then I'll say it...!」%K%P
+0x748
+誠「な、なんだよ……？」%K%P
+Makoto「Wh-What...?」%K%P
+0x754
+優夏「昨日の肝試しで……」%K%P
+Yuka「At the Test of Courage yesterday...」%K%P
+0x760
+誠「…………」%K%P
+Makoto「...」%K%P
+0x774
+優夏「……………………」%K%P
+Yuka「...」%K%P
+0x780
+誠「…………」%K%P
+Makoto「...」%K%P
+0x78C
+優夏「生首、見たんだよぉ……」%K%P
+Yuka「I saw a severed head...」%K%P
+0x798
+誠「……知ってる」%K%P
+Makoto「...I know.」%K%P
+0x7C8
+優夏「なっ、なんでっ！？」%K%P
+Yuka「Wh-Why!?」%K%P
+0x7D4
+誠「……………………はぁ」%K%P
+Makoto「...Haah.」%K%P
+0x7E0
+優夏「なんで、誠がそれ知ってるのよぉ！？」%K%P
+Yuka「Why do you know that!?」%K%P
+0x7EC
+優夏「や、やっぱり……あれ、本物だったんだよぉ〜…………」%K%P
+Yuka「S-So that really... was an actual severed head...」%K%P
+0x7F8
+誠「……………………………………………………」%K%P
+Makoto「...」%K%P
+0x80C
+……我ながら、悲しい演技だった。%K%P
+...That was rather pathetic of me, if I do say so myself.%K%P
+0x818
+本当に怖かったのは……%K%N真実を、聞くことだったのに……。%K%P
+The thing I was really scared of...%K Was for him to ask me to%Ntell him the truth...%K%P
+0x8FC
+……バーベキューが開始された。%K%P
+...The barbecue has begun.%K%P
+0x908
+みんなは手に手に紙コップを持っている。%K%P
+Everyone is holding a paper cup in their hands.%K%P
+0x914
+中にはよく冷えたビール（ただし、くるみちゃんと遙はオレンジジュース）。%K%P
+Inside the cups are ice cold beer (but Kurumi and Haruka%Nhave orange juice).%K%P
+0x920
+鉄板からジュワーッと香ばしい煙が立ち昇っていた。%K%P
+Savory smoke begins to rise from the iron plate in the%Nmiddle.%K%P
+0x92C
+みんなの表情は、以前にも増して明るかった。%K%P
+Everyone is more cheerful than last time.%K%P
+0x938
+……………………。%K%P
+...%K%P
+0x97C
+沙紀「いづみさん、そろそろ手前のお肉、食べれそうですよ？」%K%P
+Saki「Izumi-san, isn't the meat on this side just about ready to%Nbe eaten?」%K%P
+0x988
+いづみ「えぇ〜？　そうかなぁ、もっと焼いたほうがいいよ」%K%P
+Izumi「Huh? Maybe, but I think it'd be best to let it cook longer.」%K%P
+0x994
+沙紀「それじゃ、黒焦げになっちゃいますって！」%K%P
+Saki「If you do that, it'll get burnt!」%K%P
+0x9A0
+いづみ「でも、沙紀ちゃんの持ってるお肉なんて、どう見たって生焼けじゃないの？」%K%P
+Izumi「But no matter how you look at it, the meat you have is%Nrare, isn't it?」%K%P
+0x9AC
+……………………。%K%P
+...%K%P
+0x9F4
+遙「……カニ」%K%P
+Haruka「...Crabs.」%K%P
+0xA00
+くるみ「ほえ？」%K%P
+Kurumi「Huh?」%K%P
+0xA0C
+遙「ほら、あそこ……カニがいる、でしょ？」%K%P
+Haruka「Look, over there... There's crabs over there, right?」%K%P
+0xA18
+くるみ「うわぁ〜、ホントだぁ〜♪　ホラ、見てよおっくん、あんなところにカニがいるよぉ♪」%K%P
+Kurumi「Wow, you're right♪ Look, Okkun. There's crabs right over%Nthere.」%K%P
+0xA24
+くるみ「カニ大道楽かな？　武カニ丸かな？」%K%P
+Kurumi「Do they do crab sumo here? Is this Sumo Crab's%Ntraining grounds?」%K%P
+0xA30
+沙紀「あんた達って、ほんっと無邪気ねぇ……」%K%P
+Saki「You people are so damn innocent...」%K%P
+0xA3C
+遙「沙紀……それ、生焼け……」%K%P
+Haruka「Saki... your meat is rare...」%K%P
+0xA48
+……………………。%K%P
+...%K%P
+0xA54
+沙紀の表情には一点の曇りも見当たらないし、遙も、遙らしくないぐらいに上機嫌だ。%K%P
+Saki's expresion shows no signs of gloom, and Haruka is%Nalso in an unusually good mood.%K%P
+0xA60
+だって、その筈。今回の沙紀と遙には、なんのいさかいもなかったのだから…。%K%P
+That's only to be expected. This time, Saki and Haruka%Nhaven't had one single fight...%K%P
+0xA6C
+……………………。%K%P
+...%K%P
+0xAA4
+いづみ「そういえば、沙紀ちゃんの使ってる香水って、もしかしてライラック？」%K%P
+Izumi「By the way, Saki-chan, is that perfume you're using lilac?」%K%P
+0xAB0
+沙紀「あ、わかります？　ライラックとフルーツのブレンドなんですけど……」%K%P
+Saki「Oh, you noticed? It's a blend of lilac and fruit...」%K%P
+0xABC
+いづみ「ひょっとしてぇ……沙紀ちゃん、誰かに恋してるなぁ〜？♪」%K%P
+Izumi「Could it be... that you're in love with someone,%NSaki-chan〜?♪」%K%P
+0xAC8
+優夏「……………………」%K%P
+Yuka「...」%K%P
+0xAD4
+沙紀「ちっ、ちがいますって！　別にそんなんじゃ……」%K%P
+Saki「H-Hell no! It's not like that at all...」%K%P
+0xAE0
+誠「あっ！　沙紀、オレが狙ってた肉っ！」%K%P
+Makoto「Ah! Saki, I wanted that meat!」%K%P
+0xAFC
+沙紀「うるっさいわねぇ〜、関係ないでしょ？　だいたい、どこに名前が書いてあるっていうのよ？」%K%P
+Saki「Shut the hell up, it's mine! Besides, I don't see your name%Nwritten anywhere on it. Do you?」%K%P
+0xB08
+誠「ぬぬぬ…………っ」%K%P
+Makoto「Mmmmmmmph...」%K%P
+0xB1C
+誠「優夏ぁ、このお嬢様、なんとかしてくれよぅ〜」%K%P
+Makoto「Yukaaaa, do something about her! I can't deal with rich%Ngirls〜」%K%P
+0xB28
+優夏「…………」%K%P
+Yuka「...」%K%P
+0xB34
+誠「優夏？」%K%P
+Makoto「Yuka?」%K%P
+0xB48
+優夏「……え？　なに？」%K%P
+Yuka「...Huh? What?」%K%P
+0xB54
+誠「なにボーっとしてるんだよ？　気分でも悪いの%Nか？」%K%P
+Makoto「Why are you spacing out? Are you in a bad mood?」%K%P
+0xB60
+優夏「そ、そう？　う〜ん……ちょっと飲みすぎたかな…………」%K%P
+Yuka「Y-You think so? Hmm... maybe I had a bit too much to drink...」%K%P
+0xB6C
+誠「え？　だって、それ、まだ一杯目……」%K%P
+Makoto「Huh? But you haven't even had a single cup yet...」%K%P
+0xB80
+優夏「ちょっと……向こう行って酔いを覚ましてくるよ…………」%K%P
+Yuka「Not true... I remember having a drink on the way here...」%K%P
+0xB94
+沙紀「…………」%K%P
+Saki「...」%K%P
+0xBA0
+誠「優夏……」%K%P
+Makoto「Yuka...」%K%P
+0xBF0
+……私は、みんなから少し離れた岩場へ向かった。%K%P
+...I go away from everyone, heading towards the rocky%Nwall.%K%P
+0xBFC
+優夏「はぁ……」%K%P
+Yuka「Haah...」%K%P
+0xC08
+どうにも、あの中で無条件にバカ騒ぎすることが、%N今の私にはできなかった。%K%P
+No matter what I do, there's no way the current me can%Noutright join in that fooling around.%K%P
+0xC14
+誠の声が気になる。沙紀の声が気になる。%K%N２人で楽しそうに話す姿がとにかくシャクにさわる。%K%P
+Makoto's voice bothers me. Saki's voice bothers me.%K%NSeeing the two of them having fun just irritates me.%K%P
+0xC20
+（どうしちゃったんだろ……私……）%K%P
+(What should... I do...?)%K%P
+0xC2C
+少なくとも、前の６日間には、こんな気持ちの日は%Nなかった。%K%P
+At the very least, in the last loop, I never had an%Nemotional day like this.%K%P
+0xC38
+２人をやっかむ事なんて、なかった。%K%P
+I was never jealous of those two.%K%P
+0xC44
+これも歴史が変わったせい？%K%P
+Could this also be the result of history changing?%K%P
+0xC50
+それとも……。%K%Nそれとも……これこそが、誠のこと好きだっていう%N証拠……なの？%K%P
+Or...%K Or... is this proof... that I love Makoto?%K%P
+0xCA0
+遠くから聞こえる小波の音……うなずいたみたいに、２度聞こえた。%K%P
+In the distance, I can hear the sound of wavelets... I hear%Nthem twice, as if they're nodding to me.%K%P
+0xCAC
+その時……%K%P
+At that time...%K%P
+0xCB8
+くるみ「ゆ、%Wう、%Wか、%W%Wさん？」%K%P
+Kurumi「Y u k a-san?」%K%P
+0xCC4
+優夏「……え？　え！？」%K%P
+Yuka「...Huh? Huh!?」%K%P
+0xCF4
+優夏「……く、くるみちゃん！？」%K%P
+Yuka「...K-Kurumi-chan!?」%K%P
+0xD08
+くるみ「えへへへへっ♪」%K%P
+Kurumi「Ehehehehee♪」%K%P
+0xD1C
+優夏「ど、どうしちゃったの、くるみちゃん？」%K%P
+Yuka「Wh-What's wrong, Kurumi-chan?」%K%P
+0xD30
+くるみ「そ〜いう優夏さんこそ、どうしちゃったんですか？%Nこんなところで？」%K%P
+Kurumi「'What's wrong'? What's wrong with you, Yuka-san? What%Nare you doing here?」%K%P
+0xD3C
+優夏「べ、べつに……どうもしないよ……。ただ、酔いを覚ましてただけ……」%K%P
+Yuka「N-Nothing really... Sorry for worrying you... I'm just%Nsobering up...」%K%P
+0xD50
+くるみ「嘘」%K%P
+Kurumi「Liar.」%K%P
+0xD64
+優夏「え？」%K%P
+Yuka「Huh?」%K%P
+0xD70
+くるみ「優夏さん、くるみに嘘ついてる」%K%P
+Kurumi「Yuka-san, you're lying.」%K%P
+0xD7C
+優夏「な、なんで……？」%K%P
+Yuka「Wh-Why...?」%K%P
+0xD90
+くるみ「ふっふっふっふっふっ……」%K%P
+Kurumi「Hee hee hee hee hee...」%K%P
+0xD9C
+くるみ「優夏さんの嘘の見分け方なんか、とっくに気づいちゃってるもん」%K%P
+Kurumi「Kurumi realized your lying pattern a while ago.」%K%P
+0xDA8
+くるみ「嘘ついてるときの優夏さんの目、そっぽ向いてるんだよ」%K%P
+Kurumi「Whenever you lie, your eyes look the other way.」%K%P
+0xDBC
+優夏「…………」%K%P
+Yuka「...」%K%P
+0xDC8
+くるみ「くるみが推理するにぃ……」%K%P
+Kurumi「Kurumi's deduction for the reason you're so down is...」%K%P
+0xDE4
+くるみ「ニャンコのキーホルダーのことで、落ち込んでるんでしょ？」%K%P
+Kurumi「...because you're depressed about the kitty keychain,%Nright?」%K%P
+0xDF8
+くるみ「最近、体重増えたかも……って、気にしてるんでしょ？」%K%P
+Kurumi「You've been worried... that you've been gaining weight%Nrecently, right?」%K%P
+0xE0C
+優夏「え……？」%K%P
+Yuka「Huh...?」%K%P
+0xE18
+くるみ「図星でしょ？」%K%P
+Kurumi「Bulls-eye, huh?」%K%P
+0xE2C
+優夏「…………」%K%P
+Yuka「...」%K%P
+0xE40
+優夏「えへ♪　バレた？」%K%P
+Yuka「Eheh♪ I guess you got me.」%K%P
+0xE54
+くるみ「や〜っぱりぃ……」%K%P
+Kurumi「As Kurumi thought...」%K%P
+0xE78
+くるみ「そんなことだろうと思ってぇ！　ジャ〜ン♪%Nくるくるくるみマジック♪」%K%P
+Kurumi「Kurumi thought it'd be like this, so... Ta-da♪ It's KuruKuru%NKurumi Magic♪」%K%P
+0xE84
+ポケットから、紙で折られた何かを取り出した。%K%P
+She pulls a folded paper out of her pocket.%K%P
+0xE98
+優夏「…………それは？」%K%P
+Yuka「...What's that?」%K%P
+0xEAC
+くるみ「ニャンコ。折り紙で作ったニャンコでぇ〜す♪」%K%P
+Kurumi「A kitty. It's an origami kitty that Kurumi made♪」%K%P
+0xEB8
+優夏「……」%K%P
+Yuka「...」%K%P
+0xECC
+くるみ「優夏さんの宝物の代わりにって思って、夕べ、%N一生懸命折ったんだよ？」%K%P
+Kurumi「Kurumi wanted to make a replacement for Yuka-san's%Ntreasure, so she put all her effort into making this%Nyesterday afternoon.」%K%P
+0xED8
+くるみ「ちょっぴり、渡すの忘れちゃってたけど……」%K%P
+Kurumi「She just forgot to give it to you then...」%K%P
+0xEE4
+（そう言えば……くるみちゃん、夕食の前に折り紙%Nしてたっけ……）%K%P
+(Now that I think about it... Kurumi-chan was folding origami%Nbefore dinner...)%K%P
+0xEF8
+くるみ「はいっ♪」%K%P
+Kurumi「Here♪」%K%P
+0xF04
+優夏「……」%K%P
+Yuka「...」%K%P
+0xF18
+優夏「あ、ありがと……」%K%P
+Yuka「Th-Thank you...」%K%P
+0xF24
+差し出された折り紙の猫をおずおずと受け取る。%K%P
+I nervously take the origami cat she's holding out.%K%P
+0xF30
+くるみ「今度は、なくしたりしちゃダメだよ？　優夏さん？」%K%P
+Kurumi「Don't lose this one this time, okay?」%K%P
+0xF54
+優夏「……！」%K%P
+Yuka「...!」%K%P
+0xF60
+心臓がトクンと大きく跳ね上がった。%K%P
+My heart leaps loudly.%K%P
+0xF6C
+（今度は……、なくしたりしないように……）%K%P
+(Next time... don't lose it...)%K%P
+0xF78
+優夏「……」%K%P
+Yuka「...」%K%P
+0xF8C
+くるみ「優夏さん……？」%K%P
+Kurumi「Yuka-san...?」%K%P
+0xF98
+『……なくさないで……』%K%P
+"...Don't lose it..."%K%P
+0xFAC
+小波の音が、だんだんと遠ざかっていく……。%K%P
+The sound of the wavelets steadily grows more and%Nmore distant...%K%P
+0xFB8
+もう１つの、忘れられない、記憶……。%K%P
+There's one more memory that I'd forgotten...%K%P
+0xFC4
+……………………。%K%P
+...%K%P
+0xFD8
+中３の、修学旅行……。%K%P
+It was on the field trip in 9th grade...%K%P
+0xFE4
+２人で星空を眺めた、あの夜……。%K%P
+The night the two of us gazed at that starry sky...%K%P
+0xFF0
+双子座の話が終わって…………。%K%P
+He finished telling me the story of Gemini...%K%P
+0xFFC
+それで……%T030それで…………。%K%P
+And then... and then...%K%P
+0x1080
+優夏「そろそろ、寒くなってきちゃった……戻ろっか？」%K%P
+Yuka「It's starting to get cold... shall we go back?」%K%P
+0x108C
+男の子「……な、なぁ、優夏？」%K%P
+Boy「...H-Hey, Yuka?」%K%P
+0x1098
+優夏「ん？」%K%P
+Yuka「Hmm?」%K%P
+0x10A4
+男の子「いや、その……」%K%P
+Boy「No, umm...」%K%P
+0x10B0
+優夏「？」%K%P
+Yuka「?」%K%P
+0x10BC
+男の子「まだアレ、持ってるかな？　……って」%K%P
+Boy「Do you still have it?」%K%P
+0x10C8
+優夏「？？？」%K%P
+Yuka「???」%K%P
+0x10D4
+男の子「……忘れちゃった？」%K%P
+Boy「...Did you forget?」%K%P
+0x10E0
+優夏「なんの、こと？」%K%P
+Yuka「About what?」%K%P
+0x10EC
+男の子「……」%K%P
+Boy「...」%K%P
+0x10F8
+男の子「ネコの、キーホルダー」%K%P
+Boy「The cat keychain.」%K%P
+0x1104
+優夏「──！？」%K%P
+Yuka「―!?」%K%P
+0x1110
+『これあげるから、もう、なかないで……』%K%P
+"I'll give this to you, so don't cry anymore..."%K%P
+0x111C
+優夏「…………」%K%P
+Yuka「...」%K%P
+0x1128
+男の子「思い出した？」%K%P
+Boy「Do you remember?」%K%P
+0x1134
+優夏「あ、あ……」%K%P
+Yuka「T-Th...」%K%P
+0x1140
+優夏「あれ…………あなた、だったの？」%K%P
+Yuka「That... was you?」%K%P
+0x114C
+男の子「…………」%K%P
+Boy「...」%K%P
+0x1158
+優夏「うそ……」%K%P
+Yuka「No way...」%K%P
+0x1164
+男の子「……信じられない？」%K%P
+Boy「...You can't believe it?」%K%P
+0x1170
+優夏「…………」%K%P
+Yuka「...」%K%P
+0x117C
+男の子「優夏があの時の女の子だって、オレはすぐに分かったけどな」%K%P
+Boy「I immediately knew that you were the girl from back then.」%K%P
+0x1188
+優夏「…………」%K%P
+Yuka「...」%K%P
+0x1194
+男の子「っていうか、名前も聞いてたし」%K%P
+Boy「Well, you DID tell me your name back then.」%K%P
+0x11A0
+『わたしの、なまえは…………』%K%P
+"My name is..."%K%P
+0x11AC
+『……かわしま　ゆうか』%K%P
+"...Yuka Kawashima."%K%P
+0x11B8
+紫の空、泣いてた少女……誰かに教えた、その名前……。%K%P
+In the world with the purple sky, the crying girl... told%Nsomeone her name...%K%P
+0x11C4
+優夏「…………」%K%P
+Yuka「...」%K%P
+0x11D0
+男の子「まあ、当然だよな……何年も前の話なんだから」%K%P
+Boy「Well, it's only natural... That was ages ago.」%K%P
+0x11DC
+男の子「やっぱり、持ってない……%T030よな……」%K%P
+Boy「So you really don't ...have it...」%K%P
+0x11E8
+優夏「………………」%K%P
+Yuka「...」%K%P
+0x11F4
+男の子「………………」%K%P
+Boy「...」%K%P
+0x1200
+優夏「………………」%K%P
+Yuka「...」%K%P
+0x120C
+優夏「あのキーホルダー、とっても大事にしてたんだけど……」%K%P
+Yuka「That keychain was very important to me, but...」%K%P
+0x1218
+優夏「もう、なくしちゃったの……」%K%P
+Yuka「I lost it a while back...」%K%P
+0x1224
+男の子「……………………」%K%P
+Boy「...」%K%P
+0x1230
+優夏「一生懸命さがしたんだけど見つからなかったの」%K%P
+Yuka「I did my best to look, but I couldn't find it.」%K%P
+0x123C
+男の子「そっか……」%K%P
+Boy「I see...」%K%P
+0x1248
+優夏「ごめんなさい……」%K%P
+Yuka「I'm so sorry...」%K%P
+0x1254
+男の子「……いや、しょうがないさ」%K%P
+Boy「...No, it couldn't be helped.」%K%P
+0x1260
+男の子「今度プレゼントする時は、なくさないように、もうちょっと大っきなやつにするよ」%K%P
+Boy「The next time I give you a present, I'll make sure it's a bit%Nbigger, so that way, you won't lose it.」%K%P
+0x126C
+優夏「……………………」%K%P
+Yuka「...」%K%P
+0x1278
+男の子「次は、なくさないでくれよ……」%K%P
+Boy「Please don't lose the next one...」%K%P
+0x1284
+……………………。%K%P
+...%K%P
+0x12C0
+くるみ「……さん？」%K%P
+Kurumi「...san?」%K%P
+0x12CC
+くるみ「優夏さん？」%K%P
+Kurumi「Yuka-san?」%K%P
+0x12E8
+くるみ「優夏さんってばぁ！」%K%P
+Kurumi「Hey, Yuka-san!」%K%P
+0x1304
+優夏「……%T030くるみ……%T030ちゃん？」%K%P
+Yuka「...Kurumi ...chan?」%K%P
+0x133C
+くるみ「もぉ、突然ボ〜っとしだして、どうしたの？」%K%P
+Kurumi「Geez, what's up with you? You spaced out all of the%Nsudden.」%K%P
+0x1358
+優夏「……ううん、なんでもないから……」%K%P
+Yuka「...No, it's nothing...」%K%P
+0x136C
+くるみ「もしかして……余計なお世話だった？　……ニャンコのこと？」%K%P
+Kurumi「Was... the kitty too much? Was Kurumi sticking her nose%Nwhere it didn't belong?」%K%P
+0x1380
+優夏「え？」%K%P
+Yuka「Huh?」%K%P
+0x138C
+くるみ「……別に、無理してもらってくれなくてもいいですよぉ……」%K%P
+Kurumi「...You don't have to push yourself to take it if you don't%Nwant it. It's fine...」%K%P
+0x13A0
+優夏「な、なに言ってるのよ、くるみちゃん……。うれしくって感激してたんだから……」%K%P
+Yuka「Wh-What are you saying...? I'm very happy about what%Nyou did...」%K%P
+0x13AC
+くるみ「ほんと？」%K%P
+Kurumi「Really?」%K%P
+0x13C0
+優夏「うん♪」%K%P
+Yuka「Yep♪」%K%P
+0x13D4
+優夏「ほら？　ちゃんと、くるみちゃんの目を見てるでしょ？」%K%P
+Yuka「See? I didn't look away from you this time, did I?」%K%P
+0x13E8
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x13FC
+くるみ「えへっ♪」%K%P
+Kurumi「Eheh♪」%K%P
+0x1408
+優夏「ありがたく受け取るよ♪　くるみちゃんからのプレゼント」%K%P
+Yuka「I gratefully accept your gift♪」%K%P
+0x141C
+くるみ「ところで、優夏さん？　もう１つプレゼントがあるんですけどぉ〜……」%K%P
+Kurumi「By the way, Kurumi's got one more present for you...」%K%P
+0x1430
+優夏「……？」%K%P
+Yuka「...?」%K%P
+0x143C
+くるみ「ジャ〜ン♪　くるくるくるみらく〜る♪」%K%P
+Kurumi「Ta-da♪ It's a KuruKuru Kurumiracle♪」%K%P
+0x1458
+くるみ「そんなことだろうと思ってぇ！　ジャ〜ン♪%Nくるくるくるみらく〜る♪」%K%P
+Kurumi「Kurumi thought this would happen! Ta-da♪ It's a%NKuruKuru Kurumiracle♪」%K%P
+0x1464
+くるみちゃんは、懐から缶ビールを取り出した。%K%P
+Kurumi-chan takes a can of beer out of her bosom.%K%P
+0x1488
+くるみ「これ飲んで、元気出してちょうだいなっ！」%K%P
+Kurumi「Drink this and cheer up!」%K%P
+0x14A4
+くるみ「くるみにダマされたと思って、これ飲んでみてっ！」%K%P
+Kurumi「Kurumi thought she'd help out by letting you drink this!」%K%P
+0x14B0
+くるみ「あ、大丈夫、大丈夫。ちゃ〜んと『カロリー控え%Nめ』って、ここに書いてあるから」%K%P
+Kurumi「Oh, but don't worry. Kurumi made sure to get the ones%Nwith 'low calorie' written on them.」%K%P
+0x14BC
+くるみ「酔っ払わない優夏さんなんて、つまんないんだよぉ……」%K%P
+Kurumi「It's boring when you're not drunk, after all...」%K%P
+0x14C8
+優夏「…………」%K%P
+Yuka「...」%K%P
+0x14DC
+くるみ「あ、ひょっとして、驚いてくれた？」%K%P
+Kurumi「Oh, could it be that you're surprised?」%K%P
+0x14F0
+優夏「……う、うん」%K%P
+Yuka「...Y-Yes.」%K%P
+0x14FC
+くるみ「ウムウム。それでこそ、冷たいのをガマンして、%N服の中に入れてた甲斐があるというものよ」%K%P
+Kurumi「Brr... Kurumi kept these against her chest by putting%Nthem in her clothes, so she's cold now.」%K%P
+0x1510
+くるみ「……でも、ちょっと、ぬるくなっちゃったかなぁ？」%K%P
+Kurumi「...Wait, doesn't that mean the beer is lukewarm now?」%K%P
+0x1524
+優夏「……う、ううん。別に構わないよ」%K%P
+Yuka「...N-No. I don't really mind.」%K%P
+0x1530
+くるみ「ほんと？　よかった♪」%K%P
+Kurumi「Really? What a relief♪」%K%P
+0x153C
+くるみちゃんから、缶ビールを受け取る。%K%P
+I take the can of beer from Kurumi-chan.%K%P
+0x1578
+プシュ！　っとプルトップを外し、中身をのどへ流し込んだ。%K%P
+Fsssh! I pop the tab off the beer can and gulp the%Ncontents down my throat.%K%P
+0x1584
+くるみちゃんの温もりが、しみてくる。%K%P
+Kurumi-chan's warmth is still there.%K%P
+0x1598
+優夏「プッハーッ……！」%K%P
+Yuka「Fwaaah...!」%K%P
+0x15AC
+優夏「よぉーしっ！　嫌なことなんか忘れて、じゃんじゃん飲みまくるぞぉ〜！」%K%P
+Yuka「All right! I'll just drink this down and forget about all the%Nbad things!」%K%P
+0x15C0
+くるみ「うんうん♪　それでこそ、いつもの優夏さんだよ%Nぉ！」%K%P
+Kurumi「Yes, yes♪ Go back to being your usual self!」%K%P
+0x15D4
+……そう、嫌なことは全部飲んで忘れてしまおう。%K%P
+...Yes, I'll drink it all and forget about the bad things.%K%P
+0x15E0
+ぬるいビールが、ホンワカと気分を高揚させてくれた。%K%P
+The lukewarm beer makes me feel a comfortable, elated%Nsensation.%K%P
+0x15EC
+……………………。%K%P
+...%K%P
+0x15F8
+ようやく、みんなの所に戻った時……%K%N遙がうすよごれたビニール袋を掲げていた……。%K%P
+Finally, the time comes to return to the others...%K Haruka is%Ncarrying a dirty plastic bag...%K%P
+0x1604
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0x168C
+あれから１時間以上が経った。%K%N宴もたけなわである。%K%P
+About an hour has passed since then.%K The party's in full%Nswing.%K%P
+0x1698
+お互いに、茶化したり、おどけてみたりの和やかな%N雰囲気……やかましいぐらいの大騒ぎだった。%K%P
+Everything is calm as we fool around and poke fun at%Neach other... It's as noisy as ever.%K%P
+0x16A4
+その間、私はかなり大量のビールを飲み干していた。%K%P
+By now, I've already had a lot of beer to drink.%K%P
+0x16B0
+コップにして、それが何杯だったか……もう忘れるくらいに。%K%P
+As for how many cups I've had exactly... I've lost count.%K%P
+0x16BC
+やがてアルコールは脳へと到達し、足がフラつきはじめた。%K%P
+Before long, the alcohol gets to my head, and my sense%Nof balance worsens.%K%P
+0x16C8
+大声でがなりたてながら、同じことを何度もしゃべる。もちろん、言語はめちゃめちゃだ。%K%P
+I begin shouting the same things again and again. Of%Ncourse, my words are all messed up too.%K%P
+0x16D4
+話している内容も支離滅裂で、怒ったり、泣いたり、笑ったり、ふさぎ込んだり……………………。%K%P
+The words I'm saying are also incoherent, and I get%Nangry, weepy, hysterical with laughter, and mopey...%K%P
+0x16E0
+とにかく私は、忙しかった……。%K%P
+Anyway, I'm hectic...%K%P
+0x16EC
+……………………。%K%P
+...%K%P
+0x16F8
+突然、ポンポンと肩を叩かれた。%K%P
+Suddenly, someone taps me on the shoulder.%K%P
+0x1704
+……そこに、誠の姿があった。%K%P
+...It's Makoto.%K%P
+0x1710
+親指を立てて、少し離れた岩場の方をくいくいと指している。%K%P
+He sticks his thumb up, and points towards the rock wall.%K%P
+0x171C
+そして、そのままゆっくりと、その岩場へと歩き出した。%K%P
+And then, he slowly walks to the rock wall.%K%P
+0x1728
+……どうやら、内緒の話でもあるらしい……。%K%P
+...It seems he wants to have a private conversation...%K%P
+0x1734
+私は首をかしげながらも、千鳥足で誠について行った。%K%P
+Although I tilt my head, I still follow him with tottering%Nsteps.%K%P
+0x1774
+優夏「なんれすか、まこったん？　なんかようれすか？」%K%P
+Yuka「Whaa ish it, Mako-tan? Doo yuu have shum bishnesh wif%Nme?」%K%P
+0x1780
+誠「ああ、ちょっと、大事な話があるんだよ」%K%P
+Makoto「Yeah, there's something important I have to talk to you%Nabout.」%K%P
+0x178C
+優夏「………………………………」%K%P
+Yuka「...」%K%P
+0x1798
+誠「……ど、どうした？」%K%P
+Makoto「...W-What is it?」%K%P
+0x17AC
+優夏「……さては……こいのこくはくれしょ？」%K%P
+Yuka「...Leshee... ish it a confeshun of love?」%K%P
+0x17B8
+誠「バ、バカッ、んなわけないだろ！」%K%P
+Makoto「I-Idiot, there's no way it'd be that!」%K%P
+0x17CC
+優夏「んもぉ〜、まこったんたらぁ〜ん♪　それならそうとはやくいってくれればよかったのにぃ〜♪」%K%P
+Yuka「C'mon, Mako-tan♪ If dash it, den yuu should hurry up%Nand shay it♪」%K%P
+0x17D8
+誠「………………………………」%K%P
+Makoto「...」%K%P
+0x17EC
+優夏「ほんとはわたひも……%T030まこったんのことぉ……」%K%P
+Yuka「Mako-tan, the trufe ish ...eye alsho lo...」%K%P
+0x1810
+（──えっ？）%K%P
+(―Huh?)%K%P
+0x181C
+……酔いが、%T030覚めた…………。%K%P
+...I sober up...%K%P
+0x1828
+誠は茫然と立ち尽くしている………………。%K%P
+Makoto is standing stock still, dumbfounded...%K%P
+0x1834
+（……こ、ここは…………ひとまず……っ！）%K%P
+(...Th-This is... no, not now...!)%K%P
+0x1864
+優夏「きゃはははははははっ♪」%K%P
+Yuka「Kyahahahahahahaha♪」%K%P
+0x1870
+優夏「うそ、うそ、じょうらん、じょうらん♪」%K%P
+Yuka「Dat wash a lie, a joke♪」%K%P
+0x187C
+優夏「らって、まこったんからかうと、おもしろいんらも〜ん♪」%K%P
+Yuka「Eye fought it'd be funee if eye meid a little fun of yuu♪」%K%P
+0x1888
+優夏「こまったまこったん…………%T030かわいいっ♪」%K%P
+Yuka「Yer sho cute... when yuu look troubled♪」%K%P
+0x1894
+誠「………………………………」%K%P
+Makoto「...」%K%P
+0x18A0
+私は酔っ払ってるフリをすることにした。%K%P
+I decide to pretend to be drunk.%K%P
+0x18B4
+優夏「れ？　らいじなはなしってなぁ〜に？」%K%P
+Yuka「Sho? Whash dat shumfing important yuu wanted to talk%Nabaut?」%K%P
+0x18C0
+誠「はぁ……」%K%P
+Makoto「Haah...」%K%P
+0x18CC
+誠「いいか？　いっぺんしか言わないから、よーく聞けよ？」%K%P
+Makoto「Okay, listen to me carefully, and not a word out of you%Nuntil I'm done, got it?」%K%P
+0x18D8
+うむうむと、横柄な態度でうなずく。%K%P
+I nod like an insolent child.%K%P
+0x1940
+……誠の話は、くるみちゃんに関することだった。%K%N
+...Makoto's story concerns Kurumi-chan.%K%N
+0x194C
+前回の歴史では、今夜くるみちゃんは行方不明に%Nなる。%K%N
+In the last history, Kurumi-chan went missing this night.%K%N
+0x1958
+私達は、くるみちゃんを探して、あの神社へ行った。%K%N
+We went looking for Kurumi-chan, and went to the shrine,%Nwhere we found her.%K%N
+0x1964
+その神社で、例の護符を見てしまったことが、%Nこの無限ループの発端だった。%K%N
+In that shrine, we saw that talisman, which was the trigger%Nto our start of this infinite loop.%K%P
+0x1970
+つまり、同じ歴史を繰り返さないためには、%Nくるみちゃんを神社へ行かすわけには行かない。%K%P
+In other words, in order to make sure we don't repeat the%Nsame history, we can't let Kurumi-chan go to the shrine.%K%P
+0x1984
+というよりも、くるみちゃんを失踪させる事、%Nそのものが『悪い歴史』なのだ。%K%N%N
+What he's saying is that Kurumi-chan's disappearance%Nitself is a "bad event".%K%N%N
+0x1990
+事件を未然に防ぐためにも誠は今晩、ずっと%Nくるみちゃんを見張る……。%K%N%N
+In order to prevent that incident from happening, Makoto%Nwants to watch over Kurumi-chan for the entire night...%K%N%N
+0x199C
+……とのことだった。%K%P
+...That's his plan.%K%P
+0x19F4
+優夏「な〜るほど。そういうことねぇ〜……」%K%P
+Yuka「Eye shee. So dash it...」%K%P
+0x1A00
+誠「手伝ってくれるだろ？」%K%P
+Makoto「You'll help me, right?」%K%P
+0x1A0C
+優夏「もちろんよ！」%K%P
+Yuka「Of coursh!」%K%P
+0x1A18
+誠「……って言うか、今言った話、ちゃんとわかってんだろうな？」%K%P
+Makoto「...Hey, did you really understand a word of what I said%Njust now...?」%K%P
+0x1A24
+優夏「もう、らいじょうぶらって！」%K%P
+Yuka「Geesh, ish faine!」%K%P
+0x1A38
+優夏「まかしんしゃいまかしんしゃい！　なっはっはっはっは……♪」%K%P
+Yuka「Jusht leef it to meee! Nahahahaha...♪」%K%P
+0x1A44
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x1A58
+肩をすくめる誠。%K%P
+Makoto shrugs his shoulders.%K%P
+0x1A64
+『酔っ払いを当てにするのはやめとこう』などと思っているのかもしれない……。%K%P
+He might be thinking "I should've waited until she%Nsobered up."%K%P
+0x1A80
+──と、その時！%K%P
+―And, at that time!%K%P
+0x1AB4
+水のはねる音が響いた！%K%P
+The sound of water splashing echoes!%K%P
+0x1AC0
+この音……確かに前のバーベキューでも、これと同じ音を耳にしたことがある。%K%P
+This sound... It's exactly like the one I heard at the last%Nbarbecue.%K%P
+0x1ACC
+振り向かずとも、その状況は手に取るようにわかった。%K%P
+I don't need to turn around to understand the situation.%K%P
+0x1AD8
+沙紀があやまって手を滑らし、紙コップの中に入っていたビールを私にかけてしまった……。%K%P
+Saki's hand accidentally slipped, and she spilled the%Nbeer in her paper cup on me.%K%P
+0x1AE4
+（──えっ？？？）%K%P
+(―Huh???)%K%P
+0x1AF0
+（……私に？？？）%K%P
+(...Me???)%K%P
+0x1AFC
+だけど私は今、ここにいる！？%K%P
+But I'm right here!!%K%P
+0x1B08
+（ってことは……？）%K%P
+(Which means...?)%K%P
+0x1B40
+ゆっくりと振り返ってみた……。%K%P
+I try slowly turning around...%K%P
+0x1B4C
+鉄板を囲んだ中のひとり……沙紀が手に持っていたのは、空になった紙コップだった。%K%P
+By the iron plate... Saki is holding a now empty paper cup.%K%P
+0x1B58
+そして、その中身をかぶったのは……。%K%P
+And the beer has landed on...%K%P
+0x1B6C
+──くるみちゃんだ！%K%P
+―Kurumi-chan!%K%P
+0x1B78
+胸元から下にかけて、くるみちゃんの服はびしょびしょに濡れ尽くしていた。%K%P
+Kurumi's clothes are soaked from her chest to the%Nbottom of her shirt.%K%P
+0x1B84
+（そうかぁ……）%K%P
+(I see...)%K%P
+0x1B90
+輪の中から私が抜けたせいで、その壁を通り越して隣にいたくるみちゃんに直接かかったってわけね……。%K%P
+Because I wasn't in the ring of people, the person who%Nwas next to me originally, Kurumi, was directly hit...%K%P
+0x1B9C
+くるみ「ちょ、ちょっと、沙紀さぁ〜ん……」%K%P
+Kurumi「H-Hey, Saki-san...」%K%P
+0x1BA8
+沙紀「……ご、ごめん」%K%P
+Saki「...S-Sorry.」%K%P
+0x1BB4
+あたりは水を打ったような静けさだった。%K%P
+Everyone becomes completely silent.%K%P
+0x1BC0
+沙紀「ほんとに、ごめんね？」%K%P
+Saki「I'm really sorry.」%K%P
+0x1BCC
+……心の底からわびるような言い方だ。%K%P
+...She sounds genuinely apologetic, meaning every word.%K%P
+0x1BD8
+しかも、それに加えて沙紀は、くるみちゃんの濡れた服を布巾で拭い始めた。%K%P
+As a further gesture of apology, Saki begins to wipe the%Nbeer off of Kurumi's clothes with a dish cloth.%K%P
+0x1BE4
+億彦くんは、余計なことは一切言わずに、口をきゅっと結んでいる。%K%P
+Okuhiko doesn't make his stupid joke, and keeps his%Nmouth shut.%K%P
+0x1BF0
+当然遙も、じっと動きを止めたまま、不穏な素振りはみじんも見せない。%K%P
+Naturally, Haruka also stays put, not showing any signs%Nof agitation.%K%P
+0x1BFC
+すると……。%K%P
+Just then...%K%P
+0x1C18
+いづみ「もう、沙紀ちゃん、酔っ払ってるんじゃないのぉ〜？♪」%K%P
+Izumi「Geez, Saki-chan, are you sure you're not drunk?♪」%K%P
+0x1C34
+億彦「はははっ、まったく、そそっかしいなぁ〜、沙紀ちゃん♪」%K%P
+Okuhiko「Ha ha, that was pretty careless of you, Saki-chan♪」%K%P
+0x1C50
+遙「ふふふふっ……」%K%P
+Haruka「Hee hee hee hee...」%K%P
+0x1C6C
+沙紀「あはははっ……」%K%P
+Saki「Ahahaha...」%K%P
+0x1C88
+くるみ「えへへへっ……」%K%P
+Kurumi「Eheheheh...」%K%P
+0x1C9C
+みんな「きゃははははははっ……♪」%K%P
+Everyone「Kyahahahahahaha...♪」%K%P
+0x1CC4
+……どっと笑い声が起こった。%K%P
+...Everyone bursts into laughter.%K%P
+0x1CD0
+沙紀のヘマを、みんなで茶化して吹き飛ばしてしまおうとするような、陽気な笑い声だった。%K%P
+They cheerfully laugh at Saki's blunder, as if trying to%Npoke fun at her and brush the incident off.%K%P
+0x1CDC
+もちろんくるみちゃんにも笑顔がある。いつもと変わらない優しい笑顔。%K%P
+Of course, Kurumi's bright smile returns too.%K%P
+0x1CE8
+そして沙紀自身も、からかわれていることに対して%N照れ笑いさえ浮かべていた。%K%P
+Saki sheepishly grins at all the teasing.%K%P
+0x1CF4
+まるで何もかも……何から何まで全てが変わっている。%K%P
+It's as if... anything and everything's all changed.%K%P
+0x1D00
+前回とは打って変わった和やかな雰囲気だった。%K%P
+The atmosphere from last time has suddenly changed to%Na harmonious atmosphere.%K%P
+0x1D0C
+どうして……？%K%Nそんなこと、考えるまでもなかった。%K%P
+Why...?%K I don't even have to think about it.%K%P
+0x1D18
+またしても、悪い歴史が良い歴史へと変わったのだ。%K%P
+Once again, a bad event has changed into a good one.%K%P
+0x1D24
+ただし今回特筆すべき点はそれが私達の意志とは%N無関係に発生したという事実だった。%K%P
+However, this one is special because history has%Nchanged without us directly interfering with it.%K%P
+0x1D30
+私達が意図的にケンカ状態を防ごうと思ったのでは%Nなく、偶然、幸福は向こうから転がり込んで来た。%K%P
+We didn't think about trying to prevent the fight, but%Nthankfully, history changed for us.%K%P
+0x1D3C
+今や私達は、運さえも味方につけてしまったのかも%Nしれない。%K%P
+Could it be that even luck is on our side now?%K%P
+0x1D48
+そう考えると、何だかむしょうに気分がたかぶった。%K%P
+When I think that, I get into a kinda giddy mood.%K%P
+0x1D54
+私と誠は、みんなよりも少し遅れて……%K%Nしかし、みんなよりも遥かに高らかに、大きな声を%Nあげて笑い始めたのだった……。%K%P
+It's a little later...%K But Makoto and I began to laugh much%Nlouder than the others...%K%P
+0x1D60
+……その後、バーベキュー大会が終わるまで、あたりに笑い声が絶えることはなかった……。%K%P
+...After that, the laughter doesn't cease until the%Nbarbecue ends...%K%P

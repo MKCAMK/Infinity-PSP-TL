@@ -1,0 +1,960 @@
+text area offset and size:
+0x1810
+0x401B
+0x40
+別荘に着いたオレは、不安な気持ちを押さえつつ呼び鈴を押した。%K%P
+Though I came all this way to the summer house, my%Nuneasiness is preventing me from pressing the buzzer.%K%P
+0x4C
+するとすぐに、インターホン越しに沙紀の声が聞こえてきた。%K%P
+With a deep breath, I press the button. Saki immediately%Nresponds over the intercom.%K%P
+0x58
+誠「あ、オレ。誠だけど」%K%P
+Makoto「Ah, it's me. It's Makoto.」%K%P
+0x64
+沙紀「……ちょっと待っててくれる？」%K%P
+Saki「... Could you wait a minute?」%K%P
+0x70
+インターホンが切れた。%K%P
+She turns off the intercom.%K%P
+0x7C
+（おっ、やけに機嫌が良さそうだ。これなら部屋には入れてくれるだろう）%K%P
+(Oh, it seems she's in a good mood. She'll probably let me%Ninside.)%K%P
+0x88
+オレはバスケットを抱えたまま、別荘を見渡した。%K%P
+As I hold the basket, I examine the house.%K%P
+0x94
+昨夜は気づかなかったが悪くない。オレは思った。%K%P
+I didn't notice it last night, but it's not half bad.%K%P
+0xA0
+『朝倉家』がどれだけ金持ちなのか、オレには想像もつかないけれど、この建物を見る限り不快感はなかった。%K%P
+I can't imagine how wealthy this "Asakura family" is, but%Njudging by this house, I get the feeling that they're%Npretty well off.%K%P
+0xAC
+古くさい言い方だが、成金趣味といった感じが全くない。豪華な造りではあるのだが、そう、どこか自然とうまく調和している。%K%P
+The summer house is incredible. I feel like it could have%Nbeen designed by Frank Lloyd Wright, as rather than%Nbeing over-the-top lavish, it seems to be organic and in%Nsync with nature.%K%P
+0xB8
+自然か……。ふっとオレは、沙紀に初めて会った日を思い出していた。%K%P
+Nature, huh... I suddenly remember the day I first met Saki.%K%P
+0xC4
+月屋ホテルや温水プールを見て、『虚飾』だとか『俗悪』とか言っていた沙紀。%K%P
+When she saw Tsukiya Hotel and the heated pool, she%Nscoffed and used words like "affectation" and "worldly."%K%P
+0xD0
+いくら人間があがいたって、自然の美しさには及ばないとも言っていた。%K%P
+She said that no matter how hard humans try, there's no%Nway they can match up to natural beauty.%K%P
+0xDC
+言い方は高慢窮まりなく、性格モロ出しという感じだったが、意外と心の底には別な何かがあったりするのかもしれない。%K%P
+She's very arrogant and rude, but I'm starting to think%Nthat her words were more sincere than condescending.%K%P
+0xE8
+とすれば、このバスケットを見て、ひょっとすると沙紀は……。%K%P
+If that's right, then when she sees this basket, Saki will%Nbe like...%K%P
+0xF4
+沙紀「まあ、ありがとう。これ、気に入ってて、%N実はどうしようかと思ってたの。嬉しい。%N誠くんって器用なのね」%K%P
+Saki「Wow, thank you. This is my favorite basket; I'm glad you%Nfixed it. Honestly, I was worried about what I was going to%Ndo with it, but you're quite the handy one.」%K%P
+0x100
+誠「いやあ、それほどでもないけどね」%K%P
+Makoto「No, it wasn't that big of a deal.」%K%P
+0x10C
+沙紀「ううん、こういうことってお金に代えられないもの」%K%P
+Saki「No, This kind of thing can't be replaced with money.」%K%P
+0x118
+誠「そうだろう？　モノってのはこれくらい大切にすべきなんだ」%K%P
+Makoto「Is that so? Things like this should be treated with care.」%K%P
+0x124
+沙紀「よくわかったわ……私、昨日はあんなこと言って……ごめんなさい」%K%P
+Saki「I know... And to think I said all of those things to you%Nyesterday... I'm very sorry.」%K%P
+0x130
+誠「わかりゃいいんだよ、わかりゃあ……」%K%P
+Makoto「It's all right. I understand...」%K%P
+0x13C
+てな感じになって、あとはもう、オレのペースよ。%K%P
+... From there, everything will go exactly my way.%K%P
+0x150
+沙紀「ペースって何？」%K%P
+Saki「Whose way?」%K%P
+0x15C
+誠「それはだなあ……………………え？」%K%P
+Makoto「Well, that's... huh?」%K%P
+0x184
+──グワアアアッ！　いつの間に！？%K%P
+―GWAAAAA! When did she get here!?%K%P
+0x190
+沙紀「で、用事って何？」%K%P
+Saki「So, what are you doing here?」%K%P
+0x19C
+オレは慌ててバスケットを見せ、誤魔化すようにヘラヘラ笑ってしまった。%K%P
+I frantically show her the basket as I force a fake laugh.%K%P
+0x1A8
+沙紀「それ……どうしたの？」%K%P
+Saki「What... about it?」%K%P
+0x1B4
+誠「どうしたって……ええと、これ、きっと沙紀のお気に入りだろうと思って、つまり、何だ、そういう気持ちってのは金に代えられないわけで……」%K%P
+Makoto「'What about it'... umm, I thought for sure that this was%Nprobably your favorite, so I figured that, uhhh, it must%Nhave been priceless, so...」%K%P
+0x1C0
+沙紀「それで？」%K%P
+Saki「And?」%K%P
+0x1CC
+マズイ。これじゃ完璧に沙紀のペースだ。%K%P
+Crap. This is completely going at Saki's pace!%K%P
+0x1D8
+誠「だから……昨日は悪かったってことにして、それでだな、こういうモノも大切にするんだって、わかりゃいいのよ」%K%P
+Makoto「So... I decided I'd apologize about yesterday, and since I%Nthought this was important to you, I figured that, umm...」%K%P
+0x1EC
+イカン。何を言ってるのかさっぱりわからなくなってきた。%K%P
+Double crap. I no longer have any clue what the hell I'm%Nsaying...%K%P
+0x1F8
+沙紀が軽く鼻で笑うように息をつき、くるりと踵を返した。さっさと中に入っていく。%K%P
+Saki snorts as if she's scornfully mocking me and turns%Naround. She immediately begins to head back inside.%K%P
+0x204
+誠「おい。ちょっと待てよ、沙紀！」%K%P
+Makoto「Hey, wait, Saki!」%K%P
+0x210
+オレは沙紀を追いかけた。%K%P
+I chase after her.%K%P
+0x260
+別荘の中に入ったオレは、リビングを歩いて行く沙紀に、ドタドタとついて行った。%K%P
+I enter the summer house and follow Saki into the living%Nroom.%K%P
+0x26C
+すると振り返りざま、沙紀が鋭く切り込んできた。%K%P
+She turns around, furious.%K%P
+0x280
+沙紀「誰が入って来ていいって言ったの？」%K%P
+Saki「Who the hell said it was okay for you to come in?」%K%P
+0x28C
+誠「そ、そっちが話も聞かずに行くからだよ。オレの話は、まだ済んだわけじゃっ」%K%P
+Makoto「Y-You just left without even fully hearing me out. It's not%Nlike I'm done talk-」%K%P
+0x298
+沙紀「私がいいって言うまで話さないで」%K%P
+Saki「I thought I told you not to talk until I say so.」%K%P
+0x2A4
+誠「……」%K%P
+Makoto「...」%K%P
+0x2B0
+コノヤロ。全く相変わらずじゃないか。こいつにくるみみたいな反応を期待したオレが甘かった。%K%P
+This bitch. She's the same as always, isn't she? I was%Nnaive if I was expecting some sort of Kurumi-like%Nreaction from her.%K%P
+0x2BC
+オレは、自分でもわかるくらいムッとした顔をしていた。%K%P
+I sulk in my defeat.%K%P
+0x2C8
+沙紀が、バスケットにチラリと目を向けた。%K%P
+Saki glances at the basket.%K%P
+0x2D4
+沙紀「それ、直してくれたってわけ……ふーん……」%K%P
+Saki「You fixed it, huh... hmm...」%K%P
+0x2E0
+誠「……」%K%P
+Makoto「...」%K%P
+0x2EC
+沙紀「いいのに。そんなもの、もう捨てたつもりでいたから」%K%P
+Saki「It's all right. I was going to throw it out anyway.」%K%P
+0x2F8
+誠「そんなもの？」%K%P
+Makoto「Really?」%K%P
+0x304
+沙紀「どこでも買えるじゃない？　所詮人間が作ったものなんだから」%K%P
+Saki「You can buy these anywhere, right? They're mass%Nproduced. It's not like they're unique.」%K%P
+0x310
+誠「そりゃ買えるかもしれないけどな。たまにはこういうモノも……」%K%P
+Makoto「Well, true, but still, sometimes these things can be...」%K%P
+0x31C
+沙紀「大切にすべきだとでも言うの？」%K%P
+Saki「'Sentimental', right?」%K%P
+0x328
+誠「……」%K%P
+Makoto「...」%K%P
+0x334
+沙紀「図星って顔。誠くんが考えそうなことだよね」%K%P
+Saki「It's written all over your face. You're quite an easy%Nperson to read.」%K%P
+0x340
+誠「なにぃ？」%K%P
+Makoto「What!?」%K%P
+0x34C
+沙紀「庶民レベルが言いそうだってこと」%K%P
+Saki「You talk at a commoner's level.」%K%P
+0x358
+（くっ……こっちが下手に出てりゃいい気になりやがって！）%K%P
+(Damn it... I'm trying to be modest here, and yet she's as%Nfull of herself as always!)%K%P
+0x364
+誠「ああそうか。んなら別に%N無理して使ってもらわなくったって……」%K%P
+Makoto「Oh, really. Well then, I guess you're under no obligation to%Nuse this...」%K%P
+0x370
+アホくさくなってきた。もうつきあってられるか。オレはバスケットを持ったまま、出て行こうとした。%K%P
+I feel like a dumbass. I'm fed up of dealing with this shit. I%Ngo to leave, still holding the basket.%K%P
+0x37C
+やっぱりこんな奴の心配なんかしたオレが間違っていた。%K%P
+It really was a mistake for me to even worry about her.%K%P
+0x388
+沙紀「待ちなさいよ」%K%P
+Saki「Wait.」%K%P
+0x394
+誠「何だよ！？」%K%P
+Makoto「What!?」%K%P
+0x3A0
+沙紀「私は別に、もう使わないなんて言ってない」%K%P
+Saki「It's not like I said I wasn't going to use it anymore.」%K%P
+0x3AC
+誠「……はあ？」%K%P
+Makoto「... Huh?」%K%P
+0x3B8
+沙紀「置いていきなさいよ」%K%P
+Saki「Put it down.」%K%P
+0x3C4
+誠「じゃあ、受け取れ」%K%P
+Makoto「Take it yourself.」%K%P
+0x3D0
+沙紀「わかったから、そこに置いていって」%K
+Saki「Just put it down over there.」%K
+0x17D0
+『……わかったよ』
+"... All right."
+0x17DC
+『ちゃんと沙紀の手で受け取れよ』
+"You should take it with your own hands."
+0x410
+誠「……わかったよ」%K%P
+Makoto「... All right.」%K%P
+0x41C
+オレは無造作に近くの机にバスケットを置いた。%K%P
+I casually place the basket on a nearby desk.%K%P
+0x428
+チラリと沙紀の表情を盗み見る。%K%P
+I sneak a fleeting glance at Saki's face.%K%P
+0x434
+沙紀の顔に、ほっとしたような安堵の色が浮かんだ。と言っても、注意して見なければわからない程度だが。%K%P
+She seems to look almost relieved. Granted, the gesture%Nwas so slight, I could have mistaken it for something else.%K%P
+0x440
+誠「そこそこいい感じだろ？　元通りってわけにはいかないけど」%K%P
+Makoto「Looks pretty good, huh? There's no way it's as good as%Nbefore, but...」%K%P
+0x44C
+沙紀「まあ……悪くはないわね」%K%P
+Saki「Well... it's not bad.」%K%P
+0x458
+思ったとおりだ。沙紀はまたしても変な意地を張っているだけなのだ。%K%P
+Just as I thought. Saki is just being strangely stubborn%Nagain.%K%P
+0x464
+『ありがとう』……たったひと言で済むことなのに……やれやれ。%K%P
+A "thank you" would have been nice... Oh, well.%K%P
+0x470
+そこでオレは、沙紀からは見えない反対側も見せてあげようと、バスケットをくるりと回して見せた。%K%P
+I turn the basket around to show off the other side of it.%K%P
+0x47C
+その時だ……。お守りの鈴が激しく鳴った。%K%P
+Just then... The bell in the charm rings loudly.%K%P
+0x4B4
+──突然、沙紀の顔色が変わった。%K%P
+―Suddenly, Saki's complexion changes.%K%P
+0x4C8
+沙紀「イヤアァッ……！」%K%P
+Saki「Noooo...!」%K%P
+0x4DC
+悲鳴をあげてバスケットに駆け寄る沙紀。バスケットをわしづかみにすると、凄い形相で鈴の音のありかを探し始めた。%K%P
+Saki screams, runs over to the basket, grabs it, and with%Na haunted expression, begins searching for the source%Nof the sound.%K%P
+0x4F8
+誠「置いてけなんて言い方あるかよ。ちゃんと沙紀の手で受け取れよ」%K%P
+Makoto「Telling me to put it down? Don't get conceited. Take it%Nyourself, Saki.」%K%P
+0x504
+沙紀はオレの前に来ると、手を突き出した。オレの方も、つっけんどんにバスケットを渡す。%K%P
+When Saki comes over to me, she thrusts her hands out.%NI curtly give her the basket.%K%P
+0x518
+沙紀はバスケットを手にした途端、包み込むように抱えた。その顔に、ほっとしたような笑みがこぼれたのを、オレは見逃さなかった。%K%P
+Saki clings to the basket as if she were holding a%Nnewborn baby. She tries to suppress a relieved grin, but%NI still catch it.%K%P
+0x524
+誠「そこそこいい感じだろ？　元通りってわけにはいかないけど」%K%P
+Makoto「Looks pretty good, huh? There's no way it's as good as%Nbefore, but...」%K%P
+0x530
+沙紀「まあ……悪くはないわね」%K%P
+Saki「Well... it's not bad.」%K%P
+0x53C
+やれやれ。どうして沙紀は、嬉しいなら嬉しいと素直に言えないんだろう？%K%P
+Cut me some slack... If she's happy, why can't she just%Nbe honest and say so?%K%P
+0x548
+まあ、くるみみたいにやたらと素直すぎるのも、それはそれで困りものだが……。%K%P
+Well, if it turned out she was extremely honest, like Kurumi,%Nthat'd be quite worrisome...%K%P
+0x554
+沙紀が、くるりとバスケットを回して見た。%K%P
+Saki examines the basket, rotating it.%K%P
+0x560
+その時だ……。お守りの鈴が激しく鳴った。%K%P
+Just then... The bell in the charm rings loudly.%K%P
+0x5B0
+──突然、沙紀の顔色が変わった。%K%P
+―Suddenly, Saki's complexion changes.%K%P
+0x5BC
+沙紀「イヤアァッ……！」%K%P
+Saki「Noooo...!」%K%P
+0x5D0
+悲鳴をあげて、とっさにバスケットを手放す沙紀。しかしすぐに、再びそれをわしづかみにすると、凄い形相で鈴の音のありかを探し始めた。%K%P
+Saki screams and instantly drops the basket. The color%Ndrains from her face as she frantically grabs it and%Nbegins to search for the source of the sound.%K%P
+0x5DC
+やがて、沙紀はお守りを見つけた。%Nぶら下がった鈴を、激しく引きちぎる！　%Nバスケットが手から滑り落ちた！%K%P
+Before long, Saki finds the charm. She violently tears off%Nthe dangling bell! The basket slips out of her hands!%K%P
+0x5E8
+ブルブルッと体を震わせ、窓際へ駆け寄る！　窓を開け放ち、叩き付けるように鈴を投げ捨てた！%K%P
+With her body visibly trembling, she runs over to the%Nwindow! She swings it open, and throws the bell away!%K%P
+0x5F4
+ほぉっ……。沙紀は大きく息をついた。%Nオレが近づくと、ビクッとなって身を引く。%K%P
+Haah... Saki takes a deep breath. When I approach her,%Nshe backs away from me.%K%P
+0x608
+沙紀「あのクローンに頼まれたの！？」%K%P
+Saki「Did that clone give it to you!?」%K%P
+0x614
+誠「何のことだ？」%K%P
+Makoto「What are you talking about?」%K%P
+0x620
+沙紀「だからあのクローンよ！」%K%P
+Saki「I'm talking about that clone!」%K%P
+0x62C
+誠「遙のことか？」%K%P
+Makoto「You mean Haruka?」%K%P
+0x638
+沙紀「名前なんか何だっていいの！」%K%P
+Saki「Her name doesn't matter!」%K%P
+0x644
+誠「遙と何があるんだ！？」%K%P
+Makoto「What does Haruka have to do with it!?」%K%P
+0x658
+沙紀「ずっと……ずっと追いかけて来る！」%K%P
+Saki「She's always... she's always chasing me!」%K%P
+0x664
+誠「沙紀、落ち着け！」%K%P
+Makoto「Saki, calm down!」%K%P
+0x670
+沙紀「取り上げても、取り上げても、ずっと！」%K%P
+Saki「Always, even though I keep taking it and taking it!」%K%P
+0x67C
+誠「沙紀！」%K%P
+Makoto「Saki!」%K%P
+0x688
+沙紀「あんなもの、ただの遊びだったのに！」%K%P
+Saki「Even though that thing's just a damn plaything!」%K%P
+0x694
+誠「あんなものって何だ？」%K%P
+Makoto「What is 'that thing'?」%K%P
+0x6A0
+沙紀「やめて……」%K%P
+Saki「Stop...」%K%P
+0x6AC
+誠「何なんだ！？」%K%P
+Makoto「What is it!?」%K%P
+0x6C0
+沙紀「やめて！」%K%P
+Saki「STOP!」%K%P
+0x6CC
+沙紀「近寄らないで……」%K%P
+Saki「Stay away from me...」%K%P
+0x6D8
+誠「沙紀！」%K%P
+Makoto「Saki!」%K%P
+0x6E4
+オレは構わず距離をつめた。後退る沙紀が、壁に背中をぶつける。%K%P
+I unconsciously approach her. Saki draws back until her%Nback hits a wall.%K%P
+0x6F0
+オレがぐっと近寄ろうとしたその時……ゴォーッと地の底からうなるような音が響いた。%K%P
+Just when I close in on her... I hear a sound that sounds%Nlike a roar from the bottom of the earth.%K%P
+0x74C
+激しく床が揺れている。%K%N
+The floor violently shakes.%K%N
+0x758
+──地震だ！%K%P
+―It's an earthquake!%K%P
+0x7A0
+沙紀「キャア！」%K%P
+Saki「Kyaa!」%K%P
+0x7AC
+鋭い声をあげてふらつく沙紀を、オレはしっかり抱き止めた。%K%P
+I firmly restrain the stumbling Saki as she lets out a%Nsharp scream.%K%P
+0x7B8
+オレ達はそのまま１歩も動けず、じっとしていた。%K%P
+We stay still like that without taking a step.%K%P
+0x7C4
+どのくらいそうしていただろう……。%K%P
+I wonder how long it's been...%K%P
+0x804
+……気がついたとき、地震はすっかり静まっていた。%K%P
+... When I come to my senses, the earthquake has%Ncompletely subsided.%K%P
+0x810
+オレは、そっと沙紀を覗き込んだ。沙紀もオレを見ていた。%K%P
+I quietly look at Saki. Our eyes meet.%K%P
+0x81C
+オレは気持ちを落ち着かせ、言葉を探した。とにかく何か喋らなくちゃ……。しかし、沙紀の方が先に口を開いた。%K%P
+Now that my nerves have settled down, I try to search%Nfor the right words to say... However, Saki beats me to it.%K%P
+0x830
+沙紀「……そろそろ、離して」%K%P
+Saki「... You can let go now.」%K%P
+0x83C
+誠「え？　あ、ああ……」%K%P
+Makoto「Huh? R-Right...」%K%P
+0x850
+オレが手を広げると、沙紀はすっと離れて%N背を向けた。%K%P
+When I do, Saki quickly moves away and turns her back%Non me.%K%P
+0x85C
+沙紀「帰って」%K%P
+Saki「Go home.」%K%P
+0x868
+誠「えっ？　……いや、だけどさっきの話っ」%K%P
+Makoto「Huh...? But we're not done tal-」%K%P
+0x874
+沙紀「このあと、用事があるの」%K%P
+Saki「I have something to do after this.」%K%P
+0x880
+誠「沙紀……」%K%P
+Makoto「Saki...」%K%P
+0x88C
+沙紀「帰って」%K%P
+Saki「Go home.」%K%P
+0x898
+『もう何も話す気はない』──沙紀の瞳がそう言っている。%K%P
+The look in her eyes makes it clear that she isn't in the%Nmood to talk.%K%P
+0x8A4
+仕方がない……。オレは出口へと足を向けた。%K%P
+It can't be helped... I walk towards the exit.%K%P
+0x8B0
+途中で１度だけ振り返った。%K%P
+On my way, I turn around just once.%K%P
+0x8BC
+誠「その……用事って長くかかるのか？」%K%P
+Makoto「Um... will your business take long?」%K%P
+0x8C8
+沙紀「いいでしょ、別に」%K%P
+Saki「It's fine, it doesn't matter.」%K%P
+0x8D4
+誠「……みんな、今日の夕方５時に『ルナビーチ』に集まることになってるんだ。よかったら来いよ」%K%P
+Makoto「... Everyone's will be meeting this evening at 5:00 at%NLunabeach. If you'd like, you're welcome to join.」%K%P
+0x8E0
+沙紀「……」%K%P
+Saki「...」%K%P
+0x8EC
+返事はなかった。だが、ここは黙って引き下がるしかない。オレはそう思って、沙紀の別荘を後にした。%K%P
+She doesn't reply. All I can do is quietly leave. With that%Nthought, I leave Saki's summer house.%K%P
+0x960
+ロッジの前まで戻ると、そこには遙がいた。%K%P
+When I return to the lodge, I find Haruka outside the front.%K%P
+0x974
+誠「よっ」%K%P
+Makoto「Yo!」%K%P
+0x980
+オレは努めて軽快に声をかけた。ついさっきまでの沙紀との気まずいやり取りを、振り払うように……。%K%P
+I greet her as casually as possible. It's as if I'm trying to%Nforget what had happened between me and Saki just a%Nshort while ago...%K%P
+0x98C
+遙「……」%K%P
+Haruka「...」%K%P
+0x998
+だが、遙は何も答えない。%K%P
+But Haruka doesn't answer.%K%P
+0x9A4
+誠「何だよ？　どうしたんだ？」%K%P
+Makoto「What? Is something wrong?」%K%P
+0x9B0
+遙「……」%K%P
+Haruka「...」%K%P
+0x9BC
+遙がちらっとオレの方を見た。何だか蔑むような視線だ。%K%P
+Haruka glances at me. For some reason, her eyes are%Nfilled with scorn...%K%P
+0x9D0
+そうして口をきゅっと結んだまま、遙は林道に向かってスタスタと歩き出して行く。%K%P
+Without saying a word, she briskly starts walking%Ntowards the forest road.%K%P
+0x9DC
+誠「……遙？」%K%P
+Makoto「... Haruka?」%K%P
+0x9E8
+遙「……」%K
+Haruka「...」%K
+0x17E8
+『ちょっと待てよ！』
+"Wait a minute!"
+0x17F4
+黙って遙を見送った
+Silently see off Haruka.
+0xA28
+誠「ちょっと待てよ！」%K%P
+Makoto「Wait a minute!」%K%P
+0xA3C
+遙「何？」%K%P
+Haruka「What?」%K%P
+0xA48
+誠「何って……どっか行くのか？」%K%P
+Makoto「'What'... Are you going somewhere?」%K%P
+0xA54
+遙「うん」%K%P
+Haruka「Yes.」%K%P
+0xA60
+誠「どこ行くんだ？」%K%P
+Makoto「Where are you going?」%K%P
+0xA6C
+遙「別に」%K%P
+Haruka「Nowhere really.」%K%P
+0xA78
+誠「別にって……」%K%P
+Makoto「'Nowhere really'...?」%K%P
+0xA84
+遙「じゃ、行くから」%K%P
+Haruka「Well then, I'm going.」%K%P
+0xA98
+誠「おい、ちょっと……」%K%P
+Makoto「Hey, wait...」%K%P
+0xAA4
+遙を追いかけようとしたオレは、後ろから肩をつかまれた。振り向くと、億彦だった。%K%P
+I try to run after Haruka when someone grabs me on the%Nshoulders from behind. When I turn around, I see that it's%NOkuhiko.%K%P
+0xAB8
+億彦「石原ぁ。遙ちゃん、迷惑がってるのがわからないのか？」%K%P
+Okuhiko「Ishihara. Don't you understand you're bothering%NHaruka-chan?」%K%P
+0xAC4
+誠「えっ？」%K%P
+Makoto「Huh?」%K%P
+0xAD0
+億彦「イヤだね、つくづく女の子の気持ちがわからない奴は……」%K%P
+Okuhiko「Damn, you really don't understand girls' feelings, do%Nyou...?」%K%P
+0xAE4
+オレは殴りたくなる気持ちを抑えながら、億彦を振り切って林道に向かった。遙の姿は、もう見えなくなっていた。%K%P
+While resisting the urge to punch Okuhiko, I shake him off%Nand head towards the forest road. I've lost sight of%NHaruka.%K%P
+0xAF8
+オレは黙って遙を見送った。%K%P
+I silently see Haruka off.%K%P
+0xB04
+やがて、遙の後ろ姿は見えなくなる。%K%P
+Before long, she disappears.%K%P
+0xB10
+行くあてを失ったオレは途方に暮れ、何をするわけでもなく、テラスへと上がった。%K%P
+Having lost my destination, and having nothing to do and%Nnowhere to go, I go up to the terrace.%K%P
+0xB48
+テラスから見える海は、なんだかやけに青く見えた。%K%P
+I can see the deep blue ocean from the terrace.%K%P
+0xBAC
+ぼんやりと海を見ながら、オレは沙紀と遙のことを考えていた。%K%P
+As I vacantly gaze out at the ocean, my thoughts drift%Nto Saki and Haruka.%K%P
+0xBB8
+沙紀は、あのお守りの鈴の音を聞いて、ひどく取り乱していた。%K%P
+When Saki heard the sound of the bell on the charm, she%Nreally freaked out.%K%P
+0xBC4
+かたや遙は、オレが沙紀の別荘から帰って来るなり、急によそよそしくなってしまった。%K%P
+On the other hand, as soon as I got back from Saki's%Nsummer house, Haruka became cold to me.%K%P
+0xBD0
+（いったい２人の間には何があったと言うんだ？）%K%P
+(Just what happened between those two?)%K%P
+0xBDC
+考え疲れたオレがふっと林道の方を見ると、足早に歩いて行く沙紀の後ろ姿が見えた。%K%P
+Tired of thinking, I look towards the forest path, and see%NSaki's retreating figure, walking at a quick pace.%K%P
+0xBE8
+（そう言えば、何やら用事があると%N言っていたが……）%K%P
+(Now that I think about it, she did say she had something%Nto do...)%K%P
+0xBF4
+オレは気になった。%K%P
+I'm curious.%K%P
+0xC00
+よし。思い切って、後を尾けてみよう……。%K%P
+All right. Resolving myself, I decide to try to tail her...%K%P
+0xC54
+沙紀は林道を抜けると、海岸線へ出た。そのまま５分ほど東へ歩いて脇道に入る。%K%P
+When Saki exits the forest road, she arrives at the%Ncoastline. She walks east for nearly five minutes, then%Ngoes down a side road.%K%P
+0xCDC
+その道は、桜並木だった。くるみを追いかけた時にも通った、あの桜並木だ。%K%P
+The street has cherry blossom trees. It's the cherry%Nblossoms I passed when I was chasing Kurumi.%K%P
+0xCF0
+その道は、桜並木だった。%K%P
+The street has cherry blossom trees.%K%P
+0xCFC
+（こんなところに桜が咲いてたのか……）%K%P
+(There were cherry blossoms in a place like this...?)%K%P
+0xD08
+しかし、今は花見をしている場合ではない。%K%P
+But now isn't the time to be admiring them.%K%P
+0xD14
+オレは視線を沙紀の背中だけに集中し、%N追跡を続けた。%K%P
+I concentrate my gaze only on Saki's back, and resume%Nthe pursuit.%K%P
+0xD8C
+……やがてその並木道を抜け、展望公園に辿り着いた。%K%P
+... Before long, I exit the tree-lined street, and arrive at%Nat Viewpoint Park.%K%P
+0xD98
+青く雄大な海が一望のもとに見渡せる。%K%P
+It offers an unbroken view of the grand blue sea that%Nlies before me.%K%P
+0xDA4
+沙紀は、公園の中央に立った灯台の方へと向かっていた。%K%P
+Saki heads towards the lighthouse standing in the%Ncenter of the park.%K%P
+0xDB0
+すると、その陰からあとひとつ、人影が現れた。%K%P
+Just then, another person appears from the shadow of%Nthe lighthouse.%K%P
+0xDBC
+オレは思わず、声を洩らしそうになった。%K%P
+I instinctively almost let out a gasp.%K%P
+0xDC8
+遙だったのだ……。%K%P
+It's Haruka...%K%P
+0xDD4
+すぐさま沙紀と遙は、何やら言い合いを始めた。%K%P
+Saki and Haruka immediately begin to quarrel for some%Nreason.%K%P
+0xDE0
+あの時と同じだ。防波堤に高波が押し寄せる直前の２人そのものだった。%K%P
+It's the same as back then... just before the monstrous%Nwave struck that pier...%K%P
+0xDEC
+オレは心臓が高鳴るのを感じた。%K%P
+I feel my heart beating loudly.%K%P
+0xDF8
+２人に気づかれないよう大きく回り込んで、灯台の反対側に身をひそめる。%K%P
+I take a large roundabout path so they don't notice me,%Nand hide myself on the opposite side of the lighthouse.%K%P
+0xE04
+言い争う２人の声がよく聞こえる位置だった……。%K%P
+It's a place where I can hear their argument very well...%K%P
+0xE20
+沙紀「言いがかりはやめて。もう私はあんなもの持ってないわ」%K%P
+Saki「Stop accusing me. I don't have it anymore.」%K%P
+0xE2C
+遙「嘘。あなたが取り上げたんだから」%K%P
+Haruka「You're lying. You took it away.」%K%P
+0xE38
+沙紀「ずっと、私を脅し続けるつもり？」%K%P
+Saki「Do you intend to threaten me forever?」%K%P
+0xE44
+遙「返してくれないなら」%K%P
+Haruka「Then just give it back to me.」%K%P
+0xE50
+沙紀「私だって、２度と見たくないんだから！」%K%P
+Saki「I didn't want to see it again!」%K%P
+0xE5C
+遙「お願い。嘘つかないで！」%K%P
+Haruka「Please, stop lying!」%K%P
+0xE68
+沙紀「嘘じゃないわ！」%K%P
+Saki「I'm not lying!」%K%P
+0xE74
+遙「嘘！　嘘！　返して！　あの『鈴』返して！」%K%P
+Haruka「You're lying! You're lying! Give it back! Give me back that%N'bell'!」%K%P
+0xE80
+──鈴？？？%K%P
+―Bell???%K%P
+0xE8C
+（そう言えば、沙紀はさっきもお守りの鈴の音を聞いて……）%K%P
+(Now that I think about it, when Saki heard that bell on the%Ncharm...)%K%P
+0xE98
+と、その瞬間！%K%P
+And, in that instant!%K%P
+0xEAC
+オレの脳裏をよぎった光景……。%K%P
+A scene flies by my mind...%K%P
+0xEB8
+１日の朝に見た……あの絶望的な……夢……。%K%P
+That hopeless... dream I had... on the morning of the 1st...%K%P
+0xEC4
+（まさか鈴って……あの鈴のことなのか！？）%K%P
+(It couldn't be that the bell they're talking about... is THAT%Nbell!?)%K%P
+0xED0
+いや、そんな筈はない……。%K%N
+No, that's impossible...%K%N
+0xEDC
+そんな筈は……。%K%P
+That's impossible...%K%P
+0xEF0
+オレは何度も首を振って、妄想を振り払った。%K%P
+I shake my head countless times to get rid of that%Ndelusion.%K%P
+0xEFC
+（とにかく今は、この状況をどうするかだ……）%K%P
+(Anyway, right now, I've got to do something about this%Nsituation...)%K%P
+0xF08
+そう思ったオレは、灯台の陰から顔を出し、２人の様子を覗き見た。%K%P
+When I think that, I peek out from the shade of the%Nlighthouse, and observe those two.%K%P
+0xF14
+今、沙紀と遙はつかみ合い、もつれるようにして争っている。%K%P
+Their quarrel has now gotten to a physical level, for the%Ntwo are grappling.%K%P
+0xF20
+と、沙紀が遙の手を振り払った。じりじりと後退る沙紀。%K%P
+Saki manages to shake Haruka's hands off her, and%Nslowly draws back.%K%P
+0xF2C
+遙は、沙紀を突き刺すようににらみつけながら、ぐんぐんと距離を縮めて行く。%K%P
+Haruka steadily closes the distance between her and%NSaki as she throws a furious glare at her.%K%P
+0xF38
+沙紀は首を横に小刻みに振っている。%K%P
+Saki slowly shakes her head.%K%P
+0xF44
+遙が、沙紀の手をまたつかもうとしたそのとき。──沙紀が思い切り遙を突き飛ばした！%K%P
+Haruka grabs Saki's hand again, but this time Saki%Nthrusts Haruka away with all her strength!%K%P
+0xF50
+遙の体は、きれいに真後ろに倒れた。そのまま全く動かない。%K%P
+Haruka falls flat on her back. She's not moving at all.%K%P
+0xF5C
+沙紀はまた、首をぶるぶると横に振って、パッと駆け出して行った。%K%P
+Saki shakes her head once again, trembling slightly, and%Nimmediately breaks off into a run.%K%P
+0xF68
+オレは物陰から飛び出した。遙のかたわらに%N駆け寄る。遙は気を失っているようだ。%K%P
+I come out from the shade and immediately rush over to%NHaruka's side.%K It seems she's lost consciousness.%K%P
+0xF74
+オレは遙を抱き起こして体を揺すった。%K%P
+I lift Haruka up in my arms and shake her body.%K%P
+0xF80
+誠「遙！　遙！　しっかりしろ！」%K%P
+Makoto「Haruka! Haruka! Hang in there!」%K%P
+0xF8C
+騒ぎに気づいた人々が、ザワザワと声を出し始めている。%K%P
+The people who've noticed the uproar begin talking.%K%P
+0xF98
+誠「遙！」%K%P
+Makoto「Haruka!」%K%P
+0xFA4
+ふっと、遙が目を開けた。瞳がきょときょとと動く。%K%P
+Suddenly, Haruka's eyes open and move around%Nrestlessly.%K%P
+0xFB8
+遙「誠……？」%K%P
+Haruka「Makoto...?」%K%P
+0xFCC
+オレはうなずいて見せた。遙は半身を起こし、ぼんやりとオレを見つめた。オレもそのまま見る。とたん、じわっと遙の目に涙が浮かんだ。%K%P
+I silently nod. Haruka raises half her body up, and blankly%Nstares into my eyes. Just then, Haruka's eyes suddenly%Noverflow with tears.%K%P
+0xFD8
+誠「遙……」%K%P
+Makoto「Haruka...」%K%P
+0xFE4
+力を込めようとしたオレの手を、遙が静かに%N押し戻す。%K%P
+I hold out my hand to help her get to her feet, but she%Npushes it away.%K%P
+0xFF0
+誠「？」%K%P
+Makoto「?」%K%P
+0x1004
+遙「構わないで」%K%P
+Haruka「Don't worry about me.」%K%P
+0x1010
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0x101C
+遙はオレを避けるように離れ、立ち上がった。%K%P
+Haruka stands up and moves away as if to avoid me.%K%P
+0x1028
+誠「何言ってるんだ？」%K%P
+Makoto「What are you saying?」%K%P
+0x1034
+遙「……」%K%P
+Haruka「...」%K%P
+0x1040
+誠「オレ、見てたんだぞ、今」%K%P
+Makoto「I saw what happened just now.」%K%P
+0x104C
+遙「誠には……関係ない」%K%P
+Haruka「It doesn't... concern you, Makoto.」%K%P
+0x1058
+誠「……」%K%P
+Makoto「...」%K%P
+0x1064
+遙「関係ないから……」%K%P
+Haruka「It doesn't concern you, so...」%K%P
+0x1078
+遙はオレから目を逸らし、歩き出した。すっすっと速度を早め、どんどんオレから遠ざかって行く。オレは何故か追うこともできず、茫然と見送ってしまった。%K%P
+Haruka looks away from me and walks off. She quickens%Nher smooth pace, and starts getting farther and farther%Nfrom me.%K For some reason, all I can do is stare at her%Ndumbfoundedly.%K%P
+0x1084
+気がついたときには、遙の姿はもうなかった。%Nオレは何だかぐったりとした気分で、来た道を%Nとぼとぼと戻った。%K%P
+When I come to my senses, Haruka is already gone.%NFeeling somewhat senseless, I trudge down the road I%Ncame and head back.%K%P
+0x10DC
+桜並木を抜け、海岸線に出る。%K%P
+I exit the tree-lined road and come out to the coastline.%K%P
+0x10E8
+すると、どこからか視線を感じた。月浜方面に目を向けると、沙紀がじっとこちらを見ていた。%K%P
+Just then, I feel a stare from somewhere. When I shift my%Nattention towards the direction of Moon Beach, I see%NSaki firmly staring at me.%K%P
+0x10F4
+オレは、思わず立ちすくんでしまった。そのくらい強烈な視線だった。%K%P
+I am instinctively paralyzed by her intense gaze.%K%P
+0x1108
+沙紀「……」%K%P
+Saki「...」%K%P
+0x1114
+誠「……」%K%P
+Makoto「...」%K%P
+0x1128
+沙紀は、すぐに視線をそらして、月浜の方へと走り出した。オレも、弾かれたように後を追った。%K%P
+Saki soon averts her gaze, and starts running in the%Ndirection of Moon Beach. I quickly chase after her.%K%P
+0x117C
+沙紀は速度を緩めなかった。オレが全力で走っても追いつけない。%K%P
+Saki doesn't slow down. Even though I'm running as fast%Nas I can, I can't catch up.%K%P
+0x1188
+どうしてだ？　どうして逃げるんだ？　オレは走りながらそればかり考えていた。%K%P
+Why? Why is she running away? It's all I can think about.%K%P
+0x1194
+自分がどうして沙紀を追いかけているのかさえ、わからなかった。%K%P
+I don't even understand why I'm chasing after Saki in the%Nfirst place.%K%P
+0x11A0
+沙紀は海岸線から月浜を抜け『ルナビーチ』の前を通り過ぎた。そのまま月屋ホテルの方へと向かう。%K%P
+Saki gets onto Moon Beach from the coastline and%Npasses right in front of Lunabeach. She makes a beeline%Ntowards Tsukiya Hotel.%K%P
+0x11AC
+その間、スピードは全く落ちなかった……。%K%P
+Not once does she slow down.%K%P
+0x11FC
+ホテルに着くと、沙紀は正面玄関からロビーへと駆け込んで行った。%K%P
+When we reach the hotel, Saki rushes into the lobby from%Nthe front entrance.%K%P
+0x1208
+オレも必死で後を追う。%K%P
+I desperately chase after her.%K%P
+0x1214
+その時、ロビーから出て来た女性と、出会い頭にぶつかってしまった。%K%P
+Just then, a woman comes out from the lobby, and we%Ncrash into each other.%K%P
+0x1220
+オレとその女性は重なり合って倒れた。%K%P
+The woman and I fall on top of each other.%K%P
+0x122C
+？？「きゃっ！」%K%P
+??「Kyaa!」%K%P
+0x1238
+誠「すいません！」%K%P
+Makoto「Sorry!」%K%P
+0x1254
+慌てて立ち上がり女性に手を差し出したオレは、思わずほっと息をついた。%K%P
+As I frantically get up and lend a helping hand to the%Nwoman, I breathe a sigh of relief.%K%P
+0x1260
+いづみさんだったのだ。格好から見るに、ホテルにピザか何かを届けに来ていたらしい。%K%P
+It's Izumi-san. Judging from her appearance, it seems%Nshe was delivering a pizza or something to the hotel.%K%P
+0x129C
+いづみ「何だ？　誠くんだったの？」%K%P
+Izumi「Oh, if it isn't Makoto-kun?」%K%P
+0x12A8
+誠「大丈夫ですか、いづみさん？　大丈夫ならオレ、ちょっと！」%K%P
+Makoto「Are you all right, Izumi-san? If so, then I've got to go!」%K%P
+0x12B4
+沙紀を追って中へ行こうとするオレの手を、いづみさんはグイッとつかんだ。%K%P
+But before I can, Izumi-san tightly grabs my hand.%K%P
+0x12C0
+いづみ「ちょっと待った。見たぞ、さっきの表情」%K%P
+Izumi「Wait a minute. I saw your expression earlier.」%K%P
+0x12CC
+誠「え？　表情って？」%K%P
+Makoto「Huh? 'Expression'?」%K%P
+0x12D8
+いづみ「罰としてこれから手伝ってくれる？」%K%P
+Izumi「As a penalty, would you help me from now on?」%K%P
+0x12E4
+何だかよくわからないが、とにかく今は沙紀を追わなくちゃ！%K%P
+I don't really get it, but I've got to catch Saki right now!%K%P
+0x12F0
+誠「ゴ、ゴメン、いづみさん！　%Nオレ今、急いでるから！」%K%P
+Makoto「S-Sorry, Izumi-san! I'm in a hurry right now!」%K%P
+0x12FC
+いづみ「いいじゃない？　どうせ夕方にはみんなでうちに来ることになってるんでしょ？」%K%P
+Izumi「It's fine, isn't it? At any rate, it's been decided that we'll%Nall gather tonight at the shop, right?」%K%P
+0x1308
+誠「いや、だけど……」%K%P
+Makoto「Yes, but...」%K%P
+0x1314
+いづみ「誠くん！」%K%P
+Izumi「Makoto-kun!」%K%P
+0x1320
+誠「はい……」%K%P
+Makoto「Yes, ma'am...」%K%P
+0x132C
+いづみ「今日の私とくるみ、２人で１人前なのよね。姉妹そろって睡眠不足」%K%P
+Izumi「Last night, Kurumi and I pulled an all nighter, and have%Ntreaded along all day exhausted.」%K%P
+0x1338
+いづみ「どうしてだかわかるよね？　……誠くんなら」%K%P
+Izumi「Do you know why? ... You should, Makoto-kun.」%K%P
+0x1344
+そ、そうかぁ……。あのバスケット……。%K%P
+I-I see... That basket...%K%P
+0x1350
+だいたいオカシイと思ったんだよな。%K%N
+I thought it was strange at first.%K%N
+0x135C
+あのくるみがいくら徹夜したって、ひと晩であそこまで直せるわけないもんな。%K%P
+I thought that even if Kurumi pulled an all-nighter, there's%Nno way she could have fixed it by herself in one night.%K%P
+0x1368
+誠「でも、ほんとに急用がっ」%K%P
+Makoto「But I really have urgent busi―」%K%P
+0x1374
+いづみ「えーっ……誠くん、私達姉妹を見捨てちゃうつもりなの？」%K%P
+Izumi「Whaaat? ... Makoto-kun, do you plan to abandon us%Nsisters?」%K%P
+0x1388
+いづみさんは目を潤ませ、かよわい乙女に変貌した。%K%P
+Izumi-san's eyes get moist, and she suddenly%Ntransforms into a frail young woman...%K%P
+0x1394
+な……なぜだ！？　なぜ、そうなる？%K%P
+Wh... Why!? Why has it turned out this way?%K%P
+0x13A0
+これじゃまるで、オレがいづみさんをいじめてるみたいじゃないか。%K%P
+It feels like I'm being mean to Izumi-san, doesn't it?%K%P
+0x13AC
+いづみ「私もくるみも、本当に困ってるのに……誠くんの助けが必要なのに……」%K%P
+Izumi「Even though Kurumi and I are really in trouble... even%Nthough we need your help, Makoto-kun...」%K%P
+0x13B8
+（うぅっ……いづみさん、そんな目でオレを見ないでくれ）%K%P
+(Nooo... Izumi-san, please don't look at me with those%Neyes!)%K%P
+0x13C4
+いづみ「誠くんは私達を利用するだけ利用して……」%K%P
+Izumi「Makoto-kun only sees us as tools to be used...」%K%P
+0x13D0
+いづみ「用がなくなれば、使い終わった歯磨き粉のチューブのように捨ててしまうつもりなのね……」%K%P
+Izumi「When we run out of use, he plans to throw us out like%Nused-up, empty tubes of toothpaste...」%K%P
+0x13DC
+誠「い……いや……あの……その……」%K%P
+Makoto「N... No... Umm... Err...」%K%P
+0x13E8
+オレがしどろもどろになっていると、いづみさんはさらなる追い討ちをかけてきた。%K%P
+When I become flustered, Izumi-san continues to attack%Nme while I'm cornered.%K%P
+0x13F4
+いづみ「もういい……わかった。今日は衰弱した体に鞭打って、くるみと２人だけで働く」%K%P
+Izumi「It's fine... I understand. Kurumi and I will just work our%Ndelicate and frail bodies to the bone.」%K%P
+0x1400
+いづみ「でも、もし私達が過労で倒れてしまったら……その時くらいは看病してね？」%K%P
+Izumi「But when we collapse from overworking ourselves...%Ncould you at least nurse us back to health?」%K%P
+0x1414
+いづみさんはくるりと振り向くと、弱々しい足取りでルナビーチの方へと歩き出した。%K%P
+Izumi-san turns around, and starts frailly walking back%Ntowards Lunabeach.%K%P
+0x1420
+もはや……沙紀を追うのはあきらめる……しかなかった。%K%P
+I should probably... just give up... on chasing Saki.%K%P
+0x142C
+はぁ〜……。%K%P
+Haah...%K%P
+0x1438
+誠「あ、あの……いづみさん。オレ、やっぱり心配だから、手伝いますよ……」%K%P
+Makoto「U-Umm... Izumi-san. I really am worried about you, so I'll help%Nyou...」%K%P
+0x1444
+すると、いづみさんは素早くオレの方へと%N向き直った。にこやかな笑顔を浮かべながら……。%K%P
+Just then, Izumi-san quickly turns towards me while a%Nsmile rises to her face...%K%P
+0x1458
+いづみ「あれ？　急用はどうなったのかな？」%K%P
+Izumi「Huh? What about your urgent business?」%K%P
+0x1464
+誠「……」%K%P
+Makoto「...」%K%P
+0x1470
+いづみ「沙紀ちゃんのことが心配なんでしょ？」%K%P
+Izumi「You're worried about Saki-chan, aren't you?」%K%P
+0x147C
+（なんでわかるかなぁ……）%K%P
+(How does she know that...?)%K%P
+0x1488
+いづみ「大丈夫。きっと沙紀ちゃんも来るわよ！　私の勘だけどね？」%K%P
+Izumi「It's fine. Saki-chan will also definitely come! My intuition%Nsays so.」%K%P
+0x1494
+いづみ「それじゃ、買い出しにでも行きますか？」%K%P
+Izumi「Well then, let's go shopping!」%K%P
+0x14A0
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x14AC
+いづみ「誠くん、今日のバーベキューの話、%N聞いてるでしょ？」%K%P
+Izumi「Makoto-kun, you've heard about today's barbecue,%Nright?」%K%P
+0x14B8
+誠「バーベキュー？」%K%P
+Makoto「Barbecue?」%K%P
+0x14C4
+いづみ「今日、５時にルナビーチ集合って、聞いてない？」%K%P
+Izumi「You haven't heard? Everyone's gathering today at%NLunabeach at 5:00.」%K%P
+0x14D0
+誠「ああ……それは聞いてるけど……」%K%P
+Makoto「Yeah... I heard about it, but...」%K%P
+0x14DC
+誠「……ってことは、今日はみんなで%Nバーベキューをする、ってこと？」%K%P
+Makoto「... So we're all having a barbecue today?」%K%P
+0x14E8
+いづみさんは深くうなずいて示しながら、%Nこう続けた。%K%P
+Izumi-san continues while giving me a deep nod.%K%P
+0x14F4
+いづみ「だから、その前にいろいろと準備しなくちゃならないわけで……」%K%P
+Izumi「That's why we have a lot of preparations to make before%Nthen...」%K%P
+0x1500
+いづみ「でも、車が動かない今となっては、材料とかを買いに行っても、私ひとりでは持ち切れないじゃない？」%K%P
+Izumi「But because the car isn't working now, I don't think I'm%Ncapable of carrying all the groceries I'm going shopping%Nfor all on my own.」%K%P
+0x150C
+いづみ「だから、その買い出しのとき、誠くんにも一緒に来てもらいたいの」%K%P
+Izumi「It would mean a lot if you could come with me, Makoto-kun.」%K%P
+0x1518
+誠「は、はあ……なるほど……」%K%P
+Makoto「O-Oh... I see...」%K%P
+0x152C
+結局オレ、この人にはかなわないんだな……。%K%P
+In the end, I'm no match for Izumi-san...%K%P
+0x1538
+かくして、オレはバーベキューの準備の為、材料の買い出しなどに奔走することとなったのだった。%K%P
+Thus, it's decided that I go running about, shopping for%Ningredients in order to prepare for the barbecue.%K%P
+0x1580
+………………。%N…………。%N……。%K%P
+... ... ...%K%P

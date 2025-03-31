@@ -2,10 +2,12 @@
 
 import os
 
-for filename in os.listdir('mac-psp-en-utf8'):
+game = os.environ['GAME'] if 'GAME' in os.environ else 'e17'
+
+for filename in os.listdir(f'mac-psp-{game}-en-utf8'):
     print()
     print(filename)
-    with open(os.path.join('mac-psp-en-utf8', filename), encoding='UTF-8') as f_comb:
+    with open(os.path.join(f'mac-psp-{game}-en-utf8', filename), encoding='UTF-8') as f_comb:
         comblines = f_comb.readlines()
 
     del comblines[:3]

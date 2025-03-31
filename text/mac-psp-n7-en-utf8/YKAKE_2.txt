@@ -1,0 +1,600 @@
+text area offset and size:
+0xFA0
+0x2BB5
+0x5C
+優夏「あ〜ん、もう見つからないよぉ〜」%K%P
+Yuka「Ah, I can't find it〜」%K%P
+0x68
+茂みの奥から、優夏のぼやき声が聞こえた。%K%P
+I hear Yuka complaining in the thicket.%K%P
+0x74
+オレの片腕には、３９個のテニスボールが入った%Nプラスチックのカゴがぶらさげられている。%K%P
+In one arm, I'm carrying a plastic container with 39 tennis%Nballs inside.%K%P
+0x80
+あと１個……その最後の１個がどうしても%N見つからなかった。%K%P
+There's only one left... but we can't find that last one%Nanywhere.%K%P
+0x8C
+探し始めてから、かれこれ３０分程経つ。%K%P
+Roughly half an hour has passed since we started%Nsearching.%K%P
+0x98
+優夏「もう、誠があんなボール打つから……」%K%P
+Yuka「Geez, why'd you have to hit it so far...」%K%P
+0xA4
+誠「バカ、何言ってんだ！　フェンスを越えたのは、全部優夏が打ったボールなんだぞ？」%K%P
+Makoto「What the hell are you saying!? Weren't you the one who%Nhit all the balls that went over the fence?」%K%P
+0xB0
+事実そうだった。%K%P
+It's true.%K%P
+0xBC
+気を抜くと、優夏は時折、とんでもない方向に%Nボールを打ち返した。%K%P
+Occasionally, Yuka would lose focus and hit the balls in%Nridiculous directions.%K%P
+0xC8
+サーブのときも、ボレーのときも、ほとんど初心者と変わらないような腕の振り方で、華麗なる%N場外本塁打をしばしば見せてくれた。%K%P
+Whether it was serving or volleying, her skill was mostly%Nthe same as a beginner's, but when she hit it powerfully,%Nit was like she was trying to score a home run.%K%P
+0xD4
+まったく上手いのか、下手なのか……オレには%Nよくわからなかった。%K%P
+Geez... I can't decide whether she's really good or really%Nbad.%K%P
+0xE8
+優夏「そんなこと、誠に言われる筋合いはないよ！」%K%P
+Yuka「You can't say that!」%K%P
+0xF4
+誠「なにぃ！？」%K%P
+Makoto「Why not!?」%K%P
+0x108
+優夏「そういうことは、%N勝負に勝ってから言ってよね！」%K%P
+Yuka「Only the winner has the privilege to say that!」%K%P
+0x114
+誠「うぐっ……」%K%P
+Makoto「Ugh...」%K%P
+0x120
+オレは言葉に詰まった。%K%P
+She's right.%K%P
+0x12C
+あれから１時間以上ゲームを続けたが、実際、最後の１球がフェンスを越える間際まで、オレは優夏に%N１セット負けていたのだ。%K%P
+Yuka's technically the winner, since she won one more%Ncomplete set than I did. We continued the match for an%Nhour afterwards, but in reality, until the last ball had flown%Nover the fence, I had lost one more set than Yuka.%K%P
+0x150
+誠「バカ、ちゃんと最後まで戦ってればっ」%K%P
+Makoto「Idiot, if we'd finished the game-」%K%P
+0x164
+優夏「逆転できた？」%K%P
+Yuka「You could've made a comeback?」%K%P
+0x170
+誠「絶対にな！」%K%P
+Makoto「Hell yeah!」%K%P
+0x17C
+優夏「そうかなぁ？」%K%P
+Yuka「You really think so?」%K%P
+0x188
+誠「そうだよ！」%K%P
+Makoto「Of course!」%K%P
+0x194
+優夏「ふ〜ん……」%K%P
+Yuka「Hmm...」%K%P
+0x1A0
+木で鼻をくくったような言い方だ。%K%P
+She ponders it.%K%P
+0x1B4
+優夏「ま、いいや」%K%P
+Yuka「Well, whatever.」%K%P
+0x1C0
+優夏「それより、早く探しちゃお？　時間もったいないよ」%K%P
+Yuka「Let's hurry up and find the ball. We're wasting time.」%K%P
+0x1D4
+誠「…………」%K%P
+Makoto「...」%K%P
+0x1E0
+結局『負けは負けなのだ』と、つくづく思った。%K%P
+In the end, to her, "a loss is a loss."%K%P
+0x1EC
+オレがいくら虚勢を張ってみたところで、勝者であるところの優夏にとっては、ただの負け惜しみにしか%N聞こえない。%K%P
+Since Yuka is the winner, she only hears my bluffs as%Nexcuses.%K%P
+0x1F8
+誠「ちぇっ」%K%P
+Makoto「Damn!」%K%P
+0x204
+自然と舌打ちがこぼれた。%K%P
+I click my tongue.%K%P
+0x218
+優夏「ほら誠。ボケーッと突っ立ってないで、早く探す！」%K%P
+Yuka「C'mon, Makoto! Don't just space out; hurry up and look%Nfor the ball!」%K%P
+0x22C
+せかすようにそう告げ、優夏は再び茂みの中へと%Nしゃがみ込んだ。%K%P
+Yuka urges me on as she continues to search through%Nthe bushes.%K%P
+0x238
+誠「は〜あ……」%K%P
+Makoto「Haaah...」%K%P
+0x244
+長いため息をつき、オレも中腰になって草むらを%Nかき分け始めた。%K%P
+As I begin to trudge through the thicket, I let out a weary%Nsigh.%K%P
+0x250
+（それにしても……）%K%P
+(Anyway...)%K%P
+0x25C
+（何で呼び捨てなんだろう…『まこと』って…？）%K%P
+(Why does she just call me "Makoto" without any%Nhonorifics...?)%K%P
+0x268
+今朝は、この疑問に対して、ちょっといい加減に%N自分で納得してしまっていたけれど、%Nしかしよーく考えてみると、やっぱりいささか%N不自然なように思われる。%K%P
+When I thought of this question earlier today, I just%Njumped to conclusions and thought I understood it, but%Nwhen I really stop to think about it, it doesn't make sense.%K%P
+0x274
+何しろ、昨日が初対面なのだ、オレ達は……。%K%P
+After all, we only just met yesterday...%K%P
+0x280
+オレは足を止め、何気なく優夏の方へと%N視線を向けた。%K%P
+I stop walking, and look at her.%K%P
+0x294
+さらさらと揺れる木洩れ日の中、草の緑が鮮やかに%N映えていた。%K%P
+The sunlight pours in through the trees, allowing the%Ngreen grass to soak in its beams.%K%P
+0x2A0
+木々の隙間から見える彼女は、左手にラケットを%N握ったまま、首を左右に動かしてボールを%N探している。%K%P
+I can see Yuka beyond the trees, grasping her racket in%Nher left hand as she looks around for the ball.%K%P
+0x2AC
+少しだけ開いたくちびるが、彼女の退屈さを%N物語っていた。%K%P
+She looks a little bored.%K%P
+0x2B8
+オレをせかした割りに、本人はあまり真剣では%Nなさそうだった。%K%P
+How can she urge me on if she's not even serious about%Nthis?%K%P
+0x2C4
+あらわになった優夏のももが、森の湿り気をまとってみずみずしく見える。%K%P
+Her exposed legs are covered in dew.%K%P
+0x2D0
+柔らかくまるみを帯びたあしの曲線……すべるようになめらかな肌は、まばゆいほどの清純な艶めきに%Nみちていた。%K%P
+Her curves are so soft and round... Her alluring, smooth%Nskin is dazzling with pure gloss.%K%P
+0x2DC
+ふと、木立を抜ける南風が、彼女の香りを%N鼻先に届けた。%K%P
+Suddenly, a southern wind blows through the trees, and%Nher scent reaches my nose.%K%P
+0x2E8
+それはまるで、熟れ始めの果実のように、%N甘く爽やかな香りだった。%K%P
+It's a sweet and pleasant scent, like ripened fruit.%K%P
+0x2F4
+（優夏、か……）%K%P
+(Yuka, huh...)%K%P
+0x300
+──ん？？？%K%P
+―Hmm???%K%P
+0x30C
+ゆうか？？？%K%P
+Yuka???%K%P
+0x318
+そのとたん、オレは唐突に、ある事実に%N気がついてしまった。%K%P
+All of the sudden, I realize something.%K%P
+0x324
+（オレは優夏のことを…『ゆうか』…って呼んでる！）%K%P
+(Come to think of it, I've just been calling her "Yuka"%Nwithout any honorifics either!)%K%P
+0x330
+オレ自身も、彼女のことを呼び捨てにしてたんだ。%K%P
+I'm the same as she is.%K%P
+0x33C
+しかもよくよく考えてみれば、それは%N優夏に対してだけ言えることではなかった。%K%P
+And now that I think about it, it hasn't been just Yuka.%K%P
+0x348
+オレは、遙のことも『はるか』って、億彦のことも%N『おくひこ』って、そういうふうに呼んでいたんだ。%K%P
+I've been addressing Haruka and Okuhiko without any%Nhonorifics either, haven't I?%K%P
+0x354
+（……なんでだろう？）%K%P
+(... Why's that?)%K%P
+0x360
+風の運んだ甘い香りが、オレの心を微かに%Nざわめかせた。%K%P
+My mind's a little joggled right now from that sweet scent.%K%P
+0x36C
+（それに、そもそも今の今まで、こんな不自然な%Nことを不自然だって気がつかなかったこと自体が%N不自然じゃないか？）%K%P
+(Anyways, isn't it weirder that I didn't notice how%Nunnatural this was until now?)%K%P
+0x378
+とその時……%K%P
+At that moment...%K%P
+0x394
+優夏「あっ！」%K%P
+Yuka「Ah!」%K%P
+0x3A0
+……ふいに発せられた優夏の感嘆詞。%K%P
+... Yuka lets out a shout.%K%P
+0x3AC
+優夏「あったよぉ！」%K%P
+Yuka「Found it!」%K%P
+0x3C8
+誠「…………」%K%P
+Makoto「...」%K%P
+0x3D4
+結局『負けは負けなのだ』と、つくづく思った。%K%P
+In the end, she thinks that "a loss is a loss."%K%P
+0x3E0
+オレがいくら虚勢を張ってみたところで、勝者であるところの優夏にとっては、ただの負け惜しみにしか%N聞こえない。%K%P
+Since Yuka is the winner, she only hears my bluffs as%Nexcuses.%K%P
+0x3F4
+優夏「ほら、何も言い返せない」%K%P
+Yuka「See, you don't even have a comeback.」%K%P
+0x400
+オレが言い返さないのをいいことに、優夏は得意気になっている。%K%P
+Because I don't say anything back, Yuka becomes smug.%K%P
+0x40C
+……やっぱり、ちょっと悔しい。%K%P
+... I am a little sore after all.%K%P
+0x418
+優夏「ん？　何？%N言いたいことがあるなら言ったら？　%Nどうせ言い訳にしかならないけど……」%K%P
+Yuka「Hmm? What? If you've got something to say, then say it.%NThough it's probably an excuse...」%K%P
+0x424
+くそーっ！　やっぱりなにか言ってやろうか？%K%P
+Shit! I really ought to think up a comeback!%K%P
+0x438
+優夏「ほら誠。ボケーッと突っ立ってないで、早く探す！」%K%P
+Yuka「C'mon, Makoto. Don't just stand around there, hurry up%Nand look for it!」%K%P
+0x444
+結局、その場では何も言えなかった。%K%P
+In the end, I just kept my mouth shut.%K%P
+0x458
+せかすようにそう告げ、優夏は再び茂みの中へと%Nしゃがみ込んだ。%K%P
+Yuka urges me on as she continues to search through%Nthe bushes.%K%P
+0x464
+誠「は〜あ……」%K%P
+Makoto「Haaah...」%K%P
+0x470
+長いため息をつき、オレも中腰になって草むらを%Nかき分け始めた。%K%P
+As I begin to trudge through the ticket, I let out a weary%Nsigh.%K%P
+0x47C
+（それにしても……）%K%P
+(Anyway...)%K%P
+0x488
+（何で呼び捨てなんだろう…『まこと』って…？）%K%P
+(Why does she just call me "Makoto" without any%Nhonorifics...?)%K%P
+0x494
+今朝は、この疑問に対して、ちょっといい加減に%N自分で納得してしまっていたけれど、%Nしかしよーく考えてみると、やっぱりいささか%N不自然なように思われる。%K%P
+When I thought of this question earlier today, I just%Njumped to conclusions and thought I understood it, but%Nwhen I really stop to think about it, it doesn't make sense.%K%P
+0x4A0
+何しろ、昨日が初対面なのだ、オレ達は……。%K%P
+After all, we only just met yesterday...%K%P
+0x4AC
+オレは足を止め、何気なく優夏の方へと%N視線を向けた。%K%P
+I stop walking, and look at her.%K%P
+0x4B8
+…………………………。%K%P
+...%K%P
+0x4C4
+さらさらと揺れる木洩れ日の中、草の緑が鮮やかに%N映えていた。%K%P
+The sunlight pours in through the trees, allowing the%Ngreen grass to soak in its beams.%K%P
+0x4D0
+木々の隙間からボールを捜す彼女の後ろ姿が見えた。彼女はヒザに手をそえ、首を左右に動かしてボールを探している。%K%P
+I can see Yuka beyond the trees, grasping her racket in%Nher left hand as she looks around for the ball.%K%P
+0x4DC
+オレをせかした割りに、本人はあまり真剣そうには%N見えなかった。%K%P
+How can she urge me on if she's not even serious about%Nthis?%K%P
+0x4E8
+ふと、木立を抜ける南風が、彼女の香りを%N鼻先に届けた。%K%P
+Suddenly, a southern wind blows through the trees, and%Nher scent reaches my nose.%K%P
+0x4F4
+それはまるで、熟れ始めの果実のように、%N甘く爽やかな香りだった。%K%P
+It's a sweet and pleasant scent, like ripened fruit.%K%P
+0x500
+（優夏、か……）%K%P
+(Yuka, huh...)%K%P
+0x50C
+──ん？？？%K%P
+―Hmm???%K%P
+0x518
+ゆうか？？？%K%P
+Yuka???%K%P
+0x524
+そのとたん、オレは唐突に、ある事実に%N気がついてしまった。%K%P
+All of the sudden, I realize something.%K%P
+0x530
+（オレは優夏のことを…『ゆうか』…って呼んでる！）%K%P
+(Come to think of it, I've just been calling her "Yuka"%Nwithout any honorifics either!)%K%P
+0x53C
+オレ自身も、彼女のことを呼び捨てにしてたんだ。%K%P
+I'm the same as she is.%K%P
+0x548
+しかもよくよく考えてみれば、それは%N優夏に対してだけ言えることではなかった。%K%P
+And now that I think about it, it hasn't been just Yuka.%K%P
+0x554
+オレは、遙のことも『はるか』って、億彦のことも%N『おくひこ』って、そういうふうに呼んでいたんだ。%K%P
+I've been addressing Haruka and Okuhiko without any%Nhonorifics either, haven't I?%K%P
+0x560
+（……なんでだろう？）%K%P
+(... Why's that?)%K%P
+0x56C
+風の運んだ甘い香りが、オレの心を微かに%Nざわめかせた。%K%P
+My mind's a little joggled right now from that sweet scent.%K%P
+0x578
+（それに、そもそも今の今まで、こんな不自然な%Nことを不自然だって気がつかなかったこと自体が%N不自然じゃないか？）%K%P
+(Anyways, isn't it weirder that I didn't notice how%Nunnatural this was until now?)%K%P
+0x584
+とその時……%K%P
+At that moment...%K%P
+0x5A0
+優夏「あっ！」%K%P
+Yuka「Ah!」%K%P
+0x5AC
+……ふいに発せられた優夏の感嘆詞。%K%P
+... Yuka lets out a shout.%K%P
+0x5B8
+優夏「あったよぉ！」%K%P
+Yuka「Found it!」%K%P
+0x5E8
+テニスボールを高々と掲げながら立ち上がった%N優夏は、満面の笑顔だった。%K%P
+Yuka holds the tennis ball high over her head,%Ntriumphantly.%K%P
+0x5F4
+その無邪気な笑みに、さっきまでのざわめきは%N一瞬にして吹き飛ばされてしまった。%K%P
+Her innocent smile completely blows away all my irritation.%K%P
+0x608
+優夏「はいっ」%K%P
+Yuka「Here!」%K%P
+0x614
+と言って、優夏がふわりとボールを投げる。%K%P
+Yuka gently throws the ball.%K%P
+0x620
+オレはそれを右手でキャッチし、プラスチックのカゴの中に入れた。%K%P
+I catch it with my right hand, and place it in the plastic%Ncontainer.%K%P
+0x62C
+４０個……これで全部集まったわけだ。%K%P
+40 balls... this is all of them.%K%P
+0x640
+優夏「ちょっとぉ。ありがとうとかサンキューとか、%Nそういうのは無いの？」%K%P
+Yuka「Hold on. I don't get a thank you or anything?」%K%P
+0x64C
+誠「さんきゅう」%K%P
+Makoto「Thanks.」%K%P
+0x660
+優夏「あっ、その言い方……。実は全然感謝して%Nないでしょ？」%K
+Yuka「Ah! That tone... You're not grateful at all, aren't you?」%K
+0xF60
+元はといえば優夏のせいだ
+This was your fault to begin with.
+0xF6C
+感謝している
+I'm grateful.
+0x6A8
+誠「感謝って……%Nだいたいこれは、優夏が打ったホームランボール%Nなんだぞ！？」%K%P
+Makoto「Grateful?! You're the one who hit that home run ball in the%Nfirst place!」%K%P
+0x6B4
+誠「それをオレがわざわざ手伝ってやったんじゃ%Nないかぁ。感謝するのはそっちの方だ」%K%P
+Makoto「Even so, I helped you clean up your mess. You're the%None who should be thanking me.」%K%P
+0x6C8
+優夏「うわ〜っ、まーたそんなこと言っちゃってる？」%K%P
+Yuka「Uwaa, you're still saying that?」%K%P
+0x6E4
+誠「感謝してるよ……」%K%P
+Makoto「I'm grateful...」%K%P
+0x6F8
+優夏「あ〜、なんかそれ投げやりぃ〜……」%K%P
+Yuka「Ah, that sounded rather half-hearted...」%K%P
+0x704
+誠「じゃあ、どうすればいいんだよ！」%K%P
+Makoto「Well then, what do you want!?」%K%P
+0x710
+優夏「お礼ってのは、もっと、こう……気持ちを込めて言うものでしょう」%K%P
+Yuka「You should thank me... with more feeling in your voice.」%K%P
+0x71C
+（今のオレの気持ちを、充分込めたつもりだぞ……）%K%P
+(I DID say it just now with feeling, or at least I intended%Nto...)%K%P
+0x728
+優夏「そんな風だから、誠は…………」%K%P
+Yuka「It's because you said it like that that you...」%K%P
+0x73C
+それから、オレへの悪態が連なる。まあ、おおかたのところは当たっているのだが……。%K%P
+After that, she let out a string of insults. Well, she's%Npartially right, but...%K%P
+0x748
+いや、当たっているからこそ、不愉快なものだ。%K%P
+No, I'm annoyed because she's right.%K%P
+0x754
+だんだん、オレは腹が立ってきた。%K%P
+I'm getting angrier and angrier...%K%P
+0x768
+優夏「さっきも言ったけど、そもそも誠が、あんなへなちょこサーブを打たなかったら、こんな苦労はしなくて済んだんだからね？」%K%P
+Yuka「Like I said before, if your serves hadn't been so%Npathetic, we wouldn't be in this mess!」%K%P
+0x774
+誠「へ%Wな%Wちょ%Wこぉ〜！？」%K%P
+Makoto「Pathetic!?」%K%P
+0x780
+誠「んなこと言うんだったら、ちゃんとしたタマ打ち返せよ！」%K%P
+Makoto「If they were so bad, then why didn't you try returning%Nthem?」%K%P
+0x78C
+優夏「だって、あんまりにもへなちょこ過ぎたから……」%K%P
+Yuka「Because they were way too pathetic...」%K%P
+0x7A0
+優夏「やっぱりもう少し手加減してあげた方が良かったのかな？」%K%P
+Yuka「Maybe I should have gone easier on you?」%K%P
+0x7AC
+誠「こんにゃろ、ちょっとばかり勝ってたぐらいで調子に乗りやがってぇ！」%K%P
+Makoto「You're such a bitch! You think you're so high and mighty%Njust because you won one match!」%K%P
+0x7B8
+誠「よーし、分かった。試合再開だ！」%K%P
+Makoto「I know! Let's have a rematch!」%K%P
+0x7CC
+優夏「いいよ？　相手になってあげましょう！」%K%P
+Yuka「All right, I'm up for it!」%K%P
+0x7E0
+優夏「そのかわり、もし私が勝ったら……」%K%P
+Yuka「In return, if I win...」%K%P
+0x7EC
+誠「勝ったら……なんだ？」%K%P
+Makoto「If you win... what?」%K%P
+0x7F8
+優夏「もし私が勝ったら、１つだけ、何でも言うことをきくこと」%K%P
+Yuka「If I win, then you have to do something I want, no matter%Nwhat it is!」%K%P
+0x804
+誠「……じゃあ、もしオレが勝ったら？」%K%P
+Makoto「... And if I win?」%K%P
+0x818
+優夏「もちろん、１つだけ、何でも言うことをきいてあげるよ！」%K%P
+Yuka「Of course, you'll get the same prize if you win!」%K%P
+0x824
+『何でも』という言葉が、オレの血潮を熱くこがした。%K%P
+Anything, huh? Let's do this!%K%P
+0x830
+誠「面白い。受けて立ってやろうじゃないか！」%K%P
+Makoto「Interesting. I'll take on that bet!」%K%P
+0x8C4
+かくしてオレ達は、再びネットをはさんで%N向い合うことになった。%K%P
+And so, we return to the net and face off again.%K%P
+0x8D0
+優夏には『へなちょこ』だの何だのとさんざん%N言われたが、不思議と嫌な気持ちは残っていない。%K%P
+Yuka's insults, instead of hurting my feelings, have%Ngotten me all fired up instead.%K%P
+0x8DC
+むしろ、そう言われることを当たり前のように%N感じていた……。%K%P
+It's easy to see why...%K%P
+0x8E8
+飾ることのない優夏の態度には、何とも言えぬ、%Nすがすがしさみたいなものがある。%K%P
+There's something refreshing about Yuka's blunt and%Ncarefree personality.%K%P
+0x8F4
+『竹を割ったような性格』とは、きっと彼女みたいな女の子のことを言うのだろう。%K%P
+She's the type of girl who I'd say has a "candid" attitude.%K%P
+0x900
+優夏「お〜いっ、そこのへなちょこぉ〜、早くサーブ%N打ってよぉ！」%K%P
+Yuka「Hey, pathetic boy. Hurry up and serve!」%K%P
+0x90C
+夏の青空よりも透明な彼女には、春の太陽が%Nとてもよく似合った。%K%P
+The girl that's brighter than a summer day seems to fit in%Nwell with the spring sunlight.%K%P
+0x918
+ゼミ合宿も悪くないな……そんなふうに%N思い始めていた。%K%P
+I start to think that this Seminar Camp isn't so bad after%Nall...%K%P
+0x970
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0x9AC
+試合の決着がついた後、オレと優夏は%Nこれからどうするか話し合った。%K%P
+After the match ended, Yuka and I talked about what to%Ndo next.%K%P
+0x9B8
+もう１試合するほどの体力は残っていなかったし、%Nかと言って、ロッジに戻るには早過ぎる時間だった。%K%P
+We didn't have enough strength to play another match,%Nbut it was too early to return to the lodge.%K%P
+0x9C4
+で、結局『海に行った遙と億彦に合流しよう』ということになったのだ。%K%P
+So in the end, we decided to go to the ocean to meet up%Nwith Haruka and Okuhiko.%K%P
+0x9D0
+話し合いを終え、オレ達は管理事務所で%Nシャワーを浴びた。%K%P
+When we finished chatting, we took showers in the%Nmanagement office.%K%P
+0x9DC
+ひと汗かいた後のシャワーは、格別に爽快で%N素晴らしかった。%K%P
+The shower felt so wonderful and refreshing after being%Nin the sun for so long.%K%P
+0x9E8
+そして今、オレ達は海へと続く長い坂道を%N下っている。%K%P
+We're now heading towards the ocean while descending%Nthe long hill road.%K%P
+0x9F4
+ところで、肝心の試合結果はというと……%K%P
+By the way, the result of the match...%K%P
+0xA24
+優夏「さ〜てと、何やってもらっちゃおっかなぁ？」%K%P
+Yuka「Well then, I wonder what I should have you do?」%K%P
+0xA30
+……この優夏の表情を見れば一目瞭然だろう。%K
+... is obvious just by looking at Yuka's expression.%K
+0xF78
+『やっぱり、あの約束無しにしない？』
+"Can we just forget about it?"
+0xF84
+『もったいぶってないで早く言えよ』
+"Stop lording it over me and say it."
+0xA70
+誠「その……やっぱりあの約束、無しにしない？」%K%P
+Makoto「Um... so, can we just forget about it?」%K%P
+0xA7C
+オレは途端に情けなくなった……。%K%P
+I try to wuss out...%K%P
+0xA90
+優夏「えーー！！　なにそれ！？　１度言ったことを取り消すなんて男らしくな〜い！」%K%P
+Yuka「Huh!!? What's with that!? Taking back your words is very%Nunmanly, you know!」%K%P
+0xA9C
+誠「……うっ！」%K%P
+Makoto「... Ugh!!」%K%P
+0xAB0
+優夏「自信がないなら、始めから勝負なんて%N言い出さなきゃいいのに」%K%P
+Yuka「If you're going to be like that, you shouldn't have asked%Nfor a rematch!」%K%P
+0xABC
+……賭けを提案したのは、優夏だったと思うが……%Nまあ、受けて立ったのは事実だが……。%K%P
+... But I thought Yuka was the one who suggested the%Nbet... Well, it's true that I did accept it...%K%P
+0xAD0
+優夏「取り消しは絶対に無効だからね！」%K%P
+Yuka「You can't take back your promise!」%K%P
+0xADC
+誠「へいへい……」%K%P
+Makoto「Yeah, yeah...」%K%P
+0xAF0
+優夏「こうなったら、できるだけ突拍子もないことをやってもらおっと」%K%P
+Yuka「I'll make you do the craziest thing I can think of.」%K%P
+0xB0C
+誠「もったいぶってないで早く言えよ」%K%P
+Makoto「Stop lording it over me and just say it.」%K%P
+0xB18
+優夏「別にもったいぶってなんかないよ。真剣に%N悩んでるの」%K%P
+Yuka「I wasn't really lording it over you. I'm seriously thinking%Nabout it.」%K%P
+0xB2C
+優夏「１つだけしか言うこと聞いてもらえないんだから、できるだけ突拍子もないことをやって%Nもらわなくちゃ」%K%P
+Yuka「Since I can only make you do one thing, I need to make it%Nthe craziest thing I can think of.」%K%P
+0xB40
+突拍子もないこと……なんだか嫌な予感がする。%K%P
+The craziest thing she can think of... I have a bad feeling%Nabout this.%K%P
+0xB4C
+優夏「う〜ん……」%K%P
+Yuka「Hmm...」%K%P
+0xB58
+優夏「ふ〜む……」%K%P
+Yuka「Mmm...」%K%P
+0xB6C
+優夏「……まっ、考えとくよ」%K%P
+Yuka「... Well, I'll think about it.」%K%P
+0xB78
+誠「えっ？　そんなのダメだよ。今言えよ、今！」%K%P
+Makoto「Huh? You can't do that. Tell me now!」%K%P
+0xB8C
+優夏「だって、いいのが思いつかないんだもん。約束では有効期限があるなんて言ってないしね」%K%P
+Yuka「But I can't think of anything good. Besides, I never said%Nhow long this promise was valid for, did I?」%K%P
+0xB98
+誠「そりゃ言ってないけどさぁ……」%K%P
+Makoto「Well, that's true...」%K%P
+0xBA4
+優夏「明日かもしれないし、明後日かもしれないし……ひょっとしたら１０年後かもしれないし」%K%P
+Yuka「It might be tomorrow, or the day after... Maybe even in ten%Nyears.」%K%P
+0xBB8
+優夏「１０年経っても、ちゃんと覚えててよ？」%K%P
+Yuka「Be sure to remember it ten years from now.」%K%P
+0xBC4
+誠「覚えてるわけないだろ、そんなもん！」%K%P
+Makoto「That's impossible!」%K%P
+0xBD0
+優夏はニコニコと微笑んでいた。%K%P
+Yuka just smiles.%K%P
+0xC54
+林道を抜け、オレ達は海岸線に出た。%K%P
+We come out of the forest road, and arrive at the%Ncoastline.%K%P
+0xC60
+西に少し行くと、岩場に囲まれた小さな%N入り江がある。%K%P
+A bit to the west is a small cove surrounded by a rock%Nwall.%K%P
+0xC6C
+東に向かえば、長い白砂のビーチが広がっている。%K%P
+To the east is a long, wide beach with white sand.%K%P
+0xC78
+小さな入り江の方を『姫ヶ浜』、長くて広い%N砂浜の方を『月浜』と呼ぶらしい。%K%P
+The small cove is called "Princess Beach", while the wide%Nbeach is called "Moon Beach".%K%P
+0xC84
+オレ達は、まず姫ヶ浜を当たってみることにした。%Nただ海が見たいだけだったら、普通は近い方を%N選ぶ筈だ。%K%P
+We first try going to Princess Beach. It made the most%Nsense to check there first, since it was closer.%K%P
+0xC90
+すると……%K%P
+Just then...%K%P
+0xCA4
+億彦「何やってるんだよ、こんな所で……」%K%P
+Okuhiko「What are you doing in a place like this...?」%K%P
+0xCB0
+……タイミングよく、ばったり２人と出くわした。%K%P
+... We suddenly cross paths with them.%K%P
+0xCBC
+２人はちょうどロッジに帰ろうと思っていた所%Nだったらしい。%K%P
+It seems they were just on their way back to the lodge.%K%P
+0xCC8
+優夏が事情を説明し…『せっかくここまで下りて%N来たのだから』…ということで、結局、オレ達４人は商店街へと繰り出すことになった。%K%P
+Yuka explains that "We've already come down this far,"%Nso in the end, the four of us decide to leave for the%Nshopping district.%K%P
+0xCD4
+まあ、あの寂れた商店街では『繰り出す』という%N表現は正しくないかもしれないが……。%K%P
+Well, considering how deserted that shopping district is,%N"leave for" might not be the best way to put it...%K%P
+0xCE0
+オレ達が話し合っている間、遙は終始つまらなそうにそっぽを向いていた。%K%P
+As we talk, Haruka averts her eyes, looking rather bored.%K%P
+0xCEC
+『海が見たい』と自分から言い出した割りには、あまり満足そうには見えなかった。%K%P
+She told us she wanted to see the ocean, yet she%Ndoesn't seem very satisfied.%K%P
+0xCF8
+（遙……海で何してたんだろう？）%K%P
+(What did she do there?)%K%P
+0xD04
+オレは、優夏と億彦の会話に耳を傾けながらも、遙の仕草やそのたたずまいに、すっかり目を%N奪われてしまっていた。%K%P
+I listen to Yuka and Okuhiko's conversation while%Ncaptivated by Haruka's actions.%K%P
+0xD10
+遙の柔らかい髪は、潮風を受けてしなやかに%N揺れていた。%K%P
+Her soft hair sways in the sea breeze.%K%P

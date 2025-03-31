@@ -1,0 +1,927 @@
+text area offset and size:
+0x18C0
+0x3CB8
+0x54
+姫ヶ浜でくるみの持って来たランチを食べ終えたオレ達は、今、ルナビーチに向かって歩いている。%K%P
+After eating the lunch Kurumi brought to Princess Beach,%Nthe two of us are now walking back towards Lunabeach.%K%P
+0x60
+今日のバーベキューの準備……さすがにいづみさん１人にやらすわけにはいかない。%K%P
+Today's the barbecue... I can't let Izumi-san make the%Npreparations by herself.%K%P
+0x6C
+オレとくるみは相談し、それを手伝いに行くことにしたのだった……。%K%P
+After discussing it, Kurumi and I have decided to help%Nout...%K%P
+0xB4
+くるみ「るんるんる〜ん、くるみちゃん〜、らんらんら〜ん、おにいちゃん〜♪」%K%P
+Kurumi「Ruun, ruun, ruun, Kurumi-chan〜, ran, ran, ran, Onii-chan〜♪」%K%P
+0xC0
+いつの間にか、くるみはすっかりと元の笑顔を取り戻していた。%K%P
+Before I know it, Kurumi's smile has completely returned%Nto the way it was earlier.%K%P
+0xCC
+オレの手の平をにぎりしめながら、ぶんぶんと元気良く前後に振っている。%K%P
+She grabs my hand, and cheerfully swings her arm back%Nand forth while humming.%K%P
+0xD8
+けれど……その笑顔の奥に秘められた痛みを、オレはすでに知っていた。%K%P
+But... I already know that beneath her smile, she's hiding%Na great pain.%K%P
+0xE4
+無理に明るく振る舞いながら、くるみは懸命にそれを隠そうとしているのだ。%K%P
+Kurumi is acting overly cheerful to hide it the best she%Ncan.%K%P
+0xF0
+あまりにも、切なかった。%K%P
+It's just too painful to watch.%K%P
+0xFC
+だからこそ、オレはくるみの想いに応えてやらなければならなかった。%K%P
+That's why I wasn't able to respond to Kurumi's feelings.%K%P
+0x108
+くるみを傷つけることだけは、したくなかったのだ。%K%P
+I just didn't want to hurt Kurumi even more.%K%P
+0x114
+誠「くるみ……？」%K%P
+Makoto「Kurumi...?」%K%P
+0x128
+くるみ「ん？　なぁ〜に、お兄ちゃん？」%K%P
+Kurumi「Hmm? What, Onii-chan?」%K%P
+0x134
+誠「くるみ、お化け屋敷とかって、好きだろ？」%K%P
+Makoto「Kurumi, you love things like haunted houses, right?」%K%P
+0x148
+くるみ「ほへ？」%K%P
+Kurumi「Huh?」%K%P
+0x154
+誠「……嫌い、か？」%K%P
+Makoto「... Do you hate them?」%K%P
+0x168
+くるみ「ううん♪　だ〜い好き♪」%K%P
+Kurumi「Nope♪ Kurumi loves them♪」%K%P
+0x174
+誠「よしっ！　それじゃあ、向こうに帰ったら、遊園地に行こう！」%K%P
+Makoto「All right! Then when we get back to the mainland, let's go%Nto an amusement park!」%K%P
+0x188
+くるみ「えっ！　連れてってくれるのぉ？」%K%P
+Kurumi「Huh!? You'll take Kurumi?」%K%P
+0x194
+誠「ああ……」%K%P
+Makoto「Yeah...」%K%P
+0x1A8
+くるみ「やったぁ〜♪」%K%P
+Kurumi「Yay〜♪」%K%P
+0x1B4
+歓声をあげながら、ピョンピョンと飛び跳ねるくるみ……。%K%P
+Kurumi lets out a shout of joy, then skips...%K%P
+0x1C0
+誠「あっ！」%K%P
+Makoto「Ah!」%K%P
+0x1CC
+誠「せっかくだから、いづみさんも誘ってあげた方がいいよな？」%K%P
+Makoto「While we're at it, wouldn't it be best to invite Izumi-san%Ntoo?」%K%P
+0x1E0
+くるみ「……えっ？　……お姉ちゃん……も？」%K%P
+Kurumi「... Huh? ... Onee-chan... too?」%K%P
+0x1EC
+誠「う、うん」%K%P
+Makoto「Y-Yeah.」%K%P
+0x200
+くるみ「なんでぇ〜？　どうしてお姉ちゃんも一緒なのぉ〜？」%K%P
+Kurumi「Why? Why does Onee-chan have to come with us?」%K%P
+0x20C
+誠「なんでって……そりゃあ……」%K%P
+Makoto「'Why'... That's...」%K%P
+0x218
+くるみ「…………」%K%P
+Kurumi「...」%K%P
+0x224
+誠「……姉妹、だから」%K%P
+Makoto「... because you're sisters.」%K%P
+0x238
+くるみ「姉妹？」%K%P
+Kurumi「Sisters?」%K%P
+0x244
+誠「くるみといづみさんは姉妹なわけだから……」%K%P
+Makoto「You and Izumi-san are sisters, so...」%K%P
+0x250
+誠「どちらか一方を誘うって言うのは……%T015なんと言うか、%T015そのぉ……」%K%P
+Makoto「If I were to invite only one of you, it would be... um, how do%NI put it...」%K%P
+0x25C
+誠「……不公平、だろ？」%K%P
+Makoto「... Unfair, right?」%K%P
+0x270
+くるみ「全然理由になってないよ！　それとこれとは関係無いじゃない！」%K%P
+Kurumi「That's not a reason! This and that are completely%Nunrelated!」%K%P
+0x27C
+誠「そ、そうか？」%K%P
+Makoto「Y-You think so?」%K%P
+0x288
+くるみ「そうだよ！」%K%P
+Kurumi「Of course!」%K%P
+0x294
+誠「………………………………」%K%P
+Makoto「...」%K%P
+0x2A8
+くるみ「……………………あっ……」%K%P
+Kurumi「... Ah...」%K%P
+0x2B4
+くるみ「なぁ〜るほど……そういうことねぇ〜」%K%P
+Kurumi「Kurumi sees〜... So that's it〜」%K%P
+0x2C0
+誠「……え？」%K%P
+Makoto「... Huh?」%K%P
+0x2CC
+くるみ「くるみを誘ったのは、ただの口実だったと……」%K%P
+Kurumi「Inviting Kurumi is just a pretext...」%K%P
+0x2D8
+誠「……へ？」%K%P
+Makoto「... What?」%K%P
+0x2E4
+くるみ「本当に誘いたかったのはお姉ちゃんの方で……つまりくるみをダシに使おうと……そういう魂胆ですか？」%K%P
+Kurumi「The one you really want to invite is Onee-chan... In other%Nwords, you're trying to use Kurumi as a pretext... That's%Nyour ulterior motive, isn't it?」%K%P
+0x2F0
+誠「な、なに言ってんだよ！　そんなこと、これっぽっちもっ」%K%P
+Makoto「Wh-What are you saying!? That's not-」%K%P
+0x304
+くるみ「好きなの？」%K%P
+Kurumi「Do you like her?」%K%P
+0x310
+誠「──は、はい！？」%K%P
+Makoto「―Wh-What!?」%K%P
+0x31C
+くるみ「お姉ちゃんのこと、好きなんでしょ？」%K%P
+Kurumi「You like Onee-chan, don't you?」%K%P
+0x328
+誠「バ、バカか、お前は！？　何を突然っ」%K%P
+Makoto「A-Are you an idiot!? What's with th-」%K%P
+0x334
+くるみ「じゃあ、嫌いなの？」%K%P
+Kurumi「Then do you hate her?」%K%P
+0x340
+誠「どうしてそうなる！？　嫌いなわけないだろーが！！」%K%P
+Makoto「Why would I!? There's no way that I'd hate her!!」%K%P
+0x354
+くるみ「だったらやっぱり好きなんじゃない！」%K%P
+Kurumi「Then you really do like her!」%K%P
+0x360
+誠「………………………………」%K%P
+Makoto「...」%K%P
+0x374
+くるみ「まっ、だけどそれならそれで……くるみは別にいいよ♪」%K%P
+Kurumi「Well, either way, that's that... Kurumi doesn't mind at all♪」%K%P
+0x380
+くるみ「相手がお姉ちゃんなら、いさぎよくあきらめられるし♪」%K%P
+Kurumi「If you're with Onee-chan, then she'll set you straight,%Nthat's for sure♪」%K%P
+0x38C
+誠「？」%K%P
+Makoto「?」%K%P
+0x398
+くるみ「それに……」%K%P
+Kurumi「And besides...」%K%P
+0x3AC
+くるみ「くるみよりもお姉ちゃんの方が、お似合いだしね♪」%K%P
+Kurumi「Onee-chan's a better match for you than Kurumi is♪」%K%P
+0x3B8
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x3CC
+くるみ「でも……約束は約束だから！」%K%P
+Kurumi「But... a promise is a promise!」%K%P
+0x3E0
+くるみ「遊園地……３人で行こうね？」%K%P
+Kurumi「Then the three of us... will go to an amusement park.」%K%P
+0x3EC
+そう言って、くるみはオレの腕に飛びついて来た。%K%P
+With that, Kurumi grabs my arm and swings it high.%K%P
+0x3F8
+ぐいぐいと頬をすり寄せながら、たどたどしい足取りで歩く。%K%P
+She pulls it up to her cheek while trotting.%K%P
+0x404
+その笑顔の中に、陰りのようなものは全く見当たらなかった。%K%P
+There's no sadness to be found in her beaming smile.%K%P
+0x464
+ルナビーチについた。%K%P
+We've arrived at Lunabeach.%K%P
+0x470
+くるみはオレの腕を手放すと、店の中に勢いよく飛び込んで行った。%K%P
+Kurumi lets go of my hand, and plunges into the shop.%K%P
+0x498
+くるみ「お姉ちゃん！　お姉ちゃ〜ん！」%K%P
+Kurumi「Onee-chan! Onee-chan!」%K%P
+0x4B0
+その後に続いて、オレも店の中に入る。%K%P
+I also enter the shop, following after Kurumi.%K%P
+0x4BC
+すると……%K%P
+Just then...%K%P
+0x50C
+くるみ「あっ、遙さん！」%K%P
+Kurumi「Oh, Haruka-san!」%K%P
+0x550
+遙「…………」%K%P
+Haruka「...」%K%P
+0x55C
+誠「どうしたんだ遙？　確か、釣りに行ってたんじゃ？」%K%P
+Makoto「What's wrong, Haruka? Weren't you fishing?」%K%P
+0x568
+遙「うん。お腹……すいたから……」%K%P
+Haruka「Yes. But... I got hungry, so...」%K%P
+0x584
+いづみ「え、ええ、そうなの……」%K%P
+Izumi「Y-Yes... that's right...」%K%P
+0x590
+いづみ「だからチキンライス、作ってあげて……」%K%P
+Izumi「That's why I made chicken rice...」%K%P
+0x59C
+遙「……エビピラフ」%K%P
+Haruka「... It was shrimp pilaf.」%K%P
+0x5B0
+いづみ「あ、ああ、そうだったわね」%K%P
+Izumi「Y-Yes, that's it.」%K%P
+0x5C4
+いづみ「チキンライスじゃなくて、エビピラフ……うん、そうそう」%K%P
+Izumi「It wasn't chicken rice, it was shrimp pilaf... Yes, that's%Nright, that's right.」%K%P
+0x5D0
+くるみ「？？？」%K%P
+Kurumi「???」%K%P
+0x5DC
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x5F0
+いづみ「それで今、食べ終わって……２人で話をしてたところなの」%K%P
+Izumi「And we finished eating now... so the two of us were in the%Nmiddle of talking.」%K%P
+0x5FC
+誠「ふーん……」%K%P
+Makoto「Hmm...」%K%P
+0x608
+（珍しいな……いづみさんと遙が２人っきりで話すなんて……）%K%P
+(That's rare... Izumi-san and Haruka talking all alone...)%K%P
+0x614
+いづみ「で、くるみはどうしたの？」%K%P
+Izumi「So what is it, Kurumi?」%K%P
+0x630
+くるみ「えっ？　何が？」%K%P
+Kurumi「Huh? What do you mean?」%K%P
+0x63C
+いづみ「『お姉ちゃんお姉ちゃん』って言って、すごい勢いで入って来たじゃない」%K%P
+Izumi「You just burst in here loudly shouting 'Onee-chan,%NOnee-chan', right?」%K%P
+0x650
+くるみ「あ〜っ、あれはぁ！」%K%P
+Kurumi「Oh, that!」%K%P
+0x664
+くるみ「えっとぉ……うんとぉ……お兄ちゃんがね？」%K%P
+Kurumi「Umm... well... guess what?」%K%P
+0x678
+くるみ「遊園地！　連れてってくれるって言うから♪」%K%P
+Kurumi「Onii-chan said that he'd take me to an amusement park♪」%K%P
+0x684
+いづみ「遊園地？」%K%P
+Izumi「An amusement park?」%K%P
+0x690
+くるみ「うん。だからぁ、お姉ちゃんも一緒に、行かないかなぁ〜と思って」%K%P
+Kurumi「Yeah. So we thought that you should come with us too.」%K%P
+0x6A4
+いづみ「遊園地、かぁ……。そう言えば最近、行ってないわねぇ……」%K%P
+Izumi「The amusement park, huh... Come to think of it, we haven't%Nbeen there recently...」%K%P
+0x6B0
+くるみ「でしょ？」%K%P
+Kurumi「Right?」%K%P
+0x6C4
+くるみ「しかもお姉ちゃんとくるみの分、お兄ちゃんがぜ〜んぶオゴッてくれるんだって♪」%K%P
+Kurumi「And Onii-chan's completely paying for all of us as well♪」%K%P
+0x6D0
+──えっ！？%K%P
+―WHAT!?%K%P
+0x6E4
+いづみ「そんなぁ……悪いわよ……」%K%P
+Izumi「No way... I'd feel bad about that...」%K%P
+0x6F8
+くるみ「悪くなんかないよ！　お兄ちゃんが、自分でそう言ったんだもん！」%K%P
+Kurumi「Don't! Onii-chan said he would do so himself!」%K%P
+0x704
+くるみ「『姉妹なんだから、どっちか１人だけオゴるのは不公平だ』って！」%K%P
+Kurumi「'You're sisters, so it would be unfair if one of you had to%Npay'!」%K%P
+0x718
+いづみ「姉妹……だから……」%K%P
+Izumi「Because we're... sisters...」%K%P
+0x748
+と、その時……。%K%P
+And, at that time...%K%P
+0x778
+遙が、静かに立ち上がった。%K%P
+Haruka quietly stands up.%K%P
+0x784
+遙「私……もう行かなくちゃ……」%K%P
+Haruka「I... have to go now...」%K%P
+0x790
+誠「……？」%K%P
+Makoto「...?」%K%P
+0x79C
+くるみ「……？」%K%P
+Kurumi「...?」%K%P
+0x7B8
+いづみ「あっ、ああっ、そうだっ！　遙ちゃんも一緒に、っていうのはどうかしら？」%K%P
+Izumi「A-Ah, that's right! Haruka-chan, would you like to come%Nalong as well?」%K%P
+0x7CC
+いづみ「遊園地……やっぱり大勢で行った方が楽しいもの……ね？」%K%P
+Izumi「It's more fun... when you go to an amusement park with a%Nlarger group... right?」%K%P
+0x7E0
+遙「いいよ……私は……」%K%P
+Haruka「It's fine... Because I...」%K%P
+0x7F4
+遙「私は…………………」%K%P
+Haruka「Because I'm...」%K%P
+0x800
+遙「……………違うから」%K%P
+Haruka「... different.」%K%P
+0x814
+いづみ「……………………」%K%P
+Izumi「...」%K%P
+0x820
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x82C
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x840
+遙「ほんとに……ごめんなさい……」%K%P
+Haruka「I'm really... sorry...」%K%P
+0x854
+言い残して、ツカツカと出口に向かって行く遙。%K%P
+With those words, Haruka walks briskly towards the exit.%K%P
+0x870
+くるみ「えっ、ちょ、ちょっと待ってよぉ〜」%K%P
+Kurumi「Huh? W-Wait a minute〜」%K%P
+0x884
+くるみ「くるみ、なんかいけないことっ」%K%P
+Kurumi「Did Kurumi do something wr-」%K%P
+0x898
+遙「大丈夫……」%K%P
+Haruka「It's all right...」%K%P
+0x8C8
+遙が、すっと振り向いた。%K%P
+Haruka turns right around.%K%P
+0x8D4
+くるみの瞳をまっすぐに見つめながら……%K%P
+She looks straight into Kurumi's eyes...%K%P
+0x8E0
+遙「わかってるから……」%K%P
+Haruka「Because I understand...」%K%P
+0x8F4
+遙「くるみのことは何でも……わかってるから……」%K%P
+Haruka「Because... I understand you completely, Kurumi...」%K%P
+0x900
+遙の口元は、やわらかくゆるんでいた。%K%P
+Haruka smiles faintly.%K%P
+0x90C
+優しい、微笑み……。%K%P
+It's a kind smile...%K%P
+0x918
+まるでくるみのことを慈しむように……。%K%P
+It's as if she's doing it to show affection towards Kurumi...%K%P
+0x924
+遙「それじゃあ……また後で……」%K%P
+Haruka「Well then... see you later...」%K%P
+0x954
+微笑みを浮かべたまま、遙は店を出て行った。%K%P
+Haruka leaves the shop, still smiling.%K%P
+0x974
+くるみ「もうっ、待ってってばぁ〜！」%K%P
+Kurumi「Geez. Kurumi said wait〜!」%K%P
+0x980
+くるみ「遙さんも一緒に行こうよぉ〜！　遊園地ぃ〜！」%K%P
+Kurumi「Come with us to the amusement park!」%K%P
+0x9B0
+言いながら、くるみも遙の後を追って、店を飛び出して行った。%K%P
+Kurumi bolts out of the shop and chases after Haruka.%K%P
+0x9CC
+…………………………………………。%K%P
+...%K%P
+0x9E0
+取り残された、オレといづみさん。%K%P
+Izumi-san and I have been left behind.%K%P
+0x9F4
+顔を見合わせる。%K%P
+We exchange glances.%K%P
+0xA00
+上目づかいの視線……きゅっと閉じられたくちびる……。%K%P
+Izumi-san is looking upwards... with tightly pursed lips...%K%P
+0xA0C
+いづみさんは助けを求めていた。%K%P
+Izumi-san is looking for help.%K%P
+0xA18
+何か重大な事実を告げようとしていた。%K%P
+It looks like she's trying to tell me something serious.%K%P
+0xA24
+すがりつくような眼差しが、すべてを物語っている。%K%P
+Judging by her expression and uneasiness, it seems%Nlike an urgent matter.%K%P
+0xA30
+だからオレは……%K%P
+And so...%K%P
+0xA3C
+誠「何か、あったの？」%K%P
+Makoto「Did something happen?」%K%P
+0xA48
+……いづみさんにそっと問いかけた。%K%P
+... I ask her this.%K%P
+0xA74
+いづみさんは口を開きかけ……しかし言葉を呑み込んでしまった。%K%P
+Izumi-san opens her mouth... but she swallows her words.%K%P
+0xA88
+そのまま何も言わず、ドアに向かって歩いて行く。%K%P
+Silently, she begins walking towards the door.%K%P
+0xA94
+表の札を『準備中』に変え、再び戻って来たいづみさんは、オレの前を素通りし、テラスのイスに腰かけた。%K%P
+She flips the sign so that it reads "CLOSED", comes back%Nin, passes right by me, and sits down on a chair on the%Nterrace.%K%P
+0xAA0
+いづみ「誠くん……」%K%P
+Izumi「Makoto-kun...」%K%P
+0xAAC
+その言葉に吸い寄せられるようにして、オレもテラスへと向かう。%K%P
+I also head towards the terrace, drawn in by her words%Nlike a moth to a flame.%K%P
+0xAEC
+いづみさんの前の席に、ゆっくりと腰を下ろした。%K%P
+I slowly sit down on a chair across from Izumi-san.%K%P
+0xAF8
+いづみさんはテーブルの上で指を組み、かすかにため息を吐いた。%K%P
+She places her fingers on the table, and takes a faint%Nbreath.%K%P
+0xB04
+いづみ「誠くん……私……どうすればいいのかなぁ……」%K%P
+Izumi「Makoto-kun... I... don't know what to do...」%K%P
+0xB10
+いづみ「遙ちゃん……」%K%P
+Izumi「Haruka-chan...」%K%P
+0xB1C
+いづみ「遙ちゃんは……きっと……」%K%P
+Izumi「Haruka-chan... is definitely...」%K%P
+0xB28
+いづみ「私の本当の……」%K%P
+Izumi「... my real...」%K%P
+0xB44
+いづみ「……妹なのよ……」%K%P
+Izumi「... sister...」%K%P
+0xB50
+不思議と動じなかった。%K%P
+Strangely, I'm not unsettled.%K%P
+0xB5C
+これまでの１０日間の出来事を考えれば、何が起きてもオカシクはないと思っていた。%K%P
+When I think about the other events of the past ten%Ndays, this isn't anywhere near as strange.%K%P
+0xB68
+──遙といづみさんが実の姉妹。%K%P
+―Haruka and Izumi-san are actually sisters.%K%P
+0xB74
+冷静に考えれば、驚くべき事実なのだろう。%K%P
+Under normal circumstances, this should've shocked me.%K%P
+0xB80
+けれど、無限ループや第３の特徴に比べれば、それもあり得ない話ではないように思えた。%K%P
+But compared to the infinite loop and The Third Trait, this%Nisn't such a far-fetched idea.%K%P
+0xB8C
+完全に、感覚が麻痺していたのだ。%K%P
+My senses have become completely numbed.%K%P
+0xB98
+オレはただ、黙ってうなずくことしかできなかった。%K%P
+All I can do is silently nod.%K%P
+0xBA4
+最後まで、いづみさんの話を聞かなければ何とも言えない。%K%P
+I'll judge Izumi-san's reasoning after hearing her story.%K%P
+0xBB0
+いづみさんはそれを悟ってくれたのか、話の続きを淡々と語り始めた。%K%P
+She seems to have realized this, as she picks up where%Nshe left off.%K%P
+0xBBC
+遙といづみさん……そしてくるみの過去に、いったい何があったのかを……。%K%P
+Haruka, Izumi-san... and Kurumi. Just what happened in%Ntheir pasts...?%K%P
+0xBF4
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0xC7C
+──今から２１年前の７月２０日。%K%N
+―It was on July 20th, 1998, 21 years ago.%K%N
+0xC88
+くるみは、何者かの手によって誘拐された。%K%N
+Kurumi was kidnapped by someone.%K%N
+0xC94
+当時くるみは０歳１ヶ月、いづみさんは１歳４ヶ月だった。%K%P
+At that time, Kurumi was only a month old, while Izumi-san%Nwas 16 months old.%K%P
+0xCA8
+──同年７月２７日。%K%N
+―July 27th, the same year.%K%N
+0xCB4
+群発地震により司紀杜神社が倒壊。%K%N
+The Shiki no Mori Shrine was destroyed due to a swarm%Nof earthquakes.%K%N
+0xCC0
+中から下敷きになった遺体を発見。%K%N
+A corpse was discovered pinned under the rubble.%K%N
+0xCCC
+指名手配中の誘拐犯と断定される。%K%N
+It was identified as the kidnapper who was wanted for%Ntaking Kurumi.%K%N
+0xCD8
+だが付近にくるみの姿はなかった。%K%P
+But Kurumi was nowhere to be found in the vicinity.%K%P
+0xCEC
+──翌年３月頃：今から２０年前。%K%N
+―20 years ago, March 1999.%K%N
+0xCF8
+未だ発見されないくるみ。%K%N
+Kurumi still hadn't been found.%K%N
+0xD04
+父・守野茂蔵（遺伝子工学の世界的権威）は、その喪失感から、くるみのクローニング準備に着手した。%K%N%N
+Her father, Shigezo Morino (the world authority on%Ngenetic engineering), crushed by feelings of loss,%Nbegan to make preparations to clone Kurumi.%K%N%N
+0xD10
+──同年５月頃。%K%N
+―May 1999.%K%N
+0xD1C
+体細胞核移植を施された卵子の母体子宮内着床に成功。%K%P
+Via a somatic cell nuclear transfer, the nucleus of one%Nof Kurumi's cells was successfully extracted and%Nimplanted into an egg cell, then placed into the mother's%Nwomb.%K%P
+0xD30
+──翌年２月１５日：今から１９年前。%K%N
+―19 years ago, February 15th, 2000.%K%N
+0xD3C
+くるみのクローンが産声をあげる。%K%N%N
+Kurumi's clone was born into the world.%K%N%N
+0xD48
+──翌年６月頃：今から１８年前。%K%N
+―18 years ago, June 2001.%K%N
+0xD54
+まだ幼かったいづみさんは、追い駆けて来た『新しい妹』を突き飛ばし、額に怪我をさせてしまった。%K%N
+The still young Izumi-san thrust away her "new sister"%Nwho was chasing after her, injuring her on the forehead.%K%N
+0xD60
+その傷痕は、今でも残っているようだ。%K%P
+It seems that the injury still remains to this day.%K%P
+0xD74
+──同年７月２２日。%K%N
+―July 22nd of the same year.%K%N
+0xD80
+くるみが司紀杜神社にて発見、保護される。%K%N
+Kurumi was found in the Shiki no Mori Shrine, and was%Ntaken in by the Morinos.%K%N
+0xD8C
+背中に深い傷……おびただしい出血のため病院へ。%K%N
+There was a deep cut on her back... She had to be taken%Nto the hospital because of the heavy bleeding.%K%N
+0xD98
+ただしその体には、成長のあとは見当たらなかった。%K%P
+But her body had not aged at all since her kidnapping.%K%P
+0xDAC
+──同年８月頃。%K%N
+―August of the same year.%K%N
+0xDB8
+『新しい妹』──茂蔵の助手（青年夫婦）の養子に。%K%N
+Shigezo's assistants (a young married couple) adopted%Nthe "new sister" as their own child.%K%N
+0xDC4
+当時くるみは０歳２ヶ月（正確に言えば３歳２ヶ月）%K%N
+At that time, Kurumi was two months old. (To put it%Naccurately, she was three years and two months old.)%K%N
+0xDD0
+いづみさんは４歳５ヶ月、『新しい妹』は１歳半だった。%K%N%N
+Izumi-san was four years and five months old while the%N"new sister" was a year and a half old...%K%N%N
+0xDDC
+………………。%N…………。%N……。%K%P
+... ... ...%K%P
+0xE70
+誠「……う〜ん」%K%P
+Makoto「... Mmm.」%K%P
+0xE7C
+誠「う〜ん……」%K%P
+Makoto「Mmm...」%K%P
+0xE88
+いづみさんの話がひと通り終わった後……オレは紙ナプキンを見つめながら、ウンウンとうなっていた。%K%P
+As Izumi-san finishes her story, I mull over it as I stare at%Na paper napkin.%K%P
+0xE94
+そこには、話を聞きながらとっていたメモが、びっしりと書き込まれている。%K%P
+I wrote down the details of it on that napkin.%K%P
+0xEA0
+誠「なるほどねぇ……」%K%P
+Makoto「I see...」%K%P
+0xEAC
+誠「それでいづみさんは、さっきあんなにも動揺してたのか……」%K%P
+Makoto「So that's why you were so disturbed earlier...」%K%P
+0xEB8
+誠「チキンライスだのエビピラフだの、わけのわかんないこと言って……」%K%P
+Makoto「That's why you were saying all that incomprehensible%Nstuff about chicken rice and shrimp pilaf...」%K%P
+0xECC
+いづみ「え、ええ……」%K%P
+Izumi「Y-Yes...」%K%P
+0xED8
+誠「オレとくるみがここに入って来る直前……いづみさんは偶然、それを見てしまった……」%K%P
+Makoto「Just before Kurumi and I came back... you happened to%Nsee it by chance...」%K%P
+0xEE4
+誠「遙の額の……傷痕を……」%K%P
+Makoto「The scar... on Haruka's forehead...」%K%P
+0xEF0
+いづみ「うん……」%K%P
+Izumi「Yes...」%K%P
+0xEFC
+誠「つまりこの『新しい妹』ってやつが遙だと……いづみさんはそう言いたいわけだ」%K%P
+Makoto「So in other words, your 'new sister' was Haruka... That's%Nwhat you're saying.」%K%P
+0xF08
+言いながら、紙ナプキンの上の文字を、ボールペンで丸く囲んで示した。%K%P
+As I say this, I circle a part on the paper napkin with a%Nballpoint pen.%K%P
+0xF14
+いづみ「他のみんなは知らないと思うけど……でも誠くんと私だけは、遙ちゃんがクローンだってことを知ってるし……」%K%P
+Izumi「I don't think the others know... But you and I are the only%Nones who know that Haruka-chan is a clone...」%K%P
+0xF20
+誠「それに生年月日が一緒で、額に傷がある、となれば……『遙がくるみのクローンだ』ってことに、ほぼ間違いはないだろうな……」%K%P
+Makoto「And her birthdate, plus the scar on her forehead...%NThere's almost no doubt that 'Haruka is Kurumi's clone'...」%K%P
+0xF2C
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0xF38
+誠「だけど、いづみさん？」%K%P
+Makoto「But Izumi-san?」%K%P
+0xF44
+誠「そのことは納得できても、くるみの話だけはどうも腑に落ちないよ」%K%P
+Makoto「I understand most of it, but the part about Kurumi%Ndoesn't sit right with me.」%K%P
+0xF50
+誠「『くるみは本当の妹じゃない』なんてさ……」%K%P
+Makoto「The whole 'Kurumi is not my real sister'...」%K%P
+0xF5C
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0xF68
+誠「──空白の３年間。──まったく成長してない姿で見つかったこと」%K%P
+Makoto「―That three year blank. ―In that time, she hadn't%Naged at all.」%K%P
+0xF74
+誠「『そんなことはあり得ない。だからきっと、守野博士がＤＮＡの鑑定結果を改ざんして、見ず知らずの他人の赤ん坊をくるみであるかのように見せかけたんだろう』」%K%P
+Makoto「'That's impossible. So Dr. Morino must have falsified the%NDNA results and probably pretended that another,%Nunfamiliar baby was Kurumi.'」%K%P
+0xF80
+誠「……って、いづみさんはさっき、そう言ってたよね？」%K%P
+Makoto「... This is what you were saying, Izumi-san?」%K%P
+0xF94
+いづみ「『見せかけたんだろう』なんて、言ってないわよ……」%K%P
+Izumi「I never said 'probably pretended'...」%K%P
+0xFA0
+いづみ「『見せかけたのかもしれない』『そういう可能性も考えられないことはない』って、そう言っただけ……」%K%P
+Izumi「I said that he 'might have pretended' and 'the possibility%Nisn't unthinkable'...」%K%P
+0xFAC
+誠「どっちにしろ、そういう疑問を抱いてることに間違いはないわけでしょ？」%K%P
+Makoto「Either way, isn't it possible that you're just making a%Nmisunderstanding about the whole thing?」%K%P
+0xFB8
+いづみさんは少し考えてから、１度だけ小さくうなずいて見せた。%K%P
+Izumi-san ponders over this before nodding.%K%P
+0xFC4
+誠「でも、よく考えてみてよ、いづみさん？」%K%P
+Makoto「But think about it carefully.」%K%P
+0xFD0
+誠「『３年後、変わらぬ姿で』……それって結局は、ただ単にタイムスリップしたってだけのことなんじゃないかな？」%K%P
+Makoto「'Three years later, Kurumi hadn't aged'... Can't that simply%Nbe explained by time travel?」%K%P
+0xFDC
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0xFE8
+誠「今から２１年前……誘拐されたくるみは司紀杜神社の倒壊事故に巻き込まれ、背中に傷を負った」%K%P
+Makoto「21 years ago... Kurumi was inside the collapsing Shiki no%NMori Shrine, and her back was injured.」%K%P
+0xFF4
+誠「その直後、３年後の未来へとタイムスリップし、再建された神社の中で発見された」%K%P
+Makoto「Right after that, she time traveled three years into the%Nfuture, and was found in the rebuilt shrine.」%K%P
+0x1000
+誠「そう考えれば、あの背中の傷のことも、全部説明できるんだ……」%K%P
+Makoto「If you look at things this way, then that explains her%Nscar...」%K%P
+0x1014
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0x1020
+誠「まあ常識的に考えれば、こんな荒唐無稽な戯言は、誰も信じちゃくれないだろう」%K%P
+Makoto「Well, if you think about it normally, no one would believe%Nthis absurd bullshit.」%K%P
+0x102C
+誠「だけど、いづみさん……いづみさんだけは、信じることができるはずだ……」%K%P
+Makoto「But if there was anyone who was capable of believing%Nthis... it'd be you.」%K%P
+0x1038
+誠「なにしろいづみさんとオレは、実際に、タイムスリップしたことがあるんだから！」%K%P
+Makoto「Because you and I have actually time traveled!」%K%P
+0x1044
+誠「──確かに、タイムスリップしたんだから！」%K%P
+Makoto「―We definitely time traveled!」%K%P
+0x1050
+その部分を、あえて繰り返して強調した。%K%P
+I repeat myself for emphasis.%K%P
+0x105C
+昨日のようなバカなことを、いづみさんに２度と言わせない為にも……。%K%P
+I do it to make sure that Izumi-san doesn't start saying%Nmore ridiculous things like yesterday...%K%P
+0x1068
+いづみ「うん……大丈夫……」%K%P
+Izumi「Yes... it's all right...」%K%P
+0x1074
+いづみ「そのことはちゃんと、わかってるわ……」%K%P
+Izumi「I understand that perfectly...」%K%P
+0x1080
+いづみ「でもね？　私達のタイムスリップが事実だったとしても、それだけじゃ、くるみの身に起きた出来事を説明することはできないのよ……」%K%P
+Izumi「But you know what? Even if it's a fact we time traveled,%Nyou can't use that to explain what happened to Kurumi's%Nbody...」%K%P
+0x108C
+誠「どうして？」%K%P
+Makoto「Why not?」%K%P
+0x10A0
+いづみ「だって……私達が経験したのは『意識だけが過去へとさかのぼる』という現象だったでしょ？」%K%P
+Izumi「Because... the phenomenon we experienced was 'only%Nour consciousnesses went back to the past', right?」%K%P
+0x10AC
+いづみ「なのに、くるみの場合は『肉体とともに』……しかも『未来へと時間を飛び越えた』んだもの……」%K%P
+Izumi「But in Kurumi's case, 'her body went as well'...%NFurthermore, 'she was flung into the future'...」%K%P
+0x10B8
+誠「…………」%K%P
+Makoto「...」%K%P
+0x10C4
+いづみ「それにね？　私が恐れてるのは、そもそもそういうことじゃないのよ……」%K%P
+Izumi「And you know what? In the first place, that's not the%Nthing I was afraid of...」%K%P
+0x10D0
+いづみ「私のことは、別にどうでもいいの……」%K%P
+Izumi「My own feelings don't really matter at all...」%K%P
+0x10DC
+いづみ「血の繋がりがあろうとなかろうと、くるみは私の本当の……妹だから……」%K%P
+Izumi「Whether we're blood related or not, Kurumi is... my real%Nsister...」%K%P
+0x10E8
+いづみ「たとえどんなことが起きても、どんな事実を知らされても……」%K%P
+Izumi「No matter what may happen, no matter what facts I may%Ndiscover...」%K%P
+0x10FC
+いづみ「私のくるみに対する愛情は、決して変わることはないの……」%K%P
+Izumi「The love I feel for Kurumi definitely won't change...」%K%P
+0x1110
+いづみ「ただ……」%K%P
+Izumi「It's just...」%K%P
+0x111C
+いづみ「私が心配なのは、くるみ自身のことなのよ……」%K%P
+Izumi「The one I'm worried about is Kurumi herself...」%K%P
+0x1128
+誠「…………」%K%P
+Makoto「...」%K%P
+0x113C
+いづみ「くるみが、もしも本当のことを知ってしまったら……」%K%P
+Izumi「If Kurumi were to discover the truth...」%K%P
+0x1148
+いづみ「そしたら私……なんて言っていいのかわからない……」%K%P
+Izumi「Then I... wouldn't know what to say...」%K%P
+0x1154
+いづみ「タイムスリップのことなんて、いくら説明したって信じてもらえるとは思えないもの……」%K%P
+Izumi「No matter how I tried to explain the time travel, I don't%Nthink she'd believe me...」%K%P
+0x1160
+誠「…………」%K%P
+Makoto「...」%K%P
+0x1174
+いづみ「ねえ、誠くん……？」%K%P
+Izumi「Hey, Makoto-kun...?」%K%P
+0x1180
+いづみ「私……どうすればいいのかなぁ……？」%K%P
+Izumi「What... should I do...?」%K%P
+0x118C
+いづみ「遙ちゃんのこと……くるみのこと……」%K%P
+Izumi「About Haruka-chan... and Kurumi...」%K%P
+0x1198
+いづみ「どうすればいいのか……わからないの……」%K
+Izumi「I don't know... what I should do...」%K
+0x1898
+真実を全部言うべきだ
+You should tell them the whole truth.
+0x18A4
+胸の中にしまっておくべきだ
+You should keep it in your heart.
+0x11E0
+誠「どうすれば、って……そんなの、簡単なことじゃないか！」%K%P
+Makoto「'What should I do'... That's simple, isn't it!?」%K%P
+0x11EC
+いづみ「……？」%K%P
+Izumi「...?」%K%P
+0x11F8
+誠「全部、教えてやればいいんだ！」%K%P
+Makoto「You should tell them everything!」%K%P
+0x1204
+誠「遙にも、くるみにも、本当のことを全部言ってやればいいんだ！」%K%P
+Makoto「You should tell Haruka and Kurumi the whole truth!」%K%P
+0x1218
+いづみ「そんなの……無理よ……」%K%P
+Izumi「That's... impossible...」%K%P
+0x1224
+いづみ「くるみにはもちろん言えないし……遙ちゃんにも……」%K%P
+Izumi「Naturally, I can't tell Kurumi... and as for Haruka-chan...」%K%P
+0x1230
+誠「…………」%K%P
+Makoto「...」%K%P
+0x123C
+いづみ「もしも遙ちゃんに真実を告げたら、何かのキッカケで、空白の３年間のことを、くるみが気づいてしまうかもしれないでしょ？」%K%P
+Izumi「If I tell Haruka-chan the truth, Kurumi might learn about the%Nthree year blank by chance, right?」%K%P
+0x1248
+誠「気づいたっていいじゃないか！」%K%P
+Makoto「It's fine if she learns, isn't it?!」%K%P
+0x1254
+誠「血の繋がりなんか関係無いって、本気でそう思ってるんだったら、別に言ったってかまわないだろ！」%K%P
+Makoto「If you seriously don't think it matters whether or not%Nyou're blood related, then it should be okay to tell her!」%K%P
+0x1260
+誠「タイムスリップのことだって、いづみさんが真剣に説明すれば、絶対に信じてもらえるはずだよ！」%K%P
+Makoto「If you sat her down and explained the time travel to her,%Nthen she'd believe you!」%K%P
+0x126C
+いづみ「でも……」%K%P
+Izumi「But...」%K%P
+0x1278
+誠「『でも』なんだよ！？」%K%P
+Makoto「What's with the 'but'!?」%K%P
+0x1284
+誠「結局いづみさんは、自分のことしか考えてないんじゃないのか？」%K%P
+Makoto「In the end, you're only thinking about yourself, aren't%Nyou!?」%K%P
+0x1290
+誠「くるみの気持ちが離れて行くんじゃないかと思っておびえてるんだ！　そうだろ！？」%K%P
+Makoto「You're afraid of how Kurumi will react when she learns!%NIsn't that right!?」%K%P
+0x129C
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0x12A8
+誠「くるみは、今でも悩んでるんだよ！　──背中の傷のこと！」%K%P
+Makoto「But even now, Kurumi is fretting over the scar on her%Nback!」%K%P
+0x12B4
+誠「真相を打ち明けて、それで傷痕が消えるわけじゃないけど……」%K%P
+Makoto「It's not like that scar is going to disappear if you reveal%Nthe truth to her...」%K%P
+0x12C0
+誠「だけどせめて、傷ができた本当の原因ぐらい、教えてやってもいいんじゃないのか！？」%K%P
+Makoto「So at the very least, it should be all right if you tell her%Nthe true origin of the scar, shouldn't it!?」%K%P
+0x12CC
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0x12D8
+誠「遙にしたってそうだよ！」%K%P
+Makoto「It's the same with Haruka!」%K%P
+0x12E4
+誠「さっき遙……去り際にこう言ってたよな？」%K%P
+Makoto「Didn't you hear what she said... just before she left?」%K%P
+0x12F0
+誠「『くるみのことは何でもわかってるから』って……」%K%P
+Makoto「'I understand everything about you, Kurumi'...」%K%P
+0x12FC
+誠「遙はもう気づいてるんだよ！」%K%P
+Makoto「Haruka has already realized it!」%K%P
+0x1308
+誠「自分のオリジナルがくるみだってことも！」%K%P
+Makoto「She knows that Kurumi is her Original!」%K%P
+0x1314
+誠「自分を突き飛ばしたのがいづみさんだってことも！」%K%P
+Makoto「She knows that you're the one who thrust her away!」%K%P
+0x1320
+いづみ「…………」%K%P
+Izumi「...」%K%P
+0x132C
+誠「……謝ってやれよ……」%K%P
+Makoto「... Apologize to her...」%K%P
+0x1338
+誠「……何も言わないで黙ってるのなんて……」%K%P
+Makoto「... Simply staying silent and doing nothing...」%K%P
+0x1344
+誠「……悲しすぎるよ……そんなの……」%K%P
+Makoto「... is just... too sad...」%K%P
+0x1358
+誠「どうすれば、って……そんなこと言ってるけど……」%K%P
+Makoto「'What should I do'... You say that, but...」%K%P
+0x1364
+誠「でもいづみさんの中では、もう答は出てるんじゃないかな？」%K%P
+Makoto「Deep down, you already know the answer to that, right?」%K%P
+0x1370
+いづみ「……えっ？」%K%P
+Izumi「... Huh?」%K%P
+0x137C
+誠「このことは黙ってた方がいいって……そう思ってるんでしょ？」%K%P
+Makoto「It'd be best to keep quiet about this... Don't you think so?」%K%P
+0x1388
+誠「くるみにはもちろん言えないし……」%K%P
+Makoto「Naturally, you can't tell Kurumi...」%K%P
+0x1394
+誠「もしも遙に真相を告げたら、何かのキッカケで、空白の３年間のことを、くるみが気づいてしまうかもしれない」%K%P
+Makoto「And if you tell Haruka-chan the truth, Kurumi might%Naccidentally learn about the three year blank by%Nchance, right?」%K%P
+0x13A0
+誠「だから真実は、隠し続けるべきだって……そう思ってるんだよね？」%K%P
+Makoto「That's why you should continue to hide the truth... Don't%Nyou think so?」%K%P
+0x13B4
+いづみ「うん……そうかも……しれないわ……」%K%P
+Izumi「Yes... That might... be right...」%K%P
+0x13C0
+いづみさんはただ、認めてもらいたかったんだろう。%K%P
+Izumi-san probably just wanted someone to agree with%Nher.%K%P
+0x13CC
+『黙ってることは悪いことじゃない』と、オレにそう言って欲しかったんだ。%K%P
+She wanted me to say, "Staying silent isn't a bad thing."%K%P
+0x13D8
+誰かに認めてもらわなければ、その激しい罪悪感に、今にも押し潰されてしまいそうで……。%K%P
+If no one agreed with her, then she'd probably be%Ncrushed by her intense feelings of guilt, sooner or later...%K%P
+0x13E4
+誠「いづみさん……？」%K%P
+Makoto「Izumi-san...?」%K%P
+0x13F0
+誠「いづみさんがそう考えてるんなら、オレはそれでもいいと思うよ」%K%P
+Makoto「If that's the way you think, then I think it's okay.」%K%P
+0x13FC
+誠「知らない方が幸せってことも、世の中にはあるし……」%K%P
+Makoto「The world is a happier place if you don't know certain%Nthings...」%K%P
+0x1408
+誠「真相を告げて、それで誰かが傷つくんだったら、ときには嘘をついたって、別にかまわないような気がする」%K%P
+Makoto「If telling people the truth ends up hurting them, then I feel%Nthat telling a lie or two occasionally isn't bad.」%K%P
+0x1414
+誠「『真実かどうかよりも……」%K%P
+Makoto「'What's more important than whether it's true or not...'」%K%P
+0x1420
+いづみ「……信じられるかどうかのほうが大切』」%K%P
+Izumi「'... is whether you can believe it or not.'.」%K%P
+0x142C
+誠「うん……。だからこのことは、オレといづみさんの胸の中に、しまっておいた方がいいんじゃないかな？」%K%P
+Makoto「Yes... That's why it's best for us to keep this locked%Naway in our hearts, right?」%K%P
+0x1438
+誠「オレは……そう思うけど……」%K%P
+Makoto「That's... what I think...」%K%P
+0x1444
+いづみさんは答えなかった。%K%P
+Izumi-san doesn't answer.%K%P
+0x1450
+じっとうつむいたまま、瞳を静かに閉じていた。%K%P
+She keeps her eyes fixed downwards, and quietly%Ncloses her eyes.%K%P
+0x145C
+お互いに何も語らぬまま、時間だけがゆっくりと過ぎていった……。%K%P
+Neither of us say anything as time slowly passes by...%K%P
+0x14A4
+その後、バーベキューが始まるまで、いづみさんが口を開くことはなかった……。%K%P
+After that, Izumi-san remains silent until the barbecue%Nbegins...%K%P
+0x14B0
+………………。%N…………。%N……。%K%P
+... ... ...%K%P

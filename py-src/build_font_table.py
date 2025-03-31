@@ -90,10 +90,9 @@ def loadJapCjkCharsetAsIndex() -> list:
 
     # 1128 - circled number 1
     # ⑨
-    font_index[1136][3] += "# R11:Rendered as a blank space (full width?)"
+    font_index[1136][3] += "# R11/E17:Rendered as a blank space (full width?)"
     # ä ö ü tm ...
-    font_index[1137][0] = "ä"
-    font_index[1137][3] += "# ⑩"
+    font_index[1137][3] += "# ä in e17 in r11, but blank space in n7"
     font_index[1138][0] = "ö"
     font_index[1138][3] += "# ⑪"
     font_index[1139][0] = "ü"
@@ -110,6 +109,8 @@ def loadJapCjkCharsetAsIndex() -> list:
     font_index[1140][3] += "# ⑬"
     font_index[1141][0] = "à"
     font_index[1141][3] += "# ⑭"
+    font_index[1142][0] = "ä"
+    font_index[1142][3] += "# ⑮"
 
     # empty
     font_index[1182][0] = ""

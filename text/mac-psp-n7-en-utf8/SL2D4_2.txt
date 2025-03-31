@@ -1,0 +1,132 @@
+text area offset and size:
+0x528
+0x9A3
+0xA8
+オレは沙紀を連れて、展望公園にやって来た。%K%P
+I take Saki to Viewpoint Park.%K%P
+0xB4
+灯台の下には、既に遙が待っていた。%K%N
+Haruka is already waiting under the lighthouse.%K%N
+0xC0
+昨日の晩、オレは遙に、この時間と場所を教えておいたのだ。%K%P
+Last night, I asked Haruka to come here at this time.%K%P
+0xCC
+その灯台の下で、沙紀と遙は向き合った。%K%P
+The two face each other underneath the lighthouse.%K%P
+0xD8
+２人の体は、極度の緊張のせいで固まっている。%K%P
+Their bodies stiffen up due to the extreme tension.%K%P
+0xE4
+そんな２人のことを交互に見ながら、オレはゆっくりと話し始めた。%K%P
+As I look back and forth between them, I slowly begin to%Ntalk.%K%P
+0xF0
+誠「よし……。それじゃあ早速、整理してみよう……」%K%P
+Makoto「All right... Well then, let's get this settled once and for all...」%K%P
+0xFC
+オレは、沙紀と遙の間に例の鈴を置いた。%K%P
+I place the bell in between Saki and Haruka.%K%P
+0x108
+誠「沙紀は炭焼き小屋の女の子にあげた鈴を取り返した」%K%P
+Makoto「Saki, you took back a bell from a girl in a charcoal%Nburning hut whom you'd given the bell to in the first place.」%K%P
+0x114
+誠「その時、追って来たそのクローンの女の子に石を投げ、彼女の額には傷ができてしまった」%K%P
+Makoto「The clone girl then chased after you, so you threw%Nstones at her, and wounded her forehead.」%K%P
+0x15C
+沙紀「そう……」%K%P
+Saki「Yes...」%K%P
+0x168
+誠「遙は大事にしてた鈴をどこかの女の子に取り上げられ、追いかけると突き飛ばされた」%K%P
+Makoto「And Haruka, when the bell you treasured was taken%Naway from you by some girl, you chased after her and%Nwere pushed away.」%K%P
+0x174
+誠「その時、机かイスの角にぶつけてできたのが、その額の傷……そうだったよな？」%K%P
+Makoto「That's when you hit your forehead on the edge of a%Ndesk chair, and got that scar... is that right?」%K%P
+0x188
+遙「うん……」%K%P
+Haruka「Yes...」%K%P
+0x194
+誠「共通点は、その鈴を取り上げたか取り上げられたかという部分の関係性。それとその時にできた額の傷だ」%K%P
+Makoto「So, in both of your stories, you both either took a bell or%Nhad one taken from you. Both stories resulted in a girl%Ngetting wounded on her forehead.」%K%P
+0x1A8
+静かにうなずく２人。%K%P
+Both of them nod.%K%P
+0x1B4
+誠「だけど他はどうだ？　例えば年齢……」%K%P
+Makoto「But what about the rest? For example, ages...」%K%P
+0x1C0
+誠「遙が額をケガしたのは、何歳の時なんだ？」%K%P
+Makoto「Haruka, how old were you when you got that scar on%Nyour forehead?」%K%P
+0x1D4
+遙「それはわからないけど……たぶん、まだまともに外に出られない頃だと思う……」%K%P
+Haruka「I don't know that, but... I think it was before I could go%Noutside...」%K%P
+0x1E0
+誠「なるほど。じゃあ、沙紀の方は？」%K%P
+Makoto「I see. Then what about you, Saki?」%K%P
+0x1EC
+誠「炭焼き小屋の女の子と遊んでたのが、いくつぐらいのことなのか……覚えてるか？」%K%P
+Makoto「Do you remember... about how old you were when you%Nplayed with the girl from the charcoal burning hut?」%K%P
+0x208
+沙紀「それは……あそこの別荘が出来てからだから……私は６歳になってる……」%K%P
+Saki「That's... my family's summer house had just been%Ncompleted, so... I was six years old...」%K%P
+0x214
+誠「沙紀が６歳なら、当時遙は５歳ってことになるよな？」%K%P
+Makoto「If Saki was six, then Haruka was five at the time.」%K%P
+0x220
+誠「５歳の子が、いくらなんでも外に出られないなんて訳がない」%K%P
+Makoto「Normally, healthy five year olds in this country are able%Nto go outside.」%K%P
+0x22C
+誠「時期的に、２人の記憶は完全にズレてるんだ」%K%P
+Makoto「Which means that there's a large time gap in between%Nyour memories- Haruka's incident must have happened%Nsome time before Saki's.」%K%P
+0x240
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x24C
+遙「…………」%K%P
+Haruka「...」%K%P
+0x258
+誠「それに、そもそも額の傷ができた原因に関しては、２人の言ってることは明らかに食い違ってる」%K%P
+Makoto「Also, your stories regarding the origin of the forehead%Nwound don't match up.」%K%P
+0x264
+誠「沙紀は『石を投げてできた傷だ』と言ってるのに、遙の記憶によると、それは『机かイスの角にぶつけてケガした』もののようだ」%K%P
+Makoto「Even though Saki said it was 'a wound caused by%Nstones thrown at the girl', according to Haruka, it seems%Nit was 'a scar caused from hitting the edge of a desk%Nchair'.」%K%P
+0x270
+誠「２人は、あまりにも強烈な記憶のせいで、細かい相違点をなおざりにして、お互いがその事件の相手だと思い込んでしまってたんだ」%K%P
+Makoto「Because of your very strong memories, both of you%Nneglected these small differentiations, and were%Nconvinced that the other was the girl in your memories.」%K%P
+0x27C
+おずおずと、沙紀と遙が顔を合わせる。%K%P
+Saki and Haruka look at each other timidly.%K%P
+0x288
+誠「そして……その思い込みの最大の原因はこれだ」%K%P
+Makoto「And this... was the main reason why this happened.」%K%P
+0x294
+そう言って、オレは鈴を拾い上げた。%K%P
+I say this, then hold up the bell.%K%P
+0x2A8
+誠「一緒に持てよ。２人とも」%K%P
+Makoto「Both of you wait here.」%K%P
+0x2B4
+沙紀と遙がうなずいて、握りしめたオレの拳に手を重ねた。%K%P
+Saki and Haruka nod, and I clench the hand holding the%Nbell into a fist.%K%P
+0x2D0
+誠「この鈴のせいで、沙紀と遙は妙な誤解を抱いてしまった……」%K%P
+Makoto「Because of this bell, you two both made a strange%Nmisunderstanding...」%K%P
+0x2DC
+沙紀「…………」%K%P
+Saki「...」%K%P
+0x2E8
+遙「…………」%K%P
+Haruka「...」%K%P
+0x2F4
+誠「だけど、これで終わりだ。もういがみ合うことなんかないんだ」%K%P
+Makoto「But this is the end. Your fighting will end here.」%K%P
+0x364
+２人がうなずく。%K%P
+They both nod.%K%P
+0x370
+それを確かめて、オレは鈴を崖下に大きく放った。%K%P
+Once I've confirmed that, I throw the bell over the cliff.%K%P
+0x3B4
+小さな音色を残し、一瞬陽の光に輝いて、鈴は海の中へと沈んでいった……。%K%P
+It shines in the sunlight for an instant, leaving behind a%Nsmall ring, and then it begins to sink into the sea...%K%P
+0x3C0
+これで歴史は変わった。２人の間のわだかまりは、跡形も無く消え去ったのだ……。%K%P
+With this, I've changed history. The previous conflict%Nbetween these two has disappeared without a trace...%K%P

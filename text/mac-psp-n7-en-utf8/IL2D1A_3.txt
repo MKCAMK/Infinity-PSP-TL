@@ -1,0 +1,762 @@
+text area offset and size:
+0x1830
+0x32DD
+0x88
+億彦「やあ！」%K%P
+Okuhiko「Hey!」%K%P
+0x94
+午前９時３４分──予想通り、億彦が起きてきたのは１日の起床時間と同じだった。%K%P
+9:34 A.M.―right on schedule. Okuhiko wakes up at the%Nsame time he did on the 1st.%K%P
+0xA0
+もちろんこれは当たり前のことだ。本人はオレを騙そうとしているんだから……。%K%P
+Of course, that's only natural. He himself is trying to%Ndeceive me, after all...%K%P
+0xBC
+億彦「あれぇ？　ひょっとして……オジャマだったかな？」%K%P
+Okuhiko「Huh? I'm not... interrupting something, am I?」%K%P
+0xC8
+オレの方は見ず、遙だけに向かって語りかけている。%K%P
+He asks this to Haruka as he ignores my presence.%K%P
+0xD4
+しかし、遙は答えない。%K%P
+Of course, she doesn't answer him.%K%P
+0xF8
+億彦「……って、そんなわけないかぁ。ははっ」%K%P
+Okuhiko「... Nah, there's no way it's like that. Ha ha ha!」%K%P
+0x10C
+笑いながら、再びチラッとオレの方を見る。%K%P
+While laughing, he glares at me again.%K%P
+0x118
+さげすむような視線……。%K%P
+His eyes are full with scorn...%K%P
+0x12C
+オレの目の前で繰り広げられる、あの日と同じ光景。%K%P
+The scene unfolding before my eyes is the same as that%Nday.%K%P
+0x138
+本当に奇妙な感覚だった。%K%P
+It's a truly strange sight.%K%P
+0x144
+大アクビをしながら、彼はゆっくりとソファへと歩み寄り、そこに深く腰を下ろす。%K%P
+He loudly yawns as he slowly walks towards the sofa%Nbefore sitting down.%K%P
+0x150
+遙との間に５０ｃｍ程度の距離を保つことも忘れない。%K%P
+He remembers to keep 50 cm between him and Haruka.%K%P
+0x15C
+よく覚えているものだ。%Kオレは感心する。%K%P
+It's something he remembers quite well.%K I'm honestly%Nimpressed.%K%P
+0x168
+億彦はこういった悪戯ごとに対しては、本気で真剣になる性格のようだ。%K%N
+Okuhiko is really serious in going all out to try to make%Nthis trick work on me.%K%N
+0x174
+別の言い方をすれば『嫌なやつ』ってことだけど……。%K%P
+You could call him a "despicable bastard", for that, but...%K%P
+0x180
+同じことを繰り返すというのは本当に難しい。それに妙なものだ。%K%P
+It must be really difficult to repeat the exact same%Nactions. I must commend him.%K%P
+0x18C
+オレは、まるで本当に過去にタイムスリップしたかのような感覚に捕らわれる。%K%P
+If I didn't know any better, I would have honestly felt like I%Nhad time traveled.%K%P
+0x198
+それにしても、みんな（オレも含めて）迫真の演技だ。%K%P
+Nevertheless, all of us (myself included) are putting on a%Ntrue to life performance here.%K%P
+0x1A4
+これだけの演技力を持っているならば、演劇部……それどころか、俳優にもなれるんじゃないだろうか？%K%P
+Who knew we had this much acting talent? Perhaps we%Nshould join the drama club... or even consider acting as%Na career.%K%P
+0x1B0
+誠「なあ、あのさ？」%K%P
+Makoto「Hey, Okuhiko?」%K%P
+0x1BC
+オレは億彦に向かって話しかけた。あの時と同じように。%K%P
+I turn towards Okuhiko and say the same thing I did back%Nthen.%K%P
+0x1D0
+億彦「うん？」%K%P
+Okuhiko「Yeah?」%K%P
+0x1DC
+誠「これって……この『ゼミ合宿』とかいうやつって、結局何を目的として実施されてるんだろう？」%K%P
+Makoto「It's just... What exactly are we trying to achieve at this%Nso-called 'Seminar Camp' here?」%K%P
+0x200
+億彦「…………」%K%P
+Okuhiko「...」%K%P
+0x20C
+誠「ん？　……どうした？　億彦？」%K%P
+Makoto「Huh? ... What's wrong, Okuhiko?」%K%P
+0x218
+億彦「……石原、お前、本当にあの時と同じことを言うんだな？」%K%P
+Okuhiko「... Ishihara, didn't you ask me that before?」%K%P
+0x224
+おそらく、億彦が予想していたオレの言葉は『今日は何日だ？』だったのだろう。%K%P
+Okuhiko was probably expecting me to ask, "What's%Ntoday's date?"%K%P
+0x230
+しかしオレは『１日と同じ言葉』を発した。%K%P
+But instead, I asked the same question I did on the 1st.%K%P
+0x23C
+しかも動揺しているどころか、全く動じていない。%Kまるで何事もなかったかのように振る舞っている。%K%N
+In addition, I'm not agitated or perturbed at all. I'm acting%Nas if nothing ever happened.%K%N
+0x248
+それは、億彦にとっては驚くべきことだったのだろう。%K%P
+As a result, Okuhiko is surprised.%K%P
+0x254
+誠「……何を言ってるんだ？　億彦？」%K%P
+Makoto「... What are you talking about, Okuhiko?」%K%P
+0x260
+しらばっくれて、そう切り返す。%K%P
+Feigning ignorance, I unleash my counterattack.%K%P
+0x274
+億彦「お、おい、石原。%W%W%W……今日は……何日だ？」%K%P
+Okuhiko「H-Hey, Ishihara... What's... today's date?」%K%P
+0x280
+億彦は、あきらかに動揺していた。%K%P
+Okuhiko is clearly uneasy.%K%P
+0x28C
+誠「は？　４月１日だろ？%Nそんなことも忘れたのか？」%K%P
+Makoto「Huh? It's April 1st, isn't it? Did you forget that already?」%K%P
+0x298
+オレは平然と答えた。%Kそう……平然と。%K%P
+I answer calmly. Right... calmly.%K%P
+0x2C8
+億彦「そ……%W%W%Wそうだよな……%W%Wアハハ」%K%P
+Okuhiko「Th... That's right... ahaha.」%K%P
+0x2D4
+億彦は冷や汗を流し始めた。%N顔が何だか引きつっている。%K%P
+Okuhiko begins to break out into a cold sweat. His face%Nis twitching a bit.%K%P
+0x2E0
+誠「おいおい、合宿初日からどうしたんだ？%Nしっかりしてくれよな。億彦〜」%K%P
+Makoto「Hey, it's only the first day of the Camp, so what's wrong?%NHang in there, Okuhiko〜」%K%P
+0x2EC
+そう言いつつも、我ながら迫真の演技だと思う。%K%P
+I'm also putting on a stellar performance, if I may say so%Nmyself.%K%P
+0x300
+億彦の顔は、すでに真っ青だ。%K%Nぷ%Wぷ%Wぷ……%W%Wざまあ見ろだ。%K%P
+Okuhiko's face has gone pale. Heh heh heh... Serves you%Nright.%K%P
+0x384
+優夏「おはよう！」%K%P
+Yuka「Good morning!」%K%P
+0x390
+優夏が起きて来た。%Nたぶん、あの時と同じ時刻だった。%K%P
+Yuka has "awoken". It's probably at the same time as the%N1st.%K%P
+0x39C
+誠「おはよう」%K%P
+Makoto「Good morning.」%K%P
+0x3B8
+億彦「……や、%W%Wやあ……」%K%P
+Okuhiko「... H-Hey...」%K%P
+0x3C4
+オレと億彦が挨拶を返す。%N遙は当然と言うべきか、何の反応も示さない。%K%P
+Okuhiko and I return her greeting. Haruka, needless to%Nsay, doesn't reply at all.%K%P
+0x3D0
+億彦の声には少し元気がない。%K当たり前だが……。%K%P
+Okuhiko's voice sounds slightly devoid of energy.%NObviously...%K%P
+0x3EC
+優夏「みんな、朝ゴハンは？」%K%P
+Yuka「Have any of you had breakfast yet?」%K%P
+0x3F8
+誠「いや、まだだけど……」%K%P
+Makoto「No, not yet...」%K%P
+0x404
+優夏「そう。じゃ、私が腕によりをかけて作ってあげちゃおっかな」%K%P
+Yuka「I see. Well then, I guess I'll make some myself.」%K%P
+0x410
+誠「え！？」%K%P
+Makoto「What!?」%K%P
+0x41C
+優夏「何か御不満でも？」%K%P
+Yuka「What, do you have any complaints?」%K%P
+0x428
+優夏もなかなかのものだ。%N上手い具合に同じ展開が繰り返される。%K%P
+Yuka's also doing a great job. Thanks to that, things are%Nhappening the same way they were last time.%K%P
+0x444
+ん……？　同じ展開……？%K%P
+Huh...? Happening the same way...?%K%P
+0x450
+ちょ、ちょっと待てよ。%K%Nこのまま、同じ展開が繰り広げられるとすると……？%K%P
+H-Hold on. At this rate, the same events will unfold again,%Nmeaning...%K%P
+0x478
+──オレが、優夏の料理を食わされるっ！！！！%K%P
+―I'll have to suffer Yuka's cooking again!!!!%K%P
+0x484
+優夏「たぶん１５分ぐらいで出来ると思う。%Nえっとー、パンで大丈夫だよね？」%K%P
+Yuka「I think it'll probably take about 15 minutes. Um, toast's%Nokay, right?」%K%P
+0x498
+とっさにオレは……%K%P
+And then I...%K%P
+0x4A4
+誠「ちょっと、まてぇーーーっ！！！」%K
+Makoto「Hold it!!!」%K
+0x1808
+……と言ってしまった
+... say this.
+0x1814
+……と危うく言うところだった
+... barely avoid saying this.
+0x500
+足元で鈍い音がした。%K%P
+A loud thud comes from my feet.%K%P
+0x514
+見ると、遙がカカトでオレの足を思いっきり踏んでいる。%K%P
+When I look, I see Haruka has used her heel to stomp on%Nmy foot with all of her strength.%K%P
+0x528
+誠「……いっ、%W%Wいでぇぇぇぇ〜〜〜！！！」%K%P
+Makoto「... O-OWWWWW!!!」%K%P
+0x534
+オレは踏まれた足を抱えて、%Nピョンピョンと飛び跳ねた。%N目にはじわりと涙が浮かんでくる。%K%P
+I jump up and down, holding my crushed foot. Tears rise%Nto my eyes.%K%P
+0x548
+億彦「？？？？」%K%P
+Okuhiko「???」%K%P
+0x554
+怪訝に思う億彦。%K%P
+Okuhiko looks suspicious.%K%P
+0x570
+そこへ、遙がフォローを入れた。%K%P
+Haruka quickly backs me up.%K%P
+0x57C
+遙「蚊がいたの……%W%Wこんな大きな蚊。%W%W%W%N……血、吸われるとこだった」%K%P
+Haruka「There was... this huge mosquito. ... It was about to suck%Nhis blood.」%K%P
+0x588
+……遙も実のところは、相当に乗り気だったのかもしれない。%K%P
+... Well, it seems that Haruka might also be getting into this%Nwhole performance.%K%P
+0x59C
+億彦「ふ〜ん」%K%P
+Okuhiko「Huh.」%K%P
+0x5A8
+納得する億彦。%K%P
+He seems to understand.%K%P
+0x5B4
+（こんな季節に蚊がいるかっ！）%K%P
+(Is this even the season for mosquitoes!?)%K%P
+0x5C0
+ツッコミたい気持ちをオレはなんとかこらえた。%K%N
+If I were to say this out loud, then I would feel like I was in%Nsome traditional comedy sketch, with me as the straight%Nman.%K%N
+0x5CC
+だって……%Nまた踏まれるのは目に見えているから……。%K%P
+But... Though I'm tempted to say this, I don't want to get%Nstomped on again...%K%P
+0x5D8
+遙はいいよな……。同じ歴史を繰り返すなら、%N食べなくてもいいんだから。%K%P
+Haruka's fine... she'll sacrifice her breakfast if it means%Nrepeating the same history.%K%P
+0x5E4
+でも、%W%Wオレはそういうわけにはいかないんだよ……！%K%P
+But there's no way I can get out of this...!%K%P
+0x5F0
+あの料理（？）を思い出して、%W%W胃液がこみ上げてきた……。%K%P
+Just remembering that "food" makes my stomach churn...%K%P
+0x604
+オレは喉まで出かけた言葉を、慌てて飲みこんだ。%K%P
+I frantically swallow the words that almost come bursting%Nout of my mouth.%K%P
+0x610
+危ない、危ない……。%K%P
+That was close...%K%P
+0x61C
+遙も億彦も平然としている。%K%P
+Haruka and Okuhiko are calm.%K%P
+0x628
+当然だ。２人が同じ歴史を繰り返すのなら、食べなくてもいいんだから。%K%P
+It's only natural. They'll sacrifice their breakfasts if it%Nmeans letting the same history play out.%K%P
+0x634
+でも、%Kオレは食べなきゃいけないんだよ！%K%P
+But I'll be forced to eat that crap again!%K%P
+0x640
+あの料理（？）を思い出して、%W%W胃液がこみ上げてきた……。%K%P
+Just remembering that "food" makes my stomach churn...%K%P
+0x6A0
+オレ達は、ローカル放送のテレビ番組『すこやかＹＯＵとぴあ』を見ながら、優夏が料理を作り終えるのを待っている。%K%P
+While waiting for Yuka to finish cooking, we watch "A%NHealthy YOUtopia" on the TV.%K%P
+0x6AC
+もちろん、この日この時間に、この番組はやっていない。%K%P
+Needless to say, this isn't the episode that's airing now.%K%P
+0x6B8
+今、ブラウン管に映し出されているのは、遙が録画しておいたビデオなのだ。%K%P
+The images projected from the cathode ray tube right%Nnow are from Haruka's recording.%K%P
+0x6C4
+ヤツの脳みそはポンコツなのか、億彦はその番組が映し出されるとまたしても驚く。%K%P
+Okuhiko is so surprised that this episode is playing that%Nit seems his brain is frying.%K%P
+0x6D0
+そして、そのことが遂に決め手となり、%N億彦は『今日が１日である』という事を信じざるを得なくなったようだ。%K%P
+At last, with that trump card, Okuhiko finally seems to%Nbelieve that today is the 1st.%K%P
+0x700
+優夏「お待たせしましたぁ〜」%K%P
+Yuka「Sorry to keep you waiting〜」%K%P
+0x70C
+やがて、料理が完成した。%K%P
+Before long, Yuka's done cooking.%K%P
+0x718
+優夏「食事は、もうテーブルの方に運んじゃってあるから、みなさんそっちに移動して下さ〜い」%K%P
+Yuka「I've already set the food on the table. Let's eat!」%K%P
+0x724
+その言葉を聞いても、誰も立ちあがろうとはしない。%K%P
+No one even tries stands up in spite of those words.%K%P
+0x730
+無理もない……。%Wみんな、あの料理の出来ばえを知っているのだから……。%K%P
+Of course... we all know the result of her cooking...%K%P
+0x744
+優夏「あれぇ〜？　%Nどうしたのみんな？　%Nお腹空いているんじゃなかったっけ？」%K%P
+Yuka「Huh〜? What's wrong, guys? Weren't you hungry?」%K%P
+0x750
+億彦「……」%K%P
+Okuhiko「...」%K%P
+0x75C
+遙「……」%K%P
+Haruka「...」%K%P
+0x768
+誠「そ、そうだったな……。%Nオレ達は腹ペコだった……。%Nさ、%W%Wみんな行こうか♪」%K%P
+Makoto「Th-That's right... we're starving... Come on, let's go eat♪」%K%P
+0x774
+沈み込む気持ちを少しでも和らげようと、オレはことさら明るい声でみんなを促した。%K%P
+I urge everyone on cheerfully in an attempt to cheer%Nmyself up, even if only slightly.%K%P
+0x788
+優夏「さっ、どうぞ召し上がれぇ〜♪」%K%P
+Yuka「Well then, go ahead and eat up〜♪」%K%P
+0x794
+その後の地獄絵図に関しては、%Kもはや説明するまでもないだろう。%K%P
+In the end, let's just say that Yuka's food drove me to%Nhell and back.%K%P
+0x7A0
+……………………。%K%P
+...%K%P
+0x81C
+誠「うーっ……」%K%P
+Makoto「Ugh...」%K%P
+0x828
+声にならないうめき声……。%K%P
+I feel sick...%K%P
+0x834
+胸はムカムカするし、喉元まで何かが込み上げて来ているのが分かる。%K%P
+I can feel my chest and throat filling up with nausea.%K%P
+0x840
+オレはまたもや、あの料理の犠牲者になってしまったのだ。%K%P
+I have once again become a victim of that sad excuse%Nfor food.%K%P
+0x84C
+オレはソファに深く腰を下ろし、リビングの天井を眺めながら『もう２度と優夏に食事は作らせまい！』と誓った。%K%P
+I sink down deep into the sofa and stare at the living%Nroom's ceiling as I swear that "I'll never let Yuka cook%Never again!"%K%P
+0x858
+そう誓ったのは、これで通算４２回目だった。%K%P
+I swear this 42 times.%K%P
+0x864
+優夏は前回と同じように、鼻歌を歌いながら洗い物をしている。%K%P
+Like last time, Yuka is happily humming while washing the%Ndishes.%K%P
+0x870
+遙も同じように、洗面所で歯磨きをしている。%K%P
+Haruka is also brushing her teeth, just like last time.%K%P
+0x87C
+けれど、億彦だけは優夏の手伝いをしていない。%K%P
+But this time, Okuhiko isn't helping Yuka.%K%P
+0x888
+なにやら考え事をしている。ロダンの『考える人』のようなポーズをとりながら……。%K%P
+He seems to be in deep thought. The pose he's in%Nresembles Rodin's "The Thinker"...%K%P
+0x8C0
+その直後、玄関のチャイムが鳴る。%K%P
+Just then, the doorbell rings from the front door.%K%P
+0x8CC
+来たな？%K%N……と、オレは思った。%K%P
+Is she here? ... I think this.%K%P
+0x8D8
+くるみがピザを届けにやって来たのだ。%K%P
+Kurumi has come to deliver the pizza.%K%P
+0x938
+くるみ「毎度ありがとうございま〜す♪」%K%P
+Kurumi「Thank you for your continued patronage♪」%K%P
+0x944
+くるみ「ご注文のシーフードピザ、お届けに参りましたぁ」%K%P
+Kurumi「Here's the seafood pizza you ordered!」%K%P
+0x950
+くるみの演技もたいしたもんだ。%K%P
+Kurumi's also doing a good job at acting.%K%P
+0x95C
+誰がどう見ても、目の前のくるみは、あの時のくるみだった。%K%P
+If anyone saw her now, they'd think the Kurumi in front of%Nmy eyes was the Kurumi from the 1st.%K%P
+0x978
+くるみ「じゃあここって、朝倉さんのお宅じゃ……」%K%P
+Kurumi「Then, this isn't the Asakura house...」%K%P
+0x984
+オレが『そのピザはウチが頼んだものではない』と告げると、くるみは驚きの表情を浮かべた。%K%P
+After informing her that "No one here ordered pizza", a%Nsurprised look appears on Kurumi's face.%K%P
+0x990
+誠「いいや。ここには朝倉なんて名前の人はっ」%K%P
+Makoto「No, there isn't anyone here name Asaku...」%K%P
+0x99C
+オレがそこまで言うと、億彦が後ろから叫び声を……%K%P
+This is the part where Okuhiko shouts...%K%P
+0x9A8
+億彦「…………」%K%P
+Okuhiko「...」%K%P
+0x9C4
+…………………………………………おや？%Nあげない？%K%P
+... Huh? He's not going to do it?%K%P
+0x9D0
+オレは、そこで一旦言葉を止め、億彦の様子を盗み見た。%K%P
+I stop talking, and sneak a glance at Okuhiko.%K%P
+0xA08
+くるみも、ロッジの中を覗き見るようにしてくる。%K%P
+Kurumi also tries peeking into the lodge.%K%P
+0xA1C
+億彦は、依然として考え事を続けているようだ。%K%P
+It seems that Okuhiko is still in deep thought.%K%P
+0xA28
+オレの後ろまでは来てはいるのだが……。%K%P
+He's walked up behind me, but...%K%P
+0xA34
+億彦は、悩んでいるのだろう……。%K%P
+He's probably worried...%K%P
+0xA40
+確かに今、ピザを受け取らないと空腹はおさまらない。%K%N
+If he doesn't take the pizza, then he'll stay hungry.%K%N
+0xA4C
+しかし、ここでピザを受け取ってしまうと、あとで沙紀にどやされるハメに陥ってしまう。%K%P
+But if he does take the pizza, then he'll have to face%NSaki's wrath later.%K%P
+0xA58
+億彦にとっては、ここは運命の分かれ道なのかもしれない。%K%P
+To Okuhiko, this might be a forked road.%K%P
+0xA80
+──まずい！%K%P
+―This is bad!%K%P
+0xA8C
+反射的にオレは思った。%K%P
+My mind races.%K%P
+0xA98
+ここで億彦がピザを受け取ってくれないと、沙紀がルナビーチにやって来る理由がなくなる。%K%P
+If Okuhiko doesn't take the pizza, then Saki will have lost%Nher reason to go to Lunabeach!%K%P
+0xAA4
+すると、いろいろな面でこの後の歴史を軌道修正する必要が生じてくるのだ。%K%P
+If that happens, then various things will need to happen%Nafterwards for history to correct its course.%K%P
+0xAB0
+できれば、そんな面倒なことは避けたいところだが……。%K%P
+If possible, I'd rather avoid any deviations...%K%P
+0xAE8
+遙「ねぇ……」%K%P
+Haruka「Hey...」%K%P
+0xAFC
+そこへ歯磨きを終えたらしい遙がやって来た。%K%P
+Haruka must have finished brushing her teeth, as she%Ncomes over.%K%P
+0xB08
+億彦の服のすそをクイクイッと引っ張る。%K%P
+She tugs on Okuhiko's clothes.%K%P
+0xB14
+遙「ねぇ……億彦……。%W%W%W私、お腹空いた……」%K%P
+Haruka「Hey... Okuhiko... I'm hungry...」%K%P
+0xB44
+億彦「あ、どうもご苦労様ぁ〜」%K%P
+Okuhiko「Ah, thank you for all your trouble〜」%K%P
+0xB50
+誠「え？」%K%P
+Makoto「Huh?」%K%P
+0xB64
+億彦「僕が、朝倉億彦です」%K%P
+Okuhiko「I'm Okuhiko Asakura.」%K%P
+0xB78
+億彦は、何故か泣きそうな顔をしていた。%K%N
+For some reason, Okuhiko looks like he's about to cry.%K%N
+0xB84
+オレ達は、ほっと胸をなでおろした。%K%P
+The rest of us feel relieved.%K%P
+0xBF8
+億彦「ねえ、そろそろ行かないか？」%K%P
+Okuhiko「Hey, shouldn't we go now?」%K%P
+0xC04
+億彦が、長い前髪をかき上げながら立ち上がった。%K%P
+As he rises, Okuhiko flicks his long bangs away from his%Nface.%K%P
+0xC20
+優夏「ほえ？　億彦くん、行くってどこへ？」%K%P
+Yuka「Huh? Go where, Okuhiko-kun?」%K%P
+0xC34
+億彦「え？　優夏ちゃん……え、え〜と、ホラ、３月３１日の夜に約束していただろ？%N明日、みんなでテニスへ行こうって」%K%P
+Okuhiko「Huh? Yuka-chan... e-er, look, didn't we make a promise on%Nthe night of March 31st? That we'd all go play tennis the%Nnext day.」%K%P
+0xC40
+『昨日』ではなく『３月３１日』と言うところが、タイムスリップっぽくて良い。%K%P
+He didn't say "yesterday", but "March 31st", like a time%Ntraveler.%K%P
+0xC4C
+億彦にとっては『３月３１日』が昨日だという感覚がないからなのだろう。%Nまあ、それはみんな同じなのだが……。%K%P
+That's because to Okuhiko, it probably doesn't feel like%N"March 31st" was yesterday. Well, it's the same for all of%Nus...%K%P
+0xC58
+しかし……。%K%N
+However...%K%N
+0xC64
+そこでオレは優夏を睨みつける。%K%P
+I glare at Yuka.%K%P
+0xC70
+（優夏よぉ〜、お前、自分が言っていたことを忘れるなよなっ！）%K%P
+(Yuka, don't forget what you're supposed to say!)%K%P
+0xC84
+優夏「……あっ！　ああっ！　そうそう……そうだったわよね……うっかりしちゃった♪」%K%P
+Yuka「... Ah! Yeah! Right, right... that's right... How careless of%Nme♪」%K%P
+0xC98
+億彦「……し、しっかりしてくれよな……優夏ちゃん」%K%P
+Okuhiko「... H-Hang in there... Yuka-chan.」%K%P
+0xCA4
+本当にしっかりして欲しいところだ。%K%P
+For once, I agree with Okuhiko.%K%P
+0xCC0
+優夏は『ゴメ〜ン』という目でオレを見る。%K%P
+Yuka looks at me as if to say "sorry."%K%P
+0xCCC
+幸いにも、億彦は怪しんではいない様子だ。%K%P
+Fortunately, Okuhiko doesn't seem suspicious.%K%P
+0xCE0
+優夏「さ、みなさん支度して下さ〜い！」%K%P
+Yuka「Well then, everyone, please get ready!」%K%P
+0xD30
+……と言うわけで、テニスコートに到着した。%K%P
+... And so, we arrive at the tennis court.%K%P
+0xD44
+優夏「さ、やろやろぉ！」%K%P
+Yuka「All right then, let's play!」%K%P
+0xD50
+優夏は、コートの管理人から借りて来た４本のラケットを、押し付けるようにしてオレ達３人に手渡した。%K%P
+Yuka has rented four rackets from the court's manager,%Nand forced them into our hands.%K%P
+0xD5C
+無邪気な喜びに満ちた瞳が、キラキラとした輝きを放ってまぶしい。%K%P
+It's almost blinding how much joy her eyes are radiating.%K%P
+0xD68
+すると……%K%P
+Just then...%K%P
+0xD84
+遙「私…いい…」%K%P
+Haruka「I'll... pass...」%K%P
+0xD90
+……遙はそう言って、今もらったばかりのラケットを、そっとベンチに立てかけた。%K%P
+... She places the racket she had just received gently%Nagainst the bench.%K%P
+0xDA4
+優夏「ええっ？」%K%P
+Yuka「Whaaat?」%K%P
+0xDC0
+億彦「じゃあ遙ちゃん、海行こうか？」%K%P
+Okuhiko「Well then, Haruka-chan, shall we go to the ocean?」%K%P
+0xDCC
+ここぞとばかりに、遙を誘い出そうとする億彦。%K%P
+At that moment, Okuhiko invites Haruka.%K%P
+0xDD8
+億彦「行こうよ。海、行きたいんだろう？　遙ちゃん」%K%P
+Okuhiko「Let's go. You want to go to the ocean, right?」%K%P
+0xDE4
+まあ、同じ歴史なら、ここで遙が海に行きたがる筈だからな。%K%P
+Well, if this is the same history, then Haruka should be%Nanxious to go to the ocean.%K%P
+0xDF0
+億彦「僕、わかるんだよ。遙ちゃんがどこに行きたいのかが……%W%W%W何故だと思う？」%K%P
+Okuhiko「I know where you want to go, Haruka-chan... Do you know%Nwhy?」%K%P
+0xDFC
+まさか……億彦のヤツ、この状況を逆手に取ろうとしてるのか……？%K%P
+No way... is Okuhiko trying to turn the situation against%Nus...?%K%P
+0xE08
+まいったなぁ……。これじゃ、何のために騙しているのかわからなくなってくるじゃないか。%K%P
+This isn't good... I have no clue how we're going to be%Nable to keep deceiving him at this rate.%K%P
+0xE14
+遙「私……」%K%P
+Haruka「It's because...」%K%P
+0xE20
+億彦「ん？　どうしたの？」%K%P
+Okuhiko「Huh? What's wrong?」%K%P
+0xE3C
+遙「私……釣りに行きたい」%K%P
+Haruka「I... want to go fishing.」%K%P
+0xE50
+億彦「え？」%K%P
+Okuhiko「What?」%K%P
+0xE78
+硬直する億彦。%K%P
+Okuhiko is petrified.%K%P
+0xE84
+ぷっ……%W%W%Wぷ%Wく%Wく%Wくっ……いいぞ、遙。%Kサイコーだ。%K%P
+Heh... heh heh heh heh... That was wonderful, Haruka.%NYou're the best.%K%P
+0xE90
+億彦「な、なんで……？」%K%P
+Okuhiko「Wh-Why...?」%K%P
+0xE9C
+遙「釣りの方が楽しいから……」%K%P
+Haruka「Because fishing is more fun...」%K%P
+0xEA8
+億彦「だって……遙ちゃん……釣りしたことないんでしょ？」%K%P
+Okuhiko「But... Haruka-chan... you've never fished before, right?」%K%P
+0xEB4
+遙「……何で知ってるの？」%K%P
+Haruka「... Why do you know that?」%K%P
+0xEC0
+億彦「あ……いや、その……だから、遙ちゃんの考えていることは、何でも分かるんだって」%K%P
+Okuhiko「Ah... no, um... Because I know everything you're thinking.」%K%P
+0xECC
+遙「じゃ……私が何を考えているか当ててみて」%K%P
+Haruka「Then... try to guess what I'm thinking now.」%K%P
+0xEE0
+億彦「ふっ、いいとも……」%K%P
+Okuhiko「Sure, okay...」%K%P
+0xEEC
+億彦「遙ちゃんが、今考えていることは%W%W%W%N『億彦くんって、私のこと何でもお見通しなのね♪%Nステキッ！』%W%W%Wだろ？」%K%P
+Okuhiko「What you're thinking right now is: 'Okuhiko-kun can see%Nthrough everything about me♪ Amazing!' Right?」%K%P
+0xEF8
+遙「ハズレ……」%K%P
+Haruka「Wrong...」%K%P
+0xF0C
+億彦「あれ？」%K%P
+Okuhiko「Huh?」%K%P
+0xF18
+遙「私が今考えているのは……%W%W%W%N『億彦は、絶対について来ないで』%W%W%W……なの」%K%P
+Haruka「What I was thinking right now is... 'I absolutely don't want%NOkuhiko to follow me,'... That's what it was.」%K%P
+0xF2C
+億彦「……なぁ〜っ！？」%K%P
+Okuhiko「... WHA-!?」%K%P
+0xF38
+だぁー%W%Wはっ%Wはっ%Wはっ%Wはっ！%K%Nざまー見ろ、億彦。%K%P
+Ahahahaha! Serves you right, Okuhiko.%K%P
+0xF44
+ボーゼンと立ち尽くす億彦を眺めながら、オレはこみ上げてくる笑いを堪えていた。%K%P
+He's so motionless and dumbstruck that it takes all of my%Nwillpower to keep myself from bursting into laughter.%K%P
+0xF98
+優夏「じゃあ私達は、ここにいるから」%K%P
+Yuka「Then we'll be right here.」%K%P
+0xFA4
+優夏は、しょうがないといった感じであきらめた。%K%P
+Yuka acts like she's consented, and shrugs.%K%P
+0xFB8
+え〜っと、確かオレはこのとき……。%K%P
+Umm, let's see, this is where I...%K%P
+0xFD4
+そう言えば、オレはこのままテニスをするんだった。%K%P
+Now that I think about it, I'm supposed to stay here and%Nplay tennis with Yuka...%K%P
+0xFE0
+やっぱりここは、歴史通りに行動する方がいいだろう……とオレは考えた。%K%P
+It's probably for the best if I do so and act in%Naccordance with "history"...%K%P
+0xFF4
+億彦「じゃ、そういうことで」%K%P
+Okuhiko「Well, see you later.」%K%P
+0x1000
+億彦はすぐに立ち直った。%Nさすがは、世界に誇る飯田財閥の御曹司。%K神経の頑丈さも筋金入りだ。%K%P
+Okuhiko quickly recovers. As the heir of the world%Nfamous Iida Financial Group, it's to be expected. He's got%Nstrong, staunch nerves.%K%P
+0x100C
+億彦「じゃ、行こうか？　遙ち……」%K%P
+Okuhiko「Well then, let's go, Haruka-ch...」%K%P
+0x1018
+……遙は既に、遠く先の方を歩いていた。%K%P
+... Haruka has already left, and is walking far away from%Nus.%K%P
+0x102C
+億彦「ち、ちょっとっ！　遙ちゃんっ！！」%K%P
+Okuhiko「W-Wait! Haruka-chan!!」%K%P
+0x105C
+億彦が慌ててその後を追いかけて行く。%K%P
+Okuhiko frantically starts to chase after her.%K%P
+0x1068
+億彦「釣りなら、僕が教えてあげるよぉ〜！！！」%K%P
+Okuhiko「I'LL TEACH YOU HOW TO FISH!!!」%K%P
+0x10D8
+そう言えば、オレは遙と一緒に海へ行くんだった。%K%P
+Now that I think about it, I went with Haruka to the ocean.%K%P
+0x10E4
+やっぱりここは、歴史通りに行動する方がいいだろう……とオレは考えた。%K%P
+It's probably for the best if I do so to act in accordance%Nwith "history"... That's what I think.%K%P
+0x10F0
+まあ、既に遙が『釣りに行きたい』って言った段階で、歴史は変わっているのだが……。%K%P
+Well, Haruka already said that she wants to go fishing, so%Nhistory's changed anyway, but...%K%P
+0x10FC
+誠「おいおい、ちょっと待ってくれよ、優夏」%K%P
+Makoto「Hey, wait a minute, Yuka.」%K%P
+0x1110
+優夏「？」%K%P
+Yuka「?」%K%P
+0x111C
+誠「オレはまだ、テニスをするなんてひと言もいってないぞ？」%K%P
+Makoto「I never said I was going to play tennis.」%K%P
+0x1128
+優夏「？？」%K%P
+Yuka「??」%K%P
+0x1144
+億彦「お、おい、石原ぁ〜！」%K%P
+Okuhiko「H-Hey, Ishihara〜!」%K%P
+0x1150
+億彦は速攻で立ち直ると、すぐにオレに向かって突っかかってきた。%K%Nどうやら奴の神経はワイヤーロープのように頑丈らしい……。%K%P
+After a swift recovery, Okuhiko immediately snaps at me.%NHe's sure got nerves of steel...%K%P
+0x1164
+億彦「石原は、絶対に来るなよ！！」%K%P
+Okuhiko「Ishihara can't be allowed to go!!」%K%P
+0x1170
+ここぞとばかりに、億彦が鋭い視線で睨みつけてくる。%K%P
+He shoots me a sharp glare and scowls.%K%P
+0x117C
+オレは思った。%K『やなこった』……と。%K%P
+Geez... How pathetic...%K%P
+0x1188
+誠「オレも……釣りに行く」%K%P
+Makoto「I'm also... going fishing.」%K%P
+0x119C
+優夏「ええーっ！？」%K%P
+Yuka「Huuuh!?」%K%P
+0x11B0
+億彦「くっ……。またしても、僕の邪魔をするのか、お前はっ！」%K%P
+Okuhiko「Kuh... Dammit, why do you always have to get in my way?!」%K%P
+0x11BC
+億彦は険しい表情を浮かべると、必死にそう訴えてきた。%K%P
+A harsh expression rises on Okuhiko's face as he%Nbegins to whine.%K%P
+0x11C8
+億彦「今度こそは……今度こそは、お前を一緒には行かせないからなっ！」%K%P
+Okuhiko「This time... this time, I won't let you two go together!」%K%P
+0x11D4
+遙「……」%K%P
+Haruka「...」%K%P
+0x11E8
+優夏「ちょ、ちょっと……」%K%P
+Yuka「H-Hey...」%K%P
+0x1214
+億彦「石原は、絶対に遙ちゃんと釣りには行けない……行けないんだぁ〜！！」%K%P
+Okuhiko「Ishihara, there's no way in hell I'll let you go fishing with%NHaruka-chan... I won't let you!!」%K%P
+0x1220
+必死に歴史を変えようとする億彦。%K%P
+Okuhiko is desperately trying to change history.%K%P
+0x1234
+そのまま、ヤツはオレにつかみかかってきた！%K%P
+And just like that, he tries to grab me!%K%P
+0x1240
+……しかし、オレは冷静だった。%Kそして、静かに言った。%K%P
+... But I remain calm, and quietly speak.%K%P
+0x124C
+誠「予言しよう……。%K絶対に行けないのは、お前の方だよ、%W%W%W億彦……」%K%P
+Makoto「Here's a prediction for you...%K You're the one who'll never%Nbe able to go... Okuhiko.」%K%P
+0x1260
+億彦「何？%W%W　…………あっ！」%K%P
+Okuhiko「What? ... Oh shit!」%K%P
+0x126C
+億彦が気づいたときにはもう遅かった。%K%P
+By the time Okuhiko realizes it, it's too late.%K%P
+0x1294
+鈍い音だった。%K%P
+A thick sound rings out.%K%P
+0x12A0
+億彦「☆○◎×……！」%K%P
+Okuhiko「☆○◎×...!」%K%P
+0x12F8
+ラケットが億彦の後頭部を直撃していた。億彦がくらくらと倒れ伏す。%K%P
+The racket smashes into the back of Okuhiko's head. He%Ncollapses to the ground in a daze.%K%P
+0x1304
+優夏はしゃがみこんで、億彦の体を揺する。ぴくりともしない。%K%P
+Yuka crouches down and shakes his body. He's%Nknocked out.%K%P
+0x1310
+それどころか……今回は鼻血まで流している。%K倒れるときにぶつけたのかもしれない。%K%P
+However... this time, he has a nosebleed.%K He might have%Nhit his nose when he fell.%K%P
+0x1324
+優夏「ど、どうしよう……」%K%P
+Yuka「W-What should I do...」%K%P
+0x1330
+同じセリフの優夏。しかし、今回は微妙に意味合いが違うのかもしれない。%K%N
+Though Yuka's words are familiar, there's a new%Nimplication behind them.%K%N
+0x133C
+なにせ、今回はワザとなのだから……。%K%P
+That's because she hit him on purpose this time...%K%P
+0x1360
+それにしても……。%Kオレは思った。%K%N
+Nevertheless... I think to myself.%K%N
+0x136C
+なんとも学習能力の無いヤツなんだ……億彦って。%K%P
+Okuhiko... he never learns, does he?%K%P
+0x1394
+億彦が伸びているスキに、オレと遙はその場を離れることにした。%K%P
+Haruka and I decide to leave now, while Okuhiko's still%Nsprawled out on the ground.%K%P
+0x13A0
+立ち去りぎわ、オレは優夏に言ってやった。%K%P
+As we leave, I talk to Yuka.%K%P
+0x13AC
+誠「優夏。オレ達、このまま姫ヶ浜へ行くから……」%K%P
+Makoto「Yuka, we're going to Princess Beach now...」%K%P
+0x13C0
+優夏「え？」%K%P
+Yuka「Huh?」%K%P
+0x13CC
+誠「歴史通りに繰り返したいんだよ。できるだけ。……でないと、話がややこしくなる」%K%P
+Makoto「I want to repeat history to a T as much as possible... If%Nwe can't, things might get too complicated.」%K%P
+0x13D8
+優夏「……うん、わかった」%K%P
+Yuka「... Yeah, I understand.」%K%P
+0x13E4
+オレは、そう言うと遙を追いかけた。%K%P
+That settled, I begin to chase after Haruka.%K%P

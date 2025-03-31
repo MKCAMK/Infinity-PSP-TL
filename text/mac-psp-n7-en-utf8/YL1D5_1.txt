@@ -1,0 +1,471 @@
+text area offset and size:
+0xC40
+0x1C93
+0x154
+ふと……目が覚めた。%K%P
+Suddenly... I wake up.%K%P
+0x160
+別に悪夢にうなされたわけでもなければ、何か物音を聞いたわけでもない。%K%P
+It's not that I had a nightmare, or heard a loud sound.%K%P
+0x16C
+それは実に自然な、ゆっくりといざなわれるような目覚めだった。%K%P
+I just somehow woke up for no reason...%K%P
+0x178
+枕元に置いた腕時計を見る。%K%P
+I take a look at my watch, which I'd placed on my bedside.%K%P
+0x184
+『２時５０分』%K%P
+"2:50 A.M."%K%P
+0x190
+眠りについてから、まだ１時間とちょっとしか経っていない。%K%P
+It hasn't even been an hour since I went to sleep.%K%P
+0x19C
+しかし、眠気は全く感じなかった。%K%P
+But I don't feel sleepy at all.%K%P
+0x1A8
+頭は驚くほど醒め切っていて、今なら２桁の掛け算でも１０秒以内に解けそうだ。%K%P
+My mind is surprisingly wide awake, so I try to do%Nmultiplication tables in my mind to help me go back to%Nsleep.%K%P
+0x1B4
+何度か……寝返りをうってみる……。%K%P
+I try this countless times...%K%P
+0x1C0
+けれど、覚醒したオレの脳には、まどろみのきざしさえも現われなかった。%K%P
+It's no use- I'm too alert.%K%P
+0x1CC
+あきらめて、ベッドをするりと脱け出す。%K%P
+I give up and get out of bed.%K%P
+0x1D8
+確か、リビングの冷蔵庫には、今日の残りの缶ビールが何本か残っていた筈だ。%K%P
+I'm sure that there's several leftover beer cans from%Ntoday in the fridge.%K%P
+0x1E4
+１本空けた頃には、きっと眠気も戻って来るだろう。%K%P
+After drinking a can, my sleepiness will surely return.%K%P
+0x1F0
+そう思い、オレは部屋の扉をそうっと開いた……。%K%P
+With that thought, I quietly open the door to my room...%K%P
+0x26C
+リビングには、もちろん誰もいなかった。%K%P
+Of course, there's no one in the living room.%K%P
+0x278
+静まり返った室内は、思わずため息が出てしまいそうな程の寂しさに満ちている。%K%P
+I let out a sigh in the quiet, empty room.%K%P
+0x284
+ロフトの上から、スースーと億彦の寝息が聞こえていた。%K%P
+I can hear Okuhiko snoring from up in the loft.%K%P
+0x290
+億彦「おいっ！　待て！」%K%P
+Okuhiko「Hey! Wait!」%K%P
+0x29C
+急にとどろいた億彦の声。%K%P
+Okuhiko suddenly shouts in a roaring voice.%K%P
+0x2A8
+ビクッとして上を見上げると……%K%P
+When I look up in surprise...%K%P
+0x324
+億彦「まずい……%W%Wエネルギーが……%W%Wエネルギーが……%W%W足り……%W%W%Wない……%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
+0x338
+億彦「ニュートリノエナジーパワーオンッ！……%W%Wへ〜%W%Wんしん！……%W%Wとぉ！%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「Neutrino Energy, Power On! ... Trans〜form! ... There! ...%NZzz...」%K%P
+0x34C
+億彦「出たなハイテク怪人掃除機男……%W%Wううっ……%W%W吸われる……%W%W吸わ……%W%Wれる……%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
+0x360
+億彦「お疲れ様でしたぁ……%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「Good work... Zzz...」%K%P
+0x374
+億彦「コラッ！…ボウズ！%W%W…舞台に上がるな舞台に！%N%W%W…おいっやめろ！%W%W…チャックを…%W%Wチャックを…%W%Wおろすな！%W%W%W%W……ムニャムニャ……」%K%P
+Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't...%Nlower... that zipper! ... Zzz...」%K%P
+0x388
+……どうやら寝言のようだった。%K%P
+... It seems he's just sleeptalking.%K%P
+0x394
+（ふーっ……ったく、いったいどんな夢見てんだよ、億彦の奴……）%K%P
+(Whew... man, what kind of dream is he having anyway...?)%K%P
+0x3A0
+ひと息つき、冷蔵庫の取っ手に手をかける。%K%P
+I sigh, and start to reach out for the handle to the fridge.%K%P
+0x3AC
+すると……%K%P
+Just then...%K%P
+0x3D4
+……何やら物音を聞いた。%K%P
+... I hear a sound.%K%P
+0x3E0
+テラスの方だ。%K%P
+It came from the terrace.%K%P
+0x3EC
+オレは開けかけた冷蔵庫の扉から手を離すと、まっすぐ玄関の方に向かって歩いて行った。%K%P
+I take my hand off the fridge, and walk straight to the%Nfront door.%K%P
+0x468
+外履き用のサンダルに履き替えたオレは、ドアを開け、表に出た。%K%P
+I put on a pair of sandals, open the door, and go outside.%K%P
+0x474
+──？？？%K%P
+―???%K%P
+0x480
+テラスの隅に、何やら黒い人影が座っていた。%K%P
+There is a dark figure sitting in the corner of the terrace.%K%P
+0x48C
+黒い人影？%K%P
+A dark figure?%K%P
+0x498
+いや、これは……。%K%P
+No, that's...%K%P
+0x4A4
+誠「優夏……」%K%P
+Makoto「Yuka...」%K%P
+0x4EC
+優夏「あ、誠ぉ……」%K%P
+Yuka「Ah, Makoto...」%K%P
+0x4F8
+優夏「おはよ♪」%K%P
+Yuka「Good morning♪」%K%P
+0x504
+誠「おはよ、って……」%K%P
+Makoto「Good morning...?」%K%P
+0x510
+誠「何やってんだよ、こんな真夜中に？」%K%P
+Makoto「What are you doing out here in the middle of the night?」%K%P
+0x51C
+優夏「ん？　ああ……星をね？　星を、見てたんだぁ〜……」%K%P
+Yuka「Hmm? Ah... I was just looking at the stars...」%K%P
+0x540
+星を？？%K%P
+The stars??%K%P
+0x54C
+そう聞いて、オレは頭上に目を転じた。%K%P
+When I hear that, I look up.%K%P
+0x560
+誠「…………………………！！」%K%P
+Makoto「...!!」%K%P
+0x56C
+……声が……%T030出なかった……。%K%P
+... I can't... speak...%K%P
+0x578
+満天の星空？　降り注ぐような星空？%K%P
+The whole sky is engulfed by a glimmering sea of stars.%K%P
+0x584
+違う！　これはそんな陳腐なセリフで形容できるような光景ではない！%K%P
+No, that's lame. This isn't something that can be%Ndescribed with such clichéd lines!%K%P
+0x590
+蒼白く輝く無数の星々が、広大な天空を、あます所なくびっしりと覆い尽くしていた。%K%P
+There are an infinite amount of shining stars all over the%Nvast sky, packed densely together.%K%P
+0x59C
+それは星屑の嵐であった。%K%P
+It's a tempest of stardust.%K%P
+0x5A8
+手を伸ばせば届きそうで……にもかかわらず、無限の距離を、あるいは永遠の時間を感じさせるような、神秘的な瞬きの群だった。%K%P
+It feels like if I reached out, I could grab them... but in%Nspite of that, their mysterious shine makes me realize%Njust how far away they are and how they'd take an%Neternity to reach.%K%P
+0x5B4
+その奇跡のような光景を目の当たりにし、オレはいつの間にか、息することさえも忘れていた。%K%P
+Before I realize it, the miraculous scene in front of me%Nhas left me breathless.%K%P
+0x5C0
+優夏「お〜いっ、こっちこっち！」%K%P
+Yuka「Hey, over here!」%K%P
+0x5CC
+その声に振り向くと、優夏は、テラスから地面へと続く短い階段の真ん中に座っていた。%K%P
+When I turn to that voice, I see Yuka is now sitting in the%Nmiddle of the short staircase that leads to the ground.%K%P
+0x5D8
+軽く手招きしている。%K%P
+She lightly beckons me.%K%P
+0x610
+オレは誘われるがままに階段へとおもむき、優夏の隣にすとんと腰を下ろした。%K%P
+Accepting Yuka's invitation, I go down the stairs and sit%Ndown next to her.%K%P
+0x61C
+そうして再び、夜空を仰ぎ見る。%K%P
+I look up at the starry sky again.%K%P
+0x630
+優夏「ね？　きれいでしょ？　星……」%K%P
+Yuka「Hey? Aren't the stars pretty...?」%K%P
+0x63C
+誠「…………」%K%P
+Makoto「...」%K%P
+0x648
+星屑の嵐に呑まれたオレは、完全に上の空だった……。%K%P
+I'm so distracted by the tempest of stardust that Yuka's%Nvoice barely registers...%K%P
+0x654
+優夏「こういうきれいな景色とかを見ると『心が洗われる』って、よく言うじゃない？」%K%P
+Yuka「Wouldn't you say that looking at such a beautiful scene%Njust 'cleanses your heart'?」%K%P
+0x660
+誠「…………」%K%P
+Makoto「...」%K%P
+0x66C
+優夏「あれって、本当だよね？」%K%P
+Yuka「Doesn't it?」%K%P
+0x678
+優夏「心の中にたまってたモヤモヤが、スーッとどこかに吸い取られていくような、そんな感じがする」%K%P
+Yuka「It feels like any depression locked away in your heart is%Njust sucked away and banished to some far-off place.」%K%P
+0x684
+誠「…………」%K%P
+Makoto「...」%K%P
+0x690
+優夏「そう言えば、あの桜を見たときも、こんな感じだったなぁ……」%K%P
+Yuka「Now that I think about it, it's the same feeling as when I%Nsaw those cherry blossoms...」%K%P
+0x69C
+──桜？%K%P
+―Cherry blossoms?%K%P
+0x6A8
+その言葉が、ふっとオレを現実に引き戻した。%K%P
+Those words bring me back to reality.%K%P
+0x6B4
+そうだった……あの桜を見に行ったときのこと……聞かなければならない。%K%P
+That's right... when we saw those cherry blossoms... I%Nhave to ask her about "that".%K%P
+0x6C0
+──どうして『鈴』のことを知ってたのか？%K%P
+―Why did she know about the "bell"?%K%P
+0x6CC
+──なぜ女の子から『鈴』を取り戻さなければならなかったのか？%K%P
+―Why did she have to take back the "bell" from that%Ngirl?%K%P
+0x6D8
+──そして……今でもあの『鈴』を持っているのか？%K%P
+―And... does she have that "bell" even now?%K%P
+0x6E4
+ずっと２人っきりになれる機会を探していたのだ。%K%P
+I've been waiting for the chance for the two of us to be%Nall alone.%K%P
+0x6F0
+今が絶好のチャンスじゃないか！%K%P
+Now is my best shot!%K%P
+0x704
+誠「なあ、優夏？」%K%P
+Makoto「Say, Yuka?」%K%P
+0x720
+オレは優夏の方に顔を向けた……。%K%P
+I look at Yuka's face...%K%P
+0x750
+優夏「ん？」%K%P
+Yuka「Hmm?」%K%P
+0x75C
+そう答えた優夏の瞳は、あふれんばかりの涙を浮かべていた。%K%P
+Yuka's eyes are brimming with tears.%K%P
+0x768
+なぜ……！？%K%P
+Why...!?%K%P
+0x774
+心臓をぎゅっとつかまれたような衝撃を覚えた。%K%P
+It feels like my heart is being gripped tightly.%K%P
+0x780
+言葉を見失ってしまった。%K%P
+I lose sight of my own words...%K%P
+0x78C
+いや、奪われたのだ……そのあまりにも、切な過ぎる優夏の瞳に……。%K%P
+No, they're stolen... by Yuka's very anguished eyes...%K%P
+0x798
+誠「なんでも……ない」%K%P
+Makoto「It's... nothing.」%K%P
+0x7A4
+吐き出すのが精一杯だった。%K%P
+I say that by sheer force of will.%K%P
+0x7B0
+優夏「じゃあ……私の方から質問。……いい？」%K%P
+Yuka「Then... I'd like to ask a question... okay?」%K%P
+0x7BC
+オレは動揺の色を隠しながら、静かにうなずいて見せた。%K%P
+I merely nod quietly while hiding my unrest.%K%P
+0x7C8
+優夏「誠……どうしてさっき、追いかけて来たの？」%K%P
+Yuka「Makoto... why did you chase after me earlier?」%K%P
+0x7D4
+誠「……さっき？」%K%P
+Makoto「... Earlier?」%K%P
+0x7E0
+優夏「くるみちゃんを探しに、私が神社に行ったとき……」%K%P
+Yuka「When we were at the shrine, looking for Kurumi-chan...」%K%P
+0x7EC
+優夏「あんなに来ちゃダメって、言ったのに……」%K%P
+Yuka「Even though I insisted that you shouldn't go...」%K%P
+0x7F8
+誠「…………」%K%P
+Makoto「...」%K%P
+0x804
+優夏「なんで？」%K%P
+Yuka「Why?」%K%P
+0x810
+誠「……それは……」%K%P
+Makoto「... That's...」%K%P
+0x81C
+誠「……だって、当たり前のことじゃないか」%K%P
+Makoto「... Because it was the obvious thing to do, right?」%K%P
+0x828
+優夏「どうして？」%K%P
+Yuka「Why?」%K%P
+0x834
+誠「どうしてもだ」%K%P
+Makoto「What do you mean, why?」%K%P
+0x840
+優夏「危ないと、思った？」%K%P
+Yuka「Didn't you think it was dangerous?」%K%P
+0x84C
+誠「……ああ」%K%P
+Makoto「... Yeah.」%K%P
+0x858
+誠「いづみさんの話、全部が全部信じられるってわけじゃないけど……どっちにしろ、誰も寄り付かない場所ってことに変わりはない」%K%P
+Makoto「It's not like I believed all of Izumi-san's story, but... either%Nway, it still didn't change the fact that it felt like a place%Nno one should approach.」%K%P
+0x864
+誠「そんな所に、果敢にも女の子がひとりで踏み込もうとしてるってときに、男のオレが黙って見てるわけにはいかないだろ？」%K%P
+Makoto「At that time, there was no way the man in me could just%Nsilently watch from the sidelines as you went in there by%Nyourself, you know?」%K%P
+0x870
+優夏「男のオレが、か……」%K%P
+Yuka「The man in me, huh...」%K%P
+0x87C
+誠「な、なんだよ、その言い方……」%K%P
+Makoto「Wh-What's with that tone...」%K%P
+0x888
+優夏「……ううん」%K%P
+Yuka「... No.」%K%P
+0x894
+優夏「ただ何だか……古くさいこと言うなぁって……そう思ったから……」%K%P
+Yuka「It's just... I thought it sounded... rather old-fashioned...」%K%P
+0x8A0
+誠「ふ……ふるくさかろうが何だろうが、オレは当然のことを言ったまでだ！」%K%P
+Makoto「It... It may sound old-fashioned, but I really believe in that.」%K%P
+0x8AC
+誠「男は女を守るもの──昔から、そう決まってるんだよ！」%K%P
+Makoto「Men ought to try their best to protect women- that's the%Nway it's been for ages!」%K%P
+0x8B8
+優夏「それじゃあ私のこと、守ってくれようとしたんだ？」%K%P
+Yuka「Well then, are you saying you'll try to protect me?」%K%P
+0x8C4
+誠「…………そうだ」%K%P
+Makoto「... That's right.」%K%P
+0x8D0
+優夏「バカだよ、そんなの……」%K%P
+Yuka「That's just stupid...」%K%P
+0x8DC
+誠「バカなもんか！」%K%P
+Makoto「It's not stupid!」%K%P
+0x8E8
+誠「これからだって、優夏のこと、オレは必ず守ってみせるよ！」%K%P
+Makoto「From now on, I will definitely protect you!」%K%P
+0x8F4
+優夏「……本気で……言ってるの？」%K%P
+Yuka「... Are you... serious?」%K%P
+0x900
+誠「冗談にしちゃ、出来が悪すぎるだろ？」%K%P
+Makoto「If this were a joke, it'd be a pretty crappy one, wouldn't%Nit?」%K%P
+0x90C
+誠「本気だよ。この星空に誓って、本気だ！」%K%P
+Makoto「I'm serious. I swear on this starry sky that I'm serious!」%K%P
+0x918
+自分でも、何でそんなことを言ったのか、よくわからない。%K%P
+Even I don't understand why I'm saying these things.%K%P
+0x924
+この奇跡のような光の群が、いつの間にかオレの気分をたかぶらせていたのだろうか？%K%P
+Have these brilliant stars bewitched me without me%Nnoticing??%K%P
+0x930
+何だかちょっと、照れくさかった。%K%P
+I feel a little embarrassed.%K%P
+0x93C
+優夏「ふふっ」%K%P
+Yuka「Hee hee.」%K%P
+0x948
+優夏は笑った。%K%P
+Yuka laughs.%K%P
+0x954
+瞳に映った星々の瞬きが、うるうると哀しく揺れている。%K%P
+Despite her cheerful facade, the shine of the stars%Nreflecting in her eyes suggest loneliness in them.%K%P
+0x960
+優夏「やさしいね……」%K%P
+Yuka「You're kind...」%K%P
+0x96C
+誠「……やさしい？」%K%P
+Makoto「... Kind?」%K%P
+0x978
+優夏「そういう所がそっくりなんだよ」%K%P
+Yuka「You're the spitting image of him in that regard.」%K%P
+0x984
+そっくり……。%K%P
+Spitting image...%K%P
+0x990
+それって、もしかして……？%K%P
+Could that be...?%K%P
+0x99C
+誠「前の、彼氏？」%K%P
+Makoto「Your ex-boyfriend?」%K%P
+0x9A8
+優夏「だから彼氏じゃないってば」%K%P
+Yuka「I told you, he wasn't my boyfriend.」%K%P
+0x9B4
+優夏「片想いだったって、言ったでしょ？」%K%P
+Yuka「I said it was an unrequited love, didn't I?」%K%P
+0x9C0
+無理に作った微笑みだった。%K%P
+She forces a smile.%K%P
+0x9CC
+何か張り裂けそうな想いを、ぐっと懸命に押し殺しているような……。%K%P
+It's like she's giving everything she's got to repress%Nemotions that want to burst out of her...%K%P
+0x9D8
+優夏「でも本当は……………………」%K%P
+Yuka「But honestly...」%K%P
+0x9E4
+優夏「本当は……そうじゃなかったのかも……」%K%P
+Yuka「Honestly... It might not have been like that...」%K%P
+0x9F0
+誠「？」%K%P
+Makoto「?」%K%P
+0x9FC
+優夏「きっと片想いなんだ、って……そうやって、ずっと思い込んでたけど……」%K%P
+Yuka「'It's a completely unrequited love'... I was always under%Nthat impression, but...」%K%P
+0xA08
+誠「？？？」%K%P
+Makoto「???」%K%P
+0xA14
+優夏「その男の子……あるとき、言ってくれたの……」%K%P
+Yuka「One time... that boy told me...」%K%P
+0xA20
+優夏「私のことが『好きだ』って」%K%P
+Yuka「He told me he loved me.」%K%P
+0xA2C
+誠「じゃあ、やっぱり……」%K%P
+Makoto「Then that means he really...」%K%P
+0xA38
+優夏「ううん……」%K%P
+Yuka「No...」%K%P
+0xA44
+優夏「だけど、片想いは片想い……」%K%P
+Yuka「An unrequited love is an unrequited love...」%K%P
+0xA50
+優夏「この恋は……永遠の、片想いなの……」%K%P
+Yuka「That love... is an eternally unrequited one...」%K%P
+0xA5C
+そうつぶやくと、優夏はおもむろに立ち上がった。%K%P
+When she mutters this, Yuka slowly stands up.%K%P
+0xA70
+とっさに声をかけようとして……%K%P
+I immediately try to call out to her...%K%P
+0xA7C
+……しかし思いとどまる。%K%P
+... But give up on it.%K%P
+0xA88
+オレに背中を向けて、それを隠そうとしたのか？%K%P
+Is that turned back of hers trying to hide something from%Nme?%K%P
+0xA94
+けれどオレは見逃さなかった。%K%P
+But I don't miss it.%K%P
+0xAA0
+優夏の瞳から、ひとしずくの涙がこぼれ落ちるのを……。%K%P
+I don't miss seeing the single teardrop that falls from%NYuka's eyes...%K%P
+0xAAC
+優夏「おやすみ、誠……」%K%P
+Yuka「Good night, Makoto...」%K%P
+0xAB8
+優夏はテラスを歩きながら、振り向かずにそう言った。%K%P
+While walking to the terrace, she says this without%Nturning around.%K%P
+0xAE0
+やがて、扉の閉まる音……。%K%P
+Before long, I hear the sound of the door closing...%K%P
+0xAEC
+残されたオレは、優夏の座っていた階段の、その１段下の木の板を、指先でそっと触れてみた。%K%P
+Left alone, I try touching the wooden plank that Yuka sat%Non.%K%P
+0xAF8
+彼女の落としたしずくの跡が、冷たく指にしみてくる。%K%P
+The remnants of her tear feel cold on my finger.%K%P
+0xB04
+（永遠の片想い、か……）%K%P
+(An eternally unrequited love, huh...)%K%P
+0xB10
+夜がしんしんと更けて行く。%K%P
+The night wears on.%K%P
+0xB1C
+オレの頭上の星屑は、音もなくひっそりとまわり続けていた……。%K%P
+The stardust above my head quietly continues to turn%Nwith time...%K%P
