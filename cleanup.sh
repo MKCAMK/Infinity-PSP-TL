@@ -8,5 +8,5 @@ rm -rf workdir workdir-${GAME}
 rm -rf text/mac-*-only*/ text/mac-${GAME}-*-only*/
 rm -rf text/tmp-${GAME}
 rm -rf text/font/${GAME}
-rm -f patch/${GAME}-*.xdelta
+rm -f patch/${GAME}-${TL_SUFFIX}.xdelta
 rm -f iso/${GAME}-repacked.iso

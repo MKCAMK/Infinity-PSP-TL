@@ -10,5 +10,7 @@ if [ "$GAME" = "n7" ]; then
 		[ -e text/mac-psp-n7-${TL_SUFFIX}-utf8/$f.txt ] && continue
 		extract_scene $f
 	done
+elif [ "$GAME" = "r11" ]; then
+	./text_1_extract-jap-scenes-full.sh
 fi
 echo "Done."

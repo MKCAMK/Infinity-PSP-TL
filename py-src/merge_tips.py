@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# This script can be used to apply the text from TIPS in `tips-psp/` to `other-psp-r11-*/init.bin.utf8.txt` file
+# This script can be used to apply the text from TIPS in `tips-psp-r11/` to `other-psp-r11-*/init.bin.utf8.txt` file
 # Example usage: `python3 py-src/merge_tips.py cn`
 
 import sys
@@ -15,7 +15,7 @@ import r11
 
 debug = True
 
-tips_folderpath = path.dirname(__file__) + "/../text/tips-psp/"
+tips_folderpath = path.dirname(__file__) + "/../text/tips-psp-r11/"
 tips_order = path.dirname(__file__) + "/../text/other-psp-r11-en/tips.order.psp.txt"
 # saveas = "tips.init.psp.txt"
 

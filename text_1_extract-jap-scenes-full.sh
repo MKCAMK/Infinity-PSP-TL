@@ -4,7 +4,6 @@
 # Before running this, iso and afs packages must be unpacked, so that .SCN files are present in ${GAME}_mac/ folder.
 . ./text_1_extract-jap-scenes-func.sh
 
-mkdir -p text/tmp-${GAME}/mac-psp-jp/
 for i in ${GAME}_mac/[A-Z0-9]*_[0-9]*.SCN ; do
 	extract_scene $(basename $i .SCN)
 done
