@@ -72,6 +72,8 @@ compose_font () {
 	if [ "cn" == "$TL_SUFFIX" ]; then
 		7z x ../glyphs-cn.7z
 		mv -f ../glyphs-cn/* glyphs/
+	else
+		cp ../glyphs-en/* glyphs/
 	fi
 	$PY ../../../py-src/extract_font.py repack glyphs/ || exit 1
 	cp FONT00.NEW ../../../${GAME}_etc_${TL_SUFFIX}/FONT00.NEW

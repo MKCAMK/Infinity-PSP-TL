@@ -10,8 +10,9 @@ def main():
 
   game = os.environ["GAME"] if "GAME" in os.environ else "n7"
 
-  text_tables = [0x0, 0x6c8]
   text = [0x6c8, 0xe99]
+
+  text_tables = [0, text[0]]
 
   path = sys.argv[1] if len(sys.argv) > 1 else "APPEND.SCN"
   txtpath = sys.argv[2] if len(sys.argv) > 2 else path + "." + game + ".jp.txt"

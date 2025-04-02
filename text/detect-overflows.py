@@ -5,13 +5,13 @@ import sys
 import os
 import re
 
-game = os.environ["GAME"] if "GAME" in os.environ else "e17"
-
 def main():
   # Standard psp engine limit is 480
   warn_chars_buffer_overflow = 480;
   warn_chars_screen = 400;
   warn_chars_line = 45*4;
+
+  game = os.environ["GAME"] if "GAME" in os.environ else "e17"
 
   fdir = f"mac-{game}-en-only-utf8"
   files = os.listdir(fdir);
