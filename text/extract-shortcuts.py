@@ -20,7 +20,7 @@ def main():
     text = [0x694, 0x1582]
     text_tables = [0x0, 0x694]
 
-  path = sys.argv[1] if len(sys.argv) > 1 else f"SHORTCUT.SCN"
+  path = sys.argv[1] if len(sys.argv) > 1 else "SHORTCUT.SCN"
   txtpath = sys.argv[2] if len(sys.argv) > 2 else path + "." + game + ".jp.txt"
 
   f=open(path, "rb")
