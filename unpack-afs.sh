@@ -24,7 +24,8 @@ cp $RES_DIR/etc.afs $WORK_DIR/etc.afs
 cp $RES_DIR/init.bin $WORK_DIR/init.bin
 
 [ "$GAME" = "e17" ] && [ -d "e17_x360_BGM" ] && cp $RES_DIR/se.afs $WORK_DIR/se.afs
-[ -d "bg-${GAME}-*" ] && cp $RES_DIR/bg.afs $WORK_DIR/bg.afs
+ls bg-${GAME}-* >/dev/null 2>&1 && cp $RES_DIR/bg.afs $WORK_DIR/bg.afs
+ls ev-${GAME}-* >/dev/null 2>&1 && cp $RES_DIR/ev.afs $WORK_DIR/ev.afs
 
 PKG=mac
 rm -rf ${GAME}_$PKG/
