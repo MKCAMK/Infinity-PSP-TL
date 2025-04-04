@@ -159,9 +159,25 @@ repack_bg_afs () {
 	mv -f $WORKDIR/bg-repacked.afs $ISO_RES_DIR/bg.afs
 }
 
+repack_ev_afs () {
+	mkdir -p ${GAME}_ev_${TL_SUFFIX}
+	for i in ev-${GAME}-${TL_SUFFIX}/*.R11 ; do
+		[ ! -f $i ] && break
+		$COMPRESS $i ${GAME}_ev_${TL_SUFFIX}/$(basename $i .R11).BIP || exit 1
+	done
+	for i in ev-${GAME}-${TL_SUFFIX}/*.GIM ; do
+		[ ! -f $i ] && break
+		$COMPRESS $i ${GAME}_ev_${TL_SUFFIX}/$(basename $i .GIM).T2P || exit 1
+	done
+
+	$REPACK_AFS $WORKDIR/ev.afs $WORKDIR/ev-repacked.afs ./${GAME}_ev_${TL_SUFFIX} || exit 1
+	mv -f $WORKDIR/ev-repacked.afs $ISO_RES_DIR/ev.afs
+}
+
 # Actually running above functions
 [ "$GAME" = "e17" ] && repack_e17_se_afs
 [ -e $WORKDIR/bg.afs ] && repack_bg_afs
+[ -e $WORKDIR/ev.afs ] && repack_ev_afs
 repack_mac_afs
 repack_etc_afs
 repack_init_bin
