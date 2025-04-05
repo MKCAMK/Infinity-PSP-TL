@@ -168,7 +168,7 @@ Makoto「Good morning.」%K%P
 I greet her cheerfully.%K%P
 0x390
 ？？「…………」%K%P
-??「...」%K%P
+???「...」%K%P
 0x39C
 何秒か、返事を待ってみるが、その期待は見事に%N裏切られることとなる。%K%P
 I wait several seconds for a reply, only to get none in%Nreturn.%K%P
@@ -192,7 +192,7 @@ In an attempt to fix the situation, I face her and try to%Nsay 「Good morning�
 Makoto「Good morning.」%K%P
 0x494
 ？？「…………」%K%P
-??「...」%K%P
+???「...」%K%P
 0x4BC
 無言のまま、彼女は蛇口をひねってコップに水を%N注いだ。%K%P
 Without a word, she turns the sink faucet, filling her glass%Ncup with water.%K%P
@@ -219,7 +219,7 @@ Makoto「Good morning!」%K%P
 The girl places her empty cup at the bottom of the sink%Nand sighs as she mutters...%K%P
 0x554
 ？？「おはよう」%K%P
-??「Good morning.」%K%P
+???「Good morning.」%K%P
 0x560
 けれど、その視線はオレの方に向けられてはいない。%K%P
 However, she says this without looking at me.%K%P
@@ -231,7 +231,7 @@ It's almost as if she's greeting the water dripping from%Nthe faucet instead.%K%
 Makoto「Say... Did I... offend you... somehow?」%K%P
 0x584
 ？？「どうして？」%K%P
-??「Why do you think that?」%K%P
+???「Why do you think that?」%K%P
 0x590
 彼女の視線は相変わらず動かない。%K%P
 Her gaze is still fixed on the faucet.%K%P
@@ -240,7 +240,7 @@ Her gaze is still fixed on the faucet.%K%P
 Makoto「Why...? Well, because... Because it kinda feels like you're...%Navoiding me.」%K%P
 0x5A8
 ？？「…………」%K%P
-??「...」%K%P
+???「...」%K%P
 0x5B4
 彼女は答えなかった。%K%P
 She doesn't answer me.%K%P
@@ -267,10 +267,10 @@ I probably shouldn't have pestered her like that.%K%P
 Just then, she opens her small mouth to speak.%K%P
 0x614
 ？？「私……」%K%P
-??「It's because...」%K%P
+???「It's because...」%K%P
 0x624
 ？？「私……違うから……」%K%P
-??「It's because... I'm different...」%K%P
+???「It's because... I'm different...」%K%P
 0x658
 誠「昨日は、よく眠れた？」%K%P
 Makoto「So, did you sleep well last night?」%K%P
@@ -285,7 +285,7 @@ I feel my face flush from embarrassment.%K%P
 Makoto「I mean, not to be rude, but you don't look like you slept%Nmuch.」%K%P
 0x688
 ？？「…………」%K%P
-??「...」%K%P
+???「...」%K%P
 0x694
 なおも答えない彼女。%K%N
 No answer.%K%N
@@ -297,7 +297,7 @@ Instead, the absentminded girl just watches the water%Ndrip from the faucet.%K%P
 Makoto「Oh, you're not feeling depressed, are you? After all, you%Nwere taken away from your precious spring break%Nagainst your will. Honestly, I'm bummed about that, too.」%K%P
 0x6B8
 ？？「…………」%K%P
-??「...」%K%P
+???「...」%K%P
 0x6C4
 誠「だけど、しょうがないよな。%Kしょうがないんだよ。%Kしょうがないんだって。%W%Wうん」%K%P
 Makoto「But you know, it can't be helped. It's too late now. So let's%Nmake the best of it. Okay?」%K%P
@@ -306,13 +306,13 @@ Makoto「But you know, it can't be helped. It's too late now. So let's%Nmake the
 Makoto「I mean, if we're going to spend the week here, then it'd be%Nbest to pass our time at this camp as optimistically, as%Nproductively, and as energetically as we-」%K%P
 0x6DC
 ？？「意味無いよ」%K%P
-??「It's meaningless.」%K%P
+???「It's meaningless.」%K%P
 0x6E8
 ふいに、彼女の小さな口が開いた。%K%P
 The girl says this quite suddenly.%K%P
 0x6F4
 ？？「何の得にもならない」%K%P
-??「I have nothing to gain from that.」%K%P
+???「I have nothing to gain from that.」%K%P
 0x700
 誠「得にならない、%W%W%Wって……」%K%P
 Makoto「'Nothing to gain'...?」%K%P
@@ -324,10 +324,10 @@ These words make my mouth run dry.%K%N
 I'm speechless.%K%P
 0x724
 ？？「私には……」%K%P
-??「Because I...」%K%P
+???「Because I...」%K%P
 0x734
 ？？「私には……%W%W無いから……」%K%P
-??「Because I... am nothing...」%K%P
+???「Because I... am nothing...」%K%P
 0x740
 誠「え？」%K%P
 Makoto「What?」%K%P

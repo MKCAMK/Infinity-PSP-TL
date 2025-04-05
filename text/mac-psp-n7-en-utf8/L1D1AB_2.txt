@@ -84,7 +84,7 @@ Makoto「Okay, I'm on it.」%K%P
 I massage my stomach with my left hand while opening%Nthe door with my right.%K%P
 0x25C
 ？？「毎度ありがとうございま〜す♪」%K%P
-??「Thank you very much for your continued patronage〜♪」%K%P
+???「Thank you very much for your continued patronage〜♪」%K%P
 0x268
 誠「……………………%W%Wへ？」%K%P
 Makoto「... Huh?」%K%P
@@ -99,19 +99,19 @@ Judging from her appearance... I'd say she's probably a%Nmiddle-school student.%
 Riding on top of her right palm is a square, silver colored%Nbag.%K%P
 0x2A8
 ？？「ご注文のシーフードピザ、%Nお届けに参りましたぁ」%K%P
-??「Here's the seafood pizza you ordered!」%K%P
+???「Here's the seafood pizza you ordered!」%K%P
 0x2B4
 誠「シーフードピザ？　そんなもん、%N頼んでないけど……」%K%P
 Makoto「Seafood pizza? I never ordered anything like that...」%K%P
 0x2C0
 ？？「ええっ！？」%K%P
-??「What!?」%K%P
+???「What!?」%K%P
 0x2CC
 少女は動揺の色を浮かべながら、空いた左手でポケットを探り、１枚の紙切れを取り出した。%K%P
 A disturbed expression clouds her face as she%Nsearches through her pocket with her free hand until%Nshe pulls out a scrap of paper.%K%P
 0x2D8
 ？？「でも、伝票には確かに『シーフードピザ』って書いてあるよ？」%K%P
-??「But the receipt definitely says you ordered a 'Seafood%NPizza', didn't you?」%K%P
+???「But the receipt definitely says you ordered a 'Seafood%NPizza', didn't you?」%K%P
 0x2E4
 いきなりタメぐちに変わってしまう所に、子供のお使い的な匂いを感じさせる。%K%P
 Suddenly, she stops speaking formally, making her feel%Nlike a little kid on an errand.%K%P
@@ -120,13 +120,13 @@ Suddenly, she stops speaking formally, making her feel%Nlike a little kid on an 
 Makoto「No, that's not what I mean. You see, I didn't order anything.」%K%P
 0x2FC
 ？？「だけど……」%K%P
-??「But...」%K%P
+???「But...」%K%P
 0x308
 再び伝票を確認しながら……%K%P
 She checks the receipt again.%K%P
 0x314
 ？？「……住所は確かにここなんだもん」%K%P
-??「... This is definitely the right address.」%K%P
+???「... This is definitely the right address.」%K%P
 0x320
 そう言って、伝票をオレに見せる少女。%K%P
 As she says this, she shows me the receipt.%K%P
@@ -195,7 +195,7 @@ She was right; there's a wooden nameplate there...%K%P
 Makoto「Umm, could you show me that receipt again?」%K%P
 0x480
 ？？「ピザ……冷めちゃうよ？」%K%P
-??「Won't the pizza... get cold?」%K%P
+???「Won't the pizza... get cold?」%K%P
 0x48C
 少女はそう言って、伝票を差し出した。%K%P
 As she says this, she hands over the receipt.%K%P
@@ -225,16 +225,16 @@ I take a closer look at them.%K%P
 Makoto「... I don't think this is a '1', but a '7', right?」%K%P
 0x4F8
 ？？「ええっ！？」%K%P
-??「What!?」%K%P
+???「What!?」%K%P
 0x504
 言うなり、オレの手元から伝票をひったくる少女。%K%P
 She immediately snatches the receipt from my hands.%K%P
 0x510
 ？？「３の８の……７？」%K%P
-??「3 and 8 and... 7?」%K%P
+???「3 and 8 and... 7?」%K%P
 0x51C
 ？？「じゃあここって、朝倉さんのお宅じゃ……」%K%P
-??「Then, this isn't the Asakura house...」%K%P
+???「Then, this isn't the Asakura house...」%K%P
 0x528
 …………………………。%K%P
 ...%K%P
@@ -288,7 +288,7 @@ Okuhiko「Right, right, I'm the Iida Lumber Store's part-time clerk,%NOkuhiko As
 The girl watches our little exchange with curiosity...%K%P
 0x658
 ？？「あ…どうも…」%K%P
-??「Ah... Hello...」%K%P
+???「Ah... Hello...」%K%P
 0x664
 ……と、少し圧倒された感じでつぶやいた。%K%P
 ... And mutters this, a little overwhelmed.%K%P
@@ -297,13 +297,13 @@ The girl watches our little exchange with curiosity...%K%P
 Okuhiko「So, where's the pizza?」%K%P
 0x684
 ？？「あ、ああ……」%K%P
-??「R-Right...」%K%P
+???「R-Right...」%K%P
 0x6A0
 少し慌てたような忙しない動作で、銀色のバッグから正方形の薄い箱を取り出す少女。%K%P
 Slightly flustered, the girl pulls a thin box out of the%Nsilver bag.%K%P
 0x6B4
 ？？「こちらがご注文の品になります」%K%P
-??「Here is your order!」%K%P
+???「Here is your order!」%K%P
 0x6C0
 億彦はうやうやしく箱を受け取り、尋ねた。%K%P
 Okuhiko reverently accepts the box before asking her...%K%P
@@ -312,7 +312,7 @@ Okuhiko reverently accepts the box before asking her...%K%P
 Okuhiko「How much is it?」%K%P
 0x6E8
 ？？「１２００円です」%K%P
-??「1200 yen.」%K%P
+???「1200 yen.」%K%P
 0x6F4
 億彦が、ポケットから代金を取り出し、それを少女に手渡す。%K%P
 Okuhiko takes some money out of his pocket, and gives%Nit to the girl.%K%P
@@ -321,7 +321,7 @@ Okuhiko takes some money out of his pocket, and gives%Nit to the girl.%K%P
 After she takes it...%K%P
 0x714
 ？？「ありがとうございましたぁ♪」%K%P
-??「Thank you very much♪」%K%P
+???「Thank you very much♪」%K%P
 0x728
 ……深々と一礼し、元気良く走り去って行った。%K%P
 ... she gives a deep bow before energetically running off.%K%P

@@ -126,13 +126,13 @@ I see...%K%P
 All of a sudden, she says something.%K%P
 0x3F4
 ？？「ど%W%W……どういうこと！？」%K%P
-??「Wh... What's going on!?」%K%P
+???「Wh... What's going on!?」%K%P
 0x400
 何かに追い詰められている、といった感じの切迫した言い方だ。%K%P
 She sounds like she's frantically chasing after%Nsomething.%K%P
 0x40C
 ？？「どうして……！？」%K%P
-??「Why...!?」%K%P
+???「Why...!?」%K%P
 0x418
 繰り返す彼女。%K%N
 The girl repeats herself.%K%N
@@ -171,7 +171,7 @@ I give her the same comforting smile that I gave to the%Nlittle girl.%K%P
 Just then...%K%P
 0x4E0
 ？？「え…？%W%W%W　そう…%W%Wなの…？%Nそういう…%W%Wこと…%W%Wなの…？」%K%P
-??「Huh...? Is... that it...? So it... was just... that...?」%K%P
+???「Huh...? Is... that it...? So it... was just... that...?」%K%P
 0x4EC
 今度のは『オレに問い掛ける』と言うよりも、むしろ%N『自問自答している』といったふうな口調だった。%K%P
 Judging by the tone of her voice, I think she's only%Naddressing herself.%K%P
@@ -180,7 +180,7 @@ Judging by the tone of her voice, I think she's only%Naddressing herself.%K%P
 Either way, I still don't know what the hell is going on.%K%P
 0x504
 ？？「じゃあ、あれは……%W%Wあれは……」%K%P
-??「Then, that was... that was...」%K%P
+???「Then, that was... that was...」%K%P
 0x510
 ここに来て、オレはようやく彼女の言動の理由を%N察することができた。%K%P
 Oh, now I get it.%K%P
@@ -207,22 +207,22 @@ Makoto「Are you all right?」%K%P
 I ask this, still smiling.%K%P
 0x5A4
 ？？「あ、ああ……えっとぉ……」%K%P
-??「A-Ah... Um...」%K%P
+???「A-Ah... Um...」%K%P
 0x5B8
 ？？「……うん。大丈夫」%K%P
-??「... Yes. I'm fine.」%K%P
+???「... Yes. I'm fine.」%K%P
 0x5C4
 誠「あんまり大丈夫そうに見えないけど？」%K%P
 Makoto「Are you sure? You don't look too well to me.」%K%P
 0x5D0
 ？？「そう……%W%Wかなぁ？」%K%P
-??「You... think so?」%K%P
+???「You... think so?」%K%P
 0x5DC
 誠「顔色、悪いし」%K%P
 Makoto「Yeah, your face is really pale.」%K%P
 0x5F0
 ？？「え？」%K%P
-??「Huh?」%K%P
+???「Huh?」%K%P
 0x5FC
 彼女はそう言って、頬に両手を当て……%K%N
 She immediately draws her hand towards her cheek...%K%N
@@ -231,7 +231,7 @@ She immediately draws her hand towards her cheek...%K%N
 ... But then she unexpectedly bursts into laughter.%K%P
 0x61C
 ？？「でも、そう言う誠だって、墓場の底から出て来た%Nみたいな顔してるよ？」%K%P
-??「You say that, Makoto, but looking at your face, you'd%Nthink you just came crawling out from the bottom of a%Ngrave!」%K%P
+???「You say that, Makoto, but looking at your face, you'd%Nthink you just came crawling out from the bottom of a%Ngrave!」%K%P
 0x628
 誠「え？」%K%P
 Makoto「Huh?」%K%P
@@ -255,31 +255,31 @@ She definitely said that just now. Saying 'Makoto' just%Nlike that...%K%P
 Makoto「Hey, you know...」%K%P
 0x684
 ？？「ううん、いいのいいの……」%K%P
-??「No, it's okay...」%K%P
+???「No, it's okay...」%K%P
 0x690
 彼女はオレの言葉をさえぎって続ける。%K%P
 The girl interrupts me and continues.%K%P
 0x69C
 ？？「ほんと、何でもないから気にしないで！」%K%P
-??「Really, it was nothing, so don't worry about it!」%K%P
+???「Really, it was nothing, so don't worry about it!」%K%P
 0x6A8
 誠「いや、そのことじゃなくてっ」%K%P
 Makoto「No, I'm not talking about-」%K%P
 0x6BC
 ？？「ゴメンね。何か、いきなり押しかけちゃって」%K%P
-??「I'm sorry for suddenly intruding on you like that.」%K%P
+???「I'm sorry for suddenly intruding on you like that.」%K%P
 0x6C8
 ？？「ちょっと…何て言うか…勘違いって言うか……」%K%P
-??「It's just... how do I put it... I guess you could say I just%Nmade a misunderstanding...」%K%P
+???「It's just... how do I put it... I guess you could say I just%Nmade a misunderstanding...」%K%P
 0x6DC
 ？？「うん。まあとにかく、このことは忘れちゃって%N下さい」%K%P
-??「Right. Well, anyway, please forget that this ever%Nhappened.」%K%P
+???「Right. Well, anyway, please forget that this ever%Nhappened.」%K%P
 0x6E8
 誠「忘れちゃって、って」%K%P
 Makoto「Forget about it?」%K%P
 0x6F4
 ？？「そういうことだから、それじゃ、また後で」%K%P
-??「If you don't mind. Well then, I'll see you later.」%K%P
+???「If you don't mind. Well then, I'll see you later.」%K%P
 0x708
 誠「だからちょっとまっ」%K%P
 Makoto「W-wait a se-」%K%P
@@ -312,16 +312,16 @@ I don't want the situation to get any more awkward...%K%P
 Just then...%K%P
 0x80C
 ？？「え？　そうだった…の…？」%K%P
-??「Huh? Was that... it...?」%K%P
+???「Huh? Was that... it...?」%K%P
 0x818
 ？？「じゃあ、つまりあれって……」%K%P
-??「Then, in other words, that was...」%K%P
+???「Then, in other words, that was...」%K%P
 0x824
 言いながら、視線をさまよわせる彼女。ひどく混乱しているようだ。%K%P
 As she speaks, her eyes wander around the room. She%Nlooks really confused.%K%P
 0x830
 ？？「ただの『夢』……だったってこと？」%K%P
-??「It was just a... 'dream'?」%K%P
+???「It was just a... 'dream'?」%K%P
 0x83C
 誠「大丈夫？」%K%P
 Makoto「Are you all right?」%K%P
@@ -333,10 +333,10 @@ Makoto「You're still half asleep, aren't you?」%K%P
 I say this as I give her a sympathetic grin.%K%P
 0x894
 ？？「寝ぼけて……」%K%P
-??「Half asleep...」%K%P
+???「Half asleep...」%K%P
 0x8A8
 ？？「……うん。そうかも。そうだったみたい」%K%P
-??「... Yeah. That might be it. It seems that way.」%K%P
+???「... Yeah. That might be it. It seems that way.」%K%P
 0x8B4
 とは言うものの、イマイチ現実を上手く呑み込めていないらしい。%K%P
 Although she says that, it looks like she hasn't yet%Ngrasped that this is reality.%K%P
@@ -348,7 +348,7 @@ Makoto「What kind of dream was it?」%K%P
 I ask her this.%K%P
 0x8D8
 ？？「え？」%K%P
-??「Huh?」%K%P
+???「Huh?」%K%P
 0x8E4
 彼女が驚いたように聞き返す。%K%P
 She seems surprised, so I ask again.%K%P
@@ -357,10 +357,10 @@ She seems surprised, so I ask again.%K%P
 Makoto「Your dream. What was it about?」%K%P
 0x904
 ？？「う、うん……。それが……あんまりよく覚えてないんだよね」%K%P
-??「R-Right. It was... Well, I don't really remember it all that well.」%K%P
+???「R-Right. It was... Well, I don't really remember it all that well.」%K%P
 0x910
 ？？「ついさっきまでは、しっかりと覚えてたような気がするんだけど……」%K%P
-??「It's weird, though. I felt like I could remember it when I woke%Nup...」%K%P
+???「It's weird, though. I felt like I could remember it when I woke%Nup...」%K%P
 0x91C
 彼女はそう言って、頬に人差し指を当てた。%K%P
 She thoughtfully taps her cheek with her index finger.%K%P
@@ -375,13 +375,13 @@ Makoto「Like when you wake up from a dream cracking up, but%Nthen can't remembe
 Makoto「All that would be left behind would be a vague, pleasant%Nfeeling...」%K%P
 0x954
 ？？「そう。ほんとにそんな感じ。でも、私の場合は愉快な感覚なんかじゃなくて……」%K%P
-??「Right, kind of like that. Except, in my case, it wasn't a%Nvery happy one...」%K%P
+???「Right, kind of like that. Except, in my case, it wasn't a%Nvery happy one...」%K%P
 0x960
 誠「……？」%K%P
 Makoto「...?」%K%P
 0x974
 ？？「……絶望感%W%W……だったと思う」%K%P
-??「... I think it was... hopelessness.」%K%P
+???「... I think it was... hopelessness.」%K%P
 0x980
 彼女の表情が一瞬にして曇った。%K%P
 At that moment, her expression becomes dim.%K%P
@@ -393,22 +393,22 @@ At that moment, her expression becomes dim.%K%P
 Now that she mentions it, I also woke up this morning from%Na rather grim 「dream」...%K%P
 0x9AC
 ？？「でもよかったぁ」%K%P
-??「But I'm glad.」%K%P
+???「But I'm glad.」%K%P
 0x9B8
 今度は急に顔をほころばせる彼女。%K%P
 Suddenly, she begins to smile widely.%K%P
 0x9C4
 ？？「夢でよかったよ、ほんとに」%K%P
-??「I'm really glad it was just a dream.」%K%P
+???「I'm really glad it was just a dream.」%K%P
 0x9D0
 誠「ん？　じゃ、やっぱり覚えてるんじゃないか、夢の内容？」%K%P
 Makoto「Huh? But didn't you say you don't remember what%Nhappened in it?」%K%P
 0x9DC
 ？？「ううん、そういうんじゃなくて……。%W%W何て言うんだろ？%W%W　正確に言うと、夢が終わってくれてよかったなぁ……って」%K%P
-??「No, that's not it... How do I put this? I mean that I'm glad%Nthat the dream's finally over...」%K%P
+???「No, that's not it... How do I put this? I mean that I'm glad%Nthat the dream's finally over...」%K%P
 0x9E8
 ？？「よく覚えてないけど、とにかく最低な夢だったってことは確かだから」%K%P
-??「Even though I don't remember it, I'm sure it was the worst%Nnightmare I ever had.」%K%P
+???「Even though I don't remember it, I'm sure it was the worst%Nnightmare I ever had.」%K%P
 0x9F4
 よく見ると、彼女の全身がじっとりと汗に濡れているのがわかる。%K%P
 Looking closely at her, I realize that her entire body is%Nsoaked with sweat.%K%P
@@ -420,13 +420,13 @@ She looks like a patient who just escaped from a%Nhospital.%K%N
 Her face is pale too...%K%P
 0xA20
 ？？「ゴメンね。いきなり押しかけちゃって」%K%P
-??「Anyway, sorry for suddenly intruding on you.」%K%P
+???「Anyway, sorry for suddenly intruding on you.」%K%P
 0xA2C
 誠「いや、別に。%Nオレもちょうど起きたところだったから」%K%P
 Makoto「No, I don't mind. I myself just woke up as well.」%K%P
 0xA40
 ？？「ちょっと恥ずかしいよね。いきなり訳のわかんないこと言ったりして……これじゃなんか……夢遊病の人みたいだよ」%K%P
-??「I'm a little embarrassed right now, after spouting all of%Nthat gibberish out of the blue... It's like I was a%Nsleepwalker.」%K%P
+???「I'm a little embarrassed right now, after spouting all of%Nthat gibberish out of the blue... It's like I was a%Nsleepwalker.」%K%P
 0xA4C
 彼女は照れ笑いを浮かべながら、少し寝癖のついた髪を右手で撫でつけていた。%K%P
 She gives me a flustered grin as she tries to comb her%Nmessy bed hair with her right hand.%K%P
@@ -435,7 +435,7 @@ She gives me a flustered grin as she tries to comb her%Nmessy bed hair with her 
 In return, I smile back.%K%P
 0xA6C
 ？？「まあこのことは、無かったことにしといて！　誠と私だけの秘密ってことで」%K%P
-??「Let's just say this never happened, okay? This is a%Nsecret between you and me, Makoto.」%K%P
+???「Let's just say this never happened, okay? This is a%Nsecret between you and me, Makoto.」%K%P
 0xA78
 『うん』とオレが軽くうなずくのを確認して、彼女は部屋を出ていった。%K%P
 After I give a slight nod in agreement, she leaves the%Nroom.%K%P

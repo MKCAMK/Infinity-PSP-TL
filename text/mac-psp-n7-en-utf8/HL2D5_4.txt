@@ -3,7 +3,7 @@ text area offset and size:
 0x1446
 0x4C
 ？？「……起きてる？」%K%P
-??「... Are you awake?」%K%P
+???「... Are you awake?」%K%P
 0x68
 ドアをノックする音と誰かの声で、オレは目を覚ました。%K%P
 I am awakened by the sound of the door being knocked%Nand someone's voice.%K%P
@@ -18,7 +18,7 @@ I am awakened by the sound of the door being knocked%Nand someone's voice.%K%P
 Makoto「Yeah, it's open...」%K%P
 0xA0
 ？？「うん」%K%P
-??「Okay.」%K%P
+???「Okay.」%K%P
 0xD0
 誠「あっ……！」%K%P
 Makoto「Ah...!」%K%P
@@ -117,7 +117,7 @@ I knock again, harder this time, but there's no response.%K%P
 Makoto「Haruka! Haruka! Are you there!?」%K%P
 0x3CC
 ？？「誠……」%K%P
-??「Makoto...」%K%P
+???「Makoto...」%K%P
 0x3D8
 ふいに背後から声をかけられ、振り返った。%K%P
 Suddenly, I hear someone calling me from behind, so I%Nturn around.%K%P

@@ -36,7 +36,7 @@ The front door has has a plate with the word 「OPEN」%Nwritten on it.%K%P
 After a little while, we stop walking as we take in the sight%Nof the café interweaving itself with the late afternoon%Nsky.%K%P
 0x174
 ？？「あれ〜？　%Wもしかして……」%K%P
-??「Huh? Could you be...」%K%P
+???「Huh? Could you be...」%K%P
 0x180
 誠「え？」%K%P
 Makoto「Huh?」%K%P
@@ -57,7 +57,7 @@ Huh? This girl is...%K%P
 The girl places the broom against the wall, and runs over%Nto us.%K%P
 0x1EC
 ？？「えっと……、%W確か……%Wシーフードピザを注文した人達……%W%Wだよね？」%K%P
-??「Umm... you're... the people who ordered the seafood%Npizza... right?」%K%P
+???「Umm... you're... the people who ordered the seafood%Npizza... right?」%K%P
 0x1F8
 彼女は、お昼にピザの配達に来た子だった。%K%P
 She's the delivery girl who gave us the pizza for lunch.%K%P
@@ -87,7 +87,7 @@ Yuka「Ah. Okay.」%K%P
 Yuka gives a small nod of understanding.%K%P
 0x294
 ？？「エヘヘ……、いつもご利用頂き、ありがとうございます♪」%K%P
-??「Eheheh... thank you very much for your continued%Npatronage♪」%K%P
+???「Eheheh... thank you very much for your continued%Npatronage♪」%K%P
 0x2A0
 少女はペコリと頭を下げる。%K%N
 The girl bows her head.%K%N
@@ -123,7 +123,7 @@ Everybody's attention immediately turns towards her.%K%P
 Okuhiko「You're right, I'm a little tired from all that walking. Yeah,%Nlet's do that.」%K%P
 0x36C
 ？？「あ、うんうん。そうしちゃお〜♪」%K%P
-??「Ah, yeah, yeah. Do it〜♪」%K%P
+???「Ah, yeah, yeah. Do it〜♪」%K%P
 0x378
 億彦と少女は、その提案に賛成のようだ。%K%P
 This gives Yuka's idea two votes of approval.%K%P
@@ -195,7 +195,7 @@ The girl's inexperienced with interacting with people, so%Nthis camp must be a t
 The way Haruka glares at the delivery girl irks me a bit,%Nbut I think it's probably because of her aforementioned%Nexhaustion.%K%P
 0x50C
 ？？「……う〜ん。とりあえず、みんなＯＫなんだよね？」%K%P
-??「... Hmm. So does everyone agree?」%K%P
+???「... Hmm. So does everyone agree?」%K%P
 0x518
 誠「ん？　%Wああ、そうみたいだな」%K%P
 Makoto「Huh? Yeah, looks that way.」%K%P
@@ -204,19 +204,19 @@ Makoto「Huh? Yeah, looks that way.」%K%P
 The girl replies to my answer with a satisfied smile.%K%P
 0x540
 ？？「それじゃ〜、%N４名様、ルナビーチへご案な〜い♪」%K%P
-??「Well then, time to give you four a tour of Lunabeach♪」%K%P
+???「Well then, time to give you four a tour of Lunabeach♪」%K%P
 0x554
 オレ達は、少女に先導される形で喫茶店ルナビーチの入り口をくぐった。%K%P
 The girl guides us through Lunabeach's entrance.%K%P
 0x5B8
 ？？「お姉ちゃ〜ん、お客さんだよ〜♪」%K%P
-??「Onee-chan, we have customers〜♪」%K%P
+???「Onee-chan, we have customers〜♪」%K%P
 0x5C4
 ……へ？　%Wお姉……ちゃん？%K%P
 ... Huh? Onee... chan?%K%P
 0x600
 ？？「あら？　くるみが客寄せなんて珍しいじゃない」%K%P
-??「What's this? It's rare for Kurumi to attract customers.」%K%P
+???「What's this? It's rare for Kurumi to attract customers.」%K%P
 0x60C
 カウンターにいた女性が、笑顔でオレ達を%N迎え入れる。%K%P
 The woman behind the counter gives us a welcoming%Nsmile.%K%P
@@ -270,7 +270,7 @@ She's like a soulless doll...%K%P
 Yuka「U-Um, then if your sister is this shop's manager, does%Nthat mean you two own this...?」%K%P
 0x724
 ？？「ああ……違う違う。私はただのバイトで、くるみは私の手伝いをしてるだけなの」%K%P
-??「Ah... that's not it. I'm just working here part-time, and%NKurumi is working as my assistant.」%K%P
+???「Ah... that's not it. I'm just working here part-time, and%NKurumi is working as my assistant.」%K%P
 0x730
 優夏が少女に問い掛けると、代わりにカウンターの女性がそれに答える。%K%P
 The woman behind the counter answers Yuka's question%Nbefore she finishes.%K%P
@@ -585,7 +585,7 @@ We all turn around in surprise...%K%P
 Standing there is a girl with her hair tied up in a ponytail.%K%P
 0xE40
 ？？「『朝倉』ですけど、責任者の方、%Nいらっしゃいます？」%K%P
-??「My name is 'Asakura'. Is the manager here?」%K%P
+???「My name is 'Asakura'. Is the manager here?」%K%P
 0xE4C
 女の子はオレ達をじろっと眺め回す。%Kそんなに背が高いわけじゃないのだが、なぜがオレははるか上方から見下ろされているような気がした。%K%P
 The girl scans all of us. Even though she's not really that%Ntall, I feel like I'm being looked down upon.%K%P
@@ -597,7 +597,7 @@ Izumi「Yes... That would be me...」%K%P
 Izumi-san answers with a vacant expression. It's as if%Nshe's not intimidated by this rich-looking girl. She's really%Nsomething.%K%P
 0xE98
 ？？「どういうことなんですか！？」%K%P
-??「What's the meaning of this!?」%K%P
+???「What's the meaning of this!?」%K%P
 0xEA4
 突然の大声だ。%Kオレ達はみんな凍りついた。%K%P
 She suddenly shouts. We're all frozen in place.%K%P

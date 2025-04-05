@@ -3,7 +3,7 @@ text area offset and size:
 0x390F
 0x18
 ？？「くすくす……」%K%P
-??「Hee hee...」%K%P
+???「Hee hee...」%K%P
 0x58
 声のした方向を見ると、いづみさんがプールの縁に座って、オレを眺めていた。%K%P
 I turn to find Izumi-san, giggling as she watches me by%Nthe edge of the pool.%K%P
@@ -171,7 +171,7 @@ Izumi「Well then, let's go.」%K%P
 Makoto「Ready... Set...」%K%P
 0x388
 ？？「ド〜〜ン！」%K%P
-??「GOOOO!」%K%P
+???「GOOOO!」%K%P
 0x394
 誠「は？」%K%P
 Makoto「Huh?」%K%P

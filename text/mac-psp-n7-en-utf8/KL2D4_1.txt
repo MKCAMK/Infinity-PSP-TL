@@ -3,16 +3,16 @@ text area offset and size:
 0xC9D
 0x170
 ？？「お兄ちゃん！」%K%P
-??「Onii-chan!」%K%P
+???「Onii-chan!」%K%P
 0x17C
 ？？「お兄ちゃんってばぁ！」%K%P
-??「Hey, Onii-chan!」%K%P
+???「Hey, Onii-chan!」%K%P
 0x188
 誠「ん？　……う〜ん……」%K%P
 Makoto「Hmm? ... Zzz...」%K%P
 0x194
 ？？「もうっ、早く起きないと遅刻しちゃうよ！？」%K%P
-??「Geez, if you don't wake up soon, aren't you going to be%Nlate!?」%K%P
+???「Geez, if you don't wake up soon, aren't you going to be%Nlate!?」%K%P
 0x1A0
 オレはゆっくりと目を開いた……。%K%P
 I slowly open my eyes...%K%P

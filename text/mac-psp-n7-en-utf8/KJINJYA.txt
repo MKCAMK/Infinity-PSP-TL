@@ -267,13 +267,13 @@ Kurumi「Well then, shall we... go in?」%K%P
 And then, in the instant Kurumi mutters this!%K%P
 0x574
 ？？「コラーッ！！！」%K%P
-??「HEY!!!」%K%P
+???「HEY!!!」%K%P
 0x588
 ──闇夜をつんざくような怒鳴り声がとどろく！%K%P
 ―A shout that could pierce the darkness breaks out%Nlike a roar!%K%P
 0x594
 ？？「どこのガキじゃ、お前らぁ！！！」%K%P
-??「Who the hell are you damn kids!!!?」%K%P
+???「Who the hell are you damn kids!!!?」%K%P
 0x5A0
 あたりをキョロキョロ見回すが、まわりの森に%N反響して、声の主がどこにいるのかわからない。%K%P
 Startled, we look around us, but we can't find the owner%Nof the voice which has caused even the surrounding%Ntrees to shake.%K%P
@@ -432,13 +432,13 @@ Makoto「Damn you... Kurumi!」%K%P
 And then, in the instant I yell this!%K%P
 0x924
 ？？「コラーッ！！！」%K%P
-??「HEY!!!」%K%P
+???「HEY!!!」%K%P
 0x938
 ──闇夜をつんざくような怒鳴り声がとどろいた！%K%P
 ―A shout that could pierce the darkness breaks out%Nlike a roar!%K%P
 0x944
 ？？「どこのガキじゃ、お前らぁ！！！」%K%P
-??「Who the hell are you damn kids!!!?」%K%P
+???「Who the hell are you damn kids!!!?」%K%P
 0x950
 あたりをキョロキョロ見回すが、まわりの森に%N反響して、声の主がどこにいるのかわからない。%K%P
 Startled, we look around us, but we can't find the owner%Nof the voice which has caused even the surrounding%Ntrees to shake.%K%P
