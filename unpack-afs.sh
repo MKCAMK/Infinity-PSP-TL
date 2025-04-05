@@ -53,7 +53,7 @@ for i in ${GAME}_$PKG/*.FOP ; do
 	$DECOMPRESS ${GAME}_$PKG/$f{.FOP,.FNT} || exit 1
 done
 
-mkdir -p text/font/${GAME}/
+mkdir -p text/font/${GAME}
 cp ${GAME}_$PKG/FONT00.FNT text/font/${GAME}/FONT00.FNT
 
 #PKG=bg

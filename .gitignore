@@ -13,9 +13,9 @@
 /text/font/FONT*
 /text/font/glyphs/
 /text/font/glyphs-cn/
-/text/font/e17/
-/text/font/n7/
-/text/font/r11/
+/text/font/e17*/
+/text/font/n7*/
+/text/font/r11*/
 
 /iso/*.iso
 /iso/*.dax
