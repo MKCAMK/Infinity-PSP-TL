@@ -14,8 +14,10 @@ del lines[:3]
 for i in range(len(lines) // 3):
     i *= 3
     if lines[i+2] == '\n': continue
-    count_jp = lines[i+1].count('%')
-    count_en = lines[i+2].count('%')
+    jp_line = lines[i+1].replace('%N', '')
+    en_line = lines[i+2].replace('%N', '')
+    count_jp = jp_line.count('%')
+    count_en = en_line.count('%')
     if count_jp != count_en:
         print('line {}: mismatch! {} in jp, {} in en'.format(i+3+1, count_jp, count_en))
         print(lines[i+1], lines[i+2], sep='')

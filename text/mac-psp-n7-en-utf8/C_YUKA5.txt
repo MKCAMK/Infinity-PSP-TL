@@ -513,7 +513,7 @@ It might actually be a bad thing...%K%P
 As I'm gradually being lulled into sleep, I recall the night I%Nsaw the shooting star with Makoto...%K%P
 0xCDC
 ？？「優夏……、優夏……！」%K%P
-??「Yuka... Yuka...!」%K%P
+???「Yuka... Yuka...!」%K%P
 0xCE8
 私を呼ぶ声がする……。%K%P
 I hear someone calling my name...%K%P
@@ -522,7 +522,7 @@ I hear someone calling my name...%K%P
 Yuka「Hmm? ...Mmm...」%K%P
 0xD00
 ？？「早く起きないと、遅刻しちゃうよ？」%K%P
-??「If you don't get up soon, you'll be late, right?」%K%P
+???「If you don't get up soon, you'll be late, right?」%K%P
 0xD0C
 ──ち、ちこく！？%K%P
 ―L-Late!?%K%P
@@ -2286,25 +2286,25 @@ Yuka「Then what should the Fourth Law be?」%K%P
 Saki「Good question...」%K%P
 0x37D8
 ？？「２人で、何考えてんの？」%K%P
-??「What are you two thinking about?」%K%P
+???「What are you two thinking about?」%K%P
 0x37E4
 優夏「わあっ！！　ちょっとぉ！　聞いてたの！？」%K%P
 Yuka「Waah!! Hey! Were you listening!?」%K%P
 0x37F0
 ？？「嫌でも聞こえてくるよ」%K%P
-??「I wasn't aware that listening was a crime.」%K%P
+???「I wasn't aware that listening was a crime.」%K%P
 0x37FC
 沙紀「もぉ！　内緒の話なんだからーー！！」%K%P
 Saki「Geez! This is a private conversation―!!」%K%P
 0x3808
 ？？「悪い、悪い。……それよりさ、こういうのはどう？」%K%P
-??「My bad, my bad... More importantly, how about this?」%K%P
+???「My bad, my bad... More importantly, how about this?」%K%P
 0x3814
 優夏「ん？？」%K%P
 Yuka「Hmm??」%K%P
 0x3820
 ？？「男は度胸、女は愛嬌」%K%P
-??「Men are courageous, women are charming.」%K%P
+???「Men are courageous, women are charming.」%K%P
 0x382C
 沙紀「……何、それ？」%K%P
 Saki「...What's that?」%K%P

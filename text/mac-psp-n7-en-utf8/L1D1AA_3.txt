@@ -3,7 +3,7 @@ text area offset and size:
 0x1185
 0x5C
 ？？「やあ！」%K%P
-??「Hey!」%K%P
+???「Hey!」%K%P
 0x68
 それは鳥肌が立つほど嫌味な『やあ！』だった。%K%N
 He says that in such a gaudy voice that it causes me to%Nshiver repulsively.%K%N
@@ -15,7 +15,7 @@ It resembles the greeting of a dictator looking down on%Nhis people.%K%P
 He looks at me as I stand still in the center of the room,%Nthen turns his attention towards the silent girl.%K%P
 0x94
 ？？「あれぇ？　ひょっとして……オジャマだったかな？」%K%P
-??「Huh? I'm not... interrupting something, am I?」%K%P
+???「Huh? I'm not... interrupting something, am I?」%K%P
 0xA8
 オレの方は見ず、彼女だけに向かって語りかけているようだ。%K%N
 He asks the girl this as he ignores my presence.%K%N
@@ -24,7 +24,7 @@ He asks the girl this as he ignores my presence.%K%N
 Of course, she doesn't answer him.%K%P
 0xC8
 ？？「……って、そんなわけないかぁ。ははっ」%K%P
-??「Nah, there's no way it's like that. Ha ha ha!」%K%P
+???「Nah, there's no way it's like that. Ha ha ha!」%K%P
 0xDC
 笑いながら、再びチラッとオレの方を見る。%K%N
 While laughing, he glares at me again.%K%N
@@ -135,7 +135,7 @@ No, I could occasionally hear the faint sound of the man%Ngulping down his wine,
 Before long, the girl from the round table noticed me...%K%P
 0x338
 ？？「あ、お疲れ様ぁ〜」%K%P
-??「Ah, glad you could make it〜」%K%P
+???「Ah, glad you could make it〜」%K%P
 0x344
 ……と声をかけてきた。%K%P
 ... Is what she said.%K%P
@@ -144,13 +144,13 @@ Before long, the girl from the round table noticed me...%K%P
 From the way she said that, it seemed like she was much%Nmore tired than me.%K%P
 0x35C
 ？？「えーっと、確か『石原……%W%W%W誠くん』だったよね？」%K%P
-??「Um, you're Makoto-kun... that is, 'Makoto Ishihara'... right?」%K%P
+???「Um, you're Makoto-kun... that is, 'Makoto Ishihara'... right?」%K%P
 0x368
 誠「あ、ああ……」%K%P
 Makoto「Y-Yeah...」%K%P
 0x37C
 ？？「どうもはじめまして♪」%K%P
-??「It's nice to meet you♪」%K%P
+???「It's nice to meet you♪」%K%P
 0x388
 優夏「私は『優夏』…%W%W『川島優夏』。何故だか知らない%Nけど、気がついたら『班長』とかいう厄介な役職に%N任命されてた」%K%P
 Yuka「I'm Yuka... 'Yuka Kawashima'. I really don't know why, but%Nbefore I knew it, I became the 'leader' of this group.」%K%P

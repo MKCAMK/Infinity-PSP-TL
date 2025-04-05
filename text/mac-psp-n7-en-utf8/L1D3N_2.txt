@@ -303,7 +303,7 @@ Everyone tails closely behind her, as if they're begging%Nher not to leave them 
 Just as I'm about to step into the thicket...%K%P
 0x8B0
 ？？「ね、%W%Wねぇ……%W%W誠……」%K%P
-??「H-Hey... Makoto...」%K%P
+???「H-Hey... Makoto...」%K%P
 0x8BC
 ……後ろから、ふいに呼びかけられて振り向いた。%K%P
 ... I turn around when someone behind me suddenly calls%Nme.%K%P
@@ -429,7 +429,7 @@ Everyone tails closely behind her, as if they're begging%Nher not to leave them 
 Just as I'm about to step into the thicket...%K%P
 0xB04
 ？？「ねぇ、誠くん……」%K%P
-??「Hey, Makoto-kun...」%K%P
+???「Hey, Makoto-kun...」%K%P
 0xB10
 ……後ろから、ふいに呼びかけられて振り向いた。%K%P
 ... I turn around when someone behind me suddenly calls%Nmy name.%K%P
@@ -1533,7 +1533,7 @@ The tension in the air is like a strung up string...%K%N
 Shivers run up my spine...%K%P
 0x2860
 ？？「わあっ！！！」%K%P
-??「WAH!!!」%K%P
+???「WAH!!!」%K%P
 0x286C
 突如、草の間からヌラッと現われ出たのは白い生首だった。%K%P
 Suddenly, a white, freshly severed head appears out of%Nthe bushes.%K%P
@@ -2043,7 +2043,7 @@ Makoto「Ummmm-」%K%P
 Kurumi「What do you-」%K%P
 0x33C0
 ？？「あっ、見ーつけた！！」%K%P
-??「Oh, found it!!」%K%P
+???「Oh, found it!!」%K%P
 0x3400
 くるみ「あーーーーーーっ！！」%K%P
 Kurumi「AHHHHHHHH!!」%K%P
@@ -2169,13 +2169,13 @@ Haruka「My...」%K%P
 ―Then, at that time.%K%P
 0x36C8
 ？？「キェェェェェェェアァァァァァァァ！！！」%K%P
-??「KYAAAAAAAAAAAAAAAAAAAAA!!!」%K%P
+???「KYAAAAAAAAAAAAAAAAAAAAA!!!」%K%P
 0x36F0
 背後から聞こえた凄まじい叫び声に、オレと遙は振り向いた。%K%P
 Haruka and I turn around upon hearing this bloodcurdling%Nscream from behind us.%K%P
 0x36FC
 ？？「うわ〜〜〜〜〜んっ！！」%K%P
-??「WAAAAAAAAAAAHHHHHH!!」%K%P
+???「WAAAAAAAAAAAHHHHHH!!」%K%P
 0x3708
 泣き声をあげながら、こちらに向かって猛スピードで駆け寄って来る黒い影は……%K%P
 As the crying gets louder, we see a black shadow%Nrunning towards us with great speed...%K%P

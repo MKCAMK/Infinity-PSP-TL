@@ -3,7 +3,7 @@ text area offset and size:
 0x1504
 0x154
 ？？「……起きてる？」%K%P
-??「... Are you awake?」%K%P
+???「... Are you awake?」%K%P
 0x170
 深夜、遠慮がちなノックの音と共に、今や聞き慣れた、涼やかな声が漏れてきた。%K%P
 Late at night, I hear a quiet knock on the door, along with%Na clear voice I've now become accustomed to.%K%P
@@ -12,7 +12,7 @@ Late at night, I hear a quiet knock on the door, along with%Na clear voice I've 
 Makoto「Yeah. It's open, so come on in.」%K%P
 0x188
 ？？「……うん」%K%P
-??「... All right.」%K%P
+???「... All right.」%K%P
 0x1B0
 もちろん、薄暗い部屋に入って来たのは遙だった。%K%P
 Of course, the one who comes into the dim room is Haruka.%K%P
