@@ -70,9 +70,13 @@ repack_mac_afs () {
 # compose_font builds the font file
 compose_font () {
 	mkdir -p ${GAME}_etc_${TL_SUFFIX}
-	cd text/font/${GAME}
+	if [ ! -d text/font/${GAME}-${TL_SUFFIX} ]; then
+		mkdir -p text/font/${GAME}-${TL_SUFFIX}/glyphs
+		cp -f text/font/${GAME}/glyphs/* text/font/${GAME}-${TL_SUFFIX}/glyphs/
+	fi
+	cd text/font/${GAME}-${TL_SUFFIX}
 	cp -f ../glyphs-new/* glyphs/
-	if [ "cn" == "$TL_SUFFIX" ]; then
+	if [ "cn" = "$TL_SUFFIX" ]; then
 		7z x ../glyphs-cn.7z
 		mv -f ../glyphs-cn/* glyphs/
 	else
