@@ -351,7 +351,7 @@ I thought I had said enough.%K%P
 (But still...)%K%P
 0x81C
 つぐみ「いえ……やっぱり、関係あるかもしれない、か」%K%P
-Tsugumi「No... Well, actually, it might have something to do with you.」%K%P
+Tsugumi「No... Well, actually, it might have something to do with%Nyou.」%K%P
 0x828
 少年「え？」%K%P
 Kid「What?」%K%P
@@ -492,7 +492,7 @@ Kid「I'm right, aren't I?」%K%P
 Kid「So it's not just me then.」%K%P
 0xAA8
 少年「でも、なんで突然、予知なんてできるようになったんだろう……」%K%P
-Kid「But how come I can see into the future all of a sudden...?」%K%P
+Kid「But how come I can see into the future all of a%Nsudden...?」%K%P
 0xABC
 つぐみ「…………」%K%P
 Tsugumi「.........」%K%P

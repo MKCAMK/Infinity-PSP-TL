@@ -300,7 +300,7 @@ Looking closely, I saw that a mock relief was carved into the wall.%K%P
 As I absentmindedly stared at the wall, You walked over to one of the collapsed obelisks and sat down, hugging her knees.%K%P
 0x708
 優「このへんのエリアはね？　『太陽の神殿』って場所なの」%K%P
-You「This is a strange place, huh? It's called the 'Sun Temple'.」%K%P
+You「This is a strange place, huh? It's called the 'Sun%NTemple'.」%K%P
 0x714
 少年「太陽？」%K%P
 Kid「Sun?」%K%P
@@ -438,7 +438,7 @@ Actually, I had been feeling the same thing.%K%P
 The reason that I hadn't been able to realize it was maybe that I didn't want to face reality.%K%P
 0x9BC
 そっと、優の横顔を窺う。%K%P
-I sneaked a looked at You's face.%K%P
+I sneaked a look at You's face.%K%P
 0x9C8
 彼女は膝小僧をきゅっと掴み、その頼りなげな視線を水面へと向けている。%K%P
 She clutched her knees and turned her helpless gaze to the water's surface.%K%P

@@ -216,7 +216,7 @@ Kid「Really?」%K%P
 Sara「Yup.」%K%P
 0x568
 沙羅「なんせ、なっきゅ先輩の為だからね。協力しないわけにはいかないっしょ？」%K%P
-Sara「I mean, it's to help Nakkyu, right? I can't very well say no.」%K%P
+Sara「I mean, it's to help Nakkyu, right? I can't very well say%Nno.」%K%P
 0x574
 少年「あ、ありがとう！」%K%P
 Kid「Th-Thanks!」%K%P
@@ -477,7 +477,7 @@ You「For example, say that 'E' is the letter. That can either be encrypted as a
 You「So when this becomes a 2-bit key, the possibilities are double the code, or four.」%K%P
 0xAF4
 優「さっきの例なら、『Ｅ』の文字は、『００』『０１』『１０』『１１』のどれかに変換されるってこと」%K%P
-You「So, for the example of 'E,' it would be either 00, 01, 10, or 11.」%K%P
+You「So, for the example of 'E,' it would be either 00, 01, 10, or%N11.」%K%P
 0xB00
 優「これが３ｂｉｔの鍵になると……」%K%P
 You「So, with a 3-bit key...」%K%P
@@ -1023,7 +1023,7 @@ Sora「Do you all know the meaning of what you are doing?」%K%P
 Kid「Sora! Please listen to what we have to say first.」%K%P
 0x155C
 少年「レミを作ったメンバーの中に、優のお父さんがいたんだ」%K%P
-Kid「You's father was a member of the team that made LeMMIH.」%K%P
+Kid「You's father was a member of the team that made%NLeMMIH.」%K%P
 0x1568
 少年「つまり、空のお父さんのひとりでもあるんだよ」%K%P
 Kid「In other words, he's your father too, Sora.」%K%P
@@ -1806,7 +1806,7 @@ Sora nodded slightly as she spoke.%K%P
 Kid「Hey, there's something I'd like to know...」%K%P
 0x2678
 少年「沙羅はいったい、どんな風にシステムを書き換えたの？」%K%P
-Kid「Sara, what in the world did you do to rewrite the system?」%K%P
+Kid「Sara, what in the world did you do to rewrite the%Nsystem?」%K%P
 0x268C
 沙羅「うんとねぇ……実際には何も変えてないの」%K%P
 Sara「Uh, well... Actually, I didn't change anything.」%K%P
@@ -1890,7 +1890,7 @@ You「What are you talking about? You're the one that persuaded Sara to help, ri
 Sora「And my decision was based on your words of wisdom.」%K%P
 0x27F8
 『ぼくらも、それと同じことを、望んでいる』%K%P
-'We want the same thing.`%K%P
+「We want the same thing.」%K%P
 0x2804
 空「少年さんの一言で、私は決意することができたのです」%K%P
 Sora「It was your advice that helped me to make up my mind.」%K%P
@@ -2025,7 +2025,7 @@ You「.........」%K%P
 Sora「First, I tried to search for information on Tanaka-san's father.」%K%P
 0x2AE0
 空「しかし『タナカヨウイチ』なる人物が存在した記録は、このＬｅＭＵ内のデータベースには一切保存されておりませんでした」%K%P
-Sora「However, there were no files pertaining to 'Tanaka Yoichi' recorded in LeMU's database.」%K%P
+Sora「However, there were no files pertaining to 'Tanaka%NYoichi' recorded in LeMU's database.」%K%P
 0x2AEC
 空「つまり、同姓同名の人物さえ存在しないということです」%K%P
 Sora「In other words, there are no records that anyone by that name existed.」%K%P
@@ -2307,7 +2307,7 @@ A > But we really shouldn't talk about this at the company.%K%P
 B > Why?%K%N
 0x2FD8
 Ａ＞それはまた今度%K%N
-A > I'll tell you about later.%K%N
+A > I'll tell you later.%K%N
 0x2FE4
 Ｂ＞Ｙöｉｃｈｉさんが亡くなられたのって１９年前でしょ？%K%N
 B > But Yöichi-san died 19 years ago, right?%K%N
