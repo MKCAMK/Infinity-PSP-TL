@@ -519,7 +519,7 @@ So we were able to narrow it down to possibilities two and four.%K%N
 「2. Yoichi had not actually died, but only disappeared seventeen years ago. However, Yukie had passed away fifteen years ago.」%K%N
 0xB20
 『４：陽一氏は３４年前に、ゆきえ氏は１５年前にこの世を去った』%K%O
-「4. Yoichi had died 34 years ago and Yukie 15 years ago.」%K%O
+「4. Yoichi had died 34 years ago and Yukie 15 years%Nago.」%K%O
 0xB38
 さて、ゆきえ氏が亡くなっていると仮定すると、優の母親は今まで嘘をついてきた、ということになる。%K%N
 We deduced that if Yukie was dead then that meant that You's mother had been lying to her all these years.%K%N
@@ -534,7 +534,7 @@ If we could determine that Yukie was lying, then the reliability of her informat
 That would strongly boost the possibility that the fourth theory was right.%K%N
 0xB68
 『４：陽一氏は３４年前に、ゆきえ氏は１５年前にこの世を去った』%K%O
-「4. Yoichi had died 34 years ago and Yukie 15 years ago.」%K%O
+「4. Yoichi had died 34 years ago and Yukie 15 years%Nago.」%K%O
 0xBDC
 少年「う〜〜〜〜〜ん！」%K%P
 Kid「Hmmmmmmmm!」%K%P
