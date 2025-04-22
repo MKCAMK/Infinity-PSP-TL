@@ -3,7 +3,7 @@
 #
 GIMCONV="./tools/GimConv/GimConv.exe"
 DECOMPRESS="./bin/decompressbip"
-REPACK_AFS="./bin/repack_afs"
+UNPACK_AFS="./bin/unpack_afs"
 
 [ -z "$GAME" ] && export GAME=e17
 
@@ -12,7 +12,7 @@ WORK_DIR="./workdir-${GAME}"
 
 unpack_afs () {
 	echo Unpacking $1.afs
-	$REPACK_AFS $WORK_DIR/$1.afs /dev/null /dev/null ${GAME}_$1/ || exit 1
+	$UNPACK_AFS $WORK_DIR/$1.afs ${GAME}_$1/ || exit 1
 }
 
 mkdir -p $WORK_DIR

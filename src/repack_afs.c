@@ -1,108 +1,156 @@
-#include "my_mmap.h"
-#include <unistd.h>
+#define _POSIX_C_SOURCE 1
+#define _CRT_SECURE_NO_WARNINGS
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <assert.h>
+
+#if defined(__unix__) || defined(__unix) || (defined(__APPLE__) && defined(__MACH__))
+#include <limits.h>
+#elif defined(_WIN32)
+#ifndef PATH_MAX
+#define PATH_MAX _MAX_PATH
+#endif
+#else
+#define PATH_MAX 1000
+#endif
+
+#define AFS_ALIGN(x) ((x+0x7ff)&~0x7ff) /* 2048(0x800)-byte alignment */
+#define AFS_MAGIC "AFS"
+
+#pragma pack(push, 1)
 struct sta {
-    int pos;
-    int len;
-};
+    unsigned pos;
+    unsigned len;
+} /* __attribute__((packed)) */;
+#pragma pack(pop)
 
+#pragma pack(push, 1)
 struct stb {
     char name[32];
-    int filetype;
-    int stuff1;
-    int stuff2;
-    int len;
-};
+    int unk1; /* filetype ? */
+    int unk2;
+    int unk3;
+    unsigned len;
+} /* __attribute__((packed)) */;
+#pragma pack(pop)
 
-int main(int argc, char **argv) {
-    assert2(argc>=4 && argc<=5, "usage: %s in.afs out.afs en/ [ja/]\n", argv[0]);
-    char *endir = argv[3];
-    char *jadir = argc==5 ? argv[4] : NULL;
-    off_t size;
-    void *map = mmap_file(argv[1], &size);
-    assert2(map, "can't open %s\n", argv[1]);
-    assert2(!strncmp(map,"AFS",4), "not a afs file\n");
-    int entries = *(int*)(map+4);
-    assert(entries*8+8<=size);
-    struct sta *stas = map+8;
-    int i;
-    
-    for(i=0; i<entries; i++) {
-        assert(stas[i].pos + stas[i].len <= size);
-        // assert(stas[i].len > 0);
+int main(int argc, char *argv[]) {
+    char *endir, magic[sizeof(AFS_MAGIC)];
+    size_t sret;
+    FILE *fin, *fout;
+    unsigned i, entries, pos;
+    struct sta *stas;
+    struct stb *stbs;
+
+    if (argc != 4) {
+        printf("usage: %s in.afs out.afs en/\n", argv[0]);
+        return 0;
     }
-    
-    // for(i=1; i<entries; i++)
-    //     assert(stas[i].pos == ((stas[i-1].pos + stas[i-1].len + 0x7ff) & ~0x7ff));
-    
-    struct sta *statoc = stas+entries;
-    if(*(uint64_t*)statoc == 0)
-        statoc = map+stas[0].pos-8;
-        
-    assert(sizeof(struct stb) == 48);
-    assert(statoc->len == entries*48);
-    assert(statoc->pos + statoc->len <= size);
-    struct stb *stbs = map + statoc->pos;
-    
-    
-    // if(!strcmp(argv[1], "mac.orig.afs")) {
-    //     for(i=0; i<entries; i++) {
-    //         assert(stbs[i].len == stas[i].len);
-    //         assert(stbs[i].stuff0 == 0x107d4);
-    //         assert((stbs[i].stuff1 & 0xff00ffff) == 0x1c);
-    //     }
-    // }
-    
+    endir = argv[3];
 
-    if(jadir) {
-        mkdir(jadir, 0755);
-        assert2(!chdir(jadir), "chdir failed\n");
-        for(i=0; i<entries; i++) {
-			if (stas[i].pos == 0) { continue; }
-            printf("-> %s\n", stbs[i].name);
-            assert2(stbs[i].name[0] != '/' && !strstr(stbs[i].name, ".."), "unsafe filename\n");
-            write_file(stbs[i].name, map+stas[i].pos, stas[i].len);
+    fin = fopen(argv[1], "rb");
+    if (!fin) {
+        printf("failed to open %s\n", argv[1]);
+        return 1;
+    }
+
+    sret = fread(magic, 1, sizeof(AFS_MAGIC), fin);
+    assert(sret == sizeof(AFS_MAGIC));
+    if (memcmp(magic, AFS_MAGIC, sizeof(AFS_MAGIC)) != 0) {
+        printf("not an AFS archive\n");
+        return 1;
+    }
+
+    sret = fread(&entries, sizeof(unsigned), 1, fin);
+    assert(sret == 1);
+
+    stas = malloc((entries+1)*sizeof(struct sta));
+    assert(stas);
+    sret = fread(stas, sizeof(struct sta), entries+1, fin);
+    assert(sret == entries+1);
+
+    stbs = malloc(entries*sizeof(struct stb));
+    assert(stbs);
+    fseek(fin, stas[entries].pos, SEEK_SET);
+    sret = fread(stbs, sizeof(struct stb), entries, fin);
+    assert(sret == entries);
+
+    fout = fopen(argv[2], "wb");
+    if (!fout) {
+        printf("failed to open %s\n", argv[2]);
+        return 1;
+    }
+
+    sret = fwrite(AFS_MAGIC, 1, sizeof(AFS_MAGIC), fout);
+    assert(sret == sizeof(AFS_MAGIC));
+    sret = fwrite(&entries, sizeof(unsigned), 1, fout);
+    assert(sret == 1);
+    pos = AFS_ALIGN(8+(entries+1)*sizeof(struct sta));
+    for (i = 0; i < entries; ++i) {
+        FILE *fh;
+        char *buffer, name[PATH_MAX+31+1];
+        int len;
+
+		if (stas[i].pos == 0) {
+            continue;
         }
-        assert2(!chdir(".."), "chdir failed\n");
-    }
+        fseek(fout, 8+i*sizeof(struct sta), SEEK_SET);
 
-    int out_size = size*4;
-    void *out = calloc(1, out_size);
-    #define ALIGN(x) ((x+0x7ff)&~0x7ff)
-    int off = ALIGN(entries*8+16); // 8==sizeof(sta); 16 - header
-    
-    for(i = 0; i < entries; i++) {
-		if (stas[i].pos == 0) { continue; }
-
-        //opening and mapping the file from the table
-        char name[1000];
+        /* opening and mapping the file from the table */
+        if ((strlen(endir) + strlen(stbs[i].name) + 2) > PATH_MAX) {
+            printf("file path is too long! %s/%s\n", endir, stbs[i].name);
+            return 1;
+        }
         sprintf(name, "%s/%s", endir, stbs[i].name);
-        FILE *fh = fopen(name, "r");
-        void *p;
-        if(fh) {
+        fh = fopen(name, "rb");
+        if (fh) {
             printf("<- %s\n", stbs[i].name);
-            p = mmap_file(name, &size); 
+            fseek(fh, 0, SEEK_END);
+            len = ftell(fh);
+            assert(len > 0);
+            rewind(fh);
+            buffer = malloc(len);
+            assert(buffer);
+            sret = fread(buffer, 1, len, fh);
+            assert((int)sret == len);
         } else {
-            // or just copying the current content
-            p = map+stas[i].pos;
-            size = stas[i].len;
+            fseek(fin, stas[i].pos, SEEK_SET);
+            /* or just copying the current content */
+            len = stas[i].len;
+            buffer = malloc(len);
+            assert(buffer);
+            sret = fread(buffer, 1, len, fin);
+            assert((int)sret == len);
         }
 
-        assert(off+size < out_size);
-        memcpy(out+off, p, size);
-        stas[i].pos = off;
-        stas[i].len = stbs[i].len = size;
-        off = ALIGN(off+size);
-        if(fh) {
-            munmap(p, size);
+        sret = fwrite(&pos, sizeof(unsigned), 1, fout);
+        assert(sret == 1);
+        sret = fwrite(&len, sizeof(int), 1, fout);
+        assert(sret == 1);
+
+        fseek(fout, pos, SEEK_SET);
+        sret = fwrite(buffer, 1, len, fout);
+        assert((int)sret == len);
+        pos += AFS_ALIGN(len);
+
+        if (fh) {
             fclose(fh);
         }
+        free(buffer);
     }
-    memcpy(out, map, entries*8+8);
-    memcpy(out+off, stbs, entries*sizeof(struct stb));
-    *(int*)(out+stas[0].pos-8) = off;
-    *(int*)(out+stas[0].pos-4) = entries*sizeof(struct stb);
-    out_size = ALIGN(off+entries*sizeof(struct stb));
-    write_file(argv[2], out, out_size);
+    fclose(fin);
+    sret = fwrite(&stas[entries], sizeof(struct sta), 1, fout);
+    assert(sret == 1);
+    fseek(fout, stas[entries].pos, SEEK_SET);
+    sret = fwrite(stbs, sizeof(struct stb), entries, fout);
+    assert(sret == entries);
+    fseek(fout, AFS_ALIGN(stas[entries].pos+stas[entries].len)-1, SEEK_SET);
+    fputc(0, fout);
+
+    free(stas);
+    free(stbs);
+    fclose(fout);
     return 0;
 }
