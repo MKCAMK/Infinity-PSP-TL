@@ -648,7 +648,7 @@ Sara's coffee came with milk and the sugar bowl.%K%P
 Kid「H-Hey.」%K%P
 0xE1C
 少年「ねえ、コーヒーには不純物を入れちゃイケナイんでしょ？」%K%P
-Kid「Didn't you say that you weren't supposed to put anything in coffee?」%K%P
+Kid「Didn't you say that you weren't supposed to put impurities in coffee?」%K%P
 0xE30
 優「いいのいいの、マヨだけは特別なんだから」%K%P
 You「It's okay. Mayo is a special exception.」%K%P
@@ -660,16 +660,16 @@ Sara「Yup.」%K%P
 You/Sara「That's right〜」%K%P
 0xE5C
 少年「差別だよ」%K%P
-Kid「Hey, that's not fair.」%K%P
+Kid「That's discrimination...」%K%P
 0xE70
 優「あ、差別なんて、人聞き悪〜い」%K%P
-You「Oh, stop complaining!」%K%P
+You「Ah, discrimination sounds so harsh〜」%K%P
 0xE7C
 沙羅「うむうむ、区別と言って欲しいでござるな」%K%P
-Sara「Senpai and I are different than you, that's all.」%K%P
+Sara「Yeah, yeah, we'd prefer if you called it 'distinction', if you please.」%K%P
 0xE90
 （おんなじだろっ！）%K%P
-(Leave it to You to change the rules!)%K%P
+(That's the same thing!)%K%P
 0xE9C
 が、口には出さずに、ぼくは自分のコーヒーにミルクと砂糖を入れた。%K%P
 Not wanting to start an argument, I silently put milk and sugar in my coffee.%K%P
