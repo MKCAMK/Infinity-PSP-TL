@@ -252,7 +252,7 @@ Kid「Kyahahahaha...」%K%P
 Kid「I choose for you to act out 'You'.」%K%P
 0x5B8
 沙羅「優って……なっきゅ先輩のこと？」%K%P
-Sara「By You... you mean Nakkyu?」%K%P
+Sara「By You... you mean Nakkyu-senpai?」%K%P
 0x5C4
 少年「うん」%K%P
 Kid「Yup.」%K%P
@@ -789,7 +789,7 @@ Takeshi「Geez. I have no clue what's going on in that girl's head.」%K%P
 You「Oh well. The four of us will have to go.」%K%P
 0x1298
 沙羅「なっきゅ先輩。その発電室っていうのはどこにあるんですか？」%K%P
-Sara「Nakkyu, where is the generator room?」%K%P
+Sara「Nakkyu-senpai, where is the generator room?」%K%P
 0x12A4
 優「発電室は、ここ――ドリットシュトックにあるの」%K%P
 You「The generator room is here―in Dritter Stock.」%K%P
@@ -1191,7 +1191,7 @@ Takeshi「Geez. I have no clue what's going on in that girl's head.」%K%P
 You「Oh well. The four of us will have to go.」%K%P
 0x1C28
 沙羅「なっきゅ先輩。その発電室っていうのはどこにあるんですか？」%K%P
-Sara「Nakkyu, where is the generator room?」%K%P
+Sara「Nakkyu-senpai, where is the generator room?」%K%P
 0x1C34
 優「発電室は、ここ――ドリットシュトックにあるの」%K%P
 You「The generator room is here―in Dritter Stock.」%K%P

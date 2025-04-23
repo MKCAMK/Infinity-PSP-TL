@@ -939,22 +939,22 @@ You「I'll put my finger in that gooey pit...」%K%P
 As she talked, You did exactly as she said.%K%P
 0x162C
 沙羅「ちょ、ちょっとやめてくださいよ！　先輩！」%K%P
-Sara「W-Wait! Stop! Nakkyu!」%K%P
+Sara「W-Wait! Stop! Senpai!」%K%P
 0x1638
 優「ぐ〜りぐ〜りぐり……」%K%P
 You「Pick, pick... Goooooey...」%K%P
 0x164C
 沙羅「あっ、ああっ……せ、先輩……先輩……先輩……」%K%P
-Sara「Hey... Hey! Nakkyu... Nakkyu...」%K%P
+Sara「Hey... Hey! Senpai... Senpai...」%K%P
 0x1658
 沙羅「先輩の指先が、私の鼻の中に……」%K%P
-Sara「Nakkyu... Your finger is in my nose...」%K%P
+Sara「Senpai... Your finger is in my nose...」%K%P
 0x1664
 優「ぐ〜りぐ〜りぐり……」%K%P
 You「Pickity, pickity...」%K%P
 0x1678
 沙羅「そして今、先輩と私はひとつに……」%K%P
-Sara「And now Nakkyu and I become one...」%K%P
+Sara「And now Senpai and I become one...」%K%P
 0x1684
 優「ぐ〜りぐ〜りぐり……」%K%P
 You「Goooooeeey...」%K%P
@@ -1251,7 +1251,7 @@ You「Tuna Sara.」%K%P
 You「A tuna salad is loaded with...?」%K%P
 0x1E9C
 沙羅「マヨネーズ……なんだって、なっきゅ先輩にとっては」%K%P
-Sara「Mayonnaise... At least for Nakkyu it is.」%K%P
+Sara「Mayonnaise... At least for Nakkyu-senpai it is.」%K%P
 0x1EA8
 少年「ふ〜ん、なるほどねぇ」%K%P
 Kid「Ha. I see.」%K%P
@@ -1671,7 +1671,7 @@ It looked like she was going to rant.%K%P
 No, she was already ranting...%K%P
 0x2B38
 沙羅「ちょ、ちょっと待って下さいよ、なっきゅ先輩！」%K%P
-Sara「Hey, hey! Nakkyu, wait a second!」%K%P
+Sara「Hey, hey! Nakkyu-senpai, wait a second!」%K%P
 0x2B44
 少年「イスなんか振り上げちゃって、どうするつもりなの！？」%K%P
 Kid「Hey, what are you going to do with that chair!?」%K%P

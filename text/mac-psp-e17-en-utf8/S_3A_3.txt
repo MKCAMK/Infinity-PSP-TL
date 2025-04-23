@@ -378,7 +378,7 @@ Sora「I'm sorry. Unfortunately, some sensors are out of order right now. I can'
 (I wonder what happened to You.)%K%P
 0xCF4
 沙羅「ねえ少年？　先輩を捜しに行ってくれる？」%K%P
-Sara「Hey, Kid. Will you go look for Nakkyu?」%K%P
+Sara「Hey, Kid. Will you go look for Senpai?」%K%P
 0xD00
 少年「え？　ぼくが？」%K%P
 Kid「Huh? Me?」%K%P
@@ -408,7 +408,7 @@ Repairs with Sara
 Kid「Takeshi, I'll come along and help with the repairs.」%K%P
 0xDA8
 沙羅「なっきゅ先輩はどうするの？」%K%P
-Sara「What about Nakkyu?」%K%P
+Sara「What about Nakkyu-senpai?」%K%P
 0xDB4
 少年「優なら大丈夫さ、ぼくらの中で一番しっかりしてるんだから」%K%P
 Kid「You's tougher than the rest of us. She'll be fine.」%K%P

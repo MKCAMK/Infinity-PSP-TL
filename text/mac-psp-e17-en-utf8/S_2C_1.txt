@@ -123,7 +123,7 @@ Sara「Do you want me to ask Takeshi?」%K%P
 Kid「.........」%K%P
 0x2D8
 沙羅「なっきゅ先輩でもいいけど？」%K%P
-Sara「Or maybe Nakkyu.」%K%P
+Sara「Or maybe Nakkyu-senpai.」%K%P
 0x2E4
 少年「……………………」%K%P
 Kid「.........」%K%P
@@ -237,7 +237,7 @@ Sara「Thank you, sir!」%K%P
 Sara took two of the cans and handed one to You.%K%P
 0x55C
 沙羅「はい。先輩にも、ど〜ぞ」%K%P
-Sara「Here you go, Nakkyu.」%K%P
+Sara「Here you go, Senpai.」%K%P
 0x578
 優「おっ、気が利くじゃ〜ん、少年！」%K%P
 You「Hey, Kid. That sure was thoughtful of you!」%K%P

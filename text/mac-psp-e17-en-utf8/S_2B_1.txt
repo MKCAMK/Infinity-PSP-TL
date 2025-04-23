@@ -687,7 +687,7 @@ Sara「I don't know, I think they make a pretty good couple, don't you?」%K%P
 Kid「Think so?」%K%P
 0x11E0
 沙羅「うん。なっきゅ先輩って、気に入った相手には遠慮しない性格だから……心を包み隠さないっていうか」%K%P
-Sara「Yeah. Nakkyu is the kind of person who tells people she likes what she really thinks... She speaks her mind.」%K%P
+Sara「Yeah. Nakkyu-senpai is the kind of person who tells people she likes what she really thinks... She speaks her mind.」%K%P
 0x11EC
 少年「ふーん」%K%P
 Kid「Hmmmm.」%K%P
@@ -834,7 +834,7 @@ Sara「I don't know, I think they make a pretty good couple, don't you?」%K%P
 Kid「Think so?」%K%P
 0x1608
 沙羅「うん。なっきゅ先輩って、気に入った相手には遠慮しない性格だから……心を包み隠さないっていうか」%K%P
-Sara「Yeah. Nakkyu is the kind of person who tells people she likes what she really thinks... She speaks her mind.」%K%P
+Sara「Yeah. Nakkyu-senpai is the kind of person who tells people she likes what she really thinks... She speaks her mind.」%K%P
 0x1614
 少年「ふーん」%K%P
 Kid「Hmmmm.」%K%P
@@ -882,7 +882,7 @@ Takeshi「Isn't it hard to breathe?」%K%P
 You「Stop pointing out the obvious! Talking about it just makes it worse!」%K%P
 0x1820
 沙羅「なっきゅせんぱーい……さっさと終わらせて出ましょうよぉ……」%K%P
-Sara「Nakkyu... Let's just do what we have to do and get out of here.」%K%P
+Sara「Nakkyu-senpai... Let's just do what we have to do and get out of here.」%K%P
 0x1834
 優「そうね。効率良く終わらせたいから、手分けして作業することにしましょうか」%K%P
 You「Alright. Let's divide up what we have to do and be efficient about this.」%K%P

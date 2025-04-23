@@ -21,7 +21,7 @@ Takeshi「Um... ummmna... myuna... myuna.」%K%P
 You「Geez, he's so loud... That idiot.」%K%P
 0x104
 沙羅「せんぷぁーい……眠れましぇーん……」%K%P
-Sara「Nakkyu... I can't sleep... at all...」%K%P
+Sara「Senpai... I can't sleep... at all...」%K%P
 0x110
 狭い室内に響き渡る、武の寝言。%K%P
 Takeshi's sleeptalking echoed throughout the room.%K%P
@@ -114,7 +114,7 @@ Takeshi「...Numya, mumya...」%K%P
 Kid「It seems... like he's talking in his sleep.」%K%P
 0x384
 沙羅「まさか、この人、なっきゅ先輩の夢を……？」%K%P
-Sara「He's not dreaming of You, is he...?」%K%P
+Sara「He's not dreaming of Nakkyu-senpai, is he...?」%K%P
 0x398
 優「や、やめてよねぇ……そんな、縁起でもない」%K%P
 You「Stop that... There's no way.」%K%P
@@ -174,7 +174,7 @@ You had grabbed hold of Takeshi's collar.%K%P
 If we didn't stop her, she might have strangled him.%K%P
 0x5DC
 沙羅「お、落ち着いて先輩。ただの寝言なんだから」%K%P
-Sara「Take it easy, Nakkyu. He's just talking in his sleep.」%K%P
+Sara「Take it easy, Senpai. He's just talking in his sleep.」%K%P
 0x5E8
 少年「そ、そうだよ。本人も悪気はないんだから……たぶん」%K%P
 Kid「She's right. He doesn't mean anything by it... Probably not, anyway.」%K%P
@@ -225,7 +225,7 @@ You「Hehehe... What goes around comes around. Take that.」%K%P
 Kid「Heehee... It's a masterpiece...」%K%P
 0x728
 沙羅「わぁ、おもしろそ〜♪　なっきゅ先輩、私にもやらせて」%K%P
-Sara「Ha, that's funny. Let me try, Nakkyu.」%K%P
+Sara「Ha, that's funny. Let me try, Nakkyu-senpai.」%K%P
 0x750
 ――きゅっきゅっきゅっ。%K%P
 Scribble, scribble, scribble.%K%P

@@ -846,7 +846,7 @@ Sora「Oh, did you get beaten here, Tanaka-san?」%K%P
 You「Things didn't quite work out as planned.」%K%P
 0x1668
 沙羅「なっきゅ先輩が出て行くの、ちょっと早かったんじゃないですか？」%K%P
-Sara「Nakkyu, don't you think you jumped the gun just a little bit?」%K%P
+Sara「Nakkyu-senpai, don't you think you jumped the gun just a little bit?」%K%P
 0x1674
 少年「みんなでいっぺんにおしかけよう、って言ってたのに」%K%P
 Kid「You said we would all charge together.」%K%P
@@ -951,7 +951,7 @@ All four of us had been found by Takeshi.%K%P
 The rules were that anyone caught couldn't kick the can.%K%P
 0x197C
 沙羅「私でもないし、先輩でもない、空は最初から蹴ることができない」%K%P
-Sara「It wasn't me or Nakkyu. And Sora can't kick.」%K%P
+Sara「It wasn't me or Senpai. And Sora can't kick.」%K%P
 0x1988
 少年「ぼくも蹴ってないよ」%K%P
 Kid「I didn't kick it.」%K%P
@@ -2103,7 +2103,7 @@ You「Wow. I can't believe you guessed everybody right in the dark. It's pretty 
 Everyone crowded around me and started making a fuss.%K%P
 0x3D84
 沙羅「あの、先輩……どういうことですか？」%K%P
-Sara「Nakkyu... What are you talking about?」%K%P
+Sara「Senpai... What are you talking about?」%K%P
 0x3D98
 優「あ、マヨは知らないのか。この子ね……」%K%P
 You「Oh, Mayo, you don't know? This kid...」%K%P
