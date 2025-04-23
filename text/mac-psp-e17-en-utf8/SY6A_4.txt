@@ -87,7 +87,7 @@ Kid「Huh? You too, Sara?」%K%P
 Sora「Everyone seems fairly fatigued... Don't overdo it.」%K%P
 0x1C4
 沙羅「なっきゅ先輩も、さっき来たんだよ」%K%P
-Sara「Nakkyu was just here as well.」%K%P
+Sara「Nakkyu-senpai was just here as well.」%K%P
 0x1D0
 沙羅「やっぱストレスかなぁ？　それとも睡眠不足？　食事はタツタサンドだけだし……」%K%P
 Sara「I guess it's stress. Or maybe lack of sleep. And all we've been eating is tuna sandwiches...」%K%P
@@ -279,7 +279,7 @@ The magazine You had thrown at me hit me full on in the face.%K%P
 I felt a piercing pain in my nose.%K%P
 0x878
 沙羅「せ、先輩……無事ですか？」%K%P
-Sara「Nakkyu... You're alright?」%K%P
+Sara「Senpai... You're alright?」%K%P
 0x884
 優「ほへ？　なんのこと？」%K%P
 You「Huh? What're you talking about?」%K%P

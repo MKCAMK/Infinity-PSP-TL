@@ -18,7 +18,7 @@ But that was just Takeshi being himself...%K%P
 The two of them never seemed to run out of things to talk about and kept jabbering away cheerfully about the most meaningless things.%K%P
 0xB4
 沙羅「ねえ先輩、覚えてます？　うちの学校に、小西って先生いるじゃないですか」%K%P
-Sara「Hey, Nakkyu. Do you remember Konishi, that teacher at our school?」%K%P
+Sara「Hey, Senpai. Do you remember Konishi, that teacher at our school?」%K%P
 0xC0
 優「小西？　ああ、コニーのことね？　恰幅のいい、無類の動物好きの音楽教師」%K%P
 You「Konishi? Oh, you mean Konnie? The music teacher who was built like a tank and a completely crazy animal lover.」%K%P
@@ -156,7 +156,7 @@ Takeshi「Were you on a team or in a club together or something?」%K%P
 You「Yup.」%K%P
 0x3D4
 沙羅「私と先輩は、新入生のクラブ勧誘をきっかけに、知り合ったの」%K%P
-Sara「Nakkyu was leader of the school club I joined as a freshman.」%K%P
+Sara「Senpai was leader of the school club I joined as a freshman.」%K%P
 0x3E0
 サンドを平らげた沙羅は、コーラの缶を両手に持ち替えると、そっと遠い目で天井を見上げた。%K%P
 After eating the sandwiches, Sara held the cola can with both hands and gazed at the ceiling with a distant look in her eyes.%K%P
@@ -324,7 +324,7 @@ Sara「She means they were short on members and were about to fold.」%K%P
 Takeshi「Oh, I see.」%K%P
 0x7B0
 沙羅「なにしろ、なっきゅ先輩を入れて、たったの３人しか部員がいなかったでござるからなぁ」%K%P
-Sara「I mean, including Nakkyu, there were only three%Nmembers.」%K%P
+Sara「I mean, including Nakkyu-senpai, there were only three members.」%K%P
 0x7BC
 武「だっはっは♪　そりゃ、ひでぇな」%K%P
 Takeshi「Hahaha! That's pretty grim.」%K%P
@@ -813,7 +813,7 @@ Kid「.........」%K%P
 Takeshi「Geez. That's crazy.」%K%P
 0x1170
 沙羅「だって、あの時の先輩、とんでもなくしつこかったから」%K%P
-Sara「Well, Nakkyu was so persistent that it was annoying!」%K%P
+Sara「Well, Senpai was so persistent that it was annoying!」%K%P
 0x1184
 武「だ、だからってよぉ……」%K%P
 Takeshi「Y-Yeah, but you didn't have to...」%K%P
@@ -828,7 +828,7 @@ Kid「What? Then that would mean that...」%K%P
 You「No, it's the opposite. I didn't say she didn't join, did I?」%K%P
 0x11C4
 沙羅「そのあと先輩ったら、毎日のように、私のところまで押しかけるようになったの」%K%P
-Sara「After that, Nakkyu came bothering me, like, every day.」%K%P
+Sara「After that, Senpai came bothering me, like, every day.」%K%P
 0x11D0
 少年「あんなことされたってのに？」%K%P
 Kid「Even though she did that to your computers?」%K%P

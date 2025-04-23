@@ -738,7 +738,7 @@ Sara「In the end, she didn't tell us anything. We were just running in circles.
 Kid「I see...」%K%P
 0x1220
 沙羅「うん。というよりは、なっきゅ先輩が少しひとりにしてくれって言うから、別行動してるだけなんだけどね」%K%P
-Sara「Actually, Nakkyu said that she wanted to be alone, so we just went our separate ways.」%K%P
+Sara「Actually, Nakkyu-senpai said that she wanted to be alone, so we just went our separate ways.」%K%P
 0x122C
 少年「ふーん」%K%P
 Kid「Hmmm.」%K%P

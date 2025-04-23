@@ -216,7 +216,7 @@ Kid「Really?」%K%P
 Sara「Yup.」%K%P
 0x568
 沙羅「なんせ、なっきゅ先輩の為だからね。協力しないわけにはいかないっしょ？」%K%P
-Sara「I mean, it's to help Nakkyu, right? I can't very well say%Nno.」%K%P
+Sara「I mean, it's to help Nakkyu-senpai, right? I can't very well say no.」%K%P
 0x574
 少年「あ、ありがとう！」%K%P
 Kid「Th-Thanks!」%K%P
@@ -237,7 +237,7 @@ Sara「H-Hey, hey, wait... Kid, what are you so happy about?」%K%P
 Kid「Huh?」%K%P
 0x5CC
 沙羅「私は先輩に協力するって言ったけど、それって少年にはあまり関係ないことでしょ？　ビタ一文の得にもならないわけじゃん？」%K%P
-Sara「All I said was that I'd help Nakkyu. This doesn't really have anything to do with you, does it? There's nothing in this for you.」%K%P
+Sara「All I said was that I'd help Senpai. This doesn't really have anything to do with you, does it? There's nothing in this for you.」%K%P
 0x5D8
 沙羅「なのに、どうしてそんなに一所懸命なのよ？」%K%P
 Sara「So what are you so pumped about?」%K%P
@@ -666,7 +666,7 @@ Kid「Hey, that's not fair.」%K%P
 You「Oh, stop complaining!」%K%P
 0xE7C
 沙羅「うむうむ、区別と言って欲しいでござるな」%K%P
-Sara「You and I are different than you, that's all.」%K%P
+Sara「Senpai and I are different than you, that's all.」%K%P
 0xE90
 （おんなじだろっ！）%K%P
 (Leave it to You to change the rules!)%K%P
@@ -1158,7 +1158,7 @@ You「Let's... not do this.」%K%P
 You「I don't want my selfishness to cause any more problems for everyone.」%K%P
 0x17CC
 沙羅「先輩は黙ってて」%K%P
-Sara「Be quiet, You.」%K%P
+Sara「Be quiet, Senpai.」%K%P
 0x17D8
 沙羅「もうこれは、なっきゅ先輩だけの問題じゃないんです」%K%P
 Sara「This has something to do with everyone, not just you.」%K%P
@@ -1419,7 +1419,7 @@ Sora「Please, Matsunaga-san. That is enough. Please stop!」%K%P
 Sara「I said no!」%K%P
 0x1D7C
 沙羅「空のためにも、先輩のためにも……私自身のためにも……私はやらなきゃいけないの」%K%P
-Sara「I have to do this... for Sora... for Nakkyu... and for myself.」%K%P
+Sara「I have to do this... for Sora... for Senpai... and for myself.」%K%P
 0x1D88
 沙羅「ライプリヒなんかに、負けてらんないのよっ！」%K%P
 Sara「I won't lose to Leiblich!」%K%P
@@ -1857,7 +1857,7 @@ You「You've done so much for me...」%K%P
 And then Sara said...%K%P
 0x2764
 沙羅「らしくないですよぉ……せんぷぁーい」%K%P
-Sara「That doesn't seem like you... Nakkyu.」%K%P
+Sara「That doesn't seem like you... Senpai.」%K%P
 0x2770
 沙羅「目的の為なら手段を選ばない、いつものなっきゅ先輩でいてくださいってば」%K%P
 Sara「You can't choose what you have to do to get what you want, so please just keep being yourself!」%K%P
@@ -2085,7 +2085,7 @@ Sora「Correct...」%K%P
 You「No, it's not 'correct'! Tell me how you reached that theory!」%K%P
 0x2C04
 沙羅「お、落ち着いてください、先輩」%K%P
-Sara「Nakkyu, please calm down.」%K%P
+Sara「Senpai, please calm down.」%K%P
 0x2C10
 空に掴みかかろうとする優を、沙羅が押さえ込む。%K%P
 Sara grabbed You as she went to grab Sora.%K%P
@@ -2343,7 +2343,7 @@ You「I absolutely can't believe it!」%K%P
 As she shouted that, You fled from the security office.%K%P
 0x30E0
 沙羅「先輩！」%K%P
-Sara「Nakkyu!」%K%P
+Sara「Senpai!」%K%P
 0x3110
 沙羅があとを追っていった。%K%P
 Sara followed after her.%K%P

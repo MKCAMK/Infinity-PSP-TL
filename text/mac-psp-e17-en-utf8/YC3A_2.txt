@@ -1017,7 +1017,7 @@ Sara「I know. It's Takeshi, isn't it?」%K%P
 I shook my head back and forth.%K%P
 0x16A0
 沙羅「ってことは、なっきゅ先輩かぁ？」%K%P
-Sara「So it's Nakkyu then.」%K%P
+Sara「So it's Nakkyu-senpai then.」%K%P
 0x16AC
 ぼくはぷるぷると、ぷるぷると首を振った。%K%P
 I kept shaking my head.%K%P
@@ -1731,7 +1731,7 @@ Kid「Say, where'd everybody else run off to?」%K%P
 With ketchup smeared around her lips, Sara answered me.%K%P
 0x28F8
 沙羅「空は制御室、なっきゅ先輩は警備室」%K%P
-Sara「Sora's in the control room. Nakkyu's in the security office.」%K%P
+Sara「Sora's in the control room. Nakkyu-senpai's in the security office.」%K%P
 0x2904
 沙羅「武は、私が見たときには、メリーゴーランドに乗って、ひとりで遊んでた」%K%P
 Sara「As for Takeshi, I saw him riding the merry-go-round, goofing off by himself.」%K%P
@@ -3171,7 +3171,7 @@ Sara shut the lighter.%K%P
 Sara「Kid, the other day...」%K%P
 0x47B4
 沙羅「なっきゅ先輩が発電室の扉を開けようとしたとき……止めたよねぇ？」%K%P
-Sara「When Nakkyu tried to open the door to the generator room... you stopped her, right?」%K%P
+Sara「When Nakkyu-senpai tried to open the door to the generator room... you stopped her, right?」%K%P
 0x47C0
 少年「うん」%K%P
 Kid「Yeah.」%K%P

@@ -117,7 +117,7 @@ Sara「What? Who said that they liked the name 'Prince' again?」%K%P
 Kid「Forget about that already...」%K%P
 0x324
 沙羅「むっ！　ひょっとして、少年は先輩のこと嫌いなの？」%K%P
-Sara「Maybe you just don't like You.」%K%P
+Sara「Maybe you just don't like Senpai.」%K%P
 0x330
 少年「そんなこと、あるわけないって」%K%P
 Kid「That's a stupid thing to say.」%K%P
@@ -1029,7 +1029,7 @@ Sara「Hey, there you are, Kid!」%K%P
 Kid「What? Do you need something?」%K%P
 0x17C8
 沙羅「うん、少年にね？　なっきゅ先輩からの伝言を伝えにきたの」%K%P
-Sara「Yeah. I got a message for you from Nakkyu.」%K%P
+Sara「Yeah. I got a message for you from Nakkyu-senpai.」%K%P
 0x17D4
 少年「優から？」%K%P
 Kid「From You?」%K%P
@@ -1098,7 +1098,7 @@ I didn't think I knew what she was talking about.%K%P
 The theory was half-baked...%K%P
 0x1904
 沙羅「ときに少年よ、いったい、どんな慰め方をしたのかね？」%K%P
-Sara「By the way, what trick did you use to calm You down?」%K%P
+Sara「By the way, what trick did you use to calm her down?」%K%P
 0x1910
 沙羅「あの先輩を瞬殺したぐらいだから、きっと、もの凄いテク使ったんじゃろ？」%K%P
 Sara「She fell for you in the blink of an eye, so you must be good.」%K%P
