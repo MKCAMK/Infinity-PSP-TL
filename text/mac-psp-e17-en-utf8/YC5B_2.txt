@@ -1011,7 +1011,7 @@ Tsugumi, whose genetic information was altered by the Curé virus, was not a pur
 「While not much is known about the Curé virus, some of the unique functions scientists have discovered, such as 'regenerating telomeres' and 'regenerative healing', are inherited recessively.」%K%O
 0x159C
 血液型で言うと『ＡＡ型の父』と『ＯＯ型の母』との間に生まれた子供は、全員『ＡＯ型』となり、その血液は『Ａ型』の性質を持つことになる。%K%N
-「For blood types, without exception, all children born from a 'type AA father' and a 'type OO mother', for instance, can only be 'type AO,' with a 'type A' predisposition.」%K%N
+「For blood types, without exception, all children born from a 'type AA father' and a 'type OO mother', for instance, can only be 'type AO', with a 'type A' predisposition.」%K%N
 0x15A8
 なぜなら、Ａ型の因子は優性遺伝し、Ｏ型の因子は劣性遺伝するからだ。%K%N
 「Why? Because type A factors are inherited dominantly, and type O factors are inherited recessively.」%K%N
