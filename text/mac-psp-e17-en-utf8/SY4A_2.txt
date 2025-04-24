@@ -477,7 +477,7 @@ You「For example, say that 'E' is the letter. That can either be encrypted as a
 You「So when this becomes a 2-bit key, the possibilities are double the code, or four.」%K%P
 0xAF4
 優「さっきの例なら、『Ｅ』の文字は、『００』『０１』『１０』『１１』のどれかに変換されるってこと」%K%P
-You「So, for the example of 'E,' it would be either 00, 01, 10, or%N11.」%K%P
+You「So, for the example of 'E', it would be either 00, 01, 10, or%N11.」%K%P
 0xB00
 優「これが３ｂｉｔの鍵になると……」%K%P
 You「So, with a 3-bit key...」%K%P
