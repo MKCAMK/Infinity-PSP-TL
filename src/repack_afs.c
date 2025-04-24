@@ -96,7 +96,6 @@ int main(int argc, char *argv[]) {
 		if (stas[i].pos == 0) {
             continue;
         }
-        fseek(fout, 8+i*sizeof(struct sta), SEEK_SET);
 
         /* opening and mapping the file from the table */
         if ((strlen(endir) + strlen(stbs[i].name) + 2) > PATH_MAX) {
@@ -125,10 +124,8 @@ int main(int argc, char *argv[]) {
             assert((int)sret == len);
         }
 
-        sret = fwrite(&pos, sizeof(unsigned), 1, fout);
-        assert(sret == 1);
-        sret = fwrite(&len, sizeof(int), 1, fout);
-        assert(sret == 1);
+        stas[i].pos = pos;
+        stas[i].len = len;
 
         fseek(fout, pos, SEEK_SET);
         sret = fwrite(buffer, 1, len, fout);
@@ -141,8 +138,11 @@ int main(int argc, char *argv[]) {
         free(buffer);
     }
     fclose(fin);
-    sret = fwrite(&stas[entries], sizeof(struct sta), 1, fout);
-    assert(sret == 1);
+    stas[entries].pos = pos;
+    stas[entries].len = sizeof(struct stb)*entries;
+    fseek(fout, 8, SEEK_SET);
+    sret = fwrite(stas, sizeof(struct sta), entries+1, fout);
+    assert(sret == entries+1);
     fseek(fout, stas[entries].pos, SEEK_SET);
     sret = fwrite(stbs, sizeof(struct stb), entries, fout);
     assert(sret == entries);
