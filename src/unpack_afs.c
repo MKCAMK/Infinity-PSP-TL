@@ -17,6 +17,7 @@
 #define NO_JADIR
 #endif
 
+#define AFS_ALIGN(x) ((x+0x7ff)&~0x7ff) /* 2048(0x800)-byte alignment */
 #define AFS_MAGIC "AFS"
 
 #pragma pack(push, 1)
@@ -40,7 +41,7 @@ int main(int argc, char *argv[]) {
     char magic[sizeof(AFS_MAGIC)];
     size_t sret;
     FILE *fin;
-    unsigned i, entries;
+    unsigned i, entries, stbspos;
     struct sta *stas;
     struct stb *stbs;
 
@@ -79,9 +80,13 @@ int main(int argc, char *argv[]) {
     sret = fread(stas, sizeof(struct sta), entries+1, fin);
     assert(sret == entries+1);
 
+    /* handling of improperly crafted archives */
+    stbspos = (stas[entries].pos != 0) ? stas[entries].pos
+        : (stas[entries-1].pos + AFS_ALIGN(stas[entries-1].len));
+
     stbs = malloc(entries*sizeof(struct stb));
     assert(stbs);
-    fseek(fin, stas[entries].pos, SEEK_SET);
+    fseek(fin, stbspos, SEEK_SET);
     sret = fread(stbs, sizeof(struct stb), entries, fin);
     assert(sret == entries);
 
