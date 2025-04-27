@@ -6,10 +6,10 @@ text area offset and size:
 We pass the time in Viewpoint Park idly.%K%P
 0x4C
 ある者は満開の桜をめで……ある者は海の彼方に想いを馳せ……%K%P
-One person admires the cherry blossoms in full bloom...%NAnother's thoughts turn to what lies beyond the sea...%K%P
+One person admires the cherry blossoms in full bloom... Another's thoughts turn to what lies beyond the sea...%K%P
 0x58
 ……またある者は、子供のように無邪気にハシャギながら、灯台のカベに相合傘を刻んで爆笑したりしていた……。%K%P
-... and yet another person frolics like an innocent child%Nwhile trying to claw their way up the lighthouse...%K%P
+... and yet another person frolics like an innocent child while trying to claw their way up the lighthouse...%K%P
 0x64
 それは、オレが初めて経験した過去だった。%K%P
 This is the first time I've experienced this 「past」.%K%P
@@ -21,16 +21,16 @@ A new reality has been born in this time.%K%P
 History seems to be in the process of steadily changing.%K%P
 0x88
 結局、沙紀が海に落ちることはなかったし、司紀杜神社の存在は、誰にも知らされることはなかった。%K%P
-In the end, Saki didn't fall into the ocean, and no one%Nlearned about the existence of the Shiki no Mori Shrine.%K%P
+In the end, Saki didn't fall into the ocean, and no one learned about the existence of the Shiki no Mori Shrine.%K%P
 0x94
 このまま行けば、あの最悪の事態が繰り返されるなんてことは、絶対にあり得ないだろう。%K%P
-If things continue at this rate, that horrible event will%Nabsolutely never repeat itself.%K%P
+If things continue at this rate, that horrible event will absolutely never repeat itself.%K%P
 0xA0
 未来は、ひとつの決まった方向に向かって進んで行くのではない。%K%P
-The future does not advance towards one%Npredetermined course.%K%P
+The future does not advance towards one predetermined course.%K%P
 0xAC
 オレといづみさんの意思で、その道筋を変えることは可能なのだ。%K%P
-It's possible that Izumi-san and I are changing the%Ncourse of history with our intentions.%K%P
+It's possible that Izumi-san and I are changing the course of history with our intentions.%K%P
 0xB8
 そして５日後には、オレ達はついに脱け出すことになるだろう……。%K%P
 And in five days, we'll finally escape from this...%K%P
@@ -48,40 +48,40 @@ From this abominable... infinite loop...%K%P
 Suddenly, I feel something bugging me.%K%P
 0x170
 公園からルナビーチへと帰る途中の道……オレはわざと、歩く速度をゆるめた。%K%P
-On the way back to Lunabeach from Viewpoint Park, I%Npurposely slow my pace.%K%P
+On the way back to Lunabeach from Viewpoint Park, I purposely slow my pace.%K%P
 0x17C
 そうして、徐々に遠ざかって行くみんなの後ろ姿をながめながら、オレはひとり、考え始めたのだった。%K%P
-As everyone's retreating figures become smaller, I%Nfreely think to myself.%K%P
+As everyone's retreating figures become smaller, I freely think to myself.%K%P
 0x210
 『無限ループ』%K%N
 「Infinite loop.」%K%N
 0x21C
 今までの状況を考えれば、確かにその推測は間違いではないようだ。%K%N
-If I think about the situation up until now, that conjecture%Ncertainly seems right.%K%N
+If I think about the situation up until now, that conjecture certainly seems right.%K%N
 0x228
 オレは、４月１日から始まる６日間を、何度も何度も無限に繰り返して来た。%K%N
-I've been infinitely repeating the days from April 1st to%NApril 6th.%K%N
+I've been infinitely repeating the days from April 1st to April 6th.%K%N
 0x234
 だからこそ、前回の６日間の予知は、ことごとく当たったのだ。%K%N
-That's why all my premonitions during the last loop were%Ncorrect.%K%N
+That's why all my premonitions during the last loop were correct.%K%N
 0x240
 すべて、経験してきたことだったから……。%K%N
 It's because I had experienced everything before...%K%N
 0x24C
 その一部を、頭の片隅で覚えていたから……。%K%P
-I had memories of all of them deep in the nooks of my%Nmind...%K%P
+I had memories of all of them deep in the nooks of my mind...%K%P
 0x260
 けれど、それはあくまでも『頭の片隅』にすぎない。%K%N
-However, they were all miniscule parts hidden within%Nthose nooks.%K%N
+However, they were all miniscule parts hidden within those nooks.%K%N
 0x26C
 つまり、前回のオレの記憶は『とてもアイマイなものだった』ということだ。%K%N
-In short, the memories I had in the last loop were very%Nfaint fragments.%K%N
+In short, the memories I had in the last loop were very faint fragments.%K%N
 0x278
 何かが起こる直前に、ぼんやりと思い出すことはあっても、それ以外の出来事に関しては、ほとんど忘れてしまっていたに等しい。%K%N
-Though I sometimes vaguely recalled things right before%Nthey happened, those moments were rare; it was as if I%Nhad forgotten everything else.%K%N
+Though I sometimes vaguely recalled things right before they happened, those moments were rare; it was as if I had forgotten everything else.%K%N
 0x284
 ──じゃあ、どうして今のオレには、こんなにも『完全な記憶』が？%K%N
-―Then why is it that the current me has such%N「complete memories」?%K%N
+―Then why is it that the current me has such 「complete memories」?%K%N
 0x290
 ………………………………。%K%P
 ...%K%P
@@ -90,19 +90,19 @@ Though I sometimes vaguely recalled things right before%Nthey happened, those mo
 In the first place, just what is 「memory」?%K%N
 0x2B0
 『記憶』っていうのは、脳に刻まれるものなんじゃないのか？%K%N
-What we call a 「memory」 is something that's etched into%Nyour brain, isn't it?%K%N
+What we call a 「memory」 is something that's etched into your brain, isn't it?%K%N
 0x2BC
 だとすると『今のオレの脳』は、『タイムスリップする直前の脳』と同じもの、ということになる。%K%N
-If that's the case, then that means my current brain is%Nthe same as my brain just before I time traveled.%K%N
+If that's the case, then that means my current brain is the same as my brain just before I time traveled.%K%N
 0x2C8
 そうじゃなければ、前の６日間の出来事なんか、覚えているはずがないのだ。%K%P
-If that weren't it, then I couldn't remember the events of%Nthe last loop.%K%P
+If that weren't it, then I couldn't remember the events of the last loop.%K%P
 0x2DC
 と言うことは、オレといづみさんの脳ミソは、ふわふわふわふわと時空を漂って、それぞれの頭ガイ骨の中にスポッと……%K%N
-To put it simply, me and Izumi's brains were somehow%Ntransported through space-time into our respective%Nskulls...%K%N
+To put it simply, me and Izumi's brains were somehow transported through space-time into our respective skulls...%K%N
 0x2E8
 ……と、オレはそこまで考えて、あまりのバカバカしさに自嘲した。%K%N%N
-... When I think of it like that, I deride myself for having%Nsuch ridiculous thoughts.%K%N%N
+... When I think of it like that, I deride myself for having such ridiculous thoughts.%K%N%N
 0x2F4
 （もっとマジメに考えろよ！）%K%N
 (I need to be more serious!)%K%N
@@ -111,13 +111,13 @@ To put it simply, me and Izumi's brains were somehow%Ntransported through space-
 (That wouldn't even make a funny joke!)%K%N%N
 0x30C
 自分自身をいましめながらも、さらに考えを進めていこうとしたのだが……%K%P
-Although I'm admonishing myself, I try to brainstorm some%Nmore...%K%P
+Although I'm admonishing myself, I try to brainstorm some more...%K%P
 0x320
 ……しかし、それから先は、同じ疑問の繰り返しだった。%K%N%N
-... But from then on, I just keep repeating the same%Nquestion.%K%N%N
+... But from then on, I just keep repeating the same question.%K%N%N
 0x32C
 （それじゃあどうして、今のオレには『完全な記憶』が？）%K%N
-(Then why does the current me have 「complete%Nmemories」?)%K%N
+(Then why does the current me have 「complete memories」?)%K%N
 0x338
 （この鮮明な『記憶』は、いったいどこからやって来たと言うんだ？）%K%N
 (Just where did these clear 「memories」 come from?)%K%N
@@ -126,10 +126,10 @@ Although I'm admonishing myself, I try to brainstorm some%Nmore...%K%P
 (Haah...)%K%N%N
 0x350
 これ以上考えても、解決の糸口さえ見つけられそうもなかった。%K%P
-No matter how hard I try, I can't even find the thread end%Nof the solution.%K%P
+No matter how hard I try, I can't even find the thread end of the solution.%K%P
 0x3C8
 前を歩くみんなの背中が、夕陽に赤く染まっている。%K%P
-The rest of the group is walking in front of me, the setting%Nsun dying them red.%K%P
+The rest of the group is walking in front of me, the setting sun dying them red.%K%P
 0x3D4
 無邪気にハシャグ５人の様子が、そこにありありと浮かんでいた。%K%P
 I can clearly see the five of them innocently frolicking.%K%P
@@ -189,25 +189,25 @@ Izumi「...?」%K%P
 Makoto「Oh, whoops...」%K%P
 0x4FC
 誠「いきなりそんなこと言っても、わけがわかんないよな？」%K%P
-Makoto「There's no way you'd understand if I said something like%Nthat so suddenly, would you?」%K%P
+Makoto「There's no way you'd understand if I said something like that so suddenly, would you?」%K%P
 0x508
 誠「えっと……うーん……どこから説明すればいいんだろ……」%K%P
 Makoto「Umm... hmm... How do I explain this...?」%K%P
 0x514
 考えてみれば、あの車の中で話してから、オレといづみさんは、まともに会話を交わしてなかった。%K%P
-When I think about it, I realize that we haven't really had a%Ndirect conversation since our talk in the car.%K%P
+When I think about it, I realize that we haven't really had a direct conversation since our talk in the car.%K%P
 0x520
 聞きたいことはいくつもあったが、２人っきりになる機会がまったくなかったのだ。%K%P
-I have many things I still want to ask her, but there's%Nbeen no chances for us to talk alone yet.%K%P
+I have many things I still want to ask her, but there's been no chances for us to talk alone yet.%K%P
 0x52C
 だからオレは、タイムスリップのことも、無限ループのことも、いづみさんにはまったく話したことがないわけで……。%K%P
-That's why I haven't talked to Izumi-san about the time%Ntravel or the infinite loop...%K%P
+That's why I haven't talked to Izumi-san about the time travel or the infinite loop...%K%P
 0x540
 いづみ「うん、なるほどね」%K%P
 Izumi「Yes, I see.」%K%P
 0x54C
 いづみ「大丈夫……説明しなくても、誠くんの言いたいことは、なんとなくわかったわ」%K%P
-Izumi「It's all right... You don't have explain anything. I think I%Nknow what you want to say.」%K%P
+Izumi「It's all right... You don't have explain anything. I think I know what you want to say.」%K%P
 0x558
 誠「……えっ？」%K%P
 Makoto「... Huh?」%K%P
@@ -216,13 +216,13 @@ Makoto「... Huh?」%K%P
 Izumi「In other words, it's like this, right?」%K%P
 0x578
 いづみ「前の歴史の中で、誠くんの予知が当たったのは、これから起こる出来事を覚えてたから」%K%P
-Izumi「In the last history, your correct premonitions were%Nmemories of events that would occur in the future.」%K%P
+Izumi「In the last history, your correct premonitions were memories of events that would occur in the future.」%K%P
 0x584
 いづみ「覚えてたってことは、その前にもタイムスリップした経験があるってことだから、なにも今回が初めてというわけじゃない」%K%P
-Izumi「The things you remembered were experiences you had%Nfrom the first time you time traveled, so this isn't the first%Ntime you've time traveled.」%K%P
+Izumi「The things you remembered were experiences you had from the first time you time traveled, so this isn't the first time you've time traveled.」%K%P
 0x590
 いづみ「そう考えていくと、もしかしたら誠くんは、４月１日から始まるこの６日間を、何度も何度も永遠に繰り返しているのかもしれない」%K%P
-Izumi「If you begin to think this way, perhaps you've been%Nrepeating the days from April 1st through April 6th for an%Neternity.」%K%P
+Izumi「If you begin to think this way, perhaps you've been repeating the days from April 1st through April 6th for an eternity.」%K%P
 0x59C
 いづみ「要するにこれは、ただのタイムスリップなんかじゃなくて……」%K%P
 Izumi「In short, this isn't merely time travel...」%K%P
@@ -243,19 +243,19 @@ Izumi「By 'it', you mean 'memories'?」%K%P
 Makoto「Yes...」%K%P
 0x5E4
 誠「今回のタイムスリップでは、過去の出来事をちゃんと覚えてるのに、でも前のときには、実はほとんど忘れちゃってて……」%K%P
-Makoto「Even though when I time traveled this time, I had clear%Nmemories of what happened in the past, the time before%Nthat, I forgot about nearly everything...」%K%P
+Makoto「Even though when I time traveled this time, I had clear memories of what happened in the past, the time before that, I forgot about nearly everything...」%K%P
 0x5F8
 いづみ「その理由を、ずっと考えてたのね？」%K%P
-Izumi「And you've been thinking about the reason why this%Nwhole time?」%K%P
+Izumi「And you've been thinking about the reason why this whole time?」%K%P
 0x604
 誠「……うん」%K%P
 Makoto「... Yes.」%K%P
 0x610
 いづみさんの表情は、昨日とは打って変わって晴れやかだった。%K%P
-Izumi-san's expression has changed suddenly%Ncompared to yesterday. That is to say, it's much clearer.%K%P
+Izumi-san's expression has changed suddenly compared to yesterday. That is to say, it's much clearer.%K%P
 0x61C
 何か吹っ切れたような、思いを断ち切ったような……そんな顔だ。%K%P
-Her face is so serene, as if she's broken through%Nsomething, or has severed ties with her thoughts...%K%P
+Her face is so serene, as if she's broken through something, or has severed ties with her thoughts...%K%P
 0x628
 （どうしていづみさん、こんなにも冷静でいられるんだろう？）%K%P
 (How can Izumi-san be this calm?)%K%P
@@ -285,22 +285,22 @@ Makoto「Is it really all right for us to stay this carefree?」%K%P
 Izumi「...」%K%P
 0x69C
 誠「とりあえず、歴史は望み通りに変わってるし、このまま行けば、無事に合宿を終えられそうな気はするけど……」%K%P
-Makoto「For now, history is changing the way we want it, so if we%Nkeep going at this rate, it feels like this Seminar Camp%Ncan end safely...」%K%P
+Makoto「For now, history is changing the way we want it, so if we keep going at this rate, it feels like this Seminar Camp can end safely...」%K%P
 0x6A8
 誠「だけど実際にはオレ達、根本的な問題については、何ひとつわかってないでしょ？」%K%P
-Makoto「However, in actuality, we don't know a single thing about%Nthe fundamental problem, do we?」%K%P
+Makoto「However, in actuality, we don't know a single thing about the fundamental problem, do we?」%K%P
 0x6B4
 いづみ「…………」%K%P
 Izumi「...」%K%P
 0x6C0
 誠「そもそも、タイムスリップの原因さえわからないのに『無限ループから脱け出せる』なんて、断言しちゃっていいのかな？」%K%P
-Makoto「First of all, is it all right for us to assume that we can%Nbreak free from this infinite loop, even though we don't%Neven know the cause of time travel?」%K%P
+Makoto「First of all, is it all right for us to assume that we can break free from this infinite loop, even though we don't even know the cause of time travel?」%K%P
 0x6CC
 誠「『あの崖から落ちたりしなければ、タイムスリップなんかするはずがない』」%K%P
-Makoto「If we hadn't fallen from that cliff, then we could never%Nhave time traveled.」%K%P
+Makoto「If we hadn't fallen from that cliff, then we could never have time traveled.」%K%P
 0x6D8
 誠「今までずっとそんなふうに思ってたけど、でもよくよく考えてみると、本当にそうだっていう保障なんかどこにもないよね？」%K%P
-Makoto「We've always thought this way up until now, but when you%Nthink about it really carefully, we have no guarantee that%Nit's true.」%K%P
+Makoto「We've always thought this way up until now, but when you think about it really carefully, we have no guarantee that it's true.」%K%P
 0x6E4
 いづみ「…………」%K%P
 Izumi「...」%K%P
@@ -309,19 +309,19 @@ Izumi「...」%K%P
 Makoto「Yes, that's right... we have no guarantee.」%K%P
 0x6FC
 誠「極端な話、これから訪れる６日のあの時間に、オレ達がベッドの中でじっとうずくまっていたとしても……」%K%P
-Makoto「For all we know, we could time travel again on the 6th at%Nthat time even if we're sleeping in our beds...」%K%P
+Makoto「For all we know, we could time travel again on the 6th at that time even if we're sleeping in our beds...」%K%P
 0x708
 誠「だからと言って『タイムスリップしないかどうか』は、結局誰にもわからないんだ」%K%P
-Makoto「Nevertheless, in the end, no one knows if we will or won't%Ntime travel.」%K%P
+Makoto「Nevertheless, in the end, no one knows if we will or won't time travel.」%K%P
 0x71C
 いづみ「……うん、そうね。……誠くんの、言う通りかもしれない」%K%P
 Izumi「... Yes, that's right... It might be exactly as you say.」%K%P
 0x728
 誠「じゃあやっぱり、できるだけ早いうちに、タイムスリップの原因を突き止めた方がいいんじゃないかな？」%K%P
-Makoto「Then wouldn't it be best for us to determine the cause of%Nthe time travel as soon as possible?」%K%P
+Makoto「Then wouldn't it be best for us to determine the cause of the time travel as soon as possible?」%K%P
 0x734
 誠「そうしないと永遠に、この無限ループから脱け出せなくなっちゃうんじゃ？」%K%P
-Makoto「If we don't, then we may never be able to escape from%Nthe infinite loop for all of eternity.」%K%P
+Makoto「If we don't, then we may never be able to escape from the infinite loop for all of eternity.」%K%P
 0x740
 いづみ「…………………………」%K%P
 Izumi「...」%K%P
@@ -330,13 +330,13 @@ Izumi「...」%K%P
 Izumi-san stays silent.%K%P
 0x758
 言いたかったことが、うまく伝わらなかったのだろうか？%K%P
-It's as if she's having trouble finding the right words to%Nsay.%K%P
+It's as if she's having trouble finding the right words to say.%K%P
 0x764
 それとも、何か別のことを……？%K%P
 Or could it be something else...?%K%P
 0x770
 いづみ「……うん。……誠くんの言ってることは、よくわかるわ」%K%P
-Izumi「... Yes... I understand very well what you're saying,%NMakoto-kun.」%K%P
+Izumi「... Yes... I understand very well what you're saying, Makoto-kun.」%K%P
 0x784
 いづみ「だけどね？　うーん……なんて言えばいいのかしら……」%K%P
 Izumi「But you know... Hmm... How should I put this...?」%K%P
@@ -354,7 +354,7 @@ Izumi「#1:」%K%P
 Izumi「About the infinite loop...」%K%P
 0x7C8
 いづみ「それは、誠くんにとってはそうかもしれないけれど……じゃあ、私はどうなるの？」%K%P
-Izumi「That might be the case for you, Makoto-kun... but what%Nabout me?」%K%P
+Izumi「That might be the case for you, Makoto-kun... but what about me?」%K%P
 0x7D4
 誠「……えっ？」%K%P
 Makoto「... Huh?」%K%P
@@ -363,7 +363,7 @@ Makoto「... Huh?」%K%P
 Izumi「In the last history, I never had any premonitions.」%K%P
 0x7EC
 いづみ「なぜならそんな記憶、私の中には無かったから……」%K%P
-Izumi「That's because I didn't have any memories like that%Nwithin me...」%K%P
+Izumi「That's because I didn't have any memories like that within me...」%K%P
 0x7F8
 いづみ「つまり、私にとっては今回が初めてなのよ」%K%P
 Izumi「In other words, to me, this is the first time...」%K%P
@@ -378,7 +378,7 @@ Makoto「... When you put it that way... that certainly... seems true...」%K%P
 Izumi「#2:」%K%P
 0x828
 いづみ「誠くんは『タイムスリップの原因を突き止めた方がいい』って……そう思ってるのよね？」%K%P
-Izumi「Makoto-kun, you said that it would be best if we%Ndetermined the cause of the time travel... That's what%Nyou think, right?」%K%P
+Izumi「Makoto-kun, you said that it would be best if we determined the cause of the time travel... That's what you think, right?」%K%P
 0x834
 誠「うん……」%K%P
 Makoto「Yes...」%K%P
@@ -399,22 +399,22 @@ Izumi「... I've already determined it.」%K%P
 Makoto「Wh... What!?」%K%P
 0x894
 いづみ「昨日ひと晩中考えて、やっと答を見つけたの」%K%P
-Izumi「When I was thinking about it last night, I finally found the%Nanswer.」%K%P
+Izumi「When I was thinking about it last night, I finally found the answer.」%K%P
 0x8A0
 いづみ「もちろんその前から『ひょっとしたら？』って思ってたことはあったんだけど……」%K%P
-Izumi「Of course, I had considered it was a possibility before%Nthat...」%K%P
+Izumi「Of course, I had considered it was a possibility before that...」%K%P
 0x8B4
 いづみ「ほら、５日の夜……誠くんに、予知の話をしようとしたことがあったじゃない？」%K%P
-Izumi「It was on the night of the 5th... Remember how I tried to%Ntalk to you about your premonitions?」%K%P
+Izumi「It was on the night of the 5th... Remember how I tried to talk to you about your premonitions?」%K%P
 0x8C0
 誠「あ、ああ……」%K%P
 Makoto「Y-Yeah...」%K%P
 0x8D4
 いづみ「けれどそれだけじゃ、タイムスリップのすべてを説明することはできなかったの」%K%P
-Izumi「But that alone couldn't explain everything about the%Ntime travel.」%K%P
+Izumi「But that alone couldn't explain everything about the time travel.」%K%P
 0x8E0
 いづみ「例えば、さっきの『記憶』のこととかね？」%K%P
-Izumi「For example, the 'memories' you were talking about%Nearlier.」%K%P
+Izumi「For example, the 'memories' you were talking about earlier.」%K%P
 0x8EC
 誠「…………………………」%K%P
 Makoto「...」%K%P
@@ -423,7 +423,7 @@ Makoto「...」%K%P
 Izumi「But now I feel like I somehow understand it...」%K%P
 0x904
 いづみ「今朝になって、ようやくすべての謎を、解き明かすことができたのよ」%K%P
-Izumi「And when this morning came, I was finally able to explain%Nall of the mysteries.」%K%P
+Izumi「And when this morning came, I was finally able to explain all of the mysteries.」%K%P
 0x910
 誠「…………………………」%K%P
 Makoto「...」%K%P
@@ -438,7 +438,7 @@ Izumi「It's...」%K%P
 I instinctively take a deep breath.%K%P
 0x948
 これから語られるいづみさんの話を、一語一句聞き逃すまいと身がまえた。%K%P
-I'm preparing my body for every single word that%NIzumi-san is going to say.%K%P
+I'm preparing my body for every single word that Izumi-san is going to say.%K%P
 0x954
 迫り来る緊張の瞬間……心臓さえも、その動きを止めていた。%K%P
 A tense moment arrives... Even my heart has stopped.%K%P
@@ -453,7 +453,7 @@ Yuka「Heey!」%K%P
 Yuka「Izumi-san! Makoto!」%K%P
 0x9A0
 遠く、道の彼方から聞こえて来たのは優夏の声……。%K%P
-We can hear Yuka's voice from far away, on the other%Nside of the road...%K%P
+We can hear Yuka's voice from far away, on the other side of the road...%K%P
 0x9AC
 どうやらこっちに向かって駆けて来ているようだ。%K%P
 It seems she's running this way.%K%P
@@ -471,7 +471,7 @@ Izumi「It can't be helped...」%K%P
 Izumi「We'll just have to continue this conversation later...」%K%P
 0x9F8
 すると、急カーブになった道の陰から、優夏が姿を現した。%K%P
-Just then, Yuka appears from the other side of a sharp%Nturn.%K%P
+Just then, Yuka appears from the other side of a sharp turn.%K%P
 0xA0C
 優夏「もうっ、２人とも、歩くの遅〜い！」%K%P
 Yuka「Geez, you two are walking so slow!」%K%P
@@ -492,7 +492,7 @@ Yuka「Wait, that doesn't matter!」%K%P
 Yuka「Anyway, hurry up and come this way♪」%K%P
 0xA98
 そう言うなり、優夏はいづみさんの手を引いて、再び走り出した。%K%P
-With that, Yuka grabs Izumi-san's hand, and begins to%Nbreak off into a run again.%K%P
+With that, Yuka grabs Izumi-san's hand, and begins to break off into a run again.%K%P
 0xAA4
 優夏「ほらぁ、誠も早くぅ！」%K%P
 Yuka「Hey, Makoto, you hurry up too!」%K%P
@@ -528,10 +528,10 @@ Before long...%K%N
 I've been left behind...%K%P
 0xB44
 ふと、足元を見ると、道の片隅に『コンクリートのカケラ』が転がっていた。%K%P
-Suddenly, when I look down at my feet, I see the%N「fragment of concrete」 lying in a corner of the road.%K%P
+Suddenly, when I look down at my feet, I see the 「fragment of concrete」 lying in a corner of the road.%K%P
 0xB50
 昨夜、あの鈴を砕いた、いや砕こうとした、例のカケラだ。%K%P
-It's the piece that I used last night to destroy (well, tried%Nto destroy) the bell.%K%P
+It's the piece that I used last night to destroy (well, tried to destroy) the bell.%K%P
 0xB6C
 （そう言えば……あの鈴……）%K%P
 (Now that I think about it... where...)%K%P
@@ -555,28 +555,28 @@ It's the piece that I used last night to destroy (well, tried%Nto destroy) the b
 「The true nature of the bell.」%K%P
 0xBC0
 考えれば考えるほど、謎は深まるばかりだ。%K%P
-The mysteries just keep intensifying the more I mull over%Nthem.%K%P
+The mysteries just keep intensifying the more I mull over them.%K%P
 0xBCC
 （いづみさんは今、何を思っているのだろう？）%K%P
 (I wonder what's on Izumi-san's mind right now.)%K%P
 0xBD8
 （これらの謎を解く鍵を、本当に知っていると言うのか？）%K%P
-(Has she really found the key to solving all of these%Nmysteries?)%K%P
+(Has she really found the key to solving all of these mysteries?)%K%P
 0xBE4
 ついさっきまであった心の落ち着きは、いつの間にか嘘のように消え失せていた。%K%P
-The serenity that I felt just a short time ago vanishes%Ninto thin air, as if it never existed.%K%P
+The serenity that I felt just a short time ago vanishes into thin air, as if it never existed.%K%P
 0xBF0
 夕闇に包まれた東の海に、ぬらぬらとツヤめくうねりが見えた。%K%P
-Illuminated by the setting sun, a slick movement on the%Neastern ocean catches my eye.%K%P
+Illuminated by the setting sun, a slick movement on the eastern ocean catches my eye.%K%P
 0xBFC
 幾重にもかさなった黒いうねりが、岸に向かって押し寄せている。%K%P
-The black waves repeatedly surge forward, headed%Ntowards the shore.%K%P
+The black waves repeatedly surge forward, headed towards the shore.%K%P
 0xC24
 時折、その波間に飛び跳ねて見えるのは、数十頭のイルカの群……。%K%P
 Several dozen dolphin's heads bob out of the waves...%K%P
 0xC30
 波にたわむれるイルカの姿が、オレには何だかうらやましく思えた……。%K%P
-Seeing the dolphins playing around in the waves makes%Nme feel somewhat jealous...%K%P
+Seeing the dolphins playing around in the waves makes me feel somewhat jealous...%K%P
 0xC78
 ………………。%N…………。%N……。%K%P
 ... ... ...%K%P

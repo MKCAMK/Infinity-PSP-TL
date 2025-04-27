@@ -6,7 +6,7 @@ text area offset and size:
 The next morning...%K%P
 0x1AC
 遙の助けもあり、どうにかこうにかバスケットを直したオレは、沙紀の別荘を訪ねた。%K%P
-I've gone to visit Saki at her summer house with the%Nbasket that I was somehow able to fix with a little help%Nfrom Haruka.%K%P
+I've gone to visit Saki at her summer house with the basket that I was somehow able to fix with a little help from Haruka.%K%P
 0x1B8
 早速インターホンのボタンを押し、こう告げる。%K%P
 I press the intercom's button, and speak up.%K%P
@@ -24,7 +24,7 @@ Makoto「I need to talk with you for a bit.」%K%P
 I summon Saki to come outside.%K%P
 0x1F4
 沙紀が出て来るまでの間、オレは改めてバスケットを見なおした。%K%P
-While waiting for her to come out, I examine the basket%Nover and over again.%K%P
+While waiting for her to come out, I examine the basket over and over again.%K%P
 0x200
 （う〜ん……我ながら、なかなかいい仕上がりだ）%K%P
 (Hmm... My handywork isn't so bad.)%K%P
@@ -54,7 +54,7 @@ Makoto「I thought for sure that this was probably your favorite...」%K%P
 Saki「...」%K%P
 0x27C
 誠「つまり……オレの気持ちと言うか、何と言うか……」%K%P
-Makoto「In other words... I guess you could say that I felt that, um,%Nhow do I put it...」%K%P
+Makoto「In other words... I guess you could say that I felt that, um, how do I put it...」%K%P
 0x290
 沙紀「それで？」%K%P
 Saki「And?」%K%P
@@ -63,13 +63,13 @@ Saki「And?」%K%P
 Crap... This is going completely at Saki's pace!%K%P
 0x2A8
 誠「……だ、だから、こういうモノも大切にして欲しいなぁ〜なんて、願いも込めつつ……」%K%P
-Makoto「... S-So, since I thought this was important to you, I%Nfigured that, umm...」%K%P
+Makoto「... S-So, since I thought this was important to you, I figured that, umm...」%K%P
 0x2BC
 沙紀は軽く鼻で笑うように息をつき、くるりと踵を返した。%K%P
-Saki snorts as if she's scornfully mocking me and turns%Naround.%K%P
+Saki snorts as if she's scornfully mocking me and turns around.%K%P
 0x2C8
 そして何も言わず、さっさと中に入って行く……。%K%P
-Without a word, she immediately begins to head back%Ninside...%K%P
+Without a word, she immediately begins to head back inside...%K%P
 0x2D4
 誠「お、おい。ちょっと待ってくれよぉ〜……」%K%P
 Makoto「H-Hey, wait...」%K%P
@@ -78,16 +78,16 @@ Makoto「H-Hey, wait...」%K%P
 I chase after Saki, begging pathetically.%K%P
 0x2EC
 何だか、前と同じことをしてるような気が……。%K%P
-This kinda feels like I'm doing the same things I did last%Ntime...%K%P
+This kinda feels like I'm doing the same things I did last time...%K%P
 0x34C
 別荘のリビングへと１歩踏み込むと、沙紀が振り返りざまに、鋭く切り込んできた。%K%P
-When I take a step into the living room of the summer%Nhouse, Saki suddenly turns around, furious.%K%P
+When I take a step into the living room of the summer house, Saki suddenly turns around, furious.%K%P
 0x360
 沙紀「誰が入って来ていいって言ったの？」%K%P
 Saki「Who the hell said it was okay for you to come in?」%K%P
 0x36C
 誠「そ、そっちが話も聞かずに行くからだよ……。オレとしては、まだ話が済んだわけじゃなくっ」%K%P
-Makoto「Y-You just left without even fully hearing me out. It's not%Nlike I'm done talk-」%K%P
+Makoto「Y-You just left without even fully hearing me out. It's not like I'm done talk-」%K%P
 0x380
 沙紀「私がいいって言うまで話さないで」%K%P
 Saki「I thought I told you not to talk until I say so.」%K%P
@@ -96,7 +96,7 @@ Saki「I thought I told you not to talk until I say so.」%K%P
 Makoto「...」%K%P
 0x398
 オレが閉口すると、沙紀はバスケットにチラリと目を向けた。%K%P
-When I shut my mouth, Saki glances at the basket in my%Nhands.%K%P
+When I shut my mouth, Saki glances at the basket in my hands.%K%P
 0x3AC
 沙紀「それ、直してくれたってわけ……ふーん……」%K%P
 Saki「You fixed it, huh... hmm...」%K%P
@@ -108,7 +108,7 @@ Makoto「...」%K%P
 Saki「It's all right. I was going to throw it out anyway.」%K%P
 0x3D8
 沙紀「どこでも買えるじゃない？　所詮人間が作ったものなんだから……」%K%P
-Saki「You can buy these anywhere, right? They're mass%Nproduced. It's not like they're unique.」%K%P
+Saki「You can buy these anywhere, right? They're mass produced. It's not like they're unique.」%K%P
 0x3E4
 沙紀は意地を張っていた。%K%N
 Saki's being stubborn.%K%N
@@ -117,16 +117,16 @@ Saki's being stubborn.%K%N
 I already know that she's just trying to act tough.%K%P
 0x404
 沙紀「甘いわよ。こんなもので私のご機嫌を取るつもり？」%K%P
-Saki「How naive. Were you planning on buttering me up with%Nsomething like this?」%K%P
+Saki「How naive. Were you planning on buttering me up with something like this?」%K%P
 0x410
 クスッ……オレは思わず笑ってしまった。%K%P
 Ha ha... I instinctively laugh.%K%P
 0x41C
 こんなことを言いながらも、沙紀は今晩、オレに礼を言いに来るのだ。%K%P
-Although she says that, Saki will come to thank me%Ntonight.%K%P
+Although she says that, Saki will come to thank me tonight.%K%P
 0x428
 深夜『散歩の途中だから』なんて言い訳をして……。%K%P
-Making such a silly excuse like, 「I was on a walk in the%Nmiddle of the night,」...%K%P
+Making such a silly excuse like, 「I was on a walk in the middle of the night,」...%K%P
 0x43C
 沙紀「何がおかしいの？」%K%P
 Saki「What's so funny?」%K%P
@@ -144,7 +144,7 @@ Makoto「You're wrong. There's nothing stupid about it.」%K%P
 Saki「You're lying!」%K%P
 0x488
 誠「嘘じゃない！　言っただろ？　オレは『沙紀だけを信じ続ける』って……」%K%P
-Makoto「I'm not lying! Didn't I tell you? I said that 'I'll continue to%Nonly trust you'...」%K%P
+Makoto「I'm not lying! Didn't I tell you? I said that 'I'll continue to only trust you'...」%K%P
 0x494
 沙紀「じゃあ昨日のあれは……」%K%P
 Saki「Then yesterday was...」%K%P
@@ -165,7 +165,7 @@ Makoto「I'm sorry about that... I have no excuse.」%K%P
 Saki「What's that mean?」%K%P
 0x524
 誠「だから、許してもらおうとも思わないし、オレのことを軽蔑してくれても構わない……」%K%P
-Makoto「So I won't think of even asking you to try to forgive me,%Nand I don't care if you scorn me...」%K%P
+Makoto「So I won't think of even asking you to try to forgive me, and I don't care if you scorn me...」%K%P
 0x530
 沙紀「…………」%K%P
 Saki「...」%K%P
@@ -177,16 +177,16 @@ Makoto「But there's just one thing... that I want to ask you to do...」%K%P
 Makoto「Please talk with Haruka.」%K%P
 0x554
 誠「何となく変なズレがあるだけのような気がするんだ……今の沙紀と遙……」%K%P
-Makoto「I feel as if you and Haruka are both strangely out of%Nsync. You two are making the same mistake...」%K%P
+Makoto「I feel as if you and Haruka are both strangely out of sync. You two are making the same mistake...」%K%P
 0x560
 誠「お互い意固地になって、悪い方に思い込んでるだけなんだよ！」%K%P
-Makoto「Both of you are stubborn because you two are under%Nthe false impression that the other is a bad person!」%K%P
+Makoto「Both of you are stubborn because you two are under the false impression that the other is a bad person!」%K%P
 0x56C
 沙紀「…………」%K%P
 Saki「...」%K%P
 0x578
 誠「怖いとは思う。だけど、今話し合っておかないと、きっと取り返しのつかないことに……」%K%P
-Makoto「I know you're scared. But if you don't talk now, then you'll%Nsurely never recover from this...」%K%P
+Makoto「I know you're scared. But if you don't talk now, then you'll surely never recover from this...」%K%P
 0x584
 沙紀「…………」%K%P
 Saki「...」%K%P
@@ -219,25 +219,25 @@ Saki「I understand.」%K%P
 ... And before long, she quietly answers.%K%P
 0x628
 誠「あれは、沙紀と話し合ってもらう為に遙を連れ出す口実だったんだ……」%K%P
-Makoto「That was just a pretext Haruka and I used so that we%Ncould go out to talk together with you...」%K%P
+Makoto「That was just a pretext Haruka and I used so that we could go out to talk together with you...」%K%P
 0x634
 沙紀「何よ、それ？」%K%P
 Saki「What's that mean?」%K%P
 0x640
 誠「遙とも話したんだけど、やっぱりちゃんと２人で話した方がいいよ」%K%P
-Makoto「I also told this to Haruka, but it really would be best for%Nthe two of you to have a talk.」%K%P
+Makoto「I also told this to Haruka, but it really would be best for the two of you to have a talk.」%K%P
 0x64C
 誠「何となく変なズレがあるだけのような気がするんだ」%K%P
-Makoto「I feel as if you and Haruka are both strangely out of%Nsync. You two are making the same mistake...」%K%P
+Makoto「I feel as if you and Haruka are both strangely out of sync. You two are making the same mistake...」%K%P
 0x658
 誠「お互い意固地になって、悪い方に思い込んでるだけなんだよ！」%K%P
-Makoto「Both of you are stubborn because you two are under%Nthe false impression that the other is a bad person!」%K%P
+Makoto「Both of you are stubborn because you two are under the false impression that the other is a bad person!」%K%P
 0x664
 沙紀「…………」%K%P
 Saki「...」%K%P
 0x670
 誠「怖いとは思う。だけど、今話し合っておかないと、きっと取り返しのつかないことに……」%K%P
-Makoto「I know you're scared. But if you don't talk now, then you'll%Nsurely never recover from this...」%K%P
+Makoto「I know you're scared. But if you don't talk now, then you'll surely never recover from this...」%K%P
 0x67C
 沙紀「…………」%K%P
 Saki「...」%K%P

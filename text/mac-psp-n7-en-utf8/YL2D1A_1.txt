@@ -3,7 +3,7 @@ text area offset and size:
 0xB77
 0x98
 ガバッと思い切り布団を蹴飛ばして目覚めた。%K%P
-As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+As I wake up, I kick the covers off the bed with all my strength.%K%P
 0xA4
 しばし茫然として虚空を眺める。%K%P
 Still half asleep, I blankly stare into space.%K%P
@@ -18,7 +18,7 @@ I realize I'm freezing, my body soaked with sweat all over.%K%P
 I take a deep breath and slowly exhale.%K%P
 0xD4
 杉の木の温かい香りが、鼻腔の奥から脳の中心へと沁み込んでいく。%K%P
-The warm scent of wood goes through my nose and fills%Nmy head.%K%P
+The warm scent of wood goes through my nose and fills my head.%K%P
 0xE0
 これを３回繰り返したおかげで…………。%K%P
 It takes me three more breaths until...%K%P
@@ -90,7 +90,7 @@ Yuka「Why...!?」%K%P
 Yuka's... Yuka's... right here!%K%P
 0x2A4
 温かな息を吐き、小刻みに細い肩を震わせて……。%K%P
-Her breathing is shallow as her shoulders start to%Ntremble...%K%P
+Her breathing is shallow as her shoulders start to tremble...%K%P
 0x2B0
 しなやかにはねた優夏の髪……。%K%P
 Her hair is swaying...%K%P
@@ -123,7 +123,7 @@ She's alive right here, right now!!%K%P
 I run over and embrace Yuka closely.%K%P
 0x354
 きつくきつく抱きしめて、そのまま溶けて、ひとつになってしまいたかった。%K%P
-We tightly cling to each other, as if we want to melt into%Neach other and become one.%K%P
+We tightly cling to each other, as if we want to melt into each other and become one.%K%P
 0x360
 優夏「ま……まこと……」%K%P
 Yuka「Ma... Makoto...」%K%P
@@ -150,7 +150,7 @@ She still hasn't gotten a hold of herself.%K%P
 Yes... I'm the same way.%K%P
 0x3C8
 オレは優夏の体を引きはがすと、左手をゆっくりと持ち上げた。%K%P
-When I tear Yuka's body off of me, I slowly raise my left%Nhand.%K%P
+When I tear Yuka's body off of me, I slowly raise my left hand.%K%P
 0x3D4
 オレと優夏……肩を寄せ合って、その文字盤を共に見つめる。%K%P
 Yuka leans in close as we both look at my watch's face.%K%P
@@ -168,7 +168,7 @@ Makoto「... It seems to be that way. In other words, we―」%K%P
 Before I can finish talking, Yuka dives towards me.%K%P
 0x410
 よろよろとよろめきながらしりぞき、壁に背中をぶつける。%K%P
-The impact knocks me back to the wall as I stagger on%Nmy feet.%K%P
+The impact knocks me back to the wall as I stagger on my feet.%K%P
 0x41C
 それでもなお、優夏は体を押し付けてきた。%K%P
 Even so, Yuka presses herself against me.%K%P
@@ -189,7 +189,7 @@ Yuka「Makoto... Makoto...」%K%P
 Yuka continues to whisper this.%K%P
 0x488
 まるで、すぐ目の前にいるオレのことを確かめるように……。%K%P
-It's as if she's trying to confirm that the 「me」 right%Nbefore her eyes is real...%K%P
+It's as if she's trying to confirm that the 「me」 right before her eyes is real...%K%P
 0x494
 誠「大丈夫、%T030大丈夫だ……」%K%P
 Makoto「It's all right, it's all right...」%K%P
@@ -201,7 +201,7 @@ Makoto「I'm... right here...」%K%P
 Yuka is heaving with sobs.%K%P
 0x4B8
 それは迷子になった幼い子供の、張り裂けんばかりの鳴咽だった。%K%P
-It's like she's a lost child who can only cry and cry over%Nand over again.%K%P
+It's like she's a lost child who can only cry and cry over and over again.%K%P
 0x4C4
 優夏のやわらかな髪に、そっとくちびるを寄せる。%K%P
 I bring Yuka's soft hair close to my lips.%K%P

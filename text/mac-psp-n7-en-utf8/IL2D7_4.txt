@@ -3,10 +3,10 @@ text area offset and size:
 0x46E
 0x40
 ドンチャン騒ぎも終わり、みんなが寝静まった頃……。%K%N
-When we've finished our merrymaking, everyone goes to%Nsleep...%K%N
+When we've finished our merrymaking, everyone goes to sleep...%K%N
 0x4C
 オレは１人、荷物をまとめてリビングに立っていた。%K%P
-I stand alone in the living room, having gathered all of my%Nluggage.%K%P
+I stand alone in the living room, having gathered all of my luggage.%K%P
 0x58
 いづみ「すーすー……」%K%P
 Izumi「Zzz...」%K%P
@@ -24,13 +24,13 @@ In the end, I couldn't respond to Izumi-san's feelings...%K%P
 I plan to leave the island before everyone else.%K%N
 0xB0
 いづみさんの前から姿を消すつもりでいた。%K%P
-I plan to disappear from Izumi-san's life. It's better if she%Nforgets about me...%K%P
+I plan to disappear from Izumi-san's life. It's better if she forgets about me...%K%P
 0xBC
 いづみ「すーすー……」%K%P
 Izumi「Zzz...」%K%P
 0xC8
 窓から差し込む月明かりに照らされた、いづみさんの手。%K%N
-The moonlight from the window shines upon Izumi-san's%Nhand.%K%N
+The moonlight from the window shines upon Izumi-san's hand.%K%N
 0xD4
 そこには、あの『鈴』が握られている。%K%P
 She is grasping that 「bell」.%K%P
@@ -63,10 +63,10 @@ I board a ferry heading for the mainland.%K%N
 I go inside, and sit down at a window seat.%K%P
 0x1A4
 やがて、今までの疲れが一気に出てきたためか、深い眠りへと落ちていく。%K%P
-Before long, all of my fatigue that's accumulated up until%Nnow catches up with me all at once, and I begin to fall%Ninto a deep sleep.%K%P
+Before long, all of my fatigue that's accumulated up until now catches up with me all at once, and I begin to fall into a deep sleep.%K%P
 0x1DC
 目を閉じたとき、オレのまぶたには、ある光景が映し出された。%K%P
-When I close my eyes, a scene is reflected off my shut%Neyelids.%K%P
+When I close my eyes, a scene is reflected off my shut eyelids.%K%P
 0x1E8
 それは静かな寝息をたてているいづみさんの寝顔と……%K%N
 Izumi-san's sleeping face as she breathed peacefully...%K%N

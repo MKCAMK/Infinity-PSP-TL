@@ -6,16 +6,16 @@ text area offset and size:
 After that, I reunite with the others at Lunabeach.%K%P
 0x68
 遙と２人っきりになる機会は全くなかった。%K%P
-However, I get absolutely no chances to talk to Haruka%Nall alone.%K%P
+However, I get absolutely no chances to talk to Haruka all alone.%K%P
 0x74
 結局、オレが遙を捕まえられたのは、ロッジに戻り、風呂からあがった後だった。%K%P
-In the end, I catch up with her after I've returned to the%Nlodge and taken a bath.%K%P
+In the end, I catch up with her after I've returned to the lodge and taken a bath.%K%P
 0x80
 オレは、ストレートに聞くのが一番だと思った。%K%P
 I think asking her straight will be the best way.%K%P
 0x8C
 防波堤でのやりとりを見ていたこと……沙紀から病室で聞いたことを全部伝えた。%K%P
-I tell her what I saw on the pier... and everything Saki told%Nme in the sickroom.%K%P
+I tell her what I saw on the pier... and everything Saki told me in the sickroom.%K%P
 0x98
 誠「どうなんだ、遙？」%K%P
 Makoto「What do you think, Haruka?」%K%P
@@ -24,7 +24,7 @@ Makoto「What do you think, Haruka?」%K%P
 Haruka「...」%K%P
 0xB8
 誠「子供の頃の話ってのは本当なのか？　だとしたら遙は沙紀を恨んでるのか？」%K%P
-Makoto「Is the story she told about her childhood true? If so,%Nthen do you resent Saki?」%K%P
+Makoto「Is the story she told about her childhood true? If so, then do you resent Saki?」%K%P
 0xC4
 遙「……わからない」%K%P
 Haruka「... I don't know.」%K%P
@@ -33,37 +33,37 @@ Haruka「... I don't know.」%K%P
 Haruka「I don't know any of it...」%K%P
 0xDC
 誠「じゃあ何でこれを沙紀に見せたり、脅すようなことを言ったんだ？」%K%P
-Makoto「Then why is it that when you showed this to Saki, she%Nsaid threatening things to you?」%K%P
+Makoto「Then why is it that when you showed this to Saki, she said threatening things to you?」%K%P
 0xE8
 オレはあの鈴を取り出して見せた。%K%P
 I take out the bell to show her.%K%P
 0xF4
 遙「昨日の夜、浜で拾った……何だか懐かしかった」%K%P
-Haruka「I picked that up on the beach last night... it was sort of%Nnostalgic.」%K%P
+Haruka「I picked that up on the beach last night... it was sort of nostalgic.」%K%P
 0x100
 誠「懐かしい？」%K%P
 Makoto「Nostalgic?」%K%P
 0x10C
 遙「これを取り上げられた日から……心をなくしたみたいに感じてきたから」%K%P
-Haruka「On the day it was taken from me... it felt like I had lost my%Nheart.」%K%P
+Haruka「On the day it was taken from me... it felt like I had lost my heart.」%K%P
 0x118
 誠「沙紀に取り上げられたのか？」%K%P
 Makoto「Saki took it away from you?」%K%P
 0x124
 遙「よくわからない……。ずっと小さい頃、部屋で私はひとりで遊んでた。その鈴だけを持って……。よく似てる……それはあの時の鈴に……」%K%P
-Haruka「I don't really know... When I was a kid, I would always play%Nin my room all alone. I only had that bell... It's very similar...%Nto that bell I had back then...」%K%P
+Haruka「I don't really know... When I was a kid, I would always play in my room all alone. I only had that bell... It's very similar... to that bell I had back then...」%K%P
 0x130
 遙「誰かが……女の子が私から鈴を奪った。『これはあなたの物じゃない。あなたはただの代わりなんだから』って。そうして突き飛ばされて、私は机かイスの角に頭をぶつけた……たぶん」%K%P
-Haruka「But someone... a girl stole it from me. She said, 'This isn't%Nyours. Because you're just a replacement.' Then she%Npushed me, and I hit my head on the edge of a desk%Nchair... probably.」%K%P
+Haruka「But someone... a girl stole it from me. She said, 'This isn't yours. Because you're just a replacement.' Then she pushed me, and I hit my head on the edge of a desk chair... probably.」%K%P
 0x13C
 遙「その時出来た傷がこれ……」%K%P
 Haruka「At that time, I got a cut...」%K%P
 0x190
 誠「その額の小さな傷跡か……」%K%P
-Makoto「So that's what the small scar on your forehead came%Nfrom...」%K%P
+Makoto「So that's what the small scar on your forehead came from...」%K%P
 0x19C
 遙「沙紀はこの傷とその鈴を見て突然変わった……怖いくらい……」%K%P
-Haruka「When Saki saw this scar and that bell, she suddenly%Nchanged... she got scary...」%K%P
+Haruka「When Saki saw this scar and that bell, she suddenly changed... she got scary...」%K%P
 0x1A8
 （……どういうことなんだ、これは？？？）%K%P
 (... What's the meaning of this???)%K%P
@@ -72,10 +72,10 @@ Haruka「When Saki saw this scar and that bell, she suddenly%Nchanged... she got
 I'm confused.%K%P
 0x1C0
 ２人の話は、鈴を巡って似ているところもあれば、かなり食い違っているところもある。%K%P
-Both of their stories are similar in that they revolve%Naround a bell, but there's a lot of parts about them that%Njust doesn't mesh at all.%K%P
+Both of their stories are similar in that they revolve around a bell, but there's a lot of parts about them that just doesn't mesh at all.%K%P
 0x1CC
 誠「ちょっと待て。その鈴を取り上げた女の子だけど、本当に沙紀なのか？」%K%P
-Makoto「Wait a minute. Was the girl who took the bell from you%Nreally Saki?」%K%P
+Makoto「Wait a minute. Was the girl who took the bell from you really Saki?」%K%P
 0x1E8
 遙「…………」%K%P
 Haruka「...」%K%P
@@ -84,55 +84,55 @@ Haruka「...」%K%P
 Haruka averts her eyes from me.%K%P
 0x200
 話の食い違いなど、気にもとめていないようだ。%K%P
-It seems she's taken no notice of the discrepancies in%Ntheir stories.%K%P
+It seems she's taken no notice of the discrepancies in their stories.%K%P
 0x20C
 それは沙紀も同じだった。%K%P
 It's the same with Saki.%K%P
 0x218
 事実関係うんぬんではなく、お互いにそう思い込んでしまっているのだ。%K%P
-They're both under the impression that the other is the%None in their story, despite not having all the facts of the%Ncase.%K%P
+They're both under the impression that the other is the one in their story, despite not having all the facts of the case.%K%P
 0x224
 もう少し細かな点を確かめあわないと大変なことになる……。%K%P
-Things could get bad if I don't confirm a few more minor%Npoints...%K%P
+Things could get bad if I don't confirm a few more minor points...%K%P
 0x230
 オレはそう思った。%K%P
 That's what I think.%K%P
 0x23C
 前の６日間……あのときの２人の奇妙な対立。%K%N
-I remember their odd rivalry that they had in the last set%Nof six days.%K%N
+I remember their odd rivalry that they had in the last set of six days.%K%N
 0x248
 誰も寄せつけようとしなかった激しい対立は、幼児期の記憶に関わることだったのだ。%K%P
-It originated from their childhood memories, which they%Ndidn't even attempt to examine more closely.%K%P
+It originated from their childhood memories, which they didn't even attempt to examine more closely.%K%P
 0x254
 ２人にとっての原風景とでも言うべき記憶。%K%P
-To the two of them, those memories are their 「primal%Nscenery」, defining moments of their early life.%K%P
+To the two of them, those memories are their 「primal scenery」, defining moments of their early life.%K%P
 0x260
 そこには理屈は存在しない。%K%P
 In that 「primal scenery」, reason doesn't exist.%K%P
 0x26C
 他人がとやかく言っても始まらないのだ、きっと……。%K%P
-Even if they spoke to a third-party about it, they would%Nstill remain stubborn and refuse to be swayed by logic...%K%P
+Even if they spoke to a third-party about it, they would still remain stubborn and refuse to be swayed by logic...%K%P
 0x278
 それだけに、オレは２人をきちんと会わせ、真実をはっきりさせる必要があると思った。%K%P
-Because of that, I think I need to arrange a meeting%Nbetween them in order to set things straight and clear%Nthings up.%K%P
+Because of that, I think I need to arrange a meeting between them in order to set things straight and clear things up.%K%P
 0x284
 だが、沙紀も遙もオレの言うことを聞いてちゃんと会おうとするとは思えない。%K%P
 However, I doubt they'd listen to me if I'm blatant about it.%K%P
 0x290
 ましてや『優夏達の目に触れない所で』というと機会も限られてくる。%K%P
-There's also Yuka and the others to worry about. I don't%Nwant to attract any unwanted attention; that'd only%Nlower my chances even more.%K%P
+There's also Yuka and the others to worry about. I don't want to attract any unwanted attention; that'd only lower my chances even more.%K%P
 0x29C
 そこでオレは思い出した。%K%P
 Just then, I remember.%K%P
 0x2A8
 前回の今晩……オレは遙と釣りに行く約束をした筈だ。%K%P
-Last time, on this very night... I promised to go fishing with%NHaruka.%K%P
+Last time, on this very night... I promised to go fishing with Haruka.%K%P
 0x2B4
 その流れを利用しよう。%K%P
 I'll try using that.%K%P
 0x2C0
 ２人を連れて防波堤に行き、白黒決着をつけるんだ。%K
-I'll take those two to the pier, where they can settle the%Ndispute over who's right and who's wrong.%K
+I'll take those two to the pier, where they can settle the dispute over who's right and who's wrong.%K
 0x618
 よし、予定通り釣りに誘おう
 Invite her to go fishing.
@@ -165,7 +165,7 @@ Makoto「Huh?」%K%P
 Haruka「You don't know what will happen tomorrow... right?」%K%P
 0x378
 誠「明日、何があっても行くんだよ。そう決めるんだ」%K%P
-Makoto「We'll go tomorrow, no matter what happens. That's what%Nwe've decided.」%K%P
+Makoto「We'll go tomorrow, no matter what happens. That's what we've decided.」%K%P
 0x384
 遙「どうして決められるの？」%K%P
 Haruka「How can you decide that?」%K%P
@@ -186,7 +186,7 @@ Makoto「And you trust me too.」%K%P
 Haruka「I trust you too...」%K%P
 0x3CC
 誠「そうだよ。そうやって信じあわなきゃ、約束なんてできない」%K%P
-Makoto「That's right. Without mutual trust, a promise means%Nnothing.」%K%P
+Makoto「That's right. Without mutual trust, a promise means nothing.」%K%P
 0x3D8
 遙「信じあう……」%K%P
 Haruka「Mutual trust...」%K%P
@@ -201,7 +201,7 @@ Haruka「So then, you... and I... can trust each other?」%K%P
 Makoto「That's right.」%K%P
 0x408
 誠「明日になってもこの約束を忘れないこと。どんなことがあっても守ること。いいな？」%K%P
-Makoto「When tomorrow comes, don't forget this promise. No%Nmatter what happens, remember it. All right?」%K%P
+Makoto「When tomorrow comes, don't forget this promise. No matter what happens, remember it. All right?」%K%P
 0x414
 遙はゆっくりとうなずいた。……かみしめるように。%K%P
 I gulp as Haruka nods.%K%P
@@ -210,10 +210,10 @@ I gulp as Haruka nods.%K%P
 No, I should just be direct. That'll be faster.%K%P
 0x434
 多少強引だが、遙を説得して直接沙紀に会わせよう。%K%P
-It may be a little pushy, but I should try to persuade%NHaruka to meet directly with Saki.%K%P
+It may be a little pushy, but I should try to persuade Haruka to meet directly with Saki.%K%P
 0x440
 誠「なあ、遙？　沙紀と会って話し合った方がいいよ」%K%P
-Makoto「Say, Haruka? I think it'd be best if you met with Saki and%Ntalked.」%K%P
+Makoto「Say, Haruka? I think it'd be best if you met with Saki and talked.」%K%P
 0x44C
 遙「…………」%K%P
 Haruka「...」%K%P
@@ -231,7 +231,7 @@ Makoto「That's...」%K%P
 Makoto「... Because I want to confirm it, no matter what!」%K%P
 0x490
 誠「遙と沙紀……２人はお互いの過去を誤解してるんだ！　それを証明したいんだよ！」%K%P
-Makoto「That the two of you... are just both making%Nmisunderstandings about your respective pasts! I want%Nto prove that!」%K%P
+Makoto「That the two of you... are just both making misunderstandings about your respective pasts! I want to prove that!」%K%P
 0x49C
 誠「オレを信じてくれ……遙？」%K%P
 Makoto「Will you trust me... Haruka?」%K%P
@@ -246,7 +246,7 @@ Makoto「That's right. I trust you, so please, trust me too...」%K%P
 Haruka「I'll trust you too...」%K%P
 0x4CC
 誠「ああ……。そうやって信じあえば、きっと誤解もとける筈だ！」%K%P
-Makoto「Yeah... If we trust each other like that, then we can clear%Nup this misunderstanding for sure!」%K%P
+Makoto「Yeah... If we trust each other like that, then we can clear up this misunderstanding for sure!」%K%P
 0x4D8
 遙「信じあう……」%K%P
 Haruka「Trust each other...」%K%P
@@ -264,7 +264,7 @@ Makoto「That's right. So promise to meet with Saki tomorrow...」%K%P
 Haruka slowly nods.%K%P
 0x514
 誠「これは２人だけの約束だ。どんなことがあっても守ること。他のやつには言わないでくれ。いいな？」%K%P
-Makoto「This is our own promise, no one else's. Keep that promise%Nno matter what. Don't tell anyone else about it. All right?」%K%P
+Makoto「This is our own promise, no one else's. Keep that promise no matter what. Don't tell anyone else about it. All right?」%K%P
 0x528
 ……………………。%K%P
 ...%K%P

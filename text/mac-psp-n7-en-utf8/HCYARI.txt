@@ -15,7 +15,7 @@ Makoto「Well then, ready to go?」%K%P
 Haruka「Yes...」%K%P
 0xC0
 踏み出した足から、ガクッと力が抜けるのをオレは感じた。どうしてこの子はこういう気のない反応をするのかなぁ……。%K%P
-As we walk, I find myself being overwhelmed by Haruka's%Nindifference.%K%P
+As we walk, I find myself being overwhelmed by Haruka's indifference.%K%P
 0xCC
 いづみ「ちょっと待って！」%K%P
 Izumi「Wait a minute!」%K%P
@@ -24,16 +24,16 @@ Izumi「Wait a minute!」%K%P
 I watch as Izumi-san comes running out of the shop.%K%P
 0xF4
 いづみ「ごめん。%W言い忘れてたんだけど、お店のわきに自転車があるから、それ、使って」%K%P
-Izumi「Sorry. I forgot to tell you that there's a bike by the side%Nof the shop. Please use it.」%K%P
+Izumi「Sorry. I forgot to tell you that there's a bike by the side of the shop. Please use it.」%K%P
 0x100
 誠「自転車、あるんですか？」%K%P
 Makoto「A bike? Is that really necessary?」%K%P
 0x10C
 いづみ「歩いて行ってもそんなに時間かからないけど、%Wほら、荷物が荷物だから」%K%P
-Izumi「Well, even though it's not far on foot, you still have a lot%Nto bring back, right?」%K%P
+Izumi「Well, even though it's not far on foot, you still have a lot to bring back, right?」%K%P
 0x118
 誠「そうか。１０キロの米持って歩くのって、ちょっとしんどいもんな」%K%P
-Makoto「True. Carrying 22 pounds of rice while walking does%Nseem like a pain...」%K%P
+Makoto「True. Carrying 22 pounds of rice while walking does seem like a pain...」%K%P
 0x12C
 いづみ「鍵はついてるから。%W%Wじゃあ、よろしくね？」%K%P
 Izumi「The key's attached to it. Well then, you two take care.」%K%P
@@ -42,10 +42,10 @@ Izumi「The key's attached to it. Well then, you two take care.」%K%P
 Makoto「Will do.」%K%P
 0x14C
 いづみさんの後ろ姿を見送って、オレは店のわきへ足を進めた。%K%P
-I politely wait for Izumi-san to leave before I walk towards%Nthe side of the shop.%K%P
+I politely wait for Izumi-san to leave before I walk towards the side of the shop.%K%P
 0x158
 その時だ。%Kサーッと風を切るように自転車が走り出してきた。遙だった。%K%P
-Just then... The bike starts moving, then quickly goes%Nflying off. It's Haruka.%K%P
+Just then... The bike starts moving, then quickly goes flying off. It's Haruka.%K%P
 0x164
 誠「え？　%W%W遙、いつの間に？」%K%P
 Makoto「Huh? Haruka, when did you-」%K%P
@@ -60,7 +60,7 @@ Makoto「Hey, wait up! Man...!」%K%P
 I instinctively start to run after her.%K%P
 0x1B0
 自転車を漕ぐ遙の姿が既に遠ざかり始めていた。オレは必死で走るスピードを上げた。%K%P
-Haruka is getting farther away, despite my efforts to%Ncatch up. I desperately run faster.%K%P
+Haruka is getting farther away, despite my efforts to catch up. I desperately run faster.%K%P
 0x1BC
 とても追いつけそうにない。遙の方も、ますますスピードを上げているのだ。%K%P
 However, she's pedaling way too hard for me to keep up.%K%P
@@ -81,13 +81,13 @@ Haruka「I can take care of this by myself...」%K%P
 ... Her words shock me.%K%P
 0x27C
 誠「だからって、置いてかれた身になってみろよ」%K%P
-Makoto「You know, it kinda kills the purpose of me inviting you%Nalong if you go on without me.」%K%P
+Makoto「You know, it kinda kills the purpose of me inviting you along if you go on without me.」%K%P
 0x288
 遙「……自分のことは、自分ですれば？」%K%P
 Haruka「... I can do this by myself.」%K%P
 0x294
 誠「あのなあ、遙？%N自転車は１台しかないんだぞ？　わかるか、この意味？」%K%P
-Makoto「Listen up, Haruka. There's only one bike. Do you%Nunderstand what that means?」%K%P
+Makoto「Listen up, Haruka. There's only one bike. Do you understand what that means?」%K%P
 0x2A0
 遙「……」%K%P
 Haruka「...」%K%P
@@ -123,7 +123,7 @@ Makoto「Try to understand my position. I was the one who-」%K%P
 Haruka「Nevermind, then.」%K%P
 0x348
 そう言って、遙はなんと、自転車をまた漕ぎ出そうとした。%K平然と、である。%Kオレは慌てて自転車の荷台に飛びついた。%K%P
-She gets ready to pedal again, wearing a calm%Nexpression. (Well, even if I DID invite her...) Swallowing my%Npride, I quickly jump onto the bike's luggage carrier.%K%P
+She gets ready to pedal again, wearing a calm expression. (Well, even if I DID invite her...) Swallowing my pride, I quickly jump onto the bike's luggage carrier.%K%P
 0x354
 遙「何？　%W乗るの？」%K%P
 Haruka「What? Are you going to ride?」%K%P
@@ -147,10 +147,10 @@ I say this reluctantly.%K%P
 (Why does it have to be this way?)%K%P
 0x3B0
 ──と、言うわけで、遙の漕ぐ自転車の荷台に、オレはちんまりと座っている。%K%P
-―And so, Haruka pedals the bike while I sit on the%Nluggage carrier, barely fitting.%K%P
+―And so, Haruka pedals the bike while I sit on the luggage carrier, barely fitting.%K%P
 0x3BC
 若干の情けなさと、悔しさと、あと……%W少しだけ切なさがあった。%K%P
-This is a little pathetic and annoying, and... just a little bit%Nsad.%K%P
+This is a little pathetic and annoying, and... just a little bit sad.%K%P
 0x3C8
 （こんな近くにいるのに、ずいぶんと遠くに感じる女の子もいるものなんだな……）%K%P
 (We're so close, and yet she feels so distant...)%K%P
@@ -162,10 +162,10 @@ It bothers me.%K%P
 I cram the large grocery bag into the bike's basket.%K%P
 0x430
 そのとたん、前輪が頼りなさげな形にグニャリと歪んだ。なにしろ１０キロの米だ。%K%P
-Just then, the front wheel begins to bend under the%Nweight of the rice. Figures. We did buy 22 pounds of it,%Nafter all.%K%P
+Just then, the front wheel begins to bend under the weight of the rice. Figures. We did buy 22 pounds of it, after all.%K%P
 0x444
 そんなことには目もくれず、遙はすっと自転車にまたがった。またしても、平然と、%Wである。%K%P
-Without giving me a glance, Haruka heads straight for the%Nbike again, with the same composure as earlier.%K%P
+Without giving me a glance, Haruka heads straight for the bike again, with the same composure as earlier.%K%P
 0x450
 誠「ちょっと待て」%K%P
 Makoto「Hold on.」%K%P
@@ -174,10 +174,10 @@ Makoto「Hold on.」%K%P
 Haruka「Hurry up and get on.」%K%P
 0x468
 いくらなんでも、またそういうわけには行かないだろう。この自転車の状態だぞ。%K%P
-No matter what, I can't let her handle the bike this time.%NNot with the bike in this condition.%K%P
+No matter what, I can't let her handle the bike this time. Not with the bike in this condition.%K%P
 0x474
 それに、遙は女の子なのだ。ちょっと得体のしれないところがあると言っても……。%K%P
-And besides, Haruka's a girl. Even if she has an unusual%Nside to her, it's my duty as a man to help her in a%Nsituation like this...%K%P
+And besides, Haruka's a girl. Even if she has an unusual side to her, it's my duty as a man to help her in a situation like this...%K%P
 0x480
 遙「帰らないの？」%K%P
 Haruka「Are you staying?」%K%P
@@ -195,13 +195,13 @@ Haruka「Huh?」%K%P
 Makoto「Yeah. This time, I'll pedal. Okay?」%K%P
 0x4BC
 オレは遙をどかして、自転車のハンドルを握った。遙を振り返り、荷台を指し示す。%K%P
-I help Haruka off the bike, and then grab its handles.%NHaruka turns around to face the luggage carrier.%K%P
+I help Haruka off the bike, and then grab its handles. Haruka turns around to face the luggage carrier.%K%P
 0x4C8
 誠「人間、助け合わなきゃな？」%K%P
 Makoto「People have to help each other out, right?」%K%P
 0x4D4
 あとあと大変なことになるのがわかっていながら、オレはついカッコつけてしまった。%K%P
-This might come back to bite me in the ass later on, but%Nwho cares?%K%P
+This might come back to bite me in the ass later on, but who cares?%K%P
 0x4E0
 遙「助け、%W%W合う……」%K%P
 Haruka「Help each other... out...」%K%P
@@ -210,28 +210,28 @@ Haruka「Help each other... out...」%K%P
 Makoto「Right. Anyway, get on.」%K%P
 0x4F8
 遙はコクンとうなづいた。強情に見えて妙に素直なところもあるんだな。%K%P
-Haruka nods. She seems stubborn, but she can also be%Nsurprisingly obedient.%K%P
+Haruka nods. She seems stubborn, but she can also be surprisingly obedient.%K%P
 0x50C
 荷台に横座りになった遙をチラリと見て、オレは微笑ましい気持ちになっていた。%K%P
-I glance at Haruka, whose legs are dangling off one side%Nof the bike, and I feel warm inside.%K%P
+I glance at Haruka, whose legs are dangling off one side of the bike, and I feel warm inside.%K%P
 0x550
 が、オレはやっぱり後悔していた。%W何をって、遙を荷台に乗せてしまったことをだ。%K%P
-Looks like it really did come back to bite me in the ass.%NThat is, letting Haruka ride on the luggage carrier.%K%P
+Looks like it really did come back to bite me in the ass. That is, letting Haruka ride on the luggage carrier.%K%P
 0x55C
 細身の遙の体重は、かなり軽いはずだ。%Nしかし１０キロの米は伊達じゃなかった。オレの大腿筋への負荷は、尋常じゃないほど苛烈なものとなっていた。%K%P
-She's petite, and doesn't weigh much, but those 22%Npounds of rice sure do. My thigh muscles are burning... Is%Nthis much pain even normal?%K%P
+She's petite, and doesn't weigh much, but those 22 pounds of rice sure do. My thigh muscles are burning... Is this much pain even normal?%K%P
 0x568
 遙「私、降りようか？」%K%P
 Haruka「Should I get off?」%K%P
 0x574
 オレの腰をしっかりとつかみながら、後ろに座った遙が声をかけてくる。%K%P
-Haruka firmly grabs my waist from behind, waiting for an%Nanswer.%K%P
+Haruka firmly grabs my waist from behind, waiting for an answer.%K%P
 0x580
 誠「いや、いい」%K%P
 Makoto「No, I'm fine.」%K%P
 0x58C
 カチンときた。ここで後に引けるか。つい意地を張ってしまった。%K%P
-I hear a clink. That can't be good, but I can't just give up%Nnow!%K%P
+I hear a clink. That can't be good, but I can't just give up now!%K%P
 0x598
 遙「私が降りたほうが合理的だと思う」%K%P
 Haruka「I think it would be logical for me to do so.」%K%P
@@ -246,7 +246,7 @@ Makoto「I said I'm fine! There's no way I'm stopping here!」%K%P
 Haruka「Why are you angry?」%K%P
 0x5C8
 誠「どうしてもだ！%W　やるって言ったんだから、やるんだよ、絶対に……！」%K%P
-Makoto「Enough already! Look, I said I would do this, so I'm%Ndefinitely doing it...!」%K%P
+Makoto「Enough already! Look, I said I would do this, so I'm definitely doing it...!」%K%P
 0x5D4
 遙「……そうなんだ」%K%P
 Haruka「... I see.」%K%P
@@ -255,10 +255,10 @@ Haruka「... I see.」%K%P
 Curious, I try to get a glimpse of her facial expression.%K%P
 0x5EC
 その瞬間、つぶれた後輪がズルズルと滑ってドリフト状態になった。%K%P
-However, just then, the rear wheel slips and collapses%Nfrom the pressure.%K%P
+However, just then, the rear wheel slips and collapses from the pressure.%K%P
 0x5F8
 遙「危ない！」%K%P
 Haruka「Look out!」%K%P
 0x604
 そう言うなり、遙はぎゅっとオレの背中にしがみついてきた。小さな２つの膨らみが感じられる。体中がカッと熱くなっていた……。%K%P
-Haruka clings to me with all her might. I feel two soft%Nobjects bulge against me. My whole body then burns up%Nwith extreme heat...%K%P
+Haruka clings to me with all her might. I feel two soft objects bulge against me. My whole body then burns up with extreme heat...%K%P

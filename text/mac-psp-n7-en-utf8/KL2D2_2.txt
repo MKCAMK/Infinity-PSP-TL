@@ -3,7 +3,7 @@ text area offset and size:
 0xA06
 0x80
 みんながぞろぞろと帰って来たのは、それから２時間ほど経った頃だった……。%K%P
-Two hours later, everyone comes back in quick%Nsuccession...%K%P
+Two hours later, everyone comes back in quick succession...%K%P
 0x94
 優夏「ぎゃはははははははっ♪」%K%P
 Yuka「Gyahahahahahahaha♪」%K%P
@@ -12,25 +12,25 @@ Yuka「Gyahahahahahahaha♪」%K%P
 Yuka is drunk, just as expected.%K%P
 0xAC
 くるみは、優夏とオレの顔を交互に見ながら、口をぽか〜んと開けている。%K%P
-Kurumi's jaw has dropped as she looks back and forth%Nbetween Yuka and I.%K%P
+Kurumi's jaw has dropped as she looks back and forth between Yuka and I.%K%P
 0xB8
 いづみ「どうも飲み過ぎたみたいなのよねぇ……ビール……」%K%P
 Izumi「It seems she had quite a lot of beer to drink...」%K%P
 0xC4
 いづみさんは少し困ったような顔で、くるみに事情を説明した。%K%P
-Izumi-san explains the circumstances to Kurumi while%Nlooking a little disturbed.%K%P
+Izumi-san explains the circumstances to Kurumi while looking a little disturbed.%K%P
 0xD8
 優夏「くるみたん……どうれすか、ぐあいのほうは？」%K%P
 Yuka「Kurumi-tan... Hau aah yuu feelin'?」%K%P
 0xEC
 くるみ「う、うん……。ちょっと横になったら……良くなっちゃった……」%K%P
-Kurumi「G-Good... After Kurumi had a nap, she got completely%Nbetter...」%K%P
+Kurumi「G-Good... After Kurumi had a nap, she got completely better...」%K%P
 0xF8
 動揺の色を隠し切れない様子……。%K%P
 She's unable to hide just how shocked she is...%K%P
 0x104
 くるみは今、オレの指示に従って、右手にマグカップを持っている。中には、薄い膜を張った牛乳が注がれていた。%K%P
-Just as I had said, Kurumi is holding a mug in her right%Nhand with a thin film of hot milk in it.%K%P
+Just as I had said, Kurumi is holding a mug in her right hand with a thin film of hot milk in it.%K%P
 0x118
 優夏「おおっ、それはよかったよかった、なっはっはっはっは♪」%K%P
 Yuka「Ohhhh! Dash gud, dash gud, nahahahaha♪」%K%P
@@ -39,7 +39,7 @@ Yuka「Ohhhh! Dash gud, dash gud, nahahahaha♪」%K%P
 Yuka「Ah!!」%K%P
 0x138
 突然、優夏が身を乗り出すようにして、くるみの持ったマグカップをビシッと指差した。%K%P
-Yuka suddenly leans forward and points to the mug in%NKurumi's hand.%K%P
+Yuka suddenly leans forward and points to the mug in Kurumi's hand.%K%P
 0x144
 優夏「わたくし、たったいま、ものすごいことにきづいてしまいましたっ！」%K%P
 Yuka「Eye have jusht come up wif shomefing amashin'!」%K%P
@@ -57,7 +57,7 @@ Kurumi「...???」%K%P
 Yuka「Ish a joke, a joke!」%K%P
 0x188
 優夏「『くるみとっホットミルク』……ぎゃくからよんれも『クルミトッホっとみるく』」%K%P
-Yuka「Whaa doo yuu get when yuu crosh Kurumi wif milk? ...%NKurumilk!」%K%P
+Yuka「Whaa doo yuu get when yuu crosh Kurumi wif milk? ... Kurumilk!」%K%P
 0x19C
 くるみ「……う、うそぉ……」%K%P
 Kurumi「... N-No way...」%K%P
@@ -84,7 +84,7 @@ Yuka「Sho it washn't funee... Eye shee...」%K%P
 Yuka「Haah...」%K%P
 0x214
 大きなため息をついて、急にふさぎ込む優夏。いよいよだ。%K%P
-... Yuka lets out a big sigh, and suddenly looks mopey...%NHere it comes...%K%P
+... Yuka lets out a big sigh, and suddenly looks mopey... Here it comes...%K%P
 0x228
 優夏「ト…ト…ト…」%K%P
 Yuka「To... To... To...」%K%P
@@ -108,7 +108,7 @@ Yuka「Eye wanna eat toro!!」%K%P
 Kurumi「Y-Yuka-san... why...???」%K%P
 0x28C
 優夏「いいのっ！　トロがたべたいのっ！　とにかくトロがたべたいのぉぉぉっ！！！」%K%P
-Yuka「Ish faine! Eye want toro! Eye jusht wanna eat shum%NTOROOOOOOOO!!!」%K%P
+Yuka「Ish faine! Eye want toro! Eye jusht wanna eat shum TOROOOOOOOO!!!」%K%P
 0x298
 くるみは、救いを求めるような眼差しで、オレのことを見ていた。%K%P
 Kurumi looks towards me for help.%K%P
@@ -120,7 +120,7 @@ I give her an encouraging nod.%K%P
 But...%K%P
 0x2C4
 くるみ「ダ、ダメだよ、優夏さん！　%N絶対に釣りはダメ！　%Nそう約束しちゃったんだも〜ん！」%K%P
-Kurumi「Y-You can't, Yuka-san! We absolutely cannot go fishing!%NKurumi promised so!」%K%P
+Kurumi「Y-You can't, Yuka-san! We absolutely cannot go fishing! Kurumi promised so!」%K%P
 0x2D0
 ……くるみはダイレクトにそう言った。%K%P
 ... Kurumi's response is too direct.%K%P
@@ -132,22 +132,22 @@ This will only end up causing the reverse effect...%K%P
 Yuka「Huh? Pisshing?」%K%P
 0x2FC
 しかし、酔っ払った優夏はさっぱり意味がわかっていないらしい。%K%P
-Luckily, Yuka's so drunk that she ended up mishearing%NKurumi.%K%P
+Luckily, Yuka's so drunk that she ended up mishearing Kurumi.%K%P
 0x308
 ギリギリの所だったが、どうやら最悪の事態はまぬがれたようだ……。%K%P
-It seems that the crisis has been averted at the last%Nmoment...%K%P
+It seems that the crisis has been averted at the last moment...%K%P
 0x380
 その後は、優夏のひとり舞台だった。%K%N
 After that, it's all Yuka's stage.%K%N
 0x38C
 酔った優夏は感情の起伏が激しく（酔わなくてもか？）なだめたり、なぐさめたり、付き合い笑いをしたりしている間に……%K%N%N
-The intoxicated Yuka goes through some violent mood%Nswings, from being calm, to inconsolable, to laughing%Nloudly...%K%N%N
+The intoxicated Yuka goes through some violent mood swings, from being calm, to inconsolable, to laughing loudly...%K%N%N
 0x398
 ……いつの間にか夜になってしまった。%K%P
 ... And before I know it, it's gotten dark.%K%P
 0x3AC
 だが、とにかく『沙紀が溺れる』というあの事件は、オレ達の歴史の中から完全に抹消されることとなった。%K%N%N
-At any rate, the incident where Saki almost drowned has%Nbeen erased from our history.%K%N%N
+At any rate, the incident where Saki almost drowned has been erased from our history.%K%N%N
 0x3B8
 『この７日間を楽しい出来事だけで埋め尽くすこと』──計画は順調に進んでいるようだ。%K%P
-「The next seven days will be happy ones.」 ―It seems%Nthe plan's progressing favorably so far...%K%P
+「The next seven days will be happy ones.」 ―It seems the plan's progressing favorably so far...%K%P

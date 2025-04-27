@@ -3,13 +3,13 @@ text area offset and size:
 0x3972
 0x28
 優夏の涙が乾き、泣きはらしたまぶたから赤みが失せるまでに１時間程かかった。%K%P
-An hour passes until Yuka stops weeping her eyes out.%NHer tears have finally dried and her eyes are no longer%Nred.%K%P
+An hour passes until Yuka stops weeping her eyes out. Her tears have finally dried and her eyes are no longer red.%K%P
 0x34
 今、優夏はすっかりと落ち着きを取り戻している。%K%P
 She's completely regained her composure now.%K%P
 0x40
 あの大量の涙が、きっと優夏の心を洗い流してくれたのだろう。%K%P
-Those many tears were clearly the result of Yuka rinsing%Nout her heart.%K%P
+Those many tears were clearly the result of Yuka rinsing out her heart.%K%P
 0x4C
 誠「優夏……いちおう確認の為、聞くけど……」%K%P
 Makoto「Yuka... I have to confirm something with you...」%K%P
@@ -24,7 +24,7 @@ Makoto「Do you remember what happened to us?」%K%P
 Yuka gives a nod.%K%P
 0x84
 誠「ならその前のことも、忘れてないよな？　これまでの６日間のこと……？」%K%P
-Makoto「Then you didn't forget anything else before that, right?%NWhat happened in the past six days, that is...?」%K%P
+Makoto「Then you didn't forget anything else before that, right? What happened in the past six days, that is...?」%K%P
 0x90
 優夏「うん……」%K%P
 Yuka「No, I remember it all...」%K%P
@@ -39,10 +39,10 @@ Yuka「Saki almost drowning at the pier...」%K%P
 Yuka「The shock I felt from learning Haruka was a clone...」%K%P
 0xC0
 優夏「くるみちゃんがいなくなって、あの神社に探しに行って……」%K%P
-Yuka「Kurumi-chan's disappearance, and then finding her at%Nthe shrine...」%K%P
+Yuka「Kurumi-chan's disappearance, and then finding her at the shrine...」%K%P
 0xCC
 優夏「今思えばあのときから、全ては始まってたのかも……」%K%P
-Yuka「Now that I think about it, that might have been when all of%Nthis began...」%K%P
+Yuka「Now that I think about it, that might have been when all of this began...」%K%P
 0xD8
 優夏「あのとき、神社にさえ行かなければ……」%K%P
 Yuka「If we hadn't gone to the shrine back then...」%K%P
@@ -54,7 +54,7 @@ Yuka「If we hadn't gone to the shrine back then...」%K%P
 That... might be true.%K%P
 0x104
 だからあのとき、オレが神社に行こうとするのを、優夏は必死に止めようとしたのか……。%K%P
-That's why back then, when I tried to go to the shrine,%NYuka desperately tried to stop me...%K%P
+That's why back then, when I tried to go to the shrine, Yuka desperately tried to stop me...%K%P
 0x118
 優夏「それからあの夜のことも、しっかりと覚えてるよ？」%K%P
 Yuka「I also remember that night too...」%K%P
@@ -96,7 +96,7 @@ Yuka「We've got to confirm it from other sources.」%K%P
 Makoto「... Confirm what?」%K%P
 0x1C4
 優夏はつかつかとドアの前に歩み寄り、ドアノブに手をかけた。%K%P
-Yuka walks briskly to the door, and starts to grab the%Ndoorknob.%K%P
+Yuka walks briskly to the door, and starts to grab the doorknob.%K%P
 0x1D0
 優夏「本当に、タイムスリップしたのか……」%K%P
 Yuka「If we really time traveled...」%K%P
@@ -111,7 +111,7 @@ Yuka「Hmm?」%K%P
 Yuka turns around.%K%P
 0x208
 誠「もしかして、遙と億彦に、全部話すつもりなのか？」%K%P
-Makoto「Don't tell me that you're planning to tell Haruka and%NOkuhiko everything?」%K%P
+Makoto「Don't tell me that you're planning to tell Haruka and Okuhiko everything?」%K%P
 0x214
 優夏「まさか……」%K%P
 Yuka「No way...」%K%P
@@ -120,7 +120,7 @@ Yuka「No way...」%K%P
 Yuka「I think it'd be best if we still kept this quiet.」%K%P
 0x22C
 優夏「だから誠も、何事もなかったように、いつもの誠っぽく普通にしてて……？」%K%P
-Yuka「So pretend that nothing's happened and act like your%Nusual self...」%K%P
+Yuka「So pretend that nothing's happened and act like your usual self...」%K%P
 0x238
 何事もなかったように、って……そんなこと、オレにできるのだろうか？%K%P
 Pretend that nothing's happened... Can I really do that...?%K%P
@@ -144,22 +144,22 @@ Yuka「Good morning!」%K%P
 I am surprised by her tone.%K%P
 0x31C
 何しろ、ついさっきまでの深刻な語調からは、およそ想像もできぬ程の明るさに満ちていたのだから。%K%P
-In a matter of seconds, she's gone from an extremely%Nserious tone to an almost unimaginably cheerful voice.%K%P
+In a matter of seconds, she's gone from an extremely serious tone to an almost unimaginably cheerful voice.%K%P
 0x328
 『何事もなかったように』──きっとこれは、優夏の精一杯の演技なのだろう。%K%P
-「Pretend that nothing happened.」―Yuka is really%Ntrying her best to do so.%K%P
+「Pretend that nothing happened.」―Yuka is really trying her best to do so.%K%P
 0x344
 億彦「やあ！」%K%P
 Okuhiko「Hey!」%K%P
 0x350
 億彦の挨拶は、例の民衆を見下した独裁者のそれだった。%K%P
-Okuhiko's greeting still sounds like a dictator looking%Ndown on his people.%K%P
+Okuhiko's greeting still sounds like a dictator looking down on his people.%K%P
 0x35C
 億彦「ずいぶん遅いお目覚めだねぇ？」%K%P
 Okuhiko「You woke up really late, huh?」%K%P
 0x370
 億彦「なんか今、２人とも、同じ部屋から出て来たみたいだけど、気のせいかな？」%K%P
-Okuhiko「Is it my imagination, or did the two of you just come out of%Nthe same room?」%K%P
+Okuhiko「Is it my imagination, or did the two of you just come out of the same room?」%K%P
 0x37C
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -189,7 +189,7 @@ It's the exact same scene from the 1st...%K%P
 This feels kind of strange.%K%P
 0x408
 確かに違うチャンネルに変えた筈なのに、同じＣＭをやっているときのような、そんな感覚に似ている。%K%P
-It feels like changing the TV channel during commercial%Nbreak, only to find the same commercial playing on that%Nother channel.%K%P
+It feels like changing the TV channel during commercial break, only to find the same commercial playing on that other channel.%K%P
 0x414
 少し不気味でもあった……。%K%P
 It's a little creepy...%K%P
@@ -204,7 +204,7 @@ Yuka speaks up.%K%P
 Yuka「What's today's date again?」%K%P
 0x44C
 億彦「ええっ！？　おいおい、どうしちゃったんだよ、優夏ちゃん？　頭でも打ったの？」%K%P
-Okuhiko「Huh!? Hey, what's wrong, Yuka-chan? Did you hit your%Nhead?」%K%P
+Okuhiko「Huh!? Hey, what's wrong, Yuka-chan? Did you hit your head?」%K%P
 0x458
 優夏「う、うーん……何か最近、物忘れがひどくって……」%K%P
 Yuka「H-Hmm... Lately, I've been awfully forgetful...」%K%P
@@ -264,7 +264,7 @@ Yuka「Y-Yeah... Of course. Right, right, right, right...」%K%P
 Yuka「What was I saying... I wonder if I'm still half asleep.」%K%P
 0x580
 億彦「合宿初日の日付を忘れるなんて……ほんとに大丈夫かい？　優夏ちゃん……」%K%P
-Okuhiko「Forgetting the date on the first day of the Camp... are%Nyou really all right, Yuka-chan...?」%K%P
+Okuhiko「Forgetting the date on the first day of the Camp... are you really all right, Yuka-chan...?」%K%P
 0x594
 優夏「ははっ、ははっ、はははははははは……」%K%P
 Yuka「Haha, haha, hahahahahahahaha...」%K%P
@@ -273,7 +273,7 @@ Yuka「Haha, haha, hahahahahahahaha...」%K%P
 Yuka fakes a laugh.%K%P
 0x5AC
 億彦「こりゃ先が思いやられるな……。しっかりしてくれよ、班長さん？」%K%P
-Okuhiko「I can just tell it's going to be hard going... Hang in there,%Nleader.」%K%P
+Okuhiko「I can just tell it's going to be hard going... Hang in there, leader.」%K%P
 0x5C8
 誠「もしかすると、４月７日日曜日、かも……？」%K%P
 Makoto「Perhaps it's Sunday, April 7th...?」%K%P
@@ -315,7 +315,7 @@ Yuka immediately follows up.%K%P
 Okuhiko「Ha ha, isn't that obvious?」%K%P
 0x694
 億彦「合宿初日の日付を忘れるなんて……ほんとに大丈夫かい？　優夏ちゃん……」%K%P
-Okuhiko「Forgetting the date on the first day of the Camp... are%Nyou really all right, Yuka-chan...?」%K%P
+Okuhiko「Forgetting the date on the first day of the Camp... are you really all right, Yuka-chan...?」%K%P
 0x6A8
 優夏「ははっ、ははっ、はははははははは……」%K%P
 Yuka「Haha, haha, hahahahahahahaha...」%K%P
@@ -324,7 +324,7 @@ Yuka「Haha, haha, hahahahahahahaha...」%K%P
 Yuka fakes a laugh.%K%P
 0x6C0
 億彦「こりゃ先が思いやられるな……。しっかりしてくれよ、班長さん？」%K%P
-Okuhiko「I can just tell it's going to be hard going... Hang in there,%Nleader.」%K%P
+Okuhiko「I can just tell it's going to be hard going... Hang in there, leader.」%K%P
 0x6D4
 誠「忘れた」%K%P
 Makoto「I forgot.」%K%P
@@ -363,7 +363,7 @@ Okuhiko「Are you going to say you really forgot?」%K%P
 Okuhiko「No matter what, that's impossible.」%K%P
 0x76C
 億彦「今日が合宿の初日だっていうのに、その日付を忘れる奴なんて、いるわけがない」%K%P
-Okuhiko「Today's the first day of the Camp, so there's no way%Nanyone could have forgotten the date.」%K%P
+Okuhiko「Today's the first day of the Camp, so there's no way anyone could have forgotten the date.」%K%P
 0x778
 ってことはやっぱり……。%K%P
 Then, that means it's really...%K%P
@@ -390,7 +390,7 @@ Yuka fakes a laugh...%K%P
 Makoto「R-Right... today's date? Yes, yes, yes, yes, yes...」%K%P
 0x800
 誠「大丈夫か、優夏？　そんなこと忘れるなんて、ちょっと重症だぞ、それ？」%K%P
-Makoto「You okay, Yuka? You must be seriously ill to forget%Nsomething like that, huh?」%K%P
+Makoto「You okay, Yuka? You must be seriously ill to forget something like that, huh?」%K%P
 0x80C
 誠「なあ、遙？」%K%P
 Makoto「Right, Haruka?」%K%P
@@ -414,7 +414,7 @@ Yuka「A-Ah... r-r-r-r-r-r-right, of course!」%K%P
 Yuka「What am I saying...」%K%P
 0x870
 億彦「合宿初日の日付を忘れるなんて……ほんとに大丈夫かい？　優夏ちゃん……」%K%P
-Okuhiko「Forgetting the date on the first day of the Camp... are%Nyou really all right, Yuka-chan...?」%K%P
+Okuhiko「Forgetting the date on the first day of the Camp... are you really all right, Yuka-chan...?」%K%P
 0x87C
 優夏「ははっ、ははっ、はははははははは……」%K%P
 Yuka「Haha, haha, hahahahahahahaha...」%K%P
@@ -423,7 +423,7 @@ Yuka「Haha, haha, hahahahahahahaha...」%K%P
 Yuka fakes a laugh.%K%P
 0x894
 億彦「こりゃ先が思いやられるな……。しっかりしてくれよ、班長さん？」%K%P
-Okuhiko「I can just tell it's going to be hard going... Hang in there,%Nleader.」%K%P
+Okuhiko「I can just tell it's going to be hard going... Hang in there, leader.」%K%P
 0x8A8
 ……やはり、オレ達の推測は間違いではなかった。%K%P
 Our guess was right after all.%K%P
@@ -447,7 +447,7 @@ She points at the terrace.%K%P
 Makoto「Hmm?」%K%P
 0x924
 と思う間もなく、今度はいきなりオレの手をつかんで、テラスに向かって歩き始めた……。%K%P
-Without giving me time to think, she suddenly grabs my%Nhand, and starts walking out to the terrace...%K%P
+Without giving me time to think, she suddenly grabs my hand, and starts walking out to the terrace...%K%P
 0x994
 誠「な、なんだよ、優夏？　ここに、何かいたのか？」%K%P
 Makoto「Wh-What is it, Yuka? Is there something here?」%K%P
@@ -468,7 +468,7 @@ Makoto「Ah... so that was it?」%K%P
 Yuka「Geez, you're so thickheaded...」%K%P
 0x9E4
 誠「……で、どうする？　これで、今日が１日ってことは確かめられたけど……」%K%P
-Makoto「... So what should we do? We've confirmed that today is%Nthe 1st, but...」%K%P
+Makoto「... So what should we do? We've confirmed that today is the 1st, but...」%K%P
 0x9F8
 優夏「うーん……」%K%P
 Yuka「Hmm...」%K%P
@@ -486,16 +486,16 @@ Makoto「Why not?」%K%P
 Yuka「There's no time right now. I'll tell you later.」%K%P
 0xA44
 優夏「あんまりここにいると、怪しまれるから……」%K%P
-Yuka「If we spend too much time here, they may get suspicious%Nof us...」%K%P
+Yuka「If we spend too much time here, they may get suspicious of us...」%K%P
 0xA60
 優夏「とりあえず誠は、いつも通りにしてて？」%K%P
 Yuka「For now, just act normally.」%K%P
 0xA6C
 優夏「もう２度と、さっきみたいなこと……言わないでよ！？」%K%P
-Yuka「Never say anything like what you said earlier again, all%Nright!?」%K%P
+Yuka「Never say anything like what you said earlier again, all right!?」%K%P
 0xA80
 優夏「とりあえず、誠はさっきみたいな感じで、いつも通りにしてて？」%K%P
-Yuka「For now, can you act like you usually do, like you did just%Nnow?」%K%P
+Yuka「For now, can you act like you usually do, like you did just now?」%K%P
 0xA8C
 誠「だけどっ」%K%P
 Makoto「But―」%K%P
@@ -507,7 +507,7 @@ Yuka「It's fine! Just do as I say!」%K%P
 Yuka「Anyway, act normal... Okay? Do you understand?」%K%P
 0xADC
 オレの返事も聞かず、優夏はロッジの中に戻ってしまった。%K%P
-Yuka has gone back inside without listening to my%Nanswer.%K%P
+Yuka has gone back inside without listening to my answer.%K%P
 0xAE8
 （う〜ん……）%K%P
 (Mmm...)%K%P
@@ -525,7 +525,7 @@ Yuka「Yeah, a bush warbler. It was perched on the railing...」%K%P
 Yuka tells a quick lie.%K%P
 0xBA8
 億彦「へぇ〜、ウグイスかぁ……。何だか、季節を感じさせるねぇ……」%K%P
-Okuhiko「Oh, a bush warbler... Really makes you feel that it's the%Nstart of spring, huh...?」%K%P
+Okuhiko「Oh, a bush warbler... Really makes you feel that it's the start of spring, huh...?」%K%P
 0xBC4
 優夏「……あっ、そうだ！」%K%P
 Yuka「Ah, that's right!」%K%P
@@ -537,7 +537,7 @@ Yuka「Guys, you haven't had breakfast yet, right?」%K%P
 Makoto「...」%K%P
 0xBE8
 億彦「ああ。そう言えばさっきから、お腹がグーグーいってるよ」%K%P
-Okuhiko「Yeah. Now that you mention it, my stomach's been%Ngrowling for a while.」%K%P
+Okuhiko「Yeah. Now that you mention it, my stomach's been growling for a while.」%K%P
 0xC0C
 優夏「じゃあ私が、腕によりをかけて作ってあげちゃおっかな」%K%P
 Yuka「Well then, I'll start making something now.」%K%P
@@ -576,7 +576,7 @@ Yuka「... Fermented soybeans, enoki mushrooms, mayonnaise...」%K%P
 Yuka「... Chocolate, ice cream, and muscat jelly, so...」%K%P
 0xCE0
 優夏「……それを全部ミキサーにかけて、フライパンで焼こうかな？　とか思ってるんだけど……」%K%P
-Yuka「... I'll put it all in a mixer and cook it in a frying pan. What do%Nyou think...?」%K%P
+Yuka「... I'll put it all in a mixer and cook it in a frying pan. What do you think...?」%K%P
 0xCEC
 誠「……………………」%K%P
 Makoto「...」%K%P
@@ -606,16 +606,16 @@ Haruka「...」%K%P
 Yuka「Fine! Then I'll add some toast to it!」%K%P
 0xEC0
 オレ達３人は何とか優夏を説得し、思いとどまらせることができた。%K%P
-Somehow, the three of us managed to convince her to%Ngive up.%K%P
+Somehow, the three of us managed to convince her to give up.%K%P
 0xECC
 ……その後、みんなは顔を洗い、歯を磨き、服を着替えた。%K%P
-... After that, we washed our faces, brushed our teeth,%Nand changed our clothes.%K%P
+... After that, we washed our faces, brushed our teeth, and changed our clothes.%K%P
 0xED8
 億彦が、部屋の隅に置かれたＴＶのスイッチを入れる。%K%P
 Okuhiko turns on the TV in the corner of the room.%K%P
 0xEE4
 ブラウン管に、見たことのある映像……さらさらと流れる小川のせせらぎが映った。%K%P
-The image I'm seeing from the cathode ray tubes is a%Nfamiliar one... it's the image of a small stream flowing.%K%P
+The image I'm seeing from the cathode ray tubes is a familiar one... it's the image of a small stream flowing.%K%P
 0xEF0
 速攻でチャンネルを変える億彦。%K%P
 Okuhiko quickly changes the channel.%K%P
@@ -624,16 +624,16 @@ Okuhiko quickly changes the channel.%K%P
 This time, an image of a cooking show appears.%K%P
 0xF08
 画面右上に『すこやかＹＯＵとぴあ』とタイトルロゴが表示されている。%K%P
-In the upper right hand corner of the screen is the title%Nlogo, 「A Healthy YOUtopia」.%K%P
+In the upper right hand corner of the screen is the title logo, 「A Healthy YOUtopia」.%K%P
 0xF14
 再び億彦がポチポチとチャンネルを切り替えたが、それ以外は全て砂嵐だった。%K%P
-Okuhiko changes the channel again, but all we see is the%Nriver from earlier.%K%P
+Okuhiko changes the channel again, but all we see is the river from earlier.%K%P
 0xF28
 億彦「どうやらここ、ローカル放送しか見れないらしいねぇ……」%K%P
-Okuhiko「It seems like all they've got is this local broadcasting%Ncrap...」%K%P
+Okuhiko「It seems like all they've got is this local broadcasting crap...」%K%P
 0xF3C
 億彦はそう言って『すこやかＹＯＵとぴあ』に画面を戻した。%K%P
-Okuhiko changes the channel back to 「A Healthy%NYOUtopia」.%K%P
+Okuhiko changes the channel back to 「A Healthy YOUtopia」.%K%P
 0xF50
 遙「ゴハン……どうするの？」%K%P
 Haruka「What should we do... about food?」%K%P
@@ -642,13 +642,13 @@ Haruka「What should we do... about food?」%K%P
 The cooking on screen only doubles Haruka's hunger.%K%P
 0xF78
 億彦「せっかくだから、外に食べに行くっていうのはどうだい？」%K%P
-Okuhiko「We finally got dressed and everything, so how about%Ngoing out to eat?」%K%P
+Okuhiko「We finally got dressed and everything, so how about going out to eat?」%K%P
 0xF84
 誠「いや、だけど今食べたら、夕方ぐらいにまた腹が減るぞ？」%K%P
-Makoto「No, if we eat now, then we'll just get hungry again too%Nearly in the afternoon, right?」%K%P
+Makoto「No, if we eat now, then we'll just get hungry again too early in the afternoon, right?」%K%P
 0xF90
 誠「出かけるんだったら、もうちょっと待った方がいいんじゃないかな？　あと……３０分ぐらい……」%K%P
-Makoto「If we're going to go out, then wouldn't it be best to wait a%Nlittle bit? Like, say... another half hour...」%K%P
+Makoto「If we're going to go out, then wouldn't it be best to wait a little bit? Like, say... another half hour...」%K%P
 0xF9C
 当然、オレには魂胆があった。%K%P
 Of course, I have a plan.%K%P
@@ -663,10 +663,10 @@ Okuhiko says this.%K%P
 Haruka also gives a nod of agreement.%K%P
 0xFD4
 優夏だけがオレの方を見て『ん？』と首を傾げている。%K%P
-This plan seems to bewilder Yuka and causes her to tilt%Nher head in confusion.%K%P
+This plan seems to bewilder Yuka and causes her to tilt her head in confusion.%K%P
 0xFE0
 オレは『アレだ！』と言葉に出さずに口だけを動かした。%K%P
-I mouth the words 「That!」 However, as it's only one%Nsyllable, Yuka doesn't get it. Therefore, I mouth the%Nletters 「T-H-A-T」.%K%P
+I mouth the words 「That!」 However, as it's only one syllable, Yuka doesn't get it. Therefore, I mouth the letters 「T-H-A-T」.%K%P
 0xFEC
 しかし、それでも優夏は意味がわかっていない様子だった。%K%P
 But Yuka still doesn't seem to understand what I mean.%K%P
@@ -711,7 +711,7 @@ Makoto「Huh? O-Oh... earlier.」%K%P
 Okuhiko「Earlier?」%K%P
 0x11AC
 億彦「……ああ、だから石原『３０分ぐらい待った方がいい』って、そう言ってたのかぁ……」%K%P
-Okuhiko「... Oh, so that's why you said 'it'd be best if we waited half%Nan hour'...」%K%P
+Okuhiko「... Oh, so that's why you said 'it'd be best if we waited half an hour'...」%K%P
 0x11B8
 億彦「だったら最初っから、そう言ってくれればいいのに……」%K%P
 Okuhiko「Then you should have just said so from the beginning...」%K%P
@@ -738,13 +738,13 @@ Yuka「Isn't the pizza a mistake?」%K%P
 Kurumi「Huh!? A mistake!?」%K%P
 0x125C
 くるみは動揺の色を浮かべながら、空いた左手でポケットを探り、１枚の紙切れを取り出す。%K%P
-A disturbed expression clouds her face as she%Nsearches through her pocket with her free hand until%Nshe pulls out a scrap of paper.%K%P
+A disturbed expression clouds her face as she searches through her pocket with her free hand until she pulls out a scrap of paper.%K%P
 0x1270
 くるみ「でも、伝票には確かに『シーフードピザ』って書いてあるよ？」%K%P
-Kurumi「But the receipt definitely says you ordered a 「Seafood%NPizza」, didn't you?」%K%P
+Kurumi「But the receipt definitely says you ordered a 「Seafood Pizza」, didn't you?」%K%P
 0x127C
 優夏「だからぁ、そういう意味じゃなくって、何も注文なんかしてないってこと」%K%P
-Yuka「I'm telling you, that's not what I meant. I'm saying we didn't%Norder anything.」%K%P
+Yuka「I'm telling you, that's not what I meant. I'm saying we didn't order anything.」%K%P
 0x1288
 くるみ「だけど……」%K%P
 Kurumi「But...」%K%P
@@ -804,22 +804,22 @@ Kurumi takes a thin box out of the silver bag.%K%P
 Kurumi「It'll be 1200 yen!」%K%P
 0x13A4
 遙が、ポケットから代金を取り出し、それをくるみに手渡す。%K%P
-Haruka takes some money out of her pocket, and gives%Nit to Kurumi.%K%P
+Haruka takes some money out of her pocket, and gives it to Kurumi.%K%P
 0x13B8
 くるみ「ありがとうございましたぁ♪」%K%P
 Kurumi「Thank you very much♪」%K%P
 0x13CC
 くるみは深々と一礼し、元気良く走り去って行った……。%K%P
-Kurumi gives a deep bow before she energetically runs%Noff...%K%P
+Kurumi gives a deep bow before she energetically runs off...%K%P
 0x1448
 オレ達４人は黙々とピザを食べた。%K%P
 The four of us eat the pizza.%K%P
 0x1454
 オレの『横取り作戦』を阻止しようとした優夏でさえ、何だかんだ言いながらも、ちゃっかりそれを食べている。%K%P
-Yuka eats the pizza in content, even though she had%Ntried to sabotage my plan to take the pizza and almost%Nscrewed everything up.%K%P
+Yuka eats the pizza in content, even though she had tried to sabotage my plan to take the pizza and almost screwed everything up.%K%P
 0x1460
 ふと、オレは腹を空かして待っているだろう沙紀のことを思った。%K%P
-I suddenly wonder how hungry the waiting Saki is right%Nnow.%K%P
+I suddenly wonder how hungry the waiting Saki is right now.%K%P
 0x146C
 ちょっとした罪悪感が込み上げる。%K%P
 I feel kind of guilty.%K%P
@@ -828,13 +828,13 @@ I feel kind of guilty.%K%P
 But I did what I had to do.%K%P
 0x1484
 腹が減っては戦はできぬ……そう自分に言い聞かせた。%K%P
-I convince myself what I did was a necessary evil... our%Nstomachs just couldn't fight off the hunger...%K%P
+I convince myself what I did was a necessary evil... our stomachs just couldn't fight off the hunger...%K%P
 0x14F0
 声「４月１日月曜日。お昼のニュースです」%K%P
 Announcer「Today is Monday, April 1st. This is the afternoon news.」%K%P
 0x14FC
 つけっぱなしにしていたＴＶから、アナウンサーの丁寧な言葉が聞こえた。%K%P
-We hear a polite voice from the announcer on the TV,%Nwhich is still on.%K%P
+We hear a polite voice from the announcer on the TV, which is still on.%K%P
 0x1508
 と同時に、やけに下手クソな鳩の鳴き声……。%K%P
 At the same time, that awful bird chirping noise starts...%K%P
@@ -849,28 +849,28 @@ Yuka said... that her first love was similar to me.%K%P
 「If you want to be free, then you mustn't be afraid.」%K%P
 0x1544
 そんなくさいセリフを言うような奴と、オレが似ているなんて考えられない。%K%P
-I don't think I could be similar to a guy who'd use a cheap%Nline like that.%K%P
+I don't think I could be similar to a guy who'd use a cheap line like that.%K%P
 0x1550
 むしろ、それなら億彦の方が、オレよりも近いような気がする。%K%P
-It feels more like something Okuhiko would say rather%Nthan me.%K%P
+It feels more like something Okuhiko would say rather than me.%K%P
 0x155C
 そんなことを思いながら、オレは何気なく、優夏の方を見た。%K%P
 I think this as I casually look towards Yuka.%K%P
 0x1568
 優夏の視線は鳩時計の方にはなく、オレの方にもなく、どこか不自然にそらしているようだった。%K%P
-She looks distracted, as if she's trying to avoid eye%Ncontact with someone or something.%K%P
+She looks distracted, as if she's trying to avoid eye contact with someone or something.%K%P
 0x158C
 億彦「ねえ、そろそろ行かないか？」%K%P
 Okuhiko「Hey, shouldn't we go now?」%K%P
 0x1598
 億彦が、長い前髪をかき上げながら立ち上がった。%K%P
-As he rises, Okuhiko flicks his long bangs away from his%Nface.%K%P
+As he rises, Okuhiko flicks his long bangs away from his face.%K%P
 0x15B4
 優夏「行くって……どこに？」%K%P
 Yuka「'Go'... where?」%K%P
 0x15C8
 億彦「ええっ？　何言ってるんだよ、優夏ちゃん。昨日の晩、話したじゃないかぁ……」%K%P
-Okuhiko「Huh? What are you saying, Yuka-chan? We talked about%Nit last night, right...?」%K%P
+Okuhiko「Huh? What are you saying, Yuka-chan? We talked about it last night, right...?」%K%P
 0x15D4
 億彦「テニスだよ。テ・ニ・ス！」%K%P
 Okuhiko「To play tennis. T-E-N-N-I-S!」%K%P
@@ -903,7 +903,7 @@ After thinking for a little while, he suggests this...%K%P
 Okuhiko「Then I'll go to the ocean, too.」%K%P
 0x168C
 億彦「せっかく海のそばに来たんだし、まず海を見なくちゃ何も始まらないからね？」%K%P
-Okuhiko「We're finally by the ocean, so it's only natural that we%Nought to see it first!」%K%P
+Okuhiko「We're finally by the ocean, so it's only natural that we ought to see it first!」%K%P
 0x16A0
 優夏「う〜〜〜ん…………うん！　わかった！」%K%P
 Yuka「Hmmmmmmm... Yeah! I've got it!」%K%P
@@ -915,13 +915,13 @@ Yuka slams her fist into her palm.%K%P
 It seems she got a good idea.%K%P
 0x16CC
 優夏「だったら、海チームとテニスチーム、ふた手に別れよっか？」%K%P
-Yuka「Then why don't we split into an Ocean Team and a Tennis%NTeam?」%K%P
+Yuka「Then why don't we split into an Ocean Team and a Tennis Team?」%K%P
 0x16D8
 優夏「遙と億彦くんは海へ、誠と私はテニスへ……それで、どう？」%K%P
-Yuka「Haruka and Okuhiko-kun will go to the ocean while Makoto%Nand I go play tennis... how's that?」%K%P
+Yuka「Haruka and Okuhiko-kun will go to the ocean while Makoto and I go play tennis... how's that?」%K%P
 0x16E4
 なるほど。２人っきりになってゆっくりと話をしようってことか……。%K%P
-I see. That means we'll be all alone and have enough time%Nfor a long discussion...%K%P
+I see. That means we'll be all alone and have enough time for a long discussion...%K%P
 0x1700
 億彦「ああ、僕は全くかまわないよ？」%K%P
 Okuhiko「Yeah, I don't mind at all.」%K%P
@@ -936,7 +936,7 @@ Haruka says nothing.%K%P
 I also say nothing.%K%P
 0x1750
 本来なら、オレと遙はこれから姫ヶ浜に行く予定だったが、オレはあえて口を出さずにいた。%K%P
-Originally, it was Haruka and I who went to Princess%NBeach after this, but I say nothing.%K%P
+Originally, it was Haruka and I who went to Princess Beach after this, but I say nothing.%K%P
 0x1764
 優夏「さっ、それじゃあ出かけましょ？」%K%P
 Yuka「All right then, shall we get going?」%K%P

@@ -3,25 +3,25 @@ text area offset and size:
 0x13BF
 0xA8
 『いくら陽射しが強いとは言え、さすがに水着１枚で外に出るのはちょっとつらい』%K%P
-「Although the sunlight is strong, it's only the start of%Nspring, so it'll be a bit cold to go outside with just a%Nbathing suit on.」%K%P
+「Although the sunlight is strong, it's only the start of spring, so it'll be a bit cold to go outside with just a bathing suit on.」%K%P
 0xB4
 『プールサイドに出たら、真っ先に水に飛び込んだ方がいいだろう』%K%P
-「If we go to the poolside, it'd probably be best to dive%Nstraight for the water.」%K%P
+「If we go to the poolside, it'd probably be best to dive straight for the water.」%K%P
 0xC0
 ……と思っていたが、予想に反して、外気は嘘みたいな暖かさだった。%K%P
-... At least, I was thinking that, but to my surprise, it's%Nactually warm outside.%K%P
+... At least, I was thinking that, but to my surprise, it's actually warm outside.%K%P
 0xCC
 かと言って夏のように汗ばむ程の暑さでもなく、%Nいたって快適な温度、といった感じだ。%K%P
-It's not as hot as it would be in the summer, but it's%Npleasantly warm.%K%P
+It's not as hot as it would be in the summer, but it's pleasantly warm.%K%P
 0xD8
 周りに張り巡らされた垣根が、防風林の役割を果してくれているからかもしれない。%K%P
-The hedges surrounding the perimeter probably help%Nkeep out the wind.%K%P
+The hedges surrounding the perimeter probably help keep out the wind.%K%P
 0xEC
 億彦「いやぁ〜、しっかし良い天気でよかったねぇ〜！」%K%P
 Okuhiko「Wooow, this really nice weather we're having, huh?!」%K%P
 0xF8
 ふいに億彦が、まぶしげに太陽を見つめながら、演歌歌手のような言い回しでそう言った。%K%P
-Suddenly, Okuhiko looks at the radiant sun while saying%Nan expression you'd expect from an enka singer.%K%P
+Suddenly, Okuhiko looks at the radiant sun while saying an expression you'd expect from an enka singer.%K%P
 0x104
 億彦「それに、優夏ちゃんにも感謝しなくちゃいけないなぁ〜」%K%P
 Okuhiko「Anyway, I think we ought to thank Yuka-chan.」%K%P
@@ -30,7 +30,7 @@ Okuhiko「Anyway, I think we ought to thank Yuka-chan.」%K%P
 Yuka「Huh? ... Why me?」%K%P
 0x168
 億彦「だって、合宿前の電話連絡で、言ってくれたじゃないか？」%K%P
-Okuhiko「Didn't you say it over the phone before we went to the%NCamp?」%K%P
+Okuhiko「Didn't you say it over the phone before we went to the Camp?」%K%P
 0x174
 億彦「『必ず水着を持参すること！』ってさ」%K%P
 Okuhiko「'Make sure to bring your swimsuit!'」%K%P
@@ -39,25 +39,25 @@ Okuhiko「'Make sure to bring your swimsuit!'」%K%P
 Yuka「R-Right...」%K%P
 0x194
 億彦「いくら海のそばだからって言っても、この季節じゃ泳ぐわけにもいかないし、なんで『水着持参』なんだろう？って、ちょっと不思議に思ってたんだ」%K%P
-Okuhiko「No matter how close the ocean is, there's no way you%Ncan go swimming in it in this season, so I was a little%Ncurious why you said to bring one.」%K%P
+Okuhiko「No matter how close the ocean is, there's no way you can go swimming in it in this season, so I was a little curious why you said to bring one.」%K%P
 0x1A0
 優夏「そ、%Wそうだよねぇ……」%K%P
 Yuka「T-That's true...」%K%P
 0x1B4
 億彦「けれど、これで納得がいったよ。まさか温水プールがあるとはねぇ〜」%K%P
-Okuhiko「But now it all makes sense. To think there would be a%Nheated pool here...」%K%P
+Okuhiko「But now it all makes sense. To think there would be a heated pool here...」%K%P
 0x1C0
 優夏「…………」%K%P
 Yuka「...」%K%P
 0x1CC
 誠「なるほど。確かに優夏に言われなけりゃ、水着なんか絶対持って来なかったもんな」%K%P
-Makoto「I see. I probably wouldn't have brought mine either if she%Nhadn't told us to.」%K%P
+Makoto「I see. I probably wouldn't have brought mine either if she hadn't told us to.」%K%P
 0x1D8
 億彦「そう。そういうこと！」%K%P
 Okuhiko「Right. And this is why!」%K%P
 0x1E4
 誠「だけど優夏、なんで近くに温水プールがあるなんて知ってたんだ？」%K%P
-Makoto「But Yuka, how did you know that there was a heated pool%Nhere?」%K%P
+Makoto「But Yuka, how did you know that there was a heated pool here?」%K%P
 0x1F0
 優夏「それは…%W%Wその……」%K%P
 Yuka「Well... that is...」%K%P
@@ -75,10 +75,10 @@ Makoto「Huh?」%K%P
 Yuka「I didn't know there was a heated pool!」%K%P
 0x244
 沙紀「えっ！？　%W%Wってことはひょっとして、海で泳ぐために『水着持参』って言ってたの、優夏？」%K%P
-Saki「What!!? Could it be that you actually said 'bring your%Nswimsuits' so that you could swim in the ocean?」%K%P
+Saki「What!!? Could it be that you actually said 'bring your swimsuits' so that you could swim in the ocean?」%K%P
 0x258
 優夏「だって……%Wここってけっこう南の方だし、もうとっくに海開きしてるもんだとばっかり……」%K%P
-Yuka「Well... Because this is so far south, I just assumed it'd%Nalready be beach going season here...」%K%P
+Yuka「Well... Because this is so far south, I just assumed it'd already be beach going season here...」%K%P
 0x26C
 沙紀「はははははっ♪」%K%P
 Saki「Ha ha ha ha ha ha♪」%K%P
@@ -87,13 +87,13 @@ Saki「Ha ha ha ha ha ha♪」%K%P
 Yuka「Why are you laughing?」%K%P
 0x28C
 沙紀「ねえ、優夏？　海水の温度っていうのはね、空気の温度よりも１ヶ月から２ヶ月ぐらい遅れて暖かくなるのよ？」%K%P
-Saki「Hey, Yuka? Didn't you know that the temperature of the%Nocean is about one or two months behind the air%Ntemperature?」%K%P
+Saki「Hey, Yuka? Didn't you know that the temperature of the ocean is about one or two months behind the air temperature?」%K%P
 0x2A0
 優夏「え？　%W%W……そう%W%W…なの？」%K%P
 Yuka「Huh? ... Is... that right?」%K%P
 0x2AC
 沙紀「そうなの！　つまりぃ、今は『１年の中で最も海水の温度が冷たくなる時期』っていうわけ！」%K%P
-Saki「It is! In other words, right now, the ocean is in the middle%Nof its coldest season of the year!」%K%P
+Saki「It is! In other words, right now, the ocean is in the middle of its coldest season of the year!」%K%P
 0x2C8
 いづみ「へぇ〜、よく知ってるじゃない、沙紀ちゃん？」%K%P
 Izumi「Wow, you're well informed, aren't you, Saki-chan?」%K%P
@@ -102,10 +102,10 @@ Izumi「Wow, you're well informed, aren't you, Saki-chan?」%K%P
 Izumi-san praises her almost as if she was a child.%K%P
 0x2E0
 沙紀「この時期に海に入るなんて、自殺行為だよ」%K%P
-Saki「Going into the ocean during this season would be%Nsuicidal.」%K%P
+Saki「Going into the ocean during this season would be suicidal.」%K%P
 0x2EC
 いづみさんに誉められたせいか、沙紀は少し鼻を高くしてそう付け加えた。%K%P
-Saki proudly adds this, encouraged by Izumi-san's%Npraise.%K%P
+Saki proudly adds this, encouraged by Izumi-san's praise.%K%P
 0x308
 億彦「まあどっちにしろ、結果的には良かったわけだから……」%K%P
 Okuhiko「Well, either way, I'd say everything still turned out well...」%K%P
@@ -114,40 +114,40 @@ Okuhiko「Well, either way, I'd say everything still turned out well...」%K%P
 Okuhiko「So I'm grateful to Yuka-chan.」%K%P
 0x320
 御自慢の長い髪をかき上げながら、億彦は優夏に流し目を送った。%K%P
-As he flips his long hair, Okuhiko sends Yuka a flirtatious%Nglance.%K%P
+As he flips his long hair, Okuhiko sends Yuka a flirtatious glance.%K%P
 0x334
 億彦「ああ……さんさんと降り注ぐこの太陽の恵み……何だか心がバーニングヒートさっ！」%K%P
-Okuhiko「Ah... the sun's brilliant rays are bathing us in it's light... It's%Nfilling my soul with a fiery heat!」%K%P
+Okuhiko「Ah... the sun's brilliant rays are bathing us in it's light... It's filling my soul with a fiery heat!」%K%P
 0x340
 今度は両手を広げ、天を仰ぎながら、訳のわからないセリフを……。%K%P
-As he says these ridiculous words, he spreads his arms%Nand lifts his face towards the sky...%K%P
+As he says these ridiculous words, he spreads his arms and lifts his face towards the sky...%K%P
 0x34C
 億彦「それじゃあ諸君、アディオ〜ス！」%K%P
 Okuhiko「Well then, adios, amigos!」%K%P
 0x360
 億彦はそう言い残すと、いきなりプールサイドを駆け出して、水面に向かって飛び込んだ。%K%P
-Okuhiko leaves us with these words, and he suddenly%Nbegins running towards the poolside, diving in...%K%P
+Okuhiko leaves us with these words, and he suddenly begins running towards the poolside, diving in...%K%P
 0x388
 が、華麗なる腹打ちダイブ……。%K%P
 ... With a 「magnificent」 belly dive...%K%P
 0x394
 『パチン』という痛々しい音とともに、豪快な水しぶきが舞い上がる。%K%P
-A sheet of water shoots up into the air as he%Npathetically crashes into the pool.%K%P
+A sheet of water shoots up into the air as he pathetically crashes into the pool.%K%P
 0x3A0
 それはまるで、カナヅチの女子小学生のように不格好な飛び込みだった。%K%P
-He dived like a clumsy, elementary school girl who can't%Nswim.%K%P
+He dived like a clumsy, elementary school girl who can't swim.%K%P
 0x3AC
 ただし、女子小学生のような愛らしさは、そこには微塵も無かったけれど……。%K%P
-However, this isn't nearly as comical... Rather, it's just%Nsad.%K%P
+However, this isn't nearly as comical... Rather, it's just sad.%K%P
 0x450
 ふと、ホテルの壁にかけられたアナログ時計を見ると、針はちょうど正午を指し示していた。%K%N
-I look at the analog clock on the wall of the hotel, whose%Nhands are pointing to exactly noon.%K%N
+I look at the analog clock on the wall of the hotel, whose hands are pointing to exactly noon.%K%N
 0x45C
 天気は、相変わらず良い。%K%P
 The weather is as good as ever.%K%P
 0x468
 みんなはプール内のアチコチへと散り、思い思いの事をしながら、それぞれに楽しんでいるようだ。%K%P
-Everyone else is scattered around the pool, idly%Npassing the time and having fun.%K%P
+Everyone else is scattered around the pool, idly passing the time and having fun.%K%P
 0x474
 さて、オレは……%K
 Well then, I will...%K
@@ -165,7 +165,7 @@ I want to go on the slide.
 Dive like a dolphin.
 0x51C
 喉が渇いたので売店で何か飲み物を調達することにした。%K%P
-I head over to the drink stand in order to quench my%Nthirst.%K%P
+I head over to the drink stand in order to quench my thirst.%K%P
 0x528
 売店に向かう途中、デッキチェアに横たわる沙紀の姿が目に映った。%K%P
 On my way there, I see Saki lying down on a deck chair.%K%P
@@ -180,25 +180,25 @@ I don't know why, but my body is just itching to do so.%K%P
 Is it because it's spring...?%K%P
 0x5C0
 『心がバーニングヒートさ』と言った億彦の気持ちが、何となく分かったような気がする。%K%P
-Whatever the reason, I think this is what Okuhiko meant%Nwhen he said, 「My soul is filled with a fiery heat.」%K%P
+Whatever the reason, I think this is what Okuhiko meant when he said, 「My soul is filled with a fiery heat.」%K%P
 0x5E8
 オレは早速、水中へと飛び込んだ。%K%P
 I immediately dive underwater.%K%P
 0x5F4
 飛び込んだスピードを殺さないように、すぐに水面へと浮上してクロールを始める。%K%P
-Without losing my diving speed, I start crawling up to the%Nsurface.%K%P
+Without losing my diving speed, I start crawling up to the surface.%K%P
 0x600
 頭の先からつま先へ、さらさらと水が流れていく。%K%P
 Rustling water begins to flow from my head to my toes.%K%P
 0x60C
 端から端まで泳ぎ切り、息つく間もなくクイックターン……。%K%P
-I swim from end to end, then do a quick turn without taking%Na breather...%K%P
+I swim from end to end, then do a quick turn without taking a breather...%K%P
 0x618
 自分でも驚くほどに体が軽い。%K%P
 Even I'm surprised at how nimble my body is.%K%P
 0x624
 まるで水面の上をつるつると滑っているような感覚だった。%K%P
-It feels like I'm smoothly gliding along on the water's%Nsurface.%K%P
+It feels like I'm smoothly gliding along on the water's surface.%K%P
 0x630
 誠「プハーッ！」%K%P
 Makoto「FWAAH!」%K%P
@@ -207,7 +207,7 @@ Makoto「FWAAH!」%K%P
 When I return to the start point, I gasp for air.%K%P
 0x648
 そして何気なく上方を見上げると、一段高くなったプールの縁で、誰かがオレのことを見下ろしていた。%K%P
-When I casually look up, I see someone looking down%Nupon me from the high edge of the pool.%K%P
+When I casually look up, I see someone looking down upon me from the high edge of the pool.%K%P
 0x6B4
 何だか滑り出したい気分になった。%K%P
 For some reason, I get the urge to go down the slide.%K%P
@@ -219,19 +219,19 @@ I'm pretty sure I saw it right by the pool.%K%P
 I used to love them as a kid.%K%P
 0x6D8
 あの頃……、まだ何も考えずに過ごすことのできたあの頃、%K%P
-That time... back when I still did things without thinking%Nabout them...%K%P
+That time... back when I still did things without thinking about them...%K%P
 0x6E4
 楽しいことだけ考えていられたあの頃、%K%P
 ... Back when I thought of only having fun...%K%P
 0x6F0
 大きくなったら何でも出来ると思いこんでいたあの頃……。%K%P
-... Back when I thought I could do anything when I grew%Nup...%K%P
+... Back when I thought I could do anything when I grew up...%K%P
 0x6FC
 あの頃の自分が、むしょうに懐かしい……。%K%P
 That time is very nostalgic to me...%K%P
 0x708
 ……よし！　童心に返った気持ちで、いっちょ滑ってみるか！%K%P
-... All right! I decide to act on my childish impulses and go%Ndown the slide!%K%P
+... All right! I decide to act on my childish impulses and go down the slide!%K%P
 0x714
 幸いなことに、今は滑り台周辺に子供の姿が見えない。%K%P
 Thankfully, there aren't any kids around right now.%K%P
@@ -249,7 +249,7 @@ For now, I will become a dolphin...!%K%P
 I take a deep breath, and dive into the pool.%K%P
 0x79C
 そのままプールの底ギリギリまで潜り、反対側のプールの端目指して泳ぎ出す。%K%P
-I barely avoid hitting the bottom of the pool at the last%Nsecond, and I swim towards the opposite end of the pool.%K%P
+I barely avoid hitting the bottom of the pool at the last second, and I swim towards the opposite end of the pool.%K%P
 0x7A8
 ………………………………。%K%P
 ...%K%P
@@ -258,7 +258,7 @@ I barely avoid hitting the bottom of the pool at the last%Nsecond, and I swim to
 Air leaks out of my mouth, becoming bubbles.%K%P
 0x7C0
 オレは息の続くうちにと、一気に端まで泳いでしまうことにした。%K%P
-While continuing to hold my breath, I try to make it to the%Nother side without breathing.%K%P
+While continuing to hold my breath, I try to make it to the other side without breathing.%K%P
 0x7CC
 ………………………………。%W%W%W到着っ！%K%P
 ... Made it!%K%P
@@ -273,4 +273,4 @@ Splash!!!%K%P
 Makoto「Aaaah!」%K%P
 0x7FC
 水中から顔を出すと、オレは新鮮な空気を胸一杯吸い込む。%K%P
-I take in a deep breath of air as my face shoots out of%Nthe water.%K%P
+I take in a deep breath of air as my face shoots out of the water.%K%P

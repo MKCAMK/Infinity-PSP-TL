@@ -33,7 +33,7 @@ That basket is vital to my plan...%K%P
 (... Or should I go see Saki?)%K%P
 0x1DC
 そんなことを考えながら、オレは外の空気を吸う為、思い切り部屋の扉を開けた。%K%P
-While thinking about this, I swing the door open with all my%Nmight to get some fresh air.%K%P
+While thinking about this, I swing the door open with all my might to get some fresh air.%K%P
 0x214
 くるみ「きゃあ！」%K%P
 Kurumi「Kyaa!」%K%P
@@ -42,16 +42,16 @@ Kurumi「Kyaa!」%K%P
 Kurumi is in front of me.%K%P
 0x254
 内開きのドアを引いたせいで、くるみは体勢を崩して部屋の中に吸い込まれた。%K%P
-Because I pulled the door inward, Kurumi loses her%Nbalance and stumbles into the room.%K%P
+Because I pulled the door inward, Kurumi loses her balance and stumbles into the room.%K%P
 0x260
 転びそうになりながら、手に持ったバスケットを必死でかばうくるみ……。%K%P
-As she tries to stop herself from falling, she%Ndesperately tries to protect the basket in her hands...%K%P
+As she tries to stop herself from falling, she desperately tries to protect the basket in her hands...%K%P
 0x284
 くるみ「もう。開け方、乱暴！」%K%P
 Kurumi「Geez, you're so rough when it comes to opening doors!」%K%P
 0x290
 誠「ごめん、ごめん、まさかそんなところにいるなんて……。アレ？　まさかそれ、もう直しちゃったのか？」%K%P
-Makoto「Sorry, I didn't think there'd be anyone there... Huh? Don't%Ntell me you already fixed it?」%K%P
+Makoto「Sorry, I didn't think there'd be anyone there... Huh? Don't tell me you already fixed it?」%K%P
 0x2A4
 くるみ「へへーん、どうだ。くるくるくるみマジック♪」%K%P
 Kurumi「Heheh, what do you think? It's KuruKuru Kurumi Magic♪」%K%P
@@ -63,7 +63,7 @@ She thrusts the basket into my chest.%K%P
 I take the basket and examine it.%K%P
 0x2C8
 ところどころ綻びているが、まあ使えるレベルには直っていた。%K%P
-There are some torn parts here and there, but it's%Nusable.%K%P
+There are some torn parts here and there, but it's usable.%K%P
 0x2D4
 誠「やるもんだなぁ」%K%P
 Makoto「Good job.」%K%P
@@ -93,10 +93,10 @@ Makoto「No... it's fine. You worked really hard. Thank you, Kurumi.」%K%P
 Kurumi「Yaay! Kurumi's so happy! Onii-chan, you're the best!」%K%P
 0x348
 ギュゥッ。くるみが抱きついてくる。おいおい。オレも一応男なんですけどね……。%K%P
-Kurumi embraces me. Hey, I'm a guy first and foremost,%Nyou know...%K%P
+Kurumi embraces me. Hey, I'm a guy first and foremost, you know...%K%P
 0x354
 いつもより足元がおぼつかないくるみ。……ほとんど寝てないのかもしれない。%K%P
-Kurumi's legs are trembling... She might not have gotten%Nmuch sleep.%K%P
+Kurumi's legs are trembling... She might not have gotten much sleep.%K%P
 0x368
 オレは改めてバスケットを見た。%K%P
 I take another look at the basket.%K%P
@@ -114,10 +114,10 @@ It wasn't there yesterday.%K%P
 I inspect it further. It's just an ordinary charm.%K%P
 0x3A4
 リンリン……。お守りについた小さな鈴が、音をたてて揺れていた……。%K%P
-Ring, ring... There's a small bell attached to it that rings%Nevery time it sways...%K%P
+Ring, ring... There's a small bell attached to it that rings every time it sways...%K%P
 0x3B0
 ……オレは直してもらったバスケットを部屋のベッドの上に置き、ひとまず、くるみと一緒にリビングに出ることにした。%K%P
-... I place the fixed basket on top of my bed, and decide%Nto go with Kurumi to the living room for now.%K%P
+... I place the fixed basket on top of my bed, and decide to go with Kurumi to the living room for now.%K%P
 0x3F0
 ？？「お兄ちゃん！」%K%P
 ???「Onii-chan!」%K%P
@@ -129,13 +129,13 @@ Ring, ring... There's a small bell attached to it that rings%Nevery time it sway
 Makoto「Hmm? ... Zzz...」%K%P
 0x414
 ？？「もうっ、早く起きないと遅刻しちゃうよ！？」%K%P
-???「Geez, if you don't wake up soon, aren't you going to be%Nlate!?」%K%P
+???「Geez, if you don't wake up soon, aren't you going to be late!?」%K%P
 0x420
 ──ち、ちこく！？%K%P
 ―L-Late!?%K%P
 0x42C
 言葉の意味を認識し、オレは慌てて飛び起きた。%K%P
-Once I realize the meaning of those words, I frantically%Njump to my feet.%K%P
+Once I realize the meaning of those words, I frantically jump to my feet.%K%P
 0x4A4
 誠「………………く、くるみ？」%K%P
 Makoto「... K-Kurumi?」%K%P

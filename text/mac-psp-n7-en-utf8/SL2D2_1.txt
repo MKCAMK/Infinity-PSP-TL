@@ -3,7 +3,7 @@ text area offset and size:
 0xD2D
 0x180
 『今度は必ず沙紀を救う』──昨日、オレはそう心に決めた。%K%P
-「This time, I'll definitely save Saki.」 ―I promise myself%Nthis.%K%P
+「This time, I'll definitely save Saki.」 ―I promise myself this.%K%P
 0x18C
 （けれど、いったい何から手をつければいいのだろう？）%K%P
 (But just where should I start from?)%K%P
@@ -12,25 +12,25 @@ text area offset and size:
 I'm lost.%K%P
 0x1A4
 沙紀を助けるためには、彼女の人間に対する不信感をなくさなければならない。%K%P
-In order to save Saki, I have to get rid of her distrust of%Nhumans...%K%P
+In order to save Saki, I have to get rid of her distrust of humans...%K%P
 0x1B0
 問題は優夏と争ったという中学時代の絵のことだけではない。%K%P
-The problem isn't just her opposition towards Yuka%Nabout the Magician's Portrait incident from their middle%Nschool days.%K%P
+The problem isn't just her opposition towards Yuka about the Magician's Portrait incident from their middle school days.%K%P
 0x1BC
 もっと生理的な何かがあるのではないか？%K%P
 Perhaps she also has a more psychological problem.%K%P
 0x1C8
 とにかく、オレは沙紀と早く心を通わせる必要がある。%K%P
-Anyway, I need to quickly establish an emotional bond%Nwith Saki.%K%P
+Anyway, I need to quickly establish an emotional bond with Saki.%K%P
 0x1D4
 そう思いながらも、今日は何ひとつ有意義なことはしていなかった。%K%P
-Though I think that, not one thing worthwhile has%Nhappened today.%K%P
+Though I think that, not one thing worthwhile has happened today.%K%P
 0x1E0
 合宿中でもあり、沙紀に急接近するのに自然な状況が見つからなかったのだ。%K%P
-I haven't found a single opportunity to naturally bond%Nwith her at this Camp.%K%P
+I haven't found a single opportunity to naturally bond with her at this Camp.%K%P
 0x1EC
 結局ズルズルと、みんなに流されるまま、この防波堤までやって来てしまった。%K%P
-In the end, I just dragged myself along as I went with the%Nflow, and now we've all finally arrived at the pier.%K%P
+In the end, I just dragged myself along as I went with the flow, and now we've all finally arrived at the pier.%K%P
 0x1F8
 いや、待てよ！　ってことは、まさかあの事件が……！？%K%P
 No, wait! Doesn't this mean that incident will...!?%K%P
@@ -54,16 +54,16 @@ She then runs to the tip of the pier.%K%P
 Saki「AAAAAH!」%K%P
 0x294
 悲鳴とともに、すさまじい波音が響いた。%K%P
-Saki screams at the same time as the booming roar of a%Nwave breaks out.%K%P
+Saki screams at the same time as the booming roar of a wave breaks out.%K%P
 0x2A0
 高波だった！%K%P
 What a monstrous wave!%K%P
 0x2AC
 あの日と同じ高波が、飛沫をあげて防波堤を襲った！%K%P
-The same unbelievably large wave from that day strikes%Nthe pier with a large sheet of water!%K%P
+The same unbelievably large wave from that day strikes the pier with a large sheet of water!%K%P
 0x2B8
 叩き付けるように沙紀の体を包み込み、あっと言う間に呑み込んだ！%K%P
-As it strikes, the wave devours Saki and drags her into%Nthe ocean!%K%P
+As it strikes, the wave devours Saki and drags her into the ocean!%K%P
 0x2C4
 （なんでこんな大事なことを忘れてたんだ！！）%K
 (How the hell did I forget about something so important!!?)%K
@@ -78,10 +78,10 @@ Watch for a bit.
 This time, I don't hesitate.%K%P
 0x35C
 走り続けてそのまま、防波堤の先から海に飛び込んだ！%K%P
-I continue to run, then jump off the tip of the pier into the%Nocean!%K%P
+I continue to run, then jump off the tip of the pier into the ocean!%K%P
 0x3FC
 渦に巻き込まれて沈んでいく沙紀の体を、オレは必死で抱きかかえた。%K%N
-I desperately grab Saki's body as she starts to sink%Ntowards the maelstrom.%K%N
+I desperately grab Saki's body as she starts to sink towards the maelstrom.%K%N
 0x408
 ズンと腕に重みが加わる。%K%N
 Her weight is straining my arm.%K%N
@@ -93,7 +93,7 @@ Ocean water floods into my throat.%K%N%N
 ―I'll be damned if I die here!%K%P
 0x470
 波の合間にようやく頭を出せたとき、優夏達の声が聞こえた。%K%P
-When I finally raise our heads out in an interval between%Nthe waves, I hear the group's voices.%K%P
+When I finally raise our heads out in an interval between the waves, I hear the group's voices.%K%P
 0x47C
 くるみ「お兄ちゃーーーん！」%K%P
 Kurumi「ONII-CHAAAAAAAN!」%K%P
@@ -105,7 +105,7 @@ Yuka「SAKIII!」%K%P
 While holding Saki, I aim for the banks.%K%P
 0x4D8
 やっとのことで辿り着き、防波堤の上に沙紀の体を持ち上げた。%K%P
-I finally barely manage to make it to shore, and I lift Saki's%Nbody up onto the top of the pier.%K%P
+I finally barely manage to make it to shore, and I lift Saki's body up onto the top of the pier.%K%P
 0x4E4
 その時……沙紀の手の中に何かが光った。%K%P
 At that time... I see a light in Saki's hand.%K%P
@@ -117,10 +117,10 @@ It's that bell, isn't it...?%K%P
 I quickly grab the bell and stick it in my pocket.%K%P
 0x550
 オレもすぐに上にあがると、沙紀の体を腕に抱いた。%K%P
-When I also quickly get up on the pier, I hold Saki in my%Narms.%K%P
+When I also quickly get up on the pier, I hold Saki in my arms.%K%P
 0x55C
 沙紀は完全に気を失って、顔はすっかり青ざめている。%K%P
-Saki's face is pale, and she's completely lost%Nconsciousness.%K%P
+Saki's face is pale, and she's completely lost consciousness.%K%P
 0x568
 その表情は、何故かゾクッとさせる美しさがあった。%K%P
 For some reason, her expression is strikingly beautiful.%K%P
@@ -147,7 +147,7 @@ I turn around, and see everyone approaching...%K%P
 Izumi「Has Saki-chan come to her senses?」%K%P
 0x5EC
 オレはいづみさんにうなずいて見せ、沙紀に目を戻した。%K%P
-I give Izumi-san a nod, then turn my attention back to%NSaki.%K%P
+I give Izumi-san a nod, then turn my attention back to Saki.%K%P
 0x5F8
 まだオレをじっと見つめていた……。%K%P
 She's still firmly staring at me...%K%P
@@ -162,7 +162,7 @@ History is easy to change...%K%P
 I decide to watch for a bit.%K%P
 0x630
 その直後……走り出したいづみさんが、防波堤の先から海に飛び込んだ！%K%P
-Immediately afterwards... Izumi-san runs and dives into%Nthe ocean off of the tip of the pier!%K%P
+Immediately afterwards... Izumi-san runs and dives into the ocean off of the tip of the pier!%K%P
 0x63C
 （しまった！　……これじゃあ前回と同じじゃないか！）%K%P
 (Damn it! ... This is all the same as last time, isn't it!?)%K%P
@@ -171,7 +171,7 @@ Immediately afterwards... Izumi-san runs and dives into%Nthe ocean off of the ti
 Izumi-san grabs Saki.%K%N
 0x654
 片腕で抱きかかえながら、必死で泳いでいる。%K%P
-While holding her with one arm, she desperately swims%Nback.%K%P
+While holding her with one arm, she desperately swims back.%K%P
 0x660
 そしてようやく防波堤の縁に辿り着いた。%K%P
 And then, she finally arrives at the edge of the pier.%K%P
@@ -180,10 +180,10 @@ And then, she finally arrives at the edge of the pier.%K%P
 I immediately lift up the limp Saki.%K%N
 0x678
 いづみさんは、自力で堤防の上に這い上がる。%K%P
-Izumi-san crawls up to the top of the banks with her own%Nstrength.%K%P
+Izumi-san crawls up to the top of the banks with her own strength.%K%P
 0x6EC
 オレの腕に抱かれた沙紀の顔は、すっかり青ざめていた。%K%P
-Saki's face is pale, and she's completely lost%Nconsciousness.%K%P
+Saki's face is pale, and she's completely lost consciousness.%K%P
 0x6F8
 その表情は、何故かゾクッとさせる美しさがあった。%K%P
 For some reason, her expression is strikingly beautiful.%K%P

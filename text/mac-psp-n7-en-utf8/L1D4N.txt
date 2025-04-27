@@ -3,25 +3,25 @@ text area offset and size:
 0x4D77
 0x21C
 みんなは黙々と後片付けをし、道具をルナビーチに運んだ。%K%P
-Everyone quietly cleaned up, and carried the tools back%Nto Lunabeach.%K%P
+Everyone quietly cleaned up, and carried the tools back to Lunabeach.%K%P
 0x228
 いづみさんとくるみとは、そのまま%Nルナビーチで別れ、オレ達４人はロッジに戻った。%K%P
-The four of us split up with Izumi-san and Kurumi at%NLunabeach, and decided to return to the lodge.%K%P
+The four of us split up with Izumi-san and Kurumi at Lunabeach, and decided to return to the lodge.%K%P
 0x234
 しかし、ロッジに帰って来てもまだ、お通夜のような空気は残ったまま……。%K%P
-Everyone was still very silent and gloomy, as if we were%Nat a funeral...%K%P
+Everyone was still very silent and gloomy, as if we were at a funeral...%K%P
 0x240
 何となく自然に、みんなはそれぞれの部屋に戻ってしまった。%K%P
-Somehow or other, we all wandered off into our%Nrespective bedrooms.%K%P
+Somehow or other, we all wandered off into our respective bedrooms.%K%P
 0x24C
 今、オレはベッドに寝転がりながら、部屋の壁をぼーっと眺めている。%K%P
-Right now, I'm lying on my bed while blankly staring at the%Nwall.%K%P
+Right now, I'm lying on my bed while blankly staring at the wall.%K%P
 0x2C0
 肉体的にも精神的にも疲労困ぱいだった。%K%P
 I'm completely exhausted, both physically and mentally.%K%P
 0x2CC
 無理矢理引きずり込むような強烈な眠気が、たちまちオレを包み込んだ。%K%P
-Against my will, I'm suddenly dragged into an intense%Ndrowsiness that's wrapping me up.%K%P
+Against my will, I'm suddenly dragged into an intense drowsiness that's wrapping me up.%K%P
 0x2D8
 （そうだ……。%T015聞かなくちゃ……）%K%P
 (That's right... I've got to ask her...)%K%P
@@ -30,19 +30,19 @@ Against my will, I'm suddenly dragged into an intense%Ndrowsiness that's wrappin
 (I've got to ask Yuka... about... the... bell...)%K%P
 0x2F0
 理性とは裏腹に、それはあっという間にオレの意識を奪い去ってしまった……。%K%P
-Despite my efforts, I lose consciousness in the blink of%Nan eye...%K%P
+Despite my efforts, I lose consciousness in the blink of an eye...%K%P
 0x304
 （遙と沙紀──あの２人の過去に、いったい何があったと言うのだ？）%K%P
 (Haruka and Saki― What exactly is their history?)%K%P
 0x310
 （『鈴』……。やはり遙が言っていた『鈴』とは、あの『鈴』のことなのだろうか？）%K%P
-(「Bell」... So was the 「bell」 Haruka mentioned the same as%Nthat one'?)%K%P
+(「Bell」... So was the 「bell」 Haruka mentioned the same as that one'?)%K%P
 0x31C
 肉体的にも精神的にも疲労困ぱいだった。%K%P
 I'm completely exhausted, both physically and mentally.%K%P
 0x328
 無理矢理引きずり込むような強烈な眠気が、たちまちオレを包み込んだ。%K%P
-Despite my efforts, I lose consciousness in the blink of%Nan eye...%K%P
+Despite my efforts, I lose consciousness in the blink of an eye...%K%P
 0x334
 遙「私を……私をずっと助けてくれる？」%K%P
 Haruka「Will you... will you always help me?」%K%P
@@ -51,16 +51,16 @@ Haruka「Will you... will you always help me?」%K%P
 Haruka「Will you protect me?」%K%P
 0x34C
 眠りに落ちるその間際……遙のかすかなささやき声が、耳元に聞こえたような気がした……。%K%P
-Just before I fall asleep... I feel like I can hear Haruka's%Nwhispering voice in my head...%K%P
+Just before I fall asleep... I feel like I can hear Haruka's whispering voice in my head...%K%P
 0x360
 （沙紀と遙──あの２人の過去に、いったい何があったと言うのだ？）%K%P
 (Saki and Haruka―What exactly is their history?)%K%P
 0x36C
 遙「嘘！　嘘！　返して！　あの『鈴』返して！」%K%P
-Haruka「You're lying! You're lying! Give it back! Give me back that%N'bell'!」%K%P
+Haruka「You're lying! You're lying! Give it back! Give me back that 'bell'!」%K%P
 0x378
 （『鈴』……。やはり遙が言っていた『鈴』とは、あの『鈴』のことなのだろうか？）%K%P
-(「Bell」... So was that 「bell」 Haruka mentioned the same as%Nthat one?)%K%P
+(「Bell」... So was that 「bell」 Haruka mentioned the same as that one?)%K%P
 0x384
 肉体的にも精神的にも疲労困ぱいだった。%K%P
 I'm completely exhausted, both physically and mentally.%K%P
@@ -72,10 +72,10 @@ Though I don't want to, I find myself drifting off to sleep.%K%P
 (I've got to... ask Saki...)%K%P
 0x3A8
 （鈴のこと……遙のこと……全部……聞かな……く……ちゃ……）%K%P
-(About the bell... about Haruka... I've got to... ask her... all%Nof... it...)%K%P
+(About the bell... about Haruka... I've got to... ask her... all of... it...)%K%P
 0x3B4
 理性とは裏腹に、それはあっという間にオレの意識を奪い去ってしまった……。%K%P
-Despite my efforts, I lose consciousness in the blink of%Nan eye...%K%P
+Despite my efforts, I lose consciousness in the blink of an eye...%K%P
 0x3C8
 肉体的にも精神的にも疲労困ぱいだった。%K%P
 I'm completely exhausted, both physically and mentally.%K%P
@@ -84,13 +84,13 @@ I'm completely exhausted, both physically and mentally.%K%P
 Though I don't want to, I find myself drifting off to sleep.%K%P
 0x3E0
 オレの意識は、あっという間に奪い去られてしまった……。%K%P
-Despite my efforts, I lose consciousness in the blink of%Nan eye...%K%P
+Despite my efforts, I lose consciousness in the blink of an eye...%K%P
 0x478
 ──突然、張り裂けるような音が響いた。%K%P
-―Suddenly, I hear the sound of something bursting%Nopen.%K%P
+―Suddenly, I hear the sound of something bursting open.%K%P
 0x484
 その音に驚き、慌ててベッドから飛び起きる。%K%P
-Surprised by the sound, I frantically jump off the bed to%Nmy feet.%K%P
+Surprised by the sound, I frantically jump off the bed to my feet.%K%P
 0x490
 扉の方を見ると…………%K%P
 When I look towards the door, I see...%K%P
@@ -105,13 +105,13 @@ Izumi「Kurumi's...」%K%P
 Izumi「Kurumi's gone!」%K%P
 0x530
 いづみさんは、リビングに集まったオレ達４人に向かって、これまでの簡単な経緯を話し始めた。%K%P
-Izumi-san gathers the four of us in the living room, and%Ntells us what had happened.%K%P
+Izumi-san gathers the four of us in the living room, and tells us what had happened.%K%P
 0x544
 いづみ「あの後、みんなが帰ってから、私はバーベキューの道具を倉庫にしまって、シャワーを浴びたの」%K%P
-Izumi「After you all left, I put all the barbecue tools in the%Nstorehouse, and took a shower.」%K%P
+Izumi「After you all left, I put all the barbecue tools in the storehouse, and took a shower.」%K%P
 0x550
 いづみ「シャワーから出たのが９時半ぐらいで……%Nそれで、２階に上がってみたら……」%K%P
-Izumi「I got out of the shower at about 9:30... and then, when I%Nwent up to the second floor...」%K%P
+Izumi「I got out of the shower at about 9:30... and then, when I went up to the second floor...」%K%P
 0x55C
 優夏「くるみちゃんがいなかった……」%K%P
 Yuka「Kurumi-chan was gone...」%K%P
@@ -120,7 +120,7 @@ Yuka「Kurumi-chan was gone...」%K%P
 Izumi「Yes...」%K%P
 0x574
 いづみ「思いつく所は、ひととおり%N探してみたんだけど……」%K%P
-Izumi「I tried searching by myself, trying all the places that%Ncame to mind...」%K%P
+Izumi「I tried searching by myself, trying all the places that came to mind...」%K%P
 0x580
 いづみ「お店の中も、月浜の周辺も、全部……」%K%P
 Izumi「Inside the shop, the area around Moon Beach, all of it...」%K%P
@@ -132,13 +132,13 @@ Yuka「Do you know of any other places Kurumi-chan would go?」%K%P
 Yuka「Or do you have any clues...?」%K%P
 0x5AC
 いづみさんはそっと目を閉じ、静かに首を振った。%K%P
-Izumi-san softly closes her eyes, and gently shakes%Nher head.%K%P
+Izumi-san softly closes her eyes, and gently shakes her head.%K%P
 0x5B8
 心当たり、か……。%K%P
 Any clues, huh...%K%P
 0x5C4
 オレは、姫ヶ浜の岩陰で、しくしくと泣いていたくるみの姿を思い出していた。%K%P
-I remember the sight of Kurumi crying in the shade of the%Nrocks at Princess Beach.%K%P
+I remember the sight of Kurumi crying in the shade of the rocks at Princess Beach.%K%P
 0x5D0
 何か悪いことが起きなければいいが……。%K%P
 Something bad must have happened to her...%K%P
@@ -153,19 +153,19 @@ As she says this, Yuka stands upright.%K%P
 Yuka「... Why don't we all quickly split up and look for Kurumi?」%K%P
 0x664
 優夏「いい？　まず誠は、姫ヶ浜とか展望公園とか、島の南側をあたってみて？」%K%P
-Yuka「All right? Makoto, why don't you try searching Princess%NBeach, Viewpoint Park, and the south side of the island?」%K%P
+Yuka「All right? Makoto, why don't you try searching Princess Beach, Viewpoint Park, and the south side of the island?」%K%P
 0x670
 誠「ああ」%K%P
 Makoto「All right.」%K%P
 0x67C
 優夏「遙は、港と商店街……東の方を徹底的に！」%K%P
-Yuka「Haruka, check the harbor and the shopping district...%Nthen do a complete search of the east side!」%K%P
+Yuka「Haruka, check the harbor and the shopping district... then do a complete search of the east side!」%K%P
 0x688
 遙「うん」%K%P
 Haruka「Yes.」%K%P
 0x694
 優夏「私は月浜の周辺をもう１度探してみるから……」%K%P
-Yuka「I'll try searching the area around Moon Beach one more%Ntime...」%K%P
+Yuka「I'll try searching the area around Moon Beach one more time...」%K%P
 0x6A0
 優夏「で、いづみさんは、ルナビーチに戻ってて下さい」%K%P
 Yuka「And Izumi-san, please return to Lunabeach.」%K%P
@@ -174,7 +174,7 @@ Yuka「And Izumi-san, please return to Lunabeach.」%K%P
 Izumi「What?」%K%P
 0x6B8
 優夏「くるみちゃんが帰って来た時に%Nいづみさんがいなかったら、ミイラ取りがミイラに、%Nってことにもなりかねないから」%K%P
-Yuka「If Kurumi-chan returns and you're not there, then she'll%Nprobably become the hunter instead of the other way%Naround, so to speak.」%K%P
+Yuka「If Kurumi-chan returns and you're not there, then she'll probably become the hunter instead of the other way around, so to speak.」%K%P
 0x6C4
 誠「なるほどな」%K%P
 Makoto「I see.」%K%P
@@ -192,7 +192,7 @@ Izumi「...」%K%P
 Makoto「And it's possible she might have already returned...」%K%P
 0x710
 誠「『ん？　なんかあったの？』なんて、ケロッとした顔してね？」%K%P
-Makoto「She might be there, cheerful and oblivious to what has%Nhappened.」%K%P
+Makoto「She might be there, cheerful and oblivious to what has happened.」%K%P
 0x71C
 優夏「安心して下さい、いづみさん！」%K%P
 Yuka「Please don't worry, Izumi-san!」%K%P
@@ -201,16 +201,16 @@ Yuka「Please don't worry, Izumi-san!」%K%P
 Izumi「... I understand.」%K%P
 0x73C
 とは言え、いづみさんの表情から%N不安の色は消えない。%K%P
-Nevertheless, the uneasiness doesn't fade from her%Nexpression.%K%P
+Nevertheless, the uneasiness doesn't fade from her expression.%K%P
 0x748
 落ち着きをなくした視線は、右へ左へと、あてもなくさまよっていた。%K%P
-Her gaze nervously shifts from left to right, looking all%Nover her surroundings. It's clear she hasn't calmed down.%K%P
+Her gaze nervously shifts from left to right, looking all over her surroundings. It's clear she hasn't calmed down.%K%P
 0x75C
 億彦「ゆ、優夏ちゃん……僕は……？」%K%P
 Okuhiko「Y-Yuka-chan... What about me...?」%K%P
 0x778
 優夏「温泉…テニスコート…それから墓地ね？」%K%P
-Yuka「Check the hot springs... the tennis court... and the%Ngraveyard.」%K%P
+Yuka「Check the hot springs... the tennis court... and the graveyard.」%K%P
 0x784
 億彦「……ぼ、墓地！？」%K%P
 Okuhiko「... Th-The graveyard!?」%K%P
@@ -222,22 +222,22 @@ Yuka「Well then, let's begin the search right away!」%K%P
 Yuka「If you find her, return to Lunabeach immediately! Got it!?」%K%P
 0x818
 優夏、遙、いづみさんとは、坂のふもとのＴ字路で別れた。%K%P
-Yuka, Haruka, and Izumi-san split up at the T-junction at%Nthe foot of the hill.%K%P
+Yuka, Haruka, and Izumi-san split up at the T-junction at the foot of the hill.%K%P
 0x834
 頭の片隅には、いまだ優夏と鈴のことがわだかまっている。%K%P
-In the corner of my mind, thoughts of Yuka and the bell%Nstill lurk.%K%P
+In the corner of my mind, thoughts of Yuka and the bell still lurk.%K%P
 0x840
 だが、今はそんなことを気にしている場合ではない。%K%P
-But now isn't the time to be worrying about something like%Nthat.%K%P
+But now isn't the time to be worrying about something like that.%K%P
 0x84C
 くるみを見つけ出すことの方が先決だ。%K%P
 Finding Kurumi comes first.%K%P
 0x858
 オレは姫ヶ浜の中央に立ち、くるみの名を呼んだ。%K%P
-I stand in the center of Princess Beach, and call Kurumi's%Nname.%K%P
+I stand in the center of Princess Beach, and call Kurumi's name.%K%P
 0x86C
 オレはまず、こうして姫ヶ浜をあたってみることにしたのだった。%K%P
-I decide to try getting Princess Beach out of the way%Nfirst.%K%P
+I decide to try getting Princess Beach out of the way first.%K%P
 0x878
 誠「おーい！　くるみぃー！」%K%P
 Makoto「Hey! Kurumi!」%K%P
@@ -249,13 +249,13 @@ I shout out towards the darkness.%K%P
 However, I get no response.%K%P
 0x8D4
 ただ、砕け散る波しぶきの音だけが、ひっそりとあたりに満ちている。%K%P
-Only the sound of the waves breaking up on the shore%Nbreaks up the silence.%K%P
+Only the sound of the waves breaking up on the shore breaks up the silence.%K%P
 0x8E0
 ふと視線を落とすと、砂の上にはバーベキューの残骸が散らばっていた。%K%P
-When I suddenly look down, I see the scattered remains%Nof the barbecue.%K%P
+When I suddenly look down, I see the scattered remains of the barbecue.%K%P
 0x8EC
 ついさっきまでの喧騒が嘘のように、それはとても物寂しく見えた。%K%P
-It looks so lonely that it's hard to believe that we were%Nmaking a huge ruckus here just hours ago.%K%P
+It looks so lonely that it's hard to believe that we were making a huge ruckus here just hours ago.%K%P
 0x8F8
 誠「くるみ……」%K%P
 Makoto「Kurumi...」%K%P
@@ -264,7 +264,7 @@ Makoto「Kurumi...」%K%P
 I let out a sigh.%K%P
 0x910
 足元に転がった炭のかけらを、つま先で軽く蹴飛ばして……オレは姫ヶ浜を後にした。%K%P
-I lightly kick away the fragments of charcoal lying at my%Nfeet... and leave Princess Beach.%K%P
+I lightly kick away the fragments of charcoal lying at my feet... and leave Princess Beach.%K%P
 0x974
 （いったいくるみのやつ……どこに……？）%K%P
 (Just where... is Kurumi...?)%K%P
@@ -273,13 +273,13 @@ I lightly kick away the fragments of charcoal lying at my%Nfeet... and leave Pri
 I look left and right as I run down the shoreline...%K%P
 0xA00
 桜並木……ここが、今朝優夏の話してた桜並木か……。%K%P
-The row of cherry blossom trees, shrouded in the%Ndarkness... I'd bet they'd look a lot better if it were%Ndaytime...%K%P
+The row of cherry blossom trees, shrouded in the darkness... I'd bet they'd look a lot better if it were daytime...%K%P
 0xA14
 桜並木に入った。%K%P
 I go through the cherry blossom trees.%K%P
 0xA20
 月明かりに照らされた桜の花びらが、闇の中にぼんやりと白く浮かんでいる。%K%P
-The cherry blossom petals illuminated by the moonlight%Nappear vaguely white as they float in the darkness.%K%P
+The cherry blossom petals illuminated by the moonlight appear vaguely white as they float in the darkness.%K%P
 0xA2C
 誠「くるみーっ！」%K%P
 Makoto「Kurumi!」%K%P
@@ -294,28 +294,28 @@ But there's no signs that anyone's here either...%K%P
 The jet-black sea blurs the moonlight shining on it.%K%P
 0xAD0
 灯台の光線が、キリキリと硬い金属音を響かせながら回っている。%K%P
-The lighthouse's light makes a dull metallic sound as it%Nspins around.%K%P
+The lighthouse's light makes a dull metallic sound as it spins around.%K%P
 0xADC
 結局、くるみを見つけることはできなかった……。%K%P
 In the end, I couldn't find Kurumi...%K%P
 0xAE8
 何気なくフェンスに肘をつき、南から北へ視線を流した。%K%P
-I casually lean my elbows against the fence, and look to%Nthe north from the south.%K%P
+I casually lean my elbows against the fence, and look to the north from the south.%K%P
 0xAF4
 北の端に、月浜が見える。ルナビーチのオープンテラスには小さな明かりが灯っている。%K%P
-At the edge of the north, I can see Moon Beach. There is%Na small light lit in Lunabeach's open terrace.%K%P
+At the edge of the north, I can see Moon Beach. There is a small light lit in Lunabeach's open terrace.%K%P
 0xB00
 そう言えば、あの月浜からこの灯台を見たことがあったな……。%K%P
-Now that I think about it, I've seen this lighthouse from%NMoon Beach before...%K%P
+Now that I think about it, I've seen this lighthouse from Moon Beach before...%K%P
 0xB0C
 確か、おとといの夜だった。%K%P
 I'm sure it was two nights ago.%K%P
 0xB18
 その時いづみさんは、この灯台の下で恋を告げると、意中の相手と結ばれるのだと言った。%K%P
-At that time, Izumi-san told us that if two people%Nconfessed under this lighthouse, their love would bear%Nfruit.%K%P
+At that time, Izumi-san told us that if two people confessed under this lighthouse, their love would bear fruit.%K%P
 0xB24
 そしてその後、神社の話になって……。%K%P
-And then she told us the story about the shrine%Nafterwards...%K%P
+And then she told us the story about the shrine afterwards...%K%P
 0xB30
 …………………………？？？%K%P
 ...???%K%P
@@ -330,16 +330,16 @@ That's right, she could be at the shrine!%K%P
 Last night, Kurumi recklessly took me to the shrine...%K%P
 0xB78
 おとといの晩、くるみはみんなに『ミステリーツアーに行こう』と誘った。%K%P
-Two nights ago, Kurumi invited everyone to go on a%N「Mystery Tour」.%K%P
+Two nights ago, Kurumi invited everyone to go on a 「Mystery Tour」.%K%P
 0xB84
 いづみさんに怒られても、何だか納得いかないような顔をして……。%K%P
-Even though Izumi-san then got angry, Kurumi still had a%Nkind of unsatisfied expression on her face...%K%P
+Even though Izumi-san then got angry, Kurumi still had a kind of unsatisfied expression on her face...%K%P
 0xB90
 オレはすぐに駆け出した……。司紀の杜神社に向かって……。%K%P
-I immediately start running towards the Shiki no Mori%NShrine...%K%P
+I immediately start running towards the Shiki no Mori Shrine...%K%P
 0xBE0
 桜並木を抜け、舗装道路に出る。%K%P
-I leave the row of trees, and exit out onto the paved%Nroad.%K%P
+I leave the row of trees, and exit out onto the paved road.%K%P
 0xBEC
 出た所でバッタリと優夏に出くわした。%K%P
 To my surprise, I see Yuka right there.%K%P
@@ -351,7 +351,7 @@ Makoto「Yuka! ... How's it going? Did you find her?」%K%P
 Yuka「No... it was no good.」%K%P
 0xC18
 優夏「月屋ホテルの人にも聞いてみたんだけど、そんな子は見かけてないって……」%K%P
-Yuka「I also tried asking the people at Tsukiya Hotel, but they%Nsaid they hadn't see a girl like that...」%K%P
+Yuka「I also tried asking the people at Tsukiya Hotel, but they said they hadn't see a girl like that...」%K%P
 0xC24
 誠「そっか。わかった」%K%P
 Makoto「I see. Got it.」%K%P
@@ -378,7 +378,7 @@ Yuka「You have a hunch... So where is it!?」%K%P
 Makoto「Here...」%K%P
 0xD00
 後を追って来た優夏に、オレは指先で示した。%K%P
-With my fingertip, I point it out to Yuka, who followed me%Nthe whole way.%K%P
+With my fingertip, I point it out to Yuka, who followed me the whole way.%K%P
 0xD30
 優夏「ここって、まさかあの……神社？」%K%P
 Yuka「By 'here', you can't mean... that shrine?」%K%P
@@ -393,7 +393,7 @@ Yuka「Kurumi-chan's... in a place like this?」%K%P
 Makoto「Yeah, probably.」%K%P
 0xD70
 そう言って、階段の１段目に足を乗せる。%K%P
-I say this, and place my foot on the staircase's first%Nstep.%K%P
+I say this, and place my foot on the staircase's first step.%K%P
 0xD7C
 が……！%K%P
 But then...!%K%P
@@ -414,7 +414,7 @@ Makoto「Huh?」%K%P
 Yuka「I'm begging you, don't go!」%K%P
 0xDCC
 誠「ひょっとして優夏……いづみさんの言ったあの噂話のこと、気にしてるのか？」%K%P
-Makoto「Yuka, could it be... you're worried about the rumors%NIzumi-san told us about?」%K%P
+Makoto「Yuka, could it be... you're worried about the rumors Izumi-san told us about?」%K%P
 0xDD8
 優夏「違うの……そういうんじゃなくて……」%K%P
 Yuka「You're wrong... that's not it.」%K%P
@@ -432,7 +432,7 @@ Yuka「A very... bad feeling...」%K%P
 I know I've heard those words before...%K%P
 0xE14
 そうだ……。おととい、沙紀が波に呑まれる前にも、優夏は同じことを言っていたんだ。%K%P
-That's right... Two days ago, just before Saki was%Nswallowed by the wave, Yuka said these exact same%Nwords.%K%P
+That's right... Two days ago, just before Saki was swallowed by the wave, Yuka said these exact same words.%K%P
 0xE20
 あのとき、オレはその言葉に聞く耳を持たず……。%K%P
 At that time, I turned a deaf ear to them...%K%P
@@ -450,10 +450,10 @@ Makoto「I-I get it...」%K%P
 Before I know it, I'm answering her with this.%K%P
 0xE6C
 そのあまりにも切々とした言い方に圧倒されたのかもしれない。%K%P
-I might have been overwhelmed by the loneliness in her%Nvoice.%K%P
+I might have been overwhelmed by the loneliness in her voice.%K%P
 0xE78
 誠「だけど、どうすんだよ？　もしここにくるみがいるとしたら……」%K%P
-Makoto「But what do we do? What if, by chance, Kurumi is in%Nthere...?」%K%P
+Makoto「But what do we do? What if, by chance, Kurumi is in there...?」%K%P
 0xE84
 優夏「大丈夫」%K%P
 Yuka「It's all right.」%K%P
@@ -474,13 +474,13 @@ Makoto「...」%K%P
 Her unexpected reply has left me dumbfounded.%K%P
 0xED4
 優夏は、言葉を探していたオレを押し退けるようにして、ひとり階段を登って行ってしまった……。%K%P
-While I'm at a loss for words, Yuka starts ascending the%Nstaircase herself as if she's trying to brush me aside...%K%P
+While I'm at a loss for words, Yuka starts ascending the staircase herself as if she's trying to brush me aside...%K%P
 0xEE0
 ……………………。%N……………。%N……。%K%P
-...%N...%N...%K%P
+... ... ...%K%P
 0xEEC
 不意を突かれたオレは、しばらくの間、優夏が登って行った階段の上を茫然と眺めていた。%K%P
-Dumbstruck, I watch Yuka ascend the staircase for a%Nshort while.%K%P
+Dumbstruck, I watch Yuka ascend the staircase for a short while.%K%P
 0xEF8
 しかしやがて……%K%P
 But before long...%K%P
@@ -492,31 +492,31 @@ But before long...%K%P
 ... I return to my senses.%K%P
 0xF1C
 （こんな真夜中に、女の子１人で行かせるなんて、どうかしてた！）%K%P
-(I must be out of my mind to let a girl go alone in the dead%Nof night!)%K%P
+(I must be out of my mind to let a girl go alone in the dead of night!)%K%P
 0xF28
 しかもこの神社は、噂によれば危険な場所かもしれないと言う。%K%P
-Furthermore, according to the rumors, this shrine might%Nbe a dangerous place.%K%P
+Furthermore, according to the rumors, this shrine might be a dangerous place.%K%P
 0xF34
 （なのに男のオレが、こんな所でボケーッと突っ立ってるなんて……！！）%K%P
-(Despite that, I just stood here spacing out like an idiot!%NI'm a pathetic excuse for a man!)%K%P
+(Despite that, I just stood here spacing out like an idiot! I'm a pathetic excuse for a man!)%K%P
 0xF40
 オレは慌てて、優夏の後を追いかけた。%K%P
 I frantically start chasing after Yuka.%K%P
 0xFA0
 長い階段を駆け上がると、そこには噂通りのさびれた神社があった。%K%P
-When I run up the long staircase, I see a shrine lying%Nthere, just as the rumors said.%K%P
+When I run up the long staircase, I see a shrine lying there, just as the rumors said.%K%P
 0xFAC
 永年潮風にさらされたせいだろうか、外壁から柱からその大きな屋根まで、ありとあらゆる部分が激しく劣化し朽ち果てていた。%K%P
-Every part of the shrine, from the outer walls, pillars, and%Neven the large roof, has rotted away extensively,%Nprobably due to many years of being subjected to the%Nsea breeze.%K%P
+Every part of the shrine, from the outer walls, pillars, and even the large roof, has rotted away extensively, probably due to many years of being subjected to the sea breeze.%K%P
 0xFB8
 今この瞬間に倒壊しても不思議ではない。%K%P
-It wouldn't be strange for it to collapse this very%Nsecond...%K%P
+It wouldn't be strange for it to collapse this very second...%K%P
 0xFC4
 とは言え、その年老いた風貌にもかかわらず、月明かりに照らされた建物は威風堂々とした印象を与える。%K%P
-Nevertheless, despite its decrepit appearance, the%Nbuilding being bathed with moonlight still gives off the%Nimpression of being surrounded by an imposing air.%K%P
+Nevertheless, despite its decrepit appearance, the building being bathed with moonlight still gives off the impression of being surrounded by an imposing air.%K%P
 0xFD0
 まるで何人をも立ち入らせまいとするような拒絶的な威圧感さえ、そこにはあった。%K%P
-It's an intimidating atmosphere that feels like it could%Nscare off anyone who tried to trespass on this ground.%K%P
+It's an intimidating atmosphere that feels like it could scare off anyone who tried to trespass on this ground.%K%P
 0xFDC
 優夏は……神社の前でじっとたたずんでいる。%K%P
 Yuka... is standing firmly still in front of the shrine.%K%P
@@ -540,16 +540,16 @@ Yuka「Even though I kept telling you... not to come here...」%K%P
 I don't answer her.%K%P
 0x1040
 優夏の顔さえ見ずに、神社の正面を見上げる。%K%P
-Unable to bear the look in her eyes, I instead focus on%Nthe shrine.%K%P
+Unable to bear the look in her eyes, I instead focus on the shrine.%K%P
 0x104C
 その扉は、何故か完全に開け放たれていた。%K%P
-For some reason, the door has been completely left%Nopen.%K%P
+For some reason, the door has been completely left open.%K%P
 0x1058
 開け放たれていたにもかかわらず、優夏はここに、立ち尽くしている。%K%P
-Despite the fact the door is open, Yuka rigidly stands%Nstill.%K%P
+Despite the fact the door is open, Yuka rigidly stands still.%K%P
 0x1064
 たぶん怖じ気づいて、中へと入るのにちゅうちょしていたのだろう。%K%P
-She's probably gotten cold feet and is hesitant to go%Ninside.%K%P
+She's probably gotten cold feet and is hesitant to go inside.%K%P
 0x1070
 誠「くるみ！」%K%P
 Makoto「Kurumi!」%K%P
@@ -564,7 +564,7 @@ I hear the lonely hooting of an owl.%K%P
 I finally resolve myself, and step inside...%K%P
 0x10A8
 １歩、そうっと中へと足を忍び入れ、暗がりの中にじっと目を凝らしてみる。%K%P
-I quietly sneak a single step inside, and firmly stare in%Nthe darkness.%K%P
+I quietly sneak a single step inside, and firmly stare in the darkness.%K%P
 0x10B4
 優夏もオレの背中に隠れるようにして%Nくっついて来た。%K%P
 Yuka follows, trying to hide behind my back.%K%P
@@ -582,40 +582,40 @@ Yuka「Kurumi-chan...!」%K%P
 It's almost anticlimactic to find her so easily.%K%P
 0x1134
 くるみは今、床の中央にぺたんとへたり込んでいる。%K%P
-Right now, Kurumi is kneeling flat on the center of the%Nfloor.%K%P
+Right now, Kurumi is kneeling flat on the center of the floor.%K%P
 0x1140
 ぼんやりと宙を漂う視線は、夢でも見ているかのようにうつろだった……。%K%P
-Her gaze blankly drifts in space, so blankly that it looks%Nlike she's dreaming...%K%P
+Her gaze blankly drifts in space, so blankly that it looks like she's dreaming...%K%P
 0x114C
 そばに駆け寄った優夏は、くるみの様子を心配そうに窺っていた。%K%P
-Yuka runs to Kurumi's side, and uneasily checks how%Nshe's doing.%K%P
+Yuka runs to Kurumi's side, and uneasily checks how she's doing.%K%P
 0x1158
 ほっと胸を撫で下ろす。%K%P
 I sigh in relief.%K%P
 0x1164
 まあとにかく、無事でなによりだ……。%K%P
-Haah... Anyway, what's most important is that she's all%Nright...%K%P
+Haah... Anyway, what's most important is that she's all right...%K%P
 0x1170
 ひとまず安心したせいか、まわりを見回す余裕も生まれた。%K%P
-Since I'm relieved for the time being, I decide to take the%Ntime to survey my surroundings.%K%P
+Since I'm relieved for the time being, I decide to take the time to survey my surroundings.%K%P
 0x117C
 ほぼ正方形の空間……壁と天井には紅い漆（うるし）が塗られていたが、そのほとんどは風化し剥げ落ちている。%K%P
-It's an almost perfectly square room... The walls and the%Nceiling are plastered with red varnish, which has almost%Ncompletely weathered and peeled off.%K%P
+It's an almost perfectly square room... The walls and the ceiling are plastered with red varnish, which has almost completely weathered and peeled off.%K%P
 0x1188
 入り口の正面の一段高くなった床の上には小さな社をかたどった祭壇があった。%K%P
-A small staircase leads to a floor slightly higher than the%None I'm standing on, and on top of it is an altar modeled%Nafter a small Shinto shrine.%K%P
+A small staircase leads to a floor slightly higher than the one I'm standing on, and on top of it is an altar modeled after a small Shinto shrine.%K%P
 0x1194
 ちょんと軽く突ついただけで%N崩れてしまいそうな程に、激しく劣化している。%K%P
-It's so incredibly deteriorated that it feels like just one%Nsmall, light tap is all that's needed to send this whole%Nplace collapsing.%K%P
+It's so incredibly deteriorated that it feels like just one small, light tap is all that's needed to send this whole place collapsing.%K%P
 0x11A0
 恐らく、永年の潮風にさらされたせいだろう……。%K%P
-It's probably due to the many years of enduring the%Nocean breeze...%K%P
+It's probably due to the many years of enduring the ocean breeze...%K%P
 0x11AC
 （まあ、そんなことはどうでもいい……）%K%P
 (Well, none of this really matters...)%K%P
 0x11B8
 （取りあえず、この陰気な場所から一刻も早く脱け出そう！）%K%P
-(For now, I've got to get out of this gloomy place as%Nsoon as possible!)%K%P
+(For now, I've got to get out of this gloomy place as soon as possible!)%K%P
 0x11C4
 誠「くるみ！　何やってんだ、早く帰るぞ！」%K%P
 Makoto「Kurumi! What are you doing? Let's hurry back!」%K%P
@@ -624,7 +624,7 @@ Makoto「Kurumi! What are you doing? Let's hurry back!」%K%P
 I walk over towards Kurumi's side.%K%P
 0x1208
 朽ち果てた床がミシッミシッと軋んで今にも抜けそうだ。%K%P
-The rotten floor creaks, sounding like it could break any%Nsecond now.%K%P
+The rotten floor creaks, sounding like it could break any second now.%K%P
 0x1214
 すると……%K%P
 Just then...%K%P
@@ -639,7 +639,7 @@ Kurumi「Kurumi... remembers this place.」%K%P
 Kurumi「Kurumi's... been here before...」%K%P
 0x1244
 優夏「え？　でもくるみちゃん、この神社のことは知らなかったって、前にそう言ってたじゃない？」%K%P
-Yuka「Huh? But didn't you say earlier that you'd never heard%Nof this shrine before?」%K%P
+Yuka「Huh? But didn't you say earlier that you'd never heard of this shrine before?」%K%P
 0x1250
 優夏が聞く。%K%P
 Yuka asks this.%K%P
@@ -651,16 +651,16 @@ Kurumi「Y-Yeah. But...」%K%P
 Kurumi hesitates a little.%K%P
 0x1274
 誠「まあ、とにかくここから出よう。話はその後だ」%K%P
-Makoto「Well, anyway, let's get out of here. We can talk about it%Nlater.」%K%P
+Makoto「Well, anyway, let's get out of here. We can talk about it later.」%K%P
 0x1280
 くるみは横に立つオレにチラっと目を向け、小さくコクリと肯いた。%K%P
-Still on the floor, Kurumi looks up, shifting her attention to%Nme... and gives me a small nod.%K%P
+Still on the floor, Kurumi looks up, shifting her attention to me... and gives me a small nod.%K%P
 0x128C
 優夏に抱きかかえられるようにして、静かに立ち上がるくるみ。%K%P
 Kurumi grabs onto Yuka, and gently stands up.%K%P
 0x1298
 そうして出口へと向かって歩き出した、その時だった……。%K%P
-We then begin walking towards the exit, but at that%Nmoment...%K%P
+We then begin walking towards the exit, but at that moment...%K%P
 0x12AC
 誠「そんなわけいくかよ！」%K%P
 Makoto「Like hell I can just leave it like this!」%K%P
@@ -672,7 +672,7 @@ I firmly declare this.%K%P
 Makoto「Kurumi might be here!」%K%P
 0x12D0
 誠「確認しなきゃ……。このまま気づかなかったフリして帰るわけにはいかないだろ？」%K%P
-Makoto「We need to confirm it... There's no way in hell we can just%Ngo back and pretend we didn't notice this, right?」%K%P
+Makoto「We need to confirm it... There's no way in hell we can just go back and pretend we didn't notice this, right?」%K%P
 0x12DC
 優夏「やだよぉ……」%K%P
 Yuka「Don't go...」%K%P
@@ -684,7 +684,7 @@ Yuka「Don't go...」%K%P
 Yuka「Makoto... Please...」%K%P
 0x1300
 誠「ダメだ。ちゃんとした理由もないのに、そんなことはできない」%K%P
-Makoto「This is hopeless. You're telling me not to go without a%Nsolid reason.」%K%P
+Makoto「This is hopeless. You're telling me not to go without a solid reason.」%K%P
 0x130C
 誠「探して来るよ……オレ」%K%P
 Makoto「I'm... going to go look.」%K%P
@@ -696,7 +696,7 @@ Yuka「...」%K%P
 Makoto「So you wait here, Yuka!」%K%P
 0x1338
 優夏の腕を振りほどき、神社の階段を駆け上がって行く。%K%P
-I shake off Yuka's arm, and begin running up the shrine's%Nstaircase.%K%P
+I shake off Yuka's arm, and begin running up the shrine's staircase.%K%P
 0x1344
 優夏「誠ぉ……」%K%P
 Yuka「Makoto...」%K%P
@@ -717,7 +717,7 @@ Kurumi is definitely here!%K%P
 ... Convicted, I press forward.%K%P
 0x13E0
 階段を登り切り、境内を駆け抜ける。%K%P
-I finish ascending the stairs, and run through the%Ngrounds.%K%P
+I finish ascending the stairs, and run through the grounds.%K%P
 0x13EC
 神社の正面に着いたオレは、大声で呼びかけてみた。%K%P
 I reach the front of the shrine, and shout loudly.%K%P
@@ -738,7 +738,7 @@ I hear the lonely hooting of an owl.%K%P
 I resolve myself, and step inside.%K%P
 0x1458
 １歩、そうっと中へと足を忍び入れ、暗がりの中にじっと目を凝らしてみる。%K%P
-I quietly sneak a single step inside, and firmly stare in%Nthe darkness.%K%P
+I quietly sneak a single step inside, and firmly stare in the darkness.%K%P
 0x1464
 誠「くるみ……！」%K%P
 Makoto「Kurumi...!」%K%P
@@ -750,37 +750,37 @@ Kurumi is over there.%K%P
 It's almost anticlimactic to find her so easily.%K%P
 0x14E4
 くるみは今、床の中央にぺたんとへたり込んでいる。%K%P
-Right now, Kurumi is kneeling flat on the center of the%Nfloor.%K%P
+Right now, Kurumi is kneeling flat on the center of the floor.%K%P
 0x1500
 ぼんやりと宙を漂う視線は、夢でも見ているかのようにうつろだった……。%K%P
-Her gaze blankly drifts in space, so blankly that it looks%Nlike she's dreaming...%K%P
+Her gaze blankly drifts in space, so blankly that it looks like she's dreaming...%K%P
 0x150C
 ホッと、オレは胸を撫で下ろした。%K%P
 I sigh in relief.%K%P
 0x1518
 はぁ……とにかく無事でなによりだ……。%K%P
-Haah... Anyway, what's most important is that she's all%Nright...%K%P
+Haah... Anyway, what's most important is that she's all right...%K%P
 0x1524
 ひとまず安心したせいか、まわりを見回す余裕も生まれた。%K%P
-Since I'm relieved for the time being, I decide to take the%Ntime to survey my surroundings.%K%P
+Since I'm relieved for the time being, I decide to take the time to survey my surroundings.%K%P
 0x1530
 ほぼ正方形の空間……壁と天井には紅い漆（うるし）が塗られていたが、そのほとんどは風化し剥げ落ちている。%K%P
-It's an almost perfectly square room... The walls and the%Nceiling are plastered with red varnish, which has almost%Ncompletely weathered and peeled off.%K%P
+It's an almost perfectly square room... The walls and the ceiling are plastered with red varnish, which has almost completely weathered and peeled off.%K%P
 0x153C
 入り口の正面の一段高くなった床の上には小さな社をかたどった祭壇があった。%K%P
-A small staircase leads to a floor slightly higher than the%None I'm standing on, and on top of it is an altar modeled%Nafter a small Shinto shrine.%K%P
+A small staircase leads to a floor slightly higher than the one I'm standing on, and on top of it is an altar modeled after a small Shinto shrine.%K%P
 0x1548
 ちょんと軽く突ついただけで崩れてしまいそうな程に、激しく劣化している。%K%P
-It's so incredibly deteriorated that it feels like just one%Nsmall, light tap is all that's needed to send this whole%Nplace collapsing.%K%P
+It's so incredibly deteriorated that it feels like just one small, light tap is all that's needed to send this whole place collapsing.%K%P
 0x1554
 恐らく、永年の潮風にさらされたせいだろう……。%K%P
-It's probably due to the many years of enduring the%Nocean breeze...%K%P
+It's probably due to the many years of enduring the ocean breeze...%K%P
 0x1560
 （まあ、そんなことはどうでもいい……）%K%P
 (Well, none of this really matters...)%K%P
 0x156C
 （取りあえず、この陰気な場所から一刻も早く脱け出そう！）%K%P
-(For now, I've got to get out of this gloomy place as%Nsoon as possible!)%K%P
+(For now, I've got to get out of this gloomy place as soon as possible!)%K%P
 0x1578
 誠「くるみ！　何やってんだ、早く帰るぞ！」%K%P
 Makoto「Kurumi! What are you doing? Let's hurry back!」%K%P
@@ -789,7 +789,7 @@ Makoto「Kurumi! What are you doing? Let's hurry back!」%K%P
 As I urge Kurumi to move, I walk over towards her side.%K%P
 0x15BC
 朽ち果てた床がミシッミシッと軋んで今にも抜けそうだ。%K%P
-The rotten floor creaks, sounding like it could break any%Nsecond now.%K%P
+The rotten floor creaks, sounding like it could break any second now.%K%P
 0x15C8
 すると……%K%P
 Just then...%K%P
@@ -804,13 +804,13 @@ Kurumi「Kurumi... remembers this place.」%K%P
 Kurumi「Kurumi's... been here before...」%K%P
 0x15F8
 誠「え？　だけどくるみ、この神社の話は聞いたことないって、前にそう言ってたじゃないか？」%K%P
-Makoto「Huh? But a few days ago, you said you'd never heard%Nabout this shrine before, right?」%K%P
+Makoto「Huh? But a few days ago, you said you'd never heard about this shrine before, right?」%K%P
 0x1604
 くるみ「う、うん。だけど……」%K%P
 Kurumi「Y-Yeah. But...」%K%P
 0x1610
 誠「まあ、とにかくここから出よう。話はその後だ」%K%P
-Makoto「Well, anyway, let's get out of here. We can talk about it%Nlater.」%K%P
+Makoto「Well, anyway, let's get out of here. We can talk about it later.」%K%P
 0x161C
 くるみは横に立つオレにチラっと目を向け……小さくコクリと肯いた。%K%P
 Still on the floor, Kurumi looks up at me... and slightly nods.%K%P
@@ -819,7 +819,7 @@ Still on the floor, Kurumi looks up at me... and slightly nods.%K%P
 I help Kurumi get up.%K%P
 0x163C
 出口へと向かって歩き出すと、そこには優夏が立っていた。%K%P
-When I start walking towards the exit, I see Yuka%Nstanding there.%K%P
+When I start walking towards the exit, I see Yuka standing there.%K%P
 0x1648
 誠「優夏……」%K%P
 Makoto「Yuka...」%K%P
@@ -843,10 +843,10 @@ Yuka「All right... why don't we hurry back?」%K%P
 Yuka「Everyone's worried about you, Kurumi-chan...」%K%P
 0x16C4
 くるみは黙ってうなずくと、出口に向かって歩き始めた。%K%P
-When Kurumi silently nods, we begin to walk towards the%Nexit.%K%P
+When Kurumi silently nods, we begin to walk towards the exit.%K%P
 0x16D0
 なんだか魂が抜けたような、ぼんやりとした歩き方だった。%K%P
-I walk in an absentminded manner, as if my soul was%Nsomehow drained from my body.%K%P
+I walk in an absentminded manner, as if my soul was somehow drained from my body.%K%P
 0x1720
 優夏「だけどくるみちゃん……どうしてこんなところに？」%K%P
 Yuka「But Kurumi-chan... why were you in a place like this?」%K%P
@@ -861,10 +861,10 @@ Yuka「But Kurumi-chan... why were you in a place like this?」%K%P
 I heard it from behind me.%K%P
 0x178C
 オレは吸い寄せられるようにして、その音の鳴った方向へと歩み寄った。%K%P
-I walk towards the direction the ringing came from, as if%Nit's drawing me in.%K%P
+I walk towards the direction the ringing came from, as if it's drawing me in.%K%P
 0x1798
 振り向くと、優夏もオレのすぐ真後ろについて来ていた。%K%P
-When I turn my head, I see Yuka is right behind me,%Nfollowing me.%K%P
+When I turn my head, I see Yuka is right behind me, following me.%K%P
 0x17A4
 くるみは出口の所にもたれかかったまま、立ち尽くしている。%K%P
 Kurumi is leaning on the exit, standing stock still.%K%P
@@ -873,13 +873,13 @@ Kurumi is leaning on the exit, standing stock still.%K%P
 I hear the sound of a bell again.%K%P
 0x1820
 出口から射し込む月明かりに照らされたそれは……あの鈴ではなかった。%K%P
-The moonlight shines in from the exit, illuminating the%Nobject... but it's not that bell.%K%P
+The moonlight shines in from the exit, illuminating the object... but it's not that bell.%K%P
 0x182C
 小さな社をかたどった建物の、軒からぶら下がった鈴。%K%P
-It's a different bell hanging from the eaves of the%Nbuilding modeled after a small Shinto shrine.%K%P
+It's a different bell hanging from the eaves of the building modeled after a small Shinto shrine.%K%P
 0x1838
 参拝するときにジャラジャラと鳴らす、あの縄のついた鈴を模したものだ。%K%P
-It's a copy of the kind of bell with a rope attached to it%Nthat is rung at times of worship.%K%P
+It's a copy of the kind of bell with a rope attached to it that is rung at times of worship.%K%P
 0x1844
 夢で見た例の鈴よりはひとまわり大きい。%K%P
 It's a little larger than the bell in my dream.%K%P
@@ -906,16 +906,16 @@ There's nothing particularly strange that I see.%K%P
 I look at the bell one more time.%K%P
 0x18A4
 よく見ると、鈴の後ろにボロボロになった和紙が貼られているのに気づく。%K%P
-When I look closely, I notice a tattered piece of%NJapanese paper attached to its back...%K%P
+When I look closely, I notice a tattered piece of Japanese paper attached to its back...%K%P
 0x18B0
 護符（ごふ）だ。%K%P
 It's a talisman...%K%P
 0x18BC
 古めかしい草書体で、こう書かれていた。%K%P
-There's something written on it in old-fashioned cursive%Nscript.%K%P
+There's something written on it in old-fashioned cursive script.%K%P
 0x18D0
 『%Wは%Wる%Wさ%Wめ%Wや　%W%Wみ%Wさ%Wき%Wの%Wは%Wて%Wに　%W%Wな%Wり%Wひ%Wび%Wく%N%W%Wす%Wず%Wと%Wと%Wも%Wに%Wや　%W%Wと%Wき%Wは%Wと%Wか%Wれ%Wん%W』%K%P
-(The spring rain/ At the end of the cape/ Together with/%Nthe echoing bell/ Will free you from time/)%K%P
+(The spring rain/ At the end of the cape/ Together with/ the echoing bell/ Will free you from time/)%K%P
 0x18DC
 和歌のようだが……一体どういう意味なのだろう？%K%P
 It's like a waka... But just what does it mean?%K%P
@@ -939,22 +939,22 @@ Yuka「All right... why don't we hurry back?」%K%P
 Yuka「Everyone's worried about Kurumi-chan.」%K%P
 0x1950
 優夏は振り向いて、出口に向かって歩いて行く。%K%P
-Yuka then turns around and begins to walk towards the%Nexit.%K%P
+Yuka then turns around and begins to walk towards the exit.%K%P
 0x195C
 オレも何となく引っかかるような思いを%N抱きながらも、その後に続いた。%K%P
-Although I'm harboring this feeling like something's%Nbothering me, I follow after her.%K%P
+Although I'm harboring this feeling like something's bothering me, I follow after her.%K%P
 0x19BC
 オレとくるみと優夏……神社を後にし、階段に向かって歩いて行く。%K%P
-Kurumi, Yuka and I leave the shrine and walk towards the%Nstaircase.%K%P
+Kurumi, Yuka and I leave the shrine and walk towards the staircase.%K%P
 0x19C8
 階段の１歩手前で、優夏はすっと振り向いた。%K%P
-Before we step on the first stair, Yuka quickly looks%Naround.%K%P
+Before we step on the first stair, Yuka quickly looks around.%K%P
 0x19D4
 オレもつられて、その視線の先をたどる。%K%P
 I also follow her gaze, finding the point she's looking at.%K%P
 0x19E0
 闇の中にぼうっと浮かんだ神社……。%K%P
-It's the shrine, its image vaguely materializing in the%Ndarkness...%K%P
+It's the shrine, its image vaguely materializing in the darkness...%K%P
 0x1A14
 その軒の下には、木で出来た横長の札がかかっていた。%K%P
 A wooden, rectangular sign is hanging under the eaves.%K%P
@@ -963,28 +963,28 @@ A wooden, rectangular sign is hanging under the eaves.%K%P
 「Shiki no Mori」 ―That's what's written on it.%K%P
 0x1A70
 街灯の下に出たせいか、くるみも優夏も、さっきよりは表情に落ち着きを取り戻していた。%K%P
-Being under the streetlights has made Kurumi and Yuka a%Nlot calmer than they were earlier.%K%P
+Being under the streetlights has made Kurumi and Yuka a lot calmer than they were earlier.%K%P
 0x1A7C
 ただ、さすがにいつもの陽気な２人、というわけにはいかない。%K%P
-However, those two aren't exactly their usual cheery%Nselves either.%K%P
+However, those two aren't exactly their usual cheery selves either.%K%P
 0x1A88
 いろいろな意味での疲労が、顔にありありと浮かんでいた……。%K%P
-Many different types of fatigue are clearly visible on%Ntheir expressions...%K%P
+Many different types of fatigue are clearly visible on their expressions...%K%P
 0x1A9C
 優夏「だけど、くるみちゃん？　どうしてあんなところに……？」%K%P
-Yuka「But what were you doing in a place like that,%NKurumi-chan...?」%K%P
+Yuka「But what were you doing in a place like that, Kurumi-chan...?」%K%P
 0x1AA8
 優夏は優しく尋ねた。%K%P
 Yuka gently asks her.%K%P
 0x1AB4
 くるみ「うん……なんか、ルナビーチに帰っても、じっとしてられなくって……」%K%P
-Kurumi「Right... for some reason, even when Kurumi returned to%NLunabeach, she just couldn't sit still...」%K%P
+Kurumi「Right... for some reason, even when Kurumi returned to Lunabeach, she just couldn't sit still...」%K%P
 0x1AC0
 くるみ「最初はあの桜並木で、夜桜でも見ようかな、なんて思っただけだったんだけど……」%K%P
-Kurumi「At first, Kurumi was just thinking she'd go to the cherry%Nblossom road and watch the petals fall at night and%Nhead back, but...」%K%P
+Kurumi「At first, Kurumi was just thinking she'd go to the cherry blossom road and watch the petals fall at night and head back, but...」%K%P
 0x1ACC
 くるみ「行く途中で、あの神社のこと……急に思い出して……」%K%P
-Kurumi「On Kurumi's way there, she suddenly... remembered that%Nshrine...」%K%P
+Kurumi「On Kurumi's way there, she suddenly... remembered that shrine...」%K%P
 0x1AD8
 優夏「そっかぁ……」%K%P
 Yuka「I see...」%K%P
@@ -996,7 +996,7 @@ Kurumi「Listen! You've got to keep this a secret, okay!?」%K%P
 Makoto「A secret?」%K%P
 0x1B04
 くるみ「うん。お姉ちゃんにだけは、絶対に言わないで欲しいの！」%K%P
-Kurumi「Yep. If there's one person Kurumi doesn't want you%Ntelling, it's Onee-chan!」%K%P
+Kurumi「Yep. If there's one person Kurumi doesn't want you telling, it's Onee-chan!」%K%P
 0x1B18
 オレと優夏は顔を見合わせた。%K%P
 Yuka and I glance at each other.%K%P
@@ -1023,34 +1023,34 @@ Kurumi「That shrine... had a very nostalgic scent to it...」%K%P
 Makoto「?」%K%P
 0x1B80
 くるみ「ちっちゃい頃、お姉ちゃんにもらったお下がりの……洋服の匂い……」%K%P
-Kurumi「It was the smell of the traditional clothes... that Kurumi%Ngot as hand-me-downs from Onee-chan when she was%Nyounger...」%K%P
+Kurumi「It was the smell of the traditional clothes... that Kurumi got as hand-me-downs from Onee-chan when she was younger...」%K%P
 0x1B8C
 くるみ「だから、あんなふうに思っちゃったのかもね？」%K%P
 Kurumi「That might be why Kurumi was thinking like that.」%K%P
 0x1B98
 くるみ「前にも来たことがある、なんて……」%K%P
-Kurumi「That is to say, why Kurumi thought she'd been there%Nbefore...」%K%P
+Kurumi「That is to say, why Kurumi thought she'd been there before...」%K%P
 0x1BA4
 誠「ふーん……」%K%P
 Makoto「Hmm...」%K%P
 0x1BB8
 そう言いながらも、オレは不思議な違和感にとらわれていた。%K%P
-Although I sound like I'm brushing it off, I'm seized by a%Nstrange sense of discomfort.%K%P
+Although I sound like I'm brushing it off, I'm seized by a strange sense of discomfort.%K%P
 0x1BC4
 あの神社の埃っぽい匂いと、いづみさんの洋服の匂い……。%K%P
-The dusty scent of the shrine and the scent of%NIzumi-san's traditional clothes...%K%P
+The dusty scent of the shrine and the scent of Izumi-san's traditional clothes...%K%P
 0x1BD0
 それらは、どう考えても、似つかわしくないように思う。%K%P
-No matter how you think about it, they don't sound like%Nthey go together.%K%P
+No matter how you think about it, they don't sound like they go together.%K%P
 0x1BDC
 けれど、くるみがそう言うのだから、それは確かなのだろう。%K%P
 However, I don't think Kurumi's lying.%K%P
 0x1BE8
 くるみにしかわからない微妙な香りが、あそこにはあったのかもしれない。%K%P
-It's likely that there could have been a subtle fragrance%Nin that shrine that only she recognized.%K%P
+It's likely that there could have been a subtle fragrance in that shrine that only she recognized.%K%P
 0x1BF4
 くるみは、オレと優夏にぴったりとくっつくようにして、いつの間にか笑みを浮かべていた。%K%P
-Kurumi tries to keep close to Yuka and I, and before I%Nknow it, she's smiling.%K%P
+Kurumi tries to keep close to Yuka and I, and before I know it, she's smiling.%K%P
 0x1C84
 くるみ「ただいまぁ〜♪」%K%P
 Kurumi「Kurumi's home〜♪」%K%P
@@ -1086,7 +1086,7 @@ Kurumi「Sorry...」%K%P
 Izumi「Oh geez...」%K%P
 0x1D30
 あきれ果て、へなへなとイスにくずおれる%Nいづみさん。%K%P
-With the huge wave of relief washing over her, Izumi-san%Nloses her strength and sits down.%K%P
+With the huge wave of relief washing over her, Izumi-san loses her strength and sits down.%K%P
 0x1D3C
 店内を見渡すと、そこにはみんなの姿があった。%K%P
 When I look around the shop, I see the others.%K%P
@@ -1098,13 +1098,13 @@ Yuka「Anyway, I'm glad we found her!」%K%P
 Yuka「Well then, shall we go back?」%K%P
 0x1D78
 いづみ「せっかく集まったんだから、コーヒーぐらい飲んでく？」%K%P
-Izumi「Since you went to the trouble of gathering here, would%Nyou at least like some coffee?」%K%P
+Izumi「Since you went to the trouble of gathering here, would you at least like some coffee?」%K%P
 0x1D84
 誠「いや、もう遅いので帰ります！」%K%P
 Makoto「No, it's really late, so we need to head back.」%K%P
 0x1D90
 いづみさんは『わかったわ』といった感じで、残念そうにうなずいていた。%K%P
-Izumi-san nods in disappointment, as if to say, 「I%Nunderstand.」%K%P
+Izumi-san nods in disappointment, as if to say, 「I understand.」%K%P
 0x1DC4
 しかし……%K%P
 However...%K%P
@@ -1113,7 +1113,7 @@ However...%K%P
 Izumi「Hey, Makoto-kun, wait a second.」%K%P
 0x1DDC
 ……店を出ようとしたところで、急にいづみさんに呼び止められた。%K%P
-... Just before I try to leave the shop, Izumi-san%Nsuddenly calls out to me, so I stop.%K%P
+... Just before I try to leave the shop, Izumi-san suddenly calls out to me, so I stop.%K%P
 0x1DF0
 誠「え？　何ですか？」%K%P
 Makoto「Huh? What is it?」%K%P
@@ -1125,10 +1125,10 @@ Izumi「Right... Could you come over here?」%K%P
 Makoto「???」%K%P
 0x1E1C
 オレは、いづみさんに手招きされる形で、店の隅へと向かう。%K%P
-I head towards Izumi-san's beckoning form in the corner%Nof the shop.%K%P
+I head towards Izumi-san's beckoning form in the corner of the shop.%K%P
 0x1E44
 誠「何か、みんなに聞かせたくないような話でも？」%K%P
-Makoto「Do you want to say something that you didn't want the%Nothers to hear?」%K%P
+Makoto「Do you want to say something that you didn't want the others to hear?」%K%P
 0x1E58
 いづみ「うん……。そういうわけではないんだけど……」%K%P
 Izumi「Well... It's not like that, but...」%K%P
@@ -1149,7 +1149,7 @@ Makoto「Yes...?」%K%P
 Izumi「...」%K%P
 0x1EA8
 いづみさんは、何故か言葉に詰まっている。%K%P
-Izumi-san seems to be at a loss of words for some%Nreason.%K%P
+Izumi-san seems to be at a loss of words for some reason.%K%P
 0x1EB4
 そんなに言い出しにくいことなのだろうか？%K%P
 Is it really that hard for her to say it?%K%P
@@ -1161,7 +1161,7 @@ Izumi「... Umm... Er... Are you free tonight?」%K%P
 Makoto「... Huh?」%K%P
 0x1ED8
 いづみ「今夜……そうね、３時ぐらいに、私、ルナビーチの前で待ってるから……」%K%P
-Izumi「Tonight... that's right... Around 3:00, I'll be waiting in front%Nof Lunabeach...」%K%P
+Izumi「Tonight... that's right... Around 3:00, I'll be waiting in front of Lunabeach...」%K%P
 0x1EE4
 いづみ「その……誠くんに、来てほしいの。その時間に」%K%P
 Izumi「Umm... Makoto-kun, I want you to come here at that time.」%K%P
@@ -1170,7 +1170,7 @@ Izumi「Umm... Makoto-kun, I want you to come here at that time.」%K%P
 ... Huh?%K%P
 0x1EFC
 『今夜３時』……ってことは、真夜中の３時ってことだよな？%K%P
-「Tonight at 3:00...」 She means 3:00 in the middle of the%Nnight?%K%P
+「Tonight at 3:00...」 She means 3:00 in the middle of the night?%K%P
 0x1F08
 そんな時間に……いったいどうして？%K%P
 Why... at that time?%K%P
@@ -1194,25 +1194,25 @@ Izumi「Y... Yes.」%K%P
 Izumi-san nods, seeming a bit flustered.%K%P
 0x1F64
 そんな様子を不思議に思いながらも、オレは待たせていたみんなと一緒にロッジへと帰ることにした……。%K%P
-Although I'm curious about the way she's acting, I decide%Nto not to leave the others waiting and go back with them%Nto the lodge...%K%P
+Although I'm curious about the way she's acting, I decide to not to leave the others waiting and go back with them to the lodge...%K%P
 0x1FB8
 ロッジに戻り、部屋のベッドに再び身を投げた。%K%P
-When I get back, I once again throw myself onto the bed%Nin my room.%K%P
+When I get back, I once again throw myself onto the bed in my room.%K%P
 0x1FC4
 当たり前の話だが、体はもう限界を超えて極度に疲れ果てていた。%K%P
-I'm beyond exhausted, having already surpassed my%Nbody's upmost limits.%K%P
+I'm beyond exhausted, having already surpassed my body's upmost limits.%K%P
 0x1FD0
 オレはいづみさんとの約束を守る為、腕時計のアラームを２時２０分にセットし……%K%N
-To ensure I keep my promise with Izumi-san, I set my%Nwatch alarm to 2:20 A.M. ...%K%N
+To ensure I keep my promise with Izumi-san, I set my watch alarm to 2:20 A.M. ...%K%N
 0x1FDC
 ……ゆっくりとまぶたを下ろした……。%K%P
 ... I slowly shut my eyes...%K%P
 0x2024
 ロッジに戻り、部屋のベッドに再び身を投げた。%K%P
-When I return to the lodge, I once again throw myself%Nonto the bed in my room.%K%P
+When I return to the lodge, I once again throw myself onto the bed in my room.%K%P
 0x2030
 当たり前の話だが、体はもう限界を超えて極度に疲れ果てていた。%K%P
-I'm beyond exhausted, having already surpassed my%Nbody's upmost limits.%K%P
+I'm beyond exhausted, having already surpassed my body's upmost limits.%K%P
 0x203C
 目を閉じると同時に、オレはまどろみの世界へといざなわれて行った……。%K%P
 I fall asleep the moment I close my eyes...%K%P

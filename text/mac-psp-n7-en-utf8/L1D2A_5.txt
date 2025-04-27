@@ -6,10 +6,10 @@ text area offset and size:
 Yuka「Gyahahahahahahahaha♪」%K%P
 0xB4
 何が面白いんだか知らないが、優夏はひとり、テレビショッピングの観客のオバちゃんみたいな大笑いを続けていた。%K%P
-I have no clue what's so funny, but Yuka is loudly%Ncracking up like a middle-aged woman on a TV shopping%Nshow.%K%P
+I have no clue what's so funny, but Yuka is loudly cracking up like a middle-aged woman on a TV shopping show.%K%P
 0xC0
 誠「おい、優夏？　もう少し静かにしろよ。くるみが上で寝てるかもしれないんだぞ？」%K%P
-Makoto「Hey, Yuka? Keep it down. Kurumi might be sleeping%Nupstairs, you know?」%K%P
+Makoto「Hey, Yuka? Keep it down. Kurumi might be sleeping upstairs, you know?」%K%P
 0xCC
 天井の方を指差しながら、オレは優夏をたしなめた。%K%P
 I point to the ceiling as I scold Yuka.%K%P
@@ -30,19 +30,19 @@ And then, over there...%K%P
 Kurumi「Morning!」%K%P
 0x15C
 ……まるで病人とは思えぬテンションで、くるみが現われた。%K%P
-It looks like Kurumi's headache has completely subsided%Nitself during our absence.%K%P
+It looks like Kurumi's headache has completely subsided itself during our absence.%K%P
 0x168
 右手に持ったマグカップの中には、薄い膜を張った牛乳が注がれている。%K%P
-A thin film of hot milk rises to the surface of the mug in%Nher right hand, a drink most people have when they're%Nsick.%K%P
+A thin film of hot milk rises to the surface of the mug in her right hand, a drink most people have when they're sick.%K%P
 0x174
 それだけが唯一、病み上がりの象徴のようにも見えたが、今のくるみにとっては、あまり似つかわしくないアイテムだった。%K%P
-However, since Kurumi looks fine, this doesn't seem to%Nsuit her.%K%P
+However, since Kurumi looks fine, this doesn't seem to suit her.%K%P
 0x188
 優夏「おっ、くるみたん……%Wどうれすか、%Nぐあいのほうは？」%K%P
 Yuka「Oh, Kurumi-tan... Hau ah yuu feelin'?」%K%P
 0x194
 くるみ「うん。ちょっと横になったら、すっかり良くなっちゃった」%K%P
-Kurumi「Good! After Kurumi had a nap, she got completely%Nbetter.」%K%P
+Kurumi「Good! After Kurumi had a nap, she got completely better.」%K%P
 0x1A8
 優夏「おおっ、それはよかったよかった、なっはっはっはっは♪」%K%P
 Yuka「Ohhhh! Dash gud, dash gud, nahahahaha♪」%K%P
@@ -51,10 +51,10 @@ Yuka「Ohhhh! Dash gud, dash gud, nahahahaha♪」%K%P
 Yuka「Ah!!」%K%P
 0x1D8
 突然、優夏が身を乗り出すようにして、くるみの持ったマグカップをビシッと指差した。%K%P
-Yuka suddenly leans forward and points to the mug in%NKurumi's hand.%K%P
+Yuka suddenly leans forward and points to the mug in Kurumi's hand.%K%P
 0x1E4
 それも人差し指と中指、２本の指を使って……。%K%P
-Specifically, she is pointing to it with her index and%Nmiddle fingers...%K%P
+Specifically, she is pointing to it with her index and middle fingers...%K%P
 0x1F0
 優夏「わたくし、たったいま、ものすごいことにきづいてしまいましたっ！」%K%P
 Yuka「Eye have jusht come up wif shomefing amashin'!」%K%P
@@ -72,7 +72,7 @@ Kurumi「... What?」%K%P
 Yuka「Ish a joke, a joke!」%K%P
 0x260
 優夏「『くるみとっホットミルク』%W%W……ぎゃくからよんれも『クルミトッホっとみるく』」%K%P
-Yuka「Whaa doo yuu get when yuu crosh Kurumi wif milk? ...%NKurumilk!」%K%P
+Yuka「Whaa doo yuu get when yuu crosh Kurumi wif milk? ... Kurumilk!」%K%P
 0x26C
 くるみ「…………」%K%P
 Kurumi「...」%K%P
@@ -90,10 +90,10 @@ Makoto「R-Really? It's kinda lame if you ask me...」%K%P
 Yuka「Ah, shaddup, yuu pahty pooper! Gyahahahahahahaha♪」%K%P
 0x2B8
 言うまでもなく、オレを含めた他のみんなは、彼女達の世界についていけないようだった。%K%P
-It's clear that those two are completely alienated in their%Nown world.%K%P
+It's clear that those two are completely alienated in their own world.%K%P
 0x2C4
 耳の穴をほじったり、意味もなく天井に吊るされたランプを見つめていたりしている。%K%P
-I pick my ears and look at the ceiling, looking at the lamp%Nfor some reason.%K%P
+I pick my ears and look at the ceiling, looking at the lamp for some reason.%K%P
 0x2D8
 そうして、ひとしきり笑い終えた後……%K%P
 And then, when the long laughter finally ends...%K%P
@@ -117,7 +117,7 @@ Yuka「To... To... To...」%K%P
 Makoto「'To... To... To...', You don't mean... 'toilet'?」%K%P
 0x360
 そう言えば、こころなしか優夏の顔色が青ざめているようにも見えるが……？%K%P
-Now that I think about it, Yuka's face is pretty pale, isn't%Nit...%K%P
+Now that I think about it, Yuka's face is pretty pale, isn't it...%K%P
 0x36C
 優夏「ト…%W%Wト…%W%Wト…」%K%P
 Yuka「To... To... To...」%K%P
@@ -138,16 +138,16 @@ Yuka「Eye wanna eat toro!!」%K%P
 Makoto「W-Why so suddenly...?」%K%P
 0x3F0
 優夏「いいのっ！%W　トロがたべたいのっ！　%Wとにかくトロがたべたいのぉぉぉっ！！！」%K%P
-Yuka「Ish faine! Eye want toro! Eye jusht wanna eat shum%NTOROOOOOOOO!!!」%K%P
+Yuka「Ish faine! Eye want toro! Eye jusht wanna eat shum TOROOOOOOOO!!!」%K%P
 0x3FC
 その全ての理屈を拒絶した圧倒的なパワーに、オレは負けた。%K%P
 I surrender to her overwhelming nonsense.%K%P
 0x408
 誠「だったら商店街にでも行って、買ってくればいいだろ？」%K%P
-Makoto「Then isn't it fine if we go to the shopping district and buy%Nsome?」%K%P
+Makoto「Then isn't it fine if we go to the shopping district and buy some?」%K%P
 0x414
 優夏「らめ。そんなんら、らめなの。もっとしんせんなトロらなきゃ、らめなんれすっ！」%K%P
-Yuka「Nah wei. Dash not good enuff. Eye need shum natural,%Nfresh toro, sho yuu can't doo dat!」%K%P
+Yuka「Nah wei. Dash not good enuff. Eye need shum natural, fresh toro, sho yuu can't doo dat!」%K%P
 0x430
 くるみ「じゃあ、釣りに行こっか？」%K%P
 Kurumi「Well then, should we go fishing?」%K%P
@@ -165,7 +165,7 @@ Makoto「You mean go fishing for 'tuna', right?」%K%P
 Kurumi「Oh, right... then shall we go fish for tuna?」%K%P
 0x474
 誠「いや、それがな、くるみ？　こんなとこではマグロは釣れないんだよな、残念ながら……」%K%P
-Makoto「Listen up, Kurumi. It's unfortunate, but we can't go fishing%Nfor tuna right...」%K%P
+Makoto「Listen up, Kurumi. It's unfortunate, but we can't go fishing for tuna right...」%K%P
 0x488
 優夏「よぉーしっ！　つりにいくぞぉ！」%K%P
 Yuka「Arright! Lesh go fishin'!」%K%P

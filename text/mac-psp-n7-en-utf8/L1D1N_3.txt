@@ -6,34 +6,34 @@ text area offset and size:
 We all ran away, back to Lunabeach.%K%P
 0x4C
 ここに着いたのは３０分ぐらい前で、その時からずっと、オレはあることを考え続けていた……。%K%P
-In the half hour we've been here, I've been thinking about%N「that」 this whole time...%K%P
+In the half hour we've been here, I've been thinking about 「that」 this whole time...%K%P
 0x58
 『月浜で遙が転んだこと』『米が切れていたこと』……そして%K%N『あの地震とプールに落ちたいづみさんのこと』%K%P
-「Haruka falling down on Moon Beach」, 「The shortage of%Nrice」... and this time, 「The earthquake and Izumi-san%Nfalling into the pool.」%K%P
+「Haruka falling down on Moon Beach」, 「The shortage of rice」... and this time, 「The earthquake and Izumi-san falling into the pool.」%K%P
 0x64
 『地震が来るんだよ』……%W%Wあの時オレが言ったことを、みんなは全く気にしていないようだった。%K%P
-「An earthquake's coming.」 ... No one has paid any%Nattention to what I said back there.%K%P
+「An earthquake's coming.」 ... No one has paid any attention to what I said back there.%K%P
 0x70
 彼らは今、そんなこととは別の話題で盛り上がっている。%K%P
-Right now, they're engaged in a conversation about%Nsomething else entirely.%K%P
+Right now, they're engaged in a conversation about something else entirely.%K%P
 0xA0
 億彦「しかし、良かったねぇ♪　いち時はどうなることかと思ったけど……」%K%P
 Okuhiko「Thank god♪ For a moment, I thought we were screwed...」%K%P
 0xBC
 沙紀「逃げ遅れたいづみさんが、警備員に捕まっちゃって……♪」%K%P
-Saki「I thought the security guard would catch Izumi-san,%Nsince she was falling behind...♪」%K%P
+Saki「I thought the security guard would catch Izumi-san, since she was falling behind...♪」%K%P
 0xD8
 くるみ「あの時、遙さんが機転を利かせてくれなかったら、今頃はみ〜んな捕まっちゃってたよね♪」%K%P
-Kurumi「If it weren't for Haruka-san's quick thinking, we'd all be%Ncaught right now♪」%K%P
+Kurumi「If it weren't for Haruka-san's quick thinking, we'd all be caught right now♪」%K%P
 0xF4
 億彦「まさか警備員の帽子を取ろうなんて、誰も考えつかないもんなぁ〜♪」%K%P
-Okuhiko「No one else would have thought to take off that guard's%Nhat〜♪」%K%P
+Okuhiko「No one else would have thought to take off that guard's hat〜♪」%K%P
 0x108
 沙紀「それよりも、帽子の下が、実は%Nカツラだったなんて、普通は気づかないわよぉ♪」%K%P
-Saki「Normally, you wouldn't have noticed that he was wearing%Na wig under there either♪」%K%P
+Saki「Normally, you wouldn't have noticed that he was wearing a wig under there either♪」%K%P
 0x124
 くるみ「それを遙さんが、プールの真ん中に%N放り投げてぇ♪」%K%P
-Kurumi「And then Haruka-san threw it into the center of the%Npool♪」%K%P
+Kurumi「And then Haruka-san threw it into the center of the pool♪」%K%P
 0x140
 億彦「あの時の警備員の顔と言ったら……♪」%K%P
 Okuhiko「I still remember the look on his face...♪」%K%P
@@ -42,7 +42,7 @@ Okuhiko「I still remember the look on his face...♪」%K%P
 Everyone「Ha ha ha ha ha ha ha ha ha...!♪」%K%P
 0x168
 遙は努めて表情を崩すまいとこらえていたが、そこにはしっかりと、はにかみの色が浮かんでいた。%K%P
-Haruka's trying very hard not to get flustered, but her%Nface is clearly starting to flush.%K%P
+Haruka's trying very hard not to get flustered, but her face is clearly starting to flush.%K%P
 0x17C
 すると……%K%P
 Just then...%K%P
@@ -51,7 +51,7 @@ Just then...%K%P
 Saki「Huh? What's wrong, Makoto-kun?」%K%P
 0x1AC
 ……ふいに、沙紀がオレの異変に気づいて%Nそう言った。%K%P
-... Suddenly, Saki says this, having noticed my change in%Nbehavior.%K%P
+... Suddenly, Saki says this, having noticed my change in behavior.%K%P
 0x1D4
 誠「いや……ちょっと……」%K%P
 Makoto「No... it's just...」%K%P
@@ -66,7 +66,7 @@ Makoto「I guess you could say that...」%K%P
 Kurumi「Huh?」%K%P
 0x214
 誠「何て言えばいいのかな……。%Nオレさっき……なんか奇妙な現象を、体験して……」%K%P
-Makoto「How do I put this... Earlier... I experienced an unusual%Nphenomenon...」%K%P
+Makoto「How do I put this... Earlier... I experienced an unusual phenomenon...」%K%P
 0x230
 遙「奇妙な……現象？」%K%P
 Haruka「An unusual... phenomenon?」%K%P
@@ -87,10 +87,10 @@ Makoto「If I had to put it in a word... it was a 'premonition'.」%K%P
 I simply tell them this.%K%P
 0x294
 何故だか知らないが、突然、オレには予知能力が%N備わってしまったらしい。%K%P
-I don't know why, but all of the sudden, I've been given%Nthe power to receive premonitions.%K%P
+I don't know why, but all of the sudden, I've been given the power to receive premonitions.%K%P
 0x2A0
 今までに起きた現象をきちんと説明するには、%Nどう考えても『予知能力が備わった』としか%N言いようがなかったのだ。%K%P
-No matter how I think about how to explain this%Nphenomenon, the only way I can think of how to express%Nit is, 「I've been given the power to receive premonitions.」%K%P
+No matter how I think about how to explain this phenomenon, the only way I can think of how to express it is, 「I've been given the power to receive premonitions.」%K%P
 0x2B4
 誠「なんとなく未来を予知できるっていうか……」%K%P
 Makoto「Somehow, I had a premonition of the future...」%K%P
@@ -99,10 +99,10 @@ Makoto「Somehow, I had a premonition of the future...」%K%P
 I vaguely mumble this.%K%P
 0x2CC
 何故だか知らないが、突然、オレには予知能力が%N備わってしまったらしい。%K%P
-I don't know why, but all of the sudden, I've been given%Nthe power to receive premonitions.%K%P
+I don't know why, but all of the sudden, I've been given the power to receive premonitions.%K%P
 0x2D8
 今までに起きた現象をきちんと説明するには、%Nどう考えても『予知能力が備わった』としか%N言いようがなかったのだ。%K%P
-No matter how I think about how to explain this%Nphenomenon, the only way I can think of how to express%Nit is, 「I've been given the power to receive premonitions.」%K%P
+No matter how I think about how to explain this phenomenon, the only way I can think of how to express it is, 「I've been given the power to receive premonitions.」%K%P
 0x2F4
 億彦「はぁ？？？」%K%P
 Okuhiko「Huh???」%K%P
@@ -111,19 +111,19 @@ Okuhiko「Huh???」%K%P
 Okuhiko jeers at my claim.%K%P
 0x30C
 誠「ほら……オレ、言っただろ？　いづみさんがプールに落ちる前……『地震が来る』って……」%K%P
-Makoto「Right... I said it earlier, didn't I? Before Izumi-san fell into%Nthe pool... I said 'An earthquake's coming'...」%K%P
+Makoto「Right... I said it earlier, didn't I? Before Izumi-san fell into the pool... I said 'An earthquake's coming'...」%K%P
 0x328
 くるみ「ああ……そう言えば……」%K%P
 Kurumi「Ah... now that you mention it...」%K%P
 0x334
 誠「それに、今日の夕方、米が無いってことも、何故だか知ってたし……」%K%P
-Makoto「Also, this afternoon, I somehow knew that the shop was%Nout of rice...」%K%P
+Makoto「Also, this afternoon, I somehow knew that the shop was out of rice...」%K%P
 0x350
 沙紀「うーん……」%K%P
 Saki「Right...」%K%P
 0x35C
 誠「他にも、みんなは知らないと思うけど、遙が月浜で転んだときも……」%K%P
-Makoto「I didn't mention this before, but I also knew Haruka was%Ngoing to fall on Moon Beach...」%K%P
+Makoto「I didn't mention this before, but I also knew Haruka was going to fall on Moon Beach...」%K%P
 0x378
 遙「え……？」%K%P
 Haruka「Huh...?」%K%P
@@ -141,10 +141,10 @@ Okuhiko「Or could it be that you're trying to trick us?」%K%P
 Makoto「You idiot! Why would I want to do that?!」%K%P
 0x3CC
 億彦「得になるからこそ、そんなたわけたこと言ってるんだろ？」%K%P
-Okuhiko「Why else would you say all that crap unless you had%Nsomething you wanted to gain from it?」%K%P
+Okuhiko「Why else would you say all that crap unless you had something you wanted to gain from it?」%K%P
 0x3F0
 億彦「つまり、僕らをからかって、君は楽しんでるってわけだ……」%K%P
-Okuhiko「In other words, so you could just be mocking us for your%Nsick entertainment...」%K%P
+Okuhiko「In other words, so you could just be mocking us for your sick entertainment...」%K%P
 0x3FC
 誠「……え？」%K%P
 Makoto「... What?」%K%P
@@ -156,7 +156,7 @@ Okuhiko「After all, today is April Fool's Day...」%K%P
 Okuhiko「I didn't know you still practiced that obsolete tradition.」%K%P
 0x420
 誠「違うよ！　そうじゃないんだって！　エイプリルフールだの何だのっていう次元の話じゃないんだよ、これは！」%K%P
-Makoto「You're wrong! That's not it at all! This isn't an April Fool's%NDay joke, dammit!」%K%P
+Makoto「You're wrong! That's not it at all! This isn't an April Fool's Day joke, dammit!」%K%P
 0x434
 億彦「はいはい……。わかったわかった……」%K%P
 Okuhiko「Yes, yes... I get it, I get it...」%K%P
@@ -168,25 +168,25 @@ Makoto「Bullshit! You clearly don't believe me!」%K%P
 Okuhiko「Really, I do. I'll try believing you.」%K%P
 0x460
 億彦「では石原大先生。明日の出来事を、予知して頂けますか？」%K%P
-Okuhiko「Well then, Great Teacher Ishihara. What premonitions%Nhave you received about tomorrow?」%K%P
+Okuhiko「Well then, Great Teacher Ishihara. What premonitions have you received about tomorrow?」%K%P
 0x46C
 誠「そ、それは……」%K%P
 Makoto「W-Well...」%K%P
 0x480
 億彦「え？　おわかりにならないのですか、先生？」%K%P
-Okuhiko「Huh? With all due respect, shouldn't you know that,%NTeacher?」%K%P
+Okuhiko「Huh? With all due respect, shouldn't you know that, Teacher?」%K%P
 0x48C
 誠「…………」%K%P
 Makoto「...」%K%P
 0x4A0
 億彦「それなら、１時間後のことでも……いや、１分後のことでもいいのですが……？」%K%P
-Okuhiko「In that case, what about ones regarding what will%Nhappen in one hour... no, in one minute...?」%K%P
+Okuhiko「In that case, what about ones regarding what will happen in one hour... no, in one minute...?」%K%P
 0x4AC
 誠「……………………」%K%P
 Makoto「...」%K%P
 0x4C0
 億彦「ええっ！？　まさか、そんなことさえも予知できないと？」%K%P
-Okuhiko「Huh!? Could it be you can't even receive premonitions%Nabout that?」%K%P
+Okuhiko「Huh!? Could it be you can't even receive premonitions about that?」%K%P
 0x4CC
 誠「……そ、そういうんじゃないんだよ、%Nオレのは……」%K%P
 Makoto「... I-I don't think it works that way...」%K%P
@@ -198,16 +198,16 @@ Okuhiko「Ha ha ha ha ha ha ha ha ha!♪」%K%P
 Okuhiko「See? It's exactly as I thought after all.」%K%P
 0x524
 億彦「騙すのもいいけれど、それならもっと信憑性のある嘘をついてもらいたいもんだね？」%K%P
-Okuhiko「I don't mind if you want to trick us, but it's no fun if you%Nuse such a flimsy lie.」%K%P
+Okuhiko「I don't mind if you want to trick us, but it's no fun if you use such a flimsy lie.」%K%P
 0x530
 億彦「そんな子供でも引っかからないような、幼稚なやつではなく……」%K%P
-Okuhiko「That's the kind of stuff that not even a child would be%Nfooled by...」%K%P
+Okuhiko「That's the kind of stuff that not even a child would be fooled by...」%K%P
 0x54C
 沙紀「でも、ちょっと待って……」%K%P
 Saki「But wait a second...」%K%P
 0x558
 沙紀「お米のことも地震のことも、%Nつこうと思ってつけるような嘘じゃないと%N思うんだけど……」%K%P
-Saki「I don't think he could have lied about the rice and the%Nearthquake...」%K%P
+Saki「I don't think he could have lied about the rice and the earthquake...」%K%P
 0x564
 沙紀が助け船を出してくれた。%K%P
 Thankfully, Saki comes to my rescue.%K%P
@@ -222,16 +222,16 @@ Okuhiko「You're wrong, Saki-chan...」%K%P
 Saki「???」%K%P
 0x59C
 億彦「今日の夕方、僕らが初めてここへやって来たとき、くるみちゃんはこう言ったよね？」%K%P
-Okuhiko「This afternoon, when we first came in, what was it that%Nyou said, Kurumi-chan?」%K%P
+Okuhiko「This afternoon, when we first came in, what was it that you said, Kurumi-chan?」%K%P
 0x5A8
 億彦「『今日もお昼に団体客が入って……』って」%K%P
-Okuhiko「I believe it was, 'Today, we had a party of tourists come%Nin for lunch...'」%K%P
+Okuhiko「I believe it was, 'Today, we had a party of tourists come in for lunch...'」%K%P
 0x5C4
 くるみ「うん、言った……」%K%P
 Kurumi「Yeah, you're right...」%K%P
 0x5D0
 億彦「きっと石原は、その言葉から推理して『お米が相当減っている筈だ』と思ったんだろう」%K%P
-Okuhiko「From those words, Ishihara probably deduced, 'They%Nmust have used up a ton of rice.'」%K%P
+Okuhiko「From those words, Ishihara probably deduced, 'They must have used up a ton of rice.'」%K%P
 0x5EC
 遙「じゃあ……地震は……？」%K%P
 Haruka「Well then... what about the earthquake...?」%K%P
@@ -240,7 +240,7 @@ Haruka「Well then... what about the earthquake...?」%K%P
 Okuhiko「That one barely needs an explanation.」%K%P
 0x604
 億彦「あれはただ単純に『一番最初に地震に気づいたのが石原だった』ってだけのことだから……」%K%P
-Okuhiko「It's simply because 'The first person to notice the start%Nof the earthquake was Ishihara.'...」%K%P
+Okuhiko「It's simply because 'The first person to notice the start of the earthquake was Ishihara.'...」%K%P
 0x610
 誠「えっ？」%K%P
 Makoto「Huh?」%K%P
@@ -249,16 +249,16 @@ Makoto「Huh?」%K%P
 Okuhiko「Ha ha! Are you trying to play dumb?」%K%P
 0x638
 億彦「要するに、石原が『地震が来る』って言ったときには、既にそれは起きていたってことだ」%K%P
-Okuhiko「Basically, when Ishihara shouted, 'An earthquake's%Ncoming,' it had already started.」%K%P
+Okuhiko「Basically, when Ishihara shouted, 'An earthquake's coming,' it had already started.」%K%P
 0x644
 億彦「僕らは、いづみさんとくるみちゃんのじゃれあいに意識を集中してたから、それに気がつかなかっただけで……」%K%P
-Okuhiko「We were all so focused on Izumi-san and Kurumi-chan's%Ngame, so we didn't notice...」%K%P
+Okuhiko「We were all so focused on Izumi-san and Kurumi-chan's game, so we didn't notice...」%K%P
 0x650
 億彦「そうじゃなかったら、石原は、普通の人では感じないような小さな揺れ%N──つまり予震を感じたのかもしれない」%K%P
-Okuhiko「But if Ishihara wasn't, then he might have felt some light%Nshaking that we didn't―In other words, the preliminary%Ntremors.」%K%P
+Okuhiko「But if Ishihara wasn't, then he might have felt some light shaking that we didn't―In other words, the preliminary tremors.」%K%P
 0x65C
 億彦「当然のことだけれど、予震がわかれば、本震を言い当てるのなんて、たやすいことだからね？」%K%P
-Okuhiko「Naturally, if you notice the preliminary tremors,then it's%Nsimple to guess right about the arrival of the main tremor.」%K%P
+Okuhiko「Naturally, if you notice the preliminary tremors,then it's simple to guess right about the arrival of the main tremor.」%K%P
 0x668
 遙「ふーん……」%K%P
 Haruka「Hmm...」%K%P
@@ -279,10 +279,10 @@ I say nothing.%K%P
 I've lost the will to.%K%P
 0x6E8
 真実を信じてもらえないことほど悲しいものはない。%K%P
-There's nothing more depressing than nobody believing%Nyou when you're telling the truth.%K%P
+There's nothing more depressing than nobody believing you when you're telling the truth.%K%P
 0x6F4
 『おまえが殺ったんだろ！』と責めたてられる無実の容疑者みたいな心境だった。%K%P
-I feel like an innocent suspect who's been accused of%Nmurder.%K%P
+I feel like an innocent suspect who's been accused of murder.%K%P
 0x700
 （別に信用してくれないんなら、%Nそれでもいいよ……）%K%P
 (It's not like they've lost faith in me, so I guess it's fine...)%K%P
@@ -300,7 +300,7 @@ Izumi「Whew... that was refreshing♪」%K%P
 Izumi-san rejoins us after finishing her shower.%K%P
 0x75C
 いづみ「みんな、冷蔵庫にイチゴがあるんだけど、%N食べる？」%K%P
-Izumi「I have some strawberries in the fridge, would you like%Nsome?」%K%P
+Izumi「I have some strawberries in the fridge, would you like some?」%K%P
 0x768
 結局、オレの予知話は、あっさりと流されてしまった……。%K%P
-In the end, the topic of my premonitions is quickly%Nforgotten...%K%P
+In the end, the topic of my premonitions is quickly forgotten...%K%P

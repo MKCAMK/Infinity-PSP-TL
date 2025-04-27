@@ -90,7 +90,7 @@ Doctor Tanaka
 Blick Winkel
 
 ;f34;8;優・沙羅
-You/Sara
+You,Sara
 
 ;f38;4;マヨ
 Mayo
@@ -4946,7 +4946,7 @@ Music: Sawamura
 ;dupe:35f0
 
 ;3604;34;『LeMU⑳〜遥かなるレムリア大陸〜』
-LeMU ~The Far Away Land of Lemuria~
+LeMU 〜The Far Away Land of Lemuria〜
 ;3608;24;Ｌｙｒｉｃｓ：志倉千代丸
 ;dupe:35e8
 ;360c;22;Ｍｕｓｉｃ：志倉千代丸

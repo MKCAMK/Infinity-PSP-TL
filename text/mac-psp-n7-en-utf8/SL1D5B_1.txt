@@ -6,7 +6,7 @@ text area offset and size:
 I don't see Saki anywhere.%K%P
 0x68
 別荘全体が静まり返っていて、幽霊屋敷のように感じられた。%K%P
-The summer house is so still and silent, it kind of feels%Nlike a haunted house.%K%P
+The summer house is so still and silent, it kind of feels like a haunted house.%K%P
 0x74
 それでもオレは立ち去りがたく、何度も建物の周りを歩き回った。%K%P
 Despite that, I pace around the building many times.%K%P
@@ -15,10 +15,10 @@ Despite that, I pace around the building many times.%K%P
 (It's as if I'm trying to hunt down Saki's lingering scent.)%K%P
 0x8C
 そんなどこぞの恋愛小説のようなことが、似合う柄でもない。%K%P
-This feels like a scene taken straight out from a%Nromance novel.%K%P
+This feels like a scene taken straight out from a romance novel.%K%P
 0x98
 あきらめてロッジに帰ろうと振り向いたそのとき……正面の草むらから、あの子犬が顔を出した。%K%P
-I give up and turn around to try to return to the lodge%Nwhen... The puppy shows up from out of the bushes up%Nfront.%K%P
+I give up and turn around to try to return to the lodge when... The puppy shows up from out of the bushes up front.%K%P
 0xA4
 子犬もオレのことに気づいたらしい。%K%P
 It seems the puppy also recognizes me.%K%P
@@ -36,7 +36,7 @@ However, the puppy hobbles over to me.%K%N
 It begins to coil around my feet like a spoiled child.%K%P
 0xE0
 オレはゆっくりとしゃがみこんで、子犬の頭を撫でてやった。子犬は喜んで、前足をオレのヒザに乗せた。%K%P
-I slowly crouch down, and pet the puppy on the head.%NDelighted, the puppy jumps up on my knees with its%Nforelegs.%K%P
+I slowly crouch down, and pet the puppy on the head. Delighted, the puppy jumps up on my knees with its forelegs.%K%P
 0xEC
 誠「……お前のご主人様、どこへ行ったんだ？」%K%P
 Makoto「... Where did your mistress go?」%K%P
@@ -51,7 +51,7 @@ I leave the puppy, and return to the lodge.%K%P
 Yuka isn't in the living room.%K%P
 0x18C
 （『もう１度、沙紀を呼んで来て』……そう頼んだくせに、どこ行ったんだろう？）%K%P
-(「Call Saki here one more time.」 ... Even though she asked%Nme that, where did she go?)%K%P
+(「Call Saki here one more time.」 ... Even though she asked me that, where did she go?)%K%P
 0x198
 部屋の中には遙だけがいた。ソファにちょこんと腰かけている。%K%P
 I find Haruka lounging on the sofa.%K%P
@@ -66,7 +66,7 @@ I ask Haruka.%K%P
 She silently shakes her head. I'll take that as a no.%K%P
 0x1D0
 誠「そう言えば、億彦もいないみたいだけど？」%K%P
-Makoto「Now that I think about it, it doesn't seem like Okuhiko is%Nhere either.」%K%P
+Makoto「Now that I think about it, it doesn't seem like Okuhiko is here either.」%K%P
 0x1DC
 遙はやはり口をつぐんだまま、バスルームの方を指差した。%K%P
 Haruka quietly points towards the bathroom.%K%P
@@ -78,7 +78,7 @@ From there, I can hear the sound of water running.%K%P
 It seems that Okuhiko is taking a shower.%K%P
 0x200
 オレは何度か軽くうなずいて示しながら、意味もなく視線をさまよわせた。%K%P
-As I lightly nod in affirmation several times, my eyes%Nwander around for no reason.%K%P
+As I lightly nod in affirmation several times, my eyes wander around for no reason.%K%P
 0x20C
 これからどうしようか考える。%K%N
 I'm thinking about what to do from now on.%K%N
@@ -87,13 +87,13 @@ I'm thinking about what to do from now on.%K%N
 No, I don't even need to think about it.%K%P
 0x224
 この状況……遙と２人っきりになれるチャンスなんて、滅多にない。%K%P
-This situation... it's a rare chance where Haruka and I are%Nall alone.%K%P
+This situation... it's a rare chance where Haruka and I are all alone.%K%P
 0x230
 （沙紀に聞けなかったこと、遙に聞いてみよう！）%K%P
 (I'll try asking Haruka what I can't ask Saki!)%K%P
 0x23C
 そう思って話しかけようとしたその時……遙がふいに口を開いた。%K%P
-Just as I think this and try to talk to her... Haruka%Nsuddenly speaks.%K%P
+Just as I think this and try to talk to her... Haruka suddenly speaks.%K%P
 0x248
 遙「……誠は、知らなすぎる」%K%P
 Haruka「... Makoto, there's too much you don't know.」%K%P
@@ -102,7 +102,7 @@ Haruka「... Makoto, there's too much you don't know.」%K%P
 Makoto「Huh...???」%K%P
 0x260
 遙「これ以上近づかないほうがいいよ、あの人に……。誠は知らないから……。あの人が本当はどんな人か……。どんなに恐ろしいか……」%K%P
-Haruka「It'd be best if you didn't get any closer to her... Because%Nyou don't know... You don't know what kind of person she%Nreally is... How terrifying she is...」%K%P
+Haruka「It'd be best if you didn't get any closer to her... Because you don't know... You don't know what kind of person she really is... How terrifying she is...」%K%P
 0x26C
 その唐突な言葉に、オレは唖然とした。%K%P
 Her sudden words leave me dumbfounded.%K%P
@@ -129,7 +129,7 @@ Makoto「You're wrong! It's not an issue of which one of you I trust!」%K%P
 Haruka「I understand. It's fine...」%K%P
 0x2CC
 誠「よくないよ！　遙と沙紀──２人の過去に、いったい何があったんだよ？」%K%P
-Makoto「No it's not! Haruka― what happened between you and%NSaki in the past?」%K%P
+Makoto「No it's not! Haruka― what happened between you and Saki in the past?」%K%P
 0x2D8
 遙「…………」%K%P
 Haruka「...」%K%P
@@ -144,28 +144,28 @@ Haruka「...」%K%P
 Makoto「Come on, won't you tell me?」%K%P
 0x310
 遙「あの人に聞いたら……？　誠はあの人のことをわかってあげられるんだから……」%K%P
-Haruka「Why don't you ask her...? You claim to understand her,%Nafter all...」%K%P
+Haruka「Why don't you ask her...? You claim to understand her, after all...」%K%P
 0x31C
 誠「遙……」%K%P
 Makoto「Haruka...」%K%P
 0x330
 遙はくるりとオレに背を向けてしまった。もう話す気はないということらしい。%K%P
-Haruka turns her back to me. It seems she's no longer in%Na mood to talk.%K%P
+Haruka turns her back to me. It seems she's no longer in a mood to talk.%K%P
 0x33C
 そんなぎこちない雰囲気の中、最悪のタイミングで、億彦がバスルームから出て来た。%K%P
-In this awkward atmosphere, Okuhiko comes out of the%Nbathroom with the worst possible timing.%K%P
+In this awkward atmosphere, Okuhiko comes out of the bathroom with the worst possible timing.%K%P
 0x348
 オレは顔をそむけて無視したが、億彦は案の定話しかけてきた。%K%P
-I turn my face away to ignore him, but as expected,%NOkuhiko speaks anyway.%K%P
+I turn my face away to ignore him, but as expected, Okuhiko speaks anyway.%K%P
 0x35C
 億彦「石原……。本当に沙紀ちゃんには注意した方がいいよ」%K%P
-Okuhiko「Ishihara... It really would be best for you to be careful%Naround Saki-chan.」%K%P
+Okuhiko「Ishihara... It really would be best for you to be careful around Saki-chan.」%K%P
 0x368
 こいつ……聞いてたのか……？%K%P
 This guy... did he hear everything...?%K%P
 0x37C
 億彦「まあ、僕の勘だけどね。心の底が読めないんだ。何か胸の奥に…そう…暗い何かを秘めてて、うっかり僕達が覗くと大変なことになる気がする」%K%P
-Okuhiko「Well, it's just my intuition. She's a hard one to read. I feel%Nas if there's something dark hidden deep in her heart%Nthat, if we try to pry, will cause trouble.」%K%P
+Okuhiko「Well, it's just my intuition. She's a hard one to read. I feel as if there's something dark hidden deep in her heart that, if we try to pry, will cause trouble.」%K%P
 0x388
 何を言ってるんだ、こいつは……。%K%P
 What the hell is he saying...%K%P
@@ -177,10 +177,10 @@ He doesn't even know a thing about Saki...%K%P
 I don't want to listen to Okuhiko anymore.%K%P
 0x3AC
 オレは無言のまま、つかつかと玄関に歩み寄って、ドアノブに手をかけた。%K%P
-I silently head for the front door, and start to reach for%Nthe doorknob.%K%P
+I silently head for the front door, and start to reach for the doorknob.%K%P
 0x3C0
 億彦「石原、気をつけろよ？　沙紀ちゃんは、今に何かとんでもないことをする……」%K%P
-Okuhiko「Ishihara, be careful. Don't do anything offensive to%NSaki-chan right now...」%K%P
+Okuhiko「Ishihara, be careful. Don't do anything offensive to Saki-chan right now...」%K%P
 0x3D4
 去り際に、億彦はそんな言葉をもらした。%K%P
 As I'm leaving, Okuhiko says this.%K%P
@@ -192,7 +192,7 @@ I resist the urge to punch him as I open the front door.%K%P
 I'm not heading anywhere in particular.%K%P
 0x468
 ただ、あのままロッジにいるのは、苦痛以外のなにものでもなかったから。%K%P
-It's just that it's way too unpleasant inside the lodge%Nright now.%K%P
+It's just that it's way too unpleasant inside the lodge right now.%K%P
 0x474
 みんな、よってたかって沙紀のことを悪く言って……。%K%P
 Everybody is talking so negatively about Saki...%K%P
@@ -207,10 +207,10 @@ Of course, I don't think Saki is guilt-free either.%K%P
 But to hate her this much seems unfair...%K%P
 0x4A4
 すると、港の方に向かって歩いていたオレの視界に、女の子の後ろ姿が飛び込んできた。%K%P
-Just then, I see the silhouette of a girl walking towards%Nthe harbor.%K%P
+Just then, I see the silhouette of a girl walking towards the harbor.%K%P
 0x4B0
 商店街へと続く道……遥か北の彼方を足早に歩く小さな後ろ姿。%K%P
-Though she's far away, I can tell that she's on the road%Nthat leads to the shopping district.%K%P
+Though she's far away, I can tell that she's on the road that leads to the shopping district.%K%P
 0x4BC
 ──沙紀だ。%K%P
 ―It's Saki.%K%P
@@ -219,7 +219,7 @@ Though she's far away, I can tell that she's on the road%Nthat leads to the shop
 I instantly begin to run towards her.%K%P
 0x4D4
 『行くあてがない』なんていうのは、嘘だったことに気がついた。%K%P
-I realize that I was lying to myself when I said, 「I'm not%Nheading anywhere in particular」.%K%P
+I realize that I was lying to myself when I said, 「I'm not heading anywhere in particular」.%K%P
 0x4E0
 オレは、沙紀を探していたんだ。%K%P
 I went to look for Saki.%K%P
@@ -228,19 +228,19 @@ I went to look for Saki.%K%P
 Because I want to see her...%K%P
 0x53C
 商店街に入った所で、ようやく追い着いた。%K%P
-I finally catch up to her at the entrance of the shopping%Ndistrict.%K%P
+I finally catch up to her at the entrance of the shopping district.%K%P
 0x548
 誠「沙紀！」%K%P
 Makoto「Saki!」%K%P
 0x554
 気がつくと、大きな声を張りあげていた。通りを行き交う人々が、一斉にオレの方を見る。%K%P
-It takes me a while to realize that I'm shouting at the top%Nof my lungs. Everyone on the street turns their heads%Nmy way.%K%P
+It takes me a while to realize that I'm shouting at the top of my lungs. Everyone on the street turns their heads my way.%K%P
 0x560
 誠「沙紀！！」%K%P
 Makoto「Saki!!」%K%P
 0x56C
 構うものか。もう１度、もっと大きな声で呼んだ。%K%P
-I don't give a damn. I call out to her in a loud voice once%Nmore.%K%P
+I don't give a damn. I call out to her in a loud voice once more.%K%P
 0x578
 沙紀が振り向く。%K%P
 Saki turns around.%K%P
@@ -255,16 +255,16 @@ I run towards her as fast as I can...%K%P
 Saki「... Makoto-kun!?」%K%P
 0x5DC
 ヒザに手をあて、息を切らしながら、オレは沙紀の顔を見上げた。%K%P
-I place my hands on my knees, panting heavily, and look%Nup at Saki's face.%K%P
+I place my hands on my knees, panting heavily, and look up at Saki's face.%K%P
 0x5E8
 深い感動が、心に満ちている。%K%P
 My heart is brimming with deep emotions.%K%P
 0x5F4
 まるで何十年も捜し回って、やっと巡り会えたかのような……そんな想いだった。%K%P
-It's as if I've finally found someone I've been looking for%Nfor many years... it's that kind of feeling.%K%P
+It's as if I've finally found someone I've been looking for for many years... it's that kind of feeling.%K%P
 0x600
 沙紀「どうしちゃったの、あんな大声出して……？　こんな、バカみたいに走って……？」%K%P
-Saki「Why were you shouting like that...? Why were you running%Nlike a complete idiot...?」%K%P
+Saki「Why were you shouting like that...? Why were you running like a complete idiot...?」%K%P
 0x60C
 誠「会いたかったんだ！」%K%P
 Makoto「I wanted to see you!」%K%P
@@ -285,7 +285,7 @@ Saki stares firmly at my face...%K%N
 ... And before long, she bursts into laughter.%K%P
 0x66C
 オレは、体を起こして汗を拭った。沙紀はまだ笑っている。%K%P
-I raise my body up, wiping the sweat away. Saki is still%Nlaughing.%K%P
+I raise my body up, wiping the sweat away. Saki is still laughing.%K%P
 0x678
 誠「何で笑うんだよ？」%K%P
 Makoto「Why are you laughing?」%K%P
@@ -300,22 +300,22 @@ Makoto「'You two'?」%K%P
 The instant I say this, I realize it.%K%P
 0x6B0
 （あいつかぁ……あの子犬。つまりオレも野良犬並みってわけだ）%K%P
-(She's talking... about that puppy. In other words, I'm just%Nan ordinary mutt.)%K%P
+(She's talking... about that puppy. In other words, I'm just an ordinary mutt.)%K%P
 0x6BC
 誠「奴隷から野良犬に格下げかよ？」%K%P
 Makoto「So I've been demoted from a slave to a stray dog?」%K%P
 0x6C8
 オレの間の抜けた言い方に、沙紀は一段と大きな笑い声をあげた。%K%P
-When she hears me say that, Saki instantly bursts out%Ninto loud laughter.%K%P
+When she hears me say that, Saki instantly bursts out into loud laughter.%K%P
 0x6D4
 その楽しげな笑顔に、オレもつられて笑い出す。%K%P
-Seeing that happy face of hers causes me to laugh as%Nwell.%K%P
+Seeing that happy face of hers causes me to laugh as well.%K%P
 0x6E0
 ２人の高らかな笑い声が、商店街に響き渡った。%K%P
-Our loud laughter echoes throughout the shopping%Ndistrict.%K%P
+Our loud laughter echoes throughout the shopping district.%K%P
 0x6EC
 通り過ぎる人々が白い視線を向けていたが、オレ達は構わず笑い続けていた……。%K%P
-We ignore the bewildered glares of the people on the%Nstreet as we continue to laugh...%K%P
+We ignore the bewildered glares of the people on the street as we continue to laugh...%K%P
 0x744
 オレと沙紀は、ぶらりと港におもむいた。%K%P
 Saki and I aimlessly go to the harbor.%K%P
@@ -333,22 +333,22 @@ Our laughter has refreshed the mood.%K%P
 (That alone is enough, isn't it...?)%K%P
 0x788
 誠「オレ、子供の頃、犬が飼いたくて……よく野良犬にエサをあげて親に怒られてたんだ」%K%P
-Makoto「When I was a kid, I wanted to raise a dog... I'd often give%Nfood to stray dogs, which annoyed my parents.」%K%P
+Makoto「When I was a kid, I wanted to raise a dog... I'd often give food to stray dogs, which annoyed my parents.」%K%P
 0x794
 誠「『なついちゃって癖になったらどうするの！？』って……」%K%P
-Makoto「They'd say 'What are you going to do if it gets attached%Nto you!?'」%K%P
+Makoto「They'd say 'What are you going to do if it gets attached to you!?'」%K%P
 0x7A0
 沙紀「そういう子って、そうなると必ず『飼いたい』って泣くのよ。可哀想だからって泣くの。そのくせ２・３日したら飽きちゃって、まとわりつかれると蹴ったりするのよ」%K%P
-Saki「When that happens, you start to beg, pleading pitifully to%Nraise it. But after a few days, people get tired of the dog%Nand kick them away when they follow you around.」%K%P
+Saki「When that happens, you start to beg, pleading pitifully to raise it. But after a few days, people get tired of the dog and kick them away when they follow you around.」%K%P
 0x7AC
 誠「そ、そんなこと……」%K%P
 Makoto「Th-That's...」%K%P
 0x7B8
 どうも沙紀は、午前中の一件で、オレのことを誤解しているようだ。%K%P
-It seems that Saki has misunderstood my actions from%Nthis morning.%K%P
+It seems that Saki has misunderstood my actions from this morning.%K%P
 0x7CC
 沙紀「そんなだったら、最初から情けなんかかけちゃいけないの、無責任に……」%K
-Saki「If that's the case, then it's irresponsible to pity it from%Nthe start...」%K
+Saki「If that's the case, then it's irresponsible to pity it from the start...」%K
 0x11F8
 『ああ……そうかもな』
 「Yeah... that might be right.」
@@ -360,10 +360,10 @@ Saki「If that's the case, then it's irresponsible to pity it from%Nthe start...
 Makoto「Yeah... that might be right.」%K%P
 0x820
 オレがそう答えると、沙紀はちょっと驚いたような顔をした。%K%P
-When I answer, a slightly surprised expression appears%Non Saki's face.%K%P
+When I answer, a slightly surprised expression appears on Saki's face.%K%P
 0x82C
 そしてすぐに視線をそらし、早口でこう告げた。%K%P
-She immediately looks away, and answers while talking%Nquickly.%K%P
+She immediately looks away, and answers while talking quickly.%K%P
 0x850
 誠「そうかな？」%K%P
 Makoto「You think so?」%K%P
@@ -378,22 +378,22 @@ Makoto「Hmm...」%K%P
 Saki「Do you want to say that's wrong?」%K%P
 0x890
 誠「全てが間違ってるとは思わないけど……その……何て言うか……」%K%P
-Makoto「I don't think it was all a mistake, but... umm... how do I put%Nit...?」%K%P
+Makoto「I don't think it was all a mistake, but... umm... how do I put it...?」%K%P
 0x89C
 誠「……可愛そうな犬を見て『可愛そう』って思うこと、同情するっていうこと自体は大切なことなんじゃないかな？」%K%P
-Makoto「... Isn't just being able to feel sympathetic towards a%Npitiful dog in need the important thing?」%K%P
+Makoto「... Isn't just being able to feel sympathetic towards a pitiful dog in need the important thing?」%K%P
 0x8A8
 沙紀「…………」%K%P
 Saki「...」%K%P
 0x8B4
 誠「つまり、同情することが悪いんじゃなくて、そもそも無責任なことがイケナイんだと思う」%K%P
-Makoto「I don't think it's irresponsible if you think that way. It's not%Nwrong to be sympathetic towards it.」%K%P
+Makoto「I don't think it's irresponsible if you think that way. It's not wrong to be sympathetic towards it.」%K%P
 0x8C0
 誠「少なくとも『何とかしてあげたい』って思って行動する時、その行動の瞬間には、純粋な優しさが働いてるわけで……」%K%P
-Makoto「If anything, the way you've helped that puppy only%Nshows how kind and selfless you are...」%K%P
+Makoto「If anything, the way you've helped that puppy only shows how kind and selfless you are...」%K%P
 0x8CC
 誠「一番大事なのは『優しい気持ちをどれだけ続けられるか』って所にあるんじゃないかと、オレは思うけど……」%K%P
-Makoto「The most important thing is to ask yourself how willing%Nare you to take care of it and go from there...」%K%P
+Makoto「The most important thing is to ask yourself how willing are you to take care of it and go from there...」%K%P
 0x8E0
 沙紀「…………」%K%P
 Saki「...」%K%P
@@ -402,16 +402,16 @@ Saki「...」%K%P
 A slightly surprised expression appears on Saki's face.%K%P
 0x8F8
 誠「……ははっ……オレ、何言ってんだろうな？　自分でも何が言いたかったのかよくわからないよ」%K%P
-Makoto「... Ha ha... what the hell am I saying? Even I don't really%Nunderstand what I'm talking about.」%K%P
+Makoto「... Ha ha... what the hell am I saying? Even I don't really understand what I'm talking about.」%K%P
 0x904
 恥かし紛れに笑いながら言うと、沙紀はあわてて目を逸らした。%K%P
-As I laugh in an attempt to distract me from my%Nembarrassment, Saki frantically looks away from me.%K%P
+As I laugh in an attempt to distract me from my embarrassment, Saki frantically looks away from me.%K%P
 0x918
 沙紀「私、少しだけわかるよ……」%K%P
 Saki「I understand just a little bit...」%K%P
 0x92C
 沙紀「でも、そういう考えのできる人が何人いるっていうの？　みんな自分が可愛いだけの利己主義者ばかりじゃない！」%K%P
-Saki「But how many people could actually think that way? The%Nworld is full of egoists, people who are only concerned%Nabout themselves!」%K%P
+Saki「But how many people could actually think that way? The world is full of egoists, people who are only concerned about themselves!」%K%P
 0x938
 沙紀「そんなだから人なんか信用できないのよ」%K%P
 Saki「I can't trust people because they're like that.」%K%P
@@ -441,7 +441,7 @@ Saki walks straight to the tip of the pier.%K%P
 I follow her.%K%P
 0xA3C
 海風が強く吹きつけていた。押し寄せた波が防波堤にぶつかり、白い水飛沫をあげている。%K%P
-The sea breeze blows strongly. The approaching waves%Ncrash against the pier, shooting up white sheets of%Nspray.%K%P
+The sea breeze blows strongly. The approaching waves crash against the pier, shooting up white sheets of spray.%K%P
 0xA48
 沙紀は防波堤の先で、じっと動かなくなった。%K%P
 Saki is at the tip of the pier, not moving an inch.%K%P
@@ -474,10 +474,10 @@ Makoto「...」%K%P
 Saki「That's why I can't.」%K%P
 0xB08
 ザパッ！と波が砕けた。沙紀の顔に水飛沫がかかった。%K%P
-Crash! The waves break, and a sheet of spray hits Saki%Nin the face.%K%P
+Crash! The waves break, and a sheet of spray hits Saki in the face.%K%P
 0xB14
 けれど沙紀は、そのしずくを拭う素振りも見せず、ただひっそりと海を見つめている。%K%P
-But Saki doesn't seem fazed by the water, and just%Nsilently stares at the sea.%K%P
+But Saki doesn't seem fazed by the water, and just silently stares at the sea.%K%P
 0xB20
 ──『嘘をつくから、人を信用できない』%K%P
 ―「Because they lie, I can't trust humans.」%K%P
@@ -516,10 +516,10 @@ Saki's eyes fill with tears...%K%P
 Saki「I just wanted to see it alone when no one was around!」%K%P
 0xBC8
 言ったとたん、大粒の涙がこぼれ落ちた。%K%P
-The instant she says this, large tears pour from her%Neyes.%K%P
+The instant she says this, large tears pour from her eyes.%K%P
 0xBD4
 歯を食いしばり、地を踏みしめるように立ち尽くしながら、細い肩を震わせている。%K%P
-She tries to control herself by standing rigidly as if%Nshe's rooted into the ground, but her thin shoulders%Nquiver.%K%P
+She tries to control herself by standing rigidly as if she's rooted into the ground, but her thin shoulders quiver.%K%P
 0xBE0
 両手の拳はぎゅっと固く握りしめられていた。%K%P
 She clenches her hands into tight fists.%K%P
@@ -555,16 +555,16 @@ Saki was bitter.%K%N
 She was just bitter...%K%P
 0xC64
 だから、たったひとりで絵を見るために、深夜の教室に忍び込んだ。%K%P
-That's why she snuck into school in the middle of the%Nnight, in order to see the picture all alone.%K%P
+That's why she snuck into school in the middle of the night, in order to see the picture all alone.%K%P
 0xC70
 『魔法使いの絵』を見上げて、その夜も今のように泣いたに違いない。%K%P
-She must have been crying like she is now when she%Nlooked up at the 「Magician's Portrait」.%K%P
+She must have been crying like she is now when she looked up at the 「Magician's Portrait」.%K%P
 0xC7C
 つまらないプライド？　……そうかもしれない。%K%P
 Was it foolish pride? ... That might be it.%K%P
 0xC88
 何の不自由もない、わがままなお嬢様の世間知らずなプライド。%K%P
-It was just the pride of a selfish rich girl who was%Nignorant of the ways of the world.%K%P
+It was just the pride of a selfish rich girl who was ignorant of the ways of the world.%K%P
 0xC94
 けれど、そんな沙紀の誇りの高さを、今のオレは愛おしく思っていた。%K%P
 In a way, I find it kind of cute.%K%P
@@ -579,10 +579,10 @@ Makoto「Hey, Saki? I was thinking...」%K%P
 Saki「...」%K%P
 0xCC4
 誠「『見回りに来た用務員が逃げてく沙紀のことを見た』……優夏はさっきそう言ってたけど……」%K%P
-Makoto「'It seems a janitor on patrol saw Saki running'... Yuka said%Nthat, but...」%K%P
+Makoto「'It seems a janitor on patrol saw Saki running'... Yuka said that, but...」%K%P
 0xCD0
 誠「本当は、絵を壊したから逃げたんじゃないんだろ、沙紀？」%K%P
-Makoto「In reality, you weren't running away because you%Ndestroyed the painting, right?」%K%P
+Makoto「In reality, you weren't running away because you destroyed the painting, right?」%K%P
 0xCE4
 沙紀「……え？」%K%P
 Saki「... Huh?」%K%P
@@ -600,7 +600,7 @@ Makoto「... Isn't that right?」%K%P
 Saki gives a light, lonely nod while muttering.%K%P
 0xD28
 沙紀「学校に居着いてた野良猫と、校庭の桜の木しか、私の言うこと、まともに聞いてくれなかったのよ……」%K%P
-Saki「The only ones who will listen to what I have to honestly%Nsay is this stray cat who lives at my school and this%Ncherry blossom tree on my campus...」%K%P
+Saki「The only ones who will listen to what I have to honestly say is this stray cat who lives at my school and this cherry blossom tree on my campus...」%K%P
 0xD34
 誠「……それは違うよ、沙紀……」%K%P
 Makoto「... You're wrong, Saki...」%K%P
@@ -636,7 +636,7 @@ Makoto「That's enough. I don't want to see you cry...」%K%P
 Saki nods while burying her face into my chest.%K%P
 0xE20
 ……という感じで、毎度のことながら、映画みたいに終わってくれればいいのだが……%K%N
-... If this were a movie, then things would have ended%Nperfectly, but...%K%N
+... If this were a movie, then things would have ended perfectly, but...%K%N
 0xE2C
 ……やっぱりそうもいかないのが現実で……。%K%P
 ... Reality is something that doesn't often go that well...%K%P
@@ -687,7 +687,7 @@ Saki「You say something?」%K%P
 Makoto「No... nothing...」%K%P
 0xF40
 この恐るべき独占欲は、沙紀のプライドの高さゆえなのだろう。%K%P
-This terrifying desire to monopolize is definitely the%Nresult of Saki's great pride.%K%P
+This terrifying desire to monopolize is definitely the result of Saki's great pride.%K%P
 0xF4C
 まったく、厄介なお姫様だ……。%K%P
 God, such a troublesome rich girl...%K%P

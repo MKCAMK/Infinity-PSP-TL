@@ -3,7 +3,7 @@ text area offset and size:
 0x56EB
 0x98
 ガバッと思い切り布団を蹴飛ばして目覚めた。%K%P
-As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+As I wake up, I kick the covers off the bed with all my strength.%K%P
 0xB0
 しばし茫然として虚空を眺める。%K%P
 Still half asleep, I blankly stare into space.%K%P
@@ -18,7 +18,7 @@ I realize I'm freezing, my body soaked with sweat all over.%K%P
 I take a deep breath and slowly exhale.%K%P
 0xE0
 杉の木の温かい香りが、鼻腔の奥から脳の中心へと沁み込んでいく。%K%P
-The warm scent of wood goes through my nose and fills%Nmy head.%K%P
+The warm scent of wood goes through my nose and fills my head.%K%P
 0xEC
 これを３回繰り返したおかげで…………。%K%P
 It takes me three more breaths until...%K%P
@@ -135,13 +135,13 @@ He's lounging on the sofa, smoking...%K%P
 ... Smoking a cigarette?%K%P
 0x3C8
 今まで、億彦がタバコを吸っているところなど、１度も見たことがなかった。%K%P
-Up until now, I've never seen Okuhiko in the middle of%Nsmoking before.%K%P
+Up until now, I've never seen Okuhiko in the middle of smoking before.%K%P
 0x3D4
 だが、今はそんなことはどうでもいい！%K%P
 But none of that matters right now!%K%P
 0x3E0
 オレはツカツカと億彦の元へと歩み寄ると、いきなり奴の胸ぐらをつかんで立ち上がらせた。%K%P
-I briskly walk over to Okuhiko, suddenly grab him by the%Ncollar, and force him to get up to his feet.%K%P
+I briskly walk over to Okuhiko, suddenly grab him by the collar, and force him to get up to his feet.%K%P
 0x3F4
 億彦「な、なにするんだよ、石原ぁ……」%K%P
 Okuhiko「Wh-What the hell are you doing, Ishihara...」%K%P
@@ -210,7 +210,7 @@ Makoto「Oh, I get it...」%K%P
 Makoto「So that's it...」%K%P
 0x55C
 誠「こりもせず、またオレのことをだまそうと……」%K%P
-Makoto「You thought I hadn't learned from experience, so you're%Ntrying to deceive me again...」%K%P
+Makoto「You thought I hadn't learned from experience, so you're trying to deceive me again...」%K%P
 0x568
 誠「そうなんだろっ！？　おいっ！？」%K%P
 Makoto「Isn't that right!? Huh!?」%K%P
@@ -240,7 +240,7 @@ Makoto「... 'Yet'? What do you mean by 'yet'!?」%K%P
 I tighten my grip on his collar.%K%P
 0x62C
 億彦「だ、だからぁ、これからだまそうと思ってたことは事実だけれど……」%K%P
-Okuhiko「A-As I was saying, it's a fact that I was planning to try to%Ndeceive you in the future, but...」%K%P
+Okuhiko「A-As I was saying, it's a fact that I was planning to try to deceive you in the future, but...」%K%P
 0x638
 億彦「……まだ……実行には移していないってことさ……」%K%P
 Okuhiko「... I still... haven't gotten around to executing it yet...」%K%P
@@ -261,10 +261,10 @@ Okuhiko「In the first place, how did you know about it?」%K%P
 (D-Damn him...)%K%P
 0x688
 （この期に及んで、まだシラを切るつもりか……）%K%P
-(He's planning on still playing dumb this late into the%Ngame...?)%K%P
+(He's planning on still playing dumb this late into the game...?)%K%P
 0x694
 ハラワタが煮えくり返っていたが……まあ、いい。%K%P
-My innards feel like they're boiling with rage... Well,%Nwhatever.%K%P
+My innards feel like they're boiling with rage... Well, whatever.%K%P
 0x6A0
 こんな奴にかまっていても時間のムダだ。%K%P
 Talking to him is just a waste of time.%K%P
@@ -273,7 +273,7 @@ Talking to him is just a waste of time.%K%P
 (More importantly, right now...)%K%P
 0x6DC
 オレは億彦を突き飛ばすと、疾風のような素早さで、玄関を飛び出した。%K%P
-I thrust Okuhiko away, and rush out the front door with%Nthe swiftness of a gale.%K%P
+I thrust Okuhiko away, and rush out the front door with the swiftness of a gale.%K%P
 0x7B8
 行き先は決まっている。%K%N
 I've decided on my destination.%K%N
@@ -294,16 +294,16 @@ Today is April 1st...%K%N
 It's most likely that in reality, things went like this.%K%P
 0x854
 あのとき……あの崖から落ちたとき、オレは奇跡的に一命を取りとめた。%K%P
-Back then... I managed to miraculously survive falling off%Nthat cliff.%K%P
+Back then... I managed to miraculously survive falling off that cliff.%K%P
 0x860
 病院に運ばれたか、どうしたのかは知らないが、とにかく、オレは意識不明のまま、何者かの手によってロッジに運ばれた。%K%P
-My unconscious body was taken to the hospital and%Nwas afterwards brought back to the lodge somehow by%Nsomebody.%K%P
+My unconscious body was taken to the hospital and was afterwards brought back to the lodge somehow by somebody.%K%P
 0x86C
 その後、億彦は……%K%P
 After that, Okuhiko thought...%K%P
 0x878
 『オレが意識を取り戻した時に、その日が４月１日であるようなフリをしよう』%K%P
-「When he regains consciousness, I'll pretend as if that%Nday were April 1st.」%K%P
+「When he regains consciousness, I'll pretend as if that day were April 1st.」%K%P
 0x884
 ……と、たくらんだ。%K%P
 ... and decided to trick me.%K%P
@@ -312,19 +312,19 @@ After that, Okuhiko thought...%K%P
 「Today is April 1st... Then I must have time traveled!」%K%P
 0x89C
 そんなふうにして、オレがうろたえるとでも思ったのだろう。%K%P
-If I didn't have a stronger grasp on my mind, I probably%Nwould have thought that.%K%P
+If I didn't have a stronger grasp on my mind, I probably would have thought that.%K%P
 0x8A8
 目的は……わからない。%K%P
 But I don't know his goal...%K%P
 0x8B4
 ただからかっているだけなのか？　それとも何か、別の意図があるのか？%K%P
-Is he just trying to play a prank on me? Or does he have%Nsome other intention?%K%P
+Is he just trying to play a prank on me? Or does he have some other intention?%K%P
 0x8CC
 そう言えば、あの日……億彦はこんなことを言っていた。%K%P
 Now that I think about it, on the 6th... Okuhiko said this.%K%P
 0x914
 億彦「なにも僕らは、石原をからかっていたわけじゃない」%K%P
-Okuhiko「It's not like we were doing any of it to ridicule you,%NIshihara.」%K%P
+Okuhiko「It's not like we were doing any of it to ridicule you, Ishihara.」%K%P
 0x920
 億彦「ある合理的な目的の為に、どうしても、やらざるを得なかったんだ」%K%P
 Okuhiko「We were forced to do it for a logical goal.」%K%P
@@ -336,16 +336,16 @@ Okuhiko「We were forced to do it for a logical goal.」%K%P
 Well, knowing Okuhiko, it's probably something stupid.%K%P
 0x9A8
 いずれにせよ、億彦は何とかして、オレに『タイムスリップなどという馬鹿げた現象』を信じ込ませようと画策した。%K%P
-At any rate, Okuhiko had planned in some fashion to%Nattempt to make me firmly believe in the ridiculous notion%Nof time travel.%K%P
+At any rate, Okuhiko had planned in some fashion to attempt to make me firmly believe in the ridiculous notion of time travel.%K%P
 0x9B4
 ごていねいに、腕時計の日付まで変えて……。%K%P
 He must have carefully changed the date on my watch...%K%P
 0x9C0
 これまでのことを考えれば、そんな手の込んだことをしていたとしても、何ら不思議ではない。%K%P
-When I think of everything that's happened up until now, I%Nrealize that none of it is a mystery, no matter how%Ncomplex it may seem.%K%P
+When I think of everything that's happened up until now, I realize that none of it is a mystery, no matter how complex it may seem.%K%P
 0x9CC
 むしろ、そう考えるのが、最も理にかなっているように思えた。%K%P
-At least, that's the most logical explanation I've got so%Nfar.%K%P
+At least, that's the most logical explanation I've got so far.%K%P
 0x9D8
 だけど……%K%P
 However...%K%P
@@ -366,16 +366,16 @@ Was Izumi-san saved, just like me?%K%P
 (―Be alive, Izumi-san!)%K%P
 0xA90
 強く念じながら、ルナビーチに向かって走り続けた。%K%P
-I continue to run to Lunabeach while praying with all my%Nheart.%K%P
+I continue to run to Lunabeach while praying with all my heart.%K%P
 0xAE4
 と、そのとき……。%K%N
 Suddenly...%K%N
 0xAF0
 道の向こうから、こちらに向かって駆けて来る人影を見つけた。%K%P
-From the opposite end of the road, I spot someone%Nrunning this way.%K%P
+From the opposite end of the road, I spot someone running this way.%K%P
 0xAFC
 透き通るような白い肌……深いオレンジ色のエプロン……。%K%P
-The person has nearly transparent white skin... and is%Nwearing a deep orange apron...%K%P
+The person has nearly transparent white skin... and is wearing a deep orange apron...%K%P
 0xB08
 まさか……！？%K%P
 Is that...!?%K%P
@@ -399,16 +399,16 @@ I can feel Izumi-san's... warmth...%K%P
 I can smell the scent... of her soft hair...%K%P
 0xB98
 オレの胸に顔をうずめながら、いづみさんはしくしくと、しくしくと、声を殺して泣いていた。%K%P
-Izumi-san buries her face in my chest as she quietly%Nsobs.%K%P
+Izumi-san buries her face in my chest as she quietly sobs.%K%P
 0xBA4
 今、ここにいるオレの存在を確かめるかのように、強く、激しく、オレの体を抱きしめていた。%K%P
-She embraces my body strongly, intensely, as if to%Nconfirm that I really exist right here, right now.%K%P
+She embraces my body strongly, intensely, as if to confirm that I really exist right here, right now.%K%P
 0xBB0
 いづみ「誠く〜ん……誠く〜ん……」%K%P
 Izumi「Makoto-kun... Makoto-kun...」%K%P
 0xBBC
 すすり泣く声の間に、必死になって何かを伝えようとしている。%K%P
-In between her sobs, she desperately tries to tell me%Nsomething.%K%P
+In between her sobs, she desperately tries to tell me something.%K%P
 0xBC8
 その想いにこたえようと、オレもいづみさんの体をきつく抱き返した。%K%P
 I respond by returning her embrace tightly.%K%P
@@ -483,22 +483,22 @@ Izumi-san continues to cry.%K%P
 She continues to cry in my chest for a long, long time.%K%P
 0xCE8
 その涙がかれるまで、ずっとこうしていようと思った。%K%P
-Until her crying finally ceases, I can only think about this%None thing.%K%P
+Until her crying finally ceases, I can only think about this one thing.%K%P
 0xCF4
 今、この瞬間、いづみさんのそばにいられることが、オレにとっては無上の……悦びだったから……。%K%P
-Being by Izumi-san's side right now, in this very moment,%Nis my greatest... joy...%K%P
+Being by Izumi-san's side right now, in this very moment, is my greatest... joy...%K%P
 0xD4C
 ………………。%N…………。%N……。%K%P
 ... ... ...%K%P
 0xD70
 いづみさんがようやく落ち着きを取り戻した頃には、すでに太陽は南の空にあった。%K%P
-By the time Izumi-san finally calms down, the sun is%Nalready in the southern sky.%K%P
+By the time Izumi-san finally calms down, the sun is already in the southern sky.%K%P
 0xD7C
 オレといづみさんは、ガードレールにもたれながら、銀色に輝く海を見ていた。%K%P
-Izumi-san and I look out at the shining, silvery sea while%Nhanging on to the guardrail.%K%P
+Izumi-san and I look out at the shining, silvery sea while hanging on to the guardrail.%K%P
 0xD88
 いったい何から話したらいいのかわからない。%K%P
-I don't know what to talk about first, or if it's okay to%Neven speak.%K%P
+I don't know what to talk about first, or if it's okay to even speak.%K%P
 0xD94
 聞かなければいけないことが、あまりにも多すぎた。%K%P
 I have way too many things that I need to ask her.%K%P
@@ -513,7 +513,7 @@ Izumi「... Hmm?」%K%P
 Makoto「What... about the shop?」%K%P
 0xDE8
 ひとまず、当たり障りの無い話から、始めることにした。%K%P
-For now, I decide to just start off with a safe, simple%Ntopic.%K%P
+For now, I decide to just start off with a safe, simple topic.%K%P
 0xDF4
 いづみ「くるみに、頼んできたの」%K%P
 Izumi「Kurumi's watching it.」%K%P
@@ -537,7 +537,7 @@ Izumi「...」%K%P
 Izumi-san keeps silent.%K%P
 0xE50
 下くちびるをきゅっとかみ、顔をうつむけ、頭をゆっくりと左右に振った。%K%P
-She bites her lower lip and hangs her head down before%Nshaking it slowly.%K%P
+She bites her lower lip and hangs her head down before shaking it slowly.%K%P
 0xE5C
 いづみ「わからないの……」%K%P
 Izumi「I don't know...」%K%P
@@ -576,7 +576,7 @@ Makoto「I don't know how long I've been unconscious for...」%K%P
 Izumi「I see...」%K%P
 0xEF4
 いづみさんは小さくつぶやくと、オレの左手首をそっとつかんだ。%K%P
-Izumi-san quietly mutters this, and gently takes my left%Nwrist.%K%P
+Izumi-san quietly mutters this, and gently takes my left wrist.%K%P
 0xF08
 いづみ「この腕時計……確か日付表示も、あったわよね？」%K%P
 Izumi「This watch... it shows the date, doesn't it?」%K%P
@@ -648,7 +648,7 @@ Makoto「...」%K%P
 Izumi「What did Okuhiko-kun say?」%K%P
 0x102C
 誠「『だまそうと思ってたことは……%N事実だけど……』」%K%P
-Makoto「'It's a fact that I was planning to try to deceive you in%Nthe future... but...'」%K%P
+Makoto「'It's a fact that I was planning to try to deceive you in the future... but...'」%K%P
 0x1038
 誠「『……まだ……実行には移してない』──そう言ってたよ」%K%P
 Makoto「'... I still... haven't gotten around to executing it yet...'」%K%P
@@ -663,7 +663,7 @@ Makoto「In the first place, what he said was completely nonsensi-」%K%P
 Izumi「Makoto-kun...」%K%P
 0x1080
 いづみ「私達……とんでもないことに巻き込まれてしまったのかも、しれないわね？」%K%P
-Izumi「We might... have been caught up in something%Nunbelievable...」%K%P
+Izumi「We might... have been caught up in something unbelievable...」%K%P
 0x108C
 誠「？」%K%P
 Makoto「?」%K%P
@@ -678,7 +678,7 @@ Izumi「Just who changed the date on your watch?」%K%P
 Makoto「H-H-Hold on, Izumi-san!」%K%P
 0x10BC
 誠「まさか億彦の言ってること、信じてるわけじゃ……」%K%P
-Makoto「You're not saying that you believe what Okuhiko said,%Nare you?」%K%P
+Makoto「You're not saying that you believe what Okuhiko said, are you?」%K%P
 0x10C8
 いづみ「……………………」%K%P
 Izumi「...」%K%P
@@ -714,16 +714,16 @@ Izumi「I trust Kurumi.」%K%P
 Izumi「Ever since she was born, I've known...」%K%P
 0x1180
 いづみ「絶対に、くるみは嘘をつけるような子じゃないのよ！」%K%P
-Izumi「That Kurumi was definitely not the kind of girl who would%Nlie!」%K%P
+Izumi「That Kurumi was definitely not the kind of girl who would lie!」%K%P
 0x118C
 誠「ごめん……言ってることが、よくわからないんだけど？」%K%P
 Makoto「I'm sorry... I don't really understand what you're saying.」%K%P
 0x1198
 いづみ「つまり、くるみの言ってることと、億彦くんの言ってることが、同じだってこと」%K%P
-Izumi「In other words, what Kurumi said and what Okuhiko-kun%Nsaid is the same thing.」%K%P
+Izumi「In other words, what Kurumi said and what Okuhiko-kun said is the same thing.」%K%P
 0x11A4
 いづみ「くるみのことを信じれば、結果的には、億彦くんのことも信じなければならないことになるの」%K%P
-Izumi「Since I trust Kurumi, I must trust what Okuhiko-kun said%Ntoo as a result.」%K%P
+Izumi「Since I trust Kurumi, I must trust what Okuhiko-kun said too as a result.」%K%P
 0x11B0
 誠「……？」%K%P
 Makoto「...?」%K%P
@@ -738,7 +738,7 @@ Makoto「No, I do, but...」%K%P
 Makoto「... But what... did Kurumi say?」%K%P
 0x11F0
 いづみさんは少し考え込んでから、慎重に、言葉を選ぶようにして、こう言った。%K%P
-Izumi-san thinks for a bit, trying to carefully choose her%Nwords, and then speaks.%K%P
+Izumi-san thinks for a bit, trying to carefully choose her words, and then speaks.%K%P
 0x11FC
 いづみ「今日は……」%K%P
 Izumi「Today...」%K%P
@@ -753,13 +753,13 @@ Izumi「'Today's the 1st, duh!'... That's what she said.」%K%P
 I can't speak. The words won't come out of me.%K%P
 0x1244
 のどの奥に何かがつかえて、息を吐き出すことさえできない。%K%P
-It feels like something is blocking my throat, to the point%Nwhere I can't even breathe.%K%P
+It feels like something is blocking my throat, to the point where I can't even breathe.%K%P
 0x1250
 いづみ「今の誠くんの話から判断すると……」%K%P
 Izumi「I reached this conclusion from your story...」%K%P
 0x125C
 いづみ「きっと億彦くんも、同じことを言ったはず……」%K%P
-Izumi「And from the fact Okuhiko-kun and Kurumi said the same%Nthing...」%K%P
+Izumi「And from the fact Okuhiko-kun and Kurumi said the same thing...」%K%P
 0x1268
 いづみ「そして……この腕時計の日付も……」%K%P
 Izumi「And... the date on your watch is...」%K%P
@@ -768,7 +768,7 @@ Izumi「And... the date on your watch is...」%K%P
 Izumi-san says this, and lifts up my wrist.%K%P
 0x1280
 オレといづみさんの間に、その時計の文字盤がはっきりと見えた。%K%P
-The letters on the watch between Izumi-san and I are%Nclearly visible.%K%P
+The letters on the watch between Izumi-san and I are clearly visible.%K%P
 0x128C
 『１日……ＭＯＮ……』%K%P
 「1.. MON...」%K%P
@@ -783,13 +783,13 @@ I forcefully shake off Izumi-san's hand.%K%P
 Makoto「What's gotten into you, Izumi-san...?」%K%P
 0x12BC
 誠「今日が１日だなんて、そんなこと……冷静になって考えてみれば、あり得るわけないだろ！？」%K%P
-Makoto「Saying today is the 1st... When you think about it calmly,%Nthere's no way that it's possible, is it!?」%K%P
+Makoto「Saying today is the 1st... When you think about it calmly, there's no way that it's possible, is it!?」%K%P
 0x12D0
 いづみ「…………」%K%P
 Izumi「...」%K%P
 0x12DC
 誠「いくら、くるみがそう言ったからって、ただそれだけのことで信じちゃうのなんて絶対オカシイよ！」%K%P
-Makoto「How can you believe something that crazy just because%NKurumi said that?!」%K%P
+Makoto「How can you believe something that crazy just because Kurumi said that?!」%K%P
 0x12E8
 いづみ「…………」%K%P
 Izumi「...」%K%P
@@ -810,13 +810,13 @@ I quickly deny these thoughts.%K%P
 She's not still trying to deceive me... right?%K%P
 0x1330
 いづみ「とにかく、１度話を整理して考えたほうがいいわ」%K%P
-Izumi「Anyway, I think it'd be best if we talked and sorted things%Nout.」%K%P
+Izumi「Anyway, I think it'd be best if we talked and sorted things out.」%K%P
 0x133C
 いづみ「今、確かに言えること……客観的な事実だけを１から洗い出すの」%K%P
-Izumi「Right now, just as you said... everything that I've brought%Nto light has been based off of just one objective fact.」%K%P
+Izumi「Right now, just as you said... everything that I've brought to light has been based off of just one objective fact.」%K%P
 0x1348
 いづみ「憶測や希望で判断するのは、とても危険だから……」%K%P
-Izumi「It's very dangerous to make judgments based off of%Nspeculations and hopes...」%K%P
+Izumi「It's very dangerous to make judgments based off of speculations and hopes...」%K%P
 0x1354
 誠「ああ。オレだって、いづみさんに聞きたいことが、山ほどあるし……」%K%P
 Makoto「Yeah. I also have a load of questions for you...」%K%P
@@ -834,7 +834,7 @@ Izumi「Then... what should we talk about first...?」%K%P
 Just then...%K%P
 0x13BC
 東の方から、こちらに向かって駆けて来る足音が聞こえた。%K%P
-I hear footsteps running from the east towards our%Ndirection.%K%P
+I hear footsteps running from the east towards our direction.%K%P
 0x13D0
 いづみさんは息を呑み、振り向いた。%K%P
 Izumi-san gasps, and turns around.%K%P
@@ -846,13 +846,13 @@ Izumi「Kurumi...!?」%K%P
 (Huh? Kurumi?)%K%P
 0x13FC
 と思った直後、いづみさんはガードレールを乗り越えて、１段低くなった下の地面に身を隠した。%K%P
-Immediately after I think this, Izumi-san leaps over the%Nguardrail and hides on the ground below it.%K%P
+Immediately after I think this, Izumi-san leaps over the guardrail and hides on the ground below it.%K%P
 0x1408
 いづみ「早くっ！　隠れて！」%K%P
 Izumi「Hurry! Hide!」%K%P
 0x1414
 その必死の形相に、思わずオレも、いづみさんの隣に飛び降りてしまった。%K%P
-When I see her desperate expression, I automatically%Njump down next to Izumi-san.%K%P
+When I see her desperate expression, I automatically jump down next to Izumi-san.%K%P
 0x144C
 誠「でも、なんでっ」%K%P
 Makoto「But wh-」%K%P
@@ -867,7 +867,7 @@ Izumi-san places her index finger over my lips.%K%P
 Before long...%K%P
 0x1498
 オレといづみさんの頭上を、くるみが駆け足で通り過ぎて行く。%K%P
-We hear Kurumi passing by us overhead, running as fast%Nas she can.%K%P
+We hear Kurumi passing by us overhead, running as fast as she can.%K%P
 0x14A4
 左手にぶらさがっていたのは、銀色の四角いバッグ。%K%P
 Hanging from her left hand is a square, silver bag.%K%P
@@ -915,7 +915,7 @@ Makoto「What!? Why not!?」%K%P
 Izumi「Just do it!」%K%P
 0x15CC
 いづみ「誠くんはとにかく、いつもと同じように……前の４月１日と同じように、振る舞っていればいいから」%K%P
-Izumi「Anyway, act normal... it'll be fine if you act the same way%Nyou did on the last April 1st.」%K%P
+Izumi「Anyway, act normal... it'll be fine if you act the same way you did on the last April 1st.」%K%P
 0x15D8
 誠「な、なんだよ、それ！？　なんでそんなことしなくちゃっ」%K%P
 Makoto「Wh-What the hell!? Why do I have to-」%K%P
@@ -933,7 +933,7 @@ Izumi「Please... okay?」%K%P
 Izumi-san gives me one last kind smile, and runs off.%K%P
 0x1650
 取り残されたオレは、徐々に小さくなって行くいづみさんの後ろ姿を見つめながら、道の真ん中で、ぼう然と立ち尽くしていた……。%K%P
-Left behind, I stand stock-still and dumbfounded in the%Nmiddle of the road as I watch Izumi-san slowly%Ndisappear...%K%P
+Left behind, I stand stock-still and dumbfounded in the middle of the road as I watch Izumi-san slowly disappear...%K%P
 0x1694
 ………………。%N…………。%N……。%K%P
 ... ... ...%K%P
@@ -942,7 +942,7 @@ Left behind, I stand stock-still and dumbfounded in the%Nmiddle of the road as I
 For now, I decide to head back to the lodge.%K%P
 0x172C
 いづみさんから話を聞く前に、どうしても確かめておきたいことがあったからだ。%K%P
-Before I hear Izumi-san's story, there's something vital%Nthat I must confirm.%K%P
+Before I hear Izumi-san's story, there's something vital that I must confirm.%K%P
 0x1738
 ──今日は、本当に４月１日なのかどうか？%K%P
 ―Is today really April 1st?%K%P
@@ -966,13 +966,13 @@ I'm going to go prove it right now.%K%P
 This time, I will get the truth out of Okuhiko's own mouth.%K%P
 0x178C
 固い決意を胸に、ロッジに向かって歩き始めた……。%K%P
-With firm determination welling up in my chest, I begin%Nwalking back to the lodge...%K%P
+With firm determination welling up in my chest, I begin walking back to the lodge...%K%P
 0x17C4
 林に囲まれた坂道を登りながら、オレは考えていた。%K%P
-I think over everything while walking up the hill road%Nsurrounded by trees.%K%P
+I think over everything while walking up the hill road surrounded by trees.%K%P
 0x180C
 いづみ「前の４月１日と同じように、振る舞っていればいいから」%K%P
-Izumi「It'll be fine if you act the same way you did on the last%NApril 1st.」%K%P
+Izumi「It'll be fine if you act the same way you did on the last April 1st.」%K%P
 0x186C
 いづみさん、どういうつもりであんなこと言ったんだろう？%K%P
 Just what was Izumi-san thinking when she said that?%K%P
@@ -981,7 +981,7 @@ Just what was Izumi-san thinking when she said that?%K%P
 Does she really believe that today is April 1st...?%K%P
 0x1884
 くるみがそう言ったから？　たったそれだけのことで？%K%P
-Just because Kurumi said it? Is that really enough for%Nher?%K%P
+Just because Kurumi said it? Is that really enough for her?%K%P
 0x1890
 オレには理解できなかった。%K%P
 I can't understand that logic.%K%P
@@ -996,10 +996,10 @@ I can't understand that logic.%K%P
 I don't want to think about it, but...%K%P
 0x18C0
 でもどうしても、考えずにはいられなかった。%K%P
-No matter how hard I try, I can't help considering the%Npossibility.%K%P
+No matter how hard I try, I can't help considering the possibility.%K%P
 0x18CC
 だっていづみさんには『前にオレのことをだましていた』という前科があるわけで……。%K%P
-Because it's a fact that in the past, Izumi-san deceived%Nme...%K%P
+Because it's a fact that in the past, Izumi-san deceived me...%K%P
 0x18D8
 億彦とつるんで、オレに嘘をついていたという事実があるわけで……。%K%P
 It's a fact that she lied to me, along with Okuhiko...%K%P
@@ -1014,13 +1014,13 @@ Unintentionally, I let out a deep sigh.%K%P
 I have no pity for the me who can't trust Izumi-san...%K%P
 0x1908
 と同時に『もはや、だまされてなるものか！』という頑固な意地もあった。%K%P
-But at the same time, I can't help but be stubborn and%Nremain wary, telling myself that 「I won't let myself be%Ndeceived again!」%K%P
+But at the same time, I can't help but be stubborn and remain wary, telling myself that 「I won't let myself be deceived again!」%K%P
 0x1914
 とても、複雑な心境だった……。%K%P
 「Bitten once, shy twice」, huh...?%K%P
 0x195C
 ちょうど坂の中腹にたどりついた頃、前から元気良く走って来る少女の姿を見つけた。%K%P
-When I get exactly halfway up the hill, I see that same girl%Nfrom earlier cheerfully running down.%K%P
+When I get exactly halfway up the hill, I see that same girl from earlier cheerfully running down.%K%P
 0x1968
 くるみだ。%K%P
 It's Kurumi.%K%P
@@ -1032,7 +1032,7 @@ Makoto「Hey! Kurumi!」%K%P
 I call out to her from far away.%K%P
 0x198C
 くるみはいったん立ち止まると、小さく会釈をし、再びオレの方に向かって駆け下りて来た。%K%P
-Kurumi temporarily stops, gives me a small bow, then%Nstarts running past me.%K%P
+Kurumi temporarily stops, gives me a small bow, then starts running past me.%K%P
 0x19B4
 誠「くるみ、どうしたんだ？」%K%P
 Makoto「Kurumi, what's wrong?」%K%P
@@ -1095,10 +1095,10 @@ Makoto「...」%K%P
 Kurumi「Sorry!」%K%P
 0x1AE8
 くるみ「せめて、頭文字だけでも教えてもらえれば、思い出すから！」%K%P
-Kurumi「At the very least, if you just said your initials, Kurumi%Nmight remember!」%K%P
+Kurumi「At the very least, if you just said your initials, Kurumi might remember!」%K%P
 0x1AF4
 聞いた瞬間、血の気が失せた。%K%P
-The instant I hear that, all blood is drained out of my%Nhead.%K%P
+The instant I hear that, all blood is drained out of my head.%K%P
 0x1B00
 クラクラと、軽いめまいさえ覚えた。%K%P
 I feel light headed.%K%P
@@ -1125,25 +1125,25 @@ Kurumi「Ah, umm, umm...」%K%P
 Kurumi「Kurumi's really sorry!」%K%P
 0x1BB0
 くるみは深々と一礼すると、逃げるように走り去って行った……。%K%P
-Kurumi gives me a deep bow, and runs away as if she's%Ntrying to escape from me...%K%P
+Kurumi gives me a deep bow, and runs away as if she's trying to escape from me...%K%P
 0x1C1C
 これで、いづみさんの言っていたことが、ある意味正しかったということが判明した。%K%P
-This confirms that what Izumi-san said earlier was right%Nto a certain degree.%K%P
+This confirms that what Izumi-san said earlier was right to a certain degree.%K%P
 0x1C28
 くるみのあの態度……あれは明らかに、今日が４月１日であると告げている。%K%P
 Kurumi's behavior... It's clear that to her, today is April 1st.%K%P
 0x1C34
 しかし、だからと言って『１日であること』が証明されたというわけでは決してない。%K%P
-Nevertheless, this is by no means indisputable proof%Nthat today is the 1st.%K%P
+Nevertheless, this is by no means indisputable proof that today is the 1st.%K%P
 0x1C40
 そう……。%K%N
 Right...%K%N
 0x1C5C
 『くるみまでもが億彦の仲間』ということも考えられるからだ。%K%P
-There's also the possibility that even Kurumi is in%Ncahoots with Okuhiko.%K%P
+There's also the possibility that even Kurumi is in cahoots with Okuhiko.%K%P
 0x1C68
 いづみさんは『くるみのことを信じてる』と言ったけど、オレには正直……わからない。%K%P
-Izumi-san said to trust Kurumi, but I don't know... if she%Nwas being honest.%K%P
+Izumi-san said to trust Kurumi, but I don't know... if she was being honest.%K%P
 0x1C74
 ──何が本当なのか？%K%N
 ―What's the truth?%K%N
@@ -1164,13 +1164,13 @@ There's three possibilities.%K%P
 #3: No one is lying.%K%P
 0x1CBC
 とにかく、こんな所で考えていてもしょうがない。%K%P
-Anyway, standing around here and thinking won't get%Nanything solved.%K%P
+Anyway, standing around here and thinking won't get anything solved.%K%P
 0x1CC8
 億彦に問いただせば、おのずと真相は見えてくるだろう。%K%P
-If I question Okuhiko, then I'll probably be able to see the%Ntruth.%K%P
+If I question Okuhiko, then I'll probably be able to see the truth.%K%P
 0x1CD4
 オレは、ロッジへと続く短い階段を、全力で駆け登って行った……。%K%P
-I run up the short staircase that leads to the lodge as%Nfast as I can.%K%P
+I run up the short staircase that leads to the lodge as fast as I can.%K%P
 0x1D38
 思い切り、ドアを開け放つ。%K%P
 I violently throw open the door.%K%P
@@ -1188,7 +1188,7 @@ Yuka「If you're looking for Okuhiko-kun, he's right in front of you.」%K%P
 As she says, Okuhiko is sitting on the sofa.%K%P
 0x1DA0
 目を大きく見開き、ほほをヒクヒクと引きつらせながら……。%K%P
-His eyes widen, and his cheeks tremble as he looks at%Nme...%K%P
+His eyes widen, and his cheeks tremble as he looks at me...%K%P
 0x1DB4
 億彦「おいおい……なんだよなんだよぉ……」%K%P
 Okuhiko「Hey... what is it...?」%K%P
@@ -1212,7 +1212,7 @@ And, at that time...%K%P
 The cuckoo clock goes off.%K%P
 0x1E50
 と同時に、つけっぱなしにされていたＴＶから、アナウンサーのていねいな声が聞こえてきた。%K%P
-At the same time, I hear the polite voice of the%Nannouncer from the TV.%K%P
+At the same time, I hear the polite voice of the announcer from the TV.%K%P
 0x1E5C
 声「４月１日月曜日。お昼のニュースです」%K%P
 Announcer「Today is Monday, April 1st. This is the afternoon news.」%K%P
@@ -1236,7 +1236,7 @@ I look at the old, round cathode ray tube.%K%P
 In it, I see the prim and proper announcer sitting down.%K%P
 0x1ECC
 画面の左上には白い文字で『４月１日月曜日』とあった。%K%P
-On the upper left corner of the screen, in white font is%Nthe words 「Monday, April 1st.」%K%P
+On the upper left corner of the screen, in white font is the words 「Monday, April 1st.」%K%P
 0x1ED8
 誠「……う、うそだろ……？」%K%P
 Makoto「... Y-You're kidding, right...?」%K%P
@@ -1248,13 +1248,13 @@ I unintentionally mutter this aloud.%K%P
 My gaze shifts towards the bottom of the TV.%K%P
 0x1EFC
 数冊の雑誌が入った四角い箱。それ以外には何も無い。%K%P
-There's a square box filled with magazines. Apart from%Nthat, there's nothing.%K%P
+There's a square box filled with magazines. Apart from that, there's nothing.%K%P
 0x1F08
 要するに『ビデオデッキ』なんてものは見当たらなかったのだ。%K%P
-In short, there's no recording devices to be found, like a%NVCR or anything of the like.%K%P
+In short, there's no recording devices to be found, like a VCR or anything of the like.%K%P
 0x1F14
 もちろん本体にも、そんなものは付いていない。%K%P
-Of course, there's no recording devices built into the TV,%Neither...%K%P
+Of course, there's no recording devices built into the TV, either...%K%P
 0x1F20
 今度は、ＴＶの裏側をのぞき込んだ。%K%P
 Next, I peek at the backside of the TV.%K%P
@@ -1263,22 +1263,22 @@ Next, I peek at the backside of the TV.%K%P
 There's nothing...%K%P
 0x1F38
 屋外アンテナに接続する為のケーブルさえ、そこには無かった。%K%P
-Not even a cable connected to an outdoor antenna or%Nanything like that.%K%P
+Not even a cable connected to an outdoor antenna or anything like that.%K%P
 0x1F44
 あるのは、ＴＶの上にちょこんと乗った、室内用の古いアンテナだけ……。%K%P
-There's only an old fashioned indoor antenna on the top%Nof the TV...%K%P
+There's only an old fashioned indoor antenna on the top of the TV...%K%P
 0x1F50
 再び、オレは画面に目を戻した。%K%P
 Once again, I look at the TV screen.%K%P
 0x1F5C
 広い講堂のような所で、真新しいリクルートスーツを着た何百人もの青年が、誰かの説教を退屈そうに聞いている。%K%P
-It has changed to a new scene; a place similar to a wide%Nauditorium, with hundreds of young men wearing brand%Nnew formal suits, listening with boredom as some man%Ngives a speech to them.%K%P
+It has changed to a new scene; a place similar to a wide auditorium, with hundreds of young men wearing brand new formal suits, listening with boredom as some man gives a speech to them.%K%P
 0x1F68
 （じゃあ……つまりこういうことか？）%K%P
 (Then... in other words...)%K%P
 0x1F74
 （この映像は、今、まさにこの瞬間……公共の電波に乗って流されている、と！？）%K%P
-(This is exactly... what is being broadcast now, at this%Nvery instant!?)%K%P
+(This is exactly... what is being broadcast now, at this very instant!?)%K%P
 0x1F88
 優夏「ね、ねえ、誠？」%K%P
 Yuka「H-Hey, Makoto?」%K%P
@@ -1332,10 +1332,10 @@ I say nothing, and rush out the front door...%K%P
 I jump down the lodge's short staircase...%K%P
 0x2184
 林に囲まれた坂道を駆け下り……%K%P
-I descend the hill road surrounded by trees as fast as I%Ncan...%K%P
+I descend the hill road surrounded by trees as fast as I can...%K%P
 0x21E4
 海岸線沿いの道を、わき目もふらずに東へと走って……%K%P
-I run down the road along the coastline without looking%Naside, and head to the east...%K%P
+I run down the road along the coastline without looking aside, and head to the east...%K%P
 0x2260
 ……ようやく、ここにたどり着いた。%K%P
 ... I've finally arrived here.%K%P
@@ -1344,10 +1344,10 @@ I run down the road along the coastline without looking%Naside, and head to the 
 I figured that people were bound to be around here.%K%P
 0x2278
 案の定、花見目当ての観光客や、展望公園で遊ぶ親子連れの姿がチラホラと見える。%K%P
-As I thought, there are adults here to watch the cherry%Nblossoms fall, while their children that they brought%Nalong play at Viewpoint Park.%K%P
+As I thought, there are adults here to watch the cherry blossoms fall, while their children that they brought along play at Viewpoint Park.%K%P
 0x2294
 長い道のりを走り続けたせいで、さすがに息が切れていた。%K%P
-Since I came all this way running nonstop, I'm out of%Nbreath.%K%P
+Since I came all this way running nonstop, I'm out of breath.%K%P
 0x22A0
 けれど、オレには休んでいるヒマなどなかった。%K%P
 But I don't have time to rest.%K%P
@@ -1371,7 +1371,7 @@ Makoto「What's...」%K%P
 Makoto「... What's... today's date?」%K%P
 0x22F4
 その女性は、オレのほうをチラリとイチベツしながらも、何事もなかったかのように、無言で通り過ぎようとした。%K%P
-She glances at me, then walks away as if nothing%Nhappened.%K%P
+She glances at me, then walks away as if nothing happened.%K%P
 0x2300
 誠「ちょっと……待ってよ！」%K%P
 Makoto「Wait... a minute!」%K%P
@@ -1398,10 +1398,10 @@ Woman「It's the 1st! April 1st!」%K%P
 Woman「Just let me go already!」%K%P
 0x2360
 彼女はオレの腕を振りほどくと、あわてふためくようにして逃げて行った。%K%P
-The girl shakes off my grip before frantically running%Naway.%K%P
+The girl shakes off my grip before frantically running away.%K%P
 0x236C
 振り向くと、何人かの観光客が、いぶかしげな視線でオレのことを見ていた。%K%P
-I turn around, and see several sightseers giving me%Nsuspicious glances.%K%P
+I turn around, and see several sightseers giving me suspicious glances.%K%P
 0x2378
 そのうちの１人……。%K%N
 I need to speak to more people...%K%N
@@ -1449,7 +1449,7 @@ Makoto「Thank you...」%K%P
 I pat the boy on his head, and head for Viewpoint Park.%K%P
 0x2480
 広い公園の中を歩きながら、あたりをぐるりと見回してみる。%K%P
-As I walk through the center of the wide park, I try%Nsurveying the area.%K%P
+As I walk through the center of the wide park, I try surveying the area.%K%P
 0x248C
 やがて……%K%N
 Before long...%K%N
@@ -1458,34 +1458,34 @@ Before long...%K%N
 ... I spot a public telephone in a corner of the park.%K%P
 0x24A4
 今はあまり見かけない、黄緑色の古めかしい公衆電話だ。%K%P
-I didn't notice it before, but it's a yellow-green%Nold-fashioned pay phone.%K%P
+I didn't notice it before, but it's a yellow-green old-fashioned pay phone.%K%P
 0x24B0
 すぐにその前へと駆け寄って、オレは受話器をにぎりしめた。%K%P
 I immediately run over to it, and pick up the receiver.%K%P
 0x24BC
 まずは、仲の良い何人かの友達に電話をかけた。%K%P
-First, I decide to call the friends of people who I'm on%Ngood terms with.%K%P
+First, I decide to call the friends of people who I'm on good terms with.%K%P
 0x24C8
 その１人１人に向かってオレは『今日は何日だ？』とたずねた。%K%P
 I call them one by one, and ask them for the date.%K%P
 0x24D4
 すると、返って来た答はことごとく%T015『１日に決まってるだろ！？』%K%P
-When I do, the response I get each time is 「It's the 1st,%Nduh!」%K%P
+When I do, the response I get each time is 「It's the 1st, duh!」%K%P
 0x24FC
 …………………………………………。%K%P
 ...%K%P
 0x2580
 オレは手元にあった金のほとんどを注ぎ込んで、片っ端から電話をかけていった。%K%N
-I pump nearly all the money I have on hand into the%Nphone to call place after place.%K%N
+I pump nearly all the money I have on hand into the phone to call place after place.%K%N
 0x258C
 ＴＶ局…ラジオ局…電話会社…気象庁…防衛庁…裁判所…役所…警察…病院…教会…寺…神社…学校…。%K%N%N
-TV stations... radio stations... telecommunications%Ncompanies... the Meteorological Agency... the Japanese%NMinistry of Defense...%K%PA court... a government office... the police... a hospital... a%Nchurch... a temple... a shrine... a school.%K%N%N
+TV stations... radio stations... telecommunications companies... the Meteorological Agency... the Japanese Ministry of Defense...%K%PA court... a government office... the police... a hospital... a church... a temple... a shrine... a school.%K%N%N
 0x2598
 もちろん、デタラメな番号にもかけてみた。%K%N
 Of course, I also dial random numbers.%K%N
 0x25A4
 北海道から沖縄まで、全ての都道府県の見ず知らずの他人に聞いてみたのだ。%K%P
-I try asking strangers from nearly every prefectures, to%Nthose up north in Hokkaido to those down south in%NOkinawa.%K%P
+I try asking strangers from nearly every prefectures, to those up north in Hokkaido to those down south in Okinawa.%K%P
 0x25B8
 しかし、誰も彼もが当たり前のように、こう答えるだけだった。%K%N%N
 However, everyone replies with this, as if it's obvious.%K%N%N

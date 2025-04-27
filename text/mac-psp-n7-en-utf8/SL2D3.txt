@@ -6,10 +6,10 @@ text area offset and size:
 The morning has arrived.%K%P
 0x140
 リビングに行くと、かつて経験した通りのことが行なわれていた。%K%P
-When I enter the living room, everything goes the same%Nway it did last time.%K%P
+When I enter the living room, everything goes the same way it did last time.%K%P
 0x14C
 くるみが持ってきてくれたトーストを食べ始めると、やはり前と同じように遙がやって来た。%K%P
-When I begin to eat the toast Kurumi brought, Haruka%Ncomes in the same way she did last time.%K%P
+When I begin to eat the toast Kurumi brought, Haruka comes in the same way she did last time.%K%P
 0x158
 億彦に追いかけられながら……。%K%P
 Okuhiko is chasing after her...%K%P
@@ -30,13 +30,13 @@ Yuka「Hold on. We're scheduled to play tennis today.」%K%P
 Haruka「Huh? ... Tennis?」%K%P
 0x1E8
 優夏「遙。今日は『私、いい』なんて言わせないからね。班長命令なんだから」%K%P
-Yuka「Haruka, you can't just say 'I'll pass' today. That'd be%Ngoing against the group leader's orders.」%K%P
+Yuka「Haruka, you can't just say 'I'll pass' today. That'd be going against the group leader's orders.」%K%P
 0x1FC
 遙が困ったような表情を浮かべ、オレを見た。%K%P
 Haruka looks at me with a troubled expression.%K%P
 0x218
 億彦「そうだよ、遙ちゃん。やっぱテニスでしょう」%K%P
-Okuhiko「That's right, Haruka-chan. As planned, we're playing%Ntennis.」%K%P
+Okuhiko「That's right, Haruka-chan. As planned, we're playing tennis.」%K%P
 0x22C
 遙「約束、したの……」%K%P
 Haruka「I made a promise...」%K%P
@@ -63,25 +63,25 @@ Kurumi「Huh?」%K%P
 Haruka「...」%K%P
 0x2E8
 誠「オレ、今日は遙と釣りに行く。テニスには行かない」%K%P
-Makoto「Haruka and I are going fishing today. We're not going to%Nplay tennis.」%K%P
+Makoto「Haruka and I are going fishing today. We're not going to play tennis.」%K%P
 0x2FC
 誠「オレ、今日は遙と出かけるんだ。テニスには行かない」%K%P
-Makoto「Haruka and I are going out today. We're not going to play%Ntennis.」%K%P
+Makoto「Haruka and I are going out today. We're not going to play tennis.」%K%P
 0x310
 億彦「な、どうして石原が？　本当なの、遙ちゃん？」%K%P
-Okuhiko「Wh-Why is Ishihara saying that? Is this true,%NHaruka-chan?」%K%P
+Okuhiko「Wh-Why is Ishihara saying that? Is this true, Haruka-chan?」%K%P
 0x32C
 遙「うん」%K%P
 Haruka「Yes.」%K%P
 0x338
 誠「そういうことだからよろしく。悪いけど優夏、オレ達、命令無視するから」%K%P
-Makoto「So we'll be going now. Sorry Yuka, but we're going to%Nhave to ignore your orders.」%K%P
+Makoto「So we'll be going now. Sorry Yuka, but we're going to have to ignore your orders.」%K%P
 0x354
 優夏「まっ、いいけど……。班長ったって別に権力者じゃないんだし……」%K%P
 Yuka「Well, that's fine... The leader's not a dictator, after all...」%K%P
 0x370
 億彦「ちょっと待って、優夏ちゃん。そんな簡単に許しちゃダメだよ。石原ぁ、君はまだわかってないのか？　ゼミってのは集団行動が基本じゃないかぁ！」%K%P
-Okuhiko「Just hold on, Yuka-chan. You can't just let them off this%Neasy. Ishihara, you still don't understand? The basis of%Nthis seminar is group activities, isn't it?」%K%P
+Okuhiko「Just hold on, Yuka-chan. You can't just let them off this easy. Ishihara, you still don't understand? The basis of this seminar is group activities, isn't it?」%K%P
 0x37C
 誠「億彦にそんなこと言われる筋合いないな」%K%P
 Makoto「You have no right to say that.」%K%P
@@ -96,13 +96,13 @@ I leave the living room.%K%N
 Haruka quickly follows me.%K%P
 0x3C4
 億彦「待ってよ、遙ちゃん。石原と何かあったの？」%K%P
-Okuhiko「Wait, Haruka-chan. What happened between you and%NIshihara?」%K%P
+Okuhiko「Wait, Haruka-chan. What happened between you and Ishihara?」%K%P
 0x3D0
 遙「……約束だから」%K%P
 Haruka「... We made a promise.」%K%P
 0x3DC
 億彦「そんなの理由になってないよ。石原と昨日何かあったんだね？」%K%P
-Okuhiko「That's not an explanation. What happened between you%Nand Ishihara yesterday?」%K%P
+Okuhiko「That's not an explanation. What happened between you and Ishihara yesterday?」%K%P
 0x3E8
 遙「億彦に話すことじゃない」%K%P
 Haruka「I'm not going to tell you.」%K%P
@@ -111,19 +111,19 @@ Haruka「I'm not going to tell you.」%K%P
 Okuhiko「Why not?」%K%P
 0x400
 遙「私と誠とのことだから……億彦には関係ない」%K%P
-Haruka「This is something between me and Makoto... It doesn't%Nconcern you, Okuhiko.」%K%P
+Haruka「This is something between me and Makoto... It doesn't concern you, Okuhiko.」%K%P
 0x41C
 億彦「どうして石原なんかと釣りに行くの？　あいつのどこがいいわけ？」%K%P
-Okuhiko「Why are you going fishing with Ishihara? What do you%Nsee in that asshole?」%K%P
+Okuhiko「Why are you going fishing with Ishihara? What do you see in that asshole?」%K%P
 0x430
 億彦「どうして石原なんかと一緒にいるの？　あいつのどこがいいわけ？」%K%P
-Okuhiko「Why are you going with Ishihara? What do you see in that%Nasshole?」%K%P
+Okuhiko「Why are you going with Ishihara? What do you see in that asshole?」%K%P
 0x43C
 遙「誠は……私を信じてくれてる……」%K%P
 Haruka「Makoto... trusts me...」%K%P
 0x448
 億彦「信じる？　石原が？　この低俗男にはどうせ何か魂胆があるんだよ」%K%P
-Okuhiko「Trust? Ishihara? It's clear as day that this vulgar%Nbastard has some kind of ulterior motive.」%K%P
+Okuhiko「Trust? Ishihara? It's clear as day that this vulgar bastard has some kind of ulterior motive.」%K%P
 0x454
 遙「私達は信じあっているの。億彦にはわからない……」%K%P
 Haruka「We trust each other. You wouldn't understand...」%K%P
@@ -132,7 +132,7 @@ Haruka「We trust each other. You wouldn't understand...」%K%P
 Okuhiko「You're the one who doesn't understand about Ishihara.」%K%P
 0x46C
 遙「私と誠のことは、億彦には関係ない」%K%P
-Haruka「What's going on between me and Makoto is none of your%Nconcern.」%K%P
+Haruka「What's going on between me and Makoto is none of your concern.」%K%P
 0x480
 億彦「いや、ある！　関係あるよ！　遙ちゃん、僕は君のことを！」%K%P
 Okuhiko「You're wrong! It does concern me! Haruka-chan, I-!」%K%P
@@ -153,13 +153,13 @@ Haruka「Wait. Tell him straight.」%K%P
 Makoto「Huh?」%K%P
 0x4E0
 遙「私と誠……信じあってるってこと。どんなことがあっても……そうでしょう？」%K%P
-Haruka「About how you and I... trust each other, no matter what%Nhappens... isn't that right?」%K%P
+Haruka「About how you and I... trust each other, no matter what happens... isn't that right?」%K%P
 0x4EC
 誠「……………………」%K%P
 Makoto「...」%K%P
 0x4F8
 遙「億彦に言ってあげて。億彦には関係ないんだって。私達にしかわからないんだって」%K%P
-Haruka「Tell Okuhiko. Tell him it doesn't concern him. Tell him we're%Nthe only ones who understand.」%K%P
+Haruka「Tell Okuhiko. Tell him it doesn't concern him. Tell him we're the only ones who understand.」%K%P
 0x504
 ちょっと待て……。%K%N
 Hold on...%K%N
@@ -180,7 +180,7 @@ Haruka「Are you saying we can't trust each other?」%K%P
 Makoto「That's not it, that's not it at all.」%K%P
 0x54C
 億彦「遙ちゃん、こんないい加減な奴のどこがいいんだ？」%K%P
-Okuhiko「Haruka-chan, what's so good about this irresponsible%Nbastard?」%K%P
+Okuhiko「Haruka-chan, what's so good about this irresponsible bastard?」%K%P
 0x558
 誠「いい加減！？　いい加減だと！？」%K%P
 Makoto「Irresponsible!?」%K%P
@@ -192,13 +192,13 @@ You don't even know the circumstances!%K%P
 Makoto「I trust Haruka!」%K%P
 0x57C
 誠「昨夜約束したんだ。オレは遙を信じる。だから遙もオレを信じろと！」%K%P
-Makoto「We made a promise last night. I trust Haruka. That's why%NHaruka trusts me, too!」%K%P
+Makoto「We made a promise last night. I trust Haruka. That's why Haruka trusts me, too!」%K%P
 0x5D0
 ──その時だ。鈍い音が響いた。%K%P
 ―Suddenly, a dry sound echoes.%K%P
 0x5DC
 はっと振り返ると、そこには立ち尽くす沙紀の姿が……。%K%P
-Taken aback, we all turn towards the sound. Saki is%Nstanding frozen at the front door...%K%P
+Taken aback, we all turn towards the sound. Saki is standing frozen at the front door...%K%P
 0x5E8
 足元には、バスケットが転がっている。%K%P
 Laying at her feet is her basket.%K%P
@@ -210,7 +210,7 @@ Saki「I see... so you really trust her after all...」%K%P
 Makoto「!!!」%K%P
 0x61C
 しまった！　そう言えばこの時間……沙紀がやって来るんだった！%K%P
-Shit! Now that I think about it... this is around the time Saki%Narrived last time!%K%P
+Shit! Now that I think about it... this is around the time Saki arrived last time!%K%P
 0x628
 誠「ちょっと待て、沙紀！」%K%P
 Makoto「Hold on, Saki!」%K%P
@@ -243,13 +243,13 @@ She's crushing it!%K%N
 ―The basket has now broken apart.%K%P
 0x72C
 グニャグニャに歪むバスケット！　砕けるプラスチックの食器！　飛び散るサンドウィッチ！%K%P
-Plastic tableware scatters everywhere. Sandwiches%Ncome flying out.%K%P
+Plastic tableware scatters everywhere. Sandwiches come flying out.%K%P
 0x744
 今度はオレの為に用意してくれたというのに……。%K%P
 Even though I made preparations to prevent it this time...%K%P
 0x750
 遙が、沙紀に強い視線を向けた。ぐんぐんと近寄って行く。%K%P
-Haruka throws a powerful glance at Saki, then gets%Ncloser and closer to her.%K%P
+Haruka throws a powerful glance at Saki, then gets closer and closer to her.%K%P
 0x75C
 遙「沙紀！　違うの！」%K%P
 Haruka「Saki! You're wrong!」%K%P
@@ -261,7 +261,7 @@ Saki「Stay away from me!」%K%P
 Even so, Haruka doesn't stop walking.%K%P
 0x7A0
 沙紀「何よ。来ないでよ。クローンに用はないわ！」%K%P
-Saki「What is it? Get the hell away from me! I have no business%Nwith you, you damn clone!」%K%P
+Saki「What is it? Get the hell away from me! I have no business with you, you damn clone!」%K%P
 0x7AC
 遙「！！！」%K%P
 Haruka「!!!」%K%P
@@ -291,10 +291,10 @@ I don't really remember what happened after that.%K%P
 I'm unable to think of anything.%K%P
 0x840
 今回の衝撃は、前とは比べものにならないくらい大きくて……。%K%P
-The shock from this time is nowhere as big as it was last%Ntime, but...%K%P
+The shock from this time is nowhere as big as it was last time, but...%K%P
 0x84C
 なにしろ今回は、沙紀と遙を傷つけた当事者になってしまったのだから……。%K%P
-At any rate, this time, I ended up only hurting both Saki%Nand Haruka...%K%P
+At any rate, this time, I ended up only hurting both Saki and Haruka...%K%P
 0x8B8
 気がつくと、夜になっていた。%K%P
 When I come to my senses, it's already nighttime.%K%P
@@ -309,10 +309,10 @@ I still haven't found a way to change Saki's situation.%K%P
 As time passes on, I start to get impatient.%K%P
 0x8E8
 歴史の流れは、多少変わったとは言え、結局は似たような方向へと向かってしまっている。%K%P
-Despite history somewhat changing, it seems like it's still%Nheaded in a similar direction.%K%P
+Despite history somewhat changing, it seems like it's still headed in a similar direction.%K%P
 0x8F4
 部屋の床に転がった、沙紀の壊れたバスケット……。%K%P
-Lying down on the floor of my room is Saki's broken%Nbasket...%K%P
+Lying down on the floor of my room is Saki's broken basket...%K%P
 0x900
 （やっぱり……直してやろう）%K%P
 (I should... try to fix it.)%K%P
@@ -321,7 +321,7 @@ Lying down on the floor of my room is Saki's broken%Nbasket...%K%P
 This time, I'll fix it myself.%K%P
 0x918
 そんな些細なことしか、今のオレにはできないから……。%K%P
-The current me is the only one who can do something%Nthat trivial...%K%P
+The current me is the only one who can do something that trivial...%K%P
 0x960
 ……………………。%N……………。%N……。%K%P
 ... ... ...%K%P
@@ -393,7 +393,7 @@ Haruka「...」%K%P
 Makoto「I hate it when I see the two of you like you are right now...」%K%P
 0xAEC
 誠「絶対何かの間違いなのに、そのせいで２人はぎくしゃくしてる」%K%P
-Makoto「Your relationship is strained over a simple%Nmisunderstanding.」%K%P
+Makoto「Your relationship is strained over a simple misunderstanding.」%K%P
 0xAF8
 誠「そんなの、おかしいだろ？」%K%P
 Makoto「Don't you find that strange?」%K%P
@@ -411,7 +411,7 @@ Haruka「... All right.」%K%P
 As I nod, I hold up the basket I'm fixing.%K%P
 0xB34
 誠「明日の朝までに直しちゃおうと思ってるんだ……。結構大仕事だぞ？」%K%P
-Makoto「I think it'll take until tomorrow morning to fix... It's a really%Nbig job, you know?」%K%P
+Makoto「I think it'll take until tomorrow morning to fix... It's a really big job, you know?」%K%P
 0xB48
 遙「わかってる……」%K%P
 Haruka「I understand...」%K%P

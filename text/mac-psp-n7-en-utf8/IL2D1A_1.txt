@@ -3,7 +3,7 @@ text area offset and size:
 0x1610
 0xA0
 ガバッと思い切り布団を蹴飛ばして目覚めた。%K%P
-As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+As I wake up, I kick the covers off the bed with all my strength.%K%P
 0xAC
 しばし茫然として虚空を眺める。%K%P
 Still half asleep, I blankly stare into space.%K%P
@@ -21,22 +21,22 @@ This is my room in the lodge.%K%P
 What the hell's going on?%K%P
 0xE8
 ついさっきまで、オレは外にいた。%Nいづみさんの傍にいた。%K%P
-Just seconds ago, I was outside. I was right next to%NIzumi-san.%K%P
+Just seconds ago, I was outside. I was right next to Izumi-san.%K%P
 0xF4
 夢……？%K　いや、そんな筈はあり得なかった。%K%P
 Was it a dream...? No, that's impossible.%K%P
 0x100
 記憶は鮮明に残っている。%K%Nあれが夢だとすれば、今こうしていることすらも夢に思えてしまうくらいだ。%K%P
-My memory is clear about what happened... But if that%Nwas a dream, then maybe I'm still dreaming now.%K%P
+My memory is clear about what happened... But if that was a dream, then maybe I'm still dreaming now.%K%P
 0x10C
 もしかしたら……%Kもしかしたら、と考える。%K%P
 Just then... a thought hits me.%K%P
 0x118
 （オレは意識を失ったあと、誰かにここまで運び込まれたのかもしれない）%K%P
-(After I lost consciousness, someone might have found%Nme and brought me back here.)%K%P
+(After I lost consciousness, someone might have found me and brought me back here.)%K%P
 0x124
 オレは気だるい体を無理に動かして、腕時計の時刻を確認した。%K%P
-I force my languid body to move, and check the time on%Nmy watch.%K%P
+I force my languid body to move, and check the time on my watch.%K%P
 0x130
 『１日　ＭＯＮ　０８：４７』%K%P
 (1 MON 8:47 A.M.)%K%P
@@ -60,13 +60,13 @@ I frantically check my watch one more time.%K%P
 ... My eyes aren't deceiving me.%K%P
 0x1B0
 時計を見る限りでは、今日は４月１日であることに間違いはない。%K%P
-From what I can see, according to my watch, today is%Nunmistakably April 1st.%K%P
+From what I can see, according to my watch, today is unmistakably April 1st.%K%P
 0x1BC
 視線を窓の外に移す。%K%N
 I shift my eyes towards the window.%K%N
 0x1C8
 記憶が確かならば、あの日、オレが悪夢を見た%N１日と同じような天気。%K%P
-If my memories are correct, then the weather is certainly%Nthe same as it was on the day I woke up from that%Nnightmare.%K%P
+If my memories are correct, then the weather is certainly the same as it was on the day I woke up from that nightmare.%K%P
 0x1D4
 まだ、はっきりとは自覚していないが……%K%Nこれはまさしく……。%K%P
 I'm still half asleep, but... I must have...%K%P
@@ -84,7 +84,7 @@ Impossible! I can't accept this way of thinking.%K%P
 And... and besides...%K%N
 0x210
 オレが、いづみさんを守りきることが出来なかったのは、変えようもない事実なのだ！%K%P
-It doesn't change the fact that I failed to protect%NIzumi-san!%K%P
+It doesn't change the fact that I failed to protect Izumi-san!%K%P
 0x21C
 再び、沸きあがってくる深い悲しみと激しい怒り。%K%P
 Once again, despair and intense rage well up inside me.%K%P
@@ -99,7 +99,7 @@ My lips start to bleed as I bite them hard.%K%P
 But then I rethink the situation.%K%P
 0x24C
 悲しむよりも先に、%K自分を責めるよりも先に、%K%Nまず確認しなければならない！%K　……と。%K%P
-「Before getting depressed or punishing myself, I have%Nto confirm this!」%K%P
+「Before getting depressed or punishing myself, I have to confirm this!」%K%P
 0x258
 オレは本当にタイムスリップをしたのか……。%K%N
 Did I really time travel...?%K%N
@@ -117,7 +117,7 @@ I get out of my bed and try to head to the living room.%K%P
 ―And at that time!%K%P
 0x2C0
 壊れてしまいそうな程の暴力的な勢いで、部屋のドアが開け放たれた。%K%P
-The door to my room is violently thrown open with enough%Nforce to break it.%K%P
+The door to my room is violently thrown open with enough force to break it.%K%P
 0x2CC
 ああ、そうか……と思う。%Kそうだったな、と。%K%P
 Oh, that's right. Of course that would happen.%K%P
@@ -144,46 +144,46 @@ Makoto「A-AAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHH!!」%K%P
 I scream, and fall back down on my bed.%K%P
 0x54C
 オレの頭は、あまりにも理解不可能な事態に混乱を来していた。%K%P
-I'm thrown into a state of confusion by this%Nincomprehensible situation.%K%P
+I'm thrown into a state of confusion by this incomprehensible situation.%K%P
 0x558
 ど……%W%W%Wどうして……？　%N何故、ここにいづみさんが？%K%P
 W... Why...? Why is Izumi-san here?%K%P
 0x564
 これはもう、タイムスリップがどうとかいうレベルの問題ではない。%K%P
-It's no longer a problem of whether I've time traveled or%Nnot. This is a paradox!%K%P
+It's no longer a problem of whether I've time traveled or not. This is a paradox!%K%P
 0x570
 タイムスリップしているのなら、まだいづみさんとは知り合っていないのに！%K%P
-If I really time traveled, then I shouldn't be acquainted%Nwith Izumi-san yet!%K%P
+If I really time traveled, then I shouldn't be acquainted with Izumi-san yet!%K%P
 0x57C
 タイムスリップしていないのなら、もういづみさんは生きてはいないのに！%K%P
 But if I didn't time travel, then Izumi-san should be dead!%K%P
 0x5A4
 いづみさんは、後ろ手にドアを閉めると、オレの方へと近寄って来た。%K%P
-Izumi-san shuts the door behind her, and approaches%Nme.%K%P
+Izumi-san shuts the door behind her, and approaches me.%K%P
 0x5B0
 誠「あ……%W%W%Wあ%Wぁ……」%K%P
 Makoto「A... ah...」%K%P
 0x5BC
 オレは、いづみさんから遠ざかるように、ズリズリと後ずさりする。%K%P
-I step back in order to get as far away from Izumi-san as%Npossible.%K%P
+I step back in order to get as far away from Izumi-san as possible.%K%P
 0x5C8
 いづみさんは、逆にオレとの距離を詰めるかのように、ジリジリと近寄って来る。%K%P
-However, there's nowhere to run, and Izumi-san slowly%Napproaches to close the distance between us.%K%P
+However, there's nowhere to run, and Izumi-san slowly approaches to close the distance between us.%K%P
 0x5D4
 誠「こ、%W%Wこ%Wな%Wい%Wで……」%K%P
 Makoto「G-Ghost...」%K%P
 0x5E0
 オレの声は、Ｂ級ホラー映画のヒロインのように震えていた。%K%P
-My voice is trembling like the heroine in some B-horror%Nmovie.%K%P
+My voice is trembling like the heroine in some B-horror movie.%K%P
 0x5F4
 ギリギリまで詰め寄ったいづみさんは、オレに覆い被さるようにして、オレを抑えつけにかかる。%K%P
-Izumi-san approaches me as close as possible, and%Nthen starts to restrain me.%K%P
+Izumi-san approaches me as close as possible, and then starts to restrain me.%K%P
 0x600
 誠「うあぁ……%W%W%Wふぐっ！」%K%P
 Makoto「AAH... Mmph!」%K%P
 0x60C
 再び悲鳴をあげようとしたオレは、いづみさんに口を手でふさがれ、フガフガともがく。%K%P
-I try to scream again, but Izumi-san covers my mouth, as%NI squirm in place.%K%P
+I try to scream again, but Izumi-san covers my mouth, as I squirm in place.%K%P
 0x628
 いづみ「落ち着いて、誠くん」%K%P
 Izumi「Calm down, Makoto-kun.」%K%P
@@ -192,7 +192,7 @@ Izumi「Calm down, Makoto-kun.」%K%P
 Izumi「All right? Just calm down and listen to me.」%K%P
 0x640
 いづみさんは静かに、だが否定を許さない口調で語りかけてきた。%K%P
-Izumi-san talks in a gentle, yet authoritative voice that%Nleaves no room for denial.%K%P
+Izumi-san talks in a gentle, yet authoritative voice that leaves no room for denial.%K%P
 0x64C
 オレはうんうんとうなずく。%Nいづみさんに口を抑えつけられたままで。%K%P
 I nod, but Izumi-san still keeps her hand over my mouth.%K%P
@@ -213,58 +213,58 @@ And then, Izumi-san begins to explain.%K%P
 ...%K%P
 0x6C0
 あの日、崖から落ちたいづみさんは気絶していただけだったようだ。%K%P
-On that day, it seems that Izumi-san only fainted when%Nshe fell from the cliff.%K%P
+On that day, it seems that Izumi-san only fainted when she fell from the cliff.%K%P
 0x6CC
 オレもその後気を失ってしまい、億彦達に発見されてロッジまで担ぎ込まれた。%K%P
-When I followed suit, Okuhiko and the others found us%Nand took us back to the lodge.%K%P
+When I followed suit, Okuhiko and the others found us and took us back to the lodge.%K%P
 0x6D8
 つまりオレは、丸１日眠り続けていたということになる。%K%P
 In other words, I've been asleep for a whole day.%K%P
 0x6E4
 けれど、何より驚いたのは、オレがまたしても億彦に騙されかけていたということ！%K%P
-But the most surprising thing is that Okuhiko has started%Nto try to deceive me again!%K%P
+But the most surprising thing is that Okuhiko has started to try to deceive me again!%K%P
 0x6F0
 なんでも、それはこういうことだったらしい。%K%P
-As for exactly what he's up to, according to Izumi-san,%Nit's something like this.%K%P
+As for exactly what he's up to, according to Izumi-san, it's something like this.%K%P
 0x6FC
 ……………………。%K%P
 ...%K%P
 0x708
 オレ達を追いかけて来た億彦達は、崖下で倒れているオレといづみさんの姿を発見した。%K%P
-Okuhiko and the others chased after us, and found us%Ncollapsed at the bottom of the cliff.%K%P
+Okuhiko and the others chased after us, and found us collapsed at the bottom of the cliff.%K%P
 0x714
 いづみさんは、それからしばらくして気がついたが、オレは全然目覚める様子がない。%K%P
-Izumi-san woke up shortly afterwards, but I wouldn't wake%Nup at all.%K%P
+Izumi-san woke up shortly afterwards, but I wouldn't wake up at all.%K%P
 0x720
 ロッジまで連れ帰って、医者を呼んで診てもらったら……%W%W%Wなんだ大したことじゃなかった。%K%P
-When they brought me back to the lodge, they had%Ncalled a doctor to examine me... but it wasn't serious.%K%P
+When they brought me back to the lodge, they had called a doctor to examine me... but it wasn't serious.%K%P
 0x72C
 ただの過労と精神的ショックで気を失っているだけで、明日の朝には目を覚ますそうだ。%K%P
-It seems I had lost consciousness due to strain and%Nmental shock, and I'd wake up by the next morning.%K%P
+It seems I had lost consciousness due to strain and mental shock, and I'd wake up by the next morning.%K%P
 0x738
 でも、それがキッカケとなって、億彦は面白いことを考えついた。%K%P
-But Okuhiko took this chance to come up with an%Ninteresting idea.%K%P
+But Okuhiko took this chance to come up with an interesting idea.%K%P
 0x744
 もう１度、全員で、その日が４月１日のフリをして、同じことを繰り返してみよう。%K%P
-The group would pretend it was April 1st once more, and%Nrepeat the same things they did that day.%K%P
+The group would pretend it was April 1st once more, and repeat the same things they did that day.%K%P
 0x750
 そして、気絶したオレの腕時計の日付を１日に戻した。%K%P
-And so, he changed the date on my watch yesterday%Nwhile I was unconscious so that it would read 「April 1st」%Ntoday.%K%P
+And so, he changed the date on my watch yesterday while I was unconscious so that it would read 「April 1st」 today.%K%P
 0x75C
 しかし、いづみさんは、これ以上オレを騙し続けることに耐えられなくなったため、こっそりとオレに教えてくれた……%W%W%Wというわけだ。%K%P
-But Izumi-san could no longer stand continuing to%Ndeceive me, and so decided to secretly tell me%Neverything... that's how it is.%K%P
+But Izumi-san could no longer stand continuing to deceive me, and so decided to secretly tell me everything... that's how it is.%K%P
 0x768
 ……………………。%K%P
 ...%K%P
 0x774
 また、いづみさんがオレを騙していたことにも、正当な理由があったようだ。%K%P
-Also, it seems Izumi-san had a justifiable reason to%Ndeceive me.%K%P
+Also, it seems Izumi-san had a justifiable reason to deceive me.%K%P
 0x780
 簡単に言ってしまえば、いづみさんは億彦に、%N脅迫されていたのだ。%K%P
 To put it simply, she was threatened by Okuhiko.%K%P
 0x78C
 『僕に従わないのなら、くるみちゃんの秘密をバラしてしまうよ？』%K%P
-「If you don't obey me, then I'll reveal Kurumi-chan's%Nsecret.」%K%P
+「If you don't obey me, then I'll reveal Kurumi-chan's secret.」%K%P
 0x798
 そんなふうに脅されていたらしい。%K%P
 That's how it went down.%K%P
@@ -279,7 +279,7 @@ I'm curious, but Izumi-san doesn't tell me.%K%P
 But I can let that matter go for now.%K%P
 0x7D8
 それよりも何よりも、そんな卑劣なことした億彦に対して、オレは激しい憤りを覚えずにはいられなかった。%K%P
-More importantly than anything else, I can't help but feel%Nintense hatred towards the cowardly Okuhiko.%K%P
+More importantly than anything else, I can't help but feel intense hatred towards the cowardly Okuhiko.%K%P
 0x7E4
 誠「%Wお%Wの%Wれ%W、億彦〜……っ！」%K%P
 Makoto「Okuhiko, you bastard...!」%K%P
@@ -294,10 +294,10 @@ Izumi「Hey. If you want revenge, then how about this?」%K%P
 Makoto「?」%K%P
 0x838
 いづみ「誠くんを騙すのと同じ要領で、逆に億彦くんを騙してしまうのよ！」%K%P
-Izumi「Why not turn Okuhiko's plan against him, and deceive him%Nusing the same trick!?」%K%P
+Izumi「Why not turn Okuhiko's plan against him, and deceive him using the same trick!?」%K%P
 0x844
 つまり『億彦が目覚めた後、オレ達は今日が４月１日であるかのように振舞う』と、そういうことだった。%K%P
-In other words, she's saying 「After Okuhiko wakes up,%Nwe'll act like it's April 1st.」%K%P
+In other words, she's saying 「After Okuhiko wakes up, we'll act like it's April 1st.」%K%P
 0x850
 誠「いづみさん、いいよ、それっ！　最高だよっ！」%K%P
 Makoto「Izumi-san, that's brilliant! You're a genius!」%K%P
@@ -309,7 +309,7 @@ Izumi「Hee hee hee... aren't I?」%K%P
 Izumi-san laughs impishly.%K%P
 0x87C
 誠「……よしっ。じゃあ早速、みんなを起こして行動開始だ！」%K%P
-Makoto「... All right. Then let's wake everyone up immediately and%Nbegin mobilizing them!」%K%P
+Makoto「... All right. Then let's wake everyone up immediately and begin mobilizing them!」%K%P
 0x888
 誠「くっくっくっ……。%K見てろよ億彦〜っ」%K%P
 Makoto「Heh heh heh... Payback's a bitch, Okuhiko.」%K%P

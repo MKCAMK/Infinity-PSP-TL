@@ -18,7 +18,7 @@ Makoto「Then I'll go get a change of clothes.」%K%P
 Makoto「Oh, right... and maybe a shower while I'm at it...」%K%P
 0xE4
 いづみ「どうせ帰り道でも濡れるんだし、お店で浴びたほうがいいんじゃない？」%K%P
-Izumi「You're going to get wet on the way back anyway, so%Nwouldn't it be better if you took a shower at the shop?」%K%P
+Izumi「You're going to get wet on the way back anyway, so wouldn't it be better if you took a shower at the shop?」%K%P
 0xF0
 誠「ああ、そうだな」%K%P
 Makoto「Yeah, you're right.」%K%P
@@ -30,10 +30,10 @@ Makoto「Well then, just wait a minute.」%K%P
 Leaving with those words, I head towards my room.%K%P
 0x11C
 振り返ると、いづみさんは玄関のドアにもたれかかって待っていた。%K%P
-When I look back, I see Izumi-san leaning on the front%Ndoor, waiting.%K%P
+When I look back, I see Izumi-san leaning on the front door, waiting.%K%P
 0x128
 ぼうっとのぼせたような顔……。%K%P
-Her face looks flushed, like all the blood's rushed to her%Nhead...%K%P
+Her face looks flushed, like all the blood's rushed to her head...%K%P
 0x134
 （やっぱり、ちょっと熱っぽいのかもしれないな）%K%P
 (So she is a bit feverish after all...)%K%P
@@ -60,7 +60,7 @@ For some reason, Kurumi's there.%K%P
 She's in the middle of changing her clothes.%K%P
 0x1F4
 頭からすっぽりと上着をかぶり、後ろ向きで立っていた。%K%P
-Her back is turned to me, but all of her upper clothes are%Nraised over her head.%K%P
+Her back is turned to me, but all of her upper clothes are raised over her head.%K%P
 0x200
 つるりとなめらかな……白い背中が見えた。%K%P
 I can see her smooth... white back.%K%P
@@ -102,7 +102,7 @@ I forcefully shut the door as I panic.%K%P
 Izumi「What's wrong, Makoto-kun?」%K%P
 0x324
 異変に気づいたいづみさんが、オレの元に駆け寄って来た。%K%P
-Having notice my change in behavior, Izumi-san comes%Nrushing over to me.%K%P
+Having notice my change in behavior, Izumi-san comes rushing over to me.%K%P
 0x330
 誠「……………………」%K%P
 Makoto「...」%K%P
@@ -141,7 +141,7 @@ Kurumi「... Oh, Onee-chan.」%K%P
 Kurumi「What's wrong, you two? How'd you get so soaked?」%K%P
 0x410
 くるみはオレといづみさんの顔を、交互にキョロキョロと見つめていた。%K%P
-Kurumi looks back and forth between me and Izumi-san's%Nfaces.%K%P
+Kurumi looks back and forth between me and Izumi-san's faces.%K%P
 0x41C
 いづみ「ねえ？　どうかしたの？」%K%P
 Izumi「Hey, did something happen?」%K%P
@@ -159,7 +159,7 @@ Kurumi「Ah, that's right!」%K%P
 Kurumi「Did you know? Umm, umm... Kurumi knows he peeked!」%K%P
 0x468
 くるみ「着替えてるとこを、いきなりのぞかれたからぁ〜」%K%P
-Kurumi「He suddenly peeked at her while she was changing her%Nclothes!」%K%P
+Kurumi「He suddenly peeked at her while she was changing her clothes!」%K%P
 0x474
 いづみ「誰に？」%K%P
 Izumi「Who peeked?」%K%P
@@ -198,13 +198,13 @@ Makoto「'The same age'...?」%K%P
 Kurumi「After all, Kurumi's ... twenty years old.」%K%P
 0x524
 くるみ「今年で２１になるんだから、誠くんと同い年、でしょ？」%K%P
-Kurumi「She'll turn 21 this year, so until then, she's the same age%Nas Makoto-kun, right?」%K%P
+Kurumi「She'll turn 21 this year, so until then, she's the same age as Makoto-kun, right?」%K%P
 0x540
 その瞬間%T030……時が止まった。%K%P
 At that instant... time stops.%K%P
 0x54C
 体中が凍りつき、今にも砕けてしまいそうだった。%K%P
-My body is frozen all over, feeling like it could shatter at%Nany second.%K%P
+My body is frozen all over, feeling like it could shatter at any second.%K%P
 0x574
 （くるみの背中……%T015消えた傷痕……）%K%P
 (The scar on Kurumi's back... has disappeared...)%K%P
@@ -216,7 +216,7 @@ My body is frozen all over, feeling like it could shatter at%Nany second.%K%P
 (Kurumi's past... has changed...)%K%P
 0x598
 （誘拐された歴史が……%T015消え失せた……）%K%P
-(The history where she was kidnapped... has been%Nerased...)%K%P
+(The history where she was kidnapped... has been erased...)%K%P
 0x5A4
 （この歴史の中では……）%K%P
 (In this history...)%K%P
@@ -228,7 +228,7 @@ My body is frozen all over, feeling like it could shatter at%Nany second.%K%P
 I take a deep breath, but I can't exhale.%K%P
 0x5C8
 ましてや声なんて、出るはずがなかった。%K%P
-To say nothing less of my voice, which also won't come%Nout.%K%P
+To say nothing less of my voice, which also won't come out.%K%P
 0x5D4
 （ならば──遙はどうなる！？）%K%P
 (Then―what about Haruka!?)%K%P
@@ -243,13 +243,13 @@ To say nothing less of my voice, which also won't come%Nout.%K%P
 (If that 「three year blank」 never happened, then...)%K%P
 0x604
 （──遙はこの歴史の中に──存在しないと！？）%K%P
-(―Does that mean that Haruka―doesn't exist in%Nthis history!?)%K%P
+(―Does that mean that Haruka―doesn't exist in this history!?)%K%P
 0x618
 オレは弾かれたように駆け出した。%K%P
 I break into a run.%K%P
 0x624
 遙の部屋のドア……力任せに開け放つ。%K%P
-I throw open the door to Haruka's room with all my%Nstrength.%K%P
+I throw open the door to Haruka's room with all my strength.%K%P
 0x678
 ベッドの上には…………%K%N
 On the bed is...%K%N
@@ -273,7 +273,7 @@ I look around the room, but there's no sign of Haruka.%K%P
 I turn around, and run into Yuka's room.%K%P
 0x720
 ドアを開けたとたん、ムッと酒の臭いが部屋からあふれた。%K%P
-The instant I open the door, my nose is assaulted by the%Nstench of alcohol.%K%P
+The instant I open the door, my nose is assaulted by the stench of alcohol.%K%P
 0x738
 優夏「スーピースーピー……」%K%P
 Yuka「Zzz...」%K%P
@@ -282,16 +282,16 @@ Yuka「Zzz...」%K%P
 Yuka is widely stretched out on the bed.%K%P
 0x750
 その脇には、空になったビールビンが散乱している。%K%P
-Besides her are several empty beer cans, scattered%Naround her.%K%P
+Besides her are several empty beer cans, scattered around her.%K%P
 0x75C
 やはり、この部屋にも遙はいなかった。%K%P
 Haruka's not in this room either.%K%P
 0x7A4
 リビングに戻ったオレは、手当たりしだいにロッジの中を探し回った。%K%P
-I return to the living room, and frantically search%Neverywhere in the lodge for clues.%K%P
+I return to the living room, and frantically search everywhere in the lodge for clues.%K%P
 0x7B0
 風呂、%T015トイレ、%T015キッチン、%T015ロフトにも登ってみたが、どこにも遙の姿はなかった。%K%P
-I look in the bathroom, the restroom, the kitchen, and the%Nloft, but Haruka is nowhere to be found.%K%P
+I look in the bathroom, the restroom, the kitchen, and the loft, but Haruka is nowhere to be found.%K%P
 0x7BC
 （まさか本当に……遙は……）%K%P
 (It can't be... Haruka can't really be...)%K%P
@@ -309,7 +309,7 @@ Kurumi looks scared of me because of my frenzied state.%K%P
 I grab Izumi-san's hand, and rush out of the lodge...%K%P
 0x8AC
 雨にぬるぬると滑る坂道を、転がるように駆け降りる。%K%P
-I run down the hill road, which has become so slippery%Nfrom the rain that it feels like I'm rolling down it.%K%P
+I run down the hill road, which has become so slippery from the rain that it feels like I'm rolling down it.%K%P
 0x8CC
 いづみ「誠くん！　どういうこと！？」%K%P
 Izumi「Makoto-kun! What's going on!?」%K%P
@@ -351,7 +351,7 @@ Makoto「There was no scar on Kurumi's back...」%K%P
 Makoto「It's all... my fault...」%K%P
 0x988
 誠「鈴が消えたことも、トランプが消えたことも、神社が消えたことも」%K%P
-Makoto「The disappearance of the bell, the disappearance of%Nthe cards, and the disappearance of the shrine.」%K%P
+Makoto「The disappearance of the bell, the disappearance of the cards, and the disappearance of the shrine.」%K%P
 0x994
 誠「全部、オレが想ったから……」%K%P
 Makoto「It's all because of my thoughts...」%K%P
@@ -360,7 +360,7 @@ Makoto「It's all because of my thoughts...」%K%P
 Izumi「Huh!? W-Wait a minute, Makoto-kun!」%K%P
 0x9BC
 いづみ「『神社が消えた』って……それ、どういうこと？」%K%P
-Izumi「What do you mean by... 'the disappearance of the%Nshrine'?」%K%P
+Izumi「What do you mean by... 'the disappearance of the shrine'?」%K%P
 0x9C8
 誠「いづみさんには隠してたんだ……心配かけたくなくて……」%K%P
 Makoto「I hid that from you... I didn't want to make you worried...」%K%P
@@ -384,7 +384,7 @@ Izumi「...?」%K%P
 Makoto「I found the bell on the night of the 1st...」%K%P
 0xA34
 誠「前と同じように月浜で拾って、コンクリートのカケラで潰そうとしたんだ……」%K%P
-Makoto「I found it on Moon Beach, just like last time, and tried to%Nsmash it with a piece of concrete...」%K%P
+Makoto「I found it on Moon Beach, just like last time, and tried to smash it with a piece of concrete...」%K%P
 0xA40
 誠「でも……振り下ろしたコンクリートをどけてみたら……」%K%P
 Makoto「But... when I flipped the concrete over...」%K%P
@@ -408,7 +408,7 @@ She vacantly stares into space, motionless like stone.%K%P
 Izumi「Then what about the 'disappearance of the shrine'!?」%K%P
 0xA94
 誠「今日の午後……行ったんだよ……同じ道を通って……同じ石段を登って……」%K%P
-Makoto「This afternoon... I went... down the same road... up the%Nsame stone staircase...」%K%P
+Makoto「This afternoon... I went... down the same road... up the same stone staircase...」%K%P
 0xAA8
 いづみ「あの神社──司紀杜神社に行ったの！？」%K%P
 Izumi「You went―to the Shiki no Mori Shrine!?」%K%P
@@ -423,7 +423,7 @@ Makoto「There was no shrine there!」%K%P
 The rain continues to fall.%K%P
 0xAF4
 叩きつけるような冷たい雨は、容赦なく２人の体温を奪った。%K%P
-The cold rain mercilessly strikes down on us, slowly%Nsapping away our warmth.%K%P
+The cold rain mercilessly strikes down on us, slowly sapping away our warmth.%K%P
 0xB00
 誠「……オレは……オレは……」%K%P
 Makoto「... I... I...」%K%P
@@ -432,25 +432,25 @@ Makoto「... I... I...」%K%P
 Makoto「I firmly thought about how I wanted to destroy that bell...」%K%P
 0xB18
 誠「トランプなんて、絶対にやりたくないと強く想った……」%K%P
-Makoto「I firmly thought that 'I absolutely don't want to play%Ncards'...」%K%P
+Makoto「I firmly thought that 'I absolutely don't want to play cards'...」%K%P
 0xB24
 誠「くるみの傷に触れたときも──『こんなもの消えてしまえばいいのに！』──そう強く想ったんだ」%K%P
-Makoto「When I touched Kurumi's scar―I firmly thought%Nthat―'This thing should just disappear!'」%K%P
+Makoto「When I touched Kurumi's scar―I firmly thought that―'This thing should just disappear!'」%K%P
 0xB30
 誠「神社のことも、きっと同じ理由なんだと思う……」%K%P
 Makoto「I think the shrine disappeared for the same reason...」%K%P
 0xB3C
 誠「くるみの傷を消す為に……『空白の３年間』を消す為に……」%K%P
-Makoto「In order to erase Kurumi's scar... in order to erase that%N'three year blank'...」%K%P
+Makoto「In order to erase Kurumi's scar... in order to erase that 'three year blank'...」%K%P
 0xB48
 誠「オレはこの歴史の中から──神社の存在を抹消したんだ！」%K%P
 Makoto「I erased the existence of the shrine from this history!」%K%P
 0xB54
 『第３の特徴が証明されれば、空白の３年間を歴史から抹消できる』%K%P
-「If The Third Trait's been proven, then I can erase that%Nthree year blank from history.」%K%P
+「If The Third Trait's been proven, then I can erase that three year blank from history.」%K%P
 0xB60
 誠「あの夜のプールで、いづみさんそう言ってただろ？」%K%P
-Makoto「You said something like that at the pool last night, didn't%Nyou?」%K%P
+Makoto「You said something like that at the pool last night, didn't you?」%K%P
 0xB6C
 誠「そういう……ことなんだよ……」%K%P
 Makoto「And that's... how it is...」%K%P
@@ -468,7 +468,7 @@ Makoto「Yeah... that's why she said she was 'twenty years old'...」%K%P
 Makoto「Because the 'three year blank' disappeared...」%K%P
 0xBBC
 誠「いや、正確に言えば『空白の３年間』が埋まったから！」%K%P
-Makoto「No, to put it more accurately, the 'three year blank' was%Nburied!」%K%P
+Makoto「No, to put it more accurately, the 'three year blank' was buried!」%K%P
 0xBE0
 いづみ「そんな……そんなこと……」%K%P
 Izumi「Such... such a thing...」%K%P
@@ -477,7 +477,7 @@ Izumi「Such... such a thing...」%K%P
 Makoto「I don't want to believe it, but it's all the truth!」%K%P
 0xBF8
 誠「鈴が消え、トランプが消え、神社が消え、くるみの背中の傷痕が消えた……」%K%P
-Makoto「The bell disappeared, the shrine disappeared, the scar%Non Kurumi's scar disappeared...」%K%P
+Makoto「The bell disappeared, the shrine disappeared, the scar on Kurumi's scar disappeared...」%K%P
 0xC04
 誠「次に消えるのは…………………………」%K%P
 Makoto「So the next thing that'll disappear is...」%K%P
@@ -489,22 +489,22 @@ Izumi「―Haruka!?」%K%P
 We break off into a run again.%K%P
 0xC54
 どしゃ降りの雨を、かきわけるようにして走った。%K%P
-We run as fast as we can, as if we're trying our hardest%Nto push our way through the pouring rain.%K%P
+We run as fast as we can, as if we're trying our hardest to push our way through the pouring rain.%K%P
 0xC60
 激しく打ちつける雨音に、胸はザワザワと震えていた……。%K%P
-The intense sound of the rainfall echoes in my trembling%Nchest...%K%P
+The intense sound of the rainfall echoes in my trembling chest...%K%P
 0xD08
 海岸線の道に出たところで、オレはいづみさんにこう告げた。%K%P
-When we arrive at the coastline road, I speak to%NIzumi-san.%K%P
+When we arrive at the coastline road, I speak to Izumi-san.%K%P
 0xD14
 誠「いづみさんは、この近辺を探してくれ！　姫ヶ浜、展望公園、月浜……」%K%P
-Makoto「Izumi-san, you look around here! Check Princess Beach,%NViewpoint Park, Moon Beach...」%K%P
+Makoto「Izumi-san, you look around here! Check Princess Beach, Viewpoint Park, Moon Beach...」%K%P
 0xD38
 いづみ「うん、わかった……」%K%P
 Izumi「Yes, I understand...」%K%P
 0xD44
 誠「オレは港の方を探して来る。お店の自転車、借りてくから！」%K%P
-Makoto「I'll go look around the harbor. I'm gonna borrow the bike%Nat the shop!」%K%P
+Makoto「I'll go look around the harbor. I'm gonna borrow the bike at the shop!」%K%P
 0xD50
 いづみ「うん……」%K%P
 Izumi「Yes...」%K%P
@@ -513,28 +513,28 @@ Izumi「Yes...」%K%P
 Izumi-san gives a deep nod.%K%P
 0xD70
 それを合図に、オレは東へ、いづみさんは西へと向かって駆け出して行った。%K%P
-With that, I start running to the east, while Izumi-san%Nstarts running to the west.%K%P
+With that, I start running to the east, while Izumi-san starts running to the west.%K%P
 0xDC4
 水に濡れたアスファルトを蹴飛ばしながら、ひたすら東へ向かって走り続ける。%K%P
-Filled with determination, I kick off the wet asphalt as I%Ncontinue to run east.%K%P
+Filled with determination, I kick off the wet asphalt as I continue to run east.%K%P
 0xDD0
 走りながら暗闇の中に目をこらすが、降りしきる雨のせいで、視界は最悪だった。%K%P
-While running in the darkness, I stare straight ahead, but%Nbecause of the heavy downpour, my field of vision is%Nvery limited.%K%P
+While running in the darkness, I stare straight ahead, but because of the heavy downpour, my field of vision is very limited.%K%P
 0xDDC
 誠「遙ぁーっ！」%K%P
 Makoto「HARUKAAA!」%K%P
 0xDE8
 叫んでみても、その声はたちまち雨音にかき消されてしまった。%K%P
-I shout, but my voice is drowned out by the roaring of%Nthe rain.%K%P
+I shout, but my voice is drowned out by the roaring of the rain.%K%P
 0xDF4
 つるりと、濡れた路面に足をとられて片手をつく。%K%P
-Suddenly, I trip on the wet road, but I block my fall with a%Nhand.%K%P
+Suddenly, I trip on the wet road, but I block my fall with a hand.%K%P
 0xE00
 すぐに体勢を立て直して走り続ける。%K%P
 I quickly get back up and continue to run.%K%P
 0xE0C
 絶え間なく降り注ぐ雨水は、氾濫した川のように流れていた。%K%P
-There are no gaps between the raindrops. It's as if I'm%Nrunning through a flooding river.%K%P
+There are no gaps between the raindrops. It's as if I'm running through a flooding river.%K%P
 0xE44
 ようやくルナビーチの前についた。%K%P
 I finally arrive at Lunabeach.%K%P
@@ -543,10 +543,10 @@ I finally arrive at Lunabeach.%K%P
 But I have no time to catch my breath.%K%P
 0xE5C
 オレは脇に停めてあった自転車に飛び乗ると、そのペダルを思い切り踏み込んだ。%K%P
-I jump onto the bike parked on the side, and pump the%Npedals with all my strength.%K%P
+I jump onto the bike parked on the side, and pump the pedals with all my strength.%K%P
 0xE94
 雨にけむる闇の中を、ただガムシャラに突き抜けて行く……。%K%P
-I pierce through the raining, heavy darkness like a%Nspeeding bullet...%K%P
+I pierce through the raining, heavy darkness like a speeding bullet...%K%P
 0xEA0
 大粒のしずくが、殴りつけるように全身を打った。%K%P
 The large raindrops beat against my whole body.%K%P
@@ -588,10 +588,10 @@ She's not here...%K%P
 Haruka isn't here either...%K%P
 0xFC0
 砕け散る波しぶきは、黒い霧となってオレの体を包んでいた。%K%P
-The crashing waves become a black fog that envelops%Nmy body.%K%P
+The crashing waves become a black fog that envelops my body.%K%P
 0xFCC
 大地を揺さぶるような怒涛のうなりが、雨の中に響いていた。%K%P
-The roar of the billows of waves that feel like they could%Nshake the earth echoes in the rain.%K%P
+The roar of the billows of waves that feel like they could shake the earth echoes in the rain.%K%P
 0x1030
 ………………。%N…………。%N……。%K%P
 ... ... ...%K%P
@@ -603,19 +603,19 @@ I get back on the bike, and go back on the road.%K%P
 The shopping district is like a ghost town...%K%P
 0x1128
 ぬかるんだ道にハンドルを取られながらも、一心不乱に走り続けた……。%K%P
-Although the wet road makes me lose control of the%Nhandles, I keep pedaling with everything I've got...%K%P
+Although the wet road makes me lose control of the handles, I keep pedaling with everything I've got...%K%P
 0x1160
 海岸線の道……水を切って突き進む。%K%P
 I plow through the coastline road.%K%P
 0x116C
 突き刺すような冷たい雨に、手足の感覚は麻痺していた。%K%P
-The piercing cold rain has numbed all sensation in my%Nlimbs.%K%P
+The piercing cold rain has numbed all sensation in my limbs.%K%P
 0x1178
 それでもなお、オレは足を止めなかった。%K%P
 But my legs don't stop.%K%P
 0x1184
 はあはあと息を切らしながら、全力でペダルを踏み続けた。%K%P
-I keep on pedaling with all my might even though I'm out of%Nbreath.%K%P
+I keep on pedaling with all my might even though I'm out of breath.%K%P
 0x11A0
 ──と、そのとき！%K%P
 ―Then all of sudden!%K%P
@@ -627,7 +627,7 @@ A sudden curve appears in front of me!%K%P
 I slam on the bike's brakes, but it's too late.%K%P
 0x11C4
 濡れたアスファルトに後輪が滑り、オレの体は宙を舞った。%K%P
-The rear wheel slips on the wet asphalt, and my body%Ngoes dancing in midair.%K%P
+The rear wheel slips on the wet asphalt, and my body goes dancing in midair.%K%P
 0x13E8
 水の上を転がりながら……%K%N
 I roll on the water...%K%N
@@ -756,7 +756,7 @@ In my arms, the bewildered Haruka draws back a little.%K%P
 I can feel her back faintly trembling.%K%P
 0x16E8
 誠「だけど遙、どうしてこんな所に？　傘もささないで……」%K%P
-Makoto「But what are you doing in a place like this? You don't%Neven have an umbrella...」%K%P
+Makoto「But what are you doing in a place like this? You don't even have an umbrella...」%K%P
 0x16FC
 遙「う、うん……」%K%P
 Haruka「Y-Yes...」%K%P
@@ -813,19 +813,19 @@ She gives me an innocent, embarrassed smile.%K%P
 ... ... ...%K%P
 0x18E4
 豪雨の中、オレと遙は西に向かって歩き始めた。%K%P
-Haruka and I begin walking towards the west in the%Ndownpour.%K%P
+Haruka and I begin walking towards the west in the downpour.%K%P
 0x18F0
 遙はこのままロッジに帰すとして、オレは次にいづみさんを探さなければならなかった。%K%P
-Once Haruka goes back to the lodge, I have to look for%NIzumi-san...%K%P
+Once Haruka goes back to the lodge, I have to look for Izumi-san...%K%P
 0x18FC
 自転車を押すオレの隣で、遙は楽しそうに雨を浴びていた。%K%P
-Haruka enjoys bathing in the rain as I continue to push%Nthe bike.%K%P
+Haruka enjoys bathing in the rain as I continue to push the bike.%K%P
 0x1908
 いつの間にか、オレはすっかりと落ち着きを取り戻していた。%K%P
 Before I know it, I've completely calmed down.%K%P
 0x1914
 安心したとたん、体のあちこちに痛みを覚えた。%K%P
-But the moment I regain my cool, I feel pain in various%Nplaces over my body.%K%P
+But the moment I regain my cool, I feel pain in various places over my body.%K%P
 0x1920
 さっき自転車で転んだせいだろう。%K%P
 It's probably because I fell from the bike earlier.%K%P
@@ -840,7 +840,7 @@ Suddenly, I decide to look there...%K%P
 (Ugh...)%K%P
 0x195C
 ズボンのヒザの所が破け、真っ赤な血が流れ出しているのがわかった。%K%P
-My pants have torn at the knees, and I can see fresh%Nred blood gushing out of it.%K%P
+My pants have torn at the knees, and I can see fresh red blood gushing out of it.%K%P
 0x1968
 誠「なあ、遙？　ちょっと、自転車持っててくれないか？」%K%P
 Makoto「Say, Haruka? Could you hold on to the bike for a minute?」%K%P
@@ -897,10 +897,10 @@ That's not what it looked like to me.%K%P
 Haruka slowly bends over, and tries to pick up the bike.%K%P
 0x1B18
 降り注ぐ雨が、遙の背中に吸い込まれていくように見えた。%K%P
-The pouring rain looks like it's beginning to be soaked up%Nby Haruka's back.%K%P
+The pouring rain looks like it's beginning to be soaked up by Haruka's back.%K%P
 0x1B24
 その姿が、白い霧の中に薄れていくように見えた。%K%P
-Her figure looks like it's beginning to fade into the white%Nmist.%K%P
+Her figure looks like it's beginning to fade into the white mist.%K%P
 0x1B30
 誠「……は……はるか……」%K%P
 Makoto「... Ha... Haruka...」%K%P
@@ -933,7 +933,7 @@ Makoto「Haruka!」%K%P
 I chase after Haruka, running as fast as I can...%K%P
 0x1BD4
 遙は道の真ん中で立ち止まると、しゃがみ込んで何かを抱きかかえようとしていた。%K%P
-Haruka has stopped in the middle of the street,%Ncrouched over, trying to hold something in her arms.%K%P
+Haruka has stopped in the middle of the street, crouched over, trying to hold something in her arms.%K%P
 0x1C6C
 ──いづみさんだ！！%K%P
 ―It's Izumi-san!!%K%P
@@ -975,7 +975,7 @@ Just as I try to stand up!%K%P
 It's the headlights of a car...%K%P
 0x1DA8
 カーブの向こうから、真っ赤な車が猛スピードで走って来るのが見えた。%K%P
-I see a bright red car coming this way from the other%Nside of the curve, driving extremely fast.%K%P
+I see a bright red car coming this way from the other side of the curve, driving extremely fast.%K%P
 0x1DE4
 （──このままじゃ、いづみさんが！！！）%K
 (―At this rate, Izumi-san will...!!!)%K
@@ -990,7 +990,7 @@ Stop the car!
 (―At this rate, Izumi-san will...!!!)%K%P
 0x1E50
 オレはいづみさんの脇に手を入れ、腰を上げた。%K%P
-I put my hands around Izumi-san's sides, and lift her%Nbody up.%K%P
+I put my hands around Izumi-san's sides, and lift her body up.%K%P
 0x1E5C
 そのまま道の端に引きずって行こうと……%K%P
 I try dragging her body to the edge of the road...%K%P
@@ -1035,7 +1035,7 @@ It's moving as fast as a bolt of lightning.%K%P
 (―At this rate, Izumi-san will...!!!)%K%P
 0x2124
 オレはいづみさんの脇に手を入れ、腰を上げた。%K%P
-I put my hands around Izumi-san's sides, and lift her%Nbody up.%K%P
+I put my hands around Izumi-san's sides, and lift her body up.%K%P
 0x2130
 そのまま道の端に引きずって行こうと……%K%P
 I try dragging her body to the edge of the road...%K%P
@@ -1068,7 +1068,7 @@ It's moving as fast as a bolt of lightning.%K%P
 Haruka rushes out in the middle of the road!%K%P
 0x23A4
 大きく手を振りながら、車の前に敢然と立ちはだかった！%K%P
-She waves her hands widely as she boldly blocks the%Npath of the car!%K%P
+She waves her hands widely as she boldly blocks the path of the car!%K%P
 0x23CC
 気づいた車が急ブレーキをかける。%K%P
 Finally noticing her, the driver quickly slams the brakes.%K%P
@@ -1083,16 +1083,16 @@ The car slides on the wet road...%K%P
 It still hasn't slowed down.%K%P
 0x2408
 凛とし、大の字になって行く手をはばむ遙……。%K%P
-Haruka, standing in a spread-eagle position, is still%Nwaving her arms...%K%P
+Haruka, standing in a spread-eagle position, is still waving her arms...%K%P
 0x2414
 その体を透かして、迫り来る真っ赤な車体が見えた。%K%P
-Through the openings in her body, I see the red car is%Nstill approaching.%K%P
+Through the openings in her body, I see the red car is still approaching.%K%P
 0x2420
 誠「──遙っ！」%K%P
 Makoto「―Haruka!」%K%P
 0x2498
 直後──%T030オレは信じられない光景を目の当たりにした。%K%P
-Right then―%T030an unbelievable scene occurs%Nbefore my eyes.%K%P
+Right then―%T030an unbelievable scene occurs before my eyes.%K%P
 0x24A4
 するりと、遙の体が車体の中に呑み込まれていったのだ。%K%P
 Haruka's body is swallowed up into the body of the car.%K%P
@@ -1110,13 +1110,13 @@ The car approaches us with great speed...%K%P
 The lump of iron swoops down on us!%K%P
 0x25E4
 背中に、砕けるような衝撃……。%K%P
-I'm hit with an impact so strong it feels like it could break%Nmy back...%K%P
+I'm hit with an impact so strong it feels like it could break my back...%K%P
 0x25F0
 オレの体は高く弾き飛ばされた。%K%P
 My body is sent flying high in the air.%K%P
 0x25FC
 いづみさんの体は人形のように道の上を転がっていった。%K%P
-Izumi-san's body is lying on the road like a puppet%Nwhose strings have been cut.%K%P
+Izumi-san's body is lying on the road like a puppet whose strings have been cut.%K%P
 0x2608
 ………………………………………………。%N………………………………………………。%K%P
 ... ...%K%P
@@ -1125,10 +1125,10 @@ Izumi-san's body is lying on the road like a puppet%Nwhose strings have been cut
 Makoto「Haruka! I'll leave Izumi-san to you!」%K%P
 0x2668
 瞬時に判断したオレは、いづみさんの体を遙にあずけ、道の真ん中に飛び出した。%K%P
-The instant I make my decision, I entrust Izumi-san to%NHaruka, and rush out into the middle of the road.%K%P
+The instant I make my decision, I entrust Izumi-san to Haruka, and rush out into the middle of the road.%K%P
 0x2674
 『どんなことがあっても、いづみさんを守り抜いてみせる！』%K%P
-「No matter what happens, I will protect Izumi-san to the%Nend!」%K%P
+「No matter what happens, I will protect Izumi-san to the end!」%K%P
 0x2680
 （……命を……懸けてでも……）%K%P
 (... Even if... it costs me my life...)%K%P
@@ -1137,7 +1137,7 @@ The instant I make my decision, I entrust Izumi-san to%NHaruka, and rush out int
 I boldly block the path of the car.%K%P
 0x2698
 大きく手を振って危険を知らせた。%K%P
-I wave my arms widely in order to catch the driver's%Nattention and alert them to the danger.%K%P
+I wave my arms widely in order to catch the driver's attention and alert them to the danger.%K%P
 0x26A4
 車はすぐそこまで近づいている。%K%P
 The car gets closer and closer.%K%P
@@ -1161,7 +1161,7 @@ It still hasn't slowed down.%K%P
 The body of the car before my eyes approaches me.%K%P
 0x2720
 凛とし、大の字になって行く手をはばむ。%K%P
-As I stand in a spread-eagle position, I continue to%Nwidely wave my arms.%K%P
+As I stand in a spread-eagle position, I continue to widely wave my arms.%K%P
 0x27DC
 気がつくと、宙を舞っていた。%K%P
 When I come to my senses, I'm dancing in midair.%K%P
@@ -1176,7 +1176,7 @@ Large raindrops are floating in the air.%K%P
 ...%K%P
 0x2A78
 砕けるような衝撃とともに、オレの体は地面に落ちた。%K%P
-I fall onto the ground, crashing into it with enough force%Nto break my bones.%K%P
+I fall onto the ground, crashing into it with enough force to break my bones.%K%P
 0x2A90
 ………………………………………………。%K%P
 ...%K%P
@@ -1185,10 +1185,10 @@ I fall onto the ground, crashing into it with enough force%Nto break my bones.%K
 Strangely, there's no pain...%K%P
 0x2AC4
 痛みだけではなく、体中のすべての感覚を失っていた。%K%P
-It's not just pain; I've lost all sensation throughout my%Nentire body.%K%P
+It's not just pain; I've lost all sensation throughout my entire body.%K%P
 0x2AD0
 立ち上がろうとしたが、どこにどうやって力を入れればいいのかわからない。%K%P
-I try to stand up, but I'm not sure where or how to put%Nstrength in my body.%K%P
+I try to stand up, but I'm not sure where or how to put strength in my body.%K%P
 0x2ADC
 かろうじて、首だけを動かすことができた。%K%P
 I just barely manage to move my head.%K%P
@@ -1224,13 +1224,13 @@ Haruka「―M-Makoto!? ―Are you okay!?」%K%P
 ... I finally reach the two of them.%K%P
 0x2B74
 遙は、道の上に座り込んで、いづみさんをしっかりと胸に抱きかかえていた。%K%P
-Haruka is sitting on the road, firmly holding Izumi-san in%Nher arms.%K%P
+Haruka is sitting on the road, firmly holding Izumi-san in her arms.%K%P
 0x2B90
 いづみさんをかばおうとしたのか、遙の背中は車の方を向いていた。%K%P
-Haruka was trying to protect Izumi-san, with her back%Nfacing the car.%K%P
+Haruka was trying to protect Izumi-san, with her back facing the car.%K%P
 0x2B9C
 その背中と車のバンパーの間は、わずが１０センチ足らず……。%K%P
-There's only a mere 10 cm between Haruka's back and%Nthe car's bumper...%K%P
+There's only a mere 10 cm between Haruka's back and the car's bumper...%K%P
 0x2BA8
 オレはほっと胸をなでおろした。%K%P
 I breathe a sigh of relief.%K%P
@@ -1311,13 +1311,13 @@ Her tears sometimes dissolve in the rain...%K%P
 Haruka「... Onee-chan...」%K%P
 0x2D34
 遙は手の平で、いづみさんの頬をぬぐった。%K%P
-Haruka wipes the tears off Izumi-san's cheek with her%Npalm.%K%P
+Haruka wipes the tears off Izumi-san's cheek with her palm.%K%P
 0x2D40
 そっと、%T030優しく触れるように……。%K%P
 Her touch is soft and kind...%K%P
 0x2D54
 清らかに澄んだ透明なしずくが、２人の体を包んでいた。%K%P
-The two of them are wrapped up in the clean,%Ntransparent raindrops.%K%P
+The two of them are wrapped up in the clean, transparent raindrops.%K%P
 0x2D7C
 車のドアが開いた。%K%P
 The car door opens.%K%P
@@ -1332,10 +1332,10 @@ Driver「Umm... Err...」%K%P
 Driver「... Are you... all right?」%K%P
 0x2DB8
 オレは口を結んだまま、彼の肩にポンと手をかけた。%K%P
-I silently reach my hand out to give him a pat on the%Nshoulder.%K%P
+I silently reach my hand out to give him a pat on the shoulder.%K%P
 0x2DC4
 彼はどきまぎとうろたえながら、ぎこちない動作で視線をそらした。%K%P
-He gets flustered, and awkwardly averts his gaze as he%Nmoves back.%K%P
+He gets flustered, and awkwardly averts his gaze as he moves back.%K%P
 0x2DD0
 視線の先には抱き合う２人……。%K%P
 He looks over at the other two, who are embracing...%K%P
@@ -1386,7 +1386,7 @@ Their voices sound distant.%K%P
 (... to... protect... Izumi... san...)%K%P
 0x3130
 もうろうとした意識の中……目の前が白く染まっていく……。%K%P
-My vague consciousness is fading... Everything before%Nme begins to turn white...%K%P
+My vague consciousness is fading... Everything before me begins to turn white...%K%P
 0x313C
 ぼうっと何かが霞んで見えた……。%K%P
 I can vaguely see something faint...%K%P
@@ -1404,13 +1404,13 @@ And beyond it... I see a coldly shining... silver... light...%K%P
 In that instant, my consciousness fades...%K%P
 0x31C0
 『どんなことがあっても、いづみさんを守り抜いてみせる！』%K%P
-「No matter what happens, I will protect Izumi-san until the%Nend!」%K%P
+「No matter what happens, I will protect Izumi-san until the end!」%K%P
 0x31CC
 オレは再び立ち上がった。%K%P
 I stand up again.%K%P
 0x31D8
 グッと足を踏みしめて、いづみさんの体を持ち上げた。%K%P
-With my feet firmly on the ground, I pick up Izumi-san's%Nbody.%K%P
+With my feet firmly on the ground, I pick up Izumi-san's body.%K%P
 0x31E4
 車はすぐそこまで近づいている。%K%P
 The car is getting closer and closer.%K%P
@@ -1428,7 +1428,7 @@ It's moving as fast as a bolt of lightning.%K%P
 Haruka rushes out in the middle of the road!%K%P
 0x3220
 大きく手を振りながら、車の前に敢然と立ちはだかった！%K%P
-She waves her hands widely as she boldly blocks the%Npath of the car!%K%P
+She waves her hands widely as she boldly blocks the path of the car!%K%P
 0x3248
 気づいた車が急ブレーキをかける。%K%P
 Finally noticing her, the driver quickly slams the brakes.%K%P
@@ -1443,16 +1443,16 @@ The car slides on the wet road...%K%P
 It still hasn't slowed down.%K%P
 0x3284
 凛とし、大の字になって行く手をはばむ遙……。%K%P
-Haruka, standing in a spread-eagle position, is still%Nwaving her arms...%K%P
+Haruka, standing in a spread-eagle position, is still waving her arms...%K%P
 0x3290
 その体を透かして、迫り来る真っ赤な車体が見えた。%K%P
-Through the openings in her body, I see the red car is%Nstill approaching.%K%P
+Through the openings in her body, I see the red car is still approaching.%K%P
 0x329C
 誠「──遙っ！」%K%P
 Makoto「―Haruka!」%K%P
 0x3314
 直後──%T030オレは信じられない光景を目の当たりにした。%K%P
-Right then―an unbelievable scene occurs before my%Neyes.%K%P
+Right then―an unbelievable scene occurs before my eyes.%K%P
 0x3320
 するりと、遙の体が車体の中に呑み込まれていったのだ。%K%P
 Haruka's body is swallowed up into the body of the car.%K%P
@@ -1473,10 +1473,10 @@ The lump of iron swoops down on us!%K%P
 (If nothing else, I have to at least save Izumi-san's life!)%K%P
 0x33BC
 ──瞬間、渾身の力を込めて大地を蹴った！%K%P
-―In that instant, I kick off the ground with all the%Nstrength I have!%K%P
+―In that instant, I kick off the ground with all the strength I have!%K%P
 0x3478
 脇腹に、砕けるような衝撃……。%K%P
-The car smashes right into my flank with enough force to%Nbreak it...%K%P
+The car smashes right into my flank with enough force to break it...%K%P
 0x3484
 オレの体は、強く前方に弾き飛ばされた……。%K%P
 My body is sent flying forward...%K%P
@@ -1500,10 +1500,10 @@ I receive the full impact of the crash...%K%P
 Strangely, there's no pain...%K%P
 0x3770
 痛みだけではなく、体中のすべての感覚を失っていた。%K%P
-It's not just pain; I've lost all sensation throughout my%Nentire body.%K%P
+It's not just pain; I've lost all sensation throughout my entire body.%K%P
 0x377C
 立ち上がろうとしたが、どこにどうやって力を入れればいいのかわからない。%K%P
-I try to stand up, but I'm not sure where or how to put%Nstrength in my body.%K%P
+I try to stand up, but I'm not sure where or how to put strength in my body.%K%P
 0x3788
 仰向けになったオレの体……その上に、いづみさんはいた。%K%P
 My body is lying face up... On top of me is Izumi-san.%K%P
@@ -1512,10 +1512,10 @@ My body is lying face up... On top of me is Izumi-san.%K%P
 Izumi「... Ma-Makoto-kun!」%K%P
 0x37A8
 いづみさんは路面に手をつき、オレの顔をのぞき込んでいた。%K%P
-Izumi-san puts her hands on the road, and looks at my%Nface.%K%P
+Izumi-san puts her hands on the road, and looks at my face.%K%P
 0x37B4
 その表情と潤んだ声に、いづみさんの無事を知ることができた。%K%P
-From her expression and tear-choked voice, I can tell%Nthat Izumi-san is all right.%K%P
+From her expression and tear-choked voice, I can tell that Izumi-san is all right.%K%P
 0x37C0
 （……い……%T015いづみさん……）%K%P
 (... I... Izumi-san...)%K%P
@@ -1524,13 +1524,13 @@ From her expression and tear-choked voice, I can tell%Nthat Izumi-san is all rig
 I try to mutter this...%K%P
 0x37D8
 ……けれど、言葉の代わりに口からあふれたのは、大量の赤い血だった。%K%P
-But instead of words coming out of my mouth...%Noverflowing blood comes out instead.%K%P
+But instead of words coming out of my mouth... overflowing blood comes out instead.%K%P
 0x37E4
 がぶがぶとあふれ出す鮮血が、水の中に溶けていく……。%K%P
-It flows from my mouth and begins to dissolve in the%Nwater...%K%P
+It flows from my mouth and begins to dissolve in the water...%K%P
 0x37F0
 腕を伸ばし、そのなめらか頬に触れようとしたが、体はまるで言うことを聞かない。%K%P
-I try to crawl over to Izumi-san's side, as if my body's not%Nlistening to what it's being told.%K%P
+I try to crawl over to Izumi-san's side, as if my body's not listening to what it's being told.%K%P
 0x3804
 いづみ「誠くん！　誠くん！」%K%P
 Izumi「Makoto-kun! Makoto-kun!」%K%P
@@ -1572,7 +1572,7 @@ Izumi「Because I love you too, Makoto-kun!」%K%P
 Her voice... sounds distant...%K%P
 0x393C
 もうろうとした意識の中……%T015目の前が白く染まっていく……。%K%P
-My vague consciousness is fading... Everything before%Nme is begininng to turn white...%K%P
+My vague consciousness is fading... Everything before me is begininng to turn white...%K%P
 0x3948
 オレはゆっくりと……%T015まぶたを閉じた……。%K%P
 I slowly... close my eyes...%K%P

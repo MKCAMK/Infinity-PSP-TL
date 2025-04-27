@@ -18,16 +18,16 @@ Why did Izumi-san ask me to team up with her...?%K%P
 Izumi-san isn't frightened at all.%K%N
 0xA0
 だいたい怖いなら、初めから反対する筈だ。%K%P
-If she were scared, she would have opposed going on%Nthis Test of Courage from the start...%K%P
+If she were scared, she would have opposed going on this Test of Courage from the start...%K%P
 0xAC
 それにいづみさんは、この辺の地理に詳しいのだから、本当に危険なところだったとしたら、くるみの提案を許したりはしないだろう。%K%P
-Not to mention that since Izumi-san knows this island%Ninside out, she would have forbidden Kurumi from holding%Nthe Test of Courage here if it had been too dangerous.%K%P
+Not to mention that since Izumi-san knows this island inside out, she would have forbidden Kurumi from holding the Test of Courage here if it had been too dangerous.%K%P
 0xB8
 あの時、神社のミステリーツアーを断固反対した時のように……。%K%P
 Just like the time she strictly forbade the Mystery Tour...%K%P
 0xC4
 だとしたら……。どうしてもオレと組みたかった理由は、１つしか考えられない。%K%P
-If that's the case... then I don't know why she was so%Ndetermined to team up with me.%K%P
+If that's the case... then I don't know why she was so determined to team up with me.%K%P
 0xD0
 そうだとしたら……。%K%P
 I might as well ask her...%K%P
@@ -57,16 +57,16 @@ Why is Izumi-san happy that we were teamed up...?%K%P
 Izumi-san isn't frightened at all.%K%N
 0x14C
 だいたい怖いなら、初めから反対する筈だ。%K%P
-If she were scared, she would have opposed going on%Nthis Test of Courage from the start...%K%P
+If she were scared, she would have opposed going on this Test of Courage from the start...%K%P
 0x158
 それにいづみさんは、この辺の地理に詳しいのだから、本当に危険なところだったとしたら、くるみの提案を許したりはしないだろう。%K%P
-Not to mention that since Izumi-san knows this island%Ninside out, she would have forbade Kurumi from holding%Nthe Test of Courage here if it had been too dangerous.%K%P
+Not to mention that since Izumi-san knows this island inside out, she would have forbade Kurumi from holding the Test of Courage here if it had been too dangerous.%K%P
 0x164
 あの時、神社のミステリーツアーを断固反対した時のように……。%K%P
 Just like the time she strictly forbade the Mystery Tour...%K%P
 0x170
 だとしたら……。どうしてもオレと組みたかった理由は、１つしか考えられない。%K%P
-If that's the case... then I don't know why she wanted to%Nbe teamed up with me.%K%P
+If that's the case... then I don't know why she wanted to be teamed up with me.%K%P
 0x17C
 そうだとしたら……。%K%P
 I might as well ask her...%K%P
@@ -87,7 +87,7 @@ Izumi「...」%K%P
 Makoto「I'm just curious.」%K%P
 0x1E4
 ふと足を止めて、しばらく考え込むいづみさん。%K%P
-Izumi-san suddenly stops walking, and ponders on it for%Na moment.%K%P
+Izumi-san suddenly stops walking, and ponders on it for a moment.%K%P
 0x1F0
 やがて、そっと口を開いた。%K%P
 Finally, she begins to speak.%K%P
@@ -114,7 +114,7 @@ Makoto「Me...?」%K%P
 Izumi「Do you remember our promise from yesterday?」%K%P
 0x26C
 いづみ「予知のこと『後でゆっくり話しましょうね』って、私そう言ったわよね？」%K%P
-Izumi「I said that I wanted to have a long talk to you about your%Npremonitions, right?」%K%P
+Izumi「I said that I wanted to have a long talk to you about your premonitions, right?」%K%P
 0x278
 ──予知。%K%P
 ―Premonitions.%K%P
@@ -123,16 +123,16 @@ Izumi「I said that I wanted to have a long talk to you about your%Npremonitions
 My blood runs cold at the mention of the word.%K%P
 0x290
 今まで見て見ぬフリをして隠してきたものを、いきなり目の前に突き付けられたような、%T030そんな感覚だった。%K%P
-I've been trying to avoid this dreaded conversation, but%Nnow there's no escape.%K%P
+I've been trying to avoid this dreaded conversation, but now there's no escape.%K%P
 0x29C
 いづみ「誠くん……昨日釣りに行く前に、車のバッテリーが上がってることを、言い当てたじゃない？」%K%P
-Izumi「Makoto-kun... Before we went fishing yesterday, you%Ncorrectly guessed that the car's battery was dead.」%K%P
+Izumi「Makoto-kun... Before we went fishing yesterday, you correctly guessed that the car's battery was dead.」%K%P
 0x2A8
 誠「…………」%K%P
 Makoto「...」%K%P
 0x2B4
 いづみ「それからおとといのお米のことも、地震のことも……誠くん、予知したでしょ？」%K%P
-Izumi「And the day before that... you had predicted the lack of%Nrice and the earthquake, right?」%K%P
+Izumi「And the day before that... you had predicted the lack of rice and the earthquake, right?」%K%P
 0x2C0
 誠「あと、さっきの夕飯のことも……でしょ？」%K%P
 Makoto「And tonight's dinner... right?」%K%P
@@ -141,7 +141,7 @@ Makoto「And tonight's dinner... right?」%K%P
 Izumi「... Yes.」%K%P
 0x2E8
 そう答えたいづみさんは、何やら考え込むようにしてうつむきながら、近くの石段に腰をおろした。%K%P
-She sits down on a nearby stone, her head lowered as%Nshe remains deep in thought.%K%P
+She sits down on a nearby stone, her head lowered as she remains deep in thought.%K%P
 0x2F4
 オレも、それにならって、となりに腰をおろす。%K%P
 Following suit, I sit down next to her.%K%P
@@ -171,13 +171,13 @@ Izumi「Something like premonitions is impossible...」%K%P
 Izumi「Why? Why do you know the future, Makoto-kun?」%K%P
 0x368
 顔をあげたいづみさんが、真剣なまなざしで見つめてくる。%K%P
-Izumi-san raises her head, and intensely stares into my%Neyes.%K%P
+Izumi-san raises her head, and intensely stares into my eyes.%K%P
 0x374
 いづみ「お願い……教えて……」%K%P
 Izumi「Please... tell me...」%K%P
 0x380
 哀願するいづみさんの瞳は、月明かりを映えて揺れていた。%K%P
-Izumi-san's questioning eyes shine and sway in the%Nmoonlight.%K%P
+Izumi-san's questioning eyes shine and sway in the moonlight.%K%P
 0x38C
 それはドキッとするほどに美しく、清らかな瞳だった。%K%P
 Those eyes are surprisingly clear and beautiful...%K%P
@@ -219,7 +219,7 @@ I feel that if it's Izumi-san, it's okay to tell her everything.%K%P
 No, maybe I just want to get it off my chest.%K%P
 0x430
 きっといづみさんだったら、心の奥にわだかまったこの苦悩を理解してくれるだろうと、そう思ったから。%K%P
-I think that if it's Izumi-san, then she'll definitely%Nsympathize with the agony that lurks within my heart.%K%P
+I think that if it's Izumi-san, then she'll definitely sympathize with the agony that lurks within my heart.%K%P
 0x43C
 誠「すべては、あの朝から始まったんだ……」%K%P
 Makoto「Everything began on that morning...」%K%P
@@ -240,7 +240,7 @@ Makoto「Where someone... died.」%K%P
 Izumi「Huh? ... A dream about death?」%K%P
 0x48C
 誠「それが誰だったのかは、どうしても思い出せないんだ」%K%P
-Makoto「No matter what, I can't remember who the one that died%Nwas.」%K%P
+Makoto「No matter what, I can't remember who the one that died was.」%K%P
 0x498
 誠「ただ、なぜか日付だけを覚えてて……」%K%P
 Makoto「For some reason, all I can remember is the date...」%K%P
@@ -252,13 +252,13 @@ Izumi「...」%K%P
 Makoto「Saturday... April 6th...」%K%P
 0x4C4
 誠「それがもしも、今までと同じように、予知だったとしたら……」%K%P
-Makoto「And if it's just like those premonitions I've been having%Nup until now, then...」%K%P
+Makoto「And if it's just like those premonitions I've been having up until now, then...」%K%P
 0x4D0
 きゅっと口を結んだまま、いづみさんはオレの話を聞いていた。%K%P
 Izumi-san silently listens.%K%P
 0x4DC
 ときどき視線をさまよわせながら、何か思いを巡らしているようだった。%K%P
-Occasionally, her eyes drift around as she thinks about%Nsomething.%K%P
+Occasionally, her eyes drift around as she thinks about something.%K%P
 0x4E8
 誠「オレひょっとして……オカシクなっちゃったのかな……」%K%P
 Makoto「I wonder if... I might have gone completely insane...」%K%P
@@ -321,7 +321,7 @@ I feel peaceful and secure in her arms.%K%P
 It's as if I'm being embraced by a goddess.%K%P
 0x61C
 いつの間にか、オレの中にあった苦しみは、あとかたもなく消え去っていた。%K%P
-Before I realize it, all traces of the agony within me has%Ndisappeared.%K%P
+Before I realize it, all traces of the agony within me has disappeared.%K%P
 0x628
 ………………。%N…………。%N……。%K%P
 ... ... ...%K%P
@@ -330,7 +330,7 @@ Before I realize it, all traces of the agony within me has%Ndisappeared.%K%P
 How long have we been like this?%K%P
 0x640
 まどろみの中を漂うように、時はゆっくりと過ぎていった。%K%P
-I feel like I'm dozing off, as time seems to be passing%Nslowly.%K%P
+I feel like I'm dozing off, as time seems to be passing slowly.%K%P
 0x64C
 最後にいづみさんは、オレの耳元で……%K%P
 In the end, Izumi-san...%K%P
@@ -339,13 +339,13 @@ In the end, Izumi-san...%K%P
 Izumi「Anyway, don't tell anyone else about the dream.」%K%P
 0x664
 いづみ「大丈夫……。誠くんは何も、心配しなくていいから……」%K%P
-Izumi「It's all right... because you have nothing to worry about,%NMakoto-kun...」%K%P
+Izumi「It's all right... because you have nothing to worry about, Makoto-kun...」%K%P
 0x670
 ……そうささやいて、立ち上がった。%K%P
 ... whispers this softly into my ear, and stands up.%K%P
 0x684
 安らぎの中で覚えた恍惚感は、その後しばらくの間、消えることはなかった。%K%P
-The ecstasy of tranquility that I felt lingered for a while%Nafterwards.%K%P
+The ecstasy of tranquility that I felt lingered for a while afterwards.%K%P
 0x694
 ぼんやりした意識がようやくハッキリとしてきた頃には、すでに肝だめしは終わってしまっていた。%K%P
-By the time my senses have cleared up, the Test of%NCourage has already ended.%K%P
+By the time my senses have cleared up, the Test of Courage has already ended.%K%P

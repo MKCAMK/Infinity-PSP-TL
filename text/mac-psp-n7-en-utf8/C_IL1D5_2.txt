@@ -6,22 +6,22 @@ text area offset and size:
 Before long, we arrive at Viewpoint Park.%K%P
 0x80
 いづみさんは公園のフェンスの脇に立ち、海を眺めている。%K%P
-Izumi-san is standing by the safety rail, gazing out at%Nthe ocean.%K%P
+Izumi-san is standing by the safety rail, gazing out at the ocean.%K%P
 0x8C
 海の方からかすかに吹いて来る潮風が、いづみさんの髪を揺らす。%K%P
-The light sea breeze blows by Izumi-san, swaying%Nthrough her hair.%K%P
+The light sea breeze blows by Izumi-san, swaying through her hair.%K%P
 0x98
 静かな潮騒の音と、時折打ち寄せる高波の音だけが、辺りにこだましていた。%K%P
-All I can hear around me is the calming roar of the waves,%Nwhich occasionally wash up against the bottom of the%Ncape.%K%P
+All I can hear around me is the calming roar of the waves, which occasionally wash up against the bottom of the cape.%K%P
 0xA4
 公園に到着してから、いづみさんはひと言も喋っていない……。%K%P
-Izumi-san hasn't said a single word since we arrived at%Nthe park...%K%P
+Izumi-san hasn't said a single word since we arrived at the park...%K%P
 0xBC
 （わからない……。いづみさんが何をしたくて、こんなところまで連れて来たのか？）%K%P
-(I don't get it... What is Izumi-san hoping to do by taking%Nme all the way to a place like this?)%K%P
+(I don't get it... What is Izumi-san hoping to do by taking me all the way to a place like this?)%K%P
 0xC8
 （やっぱり、本人に直接聞いてみたほうがいいのかな……？）%K%P
-(I wonder if it would it be best after all if I just asked her%Ndirectly...?)%K%P
+(I wonder if it would it be best after all if I just asked her directly...?)%K%P
 0xD4
 オレはゆっくりと、いづみさんに近づいて行った。%K%P
 I slowly approach Izumi-san.%K%P
@@ -33,16 +33,16 @@ Izumi「Makoto-kun...」%K%P
 Makoto「Y-Yes...!?」%K%P
 0x110
 いづみさんが口を開いたのは、ちょうどオレがいづみさんの真後ろに立ったときだった。%K%P
-Izumi-san opens her mouth just as I stand right behind%Nher.%K%P
+Izumi-san opens her mouth just as I stand right behind her.%K%P
 0x11C
 いづみ「せっかく走ったのに、風が冷たいからすぐに寒くなっちゃうね？」%K%P
-Izumi「Even though we went through all this trouble to run here,%Nthe wind has just gone back from chilly to cold again,%Nhasn't it?」%K%P
+Izumi「Even though we went through all this trouble to run here, the wind has just gone back from chilly to cold again, hasn't it?」%K%P
 0x128
 誠「そ……そうですね」%K%P
 Makoto「Y... You're right.」%K%P
 0x134
 確かに走ったときにかいた汗は、すっかりと冷え切っていた。%K%P
-It's true. All that sweat that I let off as I ran has become%Ncompletely chilled.%K%P
+It's true. All that sweat that I let off as I ran has become completely chilled.%K%P
 0x140
 いづみ「でも……やっぱり……」%K%P
 Izumi「But... as I thought...」%K%P
@@ -84,13 +84,13 @@ A canopy of stars hangs above me.%K%P
 The stars sparkle like shining gems on jet black velvet.%K%P
 0x23C
 いや……どんな宝石でも……何カラットのダイヤモンドでも……ここまでの輝きを見せることはないだろう。%K%P
-No... not just gems... diamonds of the highest karat%Npossible... I've never seen anything so radiant in my%Nentire life.%K%P
+No... not just gems... diamonds of the highest karat possible... I've never seen anything so radiant in my entire life.%K%P
 0x248
 そんな……そんなにも素晴らしい星空だった。%K%P
 This starry sky is truly captivating.%K%P
 0x254
 魂が天に引き寄せられるかのような……自然と空へ吸い寄せられてしまうような……そんな夜空。%K%P
-It feels like it's pulling my soul up towards the heavens...%Nlike it's drawing me up to the sky... That's how amazing it is.%K%P
+It feels like it's pulling my soul up towards the heavens... like it's drawing me up to the sky... That's how amazing it is.%K%P
 0x260
 いづみ「ありがとう……今日は」%K%P
 Izumi「Thank you... for today.」%K%P
@@ -108,7 +108,7 @@ Makoto「R-Right...」%K%P
 Izumi-san slowly turns around.%K%P
 0x2A4
 いづみ「誠くん達がいなかったら……大変なことになってたかもしれない」%K%P
-Izumi「If you and the others hadn't been here... I might not have%Nfound her by now.」%K%P
+Izumi「If you and the others hadn't been here... I might not have found her by now.」%K%P
 0x2B0
 誠「そんな……大げさな」%K%P
 Makoto「No way... you're over exaggerating.」%K%P
@@ -117,7 +117,7 @@ Makoto「No way... you're over exaggerating.」%K%P
 I feel a bit embarrassed to receive such praise.%K%P
 0x2C8
 誠「オレ達が探さなかったとしても、無事に帰って来たと思うよ？」%K%P
-Makoto「Even if we didn't look, don't you think she would have%Ncome back safe anyway?」%K%P
+Makoto「Even if we didn't look, don't you think she would have come back safe anyway?」%K%P
 0x2D4
 誠「くるみ……意外としっかりしてるとこあるし……」%K%P
 Makoto「Kurumi is surprisingly level-headed, after all...」%K%P
@@ -141,13 +141,13 @@ Makoto「Yes...?」%K%P
 Izumi「Kurumi has quite the vagrant habits...」%K%P
 0x328
 いづみ「時々ふらっと出かけて、そのまましばらく帰って来なかったりする事があってね」%K%P
-Izumi「Occasionally, she'll suddenly go out, only to come back%Na little while later.」%K%P
+Izumi「Occasionally, she'll suddenly go out, only to come back a little while later.」%K%P
 0x334
 いづみ「それで……その度に心配になって……」%K%P
 Izumi「That's why... I was worried this time...」%K%P
 0x340
 誠「でも、ちゃんと帰って来てるんでしょ？　今までは……。だったらっ」%K%P
-Makoto「But she'd still come back on her own, right? I mean, she's%Ndone so up until now, hasn't she?」%K%P
+Makoto「But she'd still come back on her own, right? I mean, she's done so up until now, hasn't she?」%K%P
 0x34C
 いづみ「今までは……ね。でも……でもね？」%K%P
 Izumi「Up until now... yes. But... But you know?」%K%P
@@ -195,7 +195,7 @@ I answer her.%K%P
 Makoto「Because you wanted to show me the stars, right?」%K%P
 0x41C
 誠「この展望公園の星空を、オレにも見せたかったから……」%K%P
-Makoto「You knew that Viewpoint Park had the best view of the%Nstars, so you wanted to show it to me as well...」%K%P
+Makoto「You knew that Viewpoint Park had the best view of the stars, so you wanted to show it to me as well...」%K%P
 0x428
 いづみ「う〜ん……」%K%P
 Izumi「Hmm...」%K%P
@@ -249,7 +249,7 @@ Izumi「There's something I have to tell you...」%K%P
 Makoto「Huh...?」%K%P
 0x4FC
 いづみ「どうしても……知っておいてもらいたくて……」%K%P
-Izumi「But I want you... to know something in advance, no matter%Nwhat...」%K%P
+Izumi「But I want you... to know something in advance, no matter what...」%K%P
 0x508
 誠「…………………………」%K%P
 Makoto「...」%K%P
@@ -294,16 +294,16 @@ Makoto「?」%K%P
 Izumi「It's like the starry sky we can see from here...」%K%P
 0x5B0
 いづみ「……この星の輝きは、今、この瞬間に輝いているものではないでしょ？」%K%P
-Izumi「... The light shining from them now isn't the light they're%Nemitting at this very instant, correct?」%K%P
+Izumi「... The light shining from them now isn't the light they're emitting at this very instant, correct?」%K%P
 0x5BC
 いづみさんはそう言って、天を仰いだ。%K%P
-Izumi-san casts her attention to the vast ocean of%Nstars above us.%K%P
+Izumi-san casts her attention to the vast ocean of stars above us.%K%P
 0x5D0
 いづみ「あのこいぬ座のプロキオンは、今から１１年前の光……」%K%P
-Izumi「For example, the light from Procyon, a part of Canis Minor,%Ncame from 11 years ago...」%K%P
+Izumi「For example, the light from Procyon, a part of Canis Minor, came from 11 years ago...」%K%P
 0x5DC
 いづみ「しし座のレグルスは、今から８４年も前の光……」%K%P
-Izumi「And the light from Regulus, a part of Leo, came from 84%Nyears ago...」%K%P
+Izumi「And the light from Regulus, a part of Leo, came from 84 years ago...」%K%P
 0x5E8
 いづみ「ということは……」%K%P
 Izumi「Which means...」%K%P
@@ -312,10 +312,10 @@ Izumi「Which means...」%K%P
 Izumi「... Perhaps that light might disappear at this very moment.」%K%P
 0x600
 いづみ「今、この瞬間に、あの星が存在するかどうかは誰にもわからない……」%K%P
-Izumi「No one knows whether or not that star exists right now,%Nat this very instant...」%K%P
+Izumi「No one knows whether or not that star exists right now, at this very instant...」%K%P
 0x60C
 いづみ「『目に見えるもののすべては真実だ』なんて、誰にも言い切ることはできないのよ……」%K%P
-Izumi「Nobody can declare that everything they see is the%Ntruth...」%K%P
+Izumi「Nobody can declare that everything they see is the truth...」%K%P
 0x618
 誠「…………………………」%K%P
 Makoto「...」%K%P
@@ -333,7 +333,7 @@ Izumi-san nods in response as she looks towards me.%K%P
 Izumi「Nobody knows if what I'm thinking is the truth or not.」%K%P
 0x65C
 いづみ「私が感じている想いが正しいのかどうかなんて……そう……私自身にもわからないの」%K%P
-Izumi「No one knows if what I'm feeling is correct or not... Yes...%Neven I myself don't know.」%K%P
+Izumi「No one knows if what I'm feeling is correct or not... Yes... even I myself don't know.」%K%P
 0x668
 いづみ「……でも……でもね？」%K%P
 Izumi「... But... But you know what?」%K%P
@@ -342,16 +342,16 @@ Izumi「... But... But you know what?」%K%P
 Izumi「I think that's all right.」%K%P
 0x680
 いづみ「レグルスは、今も変わらず輝き続けてるんだって……そう信じてたほうが幸せなんだって……思ったの」%K%P
-Izumi「'Right now, Regulus is still continuing to shine as always'...%N... I think it's happier... if you believe that.」%K%P
+Izumi「'Right now, Regulus is still continuing to shine as always'... ... I think it's happier... if you believe that.」%K%P
 0x68C
 いづみ「本当は、真実かどうかよりも、信じられるかどうかのほうが、大切なことなんじゃないかって……そんな気がしたから」%K%P
-Izumi「The truth is, what's more important than whether it's true%Nor not is whether you can believe it or not, isn't it? ...%NThat's how I feel.」%K%P
+Izumi「The truth is, what's more important than whether it's true or not is whether you can believe it or not, isn't it? ... That's how I feel.」%K%P
 0x6B4
 潮風がさらさらとそよいでいた。%K%P
 The sea breeze rustles by us.%K%P
 0x6C0
 暗闇の中、岩壁に打ち寄せる波の音だけが響いていた。%K%P
-In the darkness, we hear the sound of the waves%Nbreaking against the bottom of the cape far below us.%K%P
+In the darkness, we hear the sound of the waves breaking against the bottom of the cape far below us.%K%P
 0x6CC
 いづみさんのくちびるが、かすかに震えているのがわかった。%K%P
 Izumi-san's lips tremble slightly.%K%P
@@ -432,10 +432,10 @@ Makoto「...」%K%P
 I silently stand stock still.%K%P
 0x874
 くちびるからその指が離れても、遂に言葉は出て来なかった。%K%P
-Izumi-san takes her finger off my lips, but I still can't say%Na word.%K%P
+Izumi-san takes her finger off my lips, but I still can't say a word.%K%P
 0x880
 （これが……人に愛されたときの……気持ち……？）%K%P
-(Is this what it feels like... to be loved... by another%Nperson?)%K%P
+(Is this what it feels like... to be loved... by another person?)%K%P
 0x88C
 いや、そうじゃないのかもしれない。%K%P
 No, that might not be it.%K%P

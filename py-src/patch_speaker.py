@@ -3,6 +3,8 @@
 import sys, re
 import r11, r11.names
 
+r11.names.populateNamesDict("n7")
+
 main_text_pattern_ja = "^((?:[^%]*?\u300c|『)?).*?(\u300d|』)?$"
 
 with open(sys.argv[1], encoding='sjisx0213') as f, open(sys.argv[2], 'w', encoding='sjisx0213') as fout:

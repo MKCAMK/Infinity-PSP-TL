@@ -6,25 +6,25 @@ text area offset and size:
 Makoto「Well then... now we can talk all we want, right?」%K%P
 0x68
 オレと優夏はテニスコートのベンチに並んで腰を下ろした。%K%P
-Yuka and I are sitting down on the bench at the tennis%Ncourt.%K%P
+Yuka and I are sitting down on the bench at the tennis court.%K%P
 0x74
 誠「じゃあ、早速聞かせてもらおうか？」%K%P
 Makoto「Is it all right if I ask you something?」%K%P
 0x80
 誠「どうしてみんなに話しちゃいけないのか？　%N秘密にしておかなければならない、その理由を……」%K%P
-Makoto「Why can't we tell the others? You must have some sort%Nof reason that means we need to keep it a secret...」%K%P
+Makoto「Why can't we tell the others? You must have some sort of reason that means we need to keep it a secret...」%K%P
 0x94
 優夏「うん……。だけどその前に、まずは色んなことを%N整理しといた方がいいと思うの」%K%P
-Yuka「Yes... But before that, I think it'd be best if we first%Nstraightened several things out.」%K%P
+Yuka「Yes... But before that, I think it'd be best if we first straightened several things out.」%K%P
 0xA0
 優夏「私達、お互いに勘違いしてたり、全然わかってないようなことが、まだまだいっぱいあるような気がするから……」%K%P
-Yuka「I have a feeling that there are lots and lots of things%Nthat we still misunderstand or don't comprehend at all,%Nlike...」%K%P
+Yuka「I have a feeling that there are lots and lots of things that we still misunderstand or don't comprehend at all, like...」%K%P
 0xAC
 優夏「私達はいったい何を経験し、何を思ってきたのか……」%K%P
-Yuka「'Just what did we experience, and what are we%Nthinking?'...」%K%P
+Yuka「'Just what did we experience, and what are we thinking?'...」%K%P
 0xB8
 優夏「まずはそれを理解し合わないと、話が食い違って、相手が何を言ってるのかさっぱりわからなくなっちゃう……でしょ？」%K%P
-Yuka「If we don't reach a mutual understanding first, our%Nconversations will clash, and then we'll have no idea%Nwhat the other's saying, right?」%K%P
+Yuka「If we don't reach a mutual understanding first, our conversations will clash, and then we'll have no idea what the other's saying, right?」%K%P
 0xC4
 まあ……確かにそうかもしれない。%K%P
 Well... she might be right.%K%P
@@ -33,16 +33,16 @@ Well... she might be right.%K%P
 I give Yuka a deep nod, and wait for her to start off...%K%P
 0xDC
 優夏「じゃあ、いい？　まず最初に、今わかってる事実から、確認するよ？」%K%P
-Yuka「All right then. First off, let's confirm what we do know,%Nokay?」%K%P
+Yuka「All right then. First off, let's confirm what we do know, okay?」%K%P
 0xE8
 誠「ああ」%K%P
 Makoto「Yeah.」%K%P
 0xF4
 優夏「はっきりと確信できることは、３つあると思うの」%K%P
-Yuka「I think there's three things that we can definitely say for%Nsure.」%K%P
+Yuka「I think there's three things that we can definitely say for sure.」%K%P
 0x15C
 優夏「１つ目──私と誠には、４月１日から６日までの、%N共通の記憶がある……」%K%P
-Yuka「#1―You and I share the same memories from April 1st%Nto the 6th...」%K%P
+Yuka「#1―You and I share the same memories from April 1st to the 6th...」%K%P
 0x19C
 優夏「２つ目──今日の日付は、間違いなく４月１日%N月曜日……」%K%P
 Yuka「#2―Today's date is definitely Monday, April 1st...」%K%P
@@ -51,13 +51,13 @@ Yuka「#2―Today's date is definitely Monday, April 1st...」%K%P
 Yuka「#3―On the last April 1st, we had the same dream...」%K%P
 0x21C
 誠「おい、優夏？　話をややこしくするなよ」%K%P
-Makoto「Hey, Yuka? Don't make this more complicated than it%Nactually is.」%K%P
+Makoto「Hey, Yuka? Don't make this more complicated than it actually is.」%K%P
 0x228
 誠「要するに、こういうことが言いたいんだろ？」%K%P
 Makoto「In short, this is what you want to say, right?」%K%P
 0x234
 誠「オレ達は、４月６日土曜日に、あの神社でタイムスリップした。４月１日月曜日……つまり、今日へと……」%K%P
-Makoto「On Saturday, April 6th, we time traveled at that shrine to%NMonday, April 1st... in other words, to today...」%K%P
+Makoto「On Saturday, April 6th, we time traveled at that shrine to Monday, April 1st... in other words, to today...」%K%P
 0x240
 優夏「う〜ん……タイムスリップ、ねぇ……」%K%P
 Yuka「Mmm... time travel, huh...」%K%P
@@ -69,13 +69,13 @@ Makoto「... You don't think it's something else, do you?」%K%P
 Yuka「No, there's no way that it's something else...」%K%P
 0x298
 優夏「ただ、そのひと言で片づけられるほど、単純な問題じゃないと思うよ？　これは……」%K%P
-Yuka「It's just, do you really think that this is a simple problem%Nthat can be explained by those two words...?」%K%P
+Yuka「It's just, do you really think that this is a simple problem that can be explained by those two words...?」%K%P
 0x2A4
 誠「ん？」%K%P
 Makoto「Hmm?」%K%P
 0x2B0
 優夏「私が今あげた３つの事実……１つ目と２つ目だけ%Nだったら、ただの『タイムスリップ』って言っちゃってもいいんだろうけど……」%K%P
-Yuka「The three facts we know right now... if all we knew were #1%Nand #2, then it'd probably be all right just to say that it%Nwas 'time travel', but...」%K%P
+Yuka「The three facts we know right now... if all we knew were #1 and #2, then it'd probably be all right just to say that it was 'time travel', but...」%K%P
 0x2BC
 優夏「重要なのは、３つ目なのよぉ……」%K%P
 Yuka「The most important one is #3...」%K%P
@@ -84,10 +84,10 @@ Yuka「The most important one is #3...」%K%P
 Makoto「That we had the same dream on the last April 1st?」%K%P
 0x2D4
 優夏「そう……。それって結局どういうことかって言うと……」%K%P
-Yuka「Yes... And if I had to say my thoughts on why, then my%Nanswer would be...」%K%P
+Yuka「Yes... And if I had to say my thoughts on why, then my answer would be...」%K%P
 0x2E8
 優夏「今回のこのタイムスリップは、私達にとって初めての経験ではなかった……そういうことになるでしょ？」%K%P
-Yuka「To us, this wasn't the first time we've experienced time%Ntravel... that's the truth of the matter, right?」%K%P
+Yuka「To us, this wasn't the first time we've experienced time travel... that's the truth of the matter, right?」%K%P
 0x2F4
 誠「ああ……」%K%P
 Makoto「Yeah...」%K%P
@@ -99,16 +99,16 @@ Yuka「In other words, we've time traveled before, haven't we?」%K%P
 Makoto「Yeah...」%K%P
 0x318
 優夏「ってことは、今日『４月１日月曜日』という日を、私達は３回経験してる筈じゃない？」%K%P
-Yuka「Which means that this should be the third time we've%Nexperienced today, the day known as 'Monday, April 1st',%Ncorrect?」%K%P
+Yuka「Which means that this should be the third time we've experienced today, the day known as 'Monday, April 1st', correct?」%K%P
 0x324
 誠「『前回の４月１日』と『今日』と……それから、あの夢の前にあったけど『忘れてしまっている４月１日』か……」%K%P
-Makoto「'The last April 1st' and 'today'... and the 'forgotten April%N1st' that happened before our dream...」%K%P
+Makoto「'The last April 1st' and 'today'... and the 'forgotten April 1st' that happened before our dream...」%K%P
 0x340
 優夏「うん……。それで私、思ったんだけど……」%K%P
 Yuka「Yeah... That's what I thought, but...」%K%P
 0x34C
 優夏「……誠は、その『忘れてしまっている４月１日』の前は、何日だったと思う？」%K%P
-Yuka「... Makoto, what day do you think it was before that%N'forgotten April 1st'?」%K%P
+Yuka「... Makoto, what day do you think it was before that 'forgotten April 1st'?」%K%P
 0x358
 誠「そんなの……３月３１日に決まってるじゃないかぁ……」%K%P
 Makoto「That'd be March 31st, obviously...」%K%P
@@ -126,28 +126,28 @@ Yuka「You really think so?」%K%P
 Makoto「What do you want to say?」%K%P
 0x3D4
 優夏「つまりね？　私が思ったのは、その『忘れてしまっている４月１日』の前の日は、実は『６日』だったんじゃ%Nないかな？ってことなの」%K%P
-Yuka「I think that the day before the 'forgotten April 1st' was%Nactually the '6th'.」%K%P
+Yuka「I think that the day before the 'forgotten April 1st' was actually the '6th'.」%K%P
 0x3E0
 誠「え？？？」%K%P
 Makoto「Huh???」%K%P
 0x3EC
 優夏「本当は、今日が何回目の『４月１日』なのかなんて、私達にはわからない」%K%P
-Yuka「Truthfully, we have no clue how many times we've been%Nthrough today, 'April 1st'.」%K%P
+Yuka「Truthfully, we have no clue how many times we've been through today, 'April 1st'.」%K%P
 0x448
 優夏「少なくとも３回以上ってことはわかっても、実際には３００回目かもしれないし、３億回目かもしれない……」%K%P
-Yuka「Even though this is at least the third time, this might%Nactually be the 300th time, or the 300 millionth time...」%K%P
+Yuka「Even though this is at least the third time, this might actually be the 300th time, or the 300 millionth time...」%K%P
 0x454
 優夏「って言うより、そもそも数を数えるっていうこと自体が間違ってるのかも……」%K%P
-Yuka「So trying to count the number of times itself might be%Npointless...」%K%P
+Yuka「So trying to count the number of times itself might be pointless...」%K%P
 0x460
 誠「……………………？」%K%P
 Makoto「...?」%K%P
 0x46C
 優夏「私達……４月１日から始まる６日間を、永遠に、何度も何度も繰り返してるんじゃないかなぁ？」%K%P
-Yuka「Perhaps... we've been repeating the days from April 1st%Nthrough the 6th countless times for all eternity.」%K%P
+Yuka「Perhaps... we've been repeating the days from April 1st through the 6th countless times for all eternity.」%K%P
 0x478
 優夏「始まりも無ければ終わりも無い──これは無限ループの１部なんだよ、きっと！」%K%P
-Yuka「If there's no beginning, then there's no end―this is%Ndefinitely a part of an infinite loop!」%K%P
+Yuka「If there's no beginning, then there's no end―this is definitely a part of an infinite loop!」%K%P
 0x48C
 無限ループ……。%K%P
 An infinite loop...%K%P
@@ -165,7 +165,7 @@ The word repeats itself in my head.%K%P
 If that's the case...%K%P
 0x4C8
 だとしたら……これからも永遠に、オレ達はこの時間から脱け出すことができないということか？%K%P
-If that's the case... then does that mean we're doomed to%Nrepeat the last six days for all eternity?%K%P
+If that's the case... then does that mean we're doomed to repeat the last six days for all eternity?%K%P
 0x4D4
 一生、この世界の中で生き続ける……。%K%P
 We'll continue living in this world for our whole lives...%K%P
@@ -174,13 +174,13 @@ We'll continue living in this world for our whole lives...%K%P
 No, that's not an accurate way of putting it.%K%P
 0x4EC
 オレ達は肉体とともに時を越えたわけではなかった。%K%P
-It's not like our physical bodies traveled through time%Nwith us.%K%P
+It's not like our physical bodies traveled through time with us.%K%P
 0x4F8
 意識だけが、１日の朝に戻ったのだ。%K%P
-Only our consciousnesses have returned to the%Nmorning of the 1st.%K%P
+Only our consciousnesses have returned to the morning of the 1st.%K%P
 0x504
 ということは、肉体が老いることは絶対にあり得ない。%K%P
-Which means that it's completely impossible for our%Nbodies to age.%K%P
+Which means that it's completely impossible for our bodies to age.%K%P
 0x510
 老いることがなければ、朽ちることもまたないだろう。%K%P
 If we can't age, then our bodies will never rot away.%K%P
@@ -204,7 +204,7 @@ It's a dark world without even a single ray of light.%K%P
 Time will continue to repeat itself...%K%P
 0x5A0
 未来永劫の時を、オレはこの世界の中で、時間の%N中で、果てしなく生き続けなければならないと言うのか！？%K%P
-Are you saying that I have to continue living on%Nendlessly for all eternity in this world, in this time!?%K%P
+Are you saying that I have to continue living on endlessly for all eternity in this world, in this time!?%K%P
 0x5AC
 そんなもの……絶望以外の何ものでもない！%K%P
 Something like that... is nothing short of despair!%K%P
@@ -225,7 +225,7 @@ My hopes!?%K%P
 It's like I'm stuck in a prison!%K%P
 0x5F4
 この狭い檻の中で、鎖につながれて、何もかもが%N変わることなく、繰り返される。%K%P
-I'm chained down in this small cell where everything%Nrepeats without change.%K%P
+I'm chained down in this small cell where everything repeats without change.%K%P
 0x600
 変わることなく、繰り返される。%K%N
 Where everything repeats without change.%K%N
@@ -249,7 +249,7 @@ And then...%K%P
 I can't escape... from this pain.%K%P
 0x678
 幾千回、幾万回も、オレは彼女を救えなかった……。%K%P
-I've failed to save her thousands, if not tens of%Nthousands, of times...%K%P
+I've failed to save her thousands, if not tens of thousands, of times...%K%P
 0x684
 約束を、破った。%K%P
 I broke my promise.%K%P
@@ -258,7 +258,7 @@ I broke my promise.%K%P
 All because I hesitated for that one moment...%K%P
 0x69C
 ……そうだよ！　……オレは思ったんだよ、あの時！%K%P
-That's right...! At that time, it happened because I thought%Nof 「that」!%K%P
+That's right...! At that time, it happened because I thought of 「that」!%K%P
 0x6A8
 まず自分のことを思ったんだ！%K%P
 I thought of myself first!%K%P
@@ -273,10 +273,10 @@ So the one...%K%P
 ―The one who killed Yuka was me!%K%P
 0x6D8
 幾千回、幾万回も、殺したんだ！！%K%P
-I've killed her thousands, if not tens of thousands, of%Ntimes!!%K%P
+I've killed her thousands, if not tens of thousands, of times!!%K%P
 0x6E4
 そしてこれからも、何度も何度も永久に殺し続けるんだ！！%K%P
-And from this point onwards, I will continue to kill her%Ncountless times for all eternity!!%K%P
+And from this point onwards, I will continue to kill her countless times for all eternity!!%K%P
 0x6F0
 血を流し続けるんだ！！%K%P
 I will continue to shed blood!!%K%P
@@ -294,7 +294,7 @@ I gnash my teeth with a grinding noise.%K%P
 The pain in my chest seems to burst open.%K%P
 0x758
 全部……全ての記憶……世界中を消し去ってしまいたい……。%K%P
-Everything... all of these memories... I want to erase them%Nand be rid of them...%K%P
+Everything... all of these memories... I want to erase them and be rid of them...%K%P
 0x764
 何もかも……。%K%P
 All of them...%K%P
@@ -399,10 +399,10 @@ I go to the ticket booth window.%K%P
 A notice set up against it quickly catches my eye.%K%P
 0x9C0
 『本日、悪天候のため運休』%K%P
-「Today, ferry service has been suspended due to bad%Nweather.」%K%P
+「Today, ferry service has been suspended due to bad weather.」%K%P
 0x9CC
 誠「悪天候？？　こんな良い天気なのに？？」%K%P
-Makoto「Bad weather?? But it's so nice right now. What's going%Non??」%K%P
+Makoto「Bad weather?? But it's so nice right now. What's going on??」%K%P
 0x9D8
 隣にあった係員の事務所を覗く。%K%P
 I peek into the office next to the window.%K%P
@@ -414,10 +414,10 @@ No one's inside...%K%P
 Makoto「Damn.」%K%P
 0x9FC
 オレは舌打ちをし、今度は近くに碇泊していた漁船に駆け寄った。%K%P
-I click my tongue, and run over to a nearby docked%Nfishing boat.%K%P
+I click my tongue, and run over to a nearby docked fishing boat.%K%P
 0xA30
 甲板の上で、手入れをしているひとりの漁師……。%K%P
-There is a lone fisherman on the boat's deck, performing%Nmaintenance...%K%P
+There is a lone fisherman on the boat's deck, performing maintenance...%K%P
 0xA3C
 オレはためらうことなく声をかけた。%K%P
 I call out in an eager voice.%K%P
@@ -438,7 +438,7 @@ Fisherman「What, yah goin' fishing?」%K%P
 Makoto「No, that's not it... I... I want to return to the mainland!」%K%P
 0xA84
 漁師「ああ〜、本土さ、けぇらなきゃならねぇ用事でもでげだっでが？」%K%P
-Fisherman「Oh, yah got some business yah got tah do on the%Nmainland, huh?」%K%P
+Fisherman「Oh, yah got some business yah got tah do on the mainland, huh?」%K%P
 0xA90
 誠「ま、まあ、そんなとこです。だからっ」%K%P
 Makoto「W-Well, something like that. That's why―」%K%P
@@ -450,7 +450,7 @@ Fisherman「Ah... but that's too bad.」%K%P
 Makoto「... Huh?」%K%P
 0xAB4
 漁師「早ぇー話がな？　シケで出れんのよ」%K%P
-Fisherman「Long story short, there's gonna be some bad weather%Nrollin' in.」%K%P
+Fisherman「Long story short, there's gonna be some bad weather rollin' in.」%K%P
 0xAC0
 誠「シケ？　シケって……こんなに晴れてるのに？」%K%P
 Makoto「Bad weather...? Even though it's so clear?」%K%P
@@ -495,7 +495,7 @@ Makoto「...」%K%P
 Fisherman「Well, whatever the name is, it doesn't really matter...」%K%P
 0xB68
 漁師「とにがくそいつの影響で、沖の方じゃ大シケなんだわぁ〜」%K%P
-Fisherman「Anyway, it's because of it that we're gettin' bad weather%Nfrom the ocean.」%K%P
+Fisherman「Anyway, it's because of it that we're gettin' bad weather from the ocean.」%K%P
 0xB74
 誠「でも……」%K%P
 Makoto「But...」%K%P
@@ -510,7 +510,7 @@ Makoto「It's not that I don't believe you... It's just...」%K%P
 Fisherman「Just what?」%K%P
 0xBA4
 誠「ただ少しぐらいのシケだったら、無理すれば、行けないことはないんじゃないかと……」%K%P
-Makoto「If it's just a little bit of bad weather, then it doesn't seem%Nlike it's impossible to go...」%K%P
+Makoto「If it's just a little bit of bad weather, then it doesn't seem like it's impossible to go...」%K%P
 0xBB0
 漁師「バ、バァータレェ！！！」%K%P
 Fisherman「D-Dumbass!!!」%K%P
@@ -522,7 +522,7 @@ The fisherman shouts with an absurdly loud voice.%K%P
 Fisherman「Don't... don't underestimate the ocean!」%K%P
 0xBD4
 漁師「なぁ〜んも海のごど知らんで、よぐもそっだら生意気なごど……」%K%P
-Fisherman「Yah know nothin' about the ocean, so don't get so%Nconceited...」%K%P
+Fisherman「Yah know nothin' about the ocean, so don't get so conceited...」%K%P
 0xBE0
 誠「……………………」%K%P
 Makoto「...」%K%P
@@ -534,7 +534,7 @@ Fisherman「Well, when tomorrow comes, yah can see fer yerself.」%K%P
 Makoto「Tomorrow...?」%K%P
 0xC04
 漁師「んだ。明日になりゃ、おめぇらが見だごどもねぇような、でぇっけぇ波が来るでよ」%K%P
-Fisherman「Right. Tomorrow, yah can see that there'll be some huge%Nwaves comin'.」%K%P
+Fisherman「Right. Tomorrow, yah can see that there'll be some huge waves comin'.」%K%P
 0xC10
 明日──４月２日。%K%P
 Tomorrow ― April 2nd.%K%P
@@ -546,10 +546,10 @@ That was the day Saki was swallowed by that large wave.%K%P
 This fisherman is right.%K%P
 0xC34
 漁師「ほら、仕事の邪魔だ！　用がねえならけぇったけぇった！」%K%P
-Fisherman「Come on, yah're gettin' in the way of mah work! If yah've%Ngot no business with me, then scram!」%K%P
+Fisherman「Come on, yah're gettin' in the way of mah work! If yah've got no business with me, then scram!」%K%P
 0xC40
 漁師は、オレの軽率な発言に腹を立ててしまったようだ。%K%P
-The fisherman seems to have been angered by my%Nthoughtless words.%K%P
+The fisherman seems to have been angered by my thoughtless words.%K%P
 0xC4C
 何だか……申し訳ないような気がした。%K%P
 It feels... like I should apologize to him.%K%P

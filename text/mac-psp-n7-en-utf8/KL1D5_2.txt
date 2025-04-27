@@ -21,7 +21,7 @@ There's no one in the living room.%K%P
 I wonder where they've all gone?%K%P
 0xD8
 オレは顔を洗い、歯を磨き、服を着替えると、表に出た。%K%P
-I wash my face, brush my teeth, change my clothes, and%Nhead out.%K%P
+I wash my face, brush my teeth, change my clothes, and head out.%K%P
 0xE4
 行き先は、もちろん決まっている。%K%P
 My destination is obvious.%K%P
@@ -30,10 +30,10 @@ My destination is obvious.%K%P
 ―I'm going to Lunabeach.%K%P
 0x130
 空は、昨晩の星空からは信じられないような曇天模様だった。%K%P
-With the sky as cloudy as it is, it's hard to believe that it%Nwas so starry last night.%K%P
+With the sky as cloudy as it is, it's hard to believe that it was so starry last night.%K%P
 0x13C
 高層をすっぽりと覆うような雲……どうやら雨雲ではないようだが。%K%P
-The multi-layered clouds completely cover the sky... but%Nthey don't seem like rain clouds.%K%P
+The multi-layered clouds completely cover the sky... but they don't seem like rain clouds.%K%P
 0x148
 はっきりとしない空の色は、オレの心までも曇らせた。%K%P
 The dreary sky is starting to make me feel gloomy.%K%P
@@ -45,16 +45,16 @@ At any rate, this weather is unpleasant.%K%P
 The wind is eerily still.%K%P
 0x1B0
 林の枝葉はぴくりとも揺れず、小鳥のさえずりも聞こえず、時の止まった世界の中を歩いているようだ。%K%P
-The trees aren't swaying and nor are the birds chirping.%NIt's as if time has frozen.%K%P
+The trees aren't swaying and nor are the birds chirping. It's as if time has frozen.%K%P
 0x1BC
 太陽は分厚い雲に隠れ、オレの後ろには影さえもなかった。%K%P
-The sun is covered by thick clouds, so I don't even cast%Na shadow.%K%P
+The sun is covered by thick clouds, so I don't even cast a shadow.%K%P
 0x1D8
 くるみ「あっ、お兄ちゃ〜ん♪」%K%P
 Kurumi「Ah, Onii-chan♪」%K%P
 0x200
 坂の中腹あたりまで下った所で、前からくるみが駆けて来た。%K%P
-When I get halfway down the road, I see Kurumi running%Ntowards me from up ahead.%K%P
+When I get halfway down the road, I see Kurumi running towards me from up ahead.%K%P
 0x214
 くるみ「これからどっか、出かけるの？」%K%P
 Kurumi「Were you going somewhere now?」%K%P
@@ -66,7 +66,7 @@ Makoto「Y-Yeah... kinda...」%K%P
 There's no way I can tell her I was going to Lunabeach.%K%P
 0x238
 くるみがもしもついて来たら『いづみさんから例の話を聞く』という目的が果たせなくなってしまう。%K%P
-If Kurumi ends up tagging along, I can't carry out my plan%Nto ask Izumi-san for the rest of the story.%K%P
+If Kurumi ends up tagging along, I can't carry out my plan to ask Izumi-san for the rest of the story.%K%P
 0x244
 ここはどうしても誤魔化さなければならない。%K%P
 It's vital that I trick her into going away.%K%P
@@ -75,7 +75,7 @@ It's vital that I trick her into going away.%K%P
 Kurumi「'Kinda'... you say...」%K%P
 0x264
 くるみ「ああ……ひょっとして、またお姉ちゃんとこ行くんでしょ？」%K%P
-Kurumi「Ah... could it be that you're going to see Onee-chan%Nagain?」%K%P
+Kurumi「Ah... could it be that you're going to see Onee-chan again?」%K%P
 0x270
 言い当てられてドキッとする。%K%P
 I'm shocked that she guessed it right...%K%P
@@ -84,13 +84,13 @@ I'm shocked that she guessed it right...%K%P
 Makoto「N-No... I was just going to walk around today...」%K%P
 0x288
 誠「ほら、こんなに天気も……………………よくないけど、たまには曇り空の下で散歩っていうのもオツだろ？」%K%P
-Makoto「You see, this weather... isn't good, but occasionally, I like%Ntaking walks under the cloudy sky. Strange, huh?」%K%P
+Makoto「You see, this weather... isn't good, but occasionally, I like taking walks under the cloudy sky. Strange, huh?」%K%P
 0x294
 くるみ「オツ、ねぇ……」%K%P
 Kurumi「'Strange'...」%K%P
 0x2A0
 誠「それよりくるみは、どこ行くつもりだったんだ？　ロッジには、もう誰もいないぞ？」%K%P
-Makoto「More importantly, where are you planning on going?%NThere's no one at the lodge.」%K%P
+Makoto「More importantly, where are you planning on going? There's no one at the lodge.」%K%P
 0x2AC
 くるみ「くるみは、お兄ちゃんに会いに来たの！」%K%P
 Kurumi「Kurumi came here to see Onii-chan!」%K%P
@@ -99,16 +99,16 @@ Kurumi「Kurumi came here to see Onii-chan!」%K%P
 Makoto「Me?」%K%P
 0x2DC
 くるみ「うん。カニ相撲、今度絶対やろうって約束したでしょ？」%K%P
-Kurumi「Yeah. You promised to definitely come next time to watch%Nthe crab sumo, right?」%K%P
+Kurumi「Yeah. You promised to definitely come next time to watch the crab sumo, right?」%K%P
 0x2E8
 ああ……。そう言えば昨日、この道でそんなこと言ってたっけなぁ。%K%P
-Ah... Now that she mentions it, I said that on this road%Nyesterday.%K%P
+Ah... Now that she mentions it, I said that on this road yesterday.%K%P
 0x2FC
 くるみ「うん。昨日カニ相撲、誘いそびれちゃったから……」%K%P
-Kurumi「Yeah. Yesterday, Kurumi tried to invite you to go see%Ncrab sumo...」%K%P
+Kurumi「Yeah. Yesterday, Kurumi tried to invite you to go see crab sumo...」%K%P
 0x308
 ああ……。そう言えば昨日、何でか知らないけど、くるみが急に怒り出して……。%K%P
-Ah... now that I think about it, Kurumi suddenly ran off%Nangrily yesterday for some reason...%K%P
+Ah... now that I think about it, Kurumi suddenly ran off angrily yesterday for some reason...%K%P
 0x314
 確かあのときも、この道だったよなぁ……。%K%P
 It was definitely on this road as well...%K%P
@@ -120,7 +120,7 @@ Kurumi「So let's go watch some crab sumo♪」%K%P
 Makoto「No, but... I have to go take a wal―」%K%P
 0x338
 くるみ「散歩でしょ？　別に誰と約束してるわけでもないんだよねぇ？」%K%P
-Kurumi「A walk? It's not like you promised to walk with someone%Nelse, right?」%K%P
+Kurumi「A walk? It's not like you promised to walk with someone else, right?」%K%P
 0x344
 誠「ま、まあ、そりゃそうなんだけど……」%K%P
 Makoto「W-Well, that's true, but...」%K%P
@@ -135,7 +135,7 @@ Yes, it is.
 You're right.
 0x390
 誠「問題あるよ！　今日は何が何でも散歩がしたい気分なんだ！」%K%P
-Makoto「It is a problem! I'm really in the mood for a walk today. I%Ntold myself I was going to do it, so I have to.」%K%P
+Makoto「It is a problem! I'm really in the mood for a walk today. I told myself I was going to do it, so I have to.」%K%P
 0x39C
 誠「今日、散歩をしないと末代までの恥さらしとしてっ」%K%P
 Makoto「If I don't do it, I think I'll really start to kick myself over it-」%K%P
@@ -156,7 +156,7 @@ Makoto「...」%K%P
 Kurumi「...」%K%P
 0x3EC
 誠「……と、言うのは冗談で、ほんとはぜ〜んぜん問題ないんだよなぁ〜、これがぁ〜」%K%P
-Makoto「... Well, that was a joke. In reality, there's no problem at all%Nwhatsoever〜」%K%P
+Makoto「... Well, that was a joke. In reality, there's no problem at all whatsoever〜」%K%P
 0x3F8
 くるみ「えへっ♪　ほいじゃあ決まりだね？」%K%P
 Kurumi「Eheh♪ Well then, it's decided!」%K%P
@@ -177,7 +177,7 @@ Kurumi grabs my arm and skips down the hill road...%K%P
 At any rate, why is Kurumi so cheerful?%K%P
 0x458
 昨日の夜、海を見つめていたときのあの寂しさは、今はどこにも見当たらない。%K%P
-I can't see any signs of the loneliness she showed last%Nnight while looking at the sea.%K%P
+I can't see any signs of the loneliness she showed last night while looking at the sea.%K%P
 0x464
 ひと晩寝て、吹っ切れてしまったのだろうか？%K%P
 Did she get over it after sleeping for one night?%K%P
@@ -186,28 +186,28 @@ Did she get over it after sleeping for one night?%K%P
 No, that's impossible.%K%P
 0x47C
 あの傷のことは、昨日今日生まれた話ではないのだ。%K%P
-That scar wasn't something that was born just%Nyesterday.%K%P
+That scar wasn't something that was born just yesterday.%K%P
 0x488
 心の底に、ぎゅっと寂しさを閉じ込めているのか？%K%P
-Could it be that she keeps her loneliness locked tightly%Nin the bottom of her heart?%K%P
+Could it be that she keeps her loneliness locked tightly in the bottom of her heart?%K%P
 0x494
 無理に明るく振る舞おうと……？%K%P
 Is she trying too hard to act overly cheerful...?%K%P
 0x4A0
 そう考えると、このくるみの清らかな笑い声も、切ないぐらいにけなげに思えた……。%K%P
-When I think that, I start to wonder if Kurumi's pure%Nlaughter is also completely fake...%K%P
+When I think that, I start to wonder if Kurumi's pure laughter is also completely fake...%K%P
 0x4F8
 くるみ「つっかま〜えた♪」%K%P
 Kurumi「Gotcha♪」%K%P
 0x504
 くるみは、姫ヶ浜に着いて５分も経たない内にカニを１匹捕まえていた。%K%P
-It hasn't even been five minutes since we arrived at%NPrincess Beach, and yet Kurumi's already caught a crab.%K%P
+It hasn't even been five minutes since we arrived at Princess Beach, and yet Kurumi's already caught a crab.%K%P
 0x510
 誠「お〜い！　足を滑らすなよ〜！」%K%P
 Makoto「Hey! Don't trip!」%K%P
 0x51C
 岩の縁に手を当て、潮だまりをのぞきこんでいるくるみに、オレは遠くから声をかけた。%K%P
-Kurumi grabs the edge of a rock, and peeks down at a%Nditch as I call her from far away.%K%P
+Kurumi grabs the edge of a rock, and peeks down at a ditch as I call her from far away.%K%P
 0x528
 くるみ「だいじょうぶぅ！」%K%P
 Kurumi「It's all right!」%K%P
@@ -216,7 +216,7 @@ Kurumi「It's all right!」%K%P
 Kurumi is acting like a carefree child.%K%P
 0x540
 くるみ「ねぇ、カニさん。くるみとジャンケンしようか？」%K%P
-Kurumi「Hey, Mr. Crab. Wanna play Rock-Paper-Scissors with%NKurumi?」%K%P
+Kurumi「Hey, Mr. Crab. Wanna play Rock-Paper-Scissors with Kurumi?」%K%P
 0x54C
 くるみ「せ〜の、じゃ〜んけ〜ん…………グ〜！」%K%P
 Kurumi「Ready, set, Rock, Paper, Scissors... Rock!」%K%P
@@ -228,10 +228,10 @@ Kurumi「Yay, Kurumi won〜♪」%K%P
 (It's like... the Kurumi last night was fake...)%K%P
 0x570
 （ひょっとして……あれは夢だった、とか？　少し酒も入っていたことだし……）%K%P
-(Could it be... that that was a dream? I was a little drunk,%Nafter all...)%K%P
+(Could it be... that that was a dream? I was a little drunk, after all...)%K%P
 0x57C
 天真爛漫なくるみの様子を見るうちに、オレは真剣にそんなことを思い始めていた。%K%P
-While looking at Kurumi acting so innocently, I seriously%Nbegin to consider that possibility.%K%P
+While looking at Kurumi acting so innocently, I seriously begin to consider that possibility.%K%P
 0x588
 背中の傷、か……。%K%P
 A scar on her back, huh...%K%P
@@ -255,7 +255,7 @@ Kurumi「Kurumi just picked up something a little interesting!」%K%P
 Makoto「Something interesting?」%K%P
 0x5DC
 くるみは岩場の上からひょいと砂浜に着地し、オレの元へと駆け寄って来た。%K%P
-Kurumi suddenly jumps off the rocks onto the sand, and%Nruns over to me.%K%P
+Kurumi suddenly jumps off the rocks onto the sand, and runs over to me.%K%P
 0x5F0
 誠「おもしろいものって……何だ？」%K%P
 Makoto「What's this something interesting?」%K%P
@@ -267,7 +267,7 @@ Kurumi「You wanna see it?」%K%P
 Makoto「Yeah...」%K%P
 0x614
 くるみ「じゃあ……ジャンケンして勝ったらね♪」%K%P
-Kurumi「Then you can... if you beat Kurumi in%NRock-Paper-Scissors♪」%K%P
+Kurumi「Then you can... if you beat Kurumi in Rock-Paper-Scissors♪」%K%P
 0x620
 誠「はぁ〜？」%K%P
 Makoto「Huh?」%K%P
@@ -285,7 +285,7 @@ Kurumi stretches the crab's claw out.%K%P
 ... Incidentally, I have paper.%K%P
 0x664
 くるみ「わ〜い、カニさんの勝ち〜♪　カニ大道楽、よかったね？」%K%P
-Kurumi「Yay, Mr. Crab won〜♪ Isn't this fun, Sumo Crab? Are you%Nglad?」%K%P
+Kurumi「Yay, Mr. Crab won〜♪ Isn't this fun, Sumo Crab? Are you glad?」%K%P
 0x670
 嬉しそうにカニに語りかけているくるみ。もう、名前なんてつけてるし……。%K%P
 Kurumi happily addresses the crab. Geez, don't name it...%K%P
@@ -318,7 +318,7 @@ Makoto「Y-Yeah...」%K%P
 Kurumi「Ready! ... Go!」%K%P
 0x714
 やがて、平たい岩を土俵にしてのカニ相撲が始まる。%K%P
-Before long, the two crabs begin to sumo on a flat rock%Nbeing used as the arena.%K%P
+Before long, the two crabs begin to sumo on a flat rock being used as the arena.%K%P
 0x720
 くるみが行司を勤め、オレは観客。%K%P
 Kurumi is serving as the referee, and I am the audience.%K%P
@@ -333,25 +333,25 @@ Kurumi and I hold our breaths in anticipation.%K%P
 Kurumi「GOOOO!」%K%P
 0x750
 ……ややハサミの小さなカニが、大柄なカニを押し出す！%K%P
-... The small crab pushes off the larger crab with its small%Nclaws!%K%P
+... The small crab pushes off the larger crab with its small claws!%K%P
 0x75C
 くるみ「押し出しでぇ、カニ大道楽の勝ちぃ〜♪」%K%P
 Kurumi「Ring out! Sumo Crab wins♪」%K%P
 0x768
 もしかして、さっきオレにジャンケンで勝ったカニか？%K%Nよく、あんなんで区別がつくものだ。%K%P
-Wait, is that the crab that beat me in%NRock-Paper-Scissors earlier? I guess giving it a name%Nwas a good way to distinguish them.%K%P
+Wait, is that the crab that beat me in Rock-Paper-Scissors earlier? I guess giving it a name was a good way to distinguish them.%K%P
 0x774
 くるみは、勝ったカニにも負けたカニにも、平等に撫で撫でをしてあげる。%K%P
 Kurumi pets both the winning and losing crabs equally.%K%P
 0x780
 そして、負けたカニを逃がしてあげる。名残惜しそうに手を振りながら……。%K%P
-After that, she lets the losing crab go while waving%Nsorrowfully at it...%K%P
+After that, she lets the losing crab go while waving sorrowfully at it...%K%P
 0x78C
 なんとも微笑ましい光景だった……。%K%P
 ... It's quite a pleasant scene.%K%P
 0x798
 （いづみさんの話は、今夜にでも聞けばいいか……）%K%P
-(It should be all right if ask Izumi-san about that story%Ntonight...)%K%P
+(It should be all right if ask Izumi-san about that story tonight...)%K%P
 0x7A4
 オレはいつしかそう思っていた。%K%P
 I think this to myself.%K%P
@@ -366,10 +366,10 @@ I just want to look at Kurumi as she is right now forever.%K%P
 Kurumi's smile seems like an angel's...%K%P
 0x7D4
 ……天使の微笑みは、心の中にわだかまったしこりを跡形も無く吹き飛ばしてしまった。%K%P
-... That angelic smile has blown away all traces of%Nuneasiness in my heart.%K%P
+... That angelic smile has blown away all traces of uneasiness in my heart.%K%P
 0x7E0
 オレの中で、何かが芽生え始めている──そのことに、今ようやく気がついた。%K%P
-Something has begun to sprout within me ―I finally%Nrealize what it is now.%K%P
+Something has begun to sprout within me ―I finally realize what it is now.%K%P
 0x7EC
 くるみをずっと……見守っていたかった……。%K%P
 It's my want... to watch over Kurumi forever...%K%P
@@ -381,10 +381,10 @@ After almost an hour, the crab sumo has ended.%K%P
 It was quite the splendid victory for Mr. Sumo Crab.%K%P
 0x85C
 カニ大道楽は、賞金のワカメ１年分をハサミに巻き付けて、海の中へと帰って行った……。%K%P
-As a reward, we give the crab a year's worth of%Nseaweed by wrapping them around its claws, then return%Nit to the sea...%K%P
+As a reward, we give the crab a year's worth of seaweed by wrapping them around its claws, then return it to the sea...%K%P
 0x868
 一段落着くと、たちまち空腹感がオレを襲った。%K%P
-Having finally reached a point where I can take a break, I%Nam suddenly assaulted by hunger.%K%P
+Having finally reached a point where I can take a break, I am suddenly assaulted by hunger.%K%P
 0x874
 そう言えば、今日はまだ何も食べていなかったっけ。%K%P
 Now that I think about it, I still haven't eaten at all today.%K%P
@@ -432,7 +432,7 @@ Makoto「Which means that you made these, Kurumi!?」%K%P
 Kurumi proudly nods.%K%P
 0x940
 誠「おおーっ、サンキュー！　それじゃあ早速っ……いっただっきま〜す♪」%K%P
-Makoto「Oh, thank you! Well then, I'll get to it right away... Time to%Neat♪」%K%P
+Makoto「Oh, thank you! Well then, I'll get to it right away... Time to eat♪」%K%P
 0x94C
 ひと口ほおばる。%K%P
 I take a bite.%K%P
@@ -450,10 +450,10 @@ Lying on top of my tongue is something like a small grain...%K%P
 When I bite on it, I feel an exquisite, lumpy sensation...%K%P
 0x988
 口の中にふわっと広がる磯の香りと適度な塩味……。%K%P
-It's has a moderately salty taste with an aroma like the%Nseashore that's spreading all over my mouth...%K%P
+It's has a moderately salty taste with an aroma like the seashore that's spreading all over my mouth...%K%P
 0x994
 それは、いまだかつて経験したことのない、昇天してしまいそうなほどの美味さだった！%K%P
-I've never tasted it up until now, but it's so good that I%Nfeel like I've died and gone to heaven!%K%P
+I've never tasted it up until now, but it's so good that I feel like I've died and gone to heaven!%K%P
 0x9A0
 誠「くるみ……これ……中に何が入ってんだ？」%K%P
 Makoto「Kurumi... what's... in these?」%K%P
@@ -465,7 +465,7 @@ Kurumi「Caviar.」%K%P
 Makoto「Ah... caviar... so that's why it's so good...」%K%P
 0x9C4
 誠「ってキャビア！？　あの世界３大珍味のひとつキャビアがぁ！？」%K%P
-Makoto「Wait, CAVIAR!? You mean one of the three greatest%Ndelicacies of the world!?」%K%P
+Makoto「Wait, CAVIAR!? You mean one of the three greatest delicacies of the world!?」%K%P
 0x9D0
 くるみ「そだよ」%K%P
 Kurumi「That's right.」%K%P
@@ -474,7 +474,7 @@ Kurumi「That's right.」%K%P
 Makoto「Is it the real deal?」%K%P
 0x9E8
 くるみ「もちろん♪　お店の冷蔵庫の中に入ってたから、ちょっと拝借しちゃった♪」%K%P
-Kurumi「Of course♪ It was in the fridge at the shop, so Kurumi%Nborrowed some♪」%K%P
+Kurumi「Of course♪ It was in the fridge at the shop, so Kurumi borrowed some♪」%K%P
 0x9F4
 誠「いづみさんにはちゃんと断ったんだよなぁ？」%K%P
 Makoto「Does Izumi-san know about this?」%K%P
@@ -483,13 +483,13 @@ Makoto「Does Izumi-san know about this?」%K%P
 Kurumi「Nope.」%K%P
 0xA0C
 誠「ううんって……平気なのか？　キャビアって、べらぼうに高いんだったよな、確か？」%K%P
-Makoto「'Nope'... then is it all right? Caviar is ridiculously%Nexpensive, isn't it?」%K%P
+Makoto「'Nope'... then is it all right? Caviar is ridiculously expensive, isn't it?」%K%P
 0xA18
 くるみ「大丈夫、大丈夫。お姉ちゃん、そういうの気づかない人だから……」%K%P
-Kurumi「It's all right, it's all right. Onee-chan isn't the kind of%Nperson who will notice it...」%K%P
+Kurumi「It's all right, it's all right. Onee-chan isn't the kind of person who will notice it...」%K%P
 0xA24
 誠「気づかないって言っても、このおにぎりの個数と、具の量からすると、結構たくさん使ったんだろ？」%K%P
-Makoto「Even though you say she won't notice, it seems that you%Nused quite a lot. How much caviar did you use anyway?」%K%P
+Makoto「Even though you say she won't notice, it seems that you used quite a lot. How much caviar did you use anyway?」%K%P
 0xA30
 くるみ「ひとビンね？　ひとビン、まるまる使っちゃった♪」%K%P
 Kurumi「One bottle of it. Kurumi completely used up that bottle♪」%K%P
@@ -498,7 +498,7 @@ Kurumi「One bottle of it. Kurumi completely used up that bottle♪」%K%P
 Makoto「...」%K%P
 0xA48
 くるみ「ビンごとなくなってれば、逆に気づかないでしょ？」%K%P
-Kurumi「But if Kurumi gets rid of the bottle, then on the other%Nhand, Onee-chan won't notice anything, right?」%K%P
+Kurumi「But if Kurumi gets rid of the bottle, then on the other hand, Onee-chan won't notice anything, right?」%K%P
 0xA54
 いづみさん……最高ですよ、あなたの妹は……。%K%P
 Izumi-san... your sister is amazing...%K%P
@@ -513,22 +513,22 @@ Kurumi「When we're done eating, you wanna do something fun?」%K%P
 Makoto「Something fun???」%K%P
 0xB1C
 空腹を満たし、しばらく休んだオレ達は、今、展望公園へと向かって歩いている。%K%P
-My hunger satisfied, we rest for a while, and then walk%Ntowards Viewpoint Park.%K%P
+My hunger satisfied, we rest for a while, and then walk towards Viewpoint Park.%K%P
 0xB28
 『おもしろいことしよっか？』というくるみの言葉に従って、ここまでついて来たのだった。%K%P
-「You wanna do something fun?」 We came here because I%Ndecide to abide by Kurumi's words.%K%P
+「You wanna do something fun?」 We came here because I decide to abide by Kurumi's words.%K%P
 0xB34
 例によって、くるみはその内容を教えてくれなかった。%K%P
 However, as usual, she didn't tell me any details.%K%P
 0xB40
 『着いてからのお楽しみ』だと言うが……。%K%P
-「It'll be more fun to find out when you get there yourself,」%Nshe said...%K%P
+「It'll be more fun to find out when you get there yourself,」 she said...%K%P
 0xB4C
 …………………………。%K%P
 ...%K%P
 0xB58
 桜並木を並んで歩いていると、ふいにくるみはこんなことを尋ねて来た。%K%P
-When we walk down the road surrounded by cherry%Nblossom trees, Kurumi suddenly asks me something.%K%P
+When we walk down the road surrounded by cherry blossom trees, Kurumi suddenly asks me something.%K%P
 0xB6C
 くるみ「ねぇ？　お兄ちゃんの夢ってなぁに？」%K%P
 Kurumi「Hey? What's your dream, Onii-chan?」%K%P
@@ -537,7 +537,7 @@ Kurumi「Hey? What's your dream, Onii-chan?」%K%P
 Dream, huh...%K%P
 0xB84
 誠「漠然としたものはあるけど、特にこれって言うような明確なものは無いかもなぁ……」%K%P
-Makoto「I have something vague, but nothing in particular you%Ncould really call a clear dream...」%K%P
+Makoto「I have something vague, but nothing in particular you could really call a clear dream...」%K%P
 0xB90
 くるみ「ふーん……」%K%P
 Kurumi「Hmm...」%K%P
@@ -555,7 +555,7 @@ Kurumi「Is to become a wife♪」%K%P
 Makoto「...」%K%P
 0xBDC
 くるみ「あっ……今『ありきたりだなぁ、こいつ』って思ったでしょ？」%K%P
-Kurumi「Ah... Kurumi bets you think it's rather dull and ordinary,%Ndon't you?」%K%P
+Kurumi「Ah... Kurumi bets you think it's rather dull and ordinary, don't you?」%K%P
 0xBE8
 誠「いや、思ってないよ……」%K%P
 Makoto「No, I don't...」%K%P
@@ -570,61 +570,61 @@ Kurumi「Teheh♪」%K%P
 Kurumi「Kurumi has always wanted a warm family.」%K%P
 0xC20
 くるみ「ほら、うちって、パパもママも研究ばっかしてて、ほとんど家にいなかったから……」%K%P
-Kurumi「You see, with her family, her Papa and Mama do nothing%Nbut research, so they rarely come home...」%K%P
+Kurumi「You see, with her family, her Papa and Mama do nothing but research, so they rarely come home...」%K%P
 0xC2C
 誠「そっかぁ……」%K%P
 Makoto「I see...」%K%P
 0xC38
 くるみ「お嫁さんになること……あったかい家庭……ありきたりな夢……」%K%P
-Kurumi「To become a wife... to have a warm family... What an%Nordinary dream...」%K%P
+Kurumi「To become a wife... to have a warm family... What an ordinary dream...」%K%P
 0xC44
 くるみ「だけど『ありきたり』って、すごく幸せなことだと思うんだぁ……」%K%P
-Kurumi「But even though it's 'ordinary', Kurumi thinks that it's a%Nvery happy thing...」%K%P
+Kurumi「But even though it's 'ordinary', Kurumi thinks that it's a very happy thing...」%K%P
 0xC50
 誠「……」%K%P
 Makoto「...」%K%P
 0xC5C
 くるみ「疲れ切って仕事から帰って来ただんなさんに、まずはあったかいスープを１杯、出してあげるの」%K%P
-Kurumi「When Kurumi's husband comes home from work all%Nexhausted, she'll first give him a bowl of warm soup.」%K%P
+Kurumi「When Kurumi's husband comes home from work all exhausted, she'll first give him a bowl of warm soup.」%K%P
 0xC68
 くるみ「あったかいお風呂を用意して……あったかい日本酒を、お酌してあげたりして……」%K%P
-Kurumi「She'll prepare a warm bath for him... and pour him a cup of%Nwarm sake...」%K%P
+Kurumi「She'll prepare a warm bath for him... and pour him a cup of warm sake...」%K%P
 0xC74
 くるみ「子供達は、くるみとだんなさんの間にはさまれて、あったかい笑顔を浮かべてる……」%K%P
-Kurumi「Our kids will get between us, and we'll all have warm%Nsmiles rise to our faces...」%K%P
+Kurumi「Our kids will get between us, and we'll all have warm smiles rise to our faces...」%K%P
 0xC80
 誠「……」%K%P
 Makoto「...」%K%P
 0xC8C
 くるみ「夏は、窓を開けっぱなしにして、風鈴の音を聞きながら、家族みんなでナイター中継を見るの……」%K%P
-Kurumi「In the summer, we'll leave the windows open, and the%Nwhole family will watch a night game on TV while listening%Nto the wind chimes...」%K%P
+Kurumi「In the summer, we'll leave the windows open, and the whole family will watch a night game on TV while listening to the wind chimes...」%K%P
 0xC98
 くるみ「冬は、こたつにくるまって、みかんを食べながら、風邪薬のＣＭを見たりとかして……」%K%P
-Kurumi「In the winter, we'll wrap ourselves up in a kotatsu, and%Nwatch cold medicine commercials while eating oranges...」%K%P
+Kurumi「In the winter, we'll wrap ourselves up in a kotatsu, and watch cold medicine commercials while eating oranges...」%K%P
 0xCA4
 風邪薬のＣＭ、か……。%K%P
 Cold medicine commercials, huh...%K%P
 0xCB0
 くるみ「特別なことなんか、なんにも要らないの……。平凡な日常……極普通のありきたりの家庭……」%K%P
-Kurumi「We won't need anything special... Just ordinary days...%Nas a very plain, ordinary family...」%K%P
+Kurumi「We won't need anything special... Just ordinary days... as a very plain, ordinary family...」%K%P
 0xCBC
 くるみ「だんなさんのあったかい胸に顔をうずめて……夜はすやすやと眠るんだぁ……」%K%P
-Kurumi「At night, Kurumi will bury her face in her husband's warm%Nchest... and sleep soundly...」%K%P
+Kurumi「At night, Kurumi will bury her face in her husband's warm chest... and sleep soundly...」%K%P
 0xCC8
 くるみ「それだけで、くるみはじゅうぶん幸せだから……」%K%P
 Kurumi「That alone will be enough to make Kurumi happy...」%K%P
 0xCD4
 誠「……うん。きっと、それは幸せだよ。そういうのが、本当の幸せなんだろうな……たぶん」%K%P
-Makoto「... Yeah. That's definitely happiness. Something like that%Nis true happiness... probably.」%K%P
+Makoto「... Yeah. That's definitely happiness. Something like that is true happiness... probably.」%K%P
 0xCE0
 くるみはオレの言葉を聞いて、ちょっと照れくさそうに微笑んだ。%K%P
-Kurumi listens to me, and gives me a slightly%Nembarrassed smile.%K%P
+Kurumi listens to me, and gives me a slightly embarrassed smile.%K%P
 0xCEC
 ひらひらと舞い落ちる桜の花びらが、ひとひら、くるみの鼻先にちょこんと乗った。%K%P
-The cherry blossom petals flutter and fall down, and one%Nof them lands on the tip of Kurumi's nose.%K%P
+The cherry blossom petals flutter and fall down, and one of them lands on the tip of Kurumi's nose.%K%P
 0xCF8
 くるみはそれを、そっと指先で払いながら、また照れくさそうに微笑むのだった。%K%P
-Kurumi gently brushes it off with her fingertip while giving%Nanother embarrassed smile.%K%P
+Kurumi gently brushes it off with her fingertip while giving another embarrassed smile.%K%P
 0xD14
 くるみ「ねぇ、お兄ちゃん？」%K%P
 Kurumi「Hey, Onii-chan?」%K%P
@@ -654,16 +654,16 @@ Makoto「...」%K%P
 Kurumi「C'mon, let's hurry up and do that 'something fun'♪」%K%P
 0xD88
 くるみはオレの手をぐんぐんとひっぱって、展望公園へと導いて行く……。%K%P
-Kurumi drags me by my hand, and guides me towards%NViewpoint Park...%K%P
+Kurumi drags me by my hand, and guides me towards Viewpoint Park...%K%P
 0xD94
 空はこんなにも曇っているというのに、オレの心は何故か、夏の青空のようにすがすがしく澄み渡っていた……。%K%P
-For some reason, although the sky is grey, my heart is%Nas clear as a blue sky on a sunny day...%K%P
+For some reason, although the sky is grey, my heart is as clear as a blue sky on a sunny day...%K%P
 0xE30
 展望公園に着いたオレとくるみは、石のタイルの上にストンと腰を下ろした。%K%P
-Kurumi and I arrive at Viewpoint Park, and sit down on the%Ntiles with a thump.%K%P
+Kurumi and I arrive at Viewpoint Park, and sit down on the tiles with a thump.%K%P
 0xE3C
 すると、くるみは空っぽになったバスケットの底から、おもむろに何かを取り出した。%K%P
-When we do, Kurumi reaches into the bottom of the empty%Nbasket, and slowly takes something out.%K%P
+When we do, Kurumi reaches into the bottom of the empty basket, and slowly takes something out.%K%P
 0xE48
 ビニールに包まれた、正方形の、薄い、何か。%K%P
 It's something thin and square wrapped up in plastic.%K%P
@@ -684,7 +684,7 @@ Kurumi「O-R-I-G-A-M-I... It's origami.」%K%P
 Makoto「And what are we doing with it?」%K%P
 0xE98
 くるみ「何するんだ？って……折り紙持って来たんだから、折り紙するに決まってるでしょ？」%K%P
-Kurumi「'What'? ... Isn't it obvious what you do when you have%Norigami?」%K%P
+Kurumi「'What'? ... Isn't it obvious what you do when you have origami?」%K%P
 0xEA4
 誠「は、はぁ……」%K%P
 Makoto「R-Right...」%K%P
@@ -717,7 +717,7 @@ Makoto「?」%K%P
 Makoto「I can't.」%K%P
 0xF50
 くるみ「ええ〜っ！　この大不況の御時世に、折り紙のひとつもできないなんてぇ！」%K%P
-Kurumi「What!? There's someone in these times of recession%Nthat can't fold origami!? Impossible!」%K%P
+Kurumi「What!? There's someone in these times of recession that can't fold origami!? Impossible!」%K%P
 0xF5C
 不況と折り紙って関係あるのか？%K%P
 What the hell does origami have to do with a recession?%K%P
@@ -741,13 +741,13 @@ Kurumi「And you do this over here, and fold it like this...」%K%P
 Makoto「L-Like this?」%K%P
 0xFD0
 くるみ「ちっが〜う！　ここは山折りじゃなくて、谷折りぃぃぃ！」%K%P
-Kurumi「Wrong! Don't use the mountain folding style, use the%Nvalley folding style!!!」%K%P
+Kurumi「Wrong! Don't use the mountain folding style, use the valley folding style!!!」%K%P
 0xFDC
 誠「あっ、こうか？」%K%P
 Makoto「Oh, like this?」%K%P
 0xFE8
 くるみ「ダメ〜ッ！　まず裏っかえしにしてから、左側だけ谷折りにするの！」%K%P
-Kurumi「No! First, you turn it inside out, and only fold the left side%Nlike a valley!」%K%P
+Kurumi「No! First, you turn it inside out, and only fold the left side like a valley!」%K%P
 0xFF4
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -771,7 +771,7 @@ Makoto「No, it's not like I was trying to-」%K%P
 Kurumi「Oh, geez... Here!」%K%P
 0x1050
 くるみは新しい折り紙を１枚抜き取って、オレに手渡した。%K%P
-Kurumi pulls out a new sheet of origami paper, and gives%Nit to me.%K%P
+Kurumi pulls out a new sheet of origami paper, and gives it to me.%K%P
 0x1064
 くるみ「最初っからやり直し！」%K%P
 Kurumi「We'll start again from the top!」%K%P
@@ -804,28 +804,28 @@ Kurumi「The tail is completely off-mark.」%K%P
 Professor Kurumi really is strict.%K%P
 0x115C
 誠「だけど、初心者にいきなりカメっていうのは、いくらなんでも難し過ぎるよ」%K%P
-Makoto「But for a beginner like me, it's way too difficult to make a%Ngood turtle out of the blue.」%K%P
+Makoto「But for a beginner like me, it's way too difficult to make a good turtle out of the blue.」%K%P
 0x1168
 くるみ「まあ、それもそうなんだけどね？　カメはベテランでも失敗することがあるらしいし……」%K%P
-Kurumi「Well, Kurumi supposes that's true. It seems even%Nveterans fail with turtles sometimes...」%K%P
+Kurumi「Well, Kurumi supposes that's true. It seems even veterans fail with turtles sometimes...」%K%P
 0x1174
 くるみ「折り紙マニアの間では、桃栗３年カメ８年って言われてるぐらいだから……」%K%P
-Kurumi「They say that amongst origami maniacs, it takes about%Nthree years to perfect a peach and chestnut tree, and%Nabout eight years for a turtle...」%K%P
+Kurumi「They say that amongst origami maniacs, it takes about three years to perfect a peach and chestnut tree, and about eight years for a turtle...」%K%P
 0x1180
 誠「…………」%K%P
 Makoto「...」%K%P
 0x118C
 ところでくるみの方は？　と思って懐を覗き込むと……。%K%P
-Incidentally, what's Kurumi been up to? Thinking that, I%Nlook towards her...%K%P
+Incidentally, what's Kurumi been up to? Thinking that, I look towards her...%K%P
 0x1198
 誠「うわっ！　いつの間にこんな……！」%K%P
 Makoto「Whoa! When did you make so many...!?」%K%P
 0x11A4
 くるみは、わずか１０分の間に、いくつもの折り紙を作り上げていた。%K%P
-In a mere ten minutes, Kurumi has folded many different%Norigami.%K%P
+In a mere ten minutes, Kurumi has folded many different origami.%K%P
 0x11B0
 しかも、紙と紙との重なりあった部分には１ミリのずれもなく、すべてがきれいにピッチリと折られている。%K%P
-Moreover, everything is so accurately folded that there%Nisn't even an inch of a gap where the two ends of the%Npaper meet.%K%P
+Moreover, everything is so accurately folded that there isn't even an inch of a gap where the two ends of the paper meet.%K%P
 0x11BC
 カミワザとは、まさにこのことか……。%K%P
 She's a genius...%K%P
@@ -837,7 +837,7 @@ Kurumi「Isn't it amazing?」%K%P
 Kurumi says this proudly.%K%P
 0x11E8
 オレは、そのうちのひとつを慎重につまみあげ、尋ねた。%K%P
-As she says this, I carefully pick up one of them in%Nbetween my fingers.%K%P
+As she says this, I carefully pick up one of them in between my fingers.%K%P
 0x11F4
 誠「これは、何？」%K%P
 Makoto「What's this?」%K%P
@@ -855,7 +855,7 @@ Kurumi「King Girado.」%K%P
 Makoto「...」%K%P
 0x1230
 くるみ「でぇ、これが『武田信玄』で、これが『アサガオ』で、これが『沖縄サミット』……」%K%P
-Kurumi「And this is 'Takeda Shingen', this is a 'Morning Glory', this%Nis the 'Okinawa Summit'...」%K%P
+Kurumi「And this is 'Takeda Shingen', this is a 'Morning Glory', this is the 'Okinawa Summit'...」%K%P
 0x123C
 しかし、すごいバリエーションだな……。%K%P
 Wow, there's a lot of variation...%K%P
@@ -870,7 +870,7 @@ Makoto「... Oh... but Kurumi? There's one more left, isn't there?」%K%P
 Kurumi「Oh, this?」%K%P
 0x126C
 言いながら、くるみが最後に残った１個を手の平の上に乗せる。%K%P
-As she says that, Kurumi takes the last one left and%Nplaces it on her palm.%K%P
+As she says that, Kurumi takes the last one left and places it on her palm.%K%P
 0x1278
 誠「そのしわくちゃの折り紙……それは何なんだ？」%K%P
 Makoto「This wrinkled origami... what is it?」%K%P
@@ -894,10 +894,10 @@ Makoto「...」%K%P
 Kurumi「Eheh♪」%K%P
 0x12DC
 誠「……に、似てない……。どう見たって似てないだろ、それ！？」%K%P
-Makoto「... It-It doesn't resemble me... No matter how you look at it,%Nit doesn't resemble me at all, does it!?」%K%P
+Makoto「... It-It doesn't resemble me... No matter how you look at it, it doesn't resemble me at all, does it!?」%K%P
 0x12E8
 誠「こっちの武田信玄の方が、全然カッコイイじゃないかぁ〜！」%K%P
-Makoto「It doesn't look anywhere near as badass as Takeda%NShingen!」%K%P
+Makoto「It doesn't look anywhere near as badass as Takeda Shingen!」%K%P
 0x12F4
 くるみ「そうかなぁ〜……。くるみは似てると思うけどぉ……」%K%P
 Kurumi「Dunno about that... Kurumi thinks you look like it...」%K%P
@@ -930,34 +930,34 @@ Although I think this...%K%P
 Makoto「Th-Thank you...」%K%P
 0x1384
 ……オレはそうつぶやいて『オレ』をオレのポケットの中に、丁寧にしまい込んだ。%K%P
-... I mutter these words, and carefully place 「me」 in my%Npocket.%K%P
+... I mutter these words, and carefully place 「me」 in my pocket.%K%P
 0x1390
 くるみは満面の笑顔を浮かべて、オレのことを優しく見つめていた……。%K%P
-A smile rises to Kurumi's face, and she looks at me with%Nkindness...%K%P
+A smile rises to Kurumi's face, and she looks at me with kindness...%K%P
 0x140C
 その後、オレとくるみは１時間以上も折り紙を折り続けた。%K%P
-After that, Kurumi and I continue to fold origami for an%Nhour.%K%P
+After that, Kurumi and I continue to fold origami for an hour.%K%P
 0x1418
 気がつけば、いつの間にかオレまでもが無邪気なくるみに感化され、童心に帰っていた。%K%P
-Before I know it, I realize that Kurumi's childlike innocence%Nis rubbing off on me.%K%P
+Before I know it, I realize that Kurumi's childlike innocence is rubbing off on me.%K%P
 0x1424
 折り紙は、黒いのも、銀色のも、金色のも、全て使い果たしてしまった。%K%P
-We use up all the origami, the black papers, the silver%Npapers, and the gold papers.%K%P
+We use up all the origami, the black papers, the silver papers, and the gold papers.%K%P
 0x1430
 ただし、最後に白い紙だけが、１枚残ってはいたが……。%K%P
 However, there's one sheet of white origami paper left...%K%P
 0x143C
 くるみは、山のように積まれた完成品の折り紙を、空になったバスケットの中へとしまった。%K%P
-Kurumi places all of the completed origami works in the%Nempty basket like a mountain.%K%P
+Kurumi places all of the completed origami works in the empty basket like a mountain.%K%P
 0x1448
 フタを閉じ、パチンと留め金を下ろすくるみ。%K%P
-She closes the lid, and with a snap, lowers the snap%Nfastener.%K%P
+She closes the lid, and with a snap, lowers the snap fastener.%K%P
 0x1454
 そうして、最後に残った白い１枚を、くるみは何も言わず、黙々と折り始めたのだった。%K%P
-And then, without a word, Kurumi takes the last white%Npaper and begins to fold it.%K%P
+And then, without a word, Kurumi takes the last white paper and begins to fold it.%K%P
 0x1460
 オレも、あえて口をつぐんだまま、くるみの鮮やかな手さばきを黙って見つめる。%K%P
-I keep my mouth shut and silently watch her skillful%Nhandling.%K%P
+I keep my mouth shut and silently watch her skillful handling.%K%P
 0x1474
 くるみ「で〜きたっと♪」%K%P
 Kurumi「It's done♪」%K%P
@@ -966,7 +966,7 @@ Kurumi「It's done♪」%K%P
 It's a white paper airplane.%K%P
 0x148C
 通常の折り方ではなく、くるみ流の独特の折り方で折られている。%K%P
-It hasn't been folded in the traditional style, but rather%Nmade using the Kurumi style's unique folding method.%K%P
+It hasn't been folded in the traditional style, but rather made using the Kurumi style's unique folding method.%K%P
 0x1498
 くるみ「名付けて、くるみ１７号！」%K%P
 Kurumi「Kurumi will call it Kurumi Unit 17!」%K%P
@@ -975,7 +975,7 @@ Kurumi「Kurumi will call it Kurumi Unit 17!」%K%P
 Makoto「Unit 17?」%K%P
 0x14B0
 くるみ「うん。くるみが、日夜研究につぐ研究を重ね、いっちばん遠くに飛ぶ折り方を編み出したの」%K%P
-Kurumi「Yeah. Kurumi spent day and night researching and%Nresearching to come up with the best way to fold it so it%Nwould fly the farthest.」%K%P
+Kurumi「Yeah. Kurumi spent day and night researching and researching to come up with the best way to fold it so it would fly the farthest.」%K%P
 0x14BC
 誠「つまり、バージョン１７ってことか？」%K%P
 Makoto「In other words, this is Version 17?」%K%P
@@ -984,7 +984,7 @@ Makoto「In other words, this is Version 17?」%K%P
 Kurumi「That's right♪」%K%P
 0x14D4
 くるみ「あっ……だけどこの折り方、企業秘密だから。絶対誰にも教えちゃダメだよ？」%K%P
-Kurumi「Ah... but this folding method is a trade secret. You%Nmustn't tell anyone about it, no matter what.」%K%P
+Kurumi「Ah... but this folding method is a trade secret. You mustn't tell anyone about it, no matter what.」%K%P
 0x14E0
 くるみ「くるみも、まだ誰にも教えてないんだから……」%K%P
 Kurumi「Kurumi still hasn't told anyone either, so...」%K%P
@@ -993,7 +993,7 @@ Kurumi「Kurumi still hasn't told anyone either, so...」%K%P
 Makoto「Yeah... I understand.」%K%P
 0x14F8
 オレの返事を聞き、軽くうなずいたくるみは、静かに立ち上がった。%K%P
-When she hears my response, Kurumi lightly nods, and%Nquietly stands up.%K%P
+When she hears my response, Kurumi lightly nods, and quietly stands up.%K%P
 0x1504
 手すりに向かって歩いて行くくるみ。%K%P
 She walks over towards the handrail.%K%P
@@ -1014,19 +1014,19 @@ Kurumi「Go♪」%K%P
 ... and throws the paper airplane into the sky.%K%P
 0x1564
 風のない海の上……１７号は滑るようにして真っ直ぐと飛んで行く……。%K%P
-Unit 17 glides in a straight line... flying above the windless%Nsea...%K%P
+Unit 17 glides in a straight line... flying above the windless sea...%K%P
 0x1570
 どこまでも……どこまでも……果てしなく……。%K%P
-Endlessly... endlessly... endlessly flying without%Ndestination...%K%P
+Endlessly... endlessly... endlessly flying without destination...%K%P
 0x157C
 １本の白いラインを引くように……。%K%P
 It's like it's drawing a straight white line...%K%P
 0x1588
 どんどんと小さくなっていく機影……。%K%P
-I steadily begin to lose sight of the airplane as it gets%Nsmaller...%K%P
+I steadily begin to lose sight of the airplane as it gets smaller...%K%P
 0x1594
 三角の翼……やがてそれは点になり……さざ波にまぎれて見えなくなった。%K%P
-All I see are its triangular wings, and before long, it's%Nnothing more than a dot... I can't even see any ripples.%K%P
+All I see are its triangular wings, and before long, it's nothing more than a dot... I can't even see any ripples.%K%P
 0x15A8
 くるみ「ほらね？」%K%P
 Kurumi「You see?」%K%P
@@ -1038,7 +1038,7 @@ Kurumi is happy.%K%P
 I don't know why, but I become happy as well.%K%P
 0x15D4
 ……オレとくるみは、流れるように自然に手をつないで、１７号の飛び立った展望公園を後にした。%K%P
-... Kurumi and I spontaneously hold hands, and leave%NViewpoint Park, the park where Unit 17 took off on its first%Nand last flight.%K%P
+... Kurumi and I spontaneously hold hands, and leave Viewpoint Park, the park where Unit 17 took off on its first and last flight.%K%P
 0x1648
 くるみ「今日は楽しかったね？」%K%P
 Kurumi「Wasn't today fun?」%K%P
@@ -1065,7 +1065,7 @@ I smile as I answer.%K%P
 Kurumi「Yay♪」%K%P
 0x16B0
 風は無かったが、曇り空のせいで、この時間にもなると空気が冷たかった。%K%P
-There's no wind, but because of these clouds, it's cold%Nright now.%K%P
+There's no wind, but because of these clouds, it's cold right now.%K%P
 0x16BC
 ただ、手の平だけがぽかぽかと温かい。%K%P
 However, I only feel warmth through my hand.%K%P
@@ -1089,7 +1089,7 @@ Makoto「Show me something?」%K%P
 Kurumi「If it's you, Onii-chan, then she can show you...」%K%P
 0x1720
 くるみはそう言って、いきなりオレを道沿いの茂みの中へと連れ込んだ。%K%P
-Kurumi says this, then suddenly brings me into a thicket%Non the side of the road.%K%P
+Kurumi says this, then suddenly brings me into a thicket on the side of the road.%K%P
 0x1768
 誠「な、なんだよ……？　急にこんなとこ引っぱり込んで……」%K%P
 Makoto「W-What is it...? Why did you suddenly drag me in here...?」%K%P
@@ -1098,7 +1098,7 @@ Makoto「W-What is it...? Why did you suddenly drag me in here...?」%K%P
 Kurumi doesn't answer.%K%P
 0x1788
 口をきゅっと結んだまま……何故かくるりと背中を向けた。%K%P
-She remains silent... and turns around for some reason,%Nher back facing me.%K%P
+She remains silent... and turns around for some reason, her back facing me.%K%P
 0x179C
 誠「？？？」%K%P
 Makoto「???」%K%P
@@ -1110,7 +1110,7 @@ Just then...%K%P
 Whoosh...%K%P
 0x17C0
 ──突然、くるみは、上の服を首の所までまくりあげた……。%K%P
-―All of the sudden, Kurumi raises all the clothes off%Nthe upper half of her body up to her neck...%K%P
+―All of the sudden, Kurumi raises all the clothes off the upper half of her body up to her neck...%K%P
 0x17CC
 くるみの……小さな背中。%K%P
 I can now see... Kurumi's small back.%K%P
@@ -1143,13 +1143,13 @@ No, I mustn't avert my eyes.%K%P
 I steady myself, and look at the scar.%K%P
 0x1860
 正直言って、悲しくなるような傷痕だった。%K%P
-To be honest, it's a scar that makes me sad just seeing%Nit.%K%P
+To be honest, it's a scar that makes me sad just seeing it.%K%P
 0x186C
 ギザギザに尖った傷の線──小さな小さなかぼそい背中に、それが何本も何本も無数に走っているのだ。%K%P
-The pointy zigzag lines of scars― lots and lots of%Nsuch lines are running down her tiny, narrow back.%K%P
+The pointy zigzag lines of scars―lots and lots of such lines are running down her tiny, narrow back.%K%P
 0x1878
 なめらかに伸びる素肌の中に、とても不自然な、ぼこぼことしたおうとつが隆起している。%K%P
-Rough bulges are protruding unnaturally on the%Notherwise smooth surface of her bare skin.%K%P
+Rough bulges are protruding unnaturally on the otherwise smooth surface of her bare skin.%K%P
 0x1884
 赤紫色に変色したおうとつ……。%K%P
 It's a reddish-violet discoloration...%K%P
@@ -1188,7 +1188,7 @@ She turns around to face me.%K%P
 Kurumi「It's all right... you don't have to say anything...」%K%P
 0x1914
 くるみ「くるみが勝手に見せたいって、思っただけだから……」%K%P
-Kurumi「All you have to do is think 'Kurumi was selfish for wanting%Nto show it to me'...」%K%P
+Kurumi「All you have to do is think 'Kurumi was selfish for wanting to show it to me'...」%K%P
 0x1920
 誠「……」%K%P
 Makoto「...」%K%P
@@ -1233,7 +1233,7 @@ The scar has nothing to do with anything!%K%P
 Kurumi is Kurumi, isn't she!?%K%P
 0x1A00
 ずっと見守っていたいって、そう思ったんだろ！？%K%P
-I thought to myself that I wanted to watch over her%Nforever, right!?%K%P
+I thought to myself that I wanted to watch over her forever, right!?%K%P
 0x1A0C
 今、オレにしてやれることは何だ！？%K%P
 Then what should I do right now!?%K%P
@@ -1263,7 +1263,7 @@ Makoto「... Do you hate them?」%K%P
 Kurumi「Nope♪ Kurumi loves them♪」%K%P
 0x1A88
 誠「よしっ！　それじゃあ、向こうに帰ったら、遊園地に行こう！」%K%P
-Makoto「All right! Then when we get back to the mainland, let's go%Nto an amusement park!」%K%P
+Makoto「All right! Then when we get back to the mainland, let's go to an amusement park!」%K%P
 0x1A9C
 くるみ「えっ！　連れてってくれるのぉ？」%K%P
 Kurumi「Huh!? You'll take Kurumi?」%K%P
@@ -1323,10 +1323,10 @@ I give a deep nod as I answer.%K%P
 ...%K%P
 0x1B98
 帰り道……オレとくるみは、小指だけ結んだまま、ルナビーチへと歩いて行った……。%K%P
-On our way back... Kurumi and I keep our pinkies wrapped%Naround each other as we walk back to Lunabeach...%K%P
+On our way back... Kurumi and I keep our pinkies wrapped around each other as we walk back to Lunabeach...%K%P
 0x1C2C
 いづみさんを交え、オレとくるみはルナビーチで夕食をとった。%K%N%N
-We meet up with Izumi-san, and have dinner at%NLunabeach.%K%N%N
+We meet up with Izumi-san, and have dinner at Lunabeach.%K%N%N
 0x1C38
 「ほいでねぇ、ほいでねぇ、カニ大道楽がねぇ♪」%K%N%N
 「"And so then, Mr. Sumo Crab...♪"」%K%N%N
@@ -1347,7 +1347,7 @@ There's not even a single bit of gloominess to be found...%K%N
 Not from the music flowing from the jukebox...%K%N
 0x1C90
 寄せては返す波の音も……%K%N
-Not from the roar of waves, constantly going in and out%Nof the shore...%K%N
+Not from the roar of waves, constantly going in and out of the shore...%K%N
 0x1C9C
 いづみさんが作ったコーンポタージュも……%K%N
 Not from Izumi-san's homemade corn soup...%K%N
@@ -1359,7 +1359,7 @@ Not from Kurumi's face... Not from Izumi-san's face...%K%P
 ... All of them are warm.%K%N
 0x1CC0
 そんな日だまりのような温もりの中で、オレは心地よい気分にすっかりと酔いしれていた。%K%P
-I am completely intoxicated by the comfortable mood in%Nthis sunshine-like warmth.%K%P
+I am completely intoxicated by the comfortable mood in this sunshine-like warmth.%K%P
 0x1CD4
 「ところで、くるみ？」%K%N%N
 「"By the way, Kurumi?」%K%N%N

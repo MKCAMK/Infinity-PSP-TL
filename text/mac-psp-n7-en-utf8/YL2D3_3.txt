@@ -3,13 +3,13 @@ text area offset and size:
 0x2638
 0xC8
 例のいづみさんの手作りカレーを食べ終えた%Nオレ達は、くるみの提案で肝だめしをすることに%Nなった。%K%P
-After we finish eating Izumi-san's curry, we go on the%NTest of Courage Kurumi suggested.%K%P
+After we finish eating Izumi-san's curry, we go on the Test of Courage Kurumi suggested.%K%P
 0xDC
 例のいづみさんの手作りシチューを食べ終えた%Nオレ達は、くるみの提案で肝だめしをすることに%Nなった。%K%P
-After we finish eating Izumi-san's cream stew, we go on%Nthe Test of Courage Kurumi suggested.%K%P
+After we finish eating Izumi-san's cream stew, we go on the Test of Courage Kurumi suggested.%K%P
 0xF0
 例のいづみさんの手作り肉ジャガを食べ終えた%Nオレ達は、くるみの提案で肝だめしをすることに%Nなった。%K%P
-After we finish eating Izumi-san's meat-potato stew, we%Ngo on the Test of Courage Kurumi suggested.%K%P
+After we finish eating Izumi-san's meat-potato stew, we go on the Test of Courage Kurumi suggested.%K%P
 0xFC
 くるみ「それじゃあ、しゅっぱぁ〜つ♪」%K%P
 Kurumi「Well then, let's go〜♪」%K%P
@@ -18,16 +18,16 @@ Kurumi「Well then, let's go〜♪」%K%P
 Kurumi takes the lead as she enters the forest...%K%P
 0x174
 そう言えば、ここでオレは優夏から%N『一緒に組もう』って誘われて……。%K%P
-Now that I think about it, this is when Yuka invited me to%Nteam up with her...%K%P
+Now that I think about it, this is when Yuka invited me to team up with her...%K%P
 0x188
 そう言えば、ここでオレは遙から%N『一緒に組もう』って誘われて……。%K%P
-Now that I think about it, this is when Haruka invited me to%Nteam up with her...%K%P
+Now that I think about it, this is when Haruka invited me to team up with her...%K%P
 0x19C
 そう言えば、ここでオレはくるみから%N『一緒に組もう』って誘われて……。%K%P
-Now that I think about it, this is when Kurumi invited me to%Nteam up with her...%K%P
+Now that I think about it, this is when Kurumi invited me to team up with her...%K%P
 0x1B0
 そう言えば、ここでオレはいづみさんから%N『一緒に組もう』って誘われて……。%K%P
-Now that I think about it, this is when Izumi-san invited me%Nto team up with her...%K%P
+Now that I think about it, this is when Izumi-san invited me to team up with her...%K%P
 0x1BC
 ？？「ねぇ、誠くん……」%K%P
 ???「Hey, Makoto-kun...」%K%P
@@ -72,25 +72,25 @@ Saki「So we're really going to do this Test of Courage, right?」%K%P
 Makoto「Y-Yeah...」%K%P
 0x2E4
 沙紀「で、肝だめしっていうのは、たいがい２人組の%Nペアになって、やったりするじゃない？」%K%P
-Saki「And in a Test of Courage, people usually get put into%Npairs, right?」%K%P
+Saki「And in a Test of Courage, people usually get put into pairs, right?」%K%P
 0x2F0
 誠「まあ…な」%K%P
 Makoto「Well... yeah.」%K%P
 0x2FC
 沙紀「でね？　たぶん向こうに着いたら、ペア分けの%Nジャンケンかなんかをすると思うのよ」%K%P
-Saki「Right. And I think that when we get there, it's likely that%Nwe'll be divided into pairs via Rock-Paper-Scissors...」%K%P
+Saki「Right. And I think that when we get there, it's likely that we'll be divided into pairs via Rock-Paper-Scissors...」%K%P
 0x308
 沙紀「そこで……ものは相談なんだけど……」%K%P
 Saki「Therefore... I wanted to discuss something with you...」%K%P
 0x314
 誠「ひょっとして、グーパーグーパー…の順で手を%N出して欲しい、と？」%K%P
-Makoto「Could it be that during Rock-Paper-Scissors... you want%Nme to release the same hand as you?」%K%P
+Makoto「Could it be that during Rock-Paper-Scissors... you want me to release the same hand as you?」%K%P
 0x328
 沙紀「えっ？　なんでそれを……？」%K%P
 Saki「Huh? How did you...?」%K%P
 0x334
 誠「い、いや、昔肝だめしをやった時に、そんなふうに誘われたことがあってな？」%K%P
-Makoto「N-No, in a past Test of Courage, someone asked me to%Ndo that as a way of pairing up with me.」%K%P
+Makoto「N-No, in a past Test of Courage, someone asked me to do that as a way of pairing up with me.」%K%P
 0x348
 沙紀「じゃあ、話は早いわね」%K%P
 Saki「Well, that makes things quicker.」%K%P
@@ -111,7 +111,7 @@ I'm stunned that Saki is the one inviting me along this time.%K%P
 Why did history change?%K%P
 0x390
 この数時間のあいだ、オレは特に、前と違うことはやってない筈だけど……。%K%P
-I don't think I've done anything particularly different in%Nthese past few hours...%K%P
+I don't think I've done anything particularly different in these past few hours...%K%P
 0x39C
 ──はっ！%K%P
 ―Ah!%K%P
@@ -120,7 +120,7 @@ I don't think I've done anything particularly different in%Nthese past few hours
 I see... That's it...%K%P
 0x3B4
 そう言えば沙紀、前の肝だめしの時にはいなかったんだよな……。%K%P
-Now that I think about it, Saki wasn't here during the last%NTest of Courage...%K%P
+Now that I think about it, Saki wasn't here during the last Test of Courage...%K%P
 0x3C0
 それで微妙に歴史が変わってしまったって%Nことか……。%K%P
 Because of that, history has subtly changed...%K%P
@@ -138,7 +138,7 @@ Saki「Anyway, I'll be going with scissors.」%K%P
 Saki「Makoto-kun... Will you think about it?」%K%P
 0x404
 そう言い残し、沙紀はみんなの後を追いかけて%N行った。%K%P
-Leaving with those words, Saki goes chasing after the%Nothers.%K%P
+Leaving with those words, Saki goes chasing after the others.%K%P
 0x410
 誠「考えといて、か……」%K%P
 Makoto「Think about it, huh...?」%K%P
@@ -153,22 +153,22 @@ Saki is strolling by my side.%K%P
 In the end, I took her up on her proposal.%K%P
 0x4B4
 女の子の誘いを断るのは失礼だと思ったし、%Nそれに……%K%P
-I thought it would be rude to refuse a girl's invitation, and%Nbesides...%K%P
+I thought it would be rude to refuse a girl's invitation, and besides...%K%P
 0x4C0
 ……前とは明らかに印象の異なる沙紀%N……その沙紀に、少なからず興味を抱いていたから%Nかもしれない。%K%P
-... Saki is leaving a clearly different impression on me%Nthan the last loop... I think I like this Saki more.%K%P
+... Saki is leaving a clearly different impression on me than the last loop... I think I like this Saki more.%K%P
 0x4CC
 だけど、沙紀の方はどうしてオレなんかと組もうと思ったりしたのだろう？%K%P
-However, I still don't know why Saki wanted to team up%Nwith me.%K%P
+However, I still don't know why Saki wanted to team up with me.%K%P
 0x4D8
 隣を歩く沙紀の様子をチラッとうかがってみた。%K%P
 I give Saki a sidelong glance.%K%P
 0x4E4
 この墓石の群にも全く脅えることなく平然と%Nしている。%K%P
-She looks at the group of tombstones calmly, with no%Nfear whatsoever.%K%P
+She looks at the group of tombstones calmly, with no fear whatsoever.%K%P
 0x4F0
 この様子からすると、どうやら『ひとりぼっちに%Nなりたくないから』という臆病な理由からでは%Nないらしい。%K%P
-Judging from her behavior, it doesn't seem like she%Nwanted to pair up because she was scared and didn't%Nwant to be alone.%K%P
+Judging from her behavior, it doesn't seem like she wanted to pair up because she was scared and didn't want to be alone.%K%P
 0x4FC
 （じゃあ、何故？）%K%P
 (Then why?)%K%P
@@ -183,7 +183,7 @@ Makoto「Say, Saki?」%K%P
 Saki「Hmm?」%K%P
 0x534
 誠「素ぼくな疑問なんだけど……何でオレの%Nことなんか、誘ったりしたんだ？」%K%P
-Makoto「I have a question that's been bugging me... Why did you%Ninvite me?」%K%P
+Makoto「I have a question that's been bugging me... Why did you invite me?」%K%P
 0x540
 沙紀「教えて欲しい？」%K%P
 Saki「You want me to tell you?」%K%P
@@ -213,7 +213,7 @@ I automatically become flustered.%K%P
 Who could blame me?%K%P
 0x5B4
 女の子にそんなことを言われれば、誰だってドギマギするって。%K%P
-Anyone would get flustered if a girl said something like%Nthat to them.%K%P
+Anyone would get flustered if a girl said something like that to them.%K%P
 0x5C8
 沙紀「ちょっとした好奇心、かな？」%K%P
 Saki「I guess I was a little curious.」%K%P
@@ -243,10 +243,10 @@ Saki「He was a boy that Yuka loved.」%K%P
 H-Hey... not the same conceited bastard again...%K%P
 0x634
 だけど……第三者の沙紀までそう言うんだから、%Nよっぽど似てるってことなのかな？%K%P
-But... if even a third party like Saki is saying that, then%Nare we actually that similar?%K%P
+But... if even a third party like Saki is saying that, then are we actually that similar?%K%P
 0x640
 誠「なあ、沙紀？　そいつとオレの、いったいどこがどう似てるって言うんだ？」%K%P
-Makoto「Hey, Saki? Just what are the similarities between that%Nguy and me?」%K%P
+Makoto「Hey, Saki? Just what are the similarities between that guy and me?」%K%P
 0x654
 沙紀「あっ！　そう言うってことは、知ってたのね？」%K%P
 Saki「Oh! You know who I'm talking about?」%K%P
@@ -255,13 +255,13 @@ Saki「Oh! You know who I'm talking about?」%K%P
 Makoto「Yeah. I heard about him earlier from Yuka.」%K%P
 0x674
 沙紀「そりゃそうよねぇ……。言わないわけがないわよねぇ……」%K%P
-Saki「Well, no wonder... There's no way she wouldn't mention him,%Ngiven the circumstances...」%K%P
+Saki「Well, no wonder... There's no way she wouldn't mention him, given the circumstances...」%K%P
 0x680
 誠「？」%K%P
 Makoto「?」%K%P
 0x68C
 沙紀「だって、あまりにもソックリなんだもの」%K%P
-Saki「But it's not like you're complete splitting images or%Nanything.」%K%P
+Saki「But it's not like you're complete splitting images or anything.」%K%P
 0x698
 誠「だから、どこがだよ？　……顔か？」%K%P
 Makoto「Then what is it? ... Is it our faces?」%K%P
@@ -285,28 +285,28 @@ Makoto「Personality?」%K%P
 Saki「But that's also a little different...」%K%P
 0x6EC
 誠「何だよ、顔も性格も違うってことは、要するに%N似てないってことじゃないか！」%K%P
-Makoto「What the hell? How could you call us similar if we don't%Neven look or act alike?!」%K%P
+Makoto「What the hell? How could you call us similar if we don't even look or act alike?!」%K%P
 0x700
 沙紀「似てるってば！　絶対！」%K%P
 Saki「You two are similar! You definitely are!」%K%P
 0x714
 沙紀「たぶん、全体的な雰囲気が同じなんだと思う……。たたずまいって言うか……」%K%P
-Saki「I think it's probably your overall attitude that is the%Nsame... Like your bearing or something...」%K%P
+Saki「I think it's probably your overall attitude that is the same... Like your bearing or something...」%K%P
 0x720
 ……たたずまい？？？%K%P
 ... My bearing???%K%P
 0x72C
 沙紀「誠くんの中にある本質的な部分、みたいなものが、きっとあの男の子と一緒なのね……」%K%P
-Saki「There's a certain essential part of you that you%Ndefinitely share with that boy...」%K%P
+Saki「There's a certain essential part of you that you definitely share with that boy...」%K%P
 0x738
 沙紀「だから、顔も性格も違うのに、同じ人のように%N感じちゃうのよぉ……」%K%P
-Saki「So even though your faces and personalities are%Ndifferent, it feels like you're the same person...」%K%P
+Saki「So even though your faces and personalities are different, it feels like you're the same person...」%K%P
 0x744
 誠「…………」%K%P
 Makoto「...」%K%P
 0x750
 沙紀「たまに、誠くんのふとした仕草とか見たときに、ほんとに錯覚しちゃうことがあるの」%K%P
-Saki「Occasionally, at times when I see you act impulsively, it%Nreally feels like I'm hallucinating.」%K%P
+Saki「Occasionally, at times when I see you act impulsively, it really feels like I'm hallucinating.」%K%P
 0x75C
 沙紀「もしかしたら、その男の子が……」%K%P
 Saki「It feels like you're just like that boy if...」%K%P
@@ -321,13 +321,13 @@ If... if... what?%K%P
 ???「KYAAAAAAAAAAAAAAAAAA!!!」%K%P
 0x794
 背後から聞こえた凄まじい叫び声に、オレと沙紀は%N振り向いた。%K%P
-Saki and I turn around upon hearing this bloodcurdling%Nscream from behind us.%K%P
+Saki and I turn around upon hearing this bloodcurdling scream from behind us.%K%P
 0x7A0
 ？？「うわ〜〜〜〜〜んっ！！」%K%P
 ???「WAAAAAAAAAAAHHHHH!!」%K%P
 0x7AC
 泣き声をあげながら、こちらに向かって猛スピードで駆け寄って来る黒い影は……%K%P
-As the crying gets louder, we see a black shadow%Nrunning towards us with great speed...%K%P
+As the crying gets louder, we see a black shadow running towards us with great speed...%K%P
 0x7B8
 ……優夏だった。%K%P
 ... It's Yuka.%K%P
@@ -357,19 +357,19 @@ Haah... Oh brother... Did Kurumi get her again?%K%P
 Just then...%K%P
 0x864
 いづみ「はぁはぁ……もう、優夏ちゃん、急に走り出さないでよぉー！」%K%P
-Izumi「Haah, haah... Geez, don't go running off without a word,%NYuka-chan!」%K%P
+Izumi「Haah, haah... Geez, don't go running off without a word, Yuka-chan!」%K%P
 0x870
 ……優夏とペアを組んでいたいづみさんが、%N息を切らしながらやって来た。%K%P
-... Izumi, who was paired with Yuka, comes up to us, quite%Nout of breath.%K%P
+... Izumi, who was paired with Yuka, comes up to us, quite out of breath.%K%P
 0x87C
 いづみ「あれは犬！　……子犬が吠えただけでしょ？」%K%P
-Izumi「That was a dog! ... It was just a puppy sticking its head%Nout of the bushes!」%K%P
+Izumi「That was a dog! ... It was just a puppy sticking its head out of the bushes!」%K%P
 0x888
 なるほど、あの子犬ね……。%K%P
 I see, a puppy...%K%P
 0x894
 ……って言うか、２回目なんだから、そろそろ%N気づけよ、優夏……！%K%P
-... Wait a minute, shouldn't Yuka have been prepared for it%Nthis time...!?%K%P
+... Wait a minute, shouldn't Yuka have been prepared for it this time...!?%K%P
 0x8A8
 誠「くびぃ？？」%K%P
 Makoto「Head??」%K%P
@@ -378,16 +378,16 @@ Makoto「Head??」%K%P
 And, over there...%K%P
 0x8D0
 いづみ「はぁはぁ……もう、優夏ちゃん、急に走り出さないでよぉー！」%K%P
-Izumi「Haah, haah... Geez, don't go running off without a word,%NYuka-chan!」%K%P
+Izumi「Haah, haah... Geez, don't go running off without a word, Yuka-chan!」%K%P
 0x8DC
 ……優夏とペアを組んでいたいづみさんが、%N息を切らしながらやって来た。%K%P
-... Izumi, who was paired with Yuka, comes up to us, quite%Nout of breath.%K%P
+... Izumi, who was paired with Yuka, comes up to us, quite out of breath.%K%P
 0x8E8
 いづみ「あれは犬！　……草むらから子犬が首を%N出しただけでしょ？」%K%P
-Izumi「That was a dog! ... It was just a puppy sticking its head%Nout of the bushes!」%K%P
+Izumi「That was a dog! ... It was just a puppy sticking its head out of the bushes!」%K%P
 0x8F4
 子犬……？　こんな墓場の中に、子犬がねぇ……。%K%P
-A puppy...? To think there'd be a puppy in this%Ngraveyard...%K%P
+A puppy...? To think there'd be a puppy in this graveyard...%K%P
 0x900
 ……って言うか、そんなもんに驚くなよ、優夏……！%K%P
 ... Wait a minute, that's what scared Yuka...!?%K%P
@@ -402,10 +402,10 @@ Saki laughs.%K%P
 ...%K%P
 0x948
 オレ達は『宇宙人に連れ去られた人』みたいに%Nうわ言をつぶやき続ける優夏を抱きかかえながら、ロッジへと戻ったのだった……。%K%P
-As we return to the lodge, Yuka keeps muttering%Ndeliriously to herself like a person who was abducted by%Naliens...%K%P
+As we return to the lodge, Yuka keeps muttering deliriously to herself like a person who was abducted by aliens...%K%P
 0x9E8
 その後、オレは部屋に戻ると、ベッドの上に%N崩れ落ちた。%K%P
-After that, I tumble down on top of my bed the moment I%Nreturn to my room.%K%P
+After that, I tumble down on top of my bed the moment I return to my room.%K%P
 0x9F4
 くるみはリビングで『お江戸でガッテン』を%N見ている。%K%P
 Kurumi is in the living room, watching 「Oedo Gatten」.%K%P
@@ -414,13 +414,13 @@ Kurumi is in the living room, watching 「Oedo Gatten」.%K%P
 Everyone else went to the hot springs.%K%P
 0xA0C
 もちろんオレも誘われたのだが、合宿９日目のオレの肉体は激しく疲労していて、もはや温泉に行く%N気力など残されてはいなかったのだ。%K%P
-Of course, I was also invited, but this being the 9th day%Nof the Camp, my body was so exhausted that I didn't%Nhave the energy to go to the hot springs.%K%P
+Of course, I was also invited, but this being the 9th day of the Camp, my body was so exhausted that I didn't have the energy to go to the hot springs.%K%P
 0xA18
 ベッドに横たわったオレは、静かに目を閉じた。%K%P
 I lie on the bed, and gently close my eyes.%K%P
 0xA24
 やがて意識が徐々に、ゆるやかに遠のいて%N行った……。%K%P
-Before long, my consciousness slowly fades into a%Ndeep sleep...%K%P
+Before long, my consciousness slowly fades into a deep sleep...%K%P
 0xAAC
 夜中……ふいに目を覚ました。%K%P
 In the middle of the night... I suddenly wake up.%K%P
@@ -432,7 +432,7 @@ For some reason, it was a pleasant awakening.%K%P
 It might be because I was sleeping extremely deeply.%K%P
 0xAD0
 とにかく、覚醒したオレの脳からは完全に眠気が%N失せてしまっていた。%K%P
-Anyway, I feel completely awake, no feelings of%Ndrowsiness left within me.%K%P
+Anyway, I feel completely awake, no feelings of drowsiness left within me.%K%P
 0xADC
 （このままじゃ眠れそうもないな……）%K%P
 (I doubt I'll be able to sleep like this...)%K%P
@@ -480,13 +480,13 @@ Making up my mind, I jump out of my bed.%K%P
 Hot springs are just a pain in the ass.%K%P
 0xC5C
 とは言え、やはり眠れないことに変わりはない。%K%P
-Nonetheless, it doesn't change the fact that I can't%Nsleep.%K%P
+Nonetheless, it doesn't change the fact that I can't sleep.%K%P
 0xC68
 じゃあ、どうすればいいんだ？%K%P
 Then what should I do?%K%P
 0xC74
 こんなことだったら本の１冊でも持ってくればよかったなぁ……。%K
-If I knew this was going to happen, then I should have%Nbrought a book...%K
+If I knew this was going to happen, then I should have brought a book...%K
 0x11F8
 温泉に行くしかない
 I have to go to the hot springs.
@@ -495,7 +495,7 @@ I have to go to the hot springs.
 Try thinking deeply.
 0xCB4
 しょうがない……。温泉にでも入れば、たぶん%N眠くなるだろう……。%K%P
-Can't be helped... If I go to the hot springs, I'll probably%Nget sleepy...%K%P
+Can't be helped... If I go to the hot springs, I'll probably get sleepy...%K%P
 0xCC0
 そう思い立ち、ベッドから飛び降りた。%K%P
 Making up my mind, I jump out of my bed.%K%P
@@ -507,22 +507,22 @@ As I absently stare at the ceiling, I think about today.%K%P
 ―Wednesday, April 3rd.%K%P
 0xD48
 思えば、前回の３日は、沙紀が激しく怒りをぶちまけた日でもあった。%K%P
-The April 3rd in the last loop had Saki getting pissed off%Nand storming away.%K%P
+The April 3rd in the last loop had Saki getting pissed off and storming away.%K%P
 0xD54
 そして、遙がクローンだという事実を暴露して……。%K%P
 And she revealed the fact that Haruka was a clone...%K%P
 0xD60
 だとすると、今回は、他のみんなはその事実を%N知らずにこれからの日々を過ごして行くってことに%Nなるのか……。%K%P
-If that's so, then that means that this time, the others%Nwon't know about that...%K%P
+If that's so, then that means that this time, the others won't know about that...%K%P
 0xD6C
 まあ、知らないなら知らないで、それはそれでいいのかもしれない。%K%P
 Well, that's not necessarily a bad thing.%K%P
 0xD78
 別に隠すようなことじゃないけれど、かと言って、%Nわざわざ教える必要もまたないのだ。%K%P
-It doesn't really need to be hidden, but there's no%Nreason to tell them, either.%K%P
+It doesn't really need to be hidden, but there's no reason to tell them, either.%K%P
 0xD84
 沙紀が溺れなかったこと……その歴史がコロコロと%N転がって、今日という平穏な１日が生まれた。%K%P
-Since Saki didn't almost drown... this peaceful day was%Nable to happen.%K%P
+Since Saki didn't almost drown... this peaceful day was able to happen.%K%P
 0xD90
 誠「ほっ……」%K%P
 Makoto「Haah...」%K%P
@@ -531,7 +531,7 @@ Makoto「Haah...」%K%P
 I sigh.%K%P
 0xDA8
 心が安らいだせいか、徐々に眠気が戻ってきた。%K%P
-Perhaps because I've let my mind relax, my drowsiness%Nslowly returns.%K%P
+Perhaps because I've let my mind relax, my drowsiness slowly returns.%K%P
 0xDB4
 まるでゆりかごの中で揺られているような%N心地だ……。%K%P
 It feels like I'm being rocked in a cradle...%K%P
@@ -546,22 +546,22 @@ As I soak in the hot water, I look back on today.%K%P
 ―Wednesday, April 3rd.%K%P
 0xEB4
 思えば、前回の３日は、沙紀が激しく怒りをぶちまけた日でもあった。%K%P
-The April 3rd in the last loop had Saki getting pissed off%Nand storming away.%K%P
+The April 3rd in the last loop had Saki getting pissed off and storming away.%K%P
 0xEC0
 そして、遙がクローンだという事実を暴露して……。%K%P
 And she revealed the fact that Haruka was a clone...%K%P
 0xECC
 だとすると、今回は、他のみんなはその事実を%N知らずにこれからの日々を過ごして行くってことに%Nなるのか……。%K%P
-If that's so, then that means that this time, the others%Nwon't know about that...%K%P
+If that's so, then that means that this time, the others won't know about that...%K%P
 0xED8
 まあ、知らないなら知らないで、それはそれで%Nいいのかもしれない。%K%P
 Well, this doesn't necessarily sound like a bad thing.%K%P
 0xEE4
 別に隠すようなことじゃないけれど、かと言って、%Nわざわざ教える必要もまたないのだ。%K%P
-It doesn't really need to be hidden, but there's no%Nreason to tell them, either.%K%P
+It doesn't really need to be hidden, but there's no reason to tell them, either.%K%P
 0xEF0
 沙紀が溺れなかったこと……その歴史がコロコロと%N転がって、今日という平穏な１日が生まれた。%K%P
-Since Saki didn't almost drown... this peaceful day was%Nable to happen.%K%P
+Since Saki didn't almost drown... this peaceful day was able to happen.%K%P
 0xEFC
 誠「ほっ……」%K%P
 Makoto「Haah...」%K%P
@@ -570,22 +570,22 @@ Makoto「Haah...」%K%P
 I sigh.%K%P
 0xF14
 気がつくと、体の芯まで熱が沁み込み、%Nコメカミのあたりでドクドクと血が脈打っていた。%K%P
-I notice that the heat has even permeated into the core%Nof my body, to the point where I can feel a profuse%Namount of blood pounding around my temples.%K%P
+I notice that the heat has even permeated into the core of my body, to the point where I can feel a profuse amount of blood pounding around my temples.%K%P
 0xF20
 （そろそろ出たほうがよさそうだな）%K%P
 (It seems it'd be best if I got going now.)%K%P
 0xF2C
 ゆっくりと立ち上がったオレは、すぐに着替えを%N済ませ、温泉を後にした……。%K%P
-I slowly stand up, quickly change into my clothes, and%Nleave the hot springs...%K%P
+I slowly stand up, quickly change into my clothes, and leave the hot springs...%K%P
 0xF94
 どうやらすっかりとのぼせてしまったようだ。%K%P
 It seems my blood has completely rushed up to my head.%K%P
 0xFA0
 部屋に戻ったオレは、真っ先にベッドの上に%N身を投げた。%K%P
-I return to my room, and immediately throw my body onto%Nthe bed.%K%P
+I return to my room, and immediately throw my body onto the bed.%K%P
 0xFAC
 のぼせた頭はクラクラとして、まるでゆりかごの中で揺られているような心地だった。%K%P
-The dizziness I feel from all the blood in my head makes%Nme feel like I'm being rocked in a cradle.%K%P
+The dizziness I feel from all the blood in my head makes me feel like I'm being rocked in a cradle.%K%P
 0xFB8
 うっとりとまぶたを閉じると、たちまちオレは安らかな眠りの底へと落ちていった……。%K%P
 I close my eyes, and suddenly fall into a peaceful sleep...%K%P

@@ -24,10 +24,10 @@ Yuka「Even though I tried to tell you to stop...」%K%P
 Makoto「You knew?」%K%P
 0xB4
 優夏「いづみさんが前に言ってたじゃない。『沖の方が%N荒れてるから、漁船が出れない』って……」%K%P
-Yuka「Izumi-san said it before, didn't she? 'Because a storm's%Ncoming from the sea, the fishing boats can't go out'...」%K%P
+Yuka「Izumi-san said it before, didn't she? 'Because a storm's coming from the sea, the fishing boats can't go out'...」%K%P
 0xC0
 優夏「『熱帯低気圧の移動速度が遅いから、%N１週間ぐらいはダメかも』……そうも言ってた」%K%P
-Yuka「'Because the migration velocity of the tropical cyclone%Nis slow, it'll be like this for about a week'... she also said%Nsomething like that.」%K%P
+Yuka「'Because the migration velocity of the tropical cyclone is slow, it'll be like this for about a week'... she also said something like that.」%K%P
 0xCC
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -51,13 +51,13 @@ Yuka「Earlier, I said that this might be an infinite loop, didn't I?」%K%P
 Yuka「One that would repeat countless times for all eternity...」%K%P
 0x144
 優夏「それはね？　たぶん、前回と、その前の時で、同じ行動をとってきたからだと思うの」%K%P
-Yuka「But you know what? I think that it's probable that we took%Nthe exact same actions last time and the time before%Nthat.」%K%P
+Yuka「But you know what? I think that it's probable that we took the exact same actions last time and the time before that.」%K%P
 0x150
 優夏「つまり、同じ歴史をずっとたどって%Nしまったから……」%K%P
-Yuka「In other words, the same events always played%Nthemselves out...」%K%P
+Yuka「In other words, the same events always played themselves out...」%K%P
 0x15C
 優夏「どうしてそんなふうになっちゃったのか……誠、%Nわかる？」%K%P
-Yuka「Why did things happen that way... Makoto, do you know%Nwhy?」%K%P
+Yuka「Why did things happen that way... Makoto, do you know why?」%K%P
 0x168
 オレは静かに首を振る。%K%P
 I shake my head.%K%P
@@ -66,7 +66,7 @@ I shake my head.%K%P
 Yuka「Because our memories were vague!」%K%P
 0x180
 優夏「時々、何かが起こる直前に、予知まがいのことを%N体験することはあったけど……結局そんなもの、何の役にも立たなかった……」%K%P
-Yuka「At times, just before something happened, we would%Nexperience a 'premonition'... But in the end, they were%Nuseless...」%K%P
+Yuka「At times, just before something happened, we would experience a 'premonition'... But in the end, they were useless...」%K%P
 0x18C
 優夏「でも、今回は違うの」%K%P
 Yuka「But this time is different.」%K%P
@@ -78,7 +78,7 @@ Makoto「?」%K%P
 Yuka「We have reliable memories this time... right?」%K%P
 0x1B0
 優夏「だとしたら、たとえこの島から逃げ出すことが%Nできないとしても、歴史を変えることなんて簡単なことだよ！」%K%P
-Yuka「If that's the case, then even if we can't run away from%Nthis island, changing history will be easy!」%K%P
+Yuka「If that's the case, then even if we can't run away from this island, changing history will be easy!」%K%P
 0x1BC
 誠「そう……かな？」%K%P
 Makoto「Are you... for real?」%K%P
@@ -87,16 +87,16 @@ Makoto「Are you... for real?」%K%P
 Yuka「Of course!」%K%P
 0x1DC
 優夏「現に今日の朝だって、微妙に歴史は%N変わってたじゃない？」%K%P
-Yuka「Actually, this morning, you subtly changed history, didn't%Nyou?」%K%P
+Yuka「Actually, this morning, you subtly changed history, didn't you?」%K%P
 0x1E8
 優夏「例えば、私が料理を作らなかったから、誠のお腹は空いたままだった」%K%P
 Yuka「For example, because I didn't cook, you were still hungry.」%K%P
 0x1F4
 優夏「誠はお腹が空いてるから、ピザを横取りする作戦を思いついた」%K%P
-Yuka「Because you were hungry, you planned on stealing the%Npizza.」%K%P
+Yuka「Because you were hungry, you planned on stealing the pizza.」%K%P
 0x200
 優夏「そしたら億彦くんの行動が変わって……最終的には遙が『朝倉』だって嘘をつくことになった……」%K%P
-Yuka「Then Okuhiko-kun's actions changed... and finally, it was%NHaruka who lied that her name was 'Asakura'...」%K%P
+Yuka「Then Okuhiko-kun's actions changed... and finally, it was Haruka who lied that her name was 'Asakura'...」%K%P
 0x20C
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -114,37 +114,37 @@ No.
 Makoto「... Yeah.」%K%P
 0x26C
 誠「『ブラジルでチョウが羽ばたくと、数週間後に%Nテキサスで竜巻が起こる』っていうやつだろ？」%K%P
-Makoto「It's the question of 'Does the flap of a butterfly's wings%Nin Brazil set off a tornado in Texas?', right?」%K%P
+Makoto「It's the question of 'Does the flap of a butterfly's wings in Brazil set off a tornado in Texas?', right?」%K%P
 0x278
 誠「要するに『小さな小さな微少な変化が、巨大な%N現象にまで影響を及ぼす』って意味だ」%K%P
-Makoto「In short, it means 'A tiny little microscopic change could%Naffect even an enormous phenomenon'.」%K%P
+Makoto「In short, it means 'A tiny little microscopic change could affect even an enormous phenomenon'.」%K%P
 0x284
 誠「日本で言うところの『風が吹けばオケ屋が儲かる』にも、ちょっと似てるよな？」%K%P
-Makoto「It's kinda like the Japanese expression 'When the wind%Nblows, the barrel makers profit', isn't it?」%K%P
+Makoto「It's kinda like the Japanese expression 'When the wind blows, the barrel makers profit', isn't it?」%K%P
 0x298
 誠「……いや」%K%P
 Makoto「...No.」%K%P
 0x2A4
 優夏「『ブラジルでチョウが羽ばたくと、数週間後に%Nテキサスで竜巻が起こる』%N──それがバタフライ効果」%K%P
-Yuka「'Does the flap of a butterfly's wings in Brazil set off a%Ntornado in Texas?' ―That's the butterfly effect.」%K%P
+Yuka「'Does the flap of a butterfly's wings in Brazil set off a tornado in Texas?' ―That's the butterfly effect.」%K%P
 0x2B0
 優夏「要するに『小さな小さな微少な変化が、巨大な%N現象にまで影響を及ぼす』って意味なの」%K%P
-Yuka「In short, it means 'A tiny little microscopic change could%Naffect even an enormous phenomenon'.'」%K%P
+Yuka「In short, it means 'A tiny little microscopic change could affect even an enormous phenomenon'.'」%K%P
 0x2BC
 誠「ふーん……」%K%P
 Makoto「Hmm...」%K%P
 0x2C8
 誠「何だか、日本で言うところの『風が吹けばオケ屋が儲かる』に、ちょっと似てるな？」%K%P
-Makoto「It's kinda like the Japanese expression 'When the wind%Nblows, the barrel makers profit', isn't it?」%K%P
+Makoto「It's kinda like the Japanese expression 'When the wind blows, the barrel makers profit', isn't it?」%K%P
 0x2D4
 誠「これは大昔の話だけど……風が吹くと土埃が舞って目に入り、目の不自由な人が増える」%K%P
-Makoto「This is a very old story... once, when the wind blew, dust%Nflew up into people's eyes, increasing the number of%Nblind people.」%K%P
+Makoto「This is a very old story... once, when the wind blew, dust flew up into people's eyes, increasing the number of blind people.」%K%P
 0x2E0
 誠「目の不自由な人は三味線で生計を立てようと%Nするから、三味線を作るのに必要な猫の皮の需要が%N増える」%K%P
-Makoto「Those blind people tried to make a living as shamisen%Nplayers, and as a result, the demand for catskin,%Nnecessary to make more shamisens, increased.」%K%P
+Makoto「Those blind people tried to make a living as shamisen players, and as a result, the demand for catskin, necessary to make more shamisens, increased.」%K%P
 0x2EC
 誠「猫が減るとネズミが増え、増えたネズミはオケを%Nかじってダメにしてしまう」%K%P
-Makoto「With less cats, the number of rats increased, and so%Nthey chewed on barrels, requiring more to be made.」%K%P
+Makoto「With less cats, the number of rats increased, and so they chewed on barrels, requiring more to be made.」%K%P
 0x2F8
 誠「……で、最終的に、オケ屋が儲かって喜ぶ、%Nと……」%K%P
 Makoto「... So in the end, the barrel makers profited...」%K%P
@@ -153,10 +153,10 @@ Makoto「... So in the end, the barrel makers profited...」%K%P
 Yuka「Yes! That's exactly it!」%K%P
 0x318
 優夏「歴史だって、小さな小さな微少な出来事の%N積み重ねなわけじゃない？」%K%P
-Yuka「It's not like history is immune to the accumulation of small,%Nmicroscopic events, right?」%K%P
+Yuka「It's not like history is immune to the accumulation of small, microscopic events, right?」%K%P
 0x324
 優夏「だから、ほんのちょっとした変化を加えただけでも、現実が１８０度方向転換するようなことだって、起こり得るんだよぉ」%K%P
-Yuka「So even if we just increase the number of small, trifling%Nchanges, it should be possible for reality to take a 180.」%K%P
+Yuka「So even if we just increase the number of small, trifling changes, it should be possible for reality to take a 180.」%K%P
 0x330
 誠「……なるほどな……」%K%P
 Makoto「I see...」%K%P
@@ -174,10 +174,10 @@ Makoto「... This is our last chance...」%K%P
 Yuka「Huh?」%K%P
 0x374
 誠「もしも、もしも万が一、今度の４月６日に%N同じ出来事が起こったとしたら……」%K%P
-Makoto「If, by any chance, the same events occur on this April%N6th...」%K%P
+Makoto「If, by any chance, the same events occur on this April 6th...」%K%P
 0x380
 誠「そしたらオレ達は、もう２度と、このループから%N脱け出すことはできないかもしれない」%K%P
-Makoto「Then we might never be able to get another chance to%Nbreak out of this loop again.」%K%P
+Makoto「Then we might never be able to get another chance to break out of this loop again.」%K%P
 0x38C
 優夏「？」%K%P
 Yuka「?」%K%P
@@ -186,22 +186,22 @@ Yuka「?」%K%P
 Makoto「Isn't that right?」%K%P
 0x3A4
 誠「次の１日の朝、目覚めた時に、オレ達が記憶を%N持っていられるって保証なんか、どこにもないん%Nだから！」%K%P
-Makoto「When we wake up on the next morning of the 1st, there's%Nno guarantee that we'll have our memories, right!?」%K%P
+Makoto「When we wake up on the next morning of the 1st, there's no guarantee that we'll have our memories, right!?」%K%P
 0x3B0
 優夏「……うん。……確かに……そうかもね……」%K%P
 Yuka「... Yeah... That certainly... might happen...」%K%P
 0x3BC
 誠「オレ達で歴史を変える──もちろんオレだって%N賛成だ！」%K%P
-Makoto「We'll change history―of course I agree with you%Nthere!」%K%P
+Makoto「We'll change history―of course I agree with you there!」%K%P
 0x3C8
 誠「だけど……どちらかが勝手な行動を取ったら、%N全部が台無しになるぞ？　わかってるよな？」%K%P
-Makoto「But... either way, if we act selfishly, then it'll all go to%Nnothing. Understand?」%K%P
+Makoto「But... either way, if we act selfishly, then it'll all go to nothing. Understand?」%K%P
 0x3DC
 優夏「うん……」%K%P
 Yuka「Yeah...」%K%P
 0x3E8
 誠「繰り返すけど、これが最後のチャンスなんだ！」%K%P
-Makoto「Even though we can repeat things, this is our last%Nchance!」%K%P
+Makoto「Even though we can repeat things, this is our last chance!」%K%P
 0x3F4
 誠「だからもう、あんなバカなマネはしないでくれ……」%K%P
 Makoto「So don't pull a stunt like you did last time...」%K%P
@@ -210,13 +210,13 @@ Makoto「So don't pull a stunt like you did last time...」%K%P
 Makoto「Swear it right here, right now...」%K%P
 0x40C
 誠「あの神社には、何がどうなろうと、決して近づかないと……」%K%P
-Makoto「No matter what happens, never go near that shrine%Nagain...」%K%P
+Makoto「No matter what happens, never go near that shrine again...」%K%P
 0x418
 優夏「……わかった……誓うよ……」%K%P
 Yuka「... Got it... I swear it...」%K%P
 0x424
 誠「『約束は絶対に守ること』──優夏自身が、あの手紙に書いた言葉だ」%K%P
-Makoto「'Promises must definitely be kept'―That's what you%Nwrote in your letter.」%K%P
+Makoto「'Promises must definitely be kept'―That's what you wrote in your letter.」%K%P
 0x430
 誠「今の誓い……忘れるなよ？」%K%P
 Makoto「Don't forget this vow... okay?」%K%P

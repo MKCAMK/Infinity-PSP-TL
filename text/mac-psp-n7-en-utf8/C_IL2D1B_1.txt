@@ -6,10 +6,10 @@ text area offset and size:
 The now burning red sun is setting far off to the west.%K%P
 0x130
 ゆっくりと、しかし着実に、水平線に向かって沈んでいく太陽。%K%P
-It slowly, but steadily, begins to sink down towards the%Nhorizon.%K%P
+It slowly, but steadily, begins to sink down towards the horizon.%K%P
 0x13C
 昼間では、感じることのできない時間の早さを感じた。%K%P
-This whole afternoon, I've been keenly aware of the%Nnormally ignored swiftness of time.%K%P
+This whole afternoon, I've been keenly aware of the normally ignored swiftness of time.%K%P
 0x148
 誠「なんで……こんなことに……」%K%P
 Makoto「Why... did this...」%K%P
@@ -18,13 +18,13 @@ Makoto「Why... did this...」%K%P
 Makoto「What should I do... from now on...?」%K%P
 0x160
 刻一刻と過ぎ去っていく時の早さを感じながらも、どうすることもできない自分がここにいた。%K%P
-In contrast to the quickly passing hours, I've stayed put%Nthe entire time, unable to do anything.%K%P
+In contrast to the quickly passing hours, I've stayed put the entire time, unable to do anything.%K%P
 0x16C
 日は昇り、朝が来て、昼になり、やがて夜が訪れる。%K%P
-A day progresses when the morning comes, when it%Nbecomes afternoon, and finally when night comes, as it%Nhas now.%K%P
+A day progresses when the morning comes, when it becomes afternoon, and finally when night comes, as it has now.%K%P
 0x178
 過ぎ去った１日は決して２度と訪れることはなく、流れていく時間を取り戻すことはできない。%K%P
-A day that's passed away can never be relived, and%Ntime that's been washed away can never be recovered.%K%P
+A day that's passed away can never be relived, and time that's been washed away can never be recovered.%K%P
 0x184
 そう思っていた……。%K%N
 That's what I'd thought...%K%N
@@ -36,19 +36,19 @@ I undoubtedly believed that...%K%P
 But...%K%P
 0x1A8
 常識の崩れ去ったこのバカみたいな世界の中で、完全に真実を見失っていた。%K%P
-In this ridiculous world where common sense has%Ncompletely crumbled, I've completely lost sight of the%Ntruth.%K%P
+In this ridiculous world where common sense has completely crumbled, I've completely lost sight of the truth.%K%P
 0x1B4
 いづみ「『目に見えるもののすべては真実だ』なんて、誰にも言い切ることはできないのよ……」%K%P
-Izumi「Nobody can declare that everything they see is the%Ntruth...」%K%P
+Izumi「Nobody can declare that everything they see is the truth...」%K%P
 0x1C0
 かつてこの公園で、いづみさんは星空を見つめながら、そう言った。%K%P
-Izumi-san once said that right here in this park while%Nlooking out across the starry sky.%K%P
+Izumi-san once said that right here in this park while looking out across the starry sky.%K%P
 0x1CC
 何が本当で……何が嘘なのか……？%K%P
 What's real... and what's false...?%K%P
 0x1D8
 現実と虚構の区別さえつかずに、オレはただ、途方に暮れるよりほか仕方がなかった。%K%P
-As I'm unable to even tell the distinction between reality%Nand fiction, it's no wonder that I'm at a loss.%K%P
+As I'm unable to even tell the distinction between reality and fiction, it's no wonder that I'm at a loss.%K%P
 0x1E4
 目の前には、すでにぬくもりの失せた鉄のフェンス……。%K%P
 Before my eyes is the cold, iron fence...%K%P
@@ -60,28 +60,28 @@ It encircles the wide cape, standing completely upright.%K%P
 Upright... upright...%K%P
 0x208
 何度も何度もけとばして、ぐにゃりとねじ曲がったはずの鉄パイプはもう、そこには無かった。%K%P
-The pipes that I had kicked countless times until they%Nbent horribly are completely undamaged.%K%P
+The pipes that I had kicked countless times until they bent horribly are completely undamaged.%K%P
 0x214
 何も、壊れてはいなかった……。%K%P
 The fence isn't broken at all...%K%P
 0x264
 ルナビーチに向かって、とぼとぼと桜並木を歩いた。%K%P
-I walk towards Lunabeach, tottering down the road lined%Nwith cherry blossom trees.%K%P
+I walk towards Lunabeach, tottering down the road lined with cherry blossom trees.%K%P
 0x270
 （とにかく、いづみさんにこのことを知らせなければ……）%K%P
 (I need to get the truth from Izumi-san...)%K%P
 0x27C
 今、オレのこの心境を理解してくれるのは、きっといづみさんだけだろう。%K%P
-Right now, it's clear that only Izumi-san can understand%Nmy mental state.%K%P
+Right now, it's clear that only Izumi-san can understand my mental state.%K%P
 0x288
 そしてもちろん、いづみさんのことを理解できるのも、オレ以外にはあり得ない。%K%P
 Likewise, I'm the only one who's able to understand hers.%K%P
 0x294
 いづみさんが今、どんな想いでいるのか？　──オレには手に取るようにわかった。%K%P
-What is Izumi-san feeling right now? ―The answer to%Nthat is clear to me.%K%P
+What is Izumi-san feeling right now? ―The answer to that is clear to me.%K%P
 0x2A0
 なにしろ、こんな不可解な現象を体験したのは、オレといづみさんだけなのだから……。%K%P
-Obviously, it's because the only ones that experienced%Nthis incomprehensible phenomenon are Izumi-san and I...%K%P
+Obviously, it's because the only ones that experienced this incomprehensible phenomenon are Izumi-san and I...%K%P
 0x2AC
 いづみさんも、オレと同じように『タイムスリップ』したのだから……。%K%P
 Because Izumi-san 「time traveled」, just like me...%K%P
@@ -90,7 +90,7 @@ Because Izumi-san 「time traveled」, just like me...%K%P
 Yuka「M-Makoto! Geez, where did you go!?」%K%P
 0x310
 海岸線沿いの道に出た所で、優夏に声をかけられた。%K%P
-When I step out onto the coastline road, Yuka calls out%Nto me.%K%P
+When I step out onto the coastline road, Yuka calls out to me.%K%P
 0x31C
 優夏「なんにも言わないで出て行っちゃうんだもん……」%K%P
 Yuka「Don't just leave without a word...」%K%P
@@ -102,13 +102,13 @@ Yuka「We were worried, you know?」%K%P
 Haruka and Okuhiko appear from behind Yuka.%K%P
 0x350
 億彦「まったく……君には協調性ってものが無いのかい？」%K%P
-Okuhiko「Seriously... You're not a very cooperative person, are%Nyou?」%K%P
+Okuhiko「Seriously... You're not a very cooperative person, are you?」%K%P
 0x35C
 億彦「いちおうこれは、合宿なんだからね？」%K%P
-Okuhiko「You do know what the goal of this Seminar Camp is, don't%Nyou?」%K%P
+Okuhiko「You do know what the goal of this Seminar Camp is, don't you?」%K%P
 0x368
 億彦「そのへんのところを、きちんとわきまえてもらわなくちゃ困るよ」%K%P
-Okuhiko「This strange situation is exactly what you're supposed%Nto keep in mind and avoid.」%K%P
+Okuhiko「This strange situation is exactly what you're supposed to keep in mind and avoid.」%K%P
 0x374
 ……合……宿……。%K%P
 ... The 「goal」... 「To form bonds with each other」...%K%P
@@ -132,7 +132,7 @@ Makoto「'Going'... Where are we going?」%K%P
 Yuka「The shopping district.」%K%P
 0x400
 優夏「どうせロッジに帰っても、やることないしね？」%K%P
-Yuka「Even if we go back to the lodge, there's nothing to do%Nthere.」%K%P
+Yuka「Even if we go back to the lodge, there's nothing to do there.」%K%P
 0x40C
 誠「商店街……？」%K%P
 Makoto「The shopping district...?」%K%P
@@ -141,10 +141,10 @@ Makoto「The shopping district...?」%K%P
 (Oh... right...)%K%P
 0x424
 前の４月１日、オレ達は商店街に行こうとして、途中でルナビーチに立ち寄ったんだ。%K%P
-On the last April 1st, we were trying to head to the%Nshopping district, and came across Lunabeach on the%Nway.%K%P
+On the last April 1st, we were trying to head to the shopping district, and came across Lunabeach on the way.%K%P
 0x430
 もしも歴史が繰り返すとすれば、やはり今回も……。%K%P
-If I am to repeat history, then I'll have to go there this%Ntime as well...%K%P
+If I am to repeat history, then I'll have to go there this time as well...%K%P
 0x444
 優夏「ね？　行こ行こ♪」%K%P
 Yuka「Come on, let's go♪」%K%P
@@ -165,25 +165,25 @@ Either way, I was planning on going to Lunabeach...%K%P
 Something's bugging me.%K%P
 0x494
 前に億彦は、この合宿の目的が『オレをだますことにあった』と言った。%K%P
-Last time, Okuhiko said that the goal of the Seminar Camp%Nwas 「to deceive me.」%K%P
+Last time, Okuhiko said that the goal of the Seminar Camp was 「to deceive me.」%K%P
 0x4A0
 そして、オレをだましていたメンバーの１人に、いづみさんも入っていた。%K%P
-And it wasn't just him deceiving me, but also Izumi-san,%Neven though she's not a member of the Seminar Camp.%K%P
+And it wasn't just him deceiving me, but also Izumi-san, even though she's not a member of the Seminar Camp.%K%P
 0x4AC
 （ということは……？）%K%P
 (Just what does this mean...?)%K%P
 0x540
 考えているあいだに、いつの間にか月浜の前に辿りついていた。%K%P
-While I'm thinking this, we arrive at Moon Beach in the blink%Nof an eye.%K%P
+While I'm thinking this, we arrive at Moon Beach in the blink of an eye.%K%P
 0x54C
 優夏はオレの腕から手を放すと、目の前の堤防によじ登った。%K%P
-Yuka lets go of my hand, and ascends the bank in front%Nof her.%K%P
+Yuka lets go of my hand, and ascends the bank in front of her.%K%P
 0x564
 優夏「うわぁ〜♪　見て見て？　すごい景色だよ……」%K%P
 Yuka「Wow〜♪ Look, the scenery's amazing...」%K%P
 0x570
 その声につられて、遙と億彦も堤防の上にあがる。%K%P
-Lured in by her voice, Haruka and Okuhiko also climb up%Nthe bank.%K%P
+Lured in by her voice, Haruka and Okuhiko also climb up the bank.%K%P
 0x57C
 億彦「ほんとだぁ……確かに素晴らしいよぉ……」%K%P
 Okuhiko「You're right... it really is magnificent...」%K%P
@@ -195,10 +195,10 @@ Okuhiko「No, it's the best...」%K%P
 Yuka「Well? Didn't I tell you that this was a good idea?」%K%P
 0x5B0
 得意気にそう言った優夏の姿が、次の瞬間、オレの視界からふっと消えた。%K%P
-Yuka says this proudly, and one second later, she%Ndisappears from my field of vision.%K%P
+Yuka says this proudly, and one second later, she disappears from my field of vision.%K%P
 0x5BC
 堤防の向こう側……下の砂浜に飛び降りたのだろう。%K%P
-She's at the other side of the bank... She probably%Njumped down onto the sandy beach.%K%P
+She's at the other side of the bank... She probably jumped down onto the sandy beach.%K%P
 0x5C8
 続いて、億彦が姿を消し、最後に遙が……%K%P
 Okuhiko goes next, and last, it's Haruka's turn...%K%P
@@ -222,7 +222,7 @@ This is a familiar scene...%K%P
 Makoto「Are you all right?」%K%P
 0x6A0
 気がつくと、オレは遙の脇に手を添え、やさしく抱き起こしていた。%K%P
-When I come to my senses, I walk over to her side, grab%Nher hand, and help her up.%K%P
+When I come to my senses, I walk over to her side, grab her hand, and help her up.%K%P
 0x6AC
 『うん』……素っ気無くうなずく遙。%K%P
 Haruka gives a short nod.%K%P
@@ -240,10 +240,10 @@ She's clearly trying to hide her embarrassment.%K%P
 I firmly stare into the trembling Haruka's eyes.%K%P
 0x6E8
 その視線に緊張したのか、遙はすっと視線をそらすと、足早にオレのわきをすり抜けて行った。%K%P
-Haruka quickly and nervously avoids my eyes, gets to%Nher feet, and moves past me.%K%P
+Haruka quickly and nervously avoids my eyes, gets to her feet, and moves past me.%K%P
 0x718
 夕陽を背中に受けながら、しだいに遠ざかって行く遙の姿。%K%P
-With the setting sun shining on her back, Haruka%Ngradually walks farther and farther away.%K%P
+With the setting sun shining on her back, Haruka gradually walks farther and farther away.%K%P
 0x724
 その後ろ姿をぼんやりと見送りながら、オレは答を探そうとしていた。%K%P
 I try to find an answer as I see her off.%K%P
@@ -264,7 +264,7 @@ Makoto「I've got it!」%K%P
 I unintentionally shout.%K%P
 0x7A4
 断片化した思考の一部が、パチンと音をたててつながったのだ。%K%P
-A part of my fragmented thoughts have clicked together%Nlike pieces of a puzzle.%K%P
+A part of my fragmented thoughts have clicked together like pieces of a puzzle.%K%P
 0x7B0
 それはつまり、こういうことだった。%K%P
 In other words, it's like this.%K%P
@@ -273,43 +273,43 @@ In other words, it's like this.%K%P
 I witnessed Haruka fall in the last April 1st.%K%P
 0x7C8
 そして、遙が実際に転ぶ前にも、確かにその姿を見ていた。%K%P
-And before Haruka actually fell, I definitely saw that%Nevent happen.%K%P
+And before Haruka actually fell, I definitely saw that event happen.%K%P
 0x7D4
 今まで、それは予知だとばかり思っていたけれど、どうやらそうではないらしい。%K%P
-Up until now, I just thought that was a premonition, but it%Nseems that I was wrong.%K%P
+Up until now, I just thought that was a premonition, but it seems that I was wrong.%K%P
 0x7E0
 ──タイムスリップ。%K%P
 ―Time travel.%K%P
 0x7EC
 もしもオレが、前回の６日間の、さらにその前にもタイムスリップしていたとしたら、遙が転ぶということを、事前に知っていたとしてもオカシクはない。%K%P
-If I had time traveled once more before those past six%Ndays, then it wouldn't be odd for me to know in advance%Nabout Haruka falling.%K%P
+If I had time traveled once more before those past six days, then it wouldn't be odd for me to know in advance about Haruka falling.%K%P
 0x7F8
 要するに、オレはただ単に記憶していただけなのだ、過去の６日間の出来事を……。%K%P
-In short, it was merely a memory of an event from those%Npast six days...%K%P
+In short, it was merely a memory of an event from those past six days...%K%P
 0x804
 ということは……じゃあもしかすると、こういうことなのか？%K%P
 Which means... isn't it like this?%K%P
 0x810
 今日という１日があり、前の１日があり、さらにその前の１日があったのなら……%K%P
-There's today's April 1st, then there was the last April 1st,%Nand an April 1st before that one, so if I continue with that%Npattern...%K%P
+There's today's April 1st, then there was the last April 1st, and an April 1st before that one, so if I continue with that pattern...%K%P
 0x81C
 ──無限ループ？%K%P
 ―Is this an infinite loop?%K%P
 0x828
 オレは何度も何度も、限りなくこの６日間を経験してきたのかもしれない。%K%P
-I may have been experiencing these past six days%Ncountless times, with no end in sight.%K%P
+I may have been experiencing these past six days countless times, with no end in sight.%K%P
 0x834
 そう考えると、これまでの予知をすべて説明することができる。%K%P
-When I think of it that way, I can explain all of my%Npremonitions.%K%P
+When I think of it that way, I can explain all of my premonitions.%K%P
 0x840
 ルナビーチの米、プールの地震、車のバッテリー、夕飯のメニュー、トランプ。%K%P
-The rice at Lunabeach, the earthquake at the pool, the%Ncar's battery, what we were having for dinner that night,%Nand the cards.%K%P
+The rice at Lunabeach, the earthquake at the pool, the car's battery, what we were having for dinner that night, and the cards.%K%P
 0x84C
 全部、かつて起こった出来事だったんだ。%K%P
 They were all events that I'd experienced before.%K%P
 0x858
 それをオレは、覚えていただけなんだ。%K%P
-Which means that those were not premonitions, but just%Nmemories that I recalled.%K%P
+Which means that those were not premonitions, but just memories that I recalled.%K%P
 0x864
 ……………………………………………………。%K%P
 ...%K%P
@@ -324,13 +324,13 @@ That's not right, is it...?%K%P
 Okuhiko「Ishihara, you see...」%K%P
 0x89C
 億彦「石原の予知が、あたかも本当に当たっているかのように、見せかけてただけなんだよ」%K%P
-Okuhiko「We were just pretending as if all your premonitions%Nturned out to be really true.」%K%P
+Okuhiko「We were just pretending as if all your premonitions turned out to be really true.」%K%P
 0x8B0
 米のことも、バッテリーのことも、夕飯のメニューのことも、億彦達が裏で工作してデッチアゲたことだった。%K%P
-The rice, battery, and dinner incidents were all secretly%Nplanned and fabricated by Okuhiko and Izumi-san.%K%P
+The rice, battery, and dinner incidents were all secretly planned and fabricated by Okuhiko and Izumi-san.%K%P
 0x8BC
 だとすれば、他の予知もやっぱり嘘だったわけで……。%K%P
-If that's the case, then does that mean all of my other%Npremonitions were false as well...?%K%P
+If that's the case, then does that mean all of my other premonitions were false as well...?%K%P
 0x8D8
 ……………………………………………………。%K%P
 ...%K%P
@@ -345,16 +345,16 @@ That's impossible!%K%P
 Then how do you explain the card incident?%K%P
 0x924
 いづみさんが、トリックか何かでも仕掛けたと言うのか？%K%P
-What, am I supposed to believe that Izumi-san used a%Ntrick or something to do that? That's impossible!%K%P
+What, am I supposed to believe that Izumi-san used a trick or something to do that? That's impossible!%K%P
 0x930
 それに、最大の疑問は『地震』だ！%K%P
 And the biggest problem is the earthquake!%K%P
 0x93C
 大がかりな装置でもない限り、あの規模の地震を発生させるなんてことは、まず不可能だ！%K%P
-Unless you have some large scale equipment, it's%Nimpossible to produce an earthquake of that size!%K%P
+Unless you have some large scale equipment, it's impossible to produce an earthquake of that size!%K%P
 0x948
 他にも『だまされてた』だけじゃ説明できないことは山ほどある！%K%P
-There's just too many things that you can't explain%Nsimply by saying 「I was deceived」!%K%P
+There's just too many things that you can't explain simply by saying 「I was deceived」!%K%P
 0x954
 （じゃあ……）%K%P
 (Then...)%K%P
@@ -372,7 +372,7 @@ At my wits end, I writhe in agony.%K%P
 This is all too confusing.%K%P
 0x990
 つながったはずの思考はたちまち分断され、無惨にも砕け散ってしまった。%K%P
-Just when I was starting to have a grasp on things,%Neverything falls apart and doesn't make any sense.%K%P
+Just when I was starting to have a grasp on things, everything falls apart and doesn't make any sense.%K%P
 0x99C
 優夏「お〜いっ、誠ぉ〜！　こっちこっち！」%K%P
 Yuka「Hey, Makoto〜! Over here!」%K%P
@@ -381,10 +381,10 @@ Yuka「Hey, Makoto〜! Over here!」%K%P
 I turn around, and see Yuka waving in front of Lunabeach.%K%P
 0x9B4
 遙と億彦が、くるみに背中を押されながら、店の中へと入って行く。%K%P
-Haruka, Okuhiko, and Kurumi have their backs turned to%Nme as they enter the shop.%K%P
+Haruka, Okuhiko, and Kurumi have their backs turned to me as they enter the shop.%K%P
 0x9C0
 （……いづみさん……いづみさんっ！）%K%P
 (... Izumi-san... Izumi-san!)%K%P
 0x9CC
 今にも泣きすがりたいような気持ちで、オレは砂を蹴って駆け出した……。%K%P
-Feeling like I could easily break into tears at any time, I%Nkick off the sand and break into a run...%K%P
+Feeling like I could easily break into tears at any time, I kick off the sand and break into a run...%K%P

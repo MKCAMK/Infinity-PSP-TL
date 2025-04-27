@@ -6,7 +6,7 @@ text area offset and size:
 My head strikes the asphalt.%K%P
 0x2A4
 体の中で、何かが破裂する音が鈍く響いた。%K%P
-The dull sound of something rupturing echoes inside my%Nbody.%K%P
+The dull sound of something rupturing echoes inside my body.%K%P
 0x2B0
 足が、不自然な方向にねじ曲がっていた。%K%P
 My legs have been bent in unnatural directions.%K%P
@@ -15,10 +15,10 @@ My legs have been bent in unnatural directions.%K%P
 Strangely, there's no pain...%K%P
 0x2C8
 痛みだけではなく、体中のすべての感覚を失っていた。%K%P
-It's not just pain; I've lost all sensation throughout my%Nentire body.%K%P
+It's not just pain; I've lost all sensation throughout my entire body.%K%P
 0x2D4
 立ち上がろうとしたが、どこにどうやって力を入れればいいのかわからない。%K%P
-I try to stand up, but I'm not sure where or how to put%Nstrength in my body.%K%P
+I try to stand up, but I'm not sure where or how to put strength in my body.%K%P
 0x2E0
 かろうじて、首だけを動かすことができた。%K%P
 I just barely manage to move my head.%K%P
@@ -30,7 +30,7 @@ I see Izumi-san nearby me, also badly wounded.%K%P
 Izumi「... Makoto... kun...」%K%P
 0x330
 小さく開かれた口から、かすかな声がこぼれる。%K%P
-A faint voice comes out of Izumi-san's barely opened%Nmouth.%K%P
+A faint voice comes out of Izumi-san's barely opened mouth.%K%P
 0x33C
 （──いづみさん！）%K%P
 (―Izumi-san!)%K%P
@@ -39,13 +39,13 @@ A faint voice comes out of Izumi-san's barely opened%Nmouth.%K%P
 I try to scream this out...%K%P
 0x354
 ……けれど、その言葉の代わりに口からあふれたのは、大量の赤い血だった。%K%P
-... But instead of words coming out of my mouth...%Noverflowing blood comes out instead.%K%P
+... But instead of words coming out of my mouth... overflowing blood comes out instead.%K%P
 0x360
 がぶがぶとあふれ出す鮮血が、水の中に溶けていく……。%K%P
-It flows from my mouth and begins to dissolve in the%Nwater...%K%P
+It flows from my mouth and begins to dissolve in the water...%K%P
 0x36C
 いづみさんのそばにすり寄ろうとしても、体はまるで言うことを聞かない。%K%P
-I try to crawl over to Izumi-san's side, as if my body's not%Nlistening to what it's being told.%K%P
+I try to crawl over to Izumi-san's side, as if my body's not listening to what it's being told.%K%P
 0x378
 いづみ「……まこと……くん……」%K%P
 Izumi「... Makoto... kun...」%K%P
@@ -93,7 +93,7 @@ I feel no anger this time.%K%P
 In my heart, all I feel is swirling, endless emptiness.%K%P
 0x434
 もうろうとした意識の中……目の前が白く染まっていく……。%K%P
-My vague consciousness is fading... Everything before%Nme begins to turn white...%K%P
+My vague consciousness is fading... Everything before me begins to turn white...%K%P
 0x440
 ぼうっと何かが霞んで見えた……。%K%P
 I can vaguely see something faint...%K%P
@@ -102,4 +102,4 @@ I can vaguely see something faint...%K%P
 ... A coldly shining... silver... light...%K%P
 0x4B4
 その瞬間、%T030オレの意識はプツリと途絶えた……。%K%P
-In that instant, my consciousness suddenly comes to%Nan end...%K%P
+In that instant, my consciousness suddenly comes to an end...%K%P

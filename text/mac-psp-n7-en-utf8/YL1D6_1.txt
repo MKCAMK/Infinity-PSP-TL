@@ -3,7 +3,7 @@ text area offset and size:
 0x1081
 0x17C
 気がつけば、いつの間にか部屋の窓を雨が叩き付けていた。%K%P
-I realize that the rain has been pelting the window of my%Nroom without my noticing of it.%K%P
+I realize that the rain has been pelting the window of my room without my noticing of it.%K%P
 0x188
 それも、ひどい豪雨だ。%K%N
 It's a terrible downpour.%K%N
@@ -27,10 +27,10 @@ I open the bent door, and enter the living room.%K%N
 I want to check the eastern skies...%K%P
 0x230
 窓際に近寄ったとき、鳩が正確に５回鳴いた。%K%P
-When I approach the window, I hear the cuckoo clock five%Ntimes in a row.%K%P
+When I approach the window, I hear the cuckoo clock five times in a row.%K%P
 0x23C
 その鳴き声を聞きながら外を見ると、東の空は、ほのかに白んでいるのがわかった。%K%P
-As the bird chirps, I look out the window to find that the%Nwhole sky is grey.%K%P
+As the bird chirps, I look out the window to find that the whole sky is grey.%K%P
 0x248
 夜明けは近い。%K%P
 Daybreak is near.%K%P
@@ -60,7 +60,7 @@ I briskly walk back in front of my room.%K%P
 I suddenly notice it.%K%N
 0x2FC
 オレの、すぐ隣の部屋……優夏の寝室の扉が、少しだけ開いていた。%K%P
-The door to Yuka's bedroom, which is right next to mine...%Nis slightly ajar.%K%P
+The door to Yuka's bedroom, which is right next to mine... is slightly ajar.%K%P
 0x334
 そうっと開けてみる……。%K%P
 I quietly open it...%K%P
@@ -75,7 +75,7 @@ Yuka isn't here!%K%P
 Her bed is completely empty.%K%P
 0x390
 窓際の白いテーブルの上には１枚のメモ用紙……。%K%P
-There's a notepad on top of a white table near the%Nwindow...%K%P
+There's a notepad on top of a white table near the window...%K%P
 0x3C8
 『誠へ……』%K%P
 「Dear Makoto...」%K%P
@@ -84,10 +84,10 @@ There's a notepad on top of a white table near the%Nwindow...%K%P
 「I'm sorry. I'm going there.」%K%P
 0x3E0
 『私には、どうしても行かなければならない理由があるの。だけど、絶対に追いかけて来ないで！』%K%P
-「I have a reason that means I have to go there, no%Nmatter what. But you mustn't come after me!」%K%P
+「I have a reason that means I have to go there, no matter what. But you mustn't come after me!」%K%P
 0x3EC
 『誠なら、分かるでしょ？　誠まであそこに行ったら、結局、同じ事の繰り返しになってしまう』%K%P
-「If it's you, you'll understand, right? If you go there, the%Nsame thing will happen again in the end.」%K%P
+「If it's you, you'll understand, right? If you go there, the same thing will happen again in the end.」%K%P
 0x3F8
 『歴史はきっと変わらない』%K%P
 「History definitely won't change.」%K%P
@@ -102,13 +102,13 @@ There's a notepad on top of a white table near the%Nwindow...%K%P
 「Since I have that right... I'm going to use it now, okay?」%K%P
 0x440
 『誠、誓ってくれたでしょ？%N今後一切、あそこには近寄らない、って……』%K%P
-「You swore it, didn't you? 'I'll never again go back to the%Nshrine'...」%K%P
+「You swore it, didn't you? 'I'll never again go back to the shrine'...」%K%P
 0x44C
 『だから、ね？　お願い……。絶対に追いかけて来ないで！』%K%P
 「That's why, okay? Please... you mustn't come after me!」%K%P
 0x478
 『優夏先生の恋愛方程式その３%N──約束は絶対守ること──』%K%P
-「The Third Law of Professor Yuka's Love%NFormula:―Promises must be kept―」%K%P
+「The Third Law of Professor Yuka's Love Formula:―Promises must be kept―」%K%P
 0x484
 『……優夏』%K%P
 「... Yuka.」%K%P
@@ -117,7 +117,7 @@ There's a notepad on top of a white table near the%Nwindow...%K%P
 I rush out of the lodge.%K%P
 0x528
 激しく打ちつける雨の中、脇目もふらずに駆け抜けた。%K%P
-I run through the furious rain, disregarding my%Nsurroundings.%K%P
+I run through the furious rain, disregarding my surroundings.%K%P
 0x534
 ──オレまであそこに行ったら、同じ歴史が繰り返すのでは？%K%P
 ―If I go there, won't history repeat itself?%K%P
@@ -126,10 +126,10 @@ I run through the furious rain, disregarding my%Nsurroundings.%K%P
 But I instantly deny that. I won't falter.%K%P
 0x54C
 ひょっとしたらまだ、優夏は神社に着いていないかもしれないのだ。%K%N
-There's a possibility that Yuka might not have arrived at%Nthe shrine yet.%K%N
+There's a possibility that Yuka might not have arrived at the shrine yet.%K%N
 0x558
 何としても、神社に着く前に、優夏を引き止めなければならない。%K%P
-I've got to stop Yuka by any means necessary before%Nshe gets there.%K%P
+I've got to stop Yuka by any means necessary before she gets there.%K%P
 0x590
 なんで優夏のやつ……。%K%P
 Why, Yuka...?%K%P
@@ -147,10 +147,10 @@ Then why...!?%K%P
 Today―in other words, the 6th―.%K%P
 0x5CC
 この神社で、あの夢の中の出来事が起きてしまうかもしれないって言うのに！%K%N
-Even though you said that dream might have occurred in%Nthat shrine!%K%N
+Even though you said that dream might have occurred in that shrine!%K%N
 0x5D8
 そんな危険を冒してまで、あそこに行かなきゃいけない理由って何なんだよ！%K%P
-What's so important that you have to put your life at risk%Nand go there!?%K%P
+What's so important that you have to put your life at risk and go there!?%K%P
 0x5E4
 走りながら、再び脳裏をよぎる光景……。%K%P
 As I run, I once again remember that scene...%K%P
@@ -162,7 +162,7 @@ It can't be...%K%N
 It can't be that that was Yuka?%K%P
 0x654
 優夏が言った言葉──『誰かが死ぬ夢だった』%K%P
-Yuka said that she had―「a dream where someone%Ndied」.%K%P
+Yuka said that she had―「a dream where someone died」.%K%P
 0x660
 それがもしも、嘘だったとしたら？%K%P
 What if that was a lie?%K%P
@@ -192,7 +192,7 @@ So Yuka's already arrived at the shrine!?%K%P
 I put all my strength into running up this staircase.%K%P
 0x774
 雨は屋根の上で弾けて、神社を白い霧で覆っていた。%K%P
-The rain pours down on the roof of the shrine, which is%Nsurrounded by white fog.%K%P
+The rain pours down on the roof of the shrine, which is surrounded by white fog.%K%P
 0x780
 優夏の姿を探す。%K%N
 I look for Yuka.%K%N
@@ -216,7 +216,7 @@ But when I get there, I am once again seized with discord.%K%P
 If I go in, won't I just repeat history?%K%N
 0x7D4
 だが、優夏の言葉が疑わしいとわかった今となっては、とどまったところで、あの惨劇が起こらないという保証はどこにもないのだ！%K%P
-But even if I stop now and I abide by Yuka's somewhat%Nquestionable words, there's no guarantee that this%Ntragedy won't happen!%K%P
+But even if I stop now and I abide by Yuka's somewhat questionable words, there's no guarantee that this tragedy won't happen!%K%P
 0x7E0
 優夏「やさしいね……」%K%P
 Yuka「You're kind...」%K%P
@@ -246,43 +246,43 @@ I made a vow to that starry sky!%K%N
 No, but this isn't anything like a sense of duty.%K%N
 0x84C
 これはそんなものよりも、もっと大きな本能的な衝動だ。%K%P
-This is a much larger instinctive impulse than that. It's%Njust...%K%P
+This is a much larger instinctive impulse than that. It's just...%K%P
 0x858
 ……優夏を……失いたくなかった……。%K%P
 I don't... want to lose Yuka...%K%P
 0x864
 オレは思い切り地面を蹴って、神社の中へと飛び込んだ。%K%P
-I kick off the ground with all my strength, and burst into%Nthe shrine.%K%P
+I kick off the ground with all my strength, and burst into the shrine.%K%P
 0x8DC
 ところが、ここにも優夏はいない。%K%P
 However, Yuka isn't here either.%K%P
 0x8E8
 優夏はいなかったが、すぐに以前とは違う光景に気がついた。%K%P
-She's not here, but I spot something different almost%Ninstantly.%K%P
+She's not here, but I spot something different almost instantly.%K%P
 0x8F4
 光だ……。%K%N
 Light...%K%N
 0x900
 小さな社をかたどった建物……その裏から、外の光が射し込んでいるのだ。%K%P
-Light from outside is shining from behind the building%Nmodeled after a small Shinto shrine.%K%P
+Light from outside is shining from behind the building modeled after a small Shinto shrine.%K%P
 0x90C
 駆け足で、その建物の脇へと近づく。%K%P
 I run towards the side of the building.%K%P
 0x918
 朽ちた床が、ギッギッギッと、今にも抜けそうな程に激しく軋んだ。%K%P
-The rotting floor creaks loudly beneath my feet, as if it%Nwere about to break.%K%P
+The rotting floor creaks loudly beneath my feet, as if it were about to break.%K%P
 0x924
 見ると、神社の壁とその建物の間に広い空間があいていた。%K%N
-I notice that there's a wide space between the shrine's%Nwall and the back of the building.%K%N
+I notice that there's a wide space between the shrine's wall and the back of the building.%K%N
 0x930
 神社の壁には小さな穴がある。今までは、建物の裏に隠れて見えなかったのだ。%K%P
-Hidden behind the building is a small hole in the shrine's%Nwall that I wasn't previously aware of.%K%P
+Hidden behind the building is a small hole in the shrine's wall that I wasn't previously aware of.%K%P
 0x93C
 それは、人ひとりがようやくくぐり抜けられるぐらいの四角い穴だった。%K%N
-It's a square hole that's big enough to let a single%Nperson get through it.%K%N
+It's a square hole that's big enough to let a single person get through it.%K%N
 0x948
 前にどこからか隙間風を感じたのは、この穴のせいだろう。%K%P
-No doubt this hole was what caused the draft I felt two%Ndays ago.%K%P
+No doubt this hole was what caused the draft I felt two days ago.%K%P
 0x954
 オレは中腰のまま、その小さな穴をくぐり抜けた……。%K%P
 I bend over, and slip through the small hole...%K%P

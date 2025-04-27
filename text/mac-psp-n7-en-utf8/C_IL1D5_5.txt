@@ -3,13 +3,13 @@ text area offset and size:
 0xC31
 0x40
 泣きはらしたいづみさんのマブタから、ようやく赤みが失せた頃……%K%P
-And then, when Izumi-san's finally wept her eyes out and%Ntheir red disappears...%K%P
+And then, when Izumi-san's finally wept her eyes out and their red disappears...%K%P
 0x54
 くるみ「おっはよぉー♪」%K%P
 Kurumi「Good morning―♪」%K%P
 0x7C
 ……いつものテンションで、くるみが２階から下りて来た。%K%P
-... The tension is shattered as Kurumi comes down from%Nthe second floor.%K%P
+... The tension is shattered as Kurumi comes down from the second floor.%K%P
 0x98
 いづみ「おっはよぉー、じゃないわよ。今、何時だと思ってるの？」%K%P
 Izumi「It's not 'Good morning'. What time do you think it is?」%K%P
@@ -36,10 +36,10 @@ Izumi「Haah... oh geez...」%K%P
 As she says this, Izumi-san gives a resigned smile.%K%P
 0x128
 いつの間にか、普段の優しい笑顔がそこにはあった。%K%P
-Before I know it, her smile has returned to its usual kind%Nself.%K%P
+Before I know it, her smile has returned to its usual kind self.%K%P
 0x134
 そんないづみさんの表情を見て、思わずオレのほほもゆるんでしまった。%K%P
-Seeing that expression on her face causes me to%Ninstinctively grin, as well.%K%P
+Seeing that expression on her face causes me to instinctively grin, as well.%K%P
 0x140
 くるみ「で、こんなとこでお兄ちゃん、何やってるの？」%K%P
 Kurumi「So what are you doing in a place like this, Onii-chan?」%K%P
@@ -54,7 +54,7 @@ Kurumi「Hey, what are you doing, Onii-chan?」%K%P
 Izumi「Hey... listen to people when they are talking to you!」%K%P
 0x180
 言いながら、いづみさんはツンツンと、軽くくるみの髪を引っぱった。%K%P
-As she says this, Izumi-san grumbles and lightly tugs%NKurumi's hair.%K%P
+As she says this, Izumi-san grumbles and lightly tugs Kurumi's hair.%K%P
 0x1A4
 くるみ「うわっ！　痛ったぁぁぁぁぁぁぁい！」%K%P
 Kurumi「Uwa! Owwwwwwwwwwwwwwww!」%K%P
@@ -84,7 +84,7 @@ Kurumi「You're wrong! Kurumi's not faking this!」%K%P
 Kurumi「Waah! Onii-chan, save Kurumi!」%K%P
 0x25C
 くるみ「姉が妹をイビるよぉ〜！」%K%P
-Kurumi「The younger sister is being teased by the older%Nsister〜!」%K%P
+Kurumi「The younger sister is being teased by the older sister〜!」%K%P
 0x268
 くるみ「小姑のようにイビるよぉ〜！」%K%P
 Kurumi「It's like your sister-in-law is being teased〜!」%K%P
@@ -93,7 +93,7 @@ Kurumi「It's like your sister-in-law is being teased〜!」%K%P
 Izumi「...」%K%P
 0x298
 くるみ「ねぇ、お兄ちゃん？　ここ、ここ……痛いの痛いの飛んでけぇ〜……ってやって♪」%K
-Kurumi「Hey, Onii-chan? Can you... say the whole 'Pain, pain, fly%Naway' thing? ... Please♪」%K
+Kurumi「Hey, Onii-chan? Can you... say the whole 'Pain, pain, fly away' thing? ... Please♪」%K
 0x710
 やってやる
 Do it.
@@ -150,7 +150,7 @@ Izumi-san looks at me, urging me on.%K%P
 (There's no way I can deny them when they're like that.)%K%P
 0x3F8
 誠「ほれっ……チチンプイプイッ、痛いの痛いの、アンドロメダの彼方まで、飛んで行けぇ〜！」%K%P
-Makoto「Here... Abracadabra, pain, pain, fly away, all the way to%NAndromeda〜!」%K%P
+Makoto「Here... Abracadabra, pain, pain, fly away, all the way to Andromeda〜!」%K%P
 0x404
 オレはくるみの頭をなでてやった。%K%P
 I pat Kurumi on the head.%K%P
@@ -177,16 +177,16 @@ Kurumi「'Abracadabra'...」%K%P
 Izumi「'Fly away, all the way to Andromeda'...」%K%P
 0x47C
 ２人は、込み上げてくる笑いをこらえながら顔を見合わせ……%K%P
-The two of exchange glances while trying to hold in their%Nlaughter...%K%P
+The two of exchange glances while trying to hold in their laughter...%K%P
 0x4AC
 守野姉妹「きゃはははははははははっ♪」%K%P
 Morino sisters「Kyahahahahahahaha♪」%K%P
 0x4B8
 ……遂に腹を抱えて笑い始めた。%K%P
-... But end up holding their sides as they burst into%Nlaughter.%K%P
+... But end up holding their sides as they burst into laughter.%K%P
 0x4C4
 ときおり、ドンドンとテーブルをたたいたり、オレの方を指差したりしながら、いつ果てるともなく笑い続ける２人……。%K%P
-They pound on the table, then point at me as they%Ncontinue to laugh...%K%P
+They pound on the table, then point at me as they continue to laugh...%K%P
 0x4D8
 誠「ははっ……ははっ……はははははっ……」%K%P
 Makoto「Ha ha... ha ha... ha ha ha ha...」%K%P

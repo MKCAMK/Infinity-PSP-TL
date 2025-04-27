@@ -6,10 +6,10 @@ text area offset and size:
 I sit in the car's passenger seat.%K%P
 0x58
 フロントガラスの向こうに、ルナビーチの白い外壁が見える。%K%P
-From beyond the glass windshield, I can see the white%Nwalls of Lunabeach.%K%P
+From beyond the glass windshield, I can see the white walls of Lunabeach.%K%P
 0x64
 となりの運転席では、いづみさんが不安げな顔でこちらをのぞき込んでいた。%K%P
-Izumi-san is sitting in the driver's seat, looking at me%Nuneasily.%K%P
+Izumi-san is sitting in the driver's seat, looking at me uneasily.%K%P
 0x70
 いづみ「誠くん……平気？」%K%P
 Izumi「Makoto-kun... are you all right?」%K%P
@@ -21,10 +21,10 @@ Makoto「Of course... I'm not...」%K%P
 Makoto「I don't understand anything anymore...」%K%P
 0x94
 誠「こんなことになって……正気でいられるほうがオカシイよ……」%K%P
-Makoto「Since this happened... it feels like I'm about to go insane%Nat any moment...」%K%P
+Makoto「Since this happened... it feels like I'm about to go insane at any moment...」%K%P
 0xA0
 その言葉を聞いて、いづみさんはきゅっとくちびるをかみ、視線を伏せた。%K%P
-When she hears my words, Izumi-san tightly purses her%Nlips, and lowers her gaze.%K%P
+When she hears my words, Izumi-san tightly purses her lips, and lowers her gaze.%K%P
 0xAC
 いづみ「ごめんなさい……」%K%P
 Izumi「I'm so sorry...」%K%P
@@ -60,10 +60,10 @@ Izumi「... Yes... I understand...」%K%P
 ... she mutters this.%K%P
 0x130
 ゆっくりとまぶたを開くと、瞳には光るものがあった。%K%P
-She slowly opens her eyes, with the light dancing in her%Npupils.%K%P
+She slowly opens her eyes, with the light dancing in her pupils.%K%P
 0x13C
 それをこぼすまいと懸命にこらえながら、いづみさんはそっと、ささやくようにして、話し始めた……。%K%P
-As I do everything I can to endure waiting, Izumi-san%Nquietly begins talking...%K%P
+As I do everything I can to endure waiting, Izumi-san quietly begins talking...%K%P
 0x158
 いづみ「億彦くんに……」%K%P
 Izumi「The one who told...」%K%P
@@ -153,7 +153,7 @@ Izumi「But even though I'm telling you this...」%K%P
 Izumi「This doesn't clear up much for you, does it?」%K%P
 0x2E0
 放心状態のオレには、うなずくことさえできなかった。%K%P
-I'm so stunned by the revelation that I'm unable to even%Nnod.%K%P
+I'm so stunned by the revelation that I'm unable to even nod.%K%P
 0x2EC
 硬いシートの上で、１ミリも動けずに固まっていた。%K%P
 I can't even move an inch on this hard seat.%K%P
@@ -165,28 +165,28 @@ Izumi「Then I'll explain things from the start, one by one...」%K%P
 Izumi「First, about Curé Syndrome.」%K%P
 0x32C
 いづみ「この言葉が最初に使われ始めたのは、今から５年くらい前だったかな」%K%P
-Izumi「It's been several years since these words first started%Nto be used.」%K%P
+Izumi「It's been several years since these words first started to be used.」%K%P
 0x338
 いづみ「『マイケル・キャビン』というアメリカの精神科医が発見した、精神疾患の、ある特殊な症状のことなの」%K%P
-Izumi「An American psychiatrist named 'Michael Cabin'%Ndiscovered a certain mental illness with unique%Nsymptoms.」%K%P
+Izumi「An American psychiatrist named 'Michael Cabin' discovered a certain mental illness with unique symptoms.」%K%P
 0x344
 いづみ「キャビン博士は、当時自分の勤めていた病院に入院していた『トム・フェイブリン』という少年のカウンセリングにたずさわっていたのね」%K%P
-Izumi「At the same time, Dr. Cabin participated in the counseling%Nof a boy named 'Tom Faiblin', who was hospitalized at the%Nhospital he worked at.」%K%P
+Izumi「At the same time, Dr. Cabin participated in the counseling of a boy named 'Tom Faiblin', who was hospitalized at the hospital he worked at.」%K%P
 0x350
 いづみ「トム少年は、そのときまだ１２才だったんだけど、診断の結果、パラノイアであることが判明したの」%K%P
-Izumi「Tom was still twelve years old at the time, but he had%Nbeen diagnosed with paranoia.」%K%P
+Izumi「Tom was still twelve years old at the time, but he had been diagnosed with paranoia.」%K%P
 0x35C
 誠「……パラノイア？」%K%P
 Makoto「... Paranoia?」%K%P
 0x368
 いづみ「ええ、そう、パラノイア……つまり、妄想症のこと」%K%P
-Izumi「Yes, that's right, paranoia... In other words, he was%Ndelusional.」%K%P
+Izumi「Yes, that's right, paranoia... In other words, he was delusional.」%K%P
 0x374
 いづみ「最初にその症状があらわれたのは、１０才の頃だった」%K%P
 Izumi「His symptoms first appeared when he was 10.」%K%P
 0x380
 いづみ「とても成績優秀で、性格も良く、みんなに慕われるような子供だった彼は……」%K%P
-Izumi「He was a straight-A student, had a good personality,%Nand was a child who was adored by everyone...」%K%P
+Izumi「He was a straight-A student, had a good personality, and was a child who was adored by everyone...」%K%P
 0x38C
 いづみ「……１０才の夏……」%K%P
 Izumi「... Then, when he was 10, in the summer of 2003...」%K%P
@@ -213,7 +213,7 @@ Makoto「...」%K%P
 「Anyone who touches me will also become immortal.」%K%P
 0x408
 『不死は伝染し、やがて世界から死は消える』%K%P
-「By infecting others with immortality through this%NImmortality Contagion, death will soon disappear from the%Nworld.」%K%P
+「By infecting others with immortality through this Immortality Contagion, death will soon disappear from the world.」%K%P
 0x414
 『誰も死なないし……死ねなくなるのだ……』%K%P
 「No one will die... They can't die anymore...」%K%P
@@ -225,7 +225,7 @@ Makoto「...」%K%P
 Makoto「...」%K%P
 0x438
 いづみ「誠くんは、ファンタスティック・シュードロジーって、知ってるかな？」%K%P
-Izumi「Makoto-kun, do you know about Pseudologia%NFantastica?」%K%P
+Izumi「Makoto-kun, do you know about Pseudologia Fantastica?」%K%P
 0x444
 いづみ「日本語にすると『空想虚言』のことなんだけど……」%K%P
 Izumi「It's also called 'Mythomania'...」%K%P
@@ -240,7 +240,7 @@ Makoto「I think that something like that was written in that file...」%K%P
 Izumi「Then I'll just give you an abridged explanation...」%K%P
 0x474
 いづみ「要するに……『嘘をついていた本人が、その嘘を、本当の出来事であるかのように思い込んでしまうこと』」%K%P
-Izumi「In short... 'The liar themself is completely convinced that%Nthat lie was a real event.'」%K%P
+Izumi「In short... 'The liar themself is completely convinced that that lie was a real event.'」%K%P
 0x480
 いづみ「それを『空想虚言』って言うの」%K%P
 Izumi「That's what's known as 'Mythomania'.」%K%P
@@ -255,22 +255,22 @@ Makoto「I get it!」%K%P
 Makoto「In other words, at first, Tom was aware that he was lying.」%K%P
 0x4B0
 誠「『ボクは死なない、誰も死なない』と、そんなことを言い続けているうちに……」%K%P
-Makoto「But as he continued to keep saying things like 'I won't%Ndie, and neither will anyone else'...」%K%P
+Makoto「But as he continued to keep saying things like 'I won't die, and neither will anyone else'...」%K%P
 0x4BC
 誠「本当に『自分は死なないんじゃないか？』『自分には不死を宿す力があるんじゃないか？』と信じ込むようになってしまった」%K%P
-Makoto「He reached the point where he truly believed that he%Ncouldn't die and possessed the power of immortality,%Nright?」%K%P
+Makoto「He reached the point where he truly believed that he couldn't die and possessed the power of immortality, right?」%K%P
 0x4C8
 いづみ「うん、そう……。最初はね？　そう思われていたの……」%K%P
-Izumi「Yes, that's right... At least, that's what it seemed like at%Nfirst...」%K%P
+Izumi「Yes, that's right... At least, that's what it seemed like at first...」%K%P
 0x4D4
 誠「思われて、いた？」%K%P
 Makoto「'Seemed'?」%K%P
 0x4E0
 いづみ「まわりの人々も、精神科の医師達も、初めはそう思ってたんだけど……」%K%P
-Izumi「The people around him and the psychiatrists also%Nthought that at first, but...」%K%P
+Izumi「The people around him and the psychiatrists also thought that at first, but...」%K%P
 0x4EC
 いづみ「やがて、それが単なる『空想虚言』じゃないということが、わかったのよ」%K%P
-Izumi「Before long, they realized that it wasn't merely%N'Mythomania'.」%K%P
+Izumi「Before long, they realized that it wasn't merely 'Mythomania'.」%K%P
 0x4F8
 誠「……？」%K%P
 Makoto「...?」%K%P
@@ -279,7 +279,7 @@ Makoto「...?」%K%P
 Izumi「The first one to suggest that was Dr. Cabin.」%K%P
 0x510
 いづみ「博士はカウンセリングを進めるうちに、少年が妄想を抱き始めるようになった『本当のキッカケ』をつきとめたの」%K%P
-Izumi「As Dr. Cabin's counseling progressed, he located the%N'real trigger' that made Tom reach the point where he%Nbegan to embrace those delusions.」%K%P
+Izumi「As Dr. Cabin's counseling progressed, he located the 'real trigger' that made Tom reach the point where he began to embrace those delusions.」%K%P
 0x51C
 誠「……………………」%K%P
 Makoto「...」%K%P
@@ -294,13 +294,13 @@ Izumi「'When Tom actually saved his sister's life'... That was it.」%K%P
 Izumi「In the summer of 2003, when he was 10...」%K%P
 0x54C
 いづみ「キャンプに出かけた湖で、彼の３つ下の妹が、溺れてしまったの」%K%P
-Izumi「His family went camping by a lake, in which his 7 year old%Nsister fell in and sank.」%K%P
+Izumi「His family went camping by a lake, in which his 7 year old sister fell in and sank.」%K%P
 0x558
 いづみ「少年は湖に飛び込んで、妹を岸まで運んだ」%K%P
-Izumi「Tom dived into the lake, and carried his sister back to%Nshore.」%K%P
+Izumi「Tom dived into the lake, and carried his sister back to shore.」%K%P
 0x564
 いづみ「けれど妹に息はなく、脈拍も……なかった」%K%P
-Izumi「But his sister had stopped breathing, and she had no%Npulse...」%K%P
+Izumi「But his sister had stopped breathing, and she had no pulse...」%K%P
 0x570
 いづみ「つまり、瀕死の状態だったということ」%K%P
 Izumi「In other words, she was on the verge of death.」%K%P
@@ -321,16 +321,16 @@ Makoto「Because he touched her... she was saved...」%K%P
 Izumi「No. That's wrong.」%K%P
 0x5B8
 いづみ「少年はただ、以前ＴＶで見た応急処置を、見よう見まねで繰り返しただけなの」%K%P
-Izumi「He had simply seen on TV how to perform first aid%Ntreatment, and merely repeated what he had seen.」%K%P
+Izumi「He had simply seen on TV how to perform first aid treatment, and merely repeated what he had seen.」%K%P
 0x5C4
 いづみ「……人工呼吸……心臓マッサージ……」%K%P
-Izumi「... He used artificial respiration... and gave her a cardiac%Nmassage...」%K%P
+Izumi「... He used artificial respiration... and gave her a cardiac massage...」%K%P
 0x5D0
 いづみ「結果的に、それが功を奏して一命を取りとめた……ただそれだけのこと」%K%P
-Izumi「As a result, he was successful in saving her life... that's%Nall there was to it.」%K%P
+Izumi「As a result, he was successful in saving her life... that's all there was to it.」%K%P
 0x5DC
 いづみ「少年が不死身の体を持ってるとか……ましてや妹に不死が伝染したとか……そんなことはあり得ないのよ」%K%P
-Izumi「Tom possessing an immortal body... or that he infected%Nhis sister with immortality... That's impossible.」%K%P
+Izumi「Tom possessing an immortal body... or that he infected his sister with immortality... That's impossible.」%K%P
 0x5E8
 いづみ「ただね……？」%K%P
 Izumi「But you know what...?」%K%P
@@ -351,64 +351,64 @@ Izumi「They were truly convinced that a miracle had occurred.」%K%P
 「Tom, you're able to bring dead people back to life!」%K%P
 0x630
 『お兄ちゃんには奇跡を起こす不思議な力があるのよ！』%K%P
-「Big brother, you have a marvelous power that makes%Nmiracles happen!」%K%P
+「Big brother, you have a marvelous power that makes miracles happen!」%K%P
 0x63C
 いづみ「来る日も来る日も、彼らは少年に向かってずうっとそう言い続けていたのよ」%K%P
 Izumi「Every day, they would turn to Tom and keep saying this.」%K%P
 0x648
 いづみ「心からの称賛と、畏敬の念を込めてね」%K%P
-Izumi「Their utmost and heartfelt praise filled him with a sense%Nof reverence.」%K%P
+Izumi「Their utmost and heartfelt praise filled him with a sense of reverence.」%K%P
 0x654
 誠「それが……キッカケだったってわけか……」%K%P
 Makoto「So that was... the trigger...」%K%P
 0x660
 誠「誰だって、まわりの人間から『黒い黒い』と%N言われ続けたら『白い』ものでも『黒く』思えてきてしまう、ってことがあるからな」%K%P
-Makoto「Anyone would turn out like that.%K If the people around%Nthem kept telling them that something was 'black' over%Nand over again, even if that thing were actually 'white', it%Nwould seem 'black' to that person.」%K%P
+Makoto「Anyone would turn out like that.%K If the people around them kept telling them that something was 'black' over and over again, even if that thing were actually 'white', it would seem 'black' to that person.」%K%P
 0x66C
 誠「少年の場合には『トムは不思議な力を持ってる……トムは不思議な力を持ってる……』」%K%P
-Makoto「In Tom's case, it was 'Tom possesses a marvelous%Npower... Tom possesses a marvelous power'...」%K%P
+Makoto「In Tom's case, it was 'Tom possesses a marvelous power... Tom possesses a marvelous power'...」%K%P
 0x678
 誠「信頼していた家族から、毎日毎日そう言われ続けて、それでオカシナ妄想を抱くようになってしまった……そういうことか」%K%P
-Makoto「Because his trusted family kept saying that every day,%Nhe completely reached the point where he embraced%Nwild delusions... So that's what happened.」%K%P
+Makoto「Because his trusted family kept saying that every day, he completely reached the point where he embraced wild delusions... So that's what happened.」%K%P
 0x684
 いづみ「ええ……」%K%P
 Izumi「Yes...」%K%P
 0x690
 いづみ「もちろん、内的な要因がまったく無かったかと言うと、そういうわけでもないんでしょうけど……」%K%P
-Izumi「Of course, it would be wrong to say that the main cause%Nwasn't mental...」%K%P
+Izumi「Of course, it would be wrong to say that the main cause wasn't mental...」%K%P
 0x69C
 誠「？」%K%P
 Makoto「?」%K%P
 0x6A8
 いづみ「１０才とか、そのぐらいの年齢って『死』というものの意味を、ようやく理解するようになる年頃だから……」%K%P
-Izumi「10 is the approximate age where you reach the point%Nthat you finally understand the meaning of 'death'...」%K%P
+Izumi「10 is the approximate age where you reach the point that you finally understand the meaning of 'death'...」%K%P
 0x6B4
 いづみ「『死』に対して、とても敏感で、過剰な恐怖や絶望感を抱いたりするものなの」%K%P
-Izumi「You feel very sensitive towards 'death', and do things%Nsuch as embracing excessive fear and feelings of%Ndespair.」%K%P
+Izumi「You feel very sensitive towards 'death', and do things such as embracing excessive fear and feelings of despair.」%K%P
 0x6C0
 いづみ「要するに、少年の心の中には、もともと『死』に対する恐怖のようなものがあって……」%K%P
-Izumi「In short, there was something like a fear towards 'death'%Nin Tom's mind from the start...」%K%P
+Izumi「In short, there was something like a fear towards 'death' in Tom's mind from the start...」%K%P
 0x6CC
 いづみ「そこに、例の湖の事件と、家族の言葉が加わったから……」%K%P
 Izumi「That, plus the lake incident and his family's words...」%K%P
 0x6D8
 いづみ「だから彼は『自分は死なない』とか『不死を伝染すことができる』とか……そんなふうに信じ込むようになってしまったのよ」%K%P
-Izumi「That's why Tom reached the point where he firmly%Nbelieved things such as 'I won't die' and 'I can infect%Nothers with immortality'...」%K%P
+Izumi「That's why Tom reached the point where he firmly believed things such as 'I won't die' and 'I can infect others with immortality'...」%K%P
 0x6E4
 誠「……………………」%K%P
 Makoto「...」%K%P
 0x6F0
 いづみ「少年自身は、この『不死を伝染させる行為』のことを『キュア』と呼んでいたの」%K%P
-Izumi「Tom himself called this 'act of infecting other with%Nimmortality,' 'Cure'.」%K%P
+Izumi「Tom himself called this 'act of infecting other with immortality,' 'Cure'.」%K%P
 0x6FC
 いづみ「『ＣＵＲＥ』%T015……つまり『いやし』とか『救済』とか、そういう意味」%K%P
 Izumi「'Cure'... as you know, that means 'to heal'.」%K%P
 0x708
 いづみ「そこでキャビン博士は、このパラノイアの特殊な類型のことを『キュレイシンドローム』と名づけた」%K%P
-Izumi「And so Dr. Cabin named this unique type of paranoia%N'Curé Syndrome'.」%K%P
+Izumi「And so Dr. Cabin named this unique type of paranoia 'Curé Syndrome'.」%K%P
 0x714
 いづみ「キュレイのスペルは『Ｃ・%WＵ・%WＲ・%WＥ』%T015……キュアのフランス語読みなのよ」%K%P
-Izumi「While Tom used the English word 'Cure' to refer to his%Nability, Dr. Cabin used the French word 'Curé' for Curé%NSyndrome.」%K%P
+Izumi「While Tom used the English word 'Cure' to refer to his ability, Dr. Cabin used the French word 'Curé' for Curé Syndrome.」%K%P
 0x720
 （フランス語読み……？）%K%P
 (The French word...?)%K%P
@@ -420,19 +420,19 @@ Izumi「While Tom used the English word 'Cure' to refer to his%Nability, Dr. Cab
 Izumi「Anyway, Curé Syndrome is...」%K%P
 0x744
 いづみ「まわりの人がついた嘘を、本人が疑いもなく信じ込んでしまうことを指して言うの」%K%P
-Izumi「The definition of the act of firmly believing, without a%Ndoubt, that the lies told by people surrounding you are%Nthe truth.」%K%P
+Izumi「The definition of the act of firmly believing, without a doubt, that the lies told by people surrounding you are the truth.」%K%P
 0x750
 いづみ「このとき大事なのは『最初に嘘をついた人も、それを嘘だとは思っていない』ということ」%K%P
-Izumi「At this time, it's important that 'The first person or people%Nwho lied also don't think it's a lie.'」%K%P
+Izumi「At this time, it's important that 'The first person or people who lied also don't think it's a lie.'」%K%P
 0x75C
 いづみ「妄想を抱くようになった本人も、最初に嘘をついた人も、それこそが『真実だ』『本当のことだ』と思い込んでいる……」%K%P
-Izumi「The person who reached the point where they%Nembraced the delusion and the first person or people%Nwho lied are convinced the lie is 'reality' and 'the truth'...」%K%P
+Izumi「The person who reached the point where they embraced the delusion and the first person or people who lied are convinced the lie is 'reality' and 'the truth'...」%K%P
 0x768
 いづみ「心の底から、本気で信じているのよ」%K%P
 Izumi「They seriously believe it from the bottom of their hearts.」%K%P
 0x774
 いづみ「ある意味『妄想が伝播した』と言ってもいいかもしれないわね」%K%P
-Izumi「In a sense, you might say that's the 'spreading of the%Ndelusion'.」%K%P
+Izumi「In a sense, you might say that's the 'spreading of the delusion'.」%K%P
 0x780
 いづみ「この２つが、キュレイシンドロームの主な特徴なの」%K%P
 Izumi「These are the two principle traits of Curé Syndrome.」%K%P
@@ -444,7 +444,7 @@ Izumi-san takes a deep breath.%K%P
 Her expression seems to have calmed down a little.%K%P
 0x7DC
 徐々に真実を打ち明けていくことで、心の中にあったわだかまりが薄れていっているのかもしれない。%K%P
-Maybe the more she slowly reveals the truth to me, the%Nlighter the weight in her heart gets.%K%P
+Maybe the more she slowly reveals the truth to me, the lighter the weight in her heart gets.%K%P
 0x7E8
 ふと、窓の外を見ると……%K%P
 Suddenly, outside the window, I see...%K%P
@@ -453,7 +453,7 @@ Suddenly, outside the window, I see...%K%P
 ... Saki.%K%P
 0x854
 沙紀はルナビーチのドアを勢いよく開け放つと、中に飛び込んでいった。%K%P
-Saki forcefully opens the door to Lunabeach, and%Nlunges in.%K%P
+Saki forcefully opens the door to Lunabeach, and lunges in.%K%P
 0x860
 （そうか……）%K%P
 (I see...)%K%P
@@ -468,19 +468,19 @@ Izumi-san also seems to realize this.%K%P
 But we don't have time to deal with Saki right now.%K%P
 0x8A0
 なにしろオレは、まだ何も聞いていないのだから……。%K%P
-She's not even close to done with explaining%Neverything...%K%P
+She's not even close to done with explaining everything...%K%P
 0x8AC
 キュレイシンドローム以外のことは……まだ何も……。%K%P
-With the exception of Curé Syndrome... I still know%Nnothing...%K%P
+With the exception of Curé Syndrome... I still know nothing...%K%P
 0x8D4
 誠「いづみさん、さっき『知りたかったから』って、そう言ったよね？」%K%P
-Makoto「Izumi-san, earlier, you said 'Because I wanted to%Nunderstand it', right?」%K%P
+Makoto「Izumi-san, earlier, you said 'Because I wanted to understand it', right?」%K%P
 0x8E0
 いづみ「うん……」%K%P
 Izumi「Yes...」%K%P
 0x8EC
 誠「キュレイシンドロームのことを知りたかったから……だから億彦に、オレのことをだますように言った……」%K%P
-Makoto「You wanted to understand Curé Syndrome... That's why%Nyou told Okuhiko to deceive me...」%K%P
+Makoto「You wanted to understand Curé Syndrome... That's why you told Okuhiko to deceive me...」%K%P
 0x8F8
 いづみ「ええ……」%K%P
 Izumi「Yes...」%K%P
@@ -501,7 +501,7 @@ Makoto「... When he said 'experiment'.」%K%P
 Izumi「...」%K%P
 0x940
 誠「要するに、この合宿の目的は『キュレイシンドロームの実験』をすることにあった」%K%P
-Makoto「In short, this Seminar Camp's goal was 'To run an%Nexperiment on Curé Syndrome'.」%K%P
+Makoto「In short, this Seminar Camp's goal was 'To run an experiment on Curé Syndrome'.」%K%P
 0x94C
 誠「……そうなんだろ？　いづみさん」%K%P
 Makoto「... Is that right, Izumi-san?」%K%P
@@ -510,28 +510,28 @@ Makoto「... Is that right, Izumi-san?」%K%P
 Izumi-san gives me a slow, deep nod.%K%P
 0x964
 誠「さっきの億彦の言い方からすると、実験に関っていたのは、いづみさんと億彦の２人だけ……」%K%P
-Makoto「Judging from the way he talked earlier, it seems like only%Nyou and him are involved with the experiment...」%K%P
+Makoto「Judging from the way he talked earlier, it seems like only you and him are involved with the experiment...」%K%P
 0x970
 誠「あとのみんなは……」%K%P
 Makoto「Then the others...」%K%P
 0x97C
 いづみ「そう。みんなには、この実験のことは何も教えてないわ」%K%P
-Izumi「Right. They haven't been told anything about this%Nexperiment.」%K%P
+Izumi「Right. They haven't been told anything about this experiment.」%K%P
 0x988
 いづみ「優夏ちゃんにも遙ちゃんにも……もちろんくるみにもね」%K%P
-Izumi「Not Yuka-chan, not Haruka-chan... and of course, not%NKurumi.」%K%P
+Izumi「Not Yuka-chan, not Haruka-chan... and of course, not Kurumi.」%K%P
 0x994
 いづみ「ただ３人は、私が教授だということだけは知っていたの」%K%P
-Izumi「The only thing those three knew was that I was a%Nprofessor.」%K%P
+Izumi「The only thing those three knew was that I was a professor.」%K%P
 0x9A0
 いづみ「けれどそのことは、誠くんには言わないように、口止めしておいたのよ」%K%P
-Izumi「But I told them in advance that they weren't allowed to%Ntell you anything.」%K%P
+Izumi「But I told them in advance that they weren't allowed to tell you anything.」%K%P
 0x9AC
 いづみ「『この合宿の目的は、班員の親睦を深めることにある』」%K%P
-Izumi「'The goal of this Seminar Camp is to deepen the amity%Nbetween the members.'」%K%P
+Izumi「'The goal of this Seminar Camp is to deepen the amity between the members.'」%K%P
 0x9B8
 いづみ「『と同時に、出席率の悪い誠くんの、素行調査も兼ねている』」%K%P
-Izumi「'At the same time, it's also serving as a background%Ncheck for Makoto-kun, who has a low attendance rate.」%K%P
+Izumi「'At the same time, it's also serving as a background check for Makoto-kun, who has a low attendance rate.」%K%P
 0x9C4
 いづみ「……そんな口実を使ってね」%K%P
 Izumi「... That's the excuse I used.」%K%P
@@ -561,49 +561,49 @@ Makoto「But... why didn't you just tell them as well...?」%K%P
 Izumi「Because there was no need to.」%K%P
 0xA30
 いづみ「真相を知っている人間が多ければ多いほど、秘密がもれる危険性は高くなる……でしょ？」%K%P
-Izumi「The more people there were who knew the truth, the%Ngreater the danger there was of the secret slipping%Nout... That's why.」%K%P
+Izumi「The more people there were who knew the truth, the greater the danger there was of the secret slipping out... That's why.」%K%P
 0xA3C
 誠「……なるほどね」%K%P
 Makoto「... I see.」%K%P
 0xA48
 誠「オレごときをだますには、いづみさんと億彦の２人だけで十分だった、と……そういうわけか……」%K%P
-Makoto「Only two people, that is, you and Okuhiko, were sufficient%Nenough to deceive me... That's what you mean...」%K%P
+Makoto「Only two people, that is, you and Okuhiko, were sufficient enough to deceive me... That's what you mean...」%K%P
 0xA54
 吐き捨てるように言ったオレの言葉に、いづみさんは苦悶の表情を浮かべた。%K%P
-The words I spit out create an anguished expression on%NIzumi-san's face.%K%P
+The words I spit out create an anguished expression on Izumi-san's face.%K%P
 0xA60
 誠「まあいいや」%K%P
 Makoto「Well, whatever.」%K%P
 0xA6C
 誠「過ぎたことをウダウダと言うのはオレの趣味じゃないし……」%K%P
-Makoto「Over-the-top conspiracies aren't exactly my thing%Nanyway...」%K%P
+Makoto「Over-the-top conspiracies aren't exactly my thing anyway...」%K%P
 0xA78
 いづみ「…………………………」%K%P
 Izumi「...」%K%P
 0xA84
 誠「とにかく、いづみさんと億彦は、オレの予知が、本当にあたっているかのごとく見せかけることによって……」%K%P
-Makoto「Anyway, by you and Okuhiko pretending that my%Npremonitions were actually correct...」%K%P
+Makoto「Anyway, by you and Okuhiko pretending that my premonitions were actually correct...」%K%P
 0xA90
 誠「オレ自身に『予知能力がある』ってことを信じ込ませようとしてた」%K%P
-Makoto「... you tried to make me firmly believe that 'I have%Nprecognition'.」%K%P
+Makoto「... you tried to make me firmly believe that 'I have precognition'.」%K%P
 0xA9C
 誠「つまり意図的に、オレに『妄想』を抱かせようとしてた、ってわけだ」%K%P
-Makoto「In other words, you intentionally tried to make me%Nembrace my 'delusion'.」%K%P
+Makoto「In other words, you intentionally tried to make me embrace my 'delusion'.」%K%P
 0xAA8
 誠「さっき話してた少年みたいに『キュレイシンドローム』におちいらせようと……」%K%P
-Makoto「You attempt to cause me to be afflicted with 'Curé%NSyndrome', just like Tom...」%K%P
+Makoto「You attempt to cause me to be afflicted with 'Curé Syndrome', just like Tom...」%K%P
 0xAB4
 いづみ「…………………………」%K%P
 Izumi「...」%K%P
 0xAC0
 誠「で……日々変わっていくオレの様子を、裏で密かに観察してた、と……」%K%P
-Makoto「And... you secretly observed me every day as my state%Nbegan to change...」%K%P
+Makoto「And... you secretly observed me every day as my state began to change...」%K%P
 0xACC
 誠「被験者の心理的変化の過程を調べていた……」%K%P
-Makoto「You were investigating the process of your subject's%Npsychological change...」%K%P
+Makoto「You were investigating the process of your subject's psychological change...」%K%P
 0xAD8
 誠「それが、この合宿の本当の目的……『実験』とやらのすべてだ」%K%P
-Makoto「That's the true goal of this Seminar Camp... All to carry%Nout this so-called 'experiment'.」%K%P
+Makoto「That's the true goal of this Seminar Camp... All to carry out this so-called 'experiment'.」%K%P
 0xAE4
 誠「……そうなんだろ？」%K%P
 Makoto「... Isn't that right?」%K%P
@@ -672,7 +672,7 @@ Izumi「It's the truth!」%K%P
 Makoto「...」%K%P
 0xBFC
 いづみ「誠くんの言ってた予知は、現実に、全部、当たってたの！」%K%P
-Izumi「In reality, all the premonitions you said you had all turned%Nout to be correct!」%K%P
+Izumi「In reality, all the premonitions you said you had all turned out to be correct!」%K%P
 0xC08
 誠「な、なんでそんなこと……言うんだよ……」%K%P
 Makoto「W-Why are you... saying that...?」%K%P
@@ -681,10 +681,10 @@ Makoto「W-Why are you... saying that...?」%K%P
 Makoto「Okuhiko confessed... everything earlier, didn't he...?」%K%P
 0xC20
 誠「ルナビーチの米のことも、バッテリーのことも、夕飯のメニューのことも……」%K%P
-Makoto「The rice incident, the battery incident, the dinner%Nincident...」%K%P
+Makoto「The rice incident, the battery incident, the dinner incident...」%K%P
 0xC2C
 誠「いづみさんと億彦が、当たってるようなフリをしてただけなんだろ？」%K%P
-Makoto「You and Okuhiko just pretended that they were correct,%Nweren't you?」%K%P
+Makoto「You and Okuhiko just pretended that they were correct, weren't you?」%K%P
 0xC38
 いづみ「誠くん」%K%P
 Izumi「Makoto-kun.」%K%P
@@ -711,7 +711,7 @@ Izumi「Why don't you try... starting the engine?」%K%P
 Makoto「T-The engine?」%K%P
 0xC98
 わけもわからずうろたえながらも、オレは言われた通り、キーをひねった。%K%P
-Although I'm flustered and don't understand what's going%Non, I do what she says, and turn the key.%K%P
+Although I'm flustered and don't understand what's going on, I do what she says, and turn the key.%K%P
 0xCCC
 いづみ「もう１度……」%K%P
 Izumi「Once more...」%K%P
@@ -720,13 +720,13 @@ Izumi「Once more...」%K%P
 ―Click. ―Click. ―Click.%K%P
 0xD74
 何度も何度もひねったが、もはやエンジンは、何の反応も示さなかった。%K%P
-I turn the key countless times, but the engine no longer%Nshows any reaction.%K%P
+I turn the key countless times, but the engine no longer shows any reaction.%K%P
 0xD80
 いづみ「今日の午後からなの」%K%P
 Izumi「It was from today's afternoon.」%K%P
 0xD8C
 いづみ「午前中にも１度試してみたんだけど、そのときは何の異常もなくって……」%K%P
-Izumi「I also tried it once this morning, but at that time, it was%Nfunctioning normally...」%K%P
+Izumi「I also tried it once this morning, but at that time, it was functioning normally...」%K%P
 0xD98
 誠「…………………………」%K%P
 Makoto「...」%K%P
@@ -747,7 +747,7 @@ Makoto「The engine actually wouldn't start?」%K%P
 Izumi「Yes.」%K%P
 0xDE0
 誠「いづみさんが、わざとかからないフリをしてたってわけじゃ……」%K%P
-Makoto「Then you weren't actually pretending that it wouldn't%Nstart...」%K%P
+Makoto「Then you weren't actually pretending that it wouldn't start...」%K%P
 0xDEC
 いづみ「……ないのよ」%K%P
 Izumi「... I wasn't.」%K%P
@@ -759,16 +759,16 @@ Izumi「Of course, it's the same for your other premonitions...」%K%P
 Izumi「We really didn't have enough rice at the shop...」%K%P
 0xE48
 いづみ「３日の夕飯は、本当にカレーにするつもりで、材料も買って来てたんだもの」%K%P
-Izumi「On the night of the 3rd, I really did plan on making curry,%Nand bought the ingredients for it.」%K%P
+Izumi「On the night of the 3rd, I really did plan on making curry, and bought the ingredients for it.」%K%P
 0xE5C
 いづみ「３日の夕飯は、本当にシチューにするつもりで、材料も買って来てたんだもの」%K%P
-Izumi「On the night of the 3rd, I really did plan on making cream%Nstew, and bought the ingredients for it.」%K%P
+Izumi「On the night of the 3rd, I really did plan on making cream stew, and bought the ingredients for it.」%K%P
 0xE70
 いづみ「３日の夕飯は、本当に肉ジャガにするつもりで、材料も買って来てたんだもの」%K%P
-Izumi「On the night of the 3rd, I really did plan on making%Nmeat-potato stew, and bought the ingredients for it.」%K%P
+Izumi「On the night of the 3rd, I really did plan on making meat-potato stew, and bought the ingredients for it.」%K%P
 0xE7C
 いづみ「ましてや、地震とかトランプのことなんて、どうやったって、見せかけることなんかできないでしょ？」%K%P
-Izumi「And no matter how you look at it, there's no way we could%Nhave faked the earthquake and the cards, right?」%K%P
+Izumi「And no matter how you look at it, there's no way we could have faked the earthquake and the cards, right?」%K%P
 0xE88
 誠「だとすると、億彦は……」%K%P
 Makoto「If that's the case, then Okuhiko...」%K%P
@@ -777,49 +777,49 @@ Makoto「If that's the case, then Okuhiko...」%K%P
 Izumi「I think he probably made a misunderstanding.」%K%P
 0xEA0
 いづみ「誰だって、億彦くんの立場だったら『本当に予知が当たってる』なんて、思うはずがないもの」%K%P
-Izumi「If anyone were in Okuhiko's standpoint, they definitely%Nwouldn't have thought your premonitions were actually%Ncorrect.」%K%P
+Izumi「If anyone were in Okuhiko's standpoint, they definitely wouldn't have thought your premonitions were actually correct.」%K%P
 0xEAC
 誠「うーん……そういうことか……」%K%P
 Makoto「Hmm... so that's it...」%K%P
 0xEB8
 誠「要するに億彦は、オレの予知が当たるたびに『きっといづみさんが演技してるんだろう』と思い込んでいた」%K%P
-Makoto「So every time my premonitions came true, Okuhiko was%Nconvinced that you were acting.」%K%P
+Makoto「So every time my premonitions came true, Okuhiko was convinced that you were acting.」%K%P
 0xEC4
 誠「米のことも、バッテリーのことも、夕飯のことも……」%K%P
-Makoto「That goes for the rice incident, the battery incident, and%Nthe dinner incident...」%K%P
+Makoto「That goes for the rice incident, the battery incident, and the dinner incident...」%K%P
 0xED0
 誠「……ん？　……夕飯？」%K%P
 Makoto「... Wait, dinner?」%K%P
 0xEDC
 誠「そう言えば億彦、あのときの材料は『自分が用意した』って言ってたけど？」%K%P
-Makoto「Now that I think about it, at that time, didn't Okuhiko say%Nthat he prepared the ingredients himself?」%K%P
+Makoto「Now that I think about it, at that time, didn't Okuhiko say that he prepared the ingredients himself?」%K%P
 0xEE8
 いづみ「うん。確かに億彦くんが、材料を買って来たのは事実よ」%K%P
-Izumi「Yes. It's a fact that Okuhiko-kun bought ingredients and%Ncame back.」%K%P
+Izumi「Yes. It's a fact that Okuhiko-kun bought ingredients and came back.」%K%P
 0xEF4
 いづみ「私が料理を作ってるときに、こっそりキッチンにやって来て……それで、材料を置いて行ったの」%K%P
-Izumi「While I was cooking, he secretly entered the kitchen...%Nand then he placed his ingredients down.」%K%P
+Izumi「While I was cooking, he secretly entered the kitchen... and then he placed his ingredients down.」%K%P
 0xF00
 いづみ「でもそのときには、ほとんど料理は出来上がってて……」%K%P
 Izumi「But at that point, I had almost finished cooking...」%K%P
 0xF0C
 誠「結局、億彦の買って来た材料は、使わなかった？」%K%P
-Makoto「So in the end, you didn't use the ingredients Okuhiko%Nbought?」%K%P
+Makoto「So in the end, you didn't use the ingredients Okuhiko bought?」%K%P
 0xF18
 いづみ「ええ……」%K%P
 Izumi「Yes...」%K%P
 0xF24
 なるほど……言われてみれば、確かにそうかもしれない。%K%P
-I see... putting it that way, that's probably how it turned%Nout.%K%P
+I see... putting it that way, that's probably how it turned out.%K%P
 0xF30
 バーベキューの準備のとき、ロッジに取りに帰った玉ネギ。%K%P
-When I was preparing for the barbecue, I returned to the%Nlodge to get onions.%K%P
+When I was preparing for the barbecue, I returned to the lodge to get onions.%K%P
 0xF3C
 あの玉ネギが、大量に残っていたのはそのせいだろう。%K%P
 Now I see why there were so many onions.%K%P
 0xF48
 いづみさんが使わなかった分と、億彦が用意した分。%K%P
-They were the ones Izumi-san didn't use, and the ones%NOkuhiko prepared.%K%P
+They were the ones Izumi-san didn't use, and the ones Okuhiko prepared.%K%P
 0xF54
 その両方が、あのビニール袋の中に入っていたのだ。%K%P
 Both portions were put into that plastic bag.%K%P
@@ -828,7 +828,7 @@ Both portions were put into that plastic bag.%K%P
 It seems that what Izumi-san is saying isn't a lie.%K%P
 0xF6C
 誠「それでいづみさんは、あんなにしつこく予知のことを聞いてきたのか」%K%P
-Makoto「And that's why you were so persistently asking me%Nabout my premonitions.」%K%P
+Makoto「And that's why you were so persistently asking me about my premonitions.」%K%P
 0xF94
 いづみ「うん……」%K%P
 Izumi「Yes...」%K%P
@@ -840,7 +840,7 @@ Izumi「Because even though we hadn't done anything yet...」%K%P
 Izumi「You were still suddenly speaking of premonitions...」%K%P
 0xFB8
 いづみ「しかも、その予知が全部、ことごとく当たっていたし……」%K%P
-Izumi「And furthermore, every single one of your premonitions%Nwas correct...」%K%P
+Izumi「And furthermore, every single one of your premonitions was correct...」%K%P
 0xFC4
 いづみ「私……何が何だかわけがわからなくて……」%K%P
 Izumi「I... didn't understand what was what...」%K%P
@@ -852,10 +852,10 @@ Makoto「...」%K%P
 「In reality, all of my premonitions were correct.」%K%P
 0xFE8
 そんな衝撃的な事実を知らされたにもかかわらず、オレの心はなぜか冷静だった。%K%P
-Despite being informed of this startling fact, it doesn't%Nphase me.%K%P
+Despite being informed of this startling fact, it doesn't phase me.%K%P
 0xFF4
 あまりにも多くの事をいっぺんに知り過ぎたせいで、オレの中の感覚が、すでに麻痺してしまっていたのかもしれない。%K%P
-My senses might've already gone numb from all this%Ninformation overload.%K%P
+My senses might've already gone numb from all this information overload.%K%P
 0x1000
 それに……%K%N
 Besides...%K%N
@@ -864,19 +864,19 @@ Besides...%K%N
 ... to be honest, I feel a little relieved.%K%P
 0x1018
 結局、オレのことをだまそうとしていたのは、億彦だけだったわけで……。%K%P
-Because in the end, the only one who tried to deceive%Nme was Okuhiko...%K%P
+Because in the end, the only one who tried to deceive me was Okuhiko...%K%P
 0x1024
 他のみんなも、そしていづみさんも、嘘なんかついてはいなかった。%K%P
 Izumi-san and the others weren't lying to me.%K%P
 0x1030
 確かに『いづみさんが先生だ』ということが隠されていたのは事実だけれど……%K%P
-Sure, they did hide the fact that Izumi-san was actually%Na professor.%K%P
+Sure, they did hide the fact that Izumi-san was actually a professor.%K%P
 0x103C
 でも、それ以外の出来事……これまでの６日間のほとんどすべては……%K%P
-But apart from that... almost everything else in the past%Nsix days...%K%P
+But apart from that... almost everything else in the past six days...%K%P
 0x1048
 演技でも芝居でも何でもなく、みんながありのままの姿で、ありのままに創り上げていった、本当の現実だったのだ。%K%P
-... happened naturally with no performances or gimmicks;%Nit was everyone being themselves, creating real%Nmemories.%K%P
+... happened naturally with no performances or gimmicks; it was everyone being themselves, creating real memories.%K%P
 0x1054
 そのことが少しだけ、オレの心を落ち着かせてくれたのだった。%K%P
 That knowledge puts my mind at ease.%K%P
@@ -891,7 +891,7 @@ Kurumi「Onee-chan! We've got trouble!」%K%P
 From beyond the front window, we see a troubled Kurumi...%K%P
 0x10C0
 くるみ「こんなとこで、夕陽に向かって愛を語らいあってる場合じゃないよぉ〜！」%K%P
-Kurumi「Now's not the time to be pledging your love for each%Nother in front of the setting sun!」%K%P
+Kurumi「Now's not the time to be pledging your love for each other in front of the setting sun!」%K%P
 0x10CC
 いづみ「…………」%K%P
 Izumi「...」%K%P
@@ -912,7 +912,7 @@ Izumi「Wh-What's wrong, Kurumi...?」%K%P
 Izumi-san opens the door, and gets out of the car.%K%P
 0x1158
 くるみ「『どうしたの？』なんて呑気なこと言ってる場合じゃないんだからぁ〜！」%K%P
-Kurumi「'What's wrong?' Now's not the time to be saying such%Ncarefree things!」%K%P
+Kurumi「'What's wrong?' Now's not the time to be saying such carefree things!」%K%P
 0x1164
 いづみ「だから、何があったのよ？」%K%P
 Izumi「That's why I'm asking you what happened.」%K%P

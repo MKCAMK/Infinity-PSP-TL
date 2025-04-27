@@ -18,7 +18,7 @@ Izumi「Kurumi's...」%K%P
 Izumi「Kurumi's gone!」%K%P
 0x200
 いづみ「夜中にふと目が覚めて……隣を見たら……」%K%P
-Izumi「I suddenly woke up in the middle of the night... and when I%Nlooked around...」%K%P
+Izumi「I suddenly woke up in the middle of the night... and when I looked around...」%K%P
 0x21C
 沙紀「くるみちゃんがいなかった……」%K%P
 Saki「Kurumi-chan was gone...」%K%P
@@ -27,7 +27,7 @@ Saki「Kurumi-chan was gone...」%K%P
 Izumi「Yes...」%K%P
 0x244
 いづみ「思いつく所は、ひととおり探してみたんだけど……」%K%P
-Izumi「I searched alone at first, trying all the places I could%Nthink of...」%K%P
+Izumi「I searched alone at first, trying all the places I could think of...」%K%P
 0x250
 いづみ「お店の中も、月浜の周辺も、全部……」%K%P
 Izumi「Inside the shop, the area around Moon Beach, all of it...」%K%P
@@ -39,7 +39,7 @@ Saki「Do you know of any other places Kurumi-chan would go?」%K%P
 Saki「Or do you have any clues...?」%K%P
 0x284
 いづみさんはそっと目を閉じ、静かに首を振った。%K%P
-Izumi-san softly closes her eyes, and gently shakes%Nher head.%K%P
+Izumi-san softly closes her eyes, and gently shakes her head.%K%P
 0x290
 沙紀「とにかく、こんなとこでじっとしてても始まらないから……」%K%P
 Saki「Anyway, sitting still here won't get anything solved...」%K%P
@@ -54,7 +54,7 @@ Saki「... Why don't we all quickly split up and look for Kurumi?」%K%P
 Everyone files out of the door.%K%P
 0x2C8
 オレはひとり、ダイニングチェアに腰かけて、朽ち果てた人形のように茫然としていた。%K%P
-Before long, I'm all alone, still sitting on the dining chair as%Nstill as a decaying doll.%K%P
+Before long, I'm all alone, still sitting on the dining chair as still as a decaying doll.%K%P
 0x2DC
 遙「……行かないの？」%K%P
 Haruka「... You're not going?」%K%P
@@ -78,7 +78,7 @@ She's worried... about Kurumi...%K%P
 (What the hell am I doing...?)%K%P
 0x338
 （こんなところで腐った老木みたいにひとり座って……？）%K%P
-(Why am I just sitting around like an old, rotten tree and%Ndoing nothing...?)%K%P
+(Why am I just sitting around like an old, rotten tree and doing nothing...?)%K%P
 0x344
 と、その時……。%K%P
 And, at that time...%K%P
@@ -108,7 +108,7 @@ I quickly look out the window.%K%P
 ―A downpour...%K%P
 0x3EC
 雨雲に覆われた空が薄っすらと明るくなってきていた。%K%P
-The rain clouds covering the whole sky are getting%Nbrighter.%K%P
+The rain clouds covering the whole sky are getting brighter.%K%P
 0x3F8
 （そしてくるみは、どこにいる？）%K%P
 (And just where is Kurumi?)%K%P
@@ -168,7 +168,7 @@ No way, she couldn't have!!!%K%P
 I look around for Yuka.%K%P
 0x608
 玄関前に集まったみんなの中に、優夏の姿は無い。%K%P
-I don't see her amongst the others, who are out by the%Nfront door.%K%P
+I don't see her amongst the others, who are out by the front door.%K%P
 0x614
 視線を林道の先に移した。%K%P
 I shift my gaze to the tip of the forest path.%K%P
@@ -180,7 +180,7 @@ I see the small retreating figure of Yuka running.%K%P
 Makoto「Yuka...」%K%P
 0x644
 気がつくと、オレはいつの間にか走り出していた。%K%P
-When I come to my senses, I find myself running as fast%Nas I can.%K%P
+When I come to my senses, I find myself running as fast as I can.%K%P
 0x650
 疾風のように……。%K%P
 I try to pick up my pace...%K%P
@@ -201,7 +201,7 @@ This is a race against the clock...%K%P
 My time limit... is already less than 30 minutes...%K%P
 0x6E0
 ぬかるんだ地面に足元をすくわれながらも、懸命に、全力を振り絞って走り続けた。%K%P
-Although the muddy ground trips me up, I muster all of my%Nstrength and keep running.%K%P
+Although the muddy ground trips me up, I muster all of my strength and keep running.%K%P
 0x718
 歴史が繰り返す……。%K%P
 History is repeating itself...%K%P
@@ -213,7 +213,7 @@ If Yuka goes over there right now, nothing will change.%K%P
 Kurumi―she didn't go missing on the 4th.%K%P
 0x73C
 『歴史が変わった』……オレと優夏はそう思って喜び浮かれていた。%K%P
-「History changed」... Yuka and I were overjoyed with that%Nthought.%K%P
+「History changed」... Yuka and I were overjoyed with that thought.%K%P
 0x748
 だが……。%K%N
 But...%K%N
@@ -228,16 +228,16 @@ Kurumi still disappeared. All that's changed is the date.%K%P
 「Laplace's demon」 is smiling.%K%P
 0x778
 『全ての出来事は初めから何もかも決まっている……偶然ではなく必然的に起こるものなのだ』%K%P
-「Everything which occurs in the world has been%Npredetermined from the beginning... Its occurrence is by%Nno means accidental, but in fact inevitable.」%K%P
+「Everything which occurs in the world has been predetermined from the beginning... Its occurrence is by no means accidental, but in fact inevitable.」%K%P
 0x784
 歴史は、変えられやしないのか！？%K%P
 So history could never be changed!?%K%P
 0x790
 その巨大な流れを前に、為す術は無いのか！？%K%P
-There's no way to change the direction of that giant%Ncurrent!?%K%P
+There's no way to change the direction of that giant current!?%K%P
 0x79C
 呑み込まれ、翻弄され、最終的に辿り着く場所は同じ……。%K%P
-It swallowed us up, toyed with us, and finally made us%Narrive in the same place as last time...%K%P
+It swallowed us up, toyed with us, and finally made us arrive in the same place as last time...%K%P
 0x7A8
 （どうして……こんなことに……）%K%P
 (Why... did something this...)%K%P
@@ -246,7 +246,7 @@ It swallowed us up, toyed with us, and finally made us%Narrive in the same place
 My fists tremble with anger.%K%P
 0x7F8
 神社の長い階段の前で、ようやくオレは優夏に追い着いた。%K%P
-I finally catch up with Yuka in front of the long staircase%Nto the shrine.%K%P
+I finally catch up with Yuka in front of the long staircase to the shrine.%K%P
 0x814
 誠「待てよ、優夏！」%K%P
 Makoto「Wait, Yuka!」%K%P
@@ -309,7 +309,7 @@ Precious... person...%K%P
 Yuka「I don't want to lose you...」%K%P
 0x98C
 優夏「私のこと……命を懸けてまで……助けようとしてくれた…………誠を……」%K%P
-Yuka「You went as far... as risking your own life... trying to%Nsave... mine...」%K%P
+Yuka「You went as far... as risking your own life... trying to save... mine...」%K%P
 0x998
 違うよ……。%K%P
 You're wrong...%K%P
@@ -339,13 +339,13 @@ Yuka「Please... Please...」%K%P
 I don't answer.%K%P
 0xA04
 何も語らぬまま、優夏の肩を押し退けて、階段の前へと歩み寄る。%K%P
-Without a word, I brush past Yuka's shoulder, and walk up%Nto the front of the staircase.%K%P
+Without a word, I brush past Yuka's shoulder, and walk up to the front of the staircase.%K%P
 0xA10
 殴りつけるような雨の中……。%K%P
 The rain beats on me...%K%P
 0xA1C
 雨音は、世界中を包み込んで重々しく響きわたっていた。%K%P
-The sound of the heavy rainfall drowns out all other%Nnoise.%K%P
+The sound of the heavy rainfall drowns out all other noise.%K%P
 0xA88
 ──イスを蹴飛ばして表に飛び出した！%K%P
 ―I kick off the chair and rush outside!%K%P
@@ -381,7 +381,7 @@ What if Kurumi's in the shrine at that time...!?%K%P
 My time limit... is already less than 30 minutes...%K%P
 0xBEC
 ぬかるんだ地面に足元をすくわれながらも、懸命に、全力を振り絞って走り続けた。%K%P
-Although the the muddy ground trips me up, I muster all of%Nmy strength and keep running.%K%P
+Although the the muddy ground trips me up, I muster all of my strength and keep running.%K%P
 0xBF8
 優夏「誠！　誠！」%K%P
 Yuka「MAKOTO! MAKOTO!」%K%P
@@ -402,7 +402,7 @@ If I go over there right now, nothing will change.%K%P
 Kurumi―she didn't go missing on the 4th.%K%P
 0xC6C
 『歴史が変わった』……オレと優夏はそう思って喜び浮かれていた。%K%P
-「History changed」... Yuka and I were overjoyed with that%Nthought.%K%P
+「History changed」... Yuka and I were overjoyed with that thought.%K%P
 0xC78
 だが……。%K%N
 But...%K%N
@@ -417,16 +417,16 @@ Kurumi still disappeared. All that's changed is the date.%K%P
 「Laplace's demon」 is smiling.%K%P
 0xCA8
 『全ての出来事は初めから何もかも決まっている……偶然ではなく必然的に起こるものなのだ』%K%P
-「Everything which occurs in the world has been%Npredetermined from the beginning... Its occurrence is by%Nno means accidental, but in fact inevitable.」%K%P
+「Everything which occurs in the world has been predetermined from the beginning... Its occurrence is by no means accidental, but in fact inevitable.」%K%P
 0xCB4
 歴史は、変えられやしないのか！？%K%P
 So history could never be changed!?%K%P
 0xCC0
 その巨大な流れを前に、為す術は無いのか！？%K%P
-There's no way to change the direction of that giant%Ncurrent!?%K%P
+There's no way to change the direction of that giant current!?%K%P
 0xCCC
 呑み込まれ、翻弄され、最終的に辿り着く場所は同じ……。%K%P
-It swallowed us up, toyed with us, and finally made us%Narrive in the same place as last time...%K%P
+It swallowed us up, toyed with us, and finally made us arrive in the same place as last time...%K%P
 0xCD8
 だとしても……。%K%N
 Even if that's so...%K%N
@@ -438,7 +438,7 @@ Even if that's so...%K%P
 I must go there!!%K%P
 0xCFC
 かつて命を懸けて、人々を救った少年がいた……。%K%P
-If that boy that I supposedly resemble could risk his life%Nto save Yuka...%K%P
+If that boy that I supposedly resemble could risk his life to save Yuka...%K%P
 0xD08
 その少年に、オレは似ていると言う……。%K%P
 Then so can I!%K%P
@@ -450,7 +450,7 @@ Then so can I!%K%P
 I arrive at the long staircase that leads to the shrine.%K%P
 0xD64
 息もつかずに、階段へと駆け寄って行く。%K%P
-Without stopping to take a breath, I begin to rush%Ntowards the staircase.%K%P
+Without stopping to take a breath, I begin to rush towards the staircase.%K%P
 0xD70
 すると……%K%P
 Just then...%K%P
@@ -462,7 +462,7 @@ Just then...%K%P
 ... Someone suddenly grabs my arm from behind.%K%P
 0xE00
 振り向く間もなく、階段の前に立ちはだかったのは……。%K%P
-Without giving me time to turn around, that person blocks%Nmy way to the staircase. It's...%K%P
+Without giving me time to turn around, that person blocks my way to the staircase. It's...%K%P
 0xE40
 誠「優夏……」%K%P
 Makoto「Yuka...」%K%P
@@ -489,7 +489,7 @@ Yuka「No! I absolutely can't let you... absolutely not...」%K%P
 Makoto「Get out of the way, Yuka... There's no time...」%K%P
 0xEA0
 優夏「あそこに行ったら、また同じことになるんだよ……？」%K%P
-Yuka「If you go in there, things will turn out the same way%Nagain...!」%K%P
+Yuka「If you go in there, things will turn out the same way again...!」%K%P
 0xEAC
 優夏「何もかも変わらない……」%K%P
 Yuka「Nothing will change...」%K%P
@@ -534,7 +534,7 @@ The smashed pieces of metal shine in a puddle...%K%P
 They're like stardust...%K%P
 0xFA8
 無限ループの鎖は、今この瞬間、引き千切られたのだ。%K%P
-In this very instant, I can tear off the chains of the%Ninfinite loop.%K%P
+In this very instant, I can tear off the chains of the infinite loop.%K%P
 0xFB4
 誠「……これで終わりだ」%K%P
 Makoto「... This is the end.」%K%P
@@ -573,7 +573,7 @@ A precious... person...%K%P
 Yuka「I don't want to lose you...」%K%P
 0x1068
 優夏「私のこと……命を懸けてまで……助けようとしてくれた…………誠を……」%K%P
-Yuka「You went as far... as risking your own life... trying to%Nsave... mine...」%K%P
+Yuka「You went as far... as risking your own life... trying to save... mine...」%K%P
 0x1074
 違うよ……。%K%P
 You're wrong...%K%P
@@ -603,7 +603,7 @@ Yuka「Please... Please...」%K%P
 I don't answer.%K%P
 0x10E0
 何も語らぬまま、優夏の肩を押し退けて……%K%P
-Without a word, I brush past Yuka's shoulder, and walk up%Nto the staircase...%K%P
+Without a word, I brush past Yuka's shoulder, and walk up to the staircase...%K%P
 0x10EC
 ……そして１歩、前に踏み出したその時だった。%K%P
 ... And then, just before I can take a single step...%K%P
@@ -615,7 +615,7 @@ Yuka「I love you...」%K%P
 Yuka「I've loved you... all this time...」%K%P
 0x112C
 優夏「確かにあの男の子のことが忘れられなくて、私はこの神社へ行った。だけど……」%K%P
-Yuka「It's true that I went to this shrine because I couldn't%Nforget that boy. But...」%K%P
+Yuka「It's true that I went to this shrine because I couldn't forget that boy. But...」%K%P
 0x1138
 優夏「だけど、違うんだって気づいたの……。その想いとは、違うんだって……」%K%P
 Yuka「But I realized it was wrong... That feeling was wrong...」%K%P
@@ -624,7 +624,7 @@ Yuka「But I realized it was wrong... That feeling was wrong...」%K%P
 Yuka「Makoto, I love you...」%K%P
 0x1150
 優夏「最初から、すべてが始まったあの瞬間から、誠のことが大好きだったんだよぉ！！」%K%P
-Yuka「From the beginning, from that moment where everything%Nbegan, I've loved you!!」%K%P
+Yuka「From the beginning, from that moment where everything began, I've loved you!!」%K%P
 0x1178
 殴りつけるような雨……。%K%P
 The rain beats against me...%K%P
@@ -642,7 +642,7 @@ Just hearing those words alone is enough.%K%P
 They're enough...%K%P
 0x11B4
 オレはかつての少年のように、キザなセリフは言えないけれど……。%K%P
-But unlike that boy, I'm not going to say a pretentious%Nline...%K%P
+But unlike that boy, I'm not going to say a pretentious line...%K%P
 0x11DC
 誠「ああ……わかってるよ……」%K%P
 Makoto「Yeah... I get it...」%K%P
@@ -672,7 +672,7 @@ Precious... person...%K%P
 Yuka「I don't want to lose you...」%K%P
 0x1248
 優夏「私のこと……命を懸けてまで……助けようとしてくれた…………誠を……」%K%P
-Yuka「You went as far... as risking your own life... trying to%Nsave... mine...」%K%P
+Yuka「You went as far... as risking your own life... trying to save... mine...」%K%P
 0x1254
 違うよ……。%K%P
 You're wrong...%K%P
@@ -702,13 +702,13 @@ Yuka「Please... Please...」%K%P
 I don't answer.%K%P
 0x12C0
 何も語らぬまま、優夏の肩を押し退けて、階段の前へと歩み寄る。%K%P
-Without a word, I brush past Yuka's shoulder, and walk up%Nto the front of the staircase.%K%P
+Without a word, I brush past Yuka's shoulder, and walk up to the front of the staircase.%K%P
 0x12CC
 殴りつけるような雨の中……。%K%P
 The rain beats on me...%K%P
 0x12D8
 雨音は、世界中を包み込んで重々しく響きわたっていた。%K%P
-The sound of the heavy rainfall drowns out all other%Nnoise.%K%P
+The sound of the heavy rainfall drowns out all other noise.%K%P
 0x1354
 止めた足を再び振り上げた。%K%P
 I move my still legs again.%K%P
@@ -720,10 +720,10 @@ Yuka「MAKOTO!!」%K%P
 I begin to run up the staircase at full speed...%K%P
 0x1378
 濡れた石段に足を滑らせ、ヒザをぶつけたって痛みなんかなかった。%K%P
-I slip on the wet stone steps, falling on my knees, but%Nthere's no pain at all.%K%P
+I slip on the wet stone steps, falling on my knees, but there's no pain at all.%K%P
 0x13B0
 階段を登り切ったオレは、風のように境内を駆け抜ける。%K%P
-I reach the top of the stairs and and run like the wind%Npast the shrine's grounds.%K%P
+I reach the top of the stairs and and run like the wind past the shrine's grounds.%K%P
 0x13DC
 優夏「待って！」%K%P
 Yuka「WAIT!」%K%P
@@ -741,19 +741,19 @@ Makoto「Stay away!」%K%P
 Makoto「Stay here...」%K%P
 0x1418
 しかし、優夏はオレの言葉も聞かず、オレを追い越して神社の中へと飛び込んでしまった。%K%P
-But Yuka ignores me and runs past me, plunging into the%Nshrine.%K%P
+But Yuka ignores me and runs past me, plunging into the shrine.%K%P
 0x1424
 誠「優夏！」%K%P
 Makoto「Yuka!」%K%P
 0x147C
 まわりを見回すが、くるみの姿は見当たらない。%K%P
-I survey my surroundings, but I don't see Kurumi%Nanywhere.%K%P
+I survey my surroundings, but I don't see Kurumi anywhere.%K%P
 0x1488
 ──優夏は！？%K%P
 ―Where's Yuka!?%K%P
 0x1494
 優夏は今、正面の壁の小さな穴をくぐり抜けようとしている。%K%P
-Right now, Yuka's trying to go through the small hole in%Nthe front wall.%K%P
+Right now, Yuka's trying to go through the small hole in the front wall.%K%P
 0x14A0
 誠「おいっ！　優夏！」%K%P
 Makoto「Hey! Yuka!」%K%P
@@ -768,7 +768,7 @@ In the end, we've arrived here again.%K%P
 Kurumi isn't here either.%K%P
 0x1504
 優夏だけが、何かを訴えるような目でオレの方を見ていた。%K%P
-Only Yuka looks towards me, with eyes that seem to be%Nasking me something.%K%P
+Only Yuka looks towards me, with eyes that seem to be asking me something.%K%P
 0x1560
 ──バキッ！%K%P
 ―CRASH!%K%P
@@ -780,10 +780,10 @@ Only Yuka looks towards me, with eyes that seem to be%Nasking me something.%K%P
 The slanting shrine's wall... slowly draws near us.%K%P
 0x1584
 優夏の肩越しには、細かい木屑を巻き上げながら、太い柱が弓なりにしなっている。%K%P
-Over the panicked Yuka's shoulder, I see segments of%Nthe thick pillars breaking up into small wood chips as%Nthey blow up in the air.%K%P
+Over the panicked Yuka's shoulder, I see segments of the thick pillars breaking up into small wood chips as they blow up in the air.%K%P
 0x15AC
 次の瞬間、ごう音を響かせて崩れ落ちる神社……。%K%P
-In the next instant, I hear the sound of the shrine%Ncrumbling...%K%P
+In the next instant, I hear the sound of the shrine crumbling...%K%P
 0x15D4
 ──どうする！？%K%P
 ―What should I do!?%K%P
@@ -795,7 +795,7 @@ My mind hesitates for a moment as I think this...%K%P
 I'm hesitating again.%K%P
 0x15F8
 自分の身の安全を、今この瞬間に考えた。%K%P
-In this very instant, I'm thinking about my own body's%Nsafety.%K%P
+In this very instant, I'm thinking about my own body's safety.%K%P
 0x1604
 もう遅い……。%K%P
 It's too late...%K%P
@@ -834,7 +834,7 @@ Blood...%K%P
 I threw so much blood that I could drown in it...%K%P
 0x1710
 血はとどまることなく、がぶがぶがぶがぶと溢れ流れた。%K%P
-The blood won't stop, as it overflows in my mouth and%Nguzzles down my throat.%K%P
+The blood won't stop, as it overflows in my mouth and guzzles down my throat.%K%P
 0x171C
 どうも、それは口以外の部分からも流れているらしかった。%K%P
 It seems I'm bleeding from other parts besides my mouth.%K%P
@@ -846,13 +846,13 @@ My neck?%K%P
 Did I cut an artery in my neck?%K%P
 0x1740
 血は、開け放たれた蛇口の水のように、容赦なく流れていく。%K%P
-The blood begins to flow out of me relentlessly, like a%Nfaucet that's been left on full blast.%K%P
+The blood begins to flow out of me relentlessly, like a faucet that's been left on full blast.%K%P
 0x174C
 徐々に薄れていく意識……。%K%P
 My consciousness slowly begins to fade...%K%P
 0x1758
 目を細め、ぼんやりとかすんだ視界に焦点を合わせた。%K%P
-I close my eyes partly, and focus my faint, dim field of%Nvision.%K%P
+I close my eyes partly, and focus my faint, dim field of vision.%K%P
 0x1764
 目の前に……%K%P
 Right in front of me...%K%P
@@ -870,7 +870,7 @@ On top of it is a small fragment of light...%K%P
 ―The bell.%K%P
 0x17A8
 オレは最期の力を振り絞り、虫のように這って、優夏の傍らへとすり寄った。%K%P
-I muster the last of my strength to crawl like an insect%Nover to Yuka's side.%K%P
+I muster the last of my strength to crawl like an insect over to Yuka's side.%K%P
 0x17B4
 腕の中に、ぬるぬると血に濡れた肌の感触……。%K%P
 In my arms, I feel Yuka's skin is wet with slippery blood...%K%P
@@ -924,7 +924,7 @@ In Yuka's palm is her bell.%K%P
 ... into the sea...%K%P
 0x19C4
 と同時に、ごう音を響かせて崩れ落ちる神社……。%K%P
-At the same time, I hear the sound of the shrine%Ncrumbling...%K%P
+At the same time, I hear the sound of the shrine crumbling...%K%P
 0x19D0
 『優夏を必ず守ってみせる！』%K%P
 「I will definitely protect Yuka!」%K%P
@@ -933,7 +933,7 @@ At the same time, I hear the sound of the shrine%Ncrumbling...%K%P
 ―I don't hesitate for an instant!!%K%P
 0x19E8
 オレは渾身の力を込めて大地を蹴り上げ、優夏に飛びかかった！%K%P
-With all of my strength, I kick off the ground and leap%Ntowards her!%K%P
+With all of my strength, I kick off the ground and leap towards her!%K%P
 0x19F4
 そのまま地面に押し倒すつもりが……%K%P
 Like that, I push down on the ground and jump...%K%P
@@ -942,10 +942,10 @@ Like that, I push down on the ground and jump...%K%P
 ... With that force, we flutter around up in midair.%K%P
 0x1A0C
 『時を止めたいなら、時間を壊せばいい』%K%N
-「If you want to stop time, then it's all right to destroy%Ntime.」%K%N
+「If you want to stop time, then it's all right to destroy time.」%K%N
 0x1A18
 『時から逃れたいなら、羽ばたけばいい』%K%P
-「If you want to escape from time, it's all right to flap your%Nwings.」%K%P
+「If you want to escape from time, it's all right to flap your wings.」%K%P
 0x1A24
 『縛られたままじゃ、自由にはなれない』%K%N
 「If you stay tied down, you can't be free.」%K%N
@@ -954,7 +954,7 @@ Like that, I push down on the ground and jump...%K%P
 「If you want to be free, then you mustn't be afraid.」%K%P
 0x1A3C
 オレと優夏は抱き合ったまま、漆黒の海原に向かって落ちて行った……。%K%P
-Yuka and I embrace each other as we fall down towards%Nthe black sea...%K%P
+Yuka and I embrace each other as we fall down towards the black sea...%K%P
 0x1A84
 優夏の放った鈴の音を、耳元でかすかに聞きながら……。%K%P
-As I hear the faint sound of the bell Yuka threw away%Nclose to my ears...%K%P
+As I hear the faint sound of the bell Yuka threw away close to my ears...%K%P

@@ -3,7 +3,7 @@ text area offset and size:
 0x20D4
 0x78
 食後……オレ達は月浜に下りて、車座になっていた。%K%P
-After dinner... we all go down to Moon Beach, and sit%Ndown in a circle.%K%P
+After dinner... we all go down to Moon Beach, and sit down in a circle.%K%P
 0x84
 特にこれと言った理由など無い。%K%P
 We don't really have a reason for doing so.%K%P
@@ -15,22 +15,22 @@ It's just that the moon is so blue tonight...%K%P
 Yuka「Hey, Izumi-san? What's on the tip of that cape?」%K%P
 0xB0
 優夏が南東の方角を指差しながら、そう尋ねた。%K%P
-Yuka points towards the southeast to illustrate her%Nquestion.%K%P
+Yuka points towards the southeast to illustrate her question.%K%P
 0xBC
 指の先を目で追うと、そこには海にせり出した断崖があり、そのちょうど鼻先の部分で、まぶしいぐらいの白い光の束が回転していた。%K%P
-Following her finger, I see a cliff protruding out into the%Nocean, where a white light is revolving above the tip.%K%P
+Following her finger, I see a cliff protruding out into the ocean, where a white light is revolving above the tip.%K%P
 0xD8
 いづみ「ああ、あれ？　あれは……」%K%P
 Izumi「Oh, that? That's...」%K%P
 0xF4
 億彦「はははっ、あんなの、誰がどう見たって灯台に%N決まってるじゃないか？　ねえ、いづみさん？」%K%P
-Okuhiko「Hahaha! Anyone can tell that it's obviously a lighthouse.%NRight, Izumi-san?」%K%P
+Okuhiko「Hahaha! Anyone can tell that it's obviously a lighthouse. Right, Izumi-san?」%K%P
 0x100
 いづみ「決まってるかどうかは分からないけど……うん、そう。確かにあれは、灯台よ？」%K%P
-Izumi「I wouldn't say whether it's obvious or not... but you're%Nright. That's a lighthouse.」%K%P
+Izumi「I wouldn't say whether it's obvious or not... but you're right. That's a lighthouse.」%K%P
 0x11C
 いづみ「灯台の下には展望公園があって、あそこから見える景色と言ったら、そりゃあもう最高なの！」%K%P
-Izumi「Under the lighthouse is Viewpoint Park. It's said that the%Nscenery from there is the greatest!」%K%P
+Izumi「Under the lighthouse is Viewpoint Park. It's said that the scenery from there is the greatest!」%K%P
 0x138
 あっ、そっか……。あれが展望公園だったんだ……。%K%P
 Oh, I see... So that's Viewpoint Park...%K%P
@@ -39,13 +39,13 @@ Oh, I see... So that's Viewpoint Park...%K%P
 If you look from Moon Beach, you can see the park.%K%P
 0x150
 今日の昼間、あの岬の突端で、淋しげに海の彼方を見つめていたくるみの横顔が、いつの間にかぼんやりとオレの脳裏に浮かんでいた。%K%P
-Suddenly, the image of Kurumi from this morning, staring%Nat the sea from the tip of the cape with a lonely%Nexpression, vaguely floats into my mind.%K%P
+Suddenly, the image of Kurumi from this morning, staring at the sea from the tip of the cape with a lonely expression, vaguely floats into my mind.%K%P
 0x164
 誠「ふーん……」%K%P
 Makoto「Hmm...」%K%P
 0x170
 いづみ「『恋の岬で想いを告げて、愛の入り江で想いを遂げる』」%K%P
-Izumi「'Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love.'」%K%P
+Izumi「'Express your feelings on the Cape of Affection, and carry out those feelings at the Cove of Love.'」%K%P
 0x184
 優夏「え？　……何ですか、それ？」%K%P
 Yuka「Huh...? What's that?」%K%P
@@ -54,19 +54,19 @@ Yuka「Huh...? What's that?」%K%P
 Izumi「It's an old tradition on this island.」%K%P
 0x19C
 いづみ「あの灯台の下で、好きな異性に告白すると、恋が実るって言われてるの」%K%P
-Izumi「If a man and woman confess their feelings for each%Nother under that lighthouse, it's said that their affection%Nwill bear fruit.」%K%P
+Izumi「If a man and woman confess their feelings for each other under that lighthouse, it's said that their affection will bear fruit.」%K%P
 0x1A8
 優夏「へぇ〜」%K%P
 Yuka「Oh〜」%K%P
 0x1B4
 いづみ「で、そこで恋を成就させた２人は、近くの入り江……つまり姫ヶ浜に行って、今度は愛を実らせるってわけ」%K%P
-Izumi「And then, in order to complete their love, they go to the%Nnearby cove... In other words, it's at Princess Beach%Nwhere their love will bear fruit.」%K%P
+Izumi「And then, in order to complete their love, they go to the nearby cove... In other words, it's at Princess Beach where their love will bear fruit.」%K%P
 0x1D0
 遙「愛を……実らせる？」%K%P
 Haruka「Their love... will bear fruit?」%K%P
 0x1DC
 いづみ「そう。もともと『姫ヶ浜』の名前の由来は『秘め事をする浜』っていうところにあるみたいで……」%K%P
-Izumi「Right. Originally, Princess Beach―'Himegahama', got its%Nname from 'Himegoto wo suru hama―The Beach of%NSecrets'...」%K%P
+Izumi「Right. Originally, Princess Beach―'Himegahama', got its name from 'Himegoto wo suru hama―The Beach of Secrets'...」%K%P
 0x1E8
 遙「秘め事？」%K%P
 Haruka「Secrets?」%K%P
@@ -87,25 +87,25 @@ Haruka「...?」%K%P
 Haruka tilts her head questioningly.%K%P
 0x250
 億彦「だけど、いづみさん？　僕が地図を見た限りでは、確かこの近くにもうひとつ岬があったと%N思うんだけど？」%K%P
-Okuhiko「But Izumi-san? From what I've seen of the map, I thought I%Nsaw another cape that's near here.」%K%P
+Okuhiko「But Izumi-san? From what I've seen of the map, I thought I saw another cape that's near here.」%K%P
 0x264
 いづみ「えっ？　……あ、ああ……あの展望公園より、もっと西にある、岬のこと、かな？」%K%P
-Izumi「Huh...? Y-Yes... Are you talking about that cape that's a%Nbit to the west from Viewpoint Park?」%K%P
+Izumi「Huh...? Y-Yes... Are you talking about that cape that's a bit to the west from Viewpoint Park?」%K%P
 0x270
 億彦「そうそう、その岬のこと！」%K%P
 Okuhiko「Right, that's it!」%K%P
 0x27C
 億彦「でね？　僕は何とな〜く思ったんだけれど、『恋の岬で……』っていうのは、あるいはもしかすると、そっちの岬のことを指してるんじゃないのかなぁ？」%K%P
-Okuhiko「And you know what? I was thinking that if there's a 'Cape%Nof Affection', then perhaps there's something special%Nabout that one as well.」%K%P
+Okuhiko「And you know what? I was thinking that if there's a 'Cape of Affection', then perhaps there's something special about that one as well.」%K%P
 0x288
 誠「ん？　なんでそんなことを？」%K%P
 Makoto「Huh? Why do you think that?」%K%P
 0x294
 億彦「いやね？　地図にはさ、その岬の先端に鳥居のマークが書かれているんだよ」%K%P
-Okuhiko「You don't know? On the map is a marker of a shrine's%Narchway on the tip of that cove.」%K%P
+Okuhiko「You don't know? On the map is a marker of a shrine's archway on the tip of that cove.」%K%P
 0x2A0
 億彦「つまりさ、そこには神社があるってこと！%Nそうでしょ、いづみさん？」%K%P
-Okuhiko「In other words, there's a shrine there! Isn't that right,%NIzumi-san?」%K%P
+Okuhiko「In other words, there's a shrine there! Isn't that right, Izumi-san?」%K%P
 0x2B4
 いづみ「う、うん……」%K%P
 Izumi「Y-Yes...」%K%P
@@ -114,7 +114,7 @@ Izumi「Y-Yes...」%K%P
 Is it just me, or does Izumi-san sound very uneasy...?%K%P
 0x2CC
 億彦「僕はむしろ、灯台の下よりも、神社の前で告白したほうが、よっぽど御利益があるように%N思えるけどなぁ」%K%P
-Okuhiko「I was thinking that if you confessed in front of the shrine%Ninstead of under the lighthouse, it'd be as though you%Nwere receiving great, divine blessings.」%K%P
+Okuhiko「I was thinking that if you confessed in front of the shrine instead of under the lighthouse, it'd be as though you were receiving great, divine blessings.」%K%P
 0x2D8
 誠「う〜ん、なるほどねぇ……」%K%P
 Makoto「Ah, I see...」%K%P
@@ -144,28 +144,28 @@ Izumi「Something like that is absolutely impossible.」%K%P
 Izumi「Because, you see...」%K%P
 0x370
 いづみ「あの神社はね？　地元の人でも決して寄り付くことのない、イワク付きの場所なんだから……」%K%P
-Izumi「The truth is, it's a place with a dark history that not even%Nthe locals will approach...」%K%P
+Izumi「The truth is, it's a place with a dark history that not even the locals will approach...」%K%P
 0x37C
 そうしていづみさんは、蒼白く輝く月あかりの%Nように、ゆっくりと静かに語り始めたのだった……。%K%P
-And then, Izumi-san, lit by the pale moonlight, begins%Ntelling a story in a slow, quiet voice...%K%P
+And then, Izumi-san, lit by the pale moonlight, begins telling a story in a slow, quiet voice...%K%P
 0x3D0
 いづみ「あそこ……正式な名前を『司紀の杜神社』って言うんだけど、一説によると、昔は『死ぬ鬼の杜』と書いて『死鬼の杜』と呼んでいたっていう噂もあるの」%K%P
-Izumi「That shrine... its official name is the 'Shiki no Mori Shrine'%N(司紀の杜神社), but they say long ago, it was known as the%N'Grove of Demons', written as 'Shiki no Mori' (死鬼の杜).」%K%P
+Izumi「That shrine... its official name is the 'Shiki no Mori Shrine' (司紀の杜神社), but they say long ago, it was known as the 'Grove of Demons', written as 'Shiki no Mori' (死鬼の杜).」%K%P
 0x3DC
 いづみ「つまりあの神社は、その『死鬼の神』を崇め奉る為に建てられたのだ、と……そういうことみたい」%K%P
-Izumi「In other words, that shrine was built to worship the 'God%Nof Demons'... or so they say.」%K%P
+Izumi「In other words, that shrine was built to worship the 'God of Demons'... or so they say.」%K%P
 0x3E8
 いづみさんが砂浜に『司紀杜』『死鬼杜』と、指先で書きながら説明を続ける。%K%P
-Izumi-san continues to explain while writing the two%Ndifferent ways of writing 'Shiki no Mori' in the sand%N((司紀杜) and (死鬼杜)).%K%P
+Izumi-san continues to explain while writing the two different ways of writing 'Shiki no Mori' in the sand ((司紀杜) and (死鬼杜)).%K%P
 0x3F4
 いづみ「『死鬼の神』というのは、文字どおり『死をつかさどる鬼神』の意味で、人々を呪い殺したり祟ったりする凶暴な邪神のこと」%K%P
-Izumi「This means the 'God of Demons' was literally 'The Fierce%NGod Who Rules Over Death'. He was a brutal, evil god that%Nwould curse and kill people.」%K%P
+Izumi「This means the 'God of Demons' was literally 'The Fierce God Who Rules Over Death'. He was a brutal, evil god that would curse and kill people.」%K%P
 0x400
 いづみ「彼らの話によると……」%K%P
 Izumi「According to this story...」%K%P
 0x40C
 いづみ「昔の人達は、奇病が流行ったり天災に見舞われるのは『死鬼の神の怒りに触れたからだ』と固く信じていたようで、その怒りを鎮める為に生けにえまで捧げた……」%K%P
-Izumi「Back then, people thought that epidemics and disasters%Nwere caused by the anger of the demon god, so they%Nwould offer living sacrifices in order to appease him...」%K%P
+Izumi「Back then, people thought that epidemics and disasters were caused by the anger of the demon god, so they would offer living sacrifices in order to appease him...」%K%P
 0x418
 いづみ「……という昔話も残されているんだって」%K%P
 Izumi「... Or so the legend says.」%K%P
@@ -174,10 +174,10 @@ Izumi「... Or so the legend says.」%K%P
 Makoto「Hmm...」%K%P
 0x430
 いづみ「でもまあ、所詮昔話は昔話……桃太郎は桃太郎……でしょ？」%K%P
-Izumi「But you know, a legend is a legend, after all... just like The%NHeadless Horseman is The Headless Horseman... right?」%K%P
+Izumi「But you know, a legend is a legend, after all... just like The Headless Horseman is The Headless Horseman... right?」%K%P
 0x43C
 いづみ「だから私も、そんなものはただの作り話だろう、伝説の類だろう、なんて……最初はそう思ってた……」%K%P
-Izumi「Of course, I also dismissed it as just a myth or folklore...%NUsed to, anyway...」%K%P
+Izumi「Of course, I also dismissed it as just a myth or folklore... Used to, anyway...」%K%P
 0x448
 いづみ「だけど、ね……？」%K%P
 Izumi「But then...」%K%P
@@ -186,19 +186,19 @@ Izumi「But then...」%K%P
 Kurumi「What〜, so you this is where you all were〜」%K%P
 0x484
 突然の声に振り向くと、そこには白煙を巻き上げながら砂浜を駆けて来るひとりの少女の姿があった。%K%P
-We all turn to find a girl running towards us, kicking up%Nwhite clouds of sand as she moves across the beach.%K%P
+We all turn to find a girl running towards us, kicking up white clouds of sand as she moves across the beach.%K%P
 0x4C0
 いづみ「くるみ……」%K%P
 Izumi「Kurumi...」%K%P
 0x4CC
 くるみ「はぁはぁ……沙紀さんがね？『もう帰っても大丈夫だから』って、そう言うから……ふぅーっ」%K%P
-Kurumi「Haah, haah... Saki-san said 'I'll be fine, so go home%Nalready', so Kurumi came back ... Whew.」%K%P
+Kurumi「Haah, haah... Saki-san said 'I'll be fine, so go home already', so Kurumi came back ... Whew.」%K%P
 0x4D8
 言い終えたくるみは『ふぅーっ』と大きく息を吐いて呼吸を整える。%K%P
 She lets out a giant sigh and catches her breath.%K%P
 0x4EC
 くるみ「ねぇ？　それより何の話してたの？　こんなとこで、みんなで円くなっちゃったりしてぇ……」%K%P
-Kurumi「Hey, what were you talking about just now? Why are you%Nall sitting in a circle down here...?」%K%P
+Kurumi「Hey, what were you talking about just now? Why are you all sitting in a circle down here...?」%K%P
 0x4F8
 くるみ「もしかしてぇ、ＵＦＯを呼ぶ儀式かなんか、かな？」%K%P
 Kurumi「Could it be that you're performing a UFO summoning ritual?」%K%P
@@ -207,10 +207,10 @@ Kurumi「Could it be that you're performing a UFO summoning ritual?」%K%P
 Yuka「Mmm, not quite!! It's not UFOs, but it's a ghost story!」%K%P
 0x520
 誠「幽霊じゃなくて、鬼の話だ！　ちゃんと話聞いてんのか、優夏？」%K%P
-Makoto「It's not a ghost story, it's a demon story! Weren't you%Nlistening at all?」%K%P
+Makoto「It's not a ghost story, it's a demon story! Weren't you listening at all?」%K%P
 0x52C
 優夏「聞いてるよぉ……。幽霊も鬼も、そう大して変わりないじゃない」%K%P
-Yuka「I was listening... Ghosts, demons, what's the difference%Nanyway?」%K%P
+Yuka「I was listening... Ghosts, demons, what's the difference anyway?」%K%P
 0x538
 全然別物だとオレは思うが……。%K%P
 They're completely different in my opinion...%K%P
@@ -222,13 +222,13 @@ Kurumi「And? What about those demons?」%K%P
 Yuka「Those demons live in a nearby temple!」%K%P
 0x55C
 誠「寺じゃなくて、神社だろ！？%Nそれに棲んでるなんて、誰も言ってない」%K%P
-Makoto「It's not a temple, it's a shrine! And who ever said they%Nlived here, anyway?」%K%P
+Makoto「It's not a temple, it's a shrine! And who ever said they lived here, anyway?」%K%P
 0x570
 くるみ「へぇー……神社かぁ……」%K%P
 Kurumi「Wow... A shrine, huh...?」%K%P
 0x57C
 優夏「それでぇ、今いづみさんから、その神社にまつわる噂話を聞いてたところなの」%K%P
-Yuka「Izumi-san was telling us a rumor about that shrine just%Nnow.」%K%P
+Yuka「Izumi-san was telling us a rumor about that shrine just now.」%K%P
 0x588
 くるみ「ふーん……」%K%P
 Kurumi「Hmm...」%K%P
@@ -243,7 +243,7 @@ Kurumi「Nope. First time Kurumi's ever heard of it!」%K%P
 Yuka「Well then, isn't that exciting?」%K%P
 0x5C8
 くるみは、どうやらこの手の話が大好きなようで、瞳をらんらんと輝かせながら砂浜に腰を下ろした。%K%P
-It seems Kurumi loves these kinds of stories, as her%Neyes light up as she sits down on the sandy beach.%K%P
+It seems Kurumi loves these kinds of stories, as her eyes light up as she sits down on the sandy beach.%K%P
 0x5D4
 優夏「さっ、いづみさん、続きをどうぞ？」%K%P
 Yuka「Well then, Izumi-san, will you continue?」%K%P
@@ -258,13 +258,13 @@ Izumi「...」%K%P
 However, for some reason, Izumi-san's doesn't speak.%K%P
 0x66C
 静かにうつむいたまま、砂浜の一点だけをじっと見つめている。%K%P
-She hangs her head down quietly, just staring firmly at%Nsome spot on the beach.%K%P
+She hangs her head down quietly, just staring firmly at some spot on the beach.%K%P
 0x678
 優夏「いづみ…さん？」%K%P
 Yuka「Izumi... san?」%K%P
 0x684
 優夏の穏やかな声を聞き、いづみさんはようやく我にかえったようにゆっくりと顔を上げた。%K%P
-Upon hearing Yuka's coaxing voice, Izumi-san finally%Nbreaks out of her stupor and slowly raises her head.%K%P
+Upon hearing Yuka's coaxing voice, Izumi-san finally breaks out of her stupor and slowly raises her head.%K%P
 0x690
 いづみ「えーっと……」%K%P
 Izumi「Umm...」%K%P
@@ -273,19 +273,19 @@ Izumi「Umm...」%K%P
 Izumi「Where was I?」%K%P
 0x6A8
 優夏「『いづみさんも、最初は作り話だろうと思ってた……』って、そこまで」%K%P
-Yuka「You were up to the part where you initially thought it was%Nnothing more than a myth.」%K%P
+Yuka「You were up to the part where you initially thought it was nothing more than a myth.」%K%P
 0x6B4
 いづみ「そっか……。うん、そう。私も、最初に話を聞いた時には疑ってたの。だけどね……」%K%P
-Izumi「I see... Yes, that's right. When I first heard that story, I%Nwas also doubtful. But then...」%K%P
+Izumi「I see... Yes, that's right. When I first heard that story, I was also doubtful. But then...」%K%P
 0x6DC
 いづみ「だけど、それから地元の漁師さんとか農家のお婆ちゃんとか、いろいろな人から話を聞くうちに」%K%P
-Izumi「But then, I heard more from the local fisherman, the old%Nfarmer lady, and several other people.」%K%P
+Izumi「But then, I heard more from the local fisherman, the old farmer lady, and several other people.」%K%P
 0x6E8
 いづみ「ただの作り話じゃ済まされないないような事件が、現実に、あの神社で発生してることが分かってきて……」%K%P
-Izumi「I couldn't dismiss it as a simple myth anymore when I%Nlearned that in reality, several incidents had occurred%Nat that shrine...」%K%P
+Izumi「I couldn't dismiss it as a simple myth anymore when I learned that in reality, several incidents had occurred at that shrine...」%K%P
 0x6F4
 いづみ「みんなは『神隠し』って知ってるかなぁ？」%K%P
-Izumi「Everyone, do you know what it means to be 'spirited%Naway'?」%K%P
+Izumi「Everyone, do you know what it means to be 'spirited away'?」%K%P
 0x700
 優夏「かみかくし？」%K%P
 Yuka「Spirited away?」%K%P
@@ -294,13 +294,13 @@ Yuka「Spirited away?」%K%P
 Haruka「It's when a person suddenly disappears without warning.」%K%P
 0x718
 いづみ「そう。今では『蒸発』とか『失踪』とかって呼ばれてるけど……」%K%P
-Izumi「Right. Nowadays, it's called an 'disappearance' or an%N'absconding'...」%K%P
+Izumi「Right. Nowadays, it's called an 'disappearance' or an 'absconding'...」%K%P
 0x724
 いづみ「実は、その『神隠し』がね？　あの神社では起こるらしいのよ」%K%P
-Izumi「The truth is, something like 'spiriting away' happened at%Nthat shrine.」%K%P
+Izumi「The truth is, something like 'spiriting away' happened at that shrine.」%K%P
 0x730
 いづみ「簡単に言ってしまうと、あの神社に出掛けて行って、戻って来なかった人が何人も…ううん…何十人もいるっていうこと」%K%P
-Izumi「Putting it simply, several people... no, several dozens of%Npeople traveled to that shrine over time, and never%Ncame back.」%K%P
+Izumi「Putting it simply, several people... no, several dozens of people traveled to that shrine over time, and never came back.」%K%P
 0x73C
 億彦「まさか、そんなことっ」%K%P
 Okuhiko「That's impossible!」%K%P
@@ -309,22 +309,22 @@ Okuhiko「That's impossible!」%K%P
 Izumi「It isn't. It really happened.」%K%P
 0x754
 いづみ「地元の新聞だけでなく、全国紙にまで掲載されてるんだから。その事件のことが…何度も…何度も…」%K%P
-Izumi「Not only was it published in the local papers, but also%Nannounced on national news. Still, countless%Ndisappearances have happened over time... again... and%Nagain...」%K%P
+Izumi「Not only was it published in the local papers, but also announced on national news. Still, countless disappearances have happened over time... again... and again...」%K%P
 0x760
 いづみ「これは、私が島の役場まで行って、実際に自分の目で確かめてきたことだから、絶対に確かなのよ」%K%P
-Izumi「I even confirmed this information with the records at the%Nisland's town hall.」%K%P
+Izumi「I even confirmed this information with the records at the island's town hall.」%K%P
 0x76C
 億彦「…………」%K%P
 Okuhiko「...」%K%P
 0x778
 いづみ「島の人達は、その一連の『神隠し事件』のことを『死鬼の神の祟りだ』とか『死鬼の神が地獄に引きずり込んだのだ』とか、そんなふうに言ってる」%K%P
-Izumi「The people on this island say that this series of%N'spiriting away' incidents were from the people being%N'cursed', or 'dragged to hell by the God of Demons'.」%K%P
+Izumi「The people on this island say that this series of 'spiriting away' incidents were from the people being 'cursed', or 'dragged to hell by the God of Demons'.」%K%P
 0x784
 いづみ「さすがに私も、死鬼の神がどうこうってところまでは信じられないけれど……」%K%P
 Izumi「Of course, I don't quite share the same beliefs...」%K%P
 0x790
 いづみ「まあとにかく、そのことがあって以来、あの神社……『司紀の杜神社』には誰も近寄らなくなってしまった、というわけ」%K%P
-Izumi「Even so, ever since that, no one goes near the 'Shiki no%NMori Shrine' anymore.」%K%P
+Izumi「Even so, ever since that, no one goes near the 'Shiki no Mori Shrine' anymore.」%K%P
 0x79C
 みんな「ふ〜ん……」%K%P
 Everyone「Hmm...」%K%P
@@ -333,10 +333,10 @@ Everyone「Hmm...」%K%P
 The cold night's wind stirs the beach's sands.%K%P
 0x7CC
 数秒毎に巡る灯台の明かりが、紺色の闇をめくるように通り過ぎていく。%K%P
-Every few seconds, the lighthouse's revolving beacon%Npasses through the deep blue darkness.%K%P
+Every few seconds, the lighthouse's revolving beacon passes through the deep blue darkness.%K%P
 0x7D8
 絶え間なく続く波の音は、相変わらず重々しい響きだった。%K%P
-The perpetual, continuing sound of the waves still%Nechoes solemnly.%K%P
+The perpetual, continuing sound of the waves still echoes solemnly.%K%P
 0x7EC
 くるみ「ねえ、みんな……？」%K%P
 Kurumi「Hey, guys...?」%K%P
@@ -351,7 +351,7 @@ Kurumi's sudden question breaks the silence.%K%P
 Makoto「'Mystery Tour'?」%K%P
 0x840
 くるみ「うん。その問題の『司紀の杜神社』とか言う所に行ってみてぇ、噂が本当かどうか確かめてみるの」%K%P
-Kurumi「Yep. Kurumi wants to go check out that so-called 'Shiki%Nno Mori Shrine' and see if the rumors are true or not.」%K%P
+Kurumi「Yep. Kurumi wants to go check out that so-called 'Shiki no Mori Shrine' and see if the rumors are true or not.」%K%P
 0x854
 くるみ「ね？　なんだか面白そうでしょ？」%K%P
 Kurumi「Well? It sounds kinda fun, doesn't it?」%K%P
@@ -363,7 +363,7 @@ Just then...%K%P
 Izumi「No way! Absolutely not!」%K%P
 0x898
 ……いづみさんは、いつになく真剣な表情でくるみを戒めた。%K%P
-... Izumi-san admonishes Kurumi with an unusually serious%Nexpression.%K%P
+... Izumi-san admonishes Kurumi with an unusually serious expression.%K%P
 0x8AC
 くるみ「ええ〜っ、なんでぇ〜」%K%P
 Kurumi「Huh, why not?」%K%P
@@ -372,10 +372,10 @@ Kurumi「Huh, why not?」%K%P
 Izumi「'Why not'!?」%K%P
 0x8C4
 いづみ「いい、くるみ？　今私が言ったことは、冗談なんかじゃないのよ？　分かってるの？」%K%P
-Izumi「Weren't you listening, Kurumi? That story I told you just%Nnow wasn't a joke. Do you understand that?」%K%P
+Izumi「Weren't you listening, Kurumi? That story I told you just now wasn't a joke. Do you understand that?」%K%P
 0x8D0
 くるみ「分かってるよぉ……。だけど…遠くから眺めるぐらいならぁ…」%K%P
-Kurumi「Kurumi understands... But... if we only look at it from a%Ndistance, then...」%K%P
+Kurumi「Kurumi understands... But... if we only look at it from a distance, then...」%K%P
 0x8DC
 いづみ「ほら、分かってない。全然分かってないじゃない」%K%P
 Izumi「See, you don't understand. You don't understand at all!」%K%P
@@ -393,10 +393,10 @@ Izumi「All right? Do you understand?」%K%P
 Kurumi「Boo...」%K%P
 0x950
 正直言って、いづみさんの言葉には、理屈も何もありはしなかった。%K%P
-Honestly speaking, there's no reason behind Izumi-san%Nbeing so upset.%K%P
+Honestly speaking, there's no reason behind Izumi-san being so upset.%K%P
 0x95C
 けれども、はたから見ているこちらまでもが戦慄してしまいそうな程の、強圧的な凄味があった。%K%P
-Regardless, as an outsider, her words have such a%Nthreatening, coercive feeling to them that is so%Nterrifying that it makes me tremble with fear.%K%P
+Regardless, as an outsider, her words have such a threatening, coercive feeling to them that is so terrifying that it makes me tremble with fear.%K%P
 0x968
 それほどまでに、司紀の杜神社という所は危険だと言うのか？%K%P
 Is the Shiki no Mori Shrine really that dangerous?%K%P

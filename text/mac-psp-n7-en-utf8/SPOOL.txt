@@ -3,13 +3,13 @@ text area offset and size:
 0x130D
 0x44
 さすがに育ちが良いだけあって、透き通るような白い肌が眩しい……。%K%P
-Her dazzling, marble-like white skin makes it clear that%Nshe's been well bred, as expected...%K%P
+Her dazzling, marble-like white skin makes it clear that she's been well bred, as expected...%K%P
 0x50
 うーーーーん…………。%K%P
 Hmmmmm...%K%P
 0x6C
 しばらくその姿に見とれていたが、ここは何か話しかけるべきだろうか？%K
-I just stand there, admiring her for a while. I wonder if I%Nshould say something.%K
+I just stand there, admiring her for a while. I wonder if I should say something.%K
 0x9A0
 やはり無言で通り過ぎる
 Pass by silently.
@@ -24,7 +24,7 @@ Spontaneously introduce myself.
 Just when I decide to pass by silently...%K%P
 0xD0
 その眩しい肢体を誉めようかと思ったとたん……%K%P
-Just when I'm thinking about how I should praise her%Ndazzling body...%K%P
+Just when I'm thinking about how I should praise her dazzling body...%K%P
 0xDC
 沙紀「ねえ、あなたそのヤラシイ目つきどうにかならないの？」%K%P
 Saki「Hey, don't look at me like that!」%K%P
@@ -45,10 +45,10 @@ Makoto「Gah!!」%K%P
 Why does Saki know that?%K%P
 0x124
 いや、そんなことよりそんなにヤラシイ目だったのか？%K%P
-No, wait, does she really think I was looking at her like a%Npervert?%K%P
+No, wait, does she really think I was looking at her like a pervert?%K%P
 0x130
 完全に意表を突かれ、さらに言葉に詰まっていると……。%K%P
-I am struck speechless by her embarrassing%Naccusation...%K%P
+I am struck speechless by her embarrassing accusation...%K%P
 0x13C
 沙紀「まぁ、眺めていたいなら別に構わないけど……」%K%P
 Saki「Well, if you want to stare, then I don't really care...」%K%P
@@ -60,10 +60,10 @@ Dammit, she's so full of herself.%K%P
 She's so obscene...%K%P
 0x160
 オレは捨て台詞も残さず、いそいそとその場を%N立ち去った。%K%P
-I leave her without a retort, and quickly head for the%Nstand.%K%P
+I leave her without a retort, and quickly head for the stand.%K%P
 0x1C0
 売店の前で１度だけ振り向くと、既にデッキチェアに沙紀の姿はなかった……。%K%P
-When I reach the stand, I look back once, but Saki has%Nalready disappeared from the deck chair...%K%P
+When I reach the stand, I look back once, but Saki has already disappeared from the deck chair...%K%P
 0x1DC
 …………………………。%K%P
 ...%K%P
@@ -72,13 +72,13 @@ When I reach the stand, I look back once, but Saki has%Nalready disappeared from
 Makoto「Saki!」%K%P
 0x20C
 沙紀「なによっ、いきなり呼び捨てなんて、ずいぶん馴れ馴れしいわね！」%K%P
-Saki「What the hell? Don't just drop the honorifics with me.%NYou're talking way too familiar with me!」%K%P
+Saki「What the hell? Don't just drop the honorifics with me. You're talking way too familiar with me!」%K%P
 0x218
 沙紀「まあ別に構わないけど……」%K%P
 Saki「Well, it's not like I care...」%K%P
 0x224
 誠「ところでちゃんとした自己紹介をしてなかったなぁ！」%K%P
-Makoto「Anyway, I realized that I haven't really introduced myself%Nto you!」%K%P
+Makoto「Anyway, I realized that I haven't really introduced myself to you!」%K%P
 0x230
 沙紀「そんなもの別にいらないわよ！」%K%P
 Saki「You don't really need to do that!」%K%P
@@ -87,7 +87,7 @@ Saki「You don't really need to do that!」%K%P
 Makoto「It's fine, just listen!」%K%P
 0x248
 誠「オレの名前は石原誠、２０才、%N好みのタイプは……」%K%P
-Makoto「My name is Makoto Ishihara, 20 years old, and my type%Nis...」%K%P
+Makoto「My name is Makoto Ishihara, 20 years old, and my type is...」%K%P
 0x254
 沙紀「だから、いいって言ってるでしょ！」%K%P
 Saki「I told you, I'm fine!」%K%P
@@ -111,22 +111,22 @@ Saki「So, what's your type, then!?」%K%P
 Makoto「No, never mind.」%K%P
 0x2A8
 沙紀「言いかけたなら、最後まで言いなさいよ！」%K%P
-Saki「You've already started talking, so finish what you were%Nsaying, dammit!」%K%P
+Saki「You've already started talking, so finish what you were saying, dammit!」%K%P
 0x2B4
 『なんと高飛車な女なんだろう』と思ったが、多少興味が湧いてきた。%K%P
-She's quite a domineering woman, but I'm starting to find%Nher sassy attitude alluring.%K%P
+She's quite a domineering woman, but I'm starting to find her sassy attitude alluring.%K%P
 0x2C0
 とりあえず、こうしてよく見ると結構な美人だ。（体も良い）%K%P
-Plus, I have to admit she's incredibly beautiful (in other%Nwords, she's hot).%K%P
+Plus, I have to admit she's incredibly beautiful (in other words, she's hot).%K%P
 0x2CC
 なかなか悪くない……。%K%P
 This isn't bad at all...%K%P
 0x2D8
 沙紀「なにニヤニヤしてるのよ！　まさか私にひと目惚れなんて言わないでしょうね！」%K%P
-Saki「Why the hell are you smirking!? Don't tell me it's some%Ncrap like 'love at first sight'!?」%K%P
+Saki「Why the hell are you smirking!? Don't tell me it's some crap like 'love at first sight'!?」%K%P
 0x2E4
 しかし、自意識過剰ですねぇと思わず言いそうになったが……。%K%P
-「However, she's quite self-conscious.」 I barely manage%Nto stop myself from saying this out loud...%K%P
+「However, she's quite self-conscious.」 I barely manage to stop myself from saying this out loud...%K%P
 0x2F0
 誠「それは秘密です」%K%P
 Makoto「That's a secret.」%K%P
@@ -135,7 +135,7 @@ Makoto「That's a secret.」%K%P
 Makoto「Would you like me to get you a drink?」%K%P
 0x308
 とりあえず、この場はお茶を濁すことにした。%K%P
-For now, I've got to make an excuse to get out of this%Nawkward situation.%K%P
+For now, I've got to make an excuse to get out of this awkward situation.%K%P
 0x314
 沙紀「じゃ、ジンジャーエールをお願い」%K%P
 Saki「All right, please get me a ginger ale.」%K%P
@@ -162,7 +162,7 @@ Just get some beer.
 Makoto「It seems they don't have ginger ale.」%K%P
 0x428
 沙紀「何よ！　なかったら別のもの買ってくれば良いじゃない、まったく子供のお使いじゃないんだから！」%K%P
-Saki「What the hell!? If they didn't have any, then it would have%Nbeen fine if you just bought something else! Geez, this is%Nsomething a kid could do!」%K%P
+Saki「What the hell!? If they didn't have any, then it would have been fine if you just bought something else! Geez, this is something a kid could do!」%K%P
 0x434
 なんちゅう自分勝手な。人が親切に……。%K%P
 You self-centered... I was just trying be nice...%K%P
@@ -213,13 +213,13 @@ Saki「You're so damn persistent! If I say normal, I mean normal!」%K%P
 Makoto「...」%K%P
 0x58C
 沙紀と話していると、どうも話がかみあわない。%K%P
-We never seem to be able to get a pleasant%Nconversation rolling.%K%P
+We never seem to be able to get a pleasant conversation rolling.%K%P
 0x598
 ここはひとつ話題を変えてみよう。%K%P
 I'll try changing the topic.%K%P
 0x5A4
 誠「じゃあなんで、こんな田舎に１人で来てるわけ？」%K%P
-Makoto「So why did you come to this island in the boonies all%Nalone?」%K%P
+Makoto「So why did you come to this island in the boonies all alone?」%K%P
 0x5B0
 沙紀「ただの避暑よ！」%K%P
 Saki「I'm just summering!」%K%P
@@ -228,7 +228,7 @@ Saki「I'm just summering!」%K%P
 Makoto「You're 'summering' even though it's still April?」%K%P
 0x5D0
 沙紀「なんだっていいじゃない！　なんで私に質問ばっかりするのよ！」%K%P
-Saki「It's fine, isn't it!? Why the hell are you just asking me%Nquestions!?」%K%P
+Saki「It's fine, isn't it!? Why the hell are you just asking me questions!?」%K%P
 0x5DC
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -246,7 +246,7 @@ Saki「I'm asking if something's going on between you two.」%K%P
 Makoto「I don't think I can decide that when we've only just met...」%K%P
 0x620
 沙紀「それにしちゃ、ずいぶん親しそうじゃない」%K%P
-Saki「Nevertheless, you two seem to be on pretty good terms,%Nno?」%K%P
+Saki「Nevertheless, you two seem to be on pretty good terms, no?」%K%P
 0x62C
 たしかに沙紀の言うとおりだ。%K%P
 Saki's certainly right.%K%P
@@ -258,7 +258,7 @@ I think so too.%K%P
 Makoto「I don't think anything's going on yet.」%K%P
 0x658
 沙紀「まだって何よ！　これからどうにかする気なの？」%K%P
-Saki「What do you mean, 'yet'!? So are you gonna do%Nsomething about that later?」%K%P
+Saki「What do you mean, 'yet'!? So are you gonna do something about that later?」%K%P
 0x664
 誠「いや、別に…」%K%P
 Makoto「N-Not to my knowledge, no...」%K%P
@@ -294,13 +294,13 @@ Makoto「Well, I guess Yuka's okay.」%K%P
 Makoto「But I think you're pretty good yourself.」%K%P
 0x700
 沙紀「あらそう。そういうこと言う人だとは思ってなかったわ」%K%P
-Saki「Oh, is that so? I didn't think you'd be the kind of person%Nwho'd say things like that.」%K%P
+Saki「Oh, is that so? I didn't think you'd be the kind of person who'd say things like that.」%K%P
 0x70C
 沙紀「まあ、男ってみんなそういうつまらないお世辞を言うものよねぇ」%K%P
 Saki「Well, all guys tend to say such trite compliments anyway.」%K%P
 0x718
 言ってる割に、沙紀は心なしか嬉しそうだった。%K%P
-She says that, but considering how much she's blushing,%Nit probably made her happy.%K%P
+She says that, but considering how much she's blushing, it probably made her happy.%K%P
 0x724
 やがて……%K%P
 Before long...%K%P
@@ -345,7 +345,7 @@ Yuka「Anyway, are you thirsty? It's on me.」%K%P
 Makoto「Oh! Looks like I got lucky! Thank you very much!」%K%P
 0x82C
 優夏「それじゃ、あそこのデッキチェアで待っていて、持っていってあげるから」%K%P
-Yuka「Well then, just wait in that deck chair, and I'll get one for%Nyou.」%K%P
+Yuka「Well then, just wait in that deck chair, and I'll get one for you.」%K%P
 0x838
 誠「ＯＫ〜♪」%K%P
 Makoto「Okay♪」%K%P

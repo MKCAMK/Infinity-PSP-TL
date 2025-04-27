@@ -24,7 +24,7 @@ It hasn't even been an hour since I went to sleep.%K%P
 But I don't feel sleepy at all.%K%P
 0x188
 頭は驚くほど醒め切っていて、今なら２桁の掛け算でも１０秒以内に解けそうだ。%K%P
-My mind is surprisingly wide awake, so I try to do%Nmultiplication tables in my mind to help me go back to%Nsleep.%K%P
+My mind is surprisingly wide awake, so I try to do multiplication tables in my mind to help me go back to sleep.%K%P
 0x194
 何度か……寝返りをうってみる……。%K%P
 I try this countless times...%K%P
@@ -36,7 +36,7 @@ It's no use―I'm too alert.%K%P
 I give up and get out of bed.%K%P
 0x1B8
 確か、リビングの冷蔵庫には、今日の残りの缶ビールが何本か残っていた筈だ。%K%P
-I'm sure that there's several leftover beer cans from%Ntoday in the fridge.%K%P
+I'm sure that there's several leftover beer cans from today in the fridge.%K%P
 0x1C4
 １本空けた頃には、きっと眠気も戻って来るだろう。%K%P
 After drinking a can, my sleepiness will surely return.%K%P
@@ -69,16 +69,16 @@ When I look up in surprise...%K%P
 Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
 0x324
 億彦「ニュートリノエナジーパワーオンッ！……%W%Wへ〜%W%Wんしん！……%W%Wとぉ！%W%W%W%W……ムニャムニャ……」%K%P
-Okuhiko「Neutrino Energy, Power On! ... Trans〜form! ... There! ...%NZzz...」%K%P
+Okuhiko「Neutrino Energy, Power On! ... Trans〜form! ... There! ... Zzz...」%K%P
 0x338
 億彦「出たなハイテク怪人掃除機男……%W%Wううっ……%W%W吸われる……%W%W吸わ……%W%Wれる……%W%W%W%W……ムニャムニャ……」%K%P
-Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
+Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum Cleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
 0x34C
 億彦「お疲れ様でしたぁ……%W%W%W%W……ムニャムニャ……」%K%P
 Okuhiko「Good work... Zzz...」%K%P
 0x360
 億彦「コラッ！…ボウズ！%W%W…舞台に上がるな舞台に！%N%W%W…おいっやめろ！%W%W…チャックを…%W%Wチャックを…%W%Wおろすな！%W%W%W%W……ムニャムニャ……」%K%P
-Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't...%Nlower... that zipper! ... Zzz...」%K%P
+Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't... lower... that zipper! ... Zzz...」%K%P
 0x374
 ……どうやら寝言のようだった。%K%P
 ... It seems he's just sleeptalking.%K%P
@@ -96,7 +96,7 @@ I sigh as I open the fridge.%K%P
 Makoto「Whew... that's good stuff there...」%K%P
 0x3CC
 ん？　何だか優夏っぽいな、今のオヤジくさい言い方……。%K%P
-Huh? That old geezer-esque expression sounds like%Nsomething Yuka would say, not me...%K%P
+Huh? That old geezer-esque expression sounds like something Yuka would say, not me...%K%P
 0x3D8
 いかんいかん……。%K%P
 Better watch myself...%K%P
@@ -120,7 +120,7 @@ Suddenly, I feel intoxicated.%K%P
 It's a really pleasant feeling.%K%P
 0x42C
 別に何をするわけでもなかったが、オレは何気なく、ロッジの外へと出てみることにした。%K%P
-Although it's not like there's anything I really want to do, I%Ncasually decide to try going outside the lodge.%K%P
+Although it's not like there's anything I really want to do, I casually decide to try going outside the lodge.%K%P
 0x4B4
 ふと、空を見上げる。%K%P
 Suddenly, I look up at the sky.%K%P
@@ -129,16 +129,16 @@ Suddenly, I look up at the sky.%K%P
 Haah... I take a deep breath.%K%P
 0x4CC
 それはいまだかつて見たこともない奇跡のような星空だった。%K%P
-Up until now, I've never seen a starry sky as marvelous%Nas this one.%K%P
+Up until now, I've never seen a starry sky as marvelous as this one.%K%P
 0x4E0
 累々たる瞬きの乱舞……。%K%P
 I'm bathed in a pool of serene starlight.%K%P
 0x4EC
 小さな小さな光の粒が、空一面に広がって澄み切った輝きを放っている。%K%P
-The twinkling stars shine brightly as they appear to%Ndance.%K%P
+The twinkling stars shine brightly as they appear to dance.%K%P
 0x4F8
 濃紺の艶めいた深い闇の中に、星雲の真っ赤な揺らめきさえも見ることができた。%K%P
-In the bewitching dark blue sky, I can even see the%Ncomplete flickering of nebulas.%K%P
+In the bewitching dark blue sky, I can even see the complete flickering of nebulas.%K%P
 0x504
 誠「ああ……」%K%P
 Makoto「Ahh...」%K%P
@@ -147,7 +147,7 @@ Makoto「Ahh...」%K%P
 I let out an awed sigh.%K%P
 0x51C
 果てしなく広い宇宙……永遠の時間の流れがそこにある。%K%P
-The endlessly vast space... that's where the eternal flow%Nof time lies.%K%P
+The endlessly vast space... that's where the eternal flow of time lies.%K%P
 0x528
 自分という存在の、あまりにも小さなことをひしひしと思い知らされた。%K%P
 I realize the extreme tininess of my own existence.%K%P
@@ -156,19 +156,19 @@ I realize the extreme tininess of my own existence.%K%P
 I feel a bit embarrassed.%K%P
 0x540
 けれど、それと同時に、震えるような恍惚感も覚えずにはいられなかった。%K%P
-But at the same time, I can't help feeling a trembling%Nsense of ecstasy.%K%P
+But at the same time, I can't help feeling a trembling sense of ecstasy.%K%P
 0x54C
 銀河の帯……天の川のゆるやかな流れは、この世の何よりも美しい光だ。%K%P
-The galaxy... the light of Milky Way's flow is more beautiful%Nthan anything in this world.%K%P
+The galaxy... the light of Milky Way's flow is more beautiful than anything in this world.%K%P
 0x558
 その光にいざなわれるようにして、オレはいつの間にか、フラフラと歩き始めていた。%K%P
-I begin to start unconsciously staggering towards the%Nlight, as if it's beckoning me.%K%P
+I begin to start unconsciously staggering towards the light, as if it's beckoning me.%K%P
 0x598
 このまま真っ直ぐ海へと下れば、あの光に触れることができるかもしれない。%K%P
-I bet that if I keep on going down the hill and head%Nstraight towards the ocean, I might be able to touch it.%K%P
+I bet that if I keep on going down the hill and head straight towards the ocean, I might be able to touch it.%K%P
 0x5A4
 しかし、進んでも進んでも、光は逃げて行くばかりだった。%K%P
-No matter how far I go, though, the light is always out of%Nmy reach.%K%P
+No matter how far I go, though, the light is always out of my reach.%K%P
 0x5B0
 悔しくなって、足を速めた。%K%P
 I get annoyed and quicken my pace.%K%P
@@ -189,7 +189,7 @@ When I come to my senses, I'm walking on Moon Beach.%K%P
 I still can't catch the light.%K%P
 0x644
 砂の上を、力いっぱい垂直にジャンプしてみる。手を思い切り伸ばす。%K%P
-Standing on top of the sand, I try to jump up with all my%Nmight, reaching out as far as I can.%K%P
+Standing on top of the sand, I try to jump up with all my might, reaching out as far as I can.%K%P
 0x650
 もう少しで届きそうな気がした。%K%P
 Just a little further...%K%P
@@ -213,16 +213,16 @@ I'll try jumping one more time... and again... and again.%K%N
 ...???%K%P
 0x6B4
 ピョンピョンと跳ねていたオレの視界に、人影が映った。%K%P
-As I attempt to catch the stars, I see someone out of%Nthe corner of my eyes.%K%P
+As I attempt to catch the stars, I see someone out of the corner of my eyes.%K%P
 0x6C0
 ルナビーチの屋根の上……誰かがヒザを抱えて座っている。%K%P
-On the roof of Lunabeach... someone is sitting down,%Nhugging their knees...%K%P
+On the roof of Lunabeach... someone is sitting down, hugging their knees...%K%P
 0x6CC
 くるみだ……。%K%P
 It's Kurumi...%K%P
 0x6D8
 誠「お〜いっ、くるみぃ〜！　何やってんだぁ〜、こんな夜中にぃ〜？」%K%P
-Makoto「Heeeey, Kurumiiii! What're you doing outside in the middle%Nof the night?」%K%P
+Makoto「Heeeey, Kurumiiii! What're you doing outside in the middle of the night?」%K%P
 0x700
 くるみ「うみ……………………」%K%P
 Kurumi「... the sea...」%K%P
@@ -255,37 +255,37 @@ Fortunately, the door to Lunabeach is unlocked.%K%P
 I muse over this as I walk upstairs to the second floor.%K%P
 0x7A4
 その小さな部屋では、いづみさんがスヤスヤと寝息をたてていた。%K%P
-In that small room, I can hear Izumi-san breathing in her%Nsleep.%K%P
+In that small room, I can hear Izumi-san breathing in her sleep.%K%P
 0x7B0
 起さないように、こっそりと、天井についた窓から屋根の上に出た。%K%P
-I stealthily open the window on the ceiling and climb up%Nso that I don't wake her.%K%P
+I stealthily open the window on the ceiling and climb up so that I don't wake her.%K%P
 0x7BC
 …………………………。%K%P
 ...%K%P
 0x7C8
 屋根の上は、下から見たときよりもずっと高く感じる。%K%P
-The top of the roof feels much higher than I thought it%Nwas when I saw it from below.%K%P
+The top of the roof feels much higher than I thought it was when I saw it from below.%K%P
 0x7D4
 オレは屋根に両手をつきながら、恐る恐るくるみの隣に移動して、腰を下ろした。%K%P
-As I grip onto the roof with both of my hands, I move to%Nthe timid Kurumi, and sit down beside her.%K%P
+As I grip onto the roof with both of my hands, I move to the timid Kurumi, and sit down beside her.%K%P
 0x7E8
 こんなにも星がきれいだと言うのに、くるみの視線は星空ではなく、海の彼方に向けられていた。%K%P
-Even though the stars are so pretty, Kurumi isn't looking%Nat them, but rather, the vast ocean.%K%P
+Even though the stars are so pretty, Kurumi isn't looking at them, but rather, the vast ocean.%K%P
 0x7F4
 その視線はどこか寂しげで……。%K%P
 There's a trace of loneliness in her gaze...%K%P
 0x800
 そう……あの展望公園で見た瞳と同じ色をしていた。%K%P
-Yes... her eyes look the same as they did when I saw her%Nthat one time at Viewpoint Park...%K%P
+Yes... her eyes look the same as they did when I saw her that one time at Viewpoint Park...%K%P
 0x80C
 誠「くるみ……さっき、海見てるって言ってたよな？」%K%P
-Makoto「Kurumi... you said you were looking at the ocean, didn't%Nyou?」%K%P
+Makoto「Kurumi... you said you were looking at the ocean, didn't you?」%K%P
 0x818
 くるみ「……うん」%K%P
 Kurumi「... Yes.」%K%P
 0x824
 誠「だけど、海なんて真っ暗で、何にも見えないじゃないかぁ？」%K%P
-Makoto「But the ocean's pitch black, so you can't see anything,%Nright?」%K%P
+Makoto「But the ocean's pitch black, so you can't see anything, right?」%K%P
 0x830
 くるみ「……見えるよ」%K%P
 Kurumi「... You can.」%K%P
@@ -318,7 +318,7 @@ No.
 Makoto「Yeah, I know.」%K%P
 0x900
 誠「山の岩塩が雨水に溶け、川に流されて海へと運ばれる。それが数億年という果てしない歳月の中で蓄積しっ」%K%P
-Makoto「The rock salt on mountains were dissolved by rain water,%Nand were carried to the seas by rivers that flowed to%Nthem. It then accumulated over billions of years, so as a-」%K%P
+Makoto「The rock salt on mountains were dissolved by rain water, and were carried to the seas by rivers that flowed to them. It then accumulated over billions of years, so as a-」%K%P
 0x914
 誠「いや……知らない」%K%P
 Makoto「No... I don't know.」%K%P
@@ -327,16 +327,16 @@ Makoto「No... I don't know.」%K%P
 Kurumi「The ocean's water...」%K%P
 0x92C
 くるみ「海の水は、お月様の涙なの。だから、しょっぱいんだよ……」%K%P
-Kurumi「The ocean's water is the moon's tears. That's why it's so%Nsalty...」%K%P
+Kurumi「The ocean's water is the moon's tears. That's why it's so salty...」%K%P
 0x938
 くるみ「まんまるお月様は、ひとりぼっちで淋しくて、夜の闇の中で泣きました。しくしく…しくしく…と……」%K%P
-Kurumi「Because the moon was all alone, it was lonely, and would%Ncry during the night. 'Sob, sob... sob, sob'...」%K%P
+Kurumi「Because the moon was all alone, it was lonely, and would cry during the night. 'Sob, sob... sob, sob'...」%K%P
 0x944
 誠「……」%K%P
 Makoto「...」%K%P
 0x950
 くるみ「まんまるお月様は、それでもまだ淋しくて、涙の中に子供を生みました。たくさんの子供達……」%K%P
-Kurumi「Even so, the moon was still lonely, and so its tears gave%Nbirth to children. A lot of children...」%K%P
+Kurumi「Even so, the moon was still lonely, and so its tears gave birth to children. A lot of children...」%K%P
 0x95C
 くるみ「海の月と書いて、くらげ……」%K%P
 Kurumi「The child of the moon and the sea, the jellyfish...」%K%P
@@ -351,16 +351,16 @@ Kurumi「Kurumi was looking at the jellyfish.」%K%P
 Makoto「Jellyfish...?」%K%P
 0x98C
 真っ黒い海の彼方を見つめてみても、そんなものが見える筈はなかった。%K%P
-I try looking out at the vast, pitch black sea, but I can't%Nsee anything.%K%P
+I try looking out at the vast, pitch black sea, but I can't see anything.%K%P
 0x998
 くるみ「くらげみたいに、なりたいなぁ……」%K%P
 Kurumi「Kurumi wants to be like a jellyfish...」%K%P
 0x9A4
 くるみ「朝も夜も、海の中をふんわりふんわりと漂いながら……そうやって生きていけたら幸せなのに……」%K%P
-Kurumi「Just gently floating in the sea from day to night... if she%Nlived like that, she'd be happy...」%K%P
+Kurumi「Just gently floating in the sea from day to night... if she lived like that, she'd be happy...」%K%P
 0x9B0
 瞳に射した影。どこか思いつめるような言い方……。%K%P
-She appears to be deep in thought as she broods over%Nthis...%K%P
+She appears to be deep in thought as she broods over this...%K%P
 0x9BC
 くるみには、何か悩み事があるのだろうか？%K%P
 Does Kurumi have some kind of worries?%K%P
@@ -375,19 +375,19 @@ Secrets...?%K%P
 In that instant, a flash runs through my mind.%K%P
 0x9EC
 酔いのせいだろうか……すっかりと忘れてしまっていたくるみの秘密……。%K%P
-Probably because I was drunk... I completely forgot%NKurumi's secret...%K%P
+Probably because I was drunk... I completely forgot Kurumi's secret...%K%P
 0x9F8
 いづみ「……くるみ……私の本当の妹ではないかもしれないの……」%K%P
 Izumi「... Kurumi... might not be my real sister...」%K%P
 0xA04
 あのいづみさんの言い方……くるみが現れたときの慌てようを考えると、くるみがそのことを知っているとは思えない。%K%P
-Judging from the way Izumi-san said that... and from how%Nfrantic she got when Kurumi appeared, I don't think that%NKurumi knows this.%K%P
+Judging from the way Izumi-san said that... and from how frantic she got when Kurumi appeared, I don't think that Kurumi knows this.%K%P
 0xA10
 じゃあ、くるみは今、何を思って……？%K%P
 Then what is Kurumi thinking about now...?%K%P
 0xA1C
 くるみ「くるみね？　水の上にプカプカと浮かんでるのが大好きなの……。くらげみたいに……」%K%P
-Kurumi「Did you know? Kurumi loves floating in the water... Like a%Njellyfish...」%K%P
+Kurumi「Did you know? Kurumi loves floating in the water... Like a jellyfish...」%K%P
 0xA28
 くるみ「そうしてると、何だか懐かしい気がして……」%K%P
 Kurumi「When she does that, it feels kinda nostalgic...」%K%P
@@ -402,7 +402,7 @@ Kurumi「The truth is... Kurumi... really wanted to go with everyone...」%K%P
 Kurumi「To the pool... and the hot springs...」%K%P
 0xA58
 誠「一緒に、行けばよかったじゃないか……」%K%P
-Makoto「Well, if you wanted to, then why didn't you? It's okay, isn't%Nit...?」%K%P
+Makoto「Well, if you wanted to, then why didn't you? It's okay, isn't it...?」%K%P
 0xA64
 くるみ「……………………」%K%P
 Kurumi「...」%K%P
@@ -411,7 +411,7 @@ Kurumi「...」%K%P
 Kurumi casts her eyes downwards.%K%P
 0xA7C
 つるりと光沢を帯びた青い屋根を、手の平でそっとやさしく撫でている……。%K%P
-She gently brushes the smooth, polished blue roof with%Nher palm...%K%P
+She gently brushes the smooth, polished blue roof with her palm...%K%P
 0xA88
 くるみ「怖かったの……」%K%P
 Kurumi「She was scared...」%K%P
@@ -429,58 +429,58 @@ Hate???%K%P
 Kurumi「There's a scar... on Kurumi's back.」%K%P
 0xAC4
 くるみ「まるでノコギリの刃でざっくりとえぐったような……深い傷痕が……」%K%P
-Kurumi「It's a deep scar... that looks as if it were cut and gouged%Nout by a saw...」%K%P
+Kurumi「It's a deep scar... that looks as if it were cut and gouged out by a saw...」%K%P
 0xAD0
 くるみ「お医者さんの話では、赤ちゃんの頃……それも産まれてすぐに出来た傷だろうって」%K%P
-Kurumi「The doctors said she got it when Kurumi was a baby... in%Naddition to that, they say it probably happened shortly%Nafter she was born.」%K%P
+Kurumi「The doctors said she got it when Kurumi was a baby... in addition to that, they say it probably happened shortly after she was born.」%K%P
 0xADC
 くるみ「でもね？　パパもママもお姉ちゃんも、くるみに嘘ついてるんだ」%K%P
-Kurumi「But you know what? Papa, Mama, and Onee-chan are%Nlying to Kurumi.」%K%P
+Kurumi「But you know what? Papa, Mama, and Onee-chan are lying to Kurumi.」%K%P
 0xAE8
 くるみ「３歳の頃、階段から落ちて出来た傷だって……くるみにそう言うの」%K%P
-Kurumi「They told Kurumi that she got that scar when she fell%Ndown the stairs when she was three.」%K%P
+Kurumi「They told Kurumi that she got that scar when she fell down the stairs when she was three.」%K%P
 0xAF4
 くるみ「どう見たって、階段から落ちて出来るような傷じゃ……ないのにね……」%K%P
-Kurumi「Even though no matter how you look at it, there's no way%NKurumi could have gotten that scar... from falling down%Nthe stairs...」%K%P
+Kurumi「Even though no matter how you look at it, there's no way Kurumi could have gotten that scar... from falling down the stairs...」%K%P
 0xB00
 何も言えなかった。何を言っていいのかわからなかった。%K%P
 I don't say anything. I don't know what I should say.%K%P
 0xB0C
 思いがけぬ告白を受け、ただただくるみの話を黙って聞くことしか、オレにはできなかった。%K%P
-After hearing Kurumi's unexpected confession, all I can%Ndo is silently listen to her story.%K%P
+After hearing Kurumi's unexpected confession, all I can do is silently listen to her story.%K%P
 0xB18
 くるみ「それでね？　くるみ……この傷にはちょっとした苦い想い出があるの……」%K%P
-Kurumi「And you know what else? This scar... has given Kurumi%Nquite a few painful memories...」%K%P
+Kurumi「And you know what else? This scar... has given Kurumi quite a few painful memories...」%K%P
 0xB24
 くるみ「中学の頃……くるみには、気になる男の子がいたんだ……」%K%P
 Kurumi「In middle school... there was this boy Kurumi was into...」%K%P
 0xB30
 くるみ「いっこ上の先輩だったんだけど……勉強のこととか、遊びのこととか、いろんなことを教えてくれたの……」%K%P
-Kurumi「He was a senpai older than Kurumi, but... whether it was%Nstudying or playing, he taught Kurumi several things...」%K%P
+Kurumi「He was a senpai older than Kurumi, but... whether it was studying or playing, he taught Kurumi several things...」%K%P
 0xB3C
 くるみ「放課後になると、毎日のように近くの公園に立ち寄って、２人で下らないおしゃべりをしてた……」%K%P
-Kurumi「Every day, when school ended, we would stop by this%Nnearby park, and chat about trivial things...」%K%P
+Kurumi「Every day, when school ended, we would stop by this nearby park, and chat about trivial things...」%K%P
 0xB48
 くるみ「下らないおしゃべりでも、くるみにとっては大切な時間だったの……。とても……大切な……」%K%P
-Kurumi「Even though it was just trivial chat, to Kurumi, those were%Nprecious times. Very... precious...」%K%P
+Kurumi「Even though it was just trivial chat, to Kurumi, those were precious times. Very... precious...」%K%P
 0xB54
 くるみ「くるみ……大好きだったんだよ……その先輩のことが……」%K%P
 Kurumi「Kurumi... loved... that senpai...」%K%P
 0xB60
 くるみ「だけどね？　ある日を境に、その先輩……くるみとはひと言も話してくれなくなっちゃったんだ……」%K%P
-Kurumi「But you know what? One day, that senpai... stopped%Ntalking to Kurumi... He wouldn't say a single word to her...」%K%P
+Kurumi「But you know what? One day, that senpai... stopped talking to Kurumi... He wouldn't say a single word to her...」%K%P
 0xB6C
 くるみ「廊下ですれ違っても、視線さえ合わせてくれなくて……」%K%P
-Kurumi「He wouldn't even exchange glances with her when we%Npassed in the hallways...」%K%P
+Kurumi「He wouldn't even exchange glances with her when we passed in the hallways...」%K%P
 0xB78
 くるみ「放課後の公園……くるみはひとりぼっちでブランコに揺られてた……」%K%P
-Kurumi「After school... Kurumi was all alone at the park, swinging%Non the swing...」%K%P
+Kurumi「After school... Kurumi was all alone at the park, swinging on the swing...」%K%P
 0xB84
 くるみ「夜がふけるまで……ずぅっとひとりぼっちで……ゆらゆら……ゆらゆらと……」%K%P
-Kurumi「She stayed there until night... alone all that whole time...%Nswinging away... swinging away...」%K%P
+Kurumi「She stayed there until night... alone all that whole time... swinging away... swinging away...」%K%P
 0xB90
 くるみ「その先輩がくるみと話してくれなくなった理由は、後で友達から聞いたの……」%K%P
-Kurumi「Kurumi heard the reason why that senpai stopped talk%Nto her from her friends later...」%K%P
+Kurumi「Kurumi heard the reason why that senpai stopped talk to her from her friends later...」%K%P
 0xB9C
 …………。%N……………………。%K%P
 ... ...%K%P
@@ -489,10 +489,10 @@ Kurumi「Kurumi heard the reason why that senpai stopped talk%Nto her from her f
 Senpai「That girl's got this giant scar on her back!」%K%P
 0xBB4
 先輩「何で出来たのかなんて知らねぇけど……とにかく、あれはもう完全にパスだな」%K%P
-Senpai「I dunno know how she got it, but... At any rate, I'm%Ncompletely through with her.」%K%P
+Senpai「I dunno know how she got it, but... At any rate, I'm completely through with her.」%K%P
 0xBC0
 先輩「あんな気持ち悪い傷痕があったんじゃ、一緒に海にも行けねぇもん！　連れてるこっちが恥ずかしいし……」%K%P
-Senpai「There's no way in hell I can go with her to the beach with%Nthat disgusting scar! It'd be way too embarrassing...」%K%P
+Senpai「There's no way in hell I can go with her to the beach with that disgusting scar! It'd be way too embarrassing...」%K%P
 0xBCC
 先輩「ああ。そうそう。だからもうシカトシカト！」%K%P
 Senpai「Yes, that's right. That's why I'm ignoring her!」%K%P
@@ -507,22 +507,22 @@ Senpai「She's nothing more than a nuisance to me at this point!」%K%P
 Kurumi「To be honest... it was a great shock...」%K%P
 0xBFC
 くるみ「背中のそれよりも、深く深く傷ついたよ……」%K%P
-Kurumi「It left a scar on Kurumi much deeper than the one on her%Nback...」%K%P
+Kurumi「It left a scar on Kurumi much deeper than the one on her back...」%K%P
 0xC08
 くるみ「それ以来、人前で背中を見せるのが、怖くなっちゃったんだ……」%K%P
-Kurumi「Ever since then, Kurumi's been afraid to show her back in%Nfront of other people...」%K%P
+Kurumi「Ever since then, Kurumi's been afraid to show her back in front of other people...」%K%P
 0xC14
 くるみ「うん……。だから、そういうわけ……。みんなと一緒に、プールや温泉に行かなかったのは……」%K%P
-Kurumi「Yes... That's the reason... why Kurumi didn't go to the pool%Nand hot springs with everyone else...」%K%P
+Kurumi「Yes... That's the reason... why Kurumi didn't go to the pool and hot springs with everyone else...」%K%P
 0xC20
 オレは激しく憤った。怒りに体が打ち震えた。%K%P
-I'm incredibly angry. So angry that my body is shaking%Nfrom it.%K%P
+I'm incredibly angry. So angry that my body is shaking from it.%K%P
 0xC2C
 その先輩とやらをここに連れて来て、ボコボコに殴ってやりたい。%K%P
-I want to drag that senpai here and beat the living shit%Nout of him.%K%P
+I want to drag that senpai here and beat the living shit out of him.%K%P
 0xC38
 蹴り飛ばして骨を砕いて、海の底に沈めてやる……。%K%P
-I want to kick him until his bones break, and throw him to%Nthe bottom of the sea...%K%P
+I want to kick him until his bones break, and throw him to the bottom of the sea...%K%P
 0xC44
 いつの間にか、オレの拳はギュッと力強く握りしめられていた。%K%P
 Without realizing it, I clench my hands into tight fists.%K%P
@@ -531,7 +531,7 @@ Without realizing it, I clench my hands into tight fists.%K%P
 Kurumi「Up until now... Kurumi's never told anyone about this...」%K%P
 0xC64
 くるみ「たぶん、これからも誰にも言わないと思う……」%K%P
-Kurumi「And Kurumi thinks she probably won't tell it to anyone%Nafter this...」%K%P
+Kurumi「And Kurumi thinks she probably won't tell it to anyone after this...」%K%P
 0xC70
 くるみ「知ってるのは、お兄ちゃんだけ……」%K%P
 Kurumi「You're the only one who knows this, Onii-chan...」%K%P
@@ -546,7 +546,7 @@ Kurumi「... So don't... tell anyone else...」%K%P
 ... After that, I am unable to say almost anything to Kurumi.%K%P
 0xCFC
 傷のことを慰めても、それは取ってつけたような、おざなりな言葉に聞こえてしまうような気がしたのだ。%K%P
-I feel that even if I try to comfort her about the scar,%Nanything I say will sound half-hearted to her.%K%P
+I feel that even if I try to comfort her about the scar, anything I say will sound half-hearted to her.%K%P
 0xD08
 結局、くるみの痛みはくるみにしかわからないわけで……。%K%P
 In the end, only Kurumi knows her own pain...%K%P
@@ -555,16 +555,16 @@ In the end, only Kurumi knows her own pain...%K%P
 ...%K%P
 0xD20
 くるみの傷が、いまだ癒えていないことは明らかだった。%K%P
-It's clear that Kurumi's emotional scars still haven't%Nhealed yet.%K%P
+It's clear that Kurumi's emotional scars still haven't healed yet.%K%P
 0xD2C
 けれど、オレに一体何ができる？%K%P
 But what can I do about it?%K%P
 0xD38
 優しい言葉をかけること……そんなことなら誰だってできる。%K%P
-Speaking words of kindness to her... anyone could do%Nthat.%K%P
+Speaking words of kindness to her... anyone could do that.%K%P
 0xD44
 きっと今までだって、多くの人が、くるみを優しく慰めてきたことだろう。%K%P
-I'm sure if many people heard this story, a lot of them%Nwould try to gently comfort Kurumi.%K%P
+I'm sure if many people heard this story, a lot of them would try to gently comfort Kurumi.%K%P
 0xD50
 なのに、くるみの傷は埋まらなかった。%K%P
 Even so, that wouldn't eliminate Kurumi's scar.%K%P
@@ -585,7 +585,7 @@ I'm thinking about way too much right now...%K%P
 Izumi-san's story is still lurking in my heart as well.%K%P
 0xD98
 ──神社。──誘拐。──実の姉妹ではないという疑問。%K%P
-―The shrine. ―The kidnapping. ―The possibility%Nthat they may not be real sisters.%K%P
+―The shrine. ―The kidnapping. ―The possibility that they may not be real sisters.%K%P
 0xDA4
 ──そして、背中の傷……。%K%P
 ―And the scar on her back...%K%P
@@ -594,7 +594,7 @@ Izumi-san's story is still lurking in my heart as well.%K%P
 Tomorrow, I'll ask Izumi-san to continue her story.%K%P
 0xDBC
 あるいはその話と背中の傷に、何か関係があるのかもしれない。%K%P
-That story might have some connection to the scar on%Nher back.%K%P
+That story might have some connection to the scar on her back.%K%P
 0xDC8
 夜は果てしなく長かった……。%K%P
 The unbearably long night goes on...%K%P

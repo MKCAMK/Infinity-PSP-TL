@@ -42,7 +42,7 @@ Kurumi「Well, whatever, it doesn't matter♪」%K%P
 Izumi「...」%K%P
 0x158
 くるみ「それよりお兄ちゃん、今なにやってたの？」%K%P
-Kurumi「More importantly, what were you doing just now,%NOnii-chan?」%K%P
+Kurumi「More importantly, what were you doing just now, Onii-chan?」%K%P
 0x164
 誠「いや、別に何もしてないよ。ただ話してただけで……」%K%P
 Makoto「Nothing really. We were just talking...」%K%P
@@ -87,7 +87,7 @@ I gulp, and look towards Izumi-san.%K%P
 Izumi-san's face has also gone pale.%K%P
 0x24C
 くるみ「トランプやってぇ……負けた人は罰ゲームとして、ホッペタつねられちゃうの♪」%K%P
-Kurumi「We'll play cards... and the loser has to play a punishment%Ngame where they get their cheeks pulled♪」%K%P
+Kurumi「We'll play cards... and the loser has to play a punishment game where they get their cheeks pulled♪」%K%P
 0x258
 くるみ「ね？　そうしよ、そうしよ？」%K%P
 Kurumi「Well? Shall we do it, shall we do it?」%K%P
@@ -99,13 +99,13 @@ Makoto「No... I'll pass... on cards.」%K%P
 Kurumi「Why not? C'mon, c'mon, let's play Mental Guts♪」%K%P
 0x2B0
 いづみ「誠くんは、そこにあるカードの数字を『覚』えてたんじゃない」%K%P
-Izumi「Makoto-kun, you weren't 'remembering' the numbers of%Nthe cards there.」%K%P
+Izumi「Makoto-kun, you weren't 'remembering' the numbers of the cards there.」%K%P
 0x2BC
 いづみ「ただ………そこにあるカードの数字を『創』っていただけなのよ」%K%P
-Izumi「Instead... you were just 'creating' the numbers on those%Ncards.」%K%P
+Izumi「Instead... you were just 'creating' the numbers on those cards.」%K%P
 0x2EC
 ３日の夜、いづみさんが言った言葉を思い出した。%K%P
-I remember the words Izumi-san said on the night of the%N3rd.%K%P
+I remember the words Izumi-san said on the night of the 3rd.%K%P
 0x2F8
 （そんなこと……あるわけがない……）%K%P
 (There's... no way that's possible...)%K%P
@@ -123,10 +123,10 @@ Although I think this, my courage is completely shot.%K%P
 (If I get all 26 pairs correct...)%K%P
 0x334
 もう２度と、あんな思いはしたくなった。%K%P
-I don't want to have thoughts like I did back then ever%Nagain.%K%P
+I don't want to have thoughts like I did back then ever again.%K%P
 0x340
 トランプなんか、絶対にやりたくないと、そう強く想った。%K%P
-「I definitely don't want to play cards」. This firm thought%Nrepeats in my head over and over again.%K%P
+「I definitely don't want to play cards」. This firm thought repeats in my head over and over again.%K%P
 0x354
 くるみ「ほいじゃあ、ちょっと待ってて？　今トランプ、持って来るから」%K%P
 Kurumi「Well then, wait a minute. Kurumi will go get the cards now.」%K%P
@@ -147,10 +147,10 @@ Shift... shift... shift... shift...%K%P
 Kurumi「Huh? That's strange...」%K%P
 0x3D0
 くるみ「昨日お客さんの忘れてったヤツが、あったと思ったんだけどぉ……」%K%P
-Kurumi「Kurumi thought the cards the customer forgot%Nyesterday were here...」%K%P
+Kurumi「Kurumi thought the cards the customer forgot yesterday were here...」%K%P
 0x3E4
 くるみ「ねえ、お姉ちゃん、知らない？　……ここに置いてあったトランプ」%K%P
-Kurumi「Hey, Onee-chan, do you know where the cards that were%Nhere went?」%K%P
+Kurumi「Hey, Onee-chan, do you know where the cards that were here went?」%K%P
 0x400
 いづみさんは無言のまま、首を横に振った。%K%P
 Izumi-san silently shakes her head.%K%P
@@ -165,7 +165,7 @@ Makoto「...」%K%P
 Izumi「...」%K%P
 0x440
 カウンターの周辺を夢中になって探すくるみ。%K%P
-Kurumi gets engrossed with searching the vicinity of the%Ncounter.%K%P
+Kurumi gets engrossed with searching the vicinity of the counter.%K%P
 0x44C
 そのかたわらで、オレといづみさんは顔を見合わせていた。%K%P
 While she's doing that, Izumi-san and I exchange glances.%K%P
@@ -174,7 +174,7 @@ While she's doing that, Izumi-san and I exchange glances.%K%P
 Izumi-san's expression has gone stiff.%K%P
 0x464
 瞳が、何かを訴えかけていた。%K%P
-She seems to be trying to tell me something with her%Neyes.%K%P
+She seems to be trying to tell me something with her eyes.%K%P
 0x470
 しかしそれが何なのか、オレには悟ることができなかった。%K%P
 But I'm unable to understand what that is.%K%P
@@ -195,22 +195,22 @@ I start speaking on reflex.%K%P
 Makoto「Sorry, Kurumi!」%K%P
 0x4C0
 誠「オレちょっと、用事思い出したから！」%K%P
-Makoto「I just remembered that there's something I need to take%Ncare of!」%K%P
+Makoto「I just remembered that there's something I need to take care of!」%K%P
 0x4CC
 くるみの返事も聞かずに、オレは店を飛び出した。%K%P
 I rush out of the shop without hearing Kurumi's reply.%K%P
 0x544
 店を出て来たのはいいが、これといって行くあてなどなかった。%K%P
-It's good and all that I got out of the shop, but I have no%Nclue what to do next.%K%P
+It's good and all that I got out of the shop, but I have no clue what to do next.%K%P
 0x550
 どこへ行くでもなく、海岸線の道を、西に向かって歩き始めた。%K%P
-Without a destination, I begin walking west on the%Ncoastline road.%K%P
+Without a destination, I begin walking west on the coastline road.%K%P
 0x5A8
 ………………。%N…………。%N……。%K%P
 ... ... ...%K%P
 0x5FC
 しばらく歩くと、カーブの向こうから声が聞こえてきた。%K%P
-After walking for a little while, I can hear voices behind%Nthe curve.%K%P
+After walking for a little while, I can hear voices behind the curve.%K%P
 0x608
 沙紀「ちょ、ちょっと待って！」%K%P
 Saki「W-Wait a minute!」%K%P
@@ -225,7 +225,7 @@ Okuhiko「It's fine, you'll understand if you come with me!」%K%P
 I peek around the curve.%K%P
 0x640
 沙紀と億彦が、オレに背を向ける形で立っていた。%K%P
-Saki and Okuhiko are standing with their backs turned%Ntowards me.%K%P
+Saki and Okuhiko are standing with their backs turned towards me.%K%P
 0x64C
 億彦の左手には１枚の紙切れ……。%K%P
 In Okuhiko's left hand is a scrap of paper...%K%P
@@ -240,7 +240,7 @@ In the instant I try to call out to them with a 「Hey」...%K%P
 Saki「Kyaa!」%K%P
 0x69C
 ……億彦は沙紀の腕を無理矢理引っぱって、茂みの中へと姿を消した。%K%P
-... Okuhiko forcefully grabs Saki's wrist, and disappears%Ninto a thicket.%K%P
+... Okuhiko forcefully grabs Saki's wrist, and disappears into a thicket.%K%P
 0x6A8
 （ったく、なに企んでるんだ、億彦のやつ……）%K%P
 (Geez, what's Okuhiko scheming up this time...?)%K%P
@@ -252,13 +252,13 @@ I start running up to the spot where the two disappeared.%K%P
 ...%K%P
 0x6CC
 ウッソウと生い茂る木々の向こうに、人ひとりがようやく通れるくらいの細い小道が続いていた。%K%P
-In the thick, overgrown woods, there's a thin path that is%Nbarely wide enough for a person to pass through.%K%P
+In the thick, overgrown woods, there's a thin path that is barely wide enough for a person to pass through.%K%P
 0x6D8
 億彦と沙紀の姿は、すでに見えない。%K%P
 I can't see Okuhiko or Saki anymore.%K%P
 0x700
 遠くから、草をかきわける音だけが聞こえていた。%K%P
-I can hear only the sound of movement in the grass from%Nfar away.%K%P
+I can hear only the sound of movement in the grass from far away.%K%P
 0x744
 ２人を追って、茂みの中へと踏み込む。%K%P
 I step into the thicket, chasing after those two.%K%P
@@ -270,7 +270,7 @@ I step into the thicket, chasing after those two.%K%P
 I quickly remember it.%K%P
 0x768
 前回の４日、くるみが行方不明になった夜、オレと優夏は確かにこの道を通った。%K%P
-On the last loop's 4th, when Kurumi disappeared, Yuka%Nand I definitely went down this road.%K%P
+On the last loop's 4th, when Kurumi disappeared, Yuka and I definitely went down this road.%K%P
 0x774
 ということは、この道の先にあるのは、あの──%N神社。%K%P
 Which means at the end of this road is that shrine.%K%P
@@ -285,13 +285,13 @@ I quietly continue to walk while thinking this...%K%P
 Due to the cloudy sky, my surroundings are very dim.%K%P
 0x7D0
 鳥のさえずりもなく、風もなく、よどんだ空気が重くのしかかってくるようだった。%K%P
-There's not even any birds chirping or any wind, making%Nthe air feel stagnant and heavy.%K%P
+There's not even any birds chirping or any wind, making the air feel stagnant and heavy.%K%P
 0x7DC
 ふと気がつくと、２人の気配が消えていた。%K%P
-When I come to my senses, Okuhiko and Saki's%Npresences have disappeared.%K%P
+When I come to my senses, Okuhiko and Saki's presences have disappeared.%K%P
 0x7E8
 立ち止まり、耳をすますが、葉ずれの音さえ聞こえない。%K%P
-I stand still and strain my ears, but I can't hear them%Nmoving through the grass.%K%P
+I stand still and strain my ears, but I can't hear them moving through the grass.%K%P
 0x7F4
 完全な静寂……。%K%P
 It's completely silent...%K%P
@@ -306,7 +306,7 @@ For some reason, my heart is restless.%K%P
 It feels like it's telling me that I mustn't go any further.%K%P
 0x824
 立ち並ぶ太い木立は、荘厳な威圧感をもってたたずんでいた。%K%P
-An overpowering, intimidating air is coming from the thick%Ngrove of trees.%K%P
+An overpowering, intimidating air is coming from the thick grove of trees.%K%P
 0x830
 （前に見たときと、何かが変わっている……）%K%P
 (Something's different from the last time I saw this...)%K%P
@@ -315,7 +315,7 @@ An overpowering, intimidating air is coming from the thick%Ngrove of trees.%K%P
 The smell of the woods is clearly aggressive.%K%P
 0x88C
 茂みの中を抜け、ようやく長い石段の前にたどりついた。%K%P
-I get out of the thicket, and finally arrive at the long%Nstone staircase.%K%P
+I get out of the thicket, and finally arrive at the long stone staircase.%K%P
 0x898
 依然として、億彦と沙紀の姿は見えない。%K%P
 I still don't see Okuhiko or Saki.%K%P
@@ -381,7 +381,7 @@ Is there 「no shrine」 in this history...?%K%P
 Izumi「Because... there's no longer a shrine at that cape.」%K%P
 0xA50
 ２日、桜並木で神社の話を聞いたとき、いづみさんはそう言っていた。%K%P
-Izumi-san said that on the 2nd while she was telling the%Nstory of the shrine at the cherry blossom trees.%K%P
+Izumi-san said that on the 2nd while she was telling the story of the shrine at the cherry blossom trees.%K%P
 0xA5C
 （だから……なのか……？）%K%P
 (Is that... it...?)%K%P
@@ -390,7 +390,7 @@ Izumi-san said that on the 2nd while she was telling the%Nstory of the shrine at
 「A firm thought can produce a new reality.」%K%P
 0xA74
 つまりこれは……いづみさんの妄想が創り出した新たな現実……？%K%P
-In other words, this is... a new reality produced by%NIzumi-san's delusion...?%K%P
+In other words, this is... a new reality produced by Izumi-san's delusion...?%K%P
 0xA80
 妄想……。%K%N
 A delusion...%K%N
@@ -402,7 +402,7 @@ A fictional world...%K%N
 An event within a fantasy...%K%P
 0xAA4
 （鈴が消え……神社が消え……さっきのトランプも、じゃあ……）%K%P
-(The bell disappeared... the shrine's disappeared... and%Nthose cards disappeared...)%K%P
+(The bell disappeared... the shrine's disappeared... and those cards disappeared...)%K%P
 0xAB0
 オレは動くことができなかった。%K%P
 I'm unable to move.%K%P
@@ -417,10 +417,10 @@ I lose power in my knees, and sit on the ground.%K%P
 There's not one thing moving in my field of vision.%K%P
 0xAE0
 影も無く、色も無く、音も無く、今、ここに自分が存在するという確信さえ抱けなかった。%K%P
-There are no shadows, no colors, no sound, and I don't%Neven have confidence that I actually exist here right%Nnow.%K%P
+There are no shadows, no colors, no sound, and I don't even have confidence that I actually exist here right now.%K%P
 0xAEC
 オレの意識は空気のように軽く、一陣の風に吹き消されてしまってもおかしくはなかった。%K%P
-My consciousness feels as light as air right now, to the%Npoint that that it wouldn't be surprising at all if it were%Nblown out by a single gust of wind.%K%P
+My consciousness feels as light as air right now, to the point that that it wouldn't be surprising at all if it were blown out by a single gust of wind.%K%P
 0xAF8
 オレはただ、茫然と空を眺めていた。%K%P
 Dumbfounded, I just stare off blankly into space.%K%P
@@ -435,7 +435,7 @@ I've lost all my senses...%K%P
 Before I know it, I'm back at Lunabeach.%K%P
 0xBB4
 あたりはすっかりと、闇に呑まれていた。%K%P
-My surroundings have been completely swallowed by%Ndarkness.%K%P
+My surroundings have been completely swallowed by darkness.%K%P
 0xBC0
 どうやってここまでたどりついたのか、まったく覚えていない。%K%P
 I don't even remember how I got here.%K%P
@@ -447,7 +447,7 @@ There's a few dishes spread out on the table.%K%P
 As usual, Izumi-san is sitting across from me.%K%P
 0xBE4
 いづみさんは何かを話しながら、料理を口へと運んでいた。%K%P
-Izumi-san is alternating between saying something and%Neating.%K%P
+Izumi-san is alternating between saying something and eating.%K%P
 0xBF8
 いづみ「ねえ、誠くん？　ちゃんと聞いてるの？」%K%P
 Izumi「Hey, Makoto-kun? Are you listening?」%K%P
@@ -507,7 +507,7 @@ Izumi「She's staying over there today...」%K%P
 Makoto「Oh, I see...」%K%P
 0xCEC
 誠「確か前のこの日も、くるみはロッジに……」%K%P
-Makoto「It's true, Kurumi did go to the lodge this day on the last%Nloop...」%K%P
+Makoto「It's true, Kurumi did go to the lodge this day on the last loop...」%K%P
 0xCF8
 いづみ「その話も、今したばかりでしょ？」%K%P
 Izumi「We just had this conversation.」%K%P
@@ -525,7 +525,7 @@ Makoto「No, nothing...」%K%P
 I reply immediately.%K%P
 0xD3C
 今、神社のことを話すわけにはいかないと、瞬時に判断を下した。%K%P
-I just decided that there's absolutely no way I can tell%Nher about the shrine.%K%P
+I just decided that there's absolutely no way I can tell her about the shrine.%K%P
 0xD48
 いづみ「ほんとに？」%K%P
 Izumi「Really?」%K%P
@@ -546,16 +546,16 @@ Makoto「I'm just a little tired...」%K%P
 I really am a liar.%K%P
 0xD90
 穏やかないづみさんの表情を見て、本当のことを言えるわけがないと思った。%K%P
-But looking at Izumi-san's gentle expression, there's no%Nway I can tell her the truth.%K%P
+But looking at Izumi-san's gentle expression, there's no way I can tell her the truth.%K%P
 0xDAC
 今日の午前中、鈴のことを話したとき……あのときのいづみさんの様子を、オレは忘れてはいなかった。%K%P
-I haven't forgotten Izumi-san's reaction... when I told her%Nabout the bell this morning.%K%P
+I haven't forgotten Izumi-san's reaction... when I told her about the bell this morning.%K%P
 0xDB8
 これ以上、余計な心配をかけたくはなかったのだ。%K%P
 I don't want to give her more things to worry about.%K%P
 0xDCC
 今日の午前中、鈴のことを隠したのと同じように、いづみさんをむやみに心配させたくはなかったのだ。%K%P
-Like this morning, I'm hiding it because I don't want to give%NIzumi-san more things to worry about.%K%P
+Like this morning, I'm hiding it because I don't want to give Izumi-san more things to worry about.%K%P
 0xDE0
 いづみ「そうよね……」%K%P
 Izumi「That's right...」%K%P
@@ -609,7 +609,7 @@ Izumi「Really? That's good...」%K%P
 I silently continue to eat the food.%K%P
 0xECC
 明るく振る舞いながらも、頭の中は混乱の極致だった。%K%P
-Although I'm attempting to act cheerful, my mind is%Ncompletely chaotic.%K%P
+Although I'm attempting to act cheerful, my mind is completely chaotic.%K%P
 0xED8
 ──虚構か？　──現実か？%K%N
 ―Is this fiction? ―Is this reality?%K%N
@@ -621,7 +621,7 @@ Although I'm attempting to act cheerful, my mind is%Ncompletely chaotic.%K%P
 Just what meaning does this world have to me?%K%P
 0xEFC
 叫び出したいぐらいの渾沌の渦に、巻き込まれていた。%K%P
-My confusion is like a whirlpool that is slowly sucking me%Nin.%K%P
+My confusion is like a whirlpool that is slowly sucking me in.%K%P
 0xF08
 そんなオレのことを、いづみさんは優しい眼差しで見つめていた。%K%P
 Izumi-san is kindly gazing at me.%K%P

@@ -50,7 +50,7 @@ def main():
   # Warning: only works on a clean BOOT.BIN
 
   if len(sys.argv) != 5:
-    exit("Usage: %s translation.txt source-BOOT.BIN output-BOOT.BIN en|cn")
+    exit("Usage: %s translation.txt source-BOOT.BIN output-BOOT.BIN <lang>")
 
   global text_area
   if "GAME" in os.environ:
@@ -105,9 +105,7 @@ def main():
         continue
     elif (state == TL):
       state = JP
-      if ln == "":
-        continue
-      tl_text = ln
+      tl_text = ln if ln else jap_text
       # print(jap_text, en_text, size)
       if (off != None):
         patch_pos(bin_bytes, off, tl_text, size, lang)

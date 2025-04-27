@@ -7,6 +7,7 @@ ISO_BIN_DIR=${GAME}_iso_extracted/PSP_GAME/SYSDIR
 WORKDIR=./workdir-${GAME}
 COMPRESS=./bin/compressbip
 REPACK_AFS=./bin/repack_afs
+PACK_CNT=./bin/pack_cnt
 REPACK_SCENE=text/repack_scene.py
 ARMIPS=./tools/armips
 SIGN_NP=./tools/sign_np # placeholder
@@ -75,21 +76,68 @@ compose_font () {
 		cp -f text/font/${GAME}/glyphs/* text/font/${GAME}-${TL_SUFFIX}/glyphs/
 	fi
 	cd text/font/${GAME}-${TL_SUFFIX}
-	cp -f ../glyphs-new/* glyphs/
-	if [ "cn" = "$TL_SUFFIX" ]; then
-		7z x ../glyphs-cn.7z
-		mv -f ../glyphs-cn/* glyphs/
-	else
-		cp ../glyphs-en/* glyphs/
+	[ -d "../glyphs-${TL_SUFFIX}" ] && cp -f ../glyphs-${TL_SUFFIX}/* glyphs/
+	if [ -e "../glyphs-${TL_SUFFIX}.tar.gz" ]; then
+		tar -xzf ../glyphs-${TL_SUFFIX}.tar.gz -C ../
+		mv -f ../glyphs-${TL_SUFFIX}/* glyphs/
+		rmdir ../glyphs-${TL_SUFFIX}/
 	fi
 	$PY ../../../py-src/extract_font.py repack glyphs/ || exit 1
 	cp FONT00.NEW ../../../${GAME}_etc_${TL_SUFFIX}/FONT00.NEW
 	cd ../../..
 }
 
+repack_cnt () {
+	for i in etc-${GAME}-${TL_SUFFIX}/*/ ; do
+		[ -d "$i" ] || continue
+		f=${i#*/}; f=${f%%/}
+		[ "$f" = "TEX" ] && continue
+		if [ ! -d "${GAME}_etc/${f}" ]; then
+			echo "$f has not been unpacked"
+			exit 1
+		fi
+		mkdir -p ${GAME}_etc_${TL_SUFFIX}/${f}
+		[ -d "${GAME}_etc/${f}" ] && cp ${GAME}_etc/${f}/*.* ${GAME}_etc_${TL_SUFFIX}/${f}/
+		ls $i/*.BIN >/dev/null 2>&1 && cp $i/*.BIN ${GAME}_etc_${TL_SUFFIX}/${f}/
+		for j in $i/*.GIM; do
+			[ -e "$j" ] || break
+			cp $j ${GAME}_etc_${TL_SUFFIX}/${f}/$(basename $j .GIM).BIN
+		done
+		$PACK_CNT ${GAME}_etc_${TL_SUFFIX}/$f.CNT ${GAME}_etc_${TL_SUFFIX}/${f}/*.* || exit 1
+		$COMPRESS ${GAME}_etc_${TL_SUFFIX}/$f{.CNT,.BIP} || exit 1
+		if [ ! -d "${GAME}_etc_${TL_SUFFIX}/TEX" ] && ([ "$f" = "INFO" ] || [ "$f" = "TEXT" ] ||
+			[ "$f" = "GAME" ] || [ "$f" = "OPTION" ] || [ "$f" = "TIPS" ]); then
+			cp -r ${GAME}_etc/TEX ${GAME}_etc_${TL_SUFFIX}/TEX
+		fi
+		if [ "$f" = "INFO" ]; then
+			cp ${GAME}_etc_${TL_SUFFIX}/$f.BIP ${GAME}_etc_${TL_SUFFIX}/TEX/001.BIN
+		elif [ "$f" = "TEXT" ]; then
+			cp ${GAME}_etc_${TL_SUFFIX}/$f.BIP ${GAME}_etc_${TL_SUFFIX}/TEX/002.BIN
+		elif [ "$f" = "GAME" ]; then
+			cp ${GAME}_etc_${TL_SUFFIX}/$f.BIP ${GAME}_etc_${TL_SUFFIX}/TEX/003.BIN
+		elif [ "$f" = "OPTION" ]; then
+			cp ${GAME}_etc_${TL_SUFFIX}/$f.BIP ${GAME}_etc_${TL_SUFFIX}/TEX/004.BIN
+		elif [ "$f" = "TIPS" ]; then
+			cp ${GAME}_etc_${TL_SUFFIX}/$f.BIP ${GAME}_etc_${TL_SUFFIX}/TEX/005.BIN
+		fi
+	done
+	if [ -d "${GAME}_etc_${TL_SUFFIX}/TEX" ]; then
+		if [ -d "etc-${GAME}-${TL_SUFFIX}/TEX" ]; then
+			ls etc-${GAME}-${TL_SUFFIX}/TEX/*.BIN >/dev/null 2>&1 && cp etc-${GAME}-${TL_SUFFIX}/TEX/*.BIN ${GAME}_etc_${TL_SUFFIX}/TEX/
+			for i in etc-${GAME}-${TL_SUFFIX}/TEX/*.GIM; do
+				[ -e "$i" ] || break
+				cp $i ${GAME}_etc_${TL_SUFFIX}/TEX/$(basename $i .GIM).BIN
+			done
+		fi
+		$PACK_CNT ${GAME}_etc_${TL_SUFFIX}/TEX.CNT ${GAME}_etc_${TL_SUFFIX}/TEX/*.* || exit 1
+		$COMPRESS ${GAME}_etc_${TL_SUFFIX}/TEX{.CNT,.BIP} || exit 1
+	fi
+}
+
 # repack_etc_afs repacks etc.afs with the new font file from "compose_font"
 repack_etc_afs () {
 	compose_font
+	repack_cnt
 
 	if [ -f ${GAME}_etc_${TL_SUFFIX}/FONT00.NEW ]; then
 	$COMPRESS ${GAME}_etc_${TL_SUFFIX}/FONT00.NEW ${GAME}_etc_${TL_SUFFIX}/FONT00.FOP
@@ -120,6 +168,20 @@ patch_boot_bin () {
 	# Apply translation
 	echo "Applying translation to BOOT"
 	$PY ./py-src/apply_boot_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/BOOT.utf8.txt $WORKDIR/BOOT.BIN $WORKDIR/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX} || exit 1
+
+	if [ -e "./nowloading/nowloading-${TL_SUFFIX}.gim" ]; then
+		if [ "$GAME" = "e17" ]; then
+			NOWLOADING_OFF=1140832
+		elif [ "$GAME" = "n7" ]; then
+			NOWLOADING_OFF=1131392
+		elif [ "$GAME" = "r11" ]; then
+			NOWLOADING_OFF=1147696
+		fi
+		if [ -n "${NOWLOADING_OFF}" ]; then
+			echo "Applying nowloading image patch"
+			dd oflag=seek_bytes conv=notrunc seek=${NOWLOADING_OFF} if=./nowloading/nowloading-${TL_SUFFIX}.gim of=$WORKDIR/BOOT.BIN.${TL_SUFFIX}
+		fi
+	fi
 
 	echo "Applying other patches to BOOT"
 	mv -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} $WORKDIR/BOOT.BIN.patched
@@ -155,6 +217,10 @@ repack_e17_se_afs () {
 
 repack_bg_afs () {
 	mkdir -p ${GAME}_bg_${TL_SUFFIX}
+	for i in bg-${GAME}-${TL_SUFFIX}/*.PNG ; do
+		[ ! -f $i ] && break
+		$PY ./py-src/to_r11.py $i bg-${GAME}-${TL_SUFFIX}/$(basename $i .PNG).R11 || exit 1
+	done
 	for i in bg-${GAME}-${TL_SUFFIX}/*.R11 ; do
 		[ ! -f $i ] && break
 		$COMPRESS $i ${GAME}_bg_${TL_SUFFIX}/$(basename $i .R11).BIP || exit 1
@@ -170,6 +236,10 @@ repack_bg_afs () {
 
 repack_ev_afs () {
 	mkdir -p ${GAME}_ev_${TL_SUFFIX}
+	for i in ev-${GAME}-${TL_SUFFIX}/*.PNG ; do
+		[ ! -f $i ] && break
+		$PY ./py-src/to_r11.py $i ev-${GAME}-${TL_SUFFIX}/$(basename $i .PNG).R11 || exit 1
+	done
 	for i in ev-${GAME}-${TL_SUFFIX}/*.R11 ; do
 		[ ! -f $i ] && break
 		$COMPRESS $i ${GAME}_ev_${TL_SUFFIX}/$(basename $i .R11).BIP || exit 1

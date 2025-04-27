@@ -9,7 +9,7 @@ I return to my room, and think about Haruka.%K%P
 Yuka's words are bothering me.%K%N
 0x7C
 遙が自分を特別な存在だと思い込んでいる？%K%N
-Haruka's under the impression that she's a special%Nbeing?%K%N
+Haruka's under the impression that she's a special being?%K%N
 0x88
 そんなバカな！%K%P
 That's ridiculous!%K%P
@@ -30,52 +30,52 @@ Makoto「Yeah, go ahead... What is it?」%K%P
 Izumi「I heard the story from Yuka-chan about Haruka...」%K%P
 0x154
 誠「ああ、そのことはもういいんです……%Nただ、遙のことはやっぱちょっとショックって言うか……いや、オレは、遙は遙だと思ってますけど」%K%P
-Makoto「Yeah, it doesn't matter anymore... We were just a little%Nshocked to hear the truth about Haruka... No, I think that%NHaruka is Haruka.」%K%P
+Makoto「Yeah, it doesn't matter anymore... We were just a little shocked to hear the truth about Haruka... No, I think that Haruka is Haruka.」%K%P
 0x160
 いづみ「誠くんは、人間もクローンも違わないって思いたいのね？」%K%P
-Izumi「Do you want to think that there's no difference between%Nhumans and clones?」%K%P
+Izumi「Do you want to think that there's no difference between humans and clones?」%K%P
 0x16C
 誠「いづみさんは違うって思ってるんですか？」%K%P
 Makoto「Do you think there's a difference?」%K%P
 0x178
 いづみ「そうじゃないけど、ただ明確に違うって思われてた時代はあったのよ」%K%P
-Izumi「No, but there was a time where people clearly thought%Ndifferently.」%K%P
+Izumi「No, but there was a time where people clearly thought differently.」%K%P
 0x184
 誠「いや、けど……！」%K%P
 Makoto「No, but...!」%K%P
 0x190
 いづみ「誠くん、今みたいにクローン受精が自由になったきっかけって知ってる？」%K%P
-Izumi「Makoto-kun, do you know what the trigger was that made%Nclone fertilization legal?」%K%P
+Izumi「Makoto-kun, do you know what the trigger was that made clone fertilization legal?」%K%P
 0x19C
 誠「いえ……」%K%P
 Makoto「No...」%K%P
 0x1A8
 いづみ「クローン取締法があった頃ね、それでも自分の息子のクローンを作った科学者がいたのよ。%N事故で死んじゃった息子に、どうしてももう一度会いたかったんだって……」%K%P
-Izumi「Even though the Clone Control Law was still in effect, a%Nscientist made a clone of his son, who died in an%Naccident. He just wanted to see his son again, no matter%Nthe cost...」%K%P
+Izumi「Even though the Clone Control Law was still in effect, a scientist made a clone of his son, who died in an accident. He just wanted to see his son again, no matter the cost...」%K%P
 0x1B4
 誠「……」%K%P
 Makoto「...」%K%P
 0x1C0
 いづみ「けどその秘密が洩れて、裁判にかけられた。%Nそしていったんは無期懲役が決まったのね。%Nそれくらい極めて重大な違法行為だった%Nわけなんだけど……」%K%P
-Izumi「But when his secret leaked out, he was put on trial. He%Nwas sentenced to life imprisonment. That much was%Nconsidered to be an extremely serious crime...」%K%P
+Izumi「But when his secret leaked out, he was put on trial. He was sentenced to life imprisonment. That much was considered to be an extremely serious crime...」%K%P
 0x1CC
 誠「そんなに……」%K%P
 Makoto「No way...」%K%P
 0x1D8
 いづみ「ところがそのクローンの少年の証言内容が報道されると、世論が一気にひっくり返って、最終的には法律を改正させるだけの力になったの」%K%P
-Izumi「However, when the contents of the cloned boy's%Ntestimony was reported, there was a complete turnover%Nof public opinion, which grew powerful enough to lead to%Nthe amendment of the law.」%K%P
+Izumi「However, when the contents of the cloned boy's testimony was reported, there was a complete turnover of public opinion, which grew powerful enough to lead to the amendment of the law.」%K%P
 0x1E4
 誠「そのクローン少年は、何て言ったんですか？」%K%P
 Makoto「What did that cloned boy say?」%K%P
 0x1F0
 いづみ「パパは何も悪いことなんかしてない。%N僕はパパに感謝してる。だって、僕の命はパパが与えてくれたものだから……」%K%P
-Izumi「'Papa didn't do anything wrong. I'm so grateful to Papa.%NBecause Papa is the one who gave me this life...'」%K%P
+Izumi「'Papa didn't do anything wrong. I'm so grateful to Papa. Because Papa is the one who gave me this life...'」%K%P
 0x1FC
 誠「それが９年前ですか……いづみさん、ずいぶん詳しく覚えてるんですね」%K%P
-Makoto「That was nine years ago... Izumi-san, you remember this%Nquite well.」%K%P
+Makoto「That was nine years ago... Izumi-san, you remember this quite well.」%K%P
 0x208
 いづみ「私の父親、一応遺伝子工学の権威だから。その……ホラ、ただの受け売り」%K%P
-Izumi「My father is currently the authority on genetic%Nengineering. I'm... I'm just repeating what he told me.」%K%P
+Izumi「My father is currently the authority on genetic engineering. I'm... I'm just repeating what he told me.」%K%P
 0x234
 （父親が遺伝子工学の権威……？）%K%P
 (Her father is the authority on genetic engineering...?)%K%P
@@ -96,13 +96,13 @@ Izumi-san's father is...%K%N
 ―Dr. Shigezo Morino!?%K%P
 0x27C
 確か守野博士って、何十年か前にヒトゲノム計画に参加して、ＤＮＡシークエンスの画期的な解析法を発見した人物だったよな？%K%P
-If I'm not mistaken, several decades ago, Dr. Morino%Nparticipated in the Human Genome Project, and was the%None who discovered the ground breaking analysis for%Nthe DNA sequence, right?%K%P
+If I'm not mistaken, several decades ago, Dr. Morino participated in the Human Genome Project, and was the one who discovered the ground breaking analysis for the DNA sequence, right?%K%P
 0x288
 世間って狭いんだな……って、そんな事考えている場合かっ！　話を元に戻さなきゃ……。%K%P
-I guess it's a small world after all... wait, I have no time to%Nthink about that! I need to get back on topic...%K%P
+I guess it's a small world after all... wait, I have no time to think about that! I need to get back on topic...%K%P
 0x294
 誠「けどそういう時代は過ぎたわけでしょう？　もう過去のことでしょ？　もう自由になったんだ。人間だクローンだって、何も気にする必要ないですよ」%K%P
-Makoto「But aren't we past that era already? It's all in the past,%Nisn't it? They've been freed. Human or clone, there's%Nnothing we need to worry about anymore.」%K%P
+Makoto「But aren't we past that era already? It's all in the past, isn't it? They've been freed. Human or clone, there's nothing we need to worry about anymore.」%K%P
 0x2A0
 いづみ「それ……ちょっと違うかもしれない」%K%P
 Izumi「That... might not quite be right.」%K%P
@@ -111,40 +111,40 @@ Izumi「That... might not quite be right.」%K%P
 Makoto「Huh?」%K%P
 0x2B8
 いづみ「私の友達にもクローンがいたのね。%N夢美ちゃんっていって、私、ユメちゃんって呼んでたんだけど……その子がある日告白してくれたの、凄い深刻な顔して……」%K%P
-Izumi「My friend was also a clone. Her name was Yumemi-chan,%Nbut I called her Yume-chan... When she confessed the%Ntruth to me, she was quite solemn...」%K%P
+Izumi「My friend was also a clone. Her name was Yumemi-chan, but I called her Yume-chan... When she confessed the truth to me, she was quite solemn...」%K%P
 0x2C4
 誠「うん」%K%P
 Makoto「Makes sense.」%K%P
 0x2D0
 いづみ「だから、私、そんなの気にしない、ユメちゃんはユメちゃんよって、言ってあげたの。%N実際、そう思ってたしね。そしたらユメちゃん、ちょっと悲しそうな顔したのね」%K%P
-Izumi「That's why I told Yume-chan not to worry about it, that%NYume-chan was Yume-chan. That's really what I thought.%NWhen I did that, Yume-chan's face grew a little sad.」%K%P
+Izumi「That's why I told Yume-chan not to worry about it, that Yume-chan was Yume-chan. That's really what I thought. When I did that, Yume-chan's face grew a little sad.」%K%P
 0x2DC
 誠「何で？」%K%P
 Makoto「Why?」%K%P
 0x2E8
 いづみ「たぶん、だけど……ユメちゃんにとって、なんか自分がなくなっちゃうような感じだったんじゃないかなって、今になって思う」%K%P
-Izumi「Now, I think it's probably... because Yume-chan felt like%Nshe had lost herself somehow.」%K%P
+Izumi「Now, I think it's probably... because Yume-chan felt like she had lost herself somehow.」%K%P
 0x2F4
 誠「よくわからないな……」%K%P
 Makoto「I don't get it...」%K%P
 0x300
 いづみ「だって本人としては思い切ったわけでしょう。%N法律ではいいってことになったって言っても、そう簡単に変わらないじゃない、人の気持ちって……」%K%P
-Izumi「Because she'd given up. The law said it was all right, but%Npeople's feelings don't change that simply...」%K%P
+Izumi「Because she'd given up. The law said it was all right, but people's feelings don't change that simply...」%K%P
 0x30C
 誠「じゃあ大袈裟に驚いたり、特別扱いしたりしたほうがよかったってことですか？」%K%P
-Makoto「Then would it have been better to give her special%Ntreatment?」%K%P
+Makoto「Then would it have been better to give her special treatment?」%K%P
 0x318
 いづみ「そういうわけじゃないと思うけど……う〜ん、そういうとこもあるのかな？」%K%P
-Izumi「I don't think it was like that, but... Hmm, maybe I should%Nhave done so?」%K%P
+Izumi「I don't think it was like that, but... Hmm, maybe I should have done so?」%K%P
 0x324
 誠「オレに訊かれても……」%K%P
 Makoto「Even if you ask me...」%K%P
 0x330
 いづみ「そうね……けど、ユメちゃんとしては、クローンだってこと、どうでもいいって言われるほうがショックだったんじゃないかな」%K%P
-Izumi「Right... But to Yume-chan, as clone, being told that it%Ndidn't matter may have been an even bigger shock.」%K%P
+Izumi「Right... But to Yume-chan, as clone, being told that it didn't matter may have been an even bigger shock.」%K%P
 0x344
 オレは、返す言葉を失ってしまった。また、遙のことが心に浮かんだ。%K%P
-I'm at a loss for words. Once again, Haruka appears in my%Nmind.%K%P
+I'm at a loss for words. Once again, Haruka appears in my mind.%K%P
 0x350
 だから遙もあの時、嬉しいと言いながら、あまり嬉しそうじゃなかったんだろうか？　%K%P
-So back then, did Haruka lie when she said she was%Nhappy?%K%P
+So back then, did Haruka lie when she said she was happy?%K%P

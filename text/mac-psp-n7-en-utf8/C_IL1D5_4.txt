@@ -6,10 +6,10 @@ text area offset and size:
 In the end, I couldn't get any sleep after that.%K%P
 0x8C
 部屋の中で、いてもたってもいられなくなったオレは、ルナビーチの開店時刻を待って、ここにやって来た。%K%P
-Staying in my room became unbearable, so I headed%Nover to Lunabeach to wait for it to open.%K%P
+Staying in my room became unbearable, so I headed over to Lunabeach to wait for it to open.%K%P
 0x98
 とにかく、一刻も早くいづみさんの笑顔が見たかったのだ。%K%P
-At any rate, I want to see Izumi-san's smile as soon as%Npossible.%K%P
+At any rate, I want to see Izumi-san's smile as soon as possible.%K%P
 0xA4
 オレは店の前に立ち、力強くそのドアを開いた。%K%P
 I stand in front of the shop, and bolt open the door.%K%P
@@ -45,7 +45,7 @@ I hesitate.%K%P
 Should I just tell her the truth?%K%P
 0x180
 あの夢のことは、肝だめしの晩に、いづみさんに教えた。%K%P
-After all, I told Izumi-san about my dream during the Test%Nof Courage.%K%P
+After all, I told Izumi-san about my dream during the Test of Courage.%K%P
 0x18C
 だけど『夢に出て来たのはいづみさんだった』なんて、そんなこと……。%K%P
 But to say 「Izumi-san was the one in my dream」, or...%K%P
@@ -75,19 +75,19 @@ Izumi「As you can see, there's no customers here...」%K%P
 Makoto「...」%K%P
 0x210
 いづみ「あっ、見ての通りって言うより、いつもの通りって言った方がいいかな？」%K%P
-Izumi「Oh, rather than 'as you can see', maybe it would be%Nbetter for me to say 'as usual'?」%K%P
+Izumi「Oh, rather than 'as you can see', maybe it would be better for me to say 'as usual'?」%K%P
 0x21C
 髪を右手でなでながら、いづみさんはそう言った。%K%P
-Izumi-san says this as she runs her right hand through%Nher hair.%K%P
+Izumi-san says this as she runs her right hand through her hair.%K%P
 0x254
 いづみさんにうながされるまま、オレはオープンテラスの席に腰をおろした。%K%P
-Upon Izumi-san's urging, I sit down on a chair on the%Nterrace.%K%P
+Upon Izumi-san's urging, I sit down on a chair on the terrace.%K%P
 0x260
 いづみさんは、煎れたての紅茶を２人分持って、オレの向かい側の席に座った。%K%P
-She brings two cups of tea, and sits down in the seat%Nopposite of me.%K%P
+She brings two cups of tea, and sits down in the seat opposite of me.%K%P
 0x26C
 その肩越しに見える空は、どんよりと鈍く曇っていた。%K%P
-The sky that I can see over her shoulder is thick with%Nclouds.%K%P
+The sky that I can see over her shoulder is thick with clouds.%K%P
 0x280
 いづみ「誠くん……？」%K%P
 Izumi「Makoto-kun...?」%K%P
@@ -105,7 +105,7 @@ Izumi「If not, would you like me to make some?」%K%P
 I silently shake my head.%K%P
 0x2BC
 この状況で、食事がノドを通るとは思えなかったから。%K%P
-In this situation, I don't think I'd be able to swallow%Nanything.%K%P
+In this situation, I don't think I'd be able to swallow anything.%K%P
 0x2D0
 いづみ「じゃあ……そうだっ、トランプでもしましょうか？」%K%P
 Izumi「Then... I know, how about a game of cards?」%K%P
@@ -114,7 +114,7 @@ Izumi「Then... I know, how about a game of cards?」%K%P
 Makoto「... Cards?」%K%P
 0x2F0
 オレの言葉には答えず、いづみさんは席を立ってカウンターに向かった。%K%P
-Without responding to me, Izumi-san stands up and%Nheads for the counter.%K%P
+Without responding to me, Izumi-san stands up and heads for the counter.%K%P
 0x2FC
 やがて……%K%P
 Before long...%K%P
@@ -123,7 +123,7 @@ Before long...%K%P
 Izumi「One of the customers yesterday forgot them.」%K%P
 0x31C
 ……妙にかん高い声をあげながら、いづみさんはトランプを持って戻って来た。%K%P
-... Izumi-san returns holding a deck of cards while%Nspeaking in a strange, shrill voice.%K%P
+... Izumi-san returns holding a deck of cards while speaking in a strange, shrill voice.%K%P
 0x330
 いづみ「何しようか？」%K%P
 Izumi「What shall we play?」%K%P
@@ -141,13 +141,13 @@ Makoto「...」%K%P
 Izumi「Or how about Old Maid?」%K%P
 0x374
 いづみ「あっ……２人でやっても、オモシロクないわね？」%K%P
-Izumi「Oh... but there's only two of us, so it probably won't be%Nany fun.」%K%P
+Izumi「Oh... but there's only two of us, so it probably won't be any fun.」%K%P
 0x380
 いづみさんが、ほほ笑みかける。%K%P
 Izumi-san continues to smile.%K%P
 0x38C
 けれど、その笑顔を見れば見るほど、オレの心はしくしくと痛んだ。%K%P
-However, when I look at that smile, I feel a dull pain in my%Nheart.%K%P
+However, when I look at that smile, I feel a dull pain in my heart.%K%P
 0x398
 （やっぱり……言ったほうがいいのかな……？）%K%P
 (Would it be better if I told her... after all...?)%K%P
@@ -174,7 +174,7 @@ Makoto「Huh...?」%K%P
 Izumi「What I said yesterday...」%K%P
 0x418
 いづみ「こんなふうにギクシャクするのなら、言わなければよかった……」%K%P
-Izumi「If I knew things would have gotten this awkward, I wouldn't%Nhave said it...」%K%P
+Izumi「If I knew things would have gotten this awkward, I wouldn't have said it...」%K%P
 0x424
 いづみ「ごめんね？　誠くん……」%K%P
 Izumi「I'm sorry, Makoto-kun...」%K%P
@@ -186,7 +186,7 @@ Makoto「No, don't...」%K%P
 Izumi「It was always like this in the past...」%K%P
 0x448
 いづみ「相手の迷惑も考えないで……好きになると……どうしても抑え切れなくなっちゃって……」%K%P
-Izumi「I never thought that I'd be a bother to the ones I like...%Nand I couldn't stop myself... from falling in love with them,%Nno matter what...」%K%P
+Izumi「I never thought that I'd be a bother to the ones I like... and I couldn't stop myself... from falling in love with them, no matter what...」%K%P
 0x454
 誠「いづみさん……違うよ……」%K%P
 Makoto「Izumi-san... you're wrong...」%K%P
@@ -201,7 +201,7 @@ Izumi「It's fine... really...」%K%P
 Izumi「It's really all right...」%K%P
 0x484
 いづみ「そもそも最初から、私にはそんな資格、なかったんだもの」%K%P
-Izumi「In the first place, I didn't have those qualifications to%Nstart with.」%K%P
+Izumi「In the first place, I didn't have those qualifications to start with.」%K%P
 0x490
 資格……？%K%P
 Qualifications...?%K%P
@@ -225,7 +225,7 @@ Izumi「I'm really... sorry...」%K%P
 With that, Izumi-san shuts her mouth.%K%P
 0x4EC
 じっとうつむいたまま、トランプの角を指先でなぞっていた。%K%P
-She casts her eyes downwards, tracing her finger along%Nthe edges of the cards.%K%P
+She casts her eyes downwards, tracing her finger along the edges of the cards.%K%P
 0x4F8
 オレは……。%K%N
 I...%K%N
@@ -237,7 +237,7 @@ I don't know what I should do.%K%P
 Izumi-san's feelings have reached my heart.%K%P
 0x538
 だけど、その気持ちにこたえる前に、オレには考えなければならないことがあった。%K%P
-But before I can answer those feelings, there's%Nsomething I have to think about first.%K%P
+But before I can answer those feelings, there's something I have to think about first.%K%P
 0x544
 今のオレには、他のことを判断するだけの余裕なんか無いのだ。%K%P
 Right now, I don't have the time to consider anything else.%K%P
@@ -249,7 +249,7 @@ Right now, I don't have the time to consider anything else.%K%P
 That's what my instincts are telling me.%K%P
 0x568
 いづみさんが予知のことを信じているのかどうかはわからないが、いずれにせよ、この状況で『夢』のことを告げたら、きっと取り返しのつかないことになる。%K%P
-I don't know whether Izumi-san believes what I said about%Nmy premonitions or not, but at any rate, if I were to tell%Nher about the 「dream」, she'd surely freak out.%K%P
+I don't know whether Izumi-san believes what I said about my premonitions or not, but at any rate, if I were to tell her about the 「dream」, she'd surely freak out.%K%P
 0x574
 昨日の晩、あの満天の星空の下で、いづみさんはこう言ったのだ。%K%P
 Last night, under the starry sky, Izumi-san said this.%K%P
@@ -285,10 +285,10 @@ When she does that, tears fall from her eyes.%K%P
 They crash onto the table...%K%P
 0x610
 いづみさんは肩を揺らしながら、そのしずくの跡を何度も何度も手の平で拭った。%K%P
-As Izumi-san's shoulders tremble, she keeps wiping%Naway the traces of her tears with her palm over and%Nover again.%K%P
+As Izumi-san's shoulders tremble, she keeps wiping away the traces of her tears with her palm over and over again.%K%P
 0x61C
 しかし拭っても拭っても、なお涙はこぼれ落ちていく……。%K%P
-But no matter how many times she does it, new tears just%Nreplace the old ones...%K%P
+But no matter how many times she does it, new tears just replace the old ones...%K%P
 0x628
 （いづみさん……）%K%P
 (Izumi-san...)%K%P
@@ -312,16 +312,16 @@ Yes... I remember it clearly.%K%P
 Izumi-san's words on the night of the Test of Courage...%K%P
 0x67C
 『大丈夫……%N誠くんは、何も心配しなくていいから……』%K%P
-「It's all right... because you have nothing to worry about,%NMakoto-kun...」%K%P
+「It's all right... because you have nothing to worry about, Makoto-kun...」%K%P
 0x688
 あのときの包み込むような優しさを、%T030ぬくもりを、%T030オレは決して忘れたりはしない。%K%P
-I will never forget the kindness and warmth she%Nenveloped me in back then.%K%P
+I will never forget the kindness and warmth she enveloped me in back then.%K%P
 0x694
 ここにきて、オレはようやく気づくことができた。%K%P
 When I came here, I was finally able to realize it.%K%P
 0x6A0
 いづみさんという人が、オレにとって、かけがえのない、大切な存在であるということに……。%K%P
-Izumi-san is a person who, to me, cannot be replaced, an%Nimportant existence...%K%P
+Izumi-san is a person who, to me, cannot be replaced, an important existence...%K%P
 0x6E8
 ………………。%N…………。%N……。%K%P
 ... ... ...%K%P

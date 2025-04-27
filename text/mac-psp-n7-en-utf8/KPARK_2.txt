@@ -6,13 +6,13 @@ text area offset and size:
 Kurumi passes the afternoon telling silly stories.%K%P
 0x4C
 みんながぞろぞろと帰って来たのは、昼食を食べ終えてから、３時間ほど経った頃だった……。%K%P
-When everyone gets back, it's been over three hours%Nsince lunch ended...%K%P
+When everyone gets back, it's been over three hours since lunch ended...%K%P
 0x88
 優夏「ぎゃはははははははっ♪」%K%P
 Yuka「Gyahahahahahahaha♪」%K%P
 0x94
 何があったのか知らないが、優夏はひとり、テレビショッピングの観客のオバちゃんみたいな大笑いを続けていた。%K%P
-I don't know what happened, but Yuka is laughing loudly%Nlike an old lady on a shopping show.%K%P
+I don't know what happened, but Yuka is laughing loudly like an old lady on a shopping show.%K%P
 0xA0
 誠「おい、優夏？　ちょっと声が大きすぎやしないか？」%K%P
 Makoto「Hey, Yuka? Could you keep it down?」%K%P
@@ -27,7 +27,7 @@ Yuka smashes me on the shoulders as a response.%K%P
 (Dammit, what the hell is wrong with her...)%K%P
 0xE0
 オレは、隣に座っていたいづみさんに、優夏のことを聞いてみた。%K%P
-I try asking Izumi-san, who's sitting next to me, about%NYuka.%K%P
+I try asking Izumi-san, who's sitting next to me, about Yuka.%K%P
 0xFC
 すると……%K%P
 Just then...%K%P
@@ -39,7 +39,7 @@ Izumi「It seems she had quite a lot of beer to drink...」%K%P
 ... Izumi-san says this while looking a little disturbed.%K%N
 0x120
 話によると、優夏はプールサイドで十数杯のビールを飲み干したのだと言う。%K%P
-According to her, Yuka drank about ten-odd cups of%Nbeer at the poolside.%K%P
+According to her, Yuka drank about ten-odd cups of beer at the poolside.%K%P
 0x12C
 （そんなにも優夏は酒が強かったのか……）%K%P
 (Yuka's that resistant to alcohol, huh...)%K%P
@@ -54,13 +54,13 @@ I'm kind of amazed.%K%P
 Yuka「Kurumi-tan... Hau aah yuu feelin'?」%K%P
 0x1A4
 くるみ「うん。ちょっと横になったら、すっかり良くなっちゃった」%K%P
-Kurumi「Good! After Kurumi had a nap, she got completely%Nbetter.」%K%P
+Kurumi「Good! After Kurumi had a nap, she got completely better.」%K%P
 0x1B0
 もちろん、この言葉が嘘だというのはオレだけしか知らない。%K%P
-Of course, I'm the only one who knows those words are a%Nlie.%K%P
+Of course, I'm the only one who knows those words are a lie.%K%P
 0x1BC
 口止めの約束をオレはしっかりと守っていた。%K%P
 But as promised, I don't say a word about it.%K%P
 0x1C8
 くるみは今、病み上がりを装う為なのか、右手にマグカップを持っている。中には、薄い膜を張った牛乳が注がれていた。%K%P
-Kurumi, pretending to be recovering right now, holds a%Nmug in her right hand with a thin film of hot milk in it.%K%P
+Kurumi, pretending to be recovering right now, holds a mug in her right hand with a thin film of hot milk in it.%K%P

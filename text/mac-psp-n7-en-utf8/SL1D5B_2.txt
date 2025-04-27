@@ -30,7 +30,7 @@ Saki「Really? ... You really think that?」%K%P
 Makoto「Y-Yeah... I do. I wouldn't lie to you, Saki...」%K%P
 0xF4
 きっと、オレの顔は引きつっているに違いない。オレは沙紀と目を合わせることが出来なかった。%K%P
-I bet my face looks strained. I can't make eye contact%Nwith her either.%K%P
+I bet my face looks strained. I can't make eye contact with her either.%K%P
 0x108
 沙紀「嬉しい……」%K%P
 Saki「I'm happy...」%K%P
@@ -45,13 +45,13 @@ Those unexpected words surprise me.%K%P
 It's not like Saki to speak so honestly...%K%N
 0x138
 気持ちがそのまま、スッと口から出てきたような……そんな言葉だった。%K%P
-Those words that came directly out of her mouth... were%Nthe feelings that came straight from the bottom of her%Nheart.%K%P
+Those words that came directly out of her mouth... were the feelings that came straight from the bottom of her heart.%K%P
 0x144
 沙紀「嬉しい……例え嘘だとしても……。ううん、嘘なんだよね？　誠くん、嘘つくの下手そうだもの」%K%P
-Saki「I'm happy... even if you're lying... No, you're not lying,%Nright? You're a poor liar, after all.」%K%P
+Saki「I'm happy... even if you're lying... No, you're not lying, right? You're a poor liar, after all.」%K%P
 0x150
 少しずつだけど、沙紀はオレに心を許し始めているのだろうか？%K%P
-Even it's only a little bit, could it be that Saki is starting%Nto trust me?%K%P
+Even it's only a little bit, could it be that Saki is starting to trust me?%K%P
 0x15C
 だとしたら……オレの方こそ嬉しいよ。%K%P
 If that's the case... then I'm the happy one.%K%P
@@ -66,19 +66,19 @@ Saki「So you really do think that?」%K%P
 Saki looks at me as her eyes get damp.%K%P
 0x19C
 （ちょっと待て！　こういうときに泣くのは反則だぞ！）%K%P
-(Hold on! It's illegal to get teary-eyed on me at times like%Nthis!)%K%P
+(Hold on! It's illegal to get teary-eyed on me at times like this!)%K%P
 0x1A8
 ……などと思いながらも、オレは何も言えなくなってしまった。%K%P
 ... Although I think that, I'm unable to say anything.%K%P
 0x1B4
 沙紀「私、自分でもわかってるの。我が強いって言うか、わがままって言うか……だから可愛くないのね。１度、心を空っぽにしてみたい……」%K%P
-Saki「I know myself. I'm egotistical and selfish... that's why I'm%Nnot cute. For once, I'd just like to empty my mind...」%K%P
+Saki「I know myself. I'm egotistical and selfish... that's why I'm not cute. For once, I'd just like to empty my mind...」%K%P
 0x1C0
 誠「いいんだよ、そんなこと思わなくて……。沙紀は沙紀のままでいいんだ」%K%P
-Makoto「It's fine, I don't think of any of that at all... It's fine if you%Njust stay the way you are right now.」%K%P
+Makoto「It's fine, I don't think of any of that at all... It's fine if you just stay the way you are right now.」%K%P
 0x1CC
 誠「いろいろと、みんなには誤解されてるみたいだけど……」%K%P
-Makoto「It just seems like everyone's misunderstanding you,%Nthat's all...」%K%P
+Makoto「It just seems like everyone's misunderstanding you, that's all...」%K%P
 0x1D8
 沙紀「…………」%K%P
 Saki「...」%K%P
@@ -96,10 +96,10 @@ Saki「Stop talking about Haruka!」%K%P
 ... Saki suddenly expresses her discomfort.%K%P
 0x22C
 誠「……何で……何で遙のことになると、そんなふうになっちゃうんだよ？」%K%P
-Makoto「Why... Why do you get so worked up when it comes to%NHaruka?」%K%P
+Makoto「Why... Why do you get so worked up when it comes to Haruka?」%K%P
 0x238
 沙紀「いいからやめて！　あのクローンの話は聞きたくない……」%K%P
-Saki「It's fine, just stop it already! I don't want to hear about%Nthat clone...」%K%P
+Saki「It's fine, just stop it already! I don't want to hear about that clone...」%K%P
 0x244
 誠「……じゃあ……ひとつだけ教えてくれ」%K%P
 Makoto「... Then... just tell me one thing...」%K%P
@@ -111,13 +111,13 @@ Makoto「About that bell...」%K%P
 Saki「...」%K%P
 0x268
 誠「あの鈴……ひょっとしたら、オレにも関係があるかもしれないんだ」%K%P
-Makoto「That bell... perhaps I might have some sort of connection%Nto it as well.」%K%P
+Makoto「That bell... perhaps I might have some sort of connection to it as well.」%K%P
 0x27C
 沙紀「誠くんと？　そんな筈ないわ。……あれはただの遊びだったんだから」%K%P
-Saki「With you? That's impossible... because it's just a%Nplaything.」%K%P
+Saki「With you? That's impossible... because it's just a plaything.」%K%P
 0x288
 誠「それ、昨日も言ってたな？『ただの遊び』って……何なんだよ？」%K%P
-Makoto「You said it was just a plaything yesterday as well... what%Ndo you mean by that?」%K%P
+Makoto「You said it was just a plaything yesterday as well... what do you mean by that?」%K%P
 0x29C
 沙紀「…………………………」%K%P
 Saki「...」%K%P
@@ -138,7 +138,7 @@ Saki「Right. About that bell...」%K%P
 Makoto「But yesterday, Haruka definitely said 'give it back'...」%K%P
 0x2E4
 沙紀「１度は取り上げたからよ。けど、高波に呑まれたとき……」%K%P
-Saki「That's because I took it from her once. But it was when I%Ngot swallowed up by that wave...」%K%P
+Saki「That's because I took it from her once. But it was when I got swallowed up by that wave...」%K%P
 0x2F0
 そうか……。それで２人は、あの港の防波堤で言い争いを……。%K%P
 I see... So that's how their quarrel at the pier started...%K%P
@@ -165,7 +165,7 @@ Makoto「Saki... You're not the one who actually has it, right?」%K%P
 Saki「Wh-Why the hell would I?!」%K%P
 0x358
 誠「いや、持ってないならそれでいいんだよ……。本当に、沙紀が持ってないなら……」%K%P
-Makoto「No, if you don't have it, then it's fine... So you really don't%Nhave it...」%K%P
+Makoto「No, if you don't have it, then it's fine... So you really don't have it...」%K%P
 0x364
 沙紀「本当よ。私、誠くんには嘘なんかつかない」%K%P
 Saki「Of course. I wouldn't lie to you.」%K%P
@@ -183,10 +183,10 @@ I just promised it earlier...%K%P
 While we were talking, we pass by the front of Lunabeach.%K%P
 0x400
 すると、店じまいをしたいづみさんとくるみが、ちょうど出て来たところだった。%K%P
-When we do, Izumi-san and Kurumi come out, having just%Nclosed up shop.%K%P
+When we do, Izumi-san and Kurumi come out, having just closed up shop.%K%P
 0x40C
 話を聞くと、またロッジに夕食を作りに来てくれると言う。%K%P
-They tell us they're heading to the lodge again to cook%Ndinner.%K%P
+They tell us they're heading to the lodge again to cook dinner.%K%P
 0x418
 オレ達４人は、一緒にロッジへと向かうことにした。%K%P
 The four of us decide to head to the lodge together.%K%P
@@ -195,55 +195,55 @@ The four of us decide to head to the lodge together.%K%P
 After walking for a while, it gets dark around us.%K%P
 0x474
 夜空は厚い雲に覆われていて、月も顔を出していない。%K%P
-The dark clouds conceal the surely starry and moon-lit%Nsky.%K%P
+The dark clouds conceal the surely starry and moon-lit sky.%K%P
 0x480
 ひっそりと静まり返った坂道を登りながら、オレはいづみさんに問いかけた。%K%P
-As we ascend the silent hill road, I ask Izumi-san a%Nquestion.%K%P
+As we ascend the silent hill road, I ask Izumi-san a question.%K%P
 0x48C
 誠「来てくれるのは嬉しいんだけど、店じまいには早すぎたんじゃないんですか？」%K%P
-Makoto「I'm happy you're coming, but isn't it too early to close the%Nshop?」%K%P
+Makoto「I'm happy you're coming, but isn't it too early to close the shop?」%K%P
 0x4A0
 いづみ「今日ね？　珍しく昼間の間ずっと満員だったのよ。忙しくて疲れちゃった。だから早めに閉店って決めたの」%K%P
-Izumi「Today, the daytime hours were packed with customers%Nnonstop, a rather rare occasion. We were so busy that%Nwe got exhausted. That's why we decided to close shop%Nahead of time.」%K%P
+Izumi「Today, the daytime hours were packed with customers nonstop, a rather rare occasion. We were so busy that we got exhausted. That's why we decided to close shop ahead of time.」%K%P
 0x4B4
 くるみ「お姉ちゃん、いつもの１０倍は売り上げたって、ほくほくなんだよ。ほら、こうやって後生大事に抱えちゃってさ」%K%P
-Kurumi「Today, Onee-chan got ten times as many customers%Nthan usual, so she's really pleased with her earnings.%NShe's so paranoid that she's even hauling them around.」%K%P
+Kurumi「Today, Onee-chan got ten times as many customers than usual, so she's really pleased with her earnings. She's so paranoid that she's even hauling them around.」%K%P
 0x4C0
 なるほど……いづみさんはパンパンに膨れたハンドバッグをしっかりと抱えている。%K%P
-I see... so that's why the handbag Izumi-san's holding%Nright now is bulging so much.%K%P
+I see... so that's why the handbag Izumi-san's holding right now is bulging so much.%K%P
 0x4D4
 いづみ「うるさい。くるみが泊まりに行くなんて言うからよ」%K%P
-Izumi「Be quiet. It's because you said you were going to stay%Nover tonight.」%K%P
+Izumi「Be quiet. It's because you said you were going to stay over tonight.」%K%P
 0x4E0
 誠「泊まりって？」%K%P
 Makoto「Staying over?」%K%P
 0x4F4
 いづみ「ごめんね、誠くん？　優夏ちゃんには電話しといたんだけど、くるみが泊まりに行きたいってきかないもんだから……」%K%P
-Izumi「Oh, I'm sorry, Makoto-kun. I called Yuka-chan about this%Nearlier, but Kurumi said she wanted to go to the lodge to%Nstay over tonight, no matter what...」%K%P
+Izumi「Oh, I'm sorry, Makoto-kun. I called Yuka-chan about this earlier, but Kurumi said she wanted to go to the lodge to stay over tonight, no matter what...」%K%P
 0x500
 誠「それでいづみさんも？」%K%P
 Makoto「So you're staying over as well?」%K%P
 0x50C
 いづみ「保護者同伴。くるみが迷惑かけちゃ悪いから……」%K%P
-Izumi「I'm accompanying her as her chaperone. I'm going to%Nmake sure Kurumi doesn't cause any trouble...」%K%P
+Izumi「I'm accompanying her as her chaperone. I'm going to make sure Kurumi doesn't cause any trouble...」%K%P
 0x520
 くるみ「くるみだけでも平気ですよーだ！　お姉ちゃん、自分が行きたいだけなんだから」%K%P
-Kurumi「Kurumi would be all right even if she's alone! Onee-chan,%Nit's just because you want to go yourself.」%K%P
+Kurumi「Kurumi would be all right even if she's alone! Onee-chan, it's just because you want to go yourself.」%K%P
 0x534
 そう言ったくるみの頭を、いづみさんがコツンと軽く小突いた。%K%P
-When Kurumi says that, Izumi-san lightly pokes her on the%Nhead.%K%P
+When Kurumi says that, Izumi-san lightly pokes her on the head.%K%P
 0x548
 ぷぅっと頬を膨らませるくるみ。%K%P
 Kurumi puffs her cheeks.%K%P
 0x554
 そんな仲睦まじい姉妹の光景に、オレはくすりと笑みをこぼした。%K%P
-Seeing this scene of the two sisters acting so intimate%Ncauses me to break out into a smile.%K%P
+Seeing this scene of the two sisters acting so intimate causes me to break out into a smile.%K%P
 0x568
 だが……%K%P
 But...%K%P
 0x58C
 沙紀「いづみさんにもくるみちゃんにも、誰も来てくれって頼んでないんですけど」%K%P
-Saki「But without Izumi-san and Kurumi-chan, there's no one to%Nservice the shop if someone else comes.」%K%P
+Saki「But without Izumi-san and Kurumi-chan, there's no one to service the shop if someone else comes.」%K%P
 0x598
 ……沙紀が唐突に、そんなことを言った。%K%P
 ... Saki suddenly says this.%K%P
@@ -255,10 +255,10 @@ Izumi「Huh?」%K%P
 Kurumi「Huh?」%K%P
 0x600
 沙紀「そんなにお忙しかったんなら、もっと営業してればよかったじゃないですか？」%K%P
-Saki「If today was so busy, shouldn't you have kept the shop%Nopen for a while longer?」%K%P
+Saki「If today was so busy, shouldn't you have kept the shop open for a while longer?」%K%P
 0x614
 沙紀「いつもは開店休業なんだから、こういう時こそ稼いでおかないと危ないんじゃないんですか、あとあと……。ねえ、いづみさん？」%K%P
-Saki「After all, the shop usually doesn't get customers. So it%Nmight be bad for its future if you don't keep it open%Nduring times like this... Right, Izumi-san?」%K%P
+Saki「After all, the shop usually doesn't get customers. So it might be bad for its future if you don't keep it open during times like this... Right, Izumi-san?」%K%P
 0x630
 いづみ「ま、まあ、そうなんだけどね？　いいのよ、私、そんなに欲ないから……」%K%P
 Izumi「W-Well, maybe. But I'm not that greedy, so...」%K%P
@@ -285,7 +285,7 @@ Tell the truth.
 I still have to keep it a secret!
 0x6D4
 誠「あのバスケット……いづみさんとくるみが徹夜までして直してくれたんだぞ！？　それをお前……」%K%P
-Makoto「Don't you know... that Izumi-san and Kurumi pulled an%Nall-nighter just to fix that basket!? All for you...」%K%P
+Makoto「Don't you know... that Izumi-san and Kurumi pulled an all-nighter just to fix that basket!? All for you...」%K%P
 0x728
 沙紀「あれ……誠くんじゃなかったの？」%K%P
 Saki「That... wasn't you?」%K%P
@@ -324,7 +324,7 @@ Saki「You weren't the one who fixed it?」%K%P
 Makoto「...」%K%P
 0x810
 沙紀の迫力に、オレはたじろいだ。冷や汗が、こめかみを伝って流れ落ちる。%K%P
-Saki's intensity causes me to falter. I feel cold sweat%Nrunning down my temples.%K%P
+Saki's intensity causes me to falter. I feel cold sweat running down my temples.%K%P
 0x824
 沙紀「もしかして……」%K%P
 Saki「Could it be...」%K%P
@@ -363,13 +363,13 @@ Her thundering voice causes me to swallow my words.%K%P
 Saki lowers her head as her shoulders shake.%K%P
 0x8EC
 沙紀「これじゃ、何もかも同じじゃない……。あの時と同じじゃない……！！」%K%P
-Saki「This is all the same, isn't it... This is the same as back%Nthen...!!」%K%P
+Saki「This is all the same, isn't it... This is the same as back then...!!」%K%P
 0x8F8
 あの時、って……。%K%P
 「Back then」...%K%P
 0x904
 まさか……億彦を命の恩人だと勘違いしてた……あの時の事を言ってるのか？%K%P
-It can't be... is she talking about the time... where she%Nmistook Okuhiko as the one who saved her life?%K%P
+It can't be... is she talking about the time... where she mistook Okuhiko as the one who saved her life?%K%P
 0x910
 誠「沙紀……」%K%P
 Makoto「Saki...」%K%P
@@ -393,7 +393,7 @@ There's no way in hell that I can chase after her.%K%P
 I made the same mistake Okuhiko made.%K%P
 0x96C
 故意ではなかったとは言え、結果的には沙紀を騙していたも同然だった。%K%P
-Though I didn't have any ill intentions, I still ended up%Ndeceiving her, just like he did.%K%P
+Though I didn't have any ill intentions, I still ended up deceiving her, just like he did.%K%P
 0x978
 『人は嘘ついてばっかり』%K%N
 「Humans are just liars.」%K%N
@@ -405,10 +405,10 @@ Saki's words weigh heavily in my heart...%K%P
 After dinner, I isolate myself in my room.%K%P
 0xA18
 食後の陽気な団らん……なんて、どうしてもする気にはなれなかったのだ。%K%P
-Sitting together in a circle cheerfully after dinner... I'm not%Nin the mood for that sort of thing.%K%P
+Sitting together in a circle cheerfully after dinner... I'm not in the mood for that sort of thing.%K%P
 0xA24
 オレはベッドに寝転びながら、ぼんやりと沙紀のことを考えていた。%K%P
-As I throw myself down on the bed, my thoughts blankly%Nturn to Saki.%K%P
+As I throw myself down on the bed, my thoughts blankly turn to Saki.%K%P
 0xA4C
 と、その時、部屋のドアが静かに開いた。%K%P
 At that time, my door quietly opens.%K%P
@@ -432,7 +432,7 @@ Haruka「Even though... they went to the trouble of coming here.」%K%P
 Makoto「You mean Kurumi and Izumi-san?」%K%P
 0xAA8
 遙「来てくれてる人がいるのに、部屋にいるなんておかしい」%K%P
-Haruka「Even though we have people over here, you went back%Nto your room. It's strange.」%K%P
+Haruka「Even though we have people over here, you went back to your room. It's strange.」%K%P
 0xAB4
 誠「わかってるよ……」%K%P
 Makoto「I know...」%K%P
@@ -450,7 +450,7 @@ Haruka「Goodbye then...」%K%P
 Makoto「Haruka!」%K%P
 0xB00
 部屋を出て行こうとする遙を、オレは慌てて呼び止めた。%K%P
-I call out to Haruka to stop as she tries to leave the%Nroom.%K%P
+I call out to Haruka to stop as she tries to leave the room.%K%P
 0xB0C
 そう……。あのことを聞くために……。%K%P
 That's right... I have to ask her about it...%K%P
@@ -486,7 +486,7 @@ Makoto「Saki said that you had it...」%K%P
 Haruka「I don't have it.」%K%P
 0xB98
 誠「なあ、遙？　１日だけでいい……。あの鈴を、オレに預けてくれないか？」%K%P
-Makoto「Say, Haruka? Would you... entrust me with that bell for%Njust one day?」%K%P
+Makoto「Say, Haruka? Would you... entrust me with that bell for just one day?」%K%P
 0xBA4
 誠「理由は、聞かないでくれ……」%K%P
 Makoto「I can't tell you the reason why...」%K%P
@@ -495,13 +495,13 @@ Makoto「I can't tell you the reason why...」%K%P
 Makoto「It's just... that bell might be something very dangerous...」%K%P
 0xBC4
 と、言ってる間に、オレは遙の異変に気がついた。%K%P
-The instant I say that, I notice a change in Haruka's%Nbehavior.%K%P
+The instant I say that, I notice a change in Haruka's behavior.%K%P
 0xBD0
 遙の手が……ゆっくりと……カーディガンのボタンに伸びたのだ。%K%P
-Haruka slowly reaches... her hand out... to the buttons on%Nher cardigan.%K%P
+Haruka slowly reaches... her hand out... to the buttons on her cardigan.%K%P
 0xBDC
 何も語らぬまま、ひとつひとつ、そのボタンをはずしていく遙……。%K%P
-Remaining silent, she begins to unbutton them one by%None...%K%P
+Remaining silent, she begins to unbutton them one by one...%K%P
 0xBE8
 オレは唖然としていた。%K%P
 I am dumbfounded.%K%P
@@ -510,7 +510,7 @@ I am dumbfounded.%K%P
 (Haruka... what are you...?)%K%P
 0xC00
 ボタンをはずし終えた遙は、次にスカートのホックに手をかけた。%K%P
-When she finishes unbuttoning, Haruka begins to reach%Nfor the hook of her skirt next.%K%P
+When she finishes unbuttoning, Haruka begins to reach for the hook of her skirt next.%K%P
 0xC0C
 そこで、オレはようやく我に返った。%K%P
 And then, I finally come to my senses.%K%P
@@ -522,7 +522,7 @@ I reflexively grab Haruka's hand, stopping it from moving.%K%P
 Makoto「Wh-What are you doing!?」%K%P
 0xC38
 遙「身体検査でも、何でもすれば？」%K%P
-Haruka「If I let you run a strip search on me, then that'll satisfy%Nyou, right?」%K%P
+Haruka「If I let you run a strip search on me, then that'll satisfy you, right?」%K%P
 0xC44
 誠「遙……」%K%P
 Makoto「Haruka...」%K%P
@@ -558,19 +558,19 @@ Haruka slowly begins to button up her cardigan.%K%P
 I can't move an inch.%K%P
 0xCD0
 服を整えた遙は、何も言わず、静かに部屋を出て行った。%K%P
-Once she straightens out her clothes, Haruka%Nwordlessly leaves the room.%K%P
+Once she straightens out her clothes, Haruka wordlessly leaves the room.%K%P
 0xCDC
 その後ろ姿を見送ったオレは、倒れ込むようにベッドに転がった。%K%P
 I flop onto the bed.%K%P
 0xCE8
 （オレは、人を騙すだけでなく、人を信じることさえできなくなってしまったのか……？）%K%P
-(So not only have I deceived people, I've also lost the%Nability to trust them. Some great person I turned out to%Nbe, huh...?)%K%P
+(So not only have I deceived people, I've also lost the ability to trust them. Some great person I turned out to be, huh...?)%K%P
 0xCF4
 だけど……。%K%N
 But...%K%N
 0xD00
 だけど、遙か沙紀……そのどちらかが嘘をついているのは明らかで……。%K%P
-But Haruka and Saki... it's not clear which one of them is%Nlying...%K%P
+But Haruka and Saki... it's not clear which one of them is lying...%K%P
 0xD0C
 オレは激しい葛藤に身悶えた。%K%P
 I cringe as this intense conflict rages inside of my head.%K%P
@@ -582,4 +582,4 @@ I want to escape from this agony right away.%K%P
 I shut my eyes, and try to turn off my mind.%K%P
 0xD30
 残酷なほどにゆっくりと、寝苦しい夜はふけていった……。%K%P
-I'm so distressed that it's clear that I won't be able to%Nsleep well tonight...%K%P
+I'm so distressed that it's clear that I won't be able to sleep well tonight...%K%P

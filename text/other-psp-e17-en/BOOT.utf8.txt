@@ -1,4 +1,20 @@
-﻿;11f678;19;0123456789ABCDEF
+﻿;11e480;11;（Ｓｕｎ）
+
+;11e48c;11;（Ｍｏｎ）
+
+;11e498;11;（Ｔｕｅ）
+
+;11e4a4;11;（Ｗｅｄ）
+
+;11e4b0;11;（Ｔｈｕ）
+
+;11e4bc;11;（Ｆｒｉ）
+
+;11e4c8;11;（Ｓａｔ）
+
+;11f648;47;『%s』%%Nはすでに見ていますのでスキップします
+
+;11f678;19;0123456789ABCDEF
 
 ;11f68c;3;○
 
@@ -63,10 +79,12 @@ BG:
 
 ;11fad0;7;%04d
 
+# date in pause menu
 ;11fad8;3;／
 /
 
 ;11fadc;23;−−／−−（−−−）
+−−/−−（−−−）
 
 ;11faf4;11;ＢＧＭ：
 BGM: 
@@ -143,7 +161,6 @@ Returning to title screen. Is this OK?%N%SYes%n  /  %N%SNo
 Date:
 
 ;11fcd8;3;／
-/
 
 ;11fcdc;7;%02d
 
@@ -151,19 +168,16 @@ Date:
 Cluster:
 
 ;11fe58;7;ＰＭ
-PM
 
 ;11fe60;7;%02d
 
 ;11fe68;7;ＡＭ
-AM
 
 ;11fe70;3;：
 
 ;11fe74;7;%04d
 
 ;11fe7c;3;／
-/
 
 ;11fe80;7;%02d
 
@@ -184,8 +198,8 @@ AM
 
 ;11fec8;3;%d
 
+# playing log
 ;11fecc;3;／
-/
 
 ;11fed0;7;%XS06
 
@@ -243,18 +257,17 @@ AM
 
 ;120124;3;%d
 
+# album/movie menu
 ;120128;3;／
 /
 
 ;12012c;15;Ｖｏｌ．⑳%XS16
-Vol. %XS16
 
 ;12013c;3;%3d
 
 ;120140;7;⑳/#
 
 ;120148;15;Ｔｉｍｅ⑳%XS16
-Time %XS16
 
 ;120158;11;−：−−
 
@@ -424,7 +437,7 @@ Do you want to overwrite?%%N%%SYes%%n  /  %%n%%SNo
 Do you want to load this data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;1210e8;111;クイックセーブを初期化しますか？%%N（ロックされているデータは初期化されません）%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Do you want to initialize Quick Save data?%%N(Locked data is uninitialized)%%N%%SYes%%n  ／  %%n%%SNo
+Do you want to initialize Quick Save data?%%N(Locked data is uninitialized)%%N%%SYes%%n  /  %%n%%SNo
 
 ;121158;11;セーブ完了
 Saved
@@ -553,6 +566,7 @@ Clear the text log?%N%SYes%n  /  %n%SNo
 
 ;121a70;3;%d
 
+# date in text log
 ;121a74;3;／
 /
 
@@ -606,27 +620,20 @@ Not used
 ;121d60;19;Ｎｏ　ＸＸ　　　
 
 ;121d74;67;Ｓａｖｅ　Ｄａｔｅ　ＸＸＸＸ／ＸＸ／ＸＸ　ＸＸ：ＸＸ：ＸＸ　　　
-Save Date XXXX/XX/XX XX:XX:XX
 
 ;121db8;51;Ｐｌａｙ　Ｔｉｍｅ　ＸＸＸ：ＸＸ：ＸＸ．ＸＸ　　　
-Play Time XXX:XX:XX.XX
 
 ;121dec;47;ＸＸＸＸ／ＸＸ／ＸＸ　ＸＸ：ＸＸ：ＸＸ　　　
-XXXX/XX/XX XX:XX:XX
 
 ;121e1c;31;ＸＸ／ＸＸ　ＸＸ：ＸＸ　　　
-XX/XX XX:XX
 
 ;121e3c;31;ＸＸＸ：ＸＸ：ＸＸ．ＸＸ　　　
-XXX:XX:XX. XX
 
 ;121e5c;19;月齢ＸＸ．Ｘ　　　
 
 ;121e70;75;Ｇａｍｅ　Ｄａｔｅ　ＸＸＸＸ／ＸＸ／ＸＸ（ＸＸＸ）　　　　ＹＹＸＸ：ＸＸ
-Game Date XXXX/XX/XX (XXX)    YYXX:XX
 
 ;121ebc;55;ＸＸＸＸ／ＸＸ／ＸＸ　（ＸＸＸ）　ＹＹＸＸ：ＸＸ　　　
-XXXX/XX/XX (XXX) YYXX:XX
 
 ;121ef4;15;シーンタイトル
 Scene title
@@ -660,8 +667,8 @@ Entry
 
 ;121f54;7;%02d
 
+# save/load menu
 ;121f5c;3;／
-/
 
 ;121f60;3;　
 
@@ -678,13 +685,10 @@ Entry
 ;121f98;3;%d
 
 ;121f9c;11;Ｎｏ⑳%s
-No %s
 
 ;121fa8;23;Ｓａｖｅ　Ｄａｔｅ　%s
-Save Date %s
 
 ;121fc0;23;Ｐｌａｙ　Ｔｉｍｅ　%s
-Play Time %s
 
 ;121fd8;23;−−−−−−−−−−
 
@@ -1227,3 +1231,6 @@ None
 ## The following symbols dont allow a line break right after them
 ;129490;19;「（＜【｛“『《
 ([@&'"
+
+;134174;79;テキスト表示サンプル%N%LCEver17 -the out of infinity-%N%LRPremium Edition%K%P
+Text display sample%N%LCEver17 -the out of infinity-%N%LRPremium Edition%K%P

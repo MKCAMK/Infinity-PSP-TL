@@ -3,22 +3,22 @@ text area offset and size:
 0xF44
 0x150
 オレはこの日、沙紀が高波に呑みこまれるという%N事実を知っている。%K%N
-I know that Saki will be swallowed up by that monstrous%Nwave today.%K%N
+I know that Saki will be swallowed up by that monstrous wave today.%K%N
 0x15C
 絶対に未然に防がなければならない……。%K%P
 I have to find some way to prevent it...%K%P
 0x168
 思えば、すべての歯車が狂い始めたのは、すべてこの事件からだったのだから……。%K%P
-When I think about it, it was because of this incident%Nwhen everything started going wrong...%K%P
+When I think about it, it was because of this incident when everything started going wrong...%K%P
 0x174
 さて、決めたのはいいが、オレはどこから手をつけたものかと迷っていた。%K%P
-Well, it's great and all that I've decided to try to prevent%Nit, but where do I begin and how?%K%P
+Well, it's great and all that I've decided to try to prevent it, but where do I begin and how?%K%P
 0x180
 結局ズルズルと、みんなに流されるがままに、%Nここまでやって来てしまった。%K%P
-In the end, I went with the flow along with everyone else,%Nand now we've finally arrived here.%K%P
+In the end, I went with the flow along with everyone else, and now we've finally arrived here.%K%P
 0x18C
 釣り竿を抱えながら、防波堤を歩くオレ達。%Kこのままでは前回と同じ結果をたどってしまう。%K%P
-We walk to the pier while carrying our fishing rods. At this%Nrate, the result will be the same as last time.%K%P
+We walk to the pier while carrying our fishing rods. At this rate, the result will be the same as last time.%K%P
 0x198
 ダメだ……！%K　そんなことは許されない……！！%K%N
 No way...! I can't let that happen...!%K%N
@@ -27,7 +27,7 @@ No way...! I can't let that happen...!%K%N
 Absolutely not...!!%K%P
 0x1B0
 とりあえず、沙紀を防波堤の方に行かせなければ%Nいいのだろうか……？%K%Nいや、その前に沙紀と遙の言い争いを%N止めるべきでは……？%K
-Anyway, I need to stop Saki from going out towards the%Npier... No, before that, should I stop Saki and Haruka's%Nquarrel...?%K
+Anyway, I need to stop Saki from going out towards the pier... No, before that, should I stop Saki and Haruka's quarrel...?%K
 0x8A8
 沙紀に話しかける
 Call out to Saki.
@@ -96,7 +96,7 @@ Makoto「Say, Haruka? Would you like me to teach you how to fish?」%K%P
 Haruka「...」%K%P
 0x38C
 誠「任せとけってオレの釣りの腕ときたら、%Nそりゃぁもう……」%K%P
-Makoto「When it comes to fishing, I'm not the greatest, but I can%Nstill...」%K%P
+Makoto「When it comes to fishing, I'm not the greatest, but I can still...」%K%P
 0x3B0
 億彦「おいっ、石原！」%K%P
 Okuhiko「Hey, Ishihara!」%K%P
@@ -120,19 +120,19 @@ Okuhiko「With what!?」%K%P
 Makoto「Instead of wasting time with you, I could be...!!」%K%P
 0x438
 その時、沙紀の声が響いた。%K%Nいつの間にか、沙紀と遙が言い争っていた。%K%Nオレはすぐさま走り出したが……。%K%P
-At that time, I hear the echo of Saki's voice. Saki and%NHaruka had started quarreling without me noticing. I%Nimmediately start running...%K%P
+At that time, I hear the echo of Saki's voice. Saki and Haruka had started quarreling without me noticing. I immediately start running...%K%P
 0x44C
 沙紀「キャアーーーッ！」%K%P
 Saki「AAAAAH!」%K%P
 0x474
 悲鳴とともに、凄まじい波音がとどろいた。%K%P
-Saki screams at the same time as the booming roar of a%Nwave breaks out.%K%P
+Saki screams at the same time as the booming roar of a wave breaks out.%K%P
 0x480
 間に合わなかった。信じられないほどの高波が、%Nしぶきをあげて防波堤を襲っていた！%K%P
-I didn't make it in time. The unbelievably large wave%Nstrikes the pier with a large sheet of water!%K%P
+I didn't make it in time. The unbelievably large wave strikes the pier with a large sheet of water!%K%P
 0x494
 叩きつけるように沙紀の体を包み込み、%Nあっという間に呑み込んでしまった！%K%P
-As it strikes, the wave devours Saki and drags her into%Nthe ocean!%K%P
+As it strikes, the wave devours Saki and drags her into the ocean!%K%P
 0x4A0
 オレは、その場に凍りついていた。%K%P
 I'm frozen in place.%K%P
@@ -141,10 +141,10 @@ I'm frozen in place.%K%P
 (Dammit...)%K%P
 0x4B8
 （防げなかった……%Kわかっていたのに%N防げなかった……）%K%P
-(I couldn't prevent it... Even though I knew about it, I%Ncouldn't prevent it...)%K%P
+(I couldn't prevent it... Even though I knew about it, I couldn't prevent it...)%K%P
 0x4E0
 その時だ。ただひとり走り出したいづみさんが、%N防波堤の先から海に飛び込んだ！%K%P
-Izumi-san runs and dives into the ocean off of the tip of%Nthe pier!%K%P
+Izumi-san runs and dives into the ocean off of the tip of the pier!%K%P
 0x4EC
 （いづみさん……！）%K%P
 (Izumi-san...!)%K%P
@@ -171,37 +171,37 @@ But the reality is that the incident happened again.%K%N
 Then is it impossible for just my will to change history...?%K%P
 0x60C
 沙紀を病院に運んだ帰り道、みんなの表情は%Nとても穏やかだった。%K緊張の糸がほぐれた、とでも%N言うのだろうか？%K%P
-On the way back, everyone seems to be at ease.%K I%Nguess you could say that the tension in the%Natmosphere somehow unwinded.%K%P
+On the way back, everyone seems to be at ease.%K I guess you could say that the tension in the atmosphere somehow unwinded.%K%P
 0x618
 『とにかく無事で良かった』という安堵感に、%Nそれぞれが浸っているように見えた。%K%P
-Everybody seems to be relieved that everything turned%Nout all right.%K%P
+Everybody seems to be relieved that everything turned out all right.%K%P
 0x624
 燃え上がるような夕陽の赤が、より一層みんなの心を和ませてくれたのかもしれない。%K%P
-The fiery, red sunset is also probably contributing to%Nthe reason why everyone's hearts are calming down.%K%P
+The fiery, red sunset is also probably contributing to the reason why everyone's hearts are calming down.%K%P
 0x630
 しかし……%Kしかしオレだけは、他のみんなとは%N別のことを考えていた……。%K%P
-However...%K However, I'm probably the only one still%Nanxious...%K%P
+However...%K However, I'm probably the only one still anxious...%K%P
 0x698
 『どうすれば歴史を変えることができるのか？』%K%N……オレはその１点のみを思索していた。%K%P
-「How can I change history? Is it even possible?」 ...%NThat's the question endlessly revolving in my mind.%K%P
+「How can I change history? Is it even possible?」 ... That's the question endlessly revolving in my mind.%K%P
 0x6C0
 ひとりベッドに入ってからも、同じことだけを%N考え続けている。%K%P
-When I get into bed, I can only continue thinking the same%Nthing.%K%P
+When I get into bed, I can only continue thinking the same thing.%K%P
 0x6CC
 今日の、沙紀が高波にさらわれた事件は、%N変えることができなかった。%K%P
-I failed to prevent Saki from being swallowed up by that%Nmonstrous wave.%K%P
+I failed to prevent Saki from being swallowed up by that monstrous wave.%K%P
 0x6D8
 しかし、現実にオレは過去の記憶を持っているし、%N過去を完璧になぞっているというわけでもない……。%K%P
-Still, it's not like this past is exactly the same as my%Nmemories of the one before...%K%P
+Still, it's not like this past is exactly the same as my memories of the one before...%K%P
 0x6E4
 いや、そもそも『過去』という概念そのものが%Nこの状況を誤認しているのではないだろうか？%K%N
-No, in the first place, is it accurate to consider this the%N「past」?%K%N
+No, in the first place, is it accurate to consider this the 「past」?%K%N
 0x6F0
 これから体験することは『過去』ではなく『未来』%Nなのだから……。%K%P
-After all, events you experience at points ahead in time%Nare not the 「past」, but the 「future」...%K%P
+After all, events you experience at points ahead in time are not the 「past」, but the 「future」...%K%P
 0x6FC
 何にしても、明日が勝負だ。%K%N遙がクローンであることが暴露された日……。%K%N
-Either way, it doesn't change that tomorrow will be a%Nchallenge. The day Haruka was revealed to be a clone...%K%N
+Either way, it doesn't change that tomorrow will be a challenge. The day Haruka was revealed to be a clone...%K%N
 0x708
 あの最悪の展開だけは避けなければならない。%K%P
 I have to find some way to stop that from happening.%K%P
@@ -210,10 +210,10 @@ I have to find some way to stop that from happening.%K%P
 But can my will alone really change history...!?%K%P
 0x720
 あるいは、未来はあくまでも未来であって、%Nオレの窺い知ることの出来る範疇には無いのでは%Nないのか……？%K%P
-Or is the future, being what it is, just something I cannot%Ncomprehend, and therefore cannot change...?%K%P
+Or is the future, being what it is, just something I cannot comprehend, and therefore cannot change...?%K%P
 0x72C
 考えれば考えるほど、混乱してくる思考を%Nまとめることができなかった。%K%P
-I think as hard as I can, but I am unable to settle my%Ndisordered thoughts.%K%P
+I think as hard as I can, but I am unable to settle my disordered thoughts.%K%P
 0x738
 そして……%Kそしてオレはいつの間にか、深い眠りへと誘われていた……。%K%P
-And then...%K And then, before I know it, I fall into a deep%Nsleep...%K%P
+And then...%K And then, before I know it, I fall into a deep sleep...%K%P

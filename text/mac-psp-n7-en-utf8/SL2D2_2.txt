@@ -3,13 +3,13 @@ text area offset and size:
 0x14B2
 0x74
 沙紀は診療所に運ばれ、オレの記憶通りの診断をされた。%K%P
-We take Saki to the clinic, and the diagnosis is the same%Nas in my memory.%K%P
+We take Saki to the clinic, and the diagnosis is the same as in my memory.%K%P
 0x80
 念の為１泊の入院というのも同じだった。%K%P
-And just like last time, she'll be staying over one night%Njust to be safe.%K%P
+And just like last time, she'll be staying over one night just to be safe.%K%P
 0x8C
 優夏「でもよかった。一時はどうなることかと思った」%K%P
-Yuka「But I'm glad. I didn't know what would happen there for a%Nwhile.」%K%P
+Yuka「But I'm glad. I didn't know what would happen there for a while.」%K%P
 0x98
 沙紀「人間ってなかなか死ねないものね」%K%P
 Saki「It seems humans can't die that easily after all.」%K%P
@@ -24,13 +24,13 @@ Saki「... I'm sorry. That's not what I meant.」%K%P
 Makoto「Huh?」%K%P
 0xC8
 沙紀「素直に喜べばいいのにね……。だから私、可愛くないのかな……」%K%P
-Saki「I wish I could honestly be glad... That's why I'm sure I'm not%Ncute...」%K%P
+Saki「I wish I could honestly be glad... That's why I'm sure I'm not cute...」%K%P
 0xD4
 誠「……………………」%K%P
 Makoto「...」%K%P
 0xE0
 沙紀「せっかく誠くんに助けてもらった命なのに……」%K%P
-Saki「Even though you went to all the trouble of saving my life,%NMakoto-kun...」%K%P
+Saki「Even though you went to all the trouble of saving my life, Makoto-kun...」%K%P
 0xFC
 誠「……ま、まあ、そうだな」%K%P
 Makoto「... W-Well, that's true.」%K%P
@@ -54,7 +54,7 @@ My mind is thrown into intense disorder.%K%P
 Saki thinks I saved her life.%K%P
 0x158
 これでは前回の億彦と一緒じゃないか！%K%P
-This is exactly the same as with what happened with%NOkuhiko last time, isn't it?!%K%P
+This is exactly the same as with what happened with Okuhiko last time, isn't it?!%K%P
 0x164
 しかし、本当のことを切り出すタイミングがつかめなかった。%K%P
 But I can't find the timing to break the truth to her.%K%P
@@ -63,16 +63,16 @@ But I can't find the timing to break the truth to her.%K%P
 If things stay like this, it'll be bad...%K%P
 0x17C
 いづみ「それよりこれからどうするの？　ずっとみんなで沙紀ちゃんについてることもなさそうだけど……」%K%P
-Izumi「More importantly, what are we going to do now? It%Ndoesn't seem like we can all stay here with Saki-chan%Nthe whole time...」%K%P
+Izumi「More importantly, what are we going to do now? It doesn't seem like we can all stay here with Saki-chan the whole time...」%K%P
 0x188
 いづみ「とりあえずうちの店で落ち着かない？　沙紀ちゃんの方は……そうだ。くるみ、ついててあげて？」%K%P
-Izumi「Anyway, why don't we head back to my shop to settle%Ndown? As for Saki-chan... I know. Kurumi, stay with her.」%K%P
+Izumi「Anyway, why don't we head back to my shop to settle down? As for Saki-chan... I know. Kurumi, stay with her.」%K%P
 0x194
 くるみ「えっ？　くるみだけ？」%K%P
 Kurumi「Huh? Just Kurumi?」%K%P
 0x1A0
 いづみ「たまには人の役に立ちなさい。ほら、沙紀ちゃんにはちゃんとピザを届けられなかったんだから、罪ほろぼし」%K%P
-Izumi「You need to be helpful to others every once in a while.%NThink of it as atonement for failing to deliver the pizza to%NSaki-chan.」%K%P
+Izumi「You need to be helpful to others every once in a while. Think of it as atonement for failing to deliver the pizza to Saki-chan.」%K%P
 0x1AC
 くるみ「あーっ、そんなのないよ。あれはくるみのせいじゃないのに……」%K%P
 Kurumi「Ah―, no fair. Even though that wasn't Kurumi's fault...」%K%P
@@ -120,22 +120,22 @@ She believes that I saved her life.%K%N
 I can tell by the embarrassed way she's looking at me.%K%P
 0x2A4
 人のことなど信じられないと強がってきた沙紀だが、本当は信じたくて仕方がないのだ。%K%P
-Saki says she can't trust people and acts tough, but%Nshe really can't help but want to trust them.%K%P
+Saki says she can't trust people and acts tough, but she really can't help but want to trust them.%K%P
 0x2B0
 自分をまるごと受けとめてくれる愛が欲しいに違いないのだ。%K%P
 It's no different than someone who's pining for love.%K%P
 0x2BC
 オレは記憶の中の沙紀を思い出しながら、鈴を巡っての遙との関係を明らかにしようとした。%K%P
-As I remember the Saki in my memories, I decide to try to%Nfinally have her reveal her connection to Haruka and the%Nbell.%K%P
+As I remember the Saki in my memories, I decide to try to finally have her reveal her connection to Haruka and the bell.%K%P
 0x2EC
 誠「ところで、沙紀？　あのとき遙と何を話してたんだ？」%K%P
-Makoto「By the way, what were you talking to Haruka about at%Nthat time?」%K%P
+Makoto「By the way, what were you talking to Haruka about at that time?」%K%P
 0x2F8
 沙紀「…………」%K%P
 Saki「...」%K%P
 0x304
 誠「高波が来る前だよ。遙になんだか話しかけられてただろ？」%K%P
-Makoto「Just before the monstrous wave hit, you were talking%Nwith Haruka, right?」%K%P
+Makoto「Just before the monstrous wave hit, you were talking with Haruka, right?」%K%P
 0x310
 誠「それで、沙紀が逃げるように防波堤を走って行って……」%K%P
 Makoto「After that, you ran all the way towards the tip of the pier...」%K%P
@@ -180,7 +180,7 @@ I take the bell out of my pocket.%K%P
 I notice Saki's face turning pale.%K%P
 0x3D4
 誠「この鈴が何か関係があるんだろ？　オレにはわかるんだ……」%K%P
-Makoto「This bell means something to you, doesn't it? I at least%Nknow that much...」%K%P
+Makoto「This bell means something to you, doesn't it? I at least know that much...」%K%P
 0x3E0
 リンリンとオレは鈴を鳴らした。%K%P
 I ring the bell.%K%P
@@ -189,7 +189,7 @@ I ring the bell.%K%P
 Just as I expected, Saki reacts to it.%K%P
 0x3F8
 鈴から目をそらし、ブルブルと全身を震わせている。%K%P
-She averts her gaze from the bell, her body visibly%Ntrembling.%K%P
+She averts her gaze from the bell, her body visibly trembling.%K%P
 0x404
 沙紀「やめて……やめて……！」%K%P
 Saki「Stop... stop...!」%K%P
@@ -216,10 +216,10 @@ Makoto「I trust you.」%K%P
 The trembling Saki gives a small nod.%K%P
 0x498
 沙紀「子供の頃ね？　別荘の裏に炭焼き小屋があって、そこには私と同じ位の女の子がいたの。お父さんと２人だけで暮らしてた」%K%P
-Saki「When I was a kid, there was this charcoal burning hut%Nbehind my summer house where a girl about my age lived.%NThe only ones that lived there were her and her father.」%K%P
+Saki「When I was a kid, there was this charcoal burning hut behind my summer house where a girl about my age lived. The only ones that lived there were her and her father.」%K%P
 0x4A4
 沙紀「その子と私は仲良くなって鈴をあげたの。ママからもらった鈴を……」%K%P
-Saki「That girl and I became good friends, and I gave her a%Nbell. It was a bell I got from my Mama...」%K%P
+Saki「That girl and I became good friends, and I gave her a bell. It was a bell I got from my Mama...」%K%P
 0x4B0
 誠「それが、これか……？」%K%P
 Makoto「And this is that bell...?」%K%P
@@ -231,34 +231,34 @@ Saki「I don't know. But it's the spitting image of it.」%K%P
 Makoto「Spitting image?」%K%P
 0x4D4
 沙紀「そうしたらママがすごく怒って、取り返してきなさいって。１度あげたものだから、そんなのやだって言ったら、今度はパパが……」%K%P
-Saki「When I did that, Mama got really angry at me, and told me,%N'Get it back!'. That was the only thing I had given the girl,%Nso I told Mama I wouldn't do it. Then my Papa...」%K%P
+Saki「When I did that, Mama got really angry at me, and told me, 'Get it back!'. That was the only thing I had given the girl, so I told Mama I wouldn't do it. Then my Papa...」%K%P
 0x4E0
 誠「何て言ったんだ？」%K%P
 Makoto「What did he say?」%K%P
 0x4EC
 沙紀「ママの言うこと聞けないなら、うちの子じゃない。炭焼き小屋の子供になればいい」%K%P
-Saki「'If you don't listen to what your Mama says, then you're%Nnot my daughter.' That I might as well join the girl in the%Ncharcoal burning hut.」%K%P
+Saki「'If you don't listen to what your Mama says, then you're not my daughter.' That I might as well join the girl in the charcoal burning hut.」%K%P
 0x4F8
 誠「…………」%K%P
 Makoto「...」%K%P
 0x504
 沙紀「だから私……ママと一緒に取り返しに行った。すごい抵抗するその子から取り上げるように奪い返して、それでも追いかけて来るから私……」%K%P
-Saki「That's why I... went to get it back together with Mama. The%Ngirl tried to chase after me when we retrieved it, acting%Nlike we were thieves...」%K%P
+Saki「That's why I... went to get it back together with Mama. The girl tried to chase after me when we retrieved it, acting like we were thieves...」%K%P
 0x510
 沙紀「ママに言われて……石を投げたの。何度も、何度も……。その子、額の左側から血を流して……。怖かった、怖かったのよ。それなのに！！」%K%P
-Saki「Mama told me to throw stones at her... so I did, over and%Nover again. She was bleeding heavily from the left side%Nof her forehead. I was scared. I was really scared. But...!!」%K%P
+Saki「Mama told me to throw stones at her... so I did, over and over again. She was bleeding heavily from the left side of her forehead. I was scared. I was really scared. But...!!」%K%P
 0x51C
 沙紀「ママは言うのよ……『それでいい、それでいい』って……。『クローンなんかと絶対仲良くなっちゃいけません』『情けもかけちゃいけません』って……」%K%P
-Saki「Despite that, Mama told me... 'It's all right, it's all right'...%N'You absolutely mustn't be friendly with clones.' 'You%Nmustn't sympathize with her'...」%K%P
+Saki「Despite that, Mama told me... 'It's all right, it's all right'... 'You absolutely mustn't be friendly with clones.' 'You mustn't sympathize with her'...」%K%P
 0x528
 誠「クローン……」%K%P
 Makoto「A clone...」%K%P
 0x534
 沙紀「その子はクローンだったの。まだ法律で認められてない頃だったから、隠れるように住んでたのよ」%K%P
-Saki「That girl was a clone. At that time, the Clone Law hadn't%Nbeen passed yet, so they were living in hiding.」%K%P
+Saki「That girl was a clone. At that time, the Clone Law hadn't been passed yet, so they were living in hiding.」%K%P
 0x540
 沙紀「あの遙って子……額の左側に、傷があった……。そして何よりも、その『鈴』を持ってた！　だから、だから、私！！」%K%P
-Saki「That girl, Haruka... she has a scar on the left side of her%Nforehead... And more than anything, she has that bell!%NThat's why, that's why, I-!!」%K%P
+Saki「That girl, Haruka... she has a scar on the left side of her forehead... And more than anything, she has that bell! That's why, that's why, I-!!」%K%P
 0x54C
 誠「また取り上げたのか？」%K%P
 Makoto「You took it again?」%K%P
@@ -270,10 +270,10 @@ Saki「... I was just scared.」%K%P
 Makoto「But was that girl really Haruka?」%K%P
 0x570
 沙紀「……わからない。もう名前も思い出せなくて……思い出したくないの！」%K%P
-Saki「... I don't know. I can't remember her name anymore... I don't%Nwant to remember!」%K%P
+Saki「... I don't know. I can't remember her name anymore... I don't want to remember!」%K%P
 0x57C
 誠「沙紀……。確かめよう。遙とちゃんと話して確かめよう」%K%P
-Makoto「Saki... Try to confirm it. Have a proper chat with Haruka%Nand try to confirm it.」%K%P
+Makoto「Saki... Try to confirm it. Have a proper chat with Haruka and try to confirm it.」%K%P
 0x588
 沙紀「…………」%K%P
 Saki「...」%K%P
@@ -282,7 +282,7 @@ Saki「...」%K%P
 Makoto「Saki?」%K%P
 0x5A0
 沙紀「イヤッ……遙と会うなんて……。本当は顔を見るのも怖いの……」%K%P
-Saki「No... I can't meet with Haruka... The truth is, I get scared%Nwhenever I see her face...」%K%P
+Saki「No... I can't meet with Haruka... The truth is, I get scared whenever I see her face...」%K%P
 0x5AC
 誠「そうか……わかった。だったら、後はオレに任せろ」%K%P
 Makoto「I see... I understand. Leave the rest to me.」%K%P

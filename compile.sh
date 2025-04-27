@@ -10,4 +10,4 @@ gcc $CFLAGS -o bin/repack_afs $SRC/repack_afs.c && \
 gcc $CFLAGS -o bin/decompressbip $SRC/decompressbip.c $SRC/lzss.c && \
 gcc $CFLAGS -o bin/compressbip $SRC/compressbip.c $SRC/lzss.c && \
 gcc $CFLAGS -o bin/unpack_cnt $SRC/unpack_cnt.c && \
-gcc $CFLAGS -o bin/repack_cnt $SRC/repack_cnt.c
+gcc $CFLAGS -o bin/pack_cnt $SRC/pack_cnt.c

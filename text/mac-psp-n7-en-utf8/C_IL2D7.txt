@@ -9,37 +9,37 @@ Makoto「Hey, Kurumi!」%K%P
 Makoto「It's your fault things ended up this way!」%K%P
 0xF0
 オレは松葉杖をつきながら、朝の海岸線を歩いていた。%K%P
-I'm walking down the coastline road this morning on%Ncrutches.%K%P
+I'm walking down the coastline road this morning on crutches.%K%P
 0xFC
 片足と片腕にギプス……。%K%P
 One of my legs and one of my arms are in casts...%K%P
 0x108
 医者の話によると、肋骨にもヒビがはいっているらしい。%K%P
-According to the doctor, it appears I also fractured one%Nof my ribs.%K%P
+According to the doctor, it appears I also fractured one of my ribs.%K%P
 0x11C
 くるみ「どうしてぇ〜？　くるみのせいじゃないよぉ〜！」%K%P
 Kurumi「Why are you saying that〜? It's not Kurumi's fault〜!」%K%P
 0x128
 くるみ「お兄ちゃんが、無茶なことするからイケナイんじゃなぁ〜い！」%K%P
-Kurumi「It's because of that ridiculous stunt you pulled,%NOnii-chan!」%K%P
+Kurumi「It's because of that ridiculous stunt you pulled, Onii-chan!」%K%P
 0x134
 誠「そもそもくるみがだなぁ……あんなとこでヤヤコシイことを言うから……」%K%P
-Makoto「But you're the one who started it all... by saying those%Npuzzling things...」%K%P
+Makoto「But you're the one who started it all... by saying those puzzling things...」%K%P
 0x148
 くるみ「ヤヤコシイことって？」%K%P
 Kurumi「Puzzling things?」%K%P
 0x154
 誠「あの雨の晩、オレが部屋のドアを開けたとき……『キャー！』って悲鳴をあげたり『２０歳だ』なんて言ったりしただろ？」%K%P
-Makoto「On that rainy night, when I opened the door to my room...%Nyou screamed 'Kyaa!' and said that you were '20 years%Nold', right?」%K%P
+Makoto「On that rainy night, when I opened the door to my room... you screamed 'Kyaa!' and said that you were '20 years old', right?」%K%P
 0x160
 誠「だからオレはカンチガイして……」%K%P
 Makoto「That's why I made that misunderstanding...」%K%P
 0x174
 くるみ「そんなこと言ったって、しょうがないでしょ？」%K%P
-Kurumi「If that's what you're talking about, then it couldn't be%Nhelped!」%K%P
+Kurumi「If that's what you're talking about, then it couldn't be helped!」%K%P
 0x180
 くるみ「いきなり着替えてるとこに入って来られたら、誰だって悲鳴ぐらいあげるってば！」%K%P
-Kurumi「Anyone would have at least screamed if you burst in on%Nthem changing clothes!」%K%P
+Kurumi「Anyone would have at least screamed if you burst in on them changing clothes!」%K%P
 0x194
 くるみ「ねえ、遙さん？」%K%P
 Kurumi「Right, Haruka-san?」%K%P
@@ -51,7 +51,7 @@ Haruka「Yes...」%K%P
 I can see Haruka's face faintly change color.%K%P
 0x1FC
 誠「だけど、なにもくるみが声をあげることはないだろ？」%K%P
-Makoto「And that's another thing―you confused me with the way%Nyou said 'she was changing clothes'! After all, there was%Nno reason for you to scream, right, Kurumi?」%K%P
+Makoto「And that's another thing―you confused me with the way you said 'she was changing clothes'! After all, there was no reason for you to scream, right, Kurumi?」%K%P
 0x208
 誠「オレが見たのは、くるみが着替えてるとこじゃないんだから……」%K%P
 Makoto「The one I saw changing clothes wasn't you...」%K%P
@@ -60,13 +60,13 @@ Makoto「The one I saw changing clothes wasn't you...」%K%P
 Kurumi「That's not the problem! You peeked, you peeked!」%K%P
 0x228
 くるみ「お兄ちゃんはしっかりと、遙さんが着替えてるとこをのぞいたんだから！」%K%P
-Kurumi「It's because you were peeking at Haruka-san while she%Nwas changing her clothes!」%K%P
+Kurumi「It's because you were peeking at Haruka-san while she was changing her clothes!」%K%P
 0x290
 くるみ「遙さんの普段着……バーベキューのときにビールがかかっちゃったでしょ？」%K%P
-Kurumi「Haruka-san's usual clothes... got soaked with beer%Nduring the barbecue, right?」%K%P
+Kurumi「Haruka-san's usual clothes... got soaked with beer during the barbecue, right?」%K%P
 0x29C
 くるみ「いくら洗っても、お酒くさいのが取れないって言うから……」%K%P
-Kurumi「She told me no matter how much she washed it, she%Ncouldn't get the stench of alcohol off of it...」%K%P
+Kurumi「She told me no matter how much she washed it, she couldn't get the stench of alcohol off of it...」%K%P
 0x2A8
 遙「だから私、くるみに頼んだの……」%K%P
 Haruka「That's why I asked Kurumi...」%K%P
@@ -75,40 +75,40 @@ Haruka「That's why I asked Kurumi...」%K%P
 Haruka「I thought she could try lending me her clothes...」%K%P
 0x2C0
 誠「それで、遙が試着してる最中に、オレはドアを開けてしまった。それはもう何回も聞いたよ……」%K%P
-Makoto「And while Haruka was in the middle of trying them on, I%Nopened the door. The rest we all know...」%K%P
+Makoto「And while Haruka was in the middle of trying them on, I opened the door. The rest we all know...」%K%P
 0x310
 誠「でもなぁ……よりによって、どうしてオレの部屋で試着なんか……」%K%P
-Makoto「But you know... Why were you changing in my room of all%Nplaces...?」%K%P
+Makoto「But you know... Why were you changing in my room of all places...?」%K%P
 0x31C
 くるみ「だって、遙さんの部屋、おっくんが寝てたんだもん」%K%P
 Kurumi「Because Okkun had fallen asleep in Haruka-san's room.」%K%P
 0x328
 遙「億彦が、酔っ払って私の部屋に入って来て……そのまま、ベッドで寝ちゃったの……」%K%P
-Haruka「Okuhiko got drunk and went into my room... and then he%Nfell asleep on the bed...」%K%P
+Haruka「Okuhiko got drunk and went into my room... and then he fell asleep on the bed...」%K%P
 0x33C
 くるみ「要するにぃ〜、お兄ちゃんの部屋しか空いてるとこはなかった、ってわけ」%K%P
-Kurumi「In short, it's because your room was free at the time,%NOnii-chan.」%K%P
+Kurumi「In short, it's because your room was free at the time, Onii-chan.」%K%P
 0x348
 今思えば、確かにそれは当然と言えば当然だった。%K%P
-Thinking about it now, it seems like that was the natural%Nthing to do.%K%P
+Thinking about it now, it seems like that was the natural thing to do.%K%P
 0x354
 オレが目撃した姿……頭はすっぽりと服に覆われていたし、それに後ろを向いていた。%K%P
-The person I saw in the room... Their head was completely%Ncovered by their clothes, so all I could see was their%Nback.%K%P
+The person I saw in the room... Their head was completely covered by their clothes, so all I could see was their back.%K%P
 0x360
 『ドアを開けたのがオレだということ』を、その人物が気づくはずはなかった。%K%P
-The person who 「noticed that I had opened the door」%Nwasn't the one changing clothes.%K%P
+The person who 「noticed that I had opened the door」 wasn't the one changing clothes.%K%P
 0x36C
 つまり、部屋の中には『服を脱いでいた人間』と……もう１人……『ドアを開いたオレのことを発見した人間』がいたということになる。%K%P
-In short, there were two people in my room... The one who%Nwas undressing, and the other who saw me open the%Ndoor.%K%P
+In short, there were two people in my room... The one who was undressing, and the other who saw me open the door.%K%P
 0x378
 もちろん、前者は遙で、後者はくるみだったわけだが……。%K%P
-Of course, the first person was Haruka, and the second%Nperson was Kurumi...%K%P
+Of course, the first person was Haruka, and the second person was Kurumi...%K%P
 0x384
 結局、オレが見たのは『くるみの背中』ではなく『遙の背中』だったというわけだ。%K%P
-In the end, what I saw wasn't 「Kurumi's back」, but rather,%N「Haruka's back」.%K%P
+In the end, what I saw wasn't 「Kurumi's back」, but rather, 「Haruka's back」.%K%P
 0x398
 くるみ「それに、くるみが『２０歳』っていうのも、事実なんだからしょうがないじゃない」%K%P
-Kurumi「And when Kurumi said that she was '20 years old', that%Nwas a fact, so it couldn't be helped.」%K%P
+Kurumi「And when Kurumi said that she was '20 years old', that was a fact, so it couldn't be helped.」%K%P
 0x3A4
 くるみ「くるみが生まれたのは、今から２１年前なんだもん」%K%P
 Kurumi「Because Kurumi was born 21 years ago.」%K%P
@@ -117,31 +117,31 @@ Kurumi「Because Kurumi was born 21 years ago.」%K%P
 Yes... that's right...%K%P
 0x3BC
 あの時点でくるみは、いづみさんからすべての真相を聞いていたのだ。%K%P
-At that point in time, Kurumi had heard the whole truth%Nfrom Izumi-san.%K%P
+At that point in time, Kurumi had heard the whole truth from Izumi-san.%K%P
 0x3C8
 聞いたのは、５日の午後だったらしい。%K%P
 It seems she told her on the afternoon of the 5th.%K%P
 0x3D4
 思えば、その前日の深夜、あのプールでいづみさんはこう言っていた。%K%P
-Now that I think about, late at night on the previous day,%NIzumi-san said this at the pool.%K%P
+Now that I think about, late at night on the previous day, Izumi-san said this at the pool.%K%P
 0x40C
 いづみ「私……もう覚悟を決めたの……」%K%P
 Izumi「I've... already resolved myself...」%K%P
 0x418
 いづみ「誠くんのあの言葉が、心の中のわだかまりを解いてくれたの」%K%P
-Izumi「Your words from back then have solved the worries%Nwithin my mind.」%K%P
+Izumi「Your words from back then have solved the worries within my mind.」%K%P
 0x458
 だからいづみさんは、翌日早速、そのことを告げたのだ。%K%P
-That's why, the next day, Izumi-san told them as soon as%Nshe could.%K%P
+That's why, the next day, Izumi-san told them as soon as she could.%K%P
 0x464
 くるみはさすがにショックだったようだが、いづみさんの真剣な姿に心を打たれ、やがて納得するようになったのだと言う。%K%P
-As expected, Kurumi was shocked, but after seeing how%Nsincere Izumi-san was, she soon came to believe her%Nwords.%K%P
+As expected, Kurumi was shocked, but after seeing how sincere Izumi-san was, she soon came to believe her words.%K%P
 0x470
 同じように、いづみさんは遙にも、真実を打ち明けたのだそうだ。%K%P
 It seems that Izumi-san told Haruka the truth as well.%K%P
 0x47C
 あの雨の夜、遙が『お姉ちゃん』と言っていたのは、そういうわけだった。%K%P
-That's why Haruka called her 「Onee-chan」 on that rainy%Nnight.%K%P
+That's why Haruka called her 「Onee-chan」 on that rainy night.%K%P
 0x490
 くるみ「ねえねえ、お兄ちゃん？」%K%P
 Kurumi「Hey, hey, Onii-chan?」%K%P
@@ -180,7 +180,7 @@ Haruka「Makoto, you're paying for it all, aren't you?」%K%P
 Makoto「... Huh?」%K%P
 0x540
 くるみ「『姉妹なんだから、みんなにオゴらなきゃ不公平になる』って……そう言ったもんね？」%K%P
-Kurumi「'You're sisters, so it'd be unfair if you had to pay'... You%Nsaid that, right?」%K%P
+Kurumi「'You're sisters, so it'd be unfair if you had to pay'... You said that, right?」%K%P
 0x54C
 誠「お、おいおいっ、オレはオゴるなんてひと言も……」%K%P
 Makoto「H-Hey, I most certainly did-」%K%P
@@ -210,7 +210,7 @@ Kurumi「Yay, yay〜♪ Just as planned...」%K%P
 Makoto「...」%K%P
 0x5C8
 くるみ「ねえ、遙さん？　一緒にお化け屋敷、入ろうね？」%K%P
-Kurumi「Hey, Haruka-san? Shall we go to the haunted house%Ntogether?」%K%P
+Kurumi「Hey, Haruka-san? Shall we go to the haunted house together?」%K%P
 0x5DC
 遙「お化け屋敷、ねぇ……」%K%P
 Haruka「The haunted house, huh...?」%K%P
@@ -246,7 +246,7 @@ Haruka「It's really true!」%K%P
 Haruka「No, it really does exist!」%K%P
 0x6E4
 楽しげな２人の会話を聞きながら、ゆったりとしたペースで歩き続ける。%K%P
-While listening to their cheerful conversation, I continue%Nto walk at a leisurely pace.%K%P
+While listening to their cheerful conversation, I continue to walk at a leisurely pace.%K%P
 0x700
 ──コツン。%K%N
 ―Clank.%K%N
@@ -261,13 +261,13 @@ I quickly look down at my feet.%K%P
 The fragment of concrete is lying there.%K%P
 0x730
 昨日の未明、オレが車に跳ね飛ばされて、意識を失ったのがこの場所だった。%K%P
-This is where I collapsed early yesterday morning when I%Ngot sent flying by that car.%K%P
+This is where I collapsed early yesterday morning when I got sent flying by that car.%K%P
 0x73C
 キラリと、何かが輝いて見えた。%K%P
 I see something flashing.%K%P
 0x748
 道の隅……雑草の根元に、光るものがあった。%K%P
-It's coming from a corner of the road... The light is coming%Nfrom some weeds.%K%P
+It's coming from a corner of the road... The light is coming from some weeds.%K%P
 0x754
 誠「なあ、遙？　ちょっとそれ、取ってくれないか？」%K%P
 Makoto「Say, Haruka? Could you go pick that up over there?」%K%P
@@ -300,7 +300,7 @@ The surface has all these jagged scratches on it.%K%P
 (So I really... did smash it?)%K%P
 0x7E4
 （１日の夜、コンクリートのカケラでこの鈴を潰して……でもまわりが暗かったから、こんな所に隠れてたとは気づかなかった、と）%K%P
-(On the night of the 1st, I successfully smashed the bell...%Nbut because it was so dark, I didn't realize that it had%Nflung away and was hidden in those weeds.)%K%P
+(On the night of the 1st, I successfully smashed the bell... but because it was so dark, I didn't realize that it had flung away and was hidden in those weeds.)%K%P
 0x82C
 くるみ「な〜に？　それぇ？」%K%P
 Kurumi「What's that?」%K%P
@@ -318,13 +318,13 @@ Makoto「This thing is just...」%K%P
 Makoto「―Junk!」%K%P
 0x868
 そう言って、オレは潰れた鈴を、海に向かって放り投げた。%K%P
-I say this, and throw the smashed bell towards the%Nocean.%K%P
+I say this, and throw the smashed bell towards the ocean.%K%P
 0x890
 鈴はキレイな放物線を描いて飛んで行った。%K%P
 The bell draws a clean parabola in the air as it flies.%K%P
 0x89C
 陽光をはね、一瞬キラリと輝き、やがてその姿は見えなくなった。%K%P
-It momentarily flashes and shines in the sunlight, but%Nbefore long, I can no longer see it.%K%P
+It momentarily flashes and shines in the sunlight, but before long, I can no longer see it.%K%P
 0x9D8
 遙「それじゃあね？　誠！」%K%P
 Haruka「See you later, Makoto!」%K%P
@@ -345,7 +345,7 @@ Haruka「The two of us are going to watch crab sumo.」%K%P
 Makoto「Crab sumo... I see...」%K%P
 0xA30
 くるみ「それにぃ、くるみ達が一緒にいても、オジャマムシなだけだから♪」%K%P
-Kurumi「Besides, if the two of us are together, then we won't get%Nin your way♪」%K%P
+Kurumi「Besides, if the two of us are together, then we won't get in your way♪」%K%P
 0xA3C
 誠「えっ？」%K%P
 Makoto「Huh?」%K%P
@@ -366,7 +366,7 @@ Kurumi「Oh, that's right! Almost forgot!」%K%P
 Kurumi「Would you put these on the counter of the shop?」%K%P
 0xB20
 くるみがポケットから取り出したもの──それはトランプだった。%K%P
-Kurumi takes something out of her pocket―it's the%Ncards.%K%P
+Kurumi takes something out of her pocket―it's the cards.%K%P
 0xB2C
 オレはトランプを受け取りながら……%K%P
 As I take the cards from Kurumi...%K%P
@@ -378,16 +378,16 @@ Makoto「What happened to these, anyway?」%K%P
 Kurumi「Yuka-san was the culprit!」%K%P
 0xB50
 くるみ「４日の夕方、バーベキューの前に、お店に集まったでしょ？」%K%P
-Kurumi「On the afternoon of the 4th, we all gathered at the shop%Nbefore the barbecue, right?」%K%P
+Kurumi「On the afternoon of the 4th, we all gathered at the shop before the barbecue, right?」%K%P
 0xB5C
 くるみ「そのとき借りて、そのまま借りっぱなしにしてたんだって」%K%P
-Kurumi「At that time, she borrowed them, but continued to%N'borrow' them after that.」%K%P
+Kurumi「At that time, she borrowed them, but continued to 'borrow' them after that.」%K%P
 0xB68
 言われてみて、初めて気がついた。%K%P
 When she says that, I finally realize it.%K%P
 0xB74
 あのバーベキューのときの、優夏の言葉……。%K%P
-I finally realize what Yuka's words at the barbecue%Nmeant...%K%P
+I finally realize what Yuka's words at the barbecue meant...%K%P
 0xBBC
 優夏「ねぇ〜ん♪　まこったぁ〜ん♪」%K%P
 Yuka「Hey♪ Mako-tan♪」%K%P
@@ -417,7 +417,7 @@ Kurumi then energetically runs after Haruka.%K%P
 (What did she mean... 「good luck」...?)%K%P
 0xCBC
 少しドキドキしながら、店のドアに手をかけた。%K%P
-With my heart beating loudly, I reach out to open the%Nshop's door.%K%P
+With my heart beating loudly, I reach out to open the shop's door.%K%P
 0xCC8
 あの濡れたくちびるの感触を、思い出していた。%K%P
 I remember the sensation of those wet lips.%K%P
@@ -459,7 +459,7 @@ Izumi「Yes, thank you♪」%K%P
 Izumi「After resting for all day yesterday, I'm completely better.」%K%P
 0xE00
 いづみ「それよりも、誠くんのほうは平気なの？」%K%P
-Izumi「More importantly, what about you? Are you okay,%NMakoto-kun?」%K%P
+Izumi「More importantly, what about you? Are you okay, Makoto-kun?」%K%P
 0xE0C
 誠「ああ、このとおり、ピンピンしてるよ！」%K%P
 Makoto「Yep, as you can see, I'm completely lively!」%K%P
@@ -519,7 +519,7 @@ It's a slightly bashful smile.%K%P
 ... ... ...%K%P
 0xF50
 オレといづみさんは、いつものように向い合って座っていた。%K%P
-Izumi-san and I sit across from each other like we always%Ndo.%K%P
+Izumi-san and I sit across from each other like we always do.%K%P
 0xF5C
 テーブルの上には煎れたての紅茶……。%K%P
 On the table is steaming black tea...%K%P
@@ -528,7 +528,7 @@ On the table is steaming black tea...%K%P
 The cards I got from Kurumi earlier are also on the table.%K%P
 0xF74
 いづみさんの肩越しに、とろけ落ちそうな青空が見えた。%K%P
-Over Izumi-san's shoulders, I can see the enchanting%Nblue sky.%K%P
+Over Izumi-san's shoulders, I can see the enchanting blue sky.%K%P
 0xF80
 昨日の雨が、まるで嘘のようだった。%K%P
 It's as if yesterday's rain never happened.%K%P
@@ -555,13 +555,13 @@ A scrap of paper... It seems like some kind of leaflet.%K%P
 「July 7th (Sunday) ―Tokitsukasa (杜紀司) Festival」.%K%N
 0xFE0
 『ご家族お誘い合わせの上、ぜひ御参加ください』%K%P
-「Invite all of your family members, and please%Nparticipate.」%K%P
+「Invite all of your family members, and please participate.」%K%P
 0xFEC
 紙の下の方には、そう書かれていた。%K%P
 That's what's written on the bottom half of the paper.%K%P
 0xFF8
 いづみ「この島のことなら、何でも知ってると思ってたけど……」%K%P
-Izumi「And here I thought I knew everything there was to know%Nabout this island...」%K%P
+Izumi「And here I thought I knew everything there was to know about this island...」%K%P
 0x1004
 いづみ「まだまだねぇ、私も……」%K%P
 Izumi「It seems I've still got a ways to go...」%K%P
@@ -579,28 +579,28 @@ Makoto「...」%K%P
 Izumi「Hey, Makoto-kun? Could you try reading this?」%K%P
 0x1040
 いづみさんが指差した場所には『杜紀司神社と司紀杜神社の歴史』と書かれていた。%K%P
-Izumi-san points to a part where 「History of the Shiki no%NMori Shrine and the Tokitsukasa Shrine」, is written.%K%P
+Izumi-san points to a part where 「History of the Shiki no Mori Shrine and the Tokitsukasa Shrine」, is written.%K%P
 0x104C
 その下に続く文面を読んでみる。%K%P
 I continue to read the contents under the title.%K%P
 0x1058
 『杜紀司神社と司紀杜神社は、この島に古来より伝わる伝説の神（双子の神）を奉る為に建てられたものです』%K%P
-「The Tokitsukasa Shrine and the Shiki no Mori Shrine%Nwere built to honor twin gods from an ancient legend%Npassed down on this island.」%K%P
+「The Tokitsukasa Shrine and the Shiki no Mori Shrine were built to honor twin gods from an ancient legend passed down on this island.」%K%P
 0x1064
 『それぞれの神社には、御神体として銀色の鈴が１つずつ納められており、その鈴に触れた者には不思議な力が宿る……という言い伝えも残されています』%K%P
-「In each shrine, a single silver bell was enshrined as an%Nobject of worship, and a mysterious power is granted to%None who touches one of the bells... Or so the legend%Nsays.」%K%P
+「In each shrine, a single silver bell was enshrined as an object of worship, and a mysterious power is granted to one who touches one of the bells... Or so the legend says.」%K%P
 0x1070
 いづみ「どうやら『シキノモリ神社』の隣には『トキツカサ神社』という双子の神社があったらしいのよ」%K%P
-Izumi「It seems that there were twin shrines built very close to%Neach other: the 'Shiki no Mori Shrine' and the%N'Tokitsukasa Shrine'.」%K%P
+Izumi「It seems that there were twin shrines built very close to each other: the 'Shiki no Mori Shrine' and the 'Tokitsukasa Shrine'.」%K%P
 0x107C
 いづみ「だけど、大昔の地震かなにかで『トキツカサ神社』の方は潰れてしまった」%K%P
-Izumi「But the 'Tokitsukasa Shrine' was destroyed in an%Nearthquake a very long time ago.」%K%P
+Izumi「But the 'Tokitsukasa Shrine' was destroyed in an earthquake a very long time ago.」%K%P
 0x1088
 いづみ「残ったのは、長い石段だけ……」%K%P
 Izumi「All that was left of it was its long staircase...」%K%P
 0x1094
 いづみ「誠くんが見たのは、この『トキツカサ神社』の跡だったってわけ」%K%P
-Izumi「Meaning what you saw that day were the remains of the%N'Tokitsukasa Shrine'.」%K%P
+Izumi「Meaning what you saw that day were the remains of the 'Tokitsukasa Shrine'.」%K%P
 0x10A0
 いづみ「『シキノモリ神社』の方は、今もちゃ〜んとあそこに建ってるはずよ？」%K%P
 Izumi「The 'Shiki no Mori Shrine' should still be there right now.」%K%P
@@ -609,28 +609,28 @@ Izumi「The 'Shiki no Mori Shrine' should still be there right now.」%K%P
 I see...%K%N
 0x10B8
 神社に行く途中、森の中で奇妙な違和感を覚えたのはそのせいだったのか……。%K%P
-Did I not realize it because of that strange,%Nuncomfortable feeling in the forest while I was on my way%Nto the shrine...?%K%P
+Did I not realize it because of that strange, uncomfortable feeling in the forest while I was on my way to the shrine...?%K%P
 0x10C4
 オレが歩いていたのは『トキツカサ神社』へと至る道だったというわけだ。%K%P
-The road I went down was the one that lead to the%N「Tokitsukasa Shrine」.%K%P
+The road I went down was the one that lead to the 「Tokitsukasa Shrine」.%K%P
 0x10D0
 どこでどう道を間違えたのかはわからないが、億彦と沙紀は、そのまま『シキノモリ神社』の方へと進んだのだろう。%K%P
-I don't know where I went astray, but Okuhiko and Saki%Nprobably went the right way and ended up at the 「Shiki%Nno Mori Shrine」.%K%P
+I don't know where I went astray, but Okuhiko and Saki probably went the right way and ended up at the 「Shiki no Mori Shrine」.%K%P
 0x10DC
 （２人が神社に向かったのは、ただの好奇心かなにかだと思う）%K%P
-(I think the two of them went there just because they%Nwere curious or something.)%K%P
+(I think the two of them went there just because they were curious or something.)%K%P
 0x10E8
 （あるいは本当に、億彦がよからぬ事を企んでいたのか……？）%K%P
-(Or did Okuhiko actually have a dirty scheme in mind like%NI'd thought...?)%K%P
+(Or did Okuhiko actually have a dirty scheme in mind like I'd thought...?)%K%P
 0x10F4
 いずれにせよ、森の中で２人の気配が消えた理由は、これで判明したことになる。%K%P
-At any rate, I've now confirmed the reason why their%Npresences disappeared in the forest.%K%P
+At any rate, I've now confirmed the reason why their presences disappeared in the forest.%K%P
 0x1100
 いづみ「人間て、結構ちゃっかりしてるから……」%K%P
 Izumi「Humans are very shrewd...」%K%P
 0x110C
 いづみ「神社自体はなくなってしまっても、お祭りという行事だけは残るものなのよね……」%K%P
-Izumi「Even though the shrine's gone, they left behind a%Nfestival to at least to continue its memory...」%K%P
+Izumi「Even though the shrine's gone, they left behind a festival to at least to continue its memory...」%K%P
 0x1118
 いづみさんはそう言って、ティーカップを口に運んだ。%K%P
 Izumi-san says this, and brings her teacup to her mouth.%K%P
@@ -639,22 +639,22 @@ Izumi-san says this, and brings her teacup to her mouth.%K%P
 The corners of her mouth form into a kind smile.%K%P
 0x1130
 カップをソーサーに戻すと、その笑みは一段と深まった。%K%P
-When she returns the teacup to the saucer, her smile%Ngrows even wider.%K%P
+When she returns the teacup to the saucer, her smile grows even wider.%K%P
 0x113C
 紅茶に濡れたくちびるが、艶々と光り輝いて見えた。%K%P
 I can see her glossy, shining lips, wet from the tea.%K%P
 0x1148
 白い歯の奥には、赤く熟れた舌の先がのぞいていた。%K%P
-I can see the tip of her red tongue between her white%Nteeth.%K%P
+I can see the tip of her red tongue between her white teeth.%K%P
 0x1154
 ──ガタンッ！%K%P
 ―Clang!%K%P
 0x1160
 気がつくと、オレは跳ねるようにして立ち上がっていた。%K%P
-When I come to my senses, I've sprung up from the chair,%Nand am now standing.%K%P
+When I come to my senses, I've sprung up from the chair, and am now standing.%K%P
 0x116C
 折れた方の足に激痛が走ったが、今はそんなことはどうでもよかった。%K%P
-Intense pain runs through my broken leg, but that%Ndoesn't matter right now.%K%P
+Intense pain runs through my broken leg, but that doesn't matter right now.%K%P
 0x1178
 いづみさんは、きょとんとオレのことを見ていた。%K%P
 Izumi-san blankly looks at me.%K%P
@@ -666,7 +666,7 @@ I just stay silent...%K%P
 ... and kiss those lips.%K%P
 0x11A4
 テーブルの上……身を乗り出すようにして、オレのそれを押し当てた。%K%P
-I lean over the top of the table as far as I can... and%Npush my lips against hers.%K%P
+I lean over the top of the table as far as I can... and push my lips against hers.%K%P
 0x11B0
 目の前のティーカップがカタンと倒れた。%K%P
 The teacup in front of me falls with a clank.%K%P
@@ -690,10 +690,10 @@ I can feel the soft warmth of her leaking breaths.%K%P
 It's proof that we're right here, right now.%K%P
 0x1204
 お互いの存在を、オレ達は『熟れたそれ』で確かめ合った。%K%P
-We're confirming each other's existences, and our%Nmaturing feelings.%K%P
+We're confirming each other's existences, and our maturing feelings.%K%P
 0x1220
 やがて、どちらからともなくくちびるは離れ……%K%N
 Before long, our lips part from each other...%K%N
 0x122C
 ……いづみさんは最後にこう言った。%K%P
-... Izumi-san says this last.%K%P「The stars will continue to shine for eternity...」%K%P「In the water... always... always...」%K%P「So don't... forget this shine, okay?」%K%P「We'll always...」%K%P「Be together, right...?」%K%PI silently rummage through my pocket.%K%PI take out...%K%P―The small glass bottle. The three stars are swaying in%Nthe water, twinkling brightly...%K%PThe cards spread out on the floor...%K%N... They're completely blank...%K%P%LC%C[afaTo see the Grand Finale, please watch this ending%Nonce more.%K%P
+... Izumi-san says this last.%K%P「The stars will continue to shine for eternity...」%K%P「In the water... always... always...」%K%P「So don't... forget this shine, okay?」%K%P「We'll always...」%K%P「Be together, right...?」%K%PI silently rummage through my pocket.%K%PI take out...%K%P―The small glass bottle. The three stars are swaying in the water, twinkling brightly...%K%PThe cards spread out on the floor...%K%N... They're completely blank...%K%P%LC%C[afaTo see the Grand Finale, please watch this ending once more.%K%P

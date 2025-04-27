@@ -3,10 +3,10 @@ text area offset and size:
 0x1664
 0x118
 星の話が終わったのは、１１時をまわった頃だった。%K%P
-When we finish talking about the stars, it's already past%N11.%K%P
+When we finish talking about the stars, it's already past 11.%K%P
 0x124
 いづみさんは、ギリシャ神話からブラックホールまで、星に関する様々な話を聞かせてくれた。%K%P
-Izumi-san told me a variety of stories regarding them,%Nfrom Greek mythology to black holes.%K%P
+Izumi-san told me a variety of stories regarding them, from Greek mythology to black holes.%K%P
 0x130
 今、語り終えたいづみさんは、２階で眠っている。%K%P
 Right now, she's sleeping on the second floor.%K%P
@@ -27,13 +27,13 @@ Makoto「Is it all right if I stay here a little longer?」%K%P
 I plan to stay here all the way until dawn.%K%P
 0x178
 オレはカウンターのイスに腰を下ろし、前のテーブルにホオヅエをついた。%K%P
-I sit down at one of the chairs at the counter, and lie my%Nhead on the table.%K%P
+I sit down at one of the chairs at the counter, and lie my head on the table.%K%P
 0x184
 しーんと静まりかえった店の中……。%K%P
 The shop is absolutely silent...%K%P
 0x190
 ふいにポツポツと、かすかな音が聞こえてきた。%K%P
-Suddenly, I hear faint sound of something hitting against%Nthe windows.%K%P
+Suddenly, I hear faint sound of something hitting against the windows.%K%P
 0x19C
 誠「雨、か……？」%K%P
 Makoto「Rain, huh...?」%K%P
@@ -42,7 +42,7 @@ Makoto「Rain, huh...?」%K%P
 I look out the window.%K%P
 0x1B4
 街灯に照らされた白い雨滴が、闇の中にぼんやりと浮かんで見えた。%K%P
-The vague image of white raindrops in the darkness,%Nilluminated by the street lights, pops up.%K%P
+The vague image of white raindrops in the darkness, illuminated by the street lights, pops up.%K%P
 0x1C0
 雨……。%K%N
 The rain...%K%N
@@ -51,7 +51,7 @@ The rain...%K%N
 The gently falling... rain...%K%P
 0x1D8
 そう言えば、あの光景の中でも、雨が……%K%P
-Now that I think about it, in that premonition I had... the%Nrain...%K%P
+Now that I think about it, in that premonition I had... the rain...%K%P
 0x224
 ……降っていた。%K%P
 ... was falling.%K%P
@@ -60,7 +60,7 @@ Now that I think about it, in that premonition I had... the%Nrain...%K%P
 I frantically shake my head.%K%P
 0x25C
 よからぬ妄想を、幻覚を、オレはとっさに追い払った。%K%P
-That's just a hallucination, a horrible delusion; I quickly%Ndismiss it.%K%P
+That's just a hallucination, a horrible delusion; I quickly dismiss it.%K%P
 0x268
 誠「予知なんて……信じない」%K%P
 Makoto「I don't believe in... premonitions.」%K%P
@@ -75,7 +75,7 @@ Makoto「I don't believe in... premonitions.」%K%P
 I repeat it like a mantra.%K%P
 0x298
 ふと、左手にまかれた腕時計が視界に入る。%K%P
-My attention is drawn to the watch wrapped around my%Nleft wrist.%K%P
+My attention is drawn to the watch wrapped around my left wrist.%K%P
 0x2A4
 ──午前０時３０分。%K%P
 ―12:30 A.M.%K%P
@@ -90,10 +90,10 @@ The date's already changed to the 6th...%K%P
 The rain has gone from a drizzle to a downpour.%K%P
 0x358
 砕け散った無数のしずくが、細かいキリとなって、辺りを白く染めている。%K%P
-The heavy rain smashes into the ground, forming a thin%Nmist that dyes the surrounding area white.%K%P
+The heavy rain smashes into the ground, forming a thin mist that dyes the surrounding area white.%K%P
 0x364
 息を吸い込むたびに、ひんやりと湿った空気が胸にしみた。%K%P
-Every time I take a breath, the cold, damp air enters my%Nchest.%K%P
+Every time I take a breath, the cold, damp air enters my chest.%K%P
 0x370
 ごーごーと、うなるような雨音……。%K%P
 The rainfall sounds like a roar...%K%P
@@ -111,7 +111,7 @@ Izumi「M-Makoto-kun!」%K%P
 Izumi「Hold on... why are you here!?」%K%P
 0x3C0
 ……２階から、いづみさんが下りて来た。%K%P
-... Izumi-san descends the staircase leading to the 2nd%Nfloor.%K%P
+... Izumi-san descends the staircase leading to the 2nd floor.%K%P
 0x3CC
 誠「あ、いづみさん……」%K%P
 Makoto「Oh, Izumi-san...」%K%P
@@ -144,7 +144,7 @@ It's not that I couldn't; I just didn't want to.%K%P
 Izumi「In that case, you should have told me...」%K%P
 0x464
 いづみ「昨日はくるみ、ロッジに泊まったから、ふとん余ってたのよ？」%K%P
-Izumi「Last night, Kurumi was sleeping over at the lodge, so we%Nhad an extra futon here.」%K%P
+Izumi「Last night, Kurumi was sleeping over at the lodge, so we had an extra futon here.」%K%P
 0x470
 誠「でもさすがに……そういうわけには……」%K%P
 Makoto「But... that would have been...」%K%P
@@ -156,7 +156,7 @@ Izumi「...?」%K%P
 Makoto「Well, what I mean is...」%K%P
 0x494
 誠「いづみさんのとなりで……寝るってことでしょ？」%K%P
-Makoto「Wouldn't that mean I would have had to... sleep next to%Nyou?」%K%P
+Makoto「Wouldn't that mean I would have had to... sleep next to you?」%K%P
 0x4A8
 いづみ「う、うん……」%K%P
 Izumi「Y-Yes...」%K%P
@@ -186,7 +186,7 @@ Just when I'm about to ask her to repeat herself...%K%P
 The shop's door opens.%K%P
 0x564
 いづみさんは反射的に、入り口の方へと視線を移した。%K%P
-Izumi-san reflexively shifts her gaze towards the%Nentrance.%K%P
+Izumi-san reflexively shifts her gaze towards the entrance.%K%P
 0x5AC
 優夏「おはよう♪」%K%P
 Yuka「Good morning♪」%K%P
@@ -225,7 +225,7 @@ Makoto「So, what'd you come here for, Yuka?」%K%P
 Yuka「Hey, what's with that way of talking!?」%K%P
 0x694
 優夏「それじゃあなんか、来ちゃいけなかったみたいじゃなぁ〜い！？」%K%P
-Yuka「It makes it sound like you didn't want us to come here at%Nall!」%K%P
+Yuka「It makes it sound like you didn't want us to come here at all!」%K%P
 0x6A0
 誠「別に……そういうわけじゃ……」%K%P
 Makoto「No... that's not what I...」%K%P
@@ -243,7 +243,7 @@ Haruka「We thought we'd come here... to have breakfast.」%K%P
 Okuhiko「There's nothing in the fridge, you see.」%K%P
 0x6FC
 億彦「ここに来るのが、もっとも手っ取り早いだろうってことになって」%K%P
-Okuhiko「We thought it'd probably be much quicker if we just went%Nhere.」%K%P
+Okuhiko「We thought it'd probably be much quicker if we just went here.」%K%P
 0x708
 誠「ふーん……」%K%P
 Makoto「I see...」%K%P
@@ -261,13 +261,13 @@ Haruka「... Looking for a dog.」%K%P
 Makoto「A dog???」%K%P
 0x754
 優夏「なんかこの辺にね？　野良犬が住んでるらしいの」%K%P
-Yuka「Did you know? There's this wild dog that lives around%Nhere.」%K%P
+Yuka「Did you know? There's this wild dog that lives around here.」%K%P
 0x760
 優夏「野良犬って言っても、ちっちゃい子犬みたいなんだけど……」%K%P
-Yuka「Well, I say 'wild dog', but it's actually a little puppy,%Napparently...」%K%P
+Yuka「Well, I say 'wild dog', but it's actually a little puppy, apparently...」%K%P
 0x77C
 億彦「さすがにこの雨だからねぇ〜。外にいちゃ、かわいそうだと思ったんだろう」%K%P
-Okuhiko「It's really raining hard, so she probably felt bad for it%Nsince it had to be outside.」%K%P
+Okuhiko「It's really raining hard, so she probably felt bad for it since it had to be outside.」%K%P
 0x788
 誠「そっか……子犬ねぇ……」%K%P
 Makoto「I see... a puppy...」%K%P
@@ -303,7 +303,7 @@ Okuhiko「No. The truth is, we were hoping you could make some...」%K%P
 Izumi「I see, I understand.」%K%P
 0x854
 いづみ「じゃあすぐ作ってあげるから、座って待ってて？」%K%P
-Izumi「Then I'll get to making it right away, so will you sit here%Nand wait?」%K%P
+Izumi「Then I'll get to making it right away, so will you sit here and wait?」%K%P
 0x868
 いづみさんはそう言って、キッチンの奥へと消えていった。%K%P
 With that, Izumi-san promptly disappears into the kitchen.%K%P
@@ -318,7 +318,7 @@ After eating breakfast, we relax and idly pass the time.%K%P
 Yuka「Even so... there's no customers coming at all, huh?」%K%P
 0x948
 いづみ「しょうがないわよ。まだこんな時間だもの」%K%P
-Izumi「There's nothing that can be done about that. It's still too%Nearly.」%K%P
+Izumi「There's nothing that can be done about that. It's still too early.」%K%P
 0x954
 いづみ「それに……この雨だし……」%K%P
 Izumi「Besides... with this rain...」%K%P
@@ -354,10 +354,10 @@ Makoto「Huh? You too?」%K%P
 Izumi「Yes.」%K%P
 0xA20
 いづみ「お客さんが来ないのは、ちょっと困るけど……。でもほんとは大好きなの……雨の日が……」%K%P
-Izumi「It's a bit troublesome that no customers are coming... But%NI really love... rainy days...」%K%P
+Izumi「It's a bit troublesome that no customers are coming... But I really love... rainy days...」%K%P
 0xA2C
 いづみ「窓ぎわに座って本を読んだり、行き先なんか決めずにドライブに行ったりね？」%K%P
-Izumi「I'll sit down by the window and read a book, or go driving%Nwithout a destination in mind.」%K%P
+Izumi「I'll sit down by the window and read a book, or go driving without a destination in mind.」%K%P
 0xA38
 誠「……ドライブ？」%K%P
 Makoto「... Driving?」%K%P
@@ -369,25 +369,25 @@ Izumi「Yes... driving on rainy days...」%K%P
 Izumi「Driving on rainy days, in the middle of the night...」%K%P
 0xA64
 いづみ「カーステの電源を切って、暗闇の中に耳をすますと、冷たい雨の音が、そっと、体の中にしみこんでくるの」%K%P
-Izumi「I'll turn off the car radio, and I'll strain my ears in the%Ndarkness to hear the sound of the cold rain falling, and%Nlet it gently echo into my body.」%K%P
+Izumi「I'll turn off the car radio, and I'll strain my ears in the darkness to hear the sound of the cold rain falling, and let it gently echo into my body.」%K%P
 0xA70
 みんな「…………………………」%K%P
 Everyone「...」%K%P
 0xA7C
 いづみ「路面の水を、タイヤが切る音……」%K%P
-Izumi「The sound of the tires turning against the water on the%Nroad...」%K%P
+Izumi「The sound of the tires turning against the water on the road...」%K%P
 0xA88
 いづみ「ボンネットにたたきつけるしずくの音……」%K%P
 Izumi「The sound of the rain striking against the car's hood...」%K%P
 0xA94
 いづみ「雨の音……雨音だけに、包み込まれた世界……」%K%P
-Izumi「The sound of rain... A world wrapped up only in the sound%Nof rain...」%K%P
+Izumi「The sound of rain... A world wrapped up only in the sound of rain...」%K%P
 0xAA8
 いづみ「そうやって耳をすませていると、なんだかとても……心が落ち着くのよ……」%K%P
-Izumi「When I hear all of that, for some reason, it's very...%Ncalming to my heart...」%K%P
+Izumi「When I hear all of that, for some reason, it's very... calming to my heart...」%K%P
 0xAB4
 いづみ「まるで自分の体が、透明なしずくになってしまったみたいで……」%K%P
-Izumi「It's as if my own body becomes a transparent drop of%Nwater...」%K%P
+Izumi「It's as if my own body becomes a transparent drop of water...」%K%P
 0xAC0
 みんな「…………………………」%K%P
 Everyone「...」%K%P
@@ -396,4 +396,4 @@ Everyone「...」%K%P
 Haruka「I... feel like I understand that.」%K%P
 0xAE8
 優夏「そうね。そう言われてみれば、確かに雨の日も、悪くはないかもね」%K%P
-Yuka「You're right. When you put it that way, then I guess rainy%Ndays aren't all that bad.」%K%P
+Yuka「You're right. When you put it that way, then I guess rainy days aren't all that bad.」%K%P

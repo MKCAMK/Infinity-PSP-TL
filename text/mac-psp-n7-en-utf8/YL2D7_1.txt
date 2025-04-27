@@ -3,7 +3,7 @@ text area offset and size:
 0xF19
 0xA0
 ガバッと思い切り布団を蹴飛ばして目覚めた。%K%P
-As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+As I wake up, I kick the covers off the bed with all my strength.%K%P
 0xAC
 しばし茫然として虚空を眺める。%K%P
 Still half asleep, I blankly stare at the ceiling.%K%P
@@ -18,7 +18,7 @@ I realize I'm freezing, my body soaked with sweat all over.%K%P
 I take a deep breath and slowly exhale.%K%P
 0xDC
 杉の木の温かい香りが、鼻腔の奥から脳の中心へと沁み込んでいく。%K%P
-The warm scent of wood goes through my nose and fills%Nmy head.%K%P
+The warm scent of wood goes through my nose and fills my head.%K%P
 0xE8
 これを３回繰り返したおかげで…………。%K%P
 It takes me three more breaths until...%K%P
@@ -129,7 +129,7 @@ Makoto「It's possible that my watch could be busted...」%K%P
 Yuka nods...%K%P
 0x384
 次の瞬間、慌てふためいたオレと優夏は、もつれ合うように絡まったまま、リビングへと飛び出した。%K%P
-In the next instant, Yuka and I, flustered and still%Nintertwined, quickly rush out to the living room.%K%P
+In the next instant, Yuka and I, flustered and still intertwined, quickly rush out to the living room.%K%P
 0x3E0
 くるみ「お、お兄ちゃん！！」%K%P
 Kurumi「O-Onii-chan!!」%K%P
@@ -159,10 +159,10 @@ Makoto「'Where'... even if you say that...」%K%P
 Okuhiko「Sheesh, don't worry us like that...」%K%P
 0x4AC
 沙紀「出かけるんなら、ひと言ぐらい声かけてよね！？」%K%P
-Saki「If you went out, then you should have at least told us%Nsomething!」%K%P
+Saki「If you went out, then you should have at least told us something!」%K%P
 0x4B8
 優夏は状況が把握できないと見えて、困惑した表情を浮かべていた。%K%P
-Yuka looks like she can't grasp the situation, a%Nbewildered expression forming on her face.%K%P
+Yuka looks like she can't grasp the situation, a bewildered expression forming on her face.%K%P
 0x4CC
 誠「あのぉ……」%K%P
 Makoto「Umm...」%K%P
@@ -222,7 +222,7 @@ Yuka「... Saved!」%K%P
 Yuka and I instinctively embrace each other.%K%P
 0x658
 優夏はオレの胸に顔をうずめ、オレは優夏のやわらかな髪にくちびるを寄せた。%K%P
-Yuka buries her face into my chest, and I bring my lips to%NYuka's soft hair.%K%P
+Yuka buries her face into my chest, and I bring my lips to Yuka's soft hair.%K%P
 0x664
 甘くとろけるような香りが体を包む。%K%P
 That bewitching, sweet scent captivates me completely.%K%P
@@ -234,7 +234,7 @@ We embrace each other even tighter...%K%P
 Everyone「...」%K%P
 0x688
 ……しかし、すぐにみんなの冷たい視線に気がついた。%K%P
-... It takes me a moment to realize that everyone is%Nblatantly staring at us.%K%P
+... It takes me a moment to realize that everyone is blatantly staring at us.%K%P
 0x694
 パッと何事もなかったかのように離れるオレと優夏。%K%P
 Yuka and I rapidly break off like nothing happened.%K%P
@@ -270,7 +270,7 @@ Kurumi「Oh, that?」%K%P
 Kurumi「Kurumi was looking for that puppy.」%K%P
 0x750
 くるみ「大雨だったから、外じゃかわいそうだと思って……」%K%P
-Kurumi「It was out in that downpour, so she felt sorry that it had%Nto be outside...」%K%P
+Kurumi「It was out in that downpour, so she felt sorry that it had to be outside...」%K%P
 0x764
 ………………………………。%K%P
 ...%K%P
@@ -297,4 +297,4 @@ Yuka「If we don't hurry and go, we won't make it!」%K%P
 Makoto「'Won't make it'... won't make what?」%K%P
 0x7CC
 そう尋ねたとたん、優夏はいきなり何も言わずにオレの腕をつかむと、はやてのような素早さで玄関を飛び出した……。%K%P
-The instant I ask that, Yuka wordlessly grabs my arm,%Nand rushes out the front door as fast as a hurricane...%K%P
+The instant I ask that, Yuka wordlessly grabs my arm, and rushes out the front door as fast as a hurricane...%K%P

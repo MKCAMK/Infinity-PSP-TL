@@ -9,7 +9,7 @@ Makoto「Is this everything?」%K%P
 Izumi「Yes. I don't think I've forgotten anything.」%K%P
 0x84
 オレ達は、ぱんぱんに詰まった買い物袋を両手にぶらさげ、ルナビーチに向かって歩き出した。%K%P
-We take the bulging shopping bags in our hands and%Nstart walking back towards Lunabeach.%K%P
+We take the bulging shopping bags in our hands and start walking back towards Lunabeach.%K%P
 0x90
 するとその時……。%K%P
 Just then, at that time...%K%P
@@ -21,7 +21,7 @@ Izumi「Ah...」%K%P
 Makoto「A-An earthquake...?」%K%P
 0x100
 その小さな揺れを感知した瞬間……それはやって来た！%K%P
-As soon as I notice the small tremors... I know what's%Ncoming!%K%P
+As soon as I notice the small tremors... I know what's coming!%K%P
 0x16C
 ──ドン！%K%P
 ―Rumble!%K%P
@@ -30,13 +30,13 @@ As soon as I notice the small tremors... I know what's%Ncoming!%K%P
 The shock waves feel like they're pushing me up...%K%P
 0x1B4
 オレ達は荷物を落とし、抱き合うような形で地面を転がりまわった。%K%P
-We drop our bags and cling to each other as we topple%Nonto the shaking ground.%K%P
+We drop our bags and cling to each other as we topple onto the shaking ground.%K%P
 0x1C0
 やがて揺れは引いていき……%K%P
 Before long, the tremors fade...%K%P
 0x210
 ……オレといづみさんは抱き合ったまま、地面に寝転がっていた。%K%P
-... Izumi-san and I are still holding on to each other, laying%Non the ground.%K%P
+... Izumi-san and I are still holding on to each other, laying on the ground.%K%P
 0x224
 いづみ「ま、誠くん！」%K%P
 Izumi「M-Makoto-kun!」%K%P
@@ -54,7 +54,7 @@ For some reason, I'm very calm.%K%P
 (There's no way in hell I'll miss this opportunity!)%K%P
 0x27C
 （本当は、場所とか時間とか色んな段取りを考えていたのだが、そんなことはこの際どうでもいい！）%K%P
-(Honestly, I'd thought up a time, place, and other plans to%Ndo this, but I don't care anymore!)%K%P
+(Honestly, I'd thought up a time, place, and other plans to do this, but I don't care anymore!)%K%P
 0x288
 （今が……チャンスだ！）%K%P
 (Now's... my chance!)%K%P
@@ -96,16 +96,16 @@ When I look in the direction she's pointing...%K%P
 (Damn it! Why now...!?)%K%P
 0x35C
 オレ達は、慌てて体を引きはがすと、落とした荷物を拾い集めながら、何事もなかったかのように立ち上がった。%K%P
-We quickly get off of each other, gather up our fallen%Nbags, and stand up like nothing happened.%K%P
+We quickly get off of each other, gather up our fallen bags, and stand up like nothing happened.%K%P
 0x38C
 億彦「あれ〜？　石原に、いづみさんじゃないか？　どうしたの？　こんなところで？」%K%P
-Okuhiko「Huh? Ishihara and Izumi-san? What's up? What are you%Ndoing here?」%K%P
+Okuhiko「Huh? Ishihara and Izumi-san? What's up? What are you doing here?」%K%P
 0x398
 誠「お前には関係ないだろっ！」%K%P
 Makoto「It doesn't concern you!」%K%P
 0x3A4
 いいところを邪魔されて、オレはかなりムカついていた。%K%P
-Right now, I'm really pissed off at Okuhiko for getting in%Nmy way.%K%P
+Right now, I'm really pissed off at Okuhiko for getting in my way.%K%P
 0x3B8
 億彦「なんだと！　石原、お前には聞いてねぇ！」%K%P
 Okuhiko「What the hell!? I wasn't asking you, Ishihara!」%K%P
@@ -117,10 +117,10 @@ Makoto「D-Damn you...」%K%P
 Izumi「There, there...」%K%P
 0x3EC
 いづみ「私達は、バーベキューの買い出しに来てたのよ。それで、帰ろうとしてたら……」%K%P
-Izumi「We were here to shop for the barbecue. We were on our%Nway back when...」%K%P
+Izumi「We were here to shop for the barbecue. We were on our way back when...」%K%P
 0x400
 億彦「さっきの地震っすね。すごかったっすね〜。%Nあれは何度体験しても……あ、いや、こっちの話……」%K%P
-Okuhiko「... that earthquake hit. That was really powerful. I wonder%Nhow many times I've experienced it... Oh, no, I was just%Ntalking to myself...」%K%P
+Okuhiko「... that earthquake hit. That was really powerful. I wonder how many times I've experienced it... Oh, no, I was just talking to myself...」%K%P
 0x40C
 億彦「ん？　そう言えばさっき……」%K%P
 Okuhiko「Huh? Now that I think about it, earlier...」%K%P
@@ -129,7 +129,7 @@ Okuhiko「Huh? Now that I think about it, earlier...」%K%P
 ―Crap!%K%P
 0x42C
 こ、こいつ見てたのか！？　%Nオレといづみさんが抱き合ってたところを！？%K%P
-D-Did he see us!? Did he see Izumi-san and I holding%Neach other!?%K%P
+D-Did he see us!? Did he see Izumi-san and I holding each other!?%K%P
 0x440
 億彦「犬のウンチを踏んづけちゃってさぁ〜。ほら見てくれよぉ〜、これ」%K%P
 Okuhiko「I stepped in some dog crap. Here, take a look.」%K%P
@@ -144,7 +144,7 @@ Okuhiko「Huh? Ishihara... that's...」%K%P
 ―Shit!!%K%P
 0x488
 も、もしかして、転げまわったときにキスマークでもついたのか！？%K%P
-C-Could I have accidentally gotten a kiss mark on my%Nface from Izumi-san when we were rolling earlier!?%K%P
+C-Could I have accidentally gotten a kiss mark on my face from Izumi-san when we were rolling earlier!?%K%P
 0x49C
 億彦「靴が入っているぞ、買い物袋に。%Nお前のだろ？　それ」%K%P
 Okuhiko「There's shoes in your shopping bag. Aren't they yours?」%K%P
@@ -153,7 +153,7 @@ Okuhiko「There's shoes in your shopping bag. Aren't they yours?」%K%P
 I quickly take out the shoes and put them back on.%K%P
 0x4BC
 倒れた拍子に脱げたのを、間違って拾い集めてしまったらしい……。%K%P
-They fell off during the quake, and I was so frantic in%Ngathering the bags afterwards that I must have put them%Nin by mistake...%K%P
+They fell off during the quake, and I was so frantic in gathering the bags afterwards that I must have put them in by mistake...%K%P
 0x4D0
 億彦「あれ？　そう言えば……」%K%P
 Okuhiko「Huh? Now that I think about it...」%K%P
@@ -165,13 +165,13 @@ Wh-What now!?%K%P
 Okuhiko「This event never happened last time... Wait, huh?」%K%P
 0x50C
 億彦が変なことに気づく前に、オレ達は速攻でその場を退散していた。%K%P
-Before Okuhiko can notice anything strange, we quickly%Nget out of the shopping district and leave him behind.%K%P
+Before Okuhiko can notice anything strange, we quickly get out of the shopping district and leave him behind.%K%P
 0x56C
 ようやくルナビーチに着いて、荷物を置いたオレ達。%K%P
 We finally arrive at Lunabeach, and place the bags down.%K%P
 0x578
 『もう少し時間があるから』と、あたりを散歩することにした。%K%P
-When I was walking, I decided to wait a little bit before%Ntrying to say what I wanted to say to Izumi-san again.%K%P
+When I was walking, I decided to wait a little bit before trying to say what I wanted to say to Izumi-san again.%K%P
 0x5A8
 誠「いづみさん……聞いて欲しいことがあるんだ」%K%P
 Makoto「Izumi-san... I want to tell you something.」%K%P
@@ -213,10 +213,10 @@ I look towards where Izumi-san is glancing...%K%P
 He slowly staggers this way while holding his stomach.%K%P
 0x698
 （ったく、なんでだよ！？　%Nまだ昼食には早過ぎる時間だろ！？）%K%P
-(Oh for God's sake, why now!? It's still too early for lunch,%Nisn't it!?)%K%P
+(Oh for God's sake, why now!? It's still too early for lunch, isn't it!?)%K%P
 0x6A4
 苛立ちを抑えながら、店の脇に隠れた。%K%N
-We quickly hide behind the side of the shop as I conceal%Nmy irritation.%K%N
+We quickly hide behind the side of the shop as I conceal my irritation.%K%N
 0x6B0
 億彦は、店の入り口に立ってドアを引いた。%K%N
 Okuhiko pulls on the shop's doorknob.%K%N
@@ -255,7 +255,7 @@ Izumi「Ah!!」%K%P
 Makoto「A-Again!?」%K%P
 0x80C
 遠くの方からフラフラと、やはりお腹を押さえてやって来る億彦の姿……。%K%P
-I see Okuhiko staggering towards the hotel from far%Naway, still holding his stomach...%K%P
+I see Okuhiko staggering towards the hotel from far away, still holding his stomach...%K%P
 0x844
 オレといづみさんはロビーの中へと入って行った。%K%N
 Izumi-san and I head into the lobby.%K%N
@@ -270,7 +270,7 @@ Shortly afterwards, Okuhiko enters the hotel.%K%P
 Okuhiko「E-Excuse me... I'd like to ask you for a little favor...」%K%P
 0x874
 今にも死にそうな声で、フロントの係員と話しこんでいる億彦。%K%P
-Okuhiko talks to the front desk clerk with a voice that%Nsounds like he's about to die.%K%P
+Okuhiko talks to the front desk clerk with a voice that sounds like he's about to die.%K%P
 0x880
 数分のやり取りの後……%K%N
 After talking for several minutes...%K%N
@@ -279,7 +279,7 @@ After talking for several minutes...%K%N
 ... Two muscular men drag him outside.%K%P
 0x898
 それでも億彦は、なかなかホテルの前から立ち去ろうとしない。%K%P
-Even so, Okuhiko shows no signs of leaving the front of%Nthe hotel.%K%P
+Even so, Okuhiko shows no signs of leaving the front of the hotel.%K%P
 0x8A4
 オレ達はこっそりと、裏口から抜け出すことにした。%K%P
 We decide to secretly escape through the back exit.%K%P
@@ -288,10 +288,10 @@ We decide to secretly escape through the back exit.%K%P
 At Viewpoint Park...%K%P
 0x934
 ここまで来れば、さすがに億彦が現れることもないだろう。%K%P
-If we've come this far, then I don't think Okuhiko will come%Nhere.%K%P
+If we've come this far, then I don't think Okuhiko will come here.%K%P
 0x940
 （今度こそ、必ずや、是が非でも告白してみせる！）%K%P
-(This time, I will definitely confess to her by all means%Npossible!)%K%P
+(This time, I will definitely confess to her by all means possible!)%K%P
 0x94C
 誠「いづみさんっ！　聞いてくれっっ！！」%K%P
 Makoto「Izumi-san! Listen to me!!」%K%P
@@ -321,19 +321,19 @@ Makoto「No... No... No...」%K%P
 Makoto「NO MOREEEEEE!!!」%K%P
 0xA04
 よろめきながら歩いて来る億彦に向かって、オレは駆け出そうとした。%K%P
-I look at the staggering Okuhiko, and try to break out%Ninto a run.%K%P
+I look at the staggering Okuhiko, and try to break out into a run.%K%P
 0xA10
 （いづみさんに告白するには、ヤツを消さなくてはならないっっ！！）%K%P
-(I need this bastard to disappear so that I can confess%Nto Izumi-san!!)%K%P
+(I need this bastard to disappear so that I can confess to Izumi-san!!)%K%P
 0xA1C
 極限状態に追い込まれたオレの思考は、既にとんでもないところへとイッてしまっていた。%K%P
-Unable to take much more of this, I clench my hands into%Nfists.%K%P
+Unable to take much more of this, I clench my hands into fists.%K%P
 0xA38
 いづみ「ダメよ！　誠くん！　隠れるのよっ！」%K%P
 Izumi「Makoto-kun, no! Hide!」%K%P
 0xA44
 いづみさんにえり首をつかまれたオレ。近くの木陰へと引きずられていく……。%K%P
-Izumi-san shakes her head and grabs me. She starts to%Ndrag me behind a nearby tree...%K%P
+Izumi-san shakes her head and grabs me. She starts to drag me behind a nearby tree...%K%P
 0xA58
 億彦の姿は見えなかったが、その声はすぐ近くに聞こえていた。%K%P
 I can't see Okuhiko, but I can hear his voice.%K%P
@@ -348,13 +348,13 @@ Okuhiko「I'm the son of the Iida Financial Group!」%K%P
 Okuhiko「Even so... Even so... they treated me like crap... *sob*」%K%P
 0xA88
 億彦「あいつら、パパに頼んで、業界から消しさってやる〜%W%W……ゼッタイだぞ〜！」%K%P
-Okuhiko「I'll have Papa make sure they get eliminated from%Nbusiness world... Absolutely!」%K%P
+Okuhiko「I'll have Papa make sure they get eliminated from business world... Absolutely!」%K%P
 0xA94
 億彦「ああ……それにしても、%W%W%Wトイレ……%W%Wトイレはどこだぁ〜……？」%K%P
 Okuhiko「Ah... but anyway, where... where's the bathroom...?」%K%P
 0xAA0
 億彦「こんなことなら……%W%Wあのオニギリ食べなきゃよかった……」%K%P
-Okuhiko「If this was how it was going to be... then I should have%Nnever eaten those damn rice balls...」%K%P
+Okuhiko「If this was how it was going to be... then I should have never eaten those damn rice balls...」%K%P
 0xAAC
 億彦「………………………………」%K%P
 Okuhiko「...」%K%P
@@ -378,7 +378,7 @@ Okuhiko「... Why... Why... are they in the middle of cleaning it now...?」%K%P
 Okuhiko「At this rate... I'll just go behind that tree...」%K%P
 0xB34
 （バ、%W%Wバカやろう！%W%W%W%W　大財閥の御曹司が外で用を足すなぁっ！！）%K%P
-(D-Dumbass! You're the son of a financial group, so don't%Ntake care of your business outside!!)%K%P
+(D-Dumbass! You're the son of a financial group, so don't take care of your business outside!!)%K%P
 0xB40
 億彦が、こっちに向かって歩いて来る。%K%P
 Okuhiko walks this way.%K%P
@@ -387,10 +387,10 @@ Okuhiko walks this way.%K%P
 We desperately run away...%K%P
 0xB84
 （何でだ！？　何で億彦のヤツ！？）%K%P
-(Why!? Why the hell does Okuhiko have to keep getting in%Nmy way!?)%K%P
+(Why!? Why the hell does Okuhiko have to keep getting in my way!?)%K%P
 0xB90
 ……………………。%N……………。%N……。%K%P
 ... ... ...%K%P
 0xB9C
 結局、オレといづみさんは、バーベキューの直前まで逃げ回るハメになった……。%K%P
-In the end, Izumi-san and I just keep running from place%Nto place until just before the barbecue...%K%P
+In the end, Izumi-san and I just keep running from place to place until just before the barbecue...%K%P

@@ -873,7 +873,7 @@ Takeshi「I'm not going to die.」%K%P
 The hatch on the bottom of the submarine opened.%K%P
 0x175C
 エアロックの中の圧縮された空気が、海中へと噴き出す。
-The air which had been compressed in the airlock was jettisoned into the ocean.
+The air which had been compressed in the airlock was%Njettisoned into the ocean.
 0x17D4
 %P
 
@@ -900,13 +900,13 @@ Tsugumi「........!」%K%P
 He could no longer hear her voice.%K%P
 0x1844
 ガラスの向こうに、彼女の姿が揺らめいて見えた。
-On the other side of the glass, he could make out her blurry outline.
+On the other side of the glass, he could make out her%Nblurry outline.
 0x1854
 %P
 
 0x1860
 泣き濡れて、くしゃくしゃになったつぐみの顔が……。
-Tsugumi's face was covered with tears, broken with sadness...
+Tsugumi's face was covered with tears, broken with%Nsadness...
 0x18A8
 %P
 

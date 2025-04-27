@@ -9,13 +9,13 @@ Izumi「Oh, I know!」%K%P
 Suddenly, Izumi-san stands up.%K%P
 0x48
 いづみ「ちょうどいいから、みんなでドライブ、行きましょうか？」%K%P
-Izumi「This is a good time, so why don't we all go on a drive%Ntogether?」%K%P
+Izumi「This is a good time, so why don't we all go on a drive together?」%K%P
 0x54
 誠「えっ！？」%K%P
 Makoto「What!?」%K%P
 0x60
 いづみ「どうせ今日はお客さん、あんまり来なさそうだし……」%K%P
-Izumi「At any rate, it doesn't seem like many customers will be%Ncoming today, so...」%K%P
+Izumi「At any rate, it doesn't seem like many customers will be coming today, so...」%K%P
 0x74
 いづみ「お店は、臨時休業ってことにするから……ね？」%K%P
 Izumi「I'll just temporarily close down the shop... okay?」%K%P
@@ -48,16 +48,16 @@ And, at that time...%K%P
 Something... falls...%K%P
 0x128
 聞き覚えのある高い金属音が鳴り響いた。%K%P
-It's the echo of a high pitched metallic sound that I've%Nheard before.%K%P
+It's the echo of a high pitched metallic sound that I've heard before.%K%P
 0x150
 ゾワゾワとはうようにして、悪寒が全身に広がっていく。%K%P
-A restless feeling creeps up on me as chills begin to%Nspread down my spine.%K%P
+A restless feeling creeps up on me as chills begin to spread down my spine.%K%P
 0x15C
 （ま、まさか……）%K%P
 (I-Impossible...)%K%P
 0x168
 いづみさんは腰をかがめ、足元に落ちたそれを拾った。%K%P
-Izumi-san bends over and picks up what she dropped to%Nher feet.%K%P
+Izumi-san bends over and picks up what she dropped to her feet.%K%P
 0x174
 手の平の上に乗っていたもの……%K%P
 In her palm...%K%P
@@ -78,7 +78,7 @@ It's definitely that bell!%K%P
 The bell I saw... in my dream.%K%P
 0x1C4
 １日の夜、海に没したはずの……鈴。%K%P
-The bell that should have sunk under the ocean... on the%Nnight of the 1st.%K%P
+The bell that should have sunk under the ocean... on the night of the 1st.%K%P
 0x1D0
 それが……。%K%N
 What's...%K%N
@@ -108,16 +108,16 @@ Izumi「I tied it to the key, but I guess it got undone.」%K%P
 Makoto「When... did you get it?」%K%P
 0x25C
 いづみ「確かおとといの、夜だったかしら？　『姫ヶ浜で拾ったの』って言って……」%K%P
-Izumi「It was the night of the 4th. Kurumi said she 'picked it up%Nat Princess Beach'...」%K%P
+Izumi「It was the night of the 4th. Kurumi said she 'picked it up at Princess Beach'...」%K%P
 0x268
 誠「姫ヶ浜……」%K%P
 Makoto「Princess Beach...」%K%P
 0x274
 そう言えば４日の午前中、オレとくるみは姫ヶ浜に……。%K%P
-Now that I think about it, on the morning of the 4th, Kurumi%Nand I went to Princess Beach...%K%P
+Now that I think about it, on the morning of the 4th, Kurumi and I went to Princess Beach...%K%P
 0x280
 あのとき、岩場でカニを捕まえていたくるみは、こんなことを言っていた。%K%P
-At that time, when she caught crabs at the rock wall,%NKurumi said this.%K%P
+At that time, when she caught crabs at the rock wall, Kurumi said this.%K%P
 0x2C8
 くるみ「ちょっと、面白いものを拾っただけ……」%K%P
 Kurumi「Kurumi just picked up something a little interesting...」%K%P
@@ -141,7 +141,7 @@ Izumi「M-Makoto-kun... what's wrong? Your face is scary...」%K%P
 Makoto「Please let me have that bell for a bit.」%K%P
 0x348
 いづみ「貸して、って……別にいいけど……どうするの？」%K%P
-Izumi「'Let you have it'... I don't really mind... but what are you%Ngoing to do with it?」%K%P
+Izumi「'Let you have it'... I don't really mind... but what are you going to do with it?」%K%P
 0x354
 誠「いいから貸してよ！　早く！」%K%P
 Makoto「It's fine, just give it to me! Quickly!」%K%P
@@ -156,7 +156,7 @@ Makoto「Shut up! Just shut up!」%K%P
 I no longer have any time to act calmly.%K%P
 0x39C
 オレの怒声におびえたのか、いづみさんはおずおずと手の平を差し出した。%K%P
-Izumi-san nervously stretches her palm out, frightened%Nby my angry voice.%K%P
+Izumi-san nervously stretches her palm out, frightened by my angry voice.%K%P
 0x3A8
 素早く、オレはその鈴を奪い取る。%K%P
 I quickly snatch the bell from her palm.%K%P
@@ -183,7 +183,7 @@ Yuka「Hold on... What the hell are you doing, Makoto!?」%K%P
 The bell rolls on the floor...%K%P
 0x410
 あれほど強くたたきつけたのに、原形をとどめたまま、傷ひとつついていない。%K%P
-Even though I threw it that hard, it's still in its original%Nform, not even a single scratch on it.%K%P
+Even though I threw it that hard, it's still in its original form, not even a single scratch on it.%K%P
 0x41C
 （チッ……）%K%P
 (Damn...)%K%P
@@ -222,7 +222,7 @@ Izumi「No...」%K%P
 Izumi「Kurumi went to all the trouble of giving this to me.」%K%P
 0x4CC
 いづみ「ちゃんと説明してくれなきゃ、わからないじゃない」%K%P
-Izumi「You need to properly explain yourself, or I can't%Nunderstand.」%K%P
+Izumi「You need to properly explain yourself, or I can't understand.」%K%P
 0x4D8
 誠「そんなこと言ってる場合じゃねぇーんだよ！」%K%P
 Makoto「There's no time to explain it!」%K%P
@@ -273,13 +273,13 @@ Makoto「A premonition!」%K%P
 Okuhiko「Huh? A premonition?」%K%P
 0x5C0
 誠「ああ、そうだ。お前が何と言おうと、確かに予知なんだ」%K%P
-Makoto「Yeah, that's right. Say what you like, but it was definitely%Na premonition.」%K%P
+Makoto「Yeah, that's right. Say what you like, but it was definitely a premonition.」%K%P
 0x5CC
 誠「オレだって、半信半疑だったけど……」%K%P
 Makoto「I admit that even I was rather dubious...」%K%P
 0x5D8
 誠「今の今まで、信じるのはやめようって、そう思ってたけど……」%K%P
-Makoto「Up until now, I thought it'd be fine if I tried not to believe it,%Nbut...」%K%P
+Makoto「Up until now, I thought it'd be fine if I tried not to believe it, but...」%K%P
 0x5E4
 誠「でも……もう限界なんだよ」%K%P
 Makoto「But... this is my limit.」%K%P
@@ -345,7 +345,7 @@ Izumi「That's enough...」%K%P
 Izumi「That's... enough...」%K%P
 0x738
 いづみ「こんなことになるんなら……初めから……やらなければよかった」%K%P
-Izumi「If things were going to turn out this way... then we%Nshouldn't... have done this from the beginning.」%K%P
+Izumi「If things were going to turn out this way... then we shouldn't... have done this from the beginning.」%K%P
 0x74C
 いづみ「こんなこと……やるんじゃなかった」%K%P
 Izumi「We shouldn't... have done this.」%K%P
@@ -378,7 +378,7 @@ Izumi「But I never thought... that things would turn out this way...」%K%P
 Izumi-san hangs her head down in defeat.%K%P
 0x7E0
 優夏と遙は『何が何だかわからない』といった感じでぼう然としている。%K%P
-Yuka and Haruka seem to be just as clueless as I am;%Nthey both look horribly confused.%K%P
+Yuka and Haruka seem to be just as clueless as I am; they both look horribly confused.%K%P
 0x7F4
 億彦だけがニヤニヤと、何やら不敵な笑みを浮かべながら……%K%P
 Only Okuhiko is smiling, a daring smirk rising to his face...%K%P
@@ -408,7 +408,7 @@ Okuhiko「Yeah, that's right.」%K%P
 Okuhiko「But don't misunderstand us.」%K%P
 0x860
 億彦「なにも僕らは、石原をからかっていたわけじゃない」%K%P
-Okuhiko「It's not like we were doing any of it to ridicule you,%NIshihara.」%K%P
+Okuhiko「It's not like we were doing any of it to ridicule you, Ishihara.」%K%P
 0x86C
 億彦「ある合理的な目的の為に、どうしても、やらざるを得なかったんだ」%K%P
 Okuhiko「We were forced to do it for a logical goal.」%K%P
@@ -417,13 +417,13 @@ Okuhiko「We were forced to do it for a logical goal.」%K%P
 None of this makes any sense to me.%K%P
 0x884
 ただ、足元からガラガラと、何かが崩れ落ちて行くような気配だけを感じていた。%K%P
-Despite that, those words make my legs grow weak to%Nthe point where I feel like I'm going to collapse.%K%P
+Despite that, those words make my legs grow weak to the point where I feel like I'm going to collapse.%K%P
 0x898
 億彦「とまあ、いきなりこんなことを言っても、何が何だかさっぱりわからないかな？」%K%P
-Okuhiko「Well, that was rather out of the blue; you don't have an%Ninkling of what's what, right?」%K%P
+Okuhiko「Well, that was rather out of the blue; you don't have an inkling of what's what, right?」%K%P
 0x8AC
 億彦「仕方がない。順を追って説明していくことにするか……」%K%P
-Okuhiko「Oh well. I'd better start explaining it to you%Nstep-by-step...」%K%P
+Okuhiko「Oh well. I'd better start explaining it to you step-by-step...」%K%P
 0x8B8
 億彦「まずは、僕らが具体的にやっていたことを、教えてやろう」%K%P
 Okuhiko「First, I'll tell you about how we did specific stuff.」%K%P
@@ -435,16 +435,16 @@ Makoto「...」%K%P
 Okuhiko「Ishihara, you see...」%K%P
 0x8DC
 億彦「石原の予知が、あたかも本当に当たっているかのように、見せかけていただけなんだよ」%K%P
-Okuhiko「We were just pretending as if all your premonitions%Nturned out to be really true.」%K%P
+Okuhiko「We were just pretending as if all your premonitions turned out to be really true.」%K%P
 0x8E8
 億彦「そうすることによって……『石原に予知能力がある』ということを、石原自身に信じ込ませようとしてたんだ」%K%P
-Okuhiko「By doing that... we made you yourself firmly believe that%Nyou had precognition: that is, the power to receive%Npremonitions.」%K%P
+Okuhiko「By doing that... we made you yourself firmly believe that you had precognition: that is, the power to receive premonitions.」%K%P
 0x8F4
 億彦「けれど、あからさまに『すごいすごい♪』ともてはやしたところで、説得力がない」%K%P
-Okuhiko「But if we'd gone overboard with praising you by saying%Nstuff like, 'You're amazing! You're incredible!', it wouldn't%Nhave been convincing.」%K%P
+Okuhiko「But if we'd gone overboard with praising you by saying stuff like, 'You're amazing! You're incredible!', it wouldn't have been convincing.」%K%P
 0x900
 億彦「この話に現実味を持たせるためには、どうしても、予知を頭ごなしに否定するような奴が必要だった」%K%P
-Okuhiko「In order to make this story possess a sense of reality,%Nwe needed someone who would always unsparingly%Ndeny your premonitions, no matter what.」%K%P
+Okuhiko「In order to make this story possess a sense of reality, we needed someone who would always unsparingly deny your premonitions, no matter what.」%K%P
 0x90C
 誠「つまりそれが……億彦だった、と？」%K%P
 Makoto「In other words, that was... you, Okuhiko?」%K%P
@@ -465,7 +465,7 @@ Okuhiko「Isn't it obvious? The whole time!」%K%P
 Okuhiko「This whole time, ever since this Seminar Camp began.」%K%P
 0x95C
 億彦「そもそもこの合宿の目的は『石原をだます』ことにあったんだからね」%K%P
-Okuhiko「In the first place, the goal of this Seminar Camp has been%N'To deceive Ishihara'.」%K%P
+Okuhiko「In the first place, the goal of this Seminar Camp has been 'To deceive Ishihara'.」%K%P
 0x968
 誠「……………………………………%T030嘘だ……」%K%P
 Makoto「... You're lying...」%K%P
@@ -474,34 +474,34 @@ Makoto「... You're lying...」%K%P
 Okuhiko「I'm not lying!」%K%P
 0x988
 億彦「例えばお前が『米が無いからパエリアは無理』と言った時には……」%K%P
-Okuhiko「For example, let's take the time when you said 'Making%Npaella will be impossible because there's no rice,'...」%K%P
+Okuhiko「For example, let's take the time when you said 'Making paella will be impossible because there's no rice,'...」%K%P
 0x994
 億彦「いづみさんはあえて、米が無いようなフリを装っていた」%K%P
 Okuhiko「Izumi-san just pretended that there was no rice left.」%K%P
 0x9A0
 億彦「例えばお前が『その車、バッテリーが上がってるから乗れないよ』と言った時には……」%K%P
-Okuhiko「Then when you said 'The car's battery's dead, so we%Ncan't drive,'...」%K%P
+Okuhiko「Then when you said 'The car's battery's dead, so we can't drive,'...」%K%P
 0x9AC
 億彦「いづみさんはわざと、エンジンがかかる前にキーをＯＦＦに戻して、本当にバッテリーが上がってる状況に見せかけてた」%K%P
-Okuhiko「Izumi-san purposely pulled the key back right when she%Nturned it in the ignition so that it would sound like the car%Nwasn't working, pretending the battery really was dead.」%K%P
+Okuhiko「Izumi-san purposely pulled the key back right when she turned it in the ignition so that it would sound like the car wasn't working, pretending the battery really was dead.」%K%P
 0x9F0
 億彦「例えばお前が『夕飯はカレーでしょ？』と言った時には……」%K%P
-Okuhiko「And remember when you asked 'Aren't we having curry%Ntonight?'...」%K%P
+Okuhiko「And remember when you asked 'Aren't we having curry tonight?'...」%K%P
 0xA04
 億彦「例えばお前が『夕飯はシチューでしょ？』と言った時には……」%K%P
-Okuhiko「And remember when you asked 'Aren't we having stew%Ntonight?'...」%K%P
+Okuhiko「And remember when you asked 'Aren't we having stew tonight?'...」%K%P
 0xA18
 億彦「例えばお前が『夕飯は肉ジャガでしょ？』と言った時には……」%K%P
-Okuhiko「And remember when you asked 'Aren't we having meat%Npotatoes tonight?'...」%K%P
+Okuhiko「And remember when you asked 'Aren't we having meat potatoes tonight?'...」%K%P
 0xA24
 億彦「僕があわてて材料を買いに行って、いづみさんが速攻でそれを作りあげた」%K%P
-Okuhiko「I quickly ran out to buy the ingredients, and Izumi-san%Nswiftly made the food.」%K%P
+Okuhiko「I quickly ran out to buy the ingredients, and Izumi-san swiftly made the food.」%K%P
 0xA38
 億彦「つまりね？　石原が予知した未来は、ただ単に、僕らが協力して無理矢理そうなるようにし向けていただけなのさ」%K%P
-Okuhiko「Long story short, the futures that you predicted were%Nmerely forced to become so by us cooperating to%Nmanipulate you.」%K%P
+Okuhiko「Long story short, the futures that you predicted were merely forced to become so by us cooperating to manipulate you.」%K%P
 0xA44
 億彦「だから当たり前の話だけど『いづみさんが亡くなる』なんてことも起こり得ないんだよ」%K%P
-Okuhiko「So it's only natural that there's no way that event where%NIzumi-san dies will happen.」%K%P
+Okuhiko「So it's only natural that there's no way that event where Izumi-san dies will happen.」%K%P
 0xA50
 いづみ「ごめんなさい……誠くん……」%K%P
 Izumi「I'm so sorry... Makoto-kun...」%K%P
@@ -528,19 +528,19 @@ Makoto「Cut the goddamn crap...」%K%P
 Izumi「... M-Makoto-kun...」%K%P
 0xAE4
 誠「なれなれしく呼ぶんじゃねぇよ！！！」%K%P
-Makoto「Enough with that '-kun' crap! Don't talk to me with that%Nover-familiar term!!!」%K%P
+Makoto「Enough with that '-kun' crap! Don't talk to me with that over-familiar term!!!」%K%P
 0xAF0
 誠「全部嘘だったんだろ！？」%K%P
 Makoto「So everything was a lie!?」%K%P
 0xAFC
 誠「これまでの６日間の出来事は、全部仕組まれたもんだったんだろ！？」%K%P
-Makoto「You're telling me that everything that happened in the%Nlast six days was all planned!?」%K%P
+Makoto「You're telling me that everything that happened in the last six days was all planned!?」%K%P
 0xB08
 理性という名の堤防が、崩れた。%K%P
 My sense of reasoning snaps.%K%P
 0xB14
 とめどなく込み上げてくる激しい怒りを、オレは抑えることができなかった。%K%P
-I'm unable to hold the violent, endless rage welling up%Ninside me.%K%P
+I'm unable to hold the violent, endless rage welling up inside me.%K%P
 0xB20
 誠「沙紀が海で溺れたことも……」%K%P
 Makoto「Saki falling into the ocean...」%K%P
@@ -561,7 +561,7 @@ Izumi「You're wrong, Makoto-kun! Please, won't you listen to me!?」%K%P
 Makoto「I see, I see... so that was it...」%K%P
 0xB70
 誠「肝だめしの時に『心配ない』って言ってくれたのは、そういうことだったんだな……」%K%P
-Makoto「When you said 'Don't worry' during the Test of Courage,%Nthat's what you meant...」%K%P
+Makoto「When you said 'Don't worry' during the Test of Courage, that's what you meant...」%K%P
 0xB7C
 誠「それにあの夜……展望公園で言ってくれた言葉も……」%K%P
 Makoto「And that night... The words you told me at Viewpoint Park...」%K%P
@@ -600,13 +600,13 @@ Makoto「I trusted them!!」%K%P
 Izumi「...」%K%P
 0xC5C
 誠「結局、オレを舞い上がらせるためのデマカセだったってわけだ……」%K%P
-Makoto「In the end, you tricked me and made me dance to your%Ntune...」%K%P
+Makoto「In the end, you tricked me and made me dance to your tune...」%K%P
 0xC68
 誠「いづみさんは、オレのことをもてあそんで楽しんでたんだ……」%K%P
-Makoto「I was nothing more than a plaything for your own%Namusement...」%K%P
+Makoto「I was nothing more than a plaything for your own amusement...」%K%P
 0xC74
 誠「歳下の男が悶々とする姿を見て、陰で密かにほくそえんでたんだ！　そうだろ！？」%K%P
-Makoto「When you saw this man younger than you worrying%Nendlessly, you secretly snickered at him behind his%Nback! Isn't that right!?」%K%P
+Makoto「When you saw this man younger than you worrying endlessly, you secretly snickered at him behind his back! Isn't that right!?」%K%P
 0xCD0
 ほほに、鋭い痛みが走った。%K%P
 A sharp pain runs across my cheek.%K%P
@@ -621,10 +621,10 @@ Her eyes are absolutely overflowing with tears...%K%P
 Izumi「Goodbye...」%K%P
 0xD60
 ドアを激しく開け放つと、いづみさんは豪雨の中へと飛び出して行った。%K%P
-Izumi-san violently throws open the door, and rushes%Nout into the downpour.%K%P
+Izumi-san violently throws open the door, and rushes out into the downpour.%K%P
 0xD6C
 取り残されたオレは、いづみさんの出て行ったドアを、ただぼう然と見つめていた。%K%P
-The rest of us are dumbfounded, and just stare at the%Ndoor Izumi-san ran out of.%K%P
+The rest of us are dumbfounded, and just stare at the door Izumi-san ran out of.%K%P
 0xD78
 ほほに残った熱い痛み……。%K%P
 I still feel that hot pain in my cheek...%K%P
@@ -633,7 +633,7 @@ I still feel that hot pain in my cheek...%K%P
 That pain finally brings me back to reality.%K%P
 0xDA4
 いづみ「本当は、真実かどうかよりも……」%K%P
-Izumi「The truth is, what's more important than whether it's true%Nor not...」%K%P
+Izumi「The truth is, what's more important than whether it's true or not...」%K%P
 0xDB0
 いづみ「信じれるかどうかのほうが、大切なことなんじゃないかって……」%K%P
 Izumi「... is whether you can believe it or not, isn't it...?」%K%P
@@ -645,4 +645,4 @@ Izumi-san's words from back then come back to me.%K%P
 ―Izumi-san!%K%P
 0xE08
 弾かれたように、いづみさんを追って飛び出した！%K%P
-I fly out of the shop, chasing after Izumi-san as fast as%Nlightning!%K%P
+I fly out of the shop, chasing after Izumi-san as fast as lightning!%K%P

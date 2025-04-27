@@ -1,4 +1,18 @@
-﻿;11d0c4;47;『%s』%%Nはすでに見ていますのでスキップします
+﻿;11bf28;11;（Ｓｕｎ）
+
+;11bf34;11;（Ｍｏｎ）
+
+;11bf40;11;（Ｔｕｅ）
+
+;11bf4c;11;（Ｗｅｄ）
+
+;11bf58;11;（Ｔｈｕ）
+
+;11bf64;11;（Ｆｒｉ）
+
+;11bf70;11;（Ｓａｔ）
+
+;11d0c4;47;『%s』%%Nはすでに見ていますのでスキップします
 
 ;11d0f4;19;0123456789ABCDEF
 
@@ -69,19 +83,18 @@ BG:
 
 ;11d54c;7;%04d
 
+# date in pause menu
 ;11d554;3;／
 /
 
 ;11d558;23;−−／−−（−−−）
---/-- (---)
+−−/−−（−−−）
 
 ;11d570;3;⑳
 
 ;11d574;7;ＰＭ
-PM
 
 ;11d57c;7;ＡＭ
-AM
 
 ;11d584;11;−−：−−
 --:--
@@ -162,7 +175,6 @@ Returning to title screen. Is this OK?%N%SYes%n  /  %N%SNo
 Date:
 
 ;11d774;3;／
-/
 
 ;11d778;7;%02d
 
@@ -170,19 +182,16 @@ Date:
 Cluster:
 
 ;11d8f4;7;ＰＭ
-PM
 
 ;11d8fc;7;%02d
 
 ;11d904;7;ＡＭ
-AM
 
 ;11d90c;3;：
 
 ;11d910;7;%04d
 
 ;11d918;3;／
-/
 
 ;11d91c;7;%02d
 
@@ -203,6 +212,7 @@ AM
 
 ;11d964;3;%d
 
+# playing log
 ;11d968;3;／
 
 ;11d96c;7;%XS06
@@ -261,20 +271,19 @@ AM
 
 ;11dbc0;3;%d
 
+# album/movie menu
 ;11dbc4;3;／
+/
 
 ;11dbc8;15;Ｖｏｌ．⑳%XS16
-Vol. %XS16
 
 ;11dbd8;3;%3d
 
 ;11dbdc;7;⑳/#
 
 ;11dbe4;15;Ｔｉｍｅ⑳%XS16
-Time %XS16
 
 ;11dbf4;11;−：−−
--:--
 
 ;11dc00;3;%1d
 
@@ -442,7 +451,7 @@ Do you want to overwrite?%%N%%SYes%%n  /  %%n%%SNo
 Do you want to load this data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11eae8;111;クイックセーブを初期化しますか？%%N（ロックされているデータは初期化されません）%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Do you want to initialize Quick Save data?%%N(Locked data is uninitialized)%%N%%SYes%%n  ／  %%n%%SNo
+Do you want to initialize Quick Save data?%%N(Locked data is uninitialized)%%N%%SYes%%n  /  %%n%%SNo
 
 ;11eb58;11;セーブ完了
 Saved
@@ -571,7 +580,9 @@ Clear the text log?%N%SYes%n  /  %n%SNo
 
 ;11f454;3;%d
 
+# date in text log
 ;11f458;3;／
+/
 
 ;11f45c;3;：
 
@@ -677,6 +688,7 @@ Entry
 
 ;11f938;7;%02d
 
+# save/load menu
 ;11f940;3;／
 
 ;11f944;3;　
@@ -694,13 +706,10 @@ Entry
 ;11f97c;3;%d
 
 ;11f980;11;Ｎｏ⑳%s
-No %s
 
 ;11f98c;23;Ｓａｖｅ　Ｄａｔｅ　%s
-Save Date %s
 
 ;11f9a4;23;Ｐｌａｙ　Ｔｉｍｅ　%s
-Play Time %s
 
 ;11f9bc;23;−−−−−−−−−−
 
@@ -709,10 +718,8 @@ Play Time %s
 ;11f9dc;31;−−−−／−−／−−（−−−）
 
 ;11f9fc;7;ＰＭ
-PM
 
 ;11fa04;7;ＡＭ
-AM
 
 ;11fa0c;15;　　−−：−−
 

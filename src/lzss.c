@@ -96,7 +96,7 @@ static void init_state(struct encode_state *sp)
 	memset(sp, 0, sizeof(*sp));
 
 	for (i = 0; i < N - F; i++)
-		sp->text_buf[i] = ' ';
+		sp->text_buf[i] = 0;
 	for (i = N + 1; i <= N + 256; i++)
 		sp->rchild[i] = NIL;
 	for (i = 0; i < N; i++)

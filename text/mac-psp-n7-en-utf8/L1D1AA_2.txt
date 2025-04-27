@@ -9,7 +9,7 @@ The ceiling is quite drafty...%K%N
 The room is rather spacious...%K%N
 0x74
 そこはまるでどこかのショールームのように、%N何もかも真新しく整然としていた。%K%P
-Everything in it is new and well organized, like a%Nshowroom.%K%P
+Everything in it is new and well organized, like a showroom.%K%P
 0x80
 南側には大きな窓ガラスがある。%K%N
 On the south wall is a huge glass window.%K%N
@@ -27,7 +27,7 @@ Yuka probably went back to her own room.%K%P
 I feel like relaxing, so I approach the sofa.%K%P
 0xBC
 ふと、ソファの上に置かれたアルミ製の灰皿に%N目がとまる。%K%N
-Suddenly, I notice someone's placed an aluminum%Nashtray on top of it.%K%N
+Suddenly, I notice someone's placed an aluminum ashtray on top of it.%K%N
 0xC8
 灰皿の中には吸い殻が１本、寂しげに転がっていた。%K%P
 Lying in the ashtray is a lone cigarette butt.%K%P
@@ -36,16 +36,16 @@ Lying in the ashtray is a lone cigarette butt.%K%P
 Makoto「Geez, what idiot put an ashtray here of all places...?」%K%P
 0xE0
 オレは灰皿を手に取って、それを目の前の%N丸テーブルの上にどかした。%K%N
-I pick it up and place it on top of a round table in front of%Nme.%K%N
+I pick it up and place it on top of a round table in front of me.%K%N
 0xEC
 そして、やわらかなソファに身を沈める。%K%P
 With that, I sink into the soft sofa.%K%P
 0xF8
 大きな窓ガラスの向こう……東から射し込む朝日が、海面に反射してキラキラと光り輝いている。%K%P
-Beyond the huge glass window, the morning sun shines%Nin from the east, its reflection sparkling on the ocean.%K%P
+Beyond the huge glass window, the morning sun shines in from the east, its reflection sparkling on the ocean.%K%P
 0x104
 何とも見事な景観だった。%K%N背もたれに体をあずけ、ぼんやりと海を眺めながら、オレは……%K
-It's quite a breathtaking scenery. Positioning myself so%Nthat I can see it better, I blankly stare out at the ocean%Nfor a while...%K
+It's quite a breathtaking scenery. Positioning myself so that I can see it better, I blankly stare out at the ocean for a while...%K
 0x8C8
 脈絡なく思いを巡らせ始める
 Try to put my thoughts together.
@@ -60,22 +60,22 @@ I... try to pull my thoughts together.%K%P
 ―First, the camp.%K%N
 0x15C
 合宿と言っても、これは部活やサークルのそれでは%Nない。%K%P
-Well, I say 「camp」, but this isn't for a school club or%Nanything.%K%P
+Well, I say 「camp」, but this isn't for a school club or anything.%K%P
 0x168
 『ゼミ合宿』%K……オレの２０年間という長い人生の%N中で、生まれて初めて聞いた、何とも不可解な%N種類の合宿だった。%K%P
-The 「Seminar Camp」. ... In all of my 20 long years of life,%Nthis is the first time I've ever heard of such a bizarre%Ncamp.%K%P
+The 「Seminar Camp」. ... In all of my 20 long years of life, this is the first time I've ever heard of such a bizarre camp.%K%P
 0x174
 ほとんど授業に出ていないせいもあって、オレは%N大学の諸々のシステムに関して、あまりよく%N理解していない。%K%P
-Truthfully, I don't really understand much about my%Ncollege's various systems, as I skipped classes often.%K%P
+Truthfully, I don't really understand much about my college's various systems, as I skipped classes often.%K%P
 0x180
 先月の頭に、後期試験の結果と進級の可否を%N確認するため、大学の掲示板を覗いたところ……%K%P
-At the start of last month, when the final exam results%Nand the list of those who were or weren't advancing to%Ntheir next grade were posted, I quickly peeked at the%Nboard, and saw...%K%P
+At the start of last month, when the final exam results and the list of those who were or weren't advancing to their next grade were posted, I quickly peeked at the board, and saw...%K%P
 0x18C
 『文学部心理学科ゼミ所属者名簿』%K%P
-「Roster of Literature Department Psychology Major%NSeminar Members.」%K%P
+「Roster of Literature Department Psychology Major Seminar Members.」%K%P
 0x198
 ……なるものが貼り出されていて、オレは自分が%N『ナントカゼミの第５班：川島班』に配属された%Nことを、そこで初めて知ったのだった。%K%P
-... It was from that announcement that I learned for the%Nfirst time that I was assigned to 「The (Something)%NSeminar's 5th Camp Group: Kawashima Party」.%K%P
+... It was from that announcement that I learned for the first time that I was assigned to 「The (Something) Seminar's 5th Camp Group: Kawashima Party」.%K%P
 0x1A4
 （ゼミの正式な名前は……%W%Wえーっと……%W%W%W忘れた）%K%P
 (The Seminar Camp's official name is... Err... I forgot.)%K%P
@@ -87,55 +87,55 @@ At the start of last month, when the final exam results%Nand the list of those w
 Next to that roster was a sheet of paper, which said...%K%P
 0x1C8
 『ナントカゼミの各班は、以下の日程に於いて、%N各班員の親睦会を兼ねた『ゼミ合宿』を行なう』%K%P
-(The Seminar Camp is designed to be as an informal%Nsocial gathering between members of each group of the%N(Something) Seminar, as listed.)%K%P
+(The Seminar Camp is designed to be as an informal social gathering between members of each group of the (Something) Seminar, as listed.)%K%P
 0x1D4
 『合宿所のキャパシティー、その他の諸事情により、各班の宿泊日時はそれぞれ異なるので各自注意すること』%K%P
-(Due to the capacity of each camping lodge and other%Ncircumstances, each group will be lodging in at a%Ndifferent day and time, so pay close attention to your%Nown.)%K%P
+(Due to the capacity of each camping lodge and other circumstances, each group will be lodging in at a different day and time, so pay close attention to your own.)%K%P
 0x1E0
 『尚、都合により参加できない者は、その旨報告するように』%K%P
-(Furthermore, if you cannot attend for a certain reason,%Nyou must submit a report.)%K%P
+(Furthermore, if you cannot attend for a certain reason, you must submit a report.)%K%P
 0x1EC
 『報告なく無断で欠席した場合は、理由の如何を%N問わず、その者を即刻除名処分とする』%K%P
-(If you don't and are absent without permission, you will%Nimmediately be expelled, regardless of your reasons.)%K%P
+(If you don't and are absent without permission, you will immediately be expelled, regardless of your reasons.)%K%P
 0x1F8
 ……そう書かれていた。%K%P
 ... From what I can remember.%K%P
 0x204
 我が川島班に指定された日時は%N『３月３１日　日曜日〜４月７日　日曜日』。%K%P
-Ours, the Kawashima Party, was assigned to the lodge%Nfrom (Sunday, March 31st-Sunday, April 7th.)%K%P
+Ours, the Kawashima Party, was assigned to the lodge from (Sunday, March 31st-Sunday, April 7th.)%K%P
 0x210
 文書の最後には『その他の詳細に関しては、%N各班長の指示に従うこと。以上』とあった。%K%P
-The bottom of the note read: 「Other details will be given%Nby your designated group leader. That is all.」%K%P
+The bottom of the note read: 「Other details will be given by your designated group leader. That is all.」%K%P
 0x21C
 川島班の班長は、当たり前だが、川島という%N名前だった。%K%P
-Of course, it makes sense that the leader of the%NKawashima Party was Kawashima herself.%K%P
+Of course, it makes sense that the leader of the Kawashima Party was Kawashima herself.%K%P
 0x228
 そう。つまり、さっき寝ぼけてオレの部屋に%N飛び込んできた、あの子だ。%K%P
-Right. In other words, that half asleep girl from earlier who%Nbarged into my room.%K%P
+Right. In other words, that half asleep girl from earlier who barged into my room.%K%P
 0x234
 彼女から電話がかかってきたのは、掲示板を見てから数日後のことだった。%K%P
-A few days later, she called me about what I'd seen on%Nthe board.%K%P
+A few days later, she called me about what I'd seen on the board.%K%P
 0x248
 優夏「……で、そしたら他の２人のメンバーが『どうしても現地集合がいい』って言うんだよねぇ……」%K%P
-Yuka「... Then I'll tell the other two members that 'We have to%Nmeet on-site, no matter what.'」%K%P
+Yuka「... Then I'll tell the other two members that 'We have to meet on-site, no matter what.'」%K%P
 0x254
 優夏「……あ、それは大丈夫。船のチケットは、学生課に行けばもらえるから……」%K%P
-Yuka「... Oh, that's all right. You'll get the boat ticket if you go to%Nthe Student Affairs office...」%K%P
+Yuka「... Oh, that's all right. You'll get the boat ticket if you go to the Student Affairs office...」%K%P
 0x260
 優夏「…うん。%W%W%W…うん。%W%W%W…えーっと、たぶん３１日の%N夜までに着いてればいいんじゃないかなぁ？」%K%P
-Yuka「Yeah... Yeah... Um... You'll have until the night of the 31st to%Nget there, so you should be fine.」%K%P
+Yuka「Yeah... Yeah... Um... You'll have until the night of the 31st to get there, so you should be fine.」%K%P
 0x26C
 優夏「……そういうことだから、よろしくね？」%K%P
 Yuka「Well then, I'll see you there!」%K%P
 0x280
 ……とまあそんな訳で、昨日の夜１０時過ぎ……%Nぐらいだったかな？%K%P
-... I ended up arriving here last night about... a little past%N10:00?%K%P
+... I ended up arriving here last night about... a little past 10:00?%K%P
 0x28C
 オレの住んでいる場所から２００ｋｍも離れたここ──絶海の孤島へと、オレは無事に到着したのだった。%K%P
-I live about 124 miles from here, but I still managed to%Nmake it here―this island in the middle of nowhere―%Nsafely.%K%P
+I live about 124 miles from here, but I still managed to make it here―this island in the middle of nowhere―safely.%K%P
 0x298
 けれど実際は『訳もわからず、半ば強制的に連れて来させられた』と言った方が、より的確な表現の%Nような気もする。%K%P
-Honestly, I feel like I was dragged so far from home for no%Nreason.%K%P
+Honestly, I feel like I was dragged so far from home for no reason.%K%P
 0x2A4
 ……………………。%K%P
 ...%K%P
@@ -159,7 +159,7 @@ The one who comes in is...%K%P
 ... Huh??%K%N
 0x35C
 ああ、そうか。そうだった……。そう言えばオレ、%Nこの子の名前聞いてなかったっけ……。%K%P
-Oh, yeah. That's right... Come to think of it, I don't think I've%Nheard this girl's name yet...%K%P
+Oh, yeah. That's right... Come to think of it, I don't think I've heard this girl's name yet...%K%P
 0x368
 誠「おはよう」%K%P
 Makoto「Good morning.」%K%P
@@ -171,22 +171,22 @@ I greet her cheerfully.%K%P
 ???「...」%K%P
 0x39C
 何秒か、返事を待ってみるが、その期待は見事に%N裏切られることとなる。%K%P
-I wait several seconds for a reply, only to get none in%Nreturn.%K%P
+I wait several seconds for a reply, only to get none in return.%K%P
 0x3C8
 彼女はオレの言葉を完全に無視して、スタスタと%N何事もなかったかのようにキッチンの奥へと消えて%Nしまった。%K%P
-The girl completely ignores me and quickly disappears%Ninto the kitchen, as if nothing had happened.%K%P
+The girl completely ignores me and quickly disappears into the kitchen, as if nothing had happened.%K%P
 0x3D4
 いや、それは意図的な無視と言うよりも、どうやら%N無意識的で自然な行動のように見えた。%K%P
-No, she might not have ignored me intentionally, as it%Nseemed to be an unconscious and natural behavior for%Nher.%K%P
+No, she might not have ignored me intentionally, as it seemed to be an unconscious and natural behavior for her.%K%P
 0x3E0
 例えば、ＴＶから聞こえてくる『おはよう』に対して、いちいち誰も反応なんか示したりはしないのと%N同じように。%K%P
-For instance, if she thought she heard the greeting%Ncoming from the TV, then she probably would have%Nignored it.%K%P
+For instance, if she thought she heard the greeting coming from the TV, then she probably would have ignored it.%K%P
 0x3EC
 肩透かしを食らった形のオレは、ふらふらと流されて行く『おはよう』の決着をつけるべく、キッチンの%N方へと足を向けた。%K%P
-Having been ignored, I become determined to clear up%Nthis 「good morning」 issue, so I stagger to my feet and%Nhead for the kitchen.%K%P
+Having been ignored, I become determined to clear up this 「good morning」 issue, so I stagger to my feet and head for the kitchen.%K%P
 0x47C
 再度捕まえ直した『おはよう』を、もう一度ここで%N放してみる。%K%P
-In an attempt to fix the situation, I face her and try to%Nsay 「Good morning」, again.%K%P
+In an attempt to fix the situation, I face her and try to say 「Good morning」, again.%K%P
 0x488
 誠「おはよう」%K%P
 Makoto「Good morning.」%K%P
@@ -195,10 +195,10 @@ Makoto「Good morning.」%K%P
 ???「...」%K%P
 0x4BC
 無言のまま、彼女は蛇口をひねってコップに水を%N注いだ。%K%P
-Without a word, she turns the sink faucet, filling her glass%Ncup with water.%K%P
+Without a word, she turns the sink faucet, filling her glass cup with water.%K%P
 0x4C8
 コクコクと小さな音をたてて、それを一気に%N飲み干す。%K
-With a tiny sound, she drinks the entire cup in one large%Ngulp.%K
+With a tiny sound, she drinks the entire cup in one large gulp.%K
 0x8E0
 ３回目の『おはよう』を告げる
 Third time's the charm.
@@ -216,7 +216,7 @@ I should keep trying, shouldn't I?%K%P
 Makoto「Good morning!」%K%P
 0x548
 彼女は空になったコップをシンクの底に置きながら、ようやくポツリと呟いた。%K%P
-The girl places her empty cup at the bottom of the sink%Nand sighs as she mutters...%K%P
+The girl places her empty cup at the bottom of the sink and sighs as she mutters...%K%P
 0x554
 ？？「おはよう」%K%P
 ???「Good morning.」%K%P
@@ -225,7 +225,7 @@ The girl places her empty cup at the bottom of the sink%Nand sighs as she mutter
 However, she says this without looking at me.%K%P
 0x56C
 まるで、蛇口の先端からしたたり落ちる水滴に%N向かって挨拶をしているようにさえ見えた。%K%P
-It's almost as if she's greeting the water dripping from%Nthe faucet instead.%K%P
+It's almost as if she's greeting the water dripping from the faucet instead.%K%P
 0x578
 誠「なあ……？%W%W　オレ…何か怒らせるようなこと…%Nしたかな？」%K%P
 Makoto「Say... Did I... offend you... somehow?」%K%P
@@ -237,7 +237,7 @@ Makoto「Say... Did I... offend you... somehow?」%K%P
 Her gaze is still fixed on the faucet.%K%P
 0x59C
 誠「どうして、って……。ただ何となく…避けられてるような気が…したから」%K%P
-Makoto「Why...? Well, because... Because it kinda feels like you're...%Navoiding me.」%K%P
+Makoto「Why...? Well, because... Because it kinda feels like you're... avoiding me.」%K%P
 0x5A8
 ？？「…………」%K%P
 ???「...」%K%P
@@ -249,7 +249,7 @@ She doesn't answer me.%K%P
 Not only does she not answer, she doesn't move at all.%K%N
 0x5CC
 このままいくら粘ってみたところで、彼女の口から%N言葉が発せられることは永遠にないように思えた。%K%P
-At this rate, no matter how much I persist, it feels like%Nshe'll never speak again for all eternity.%K%P
+At this rate, no matter how much I persist, it feels like she'll never speak again for all eternity.%K%P
 0x5D8
 誠「ゴメン」%K%P
 Makoto「Sorry.」%K%P
@@ -282,7 +282,7 @@ Those words sounded incredibly forced and clichéd.%K%N
 I feel my face flush from embarrassment.%K%P
 0x67C
 誠「その様子だと、ちょっと寝不足気味って%N感じかな？」%K%P
-Makoto「I mean, not to be rude, but you don't look like you slept%Nmuch.」%K%P
+Makoto「I mean, not to be rude, but you don't look like you slept much.」%K%P
 0x688
 ？？「…………」%K%P
 ???「...」%K%P
@@ -291,19 +291,19 @@ Makoto「I mean, not to be rude, but you don't look like you slept%Nmuch.」%K%P
 No answer.%K%N
 0x6A0
 蛇口からしたたる水滴を、ただぼんやりと%N眺めている。%K%P
-Instead, the absentminded girl just watches the water%Ndrip from the faucet.%K%P
+Instead, the absentminded girl just watches the water drip from the faucet.%K%P
 0x6AC
 誠「そりゃユウウツにもなるよなぁ……。%K%N貴重な春休みだってえのに、%Nこんなとこ無理矢理連れて来させられてさ。%K%Nオレだって、正直気が滅入っているよ」%K%P
-Makoto「Oh, you're not feeling depressed, are you? After all, you%Nwere taken away from your precious spring break%Nagainst your will. Honestly, I'm bummed about that, too.」%K%P
+Makoto「Oh, you're not feeling depressed, are you? After all, you were taken away from your precious spring break against your will. Honestly, I'm bummed about that, too.」%K%P
 0x6B8
 ？？「…………」%K%P
 ???「...」%K%P
 0x6C4
 誠「だけど、しょうがないよな。%Kしょうがないんだよ。%Kしょうがないんだって。%W%Wうん」%K%P
-Makoto「But you know, it can't be helped. It's too late now. So let's%Nmake the best of it. Okay?」%K%P
+Makoto「But you know, it can't be helped. It's too late now. So let's make the best of it. Okay?」%K%P
 0x6D0
 誠「だとしたら、せめてこの合宿期間を、楽観的に、%W%W前向きに、%W%Wポジティブに過ごした方がっ」%K%P
-Makoto「I mean, if we're going to spend the week here, then it'd be%Nbest to pass our time at this camp as optimistically, as%Nproductively, and as energetically as we-」%K%P
+Makoto「I mean, if we're going to spend the week here, then it'd be best to pass our time at this camp as optimistically, as productively, and as energetically as we-」%K%P
 0x6DC
 ？？「意味無いよ」%K%P
 ???「It's meaningless.」%K%P
@@ -333,7 +333,7 @@ I'm speechless.%K%P
 Makoto「What?」%K%P
 0x754
 聞き返すオレの脇をするりとすり抜け、彼女は%Nリビングへと戻って行く。%K%P
-Before I can ask again, she slips right by me and returns%Nto the living room.%K%P
+Before I can ask again, she slips right by me and returns to the living room.%K%P
 0x7AC
 さっきまでオレが腰を下ろしていた重厚なソファ。%K%N
 Up until earlier, I had been sitting down on the comfy sofa.%K%N
@@ -345,4 +345,4 @@ But now, the girl is sitting where I was in a demure manner.%K%P
 While trying to think about what to say...%K%P
 0x7FC
 ……そうこうしているうちに、『奴』が眠そうな目を%Nこすりながら、リビングへと姿を現した。%K%P
-... It's at that point that 「he」 shows up, entering the living%Nroom while rubbing the sleep out of his eyes.%K%P
+... It's at that point that 「he」 shows up, entering the living room while rubbing the sleep out of his eyes.%K%P

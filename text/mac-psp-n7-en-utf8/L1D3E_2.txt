@@ -3,7 +3,7 @@ text area offset and size:
 0x388F
 0x5C
 部屋で着替え終えたオレは、ベッドに身を投げた。天井にぼんやり遙の顔が浮かんだ。%K%P
-Once I finish changing, I throw myself onto the bed.%NHaruka's face faintly forms on the ceiling.%K%P
+Once I finish changing, I throw myself onto the bed. Haruka's face faintly forms on the ceiling.%K%P
 0x68
 オレは遙をどう思っているんだろう？%K%P
 What do I think of Haruka?%K%P
@@ -18,31 +18,31 @@ Even so, we kissed... No, it was just on the forehead.%K%P
 Why didn't I kiss her on the lips back then?%K%P
 0xA8
 その時だ。%N億彦の声が聞こえた。%Nみんなが帰ってきたのか？　とオレは身を起こす。%K%P
-At that moment, I hear Okuhiko's voice. As I get out of%Nbed, I wonder what's going on.%K%P
+At that moment, I hear Okuhiko's voice. As I get out of bed, I wonder what's going on.%K%P
 0xB4
 しかし、億彦の声しか聞こえない。%N窓を開けてみると、テラスに億彦の姿が見えた。%K%P
-He sounds furious. I open the window to find Okuhiko on%Nthe terrace.%K%P
+He sounds furious. I open the window to find Okuhiko on the terrace.%K%P
 0xC0
 誰かを壁際に寄りかからせて、%N何やら強く話している。%K%P
-He is approaching someone against the wall while yelling%Nat them.%K%P
+He is approaching someone against the wall while yelling at them.%K%P
 0xCC
 オレは何となく嫌な予感がして、%N部屋から駆け出した。%K%P
-I'm getting a bad feeling about this, so I rush out of my%Nroom.%K%P
+I'm getting a bad feeling about this, so I rush out of my room.%K%P
 0x120
 玄関を出たオレは、テラスのほうに目を向けた。%K%P
 I open the front door, and look towards the terrace.%K%P
 0x12C
 億彦の背中が見えた。%Nその向こうでうなだれているのは%W……遙だった。%Nここからだと話の内容がツツヌケだ。%K%P
-I can see Okuhiko's back. He's talking to... Haruka. From%Nhere, I can hear their conversation clearly.%K%P
+I can see Okuhiko's back. He's talking to... Haruka. From here, I can hear their conversation clearly.%K%P
 0x138
 億彦「どうして石原なんかと釣りに行ったの？　あいつのどこがいいわけ？」%K%P
-Okuhiko「Why did you go fishing with Ishihara? What do you see in%Nthat asshole?」%K%P
+Okuhiko「Why did you go fishing with Ishihara? What do you see in that asshole?」%K%P
 0x144
 遙「誠は……%W%Wやさしくしてくれる……」%K%P
 Haruka「Makoto... is kind to me...」%K%P
 0x150
 億彦「やさしい？%W%W　石原が？%W%W　あいつは低俗なだけだ。%Nどうせ何か魂胆があるに決まってるさ」%K%P
-Okuhiko「Kind? Ishihara? He's nothing but a vulgar bastard. In any%Ncase, it's clear as day that he has a ulterior motive.」%K%P
+Okuhiko「Kind? Ishihara? He's nothing but a vulgar bastard. In any case, it's clear as day that he has a ulterior motive.」%K%P
 0x15C
 遙「私達は信じあっているの。%N億彦にはわからない……」%K%P
 Haruka「We trust each other. You wouldn't understand...」%K%P
@@ -51,28 +51,28 @@ Haruka「We trust each other. You wouldn't understand...」%K%P
 Okuhiko「You're the one who doesn't understand about Ishihara.」%K%P
 0x174
 遙「私と誠のことは、億彦には関係ない」%K%P
-Haruka「What's going on between me and Makoto is none of your%Nconcern.」%K%P
+Haruka「What's going on between me and Makoto is none of your concern.」%K%P
 0x180
 億彦「いや、ある！　関係あるよ！　遙ちゃん、僕は君のことを……！」%K%P
 Okuhiko「You're wrong! It does concern me! Haruka-chan, I...!」%K%P
 0x18C
 と、迫った億彦を遙が押し退けて歩き出す。%K%P
-Just then, Haruka shoves him aside as she tries to walk%Naway.%K%P
+Just then, Haruka shoves him aside as she tries to walk away.%K%P
 0x198
 億彦が振り返って、すがるように遙の腕をつかんだ。%K%P
-Before she can, Okuhiko turns around and quickly grabs%Nher by the arm.%K%P
+Before she can, Okuhiko turns around and quickly grabs her by the arm.%K%P
 0x1A4
 その時、オレは初めて２人と目が合った。%N遙の顔に、パッと赤みが広がった。%K%P
-At that time, their eyes lock onto me. A blush rapidly%Nspreads across Haruka's face.%K%P
+At that time, their eyes lock onto me. A blush rapidly spreads across Haruka's face.%K%P
 0x1B0
 億彦は露骨に舌打ちして、遙の腕を放した。%K%P
-Okuhiko loudly clicks his tongue, and lets go of Haruka's%Narm.%K%P
+Okuhiko loudly clicks his tongue, and lets go of Haruka's arm.%K%P
 0x1CC
 オレがテラスに入ると、遙が飛び込むように%N近寄ってきた。%K%P
-When I step onto the terrace, Haruka runs right towards%Nme.%K%P
+When I step onto the terrace, Haruka runs right towards me.%K%P
 0x1D8
 誠「天下の億彦くんにしちゃ、ずいぶんみっともないことしてるじゃないの？」%K%P
-Makoto「Wow, you sure do have a way with the ladies, Almighty%NOkuhiko-kun.」%K%P
+Makoto「Wow, you sure do have a way with the ladies, Almighty Okuhiko-kun.」%K%P
 0x1F4
 億彦「うるさい。石原に言われる筋合いはないね」%K%P
 Okuhiko「Shut up. You don't have the right to say anything.」%K%P
@@ -87,13 +87,13 @@ Haruka「Wait. Tell him straight.」%K%P
 Makoto「Huh?」%K%P
 0x234
 遙「私と誠。信じあってるってこと。どんなことがあっても……そうでしょう？」%K%P
-Haruka「About me and you. About how we trust each other, no%Nmatter what happens... isn't that right?」%K%P
+Haruka「About me and you. About how we trust each other, no matter what happens... isn't that right?」%K%P
 0x240
 誠「ちょっと待て、遙」%K%P
 Makoto「Wait a min-」%K%P
 0x24C
 遙「億彦に言ってあげて。億彦には関係ないんだって。私達にしかわからないんだって」%K%P
-Haruka「Tell Okuhiko. Tell him it doesn't concern him. Tell him we're%Nthe only ones who understand.」%K%P
+Haruka「Tell Okuhiko. Tell him it doesn't concern him. Tell him we're the only ones who understand.」%K%P
 0x258
 おいおい、何だこの展開は？%K%P
 Hey, what's all this about?%K%P
@@ -105,7 +105,7 @@ Haruka「Why aren't you saying anything?」%K%P
 Is she trying to confirm my feelings for her?%K%P
 0x27C
 さっきまでそんなことわからないって言ってた筈の遙が！　黙っているオレに、遙は追い討ちをかけてきた。%K%P
-Up until earlier, wasn't she was the one who said she%Ndidn't understand that!? In my silence, Haruka delivers%Nthe final blow.%K%P
+Up until earlier, wasn't she was the one who said she didn't understand that!? In my silence, Haruka delivers the final blow.%K%P
 0x288
 遙「私達、信じあえてないってこと？」%K%P
 Haruka「Are you saying we can't trust each other?」%K%P
@@ -114,7 +114,7 @@ Haruka「Are you saying we can't trust each other?」%K%P
 Makoto「That's not it, that's not...」%K%P
 0x2A0
 遙「私のこと、何とも思ってないの%W%W……キスもしてくれたのに……」%K%P
-Haruka「So you don't think anything of me at all... even though%Nyou gave me a kiss...」%K%P
+Haruka「So you don't think anything of me at all... even though you gave me a kiss...」%K%P
 0x2BC
 誠「……！」%K%P
 Makoto「...!」%K%P
@@ -147,10 +147,10 @@ Makoto「Because you told me to ki...」%K%P
 I can't understand why I'm saying this.%K%P
 0x5A0
 幸いなことに、オレの言葉は突然襲ってきた億彦のパンチによって中断された。急襲されたオレは、膝をついてしまう。%K%P
-Fortunately, I am interrupted by Okuhiko suddenly%Npunching me. He hits me, and I fall to my knees.%K%P
+Fortunately, I am interrupted by Okuhiko suddenly punching me. He hits me, and I fall to my knees.%K%P
 0x5AC
 ふと、遙の方を見る。あいかわらずの無表情。%Nでも、少し悲しそうな瞳。%K%P
-I quickly look towards Haruka, and although her face is%Nas expressionless as ever, there's a hint of sorrow in%Nher eyes.%K%P
+I quickly look towards Haruka, and although her face is as expressionless as ever, there's a hint of sorrow in her eyes.%K%P
 0x5B8
 遙はオレの言葉を聞いてしまったのだろうか？%K%P
 She probably heard what I said.%K%P
@@ -159,31 +159,31 @@ She probably heard what I said.%K%P
 Because...%K%P
 0x810
 その瞬間。億彦のパンチがオレの顔を直撃した。急襲されたオレは、膝をついてしまった。%K%P
-At that instant. Okuhiko punches me right in my face,%Nmaking me fall to my knees.%K%P
+At that instant. Okuhiko punches me right in my face, making me fall to my knees.%K%P
 0x824
 億彦「遙ちゃんに何てことをするんだ……！%N君の持ち物じゃないんだぞ！」%K%P
-Okuhiko「How could you do that to Haruka-chan...! She doesn't%Nbelong to you, dammit!」%K%P
+Okuhiko「How could you do that to Haruka-chan...! She doesn't belong to you, dammit!」%K%P
 0x830
 オレは唾を吐いて立ち上がる。億彦が遙の両肩をつかんだ。%K%P
-I spit out saliva and stand up. Okuhiko has seized%NHaruka's shoulders.%K%P
+I spit out saliva and stand up. Okuhiko has seized Haruka's shoulders.%K%P
 0x83C
 億彦「遙ちゃん、こんないい加減な奴の%Nどこがいいんだ？」%K%P
-Okuhiko「Haruka-chan, what's so good about this irresponsible%Nbastard?」%K%P
+Okuhiko「Haruka-chan, what's so good about this irresponsible bastard?」%K%P
 0x848
 遙「……」%K%P
 Haruka「...」%K%P
 0x854
 億彦「僕は違う。信じるなんてレベルじゃない。%N愛しているんだ……！」%K%P
-Okuhiko「I'm different. I'm beyond a level of trust with you. I love%Nyou...!」%K%P
+Okuhiko「I'm different. I'm beyond a level of trust with you. I love you...!」%K%P
 0x860
 遙「……」%K%P
 Haruka「...」%K%P
 0x86C
 億彦「わからないのかい？　僕を見るんだ！%N君を愛している男がここにいる！」%K%P
-Okuhiko「You don't understand? Look at me! The man who loves%Nyou is right here!」%K%P
+Okuhiko「You don't understand? Look at me! The man who loves you is right here!」%K%P
 0x878
 遙は億彦から顔をそむけ、オレのほうを見た。すっと表情が消えていった。%K%P
-Haruka turns her head away from Okuhiko, and looks at%Nme. Her expression darkens.%K%P
+Haruka turns her head away from Okuhiko, and looks at me. Her expression darkens.%K%P
 0x894
 遙「私……%W%Wわからない……%W%Wないから……%W%W心が、ないから……」%K%P
 Haruka「I... don't understand... because... I have no heart...」%K%P
@@ -198,13 +198,13 @@ Makoto「Stop it, Okuhiko! Haruka is starting to find her 'heart'!」%K%P
 Okuhiko「Stay out of this. You don't even love her.」%K%P
 0x8C4
 誠「お、お前だっていろんな女の子に手当り次第……。沙紀のことはどうなんだ？%K%N愛してもいないくせに、調子いいことばっかり言いやがって！」%K%P
-Makoto「Y-You've already got plenty of other girls, you know...%NWhat about Saki? Why are you constantly hitting on her%Nif you don't even like her?!」%K%P
+Makoto「Y-You've already got plenty of other girls, you know... What about Saki? Why are you constantly hitting on her if you don't even like her?!」%K%P
 0x8D0
 億彦「あれは君、彼女の好意に応えてやったまでのことじゃないか」%K%P
-Okuhiko「You're just trying to take advantage of Haruka-chan's%Ngood will.」%K%P
+Okuhiko「You're just trying to take advantage of Haruka-chan's good will.」%K%P
 0x8DC
 誠「ふざけるな！　お前は、遙がオレとの約束に%Nこだわったのが面白くなかっただけだろ！%K%Nだから沙紀の相手をしたんだ！　%N沙紀を何だと思ってるんだ！」%K%P
-Makoto「Don't screw with me! You've just been jealous ever since%NHaruka and I made our promise, right? That's why you%Nchose Saki! Just what do you think Saki is?」%K%P
+Makoto「Don't screw with me! You've just been jealous ever since Haruka and I made our promise, right? That's why you chose Saki! Just what do you think Saki is?」%K%P
 0x8E8
 遙「沙紀……%W%W沙紀はいや……」%K%P
 Haruka「Saki... Not Saki...」%K%P
@@ -216,13 +216,13 @@ Makoto「...!?」%K%P
 Haruka「She's... always... stealing... from me...」%K%P
 0x90C
 億彦「大丈夫だよ、遙ちゃん。%W%W%N沙紀ちゃんのことは関係ない。僕はあの子のことなんかどうでもいい。何とも思っちゃいないんだ……！」%K%P
-Okuhiko「It's all right, Haruka-chan. Saki-chan has nothing to do%Nwith this. I don't care about her. I couldn't give a shit%Nabout her...!」%K%P
+Okuhiko「It's all right, Haruka-chan. Saki-chan has nothing to do with this. I don't care about her. I couldn't give a shit about her...!」%K%P
 0x93C
 乾いた音が響く。%K%P
 A dry sound echoes.%K%P
 0x950
 オレ達は、ハッと振り返った。玄関脇に沙紀が立ちつくしていた。バスケットを持って。%K%P
-Taken aback, we all turn towards the sound. Saki is%Nstanding frozen by the front door, carrying her basket.%K%P
+Taken aback, we all turn towards the sound. Saki is standing frozen by the front door, carrying her basket.%K%P
 0x95C
 足許には、テニスのラケットが転がっている。%K%P
 By her feet are tennis rackets, scattered about.%K%P
@@ -237,16 +237,16 @@ Okuhiko「Y-You're wrong, Saki-chan. There's a reason for...!」%K%P
 Saki begins to run away, and Okuhiko rushes after her.%K%P
 0x9CC
 差し出した億彦の手を、沙紀が激しくはねつけた。オレも慌てて玄関前に飛び降りる。%K%P
-She violently slaps Okuhiko's extended hand away. I%Nfrantically jump out of the front door.%K%P
+She violently slaps Okuhiko's extended hand away. I frantically jump out of the front door.%K%P
 0x9D8
 その時、優夏とくるみが何やら笑いあいながら帰ってきた。%K%P
-At that time, Yuka and Kurumi return while laughing about%Nsomething.%K%P
+At that time, Yuka and Kurumi return while laughing about something.%K%P
 0xA44
 沙紀がバスケットを階段に叩き付けた。そのまま激しく踏み潰す。%K%P
-Saki throws the basket onto the staircase. She then%Nvexingly crushes it with her foot.%K%P
+Saki throws the basket onto the staircase. She then vexingly crushes it with her foot.%K%P
 0xAB8
 踏み潰す！　踏み潰す！！%Nグニャグニャに歪むバスケット！%N散らばるプラスチックの食器！%K%P
-She crushes it! The sound of wood snapping is heard.%NThe basket has now broken apart. Plastic tableware%Nscatters everywhere.%K%P
+She crushes it! The sound of wood snapping is heard. The basket has now broken apart. Plastic tableware scatters everywhere.%K%P
 0xAD8
 くるみ「沙紀さん……！」%K%P
 Kurumi「Saki-san...!」%K%P
@@ -255,7 +255,7 @@ Kurumi「Saki-san...!」%K%P
 Yuka「Wh-What's wrong!?」%K%P
 0xB2C
 表情を変えて、優夏とくるみが駆け寄ってきた。%K%P
-Yuka and Kurumi rush over to us, their expressions%Ncompletely changed.%K%P
+Yuka and Kurumi rush over to us, their expressions completely changed.%K%P
 0xB38
 沙紀は静まらない……。%K%P
 Saki won't calm down...%K%P
@@ -270,7 +270,7 @@ Hold her down with all my might.
 Persuade her to calm down.
 0xB84
 オレも、羽交い締めにするように沙紀の体を取り押さえる。それでも沙紀は、食器もひとつひとつ踏み潰そうとする。%K%P
-I restrain Saki's body with a full nelson. Despite this, she%Nstill tries to crush each of the tableware one by one.%K%P
+I restrain Saki's body with a full nelson. Despite this, she still tries to crush each of the tableware one by one.%K%P
 0xB90
 誠「沙紀！　落ち着け！　沙紀！！」%K%P
 Makoto「Saki! Dammit, calm down!!」%K%P
@@ -279,40 +279,40 @@ Makoto「Saki! Dammit, calm down!!」%K%P
 Saki「Don't touch me!」%K%P
 0xDDC
 オレは凄まじい力で跳ね飛ばされた。%N玄関先まで後退って、オレは茫然とした。%K%P
-Saki sends me flying with tremendous strength. In a%Ndaze, I shrink back to the front door.%K%P
+Saki sends me flying with tremendous strength. In a daze, I shrink back to the front door.%K%P
 0xDE8
 沙紀が、ジロリとオレ達を見回す。優夏とくるみは、思わず寄り添うように身を寄せた。%K%P
-Saki glares at all of us. Alarmed, Yuka and Kurumi cling to%Neach other.%K%P
+Saki glares at all of us. Alarmed, Yuka and Kurumi cling to each other.%K%P
 0xDF4
 億彦は、情けないほど震え上がっている。オレが口を開きかけた途端、沙紀が浴びせた。%K%P
-Okuhiko is trembling pathetically. As soon as I open my%Nmouth, Saki explodes.%K%P
+Okuhiko is trembling pathetically. As soon as I open my mouth, Saki explodes.%K%P
 0xE08
 沙紀「私がいいって言うまで話さないで！」%K%P
 Saki「Don't talk until I say so!」%K%P
 0xE24
 誠「沙紀、落ち着け！　なっ。ここで怒って暴れてもしょうがないだろ？」%K%P
-Makoto「Saki, calm down! Getting angry and going on a rampage%Nwon't accomplish anything!」%K%P
+Makoto「Saki, calm down! Getting angry and going on a rampage won't accomplish anything!」%K%P
 0xE38
 沙紀「…………」%K%P
 Saki「...」%K%P
 0xE44
 沙紀はオレの方を見る。%N瞳には依然として怒りの炎がチラついている。%K%P
-Saki looks at me. The anger in her eyes is still blazing like%Nan inferno.%K%P
+Saki looks at me. The anger in her eyes is still blazing like an inferno.%K%P
 0xE50
 ……こ、怖い……。%N怒りに燃えた沙紀の表情は本当に恐ろしかった。%K%P
-... Holy shit... Saki's face all boiled up in rage is truly%Nterrifying.%K%P
+... Holy shit... Saki's face all boiled up in rage is truly terrifying.%K%P
 0xE5C
 ここまで沙紀を怒らせた億彦への想いとは……。%K%N
 It's because of her strong feelings towards Okuhiko...%K%N
 0xE68
 憎しみとは愛情の裏返しである、とはよく言ったものだ。%K%P
-It's obvious that she hates him for the heartbreak he%Njust put her through.%K%P
+It's obvious that she hates him for the heartbreak he just put her through.%K%P
 0xE74
 誠「沙紀……%W%Wさん。とりあえず……%W%W%W落ち着こう」%K%P
 Makoto「Saki... san. Please... calm down for now.」%K%P
 0xE80
 誠「ほら、もしかしたら、いろいろと誤解しているのかもしれないし、きちんと話し合えば『なーんだそんなことだったの〜』%W%Wで済んじゃうかもしれないだろ？」%K%P
-Makoto「Come on, this might just be a huge misunderstanding on%Neveryone's part. Maybe if we talk about it together, we%Ncan sort this out and say, 'Oh, so that's all it was' later%Non.」%K%P
+Makoto「Come on, this might just be a huge misunderstanding on everyone's part. Maybe if we talk about it together, we can sort this out and say, 'Oh, so that's all it was' later on.」%K%P
 0xE94
 沙紀「……話し合い……%W%Wねぇ」%K%P
 Saki「... Talk about this... together.」%K%P
@@ -321,19 +321,19 @@ Saki「... Talk about this... together.」%K%P
 Makoto「Yes, that's good. Let's do it. Right, Saki...」%K%P
 0xEBC
 オレは沙紀の肩にポンと手を当てた。……その瞬間、沙紀は激しくオレの手を払いのける。%K%P
-I place a hand on Saki's shoulder... In that instant, Saki%Nviolently flings my hand off of her.%K%P
+I place a hand on Saki's shoulder... In that instant, Saki violently flings my hand off of her.%K%P
 0xED0
 沙紀「なれなれしく触らないで！！」%K%P
 Saki「Don't touch me like I'm your friend!!」%K%P
 0xEDC
 沙紀の表情に、より一層の怒りが浮かぶ。オレは火に油を注いでしまったのだろうか？%K%P
-Saki's expression is even angrier than before. Did I just%Nadd fuel to the fire?%K%P
+Saki's expression is even angrier than before. Did I just add fuel to the fire?%K%P
 0xEE8
 沙紀「フン……、話し合いですって？　そんな余地がどこにあるっていうの？　お友達ごっこはもうウンザリだわ！！」%K%P
-Saki「Hmph... Talk about it together? And just where the hell%Nwould we do that? I'm fed up of playing buddy-buddy%Nwith all of you!!」%K%P
+Saki「Hmph... Talk about it together? And just where the hell would we do that? I'm fed up of playing buddy-buddy with all of you!!」%K%P
 0xEF4
 オレはなんとか場を取り直そうと口を開きかけるが、沙紀はそれすらも許さなかった。%K%P
-I try to open my mouth to see if I can fix the situation, but%NSaki doesn't even let me do that.%K%P
+I try to open my mouth to see if I can fix the situation, but Saki doesn't even let me do that.%K%P
 0xF00
 沙紀「私がいいって言うまで話さないで！」%K%P
 Saki「Don't talk until I say so!」%K%P
@@ -342,7 +342,7 @@ Saki「Don't talk until I say so!」%K%P
 Yuka「What are you saying, Saki!?」%K%P
 0xF30
 沙紀「うるさいわね、優夏！　あなたは黙って絵、描いてなさいよ……！」%K%P
-Saki「Shut up, Yuka! Why don't you just go draw your little%Npictures like you did back then...!?」%K%P
+Saki「Shut up, Yuka! Why don't you just go draw your little pictures like you did back then...!?」%K%P
 0xF44
 優夏「……沙紀！」%K%P
 Yuka「... Saki!」%K%P
@@ -351,13 +351,13 @@ Yuka「... Saki!」%K%P
 Makoto「...!?」%K%P
 0xF90
 沙紀が億彦を見た。億彦がギクッと肩をすくめる。%K%P
-Saki glares at Okuhiko, whose shoulders shoot up with a%Nstart.%K%P
+Saki glares at Okuhiko, whose shoulders shoot up with a start.%K%P
 0xF9C
 くるみが駆け寄って、沙紀に抱きついた。%K%P
 Kurumi runs over to Saki and clings to her.%K%P
 0xFB8
 くるみ「沙紀さん、やめて！　やだよぉ……こんなの見たくないよ……！」%K%P
-Kurumi「Saki-san, stop! No... Kurumi doesn't want to see you like%Nthis...!」%K%P
+Kurumi「Saki-san, stop! No... Kurumi doesn't want to see you like this...!」%K%P
 0xFD4
 沙紀「私に触らないで！」%K%P
 Saki「Don't touch me!」%K%P
@@ -366,7 +366,7 @@ Saki「Don't touch me!」%K%P
 In the next instant, Saki violently thrusts Kurumi away.%K%P
 0x103C
 階段に叩き付けられるくるみの体！　くるみは大きく息を呑んで、唖然と沙紀を見つめた。%K
-She throws Kurumi right onto the stairs! Kurumi gasps%Nloudly, and stares dumbfoundedly at Saki.%K
+She throws Kurumi right onto the stairs! Kurumi gasps loudly, and stares dumbfoundedly at Saki.%K
 0x2000
 『沙紀……！　お前、なんてことを……』
 「Saki...! How could you...!?」
@@ -381,7 +381,7 @@ Makoto「Saki...! How could you...!?」%K%P
 Saki「...」%K%P
 0x109C
 沙紀の表情に僅かに戸惑いが生じる。自分がやったことにやっと気づいたのかもしれない。%K%P
-Saki's expression warps into shock. I think she probably%Nrealizes what she had just done.%K%P
+Saki's expression warps into shock. I think she probably realizes what she had just done.%K%P
 0x10C0
 誠「くるみーっ！」%K%P
 Makoto「Kurumi-!」%K%P
@@ -390,10 +390,10 @@ Makoto「Kurumi-!」%K%P
 I run over to Kurumi. Saki is in a daze, standing stock still.%K%P
 0x111C
 その時だ。テラスから駆け降りてきた遙が、くるみを素早く抱き起こした。%K%P
-Just then, Haruka comes rushing down the terrace, and%Nquickly helps Kurumi up.%K%P
+Just then, Haruka comes rushing down the terrace, and quickly helps Kurumi up.%K%P
 0x1130
 か細い遙の手が、くるみの背中をやさしく撫でた。%K%P
-The slender Haruka takes her hands and gently strokes%NKurumi's back.%K%P
+The slender Haruka takes her hands and gently strokes Kurumi's back.%K%P
 0x1158
 遙「大丈夫？」%K%P
 Haruka「Are you all right?」%K%P
@@ -405,7 +405,7 @@ Haruka「Are you all right?」%K%P
 Haruka glares sharply at Saki.%K%P
 0x1184
 立ち上がった。%N近づく。%Nぐいぐい近寄っていく。%K%P
-She stands up. She starts to get closer and closer to%NSaki.%K%P
+She stands up. She starts to get closer and closer to Saki.%K%P
 0x1190
 オレは、思わず息をつめた。%K%P
 I automatically hold my breath.%K%P
@@ -417,7 +417,7 @@ Saki「Stay away from me.」%K%P
 Haruka「...」%K%P
 0x11D8
 沙紀「何よ。%W来ないでよ。%Nクローンに用はないわ……！」%K%P
-Saki「What is it? Get the hell away from me! I have no business%Nwith you, you damn clone...!」%K%P
+Saki「What is it? Get the hell away from me! I have no business with you, you damn clone...!」%K%P
 0x11FC
 遙「──！」%K%P
 Haruka「―!」%K%P
@@ -441,7 +441,7 @@ In that instant, it feels like the world has stopped.%K%P
 ―She says Haruka's a clone.%K%P
 0x126C
 誰か人間の細胞の一部分を使って、人工的に受精させて作り上げた存在。%K%P
-An existence created by using part of some person's%Ncells to artificially fertilize an egg.%K%P
+An existence created by using part of some person's cells to artificially fertilize an egg.%K%P
 0x1278
 いわば複製。%K%P
 Duplication, so to speak.%K%P
@@ -456,25 +456,25 @@ Haruka's a clone?%K%P
 I recall memories of Haruka from two days ago.%K%P
 0x12A8
 水道の蛇口からしたたる水滴を見つめていた遙。%K%P
-The Haruka who watched the water dripping from the%Nfaucet.%K%P
+The Haruka who watched the water dripping from the faucet.%K%P
 0x12C4
 砂浜の波打ち際に、素足を浸した遙。%K%P
-The Haruka who drenched her feet in the breaking%Nwaves on the beach.%K%P
+The Haruka who drenched her feet in the breaking waves on the beach.%K%P
 0x12E0
 自転車を漕いでいた遙の横顔。流れ落ちた汗。%K%P
 Haruka's sweating face as she pedaled the bike.%K%P
 0x12EC
 我を忘れるほど、釣りに熱中していた遙。%K%P
-The enthusiastic Haruka who forgot herself as much as%Nshe could when she went fishing with me.%K%P
+The enthusiastic Haruka who forgot herself as much as she could when she went fishing with me.%K%P
 0x12F8
 キスをせがんだ遙。%N──その顔。赤らめた頬。%K%P
-The Haruka who asked me to kiss her. ―That face. That%Nblushing face.%K%P
+The Haruka who asked me to kiss her. ―That face. That blushing face.%K%P
 0x1304
 その遙が、クローンだっていうのか？%K%P
 That same Haruka is a clone?%K%P
 0x1310
 オレは遙を見た。遙は、全く表情を変えて%Nいなかった。あるものを受け入れるように……。%K%P
-I look at Haruka, her expression unwavered, as if she's%Naccepting it...%K%P
+I look at Haruka, her expression unwavered, as if she's accepting it...%K%P
 0x131C
 オレは沙紀を見た。みんなも見る。疑わしげな目つきだ。%K%P
 Me and the others look at Saki with dubious eyes.%K%P
@@ -486,7 +486,7 @@ Saki「I'm not lying. I know about it. I know...!」%K%P
 Okuhiko「... I can't believe it.」%K%P
 0x1358
 沙紀「その子の顔、見たらどう？　%N認めているって顔だわ」%K%P
-Saki「Why don't you look at her face? It's practically written all%Nover it.」%K%P
+Saki「Why don't you look at her face? It's practically written all over it.」%K%P
 0x136C
 億彦「う……」%K%P
 Okuhiko「Ugh...」%K%P
@@ -495,22 +495,22 @@ Okuhiko「Ugh...」%K%P
 Haruka「...」%K%P
 0x13A4
 沙紀「わかった、億彦くん？　あなたが愛している女の正体が」%K%P
-Saki「Do you understand, Okuhiko-kun? This is the true nature%Nof that girl you claim to love.」%K%P
+Saki「Do you understand, Okuhiko-kun? This is the true nature of that girl you claim to love.」%K%P
 0x13B0
 億彦「仮にね、遙ちゃんがクローンだとしても……%N珍しい話じゃないよ。１０年前とは違うんだから。今や小学生１０００人中１人や２人の割合ってのが常識だよ」%K%P
-Okuhiko「Suppose Haruka-chan is a clone... So what? Times have%Nchanged. Everyone knows that there's currently about%N1-2 clones for every 1000 human grade school kids.」%K%P
+Okuhiko「Suppose Haruka-chan is a clone... So what? Times have changed. Everyone knows that there's currently about 1-2 clones for every 1000 human grade school kids.」%K%P
 0x13BC
 優夏「確かに、９年前からクローン受精は、法律で認められてるのよね」%K%P
-Yuka「Also, nine years ago, a law was passed that legalized%Nthe fertilization of clones.」%K%P
+Yuka「Also, nine years ago, a law was passed that legalized the fertilization of clones.」%K%P
 0x13C8
 億彦「そうだよ。沙紀ちゃんも古くさいこと言わないほうがいいよ。僕達の世代にはそういう意識はないのが普通だからね」%K%P
-Okuhiko「That's right. Saki-chan, it'd be best not to say such trite%Nthings. This is something our generation sees as normal,%Nnot as something to be scorned.」%K%P
+Okuhiko「That's right. Saki-chan, it'd be best not to say such trite things. This is something our generation sees as normal, not as something to be scorned.」%K%P
 0x13DC
 その通りだった。クローンの存在は合法なのだ。%K%P
 That's right. The existence of clones is legal.%K%P
 0x13E8
 過去には、クローン受精をした者は重大な罪に問われたらしいし、クローン自体も人々から迫害を受けていたようだが……。%K%P
-In the past, those who created clones were accused as%Nhaving committed a grave sin, and the clones%Nthemselves were also persecuted by humans...%K%P
+In the past, those who created clones were accused as having committed a grave sin, and the clones themselves were also persecuted by humans...%K%P
 0x13F4
 ──しかし、どうしてだろう？%K%N
 ―But why?%K%N
@@ -522,43 +522,43 @@ Okuhiko's and Yuka's defense sounded a bit off.%K%P
 It sounded empty. Forced.%K%P
 0x1418
 あるのを知ってて見ようとしていなかったものを、初めて見つけたふりをしている……。%K%P
-It sounded like Haruka was the first clone they'd actually%Nknown was a clone, so they just pulled whatever facts%Nthey had on hand to create a so-called 「defense」.%K%P
+It sounded like Haruka was the first clone they'd actually known was a clone, so they just pulled whatever facts they had on hand to create a so-called 「defense」.%K%P
 0x1424
 それは……オレも同じ気持ちだった。%K%P
-Though... I'm no better. She's the first person I've known%Nwas a clone as well.%K%P
+Though... I'm no better. She's the first person I've known was a clone as well.%K%P
 0x1430
 ぶるぶると全身を震わせていた沙紀が口を開いた。浴びせるように言い放った。%K%P
 Saki's whole body shakes as she opens her mouth.%K%P
 0x1444
 沙紀「立派ね……ご立派なゼミ仲間だわ！」%K%P
-Saki「Splendid... What a splendid group of companions this%Nseminar has!」%K%P
+Saki「Splendid... What a splendid group of companions this seminar has!」%K%P
 0x1460
 優夏「あ、待って、沙紀……！」%K%P
 Yuka「Ah, wait, Saki...!」%K%P
 0x1474
 走り出した沙紀を見て、弾かれたように優夏が追う。別荘への道を。%K%P
-When she sees Saki begin to run, Yuka chases after her.%NThey head down the road towards the summer house.%K%P
+When she sees Saki begin to run, Yuka chases after her. They head down the road towards the summer house.%K%P
 0x1490
 ──優夏の姿が見えなくなった。残されたオレ達は、嵐が過ぎ去った後のようだった。%K%P
-―I can't see Yuka anymore. She runs past us faster%Nthan a raging storm, leaving us stranded.%K%P
+―I can't see Yuka anymore. She runs past us faster than a raging storm, leaving us stranded.%K%P
 0x149C
 気まずい空気が漂っている。%K%P
 An awkward atmosphere hangs in the air.%K%P
 0x14A8
 億彦は、クローンは珍しくないとか%N言っておきながら、かなりショックを%N受けているようだった。%K%P
-Though Okuhiko had said clones were not unusual in our%Nsociety, he still looked rather shocked.%K%P
+Though Okuhiko had said clones were not unusual in our society, he still looked rather shocked.%K%P
 0x14B4
 好きになった女の子がクローン。やっぱりまだ身近にはないことだ。気にならないわけがない。%K%P
-The girl he liked is a clone. It's obviously not something%Nfamiliar to him, so of course he's bothered by it.%K%P
+The girl he liked is a clone. It's obviously not something familiar to him, so of course he's bothered by it.%K%P
 0x14C0
 くるみのほうは、ずっとしゃくりあげ続けていた。%N目の前で起きたことに、まだ整理が%Nついていないのだろう。%K%P
-Kurumi continues to sob heavily. She probably still%Ndoesn't comprehend what had just happened.%K%P
+Kurumi continues to sob heavily. She probably still doesn't comprehend what had just happened.%K%P
 0x14CC
 オレは、バラバラになったバスケットを拾い上げた。%K%P
 I pick up the pieces of the broken basket.%K%P
 0x14D8
 ふっと視線を感じた。顔を上げると、遙がまっすぐにオレを見つめていた。%K%P
-I suddenly feel someone glancing at me, so I raise my%Nhead to find Haruka staring straight at me.%K%P
+I suddenly feel someone glancing at me, so I raise my head to find Haruka staring straight at me.%K%P
 0x14EC
 誠「本当なのか、遙。その……さっきの話」%K%P
 Makoto「Is... what Saki said earlier true?」%K%P
@@ -597,7 +597,7 @@ Makoto「That's not true...!」%K%P
 Haruka「I see...」%K%P
 0x158C
 すっとオレから視線を外した遙は、ゆっくりと玄関を開けた。オレは思わず駆け寄る。%K%P
-Haruka quickly looks away from me, and slowly opens the%Nfront door. I automatically run after her.%K%P
+Haruka quickly looks away from me, and slowly opens the front door. I automatically run after her.%K%P
 0x1598
 誠「遙！」%K%P
 Makoto「Haruka!」%K%P
@@ -618,7 +618,7 @@ Haruka「...」%K
 「Honestly... I was a bit surprised.」
 0x1620
 誠「……アレだよ、気にするなよ。クローンだろうがコピーだろうが、遙は遙じゃないか。たとえ心がないなんてことがあっても」%K%P
-Makoto「... Don't worry about it. Whether you're a clone or a copy,%NHaruka is Haruka. Even if you don't have a heart.」%K%P
+Makoto「... Don't worry about it. Whether you're a clone or a copy, Haruka is Haruka. Even if you don't have a heart.」%K%P
 0x1634
 遙「……」%K%P
 Haruka「...」%K%P
@@ -630,7 +630,7 @@ Makoto「...」%K%P
 Haruka becomes surprised and takes in a sharp breath.%K%P
 0x1668
 それから、少し迷っているような感じになって……%K%Nそれから、%K……それから、もうオレには%N読めなくなった。%K%P
-After that, I feel a little hesitant... After that... After that,%NI've run out of things to say.%K%P
+After that, I feel a little hesitant... After that... After that, I've run out of things to say.%K%P
 0x167C
 遙「……嬉しい」%K%P
 Haruka「... I'm happy.」%K%P
@@ -645,31 +645,31 @@ Haruka「I'm happy to hear that from you, Makoto...」%K%P
 Makoto「...」%K%P
 0x16E0
 扉が閉まった。遙の足音だけが遠ざかっていく……。%K%P
-She closes the door, the sound of her footsteps%Nfading...%K%P
+She closes the door, the sound of her footsteps fading...%K%P
 0x16EC
 オレは、そのまま立ちつくしていた。%K%P
 I stand frozen in place.%K%P
 0x16F8
 気になっていた。さっきの遙の顔が。ちっとも嬉しそうじゃなかった……。%K%P
-I'm worried about Haruka's expression just now. She%Ndidn't look happy at all...%K%P
+I'm worried about Haruka's expression just now. She didn't look happy at all...%K%P
 0x1714
 誠「本当は……、ちょっとビックリした」%K%P
 Makoto「Honestly... I was a bit surprised.」%K%P
 0x1720
 オレは自分の言葉に驚きを覚えつつも、やっぱり感じたことをちゃんと伝えるべきだと思った。%K%P
-Though my own words surprise me, I feel that I should be%Ncompletely honest.%K%P
+Though my own words surprise me, I feel that I should be completely honest.%K%P
 0x172C
 遙は、オレの次の言葉を待っている。%K%P
 Haruka is waiting for me to continue.%K%P
 0x1738
 誠「やっぱり身近な存在じゃないものな、クローンって。%Kビックリするなっていう方が無理だよ。%Kでも……%W%Wでもな」%K%P
-Makoto「I don't know much about clones, I admit.%K Since this is new%Nto me, of course I'm surprised. But... But you know...」%K%P
+Makoto「I don't know much about clones, I admit.%K Since this is new to me, of course I'm surprised. But... But you know...」%K%P
 0x1744
 オレは言葉を選びながら、慎重に答えていく。%K%P
 I try to carefully choose my next words.%K%P
 0x1750
 誠「たとえクローンだったとしても、遙は遙じゃないか。%Kオレ達は何も変わらないよ」%K%P
-Makoto「Even if you're a clone, Haruka is Haruka. Nothing has%Nchanged between us.」%K%P
+Makoto「Even if you're a clone, Haruka is Haruka. Nothing has changed between us.」%K%P
 0x1764
 遙「……」%K%P
 Haruka「...」%K%P
@@ -699,37 +699,37 @@ She closes the door, her footsteps fading...%K%P
 I stand frozen in place.%K%P
 0x1814
 気になっていた。さっきの遙の顔が。あまり嬉しそうじゃなかった……。%K%P
-I'm worried about Haruka's expression just now. She%Ndidn't look very happy...%K%P
+I'm worried about Haruka's expression just now. She didn't look very happy...%K%P
 0x1870
 オレは沙紀の別荘へ来ていた。夜を運ぶ冷たい空気が身に沁みてくる。%K%P
-I go to Saki's summer house. The chilly late afternoon air%Npierces my body.%K%P
+I go to Saki's summer house. The chilly late afternoon air pierces my body.%K%P
 0x187C
 ──あれからオレは泣きじゃくるくるみをなだめ、遙の部屋に行ってみた。何度呼びかけても、遙は部屋から出てこようとしなかった。%K%P
-―After Haruka went inside, I calmed down the sobbing%NKurumi, and tried going to Haruka's room. I called out to%Nher many times, but she didn't leave her room.%K%P
+―After Haruka went inside, I calmed down the sobbing Kurumi, and tried going to Haruka's room. I called out to her many times, but she didn't leave her room.%K%P
 0x1888
 オレは、遙に何かまずいことを言ったのだろうか？%K%P
 Did I say something wrong?%K%P
 0x1894
 そして、突如爆発した沙紀のことも気になっていた。%K%P
-I then became curious about Saki, who had suddenly%Nexploded in anger.%K%P
+I then became curious about Saki, who had suddenly exploded in anger.%K%P
 0x18A0
 だいたい沙紀は、どうして遙がクローンだっていうことを知っていたんだろう？%K%P
-In the first place, how did she know that Haruka was a%Nclone?%K%P
+In the first place, how did she know that Haruka was a clone?%K%P
 0x18AC
 オレはそれを聞き出すつもりだった。%K%P
 I intend to get that answer out of her.%K%P
 0x18B8
 オレが扉を開けようとしたとき、中から優夏が%N出てきた。%K%P
-Just as I'm about to try opening the door, Yuka comes%Nout of from inside.%K%P
+Just as I'm about to try opening the door, Yuka comes out of from inside.%K%P
 0x18CC
 誠「優夏！　どうだ、沙紀の様子？」%K%P
 Makoto「Yuka! How's Saki doing?」%K%P
 0x18D8
 優夏「落ち着くまでダメだと思う。昔からああなのよ」%K%P
-Yuka「Until she calms down, I don't think it'll be any good. It was%Nlike this in the past too.」%K%P
+Yuka「Until she calms down, I don't think it'll be any good. It was like this in the past too.」%K%P
 0x18E4
 誠「昔って……さっき沙紀が絵がどうとかって言ってたけど、そのこと？」%K%P
-Makoto「In the past... you mean when you and Saki used to draw%Ntogether?」%K%P
+Makoto「In the past... you mean when you and Saki used to draw together?」%K%P
 0x18F0
 優夏「え？　まあ、あれもそうね……それより遙は？」%K%P
 Yuka「Huh? Well, I guess that's true... Anyway, how's Haruka?」%K%P
@@ -747,19 +747,19 @@ I can't talk to Saki as she is now.%K%N
 We head back towards the lodge.%K%P
 0x1960
 誠「なあ、優夏。%Nクローンと人間って、そんなに違うのか？」%K%P
-Makoto「Hey, Yuka. Is there really that much of a difference%Nbetween clones and humans?」%K%P
+Makoto「Hey, Yuka. Is there really that much of a difference between clones and humans?」%K%P
 0x1974
 優夏「どうなんだろ……生まれ方が違うって言えば%N違うよね。だからって差別するわけじゃないけど。%N誰かの遺伝情報のコピーって、双子みたいな%Nものでしょ？」%K%P
-Yuka「Let's see... The only difference I see is how they're born.%NIf they're a copy of someone else's genetic information,%Nthen they're like a twin, right?」%K%P
+Yuka「Let's see... The only difference I see is how they're born. If they're a copy of someone else's genetic information, then they're like a twin, right?」%K%P
 0x1980
 誠「けど遙は、コピーだから『心』がないって言ってる……」%K%P
-Makoto「But Haruka says that because she's a copy, she has%Nno 'heart'...」%K%P
+Makoto「But Haruka says that because she's a copy, she has no 'heart'...」%K%P
 0x198C
 優夏「そんなこと、普通のクローンは言わないんだけどなぁ。『心』がないなんてこと、第一あるわけないと思うし……」%K%P
-Yuka「I've never heard of normal clones ever saying that.%NThere's no way it's possible to not have a 'heart'...」%K%P
+Yuka「I've never heard of normal clones ever saying that. There's no way it's possible to not have a 'heart'...」%K%P
 0x1998
 誠「オレもそう思う。遙に『心』がないなんてこと、絶対ないよ」%K%P
-Makoto「I agree. There's absolutely no way she doesn't have a%N'heart'.」%K%P
+Makoto「I agree. There's absolutely no way she doesn't have a 'heart'.」%K%P
 0x19A4
 優夏「なんだか妄想って感じだよね？」%K%P
 Yuka「Kinda feels like a delusion.」%K%P
@@ -768,19 +768,19 @@ Yuka「Kinda feels like a delusion.」%K%P
 Makoto「A delusion?」%K%P
 0x19BC
 優夏「遙、自分を何か特別な存在だと思い込んでるんじゃない？」%K%P
-Yuka「Like what if Haruka's convinced that she's some kind of%Nspecial being?」%K%P
+Yuka「Like what if Haruka's convinced that she's some kind of special being?」%K%P
 0x19C8
 誠「特別な存在……」%K%P
 Makoto「A special being...」%K%P
 0x19D4
 優夏「うん。そういう妄想を抱いてるって気がするんだけどなぁ……」%K%P
-Yuka「Yeah. I have a hunch that she has held on to that%Ndelusion...」%K%P
+Yuka「Yeah. I have a hunch that she has held on to that delusion...」%K%P
 0x19E0
 誠「……」%K%P
 Makoto「...」%K%P
 0x1A30
 オレ達がロッジに戻ってきたとき、小走りにいづみさんがやってくるのが見えた。%K%P
-When we return to the lodge, we see Izumi-san jogging%Nup towards us.%K%P
+When we return to the lodge, we see Izumi-san jogging up towards us.%K%P
 0x1A3C
 手には何やら食材でいっぱいの袋をさげている。%K%P
 In her hand, she's carrying a bag full of some ingredients.%K%P
@@ -792,19 +792,19 @@ Izumi「Makoto-kun! Yuka-chan!」%K%P
 Yuka「Izumi-san? What about the shop?」%K%P
 0x1A68
 いづみ「早仕舞いしてきちゃった。どうせお客なんて来ないしネ。あ、くるみ、面倒かけたでしょ、特に誠くんに！」%K%P
-Izumi「I closed it early. It's not like any customers would come%Nanyway. Ah, I'm sorry for troubling you with Kurumi,%Nespecially you, Makoto-kun!」%K%P
+Izumi「I closed it early. It's not like any customers would come anyway. Ah, I'm sorry for troubling you with Kurumi, especially you, Makoto-kun!」%K%P
 0x1A74
 誠「え？　いや、それは……ちょっと、すいません」%K%P
 Makoto「Huh? No, uh... Sorry, please excuse me.」%K%P
 0x1A88
 オレは妙に明るいいづみさんと話す気に%Nなれなかった。%K%P
-I'm in no mood to talk to the unusually cheerful Izumi-san%Nright now.%K%P
+I'm in no mood to talk to the unusually cheerful Izumi-san right now.%K%P
 0x1A94
 軽く頭を下げると、優夏に任せて部屋に戻ってしまった。いづみさんには悪いと思ったけど……。%K%P
-Lightly bowing my head, I head back to my room.%NIzumi-san might think badly of me, but...%K%P
+Lightly bowing my head, I head back to my room. Izumi-san might think badly of me, but...%K%P
 0x1AA0
 いづみ「どうかしたの？」%K%P
 Izumi「Is something wrong?」%K%P
 0x1AAC
 と、優夏に訊くいづみさんの声が、背中に聞こえていた。%K%P
-I can hear Izumi-san asking Yuka this from behind my%Nback.%K%P
+I can hear Izumi-san asking Yuka this from behind my back.%K%P

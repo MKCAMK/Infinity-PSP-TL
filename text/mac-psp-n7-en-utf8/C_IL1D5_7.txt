@@ -24,10 +24,10 @@ Naturally, Kurumi helped out.%K%P
 I was left all alone, so I reluctantly left Lunabeach...%K%N%N
 0xF8
 しかし、店を出たのはいいが、これと言って行くあてなどなかった。%K%N
-But even though I left the shop, I had no clue where to%Ngo.%K%N
+But even though I left the shop, I had no clue where to go.%K%N
 0x104
 オレはフラフラと海岸線沿いの道を歩き、いつの間にか……こんな所に来ていた。%K%P
-So, I staggered alongside the coastline road, and%Nbefore I knew it... I was here.%K%P
+So, I staggered alongside the coastline road, and before I knew it... I was here.%K%P
 0x188
 こんな所……そう、展望公園に。%K%P
 That's right... I'm at Viewpoint Park now.%K%P
@@ -36,40 +36,40 @@ That's right... I'm at Viewpoint Park now.%K%P
 The scenery I see from the end of the cape is colorless.%K%P
 0x1A0
 まるで昔のモノクロ写真のように、あたり一面が灰色の空でおおわれている。%K%P
-The grey skies make me feel like I'm in an old black and%Nwhite photo.%K%P
+The grey skies make me feel like I'm in an old black and white photo.%K%P
 0x1AC
 空気はしっとりと湿って重く、海原を吹き渡る風もなく、ただ砕け散る波しぶきの音だけが響いていた。%K%P
-The air is very damp, but there's no sea breeze. The%Nonly sound I hear is that of the waves breaking on the%Ncape.%K%P
+The air is very damp, but there's no sea breeze. The only sound I hear is that of the waves breaking on the cape.%K%P
 0x1C4
 誠「シュレディンガーの猫、%T030か%W…%W…%W」%K%P
 Makoto「Schrödinger's cat, huh...」%K%P
 0x1D0
 色の無い世界をぼんやりと眺めながら、オレはつぶやいた。%K%P
-I mutter this to myself as I blankly stare at this colorless%Nworld.%K%P
+I mutter this to myself as I blankly stare at this colorless world.%K%P
 0x1DC
 確かに、あの話の内容を、正確に理解することはできない。%K%P
-I didn't really understand what Kurumi said back at the%Nshop at all.%K%P
+I didn't really understand what Kurumi said back at the shop at all.%K%P
 0x1E8
 けれど、くるみが何を言いたかったのかは、なんとなくわかるような気がした。%K%P
-However, I feel that I somewhat understand what she%Nwanted to say.%K%P
+However, I feel that I somewhat understand what she wanted to say.%K%P
 0x20C
 くるみ「起こっちゃったものは起こっちゃんだから、しょうがないんだってば！」%K%P
-Kurumi「What's already happened has happened, so it can't be%Nhelped!」%K%P
+Kurumi「What's already happened has happened, so it can't be helped!」%K%P
 0x220
 さっきの現象……あのトランプのことを『そんなに不思議な出来事じゃない』と、くるみは言いたかったのだろう。%K%P
-That phenomenon from earlier... Kurumi was probably%Ntrying to say that what happened with the cards wasn't%Nstrange.%K%P
+That phenomenon from earlier... Kurumi was probably trying to say that what happened with the cards wasn't strange.%K%P
 0x22C
 （だけど……ほんとにそうか？）%K%P
 (But... is that really true?)%K%P
 0x238
 いや、冷静に考えてみれば、不思議だと思わない方がどうかしてる。%K%P
-No, when I think about it calmly, there's no way that I can%Nthink it wasn't strange.%K%P
+No, when I think about it calmly, there's no way that I can think it wasn't strange.%K%P
 0x244
 すべてのペアを当てるなんて……そんなこと……絶対にあり得ない！%K%P
-Pairing all the cards correctly... There's... no way that's%Npossible!%K%P
+Pairing all the cards correctly... There's... no way that's possible!%K%P
 0x258
 いづみ「その４６枚の位置に関しては、誠くんは絶対に知らないはずでしょ？」%K%P
-Izumi「And there's absolutely no way that Makoto-kun should%Nhave known the positioning of those 46 cards, right?」%K%P
+Izumi「And there's absolutely no way that Makoto-kun should have known the positioning of those 46 cards, right?」%K%P
 0x26C
 『知らない……はず……』%K%P
 「Absolutely no way...」%K%P
@@ -78,7 +78,7 @@ Izumi「And there's absolutely no way that Makoto-kun should%Nhave known the pos
 In other words, that's the way it is.%K%P
 0x284
 すべてのカードの位置を、あらかじめ知っていなければ、あんなことが起こるわけがないんだ！%K%P
-There's no way that event could have happened unless%NI'd known all of the positions of the cards!%K%P
+There's no way that event could have happened unless I'd known all of the positions of the cards!%K%P
 0x290
 ──予知。%K%N
 ―A premonition.%K%N
@@ -114,10 +114,10 @@ But... wait...%K%N
 Is that really it...?%K%P
 0x324
 さっきのトランプの現象は、ほんとに『予知』だったと言えるのか？%K%P
-Can I really call the phenomenon with the cards a%N「premonition」?%K%P
+Can I really call the phenomenon with the cards a 「premonition」?%K%P
 0x330
 例えば、オレが前もって、カードの位置を全部知っていたとしたら、オレは意図的に、ペアにならない別のカードをめくることができたはずだ。%K%P
-For example, if I had known in advance which card was%Nwhich, I would have been able to intentionally go for the%Nspecific cards that would form pairs.%K%P
+For example, if I had known in advance which card was which, I would have been able to intentionally go for the specific cards that would form pairs.%K%P
 0x33C
 だけど、そうはならなかった。%K%N
 But that's not what happened.%K%N
@@ -126,10 +126,10 @@ But that's not what happened.%K%N
 No, it couldn't have happened!%K%P
 0x354
 別のカードがどこにあるのかなんて、オレは『知らなかった』んだから……。%K%P
-Because I 「didn't know」 what any of the cards were until%NI flipped them...%K%P
+Because I 「didn't know」 what any of the cards were until I flipped them...%K%P
 0x360
 『知らなかった』からこそ、すべてのペアを当ててしまったんだ……。%K%P
-Because I 「didn't know」, I just randomly flipped over%Ncards and happened to get pairs...%K%P
+Because I 「didn't know」, I just randomly flipped over cards and happened to get pairs...%K%P
 0x36C
 （だとすると……）%K%P
 (If that's so...)%K%P
@@ -144,7 +144,7 @@ Because I 「didn't know」, I just randomly flipped over%Ncards and happened to
 My mind begins to fall into confusion once again.%K%P
 0x39C
 何も見えず、何も聞こえず、得体の知れぬ恐怖だけが、心の中でうごめいていた。%K%P
-I can't see anything. I can't hear anything. The only thing%NI can feel is an unfamiliar fear wriggling in my heart.%K%P
+I can't see anything. I can't hear anything. The only thing I can feel is an unfamiliar fear wriggling in my heart.%K%P
 0x3A8
 （どうして……どうして……こんなことに……）%K%P
 (Why... Why... did this happen...?)%K%P
@@ -168,7 +168,7 @@ Izumi... san...%K%P
 Is there no way to avert the events of my dream?%K%P
 0x484
 知っていようと知っていまいと、もはや未来を変えることなんかできないのか？%K%P
-Despite my foreknowledge, is the future something that%Ncannot be changed?%K%P
+Despite my foreknowledge, is the future something that cannot be changed?%K%P
 0x490
 じゃあ……いづみさんは……。%K%N
 Then... Izumi-san will...%K%N
@@ -213,7 +213,7 @@ I kick the iron fence with all of my might.%K%P
 ―Clang! Clang! Clang! Clang!%K%P
 0x568
 何度も何度も蹴とばして、そのまま壊してやりたかった。%K%P
-I kick it countless times, to the point where I want to%Ndestroy it.%K%P
+I kick it countless times, to the point where I want to destroy it.%K%P
 0x574
 やり場のない怒りが、とめどなくあふれてくる。%K%P
 My seeping anger is overflowing.%K%P
@@ -234,7 +234,7 @@ That only serves to make me more irritated than before.%K%P
 ―Clang! Clang! Clang! Clang!%K%P
 0x5BC
 冷たくとがった鉄の音が、灰色の空に呑まれていった……。%K%P
-The dull sound of my kicks against the iron echoes%Nunder the grey skies...%K%P
+The dull sound of my kicks against the iron echoes under the grey skies...%K%P
 0x5F4
 ………………。%N…………。%N……。%K%P
 ... ... ...%K%P

@@ -33,7 +33,7 @@ def main():
         lines=0
 
       line = line[:-1] # strip \n
-      allseq = re.findall(r"(?:%[KkPpNnOV]|%T\d\d|%C[\dA-F]{4}|%X\d{3}|%TS\d{3}|%TE|%F[SE]|%L[CLR])+", line);
+      allseq = re.findall(r"(?:%[KkPpNnOV]|%\d{3}|%T\d{3}|%C[\dA-F]{4}|%X\d{3}|%TS\d{3}|%TE|%F[SE]|%L[CLR])+", line);
       if (allseq):
         if allseq[-1].endswith("%P") or allseq[-1].endswith("%p") or allseq[-1].endswith("%O"):
           clear = True;

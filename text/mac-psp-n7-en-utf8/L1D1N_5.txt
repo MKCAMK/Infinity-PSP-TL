@@ -6,10 +6,10 @@ text area offset and size:
 ... After that, we talk about many things.%K%P
 0x60
 オレ達７人は、初対面とは思えないほどに意気投合した。%K%P
-We're all chatting like the best of friends despite it only%Nbeing our first meeting.%K%P
+We're all chatting like the best of friends despite it only being our first meeting.%K%P
 0x6C
 みんなの楽しい話を聞くうちに、いつの間にか、予知のことなんかどうでもよくなっていた。%K%P
-After listening to everyone's fun stories, I've slowly%Nstopped worrying about my premonitions.%K%P
+After listening to everyone's fun stories, I've slowly stopped worrying about my premonitions.%K%P
 0x88
 沙紀「……さっ、%Nそれじゃあそろそろ帰りましょうか？」%K%P
 Saki「... Well, isn't it about time we all went home?」%K%P
@@ -21,7 +21,7 @@ Saki brings this up as the conversation dies down.%K%P
 Saki「Izumi-san, aren't we taking up your time?」%K%P
 0xBC
 いづみ「だけどこのお店、明日はお休みなの。だから、私のことは気にしないでいいのよ？」%K%P
-Izumi「But this shop will be closed tomorrow. Don't worry about%Nme, it's fine!」%K%P
+Izumi「But this shop will be closed tomorrow. Don't worry about me, it's fine!」%K%P
 0xC8
 誠「え？　そうなんですか？」%K%P
 Makoto「Huh? Really?」%K%P
@@ -57,46 +57,46 @@ Makoto「I don't really care, so sure.」%K%P
 I don't have a reason to oppose this.%K%P
 0x17C
 当たり前のことだが、プールに行けば、みんなは水着に着替えるだろう。%K%P
-It's only natural, but if we're going to the pool, then%Neveryone will likely be in their swimsuits.%K%P
+It's only natural, but if we're going to the pool, then everyone will likely be in their swimsuits.%K%P
 0x188
 オレもやっぱり男なわけで……。%K%P
-That's an opportunity simply too tempting for a guy to%Npass up...%K%P
+That's an opportunity simply too tempting for a guy to pass up...%K%P
 0x194
 優夏「億彦くんはどう？」%K%P
 Yuka「What about you, Okuhiko-kun?」%K%P
 0x1B0
 億彦「悪いけど、僕は辞退させてもらうよ。%N明日はダイビングをする予定なんだ」%K%P
-Okuhiko「Sorry, but I'm afraid I'll have to pass. I plan on going%Ndiving tomorrow.」%K%P
+Okuhiko「Sorry, but I'm afraid I'll have to pass. I plan on going diving tomorrow.」%K%P
 0x1C4
 優夏「だいびんぐ？」%K%P
 Yuka「Diving?」%K%P
 0x1D0
 億彦「ああ。商店街に、スキューバの道具を貸してくれるところがあるらしいから……」%K%P
-Okuhiko「Yeah. There seems to be a place in the shopping district%Nwhere you can rent scuba gear...」%K%P
+Okuhiko「Yeah. There seems to be a place in the shopping district where you can rent scuba gear...」%K%P
 0x1EC
 いづみ「それは無理よ、億彦くん？」%K%P
 Izumi「You can't, Okuhiko-kun.」%K%P
 0x200
 億彦「えっ、どうしてですか？　ライセンスなら、%Nちゃんと持ってますよ、僕」%K%P
-Okuhiko「Huh, why not? I've already got my license, if that's what%Nyou're worried about.」%K%P
+Okuhiko「Huh, why not? I've already got my license, if that's what you're worried about.」%K%P
 0x20C
 いづみ「そうじゃなくて、明日は波が高いから」%K%P
-Izumi「That's not it. It's because there'll be high waves%Ntomorrow.」%K%P
+Izumi「That's not it. It's because there'll be high waves tomorrow.」%K%P
 0x220
 億彦「波が？」%K%P
 Okuhiko「Waves?」%K%P
 0x22C
 いづみ「そう。南の方に、季節外れの熱帯低気圧が%N来てて、明日からうねりが高くなるらしいの」%K%P
-Izumi「Right. There's an unseasonable tropical cyclone coming%Nin from the south, so it seems the waves will be high%Ntomorrow.」%K%P
+Izumi「Right. There's an unseasonable tropical cyclone coming in from the south, so it seems the waves will be high tomorrow.」%K%P
 0x238
 いづみ「漁師の源さんが言ってたことだから、%N間違いないわ」%K%P
-Izumi「I heard about it from Gen-san, the fisherman, so there's%Nno doubt about it.」%K%P
+Izumi「I heard about it from Gen-san, the fisherman, so there's no doubt about it.」%K%P
 0x244
 いづみ「『沖の方が荒れてるから、漁に出れない』って、ぼやいてたもの……」%K%P
-Izumi「He complained that he wouldn't be able to go out to sea%Nand fish because of the storm.」%K%P
+Izumi「He complained that he wouldn't be able to go out to sea and fish because of the storm.」%K%P
 0x250
 いづみ「それに、今回の低気圧……移動速度が遅いから、１週間ぐらいはダメかもよ？」%K%P
-Izumi「Also, because this cyclone's migration velocity is slow,%Nit'll be like this for about a week.」%K%P
+Izumi「Also, because this cyclone's migration velocity is slow, it'll be like this for about a week.」%K%P
 0x264
 億彦「ええっ！？　そうなんですかぁ！？」%K%P
 Okuhiko「What!? Are you sure!?」%K%P
@@ -108,7 +108,7 @@ Izumi-san slowly nods.%K%P
 Okuhiko「Damn... I was really looking forward to this...」%K%P
 0x290
 億彦「まっ、それなら仕方ないかぁ……。%N僕も、メンバーに加わることにするよ」%K%P
-Okuhiko「Well, forget about that then... Guess I'll join up with you%Nguys as well.」%K%P
+Okuhiko「Well, forget about that then... Guess I'll join up with you guys as well.」%K%P
 0x29C
 億彦はしぶしぶ承諾した。%K%P
 Okuhiko reluctantly agrees.%K%P
@@ -162,4 +162,4 @@ Yuka「As for now, I guess we'll call it a day and go back.」%K%P
 Izumi「Right. Well then, please be careful.」%K%P
 0x3E0
 オレ達は、くるみといづみさんに挨拶をし、ルナビーチを出た……。%K%P
-We say goodbye to Kurumi and Izumi-san, then leave%NLunabeach...%K%P
+We say goodbye to Kurumi and Izumi-san, then leave Lunabeach...%K%P
