@@ -4,8 +4,10 @@
 GIMCONV="./tools/GimConv/GimConv.exe"
 DECOMPRESS="./bin/decompressbip"
 UNPACK_AFS="./bin/unpack_afs"
+UNPACK_CNT="./bin/unpack_cnt"
 
 [ -z "$GAME" ] && export GAME=e17
+[ -z "$TL_SUFFIX" ] && export TL_SUFFIX=en
 
 RES_DIR="${GAME}_iso_extracted/PSP_GAME/USRDIR"
 WORK_DIR="./workdir-${GAME}"
@@ -13,6 +15,12 @@ WORK_DIR="./workdir-${GAME}"
 unpack_afs () {
 	echo Unpacking $1.afs
 	$UNPACK_AFS $WORK_DIR/$1.afs ${GAME}_$1/ || exit 1
+}
+
+unpack_cnt () {
+	echo Unpacking $1.CNT
+	mkdir -p ${GAME}_etc/$1
+	$UNPACK_CNT ${GAME}_etc/$1.CNT ${GAME}_etc/$1/ || exit 1
 }
 
 mkdir -p $WORK_DIR
@@ -24,8 +32,8 @@ cp $RES_DIR/etc.afs $WORK_DIR/etc.afs
 cp $RES_DIR/init.bin $WORK_DIR/init.bin
 
 [ "$GAME" = "e17" ] && [ -d "e17_x360_BGM" ] && cp $RES_DIR/se.afs $WORK_DIR/se.afs
-ls bg-${GAME}-* >/dev/null 2>&1 && cp $RES_DIR/bg.afs $WORK_DIR/bg.afs
-ls ev-${GAME}-* >/dev/null 2>&1 && cp $RES_DIR/ev.afs $WORK_DIR/ev.afs
+[ -d "bg-${GAME}-${TL_SUFFIX}" ] && cp $RES_DIR/bg.afs $WORK_DIR/bg.afs
+[ -d "ev-${GAME}-${TL_SUFFIX}" ]&& cp $RES_DIR/ev.afs $WORK_DIR/ev.afs
 
 PKG=mac
 rm -rf ${GAME}_$PKG/
@@ -51,6 +59,16 @@ unpack_afs $PKG
 for i in ${GAME}_$PKG/*.FOP ; do
 	f=$(basename $i .FOP)
 	$DECOMPRESS ${GAME}_$PKG/$f{.FOP,.FNT} || exit 1
+done
+for i in etc-${GAME}-${TL_SUFFIX}/*/ ; do
+	[ -d "$i" ] || continue
+	f=${i#*/}; f=${f%%/}
+	if ([ "$f" = "INFO" ] || [ "$f" = "TEXT" ]) && [ ! -d "${GAME}_etc/TEX" ]; then
+		$DECOMPRESS ${GAME}_etc/TEX{.BIP,.CNT} || exit 1
+		unpack_cnt TEX || exit 1
+	fi
+	$DECOMPRESS ${GAME}_etc/$f{.BIP,.CNT} || exit 1
+	unpack_cnt $f || exit 1
 done
 
 mkdir -p text/font/${GAME}

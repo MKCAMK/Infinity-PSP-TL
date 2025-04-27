@@ -6,10 +6,10 @@ text area offset and size:
 In the end, I couldn't get any sleep after that.%K%P
 0x4C
 部屋の中で、いてもたってもいられなくなったオレは、ルナビーチの開店時刻を待って、ここにやって来た。%K%P
-Staying in my room became unbearable, so I headed%Nover to Lunabeach to wait for it to open.%K%P
+Staying in my room became unbearable, so I headed over to Lunabeach to wait for it to open.%K%P
 0x58
 とにかく、一刻も早くいづみさんの笑顔が見たかったのだ。%K%P
-At any rate, I want to see Izumi-san's smile as soon as%Npossible.%K%P
+At any rate, I want to see Izumi-san's smile as soon as possible.%K%P
 0x64
 オレは店の前に立ち、力強くそのドアを開いた。%K%P
 I stand in front of the shop, and bolt open the door.%K%P
@@ -24,13 +24,13 @@ Izumi-san's kind smile...%K%P
 That smile instantly calms my heart down.%K%P
 0xD4
 誠「う、うん……。今日は特にやることもないし、いづみさんの手伝いでもしようかな、と思って……」%K%P
-Makoto「W-Well... I don't really have anything to do today, so I%Nthought I'd help you out...」%K%P
+Makoto「W-Well... I don't really have anything to do today, so I thought I'd help you out...」%K%P
 0xE0
 いづみ「えぇ〜？%Nそれって、どういう風の吹きまわし？」%K%P
 Izumi「Hu〜uh? What a curious turn of events. Why?」%K%P
 0xFC
 誠「だって、プールの勝負に負けたとき、約束したでしょ？」%K%P
-Makoto「Remember the promise we made when I lost our race at%Nthe pool?」%K%P
+Makoto「Remember the promise we made when I lost our race at the pool?」%K%P
 0x108
 いづみ「？」%K%P
 Izumi「?」%K%P
@@ -39,7 +39,7 @@ Izumi「?」%K%P
 Makoto「'One day, I'll help you out at Lunabeach.'」%K%P
 0x120
 いづみ「ああ〜。そんな事もあったわね。……いいのに、そんな律儀に守らなくても……」%K%P
-Izumi「Oh〜. That's what you mean... It's fine, you don't have to%Ndo that...」%K%P
+Izumi「Oh〜. That's what you mean... It's fine, you don't have to do that...」%K%P
 0x12C
 誠「ダメだよ、いづみさん。『男に二言は無い』んだから」%K%P
 Makoto「But I do. 'A man never goes back on his word', remember?」%K%P
@@ -48,7 +48,7 @@ Makoto「But I do. 'A man never goes back on his word', remember?」%K%P
 Izumi「Hee hee... that's true.」%K%P
 0x14C
 誠「オレだって、たまには人の為になりたい時ぐらいありますよ」%K%P
-Makoto「Besides, believe it or not, I sometimes like to do selfless%Ndeeds for fun.」%K%P
+Makoto「Besides, believe it or not, I sometimes like to do selfless deeds for fun.」%K%P
 0x158
 いづみ「ふ〜ん……。何だかウソくさ〜い」%K%P
 Izumi「Hmm... That sounds like a complete lie.」%K%P
@@ -63,7 +63,7 @@ Izumi「Now then, confess. What are you planning?」%K%P
 Makoto「Ouch...! That hurts...」%K%P
 0x188
 いづみ「うふふっ、ウソウソ……。%N普段の誠くんの真似をしてみただけ……」%K%P
-Izumi「Hee hee, just kidding... I was just trying an imitation of%Nyou, Makoto-kun...」%K%P
+Izumi「Hee hee, just kidding... I was just trying an imitation of you, Makoto-kun...」%K%P
 0x194
 誠「……」%K%P
 Makoto「...」%K%P
@@ -81,10 +81,10 @@ Izumi-san goes back to her normal routine.%K%N
 A wave of relief sweeps through me...%K%P
 0x1D0
 実は、ここに来た本当の目的は『いづみさんを監視し警護する』ためだったのだ。%K%P
-The truth is, the real reason I came here was to watch%Nover Izumi-san and act as her bodyguard.%K%P
+The truth is, the real reason I came here was to watch over Izumi-san and act as her bodyguard.%K%P
 0x1DC
 あの夢の中で起こった出来事を、何としても阻止しなければならない。%K%P
-I have to prevent the incident in that dream from%Nhappening, no matter what.%K%P
+I have to prevent the incident in that dream from happening, no matter what.%K%P
 0x1E8
 いづみさんを……守らなければ……。%K%P
 I must... protect Izumi-san...%K%P
@@ -93,7 +93,7 @@ I must... protect Izumi-san...%K%P
 I know that it won't happen today.%K%P
 0x200
 けれどもしかしたら、今日何かが起こって、そのことが原因で明日亡くなってしまうのかもしれない……。%K%P
-But if something does happen today, it might be the%Ncause of what happens tomorrow...%K%P
+But if something does happen today, it might be the cause of what happens tomorrow...%K%P
 0x20C
 そう考えると気が気じゃなかったのだ。%K%P
 When I think of it that way, I feel uneasy.%K%P
@@ -111,10 +111,10 @@ I have to.%K%P
 Thus, I work at Lunabeach today without pay...%K%P
 0x27C
 不思議なことに、いづみさんの予言通り、店は大忙しだった……。%K%P
-Oddly enough, Izumi-san's prediction was right on the%Nmark, as there are tons of customers today...%K%P
+Oddly enough, Izumi-san's prediction was right on the mark, as there are tons of customers today...%K%P
 0x290
 いづみ「しかも……こんな日に限って、くるみはどこかへ遊びに行ってるのよね……」%K%P
-Izumi「And what's more... it seems that Kurumi picked today of%Nall days to go out and play...」%K%P
+Izumi「And what's more... it seems that Kurumi picked today of all days to go out and play...」%K%P
 0x29C
 忙しさの余り、グチをこぼすいづみさん。%K%N
 Izumi-san grumbles this when it gets incredibly busy.%K%N
@@ -129,7 +129,7 @@ But man, today is REALLY busy!%K%N
 How we're attracting so many customers, I have no idea.%K%P
 0x2CC
 慣れない忙しさの余り、いづみさんのオッチョコチョイにもターボがかかって来る。%K%P
-Unaccustomed to this level of customers, Izumi's%Nscatterbrain mode is on turbo right now.%K%P
+Unaccustomed to this level of customers, Izumi's scatterbrain mode is on turbo right now.%K%P
 0x2E0
 ………………。%K%P
 ...%K%P
@@ -138,13 +138,13 @@ Unaccustomed to this level of customers, Izumi's%Nscatterbrain mode is on turbo 
 Izumi「Whew〜, my eyes are a bit tired...」%K%P
 0x300
 誠「いっ！　いづみさん！　包丁持ったままだよっ！！」%K%P
-Makoto「AH! Izumi-san! Don't rub your eyes while holding that%Nkitchen knife!!」%K%P
+Makoto「AH! Izumi-san! Don't rub your eyes while holding that kitchen knife!!」%K%P
 0x314
 ………………。%K%P
 ...%K%P
 0x328
 いづみ「え〜っと……ペペロンチーノとアサリのソテーのお客様は……と」%K%P
-Izumi「Umm... the customer with the peperoncino and the%Nsteamed clam sautée was... um-」%K%P
+Izumi「Umm... the customer with the peperoncino and the steamed clam sautée was... um-」%K%P
 0x334
 誠「いづみさんっ！　前！　前！」%K%P
 Makoto「Izumi-san! In front of you!」%K%P
@@ -159,7 +159,7 @@ Makoto「A-AHHHH!!」%K%P
 Izumi「That was close... I almost fell...」%K%P
 0x59C
 いづみ「あれ？　誠くん、何で寝転んでるの？　%Nもぉ〜、サボったら承知しないからねっ！」%K%P
-Izumi「Huh? Makoto-kun, why are you lying on the ground?%NGeez, I won't consent to any slacking off!」%K%P
+Izumi「Huh? Makoto-kun, why are you lying on the ground? Geez, I won't consent to any slacking off!」%K%P
 0x5A8
 誠「……………………」%K%P
 Makoto「...」%K%P
@@ -171,7 +171,7 @@ Makoto「...」%K%P
 Izumi「Mmm... I can't reach it...」%K%P
 0x5DC
 誠「ひぃっ……！　いづみさん！　オレがやるよ！%N危ないから重ねたイスなんかに乗らないでぇっ！！」%K%P
-Makoto「Ah...! Izumi-san! I'll do it! Don't pile all those chairs up, it's%Ntoo dangerous!!」%K%P
+Makoto「Ah...! Izumi-san! I'll do it! Don't pile all those chairs up, it's too dangerous!!」%K%P
 0x5F0
 ………………。%K%P
 ...%K%P
@@ -180,7 +180,7 @@ Makoto「Ah...! Izumi-san! I'll do it! Don't pile all those chairs up, it's%Ntoo
 Izumi-san's close calls have scared me to death.%K%P
 0x608
 忙しいせいか、時間は矢のように過ぎ去って行った……。%K%P
-Because it's so busy, time passes by as fast as a%Nspeeding arrow...%K%P
+Because it's so busy, time passes by as fast as a speeding arrow...%K%P
 0x668
 そして夕方……。%K%P
 And then, at evening...%K%P
@@ -192,22 +192,22 @@ The customers finally stop coming.%K%P
 Izumi「Makoto-kun, shall we take a little break...?」%K%P
 0x6B0
 最後の客が店を出て行くと、いづみさんは入口のプレートを『準備中』にして戻って来た。%K%P
-Once the last customer has left, Izumi-san turns the%Nplate on the entrance from 「OPEN」 to 「CLOSED」 and%Ncomes back.%K%P
+Once the last customer has left, Izumi-san turns the plate on the entrance from 「OPEN」 to 「CLOSED」 and comes back.%K%P
 0x6C4
 いづみ「はい、どうぞ……」%K%P
 Izumi「Here you go...」%K%P
 0x6D0
 言いながら、いづみさんは煎れたての紅茶を、オレの前にそっと置く。%K%P
-As she says this, Izumi-san places a cup of black tea%Ndown in front of me.%K%P
+As she says this, Izumi-san places a cup of black tea down in front of me.%K%P
 0x6DC
 ちょっとしたティータイム、か……。%K%P
 I guess you could call this tea time, huh...%K%P
 0x6E8
 いづみさんは自分の分の紅茶をテーブルの上に置くと、オレの目の前の席に腰を下ろした。%K%P
-Izumi-san takes her own tea, and sits down opposite of%Nme.%K%P
+Izumi-san takes her own tea, and sits down opposite of me.%K%P
 0x6F4
 さっきまでの喧騒が嘘のように静かな店内……。%K%P
-It's so quiet here that it feels like that the hustle and%Nbustle that was going on just minutes ago never%Nhappened...%K%P
+It's so quiet here that it feels like that the hustle and bustle that was going on just minutes ago never happened...%K%P
 0x700
 オレは何となく、昨夜のことを思い出してしまった。%K%P
 Suddenly, I remember those words from last night.%K%P
@@ -216,10 +216,10 @@ Suddenly, I remember those words from last night.%K%P
 「... So please... For this short time, let me love you...」%K%P
 0x718
 ……そんなふうに言ってくれた人が、今、目の前に座っている。%K%P
-... The one who said those words is sitting in front of me%Nright now.%K%P
+... The one who said those words is sitting in front of me right now.%K%P
 0x724
 そう考えたとたん、胸がカーッと熱くなり、何だかドギマギしてしまった。%K%P
-As soon as I think that, my chest feels hot, and I get a%Nlittle nervous.%K%P
+As soon as I think that, my chest feels hot, and I get a little nervous.%K%P
 0x730
 落ち着きを失ったオレは、まともにいづみさんの顔を見ることができなかった。%K%P
 I'm too shaken up to make eye contact with Izumi-san.%K%P
@@ -231,13 +231,13 @@ As I avert my eyes, I concentrate on Izumi-san's words...%K%P
 Izumi「Hey, Makoto-kun. This morning, I got a present from Kurumi.」%K%P
 0x75C
 いづみ「これ、なんでも姫ヶ浜で見つけたらしいの」%K%P
-Izumi「According to her, it seems she found it on Princess%NBeach.」%K%P
+Izumi「According to her, it seems she found it on Princess Beach.」%K%P
 0x768
 いづみ「……ねぇ、何でそっぽを向いてるの？」%K%P
 Izumi「... Hey, why are you looking in that direction?」%K%P
 0x774
 誠「……あっ……そうそう。今朝と言えば、何だか寝違えたみたいで、首が痛くて痛くて……」%K%P
-Makoto「... Oh... that's right. I slept funny last night, so my neck is%Nkilling me...」%K%P
+Makoto「... Oh... that's right. I slept funny last night, so my neck is killing me...」%K%P
 0x780
 いづみ「…………？」%K%P
 Izumi「...?」%K%P
@@ -246,7 +246,7 @@ Izumi「...?」%K%P
 Izumi「Speaking of which, about last night...」%K%P
 0x798
 誠「あ、ああ……昨日の夜は、冷えましたよね。何だか風邪っぽくて……ごほごほっ」%K%P
-Makoto「A-Ah... last night was really cold. I think I'm coming down%Nwith a cold... *cough, cough*.」%K%P
+Makoto「A-Ah... last night was really cold. I think I'm coming down with a cold... *cough, cough*.」%K%P
 0x7A4
 いづみ「……だ、大丈夫？」%K%P
 Izumi「... A-Are you all right?」%K%P
@@ -255,10 +255,10 @@ Izumi「... A-Are you all right?」%K%P
 Makoto「Y-Yes... I should be perfectly fine.」%K%P
 0x7BC
 過剰に意識し過ぎてしまって会話がシドロモドロになっていた。%K%P
-This conversation is making me so overly-conscious of%Nmyself that I'm getting flustered.%K%P
+This conversation is making me so overly-conscious of myself that I'm getting flustered.%K%P
 0x7C8
 そわそわしていたのだ。何かの拍子に『あの時の返事は？』と聞かれてしまいそうで……。%K%P
-I'm restless. The way she's acting, it seems like she'll end%Nup asking me 「What's your answer from last night?」 any%Nminute now...%K%P
+I'm restless. The way she's acting, it seems like she'll end up asking me 「What's your answer from last night?」 any minute now...%K%P
 0x7E4
 すると突然……%K%P
 Just then, out of the blue...%K%P
@@ -270,13 +270,13 @@ Izumi「I'm sorry.」%K%P
 ... Izumi-san apologizes.%K%P
 0x824
 予想外の言葉を聞き、自然といづみさんの方に向き直る。%K%P
-Not expecting to hear those words, I stare at Izumi-san,%Ndumbfounded.%K%P
+Not expecting to hear those words, I stare at Izumi-san, dumbfounded.%K%P
 0x838
 いづみ「あなたの気持ちも知らないで、あんなこと言っちゃって……」%K%P
-Izumi「I said those things last night without taking your feelings%Ninto account...」%K%P
+Izumi「I said those things last night without taking your feelings into account...」%K%P
 0x844
 いづみ「こんなふうにギクシャクするのなら……言うんじゃなかった」%K%P
-Izumi「If I had known it would make things this awkward... I%Nwouldn't have said it.」%K%P
+Izumi「If I had known it would make things this awkward... I wouldn't have said it.」%K%P
 0x850
 誠「……………………」%K%P
 Makoto「...」%K%P
@@ -312,7 +312,7 @@ I... just what should I do?%K%P
 Before long, it's the shop's closing time.%K%P
 0x930
 結局、ルナビーチの営業は、何事もなく無事に終えることができた。%K%P
-In the end, Lunabeach's business hours concluded%Nsafely and uneventfully.%K%P
+In the end, Lunabeach's business hours concluded safely and uneventfully.%K%P
 0x93C
 いづみさんの身には、何も起こらなかったのだ。%K%P
 Nothing happened to Izumi-san.%K%P
@@ -324,10 +324,10 @@ Despite feeling relieved, I can't help but get gloomy.%K%P
 Our conversation this evening...%K%P
 0x960
 あの会話が原因で、オレといづみさんの間にはぎこちない空気が流れていたのだ。%K%P
-Thanks to that, the atmosphere between Izumi-san and I%Nhas become awkward.%K%P
+Thanks to that, the atmosphere between Izumi-san and I has become awkward.%K%P
 0x96C
 何事も無かったかのように、黙々と仕事をこなすいづみさん……。%K%P
-Izumi-san silently carried on with her work, as if nothing%Never happened...%K%P
+Izumi-san silently carried on with her work, as if nothing ever happened...%K%P
 0x978
 そんないづみさんに、オレは何も言ってあげることができなかった。%K%P
 I was unable to say anything to Izumi-san in that state.%K%P
@@ -339,10 +339,10 @@ The two of us are alone in the shop...%K%N
 The mood is still rather awkward...%K%P
 0x99C
 閉店後、オレはそんな嫌な空気を払拭すべく、いづみさんをロッジに誘った。%K%P
-In order to wipe away the atmosphere, I invite Izumi-san%Nto the lodge.%K%P
+In order to wipe away the atmosphere, I invite Izumi-san to the lodge.%K%P
 0x9A8
 みんなと一緒にいれば、きっと気分を紛らすことができるだろう……そう思ったからだ。%K%P
-I bet that if we're with the others, the mood will surely%Nbrighten up.%K%P
+I bet that if we're with the others, the mood will surely brighten up.%K%P
 0x9B4
 いづみさんは、オレの誘いに対して快く返事をしてくれた。%K%P
 Izumi-san willingly accepts my invitation.%K%P
@@ -354,7 +354,7 @@ The two of us begin walking to the lodge.%K%P
 When we arrive at the lodge, Izumi-san makes dinner.%K%P
 0xA08
 いつもよりも、少しばかり味が劣っていたような気がした。%K%P
-It tastes good, but it's not as great as her usual%Ncooking.%K%P
+It tastes good, but it's not as great as her usual cooking.%K%P
 0xA14
 もちろんそれは、単なる気のせいだとは思うけど……。%K%P
 Of course, it could simply be my imagination...%K%P
@@ -363,7 +363,7 @@ Of course, it could simply be my imagination...%K%P
 After we eat...%K%P
 0xA6C
 いづみ「さて……。片付けも終わったことだし、くるみ、そろそろ帰ろうか？」%K%P
-Izumi「Well then... after I'm done cleaning up, don't you think we%Nbetter be getting back, Kurumi?」%K%P
+Izumi「Well then... after I'm done cleaning up, don't you think we better be getting back, Kurumi?」%K%P
 0xA78
 ……いづみさんはくるみを促し、席を立った。%K%P
 ... Izumi-san prompts Kurumi, and stands up.%K%P
@@ -384,13 +384,13 @@ Makoto「Hey, why don't you two sleep over here tonight?」%K%P
 Kurumi「What!? Is it really okay?」%K%P
 0xAE0
 いづみ「くるみっ！　……せっかくだけど、そういうわけにはいかないのよ。誠くん」%K%P
-Izumi「Kurumi! ... I know we came all the way out here, but we%Nreally can't, Makoto-kun.」%K%P
+Izumi「Kurumi! ... I know we came all the way out here, but we really can't, Makoto-kun.」%K%P
 0xAEC
 いづみ「明日も、仕事があるしね……」%K%P
 Izumi「I have work tomorrow too, so...」%K%P
 0xB08
 優夏「いいじゃないですか〜？　タマには。ホラ、寝室だったら、あそことあそこにあるし……」%K%P
-Yuka「Oh, it's all right, isn't it? It's simple. Look, if you're worried%Nabout bedrooms, we've got some there and up there...」%K%P
+Yuka「Oh, it's all right, isn't it? It's simple. Look, if you're worried about bedrooms, we've got some there and up there...」%K%P
 0xB14
 優夏が指差したのは、オレの寝室とロフト（億彦の寝室）だった。%K%P
 Yuka points at my room and the loft.%K%P
@@ -402,7 +402,7 @@ Okuhiko「Hey! Those are our rooms, aren't they?」%K%P
 Yuka「Don't worry, don't worry♪」%K%P
 0xB48
 誠「でもいづみさん、本当に気にしなくても大丈夫ですよ。朝早く起きれるようにみんな協力しますから……」%K%P
-Makoto「Izumi-san, you really don't have to worry about it, it's%Nfine. We'll all make sure you get up early enough in the%Nmorning...」%K%P
+Makoto「Izumi-san, you really don't have to worry about it, it's fine. We'll all make sure you get up early enough in the morning...」%K%P
 0xB6C
 オレは懸命に訴えた。%K%P
 I try to be as persuasive as possible.%K%P
@@ -423,7 +423,7 @@ Izumi「... Haah...」%K%P
 Izumi「... All right, we accept.」%K%P
 0xBBC
 いづみ「でも、部屋のことはいいのよ。私とくるみは%N一緒でいいし、なんならリビングのソファでも……」%K%P
-Izumi「But don't worry about rooms. Kurumi and I will be okay%Njust sleeping together on the living room sofa...」%K%P
+Izumi「But don't worry about rooms. Kurumi and I will be okay just sleeping together on the living room sofa...」%K%P
 0xBC8
 誠「だったら、あそこのロフトを使うといいよ。いづみさん♪」%K%P
 Makoto「In that case, then you can use the loft, Izumi-san♪」%K%P
@@ -432,7 +432,7 @@ Makoto「In that case, then you can use the loft, Izumi-san♪」%K%P
 Okuhiko「Hey, that's my room!」%K%P
 0xC0C
 誠「少しばかり余計なものがあるかもしれないけど、全部すみっこにどかしちゃっていいからね」%K%P
-Makoto「There's just something a little too big in there, but it can%Nbe removed.」%K%P
+Makoto「There's just something a little too big in there, but it can be removed.」%K%P
 0xC20
 億彦「ひ、人の話を聞けぇーーっ！！」%K%P
 Okuhiko「L-Listen to me, dammit!!」%K%P
@@ -444,13 +444,13 @@ Makoto「Don't worry, don't worry♪」%K%P
 Okuhiko「I'm worried!!」%K%P
 0xC44
 優夏「大丈夫〜♪　億彦くんだったら、ソファでも優雅に眠ることができるって♪」%K%P
-Yuka「It's all right〜♪ If it's you, Okuhiko-kun, then you should%Nbe able to sleep elegantly even on the sofa♪」%K%P
+Yuka「It's all right〜♪ If it's you, Okuhiko-kun, then you should be able to sleep elegantly even on the sofa♪」%K%P
 0xC50
 億彦「いったい、どうやってソファで、優雅に眠れるって言うんだぁっ！！」%K%P
 Okuhiko「Just how the hell do you sleep elegantly on a sofa!!」%K%P
 0xC5C
 すると、クイクイッと億彦の服を引っ張る遙。%K%P
-Just then, Haruka tugs on Okuhiko's clothes as he%Nwhines.%K%P
+Just then, Haruka tugs on Okuhiko's clothes as he whines.%K%P
 0xC78
 遙「億彦……男だったら、ガマンする……」%K%P
 Haruka「Okuhiko... if you're a man, then just put up with it...」%K%P
@@ -465,13 +465,13 @@ Haruka「... Isn't this where you say 'yes'?」%K%P
 Okuhiko「... Yes.」%K%P
 0xCB8
 億彦も、遙のひと言にはかなわないようだ。%K%P
-It seems Okuhiko is unable to withstand Haruka's%Ncomment.%K%P
+It seems Okuhiko is unable to withstand Haruka's comment.%K%P
 0xCE4
 くるみ「ごめんね、おっくん……」%K%P
 Kurumi「Sorry, Okkun...」%K%P
 0xCF8
 億彦「いや、いいんだ……。そう言えば、今日はソファで眠りたい気分だし……」%K%P
-Okuhiko「No, it's fine... Now that you mention it, I was in the mood for%Nsleeping on the sofa today...」%K%P
+Okuhiko「No, it's fine... Now that you mention it, I was in the mood for sleeping on the sofa today...」%K%P
 0xD04
 そう言う億彦の背中は哀愁を帯びていた。%K%P
 Okuhiko says this quite sullenly.%K%P
@@ -483,4 +483,4 @@ Kurumi「Yaay♪ Let's all play a card game tonight, guys!」%K%P
 The overjoyed Kurumi skips about the room.%K%P
 0xD48
 その様子を見たいづみさんは『しょうがないわねぇ』といった感じで、眉間にシワを寄せていた。%K%P
-Izumi-san furrows her brow at this, as if to say, 「can't be%Nhelped」.%K%P
+Izumi-san furrows her brow at this, as if to say, 「can't be helped」.%K%P

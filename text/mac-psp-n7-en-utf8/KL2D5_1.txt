@@ -6,7 +6,7 @@ text area offset and size:
 Kurumi「Ready! ... Go!」%K%P
 0x160
 平たい岩を土俵にしてのカニ相撲が始まった。%K%P
-Before long, the two crabs begin to sumo on a flat rock%Nbeing used as the arena.%K%P
+Before long, the two crabs begin to sumo on a flat rock being used as the arena.%K%P
 0x16C
 くるみが行司を勤め、オレは観客。%K%P
 Kurumi is serving as the referee, and I am the audience.%K%P
@@ -21,7 +21,7 @@ Kurumi holds her breath in anticipation.%K%P
 Kurumi「GOOOO!」%K%P
 0x19C
 ……ややハサミの小さなカニが、大柄なカニを押し出す！%K%P
-... The small crab pushes off the larger crab with its small%Nclaws!%K%P
+... The small crab pushes off the larger crab with its small claws!%K%P
 0x1B8
 くるみ「押し出しでぇ、カニ大道楽の勝ちぃ〜♪」%K%P
 Kurumi「Ring out! Sumo Crab wins♪」%K%P
@@ -30,13 +30,13 @@ Kurumi「Ring out! Sumo Crab wins♪」%K%P
 Kurumi pets both the winning and losing crabs equally.%K%P
 0x1D0
 そして、負けたカニを逃がしてあげる。名残惜しそうに手を振りながら……。%K%N
-After that, she lets the losing crab go while waving%Nsorrowfully at it...%K%N
+After that, she lets the losing crab go while waving sorrowfully at it...%K%N
 0x1DC
 何度見ても微笑ましい光景だった……。%K%P
 ... It's quite a pleasant scene...%K%P
 0x1E8
 あの日、オレの中で芽生え始めた何かは、あっという間にすくすくと成長し、今や弾け飛んでしまいそうなほどにたわわに実っていた。%K%P
-The 「something」 that started to sprout within me that%Nday has grown in the blink of an eye, and has now burst%Nopen, having almost completely ripened.%K%P
+The 「something」 that started to sprout within me that day has grown in the blink of an eye, and has now burst open, having almost completely ripened.%K%P
 0x1F4
 いつまでもいつまでも、こうしてくるみを眺めていたい。%K%N
 I want to watch Kurumi as she is right now forever.%K%N
@@ -45,13 +45,13 @@ I want to watch Kurumi as she is right now forever.%K%N
 Because Kurumi's smile is like an angel's...%K%P
 0x20C
 そう。オレは天使の微笑みを、再び見ることができたのだ。%K%P
-Yes. This is the second time I've been able to see that%Nangelic smile.%K%P
+Yes. This is the second time I've been able to see that angelic smile.%K%P
 0x218
 オレの願いが天に届いたのだろうか？%K%N
 So does that mean my wish is to reach heaven?%K%N
 0x224
 くるみをずっと、永遠に、見守っていたかった……。%K%P
-That way, I could fulfill my desire to always watch over%NKurumi for all of eternity...%K%P
+That way, I could fulfill my desire to always watch over Kurumi for all of eternity...%K%P
 0x27C
 誠「うわあ腹減ったなあ」%K%P
 Makoto「Wow, I'm so hungry.」%K%P
@@ -90,7 +90,7 @@ Kurumi「Put caviar... in the rice balls?」%K%P
 Makoto「... Huh? Was I wrong?」%K%P
 0x31C
 くるみ「いくらなんでも、オニギリの具にきゃびあはないでしょ？」%K%P
-Kurumi「Either way, there wasn't any caviar with the rice ball%Nmaking tools, you know?」%K%P
+Kurumi「Either way, there wasn't any caviar with the rice ball making tools, you know?」%K%P
 0x328
 （ってことは……何だ？）%K%P
 (Which means... what is this?)%K%P
@@ -114,7 +114,7 @@ Lying on my tongue is some kind of creamy substance...%K%N
 It's has a rich aroma that's spreading all over my mouth...%K%P
 0x37C
 それは、いまだかつて１度しか経験したことのない、昇天してしまいそうなほどの味だった！%K%P
-I've never tasted it before, but it's so good that I feel%Nlike I've died and gone to heaven!%K%P
+I've never tasted it before, but it's so good that I feel like I've died and gone to heaven!%K%P
 0x388
 誠「くるみ……これ……中に何が入ってんだ？」%K%P
 Makoto「Kurumi... what's... in these?」%K%P
@@ -126,7 +126,7 @@ Kurumi「Foie gras.」%K%P
 Makoto「Ah... foie gras... So that's why it's so good...」%K%P
 0x3B4
 誠「ってフォアグラ！？　あの世界３大珍味のひとつフォアグラがぁ！？」%K%P
-Makoto「FOIE GRAS!? You mean one of the three greatest%Ndelicacies in the world!?」%K%P
+Makoto「FOIE GRAS!? You mean one of the three greatest delicacies in the world!?」%K%P
 0x3C0
 くるみ「そだよ」%K%P
 Kurumi「That's right.」%K%P
@@ -135,13 +135,13 @@ Kurumi「That's right.」%K%P
 Makoto「Is it the real deal?」%K%P
 0x3E0
 くるみ「もちろん♪　お店の冷蔵庫の中に入ってたから、ちょっと拝借しちゃった♪」%K%P
-Kurumi「Of course♪ It was in the fridge at the shop, so Kurumi%Nborrowed some♪」%K%P
+Kurumi「Of course♪ It was in the fridge at the shop, so Kurumi borrowed some♪」%K%P
 0x3EC
 誠「いづみさんに…………%K%N断ってるわけないかぁ……」%K%P
 Makoto「Izumi-san... doesn't know, does she...?」%K%P
 0x3F8
 くるみ「大丈夫、大丈夫。お姉ちゃん、そういうの気づかない人だから……」%K%P
-Kurumi「It's all right, it's all right. Onee-chan isn't the kind of%Nperson who will notice it...」%K%P
+Kurumi「It's all right, it's all right. Onee-chan isn't the kind of person who will notice it...」%K%P
 0x404
 （それが意外と気づいてるんだって！）%K%P
 (Well, you're in for quite the surprise later...)%K%P
@@ -156,10 +156,10 @@ Kurumi「When we're done eating, you wanna do something fun?」%K%P
 Makoto「Sure!」%K%P
 0x4B8
 桜並木を並んで歩いていると、ふいにくるみはこんなことを尋ねて来た。%K%P
-When we walk down the road surrounded by cherry%Nblossom trees, Kurumi suddenly asks me something.%K%P
+When we walk down the road surrounded by cherry blossom trees, Kurumi suddenly asks me something.%K%P
 0x4C4
 くるみ「ねぇ？　おもしろいもの、見せてあげよっか？」%K%P
-Kurumi「Hey? Do you want Kurumi to show you something%Ninteresting?」%K%P
+Kurumi「Hey? Do you want Kurumi to show you something interesting?」%K%P
 0x4D0
 あれ？%K%N
 Huh?%K%N
@@ -177,7 +177,7 @@ Kurumi「Well? Do you want Kurumi to show you?」%K%P
 Makoto「Y-Yeah...」%K%P
 0x50C
 くるみ「じゃあ……ジャンケンして勝ったらね♪」%K%P
-Kurumi「Then you can... if you beat Kurumi in%NRock-Paper-Scissors♪」%K%P
+Kurumi「Then you can... if you beat Kurumi in Rock-Paper-Scissors♪」%K%P
 0x518
 ジャンケン？？？%K%P
 Rock-Paper-Scissors???%K%P
@@ -189,7 +189,7 @@ Kurumi「Let's go〜♪ Rock, Paper, Scissors...」%K%P
 Makoto「Go!」%K%P
 0x53C
 瞬時に、前回の負け戦を思い出したオレは、迷わず『グー』を出した。%K%P
-In that instant, I remember that I lost by using 「paper」%Nlast time, so I instantly go with 「rock」.%K%P
+In that instant, I remember that I lost by using 「paper」 last time, so I instantly go with 「rock」.%K%P
 0x550
 くるみ「わ〜い、くるみの勝ち〜♪」%K%P
 Kurumi「Yay〜, Kurumi won〜♪」%K%P
@@ -210,19 +210,19 @@ Nah, it can't be...%K%N
 ...%K%P
 0x598
 それにしても、キャビアのことと言い、この桜並木のことと言い……微妙に歴史が変わってるみたいだけど……。%K%P
-Nevertheless, it seems that history has subtly changed,%Nwhat with the lack of caviar and Kurumi not telling me%Nabout her dream...%K%P
+Nevertheless, it seems that history has subtly changed, what with the lack of caviar and Kurumi not telling me about her dream...%K%P
 0x5A4
 何でだろう？%K%N
 I wonder why?%K%N
 0x5B0
 と言うよりも、逆に、これだけ同じような流れになることの方が不思議なのかな？%K%P
-Or rather, I wonder if it's stranger that those are the only%Nthings that have changed today so far.%K%P
+Or rather, I wonder if it's stranger that those are the only things that have changed today so far.%K%P
 0x5BC
 ここまで来ると、オレの経験した歴史とは、まるっきり違うものになっちゃってるわけだし。%K%P
-Up until now, things have been completely different than%Nthey were the first time.%K%P
+Up until now, things have been completely different than they were the first time.%K%P
 0x5C8
 例えば、くるみはまだ神社に１度も行っていない。%K%N
-For example, Kurumi still hasn't gone to the shrine once%Nthis time.%K%N
+For example, Kurumi still hasn't gone to the shrine once this time.%K%N
 0x5D4
 そして、傷のこともオレに打ち明けていない。%K%P
 She also never told me about her scar.%K%P
@@ -237,22 +237,22 @@ This is also the first time we've been to Viewpoint Park...%K%N
 If everything was just exactly the same, it'd be boring.%K%P
 0x604
 予想外の事が起きるからこそ、日常っていうのはオモシロイんだ。%K%P
-It's precisely because unexpected things occur that%Neveryday life is made interesting.%K%P
+It's precisely because unexpected things occur that everyday life is made interesting.%K%P
 0x610
 くるみ「さっ、早くおもしろいこと、やりに行こっ♪」%K%P
 Kurumi「C'mon, let's hurry up and do that 'something fun'♪」%K%P
 0x61C
 くるみはオレの手をぐんぐんとひっぱって、展望公園へと導いて行く……。%K%P
-Kurumi grabs my hand, and then steadily guides me%Ntowards Viewpoint Park...%K%P
+Kurumi grabs my hand, and then steadily guides me towards Viewpoint Park...%K%P
 0x628
 オレの心は今日も、夏の青空のようにすがすがしく澄み渡っていた……。%K%P
-Just like the last 5th, my heart is as clear as a blue sky%Non a sunny day...%K%P
+Just like the last 5th, my heart is as clear as a blue sky on a sunny day...%K%P
 0x6C4
 展望公園に着いたオレとくるみは、石のタイルの上にストンと腰を下ろした。%K%P
-Kurumi and I arrive at Viewpoint Park, and sit down on the%Ntiles with a thump.%K%P
+Kurumi and I arrive at Viewpoint Park, and sit down on the tiles with a thump.%K%P
 0x6D0
 すると、くるみは空っぽになったバスケットの底から、おもむろに折り紙を取り出した。%K%P
-When we do, Kurumi reaches into the bottom of the empty%Nbasket, and slowly takes something out.%K%P
+When we do, Kurumi reaches into the bottom of the empty basket, and slowly takes something out.%K%P
 0x6DC
 くるみ「ジャ〜ン♪　くるくるくるみマジック♪」%K%P
 Kurumi「Ta-da♪ It's KuruKuru Kurumi Magic♪」%K%P
@@ -267,7 +267,7 @@ Kurumi「Bingo〜♪」%K%P
 Kurumi「By the way, Onii-chan, can you fold origami?」%K%P
 0x70C
 誠「おう！　まかせろ！%Nカメなら完璧に折れるぞ！？」%K%P
-Makoto「Yeah! Leave it to me! I'm a master at folding origami%Nturtles!」%K%P
+Makoto「Yeah! Leave it to me! I'm a master at folding origami turtles!」%K%P
 0x720
 くるみ「ええ〜っ！　うっそだぁ〜！」%K%P
 Kurumi「Wha〜at! No way〜!」%K%P
@@ -279,19 +279,19 @@ She stares at me with doubt...%K%P
 Kurumi「Even veterans fail with turtles sometimes, you know?」%K%P
 0x744
 誠「知ってるよ。桃栗３年カメ８年って言われてるぐらいなんだろ？」%K%P
-Makoto「I know. They say it takes about three years to perfect a%Npeach and chestnut tree, and about eight years to%Nperfect a turtle, right?」%K%P
+Makoto「I know. They say it takes about three years to perfect a peach and chestnut tree, and about eight years to perfect a turtle, right?」%K%P
 0x750
 くるみ「あ……なんでそんなマニアしか知らないことを？」%K%P
-Kurumi「Ah... how did you know something only origami maniacs%Nknow?」%K%P
+Kurumi「Ah... how did you know something only origami maniacs know?」%K%P
 0x75C
 誠「前に、折り紙マニアの女の子から、聞いたことがあるんだ」%K%P
-Makoto「I heard it once in the past from this girl who was an%Norigami maniac.」%K%P
+Makoto「I heard it once in the past from this girl who was an origami maniac.」%K%P
 0x768
 くるみ「ふ〜ん……」%K%P
 Kurumi「Hmm...」%K%P
 0x774
 くるみ「でもねぇ〜。知識だけじゃ、折り紙は折れないよ？%N経験とセンスがものを言う世界だから……」%K%P
-Kurumi「But just knowing isn't enough to fold origami. It's a world%Nwhere experience and good sense mean everything...」%K%P
+Kurumi「But just knowing isn't enough to fold origami. It's a world where experience and good sense mean everything...」%K%P
 0x780
 またもや疑いの目……。%K%P
 Those eyes of hers are dubious again...%K%P
@@ -315,16 +315,16 @@ Makoto「All right. Watch carefully!」%K%P
 Kurumi「Yeah. Well then, let's see what you've got...」%K%P
 0x7DC
 オレは、くるみに教わった折り方を思い出しながら、早速カメを折り始めた。%K%P
-I begin to fold a turtle using the technique that Kurumi%Nhad taught me.%K%P
+I begin to fold a turtle using the technique that Kurumi had taught me.%K%P
 0x7E8
 オリオリ……オリオリ……オリオリ……キュッキュッ……。%K%P
 Fold, fold... fold, fold... Fold, fold... fold, fold...%K%P
 0x7F4
 誠「ここは確か、裏返しにして、左側だけを谷折りにするんだったよな……」%K%P
-Makoto「And this is the part where I turn it inside out, then only%Nfold the left side like a valley...」%K%P
+Makoto「And this is the part where I turn it inside out, then only fold the left side like a valley...」%K%P
 0x800
 くるみ「あっ……すごいすごい。そこ一番難しい所なのに……」%K%P
-Kurumi「Ah... impressive. Even though that's the most difficult%Npart...」%K%P
+Kurumi「Ah... impressive. Even though that's the most difficult part...」%K%P
 0x80C
 誉められて、ちょっと得意気になるオレ。%K%P
 Her praise makes me a little proud.%K%P

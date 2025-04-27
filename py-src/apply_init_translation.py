@@ -77,11 +77,14 @@ def main():
         elif ln2.startswith(unusedstr):
           # clearly mark as untranslated to make detection more easy
           tl_string = "<" + addr + ":not_translated>"
+        elif ln2.startswith(";lit;"):
+          tl_string = tl_string[5:]
+          if not tl_string: tl_string = jp_string
         elif ln2.startswith(";"):
           print("Warning, unexpected ';' in the beginning of line [{}]".format(ln2))
           
         # tl_string = clean_translation_enc_issues(tl_string)
-        if (encoding_table_lang == 'en'):
+        if (encoding_table_lang == 'en' or encoding_table_lang == 'ru'):
           tl_string = r11.clean_en_translation_line(tl_string)
         elif (encoding_table_lang == 'cn'):
           pass
@@ -90,8 +93,12 @@ def main():
           raise Exception("Unrecognized lang")
 
 
+        if ln2.startswith(";lit;"):
+          tl_bytes = r11.str_to_r11_bytes(tl_string, exception_on_unknown=True)
+        else:
+          tl_bytes = r11.str_to_r11_bytes(tl_string, lang=encoding_table_lang, exception_on_unknown=True)
+
         head_int_view[table_offset // 4] = pos + seg_text[0]
-        tl_bytes = r11.str_to_r11_bytes(tl_string, lang=encoding_table_lang, exception_on_unknown=True)
         body += tl_bytes + b'\x00'
         pos += len(tl_bytes) + 1
     i += 1

@@ -6,10 +6,14 @@
 /n7_*/
 /r11_*/
 
+/bg-*-*/*.R11
+/ev-*-*/*.R11
+
 /text/tmp/
 /text/mac-en-only-utf8/
 /text/tmp-*/
 /text/mac-*-en-only-utf8/
+/text/mac-*-ru-only-utf8/
 /text/font/FONT*
 /text/font/glyphs/
 /text/font/glyphs-cn/
@@ -17,13 +21,21 @@
 /text/font/n7*/
 /text/font/r11*/
 
+/*-r11-ru/
+/text/other-psp-r11-ru/
+/text/mac-psp-r11-ru-utf8/
+
 /iso/*.iso
 /iso/*.dax
 /iso/*.cso
 
 /patch/*.xdelta
 
-/pbp/*.PBP
+/pbp/
+
+/tools/GimConv/*.exe
+/tools/GimConv/*.dll
+/tools/GimConv/lib/
 
 /*.exe
 /*.dll

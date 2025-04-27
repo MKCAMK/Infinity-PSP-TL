@@ -3,13 +3,13 @@ text area offset and size:
 0xB00
 0x134
 静寂を突き破るかのように、突然鳴り出す腕時計のアラーム。%K%P
-The silence is pierced by the sudden sound of my watch%Nalarm going off.%K%P
+The silence is pierced by the sudden sound of my watch alarm going off.%K%P
 0x140
 誠「う……う〜ん……」%K%P
 Makoto「M... Mmm...」%K%P
 0x158
 もぞもぞと布団の中から手を出し、腕時計のアラームを切る。%K%P
-I wiggle my hand out of the covers, and shut my watch%Nalarm off.%K%P
+I wiggle my hand out of the covers, and shut my watch alarm off.%K%P
 0x164
 眠り足りないせいか、頭の中はモヤがかかったようにかすんでいた。%K%P
 Since I didn't get enough sleep, my head is still hazy.%K%P
@@ -21,16 +21,16 @@ Since I didn't get enough sleep, my head is still hazy.%K%P
 (Izumi-san... Just what is it that she wants with me?)%K%P
 0x198
 その理由は皆目見当もつかなかったが、とにかく約束を破るわけにはいかない。%K%P
-I don't have the slightest idea of what her true%Nintentions are, but at any rate, there's no way I can%Nbreak my promise to her.%K%P
+I don't have the slightest idea of what her true intentions are, but at any rate, there's no way I can break my promise to her.%K%P
 0x1A4
 オレは勢いをつけてベッドから跳ね起きると、思い切り大きな伸びをした。%K%P
-I force myself to jump out of bed, and stretch my stiff%Nlimbs.%K%P
+I force myself to jump out of bed, and stretch my stiff limbs.%K%P
 0x1B0
 誠「さてと……。行きますかぁ……」%K%P
 Makoto「Well then... time to go...」%K%P
 0x1BC
 ひとり言をこぼしながら、オレは誰もいないリビングを通り抜けて、玄関へと向かった。%K%P
-I mutter to myself as I pass through the empty living room%Nand head for the front door.%K%P
+I mutter to myself as I pass through the empty living room and head for the front door.%K%P
 0x1F4
 リビングには、もちろん誰もいなかった。%K%P
 Of course, there's no one in the living room.%K%P
@@ -54,16 +54,16 @@ When I look up in surprise...%K%P
 Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
 0x2C0
 億彦「ニュートリノエナジーパワーオンッ！……%W%Wへ〜%W%Wんしん！……%W%Wとぉ！%W%W%W%W……ムニャムニャ……」%K%P
-Okuhiko「Neutrino Energy, Power On! ... Trans〜form! ... There! ...%NZzz...」%K%P
+Okuhiko「Neutrino Energy, Power On! ... Trans〜form! ... There! ... Zzz...」%K%P
 0x2D4
 億彦「出たなハイテク怪人掃除機男……%W%Wううっ……%W%W吸われる……%W%W吸わ……%W%Wれる……%W%W%W%W……ムニャムニャ……」%K%P
-Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
+Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum Cleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
 0x2E8
 億彦「お疲れ様でしたぁ……%W%W%W%W……ムニャムニャ……」%K%P
 Okuhiko「Good work... Zzz...」%K%P
 0x2FC
 億彦「コラッ！…ボウズ！%W%W…舞台に上がるな舞台に！%N%W%W…おいっやめろ！%W%W…チャックを…%W%Wチャックを…%W%Wおろすな！%W%W%W%W……ムニャムニャ……」%K%P
-Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't...%Nlower... that zipper! ... Zzz...」%K%P
+Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't... lower... that zipper! ... Zzz...」%K%P
 0x310
 ……どうやら寝言のようだった。%K%P
 ... It seems he's just sleeptalking.%K%P
@@ -72,10 +72,10 @@ Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't...
 (Whew... Man, what kind of dream is he having anyway...?)%K%P
 0x328
 オレは、そんな億彦は放っておいて、いづみさんの待つルナビーチを目指した。%K%P
-I ignore Okuhiko and head towards Lunabeach, where%NIzumi-san is waiting.%K%P
+I ignore Okuhiko and head towards Lunabeach, where Izumi-san is waiting.%K%P
 0x394
 ルナビーチに到着したとき、既にいづみさんはお店の前で待っていた。%K%P
-When I arrive at Lunabeach, Izumi-san is already waiting%Nfor me outside.%K%P
+When I arrive at Lunabeach, Izumi-san is already waiting for me outside.%K%P
 0x3A0
 誠「いづみさん、こんばんわ」%K%P
 Makoto「Good evening, Izumi-san.」%K%P
@@ -90,7 +90,7 @@ Makoto「You're out early. Were you waiting this whole time?」%K%P
 Izumi「Yes... I was sort of waiting impatiently for you to arrive.」%K%P
 0x3E0
 いづみさんは、少しうつむき加減になって、そう答える。%K%P
-Izumi-san casts her gaze slightly downward as she%Nsays this.%K%P
+Izumi-san casts her gaze slightly downward as she says this.%K%P
 0x3EC
 いづみ「少し、寒いね……」%K%P
 Izumi「It's a little cold, huh...?」%K%P
@@ -126,19 +126,19 @@ Makoto「Uh... sure...」%K%P
 Izumi「Come on! Let's go!」%K%P
 0x488
 納得がいかなかったが、とりあえず、いづみさんの後を追いかけて走り出した。%K%P
-I don't really get what she's up to, but for now, I just start%Nrunning after Izumi-san.%K%P
+I don't really get what she's up to, but for now, I just start running after Izumi-san.%K%P
 0x4C0
 公園へと続く桜並木を走っている最中、オレはこんなことを考えていた。%K%P
-In the middle of running through the cherry blossom%Ntree-lined road, I start to wonder about something.%K%P
+In the middle of running through the cherry blossom tree-lined road, I start to wonder about something.%K%P
 0x4CC
 （いづみさん、いったい何を考えているんだろう……？）%K%P
 (Izumi-san, just what are you thinking...?)%K%P
 0x4D8
 （こんな真夜中に展望公園なんか行って……%N　どうするつもりなんだ？）%K%P
-(Going to Viewpoint Park in the middle of the night... What's%Nyour plan?)%K%P
+(Going to Viewpoint Park in the middle of the night... What's your plan?)%K%P
 0x4E4
 時々振り返って、オレの姿を確認するいづみさん。%K%P
-From time to time, Izumi-san looks over her shoulder to%Nsee if I'm still there.%K%P
+From time to time, Izumi-san looks over her shoulder to see if I'm still there.%K%P
 0x4F0
 その表情からは、何も読み取ることはできなかった。%K%P
 However, her expression is unreadable.%K%P

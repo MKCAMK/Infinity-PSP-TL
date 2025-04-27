@@ -6,7 +6,7 @@ text area offset and size:
 I open the door to Lunabeach.%K%P
 0xA8
 優夏、遙、くるみ、億彦、そして……いづみさん。%K%P
-Standing there are Yuka, Haruka, Kurumi, Okuhiko... and%NIzumi-san.%K%P
+Standing there are Yuka, Haruka, Kurumi, Okuhiko... and Izumi-san.%K%P
 0xB4
 みんなの視線が、いっせいにオレのほうを向いた。%K%P
 Everyone's gazes are focused on me.%K%P
@@ -24,7 +24,7 @@ Makoto「... Huh?」%K%P
 Kurumi「Kurumi's very sorry about back then.」%K%P
 0x100
 くるみ「まさか、お姉ちゃんの知り合いだなんて、知らなかったから……」%K%P
-Kurumi「She didn't know that you were an acquaintance of%NOnee-chan's...」%K%P
+Kurumi「She didn't know that you were an acquaintance of Onee-chan's...」%K%P
 0x10C
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -39,7 +39,7 @@ Kurumi「Don't worry! Kurumi remembers now!」%K%P
 Makoto「...」%K%P
 0x154
 くるみ「お姉ちゃんの学校の、学生さんなんだよね？」%K%P
-Kurumi「You're one of the students at Onee-chan's school,%Nright?」%K%P
+Kurumi「You're one of the students at Onee-chan's school, right?」%K%P
 0x160
 誠「？？？」%K%P
 Makoto「???」%K%P
@@ -75,7 +75,7 @@ Izumi「After all, you spilled the beans, right, Okuhiko?」%K%P
 Okuhiko「B-But, it was unavoidable at that time!」%K%P
 0x20C
 億彦「石原が、暴力なんて卑怯な手段で、僕のことを脅すからさぁ」%K%P
-Okuhiko「Ishihara threatened me! Using such a cowardly method%Nlike violence-」%K%P
+Okuhiko「Ishihara threatened me! Using such a cowardly method like violence-」%K%P
 0x218
 いづみ「いいのよ、もう」%K%P
 Izumi「It's fine now.」%K%P
@@ -96,7 +96,7 @@ But it's a fake, awkward smile.%K%P
 Yuka「H-Hold on... What do you mean!?」%K%P
 0x278
 優夏「言っちゃったって……億彦くん、まさかあのこと言っちゃったの？」%K%P
-Yuka「You let it out... Okuhiko-kun, you're not talking about 'that',%Nare you?」%K%P
+Yuka「You let it out... Okuhiko-kun, you're not talking about 'that', are you?」%K%P
 0x28C
 億彦「違うよ、そうじゃないんだ」%K%P
 Okuhiko「No, that's not it.」%K%P
@@ -132,10 +132,10 @@ Okuhiko「Yeah, that's right.」%K%P
 Okuhiko「As Sun Tzu once said...」%K%P
 0x340
 億彦「『敵をあざむくにはまず味方から』ってね」%K%P
-Okuhiko「'In order to deceive your enemies, first deceive your%Nallies.'」%K%P
+Okuhiko「'In order to deceive your enemies, first deceive your allies.'」%K%P
 0x34C
 億彦「君達は、恐らく何も知らなかっただろうけど……僕らの協力者に……なる予定だったのさ」%K%P
-Okuhiko「It's likely none of you knew anything, but... we had%Nplanned for you to become... our assistants.」%K%P
+Okuhiko「It's likely none of you knew anything, but... we had planned for you to become... our assistants.」%K%P
 0x368
 優夏「協力者って……何の？」%K%P
 Yuka「Assistants... for what?」%K%P
@@ -171,7 +171,7 @@ Makoto「―What is this fucking experiment!!?」%K%P
 My legs are trembling.%K%P
 0x428
 次から次へと意味不明な事実を知らされ、オレの心は崩壊寸前だった。%K%P
-I don't even know what I'm shouting, but I don't care; my%Nhead feels like it's going to explode.%K%P
+I don't even know what I'm shouting, but I don't care; my head feels like it's going to explode.%K%P
 0x43C
 いづみ「誠くん……ちょっと」%K%P
 Izumi「Makoto-kun... come with me.」%K%P
@@ -186,7 +186,7 @@ Gradually, her gentle warmth permeates through me.%K%P
 Makoto「Izumi-san...」%K%P
 0x474
 そのまま、いづみさんはオレの手を引いて、ルナビーチのドアを開いた……。%K%P
-Just like that, Izumi-san takes me by hand, and opens%Nthe door to Lunabeach...%K%P
+Just like that, Izumi-san takes me by hand, and opens the door to Lunabeach...%K%P
 0x4D8
 ………………。%N…………。%N……。%K%P
 ... ... ...%K%P

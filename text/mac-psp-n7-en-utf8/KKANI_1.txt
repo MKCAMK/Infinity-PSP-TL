@@ -6,7 +6,7 @@ text area offset and size:
 ... Found her.%K%P
 0x4C
 くるみはテラスの柵に腕で持たれかかるようにして海を眺めていた。%K%P
-Kurumi is leaning on the fence on the terrace, gazing out%Nat the ocean.%K%P
+Kurumi is leaning on the fence on the terrace, gazing out at the ocean.%K%P
 0x58
 誠「……くるみ？」%K%P
 Makoto「... Kurumi?」%K%P
@@ -24,7 +24,7 @@ I give a small sigh, and walk over to her side.%K%P
 Makoto「Kurumi... I'm sorry about what happened earlier.」%K%P
 0xB4
 くるみはチラリとオレを見るが、すぐに海の方へと視線を戻してしまう。%K%P
-Kurumi spares me a quick glance, but immediately goes%Nback to staring at the ocean.%K%P
+Kurumi spares me a quick glance, but immediately goes back to staring at the ocean.%K%P
 0xC0
 ……こりゃ、思ったよりもやっかいだな。%K%P
 ... This is more troublesome than I thought.%K%P
@@ -33,7 +33,7 @@ Kurumi spares me a quick glance, but immediately goes%Nback to staring at the oc
 She's acting just like Haruka.%K%P
 0xD8
 オレは肩を落として再び溜息をつくが、すぐに気を取り直してくるみに語り掛ける。%K%P
-My shoulders sag as I sigh again, but I soon pull myself%Ntogether and address her.%K%P
+My shoulders sag as I sigh again, but I soon pull myself together and address her.%K%P
 0xE4
 誠「くるみ、今日はいい天気だな」%K%P
 Makoto「Nice weather today, huh, Kurumi?」%K%P
@@ -63,16 +63,16 @@ Makoto「And once you catch the crabs, what do you plan to do?」%K%P
 Kurumi「Make them sumo wrestle each other...」%K%P
 0x158
 誠「そっかぁ〜。きっと今日は、絶好のカニずもう日和（びより）だ」%K%P
-Makoto「I see. Well today has the best weather for crabs, after%Nall.」%K%P
+Makoto「I see. Well today has the best weather for crabs, after all.」%K%P
 0x164
 カニずもう日和って、なんだ？%K%P
 「The best weather for crabs」? What the hell?%K%P
 0x170
 オレは自分につっこみたくなったが、とりあえず言葉を続けた。%K%P
-I decide to ignore whatever I just said, and continue%Ntalking.%K%P
+I decide to ignore whatever I just said, and continue talking.%K%P
 0x17C
 誠「んで、くるみはカニ相撲をさせている間、どうするんだったっけ？」%K%P
-Makoto「And while you're making the crabs sumo wrestle, what%Nare you going to do?」%K%P
+Makoto「And while you're making the crabs sumo wrestle, what are you going to do?」%K%P
 0x188
 くるみ「カニ相撲の行司をするの……」%K%P
 Kurumi「Act as the crab sumo referee...」%K%P
@@ -87,7 +87,7 @@ Kurumi「Stroke it... and say 'You're strong, you're strong'.」%K%P
 Makoto「That winning crab sure will be happy.」%K%P
 0x1C0
 くるみ「それでね。負けた方のカニにも撫で撫でしてあげるの……がんばったがんばったって」%K%P
-Kurumi「But that's not all. Kurumi will stroke the losing crab too...%Nand tell it to 'hang in there'.」%K%P
+Kurumi「But that's not all. Kurumi will stroke the losing crab too... and tell it to 'hang in there'.」%K%P
 0x1CC
 誠「うんうん……。くるみは優しいなぁ〜」%K%P
 Makoto「Yes, yes... You're kind, Kurumi.」%K%P
@@ -102,7 +102,7 @@ Makoto「But there'll be no audience for the crab sumo.」%K%P
 Kurumi「...?」%K%P
 0x204
 誠「カニも張り合いがないだろ？　見ているのが行司だけだと」%K%P
-Makoto「There'll be no other crabs competing either, right? The%Nonly one watching will be the referee.」%K%P
+Makoto「There'll be no other crabs competing either, right? The only one watching will be the referee.」%K%P
 0x218
 くるみ「……うん」%K%P
 Kurumi「... Right.」%K%P
@@ -135,7 +135,7 @@ Makoto「To have the crabs sumo wrestle, right?」%K%P
 Kurumi「That's right♪ And Kurumi will be the crab sumo referee...」%K%P
 0x2F0
 誠「ああ、それはもう聞いたから、いいって……」%K%P
-Makoto「Yeah, I've already heard it from you, you don't need to%Ntell me twice...」%K%P
+Makoto「Yeah, I've already heard it from you, you don't need to tell me twice...」%K%P
 0x2FC
 オレはくるみの言葉を手で制して、%Nオレは話を続けた。%K%P
 I cut off Kurumi, and continue to speak.%K%P
@@ -153,7 +153,7 @@ Makoto「Doesn't a sumo need an audience?」%K%P
 Kurumi「...?」%K%P
 0x338
 誠「カニも張り合いがないだろ？　見ているのが行司だけだと」%K%P
-Makoto「There'll be no other crabs competing, right? The only%None watching will be the referee.」%K%P
+Makoto「There'll be no other crabs competing, right? The only one watching will be the referee.」%K%P
 0x344
 くるみ「うん」%K%P
 Kurumi「Right.」%K%P
@@ -168,13 +168,13 @@ Kurumi「Really?」%K%P
 Makoto「Yeah! Leave it to me!」%K%P
 0x37C
 それを聞いたくるみは、いつものようにヒマワリのような笑顔を見せた。%K%P
-When Kurumi hears that, she shows me her usual bright%Nsmile.%K%P
+When Kurumi hears that, she shows me her usual bright smile.%K%P
 0x400
 ──姫ヶ浜。%K%P
 ―Princess Beach.%K%P
 0x40C
 切り立った崖に囲まれ、周囲から隔絶された秘密の砂浜。%K%P
-It's a hidden beach, surrounded by tall cliffs that%Nserves as a barrier to isolate it from its surroundings.%K%P
+It's a hidden beach, surrounded by tall cliffs that serves as a barrier to isolate it from its surroundings.%K%P
 0x418
 オレ達がそこに到着したのは、１０時を少し過ぎたくらいの時間だった。%K%P
 It took us a little more than ten minutes to walk here.%K%P
@@ -198,10 +198,10 @@ Kurumi「Gotcha♪」%K%P
 Makoto「That was fast...」%K%P
 0x4E8
 くるみは、岩場について５分も経たない内にカニを%N１匹捕まえていた。%K%P
-It hasn't even been five minutes, and yet Kurumi's%Nalready caught a crab under some rocks.%K%P
+It hasn't even been five minutes, and yet Kurumi's already caught a crab under some rocks.%K%P
 0x4F4
 くるみは、岩の縁に手を当てて、海水が侵食している溝をのぞきこんでいる。%K%P
-Kurumi grabs the edge of a rock, and peeks down at a%Nditch that's been eroded by sea water.%K%P
+Kurumi grabs the edge of a rock, and peeks down at a ditch that's been eroded by sea water.%K%P
 0x500
 誠「お〜い、足を滑らすなよ〜」%K%P
 Makoto「Hey, don't trip.」%K%P
@@ -213,7 +213,7 @@ Kurumi「Wow〜〜♪ There's a lot of crabs here〜♪」%K%P
 Makoto「Huh? ... Whoa!」%K%P
 0x550
 そこの岩場の陰には、なぜかカニの大群がたむろしていた。%K%P
-For some reason, a large group of crabs have gathered%Nin the shadow of the rocky area.%K%P
+For some reason, a large group of crabs have gathered in the shadow of the rocky area.%K%P
 0x55C
 そりゃもう……気持ち悪いくらいウジャウジャと。%K%P
 Ugh... the sight of them in swarms is unsettling.%K%P
@@ -243,7 +243,7 @@ Kurumi lifts up the second crab with all her strength.%K%P
 It seems there was no need to worry.%K%P
 0x5C8
 くるみ「ねぇ、カニさん。くるみとジャンケンしようか？」%K%P
-Kurumi「Hey, Mr. Crab. Wanna play Rock-Paper-Scissors with%NKurumi?」%K%P
+Kurumi「Hey, Mr. Crab. Wanna play Rock-Paper-Scissors with Kurumi?」%K%P
 0x5D4
 くるみ「せ〜の、じゃ〜んけ〜ん…………グ〜！」%K%P
 Kurumi「Ready, set, Rock, Paper, Scissors... Rock!」%K%P
@@ -255,13 +255,13 @@ Kurumi「Yay, Kurumi won♪」%K%P
 Makoto「...」%K%P
 0x5F8
 カニとジャンケンして負けるヤツが見てみたいよ。%K%P
-It seems she wanted to see a crab lose at%NRock-Paper-Scissors.%K%P
+It seems she wanted to see a crab lose at Rock-Paper-Scissors.%K%P
 0x604
 誠「……無邪気なヤツ」%K%P
 Makoto「... So carefree.」%K%P
 0x610
 カニの捕獲は、くるみに任せることにして、オレはこっそり岩場を後にすることにした。%K%P
-Deciding to leave the crab capturing to Kurumi, I decide%Nto sneak off for a little while.%K%P
+Deciding to leave the crab capturing to Kurumi, I decide to sneak off for a little while.%K%P
 0x61C
 くるみ「あれ？」%K%P
 Kurumi「Huh?」%K%P
@@ -306,7 +306,7 @@ Kurumi stretches the crab's claw out.%K%P
 ... Incidentally, I have paper.%K%P
 0x6C4
 くるみ「わ〜い、カニさんの勝ち〜♪　カニ大道楽、よかったね？」%K%P
-Kurumi「Yay, Mr. Crab won〜♪ Isn't this fun, Sumo Crab? Are you%Nglad?」%K%P
+Kurumi「Yay, Mr. Crab won〜♪ Isn't this fun, Sumo Crab? Are you glad?」%K%P
 0x6D0
 嬉しそうにカニに語り掛けているくるみ。もう、名前なんてつけてるし……。%K%P
 Kurumi happily addresses the crab. Geez, don't name it...%K%P
@@ -327,7 +327,7 @@ Haah... Enough is enough...%K%P
 Kurumi「Ready! ... Go!」%K%P
 0x79C
 やがて、平たい岩を土俵にしてのカニ相撲が始まる。%K%P
-Before long, the two crabs begin to sumo on a flat rock%Nbeing used as the arena.%K%P
+Before long, the two crabs begin to sumo on a flat rock being used as the arena.%K%P
 0x7A8
 くるみが行司を勤め、オレは観客。%K%P
 Kurumi is serving as the referee, and I am the audience.%K%P
@@ -342,19 +342,19 @@ Kurumi and I hold our breaths in anticipation.%K%P
 Kurumi「GOOOO!」%K%P
 0x7E0
 ……ややハサミの小さなカニが、大柄なカニを押し出す！%K%P
-... The small crab pushes off the larger crab with its small%Nclaws!%K%P
+... The small crab pushes off the larger crab with its small claws!%K%P
 0x7F4
 くるみ「押し出しでぇ、カニ大道楽の勝ちぃ〜♪」%K%P
 Kurumi「Ring out! Sumo Crab wins♪」%K%P
 0x800
 もしかして、さっきオレにジャンケンで勝ったカニか？%K%Nよく、あんなんで区別がつくものだ。%K%P
-Wait, is that the crab that beat me in%NRock-Paper-Scissors earlier? I guess giving it a name%Nwas a good way to distinguish them.%K%P
+Wait, is that the crab that beat me in Rock-Paper-Scissors earlier? I guess giving it a name was a good way to distinguish them.%K%P
 0x80C
 くるみは、勝ったカニにも負けたカニにも、平等に撫で撫でをしてあげる。%K%P
-Kurumi takes the winning crab and the losing crab, and%Nstrokes them equally.%K%P
+Kurumi takes the winning crab and the losing crab, and strokes them equally.%K%P
 0x818
 そして、負けたカニを逃がしてあげる。名残惜しそうに手を振りながら……。%K%P
-After that, she lets the losing crab go while waving%Nsorrowfully at it...%K%P
+After that, she lets the losing crab go while waving sorrowfully at it...%K%P
 0x824
 ……なんとも微笑ましい光景だ。%K%P
 ... It's quite a pleasant scene.%K%P
@@ -384,7 +384,7 @@ Makoto「Then what kinds of worries are you talking about?」%K%P
 Kurumi「Umm... umm...」%K%P
 0x898
 くるみ「例えば……トレジャーストライクの最終ステージがどうしてもクリアできないこと、とか」%K%P
-Kurumi「For example... getting to the final level of Treasure Strike,%Nonly to find she can't beat it no matter what.」%K%P
+Kurumi「For example... getting to the final level of Treasure Strike, only to find she can't beat it no matter what.」%K%P
 0x8A4
 誠「……………………」%K%P
 Makoto「...」%K%P
@@ -393,7 +393,7 @@ Makoto「...」%K%P
 ... ... ...%K%P
 0x8F8
 やがて、カニ相撲四月場所は、無事、千秋楽（？）を終えた……。%K%P
-And so, the final day of the April Crab Sumo Wrestling%NTournament has concluded safely...%K%P
+And so, the final day of the April Crab Sumo Wrestling Tournament has concluded safely...%K%P
 0x950
 くるみ「…………終わっちゃったね」%K%P
 Kurumi「... It's over.」%K%P
@@ -402,7 +402,7 @@ Kurumi「... It's over.」%K%P
 Makoto「Yeah.」%K%P
 0x984
 祭りの後の静けさのように、オレとくるみは、カニのいない土俵を見つめていた。%K%P
-Kurumi and I stare the empty arena, wrapped up in a%Nstillness like the kind you feel at the end of a party.%K%P
+Kurumi and I stare the empty arena, wrapped up in a stillness like the kind you feel at the end of a party.%K%P
 0x998
 くるみ「さて……どうしようかな？　これから……」%K%P
 Kurumi「Well then... what should we do from now on?」%K%P
@@ -426,13 +426,13 @@ Kurumi「KYAAAAAA!!!」%K%P
 Makoto「What!?」%K%P
 0xAB4
 それは、ここ数日間で一番大きな地震だったかもしれない。%K%P
-This might be the strongest earthquake I've felt in my%Nfew days here.%K%P
+This might be the strongest earthquake I've felt in my few days here.%K%P
 0xAC0
 オレ達は、お互いを支え合い、%N揺れが治まるのを待つ。%K%P
-We support each other, and wait for the tremors to%Nsubside.%K%P
+We support each other, and wait for the tremors to subside.%K%P
 0xACC
 ……やがて、揺れは、波が引き寄せられるかのように引いていった。%K%P
-... Before long, the tremors die down, as if they're being%Npulled away by the waves.%K%P
+... Before long, the tremors die down, as if they're being pulled away by the waves.%K%P
 0xB1C
 くるみ「……おさまったね」%K%P
 Kurumi「... It's calmed down.」%K%P
@@ -441,31 +441,31 @@ Kurumi「... It's calmed down.」%K%P
 Makoto「That sure came out of nowhere...」%K%P
 0xB34
 オレ達は一息つくと、昼食の入ったバスケットのところまで歩いて行った。%K%P
-We take a breath, and walk over to the basket with our%Nlunches in it.%K%P
+We take a breath, and walk over to the basket with our lunches in it.%K%P
 0xB40
 ………………。%K%P
 ...%K%P
 0xB4C
 オレ達は、昼食としていづみさんから渡されたらしいサンドウィッチを頬張る。%K%P
-We stuff ourselves with the sandwiches that it seems%NIzumi-san made for us.%K%P
+We stuff ourselves with the sandwiches that it seems Izumi-san made for us.%K%P
 0xB58
 誠「……いづみさんとくるみには、%N本当に感謝してるよ」%K%P
 Makoto「... I'm really grateful to you and Izumi-san.」%K%P
 0xB64
 紅茶を一飲みして落ち着いたオレは、そんなことを言ってみる。%K%P
-Having calmed down after having a sip of black tea, I%Nsay this.%K%P
+Having calmed down after having a sip of black tea, I say this.%K%P
 0xB78
 くるみ「ふえ？」%K%P
 Kurumi「Huh?」%K%P
 0xB84
 口一杯にサンドウィッチをつめこんだくるみが怪訝な顔をする。%K%P
-With a sandwich crammed in her mouth, Kurumi gives me a%Npuzzled expression.%K%P
+With a sandwich crammed in her mouth, Kurumi gives me a puzzled expression.%K%P
 0xB90
 誠「だって、無関係のオレ達に、こんなによくしてもらって……」%K%P
-Makoto「Even though we're unrelated to you, you've done so%Nmuch for us...」%K%P
+Makoto「Even though we're unrelated to you, you've done so much for us...」%K%P
 0xB9C
 誠「特にいづみさんがいなかったら、オレ達は今ごろ餓死してたかも……」%K%P
-Makoto「Especially Izumi-san; if she weren't here, then we'd%Nprobably be starving to death right about now...」%K%P
+Makoto「Especially Izumi-san; if she weren't here, then we'd probably be starving to death right about now...」%K%P
 0xBA8
 くるみ「……んぐっ……。いいっていいって〜♪　そんなの気にしちゃダメだよぉ」%K%P
 Kurumi「... Mmm... It's fine, it's fine〜♪ Don't worry about it so much.」%K%P
@@ -486,19 +486,19 @@ Kurumi「Because at Onii-chan's college, Onee-chan...」%K%P
 Kurumi「... Oh.」%K%P
 0xC14
 そこまで言いかけたくるみは、%N『いっけな〜い』といった感じで口に手を当てて、%N決まりの悪そうな顔をする。%K%P
-Kurumi stops talking and places a hand over her mouth%Nas if to say 「oh, crap.」 She's wearing the guilty face of a%Nchild who's been caught with their hand in a cookie jar.%K%P
+Kurumi stops talking and places a hand over her mouth as if to say 「oh, crap.」 She's wearing the guilty face of a child who's been caught with their hand in a cookie jar.%K%P
 0xC20
 誠「オレ達の大学……って？　……それ、どういう意味だ？」%K%P
 Makoto「My college...? ... What do you mean by that?」%K%P
 0xC34
 くるみ「さ、さあ〜……？　よく考えてみたら、ぜ〜んぜん無関係だね」%K%P
-Kurumi「W-Who knows...? Now that Kurumi really thinks about it,%Nthey're completely unrelated.」%K%P
+Kurumi「W-Who knows...? Now that Kurumi really thinks about it, they're completely unrelated.」%K%P
 0xC40
 誠「お、おい！　とぼけるなよ……」%K%P
 Makoto「H-Hey! Don't play dumb...」%K%P
 0xC54
 くるみ「あ！　くるみ、大事な用事を思い出しちゃった！%N……じゃあねぇ〜、お兄ちゃん♪」%K%P
-Kurumi「Ah! Kurumi just remembered she has an important errand%Nto take care of! ... See you, Onii-chan♪」%K%P
+Kurumi「Ah! Kurumi just remembered she has an important errand to take care of! ... See you, Onii-chan♪」%K%P
 0xC60
 誠「あ！　くるみっ！？　ちょっと待てぇっ！！」%K%P
 Makoto「Ah! Kurumi!? Hold on!!」%K%P

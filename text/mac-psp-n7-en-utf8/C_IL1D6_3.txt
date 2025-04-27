@@ -24,10 +24,10 @@ I see Izumi-san's small, retreating figure.%K%N
 She's running to the west.%K%P
 0x148
 濡れたアスファルトを蹴飛ばして、オレは全力でその後を追った……。%K%P
-I run after her with all my strength, kicking off the wet%Nasphalt...%K%P
+I run after her with all my strength, kicking off the wet asphalt...%K%P
 0x19C
 林道に入っても、なおいづみさんのスピードは衰えない。%K%P
-Even when I enter the forest path, Izumi-san's speed still%Nhasn't dropped a bit.%K%P
+Even when I enter the forest path, Izumi-san's speed still hasn't dropped a bit.%K%P
 0x1A8
 懸命に足を振り上げ、坂道を駆け登るオレ。%K%P
 I run up the hill road as fast as I can.%K%P
@@ -36,13 +36,13 @@ I run up the hill road as fast as I can.%K%P
 Izumi-san hasn't looked back once.%K%P
 0x1C0
 にもかかわらず、オレが追い駆けているのを知っているかのように、必死で走っている。%K%P
-Despite that, she desperately runs, as if she knows I'm%Nchasing her.%K%P
+Despite that, she desperately runs, as if she knows I'm chasing her.%K%P
 0x1CC
 ２人の距離は、一向に縮まらなかった。%K%P
 I'm unable to close the distance between us.%K%P
 0x210
 ようやくいづみさんが立ち止まったのは、ロッジの付近に辿り着いた頃だった。%K%P
-Izumi-san finally stops just as she arrives in the vicinity%Nof the lodge.%K%P
+Izumi-san finally stops just as she arrives in the vicinity of the lodge.%K%P
 0x224
 いづみ「来ないでっ！」%K%P
 Izumi「Stay away!」%K%P
@@ -57,13 +57,13 @@ And once again, she goes running off...%K%P
 Makoto「Izumi-san!」%K%P
 0x298
 深い茂みをかき分けながら、いづみさんは森の奥へと入って行く。%K%P
-Izumi-san pushes through the deep thicket while%Nretreating deep into the forest.%K%P
+Izumi-san pushes through the deep thicket while retreating deep into the forest.%K%P
 0x2A4
 必然的に、その速度はゆるまった。%K%P
 But as a natural result, her speed drops.%K%P
 0x2B0
 すぐ後ろまで追いついたオレは、思い切り手を伸ばしていづみさんの腕をつかんだ！%K%P
-I use this opportunity to quickly catch up to her and%Ngrab her arm.%K%P
+I use this opportunity to quickly catch up to her and grab her arm.%K%P
 0x2BC
 誠「いづみさんっ！」%K%P
 Makoto「Izumi-san!」%K%P
@@ -114,7 +114,7 @@ Makoto「...」%K%P
 Izumi「The one thing I couldn't lie about... were my feelings...」%K%P
 0x39C
 いづみ「誠くんのことを好きだっていう私の気持ちだけは、信じてほしかったの！」%K%P
-Izumi「I love you, Makoto-kun, so if nothing else, I want you%Nbelieve my feelings!」%K%P
+Izumi「I love you, Makoto-kun, so if nothing else, I want you believe my feelings!」%K%P
 0x3C4
 オレは、いづみさんの瞳を見つめた。%K%P
 I stare into Izumi-san's eyes.%K%P
@@ -123,7 +123,7 @@ I stare into Izumi-san's eyes.%K%P
 Izumi-san is also looking straight into my eyes.%K%P
 0x3DC
 その真剣な眼差しに、嘘は感じられなかった。%K%P
-I can't feel anything that makes it seem like she's lying in%Nthat serious gaze of hers.%K%P
+I can't feel anything that makes it seem like she's lying in that serious gaze of hers.%K%P
 0x3F4
 誠「……じゃあ、何で……」%K%P
 Makoto「... Then why...?」%K%P
@@ -156,7 +156,7 @@ Yuka「Izumi-san!」%K%P
 I turn around.%K%P
 0x4A4
 一瞬、注意がそれた。%K%P
-In that instant, my attention slips from Izumi-san to the%Nothers.%K%P
+In that instant, my attention slips from Izumi-san to the others.%K%P
 0x4B0
 と同時に、いづみさんは強引にオレの腕を振り払った。%K%P
 At that time, Izumi-san shakes off my grip.%K%P
@@ -177,7 +177,7 @@ I pursue her.%K%P
 Izumi-san steadily advances through the forest.%K%P
 0x508
 草木をかき分け、張り出したこずえをくぐり抜けながら……。%K%P
-She pushes her way through the plants while heading%Ntowards a treetop that's sticking out...%K%P
+She pushes her way through the plants while heading towards a treetop that's sticking out...%K%P
 0x514
 ──しかし、次の瞬間！%K%P
 ―But in the blink of an eye!%K%P
@@ -210,16 +210,16 @@ I see...%K%P
 I instantly stretch out my hand.%K%P
 0x5F4
 森の最果てに面した断崖絶壁……。%K%P
-Izumi-san has fallen off a steep cliff at the farthest end%Nof the forest...%K%P
+Izumi-san has fallen off a steep cliff at the farthest end of the forest...%K%P
 0x600
 飛び出した木の根をかろうじて、いづみさんは左手でつかんでいた。%K%P
-She barely managed to grab a protruding tree root with%Nher left hand.%K%P
+She barely managed to grab a protruding tree root with her left hand.%K%P
 0x60C
 オレは思い切り、腕を伸ばしてその手に触れた。%K%P
-With all my strength, I reach my arm out, and touch her%Nhand.%K%P
+With all my strength, I reach my arm out, and touch her hand.%K%P
 0x620
 限界まで、身を乗り出すようにして手首をつかんだ。%K%P
-I bend myself forward far as I can in order to grab her%Nwrist.%K%P
+I bend myself forward far as I can in order to grab her wrist.%K%P
 0x62C
 眼下には、黒々とぬれた大地……。%K%P
 I look down, and see the black, wet ground...%K%P
@@ -243,10 +243,10 @@ I don't answer.%K%P
 I have no time to answer.%K%P
 0x680
 腹ばいになった体がズルズルと滑っていく。%K%P
-I'm lying on my stomach so I can reach her, but all of the%Nsudden, my body begins to slip forward.%K%P
+I'm lying on my stomach so I can reach her, but all of the sudden, my body begins to slip forward.%K%P
 0x68C
 力を入れて引き上げようにも、支えとなるものが何もない。%K%P
-I've nothing supporting me, since I've put all my strength%Ninto pulling her up.%K%P
+I've nothing supporting me, since I've put all my strength into pulling her up.%K%P
 0x698
 いづみ「誠くん……」%K%P
 Izumi「Makoto-kun...」%K%P
@@ -273,7 +273,7 @@ Izumi「Even you will...」%K%P
 I'm gripping her thin wrist as tightly as possible.%K%P
 0x6F8
 ギリギリと砕けるぐらいに奥歯をかんだ。%K%P
-I grind my molars so hard that it feels like they could%Nbreak.%K%P
+I grind my molars so hard that it feels like they could break.%K%P
 0x704
 限界が、近づいている。%K%P
 I'm reaching my limit.%K%P
@@ -285,7 +285,7 @@ I feel Izumi-san's arm begin to rapidly lose strength.%K%P
 ―And, right after that!%K%P
 0x740
 グンッ！と凶暴なまでの力が、オレの腕を引いた。%K%P
-Whoosh! She pulls my arm with ferocious strength,%Npropelling me forward.%K%P
+Whoosh! She pulls my arm with ferocious strength, propelling me forward.%K%P
 0x74C
 ふわりと浮かぶような感覚……。%K%P
 I feel like I'm gently floating...%K%P
@@ -309,7 +309,7 @@ I don't know what just happened...%K%N
 Slam!%K%P
 0x820
 雨に濡れた地面に、冷たく横たわるいづみさんの肢体……。%K%P
-Izumi-san's cold body is stretched out in the soaking%Nwet mud...%K%P
+Izumi-san's cold body is stretched out in the soaking wet mud...%K%P
 0x82C
 （……あ……%T015ああ……）%K%P
 (... Ah... Aah...)%K%P
@@ -321,7 +321,7 @@ Izumi-san's cold body is stretched out in the soaking%Nwet mud...%K%P
 (... and save Izumi-san...)%K%P
 0x850
 立ち上がろうとしたのだが、なぜか体が動かない。%K%P
-I try to stand up, but for some reason, my body can't%Nmove.%K%P
+I try to stand up, but for some reason, my body can't move.%K%P
 0x85C
 力が入らない。%K%P
 I can't put any strength into it.%K%P
@@ -348,10 +348,10 @@ My bright red blood begins to dissolve into the water...%K%P
 (... What... should I do...?)%K%P
 0x8BC
 粉々に砕けた体に、無理矢理力を入れた。%K%P
-Even though my body feels like it's been smashed into%Npieces, I force power into it.%K%P
+Even though my body feels like it's been smashed into pieces, I force power into it.%K%P
 0x8C8
 泥の上を這うようにして、いづみさんのかたわらにすり寄った。%K%P
-I do my best to painfully crawl across the mud until I'm%Nbeside Izumi-san.%K%P
+I do my best to painfully crawl across the mud until I'm beside Izumi-san.%K%P
 0x8D4
 いづみ「……まこと……くん……」%K%P
 Izumi「... Makoto... kun...」%K%P
@@ -381,10 +381,10 @@ Izumi-san slowly begins to close her eyes...%K%P
 I try to scream this out...%K%N
 0x950
 ……けれど、言葉の代わりに口からあふれたのは大量の……赤い血だった。%K%P
-... But instead of words coming out of my mouth...%Noverflowing blood comes out instead.%K%P
+... But instead of words coming out of my mouth... overflowing blood comes out instead.%K%P
 0x95C
 雨にまみれ、泥にまみれ、鮮血にまみれながら、オレはいづみさんの体を抱きしめた。%K%P
-I embrace Izumi-san's body while covered in rain, mud,%Nand blood.%K%P
+I embrace Izumi-san's body while covered in rain, mud, and blood.%K%P
 0x984
 （ねえ……）%K%P
 (Hey...)%K%P
@@ -405,7 +405,7 @@ I embrace Izumi-san's body while covered in rain, mud,%Nand blood.%K%P
 (The stars with you, Izumi-san!!)%K%P
 0x9CC
 強く……抱きしめれば抱きしめるほど、張り裂けるような激痛に襲われた。%K%P
-I embrace her tighter than I've ever held anything ever%Nbefore, as I am assaulted with intense pain that feels%Nlike it's splitting me apart.%K%P
+I embrace her tighter than I've ever held anything ever before, as I am assaulted with intense pain that feels like it's splitting me apart.%K%P
 0x9E4
 しかし……%K%P
 However...%K%P
@@ -414,7 +414,7 @@ However...%K%P
 ... Izumi-san has already stopped moving.%K%P
 0xA04
 重く垂れ下がった右の手の平には、小さな光の欠片（かけら）が握りしめられていた。%K%P
-Her heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
+Her heavily dangling palm is clutching onto a small fragment of light.%K%P
 0xA10
 ──鈴。%K%N
 ―The bell.%K%N
@@ -423,7 +423,7 @@ Her heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
 It's that 「bell」...%K%P
 0xA28
 やがて手の平から、そうっとすり抜けるようにして……%K%P
-Before long, the bell begins to quietly slip out of her%Npalm...%K%P
+Before long, the bell begins to quietly slip out of her palm...%K%P
 0xA34
 ……鈴は……%K%P
 ... It then...%K%P
@@ -432,13 +432,13 @@ Before long, the bell begins to quietly slip out of her%Npalm...%K%P
 ... slips out and falls.%K%P
 0xA8C
 徐々に薄れていく意識の中、オレはいづみさんの背中に泣きすがりながら、小刻みに体を震わせていた。%K%P
-I tearfully cling to Izumi-san's back as the trembling of my%Nbody gradually intensifies.%K%P
+I tearfully cling to Izumi-san's back as the trembling of my body gradually intensifies.%K%P
 0xA98
 腕の中に、冷たく濡れた肌の感触……。%K%P
 In my arms, I can feel her cold, wet skin...%K%P
 0xAA4
 透き通るようないづみさんのほほは、触れたら壊れてしまいそうなほどに、はかなく見えた。%K%P
-Looking at her ghastly pale, almost transparent cheeks,%NI feel like she might shatter into a thousand pieces if I%Ntouched her cheek.%K%P
+Looking at her ghastly pale, almost transparent cheeks, I feel like she might shatter into a thousand pieces if I touched her cheek.%K%P
 0xAB0
 それはあたかも、ガラス細工の人形のようで……。%K%P
 As if she were a doll made of glass...%K%P
@@ -492,10 +492,10 @@ Makoto「Why...」%K%P
 My hoarse voice alone fills this empty void.%K%P
 0xBA8
 深い悲しみと自分に対する激しい憤りが、どんどんどんどんと膨れ上がっていった。%K%P
-My sadness and self-loathing rapidly become more and%Nmore profound.%K%P
+My sadness and self-loathing rapidly become more and more profound.%K%P
 0xBB4
 張り裂けんばかりの熱い怒りは、オレの中から理性を奪った。%K%P
-This hot rage overwhelms me and brutally snatches%Naway my sense of reasoning.%K%P
+This hot rage overwhelms me and brutally snatches away my sense of reasoning.%K%P
 0xBC0
 理性を失ったオレは、すでにオレではなくなってしまっていた。%K%P
 I feel as if I've lost my sense of self.%K%P

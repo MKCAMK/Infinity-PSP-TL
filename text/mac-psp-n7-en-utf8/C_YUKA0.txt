@@ -9,7 +9,7 @@ text area offset and size:
 It should have ended peacefully without any incidents.%K%P
 0xAC
 思い出だけを、記憶のアルバムに残して……。%K%P
-Only the memories would be left behind in my album of%Nrecollections...%K%P
+Only the memories would be left behind in my album of recollections...%K%P
 0xF4
 優夏「えーっと、確か『石原……%W%W%W誠くん』だったよね？」%K%P
 Yuka「Um, you're Makoto-kun... that is, Makoto Ishihara , right?」%K%P
@@ -18,7 +18,7 @@ Yuka「Um, you're Makoto-kun... that is, Makoto Ishihara , right?」%K%P
 Yuka「It's nice to meet you♪」%K%P
 0x114
 優夏「私は『優夏』…『川島優夏』。何故だか知らない%Nけど、気がついたら『班長』とかいう厄介な役職に任命されてた」%K%P
-Yuka「I'm 'Yuka'... 'Yuka Kawashima'. I really don't know why, but%Nbefore I knew it, I became the 'leader' of this group.」%K%P
+Yuka「I'm 'Yuka'... 'Yuka Kawashima'. I really don't know why, but before I knew it, I became the 'leader' of this group.」%K%P
 0x120
 優夏「まあとにかく、よろしくね！」%K%P
 Yuka「Well, anyway, I'm pleased to meet you!」%K%P
@@ -60,19 +60,19 @@ Yuka「BLAZING SCORCHING FIRE BOMB!」%K%P
 Yuka「It'd be nice if it continued to go on like this forever...」%K%P
 0x2A0
 優夏「こんなふうに夢の中を漂うようにして、生きていけたらいいのに……」%K%P
-Yuka「It'd be nice if we could keep on living as though we were%Nwandering in a dream like this...」%K%P
+Yuka「It'd be nice if we could keep on living as though we were wandering in a dream like this...」%K%P
 0x2B4
 優夏「だってこの合宿が終わったら、すぐに学校が始まっちゃうんだよ？」%K%P
-Yuka「Once this Camp is over, school will start again right%Naway, won't it?」%K%P
+Yuka「Once this Camp is over, school will start again right away, won't it?」%K%P
 0x2C0
 優夏「退屈な授業と退屈なバイト……。叫び出したいぐらいに平凡な日常……」%K%P
-Yuka「Back to boring classes and a boring job... Those%Nordinary days that make me want to scream...」%K%P
+Yuka「Back to boring classes and a boring job... Those ordinary days that make me want to scream...」%K%P
 0x2CC
 優夏「私にとっては、あっちの世界の方が、よっぽどうんざりしちゃうよぉ」%K%P
 Yuka「To me, that world is incredibly tedious.」%K%P
 0x310
 優夏「なんで、って言われても……ただ何となく。ちょっともったいぶってみたかっただけ」%K%P
-Yuka「Well, because you're so easy to tease. I just wanted to%Ntry lording it over you for a bit.」%K%P
+Yuka「Well, because you're so easy to tease. I just wanted to try lording it over you for a bit.」%K%P
 0x324
 優夏「だって誠、可愛いんだもん♪」%K%P
 Yuka「Besides, Makoto, you were so cute♪」%K%P
@@ -114,7 +114,7 @@ Yuka「Even now, I can't forget it...」%K%P
 Yuka「I met my first love in spring, when I was in 9th grade...」%K%P
 0x430
 優夏「４月の始業式の日に……」%K%P
-Yuka「It was the day of the opening ceremony in April, when the%Nnew semester started...」%K%P
+Yuka「It was the day of the opening ceremony in April, when the new semester started...」%K%P
 0x474
 優夏「それが私の、恋の始まり……」%K%P
 Yuka「That was how I fell in love...」%K%P
@@ -153,7 +153,7 @@ Yuka「He was very similar...」%K%P
 Yuka「To you, Makoto...」%K%P
 0x560
 ──そう。あとに残るのは、普段の日常とは、ほんの少しだけ違う『思い出』だけだった……。%K%P
-―That's right. All that would be left afterwards would%Nbe normal days and just a few happy memories...%K%P
+―That's right. All that would be left afterwards would be normal days and just a few happy memories...%K%P
 0x56C
 思い出、だけ…………。%K%P
 Just memories...%K%P
@@ -177,7 +177,7 @@ Yuka「!?」%K%P
 Makoto「It was Saturday, April 6th...」%K%P
 0x698
 誠「正確な時刻や場所は覚えてない。そこにいたのが誰なのかもわからない……」%K%P
-Makoto「I don't remember the exact time and location. And I don't%Nknow who that 'someone' was either...」%K%P
+Makoto「I don't remember the exact time and location. And I don't know who that 'someone' was either...」%K%P
 0x6A4
 誠「ただ……その亡骸の、手の平に……」%K%P
 Makoto「But... in that corpse's palm...」%K%P
@@ -225,16 +225,16 @@ Yuka「All right, Makoto?」%K%P
 Yuka「Will you remain calm and listen to me?」%K%P
 0x7B0
 優夏「誠が見た夢──実は私も…同じ夢を…見たの……」%K%P
-Yuka「The dream you had―the truth is... I also... had the same%Ndream...」%K%P
+Yuka「The dream you had―the truth is... I also... had the same dream...」%K%P
 0x7BC
 誠「……！？」%K%P
 Makoto「...!?」%K%P
 0x7C8
 優夏「それも誠と同じ日……１日の朝に……」%K%P
-Yuka「It was also on the same day as you... the morning of the%N1st...」%K%P
+Yuka「It was also on the same day as you... the morning of the 1st...」%K%P
 0x808
 優夏「『はるさめや　みさきのはてに　なりひびく　すずとともにや　ときはとかれん』」%K%P
-Yuka「'The spring rain/ At the end of the cape/ Together with/%NThe echoing bell/ Will free you from time.'」%K%P
+Yuka「'The spring rain/ At the end of the cape/ Together with/ The echoing bell/ Will free you from time.'」%K%P
 0x814
 優夏「その『ときはとかれん』のところ！」%K%P
 Yuka「It's the 'Will free you from time' part!」%K%P
@@ -249,19 +249,19 @@ Yuka「You don't understand what it means?」%K%P
 Makoto「...Huh?」%K%P
 0x844
 優夏「『時』の流れから『解き』放たれて、別の時間へと飛ばされる……」%K%P
-Yuka「To be 'set free' from the flow of 'time' and to be blown%Naway to a different time...」%K%P
+Yuka「To be 'set free' from the flow of 'time' and to be blown away to a different time...」%K%P
 0x850
 優夏「つまり──タイムスリップするって意味なのよ！」%K%P
 Yuka「In other words―it means time travel!」%K%P
 0x86C
 優夏「あの日──４月６日土曜日に……私達は解き放たれた……５日前の世界へと……」%K%P
-Yuka「On that day―Saturday, April 6th... we were sent... to%Nthe world of five days ago...」%K%P
+Yuka「On that day―Saturday, April 6th... we were sent... to the world of five days ago...」%K%P
 0x878
 優夏「そして、もしもこの仮説が正しいとすれば、こう言うこともできるかもしれない」%K%P
-Yuka「And if this hypothesis is right, then what I'm about to say%Nmight also be possible.」%K%P
+Yuka「And if this hypothesis is right, then what I'm about to say might also be possible.」%K%P
 0x884
 優夏「明日──４月６日土曜日に……私達は解き放たれる……５日前の世界へと……」%K%P
-Yuka「Tomorrow―On Saturday, April 6th... we will be sent... to%Nthe world of five days ago...」%K%P
+Yuka「Tomorrow―On Saturday, April 6th... we will be sent... to the world of five days ago...」%K%P
 0x890
 誠「そんな……バカなこと……」%K%P
 Makoto「That... can't be...」%K%P
@@ -273,10 +273,10 @@ Makoto「It's impossible... it's definitely... impossible...」%K%P
 Yuka「Yeah... That's right... It's only natural to think that way...」%K%P
 0x8C4
 優夏「冷静に考えれば、こんな馬鹿馬鹿しい話、信じろって言う方がどうかしてると思う……」%K%P
-Yuka「When I think about it calmly, I realize that telling you to%Nbelieve this absurd story is just nuts...」%K%P
+Yuka「When I think about it calmly, I realize that telling you to believe this absurd story is just nuts...」%K%P
 0x8D0
 優夏「全てはただの妄想で、私の頭がおかしくなってるだけかもしれない……」%K%P
-Yuka「I might just have gone insane, and everything's a mere%Ndelusion of mine...」%K%P
+Yuka「I might just have gone insane, and everything's a mere delusion of mine...」%K%P
 0x8DC
 優夏「だけど……」%K%P
 Yuka「But...」%K%P
@@ -288,7 +288,7 @@ Yuka「But... in case this is... reality, then...」%K%P
 Yuka「So please... I want you to swear just one thing...」%K%P
 0x900
 優夏「今後一切、この神社には、近寄らないって……」%K%P
-Yuka「After this, with no exceptions, don't approach this%Nshrine...」%K%P
+Yuka「After this, with no exceptions, don't approach this shrine...」%K%P
 0x90C
 優夏「もちろん、私ももう２度と、ここには来ないから……」%K%P
 Yuka「Of course, I'll never come here again as well...」%K%P
@@ -309,10 +309,10 @@ Makoto「Why... Why, Yuka...?」%K%P
 Yuka「You broke your promise, huh?」%K%P
 0x9C8
 優夏「今後一切ここには近寄らないって……そう誓ったくせに……」%K%P
-Yuka「You swore that you wouldn't approach the shrine again,%Nno matter what...」%K%P
+Yuka「You swore that you wouldn't approach the shrine again, no matter what...」%K%P
 0x9D4
 誠「そんなこと、今はどうだっていいだろ！？%T030%Nオレが聞いてるのは、わざわざ危険を冒してまでこんなところに来た、その理由だ！」%K%P
-Makoto「You're a fine one to talk, aren't you!? What reason did%Nyou have for coming here when you knew how risky it%Nwas!?」%K%P
+Makoto「You're a fine one to talk, aren't you!? What reason did you have for coming here when you knew how risky it was!?」%K%P
 0xA0C
 守れなかった約束…………。%K%N
 A promise that couldn't be kept...%K%N
@@ -354,7 +354,7 @@ At that time, an earthquake destroyed the shrine...%K%N
 Makoto tried to protect me...%K%P
 0xC20
 誠「男は女を守るもの──昔から、そう決まってるんだよ！」%K%P
-Makoto「Men ought to try their best to protect women―that's%Nthe way it's been for ages!」%K%P
+Makoto「Men ought to try their best to protect women―that's the way it's been for ages!」%K%P
 0xC2C
 優夏「それじゃあ私のこと、守ってくれようとしたんだ？」%K%P
 Yuka「Well then, are you saying you'll try to protect me?」%K%P
@@ -375,7 +375,7 @@ Makoto「From now on, I will definitely protect you!」%K%P
 Yuka「...Are you... serious?」%K%P
 0xC74
 誠「冗談にしちゃ、出来が悪すぎるだろ？」%K%P
-Makoto「If this were a joke, it'd be a pretty crappy one, wouldn't%Nit?」%K%P
+Makoto「If this were a joke, it'd be a pretty crappy one, wouldn't it?」%K%P
 0xC80
 誠「本気だよ。この星空に誓って、本気だ！」%K%P
 Makoto「I'm serious. I swear on this starry sky that I'm serious!」%K%P
@@ -423,13 +423,13 @@ But it wasn't physical pain.%K%P
 It was my heart...%K%N
 0xD98
 心を……グサリグサリと尖った刃物でえぐられているような痛み。%K%P
-My heart... felt as if it had been gouged out by a sharp%Nknife.%K%P
+My heart... felt as if it had been gouged out by a sharp knife.%K%P
 0xDA4
 私は約束を、誓いを破ってしまった……。%K%P
 I broke my promise...%K%P
 0xDB0
 『今後一切、この神社には、近寄らない』──そう誓ったのに……。%K%P
-「After this, with no exceptions, I won't approach this%Nshrine...」 ―Even though I swore that...%K%P
+「After this, with no exceptions, I won't approach this shrine...」 ―Even though I swore that...%K%P
 0xDBC
 あまりにも大きな…………裏切りの、代償。%K%P
 This is the reparation... for my extremely great betrayal.%K%P

@@ -3,7 +3,7 @@ text area offset and size:
 0x4D4
 0x40
 億彦がロッジへ帰ってきたのは、オレ達がだいぶ出来あがってからのことだった。%K%P
-By the time Okuhiko returns to the lodge, we've already%Nhad quite a bit of fun.%K%P
+By the time Okuhiko returns to the lodge, we've already had quite a bit of fun.%K%P
 0x54
 億彦「お、おい……。%W%W%Wみんな、何やってるんだよ、%Nこんなとこで！？」%K%P
 Okuhiko「H-Hey... what are you doing here, guys!?」%K%P
@@ -21,22 +21,22 @@ Saki「Don't just stand there. Haul your ass inside!」%K%P
 Okuhiko「????」%K%P
 0xB8
 いづみ「疲れたでしょ？　さ、どうぞ。%N億彦くんの分も準備してあるから……」%K%P
-Izumi「Aren't you tired? Come on in. We have everything ready%Nfor you...」%K%P
+Izumi「Aren't you tired? Come on in. We have everything ready for you...」%K%P
 0xC4
 億彦「？？？？？？」%K%P
 Okuhiko「??????」%K%P
 0xE0
 優夏「こら〜っ、おくひこぉ〜！　こっちきて、おしゃくをせんかぁ〜！」%K%P
-Yuka「Hey, Okuhiko! Come here and shee whaa we've got in%Nshtore!」%K%P
+Yuka「Hey, Okuhiko! Come here and shee whaa we've got in shtore!」%K%P
 0xFC
 億彦「き、%W%Wき、%W%Wき、君達は%N本気で心配しているのか！？%W%W%N遙ちゃんのこと！？」%K%P
-Okuhiko「A-A-Are you guys seriously worried or not!? What about%NHaruka-chan!?」%K%P
+Okuhiko「A-A-Are you guys seriously worried or not!? What about Haruka-chan!?」%K%P
 0x110
 遙「おかえり……%W%W億彦」%K%P
 Haruka「Welcome back... Okuhiko.」%K%P
 0x124
 億彦「だから『おかえり』とか言ってる場合じゃ………………………………」%K%P
-Okuhiko「Like I was saying, this isn't the time to say 'welcome%Nback', you...」%K%P
+Okuhiko「Like I was saying, this isn't the time to say 'welcome back', you...」%K%P
 0x130
 ……………………………………。%N……………………………………。%N……………………………………。%N……………………………………。%K%P
 ... ... ... ...%K%P

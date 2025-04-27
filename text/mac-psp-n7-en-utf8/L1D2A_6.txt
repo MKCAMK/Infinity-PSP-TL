@@ -3,16 +3,16 @@ text area offset and size:
 0x2B12
 0x78
 特にこれといってやるべきこともなかったオレ達は、くるみと優夏の提案に乗ってみることにした。%K%P
-None of us have anything we need to do in particular, so%Nwe all agree with Kurumi and Yuka's proposal.%K%P
+None of us have anything we need to do in particular, so we all agree with Kurumi and Yuka's proposal.%K%P
 0x84
 もちろん、狙いはマグロではなかったけれど……。%K%P
 Of course, we're not after tuna, but...%K%P
 0x90
 今、あのやかましい２人は、手をつないで月浜を%Nスキップしている。%K%P
-Right now, those two noisy girls are holding hands and%Nskipping down Moon Beach.%K%P
+Right now, those two noisy girls are holding hands and skipping down Moon Beach.%K%P
 0x9C
 そしてそこには、何故か遙の姿もあった。くるみに手を引かれ、たどたどしい足取りで砂浜を駆ける遙は、途惑いの表情を浮かべていた。%K%P
-And for some reason, Haruka is with them. Kurumi is%Nholding her hand, while Haruka is awkwardly being forced%Nto walk down the beach with a bewildered expression.%K%P
+And for some reason, Haruka is with them. Kurumi is holding her hand, while Haruka is awkwardly being forced to walk down the beach with a bewildered expression.%K%P
 0xA8
 恐らく、あの２人の巻き添えになったのだろう。%K%N
 Those two probably dragged her along.%K%N
@@ -30,25 +30,25 @@ Okuhiko cocks his head to the side as he asks Izumi-san.%K%P
 Izumi「Let's see... well, there's various types of fish to catch...」%K%P
 0xF4
 いづみ「でもみんな初心者だからね。アジとかサバとかイワシとか、その辺を狙うのがいいんじゃないのかな？」%K%P
-Izumi「But everyone here is a beginner. So why don't we go to%Na place where we can catch some horse mackerels,%Nordinary mackerels, or sardines?」%K%P
+Izumi「But everyone here is a beginner. So why don't we go to a place where we can catch some horse mackerels, ordinary mackerels, or sardines?」%K%P
 0x100
 誠「あっ、だけど、道具は？」%K%P
 Makoto「Oh, but what about the gear?」%K%P
 0x114
 いづみ「港の近くの釣り具屋で調達しましょう。……もっとも、釣竿とリールは高いからレンタルだけど」%K%P
-Izumi「There's a fishing gear shop near the harbor that%Nprovides them... We'll just rent a few, since buying fishing%Nrods and reels there is expensive.」%K%P
+Izumi「There's a fishing gear shop near the harbor that provides them... We'll just rent a few, since buying fishing rods and reels there is expensive.」%K%P
 0x128
 億彦「港の近く？　ってことは、月浜でやる訳じゃないんだね？」%K%P
-Okuhiko「Near the harbor? Then does that mean we're not fishing%Nat Moon Beach?」%K%P
+Okuhiko「Near the harbor? Then does that mean we're not fishing at Moon Beach?」%K%P
 0x13C
 いづみ「うん。この辺の岩場でも釣れないことはないんだけど、港の方が安全だからね」%K%P
-Izumi「Right. It's not that it's so rocky around here that you%Ncan't catch anything, it's just that the harbor is safer.」%K%P
+Izumi「Right. It's not that it's so rocky around here that you can't catch anything, it's just that the harbor is safer.」%K%P
 0x148
 いづみ「それにあっちの方が、いやっていうほどよく釣れるし」%K%P
-Izumi「Moreover, it's much easier to fish over there and it's%Nmore bountiful.」%K%P
+Izumi「Moreover, it's much easier to fish over there and it's more bountiful.」%K%P
 0x154
 誠「ふーん……やっぱり地元が長いだけあって、詳しいよな」%K%P
-Makoto「Huh... You must have been here for a long time to know%Nthis much.」%K%P
+Makoto「Huh... You must have been here for a long time to know this much.」%K%P
 0x160
 いづみ「まっ、情報も商売道具のひとつだからね」%K%P
 Izumi「Well, gossip is one of the tools of my trade.」%K%P
@@ -57,16 +57,16 @@ Izumi「Well, gossip is one of the tools of my trade.」%K%P
 Makoto「I see...」%K%P
 0x180
 いづみさんは話し終えると、ルナビーチから少し離れた駐車場へと歩いて行った。%K%P
-When Izumi-san finishes talking, she walks over to a%Nparking lot a bit away from Lunabeach.%K%P
+When Izumi-san finishes talking, she walks over to a parking lot a bit away from Lunabeach.%K%P
 0x1E4
 後について行くと、そこには業務用の白い軽トラックが停めてあった。%K%P
-We follow her to find a white lightweight truck used for%Nbusiness parked over there.%K%P
+We follow her to find a white lightweight truck used for business parked over there.%K%P
 0x1F0
 今では全く見かけなくなった旧式のボディ……。%K%P
-It's an old car model that you never see at all these%Ndays...%K%P
+It's an old car model that you never see at all these days...%K%P
 0x1FC
 ところどころ塗装の剥げた部分があり、むき出しになったフレームには、赤茶けた錆が浮いている。%K%P
-There are some sections of chipped paint here and%Nthere, and the frame is covered in reddish-brown rust.%K%P
+There are some sections of chipped paint here and there, and the frame is covered in reddish-brown rust.%K%P
 0x210
 沙紀「ひょっとして、それに乗って行くつもり……？」%K%P
 Saki「Don't tell me you're going to drive this thing...?」%K%P
@@ -78,10 +78,10 @@ Saki gives a mildly nervous expression full of shock.%K%P
 Izumi「Right. It's a little far for walking.」%K%P
 0x244
 沙紀「ってことは、私達はその荷台に乗ることになるのかしら？」%K%P
-Saki「So are you saying that we'll be riding in the cargo bay in%Nthe back?」%K%P
+Saki「So are you saying that we'll be riding in the cargo bay in the back?」%K%P
 0x258
 いづみ「たまには、めいいっぱい春風を浴びてみるのも、いいものよ？」%K%P
-Izumi「Well, it might be nice to occasionally let loose and live a%Nlittle.」%K%P
+Izumi「Well, it might be nice to occasionally let loose and live a little.」%K%P
 0x264
 いづみさんはあっさりと答えた。%K%P
 Izumi-san quickly retorts with this.%K%P
@@ -111,10 +111,10 @@ Izumi-san's expression seems to momentarily tense up.%K%P
 Saki and Okuhiko exchange glances.%K%P
 0x330
 砂浜を打つ波の音が、体の芯を震わせるように重く響いていた。%K%P
-The roar of the waves breaking against the shore is as%Nloud as the heavy echo of my body's core shaking.%K%P
+The roar of the waves breaking against the shore is as loud as the heavy echo of my body's core shaking.%K%P
 0x33C
 いづみ「そんなことないよぉ。だって昨日の%N仕入れの時には、ちゃんと動いたんだから……」%K%P
-Izumi「That can't be right. I drove this the other day to stock%Nup, and it was working perfectly then...」%K%P
+Izumi「That can't be right. I drove this the other day to stock up, and it was working perfectly then...」%K%P
 0x350
 いづみさんはそう言いながら……%K%P
 While Izumi-san says this...%K%P
@@ -132,7 +132,7 @@ Izumi「No way...」%K%P
 Izumi「How... How did you know, Makoto-kun?」%K%P
 0x4D0
 いづみ「昨日のお米のこと、地震のこと……%Nそれから今日の…これ……」%K%P
-Izumi「First the rice yesterday, then the earthquake... and then%Ntoday... this...」%K%P
+Izumi「First the rice yesterday, then the earthquake... and then today... this...」%K%P
 0x4DC
 いづみ「まさか、昨日誠くんが言ってたことって……？」%K
 Izumi「Could it be related to what you said yesterday...?」%K
@@ -150,16 +150,16 @@ Makoto「No, I don't think it's like that at all.」%K%P
 I'm dodging the question.%K%P
 0x544
 昨日のこともあるし……予知のことを言ったって、どうせ誰も信じてくれやしないだろう。%K%P
-Otherwise, it'll just be like yesterday... no one will believe%Nme if I say I had a premonition.%K%P
+Otherwise, it'll just be like yesterday... no one will believe me if I say I had a premonition.%K%P
 0x550
 無実を訴える容疑者のような、あんな不愉快な思いは、もう経験したくはなかった。%K%P
-I don't want to experience the unpleasant feeling of%Nbeing like a falsely accused suspect ever again.%K%P
+I don't want to experience the unpleasant feeling of being like a falsely accused suspect ever again.%K%P
 0x55C
 誠「だって、あんまりよく手入れされてないみたいだったから……」%K%P
-Makoto「After all, this thing doesn't look like it's been very well%Nmaintained...」%K%P
+Makoto「After all, this thing doesn't look like it's been very well maintained...」%K%P
 0x568
 誠「ひと目見ただけで『これじゃ絶対動きっこない』%Nって、そう思ったんだよね」%K%P
-Makoto「Just by taking one look at it, I figured 'there's no way%Nthis thing will move'.」%K%P
+Makoto「Just by taking one look at it, I figured 'there's no way this thing will move'.」%K%P
 0x57C
 いづみ「…………」%K%P
 Izumi「...」%K%P
@@ -183,64 +183,64 @@ Izumi「But...」%K%P
 Okuhiko「Anyway, looks like we're walking.」%K%P
 0x5E8
 億彦「早く行かないと、釣りする時間がなくなってしまうかもしれないよ？」%K%P
-Okuhiko「If we don't hurry up, we might not have any time to go%Nfishing, right?」%K%P
+Okuhiko「If we don't hurry up, we might not have any time to go fishing, right?」%K%P
 0x5F4
 幸いなことに、億彦は、この件に関しては全く気にしていないようだ。%K%P
 Thankfully, Okuhiko smoothly changes the conversation.%K%P
 0x608
 言うだけ言って、さっさとひとり、港の方へ向かって歩き出して行ってしまった。%K%P
-Though now that he mentions it, the only way to the%Nharbor is by walking.%K%P
+Though now that he mentions it, the only way to the harbor is by walking.%K%P
 0x614
 誠「そうそう。ぐずぐずしてたら、ほんとに日が暮れちゃうからな」%K%P
-Makoto「Right, right. If we keep slouching around, the sun will go%Ndown.」%K%P
+Makoto「Right, right. If we keep slouching around, the sun will go down.」%K%P
 0x620
 オレはなるべくいづみさんの目を見ないようにしてそう呟き、億彦の後に続く。%K%P
-Trying to avoid Izumi-san's gaze as much as possible, I%Nback up Okuhiko.%K%P
+Trying to avoid Izumi-san's gaze as much as possible, I back up Okuhiko.%K%P
 0x684
 いづみ「でも誠くん……」%K%P
 Izumi「But Makoto-kun...」%K%P
 0x690
 『何か納得いかない』といった感じのいづみさんの声を、背中に聞いた。%K%P
-As I turn my back, Izumi-san says this in a way that says%N「I don't understand this at all.」%K%P
+As I turn my back, Izumi-san says this in a way that says 「I don't understand this at all.」%K%P
 0x69C
 けれどオレは、敢えて聞こえないフリをして足早に先を急ぐ。%K%N
 But I pretend not to hear her and quicken my pace.%K%N
 0x6A8
 何しろ、一番納得いかないのはオレ自身なのだ。%K%P
-Besides, the one who doesn't understand the most is%Nmyself.%K%P
+Besides, the one who doesn't understand the most is myself.%K%P
 0x6B4
 どうして『バッテリーが上がっちゃってるんじゃ？』なんて言葉が、口をついて出たのだろう？%K%P
-Why did the words 「The battery's dead, isn't it?」 come%Nout of my mouth?%K%P
+Why did the words 「The battery's dead, isn't it?」 come out of my mouth?%K%P
 0x6C0
 何だか自分が自分でないような、そんな苛立たしい違和感を、オレは覚えずにはいられなかった……。%K%P
-Somehow, it felt like it wasn't me who said it. I'm shrouded%Nby this irritating, uncomfortable sensation...%K%P
+Somehow, it felt like it wasn't me who said it. I'm shrouded by this irritating, uncomfortable sensation...%K%P
 0x6D4
 誠「うん。自分でもよく分からないけど、たぶんそういうことだと思う」%K%P
-Makoto「Yes. I don't really understand it myself, but it's probably%Nwhat you're thinking.」%K%P
+Makoto「Yes. I don't really understand it myself, but it's probably what you're thinking.」%K%P
 0x6E0
 誠「つまり……」%K%P
 Makoto「In other words...」%K%P
 0x704
 億彦「おい、石原ぁ〜。まさか、また『予知』なんてバカなことを言い出すんじゃないだろうねぇ」%K%P
-Okuhiko「Hey, Ishihara. Don't tell me you're going to start spewing%Nbullshit about how it was a 'premonition' again.」%K%P
+Okuhiko「Hey, Ishihara. Don't tell me you're going to start spewing bullshit about how it was a 'premonition' again.」%K%P
 0x710
 誠「…………」%K%P
 Makoto「...」%K%P
 0x71C
 億彦に先を越され、オレは思わず言葉に窮した。%K%P
-Okuhiko beats me to the punch, instinctively leaving me%Nat a loss for words.%K%P
+Okuhiko beats me to the punch, instinctively leaving me at a loss for words.%K%P
 0x730
 億彦「この車の状態を見れば、『動きっこない』って思うのは当然のことだよ」%K%P
-Okuhiko「Just by looking at this car's state, it's natural to think%Nthat 'there's no way this thing will move'.」%K%P
+Okuhiko「Just by looking at this car's state, it's natural to think that 'there's no way this thing will move'.」%K%P
 0x73C
 億彦「実際、僕も石原と同じことを考えていたし……」%K%P
 Okuhiko「In fact, Ishihara and I were thinking the same thing...」%K%P
 0x750
 億彦「いづみさんにはちょっと失礼かもしれないけれど、この車、あんまりよく手入れされてないみたいだからね」%K%P
-Okuhiko「No offense, Izumi-san, but this car doesn't look like it's%Nhad maintenance in a long time.」%K%P
+Okuhiko「No offense, Izumi-san, but this car doesn't look like it's had maintenance in a long time.」%K%P
 0x75C
 億彦の言葉には、反論の余地を与えぬ威圧感のようなものがあった。%K%P
-Okuhiko's words are like an intimidating air that leaves me%Nwith no room to object.%K%P
+Okuhiko's words are like an intimidating air that leaves me with no room to object.%K%P
 0x768
 （昨日のこともあるし……ここは黙っていた方が無難だろう）%K%P
 (It's just like yesterday... I think it's safer if I stay silent.)%K%P
@@ -261,13 +261,13 @@ Izumi「But...」%K%P
 Okuhiko「Anyway, looks like we're walking.」%K%P
 0x7D0
 億彦「早く行かないと、釣りする時間がなくなってしまうかもしれないよ？」%K%P
-Okuhiko「If we don't hurry up, we might not have any time to go%Nfishing, right?」%K%P
+Okuhiko「If we don't hurry up, we might not have any time to go fishing, right?」%K%P
 0x7DC
 幸か不幸か、億彦は、予知うんぬんに関しては、はなから信じていないようだ。%K%P
-For better or worse, Okuhiko manages to brush the topic%Nof my premonitions aside, not believing in them.%K%P
+For better or worse, Okuhiko manages to brush the topic of my premonitions aside, not believing in them.%K%P
 0x7F0
 言うだけ言って、さっさとひとり、港の方へ向かって歩き出して行ってしまった。%K%P
-Now that he mentions it, though, the only way to get to%Nthe harbor now is by walking.%K%P
+Now that he mentions it, though, the only way to get to the harbor now is by walking.%K%P
 0x7FC
 誠「ねえ、いづみさん……」%K%P
 Makoto「Hey, Izumi-san...」%K%P
@@ -279,40 +279,40 @@ When Okuhiko isn't listening, I whisper to Izumi-san.%K%P
 Makoto「I'll talk to you about it next time...」%K%P
 0x820
 いづみさんは視線をさまよわせ、何か言葉を探しているようだったが、オレはその返答も待たず、すぐにその場を離れた。%K%P
-I take my chance to leave her as she tries to search for%Na reply.%K%P
+I take my chance to leave her as she tries to search for a reply.%K%P
 0x874
 いづみ「今度、って……」%K%P
 Izumi「'Next time'...」%K%P
 0x880
 『まるで納得いかない』といった感じのいづみさんの声を、背中に聞く。%K%P
-Izumi-san says this in a way that makes it clear that she%Ndoesn't comprehend what's going on.%K%P
+Izumi-san says this in a way that makes it clear that she doesn't comprehend what's going on.%K%P
 0x88C
 けれどオレは、敢えて聞こえないフリをして足早に先を急いだ。%K%N
 I pretend not to hear her and quicken my pace.%K%N
 0x898
 何しろ、一番納得いかないのはオレ自身なのだ。%K%P
-Besides, the one who doesn't understand the most is%Nmyself.%K%P
+Besides, the one who doesn't understand the most is myself.%K%P
 0x8A4
 どうして『バッテリーが上がっちゃってるんじゃ？』なんて言葉が、口をついて出たのだろう？%K%P
-Why did the words 'The battery's dead, isn't it?' come out%Nof my mouth?%K%P
+Why did the words 'The battery's dead, isn't it?' come out of my mouth?%K%P
 0x8B0
 何だか自分が自分でないような、そんな苛立たしい違和感を、オレは覚えずにはいられなかった……。%K%P
-Somehow, it felt like it wasn't me who said it. I'm shrouded%Nby an irritating and uncomfortable sensation...%K%P
+Somehow, it felt like it wasn't me who said it. I'm shrouded by an irritating and uncomfortable sensation...%K%P
 0x948
 のどかな田園風景の中を、しばし歩く。%K%N
-For a short while, I walk through the tranquil rural%Nlandscape.%K%N
+For a short while, I walk through the tranquil rural landscape.%K%N
 0x954
 小鳥のさえずりも、草木の緑も、%Nオレの心とは裏腹に、いたって穏やかだった。%K%P
-The chirping of songbirds and the sight of green plants%Nare calming, a contrast to my chaotic state of mind.%K%P
+The chirping of songbirds and the sight of green plants are calming, a contrast to my chaotic state of mind.%K%P
 0x97C
 ふと、背後から『タッタッタッタ』と、誰かが小走りに近づいてくるのが分かった。%K%P
-Suddenly, I realize that someone's trying to catch up%Nwith me.%K%P
+Suddenly, I realize that someone's trying to catch up with me.%K%P
 0x988
 振り返らずとも、それがいづみさんであることは明らかだ。%K%P
-I don't even need to look over my shoulder to tell that%Nit's Izumi-san.%K%P
+I don't even need to look over my shoulder to tell that it's Izumi-san.%K%P
 0x9A0
 他のみんなは、既にオレを追い越して、目の前を歩いていたのだから……。%K%P
-Everyone else has already passed me, and are walking%Nin front of me...%K%P
+Everyone else has already passed me, and are walking in front of me...%K%P
 0x9AC
 オレはいづみさんの攻撃を避けるべく……%K
 So to avoid Izumi-san's questioning, I should...%K
@@ -327,16 +327,16 @@ Go with Kurumi and Saki.
 Go with Haruka and Okuhiko.
 0xA0C
 先頭で、大きく手を振って歩いている優夏のもとへ行こうと思い……%K%P
-At first, I think I should try waving and walking towards%NYuka...%K%P
+At first, I think I should try waving and walking towards Yuka...%K%P
 0xA18
 ……しかしながら、かろうじて踏みとどまった。%K%P
 ... However, I give up on that.%K%P
 0xA24
 またあのテンションに付き合わなければならないのかと思うと、どうしてもためらわずにはいられない。%K%N
-I'm a little too scared to approach her after what%Nhappened earlier.%K%N
+I'm a little too scared to approach her after what happened earlier.%K%N
 0xA30
 からまれたが最後、そこから脱出するのは至難の業だろう。%K%P
-If she starts yelling at me again, it would be nigh%Nimpossible to run away from her.%K%P
+If she starts yelling at me again, it would be nigh impossible to run away from her.%K%P
 0xA3C
 考え直したオレは……%K
 I think I'll...%K
@@ -348,16 +348,16 @@ Go with Kurumi and Saki.
 Go with Haruka and Okuhiko.
 0xA8C
 楽しそうに並んで歩いている、くるみと沙紀のもとへと駆け寄った。%K%P
-I run over to Kurumi and Saki, who are walking together%Nand happily chatting.%K%P
+I run over to Kurumi and Saki, who are walking together and happily chatting.%K%P
 0xACC
 くるみ「……くるみは全然嬉しいよ？」%K%P
 Kurumi「... Kurumi's completely happy.」%K%P
 0xAD8
 無論、途中参加のオレには、くるみが何のことを言っているのかさっぱり分からなかった。%K%P
-Naturally, since I came in the middle of the conversation, I%Nhave no clue what Kurumi's talking about.%K%P
+Naturally, since I came in the middle of the conversation, I have no clue what Kurumi's talking about.%K%P
 0xAE4
 『楽しげな会話に割り込む』ということに、ちょっとした抵抗を覚えたけれど、この際四の五の言っていられない。%K%P
-I wouldn't normally butt into a conversation, or at least%Nwould be reluctant to, but I'd rather get everything else%Noff my mind right now.%K%P
+I wouldn't normally butt into a conversation, or at least would be reluctant to, but I'd rather get everything else off my mind right now.%K%P
 0xAF0
 オレは素直に『何が嬉しいんだ？』──そう聞いてみることにした。%K%P
 So I try bluntly asking Kurumi 「Happy about what?」%K%P
@@ -372,7 +372,7 @@ Saki「About us.」%K%P
 ... Saki answers.%K%P
 0xB20
 沙紀「せっかく姉妹水入らずの生活をしてたのに、私達が押しかけて来ちゃって迷惑じゃないか？って……そう聞いたの」%K%P
-Saki「I asked her 'Aren't we imposing too much on you and%Nyour sister?'」%K%P
+Saki「I asked her 'Aren't we imposing too much on you and your sister?'」%K%P
 0xB2C
 くるみ「だからくるみは『全然嬉しいよ』って……」%K%P
 Kurumi「That's why Kurumi said she was 'completely happy'...」%K%P
@@ -384,31 +384,31 @@ Makoto「Wow... You're even good with that drunkard?」%K%P
 I briefly glance at Yuka, who's walking in front of us.%K%P
 0xB58
 くるみ「うんっ！　くるみ、なんか優夏さんとは特に気が合うみたい♪」%K%P
-Kurumi「Yeah! For some reason, Kurumi gets along really well with%NYuka-san♪」%K%P
+Kurumi「Yeah! For some reason, Kurumi gets along really well with Yuka-san♪」%K%P
 0xB64
 まあ、確かにそんな感じだったもんな、さっきも……。%K%P
 Well, it certainly did look that way...%K%P
 0xB70
 くるみ「それにね？　くるみは、春休みが始まってからずっとこっちにいるから……」%K%P
-Kurumi「And you know what? Kurumi has been here the whole time%Nsince spring break began...」%K%P
+Kurumi「And you know what? Kurumi has been here the whole time since spring break began...」%K%P
 0xB7C
 くるみ「さすがにお姉ちゃんと２人っきりでいるのも、そろそろ飽きてきちゃってて……」%K%P
-Kurumi「So Kurumi was getting a little tired of just being alone%Nwith Onee-chan...」%K%P
+Kurumi「So Kurumi was getting a little tired of just being alone with Onee-chan...」%K%P
 0xB88
 誠「ふーん」%K%P
 Makoto「Hmm.」%K%P
 0xB94
 くるみ「ほんとはね？　昨日みんなが来る前まで、『もう帰ろっかなぁ？』なんて思ってたの」%K%P
-Kurumi「Can Kurumi be honest with you? Until you guys came%Nyesterday, Kurumi just wanted to go home.」%K%P
+Kurumi「Can Kurumi be honest with you? Until you guys came yesterday, Kurumi just wanted to go home.」%K%P
 0xBA8
 沙紀「なんだ〜、だったら私に声かけてくれれば良かったのに〜」%K%P
-Saki「What? If that's the case, then you should have called%Nout to me...」%K%P
+Saki「What? If that's the case, then you should have called out to me...」%K%P
 0xBB4
 そっか……。そう言えば、沙紀は２月の%N試験休みから、こっちに来てたんだったっけ……。%K%P
-I see... Now that she mentions it, Saki came here because%Nof her February exam break...%K%P
+I see... Now that she mentions it, Saki came here because of her February exam break...%K%P
 0xBC0
 沙紀「って言っても、昨日会ったばっかりなんだから、しょうがないんだけどね？」%K%P
-Saki「Then again, we only did just meet yesterday, so I%Nsuppose that couldn't be helped.」%K%P
+Saki「Then again, we only did just meet yesterday, so I suppose that couldn't be helped.」%K%P
 0xBCC
 沙紀は微笑んでいた。%K%P
 Saki smiles.%K%P
@@ -423,7 +423,7 @@ Saki smiles.%K%P
 I continue to think on the matter absentmindedly...%K%P
 0xC0C
 すぐ前を並んで歩いている、遙と億彦のもとへと駆け寄った。%K%P
-I run over to Haruka and Okuhiko, who are walking%Ntogether a bit ahead of me.%K%P
+I run over to Haruka and Okuhiko, who are walking together a bit ahead of me.%K%P
 0xC3C
 オレが彼らの横に並んだとたん……%K%P
 As soon as I catch up to them...%K%P
@@ -453,28 +453,28 @@ Haruka「Fishing... we were talking about fishing.」%K%P
 Okuhiko「Right, that's it. So it has nothing to do with you, Ishihara.」%K%P
 0xCB8
 誠「あぁん？　関係ないことないだろ？　オレだって、これから釣りに行くんだから」%K%P
-Makoto「Oh? It has nothing to do with me? If I remember correctly, I%Nbelieve that I'm going fishing as well.」%K%P
+Makoto「Oh? It has nothing to do with me? If I remember correctly, I believe that I'm going fishing as well.」%K%P
 0xCCC
 億彦「だけど石原は、嫌々ついて行くんだろ？」%K%P
 Okuhiko「But Ishihara, I thought you didn't want to go?」%K%P
 0xCD8
 誠「嫌々って言うか……まぁ優夏の勢いに負けて、仕方なく……」%K%P
-Makoto「Well... since Yuka is forcing us to go and all, I guess I am%Ncoming along unwillingly...」%K%P
+Makoto「Well... since Yuka is forcing us to go and all, I guess I am coming along unwillingly...」%K%P
 0xCE4
 億彦「だろ？　だったら石原は、あっちへ行っててくれたまえ」%K%P
 Okuhiko「Right? So just get lost, Ishihara.」%K%P
 0xCF8
 億彦「僕と遙ちゃんは、釣りに行くことには%N大賛成なんだ。ネガティヴな奴がいると、%N盛り上がる話も盛り上がらなくなる」%K%P
-Okuhiko「Haruka-chan and I, however, are in favor of going fishing.%NWe don't need a negative guy like you to kill the mood.」%K%P
+Okuhiko「Haruka-chan and I, however, are in favor of going fishing. We don't need a negative guy like you to kill the mood.」%K%P
 0xD04
 『オレがいなくったって盛り上がってなかったじゃないか！』と言おうと思ったが、まあいい……。%K%P
-(You didn't even have a 「mood」 in the first place, did%Nyou!?) I feel like saying this, but I'll let it go...%K%P
+(You didn't even have a 「mood」 in the first place, did you!?) I feel like saying this, but I'll let it go...%K%P
 0xD10
 こいつのことは、ほっとこう。%K%P
 I'm just going to ignore him.%K%P
 0xD1C
 それよりもオレは『遙が釣りに大賛成』という話の方に興味があった。%K%P
-Anyway, I'm interested in knowing why Haruka is in favor%Nof this.%K%P
+Anyway, I'm interested in knowing why Haruka is in favor of this.%K%P
 0xD28
 そこで『どうして遙は、釣りに行きたいんだ？』と、オレは遙に尋ねてみた。%K%P
 I then try asking her, 「Why did you want to go fishing?」%K%P
@@ -486,10 +486,10 @@ Okuhiko「You idiot, you don't understand that either?」%K%P
 Okuhiko looks at me with scorn.%K%P
 0xD5C
 億彦「釣りはさ、魚と人間との真剣勝負なんだよ。微妙な駆け引きを必要とする壮大なロマンさ」%K%P
-Okuhiko「Fishing is a game played in real earnest between man%Nand fish. Complicated tactics are needed for this%Nmagnificent, romantic game.」%K%P
+Okuhiko「Fishing is a game played in real earnest between man and fish. Complicated tactics are needed for this magnificent, romantic game.」%K%P
 0xD68
 億彦「あの当たりが来たときの快感と言ったら、そりゃもう言葉にできないってぐらいにっ」%K%P
-Okuhiko「If you had to talk about the pleasant feeling you get at%Nthe moment your target arrives, it is something words%Ncannot conve-」%K%P
+Okuhiko「If you had to talk about the pleasant feeling you get at the moment your target arrives, it is something words cannot conve-」%K%P
 0xDAC
 遙「触れたいから」%K%P
 Haruka「Because I want to feel one.」%K%P
@@ -501,13 +501,13 @@ Haruka suddenly mutters this.%K%P
 Haruka「Because I want... to feel a fish.」%K%P
 0xDD8
 億彦「……そう！　そういうこと！　要約すると、そういうことになるねぇ」%K%P
-Okuhiko「... Right! That's it! In short, that is exactly what we want to%Ndo.」%K%P
+Okuhiko「... Right! That's it! In short, that is exactly what we want to do.」%K%P
 0xDE4
 遙「生きた魚に、触れてみたい」%K%P
 Haruka「I want to try feeling a living fish.」%K%P
 0xDF0
 億彦「うんうん、分かる分かる。つまりその……自然とのふれあいと言うか、何と言うか……」%K%P
-Okuhiko「Yes, yes, I understand. In other words... it's that feeling%Nyou get when you come into contact with nature, er, how%Nto put it...」%K%P
+Okuhiko「Yes, yes, I understand. In other words... it's that feeling you get when you come into contact with nature, er, how to put it...」%K%P
 0xDFC
 遙「生きた魚の心臓に、私は触れてみたいの」%K%P
 Haruka「I want to try feeling a living fish's heart.」%K%P
@@ -537,19 +537,19 @@ After that, we all remain completely silent...%K%P
 Finally, we arrive at the shopping district.%K%P
 0xEE8
 目的地であるところの港は、この先の魚市場を抜けて行った所にある。%K%P
-Our destination is just past the fishing market, dead%Nahead of us.%K%P
+Our destination is just past the fishing market, dead ahead of us.%K%P
 0xEF4
 いづみさんは、近くの釣り具屋で、必要な物の一切合切を揃えてくれた。%K%P
-There, Izumi-san gathers all the necessary gear from%Nthe local fishing gear shop.%K%P
+There, Izumi-san gathers all the necessary gear from the local fishing gear shop.%K%P
 0xF08
 いづみ「さあ、行きましょうか？」%K%P
 Izumi「Well then, shall we go?」%K%P
 0xF14
 それぞれに道具を渡し終えたいづみさんが、号令をかける。%K%P
-Izumi-san begins to take charge as she distributes the%Ngear amongst us.%K%P
+Izumi-san begins to take charge as she distributes the gear amongst us.%K%P
 0xF20
 その合図に従って、みんなは物珍しそうにリールや釣り針をいじくりながら、港に向けて動き出した。%K%P
-Everyone obediently starts heading towards the harbor%Nas they curiously play with their reels and hooks.%K%P
+Everyone obediently starts heading towards the harbor as they curiously play with their reels and hooks.%K%P
 0xF2C
 当然、オレも次の１歩を踏み出したのだったが……%K%P
 As I'm about to take a step forward...%K%P
@@ -561,13 +561,13 @@ Izumi「Hold on.」%K%P
 ... Izumi-san grabs my forearm.%K%P
 0xF58
 いづみ「さっきのこと……後でゆ〜っくり話しましょうねぇ、誠くん？」%K%P
-Izumi「About what happened earlier... we're going to have a%Nlong talk about it later, okay?」%K%P
+Izumi「About what happened earlier... we're going to have a long talk about it later, okay?」%K%P
 0xF6C
 そんな言葉を残し、いづみさんは去って行った。%K%P
 Izumi-san leaves me with those words.%K%P
 0xF78
 言い方は優しかったが、瞳の奥には鋭く尖った光があった。%K%P
-Although her tone was kind, there was a piercing light in%Nher pupils.%K%P
+Although her tone was kind, there was a piercing light in her pupils.%K%P
 0xF84
 それは、思わずビクッとしてしまいそうなほどの、脅迫的な眼差しだった。%K%P
-It was a threatening gaze that instinctively leaves me%Nunnerved.%K%P
+It was a threatening gaze that instinctively leaves me unnerved.%K%P

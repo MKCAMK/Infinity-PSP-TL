@@ -1,14 +1,25 @@
+This project ports translations of the Infinity visual novel series to the PSP.
 
-This project ports various translations of the Infinity series to the PSP.
+As of now, the following games are supported:
+- Never7: English
+- Ever17: English, Russian
+- Remember11: English, Simplified Chinese
 
-As of now, the repository contains English translations of Never7, Ever17, and Remember11, and a Chinese translation of Remember11.
-A Russian translation of Ever17 is planned.
+### Credits
+Without these people, this project would not have existed.
+- [Lemnisca Translations](https://web.archive.org/web/20180905090319/http://tlwiki.org/index.php?title=Never_7): English translation of Never7.
+- Hirameki International, [Himmel Edition](https://www.reddit.com/r/InfinitySeries/comments/mbkbhn/ever17_himmel_edition_repost/) Team: English translation of Ever17.
+- [dsp2003 & SanLtd Team](http://wks.arai-kibou.ru/ever17.php): Russian translation of Ever17.
+- [R11 Translation Team](https://web.archive.org/web/20180819171103/https://tlwiki.org/?title=Remember11_-_the_age_of_infinity): English translation of Remember11.
+- [dreambottle](https://github.com/dreambottle): Remember11 translation port, initial engine research and public tools for modifying the game.
+- [malucart](https://github.com/malucard): Never7 translation port, BIP image format research.
+- [Phantom](https://github.com/PhantomZero9): Ever17 translation edits.
+- [R11 Team](https://m.vk.com/wall-76654048_1217): Cyrillic font, Russian menu translations.
+- [TimTH98](https://github.com/TimTH98): Russian graphics for the Ever17 translation port.
 
 ### Useful Links
 
 [**Patch Downloads**](https://github.com/bibarub/Infinity-PSP-English/releases)
-
-Credits for the English translation of Remember11 go to [TLWiki team](http://web.archive.org/web/20180819171103/https://tlwiki.org/?title=Remember11_-_the_age_of_infinity) (now defunct)
 
 ...
 
@@ -37,9 +48,11 @@ For the full run:
 
 2. Set the `GAME` environment variable to `n7`, `e17`, or `r11`, depending on the game you are patching. Example: `export GAME=e17`
 
-3. Run `./make.sh`
+3. Set the `TL_SUFFIX` environment variable to `en`, `cn`, or `ru`. Language support varies by game.
 
-4. The resulting iso will be in the `iso` folder.
+4. Run `./make.sh`
+
+5. The resulting iso will be in the `iso` folder.
 
 `./generate-patches.sh` can be used to generate xdelta3 diff files.
 
@@ -51,10 +64,12 @@ For further details, read the contents of shell scripts (and other source files)
 
 The following tools should be available in your PATH:
 
-`7z mkisofs gcc python3 xdelta3`
+`mkisofs gcc python3 xdelta3`
+
+The `pillow` python module should be installed, either via pip or your distro's package manager.
 
 - `mkisofs` is a part of the `cdrtools` package.
 
-- Brew command for macos to install dependencies: `brew install p7zip cdrtools python3 xdelta`.
+- Brew command for macos to install dependencies: `brew install cdrtools python3 xdelta`.
 
 - Last tested to be working with python 3.12, will likely work with later versions as well.

@@ -93,10 +93,10 @@ Makoto「... What... am I doing...」%K%P
 Makoto「... In a place... like this...?」%K%P
 0x22C
 言いながら立ち上がろうとしたが、やはり体は動かなかった。%K%P
-I try to stand up as I say this, but as I thought, my body%Nwon't move.%K%P
+I try to stand up as I say this, but as I thought, my body won't move.%K%P
 0x238
 呼吸をするたびに、口から大量の血があふれ出した。%K%P
-Every time I take a breath, a large amount of blood%Ncomes overflowing from my mouth.%K%P
+Every time I take a breath, a large amount of blood comes overflowing from my mouth.%K%P
 0x244
 いづみ「……誠くんが……誠くんが……」%K%P
 Izumi「... Because, Makoto-kun... Makoto-kun, you...」%K%P
@@ -126,7 +126,7 @@ I muster my strength and raise my left hand.%K%P
 The former Izumi-san's words faintly pop into my mind.%K%P
 0x300
 いづみ「誠くんは『私が死なない』という歴史を創り上げた瞬間に、本当の現実世界に戻るのよ」%K%P
-Izumi「The moment you create the history in which 'I don't die',%Nyou go back to the true, real world.」%K%P
+Izumi「The moment you create the history in which 'I don't die', you go back to the true, real world.」%K%P
 0x32C
 誠「………いづみ………%T030さん………」%K%P
 Makoto「... Izumi... san...」%K%P
@@ -159,7 +159,7 @@ The cold rain falls.%K%P
 Beyond the sound of rain, I hear an ambulance siren.%K%P
 0x3D0
 オレは感覚の失せた左手で、無理矢理ポケットの中を探った。%K%P
-Though my left hand is numb, I use it to search my%Npocket, despite my body's complaints.%K%P
+Though my left hand is numb, I use it to search my pocket, despite my body's complaints.%K%P
 0x3DC
 そうして取り出したものは……%K%P
 And I take out...%K%P

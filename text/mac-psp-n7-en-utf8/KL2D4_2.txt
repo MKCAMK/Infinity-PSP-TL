@@ -6,16 +6,16 @@ text area offset and size:
 First, I took care of refilling the sugar and fresh cream.%K%P
 0x4C
 皿洗いは、後回しにする。もはや言わずと知れたことだが、この後の地震のことを考えたからだ。%K%P
-I put off washing the dishes. It goes without saying, but%Nit's because I thought about the earthquake that will%Noccur later.%K%P
+I put off washing the dishes. It goes without saying, but it's because I thought about the earthquake that will occur later.%K%P
 0x58
 シンクの中に浮かべておけば、皿が割れることはないだろう。%K%P
-Since I placed them in the sink, they probably won't%Nbreak.%K%P
+Since I placed them in the sink, they probably won't break.%K%P
 0x64
 そして今、店の外の窓拭きをやりながら、オレは考えている。%K%P
 Right now, I'm thinking as I clean the windows outside.%K%P
 0x70
 あの例の話へとつながるキッカケを……。%K%N
-What's the trigger that will get Izumi-san talking about%N「that」?%K%N
+What's the trigger that will get Izumi-san talking about 「that」?%K%N
 0x7C
 どうやって話を持って行けばいいのだろうか？%K%P
 How should I try holding the conversation with her?%K%P
@@ -36,7 +36,7 @@ I already knew it was coming, so I'm not surprised...%K%P
 ... Or at least, I shouldn't have been, but...%K%P
 0x178
 店の中から食器の割れる音が聞こえた。%K%P
-I hear the sound of tableware breaking from inside the%Nshop.%K%P
+I hear the sound of tableware breaking from inside the shop.%K%P
 0x184
 （ええっ！？）%K%P
 (What!?)%K%P
@@ -48,28 +48,28 @@ Confused, I rush back inside.%K%P
 Makoto「Izumi-san, what happened!?」%K%P
 0x1E4
 そう言ったときには、既に揺れは収まっていた。%K%P
-By the time I say this, the tremors have already calmed%Ndown.%K%P
+By the time I say this, the tremors have already calmed down.%K%P
 0x1F8
 いづみ「せっかく洗ったのにぃ……」%K%P
 Izumi「Even though I took the trouble to wash them...」%K%P
 0x204
 いづみさんは足元に散らばった食器やグラスの破片を見つめている。%K%P
-Izumi-san is staring at fragments of broken tableware%Nand glass at her feet.%K%P
+Izumi-san is staring at fragments of broken tableware and glass at her feet.%K%P
 0x210
 誠「えっ！？　もしかして、洗っちゃったんですか！？」%K%P
 Makoto「Huh!? You're saying that you washed them!?」%K%P
 0x21C
 いづみ「うん……。さすがに全部誠くんにまかせちゃうのも、悪いかと思って……」%K%P
-Izumi「Yes... I felt bad about making you do everything,%NMakoto-kun, so...」%K%P
+Izumi「Yes... I felt bad about making you do everything, Makoto-kun, so...」%K%P
 0x228
 いづみさんはホウキとチリトリを持って来た。%K%P
 Izumi-san brings over a dustpan and broom.%K%P
 0x234
 いづみさんがチリトリを持ち、オレがホウキを持って破片を集める。%K%P
-She holds the dustpan, and I gather the pieces with the%Nbroom.%K%P
+She holds the dustpan, and I gather the pieces with the broom.%K%P
 0x240
 結局、立場が入れ替わっただけで、同じことになってしまった。%K%P
-In the end, all we've done is switch positions, as the%Nsame thing happened.%K%P
+In the end, all we've done is switch positions, as the same thing happened.%K%P
 0x24C
 歴史は……繰り返したのだ。%K%N
 History... repeated itself.%K%N

@@ -3,10 +3,10 @@ text area offset and size:
 0x18A3
 0x74
 いづみさんの作った料理を食べ終えた後……みんなは月浜に出て行った。%K%P
-After we finish the delicious dinner Izumi-san cooked for%Nus... everyone goes to Moon Beach.%K%P
+After we finish the delicious dinner Izumi-san cooked for us... everyone goes to Moon Beach.%K%P
 0x80
 くるみも、みんなの後に続いて外に出ようとしたが、オレはその腕をつかんで引き止めることにした。%K%P
-Kurumi also tries to follow the others and go outside, but%NI decide to grab her by the arm and pull her back.%K%P
+Kurumi also tries to follow the others and go outside, but I decide to grab her by the arm and pull her back.%K%P
 0x94
 くるみ「えっ？　なぁ〜に？」%K%P
 Kurumi「Huh? What?」%K%P
@@ -24,13 +24,13 @@ Of course, I have nothing to talk about.%K%P
 I just absolutely can't let Kurumi go to Moon Beach.%K%P
 0xD0
 これからいづみさんは『司紀杜神社』の話を語り始めるだろう。%K%P
-Soon, Izumi-san will probably start telling the others the%Nstory of the 「Shiki no Mori Shrine.」%K%P
+Soon, Izumi-san will probably start telling the others the story of the 「Shiki no Mori Shrine.」%K%P
 0xDC
 できればくるみには、神社の存在を知らずに、この７日間を終えてもらいたかった。%K%P
-If possible, I want these seven days to end without%NKurumi learning about the shrine.%K%P
+If possible, I want these seven days to end without Kurumi learning about the shrine.%K%P
 0xE8
 くるみと神社にどんな関係があるのか？　──それはまだわからないが……。%K%P
-What's Kurumi's connection to the shrine? ―I still%Ndon't know...%K%P
+What's Kurumi's connection to the shrine? ―I still don't know...%K%P
 0xF4
 くるみ「話って？」%K%P
 Kurumi「Talk?」%K%P
@@ -39,7 +39,7 @@ Kurumi「Talk?」%K%P
 Makoto「Umm... how do I put this... err...」%K%P
 0x114
 くるみ「……あっ、わかった！　%Nさっきの予知のことでしょ？」%K%P
-Kurumi「... Oh, got it! You're trying to talk about your prediction%Nearlier, right?」%K%P
+Kurumi「... Oh, got it! You're trying to talk about your prediction earlier, right?」%K%P
 0x120
 誠「あ、ああ……まあ……そんなところかなぁ？」%K%P
 Makoto「Ah, um... well... didn't I tell you so?」%K%P
@@ -57,7 +57,7 @@ Kurumi「You planned it with Yuka-san from the start, right?」%K%P
 Makoto「...」%K%P
 0x164
 くるみ「もう、とぼけたって無駄だよ？%N絶対そうなんだもん！　%Nそれ以外考えられないもん！」%K%P
-Kurumi「Geez, it's useless to play dumb, you know? It has to be%Nthat! Kurumi can't think of any other way than that!」%K%P
+Kurumi「Geez, it's useless to play dumb, you know? It has to be that! Kurumi can't think of any other way than that!」%K%P
 0x170
 誠「……………………バレた？」%K%P
 Makoto「... I guess you got me?」%K%P
@@ -102,7 +102,7 @@ Makoto「I'm telling you to wait!」%K%P
 Kurumi「Geez, what is it!?」%K%P
 0x230
 誠「今度じゃダメなんだよ。今じゃないと……今じゃないと、忘れちゃうから……」%K%P
-Makoto「I can't tell you next time. If I don't tell you this time, I'll... I'll%Nforget it...」%K%P
+Makoto「I can't tell you next time. If I don't tell you this time, I'll... I'll forget it...」%K%P
 0x244
 くるみ「う〜ん……じゃあ、ちょっとだけだよ？」%K%P
 Kurumi「Hmm... then Kurumi'll listen just for a little bit.」%K%P
@@ -117,7 +117,7 @@ Kurumi「Okay.」%K%P
 Makoto「I heard this from my friend...」%K%P
 0x27C
 誠「とある峠の山道……その長〜いトンネルにっ」%K%P
-Makoto「There's this mountain trail on a pass... with this loooong%Ntunnel-」%K%P
+Makoto「There's this mountain trail on a pass... with this loooong tunnel-」%K%P
 0x290
 くるみ「あっ、それなら聞いたことあるから……」%K%P
 Kurumi「Oh, Kurumi's heard that one already...」%K%P
@@ -147,7 +147,7 @@ Kurumi「Hey, what were you talking about?」%K%P
 Saki「There's a shrine nearby.」%K%P
 0x394
 億彦「その神社にまつわる噂話を、いづみさんから聞いてたところなんだ」%K%P
-Okuhiko「Izumi-san was in the middle of telling us a rumor about%Nthat shrine.」%K%P
+Okuhiko「Izumi-san was in the middle of telling us a rumor about that shrine.」%K%P
 0x3A0
 くるみ「ふーん……」%K%P
 Kurumi「Hmm...」%K%P
@@ -183,19 +183,19 @@ Izumi「Umm...」%K%P
 Izumi「Where was I?」%K%P
 0x444
 沙紀「『いづみさんも、最初は作り話だろうと思ってた……』って、そこまで」%K%P
-Saki「You were up to the part where you initially thought it was%Nnothing more than a myth.」%K%P
+Saki「You were up to the part where you initially thought it was nothing more than a myth.」%K%P
 0x450
 いづみ「そっか……。うん、そう。私も、最初に話を聞いた時には疑ってたの。だけどね……」%K%P
-Izumi「I see... Yes, that's right. When I first heard that story, I%Nwas also doubtful. But then...」%K%P
+Izumi「I see... Yes, that's right. When I first heard that story, I was also doubtful. But then...」%K%P
 0x4D4
 はぁ……。%K%N
 Haah...%K%N
 0x4E0
 だけどまあ、仕方がない……。%K%N
-But there's nothing more that can be done here,%Nanyway...%K%N
+But there's nothing more that can be done here, anyway...%K%N
 0x4EC
 くるみが神社の話を聞いたからと言って、あの歴史が繰り返すとは限らないし……。%K%N
-Just because Kurumi's heard the story of the shrine%Nnow doesn't necessarily mean that history will repeat%Nitself..%K%N
+Just because Kurumi's heard the story of the shrine now doesn't necessarily mean that history will repeat itself..%K%N
 0x4F8
 これは、ただのキッカケにしか過ぎないわけで……。%K%N
 This is only the trigger for that incident...%K%N
@@ -204,19 +204,19 @@ This is only the trigger for that incident...%K%N
 No, it might not actually be the trigger in the first place.%K%P
 0x518
 あの出来事の根本的な原因は『オレといづみさんの会話をくるみに聞かれてしまった』という所にある。%K%N
-What really caused it was Kurumi overhearing my%Nconversation with Izumi-san.%K%N
+What really caused it was Kurumi overhearing my conversation with Izumi-san.%K%N
 0x524
 それさえなければ、あんなことにはならなかった筈だ。%K%N
-If it hadn't happened, then that incident would never%Nhave happened.%K%N
+If it hadn't happened, then that incident would never have happened.%K%N
 0x530
 逆に言えば、それさえ防ぐことができれば悲劇は避けられる、ということになる。%K%N
-That means that if I can prevent that conversation, then%NI can avert that tragedy.%K%N
+That means that if I can prevent that conversation, then I can avert that tragedy.%K%N
 0x53C
 起きてしまったことは、もうやむを得ない。%K%P%N
-I can't do anything about events that have already%Noccurred, after all.%K%P
+I can't do anything about events that have already occurred, after all.%K%P
 0x548
 ──とにかく前向きに考えよう！%W%W%N%N
-―Anyway, I've got to think positively!%W%W%N%N
+―Anyway, I've got to think positively!%W%W %N
 0x554
 オレはすぐに気を取り直したのだった。%K%P
 I immediately pull myself together.%K%P
@@ -234,10 +234,10 @@ Kurumi「Huh, why not?」%K%P
 Izumi「'Why not'!?」%K%P
 0x5EC
 いづみ「いい、くるみ？　今私が言ったことは、冗談なんかじゃないのよ？　分かってるの？」%K%P
-Izumi「Weren't you listening, Kurumi? That story I told you just%Nnow wasn't a joke. Do you understand that?」%K%P
+Izumi「Weren't you listening, Kurumi? That story I told you just now wasn't a joke. Do you understand that?」%K%P
 0x5F8
 くるみ「分かってるよぉ……。%Nだけど…遠くから眺めるぐらいならぁ…」%K%P
-Kurumi「Kurumi understands... But... if we only look at it from a%Ndistance, then...」%K%P
+Kurumi「Kurumi understands... But... if we only look at it from a distance, then...」%K%P
 0x604
 いづみ「ほら、分かってない。%N全然分かってないじゃない」%K%P
 Izumi「See, you don't understand. You don't understand at all!」%K%P
@@ -264,7 +264,7 @@ Izumi「Goodnight. Please be careful on your way back, okay?」%K%P
 Kurumi「Bye bye♪」%K%P
 0x6E4
 それぞれに挨拶を交わし終えた後、２人の姉妹は扉の奥へと消えていった。%K%P
-Once everyone finishes saying their goodbyes, the two%Nsisters disappear into the shop.%K%P
+Once everyone finishes saying their goodbyes, the two sisters disappear into the shop.%K%P
 0x6F8
 と思ったら……。%K%P
 Or so I think...%K%P
@@ -273,25 +273,25 @@ Or so I think...%K%P
 Kurumi「Oh!! Almost forgot!」%K%P
 0x734
 ドアが思い切り開け放たれて、再びくるみの%N登場……。%K%P
-Kurumi comes out again, throwing open the door with all%Nher might...%K%P
+Kurumi comes out again, throwing open the door with all her might...%K%P
 0x740
 （あれ？　オカシイな……）%K%P
 (Huh? This is strange...)%K%P
 0x74C
 ここでくるみが出てくるのは『沙紀からの伝言を思い出したから』だったよな？%K%P
-Didn't Kurumi come back out last time because she had%Nforgotten to deliver Saki's message?%K%P
+Didn't Kurumi come back out last time because she had forgotten to deliver Saki's message?%K%P
 0x758
 でも、沙紀は今、この場にいるわけで……。%K%P
 But this time, nothing happened to Saki...%K%P
 0x764
 くるみ「あのね？　そう言えば、伝えなきゃいけないことがあったの！」%K%P
-Kurumi「You know what? Kurumi remembered there's something%Nshe had to tell you!」%K%P
+Kurumi「You know what? Kurumi remembered there's something she had to tell you!」%K%P
 0x770
 みんな「？？？」%K%P
 Everyone「???」%K%P
 0x77C
 くるみ「これから、くるみね？　億彦くんのこと『おっくん』って呼ぶことにしたから♪」%K%P
-Kurumi「From now on, Kurumi has decided to call Okuhiko-kun%N'Okkun'♪」%K%P
+Kurumi「From now on, Kurumi has decided to call Okuhiko-kun 'Okkun'♪」%K%P
 0x788
 億彦「……………………へ？」%K%P
 Okuhiko「... Huh?」%K%P
@@ -333,7 +333,7 @@ Kurumi「Eheh♪ That's good♪」%K%P
 Kurumi「Well then, goodnight everyone♪」%K%P
 0x82C
 手を大きく振りながら、ルナビーチの中へと入って行くくるみ。%K%P
-Kurumi goes back into Lunabeach while waving her hand%Nwidely.%K%P
+Kurumi goes back into Lunabeach while waving her hand widely.%K%P
 0x838
 そんなことをわざわざ伝えるために……。%K%P
 So she came out here just to tell us that...%K%P
@@ -342,7 +342,7 @@ So she came out here just to tell us that...%K%P
 I instinctively break out into a grin.%K%P
 0x8AC
 ロッジに戻って来たオレは、風呂に入り、歯を磨き、寝間着に着替えてベッドに寝転んだ。%K%P
-When we return to the lodge, I take a bath, brush my%Nteeth, change into my nightclothes, and lie down on the%Nbed.%K%P
+When we return to the lodge, I take a bath, brush my teeth, change into my nightclothes, and lie down on the bed.%K%P
 0x8B8
 誠「ふぁ〜……」%K%P
 Makoto「Aaah...」%K%P
@@ -369,7 +369,7 @@ Haruka「Makoto... can you fish?」%K%P
 Makoto「Fish?」%K%P
 0x974
 ああ、そう言えば、遙と釣りに行ったのは、明日だったな……。%K%P
-Ah, now that I think about it, tomorrow is the day Haruka%Nand I went fishing...%K%P
+Ah, now that I think about it, tomorrow is the day Haruka and I went fishing...%K%P
 0x980
 誠「ああ、釣りだったらまかしてくれ！」%K%P
 Makoto「Yeah! I'm great at fishing!」%K%P
@@ -429,4 +429,4 @@ I look back on my previous thoughts...%K%P
 ... That's my other important duty.%K%P
 0xA74
 遙を釣りに連れて行くことに、迷いなどなかった……。%K%P
-I didn't even hesitate to accept Haruka's offer to go%Nfishing...%K%P
+I didn't even hesitate to accept Haruka's offer to go fishing...%K%P

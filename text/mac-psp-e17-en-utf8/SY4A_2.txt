@@ -657,7 +657,7 @@ You「It's okay. Mayo is a special exception.」%K%P
 Sara「Yup.」%K%P
 0xE50
 優・沙羅「ねぇ〜？♪」%K%P
-You/Sara「That's right〜」%K%P
+You,Sara「That's right〜」%K%P
 0xE5C
 少年「差別だよ」%K%P
 Kid「That's discrimination...」%K%P

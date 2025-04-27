@@ -6,7 +6,7 @@ text area offset and size:
 Announcer「Today is Monday, April 1st. This is the afternoon news.」%K%P
 0x7C
 つけっぱなしにしていたＴＶから、アナウンサーの丁寧な言葉が聞こえた。%K%P
-We hear a polite voice from the announcer on TV, which%Nis still on.%K%P
+We hear a polite voice from the announcer on TV, which is still on.%K%P
 0x88
 と同時に、鳩の鳴き声……。%K%P
 At that moment, a bird chirps...%K%P
@@ -18,7 +18,7 @@ The rather sharp and shrill noise fills my ears.%K%P
 I try to find out where it is coming from.%K%P
 0xAC
 海を臨む大きなガラス窓の右上に、それはいた。%K%P
-I find it in the upper-right corner of the giant glass%Nwindow overlooking the ocean.%K%P
+I find it in the upper-right corner of the giant glass window overlooking the ocean.%K%P
 0xC4
 誠「いつぶりだろう……鳩時計なんて見たの……」%K%P
 Makoto「A cuckoo clock... This the first time I've seen one...」%K%P
@@ -33,31 +33,31 @@ Yuka「Huh? You just noticed it?」%K%P
 Makoto「Yeah, just now.」%K%P
 0x114
 １０時には着替えの為に自室にいて、１１時には、あのおぞましい料理の事に気を取られていたから、それぞれの時報は聞き逃してしまっていたのだろう。%K%P
-At 10, I was changing my clothes in my room, and at 11, I%Nwas caught up with that repulsive meal, so I missed the%Nsound of the clock both times.%K%P
+At 10, I was changing my clothes in my room, and at 11, I was caught up with that repulsive meal, so I missed the sound of the clock both times.%K%P
 0x120
 優夏「私も、昨日初めて気づいたときには驚いたけど」%K%P
 Yuka「I was also surprised when I first noticed it yesterday.」%K%P
 0x12C
 そんな優夏の声に振り向いてみると、オレ以外の３人は当たり前のような素の表情だった。%K%P
-I look around to find that nobody else is surprised by%Nthis.%K%P
+I look around to find that nobody else is surprised by this.%K%P
 0x138
 ……そうか。優夏や遙や億彦は、昨日オレが来る前に、既にこの時報を聞いているのだ。%K%P
-... Oh, right. Yuka, Haruka, and Okuhiko arrived before me%Nyesterday, so they've already heard it.%K%P
+... Oh, right. Yuka, Haruka, and Okuhiko arrived before me yesterday, so they've already heard it.%K%P
 0x14C
 優夏「なんか、懐かしいなぁ……」%K%P
 Yuka「It's kind of nostalgic...」%K%P
 0x158
 優夏「今でも覚えてるけど、私が最後に鳩時計を見たのは、中学の頃だった……」%K%P
-Yuka「If my memory serves me right, the last time I saw one of%Nthose things was in middle school...」%K%P
+Yuka「If my memory serves me right, the last time I saw one of those things was in middle school...」%K%P
 0x164
 誠「ふーん……」%K%P
 Makoto「Huh...」%K%P
 0x170
 優夏「これよりも、もうちょっと大き目のやつで、窓が２つ付いてるの」%K%P
-Yuka「It was a little bigger than this one, and had two doors on%Nit, not one.」%K%P
+Yuka「It was a little bigger than this one, and had two doors on it, not one.」%K%P
 0x17C
 優夏「もちろん鳩も２羽いて……。私、その２羽の鳩は、きっとツガイなんだろうと思ってた……」%K%P
-Yuka「Of course, there were two birds... I'm pretty sure I thought%Nthey were a male and female pair of doves...」%K%P
+Yuka「Of course, there were two birds... I'm pretty sure I thought they were a male and female pair of doves...」%K%P
 0x188
 誠「……」%K%P
 Makoto「...」%K%P
@@ -84,7 +84,7 @@ Makoto「'That's all there is'...?」%K%P
 Something doesn't feel right.%K%P
 0x1F0
 この話の先には、あるいは裏には、もっと壮大な物語が流れているような気がする。%K%P
-I feel that at the tip of that conversation, there's an%Neven greater story behind it that's now been washed%Naway.%K%P
+I feel that at the tip of that conversation, there's an even greater story behind it that's now been washed away.%K%P
 0x1FC
 それは優夏の瞳を見れば明らかだった。%K%P
 It's obvious just by looking at her.%K%P
@@ -96,10 +96,10 @@ Just now, there was a faint glitter in her eyes.%K%P
 Okuhiko「Hey, shouldn't we go now?」%K%P
 0x230
 億彦が、長い前髪をかき上げながら立ち上がった。%K%P
-As he rises, Okuhiko flicks his long bangs away from his%Nface.%K%P
+As he rises, Okuhiko flicks his long bangs away from his face.%K%P
 0x23C
 優夏「うん、そうだね。こんなとこ閉じこもってても、時間がもったいないし」%K%P
-Yuka「Yeah, you're right. It'll be a big waste of time if we stayed%Nindoors all day.」%K%P
+Yuka「Yeah, you're right. It'll be a big waste of time if we stayed indoors all day.」%K%P
 0x248
 誠「行く、って……どこに？」%K%P
 Makoto「Where are we going?」%K%P
@@ -129,7 +129,7 @@ Well, that was unexpected.%K%P
 It's not that tennis itself is a problem.%K%P
 0x2BC
 そういうことじゃなくて、さも当たり前のことのように、優夏や億彦が『テニスに行こう』と言い出したことが、オレにはしっくりこなかったのだ。%K%P
-It's that Yuka and Okuhiko just said 「let's play tennis」%Nlike it was nothing, and there seems to be no issue with it.%K%P
+It's that Yuka and Okuhiko just said 「let's play tennis」 like it was nothing, and there seems to be no issue with it.%K%P
 0x2C8
 だって、この合宿は……%K%P
 Just what is...%K%P
@@ -138,25 +138,25 @@ Just what is...%K%P
 Makoto「Just what is... this 'Seminar Camp' anyway?」%K%P
 0x354
 テニスコートへと向かう道中、オレは班長であるところの優夏に疑問をぶつけてみた。%K%P
-I ask Yuka this on our way to the tennis court, since%Nshe's our leader.%K%P
+I ask Yuka this on our way to the tennis court, since she's our leader.%K%P
 0x360
 優夏「だから？」%K%P
 Yuka「What do you mean?」%K%P
 0x36C
 誠「だからぁ……%W『ゼミ』って冠が付いてる以上、%N『サークル』とか『部活』とか、そういうのとは%N異なった主旨で実施されてるわけだろ、これは？」%K%P
-Makoto「I mean... So aside from the traditional meaning of seminar,%Nthere's also other things implemented in it, like 'clubs'%Nand 'social activities'?」%K%P
+Makoto「I mean... So aside from the traditional meaning of seminar, there's also other things implemented in it, like 'clubs' and 'social activities'?」%K%P
 0x378
 『いかにも』といった感じに、深々とうなずく%N優夏。%K%P
 Yuka nods in affirmation.%K%P
 0x384
 誠「なのに、いきなりしょっぱなから『テニス』なのか？それで、いいのか？」%K%P
-Makoto「Even so, is it all right for us to suddenly start playing%Ntennis from the get go?」%K%P
+Makoto「Even so, is it all right for us to suddenly start playing tennis from the get go?」%K%P
 0x398
 優夏「いいのいいの。ぜ〜んぜん、問題無し」%K%P
 Yuka「It's all right. There's absolutely no problems with it.」%K%P
 0x3A4
 誠「……なあ優夏。根本的なこと、%N聞いてもいいかな？」%K%P
-Makoto「... Hey, Yuka. May I ask you what's really been bugging%Nme?」%K%P
+Makoto「... Hey, Yuka. May I ask you what's really been bugging me?」%K%P
 0x3B0
 優夏「どうぞ？」%K%P
 Yuka「Go ahead.」%K%P
@@ -165,7 +165,7 @@ Yuka「Go ahead.」%K%P
 Makoto「In the first place, just what is a 'Seminar Camp'?」%K%P
 0x3D0
 優夏「何なんだ、って言われても……。だから『ゼミ』の『合宿』だよ」%K
-Yuka「'Just what is it', you say... Obviously, it's 'camping' in a%N'seminar'.」%K
+Yuka「'Just what is it', you say... Obviously, it's 'camping' in a 'seminar'.」%K
 0x10A8
 『答になってない』と言う
 Don't ask any more.
@@ -192,10 +192,10 @@ Makoto「But what does it mean by 'seminar', exactly?」%K%P
 Yuka「What!? Are you kidding, Makoto?」%K%P
 0x468
 誠「いや、本気で聞いてるんだって。オレ、滅多に学校行かないから、そういうのって全然わかんないんだよな」%K%P
-Makoto「No, I'm being totally serious. I rarely went to my classes,%Nso I'm completely clueless about things like this.」%K%P
+Makoto「No, I'm being totally serious. I rarely went to my classes, so I'm completely clueless about things like this.」%K%P
 0x47C
 優夏「へぇー……。まさか、この期に及んで『ゼミ』の意味を知らない学生が、うちの大学にいたなんて驚きだけど……」%K%P
-Yuka「Hmm... I'm surprised, I didn't think that there were students%Nin our college by this time who didn't know about the%Nmeaning of the 'Seminar', but...」%K%P
+Yuka「Hmm... I'm surprised, I didn't think that there were students in our college by this time who didn't know about the meaning of the 'Seminar', but...」%K%P
 0x490
 優夏「じゃあ、しょうがない。教えてあげよう」%K%P
 Yuka「Well, it can't be helped. I'll tell you about it.」%K%P
@@ -204,37 +204,37 @@ Yuka「Well, it can't be helped. I'll tell you about it.」%K%P
 Makoto「I'd appreciate it.」%K%P
 0x4B0
 優夏「あのね？　本来、ごく一般的な大学では、４年生になると同時に、各学生が任意の『ゼミ』を選んでそこに所属し、何らかの学問的対象を研究するのね？」%K%P
-Yuka「Okay. So you know how that originally, very liberal%Ncolleges offered a 'Seminar' program in which senior%Nyear students could join and research a topic of their%Nchoice, right?」%K%P
+Yuka「Okay. So you know how that originally, very liberal colleges offered a 'Seminar' program in which senior year students could join and research a topic of their choice, right?」%K%P
 0x4BC
 誠「うん」%K%P
 Makoto「Yeah.」%K%P
 0x4C8
 優夏「だから『ゼミ』って言うのは、要するに『研究室』のことだと思ってくれて構わないと思う」%K%P
-Yuka「So basically, if you think of the 'Seminar' as a 'lab', I don't%Nthink they'd mind.」%K%P
+Yuka「So basically, if you think of the 'Seminar' as a 'lab', I don't think they'd mind.」%K%P
 0x4D4
 誠「ほうほう」%K%P
 Makoto「Interesting.」%K%P
 0x4E0
 優夏「でね？　『ゼミ』に於いて研究した成果は、いわゆる『卒論』っていう形をとって、年末に発表しなくちゃいけないわけ」%K%P
-Yuka「Right? And at the end of the year, they had to publish%Nthe research results of the 'Seminar', in a so-called%N'bachelor's thesis'.」%K%P
+Yuka「Right? And at the end of the year, they had to publish the research results of the 'Seminar', in a so-called 'bachelor's thesis'.」%K%P
 0x4EC
 優夏「その『卒論』が、大学のいろんな偉い先生達に認められることによって、私達は晴れて卒業することができるの」%K%P
-Yuka「If that 'bachelor's thesis' was approved by various%Ndistinguished teachers, that student would be all clear%Nto graduate...」%K%P
+Yuka「If that 'bachelor's thesis' was approved by various distinguished teachers, that student would be all clear to graduate...」%K%P
 0x4F8
 優夏「最近では、大学や学部によって『ゼミ』とか%N『卒論』とかが全く無い所もあるみたいだけど、ま、とにかく、うちの大学ではいまだにそのシステムが生き続けてて……」%K%P
-Yuka「However, it doesn't seem like many colleges or%Nundergraduate programs have a place for such things%Nanymore, but our college is still keeping that system%Nalive...」%K%P
+Yuka「However, it doesn't seem like many colleges or undergraduate programs have a place for such things anymore, but our college is still keeping that system alive...」%K%P
 0x504
 誠「ちょっと待った。だけどオレ達、まだ３年になったばっかりじゃないかぁ？」%K%P
-Makoto「Wait a minute. But we're only just about to become%Njuniors, right?」%K%P
+Makoto「Wait a minute. But we're only just about to become juniors, right?」%K%P
 0x510
 優夏「そう。だから正確に言うと、私達が所属しているのは、実は『プレゼミ』っていうやつなの」%K%P
-Yuka「Right. Technically, we're actually members of a%N'Pre-Seminar'.」%K%P
+Yuka「Right. Technically, we're actually members of a 'Pre-Seminar'.」%K%P
 0x51C
 誠「プレ%W%Wゼミィ？」%K%P
 Makoto「Pre-Seminar?」%K%P
 0x528
 優夏「つまり、来年から始まる本格的な『ゼミ』の、言わば準備段階みたいなものね？」%K%P
-Yuka「Think of it as a sort of prep course for the real seminar%Nthat starts next year. A sort of prerequisite, if you will.」%K%P
+Yuka「Think of it as a sort of prep course for the real seminar that starts next year. A sort of prerequisite, if you will.」%K%P
 0x534
 誠「ふーん……」%K%P
 Makoto「Hmm...」%K%P
@@ -246,7 +246,7 @@ Yuka「Get it now?」%K%P
 Makoto「More or less.」%K%P
 0x558
 優夏「うん。いいんじゃないかな、なんとなくで。私だって、まだよく把握できてないし」%K%P
-Yuka「Good. You'll be fine, then. Honestly, I don't fully%Nunderstand it either.」%K%P
+Yuka「Good. You'll be fine, then. Honestly, I don't fully understand it either.」%K%P
 0x564
 誠「……あ、でも……だったらなおさら%N理解できないよ」%K%P
 Makoto「... Ah, but... There's one thing I still don't get.」%K%P
@@ -258,16 +258,16 @@ Yuka「What's that?」%K%P
 Makoto「The goal of this Camp...」%K%P
 0x588
 オレはチラッと後ろを窺った。億彦は、オレと優夏の後方を、遙と並んでついて来ている。%K%P
-I take a look over my shoulder. Okuhiko is behind me and%NYuka, walking right next to Haruka.%K%P
+I take a look over my shoulder. Okuhiko is behind me and Yuka, walking right next to Haruka.%K%P
 0x594
 億彦はしきりに遙に話しかけていたが、あまり会話が弾んでいるようには見えなかった。%K%P
-Okuhiko is trying to start a conversation with Haruka,%Nwhich doesn't seem to be working.%K%P
+Okuhiko is trying to start a conversation with Haruka, which doesn't seem to be working.%K%P
 0x5A0
 視線を前に戻すと、まるで億彦がブツブツと独り言をつぶやいているように聞こえる。%K%P
-When I quickly turn my head back, it's as if I can hear him%Nquietly grumble to himself.%K%P
+When I quickly turn my head back, it's as if I can hear him quietly grumble to himself.%K%P
 0x5AC
 誠「億彦は『最初っから目的なんか無い。%N有るとすれば、班員の親睦を深めることが%N唯一の目的だ』みたいなことを言ってたけど？」%K%P
-Makoto「Okuhiko thinks 'From the start, there was no goal. If there%Ntruly is one, then it's only to deepen the bonds of%Nfriendship between the group members.' Is he right?」%K%P
+Makoto「Okuhiko thinks 'From the start, there was no goal. If there truly is one, then it's only to deepen the bonds of friendship between the group members.' Is he right?」%K%P
 0x5B8
 優夏「おしいっ！　おしいけど、ちょっと違うかな？」%K%P
 Yuka「Close! That's close, but it's a little different from that.」%K%P
@@ -288,7 +288,7 @@ Yuka「Well, I was ordered not to.」%K%P
 Makoto「Ordered?」%K%P
 0x618
 優夏「教授じきじきの御達しなの。『合宿最終日まで、その主旨は教えてはならない』ってね」%K%P
-Yuka「They're direct, official orders from the professor in%Ncharge. 'Until the last day of the Camp, don't tell anyone%Nthe purpose behind it.'」%K%P
+Yuka「They're direct, official orders from the professor in charge. 'Until the last day of the Camp, don't tell anyone the purpose behind it.'」%K%P
 0x624
 誠「……なんで？」%K%P
 Makoto「Why...?」%K%P
@@ -300,7 +300,7 @@ Yuka「Geez, stop being so persistent!」%K%P
 Makoto「But-」%K%P
 0x658
 優夏「優夏先生の恋愛方程式その１%N%W%W%W%W──『しつこい男は嫌われる』%N%W%W%W──よく覚えときなさい♪」%K%P
-Yuka「The First Law of Professor Yuka's Love Formula:%N―'Dislike persistent men.' ―Please remember that♪」%K%P
+Yuka「The First Law of Professor Yuka's Love Formula: ―'Dislike persistent men.' ―Please remember that♪」%K%P
 0x66C
 そう言って、優夏は優しく微笑んだ。%K%P
 Yuka gives me a kind smile.%K%P
@@ -318,16 +318,16 @@ When I realize what that means, I try not to act anxious.%K%P
 「Dislike persistent men.」 ―Dislike... who?%K%P
 0x6C4
 頬を撫でるそよ風は、春の匂いをはらんでいた。%K%P
-Flustered, I feel the wind playfully brush against my%Ncheeks.%K%P
+Flustered, I feel the wind playfully brush against my cheeks.%K%P
 0x724
 テニスコートは、ロッジから徒歩で５分程の距離にあった。%K%P
-It takes us five minutes to walk from the lodge to the%Ntennis court.%K%P
+It takes us five minutes to walk from the lodge to the tennis court.%K%P
 0x738
 優夏「さ、やろやろぉ！」%K%P
 Yuka「All right then, let's play!」%K%P
 0x744
 優夏は、コートの管理人から借りてきた４本のラケットを、押し付けるようにしてオレ達３人に手渡した。%K%P
-Yuka has rented four rackets from the court's manager,%Nand forced them into our hands.%K%P
+Yuka has rented four rackets from the court's manager, and forced them into our hands.%K%P
 0x750
 無邪気な喜びに満ちた瞳が、キラキラとした輝きを放ってまぶしい。%K%P
 It's almost blinding how much joy her eyes are radiating.%K%P
@@ -339,7 +339,7 @@ Just then...%K%P
 Haruka「I'll... pass...」%K%P
 0x784
 ……遙はそう言って、今もらったばかりのラケットを、そっとベンチに立てかけた。%K%P
-... She places the racket she had just received gently%Nagainst the bench.%K%P
+... She places the racket she had just received gently against the bench.%K%P
 0x798
 優夏「ええっ？」%K%P
 Yuka「Whaaat?」%K%P
@@ -351,10 +351,10 @@ Okuhiko「Haruka-chan, you're not playing!?」%K%P
 He is much more disturbed by this than Yuka.%K%P
 0x7CC
 そう言えば、さっきから億彦は、テニスをやることに対してかなり乗り気なように見える。%K%P
-Now that I think about it, Okuhiko seemed to be extremely%Neager to play tennis.%K%P
+Now that I think about it, Okuhiko seemed to be extremely eager to play tennis.%K%P
 0x7D8
 ブルジョア育ちの彼のことだから、恐らく幼い頃からテニスの英才教育でも受けていたに違いない。%K%P
-I bet that because he was brought up as practically%Nnobility, he probably had private lessons on how to play%Ntennis since he was a kid.%K%P
+I bet that because he was brought up as practically nobility, he probably had private lessons on how to play tennis since he was a kid.%K%P
 0x7E4
 遙「うん」%K%P
 Haruka「Yes.」%K%P
@@ -387,7 +387,7 @@ Okuhiko「Then I'm going too.」%K%P
 Yuka「Huh, you too, Okuhiko-kun?」%K%P
 0x894
 億彦「だって、よく考えてみてくれよ？%Nせっかく海のそばに来たんじゃないか。%Nまずは海を見たいと思うのは、当然の欲求だよ」%K%P
-Okuhiko「Come on, think about it. We're finally by the ocean, aren't%Nwe? It's only natural that we ought to see it first!」%K%P
+Okuhiko「Come on, think about it. We're finally by the ocean, aren't we? It's only natural that we ought to see it first!」%K%P
 0x8A0
 億彦「それに、%Nテニスだったら、いつでもできるしね？」%K%P
 Okuhiko「And besides, we can play tennis whenever we like, right?」%K%P
@@ -396,7 +396,7 @@ Okuhiko「And besides, we can play tennis whenever we like, right?」%K%P
 Yuka「I see... Well, that's too bad, but I guess it can't be helped.」%K%P
 0x8C8
 そのとたん、億彦の目尻はゆるやかに垂れた。%N口元も、若干ニンマリと歪んだような気がする。%K%P
-There's a victorious glint in Okuhiko's eyes. His mouth%Nalso warps into another smug smile.%K%P
+There's a victorious glint in Okuhiko's eyes. His mouth also warps into another smug smile.%K%P
 0x8E4
 優夏「じゃあ私達は、ここにいるから」%K%P
 Yuka「Then we'll be right here.」%K%P
@@ -432,10 +432,10 @@ Makoto「I'm also... going to the ocean.」%K%P
 Yuka「Huuuh!?」%K%P
 0x9A4
 億彦が『チッ』と微かに舌打ちをした。とても小さな音だったが、オレには確かに聞こえた。%K%P
-Okuhiko faintly clicks his tongue as if to say 「Dammit」. It%Nwas a very quiet sound, but I definitely heard it.%K%P
+Okuhiko faintly clicks his tongue as if to say 「Dammit」. It was a very quiet sound, but I definitely heard it.%K%P
 0x9B0
 彼が何を思っているのか、その露骨な態度が全てを物語っていた。%K%P
-If he's trying to be discreet, he's not doing a very good%Njob of it.%K%P
+If he's trying to be discreet, he's not doing a very good job of it.%K%P
 0x9C4
 優夏「もぉ……。けっこう楽しみにしてたのになぁ……テニス」%K%P
 Yuka「Geez... and I was looking forward to playing too...」%K%P
@@ -453,7 +453,7 @@ Yuka「Haah...」%K%P
 Yuka looks so depressed that it's making me feel guilty.%K%P
 0xA00
 けれど、それはそれでやむを得ないことだ。%K%N集団生活とはそういうものなのだ。%K%P
-But that's just the way things work. In groups, the%Nmajority rules.%K%P
+But that's just the way things work. In groups, the majority rules.%K%P
 0xA14
 すいすいと歩き出した優夏達に、オレは声をかけた。%K%P
 As Yuka begins to walk away, I call her over.%K%P
@@ -462,19 +462,19 @@ As Yuka begins to walk away, I call her over.%K%P
 Makoto「Hold on. What are you going to do with these?」%K%P
 0xA2C
 ラケットのことだ。遙のものなんか、ベンチに立てかけたままだ。%K%P
-I point towards the rackets. I notice that Haruka left hers%Nthe way it was, leaning against the bench.%K%P
+I point towards the rackets. I notice that Haruka left hers the way it was, leaning against the bench.%K%P
 0xA40
 優夏「え？　ああ、はいはい、わかってます。私がまとめて返してきますよ〜だ」%K%P
 Yuka「Huh? Ah, yeah, yeah, I know. I'll go collect and return them.」%K%P
 0xA6C
 オレの手から、優夏が荒々しくラケットを%N奪い取った。%Kご機嫌ナナメだ。%K%P
-Yuka rudely snatches mine out of my hands. She seems%Na bit mad...%K%P
+Yuka rudely snatches mine out of my hands. She seems a bit mad...%K%P
 0xA78
 ベンチからもラケットを取り振り回す。%W%Wぶん回す。%K%Nかなりご機嫌ナナメだ。%K%P
-She takes the racket from the bench and swings it wildly.%NIt spins rapidly. Yep... she's pissed.%K%P
+She takes the racket from the bench and swings it wildly. It spins rapidly. Yep... she's pissed.%K%P
 0xA84
 危ない……！%W%W%W　思ったときは遅かった。%K%P
-Just then, I notice something, but by the time I think 「Look%Nout...!」 it's already too late.%K%P
+Just then, I notice something, but by the time I think 「Look out...!」 it's already too late.%K%P
 0xAAC
 鈍い音だった。%K%P
 A thick sound rings out.%K%P
@@ -489,7 +489,7 @@ Yuka「Ah...」%K%P
 The racket smashes into the back of Okuhiko's head.%K%P
 0xB08
 億彦がくらくらと倒れ伏す。%K%N慌てて優夏がしゃがみこんで、億彦の体を揺すった。%K%Nぴくりともしない。%K%P
-Okuhiko collapses to the ground in a daze. Panicking,%NYuka crouches down and shakes his body. He's%Nknocked out.%K%P
+Okuhiko collapses to the ground in a daze. Panicking, Yuka crouches down and shakes his body. He's knocked out.%K%P
 0xB1C
 優夏「ど、どうしよう……」%K%P
 Yuka「W-What should I do...」%K%P
@@ -504,7 +504,7 @@ Yuka「Why must I receive that...!?」%K%P
 Makoto「Not you, Yuka―Huh? Where's Haruka?」%K%P
 0xB5C
 遙の姿が見えなくなっていた。%K%N見回すと……%T015いた。%K%Nとっくにテニスコートの外だ。%K%P
-I've lost sight of her. I look around... Found her. Haruka's%Nalready far away from the tennis court.%K%P
+I've lost sight of her. I look around... Found her. Haruka's already far away from the tennis court.%K%P
 0xB68
 誠「優夏。ちょっと、ここ頼む」%K%P
 Makoto「Yuka, I'll leave this to you.」%K%P
@@ -516,13 +516,13 @@ Yuka「Wha... Don't just go acting rashly!」%K%P
 Makoto「I'm going to go STOP her from acting rashly!」%K%P
 0xBC4
 言い捨てると、オレは遙の後を追った。%K%N遙の後ろ姿は、道の曲り角に消えかかっていた。%K%P
-I shout this over my shoulder before chasing after%NHaruka. She disappears as she goes around the%Nstreet's corner.%K%P
+I shout this over my shoulder before chasing after Haruka. She disappears as she goes around the street's corner.%K%P
 0xC18
 ……ま、いっかぁ。%K%P
 ... Well, whatever.%K%P
 0xC24
 オレもテニスは嫌いじゃないし、たまには体を%N動かすのもいいかもしれない。%K%P
-It's not like I hate tennis. Besides, I could use a little%Nexercise.%K%P
+It's not like I hate tennis. Besides, I could use a little exercise.%K%P
 0xC30
 むせ返るような森の息吹きに包まれて、オレの心は%N開放的になっていた。何だかむしょうに体が疼く。%K%P
 The chilly, fresh morning air almost makes my bones ache.%K%P
@@ -537,7 +537,7 @@ Okuhiko starts walking away.%K%P
 Haruka already left long before him.%K%P
 0xC78
 去り際の遙の表情はあまり嬉しそうには見えず、そのことが、オレにとってはかえって嬉しかったりした。%K%P
-Though she had left with a rather stony expression, I%Nbet Haruka was thrilled to leave.%K%P
+Though she had left with a rather stony expression, I bet Haruka was thrilled to leave.%K%P
 0xC8C
 優夏「ちゃんと夕方までには帰って来てよ？」%K%P
 Yuka「Get back before evening, okay?」%K%P
@@ -546,10 +546,10 @@ Yuka「Get back before evening, okay?」%K%P
 Yuka shouts this to Okuhiko.%K%P
 0xCA4
 億彦が、優夏の言葉に片手をあげて答える。%K%P
-Without turning around, he casually waves in%Nacknowledgement.%K%P
+Without turning around, he casually waves in acknowledgement.%K%P
 0xCB0
 何とも彼らしいキザなサインだ、と思った。%K%P
-He's trying way too hard to act cool, but that's Okuhiko%Nfor you.%K%P
+He's trying way too hard to act cool, but that's Okuhiko for you.%K%P
 0xCC4
 優夏「じゃあ私、着替えて来るから」%K%P
 Yuka「Well then, I'm going to go change my clothes.」%K%P
@@ -561,10 +561,10 @@ Makoto「Change... into what?」%K%P
 Yuka「Tennis wear!」%K%P
 0xCF8
 優夏「だって、さすがにこの服じゃ、テニスは%Nできないでしょ？」%K%P
-Yuka「After all, I can't exactly play tennis that well in these%Nclothes, can I?」%K%P
+Yuka「After all, I can't exactly play tennis that well in these clothes, can I?」%K%P
 0xD04
 言いながら、優夏は指先で服のえりをつまんで%N見せた。%K%P
-To emphasize her point, Yuka pinches the collar of her%Nclothes.%K%P
+To emphasize her point, Yuka pinches the collar of her clothes.%K%P
 0xD10
 誠「まあ、そりゃそうだな……」%K%P
 Makoto「I guess so...」%K%P
@@ -573,4 +573,4 @@ Makoto「I guess so...」%K%P
 Yuka「Mind waiting a minute, Makoto? I'll be back soon!」%K%P
 0xD38
 優夏は管理事務所の隣の更衣室に向かって駆けて行った……。%K%P
-Yuka rushes over to the changing room next to the%Ncourt management office...%K%P
+Yuka rushes over to the changing room next to the court management office...%K%P

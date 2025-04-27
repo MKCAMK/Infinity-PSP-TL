@@ -11,6 +11,7 @@ def main():
 
   if game == "r11":
     text_areas = [
+      [0x11FF50, 0x11FFA4],
       [0x121118, 0x1217d4],
       [0x121930, 0x1243d0],
       [0x12449c, 0x12465c],
@@ -19,6 +20,7 @@ def main():
     ]
   elif game == "n7":
     text_areas = [
+      [0x11BF28, 0x11BF7C],
       [0x11d0c4, 0x11d794],
       [0x11d8f0, 0x11fa50],
       [0x11fb1c, 0x11fb8c],
@@ -27,11 +29,13 @@ def main():
     ]
   else: # e17
     text_areas = [
-      [0x11F649, 0x11FCF5],
+      [0x11E480, 0x11E4D4],
+      [0x11F648, 0x11FCF5],
       [0x11FE58, 0x12204C],
       [0x122118, 0x122188],
       [0x122368, 0x1261C1],
-      [0x129448, 0x1294A1]
+      [0x129448, 0x1294A1],
+      [0x134174, 0x1341C2]
     ]
 
   path = sys.argv[1] if len(sys.argv) > 1 else "BOOT.BIN"

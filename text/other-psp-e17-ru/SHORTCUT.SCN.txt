@@ -1,0 +1,191 @@
+﻿;10;16;５月１日　武視点
+May 1 Takeshi's POV
+
+;44;16;５月２日　武視点
+May 2 Takeshi's POV
+
+;78;16;５月３日　武視点
+May 3 Takeshi's POV
+
+;AC;18;５月４日　つぐみ編
+May 4 Tsugumi Ver.
+
+;E0;18;５月５日　つぐみ編
+May 5 Tsugumi Ver.
+
+;114;18;５月６日　つぐみ編
+May 6 Tsugumi Ver.
+
+;148;18;５月７日　つぐみ編
+May 7 Tsugumi Ver.
+
+;17C;14;５月４日　空編
+May 4 Sora Ver.
+
+;1B0;14;５月５日　空編
+May 5 Sora Ver.
+
+;1E4;14;５月６日　空編
+May 6 Sora Ver.
+
+;218;14;５月７日　空編
+May 7 Sora Ver.
+
+;24C;26;つぐみ・空編　バッドエンド
+Tsugumi-Sora Bad End
+
+;280;18;５月１日　少年視点
+May 1 Kid's POV
+
+;2B4;18;５月２日　少年視点
+May 2 Kid's POV
+
+;2E8;18;５月３日　少年視点
+May 3 Kid's POV
+
+;31C;14;５月４日　優編
+May 4 You Ver.
+
+;350;14;５月５日　優編
+May 5 You Ver.
+
+;384;14;５月６日　優編
+May 6 You Ver.
+
+;3B8;14;５月７日　優編
+May 7 You Ver.
+
+;3EC;18;優編　バッドエンド
+You Bad End
+
+;420;16;５月４日　沙羅編
+May 4 Sara Ver.
+
+;454;16;５月５日　沙羅編
+May 5 Sara Ver.
+
+;488;16;５月６日　沙羅編
+May 6 Sara Ver.
+
+;4BC;16;５月７日　沙羅編
+May 7 Sara Ver.
+
+;4F0;20;沙羅編　バッドエンド
+Sara Bad End
+
+;524;24;５月２日　ココ編／武視点
+May 2 Coco Ver./Takeshi's POV
+
+;558;26;５月２日　ココ編／少年視点
+May 2 Coco Ver./Kid's POV
+
+;58C;16;５月３日　ココ編
+May 3 Coco Ver.
+
+;5C0;16;５月４日　ココ編
+May 4 Coco Ver.
+
+;5F4;16;５月５日　ココ編
+May 5 Coco Ver.
+
+;628;16;５月６日　ココ編
+May 6 Coco Ver.
+
+;65C;16;５月７日　ココ編
+May 7 Coco Ver.
+
+;14;100;エレベーターから脱出した武。%NだがＬｅＭＵからは、%N人の気配が消えていた。%N武は皆と共に階下へ……。
+Takeshi escapes the elevator, %Nbut there's no one to be found%Nin LeMU. He goes with Tsugumi%Nto the lower levels...
+
+;48;78;ＬｅＭＵ２日目の朝を%N武は寝不足で迎えた。%N空は圧力隔壁の%N限界予測を告げた。
+Takeshi starts the day short on%Nsleep. Sora predicts the limits%Nof LeMU's partitions. The power%Nsuddenly goes out.
+
+;7C;100;『救助は来ないが、悲観的に%N考えるのはやめた』%N……束の間の日常。しかし%N予期せぬ危機にさらされる。
+Takeshi's optimistic sentiments%Nare shattered after a small%Nmistake leads to an unexpected%Naccident.
+
+;B0;96;負傷したつぐみを見舞った武。%Nだがつぐみはベッドの上で%N「私は死にたかった」と%N冷たく言い放つ。
+Takeshi goes to visit the%Ninjured Tsugumi. She coldly%Ntells him 「I wanted to die」.
+
+;E4;88;死の夢から目覚めた武。%Nつぐみと乗ったクヴァレで、%N武は思いがけぬ%N告白を受けるが……。
+Takeshi awakens from a  %Nnightmare about death. On the   %NJellyfish Gondola he receives   %Nan unexpected confession...
+
+;118;90;迫るタイムリミット。%N皆は宴会と称して、%N最後の食事を楽しむ。%Nしかしココに窮地が訪れた。
+The time limit quickly approaches.%NEveryone tries to enjoy a%N「Last Supper」. However, a new  %Npredicament arises.
+
+;14C;104;万難を乗り越え生き延び、%NついにＩＢＦ脱出を果たす。%Nしかし深海での危機に、%N武はつぐみを救うべく……。
+The two were somehow able to%Nescape IBF, but the submarine%Nshuts down. Takeshi commits%Nhimself to saving Tsugumi.
+
+;180;114;つぐみの態度に心痛める武。%N空はいたわりの言葉をかける。%N武は空のことを考え始める。%N空の意識とは何なのだろうか？
+Takeshi is hurt by Tsugumi's%Ncold attitude, Sora tries to%Nease his pain with words%Nof sympathy.
+
+;1B4;104;クヴァレでつぐみに襲われ、%N狂気に満ちた行為に耽る武。%Nだが、空の『目』はそれらを%Nすべて見ていた……。
+Assaulted by Tsugumi in%NQualle, Takeshi is driven to%Nmadness. Sora's omnipresent%N「eyes」 see everything.
+
+;1E8;102;空の笑顔は本物だろうか……？%N時間は刻々と過ぎていく。%N訪れる脅威から、%N武は空を連れて脱出を試みる。
+Is Sora's smile real? Time%Ncontinues to slip away.%NTaking Sora with him,%NTakeshi tries to escape.
+
+;21C;100;圧潰の危険は知っている、%Nしかし考えるのはやめた……。%N『俺達がここにいる事』%Nただそれだけを思う。
+Takeshi and Sora try to%Nspend their last moments%Nthinking 「We are still here.」
+
+;250;104;もはや退路を断たれ、%N全ての可能性は否定された。%N悪夢のような現実を、ただ%N緩やかに受け入れていく……。
+All escape routes and  %Npossibilities exhausted, the   %Nonly option left is to   %Naccept the nightmarish reality.
+
+;284;96;目覚めれば見知らぬ天井、%N誰かの介護を受ける少年。%N「ぼくは誰？」少年は、%N数多くの混乱を抱く。
+Looking up at an%Nunfamiliar ceiling, the Kid%Nreceives care from someone.%N「Who am I?」
+
+;2B8;102;武のせいで眠れない夜を%N優や沙羅と共に過ごす……。%N明けて朝、空は圧力隔壁の%N限界予測を淡々と告げる。
+A sleepless night, thanks to%NTakeshi. The Kid opens up to   %NYou and Sara. Sora predicts  %Nthe limits of LeMU's partitions.
+
+;2EC;92;続く奇妙な日常。沙羅や%N優の楽しい思い出話……。%Nそんな中、空は倉庫浸水を%N報告するが……？
+Another strange day. Sara and%NYou discuss fond memories.%NSora reports that there is%Nflooding, but...
+
+;320;98;第３視点ゆかりの地、%Nレムリア遺跡で少年は、%N優を助けると約束する。%N沙羅と優はレミへ再挑戦する。
+Discussing Lemuria and the%NThird Perspective, the Kid%Npromises to save You. You  %Ntries to access LeMMIH again.
+
+;354;102;再びのレムリア遺跡。%N優と少年は、昨日得た情報から%N真実を導き出そうとする。%Nしかし結論は出ない……。
+Back at the Lemurian Ruins,%NYou and the Kid try to derive%Nthe truth from clues discovered%Nyesterday, but to no avail.
+
+;388;104;青に蝕まれる夢を見た少年。%N優は、「この瞬間だけを%N大切にしたい」と言うが……。%N第３の眼はどこにある？
+The Kid dreams he is devoured%Nby blue. You says she just%Nwants to live in the present...   %NWhere is the third eye?
+
+;3BC;94;「生きることは知ること、%Nそして失うこと」%N……少年の心は、知性は、%N優を救うべく動き始める。
+「To live is to learn, and%Nto lose」... The Kid's heart%Nand mind race to save You.
+
+;3F0;90;行くべき場所はたったひとつ。%N少年は優を背負い、%Nその場所へと向かう。%Nヒンメル、天国へ。
+There is only one place%Nto go. The Kid picks up You%Nand heads there. To Himmel,%Nto Heaven.
+
+;424;96;沙羅のペンダントに隠された%Nホログラムの男性……%N何かが結びつきそうで、%Nしかしまだわからない。
+Sara's pendant: the hologram of%Na man... It seems connected%Nto the Kid somehow, but just   %Nhow is still unclear.
+
+;458;96;時折脳裏に響く謎の声に%N戸惑いながらも%N少年は沙羅に泳ぎを教える。%Nこの声は幻想か、記憶なのか？
+The Kid teaches Sara how%Nto swim while a mysterious voice%Nsounds in his mind. Is it   %Nan illusion, or a memory?
+
+;48C;116;不意に聞こえた、懐かしい歌。%N少年の指先に眠っていたのは、%Nあのペンダントの欠片だった。%Nそれが指し示す事実は……。
+A nostalgic song. Buried%Nwithin the Kid's finger%Nis a fragment of the pendant...%Nrevealing the truth...
+
+;4C0;102;兄と妹、繋がれた記憶と絆。%N少年と沙羅は沈み行く中、%N真の自由を目指して、%Nふたりは海中へと躍り出る。
+Brother and sister, connected%Nby memories and bonds.%NHeading for true freedom, the  %Ntwo plunge into the ocean.
+
+;4F4;100;待って、待ち続けて、%Nしかし今はもう遅すぎた……。%N少年と沙羅は沈み行く%NＬｅＭＵと共に闇に溶ける。
+They waited, hoping, but it%Nwas too late... The  %NKid and Sara share their final   %Nwords in the sinking LeMU.
+
+;528;110;「ココは減圧症なのか？」%N……何故疑念を抱いたのか%N判らないまま、夜は明けた。%N「目を閉じても、月はあるか？」
+Takeshi wonders... 「Does Coco%Nreally have decompression sick-%Nness?」 When you close your   %Neyes, is the moon still there?
+
+;55C;110;どうしてぼくは彼女の名前を%N知っているのか？　何故空が%NＲＳＤだとわかったのか？%N謎の記憶は少年を混乱させる。
+How do I know her name? How%Ndo I know that Sora is RSD...%NThe Kid's memories are thrown%Ninto dissaray.
+
+;590;102;違和感を覚えつつも%N迎えたＬｅＭＵでの３日目。%N倉庫の浸水は現実に起こった。%N現実は――鏡の中に……。
+An uncomfortable feeling%Nwelcomes the morning.%NThe storage room starts to flood.%NThe truth is within the mirror...
+
+;5C4;108;パパは太陽星人だ、と沙羅。%Nココは子守歌を武に歌って%N聞かせた……。知りたいものは、%Nボクの本当の名前……。
+Sara says her father was from%Nthe Sun. Coco sings a nursery%Nrhyme... What they seek is%N「my」 true name...
+
+;5F8;104;“海月の虚空に秋凉し時鳥”%N“月と海の子守歌”%N……歌に篭められたものは、%Nその子供の出生の秘密だった。
+Two clues appear: a haiku and%Na lullaby. Contained in%Nthem is the secret of%Nthe child's birth.
+
+;62C;102;『キミハ……ダレ？』%N『ボクハ……ダレ？』%Nぼくは、本当はぼくではない。%Nブリックヴィンケルとは何か？
+「Who are... you?」%N「Who am...I?」%NI'm not who I think I am.%NWhat is Blick Winkel?
+
+;660;110;何が起こったのか知っている。%Nだが何故こんな事をしたのか、%N訊かなくてはならない。%N交わした約束を果たす為に。
+I already know what happened.%NBut why did I do these%Nthings? It was to keep a%Npromise I made.

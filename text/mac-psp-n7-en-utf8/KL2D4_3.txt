@@ -3,25 +3,25 @@ text area offset and size:
 0x3C3E
 0x7C
 手伝いをしながら、オレはずっと、話を切り出すタイミングを計っていた。%K%N
-While helping out, I keep gauging for when the right timing%Nto start talking to Izumi-san.%K%N
+While helping out, I keep gauging for when the right timing to start talking to Izumi-san.%K%N
 0x88
 けれど、今日に限って何故か客足は途絶えず、いづみさんとまともな会話をする時間なんか１秒たりともなかった。%K%N
-But for some reason, the customers today just keep on%Ncoming, so she doesn't even have a second to spare%Nfor conversation.%K%N
+But for some reason, the customers today just keep on coming, so she doesn't even have a second to spare for conversation.%K%N
 0x94
 やむを得ず、オレは仕事を黙々とこなしていったのだった……。%K%N
-Since there's nothing I can do about that, I just quietly%Nfocus on my chores...%K%P
+Since there's nothing I can do about that, I just quietly focus on my chores...%K%P
 0xA0
 ８つのノルマのうちの７つ目が終わったのは、２時半を少しまわった頃だった。%K%P
-I finish seven of my eight assignments with two and a%Nhalf hours left to spare.%K%P
+I finish seven of my eight assignments with two and a half hours left to spare.%K%P
 0xB4
 前回よりも、１時間早い。%K%N
 It's an hour earlier than last time.%K%N
 0xC0
 どの仕事も１度経験済みで、その要領を既にわきまえていたせいだ。%K%N
-It must be because I've done this work once already, so%NI already knew what to do this time around from the%Nget-go.%K%N
+It must be because I've done this work once already, so I already knew what to do this time around from the get-go.%K%N
 0xCC
 そしてちょうどその頃……客足もパタリと途絶えた。%K%N%N
-At exactly the same time I finish that job... the customers%Nstop coming.%K%N%N
+At exactly the same time I finish that job... the customers stop coming.%K%N%N
 0xD8
 ──その時が遂に訪れたのだ！%K%P
 ―The time has finally come!%K%P
@@ -30,22 +30,22 @@ At exactly the same time I finish that job... the customers%Nstop coming.%K%N%N
 Izumi「Haah... I'm tired.」%K%P
 0x170
 そう言いながら、いづみさんはオープンテラスのイスに腰を下ろした。%K%P
-As she says this, Izumi-san slumps down on one of the%Nchairs on the terrace.%K%P
+As she says this, Izumi-san slumps down on one of the chairs on the terrace.%K%P
 0x17C
 いづみ「誠くんも、ちょっと休んだら？」%K%P
 Izumi「Makoto-kun, do you want to rest for a while too?」%K%P
 0x188
 （『休んだら？』って、オレの仕事はもう終わっているのだが……）%K%P
-(If she's offering me that, then it means my work's%Nalready done...)%K%P
+(If she's offering me that, then it means my work's already done...)%K%P
 0x194
 オレはいづみさんの正面の席に座った。%K%P
 I sit down in front of Izumi-san.%K%P
 0x1A8
 いづみ「こんなにひっきりなしにお客さんが来るなんて、ほんと久し振り……」%K%P
-Izumi「It's been such a long time since we've had such a%Nconstant flow of customers come in and out...」%K%P
+Izumi「It's been such a long time since we've had such a constant flow of customers come in and out...」%K%P
 0x1B4
 いづみ「こういう忙しい営業って、慣れてないから疲れちゃうのよねぇ……」%K%P
-Izumi「If I'm this tired, then I don't think I'd ever get adjusted to%Nsuch a hectic business like this...」%K%P
+Izumi「If I'm this tired, then I don't think I'd ever get adjusted to such a hectic business like this...」%K%P
 0x1C0
 いづみ「あっ、誠くん……紅茶でも、飲む？」%K%P
 Izumi「Ah, Makoto-kun... would you like some tea?」%K%P
@@ -78,7 +78,7 @@ Izumi-san places the teacup in front of me.%K%P
 (Well then... where should I begin?)%K%P
 0x248
 オレは前回の話の原点を探った。%K%N
-I try to remember how the conversation originated in the%Nlast loop.%K%N
+I try to remember how the conversation originated in the last loop.%K%N
 0x254
 そもそも、あの話はどこから始まったのか？%K%P
 In the first place, how did that conversation begin?%K%P
@@ -90,13 +90,13 @@ Izumi「Makoto-kun?」%K%P
 Makoto「Yes!?」%K%P
 0x278
 ふいに尋ねられ、素っ頓狂な声を発してしまった。%K%P
-She speaks up so suddenly that my voice came out%Nslightly hysterical.%K%P
+She speaks up so suddenly that my voice came out slightly hysterical.%K%P
 0x284
 いづみ「仕事は、一段落着いた？」%K%P
 Izumi「Have you finished the first stage of your work?」%K%P
 0x290
 誠「一段落って言うか……後はバーベキューの買い出しだけです」%K%P
-Makoto「You say first stage... but all that's left to do is to go%Nshopping for the barbecue.」%K%P
+Makoto「You say first stage... but all that's left to do is to go shopping for the barbecue.」%K%P
 0x29C
 いづみ「ええっ！？　他のはもう終わっちゃったの？」%K%P
 Izumi「What!? You've already finished everything else?」%K%P
@@ -111,7 +111,7 @@ Izumi「Hmm... I see... Then I wonder what I should do...」%K%P
 Makoto「Huh?」%K%P
 0x2CC
 いづみ「もしあれだったら、誠くん、ひとりで行って来てもらっちゃってもいいんだけど……」%K%P
-Izumi「If that's all that's left, then I wonder if it's okay if I send%Nyou alone to go and bring everything back...」%K%P
+Izumi「If that's all that's left, then I wonder if it's okay if I send you alone to go and bring everything back...」%K%P
 0x2D8
 誠「え？」%K%P
 Makoto「Huh?」%K%P
@@ -141,7 +141,7 @@ Izumi「Thank you♪ You're a real lifesaver〜♪」%K%P
 Makoto「No, I-」%K%P
 0x34C
 いづみ「じゃあ買って来てもらいたいもの、メモするからちょっと待っててね？」%K%P
-Izumi「Then I'll go and write up a shopping list for you, so could%Nyou wait a bit?」%K%P
+Izumi「Then I'll go and write up a shopping list for you, so could you wait a bit?」%K%P
 0x360
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -159,19 +159,19 @@ Makoto「...」%K%P
 Izumi「Thanks for waiting!」%K%P
 0x3A4
 いづみ「えーっと……まずは牛肉でしょ……それからピーマンと玉ねぎと……油も足りないしねぇ……」%K%P
-Izumi「Umm... first is beef... then green peppers and onions... and%Nwe're out of oil too...」%K%P
+Izumi「Umm... first is beef... then green peppers and onions... and we're out of oil too...」%K%P
 0x3B0
 誠「………………………………」%K%P
 Makoto「...」%K%P
 0x3C4
 いづみ「あっ、そうだった！　すっかり忘れてたわ……。優夏ちゃんに怒られるところだった……」%K%P
-Izumi「Oh, right! I completely forgot... Wouldn't want to make%NYuka-chan angry...」%K%P
+Izumi「Oh, right! I completely forgot... Wouldn't want to make Yuka-chan angry...」%K%P
 0x3D8
 いづみ「缶ビール４ケース、と……」%K%P
 Izumi「So that's four cases of beer too...」%K%P
 0x3E4
 つぶやきながらメモするいづみさん。%K%P
-Izumi-san scribbles on the notepad paper while%Nmuttering to herself.%K%P
+Izumi-san scribbles on the notepad paper while muttering to herself.%K%P
 0x3F0
 いづみ「あとは……オレンジジュースも買わなきゃいけないし……」%K%P
 Izumi「After that... you've got to buy some orange juice...」%K%P
@@ -189,7 +189,7 @@ Orange juice!?%K%P
 ―That's it! That's how it began!%K%N
 0x42C
 ってことは、つまりこの展開……オレの望んだ方向に進んで行ってるんじゃないかぁ！%K%P
-Which means that now that she brought it up... I can turn%Nthis conversation in the direction I want it to!%K%P
+Which means that now that she brought it up... I can turn this conversation in the direction I want it to!%K%P
 0x438
 いづみ「確か遙ちゃんも、お酒飲めなかったよね？」%K%P
 Izumi「Haruka-chan also can't drink alcohol, right?」%K%P
@@ -219,10 +219,10 @@ Makoto「Actually, I'm not sure... Maybe Haruka actually does drink...」%K%P
 Izumi「What〜? Is that right...?」%K%P
 0x4A4
 いづみ「まあどっちにしろ、くるみは飲めないんだから、ジュースは買っても無駄にはならないでしょう」%K%P
-Izumi「Well, either way, Kurumi can't drink, so even if you buy it,%Nat least the juice won't go to waste.」%K%P
+Izumi「Well, either way, Kurumi can't drink, so even if you buy it, at least the juice won't go to waste.」%K%P
 0x4B0
 いづみ「さすがに高校生に、お酒飲ますわけにはいかないもの」%K%P
-Izumi「After all, high-schoolers can't drink alcohol, even if they%Nwant to.」%K%P
+Izumi「After all, high-schoolers can't drink alcohol, even if they want to.」%K%P
 0x4BC
 いづみ「あの子は、きっと飲みたがると思うけど……」%K%P
 Izumi「I think she'll definitely want to drink...」%K%P
@@ -234,19 +234,19 @@ Makoto「Huh?」%K%P
 This is certainly...%K%P
 0x4E0
 いづみ「ほら、くるみって、人一倍好奇心が旺盛でしょ？」%K%P
-Izumi「Kurumi's filled with more curiosity than most people, isn't%Nshe?」%K%P
+Izumi「Kurumi's filled with more curiosity than most people, isn't she?」%K%P
 0x4EC
 いづみ「新しいものとか、自分の知らないこととか、そういうものに、すごく興味があるみたいなの」%K%P
-Izumi「It seems that she's really fascinated by things that are%Nforeign and novel to her.」%K%P
+Izumi「It seems that she's really fascinated by things that are foreign and novel to her.」%K%P
 0x4F8
 ああ……やっぱりそうなんだ……この展開……。%K%P
 Yeah... it's as I thought... this is it...%K%P
 0x504
 誠「そう言えば、昨日の肝だめしも、くるみが提案してたもんなあ」%K%P
-Makoto「Now that you mention it, Kurumi was the one who%Nsuggested the Test of Courage yesterday.」%K%P
+Makoto「Now that you mention it, Kurumi was the one who suggested the Test of Courage yesterday.」%K%P
 0x510
 いづみ「ほんと、困っちゃうのよ……。そっち系のオカルトっぽいものとかも大好きで……」%K%P
-Izumi「It's really quite troublesome... She really loves those%Nkinds of occult-like things.」%K%P
+Izumi「It's really quite troublesome... She really loves those kinds of occult-like things.」%K%P
 0x51C
 誠「ねえ、いづみさん？　ちょっと、質問してもいい？」%K%P
 Makoto「Hey, Izumi-san? Can I ask you a question?」%K%P
@@ -258,10 +258,10 @@ Izumi「Hmm? What?」%K%P
 Makoto「It's about that shrine...」%K%P
 0x548
 いづみさんの表情は瞬く間に曇った。前と同じように……。%K%P
-Izumi-san's expression darkens. It's the same as last%Ntime...%K%P
+Izumi-san's expression darkens. It's the same as last time...%K%P
 0x554
 誠「いづみさん、おとといの夜、くるみが『ミステリーツアー行こう』って言ったとき、すごい勢いで怒ったでしょ？」%K%P
-Makoto「Two nights ago, Kurumi suggested going on a 'Mystery%NTour.' You got really mad back then, didn't you?」%K%P
+Makoto「Two nights ago, Kurumi suggested going on a 'Mystery Tour.' You got really mad back then, didn't you?」%K%P
 0x560
 いづみ「……」%K%P
 Izumi「...」%K%P
@@ -312,7 +312,7 @@ Makoto「...」%K%P
 Izumi「... I understand... Then I'll tell you and you alone...」%K%P
 0x620
 会話の内容は、全てあの日のままだった。%K%N
-Up until now, this conversation has been the same as%Nthe one that day.%K%N
+Up until now, this conversation has been the same as the one that day.%K%N
 0x62C
 いよいよだ。%K%N
 This is it.%K%N
@@ -321,7 +321,7 @@ This is it.%K%N
 I will finally learn the truth about Kurumi...%K%P
 0x6BC
 オレはいづみさんの言葉に耳を傾けながら、同時に店の扉と、下の砂浜の方にも最大限の注意を払った。%K%P
-While getting ready to listen to Izumi-san's story, I look%Nout of the shop's door and survey the beach.%K%P
+While getting ready to listen to Izumi-san's story, I look out of the shop's door and survey the beach.%K%P
 0x6C8
 くるみに……聞かれては困る。%K%N
 If Kurumi hears this... it'll mean trouble.%K%N
@@ -333,7 +333,7 @@ If she hears this... then it's all over...%K%N
 I pay close attention to both Izumi-san and the door.%K%P
 0x6EC
 そんな張りつめるような緊張感の中、やがていづみさんはゆっくりと静かに話し始めたのだった……。%K%P
-As I wait in that nervous state, Izumi-san finally begins to%Nspeak, slowly and quietly...%K%P
+As I wait in that nervous state, Izumi-san finally begins to speak, slowly and quietly...%K%P
 0x6F8
 いづみ「そう。誠くんの知ってる通り……あの話は作り話だったのよ……」%K%P
 Izumi「Yes. As you know, Makoto-kun... that story was a lie...」%K%P
@@ -342,16 +342,16 @@ Izumi「Yes. As you know, Makoto-kun... that story was a lie...」%K%P
 Izumi「But that doesn't mean it's all false.」%K%P
 0x710
 いづみ「あの神社で、たくさんの人が行方不明になってるっていうのは……それだけは間違いなく事実なの」%K%P
-Izumi「A lot of people really did go missing at that shrine... that%Nat least is an undeniable fact.」%K%P
+Izumi「A lot of people really did go missing at that shrine... that at least is an undeniable fact.」%K%P
 0x71C
 いづみ「だけど……それだけじゃ不十分だと思ったから……」%K%P
 Izumi「But... I thought that that alone was insufficient...」%K%P
 0x728
 誠「オレ達を、神社に近寄らせたくなかったから……でしょ？　だから少しでも怖がらせようと思って作り話を拵えた……」%K%P
-Makoto「You didn't want us to get near the shrine... right? That's%Nwhy you thought you'd make up that story in order to%Nscare us a little...」%K%P
+Makoto「You didn't want us to get near the shrine... right? That's why you thought you'd make up that story in order to scare us a little...」%K%P
 0x734
 誠「オレ達さえ神社に近寄らせなければ、最終的にくるみもそこに行くことはないだろうと思ったから……ですね？」%K%P
-Makoto「You thought that if we didn't get near the shrine, then%NKurumi wouldn't go there... right?」%K%P
+Makoto「You thought that if we didn't get near the shrine, then Kurumi wouldn't go there... right?」%K%P
 0x740
 いづみ「え、ええ……。%Nでも……なんで、そこまで……？」%K%P
 Izumi「Y-Yes... But... how did you figure that out...?」%K%P
@@ -366,7 +366,7 @@ Izumi「...」%K%P
 Makoto「But I still haven't heard the most important part yet...」%K%P
 0x770
 誠「くるみを神社に近づけたくなかったのは何故なのか？　そこなんです！」%K%P
-Makoto「Why don't you want Kurumi to get near the shrine? I don't%Nget it!」%K%P
+Makoto「Why don't you want Kurumi to get near the shrine? I don't get it!」%K%P
 0x77C
 いづみさんは髪をかき上げ、『ふぅ……』と大きく息をついた。%K%P
 Izumi-san strokes her hair, and gives a deep sigh.%K%P
@@ -384,7 +384,7 @@ Izumi「The truth is...」%K%P
 Izumi「... Kurumi... might not be my real sister...」%K%P
 0x7B8
 知っていたこととは言え……胸が張り裂けそうだった。%K%P
-Although it's something already know... it feels like my%Nheart is bursting open.%K%P
+Although it's something already know... it feels like my heart is bursting open.%K%P
 0x7C4
 知っているからこそ……なのかもしれない。%K%P
 It might be... because I already knew that.%K%P
@@ -405,7 +405,7 @@ Makoto「...」%K%P
 I unconsciously clench my hands into fists...%K%P
 0x844
 いづみ「……それは、今から２１年前、くるみが生後１ヶ月になったばかりの頃だったの……」%K%P
-Izumi「... It was when Kurumi had only just turned one month old...%N21 years ago...」%K%P
+Izumi「... It was when Kurumi had only just turned one month old... 21 years ago...」%K%P
 0x850
 誠「え？？？」%K%P
 Makoto「What???」%K%P
@@ -414,16 +414,16 @@ Makoto「What???」%K%P
 Makoto「W-What are you saying, Izumi-san?」%K%P
 0x868
 誠「くるみは今、１７歳……。２１年前に誘拐されたって……そんなこと……あるわけないじゃないですか……」%K%P
-Makoto「Right now, Kurumi is 17 years old...and yet you say she%Nwas kidnapped 21 years ago...」%K%P
+Makoto「Right now, Kurumi is 17 years old...and yet you say she was kidnapped 21 years ago...」%K%P
 0x874
 いづみ「そう。確かにそんなこと……あるわけないのよ……。だから私は……自信が持てないでいるの……」%K%P
 Izumi「There's... there's no way that's possible, is there...?」%K%P
 0x880
 いづみ「今も言ったけど、くるみが誘拐されたとき、私は１歳だったし……」%K%P
-Izumi「Right. Certainly... that's impossible... That's why... I have no%Nconfidence in this story...」%K%P
+Izumi「Right. Certainly... that's impossible... That's why... I have no confidence in this story...」%K%P
 0x88C
 いづみ「当たり前だけど……私は全然覚えてなくて……」%K%P
-Izumi「Even though I'm talking about this now, when Kurumi was%Nkidnapped, I was only a year old...」%K%P
+Izumi「Even though I'm talking about this now, when Kurumi was kidnapped, I was only a year old...」%K%P
 0x898
 誠「……」%K%P
 Makoto「It's obvious, but... I don't remember any of this at all...」%K%P
@@ -432,16 +432,16 @@ Makoto「It's obvious, but... I don't remember any of this at all...」%K%P
 Izumi「...」%K%P
 0x8B0
 いづみ「もちろん、両親だけが言ってることじゃないのよ？」%K%P
-Izumi「My parents told me this story when I was in middle%Nschool...」%K%P
+Izumi「My parents told me this story when I was in middle school...」%K%P
 0x8BC
 いづみ「図書館に行って、当時の新聞を片っ端から調べてみたんだけど、どの新聞にもその事件は載ってたわ……」%K%P
 Izumi「Of course, I'm not just going by my parents' words alone.」%K%P
 0x8C8
 いづみ「だから、事実は事実なのよ。……その裏に、何かが隠されているかどうかはわからないけど……」%K%P
-Izumi「I went to the library, thoroughly investigated the%Nnewspapers published at that time, and found that it%Nwas mentioned in one of them...」%K%P
+Izumi「I went to the library, thoroughly investigated the newspapers published at that time, and found that it was mentioned in one of them...」%K%P
 0x8D4
 誠「……」%K%P
-Makoto「That's how I know it's the truth... But on the other hand, I%Ndon't know if any of it was covered up or not...」%K%P
+Makoto「That's how I know it's the truth... But on the other hand, I don't know if any of it was covered up or not...」%K%P
 0x8E0
 いづみ「その誘拐犯ね？　すぐに指名手配されたの」%K%P
 Izumi「...」%K%P
@@ -450,28 +450,28 @@ Izumi「...」%K%P
 Izumi「A bounty for the kidnapper was quickly placed.」%K%P
 0x8F8
 いづみ「ううん。正確に言えば『それからの３年間は』見つからなかったのよ」%K%P
-Izumi「The police tirelessly searched for Kurumi, and the media%Nextensively reported on it, but... In the end, they couldn't%Nfind her...」%K%P
+Izumi「The police tirelessly searched for Kurumi, and the media extensively reported on it, but... In the end, they couldn't find her...」%K%P
 0x904
 いづみ「要するに、誘拐されてから３年後に、くるみは無事に発見、保護されたっていうこと……」%K%P
-Izumi「No. To put it accurately, they couldn't find her 'for the%Nnext three years'.」%K%P
+Izumi「No. To put it accurately, they couldn't find her 'for the next three years'.」%K%P
 0x910
 誠「……」%K%P
-Makoto「In short, three years after the kidnapping, Kurumi was%Nfound alive, and was taken into care by my family...」%K%P
+Makoto「In short, three years after the kidnapping, Kurumi was found alive, and was taken into care by my family...」%K%P
 0x91C
 いづみ「でも、そのときね？　常識では考えられないような不思議な事実がひとつだけあったの……」%K%P
 Izumi「...」%K%P
 0x928
 誠「不思議な、事実？」%K%P
-Makoto「However, at the same time, there was this one perplexing%Nfact that didn't quite make any sense...」%K%P
+Makoto「However, at the same time, there was this one perplexing fact that didn't quite make any sense...」%K%P
 0x934
 いづみ「うん……。くるみ……誘拐されたときと同じ姿をしてたのよ……」%K%P
 Izumi「A perplexing fact?」%K%P
 0x940
 いづみ「全く、これっぽっちも成長してなくて……。誘拐された３年前の姿、つまり産まれたばかりの赤ん坊の状態で発見されたの」%K%P
-Izumi「Yes... Kurumi... looked exactly the same as she did during%Nthe time she was kidnapped...」%K%P
+Izumi「Yes... Kurumi... looked exactly the same as she did during the time she was kidnapped...」%K%P
 0x94C
 誠「そんな……バカなこと……」%K%P
-Makoto「She hadn't aged in the slightest... Though the kidnapping%Nhad been three years prior, she was still an infant.」%K%P
+Makoto「She hadn't aged in the slightest... Though the kidnapping had been three years prior, she was still an infant.」%K%P
 0x958
 いづみ「そう。誠くんと同じことをみんなも思った……」%K%P
 Izumi「That's... impossible...」%K%P
@@ -480,70 +480,70 @@ Izumi「That's... impossible...」%K%P
 Izumi「Right. Everyone thought the same thing you did...」%K%P
 0x970
 いづみ「そしてその結果……９９．９９９９９％の確率で、その赤ん坊はくるみであることが証明されたの」%K%P
-Izumi「The police also thought it was suspicious, so they even%Nhad a DNA test taken...」%K%P
+Izumi「The police also thought it was suspicious, so they even had a DNA test taken...」%K%P
 0x97C
 誠「……」%K%P
-Makoto「When the results came in... it declared that the possibility%Nof the baby being Kurumi was 99.99999％.」%K%P
+Makoto「When the results came in... it declared that the possibility of the baby being Kurumi was 99.99999％.」%K%P
 0x988
 いづみ「だけどね？　……誠くんは、知ってるかなぁ？%N私とくるみの父親は、遺伝子工学の博士なのよ……」%K%P
 Izumi「...」%K%P
 0x994
 誠「ええ……。くるみに、聞きました。世界的な権威でもある、あの守野博士が父親だって……」%K%P
-Makoto「However... Makoto-kun, did you know this? Me and%NKurumi's father is a genetic engineering expert...」%K%P
+Makoto「However... Makoto-kun, did you know this? Me and Kurumi's father is a genetic engineering expert...」%K%P
 0x9A0
 ──と、オレはここではたと気づいた！%K%P
-Yes... I heard about it from Kurumi. Your father, Dr. Morino,%Nis also the world famous authority on the subject...%K%P
+Yes... I heard about it from Kurumi. Your father, Dr. Morino, is also the world famous authority on the subject...%K%P
 0x9AC
 誠「ま、まさか……。じゃあ守野博士が、ＤＮＡの鑑定結果を改ざんしたと！？」%K%P
 Makoto「―And just then, it hits me!」%K%P
 0x9B8
 いづみ「…………………………可能性がないとは……言い切れないの……」%K%P
-Izumi「D-Don't tell me... Are you saying that Dr. Morino falsified%Nthe results of the DNA test!?」%K%P
+Izumi「D-Don't tell me... Are you saying that Dr. Morino falsified the results of the DNA test!?」%K%P
 0x9C4
 誠「でも鑑定自体は、守野博士が直接やったわけじゃないんでしょ！？」%K%P
-Makoto「... I can't say for certain... that the possibility doesn't%Nexist...」%K%P
+Makoto「... I can't say for certain... that the possibility doesn't exist...」%K%P
 0x9D0
 誠「利害関係に関るから、法的な鑑定は、他の中立的な研究者が行なうことになってる筈だ！」%K%P
-Makoto「But there's no way that Dr. Morino performed the test%Nhimself, right!?」%K%P
+Makoto「But there's no way that Dr. Morino performed the test himself, right!?」%K%P
 0x9DC
 いづみ「うん。確かにその通りよ」%K%P
-Izumi「Because his interests would have easily influenced him,%Nthe legal DNA test would have been conducted by some%Nother, neutral researcher!」%K%P
+Izumi「Because his interests would have easily influenced him, the legal DNA test would have been conducted by some other, neutral researcher!」%K%P
 0x9E8
 いづみ「だけど、父ほどの権威があれば、法的な鑑定をした研究者に何らかの圧力をかけるなんて、たやすいことだから……」%K%P
 Izumi「Yes. You're certainly right.」%K%P
 0x9F4
 誠「……」%K%P
-Makoto「But my father has a lot of influence, so it would have%Nbeen easy for him to put some kind of pressure on the%Nresearcher who conducted the legal DNA test...」%K%P
+Makoto「But my father has a lot of influence, so it would have been easy for him to put some kind of pressure on the researcher who conducted the legal DNA test...」%K%P
 0xA00
 いづみ「自分の最愛の娘を取り戻す為なら、手段を選ばない。……そういう人なのよ、父は……」%K%P
 Izumi「...」%K%P
 0xA0C
 誠「あかの他人であるどっかの赤ん坊を……自分の実の娘であるかのように偽った……。そう仕向けた……」%K%P
-Makoto「'If it meant getting my beloved daughter back, I would%Nuse whatever means necessary...' That's the kind of%Nperson my father is...」%K%P
+Makoto「'If it meant getting my beloved daughter back, I would use whatever means necessary...' That's the kind of person my father is...」%K%P
 0xA18
 いづみ「……どちらも完全に言い切ることはできないんだけど……」%K%P
-Izumi「Even if it was a completely different baby... he would%Npretend that it was his real daughter... That's how he%Nhandled it...」%K%P
+Izumi「Even if it was a completely different baby... he would pretend that it was his real daughter... That's how he handled it...」%K%P
 0xA24
 いづみ「あの鑑定結果は真実なのか……？　それとも、裏で父が動いていたのか……？」%K%P
-Izumi「... Either way, this isn't something I can declare with%Ncomplete confidence...」%K%P
+Izumi「... Either way, this isn't something I can declare with complete confidence...」%K%P
 0xA30
 ……これで、いづみさんが『くるみのことを本当の妹ではないかもしれない』と思っている理由はわかった。%K%P
-Were those test results the truth..? Or were they the%Nresult of my father's secret influence...?%K%P
+Were those test results the truth..? Or were they the result of my father's secret influence...?%K%P
 0xA3C
 この話の核心は、守野博士がどうこうという所にあるわけではなく『くるみが３年間全く成長していなかった』という所にこそ存在するのだ。%K%P
-... With this, I now understand that this is the reason why%NIzumi-san thinks Kurumi might not be her real sister.%K%P
+... With this, I now understand that this is the reason why Izumi-san thinks Kurumi might not be her real sister.%K%P
 0xA48
 もし仮に、発見されたくるみが３歳児の姿へと成長を遂げていたとしたら、いづみさんだって誰だって、最初っから疑念など抱かなかった筈だ。%K%P
-Still, the real problem isn't Dr. Morino's involvement, but%Nrather the fact that Kurumi didn't age at all in three years.%K%P
+Still, the real problem isn't Dr. Morino's involvement, but rather the fact that Kurumi didn't age at all in three years.%K%P
 0xA54
 ──空白の３年間。%K%P
-For argument's sake, let's say that Kurumi had aged%Nthree years when she was found. Then Izumi-san and%Neveryone else wouldn't have had any doubts to begin%Nwith.%K%P
+For argument's sake, let's say that Kurumi had aged three years when she was found. Then Izumi-san and everyone else wouldn't have had any doubts to begin with.%K%P
 0xA60
 その謎を解明することができれば、おのずと真相は見えてくるだろう……。%K%P
 ―A three year blank.%K%P
 0xA6C
 いづみ「誠くん……。でも、誤解しないでね？」%K%P
-Izumi「If I can clear up that mystery, then naturally, I'll probably%Nbe able to figure out the truth...」%K%P
+Izumi「If I can clear up that mystery, then naturally, I'll probably be able to figure out the truth...」%K%P
 0xA78
 誠「？」%K%P
 Makoto「Makoto-kun... But don't misunderstand me, okay?」%K%P
@@ -552,19 +552,19 @@ Makoto「Makoto-kun... But don't misunderstand me, okay?」%K%P
 Izumi「?」%K%P
 0xA90
 いづみ「血が繋がっていようといまいと、くるみは私の本当の……妹よ」%K%P
-Izumi「Despite everything I've said, it has never lessened my%Nlove for Kurumi one bit.」%K%P
+Izumi「Despite everything I've said, it has never lessened my love for Kurumi one bit.」%K%P
 0xA9C
 誠「わかってますよ、いづみさん……」%K%P
-Makoto「Even if we're not blood related, Kurumi is my real... little%Nsister.」%K%P
+Makoto「Even if we're not blood related, Kurumi is my real... little sister.」%K%P
 0xAA8
 いづみ「私が心配なのは……くるみ自身のことなの」%K%P
 Izumi「I know, Izumi-san...」%K%P
 0xAB4
 いづみ「もしもくるみがそのことを知ったら……。私を問いつめるようなことが将来起こったら……」%K%P
-Izumi「The one I'm worried about... has always been Kurumi%Nherself.」%K%P
+Izumi「The one I'm worried about... has always been Kurumi herself.」%K%P
 0xAC0
 いづみ「私は何て言えばいいのか…………わからない」%K%P
-Izumi「If Kurumi were ever to learn this... If she started pressing%Nme with questions in the future...」%K%P
+Izumi「If Kurumi were ever to learn this... If she started pressing me with questions in the future...」%K%P
 0xACC
 誠「……」%K%P
 Makoto「Then I wouldn't know... what I should say.」%K%P
@@ -582,16 +582,16 @@ Makoto「Was that 'Shiki no Mori Shrine'...」%K%P
 Izumi「!?」%K%P
 0xB08
 いづみ「何かの拍子で、事実がバレてしまうのが怖かったから……」%K%P
-Izumi「That's the reason why I don't want Kurumi approaching%Nthat shrine...」%K%P
+Izumi「That's the reason why I don't want Kurumi approaching that shrine...」%K%P
 0xB14
 ……………………………………。%K%N
-Because I'm scared that at any moment, the truth will slip%Nout...%K%N
+Because I'm scared that at any moment, the truth will slip out...%K%N
 0xB20
 神社、誘拐、実の妹ではないかもしれないという疑問。%K%N
 ...%K%N
 0xB2C
 これで、全ての点が……繋がった……。%K%P
-The shrine, the kidnapping, and the fact that Kurumi might%Nnot be Izumi-san's real sister.%K%P
+The shrine, the kidnapping, and the fact that Kurumi might not be Izumi-san's real sister.%K%P
 0xBB0
 誠「いづみさん……？」%K%P
 Makoto「With this, all the dots... have been connected...」%K%P
@@ -600,13 +600,13 @@ Makoto「With this, all the dots... have been connected...」%K%P
 Izumi-san...?%K%P
 0xBC8
 誠「その誘拐犯って……結局、捕まったんですか？」%K%P
-Makoto「At the end, I casually think to ask her one last simple%Nquestion.」%K%P
+Makoto「At the end, I casually think to ask her one last simple question.」%K%P
 0xBD4
 いづみ「ええ……。でも捕まったって言うより、見つかったって言った方がいいのかもしれないわね……」%K%P
 Izumi「About Kurumi's kidnapper... was he caught in the end?」%K%P
 0xBE0
 誠「？」%K%P
-Makoto「Yes... but rather than 'caught', 'found' might be a better%Nword for it...」%K%P
+Makoto「Yes... but rather than 'caught', 'found' might be a better word for it...」%K%P
 0xBEC
 いづみ「その犯人は、死んでしまってたから……」%K%P
 Izumi「?」%K%P
@@ -624,19 +624,19 @@ Makoto「He was pinned under a collapsed building...」%K%P
 Izumi「A collapsed... building...?」%K%P
 0xC28
 誠「ええっ！？」%K%P
-Makoto「I don't know if it was some kind of fate, but he was also%Nfound at the 'Shiki no Mori Shrine'... seven days after%NKurumi was kidnapped.」%K%P
+Makoto「I don't know if it was some kind of fate, but he was also found at the 'Shiki no Mori Shrine'... seven days after Kurumi was kidnapped.」%K%P
 0xC34
 いづみ「今から２１年前も、この島には地震が多発してたの」%K%P
 Izumi「What!?」%K%P
 0xC40
 いづみ「その揺れで神社が倒壊して……」%K%P
-Izumi「21 years ago, there were a lot of earthquakes on this%Nisland.」%K%P
+Izumi「21 years ago, there were a lot of earthquakes on this island.」%K%P
 0xC4C
 いづみ「たぶん指名手配されて、逃げる場所もなくなって……それであの神社に隠れてたんだと思う……」%K%P
 Izumi「Those tremors destroyed the shrine...」%K%P
 0xC58
 誠「そのとき……くるみは？」%K%P
-Makoto「After the bounty was placed on the kidnapper, he%Nprobably had nowhere to run... so he hid in that shrine...」%K%P
+Makoto「After the bounty was placed on the kidnapper, he probably had nowhere to run... so he hid in that shrine...」%K%P
 0xC64
 いづみさんはゆっくりと首を振りながら、こう言った。%K%P
 Then... was Kurumi also-?%K%P
@@ -645,7 +645,7 @@ Then... was Kurumi also-?%K%P
 Izumi「Izumi-san slowly shakes her head.」%K%P
 0xC7C
 誠「見つからなかった……。そこにくるみはいなかった……」%K%P
-Makoto「It seems like they searched every nook and cranny of%Nthe collapsed building, but...」%K%P
+Makoto「It seems like they searched every nook and cranny of the collapsed building, but...」%K%P
 0xC88
 いづみ「ええ……」%K%P
 Izumi「They couldn't find her... Kurumi wasn't there...」%K%P
@@ -657,7 +657,7 @@ Izumi「Yes...」%K%P
 Izumi「Before long, the collapsed shrine was rebuilt...」%K%P
 0xCAC
 誠「それで、くるみが発見されたってことか……」%K%P
-Makoto「Then, three years after the shrine was destroyed―a%Ntourist who was passing by the area by pure chance%Nheard a baby crying inside the shrine...」%K%P
+Makoto「Then, three years after the shrine was destroyed―a tourist who was passing by the area by pure chance heard a baby crying inside the shrine...」%K%P
 0xCB8
 ──ん？？？%K%N待てよ……。%K%P
 And that's when Kurumi was found.%K%P
@@ -666,7 +666,7 @@ And that's when Kurumi was found.%K%P
 ―Huh??? Wait...%K%P
 0xCD0
 ３年後変わらぬ姿で……。%K%P
-The shrine... An earthquake... The destruction of the%Nshrine...%K%P
+The shrine... An earthquake... The destruction of the shrine...%K%P
 0xCDC
 それって、もしかして……。%K%N──タイムスリップじゃないのか！？%K%P
 Not aging for three years...%K%P
@@ -675,37 +675,37 @@ Not aging for three years...%K%P
 Could that have been... ―Time travel!?%K%P
 0xCF4
 あり得ない話じゃない！%K%P
-In my case, I was sent to the past, but Kurumi was sent%Nthree years into the future...%K%P
+In my case, I was sent to the past, but Kurumi was sent three years into the future...%K%P
 0xD00
 いや、普通に考えれば、そんな荒唐無稽な出来事なんて、想像するのも馬鹿馬鹿しいけど……%K%P
 It's not impossible!%K%P
 0xD0C
 ……だけど、オレは現実に、この奇妙な世界を経験しているんだ。%K%P
-No, if you thought about it normally, then it would be%Nridiculous to even imagine such an absurd event...%K%P
+No, if you thought about it normally, then it would be ridiculous to even imagine such an absurd event...%K%P
 0xD18
 オレ自身が、タイムスリップという現象が存在することの確かな証しなんだ！%K%P
 ... But I'm really experiencing this strange world.%K%P
 0xD24
 それに……。%K%Nそれに、もしこの仮説が正しいとすれば、くるみの『傷』のことも説明することができる。%K%P
-I'm living proof that the phenomenon known as time travel%Nexists!%K%P
+I'm living proof that the phenomenon known as time travel exists!%K%P
 0xD30
 つまりこういうことだ。%K%P
-Furthermore... Furthermore, if my hypothesis is correct,%Nthen I can also explain Kurumi's scar.%K%P
+Furthermore... Furthermore, if my hypothesis is correct, then I can also explain Kurumi's scar.%K%P
 0xD3C
 くるみは神社の倒壊事故の直前、その誘拐犯と一緒にいた。%K%P
 In other words, it's like this:%K%P
 0xD48
 だが何らかの原因によって『倒壊の直後に』くるみだけがタイムスリップした。そう、３年後の未来へと……。%K%P
-Just before the shrine was destroyed, Kurumi was in%Nthere with the kidnapper.%K%P
+Just before the shrine was destroyed, Kurumi was in there with the kidnapper.%K%P
 0xD54
 倒壊の直後──それで、その時の事故のせいで、背中に傷を負ってしまったのだ。%K%P
-But via some kind of unknown source, 「immediately after%Nthe shrine was destroyed」, only Kurumi time traveled%Nthree years into the future...%K%P
+But via some kind of unknown source, 「immediately after the shrine was destroyed」, only Kurumi time traveled three years into the future...%K%P
 0xD60
 ……これが正しいかどうか、それはすぐにでも解き明かすことができる！%K%P
-Immediately after it was destroyed... ―therefore, she%Ngot injured on her back due to debris that fell during%Nthe destruction of the shrine.%K%P
+Immediately after it was destroyed... ―therefore, she got injured on her back due to debris that fell during the destruction of the shrine.%K%P
 0xD6C
 いづみさんに聞けばいいのだ！%K%P
-... If this is right, then this means that I can explain%Neverything!%K%P
+... If this is right, then this means that I can explain everything!%K%P
 0xD78
 誠「いづみさん！？」%K%P
 Makoto「I should ask Izumi-san!」%K%P
@@ -738,7 +738,7 @@ H-How did you... know that?%K%P
 Izumi「As I thought...」%K%P
 0xDF8
 いづみ「ねえ、どうして？　どうして、誠くん……」%K%P
-Izumi「Th-That's right... It seems she was really bleeding badly...%NThat's why, right after she was found, she was%Nimmediately taken to the clinic...」%K%P
+Izumi「Th-That's right... It seems she was really bleeding badly... That's why, right after she was found, she was immediately taken to the clinic...」%K%P
 0xE04
 誠「いづみさん……。これでわかりましたよ……」%K%P
 Makoto「Hey, how? How did you know...?」%K%P
@@ -750,7 +750,7 @@ Izumi「Izumi-san... With this, I now understand...」%K%P
 Makoto「Huh???」%K%P
 0xE28
 誠「オレが自信を持って、保証します！」%K%P
-Makoto「Kurumi is your real sister! You two are true blood related%Nsisters!」%K%P
+Makoto「Kurumi is your real sister! You two are true blood related sisters!」%K%P
 0xE34
 いづみ「……どういうこと？」%K%P
 Izumi「I can say with confidence that I'm right!」%K%P
@@ -768,13 +768,13 @@ Huh!? W-Wait a minute, Makoto-kun!!%K%N
 I managed to escape, but...%K%P
 0xEE8
 いや……。%K%N
-Would it have been for the best if I had properly%Nexplained it to Izumi-san?%K%N
+Would it have been for the best if I had properly explained it to Izumi-san?%K%N
 0xEF4
 だけどタイムスリップなんて、きっと信じてもらえないだろうし……。%K%P
-No... There's no way that she'd believe in the time%Ntraveling...%K%P
+No... There's no way that she'd believe in the time traveling...%K%P
 0xF00
 それに、くるみがあんなことになったなんて、口が裂けても言えないしな……。%K%P
-Besides, no matter what, I'd be unwilling to tell her that%Nsuch a thing happened to Kurumi...%K%P
+Besides, no matter what, I'd be unwilling to tell her that such a thing happened to Kurumi...%K%P
 0xF0C
 商店街へと向かう道のり……。%K%P
 I head down the road towards the shopping district...%K%P
@@ -783,28 +783,28 @@ I head down the road towards the shopping district...%K%P
 My mind is calm.%K%P
 0xF24
 胸に渦巻いていたモヤモヤが、きれいさっぱりと消え去ったせいだろう。%K%P
-It's probably because the uneasiness that's been%Nconsuming my heart has been completely erased.%K%P
+It's probably because the uneasiness that's been consuming my heart has been completely erased.%K%P
 0xF30
 結果的には、くるみといづみさんが実の姉妹だということも判明したわけで……。%K%P
-That's because I've confirmed that Kurumi and Izumi-san%Nare true sisters...%K%P
+That's because I've confirmed that Kurumi and Izumi-san are true sisters...%K%P
 0xF3C
 オレの足取りは嘘みたいに軽かった。%K%P
-My legs are moving faster than ever before, as if they%Nwere previously held down by some kind of weight.%K%P
+My legs are moving faster than ever before, as if they were previously held down by some kind of weight.%K%P
 0xFD8
 その後……。%K%N
 After that...%K%N
 0xFE4
 バーベキューは大いに盛り上がり、飲めや唄えやの大騒ぎとなった。%K%P
-We go to the barbecue, and spend several hours just%Ndrinking and creating a large uproar...%K%P
+We go to the barbecue, and spend several hours just drinking and creating a large uproar...%K%P
 0xFF0
 優夏は（かわいそうなことに）またもやビールをかけられたが、しかし沙紀と遙のケンカは起きなかった。%K%P
-Unfortunately, Yuka got drunk again, but Saki and%NHaruka's fight never occurred this time.%K%P
+Unfortunately, Yuka got drunk again, but Saki and Haruka's fight never occurred this time.%K%P
 0xFFC
 考えてみれば、それは当たり前のことだった。この歴史の中では、沙紀と遙はとても仲が良いからだ。%K%P
-Thinking about it, it's only natural. In this history, Saki and%NHaruka are getting along just fine.%K%P
+Thinking about it, it's only natural. In this history, Saki and Haruka are getting along just fine.%K%P
 0x1008
 そして、これまた当然のように、くるみの失踪騒ぎも発生しなかった。%K%N
-Of course, Kurumi's disappearance and the uproar that%Nsurrounded it don't happen this time, either.%K%N
+Of course, Kurumi's disappearance and the uproar that surrounded it don't happen this time, either.%K%N
 0x1014
 ──これから発生するかもしれない？？？%K%N
 ―But maybe she'll go missing later???%K%N
@@ -813,22 +813,22 @@ Of course, Kurumi's disappearance and the uproar that%Nsurrounded it don't happe
 No, that definitely won't happen.%K%P
 0x102C
 何故なら今、くるみはオレの目の前で、すやすやと寝息をたてているからだ。%K%P
-That's because right now, Kurumi is sleeping soundly%Nbefore my eyes.%K%P
+That's because right now, Kurumi is sleeping soundly before my eyes.%K%P
 0x1038
 バーベキューの後、オレ達全員はロッジに集まってセブンブリッジ大会を開催したのだった。%K%P
-After the barbecue, we all gathered in the lodge and%Nheld a seven bridge tournament.%K%P
+After the barbecue, we all gathered in the lodge and held a seven bridge tournament.%K%P
 0x1044
 閉幕したのはつい３０分程前で、気がつくと、いつの間にかくるみはオレのベッドを占領していた。%K%P
-It only ended about thirty minutes ago, and when I came%Nto my senses, Kurumi had taken possession of my bed%Nwithout me noticing it.%K%P
+It only ended about thirty minutes ago, and when I came to my senses, Kurumi had taken possession of my bed without me noticing it.%K%P
 0x1050
 ルナビーチの屋根の上で、くるみが『傷』の話をする時間はもうすぐだ。%K%P
-It's almost the time when I met Kurumi on the roof of%NLunabeach last time and she talked about her 「scar」.%K%P
+It's almost the time when I met Kurumi on the roof of Lunabeach last time and she talked about her 「scar」.%K%P
 0x105C
 けれど、このまま寝かしておいてやろう。%K%P
 But I'll just let her sleep like this.%K%P
 0x1068
 あの『先輩』とやらの腹立たしい話は、聞きたくなかったし……。%W%W%W%K%P
-I don't want to hear that infuriating story about that%N「senpai」 of hers...%W%W%W%K%P
+I don't want to hear that infuriating story about that 「senpai」 of hers...%W%W%W%K%P
 0x1074
 大丈夫だ。%K%P
 It'll be fine.%K%P
@@ -843,7 +843,7 @@ I still remember everything she told me that night...%W%W%W%K%P
 Well then, guess it's about time I went to sleep as well...%K%N
 0x10A4
 と言っても『床の上で』なのだが……。%K%P
-Though I say that, I'm actually sleeping on the floor%Ntonight...%K%P
+Though I say that, I'm actually sleeping on the floor tonight...%K%P
 0x10B0
 誠「明日はてんこもりの１日だな……くるみ？」%K%P
 Makoto「Tomorrow will be an 'ultra good day'... Right, Kurumi?」%K%P

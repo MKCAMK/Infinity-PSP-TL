@@ -18,7 +18,7 @@ Is this... Haruka's voice?%K%P
 Haruka「Makoto! Makoto!」%K%P
 0x88
 （うぅ……もう少し寝かせてくれ。%N昨夜は寝入ったのが遅いんだよ）%K%P
-(Ugh... let me sleep a little longer. I went to sleep late last%Nnight.)%K%P
+(Ugh... let me sleep a little longer. I went to sleep late last night.)%K%P
 0x94
 オレは寝返りを打って抵抗する。%K%P
 As I try to turn over in my sleep, I am met with resistance.%K%P
@@ -27,7 +27,7 @@ As I try to turn over in my sleep, I am met with resistance.%K%P
 Haruka「Hey, Makoto! Makoto!」%K%P
 0xAC
 遙がオレの肩をつかんでグイグイと揺すった。%K%P
-Haruka grabs my shoulders and rocks them back and%Nforth.%K%P
+Haruka grabs my shoulders and rocks them back and forth.%K%P
 0xB8
 わ、わかった……。%K%N
 I-I get it...%K%N
@@ -39,7 +39,7 @@ I'm up, I'm up, so...%K%P
 Wh-Whoa!%K%P
 0xF4
 上体を起こして、目を開ければ、そこには遙の……%W%W%N顔！？%K%P
-When I raise my upper body and open my eyes, I see,%Nmere inches away from me, Haruka's... face!?%K%P
+When I raise my upper body and open my eyes, I see, mere inches away from me, Haruka's... face!?%K%P
 0x100
 遙「キャッ……！」%K%P
 Haruka「Kyaa...!」%K%P
@@ -63,19 +63,19 @@ Makoto「... Wh-What were you doing, Haruka?」%K%P
 Haruka「Makoto... you were having trouble waking up, so...」%K%P
 0x3D4
 誠「じゃなくて、何で目を開いたら、お前の顔が%Nあるんだ？」%K%P
-Makoto「That's not it, I'm asking why your face was right in front of%Nmine when I opened my eyes.」%K%P
+Makoto「That's not it, I'm asking why your face was right in front of mine when I opened my eyes.」%K%P
 0x3E0
 遙「『眠り姫』……読んだことある？」%K%P
 Haruka「Have you ever read... 'Sleeping Beauty'?」%K%P
 0x3EC
 誠「ま、まあ……ひと通りは……。%K%N確かグリム童話だろう？」%K%P
-Makoto「W-well... a little... It's that fairytale by the Grimm Brothers,%Nright?」%K%P
+Makoto「W-well... a little... It's that fairytale by the Grimm Brothers, right?」%K%P
 0x3F8
 読んだことはなかったが、とりあえず絵本で%N見たことがある。かなりうろ覚えだが……。%K%P
-I've never read it before, but I do have a very vague%Nmemory of seeing it in a picture book once...%K%P
+I've never read it before, but I do have a very vague memory of seeing it in a picture book once...%K%P
 0x404
 遙「グリムは『いばら姫』──『眠り姫』はぺロー」%K%P
-Haruka「The Grimm Brothers' story is 'Briar Rose'―'Sleeping%NBeauty' was written by Perrault.」%K%P
+Haruka「The Grimm Brothers' story is 'Briar Rose'―'Sleeping Beauty' was written by Perrault.」%K%P
 0x410
 誠「へ？%W%W　あ、そうなのか？」%K%P
 Makoto「Huh? Oh, really?」%K%P
@@ -87,10 +87,10 @@ Haruka「They're the same story, however.」%K%P
 I'm crushed. If that's the case, then don't tell me that...%K%P
 0x434
 遙「何百年もの間、ずっと眠っているお姫様がいたでしょ？」%K%P
-Haruka「There was this princess who slept for hundreds of%Nyears, right?」%K%P
+Haruka「There was this princess who slept for hundreds of years, right?」%K%P
 0x440
 誠「ああ、そうだった。%Kそれで、目覚めさせるために%N王子様がやってきて、お姫様に……」%K%P
-Makoto「Yeah, that's right. And then, a prince finally came to the%Nprincess in order to wake her up, and then...」%K%P
+Makoto「Yeah, that's right. And then, a prince finally came to the princess in order to wake her up, and then...」%K%P
 0x44C
 そこまで言って、オレはドキリとした。%K%P
 When I get to that point, I stop dead in my tracks.%K%P
@@ -102,7 +102,7 @@ H-Hold on! Then that means...%K%P
 Haruka「...」%K%P
 0x470
 （遙……『そこのところ、どうでもいいんだけど』って言わないのか……）%K%P
-(Haruka... she didn't say 「That part doesn't matter,」 this%Ntime...)%K%P
+(Haruka... she didn't say 「That part doesn't matter,」 this time...)%K%P
 0x47C
 …………………………………………。%K%P
 ...%K%P
@@ -117,7 +117,7 @@ Haruka tugs at my arm as if nothing had happened.%K%P
 Makoto「G-Go... Where?」%K%P
 0x4B4
 オレは、高鳴る胸の鼓動を悟られぬよう、ことさら%N平静を装って遙に尋ねる。%K%P
-I try my best to calmly ask this, even though my heart is%Nracing.%K%P
+I try my best to calmly ask this, even though my heart is racing.%K%P
 0x4C0
 遙「釣り」%K%P
 Haruka「Fishing.」%K%P
@@ -129,7 +129,7 @@ Makoto「Fishing?」%K%P
 Haruka nods firmly as if it were natural.%K%P
 0x4E4
 昨日に引き続いて、また釣りか……。%K%N
-This will make the third day in a row we've gone fishing%Ntogether...%K%N
+This will make the third day in a row we've gone fishing together...%K%N
 0x4F0
 よっぽど釣りにハマってしまったらしいな、遙は……。%K%P
 It seems Haruka's gotten really hooked on it...%K%P
@@ -138,7 +138,7 @@ It seems Haruka's gotten really hooked on it...%K%P
 Haruka「Hurry, let's go.」%K%P
 0x508
 遙にとって、オレはもう行くものと%N決まっているようだ。%K%N
-It seems that to Haruka, it's already been decided that%NI'm to go fishing with her.%K%N
+It seems that to Haruka, it's already been decided that I'm to go fishing with her.%K%N
 0x514
 まだ何も言っていないのに……。%K%N
 Even though I still haven't said anything...%K%N
@@ -165,7 +165,7 @@ Makoto「... I'll be naked, so, uh...」%K%P
 Haruka「R-Right...」%K%P
 0x57C
 ようやく気づいたように、目をそらしてうつむいた。%K%N
-Having finally realized it, she quickly averts her eyes%Nand gazes at the floor.%K%N
+Having finally realized it, she quickly averts her eyes and gazes at the floor.%K%N
 0x588
 頬がほんの少し赤らんでいた。%K%P
 A slight blush rises to her cheeks.%K%P
@@ -189,7 +189,7 @@ There's something I have to tell her.%K%P
 Haruka「... What?」%K%P
 0x5EC
 誠「『眠り姫』では、お姫様の方から王子様に%Nキスしちゃダメなんだ」%K%P
-Makoto「It was the prince that kissed the princess in 'Sleeping%NBeauty', not the other way around.」%K%P
+Makoto「It was the prince that kissed the princess in 'Sleeping Beauty', not the other way around.」%K%P
 0x5F8
 遙「…………」%K%P
 Haruka「...」%K%P

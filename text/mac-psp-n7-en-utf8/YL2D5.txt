@@ -3,31 +3,31 @@ text area offset and size:
 0x3332
 0x178
 あれからオレ達は、バーベキューでの陽気な雰囲気を引きずったまま、ロッジへと戻って来た。%K%P
-After that, we left the barbecue in a cheerful mood, and%Nreturned to the lodge.%K%P
+After that, we left the barbecue in a cheerful mood, and returned to the lodge.%K%P
 0x184
 姫ヶ浜でお開きというのはあまりにも名残惜しかったので……%K%P
-We were reluctant to break up at Princess Beach and%Nend the party...%K%P
+We were reluctant to break up at Princess Beach and end the party...%K%P
 0x190
 いづみ「じゃあ、みんなでロッジに行って、トランプでもやりましょうか？」%K%P
-Izumi「Well then, why don't we all go to the lodge and play%Ncards?」%K%P
+Izumi「Well then, why don't we all go to the lodge and play cards?」%K%P
 0x19C
 ……という話になったのだ。%K%P
 ... So we decided to accept Izumi-san's proposal.%K%P
 0x1A8
 トランプ（セブンブリッジ）は予想以上に盛り上がり、結局みんなが疲れ果てて寝静まったのは、夜中の２時を回った頃だった……。%K%P
-We had played so many rounds of seven bridge that we%Nhad lost track of time. In the end, everyone got tired and%Nfell asleep past two in the morning...%K%P
+We had played so many rounds of seven bridge that we had lost track of time. In the end, everyone got tired and fell asleep past two in the morning...%K%P
 0x1B4
 ……いつものように、遙は自室で、億彦はロフトに上がって眠りについている。%K%P
-As usual, Haruka's in her own room, and Okuhiko is%Nsleeping up in the loft.%K%P
+As usual, Haruka's in her own room, and Okuhiko is sleeping up in the loft.%K%P
 0x1C0
 沙紀は、セブンブリッジ終了後、眠たそうにまぶたをこすりながら、ひとり別荘へと帰って行った。%K%P
-After the game was over, Saki returned to her summer%Nhouse alone while rubbing her sleepy eyelids.%K%P
+After the game was over, Saki returned to her summer house alone while rubbing her sleepy eyelids.%K%P
 0x1CC
 本当は、みんなと一緒にロッジに泊りたかったようなのだが、何しろ、もう寝る場所が無かったのだ。%K%P
-Truth be told, it seems she wanted to stay overnight at%Nthe lodge with everyone, but unfortunately, there wasn't%Nenough room for her to sleep.%K%P
+Truth be told, it seems she wanted to stay overnight at the lodge with everyone, but unfortunately, there wasn't enough room for her to sleep.%K%P
 0x1D8
 リビングのソファはいづみさんが使っているし、いつの間にか、オレのベッドはくるみに占領されていた。%K%P
-Izumi-san is using the living room sofa, and Kurumi took%Nmy bed when I wasn't paying attention.%K%P
+Izumi-san is using the living room sofa, and Kurumi took my bed when I wasn't paying attention.%K%P
 0x1E4
 だから、そもそもオレの寝る場所さえも、もう無いのだ。%K%P
 So in the first place, even I don't have a place to sleep.%K%P
@@ -42,10 +42,10 @@ Oh, and as for Yuka...%K%P
 She's next to me right now.%K%P
 0x284
 オレ達は部屋の壁に背中を預け、床にペタンと座っている。%K%P
-We're sitting on the floor of my room, our backs leaning%Nagainst the wall.%K%P
+We're sitting on the floor of my room, our backs leaning against the wall.%K%P
 0x290
 目の前には、すやすや…すやすやと…寝息をたてているくるみの姿。%K%P
-Kurumi is sleeping soundly in front of us, breathing%Nquietly.%K%P
+Kurumi is sleeping soundly in front of us, breathing quietly.%K%P
 0x29C
 その安らかな寝顔を、オレと優夏はやさしく見つめていた。%K%P
 We're gazing at her peaceful sleeping face.%K%P
@@ -54,7 +54,7 @@ We're gazing at her peaceful sleeping face.%K%P
 Yuka「But aren't you glad?」%K%P
 0x2B4
 優夏はくるみの顔から視線をそらさずささやいた。%K%P
-Yuka whispers this without taking an eye off of Kurumi's%Nface.%K%P
+Yuka whispers this without taking an eye off of Kurumi's face.%K%P
 0x2C0
 誠「何が？」%K%P
 Makoto「About what?」%K%P
@@ -66,19 +66,19 @@ Yuka「About Kurumi-chan!」%K%P
 Yuka「She played cards with us the whole time.」%K%P
 0x2E4
 優夏「わざわざ見張ったりしなくてすんだじゃない？」%K%P
-Yuka「We didn't have to specifically watch out for her that way,%Nright?」%K%P
+Yuka「We didn't have to specifically watch out for her that way, right?」%K%P
 0x2F0
 誠「まあな……」%K%P
 Makoto「Well, yeah...」%K%P
 0x2FC
 優夏「この寝顔からすると、きっと朝まで起きないだろうし……」%K%P
-Yuka「Judging from her sleeping face, I'm sure she won't wake%Nup until morning...」%K%P
+Yuka「Judging from her sleeping face, I'm sure she won't wake up until morning...」%K%P
 0x308
 誠「ああ……」%K%P
 Makoto「Yeah...」%K%P
 0x314
 優夏「私達、もう２度と、あの神社に行くことはないかもね？」%K%P
-Yuka「And we haven't gone back to that shrine this whole time,%Nright?」%K%P
+Yuka「And we haven't gone back to that shrine this whole time, right?」%K%P
 0x320
 誠「そうだな……」%K%P
 Makoto「That's right...」%K%P
@@ -87,7 +87,7 @@ Makoto「That's right...」%K%P
 Yuka「Feels like a 'happily ever after' is coming our way.」%K%P
 0x338
 誠「おいおい……そりゃいくらなんでもまだ早すぎるだろ？」%K%P
-Makoto「Hey... say what you like, but don't you think it's too early%Nto feel that way?」%K%P
+Makoto「Hey... say what you like, but don't you think it's too early to feel that way?」%K%P
 0x344
 優夏「そう？」%K%P
 Yuka「Really?」%K%P
@@ -99,7 +99,7 @@ Makoto「Yeah...」%K%P
 Yuka「...」%K%P
 0x368
 誠「いちおう念の為、明日の夜は、オレと一緒にいてもらうからな？」%K%P
-Makoto「Just to be safe, why don't you stay with me tomorrow%Nnight?」%K%P
+Makoto「Just to be safe, why don't you stay with me tomorrow night?」%K%P
 0x37C
 優夏「信用……してないんだ……」%K%P
 Yuka「You don't... trust me...」%K%P
@@ -123,13 +123,13 @@ Even in the darkness, I can tell that Yuka's annoyed.%K%P
 Makoto「Just hold it right there...」%K%P
 0x3D8
 誠「信用しろって言ったって……だいたいおまえ、前の６日に約束破ってるんだぞ？」%K%P
-Makoto「How can you expect me to trust you when you were the%None who broke our promise on the last 6th in the first%Nplace?」%K%P
+Makoto「How can you expect me to trust you when you were the one who broke our promise on the last 6th in the first place?」%K%P
 0x3E4
 優夏「あれは……」%K%P
 Yuka「That was...」%K%P
 0x3F0
 誠「『２度とここには来ないから』……神社の前で、そう言ったのに……」%K%P
-Makoto「'Don't come here ever again'... even though you said that%Nin front of the shrine...」%K%P
+Makoto「'Don't come here ever again'... even though you said that in front of the shrine...」%K%P
 0x40C
 と、自分で言った言葉にはっとした。%K%P
 I am taken aback by my own words.%K%P
@@ -141,7 +141,7 @@ That's right! That's right, isn't it!?%K%P
 Why did I forget about it up until now?%K%P
 0x430
 全てがあまりにも上手い具合に運んでいて……それで浮かれ切って舞い上がって気づかなかったのだろうか？%K%P
-Was it because everything's been going so incredibly%Nwell... that I let myself get intoxicated with cheerfulness%Nand didn't realize I'd forgotten about it?%K%P
+Was it because everything's been going so incredibly well... that I let myself get intoxicated with cheerfulness and didn't realize I'd forgotten about it?%K%P
 0x43C
 こんなに根本的な事なのに……。%K%P
 Even though this was such a crucial element...%K%P
@@ -150,7 +150,7 @@ Even though this was such a crucial element...%K%P
 Even though this is the most important question...%K%P
 0x454
 １日の夜、眠りに落ちる前に心に引っかかった疑問は、まさしくこれだった！%K%P
-This was the question in my mind that was bugging me%Njust before I fell asleep on the night of the 1st!%K%P
+This was the question in my mind that was bugging me just before I fell asleep on the night of the 1st!%K%P
 0x460
 『何故、優夏は過去に戻りたかったのか！？』%K%P
 「Why did Yuka want to go back to the past!?」%K%P
@@ -231,7 +231,7 @@ Yuka quietly leaves the room.%K%P
 I follow right after her...%K%P
 0x650
 テラスへと続く短い階段の真ん中に、優夏は腰を下ろした。%K%P
-Yuka sits down in the center of the short staircase that%Nleads to the terrace.%K%P
+Yuka sits down in the center of the short staircase that leads to the terrace.%K%P
 0x65C
 オレも、その隣にゆっくりと座る。%K%P
 I sit down next to her.%K%P
@@ -240,7 +240,7 @@ I sit down next to her.%K%P
 The biting cold night wind nips at my ears.%K%P
 0x674
 その風に、のぼせたオレの頭は急激に冷やされた。%K%P
-That wind makes the blood that's rushed to my head%Nsuddenly cool down.%K%P
+That wind makes the blood that's rushed to my head suddenly cool down.%K%P
 0x680
 怒鳴ったりしたことを、少し後悔する……。%K%P
 I slightly regret yelling now...%K%P
@@ -255,10 +255,10 @@ This is the second time I've seen this miracle.%K%P
 This sparkling group... this tempest of stardust...%K%P
 0x6B8
 無数の光はオレの目の奥へと入り込んでぱちぱちと弾けるようだった。%K%P
-The countless stars shine brightly, as if they were%Nabout to burst.%K%P
+The countless stars shine brightly, as if they were about to burst.%K%P
 0x6C4
 心は、ぴーんと張った水面のように静まった……。%K%P
-My mind has calmed down, like the surface of water does%Nafter a ripple...%K%P
+My mind has calmed down, like the surface of water does after a ripple...%K%P
 0x704
 優夏は軽くくちびるをかんで、オレの方を見つめていた。%K%P
 Yuka purses her lips, and looks at me.%K%P
@@ -285,16 +285,16 @@ A soft voice that feels like it's touching my heart...%K%P
 Yuka「I realized it on the night of the 5th...」%K%P
 0x764
 優夏「誠と神社に行って……タイムスリップの話をして……」%K%P
-Yuka「You and I went to the shrine... and talked about time%Ntravel...」%K%P
+Yuka「You and I went to the shrine... and talked about time travel...」%K%P
 0x770
 優夏「その後、部屋に帰ってからも、ずっとそのことが頭を離れなかった……」%K%P
-Yuka「After that, even when I returned to my room, I couldn't get%Nit out of my head the whole time...」%K%P
+Yuka「After that, even when I returned to my room, I couldn't get it out of my head the whole time...」%K%P
 0x77C
 優夏「だけど……」%K%P
 Yuka「But...」%K%P
 0x788
 優夏「何度も何度も寝返りを打って……ようやくまどろみを覚えた頃……ふいに気づいたの……」%K%P
-Yuka「I turned in my bed countless times... and just when I%Nfinally felt like I was going to fall asleep... I suddenly%Nrealized it...」%K%P
+Yuka「I turned in my bed countless times... and just when I finally felt like I was going to fall asleep... I suddenly realized it...」%K%P
 0x794
 優夏「あの言葉の意味……」%K%P
 Yuka「The meaning of those words...」%K%P
@@ -303,13 +303,13 @@ Yuka「The meaning of those words...」%K%P
 Yuka「The meaning of the words... written on the talisman...」%K%P
 0x7AC
 『はるさめや　みさきのはてに　なりひびく　すずとともにや　ときはとかれん』%K%P
-(The spring rain/ At the end of the cape/ Together with/%NThe echoing bell/ Will free you from time.)%K%P
+(The spring rain/ At the end of the cape/ Together with/ The echoing bell/ Will free you from time.)%K%P
 0x7B8
 優夏「いつの間にか、外はどしゃ降りの雨だった……」%K%P
 Yuka「And before I knew it, it was pouring rain outside...」%K%P
 0x7C4
 優夏「私はポケットに入れた、冷たい鈴の感触を指先で確かめながら……岬の果てに向かったの……」%K%P
-Yuka「I headed for the end of the cape... while feeling the cold%Nsensation of the bell in my pocket with my fingertips...」%K%P
+Yuka「I headed for the end of the cape... while feeling the cold sensation of the bell in my pocket with my fingertips...」%K%P
 0x7D0
 優夏「そうすれば、きっと戻れると思ったから……」%K%P
 Yuka「I thought that if I did that, I'd surely return...」%K%P
@@ -363,22 +363,22 @@ Yuka「But that's already-」%K%P
 Makoto「Don't screw with me!」%K%P
 0x89C
 誠「じゃあオレ達は、オレは、おまえの勝手な想いの為に、今まで翻弄され続けてきたって言うのか！？」%K%P
-Makoto「Then you're telling me that the only reason we've, no, I've%Ncontinued to be toyed with like this is because of your%Nselfish emotions!?」%K%P
+Makoto「Then you're telling me that the only reason we've, no, I've continued to be toyed with like this is because of your selfish emotions!?」%K%P
 0x8A8
 優夏「…………」%K%P
 Yuka「...」%K%P
 0x8B4
 誠「この１０日間は……いや、１０年間か１００年間か知らないが……」%K%P
-Makoto「These past ten days... no, it could be ten years or a%Nhundred years for all I know...」%K%P
+Makoto「These past ten days... no, it could be ten years or a hundred years for all I know...」%K%P
 0x8C0
 誠「その間ずっと、そんな幼稚なバカバカしい想いに振り回されて、オレ達は生き続けてきたのかよ！」%K%P
-Makoto「We've been stuck like this that whole time because of%Nyou recklessly acting upon such ridiculous and childish%Nemotions!」%K%P
+Makoto「We've been stuck like this that whole time because of you recklessly acting upon such ridiculous and childish emotions!」%K%P
 0x8CC
 優夏「違うよ……」%K%P
 Yuka「You're wrong...」%K%P
 0x8D8
 誠「違う？　違うって！？　ならどこがどう違うのか言ってみろ！」%K%P
-Makoto「Wrong? WRONG!? Then why don't you try telling me what%Nthe fuck I'm wrong about then!?」%K%P
+Makoto「Wrong? WRONG!? Then why don't you try telling me what the fuck I'm wrong about then!?」%K%P
 0x8E4
 優夏「それは…………」%K%P
 Yuka「That's...」%K%P
@@ -423,7 +423,7 @@ At this point, I don't really even want to speak to Yuka.%K%P
 I don't need to.%K%P
 0x994
 息を吐き出すのさえも面倒で……。何も考えたくなかった……。%K%P
-It's getting harder to breathe... I don't want to think about%Nanything...%K%P
+It's getting harder to breathe... I don't want to think about anything...%K%P
 0x9A0
 オレはふらふらとよろめきながら階段をのぼった。%K%P
 I stagger as I climb up the stairs.%K%P
@@ -438,19 +438,19 @@ I hear her calling behind me.%K%P
 However, I don't want to look at her face...%K%P
 0xA28
 部屋に帰ると、床に転がってまぶたを閉じた。%K%P
-When I return to my room, I lie down on the floor and close%Nmy eyes.%K%P
+When I return to my room, I lie down on the floor and close my eyes.%K%P
 0xA34
 早く眠ってしまおう……。%K%P
 I want to hurry up and fall asleep...%K%P
 0xA40
 そのまま永久に目覚めなくてもかまわない。%K%P
-At this point, I wouldn't even care if I fell asleep for%Neternity.%K%P
+At this point, I wouldn't even care if I fell asleep for eternity.%K%P
 0xA4C
 とにかく一刻も早く、この不愉快な現実から逃れたかった……。%K%P
 All I want to do is run away from this messed up reality...%K%P
 0xA58
 パチンとスイッチを切るように、オレの意識は次の瞬間……途絶えた。%K%P
-As if someone flipped a switch, I drift off to sleep the%Nmoment my eyes shut...%K%P
+As if someone flipped a switch, I drift off to sleep the moment my eyes shut...%K%P
 0xAB0
 ？？「誠くん！　誠くん！」%K%P
 ???「Makoto-kun! Makoto-kun!」%K%P
@@ -501,10 +501,10 @@ Makoto「It has nothing to do with you, Saki!」%K%P
 Saki「Hee hee...」%K%P
 0xBA0
 沙紀「そうやって、すぐ自分だけで背負いこもうとするんだから……」%K%P
-Saki「It's because you're trying to carry everything on your%Nshoulders like that...」%K%P
+Saki「It's because you're trying to carry everything on your shoulders like that...」%K%P
 0xBAC
 沙紀「たまには、人に相談してみるっていうのも必要なことよ？」%K%P
-Saki「It's okay to talk to other people about your problems%Nsometimes.」%K%P
+Saki「It's okay to talk to other people about your problems sometimes.」%K%P
 0xBB8
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -513,7 +513,7 @@ Makoto「...」%K%P
 Saki「No comment again, huh...」%K%P
 0xBD8
 誠「なぁ……悪いけど……いま人と話せるような気分じゃないんだ……」%K%P
-Makoto「Hey... I'm sorry, but I'm not in the mood to talk to people%Nright now...」%K%P
+Makoto「Hey... I'm sorry, but I'm not in the mood to talk to people right now...」%K%P
 0xBE4
 誠「ひとりにしといてくれよ……頼むから……」%K%P
 Makoto「Leave me alone... please...」%K%P
@@ -534,10 +534,10 @@ Saki「It's as if you two have a lifelike resemblance.」%K%P
 (Is she... is she talking about that bastard again!?)%K%P
 0xC3C
 沙紀「確か、肝だめしの時にも言ったと思うけど……」%K%P
-Saki「I'm pretty sure I said this during the Test of Courage too,%Nbut...」%K%P
+Saki「I'm pretty sure I said this during the Test of Courage too, but...」%K%P
 0xC48
 沙紀「たまに、誠くんのふとした仕草とかを見ると、もしかしたらその男の子が……」%K
-Saki「Occasionally, at times when I see you act impulsively, it%Nfeels like you're just like that boy, if...」%K
+Saki「Occasionally, at times when I see you act impulsively, it feels like you're just like that boy, if...」%K
 0x1468
 そいつの話はやめろ！
 Stop talking about him!
@@ -564,7 +564,7 @@ Makoto「Get out...」%K%P
 Makoto「Get out... Saki...」%K%P
 0xD04
 オレはベッドに転がり込んで、布団をかぶり、耳を塞いだ。%K%P
-I roll into my bed, wrap myself in the covers, and plug my%Nears.%K%P
+I roll into my bed, wrap myself in the covers, and plug my ears.%K%P
 0xD10
 何も聞きたくない。%K%P
 I don't want to hear anything.%K%P
@@ -585,13 +585,13 @@ Saki「M-Makoto-kun...? Hey, Makoto-kun...!?」%K%P
 Her voice sounds distant.%K%P
 0xD58
 再び、オレは果てしない眠りの世界へと逃げ込んだ……。%K%P
-Once again, I take refuge in the everlasting world of%Nsleep...%K%P
+Once again, I take refuge in the everlasting world of sleep...%K%P
 0xD8C
 誠「…………」%K%P
 Makoto「...」%K%P
 0xD98
 沙紀「その男の子が、蘇ってきたんじゃないかって、思っちゃうときがあるの……」%K%P
-Saki「'If he were resurrected'... I find myself thinking that at%Ntimes.」%K%P
+Saki「'If he were resurrected'... I find myself thinking that at times.」%K%P
 0xDA4
 誠「………………蘇って！？」%K%P
 Makoto「... Resurrected!?」%K%P
@@ -615,10 +615,10 @@ Saki「...」%K%P
 Makoto「Saki!?」%K%P
 0xE08
 沙紀「……ああ〜ん、もうっ、だけど言っちゃったものはしょうがないわよね？」%K%P
-Saki「... Ah, geez! But I've already let it slip, so it can't be%Nhelped!」%K%P
+Saki「... Ah, geez! But I've already let it slip, so it can't be helped!」%K%P
 0xE14
 沙紀「その代わり……優夏には、絶対ナイショにしてね？」%K%P
-Saki「In exchange... you absolutely need to keep this a%Nsecret from Yuka.」%K%P
+Saki「In exchange... you absolutely need to keep this a secret from Yuka.」%K%P
 0xE28
 オレは静かにうなずいて見せた。%K%P
 I give a silent nod.%K%P
@@ -627,7 +627,7 @@ I give a silent nod.%K%P
 Saki stares off into space, hesitant about continuing.%K%P
 0xE50
 しかし……やがて何かを決意したように大きく息を吸い込んで、こうつぶやいた。%K%P
-However... before long, she takes a deep breath, as if%Nshe's made a decision, and mutters this.%K%P
+However... before long, she takes a deep breath, as if she's made a decision, and mutters this.%K%P
 0xE78
 沙紀「その男の子……」%K%P
 Saki「That boy...」%K%P
@@ -645,7 +645,7 @@ Saki「Yeah...」%K%P
 Saki「It was when we were in 9th grade... in June...」%K%P
 0xEB4
 沙紀「修学旅行の宿泊先の、ホテルで……」%K%P
-Saki「We were staying at a hotel while on a field trip, when all of%Nthe sudden...」%K%P
+Saki「We were staying at a hotel while on a field trip, when all of the sudden...」%K%P
 0xEC0
 誠「な、何で……？」%K%P
 Makoto「Wh-What...?」%K%P
@@ -657,25 +657,25 @@ Saki「... There was a fire...」%K%P
 Makoto「A fire...」%K%P
 0xEE4
 沙紀「火元は、本館３階の給湯室だった……」%K%P
-Saki「It started in the office kitchenette on the main building's%Nthird floor...」%K%P
+Saki「It started in the office kitchenette on the main building's third floor...」%K%P
 0xEF0
 沙紀「私達の班は、幸い別館の方に泊ってたから事無きを得たんだけど……」%K%P
-Saki「My group was fortunate enough to be staying towards%Nthe hotel's annex, so we managed to evacuate without%Nany problems, but...」%K%P
+Saki「My group was fortunate enough to be staying towards the hotel's annex, so we managed to evacuate without any problems, but...」%K%P
 0xEFC
 沙紀「確か……夜中の２時過ぎだったかな……」%K%P
 Saki「It was definitely... past 2:00 in the middle of the night...」%K%P
 0xF08
 沙紀「突然非常ベルが鳴って、慌てて表に逃げて……」%K%P
-Saki「The alarm suddenly rang, and we frantically ran out the%Nback...」%K%P
+Saki「The alarm suddenly rang, and we frantically ran out the back...」%K%P
 0xF14
 沙紀「本館の方を見上げると……既に３階部分は火の海だったのよ……」%K%P
-Saki「When I looked up at the main building... part of the third%Nfloor was already a sea of flames...」%K%P
+Saki「When I looked up at the main building... part of the third floor was already a sea of flames...」%K%P
 0xF20
 沙紀「ううん……あれは火の海って言うよりも……炎の壁ね……」%K%P
 Saki「No... it was more like... a wall of flames...」%K%P
 0xF2C
 沙紀「……わかるかしら？　２階と４階に挟まれた間の壁だけが、真っ赤な炎に包まれてるの……」%K%P
-Saki「... Do you understand why? It's because only the walls in%Nthe space between the second and fourth floors were%Nwrapped up in deep red flames...」%K%P
+Saki「... Do you understand why? It's because only the walls in the space between the second and fourth floors were wrapped up in deep red flames...」%K%P
 0xF38
 誠「……ってことは、その男の子は……３階に？」%K%P
 Makoto「So you're telling me that that boy... was on the third floor?」%K%P
@@ -699,43 +699,43 @@ Makoto「She wasn't in the same group as you!?」%K%P
 Saki「Right...」%K%P
 0xF8C
 沙紀「もちろん他の班や、別のクラスの子達も、本館にはいたんだけど……」%K%P
-Saki「Of course, there were other groups and kids from other%Nclasses in the main building, but...」%K%P
+Saki「Of course, there were other groups and kids from other classes in the main building, but...」%K%P
 0xF98
 沙紀「運悪く……４階のちょうど真ん中の部屋に泊っていた優夏の班だけが……逃げ遅れてしまった……」%K%P
-Saki「It was just bad luck... only Yuka's group were staying in%Nrooms in the dead center of the fourth floor... it was too%Nlate to escape...」%K%P
+Saki「It was just bad luck... only Yuka's group were staying in rooms in the dead center of the fourth floor... it was too late to escape...」%K%P
 0xFA4
 沙紀「本館の最上階は４階で、上に逃げることはできない。かと言って、下は火の海だし……」%K%P
-Saki「The fourth floor was the top floor of the main building, so%Nthey couldn't escape by going up. On the other hand,%Nbelow them was that sea of flames...」%K%P
+Saki「The fourth floor was the top floor of the main building, so they couldn't escape by going up. On the other hand, below them was that sea of flames...」%K%P
 0xFB0
 沙紀「部屋の窓から懸命に手を振って助けを求めている優夏達の姿を……私達はただ、祈るように見守るしかなかった……」%K%P
-Saki「We could only watch and pray... as Yuka's group%Ndesperately waved their hands from the room's windows,%Nbegging for help...」%K%P
+Saki「We could only watch and pray... as Yuka's group desperately waved their hands from the room's windows, begging for help...」%K%P
 0xFBC
 誠「…………………………」%K%P
 Makoto「...」%K%P
 0xFC8
 沙紀「けれどそこに……その火の中に……果敢にもひとりの男の子が飛び込んで行ったの……」%K%P
-Saki「But then... a lone, determined boy... went plunging into%Nthat fire...」%K%P
+Saki「But then... a lone, determined boy... went plunging into that fire...」%K%P
 0xFD4
 沙紀「あの男の子だった……」%K%P
 Saki「It was that boy...」%K%P
 0xFE0
 沙紀「頭から水をかぶった彼は、燃え盛る業火の中をくぐり抜け、次から次へと女の子達を助け出して行ったの……」%K%P
-Saki「He kept going in and out of that blazing hellfire, helping%Ngirl after girl out one after another, his face drenched%Nwith sweat the whole time...」%K%P
+Saki「He kept going in and out of that blazing hellfire, helping girl after girl out one after another, his face drenched with sweat the whole time...」%K%P
 0xFEC
 沙紀「そして……最後のひとり……」%K%P
 Saki「And then... he brought out the last one...」%K%P
 0xFF8
 沙紀「優夏を抱きかかえながら、ふらふらと玄関から出て来た彼は……遂に力尽き……息絶えてしまった……」%K%P
-Saki「He held Yuka in his arms as he staggered out of the%Nentryway... then lost the last of his strength... and died...」%K%P
+Saki「He held Yuka in his arms as he staggered out of the entryway... then lost the last of his strength... and died...」%K%P
 0x1004
 誠「…………………………」%K%P
 Makoto「...」%K%P
 0x1010
 沙紀「ほとんど酸素の無い建物の中を、何度も何度も往復したんだもの……」%K%P
-Saki「He kept going in and out of that building with almost no%Noxygen over and over again...」%K%P
+Saki「He kept going in and out of that building with almost no oxygen over and over again...」%K%P
 0x101C
 沙紀「全員を助け出せたことの方が、むしろ奇跡だったのよ……」%K%P
-Saki「It was perhaps a miracle that he managed to save all the%Nmembers of that group...」%K%P
+Saki「It was perhaps a miracle that he managed to save all the members of that group...」%K%P
 0x1028
 誠「…………………………」%K%P
 Makoto「...」%K%P
@@ -744,7 +744,7 @@ Makoto「...」%K%P
 Saki「I only heard about this part afterwards, but...」%K%P
 0x1040
 沙紀「その男の子、優夏を抱きしめながら、最期にこう言ったんだって……」%K%P
-Saki「As that boy held Yuka in his arms, he spoke his last%Nwords...」%K%P
+Saki「As that boy held Yuka in his arms, he spoke his last words...」%K%P
 0x1078
 …………。%N……………………。%K%P
 ... ...%K%P
@@ -765,7 +765,7 @@ For a while, I can't think about anything.%K%P
 No, I don't want to think about anything.%K%P
 0x10C8
 その衝撃的事実に、オレは激しく打ちのめされた。%K%P
-That shocking truth feels like it just punched me in the%Ngut.%K%P
+That shocking truth feels like it just punched me in the gut.%K%P
 0x10D4
 ──その少年に、オレが似ている……。%K%P
 ―I'm similar to that boy...%K%P
@@ -774,7 +774,7 @@ That shocking truth feels like it just punched me in the%Ngut.%K%P
 ―How ironic...%K%P
 0x10EC
 目の前がくらくらとかすみ、脳みそは膿んだようにじくじくと痛んだ。%K%P
-I suddenly get dizzy, and I feel a pain in my head as if my%Nbrain tissues were oozing pus.%K%P
+I suddenly get dizzy, and I feel a pain in my head as if my brain tissues were oozing pus.%K%P
 0x10F8
 体中から力が失せていく……。%K%P
 Strength begins to vanish from my body...%K%P
@@ -789,10 +789,10 @@ Her voice sounds distant.%K%P
 Once again, I fall into an endless void of darkness...%K%P
 0x1194
 ふと目を開くと、あたりは既に真っ暗だった。%K%P
-When my eyes suddenly open, my surroundings are%Nalready pitch black.%K%P
+When my eyes suddenly open, my surroundings are already pitch black.%K%P
 0x11A0
 腕をあげて、時計を見る気力さえなかった。%K%P
-I don't even have the energy to raise my arm to check%Nmy watch.%K%P
+I don't even have the energy to raise my arm to check my watch.%K%P
 0x11AC
 ………………………………。%K%P
 ...%K%P
@@ -804,19 +804,19 @@ I don't even have the energy to raise my arm to check%Nmy watch.%K%P
 My heart feels as if its being crushed.%K%P
 0x11D0
 少年は命を懸けて、優夏や他の女の子達を救ったというのに……。%K%P
-Although that boy put his life on the line to save Yuka%Nand the other girls...%K%P
+Although that boy put his life on the line to save Yuka and the other girls...%K%P
 0x11DC
 このオレは、一瞬ためらった。%K%P
 I hesitated for one instant.%K%P
 0x11E8
 あの瞬間、自分が生き残る手段を真っ先に考えた。%K%P
-In that instant, I was thinking first and foremost about a%Nway for myself to survive.%K%P
+In that instant, I was thinking first and foremost about a way for myself to survive.%K%P
 0x11F4
 だから優夏をかばい切れなかったのだ……。%K%P
 That's why I couldn't protect Yuka in time...%K%P
 0x1200
 オレとその少年が似ているなんて、勘違いもはなはだしい。%K%P
-Yuka and Saki are making a tremendous%Nmisunderstanding by saying I'm similar to that boy.%K%P
+Yuka and Saki are making a tremendous misunderstanding by saying I'm similar to that boy.%K%P
 0x120C
 オレはそんな立派な人間じゃない。%K%P
 I'm not that much of a wonderful person.%K%P
@@ -840,7 +840,7 @@ That's why... she tried to go back to the past...%K%P
 Even so, I... said those horrible things.%K%P
 0x1260
 誠「そんな幼稚なバカバカしい想いに振り回されて……」%K%P
-Makoto「We've been stuck like this that whole time because of%Nyou recklessly acting upon such ridiculous and childish%Nemotions!」%K%P
+Makoto「We've been stuck like this that whole time because of you recklessly acting upon such ridiculous and childish emotions!」%K%P
 0x126C
 オレはベッドの中で身悶えた。%K%P
 I writhe in my bed.%K%P
@@ -852,4 +852,4 @@ I hold my head, and tear at my chest.%K%P
 As time goes by, the pain only increases.%K%P
 0x1290
 オレはぎゅっと目を閉じて、暗闇の中で震え続けていた……。%K%P
-I tightly shut my eyes, and continue to tremble in the%Ndarkness...%K%P
+I tightly shut my eyes, and continue to tremble in the darkness...%K%P

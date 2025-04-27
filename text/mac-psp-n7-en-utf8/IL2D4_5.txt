@@ -21,13 +21,13 @@ But it feels like I did.%K%P
 Saki's lips still feel like they're touching mine.%K%P
 0x98
 できれば、何かの間違いであって欲しい、とオレは願った。%K%P
-If possible, I hope that I'm making some sort of%Nmisunderstanding.%K%P
+If possible, I hope that I'm making some sort of misunderstanding.%K%P
 0xAC
 オレは、まだ熱をもっている頬に手を当てた。%K%P
 I touch my burning cheek.%K%P
 0xB8
 きっと、鮮やかな紅葉が描かれていることだろう。%K%P
-I'm pretty sure that there's still a vivid red color%Nengraved on it.%K%P
+I'm pretty sure that there's still a vivid red color engraved on it.%K%P
 0xC4
 沙紀は、まだ怒っているのだろうか？%K%P
 I wonder if Saki is still angry?%K%P
@@ -36,7 +36,7 @@ I wonder if Saki is still angry?%K%P
 ―And at that time!%K%P
 0x100
 けたたましい音とともに、億彦が部屋に飛び込んで来た。%K%P
-Suddenly, a clamorous sound echoes, along with%NOkuhiko bursting into my room.%K%P
+Suddenly, a clamorous sound echoes, along with Okuhiko bursting into my room.%K%P
 0x10C
 億彦「遙ちゃんが……」%K%P
 Okuhiko「Haruka-chan's...」%K%P
@@ -45,13 +45,13 @@ Okuhiko「Haruka-chan's...」%K%P
 Okuhiko「Haruka-chan's gone!」%K%P
 0x170
 億彦は、リビングに集まったオレ達２人に向かって、これまでの簡単な経緯を話し始めた。%K%P
-Okuhiko gathers Yuka and I in the living room, and starts%Ngiving us the details.%K%P
+Okuhiko gathers Yuka and I in the living room, and starts giving us the details.%K%P
 0x198
 億彦「あの後、ロッジへ帰ってきてから、%N僕はシャワーを浴びたんだ」%K%P
 Okuhiko「After that, I returned to the lodge, and took a shower.」%K%P
 0x1A4
 億彦「シャワーから出たのが９時半ぐらいで……%Nそれで、遙ちゃんの部屋に入ってみたら……」%K%P
-Okuhiko「I got out of the shower at about 9:30... and then, when I%Ntried going into Haruka-chan's room...」%K%P
+Okuhiko「I got out of the shower at about 9:30... and then, when I tried going into Haruka-chan's room...」%K%P
 0x1C0
 優夏「遙がいなかった……」%K%P
 Yuka「Haruka was gone...」%K%P
@@ -60,10 +60,10 @@ Yuka「Haruka was gone...」%K%P
 Okuhiko「Yeah...」%K%P
 0x1D8
 億彦「とりあえずロッジ周辺は、ひととおり探してみたんだけど……」%K%P
-Okuhiko「Anyway, after that, I tried looking around the area%Naround the lodge on my own...」%K%P
+Okuhiko「Anyway, after that, I tried looking around the area around the lodge on my own...」%K%P
 0x1E4
 誠「おいっ、億彦？　お前、何で遙の部屋なんかに入ったんだよ？」%K%P
-Makoto「Hey, Okuhiko? What were you doing in Haruka's room in%Nthe first place?」%K%P
+Makoto「Hey, Okuhiko? What were you doing in Haruka's room in the first place?」%K%P
 0x208
 億彦「え？」%K%P
 Okuhiko「What?」%K%P
@@ -72,10 +72,10 @@ Okuhiko「What?」%K%P
 Yuka「... Now that you mention it, it is pretty weird...」%K%P
 0x228
 億彦「え……%W%W%Wそれは……%W%W%Wその……。%N%W%W%Wそう、ドアが開いていたんだ。で、閉めてあげようかと思って……」%K%P
-Okuhiko「Uh... that is... well... Right, the door was open. So when I%Nthought I should try to close it...」%K%P
+Okuhiko「Uh... that is... well... Right, the door was open. So when I thought I should try to close it...」%K%P
 0x234
 優夏「ドアの前に立ったら、部屋がカラッポだったと？」%K%P
-Yuka「You stood in front of the door and found the room%Nempty?」%K%P
+Yuka「You stood in front of the door and found the room empty?」%K%P
 0x248
 億彦「そうそう……」%K%P
 Okuhiko「Right, right...」%K%P
@@ -90,22 +90,22 @@ Yuka「Anyway, sitting still here won't get anything solved...」%K%P
 As she says this, Yuka stands up.%K%P
 0x280
 優夏「……早く手分けして、%Nみんなで遙を探しましょ？　いづみさんや、沙紀にも手伝ってもらって」%K%P
-Yuka「... Why don't we all quickly split up and look for Haruka?%NWe should get Izumi-san and Saki's help.」%K%P
+Yuka「... Why don't we all quickly split up and look for Haruka? We should get Izumi-san and Saki's help.」%K%P
 0x2F4
 優夏「いい？　まず誠は、いづみさんを呼びに行って。で、そのまま港とか商店街とか、島の東側をあたってみて？」%K%P
-Yuka「All right? First, Makoto, you'll go call Izumi-san. Then, after%Nthat, go search the harbor, shopping district, and the%Neastern side of the island, okay?」%K%P
+Yuka「All right? First, Makoto, you'll go call Izumi-san. Then, after that, go search the harbor, shopping district, and the eastern side of the island, okay?」%K%P
 0x300
 誠「ああ」%K%P
 Makoto「Got it.」%K%P
 0x30C
 優夏「億彦くんは、月浜周辺を徹底的に！」%K%P
-Yuka「Okuhiko-kun, do a thorough search of the area around%NMoon Beach!」%K%P
+Yuka「Okuhiko-kun, do a thorough search of the area around Moon Beach!」%K%P
 0x328
 億彦「ＯＫ！」%K%P
 Okuhiko「Okay!」%K%P
 0x33C
 優夏「私は、姫ヶ浜とか展望公園とか、島の南側を探してみるから……」%K%P
-Yuka「I'll try searching Princess Beach, Viewpoint Park, and the%Nsouthern side of the island...」%K%P
+Yuka「I'll try searching Princess Beach, Viewpoint Park, and the southern side of the island...」%K%P
 0x348
 優夏「沙紀は、このロッジ周辺をもう一度探してみて」%K%P
 Yuka「Saki, try searching around the lodge, one more time.」%K%P
@@ -117,13 +117,13 @@ Saki「All right.」%K%P
 Okuhiko「Haruka-chan, wait for me! I'll definitely find you!」%K%P
 0x384
 誠「億彦……。もしかして、遙はお前の顔を見るのが嫌で、姿をくらましているかもしれないんだぞ？」%K%P
-Makoto「Wait, Okuhiko... Maybe Haruka ran away because she was%Nfed up with being in your presence for too long.」%K%P
+Makoto「Wait, Okuhiko... Maybe Haruka ran away because she was fed up with being in your presence for too long.」%K%P
 0x398
 億彦「石原〜！　キミはなぜ、そういうことを言うんだ！」%K%P
 Okuhiko「Ishihara〜! Why would you say something like that!?」%K%P
 0x3A4
 誠「可能性だ。あくまでも可能性……」%K%P
-Makoto「It's a possibility. We need to consider all possibilities in%Nthis situation, right...?」%K%P
+Makoto「It's a possibility. We need to consider all possibilities in this situation, right...?」%K%P
 0x3C0
 優夏「さっ、それじゃあ早速、捜索開始！」%K%P
 Yuka「Well then, let's begin the search right away!」%K%P
@@ -141,10 +141,10 @@ Makoto「Izumi-san! It's time!」%K%P
 Izumi「Ah, yes, yes... Haruka-chan's gone now, right?」%K%P
 0x458
 ヘンテコな会話を交わしたあと、オレ達は商店街へと移動した。%K%P
-After this bizarre exchange, we head for the shopping%Ndistrict.%K%P
+After this bizarre exchange, we head for the shopping district.%K%P
 0x4EC
 ひっそりと静まりかえる商店街を、寄り添うように並んで歩く。%K%P
-We walk closely together through the silent, deserted%Nshopping district.%K%P
+We walk closely together through the silent, deserted shopping district.%K%P
 0x4F8
 日付は既に『４月５日』に変わっていた。%K%N
 The date has already changed to 「April 5th」.%K%N
@@ -153,10 +153,10 @@ The date has already changed to 「April 5th」.%K%N
 Of course, it's actually 「April 10th」...%K%P
 0x520
 ふと見上げれば、満天の星空が広がっていた。%K%P
-I suddenly look up, and see a starry sky spread before%Nme.%K%P
+I suddenly look up, and see a starry sky spread before me.%K%P
 0x52C
 まるで、いづみさんに告白されたときのような、きれいな星空だった。%K%P
-It's a beautiful sky that's just like the one from the night%NIzumi-san confessed to me.%K%P
+It's a beautiful sky that's just like the one from the night Izumi-san confessed to me.%K%P
 0x538
 遂に……%W%W%Wオレはこの時を迎えたのだ。%K%P
 Finally... this is the time I was waiting for.%K%P
@@ -165,7 +165,7 @@ Finally... this is the time I was waiting for.%K%P
 This is my best chance!%K%P
 0x550
 星空の下で聞いた告白に、同じような星空の下で答える。%K%P
-She confessed to me under a starry sky, so I'll answer%Nher under a starry sky too.%K%P
+She confessed to me under a starry sky, so I'll answer her under a starry sky too.%K%P
 0x55C
 大きく息を吸い込み、そして吐き出した。%K%P
 I take in a deep breath before exhaling.%K%P
@@ -198,7 +198,7 @@ Okuhiko comes running over...%K%P
 (GODDAMMIT!!!!!!!!!!!!!!)%K%P
 0x628
 （お前の領域は月浜の周辺だろうがぁ！！！！）%K%P
-(You were supposed to be searching the area around%NMoon Beach, weren't you!!!!?)%K%P
+(You were supposed to be searching the area around Moon Beach, weren't you!!!!?)%K%P
 0x634
 （何でここに来んだよ、お前がぁぁぁ！！！！）%K%P
 (So what the hell are you doing here!!!!?)%K%P
@@ -207,7 +207,7 @@ Okuhiko comes running over...%K%P
 ...%K%P
 0x664
 結局、オレといづみさんと億彦、３人で遙を探すことになってしまった。%K%P
-In the end, Izumi-san, Okuhiko, and I end up searching for%NHaruka.%K%P
+In the end, Izumi-san, Okuhiko, and I end up searching for Haruka.%K%P
 0x670
 （もう終わりだ……）%K%P
 (It's already over...)%K%P
@@ -216,10 +216,10 @@ In the end, Izumi-san, Okuhiko, and I end up searching for%NHaruka.%K%P
 (All I want is to just end this all completely...)%K%P
 0x6CC
 ひととおり探し回った（フリをした）後、みんなはルナビーチの前に集合した。%K%P
-After looking around once (or pretending to), everyone%Ngathers at Lunabeach.%K%P
+After looking around once (or pretending to), everyone gathers at Lunabeach.%K%P
 0x6D8
 当然のことながら、遙は見つかっていない（ことになっている）。%K%P
-Naturally, we haven't found Haruka (at least, that's what%Nwe're telling Okuhiko).%K%P
+Naturally, we haven't found Haruka (at least, that's what we're telling Okuhiko).%K%P
 0x708
 億彦「遙ちゃ〜ん……どこに行っちゃったんだよぉ〜」%K%P
 Okuhiko「Haruka-chan... where did you go?」%K%P
@@ -231,7 +231,7 @@ Okuhiko sounds miserable.%K He's completely exhausted.%K%P
 Everyone else also looks tired.%K%N
 0x72C
 この辺でそろそろお開きかな？%K%P
-Very well, then it's time we reached the grand finale of%Nthis play.%K%P
+Very well, then it's time we reached the grand finale of this play.%K%P
 0x738
 誠「なあ、億彦？」%K%P
 Makoto「Hey, Okuhiko?」%K%P
@@ -240,7 +240,7 @@ Makoto「Hey, Okuhiko?」%K%P
 Okuhiko「?」%K%P
 0x768
 誠「実は、遙が行きそうな場所で、もう１箇所だけ探していない所があるんだ……」%K%P
-Makoto「The truth is, there's just one place we haven't looked for%NHaruka yet...」%K%P
+Makoto「The truth is, there's just one place we haven't looked for Haruka yet...」%K%P
 0x77C
 億彦「なに！？　何故それを早く言わないっ！」%K%P
 Okuhiko「What!? Why didn't you say so earlier!?」%K%P
@@ -261,10 +261,10 @@ Makoto「The place we haven't looked yet is...」%K%P
 Makoto「... The shrine!」%K%P
 0x7E8
 誠「なんでも遙……古い神社とかお寺とか、そういうのに興味があるらしくってな？」%K%P
-Makoto「To me... it seemed like Haruka had an interest in old%Nshrines and temples.」%K%P
+Makoto「To me... it seemed like Haruka had an interest in old shrines and temples.」%K%P
 0x7FC
 億彦「神社って……いづみさんが言っていた……あの岬の？」%K%P
-Okuhiko「The shrine... You mean the one on that cape... that%NIzumi-san told us about?」%K%P
+Okuhiko「The shrine... You mean the one on that cape... that Izumi-san told us about?」%K%P
 0x808
 誠「ああ……たぶん間違いない」%K%P
 Makoto「Yeah... she's probably there.」%K%P
@@ -297,7 +297,7 @@ Saki「I agree. I'm so damn beat...」%K%P
 Izumi「Shall I call Haruka-chan over?」%K%P
 0x91C
 誠「いづみさんもどうですか？　これからロッジに帰って、一杯やりますけど……」%K%P
-Makoto「You think so too, Izumi-san? All right, let's just live it up in%Nthe lodge for a bit until Okuhiko gets back...」%K%P
+Makoto「You think so too, Izumi-san? All right, let's just live it up in the lodge for a bit until Okuhiko gets back...」%K%P
 0x938
 優夏「わぁ〜♪　いいね、いいね〜♪」%K%P
 Yuka「Yaay〜♪ Sounds good, sounds good〜♪」%K%P

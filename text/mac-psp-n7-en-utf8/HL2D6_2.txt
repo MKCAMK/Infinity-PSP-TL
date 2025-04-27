@@ -15,10 +15,10 @@ Haruka's still alive.%K%N
 Her flame of light hasn't flickered out yet.%K%P
 0x80
 可能性は、残されている。%K%Nオレはその最後の可能性に賭けた！%K%P
-There's one possibility remaining. I'll risk everything on%Nthat possibility!%K%P
+There's one possibility remaining. I'll risk everything on that possibility!%K%P
 0x94
 可能性は、残されている。%K%Nオレはその最後の可能性に賭けた！%K
-There's one possibility remaining. I'll risk everything on%Nthat possibility!%K
+There's one possibility remaining. I'll risk everything on that possibility!%K
 0x36F0
 急いで診療所へ
 Hurry to the clinic.
@@ -27,10 +27,10 @@ Hurry to the clinic.
 I've got to go to the lodge.
 0x134
 遙を跳ねたドライバーに運転させ、診療所へ着いたのは約３０分後だった。%K%P
-The driver took Haruka in his car, and it was%Napproximately half an hour later that we arrived at the%Nclinic.%K%P
+The driver took Haruka in his car, and it was approximately half an hour later that we arrived at the clinic.%K%P
 0x140
 眠っていた医者をたたき起こすと、オレ達は急いで遙を病室まで運び込んだ。%K%P
-We woke up the sleeping doctor and quickly brought%NHaruka into the sickroom.%K%P
+We woke up the sleeping doctor and quickly brought Haruka into the sickroom.%K%P
 0x1E0
 誠「遙を頼む！　沙紀！」%K%P
 Makoto「Saki, I'll leave Haruka to you!」%K%P
@@ -42,25 +42,25 @@ Saki「... Huh? Where are you going!?」%K%P
 Makoto「Neither of us can give Haruka a blood transfusion!」%K%P
 0x230
 このまま診療所に行っても、血液が足りないために遙は息絶えてしまうだろう。%K%P
-At this rate, even if she goes to the clinic, Haruka won't%Nhave enough blood to survive.%K%P
+At this rate, even if she goes to the clinic, Haruka won't have enough blood to survive.%K%P
 0x23C
 オレは遙を跳ねたドライバーに診療所へ行くように頼むと、同型の血液保持者……%K遙のオリジナル……%W%Wくるみを求めて走り出した。%K%P
-I entrust Haruka to the driver who hit her to go to clinic,%Nand start running to seek the one who has the same%Nblood type as Haruka... Her Original... Kurumi.%K%P
+I entrust Haruka to the driver who hit her to go to clinic, and start running to seek the one who has the same blood type as Haruka... Her Original... Kurumi.%K%P
 0x248
 くるみなら、今はロッジにいる筈だ！%K%P
-If I'm looking for her, then she should be at the lodge%Nright now!%K%P
+If I'm looking for her, then she should be at the lodge right now!%K%P
 0x338
 ひたすらに豪雨の中を走り続け、息を切らしてようやく辿り着いたロッジのリビングでは、億彦と優夏がふたりだけで宴会を開いていた。%K%P
-I run through the pouring rain until I finally arrive at the%Nlodge.%K Out of breath, I enter the living room to find that%NOkuhiko and Yuka are having a party all to themselves.%K%P
+I run through the pouring rain until I finally arrive at the lodge.%K Out of breath, I enter the living room to find that Okuhiko and Yuka are having a party all to themselves.%K%P
 0x344
 ふたりの周りには、つまみやらビールの空き缶やらが山になっている。%K%N
-The area around them has become mountains of snacks%Nand empty beer cans.%K%N
+The area around them has become mountains of snacks and empty beer cans.%K%N
 0x350
 どうやら酒癖の悪い優夏に、億彦が絡まれているようだ。%K%P
-It seems like Okuhiko has bonded with the very drunk%NYuka.%K%P
+It seems like Okuhiko has bonded with the very drunk Yuka.%K%P
 0x35C
 オレは爆発しそうな怒りをぐっとこらえて、部屋の中を見回した。%K%N
-I firmly hold back my explosive anger, and survey the%Nroom.%K%N
+I firmly hold back my explosive anger, and survey the room.%K%N
 0x368
 今はこいつらの相手をしている場合ではないのだ。%K%P
 Kurumi was here when I left...%K%P
@@ -93,10 +93,10 @@ Makoto「Hurry up and answer me, dammit!」%K%P
 Yuka「Eyam finkin' sherioushly! Don't talk to me like dat!」%K%P
 0x414
 くぅ……強烈に酒臭い。%W%Wこれはかなり飲んでるな……。%K%P
-Damn... she really reeks of liquor. She must have drunk a%Nlot...%K%P
+Damn... she really reeks of liquor. She must have drunk a lot...%K%P
 0x420
 誠「わかった……。謝るから、早く教えてくれ！%W%W　頼む！」%K%P
-Makoto「I get... I'm sorry, so please hurry up and tell me! I'm%Nbegging you!」%K%P
+Makoto「I get... I'm sorry, so please hurry up and tell me! I'm begging you!」%K%P
 0x434
 優夏「ん〜よろしい。あたしはねぇ〜……%W%Nう〜んと『Ａ』らよ〜」%K%P
 Yuka「Mmm, very well. Eyam... umm, 'A+'.」%K%P
@@ -114,10 +114,10 @@ Makoto「...」%K%P
 Yuka「Huh? But eye alsho feel ish 'C+'... Eye dunno. Ahahahaha!」%K%P
 0x480
 こ、この酔っぱらいが……。%Kオレはこめかみがひくひくするのを押さえつけ、くるみのことだけでも聞こうと努力した。%K%P
-Y-You damn drunkard... Repressing the urge to yell at%Nher, I try to get information about Kurumi out of her.%K%P
+Y-You damn drunkard... Repressing the urge to yell at her, I try to get information about Kurumi out of her.%K%P
 0x48C
 誠「もう、血液型はいいから……くるみはどうしたんだ？」%K%P
-Makoto「Well, forget the whole blood type thing... What happened%Nwith Kurumi?」%K%P
+Makoto「Well, forget the whole blood type thing... What happened with Kurumi?」%K%P
 0x4A0
 優夏「くるみたん？　しらないよ」%K%P
 Yuka「Kurumi-tan? Dunno.」%K%P
@@ -129,19 +129,19 @@ Crap. I click my tongue.%K Has she already gone home?%K%P
 Makoto「See you. I'm gonna look for Kurumi.」%K%P
 0x4CC
 優夏「ちょっとまちぃ！　まこったん、あたしにらけしゃべらせといて、どっかいこうっての？」%K%P
-Yuka「Huld on, Mako-tan! If yer talkin' to me, den come and have%Na drink!」%K%P
+Yuka「Huld on, Mako-tan! If yer talkin' to me, den come and have a drink!」%K%P
 0x4D8
 誠「それどころじゃないんだ！　遙が車にはねられたんだよ！！」%K%P
-Makoto「I don't have time for that! Haruka was run over by a car!!%NShe needs Kurumi's help!」%K%P
+Makoto「I don't have time for that! Haruka was run over by a car!! She needs Kurumi's help!」%K%P
 0x4EC
 優夏「くるみにはねられた？　……はるかがくるみたんにはねられたんらぁ〜」%K%P
-Yuka「Huh? Run ove bai Kurumi? ... Haruka wash run over bai%NKurumi-tan?」%K%P
+Yuka「Huh? Run ove bai Kurumi? ... Haruka wash run over bai Kurumi-tan?」%K%P
 0x4F8
 誠「もういい！　じゃあな！！」%K%P
 Makoto「Forget it! Later!!」%K%P
 0x50C
 くそう！　かなりの時間をロスしてしまった。それにしても、くるみは一体どこにいるのだろう？%K%P
-Shit! I've lost a considerable amount of time! Even so,%Njust where could Kurumi be?%K%P
+Shit! I've lost a considerable amount of time! Even so, just where could Kurumi be?%K%P
 0x5A4
 オレは再び土砂降りの中に身を投じた……。%K%P
 I once again throw myself into the pelting rain...%K%P
@@ -159,7 +159,7 @@ Haruka lies down on the bed, her face pale...%K%P
 Makoto「Okuhiko! Haruka's in trouble!!」%K%P
 0x720
 すると、優夏に組み敷かれそうになっていた億彦が、ガバッと立ち上がった。%K%P
-Just then, Okuhiko, who had been held down by Yuka,%Nquickly stands up.%K%P
+Just then, Okuhiko, who had been held down by Yuka, quickly stands up.%K%P
 0x734
 億彦「な、なんだって！？%N遙ちゃんに何があったんだ！？」%K%P
 Okuhiko「Wh-What!? What happened to Haruka-chan!?」%K%P
@@ -168,7 +168,7 @@ Okuhiko「Wh-What!? What happened to Haruka-chan!?」%K%P
 Makoto「... She was run over... by a car...」%K%P
 0x98C
 次の瞬間、オレは左の頬に強烈な打撃を受けて倒れ込んでいた。%K%N
-In the next instant, I collapse from receiving an intense%Nblow to my left cheek.%K%N
+In the next instant, I collapse from receiving an intense blow to my left cheek.%K%N
 0x998
 億彦の右ストレートが、きれいに決まったのだ……。%K%P
 Okuhiko had hit me with a very powerful straight left...%K%P
@@ -177,7 +177,7 @@ Okuhiko had hit me with a very powerful straight left...%K%P
 Makoto「...」%K%P
 0x9B8
 億彦「このバカ野郎！　お前がついていながら、何でそんなことになるんだよ！」%K%P
-Okuhiko「You stupid bastard! Why did that happen while she was%Nwith you!?」%K%P
+Okuhiko「You stupid bastard! Why did that happen while she was with you!?」%K%P
 0x9C4
 誠「……すまん……」%K%P
 Makoto「... Sorry...」%K%P
@@ -189,7 +189,7 @@ Okuhiko「Apologizing won't solve anything! So, what should I do!?」%K%P
 Makoto「Okuhiko...」%K%P
 0x9F8
 億彦「うるせぇ！　お前の為なんかじゃない！　遙ちゃんの為だからな！」%K%P
-Okuhiko「Shut up! I'm not doing this for your sake! I'm doing it for%NHaruka-chan's!」%K%P
+Okuhiko「Shut up! I'm not doing this for your sake! I'm doing it for Haruka-chan's!」%K%P
 0xA04
 億彦のこんな真剣な顔を見たのは初めてだった。%K%N
 This is the first time I've seen Okuhiko look so serious.%K%N
@@ -201,16 +201,16 @@ He's... really serious about Haruka's sake...%K%P
 Makoto「I understand. Listen carefully...」%K%P
 0xA28
 誠「遙を救うには、大量の血液が必要なんだ。%Kだけど、この島の診療所には血液のストックなんか置いてない」%K%P
-Makoto「To save Haruka, we need a large amount of blood. But%Nthe clinic on this island doesn't have any blood%Ncompatible with her type in stock.」%K%P
+Makoto「To save Haruka, we need a large amount of blood. But the clinic on this island doesn't have any blood compatible with her type in stock.」%K%P
 0xA34
 誠「だから直接輸血する以外に方法はないんだ」%K%P
-Makoto「That's why there's no other method but to give her a%Ndirect blood transfusion.」%K%P
+Makoto「That's why there's no other method but to give her a direct blood transfusion.」%K%P
 0xA40
 誠「遙と同じＢ型の人間から……」%K%P
-Makoto「We have to take it from someone who has a blood type%Nof B-, like Haruka, or O-...」%K%P
+Makoto「We have to take it from someone who has a blood type of B-, like Haruka, or O-...」%K%P
 0xA54
 億彦「何だって……ちくしょう、僕はＡ型なんだよ……他に誰かいないのか？」%K%P
-Okuhiko「What was that...? Goddammit, I'm A+... Is there anyone%Nelse?」%K%P
+Okuhiko「What was that...? Goddammit, I'm A+... Is there anyone else?」%K%P
 0xA60
 誠「くるみが『Ｂ』なんだ……」%K%P
 Makoto「Kurumi is B-...」%K%P
@@ -228,10 +228,10 @@ Okuhiko「I don't know! She didn't say if she was going back!」%K%P
 Makoto「All right, then I'll try going to Lunabeach!」%K%P
 0xAA4
 誠「お前はこの近くを探してくれ！　もし、くるみが来たら……」%K%P
-Makoto「You search around this area! If by any chance Kurumi%Ncomes here...」%K%P
+Makoto「You search around this area! If by any chance Kurumi comes here...」%K%P
 0xB3C
 オレは診療所の連絡先を書いたメモを億彦に持たせると、豪雨の中へ飛び出して行った。%K%P
-I write down the clinic's contact address on a note, give%Nit to Okuhiko, and rush out into the rain.%K%P
+I write down the clinic's contact address on a note, give it to Okuhiko, and rush out into the rain.%K%P
 0xB54
 億彦「石原ぁー！　頼んだぞぉー！」%K%P
 Okuhiko「Ishihara! I'm counting on you!」%K%P
@@ -240,13 +240,13 @@ Okuhiko「Ishihara! I'm counting on you!」%K%P
 I quickly start running towards Lunabeach.%K%P
 0xBB4
 ここにいなければ、ルナビーチに帰っている可能性が最も高い。%K%P
-If she's not here, the possibility she returned to%NLunabeach is very high.%K%P
+If she's not here, the possibility she returned to Lunabeach is very high.%K%P
 0xBC0
 それに、最悪その場にいなくとも、あの店にあった自転車を借りれば移動時間が稼げるだろう……。%K%P
-And in the worst-case scenario that she's not there, if I%Nborrow the bicycle at the shop, I can search faster...%K%P
+And in the worst-case scenario that she's not there, if I borrow the bicycle at the shop, I can search faster...%K%P
 0xC48
 ガンガン！　ガンガン！%K……ドアが壊れるほどの勢いで、オレはルナビーチのドアを叩いた。%K%P
-BANG, BANG! BANG, BANG! ... I pound on the door to%NLunabeach with enough force to break it.%K%P
+BANG, BANG! BANG, BANG! ... I pound on the door to Lunabeach with enough force to break it.%K%P
 0xC54
 いづみ「はぁい……誰〜？」%K%P
 Izumi「Yesss... who is it〜?」%K%P
@@ -261,22 +261,22 @@ Makoto「It's me! It's Ishihara!」%K%P
 Izumi「Yes, yes. What is it?」%K%P
 0xCA8
 扉が開くと、そこにはいづみさんが寝ぼけまなこをこすりながら立っていた。%K%P
-When the door opens, I see Izumi-san standing there%Nwhile rubbing the sleep out of her very drowsy eyes.%K%P
+When the door opens, I see Izumi-san standing there while rubbing the sleep out of her very drowsy eyes.%K%P
 0xCBC
 いづみ「もう……仕入れの計算が終わらなくって……%W%W誠くんちょっと手伝ってくんない？」%K%P
-Izumi「Geez... I'm not done counting the stock, you know...%NMakoto-kun, would you give me a little help?」%K%P
+Izumi「Geez... I'm not done counting the stock, you know... Makoto-kun, would you give me a little help?」%K%P
 0xCC8
 誠「そ、%W%Wそれどころじゃないんだよ！　くるみは戻ってる！？」%K%P
 Makoto「N-Now's not the time for that! Is Kurumi back!?」%K%P
 0xCDC
 いづみ「くるみ、今いないのよ。ロッジに遊びに行くって言ってたけど……」%K%P
-Izumi「Kurumi isn't here right now. She said she was going to%Nvisit the lodge, so...」%K%P
+Izumi「Kurumi isn't here right now. She said she was going to visit the lodge, so...」%K%P
 0xCE8
 ちっ……ここにも戻って来てないのか！？%K%P
 Damn... She didn't come back here either!?%K%P
 0xCF4
 誠「遙が交通事故にあって……輸血が……必要なんだ！！」%K%P
-Makoto「Haruka was in a car accident... she needs... a blood%Ntransfusion!!」%K%P
+Makoto「Haruka was in a car accident... she needs... a blood transfusion!!」%K%P
 0xD08
 いづみ「な、なんですって！？　遙ちゃんが？」%K%P
 Izumi「W-What was that!? Haruka-chan's been hurt?」%K%P
@@ -303,7 +303,7 @@ I feel a little relieved and restless at the same time.%K%P
 (Kurumi! Where are you right now!?)%K%P
 0xD78
 （あとは……あとは、%Nお前だけが頼りなのに……っ！！！！）%K%P
-(Even though... Even though you're the only one I can%Nrely on right now...!!!)%K%P
+(Even though... Even though you're the only one I can rely on right now...!!!)%K%P
 0xD8C
 いづみ「私はどうすればいい？」%K%P
 Izumi「What should I do?」%K%P
@@ -312,16 +312,16 @@ Izumi「What should I do?」%K%P
 Makoto「Izumi-san, stay here!」%K%P
 0xDA4
 誠「もし、オレと入れ違いになってくるみが戻って来たら、ここの診療所に連れて行って欲しいんだ！」%K%P
-Makoto「If by any chance Kurumi and I miss each other and she%Ncomes back, I want you to take her to this clinic!」%K%P
+Makoto「If by any chance Kurumi and I miss each other and she comes back, I want you to take her to this clinic!」%K%P
 0xDB0
 オレは遙の入院先を手早くメモすると、いづみさんの手に握らせた。%K%P
-I quickly write the address of the clinic Haruka's at, and%Nhand it to Izumi-san.%K%P
+I quickly write the address of the clinic Haruka's at, and hand it to Izumi-san.%K%P
 0xDBC
 誠「それじゃオレ、探しに行くから！　……あっ、自転車、借りて行ってもいいよね！？」%K%P
-Makoto「Well then, I'm going to look! ... Ah, is it all right if I borrow the%Nbike!?」%K%P
+Makoto「Well then, I'm going to look! ... Ah, is it all right if I borrow the bike!?」%K%P
 0xDD0
 いづみ「もちろん！%N少しでも早いほうがいいでしょ！！　遙を……遙を助けてあげて！」%K%P
-Izumi「Of course! The faster you are, the better!! Save her...%NSave Haruka!」%K%P
+Izumi「Of course! The faster you are, the better!! Save her... Save Haruka!」%K%P
 0xDE4
 オレは力強くうなずいて、自転車に飛び乗った……。%K%P
 I give her a powerful nod, and jump on the bike...%K%P
@@ -330,7 +330,7 @@ I give her a powerful nod, and jump on the bike...%K%P
 The sharp, piercing rain mercilessly obstructs my path.%K%N
 0xDFC
 この世界の全てが、オレの行為を妨害しているようにも思えた。%K%P
-It feels like everything in this world is trying to interfere%Nwith my actions.%K%P
+It feels like everything in this world is trying to interfere with my actions.%K%P
 0xE08
 けれど、オレは行かねばならない。%K%N
 But I have to go.%K%N
@@ -357,7 +357,7 @@ Hey! Makoto!!%K%N
 Goddammit, calm down!!%K%N
 0xEE0
 こんな深夜遅くに、それもこんな雨の中、高校生が出かける場所なんてあってたまるかっ！！%K%P
-Why would a high-schooler go out this late on a stormy%Nnight!?%K%P
+Why would a high-schooler go out this late on a stormy night!?%K%P
 0xEEC
 落ち着け……落ち着け……。%K%N
 Calm down... calm down...%K%N
@@ -378,7 +378,7 @@ Remember... Remember... Remember!%K%N
 Remember Kurumi's behavior when I left the lodge!%K%P
 0xF34
 きっと、くるみの言動のどこかに、
-There's got to be a hint somewhere in Kurumi's speech%Nand conduct
+There's got to be a hint somewhere in Kurumi's speech and conduct
 0xF40
 くるみを探すヒントになるものがある筈なんだ！！%K%P
 that should help me find her!!%K%P
@@ -399,7 +399,7 @@ She suddenly wanted to take a walk...?
 I don't know...
 0x103C
 くるみ「待って、待ってよ、お兄ちゃん！%Nどこ行くの！！　くるみをおいてかないで！！」%K%P
-Kurumi「Wait! Wait, Onii-chan! Where are you going!? Don't leave%NKurumi alone!!」%K%P
+Kurumi「Wait! Wait, Onii-chan! Where are you going!? Don't leave Kurumi alone!!」%K%P
 0x10AC
 ふと、脳裏をよぎったくるみの言葉……。%K%P
 Suddenly, Kurumi's words fly by my mind...%K%P
@@ -408,7 +408,7 @@ Suddenly, Kurumi's words fly by my mind...%K%P
 (Don't tell me... She went out... in order to look for me...?)%K%P
 0x10C4
 くるみ「だからね？　くるみ、今のうちにお兄ちゃん達と出来るだけ想い出を作っておきたいの」%K%P
-Kurumi「So Kurumi wants to make as many memories as possible%Nwith you and the others in the time we have left.」%K%P
+Kurumi「So Kurumi wants to make as many memories as possible with you and the others in the time we have left.」%K%P
 0x10D0
 くるみは……くるみは、オレに会いに来たのだ。%K%N
 Kurumi... Kurumi came to see me.%K%N
@@ -420,13 +420,13 @@ Since I'm going back tomorrow...%K%N
 Since we might not be able to see each other again...%K%P
 0x1110
 だけど、たとえそうだとしても、それはくるみの居場所を特定させる手がかりにはならない。%K%P
-But even if that's true, that still doesn't give me any%Nspecific clues to Kurumi's whereabouts.%K%P
+But even if that's true, that still doesn't give me any specific clues to Kurumi's whereabouts.%K%P
 0x111C
 なにせ、オレがロッジを飛び出してから、既に２時間以上も経過しているのだから……。%K%P
-At any rate, it's already been more than two hours since%NI left the lodge...%K%P
+At any rate, it's already been more than two hours since I left the lodge...%K%P
 0x1128
 オレはやむを得ず、島中をしらみ潰しに捜索することにした。%K%P
-Unfortunately, I have no choice but to search the whole%Nisland.%K%P
+Unfortunately, I have no choice but to search the whole island.%K%P
 0x1134
 まずは、この近辺からだ。%K%P
 I'll start around here first.%K%P
@@ -444,16 +444,16 @@ Once again, I push my body weight into the pedals...%K%P
 Geez, why at such an important time, Kurumi!?%K%P
 0x11BC
 誠「だいたい、何でこんな雨の日の夜中に、外を出歩くんだよっ！！」%K%P
-Makoto「In the first place, why would you go out and take a walk%Nin the middle of a rainy night!?」%K%P
+Makoto「In the first place, why would you go out and take a walk in the middle of a rainy night!?」%K%P
 0x11C8
 オレは誰に聞かせる訳でもなく、大声で吐き捨てた。%K%P
-Although no one else is around, I shout this in an urge to%Nvent.%K%P
+Although no one else is around, I shout this in an urge to vent.%K%P
 0x11D4
 じりじりと忍び寄る運命の影に、激しく苛立ち、憤っていた。%K%N
-The slowly creeping shadow of fate turns my intense%Nirritation to anger.%K%N
+The slowly creeping shadow of fate turns my intense irritation to anger.%K%N
 0x11E0
 その怒りの矛先をペダルにぶつけるようにして、自転車をがむしゃらに漕ぎ出す。%K%P
-I try to channel my rage into my legs, and start pedaling%Nthe bike like a speed demon.%K%P
+I try to channel my rage into my legs, and start pedaling the bike like a speed demon.%K%P
 0x11EC
 きっと、この近辺のどこかにいる筈なんだ。%K%P
 She's definitely got to be nearby.%K%P
@@ -474,10 +474,10 @@ In the pouring rain, I commence my search for Kurumi.%K%P
 There's no way I would know!!%K%P
 0x1294
 そもそも普通の女の子だったら、こんな雨の真夜中に、１人で外をほっつき歩いたりなんかしない筈だ！%K%P
-In the first place, if she's a normal girl, then she shouldn't%Nbe outside on this rainy night!%K%P
+In the first place, if she's a normal girl, then she shouldn't be outside on this rainy night!%K%P
 0x12A0
 普通の女の子じゃない女の子の心理なんて、さすがのオレでも読むことは不可能だ。%K%P
-But it's impossible for me to read the mentality of an%Nabnormal girl.%K%P
+But it's impossible for me to read the mentality of an abnormal girl.%K%P
 0x12AC
 （いや、待てよ……）%K%P
 (No, wait...)%K%P
@@ -489,13 +489,13 @@ Just then, I am struck with a certain thought.%K%P
 (Why didn't Kurumi come back even though it's so late?)%K%P
 0x12D0
 （…………ひょっとして、くるみの身にも、何かあったのか？）%K%P
-(... Perhaps it's because something happened to Kurumi%Nas well!)%K%P
+(... Perhaps it's because something happened to Kurumi as well!)%K%P
 0x12DC
 オレの中の不安が、みるみるうちに膨らんでいく。%K%P
 The uneasiness inside me begins to grow more and more.%K%P
 0x1304
 果てしなく降り注ぐ雨の中、自転車のペダルを思い切り踏み込んだ。%K%P
-In the endless downpour, I pedal on the bike with all my%Nstrength.%K%P
+In the endless downpour, I pedal on the bike with all my strength.%K%P
 0x1310
 （遙……くるみ……待ってろ！！）%K%P
 (Haruka... Kurumi... wait for me!!)%K%P
@@ -504,7 +504,7 @@ In the endless downpour, I pedal on the bike with all my%Nstrength.%K%P
 Haruka... Is Haruka still alive...?%K%P
 0x13B8
 オレの記憶では、遙が息を引き取ったとき、腕時計のアラームが鳴った筈だ……。%K%P
-If my memories are correct, then my watch alarm should%Ngo off shortly after Haruka dies...%K%P
+If my memories are correct, then my watch alarm should go off shortly after Haruka dies...%K%P
 0x13C4
 確かあれは……%W%W%W『午前４時３０分』……。%K%P
 That's certainly... 「4:30 A.M.」...%K%P
@@ -513,10 +513,10 @@ That's certainly... 「4:30 A.M.」...%K%P
 There's no mistake.%K%N
 0x13DC
 あのアラームは、遙と不知火を見に行く時にセットしたものだから……。%K%P
-Because the alarm was set for the time I went to go see%Nthe shiranui with Haruka...%K%P
+Because the alarm was set for the time I went to go see the shiranui with Haruka...%K%P
 0x13E8
 タイムリミットまで、あと……%N……%W%W%W２時間半！！%K%P
-So that means for my time limit, I have... Two and a half%Nhours left!!%K%P
+So that means for my time limit, I have... Two and a half hours left!!%K%P
 0x13F4
 どこを探す……？%K%N
 Where do I look...?%K%N
@@ -534,10 +534,10 @@ My hands that are grasping the handles slip.%K%N
 My legs get twisted from pedaling the bike.%K%N
 0x1430
 オレは何度も転びそうになりながらも、自転車を漕ぐスピードを緩めない。%K%P
-Although it seems like I'm about to fall countless times, I%Ndon't slow down.%K%P
+Although it seems like I'm about to fall countless times, I don't slow down.%K%P
 0x143C
 くるみ……くるみ……どこだ……？%K%N今、お前はどこにいるんだ……？%K%N教えてくれ……くるみ……！%K
-Kurumi... Kurumi... Where are you...? Where are you right%Nnow...? Tell me... Kurumi...!%K
+Kurumi... Kurumi... Where are you...? Where are you right now...? Tell me... Kurumi...!%K
 0x3744
 月屋ホテル
 Tsukiya Hotel.
@@ -630,7 +630,7 @@ Not yet...!%K%N
 I won't... give up...!%K%N
 0x1A3C
 オレは、自分の弱さを振りきるかのように%N……さらに、力をこめてペダルを漕いだ。%K%P
-I pedal even harder... as if to cast aside my own%Nweakness.%K%P
+I pedal even harder... as if to cast aside my own weakness.%K%P
 0x1A60
 くるみは見つからない……。%K%N
 I can't find Kurumi...%K%N
@@ -642,7 +642,7 @@ I decide to give up on the search.%K%P
 But I have one last remaining hope...%K%N
 0x1AD0
 ヘリによる血液空輸にすがるようにして診療所へと向かった。%K%P
-The helicopter heading towards the clinic transporting%Nthe blood.%K%P
+The helicopter heading towards the clinic transporting the blood.%K%P
 0x1ADC
 ………。%N……。%N…。%K%P
 ... ... ...%K%P
@@ -666,10 +666,10 @@ Where could she possibly be...!?%K%P
 To what extent will fortune abandon me?%K%P
 0x1BD8
 やはり、何者かの見えない力によって、オレは翻弄されているんじゃないのか？%K%P
-Am I being toyed around by some invisible power or%Nsomething?%K%P
+Am I being toyed around by some invisible power or something?%K%P
 0x1BE4
 だが、そんな力があろうとなかろうと、今のオレには関係無い。%K%P
-But whether or not such a power exists, it doesn't%Nconcern the current me.%K%P
+But whether or not such a power exists, it doesn't concern the current me.%K%P
 0x1BF0
 たとえあったとしても、そんな力はねじ伏せてみせる。%K%P
 Even if it exists, I'll throw that power down.%K%P
@@ -684,7 +684,7 @@ Haruka... Haruka... Wait for me...!%K%P
 I ride the bike at full speed...%K%P
 0x1C34
 誠「くるみぃぃぃ！%N返事をしてくれぇぇぇ！！」%K%P
-Makoto「My cries are drowned out by the noisy rainfall. It's even%Nhard for me to hear myself.」%K%P
+Makoto「My cries are drowned out by the noisy rainfall. It's even hard for me to hear myself.」%K%P
 0x1C5C
 しかし、うなるような雨音の中で、オレの叫びはあたりに虚しくこだましただけだった……。%K%P
 KURUMIIII! ANSWER MEEEEE!!%K%P
@@ -696,22 +696,22 @@ Makoto「I instinctively start complaining about Kurumi...」%K%P
 Dammit... damn you, Kurumi...%K%N
 0x1C80
 だが、あの時、くるみを放り出してロッジを出たのはオレなのだ。%K%P
-But back then, I was the one who abandoned her and%Nleft the lodge.%K%P
+But back then, I was the one who abandoned her and left the lodge.%K%P
 0x1C8C
 オレがくるみに対して適切な行動を取っていれば、こんなことにはならなかったのだ……。%K%P
-If I had been nicer towards her, then this probably%Nwouldn't have happened...%K%P
+If I had been nicer towards her, then this probably wouldn't have happened...%K%P
 0x1C98
 オレは唇を強くかむと、再びくるみの捜索を開始した。%K%P
 I bite my lips, and recommence my search for Kurumi.%K%P
 0x1D28
 気がつくと、オレは道路の真中で、立ち往生していた。%K%P
-When I come to my senses, I've been brought to a%Nstandstill in the middle of the road.%K%P
+When I come to my senses, I've been brought to a standstill in the middle of the road.%K%P
 0x1D34
 そこは……遙が跳ねられた事故現場だった……。%K%P
 Over there... is the scene of Haruka's accident...%K%P
 0x1D40
 アスファルトには、わずかに雨に流されかけてはいるものの、いまだ血の跡が痛々しく残っている。%K%P
-Although the rain has washed most of it away, there are%Nstill painful traces of blood on the asphalt remaining.%K%P
+Although the rain has washed most of it away, there are still painful traces of blood on the asphalt remaining.%K%P
 0x1D4C
 雨は、あいかわらず止む気配を見せない。%K%N
 As usual, the rain shows no signs of stopping.%K%N
@@ -720,25 +720,25 @@ As usual, the rain shows no signs of stopping.%K%N
 If anything, it's only grown stronger.%K%P
 0x1D64
 全身は、あたかも滝の中をくぐり抜けてきたかのように濡れ尽くしている。%K%P
-My entire body is soaked, as if I'd been through a%Nwaterfall.%K%P
+My entire body is soaked, as if I'd been through a waterfall.%K%P
 0x1D70
 下着にまで染み込んでいる雨の冷たさに、体中の感覚は完全に麻痺していた。%K%N
 I feel completely frozen and numb.%K%N
 0x1D7C
 ハンドルを握る手も、%W%Wペダルにかけられた足も、%W%W何も……%W%W何も感じない……。%K%P
-My hands grasping the handles, my feet on the pedals... I%Ncan't feel them... I can't feel anything...%K%P
+My hands grasping the handles, my feet on the pedals... I can't feel them... I can't feel anything...%K%P
 0x1D88
 くるみは見つからない……。%K%N
 I can't find Kurumi...%K%N
 0x1D94
 あれから定期的にルナビーチにも立ち寄ったが、帰った様子はなかった。%K%P
-I've dropped by Lunabeach at fixed intervals all this%Ntime, but there's no sign of her coming back.%K%P
+I've dropped by Lunabeach at fixed intervals all this time, but there's no sign of her coming back.%K%P
 0x1DA0
 これだけ探しても見つからない……。%K%N
 Even though I've searched so much, I can't find her...%K%N
 0x1DAC
 まるで、くるみという存在が、この世から消え去ってしまったかのように……。%K%P
-It's as if the existence known as Kurumi has completely%Nvanished from this planet...%K%P
+It's as if the existence known as Kurumi has completely vanished from this planet...%K%P
 0x1DB8
 時刻は『午前３時３０分』……。%K%P
 The current time is 「3:30 A.M.」...%K%P
@@ -750,10 +750,10 @@ Only one hour... until my time limit is up...%K%P
 Is it... too late now...?%K%P
 0x1DDC
 せめて、遙の最後を看取るため、ここは診療所へ行くべきなのかもしれない……。%K%P
-At the very least, I might be able to make it to the clinic in%Ntime to stay by Haruka's side until the end...%K%P
+At the very least, I might be able to make it to the clinic in time to stay by Haruka's side until the end...%K%P
 0x1DE8
 それとも、まだあきらめないで探すべきなのだろうか……？%K%Nたとえ無駄な努力だとしても……。%K
-Or should I not give up and continue searching...? Even if%Nit's a useless endeavor...%K
+Or should I not give up and continue searching...? Even if it's a useless endeavor...%K
 0x3834
 せめて最後だけは看取ってあげよう……
 I should at least stay with her...
@@ -762,13 +762,13 @@ I should at least stay with her...
 I won't give up until the end!!
 0x1E28
 せめて……せめて、最後だけは、傍にいてあげよう……。%K%N
-At the very least... At the very least, I should stay by%Nher at least at the very end...%K%N
+At the very least... At the very least, I should stay by her at least at the very end...%K%N
 0x1E34
 それが……今のオレに出来る、唯一の……。%K%P
 That's... the only thing the current me can do...%K%P
 0x1E40
 オレは、こわばった体を今一度奮い立たせ、遙の待つ診療所へと向かった。%K%P
-I cheer up my stiff body once more, and head to the%Nclinic where Haruka is waiting.%K%P
+I cheer up my stiff body once more, and head to the clinic where Haruka is waiting.%K%P
 0x1EA4
 ………。%N……。%N…。%K%P
 ... ... ...%K%P
@@ -783,7 +783,7 @@ Haruka lies down on the bed, her face pale...%K%P
 I... I swore it...%K%N
 0x1F1C
 あの日……遙と不知火を見た夜……。%K%P
-On that day... that night when I saw the shiranui with%NHaruka...%K%P
+On that day... that night when I saw the shiranui with Haruka...%K%P
 0x1F28
 『遙を守る』って…………%W%W%W%W%N……そう誓ったんだ……！！！%K%P
 「I'll protect Haruka,」... ... I swore that...!!%K%P
@@ -810,7 +810,7 @@ At this rate, history will just repeat itself, right...?%K%N
 And then... will I be sent flying back to the past again...?%K%P
 0x2060
 次に飛ばされたとき、オレに記憶があるとは限らない。%K%P
-The next time I go back, I won't necessarily have my%Nmemories.%K%P
+The next time I go back, I won't necessarily have my memories.%K%P
 0x206C
 オレは、遙との想い出を全て失ってしまっているかもしれない。%K%N
 I might lose all my memories of Haruka.%K%N
@@ -819,7 +819,7 @@ I might lose all my memories of Haruka.%K%N
 And naturally, Haruka will forget about me too...%K%P
 0x20E8
 遙「私は、いなくなったりしないよ。私も、誠がいるこの世界が大好き……」%K%P
-Haruka「I won't leave. I also love this world where you exist too%Nmuch...」%K%P
+Haruka「I won't leave. I also love this world where you exist too much...」%K%P
 0x2130
 ふっと蘇る……%W%W遙との想い出……。%K%N
 Suddenly... memories of Haruka go rushing through me...%K%N
@@ -855,10 +855,10 @@ I concentrate all my nerves...%K%P
 ...!?%K%P
 0x21D8
 突然のひらめきだった。%K%Nその瞬間オレが思い出したこと……それは……。%K%P
-A flash suddenly runs through my head. The thing I%Nremember in that instant... is...%K%P
+A flash suddenly runs through my head. The thing I remember in that instant... is...%K%P
 0x21F0
 突然のひらめきだった。%K%Nその瞬間オレが思い出したこと……それは……。%K
-A flash suddenly runs through my head.%K The thing I%Nremember in that instant... is...%K
+A flash suddenly runs through my head.%K The thing I remember in that instant... is...%K
 0x384C
 それは、くるみの言った言葉……
 Kurumi's words...
@@ -870,7 +870,7 @@ My words...
 Kurumi「After this, do you wanna go on a Mystery Tour?」%K%P
 0x22A0
 くるみ「うん。その問題の『司紀の杜神社』とか言う所に行ってみてぇ、噂が本当かどうか確かめてみるの」%K%P
-Kurumi「Yep. Kurumi wants to go check out that so-called 'Shiki%Nno Mori Shrine' and see if the rumors are true or not.」%K%P
+Kurumi「Yep. Kurumi wants to go check out that so-called 'Shiki no Mori Shrine' and see if the rumors are true or not.」%K%P
 0x22AC
 くるみ「ね？　なんだか面白そうでしょ？」%K%P
 Kurumi「Well? It sounds kinda fun, doesn't it?」%K%P
@@ -906,7 +906,7 @@ Haruka... what should I...%K%P
 ... ... ...%K%P
 0x24A4
 そしてオレは唯一残された希望……%W%Wヘリによる血液空輸にすがるようにして診療所へと向かった。%K%P
-And I have one last remaining hope... The helicopter%Nheading towards the clinic transporting the blood.%K%P
+And I have one last remaining hope... The helicopter heading towards the clinic transporting the blood.%K%P
 0x24B0
 ……………………。%N……………。%N……。%K%P
 ... ... ...%K%P
@@ -933,7 +933,7 @@ When I left the lodge, I definitely said that.%K%P
 「Wait at the lodge!」 ...%K%P
 0x25E0
 オレは最後の希望を託して、ロッジへと自転車を飛ばした……。%K%P
-Entrusting everything on my last hope, I ride to the%Nlodge...%K%P
+Entrusting everything on my last hope, I ride to the lodge...%K%P
 0x2678
 ロッジはもうすぐだ……。%K%N
 Just a little more, and I'll be at the lodge...%K%N
@@ -954,19 +954,19 @@ Okuhiko「OI! ISHIHARAAA!!! I FOUND HER, OVER HERE!!」%K%P
 Okuhiko's shouting voice brings me to my senses.%K%N
 0x26C0
 自転車のペダルが壊れるほどに踏み込み、声のする方に走る！%K%P
-I pedal towards the direction of his voice with enough%Nforce to break the bike's pedals!%K%P
+I pedal towards the direction of his voice with enough force to break the bike's pedals!%K%P
 0x26CC
 誠「どこだぁぁ！　億彦ぉぉ！！」%K%P
 Makoto「OKUHIKO!! WHERE ARE YOU!?」%K%P
 0x26D8
 豪雨で視界が遮られる。%Kあとは声の方向を頼りに進むしかないのだ。%K%P
-My vision is obstructed by the heavy rain, so I can only%Nadvance in the direction of his voice.%K%P
+My vision is obstructed by the heavy rain, so I can only advance in the direction of his voice.%K%P
 0x26E4
 億彦「こっちだ！　ロッジの方！！」%K%P
 Okuhiko「Over here! Towards the lodge!!」%K%P
 0x2724
 くるみが、億彦に連れ添われて、ロッジの階段を降りて来る。%K%N
-Kurumi and Okuhiko descend the lodge's stairs huddling%Nclose together.%K%N
+Kurumi and Okuhiko descend the lodge's stairs huddling close together.%K%N
 0x2730
 大きな傘を差して、ちょこちょこと……。%K%P
 She's restlessly holding a large umbrella...%K%P
@@ -1011,25 +1011,25 @@ Okuhiko「I'll leave the rest to you!」%K%P
 Dammit! Can I make it in time!?%K%N
 0x286C
 オレは、くるみを荷台に乗せて診療所を目指した。%K%P
-Now that Kurumi's riding with me, I head straight for the%Nclinic.%K%P
+Now that Kurumi's riding with me, I head straight for the clinic.%K%P
 0x2878
 途中、くるみの傘が風で飛ばされてしまったが、そんなことは気にしていられなかった。%K%N
-On the way, Kurumi's umbrella gets blown away by the%Nwind, but I can't worry about that.%K%N
+On the way, Kurumi's umbrella gets blown away by the wind, but I can't worry about that.%K%N
 0x2884
 荷台のくるみも、オレの尋常でない様子から何かを感じ取ったらしく、おとなしくしている。%K%P
-It seems Kurumi has also realized that I'm not my usual%Nself right now, and so she remains quiet.%K%P
+It seems Kurumi has also realized that I'm not my usual self right now, and so she remains quiet.%K%P
 0x28B0
 ……………………。%N……………。%N……。%K%P
 ... ... ...%K%P
 0x28BC
 あとはもう何がどうなったのかわからない……。%K%P
-I was so focused on pedaling that I don't know what%Nhappened after that...%K%P
+I was so focused on pedaling that I don't know what happened after that...%K%P
 0x28E0
 気がつくと、診療所は目の前だった。%K%P
-When I come to my senses, the clinic is right before my%Neyes.%K%P
+When I come to my senses, the clinic is right before my eyes.%K%P
 0x28EC
 既に自転車はチェーンもはずれ、使いものにならなくなっている。%K%P
-But the bike's chain has become wrecked, so it can%Nnever be used again.%K%P
+But the bike's chain has become wrecked, so it can never be used again.%K%P
 0x28F8
 誠「……くるみ……%W%Wとにかく……%W%Wあの診療所に……」%K%P
 Makoto「... Kurumi... go into that clinic...」%K%P
@@ -1047,13 +1047,13 @@ And then, my consciousness drifts far away from reality...%K%P
 (Haruka... please... live...)%K%P
 0x29D0
 次にオレが目を覚ました瞬間、目の前には遙の安らかな寝顔があった……。%K%P
-When I wake up, I see Haruka's peaceful sleeping face%Nbefore my eyes...%K%P
+When I wake up, I see Haruka's peaceful sleeping face before my eyes...%K%P
 0x29DC
 その顔は……%W%Wまるで眠り姫のようだった。%K%P
 That face... it's like she's Sleeping Beauty herself.%K%P
 0x29E8
 いや……『寝顔』という表現は、正しくないのかもしれない……。%K%P
-No... 「sleeping face」 might not be the correct%Nexpression...%K%P
+No... 「sleeping face」 might not be the correct expression...%K%P
 0x29F4
 もしかしたら……遙は……。%K%P
 Perhaps... Haruka's...%K%P
@@ -1065,16 +1065,16 @@ I stare at Haruka's face for a short time.%K%P
 ... How much time has passed?%K%P
 0x2A18
 オレは両目からこぼれ落ちる熱いものをこらえることができなかった。%K%N
-Unable to hold it in, hot tears spill over and fall from my%Neyes.%K%N
+Unable to hold it in, hot tears spill over and fall from my eyes.%K%N
 0x2A24
 とめどなく溢れる涙が、ポタポタと遙の頬に落ちていく……。%K%P
-My endless flood of tears begins to fall from my eyes%Nonto Haruka's face...%K%P
+My endless flood of tears begins to fall from my eyes onto Haruka's face...%K%P
 0x2A30
 誠「遙……」%K%P
 Makoto「Haruka...」%K%P
 0x2A3C
 気がつくと、オレは全身の痛みを忘れて、遙と唇を重ねていた。%K%P
-Before I know it, I forget the pain in my whole body, and%Nkiss Haruka on her lips.%K%P
+Before I know it, I forget the pain in my whole body, and kiss Haruka on her lips.%K%P
 0x2A58
 ……あたたかい……。%K%N
 ... It's warm...%K%N
@@ -1113,7 +1113,7 @@ But first and foremost, I just want to tell her this.%K%P
 Makoto「I'm so glad... that you're alive...」%K%P
 0x2B38
 誠「君はかけがえのない……%W%W%W%N大切な……%W%W人だから……」%K%P
-Makoto「Because you're my irreplaceable... most precious...%Nperson...」%K%P
+Makoto「Because you're my irreplaceable... most precious... person...」%K%P
 0x2B44
 そして、オレはそっと遙を抱きしめた。%K%N
 And then, I gently embrace Haruka.%K%N
@@ -1128,13 +1128,13 @@ Makoto「!!」%K%P
 Saki is way ahead on the street...%K%P
 0x2C28
 道の反対側から、飼い主を見つけた子犬が飛び出してくる。%K%P
-The puppy, having found its master, goes running%Ntowards her from the opposite side.%K%P
+The puppy, having found its master, goes running towards her from the opposite side.%K%P
 0x2C60
 そして、暗闇を切り裂くようなハイビームが……。%K%P
 And then, the headlights cut through the darkness...%K%P
 0x2C6C
 ……そこから先は、かつての悪夢の再来だった。%K%N
-... From thereon out, it's the second coming of my former%Nnightmare.%K%N
+... From thereon out, it's the second coming of my former nightmare.%K%N
 0x2C78
 すべてがあの時と同じだった。あの夜と……。%K%P
 Everything is the same as that time, as that night...%K%P
@@ -1155,13 +1155,13 @@ I... I... couldn't protect Haruka...%K%P
 ... ... ...%K%P
 0x2D24
 医者は巧みな手さばきで『止血処置』を施し、なんとか流れ続けていた血だけは止めることは出来た。%K%P
-With his skillful handling, the doctor performs%N「hemostasis treatment」, which seems to have at least%Nsuccessfully stopped the bleeding.%K%P
+With his skillful handling, the doctor performs 「hemostasis treatment」, which seems to have at least successfully stopped the bleeding.%K%P
 0x2D30
 しかし、予断を許さない状況だということは、見ていればわかる。%K%P
-However, by the looks of things, I know that it's too early%Nto jump to conclusions.%K%P
+However, by the looks of things, I know that it's too early to jump to conclusions.%K%P
 0x2D58
 医者「……申し上げにくいのだが%W%W……既に、この方は体内のほとんどの血を流していまっている。%W%W……もう、%W%Wかなり血圧が低い……」%K%P
-Doctor「... I hate to tell you this, but... She's already lost most of%Nthe blood in her body. ... Her blood pressure is already%Nconsiderably low...」%K%P
+Doctor「... I hate to tell you this, but... She's already lost most of the blood in her body. ... Her blood pressure is already considerably low...」%K%P
 0x2D64
 医者「もって……%W%Wあと１、２時間……」%K%P
 Doctor「She only... has an hour or two left...」%K%P
@@ -1170,7 +1170,7 @@ Doctor「She only... has an hour or two left...」%K%P
 Saki「No way!」%K%P
 0x2D7C
 医者「輸血だ……。輸血さえすれば、なんとか持ちなおせるかもしれない」%K%P
-Doctor「A blood transfusion... As long as she has a blood%Ntransfusion, she might recover somehow.」%K%P
+Doctor「A blood transfusion... As long as she has a blood transfusion, she might recover somehow.」%K%P
 0x2D88
 医者「……彼女の血液型はＢ型……誰かＢ型の方は？」%K%P
 Doctor「... Her blood type is B-... Are either of you B- or O-?」%K%P
@@ -1182,7 +1182,7 @@ Makoto「...」%K%P
 Saki「...」%K%P
 0x2DAC
 オレ達の血液型が一致しないことは、今のオレにはわかっていた。%Kもうどうすることもできない。%K%N
-I now know that our blood types are incompatible.%K But%Nthere's nothing I can do about it anymore.%K%N
+I now know that our blood types are incompatible.%K But there's nothing I can do about it anymore.%K%N
 0x2DB8
 どうすることもできないのだ……。%K%P
 I can't do anything about it...%K%P
@@ -1191,7 +1191,7 @@ I can't do anything about it...%K%P
 I touch Haruka's hand.%K%P
 0x2DE0
 さっきまで元気だった遙の手……。%Kさっきまで笑っていた遙の手……。%Kさっきまでオレを見ていた遙の手……。%K%P
-Haruka, who was energetic just a few hours ago... Haruka,%Nwho was smiling just hours ago... Haruka, who was looking%Nat me just a few hours ago...%K%P
+Haruka, who was energetic just a few hours ago... Haruka, who was smiling just hours ago... Haruka, who was looking at me just a few hours ago...%K%P
 0x2DF4
 その時だ。ふっと遙が目を開けた。%K%P
 At that moment, Haruka's eyes suddenly open.%K%P
@@ -1203,19 +1203,19 @@ Makoto「...!」%K%P
 Haruka「Makoto...?」%K%P
 0x2E18
 うつろな遙の瞳。%K彼女の視線は宙を眺めたまま、オレをとらえようとしない。%K%P
-Haruka's eyes are blank.%K She stares into space, not%Nnoticing me.%K%P
+Haruka's eyes are blank.%K She stares into space, not noticing me.%K%P
 0x2E24
 誠「オレはここだよ……遙……」%K%P
 Makoto「I'm right here... Haruka...」%K%P
 0x2E30
 遙の手を握った。%K強く、%W強く、%W何よりも強く。%Kオレの存在がわかるように……。%K%P
-I grasp Haruka's hand. I grasp it strongly, stronger than%Never before, hoping that she'll notice my existence...%K%P
+I grasp Haruka's hand. I grasp it strongly, stronger than ever before, hoping that she'll notice my existence...%K%P
 0x2E3C
 遙「痛い……」%K%P
 Haruka「That hurts...」%K%P
 0x2E48
 弱々しい声を洩らした。オレは、慌てて手の力を緩めた。%K%P
-She says it in a weak voice. I frantically lessen the%Npower of my grip.%K%P
+She says it in a weak voice. I frantically lessen the power of my grip.%K%P
 0x2E54
 誠「ご、%W%Wごめん……」%K%P
 Makoto「S-Sorry...」%K%P
@@ -1224,13 +1224,13 @@ Makoto「S-Sorry...」%K%P
 Haruka「No, don't be...」%K%P
 0x2E6C
 宙を見つめたままだ。もう首を動かす力もないのかもしれない……。%K%P
-She continues staring into space. She might not even%Nhave the power to turn her own head...%K%P
+She continues staring into space. She might not even have the power to turn her own head...%K%P
 0x2E94
 誠「遙……遙……。%Kオレ……%W%W遙が%W%Wいな%Wく%Wなる%Wのが%W嫌%Wなんだ……」%K%P
 Makoto「Haruka... Haruka...%K I... I don't want to lose you...」%K%P
 0x2EA0
 ぐっ。%W%W胸の奥で鈍い音がした。%K堰を切ったように涙声になっていた。%K%P
-Guh. A thick sound comes from inside my chest. My voice%Nhas become tearful, bursting out of me like water%Ngushing from a dam.%K%P
+Guh. A thick sound comes from inside my chest. My voice has become tearful, bursting out of me like water gushing from a dam.%K%P
 0x2EAC
 誠「そんなの、嫌だよ。%W%W%W耐えられないよ……」%K%P
 Makoto「I don't want that. I couldn't bear it...」%K%P
@@ -1245,13 +1245,13 @@ Haruka「Because soon, we'll go fishing together again...」%K%P
 Makoto「...」%K%P
 0x2EDC
 遙「……ごめん、誠。%W少し疲れちゃった……。%W%W%Wやっぱり、%W%W深夜の散歩っていけないね……」%K%P
-Haruka「... I'm sorry, Makoto. I'm a little tired... I guess I shouldn't%Nhave taken that evening stroll after all...」%K%P
+Haruka「... I'm sorry, Makoto. I'm a little tired... I guess I shouldn't have taken that evening stroll after all...」%K%P
 0x2EE8
 誠「……は%W%W……はるか……」%K%P
 Makoto「... Ha... Haruka...」%K%P
 0x2EF4
 遙「もう寝なきゃ……%W%W%W明日、優夏に怒られちゃう……」%K%P
-Haruka「I've got to sleep... Yuka's going to scold me for this%Ntomorrow...」%K%P
+Haruka「I've got to sleep... Yuka's going to scold me for this tomorrow...」%K%P
 0x2F10
 ゆっくりとまぶたを閉じていく……。%K%P
 Her eyes slowly begin to close...%K%P
@@ -1281,7 +1281,7 @@ It's that bell again...%K%P
 Makoto「!!」%K%P
 0x2FE8
 オレは遙の顔を見つめた。%K安らかな、%W安らかな、%W遙の顔を……。%K%P
-I look at Haruka's face. It looks peaceful, so very%Npeaceful.%K%P
+I look at Haruka's face. It looks peaceful, so very peaceful.%K%P
 0x2FF4
 その目は、もう２度と開かないのだ……。%K%P
 Her eyes will never open again...%K%P
@@ -1296,16 +1296,16 @@ I kick the fallen bell away.%K%N
 The bell rings as it recoils off the wall.%K%P
 0x306C
 突然、視界が曇った。%Kそう思った時には泣き崩れていた。%K%N
-My field of vision clouds.%K And in that instant, I break down%Nweeping.%K%N
+My field of vision clouds.%K And in that instant, I break down weeping.%K%N
 0x3078
 涙が、あとからあとから、溢れ出してくる。%K止まらない。%K止めたくもなかった。%K%P
-The tears pour out of me one after another.%K I can't stop.%K I%Ndon't want them to stop.%K%P
+The tears pour out of me one after another.%K I can't stop.%K I don't want them to stop.%K%P
 0x3084
 結局、オレは何も変えることができなかったのだ。%K%N
 In the end, I couldn't change anything.%K%N
 0x3090
 わかっていながら、すべてをわかっていながら変えることができなかった。%K%P
-Although I knew everything beforehand, I couldn't%Nchange anything.%K%P
+Although I knew everything beforehand, I couldn't change anything.%K%P
 0x30B8
 （……やはり歴史は何度も繰り返すのか……）%K%P
 (... So history will repeat countless times...?)%K%P

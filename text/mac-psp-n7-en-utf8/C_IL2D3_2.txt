@@ -6,7 +6,7 @@ text area offset and size:
 After getting that over with, I leave the harbor.%K%P
 0x8C
 商店街の通りを足早に歩き、ルナビーチへと向かう。%K%P
-I quickly walk through the shopping district as I head%Ntowards Lunabeach.%K%P
+I quickly walk through the shopping district as I head towards Lunabeach.%K%P
 0x98
 と、その途中……。%K%P
 And, on the way...%K%P
@@ -15,7 +15,7 @@ And, on the way...%K%P
 A leaflet attached to a telephone pole catches my eye.%K%P
 0xB0
 上半分が破れていて、内容はよくわからない。%K%P
-The top half's been torn off, so I don't really know the%Ndetails.%K%P
+The top half's been torn off, so I don't really know the details.%K%P
 0xBC
 ただ、下の方には……%K%P
 But on the bottom half is...%K%P
@@ -24,7 +24,7 @@ But on the bottom half is...%K%P
 「July 7th (Sunday)―(杜紀司) Festival」.%K%P
 0xD4
 『ご家族お誘い合わせの上、ぜひ御参加ください』%K%P
-「Invite all of your family members, and please%Nparticipate.」%K%P
+「Invite all of your family members, and please participate.」%K%P
 0xE0
 ……そう書かれていた。%K%P
 ... That's what's written.%K%P
@@ -51,10 +51,10 @@ I hear a shrill shout, and turn around.%K%P
 It's Yuka...%K%P
 0x174
 その辺の土産物屋で借りて来たのだろうか？　手にはオモチャの刀を握りしめていた。%K%P
-Was she at the nearby gift shop? In her hands, she%Nclutches a toy sword.%K%P
+Was she at the nearby gift shop? In her hands, she clutches a toy sword.%K%P
 0x188
 優夏「父のカタキじゃ！　覚悟しろ！　バサァーーーッ！」%K%P
-Yuka「This is revenge for my father! Prepare yourself!%NYaaaaaah!」%K%P
+Yuka「This is revenge for my father! Prepare yourself! Yaaaaaah!」%K%P
 0x194
 誠「………………」%K%P
 Makoto「...」%K%P
@@ -132,7 +132,7 @@ Yuka「ORYAAAAAAAAAAAAAA!」%K%P
 ―Thump.%K%P
 0x300
 優夏が振り上げた刀を、オレは右手でつかんだ。%K%P
-Yuka raises the sword overhead, but I grab it with my%Nright hand.%K%P
+Yuka raises the sword overhead, but I grab it with my right hand.%K%P
 0x30C
 誠「わるい……ほんとに今、急いでるんだよ」%K%P
 Makoto「Sorry... I really am in a rush right now.」%K%P
@@ -174,7 +174,7 @@ Yuka lightly stabs my cheek with the tip of her sword.%K%P
 Makoto「Hey, that's dangerous, you know!」%K%P
 0x3E4
 誠「『人に刃物を向けるな』って、先生にそう習わなかったか？」%K%P
-Makoto「Didn't your teacher ever tell you not to point sharp%Nobjects at people?」%K%P
+Makoto「Didn't your teacher ever tell you not to point sharp objects at people?」%K%P
 0x3F0
 軽く、刀を払いのけるオレ。%K%P
 I lightly brush the sword aside.%K%P
@@ -225,7 +225,7 @@ Yuka「Well, I don't really care.」%K%P
 Yuka「I went shopping here with Kurumi-chan.」%K%P
 0x4D0
 優夏「朝からずっとテニスやってたから、なんだか疲れちゃって……」%K%P
-Yuka「We've been playing tennis all morning, so we're a bit%Ntired...」%K%P
+Yuka「We've been playing tennis all morning, so we're a bit tired...」%K%P
 0x4DC
 誠「くるみと、一緒に？」%K%P
 Makoto「You're with Kurumi?」%K%P
@@ -237,7 +237,7 @@ My eyes scan the area.%K%P
 Yuka「She's probably in one of the shops around here.」%K%P
 0x500
 優夏「さっきまで２人で、チャンバラごっこして遊んでたから」%K%P
-Yuka「Up until just now, we were having a make-believe sword%Nfight.」%K%P
+Yuka「Up until just now, we were having a make-believe sword fight.」%K%P
 0x50C
 誠「ふーん」%K%P
 Makoto「Hmm...」%K%P
@@ -246,7 +246,7 @@ Makoto「Hmm...」%K%P
 This... this is bad, isn't it?%K%P
 0x524
 これじゃルナビーチに行っても、すぐにくるみが帰って来てしまうかもしれない。%K%P
-Even if I get to Lunabeach now, Kurumi might come back%Nsoon.%K%P
+Even if I get to Lunabeach now, Kurumi might come back soon.%K%P
 0x530
 計画は、断念せざるを得ないか……。%K%P
 Should I just give up on the plan for now...?%K%P
@@ -309,22 +309,22 @@ Makoto「What I said was 'Lash Lines'.」%K%P
 Yuka「... H-Huh?」%K%P
 0x67C
 誠「ほらっ、この猫……心なしかまゆ毛がボーンと伸びてるだろ？」%K%P
-Makoto「You see, it's this cat... It has these huge eyelashes and%Nother lines like it, doesn't it?」%K%P
+Makoto「You see, it's this cat... It has these huge eyelashes and other lines like it, doesn't it?」%K%P
 0x688
 優夏「そ、そうかなぁ？」%K%P
 Yuka「Y-You think so?」%K%P
 0x694
 誠「そうだよ。少なくともオレにはそう見えた」%K%P
-Makoto「That's right. At the very least, that's what it seems like to%Nme. That's why I nicknamed it 'Lash Lines'.」%K%P
+Makoto「That's right. At the very least, that's what it seems like to me. That's why I nicknamed it 'Lash Lines'.」%K%P
 0x6A8
 優夏「うーん……まゆ毛ねぇ……」%K%P
 Yuka「Hmm... eyelashes, huh...」%K%P
 0x6B4
 つぶやきながら、優夏は手の平のキーホルダーをまじまじと見つめていた。%K%P
-As she mutters this, Yuka stares at the key chain in her%Npalm.%K%P
+As she mutters this, Yuka stares at the key chain in her palm.%K%P
 0x6C0
 誠「だから、今日からこの猫の名前は『ボンちゃん』だ」%K%P
-Makoto「Therefore, from today onwards, this cat's name shall be%N'Lashy'!」%K%P
+Makoto「Therefore, from today onwards, this cat's name shall be 'Lashy'!」%K%P
 0x6D4
 優夏「ボンちゃん！？　ダメだよ、そんなの！」%K%P
 Yuka「Lashy!? That's a stupid name!」%K%P
@@ -384,7 +384,7 @@ Yuka「Makoto, have you ever read it?」%K%P
 Makoto「No... but I've heard of it...」%K%P
 0x7D8
 優夏「私も、読んだことないからよくわからないんだけど、どうやらその猫と、このキーホルダーが、すごく似てるらしくって」%K%P
-Yuka「I've not read it either, so I don't know that much, but%Napparently, that cat and this key chain look very similar.」%K%P
+Yuka「I've not read it either, so I don't know that much, but apparently, that cat and this key chain look very similar.」%K%P
 0x7E4
 誠「まさか……シュレディンガーの、猫？」%K%P
 Makoto「It couldn't be... Schrödinger's cat?」%K%P
@@ -399,19 +399,19 @@ Makoto「Does that manga feature 'Schrödinger's cat'?」%K%P
 Makoto「After all, it has a cat in it named 'Schrödy'...」%K%P
 0x81C
 優夏「あれっ？　なんで知ってるの？　今『読んだことない』って言ってたくせに……」%K%P
-Yuka「Huh? How did you know that? I thought you just said you%Nhaven't read it...」%K%P
+Yuka「Huh? How did you know that? I thought you just said you haven't read it...」%K%P
 0x828
 誠「やっぱり……」%K%P
 Makoto「As I thought...」%K%P
 0x834
 優夏「くるみちゃんの話によると、そのマンガのテーマが『シュレディンガーの猫』なんだって」%K%P
-Yuka「According to Kurumi-chan, the theme of that manga is%N'Schrödinger's cat'.」%K%P
+Yuka「According to Kurumi-chan, the theme of that manga is 'Schrödinger's cat'.」%K%P
 0x840
 優夏「面白そうだから、今度読んでみようかなぁ〜とか思ってるんだけど」%K%P
-Yuka「It sounds interesting, so I'm thinking of giving it a read%Nthe next chance I get.」%K%P
+Yuka「It sounds interesting, so I'm thinking of giving it a read the next chance I get.」%K%P
 0x84C
 誠「面白そう、って……じゃあ優夏、知ってるのか！？　『シュレディンガーの猫』が、どんな話なのか！？」%K%P
-Makoto「'Interesting'... Then you know what it is!? What's%N'Schrödinger's cat'!?」%K%P
+Makoto「'Interesting'... Then you know what it is!? What's 'Schrödinger's cat'!?」%K%P
 0x860
 優夏「えっ？　知らないの？　誠……」%K%P
 Yuka「Huh? Makoto, you don't know what it is...?」%K%P
@@ -423,7 +423,7 @@ Makoto「N-No, I don't...」%K%P
 Yuka「I don't get you〜」%K%P
 0x88C
 優夏「『カンタンアイランド』は知ってるのに『シュレディンガーの猫』は知らないんだ？」%K%P
-Yuka「Even though you know what 'Vain Island' is, you don't%Nknow what 'Schrödinger's cat' is?」%K%P
+Yuka「Even though you know what 'Vain Island' is, you don't know what 'Schrödinger's cat' is?」%K%P
 0x898
 誠「もうそんなことはどうでもいいから、早く教えてくれよ！」%K%P
 Makoto「That doesn't matter, just hurry up and tell me!」%K%P
@@ -444,13 +444,13 @@ Makoto「I'm shouting because you're being so thickheaded!」%K%P
 Yuka「Ah... Aah... I don't like that attitude of yours.」%K%P
 0x8F8
 優夏「それが人にモノを頼むときの態度かしらぁ〜？」%K%P
-Yuka「Is that the attitude you take when you ask someone a%Nfavor?」%K%P
+Yuka「Is that the attitude you take when you ask someone a favor?」%K%P
 0x904
 誠「………………………………………………………」%K%P
 Makoto「...」%K%P
 0x918
 優夏「なんなら帰っちゃってもいいんですけどねぇ〜」%K%P
-Yuka「In that case, you should just go back to where you%Ncame from!」%K%P
+Yuka「In that case, you should just go back to where you came from!」%K%P
 0x924
 誠「わかったよ、悪かった、申し訳ありませんでした」%K%P
 Makoto「All right, I'm sorry. Forgive me.」%K%P
@@ -468,7 +468,7 @@ Yuka「Stab, stab, stab, stab...」%K%P
 Yuka「YAAAAAAAAAAAAAAAH!」%K%P
 0x968
 何だか知らんが突然、優夏はオレの体を斬りつけてきた。%K%P
-For some reason, Yuka suddenly stabs me with the toy%Nsword.%K%P
+For some reason, Yuka suddenly stabs me with the toy sword.%K%P
 0x974
 誠「わあ、痛いいい」%K%P
 Makoto「Owwwwwww!」%K%P
@@ -489,7 +489,7 @@ Makoto「Well? Was that satisfactory?」%K%P
 Yuka「Hmm... well, it's good enough.」%K%P
 0x9C4
 そう言って、優夏は刀をひと振りし、腰に当てたサヤにしまった。%K%P
-Yuka says this, swings the sword once, and sheathes it%Nin a scabbard on her back.%K%P
+Yuka says this, swings the sword once, and sheathes it in a scabbard on her back.%K%P
 0x9D0
 誠「で？　『シュレディンガーの猫』って、なんなんだ？」%K%P
 Makoto「So? What's 'Schrödinger's cat'?」%K%P
@@ -498,10 +498,10 @@ Makoto「So? What's 'Schrödinger's cat'?」%K%P
 Yuka「That's obvious!」%K%P
 0x9F0
 優夏「──シュレディンガー地方特産の猫のこと！」%K%P
-Yuka「―They're a species of cats that come from the%NSchrödinger providence!」%K%P
+Yuka「―They're a species of cats that come from the Schrödinger providence!」%K%P
 0x9FC
 優夏「イリオモテ山猫の遠い親戚、という噂もあったりなかったり……」%K%P
-Yuka「It's rumored that they're distant relatives of the Iriomote%Nwildcat...」%K%P
+Yuka「It's rumored that they're distant relatives of the Iriomote wildcat...」%K%P
 0xA08
 誠「マ、マジで？」%K%P
 Makoto「A-Are you serious?」%K%P
@@ -513,10 +513,10 @@ Yuka「Nope! Just kidding!」%K%P
 (D-Damn you...)%K%P
 0xA3C
 優夏「いい？　１度しか説明しないから、ちゃ〜んと聞いててね♪」%K%P
-Yuka「Okay? I'm only going to explain this once, so listen%Ncarefully♪」%K%P
+Yuka「Okay? I'm only going to explain this once, so listen carefully♪」%K%P
 0xA50
 優夏「あれぇ〜？　誠くん、肩が微妙ぉ〜に震えてるけど、大丈夫かなぁ〜？」%K%P
-Yuka「Huh〜? Makoto-kun, your shoulders are trembling ever%Nso slightly. You okay〜?」%K%P
+Yuka「Huh〜? Makoto-kun, your shoulders are trembling ever so slightly. You okay〜?」%K%P
 0xA5C
 誠「……………………」%K%P
 Makoto「...」%K%P
@@ -531,10 +531,10 @@ Yuka「Well then, umm, where do I begin?」%K%P
 Yuka「First...」%K%P
 0xA94
 優夏「シュレディンガーっていうのは、波動力学を生み出したオーストリアの理論物理学者のこと」%K%P
-Yuka「Schrödinger was an Austrian theoretical physicist who%Ncreated wave mechanics.」%K%P
+Yuka「Schrödinger was an Austrian theoretical physicist who created wave mechanics.」%K%P
 0xAA0
 優夏「原子内の電子運動を表わす波動方程式を導いてっ」%K%P
-Yuka「He developed a wave equation to describe the%Nmovement of electrons within atoms-」%K%P
+Yuka「He developed a wave equation to describe the movement of electrons within atoms-」%K%P
 0xAAC
 誠「ちょっと待った！」%K%P
 Makoto「Hold on!」%K%P
@@ -543,7 +543,7 @@ Makoto「Hold on!」%K%P
 Yuka「Hmm?」%K%P
 0xACC
 誠「今んとこ理解できてないと……この先ヤバイ？」%K%P
-Makoto「I can't understand any of that stuff... Is it going to get%Nmore complicated from here on out?」%K%P
+Makoto「I can't understand any of that stuff... Is it going to get more complicated from here on out?」%K%P
 0xAE0
 優夏「う〜ん……平気かな？」%K%P
 Yuka「Hmm... are you going to be okay?」%K%P
@@ -558,10 +558,10 @@ Yuka「If you keep that much in mind, you'll probably be okay.」%K%P
 Makoto「Okay, got it... Then please continue.」%K%P
 0xB10
 優夏「でぇ、この物理学者の作った話が『シュレディンガーの猫』ってわけ」%K%P
-Yuka「And so, it was he who came up with the story of%N'Schrödinger's cat'.」%K%P
+Yuka「And so, it was he who came up with the story of 'Schrödinger's cat'.」%K%P
 0xB1C
 優夏「最初に注意しとくけど、これはあくまで架空の話だからね？」%K%P
-Yuka「I'll have you know that the following story is completely%Nfictional.」%K%P
+Yuka「I'll have you know that the following story is completely fictional.」%K%P
 0xB28
 優夏「『もしこうだったら？』って疑問を示すことが、この話の目的だから」%K%P
 Yuka「Its purpose is to propose a 'what if?' problem.」%K%P
@@ -597,16 +597,16 @@ Makoto「Alpha particles?」%K%P
 Yuka「Hmm... they're particles identical to a helium nucleus...」%K%P
 0xBBC
 優夏「まっ、難しい話は抜きにして、ただのちっちゃいちっちゃい粒のことだって、思っといて？」%K%P
-Yuka「Well, let's leave out the complicated stuff. Just think of%Nthem as these itty bitty particles.」%K%P
+Yuka「Well, let's leave out the complicated stuff. Just think of them as these itty bitty particles.」%K%P
 0xBC8
 優夏「放射性物質からびよよよよぉ〜んと飛び出して来るのが、このちっちゃい粒……α粒子なの」%K%P
-Yuka「These itty bitty particles come flying out from the%Nradioactive material... Those are α particles.」%K%P
+Yuka「These itty bitty particles come flying out from the radioactive material... Those are α particles.」%K%P
 0xBD4
 誠「ふ〜ん……」%K%P
 Makoto「Hmm...」%K%P
 0xBE0
 誠「猫、毒ガス、箱、放射性物質と検出ロボット、かぁ……」%K%P
-Makoto「So you need a cat, poison gas, a box, radioactive%Nmaterial, and a robot that can detect radioactive%Nmaterial...」%K%P
+Makoto「So you need a cat, poison gas, a box, radioactive material, and a robot that can detect radioactive material...」%K%P
 0xBEC
 優夏「うん。……そしたら次にぃ〜」%K%P
 Yuka「Right... Then it's time for the next step.」%K%P
@@ -618,34 +618,34 @@ Yuka「Put all of the provisions in the box, and close the lid.」%K%P
 Yuka「All right... With this, the preparations are complete!」%K%P
 0xC20
 優夏「と、言いたい所だけど、これだけじゃあ何にも起こるわけがないよね？」%K%P
-Yuka「Or so I'd like to say, but there's no way anything will%Nhappen if this is all you do.」%K%P
+Yuka「Or so I'd like to say, but there's no way anything will happen if this is all you do.」%K%P
 0xC2C
 誠「まあ、そうだろうなぁ……」%K%P
 Makoto「Well, that's true...」%K%P
 0xC38
 優夏「そこでこれから、この材料を使って、ある実験装置を作ることにします」%K%P
-Yuka「And so, from now on, you decide to use these materials%Nto create a certain experimental device.」%K%P
+Yuka「And so, from now on, you decide to use these materials to create a certain experimental device.」%K%P
 0xC44
 優夏「装置の仕組みは、いたってシンプル」%K%P
 Yuka「The structure of the device is simple.」%K%P
 0xC50
 優夏「箱の中にある放射性物質から、α粒子がびよよよよぉ〜んと飛び出たら……」%K%P
-Yuka「If α particles come flying out from the radioactive%Nmaterial in the box...」%K%P
+Yuka「If α particles come flying out from the radioactive material in the box...」%K%P
 0xC5C
 優夏「検出ロボット『信くん１号』が、それを感知して……」%K%P
-Yuka「The detection robot―let's call him 'Beli-kun Unit 1'―%Nperceives the particles...」%K%P
+Yuka「The detection robot―let's call him 'Beli-kun Unit 1'―perceives the particles...」%K%P
 0xC68
 優夏「毒ガスの入ったビンをパリィ〜〜〜ンッ！と割っちゃう仕組みです」%K%P
-Yuka「And then releases a mechanism that makes the glass%Nbottle with the poison gas go *craaaaaaaack* by%Nbreaking it apart.」%K%P
+Yuka「And then releases a mechanism that makes the glass bottle with the poison gas go *craaaaaaaack* by breaking it apart.」%K%P
 0xC74
 誠「でもそんなことしたら、箱の中に毒ガスが充満して……」%K%P
-Makoto「But if that happens, then the box would be filled with%Npoison gas...」%K%P
+Makoto「But if that happens, then the box would be filled with poison gas...」%K%P
 0xC88
 優夏「そう！　そのとおり！」%K%P
 Yuka「Yes! That's right!」%K%P
 0xC94
 優夏「箱はピッチリと密封されてるから、猫は逃げることもできずに……」%K%P
-Yuka「But because the box is tightly and hermetically sealed,%Nthe cat can't escape...」%K%P
+Yuka「But because the box is tightly and hermetically sealed, the cat can't escape...」%K%P
 0xCF8
 優夏そう言って、お手手のシワとシワを合わせた。%K%P
 As Yuka says this, she brings her hands together.%K%P
@@ -654,25 +654,25 @@ As Yuka says this, she brings her hands together.%K%P
 It's like she's praying for the soul of the cat.%K%P
 0xD18
 誠「う〜ん……でもそれって結局は『α粒子が出ると猫が死ぬ』って、ただそれだけのことなんじゃないのか？」%K%P
-Makoto「Hmm... but in the end, isn't all that this shows is 'When the%Nα particles are released, the cat dies'?」%K%P
+Makoto「Hmm... but in the end, isn't all that this shows is 'When the α particles are released, the cat dies'?」%K%P
 0xD48
 優夏「まあ、簡単に言っちゃうとね？」%K%P
 Yuka「Well, that may be putting it simply.」%K%P
 0xD54
 優夏「だけどぉ、ここで一番大事なのは、猫も信くん１号も、密封された箱の中に入ってるってことなの」%K%P
-Yuka「However, the most important thing is that the cat and%NBeli-kun Unit 1 are put inside the hermetically sealed box.」%K%P
+Yuka「However, the most important thing is that the cat and Beli-kun Unit 1 are put inside the hermetically sealed box.」%K%P
 0xD60
 優夏「ってことはぁ、外側から見てるだけの観察者には……」%K%P
-Yuka「Which means that the observers can only see the box's%Nexterior...」%K%P
+Yuka「Which means that the observers can only see the box's exterior...」%K%P
 0xD6C
 優夏「いつα粒子が出たのかもわからないし……」%K%P
-Yuka「So they also don't know when the α particles were%Nreleased...」%K%P
+Yuka「So they also don't know when the α particles were released...」%K%P
 0xD78
 優夏「いつビンが割れたのかもわからないし……」%K%P
 Yuka「They also don't know when the glass bottle broke...」%K%P
 0xD84
 優夏「いつ猫が死んでしまったのかもわからない、ってことになるでしょ？」%K%P
-Yuka「Which means they also don't know when the cat died,%Nright?」%K%P
+Yuka「Which means they also don't know when the cat died, right?」%K%P
 0xD90
 誠「……うん」%K%P
 Makoto「... Right.」%K%P
@@ -681,7 +681,7 @@ Makoto「... Right.」%K%P
 Yuka「Well then, let me ask you a question, Makoto-kun.」%K%P
 0xDB0
 優夏「もしも今、目の前にそういう実験装置があったとしたら、箱の中の猫は、生きてるでしょうか？　死んでるでしょうか？」%K%P
-Yuka「If such an experimental device was before your eyes%Nright now, would the cat in the box be alive? Or would it%Nbe dead?」%K%P
+Yuka「If such an experimental device was before your eyes right now, would the cat in the box be alive? Or would it be dead?」%K%P
 0xDC4
 優夏「もちろん、箱に触れてはいけないものとします」%K%P
 Yuka「Of course, you can't touch the cat.」%K%P
@@ -690,7 +690,7 @@ Yuka「Of course, you can't touch the cat.」%K%P
 Makoto「There's no way I could know it then, right?」%K%P
 0xDDC
 誠「箱には防音処置がほどこされてるし、触ってもいけないんだったら、猫の生死なんかわかるわけがない！」%K%P
-Makoto「The box is soundproof, so if I can't touch the cat,%Nthere's no way I can know whether it's dead or alive!」%K%P
+Makoto「The box is soundproof, so if I can't touch the cat, there's no way I can know whether it's dead or alive!」%K%P
 0xDE8
 優夏「……………………………………」%K%P
 Yuka「...」%K%P
@@ -699,31 +699,31 @@ Yuka「...」%K%P
 Makoto「Ah... but wait...」%K%P
 0xE00
 誠「結局、猫の生死はα粒子が出たかどうかにかかってるんだから、少なくともそれがわかれば、推測することはできるかもしれない」%K%P
-Makoto「In the end, the cat's life or death status is affected by%Nwhether or not the α particles are emitted, so if I knew%Nthat at the very least, then I might be able to make a%Nguess.」%K%P
+Makoto「In the end, the cat's life or death status is affected by whether or not the α particles are emitted, so if I knew that at the very least, then I might be able to make a guess.」%K%P
 0xE0C
 誠「つまり、放射性物質から『いつα粒子が出るのか？』……それを予測することができれば、猫の生死もわかるんじゃないかな？」%K%P
-Makoto「In other words 'When did the radioactive material emit α%Nparticles?'... If I can predict that, then I could also tell the%Ncat's life or death status, couldn't I?」%K%P
+Makoto「In other words 'When did the radioactive material emit α particles?'... If I can predict that, then I could also tell the cat's life or death status, couldn't I?」%K%P
 0xE20
 優夏「いやぁ〜ん♪　すっごぉ〜い♪　あったまいい〜♪」%K%P
 Yuka「Wow〜♪ Amazing〜♪ You're a smart boy〜♪」%K%P
 0xE2C
 言いながら、優夏はサヤから刀を抜いて、オレの頭をペシペシとたたいた。%K%P
-As she says this, Yuka draws the sword out of her%Nsheath and whacks me on the head.%K%P
+As she says this, Yuka draws the sword out of her sheath and whacks me on the head.%K%P
 0xE40
 優夏「そうなのっ！」%K%P
 Yuka「That's right!」%K%P
 0xE4C
 優夏「いつα粒子が出るのかがわかれば、猫が死んでるかどうかも必然的にわかるのっ！」%K%P
-Yuka「If you know when the α particles were emitted, then%Nyou'll also inevitably know whether or not the cat is%Ndead!」%K%P
+Yuka「If you know when the α particles were emitted, then you'll also inevitably know whether or not the cat is dead!」%K%P
 0xE60
 優夏「──ところがぁぁぁっ！！」%K%P
 Yuka「―HOWEVERRRRRRRR!!」%K%P
 0xE74
 優夏「このα粒子っていうのはものすごぉ〜〜〜くちっちゃい粒だから……」%K%P
-Yuka「These α particles are increeeeeeeedibly tiny%Nparticles...」%K%P
+Yuka「These α particles are increeeeeeeedibly tiny particles...」%K%P
 0xE80
 優夏「私達が日常的に経験するような物理法則では、その運動を理解することはできないのよぉ！」%K%P
-Yuka「So based on the laws of physics we experience in our%Ndaily lives, it's impossible to understand their%Nmovements!」%K%P
+Yuka「So based on the laws of physics we experience in our daily lives, it's impossible to understand their movements!」%K%P
 0xE8C
 誠「？？？？？？？」%K%P
 Makoto「???????」%K%P
@@ -732,28 +732,28 @@ Makoto「???????」%K%P
 Yuka「Hmm, how do I explain this...」%K%P
 0xEB4
 優夏「要するにね？　α粒子がいつ出るのかは、確率的にしかわからないってことなんだけどぉ」%K%P
-Yuka「In short, the time when the α particles will be released is%Nprobabilistic, and can't be known.」%K%P
+Yuka「In short, the time when the α particles will be released is probabilistic, and can't be known.」%K%P
 0xEC0
 誠「……………………だから？」%K%P
 Makoto「... So?」%K%P
 0xECC
 優夏「だからぁ、結局、猫の生死も確率的にしか判断できない……それがさっきの問題の、答なの」%K%P
-Yuka「So in the end, the cat's life and death status also can%Nonly be judged probabilistically... That's the answer to%Nthe earlier question.」%K%P
+Yuka「So in the end, the cat's life and death status also can only be judged probabilistically... That's the answer to the earlier question.」%K%P
 0xED8
 誠「……？」%K%P
 Makoto「...?」%K%P
 0xEE4
 優夏「例えば、もしも仮に、α粒子が放出される可能性が５０％だったとしたら……」%K%P
-Yuka「For example, let's say, for argument's sake, if the%Nprobability of the α particles being released is 50％...」%K%P
+Yuka「For example, let's say, for argument's sake, if the probability of the α particles being released is 50％...」%K%P
 0xEF0
 優夏「箱の中の猫は、半分は死んでるっぽい猫で、半分は生きてるっぽい猫、ってことになるでしょ？」%K%P
-Yuka「That means that the cat in the box is half dead-ish and%Nhalf alive-ish, right?」%K%P
+Yuka「That means that the cat in the box is half dead-ish and half alive-ish, right?」%K%P
 0xEFC
 誠「そうかぁ？」%K%P
 Makoto「You think so?」%K%P
 0xF08
 誠「現実的に考えれば、猫の生死は０％か１００％……絶対に、生きてるか死んでるか、そのどっちかなわけだし」%K%P
-Makoto「If you hink about it realistically, the cat's life or death%Nstatus is either 0％ or 100％... It's either dead or alive.」%K%P
+Makoto「If you hink about it realistically, the cat's life or death status is either 0％ or 100％... It's either dead or alive.」%K%P
 0xF1C
 優夏「それが、そうじゃないんだなぁ〜」%K%P
 Yuka「That's not what I mean.」%K%P
@@ -765,28 +765,28 @@ Yuka「This is the interesting part of this story.」%K%P
 Makoto「?」%K%P
 0xF40
 優夏「さっきも言ったけど、α粒子がいつ出るのかは、確率的にしかわからないの」%K%P
-Yuka「I said this earlier, but the time when the α particles will%Nbe emitted is probabilistic, and therefore unknown.」%K%P
+Yuka「I said this earlier, but the time when the α particles will be emitted is probabilistic, and therefore unknown.」%K%P
 0xF4C
 優夏「最終的に、放出されたのかどうかは、観測してみるまでわからない」%K%P
-Yuka「In the end, whether they were emitted or not is something%Nthat is unknown until it's observed.」%K%P
+Yuka「In the end, whether they were emitted or not is something that is unknown until it's observed.」%K%P
 0xF58
 優夏「観測する前のα粒子は、放出された状態と放出されてない状態が、その瞬間、ともに『共存』してるってわけ」%K%P
-Yuka「In conclusion, in that instant before they are observed,%Nthe state where the α particles were emitted and the%Nstate where they weren't emitted are 'coexisting'%Ntogether.」%K%P
+Yuka「In conclusion, in that instant before they are observed, the state where the α particles were emitted and the state where they weren't emitted are 'coexisting' together.」%K%P
 0xF64
 誠「……共……存……」%K%P
 Makoto「... Co... existing...」%K%P
 0xF70
 優夏「ということは、箱の中の猫も、フタを開けて見るまでは……」%K%P
-Yuka「Likewise, the same applies to the cat in the box up until%Nthe lid on the box is opened and you look inside...」%K%P
+Yuka「Likewise, the same applies to the cat in the box up until the lid on the box is opened and you look inside...」%K%P
 0xF7C
 優夏「生きてる状態と死んでる状態が、その瞬間、ともに『共存』してるってことになるのよぉ」%K%P
-Yuka「In that instant, it's been decided that the state where%Nthe cat is alive and the state where the cat is dead are%N'coexisting' together.」%K%P
+Yuka「In that instant, it's been decided that the state where the cat is alive and the state where the cat is dead are 'coexisting' together.」%K%P
 0xF88
 誠「……………………」%K%P
 Makoto「...」%K%P
 0xF94
 優夏「当然フタを開けて見たら、生きてるか死んでるか……必ずそのどっちかの状態に決まるんだけどね？」%K%P
-Yuka「Obviously, once you open the lid to see if it's dead or%Nalive... one of those two states will definitely be decided.」%K%P
+Yuka「Obviously, once you open the lid to see if it's dead or alive... one of those two states will definitely be decided.」%K%P
 0xFA0
 誠「……………………」%K%P
 Makoto「...」%K%P
@@ -795,7 +795,7 @@ Makoto「...」%K%P
 Yuka「This is the story of 'Schrödinger's cat'.」%K%P
 0xFB8
 優夏「まあ、いまだに物理学者の間では、この話をどう解釈するのか、色々と意見が分かれてるみたいだけど」%K%P
-Yuka「Well, it seems that even today, physicists are divided%Nbetween various opinions on how to interpret this story.」%K%P
+Yuka「Well, it seems that even today, physicists are divided between various opinions on how to interpret this story.」%K%P
 0xFC4
 誠「……………………」%K%P
 Makoto「...」%K%P
@@ -816,7 +816,7 @@ Yuka「I tried giving a considerably simple explanation too...」%K%P
 Makoto「But it's strange no matter how you think of it, right?!」%K%P
 0x101C
 誠「フタを開けて見るまでは、生きてる状態と死んでる状態が半分半分で、フタを開けて見たら、その生死が確定する、なんてさ……」%K%P
-Makoto「Until the lid is opened and you look inside, there's a%N50-50 chance of the cat being either dead or alive.%K You%Ncan only be 100％ certain when you open the lid and%Ndetermine it for yourself... What the hell's that all about?!」%K%P
+Makoto「Until the lid is opened and you look inside, there's a 50-50 chance of the cat being either dead or alive.%K You can only be 100％ certain when you open the lid and determine it for yourself... What the hell's that all about?!」%K%P
 0x1028
 優夏「そんなこと言ったって、しょうがないじゃない」%K%P
 Yuka「If that's what you're saying, then it can't be helped.」%K%P
@@ -840,10 +840,10 @@ Makoto「All right, Yuka, is this what you're talking about?」%K%P
 Makoto「Right now, the time is... ummm... exactly 3:50 P.M.」%K%P
 0x109C
 誠「午後３時５０分……目の前には、四角い箱が置いてある、とする」%K%P
-Makoto「At 3:50 P.M. ... there's a square box placed right in front%Nof me.」%K%P
+Makoto「At 3:50 P.M. ... there's a square box placed right in front of me.」%K%P
 0x10A8
 誠「箱の中には『生きてるか死んでるかわからない猫』が入ってる……いいな？」%K%P
-Makoto「In the box is 'A cat that I don't know if it's alive or dead'...%NGot it?」%K%P
+Makoto「In the box is 'A cat that I don't know if it's alive or dead'... Got it?」%K%P
 0x10B4
 優夏「うん」%K%P
 Yuka「Yes.」%K%P
@@ -867,22 +867,22 @@ Makoto「Now it's just turned to 3:51 P.M.」%K%P
 Makoto「I'm opening the lid and looking...」%K%P
 0x1120
 誠「かわいそうに……猫はだいぶ前に、死んでしまっていたようだ」%K%P
-Makoto「How sad... It seems the cat's been dead for quite some%Ntime.」%K%P
+Makoto「How sad... It seems the cat's been dead for quite some time.」%K%P
 0x112C
 優夏「うん」%K%P
 Yuka「Right.」%K%P
 0x1138
 誠「ってことは、３時５０分の時点でも、猫は死んでたことになる」%K%P
-Makoto「Which means that it's been decided that at 3:50 P.M., the%Ncat was dead.」%K%P
+Makoto「Which means that it's been decided that at 3:50 P.M., the cat was dead.」%K%P
 0x1144
 優夏「うん」%K%P
 Yuka「Right.」%K%P
 0x1150
 誠「半分は生きてた、なんてことはあり得ない。%N%W『%W完%W全%Wに%W』%W死んでたんだ」%K%P
-Makoto「There was no 50％ chance that it was alive. It was%N'completely' dead.'」%K%P
+Makoto「There was no 50％ chance that it was alive. It was 'completely' dead.'」%K%P
 0x115C
 優夏「うん……すでに観測した後だからね？　そう言ってもいいと思うよ？」%K%P
-Yuka「Right... This is already after you've observed it? I see no%Nproblems with saying that.」%K%P
+Yuka「Right... This is already after you've observed it? I see no problems with saying that.」%K%P
 0x1168
 誠「あああああああっ！　わかんねぇぇぇぇぇぇぇっ！」%K%P
 Makoto「ARRRRRGH! I DON'T GET ITTTTTT!」%K%P
@@ -894,19 +894,19 @@ Makoto「Hey, Yuka? Can't you explain this any simpler!?」%K%P
 Yuka「It's like I said!」%K%P
 0x119C
 優夏「３時５０分のときの誠にとっては、猫は半分生きてて半分死んでたのっ！」%K%P
-Yuka「To the you at 3:50 P.M., the cat was half alive and half%Ndead!」%K%P
+Yuka「To the you at 3:50 P.M., the cat was half alive and half dead!」%K%P
 0x11A8
 優夏「でも５１分以降の誠にとっては、５０分のときの猫も、死んでたことになるのっ！」%K%P
-Yuka「But to the you from 3:51 P.M. and afterwards, it's been%Ndecided that the cat at 3:50 P.M. was also dead!」%K%P
+Yuka「But to the you from 3:51 P.M. and afterwards, it's been decided that the cat at 3:50 P.M. was also dead!」%K%P
 0x11B4
 誠「それじゃあ、なんだ！？」%K%P
 Makoto「But what does that mean!?」%K%P
 0x11C0
 誠「オレがフタを開いたことによって、過去が変わったとでも言うのか、お前は！？」%K%P
-Makoto「Are you saying that by opening the lid, I changed the%Npast!?」%K%P
+Makoto「Are you saying that by opening the lid, I changed the past!?」%K%P
 0x11D4
 優夏「『変わった』って言うよりも『決まった』って言った方が、正しいかな？」%K%P
-Yuka「Rather than 'changed', it would be more accurate to say%N'decided'.」%K%P
+Yuka「Rather than 'changed', it would be more accurate to say 'decided'.」%K%P
 0x11E0
 優夏「３時５１分──誠は『過去を決めた』のよ」%K%P
 Yuka「At 3:51 P.M.―you 'decided the past'.」%K%P
@@ -957,7 +957,7 @@ Kurumi「Hey, Kurumi's not a demon!」%K%P
 Kurumi「For now, she's a female ninja from the Iga clan!」%K%P
 0x12FC
 優夏「ええ〜いっ、何でもよいわぁ〜。この伝家の宝刀正宗で成敗してくれよぉ」%K%P
-Yuka「Well, either way, it does not matter. With my family's%Ntreasured sword, the Masamune, I shall punish you.」%K%P
+Yuka「Well, either way, it does not matter. With my family's treasured sword, the Masamune, I shall punish you.」%K%P
 0x1310
 優夏「覚悟はよいな？」%K%P
 Yuka「Art thou prepared?」%K%P
@@ -972,7 +972,7 @@ Yuka「Then have at you!」%K%P
 *Wham, wham*... *wham, wham*... *wham*...%K%P
 0x1380
 プラスチックの刀を使って、優夏とくるみがチャンバラを始めた。%K%P
-Yuka and Kurumi begin a make-believe sword fight using%Nplastic swords.%K%P
+Yuka and Kurumi begin a make-believe sword fight using plastic swords.%K%P
 0x138C
 オレは正直……それどころではなかった。%K%P
 Honestly... I'm lost now.%K%P
@@ -990,7 +990,7 @@ Yuka's words run through my head.%K%P
 「Schrödinger's cat.」%K%P
 0x13C8
 それとキュレイシンドロームの『第３の特徴』には、どうやら関係があるらしい。%K%P
-Apparently, it's somehow related to 「The Third Trait」 of%NCuré Syndrome.%K%P
+Apparently, it's somehow related to 「The Third Trait」 of Curé Syndrome.%K%P
 0x13D4
 いづみさんは昨日の夜、確かにそう言っていたのだ。%K%P
 Izumi-san definitely said that last night.%K%P
@@ -1002,13 +1002,13 @@ But...%K%P
 ... Just how are they related?%K%P
 0x13F8
 さらに『第３の特徴』は、無限ループの原因とも関っているのだと言う。%K%P
-She also said that 'The Third Trait' was related to the%Ncause of the infinite loop.%K%P
+She also said that 'The Third Trait' was related to the cause of the infinite loop.%K%P
 0x1404
 あまりにも複雑すぎる……。%K%P
 This is all way too complex...%K%P
 0x1410
 複雑すぎて、頭が今にも破裂しそうだった。%K%P
-I'm developing a headache from attempting to%Nunderstand it all.%K%P
+I'm developing a headache from attempting to understand it all.%K%P
 0x1440
 優夏「このぉ〜、ちょこざいなぁ〜！」%K%P
 Yuka「Why you, take some of this!」%K%P

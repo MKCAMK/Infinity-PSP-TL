@@ -6,7 +6,7 @@ text area offset and size:
 I return to my room, and slip into my bed as I think...%K%P
 0x78
 （やっぱり、何か言ってあげるべきだったんじゃないのか？）%K%P
-(In the end, I was unable to give her any sort of answer%Nafter she said that...)%K%P
+(In the end, I was unable to give her any sort of answer after she said that...)%K%P
 0x84
 （何か……………………何かって、何を？）%K%P
 (Why couldn't I say anything?)%K%P
@@ -15,13 +15,13 @@ I return to my room, and slip into my bed as I think...%K%P
 (Just what do I feel for Izumi-san?)%K%P
 0x9C
 そんな簡単なことさえ、今のオレにはわからなかった。%K%P
-Even though it's a simple question, the current me%Ndoesn't know the answer.%K%P
+Even though it's a simple question, the current me doesn't know the answer.%K%P
 0xA8
 いづみさんの微笑みが、まぶたの裏に焼きついている。%K%P
 The image of Izumi-san's smile is burned into my eyes.%K%P
 0xB4
 目を閉じれば、その面影が、ぼんやりと闇の中に浮かんで来る。%K%P
-When I close my eyes, the image of her face faintly%Nappears in the darkness.%K%P
+When I close my eyes, the image of her face faintly appears in the darkness.%K%P
 0xC0
 なかなか寝つくことができなかった……。%K%P
 I can't sleep like this...%K%P
@@ -48,7 +48,7 @@ Makoto「Saturday, April 6th...」%K%P
 I mutter this out loud.%K%P
 0x144
 あの夢の出来事……まさか本当に起こるとは思えない。%K%P
-The incident in that dream... I don't think it will really occur%Nafter all.%K%P
+The incident in that dream... I don't think it will really occur after all.%K%P
 0x150
 けれど、気にならないと言えば嘘になる。%K%P
 But I would be lying if I said I wasn't worried.%K%P
@@ -114,7 +114,7 @@ No, it'd be nuts for me to believe it.%K%N
 That was just a hallucination.%K%P
 0x360
 いづみさんのことを意識し過ぎて……だからあんな幻覚を見たんだ。%K%P
-I've been thinking about Izumi-san too much... That's why I%Nhad it.%K%P
+I've been thinking about Izumi-san too much... That's why I had it.%K%P
 0x36C
 誠「いづみさん……」%K%P
 Makoto「Izumi-san...」%K%P

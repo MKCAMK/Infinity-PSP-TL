@@ -18,7 +18,7 @@ Makoto「Yeah... umm, what were we talking about?」%K%P
 Izumi「―Star sand!」%K%P
 0xC0
 いづみ「今日の午後、遙が私にくれた『星の砂』の話！」%K%P
-Izumi「We were talking about the 'star sand' Haruka gave me%Nthis afternoon!」%K%P
+Izumi「We were talking about the 'star sand' Haruka gave me this afternoon!」%K%P
 0xCC
 誠「あっ、そうか……遙の、星の砂……」%K%P
 Makoto「Ah, I see... Haruka's star sand...」%K%P
@@ -39,7 +39,7 @@ For now, I fake a laugh...%K%N
 Izumi「Shall I pull on your face?」%K%P
 0x11C
 言いながら、いづみさんは右手の指先で、オレの頬をつまんだ。%K%P
-Izumi-san pinches my cheek with the fingers on her right%Nhand as she says this.%K%P
+Izumi-san pinches my cheek with the fingers on her right hand as she says this.%K%P
 0x138
 細くしなやかな指先……。%K%N
 Her fingers are thin and flexible...%K%N
@@ -60,7 +60,7 @@ Izumi「Don't forget... my existence, okay?」%K%P
 (That's right...)%K%P
 0x1D0
 （なにバカなこと考えてんだよ、オレは……）%K%P
-(Why the hell have I been thinking about all of this stupid%Ncrap...?)%K%P
+(Why the hell have I been thinking about all of this stupid crap...?)%K%P
 0x1DC
 （『いづみさんのぬくもりを信じる』って……）%K%P
 (「I believe in Izumi-san's warmth」...)%K%P
@@ -126,7 +126,7 @@ Makoto「...」%K%P
 I silently continue walking.%K%P
 0x388
 夜空に月は無く、星も無く、闇が深く降り積もっていた。%K%P
-There is no moon or stars in the night sky tonight, and%Nthe darkness is as thick as snow.%K%P
+There is no moon or stars in the night sky tonight, and the darkness is as thick as snow.%K%P
 0x394
 その闇を、切り裂くようにしてぐんぐんと進んだ。%K%P
 I steadily advance as if I'm cutting down the darkness.%K%P
@@ -135,7 +135,7 @@ I steadily advance as if I'm cutting down the darkness.%K%P
 A slightly tingling sensation comes from my palm...%K%P
 0x3AC
 やわらかなぬくもりが、沁みていた……。%K%P
-It's Izumi-san's gentle warmth, which passes into through%Nme...%K%P
+It's Izumi-san's gentle warmth, which passes into through me...%K%P
 0x404
 いづみ「姫ヶ浜……」%K%P
 Izumi「Princess Beach...」%K%P
@@ -147,13 +147,13 @@ Izumi-san lets go of my hand, and turns towards me.%K%P
 Izumi「Makoto-kun... why... did we come here?」%K%P
 0x44C
 波の音が、岩壁に反響してくぐもった音を奏でた。%K%P
-We can hear the sound of the waves breaking against%Nthe rock walls.%K%P
+We can hear the sound of the waves breaking against the rock walls.%K%P
 0x458
 渚の白い砂は、湿気を帯びて固く引きしまっていた。%K%P
-The white sand at the shore has hardened from the%Nwaves.%K%P
+The white sand at the shore has hardened from the waves.%K%P
 0x464
 オレは足元の砂を、つま先で何度か蹴飛ばした。%K%P
-I kick away the sand at my feet with my toes several%Ntimes.%K%P
+I kick away the sand at my feet with my toes several times.%K%P
 0x470
 いづみさんはじっと、答を待っていた。%K%P
 Izumi-san is patiently waiting for my reply.%K%P
@@ -171,7 +171,7 @@ Izumi「...」%K%P
 Makoto「Right now...」%K%P
 0x4C8
 誠「星空の下で言ってくれた言葉の返事を、%T015今、%T015するよ」%K%P
-Makoto「I have my response to the words you said that day,%Nunder the starry sky.」%K%P
+Makoto「I have my response to the words you said that day, under the starry sky.」%K%P
 0x4D4
 誠「今……ここで……」%K%P
 Makoto「Right here... right now...」%K%P
@@ -198,7 +198,7 @@ Makoto「Izumi-san... all this time, I've-」%K%P
 Just then, all of the sudden....%K%N
 0x558
 いづみさんはすっと人差し指を伸ばし、オレのくちびるにあてた。%K%P
-Izumi-san quickly stretches out her index finger and%Nplaces it over my lips.%K%P
+Izumi-san quickly stretches out her index finger and places it over my lips.%K%P
 0x56C
 いづみ「ダメ……」%K%P
 Izumi「No...」%K%P
@@ -234,10 +234,10 @@ As she says this, Izumi-san pulls back her finger.%K%P
 She slowly turns around, and walks on the beach.%K%P
 0x624
 歩きながら、靴を脱ぎ捨て、裸足になった。%K%P
-She takes off her shoes while walking, and goes%Nbarefoot.%K%P
+She takes off her shoes while walking, and goes barefoot.%K%P
 0x630
 打ち寄せる波の中に、そっと素足を忍び入れた。%K%P
-She gently places her feet in the waves that are%Nwashing ashore.%K%P
+She gently places her feet in the waves that are washing ashore.%K%P
 0x63C
 波打ち際に、静かにたたずむ後ろ姿……。%K%P
 I can see her back as she quietly stands on the beach...%K%P
@@ -246,7 +246,7 @@ I can see her back as she quietly stands on the beach...%K%P
 Her thin shoulders are moving slightly...%K%P
 0x654
 いづみさんは屈み込んで、足元の波を両手ですくった。%K%P
-Izumi-san bends over, and brings her hands to her feet,%Nstill in the waves.%K%P
+Izumi-san bends over, and brings her hands to her feet, still in the waves.%K%P
 0x660
 手の平からさらさらと、水がこぼれ落ちていく……。%K%P
 Water begins to spill out from her palms...%K%P
@@ -273,13 +273,13 @@ Izumi「I found one...」%K%P
 Izumi「... A star sand...」%K%P
 0x6DC
 よく見ると、濡れた手の平には、真っ白い砂粒が乗っていた。%K%P
-Looking closely, I see a pure white grain of sand on her%Nwet palm.%K%P
+Looking closely, I see a pure white grain of sand on her wet palm.%K%P
 0x6E8
 またたく星の形……まるで獅子座の星のように……。%K%P
 It's in the shape of shining star... It's like Leo...%K%P
 0x6F4
 いづみさんは『星の砂』の乗った手の平を結ぶと、もう片方の手でポケットを探った。%K%P
-Izumi-san closes the hand with the 「star sand」 in it, and%Nuses her other hand to search through her pocket.%K%P
+Izumi-san closes the hand with the 「star sand」 in it, and uses her other hand to search through her pocket.%K%P
 0x700
 取り出したものは、親指ほどの大きさの……%K%P
 The thing she takes out is as big as her thumb...%K%P
@@ -309,10 +309,10 @@ Izumi「It washed up at the pier in the harbor...」%K%P
 Izumi「It's just a small grain...」%K%P
 0x7A8
 いづみさんは小ビンの詮を抜いて、今拾ったばかりの『星の砂』をその中に入れた。%K%P
-Izumi-san takes the cork off the small bottle, and puts%Nthe 「star sand」 she just picked up into it.%K%P
+Izumi-san takes the cork off the small bottle, and puts the 「star sand」 she just picked up into it.%K%P
 0x7B4
 手の平についたしずくとともに、砂粒はビンの壁を流れて底に落ちた。%K%P
-The grain of sand sinks to the bottom of the bottle%Ntogether with the other small grains in Izumi-san's hand.%K%P
+The grain of sand sinks to the bottom of the bottle together with the other small grains in Izumi-san's hand.%K%P
 0x808
 ──３粒の、星。%K%P
 ―The three grains of stars...%K%P
@@ -327,7 +327,7 @@ The star sand that Haruka picked up...%K%N
 The star sand that Izumi-san picked up...%K%P
 0x838
 青く透き通った水の中──３つの星は、寄り添うように輝いていた。%K%P
-The three stars, huddled close to each other, shine%Nbrightly in the blue, transparent water.%K%P
+The three stars, huddled close to each other, shine brightly in the blue, transparent water.%K%P
 0x8C0
 ポツリと、冷たいしずくが額を打った。%K%P
 Something cold hits my forehead.%K%P
@@ -348,16 +348,16 @@ The raindrops are small, like powdered snow.%K%P
 Izumi「Rain, huh...」%K%P
 0x918
 ふわりとまぶたを閉じ、体中にしずくを浴びていた。%K%P
-She softly closes her eyes, and bathes her whole body%Nin the raindrops.%K%P
+She softly closes her eyes, and bathes her whole body in the raindrops.%K%P
 0x924
 降り注ぐ雨を弾いて、その体はぼんやりと白く輝いていた。%K%P
-The pouring rain makes her body look like it's almost%Nglowing.%K%P
+The pouring rain makes her body look like it's almost glowing.%K%P
 0x930
 オレは、もう限界だった。%K%P
 I've reached my limit.%K%P
 0x93C
 水をまとったあでやかな姿が、オレの心をかき乱した。%K%P
-Seeing her beautiful figure clad in water has made my%Nheart restless.%K%P
+Seeing her beautiful figure clad in water has made my heart restless.%K%P
 0x948
 誠「いづみさん……オレはっ」%K%P
 Makoto「Izumi-san... I-」%K%P
@@ -366,7 +366,7 @@ Makoto「Izumi-san... I-」%K%P
 My words spontaneously flow out.%K%P
 0x968
 いづみさんは再び指を伸ばし、オレの口を塞ごうとした。%K%P
-Izumi-san reaches out her finger again, and tries to%Ncover my mouth.%K%P
+Izumi-san reaches out her finger again, and tries to cover my mouth.%K%P
 0x974
 誠「いづみさんっ！」%K%P
 Makoto「Izumi-san!」%K%P
@@ -417,10 +417,10 @@ Her thin shoulders are shaking unsteadily...%K%P
 Izumi-san is crying in my chest...%K%P
 0xA3C
 いづみ「……誠くんを……こんなことに巻き込んだのは……全部私のせいなのよ？」%K%P
-Izumi「... Makoto-kun ... I was the one who got you caught up in%Nall of this... It's all my fault.」%K%P
+Izumi「... Makoto-kun ... I was the one who got you caught up in all of this... It's all my fault.」%K%P
 0xA48
 いづみ「……くだらない実験を始めて……誠くんを……だまして……」%K%P
-Izumi「... Ever since this worthless experiment began... I've%Nbeen... deceiving you...」%K%P
+Izumi「... Ever since this worthless experiment began... I've been... deceiving you...」%K%P
 0xA54
 いづみ「……最後には……あの崖で……誠くんを……」%K%P
 Izumi「... And in the end... at that cliff... you...」%K%P
@@ -507,7 +507,7 @@ Cold raindrops flow into and dissolve in my mouth.%K%N
 Our two bodies, drenched with water, become one.%K%P
 0xBF0
 いづみさんの鼓動が、オレのそれに重なって高く響いていた。%K%P
-Izumi-san's heartbeat overlaps with the loud echo of my%Nown.%K%P
+Izumi-san's heartbeat overlaps with the loud echo of my own.%K%P
 0xBFC
 体中が、たぎるように熱い……。%K%N
 My body is boiling with heat...%K%N
@@ -522,10 +522,10 @@ Her warmth is scorching my chest.%K%P
 ―The proof that we're right here, right now.%K%P
 0xC2C
 オレはむさぼるように、しなやかな体を抱いた。%K%P
-I hold her tightly in my arms, something I've waited too%Nlong to do.%K%P
+I hold her tightly in my arms, something I've waited too long to do.%K%P
 0xC38
 いづみさんは熱い吐息をこぼしながら、くちびるを強く押し当てていた。%K%P
-Izumi-san's breaths are short and hot as she presses%Nher lips against mine.%K%P
+Izumi-san's breaths are short and hot as she presses her lips against mine.%K%P
 0xC44
 お互いに、その存在を確かめるように……。%K%P
 It's as if we're confirming each other's existences...%K%P
@@ -534,7 +534,7 @@ It's as if we're confirming each other's existences...%K%P
 To prove that we won't disappear...%K%P
 0xC5C
 『恋の岬で想いを告げて、%T015愛の入り江で想いを遂げる』%K%P
-「Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love.」%K%P
+「Express your feelings on the Cape of Affection, and carry out those feelings at the Cove of Love.」%K%P
 0xC68
 オレ達は……%T030今……%K%N
 Right now... we're...%K%N
@@ -552,10 +552,10 @@ We part our lips, but continue to embrace each other.%K%P
 Our bodies become drenched as the rain intensifies.%K%P
 0xD14
 いづみさんはオレの胸に顔をうずめながら、眠るようにまぶたを閉じていた。%K%P
-Izumi-san buries her face in my chest as she closes her%Nsleepy eyes.%K%P
+Izumi-san buries her face in my chest as she closes her sleepy eyes.%K%P
 0xD20
 穏やかに繰り返される呼吸は、寝息のように落ち着いていた。%K%P
-Her gently repeated breaths are calm, as if she were%Nsleeping.%K%P
+Her gently repeated breaths are calm, as if she were sleeping.%K%P
 0xD2C
 いづみ「誠くん……」%K%P
 Izumi「Makoto-kun...」%K%P
@@ -567,7 +567,7 @@ Izumi-san quietly opens her eyes.%K%P
 Izumi「I'll... give this to you...」%K%P
 0xD50
 窮屈そうに腕を曲げながら、２人の間で手の平を開いて見せた。%K%P
-She opens her palm in the space between us while%Nbending her stiff arms.%K%P
+She opens her palm in the space between us while bending her stiff arms.%K%P
 0xD64
 ──小ビン。%K%N
 ―It's the small glass bottle.%K%N
@@ -576,7 +576,7 @@ She opens her palm in the space between us while%Nbending her stiff arms.%K%P
 The one with the three stars inside.%K%P
 0xD84
 誠「どうして……こんな大切なもの……」%K%P
-Makoto「Why... are you giving me something that's so precious to%Nyou...?」%K%P
+Makoto「Why... are you giving me something that's so precious to you...?」%K%P
 0xD90
 いづみ「大切だから、あげるの……」%K%P
 Izumi「I'm giving it to you because it's precious...」%K%P
@@ -588,7 +588,7 @@ Izumi「I want you to take this...」%K%P
 Makoto「...」%K%P
 0xDB4
 いづみ「こうして胸の中にいると、あのときのことを想い出すのよ……」%K%P
-Izumi「When I'm in your arms like this, I get the same feeling as I%Ndo in at those times...」%K%P
+Izumi「When I'm in your arms like this, I get the same feeling as I do in at those times...」%K%P
 0xDC0
 いづみ「ゆったりと、のんびりと、水の上に浮かんでるみたいで……」%K%P
 Izumi「When I'm floating on the water calmly and leisurely...」%K%P
@@ -606,7 +606,7 @@ Izumi「... So... take it.」%K%P
 Izumi「My precious... memory...」%K%P
 0xDFC
 オレはいづみさんの背中から、片方の腕を離した。%K%P
-I move one of my arms that's wrapped around%NIzumi-san's back away from her.%K%P
+I move one of my arms that's wrapped around Izumi-san's back away from her.%K%P
 0xE08
 いづみさんはオレの手の平に、ちょこんと小ビンを乗せた。%K%P
 Izumi-san places the small bottle in my palm.%K%P
@@ -618,7 +618,7 @@ The three stars in my hand... emit a white radiance...%K%P
 ... ... ...%K%P
 0xF20
 姫ヶ浜を出て、海岸線の道を少しだけ歩いた。%K%P
-We leave Princess Beach, and walk for a short bit on the%Ncoastline road.%K%P
+We leave Princess Beach, and walk for a short bit on the coastline road.%K%P
 0xF2C
 ロッジへと続く坂道の入り口で、オレは立ち止まった。%K%P
 I stop at the base of the hill road that leads to the lodge.%K%P
@@ -630,7 +630,7 @@ Makoto「I'm soaked, and I didn't bring a change of clothes, so...」%K%P
 Makoto「Why don't you go on ahead back to Lunabeach?」%K%P
 0xF58
 言ったとたん、いづみさんは不安げな表情を浮かべた。%K%P
-The instant I say this, an uneasy expression forms on%NIzumi-san's face.%K%P
+The instant I say this, an uneasy expression forms on Izumi-san's face.%K%P
 0xF64
 誠「大丈夫だって！　すぐに戻るから！」%K%P
 Makoto「It's all right! I'll be back soon!」%K%P
@@ -672,7 +672,7 @@ Izumi-san gives an innocent smile.%K%P
 Izumi-san's knees suddenly lose strength.%K%P
 0x1038
 よろめくその体を、オレは反射的に抱きかかえて支えた。%K%P
-I reflexively support her staggering body by embracing%Nit with one arm.%K%P
+I reflexively support her staggering body by embracing it with one arm.%K%P
 0x1044
 誠「だ、だいじょうぶ？　いづみさん？」%K%P
 Makoto「A-Are you all right, Izumi-san?」%K%P
@@ -708,4 +708,4 @@ Makoto「...」%K%P
 Izumi「Hey? Let's hurry up... and go, okay?」%K%P
 0x10F8
 いづみさんはオレの腕を引いて、坂道に向かって歩き始めた……。%K%P
-Izumi-san pulls my arm, and begins walking up the hill%Nroad...%K%P
+Izumi-san pulls my arm, and begins walking up the hill road...%K%P

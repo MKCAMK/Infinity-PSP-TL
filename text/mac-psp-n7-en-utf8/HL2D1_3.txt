@@ -9,10 +9,10 @@ text area offset and size:
 The wrecked ship washed up on the shore...%K%N
 0xD4
 遙はその舳先に腰をかけ、じっと海を見つめていた。%K遙の柔らかい髪が、潮風を受けてしなやかに揺れている。%K%P
-Haruka is sitting on the bow of the ship, firmly staring at%Nthe ocean. Her soft hair sways in the sea breeze.%K%P
+Haruka is sitting on the bow of the ship, firmly staring at the ocean. Her soft hair sways in the sea breeze.%K%P
 0xE0
 オレは、魂を抜かれたように立ちすくんだ。%K%N
-I'm unable to move, as if my soul had been drained from%Nmy body.%K%N
+I'm unable to move, as if my soul had been drained from my body.%K%N
 0xEC
 『これ以上近づいてはいけない』%K%N
 「You mustn't get any closer.」%K%N
@@ -57,7 +57,7 @@ Makoto「Haruka...」%K%P
 Haruka「Because I'm different, it's fine...」%K%P
 0x1AC
 誠「遙……%Kそんなこと言うなよ……。%Kこのままだと、%Nお前は５日後に……」%K%P
-Makoto「Haruka...%K don't say that...%K If you stay like this, then in five%Ndays...」%K%P
+Makoto「Haruka...%K don't say that...%K If you stay like this, then in five days...」%K%P
 0x1B8
 と、その時……%K%P
 At that time...%K%P
@@ -72,7 +72,7 @@ Okuhiko「Haruka-chan...!」%K%P
 ... I hear Yuka and Okuhiko's voices in the distance.%K%P
 0x1E8
 オレは振り返った。%K海岸線の道の向こうに、%N小さな人影が２つ見えた。%K%P
-I turn around to find small human figures walking down the%Ncoastline road.%K%P
+I turn around to find small human figures walking down the coastline road.%K%P
 0x1F4
 遙も、２人の影に気づいたようだ。%K%N
 Haruka also seems to have noticed them.%K%N
@@ -87,7 +87,7 @@ I follow her lead and hide behind the boat.%K%P
 ... ... ...%K%P
 0x258
 数分後……優夏と億彦の声は遠のいていった。%K%P
-Several minutes later... Yuka and Okuhiko's voices%Ndisappear.%K%P
+Several minutes later... Yuka and Okuhiko's voices disappear.%K%P
 0x26C
 遙「行ったみたい」%K%P
 Haruka「It seems they've gone.」%K%P
@@ -96,10 +96,10 @@ Haruka「It seems they've gone.」%K%P
 Haruka places her hand on my shoulder.%K%P
 0x28C
 オレがうなずくと、遙は廃船の陰から飛び出して、%N波打ち際に向かって歩き出した。%K%P
-When I nod, she steps out from her hiding place, and%Nstarts walking towards the beach.%K%P
+When I nod, she steps out from her hiding place, and starts walking towards the beach.%K%P
 0x2C4
 砂浜の上を歩きながら、靴を脱ぎ捨て、さらに靴下も脱ぐ。%K%P
-As she walks on the sand, she takes off her shoes and%Nsocks.%K%P
+As she walks on the sand, she takes off her shoes and socks.%K%P
 0x2D0
 誠「遙！」%K%P
 Makoto「Haruka!」%K%P
@@ -117,10 +117,10 @@ Haruka「Did you think I was going to strip naked?」%K%P
 Makoto「N-No...」%K%P
 0x340
 遙は眉ひとつ動かさず、波打ち際に裸足を浸した。%K%Nその視線は遠く水平線の彼方に向けられている。%K%P
-Haruka nonchalantly soaks her bare feet into the%Nocean. Her eyes are fixed on the faraway horizon.%K%P
+Haruka nonchalantly soaks her bare feet into the ocean. Her eyes are fixed on the faraway horizon.%K%P
 0x34C
 誠「……ただ、どうして優夏達から逃げたのか……%Nそれを聞きたかったんだ」%K%P
-Makoto「... I just wanted to ask why you ran away from Yuka and%NOkuhiko.」%K%P
+Makoto「... I just wanted to ask why you ran away from Yuka and Okuhiko.」%K%P
 0x358
 遙「ひとりがいいの……」%K%P
 Haruka「I prefer being alone...」%K%P
@@ -177,7 +177,7 @@ Haruka「...」%K%P
 Haruka firmly stares at me.%K%P
 0x474
 オレは思わず遙を抱き寄せた。ギュッと腕に力を%N込める……。%K%P
-I spontaneously embrace Haruka. I wrap my arms tightly%Naround her, holding her close...%K%P
+I spontaneously embrace Haruka. I wrap my arms tightly around her, holding her close...%K%P
 0x480
 遙「……痛い」%K%P
 Haruka「... That hurts.」%K%P
@@ -201,7 +201,7 @@ Haruka「What do you mean?」%K%P
 Makoto「No... I doubt you'd believe me even if I told you...」%K%P
 0x4DC
 誠「理由なんか、どうでもいいんだ。とにかくオレは、嬉しかったから……」%K%P
-Makoto「The reason doesn't matter. Anyway, it's because I'm%Nhappy...」%K%P
+Makoto「The reason doesn't matter. Anyway, it's because I'm happy...」%K%P
 0x4E8
 遙「…………」%K%P
 Haruka「...」%K%P
@@ -213,7 +213,7 @@ Haruka's stare almost feels like it hurts.%K%N
 Her eyes are filled with curiosity.%K%N
 0x528
 困惑と期待の入り交じった複雑な感情が、そこには%Nあらわれていた。%K%P
-Complex feelings of bafflement mixed with expectation%Nappear in those eyes.%K%P
+Complex feelings of bafflement mixed with expectation appear in those eyes.%K%P
 0x534
 すると遙は、唐突に、こんなことを言った。%K%P
 And then, Haruka suddenly speaks.%K%P
@@ -255,10 +255,10 @@ Makoto「O-Once...」%K%P
 I certainly did kiss her on the forehead back then.%K%N
 0x5FC
 遙と一緒に釣りに行った……あの日の夕方……。%K%P
-On that afternoon... on the day Haruka and I went fishing%Ntogether...%K%P
+On that afternoon... on the day Haruka and I went fishing together...%K%P
 0x608
 誠「だけどな、遙？　そういうことは、あんまり聞いちゃいけないんだ」%K%P
-Makoto「But you know, you shouldn't really ask something like%Nthat.」%K%P
+Makoto「But you know, you shouldn't really ask something like that.」%K%P
 0x614
 遙「そう……なの？」%K%P
 Haruka「Is... that right?」%K%P
@@ -270,7 +270,7 @@ Makoto「Yeah...」%K%P
 Haruka「Then why do people kiss?」%K%P
 0x638
 誠「それは、愛情を形にするためだよ。そうやって、%Nお互いの気持ちを確かめ合うんだ」%K%P
-Makoto「It's to demonstrate their love and confirm their feelings%Nfor each other.」%K%P
+Makoto「It's to demonstrate their love and confirm their feelings for each other.」%K%P
 0x644
 遙「確かめ合う……？」%K%P
 Haruka「Confirm...?」%K%P
@@ -288,10 +288,10 @@ Makoto「...」%K%P
 Haruka「Let's kiss.」%K%P
 0x690
 ぼぉっとした感じの遙の顔が迫ってきた。%K%N何かに取り憑かれたようなその表情。%K%P
-Haruka draws her face close to mine. Her expression%Nbegins to overwhelm my senses.%K%P
+Haruka draws her face close to mine. Her expression begins to overwhelm my senses.%K%P
 0x69C
 何故か、明後日に起こる筈だったことが%N始まっている……。%K%P
-For some reason, the event that was supposed to%Nhappen in two days is starting now...%K%P
+For some reason, the event that was supposed to happen in two days is starting now...%K%P
 0x6A8
 誠「で、でも……そういう不純な動機でするもんじゃ%Nないんだよ、キスっていうのは」%K%P
 Makoto「B-But... I can't kiss you for a reason like that.」%K%P
@@ -300,7 +300,7 @@ Makoto「B-But... I can't kiss you for a reason like that.」%K%P
 I repeat the same words as last time.%K%P
 0x6C0
 遙「じゃあ誠には、私に対する愛情がない、%Nってこと……？」%K%P
-Haruka「Then does that mean you don't feel any affection for me,%NMakoto...?」%K%P
+Haruka「Then does that mean you don't feel any affection for me, Makoto...?」%K%P
 0x6CC
 誠「いや！　そうじゃない！」%K%P
 Makoto「No! That's not it!」%K%P
@@ -309,7 +309,7 @@ Makoto「No! That's not it!」%K%P
 I vigorously declare this.%K%N
 0x6E4
 今や、オレの遙に対する愛情は、前にキスをした時%Nとは比べものにならないくらいにふくらんでいる。%K%P
-The feelings of affection I have towards Haruka now are%Nso much greater than they were at our last kiss that%Nthere's no way to compare the difference between them.%K%P
+The feelings of affection I have towards Haruka now are so much greater than they were at our last kiss that there's no way to compare the difference between them.%K%P
 0x6F0
 遙「……それじゃ」%K%P
 Haruka「... Well then...」%K%P
@@ -321,13 +321,13 @@ Makoto「All right, I understand. Well then, close your eyes.」%K%P
 Haruka quietly shuts her eyes.%K%P
 0x72C
 オレは遙の顔をじっと見つめた。%K緊張に遙の頬が%Nぷるっと震えた。小さな唇が艶っぽくきらめく。%K%P
-I stare at her face.%K Haruka's cheeks quiver like jelly from%Nnervousness.%K Her beckoning small lips glisten.%K%P
+I stare at her face.%K Haruka's cheeks quiver like jelly from nervousness.%K Her beckoning small lips glisten.%K%P
 0x738
 オレは、遙の額にやさしく唇をあてた。%Kやっぱり一瞬だった。そんなに長い時間じゃなかった。%K%P
-I gently kiss Haruka on the forehead.%K It was just a peck%Nand lasted for only an moment.%K%P
+I gently kiss Haruka on the forehead.%K It was just a peck and lasted for only an moment.%K%P
 0x744
 オレの方が何故か照れてしまって、すぐ唇を%N離してしまったのだ。%K%P
-For some reason, I feel embarrassed, and quickly draw%Nback.%K%P
+For some reason, I feel embarrassed, and quickly draw back.%K%P
 0x758
 遙は、ふっと目を開けて、オレを見た。%K%P
 Haruka's eyes snap open as she stares at me.%K%P
@@ -336,7 +336,7 @@ Haruka's eyes snap open as she stares at me.%K%P
 Haruka「This is...?」%K%P
 0x794
 オレが見つめ返すと、遙はほんのりと頬を赤らめた。%K%P
-When I return Haruka's gaze, a faint blush appears on%Nher cheeks.%K%P
+When I return Haruka's gaze, a faint blush appears on her cheeks.%K%P
 0x7A0
 その透き通った瞳に、オレはすっかりと目を%N奪われてしまっていた。%K%P
 I am completely captivated by her eyes.%K%P
@@ -348,13 +348,13 @@ The cold waves loudly splash against our feet.%K%P
 Haruka's cheeks are bathed in sunlight.%K%N
 0x7E0
 潮風が、２人の間をやさしく吹き抜けていく……。%K%P
-The sea breeze begins to gently blow in the space%Nbetween us...%K%P
+The sea breeze begins to gently blow in the space between us...%K%P
 0x7EC
 ──どのくらい、そうして遙を%N見つめていたのだろう？%K%P
-―I wonder how long I've been watching Haruka like%Nthis.%K%P
+―I wonder how long I've been watching Haruka like this.%K%P
 0x7F8
 （オレは遙のためだけに、これから先の６日間を%N生きよう）%K%P
-(For Haruka's sake alone, I will live through these next%Nsix days.)%K%P
+(For Haruka's sake alone, I will live through these next six days.)%K%P
 0x804
 改めてそう思っていた。%K%P
 I think this over and over again.%K%P
@@ -366,7 +366,7 @@ I will never let Haruka say she has 「no heart」 ever again.%K%N
 Because Haruka is her own person...%K%P
 0x8B0
 ……それから先、オレは再び、記憶通りの時間を%N過ごすことになった。%K%N%N
-... Afterwards, I once again decide to let everything%Nhappen exactly the way it did before.%K%N%N
+... Afterwards, I once again decide to let everything happen exactly the way it did before.%K%N%N
 0x8BC
 くるみ、いづみさん、沙紀との出会い……。%K%N
 Our meeting with Kurumi, Izumi-san, and Saki...%K%N
@@ -384,31 +384,31 @@ Going to the pool late at night...%K%N
 And the earthquake...%K%P
 0x8F8
 何から何まで、すべてが過去に体験した出来事の%N繰り返しだった。%K%P
-Every single thing is a repeat of the events I%Nexperienced in the past.%K%P
+Every single thing is a repeat of the events I experienced in the past.%K%P
 0x90C
 まるで、録画したシーンを目の前で再生しているかのような……そんな不思議な感覚。%K%N%N
-It's like watching a scene from a recording replay in front%Nof me... it's rather surreal.%K%N%N
+It's like watching a scene from a recording replay in front of me... it's rather surreal.%K%N%N
 0x918
 オレも……もしかしたら、%Nそれにつられるようにして、無意識に過去と%N同じ行動をとっていたのかもしれない。%K%P
-It's not just the events... I think I'm unconsciously%Nrepeating my own actions too.%K%P
+It's not just the events... I think I'm unconsciously repeating my own actions too.%K%P
 0x99C
 オレは今、ルナビーチのオープンテラスにいる。%K%N
 Right now, I'm on the open terrace in Lunabeach.%K%N
 0x9A8
 プールでの一件で盛り上がった一同が、明日プールに行くだの行かないだのと話し合っている。%K%P
-We're all excited after the pool incident, discussing%Nwhether or not to go to the pool tomorrow.%K%P
+We're all excited after the pool incident, discussing whether or not to go to the pool tomorrow.%K%P
 0x9B4
 この会話の結末は知っている。だから、オレは半ば%N聞き流すようにして、ボーっと宙を眺めていた。%K%P
-Since I already know what the final verdict is going to be,%NI stare off into space as I tune out of the conversation.%K%P
+Since I already know what the final verdict is going to be, I stare off into space as I tune out of the conversation.%K%P
 0x9C0
 オレは……何なのだろう？%K%N
 Just... what am I?%K%N
 0x9CC
 記憶だけは過去のものを引きずっているくせに、%N肉体とそれを取り巻く環境は過去のままなのだ。%K%P
-Even though I have memories of the future, everything%Nelse is exactly the way it was from the past, including my%Nbody and surroundings.%K%P
+Even though I have memories of the future, everything else is exactly the way it was from the past, including my body and surroundings.%K%P
 0x9D8
 考えれば考えるほど、わからなくなる。%K何だか頭がおかしくなりそうだ。%K%P
-I think as hard as I can, but I can't figure out how it's%Npossible. Maybe I've just gone nuts...%K%P
+I think as hard as I can, but I can't figure out how it's possible. Maybe I've just gone nuts...%K%P
 0x9FC
 優夏「だいびんぐ？」%K%P
 Yuka「Diving?」%K%P
@@ -420,31 +420,31 @@ I hear Yuka's conspicuously high voice.%K%N
 I stop thinking and focus on the conversation.%K%P
 0xA28
 億彦「ああ。商店街に、スキューバの道具を貸してくれるところがあるらしいから……」%K%P
-Okuhiko「Yeah. There seems to be a place in the shopping district%Nwhere you can rent scuba gear...」%K%P
+Okuhiko「Yeah. There seems to be a place in the shopping district where you can rent scuba gear...」%K%P
 0xA44
 いづみ「それは無理よ、億彦くん？」%K%P
 Izumi「You can't, Okuhiko-kun.」%K%P
 0xA58
 億彦「えっ、どうしてですか？　ライセンスなら、ちゃんと持ってますよ、僕」%K%P
-Okuhiko「Huh, why not? I've already got my license, if that's what%Nyou're worried about.」%K%P
+Okuhiko「Huh, why not? I've already got my license, if that's what you're worried about.」%K%P
 0xA64
 いづみ「そうじゃなくて、明日は波が高いから」%K%P
-Izumi「That's not it. It's because there'll be high waves%Ntomorrow.」%K%P
+Izumi「That's not it. It's because there'll be high waves tomorrow.」%K%P
 0xA78
 億彦「波が？」%K%P
 Okuhiko「Waves?」%K%P
 0xA8C
 いづみ「そう。南の方に、季節外れの熱帯低気圧が%N来てて、明日からうねりが高くなるらしいの」%K%P
-Izumi「Right. There's an unseasonable tropical cyclone coming%Nin from the south, so it seems the waves will be high%Ntomorrow.」%K%P
+Izumi「Right. There's an unseasonable tropical cyclone coming in from the south, so it seems the waves will be high tomorrow.」%K%P
 0xA98
 いづみ「漁師の源さんが言ってたことだから、%N間違いないわ」%K%P
-Izumi「I heard about it from Gen-san, the fisherman, so there's%Nno doubt about it.」%K%P
+Izumi「I heard about it from Gen-san, the fisherman, so there's no doubt about it.」%K%P
 0xAA4
 いづみ「『沖の方が荒れてるから、漁に出れない』って、%Nぼやいてたもの……」%K%P
-Izumi「He complained that he wouldn't be able to go out to sea%Nand fish because of the storm.」%K%P
+Izumi「He complained that he wouldn't be able to go out to sea and fish because of the storm.」%K%P
 0xAB0
 いづみ「それに、今回の低気圧……移動速度が遅いから、%N１週間ぐらいはダメかもよ？」%K%P
-Izumi「Also, because this cyclone's migration velocity is slow,%Nit'll be like this for about a week.」%K%P
+Izumi「Also, because this cyclone's migration velocity is slow, it'll be like this for about a week.」%K%P
 0xAD8
 誠「！！！」%K%P
 Makoto「!!!」%K%P
@@ -462,10 +462,10 @@ Taking Haruka and escaping the island...%K%N
 That was supposed to be my last resort.%K%P
 0xB14
 誠「いづみさん……。%W%W%Wそうなると、%W%Wやっぱり、%Nフェリーなんかも……？」%K%P
-Makoto「Izumi-san... if that's true, then does that mean the ferry%Nwon't go...?」%K%P
+Makoto「Izumi-san... if that's true, then does that mean the ferry won't go...?」%K%P
 0xB28
 いづみ「そりゃ当然、海が落ち着くまで、運休でしょうね」%K%P
-Izumi「That's only natural. Until the sea calms down, service will%Nbe suspended.」%K%P
+Izumi「That's only natural. Until the sea calms down, service will be suspended.」%K%P
 0xB34
 誠「……」%K%P
 Makoto「...」%K%P
@@ -474,7 +474,7 @@ Makoto「...」%K%P
 Yuka「What's wrong, Makoto?」%K%P
 0xB64
 優夏「もぉ〜、大丈夫〜♪　たったの１週間くらい%Nだったら、合宿が終わる頃には運行も%N再開しているじゃない」%K%P
-Yuka「Geez, it's all right♪ If it's only for about a week, then it%Nshould be up and running again by the time the Camp%Nends, right?」%K%P
+Yuka「Geez, it's all right♪ If it's only for about a week, then it should be up and running again by the time the Camp ends, right?」%K%P
 0xB70
 誠「あ、%Wああ……%W%Wそうだな……」%K%P
 Makoto「Y-Yeah... you're right...」%K%P
@@ -489,25 +489,25 @@ Okuhiko「What's wrong, Haruka-chan?」%K%P
 Haruka「He's acting strange...」%K%P
 0xBC0
 億彦「え？　……もしかして石原のこと？%N気にしちゃダメだよ。コイツはいつでも%N変なんだから……」%K%P
-Okuhiko「Huh? ... You mean Ishihara? Don't worry about him. He's%Nalways strange...」%K%P
+Okuhiko「Huh? ... You mean Ishihara? Don't worry about him. He's always strange...」%K%P
 0xBD4
 遙「……」%K%P
 Haruka「...」%K%P
 0xBE0
 オレは心配そうに見つめている遙に%N『大丈夫だ』という意味を込めて微笑み返した。%K%P
-Haruka looks at me with concern. I return it with a%Nreassuring smile.%K%P
+Haruka looks at me with concern. I return it with a reassuring smile.%K%P
 0xBFC
 （そう、大丈夫だ……。%Nたとえ島から出られなくても、何とかなる！%K%Nだって、今度のオレには記憶があるんだから！）%K%P
-(Yes, I'm all right... Even if I can't leave the island, I'll get%Nthrough this somehow! Because this time, I have my%Nmemories!)%K%P
+(Yes, I'm all right... Even if I can't leave the island, I'll get through this somehow! Because this time, I have my memories!)%K%P
 0xC08
 （だから安心しろ、遙……。%K%N遙は何も心配することなんかないんだ……）%K%P
-(So don't worry, Haruka... You have nothing to worry%Nabout...)%K%P
+(So don't worry, Haruka... You have nothing to worry about...)%K%P
 0xC7C
 やがて、ロッジへ帰る時間になった。%K%N
-Before long, the time has come for us to return to the%Nlodge.%K%N
+Before long, the time has come for us to return to the lodge.%K%N
 0xC88
 オレ達は、夜の月浜を歩いている。%K前回同様、浜辺を歩いて帰ることになったのだ。%K%P
-We walk down Moon Beach.%K Like last time, we've decided%Nto return by walking down the beach.%K%P
+We walk down Moon Beach.%K Like last time, we've decided to return by walking down the beach.%K%P
 0xCBC
 ……ふと、オレは足を止めた。%K%N
 ... Suddenly, I stop walking.%K%N
@@ -516,16 +516,16 @@ We walk down Moon Beach.%K Like last time, we've decided%Nto return by walking d
 I've just remembered something.%K%P
 0xCD4
 （そうだ……。確かオレはここの辺で、あの『鈴』を拾ったんだった……）%K%P
-(That's right... it was definitely around here that I found%Nthat 「bell」...)%K%P
+(That's right... it was definitely around here that I found that 「bell」...)%K%P
 0xCFC
 オレはあたりを見まわした。%K%N
 I check my surroundings.%K%N
 0xD08
 波打ち際に、海ホタルの光の群がある。%K%P
-At the beach, there's a group of lights coming from sea%Nfireflies.%K%P
+At the beach, there's a group of lights coming from sea fireflies.%K%P
 0xD14
 しかし、あの時のように、砂浜の中の輝きは……%K%N刺すような、冷たく尖った光は……%K見つけることは%N出来なかった。%K%P
-But unlike that time, I can't find it... That radiance lying in%Nthe beach...%K%PThat cold, stinging light.%K%P
+But unlike that time, I can't find it... That radiance lying in the beach...%K%PThat cold, stinging light.%K%P
 0xD20
 （ここではなかったのか？%N%W%W%Wいや、そんな筈はない）%K%P
 (Is it not here? No, that's impossible.)%K%P
@@ -534,19 +534,19 @@ But unlike that time, I can't find it... That radiance lying in%Nthe beach...%K%
 (Then can history change...?)%K%P
 0xD38
 ……確かに、少しずつではあるが、歴史にズレが%N生じてきているようにも思える。%K%N
-... The changes are slight, but I feel as if this history is a%Nlittle different than the last one.%K%N
+... The changes are slight, but I feel as if this history is a little different than the last one.%K%N
 0xD44
 例えば今日、遙がオレにキスをせがんできた%Nように……。%K%P
-For example, Haruka and I kissed two days earlier than%Nexpected...%K%P
+For example, Haruka and I kissed two days earlier than expected...%K%P
 0xD50
 しかし、お陰でオレは安心感を覚えることができた。%K%P
 But thanks to that, I'm able to feel a sense of security.%K%P
 0xD5C
 少しずつのズレが、やがては大きな歴史の変化を%N招くような……そんな気がしてきたからだ。%K%P
-That small change will mutate into a large alteration of%Nhistory...%K%P
+That small change will mutate into a large alteration of history...%K%P
 0xD68
 （オレは鈴を拾わなかったし、捨てなかった。%Kだから、遙も鈴を手にすることはない筈だ！）%K%P
-(Because I never found the bell, I never threw it away.%NThat means that Haruka also shouldn't be able to get it!)%K%P
+(Because I never found the bell, I never threw it away. That means that Haruka also shouldn't be able to get it!)%K%P
 0xD74
 臆することなど何もなかった……。%K%P
 I no longer feel hesitant...%K%P

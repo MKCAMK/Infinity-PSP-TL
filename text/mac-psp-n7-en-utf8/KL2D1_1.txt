@@ -3,7 +3,7 @@ text area offset and size:
 0x5CD
 0x68
 ガバッと思い切り布団を蹴飛ばして目覚めた。%K%N
-As I wake up, I kick the covers off the bed with all my%Nstrength.%K%N
+As I wake up, I kick the covers off the bed with all my strength.%K%N
 0x74
 しばし茫然として虚空を眺める。%K%N
 Still half asleep, I blankly stare into space.%K%N
@@ -18,7 +18,7 @@ I realize I'm freezing, my body soaked with sweat all over.%K%N
 I take a deep breath and slowly exhale.%K%P
 0xA4
 杉の木の温かい香りが、鼻腔の奥から脳の中心へと沁み込んでいく。%K%N
-The warm scent of wood goes through my nose and fills%Nmy head.%K%N
+The warm scent of wood goes through my nose and fills my head.%K%N
 0xB0
 これを３回繰り返したおかげで…………。%K%P
 It takes me three more breaths until...%K%P

@@ -17,7 +17,7 @@ if len(sys.argv) <= 1:
     print("usage: r11_to_png.py <INPUT.R11> [OUTPUT.PNG]")
     sys.exit()
 
-outpath = sys.argv[2] if len(sys.argv)>=3 else os.path.splitext(sys.argv[1])[0] + "_HR.PNG"
+outpath = sys.argv[2] if len(sys.argv)>=3 else os.path.splitext(sys.argv[1])[0] + ".PNG"
 
 with open(sys.argv[1], "rb") as f:
     data = f.read()

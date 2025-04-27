@@ -9,7 +9,7 @@ The moonlight coldly shines on the tombstones.%K%P
 The moist wind clings to my skin.%K%P
 0x8C
 オレは今、草に覆われた墓場の道を歩いていた。%K%P
-Right now, I'm walking down the overgrown road in the%Ngraveyard.%K%P
+Right now, I'm walking down the overgrown road in the graveyard.%K%P
 0xA0
 いづみ「なんか……ちょっと肌寒いわね……」%K%P
 Izumi「It's... a little chilly...」%K%P
@@ -21,16 +21,16 @@ Walking next to me is the slightly shivering Izumi-san...%K%P
 Yes! I've been waiting for this time!%K%P
 0xCC
 肝だめしが始まれば、いづみさんと２人っきりになれることはすでにわかっていた。%K%P
-I already know that when the Test of Courage began,%NIzumi-san and I would be all alone.%K%P
+I already know that when the Test of Courage began, Izumi-san and I would be all alone.%K%P
 0xD8
 誰にも邪魔されず、怪しまれることもない、まさに理想的な状況だった。%K%P
-It's an ideal situation where no one can get in our way or%Nbe suspicious of us.%K%P
+It's an ideal situation where no one can get in our way or be suspicious of us.%K%P
 0xE4
 スタート地点を出発してから、かれこれ１０分以上経過している。%K%P
-It's already been nearly ten minutes since we left the%Nstarting point.%K%P
+It's already been nearly ten minutes since we left the starting point.%K%P
 0xF0
 みんなの話し声も、足音も、何も聞こえない。%K%P
-We won't be able to hear the others talking or their%Nfootsteps.%K%P
+We won't be able to hear the others talking or their footsteps.%K%P
 0xFC
 話を切り出すには良い頃合いに思えた。%K%P
 I think that this will be the best time for us to talk.%K%P
@@ -48,10 +48,10 @@ As I say this, I grab Izumi-san by the arm...%K%N
 Izumi「Huh? Huh? What? What?」%K%P
 0x140
 狼狽するいづみさんの口を左手で塞ぎながら、右手の人差し指をくちびるにあてて示した。%K%P
-I cover the confused Izumi-san's mouth with my left hand,%Nand point to my mouth with my right index finger.%K%P
+I cover the confused Izumi-san's mouth with my left hand, and point to my mouth with my right index finger.%K%P
 0x14C
 誠「ここなら、絶対に見つかりっこないから……」%K%P
-Makoto「From this point onward, we cannot allow ourselves to be%Ndiscovered...」%K%P
+Makoto「From this point onward, we cannot allow ourselves to be discovered...」%K%P
 0x160
 ウムウム……声を殺して、いづみさんがうなずく。%K%P
 ... Izumi-san silently nods.%K%P
@@ -60,10 +60,10 @@ Makoto「From this point onward, we cannot allow ourselves to be%Ndiscovered...�
 On my palm, I can feel the sensation of her wet lips...%K%P
 0x178
 あたたかな吐息が、指の間をくすぐるようにもれていた。%K%P
-Her warm breaths leak out and tickle the space between%Nmy fingers.%K%P
+Her warm breaths leak out and tickle the space between my fingers.%K%P
 0x184
 なんだか恥かしくなって……オレはあわてて、手の平を離した。%K%P
-I'm getting kinda embarrassed... so I quickly take my palm%Noff of her.%K%P
+I'm getting kinda embarrassed... so I quickly take my palm off of her.%K%P
 0x1B4
 いづみ「ああ、びっくりした……」%K%P
 Izumi「Ah, you surprised me...」%K%P
@@ -75,7 +75,7 @@ Izumi「I was caught so off guard that my heart was pounding.」%K%P
 I'm the one whose heart is pounding.%K%P
 0x1D8
 みずみずしく透き通った白い肌……。%K%P
-That beating intensifies when I look her spruce,%Ntransparent white skin...%K%P
+That beating intensifies when I look her spruce, transparent white skin...%K%P
 0x1E4
 なめらかな首すじのライン……。%K%P
 The smooth lines on the back of her neck...%K%P
@@ -93,16 +93,16 @@ I instinctively gulp.%K%P
 (What the hell am I thinking...?)%K%P
 0x228
 ヨコシマな感情を振り払い、すっと視線をそらす。%K%P
-I quickly avert my gaze to shake off those wicked%Nfeelings.%K%P
+I quickly avert my gaze to shake off those wicked feelings.%K%P
 0x234
 冷静さを装いながら、オレは近くの石段に腰かけた。%K%P
-While pretending to be calm, I sit down on a nearby stone%Nstaircase.%K%P
+While pretending to be calm, I sit down on a nearby stone staircase.%K%P
 0x248
 いづみ「あっ……」%K%P
 Izumi「Oh...」%K%P
 0x254
 いづみ「今、変なこと……考えてたでしょ？」%K%P
-Izumi「Just now, you were thinking something strange... weren't%Nyou?」%K%P
+Izumi「Just now, you were thinking something strange... weren't you?」%K%P
 0x260
 誠「か、考えてなんか、いないよ！」%K%P
 Makoto「N-No I wasn't!」%K%P
@@ -135,16 +135,16 @@ Izumi「'Is it really all right for us to stay this carefree?'」%K%P
 Izumi「I also think that.」%K%P
 0x2E0
 いづみ「１人の心理学者として、この問題を、もっと深刻に受け止めるべきなんじゃないかって、本気で悩んだこともあったわ」%K%P
-Izumi「As a psychologist, I've been seriously worried, thinking%Nwe should be taking this problem more seriously.」%K%P
+Izumi「As a psychologist, I've been seriously worried, thinking we should be taking this problem more seriously.」%K%P
 0x2EC
 いづみ「でもね？」%K%P
 Izumi「But you know what?」%K%P
 0x2F8
 いづみ「一方では、そうは思わない自分もいた……」%K%P
-Izumi「On the other hand, there's also a 'me' who doesn't think%Nthat way...」%K%P
+Izumi「On the other hand, there's also a 'me' who doesn't think that way...」%K%P
 0x304
 いづみ「目の前の現実を、ありのままに受け入れたいと願う自分がいたの」%K%P
-Izumi「There's a me who wishes to accept the reality before my%Neyes as it is.」%K%P
+Izumi「There's a me who wishes to accept the reality before my eyes as it is.」%K%P
 0x310
 いづみ「……ほら……見て？」%K%P
 Izumi「... See... take a look.」%K%P
@@ -159,16 +159,16 @@ Izumi「The stars are shining today as well, right?」%K%P
 Izumi「Even now, Regulus... is continuing to shine...」%K%P
 0x348
 いづみ「真実かどうかよりも、信じられるかどうかのほうが、大切なことなの」%K%P
-Izumi「What's more important than whether it's true or not is%Nwhether you can believe it or not.」%K%P
+Izumi「What's more important than whether it's true or not is whether you can believe it or not.」%K%P
 0x354
 いづみ「そういう……ことなのよ……」%K%P
 Izumi「That's... how it is...」%K%P
 0x394
 いづみ「いきなり、こんな奇妙な現象を体験して……きっと誠くんがいなかったら、私は理性を失ってたと思う」%K%P
-Izumi「Suddenly experiencing this strange phenomenon... If%Nyou weren't here, I think I would have lost my reason.」%K%P
+Izumi「Suddenly experiencing this strange phenomenon... If you weren't here, I think I would have lost my reason.」%K%P
 0x3A0
 いづみ「誠くんがいたから……だから私は、信じることができるようになったの」%K%P
-Izumi「It's because you're here, Makoto-kun... That's why I've%Nreached the point where I can believe.」%K%P
+Izumi「It's because you're here, Makoto-kun... That's why I've reached the point where I can believe.」%K%P
 0x3AC
 信じる……。%K%N
 Believe...%K%N
@@ -222,7 +222,7 @@ Izumi「Don't forget... my existence, all right?」%K%P
 I don't know... what Izumi-san wants to say.%K%P
 0x498
 ただ、左のほほだけが、とろけるように温かい。%K%P
-However, only my left cheek feels like it's melting into her%Nwarmth.%K%P
+However, only my left cheek feels like it's melting into her warmth.%K%P
 0x4A4
 尽きることのない優しさ……。%K%P
 Into her endless kindness...%K%P
@@ -240,7 +240,7 @@ Izumi「... All right? ... Do you promise?」%K%P
 I silently nod.%K%P
 0x4E8
 いづみさんはそっと手の平を離すと、ヒザの上に軽く乗せた。%K%P
-Izumi-san gently removes her palm,and places it on her%Nknee.%K%P
+Izumi-san gently removes her palm,and places it on her knee.%K%P
 0x4F4
 スカートのシワを、ゆっくりと伸ばしながら……%K%N
 She slowly smooths out her skirt...%K%N
@@ -252,7 +252,7 @@ She slowly smooths out her skirt...%K%N
 Izumi「Then shall we begin?」%K%P
 0x520
 闇に響いたその声が、あたかも厳粛な儀式の始まりのように感じられた。%K%P
-Her voice echoes in the darkness, as if she were%Ndeclaring the start of a solemn ceremony.%K%P
+Her voice echoes in the darkness, as if she were declaring the start of a solemn ceremony.%K%P
 0x578
 いづみ「シュレディンガーの猫」%K%P
 Izumi「Schrödinger's cat.」%K%P
@@ -261,19 +261,19 @@ Izumi「Schrödinger's cat.」%K%P
 Izumi「The Third Trait of Curé Syndrome.」%K%P
 0x590
 いづみ「この２つにどんな関係があるのか？%N誠くん……わかる？」%K%P
-Izumi「Makoto-kun... do you know how these two are%Nconnected?」%K%P
+Izumi「Makoto-kun... do you know how these two are connected?」%K%P
 0x59C
 誠「そ、そんなこと突然言われても、わかるわけないよ！」%K%P
-Makoto「E-Even if you suddenly ask me that, there's no way that%NI'd know!」%K%P
+Makoto「E-Even if you suddenly ask me that, there's no way that I'd know!」%K%P
 0x5A8
 誠「だいたい第３の特徴のことなんか、オレは何ひとつ聞いてないんだし……」%K%P
-Makoto「In the first place, I don't know a thing about The Third%NTrait...」%K%P
+Makoto「In the first place, I don't know a thing about The Third Trait...」%K%P
 0x5B4
 いづみ「うん」%K%P
 Izumi「Yes.」%K%P
 0x5C0
 いづみ「でもシュレディンガーの猫の話なら、誠くんも知ってるでしょ？」%K%P
-Izumi「But you do know what Schrödinger's cat is, right,%NMakoto-kun?」%K%P
+Izumi「But you do know what Schrödinger's cat is, right, Makoto-kun?」%K%P
 0x5CC
 誠「知ってると言えば、知ってることに、なるのかな？」%K%P
 Makoto「I didn't so much 'know' it as much as I 'learned' about it.」%K%P
@@ -309,10 +309,10 @@ Izumi「Huh?」%K%P
 Makoto「No, that's... How do I put this?」%K%P
 0x658
 誠「フタを開けたことによって、猫の生死が確定したわけだから……」%K%P
-Makoto「By opening the lid, you determine the cat's life or death%Nstatus...」%K%P
+Makoto「By opening the lid, you determine the cat's life or death status...」%K%P
 0x664
 誠「要するにそれは──観察者が『過去を決めた』ことになるんだ、って……」%K%P
-Makoto「In short, it's arranged so that the observer 'decides the%Npast'...」%K%P
+Makoto「In short, it's arranged so that the observer 'decides the past'...」%K%P
 0x670
 誠「そんなようなことを言ってたんだ……優夏のやつ……」%K%P
 Makoto「At least... that's what Yuka said...」%K%P
@@ -342,7 +342,7 @@ Izumi「Yes.」%K%P
 Makoto「So is it like this, then?」%K%P
 0x6DC
 誠「フタを開けたときの猫は、観察者が『生きてて欲しい』と願えば生きてるし『死んでて欲しい』と願えば死んでしまっている」%K%P
-Makoto「When the lid is opened, the cat is alive if the observer%Nwishes 'I hope it's alive', but is dead if the observer%Nwishes 'I hope it's dead'.」%K%P
+Makoto「When the lid is opened, the cat is alive if the observer wishes 'I hope it's alive', but is dead if the observer wishes 'I hope it's dead'.」%K%P
 0x6E8
 いづみ「ううん、そうじゃないの」%K%P
 Izumi「No, that's not it.」%K%P
@@ -351,10 +351,10 @@ Izumi「No, that's not it.」%K%P
 Izumi「That's not what I wanted to say.」%K%P
 0x700
 いづみ「この場合の『意思』とは、ある行為を発生させるための単純な『動機』のこと」%K%P
-Izumi「In this case 'intention' refers to a simple 'motive' in order%Nto produce a certain act.」%K%P
+Izumi「In this case 'intention' refers to a simple 'motive' in order to produce a certain act.」%K%P
 0x70C
 いづみ「『猫の生死を確かめたい』だから『フタを開きたい』……」%K%P
-Izumi「'I want to confirm the cat's life or death status', so 'I want%Nto open the lid'...」%K%P
+Izumi「'I want to confirm the cat's life or death status', so 'I want to open the lid'...」%K%P
 0x718
 いづみ「そう『思うこと』……それ自体を指してるの」%K%P
 Izumi「It refers to the very fact that you 'think' so.」%K%P
@@ -369,13 +369,13 @@ Izumi「But you know what? What you said wasn't wrong either.」%K%P
 Makoto「Huh?」%K%P
 0x750
 いづみ「観察者の願望が、過去の事実を変えてしまうこと」%K%P
-Izumi「The observer's wish completely changing the truth of%Nthe past.」%K%P
+Izumi「The observer's wish completely changing the truth of the past.」%K%P
 0x75C
 いづみ「そういう現象が、実際に論文として、発表されてるの」%K%P
-Izumi「There's a phenomenon described as such that's%Nactually been published as a thesis.」%K%P
+Izumi「There's a phenomenon described as such that's actually been published as a thesis.」%K%P
 0x768
 いづみ「論文を書いた人の名前は──マイケル・キャビン」%K%P
-Izumi「The name of the person who wrote that thesis―is%NMichael Cabin.」%K%P
+Izumi「The name of the person who wrote that thesis―is Michael Cabin.」%K%P
 0x774
 誠「えっ！？　それって確か、トム少年のカウンセリングをしてた……」%K%P
 Makoto「What!? That's the man who counseled Tom...」%K%P
@@ -393,7 +393,7 @@ Izumi「Wait!」%K%P
 Izumi「We'll talk about that later...」%K%P
 0x7C0
 いづみ「順を追って説明していかないと、たぶん混乱すると思うの」%K%P
-Izumi「If I don't explain things in order, I think you'll probably get%Nconfused.」%K%P
+Izumi「If I don't explain things in order, I think you'll probably get confused.」%K%P
 0x7CC
 誠「う、うん……」%K%P
 Makoto「O-Okay...」%K%P
@@ -402,31 +402,31 @@ Makoto「O-Okay...」%K%P
 Izumi「Okay, Makoto-kun? Listen carefully.」%K%P
 0x7EC
 いづみ「キャビン博士はカウンセリングを進めるうちに、ある驚異的な現象を体験することになったの」%K%P
-Izumi「While Dr. Cabin's counseling progressed, he%Nexperienced a certain astounding phenomenon.」%K%P
+Izumi「While Dr. Cabin's counseling progressed, he experienced a certain astounding phenomenon.」%K%P
 0x7F8
 いづみ「常識では考えることのできない……異常な、現象を……」%K%P
-Izumi「It was something that defied common knowledge... an%Nabnormal phenomenon...」%K%P
+Izumi「It was something that defied common knowledge... an abnormal phenomenon...」%K%P
 0x804
 誠「…………………………」%K%P
 Makoto「...」%K%P
 0x810
 いづみ「当時、キャビン博士が勤めていた病院の外科病棟に、ある１人の末期ガン患者が入院してたの」%K%P
-Izumi「At the same time, there was a certain terminal cancer%Npatient hospitalized in the ward of the surgical%Ndepartment in the hospital Dr. Cabin worked at.」%K%P
+Izumi「At the same time, there was a certain terminal cancer patient hospitalized in the ward of the surgical department in the hospital Dr. Cabin worked at.」%K%P
 0x81C
 いづみ「ジュリアという、まだ１２才になったばかりの女の子……」%K%P
-Izumi「Her name was Julia, a girl who had only just turned twelve%Nyears old...」%K%P
+Izumi「Her name was Julia, a girl who had only just turned twelve years old...」%K%P
 0x828
 いづみ「彼女のガンは、すでに体中のあちこちに転移していて、もはや手の施しようがない状態だった」%K%P
-Izumi「Her cancer had already spread all around her body, and%Nher case was considered already beyond help.」%K%P
+Izumi「Her cancer had already spread all around her body, and her case was considered already beyond help.」%K%P
 0x844
 いづみ「けれど……ある日突然、その異変は起こったの」%K%P
-Izumi「But... one day, all of the sudden, an unusual event%Noccurred.」%K%P
+Izumi「But... one day, all of the sudden, an unusual event occurred.」%K%P
 0x850
 いづみ「体中に転移していたはずの悪性腫瘍が、こつ然と、跡形も無く消え失せてしまったのよ」%K%P
-Izumi「The malignant tumor that should have been spreading%Nthroughout her body suddenly disappeared without a%Ntrace.」%K%P
+Izumi「The malignant tumor that should have been spreading throughout her body suddenly disappeared without a trace.」%K%P
 0x85C
 いづみ「レントゲンを撮っても、ＣＴスキャンにかけても、そこにあったという痕跡さえ見当たらなかった」%K%P
-Izumi「Even with X-rays and CAT scans, not even a single%Ntrace of the cancer could be found.」%K%P
+Izumi「Even with X-rays and CAT scans, not even a single trace of the cancer could be found.」%K%P
 0x868
 いづみ「つまり、ジュリアの病気は、完全に治ってしまったということ」%K%P
 Izumi「In other words, Julia's illness had been completely cured.」%K%P
@@ -435,28 +435,28 @@ Izumi「In other words, Julia's illness had been completely cured.」%K%P
 Makoto「...」%K%P
 0x880
 いづみ「担当の医師達は、そんな奇跡のような出来事に困惑しながらも……」%K%P
-Izumi「Although the doctors in charge of her were completely%Nbewildered by this miraculous event...」%K%P
+Izumi「Although the doctors in charge of her were completely bewildered by this miraculous event...」%K%P
 0x88C
 いづみ「『自分達の選択した治療法が功を奏したのだろう』……そう思って喜んでいたの」%K%P
-Izumi「'The treatments we selected probably succeeded.'...%NThey delighted themselves with thoughts like that.」%K%P
+Izumi「'The treatments we selected probably succeeded.'... They delighted themselves with thoughts like that.」%K%P
 0x898
 いづみ「でも、話はそれだけじゃ終わらなかった」%K%P
 Izumi「But the story didn't just end there.」%K%P
 0x8A4
 いづみ「どういうわけか、その日を境にして、入院患者の病気が次から次へと治っていったのよ」%K%P
-Izumi「For some reason, for the rest of that day, the%Nhospitalized patients' illnesses were cured one after%Nanother.」%K%P
+Izumi「For some reason, for the rest of that day, the hospitalized patients' illnesses were cured one after another.」%K%P
 0x8B0
 いづみ「ガンだけに限らず……」%K%P
 Izumi「It wasn't just cancer...」%K%P
 0x8BC
 いづみ「心臓病、脳梗塞、肝硬変、腎不全、糖尿病、感染症、動脈瘤、胃潰瘍から肺炎にいたるまで……」%K%P
-Izumi「Heart diseases, strokes, liver cirrhosis, kidney failure,%Ndiabetes mellitus, infections, aneurysms, stomach%Nulcers, and even pneumonia...」%K%P
+Izumi「Heart diseases, strokes, liver cirrhosis, kidney failure, diabetes mellitus, infections, aneurysms, stomach ulcers, and even pneumonia...」%K%P
 0x8C8
 いづみ「ありとあらゆる病気が、突然、何の前ぶれもなく完治してしまったの」%K%P
-Izumi「Every single kind of illness was completely cured without%Nwarning.」%K%P
+Izumi「Every single kind of illness was completely cured without warning.」%K%P
 0x8D4
 いづみ「奇跡は、まるで何かのウィルスに感染するかのように、あっと言う間に広まっていったの」%K%P
-Izumi「The miracle spread in the blink of an eye, like it was some%Nkind of virus infecting them all.」%K%P
+Izumi「The miracle spread in the blink of an eye, like it was some kind of virus infecting them all.」%K%P
 0x8E0
 誠「…………………………」%K%P
 Makoto「...」%K%P
@@ -474,16 +474,16 @@ Makoto「It couldn't be... the 'Immortality Contagion'... could it?」%K%P
 Makoto「Through some trigger, Tom touched Julia...」%K%P
 0x940
 誠「そこから『不死が伝染』して、あっと言う間に病院中に広まっていった……？」%K%P
-Makoto「From there, the 'Immortality Contagion' spread around the%Nhospital in the blink of an eye...?」%K%P
+Makoto「From there, the 'Immortality Contagion' spread around the hospital in the blink of an eye...?」%K%P
 0x94C
 いづみ「そういうこと」%K%P
 Izumi「That's right.」%K%P
 0x958
 いづみ「発端となったジュリアと少年は、昔からの知り合いだったの」%K%P
-Izumi「Julia and Tom, who became the origins of this contagion,%Nwere acquaintances.」%K%P
+Izumi「Julia and Tom, who became the origins of this contagion, were acquaintances.」%K%P
 0x964
 いづみ「簡単に言えば、幼なじみ……もしかしたら恋愛感情も、あったのかもしれないわ」%K%P
-Izumi「To put it simply, they were childhood friends... They might%Neven have loved each other.」%K%P
+Izumi「To put it simply, they were childhood friends... They might even have loved each other.」%K%P
 0x970
 いづみ「とにかく少年は、入院中に何度も何度もジュリアの病室を訪れていたの」%K%P
 Izumi「Anyway, Tom frequently visited Julia's hospital room.」%K%P
@@ -492,49 +492,49 @@ Izumi「Anyway, Tom frequently visited Julia's hospital room.」%K%P
 「I want to cure her illness.」%K%P
 0x988
 『そして自分には、それを可能にする不思議な能力がある』%K%P
-「And I have a miraculous ability that will enable me to do%Nthat.」%K%P
+「And I have a miraculous ability that will enable me to do that.」%K%P
 0x994
 いづみ「そう信じていたトム少年は、ある日、ジュリアの額にそっと手を触れた……」%K%P
-Izumi「And one day, Tom, who believed that, gently touched%NJulia's forehead...」%K%P
+Izumi「And one day, Tom, who believed that, gently touched Julia's forehead...」%K%P
 0x9A0
 いづみ「すべてはそこから、始まったのよ」%K%P
 Izumi「Everything began from there.」%K%P
 0x9AC
 いづみ「キャビン博士はその事に気づき、仲間の医師達に相談したの」%K%P
-Izumi「When Dr. Cabin noticed this, he discussed it with his%Nfellow doctors.」%K%P
+Izumi「When Dr. Cabin noticed this, he discussed it with his fellow doctors.」%K%P
 0x9B8
 いづみ「だけど、そんなオカルトまがいの奇妙な話を、医師達が相手にするはずはなかった」%K%P
-Izumi「However, the doctors didn't listen to such a strange,%Noccult-like story.」%K%P
+Izumi「However, the doctors didn't listen to such a strange, occult-like story.」%K%P
 0x9C4
 いづみ「結局、キャビン博士はひとりで『不死が伝染』するという現象──ＣＵＲＥの原因を、究明することにしたの」%K%P
-Izumi「In the end, Dr. Cabin decided to investigate the origin of%N'Cure'―the phenomenon known as the 'Immortality%NContagion'―all alone.」%K%P
+Izumi「In the end, Dr. Cabin decided to investigate the origin of 'Cure'―the phenomenon known as the 'Immortality Contagion'―all alone.」%K%P
 0x9D0
 いづみ「やがて数ヶ月が経ち、キャビン博士はひとつの仮説にたどりついた」%K%P
-Izumi「Before long, several months had passed, and Dr. Cabin%Nfinally reached a hypothesis.」%K%P
+Izumi「Before long, several months had passed, and Dr. Cabin finally reached a hypothesis.」%K%P
 0xA38
 『妄想が人から人へと伝播する症状を、ある種の感応精神病として定義するならば、その精神疾患における妄想内容とは、ひとつの生物にたとえることができる』%K%N%N
-「If you were to define the symptoms of a delusion that%Nspreads from person to person as some kind of shared%Npsychotic disorder, then you could liken the contents%Nof the delusion in regards to that mental illness to that%K%Pof a living creature.」%K%P
+「If you were to define the symptoms of a delusion that spreads from person to person as some kind of shared psychotic disorder, then you could liken the contents of the delusion in regards to that mental illness to that%K%Pof a living creature.」%K%P
 0xA44
 『ひとりの人間の中に、突然変異によって生み出されたこの生物は、それが存在することの妥当性と、存在して欲しいと願う人々の意思を糧として、次から次へと人々の意識の中に繁殖していくものなのかもしれない』%K%P
-「Said creature, which is created in a single person's%Nmind due to a mutation, may reproduce and spread into%Nother people's consciousnesses one after the other%Nby feeding off the validity of its existence, as well as%K%Pthe intentions of people who desire for its existence.」%K%P
+「Said creature, which is created in a single person's mind due to a mutation, may reproduce and spread into other people's consciousnesses one after the other by feeding off the validity of its existence, as well as%K%Pthe intentions of people who desire for its existence.」%K%P
 0xA58
 『従って、この生物が生まれたときの時代背景に相応しい妥当性と、人々の願望……この２つが強大であればあるほど、その生命力もまた激しさを増していくのである』%K%P
-「Hence, the more suitable the historical background the%Ncreature is born into and the more powerful the desires%Nof the people at that time, the stronger its vitality, or%Nintensity, grows.」%K%P
+「Hence, the more suitable the historical background the creature is born into and the more powerful the desires of the people at that time, the stronger its vitality, or intensity, grows.」%K%P
 0xA6C
 『ところで、この生物が繁殖する過程において、最大の天敵となるものは常識である』%K%N%N
-「Incidentally, the greatest natural enemy to this living%Ncreature's ability to propagate is common sense.」%K%N%N
+「Incidentally, the greatest natural enemy to this living creature's ability to propagate is common sense.」%K%N%N
 0xA78
 『常識を陶汰するだけの生命力を持ち得たとき、初めてこの生物は新たな現実として姿を現す』%K%N%N
-「Once this creature obtains the vitality to eliminate%Ncommon sense, it appears as a new reality for the first%Ntime.」%K%N%N
+「Once this creature obtains the vitality to eliminate common sense, it appears as a new reality for the first time.」%K%N%N
 0xA84
 『或いは、世界各地に伝わる宗教的奇跡も、この生物の胎動として見ることができるのではなかろうか？』%K%P
-「Is it perhaps possible that the religious miracles%Ncirculated all over the world can also be seen as the%Nquickening of this creature?」%K%P
+「Is it perhaps possible that the religious miracles circulated all over the world can also be seen as the quickening of this creature?」%K%P
 0xA98
 『人々の意識（妥当性による信頼感と強い願望）が、この生物を現実のものとして生み出した』%K%N%N
-「People's consciousnesses (trust and strong desires%Ndue to validity) bring forth this creature as a reality.」%K%N%N
+「People's consciousnesses (trust and strong desires due to validity) bring forth this creature as a reality.」%K%N%N
 0xAA4
 『強固な思念（妄想）は、新たな現実を創造することができるのかもしれない』%K%P
-「It might be possible for a strong thought (a delusion) to%Ncreate a new reality.」%K%P
+「It might be possible for a strong thought (a delusion) to create a new reality.」%K%P
 0xAFC
 いづみ「要するにね？　こういうことなの」%K%P
 Izumi「In short, it's like this.」%K%P
@@ -543,37 +543,37 @@ Izumi「In short, it's like this.」%K%P
 Izumi「First, a person lies.」%K%P
 0xB14
 いづみ「その嘘には『人々に信じたいと思わせる』だけの魅力があった」%K%P
-Izumi「That lie is attractive enough to make people feel that%Nthey want to believe it.」%K%P
+Izumi「That lie is attractive enough to make people feel that they want to believe it.」%K%P
 0xB20
 いづみ「さらにその嘘には、確かな証拠もあった」%K%P
 Izumi「Furthermore, there's also definite proof of that lie.」%K%P
 0xB2C
 いづみ「例えば、奇跡を目の当たりにしたとか、実際に自分で体験したとか……」%K%P
-Izumi「For example, a miracle occurring in their presence, or%Nhaving actually experienced it themselves...」%K%P
+Izumi「For example, a miracle occurring in their presence, or having actually experienced it themselves...」%K%P
 0xB38
 いづみ「だから嘘をつかれた人も、当然、それが真実だと信じ込んでしまった」%K%P
-Izumi「Naturally, that's why the one being lied to also firmly%Nbelieve that it's the truth.」%K%P
+Izumi「Naturally, that's why the one being lied to also firmly believe that it's the truth.」%K%P
 0xB44
 いづみ「信じ込むっていうのは、どういうことかって言うと……その人の中では、嘘が嘘じゃなくなるってことなの」%K%P
-Izumi「More or less, to firmly believe means... that the lie is no%Nlonger a lie in that person's mind.」%K%P
+Izumi「More or less, to firmly believe means... that the lie is no longer a lie in that person's mind.」%K%P
 0xB50
 誠「妄想が真実となり、虚構が現実となる……」%K%P
 Makoto「The delusion becomes fact, and fiction becomes reality...」%K%P
 0xB5C
 誠「つまり嘘を強く信じ込むことによって、それを現実として、新しく生み出すことができるってことか？」%K%P
-Makoto「In other words, by firmly believing in a lie, it can create a%Nwhole new reality?」%K%P
+Makoto「In other words, by firmly believing in a lie, it can create a whole new reality?」%K%P
 0xB70
 いづみ「ええ、そう……」%K%P
 Izumi「Yes, that's right...」%K%P
 0xB7C
 いづみ「そして、トム少年の場合には『不死を伝染させること』……それが最初の嘘、妄想だったの」%K%P
-Izumi「And in Tom's case, it was 'I can infect others with%Nimmortality'... That was the first lie, his delusion.」%K%P
+Izumi「And in Tom's case, it was 'I can infect others with immortality'... That was the first lie, his delusion.」%K%P
 0xB88
 いづみ「患者達は、この妄想を心の底から信じ込んで、みずから奇跡を起こした」%K%P
-Izumi「The patients sincerely believed in that delusion%Nwholeheartedly, and their own miracles occurred.」%K%P
+Izumi「The patients sincerely believed in that delusion wholeheartedly, and their own miracles occurred.」%K%P
 0xB94
 いづみ「まあ、本当に不死身になったのかどうかはわからないけど……とにかく『病気が完治した』ということだけは、確かな事実だから」%K%P
-Izumi「Well, we don't know whether they really became immortal%Nor not... In any case, the only fact we can say for sure is%Nthat 'their illnesses were cured'.」%K%P
+Izumi「Well, we don't know whether they really became immortal or not... In any case, the only fact we can say for sure is that 'their illnesses were cured'.」%K%P
 0xBA0
 誠「…………………………」%K%P
 Makoto「...」%K%P
@@ -582,16 +582,16 @@ Makoto「...」%K%P
 Izumi「Dr. Cabin then considered this.」%K%P
 0xBC0
 いづみ「『古今東西の宗教的な奇跡とは、これと同じような現象なのかもしれない』」%K%P
-Izumi「The religious miracles from all ages and countries might%Nbe similar to this phenomenon.」%K%P
+Izumi「The religious miracles from all ages and countries might be similar to this phenomenon.」%K%P
 0xBCC
 いづみ「──だから、キュレイシンドロームなのよ」%K%P
 Izumi「―That's why it's Curé Syndrome.」%K%P
 0xBD8
 いづみ「キュレイには、フランス語の『聖職者』とか『司祭』とか、そういう意味が込められていたの」%K%P
-Izumi「In French, the word 'curé' refers to a 'curate', or a%N'senior parish priest'.」%K%P
+Izumi「In French, the word 'curé' refers to a 'curate', or a 'senior parish priest'.」%K%P
 0xBE4
 誠「じゃあ、キュレイシンドロームの第３の特徴は……」%K%P
-Makoto「So that's why he used the French word 'curé' instead of%Nthe English word 'cure'... Wait, then The Third Trait of Curé%NSyndrome is...」%K%P
+Makoto「So that's why he used the French word 'curé' instead of the English word 'cure'... Wait, then The Third Trait of Curé Syndrome is...」%K%P
 0xBF8
 いづみ「そう……」%K%P
 Izumi「That's right...」%K%P

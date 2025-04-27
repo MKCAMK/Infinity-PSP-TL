@@ -11,15 +11,13 @@ Special Sequences
 
 %P - pagebreak
 
-%O - ??? %K%O in CO6_04
+%O - another pagebreak sequence. Used in fullscreen text
 
 %p - appears right before decision blocks.
 
 %V - ???
 
-%LC - Align to center
-
-%LR - Align to right
+%LL / %LC / %LR - align to left, center, or right
 
 %TS[3 digits][text]%TE - links text to TIPS
 
@@ -27,7 +25,7 @@ Special Sequences
 
 %C[4 hex digits] - color
 
-%T030 - delay? WARNING: On pc it has %T[\d\d] (2 digits) format, but on psp it needs to have 3 digits!
+%T030 - delay. WARNING: On pc it has %T[\d\d] (2 digits) format, but on psp it needs to have 3 digits!
 
 %X070 - Fixed offset from line start (also 010, 050 in game texts)
 
@@ -119,6 +117,32 @@ Game engine adds additional space between glyphs in scene textxs. This has been
 fixed (additional spacing removed) by one of the patches in `boot-patches.asm`.
 
 Glyph 751 is a whitespace.
+
+"BIP" file format
+============
+LZSS-compressed data with a 32-bit unsigned integer prepended to it, specifying the uncompressed file size.
+Note that, in the widespread lzss.c implementation of LZSS, the whitespace character is used the buffer. BIP, however, requires the buffer to be filled with NULL characters (0x0).
+
+
+"CNT" file format
+============
+A simple container format. Starts with a 32-bit unsigned integer specifying the amount of files. It is then followed by 32-bit integers specifying the relative offsets of the files stored within the container.
+Data in the file starts right after the header. All data is 16-bit aligned. Thus, the starting offset of data can be calculated using the following formula: ((count+1)*4+15)&~15
+
+In games supported by this repository, CNT containers hold UI elements and system sound effects, compressed to "BIP".
+UI elements are 8-bit indexed GIM images, and sound effects are ADX audio files.
+
+The "TEX" container contains copies of the INFO, TEXT, GAME, OPTION, and TIPS containers.
+It seems that the aforementioned containers are only accessed through the TEX container by the game, essentially leaving the BIP files contained in etc.afs unused.
+
+"R11" image format
+============
+Also called "BIP" by some people. In games supported by this project, contains an 8-bit indexed image.
+The actual image is first split into 30x30 chunks. Then, the chunks are extended to 32x32 by appending a 1px "frame", consisiting of pixels from other chunks.
+The chunks are then placed in the initial order (for CG/BG) into an image with a width of 512 pixels (fixed).
+
+Most BG and all CG can be converted to PNG with the "r11_to_png.py" script. Sprite conversion is only partially supported for Never7, as sprites in other games are stored in a different variation of the format.
+The "to_r11.py" script handles image conversion to the "R11" format. Only 480x360 images are supported.
 
 GIM format
 ============

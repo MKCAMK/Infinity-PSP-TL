@@ -24,7 +24,7 @@ As I try to turn over in my sleep, I am met with resistance.%K%P
 Haruka「Hey, Makoto! Makoto!」%K%P
 0xA0
 遙がオレの肩をつかんでグイグイと揺する。%K%P
-Haruka grabs my shoulders and rocks them back and%Nforth.%K%P
+Haruka grabs my shoulders and rocks them back and forth.%K%P
 0xAC
 わ、わかった……。起きるよ、起きるから……。%K%P
 I-I get it... I'm up, I'm up...%K%P
@@ -33,7 +33,7 @@ I-I get it... I'm up, I'm up...%K%P
 Wh-Whoa!%K%P
 0xDC
 上体を起こして、目を開ければ、そこには遙の……顔！？%K%P
-When I raise my upper body and open my eyes, I see,%Nmere inches away from me, Haruka's... face!?%K%P
+When I raise my upper body and open my eyes, I see, mere inches away from me, Haruka's... face!?%K%P
 0xE8
 遙「キャッ……！」%K%P
 Haruka「Kyaa...!」%K%P
@@ -66,13 +66,13 @@ I finally remember the last time we had this conversation.%K%P
 Haruka「Have you ever read... 'Sleeping Beauty'?」%K%P
 0x3C4
 誠「グリムは『いばら姫』──『眠り姫』はぺロー……だったよな？」%K%P
-Makoto「The Grimm Brothers' story was 'Briar Rose'―and%N'Sleeping Beauty' was by Perrault... right?」%K%P
+Makoto「The Grimm Brothers' story was 'Briar Rose'―and 'Sleeping Beauty' was by Perrault... right?」%K%P
 0x3D8
 遙「よく知ってるのね。そうなのよ……話は同じだけど。それで、何百年もの間、ずっと眠っているお姫様がいたでしょ？」%K%P
-Haruka「You're well informed. That's right... but the story is the%Nsame. There was this princess who slept for hundreds%Nof years, right?」%K%P
+Haruka「You're well informed. That's right... but the story is the same. There was this princess who slept for hundreds of years, right?」%K%P
 0x3E4
 誠「ああ。それで、目覚めさせるために王子様がやって来て、お姫様に……」%K%P
-Makoto「Yeah, that's right. And then, a prince finally came to the%Nprincess in order to wake her up, and then...」%K%P
+Makoto「Yeah, that's right. And then, a prince finally came to the princess in order to wake her up, and then...」%K%P
 0x3F8
 遙「…………」　%K%P
 Haruka「...」%K%P
@@ -84,13 +84,13 @@ Makoto「...」%K%P
 Haruka「Now that you're awake, let's go fishing.」%K%P
 0x424
 遙の中で、オレはもう釣りに行くものと決まっているようだ。%K%P
-It seems that to Haruka, it's already been decided that%NI'm to go fishing with her.%K%P
+It seems that to Haruka, it's already been decided that I'm to go fishing with her.%K%P
 0x430
 まだ何も言っていないのだが……。%K%P
 Even though I still haven't said anything...%K%P
 0x43C
 とは言え、オレは急いで支度を始める。少しでも長く、遙との時間を共有したいからだ。%K%P
-Nonetheless, I quickly begin to get ready, since I want to%Nspend as much time with Haruka as possible.%K%P
+Nonetheless, I quickly begin to get ready, since I want to spend as much time with Haruka as possible.%K%P
 0x448
 そんなオレを、遙はじっと見ていた。%K%P
 Haruka firmly watches me.%K%P
@@ -114,7 +114,7 @@ Makoto「Haruka...」%K%P
 Haruka「... What?」%K%P
 0x4B4
 誠「『眠り姫』では、お姫様の方から王子様にキスしちゃダメなんだ」%K%P
-Makoto「It was the prince that kissed the princess in 'Sleeping%NBeauty', not the other way around.」%K%P
+Makoto「It was the prince that kissed the princess in 'Sleeping Beauty', not the other way around.」%K%P
 0x4C0
 遙「…………」%K%P
 Haruka「...」%K%P
@@ -162,7 +162,7 @@ Haruka「Look, I caught a really big one this time!」%K%P
 Haruka brightly exclaims this. She's all smiles today.%K%P
 0x660
 その表情は晴れやかに澄み渡っていたが、天候の方は、それとは対照的に鈍く曇っていた。%K%P
-Her smile is bright and clear, a heavy contrast to the%Ndark clouds hanging overhead.%K%P
+Her smile is bright and clear, a heavy contrast to the dark clouds hanging overhead.%K%P
 0x66C
 そして、オレの心の中も、それとまるっきり同じだった。%K%P
 In my heart, I'm exactly the same.%K%P
@@ -171,16 +171,16 @@ In my heart, I'm exactly the same.%K%P
 I'm having fun being together with Haruka.%K%N
 0x684
 けれど、胸の片隅には依然暗雲が立ち込めている。%K%P
-However, dark clouds still shroud the corners of my%Nheart.%K%P
+However, dark clouds still shroud the corners of my heart.%K%P
 0x690
 オレは、遙とくるみの違いについて、いまだ答えを出せずに苦悶していたのだ……。%K%P
-I'm still anguishing because I still haven't found the%Ndecisive difference between Haruka and Kurumi...%K%P
+I'm still anguishing because I still haven't found the decisive difference between Haruka and Kurumi...%K%P
 0x69C
 遙「あ、またかかったみたい♪」%K%P
 Haruka「Ah, looks like I got another bite♪」%K%P
 0x6B0
 そんなオレの不安をよそに、遙はすこぶる上機嫌だった。%K%P
-While I'm feeling uneasy, Haruka is in an extremely good%Nmood.%K%P
+While I'm feeling uneasy, Haruka is in an extremely good mood.%K%P
 0x6BC
 キラキラと輝く笑顔が、とてもまぶしい。%K%P
 Her smile is very dazzling and radiant.%K%P
@@ -192,10 +192,10 @@ Makoto「Haruka... you seem pretty happy.」%K%P
 I say this spontaneously.%K%P
 0x720
 遙「だって……私、誠といると楽しいから……。%Nいままで、他の人といてこんなことなかったよ」%K%P
-Haruka「Well, that's because... it's fun being with you... Up until now,%NI've never done things like this with another person.」%K%P
+Haruka「Well, that's because... it's fun being with you... Up until now, I've never done things like this with another person.」%K%P
 0x72C
 遙「だからそんな悲しい顔をしないで……%W%W誠が悲しいと、私も悲しいんだから……%W%W本当だよ。%W%W%W私には誠しかいないんだから……%W%W誠しか……」%K%P
-Haruka「So don't make that sad face... When you're sad, I'm sad%Ntoo... It's true. I only have you, Makoto... only you...」%K%P
+Haruka「So don't make that sad face... When you're sad, I'm sad too... It's true. I only have you, Makoto... only you...」%K%P
 0x738
 思いがけぬ答だった。%K%N
 I wasn't expecting that answer.%K%N
@@ -204,7 +204,7 @@ I wasn't expecting that answer.%K%N
 I must have accidentally let my anxiety show.%K%P
 0x750
 敏感な遙は、そんな些細な表情の変化さえ見逃さなかった。%K%P
-And Haruka, being as sensitive as she is, must have%Nsensed my subtle shift in mood instantly.%K%P
+And Haruka, being as sensitive as she is, must have sensed my subtle shift in mood instantly.%K%P
 0x75C
 浮かない様子のオレのことを見て、遙は悲しい顔をした。%K%P
 Haruka frowns when she sees how unhappy I look.%K%P
@@ -219,16 +219,16 @@ And then... Haruka suddenly leans over on my shoulders.%K%P
 I feel her comfortable weight against me.%K%P
 0x794
 遙という存在の貴さを、オレはひしひしと感じていた。%K%P
-My senses become sharply more aware of how precious%Nthe existence known as Haruka is.%K%P
+My senses become sharply more aware of how precious the existence known as Haruka is.%K%P
 0x7A0
 （オレは、何をしてるんだろう……？）%K%P
 (What the hell am I doing...?)%K%P
 0x7AC
 （遙のことを守ろうとして……逆に遙を傷つけてるんじゃないのか？）%K%P
-(I'm trying to protect Haruka... but instead, all I'm doing is%Nhurting her, right?)%K%P
+(I'm trying to protect Haruka... but instead, all I'm doing is hurting her, right?)%K%P
 0x7B8
 （こんなにもオレのことを想ってくれてるのに……%Kオレは結局の所、遙に何もしてやれていないんじゃないのか？）%K%P
-(Even though she's thinking of me so much... in the end, is%Nthere nothing I can do for Haruka?)%K%P
+(Even though she's thinking of me so much... in the end, is there nothing I can do for Haruka?)%K%P
 0x7D4
 ──！？%K%P
 ―!?%K%P
@@ -249,19 +249,19 @@ That's right... It's 「the feelings Haruka has for me.」%K%N
 And also, 「The love I have for Haruka.」%K%P
 0x850
 オレにとって遙は、かけがえのない貴重な存在なのだ。%K%P
-To me, Haruka is a precious existence that can't be%Nreplaced.%K%P
+To me, Haruka is a precious existence that can't be replaced.%K%P
 0x85C
 遙が遙だから、オレは彼女を愛しいと想っているのだ。%K%P
 Because Haruka is Haruka, I truly love her.%K%P
 0x868
 遙の代わりになるものなんて、この世界に１つも在りはしないのだ！%K%P
-There is not a single thing or person that exists in this%Nworld who could replace Haruka!%K%P
+There is not a single thing or person that exists in this world who could replace Haruka!%K%P
 0x8A4
 オレは遙をそっと抱き寄せると、自然とくちびるを重ねていた。%K%P
-I gently embrace Haruka, and spontaneously kiss her on%Nher lips.%K%P
+I gently embrace Haruka, and spontaneously kiss her on her lips.%K%P
 0x8B0
 あたたかい……%W%W%W遙の体温……%W%W%Wやわらかなくちびる……。%K%P
-Haruka's soft lips... her body temperature... they're so%Nwarm...%K%P
+Haruka's soft lips... her body temperature... they're so warm...%K%P
 0x8C4
 誠「オレは、遙が好きなんだ……」%K%P
 Makoto「Haruka, I love you...」%K%P
@@ -300,7 +300,7 @@ Makoto「Earlier, you said 'I have no heart', right?」%K%P
 Haruka「... Yes.」%K%P
 0x964
 誠「でも心がないなら、人を好きになることなんかできない筈だ……」%K%P
-Makoto「But if you don't have a heart, then you shouldn't be able%Nto fall in love with someone...」%K%P
+Makoto「But if you don't have a heart, then you shouldn't be able to fall in love with someone...」%K%P
 0x970
 誠「ってことは……遙が『オレを好きだ』って言うのは嘘ってことになる……」%K%P
 Makoto「Which means... you lied when said you loved me...」%K%P
@@ -315,7 +315,7 @@ Makoto「Well then, doesn't that mean you really do have a heart?」%K%P
 Haruka「...」%K%P
 0x9A0
 戸惑うような表情で視線をそらす遙。%K%P
-With a bewildered expression, Haruka averts her gaze%Nfrom me.%K%P
+With a bewildered expression, Haruka averts her gaze from me.%K%P
 0x9AC
 誠「なあ、遙……」%K%P
 Makoto「Say, Haruka...」%K%P
@@ -327,25 +327,25 @@ Makoto「Don't lie to yourself...」%K%P
 Makoto「Since the day you were born, you've had a kind heart.」%K%P
 0x9D0
 誠「釣った魚を逃がしてやるのだって、それは遙に優しい心があるからできることなんだと思う……」%K%P
-Makoto「You let go of the fish that you catch because you can%Nfeel for them...」%K%P
+Makoto「You let go of the fish that you catch because you can feel for them...」%K%P
 0x9DC
 （そうじゃなきゃ、命懸けで子犬を助けたりなんか……）%K%P
-(If you didn't, you wouldn't have risked your life to save%Nthat puppy...)%K%P
+(If you didn't, you wouldn't have risked your life to save that puppy...)%K%P
 0x9E8
 誠「なのに遙は、自分自身を偽ってるんだ」%K%P
 Makoto「Even so, you deceive yourself.」%K%P
 0x9F4
 誠「『心がない』なんて言って、自分の気持ちを誤魔化してる……」%K%P
-Makoto「Saying things like 'I have no heart'... That's just you%Ndeceiving your own feelings...」%K%P
+Makoto「Saying things like 'I have no heart'... That's just you deceiving your own feelings...」%K%P
 0xA00
 遙「…………」%K%P
 Haruka「...」%K%P
 0xA0C
 誠「『人とは違う……他にも代わりがいる価値の無い存在……』」%K%P
-Makoto「'I'm different from humans... I'm a worthless existence%Nthat's a replacement for another...'」%K%P
+Makoto「'I'm different from humans... I'm a worthless existence that's a replacement for another...'」%K%P
 0xA18
 誠「……それは、遙自身が作り上げた虚像……妄想なんだよ……」%K%P
-Makoto「... That's a pretense you made up yourself... Nothing more%Nthan a delusion...」%K%P
+Makoto「... That's a pretense you made up yourself... Nothing more than a delusion...」%K%P
 0xA24
 遙「…………」%K%P
 Haruka「...」%K%P
@@ -354,13 +354,13 @@ Haruka「...」%K%P
 Makoto「Listen, Haruka.」%K%P
 0xA3C
 誠「遙の代わりになる人間なんか、この世に１人もいやしないんだ！」%K%P
-Makoto「There's not a single person in this world who could ever%Nreplace you!」%K%P
+Makoto「There's not a single person in this world who could ever replace you!」%K%P
 0xA48
 誠「オレは、遙が遙だから、好きなんだ！」%K%P
 Makoto「I love you because you are who you are!」%K%P
 0xA54
 誠「遙は、オレにとって、%N他の何ものにも代えられない、世界でたった１つの大切な存在なんだよ！！」%K%P
-Makoto「To me, you are the most important existence in the whole%Nworld, someone that can never be replaced by anything%Nelse!!」%K%P
+Makoto「To me, you are the most important existence in the whole world, someone that can never be replaced by anything else!!」%K%P
 0xA68
 遙「…………」%K%P
 Haruka「...」%K%P
@@ -369,7 +369,7 @@ Haruka「...」%K%P
 Makoto「So... never... say that again...」%K%P
 0xA80
 誠「心がないとか……%W%W価値がないとか……%W%Wそんなこと……」%K%P
-Makoto「That you have no heart... or that you're worthless...%NNever say those things again...」%K%P
+Makoto「That you have no heart... or that you're worthless... Never say those things again...」%K%P
 0xA8C
 遙「………………うん……」%K%P
 Haruka「... Yes...」%K%P
@@ -378,13 +378,13 @@ Haruka「... Yes...」%K%P
 With that, we decide to kiss for a third time.%K%P
 0xAD0
 いつの間にか、遙の瞳からは大粒の涙がこぼれ落ちていた。%K%P
-Before I knew it, large teardrops had started falling from%NHaruka's eyes.%K%P
+Before I knew it, large teardrops had started falling from Haruka's eyes.%K%P
 0xADC
 涙でぐしゃぐしゃになった遙の顔は……%Nとてもきれいだった。%K%P
 Haruka's face, soggy with tears... is absolutely beautiful.%K%P
 0xAE8
 ……そう、何かの呪縛から解き放たれたような安息の表情。%K%P
-... Yes, it's a peaceful expression that looks like she's%Nbeen released from a curse.%K%P
+... Yes, it's a peaceful expression that looks like she's been released from a curse.%K%P
 0xAF4
 これが本当の遙……%K%N
 This is the true Haruka...%K%N
@@ -396,7 +396,7 @@ This is the true Haruka...%K%N
 My cheeks are warm from Haruka's tears...%K%P
 0xB58
 それからの遙の変わり様と言ったら、それはもう筆舌に尽くし難いものがあった。%K%P
-If I were to say anything about the change in Haruka%Nafter that, all I can say is that it's beyond description.%K%P
+If I were to say anything about the change in Haruka after that, all I can say is that it's beyond description.%K%P
 0xB64
 遙「え？　それでどうしたの？」%K%P
 Haruka「Huh? And then what happened?」%K%P
@@ -405,13 +405,13 @@ Haruka「Huh? And then what happened?」%K%P
 Everyone「...」%K%P
 0xB7C
 以前とは比べ物にならないほど豊かになった遙の表情に、誰もが驚きを隠せない。%K%P
-When they see how cheerful Haruka's expression is and%Nhow she practically can't be compared to her past self,%Nno one can hide their surprise.%K%P
+When they see how cheerful Haruka's expression is and how she practically can't be compared to her past self, no one can hide their surprise.%K%P
 0xB90
 億彦「石原ぁ〜。お前遙ちゃんに何をしたんだ？%Nあの遙ちゃんがあんなふうに笑うなんて……。くそう、本当ならその役目はオレの筈だったんだぞ」%K%P
-Okuhiko「Ishihara, what did you do to her? I've never thought I'd%Nsee Haruka-chan of all people smile like that... Dammit, if%Nit's true, then that should have been my role!」%K%P
+Okuhiko「Ishihara, what did you do to her? I've never thought I'd see Haruka-chan of all people smile like that... Dammit, if it's true, then that should have been my role!」%K%P
 0xBAC
 みんなとの会話をする中でも、終始オレの様子をうかがっている遙。%K%P
-Even when the others are in the middle of talking,%NHaruka's eyes are solely focused on me.%K%P
+Even when the others are in the middle of talking, Haruka's eyes are solely focused on me.%K%P
 0xBC0
 オレと視線が合うと、これまでにない晴れやかな微笑みを送ってくる。%K%P
 When our eyes meet, I give her a broad grin.%K%P

@@ -15,13 +15,13 @@ He's lounging on the sofa, smoking...%K%N
 ... Smoking a cigarette?%K%P
 0xA0
 今まで、億彦がタバコを吸っているところなど、１度も見たことがなかった。%K%P
-Up until now, I've never seen Okuhiko in the middle of%Nsmoking.%K%P
+Up until now, I've never seen Okuhiko in the middle of smoking.%K%P
 0xAC
 だが、今はそんなことはどうでもいい！%K%P
 But none of that matters right now!%K%P
 0xB8
 オレはツカツカと億彦の元へと歩み寄ると、いきなり奴の胸ぐらをつかんで立ち上がらせた。%K%P
-I briskly walk over to Okuhiko, suddenly grab him by the%Ncollar, and force him to get up to his feet.%K%P
+I briskly walk over to Okuhiko, suddenly grab him by the collar, and force him to get up to his feet.%K%P
 0xCC
 億彦「な、なにするんだよ、石原ぁ……」%K%P
 Okuhiko「Wh-What the hell are you doing, Ishihara...」%K%P
@@ -63,13 +63,13 @@ Okuhiko「...」%K%P
 Makoto「What happened to Kurumi?」%K%P
 0x19C
 億彦「……ク、クルミ？　%Nクルミって……あの、木の実の？」%K%P
-Okuhiko「... K-Kurumi? Kurumi... Wait, isn't that the Japanese word%Nfor chestnut?」%K%P
+Okuhiko「... K-Kurumi? Kurumi... Wait, isn't that the Japanese word for chestnut?」%K%P
 0x1CC
 誠「とぼけんなよ！」%K%P
 Makoto「Don't play dumb!」%K%P
 0x1E0
 億彦「と、とぼけてなんかいないよ！　%Nじゃあ何なんだよ、クルミって！？」%K%P
-Okuhiko「I-I'm not playing dumb! Why don't YOU tell me what this%N'Kurumi' is, then!?」%K%P
+Okuhiko「I-I'm not playing dumb! Why don't YOU tell me what this 'Kurumi' is, then!?」%K%P
 0x1EC
 誠「……………………」%K%P
 Makoto「...」%K%P
@@ -84,13 +84,13 @@ I can't take in the meaning of Okuhiko's words very well.%K%P
 Today is April 1st...%K%N
 0x21C
 ４月１日の朝だから、億彦はくるみのことを知らない、と……？%K%P
-If it's the morning of April 1st, then that means Okuhiko%Nhasn't met Kurumi yet, right...?%K%P
+If it's the morning of April 1st, then that means Okuhiko hasn't met Kurumi yet, right...?%K%P
 0x230
 億彦「だ、だいじょうぶかい？　石原ぁ……」%K%P
 Okuhiko「A-Are you all right, Ishihara...?」%K%P
 0x260
 オレは億彦を突き飛ばし、疾風のような素早さで、玄関を飛び出した。%K%P
-I thrust Okuhiko away, and rush out the front door as%Nswift as a tornado.%K%P
+I thrust Okuhiko away, and rush out the front door as swift as a tornado.%K%P
 0x2D0
 行き先は決まっている。%K%N
 I've decided on my destination.%K%N
@@ -147,10 +147,10 @@ She might be alive.%K%P
 If such a miracle exists, then...%K%N
 0x410
 そんな奇跡が、もし本当に起こったのならば……。%K%P
-If such a miracle turns out to have really happened,%Nthen...%K%P
+If such a miracle turns out to have really happened, then...%K%P
 0x41C
 ああ……オレはどうしていいのかわからないだろう。嬉しさのあまり、泣き出してしまうかもしれない。%K%P
-Ah... I don't know what I'll do. I might be so happy that I'll%Ncry.%K%P
+Ah... I don't know what I'll do. I might be so happy that I'll cry.%K%P
 0x428
 オレのこの腕時計と、あの億彦の言葉が、真実であってくれることを祈った。%K%P
 I pray that my watch and Okuhiko's words tell the truth.%K%P
@@ -159,7 +159,7 @@ I pray that my watch and Okuhiko's words tell the truth.%K%P
 (Please... be alive... Kurumi...!)%K%P
 0x440
 はやる気持ちを抑え切れずに、いつの間にか、オレはアスファルトを蹴って駆け出していた……。%K%P
-Unable to hold back my thriving emotions, I kick off the%Nasphalt and break off into a run...%K%P
+Unable to hold back my thriving emotions, I kick off the asphalt and break off into a run...%K%P
 0x488
 ルナビーチの前に着いた。%K%N
 I've arrived in front of Lunabeach.%K%N
@@ -228,7 +228,7 @@ That reserved manner... that formal tone...%K%N
 This isn't the normal Izumi-san.%K%P
 0x5D0
 複雑な感情が芽生える。とてもじゃないけど、冷静になんかなれなかった。%K%P
-Complex emotions sprout within me. I'm trying, but I can't%Ncalm myself down.%K%P
+Complex emotions sprout within me. I'm trying, but I can't calm myself down.%K%P
 0x5DC
 これで、今日が４月１日だということは、ほぼ確定したと言ってもいいだろう。%K%P
 There is almost no doubt in my mind that today is April 1st.%K%P
@@ -264,7 +264,7 @@ I want to hug her tightly, and never let go...%K%P
 I want to feel her soft hair in my hands.%K%N
 0x6B0
 小さなくちびるに……透き通るような肌に触れたい。%K%N
-I want to feel those small li... no, her nearly transparent%Nskin.%K%N
+I want to feel those small li... no, her nearly transparent skin.%K%N
 0x6BC
 けれど……%K%P
 But...%K%P
@@ -294,7 +294,7 @@ Kurumi's words are the finishing blow...%K%N
 It feels like I've been struck hard in the gut...%K%P
 0x74C
 もちろん『全く予想してなかった』というわけじゃないけれど……実際にその言葉を聞くのは、とてもつらいことだった。%K%P
-Of course, it's not like this was 「completely%Nunexpected,」 but... actually hearing those words is very%Npainful.%K%P
+Of course, it's not like this was 「completely unexpected,」 but... actually hearing those words is very painful.%K%P
 0x758
 ──真実を打ち明けるか？%K%N
 ―Should I tell them the truth?%K%N
@@ -309,10 +309,10 @@ There's absolutely no way they'd believe me.%K%P
 It's better that we remain close acquaintances...%K%N
 0x788
 ６日間、共に過して来た仲間ならまだしも……。%K%P
-It's better if we can spend the next six days together%Nas friends...%K%P
+It's better if we can spend the next six days together as friends...%K%P
 0x794
 くるみにとっても、いづみさんにとっても、%Nオレはただの……%W%W%W%N……あかの他人に過ぎないのだから。%K%P
-Because right now, to the Morino sisters, I'm just... ...%NNothing more than a stranger.%K%P
+Because right now, to the Morino sisters, I'm just... ... Nothing more than a stranger.%K%P
 0x7A0
 いづみ「どうしてくるみのこと、御存知なんですか？」%K%P
 Izumi「Why do you know about Kurumi?」%K%P
@@ -324,13 +324,13 @@ Izumi-san's gaze is still filled with suspicion.%K%P
 Makoto「... I just... heard a rumor...」%K%P
 0x7C4
 嘘をつく。それ以外、他に選択の余地はなかった。%K%P
-I'm lying through my teeth. But I have no other options%Nright now.%K%P
+I'm lying through my teeth. But I have no other options right now.%K%P
 0x7D8
 いづみ「噂？」%K%P
 Izumi「A rumor?」%K%P
 0x7E4
 誠「この店に『くるみ』という名前の折り紙の上手い女の子がいるって……そう聞いたんですよ」%K%P
-Makoto「That there was a girl named 'Kurumi' at this shop who's an%Nexpert at origami... That's what I heard.」%K%P
+Makoto「That there was a girl named 'Kurumi' at this shop who's an expert at origami... That's what I heard.」%K%P
 0x7F0
 いづみ「折り紙……」%K%P
 Izumi「Origami...」%K%P
@@ -357,22 +357,22 @@ I'll go along with that.%K%P
 Kurumi「Huh?」%K%P
 0x860
 いづみ「ほらっ、くるみ、前に漁師の源さんに折り紙折ってあげたことあるじゃな〜い……」%K%P
-Izumi「Kurumi, you gave Gen-san, the fisherman, one of those%Norigamis you folded, remember...?」%K%P
+Izumi「Kurumi, you gave Gen-san, the fisherman, one of those origamis you folded, remember...?」%K%P
 0x874
 くるみ「ああ……あの漁師さんかぁ……」%K%P
 Kurumi「Ah... you mean that fisherman...?」%K%P
 0x880
 くるみ「うんうん。マグロとジンベイザメを折って、あげたことある」%K%P
-Kurumi「Yep, yep. Kurumi folded a tuna and a whale shark and%Ngave it to him!」%K%P
+Kurumi「Yep, yep. Kurumi folded a tuna and a whale shark and gave it to him!」%K%P
 0x894
 いづみ「源さん、きっと島中に言いふらしてるのよぉ……。%Nそういう人だから、あの人」%K%P
-Izumi「Gen-san would definitely have spread a rumor about%Nthat around the island... That's just the kind of person he%Nis.」%K%P
+Izumi「Gen-san would definitely have spread a rumor about that around the island... That's just the kind of person he is.」%K%P
 0x8A0
 くるみ「ふーん……そうだったんだぁ……」%K%P
 Kurumi「Hmm... so that's it...」%K%P
 0x8B4
 いづみ「まっ、こっちは良い宣伝になって嬉しいけど……」%K%P
-Izumi「Well, it's good publicity for this place, so I'm happy about%Nit...」%K%P
+Izumi「Well, it's good publicity for this place, so I'm happy about it...」%K%P
 0x8C0
 誠「……それじゃあオレ……失礼します」%K%P
 Makoto「... Well then... please excuse me.」%K%P
@@ -381,16 +381,16 @@ Makoto「... Well then... please excuse me.」%K%P
 Izumi「Huh? Are you leaving?」%K%P
 0x8E0
 誠「ええ……。ちょっと、用事を思い出したんで……」%K%P
-Makoto「Yes... I just remembered that there's something I have to%Ndo...」%K%P
+Makoto「Yes... I just remembered that there's something I have to do...」%K%P
 0x8EC
 いづみ「そう……残念ねぇ……」%K%P
 Izumi「I see... that's unfortunate...」%K%P
 0x900
 いづみ「じゃあ、また今度、お暇なときにでも、いらして下さいね？」%K%P
-Izumi「Well then, the next time you're free, would you come here%Nto eat?」%K%P
+Izumi「Well then, the next time you're free, would you come here to eat?」%K%P
 0x90C
 誠「はい……。必ず来ますよ！　……近いうちに！」%K%P
-Makoto「Yes... I'll definitely come back! ... Sometime in the near%Nfuture!」%K%P
+Makoto「Yes... I'll definitely come back! ... Sometime in the near future!」%K%P
 0xA54
 ロッジへは、まだ帰らないことにした。%K%N
 I decide not to return to the lodge yet.%K%N
@@ -405,16 +405,16 @@ I begin to think as I walk...%K%N
 ...%K%P
 0xAA0
 くるみが生きていたこと──それはオレにとって至高の喜びだった。%K%P
-Kurumi is alive―finding that out was the happiest%Nmoment of my life.%K%P
+Kurumi is alive―finding that out was the happiest moment of my life.%K%P
 0xAAC
 体中の細胞が、血潮が、踊り飛び跳ねるような幸福感だった。%K%P
-I'm so ecstatic that it feels as if every fiber of my being%Nis dancing in joy.%K%P
+I'm so ecstatic that it feels as if every fiber of my being is dancing in joy.%K%P
 0xAB8
 しかし……%K%N
 But...%K%N
 0xAC4
 ……それと同時に、胸の奥をキリキリと軋ませるような寂寥感も、覚えずにはいられなかった。%K%P
-... At the same time, I can't get rid of this profound feeling%Nof loneliness whirling around in my heart.%K%P
+... At the same time, I can't get rid of this profound feeling of loneliness whirling around in my heart.%K%P
 0xAD0
 『ううん……全然知らない人ぉ』%K%N
 「Nope... never seen him before.」%K%N
@@ -429,16 +429,16 @@ Kurumi's words were incredibly painful...%K%P
 I don't know the reason.%K%N
 0xB00
 理由なんかわからないが、２つだけ、確かなことがあった。%K%P
-I don't know the reason, but there's just two things I've%Nconfirmed.%K%P
+I don't know the reason, but there's just two things I've confirmed.%K%P
 0xB0C
 ──タイムスリップ。%K%N
 ―I time traveled.%K%N
 0xB18
 オレはあの日……あの豪雨の朝、時間を飛び越え過去へと戻った。%K%P
-On that day... on that rainy morning, I leapt through time,%Nback into the past.%K%P
+On that day... on that rainy morning, I leapt through time, back into the past.%K%P
 0xB24
 だからこそ、今こうして１日の朝を再び経験しているのだ。%K%P
-That's why I'm re-experiencing the morning of the 1st%Nright now.%K%P
+That's why I'm re-experiencing the morning of the 1st right now.%K%P
 0xB30
 そして、もうひとつの確かなこと……。%K%N
 And the other thing I've confirmed is...%K%N
@@ -450,34 +450,34 @@ And the other thing I've confirmed is...%K%N
 This is definitely not the first time I've time traveled.%K%P
 0xB54
 何故なら、オレは前回の１日の朝に絶望的な夢を見たから……。%K%N
-The reason why I can say this is because of that%Nhopeless dream I had on the morning of the last 1st...%K%N
+The reason why I can say this is because of that hopeless dream I had on the morning of the last 1st...%K%N
 0xB60
 その光景は、まさしく昨日のそれと同じで……。%K%P
-That scene was exactly the same scene from%N「yesterday」...%K%P
+That scene was exactly the same scene from 「yesterday」...%K%P
 0xB6C
 だとすれば、前回の、その前にも同じに６日間があったのだろう。%K%P
-If that's the case, then before the last loop, I must have%Nexperienced those same six days before.%K%P
+If that's the case, then before the last loop, I must have experienced those same six days before.%K%P
 0xB78
 これを突き詰めて考えれば、その前にも、さらにその前にも……つまり無限回の６日間が存在していたことになる。%K%P
-And if I take that to its logical conclusion, then they%Nhappened again before that, and before that... In other%Nwords, I've been living through those six days an infinite%Nnumber of times.%K%P
+And if I take that to its logical conclusion, then they happened again before that, and before that... In other words, I've been living through those six days an infinite number of times.%K%P
 0xB84
 そして、逆に考えればこれからも、同じ６日間は永遠に果てしなく繰り返されるということに……。%K%P
-And if I think about it conversely, then after this, those%Nsame six days will repeat endlessly for all of eternity...%K%P
+And if I think about it conversely, then after this, those same six days will repeat endlessly for all of eternity...%K%P
 0xB90
 いや……%W%W%Wだがしかし……%K%N
 No... that's wrong...%K%N
 0xB9C
 ……今日のオレと、前回の１日のオレには明らかな違いがある。%K%P
-... There's one very clear difference from the 「me」 of%Ntoday and the 「me」 of the last loop's 1st.%K%P
+... There's one very clear difference from the 「me」 of today and the 「me」 of the last loop's 1st.%K%P
 0xBA8
 ──記憶。%K%N
 ―My memories.%K%N
 0xBB4
 オレははっきりと、前の６日間の出来事を覚えているじゃないか！%K%P
-I clearly remember what happened in those last six%Ndays, don't I?!%K%P
+I clearly remember what happened in those last six days, don't I?!%K%P
 0xBC0
 ならば、歴史が繰り返すなんてことは絶対にあり得ない！%K%N
-In that case, then there's no way I'm gonna let history%Nrepeat itself!%K%N
+In that case, then there's no way I'm gonna let history repeat itself!%K%N
 0xBCC
 そう！　オレがこの手で歴史を変えてしまえばいいのだ！%K%P
 That's right! With these hands, I can change history!%K%P
@@ -489,13 +489,13 @@ Why did I time travel?%K%N
 The reason doesn't matter now.%K%P
 0xBF0
 とにかく、これはチャンスなのだ。あの忌わしい歴史を葬り去る為の最後のチャンス。%K%P
-All that matters is that this is my chance. This is my last%Nchance to cosign that repulsive history into oblivion.%K%P
+All that matters is that this is my chance. This is my last chance to cosign that repulsive history into oblivion.%K%P
 0xBFC
 次の１日があるかどうかなんてわからないのだ。%K%N
 I don't know if there'll be another 1st or not.%K%N
 0xC08
 仮にあったとしても、前回のように、オレは全ての記憶を失ってしまっているかもしれない。%K%P
-For argument's sake, even if there is, I might not have my%Nmemories, just like the last loop.%K%P
+For argument's sake, even if there is, I might not have my memories, just like the last loop.%K%P
 0xC14
 だから、これが最後のチャンス……。%K%P
 That's why this is my last chance...%K%P
@@ -510,19 +510,19 @@ That's why this is my last chance...%K%P
 ―I won't let Kurumi's smile disappear!%K%P
 0xCC4
 （でも歴史を変えるって言っても、まずは何をすればいいんだ？）%K%P
-(But even though I said I'll change history, what should I%Ndo first?)%K%P
+(But even though I said I'll change history, what should I do first?)%K%P
 0xCD0
 みんなにタイムスリップのことを教えるか？%K%N
 Should I tell everyone I time traveled?%K%N
 0xCDC
 いや、そんなことを言っても誰も信じてはくれないだろう。%K%P
-No, even if I told them, I don't think anyone would believe%Nme.%K%P
+No, even if I told them, I don't think anyone would believe me.%K%P
 0xCE8
 信じてもらうためには、全てを話さなければならないわけで……。%K%P
-In order to make them believe, I would have no choice but%Nto tell them everything...%K%P
+In order to make them believe, I would have no choice but to tell them everything...%K%P
 0xCF4
 全てを話すということは、くるみにこれから襲いかかるあの不幸な出来事についても教えなければならないのだ。%K%P
-Doing that would mean having to tell Kurumi about those%Ntragic events that will happen soon.%K%P
+Doing that would mean having to tell Kurumi about those tragic events that will happen soon.%K%P
 0xD00
 言えるか？　そんなこと……。%K%N
 There's no way in hell...%K%N
@@ -534,7 +534,7 @@ There's no way in hell...%K%N
 ... that I can say something like that.%K%P
 0xD24
 くるみをむやみに脅えさせたくはなかったし、そんなことを言い出したら、いづみさんがオレのことをどう思うか……。%K%P
-I don't want to terrify Kurumi. Plus, what would Izumi-san%Nthink of me if I tell them...?%K%P
+I don't want to terrify Kurumi. Plus, what would Izumi-san think of me if I tell them...?%K%P
 0xD30
 みんなには、このことは黙っていよう……。%K%N
 I'll try to keep this quiet from everyone...%K%N
@@ -555,13 +555,13 @@ Hold on...%K%N
 In the first place, isn't this island a dangerous place?%K%P
 0xDD4
 くるみを強引に連れて、島から脱出すれば……。%K%N
-Then what if I force Kurumi to come with me and take her%Naway from the island...?%K%N
+Then what if I force Kurumi to come with me and take her away from the island...?%K%N
 0xDE0
 …………ダメだ。%K%P
 ... No, that won't work.%K%P
 0xDEC
 いづみさん、前の１日に%N『波が高くて船が出れない』って言ってたっけ……。%K%N
-If my memory serves me right, on the last 1st, Izumi-san%Nsaid 「There's high waves, so the boats can't leave,」...%K%N
+If my memory serves me right, on the last 1st, Izumi-san said 「There's high waves, so the boats can't leave,」...%K%N
 0xDF8
 なんてこった……。%K%P
 Great...%K%P
@@ -594,7 +594,7 @@ I run up to the shrine.%K%N
 I look up at its overbearing image from below.%K%P
 0xEE8
 ふと、脳裏をよぎる昨日の光景……。%K%P
-Suddenly, the scene from yesterday surfaces to the%Nforefront of my mind...%K%P
+Suddenly, the scene from yesterday surfaces to the forefront of my mind...%K%P
 0xEFC
 くるみ……。%K%P
 Kurumi...%K%P
@@ -609,19 +609,19 @@ I feel my anger being resurrected.%K%P
 (Because of this godforsaken shrine... Kurumi...!)%K%P
 0xF34
 ふつふつと煮えたぎる血潮……。　怒りを体中にみなぎらせながら、渾身の力を振り絞って、柱を蹴飛ばした。%K%P
-My blood is boiling... As my anger rises, I channel it into%Npower, and kick one of the pillars as hard as I can.%K%P
+My blood is boiling... As my anger rises, I channel it into power, and kick one of the pillars as hard as I can.%K%P
 0xF40
 助走をつけ、思い切り肩で体当たりする。　何度も何度もぶつかって、全体重をその柱にかけた。%K%P
-I launch an assault run, ramming the pillar with my%Nshoulders. I do this over and over again as I put all my%Nbody weight into smashing the pillar.%K%P
+I launch an assault run, ramming the pillar with my shoulders. I do this over and over again as I put all my body weight into smashing the pillar.%K%P
 0xF4C
 ……………………………………。%K%N
 ...%K%N
 0xF58
 だが、建物はびくともしない。梁に積もった埃が、さらさらと舞い落ちるだけだった。%K%P
-But the building is undaunted. I've only succeeded in%Ncausing the dust that's accumulated on the pillars to%Nflutter down.%K%P
+But the building is undaunted. I've only succeeded in causing the dust that's accumulated on the pillars to flutter down.%K%P
 0xF64
 こんなに激しく劣化した神社なのに、やはり人ひとりの力では地震にはかなわないのか……。%K%P
-Even though this shrine has deteriorated so intensely, I%Nsuppose that my strength alone can't compare to an%Nearthquake...%K%P
+Even though this shrine has deteriorated so intensely, I suppose that my strength alone can't compare to an earthquake...%K%P
 0xF70
 誠「はぁ……」%K%P
 Makoto「Haah...」%K%P
@@ -630,7 +630,7 @@ Makoto「Haah...」%K%P
 I heavily sigh.%K%N
 0xF88
 とぼとぼと肩を落とし、境内を立ち去った。%K%P
-I droop my shoulders as I leave the shrine grounds in%Ndefeat.%K%P
+I droop my shoulders as I leave the shrine grounds in defeat.%K%P
 0x1004
 いや……だけどそんなに、落ち込むこともないんじゃないのか？%K%N
 Wait... this is nothing to get so depressed over, is it?%K%N
@@ -639,28 +639,28 @@ Wait... this is nothing to get so depressed over, is it?%K%N
 After all, I still have vivid memories from before.%K%P
 0x101C
 未来が、手に取るようにわかるのだ。歴史を変えるなんて簡単なことだろう。%K%P
-I know the future so well I could take it in my hands.%NChanging history will be simple, right?%K%P
+I know the future so well I could take it in my hands. Changing history will be simple, right?%K%P
 0x1028
 怖れることなんか何も無いんだ！%K%N
 There's nothing to be scared of!%K%N
 0x1034
 何よりも重要なことは、くるみの中の本当の傷を、しっかりと受け止めてやることだろう。%K%P
-The most important matter is to take away the true scar%Nthat lies inside Kurumi.%K%P
+The most important matter is to take away the true scar that lies inside Kurumi.%K%P
 0x1040
 心の傷を、今度こそ完全に癒してやらなければ……。%K%P
 This time, I have to completely cure her emotional scars...%K%P
 0x104C
 さらに、くるみといづみさんには本当に血の繋がりが無いのか？　──その真相も突き止めなければならない。%K%P
-Furthermore, is it really true that Kurumi and Izumi-san%Naren't related by blood? ―I need to determine%Nwhether that's true or not.%K%P
+Furthermore, is it really true that Kurumi and Izumi-san aren't related by blood? ―I need to determine whether that's true or not.%K%P
 0x1058
 できれば、２人が実の姉妹だということが証明できればなお好ましい。%K%P
-If possible, it'd be nice if I could prove that those two%Nare true sisters.%K%P
+If possible, it'd be nice if I could prove that those two are true sisters.%K%P
 0x1064
 心の傷を埋め、血の繋がりを証明することができれば、あの惨劇が繰り返すことなどあり得ない！%K%P
-If I can get that proof, then I can fill up those emotional%Nscars, ensuring that tragedy doesn't happen again!%K%P
+If I can get that proof, then I can fill up those emotional scars, ensuring that tragedy doesn't happen again!%K%P
 0x1070
 ……とは言え、今のままではわからないことが多すぎる。%K%P
-... Be that as it may, there's way too many things that I%Ndon't know right now.%K%P
+... Be that as it may, there's way too many things that I don't know right now.%K%P
 0x107C
 ではどうすれば？%K%N
 Well then, what should I do?%K%N
@@ -669,31 +669,31 @@ Well then, what should I do?%K%N
 I don't even need to think about it.%K%N
 0x1094
 いづみさんの話をちゃんと最後まで聞けばいいのだ。%K%P
-I need to properly hear Izumi-san's story from beginning%Nto end.%K%P
+I need to properly hear Izumi-san's story from beginning to end.%K%P
 0x10A0
 そうすれば、何もかも、全てを解決することができるような気がする。%K%N
 If I do that, then I feel that I can settle everything.%K%N
 0x10AC
 今なすべきことは、くるみとの想い出を、もう１度最初から築き上げることだ。%K%P
-What I should be doing right now is building up my%Nrelationship with Kurumi again right from square one.%K%P
+What I should be doing right now is building up my relationship with Kurumi again right from square one.%K%P
 0x10B8
 楽しかった数々の想い出を、再び創り直すこと……。%K%P
-I'll recreate all those many fun memories with her once%Nagain...%K%P
+I'll recreate all those many fun memories with her once again...%K%P
 0x10C4
 時が満ちるまで、とにかく今は、そのことに専念しよう。%K%P
-Until my time limit is up, I'll devote everything I have into%Ndoing that.%K%P
+Until my time limit is up, I'll devote everything I have into doing that.%K%P
 0x10E0
 ……………………………………。%K%N
 ...%K%N
 0x10EC
 ロッジに着いた頃には、オレはすっかりと落ち着きを取り戻していた……。%K%P
-By the time I arrive at the lodge, I've completely calmed%Ndown...%K%P
+By the time I arrive at the lodge, I've completely calmed down...%K%P
 0x117C
 玄関のドアを開いてリビングに入った。%K%N
 I open the front door, and enter the living room.%K%N
 0x1188
 床に、億彦が転がっている。何だかもがき苦しんでいるようにも見えるが……？%K%P
-Okuhiko is lying on the floor, and seems to be writhing in%Nsevere agony...%K%P
+Okuhiko is lying on the floor, and seems to be writhing in severe agony...%K%P
 0x1194
 誠「ただいまーっ」%K%P
 Makoto「I'm back!」%K%P
@@ -702,7 +702,7 @@ Makoto「I'm back!」%K%P
 I call out.%K%P
 0x11AC
 幸せそうに鼻歌を唄いながら、キッチンで食器を洗っていた優夏が振り向く。%K%P
-Yuka turns from washing the dishes in the kitchen as%Nshe happily hums a song.%K%P
+Yuka turns from washing the dishes in the kitchen as she happily hums a song.%K%P
 0x11C0
 優夏「もう……どこ行ってたのよぉ……」%K%P
 Yuka「Geez... where did you go...?」%K%P
@@ -711,10 +711,10 @@ Yuka「Geez... where did you go...?」%K%P
 Yuka「We already ate breakfast, you know?」%K%P
 0x11D8
 なるほど……。今回の犠牲者は、億彦になったというわけか……。%K%N
-I see... So that means Okuhiko became the victim of%NYuka's cooking this time...%K%N
+I see... So that means Okuhiko became the victim of Yuka's cooking this time...%K%N
 0x11E4
 床でイモムシのように悶えている億彦が、少しだけ哀れに思えた。%K%P
-I almost feel sorry for Okuhiko, who's writhing in pain on%Nthe floor.%K%P
+I almost feel sorry for Okuhiko, who's writhing in pain on the floor.%K%P
 0x11F0
 （ん？　ところで遙は？）%K%P
 (Huh? What about Haruka?)%K%P
@@ -723,13 +723,13 @@ I almost feel sorry for Okuhiko, who's writhing in pain on%Nthe floor.%K%P
 I look around for her.%K%P
 0x1208
 ……遙は今、洗面台の前で歯を磨いている。%K%P
-... Haruka is brushing her teeth in front of the sink right%Nnow.%K%P
+... Haruka is brushing her teeth in front of the sink right now.%K%P
 0x1214
 あの様子からすると、遙はまたしても、無事難を逃れたようだ。%K%P
-Judging from her condition, Haruka seems to have%Nsafely escaped this time as well.%K%P
+Judging from her condition, Haruka seems to have safely escaped this time as well.%K%P
 0x1254
 ふいに、玄関のチャイムが鳴った。ドアのすぐ前に立っていたオレは、何も考えずにそれを開いた。%K%P
-Suddenly, the doorbell rings. Since I'm standing in front%Nof the door, I open it without thinking.%K%P
+Suddenly, the doorbell rings. Since I'm standing in front of the door, I open it without thinking.%K%P
 0x12E8
 くるみ「毎度ありがとうございま〜す♪」%K%P
 Kurumi「Thank you very much for your continued patronage〜♪」%K%P
@@ -744,7 +744,7 @@ I quickly glance at my watch―「11:32 A.M.」%K%P
 That's right...%K%N
 0x1318
 すっかり忘れてた……。この時刻、くるみがピザを届けに……。%K%P
-I completely forgot... At this time, Kurumi delivered the%Npizza...%K%P
+I completely forgot... At this time, Kurumi delivered the pizza...%K%P
 0x1324
 くるみ「あっ、さっきの……」%K%P
 Kurumi「Oh, you're that guy from earlier...」%K%P
@@ -753,10 +753,10 @@ Kurumi「Oh, you're that guy from earlier...」%K%P
 I turn my head around and glance at the others.%K%N
 0x1378
 億彦は床の上で絶命しているし、優夏はキッチンに立っている。遙も洗面台の前だ。%K%P
-Okuhiko is dying on the floor, Yuka is standing in the%Nkitchen, and Haruka is brushing her teeth.%K%P
+Okuhiko is dying on the floor, Yuka is standing in the kitchen, and Haruka is brushing her teeth.%K%P
 0x1384
 幸い、オレとくるみの会話を聞いている者はいなかった。%K%P
-Fortunately, none of them can hear my conversation with%NKurumi.%K%P
+Fortunately, none of them can hear my conversation with Kurumi.%K%P
 0x13D4
 くるみ「……このロッジに泊ってたんだぁ」%K%P
 Kurumi「So you're staying at this lodge...」%K%P
@@ -765,7 +765,7 @@ Kurumi「So you're staying at this lodge...」%K%P
 Makoto「Y-Yeah... well, for the time being...」%K%P
 0x13EC
 くるみ「はいっ♪　こちらが、ご注文のシーフードピザでぇ〜す♪」%K%P
-Kurumi「All right♪ Anyway, here's the seafood pizza you%Nordered〜♪」%K%P
+Kurumi「All right♪ Anyway, here's the seafood pizza you ordered〜♪」%K%P
 0x13F8
 誠「…………………………」%K%P
 Makoto「...」%K%P
@@ -777,7 +777,7 @@ Kurumi「Hmm?」%K%P
 Wh-What should I do...?%K%N
 0x141C
 前と同じように『そんなもん頼んでない』って言おうか……？%K%P
-Should I say 「I never ordered anything like that,」 like last%Ntime...?%K%P
+Should I say 「I never ordered anything like that,」 like last time...?%K%P
 0x1428
 それとも、親切に『沙紀の家と間違えてる』って教えてやろうか……？%K
 Or should I try redirecting her to Saki's place...?%K
@@ -804,10 +804,10 @@ I play dumb.%K%P
 Kurumi「What!?」%K%P
 0x14A4
 くるみは動揺の色を浮かべながら、空いた左手でポケットを探り、１枚の紙切れを取り出した。%K%P
-A disturbed expression clouds Kurumi's face as she%Nsearches through her pocket with her free hand until%Nshe pulls out a scrap of paper.%K%P
+A disturbed expression clouds Kurumi's face as she searches through her pocket with her free hand until she pulls out a scrap of paper.%K%P
 0x14B0
 くるみ「でも、伝票には確かに『シーフードピザ』って書いてあるよ？」%K%P
-Kurumi「But the receipt definitely says you ordered a 'Seafood%NPizza', didn't you?」%K%P
+Kurumi「But the receipt definitely says you ordered a 'Seafood Pizza', didn't you?」%K%P
 0x14BC
 （うん。そりゃそうだろうなぁ）%K%P
 (Well, that's certainly what it says on the receipt.)%K%P
@@ -816,7 +816,7 @@ Kurumi「But the receipt definitely says you ordered a 'Seafood%NPizza', didn't 
 As I think that...%K%P
 0x14D4
 誠「だからそういう意味じゃなくてな？%N何も注文なんかしてないってことだよ」%K%P
-Makoto「I'm telling you that that's not what I mean. You see, I didn't%Norder anything.」%K%P
+Makoto「I'm telling you that that's not what I mean. You see, I didn't order anything.」%K%P
 0x14E0
 くるみ「だけど……」%K%P
 Kurumi「But...」%K%P
@@ -843,13 +843,13 @@ I say this.%K%P
 Kurumi「What!?」%K%P
 0x1548
 くるみは動揺の色を浮かべながら、空いた左手でポケットを探り、１枚の紙切れを取り出した。%K%P
-A disturbed expression clouds Kurumi's face as she%Nsearches through her pocket with her free hand until%Nshe pulls out a scrap of paper.%K%P
+A disturbed expression clouds Kurumi's face as she searches through her pocket with her free hand until she pulls out a scrap of paper.%K%P
 0x1554
 くるみ「でも、伝票には確かに『シーフードピザ』って書いてあるよ？」%K%P
-Kurumi「But the receipt definitely says you ordered a 'Seafood%NPizza', didn't you?」%K%P
+Kurumi「But the receipt definitely says you ordered a 'Seafood Pizza', didn't you?」%K%P
 0x1560
 誠「いや、だからそういう意味じゃなくてな？%N届け先を、沙紀の別荘と間違ってるってこと」%K%P
-Makoto「I'm telling you that that's not what I meant. I think you were%Nsupposed to deliver this to that summer house from%Nearlier.」%K%P
+Makoto「I'm telling you that that's not what I meant. I think you were supposed to deliver this to that summer house from earlier.」%K%P
 0x156C
 くるみ「さきのべっそう……？」%K%P
 Kurumi「The summer house from earlier...?」%K%P
@@ -858,22 +858,22 @@ Kurumi「The summer house from earlier...?」%K%P
 Okay... So far, so good...%K%N
 0x1584
 そう言えばオレ、まだ沙紀のことを知らないことになってたんだった。%K%P
-I just need to pick my next words carefully so that it%Nseems like I don't know too much.%K%P
+I just need to pick my next words carefully so that it seems like I don't know too much.%K%P
 0x1590
 誠「ち、違うよぉ……。『さっきの別荘と』って言ったんだよぉ……」%K%P
 Makoto「Right... The summer house from earlier...」%K%P
 0x159C
 誠「さっき、外を散歩してたときに、近くに別荘を見つけたから……」%K%P
-Makoto「You might not have seen it, but there's this summer%Nhouse nearby that you should have passed earlier...」%K%P
+Makoto「You might not have seen it, but there's this summer house nearby that you should have passed earlier...」%K%P
 0x15A8
 誠「……そこと間違えてるんじゃないかなぁ……とか思ってみたりしたわけで……」%K%P
-Makoto「... I think that... you were supposed to deliver this pizza%Nthere instead...」%K%P
+Makoto「... I think that... you were supposed to deliver this pizza there instead...」%K%P
 0x15B4
 くるみ「ん？？？」%K%P
 Kurumi「Huh???」%K%P
 0x15C0
 誠「なあ、くるみ……%T030……ちゃん？　届け先の名前は、何て書いてある？」%K%P
-Makoto「Hey, Kurumi... chan? What's the name written where it says%N'receiver's address'?」%K%P
+Makoto「Hey, Kurumi... chan? What's the name written where it says 'receiver's address'?」%K%P
 0x15CC
 もう１度、伝票を見るくるみ。%K%P
 Kurumi looks at the receipt one more time.%K%P
@@ -882,13 +882,13 @@ Kurumi looks at the receipt one more time.%K%P
 Kurumi「A-S-A-K-U-R-A... it says Asakura.」%K%P
 0x15E4
 誠「だろ？　……だけどね？　ここには朝倉なんて名前の人はっ」%K%P
-Makoto「Right? So as you see, there isn't anyone here named%NAsaku-」%K%P
+Makoto「Right? So as you see, there isn't anyone here named Asaku-」%K%P
 0x15F0
 億彦「ちょ、ちょっと待った……」%K%P
 Okuhiko「H-Hold it right there...」%K%P
 0x1630
 億彦が、前かがみになりながら、いつの間にかオレの隣に立っていた。%K%P
-Okuhiko had walked over without me noticing it, and is%Ncurrently standing next to me.%K%P
+Okuhiko had walked over without me noticing it, and is currently standing next to me.%K%P
 0x163C
 億彦「あ……どうも……ご苦労様」%K%P
 Okuhiko「Ah... thank you... for all your trouble.」%K%P
@@ -906,13 +906,13 @@ Okuhiko「So... where's the pizza?」%K%P
 Kurumi「R-Right...」%K%P
 0x1698
 くるみは、少し慌てたような忙しない動作で、銀色のバッグから正方形の薄い箱を取り出した。%K%P
-Slightly flustered, Kurumi pulls out a thin box out of the%Nsilver bag.%K%P
+Slightly flustered, Kurumi pulls out a thin box out of the silver bag.%K%P
 0x16AC
 くるみ「こちらがご注文の品になります」%K%P
 Kurumi「Here is your order!」%K%P
 0x16B8
 億彦はよろよろとよろめきながら箱を受け取り、尋ねる。%K%P
-Okuhiko takes the pizza as he staggers on unsteady%Nfeet, then proceeds to ask her...%K%P
+Okuhiko takes the pizza as he staggers on unsteady feet, then proceeds to ask her...%K%P
 0x16C4
 億彦「い……いくら……？」%K%P
 Okuhiko「H... How much is it...?」%K%P
@@ -921,22 +921,22 @@ Okuhiko「H... How much is it...?」%K%P
 Kurumi「1200 yen.」%K%P
 0x16E4
 億彦から代金を受け取ったくるみは……%K%P
-Okuhiko takes some money out of his pocket, and gives%Nit to Kurumi...%K%P
+Okuhiko takes some money out of his pocket, and gives it to Kurumi...%K%P
 0x16F8
 くるみ「ありがとうございましたぁ♪」%K%P
 Kurumi「Thank you very much♪」%K%P
 0x170C
 ……深々と一礼し、元気良く走り去って行った。%K%P
-... who then gives a deep bow before energetically%Nrunning off.%K%P
+... who then gives a deep bow before energetically running off.%K%P
 0x1718
 後ろ姿を見送る億彦の横顔は、不気味なくらいに蒼白い。%K%P
-Looking at Okuhiko's face from the side as he sees her%Noff, I notice just how ghastly pale it is.%K%P
+Looking at Okuhiko's face from the side as he sees her off, I notice just how ghastly pale it is.%K%P
 0x1724
 オレには、億彦の気持ちが何となくわかった。%K%P
 I can kinda understand where Okuhiko's coming from.%K%P
 0x1730
 『お口直し』という言葉があるように、人間は、不味いものを食べた後には、まともな料理を口にしたくなるものだ。%K%P
-Anybody would want to 「clean their palette」, so to%Nspeak, in order to get rid of the terrible taste left in their%Nmouths from bad food, such as Yuka's cooking...%K%P
+Anybody would want to 「clean their palette」, so to speak, in order to get rid of the terrible taste left in their mouths from bad food, such as Yuka's cooking...%K%P
 0x173C
 恐らく、今回の億彦はそういう魂胆なのだろう……。%K%P
 That's probably what his ulterior motive was this time...%K%P
@@ -945,19 +945,19 @@ That's probably what his ulterior motive was this time...%K%P
 After that...%K%N
 0x17DC
 ピザを食べ終えたオレ達４人は、テニスコートに向かった。%K%N
-The four of us finish eating the pizza, and head for the%Ntennis courts.%K%N
+The four of us finish eating the pizza, and head for the tennis courts.%K%N
 0x17F8
 億彦と遙は姫ヶ浜に向かい、優夏とオレは再びテニスをすることになった。%K%N
-Okuhiko and Haruka head for Princess Beach while Yuka%Nand I end up playing tennis again.%K%N
+Okuhiko and Haruka head for Princess Beach while Yuka and I end up playing tennis again.%K%N
 0x1804
 理由は簡単……オレは前回優夏に負けたことが、悔しかったのだ。%K%N%N
-The reason is simple... I'm still sore from my loss to Yuka%Nlast time.%K%N%N
+The reason is simple... I'm still sore from my loss to Yuka last time.%K%N%N
 0x1810
 ──今回は必ずリベンジを！！%K%N%P
 ―So this time, I will definitely have my revenge!!%K%N%P
 0x1824
 と、意気込んだにもかかわらず、結果はまたしても惨敗……。%K%N
-But despite my enthusiasm, the result is still the same%Ncrushing defeat I suffered last time...%K%N
+But despite my enthusiasm, the result is still the same crushing defeat I suffered last time...%K%N
 0x1830
 結局、なんどやっても優夏にはかなわないのだということを思い知った。%K%N
 In the end, I realize that I'll never match up to Yuka.%K%N
@@ -975,13 +975,13 @@ And Haruka and I go to Princess Beach again...%K%N%N
 Once again, Haruka tells me that she has 「no heart」.%K%N%N
 0x1874
 その言葉を聞いたオレは、今回も、必ず遙を釣りに連れてってやろうと決意した。%K%P
-When I hear those words, I vow to take Haruka fishing%Nagain this time.%K%P
+When I hear those words, I vow to take Haruka fishing again this time.%K%P
 0x1888
 『心』うんぬんの問題は関係無い。%K%N%N
 Her problem has nothing to do with her 「heart.」%K%N%N
 0x1894
 心があろうがなかろうが、あのときの遙は、理屈抜きで楽しそうに笑っていた。%K%N%N
-Whether she does or doesn't have a heart, Haruka still%Nhad a beaming smile on when we went fishing.%K%N%N
+Whether she does or doesn't have a heart, Haruka still had a beaming smile on when we went fishing.%K%N%N
 0x18A0
 そんな楽しかった時間を、オレが奪い取ってしまうわけにはいかない。%K%N
 There's no way I can take away that happy time from her.%K%N
@@ -996,40 +996,40 @@ It's clear that I now have to change history.%K%N
 I have to prevent that tragedy, no matter what it takes.%K%N
 0x18D8
 しかし、だからと言って、くるみ以外の女の子達のことを無視するわけにはいかない。%K%N%N
-Still, it doesn't mean that I can just ignore all the girls%Nexcept Kurumi.%K%N%N
+Still, it doesn't mean that I can just ignore all the girls except Kurumi.%K%N%N
 0x18E4
 彼女達の幸せだった歴史（幸せになるだろう歴史）を、オレが台無しにするようなことがあってはならないのだ。%K%P
-It may account to nothing, but I want everyone to be as%Nhappy as possible.%K%P
+It may account to nothing, but I want everyone to be as happy as possible.%K%P
 0x18F8
 例えば、沙紀が波にさらわれること──それを知りながら、見て見ぬフリをするなんてことは、オレにはできない。%K%N
-For example, there's the incident where Saki got%Nswallowed by a wave ―Since I know about it, there's%Nno way I can feign ignorance and watch it happen%Nagain.%K%N
+For example, there's the incident where Saki got swallowed by a wave ―Since I know about it, there's no way I can feign ignorance and watch it happen again.%K%N
 0x1904
 沙紀と遙のいがみ合いだって同じだ。できれば、そんな嫌な歴史は、葬り去ってしまいたい。%K%N%N
-The same goes for Saki and Haruka's quarreling. I want to%Nchange that too, if possible.%K%N%N
+The same goes for Saki and Haruka's quarreling. I want to change that too, if possible.%K%N%N
 0x1910
 ……今、未来に何が起きるのかを知っているのはオレだけだ。%K%N
-... Right now, I'm the only one who knows what will happen%Nin the future.%K%N
+... Right now, I'm the only one who knows what will happen in the future.%K%N
 0x191C
 オレだけが、未来を変えることができるのだ。%K%P
 I'm the only one who can change the future.%K%P
 0x1930
 それはつまり、みんなを幸福にするのも、不幸にするのも、オレ次第ということでもある。%K%N
-In other words, it's all up to me whether everyone%Nbecomes happy or miserable.%K%N
+In other words, it's all up to me whether everyone becomes happy or miserable.%K%N
 0x193C
 大袈裟な言い方をすれば『オレがみんなの運命を握っている』と言うこともできるだろう。%K%N%N
-To put it rather dramatically, I guess I could say that, 「I'm%Nthe one who holds everyone's fate in my hands.」%K%N%N
+To put it rather dramatically, I guess I could say that, 「I'm the one who holds everyone's fate in my hands.」%K%N%N
 0x1948
 これから始まる６日間、いや７日間を、楽しい出来事だけで埋め尽くすこと……。%K%N
-From now on, these next six, no, seven days will be%Nhappy ones...%K%N
+From now on, these next six, no, seven days will be happy ones...%K%N
 0x1954
 ５人の女の子全員を幸せに導くこと……。%K%P
 I will guide them to happiness...%K%P
 0x1968
 それが、オレにとってのもうひとつの重大な使命なのかもしれない。%K%N
-That might be the other important mission that has been%Nbestowed upon me.%K%N
+That might be the other important mission that has been bestowed upon me.%K%N
 0x1974
 オレは、そんな責任感にも似た感情を抱き、大いに奮い立った。%K%N
-Embracing this newfound sense of purpose cheers me%Nup.%K%N
+Embracing this newfound sense of purpose cheers me up.%K%N
 0x1980
 オレの胸の中には、勇気と自信がみなぎってい%Nた……。%K%P
 I'm starting to feel more confident and brave...%K%P
@@ -1038,10 +1038,10 @@ I'm starting to feel more confident and brave...%K%P
 Before long, the sun turns red.%K%P
 0x1A04
 オレ達４人は海岸線の道で出会い、今、月浜に降り立った。%K%P
-The four of us met on the coastline road, and now we're%Nwalking alongside Moon Beach.%K%P
+The four of us met on the coastline road, and now we're walking alongside Moon Beach.%K%P
 0x1A50
 背後に鈍い音を聞いて、とっさに振り向く。%K%N
-I hear a loud thud from behind me, causing me to turn%Naround.%K%N
+I hear a loud thud from behind me, causing me to turn around.%K%N
 0x1A5C
 見ると、オレのすぐ後ろの砂地に、遙がしりもちをついている。%K%P
 On the sandy beach is Haruka, who has hit the ground.%K%P
@@ -1053,7 +1053,7 @@ A cloud of dust soundlessly stirs up into the empty sky.%K%P
 Makoto「Haah...」%K%P
 0x1A80
 ため息とともに、笑いが込み上げてきた。%K%N
-I let out a sound that's a combination between a sigh%Nand a laugh.%K%N
+I let out a sound that's a combination between a sigh and a laugh.%K%N
 0x1A8C
 もはや、驚くことなどないのだ。%K%N
 This no longer surprises me.%K%N
@@ -1062,7 +1062,7 @@ This no longer surprises me.%K%N
 This is a natural event, after all...%K%P
 0x1AA4
 オレは、きょとんとした遙の脇に手を添え、彼女を抱き起こしてやった。%K%P
-I walk over to the confused Haruka's side, grab her%Nhand, and then help her up.%K%P
+I walk over to the confused Haruka's side, grab her hand, and then help her up.%K%P
 0x1AB0
 誠「大丈夫か？」%K%P
 Makoto「Are you all right?」%K%P
@@ -1071,34 +1071,34 @@ Makoto「Are you all right?」%K%P
 I say this on purpose.%K%N
 0x1AC8
 自分でも気づかないうちに、オレの中にはこの現実を楽しむ余裕さえ出て来たのかもしれない。%K%P
-I myself may not have realized it, but maybe I've%Nsubconsciously decided to allow myself to have a little%Nfun with this reality.%K%P
+I myself may not have realized it, but maybe I've subconsciously decided to allow myself to have a little fun with this reality.%K%P
 0x1AD4
 オレの問いかけに対し、遙は何事もなかったかのように素っ気無く『うん』とうなずいて見せた。%K%P
-As if nothing had happened, she gives me a curt nod in%Nreply.%K%P
+As if nothing had happened, she gives me a curt nod in reply.%K%P
 0x1AE0
 遙の瞳に浮かんだ恥じらいの色……赤く色づいた頬……何だか懐かしかった……。%K%P
-Her clear embarrassment that she's trying to hide... her%Nblushing cheeks... This is kinda nostalgic...%K%P
+Her clear embarrassment that she's trying to hide... her blushing cheeks... This is kinda nostalgic...%K%P
 0x1AEC
 遙はその動揺を押し隠すかのように、足早にオレの脇をすり抜けて行った。%K%P
-As if trying to cover up her trembling, Haruka quickly%Ngets to her feet and moves past me.%K%P
+As if trying to cover up her trembling, Haruka quickly gets to her feet and moves past me.%K%P
 0x1B10
 もうすぐだ……。%K%N
 Almost there...%K%N
 0x1B1C
 もうすぐ、オレ達は本当の意味での再会、いや出会いを果たすことになる。%K%P
-In just a short bit, our true reunion, no, our meeting, will%Noccur.%K%P
+In just a short bit, our true reunion, no, our meeting, will occur.%K%P
 0x1B28
 心がときめいていた。%K%P
 My heart is pounding.%K%P
 0x1B34
 『自分の名前を告げられる』ということに、無上の悦びを覚える。%K%P
-I feel extreme ecstasy over the thought of finally being%Nable to tell her my own name.%K%P
+I feel extreme ecstasy over the thought of finally being able to tell her my own name.%K%P
 0x1B40
 ふと見上げれば、西の天空がきれいな茜色に染まっていた。%K%P
-I quickly look up to see the red western skies are%Nburning dark red.%K%P
+I quickly look up to see the red western skies are burning dark red.%K%P
 0x1B68
 渚に寄せる細波の音は、子守歌よりもやさしく聞こえた……。%K%P
-The sound of the waves breaking on shore are gentler%Nthan a lullaby...%K%P
+The sound of the waves breaking on shore are gentler than a lullaby...%K%P
 0x1BE8
 優夏「へぇ〜、こんなところに喫茶店があるんだ……」%K%P
 Yuka「Oh, to think there'd be a café here...」%K%P
@@ -1110,10 +1110,10 @@ Okuhiko「It's got pretty good taste.」%K%P
 Kurumi「Huh? Could you be...」%K%P
 0x1C24
 くるみはホウキを建物の壁に立てかけると、こちらへ駆け寄って来た。%K%P
-Kurumi places her broom against the wall, and runs up to%Nus.%K%P
+Kurumi places her broom against the wall, and runs up to us.%K%P
 0x1C40
 くるみ「えっと……確か……シーフードピザを注文した人達……だよね？」%K%P
-Kurumi「Umm... you're... the people who ordered the seafood%Npizza... right?」%K%P
+Kurumi「Umm... you're... the people who ordered the seafood pizza... right?」%K%P
 0x1C54
 億彦「え……？　あ、ああ、その節はどうも……」%K%P
 Okuhiko「Huh...? R-Right, thanks for doing that...」%K%P
@@ -1131,19 +1131,19 @@ Makoto「She's the girl... who delivered the pizza around noon.」%K%P
 Yuka「Ah. Okay.」%K%P
 0x1CA8
 くるみ「エヘヘ……。いつもご利用頂き、ありがとうございます♪」%K%P
-Kurumi「Eheheh... thank you very much for your continued%Npatronage♪」%K%P
+Kurumi「Eheheh... thank you very much for your continued patronage♪」%K%P
 0x1CB4
 優夏「ねぇ。立ち話っていうのもなんだし、ここで少し休んで行こうか？」%K%P
-Yuka「Hey. Since we're just standing here talking, why don't we%Ntake a little rest here?」%K%P
+Yuka「Hey. Since we're just standing here talking, why don't we take a little rest here?」%K%P
 0x1CC0
 思えば、ここでこうして優夏が切り出さなければ、くるみにも、いづみさんにも、沙紀にも巡り会わなかったのかもしれない。%K%P
-Now that I think about it, if Yuka hadn't proposed this,%Nthen Kurumi, Izumi-san, and Saki might never have met.%K%P
+Now that I think about it, if Yuka hadn't proposed this, then Kurumi, Izumi-san, and Saki might never have met.%K%P
 0x1CCC
 そう考えると、時間の流れとは実に面白いものだ。%K%P
 When I think that, I find the flow of time truly amusing.%K%P
 0x1CE8
 億彦「そうだな〜、ちょっと歩き疲れたし、うん、そうしようか」%K%P
-Okuhiko「You're right, I'm a little tired from all that walking. Yeah,%Nlet's do that.」%K%P
+Okuhiko「You're right, I'm a little tired from all that walking. Yeah, let's do that.」%K%P
 0x1CFC
 くるみ「あ、うんうん。そうしちゃお〜♪」%K%P
 Kurumi「Ah, yeah, yeah. Do it〜♪」%K%P
@@ -1152,7 +1152,7 @@ Kurumi「Ah, yeah, yeah. Do it〜♪」%K%P
 Yuka「Makoto? What about you?」%K%P
 0x1D24
 誠「余裕でＯＫに決まりまくりだよ！！　行くなって言ってもオレは行くね！！」%K%P
-Makoto「I'm definitely okay with this!! I would have gone in even if%Nyou had said not to!!」%K%P
+Makoto「I'm definitely okay with this!! I would have gone in even if you had said not to!!」%K%P
 0x1D30
 優夏「……？」%K%P
 Yuka「...?」%K%P
@@ -1170,19 +1170,19 @@ Yuka「Haruka? Are you okay with this?」%K%P
 Haruka「I'll... I'll pass... I'll head on back.」%K%P
 0x1D84
 誠「ええっ！？　何言ってんだよ、遙！　それはダメだよ！　絶対にダメだ！」%K%P
-Makoto「Huh!? What are you saying, Haruka!? You can't do that!%NYou absolutely can't do that!」%K%P
+Makoto「Huh!? What are you saying, Haruka!? You can't do that! You absolutely can't do that!」%K%P
 0x1D90
 思わず、取り乱してしまった……。%K%P
 I unintentionally lose my composure...%K%P
 0x1D9C
 が……冷静になってよく考えると、この後、結局遙もルナビーチに入ることになるのだった。%K%P
-Crap... when I regain my composure and think about it, I%Nremember that Haruka ended up going into Lunabeach in%Nthe end anyway.%K%P
+Crap... when I regain my composure and think about it, I remember that Haruka ended up going into Lunabeach in the end anyway.%K%P
 0x1DA8
 慌てることなどなかったのだ。%K%P
 I didn't need to get so flustered over it.%K%P
 0x1DC4
 優夏「ねぇ、誠？　何でそんなにこのお店に行きたがるの？」%K%P
-Yuka「Hey, Makoto? Why are you so anxious about going into%Nthis shop?」%K%P
+Yuka「Hey, Makoto? Why are you so anxious about going into this shop?」%K%P
 0x1DD0
 優夏が予定外の発言をする。%K%P
 Yuka unexpectedly questions me.%K%P
@@ -1197,7 +1197,7 @@ Kurumi「Because you promised, right?」%K%P
 Makoto「Huh?」%K%P
 0x1E10
 くるみ「今日の朝……『近いうちに必ず来ます』って、約束したからでしょ？」%K%P
-Kurumi「This morning... 'I'll definitely come in the near future'.%NThat's what you promised, right?」%K%P
+Kurumi「This morning... 'I'll definitely come in the near future'. That's what you promised, right?」%K%P
 0x1E1C
 誠「あ、ああ…………そうそうそうそうそうなんだ！」%K%P
 Makoto「Y-Yeah... right, right, right, right, right!」%K%P
@@ -1236,10 +1236,10 @@ Kurumi「Onee-chan, we have customers〜♪」%K%P
 Izumi「What's this? It's rare for Kurumi to attract customers.」%K%P
 0x1F3C
 優夏「ん？『お姉ちゃん』ってことは、もしかして２人は……姉妹？」%K%P
-Yuka「Huh? You said 'Onee-chan', so does that mean you two%Nare... sisters?」%K%P
+Yuka「Huh? You said 'Onee-chan', so does that mean you two are... sisters?」%K%P
 0x1F48
 くるみ「そうだよ。お姉ちゃんとくるみは血を分けた実の姉妹だよ♪」%K%P
-Kurumi「That's right. Onee-chan and Kurumi are true%Nblood-related sisters.」%K%P
+Kurumi「That's right. Onee-chan and Kurumi are true blood-related sisters.」%K%P
 0x1F54
 くるみが胸を張って答えた。%K%P
 Kurumi sticks out her chest and answers.%K%P
@@ -1254,7 +1254,7 @@ I suddenly become depressed.%K%P
 It feels like something is crushing my heart...%K%P
 0x1F84
 いづみ「あら♪　よく見たら、今朝の…………ごめんなさい、名前、聞いてなかったわね？」%K%P
-Izumi「Oh♪ Now that I've gotten a closer look at you, I think%Nthat you're the one from this morning... I'm sorry, I never%Ngot your name.」%K%P
+Izumi「Oh♪ Now that I've gotten a closer look at you, I think that you're the one from this morning... I'm sorry, I never got your name.」%K%P
 0x1F90
 誠「………………石原……です」%K%P
 Makoto「... It's... Ishihara.」%K%P
@@ -1272,34 +1272,34 @@ Izumi「Huh? ... O-Oh... then... Makoto Ishihara?」%K%P
 I silently nod.%K%P
 0x1FCC
 いづみ「『近いうちに』って……こんなに早く来てもらえるとは思わなかったわ♪」%K%P
-Izumi「'In the near future'... still, I didn't think you'd come back%Nthis quickly♪」%K%P
+Izumi「'In the near future'... still, I didn't think you'd come back this quickly♪」%K%P
 0x1FD8
 いづみ「それも、こんなに大勢で……。ありがとうございます♪」%K%P
-Izumi「And you brought such a large group... Thank you very%Nmuch♪」%K%P
+Izumi「And you brought such a large group... Thank you very much♪」%K%P
 0x1FE4
 いづみ「あっ、申し遅れました。私、この店でバイトをしている『守野いづみ』と言います」%K%P
-Izumi「Oh, I'm sorry, where are my manners? I'm 'Izumi Morino', a%Npart-time worker for this shop.」%K%P
+Izumi「Oh, I'm sorry, where are my manners? I'm 'Izumi Morino', a part-time worker for this shop.」%K%P
 0x1FF0
 いづみ「こっちはくるみ。……あっ、でも誠くんは、くるみのことは知ってるのよね？」%K%P
-Izumi「This is Kurumi... Oh, but you already know her, right,%NMakoto-kun?」%K%P
+Izumi「This is Kurumi... Oh, but you already know her, right, Makoto-kun?」%K%P
 0x1FFC
 誠「……え、ええ」%K%P
 Makoto「... R-Right.」%K%P
 0x2008
 いづみさんはにこやかに微笑むと、他の３人に向かってくるみのことを紹介した。%K%P
-When Izumi-san smiles, the other three introduce%Nthemselves to Kurumi.%K%P
+When Izumi-san smiles, the other three introduce themselves to Kurumi.%K%P
 0x2048
 いづみ「私の妹で、時々お店の手伝いをやってもらってるの。ホラ、くるみもご挨拶して」%K%P
-Izumi「Kurumi sometimes helps me with the shop. Come on,%NKurumi, go ahead and properly say 'Hello'.」%K%P
+Izumi「Kurumi sometimes helps me with the shop. Come on, Kurumi, go ahead and properly say 'Hello'.」%K%P
 0x2054
 くるみ「あ……えっと〜……。『守野くるみ』です。今、学校がお休みなので、お姉ちゃんのところに遊びに来てるの」%K%P
-Kurumi「Ah... Umm... I'm 'Kurumi Morino'. Right now, since Kurumi's on%Nschool break, she came here to have fun with%NOnee-chan.」%K%P
+Kurumi「Ah... Umm... I'm 'Kurumi Morino'. Right now, since Kurumi's on school break, she came here to have fun with Onee-chan.」%K%P
 0x2060
 くるみ「お店が忙しいときは、いろいろとお手伝いとかもしてるんだよ」%K%P
-Kurumi「When the shop gets busy, Kurumi helps out with various%Nthings.」%K%P
+Kurumi「When the shop gets busy, Kurumi helps out with various things.」%K%P
 0x206C
 くるみ「今日もお昼に団体客が入って……。くるみがいなかったら、ほんとにどうなってたことやら……」%K%P
-Kurumi「Today, we had a party of tourists come in for lunch...%NWithout Kurumi, we would really have had a lot of trouble%Nwith them...」%K%P
+Kurumi「Today, we had a party of tourists come in for lunch... Without Kurumi, we would really have had a lot of trouble with them...」%K%P
 0x2088
 優夏「くるみちゃん、偉いね〜♪」%K%P
 Yuka「Kurumi-chan, you're amazing♪」%K%P
@@ -1317,7 +1317,7 @@ Okuhiko「Kurumi-chan, what grade are you in right now?」%K%P
 Kurumi「Huh? Oh, Kurumi's a third year.」%K%P
 0x20DC
 億彦「そうかそうか、中学３年なんだ。そろそろ高校受験か……大変だね」%K%P
-Okuhiko「I see, I see, a third year in middle school, huh? You'll be%Ntaking your high school entrance exams soon... that'll be%Ntough.」%K%P
+Okuhiko「I see, I see, a third year in middle school, huh? You'll be taking your high school entrance exams soon... that'll be tough.」%K%P
 0x20E8
 誠「どこに目ついてんだ、お前は！？」%K%P
 Makoto「Are your eyes messed up, Okuhiko!?」%K%P
@@ -1335,7 +1335,7 @@ Makoto「Kurumi is in high school! She's a third year in high...」%K%P
 Damn me and my big mouth...%K%P
 0x212C
 胸を押し潰すような想いに、苛立っていたせいだろうか？%K%P
-Is it because of the irritation I'm feeling from the%Nsensation that's like my heart is being crushed?%K%P
+Is it because of the irritation I'm feeling from the sensation that's like my heart is being crushed?%K%P
 0x2140
 くるみ「あっ……あの漁師さん、そんなことまで言ってたの？」%K%P
 Kurumi「Oh... did that fisherman tell you that too?」%K%P
@@ -1353,19 +1353,19 @@ I break out into cold sweat...%K%P
 (It'd be best if I just kept my mouth shut for now...)%K%P
 0x2184
 うっかりと余計な事を言わないように、オレは黙ってみんなのやり取りを見守ることにした。%K%P
-In order to make sure I don't carelessly say anything%Nunnecessary, I just silently watch over the others as%Nthey talk.%K%P
+In order to make sure I don't carelessly say anything unnecessary, I just silently watch over the others as they talk.%K%P
 0x2190
 いづみ「……ところで、あなた達は？　見たところ大学生って感じだけど？」%K%P
-Izumi「... And what about all of you? From the looks of it, you're%Nall college students, right?」%K%P
+Izumi「... And what about all of you? From the looks of it, you're all college students, right?」%K%P
 0x21AC
 優夏「そうですね。私達も、ちゃんと自己紹介しないと……」%K%P
 Yuka「You're right. We should also introduce ourselves...」%K%P
 0x21B8
 優夏がコホンと小さく咳払いをし、自分達の事を話し始める。%K%P
-Yuka clears her throat with a small cough before%Npromptly doing so.%K%P
+Yuka clears her throat with a small cough before promptly doing so.%K%P
 0x21C4
 大学のこと…ゼミのこと…ロッジのこと…そして自分と遙の名前を告げたところで……%K%P
-She tells them about our college... about the Seminar...%Nabout the lodge... and just after she tells them Haruka's%Nname...%K%P
+She tells them about our college... about the Seminar... about the lodge... and just after she tells them Haruka's name...%K%P
 0x21E0
 億彦「んでっ、僕がぁ〜……！」%K%P
 Okuhiko「Well then, I am...!」%K%P
@@ -1377,7 +1377,7 @@ Okuhiko「Well then, I am...!」%K%P
 (It's almost time... for Saki's entrance...)%K%P
 0x2204
 億彦「いつも爽やか好青年、粋でいなせで涙にゃもろい、地球の平和を守る為、神が送った正義の戦士……その名も『飯田億彦』だ！」%K%P
-Okuhiko「The always invigorated youth, the gallant man with a%Ntender heart, the warrior of justice sent by God himself%Nfor the sake of protecting the Earth... his name is%N'Okuhiko Iida'!!!」%K%P
+Okuhiko「The always invigorated youth, the gallant man with a tender heart, the warrior of justice sent by God himself for the sake of protecting the Earth... his name is 'Okuhiko Iida'!!!」%K%P
 0x2220
 くるみ「……飯田……って？」%K%P
 Kurumi「... Did you say... Iida?」%K%P
@@ -1395,34 +1395,34 @@ Saki「My name is 'Asakura'. Is the manager here?」%K%P
 ... ... ...%K%P
 0x2290
 その後の展開は、前に経験したものと何もかもが同じだった。%K%P
-After that, things play out the exact same way they did%Nlast time.%K%P
+After that, things play out the exact same way they did last time.%K%P
 0x22AC
 ガミガミといづみさんに噛みつく沙紀に……%K%P
 Saki snarls and nags at Izumi-san...%K%P
 0x22C0
 ……優夏が中学の同級生だと気づいて……%K%P
-... Yuka realizes that they went to the same middle%Nschool...%K%P
+... Yuka realizes that they went to the same middle school...%K%P
 0x22CC
 いづみ「それじゃ今晩、食事を御馳走してあげましょう。２人の再会を祝って♪」%K%P
-Izumi「Well then, I'll treat you to dinner tonight. It'll be a%Ncelebration for your reunion!」%K%P
+Izumi「Well then, I'll treat you to dinner tonight. It'll be a celebration for your reunion!」%K%P
 0x22D8
 ……いづみさんの招待を受ける。%K%P
 ... We accept Izumi-san's invitation.%K%P
 0x22E4
 いづみ「パエリアとイタリアンサラダ、それとパンプキンスープもつけちゃおう！」%K%P
-Izumi「We have paella and Italian salad, as well as pumpkin%Nsoup!」%K%P
+Izumi「We have paella and Italian salad, as well as pumpkin soup!」%K%P
 0x22F0
 （パエリアは無理だよ、いづみさん）%K%P
 (Making paella will be impossible.)%K%P
 0x22FC
 口に出したい気持ちをぐっとこらえ、オレは心の中でつぶやいた。%K%P
-I mutter these words in my mind as I struggle to keep my%Nmouth shut.%K%P
+I mutter these words in my mind as I struggle to keep my mouth shut.%K%P
 0x2308
 ここに来て、オレはようやくこの奇妙な世界における処世術というものを、身につけることができたのかもしれない。%K%P
-By coming here, I might have finally acquired the secrets%Nof success for getting through this strange world.%K%P
+By coming here, I might have finally acquired the secrets of success for getting through this strange world.%K%P
 0x2314
 まあ、そのせいで、いづみさんが米が足りないことに気づいたのは、他の準備が全部整った後になってしまったのだが……。%K%P
-Well, because I don't say anything, Izumi-san doesn't%Nrealize that she's out of rice until after she's made the%Nother preparations...%K%P
+Well, because I don't say anything, Izumi-san doesn't realize that she's out of rice until after she's made the other preparations...%K%P
 0x23AC
 オレは前と同じように優夏を誘って、買い物に出かけた。%K%P
 Like last time, I invite Yuka to go out shopping with me.%K%P
@@ -1443,19 +1443,19 @@ Like last time, I invite Saki to go out shopping with me.%K%P
 The two of us head there...%K%P
 0x247C
 その間も、オレの頭の中では、くるみのあの言葉が何度も何度もよぎっては過ぎて行った。%K%P
-During that time, Kurumi's words run through my head%Nover and over again.%K%P
+During that time, Kurumi's words run through my head over and over again.%K%P
 0x2488
 くるみ「そうだよ。お姉ちゃんとくるみは血を分けた実の姉妹だよ♪」%K%P
-Kurumi「That's right. Onee-chan and Kurumi are true%Nblood-related sisters.」%K%P
+Kurumi「That's right. Onee-chan and Kurumi are true blood-related sisters.」%K%P
 0x24E0
 いづみさんの手料理を食べ終えて、その頃になってもまだ、オレの気持ちは落ち着かなかった。%K%P
-Even after we've finished Izumi-san's home cooked%Ndinner, I still can't calm down.%K%P
+Even after we've finished Izumi-san's home cooked dinner, I still can't calm down.%K%P
 0x24F4
 くるみ「きゃははははっ！　ちがうちがうっ！」%K%P
 Kurumi「Kyahahahaha! Wrong, wrong!」%K%P
 0x2500
 くるみ「今だって、全然営業中だってば！　うちの店ではこれが普通なの！」%K%P
-Kurumi「We've been completely open this whole time! This is%Nnormal for the shop!」%K%P
+Kurumi「We've been completely open this whole time! This is normal for the shop!」%K%P
 0x2514
 くるみ「つまり、開店休業状態ってこと」%K%P
 Kurumi「In other words, we're open, but not getting any business.」%K%P
@@ -1470,10 +1470,10 @@ Kurumi「You can see it from here. It's that huge building!」%K%P
 Kurumi「That's Tsukiya Hotel. It's this shop's main competition.」%K%P
 0x2544
 くるみ「見た感じは豪華に見えるけど、実はけっこう庶民的なホテルなの」%K%P
-Kurumi「It may look extravagant, but it's actually an%Neconomically priced hotel.」%K%P
+Kurumi「It may look extravagant, but it's actually an economically priced hotel.」%K%P
 0x2550
 くるみ「最上階にある展望レストランは、ここよりも断然値段が安いし、それに見晴らしも最高で……」%K%P
-Kurumi「On the top floor is a viewpoint restaurant, which is not%Nonly cheaper than here, but the view is simply amazing...」%K%P
+Kurumi「On the top floor is a viewpoint restaurant, which is not only cheaper than here, but the view is simply amazing...」%K%P
 0x255C
 くるみ「それに、温水プールだってついてるんだか%Nらぁ！」%K%P
 Kurumi「Besides, they've got a heated pool there as well!」%K%P
@@ -1491,10 +1491,10 @@ I won't let her smile disappear...%K%N
 I won't hurt her ever again...%K%P
 0x25A0
 くるみのことをずっと見ているうちに、その想いはますますふくれあがる一方だった。%K%P
-As I look at Kurumi, these feelings only grow more and%Nmore.%K%P
+As I look at Kurumi, these feelings only grow more and more.%K%P
 0x25F8
 プールでも、オレの視線は、自然にくるみの方へと向かってしまった。%K%P
-Even when we arrive at the pool, my gaze is still fixed on%NKurumi.%K%P
+Even when we arrive at the pool, my gaze is still fixed on Kurumi.%K%P
 0x260C
 くるみ「もう、ほら、おいでってばぁ！」%K%P
 Kurumi「Geez, c'mon, try and catch Kurumi!」%K%P
@@ -1503,10 +1503,10 @@ Kurumi「Geez, c'mon, try and catch Kurumi!」%K%P
 Izumi「Hold on Kurumi, don't shout.」%K%P
 0x262C
 仲むつまじい姉妹のじゃれ合い……。%K%P
-On the opposite side of the pool, the two happy sisters%Nare playing together...%K%P
+On the opposite side of the pool, the two happy sisters are playing together...%K%P
 0x2638
 時折、思いついたように通り過ぎる穏やかな夜風……。%K%P
-As I think, the gentle evening breeze brushes against%Nmy skin...%K%P
+As I think, the gentle evening breeze brushes against my skin...%K%P
 0x2644
 春らしい埃の匂いをはらんだ穏やかな夜風……。%K%P
 It's filled with the scent of spring...%K%P
@@ -1518,13 +1518,13 @@ Izumi「Hey! If you don't cut it out, I'll get mad!」%K%P
 Kurumi「Heh heh, catch Kurumi if you can!」%K%P
 0x2668
 水際スレスレに立って挑発するくるみ。%K%P
-Kurumi stands close by the pool's edge, egging%NIzumi-san on.%K%P
+Kurumi stands close by the pool's edge, egging Izumi-san on.%K%P
 0x2674
 オレは２人のじゃれ合いを黙って見つめていた。%K%P
 I silently watch the two of them play.%K%P
 0x2680
 地震のことも、いづみさんが落水することも、ひと言も口に出さずに……。%K%P
-I don't say a word about the earthquake that will hit soon%Nor that Izumi-san will fall in the water...%K%P
+I don't say a word about the earthquake that will hit soon or that Izumi-san will fall in the water...%K%P
 0x268C
 いづみ「ほら、捕まえたっ！」%K%P
 Izumi「There, I've got you now!」%K%P
@@ -1533,7 +1533,7 @@ Izumi「There, I've got you now!」%K%P
 The giant sheet of water...%K%P
 0x2704
 脅え切った表情で、水面に顔を出すいづみさん……。%K%P
-Izumi-san's face emerging out of the water with a%Nfrightened look...%K%P
+Izumi-san's face emerging out of the water with a frightened look...%K%P
 0x2710
 ……やがて、大地は落ち着きを取り戻し……%K%P
 ... Soon enough, the ground calms back down...%K%P
@@ -1542,19 +1542,19 @@ Izumi-san's face emerging out of the water with a%Nfrightened look...%K%P
 ... The surface of the pool is once again still...%K%P
 0x27A8
 プールサイドにあがったいづみさんは、頭の天辺から足の先までびしょびしょに濡れ尽くしている。%K%P
-Izumi-san has climbed out of the pool, and is completely%Nsoaked from head to toe.%K%P
+Izumi-san has climbed out of the pool, and is completely soaked from head to toe.%K%P
 0x27B4
 見事に生き残ったくるみと、まんまとやられてしまったいづみさん……。%K%P
-The completely dry Kurumi, and the utterly soaked%NIzumi-san...%K%P
+The completely dry Kurumi, and the utterly soaked Izumi-san...%K%P
 0x27C0
 姉妹はお互いに顔を見合わせ……そして、声をたてて笑い始めた。%K%P
-The sisters stare at each other's faces... And suddenly,%Nthey begin to laugh.%K%P
+The sisters stare at each other's faces... And suddenly, they begin to laugh.%K%P
 0x27D4
 プールサイドにあがったいづみさんは、頭の天辺から足の先までびしょびしょに濡れ尽くしている。%K%P
-Izumi-san has climbed out of the pool, and is completely%Nsoaked from head to toe.%K%P
+Izumi-san has climbed out of the pool, and is completely soaked from head to toe.%K%P
 0x27E0
 見事に生き残ったくるみと、まんまとやられてしまったいづみさん……。%K%P
-The completely dry Kurumi, and the utterly soaked%NIzumi-san...%K%P
+The completely dry Kurumi, and the utterly soaked Izumi-san...%K%P
 0x27F4
 姉妹はお互いに顔を見合わせ……%K%N
 The sisters stare at each other's faces...%K%N
@@ -1581,10 +1581,10 @@ Security guard「HEY!!!」%K%P
 And so, we all scurry back to Lunabeach.%K%N
 0x28EC
 オレ以外の他の６人は、初対面とは思えないほどに意気投合し、大いに盛り上がっている。%K%N
-The other six, with the exception of me, are all having%Nfun, having hit it off almost unthinkably well after only%Ntheir first meeting.%K%N
+The other six, with the exception of me, are all having fun, having hit it off almost unthinkably well after only their first meeting.%K%N
 0x28F8
 オレは、その雰囲気に乗り切れずに、ひとりうつむいていた。%K%N%N
-Unable to join in with the others, I just lower my face and%Nstay out of it.%K%N%N
+Unable to join in with the others, I just lower my face and stay out of it.%K%N%N
 0x2904
 しかし……。%K%N
 But...%K%N
@@ -1593,22 +1593,22 @@ But...%K%N
 I can't stay like this.%K%P
 0x2924
 こんなふうに落ち込んでいるオレのことを、他のみんなはどう思っているだろう？%K%N
-If I stay depressed like this, then what will the others%Nthink of me?%K%N
+If I stay depressed like this, then what will the others think of me?%K%N
 0x2930
 彼女達にとって、オレは初対面の人間なのだ。%K%N
 To the other girls, this is the first time we've met.%K%N
 0x293C
 『何だか知らないけど陰気な奴』……そう思っているかもしれない。%K%N%N
-「I don't really know him, but he's a pretty gloomy guy,」...%Nthat might be what they're thinking.%K%N%N
+「I don't really know him, but he's a pretty gloomy guy,」... that might be what they're thinking.%K%N%N
 0x2948
 特にくるみ──くるみとは、この時間へと飛ばされてから、ほとんど会話をしていなかった。%K%P
-Especially Kurumi―Ever since I went flying back in time,%NI've barely spoken to her.%K%P
+Especially Kurumi―Ever since I went flying back in time, I've barely spoken to her.%K%P
 0x295C
 前に、くるみがオレのことを信頼してくれたのは何故か？%K%N
 Why was it that Kurumi trusted me the last time?%K%N
 0x2968
 こんな暗い顔をした奴に、くるみが好感を抱くわけがないだろう。%K%N
-There's no way I want Kurumi's impression of me to be of%Nsuch a stony-faced guy.%K%N
+There's no way I want Kurumi's impression of me to be of such a stony-faced guy.%K%N
 0x2974
 このままでは悪い方向へと歴史が変わってしまう！%K%P
 At this rate, history will head in a bad direction!%K%P
@@ -1638,13 +1638,13 @@ Makoto「H-Huh!?」%K%P
 I unintentionally let out a cry of lament.%K%P
 0x2A78
 せっかく気を取り直したと言うのに……。もうそんな時間だったのか？%K%P
-Even though I just finally pulled myself together... it's%Nalready this late?%K%P
+Even though I just finally pulled myself together... it's already this late?%K%P
 0x2A84
 沙紀「だって……いづみさんは、私達みたいに暇じゃないんだから」%K%P
 Saki「After all... Izumi-san, aren't we taking up your time?」%K%P
 0x2AA0
 いづみ「だけどこのお店、明日はお休みなの。だから、私のことは気にしないでいいのよ？」%K%P
-Izumi「But this shop will be closed tomorrow. Don't worry about%Nme, it's fine!」%K%P
+Izumi「But this shop will be closed tomorrow. Don't worry about me, it's fine!」%K%P
 0x2AAC
 誠「ほらな？」%K%P
 Makoto「You see?」%K%P
@@ -1656,7 +1656,7 @@ Yuka「... Oh! If that's the case, then I've got an idea!」%K%P
 Yuka「Why don't we try going to the pool tomorrow?」%K%P
 0x2AE0
 優夏の言葉に、はっと気がついた。%K%P
-Yuka's words make me remember something, which takes%Nme aback.%K%P
+Yuka's words make me remember something, which takes me aback.%K%P
 0x2AF4
 あの星のきれいだった夜……くるみはこう言ったんだ。%K%P
 On that beautiful starry night... Kurumi said this...%K%P
@@ -1668,7 +1668,7 @@ Kurumi「The truth is... Kurumi... really wanted to go with everyone...」%K%P
 Kurumi「To the pool... and the hot springs...」%K%P
 0x2B18
 ここでプール行きが決定してしまうと、結果的にくるみが寂しい想いをすることになりはしないか？%K%P
-If we decide to go to the pool here, then won't Kurumi get%Nlonely as a result?%K%P
+If we decide to go to the pool here, then won't Kurumi get lonely as a result?%K%P
 0x2B24
 くるみの顔をチラッと見た。%K%P
 I glance at Kurumi's face.%K%P
@@ -1692,7 +1692,7 @@ Yuka「Why?」%K%P
 Makoto「... Won't it be cold?」%K%P
 0x2B88
 優夏「もう、誠ぉ……さっきのくるみちゃんの話、聞いてなかったの？」%K%P
-Yuka「Geez, Makoto... didn't you hear what Kurumi-chan said%Nearlier?」%K%P
+Yuka「Geez, Makoto... didn't you hear what Kurumi-chan said earlier?」%K%P
 0x2B94
 優夏「あそこは温水プールなんだよ？」%K%P
 Yuka「That pool's heated, remember?」%K%P
@@ -1731,7 +1731,7 @@ Okuhiko「Incidentally, I plan on going diving tomorrow...」%K%P
 However, Yuka doesn't even try to look at Okuhiko...%K%P
 0x2C6C
 優夏「誠以外は、全員賛成だよ？」%K%P
-Yuka「As I was saying, EVERYONE except Makoto is in favor of%Ngoing.」%K%P
+Yuka「As I was saying, EVERYONE except Makoto is in favor of going.」%K%P
 0x2C78
 ……繰り返し強調した。%K%P
 ... She repeats this with emphasis.%K%P
@@ -1740,7 +1740,7 @@ Yuka「As I was saying, EVERYONE except Makoto is in favor of%Ngoing.」%K%P
 Makoto「... I get it...」%K%P
 0x2C90
 オレもいづみさん同様、くるみが行くと言った以上は、反対する理由がなかった。%K%P
-Like Izumi-san, as long as Kurumi says she's going, then I%Nhave no reason to oppose.%K%P
+Like Izumi-san, as long as Kurumi says she's going, then I have no reason to oppose.%K%P
 0x2CA4
 優夏「よかった♪　これで決まりだね？」%K%P
 Yuka「Glad to hear it♪ Then it's decided.」%K%P
@@ -1767,64 +1767,64 @@ Izumi「Right. Well then, please be careful.」%K%P
 Kurumi「Bye-bye♪」%K%P
 0x2D14
 オレ達は、くるみといづみさんに挨拶をし、ルナビーチを出た。%K%P
-We say goodbye to Kurumi and Izumi-san, then leave%NLunabeach.%K%P
+We say goodbye to Kurumi and Izumi-san, then leave Lunabeach.%K%P
 0x2D20
 本当は、もう少しくるみのそばにいたかったのだが……。%K%P
-Honestly, I would have liked to stay with Kurumi a little%Nlonger...%K%P
+Honestly, I would have liked to stay with Kurumi a little longer...%K%P
 0x2DA4
 舗装道路には出ず、月浜を歩いて帰ることになった。%K%P
-We decide to walk down Moon Beach instead of the%Npaved road.%K%P
+We decide to walk down Moon Beach instead of the paved road.%K%P
 0x2DB0
 一番最後に店を出たオレは、みんなの後を追うようにして歩いている。%K%P
-As I am the last one to leave the shop, I follow the others%Nfrom behind.%K%P
+As I am the last one to leave the shop, I follow the others from behind.%K%P
 0x2DBC
 先頭の優夏と沙紀は、懐かしい想い出話に華を咲かせていた。%K%P
-At the head are Yuka and Saki, who are talking about%Nstories from their past.%K%P
+At the head are Yuka and Saki, who are talking about stories from their past.%K%P
 0x2DC8
 億彦は、冴えないナンパ師みたいに、遙の横顔をチラチラと見ながら、一生懸命に何か話かけている。%K%P
-Okuhiko, true to his skirt-chaser nature, looks at%NHaruka's face again and again while attempting to strike%Nup a conversation.%K%P
+Okuhiko, true to his skirt-chaser nature, looks at Haruka's face again and again while attempting to strike up a conversation.%K%P
 0x2DD4
 ……ふと、オレは足を止めた。%K%P
 ... Suddenly, I stop walking.%K%P
 0x2DE0
 そう言えばこの後、オレはあの『鈴』をこの浜で拾うんだった！%K%P
-Now that I think about it, it was right about now that I%Nfound that 「bell」 washed up on the beach!%K%P
+Now that I think about it, it was right about now that I found that 「bell」 washed up on the beach!%K%P
 0x2DEC
 オレはその鈴を海へ投げ……どういうわけか、くるみは姫ヶ浜でそれを拾った。%K%P
-I threw the bell back into the ocean... and somehow%NKurumi picked it up on Princess Beach.%K%P
+I threw the bell back into the ocean... and somehow Kurumi picked it up on Princess Beach.%K%P
 0x2DF8
 何故姫ヶ浜に？　%N──そんなことはこの際問題ではない！%K%P
-Why on Princess Beach? ―That's not the current%Nproblem!%K%P
+Why on Princess Beach? ―That's not the current problem!%K%P
 0x2E04
 重要なのは『前回の１日の朝の夢にも、あの鈴が出てきた』という事実だ。%K%P
-The important part is the fact that 「in my dream on the%Nmorning of the 1st in the last loop, that bell was there.」%K%P
+The important part is the fact that 「in my dream on the morning of the 1st in the last loop, that bell was there.」%K%P
 0x2E10
 そして、昨日のくるみの手の平にも……。%K%P
 And yesterday, it was in Kurumi's palm as well...%K%P
 0x2E1C
 もしかしたら、鈴さえなければ、あの悲劇は起きないのかもしれない。%K%P
-Perhaps if it weren't for that bell, that tragedy might not%Nhave occurred.%K%P
+Perhaps if it weren't for that bell, that tragedy might not have occurred.%K%P
 0x2E28
 いや、きっとそうに違いない。%K%P
 No, that's definitely true.%K%P
 0x2E34
 もちろん、あの事故の直接的な原因が鈴にあったというわけではないのだろうが……%K%P
-Of course, it's not like the bell was the direct cause of%Nthat incident...%K%P
+Of course, it's not like the bell was the direct cause of that incident...%K%P
 0x2E40
 ……けれど、鈴をこの世から消滅させてしまえば、無限ループを断ち切ることができる筈だ！%K%P
-... But if I could annihilate that bell from this world, then I%Nshould be able to sever the infinite loop!%K%P
+... But if I could annihilate that bell from this world, then I should be able to sever the infinite loop!%K%P
 0x2E4C
 鈴が無ければ、あの夢と同じ状況が生まれる可能性はゼロになる。%K%P
-If that bell is gone, then the chances of the%Ncircumstances being the same as that dream will%Nbecome 0％.%K%P
+If that bell is gone, then the chances of the circumstances being the same as that dream will become 0％.%K%P
 0x2E58
 つまり、夢と同じ出来事は絶対に起こり得ない！%K%P
-In other words, it would be absolutely impossible for the%Nsame event as that dream to occur!%K%P
+In other words, it would be absolutely impossible for the same event as that dream to occur!%K%P
 0x2E64
 どうしてこんな重大な事を、今の今まで思いつかなかったのだろう？%K%P
 Why didn't I realize such an important thing until now?%K%P
 0x2E70
 考えることがあまりにも多すぎて、そこまで頭が回らなかったのか？%K%P
-Because I've been thinking too much today, my head's%Nbeen going in circles!%K%P
+Because I've been thinking too much today, my head's been going in circles!%K%P
 0x2E7C
 まあ、そんなことはどうでもいい。%K%P
 Well, that doesn't matter.%K%P
@@ -1833,16 +1833,16 @@ Well, that doesn't matter.%K%P
 ―Anyway, I've got to hurry and look for the bell!%K%N
 0x2E94
 ……とは言え、何しろ６日前のことだ。%K%P
-... Be that as it may, it still doesn't change the fact that%Nit's been six days.%K%P
+... Be that as it may, it still doesn't change the fact that it's been six days.%K%P
 0x2EA0
 鈴がどの辺に落ちていたのかなんて、忘れてしまっている。%K%P
 I've forgotten exactly where the bell was.%K%P
 0x2EAC
 波に濡れた砂の上だったことだけは確かなのだが……。%K%P
-I decide to check only the wet sand, where the waves%Nare washing up...%K%P
+I decide to check only the wet sand, where the waves are washing up...%K%P
 0x2EB8
 オレは波打ち際の砂の上を、よろよろと蛇行しながら、調べ始めた……。%K%P
-As I begin to look, I totter and meander on the sand as I%Nbegin investigating...%K%P
+As I begin to look, I totter and meander on the sand as I begin investigating...%K%P
 0x2EC4
 ……………………。%N……………。%N……。%K%P
 ... ... ...%K%P
@@ -1854,7 +1854,7 @@ As I begin to look, I totter and meander on the sand as I%Nbegin investigating..
 Why isn't it here!?%K%P
 0x2EE8
 もう１度、歩いた道を引き返しながら、より念入りに意識を集中して足元を調べた……。%K%P
-I retrace my steps one more time, concentrating as hard%Nas I can while looking more carefully at my feet...%K%P
+I retrace my steps one more time, concentrating as hard as I can while looking more carefully at my feet...%K%P
 0x2F2C
 ？？「何やってんの？」%K%P
 ???「What are you doing?」%K%P
@@ -1881,10 +1881,10 @@ Kurumi「You were looking for jellyfish in a place like this?」%K%P
 Makoto「P-Perhaps one of them washed ashore, you know...?」%K%P
 0x2F94
 くるみ「そんなマヌケなくらげって、いるのかな？」%K%P
-Kurumi「Is there any sort of jellyfish even stupid enough to be%Nthis close?」%K%P
+Kurumi「Is there any sort of jellyfish even stupid enough to be this close?」%K%P
 0x2FA0
 誠「ごく稀に……いるらしいという話を大昔に聞いたような気がしなくもなくもないかも」%K%P
-Makoto「They're very rare... I heard long ago that there were%Nsome here, so I thought I'd look here.」%K%P
+Makoto「They're very rare... I heard long ago that there were some here, so I thought I'd look here.」%K%P
 0x2FAC
 くるみ「ふーん……」%K%P
 Kurumi「Hmm...」%K%P
@@ -1920,13 +1920,13 @@ My heart beats faster.%K%P
 Makoto「... Come to think of it, what were you doing here?」%K%P
 0x3040
 くるみ「うんとねぇ、億彦くんに、伝え忘れてたことがあってぇ……」%K%P
-Kurumi「Well, you see, there's something that Kurumi forgot to tell%NOkuhiko-kun...」%K%P
+Kurumi「Well, you see, there's something that Kurumi forgot to tell Okuhiko-kun...」%K%P
 0x304C
 誠「億彦に？」%K%P
 Makoto「Okuhiko?」%K%P
 0x3058
 くるみ「明日、波が高いから、ダイビングは出来ないよって！」%K%P
-Kurumi「That tomorrow, there will be high waves, so he can't go%Ndiving!」%K%P
+Kurumi「That tomorrow, there will be high waves, so he can't go diving!」%K%P
 0x3064
 ああ、なるほど……そのことか……。%K%P
 Oh, I see... that was it...%K%P
@@ -1941,7 +1941,7 @@ Kurumi「Nope. Kurumi already did that, so it's fine.」%K%P
 When did she...%K%P
 0x3094
 そうかぁ……今までずっと下を向いてたから気づかなかったのか……。%K%P
-Ah, I get it... up until now, I've been looking down this whole%Ntime, so I didn't notice her...%K%P
+Ah, I get it... up until now, I've been looking down this whole time, so I didn't notice her...%K%P
 0x30A0
 くるみ「それじゃあくるみ、もう行くね？」%K%P
 Kurumi「Well then, Kurumi will be going now.」%K%P
@@ -1968,10 +1968,10 @@ Makoto「Sorry... don't wait up for me!!」%K%P
 I shout this back.%K%P
 0x3118
 優夏は頭の上で丸を作って了解のサインを出した。%K%N
-Yuka draws a check sign on her forehead to show she%Nunderstands.%K%N
+Yuka draws a check sign on her forehead to show she understands.%K%N
 0x3124
 みんなは次々と堤防から下り、姿を消した。%K%P
-Everyone goes down the banks one by one, and%Ndisappears.%K%P
+Everyone goes down the banks one by one, and disappears.%K%P
 0x3130
 （あの鈴が見つかるまで、帰るわけにはいかないからな……）%K%P
 (There's no way I can go back until I find that bell...)%K%P
@@ -1992,10 +1992,10 @@ But strangely, I don't feel bad about it.%K%P
 On the other hand, I'm feeling quite happy.%K%P
 0x3200
 あれだけ探したのに見つからなかったということは、要するに『鈴は無かった』ということになる。%K%P
-If I couldn't find the bell after all of that, then that means%N「the bell is gone.」%K%P
+If I couldn't find the bell after all of that, then that means 「the bell is gone.」%K%P
 0x320C
 『鈴が無い』──それはつまり、歴史が変わったことを意味するのだ。%K%P
-「The bell is gone,」―in other words, it means that%Nhistory has changed.%K%P
+「The bell is gone,」―in other words, it means that history has changed.%K%P
 0x3218
 もう２度と、この世界に鈴が現れることはないだろう。%K%P
 That bell probably won't appear in this world ever again.%K%P

@@ -9,16 +9,16 @@ text area offset and size:
 That'll be simple.%K%P
 0x40
 遙と散歩に行かなければいいのだから……。%K%N
-I just have to stop Haruka from going on that walk with%Nme...%K%N
+I just have to stop Haruka from going on that walk with me...%K%N
 0x4C
 それで歴史は変わる筈だ……。%K%P
 And then history should change.%K%P
 0xD0
 『午後８時４３分』──前回と同じ時刻に、遙は部屋のドアをノックした。%K%P
-「8:43 P.M.」―Haruka knocks on my door at the same%Ntime as last time.%K%P
+「8:43 P.M.」―Haruka knocks on my door at the same time as last time.%K%P
 0xDC
 しかしオレは、この遙の誘いに乗るわけにはいかないのだ。%K%P
-However, there's no way that I can accept Haruka's%Ninvitation.%K%P
+However, there's no way that I can accept Haruka's invitation.%K%P
 0xE8
 遙には、ちょっと辛い思いをさせることになるが、それもやむを得ない。%K%P
 Haruka will be a little hurt by that, but that's unavoidable.%K%P
@@ -36,7 +36,7 @@ Haruka「Would you like... to go outside?」%K%P
 Haruka immediately invites me.%K%P
 0x12C
 遙を騙すのは心苦しいが、嘘も方便というやつだ。%K%P
-It really hurts me to deceive Haruka, but the ends justify%Nthe means, as they say.%K%P
+It really hurts me to deceive Haruka, but the ends justify the means, as they say.%K%P
 0x138
 さて、何と言うべきか……。%K
 Well then, what should I say...?%K
@@ -90,7 +90,7 @@ Makoto「... W-Wait a minute!」%K%P
 I frantically reach out to her, grabbing her by the sleeve.%K%P
 0x258
 誠「遙……まさかひとりで行こうなんて、考えてないよな？」%K%P
-Makoto「Haruka... don't tell me that you're thinking about taking a%Nwalk alone, are you?」%K%P
+Makoto「Haruka... don't tell me that you're thinking about taking a walk alone, are you?」%K%P
 0x26C
 遙「え？　ダメなの？」%K%P
 Haruka「Huh? Is that not good?」%K%P
@@ -108,7 +108,7 @@ Makoto「Because I'm worried...」%K%P
 Makoto「Isn't it dangerous for a girl to take a walk at night?」%K%P
 0x2B0
 誠「もしも……%W%Wもしも万が一、オレの大切な人になんかあったら、オレは生きていけないから……」%K%P
-Makoto「If... If, by any chance, something were to happen to you, I%Ncouldn't go on living...」%K%P
+Makoto「If... If, by any chance, something were to happen to you, I couldn't go on living...」%K%P
 0x2C4
 遙「え……わかった……誠がそう言うなら……」%K%P
 Haruka「Yes... I understand... If you say so, Makoto...」%K%P
@@ -117,7 +117,7 @@ Haruka「Yes... I understand... If you say so, Makoto...」%K%P
 It seems that my last words were effective.%K%N
 0x2DC
 もっとも、これはオレの心からの想いなのだが……。%K%P
-After all, those words were my emotions straight from my%Nheart...%K%P
+After all, those words were my emotions straight from my heart...%K%P
 0x2E8
 誠「じゃあ、今日は絶対に外に出るなよ？」%K%P
 Makoto「Then you absolutely won't go outside today?」%K%P
@@ -126,10 +126,10 @@ Makoto「Then you absolutely won't go outside today?」%K%P
 Haruka「Yes... Well then, I hope you sleep well.」%K%P
 0x310
 遙が部屋を去った後、何だか本当に頭が痛くなってきた。%K%P
-After Haruka leaves the room, I really do get a little%Nheadache.%K%P
+After Haruka leaves the room, I really do get a little headache.%K%P
 0x31C
 連日の心労がたまりにたまっていたようだ。%K%P
-It seems like it's the accumulation of my prolonged%Nanxiety.%K%P
+It seems like it's the accumulation of my prolonged anxiety.%K%P
 0x328
 オレはベッドにもぐり込むと、ほんの数秒後には眠りに落ちていた……。%K%P
 I crawl into my bed, and mere seconds later, I fall asleep...%K%P

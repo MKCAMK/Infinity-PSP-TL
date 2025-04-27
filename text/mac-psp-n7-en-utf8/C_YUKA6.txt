@@ -21,13 +21,13 @@ Yuka「...」%K%P
 My head feels cloudy, and my eyesight is blurry...%K%P
 0x18C
 やがて、目の前がハッキリしてきて……ようやく周りの状況が理解できるようになった。%K%P
-Before long, my vision begins to clear up... I finally reach%Nthe point where I'm able to perceive my surroundings.%K%P
+Before long, my vision begins to clear up... I finally reach the point where I'm able to perceive my surroundings.%K%P
 0x198
 部屋の電気もつけたまま、いつの間にか眠ってしまったらしい……。%K%P
-The lights in the room are still on. It seems like I dozed off%Nwithout realizing it...%K%P
+The lights in the room are still on. It seems like I dozed off without realizing it...%K%P
 0x1A4
 布団もかけないで寝ていたので、寒さで目が覚めたのだろう。%K%P
-I slept on top of the covers, which is why I woke up%Nchilled to the bone.%K%P
+I slept on top of the covers, which is why I woke up chilled to the bone.%K%P
 0x1B0
 外から、雨音が聞こえる。%K%P
 I can hear the sound of the rainfall outside.%K%P
@@ -45,10 +45,10 @@ It's past 4:30.%K%P
 (I'll just go back to sleep...)%K%P
 0x1EC
 部屋の電気を消そうと、スイッチの所まで歩いていく。%K%P
-I get up and walk over to the light switch to turn off the%Nlights.%K%P
+I get up and walk over to the light switch to turn off the lights.%K%P
 0x1F8
 と、床に置いてある紫色のビンが目に止まった。%K%P
-And then, I stop when I see the purple bottle I placed on%Nthe floor.%K%P
+And then, I stop when I see the purple bottle I placed on the floor.%K%P
 0x204
 沙紀からもらった、ライラックのフレグランス。%K%P
 It's the lilac fragrance I received from Saki.%K%P
@@ -69,7 +69,7 @@ I'll meet with her one more time and talk... and then...%K%P
 ...%K%P
 0x24C
 半ば眠ってる脳細胞では、まともに機能しなかった………。%K%P
-Because I'm half asleep, my brain cells aren't functioning%Nproperly...%K%P
+Because I'm half asleep, my brain cells aren't functioning properly...%K%P
 0x258
 なんにせよ、今日は忙しくなりそうだ。%K%P
 Either way, it seems that today's going to be a busy day.%K%P
@@ -81,7 +81,7 @@ Yuka「...For now, I'll just sleep...」%K%P
 ―Click.%K%P
 0x284
 （ぐっすり寝て、起きてから、考えよう……）%K%P
-(I'll just get some good sleep, then think about it when I%Nwake up...)%K%P
+(I'll just get some good sleep, then think about it when I wake up...)%K%P
 0x290
 そう言い聞かせながら、再びベッドに横になった…………。%K%P
 As I tell myself this, I get back on my bed...%K%P
@@ -114,7 +114,7 @@ Saki... and Makoto are here.%K%P
 Saki is standing with a grim expression...%K%P
 0x40C
 放心しきったような顔で、ダイニングチェアに座り込んでいる誠……。%K%P
-Makoto is sitting in a dining chair with an absent-minded%Nexpression...%K%P
+Makoto is sitting in a dining chair with an absent-minded expression...%K%P
 0x418
 ２人に話しかけたい衝動にかられるが、今はそれどころじゃない！%K%P
 I want to go talk with them, but now's not the time for that!%K%P
@@ -123,7 +123,7 @@ I want to go talk with them, but now's not the time for that!%K%P
 My utmost attention is focused on Izumi-san.%K%P
 0x438
 いづみ「夜中にふと目が覚めて……隣を見たら……」%K%P
-Izumi「I suddenly woke up in the middle of the night... and when I%Nlooked around...」%K%P
+Izumi「I suddenly woke up in the middle of the night... and when I looked around...」%K%P
 0x454
 沙紀「くるみちゃんがいなかった……」%K%P
 Saki「Kurumi-chan was gone...」%K%P
@@ -132,7 +132,7 @@ Saki「Kurumi-chan was gone...」%K%P
 Izumi「Yes...」%K%P
 0x46C
 いづみ「思いつく所は、ひととおり探してみたんだけど…………」%K%P
-Izumi「I searched alone at first, trying all the places I could%Nthink of...」%K%P
+Izumi「I searched alone at first, trying all the places I could think of...」%K%P
 0x478
 いづみ「お店の中も、月浜の周辺も全部……」%K%P
 Izumi「Inside the shop, the area around Moon Beach, all of it...」%K%P
@@ -150,13 +150,13 @@ Izumi-san closes her eyes and softly shakes her head.%K%P
 Yuka「...」%K%P
 0x4BC
 こんなやり取り……確か、どこかで……。%K%P
-This conversation... I've definitely had this conversation%Nbefore...%K%P
+This conversation... I've definitely had this conversation before...%K%P
 0x4C8
 そう……これは…………。%K%P
 Yes... this is...%K%P
 0x4D4
 前回、くるみちゃんが行方知れずになった夜の………………。%K%P
-This conversation happened in the last loop, when%NKurumi-chan went missing...%K%P
+This conversation happened in the last loop, when Kurumi-chan went missing...%K%P
 0x4E0
 （…………！！！）%K%P
 (...!!!)%K%P
@@ -171,10 +171,10 @@ My whole body starts shivering...%K%P
 ―A flashback dashes through my mind!%K%P
 0x56C
 記憶によって、鮮烈に映し出された、光景……！！%K%P
-My memories are showing me a vivid image of that%Nscene...!!%K%P
+My memories are showing me a vivid image of that scene...!!%K%P
 0x578
 薄暗い神社の中で座り込む……くるみちゃん……！！！%K%P
-The image of Kurumi-chan sitting down... in that dim%Nshrine...!!!%K%P
+The image of Kurumi-chan sitting down... in that dim shrine...!!!%K%P
 0x5C8
 （な、なんで……？　なんでなの……！？）%K%P
 (Wh-Why...? Why...!?)%K%P
@@ -207,7 +207,7 @@ The 6th...%K%P
 「Then no matter what happens, history wouldn't change.」%K%P
 0x648
 『世界中で起こる全ての出来事は、初めから何もかも決まっている』%K%P
-「Everything which occurs in the world has been%Npredetermined from the beginning.」%K%P
+「Everything which occurs in the world has been predetermined from the beginning.」%K%P
 0x654
 変えたつもりになっていただけ……。%K%P
 Even though we planned to change it...%K%P
@@ -216,7 +216,7 @@ Even though we planned to change it...%K%P
 The truth is, nothing has changed...%K%P
 0x66C
 ほんのちょっと、ズレただけで、なにも……なにも………。%K%P
-Aside from some very minor things, nothing... has%Nchanged...%K%P
+Aside from some very minor things, nothing... has changed...%K%P
 0x678
 沙紀「とにかく、こんなとこでじっとしてても始まらないから……」%K%P
 Saki「Anyway, sitting still here won't get anything solved...」%K%P
@@ -225,7 +225,7 @@ Saki「Anyway, sitting still here won't get anything solved...」%K%P
 Saki「...Why don't we all quickly split up and look for Kurumi?」%K%P
 0x690
 ……そんな声が、どこか遠くから、聞こえたような気がした。%K%P
-...It feels like her voice is coming from somewhere far, far%Naway.%K%P
+...It feels like her voice is coming from somewhere far, far away.%K%P
 0x69C
 ………………………………。%K%P
 ...%K%P
@@ -243,7 +243,7 @@ At that moment, I see... Makoto rushing out the front door!%K%P
 ―Wham!%K%P
 0x734
 一瞬、全身の血の気が引いた。%K%P
-In that instant, it feels like all the blood in my body has%Nbeen drained away.%K%P
+In that instant, it feels like all the blood in my body has been drained away.%K%P
 0x740
 まさか……！%K%P
 It can't be...!%K%P
@@ -258,13 +258,13 @@ My body moves faster than I can think.%K%P
 Saki「...Huh!? Y-Yuka!?」%K%P
 0x7A8
 私は誠の後を追いかけるようにして、豪雨のただなかへと飛び出していった。%K%P
-I rush out into the downpour, chasing after Makoto as%Nfast as I can.%K%P
+I rush out into the downpour, chasing after Makoto as fast as I can.%K%P
 0x824
 冷たい大粒の雨が降りしきる中、私は風を切って走った。%K%P
 I go flying through the cold, large raindrops.%K%P
 0x830
 遥か前方には、同じく全力で疾走する誠の姿。%K%P
-I see Makoto far ahead of me, sprinting as fast as I am,%Nwith all of his might.%K%P
+I see Makoto far ahead of me, sprinting as fast as I am, with all of his might.%K%P
 0x83C
 雨でぬかるんだ地面に、何度も足をとられる。%K%P
 The muddy ground constantly trips me up.%K%P
@@ -306,13 +306,13 @@ We come out to the coastline.%K%P
 It feels like the rain has gotten even stronger.%K%P
 0x93C
 すでに全身はびしょぬれで、手足の感覚などはマヒしている。%K%P
-My whole body is soaked, and my arms and legs have%Ngone numb.%K%P
+My whole body is soaked, and my arms and legs have gone numb.%K%P
 0x948
 もうすぐで、神社に通じるＴ字路へと差し掛かる。%K%P
 Soon, we'll reach the T-junction that leads to the shrine.%K%P
 0x954
 もし、私までもが神社へ行ってしまえば、間違いなくあの歴史は繰り返される。%K%P
-If I reach that shrine, then there's no doubt that history%Nwill repeat itself.%K%P
+If I reach that shrine, then there's no doubt that history will repeat itself.%K%P
 0x960
 でも……。%K%P
 But...%K%P
@@ -348,7 +348,7 @@ I clench my teeth to make that horrible scene go away.%K%P
 Yuka「―That's right, we promised each other!!!」%K%P
 0xA10
 神社へと続く長い階段の前──。%K%P
-I've reached the long staircase that leads up to the%Nshrine―%K%P
+I've reached the long staircase that leads up to the shrine―%K%P
 0xA1C
 そこで、ようやく誠に追いついた。%K%P
 I've finally caught up to Makoto.%K%P
@@ -357,7 +357,7 @@ I've finally caught up to Makoto.%K%P
 Yuka「Wait!」%K%P
 0xA50
 誠の腕をつかみ、振りかえる余裕を与えぬまま……%K%P
-I grab Makoto's arm, then slip around so that I'm in front%Nof him...%K%P
+I grab Makoto's arm, then slip around so that I'm in front of him...%K%P
 0xAD4
 ……両手を広げて、階段の前に立ちはだかった。%K%P
 ...I stand in front of the staircase, and spread my arms.%K%P
@@ -408,7 +408,7 @@ Just like last time, he's trying to protect me.%K%P
 Just like he swore he would under that starry sky...%K%P
 0xB94
 優夏「あそこに行ったら、また同じことになるんだよ…………？」%K%P
-Yuka「If you go in there, things will turn out the same way%Nagain...!」%K%P
+Yuka「If you go in there, things will turn out the same way again...!」%K%P
 0xBA0
 優夏「何もかも変わらない……」%K%P
 Yuka「Nothing will change...」%K%P
@@ -429,7 +429,7 @@ Makoto「But...」%K%P
 Makoto takes something out of his pocket.%K%P
 0xBE8
 それは、３日に月浜で拾った、誠の鈴……。%K%P
-It's his bell, the one Kurumi found at Moon Beach on the%N3rd...%K%P
+It's his bell, the one Kurumi found at Moon Beach on the 3rd...%K%P
 0xC10
 その鈴を…誠は地面に…落とした。%K%P
 He... drops the bell... on the ground.%K%P
@@ -492,7 +492,7 @@ Yuka「No...」%K%P
 Yuka「I don't want that!」%K%P
 0xD5C
 今まで必死にこらえてきた何かが、ドッと溢れ出してきた。%K%P
-The desperation I've been able to hold back up until now%Ncomes pouring out.%K%P
+The desperation I've been able to hold back up until now comes pouring out.%K%P
 0xD68
 優夏「もういやなの……。こんなの……いやなのぉ！」%K%P
 Yuka「No more... I don't... want this!」%K%P
@@ -513,10 +513,10 @@ Yuka「I don't want to lose you...」%K%P
 ―Nor is it pity, misery, or compassion.%K%P
 0xDB0
 優夏「私のこと……命を懸けてまで……助けようとしてくれた…………誠を……」%K%P
-Yuka「You went as far... as risking your own life... trying to%Nsave... mine...」%K%P
+Yuka「You went as far... as risking your own life... trying to save... mine...」%K%P
 0xDBC
 ──心からにじみ出てきた誠への、想い……。%K%P
-―It's just my plain feelings for Makoto at the bottom%Nof my heart...%K%P
+―It's just my plain feelings for Makoto at the bottom of my heart...%K%P
 0xDC8
 優夏「お願い……お願いだから……」%K%P
 Yuka「Please... please...」%K%P
@@ -525,10 +525,10 @@ Yuka「Please... please...」%K%P
 Makoto「...」%K%P
 0xDE0
 何も語らず、私の肩を押し退けて……そのまま進もうとする誠。%K%P
-Without a word, he brushes past my shoulder, and walks%Npast me.%K%P
+Without a word, he brushes past my shoulder, and walks past me.%K%P
 0xDEC
 横をすり抜けていくまでの時間が、スローモーションのように長く感じられた。%K%P
-The time it takes for him to pass by me feels long, like it's%Nin slow motion.%K%P
+The time it takes for him to pass by me feels long, like it's in slow motion.%K%P
 0xDF8
 一瞬の、ストップモーション……。%K%P
 In that slow motion moment...%K%P
@@ -543,7 +543,7 @@ They're swelling with determination.%K%P
 Where have I seen... eyes that resemble those before...?%K%P
 0xE30
 ──その瞬間、ある情景が目の前に映し出された。%K%P
-―In that instant, a certain scene that I remember is%Nreflected before my eyes.%K%P
+―In that instant, a certain scene that I remember is reflected before my eyes.%K%P
 0xE3C
 オレンジ色に染まった光景……。%K%P
 A scene dyed in orange...%K%P
@@ -561,10 +561,10 @@ In front of the burning hotel.
 In the art room after school.
 0xE9C
 ３階の窓から炎を吹き上げているホテル。%K%P
-I was watching the flames blow up from the windows of%Nthe 3rd floor of that burning hotel.%K%P
+I was watching the flames blow up from the windows of the 3rd floor of that burning hotel.%K%P
 0xEA8
 闇夜に浮かぶ、地獄絵図……。%K%P
-That image from that dark night that looked like a%Ndepiction of hell...%K%P
+That image from that dark night that looked like a depiction of hell...%K%P
 0xEB4
 誰かが、そのホテルをにらみつけている。%K%P
 Someone was glaring at that hotel.%K%P
@@ -573,7 +573,7 @@ Someone was glaring at that hotel.%K%P
 ...It was him.%K%P
 0xECC
 男の子の視線を追うと、４階の窓に人影が見えた。%K%P
-If you were to follow his glance, you could see someone%Nat the windows on the 4th floor.%K%P
+If you were to follow his glance, you could see someone at the windows on the 4th floor.%K%P
 0xED8
 まだ人が取り残されている。%K%P
 There was a person still trapped inside.%K%P
@@ -612,13 +612,13 @@ I wipe my tears away, and chase after him.%K%P
 I run as fast as I can up the stairs.%K%P
 0x1004
 雨が、私を行かせまいとするように、全身を強く打ちつける。%K%P
-The rain hits me hard, as if it's trying to stop me from%Ngoing.%K%P
+The rain hits me hard, as if it's trying to stop me from going.%K%P
 0x1010
 （どうせ繰り返す歴史ならば、いっそ、私が……！）%K%P
 (I won't let the same history repeat itself... I'll...!)%K%P
 0x1074
 階段を上りきった時、誠はもう境内を駆け抜けていた。%K%P
-By the time I reach the top, Makoto is already running%Npast the shrine grounds.%K%P
+By the time I reach the top, Makoto is already running past the shrine grounds.%K%P
 0x1080
 優夏「待って！」%K%P
 Yuka「WAIT!」%K%P
@@ -648,7 +648,7 @@ The empty art room.%K%P
 The art room after school, before nightfall.%K%P
 0x1100
 窓から差し込む夕日に、私は目を細めた。%K%P
-I'd been squinting because of the light from the setting%Nsun coming in through the window.%K%P
+I'd been squinting because of the light from the setting sun coming in through the window.%K%P
 0x110C
 目の前で、誰かがスケッチブックに絵を描いている。%K%P
 Before my eyes, someone was drawing in a sketchbook.%K%P
@@ -657,7 +657,7 @@ Before my eyes, someone was drawing in a sketchbook.%K%P
 ...It was that boy.%K%P
 0x1124
 やがて、彼は出来あがった絵を、私に差し出した。%K%P
-Before long, he finished his drawing, and presented it to%Nme.%K%P
+Before long, he finished his drawing, and presented it to me.%K%P
 0x1130
 そこには、窓の外へと飛び立って行く２羽の鳩が描かれていた。%K%P
 It was a drawing of two doves flying out of the window.%K%P
@@ -678,16 +678,16 @@ Boy「If you want to be free, then you mustn't be afraid.」%K%P
 Outside were cherry blossoms in full bloom...%K%P
 0x11C4
 幻想的に舞う花弁が、眼前を覆っていく……。%K%P
-They fluttered about wondrously, concealing everything%Nin front of them...%K%P
+They fluttered about wondrously, concealing everything in front of them...%K%P
 0x1268
 薄桃色の花びらが、透明な雨のしずくに姿を変えた時……%K%P
-The light pink petals transform into transparent drops of%Nrain...%K%P
+The light pink petals transform into transparent drops of rain...%K%P
 0x1274
 そこはもう、神社の階段のたもとだった……。%K%P
 I'm still at the foot of the shrine's staircase...%K%P
 0x1280
 男の子の指し示していた方向に、今まさに１段目を%N踏みしめようとする誠の姿が見えた。%K%P
-I see Makoto running up the staircase.%K The pouring rain%Nbrings me back to my senses.%K%P
+I see Makoto running up the staircase.%K The pouring rain brings me back to my senses.%K%P
 0x12B4
 （い…%T030や%W…%W…%W）%K%P
 (N... No... )%K%P
@@ -696,16 +696,16 @@ I see Makoto running up the staircase.%K The pouring rain%Nbrings me back to my 
 (No ...I don't want this...)%K%P
 0x12CC
 （誠が……%T030誠が行ってしまうぐらいなら、いっそ…………！）%K%P
-(I ...If Makoto's going, then I should go in to make sure he%Nstays safe...!)%K%P
+(I ...If Makoto's going, then I should go in to make sure he stays safe...!)%K%P
 0x1300
 （────！？）%K%P
 (―!?)%K%P
 0x130C
 突然、暗闇が晴れ、太陽のごとき輝きを見た！%K%P
-Suddenly, in the darkness, I see a radiance as bright as%Nthe sun!%K%P
+Suddenly, in the darkness, I see a radiance as bright as the sun!%K%P
 0x1318
 自分の事をかえりみずに、その相手のことを思いやれる気持ち！！%K%P
-I'm not thinking of myself, but being considerate of%NMakoto first!!%K%P
+I'm not thinking of myself, but being considerate of Makoto first!!%K%P
 0x1324
 つまり、それは………！！%K%P
 In other words, this is...!!%K%P
@@ -714,7 +714,7 @@ In other words, this is...!!%K%P
 Yuka「Makoto...!!」%K%P
 0x133C
 誠の元へと駆け出し、腕をつかんで引き寄せた。%K%P
-I run up to Makoto, and grab him by the arm, pulling him%Ntowards me.%K%P
+I run up to Makoto, and grab him by the arm, pulling him towards me.%K%P
 0x1348
 誠「……なっ！？　い、いいかげんにっ！」%K%P
 Makoto「...Wha-!? C-Cut it out and get back!」%K%P
@@ -729,7 +729,7 @@ Makoto「!?」%K%P
 Yuka「I've loved you... all this time...」%K%P
 0x13E0
 優夏「確かにあの男の子のことが忘れられなくて、私は%Nこの神社へ行った。だけど……」%K%P
-Yuka「It's true that I went to this shrine because I couldn't%Nforget that boy. But...」%K%P
+Yuka「It's true that I went to this shrine because I couldn't forget that boy. But...」%K%P
 0x13EC
 優夏「だけど、違うんだって気づいたの……。その想い%Nとは、違うんだって……」%K%P
 Yuka「But I realized it was wrong... That feeling was wrong...」%K%P
@@ -744,10 +744,10 @@ Makoto「...Y- Yu―」%K%P
 ―And then I thrust Makoto away!%K%P
 0x1438
 宙をまい、シリモチをつくようにして、誠は後ろ向きに倒れる。%K%P
-Makoto falls behind me, dancing in the air briefly before%Nhitting the ground with a thud.%K%P
+Makoto falls behind me, dancing in the air briefly before hitting the ground with a thud.%K%P
 0x1444
 優夏「最初から、すべてが始まったあの瞬間から、誠の%Nことが大好きだったんだよぉ！！」%K%P
-Yuka「From the beginning, from that moment where everything%Nbegan, I've loved you!!」%K%P
+Yuka「From the beginning, from that moment where everything began, I've loved you!!」%K%P
 0x146C
 ………………………………。%K%P
 ...%K%P
@@ -756,7 +756,7 @@ Yuka「From the beginning, from that moment where everything%Nbegan, I've loved 
 The pelting rain beats mercilessly from the sky...%K%P
 0x1484
 誠は、シリモチをつきながら、ただ茫然と私を見上げていた。%K%P
-While sitting on the ground, Makoto stares up, looking%Ndumbfounded.%K%P
+While sitting on the ground, Makoto stares up, looking dumbfounded.%K%P
 0x1490
 優夏「………………」%K%P
 Yuka「...」%K%P
@@ -768,13 +768,13 @@ I've told him my feelings...%K%P
 This is enough...%K%P
 0x1518
 私はキュッと唇をかみしめると、振り向きざまに階段を駆け上っていく。%K%P
-I bite down on my lips hard, then turn around and start%Nrunning up the staircase.%K%P
+I bite down on my lips hard, then turn around and start running up the staircase.%K%P
 0x1524
 くるみちゃんを助け出すのは、誠じゃなくて、私！%K%P
 The one to save Kurumi-chan won't be Makoto, but me!%K%P
 0x1530
 この弱い自分が、今、一番守りたいもの…………それは……。%K%P
-Right now, the one that this weak person known as 「me」%Nwants to protect the most... is...%K%P
+Right now, the one that this weak person known as 「me」 wants to protect the most... is...%K%P
 0x153C
 （それは……私じゃなくて、誠なんだよ！！）%K%P
 (It's not myself....it's Makoto!!)%K%P
@@ -798,13 +798,13 @@ Yuka「Please... stay away!」%K%P
 Yuka「STAY AWAAAY!!!!」%K%P
 0x15A0
 その悲痛な叫び声は、激しい雨音にもかき消されることなく、切なく辺りに響き渡った……。%K%P
-My bitter scream breaks through the roar of the rain and%Nechoes loudly...%K%P
+My bitter scream breaks through the roar of the rain and echoes loudly...%K%P
 0x15D8
 全力で階段を駆け上がり、境内へと足を踏み入れる。%K%P
-With all my strength, I run up the staircase, and step onto%Nthe shrine's grounds.%K%P
+With all my strength, I run up the staircase, and step onto the shrine's grounds.%K%P
 0x15E4
 そして、立ち止まることなく、神社の中めがけて疾風のように走り続けた。%K%P
-And then, without stopping, I run into the shrine with the%Nspeed of a hurricane.%K%P
+And then, without stopping, I run into the shrine with the speed of a hurricane.%K%P
 0x1668
 （──えっ！？）%K%P
 (―What!?)%K%P
@@ -828,7 +828,7 @@ I can feel a faint draft of wind...%K%P
 ...Could it be!?%K%P
 0x16BC
 正面の壁に置かれた小さな社をどけて、その穴を潜り抜けようとする。%K%P
-I move aside the small altar at the front wall, and pass%Nthrough the hole.%K%P
+I move aside the small altar at the front wall, and pass through the hole.%K%P
 0x16C8
 誠「おいっ！　優夏！」%K%P
 Makoto「Hey! Yuka!」%K%P
@@ -840,7 +840,7 @@ I can hear Makoto behind me.%K%P
 (This is bad! I've got to hurry!!)%K%P
 0x16EC
 飛び込むようにして、神社の裏手へ躍り出た──！%K%P
-I go out to the backside of the shrine as fast as I%Ncan―!%K%P
+I go out to the backside of the shrine as fast as I can―!%K%P
 0x1700
 しかし……………………。%K%P
 However...%K%P
@@ -888,16 +888,16 @@ Makoto's here, but he has no bell!!!%K%P
 The tremors increase in intensity.%K%P
 0x1814
 頭上から、細かい木クズが降ってくる。%K%P
-Overhead, small splinters are falling, the wooden%Nstructure collasping.%K%P
+Overhead, small splinters are falling, the wooden structure collasping.%K%P
 0x1820
 私の背後を見て、誠が大きく目を見開いた。%K%P
-I look behind me, and see Makoto staring at this with wide%Neyes.%K%P
+I look behind me, and see Makoto staring at this with wide eyes.%K%P
 0x1874
 （────────！！！）%K%P
 (――!!!)%K%P
 0x1880
 もう何も考えられなくなった頭で、ただ１つ……%K%P
-Although I can't think anymore, there's still one thought in%Nmy head...%K%P
+Although I can't think anymore, there's still one thought in my head...%K%P
 0x188C
 ただ１つのことだけを、強く想った！%K%P
 Just one single firm thought!%K%P
@@ -939,7 +939,7 @@ Makoto「!?」%K%P
 ...into the sea...%K%P
 0x19F4
 と同時に、ごう音を響かせて崩れ落ちる神社……。%K%P
-At the same time, I hear the sound of the shrine%Ncrumbling...%K%P
+At the same time, I hear the sound of the shrine crumbling...%K%P
 0x1A00
 終わった…………。%K%P
 With this...%K%P
@@ -957,7 +957,7 @@ He grabs me, pushes down on the ground and jumps...%K%P
 ...With that force, we flutter around up in mid-air.%K%P
 0x1A4C
 誠と抱き合ったまま、シッコクの海原に向かって落ちて行く……。%K%P
-Makoto and I embrace each other as we fall down%Ntowards the black sea...%K%P
+Makoto and I embrace each other as we fall down towards the black sea...%K%P
 0x1A90
 ……流れ星を見た。%K%P
 ...I see a shooting star.%K%P
@@ -981,10 +981,10 @@ And finally, I lose consciousness―.%K%P
 ―There, I find a fragment of my memories.%K%P
 0x1B70
 ──遠き日の夜、瞬く空と、双子の記憶……。%K%P
-―A memory of that far off day, when I looked at that%Nclear sky and heard the story about the twins...%K%P
+―A memory of that far off day, when I looked at that clear sky and heard the story about the twins...%K%P
 0x1B7C
 『仲のよい２人は、どんな時でも一緒だったんだよ』%K%P
-「The two of them were so close that they were always%Ntogether, no matter what time.」%K%P
+「The two of them were so close that they were always together, no matter what time.」%K%P
 0x1B88
 『だから……死ぬ時も一緒でいたかった……』%K%P
 「So likewise... They wanted to die at the same time...」%K%P
@@ -996,10 +996,10 @@ And finally, I lose consciousness―.%K%P
 「'Take away my immortality'.」%K%P
 0x1BAC
 『願いの叶えられた２人は仲良く天へと上げられ……』%K%P
-「Zeus granted that wish, and the two of them went up to%Nthe heavens together...」%K%P
+「Zeus granted that wish, and the two of them went up to the heavens together...」%K%P
 0x1BB8
 『……冬の空に輝く星座になった…………』%K%P
-「... They became a constellation that shines in the winter%Nskies...」%K%P
+「... They became a constellation that shines in the winter skies...」%K%P
 0x1BC4
 ……………………。%K%P
 ...%K%P
@@ -1023,7 +1023,7 @@ At that time, Makoto leaps forward!%K%P
 But it's too late.%K%P
 0x1CBC
 誠が触れるよりも先に、上からの激しい衝撃が私を飲みこんだ。%K%P
-Before I can touch Makoto, I am struck by a sudden%Nimpact from above.%K%P
+Before I can touch Makoto, I am struck by a sudden impact from above.%K%P
 0x1CC8
 そこで、プツリ……と、意識は寸断された──。%K%P
 And then... my consciousness is torn to pieces―.%K%P
@@ -1038,7 +1038,7 @@ My whole body has gone numb. I can't move.%K%P
 Strangely, there's no pain.%K%P
 0x1D38
 目を細め、ぼんやりとかすんだ視界に焦点を合わせた。%K%P
-I close my eyes partly, and focus my faint, dim field of%Nvision.%K%P
+I close my eyes partly, and focus my faint, dim field of vision.%K%P
 0x1D4C
 重く垂れ下がった自分の手の平が見えた。%K%P
 I see my heavily dangling palm.%K%P
@@ -1089,22 +1089,22 @@ I'm still sleeping in the lodge...%K%P
 When I wake up, I'll immediately reconcile with Makoto...%K%P
 0x1E40
 明日の昼過ぎには、帰りのフェリーに揺られている%N私達の姿がある。%K%P
-Tomorrow afternoon, we'll be riding on the rocky ferry%Nhome.%K%P
+Tomorrow afternoon, we'll be riding on the rocky ferry home.%K%P
 0x1E4C
 やがて普段の生活に戻り、これまでの出来事は思い出へと姿を変えていく。%K%P
-Before long, we'll return to our daily lives, and all of these%Nevents will just become recollections.%K%P
+Before long, we'll return to our daily lives, and all of these events will just become recollections.%K%P
 0x1E58
 大学で誠と顔を合わせては交わされる、過去形の%N会話になる。%K%P
-At college, Makoto and I will meet up with each other, and%Ntalk about the past.%K%P
+At college, Makoto and I will meet up with each other, and talk about the past.%K%P
 0x1E64
 今の私と誠は、未来の２人の記憶になる。%K%P
-Our current selves will become memories for our future%Nselves.%K%P
+Our current selves will become memories for our future selves.%K%P
 0x1E70
 そして時々、私は過去のアルバムを開きたくなって、フラリと誠に会いに行く……。%K%P
-And occasionally, I'll open my album of memories and look%Nback at the time I met Makoto...%K%P
+And occasionally, I'll open my album of memories and look back at the time I met Makoto...%K%P
 0x1E7C
 その頃には、きっと全部、笑って話せる。%K%P
-We'll definitely be able to talk about those times with a%Nsmile.%K%P
+We'll definitely be able to talk about those times with a smile.%K%P
 0x1E88
 他の人にも話せるかもしれない。%K%P
 We might even be able to talk about it with others.%K%P

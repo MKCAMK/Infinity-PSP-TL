@@ -3,7 +3,7 @@ text area offset and size:
 0x7D6
 0x9C
 真夜中の誰もいない温泉……。%K%P
-The hot spring is completely empty in the middle of the%Nnight...%K%P
+The hot spring is completely empty in the middle of the night...%K%P
 0xA8
 （この寂寥感あふれる光景も、なかなか趣きがあっていいかもしれないなぁ……）%K%P
 (But it's rather charming, despite how desolate it looks...)%K%P
@@ -12,7 +12,7 @@ The hot spring is completely empty in the middle of the%Nnight...%K%P
 Coming here has distracted me from my thoughts.%K%P
 0xC0
 服を豪快に脱ぎ捨てたオレは、腰にタオルを%N巻きつけ、湯船に向かって歩いて行く。%K%P
-I enthusiastically throw off my clothes, wrap a towel%Naround my waist, and start walking towards the springs.%K%P
+I enthusiastically throw off my clothes, wrap a towel around my waist, and start walking towards the springs.%K%P
 0xCC
 すると……%K%P
 Just then...%K%P
@@ -66,16 +66,16 @@ Those words completely baffle me.%K%P
 Because Yuka only has one bath towel on...%K%P
 0x260
 そしてオレも、腰に薄っぺらいタオルを巻いている%Nだけだったし……。%K%P
-And I also only have a very thin towel wrapped around%Nmy waist...%K%P
+And I also only have a very thin towel wrapped around my waist...%K%P
 0x26C
 しかも、今は真夜中……。%K%P
 Furthermore, it's the dead of night right now...%K%P
 0x278
 この人里離れた温泉に、オレと優夏は２人きり……。%K%P
-Yuka and I are all alone in this hot spring in the middle of%Nnowhere...%K%P
+Yuka and I are all alone in this hot spring in the middle of nowhere...%K%P
 0x284
 優夏「ほらっ……そんなとこ突っ立ってたら風邪%Nひいちゃうよ？」%K%P
-Yuka「Come on... if you stand in a place like that, you'll catch a%Ncold.」%K%P
+Yuka「Come on... if you stand in a place like that, you'll catch a cold.」%K%P
 0x290
 優夏「一緒に、はいろっ？」%K%P
 Yuka「Why don't we go in together?」%K%P
@@ -90,7 +90,7 @@ Inviting me...?%K%P
 (... I-Is this really... all right?)%K%P
 0x2C0
 オレは、体中のいろいろな場所を硬直させながら、ゆっくりと湯船に近づいて行った……。%K%P
-I slowly approach the hot spring as my body stiffens in%Nvarious places.%K%P
+I slowly approach the hot spring as my body stiffens in various places.%K%P
 0x2CC
 と、その時。%K%P
 And just then...%K%P
@@ -129,22 +129,22 @@ Makoto「My towel???」%K%P
 Now that she's pointed it out, I finally notice.%K%P
 0x3B4
 腰に巻いていたタオルを、いつの間にか落として%Nしまっていたことに……。%K%P
-The towel wrapped around my waist has fallen off without%Nme noticing...%K%P
+The towel wrapped around my waist has fallen off without me noticing...%K%P
 0x3C0
 誠「ぐはっ！！！！！！！」%K%P
 Makoto「GWAAA!!!!!!!」%K%P
 0x3CC
 オレは慌てふためきながら脱いだ服をひっつかむと、そのまま一目散に逃げ出した。%K%P
-While panicking, I quickly grab my clothes on the ground,%Nand run away as fast as I can.%K%P
+While panicking, I quickly grab my clothes on the ground, and run away as fast as I can.%K%P
 0x414
 部屋に逃げ帰ったオレは、裸のまま布団をかぶって%N目を閉じた。%K%P
-Having scurried back to my room, I get into my bed, still%Nnaked, throw the covers over me, and shut my eyes.%K%P
+Having scurried back to my room, I get into my bed, still naked, throw the covers over me, and shut my eyes.%K%P
 0x420
 （ったく優夏のやつ……）%K%P
 (Geez, Yuka...)%K%P
 0x42C
 お湯には一滴も浸かっていなかったが、体は%Nほてるように熱かった……。%K%P
-I didn't get any hot water on me, but my whole body feels%Nhot, like it's burning...%K%P
+I didn't get any hot water on me, but my whole body feels hot, like it's burning...%K%P
 0x438
 （オレもまだまだ純情なのかもしれないな……）%K%P
 (I guess that means I've still got a pure heart...)%K%P

@@ -3,10 +3,10 @@ text area offset and size:
 0x22F5
 0x74
 かくしてオレ達は、本日もまた防波堤へと%Nやって来た。%K%P
-And thus, the two of us have once again gone to the%Npier.%K%P
+And thus, the two of us have once again gone to the pier.%K%P
 0x80
 オレは釣り具の準備をしながら、ふっと空を%N見上げた。%K%N
-While setting up the fishing gear, I suddenly look up at%Nthe sky.%K%N
+While setting up the fishing gear, I suddenly look up at the sky.%K%N
 0x8C
 どんよりと曇っている。%K%N
 It's heavily covered with clouds.%K%N
@@ -18,7 +18,7 @@ We're definitely not getting any good weather today.%K%P
 Even so, Haruka cheerfully dangles her fishing line.%K%N
 0xCC
 気乗りしないオレの方は……%Kいや、それでも釣糸を%N垂らした。%K%P
-Mine is dangling in the water as well, though, in truth... My%Nheart's not really into it.%K%P
+Mine is dangling in the water as well, though, in truth... My heart's not really into it.%K%P
 0xF4
 （遙といられるだけで十分じゃないか……）%K%P
 (Just being able to be with Haruka is enough, right...?)%K%P
@@ -30,52 +30,52 @@ But as usual, my line's not getting a single bite.%K%N
 Of course, it's just me who's having this problem...%K%P
 0x120
 遙「わぁ……また釣れた。見て、ほら。こんなに%N大きいのが釣れたよ！」%K%P
-Haruka「Wow... I caught another one. Here, look. I caught a really%Nbig one this time!」%K%P
+Haruka「Wow... I caught another one. Here, look. I caught a really big one this time!」%K%P
 0x12C
 例によって遙のほうは、大漁大漁である。%K%P
-As usual, Haruka keeps wheeling in a multitude of big%Ncatches.%K%P
+As usual, Haruka keeps wheeling in a multitude of big catches.%K%P
 0x138
 （何でこんなに差がつくかなぁ）%K%P
 (Why is she so much better than me?)%K%P
 0x144
 しかし、オレはこんな遙の様子を見ているだけで、%N釣れない悔しさなど吹っ飛んでしまう。%K%P
-It's a little frustrating not being able to catch anything,%Nbut just seeing Haruka like this makes it all worth it.%K%P
+It's a little frustrating not being able to catch anything, but just seeing Haruka like this makes it all worth it.%K%P
 0x150
 何気なく遙と知り合ってからの日々が脳裏に浮かんだ。%K%P
-The days I've spent getting to know this side of her run%Nthrough my mind.%K%P
+The days I've spent getting to know this side of her run through my mind.%K%P
 0x15C
 クローン……。%W%W%W遙はクローンなのだと沙紀は言う。%K%P
 A clone... Saki said with confidence that Haruka is a clone.%K%P
 0x168
 けれど何故？　たとえ本当のことであっても、%N何故、沙紀がそのことを知っていたのだろう？%K%P
-But why? Even if it's the truth, how did Saki even know%Nabout that?%K%P
+But why? Even if it's the truth, how did Saki even know about that?%K%P
 0x174
 おとといからの疑問がまた頭をよぎった。%K%P
 The question I had two days ago still floats in my head.%K%P
 0x180
 そして遙は、自分のことを誰かのコピーだと言う。%K%N心がないのだと言う。%K%P
-And then Haruka said that she was just somebody's%Ncopy. She said that she had no heart.%K%P
+And then Haruka said that she was just somebody's copy. She said that she had no heart.%K%P
 0x18C
 人に……心がないなんてことはあるのだろうか？%K%P
 Could... Could any person really not have a heart?%K%P
 0x198
 オレには、こんな楽しそうにしている遙に、心がないなんてどうしても信じられない。%K%P
-It's impossible for me to believe that, as she's having so%Nmuch fun right now.%K%P
+It's impossible for me to believe that, as she's having so much fun right now.%K%P
 0x1A4
 初めて出会った時と比べてみるといい。えらい違いではないか。%K%P
-I try comparing the Haruka I see now to the one I saw%Nwhen we first met. The difference is huge, isn't it?%K%P
+I try comparing the Haruka I see now to the one I saw when we first met. The difference is huge, isn't it?%K%P
 0x1B0
 遙も変わってきたものだ。%K%P
 Haruka has really changed.%K%P
 0x1BC
 今の遙は、ふとしたときに人間らしい表情を覗かせる。%K%P
-The current Haruka frequently has very humane%Nexpressions.%K%P
+The current Haruka frequently has very humane expressions.%K%P
 0x1C8
 そこには、確かに感情のようなものが%N感じられる。%K%P
 I can definitely feel emotion in them.%K%P
 0x1D4
 遙は少しずつ、心というものを見つけつつあるようだ。%K%P
-Little by little, I think that Haruka is finding that which is%Ncalled her 「heart」.%K%P
+Little by little, I think that Haruka is finding that which is called her 「heart」.%K%P
 0x1E8
 遙「誠……？」%K%P
 Haruka「Makoto...?」%K%P
@@ -84,7 +84,7 @@ Haruka「Makoto...?」%K%P
 Haruka's voice pulls me back to reality.%K%P
 0x200
 ボーッとしているように見えたのだろう。%K考え込んでいたオレを、遙が怪訝そうに覗き込んでいた。%K%P
-It probably looked like I was spacing out.%K She's been%Nlooking at me curiously as I pondered.%K%P
+It probably looked like I was spacing out.%K She's been looking at me curiously as I pondered.%K%P
 0x20C
 遙「……どうか、した？」%K%P
 Haruka「... Is something wrong?」%K%P
@@ -96,13 +96,13 @@ Makoto「No, it's nothing...」%K%P
 Haruka「???」%K%P
 0x238
 誠「ただ何となく、遙と出会ってからのことを%N思い出してたんだ」%K%P
-Makoto「It's just that for some reason or other, I was%Nremembering everything that's happened between us%Nsince we first met.」%K%P
+Makoto「It's just that for some reason or other, I was remembering everything that's happened between us since we first met.」%K%P
 0x244
 遙「私のこと……？」%K%P
 Haruka「You were thinking about me...?」%K%P
 0x250
 誠「今日までの５日間、いろんな事があったよな？」%K%P
-Makoto「Yeah. A lot of things have happened in the last five%Ndays, huh?」%K%P
+Makoto「Yeah. A lot of things have happened in the last five days, huh?」%K%P
 0x274
 遙「…………」%K%P
 Haruka「...」%K%P
@@ -111,7 +111,7 @@ Haruka「...」%K%P
 Makoto「Haruka...?」%K%P
 0x2A8
 遙の目は、遠く水平線に注がれていた。%Kしっかりと%N竿を握りしめたまま……。%K%P
-As Haruka firmly grasps her fishing rod, her eyes keenly%Nfocus on the faraway horizon...%K%P
+As Haruka firmly grasps her fishing rod, her eyes keenly focus on the faraway horizon...%K%P
 0x2B4
 （確かに色々あったもんな……）%K%P
 (A lot of things really did happen...)%K%P
@@ -129,7 +129,7 @@ Her being exposed as a clone...%K%P
 Her receiving Okuhiko's sudden 「love confession」...%K%N
 0x2F0
 裏にどんな事情があるのかわからないが、沙紀とのいがみ合いが続いていること……。%K%P
-Her continuous quarrels with Saki, their true%Ncircumstances still unknown to me...%K%P
+Her continuous quarrels with Saki, their true circumstances still unknown to me...%K%P
 0x2FC
 そして、初めての……%K……キス。%K%P
 And also, her first... kiss.%K%P
@@ -141,13 +141,13 @@ And also, her first... kiss.%K%P
 And then, I am taken aback as I realize it.%K%P
 0x330
 （オレは……遙に好意を抱き始めているんじゃ%Nないのか？）%K%P
-(When... did I start to believe I did it as a favor for%NHaruka?)%K%P
+(When... did I start to believe I did it as a favor for Haruka?)%K%P
 0x33C
 それは、父親の娘に対する好意なんかじゃなく……%K%P
 I didn't do it as a favor or out of any paternal feelings...%K%P
 0x348
 ひとりの女性に対する……純粋な……想い……。%K%P
-I did it to her because of the genuine feelings I have for%Nher... as a... woman...%K%P
+I did it to her because of the genuine feelings I have for her... as a... woman...%K%P
 0x370
 （でも遙は……）%K%P
 (But what about Haruka...?)%K%P
@@ -159,7 +159,7 @@ I did it to her because of the genuine feelings I have for%Nher... as a... woman
 Makoto「Haruka...」%K%P
 0x39C
 遙がゆっくりとオレの方に顔を向けた。%K%Nその表情には、何の感情も見えない。%K%P
-Haruka slowly turns her face towards me. There's not a%Nsingle drop of emotion to be found in her expression.%K%P
+Haruka slowly turns her face towards me. There's not a single drop of emotion to be found in her expression.%K%P
 0x3A8
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -174,7 +174,7 @@ Makoto「...」%K%P
 I want to confirm it. What does Haruka think of me?%K%P
 0x3D8
 けれど、もしも遙がオレのことを、父親のように%N感じているのだとしたらやり切れない。%K%N
-But if Haruka feels that I'm someone like a father to her,%Nthen I couldn't bear it.%K%N
+But if Haruka feels that I'm someone like a father to her, then I couldn't bear it.%K%N
 0x3E4
 オレのことを、ひとりの男として、見てくれていないとしたら……。%K%P
 If she doesn't see me as a man, then...%K%P
@@ -198,7 +198,7 @@ My uneasiness is starting to eat me alive.%K%P
 As I grasp my fishing rod, I continue to worry endlessly...%K%P
 0x4B0
 昼どきを迎えたオレ達は、いつものように%Nルナビーチで昼食を取ることにした。%K%P
-When noon arrives, the two of us decide to grab some%Nlunch at Lunabeach as always.%K%P
+When noon arrives, the two of us decide to grab some lunch at Lunabeach as always.%K%P
 0x4F4
 オレはランチメニューを、遙はサンドウィッチを%N注文した。%K%P
 I look at the lunch menu as Haruka orders a sandwich.%K%P
@@ -213,7 +213,7 @@ Izumi-san teases us as she approaches us.%K%P
 Makoto「No, it's not like...」%K%P
 0x558
 思わずうつむいてしまった。ちょっと気恥ずしい%N気分だ。%K%P
-Feeling a little embarrassed, I instinctively avert my%Neyes.%K%P
+Feeling a little embarrassed, I instinctively avert my eyes.%K%P
 0x564
 オレは、ちらりと遙を覗き見た。%K%N
 I throw a fleeting glance at Haruka.%K%N
@@ -222,13 +222,13 @@ I throw a fleeting glance at Haruka.%K%N
 She's silently nibbling her sandwich.%K%N
 0x57C
 少食なのに、えらい食欲を感じさせる食べ方だ……。%K%P
-Despite her dainty bites, the way she eats makes me%Nfeel that she has a large appetite...%K%P
+Despite her dainty bites, the way she eats makes me feel that she has a large appetite...%K%P
 0x590
 いづみ「それにしても遙ちゃん……」%K%P
 Izumi「At any rate, Haruka-chan...」%K%P
 0x59C
 いづみ「もう、これで３日連続じゃない。%Nよく飽きないよね〜？」%K%P
-Izumi「This is the third day in a row you've come here for lunch,%Nisn't it? You're not tired of this?」%K%P
+Izumi「This is the third day in a row you've come here for lunch, isn't it? You're not tired of this?」%K%P
 0x5B8
 遙「……釣り、好きだから」%K%P
 Haruka「... It's because I like fishing.」%K%P
@@ -240,13 +240,13 @@ She says this as bluntly as always...%K%P
 (Hey... you don't have to be so blunt...)%K%P
 0x5DC
 まあ遙にとっては、それが普通と言えば%N普通なのだが……。%K%P
-Well, I already know by now that's just normal behavior%Nfor Haruka...%K%P
+Well, I already know by now that's just normal behavior for Haruka...%K%P
 0x5E8
 けれど、何故か相手がいづみさんだと、%Nそんな態度がいちじるしく露骨に現れているような%N気がしなくもない。%K%P
-But I've noticed that whenever she's talking to Izumi-san,%Nshe always becomes blunter than usual.%K%P
+But I've noticed that whenever she's talking to Izumi-san, she always becomes blunter than usual.%K%P
 0x5F4
 『いくら何でもその接し方はないだろう！』と、思わず説教したくなってしまうぐらいの仏頂面。%K%N
-I scowl as I hold back the urge to scold Haruka for her%Nbehavior. That's no way to treat others, after all.%K%N
+I scowl as I hold back the urge to scold Haruka for her behavior. That's no way to treat others, after all.%K%N
 0x600
 もしかして……遙はいづみさんのことが苦手なのか？%K%P
 Could it be... that Haruka dislikes Izumi-san?%K%P
@@ -258,7 +258,7 @@ Izumi「Well, if you like doing it, then that's fine.」%K%P
 Izumi-san turns her attention towards me.%K%P
 0x63C
 いづみ「誠くんも、毎日続けるほど、%N釣り好きだったんだ？」%K
-Izumi「Makoto-kun, you also come here every day. Is it just%Nbecause you like fishing?」%K
+Izumi「Makoto-kun, you also come here every day. Is it just because you like fishing?」%K
 0x1250
 ええ……
 Yeah...
@@ -279,16 +279,16 @@ Izumi「Hmm...」%K%P
 Makoto「...」%K%P
 0x6BC
 オレは、いづみさんが期待していたような答えを%N言わなかったらしい。%K%N
-It seems like that wasn't the answer Izumi-san was%Nhoping to hear from me.%K%N
+It seems like that wasn't the answer Izumi-san was hoping to hear from me.%K%N
 0x6C8
 いづみさんは興味を失ったかのように、カウンターの中へと戻って行った。%K%P
-Izumi-san returns to the counter, as if having lost%Ninterest.%K%P
+Izumi-san returns to the counter, as if having lost interest.%K%P
 0x6E4
 誠「いや……」%K%P
 Makoto「Not exactly...」%K%P
 0x6F0
 誠「釣りそのものが好きって言うより……%W%Wオレはただ、遙と一緒にいたいだけで……」%K%P
-Makoto「Fishing is all right and all... But it's more that I just want to%Nbe with Haruka, that's all...」%K%P
+Makoto「Fishing is all right and all... But it's more that I just want to be with Haruka, that's all...」%K%P
 0x6FC
 な、%W%Wなにを言ってるんだ、%W%Wオレは！？%K%N
 Wh-What am I saying!?%K%N
@@ -297,19 +297,19 @@ Wh-What am I saying!?%K%N
 My words cause my face to grow hot.%K%P
 0x71C
 いづみ「あらあら、これは無粋なことをお聞きしました……。%W%Wどうもご馳走様」%K%P
-Izumi「Oh my, this was a rather unrefined thing to ask you...%NPlease continue eating.」%K%P
+Izumi「Oh my, this was a rather unrefined thing to ask you... Please continue eating.」%K%P
 0x728
 耳たぶが、ジリジリとくすぶるように熱くなる。%K%P
-My earlobes get so hot that it feels like steam is coming%Nout of them.%K%P
+My earlobes get so hot that it feels like steam is coming out of them.%K%P
 0x734
 （ううっ……%W%W言わなきゃよかった）%K%P
 (Ugh... I shouldn't have said anything.)%K%P
 0x748
 オレは、いづみさんが期待していた通りの答えを%N言ってしまったらしい。%K%N
-It seems like that was the answer Izumi-san was hoping%Nto hear from me.%K%N
+It seems like that was the answer Izumi-san was hoping to hear from me.%K%N
 0x754
 いづみさんは満足そうにうなずくと、カウンターの%N中へと戻って行った。%K%P
-She gives me a satisfied nod before returning to the%Ncounter.%K%P
+She gives me a satisfied nod before returning to the counter.%K%P
 0x784
 遙は黙々とサンドウィッチを食べ続けている。%K%N
 Haruka continues to silently eat her sandwich.%K%N
@@ -318,10 +318,10 @@ Haruka continues to silently eat her sandwich.%K%N
 It feels like she's completely engrossed in her food.%K%N
 0x79C
 オレ達の話など全く聞いていないのは%N明らかだった……。%K%P
-It's obvious that she didn't hear a single word of our%Nconversation just now...%K%P
+It's obvious that she didn't hear a single word of our conversation just now...%K%P
 0x7B0
 やがて……オレの視線に気づいたかのように、遙がピョコッとこっちを向いた。%K%N
-Before long... as if noticing my glance, Haruka looks in my%Ndirection.%K%N
+Before long... as if noticing my glance, Haruka looks in my direction.%K%N
 0x7C4
 にっこりと笑顔を浮かべている。%K%P
 A sweet smile rises to her face.%K%P
@@ -342,19 +342,19 @@ That alone makes me happy.%K%P
 Kurumi「Onii-chan♪」%K%P
 0x848
 さっきまで忙しそうに向こうで働いていたくるみが、オレ達の所へやって来た。%K%P
-Kurumi comes over to us after finally finishing her work in%Nthe main part of the restaurant.%K%P
+Kurumi comes over to us after finally finishing her work in the main part of the restaurant.%K%P
 0x854
 手にはトレイを持っている。その上にはオレの頼んだコーヒーが乗っていた。%K%N
-She's carrying a tray in her hands. On it is the coffee I%Nordered.%K%N
+She's carrying a tray in her hands. On it is the coffee I ordered.%K%N
 0x860
 しかし、オレはすぐに返事をすることが%Nできなかった。%K%P
 However, I am unable to immediately respond to her.%K%P
 0x86C
 遙の笑顔を見て……胸の中がいっぱいだったのだ。%K%N
-My attention is solely focused on Haruka's heartwarming%Nsmile.%K%N
+My attention is solely focused on Haruka's heartwarming smile.%K%N
 0x878
 喉元まで、あふれんばかりの想いが%N込み上げていて……。%K%N
-Strong emotions burst from inside me and overwhelm all%Nof my senses...%K%N
+Strong emotions burst from inside me and overwhelm all of my senses...%K%N
 0x884
 オレの頬はゆるみっぱなしだった。%K%P
 I smile to myself.%K%P
@@ -366,7 +366,7 @@ Kurumi「Hey, Onii-chan!」%K%P
 Suddenly, Kurumi yanks my ear.%K%N
 0x8B0
 返事をしないオレに業を煮やしたらしい。%K%P
-It seems that she's become irritated at me for not%Nanswering her.%K%P
+It seems that she's become irritated at me for not answering her.%K%P
 0x8BC
 誠「いっ、%W%Wいでででででっ……！！」%K%P
 Makoto「O-OWWWWW...!!」%K%P
@@ -378,25 +378,25 @@ Kurumi「Onii-chan! Are you listening!?」%K%P
 Makoto「I'm listening, I'm listening! I'm listening, so let go of me!」%K%P
 0x8F0
 プンとむくれた表情のまま、くるみはようやく手を%N離してくれた。%K%P
-With a sullen, angry expression, Kurumi finally lets go of%Nme.%K%P
+With a sullen, angry expression, Kurumi finally lets go of me.%K%P
 0x8FC
 誠「な、なんだよぉ……？」%K%P
 Makoto「Wh-What is it...?」%K%P
 0x910
 くるみ「お兄ちゃん達、明後日には帰っちゃうでしょ？」%K%P
-Kurumi「You and the others are going back the day after%Ntomorrow, right?」%K%P
+Kurumi「You and the others are going back the day after tomorrow, right?」%K%P
 0x91C
 誠「あ、ああ……」%K%P
 Makoto「Y-Yeah...」%K%P
 0x930
 くるみ「だからね？　くるみ、今のうちにお兄ちゃん達と%N出来るだけ想い出を作っておきたいの」%K%P
-Kurumi「So Kurumi wants to make as many memories as possible%Nwith you and the others in the time we have left.」%K%P
+Kurumi「So Kurumi wants to make as many memories as possible with you and the others in the time we have left.」%K%P
 0x93C
 誠「想い出、か……」%K%P
 Makoto「Memories, huh...」%K%P
 0x950
 くるみ「そこでぇ〜……今夜、ロッジに泊まりに行こうって%N考えているんだぁ〜♪」%K%P
-Kurumi「And so... Kurumi was thinking that she'd go sleep over at%Nthe lodge tonight〜♪」%K%P
+Kurumi「And so... Kurumi was thinking that she'd go sleep over at the lodge tonight〜♪」%K%P
 0x95C
 誠「ふ〜ん……」%K%P
 Makoto「I see...」%K%P
@@ -411,13 +411,13 @@ Makoto「Huh? N-No, I didn't mean anything in particular by-」%K%P
 Kurumi「Screw you, Onii-chan! Hmph!」%K%P
 0xBC4
 思い切り、くるみはコーヒーカップをテーブルに%N叩きつけた！%K%P
-Kurumi slaps the coffee cup on the table with all her%Nmight!%K%P
+Kurumi slaps the coffee cup on the table with all her might!%K%P
 0xBF8
 誠「あ、%W%W%W%Wあぢ〜〜っ！！」%K%P
 Makoto「H-HOOOT!!」%K%P
 0xC04
 飛び散った煎れたてのコーヒーが、オレのズボンを%N直撃した！%K%P
-The boiling hot coffee flies in the air and directly hits my%Npants!%K%P
+The boiling hot coffee flies in the air and directly hits my pants!%K%P
 0xC10
 誠「く、くるみ……布巾、布巾……！」%K%P
 Makoto「K-Kurumi... g-get me a dish cloth...!」%K%P
@@ -426,7 +426,7 @@ Makoto「K-Kurumi... g-get me a dish cloth...!」%K%P
 Kurumi「Hmph!」%K%P
 0xC48
 完璧に知らんぷりのくるみ……。%K%P
-Kurumi completely ignores me, acting like nothing%Nhappened...%K%P
+Kurumi completely ignores me, acting like nothing happened...%K%P
 0xC5C
 いづみ「誠くん！　大丈夫！？　ヤケドしてない？」%K%P
 Izumi「Makoto-kun! Are you okay!? You're not burned, are you?」%K%P
@@ -447,7 +447,7 @@ She quickly hands me a dish towel.%K%P
 Just then, Haruka suddenly stands up.%K%N
 0xCC4
 くるみといづみさんから目をそらし、足早に%N店の外へと出ていく。%K%P
-She averts her eyes from Kurumi and Izumi-san, and%Nquickly starts to leave the shop.%K%P
+She averts her eyes from Kurumi and Izumi-san, and quickly starts to leave the shop.%K%P
 0xCD0
 （？？？）%K%P
 (???)%K%P
@@ -471,7 +471,7 @@ Makoto「What about Kurumi?」%K%P
 Haruka「Kurumi... she seemed happy.」%K%P
 0xD90
 誠「はあ？　何言ってんだよ。完全にぶち切れてたじゃないかぁ……」%K%P
-Makoto「Huh? What are you saying? She was really pissed off at%Nme, wasn't she...?」%K%P
+Makoto「Huh? What are you saying? She was really pissed off at me, wasn't she...?」%K%P
 0xD9C
 遙「ううん……。そうじゃなくて……%Wその前」%K%P
 Haruka「No... Not that... I mean before that.」%K%P
@@ -483,7 +483,7 @@ Makoto「Before that?」%K%P
 Haruka「Kurumi's always so cheerful... she's a good girl.」%K%P
 0xDC0
 誠「まあ、明るいのはわかるけど……果たしていい子かどうか……」%K%P
-Makoto「Well, she certainly is cheerful... but I don't know if that%Nnecessarily makes her a good girl...」%K%P
+Makoto「Well, she certainly is cheerful... but I don't know if that necessarily makes her a good girl...」%K%P
 0xDCC
 遙「……………………」%K%P
 Haruka「...」%K%P
@@ -519,7 +519,7 @@ But Haruka doesn't answer.%K%P
 No, it's more like she's stubbornly refusing to talk.%K%N
 0xE58
 防波堤に戻るまで、オレが話しかけても一切%N反応しようとはしなかった……。%K%P
-For the rest of our trip back to the pier, Haruka doesn't%Nsay a word...%K%P
+For the rest of our trip back to the pier, Haruka doesn't say a word...%K%P
 0xED4
 再びオレ達は釣り竿を握った。%K%P
 We grab our fishing poles once again.%K%P
@@ -528,10 +528,10 @@ We grab our fishing poles once again.%K%P
 The change in Haruka's face due to fishing is miraculous.%K%P
 0xF10
 さっきまであんなに元気をなくしているように%N見えたのに、今はすっかりと機嫌を直している。%K%N
-Although Haruka looked so depressed a short while ago,%Nshe's now completely back to being cheerful.%K%N
+Although Haruka looked so depressed a short while ago, she's now completely back to being cheerful.%K%N
 0xF1C
 頬を赤らめて釣りに熱中する遙には、%N陰りのようなものは見当たらなかった。%K%P
-Not a single trace of gloom can be found on her beaming%Nface as she enthusiastically fishes.%K%P
+Not a single trace of gloom can be found on her beaming face as she enthusiastically fishes.%K%P
 0xF28
 （うーん……。何なんだろう、この変わり身の%N早さは……）%K%P
 (Mmm... just what's with this quick change in attitude...?)%K%P
@@ -540,10 +540,10 @@ Not a single trace of gloom can be found on her beaming%Nface as she enthusiasti
 (It's... well, whatever.)%K%P
 0xF40
 遙の楽しげな表情は、見ているオレの方までも%N幸せな気分にした。%K%P
-Just looking at Haruka's cheerful expression fills me with%Nhappiness.%K%P
+Just looking at Haruka's cheerful expression fills me with happiness.%K%P
 0xF4C
 誠「なあ、遙？　午後はオレと、勝負しないか？」%K%P
-Makoto「Hey, Haruka? How about a fishing contest this%Nafternoon?」%K%P
+Makoto「Hey, Haruka? How about a fishing contest this afternoon?」%K%P
 0xF60
 遙「えっ？　誠が私と？　%Wふ〜ん……」%K%P
 Haruka「Huh? Between you and me? Hmm...」%K%P
@@ -555,7 +555,7 @@ Haruka「I accept your challenge...」%K%P
 Makoto「All right! That's the spirit!」%K%P
 0xF8C
 と、ついつい勢いで、無謀な闘いを挑んでしまったオレ。%K%P
-And so, against better judgement, I lay down this%Nreckless challenge.%K%P
+And so, against better judgement, I lay down this reckless challenge.%K%P
 0xF98
 もちろん結果は目に見えていたわけで……。%K%P
 Of course, the result is obvious from a mile away...%K%P

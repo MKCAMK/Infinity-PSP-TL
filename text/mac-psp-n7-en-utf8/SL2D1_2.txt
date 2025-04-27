@@ -21,7 +21,7 @@ Haruka「...」%K%P
 I try waiting several seconds for a response.%K%P
 0xAC
 けれど遙はオレの言葉を完全に無視して、スタスタと何事もなかったかのようにキッチンの奥へと消えてしまった。%K%P
-But Haruka completely ignores me and quickly%Ndisappears into the kitchen, as if nothing had happened.%K%P
+But Haruka completely ignores me and quickly disappears into the kitchen, as if nothing had happened.%K%P
 0xFC
 その後を追って、もう１度だけ、言ってみた。%K%P
 I follow her and try to repeat myself.%K%P
@@ -33,10 +33,10 @@ Makoto「Good morning.」%K%P
 Haruka「...」%K%P
 0x13C
 無言のまま、遙は蛇口をひねってコップに水を注いだ。%K%P
-Without a word, she turns the sink faucet, filling her glass%Ncup with water.%K%P
+Without a word, she turns the sink faucet, filling her glass cup with water.%K%P
 0x148
 コクコクと小さな音をたてて、それを一気に飲み干す。%K%P
-With a tiny sound, she drinks the entire cup in one large%Ngulp.%K%P
+With a tiny sound, she drinks the entire cup in one large gulp.%K%P
 0x160
 誠「なあ、遙？」%K%P
 Makoto「Umm, Haruka?」%K%P
@@ -48,16 +48,16 @@ Haruka「...」%K%P
 Haruka doesn't answer.%K%P
 0x184
 口をきゅっと結んだまま、蛇口からしたたり落ちる水滴を見つめている。%K%P
-She remains silent as she stares at the drops of water%Nfalling from the faucet.%K%P
+She remains silent as she stares at the drops of water falling from the faucet.%K%P
 0x1CC
 ……それはかつてオレが経験した光景と、何もかもが同じだった。%K%P
-... This is all exactly the same as the scene I once%Nexperienced.%K%P
+... This is all exactly the same as the scene I once experienced.%K%P
 0x1D8
 （ということは……オレの考えていることが正しければ……）%K%P
 (Which means... if what I'm thinking is correct, then...)%K%P
 0x1EC
 そうこうしているうちに、億彦が眠そうな目をこすりながら、リビングへと姿を現した。%K%P
-It's at this point that Okuhiko shows up, entering the%Nliving room while rubbing the sleep out of his eyes.%K%P
+It's at this point that Okuhiko shows up, entering the living room while rubbing the sleep out of his eyes.%K%P
 0x200
 億彦「やあ！」%K%P
 Okuhiko「Hey!」%K%P
@@ -72,7 +72,7 @@ He asks Haruka this as he ignores my presence.%K%P
 Okuhiko「... Nah, there's no way it's like that. Ha ha ha!」%K%P
 0x248
 笑いながら、チラッとオレの方を見る。さげすむような視線……。%K%P
-He glares at me as he laughs. His eyes are filled with%Nscorn...%K%P
+He glares at me as he laughs. His eyes are filled with scorn...%K%P
 0x254
 （同じだ。全部同じじゃないか……）%K%P
 (It's the same. Everything's exactly the same...)%K%P
@@ -84,19 +84,19 @@ He glares at me as he laughs. His eyes are filled with%Nscorn...%K%P
 (If that's the case... then Saki's still alive...?)%K%P
 0x278
 （いや、待て待て。決めつけるのはまだ早いんじゃないか？）%K%P
-(No, wait. It's too early to be jumping to conclusions,%Nright?)%K%P
+(No, wait. It's too early to be jumping to conclusions, right?)%K%P
 0x284
 （……よしっ。今日１日、確かめてみよう……）%K%P
 (... All right. I'll try to confirm if today really is the 1st...)%K%P
 0x3B0
 そう思ったオレは、極力記憶の通りにこの日を過ごしてみた。%K%P
-With that thought in my mind, I try my best to let this day%Ngo by as I remember it.%K%P
+With that thought in my mind, I try my best to let this day go by as I remember it.%K%P
 0x3BC
 とんでもない優夏の朝食……。%K%N
 Yuka's terrible breakfast.%K%N
 0x3C8
 くるみが間違えてピザを届けに来て……。%K%N
-My conversation with Kurumi, who accidentally delivered%Nthe pizza to us instead of Saki.%K%N
+My conversation with Kurumi, who accidentally delivered the pizza to us instead of Saki.%K%N
 0x3D4
 午後、テニスコートへ向かった……。%K%P
 Going to the tennis court in the afternoon...%K%P
@@ -150,28 +150,28 @@ Yep, that's Saki...%K%N
 That voice... is definitely Saki's...%K%P
 0x52C
 沙紀「失礼しました。私、朝倉沙紀と申します。別荘地の朝倉家の者です」%K%P
-Saki「Excuse me. My name is Saki Asakura. I'm from the Asakura%Nsummer house.」%K%P
+Saki「Excuse me. My name is Saki Asakura. I'm from the Asakura summer house.」%K%P
 0x538
 いづみ「それはそれは……いつも、ご利用ありがとうございます……」%K%P
 Izumi「So that's it... Thank you for your continued patronage...」%K%P
 0x544
 沙紀「別にいつも使ってるわけじゃないけど……注文したピザ、まだですか？」%K%P
-Saki「It's not like I always use this place... Where's the pizza%Nthat I ordered?」%K%P
+Saki「It's not like I always use this place... Where's the pizza that I ordered?」%K%P
 0x550
 いづみ「は？　何のことでしょう？」%K%P
 Izumi「Huh? What are you talking about?」%K%P
 0x55C
 沙紀「ピ・ザです！　もう何時間経ってると思ってるんですか！？」%K%P
-Saki「My P-I-Z-Z-A! How many hours do you think I've been%Nwaiting for it!?」%K%P
+Saki「My P-I-Z-Z-A! How many hours do you think I've been waiting for it!?」%K%P
 0x568
 いづみ「何時間ですか？」%K%P
 Izumi「How many?」%K%P
 0x574
 沙紀「６時間よ、６時間！　どういうお店なんですか、ここは！？」%K%P
-Saki「Six hours, six goddamn hours! Just what kind of shop%Nare you running here!?」%K%P
+Saki「Six hours, six goddamn hours! Just what kind of shop are you running here!?」%K%P
 0x580
 億彦「ずいぶん暇な人種もいるものだな」%K%P
-Okuhiko「Seems there's people out there with quite the free time%Non their hands.」%K%P
+Okuhiko「Seems there's people out there with quite the free time on their hands.」%K%P
 0x58C
 沙紀「あなた達とは話してません」%K%P
 Saki「I wasn't talking to you people.」%K%P
@@ -189,7 +189,7 @@ For some reason, I become happy.%K%N
 That's just like Saki... this is definitely Saki!%K%P
 0x5C8
 沙紀「何なんですか、あなた？　さっきからこっち見てニヤニヤして……。気持ち悪いことやめてください！」%K%P
-Saki「The hell's up with you? You've been staring at me this%Nwhole time with this strange grin... Stop doing things that%Nare making me sick!」%K%P
+Saki「The hell's up with you? You've been staring at me this whole time with this strange grin... Stop doing things that are making me sick!」%K%P
 0x5D4
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -228,10 +228,10 @@ Izumi「For six straight hours?」%K%P
 Saki「Hell no! Even I don't have that kind of time!」%K%P
 0x694
 沙紀「私だってそれは、それは、言ったわよ。ええ、あるものだけで我慢ねって言ったわよ。けど、私がピザ頼んだのちゃんとわかってるのよ、言葉が通じなくても」%K%P
-Saki「Even I, umm... umm... told it that. Yes. I told it to make do with%Njust what was there.」%K%P
+Saki「Even I, umm... umm... told it that. Yes. I told it to make do with just what was there.」%K%P
 0x6A0
 沙紀「仕方ないから、そのまま遊んであげてたのよ！」%K%P
-Saki「But it fully knew that I had ordered a pizza, even though%Nit doesn't understand my language. So I didn't have any%Nother choice but to play around and wait!」%K%P
+Saki「But it fully knew that I had ordered a pizza, even though it doesn't understand my language. So I didn't have any other choice but to play around and wait!」%K%P
 0x6AC
 そうかぁ……沙紀はあの子犬の話をしてたのかぁ……。%K%P
 I see... Saki's talking about that puppy...%K%P
@@ -243,7 +243,7 @@ Izumi「I see.」%K%P
 Kurumi「Onee-chan, you understand what she's saying?」%K%P
 0x6F0
 いづみ「いいのいいの。こういうときはアレなんだから」%K%P
-Izumi「It's fine, it's fine. In times like this, all you have to do is%N'that'.」%K%P
+Izumi「It's fine, it's fine. In times like this, all you have to do is 'that'.」%K%P
 0x6FC
 くるみ「え？　何の話？」%K%P
 Kurumi「Huh? What do you mean?」%K%P
@@ -252,7 +252,7 @@ Kurumi「Huh? What do you mean?」%K%P
 Izumi「It can't be helped, so let's just hear her out for now.」%K%P
 0x71C
 いづみ「こういうタイプは喋りたいだけ喋れば帰るから。それまで我慢我慢。ね？」%K%P
-Izumi「These types just want to talk, then they go back home.%NUntil then, just endure it... Okay?」%K%P
+Izumi「These types just want to talk, then they go back home. Until then, just endure it... Okay?」%K%P
 0x730
 くるみ「どうして我慢なんかしなくちゃいけないの？」%K%P
 Kurumi「But why do we have to put up with it?」%K%P
@@ -264,7 +264,7 @@ Izumi「Because there was a mistake in her delivery, so...」%K%P
 Kurumi「What!? Kurumi definitely delivered it!」%K%P
 0x764
 いづみ「大声出さないの。くるみが間違えてなきゃ何でこうなるの？」%K%P
-Izumi「Don't shout. If you didn't make a mistake, then why did it%Nend up like this?」%K%P
+Izumi「Don't shout. If you didn't make a mistake, then why did it end up like this?」%K%P
 0x778
 くるみ「ひどい！　お姉ちゃん、くるみのこと疑ってたの！？」%K%P
 Kurumi「You're terrible! Onee-chan, you're doubting Kurumi!」%K%P
@@ -285,7 +285,7 @@ Kurumi「Kurumi did deliver it to 'Asakura-san'!」%K%P
 Saki「Just what the hell does that mean!?」%K%P
 0x7F8
 オレはかつて聞いたことがあるやりとりを半ば感動して見つめていた。%K%P
-Hearing this exchange again makes me a little%Nsentimental.%K%P
+Hearing this exchange again makes me a little sentimental.%K%P
 0x804
 とても懐かしかった……。%K%P
 It's very nostalgic...%K%P
@@ -300,10 +300,10 @@ Yuka「Saki... Could it be that you're THAT Saki Asakura?」%K%P
 Just as I thought...%K%P
 0x84C
 沙紀と優夏が盛り上がっていくのを横目で見ながら、オレは確信していた。%K%P
-I feel conviction welling up within me as I watch Saki and%NYuka's reunion unfold.%K%P
+I feel conviction welling up within me as I watch Saki and Yuka's reunion unfold.%K%P
 0x858
 時間が確実に繰り返されている。もう間違いない。%K%P
-Time is certainly repeating itself. There's no doubt about%Nit.%K%P
+Time is certainly repeating itself. There's no doubt about it.%K%P
 0x864
 でも何故……？%K%P
 But why...?%K%P
@@ -315,22 +315,22 @@ No, more importantly... April 6th is in five days.%K%N
 Saki will jump from the tip of the cape at Viewpoint Park...%K%P
 0x888
 そんなことを考えていると、いづみさんが優夏と沙紀に割って入った。%K%P
-When I think that, Izumi-san forces her way through Yuka%Nand Saki.%K%P
+When I think that, Izumi-san forces her way through Yuka and Saki.%K%P
 0x89C
 いづみ「それじゃ今晩、お食事を御馳走する。２人の再会を祝って」%K%P
-Izumi「Well then, I'll treat you to dinner tonight. It'll be a%Ncelebration for your reunion!」%K%P
+Izumi「Well then, I'll treat you to dinner tonight. It'll be a celebration for your reunion!」%K%P
 0x8B0
 優夏「えっ、そんな。悪いですよ」%K%P
 Yuka「Huh? No way, that's too much.」%K%P
 0x8CC
 沙紀「ちょっと待って。私はピザのことをはっきりさせに来たんだけど」%K%P
-Saki「Wait a second. I came here to clear up the issue about%Nmy pizza.」%K%P
+Saki「Wait a second. I came here to clear up the issue about my pizza.」%K%P
 0x8D8
 いづみ「ですから、そのお詫びも兼ねてってことで……」%K%P
 Izumi「Then you can also consider this my apology...」%K%P
 0x8EC
 ……と、いう具合に、前と全く同じ展開になっていく。%K%P
-... And so, things begin to develop the same way they did%Nlast time.%K%P
+... And so, things begin to develop the same way they did last time.%K%P
 0x8F8
 オレは思っていた。%K%P
 This gets me thinking.%K%P
@@ -342,7 +342,7 @@ This gets me thinking.%K%P
 (God is commanding me to save Saki this time...)%K%P
 0x91C
 （このままなら５日後に、同じ悲劇が起こってしまう）%K%P
-(If things go on this way, then in five days, the same%Ntragedy will occur.)%K%P
+(If things go on this way, then in five days, the same tragedy will occur.)%K%P
 0x928
 （それを『オレの力で防いでみろ！』ということなのか……？）%K%P
 (Is God lending me his power to attempt to prevent it... ?)%K%P
@@ -354,7 +354,7 @@ All right... I'll give it all I've got!%K%P
 For Saki's sake...%K%P
 0x94C
 沙紀のことを第一に考えて、オレはこの６日間を過ごそう！%K%P
-I'll do my best to take care of her and get through these%Nsix days!%K%P
+I'll do my best to take care of her and get through these six days!%K%P
 0x960
 いづみ「あなた達も一緒にどう？」%K%P
 Izumi「Will you all eat with them too?」%K%P
@@ -369,10 +369,10 @@ I immediately answer.%K%P
 It feels like I'm plunging right into fate.%K%P
 0x9BC
 ……その後、オレ達は米を買いに行って、いづみさんの手料理を食べた。%K%P
-... After that, we went shopping for rice, and ate%NIzumi-san's dinner.%K%P
+... After that, we went shopping for rice, and ate Izumi-san's dinner.%K%P
 0x9C8
 食後は、夜のプールに潜入し、再び警備員に怒鳴られるハメに……。%K%P
-After dinner, we snuck into the pool, and fled from the%Nyelling security guard once again...%K%P
+After dinner, we snuck into the pool, and fled from the yelling security guard once again...%K%P
 0x9D4
 まるで録画されたビデオを見ているかのようだった。%K%P
 It felt like I was watching a video recording of everything.%K%P
@@ -381,7 +381,7 @@ It felt like I was watching a video recording of everything.%K%P
 But there is one difference...%K%P
 0x9EC
 夜もふけた頃、ロッジに戻る途中の月浜で、オレは鈴を拾わなかった。%K%P
-Late at night, I didn't pick up the bell on Moon Beach on%Nour way back to the lodge.%K%P
+Late at night, I didn't pick up the bell on Moon Beach on our way back to the lodge.%K%P
 0x9F8
 いや、正確に言うと、拾えなかったのだ。%K%P
 No, to be precise, I couldn't pick it up.%K%P
@@ -390,22 +390,22 @@ No, to be precise, I couldn't pick it up.%K%P
 The bell wasn't lying on the shore.%K%P
 0xA10
 懸命に探したが、どこにも見当たらなかった。%K%P
-I looked for it as hard as I could, but it was nowhere to%Nbe found.%K%P
+I looked for it as hard as I could, but it was nowhere to be found.%K%P
 0xA1C
 （ひょっとしたら、オレに記憶があることで、少しだけ歴史が変わっているのかもしれない）%K%P
-(It's possible that because I have my memories, history%Nmight have changed a little bit.)%K%P
+(It's possible that because I have my memories, history might have changed a little bit.)%K%P
 0xA28
 それは、さして重要なこととは思えなかった。%K%P
 Besides, I don't think it matters that much.%K%P
 0xA34
 なにも、あの悲劇の直接的な原因が、鈴にあったというわけではないのだ。%K%P
-It's not like the bell was the direct cause of that%Ntragedy, after all.%K%P
+It's not like the bell was the direct cause of that tragedy, after all.%K%P
 0xA40
 オレが沙紀のことを信じ続けてさえいれば、あの歴史が繰り返すことはない。%K%P
-If I continue to trust Saki, then that history will never%Nrepeat.%K%P
+If I continue to trust Saki, then that history will never repeat.%K%P
 0xA4C
 鈴がどうこうという問題ではないのだ。%K%P
 The bell isn't a problem.%K%P
 0xA58
 ……そんなふうに思いながら、オレはロッジに帰り、眠りに就いた……。%K%P
-... As I think that way, I return to the lodge, and fall%Nasleep...%K%P
+... As I think that way, I return to the lodge, and fall asleep...%K%P

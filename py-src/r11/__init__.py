@@ -17,9 +17,11 @@ sjis_enc = "shift_jis_2004"
 # chinese
 # "GB2312"
 
+control_sequences = ["K", "N", "O", "P", "V", "p", "s", "n", "S", "d", "TS", "TE", "FS", "LL", "LC", "LR", "FE", "XS", "XE", "W", "X"]
 
-r11_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-custom-font-table.txt"
+r11_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-en-font-table.txt"
 r11_cn_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-cn-font-table.txt"
+r11_ru_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-ru-font-table.txt"
 
 en_r11_charset_as_list: Union[List[CharsetElement], None] = None
 en_r11_utf8_to_codes: dict = dict()
@@ -27,6 +29,9 @@ en_r11_bytes_to_codes: dict = dict()
 cn_r11_charset_as_list: Union[List[CharsetElement], None] = None
 cn_r11_utf8_to_codes: dict = dict()
 cn_r11_bytes_to_codes: dict = dict()
+ru_r11_charset_as_list: Union[List[CharsetElement], None] = None
+ru_r11_utf8_to_codes: dict = dict()
+ru_r11_bytes_to_codes: dict = dict()
 
 # Detects trailing %K %P %p %N and %O (any combination)
 trailing_control_vknop_re: re.Pattern = re.compile(r"\s*((?:%[VKNOPp]|%T\d{3})+)$")
@@ -91,7 +96,8 @@ def println_r11(text: str, lang = "en"):
 def str_to_r11_bytes(text: str, lang = "en", exception_on_unknown = False) -> bytes:
   (_, r11_utf8_to_codes, _) = _init_r11_charset(lang)
   r11_bytearray = bytearray()
-  for ch in text:
+  text_iter = iter(enumerate(text))
+  for i, ch in text_iter:
     # regular whitespace
     if ch == ' ':
       r11_bytearray.extend(b'\x20')
@@ -99,6 +105,27 @@ def str_to_r11_bytes(text: str, lang = "en", exception_on_unknown = False) -> by
       r11_bytearray.extend(b'\n')
     elif ch == '\t':
       r11_bytearray.extend(b'\t')
+    elif ch == '%':
+      r11_bytearray.extend(b'%')
+      seq = text[i+1:i+3]
+      if seq[0] == '%':
+        continue
+      if seq[0].isdigit():
+        seq = text[i+1:i+4]
+        if 'd' in seq:
+          seq = seq[:seq.index('d')+1]
+      elif seq[:2] in control_sequences:
+        seq = seq[:2]
+      elif seq[0] == 'C':
+        seq = text[i+1:i+6]
+      elif seq[0] == 'T':
+        seq = text[i+1:i+5]
+      elif seq[0] in control_sequences:
+        seq = seq[0]
+      else:
+        raise Exception("undetected control sequence " + seq)
+      for _ in range(len(seq)): next(text_iter)
+      r11_bytearray.extend(seq.encode("ascii"))
     else:
       try:
         r11_char_code = r11_utf8_to_codes[ch][1]
@@ -110,11 +137,48 @@ def str_to_r11_bytes(text: str, lang = "en", exception_on_unknown = False) -> by
       r11_bytearray.extend(r11_char_code)
   return r11_bytearray
 
-def r11_bytes_ro_str(r11bytes: bytes, lang = "en") -> str:
+def r11_bytes_to_str(r11_bytes: bytes, lang = "en") -> str:
   (_, _, r11_bytes_to_codes) = _init_r11_charset(lang)
   r11_str = []
-  for b in r11bytes:
-    r11_str.extend(r11_bytes_to_codes[b][2])
+  r11_bytes_iter = iter(enumerate(r11_bytes)) 
+  for i, b in r11_bytes_iter:
+    b = b.to_bytes()
+    if b == b' ':
+      r11_str.extend(' ')
+    elif b == b'\n':
+      r11_str.extend('\n')
+    elif b == b'\t':
+      r11_str.extend('\t')
+    elif b == b'%':
+      r11_str.extend('%')
+      try:
+        seq = r11_bytes[i+1:i+3].decode(sjis_enc)
+      except UnicodeDecodeError:
+        seq = r11_bytes[i+1:i+2].decode("ascii")
+      if seq[0] == '%':
+        continue
+      if seq[0].isdigit():
+        seq = r11_bytes[i+1:i+4].decode("ascii")
+        if 'd' in seq:
+          seq = seq[:seq.index('d')+1]
+      elif seq[:2] in control_sequences:
+        seq = seq[:2]
+      elif seq[0] == 'C':
+        seq = r11_bytes[i+1:i+6].decode("ascii")
+      elif seq[0] == 'T':
+        seq = r11_bytes[i+1:i+5].decode("ascii")
+      elif seq[0] in control_sequences:
+        seq = seq[0]
+      else:
+        raise Exception("undetected control sequence " + seq)
+      for _ in range(len(seq)): next(r11_bytes_iter)
+      r11_str.extend(seq)
+    else:
+      try:
+        r11_str.extend(r11_bytes_to_codes[b][2])
+      except KeyError:
+        b = b + next(r11_bytes_iter)[1].to_bytes()
+        r11_str.extend(r11_bytes_to_codes[b][2])
   return "".join(r11_str)
 
 def str_to_r11_font_codepoints(text: str, lang = "en") -> List[int]:
@@ -151,6 +215,14 @@ def _init_r11_charset(lang = "en"):
       return (cn_r11_charset_as_list, cn_r11_utf8_to_codes, cn_r11_bytes_to_codes)
     (cn_r11_charset_as_list, cn_r11_utf8_to_codes, cn_r11_bytes_to_codes) = _load_r11_font_table(r11_cn_font_table_path)
     return (cn_r11_charset_as_list, cn_r11_utf8_to_codes, cn_r11_bytes_to_codes)
+  elif lang == "ru":
+    global ru_r11_charset_as_list
+    global ru_r11_utf8_to_codes
+    global ru_r11_bytes_to_codes
+    if ru_r11_charset_as_list != None:
+      return (ru_r11_charset_as_list, ru_r11_utf8_to_codes, ru_r11_bytes_to_codes)
+    (ru_r11_charset_as_list, ru_r11_utf8_to_codes, ru_r11_bytes_to_codes) = _load_r11_font_table(r11_ru_font_table_path)
+    return (ru_r11_charset_as_list, ru_r11_utf8_to_codes, ru_r11_bytes_to_codes)
   else:
     raise Exception("lang parameter not supported: '{}'".format(lang))
 

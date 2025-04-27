@@ -12,22 +12,22 @@ I address him again.%K%P
 Okuhiko「Yeah?」%K%P
 0x4C
 退屈さのあまり、話し相手を探していたのかも%Nしれない。億彦はちょっと嬉しそうに返事をした。%K%P
-I'm bored; I might as well attempt to strike a conversation.%NHe seems interested enough.%K%P
+I'm bored; I might as well attempt to strike a conversation. He seems interested enough.%K%P
 0x58
 誠「これって……%Nこの『ゼミ合宿』とかいうやつって、結局何を%N目的として実施されてるんだろう？」%K%P
-Makoto「It's just... What exactly are we trying to achieve at this%Nso-called 'Seminar Camp' here?」%K%P
+Makoto「It's just... What exactly are we trying to achieve at this so-called 'Seminar Camp' here?」%K%P
 0x6C
 億彦「石原ぁ、掲示板見なかったのかい？」%K%P
 Okuhiko「Ishihara, didn't you read the board?」%K%P
 0x78
 億彦「『各班員の親睦会を兼ねた』ってそう書かれてたじゃないか。つまり、これといった目的なんか無いってことだよ」%K%P
-Okuhiko「It's 'an informal social gathering between each member%Nof each group'. That's what was written, right? In short,%Nwe don't have a goal.」%K%P
+Okuhiko「It's 'an informal social gathering between each member of each group'. That's what was written, right? In short, we don't have a goal.」%K%P
 0x8C
 億彦「みんなが親しく、仲睦まじくやってれば、それで%N万事ＯＫなのさ」%K%P
 Okuhiko「If we all get along and become friends, then it's all okay.」%K%P
 0x98
 誠「たかがそれだけの為に？　……それにしちゃあ%N７泊８日は長すぎると思うけどな？」%K%P
-Makoto「That's it? ... If that's the case, then don't you think that a%Nweek is too long for that?」%K%P
+Makoto「That's it? ... If that's the case, then don't you think that a week is too long for that?」%K%P
 0xA4
 億彦「まあ、いちいち細かいことは気にするなって。僕は悪くないと思うよ、こういうの」%K%P
 Okuhiko「Don't fuss over minor details. I don't think this is so bad.」%K%P
@@ -48,7 +48,7 @@ Okuhiko「Don't you think so, Haruka-chan?」%K%P
 Okuhiko「Don't you think so?」%K%P
 0x104
 億彦が、その洗練された甘い微笑みを、遙の方へと向ける。%K%P
-Okuhiko gives Haruka an attempt of a smile that's%Nrefined, yet halfhearted.%K%P
+Okuhiko gives Haruka an attempt of a smile that's refined, yet halfhearted.%K%P
 0x110
 すると……%K%P
 Just then...%K%P
@@ -63,34 +63,34 @@ Haruka「This smell... I hate it.」%K%P
 Okuhiko「Huh??」%K%P
 0x148
 ぽかんとした表情の億彦。彼の振った話題は、%Nどうやら完全に抹殺されてしまったようだ。%K%P
-His jaw drops. I don't think he's used to being so utterly%Nignored.%K%P
+His jaw drops. I don't think he's used to being so utterly ignored.%K%P
 0x154
 遙「このにおい……」%K%P
 Haruka「This smell...」%K%P
 0x160
 言いながら、遙がじっと見つめていたのは、オレがさっき丸テーブルの上にどけたアルミ製の灰皿%Nだった。%K%P
-Haruka glares at the aluminum ashtray that I placed on%Ntop of the round table earlier.%K%P
+Haruka glares at the aluminum ashtray that I placed on top of the round table earlier.%K%P
 0x174
 億彦「タバコ、か……。そっか、遙ちゃんは%Nタバコのにおいが嫌いなんだね？」%K%P
-Okuhiko「It's a cigarette... I see, so you hate the smell of%Ncigarettes, Haruka-chan?」%K%P
+Okuhiko「It's a cigarette... I see, so you hate the smell of cigarettes, Haruka-chan?」%K%P
 0x188
 こくりとうなずく遙。%K%P
 Haruka gives a slight nod.%K%P
 0x194
 誠「って言ったって、火はもうとっくに消えてる%N筈だけど？」%K%P
-Makoto「Now that you mention it, shouldn't the flames have%Nalready gone out a long time ago?」%K%P
+Makoto「Now that you mention it, shouldn't the flames have already gone out a long time ago?」%K%P
 0x1A8
 億彦「石原ぁ〜、タバコのにおいっていうのは、%Nそう簡単には無くならないものなんだよ？」%K%P
-Okuhiko「Ishihara〜, do you really think that the smell of%Ncigarettes is something that simply disappears just like%Nthat?」%K%P
+Okuhiko「Ishihara〜, do you really think that the smell of cigarettes is something that simply disappears just like that?」%K%P
 0x1B4
 億彦「しょっちゅう吸ってる奴にはわからないかも%Nしれないが、吸わない人ならすぐに気づく」%K%P
-Okuhiko「A frequent smoker may not realize it, but a non-smoker%Ncan notice it instantly.」%K%P
+Okuhiko「A frequent smoker may not realize it, but a non-smoker can notice it instantly.」%K%P
 0x1C0
 誠「？？？」%K%P
 Makoto「???」%K%P
 0x1CC
 億彦「もう少し気を使ってもらわなくちゃ困るなぁ……」%K%P
-Okuhiko「You should be a little more careful so you don't bother%Nothers...」%K%P
+Okuhiko「You should be a little more careful so you don't bother others...」%K%P
 0x1D8
 誠「お、%W%Wおい、ちょっと待てよ！　オレは吸って%Nなんかっ」%K%P
 Makoto「H-Hey, hold on! I don't smoke!」%K%P
@@ -105,10 +105,10 @@ Makoto「I-I'm telling you, it wasn't me!」%K%P
 Okuhiko「... Ha ha, don't try to fool us.」%K%P
 0x218
 億彦「じゃあ聞くけれど……今朝、この部屋に一番最初にやって来たのは誰なんだい？」%K%P
-Okuhiko「Let me ask you something... Who was the first person to%Nenter the room this morning?」%K%P
+Okuhiko「Let me ask you something... Who was the first person to enter the room this morning?」%K%P
 0x224
 誠「それはオレだけど……でも、オレが来たときには%N既にあったんだよ、そのソファの上に……」%K%P
-Makoto「I was... But when I came in, that ashtray was already%Nthere, on top of the sofa...」%K%P
+Makoto「I was... But when I came in, that ashtray was already there, on top of the sofa...」%K%P
 0x230
 億彦「ほっほー%W%W……そうですか……」%K%P
 Okuhiko「Oh-ho〜... So that's it...」%K%P
@@ -120,19 +120,19 @@ Makoto「...」%K%P
 Okuhiko「Well, I guess I can believe you...」%K%P
 0x25C
 億彦「その代わり、今日からこのロッジ内は禁煙ってことにするから……%W%Wそれだけは、守ってくれよな？」%K%P
-Okuhiko「In return, I declare that from today onwards, the inside of%Nthe lodge is strictly a non-smoking area... You'll abide by%Nthat, won't you?」%K%P
+Okuhiko「In return, I declare that from today onwards, the inside of the lodge is strictly a non-smoking area... You'll abide by that, won't you?」%K%P
 0x268
 『って全然信じてないだろ、お前！』……%Kそう言おうと思って息を吸ったその時……%K%P
-(Damn it, you don't believe me at all!) Just as I'm about to%Nretort...%K%P
+(Damn it, you don't believe me at all!) Just as I'm about to retort...%K%P
 0x27C
 ……遙が静かに立ち上がった。%K%P
 ... Haruka quietly stands up.%K%P
 0x288
 何をするのかと見守っていると、遙はおもむろに%Nアルミの灰皿を手にし、そのままキッチンの方に%N向かって歩き出した。%K%P
-We watch in silent anticipation as she slowly takes the%Naluminum ashtray and walks towards the kitchen, just like%Nthat.%K%P
+We watch in silent anticipation as she slowly takes the aluminum ashtray and walks towards the kitchen, just like that.%K%P
 0x29C
 その横顔にはありありと、憤怒の色が浮かんでいる。%K%P
-Though I can only see her face in profile, I can clearly%Ntell that she's angry.%K%P
+Though I can only see her face in profile, I can clearly tell that she's angry.%K%P
 0x2A8
 鋭く尖った視線は氷のように冷たかった……。%K%P
 There's a cold, harsh glint in her eyes...%K%P
@@ -141,19 +141,19 @@ There's a cold, harsh glint in her eyes...%K%P
 Yuka「Good morning!」%K%P
 0x354
 リビングに入ってきた優夏は、さっきの優夏とは%N別人のように見えた。%K%P
-The Yuka who enters the living room looks like a%Ncompletely different person from before.%K%P
+The Yuka who enters the living room looks like a completely different person from before.%K%P
 0x360
 きちんと整えられた髪は軽やかに弾んでいるし、%N着替えられたピンクのワンピースにはシワひとつ%N見当たらない。%K%P
-Her fixed up hair is now lightly bouncing, and she has%Nchanged out of her clothes into a neat, pink dress.%K%P
+Her fixed up hair is now lightly bouncing, and she has changed out of her clothes into a neat, pink dress.%K%P
 0x36C
 そして何よりもその表情……それはまるで遠足に%N出かける児童のようにらんらんと輝いていた。%K%P
-But the biggest change is her face... She looks like an%Nexcited kid about to leave for a field trip.%K%P
+But the biggest change is her face... She looks like an excited kid about to leave for a field trip.%K%P
 0x378
 一瞬、優夏と目が合う。今朝の一件を思い出し、%N自然とニヤケてしまうオレ。%K%P
-For a second, our eyes meet. Remembering what%Nhappened this morning, I spontaneously break out into a%Nsmile.%K%P
+For a second, our eyes meet. Remembering what happened this morning, I spontaneously break out into a smile.%K%P
 0x38C
 その照れくささを取り繕うように、優夏はあさっての方を向きながら髪の先端をくるくるとねじった。%K%P
-Still feeling a little embarrassed, Yuka breaks eye%Ncontact while playing with her hair.%K%P
+Still feeling a little embarrassed, Yuka breaks eye contact while playing with her hair.%K%P
 0x398
 誠「おはよう」%K%P
 Makoto「Good morning.」%K%P
@@ -168,13 +168,13 @@ Okuhiko returns her greeting as well.%K%P
 Haruka, needless to say, doesn't reply at all.%K%P
 0x3C8
 灰皿を片づけた彼女は今、キッチンの前のダイニングチェアにひっそりと腰を下ろしている。%K%P
-Instead, she is now sitting quietly in a dining chair in%Nfront of the kitchen after having cleaned up the ashtray.%K%P
+Instead, she is now sitting quietly in a dining chair in front of the kitchen after having cleaned up the ashtray.%K%P
 0x3DC
 優夏「みんな、朝ゴハンは？」%K%P
 Yuka「Have any of you had breakfast yet?」%K%P
 0x3E8
 ３人を見渡すように首を振りながら、優夏は言った。%K%P
-Yuka says this while turning her head to survey the%Nthree of us.%K%P
+Yuka says this while turning her head to survey the three of us.%K%P
 0x3F4
 誠「いや、まだだけど……」%K%P
 Makoto「No, not yet...」%K%P
@@ -213,13 +213,13 @@ Makoto「R-Right...」%K%P
 Yuka and cooking...%K%P
 0x4C8
 オレは少しだけ、その２つの接点にひっかかるものを感じたのだが、すぐにその考えは消え去った。%K%P
-For a while, I get lost in my fantasies as I connect the two%Ntogether.%K%P
+For a while, I get lost in my fantasies as I connect the two together.%K%P
 0x4D4
 女の子が料理を作ってくれる……。%K%P
 A girl's cooking...%K%P
 0x4E0
 男だったら、こういったシチュエーションに喜ぶな%Nというのは無理な相談だ。%K%P
-It's impossible to describe just how overjoyed I am as a%Nman by this situation.%K%P
+It's impossible to describe just how overjoyed I am as a man by this situation.%K%P
 0x4EC
 誠「なにか手伝おうか？」%K%P
 Makoto「Is there anything I can do to help?」%K%P
@@ -228,22 +228,22 @@ Makoto「Is there anything I can do to help?」%K%P
 I try asking her this, as I feel like it's the right thing to do.%K%P
 0x504
 優夏「ん？　いいよいいよ。誠はテレビでも見て%N待っていて。そんなに手のかかるもの作るわけじゃないしさ」%K%P
-Yuka「Huh? No, it's okay. Just wait and watch some TV. I can do%Nthis all by myself!」%K%P
+Yuka「Huh? No, it's okay. Just wait and watch some TV. I can do this all by myself!」%K%P
 0x518
 誠「いや、そうじゃなくて……材料とか……」%K%P
 Makoto「That's not it... Do we have ingredients?」%K%P
 0x524
 優夏「ああ、それなら問題無し。前の班の買い置きしてた分が残ってるから」%K%P
-Yuka「Oh, that's not a problem. The previous group left a bunch%Nbehind.」%K%P
+Yuka「Oh, that's not a problem. The previous group left a bunch behind.」%K%P
 0x530
 誠「そっか」%K%P
 Makoto「I see.」%K%P
 0x53C
 優夏「たぶん１５分ぐらいで出来ると思う。えっとー、%Nパンで大丈夫だよね？」%K%P
-Yuka「I think it'll probably take about 15 minutes. Um, toast's%Nokay, right?」%K%P
+Yuka「I think it'll probably take about 15 minutes. Um, toast's okay, right?」%K%P
 0x548
 億彦は『お任せしますよ』といった感じに%N軽くうなずいた。オレもそれに倣う。%K%P
-Okuhiko gives her a quick nod as if to say 「I'll leave it to%Nyou」. I follow suit.%K%P
+Okuhiko gives her a quick nod as if to say 「I'll leave it to you」. I follow suit.%K%P
 0x554
 優夏「遙は？」%K%P
 Yuka「What about you, Haruka?」%K%P
@@ -252,7 +252,7 @@ Yuka「What about you, Haruka?」%K%P
 Yuka「Are you okay with toast as well?」%K%P
 0x56C
 遙は、テーブルの表面に向かってコクリと頭を%N下げた。%K%P
-Haruka gives her a slight nod, not taking her gaze off of%Nthe table's surface.%K%P
+Haruka gives her a slight nod, not taking her gaze off of the table's surface.%K%P
 0x580
 優夏「じゃ、すぐ作るから、ちょっと待っててね」%K%P
 Yuka「Well then, I'll be done soon, so wait a bit.」%K%P
@@ -267,7 +267,7 @@ At that moment...%K%P
 Makoto「Oh, that's right!」%K%P
 0x5B8
 ……オレはあることを思い出し、とっさに優夏を呼び止めた。%K%P
-... I remember something, and instantly try to draw Yuka's%Nattention.%K%P
+... I remember something, and instantly try to draw Yuka's attention.%K%P
 0x5CC
 優夏「なーに？」%K%P
 Yuka「What is it?」%K%P
@@ -282,7 +282,7 @@ Yuka「There's no way I'd do something like smoking...」%K%P
 Yuka「If you look at my perfect skin, it's obvious〜♪」%K%P
 0x614
 優夏は頬に両手を当て、『うむうむ』とひとり納得%Nしながらキッチンへと入って行く……。%K%P
-Yuka comically places her hands to her cheeks,%Nmuttering to herself in agreement as she enters the%Nkitchen...%K%P
+Yuka comically places her hands to her cheeks, muttering to herself in agreement as she enters the kitchen...%K%P
 0x620
 じゃあ一体、誰があのタバコを？%K%P
 If she didn't do it, then just who was it that smoked?%K%P

@@ -3,7 +3,7 @@ text area offset and size:
 0x2498
 0x40
 みんなは表に出て、そのままぞろぞろと森の中へと入って行った。%K%P
-Everyone goes outside, and enters the forest one by%None in succession.%K%P
+Everyone goes outside, and enters the forest one by one in succession.%K%P
 0x4C
 オレも、その後に続いて、茂みの中へと片足を伸ばしたのだったが……%K%P
 Just as I'm about to enter the thicket...%K%P
@@ -12,7 +12,7 @@ Just as I'm about to enter the thicket...%K%P
 ???「H-Hey... Makoto...」%K%P
 0x6C
 ……後ろから、ふいに呼びかけられて振り向いた。%K優夏だった。%K%P
-... I turn around when someone behind me suddenly calls%Nme. It's Yuka.%K%P
+... I turn around when someone behind me suddenly calls me. It's Yuka.%K%P
 0xA4
 誠「イヤだ！」%K%P
 Makoto「No way!」%K%P
@@ -24,13 +24,13 @@ I immediately reply.%K%P
 Yuka「Wh-What the hell!? I haven't said anything yet!」%K%P
 0xD0
 誠「わかるんだよ。この前もそうだったろ？　同じペアを組もうって」%K%P
-Makoto「But I already know. You asked me last time, right? For us%Nto become a pair.」%K%P
+Makoto「But I already know. You asked me last time, right? For us to become a pair.」%K%P
 0xE4
 優夏「うぅ……」%K%P
 Yuka「Ugh...」%K%P
 0xF0
 誠「そんなに怖いなら、最初から参加するなよなっ」%K%P
-Makoto「If you're that scared, then you shouldn't have%Nparticipated to begin with.」%K%P
+Makoto「If you're that scared, then you shouldn't have participated to begin with.」%K%P
 0xFC
 優夏「だ、だってぇ〜、億彦くんが怪しみ出すと思ったから……」%K%P
 Yuka「B-But then Okuhiko-kun would start getting suspicious...」%K%P
@@ -39,7 +39,7 @@ Yuka「B-But then Okuhiko-kun would start getting suspicious...」%K%P
 Makoto「Oh brother...」%K%P
 0x11C
 優夏「い、いいでしょ！　別に取って食われるわけじゃないんだし」%K%P
-Yuka「I-It's fine! It's not like I wanted to just pick you%Nspecifically!」%K%P
+Yuka「I-It's fine! It's not like I wanted to just pick you specifically!」%K%P
 0x128
 誠「食われる」%K%P
 Makoto「There was another way.」%K%P
@@ -66,7 +66,7 @@ Yuka「So we're really going to do this... Test of Courage?」%K%P
 Makoto「Yeah.」%K%P
 0x1A0
 優夏「で……前回と同じであれば……２人組の…ペアになったり…するでしょ？」%K%P
-Yuka「And... if this is like last time... then we'll be put... into pairs,%Nright?」%K%P
+Yuka「And... if this is like last time... then we'll be put... into pairs, right?」%K%P
 0x1AC
 誠「まあ、そうだろうなぁ」%K%P
 Makoto「Well, obviously.」%K%P
@@ -93,13 +93,13 @@ Makoto「Sorry Yuka, but I can't form a pair with you.」%K%P
 Yuka「Wh-Why not!?」%K%P
 0x258
 優夏が反論を始める前に、オレはさっさと森の中へと入って行った。%K%P
-Before Yuka can start objecting, I immediately head into%Nthe forest.%K%P
+Before Yuka can start objecting, I immediately head into the forest.%K%P
 0x264
 優夏のおかげで、ある考えが浮かんだのだ。%K%P
 Thanks to Yuka, I got a good idea.%K%P
 0x270
 オレは歩調を早めると、前方を歩いていたいづみさんに追いついた。%K%P
-I quicken my pace, and before long, I've caught up to%NIzumi-san.%K%P
+I quicken my pace, and before long, I've caught up to Izumi-san.%K%P
 0x2A0
 いづみ「どうしたの誠くん？」%K%P
 Izumi「What's wrong, Makoto-kun?」%K%P
@@ -117,7 +117,7 @@ Makoto「And are we going to do pairs, like in the last one?」%K%P
 Izumi「Well, that's only natural.」%K%P
 0x2DC
 誠「でね？　たぶん向こうに着いたら、ペア分けのジャンケンかなんかをすると思うんだけど……」%K%P
-Makoto「Isn't it? And I think that when we get there, it's likely that%Nwe'll divide the pairs via Rock-Paper-Scissors...」%K%P
+Makoto「Isn't it? And I think that when we get there, it's likely that we'll divide the pairs via Rock-Paper-Scissors...」%K%P
 0x2E8
 いづみ「うんうん」%K%P
 Izumi「Yes, yes.」%K%P
@@ -129,7 +129,7 @@ Makoto「Therefore... I wanted to discuss something with you.」%K%P
 Izumi「?」%K%P
 0x30C
 誠「いづみさん、チョキを出し続けてくれないかなぁ？」%K%P
-Makoto「Izumi-san, will you use scissors during%NRock-Paper-Scissors?」%K%P
+Makoto「Izumi-san, will you use scissors during Rock-Paper-Scissors?」%K%P
 0x320
 いづみ「え……？　それってつまり……」%K%P
 Izumi「Huh...? Wait, are you saying...」%K%P
@@ -162,7 +162,7 @@ I leave with these words, and catch up with the others.%K%P
 The chance I've been waiting for has finally arrived.%K%P
 0x3C0
 オレといづみさんがペアになりさえすれば、億彦の目を気にせずに、好きなだけ、いづみさんと語らうことができる。%K%P
-If Izumi-san and I become a pair, then we'll be out of%NOkuhiko's eyesight, and I'll be able to tell Izumi-san%Nwhatever I want.%K%P
+If Izumi-san and I become a pair, then we'll be out of Okuhiko's eyesight, and I'll be able to tell Izumi-san whatever I want.%K%P
 0x3CC
 も、もちろん……%Kその気になれば……%Kこ、%W%W告白だって……。%K%P
 O-Of course... I intend...%K t-to confess to her...%K%P
@@ -171,16 +171,16 @@ O-Of course... I intend...%K t-to confess to her...%K%P
 I can't hold back the loud pounding of my heart.%K%P
 0x3EC
 ふと前を見ると、億彦が遙に何やらヒソヒソ話をしている。%K%P
-Suddenly, when I look up ahead, I see Okuhiko whispering%Nsomething to Haruka.%K%P
+Suddenly, when I look up ahead, I see Okuhiko whispering something to Haruka.%K%P
 0x400
 億彦はオレの視線に気づくと、ススッと遙のそばを離れて行く。%K%P
-When Okuhiko notices my glance, he quickly moves away%Nfrom her.%K%P
+When Okuhiko notices my glance, he quickly moves away from her.%K%P
 0x414
 （何を企んでいるんだ？　億彦は？）%K%P
 (What are you planning, Okuhiko?)%K%P
 0x420
 少しだけ気になったが、今はもういづみさんのことだけで頭がいっぱいだ。%K%P
-I'm a little concerned about it, but all I can think about%Nright now is Izumi-san.%K%P
+I'm a little concerned about it, but all I can think about right now is Izumi-san.%K%P
 0x42C
 億彦のことも遙のことも、どうでもよくなっていた。%K%P
 Okuhiko and Haruka are of no concern to me right now.%K%P
@@ -192,19 +192,19 @@ We arrive at the graveyard.%K%P
 As always, this place has a spooky atmosphere.%K%P
 0x494
 一切危険は無いと言い張るいづみさんだったが、そんな言葉は信じることができそうになかった。%K%P
-Izumi-san insists that this place is completely safe, but%Nwe can't believe those words.%K%P
+Izumi-san insists that this place is completely safe, but we can't believe those words.%K%P
 0x4A0
 特に優夏にとっては、ここは何度来ても慣れることなどできない場所だろう。%K%P
-Yuka especially doesn't. She'll probably never grow%Naccustomed to here no matter how many times she visits.%K%P
+Yuka especially doesn't. She'll probably never grow accustomed to here no matter how many times she visits.%K%P
 0x4AC
 そうこうしているうちに、ペア決めのジャンケンが始まった。%K%P
-We then begin to divide the pairs through%NRock-Paper-Scissors.%K%P
+We then begin to divide the pairs through Rock-Paper-Scissors.%K%P
 0x4DC
 億彦「せーのっ、ジャーンケーン……」%K%P
 Okuhiko「Ready, Set! Rock, Paper, Scissors...」%K%P
 0x4F0
 やる気まんまんの億彦の音頭に合わせて、オレ達は利き手を振り上げる。%K%P
-Okuhiko eagerly leads us off, and we all make fists with%Nour dominant hands.%K%P
+Okuhiko eagerly leads us off, and we all make fists with our dominant hands.%K%P
 0x4FC
 誠「……ポン！」%K%P
 Makoto「... Go!」%K%P
@@ -219,7 +219,7 @@ Izumi-san also has scissors.%K%P
 (It's decided...)%K%P
 0x534
 オレは、そのまま腕を掲げてピースサインをしようとした。%K%P
-With that, I turn my hand so that my fingers turn into a%Npeace sign.%K%P
+With that, I turn my hand so that my fingers turn into a peace sign.%K%P
 0x548
 しかし、みんなの手を見て驚愕した。%K%P
 But I am shocked when I see everyone else's hands.%K%P
@@ -243,10 +243,10 @@ Again, everyone has scissors...%K%P
 Everyone「...」%K%P
 0x5AC
 それからしばらくの間、全員がチョキを出し続ける奇妙なジャンケンが続いた。%K%P
-For a few more rounds after that, everyone continues to%Ngo with scissors.%K%P
+For a few more rounds after that, everyone continues to go with scissors.%K%P
 0x5C0
 億彦「くっ……やむを得ない……。%Nこれから先はチョキ無しジャンケンだ」%K%P
-Okuhiko「Damn... there's no other choice... Scissors is banned from%Nnow on!」%K%P
+Okuhiko「Damn... there's no other choice... Scissors is banned from now on!」%K%P
 0x5CC
 誠「えっ！？」%K%P
 Makoto「What!?」%K%P
@@ -258,7 +258,7 @@ Izumi「I guess it can't be helped...」%K%P
 Dammit! Goddammit!!%K%P
 0x600
 つまりオレは、次にいづみさんが何を出すのか、わからなくなったわけであり……。%K%P
-In other words, I won't know what Izumi-san's next hand%Nwill be...%K%P
+In other words, I won't know what Izumi-san's next hand will be...%K%P
 0x624
 億彦「グーパージャン！」%K%P
 Okuhiko「Rock, Paper, Go!」%K%P
@@ -285,16 +285,16 @@ Okuhiko dejectedly sits down on a nearby tombstone...%K%P
 Reluctantly, I go with Yuka to find the well.%K%P
 0x6F4
 既に井戸の場所はわかっているのだ。さっさと終わらせてしまおう……。%K%P
-We already know where it is. I want to just hurry up and%Nget this over with...%K%P
+We already know where it is. I want to just hurry up and get this over with...%K%P
 0x708
 優夏「ふぅ〜……一時はどうなるかと思ったよ」%K%P
-Yuka「Whew... I thought I was going to have to go alone for a%Nlittle while.」%K%P
+Yuka「Whew... I thought I was going to have to go alone for a little while.」%K%P
 0x714
 誠「よかったな」%K%P
 Makoto「Good for you.」%K%P
 0x728
 優夏「な、なによ〜っ！%W%W%W　大体ねぇ〜、あそこで誠が断ったりしなければ……」%K%P
-Yuka「Wh-What the hell!? In the first place, if you hadn't%Nrejected me, then...」%K%P
+Yuka「Wh-What the hell!? In the first place, if you hadn't rejected me, then...」%K%P
 0x760
 ──突如、草むらが揺れた。%K%P
 ―Suddenly, the bushes shake.%K%P
@@ -303,13 +303,13 @@ Yuka「Wh-What the hell!? In the first place, if you hadn't%Nrejected me, then..
 Yuka「KYAAAAA!」%K%P
 0x788
 その音に驚いた優夏が、オレにしがみついてくる。%K%P
-Yuka is so surprised by the sound that she latches%Nonto me.%K%P
+Yuka is so surprised by the sound that she latches onto me.%K%P
 0x7AC
 誠「どわっ！」%K%P
 Makoto「Uwaa!」%K%P
 0x7B8
 オレは体勢を崩し、結果的に優夏と抱き合う形となった。%K%P
-I lose balance, and end up embracing Yuka in order to%Nstand my ground.%K%P
+I lose balance, and end up embracing Yuka in order to stand my ground.%K%P
 0x7CC
 優夏「…………」%K%P
 Yuka「...」%K%P
@@ -351,7 +351,7 @@ Makoto「...」%K%P
 Yuka「...」%K%P
 0x884
 誠「な、なあ、優夏？　%N……だけど、早く終わらせて、ここから離れた方が……」%K%P
-Makoto「H-Hey, Yuka? ... That's why we should just hurry up and%Nget this over with, so if you would just let go of me...」%K%P
+Makoto「H-Hey, Yuka? ... That's why we should just hurry up and get this over with, so if you would just let go of me...」%K%P
 0x898
 しかし、優夏は激しくかぶりを振った。%K%P
 But Yuka's too shaken.%K%P
@@ -372,7 +372,7 @@ Yuka「B-But...」%K%P
 Makoto「?」%K%P
 0x8E8
 優夏「ひとつだけ、もう１度歩き出すことができる方法があるの……」%K%P
-Yuka「There might be one method that can get me walking%Nagain...」%K%P
+Yuka「There might be one method that can get me walking again...」%K%P
 0x8F4
 誠「……方法？」%K%P
 Makoto「... What method?」%K%P
@@ -381,7 +381,7 @@ Makoto「... What method?」%K%P
 Yuka「If... If...」%K%P
 0x90C
 優夏「誠の手助けが必要だったら、協力……してくれる……？」%K%P
-Yuka「If I were to say that I needed your help, Makoto... would%Nyou do it...?」%K%P
+Yuka「If I were to say that I needed your help, Makoto... would you do it...?」%K%P
 0x918
 誠「あ、ああ……」%K%P
 Makoto「Y-Yeah...」%K%P
@@ -390,7 +390,7 @@ Makoto「Y-Yeah...」%K%P
 I want to get out of this situation as quickly as possible.%K%P
 0x930
 優夏と抱き合っている姿……こんなところをいづみさんに見られたりしたら……。%K%P
-Yuka and I are embracing each other... if Izumi-san were%Nto see us, then...%K%P
+Yuka and I are embracing each other... if Izumi-san were to see us, then...%K%P
 0x93C
 優夏「じゃあ……」%K%P
 Yuka「Then...」%K%P
@@ -399,7 +399,7 @@ Yuka「Then...」%K%P
 Yuka says this, and quietly brings her face close to mine.%K%N
 0x96C
 その髪からシャンプーの甘い香りが漂ってくる。%K%P
-The scent of sweet shampoo from her hair drifts in the%Nair.%K%P
+The scent of sweet shampoo from her hair drifts in the air.%K%P
 0x978
 優夏「その方法はね……誠とのキス……なの」%K%P
 Yuka「That method... is for you to kiss me... Makoto.」%K%P
@@ -435,10 +435,10 @@ At least, that's what I want to believe.%K%P
 Yuka「Idiot! There's no way that I'd say that!!」%K%P
 0xA14
 笑ってそう言ってくれるって……そんなもんだとばかり考えていた。%K%P
-She'd laugh as she said it... But that's merely what I'd%Nhoped she say, not what she's actually doing.%K%P
+She'd laugh as she said it... But that's merely what I'd hoped she say, not what she's actually doing.%K%P
 0xA20
 だって、オレにはいづみさんっていう人が……%K%Nオレのこと好きだって言ってくれた人が……%Nいるんだから！%K%P
-After all, there's Izumi-san. ... I already have someone...%Nwho told me they love me!%K%P
+After all, there's Izumi-san. ... I already have someone... who told me they love me!%K%P
 0xA2C
 しかし……。%K%P
 But...%K%P
@@ -501,7 +501,7 @@ I gradually...blank out.%K%P
 Yuka... Yuka...%K%N
 0xB98
 やがて……%W%W%Wオレの影と優夏の影はひとつになり……。%K%P
-Before long... my shadow becomes one with Yuka's%Nshadow...%K%P
+Before long... my shadow becomes one with Yuka's shadow...%K%P
 0xBB4
 ………………………………………………。%K%P
 ...%K%P
@@ -510,13 +510,13 @@ Before long... my shadow becomes one with Yuka's%Nshadow...%K%P
 (... Did I... do... it?)%K%P
 0xBCC
 あやふやな意識のまま、オレはたちまち白い世界へと落ちて行った……。%K%P
-My consciousness grows faint, and I suddenly fall into a%Nwhite world...%K%P
+My consciousness grows faint, and I suddenly fall into a white world...%K%P
 0xBE0
 （いづみさん……！！）%K%P
 (Izumi-san...!!)%K%P
 0xBEC
 オレはぎゅっと拳を握りしめると、しぼり出すような声で言ってやった。%K%P
-I clench my hands into fists, and barely manage to%Nsqueeze my voice out.%K%P
+I clench my hands into fists, and barely manage to squeeze my voice out.%K%P
 0xBF8
 誠「ゴメン……。%W%W%Wオレには……%W%W%Wできない」%K%P
 Makoto「I'm sorry... I... can't.」%K%P
@@ -528,13 +528,13 @@ Yuka's face is sad.%K%P
 Makoto「Um... it's not like... I hate you or anything, Yuka.」%K%P
 0xC24
 誠「ただ……%W%W%Wその……%W%W%Wオレ達、そういうことしていい関係じゃないと思うんだよ……」%K%P
-Makoto「It's just... well... I don't think we have that kind of%Nrelationship...」%K%P
+Makoto「It's just... well... I don't think we have that kind of relationship...」%K%P
 0xC30
 あせるオレ。まるで必死に悪戯の言い訳をするかのように。%K%P
-I'm talking frantically. It's as if I'm desperately making an%Nexcuse to justify myself.%K%P
+I'm talking frantically. It's as if I'm desperately making an excuse to justify myself.%K%P
 0xC3C
 きっと……%W%W%Wどこかで、胸の高鳴りを罪悪感として感じていたのかもしれない。%K%P
-Yes, that's probably it... my heart's throbbing so much%Nbecause I feel guilty.%K%P
+Yes, that's probably it... my heart's throbbing so much because I feel guilty.%K%P
 0xC58
 優夏「そっか……」%K%P
 Yuka「I see...」%K%P
@@ -549,10 +549,10 @@ Makoto「I'm sorry... but that's... my final word on it...」%K%P
 I apologize once more.%K%P
 0xC90
 優夏「あ、いつの間にか震えが止まってる。%N……もう、何ともないみたいだよ」%K%P
-Yuka「Oh, looks like I stopped trembling when I wasn't paying%Nattention. ... Geez, I guess it was nothing after all.」%K%P
+Yuka「Oh, looks like I stopped trembling when I wasn't paying attention. ... Geez, I guess it was nothing after all.」%K%P
 0xC9C
 優夏は何ごともなかったかのように、普段の調子を取り戻した。%K%P
-Yuka returns to her normal self as if nothing ever%Nhappened.%K%P
+Yuka returns to her normal self as if nothing ever happened.%K%P
 0xCA8
 その変わり身の早さは、少々不自然なようにも思えるが……。%K%P
 Her swift change in attitude slightly throws me off...%K%P
@@ -621,7 +621,7 @@ My trachea is crushed, and I can't breathe.%K%N
 I do my best to fight it off.%K%P
 0xE20
 優夏「こ、こいつめ〜っ！　この生首！！　２度と出て来れないように、成敗してやる〜〜っ！！」%K%P
-Yuka「D-Damn you! You damned severed head!! I'll punish you%Nso badly so that you'll never come back again!!!」%K%P
+Yuka「D-Damn you! You damned severed head!! I'll punish you so badly so that you'll never come back again!!!」%K%P
 0xE2C
 （ち、%W%W違う……%K違うんだ……優夏……）%K%P
 (Y-You're... You're wrong... Yuka...)%K%P
@@ -630,7 +630,7 @@ Yuka「D-Damn you! You damned severed head!! I'll punish you%Nso badly so that y
 (That's... not a severed head, it's my head!!)%K%P
 0xE44
 朦朧とする意識の中、オレは必死で訴えかけた。%K%N
-As I gradually begin to pass out, I desperately try to%Nspeak.%K%N
+As I gradually begin to pass out, I desperately try to speak.%K%N
 0xE50
 しかし、言葉を発することができず……%K%P
 But my voice won't come out...%K%P

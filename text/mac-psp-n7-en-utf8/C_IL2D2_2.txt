@@ -6,22 +6,22 @@ text area offset and size:
 We arrive at the cherry blossom trees.%K%P
 0xB4
 今、優夏とくるみは、展望公園の灯台のまわりをぐるぐると回って、追いかけっこに夢中だ。%K%P
-Right now, Yuka and Kurumi are playfully chasing each%Nother around the lighthouse in Viewpoint Park.%K%P
+Right now, Yuka and Kurumi are playfully chasing each other around the lighthouse in Viewpoint Park.%K%P
 0xC0
 オレを含めた他の５人は、桜並木の所で立ち止まっていた。%K%P
-The rest of us are still standing on the cherry blossom%Nroad, completely stunned.%K%P
+The rest of us are still standing on the cherry blossom road, completely stunned.%K%P
 0xCC
 恐らく、沙紀と遙と億彦は、この桜を見るのは今日が初めてだろう。%K%P
-This is Saki, Haruka, and Okuhiko's first time seeing these%Ncherry blossoms.%K%P
+This is Saki, Haruka, and Okuhiko's first time seeing these cherry blossoms.%K%P
 0xD8
 ３人は、あまりの素晴らしさに圧倒されているようだった。%K%P
-The three of them seem to be under an incredible sense%Nof awe.%K%P
+The three of them seem to be under an incredible sense of awe.%K%P
 0xEC
 いづみ「『恋の岬で想いを告げて、愛の入り江で想いを遂げる』」%K%P
-Izumi「'Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love.'」%K%P
+Izumi「'Express your feelings on the Cape of Affection, and carry out those feelings at the Cove of Love.'」%K%P
 0xF8
 いづみさんは、桜並木の果て……優夏とくるみが駆けずり回っている灯台の方を、ぼんやりと眺めながらそう言った。%K%P
-Izumi-san is at the edge of the cherry blossom road,%Nabsently watching Yuka and Kurumi run around the%Nlighthouse.%K%P
+Izumi-san is at the edge of the cherry blossom road, absently watching Yuka and Kurumi run around the lighthouse.%K%P
 0x114
 沙紀「え？　……何ですか、それ？」%K%P
 Saki「Huh...? What's that?」%K%P
@@ -30,13 +30,13 @@ Saki「Huh...? What's that?」%K%P
 Izumi「It's an old tradition on this island.」%K%P
 0x134
 いづみ「あの灯台の下で、好きな異性に告白すると、恋が実るって言われてるの」%K%P
-Izumi「If a man and woman confess their feelings for each%Nother under that lighthouse, it's said that their affection%Nwill bear fruit...」%K%P
+Izumi「If a man and woman confess their feelings for each other under that lighthouse, it's said that their affection will bear fruit...」%K%P
 0x140
 それは、前の２日の夜、月浜で車座になって聞いた話だった。%K%P
-It's the story she told us on the last 2nd when we were%Nsitting in a circle.%K%P
+It's the story she told us on the last 2nd when we were sitting in a circle.%K%P
 0x14C
 どうしていづみさんは、２度も同じ話をする気になったのか？%K%P
-Why is Izumi-san so interested in telling the same story%Ntwice?%K%P
+Why is Izumi-san so interested in telling the same story twice?%K%P
 0x158
 オレにはその理由が、なんとなくわかるような気がした。%K%P
 I feel like I somewhat understand the reason.%K%P
@@ -45,10 +45,10 @@ I feel like I somewhat understand the reason.%K%P
 Okuhiko「But Professor?」%K%P
 0x180
 億彦「僕が地図を見た限りでは、確かこの近くにもうひとつ岬があったと思うんだけど？」%K%P
-Okuhiko「From what I've seen of the map, I thought I saw another%Ncape that's near here.」%K%P
+Okuhiko「From what I've seen of the map, I thought I saw another cape that's near here.」%K%P
 0x194
 いづみ「岬？　……ああ、この展望公園よりも、もっと西にある岬のことね？」%K%P
-Izumi「Cape? ... Oh, are you talking about that cape that's a bit%Nto the west from Viewpoint Park?」%K%P
+Izumi「Cape? ... Oh, are you talking about that cape that's a bit to the west from Viewpoint Park?」%K%P
 0x1A0
 億彦「そうそう、その岬のこと！」%K%P
 Okuhiko「Right, that's it!」%K%P
@@ -57,19 +57,19 @@ Okuhiko「Right, that's it!」%K%P
 Okuhiko「And you know what? I was thinking...」%K%P
 0x1B8
 億彦「『恋の岬で』っていうのは、あるいはもしかすると、そっちの岬のことを指してるんじゃないのかなぁ？」%K%P
-Okuhiko「If there's a 'Cape of Affection', then perhaps there's%Nsomething special about that one as well.」%K%P
+Okuhiko「If there's a 'Cape of Affection', then perhaps there's something special about that one as well.」%K%P
 0x1D4
 遙「……どうして？」%K%P
 Haruka「... What do you mean?」%K%P
 0x1E8
 億彦「いやね？　地図にはさ、その岬の先端に鳥居のマークが書かれているんだよ」%K%P
-Okuhiko「You don't know? On the map is a marker of a shrine's%Narchway on the tip of that cove.」%K%P
+Okuhiko「You don't know? On the map is a marker of a shrine's archway on the tip of that cove.」%K%P
 0x1FC
 億彦「つまりさ、そこには神社があるってこと！」%K%P
 Okuhiko「In other words, there's a shrine there!」%K%P
 0x208
 億彦「僕はむしろ、灯台の下よりも、神社の前で告白したほうが、よっぽど御利益があるように思えるけどなぁ」%K%P
-Okuhiko「I was thinking that if you confessed in front of the shrine%Ninstead of under the lighthouse, it'd be as though you%Nwere receiving great, divine blessings.」%K%P
+Okuhiko「I was thinking that if you confessed in front of the shrine instead of under the lighthouse, it'd be as though you were receiving great, divine blessings.」%K%P
 0x224
 いづみ「う〜ん……確かにその推測は、ひょっとしたら正しいかもしれないわね」%K%P
 Izumi「Hmm... your conjecture might be correct.」%K%P
@@ -81,7 +81,7 @@ Okuhiko「Right?」%K%P
 Izumi「But you know what?」%K%P
 0x258
 いづみ「もしも正しいとしたら、この言い伝え自体が意味を失ってしまうことになるわ」%K%P
-Izumi「If you're right, then that legend itself has completely lost%Nall meaning.」%K%P
+Izumi「If you're right, then that legend itself has completely lost all meaning.」%K%P
 0x26C
 みんな「？？？」%K%P
 Everyone「???」%K%P
@@ -96,31 +96,31 @@ Okuhiko「Huh?」%K%P
 (―What!?)%K%P
 0x2A4
 いづみ「今から２１年前の地震で、神社は倒壊してしまったのよ」%K%P
-Izumi「That shrine was destroyed 21 years ago by an%Nearthquake.」%K%P
+Izumi「That shrine was destroyed 21 years ago by an earthquake.」%K%P
 0x2B0
 いづみ「もちろん建て直されたわけでもないから、今はただの茂みになっちゃってるんじゃないかな？」%K%P
-Izumi「Of course, because it wasn't rebuilt, I'd say all that's%Nthere now is a thicket.」%K%P
+Izumi「Of course, because it wasn't rebuilt, I'd say all that's there now is a thicket.」%K%P
 0x2BC
 億彦「じゃあ……僕が見た地図は……？」%K%P
 Okuhiko「Then... what about what I saw on the map?」%K%P
 0x2C8
 いづみ「きっと、地震が起きる前に書かれたものだったのね」%K%P
-Izumi「It must have been a map made before the earthquake%Noccurred.」%K%P
+Izumi「It must have been a map made before the earthquake occurred.」%K%P
 0x2D4
 いづみ「じゃなかったら、いまだに書き直されてない古いバージョンのものなのかも」%K%P
-Izumi「If not, then you must be using an old version that still%Nhasn't been redrawn.」%K%P
+Izumi「If not, then you must be using an old version that still hasn't been redrawn.」%K%P
 0x2E8
 いづみ「いずれにしても、神社はもうなくなっちゃってるんだから、そんな深い茂みの中で告白するよりも……」%K%P
-Izumi「Anyway, the shrine's already gone, so rather than%Nconfessing in a deep thicket...」%K%P
+Izumi「Anyway, the shrine's already gone, so rather than confessing in a deep thicket...」%K%P
 0x2F4
 いづみ「あの見晴らしのいい灯台の下で告白した方が、やっぱり素敵じゃない？」%K%P
-Izumi「Wouldn't it be lovelier to confess under this lighthouse%Nwith the great view after all?」%K%P
+Izumi「Wouldn't it be lovelier to confess under this lighthouse with the great view after all?」%K%P
 0x308
 億彦「なるほど……そうだったのかぁ……」%K%P
 Okuhiko「I see... that's true...」%K%P
 0x31C
 億彦は完璧に信じ込んでしまったようだが、当然オレは、今のいづみさんの発言が、すべて嘘だということを知っている。%K%P
-Okuhiko is convinced by her answer, but of course, I%Nknow everything Izumi-san said just now was a lie.%K%P
+Okuhiko is convinced by her answer, but of course, I know everything Izumi-san said just now was a lie.%K%P
 0x328
 なにしろオレは、あの神社を見たことがあるのだから……。%K%P
 Obviously, it's because I've seen that shrine before...%K%P
@@ -129,13 +129,13 @@ Obviously, it's because I've seen that shrine before...%K%P
 Not only have I seen it, but I've been inside it too...%K%P
 0x340
 そう言えばあのとき、神社からルナビーチへと向かう途中の道で、くるみはこんなことを言ってたっけ……。%K%P
-Now that I think about it, on our way back to Lunabeach%Nfrom the shrine, Kurumi said this...%K%P
+Now that I think about it, on our way back to Lunabeach from the shrine, Kurumi said this...%K%P
 0x3A0
 くるみ「あの神社……すごく懐かしい匂いがしたの」%K%P
 Kurumi「That shrine... had a very nostalgic scent to it...」%K%P
 0x3AC
 くるみ「ちっちゃい頃、お姉ちゃんにもらったお下がりの……洋服の匂い……」%K%P
-Kurumi「It was the smell of the traditional clothes... that Kurumi%Ngot as hand-me-downs from Onee-chan when she was%Nyounger...」%K%P
+Kurumi「It was the smell of the traditional clothes... that Kurumi got as hand-me-downs from Onee-chan when she was younger...」%K%P
 0x40C
 （いづみさんとくるみと神社……）%K%P
 (Izumi-san, Kurumi, and the shrine...)%K%P
@@ -144,7 +144,7 @@ Kurumi「It was the smell of the traditional clothes... that Kurumi%Ngot as hand
 (... Do they have some sort of connection?)%K%P
 0x424
 その後、神社の話はあっさりと流され、みんなは桜並木の美しさに、すっかりと目を奪われていた。%K%P
-After that, we quickly move away from the topic of the%Nshrine, and everyone is once again captivated by the%Nbeauty of the cherry blossom trees.%K%P
+After that, we quickly move away from the topic of the shrine, and everyone is once again captivated by the beauty of the cherry blossom trees.%K%P
 0x484
 ………………。%N…………。%N……。%K%P
 ... ... ...%K%P

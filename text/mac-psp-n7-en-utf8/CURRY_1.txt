@@ -3,19 +3,19 @@ text area offset and size:
 0x2327
 0x54
 オレがリビングに出て行った頃には、すでにみんなは集合していた。%K%P
-When I enter the living room, everybody is already%Ngathered.%K%P
+When I enter the living room, everybody is already gathered.%K%P
 0x60
 ソファに腰をかけ、それぞれ思い思いの時間を過ごしている。%K%P
 I sit down on the sofa as everyone passes the time idly.%K%P
 0x6C
 しかし、さきほどの騒動の影響か、やけに空気が重く感じる。%K%P
-There's a melancholic atmosphere as the events from%Nearlier are still lingering in our minds.%K%P
+There's a melancholic atmosphere as the events from earlier are still lingering in our minds.%K%P
 0x78
 いづみさんも遙も億彦も……あのくるみでさえも、じっと押し黙っているのだ。%K%P
 Izumi-san, Haruka, Okuhiko... even Kurumi is dead silent.%K%P
 0x8C
 優夏は……優夏は今、窓際に立って、指先で何かをいじっていた。それはいつもの優夏らしくない、寂しげな姿だった。%K%P
-As for Yuka... Right now, she is standing by the window,%Nfiddling with something. It isn't like her to look so lonely.%K%P
+As for Yuka... Right now, she is standing by the window, fiddling with something. It isn't like her to look so lonely.%K%P
 0x98
 誠「優夏……それ、何だ？」%K%P
 Makoto「Yuka... what's that?」%K%P
@@ -27,7 +27,7 @@ I ask her.%K%P
 Yuka「Hmm? Ah... this?」%K%P
 0xC4
 優夏「さっきテニスの後、くるみちゃんとお土産屋さんに行って……そのとき、買ったの」%K%P
-Yuka「Kurumi-chan and I went to the gift shop after our tennis%Nmatch... I bought this there.」%K%P
+Yuka「Kurumi-chan and I went to the gift shop after our tennis match... I bought this there.」%K%P
 0xD0
 優夏は指先でつまむようにして、%Nそれを見せてくれた。%K%P
 Yuka holds up the trinket with her fingertips to show me.%K%P
@@ -36,7 +36,7 @@ Yuka holds up the trinket with her fingertips to show me.%K%P
 It's a key chain.%K%N
 0xF0
 手の平に収まるぐらいの大きさの、%N太った猫のマスコットキャラがついている。%K%P
-Attached to it is some kind of fat cat mascot character%Nthat's about as big as my palm.%K%P
+Attached to it is some kind of fat cat mascot character that's about as big as my palm.%K%P
 0xFC
 誠「誰かへの、お土産？」%K%P
 Makoto「Is that a souvenir for someone?」%K%P
@@ -81,7 +81,7 @@ Where she got that idea from, I've got no clue.%K%P
 ... We stop talking after that...%K%P
 0x1D4
 不自然な会話の終わり方に、静けさが、さらに増したように感じる。%K%P
-Somehow, things seem to be even quieter than they%Nwere before.%K%P
+Somehow, things seem to be even quieter than they were before.%K%P
 0x1E0
 誰も、その話題を繋ごうとする者はいなかった……。%K%N
 No one tries to start a conversation...%K%N
@@ -93,7 +93,7 @@ Just then...%K%P
 Izumi「Well, I guess it's about time I made dinner.」%K%P
 0x228
 ……いづみさんが、そんな気まずい空気を振り払うかのように、明るい声をあげてキッチンへと向かおうとする。%K%P
-... As if attempting to break the ice, Izumi-san cheerfully%Ndeclares this as she heads towards the kitchen.%K%P
+... As if attempting to break the ice, Izumi-san cheerfully declares this as she heads towards the kitchen.%K%P
 0x234
 誠「いづみさん、オレも手伝いますよ」%K%P
 Makoto「Izumi-san, I'll help you out.」%K%P
@@ -132,7 +132,7 @@ In that instant, everyone looks towards me.%K%P
 Their glares pierce me like daggers.%K%P
 0x2E4
 突然おそってきた重圧に、オレは息苦しさを覚えた。%K%P
-The overwhelming, sudden pressure feels like it's%Nsuffocating me.%K%P
+The overwhelming, sudden pressure feels like it's suffocating me.%K%P
 0x30C
 （まただ……）%K%P
 (Not again...)%K%P
@@ -141,7 +141,7 @@ The overwhelming, sudden pressure feels like it's%Nsuffocating me.%K%P
 (Not another... premonition...)%K%P
 0x324
 そう思う心とは裏腹に、なぜかオレの脳裏には、こんな言葉が浮かんできた。%K
-But in contrast to my thoughts, for some reason, these%Nwords begin to float in my mind.%K
+But in contrast to my thoughts, for some reason, these words begin to float in my mind.%K
 0x11D8
 『だって今日は、カレーでしょ？』
 (We're having curry, right?)
@@ -162,7 +162,7 @@ I blurt the words in my head out without thinking.%K%P
 I have no clue why I just said that.%K%P
 0x3A0
 まるで、オレの中にいる別の誰かがオレのことを操っているような、そんな感覚だった。%K%P
-It felt like I was being manipulated by some unknown%Nforce.%K%P
+It felt like I was being manipulated by some unknown force.%K%P
 0x3AC
 いづみ「ええ……確かに今日は……カレーだけど……」%K%P
 Izumi「Yes... It's true that today... we're having curry, but...」%K%P
@@ -174,7 +174,7 @@ Yuka「Makoto...」%K%P
 Kurumi「Onii-chan, how? How did you know we were having curry?」%K%P
 0x400
 億彦「石原ぁ〜。まさか、またお前……。こんな時に何の冗談だ？」%K%P
-Okuhiko「Ishihara. It couldn't be another one of... Just what kind of%Njoke is it this time?」%K%P
+Okuhiko「Ishihara. It couldn't be another one of... Just what kind of joke is it this time?」%K%P
 0x40C
 億彦は、目を細めてオレのことをにらみつけている。%K%P
 Okuhiko narrows his eyes and glares at me.%K%P
@@ -183,7 +183,7 @@ Okuhiko narrows his eyes and glares at me.%K%P
 (This is bad...)%K%P
 0x424
 （このままでは気まずい空気がますます重くなってしまう）%K%P
-(If this keeps up, the tension in this place is only going%Nto become worse.)%K%P
+(If this keeps up, the tension in this place is only going to become worse.)%K%P
 0x430
 （なんとかして誤魔化さないと……）%K%P
 (I've got to trick them somehow...)%K%P
@@ -246,7 +246,7 @@ Kurumi「Curry...」%K%P
 Everyone unanimously mutters the word 'curry'.%K%P
 0x578
 その神妙な顔つきから察するに、どうやらみんなは、カレーがあまり好きではないようだ。%K%P
-Judging by their unenthusiasm, it seems that none of%Nthem like curry very much.%K%P
+Judging by their unenthusiasm, it seems that none of them like curry very much.%K%P
 0x594
 誠「だって今日は、クリームシチューでしょ？」%K%P
 Makoto「Because we're having cream stew today, right?」%K%P
@@ -258,7 +258,7 @@ I blurt the words in my head out without thinking.%K%P
 I have no idea why I just said that.%K%P
 0x5B8
 まるで、オレの中にいる別の誰かがオレのことを操っているような、そんな感覚だった。%K%P
-It felt like I was being manipulated by some unknown%Nforce.%K%P
+It felt like I was being manipulated by some unknown force.%K%P
 0x5C4
 いづみ「ええ……確かに今日は……シチューだけど……」%K%P
 Izumi「Yes... It's true that today... we're having stew, but...」%K%P
@@ -270,7 +270,7 @@ Yuka「Makoto...」%K%P
 Kurumi「Onii-chan, how? How did you know we were having stew?」%K%P
 0x618
 億彦「石原ぁ〜。まさか、またお前……。こんな時に何の冗談だ？」%K%P
-Okuhiko「Ishihara. It couldn't be another one of... Just what kind of%Njoke is it this time?」%K%P
+Okuhiko「Ishihara. It couldn't be another one of... Just what kind of joke is it this time?」%K%P
 0x624
 億彦は、目を細めてオレのことをにらみつけている。%K%P
 Okuhiko narrows his eyes and glares at me.%K%P
@@ -279,7 +279,7 @@ Okuhiko narrows his eyes and glares at me.%K%P
 (This is bad...)%K%P
 0x63C
 （このままでは気まずい空気がますます重くなってしまう）%K%P
-(If this keeps up, the tension in this place is only going%Nto become worse.)%K%P
+(If this keeps up, the tension in this place is only going to become worse.)%K%P
 0x648
 （なんとかして誤魔化さないと……）%K%P
 (I've got to trick them somehow...)%K%P
@@ -300,7 +300,7 @@ Izumi「Huh...?」%K%P
 Okuhiko「Ingredients...?」%K%P
 0x6A0
 誠「ジャガイモ、ニンジン、玉ネギと鳥肉……それからあとは、牛乳とクリームシチューのルー」%K%P
-Makoto「Potatoes, carrots, onions, beef... and then milk, as well as%Ncrew stew roux.」%K%P
+Makoto「Potatoes, carrots, onions, beef... and then milk, as well as crew stew roux.」%K%P
 0x6CC
 優夏「ああ。それなら誰でも、シチューだって%Nわかるよね」%K%P
 Yuka「I see. With that, anyone would realize you're making stew.」%K%P
@@ -327,7 +327,7 @@ Haruka「We're having... stew for dinner...」%K%P
 Izumi「That's right! Tonight's dinner is stew!」%K%P
 0x74C
 いづみ「最初はカレーにしようかと思ってたんだけど、それじゃちょっと、ありきたりかな、と思ったから……」%K%P
-Izumi「Originally, I'd planned on making curry, but then I thought%NI'd make something simpler!」%K%P
+Izumi「Originally, I'd planned on making curry, but then I thought I'd make something simpler!」%K%P
 0x760
 優夏「シチュー、かぁ……」%K%P
 Yuka「Stew, huh...」%K%P
@@ -342,7 +342,7 @@ Kurumi「Stew...」%K%P
 Everyone unanimously mutters the word 'stew'.%K%P
 0x790
 その神妙な顔つきから察するに、どうやらみんなは、シチューがあまり好きではないようだ。%K%P
-Judging by their unenthusiasm, it seems that none of%Nthem like stew very much.%K%P
+Judging by their unenthusiasm, it seems that none of them like stew very much.%K%P
 0x7AC
 誠「だって今日は、肉ジャガでしょ？」%K%P
 Makoto「Because we're having meat-potato stew today, right?」%K%P
@@ -354,19 +354,19 @@ I blurted the words in my head out without thinking.%K%P
 I have no idea why I just said that.%K%P
 0x7D0
 まるで、オレの中にいる別の誰かがオレのことを操っているような、そんな感覚だった。%K%P
-It felt as if I was being manipulated by some unknown%Nforce.%K%P
+It felt as if I was being manipulated by some unknown force.%K%P
 0x7DC
 いづみ「ええ……確かに今日は……肉ジャガだけど……」%K%P
-Izumi「Yes... It's true that today... I planned on making%Nmeat-potato stew, but...」%K%P
+Izumi「Yes... It's true that today... I planned on making meat-potato stew, but...」%K%P
 0x7F8
 優夏「誠……」%K%P
 Yuka「Makoto...」%K%P
 0x814
 くるみ「お兄ちゃん、どうして？%N……どうして肉ジャガだってこと、わかったの？」%K%P
-Kurumi「Onii-chan, how? How did you know we were having%Nmeat-potato stew?」%K%P
+Kurumi「Onii-chan, how? How did you know we were having meat-potato stew?」%K%P
 0x830
 億彦「石原ぁ〜。まさか、またお前……。こんな時に何の冗談だ？」%K%P
-Okuhiko「Ishihara. It couldn't be another one of... Just what kind of%Njoke is it this time?」%K%P
+Okuhiko「Ishihara. It couldn't be another one of... Just what kind of joke is it this time?」%K%P
 0x83C
 億彦は、目を細めてオレのことをにらみつけている。%K%P
 Okuhiko narrows his eyes and glares at me.%K%P
@@ -375,7 +375,7 @@ Okuhiko narrows his eyes and glares at me.%K%P
 (This is bad...)%K%P
 0x854
 （このままでは気まずい空気がますます重くなってしまう）%K%P
-(If this keeps up, the tension in this place is only going%Nto become worse.)%K%P
+(If this keeps up, the tension in this place is only going to become worse.)%K%P
 0x860
 （なんとかして誤魔化さないと……）%K%P
 (I've got to trick them somehow...)%K%P
@@ -402,7 +402,7 @@ Makoto「Potatoes, carrots, onions, and beef...」%K%P
 Makoto「Mirin, sugar... and then soy sauce and cooking sake.」%K%P
 0x8F0
 優夏「ああ。それなら誰でも、肉ジャガだって%Nわかるよね」%K%P
-Yuka「I see. With that, anyone would realize you're making%Nmeat-potato stew.」%K%P
+Yuka「I see. With that, anyone would realize you're making meat-potato stew.」%K%P
 0x8FC
 億彦「ふ〜ん……」%K%P
 Okuhiko「Hmm...」%K%P
@@ -426,7 +426,7 @@ Haruka「We're having... meat-potato stew for dinner...」%K%P
 Izumi「That's right! Tonight's dinner is meat-potato stew!」%K%P
 0x970
 いづみ「お店ではめったに和食って作らないから、たまには……ね？」%K%P
-Izumi「Since I rarely cook any traditional Japanese dishes at%Nthe café, I thought it'd be a nice change in pace... right?」%K%P
+Izumi「Since I rarely cook any traditional Japanese dishes at the café, I thought it'd be a nice change in pace... right?」%K%P
 0x984
 優夏「肉ジャガ、かぁ……」%K%P
 Yuka「Meat-potato stew, huh...」%K%P
@@ -438,13 +438,13 @@ Okuhiko「Hmm, meat-potato stew...」%K%P
 Kurumi「Meat-potato stew...」%K%P
 0x9A8
 みんなが口々に『肉ジャガ』とつぶやく。%K%P
-Everyone unanimously mutters the words 'meat%Npotato-stew'.%K%P
+Everyone unanimously mutters the words 'meat potato-stew'.%K%P
 0x9B4
 その神妙な顔つきから察するに、どうやらみんなは、肉ジャガがあまり好きではないようだ。%K%P
-Judging by their unenthusiasm, it seems that none of%Nthem like meat-potato stew very much.%K%P
+Judging by their unenthusiasm, it seems that none of them like meat-potato stew very much.%K%P
 0x9E4
 億彦「あっ……そう言えば僕、やらなきゃイケナイことがあったんだ」%K%P
-Okuhiko「Ah... Now that I think about it, there's something I need to%Ndo.」%K%P
+Okuhiko「Ah... Now that I think about it, there's something I need to do.」%K%P
 0x9F0
 億彦「いや、別にたいしたことじゃあ、ないんだけどね……」%K%P
 Okuhiko「Not that it's urgent, but...」%K%P
@@ -462,7 +462,7 @@ With that, Okuhiko leaves the lodge...%K%P
 (Well, I don't really care.)%K%P
 0xA3C
 （あいつがどこで何をしようと、オレの知ったこっちゃないし……）%K%P
-(I don't need to know where he's going or what he's%Ndoing...)%K%P
+(I don't need to know where he's going or what he's doing...)%K%P
 0xA48
 ……などと思っていると、今度はくるみが……%K%P
 ... Just then, Kurumi speaks up...%K%P
@@ -531,13 +531,13 @@ Makoto「Like I was saying earlier, let me help you!」%K%P
 I follow Izumi-san into the kitchen...%K%P
 0xC44
 いづみ「誠くん？　気持ちは嬉しいけど、ほんとに大丈夫だから」%K%P
-Izumi「Makoto-kun? I'm happy you want to help, but really, I'm%Nfine.」%K%P
+Izumi「Makoto-kun? I'm happy you want to help, but really, I'm fine.」%K%P
 0xC58
 いづみ「男子厨房に入るべからず……わかった？」%K%P
 Izumi「Boys shouldn't go in the kitchen... understand?」%K%P
 0xC64
 そんな優しい微笑みで見つめられたらかなわない。%K%P
-That smile of hers kills me every time; I'm defenseless%Nagainst it.%K%P
+That smile of hers kills me every time; I'm defenseless against it.%K%P
 0xC70
 オレは素直に……%K%P
 So I...%K%P
@@ -546,7 +546,7 @@ So I...%K%P
 Makoto「Okay〜♪」%K%P
 0xCB4
 ……子供のような返事をして、リビングに戻った。%K%P
-... obediently reply like a child, and return to the living%Nroom.%K%P
+... obediently reply like a child, and return to the living room.%K%P
 0xCC0
 キッチンから出るまぎわ『ふぅ』とかすかなため息が、背中に聞こえたような気がした。%K%P
 It felt like I heard a faint sigh from the kitchen behind me.%K%P
@@ -555,10 +555,10 @@ It felt like I heard a faint sigh from the kitchen behind me.%K%P
 Just as instructed, I begin to set the table.%K%P
 0xD04
 作業をしているオレのかたわらで、優夏と遙はソファにもたれてＴＶを見ていた。%K%P
-Yuka and Haruka are reclining on a sofa nearby,%Nwatching TV.%K%P
+Yuka and Haruka are reclining on a sofa nearby, watching TV.%K%P
 0xD10
 くるみは、床の上にペタンと座り込んで、なにやらメモ用紙か何かをいじっている。%K%P
-Kurumi is lying down flat on the floor, fiddling with note%Npaper for some reason.%K%P
+Kurumi is lying down flat on the floor, fiddling with note paper for some reason.%K%P
 0xD1C
 折り紙でもして遊んでいるのかもしれない。%K%P
 I think she's trying to use it for origami.%K%P

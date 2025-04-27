@@ -6,13 +6,13 @@ text area offset and size:
 After dinner, we all thank Izumi-san again for cooking.%K%P
 0x60
 料理はもちろんうまかったが、遙や沙紀のことがやはり気になっていた。%K%P
-Of course, her cooking was as good as always, but what%Nhappened between Haruka and Saki was still bothering%Nme.%K%P
+Of course, her cooking was as good as always, but what happened between Haruka and Saki was still bothering me.%K%P
 0x6C
 それはたぶんここにいる全員が%Nそう思っているだろう。%K%P
 I think everyone else feels the same way.%K%P
 0x78
 食事も終わり再びいやな沈黙が流れる中……。%K%P
-Now that the meal's ended, we're stuck once again in an%Nunpleasant silence...%K%P
+Now that the meal's ended, we're stuck once again in an unpleasant silence...%K%P
 0xB8
 くるみ「ねぇねぇ、いいこと思い付いちゃった」%K%P
 Kurumi「Hey, Kurumi just got a good idea.」%K%P
@@ -30,7 +30,7 @@ Okuhiko「Huh?」%K%P
 Kurumi「How about having a Test of Courage there!!?」%K%P
 0x10C
 くるみもやはりこの重苦しい雰囲気に耐えられなかったんだろう。%K%N
-As I thought, Kurumi too probably couldn't stand the%Nawkward atmosphere any longer.%K%N
+As I thought, Kurumi too probably couldn't stand the awkward atmosphere any longer.%K%N
 0x118
 そして、くるみなりに気を使ったのだろう。%K%P
 This is probably her way of taking us into consideration.%K%P
@@ -57,19 +57,19 @@ Yuka「I-It's not like that at all!」%K%P
 Kurumi「Then it's settled!!」%K%P
 0x1B0
 結局、オレ達はくるみに押し切られるかたちで肝だめしをすることになった。%K%P
-In the end, it's decided that we'll go with Kurumi's plan and%Nhave a Test of Courage.%K%P
+In the end, it's decided that we'll go with Kurumi's plan and have a Test of Courage.%K%P
 0x244
 とはいっても、どうも沙紀のことがひっかかる。%K%N
 However, the whole Saki issue is still bugging me.%K%N
 0x250
 いっそのこと、沙紀を説得していっしょに連れてくることは出来ないだろうか？%K%P
-Is it really impossible to convince Saki to come along%Nwith us?%K%P
+Is it really impossible to convince Saki to come along with us?%K%P
 0x25C
 ふとそんな考えも浮かんだが、あの性格では無理かもしれない。%K%N
-I start to toy with the idea, but after considering how%Nstubborn she is, I wonder whether or not just to forget%Nabout it.%K%N
+I start to toy with the idea, but after considering how stubborn she is, I wonder whether or not just to forget about it.%K%N
 0x268
 ここは、しばらく相手をしないで頭を冷やしてもらったほうが得策だろうか。%K%P
-It'll probably be better to just leave her alone for a while%Nso she can cool her head off.%K%P
+It'll probably be better to just leave her alone for a while so she can cool her head off.%K%P
 0x274
 さてどうしたものか？%K
 Well then, what should I do?%K
@@ -81,7 +81,7 @@ Go to the Test of Courage with everyone.
 I'm worried about Saki after all.
 0x2B4
 まあ、いま沙紀に関わらないほうが無難だろう。%K%P
-Well, it'd probably be safer not to concern myself with%Nher for now.%K%P
+Well, it'd probably be safer not to concern myself with her for now.%K%P
 0x2C0
 オレはそう思いくるみ達について行った。%K%P
 Content with my decision, I follow Kurumi and the others.%K%P
@@ -99,4 +99,4 @@ Kurumi「What!? Onii-chan, you're just scared, right?」%K%P
 Makoto「Yeah, maybe.」%K%P
 0x320
 オレはくるみのふてくされた表情を後にして、沙紀の別荘に再び向かった。%K%P
-I head for Saki's summer house once again, leaving%Nbehind a sulky Kurumi.%K%P
+I head for Saki's summer house once again, leaving behind a sulky Kurumi.%K%P

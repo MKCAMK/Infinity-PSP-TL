@@ -3,7 +3,7 @@ text area offset and size:
 0x1452
 0x5C
 沙紀の家に着いたものの、やはり呼び鈴を押しても沙紀は出てこない。%K%N
-I reach Saki's house, but as expected, she doesn't%Ncome out when I ring the doorbell.%K%N
+I reach Saki's house, but as expected, she doesn't come out when I ring the doorbell.%K%N
 0x68
 ここは大声で呼んでみることにした。%K%P
 I decide to try shouting.%K%P
@@ -30,10 +30,10 @@ I'll just give up.
 Break in.
 0xE4
 しょうがない、沙紀のことはあきらめてみんなと肝だめしにいこう。%K%P
-It can't be helped. I'll give up on Saki and just go to the%NTest of Courage with the others.%K%P
+It can't be helped. I'll give up on Saki and just go to the Test of Courage with the others.%K%P
 0x128
 そう決心して建物の周りをぐるっと観察し始めた。%K%N
-My mind made up, I begin to survey the building's%Nperimeter by circling it.%K%N
+My mind made up, I begin to survey the building's perimeter by circling it.%K%N
 0x134
 入り口を探してうろうろしていると……。%K%P
 I wander aimlessly, looking for an entrance...%K%P
@@ -57,7 +57,7 @@ Saki「Well, I don't!」%K%P
 Saki gives me a 「hmph」, and tries to slam the door shut.%K%N
 0x198
 扉が閉まる寸前、オレは沙紀の腕をつかみ、強引に引き寄せた。%K%P
-Just before the door closes, I grab Saki's arm, and%Nforcibly pull her towards me.%K%P
+Just before the door closes, I grab Saki's arm, and forcibly pull her towards me.%K%P
 0x1AC
 沙紀「触らないで！」%K%P
 Saki「Don't touch me!」%K%P
@@ -69,13 +69,13 @@ Makoto「Hey... how did you know that Haruka was a clone?」%K%P
 Saki「...」%K%P
 0x1D8
 誠「昨日のことが何か関係してるんじゃないか？」%K%P
-Makoto「It has something to do with what happened yesterday,%Nright?」%K%P
+Makoto「It has something to do with what happened yesterday, right?」%K%P
 0x1E4
 沙紀「……」%K%P
 Saki「...」%K%P
 0x1F0
 誠「海でのことだよ。そうなんだろう？」%K%P
-Makoto「I'm talking about what happened by the ocean. You%Nremember, don't you?」%K%P
+Makoto「I'm talking about what happened by the ocean. You remember, don't you?」%K%P
 0x204
 沙紀「……」%K%P
 Saki「...」%K%P
@@ -111,19 +111,19 @@ But then...%K%P
 Saki「No!!」%K%P
 0x290
 ……沙紀はオレの腕を振り払いのけ、別荘の中へと駆け込んでしまった。%K%P
-... Saki shakes my arm off and retreats into her summer%Nhouse.%K%P
+... Saki shakes my arm off and retreats into her summer house.%K%P
 0x29C
 すぐにその後を追うべく、裏口の扉に手をかけたのだが……。%K%P
-I think to immediately go after her and try to open the%Nback door, but then...%K%P
+I think to immediately go after her and try to open the back door, but then...%K%P
 0x2E0
 小さな唸り声とともに、突如ふくらはぎに鋭い痛みを感じた。%K%P
-I hear a small growl when a sharp pain spreads%Nthroughout my leg.%K%P
+I hear a small growl when a sharp pain spreads throughout my leg.%K%P
 0x2EC
 誠「イテッ！」%K%P
 Makoto「Ow!!」%K%P
 0x2F8
 見ると、犯人は犬だった。薄汚れた野良犬だ。まだ生まれて間もないのか、やたらと小さい。%K%P
-I look and see the perpetrator is a slightly dirty dog. It's%Nan extremely small puppy, clearly only a few months old%Nat most.%K%P
+I look and see the perpetrator is a slightly dirty dog. It's an extremely small puppy, clearly only a few months old at most.%K%P
 0x304
 誠「やめろ、コラッ、離れろ！」%K%P
 Makoto「Damn it, get off of me!」%K%P
@@ -132,43 +132,43 @@ Makoto「Damn it, get off of me!」%K%P
 I desperately tear the puppy off of my leg.%K%P
 0x338
 こうして正体がわかってしまうと、妙にかわいらしい程度の唸り声だ。%K%P
-When it realizes what I'm doing, it lets out a strangely%Nsweet growl.%K%P
+When it realizes what I'm doing, it lets out a strangely sweet growl.%K%P
 0x344
 それでも１歩も引かないという感じであり、オレはその場を動けなくなった。%K%P
-I get the sense that the dog isn't going to budge even a%Nstep, so I can't advance into the house.%K%P
+I get the sense that the dog isn't going to budge even a step, so I can't advance into the house.%K%P
 0x350
 誠「こんにゃろぉ〜！」%K%P
 Makoto「You bastard!」%K%P
 0x35C
 オレは子犬とにらみ合いを続けたが%W%W%W……結局、オレが負けてやった。%K%P
-The puppy and I continue to glare at each other ... but in%Nthe end, I lose.%K%P
+The puppy and I continue to glare at each other ... but in the end, I lose.%K%P
 0x368
 こんな小さな子犬相手にムキになっても%Nしかたがない。%K%P
 It's pointless to get pissed off at such a small dog.%K%P
 0x374
 誠「まったく、こんなことだったらやっぱり肝だめしに行くんだったな……」%K%P
-Makoto「Damn it, if I'd known it would end up like this, then I would%Nhave gone to the Test of Courage after all...」%K%P
+Makoto「Damn it, if I'd known it would end up like this, then I would have gone to the Test of Courage after all...」%K%P
 0x380
 ぼやきつつ、オレは犬をなだめながら、ぬき足さし足で裏庭を後にした。%K%P
-I grumble to myself, then calm down the dog and leave%Nthrough the backyard.%K%P
+I grumble to myself, then calm down the dog and leave through the backyard.%K%P
 0x404
 ロッジに戻ると、オレはひとり物思いにふけっていた。%K%P
-When return to the lodge, I contemplate the situation in%Nsolitude.%K%P
+When return to the lodge, I contemplate the situation in solitude.%K%P
 0x410
 （沙紀と遙……昨日あの防波堤で、何を話していたんだろう……？）%K%P
-(Saki and Haruka... what did they fight about on the pier%Nyesterday...?)%K%P
+(Saki and Haruka... what did they fight about on the pier yesterday...?)%K%P
 0x41C
 （『あんなもの』って、いったい何なんだ？）%K%P
 (Just what is 「that thing」?)%K%P
 0x428
 ふと、リビングのテーブルの上に置かれたバスケットが目に入った。%K%P
-Suddenly, the ruined basket on the table catches my%Neyes.%K%P
+Suddenly, the ruined basket on the table catches my eyes.%K%P
 0x434
 グシャグシャになった沙紀のバスケット。%K%P
 Saki's now smashed basket.%K%P
 0x440
 オレは、沙紀が怒りにまかせてバスケットを踏み潰していた姿を思い出した。%K%P
-I remember the image of Saki stomping on the basket in%Nher anger.%K%P
+I remember the image of Saki stomping on the basket in her anger.%K%P
 0x44C
 誠「バスケット、か……」%K%P
 Makoto「The basket, huh...」%K%P
@@ -186,7 +186,7 @@ Makoto「The basket, huh...」%K%P
 How much time has passed...?%K%P
 0x500
 気がついたら、オレはバスケットを持ったまま、自分の部屋で眠っていた。%K%P
-When I come to, I'm holding the basket while lying down in%Nmy room.%K%P
+When I come to, I'm holding the basket while lying down in my room.%K%P
 0x50C
 誠「こんなになっちまって……」%K%P
 Makoto「It's completely busted, but...」%K%P
@@ -216,7 +216,7 @@ To me, this is a step towards trying to sway Saki.%K%P
 When she sees the fixed basket, Saki will be like...%K%P
 0x5B8
 沙紀「まあ、ありがとう。これ、気に入ってて、%N実はどうしようかと思ってたの。嬉しい。%N誠くんって器用なのね」%K%P
-Saki「Wow, thank you. This is my favorite basket; I'm glad you%Nfixed it. Honestly, I was worried about what I was going to%Ndo with it, but you're quite the handy one.」%K%P
+Saki「Wow, thank you. This is my favorite basket; I'm glad you fixed it. Honestly, I was worried about what I was going to do with it, but you're quite the handy one.」%K%P
 0x5C4
 誠「いやあ、それほどでもないけどね」%K%P
 Makoto「No, it wasn't that big of a deal.」%K%P
@@ -228,7 +228,7 @@ Saki「No, This kind of thing can't be replaced with money.」%K%P
 Makoto「Is that so? Things like this should be treated with care.」%K%P
 0x5E8
 沙紀「よくわかったわ……私、昨日はあんなこと言って……ごめんなさい」%K%P
-Saki「I know that quite well... And to think I said all those the%Nthings to you yesterday... I'm very sorry.」%K%P
+Saki「I know that quite well... And to think I said all those the things to you yesterday... I'm very sorry.」%K%P
 0x5F4
 誠「わかりゃいいんだよ、わかりゃあ……」%K%P
 Makoto「I understand. It's all right...」%K%P
@@ -237,19 +237,19 @@ Makoto「I understand. It's all right...」%K%P
 ... Something like that should happen.%K%N
 0x61C
 先に謝らせてしまえばこっちのもんだ。後から細かい難癖をつけようなどと思わないに違いない。%Nオレって、あったまいいッ……ウン、ウン。%K%P
-I guess I'll apologize first, though. After that, I don't think%Nit'll be any different from receiving a gentle scolding. I'm%Nso smart... yep, yep.%K%P
+I guess I'll apologize first, though. After that, I don't think it'll be any different from receiving a gentle scolding. I'm so smart... yep, yep.%K%P
 0x628
 ところがこれが浅知恵だったと言うべきか、やればやるほどドツボにはまるといった感じで、直すどころかかえってバラしているだけのようになってしまった。%K%P
-However, perhaps this wasn't such a good idea. Instead%Nof fixing the basket, I think I'm only making the damage%Nworse.%K%P
+However, perhaps this wasn't such a good idea. Instead of fixing the basket, I think I'm only making the damage worse.%K%P
 0x634
 やめた……。イライラしたオレがバスケットを片づけようとしたとき、くるみがふらっと部屋に入って来た。%K%P
-Screw it... As I'm about to put away the basket, Kurumi%Nsuddenly comes into the room.%K%P
+Screw it... As I'm about to put away the basket, Kurumi suddenly comes into the room.%K%P
 0x648
 オレは慌ててバスケットを隠そうとしたが……遅かった。%K%P
 I frantically try to hide the basket... but it's too late.%K%P
 0x654
 興味津々で、くるみが近寄って来る。仕方ない。オレは事情を話してやった。%K%P
-Her interest piqued, Kurumi comes closer. Oh well... I'll%Nexplain the situation.%K%P
+Her interest piqued, Kurumi comes closer. Oh well... I'll explain the situation.%K%P
 0x660
 誠「……と言う訳で、ちょっとカッコいいとこ見せようと思ったら……」%K%P
 Makoto「... Guess I might seem a little full of myself, though...」%K%P
@@ -267,13 +267,13 @@ Kurumi「Kurumi is deeply moved!」%K%P
 Makoto「R-Really?」%K%P
 0x6C0
 くるみ「これ、絶対沙紀さん、大事にしてると思うよ。%Nくるみにはわかるもん。けどお兄ちゃん、%Nこんなやり方じゃ、もっと壊してるのと一緒だよ」%K%P
-Kurumi「This is definitely important to Saki-san. Kurumi%Nunderstands that. But Onii-chan, you're only breaking it%Nmore this way.」%K%P
+Kurumi「This is definitely important to Saki-san. Kurumi understands that. But Onii-chan, you're only breaking it more this way.」%K%P
 0x6CC
 誠「……確かに」%K%P
 Makoto「... True.」%K%P
 0x6D8
 くるみ「しょーがない。その気持ちに免じてくるみがやったげる」%K%P
-Kurumi「Okay then. Since Kurumi appreciates your sentiment,%Nshe'll fix it for you.」%K%P
+Kurumi「Okay then. Since Kurumi appreciates your sentiment, she'll fix it for you.」%K%P
 0x6E4
 誠「いいよ、くるみ、そんなこと……」%K%P
 Makoto「It's fine, Kurumi. You don't have to...」%K%P
@@ -288,10 +288,10 @@ Makoto「Why?」%K%P
 Kurumi「Because... Kurumi feels sorry for Saki-san.」%K%P
 0x71C
 誠「可哀想って……くるみ、あの時沙紀は、お前のこと突き飛ばしてっ」%K%P
-Makoto「You feel sorry for her..? But Kurumi, Saki was the one who%Npushed you earlier, right?」%K%P
+Makoto「You feel sorry for her..? But Kurumi, Saki was the one who pushed you earlier, right?」%K%P
 0x730
 くるみ「だから可哀想なの。わかってないなあ。あれはくるみのことなんかじゃないの」%K%P
-Kurumi「That's why Kurumi feels sorry for her. You don't%Nunderstand. She didn't mean to do it.」%K%P
+Kurumi「That's why Kurumi feels sorry for her. You don't understand. She didn't mean to do it.」%K%P
 0x73C
 誠「えっ？」%K%P
 Makoto「Huh?」%K%P
@@ -300,13 +300,13 @@ Makoto「Huh?」%K%P
 Kurumi「Ah, geez! Anyway, Kurumi will take care of this!」%K%P
 0x75C
 唖然となっているオレを尻目に、くるみはバスケットを持って帰ってしまった。%K%P
-Kurumi throws me a glance as I dumbfoundedly watch her%Nleave with the basket.%K%P
+Kurumi throws me a glance as I dumbfoundedly watch her leave with the basket.%K%P
 0x768
 くるみにどれだけできるものやら心配だったが、オレがあのまま続けるよりマシだろう。%K%P
-I'm worried about whether Kurumi can fix it or not, but then%Nagain, I doubt I could do a better job than she can.%K%P
+I'm worried about whether Kurumi can fix it or not, but then again, I doubt I could do a better job than she can.%K%P
 0x774
 バスケットの事はくるみに任せ、オレは眠りに就くことにした……。%K%P
-I decide to leave the basket to Kurumi, and drift off to%Nsleep...%K%P
+I decide to leave the basket to Kurumi, and drift off to sleep...%K%P
 0x788
 誠「やっぱ、ちょっと無理っぽいよなぁ……」%K%P
 Makoto「I don't think I can do it...」%K%P

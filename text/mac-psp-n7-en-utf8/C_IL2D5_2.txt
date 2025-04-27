@@ -12,7 +12,7 @@ I'm visiting Lunabeach again.%K%P
 As usual, there are no customers.%K%P
 0x80
 いづみさんはテーブルの上にホオヅエをつきながら、ぼんやりと暗い海を眺めていた。%K%P
-Izumi-san lays her hands on the table while blankly%Nstaring out at the dark ocean.%K%P
+Izumi-san lays her hands on the table while blankly staring out at the dark ocean.%K%P
 0x94
 いづみ「いやな天気ね……」%K%P
 Izumi「The weather's not looking good...」%K%P
@@ -21,7 +21,7 @@ Izumi「The weather's not looking good...」%K%P
 Makoto「Yeah...」%K%P
 0xAC
 いづみ「『今夜から雨になる』って、さっき天気予報でそう言ってた」%K%P
-Izumi「The earlier weather forecast said that 'It will start raining%Ntonight.」%K%P
+Izumi「The earlier weather forecast said that 'It will start raining tonight.」%K%P
 0xB8
 誠「ははっ、天気予報もたまには当たるんだ」%K%P
 Makoto「Ha ha, looks like they're right for a change.」%K%P
@@ -39,7 +39,7 @@ Izumi「... Huh? ... Was the way I said that a bit weird?」%K%P
 A smile rises to my face, and I shake my head.%K%P
 0x114
 いづみさんは微笑みを返えし、視線を空に向けた。%K%P
-Izumi-san returns the smile, and stares off towards the%Nsky.%K%P
+Izumi-san returns the smile, and stares off towards the sky.%K%P
 0x120
 どんよりと、低く垂れ込めた灰色の雲……。%K%P
 The thick, grey clouds are low in the sky...%K%P
@@ -60,7 +60,7 @@ Makoto「But I thought you liked rain, Izumi-san.」%K%P
 Izumi「Yes... I like rain itself.」%K%P
 0x170
 いづみ「だけど、明日の雨のことを思うと……どうしても……ね？」%K%P
-Izumi「But when I think of tomorrow's rain... I remember... you%Nknow...」%K%P
+Izumi「But when I think of tomorrow's rain... I remember... you know...」%K%P
 0x17C
 誠「……不安、なの？」%K%P
 Makoto「... Are you nervous?」%K%P
@@ -72,7 +72,7 @@ Izumi-san nods while looking at the dark sky.%K%P
 Makoto「It's all right! There's nothing to worry about!」%K%P
 0x1A0
 誠「明日、２人でずっとこの店の中に閉じこもっていれば、何も起きるはずがないんだから！」%K%P
-Makoto「Tomorrow, if the two of us stay closed up in this shop,%Nnothing should happen!」%K%P
+Makoto「Tomorrow, if the two of us stay closed up in this shop, nothing should happen!」%K%P
 0x1AC
 いづみ「……そうかなぁ？」%K%P
 Izumi「... You think so?」%K%P
@@ -114,7 +114,7 @@ It's already too late to offer a rebuttal.%K%P
 Izumi「Remember what you said earlier?」%K%P
 0x274
 いづみ「『たとえ６日のあの時刻に、２人がベッドの中でうずくまっていたとしても、だからと言って、タイムスリップしないかどうかは、結局誰にもわからない』って……」%K%P
-Izumi「'For all we know, we could time travel again on the 6th at%Nthat time even if we're sleeping in our beds.%NNevertheless, in the end, no one knows if 'we will or won't%Ntime travel'...」%K%P
+Izumi「'For all we know, we could time travel again on the 6th at that time even if we're sleeping in our beds. Nevertheless, in the end, no one knows if 'we will or won't time travel'...」%K%P
 0x280
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -129,7 +129,7 @@ Izumi「About the true nature of the time travel... or its cause...」%K%P
 Izumi-san is certainly right.%K%P
 0x2B8
 心理学者としてのいづみさんの仮説──この現実が妄想だということを、オレ達２人は信じていない。%K%P
-The two of us don't believe the hypothesis of the%NIzumi-san as a psychologist―that this reality is a%Ndelusion.%K%P
+The two of us don't believe the hypothesis of the Izumi-san as a psychologist―that this reality is a delusion.%K%P
 0x2C4
 ならば、本当のタイムスリップの原因は何なのか？%K%P
 Then what is the true cause of the time travel?%K%P
@@ -144,7 +144,7 @@ Izumi「Hey, Makoto-kun?」%K%P
 Izumi「What if... what if, at that time...」%K%P
 0x2F4
 いづみ「私達以外の別の誰かが死んでいたとしたら……どうなってたのかな？」%K%P
-Izumi「If someone besides us dies... What do you think will%Nhappen?」%K%P
+Izumi「If someone besides us dies... What do you think will happen?」%K%P
 0x300
 誠「えっ！？」%K%P
 Makoto「What!?」%K%P
@@ -159,22 +159,22 @@ Makoto「That's...」%K%P
 Izumi「Then, what if it happens at a different time?」%K%P
 0x338
 いづみ「崖から落ちたのは昼間だったけど、同じ出来事が夜に起きていたとしたら……そしたらどうなってたのかな？」%K%P
-Izumi「What if, instead of during the day, we fall off the cliff in a%Nsimilar incident at night... If that happened, what would%Nhappen then?」%K%P
+Izumi「What if, instead of during the day, we fall off the cliff in a similar incident at night... If that happened, what would happen then?」%K%P
 0x344
 なにも、言い返すことができなかった。%K%P
 I can't answer her.%K%P
 0x350
 本当のタイムスリップの原因がわからない以上、いづみさんの言ってることは否定できない。%K%P
-Since I don't know the true cause of the time travel, I%Ncan't deny Izumi-san's words.%K%P
+Since I don't know the true cause of the time travel, I can't deny Izumi-san's words.%K%P
 0x35C
 ただ……%K%N
 However...%K%N
 0x368
 ただ今は……『鈴が消えたこと』……それが唯一、心のより所となっていた。%K%P
-However, right now... the bell is gone... That's the only%Nthing that gives me peace of mind.%K%P
+However, right now... the bell is gone... That's the only thing that gives me peace of mind.%K%P
 0x374
 あの鈴さえ無ければ、いつ、何が起きようと、まったく同じ歴史が繰り返すことはないはずだ。%K%P
-If that bell is gone, then even if something happens, the%Nexact same history shouldn't repeat itself.%K%P
+If that bell is gone, then even if something happens, the exact same history shouldn't repeat itself.%K%P
 0x380
 だから……%K%P
 That's why...%K%P
@@ -195,10 +195,10 @@ Izumi「Bell...?」%K%P
 Makoto「Izumi-san, you don't have that bell, do you?」%K%P
 0x3D0
 いづみさんはキュッと口を閉じたまま、ポケットの中に手を入れた。%K%P
-Izumi-san purses her lips, and puts her hand into her%Npocket.%K%P
+Izumi-san purses her lips, and puts her hand into her pocket.%K%P
 0x3DC
 握りしめた手の平をゆっくりと抜き出し、テーブルの上に置く。%K%P
-She firmly grasps something, pulls it out of her pocket%Nslowly, and places it on the table.%K%P
+She firmly grasps something, pulls it out of her pocket slowly, and places it on the table.%K%P
 0x3F0
 いづみ「昨日……くるみからもらったの……」%K%P
 Izumi「I got this from Kurumi... yesterday.」%K%P
@@ -216,7 +216,7 @@ Specifically, it's a 「star sand」 in a small glass bottle.%K%P
 Izumi「Yes... it's not that bell.」%K%P
 0x434
 昨日姫ヶ浜でくるみが拾ったもの……あの鈴ではなく星の砂。%K%P
-That's what Kurumi picked up at Princess Beach%Nyesterday... It's a star sand, not the bell.%K%P
+That's what Kurumi picked up at Princess Beach yesterday... It's a star sand, not the bell.%K%P
 0x440
 オレはほっと胸をなで下ろした。%K%P
 I breathe a sigh of relief.%K%P
@@ -246,10 +246,10 @@ Makoto「I... found the bell... on the night of the 1st.」%K%P
 Izumi「... Huh?」%K%P
 0x4F8
 誠「前と同じように月浜で拾って……コンクリートのカケラで、それを潰そうとしたんだ」%K%P
-Makoto「I found it on Moon Beach, just like last time... and tried to%Nsmash it with a piece of concrete.」%K%P
+Makoto「I found it on Moon Beach, just like last time... and tried to smash it with a piece of concrete.」%K%P
 0x504
 誠「もう２度と、オレ達の前に姿を現さないように……粉々に砕いてやろうと……」%K%P
-Makoto「I tried to smash it into pieces... so that it would never%Nappear before me ever again...」%K%P
+Makoto「I tried to smash it into pieces... so that it would never appear before me ever again...」%K%P
 0x518
 いづみ「…………」%K%P
 Izumi「...」%K%P
@@ -285,10 +285,10 @@ It's as if I'm looking at an old photograph.%K%P
 Makoto「No, but you see, it was night, so everything was dark...」%K%P
 0x5A4
 誠「きっとコンクリートに弾かれて、どっか遠くに転がっていったんだよ！」%K%P
-Makoto「When it was hit by the concrete, the pieces must have%Nflown far away!」%K%P
+Makoto「When it was hit by the concrete, the pieces must have flown far away!」%K%P
 0x5B0
 いづみさんの深刻な顔を見て、オレは取りつくろうように弁解した。%K%P
-I try to rationalize the situation while looking at%NIzumi-san's serious expression.%K%P
+I try to rationalize the situation while looking at Izumi-san's serious expression.%K%P
 0x5BC
 誠「とにかく、鈴はもう無くなったんだから……」%K%P
 Makoto「Anyway, the bell's already gone...」%K%P
@@ -300,7 +300,7 @@ Makoto「I don't have it, and you don't have it.」%K%P
 Makoto「I don't think any of the others have it either...」%K%P
 0x5E0
 誠「──同じ出来事が繰り返すなんてことは、絶対にあり得ない！」%K%P
-Makoto「―So that means it's absolutely impossible for the%Nsame event to repeat itself!」%K%P
+Makoto「―So that means it's absolutely impossible for the same event to repeat itself!」%K%P
 0x5EC
 誠「だから……」%K%P
 Makoto「That's why...」%K%P
@@ -315,7 +315,7 @@ Makoto「There's nothing to be worried about!」%K%P
 ... I won't tell her about the bell's disappearance.%K%P
 0x634
 これ以上、余計な心配はかけたくなかったのだ。%K%P
-At this rate, there's no need give her anything more to%Nworry about.%K%P
+At this rate, there's no need give her anything more to worry about.%K%P
 0x640
 誠「それじゃあやっぱり、何も起きるはずがないよ！」%K%P
 Makoto「So nothing should happen after all!」%K%P
@@ -324,13 +324,13 @@ Makoto「So nothing should happen after all!」%K%P
 I try to act as cheerful as possible.%K%P
 0x658
 誠「鈴さえなければ、同じ出来事が繰り返すなんてことは、絶対にあり得ないんだから！」%K%P
-Makoto「If that bell is gone, then even if something happens, the%Nexact same history can't repeat itself!」%K%P
+Makoto「If that bell is gone, then even if something happens, the exact same history can't repeat itself!」%K%P
 0x664
 誠「大丈夫だって！　心配しなくても平気だよ！」%K%P
 Makoto「It's all right! Don't worry, everything will be okay!」%K%P
 0x694
 その言葉を聞いて、いづみさんの頬はかすかにゆるんだ。%K%P
-When she hears me, a faint smile appears on Izumi-san's%Nlips.%K%P
+When she hears me, a faint smile appears on Izumi-san's lips.%K%P
 0x6A0
 誠「そうそう！　笑顔笑顔！」%K%P
 Makoto「That's right! Smile!」%K%P
@@ -339,7 +339,7 @@ Makoto「That's right! Smile!」%K%P
 Makoto「Come on, just like you did at the barbecue!」%K%P
 0x6C0
 言いながら、いづみさんの頬を、両手で軽くつまんだ。%K%P
-As I say this, I lightly pinch Izumi-san's cheeks with my%Nhands.%K%P
+As I say this, I lightly pinch Izumi-san's cheeks with my hands.%K%P
 0x6CC
 どうしてそんな行動を取ったのか、自分でもよくわからない。%K%P
 Even I don't really know why I chose to do such a thing.%K%P
@@ -351,7 +351,7 @@ I just want Izumi-san to smile.%K%P
 I want to see her look at me with her usual kind smile.%K%P
 0x6F0
 ……プニッと両頬をつままれたその顔は、わけもなく可笑しかった。%K%P
-... I pinch and stretch her squishy cheeks, making her%Nface look comical.%K%P
+... I pinch and stretch her squishy cheeks, making her face look comical.%K%P
 0x6FC
 きょとんとした瞳、ふにゅ〜っと曲がったまゆ毛、びろ〜んと伸びたやわらかい頬。%K%P
 I swirl the eyebrows above her questioning eyes.%K%P
@@ -387,7 +387,7 @@ Izumi「Hee hee... hee hee hee hee...」%K%P
 Izumi「Ahahahahahaha...♪」%K%P
 0x780
 オレといづみさん……お互いの頬をつねりながら、涙を流して笑い合っていた。%K%P
-Izumi-san and I... pinch each other's cheeks while%Nlaughing so hard that we're crying.%K%P
+Izumi-san and I... pinch each other's cheeks while laughing so hard that we're crying.%K%P
 0x7A4
 するとそこに……%K%P
 Just then...%K%P
@@ -402,4 +402,4 @@ Kurumi「... Huh?」%K%P
 Kurumi「What are you two doing...?」%K%P
 0x7E4
 ２階から降りて来たくるみは、ポカ〜ンと口を開けていた。%K%P
-Kurumi descends from the second floor, and quickly%Nopens her mouth.%K%P
+Kurumi descends from the second floor, and quickly opens her mouth.%K%P

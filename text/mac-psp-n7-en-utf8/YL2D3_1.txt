@@ -3,16 +3,16 @@ text area offset and size:
 0xE70
 0x154
 オレと遙は防波堤の上で、のんびりと釣り糸を%N垂らしていた。%K%P
-Haruka and I are on the pier, leisurely dangling our%Nfishing lines.%K%P
+Haruka and I are on the pier, leisurely dangling our fishing lines.%K%P
 0x160
 既に、釣りの心得は遙に教えている。%K%P
-I've already taught Haruka everything I know about%Nfishing.%K%P
+I've already taught Haruka everything I know about fishing.%K%P
 0x16C
 前と同じ様に、遙は、釣っては逃がし、釣っては%N逃がしを繰り返した。%K%P
-Like the last time, Haruka constantly repeats the cycle%Nof catching a fish, then letting it go.%K%P
+Like the last time, Haruka constantly repeats the cycle of catching a fish, then letting it go.%K%P
 0x178
 （これだけ釣れれば、とりこになるのも無理はないな）%K%P
-(If she continues to fish like this, then she'll be hooked in%Nno time.)%K%P
+(If she continues to fish like this, then she'll be hooked in no time.)%K%P
 0x184
 ……そう思った。%K%P
 ... That's what I think.%K%P
@@ -66,7 +66,7 @@ Haruka「All right.」%K%P
 Makoto「I'm really sorry about this.」%K%P
 0x260
 謝ってから、道具一式をその場に残し、オレは%Nある場所へと向かった……。%K%P
-I apologize, leave her with all my gear, and head towards%Na certain place...%K%P
+I apologize, leave her with all my gear, and head towards a certain place...%K%P
 0x2F8
 誠「どうだ、優夏？　見つかったか？」%K%P
 Makoto「How's it going, Yuka? Did you find it?」%K%P
@@ -87,7 +87,7 @@ A bell is in Yuka's palm.%K%P
 Makoto「Phew... this makes two lifel...」%K%P
 0x378
 言おうとして、いまさらながら、そのことに%N気がついた。%K%P
-I try to say this, but then I notice something I didn't%Nearlier.%K%P
+I try to say this, but then I notice something I didn't earlier.%K%P
 0x394
 優夏の隣に、くるみがいること……。%K%P
 Right next to Yuka is Kurumi...%K%P
@@ -102,7 +102,7 @@ Yuka「Kurumi-chan also helped out.」%K%P
 Makoto「Huh!?」%K%P
 0x3D4
 くるみ「優夏さんのひいおじいちゃんの形見だって%N言うから……」%K%P
-Kurumi「Yuka-san said it was a memento of her great-grandpa,%Nso...」%K%P
+Kurumi「Yuka-san said it was a memento of her great-grandpa, so...」%K%P
 0x3E0
 くるみ「くるみ、一生懸命探したんだよ？」%K%P
 Kurumi「Kurumi looked very hard for it.」%K%P
@@ -150,10 +150,10 @@ Yuka「Here...」%K%P
 She whispers this very faintly into my ear.%K%P
 0x4BC
 くるみから見えないように背中で壁を作りながら、%N優夏はオレの手の平に、きゅっと何かを握らせた。%K%P
-While using her back as a wall so that Kurumi can't see,%NYuka puts something into my palm.%K%P
+While using her back as a wall so that Kurumi can't see, Yuka puts something into my palm.%K%P
 0x4C8
 ひんやりと冷たい感触……あえて見るまでもなく、%Nそれが何であるかはすぐにわかった。%K%P
-I feel a cool sensation... I don't even need to see it to%Nknow what it is.%K%P
+I feel a cool sensation... I don't even need to see it to know what it is.%K%P
 0x4DC
 優夏「これは、誠のだから……ね？」%K%P
 Yuka「This is yours... right?」%K%P
@@ -165,13 +165,13 @@ Yuka says this, then gives me a light tap on my shoulder.%K%P
 Kurumi「Hold on, you two... what are you doing?」%K%P
 0x508
 くるみの声を聞き、優夏は飛び跳ねるようにして%Nオレのそばを離れた。%K%P
-When she hears Kurumi's voice, Yuka jumps up and%Nmoves away from me.%K%P
+When she hears Kurumi's voice, Yuka jumps up and moves away from me.%K%P
 0x524
 優夏「ううん、別に。なんでもない、なんでもない」%K%P
 Yuka「Nothing really. It's nothing, it's nothing.」%K%P
 0x530
 くるみ「なんでもないってことないでしょ？　怪しすぎるよ、今の行動は！」%K%P
-Kurumi「It's not nothing, is it? What you did just now was too%Nsuspicious!」%K%P
+Kurumi「It's not nothing, is it? What you did just now was too suspicious!」%K%P
 0x544
 優夏「そうかなぁ〜？」%K%P
 Yuka「You think so〜?」%K%P
@@ -186,19 +186,19 @@ Kurumi scrutinizingly glares at us while furrowing her brow.%K%P
 Makoto「Well then, see you, Kurumi!」%K%P
 0x584
 これ以上つっこまれても厄介なので、オレは%N逃げるようにして、その場を立ち去ることにした。%K%P
-At this rate, things are going to get troublesome. I%Ndecide to leave, and start to run away.%K%P
+At this rate, things are going to get troublesome. I decide to leave, and start to run away.%K%P
 0x590
 くるみ「あっ！　ちょっと待ってよ、お兄ちゃん！」%K%P
 Kurumi「Ah! Wait a minute, Onii-chan!」%K%P
 0x60C
 くるみの声をようやく振り切って、オレは%N道の真ん中でひと息ついた。%K%P
-When Kurumi's voice is out of earshot, I stop in the%Ncenter of the road to take a short rest.%K%P
+When Kurumi's voice is out of earshot, I stop in the center of the road to take a short rest.%K%P
 0x618
 あとは、優夏が何とか誤魔化してくれるだろう……。%K%P
-Hopefully, Yuka will be able to lie her way out of that%Nsituation...%K%P
+Hopefully, Yuka will be able to lie her way out of that situation...%K%P
 0x624
 わざわざ月浜にまで行った理由は（これはもはや言わずと知れたことだが）もうひとつの鈴を、ちゃんと見つけることができたかどうか、それを確かめる為だった。%K%P
-The only reason why I went all the way to Moon Beach%N(which should be so obvious that I don't have to say it,%Nbut whatever) was to make sure whether or not Yuka%Ncould find the other bell.%K%P
+The only reason why I went all the way to Moon Beach (which should be so obvious that I don't have to say it, but whatever) was to make sure whether or not Yuka could find the other bell.%K%P
 0x630
 そして今、オレはしっかりとそれを手に入れることができた。%K%P
 Right now, I have it.%K%P
@@ -213,10 +213,10 @@ I reach into my pocket, as if to make sure it's still there.%K%P
 All that's left is that day...%K%N
 0x660
 ……５日から６日にかけて、オレが優夏のことをずっと監視していれば、何事も無く全ては過ぎ去って%N行くだろう。%K%P
-... As for the 5th and the 6th, if I keep an eye on Yuka the%Nwhole time, then nothing bad ought to happen.%K%P
+... As for the 5th and the 6th, if I keep an eye on Yuka the whole time, then nothing bad ought to happen.%K%P
 0x66C
 足早に歩きながら、オレはほっと胸を撫で下ろした。%K%P
-I feel a wave of relief wash through me as I walk briskly%Nback to the pier.%K%P
+I feel a wave of relief wash through me as I walk briskly back to the pier.%K%P
 0x6F0
 遙「おかえり」%K%P
 Haruka「Welcome back.」%K%P

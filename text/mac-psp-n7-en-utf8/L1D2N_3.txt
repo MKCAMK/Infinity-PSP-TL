@@ -51,7 +51,7 @@ Okuhiko「You're such a cold bastard.」%K%P
 Makoto「Besides, aren't you the one Saki has a thing for?」%K%P
 0x148
 オレは、にやにやしながら億彦の肩をたたき、冷やかすように言った。%K%P
-I smirk as I tease Okuhiko, jabbing his shoulder mockingly%Nwith my finger.%K%P
+I smirk as I tease Okuhiko, jabbing his shoulder mockingly with my finger.%K%P
 0x15C
 億彦「僕はそういうの苦手なんだよ」%K%P
 Okuhiko「I'm not good at these kinds of things.」%K%P
@@ -60,7 +60,7 @@ Okuhiko「I'm not good at these kinds of things.」%K%P
 Makoto「I see. Sucks to be you, then.」%K%P
 0x174
 オレはイヤミたっぷりにそう言って億彦と別れた。%K%P
-I walk away and leave Okuhiko behind with those%Nsarcastic words.%K%P
+I walk away and leave Okuhiko behind with those sarcastic words.%K%P
 0x1E0
 誠「しかたねえなぁ」%K%P
 Makoto「Sure, why not?」%K%P
@@ -69,7 +69,7 @@ Makoto「Sure, why not?」%K%P
 I guess I'll go with him to the clinic.%K%P
 0x1F8
 それに、遙のことで多少気になることもあるし……。%K%P
-Besides, I'm a little curious about what happened%Nbetween her and Haruka...%K%P
+Besides, I'm a little curious about what happened between her and Haruka...%K%P
 0x204
 オレ達が歩き出そうとすると、くるみが追いかけて来た。%K%P
 As we begin walking away, Kurumi follows us.%K%P
@@ -81,7 +81,7 @@ Kurumi「Okkun, Kurumi has something good to tell you.」%K%P
 Okuhiko「Hmm? What is it, Kurumi-chan?」%K%P
 0x238
 くるみ「沙紀さんね、海から助けてくれたの、おっくんだと思ってるみたい」%K%P
-Kurumi「It seems Saki-san thinks Okkun is the one who rescued%Nher from the sea.」%K%P
+Kurumi「It seems Saki-san thinks Okkun is the one who rescued her from the sea.」%K%P
 0x244
 億彦「え？」%K%P
 Okuhiko「Huh?」%K%P
@@ -99,7 +99,7 @@ Makoto「But if Izumi-san hears about this, she'll get angry.」%K%P
 Kurumi「Just forget about Onee-chan, okay!?」%K%P
 0x298
 億彦「わかるわかる、いづみさんもいけないよね、くるみちゃんの都合も聞かず病室に置き去りにして」%K%P
-Okuhiko「It's all right. It's not your fault she left you behind at the%Nclinic, even though you didn't want to.」%K%P
+Okuhiko「It's all right. It's not your fault she left you behind at the clinic, even though you didn't want to.」%K%P
 0x2AC
 くるみ「でしょ、でしょ？　ほらぁ、おっくん、わかってくれてる」%K%P
 Kurumi「Right, right? See Okkun, you do understand.」%K%P
@@ -108,40 +108,40 @@ Kurumi「Right, right? See Okkun, you do understand.」%K%P
 Makoto「...」%K%P
 0x2CC
 くるみは『ウムウム』とひとりうなずきながら、再びルナビーチへと帰って行った……。%K%P
-Kurumi nods to herself as she heads back to%NLunabeach again...%K%P
+Kurumi nods to herself as she heads back to Lunabeach again...%K%P
 0x348
 店仕舞いした商店街はひんやりと冷たく、さながらゴーストタウンのような雰囲気だ。%K%P
-The closed shopping district is cold and deserted,%Nmaking it feel like a ghost town.%K%P
+The closed shopping district is cold and deserted, making it feel like a ghost town.%K%P
 0x354
 こんな中を億彦なんかと２人で歩いて行くなんて、オレの人生の予定には入ってなかった筈だが……。%K%P
-I would never have imagined walking alone with Okuhiko in%Nmy entire life...%K%P
+I would never have imagined walking alone with Okuhiko in my entire life...%K%P
 0x360
 しかし億彦がオレを誘うなんて珍しい。%K%N
 Anyway, it's unusual for Okuhiko to invite me along.%K%N
 0x36C
 コイツがわざわざ男のオレを誘うのだから、何か魂胆があるに違いない。%K%P
-If he's bringing me, a guy, along, he must be planning%Nsomething.%K%P
+If he's bringing me, a guy, along, he must be planning something.%K%P
 0x378
 そう思っていると、案の定億彦が話しかけてきた。%K%P
 Sure enough, Okuhiko starts to talk to me.%K%P
 0x38C
 億彦「石原。沙紀ちゃんが海に落ちる前、遙ちゃんと何か話してたの知ってるか？」%K%P
-Okuhiko「Ishihara. Before Saki-chan fell into the ocean, did you%Nknow she was arguing with Haruka-chan?」%K%P
+Okuhiko「Ishihara. Before Saki-chan fell into the ocean, did you know she was arguing with Haruka-chan?」%K%P
 0x398
 誠「ああ、いつもの遙らしくなかったな……」%K%P
 Makoto「Yeah, it wasn't like Haruka at all...」%K%P
 0x3A4
 億彦「遙ちゃんが何を言ってたのか知りたいだろう？」%K%P
-Okuhiko「You want to know what Haruka-chan was saying too,%Nright?」%K%P
+Okuhiko「You want to know what Haruka-chan was saying too, right?」%K%P
 0x3B0
 誠「億彦、遙には聞いてみたのか？」%K%P
 Makoto「Have you tried asking Haruka?」%K%P
 0x3BC
 億彦「君は鈍いね。こういうことは察してあげることが大事じゃないか？」%K%P
-Okuhiko「You're thickheaded. It's more important to sympathize%Nwith her instead of asking directly, right?」%K%P
+Okuhiko「You're thickheaded. It's more important to sympathize with her instead of asking directly, right?」%K%P
 0x3C8
 誠「はあ？　察するって、お前、沙紀には聞くんだろ？」%K%P
-Makoto「What? By 'sympathize', you mean you're going to ask%NSaki, right?」%K%P
+Makoto「What? By 'sympathize', you mean you're going to ask Saki, right?」%K%P
 0x3D4
 億彦「まさか。僕は聞くわけないじゃないか」%K%P
 Okuhiko「No way. There's no way I would ask her.」%K%P
@@ -171,10 +171,10 @@ Either way, I just want to check up on Saki.%K%P
 Kurumi was right.%K%N
 0x4B8
 沙紀は、すっかり億彦を命の恩人だと思い込んでいるようだ。%K%P
-Saki completely believes it was Okuhiko who saved her%Nlife.%K%P
+Saki completely believes it was Okuhiko who saved her life.%K%P
 0x4C4
 億彦はそれを否定しようともしない。逆に利用しようとしている。%K%N
-He isn't even denying it. On the contrary, he's embracing%Nthis.%K%N
+He isn't even denying it. On the contrary, he's embracing this.%K%N
 0x4D0
 全く何て奴だ。%K%P
 What a despicable bastard...%K%P
@@ -183,31 +183,31 @@ What a despicable bastard...%K%P
 Okuhiko「Hey, Ishihara, isn't that right?」%K%P
 0x4F0
 何が『な』だ。馴れ馴れしくすんな。%K%N
-What the hell's up with that 「Hey」? It's like he thinks we're%Nbest friends.%K%N
+What the hell's up with that 「Hey」? It's like he thinks we're best friends.%K%N
 0x4FC
 しかし、億彦は何度もオレに相槌を求め、ついには足を踏みつけた。%K%P
-However, after I ignore him for the umpteenth time, he%Nfinally stomps his foot.%K%P
+However, after I ignore him for the umpteenth time, he finally stomps his foot.%K%P
 0x508
 （わかった。わかったよ、まったく……）%K%P
 (I get it. I get it, for God's sake...)%K%P
 0x514
 『遙とのことを早く聞け』と言いたいらしい。%K%P
-It's clear he wants me to ask about what happened with%NHaruka.%K%P
+It's clear he wants me to ask about what happened with Haruka.%K%P
 0x520
 誠「ところで、あのとき遙と何を話してたんだよ？」%K%P
-Makoto「By the way, what were you talking to Haruka about at%Nthat time?」%K%P
+Makoto「By the way, what were you talking to Haruka about at that time?」%K%P
 0x52C
 沙紀「……」%K%P
 Saki「...」%K%P
 0x540
 億彦「え？　あの時？　遙ちゃん？　何のことかな？」%K%P
-Okuhiko「Huh? At that time? Haruka-chan? What are you talking%Nabout?」%K%P
+Okuhiko「Huh? At that time? Haruka-chan? What are you talking about?」%K%P
 0x554
 しらじらしい億彦の言葉を、オレはイラつきながら無視した。%K%P
 I try to ignore the urge to punch Okuhiko in the face.%K%P
 0x560
 誠「高波が来る前だよ。%N遙になんだか話しかけられてただろ？　その後、沙紀が逃げるように防波堤を走って行って……」%K%P
-Makoto「Just before the monstrous wave hit, you were talking%Nwith Haruka, right? After that, you ran all the way towards%Nthe tip of the pier...」%K%P
+Makoto「Just before the monstrous wave hit, you were talking with Haruka, right? After that, you ran all the way towards the tip of the pier...」%K%P
 0x56C
 沙紀「あ、あの……遙ちゃんに何か聞いたの？」%K%P
 Saki「U-Um... did you hear something from Haruka-chan?」%K%P
@@ -228,7 +228,7 @@ Keep pressing her.
 If she doesn't want to talk, then forget it.
 0x5D0
 誠「何でもないって感じじゃなかったぞ？　遙を、こう沙紀が振り払うようにしてっ」%K%P
-Makoto「It sure didn't look like it was nothing. After all, you%Npractically pushed Haruka off of you!」%K%P
+Makoto「It sure didn't look like it was nothing. After all, you practically pushed Haruka off of you!」%K%P
 0x5DC
 沙紀「そんなことしてない」%K%P
 Saki「I never did something like that.」%K%P
@@ -249,7 +249,7 @@ Saki「Nothing... we weren't talking about anything at all!」%K%P
 Makoto「You're lying.」%K%P
 0x624
 沙紀「な、何なの？　どうして、そんな言い方するの？　何か私に恨みでもあるわけ？」%K%P
-Saki「Wh-What's with you!? Why are you talking like that? Do%Nyou have a grudge against me or something?」%K%P
+Saki「Wh-What's with you!? Why are you talking like that? Do you have a grudge against me or something?」%K%P
 0x630
 誠「別にそういうわけじゃないけど」%K%P
 Makoto「It's nothing like that at all.」%K%P
@@ -267,13 +267,13 @@ Okuhiko「Ishihara, back off. Quit interrogating her.」%K%P
 Makoto「D-Damn you...」%K%P
 0x67C
 億彦「出て行きたまえ。傷ついた女性を責めるなんて最低だな」%K%P
-Okuhiko「Leave right now. You're terrible, pestering a wounded%Nwoman.」%K%P
+Okuhiko「Leave right now. You're terrible, pestering a wounded woman.」%K%P
 0x688
 誠「傷ついた女性……って、沙紀はケガなんかしてないんじゃなかったっけ？」%K%P
-Makoto「A wounded woman... But Saki's injuries aren't even all that%Nserious, are they?」%K%P
+Makoto「A wounded woman... But Saki's injuries aren't even all that serious, are they?」%K%P
 0x694
 億彦「あんなことがあった後なんだぞ、心に傷を受けている。そのくらいのことがわからないのか？」%K%P
-Okuhiko「You're rubbing salt in her heart's wounds. Can't you%Nunderstand that much?」%K%P
+Okuhiko「You're rubbing salt in her heart's wounds. Can't you understand that much?」%K%P
 0x6A0
 誠「…………」%K%P
 Makoto「...」%K%P
@@ -291,10 +291,10 @@ Makoto「...」%K%P
 Saki「What!? What is it!?」%K%P
 0x6EC
 沙紀「どうしてそんな目で見るのよ！　私が何をしたっていうの？」%K%P
-Saki「Why are you looking at me with those eyes!? What do%Nyou want from me?」%K%P
+Saki「Why are you looking at me with those eyes!? What do you want from me?」%K%P
 0x6F8
 誠「別に沙紀を責めているわけじゃない。……ただ本当のことが知りたいだけなんだ」%K%P
-Makoto「It's not like I'm trying to pester you... I just want to know%Nthe truth.」%K%P
+Makoto「It's not like I'm trying to pester you... I just want to know the truth.」%K%P
 0x704
 沙紀「…………」%K%P
 Saki「...」%K%P
@@ -342,10 +342,10 @@ I defensively raise my voice.%K%P
 At that time, I look at Saki.%K%N
 0x7C8
 沙紀は億彦の腕にすがりつき、頼り切ったように身を寄せて震えている。%K%P
-She's clinging to Okuhiko's arm, leaning on him while%Ntrembling as if she's relying on him.%K%P
+She's clinging to Okuhiko's arm, leaning on him while trembling as if she's relying on him.%K%P
 0x7D4
 オレは、何だかバカバカしくなってきた。これじゃあもう、まともな話なんかできるわけがない。%K%P
-I must sound ridiculous right now. There's no way I can do%Nsomething like have a direct conversation with her like%Nthis.%K%P
+I must sound ridiculous right now. There's no way I can do something like have a direct conversation with her like this.%K%P
 0x7F0
 沙紀「帰って！」%K%P
 Saki「Get out!」%K%P

@@ -3,13 +3,13 @@ text area offset and size:
 0x1A10
 0x54
 オレと優夏は、例の『不思議な物体』の全てと、それぞれ２枚ずつ（億彦と遙の残した分を合わせて）の『炭』を平らげた。%K%P
-Yuka and I ate all of the 「Mysterious Object」, along with%Ntwo pieces each of the 「charcoal」, including Haruka and%NOkuhiko's share.%K%P
+Yuka and I ate all of the 「Mysterious Object」, along with two pieces each of the 「charcoal」, including Haruka and Okuhiko's share.%K%P
 0x60
 優夏は今、幸せそうに鼻歌なんぞ唄いながら、%Nキッチンで食器を洗っている。%K%P
-Right now, Yuka is happily humming while washing the%Ndishes.%K%P
+Right now, Yuka is happily humming while washing the dishes.%K%P
 0x6C
 彼女の幸福感は、オレが思うに、ただ単純に空腹感を満たしたことから生まれたものではなく、%Nきっと『少なくとも１人は自分の作った料理を食べてくれた』という満足感にも起因するのだろう。%K%P
-I think it's more of the fact that she can now say that%Nsomeone actually ate her cooking, rather than being full,%Nthat's the cause of her happiness.%K%P
+I think it's more of the fact that she can now say that someone actually ate her cooking, rather than being full, that's the cause of her happiness.%K%P
 0x78
 つまり、オレはその為の唯一の犠牲者となったのだ。%K%P
 In short, I became the sole sacrifice for that purpose.%K%P
@@ -24,10 +24,10 @@ I feel sick...%K%P
 I can feel my chest and throat filling up with nausea.%K%P
 0xA8
 思い切ってトイレにでも駆け込んでしまえば楽になるのかもしれないが、そんなことをすると、この世のものとは思えぬ物体を、再び目撃することにもなりかねない。%K%P
-I would rush to the bathroom as fast as I could, but if I%Nthrew up, I'd have to look at the monstrosity that nobody%Nshould ever have to suffer through seeing twice.%K%P
+I would rush to the bathroom as fast as I could, but if I threw up, I'd have to look at the monstrosity that nobody should ever have to suffer through seeing twice.%K%P
 0xB4
 ここはじっと堪えよう……。発作が治まるまで待つしかない。%K%P
-I have to endure it... I have to wait until my stomach calms%Ndown.%K%P
+I have to endure it... I have to wait until my stomach calms down.%K%P
 0xC0
 もう２度と、優夏に食事は作らせまい！と誓った。%K%N
 I swear that I'll never let Yuka cook ever again!%K%N
@@ -42,10 +42,10 @@ Just then, the doorbell rings from the front door.%K%P
 ―Huh?%K%P
 0x10C
 班員は計４名。ここにいるオレ達以外に来客の予定は無い筈だが……？%K%P
-Our group has four members. Nobody else was%Nscheduled to come here except for us, right...?%K%P
+Our group has four members. Nobody else was scheduled to come here except for us, right...?%K%P
 0x118
 オレは床にうずくまったまま、キョロキョロと辺りを見回した。%K%P
-As I squat down on the floor, I survey the surrounding%Narea restlessly.%K%P
+As I squat down on the floor, I survey the surrounding area restlessly.%K%P
 0x124
 遙は、洗面台の前で歯を磨いているようだ。%K%P
 Haruka is brushing her teeth in front of the sink.%K%P
@@ -75,13 +75,13 @@ Man...%K%P
 Like an old man, I slowly wobble to my feet and stand up.%K%P
 0x1AC
 そして同じく老人のように腰を屈めたまま、ヨロヨロと玄関に向かって歩き出す。%K%P
-I take little steps to the front door while hunching over%Njust like one, too.%K%P
+I take little steps to the front door while hunching over just like one, too.%K%P
 0x1B8
 誠「はい。今、開けます」%K%P
 Makoto「Okay, I'm on it.」%K%P
 0x1C4
 オレは左手で胃の辺りを撫でながら、右手でドアを押し開いた。%K%P
-I massage my stomach with my left hand while opening%Nthe door with my right.%K%P
+I massage my stomach with my left hand while opening the door with my right.%K%P
 0x25C
 ？？「毎度ありがとうございま〜す♪」%K%P
 ???「Thank you very much for your continued patronage〜♪」%K%P
@@ -93,10 +93,10 @@ Makoto「... Huh?」%K%P
 Standing in the doorway is an innocent-looking girl.%K%P
 0x280
 この容姿から推測するに……たぶん中学生だろう。%K%P
-Judging from her appearance... I'd say she's probably a%Nmiddle-school student.%K%P
+Judging from her appearance... I'd say she's probably a middle-school student.%K%P
 0x28C
 右の手の平の上には、銀色の四角いバッグが乗せられている。%K%P
-Riding on top of her right palm is a square, silver colored%Nbag.%K%P
+Riding on top of her right palm is a square, silver colored bag.%K%P
 0x2A8
 ？？「ご注文のシーフードピザ、%Nお届けに参りましたぁ」%K%P
 ???「Here's the seafood pizza you ordered!」%K%P
@@ -108,13 +108,13 @@ Makoto「Seafood pizza? I never ordered anything like that...」%K%P
 ???「What!?」%K%P
 0x2CC
 少女は動揺の色を浮かべながら、空いた左手でポケットを探り、１枚の紙切れを取り出した。%K%P
-A disturbed expression clouds her face as she%Nsearches through her pocket with her free hand until%Nshe pulls out a scrap of paper.%K%P
+A disturbed expression clouds her face as she searches through her pocket with her free hand until she pulls out a scrap of paper.%K%P
 0x2D8
 ？？「でも、伝票には確かに『シーフードピザ』って書いてあるよ？」%K%P
-???「But the receipt definitely says you ordered a 'Seafood%NPizza', didn't you?」%K%P
+???「But the receipt definitely says you ordered a 'Seafood Pizza', didn't you?」%K%P
 0x2E4
 いきなりタメぐちに変わってしまう所に、子供のお使い的な匂いを感じさせる。%K%P
-Suddenly, she stops speaking formally, making her feel%Nlike a little kid on an errand.%K%P
+Suddenly, she stops speaking formally, making her feel like a little kid on an errand.%K%P
 0x2F0
 誠「いや、だからそういう意味じゃなくて、何も注文なんかしてないってこと」%K%P
 Makoto「No, that's not what I mean. You see, I didn't order anything.」%K%P
@@ -132,7 +132,7 @@ She checks the receipt again.%K%P
 As she says this, she shows me the receipt.%K%P
 0x32C
 しかし、オレがここの住所を暗記している筈もない。%K%P
-However, there's no way I would have memorized the%Nlodge's address.%K%P
+However, there's no way I would have memorized the lodge's address.%K%P
 0x338
 誠「じゃあ、ちょっと待ってて」%K%P
 Makoto「Then wait a second.」%K%P
@@ -150,7 +150,7 @@ Yuka「Why would I do that?」%K%P
 Makoto「What about you, Okuhiko?」%K%P
 0x3A0
 背中を向けたまま、手の平を軽く振って『ＮＯ』を示す億彦。%K%P
-With his back turned to me, Okuhiko lightly waves his palm,%Nindicating a 「no.」%K%P
+With his back turned to me, Okuhiko lightly waves his palm, indicating a 「no.」%K%P
 0x3AC
 残るは遙か……。%K%P
 All that's left is Haruka...%K%P
@@ -246,7 +246,7 @@ Makoto「Aha ha ha ha ha!」%K%P
 I unintentionally laugh.%K%P
 0x54C
 何で最初っから確かめなかったんだろう？　届け先の名前さえ聞けば、即座に解決できる問題だったのに。%K%P
-Of course! Why didn't I just check that first? Had I just%Nasked for the receiver's name, I could have cleared up%Nthis misunderstanding immediately!%K%P
+Of course! Why didn't I just check that first? Had I just asked for the receiver's name, I could have cleared up this misunderstanding immediately!%K%P
 0x558
 全くオレも、間の抜けた男だ。%K%P
 Geez, I'm such a blockhead...%K%P
@@ -264,7 +264,7 @@ That abrupt shout surprises the girl.%K%P
 Makoto「What is it, Okuhiko?」%K%P
 0x5C8
 億彦は、いつの間にかオレの隣に立っていた。%K%P
-Okuhiko had walked over without me noticing it, and is%Ncurrently standing next to me.%K%P
+Okuhiko had walked over without me noticing it, and is currently standing next to me.%K%P
 0x5DC
 億彦「あ、どうもご苦労様ぁ〜」%K%P
 Okuhiko「Ah, thank you for all your trouble〜」%K%P
@@ -282,7 +282,7 @@ Makoto「What the hell are you saying? You're the Iida...」%K%P
 Okuhiko instantly shuts me up with a dirty glare...%K%P
 0x630
 億彦「そうそう、飯田材木店のバイトの店員、朝倉億彦です」%K%P
-Okuhiko「Right, right, I'm the Iida Lumber Store's part-time clerk,%NOkuhiko Asakura.」%K%P
+Okuhiko「Right, right, I'm the Iida Lumber Store's part-time clerk, Okuhiko Asakura.」%K%P
 0x63C
 オレ達のやり取りを不思議そうに見守っていた少女は……%K%P
 The girl watches our little exchange with curiosity...%K%P
@@ -300,7 +300,7 @@ Okuhiko「So, where's the pizza?」%K%P
 ???「R-Right...」%K%P
 0x6A0
 少し慌てたような忙しない動作で、銀色のバッグから正方形の薄い箱を取り出す少女。%K%P
-Slightly flustered, the girl pulls a thin box out of the%Nsilver bag.%K%P
+Slightly flustered, the girl pulls a thin box out of the silver bag.%K%P
 0x6B4
 ？？「こちらがご注文の品になります」%K%P
 ???「Here is your order!」%K%P
@@ -315,7 +315,7 @@ Okuhiko「How much is it?」%K%P
 ???「1200 yen.」%K%P
 0x6F4
 億彦が、ポケットから代金を取り出し、それを少女に手渡す。%K%P
-Okuhiko takes some money out of his pocket, and gives%Nit to the girl.%K%P
+Okuhiko takes some money out of his pocket, and gives it to the girl.%K%P
 0x700
 受け取った少女は……%K%P
 After she takes it...%K%P
@@ -327,13 +327,13 @@ After she takes it...%K%P
 ... she gives a deep bow before energetically running off.%K%P
 0x73C
 後ろ姿を見送る億彦の横顔が、にんまりとほころんでいる。%K%P
-Okuhiko gives a smug smile as he sees off the girl's%Nretreating figure.%K%P
+Okuhiko gives a smug smile as he sees off the girl's retreating figure.%K%P
 0x748
 なるほど、そういうことか……。%K%P
 I see, so that's how it is...%K%P
 0x754
 ここに来て、オレはようやく億彦の魂胆を見抜くことができた。%K%P
-I'm finally beginning to understand Okuhiko's ulterior%Nmotive for coming here.%K%P
+I'm finally beginning to understand Okuhiko's ulterior motive for coming here.%K%P
 0x7D8
 優夏「ちょっとちょっとぉ、それって%Nどういうことなのよぉ」%K%P
 Yuka「Hold on, hold on. Just what is going on here?」%K%P
@@ -342,16 +342,16 @@ Yuka「Hold on, hold on. Just what is going on here?」%K%P
 Well, I can't blame Yuka for getting sulky.%K%P
 0x7F0
 ソファの前のガラステーブル。その上に、少しだけ冷めたシーフードピザが置かれている。%K%P
-The slightly cold seafood pizza has been placed on top%Nof the glass table in front of the sofa.%K%P
+The slightly cold seafood pizza has been placed on top of the glass table in front of the sofa.%K%P
 0x804
 優夏「億彦くん……胃の調子が悪かったんじゃ%Nなかったの？」%K%P
-Yuka「Okuhiko-kun... wasn't your stomach not feeling very%Ngood?」%K%P
+Yuka「Okuhiko-kun... wasn't your stomach not feeling very good?」%K%P
 0x820
 億彦「ああ、なんか…ムシャムシャ…いつの間にか…ムシャムシャ…治ったみたいだ」%K%P
-Okuhiko「Yeah, but somehow... *munch munch*... before I knew it...%N*munch munch*... it looks like it got better.」%K%P
+Okuhiko「Yeah, but somehow... *munch munch*... before I knew it... *munch munch*... it looks like it got better.」%K%P
 0x834
 億彦が、そう言いながら次のピザへと手を伸ばす。%K%P
-As he says this, Okuhiko reaches out for another slice%Nof pizza.%K%P
+As he says this, Okuhiko reaches out for another slice of pizza.%K%P
 0x840
 優夏「遙……%Nさっきお腹空いてないって言わなかった？」%K%P
 Yuka「Haruka... didn't you say that you weren't hungry earlier?」%K%P
@@ -360,7 +360,7 @@ Yuka「Haruka... didn't you say that you weren't hungry earlier?」%K%P
 Haruka「Yes, earlier.」%K%P
 0x868
 表情も変えず、淡々と言い切る遙。%K%P
-She monotonously declares this with an unwavering%Nexpression.%K%P
+She monotonously declares this with an unwavering expression.%K%P
 0x874
 その小さな口で、ピザのカケラをかじっている。%K%P
 She nibbles at a slice of pizza with her small mouth.%K%P
@@ -396,7 +396,7 @@ Yuka nods in agreement.%K%P
 Haruka「...」%K%P
 0x934
 遙はそんなオレの言葉など意に介した様子もなく、次のカケラに手を伸ばす。%K%P
-Haruka seemingly ignores me as she reaches out for%Nanother slice of pizza.%K%P
+Haruka seemingly ignores me as she reaches out for another slice of pizza.%K%P
 0x948
 優夏「もぉー……。ま、もういいけどね……」%K%P
 Yuka「Geez... Well, I'm over it now...」%K%P
@@ -405,10 +405,10 @@ Yuka「Geez... Well, I'm over it now...」%K%P
 With a defeated look, Yuka drops down onto the sofa.%K%P
 0x968
 平然としながらも、ひたすら食にふける遙の姿は、どこか憎めないところがある。%K%P
-I find that I can't really stay mad at Haruka, who is calmly,%Nyet intently, eating her food.%K%P
+I find that I can't really stay mad at Haruka, who is calmly, yet intently, eating her food.%K%P
 0x974
 さながら、垢にまみれぬ純朴な少女、と言ったところか。%K%P
-She's just like any other honest, simple girl. At least,%Nthat's how I see it.%K%P
+She's just like any other honest, simple girl. At least, that's how I see it.%K%P
 0x980
 飾り気のない彼女の仕草を見ているだけで、オレの心はふわりと和んだ。%K%P
 My frustration dies down as I observe the placid girl.%K%P
