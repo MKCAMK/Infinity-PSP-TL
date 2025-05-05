@@ -2,6 +2,8 @@
 
 [ -z "$GAME" ] && export GAME=e17
 [ -z "$TL_SUFFIX" ] && export TL_SUFFIX=en
+[ "$GAME" = "e17" ] && [ "$TL_SUFFIX" = "ru" ] && [ -z "$TL_VARIANT" ] && export TL_VARIANT=dsp2003
+[ -n "$TL_VARIANT" ] && TL_VARIANT="-$TL_VARIANT"
 
 SIGN_NP=./tools/sign_np # placeholder
 if [ "$(uname)" = "Darwin" ]; then
@@ -20,4 +22,4 @@ fi
 
 mkdir -p pbp
 
-$SIGN_NP -pbp iso/${GAME}-${TL_SUFFIX}.iso pbp/EBOOT-${GAME}-${TL_SUFFIX}.PBP JP9000-${TID}_00-0000000000000001 0
+$SIGN_NP -pbp iso/${GAME}-${TL_SUFFIX}${TL_VARIANT}.iso pbp/EBOOT-${GAME}-${TL_SUFFIX}${TL_VARIANT}.PBP JP9000-${TID}_00-0000000000000001 0

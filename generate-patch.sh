@@ -2,8 +2,10 @@
 
 [ -z "$GAME" ] && export GAME=e17
 [ -z "$TL_SUFFIX" ] && export TL_SUFFIX=en
-REPACKED_ISO=./iso/${GAME}-${TL_SUFFIX}.iso
-PATCH_FILE=./patch/${GAME}-${TL_SUFFIX}.xdelta
+[ "$GAME" = "e17" ] && [ "$TL_SUFFIX" = "ru" ] && [ -z "$TL_VARIANT" ] && export TL_VARIANT=dsp2003
+[ -n "$TL_VARIANT" ] && TL_VARIANT="-$TL_VARIANT"
+REPACKED_ISO=./iso/${GAME}-${TL_SUFFIX}${TL_VARIANT}.iso
+PATCH_FILE=./patch/${GAME}-${TL_SUFFIX}${TL_VARIANT}.xdelta
 if [ "$GAME" = "r11" ]; then
 	ORIGINAL_ISO=./iso/Remember11-jap.iso
 elif [ "$GAME" = "n7" ]; then

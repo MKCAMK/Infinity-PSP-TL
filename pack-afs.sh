@@ -23,6 +23,10 @@ fi
 # change this for other translations
 # set to "en" if unset
 [ -z "$TL_SUFFIX" ] && export TL_SUFFIX=en
+[ "$GAME" = "e17" ] && [ "$TL_SUFFIX" = "ru" ] && [ -z "$TL_VARIANT" ] && export TL_VARIANT=dsp2003
+
+OTHER_TEXT_DIR="text/other-psp-${GAME}-${TL_SUFFIX}-${TL_VARIANT}"
+[ ! -d "$OTHER_TEXT_DIR" ] && OTHER_TEXT_DIR="text/other-psp-${GAME}-${TL_SUFFIX}"
 
 # Repack mac.afs (texts)
 repack_mac_afs () {
@@ -35,10 +39,10 @@ repack_mac_afs () {
 	mkdir -p ${GAME}_mac_${TL_SUFFIX}/
 	mkdir -p text/tmp-${GAME}/mac-psp-jp-${TL_SUFFIX}-names
 
-	$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/SHORTCUT.SCN.txt ${GAME}_mac/SHORTCUT.SCN ${GAME}_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX} || exit 1
+	$PY ./py-src/apply_shortcuts_translation.py "${OTHER_TEXT_DIR}/SHORTCUT.SCN.txt" ${GAME}_mac/SHORTCUT.SCN ${GAME}_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX} || exit 1
 	$COMPRESS ./${GAME}_mac_${TL_SUFFIX}/SHORTCUT.{SCN,BIP}
-	if [ -e text/other-psp-${GAME}-${TL_SUFFIX}/APPEND.SCN.txt ]; then
-		$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/APPEND.SCN.txt ${GAME}_mac/APPEND.SCN ${GAME}_mac_${TL_SUFFIX}/APPEND.SCN ${TL_SUFFIX} -a || exit 1
+	if [ -e "${OTHER_TEXT_DIR}/APPEND.SCN.txt" ]; then
+		$PY ./py-src/apply_shortcuts_translation.py "${OTHER_TEXT_DIR}/APPEND.SCN.txt" ${GAME}_mac/APPEND.SCN ${GAME}_mac_${TL_SUFFIX}/APPEND.SCN ${TL_SUFFIX} -a || exit 1
 		$COMPRESS ./${GAME}_mac_${TL_SUFFIX}/APPEND.{SCN,BIP}
 	fi
 
@@ -152,7 +156,7 @@ repack_etc_afs () {
 repack_init_bin () {
 	echo "Applying translation to init.bin"
 	# Apply init.bin strings
-	$PY ./py-src/apply_init_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/init.bin.utf8.txt $WORKDIR/init.dec $WORKDIR/init.dec.${TL_SUFFIX} ${TL_SUFFIX} || exit 1
+	$PY ./py-src/apply_init_translation.py "${OTHER_TEXT_DIR}/init.bin.utf8.txt" $WORKDIR/init.dec $WORKDIR/init.dec.${TL_SUFFIX} ${TL_SUFFIX} || exit 1
 
 	INIT_SRC=$WORKDIR/init.dec.${TL_SUFFIX}
 	if [ ! -f $INIT_SRC ]; then
@@ -169,7 +173,7 @@ repack_init_bin () {
 patch_boot_bin () {
 	# Apply translation
 	echo "Applying translation to BOOT"
-	$PY ./py-src/apply_boot_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/BOOT.utf8.txt $WORKDIR/BOOT.BIN $WORKDIR/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX} || exit 1
+	$PY ./py-src/apply_boot_translation.py "${OTHER_TEXT_DIR}/BOOT.utf8.txt" $WORKDIR/BOOT.BIN $WORKDIR/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX} || exit 1
 
 	if [ -e "./nowloading/nowloading-${TL_SUFFIX}.gim" ]; then
 		if [ "$GAME" = "e17" ]; then
