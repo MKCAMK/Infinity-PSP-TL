@@ -132,7 +132,8 @@ Data in the file starts right after the header. All data is 16-bit aligned. Thus
 In games supported by this repository, CNT containers mostly hold UI elements and system sound effects, compressed to "BIP".
 UI elements are 8-bit indexed GIM images, and sound effects are ADX audio files.
 
-The "TEX" container contains copies of the INFO, TEXT, GAME, OPTION, and TIPS containers.
+The "TEX" container contains copies of the SSE, INFO, TEXT, GAME, OPTION, and TIPS containers.
+All containers but SSE are additionally compressed to BIP.
 It seems that the aforementioned containers are only accessed through the TEX container by the game, essentially leaving the BIP files contained in etc.afs unused.
 
 "R11" image format

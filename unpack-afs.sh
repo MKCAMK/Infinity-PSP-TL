@@ -63,7 +63,9 @@ done
 for i in etc-${GAME}-${TL_SUFFIX}/*/ ; do
 	[ -d "$i" ] || continue
 	f=${i#*/}; f=${f%%/}
-	if ([ "$f" = "INFO" ] || [ "$f" = "TEXT" ]) && [ ! -d "${GAME}_etc/TEX" ]; then
+	if [ ! -d "${GAME}_etc/TEX" ] && ([ "$f" = "INFO" ] || [ "$f" = "TEXT" ] ||
+		[ "$f" = "GAME" ] || [ "$f" = "OPTION" ] || [ "$f" = "TIPS" ] || [ "$f" = "SSE" ])
+	then
 		$DECOMPRESS ${GAME}_etc/TEX{.BIP,.CNT} || exit 1
 		unpack_cnt TEX || exit 1
 	fi
@@ -83,9 +85,9 @@ cp ${GAME}_$PKG/FONT00.FNT text/font/${GAME}/FONT00.FNT
 #	$DECOMPRESS ${GAME}_$PKG/$f{.BIP,.R11} || exit 1
 #done
 #for i in ${GAME}_$PKG/*.T2P; do
-#        f=$(basename $i .T2P)
-#        #echo "Decompressing $f"
-#        $DECOMPRESS ${GAME}_$PKG/$f{.T2P,.GIM} || exit 1
+#		f=$(basename $i .T2P)
+#		#echo "Decompressing $f"
+#		$DECOMPRESS ${GAME}_$PKG/$f{.T2P,.GIM} || exit 1
 #done
 
 cd text/font/${GAME}

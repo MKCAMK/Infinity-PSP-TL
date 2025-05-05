@@ -1,16 +1,17 @@
 #!/bin/sh
 
-if  [ -z "$GIMCONV" ] &&
-	[ -e "./tools/GimConv/GimConv.exe" ] &&
-	command -v "wine" >/dev/null 2>&1
-then
-	export GIMCONV="wine ./tools/GimConv/GimConv.exe"
-elif command -v "gimconv" >/dev/null 2>&1
-then
-	export GIMCONV="gimconv"
-else
-	echo "gimconv not found. set the GIMCONV environment variable accordingly."
-	exit 1
+if  [ -z "$GIMCONV" ]; then
+	if [ -e "./tools/GimConv/GimConv.exe" ] &&
+		command -v "wine" >/dev/null 2>&1
+	then
+		export GIMCONV="wine ./tools/GimConv/GimConv.exe"
+	elif command -v "gimconv" >/dev/null 2>&1
+	then
+		export GIMCONV="gimconv"
+	else
+		echo "gimconv not found. set the GIMCONV environment variable accordingly."
+		exit 1
+	fi
 fi
 
 for i in bg-*-*/*.PNG ev-*-*/*.PNG; do

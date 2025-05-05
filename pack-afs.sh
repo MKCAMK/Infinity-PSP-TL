@@ -106,10 +106,12 @@ repack_cnt () {
 		$PACK_CNT ${GAME}_etc_${TL_SUFFIX}/$f.CNT ${GAME}_etc_${TL_SUFFIX}/${f}/*.* || exit 1
 		$COMPRESS ${GAME}_etc_${TL_SUFFIX}/$f{.CNT,.BIP} || exit 1
 		if [ ! -d "${GAME}_etc_${TL_SUFFIX}/TEX" ] && ([ "$f" = "INFO" ] || [ "$f" = "TEXT" ] ||
-			[ "$f" = "GAME" ] || [ "$f" = "OPTION" ] || [ "$f" = "TIPS" ]); then
+			[ "$f" = "GAME" ] || [ "$f" = "OPTION" ] || [ "$f" = "TIPS" ] || [ "$f" = "SSE" ]); then
 			cp -r ${GAME}_etc/TEX ${GAME}_etc_${TL_SUFFIX}/TEX
 		fi
-		if [ "$f" = "INFO" ]; then
+		if [ "$f" = "SSE" ]; then
+			cp ${GAME}_etc_${TL_SUFFIX}/$f.CNT ${GAME}_etc_${TL_SUFFIX}/TEX/000.BIN
+		elif [ "$f" = "INFO" ]; then
 			cp ${GAME}_etc_${TL_SUFFIX}/$f.BIP ${GAME}_etc_${TL_SUFFIX}/TEX/001.BIN
 		elif [ "$f" = "TEXT" ]; then
 			cp ${GAME}_etc_${TL_SUFFIX}/$f.BIP ${GAME}_etc_${TL_SUFFIX}/TEX/002.BIN
