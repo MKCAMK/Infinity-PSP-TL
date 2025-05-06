@@ -16,6 +16,7 @@ Without these people, this project would not have existed.
 - [Phantom](https://github.com/PhantomZero9): Ever17 translation edits.
 - [R11 Team](https://m.vk.com/wall-76654048_1217): Cyrillic font, Russian menu translations.
 - [TimTH98](https://github.com/TimTH98): Russian graphics for the Ever17 translation port.
+- [Nightdavisao](https://github.com/nightdavisao): English UI graphics for Ever17.
 
 ### Useful Links
 
@@ -64,7 +65,7 @@ For further details, read the contents of shell scripts (and other source files)
 
 The following tools should be available in your PATH:
 
-`mkisofs gcc python3 xdelta3`
+`7z mkisofs gcc python3 xdelta3`
 
 The `pillow` python module should be installed, either via pip or your distro's package manager.
 
