@@ -37,7 +37,9 @@ int main(int argc, char *argv[]) {
     fclose(fin);
 
     out_size = *(unsigned*)in;
-    out = malloc(out_size);
+
+    /* a workaround for 16-byte aligned BIP files */
+    out = malloc(out_size+15);
     assert(out);
 
     decompress_lzss((unsigned char*)out, (unsigned char*)in+4, in_size-4);
