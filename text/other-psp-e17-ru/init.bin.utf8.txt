@@ -7724,7 +7724,7 @@ in the sky.
 Artificial Intelligence
 
 ;65c8;400;人工知能研究の第一人者といわれた%Nジョン・マッカーシーが1955年に提唱した%N人工知能、もしくはコンピュータなどに人工知能を%N持たせるための技術を指す言葉。%Nその技術の発展は目覚ましく、近年ではチェス専用%Nに特化したスパコン『ディープ・ブルー』が、%Nチェスの世界チャンピオン、ガルリ・カスパロフを%N破ったことが記憶に新しい。%N『AI』という略称の方が一般的に広く浸透している%Nという、めずらしい言葉である。
-More commonly known by the abbreviation AI. The ability for computational systems to perform tasks commonly associated with human intelligence. The term was first coined in 1955 by computer scientist John McCarthy. Development in this field has been rapid, with a recent example being how the supercomputer Deep Blue famously defeated chess world champion Garry Kasparov. 
+More commonly known by the abbreviation AI. The ability%Nfor computational systems to perform tasks commonly%Nassociated with human intelligence. The term was first%Ncoined in 1955 by computer scientist John McCarthy.%NDevelopment in this field has been rapid, with a recent%Nexample being how the supercomputer Deep Blue%Nfamously defeated chess world champion Garry%NKasparov.
 
 ;65cc;44;空の知能（意識）は、このAIによるものである。
 Sora's consciousness is a form of AI.
@@ -7733,60 +7733,61 @@ Sora's consciousness is a form of AI.
 RSD
 
 ;65dc;414;Retinal Scanning Display。%N和訳するなら網膜走査映写装置というところか。%NLeMU館内のありとあらゆるところにしかけられた%Nセンサーと、来場者が身に着けている音声変換機で%N来場者の位置を特定、その網膜に向けて、人体に%N害がない微弱のレーザーを照射することで、映像を%N映し出す装置のこと。%Nちなみに走査とは、対象を電子線などでなぞったり%Nすることで、対象物の情報を得ること。%Nテレビなどで日常的に使われている技術である。
-Retinal Scanning Display.%NA system that uses sensors installed throughout LeMU and the voice alternators worn by guests to determine their location. A harmless, low-level laser is then projected onto their retinas to display images.%N%NIncidentally, 「scanning」 refers to the process of tracing an object with an electron beam or something similar to obtain information. It is a technology commonly used in devices such as televisions.
+Retinal Scanning Display.%NA system that uses sensors installed throughout LeMU%Nand the voice alternators worn by guests to determine%Ntheir location. A harmless, low-level laser is then%Nprojected onto their retinas to display images.%N%NIncidentally, 「scanning」 refers to the process of tracing%Nan object with an electron beam or something similar to%Nobtain information. It is a technology commonly used in%Ndevices such as televisions.
 
 ;65e8;2;EI
 Ei
 
 ;65ec;354;ドイツ語で卵を意味する名前を持つ、ツヴァイト%Nシュトックとドリットシュトックを結ぶ、楕円形状%Nのエレベーター。%N海中に直に設置されており、中性浮力と%Nアルキメデスの原理を応用して稼動している。%Nこう書くと複雑そうに見えるが、下降するときは%N空のバラストタンクに水を入れて自重を増やし、%N上昇するときはタンクの水を排出して軽くする、%Nというだけの話である。
-An oval-shaped elevator connecting Zweiter Stock and Dritter Stock. Its name is derived from the German for 「egg」. It is installed directly into the ocean, and operates via neutral buoyancy and Archimedes' principle.%N%NThough this may sound complex, the mechanism is actually quite simple. To descend, water is sucked into the empty ballast tanks to increase weight, and to ascend, the water is expelled to reduce weight.
+An oval-shaped elevator connecting Zweiter Stock and%NDritter Stock. Its name is derived from the German for %N「egg」. It is installed directly into the ocean, and%Noperates via neutral buoyancy and%NArchimedes' principle.%N%NThough this may sound complex, the mechanism is%Nactually quite simple. To descend, water is sucked into%Nthe empty ballast tanks to increase weight, and to%Nascend, the water is expelled to reduce weight.
 
 ;65f8;8;茜ヶ崎空
 Akanegasaki Sora
 
 ;65fc;278;LeMU開発部に務めるシステムエンジニアという設定%NのRSD。%NRSD。プログラミングされた膨大な選択肢の中から%N妥当だと思われる返答を適宜選択できる極めて%N精度の高いAIが搭載されているが、まだまだ%N至らないところも多く、大人の女性としての%N落ち着きと、幼い少女のような危うさを併せ持つ。
-An artificial intellegence with the persona of a system enginneer working in LeMU's development department, created by RSD. Being an exceptionally advanced AI, she selects the most appropriate response from a vast array of programmed options. However, there are still many imperfections. She possesses both the composure of an adult woman and the fragile innocence of a young girl.
+An artificial intellegence with the persona of a system%Nenginneer working in LeMU's development department,%Ncreated by RSD. Being an exceptionally advanced AI,%Nshe selects the most appropriate response from a vast%Narray of programmed options. However, there are still%Nmany imperfections. She possesses both the composure%Nof an adult woman and the fragile innocence of a young%Ngirl.
 
 ;6600;172;2034年、何らかの経緯で肉体を得ているが、%Nその真相を語る者はいない。真相を知る者がいると%Nすれば、それは肉体を持たないがゆえに遍在できた%Nかつての彼女自身だけかもしれない。
-By 2034, she has somehow obtained a physical body, but none speak of the truth behind it. If anyone knows the real story, it may only be her former self―who, lacking a physical form, could exist everywhere at once.
+By 2034, she has somehow obtained a physical body,%Nbut none speak of the truth behind it. If anyone knows%Nthe real story, it may only be her former self―who,%Nlacking a physical form, could exist everywhere at once.
 
 ;660c;8;アセトン
 Acetone
 
 ;6610;254;マニキュアの除光液などによく使われる有機溶剤。%N人体には有害であり、吸引しすぎると頭痛などを%N起こす可能性がある。%Nそういう意味でも、武はおとなしく成敗されるしか%Nなかったのである。%Nなお、一定以上の量を取り扱う場合は危険物所持%Nなどの免許を必要とする。
-An organic solvent commonly used in nail polish removers. It is harmful to the human body, and excessive inhalation can cause headaches and other symptoms. In that sense, Takeshi had no choice but to accept his fate.%N%NAdditionally, handling large quantities requires a license for hazardous materials.
+An organic solvent commonly used in nail polish%Nremovers. It is harmful to the human body, and excessive%Ninhalation can cause headaches and other symptoms. In%Nthat sense, Takeshi had no choice but to accept his%Nfate.%N%NAdditionally, handling large quantities requires a license%Nfor hazardous materials.
 
 ;661c;12;アフロディテ
 Aphrodite
 
 ;6620;354;ギリシャ神話に登場する、愛と美、そして性を%N司どる女神。%N実在の女性にまったく興味を示さず、自らが作り%N上げた女性の彫像に一途な想いを寄せ続ける青年%Nピグマリオンを哀れに思い、彫像に生命を与えた。%N日本神話やギリシャ神話に登場する神々は人間と%N同じように人格を持ち、悩みもする人格神である%Nため、時にこういった気の利いた奇跡を起こすこと%Nもあるのである。
-The Greek goddess of love, beauty, and sexuality. She took pity on Pygmalion, a young man who showed no interest in real women but instead devoted himself entirely to a statue of a woman he had sculpted, and granted the statue life. The gods in Japanese and Greek mythology possess human-like qualities, which is perhaps what makes them capable of performing such thoughtful miracles.
+The Greek goddess of love, beauty, and sexuality. She%Ntook pity on Pygmalion, a young man who showed no%Ninterest in real women but instead devoted himself%Nentirely to a statue of a woman he had sculpted, and%Ngranted the statue life. The gods in Japanese and Greek%Nmythology possess human-like qualities, which is%Nperhaps what makes them capable of performing such%Nthoughtful miracles.
 
 ;6624;82;果たして、空にもアフロディテの奇蹟は起きたのか%N……それはあなたの想像に委ねたい。
-Did Aphrodite's miracle grant Sora form, too? That is for you to imagine.
+Did Aphrodite's miracle grant Sora form, too? That is for%Nyou to imagine.
 
 ;6630;3;IBF
 IBF
 
 ;6634;419;LeMUのはるか下方、水深119mの海底に、ライプリヒ%N製薬が極秘裏に建造した海底居住型研究施設。%N駒ヶ原諸島のとある海域の熱水噴出孔から%N発見された未知のウイルス『ティーフブラウ』を%N研究し、軍事利用するのが目的で、その存在を%N知るものはライプリヒ製薬の中でもごく一部の%N関係者のみ。%NLeMUの第３層ドリットシュトックにあるHIMMELと%N直通のリフトでつながっており、IBFの職員はそれを%N利用してなにげない顔でLeMUに出入りしている。
-A deep-sea research facility secretly constructed by Leiblich Pharmaceuticals beneath LeMU, 119 meters below sea level. Its purpose is to study and militarize the unknown Tief Blau virus, discovered in a hydrothermal vent in the Komagahara Archipelago. Only a select few within Leiblich Pharmaceuticals are aware of its existence.
+A deep-sea research facility secretly constructed by%NLeiblich Pharmaceuticals beneath LeMU, 119 meters below%Nsea level. Its purpose is to study and militarize the%Nunknown Tief Blau virus, discovered in a hydrothermal%Nvent in the Komagahara Archipelago. Only a select few%Nwithin Leiblich Pharmaceuticals are aware of its%Nexistence.
 
 ;6638;117;どんなに赤字経営でも一向に改善も閉鎖もされない%NLeMUの真の存在意義は、このIBFの秘匿、%Nカムフラージュにあるといえる。
-IBF is directly connected to HIMMEL on LeMU's third basement-floor, Dritter Stock, via a private lift. Its staff discreetly move between IBF and LeMU, blending in unnoticed.%N%NNo matter how unprofitable a venture LeMU may be, it will never be shut down or ameliorated, for its true purpose is to serve as a cover for IBF.
+IBF is directly connected to HIMMEL on LeMU's third%Nbasement-floor, Dritter Stock, via a private lift. Its staff%Ndiscreetly move between IBF and LeMU, blending in%Nunnoticed.%N%NNo matter how unprofitable a venture LeMU may be, it will%Nnever be shut down or ameliorated, for its true purpose%Nis to serve as a cover for IBF.
 
 ;6644;14;イモムシごっこ
 Playing Caterpillar
 
 ;6648;380;ココ考案のキテレツな遊びの一つ。%Nまず腕を伸ばしたまま体にぴったりとくっつける。%N次に、足も腕と同様に伸ばしたまま閉じる。%Nそして、その体勢のままでおもむろに地面に横に%Nなり、どちらがどれだけイモムシっぽく%Nくにゃくにゃしているかを競い合う遊び。%Nそもそもオリジナルのイモムシに動きらしい動きや%N鳴き声がないため、『ひよこごっこ』よりも%Nその難度は高く、競技者のセンスが問われる。
-Another eccentric game of Coco's invention. First, you stretch your arms straight up and press them tightly against your body. Next, you do the same with your legs, keeping them straight and together. Then, while maintaining this posture, you lie down on the ground and compete to see who can wriggle about like a caterpillar the best.
+Another eccentric game of Coco's invention. First, you%Nstretch your arms straight up and press them tightly%Nagainst your body. Next, you do the same with your legs,%Nkeeping them straight and together. Then, while%Nmaintaining this posture, you lie down on the ground and%Ncompete to see who can wriggle about like a caterpillar%Nthe best.
 
 ;664c;54;人を誘う時は、イモムゥーしたい！%Nと言うのが2017年風。
-Since real caterpillars don't have distinct movements or sounds, this game is even more challenging than Chicks, requiring a keen sense of creativity on the player's part.%N%NIn 2017, the trendy way to invite someone to play is 「I wanna crawlypillar!」
+Since real caterpillars don't have distinct movements or%Nsounds, this game is even more challenging than Chicks,%Nrequiring a keen sense of creativity on the player's part.%N%NIn 2017, the trendy way to invite someone to play is 「I%Nwanna crawlypillar!」
 
 ;6658;14;インゼル・ヌル
 ;dupe:122c
+
 ;665c;278;Insel null。%N東京都駒ヶ原諸島沖に浮かぶLeMUの玄関口となる%N人工島の名称。インゼルはドイツ語で『島』、%Nヌルは『０』を意味する。%N来場者用のホテルや、島全体を見渡せる%N展望タワー、LeMUの全システム管理を担う%N最新科学技術の粋、高速演算処理装置LeMMIHの%N本体などが設置されている。
-The name of the man-made island serving as the gateway to LeMU, floating off the coast of the Komagahara Archipelago, Tokyo. Insel means 「island」 in German, while Null means 「zero」. It sports a hotel for visitors staying overnight, an observation tower overlooking the entire island, and the central processing unit of LeMMIH, a state-of-the-art high-speed computing system responsible for managing all of LeMU's operations.
+The name of the man-made island serving as the gateway%Nto LeMU, floating off the coast of the Komagahara%NArchipelago, Tokyo. Insel means 「island」 in German, while%NNull means 「zero」. It sports a hotel for visitors staying%Novernight, an observation tower overlooking the entire%Nisland, and the central processing unit of LeMMIH, a%Nstate-of-the-art high-speed computing system%Nresponsible for managing all of LeMU's operations.
 
 ;6668;22;海月の虚空に秋涼し時鳥
 
