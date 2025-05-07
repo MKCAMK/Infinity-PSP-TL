@@ -38,7 +38,7 @@ def load_font_table(lang):
 
 def write_widths_file(lang, widths, path = None):
     if not path:
-        path = f"widths-{lang}.txt"
+        path = os.path.join(os.path.dirname(__file__), os.pardir, "text", "font", f"widths-{lang}.txt")
     with open(path, "w", encoding="utf-8") as file:
         for char, width in widths.items():
             file.write(f"{char} {width}\n")
@@ -51,7 +51,7 @@ def process_script(game, lang, widths, scn_path = ""):
 
     output_path = os.path.join(os.path.dirname(__file__), os.pardir, "text", f"tmp-{game}", f"mac-psp-{lang}-utf8-wrapped")
     if not os.path.exists(output_path):
-        os.mkdir(output_path)
+        os.makedirs(os.path.abspath(output_path))
 
     for scn_file in os.listdir(scn_path):
         process_file(os.path.join(scn_path, scn_file), output_path, widths, lang)
@@ -145,7 +145,7 @@ def main():
     scn_path = sys.argv[3] if len(sys.argv) >  3 else ""
 
     widths = load_font_table(lang)
-    #write_widths_file(lang, widths)
+    write_widths_file(lang, widths)
 
     process_script(game, lang, widths, scn_path)
 
