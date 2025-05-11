@@ -19,7 +19,7 @@
 .org 0x08828134
 .area 4*3, 0
 	lw    v0, 0x14(v1)
-	blez  s1,0x08828498
+	blez  s1,0x088284e4
 	sw    v0, 0x14(s0)
 .endarea
 
