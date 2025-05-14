@@ -1,4 +1,19 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+
+
+# to_r11.py
+
+# HOPEFULLY capable of properly converting
+# images into the "R11" format, as found in
+# Infinity visual novels on the PSP.
+
+# sprite converstion is not supported.
+
+# the script accepts any image formats, but it
+# is recommended that you use 8bpp paletted PNG
+# images. if you would like to use other image
+# formats, check out the commented-out "quantize"
+# command.
 
 import sys, struct
 from PIL import Image
@@ -9,42 +24,62 @@ if len(sys.argv) != 3:
 
 im = Image.open(sys.argv[1])
 #im = im.convert("RGB").resize((480, 360), resample=Image.Resampling.NEAREST).quantize(256, method=Image.Quantize.MEDIANCUT)
-im = im.convert("P", dither=Image.Dither.NONE)
+im = im.convert("PA", dither=Image.Dither.NONE)
 
 realwidth, realheight = im.width, im.height
 palette = im.getpalette("RGBA")
 while len(palette) < 4*256:
     palette.extend([0xff]*4)
 
-width = 512
-height = realwidth*realheight//30//30*32*32 // 512
+widthrem = realwidth % 30
+heightrem = realheight % 30
+paddedwidth = realwidth // 30 * 32
+paddedheight = realheight // 30 * 32
+if widthrem:
+    paddedwidth += widthrem + 2
+if heightrem:
+    paddedheight += heightrem + 2
+xchunks = (paddedwidth + 31) // 32
+ychunks = (paddedheight + 31) // 32
 
-chunks = []
-for y in range(realheight // 30):
-    for x in range(realwidth // 30):
-        chunks.append(im.crop((x*30, y*30, (x+1)*30, (y+1)*30)))
+width = 512
+height = (xchunks*ychunks*32*32 // width + 31) // 32 * 32
+
+paddedim = Image.new("P", (paddedwidth, paddedheight))
+for y in range(ychunks):
+    for x in range(xchunks):
+        paddedim.paste(im.crop((x*30, y*30, (x+1)*30, (y+1)*30)), (x*32+1, y*32+1))
 
 im.close()
+
+# this is so, so fucking horrible
+for y in range(0, ychunks*32, 32):
+    for x in range(0, xchunks*32, 32):
+        paddedim.paste(paddedim.crop((x+1, y-2, x+1+30, y-2+1)), (x+1, y))
+        paddedim.paste(paddedim.crop((x+1, y+32+1, x+1+30, y+32+2)), (x+1, y+31))
+for y in range(0, ychunks*32, 32):
+    for x in range(0, xchunks*32, 32):
+        paddedim.paste(paddedim.crop((x-2, y, x-2+1, y+32)), (x, y))
+        paddedim.paste(paddedim.crop((x+32+1, y, x+32+2, y+32)), (x+31, y))
+paddedim.paste(paddedim.crop((1, 1, paddedwidth-1, 2)), (1, 0))
+paddedim.paste(paddedim.crop((1, paddedheight-2, paddedwidth-1, paddedheight-1)), (1, paddedheight-1))
+paddedim.paste(paddedim.crop((1, 0, 2, paddedheight)), (0, 0))
+paddedim.paste(paddedim.crop((paddedwidth-2, 0, paddedwidth-1, paddedheight)), (paddedwidth-1, 0))
+
+chunks = []
+for y in range(ychunks):
+    for x in range(xchunks):
+        chunks.append(paddedim.crop((x*32, y*32, (x+1)*32, (y+1)*32)))
+
+paddedim.close()
 
 new = Image.new("P", (width, height))
 new.putpalette(palette, "RGBA")
 for y in range(height // 32):
     for x in range(width // 32):
-        new.paste(chunks[y*(width//32)+x], (x*32+1, y*32+1))
-
-# this is so, so fucking horrible
-for y in range(0, height, 32):
-    for x in range(0, width, 32):
-        new.paste(new.crop((x+1, y-2, x+1+30, y-2+1)), (x+1, y))
-        new.paste(new.crop((x+1, y+32+1, x+1+30, y+32+2)), (x+1, y+31))
-for y in range(0, height, 32):
-    for x in range(0, width, 32):
-        new.paste(new.crop((x-2, y, x-2+1, y+32)), (x, y))
-        new.paste(new.crop((x+32+1, y, x+32+2, y+32)), (x+31, y))
-new.paste(new.crop((1, 1, width-1, 2)), (1, 0))
-new.paste(new.crop((1, height-2, width-1, height-1)), (1, height-1))
-new.paste(new.crop((1, 0, 2, height-1)), (0, 0))
-new.paste(new.crop((width-2, 0, width-1, height-1)), (width-1, 0))
+        i = y*(width//32)+x
+        if len(chunks) <= i: break
+        new.paste(chunks[i], (x*32, y*32))
 
 header = bytearray(0x100)
 header[0x0:0x4] = struct.pack("<I", 5)
@@ -52,7 +87,7 @@ header[0x4:0x4+4*5] = struct.pack("<IIIII", 0x80, 0x94, 0x100, 0x500, 0x100 + 4*
 header[0x80:0x84] = struct.pack("<HH", 1, 1)
 header[0x88:0x8c] = struct.pack("<HH", realwidth, realheight)
 header[0x8c:0x90] = struct.pack("<I", 2)
-header[0x92:0x94] = struct.pack("<BB", realwidth//30, realheight//30)
+header[0x92:0x94] = struct.pack("<BB", xchunks, ychunks)
 with open(sys.argv[2], "wb") as f:
     f.write(header)
     f.write(bytes(palette))
