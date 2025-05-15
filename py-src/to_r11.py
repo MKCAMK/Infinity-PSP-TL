@@ -54,13 +54,11 @@ im.close()
 
 # this is so, so fucking horrible
 for y in range(0, ychunks*32, 32):
-    for x in range(0, xchunks*32, 32):
-        paddedim.paste(paddedim.crop((x+1, y-2, x+1+30, y-2+1)), (x+1, y))
-        paddedim.paste(paddedim.crop((x+1, y+32+1, x+1+30, y+32+2)), (x+1, y+31))
-for y in range(0, ychunks*32, 32):
-    for x in range(0, xchunks*32, 32):
-        paddedim.paste(paddedim.crop((x-2, y, x-2+1, y+32)), (x, y))
-        paddedim.paste(paddedim.crop((x+32+1, y, x+32+2, y+32)), (x+31, y))
+    paddedim.paste(paddedim.crop((1, y-2, paddedwidth-1, y-1)), (1, y))
+    paddedim.paste(paddedim.crop((1, y+32+1, paddedwidth-1, y+32+2)), (1, y+31))
+for x in range(0, xchunks*32, 32):
+    paddedim.paste(paddedim.crop((x-2, 1, x-1, paddedheight-1)), (x, 1))
+    paddedim.paste(paddedim.crop((x+32+1, 1, x+32+2, paddedheight-1)), (x+31, 1))
 paddedim.paste(paddedim.crop((1, 1, paddedwidth-1, 2)), (1, 0))
 paddedim.paste(paddedim.crop((1, paddedheight-2, paddedwidth-1, paddedheight-1)), (1, paddedheight-1))
 paddedim.paste(paddedim.crop((1, 0, 2, paddedheight)), (0, 0))
