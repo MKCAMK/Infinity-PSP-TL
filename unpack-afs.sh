@@ -32,8 +32,8 @@ cp $RES_DIR/etc.afs $WORK_DIR/etc.afs
 cp $RES_DIR/init.bin $WORK_DIR/init.bin
 
 [ "$GAME" = "e17" ] && [ -d "e17_x360_BGM" ] && cp $RES_DIR/se.afs $WORK_DIR/se.afs
-[ -d "bg-${GAME}-${TL_SUFFIX}" ] && cp $RES_DIR/bg.afs $WORK_DIR/bg.afs
-[ -d "ev-${GAME}-${TL_SUFFIX}" ]&& cp $RES_DIR/ev.afs $WORK_DIR/ev.afs
+[ -d "assets/bg-${GAME}-${TL_SUFFIX}" ] && cp $RES_DIR/bg.afs $WORK_DIR/bg.afs
+[ -d "assets/ev-${GAME}-${TL_SUFFIX}" ]&& cp $RES_DIR/ev.afs $WORK_DIR/ev.afs
 
 PKG=mac
 rm -rf ${GAME}_$PKG/
@@ -60,9 +60,10 @@ for i in ${GAME}_$PKG/*.FOP ; do
 	f=$(basename $i .FOP)
 	$DECOMPRESS ${GAME}_$PKG/$f{.FOP,.FNT} || exit 1
 done
-for i in etc-${GAME}-${TL_SUFFIX}/*/ ; do
+for i in assets/etc-${GAME}-${TL_SUFFIX}/*/ ; do
 	[ -d "$i" ] || continue
-	f=${i#*/}; f=${f%%/}
+	f=${i%%/}; f=${f##*/}
+	echo $f
 	if [ ! -d "${GAME}_etc/TEX" ] && ([ "$f" = "INFO" ] || [ "$f" = "TEXT" ] ||
 		[ "$f" = "GAME" ] || [ "$f" = "OPTION" ] || [ "$f" = "TIPS" ] || [ "$f" = "SSE" ])
 	then

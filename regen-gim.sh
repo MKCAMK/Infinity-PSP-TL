@@ -14,16 +14,16 @@ if  [ -z "$GIMCONV" ]; then
 	fi
 fi
 
-for i in bg-*-*/*.PNG ev-*-*/*.PNG; do
+for i in assets/bg-*-*/*.PNG assets/ev-*-*/*.PNG; do
 	[ -e "$i" ] || continue
 	$GIMCONV "$i" -s 120,90 -o "$(basename "$i" .PNG).GIM" || exit 1
 done
-for i in etc-*-*/*/*.PNG; do
+for i in assets/etc-*-*/*/*.PNG; do
 	[ -e "$i" ] || continue
 	$GIMCONV "$i" -o "$(basename "$i" .PNG).GIM" || exit 1
 done
 
-for i in nowloading/*.png; do
+for i in assets/nowloading/*.png; do
 	[ -e "$i" ] || continue
 	$GIMCONV "$i" -o "$(basename "$i" .png).gim" || exit 1
 done
