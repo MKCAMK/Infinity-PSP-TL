@@ -6,8 +6,7 @@
 /n7_*/
 /r11_*/
 
-/bg-*-*/*.R11
-/ev-*-*/*.R11
+/assets/*/*.R11
 
 /text/tmp/
 /text/mac-en-only-utf8/
@@ -22,7 +21,7 @@
 /text/font/r11*/
 /text/font/widths-*.txt
 
-/*-r11-ru/
+/assets/*-r11-ru/
 /text/other-psp-r11-ru/
 /text/mac-psp-r11-ru-utf8/
 

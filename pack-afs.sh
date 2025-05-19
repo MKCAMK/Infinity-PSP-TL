@@ -88,9 +88,9 @@ compose_font () {
 }
 
 repack_cnt () {
-	for i in etc-${GAME}-${TL_SUFFIX}/*/ ; do
+	for i in assets/etc-${GAME}-${TL_SUFFIX}/*/ ; do
 		[ -d "$i" ] || continue
-		f=${i#*/}; f=${f%%/}
+		f=${i%%/}; f=${f##*/}
 		[ "$f" = "TEX" ] && continue
 		if [ ! -d "${GAME}_etc/${f}" ]; then
 			echo "$f has not been unpacked"
@@ -124,9 +124,9 @@ repack_cnt () {
 		fi
 	done
 	if [ -d "${GAME}_etc_${TL_SUFFIX}/TEX" ]; then
-		if [ -d "etc-${GAME}-${TL_SUFFIX}/TEX" ]; then
-			ls etc-${GAME}-${TL_SUFFIX}/TEX/*.BIN >/dev/null 2>&1 && cp etc-${GAME}-${TL_SUFFIX}/TEX/*.BIN ${GAME}_etc_${TL_SUFFIX}/TEX/
-			for i in etc-${GAME}-${TL_SUFFIX}/TEX/*.GIM; do
+		if [ -d "assets/etc-${GAME}-${TL_SUFFIX}/TEX" ]; then
+			ls assets/etc-${GAME}-${TL_SUFFIX}/TEX/*.BIN >/dev/null 2>&1 && cp assets/etc-${GAME}-${TL_SUFFIX}/TEX/*.BIN ${GAME}_etc_${TL_SUFFIX}/TEX/
+			for i in assets/etc-${GAME}-${TL_SUFFIX}/TEX/*.GIM; do
 				[ -e "$i" ] || break
 				cp $i ${GAME}_etc_${TL_SUFFIX}/TEX/$(basename $i .GIM).BIN
 			done
@@ -171,7 +171,7 @@ patch_boot_bin () {
 	echo "Applying translation to BOOT"
 	$PY ./py-src/apply_boot_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/BOOT.utf8.txt $WORKDIR/BOOT.BIN $WORKDIR/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX} || exit 1
 
-	if [ -e "./nowloading/nowloading-${TL_SUFFIX}.gim" ]; then
+	if [ -e "assets/nowloading/nowloading-${TL_SUFFIX}.gim" ]; then
 		if [ "$GAME" = "e17" ]; then
 			NOWLOADING_OFF=1140832
 		elif [ "$GAME" = "n7" ]; then
@@ -181,7 +181,7 @@ patch_boot_bin () {
 		fi
 		if [ -n "${NOWLOADING_OFF}" ]; then
 			echo "Applying nowloading image patch"
-			dd oflag=seek_bytes conv=notrunc seek=${NOWLOADING_OFF} if=./nowloading/nowloading-${TL_SUFFIX}.gim of=$WORKDIR/BOOT.BIN.${TL_SUFFIX}
+			dd oflag=seek_bytes conv=notrunc seek=${NOWLOADING_OFF} if=assets/nowloading/nowloading-${TL_SUFFIX}.gim of=$WORKDIR/BOOT.BIN.${TL_SUFFIX}
 		fi
 	fi
 
@@ -219,15 +219,15 @@ repack_e17_se_afs () {
 
 repack_bg_afs () {
 	mkdir -p ${GAME}_bg_${TL_SUFFIX}
-	for i in bg-${GAME}-${TL_SUFFIX}/*.PNG ; do
+	for i in assets/bg-${GAME}-${TL_SUFFIX}/*.PNG ; do
 		[ ! -f $i ] && break
-		$PY ./py-src/to_r11.py $i bg-${GAME}-${TL_SUFFIX}/$(basename $i .PNG).R11 || exit 1
+		$PY ./py-src/to_r11.py $i assets/bg-${GAME}-${TL_SUFFIX}/$(basename $i .PNG).R11 || exit 1
 	done
-	for i in bg-${GAME}-${TL_SUFFIX}/*.R11 ; do
+	for i in assets/bg-${GAME}-${TL_SUFFIX}/*.R11 ; do
 		[ ! -f $i ] && break
 		$COMPRESS $i ${GAME}_bg_${TL_SUFFIX}/$(basename $i .R11).BIP || exit 1
 	done
-	for i in bg-${GAME}-${TL_SUFFIX}/*.GIM ; do
+	for i in assets/bg-${GAME}-${TL_SUFFIX}/*.GIM ; do
 		[ ! -f $i ] && break
 		$COMPRESS $i ${GAME}_bg_${TL_SUFFIX}/$(basename $i .GIM).T2P || exit 1
 	done
@@ -238,21 +238,26 @@ repack_bg_afs () {
 
 repack_ev_afs () {
 	mkdir -p ${GAME}_ev_${TL_SUFFIX}
-	for i in ev-${GAME}-${TL_SUFFIX}/*.PNG ; do
+	for i in assets/ev-${GAME}-${TL_SUFFIX}/*.PNG ; do
 		[ ! -f $i ] && break
-		$PY ./py-src/to_r11.py $i ev-${GAME}-${TL_SUFFIX}/$(basename $i .PNG).R11 || exit 1
+		$PY ./py-src/to_r11.py $i assets/ev-${GAME}-${TL_SUFFIX}/$(basename $i .PNG).R11 || exit 1
 	done
-	for i in ev-${GAME}-${TL_SUFFIX}/*.R11 ; do
+	for i in assets/ev-${GAME}-${TL_SUFFIX}/*.R11 ; do
 		[ ! -f $i ] && break
 		$COMPRESS $i ${GAME}_ev_${TL_SUFFIX}/$(basename $i .R11).BIP || exit 1
 	done
-	for i in ev-${GAME}-${TL_SUFFIX}/*.GIM ; do
+	for i in assets/ev-${GAME}-${TL_SUFFIX}/*.GIM ; do
 		[ ! -f $i ] && break
 		$COMPRESS $i ${GAME}_ev_${TL_SUFFIX}/$(basename $i .GIM).T2P || exit 1
 	done
 
 	$REPACK_AFS $WORKDIR/ev.afs $WORKDIR/ev-repacked.afs ./${GAME}_ev_${TL_SUFFIX} || exit 1
 	mv -f $WORKDIR/ev-repacked.afs $ISO_RES_DIR/ev.afs
+}
+
+copy_movie () {
+	ls assets/movie-${GAME}-${TL_SUFFIX}/*.pmf >/dev/null 2>&1 && \
+		cp assets/movie-${GAME}-${TL_SUFFIX}/*.pmf $ISO_RES_DIR/movie/ || true
 }
 
 # Actually running above functions
@@ -263,3 +268,4 @@ repack_mac_afs
 repack_etc_afs
 repack_init_bin
 patch_boot_bin
+copy_movie
