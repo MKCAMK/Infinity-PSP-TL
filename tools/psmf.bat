@@ -40,7 +40,7 @@ if defined assfile (
 	set "vfilter=-vf "ass='!assfile!'""
 )
 ffmpeg -y -i "%in%" -c:v huffyuv -an %vfilter% "%~n1.avi" || goto error
-ffmpeg -y -i "%in%" "%~n1.wav" || goto error
+ffmpeg -y -i "%in%" -ar 44100 "%~n1.wav" || goto error
 %psmfenc% -video -2pass -peakb 4000 -avgb 2000 "%~n1.avi" "%~n1\bsf\%~n1.bsf" || goto error
 %psmfenc% -audio -adjust_v "%~n1.avi" "%~n1.wav" "%~n1\atx\%~n1.atx" || goto error
 %psmfmux% "%~n1\bsf\%~n1.bsf" "%~n1\atx\%~n1.atx" "%~n1\mps\%~n1.mps" || goto error
