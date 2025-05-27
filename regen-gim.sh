@@ -4,7 +4,7 @@ if  [ -z "$GIMCONV" ]; then
 	if [ -e "./tools/GimConv/GimConv.exe" ] &&
 		command -v "wine" >/dev/null 2>&1
 	then
-		export GIMCONV="wine ./tools/GimConv/GimConv.exe"
+		export GIMCONV="wine $PWD/tools/GimConv/GimConv.exe"
 	elif command -v "gimconv" >/dev/null 2>&1
 	then
 		export GIMCONV="gimconv"
@@ -25,5 +25,5 @@ done
 
 for i in assets/nowloading/*.png; do
 	[ -e "$i" ] || continue
-	$GIMCONV "$i" -o "$(basename "$i" .png).gim" || exit 1
+	$GIMCONV "$i" -N -nfi -o "$(basename "$i" .png).gim" || exit 1
 done

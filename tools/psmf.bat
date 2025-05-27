@@ -39,9 +39,11 @@ if defined assfile (
 	set "assfile=!assfile::=\:!"
 	set "vfilter=-vf "ass='!assfile!'""
 )
+if not defined avgb set avgb=2000
+if not defined peakb set peakb=4000
 ffmpeg -y -i "%in%" -c:v huffyuv -an %vfilter% "%~n1.avi" || goto error
 ffmpeg -y -i "%in%" -ar 44100 "%~n1.wav" || goto error
-%psmfenc% -video -2pass -peakb 4000 -avgb 2000 "%~n1.avi" "%~n1\bsf\%~n1.bsf" || goto error
+%psmfenc% -video -2pass -peakb %peakb% -avgb %avgb% "%~n1.avi" "%~n1\bsf\%~n1.bsf" || goto error
 %psmfenc% -audio -adjust_v "%~n1.avi" "%~n1.wav" "%~n1\atx\%~n1.atx" || goto error
 %psmfmux% "%~n1\bsf\%~n1.bsf" "%~n1\atx\%~n1.atx" "%~n1\mps\%~n1.mps" || goto error
 %psmfcomposer% "%~n1\mps\%~n1.mps" "%~n1\pmf\%~n1.pmf" || goto error

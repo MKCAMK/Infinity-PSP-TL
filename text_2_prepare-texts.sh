@@ -5,9 +5,9 @@
 
 mkdir -p text/tmp-${GAME}/mac-psp-${TL_SUFFIX}
 
-if [ -d text/chapters-psp-${GAME} ] && [ "$TL_SUFFIX" != "ru" ]; then
+if [ -d text/chapters-psp-${GAME} ]; then
 	prepare_translation () {
-		python3 ./py-src/translation_preproc.py -i text/chapters-psp-${GAME}/$1.txt -o text/tmp-${GAME}/mac-psp-${TL_SUFFIX}/$1.txt -t ${TL_SUFFIX} || exit 1
+		python3 ./py-src/translation_preproc.py -i text/chapters-psp-${GAME}/$1.txt -o text/tmp-${GAME}/mac-psp-${TL_SUFFIX}/$1.txt -g ${GAME} -t ${TL_SUFFIX} || exit 1
 	}
 
 	for i in text/chapters-psp-${GAME}/*.txt ; do

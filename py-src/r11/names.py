@@ -65,7 +65,7 @@ game_names_dicts = {
     "田中先生": TlNames("Doctor Tanaka", None, "Доктор Танака"),
     "ＢＷ": TlNames("Blick Winkel", None, "БВ"),
     "マヨ": TlNames("Mayo", None, "Майо"),
-    "女の子": TlNames("Girl", None, "Девочка"),
+    "女の子": TlNames("Girl", None, "Девушка"),
     "男の人": TlNames("Man", None, "Парень"),
     "女の人": TlNames("Woman", None, "Девушка"),
     "医師": TlNames("Doctor", None, "Врач"),
