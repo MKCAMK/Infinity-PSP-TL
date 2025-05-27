@@ -1,0 +1,350 @@
+﻿空「こんなにも早い時間に、皆さんにお集まりいただいたのは、他でもありません」%K%P
+I'm sorry that I had to have you gather so early. There was no other way.
+CN PLACEHOLDER
+Прошу прощения за столь ранний сбор. Дело безотлагательное.
+
+空「実は皆さんに、一刻も早くお知らせしなければならないことがあったのです」%K%P
+Actually, everyone, there is something I need to tell you right away.
+CN PLACEHOLDER
+Мне действительно необходимо рассказать вам нечто важное.
+
+空の言葉は、そこで途切れた。%K%P
+Sora paused for a second.
+CN PLACEHOLDER
+На секунду Сора замялась.
+
+優・沙羅・つぐみ・武・そしてぼく……集まった５人の顔を、空は順番に確かめて行く。%K%P
+Sora looked over all five of us... You, Sara, Tsugumi, Takeshi, and finally me.
+CN PLACEHOLDER
+Она окинула взглядом нас пятерых...Ю, Сару, Цугуми, Такеши и меня.
+
+静寂の中、空冷用のファンが唸りをあげてまわっていた。%K%P
+The cooling fan whirred away in the silence.
+CN PLACEHOLDER
+Лишь жужжащий вентилятор на стене не даёт воцариться полной тишине.
+
+時折ギリギリと、金属のすり切れるような音が室内に響き渡った。%K%P
+Occasionally, the sound of metal on metal rang through the room.
+CN PLACEHOLDER
+Неожиданно звук удара металла по металлу пронёсся через всё помещение.
+
+ぼくら５人はじっと固まったまま、空の次の言葉を待ち続けた。%K%P
+The five of us waited on Sora's next words.
+CN PLACEHOLDER
+А мы по-прежнему гадаем, что дальше скажет Сора.
+
+空「昨夜、小町さんを除く４人の皆さんが加減圧室に入られた後……」%K%P
+Last night, after the four of you apart from Komachi-san entered the pressurization chamber...
+CN PLACEHOLDER
+Прошлой ночью, после того, как вы четверо, за исключением Комачи-сан, вошли в медицинскую барокамеру...
+
+空「私はこの制御室で、ここからの脱出方法や、外部への通信手段について考えていました」%K%P
+I was in the control room here, thinking about ways to escape or contact the outside.
+CN PLACEHOLDER
+Я была здесь, в Центре Управления, и пыталась найти путь к спасению, а также связаться с внешним миром.
+
+空「そして……」%K%P
+And...
+CN PLACEHOLDER
+И...
+
+空「ＬｅＭＵ内の状況をひとつひとつ調べていくうちに、ある事実が判明したのです」%K%P
+While I was checking the internal status of LeMU, I discovered something.
+CN PLACEHOLDER
+Когда я проверяла внутренний статус LeMU, я кое-что обнаружила.
+
+優「脱出するルートが見つかったの！？」%K%P
+You found a way to escape!?
+CN PLACEHOLDER
+Ты нашла способ выбраться отсюда?!
+
+空「いいえ」%K%P
+No.
+CN PLACEHOLDER
+Нет.
+
+沙羅「ってことは、外部へ連絡する方法が！？」%K%P
+Then a way to contact the outside?
+CN PLACEHOLDER
+Значит, способ связаться со спасателями?
+
+空「それも、まだです」%K%P
+Not yet.
+CN PLACEHOLDER
+К сожалению, нет.
+
+武「じゃあ、どんなことがわかったと？」%K%P
+Then what did you figure out?
+CN PLACEHOLDER
+Что же тогда ты выяснила?
+
+空「圧力隔壁の耐久強度……その限界が、わかりました」%K%P
+I discovered the amount of pressure the bulkheads can withstand... I found their limits.
+CN PLACEHOLDER
+Я выяснила, давление какой силы может выдержать обшивка сооружения...я нашла предел.
+
+そう言って、空は視線をコンソールの脇へと向けた。%K%P
+Saying that, Sora turned her eyes to the side of the console.
+CN PLACEHOLDER
+Сказав это, Сора перевела взгляд на консоль.
+
+暗がりの中、ＬｅＭＵの立体画像が浮かび上がっている。%K%P
+In the darkness, a three-dimensional image of LeMU sprung up.
+CN PLACEHOLDER
+В темноте появилась трёхмерная схема LeMU.
+
+少年「アツリョクカクヘキ、って？」%K%P
+Pressure bulkhead... what?
+CN PLACEHOLDER
+Обшивка...то есть?
+
+空「ＬｅＭＵの壁のことです。外側の海水と内側の空間を隔てている部分」%K%P
+I mean LeMU's walls. The partitions between the outer seawater and the inner air.
+CN PLACEHOLDER
+Я имею в виду стены LeMU. То единственное, что отделяет нас от водной пучины.
+
+沙羅「その限界がわかったって……どういうことなの？」%K%P
+What do you mean... when you say you found the limit?
+CN PLACEHOLDER
+Что ты имела в виду...когда сказала, что нашла предел?
+
+空「昨日もお伝えしましたように、ＬｅＭＵは基本的に、飽和潜水仕様の設計をもとに建造された構造物です」%K%P
+Like I said yesterday, LeMU is a structure basically constructed on a saturation diving specification%Ndesign.
+CN PLACEHOLDER
+Как я успела сказать вчера, LeMU спроектирован в соответствии со стандартами дайвинга.
+
+空「つまり、内部の気圧が、外部の水圧と同等か、またはそれを上まわるような構造になっていた、ということです」%K%P
+In other words, the internal air pressure equals or is greater than the external water pressure.
+CN PLACEHOLDER
+То есть, давление воздуха внутри равно или больше, чем давление воды снаружи.
+
+空「しかし、今や館内の気圧は１気圧……」%K%P
+However, the complex's internal air pressure is currently at one atmosphere...
+CN PLACEHOLDER
+Однако, сейчас давление внутри комплекса составляет 1 атмосферу...
+
+空「ですから……」%K%P
+Therefore...
+CN PLACEHOLDER
+Что означает...
+
+優「ＬｅＭＵの外殻は、常に苛烈な水圧の力にさらされてるということになる」%K%P
+LeMU's outer shell is constantly being subjected to severe water pressure.
+CN PLACEHOLDER
+Внешняя оболочка LeMU постоянно компенсирует возросшее в несколько раз давление воды.
+
+空「はい」%K%P
+Correct.
+CN PLACEHOLDER
+Верно.
+
+優「ところが、ＬｅＭＵは元々、このような状況に長く耐えられるようには造られていない」%K%P
+But LeMU is not constructed to endure this situation for a long period of time.
+CN PLACEHOLDER
+Но, в таком состоянии LeMU долго не протянет.
+
+優「必然的に、いつかは限界が訪れることになる……」%K%P
+Inevitably, it will, at some point, reach its limit...
+CN PLACEHOLDER
+В какой-то момент обшивка треснет...
+
+空「おっしゃる通りです」%K%P
+Well put, Tanaka-san.
+CN PLACEHOLDER
+Совершенно верно.
+
+武「で……その限界って言うのは、いつ……？」%K%P
+So... when is this limit...?
+CN PLACEHOLDER
+И...когда будет достигнут предел...?
+
+空「レミの計算によると、今から……」%K%P
+According to LeMMIH's calculations...
+CN PLACEHOLDER
+Согласно расчётам ЛеММИХ...
+
+つぐみ「１１９時間後……５日後でしょ？」%K%P
+In 119 hours... or five days from now, right?
+CN PLACEHOLDER
+Через 119 часов...или пять дней с этого самого момента, так?
+
+ぼくらは一斉につぐみの方を向いた。%K%P
+We stared in tandem at Tsugumi.
+CN PLACEHOLDER
+Мы дружно выпучили глаза от удивления.
+
+空「よく御存知ですね？　警備室の端末で、お調べになったのですか？」%K%P
+You are well informed. Did you look that up on the security office terminal?
+CN PLACEHOLDER
+Значит ты в курсе. Это было в показаниях на терминале Офиса Охраны?
+
+つぐみ「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+空「そうです、小町さんがおっしゃった通り……」%K%P
+It is exactly as Komachi-san says...
+CN PLACEHOLDER
+Комачи-сан права...
+
+空「完全圧潰推定時刻は『５月７日午前４時３０分前後』となっています」%K%P
+The estimated time of implosion is approximately 4:30 a.m. on May 7th.
+CN PLACEHOLDER
+Согласно расчётам, разрушение произойдёт приблизительно в 4:30 утра, 7 Мая.
+
+空「もちろん、あくまでも推定ですから、誤差はありますが」%K%P
+Of course, it is only a calculation, and there is a margin of error.
+CN PLACEHOLDER
+Конечно, это лишь расчёт. Вероятна небольшая погрешность.
+
+つぐみ「±１２時間程度……それが、誤差の範囲ね？」%K%P
+Plus or minus twelve hours... Is that the margin of error?
+CN PLACEHOLDER
+Плюс-минус 12 часов...такова погрешность?
+
+空「は、はい、そうですが……」%K%P
+That is correct, but...
+CN PLACEHOLDER
+Да, но...
+
+ぼくらは押し黙ってしまった。%K%P
+That pushed us into silence.
+CN PLACEHOLDER
+И снова воцарилась тишина.
+
+それぞれが、思い思いに考えをめぐらせているようだった。%K%P
+It seemed like everyone was lost in thought.
+CN PLACEHOLDER
+Очевидно, все пытаются переварить то, что узнали.
+
+確かに、切羽詰まった緊急事態であることはわかった。%K%P
+We knew for sure that we were in serious trouble.
+CN PLACEHOLDER
+А узнали мы то, что положение не завидное.
+
+空の発言に、ある程度の衝撃も覚えた。%K%P
+Sora's words had shaken us a bit.
+CN PLACEHOLDER
+Слова Соры встряхнули нас, слегка.
+
+だけど、５日間という長さは、少なくともぼくにはピンと来なかった。%K%P
+But five days sounded like a long time, and it really didn't register with me.
+CN PLACEHOLDER
+Но, если подумать, пять дней... у нас в запасе целых пять дней.
+
+だって、きっともうすぐ救助隊か誰かが来てくれるんだろうし……。%K%P
+I kept thinking that a rescue team would arrive at any time...
+CN PLACEHOLDER
+Спасательная команда может прибыть в любой момент...
+
+そうたいして心配することでもないだろうと、ぼくはそう思っていたのだった。%K%P
+So I didn't really feel that it was worth worrying about.
+CN PLACEHOLDER
+Стоит ли так беспокоиться?
+
+少年「ねえ、空？」%K%P
+Hey, Sora?
+CN PLACEHOLDER
+Сора.
+
+少年「今、空が言ったことを整理すると、こういうことになるよねぇ？」%K%P
+Can I summarize what you said to make sure I got it?
+CN PLACEHOLDER
+Можно я уточню всё что ты сказала, просто чтобы убедиться, что правильно понял?
+
+空「？」%K%P
+?
+CN PLACEHOLDER
+?
+
+少年「５月７日午前４時３０分頃に、ＬｅＭＵの圧力隔壁は限界に達する」%K%P
+At 4:30 a.m. on May 7th, the walls of LeMU will reach the limit of the pressure that they can handle.
+CN PLACEHOLDER
+7 Мая в 4:30 утра, обшивка LeMU больше не сможет выдерживать давление воды.
+
+少年「でも、もしかしたらその限界は、６日の午後４時半ぐらいかもしれないし、７日の午後４時半ぐらいかもしれない」%K%P
+But that might happen at 4:30 p.m. on the 6th or at 4:30 p.m. on the 7th.
+CN PLACEHOLDER
+Но, это может произойти как шестого в 4:30 вечера, так и седьмого в тот же час.
+
+少年「ここまでは、あってるでしょ？」%K%P
+Is that right so far?
+CN PLACEHOLDER
+Седьмого...в лучшем случае.
+
+空「ええ……」%K%P
+Yes...
+CN PLACEHOLDER
+Да...
+
+少年「ってことはさぁ、逆に言うと、こういうことにならないかなぁ？」%K%P
+So doesn't that mean the opposite is also true?
+CN PLACEHOLDER
+Но, что если верно и обратное?
+
+少年「最低でも、６日の午後４時半ぐらいまでは、ＬｅＭＵは充分持ちこたえることができる」%K%P
+I mean, at the worst, LeMU will last until 4:30 p.m. on May 6th.
+CN PLACEHOLDER
+То есть, в худшем случае с LeMU ничего не случится, пока не наступит вечер 6 Мая.
+
+少年「だから、それまでは全然大丈夫で、心配することなんかないんだ」%K%P
+So, until then, we have nothing to worry about.
+CN PLACEHOLDER
+То есть, пока нам не о чем волноваться.
+
+空「絶対に安全だと断定することはできませんが……」%K%P
+We can't be absolutely certain that we will be safe...
+CN PLACEHOLDER
+Мы не можем утверждать, что будем в безопасности...
+
+空「でも確かに、レミの計算結果から判断すると、そうなりますね」%K%P
+But judging from the results of LeMMIH's calculations, that would appear to be the case.
+CN PLACEHOLDER
+Но, если судить по результатам вычислений ЛеММИХ...
+
+沙羅「ふ〜ん、なぁ〜んだ……」%K%P
+Oh, so that's it...
+CN PLACEHOLDER
+А, тогда ясно...
+
+沙羅「要するに、６日までに誰かが助けに来てくれればいいわけでしょ？」%K%P
+So as long as help comes by the 6th, then we're okay?
+CN PLACEHOLDER
+Значит, если спасатели прибудут шестого числа, с нами всё будет в порядке?
+
+優「そうだよね……『あと１日で』なんて言われたら、思わず泣き出しちゃったかもしれないけど」%K%P
+I see... If you had said, 'We only have one more day', or something, I might have burst out crying.
+CN PLACEHOLDER
+Ясненько.... Знаешь, если бы ты сказала нечто вроде 'Мы можем продержаться лишь один день', я бы точно впала в депресняк.
+
+優「まだまだ時間は充分あるんだし……それまでには、きっと誰かが助けに来てくれるでしょう」%K%P
+So we still have lots of time... I'm sure someone will come to help us before that.
+CN PLACEHOLDER
+Так что у нас ещё куча времени.... До 6 числа сюда обязательно кто-нибудь нагрянет.
+
+いつの間にか、よどんだ空気はさらさらと流れ、部屋のあちこちから安堵のため息が聞こえて来た。%K%P
+The tension in the air broke, and sighs of relief could be heard around the room.
+CN PLACEHOLDER
+Все вздохнули с облегчением.
+
+つぐみは、事前にどこかで情報を入手していたらしく、余裕の笑みを浮かべている。%K%P
+Tsugumi, having gotten the information somewhere before us, was smiling to herself smugly.
+CN PLACEHOLDER
+А Цугуми, что где-то успела добыть информацию раньше остальных, ехидно улыбается.
+
+時刻は５時５０分――。%K%P
+It was 5:50 a.m.
+CN PLACEHOLDER
+Сейчас 5:50 утра.
+
+武「ふぁ〜〜〜〜〜〜〜〜〜〜〜〜あっと」%K%P
+*Yaaaaaaaaawn*...
+CN PLACEHOLDER
+Аааааааааааааааав.
+
+武は大きくあくびをした。%K%P
+Takeshi gave a large yawn.
+CN PLACEHOLDER
+Такеши бесцеремонно зевнул.
+

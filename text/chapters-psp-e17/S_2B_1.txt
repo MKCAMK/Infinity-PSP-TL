@@ -1,0 +1,3062 @@
+﻿修理に向かう前に、そのための道具を調達しなければならない。%K%P
+Before going for repairs, we had to secure tools.
+CN PLACEHOLDER
+Прежде чем заниматься починкой, сперва надо найти инструменты.
+
+ぼくら４人はツヴァイトシュトックにあがると、まずは倉庫に立ち寄った。%K%P
+When the four of us ascended to Zweiter Stock, we stopped by the warehouse first.
+CN PLACEHOLDER
+Когда мы четверо поднялись на Цвайте шток, то заскочили на склад.
+
+幸いと、道具はすぐに見つかった。%K%P
+Fortunately, we found the tools we needed right away.
+CN PLACEHOLDER
+К счастью, мы моментально обнаружили всё необходимое.
+
+ペンチやスパナ、ドライバーにハンマー、小型の溶接機……エトセトラ、エトセトラ……。%K%P
+Pliers, a spanner, a screwdriver, a hammer, a small welding machine... et cetera, et cetera...
+CN PLACEHOLDER
+Клещи, сканер, отвёртку, молоток, небольшой сварочный аппарат...и т.д., и т.п....
+
+およそ必要と思われる道具を工具箱に詰め込むと、中性浮力式エレベーターの前へと向かった。%K%P
+We packed all of the tools we imagined we might need into a toolbox and headed for the neutral buoyancy elevator.
+CN PLACEHOLDER
+Мы запихнули всё что только могло понадобиться в ящик и направились к механическому плавучему лифту.
+
+――中性浮力式エレベーター『ＥＩ／アイ』。%K%P
+―The neutral buoyancy elevator 「Ei」.
+CN PLACEHOLDER
+- Механический плавучий лифт 'EI'.
+
+『ＥＩ』とはドイツ語で『卵』のことを意味する。%K%P
+「Ei」 meant 「egg」 in German.
+CN PLACEHOLDER
+'EI' с немецкого переводится как 'яйцо'.
+
+文字通り、乗り物の形状は卵型をしていて、ＬｅＭＵの側面に設置されたレールに沿って、海中を上下に移動する。%K%P
+It was also a literal take on the egg-shaped elevator that traveled up and down rails into the ocean on the side of LeMU.
+CN PLACEHOLDER
+Чтобы понять, почему так назвали систему рельсовых лифтов, путешествующих по внешней обшивке LeMU, достаточно просто взглянуть на их форму.
+
+床下にはバラストタンクが取り付けられている。%K%P
+A ballast tank was attached to the floor.
+CN PLACEHOLDER
+К полу присоединён бак-балласт.
+
+そこから、海水を排出（または注入）することによって、浮力を調節し、浮上・潜行するという仕組みらしい。%K%P
+It would take in or release seawater from the tank as necessary to increase or reduce buoyancy, making the elevator rise or sink.
+CN PLACEHOLDER
+Он производит забор или выпускает морскую воду, чтобы лифт, соответственно, опускался или поднимался.
+
+ぼくらは中に乗り込むと、ＬｅＭＵ側とエレベーター本体、それぞれについている水密扉を厳重に閉鎖した。%K%P
+Once we were inside, we sealed the watertight doors on the LeMU side of the elevator.
+CN PLACEHOLDER
+Зайдя вместе в лифт, мы закрыли водоупорные двери, что соединяют его с LeMU.
+
+あとは、ＬｅＭＵに接続されているロックを開放すれば、自然と『卵』は沈んで行くはずだ。%K%P
+All we had to do was release the lock connecting us to LeMU, and the 「egg」 would sink away.
+CN PLACEHOLDER
+Осталось лишь открыть замок, соединяющий 'яйцо' с сооружением.
+
+優は、扉の脇に付いていた作動レバーを引いた。%K%P
+You pulled the operating lever next to the door.
+CN PLACEHOLDER
+Ю потянула за управляющий рычаг у двери.
+
+少年「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+武「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+沙羅「…………」%K%P
+...
+CN PLACEHOLDER
+...
+
+優「…………」%K%P
+...
+CN PLACEHOLDER
+...
+
+何も、起こらなかった。%K%P
+Nothing happened.
+CN PLACEHOLDER
+Но ничего не произошло.
+
+武「なんだよ、全然沈まないじゃないか」%K%P
+What's going on? We're not sinking at all.
+CN PLACEHOLDER
+В чём дело? Мы не погружаемся?
+
+優「うーん……そうみたいね」%K%P
+No... It doesn't seem like it.
+CN PLACEHOLDER
+Нет...не похоже на то.
+
+少年「やっぱり、電気が停まってるから動かないんじゃないの？」%K%P
+Do you think it's because the power is out?
+CN PLACEHOLDER
+Думаете, это из-за отсутствия тока?
+
+優「ううん。ＥＩは、中性浮力を利用してるから、基本的には動力を必要としないの」%K%P
+No. The Ei elevator is a neutral buoyancy elevator, so it basically doesn't require outside power.
+CN PLACEHOLDER
+Нет. Лифт EI является механическим, и фактически работает за счёт собственного веса, а не внешней электроэнергии.
+
+優「但し、バラストタンクの注水時・排水時……その時にだけ、電力を用いる」%K%P
+But it does need power for the intake and release of water for the ballast tank... This is the only time it needs power.
+CN PLACEHOLDER
+Она нужна лишь для балластного бака...чтобы тот мог произвести забор воды или, наоборот, выпустить её.
+
+沙羅「でも、今は停電してるから……」%K%P
+But we're in a blackout right now...
+CN PLACEHOLDER
+Но, сейчас всё обесточено...
+
+少年「……バラストのバルブを制御することはできない――そういうことだよね？」%K%P
+...So there's no way to control the ballast valve―is that the problem?
+CN PLACEHOLDER
+...поэтому управлять баком невозможно - проблема в этом?
+
+優「そう」%K%P
+Yes.
+CN PLACEHOLDER
+Да.
+
+武「なーんだ。それじゃ結局のところ、動かせないんじゃないかぁ！」%K%P
+Oh great. So that means we can't move this thing at all then!
+CN PLACEHOLDER
+Ну, здорово. Выходит, мы вообще не сможем сдвинуть эту хреновину с места!
+
+優「バカねぇ。そうじゃないでしょ。あんた、それでも大学生なの？」%K%P
+Stupid. That's wrong. And you're supposed to be a college student?
+CN PLACEHOLDER
+Балбес. Конечно сможем. А ещё студент колледжа, называется...
+
+武「悪かったな！　んじゃ、わかるように説明してくれよ」%K%P
+Well, excuse me! So put it in terms I can understand.
+CN PLACEHOLDER
+Ээ, пардон! Может тогда объяснишь так, чтобы я понял?
+
+沙羅「はーい、はーい、先生！」%K%P
+Professor! I know, I know!
+CN PLACEHOLDER
+Учитель! Я знаю, я знаю!
+
+優「はい、松永君」%K%P
+Alright, Matsunaga-kun.
+CN PLACEHOLDER
+Да, Мацунага-кун?
+
+沙羅「浮力を利用して昇降するってことは、エレベーターの総重量が浮力を上まわれば沈むと思いまーす」%K%P
+In order to use buoyancy to rise or sink, the weight of the elevator must exceed the buoyancy for the object to sink, or vice versa.
+CN PLACEHOLDER
+Чтобы утопить или, наоборот, заставить лифт всплыть, его вес должен превысить или, наоборот, стать меньше, чем сила выталкивания.
+
+優「その通り」%K%P
+That's correct.
+CN PLACEHOLDER
+Садись, пять.
+
+優「もちろん少年も、わかってるよね？」%K%p
+You figured it out too, Kid, right?
+CN PLACEHOLDER
+Кид, до тебя же тоже дошло, так?
+
+わかってる
+I got it
+CN PLACEHOLDER
+Я понял
+
+わかりません
+I don't understand
+CN PLACEHOLDER
+Я не понял
+
+少年「うん。つまり、アルキメデスの原理でしょ？」%K%P
+Yeah. You mean the Archimedes principle, right?
+CN PLACEHOLDER
+Ага. Ты имеешь в виду Закон Архимеда?
+
+少年「『物体にかかる浮力は、その物体が押しのけた液体の重さに等しい』」%K%P
+The buoyancy of a submerged object is equal to the weight of the liquid displaced by the object.
+CN PLACEHOLDER
+Тело, помещённое в жидкость, выталкивает её в объёме, кратном собственному.
+
+少年「今、エレベーターにかかってる浮力は、エレベーター全体の総重量とちょうど釣り合ってる」%K%P
+Right now, the buoyancy of the elevator is exactly balanced with the elevator's weight.
+CN PLACEHOLDER
+А сейчас сила выталкивания и вес лифта находятся в балансе.
+
+少年「だからエレベーターをどんどん重くしてやれば、いずれそれが浮力を上まわって、エレベーターは沈むようになる……と」%K%P
+So if we make the elevator heavier, it will outweigh the buoyancy, and so the elevator will sink, right?
+CN PLACEHOLDER
+Поэтому, если мы утяжелим его, то он перевесит силу выталкивания и утонет...
+
+優「いや〜ん、すっご〜〜い♪　ふたりとも、あったまいい〜〜〜♪」%K%P
+Wow! Good work, you two! What brains!
+CN PLACEHOLDER
+Ух ты! Молодцы, ребята! Ну и мозговитые же друзья мне попались!
+
+優はそう言って、ぼくと沙羅の頭を撫でてくれた。%K%P
+You patted our heads as she praised us.
+CN PLACEHOLDER
+Ю похлопала нас по головам, словно поощряя.
+
+少年「ごめん……全然、わからない」%K%P
+Sorry... I don't get it at all.
+CN PLACEHOLDER
+Прости...я ничего не понял.
+
+優「そっか、少年は記憶喪失中だから、しょうがないよね」%K%P
+Well, the Kid's lost his memory, so it's to be expected.
+CN PLACEHOLDER
+Ну, Кид потерял память, так что этого следовало ожидать.
+
+優「じゃ、マヨ、説明してあげて？」%K%P
+Alright then, Mayo, how about an explanation?
+CN PLACEHOLDER
+Хорошо. Тогда, Майо, может объяснишь им?
+
+沙羅「はーい」%K%P
+Okay.
+CN PLACEHOLDER
+Хорошо.
+
+沙羅「アルキメデスの原理――『物体にかかる浮力は、その物体が押しのけた液体の重さに等しい』」%K%P
+The Archimedes principle states that the buoyant force on a submerged object is equal to the weight of the liquid displaced by the object.
+CN PLACEHOLDER
+По Закону Архимеда, сила выталкивания, воздействующая на тело, помещённое в жидкость, кратна весу вытесненной им жидкости.
+
+沙羅「つまりね？　今、エレベーターにかかってる浮力は、エレベーター全体の総重量とちょうど釣り合ってるの」%K%P
+That means that right now, the buoyancy of the elevator is exactly balanced with the elevator's weight.
+CN PLACEHOLDER
+А сейчас сила выталкивания и вес лифта находятся в балансе.
+
+沙羅「だからエレベーターをどんどん重くしてやれば、いずれそれが浮力を上まわって……」%K%P
+So if we make the elevator heavier, it will outweigh the buoyancy...
+CN PLACEHOLDER
+Так что если мы сделаем его тяжелее, он перевесит её...
+
+少年「エレベーターは沈むようになる……と？」%K%P
+And so the elevator will sink, right?
+CN PLACEHOLDER
+И тогда лифт утонет, верно?
+
+沙羅「そういうこと」%K%P
+You got it.
+CN PLACEHOLDER
+В яблочко.
+
+優「いや〜ん、すっご〜〜い♪　マヨったら、あったまいい〜〜〜♪」%K%P
+Wow! Good work, Mayo! What brains!
+CN PLACEHOLDER
+Ух ты! Молодец! Ну и мозговитая же подружка мне попалась!
+
+優はそう言って、沙羅の頭を撫でた。%K%P
+You patted Sara's head as she praised her.
+CN PLACEHOLDER
+Ю похлопала Сару по голове, словно поощряя.
+
+優「かしこい、かしこい♪」%K%P
+Smart, smart girl!
+CN PLACEHOLDER
+Умница, ум〜ни〜ца.
+
+優「……どっかの誰かさんと違ってね」%K%P
+...Not like some other people here.
+CN PLACEHOLDER
+...Не то что некоторые.
+
+武「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+少年「とにかく、ＥＩが沈まないってことは、まだ重さが足りないってことなんだよね？」%K%P
+So the reason that Ei won't sink yet is that it's not heavy enough, right?
+CN PLACEHOLDER
+Выходит, EI не тонет, потому что недостаточно тяжёлый?
+
+優「うん。なにか、重しになるものを探してこないと……」%K%P
+Yes. We need to find something heavy...
+CN PLACEHOLDER
+Да. Нам придётся поискать что-нибудь тяжёленькое...
+
+ぼくらは手分けして、重りになるようなものを探してくることにした。%K%P
+We split up and went in search of things we could use as weights.
+CN PLACEHOLDER
+Мы разделились и стали искать то, что можно использовать в качестве балласта.
+
+んで、数十分後……。%K%P
+And several minutes later...
+CN PLACEHOLDER
+Несколько минут спустя...
+
+武「――どっこいしょっと！」%K%P
+Gggrrrrppphh!
+CN PLACEHOLDER
+Гггррррффффф!
+
+武は大きな観葉植物の植木鉢を抱えてやってきた。%K%P
+Takeshi was carrying a massive planting pot.
+CN PLACEHOLDER
+Такеши притащил здоровенный цветочный горшок.
+
+優「えっちらホイ……おっちらホイ……」%K%P
+Heave-ho, heave-ho...
+CN PLACEHOLDER
+Эх-раз, ещё-раз...
+
+優が持ってきたのは石膏の置物。%K%P
+You brought a plaster ornament.
+CN PLACEHOLDER
+Ю притащила пластиковую арку.
+
+ちなみにぼくは、警備室で見つけた雑誌の束を持ってきていた。%K%P
+And I brought a magazine holder and a bundle of magazines from the security office.
+CN PLACEHOLDER
+Я принёс журнальную стойку и кипу журналов из Офиса Охраны.
+
+そして、沙羅は……%K%P
+And Sara...
+CN PLACEHOLDER
+А Сара...
+
+沙羅「うんしょっと……うんしょ……」%K%P
+Heave... Heave...
+CN PLACEHOLDER
+И раз...и два...
+
+ずるずる……。%K%P
+Pull, pull...
+CN PLACEHOLDER
+Шарк, шарк...
+
+少年「さ、沙羅？　それは……」%K%P
+S-Sara? That's...
+CN PLACEHOLDER
+С-Сара? Это же...
+
+武「な、なに持ってきてんだよ……お前……」%K%P
+What in the name of...
+CN PLACEHOLDER
+Какого хрена...
+
+沙羅は……巨大なマグロを引きずって現れた。%K%P
+Sara... was dragging a massive tuna.
+CN PLACEHOLDER
+Сара...тащит здоровенного тунца.
+
+優「それ……どうしたの？」%K%P
+What... happened to that?
+CN PLACEHOLDER
+Это...е-ещё откуда?
+
+沙羅「向こうの通路に、落ちてたの」%K%P
+It was in the corridor over there.
+CN PLACEHOLDER
+Это я нашла вон там, в коридоре.
+
+沙羅「たぶん浸水のとき、厨房の冷蔵庫から流れてきたんだと思う」%K%P
+I guess it probably washed out from the kitchen fridge during the flood.
+CN PLACEHOLDER
+Наверно её смыло из холодильника на кухне во время затопления.
+
+少年「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+優「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+武「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+沙羅「ちょっと冷たいけど、我慢して？」%K%P
+It's a little cold, but it's okay, right?
+CN PLACEHOLDER
+Она немножко холодная, но ничего страшного, правда?
+
+かくして、ぼくら４人は狭いＥＩの中で、冷凍マグロを抱きかかえるようにして、ドリットシュトックへと降りていった。%K%P
+So the four of us packed ourselves into Ei and headed down to Dritter Stock holding a frozen tuna.
+CN PLACEHOLDER
+Итак, мы вчетвером затарились в EI и, взяв на руки свежемороженого тунца, отправились на Дритте шток.
+
+ゆっくりとゆっくりと、潜行を始める『ＥＩ』……。%K%P
+Ei began to descend ever so slowly...
+CN PLACEHOLDER
+Лифт стал опускаться. Правда, чересчур медленно...
+
+窓の外をのぞくと、青い視界の向こうにＬｅＭＵの外観が見えた。%K%P
+Peeking through the window and into the blue, we could see the outside of LeMU.
+CN PLACEHOLDER
+В иллюминатор, через голубую синеву, мы увидели, как LeMU выглядит снаружи.
+
+青は徐々に濃度を増し、重々しい鉄の隔壁が上へ上へと遠ざかって行く。%K%P
+The blue gradually got darker, and the steel bulkhead appeared to move farther away upward.
+CN PLACEHOLDER
+Синева перешла в черноту, а стальные переборки, сверкая, удалились вверх.
+
+少年「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+沙羅「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+優「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+武「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+ぼくらはその間、無言だった。%K%P
+We were silent during that time.
+CN PLACEHOLDER
+Всё это время мы молчим.
+
+そもそも、こんな格好で、なにを話せというのか。%K%P
+What was there really to talk about?
+CN PLACEHOLDER
+И вообще, есть ли смысл что-то обсуждать?
+
+いや、そういえば、優が一言だけ……。%K%P
+No, actually, You did say one thing...
+CN PLACEHOLDER
+Нет, на самом деле, Ю кое-что сказала...
+
+優「そう言えばさぁ、食用捕鯨って、国際条約で禁止されてたよねぇ？」%K%P
+Hey, wasn't catching dolphins for food banned under some international treaty?
+CN PLACEHOLDER
+Слушайте, а разве ловля дельфинов для приготовления пищи не запрещена?
+
+優には、イルカとマグロの区別がつかないらしかった。%K%P
+It seemed that You was having trouble with the difference between a dolphin and a tuna.
+CN PLACEHOLDER
+Видимо, она не понимает, в чём разница между дельфином и тунцом.
+
+誰も、それに答えようとはしない。%K%P
+No one tried to answer her.
+CN PLACEHOLDER
+Конечно, никто и не пытается ей ответить.
+
+ぼくは……なにも考えないことにした。%K%P
+I... decided not to think about anything.
+CN PLACEHOLDER
+Я...решил больше ни о чём не думать.
+
+ドリットシュトック第７区画――浸水によって隔離された、もう一方のエリア。%K%P
+Dritter Stock Sector Seven was another area sealed off because of flooding.
+CN PLACEHOLDER
+Седьмой сектор Дритте шток - ещё одна зона, запечатанная из-за затопления.
+
+ぼくらは、そこに降りたった。%K%P
+That was where we got off.
+CN PLACEHOLDER
+Туда-то мы и спустились.
+
+マグロを抱えたぼくら４人が降りてしまうと、ＥＩはその荷重を失い、再びツヴァイトシュトックへと浮かび上がっていった。%K%P
+Once the four of us holding the tuna got off, Ei lost its baggage and floated up to Zweiter Stock again.
+CN PLACEHOLDER
+Как только мы четверо, держа тунца на руках, вышли, EI потерял вес и поплыл обратно на Цвайте шток.
+
+少年「あ、あ……。どうしよう……戻れなくなっちゃうよ」%K%P
+Oh, no. What'll we do...? We can't get back now.
+CN PLACEHOLDER
+Ой, нет. И что же теперь делать?.... Обратно нам уже не вернуться.
+
+優「大丈夫よ。ＥＩはもう１基あるの。そっちがこのフロアに停まってることは確認済みだから」%K%P
+No problem. There's one more Ei. I checked, and it's stopped on this floor.
+CN PLACEHOLDER
+Всё в порядке. Здесь есть ещё один EI. Я проверяла - он остановился на этом этаже.
+
+少年「なんだ……びっくりした……」%K%P
+Oh... That surprised the heck out of me...
+CN PLACEHOLDER
+Ээ...а я уж было перепугался...
+
+武「はっはっは……。あ、当たり前だろ。じゃなきゃ、４人で降りてきたりしないってばさ」%K%P
+HAHAHA... If there wasn't another one, there's no way the four of us would ever come down here.
+CN PLACEHOLDER
+ХА〜ХА〜ХА.... Если бы здесь не было ещё одного лифта, не стоило и заикаться о том, чтобы мы четверо сюда спустились.
+
+沙羅「ふーん。その割に、顔、引きつってるけど？」%K%P
+You sure? You seemed pretty petrified with fear yourself.
+CN PLACEHOLDER
+Неужели? А по-моему ты чуть в штаны не наложил.
+
+武「やかましいっ！　余計なツッコミ入れんなっ」%K%P
+Zip it! I don't want any more lip from you!
+CN PLACEHOLDER
+Держи рот на замке! Ещё слово, и я за себя не отвечаю!
+
+優「はいはい……そんなことはどうでもいいから、さっさと行くよ？」%K%P
+Alright, alright... Enough of that. Let's get going.
+CN PLACEHOLDER
+Да ладно вам...кончайте с этим. Пойдём-ка лучше.
+
+冷凍マグロをエレベーターフロアに置くと、ぼくらは発電室に向かって歩き始めた。%K%P
+We put the frozen tuna down and began walking toward the generator room.
+CN PLACEHOLDER
+Мы положили мороженого тунца и пошли в сторону Генераторной.
+
+こちら側のエリアも、浸水の関係で水浸しになっている。%K%P
+This side of the area was also inundated with water from the flood.
+CN PLACEHOLDER
+Эта часть сектора тоже оказалась подтоплена.
+
+相変わらず、辺りは真っ暗闇に包まれている。%K%P
+It was still bathed in darkness.
+CN PLACEHOLDER
+Вода всё ещё плещется в темноте.
+
+海面からかすかに届く青い光が、小さな丸い窓からゆらゆらと射し込み、床に波状の影を作っている。%K%P
+Blue light from the surface dimly pierced through the small round windows, making a wave-like shadow on the floor.
+CN PLACEHOLDER
+Голубой свет с поверхности едва пробивается сквозь маленькие округлые окна, создавая волнистую тень на полу.
+
+ぼくら４人は、それと懐中電灯の明かりを頼りに、奥へ奥へと進んでいく。%K%P
+The four of us relied on that and our flashlight as we proceeded deeper and deeper into the complex.
+CN PLACEHOLDER
+Мы четверо, ведомые этим светом и нашим фонариком, уходим вглубь комплекса.
+
+武「お、お〜い……。ちょ、ちょっと待ってくれよぉ〜〜！」%K%P
+Hey... Wait up!
+CN PLACEHOLDER
+Эй...да постойте же!
+
+角を曲がったとき、後方から武の悲鳴があがった。%K%P
+When we turned a corner, we heard Takeshi call out from behind us.
+CN PLACEHOLDER
+Когда мы свернули за угол, то услышали крик Такеши за своей спиной.
+
+優「なにやってんの〜？　チンタラしてると置いてくよ〜」%K%P
+What are you doing? Hurry up. No dawdling or we'll leave you behind.
+CN PLACEHOLDER
+Чего ты ждёшь? Скорей. Не тормози, иначе один останешься.
+
+武「チンタラって……。お前なっ！　この工具箱、むちゃくちゃ重いんだぞ！？」%K%P
+I'll show you dawdling! This toolbox weighs a ton!
+CN PLACEHOLDER
+Я тебе покажу, кто тормозит! Этот хренов ящик весит тонну!
+
+振り返ると、武は工具箱を床に置いて、肩で息をしているようだった。%K%P
+Looking back, there was Takeshi with the toolbox on the floor, breathing hard.
+CN PLACEHOLDER
+Оглянувшись, я увидел на полу запыхавшегося Такеши в обнимку с инструментами.
+
+優「ったく、仕方ないなぁ。少年、手伝ってあげてよ」%K%P
+Geez. Gimme a break. Kid, give him a hand.
+CN PLACEHOLDER
+Блин. И почему я одна здесь думаю? Кид, помоги ему.
+
+少年「う、うん……わかった」%K%P
+A-Alright.
+CN PLACEHOLDER
+Х...хорошо.
+
+武のところまで、早足で戻るぼく。%K%P
+I hurried to where Takeshi was.
+CN PLACEHOLDER
+Я поспешил к тому месту, где сидит Такеши.
+
+少年「武、手伝うよ」%K%P
+Takeshi, I'll help you.
+CN PLACEHOLDER
+Такеши, я тебя выручу.
+
+武「おっ、わりーな。んじゃ、そっちから持ってくれ」%K%P
+Thanks. Take it from that side.
+CN PLACEHOLDER
+Спасибо. Возьми его вон с той стороны.
+
+少年「うん」%K%P
+Okay.
+CN PLACEHOLDER
+Взял.
+
+ふたりで左右から工具箱を持ち上げる。%K%P
+The two of us took the toolbox from both sides.
+CN PLACEHOLDER
+Мы вместе взяли ящик с двух сторон.
+
+武「ふぅ、助かったよ。このままひとりで持ってたら、腕がもげるところだった」%K%P
+Whew! Thanks. I thought my arms would fall off, carrying it all alone.
+CN PLACEHOLDER
+Фухх! Спасибо. Я думал, что у меня от этой тяжести вот-вот отвалятся руки.
+
+少年「大袈裟だなぁ……」%K%P
+Quit exaggerating...
+CN PLACEHOLDER
+Не преувеличивай...
+
+少年「――あっ、武！　足下、気をつけて！　そこ、段差あるから！」%K%P
+Oh, Takeshi! Watch out! There's a bump sticking out%Nthere!
+CN PLACEHOLDER
+Ой, Такеши! Берегись! Сверху что-то торчит!
+
+武「ぬぉっ！　あ、あぶねぇっ！」%K%P
+Whoa! Th-That was close!
+CN PLACEHOLDER
+Ёёёё! Ч-чуть не...!
+
+かろうじて体勢を立て直す武。%K%P
+Takeshi was just able to right himself.
+CN PLACEHOLDER
+Ещё чуть-чуть, и Такеши бы точно поранился.
+
+武「ふぃ〜、びっくらこいた……。危うく、スッ転ぶとこだったぜ……」%K%P
+Whew. That surprised the heck outta me... I just about fell down...
+CN PLACEHOLDER
+Фухх. Ещё чуть-чуть, и я бы трёкнулся...
+
+武「それにしても、よく気づいたな少年。こんなに真っ暗だってぇのに」%K%P
+Glad you noticed that, Kid. It being so dark and everything... Good job.
+CN PLACEHOLDER
+Хорошо, что ты вовремя заметил, Кид. Здесь так темно...молодец.
+
+少年「え？　そんなに暗いかなぁ……」%K%P
+Huh? You really think it's that dark...?
+CN PLACEHOLDER
+Что? Ты действительно считаешь, что здесь темно...?
+
+少年「あ、ひょっとして、武って鳥目？」%K%P
+Takeshi, maybe you've got bad night vision.
+CN PLACEHOLDER
+Такеши, наверно ты плохо видишь в темноте.
+
+武「う〜む……そうかも」%K%P
+Hmmm... Could be.
+CN PLACEHOLDER
+Хммм...наверно.
+
+武「確か、ビタミンＡが不足してるんだっけか？　そういや俺、レバーとかニンジン、大嫌いだしな」%K%P
+What is it that causes that? Lack of vitamin A or something? I hate liver and carrots.
+CN PLACEHOLDER
+Чем же это вызвано? Нехваткой витамина 'А' что ли? Ненавижу ливер и морковь.
+
+少年「好き嫌いは良くないよ？」%K%P
+You shouldn't be so picky.
+CN PLACEHOLDER
+Не стоило быть таким разборчивым.
+
+やがて、優と沙羅に追いつく頃、目的地に到着した。%K%P
+Finally, as we caught up with You and Sara, we reached our destination.
+CN PLACEHOLDER
+Когда мы догнали Ю и Сару, то уже добрались до места назначения.
+
+黄色と黒のストライプがぼんやりと見える。%K%P
+Dim yellow and black stripes appeared ahead.
+CN PLACEHOLDER
+Впереди показались едва различимые жёлтые и чёрные полосы.
+
+武「ここか？　発電室ってぇのは……」%K%P
+This is it? This is the generator room...?
+CN PLACEHOLDER
+Это то, что я думаю? Мы у Генераторной...?
+
+扉の前にプレートがあったが、暗すぎて文字は読めなかった。%K%P
+There was a plate with information on the front of the door, but it was too dark to read.
+CN PLACEHOLDER
+Перед дверью висит табличка с информацией, но прочитать её практически невозможно.
+
+優「とりあえず、覗いてみますか」%K%P
+I'll take a look.
+CN PLACEHOLDER
+Сейчас посмотрим.
+
+優は扉のハンドルに手を伸ばそうとした……。%K%P
+You reached toward the door handle...
+CN PLACEHOLDER
+Ю потянулась к дверному засову...
+
+（――！？）%K%P
+(――!?)
+CN PLACEHOLDER
+(!?)
+
+少年「ちょ、ちょっと待った！」%K%P
+Wa-Wait a second!
+CN PLACEHOLDER
+С-стой!
+
+ぼくは反射的に優の腕をつかんでいた。%K%P
+Instinctively, I grabbed You's arm.
+CN PLACEHOLDER
+Инстинктивно, я схватил Ю за руку.
+
+優「え？　え？　な、なに……！？」%K%P
+Wh-What? What is it...?
+CN PLACEHOLDER
+Ч-что? Что стряслось...?
+
+武「？」%K%P
+?
+CN PLACEHOLDER
+?
+
+沙羅「？？」%K%P
+?
+CN PLACEHOLDER
+??
+
+武と沙羅も、動きを止めてぼくの方を凝視している。%K%P
+Takeshi and Sara stared at me questioningly.
+CN PLACEHOLDER
+Такеши с Сарой вопрошающе посмотрели на меня.
+
+優「どうしたの？」%K%P
+What's the matter?
+CN PLACEHOLDER
+В чём дело?
+
+少年「え、えーっと……それは……」%K%P
+Uh... Um... The thing is...
+CN PLACEHOLDER
+Ээ...это...дело в том, что...
+
+――返す言葉が見つからない。%K%P
+I couldn't find the words to reply.
+CN PLACEHOLDER
+Я не знаю, что ответить.
+
+ぼくはなぜ、そんなことを言ったのだろう。%K%P
+I wondered why I had said what I had.
+CN PLACEHOLDER
+Лишь думаю о том, почему сказал то, что сказал.
+
+自分でもよくわからなかった。%K%P
+I really didn't know.
+CN PLACEHOLDER
+Я правда не знаю.
+
+ただ、なんとなく……%K%P
+Yet, somehow...
+CN PLACEHOLDER
+Но, почему-то...
+
+少年「中がどうなってるかもわからないのに、いきなり開けたら危ないでしょ？」%K%P
+If you don't know what's going on inside, don't you think it might be dangerous to just open the door?
+CN PLACEHOLDER
+Если ты не знаешь, что творится с другой стороны, не думаешь что будет опасно просто так туда соваться?
+
+……そう、なんとなくそう思っただけなのだ。%K%P
+...I was just rattling off what popped into my mind.
+CN PLACEHOLDER
+...Я просто выпалил первое, что пришло ко мне в голову.
+
+いや、思うよりも、言葉が喉元から溢れ出る方が先だったような気もする。%K%P
+No, I hadn't even thought it. It just seemed to jump from my throat before anything else.
+CN PLACEHOLDER
+Нет, я даже не успел так подумать. Будто эти слова сами выскочили из моего рта.
+
+例えば、熱いなべの蓋に触れて手を引っ込めるときと同じように、%K%P
+Kind of like when you snap your hand back after touching a hot stove.
+CN PLACEHOLDER
+Типа того, когда отдёргиваешь руку после касания об раскалённую печку.
+
+ぼくは条件反射的に口を開いていたのだった。%K%P
+I just reflexively blurted it out.
+CN PLACEHOLDER
+Рефлексы...сплошные рефлексы.
+
+優「どういうこと？」%K%P
+What do you mean?
+CN PLACEHOLDER
+То есть?
+
+それでも優は納得いかないようだった。%K%P
+You wasn't buying it.
+CN PLACEHOLDER
+Ю не купилась.
+
+ぼくは優の腕から手を離し、言葉を探した。%K%P
+I took my hand from You's arm and searched for words.
+CN PLACEHOLDER
+Я отпустил её руку и стал искать подходящие слова.
+
+すると……%K%P
+At that moment...
+CN PLACEHOLDER
+И тут...
+
+沙羅「それもそうだよね」%K%P
+It's kind of like this...
+CN PLACEHOLDER
+Вот что он хочет сказать...
+
+沙羅「もしかしたら、熱水を運んでるパイプかなんかが破裂してて、高温の蒸気が中に充満してるかもしれないし……」%K%P
+If a pipe carrying hot water burst, then the room could be full of hot steam...
+CN PLACEHOLDER
+Если труба, по которой шла горячая вода, взорвалась, тогда помещение скорее всего забито горячим паром...
+
+沙羅がフォローを入れてくれた。%K%P
+Sara took up the slack in my explanation.
+CN PLACEHOLDER
+Сара добавила основу в моё разъяснение.
+
+（あ、そうか、なるほど……）%K%P
+(Oh, I see...)
+CN PLACEHOLDER
+(Ох, вот оно что...)
+
+自分で危機を察知しておきながら、ぼくはその危機をうまく言葉にすることができなかったようだ。%K%P
+While I sensed danger, I couldn't express in words what it might be.
+CN PLACEHOLDER
+Когда я почувствовал опасность, то не смог выразить свою догадку словами.
+
+ぼくら３人は納得して頷いていた。%K%P
+The three of us nodded, satisfied.
+CN PLACEHOLDER
+Мы втроём удовлетворённо кивнули.
+
+武「どれ？　ためしてみるか」%K%P
+Okay, let's give it a try.
+CN PLACEHOLDER
+Ладно, давайте попробуем.
+
+武は手を床の海水に浸し、指先についた水滴を鉄製の扉に向かって弾いてみた。%K%P
+Takeshi touched his hand to the wet floor. He went to place his damp fingers on the door.
+CN PLACEHOLDER
+Такеши опустил руку на мокрый пол. Затем стряхнул капли с руки на дверь.
+
+水滴はジューッと音をたてて蒸発してしまった。%K%P
+The droplets sizzled, evaporating away.
+CN PLACEHOLDER
+В то же мгновение, капли испарились, издав шипящий звук.
+
+武「ほんとだ」%K%P
+It's true.
+CN PLACEHOLDER
+Ребята, вы правы!
+
+沙羅の言った通りだった。%K%P
+It was just like Sara had said.
+CN PLACEHOLDER
+Всё именно так, как сказала Сара.
+
+武「でも……そんなこと、よくわかったな？　少年」%K%P
+Wow... That was pretty sharp, Kid.
+CN PLACEHOLDER
+Ого...быстро же ты среагировал, Кид.
+
+少年「う、うん……」%K%P
+Uh... Yeah.
+CN PLACEHOLDER
+Ээ...ну да.
+
+と返事をしたものの、わかってなんかいなかった。%K%P
+I replied, but I hadn't really known it would be dangerous either.
+CN PLACEHOLDER
+Ответил я, хотя на самом деле даже не знаю, что там внутри опасно.
+
+わかっていたのはぼくの中にいる別の誰かで、%K%P
+The one who had known was a separate someone inside me.
+CN PLACEHOLDER
+Тот кто знает, некто другой внутри меня.
+
+その誰かがぼくの口と声帯を借りて発話していたに過ぎない。%K%P
+That someone had simply borrowed my voice.
+CN PLACEHOLDER
+Этот кто-то просто позаимствовал мой голос.
+
+そう思わせるぐらいの違和感が、ぼくの中にはあった。%K%P
+What had happened was so strange that it made me feel out of place in my own skin.
+CN PLACEHOLDER
+То, что произошло, так странно, что я почувствовал себя не в своей тарелке.
+
+沙羅「とにかく、このままじゃ中に入れないってことだよね」%K%P
+Anyway, with things as they stand, there's no going inside.
+CN PLACEHOLDER
+Так или иначе, внутрь пока нам не пробраться.
+
+武「ああ、困ったな」%K%P
+Ooh, shoot.
+CN PLACEHOLDER
+Оой, чёрт.
+
+優「うーん、そうね……」%K%P
+I'll say...
+CN PLACEHOLDER
+Я бы сказала...
+
+優「ひとまず、発電室に流れている熱水のバルブを閉めましょう」%K%P
+First off, let's close off all the valves for pipes sending hot water to the generator room.
+CN PLACEHOLDER
+Сперва нам придётся закрыть все вентили, что подают на трубы горячую воду в Генераторную.
+
+優「熱水さえ止まれば、この中の蒸気の放出も停止するはずだから」%K%P
+If we stop the flow of hot water, then steam should stop flowing to the room.
+CN PLACEHOLDER
+Если мы остановим утечку, то пар должен перестать бить в комнате.
+
+沙羅「バルブ？　それ、どこにあるんですか？」%K%P
+Valves? Where are those?
+CN PLACEHOLDER
+Вентили? А где они?
+
+優「この隣の部屋よ。もうひとつ奥の通路を進んでいくの」%K%P
+In the room next door. Down one more corridor that way.
+CN PLACEHOLDER
+В соседней комнате. Коридором ниже.
+
+優「そんなに人数は必要ないから……私と……そうね、あともうひとり、手伝って欲しいんだけど」%K%P
+It won't require that many people... Just me and... one more person to help.
+CN PLACEHOLDER
+Много людей там не понадобится...только я и... кто-нибудь из вас.
+
+武「よしきた、まかせろ！」%K%P
+Alright, leave it to me!
+CN PLACEHOLDER
+Хорошо, предоставьте это мне!
+
+優「えぇ〜っ、倉成ぃ〜？」%K%P
+Huh? Kuranari?
+CN PLACEHOLDER
+Чего? Куранари?
+
+武「こら！　俺のどこが不服なんじゃい！」%K%P
+Hey! What's wrong with me?
+CN PLACEHOLDER
+Эй! А что во мне плохого?
+
+優「だってぇ……倉成なんかとふたりっきりになったら、ヘンなことされそうじゃない」%K%P
+It's just that... if we're alone, I'm afraid that you'll do something.
+CN PLACEHOLDER
+Просто...боюсь, если мы останемся наедине, ты сделаешь что-то плохое.
+
+武「あ、あのなぁ……」%K%P
+Uh, that's...
+CN PLACEHOLDER
+Ээ, это...
+
+沙羅「あの……私が手伝いましょうか？」%K%P
+Uh... Maybe I should help?
+CN PLACEHOLDER
+Хм...может я смогу помочь?
+
+優「あ、いいのいいの。マヨはここで待ってて」%K%P
+Oh no, that's okay. Mayo, you wait here.
+CN PLACEHOLDER
+Ой, нет, не стоит. Майо, жди здесь.
+
+沙羅「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+武「なぁ、おい少年、お前はどうするよ？」%K%P
+Hey, Kid. So what're you gonna do?
+CN PLACEHOLDER
+Эй, Кид. И что ты будешь делать?
+
+少年「え？　ぼく……？」%K%p
+Huh? Me...?
+CN PLACEHOLDER
+Чего? Я...?
+
+優を手伝う
+I'll help You
+CN PLACEHOLDER
+Я помогу Ю
+
+ここで待ってる
+I'll wait here
+CN PLACEHOLDER
+Подожду-ка здесь
+
+みんなで行けばいいんじゃない？
+Why don't we go together?
+CN PLACEHOLDER
+А почему-бы не пойти всем вместе?
+
+少年「ぼく、優の手伝いをするよ」%K%P
+I'm going to help out You.
+CN PLACEHOLDER
+Я помогу Ю.
+
+武「そうかい。なら、俺と沙羅で留守番だな」%K%P
+Okay. In that case, Sara and I will hold down the fort%Nhere.
+CN PLACEHOLDER
+Хорошо. В таком случае, Сара и я подежурим здесь.
+
+武「おい、それなら文句ねぇだろ？」%K%P
+You can't complain about that, right?
+CN PLACEHOLDER
+Ты ведь не будешь протестовать, так?
+
+優「ＯＫ〜」%K%P
+Okay.
+CN PLACEHOLDER
+Ладно.
+
+武「ったく、俺が何したってんだよ……ぶつぶつ」%K%P
+Geez. Damned if I do, damned if I don't.
+CN PLACEHOLDER
+Ну ёлки-палки. Хоть иди, хоть не иди - один хрен, виноват...
+
+どうやら武は、今朝の夢のことを覚えていないようだった。%K%P
+It seemed that Takeshi was oblivious to his disturbing dream the night before.
+CN PLACEHOLDER
+Очевидно, что Такеши не имеет понятия о своём беспокойном сне прошлой ночью.
+
+少年「きっと優は、優なりに武のこと気遣ってるんだと思うよ」%K%P
+I figure that You is concerned about you in her own%Nway.
+CN PLACEHOLDER
+Думаю, что Ю беспокоится о тебе по-своему.
+
+少年「ほら、重い工具箱を運んでもらったりしたわけだから、少しは休んで……ってことじゃないのかな？」%K%P
+Like when she had you carry the heavy toolbox... Maybe it was her way of saying 'rest a bit' or 'take it easy'.
+CN PLACEHOLDER
+Например, когда она доверила тебе тащить этот тяжёлый ящик с инструментами...может так она пыталась сказать 'отдохни немножко' или 'будь осторожен'.
+
+武「そういうもんかねぇ……っていうか、すげー好意的な解釈だけどな」%K%P
+You think so? That's a pretty generous interpretation, I'd say.
+CN PLACEHOLDER
+Ты так думаешь? Сказать по-правде, это очень великодушная интерпретация.
+
+武「まあ、いいや。だったらお言葉に甘えて、俺達はマッタリしとくことにするさ。な？　沙羅？」%K%P
+Oh well. In that case, I guess Sara and I will just have to sit back and relax together.
+CN PLACEHOLDER
+Ну ладно. В таком случае, наверно мы с Сарой просто присядем и немножко отдохнём - вместе.
+
+沙羅「私、合気道３段ですから」%K%P
+Just so you know, I'm a third-degree black belt in Aikido.
+CN PLACEHOLDER
+К твоему сведению, у меня чёрный пояс по Айкидо.
+
+武「へっ？」%K%P
+Huh?
+CN PLACEHOLDER
+Эээ?
+
+沙羅「それと、空手３段、剣道２段、弓道２段、伊賀流忍術７段」%K%P
+Also in karate, and second-degree in kendo, and in archery, and a seventh in Iga Style Ninjutsu.
+CN PLACEHOLDER
+А ещё по Каратэ, второй разряд по Кендо, стрельбе из лука, и седьмой по стилю Ига в Нинждитсу.
+
+武「？？？」%K%P
+?
+CN PLACEHOLDER
+???
+
+沙羅「ようするに……拙者には手を出さない方が身のためでござるよ？」%K%P
+So basically... you'd better not try anything on me, you got it?
+CN PLACEHOLDER
+Проще говоря...если тебе дорога твоя жизнь и зубы, даже не пытайся распускать руки, де гозару йо!
+
+武「…………………………」%K%P
+..........
+CN PLACEHOLDER
+...............
+
+優「ほら少年、行くよ？」%K%P
+Kid, should we get going?
+CN PLACEHOLDER
+Ну так что, Кид, может пойдём?
+
+少年「う、うん……」%K%P
+Uh, yeah...
+CN PLACEHOLDER
+Ээ, ага...
+
+ぼくと優は、空気の固まりかけたその場を後にした。%K%P
+You and I left the increasingly tense atmosphere behind.
+CN PLACEHOLDER
+Мы с Ю ушли, оставив позади накалившуюся до красна атмосферу.
+
+少年「ぼくは……ここで待ってるよ」%K%P
+I'll... wait here.
+CN PLACEHOLDER
+Я...подожду здесь...
+
+武「だってよ。どういたしますか？」%K%P
+So what are we going to do?
+CN PLACEHOLDER
+Ну-с, и чем же мы займёмся?
+
+優「仕方ないなぁ……じゃあ、倉成で我慢しますか」%K%P
+Oh well... Then I'll have to make do with Kuranari.
+CN PLACEHOLDER
+Вот невезёт, а...значит всё-таки придётся работать с Куранари.
+
+武「ったく可愛くねぇな。もっと素直に喜ばんかい」%K%P
+Geez. You're a piece of work. Can't you let your real feelings show?
+CN PLACEHOLDER
+Блин. Да ты, я погляжу, трудоголик. Неужели нельзя было показать свои истинные чувства?
+
+優「ヘンな気起こしたら、張り倒すからね？」%K%P
+Don't be getting any strange ideas. You do and I'll knock you down. Got it?
+CN PLACEHOLDER
+Не грезь наяву. Только попробуй выкинуть какой-нибудь фортель, и я тебя вырублю. Усёк?
+
+武「……安心してくれ。間違っても、お前だけは、ぜってぇに襲わねぇ」%K%P
+...Take it easy. There's no way I'd try something on you, even by mistake.
+CN PLACEHOLDER
+...Да расслабься ты. Вероятность того, что я попробую сделать нечто подобное, даже случайно, равна нулю.
+
+そんな風にぎゃーぎゃー言い合いながら、優と武は通路の向こうへと姿を消した。%K%P
+When the two of them disappeared at the far end of the corridor, they were still going at it.
+CN PLACEHOLDER
+Когда они вместе исчезли на дальнем конце коридора, я всё ещё мог слышать их перебранку.
+
+沙羅「あのふたりさ……」%K%P
+Those two...
+CN PLACEHOLDER
+Эти двое...
+
+少年「うん？」%K%P
+Yeah?
+CN PLACEHOLDER
+Да?
+
+沙羅「なんだかんだ言って、結構いいコンビだと思わない？」%K%P
+I don't know, I think they make a pretty good couple, don't you?
+CN PLACEHOLDER
+Не знаю, может из них получилась бы отличная пара, как думаешь?
+
+少年「そうかなぁ？」%K%P
+Think so?
+CN PLACEHOLDER
+Серьёзно?
+
+沙羅「うん。なっきゅ先輩って、気に入った相手には遠慮しない性格だから……心を包み隠さないっていうか」%K%P
+Yeah. Nakkyu-senpai is the kind of person who tells people she likes what she really thinks... She speaks her mind.
+CN PLACEHOLDER
+Ага. Няку всегда говорит то, что думает...она просто такой человек.
+
+少年「ふーん」%K%P
+Hmmmm.
+CN PLACEHOLDER
+Хмммм.
+
+沙羅「武も似たようなタイプっぽいしね」%K%P
+Takeshi kind of seems like that too.
+CN PLACEHOLDER
+Такеши, похоже, ведёт себя также.
+
+そういうものだろうか……と首を捻りつつも、そんなふたりが少し羨ましく思えた。%K%P
+I wasn't sure why... but somehow, I was a little jealous of You and Takeshi.
+CN PLACEHOLDER
+Не знаю, почему...но в душе я слегка ревную к Ю и Такеши.
+
+ぼくには、さらけだせるものが、何ひとつないのだから……。%K%P
+Even if I wanted to, I couldn't open up to anyone like that... I had nothing to share...
+CN PLACEHOLDER
+Даже если бы я хотел, то не смог бы открыться вот так кому бы то ни было...потому что открывать, собственно, нечего...
+
+少年「って言うか、みんなで行けばいいんじゃない？」%K%P
+Why doesn't everyone go?
+CN PLACEHOLDER
+А почему бы нам не пойти всем вместе?
+
+ぼくはそう言った。%K%P
+That was my idea.
+CN PLACEHOLDER
+А что, хорошая идея.
+
+優「…………」%K%P
+...
+CN PLACEHOLDER
+...
+
+武「…………」%K%P
+...
+CN PLACEHOLDER
+...
+
+沙羅「…………」%K%P
+...
+CN PLACEHOLDER
+...
+
+優「確かに、それもそうね……」%K%P
+Well, I guess that is an option...
+CN PLACEHOLDER
+Ладно, какой-никакой, а вариант...
+
+武「２・２で分かれる必要なんてないもんな……」%K%P
+There's no reason we have to split into teams of two...
+CN PLACEHOLDER
+Да и незачем разделяться на группы...
+
+沙羅「そうすれば、さすがに武も、手、出せないしね」%K%P
+And Takeshi won't go putting the moves on me that way.
+CN PLACEHOLDER
+Тогда, Такеши точно не станет на меня посягаться.
+
+武「だから、出さねぇーっつーの」%K%P
+I said I'm not interested.
+CN PLACEHOLDER
+Да кому ты нафиг нужна!
+
+武「なぁ、おい少年、お前はどうするよ？」%K%P
+Hey, Kid. So what're you gonna do?
+CN PLACEHOLDER
+Эй, Кид. И что ты будешь делать?
+
+少年「え？　ぼく……？」%K%p
+Huh? Me...?
+CN PLACEHOLDER
+Чего? Я...?
+
+優を手伝う
+I'll help You
+CN PLACEHOLDER
+Я помогу Ю
+
+ここで待ってる
+I'll wait here
+CN PLACEHOLDER
+Подожду-ка здесь
+
+少年「ぼく、優の手伝いをするよ」%K%P
+I'm going to help out You.
+CN PLACEHOLDER
+Я помогу Ю.
+
+武「そうかい。なら、俺と沙羅で留守番だな」%K%P
+Okay. In that case, Sara and I will hold down the fort here.
+CN PLACEHOLDER
+Хорошо. В таком случае, Сара и я подежурим здесь.
+
+武「おい、それなら文句ねぇだろ？」%K%P
+You can't complain about that, right?
+CN PLACEHOLDER
+Ты ведь не будешь протестовать, так?
+
+優「ＯＫ〜」%K%P
+Okay.
+CN PLACEHOLDER
+Ладно.
+
+武「ったく、俺が何したってんだよ……ぶつぶつ」%K%P
+Geez. Damned if I do, damned if I don't.
+CN PLACEHOLDER
+Ну ёлки-палки. Хоть иди, хоть не иди - один хрен, виноват.
+
+どうやら武は、今朝の夢のことを覚えていないようだった。%K%P
+It seemed that Takeshi was oblivious to his disturbing dream the night before.
+CN PLACEHOLDER
+Очевидно, что Такеши не имеет понятия о своём беспокойном сне прошлой ночью.
+
+少年「きっと優は、優なりに武のこと気遣ってるんだと思うよ」%K%P
+I figure that You is concerned about you in her own way.
+CN PLACEHOLDER
+Думаю, что Ю беспокоится о тебе по-своему.
+
+少年「ほら、重い工具箱を運んでもらったりしたわけだから、少しは休んで……ってことじゃないのかな？」%K%P
+Like when she had you carry the heavy toolbox... Maybe it was her way of saying 'rest a bit' or 'take it easy'.
+CN PLACEHOLDER
+Например, когда она доверила тебе тащить этот тяжёлый ящик с инструментами...может так она пыталась сказать 'отдохни немножко' или 'будь осторожен'.
+
+武「そういうもんかねぇ……っていうか、すげー好意的な解釈だけどな」%K%P
+You think so? That's a pretty generous interpretation, I'd say.
+CN PLACEHOLDER
+Ты так думаешь? Сказать по-правде, это очень великодушная интерпретация.
+
+武「まあ、いいや。だったらお言葉に甘えて、俺達はマッタリしとくことにするさ。な？　沙羅？」%K%P
+Oh well. In that case, I guess Sara and I will just have to sit back and relax together.
+CN PLACEHOLDER
+Ну ладно. В таком случае, наверно мы с Сарой просто присядем и немножко отдохнём - вместе.
+
+武は沙羅の肩を叩こうとして……よけられる。%K%P
+Takeshi tried to pat Sara on the shoulder... but she dodged the advance.
+CN PLACEHOLDER
+Такеши попытался похлопать Сару по плечу...но она отпихнула его руку.
+
+沙羅「おっと！　拙者には手を触れない方がよいでござるよ？」%K%P
+Oh! You probably don't want to do that.
+CN PLACEHOLDER
+Ой! Наверно это плохая идея, дэ〜гозару〜йо!
+
+武「へっ？」%K%P
+Huh?
+CN PLACEHOLDER
+Что?
+
+沙羅「なにせ、伊賀流忍術免許皆伝見込み保持者ゆえ」%K%P
+I'm a licensed Iga Ninja!
+CN PLACEHOLDER
+У меня лицензия Ига Ниндзи!
+
+武「な、なんだぁ、そりゃ……？」%K%P
+Wh-What's that?
+CN PLACEHOLDER
+Э-это ещё что?
+
+沙羅「だぁからようするにぃ〜、命がおしくば手を出すなってこと！」%K%P
+It means that if you value your life you'd better stay back!
+CN PLACEHOLDER
+Это значит, если тебе дорога твоя жизнь и зубы, то лучше держись от меня подальше!
+
+武「…………………………」%K%P
+..........
+CN PLACEHOLDER
+..........
+
+優「ほら少年、行くよ？」%K%P
+Kid, should we get going?
+CN PLACEHOLDER
+Ну так что, Кид, может пойдём?
+
+少年「う、うん……」%K%P
+Uh, yeah...
+CN PLACEHOLDER
+Ээ, ага...
+
+ぼくと優は、空気の固まりかけたその場を後にした。%K%P
+You and I left the increasingly tense atmosphere behind.
+CN PLACEHOLDER
+Мы с Ю ушли, оставив позади накалившуюся до красна атмосферу.
+
+少年「ぼくは……ここで待ってるよ」%K%P
+I'll... wait here.
+CN PLACEHOLDER
+Я...подожду здесь...
+
+武「だってよ。どういたしますか？」%K%P
+So what are we going to do?
+CN PLACEHOLDER
+Ну-с, и чем же мы займёмся?
+
+優「仕方ないなぁ……じゃあ、倉成で我慢しますか」%K%P
+Oh well... Then I'll have to make do with Kuranari.
+CN PLACEHOLDER
+Вот невезёт, а...значит всё-таки придётся работать с Куранари.
+
+武「ったく可愛くねぇな。もっと素直に喜ばんかい」%K%P
+Geez. You're a piece of work. Can't you let your real feelings show?
+CN PLACEHOLDER
+Блин. Да ты, я погляжу, трудоголик. Неужели нельзя было показать свои истинные чувства?
+
+優「ヘンな気起こしたら、張り倒すからね？」%K%P
+Don't be getting any strange ideas. You do and I'll knock you down. Got it?
+CN PLACEHOLDER
+Не грезь наяву. Только попробуй выкинуть какой-нибудь фортель, и я тебя вырублю. Усёк?
+
+武「……安心してくれ。間違っても、お前だけは、ぜってぇに襲わねぇ」%K%P
+...Take it easy. There's no way I'd try something on you, even by mistake.
+CN PLACEHOLDER
+...Да расслабься ты. Вероятность того, что я попробую сделать нечто подобное, даже случайно, равна нулю.
+
+そんな風にぎゃーぎゃー言い合いながら、優と武は通路の向こうへと姿を消した。%K%P
+When the two of them disappeared at the far end of the corridor, they were still going at it.
+CN PLACEHOLDER
+Когда они вместе исчезли на дальнем конце коридора, я всё ещё мог слышать их перебранку.
+
+沙羅「あのふたりさ……」%K%P
+Those two...
+CN PLACEHOLDER
+Эти двое...
+
+少年「うん？」%K%P
+Yeah?
+CN PLACEHOLDER
+Да?
+
+沙羅「なんだかんだ言って、結構いいコンビだと思わない？」%K%P
+I don't know, I think they make a pretty good couple, don't you?
+CN PLACEHOLDER
+Не знаю, может из них получилась бы отличная пара, как думаешь?
+
+少年「そうかなぁ？」%K%P
+Think so?
+CN PLACEHOLDER
+Серьёзно?
+
+沙羅「うん。なっきゅ先輩って、気に入った相手には遠慮しない性格だから……心を包み隠さないっていうか」%K%P
+Yeah. Nakkyu-senpai is the kind of person who tells people she likes what she really thinks... She speaks her mind.
+CN PLACEHOLDER
+Ага. Няку всегда говорит то, что думает...она просто такой человек.
+
+少年「ふーん」%K%P
+Hmmmm.
+CN PLACEHOLDER
+Хмммм.
+
+沙羅「武も似たようなタイプっぽいしね」%K%P
+Takeshi kind of seems like that too.
+CN PLACEHOLDER
+Такеши, похоже, ведёт себя также.
+
+そういうものだろうか……と首を捻りつつも、そんなふたりが少し羨ましく思えた。%K%P
+I wasn't sure why... but somehow, I was a little jealous of You and Takeshi.
+CN PLACEHOLDER
+Не знаю, почему...но в душе я слегка ревную к Ю и Такеши.
+
+ぼくには、さらけだせるものが、何ひとつないのだから……。%K%P
+Even if I wanted to, I couldn't open up to anyone like that... I had nothing to share...
+CN PLACEHOLDER
+Даже если бы я хотел, то не смог бы открыться вот так кому бы то ни было...потому что открывать, собственно, нечего...
+
+これで、発電室に送り込まれていた熱水は遮断されたことになる。%K%P
+With that, we had been able to shut off the hot water flowing to the generator room.
+CN PLACEHOLDER
+Мы смогли устранить утечку горячей воды в Генераторной.
+
+とは言え、扉の向こうには依然として、焼けつくような熱さの蒸気が充満しているのだ。%K%P
+Even so, on the other side of the door, it was still hot enough to scald.
+CN PLACEHOLDER
+Однако, на двери по-прежнему можно жарить яичницу.
+
+ぼくら４人は、発電室の温度が充分冷め切ったと判断できるまで、じっとドアの前で待ち続けた。%K%P
+The four of us waited outside the generator room until we could be sure that the temperature inside had cooled enough.
+CN PLACEHOLDER
+Мы четверо выжидаем перед Генераторной, пока температура не спадёт достаточно.
+
+やがて時が来て、ぼくらは恐る恐るドアを開いた。%K%P
+When we thought the time had come, we timidly opened the door.
+CN PLACEHOLDER
+Когда мы решили, что время пришло, то робко открыли дверь.
+
+まるで銭湯の扉を開いたときのように、中からもわんと湯気が溢れ出してきた。%K%P
+It was like opening the door to a public bath. A cloud of steam hissed out of the door.
+CN PLACEHOLDER
+Оказалось, что это всё равно, что открыть дверь парилки - изнутри вырвалось водяное облако.
+
+室内は信じられないぐらいに暑かった。%K%P
+The heat inside just about defied imagination.
+CN PLACEHOLDER
+Внутри оказалось невообразимо жарко.
+
+水蒸気の満ちた部屋の空気は重く、肌にまとわりつくようだ。%K%P
+The air in the steam-filled room was heavy and stuck to the skin.
+CN PLACEHOLDER
+Воздух тяжелее, чем в бане - кожа вспотела мгновенно.
+
+息を吸い込むと、ネバネバとした湯気の塊がのどを通り過ぎて行くのがわかる。%K%P
+Inhaling felt like swallowing globs of sticky hot steam.
+CN PLACEHOLDER
+От такого 'воздуха' закружилась голова.
+
+武なんかは酸欠にあえぐ魚のように、口をぱくぱくとさせていた。%K%P
+Takeshi was opening and closing his mouth like a fish out of water.
+CN PLACEHOLDER
+Такеши хлопает ртом, как рыба без воды.
+
+武「何だか、息苦しくないか？」%K%P
+Isn't it hard to breathe?
+CN PLACEHOLDER
+Тебе не тяжело дышать?
+
+優「いちいち、わかりきったこと訊かないの！　口に出したら、余計に暑苦しくなるじゃないの」%K%P
+Stop pointing out the obvious! Talking about it just makes it worse!
+CN PLACEHOLDER
+А что, и так не ясно!? Подчёркивая это, ты делаешь только хуже!
+
+沙羅「なっきゅせんぱーい……さっさと終わらせて出ましょうよぉ……」%K%P
+Nakkyu-senpai... Let's just do what we have to do and get out of here.
+CN PLACEHOLDER
+Няку, подружка...давай просто сделаем то, что нужно и поскорее свалим отсюда.
+
+優「そうね。効率良く終わらせたいから、手分けして作業することにしましょうか」%K%P
+Alright. Let's divide up what we have to do and be efficient about this.
+CN PLACEHOLDER
+Хорошо. Давайте распределим задачи между собой, чтобы сделать работу эффективней.
+
+優「じゃあ、私はこっち。倉成は向こうへまわってもらえる？　少年は……」%K%P
+I'll be here. Kuranari, can I get you to go over there? Kid, I want you to...
+CN PLACEHOLDER
+Я буду здесь. Куранари, можно попросить тебя пройти вооон туда? Кид, а ты...
+
+かくして、発電機の修理が開始された。%K%P
+And so we got to work fixing the generator.
+CN PLACEHOLDER
+Вот так мы занялись починкой генератора.
+
+武と優をメインに作業は進められる。%K%P
+Takeshi and You tackled the main work.
+CN PLACEHOLDER
+Такеши и Ю занимаются тяжёлой работой.
+
+機械類に詳しくないぼくと沙羅は、ほとんど何もすることがない。%K%P
+There was hardly anything for Sara and myself to do, as we knew squat about machines.
+CN PLACEHOLDER
+Мы с Сарой мало что можем сделать, так как практически ничего не знаем о подобных механизмах.
+
+ぼくらはふたりの助手となり、手元を懐中電灯で照らしたり、道具を渡したり、指示に従ってバルブを緩めたりした。%K%P
+We functioned as assistants: shining flashlights, handing over tools, and loosening valves as instructed.
+CN PLACEHOLDER
+Мы помогаем, подсвечиваем фонариками, подаём инструменты и ослабляем по команде вентили.
+
+そんなこんなの末、修理は無事完了した。%K%P
+After a while, we succeeded in repairing the generator.
+CN PLACEHOLDER
+То там, то сям, мы постепенно приближаемся к успешному завершению ремонтных работ.
+
+武と優をメインに作業を進めていくことになった。%K%P
+Takeshi and You did the bulk of the work.
+CN PLACEHOLDER
+Такеши и Ю занимаются тяжёлой работой.
+
+機械に強くないぼくと沙羅は、ほとんど何もすることがない。%K%P
+There wasn't much for Sara or me to do because we were helpless when it came to machines.
+CN PLACEHOLDER
+Мы с Сарой мало что можем сделать, так как практически ничего не знаем о подобных механизмах.
+
+今、武と沙羅は発電機の向こう側で作業をしている。%K%P
+Takeshi and Sara were working on the other side of the generator.
+CN PLACEHOLDER
+Такеши и Сара работают с другой стороны генератора.
+
+優は、ぼくの照らす懐中電灯の明かりを頼りに、発電機と格闘している。%K%P
+You was doing battle with the machine and depending on my flashlight-wielding skills.
+CN PLACEHOLDER
+Ю борется с машиной, рассчитывая на мой навык владения фонариком.
+
+手持ちぶさたなぼくは、いろいろと考え事をしてしまっていた。%K%P
+With nothing much to do, my thoughts started wandering.
+CN PLACEHOLDER
+От безделья, мой разум начал блуждать.
+
+考えることと言えば、もちろん、あの消えた女の子についてだ。%K%P
+And of course they led right to the girl that had disappeared.
+CN PLACEHOLDER
+И, конечно же, все пути ведут прямо к исчезнувшей девочке.
+
+ぼくにはあれが、どうしてもあれが目の錯覚だとは思えなかったのだ。%K%P
+I just couldn't believe that I had imagined the whole thing.
+CN PLACEHOLDER
+Я просто не могу поверить, что всё мне это привиделось.
+
+少年「ねえ、あれから考えてみたんだけど……」%K%P
+Hey, you know, I've thought a lot about it...
+CN PLACEHOLDER
+Слушай, знаешь, я долго думал об этом...
+
+優「なにを？」%K%P
+What?
+CN PLACEHOLDER
+О чём?
+
+少年「例の女の子について」%K%P
+About the girl.
+CN PLACEHOLDER
+О той девочке.
+
+優「はぁ〜、またその話？」%K%P
+What? You still stuck on that?
+CN PLACEHOLDER
+Что? Ты всё ещё застрял на этом?
+
+少年「いいから、ちょっと聞いてよ」%K%P
+Just listen.
+CN PLACEHOLDER
+Просто выслушай.
+
+少年「もしかしたらあの子……」%K%P
+Maybe that girl...
+CN PLACEHOLDER
+Может та девочка...
+
+少年「幽霊、なんじゃないかな？」%K%P
+Maybe she's a ghost.
+CN PLACEHOLDER
+Может она призрак...
+
+優「はぁ？」%K%P
+Huh?
+CN PLACEHOLDER
+Чего?
+
+優はあきれたように首を振ると、再び作業に取りかかった。%K%P
+You gave me a fed up look, shook her head, and went back to work.
+CN PLACEHOLDER
+Ю посмотрела на меня так, словно сыта по горло и вернулась к работе.
+
+少年「ねえ、きっとそうなんだよ！」%K%P
+That's gotta be it!
+CN PLACEHOLDER
+Ну конечно же!
+
+少年「そう考えれば、数字が不規則に変化したことも説明できるし、突然、ぼくの前から姿を消したこともっ」%K%P
+That would explain why the numbers change so irregularly and why she vanished all of a sudden.
+CN PLACEHOLDER
+Тогда это объясняет, почему номера беспорядочно прыгали и то, что она внезапно исчезла.
+
+優「バカバカしい……」%K%P
+That's stupid...
+CN PLACEHOLDER
+Это глупо...
+
+少年「まじめに聞いてよ！」%K%P
+Listen! I'm serious.
+CN PLACEHOLDER
+Слушай! Я серьёзно.
+
+優「いや」%K%P
+No.
+CN PLACEHOLDER
+Нет.
+
+優「まじめな話ならまじめに聞くけどね」%K%P
+If you were talking about something serious, I would take you seriously.
+CN PLACEHOLDER
+Если бы мы говорили о чём-то серьёзном, тогда я бы тебе поверила.
+
+優「バカな話をまじめに聞くと、バカが伝染るから」%K%P
+But I'm not listening seriously to something like this. Stupidity is contagious.
+CN PLACEHOLDER
+Но, я не считаю серьёзными такие вещи. Глупости - заразная штука.
+
+優「ちょうど、プラスとマイナスの掛け算みたいなもんで……」%K%P
+It's like multiplication of pluses and minuses...
+CN PLACEHOLDER
+Это как умножение положительных и отрицательных чисел...
+
+優「プラス×プラスの解はプラスになるけど」%K%P
+A plus times a plus is a plus.
+CN PLACEHOLDER
+Плюс на плюс даёт плюс.
+
+優「マイナス×プラスの解はマイナスになっちゃうわけで……」%K%P
+But a minus times a plus is a minus...
+CN PLACEHOLDER
+Но, минус на плюс даёт минус...
+
+優「っしょ！　っとマイナスドライバー取ってくれない？」%K%P
+So pass me that minus-like screwdriver, would you?
+CN PLACEHOLDER
+Ну-ка, подай мне вон ту минус-образную отвёртку.
+
+ぼくは怒りをこらえながら、優の手の平にドライバーをのせた。%K%P
+I suppressed my anger and put the flat-head screwdriver in You's hand.
+CN PLACEHOLDER
+Я подавил ярость и положил плоскую отвёртку Ю в руку.
+
+少年「じゃあ、まじめに聞かなくていいよ」%K%P
+Okay then, you don't have to listen seriously.
+CN PLACEHOLDER
+Ну ладно, тогда не слушай меня серьёзно.
+
+少年「バカ的な感じで聞いてくれれば」%K%P
+Just listen to me stupidly.
+CN PLACEHOLDER
+Выслушай по-глупому.
+
+優「なによ、バカ的な感じって……」%K%P
+What's that mean? Listen stupidly...
+CN PLACEHOLDER
+Как это...? По глупому...
+
+少年「掛け算、なんでしょ？」%K%P
+It's multiplication, right?
+CN PLACEHOLDER
+Это как умножение, понимаешь?
+
+少年「マイナス×マイナスは、プラスになるじゃん」%K%P
+A minus times a minus is a plus, right?
+CN PLACEHOLDER
+Минус на минус даёт плюс.
+
+優「う〜ん、なるほどね」%K%P
+I see.
+CN PLACEHOLDER
+Ясно.
+
+優「ＯＫ、じゃあ、ここのネジを全部しめ終わるまでの間だけ、きみのバカ話に付き合ってあげよう」%K%P
+Okay. I'll listen to the stupid stuff you've got to say until I finish screwing in these screws.
+CN PLACEHOLDER
+Хорошо, сдаюсь. Я выслушаю всю ту чушь, что ты хочешь сказать, пока заканчиваю закручивать эти гайки.
+
+優「で？　なんの話だったっけ？」%K%P
+So? What is it you're dying to say?
+CN PLACEHOLDER
+Ну? Что тебя гложет? Давай на чистоту.
+
+少年「姿を消した女の子の話」%K%P
+It's about the girl that disappeared.
+CN PLACEHOLDER
+Это насчёт девочки, что исчезла.
+
+少年「あの女の子が幽霊だとすると……」%K%P
+If she were a ghost...
+CN PLACEHOLDER
+Если она была призраком...
+
+優「ちょっと待って。きみ、本当に幽霊なんて信じてるの？」%K%P
+Hold on. Now, do you really believe in ghosts?
+CN PLACEHOLDER
+Погоди-ка. Ты что, действительно веришь в призраков?
+
+少年「信じてるっていうか、可能性のひとつとして考えられるっていうか……」%K%P
+I wouldn't say believe. But believe in the possibility...
+CN PLACEHOLDER
+Не могу сказать, что верю. Но вероятность...
+
+優「ないわね、可能性なんて。０．００００００００００００００００１％たりとも」%K%P
+Zero. That is what possibility there is. Maybe 0.000000000000000001％.
+CN PLACEHOLDER
+Ноль. Вот какая здесь вероятность. 0.00000000000000001 процент. И то вряд ли.
+
+少年「どうして、そこまで言い切れるのさ？」%K%P
+How do you know?
+CN PLACEHOLDER
+Откуда ты знаешь?
+
+優はため息をひとつつくと、次のネジへと取りかかり始めた。%K%P
+You sighed and started turning the next screw.
+CN PLACEHOLDER
+Ю вздохнула и стала поворачивать следующую гайку.
+
+優「いい？　古今東西の怪談話なんてものは、ほとんどが作り話なの」%K%P
+Listen. Ghost stories, now and forever, are almost all made up.
+CN PLACEHOLDER
+Пойми. Почти все рассказы о призраках - выдумка.
+
+優「ようするに、エンターテイメントを目的としたフィクションってわけね」%K%P
+They're just fiction with the goal of entertaining people.
+CN PLACEHOLDER
+И единственная цель, с которой их делают - развлечение людей.
+
+少年「でも、暗い部屋の中にひとりでいるときとか、誰かの視線を感じたこととかない？」%K%P
+But haven't you ever felt somebody's eyes on you when you were in a room all alone?
+CN PLACEHOLDER
+Но, разве ты никогда не чувствовала, будто кто-то смотрит на тебя, когда была одна в комнате?
+
+優「視線？」%K%P
+Eyes?
+CN PLACEHOLDER
+Смотрит?
+
+少年「うん、まるで後ろの方から、誰かに見られてるような……」%K%P
+Yeah. Like someone was watching you from behind...
+CN PLACEHOLDER
+Да. Словно кто-то смотрит на тебя из-за спины...
+
+優「お母さんじゃない？」%K%P
+You mean your mom?
+CN PLACEHOLDER
+Ты про мою маму?
+
+少年「もっとまじめに……いや、なんでもない」%K%P
+I'm being serious... Oh, never mind.
+CN PLACEHOLDER
+Я серьёзно...эх, забудь.
+
+優「そういうケースはね？　間違いなく勘違いだったりするのよ」%K%P
+Things like that are just your imagination.
+CN PLACEHOLDER
+Такие вещи - просто игра твоего воображения.
+
+優「妄想の産物。本人の興味や精神状態が生み出した幻想ってこと」%K%P
+A product of an overzealous mind. A delusion spawned by the mental state of the person.
+CN PLACEHOLDER
+Порождение перетрудившегося разума. Иллюзия, вызванная душевным состоянием человека.
+
+少年「気のせいだって言うわけ？」%K%P
+You mean my mind is playing tricks on me?
+CN PLACEHOLDER
+То есть, хочешь сказать, у меня помутился рассудок?
+
+優「平たく言えばそうね」%K%P
+To be perfectly blunt, yes.
+CN PLACEHOLDER
+Если быть краткой - да.
+
+優「ＵＦＯとか河童もそうだけど、人間っていうのは想像することが好きなの」%K%P
+UFOs and goblins are the same thing. People like to imagine stuff.
+CN PLACEHOLDER
+Что НЛО, что гоблины. Люди просто обожают фантазировать.
+
+優「この想像力のおかげで人間はここまで進化してこれたわけだけど、ある意味においては、ものすごく厄介な能力なのよね」%K%P
+Thanks to the power of imagination, people have been able to evolve to where we are, but it's kind of a curse too.
+CN PLACEHOLDER
+Благодаря силе воображения, люди смогли развиться до сегодняшнего уровня, но, в то же время, наслали на себя проклятье.
+
+優「行き過ぎると、妄想と現実とがごっちゃになっちゃう」%K%P
+Taken to extremes, there is no distinguishing between reality and delusions.
+CN PLACEHOLDER
+Добились того, что стало невозможным отличить реальность от иллюзий.
+
+少年「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+優「幽霊の正体みたり枯れ尾花」%K%P
+When you turn on the lights, the ghost is only a shirt on a chair.
+CN PLACEHOLDER
+Когда ты включаешь свет, оказывается, что призрак - это рубашка на стуле.
+
+優「恐がったり興味のある人には何にでも変化しちゃうの」%K%P
+People who want to be scared see what they want.
+CN PLACEHOLDER
+Люди, что хотят быть напуганными, видят то, что они хотят.
+
+優「『いるいる』と思いこんでいれば、ありえないものだって、存在するように感じてしまうわけだし……」%K%P
+If you really want to believe that something exists, even if it doesn't, then you still feel that it does.
+CN PLACEHOLDER
+Если ты правда хочешь верить, что кто-то существует, даже если это не так, тогда он или она начинает тебе мерещиться.
+
+優「『怖い怖い』と怖がっていれば、何でもないものだって、それっぽく見えてしまうもんよ」%K%p
+If you're scared of something, you'll scare yourself even if there's nothing there.
+CN PLACEHOLDER
+Если ты чего-то боишься, то испугаешь сам себя, даже если вокруг никого нет.
+
+まだ抵抗する
+Keep arguing
+CN PLACEHOLDER
+Продолжать спорить
+
+諦める
+Give up
+CN PLACEHOLDER
+Сдаться
+
+少年「金縛りとかは、どう説明するの？」%K%P
+What about sleep paralysis? How do you explain that?
+CN PLACEHOLDER
+А как же полудрёма? Как ты это объяснишь?
+
+優「金縛り？」%K%P
+Sleep paralysis?
+CN PLACEHOLDER
+Полудрёма?
+
+少年「うん。寝てるとき、ふと目が覚めると身体が動かないってやつ」%K%P
+When you wake up and you can't move.
+CN PLACEHOLDER
+Когда ты просыпаешься и не можешь пошевелиться.
+
+少年「あれも気のせいなの？」%K%P
+Is that just a person's mind too?
+CN PLACEHOLDER
+Это что, тоже чьё-то воображение?
+
+優「うん。それはきっと、縛られたんだよ。寝てる間にね」%K%P
+They probably can't move because somebody tied them up when they were asleep.
+CN PLACEHOLDER
+Ну, наверно это потому, что во сне тебя кто-то связал.
+
+少年「誰に？」%K%P
+Who?
+CN PLACEHOLDER
+Кто?
+
+優「ＳＭ好きの恋人に」%K%P
+Some SM freak.
+CN PLACEHOLDER
+Какой-нибудь секс-маньяк.
+
+少年「んなわけあるかぁっ！」%K%P
+As if that could happen!
+CN PLACEHOLDER
+И ты думаешь, что такое возможно!
+
+優「というのは冗談でぇ……」%K%P
+I'm kidding...
+CN PLACEHOLDER
+Да шучу я...
+
+優「金縛りってのは、身体は眠っているのに脳は起きている状態のことよ」%K%P
+You're talking about when your body is still asleep but your mind is awake.
+CN PLACEHOLDER
+Ты говоришь про состояние, когда твоё тело всё ещё спит, а разум уже проснулся.
+
+優「だから意識はあっても身体は動かないの」%K%P
+So that even though you're conscious, your body won't move.
+CN PLACEHOLDER
+Поэтому, даже если ты чувствуешь себя в сознании, тело не шевелится.
+
+少年「金縛りのとき、目を開いたら身体の上に幽霊が乗っかっていた、なんて話もあるよ？」%K%P
+What about the people that say they wake up and saw a ghost on top of them?
+CN PLACEHOLDER
+А как же люди, что просыпались и видели призрака над собой?
+
+優「それは『目を開いた』と思いこんでるだけで、本当は夢を見てるの」%K%P
+They think their eyes are open, but it's really just a dream.
+CN PLACEHOLDER
+Они думали, что их глаза открыты, хотя на самом деле это был лишь сон.
+
+優「脳は活発に動いてる上に、身体が思うように動かないっていう恐怖心があるわけだから、そのふたつが重なって……」%K%P
+Because the brain is fully awake and the body won't do what it's told, a person feels fear. These two things happen at the same time...
+CN PLACEHOLDER
+Из-за того, что мозг проснулся, а тело его не слушается, человек чувствует страх. Эти две вещи происходят одновременно...
+
+優「いかにも突飛な『夢らしい夢』を、ハッキリ『現実に見た』と思ってしまうわけ」%K%P
+So even the most incredible dream seems like reality.
+CN PLACEHOLDER
+Потому-то даже самый бредовый сон может показаться реальностью.
+
+少年「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+優「さっきも言ったでしょう？　強く強く思い込むことで、現実なんてものは簡単に歪められてしまうの」%K%P
+I just told you, right? If you really, really believe something, then even reality seems like a delusion.
+CN PLACEHOLDER
+Я же только-что сказала тебе, так ведь? Если ты действительно веришь во что-то, тогда даже реальность выглядит иллюзорной.
+
+少年「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+納得したわけではないが、ひとつだけわかったことがある。%K%P
+I wasn't satisfied, but I had learned something...
+CN PLACEHOLDER
+Я не удовлетворён, зато кое-что понял...
+
+ぼくは、口では優に勝てないのだ。%K%P
+I couldn't beat You in a debate.
+CN PLACEHOLDER
+Ю переспорить невозможно.
+
+優「うん？　その顔……まだ納得できないって感じね？」%K%P
+So? Doesn't look like you're convinced.
+CN PLACEHOLDER
+Ну и? Не похоже, что ты со мной согласен.
+
+少年「納得なんてできないよ。だって……ぼくは見たんだから」%K%P
+You can't convince me. I know... I saw her.
+CN PLACEHOLDER
+Тебе меня не убедить. Я знаю...я видел её.
+
+少年「少なくとも、ぼくには見えたんだ」%K%P
+At least I saw something.
+CN PLACEHOLDER
+По крайней мере, я видел нечто.
+
+優「まさか『ぼくには霊感があるんだぁ！』とか、言い出さないよねぇ？」%K%P
+Don't go telling me you have special powers to see spirits or anything either.
+CN PLACEHOLDER
+Только не говори мне, что можешь видеть призраков или нечто в том же духе.
+
+少年「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+優「ちょっとマジ？　言い出すつもり？」%K%P
+You're not gonna say it, right?
+CN PLACEHOLDER
+Ты ведь не это хочешь сказать, или...?
+
+少年「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+優「うん、わかったわかった」%K%P
+Alright, alright.
+CN PLACEHOLDER
+Ладно, ладно.
+
+優「でも、突然薄桃色のエクトプラズムとか吐き出したりしないでね？」%K%P
+But no spinning your head around 360 degrees or spewing out ectoplasmic goo. Alright?
+CN PLACEHOLDER
+Только не вращай своей головой на 360 градусов и не извергай липкую эктоплазму. Хорошо?
+
+優「あっ、あとそれから、ここでは招霊行為も禁止」%K%P
+And no supernatural tricks or channeling spirits either.
+CN PLACEHOLDER
+И никаких сверхъестественных трюков или общения с духами.
+
+優「ポルターガイストとか起こったら、せっかくとめたネジがはずれちゃうかもしれないから」%K%P
+Because if a poltergeist gets loose around here, the screws I just put in could fall out.
+CN PLACEHOLDER
+Потому что, если здесь разгуливает полтергейст, болты, что я недавно закрутила, самопроизвольно выпадут.
+
+少年「信じてないわりには、やけに詳しいね？」%K%P
+For not believing this stuff, you sure know a lot about it.
+CN PLACEHOLDER
+Для скептика, ты знаешь действительно очень много об этих вещах.
+
+優「信じてないから詳しいの」%K%P
+It's because I don't believe in it that I know a lot.
+CN PLACEHOLDER
+Я знаю очень много, поэтому и не верю в это.
+
+優「私の知識は、防御の為にあるんじゃない」%K%P
+My knowledge is not for defensive purposes.
+CN PLACEHOLDER
+Мои знания не предназначены для защиты.
+
+優「攻撃の為に、あるのよ」%K%P
+It's for offensive ones.
+CN PLACEHOLDER
+Они предназначены для нападения.
+
+少年「は？」%K%P
+Huh?
+CN PLACEHOLDER
+Чего?
+
+優「つまり、幽霊とか超能力とかＵＦＯとか、そういうオカルトを信じ切っちゃって、あっちの世界に逝っちゃってる人いるでしょ？」%K%P
+I mean, there are those people that swear by ghosts, the supernatural, UFOs, and that occult stuff. They're completely loony.
+CN PLACEHOLDER
+То есть, все люди, что якобы видели призраков, сверхъестественные вещи, НЛО и прочую оккультную хрень - просто законченные психи.
+
+優「私の知識は、彼らをぎゃふんと言わせる為にあるの」%K%P
+My knowledge is so I can take them down when I meet them.
+CN PLACEHOLDER
+Эти знания нужны мне для того, чтобы поставить при встрече таких типов на место.
+
+優「論駁する為に、敵の情報を仕入れてるってわけ」%K%P
+I've stocked up on enemy information for my verbal assaults.
+CN PLACEHOLDER
+Я обложила себя информацией о враге, с которым придётся столкнуться в словесном поединке.
+
+優「大学で考古学を専攻したのも、その為なんだから」%K%P
+That's the reason I majored in archaeology.
+CN PLACEHOLDER
+Вот почему мой главный предмет - археология.
+
+少年「考古学？？？」%K%P
+Archaeology?
+CN PLACEHOLDER
+Археология?
+
+少年「考古学っていうと……土を掘って化石とか遺跡とかを探したり、大昔の文字を解読したりする、あれのことだよね？」%K%P
+Archaeology... I thought that was about digging, looking for artifacts and ruins, and deciphering ancient letters. That kind of stuff, right?
+CN PLACEHOLDER
+Археология...я думал, что это раскопки, поиск артефактов, развалин и расшифровка древних надписей. Что-то вроде этого, правильно?
+
+優「まあね」%K%P
+Well, maybe.
+CN PLACEHOLDER
+Ну, возможно.
+
+優と考古学……あまりピンとこない組み合わせだった。%K%P
+You studying archaeology... It just didn't click.
+CN PLACEHOLDER
+Ю изучает археологию...в голове не укладывается.
+
+少年「で、優は何を研究してるの？」%K%P
+So what are you studying?
+CN PLACEHOLDER
+И что же ты изучаешь?
+
+優「研究なんて、そんな大層なものはしてないよ。私はまだ１年生だから基礎授業がほとんどなの」%K%P
+I'm not doing anything that big. I'm still a freshman, so I'm only taking basic stuff.
+CN PLACEHOLDER
+Да ничего особенного и серьёзного. Я всё ещё первокурсница, поэтому - только основы.
+
+優「教授の講義を聴いたり、実習で発掘調査に参加したりしながら、『考古学とは何なのか？』ってやつを、みっちり叩き込まれてる最中なわけ」%K%P
+I just listen to professors lecture and go on excavation surveys. I'm still getting the fundamentals of 'What is archaeology?' pounded into my head.
+CN PLACEHOLDER
+Сижу и хлопаю ушами на лекциях, иногда выезжаю на изучение раскопок. Основы, понимаешь? А вопрос 'Что такое археология?' просто застрял в моей голове.
+
+少年「ふーん」%K%P
+Hmmm.
+CN PLACEHOLDER
+Хммм...
+
+少年「あ、そうだ。考古学で思い出したんだけど……優は『レムリア』って大陸、聞いたことある？」%K%P
+Oh, that reminds me. Speaking of archaeology... You, have you ever heard of the continent Lemuria?
+CN PLACEHOLDER
+Ох, я тут вспомнил. Насчёт археологии...Ю, ты когда-нибудь слышала о континенте Лемурии?
+
+少年「なんでも、このＬｅＭＵの名前の由来らしいんだけど」%K%P
+It seems like it's the origin of LeMU's name.
+CN PLACEHOLDER
+Кажется, от него происходит название LeMU.
+
+優「聞いたことあるもなにも……嫌って言うほど知ってるよ」%K%P
+Have I heard of it...? I know so much about it that it makes me nuts.
+CN PLACEHOLDER
+Слышала ли я о нём?.... Я знаю о нём столько, что это меня бесит.
+
+少年「？？」%K%P
+?
+CN PLACEHOLDER
+??
+
+優「レムリアっていうのは、紀元前２億年〜５千万年に存在したと言われる幻の大陸のこと」%K%P
+Lemuria is the phantom continent that is said to have existed from 200 million to 50 million years B.C.
+CN PLACEHOLDER
+Лемурия - это континент-фантом, который якобы существовал около 200 - 50 миллионов лет до нашей эры.
+
+優「その大陸では、現代よりも遥かに高度な文明が栄えていたが、何らかの原因により、一夜にして海の底へと没した、とされている」%K%P
+On it thrived an advanced civilization that was more advanced than what we have today, but it just slipped down to the bottom of the ocean overnight.
+CN PLACEHOLDER
+На нём жила развитая цивилизация, даже более развитая, чем наша. Но, всего за сутки он сгинул на дне океана.
+
+まるで、テキストを読み上げているかのように、流暢な口調で優は語った。%K%P
+You recited it off so fluently that it sounded like she was reading from a textbook.
+CN PLACEHOLDER
+Ю процитировала это так бегло, словно прочла из книжки.
+
+（高度な文明……一夜にして……か）%K%P
+(Advanced civilization... Overnight... Huh?)
+CN PLACEHOLDER
+(Развитая цивилизация...сгинула...хмм?)
+
+（それって、まるで…………）%K%P
+(That sounds just like...)
+CN PLACEHOLDER
+(По описанию очень похоже на...)
+
+優「学者の中には、この大陸こそ人類発祥の地だ、とか主張してる人もいるらしいけど」%K%P
+There are some scholars that contend that this continent was the origin of mankind.
+CN PLACEHOLDER
+Некоторые учения гласят, что на этом континенте когда-то зародилось человечество.
+
+優「まったく、なに言っちゃってるんだか。そんなこと、ありえるわけないのにねぇ〜」%K%P
+But what could they be talking about? That could never happen.
+CN PLACEHOLDER
+Но, неужели они не понимают очевидного? Это же полнейший бред.
+
+少年「優は信じてないの？」%K%P
+You don't believe it?
+CN PLACEHOLDER
+Ты в это не веришь?
+
+優「あったり前でしょ。考古学的にも地質学的にも、ほとんど根拠がないんだから」%K%P
+Of course not. Archaeologically and geologically, the idea has no basis.
+CN PLACEHOLDER
+Конечно нет. Эта теория не имеет под собой оснований, ни с точки зрения географии, ни с точки зрения археологии.
+
+優「ちゃんとした研究が進むに連れて説得力はどんどん失われていって……。もう、まともな学問の分野では廃れきってる説なのよ」%K%P
+The more real research is conducted, the more the theory is shot full of holes... It's no longer a legitimate field of study.
+CN PLACEHOLDER
+Чем углублённей ты изучаешь тему, тем очевидней становится, что эта теория - дырявая как швейцарский сыр...она не имеет права на жизнь.
+
+少年「へぇ、そうなんだ……」%K%P
+Is that right...?
+CN PLACEHOLDER
+Правда...?
+
+優「現実ってのはね、お伽話とは違うの」%K%P
+Reality is different from a fairy tale.
+CN PLACEHOLDER
+Реальность - это не детская сказка.
+
+優「宗教なんかもそうだけど、神秘主義者達が熱っぽく語る話ってのは、往々にして夢物語なのよ」%K%P
+Religion is like that too. Any and all of those mysterious things that people get all worked up about. They're mostly all make believe.
+CN PLACEHOLDER
+Религии из той же оперы. Все эти загадочные вещи, вокруг которых ведут споры...
+
+優「そもそも根拠がないんだから何を言っても構わない、って発想なんだろうけどさ」%K%P
+Since it's all impossible to prove in the first place, they can say whatever they want. That's the philosophy behind it.
+CN PLACEHOLDER
+'Их невозможно доказать, поэтому, какая разница, что болтать?' - такая вот у них философия.
+
+少年「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+根拠がないからこそ、その言葉の中には深い意味が込められているものではないだろうか。%K%P
+I thought that maybe precisely because there was no evidence for or against it, what people said was actually packed with meaning.
+CN PLACEHOLDER
+Если подумать, может так оно и есть, поскольку люди не могут ни подтвердить, ни опровергнуть то, во что верят. Это бесполезно.
+
+なぜなら、その言葉だけが、論証を現実に繋ぎ止める唯一の足がかりなのだから。%K%P
+I felt like that because those words were the only foothold, the only way to really nail down reality.
+CN PLACEHOLDER
+Я так чувствую, потому что эти слова являются единственной точкой опоры, единственным путём осознания реальности.
+
+そんなことを、ぼくはボンヤリと考えていた。%K%P
+I absently thought about that for a minute.
+CN PLACEHOLDER
+Рассеянно, я стоял и думал об этом около минуты.
+
+優「んしょ……んしょっと……このネジかたーい」%K%P
+Hmmmmgggr... This screw is really tight.
+CN PLACEHOLDER
+Хммммгггр...этот болт жутко тугой.
+
+少年「あ、代わるよ」%K%P
+Let me try.
+CN PLACEHOLDER
+Дай-ка я попробую.
+
+ぼくは優と場所を入れ替わると、ネジ止め作業を引き継いだ。%K%P
+We switched places, and I tried twisting the screw into place.
+CN PLACEHOLDER
+Мы поменялись и я попытался закрутить болт на место.
+
+優「ふぃ〜、疲れた疲れた……肩が凝ったぞなもし」%K%P
+Ohhhh. I'm beat... My shoulders are stiff and everything.
+CN PLACEHOLDER
+Охххх. Я спеклась...плечи и спиняка боляка.
+
+優は首筋を押さえて、骨をバキッボキッと鳴らした。%K%P
+You twisted and stretched. Her back popped loudly.
+CN PLACEHOLDER
+Ю завертелась и потянулась. Её спина смачно хрустнула.
+
+少年「ねえ？　さっきの話なんだけど……」%K%P
+Hey. You know what we were just talking about...
+CN PLACEHOLDER
+Эй. Ты же помнишь, о чём мы только что с тобой говорили...
+
+優「さっきの話？　レムリアのこと？」%K%P
+What was that? Oh, Lemuria?
+CN PLACEHOLDER
+О чём? А, ты о Лемурии?
+
+少年「うん」%K%P
+Yeah.
+CN PLACEHOLDER
+Ага.
+
+優「ひょっとしたら少年って、この手の話がものすごく好きだったりする人？」%K%P
+Kid... You're not one of those people that get all into these stories, are you?
+CN PLACEHOLDER
+Кид...ты же не из тех людей, что верит в эту чушь. Или...?
+
+少年「それは……わからないけど。暇つぶしがてらに、もう少し付き合ってよ」%K%P
+I... I don't know about that. But since we've got time to kill, just humor me.
+CN PLACEHOLDER
+Я...я не знаю. Но, раз уж у нас есть свободное время, просто развлеки меня.
+
+優「はいはい。で、なんでしたっけ？」%K%P
+Alright, alright. What is it?
+CN PLACEHOLDER
+Хорошо, хорошо. И, что ты хотел узнать?
+
+少年「うん。もしかしたらレムリアって、神様を怒らせたために海に沈んだんじゃないのかなぁ」%K%P
+Okay. I wonder if Lemuria angered God and he sent it to the bottom of the ocean?
+CN PLACEHOLDER
+Ну, я вот думаю, может Лемурия рассердила Бога, а тот низвергнул её на дно океана?
+
+優「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+少年「つまり、レムリアの人々があまりにも高度な文明を築いちゃったから、神様がその傲慢さにバチを与えたんじゃないか、ってことなんだけど……」%K%P
+That is, if the people of Lemuria had such an advanced civilization, maybe God struck them down for their pride or something...
+CN PLACEHOLDER
+Я хочу сказать, если народ Лемурии был настолько продвинут технологически, может Бог наказал их за гордость...
+
+少年「あれ？　優？」%K%P
+Huh? You?
+CN PLACEHOLDER
+Эээ? Ю?
+
+優「……………………」%K%P
+...............
+CN PLACEHOLDER
+...............
+
+少年「もしもーし？」%K%P
+Hellllllllloooooo?
+CN PLACEHOLDER
+Аллоооооооооооооо?
+
+優「あ……いけない、いけない。危うく私まで、あっちの世界に逝っちゃうとこだったわ」%K%P
+This is bad. DANGER, DANGER! I'm putting myself in danger of being dragged into lunacy with you.
+CN PLACEHOLDER
+Это плохо. ПЛОХО, ПЛОХО! Я могу свихнуться, если стану думать как ты.
+
+優「もっとバカ的に、バカ的に……」%K%P
+Stupid... Stupid...
+CN PLACEHOLDER
+Глупо...глупо...
+
+優「うん、よし。これでもう大丈夫」%K%P
+Alright. I should be fine now.
+CN PLACEHOLDER
+Так. Мне уже лучше...кажется.
+
+少年「………………」%K%P
+...
+CN PLACEHOLDER
+...
+
+優「ＯＫＯＫ。ようするに、きみは『バベルの塔』と同じだって言いたいわけね？」%K%P
+Okay, okay. I see what you're saying. You're saying that it was like the Tower of Babel, right?
+CN PLACEHOLDER
+Хорошо, хорошо. Я поняла, к чему ты клонишь. Ты думаешь, что это аналог Вавилонской Башни?
+
+少年「バベルの塔？」%K%P
+Tower of Babel?
+CN PLACEHOLDER
+Вавилонской Башни?
+
+優「旧約聖書の創世記ってお話に出てくる塔のことよ」%K%P
+In the old testament, in Genesis, there's this story about this tower.
+CN PLACEHOLDER
+В ветхом завете есть рассказ об этой башне.
+
+優「そのお話の中で、人間は自分達の栄華を誇示するために、高い高〜い塔を作ろうとするの……天にも届かんばかりの巨大な建造物」%K%P
+In it, people are so proud of their achievements that they build this super high tower... this massive structure that almost reached to heaven.
+CN PLACEHOLDER
+В нём говорится, что люди были так горды своими достижениями, что решили построить башню небывалой высоты...гигантская структура едва ли не доставала до рая.
+
+優「でも、そんな人間の行為に、神様が腹を立ててしまった」%K%P
+But God was angered by their behavior.
+CN PLACEHOLDER
+Но, Бога рассердил их поступок.
+
+優「『人間の分際で、生意気だ！』ってね」%K%P
+God said, 'I will bring down their pride together with the trickery of their hands. They are impudent.'
+CN PLACEHOLDER
+Он сказал 'Я собью спесь с этих наглецов и обманщиков'.
+
+優「かくしてその塔は神の力で破壊され、工事は中止させられちゃいました、と」%K%P
+So God took it upon himself to destroy the tower, and the building stopped, and people spread to all corners of the earth.
+CN PLACEHOLDER
+Затем самолично уничтожил башню. Строительство остановилось, а люди рассеялись по всем уголкам земли.
+
+優「これが、バベルの塔の神話」%K%P
+That's the story of the Tower of Babel.
+CN PLACEHOLDER
+Такая вот история у Вавилонской Башни.
+
+少年「うん。ぼくが言いたいのも、そういうことなんだ」%K%P
+Yeah. That's what I'm talking about.
+CN PLACEHOLDER
+Ага. Это я и имел в виду.
+
+作業の手を休めずに、ぼくは頷いた。%K%P
+I nodded without stopping my work.
+CN PLACEHOLDER
+Кивнул я, не прекращая своей работы.
+
+優「だとしたらそれは、きっとシヴァ神みたいな神様の仕業ね」%K%P
+That would have to be the work of a god like Shiva.
+CN PLACEHOLDER
+Наверно того бога звали Шива.
+
+少年「シヴァ神？」%K%P
+Shiva?
+CN PLACEHOLDER
+Шива?
+
+優「破壊神にして再建の神シヴァ」%K%P
+The god of destruction and creation.
+CN PLACEHOLDER
+Ну, бог-творец и бог-разрушитель в одном флаконе.
+
+優「千を超える無数の異名と４本の腕、４つの顔、３つの眼を持つ、ヒンズー教の３大主神のひとりなの」%K%P
+One of the main three Hindu gods. He has more than a thousand names, four arms, four faces, and three eyes.
+CN PLACEHOLDER
+Одно из трёх главных божеств индусов. У него больше тысячи имён, четыре руки, четыре лица и три глаза.
+
+優「再生のために、自ら世界を破壊してしまう神様なんだけど……」%K%P
+He destroys the world for the purpose of creation...
+CN PLACEHOLDER
+Он разрушает мир с целью создания нового...
+
+優「その破壊が徹底されたものであるほど、次に大きな可能性を秘めた存在が産み出されるらしいの」%K%P
+The destruction is so thorough that in it is contained the seeds or possibility of the next generation.
+CN PLACEHOLDER
+Причём, разрушает так капитально, что сводит на нет появление новых поколений.
+
+少年「中途半端に修理するくらいじゃ直らないから、いっそ最初から作り直しちゃえ、ってことなのかな？」%K%P
+Kind of like starting from square one is better than fixing something halfway?
+CN PLACEHOLDER
+Чем чинить старый дом...лучше просто всё порушить и построить снова?
+
+優「たぶんね」%K%P
+Maybe.
+CN PLACEHOLDER
+Да, наверно ты прав.
+
+優「だから、もしレムリアが神様の怒りで海に沈んだとしたら、そんな神様が滅ぼしたんだと思うのよ」%K%P
+So if Lemuria had pissed off a god enough to sink it into the ocean, then that god would probably have demolished it.
+CN PLACEHOLDER
+Так что, если Лемурия взбесила бога настолько, чтобы тот утопил её на дне океана...выходит, что он просто снёс её как старый дом.
+
+少年「なるほどね……」%K%P
+Oh, I see...
+CN PLACEHOLDER
+Аа, понятно...
+
+（汚れきった世界を破壊して、それから浄化する神……）%K%P
+(A god that would purge the world of filth by destroying it...)
+CN PLACEHOLDER
+(Бог, что вычистил мир от грязи, уничтожив его...)
+
+（おごり高ぶった人間を懲らしめ、更生させる神……か）%K%P
+(A god that damned people drunk with pride and forced rebirth...)
+CN PLACEHOLDER
+(Бог, что проклял людей, опъянённых гордостью, и устроил 'принудительное перерождение'...)
+
+優「ほらほら、手が止まってるぞ。とっとと手を動かす」%K%P
+Look! You're slowing down. Hurry and finish up.
+CN PLACEHOLDER
+Э-эй! Ты сбавляешь скорость. Торопись, и мы поскорее разберёмся с этой ерундой.
+
+少年「もう終わってるよ」%K%P
+I'm already done.
+CN PLACEHOLDER
+Уже всё.
+
+優から指示されたネジは、すべて止め終えていた。%K%P
+I had finished putting in all of the screws.
+CN PLACEHOLDER
+Я уже закрутил всё, что только можно.
+
+優「じゃあ今度は、このボルトを締めて」%K%P
+Next, tighten these bolts.
+CN PLACEHOLDER
+Теперь закрути эти болты.
+
+彼女にドライバーを渡し、ぼくはレンチを受け取る。%K%P
+I handed the screwdriver to her and took the wrench.
+CN PLACEHOLDER
+Я отдал отвёртку Ю и взял гаечный ключ.
+
+いつの間にか、作業をするのはぼくの役目に変わっていた。%K%P
+Somewhere along the line, I had been put in charge of the work.
+CN PLACEHOLDER
+Получается, теперь работаю Я, а НЕ она?! ...Ю, ну ты и хитрюга.
+
+優が懐中電灯で手元を照らすと、そこには三角形を描くように、３つのボルトが並んでいた。%K%P
+When You pointed the flashlight near me, I saw three bolts in the shape of a triangle.
+CN PLACEHOLDER
+Когда она посветила фонариком рядом со мной, я различил три болта треугольной формы.
+
+少年「さっき、シヴァ神は３つの眼があるって言ってたよね？」%K%P
+Did you say that Shiva has three eyes?
+CN PLACEHOLDER
+Ты сказала, что у Шивы три глаза?
+
+優「うん」%K%P
+Yup.
+CN PLACEHOLDER
+Угу.
+
+少年「ってことは……」%K%P
+That means...
+CN PLACEHOLDER
+Это значит...
+
+眉間の間にレンチをコツンとあてる。%K%P
+I put the wrench between my eyebrows.
+CN PLACEHOLDER
+Я прислонил гаечный ключ к своим бровям.
+
+少年「ここに、もうひとつ、眼があるってことだよね？」%K%P
+He'd have another eye right here then?
+CN PLACEHOLDER
+Третий глаз у него вот здесь?
+
+優「そういうこと」%K%P
+That's right.
+CN PLACEHOLDER
+Да, именно.
+
+優「なんでも、その第３の眼からは、この世の全てを焼き尽くす浄化の光を放つんだって」%K%P
+The light from that third eye burns all in the world, purifying it.
+CN PLACEHOLDER
+Свет из третьего глаза сжигает всё в мире, очищая его.
+
+少年「よいしょっと……なんだかそれって、ものすごいね」%K%P
+Wow... That sounds pretty cool.
+CN PLACEHOLDER
+Ого.... Звучит чертовски круто.
+
+一番てっぺんのボルトを締めながら、ぼくは言った。%K%P
+I said that as I tightened the top bolt.
+CN PLACEHOLDER
+Сказал я, пока закручивал очередной болт.
+
+少年「でも、そんな眼があったら、メガネ屋さんが大変だね」%K%P
+But I bet a visit to the optometrist would be a pain.
+CN PLACEHOLDER
+Но, готов спорить, у оптометриста проблемы будут ещё те.
+
+優「レンズがもうひとつ余計に売れるんだから、好都合だと思うけど？」%K%P
+Well, you'd have to buy another lens, so the optometrist would love it.
+CN PLACEHOLDER
+Тебе придётся купить ещё одну линзу, так что оптометристу это только на руку.
+
+特注のフレームを作る方が、かえってコストがかかると思ったが、あえて口には出さなかった。%K%P
+I thought to myself that making the custom frame is what would cost a fortune. But I didn't dare say it.
+CN PLACEHOLDER
+'Зато оправу сделают со скидкой' - подумал я, но не посмел сказать.
+
+優「まあそれはそれとして……」%K%P
+That's enough of that...
+CN PLACEHOLDER
+Ладно, хватит...
+
+優「世界中の文献を紐解いてみると、『第３の眼』っていう概念は、シヴァ神だけに限らず、仏教やヨガの世界にも存在してるらしいの」%K%P
+But the idea of a 'third eye' is not limited to Shiva. It also exists in the world of Buddhism and Yoga.
+CN PLACEHOLDER
+Но, идея третьего глаза не ограничивается одним Шивой. Она есть и в Буддизме, и в Йоге.
+
+優「透視能力、遠隔視、スーパービジョン、霊の知覚、未来視、過去視……」%K%P
+Clairvoyance, telescopic vision, ghost sense, the gift of the prophet, the power of seeing the past or future...
+CN PLACEHOLDER
+Хождение сквозь стены, рентгеновское зрение, умение чувствовать призраков, дар предсказателя, сила видения прошлого и будущего...
+
+優「神がかり的な力の源であったり、あるいは厳しい修行の末に習得できる超能力だったり、諸説いろいろあるんだけど、それらに共通して言えることは……」%K%P
+There are a lot of explanations behind it. Some say it's a gift from the gods, others that you can acquire it from intensive training. But what they all have in common is...
+CN PLACEHOLDER
+За этим понятием куча теорий. Одни говорят, что это дар свыше, другие считают, что ты можешь овладеть им путём длительных тренировок. Но, единственное, в чём они сходятся...
+
+――第３の眼が開眼すると、真の智恵がわき、万物を見通すことができる。%K%P
+When the third eye opens, true wisdom is apparent, and all becomes visible.
+CN PLACEHOLDER
+Когда открывается третий глаз, истинное знание очевидно и тайное становится явным.
+
+優「言うなれば、人智を超えた存在……『超人』の象徴ってわけ」%K%P
+They all have something to do with transcending the realm of the human... Becoming superhuman somehow.
+CN PLACEHOLDER
+Это как-то связано с возвышением над человеческой реальностью...превращением в сверхчеловека.
+
+少年「真の智恵か……」%K%P
+Real wisdom...
+CN PLACEHOLDER
+Истинное знание...
+
+そう呟くと、ぼくは目の前のボルトに向き直った。%K%P
+Muttering that, I turned to face the bolt again.
+CN PLACEHOLDER
+Пробормотав, я снова повернулся в сторону болта.
+
+（それがあれば、記憶を取り戻すなんて、わけないんだろうな）%K%P
+(If I had that, I'd be able to get back my memory... Yeah right...)
+CN PLACEHOLDER
+(Если бы у меня он был, я бы смог вернуть память...да, точно...)
+
+少年「本当にあるとしたら、ぼくにも欲しいなぁ」%K%P
+If there really is such a thing, I want one.
+CN PLACEHOLDER
+Если эта штуковина действительно существует, мне она нужна.
+
+優「欲しいって……第３の眼を？」%K%P
+You want what...? A third eye?
+CN PLACEHOLDER
+Ч-что тебе нужно? .... Третий глаз?
+
+少年「うん。その眼の力を使えば、ぼくの過去がわかるかもしれないし、例の女の子の正体だって判明するかもしれないよね」%K%P
+Yeah. If I had one, maybe I could see my past. And maybe I'd know who that girl is.
+CN PLACEHOLDER
+Ага. Если бы он у меня был, может я бы смог увидеть своё будущее. И, возможно, я бы узнал, кто та девочка.
+
+優「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+少年「まあ、せめて見てみたいかな？」%K%P
+Anyway, I'd like to see what it's like.
+CN PLACEHOLDER
+Короче, хотел бы я увидеть, на что он похож.
+
+優「見たいの？」%K%P
+You want to see?
+CN PLACEHOLDER
+Хочешь его увидеть?
+
+少年「うん。見れるものならね」%K%P
+Yeah. Maybe I could see something.
+CN PLACEHOLDER
+Да. Может я смогу увидеть хоть что-то.
+
+優「じゃあ、見せてあげようか？」%K%P
+Shall I give you a look then?
+CN PLACEHOLDER
+Тогда мне стоит показать его.
+
+少年「えっ？」%K%P
+What?
+CN PLACEHOLDER
+Ч-что?
+
+顔をあげる、ぼく。%K%P
+I looked up.
+CN PLACEHOLDER
+Я посмотрел вверх.
+
+そこに……%K%P
+And there...
+CN PLACEHOLDER
+И там...
+
+優の顔が、あった。%K%P
+Was You's face.
+CN PLACEHOLDER
+Лицо Ю.
+
+（い、いつの間に……？）%K%P
+(Wh-When did she get so close?)
+CN PLACEHOLDER
+(К-когда она подошла так близко?)
+
+お互いの吐息が、かかってしまいそうな距離。%K%P
+We were at a distance where could just about feel each other's breath.
+CN PLACEHOLDER
+Мы оказались на таком расстоянии, что чувствуем дыхание друг друга.
+
+もうほとんど、鼻先が触れ合ってしまうほどに、彼女の顔は接近していた。%K%P
+The tips of our noses just about touched. That was how close her face was.
+CN PLACEHOLDER
+Кончики наших носов практически соприкасаются - вот насколько она близко.
+
+少年「ゆ、ゆう……？」%K%P
+Y-You...?
+CN PLACEHOLDER
+Ю...?
+
+優「見たいんでしょ？」%K%P
+You want to see, right?
+CN PLACEHOLDER
+Ты хочешь его увидеть, так?
+
+ぼくの目を見つめたまま、彼女は言った。%K%P
+You stared me in the eye as she said that.
+CN PLACEHOLDER
+Сказав, Ю уставилась на мой глаз.
+
+少年「…………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+声が出ない。足が震える。%K%P
+I couldn't speak. My legs shook.
+CN PLACEHOLDER
+Я онемел. Ноги затряслись.
+
+心臓は、これ以上ないくらい激しく動悸を繰り返し、今にも飛び出してしまうんじゃないかと思われた。%K%P
+My heart was beating as fast as it would go. It felt like it would jump right out of my chest.
+CN PLACEHOLDER
+Сердце забилось на предельной скорости. Кажется, будто оно сейчас выпрыгнет у меня из груди.
+
+優「ほら、よーく見て？」%K%P
+Now, take a good look.
+CN PLACEHOLDER
+А теперь смотри внимательно.
+
+優は前髪を掻き上げ、額にそっと指をあてた。%K%P
+You lifted up her bangs and placed her finger on her forehead.
+CN PLACEHOLDER
+Ю подняла свои локти и поместила палец на лоб.
+
+優「ここに、あるでしょう？」%K%P
+Right here, isn't it?
+CN PLACEHOLDER
+Вот здесь, видишь?
+
+優「第３の眼が……」%K%P
+The third eye...
+CN PLACEHOLDER
+Третий глаз...
+
+少年「………………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+優の額には……%K%P
+On You's face...
+CN PLACEHOLDER
+На лице Ю...
+
+しかし、なにもなかった。%K%P
+There was nothing.
+CN PLACEHOLDER
+Там ничего нет.
+
+ぼくはその滑らかな肌と彼女の香りに、ただ魅せられるだけだった。%K%P
+All I could think about was her nice skin and sweet smell.
+CN PLACEHOLDER
+Всё, о чём я думаю, так это её красивая кожа и сладкий запах.
+
+優「………………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+少年「………………………………」%K%P
+.........
+CN PLACEHOLDER
+.........
+
+優「――ぷっ！　なっはっはっはっはっ♪」%K%P
+Ah! Hahahaha〜
+CN PLACEHOLDER
+Ах! Ха〜ха〜ха〜ха.
+
+突然、お腹を抱えて笑いだす優。%K%P
+You grabbed her stomach, laughing.
+CN PLACEHOLDER
+Ю схватилась за живот, помирая со смеху.
+
+少年「え？　え？」%K%P
+Huh? What?
+CN PLACEHOLDER
+Эээ? Что?
+
+優「じょーだん、冗談、冗談だっぴょーん！」%K%P
+It's a JOKE! A JOKE!
+CN PLACEHOLDER
+Это ШУТКА! Ш〜У〜Т〜К〜А!
+
+少年「え……？　え〜〜〜っ！！？」%K%P
+What...?
+CN PLACEHOLDER
+К-какого...?
+
+優「あっはっは♪　おかしぃ〜、おかしすぎるよぉ」%K%P
+Hahaha! That was too funny.
+CN PLACEHOLDER
+Ха〜ха〜ха. Это даже слишком.
+
+優「ここまでモロに引っかかってくれるなんて……きみ、さいこーだよ」%K%P
+Who else would take that completely seriously... You're the best.
+CN PLACEHOLDER
+Ну кто, кто ещё мог ТАК на это купиться...ты лучше всех!
+
+少年「ひ、ひどいよ……優」%K%P
+You're... You're so mean... You.
+CN PLACEHOLDER
+Ты...ты такая противная...Ю.
+
+少年「ぼくがこういう性格なの知ってて、からかうなんてさ」%K%P
+You tease me even though you know how serious I am.
+CN PLACEHOLDER
+Ты дразнила меня, несмотря на то, что знала, насколько я серьёзен.
+
+優「ごめんごめん。少年がまたしても変なこと言い出すから、ちょっぴりイタズラ心が芽生えちゃって」%K%P
+Sorry! Oh, I'm sorry! But you keep saying one bizarre thing after another, so I just couldn't help playing a joke on you.
+CN PLACEHOLDER
+Извини! Правда, прости меня! Просто, ты выдавал одну причудливую идею за другой, так что я просто не удержалась.
+
+優「それにね？　あながち嘘でもなかったりするんだよね」%K%P
+Besides, what I said wasn't really a lie anyway.
+CN PLACEHOLDER
+Кроме того...то, что я сказала, вовсе не ложь.
+
+そう言って、優は再び、額に人差し指を添えた。%K%P
+Saying that, You pointed to her forehead again.
+CN PLACEHOLDER
+Сказав это, Ю снова указала на свой лоб.
+
+少年「どういう、こと？」%K%P
+What do you mean?
+CN PLACEHOLDER
+То есть?
+
+なぜ我々の眼はふたつなのか？%K%N
+I wondered why we only had two eyes.
+CN PLACEHOLDER
+Интересно, почему у нас два глаза?
+
+目標物までの距離を測り、正確にピントを合わせて%N『よく見る』ために、物理的にはふたつの眼球で%N充分なのだ、と解釈するのが常識的である。%K%N
+Common knowledge had it that, physically, two eyes were enough for gauging the distance to a point or focusing on something.
+CN PLACEHOLDER
+Бытует мнение, что физически двух глаз достаточно для измерения расстояния и фокусировки на каком-либо объекте.
+
+しかし本当は『眼は３つあった』と考えては%Nどうだろうか？%K%O
+But what would it be like if we really used to have three eyes?
+CN PLACEHOLDER
+Но, как это работает, когда у тебя три глаза?
+
+実を言うと――%K%N
+Actually...
+CN PLACEHOLDER
+На самом деле...
+
+脊椎動物の祖先は３眼体制の生物だったのだ。%K%N
+The animal ancestors of vertebrates had three eyes.
+CN PLACEHOLDER
+Позвоночные предки животных имели три глаза.
+
+原始的な動物といわれる爬虫類……%K%N
+Early species of primitive reptiles...
+CN PLACEHOLDER
+Ранние виды примитивных рептилий...
+
+例えば『ムカシトカゲ』などでは、今でも頭頂部に３番目の眼が残っている。%K%O
+Like the tuatara lizard that still had a third eye on the top of its head.
+CN PLACEHOLDER
+Вроде ящера туатара, обитающего на островах у Новой Зеландии, что до сих пор имеет третий глаз на макушке.
+
+――第３の眼（ｔｈｅ⑳ｔｈｉｒｄ⑳ｅｙｅ）%K%N
+―The third eye.
+CN PLACEHOLDER
+Третий глаз...
+
+%N
+
+この器官は『頭頂眼』と呼ばれ、眼球に似た構造を持っている。%K%N
+The organ had a similar function to the eyeball and lay on the top of the head.
+CN PLACEHOLDER
+Этот орган имеет схожую с обычными глазами функцию и находится на макушке головы.
+
+これは外界の明暗を感知して内分泌をコントロール%Nする器官で、一応は光を感じることができる。%K%N
+That organ would be sensitive to the light of the outside world and control internal hormone secretion and balance based on light.
+CN PLACEHOLDER
+Он чувствителен к свету внешнего мира и управляет внутренней секрецией гормонов и их балансом, основываясь на свете.
+
+頭頂眼は常に上方（上空）を見つめているわけで、%Nまさに昼と夜の明暗差を感じるための眼といえる。%K%N
+An eye on the crest of one's head would stare straight up. It seemed safe to say that it would sense the difference in light between day and night.%K%O
+CN PLACEHOLDER
+Глаз на макушке чьей-либо головы будет обращён строго вверх. Можно сказать, что он чувствует разницу между дневным и ночным освещением.
+
+右目と左目、そして上――%K%N
+A right eye, a left eye, and one above...
+CN PLACEHOLDER
+Глаз справа, глаз слева и один наверху...
+
+つまり空を見るための頭頂眼。%K%O
+An eye on the top of the head to stare at the sky.
+CN PLACEHOLDER
+Глаз на макушке, обращённый на небо.
+
+しかし我々ヒトのように、もっと高等な脊椎動物になると、第３の眼は長い進化の過程で大脳に覆い隠されてしまい、直接光を感じることができなくなっている。%K%N
+Only we people and higher vertebrates had lost the third eye over a long process of evolution. It had been covered over by the cerebrum, and we lost our ability to sense light directly.
+CN PLACEHOLDER
+Только мы, люди и высшие позвоночные, утратили третий глаз в ходе эволюции. Он сросся с головным мозгом, а мы потеряли нашу способность напрямую чувствовать свет.
+
+ゆえに、光刺激のセンサーは左右ふたつの眼球で%N代用しているというところだろうか。%K%N
+Therefore, we had two light sensitive eyeballs, one on each side, instead.
+CN PLACEHOLDER
+Взамен же мы получили два чувствительных глаза, по одному с каждой стороны.
+
+この退化した第３の眼は『松果体（ショウカタイ）』と%N呼ばれている。%K%O
+The lost third eye was called a 「pineal body」.
+CN PLACEHOLDER
+Этот утраченный третий глаз называется 'шишковидной железой'.
+
+なお、松果体は内分泌器官としては機能しており、%N我々の脳の内部で、太古の時代と変わることなく、%N今でも２４時間のリズムを刻みつづけている。%K%N
+It had functioned in the brain for eons and was responsible for secreting hormones that helped carve out our 24-hour rhythm.
+CN PLACEHOLDER
+Она всегда функционирует в мозгу и отвечает за выработку гормонов, что позволяют поддерживать наш суточный, 24-часовой ритм.
+
+俗に言う『体内時計』とは、この松果体あっての能力なのである。%K%O
+What we called our 「internal clocks」 existed because of the pineal body.
+CN PLACEHOLDER
+То, что мы называем внутренними часами, существует благодаря этой шишковидной железе.
+
+……というようなウンチクを、ぼくがボルトを閉めている間、優は話してくれた。%K%P
+...That was essentially the rundown that You gave me as I was tightening the bolts.
+CN PLACEHOLDER
+...вот что в общих чертах рассказала Ю, пока я затягивал болты.
+
+優「つまり『第３の眼』って言っても、人体科学的な意味で考えると、なんのことはないの」%K%P
+So the third eye, in terms of human anatomical science, is really no big deal.
+CN PLACEHOLDER
+Так что, третий глаз в терминах человеческой анатомии на самом деле ничего особенного не представляет.
+
+優「退化した器官のひとつにすぎないわけで……」%K%P
+It's just an organ we lost through evolution...
+CN PLACEHOLDER
+Просто орган, пропавший во время эволюции...
+
+少年「盲腸とか、指の間の水掻きとかと同じってこと？」%K%P
+You mean like an appendix or the webbing between fingers?
+CN PLACEHOLDER
+То есть, как аппендикс или перепонки между пальцами?
+
+優「そう。そういうこと」%K%P
+That's exactly what I mean.
+CN PLACEHOLDER
+Да, в самую точку.
+
+少年「ボルト、閉め終わったよ？」%K%P
+I finished with the bolt.
+CN PLACEHOLDER
+Я закончил с этим болтом.
+
+優「ＯＫ。それでこっちの作業は完了だよ」%K%P
+Okay. Well then, our work here is done.
+CN PLACEHOLDER
+Здорово. Тогда, наша работа здесь закончена.
+
+優「う〜ん……疲れたぁ〜」%K%P
+Oh... I'm tired.
+CN PLACEHOLDER
+Ой...как я устала.
+
+大きく伸びをする優。%K%P
+You stretched as she said that.
+CN PLACEHOLDER
+Сказав это, Ю потянулась.
+
+ぼくも両手をあてて、腰を伸ばした。%K%P
+I put both hands on my waist and stretched.
+CN PLACEHOLDER
+Я положил обе руки на талию и тоже потянулся.
+
+ふたりとも、全身汗だくになっていた。%K%P
+We were both drenched in sweat.
+CN PLACEHOLDER
+Мы оба жутко вспотели.
+
+少年「ところでなんだけど……」%K%P
+Hey, I was wondering...
+CN PLACEHOLDER
+Слушай, я вот думаю...
+
+優「ん？」%K%P
+What?
+CN PLACEHOLDER
+Чего?
+
+少年「さっき披露してくれた知識の数々も、攻撃の為の知識なの？」%K%P
+So that occult stuff that you were just telling me about is for offensive purposes too?
+CN PLACEHOLDER
+Эти оккультные штуки, про которые ты недавно мне рассказывала, тоже 'инструменты для нападения'?
+
+優「う〜ん、そうねぇ……あれは攻撃の為でも防御の為でもなく」%K%P
+Well... it's not really for offensive or defensive use.
+CN PLACEHOLDER
+Ну...не сказать, что это их прямое назначение...защита или нападение.
+
+優「なんの役にも立たないムダな知識ね」%K%P
+It's just a load of useless knowledge.
+CN PLACEHOLDER
+Это просто груда бесполезных знаний.
+
+優「なのに、捨てようと思っても捨てられない」%K%P
+Still, I can't very well just throw it away.
+CN PLACEHOLDER
+И всё же, я не могу просто взять их и выбросить.
+
+優「たぶん、頭の根っこのとこに、しっかりと溶接されちゃってるんだと思う」%K%P
+Maybe it's completely rooted itself into my brain.
+CN PLACEHOLDER
+Видимо, они просто окончательно и бесповоротно укрепились в моём мозгу.
+
+少年「でも、溶接したのは自分でしょ？」%K%P
+But you planted it there yourself, right?
+CN PLACEHOLDER
+Но, ты сама их туда посадила, разве нет?
+
+優「とんでもない！」%K%P
+No way!
+CN PLACEHOLDER
+Чёрта с два!
+
+優「犯人は、母親よ」%K%P
+My mom's the guilty one.
+CN PLACEHOLDER
+Скажи спасибо моей маме.
+
+少年「お母さん？」%K%P
+Your mom?
+CN PLACEHOLDER
+Твоей маме?
+
+優「そう。私のお母さん、考古学の研究者なの」%K%P
+Yes. My mom's an archaeological researcher.
+CN PLACEHOLDER
+Да. Моя мама - археолог.
+
+優「主に『第３視点』とかいう古い概念のことを専門にしてるらしいんだけど……」%K%P
+Apparently, she's an expert in the ancient concept of the third eye...
+CN PLACEHOLDER
+А заодно и эксперт по древней теории третьего глаза...
+
+優「とにかく、ちっちゃなちっちゃな頃から、それ関連の話を子守歌代わりに聞かされ続けてきたのよ」%K%P
+Anyway, when I was little, she told me all these third eye stories instead of lullabies.
+CN PLACEHOLDER
+В общем, когда я была маленькой, вместо колыбельных она рассказывала мне все эти истории о третьем глазе.
+
+少年「ふーん……」%K%P
+Wow...
+CN PLACEHOLDER
+Ого...
+
+（ん？　第３視点？？）%K%P
+(Hmmm? The third eye?)
+CN PLACEHOLDER
+(Хммм? Третий глаз?)
+
+なんだろう？　第３の眼と何か関係あるのだろうか？%K%P
+How about that? I wondered if the third eye could be related to something.
+CN PLACEHOLDER
+Интересно, почему? А что, если всё это взаимосвязано...
+
+尋ねてみようとも思ったのだが、身体も脳みそもクタクタで、もうそんな気力は残っていなかった。%K%P
+I thought I would ask about possible connections, but my mind and body were completely drained.
+CN PLACEHOLDER
+Я хотел спросить о возможной взаимосвязи, но разум и тело уже полностью обессилили.
+
+（まあ、いいか……また今度にしよう）%K%P
+(Oh well... I'll save it for next time.)
+CN PLACEHOLDER
+(Ну ладно...приберегу это на потом.)
+
+優「考古学なんて大っ嫌いだったのに……」%K%P
+I used to hate archaeology...
+CN PLACEHOLDER
+Эта археология уже в печёнках сидит...
+
+優はため息をつきながら言った。%K%P
+You sighed as she said that.
+CN PLACEHOLDER
+Вздохнув, сказала Ю.
+
+優「気がついたら、いつの間にか考古学のある学部に進学してた」%K%P
+But one day, I just woke up and found myself in the archaeology department.
+CN PLACEHOLDER
+Но, однажды я проснулась и обнаружила, что нахожусь в археологическом департаменте.
+
+少年「かえるの子はかえるってやつ？」%K%P
+Like mother, like daughter?
+CN PLACEHOLDER
+Дочка пошла по стопам мамы?
+
+優「そんな生やさしいもんじゃないと思う」%K%P
+It's not that simple.
+CN PLACEHOLDER
+Не всё так просто.
+
+優は肩を落とし、もう一度、深いため息をついた。%K%P
+You's shoulders slumped, and she let out a deep sigh again.
+CN PLACEHOLDER
+Плечи Ю опустились и она вновь тяжело вздохнула.
+
+優「これはある種の、呪いよ」%K%P
+It's like some kind of curse.
+CN PLACEHOLDER
+Это порядком смахивает на проклятье.
+
+しばらくして、武と沙羅の方も作業を終えたようだった。%K%P
+Soon after that, it looked like Takeshi and Sara had finished their work as well.
+CN PLACEHOLDER
+Чуток погодя, Такеши с Сарой тоже закончили свою часть работы.
+
+こうして、いろいろあったが、修理は無事完了したというわけだ。%K%P
+Well, it had turned into an adventure, but at least we had finished the repairs.
+CN PLACEHOLDER
+Получилось небольшое приключение, зато мы хотя бы управились.
+
+沙羅の指摘した通り、停電の主な原因は、気圧減少に伴った安全バルブの開放にあった。%K%P
+It was just like Sara had said. The cause of the blackout was the opening of the safety valve due to the drop in air pressure.
+CN PLACEHOLDER
+Сара оказалась права. Электричество вырубилось в тот момент, когда аварийный клапан открылся из-за падения давления воздуха.
+
+『水蒸気の圧力が過剰に増加した場合、バルブが自動的に開いてガス抜きを行い、破裂損傷を防止する』%K%P
+「When pressure from the steam becomes excessive, the valve automatically opens to release the gas and prevent damage.」
+CN PLACEHOLDER
+'Когда давление в паровой трубе становится избыточным, вентиль автоматически открывается, чтобы выпустить газ и предотвратить повреждение.'
+
+『通常は、余分な蒸気を排出した後、バルブは自然に閉じるような仕組みになっているのだが……何しろ、外は１気圧だ』%K%P
+「Normally, after a release of surplus gas, the valve is designed to shut naturally... but we're only at one atmosphere.」
+CN PLACEHOLDER
+'Обычно, после высвобождения избыточного газа, вентиль сразу должен закрываться...но, сейчас здесь 1 атмосфера, поэтому...'
+
+『安全バルブは閉鎖されずに、いつまで経っても蒸気が漏れ続けた』%K%P
+「Because the safety valve never closed, the steam continued leaking.」
+CN PLACEHOLDER
+'Аварийный вентиль так и не закрылся, а утечка пара продолжалась.'
+
+……どうやら、そういうことらしい。%K%P
+...Anyway, that was the gist of the explanation.
+CN PLACEHOLDER
+...Так или иначе, это суть объяснения.
+

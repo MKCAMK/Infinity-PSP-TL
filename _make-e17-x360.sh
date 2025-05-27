@@ -9,4 +9,5 @@ export GAME=e17
 ./_unpack-xiso.sh && \
 ./_unpack-afs-e17-x360.sh && \
 ./unpack-afs.sh && \
+./text_1_extract-jap-scenes.sh && \
 ./repack-all.sh

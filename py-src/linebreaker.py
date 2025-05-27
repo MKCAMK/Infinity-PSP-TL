@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 
 import os, sys
-import r11, r11.names
+import r11.names
+from r11 import handle_control_sequence
 
 control_sequences = [
     "K", "N", "O", "P", "V", "p", "n", "TS", "TE", 
     "FS", "LL", "LC", "LR", "FE", "XS", "XE", "W", "X"
 ]
-dont_break_after = "\"('「["
-dont_break_before = (
+dont_break_after = set("\"('「[")
+dont_break_before = set(
     "1234567890"
     "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
     "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя"
@@ -106,23 +107,6 @@ def process_line(line, counter, widths, lang):
         counter = 0
 
     return counter, newline + '\n'
-
-def handle_control_sequence(line, index):
-    seq = line[index + 1:index + 3]
-    if seq[0].isdigit():
-        seq = line[index+1:index+4]
-    elif seq[:2] in control_sequences:
-        seq = seq[:2]
-    elif seq[0] == 'C':
-        seq = line[index+1:index+6]
-    elif seq[0] == 'T':
-        seq = line[index+1:index+5]
-    elif seq[0] in control_sequences:
-        seq = seq[0]
-    else:
-        raise Exception(f"unhandled control sequence " + seq)
-
-    return seq
 
 def handle_line_break(line, widths):
     i = len(line) - 1

@@ -1,134 +1,134 @@
 ﻿;10;16;５月１日　武視点
-May 1 Takeshi's POV
+1 мая глазами Такеши
 
 ;44;16;５月２日　武視点
-May 2 Takeshi's POV
+2 мая глазами Такеши
 
 ;78;16;５月３日　武視点
-May 3 Takeshi's POV
+3 мая глазами Такеши
 
 ;AC;18;５月４日　つぐみ編
-May 4 Tsugumi Ver.
+4 мая: вариант Цугуми
 
 ;E0;18;５月５日　つぐみ編
-May 5 Tsugumi Ver.
+5 мая: вариант Цугуми
 
 ;114;18;５月６日　つぐみ編
-May 6 Tsugumi Ver.
+6 мая: вариант Цугуми
 
 ;148;18;５月７日　つぐみ編
-May 7 Tsugumi Ver.
+7 мая: вариант Цугуми
 
 ;17C;14;５月４日　空編
-May 4 Sora Ver.
+4 мая: вариант Соры
 
 ;1B0;14;５月５日　空編
-May 5 Sora Ver.
+5 мая: вариант Соры
 
 ;1E4;14;５月６日　空編
-May 6 Sora Ver.
+6 мая: вариант Соры
 
 ;218;14;５月７日　空編
-May 7 Sora Ver.
+7 мая: вариант Соры
 
 ;24C;26;つぐみ・空編　バッドエンド
-Tsugumi-Sora Bad End
+Плохая концовка Цугуми / Соры
 
 ;280;18;５月１日　少年視点
-May 1 Kid's POV
+1 мая глазами Кида
 
 ;2B4;18;５月２日　少年視点
-May 2 Kid's POV
+2 мая глазами Кида
 
 ;2E8;18;５月３日　少年視点
-May 3 Kid's POV
+3 мая глазами Кида
 
 ;31C;14;５月４日　優編
-May 4 You Ver.
+4 мая: вариант Ю
 
 ;350;14;５月５日　優編
-May 5 You Ver.
+5 мая: вариант Ю
 
 ;384;14;５月６日　優編
-May 6 You Ver.
+6 мая: вариант Ю
 
 ;3B8;14;５月７日　優編
-May 7 You Ver.
+7 мая: вариант Ю
 
 ;3EC;18;優編　バッドエンド
-You Bad End
+Плохая концовка Ю
 
 ;420;16;５月４日　沙羅編
-May 4 Sara Ver.
+4 мая: вариант Сары
 
 ;454;16;５月５日　沙羅編
-May 5 Sara Ver.
+5 мая: вариант Сары
 
 ;488;16;５月６日　沙羅編
-May 6 Sara Ver.
+6 мая: вариант Сары
 
 ;4BC;16;５月７日　沙羅編
-May 7 Sara Ver.
+7 мая: вариант Сары
 
 ;4F0;20;沙羅編　バッドエンド
-Sara Bad End
+Плохая концовка Сары
 
 ;524;24;５月２日　ココ編／武視点
-May 2 Coco Ver./Takeshi's POV
+2 мая: вариант Коко / Такеши
 
 ;558;26;５月２日　ココ編／少年視点
-May 2 Coco Ver./Kid's POV
+2 мая: вариант Коко / Кид
 
 ;58C;16;５月３日　ココ編
-May 3 Coco Ver.
+3 мая: вариант Коко
 
 ;5C0;16;５月４日　ココ編
-May 4 Coco Ver.
+4 мая: вариант Коко
 
 ;5F4;16;５月５日　ココ編
-May 5 Coco Ver.
+5 мая: вариант Коко
 
 ;628;16;５月６日　ココ編
-May 6 Coco Ver.
+6 мая: вариант Коко
 
 ;65C;16;５月７日　ココ編
-May 7 Coco Ver.
+7 мая: вариант Коко
 
 ;14;100;エレベーターから脱出した武。%NだがＬｅＭＵからは、%N人の気配が消えていた。%N武は皆と共に階下へ……。
-Takeshi escapes the elevator, %Nbut there's no one to be found%Nin LeMU. He goes with Tsugumi%Nto the lower levels...
+Такеши выбрался из лифта,%Nно не увидел ни души в LeMU.%NОн идёт с Цугуми на нижние этажи...
 
 ;48;78;ＬｅＭＵ２日目の朝を%N武は寝不足で迎えた。%N空は圧力隔壁の%N限界予測を告げた。
-Takeshi starts the day short on%Nsleep. Sora predicts the limits%Nof LeMU's partitions. The power%Nsuddenly goes out.
+День Такеши начинается с недосыпа.    %NСора рассчитывает пределы прочности     %NLeMU. Вдруг отключается электричество...
 
 ;7C;100;『救助は来ないが、悲観的に%N考えるのはやめた』%N……束の間の日常。しかし%N予期せぬ危機にさらされる。
-Takeshi's optimistic sentiments%Nare shattered after a small%Nmistake leads to an unexpected%Naccident.
+Оптимизм Такеши растворяется%Nпосле небольшой ошибки, повлёкшей%Nза собой несчастный случай.
 
 ;B0;96;負傷したつぐみを見舞った武。%Nだがつぐみはベッドの上で%N「私は死にたかった」と%N冷たく言い放つ。
-Takeshi goes to visit the%Ninjured Tsugumi. She coldly%Ntells him 「I wanted to die」.
+Такеши посещает раненую Цугуми.%NНо она лишь холодно говорит:%N"Я хочу умереть".
 
 ;E4;88;死の夢から目覚めた武。%Nつぐみと乗ったクヴァレで、%N武は思いがけぬ%N告白を受けるが……。
-Takeshi awakens from a  %Nnightmare about death. On the   %NJellyfish Gondola he receives   %Nan unexpected confession...
+Такеши просыпается от сна про смерть.%NНа Гондоле "Медуза" он получает%Nнеожиданное признание...
 
 ;118;90;迫るタイムリミット。%N皆は宴会と称して、%N最後の食事を楽しむ。%Nしかしココに窮地が訪れた。
-The time limit quickly approaches.%NEveryone tries to enjoy a%N「Last Supper」. However, a new  %Npredicament arises.
+Время на исходе. Ребята отвлекаются%Nна "Тайную вечерю". Но все%Nоказываются в неприятной ситуации.
 
 ;14C;104;万難を乗り越え生き延び、%NついにＩＢＦ脱出を果たす。%Nしかし深海での危機に、%N武はつぐみを救うべく……。
-The two were somehow able to%Nescape IBF, but the submarine%Nshuts down. Takeshi commits%Nhimself to saving Tsugumi.
+Пара смогла выбраться из IBF, но%Nподлодка начала тонуть. Такеши%Nжертвует собой, чтобы спасти Цугуми.
 
 ;180;114;つぐみの態度に心痛める武。%N空はいたわりの言葉をかける。%N武は空のことを考え始める。%N空の意識とは何なのだろうか？
-Takeshi is hurt by Tsugumi's%Ncold attitude, Sora tries to%Nease his pain with words%Nof sympathy.
+Слова Цугуми задевают Такеши.%NСора пытается утешить его словами%Nсочувствия.
 
 ;1B4;104;クヴァレでつぐみに襲われ、%N狂気に満ちた行為に耽る武。%Nだが、空の『目』はそれらを%Nすべて見ていた……。
-Assaulted by Tsugumi in%NQualle, Takeshi is driven to%Nmadness. Sora's omnipresent%N「eyes」 see everything.
+Такеши впадает в ярость, так как%NЦугуми напала на него на гондоле.%N"Глаза" Соры видят это.
 
 ;1E8;102;空の笑顔は本物だろうか……？%N時間は刻々と過ぎていく。%N訪れる脅威から、%N武は空を連れて脱出を試みる。
-Is Sora's smile real? Time%Ncontinues to slip away.%NTaking Sora with him,%NTakeshi tries to escape.
+Сора улыбается искренне?%NВремени всё меньше. Такеши вместе с%NСорой пытаются выбраться.
 
 ;21C;100;圧潰の危険は知っている、%Nしかし考えるのはやめた……。%N『俺達がここにいる事』%Nただそれだけを思う。
-Takeshi and Sora try to%Nspend their last moments%Nthinking 「We are still here.」
+Такеши и Сора разделяют их последний%Nмомент, думая:%N"Мы всё ещё здесь".
 
 ;250;104;もはや退路を断たれ、%N全ての可能性は否定された。%N悪夢のような現実を、ただ%N緩やかに受け入れていく……。
-All escape routes and  %Npossibilities exhausted, the   %Nonly option left is to   %Naccept the nightmarish reality.
+Все пути и возможности для спасения%Nкончились. Остаётся лишь принять%Nужасную реальность.
 
 ;284;96;目覚めれば見知らぬ天井、%N誰かの介護を受ける少年。%N「ぼくは誰？」少年は、%N数多くの混乱を抱く。
 Looking up at an%Nunfamiliar ceiling, the Kid%Nreceives care from someone.%N「Who am I?」

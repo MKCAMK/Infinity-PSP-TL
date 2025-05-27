@@ -1,0 +1,52 @@
+﻿ＬＲ＿Ａ００の値が正しくありません。%K%P
+The value of LR_A00 is incorrect.
+CN PLACEHOLDER
+Отсутствует значение для LR_A00.
+
+%N%N%N%N%N%N%N
+
+%200⑳⑳⑳⑳⑳⑳⑳⑳生%T046体%T046反%T046応%T046：%T046１%T046%T090%T090
+        Life%T046 reading%T046: %T0461
+CN PLACEHOLDER
+Жи%T046вы%T046е %T046су%T046ще%T046ства%T046: %T0461
+
+%O
+
+%N%N%N%N%N%N
+
+%LC%FSＴｈｉｓ⑳ｓｔｏｒｙ⑳ｉｓ⑳ｎｏｔ⑳ａｎ⑳ｅｎｄ⑳ｙｅｔ．%FE%N
+This story is not over yet.
+CN PLACEHOLDER
+Здесь история не заканчивается.
+
+%LC%FSＢｅｃａｕｓｅ⑳ｏｎｌｙ⑳ｙｏｕ⑳ａｒｅ%FE%N
+Because only you are
+CN PLACEHOLDER
+Потому что в петле бесконечности
+
+%LC%FSｉｎ⑳ｔｈｅ⑳ｉｎｆｉｎｉｔｙ⑳ｌｏｏｐ．%FE
+in the infinity loop.
+CN PLACEHOLDER
+только ты.
+
+%O
+
+%N%N%N%N%N%N
+
+%LC%FSＴｈｉｓ⑳ｓｔｏｒｙ⑳ｉｓ⑳ｎｏｔ⑳ａｎ⑳ｅｎｄ⑳ｙｅｔ．%FE%N
+This story is not over yet.
+CN PLACEHOLDER
+Здесь история не заканчивается.
+
+%LC%FSＢｅｃａｕｓｅ⑳ｏｎｌｙ⑳ｙｏｕ⑳ａｒｅ%FE%N
+Because only you are
+CN PLACEHOLDER
+Потому что в петле бесконечности
+
+%LC%FSｉｎ⑳ｔｈｅ⑳ｉｎｆｉｎｉｔｙ⑳ｌｏｏｐ．%FE
+in the infinity loop.
+CN PLACEHOLDER
+только ты.
+
+%O
+

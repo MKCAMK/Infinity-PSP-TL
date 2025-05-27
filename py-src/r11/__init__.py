@@ -17,7 +17,10 @@ sjis_enc = "shift_jis_2004"
 # chinese
 # "GB2312"
 
-control_sequences = ["K", "N", "O", "P", "V", "p", "s", "n", "S", "d", "TS", "TE", "FS", "LL", "LC", "LR", "FE", "XS", "XE", "W", "X"]
+control_sequences = set([
+    "K", "N", "O", "P", "V", "p", "s", "n", "S", "d",
+    "TE", "FS", "LL", "LC", "LR", "FE", "XS", "XE", "W"
+])
 
 r11_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-en-font-table.txt"
 r11_cn_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-cn-font-table.txt"
@@ -33,51 +36,83 @@ ru_r11_charset_as_list: Union[List[CharsetElement], None] = None
 ru_r11_utf8_to_codes: dict = dict()
 ru_r11_bytes_to_codes: dict = dict()
 
-# Detects trailing %K %P %p %N and %O (any combination)
-trailing_control_vknop_re: re.Pattern = re.compile(r"\s*((?:%[VKNOPp]|%T\d{3})+)$")
+def handle_control_sequence(line: str, index: int) -> str:
+  seq = line[index+1:index+3]
+  if not seq.rstrip('\n'):
+    print("edge case! empty control sequence")
+    return ""
+  if seq[0].isdigit():
+    seq = line[index+1:index+4]
+    if 'd' in seq:
+      seq = seq[:seq.index('d')+1]
+  elif seq[:2] in control_sequences:
+    seq = seq[:2]
+  elif seq[:2] == "TS" or seq[0] == 'C':
+    seq = line[index+1:index+6]
+  elif seq[0] == 'T' or seq[0] == 'X':
+    seq = line[index+1:index+5]
+  elif seq[0] in control_sequences:
+    seq = seq[0]
+  else:
+    raise Exception(f"unhandled control sequence " + seq)
 
-def find_trailing_control_sequence(text: str) -> str:
-  trailing_control_vknop = trailing_control_vknop_re.search(text)
-  return trailing_control_vknop.group(0) if trailing_control_vknop else ""
+  return seq
 
-# only removes %K %P %p %N and %O
-def rm_trailing_control_sequence(line: str) -> str:
-  line = trailing_control_vknop_re.sub("", line)
-  return line
+def rm_trailing_control_sequence(line: str) -> Tuple[str, str]:
+  line = line.rstrip('\n')
+  tail = ""
+  while (not line.endswith("%TE")) and ('%' in line) and (pos := line.rindex('%')):
+    seq = handle_control_sequence(line, pos)
+    if not line.endswith('%' + seq): break
+    line = line[:-len(seq)-1]
+    tail = '%' + seq + tail
+  return line, tail
+
+def rm_leading_control_sequence(line: str) -> Tuple[str, str]:
+  line = line.rstrip('\n')
+  head = ""
+  while line.startswith('%') and (not line.startswith('%TS')):
+    seq = handle_control_sequence(line, 0)
+    line = line[len(seq)+1:]
+    head += '%' + seq
+  return line, head
+
 
 def clean_translation_enc_issues(line: str) -> str:
-  line = re.sub("\uff5e", "\u301c", line) # two versions of fullwidth tilde '〜' (aka wave dash), but the 2nd one can be converted to sjis
-  line = re.sub("\u2014", "\u2015", line) # likewise for em dash '—'
-  line = re.sub("\u2013", "\u2015", line) # en dash '–' -> em dash '—'
+  line = line.replace("\uff5e", "\u301c") # two versions of fullwidth tilde '〜' (aka wave dash), but the 2nd one can be converted to sjis
+  line = line.replace("\u2014", "\u2015") # likewise for em dash '—'
+  line = line.replace("\u2013", "\u2015") # en dash '–' -> em dash '—'
   # fullwidth minus '－' -> em dash '—'
   # In JP and EN translation pulled from tlwiki it was used to blank out time, i.e. "午後－－時－－分：スフィアに戻る" "－:－－PM: returned to SPHIA",
   # but now the main text is cleaned up to use em dash in JP and regular dash in EN.
   # It is still incorrectly used in init.bin JP text and some CN tips
-  line = re.sub("\uff0d", "\u2015", line)
+  line = line.replace("\uff0d", "\u2015")
   return line
 
 def clean_cn_translation_line(line: str) -> str:
   line = clean_translation_enc_issues(line)
-  line = re.sub("\u00B7", "\u30FB", line) # middle dot '·' -> katakana middle dot '・' (available in the font)
+  line = line.replace("\u00B7", "\u30FB") # middle dot '·' -> katakana middle dot '・' (available in the font)
   return line
 
 def clean_en_translation_line(line: str) -> str:
   line = clean_translation_enc_issues(line)
   line = re.sub(r"%(?![A-Za-z])", "\uff05", line) # replacing % metachar, with a lookalike char
-  line = re.sub("\u2015\u2015", "\u2015", line) # double em dash '——' -> single em dash '—'
   # double spaces were fixed manually where appropriate, use text search to find remaining cases
   # line = re.sub(r"(?<!\b\S \S)  +", " ", line) # collapse multiple spaces unless there are also extra spaces within the neighboring words
-  # line = re.sub("\u014d", "o", line) # ō no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
-  line = re.sub("na\u00efve", "naive", line) # "naïve": no umlaut for i
-  line = re.sub(r"''I''", "%CFF8FI%CFFFF", line) # colored text (yellow) to signify "ore", as deviated from Kokoro's normal "watashi".
-  line = re.sub(r"'I'", "%C8CFFI%CFFFF", line) # colored text (blue) to signify "watashi", as deviated from Satoru's normal "ore".
-  if "''" in line:
-    exit("unmatched ''")
-  # line = re.sub("\u2473", "\u2473", line) # ⑳ ('CIRCLED NUMBER TWENTY' (U+2473)). No need to replace, rendered as a wide space. (glyph #1147)
+  # line = line.replace("\u014d", "o") # ō no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
+  line = line.replace("na\u00efve", "naive") # "naïve": no umlaut for i
+  # line = re.sub("\u2473", "\u2473") # ⑳ ('CIRCLED NUMBER TWENTY' (U+2473)). No need to replace, rendered as a wide space. (glyph #1147)
   # spaces are too thin on pc; Not the case for psp.
 
   return line
 
+def clean_en_translation_line_r11(line: str) -> str:
+  line = line.replace("\u2015\u2015", "\u2015") # double em dash '——' -> single em dash '—'
+  line = line.replace("''I''", "%CFF8FI%CFFFF") # colored text (yellow) to signify "ore", as deviated from Kokoro's normal "watashi".
+  line = line.replace("'I'", "%C8CFFI%CFFFF") # colored text (blue) to signify "watashi", as deviated from Satoru's normal "ore".
+  if "''" in line:
+    exit("unmatched ''")
+  return line
 
 def println_sjis(line: str):
   sys.stdout.buffer.write(line.encode(sjis_enc))
@@ -107,23 +142,13 @@ def str_to_r11_bytes(text: str, lang = "en", exception_on_unknown = False) -> by
       r11_bytearray.extend(b'\t')
     elif ch == '%':
       r11_bytearray.extend(b'%')
-      seq = text[i+1:i+3]
+      seq = text[i+1:i+6]
+      if not seq:
+        print("edge case! empty control sequence")
+        continue
       if seq[0] == '%':
         continue
-      if seq[0].isdigit():
-        seq = text[i+1:i+4]
-        if 'd' in seq:
-          seq = seq[:seq.index('d')+1]
-      elif seq[:2] in control_sequences:
-        seq = seq[:2]
-      elif seq[0] == 'C':
-        seq = text[i+1:i+6]
-      elif seq[0] == 'T':
-        seq = text[i+1:i+5]
-      elif seq[0] in control_sequences:
-        seq = seq[0]
-      else:
-        raise Exception("undetected control sequence " + seq)
+      seq = handle_control_sequence(seq, -1)
       for _ in range(len(seq)): next(text_iter)
       r11_bytearray.extend(seq.encode("ascii"))
     else:
@@ -152,25 +177,15 @@ def r11_bytes_to_str(r11_bytes: bytes, lang = "en") -> str:
     elif b == b'%':
       r11_str.extend('%')
       try:
-        seq = r11_bytes[i+1:i+3].decode(sjis_enc)
+        seq = r11_bytes[i+1:i+6].decode(sjis_enc)
       except UnicodeDecodeError:
-        seq = r11_bytes[i+1:i+2].decode("ascii")
+        seq = r11_bytes[i+1:i+5].decode(sjis_enc)
+      if not seq:
+        print("edge case! empty control sequence")
+        continue
       if seq[0] == '%':
         continue
-      if seq[0].isdigit():
-        seq = r11_bytes[i+1:i+4].decode("ascii")
-        if 'd' in seq:
-          seq = seq[:seq.index('d')+1]
-      elif seq[:2] in control_sequences:
-        seq = seq[:2]
-      elif seq[0] == 'C':
-        seq = r11_bytes[i+1:i+6].decode("ascii")
-      elif seq[0] == 'T':
-        seq = r11_bytes[i+1:i+5].decode("ascii")
-      elif seq[0] in control_sequences:
-        seq = seq[0]
-      else:
-        raise Exception("undetected control sequence " + seq)
+      seq = handle_control_sequence(seq, -1)
       for _ in range(len(seq)): next(r11_bytes_iter)
       r11_str.extend(seq)
     else:

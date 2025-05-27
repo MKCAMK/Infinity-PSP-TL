@@ -141,11 +141,15 @@ repack_etc_afs () {
 	compose_font
 	repack_cnt
 
+	for i in assets/etc-${GAME}-${TL_SUFFIX}/*.GIM; do
+		[ -e $i ] || continue
+		$COMPRESS $i ${GAME}_etc_${TL_SUFFIX}/$(basename $i .GIM).T2P || exit 1
+	done
 	if [ -f ${GAME}_etc_${TL_SUFFIX}/FONT00.NEW ]; then
-	$COMPRESS ${GAME}_etc_${TL_SUFFIX}/FONT00.NEW ${GAME}_etc_${TL_SUFFIX}/FONT00.FOP
+		$COMPRESS ${GAME}_etc_${TL_SUFFIX}/FONT00.NEW ${GAME}_etc_${TL_SUFFIX}/FONT00.FOP || exit 1
+	fi
 	$REPACK_AFS $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs ${GAME}_etc_${TL_SUFFIX} || exit 1
 	mv -f $WORKDIR/etc-repacked.afs $ISO_RES_DIR/etc.afs
-	fi
 }
 
 # Repack init.bin

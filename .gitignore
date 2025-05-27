@@ -36,6 +36,9 @@
 /tools/GimConv/*.exe
 /tools/GimConv/*.dll
 /tools/GimConv/lib/
+/tools/GimConv/src/
+/tools/GimConv/data/
+/tools/GimConv/Readme_Gimconv-*.txt
 
 /*.exe
 /*.dll

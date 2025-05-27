@@ -2,6 +2,7 @@
 
 . ./text_1_extract-jap-scenes-func.sh
 
+[ -z "$GAME" ] && export GAME=e17
 [ -z "$TL_SUFFIX" ] && export TL_SUFFIX=en
 
 if [ "$GAME" = "n7" ]; then
@@ -10,7 +11,8 @@ if [ "$GAME" = "n7" ]; then
 		[ -e text/mac-psp-n7-${TL_SUFFIX}-utf8/$f.txt ] && continue
 		extract_scene $f
 	done
-elif [ "$GAME" = "r11" ] && [ "$TL_SUFFIX" != "ru" ]; then
+fi
+if [ -d text/chapters-psp-${GAME} ]; then
 	./text_1_extract-jap-scenes-full.sh
 fi
 echo "Done."

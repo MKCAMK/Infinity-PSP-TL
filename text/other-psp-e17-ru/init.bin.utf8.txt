@@ -96,7 +96,7 @@
 Майо
 
 ;f3c;6;女の子
-Девочка
+Девушка
 
 ;f40;6;男の人
 Парень
@@ -9476,34 +9476,34 @@ Nemonogatari 4Game (Doujinshi) 3
 Nemonogatari 4Game (Doujinshi) 4
 
 ;7dcc;12;オープニング
-Opening Movie
+Опенинг
 
 ;7dd0;24;オリジナル版オープニング
-Opening Movie (Original Ver.)
+Опенинг (оригинал)
 
 ;7dd4;14;浸水ムービー１
-Flooding Movie 1
+Затопление 1
 
 ;7dd8;14;浸水ムービー２
-Flooding Movie 2
+Затопление 2
 
 ;7ddc;20;つぐみ編エンディング
-Tsugumi End
+Концовка Цугуми
 
 ;7de0;16;空編エンディング
-Sora End
+Концовка Соры
 
 ;7de4;16;優編エンディング
-You End
+Концовка Ю
 
 ;7de8;18;沙羅編エンディング
-Sara End
+Концовка Сары
 
 ;7dec;18;ココ編エンディング
-Coco End
+Концовка Коко
 
 ;7df0;30;オリジナル版ココ編エンディング
-Coco End (Original Ver.)
+Концовка Коко (оригинал)
 
 ;7df4;6;テスト
 
