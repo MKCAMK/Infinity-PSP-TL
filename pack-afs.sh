@@ -24,6 +24,33 @@ fi
 # set to "en" if unset
 [ -z "$TL_SUFFIX" ] && export TL_SUFFIX=en
 
+if [ "$TL_SUFFIX" = "en" ]; then
+	SAVED_DATA="Save Data"
+	DETAILS="Save Data for
+"
+elif [ "$TL_SUFFIX" = "ru" ]; then
+	SAVED_DATA="Данные"
+	DETAILS="Сохранение
+"
+fi
+if [ "$GAME" = "e17" ]; then
+	NOWLOADING_OFF=1140832
+	SAVED_DATA_OFF=1204736 # "セーブデータ" 18 bytes
+	DETAILS_OFF=1204756 # "Ever17 -the out of infinity- Premium Edition\nのセーブデータです。" 75 bytes
+	DETAILS="${DETAILS}Ever17 -the out of infinity- Premium Edition"
+elif [ "$GAME" = "n7" ]; then
+	NOWLOADING_OFF=1131392
+	SAVED_DATA_OFF=1194988 # "セーブデータ" 18 bytes
+	DETAILS_OFF=1195008 # "Never7 -the end of infinity-の\nセーブデータです。" 59 bytes
+	DETAILS="${DETAILS}Never7 -the end of infinity-"
+elif [ "$GAME" = "r11" ]; then
+	NOWLOADING_OFF=1147696
+	SAVED_DATA_OFF=1214152 # "セーブデータ" 18 bytes
+	DETAILS_OFF=1214172 # "Remember11 -the age of infinity-\nのセーブデータです。" 63 bytes
+	DETAILS="${DETAILS}Remember11 -the age of infinity-"
+fi
+
+
 # Repack mac.afs (texts)
 repack_mac_afs () {
 	repack_scene () {
@@ -175,19 +202,22 @@ patch_boot_bin () {
 	echo "Applying translation to BOOT"
 	$PY ./py-src/apply_boot_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/BOOT.utf8.txt $WORKDIR/BOOT.BIN $WORKDIR/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX} || exit 1
 
-	if [ -e "assets/nowloading/nowloading-${TL_SUFFIX}.gim" ]; then
-		if [ "$GAME" = "e17" ]; then
-			NOWLOADING_OFF=1140832
-		elif [ "$GAME" = "n7" ]; then
-			NOWLOADING_OFF=1131392
-		elif [ "$GAME" = "r11" ]; then
-			NOWLOADING_OFF=1147696
-		fi
-		if [ -n "${NOWLOADING_OFF}" ]; then
-			echo "Applying nowloading image patch"
-			dd oflag=seek_bytes conv=notrunc seek=${NOWLOADING_OFF} if=assets/nowloading/nowloading-${TL_SUFFIX}.gim of=$WORKDIR/BOOT.BIN.${TL_SUFFIX}
-		fi
+	if [ -e "assets/nowloading/nowloading-${TL_SUFFIX}.gim" ] && [ -n "${NOWLOADING_OFF}" ]; then
+		echo "Applying nowloading image patch"
+		dd oflag=seek_bytes conv=notrunc seek=${NOWLOADING_OFF} if=assets/nowloading/nowloading-${TL_SUFFIX}.gim of=$WORKDIR/BOOT.BIN.${TL_SUFFIX}
 	fi
+
+	export OLD_CTYPE="$LC_CTYPE"
+	export LC_CTYPE=C.UTF-8
+	if [ -n "$DETAILS" ] && [ -n "$DETAILS_OFF" ]; then
+		echo "Patching Save Details text"
+		printf "$DETAILS\0" | dd oflag=seek_bytes conv=notrunc seek=$DETAILS_OFF of=$WORKDIR/BOOT.BIN.${TL_SUFFIX}
+	fi
+	if [ -n "$SAVED_DATA" ] && [ -n "$SAVED_DATA_OFF" ]; then
+		echo "Patching Saved Data text"
+		printf "$SAVED_DATA\0" | dd oflag=seek_bytes conv=notrunc seek=$SAVED_DATA_OFF of=$WORKDIR/BOOT.BIN.${TL_SUFFIX}
+	fi
+	export LC_CTYPE="$OLD_CTYPE"
 
 	echo "Applying other patches to BOOT"
 	mv -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} $WORKDIR/BOOT.BIN.patched
