@@ -5,14 +5,14 @@
 
 ; Swap Circle and Cross buttons
 ; PSP_CTRL_CROSS = 0x004000, PSP_CTRL_CIRCLE = 0x002000
-.org 0x088722EC
-.area 4
-	ori v0, v0, 0x4000 ; treat Circle as Cross
-.endarea
-.org 0x08872304
-.area 4
-	ori v0, v0, 0x2000 ; treat Cross as Circle
-.endarea
+;.org 0x088722EC
+;.area 4
+;	ori v0, v0, 0x4000 ; treat Circle as Cross
+;.endarea
+;.org 0x08872304
+;.area 4
+;	ori v0, v0, 0x2000 ; treat Cross as Circle
+;.endarea
 
 ; Do not call sceImposeSetLanguageMode to avoid overriding language settings
 .orga 0x761C
