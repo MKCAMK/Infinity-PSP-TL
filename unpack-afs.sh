@@ -63,7 +63,7 @@ done
 for i in assets/etc-${GAME}-${TL_SUFFIX}/*/ ; do
 	[ -d "$i" ] || continue
 	f=${i%%/}; f=${f##*/}
-	echo $f
+	echo "Unpacking $f"
 	if [ ! -d "${GAME}_etc/TEX" ] && ([ "$f" = "INFO" ] || [ "$f" = "TEXT" ] ||
 		[ "$f" = "GAME" ] || [ "$f" = "OPTION" ] || [ "$f" = "TIPS" ] || [ "$f" = "SSE" ])
 	then

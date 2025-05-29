@@ -118,7 +118,11 @@ repack_cnt () {
 	for i in assets/etc-${GAME}-${TL_SUFFIX}/*/ ; do
 		[ -d "$i" ] || continue
 		f=${i%%/}; f=${f##*/}
-		[ "$f" = "TEX" ] && continue
+		if [ "$f" = "TEX" ]; then
+			[ ! -d "${GAME}_etc/TEX" ] && echo "TEX has not been unpacked" && exit 1
+			[ ! -d "${GAME}_etc_${TL_SUFFIX}/TEX" ] && cp -r ${GAME}_etc/TEX ${GAME}_etc_${TL_SUFFIX}/TEX
+			continue
+		fi
 		if [ ! -d "${GAME}_etc/${f}" ]; then
 			echo "$f has not been unpacked"
 			exit 1
