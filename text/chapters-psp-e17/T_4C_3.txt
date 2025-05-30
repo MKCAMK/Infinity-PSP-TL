@@ -94,7 +94,7 @@ CN PLACEHOLDER
 Здесь целая пригоршня этих самых упаковок... как та, что я нашёл в лазарете под кроватью.
 
 武「そうか。じゃ、探索のときは皆、寝ぼけてたのかもしれんな……」%K%P
-I guess we were all half-asleep when we looked last%Ntime.
+I guess we were all half-asleep when we looked last time.
 CN PLACEHOLDER
 Видимо, в прошлый раз мы были в полусонном состоянии.
 
@@ -399,7 +399,7 @@ CN PLACEHOLDER
 Коко-тян испугалась меня, а Танака-сан почему-то взбесилась...
 
 空「でも、倉成さんが間違ったことを言ったわけではないんじゃないかな？　って、そう思ってたんです」%K%P
-But what you said wasn't wrong... At least I don't think%Nso.
+But what you said wasn't wrong... At least I don't think so.
 CN PLACEHOLDER
 Но, я не думаю, что ты говорил неправильные вещи...по крайней мере, мне так не кажется.
 

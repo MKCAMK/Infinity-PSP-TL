@@ -269,7 +269,7 @@ CN PLACEHOLDER
 Эээ...? Нет, но...
 
 空「倉成さん、お休みにならなくてもいいんですか？」%K%P
-Kuranari-san, are you sure you do not need more%Nrest?
+Kuranari-san, are you sure you do not need more rest?
 CN PLACEHOLDER
 Куранари-сан, ты уверен, что не хочешь отдохнуть?
 
@@ -499,7 +499,7 @@ CN PLACEHOLDER
 Так что не волнуйся об этом.
 
 空「皆さんの脱出経路を、きちんと確保できればいいんですけど。通信系の回復だって……」%K%P
-It would be great if we could ensure that everybody has an escape route, but even the communications are%Nstill...
+It would be great if we could ensure that everybody has an escape route, but even the communications are still...
 CN PLACEHOLDER
 Было бы просто здорово, если бы мы могли убедиться, что все могут спастись, но раз уж связь всё ещё...
 
@@ -1249,7 +1249,7 @@ CN PLACEHOLDER
 Одна из её функций - продолжение рода...
 
 空「それでいて、生殖そのものからは独立したものであるところのっ」%K%P
-...But that appears to be a function independent of%Nlove.
+...But that appears to be a function independent of love.
 CN PLACEHOLDER
 ...но, в то же время, эта функция не зависит от любви...
 

@@ -1414,7 +1414,7 @@ CN PLACEHOLDER
 Я имею в виду Ю.
 
 優「私は、職員って言うか、ただのバイトだけど……」%K%P
-Well, I'm not really an employee. It's just a part-time%Nthing...
+Well, I'm not really an employee. It's just a part-time thing...
 CN PLACEHOLDER
 Знаешь, не могу назвать себя таковой. Я здесь лишь подрабатываю...
 
@@ -2436,7 +2436,7 @@ CN PLACEHOLDER
 Из-за чего она так злится?
 
 沙羅「武……なんか嫌われるようなことしたんでしょ？」%K%P
-Takeshi... did you do something to make her mad at%Nyou?
+Takeshi... did you do something to make her mad at you?
 CN PLACEHOLDER
 Такеши... сделал нечто такое, что разозлило её?
 
@@ -2891,7 +2891,7 @@ CN PLACEHOLDER
 В руководстве написано так -
 
 空「『緊急の場合でも、お客様には一時的に、インゼル・ヌル上の加減圧室にとどまっていただく必要がある』」%K%P
-'In the case of an emergency, it is necessary to temporarily hold visitors in the decompression%Nchamber.'
+'In the case of an emergency, it is necessary to temporarily hold visitors in the decompression chamber.'
 CN PLACEHOLDER
 'В случае аварии, посетителей необходимо некоторое время продержать в барокамере.'
 

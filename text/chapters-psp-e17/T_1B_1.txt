@@ -2024,7 +2024,7 @@ CN PLACEHOLDER
 Ничего себе...ты работаешь на этих компьютерах, даже не касаясь блока управления?
 
 武「俺の持ってる最新式の携帯ですら、タッチパネルだぞ？」%K%P
-I've got the latest cell phone, and it's got a touch%Npanel.
+I've got the latest cell phone, and it's got a touch panel.
 CN PLACEHOLDER
 У меня последняя модель наладонника, а панельку всё равно приходится трогать.
 
@@ -3229,7 +3229,7 @@ CN PLACEHOLDER
 Ты страдаешь от головокружения?
 
 空「あの、どこかでしたたかに頭を打ったのでは？」%K%P
-You might have bumped your head severely%Nsomewhere.
+You might have bumped your head severely somewhere.
 CN PLACEHOLDER
 Возможно ты где-то серьёзно ушиб голову.
 

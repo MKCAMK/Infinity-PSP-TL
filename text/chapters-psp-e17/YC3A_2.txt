@@ -1089,7 +1089,7 @@ CN PLACEHOLDER
 Я в здравом уме.
 
 武「大丈夫だ。このぐらいの傷なら心配いらない」%K%P
-You'll be okay. The wound isn't that deep, so don't%Nworry.
+You'll be okay. The wound isn't that deep, so don't worry.
 CN PLACEHOLDER
 Ты поправишься. Рана не настолько глубокая, так что не беспокойся.
 
@@ -3484,7 +3484,7 @@ CN PLACEHOLDER
 Смотришь кое-что?
 
 優「私、前に言ったことあったよね？　私がＬｅＭＵのバイトを始めたきっかけ……」%K%P
-I told you before, right? About why I got this job at%NLeMU...
+I told you before, right? About why I got this job at LeMU...
 CN PLACEHOLDER
 Помнишь, я тебе раньше рассказывала? О том, почему я пошла работать в LeMU...
 
@@ -3589,7 +3589,7 @@ CN PLACEHOLDER
 Авария 17-летней давности покрыта мраком.
 
 優「１７年前に、行方不明になったお父さん」%K%P
-And my father, who disappeared seventeen years%Nago.
+And my father, who disappeared seventeen years ago.
 CN PLACEHOLDER
 А мой отец пропал 17 лет назад.
 

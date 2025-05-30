@@ -319,7 +319,7 @@ CN PLACEHOLDER
 От носика сифона кофейного автомата в воздух веет белый пар.
 
 少年「それは、みんなに隠れてやらなきゃいけないことなの？」%K%P
-Is this something that you have to hide from%Neveryone?
+Is this something that you have to hide from everyone?
 CN PLACEHOLDER
 Тебе пришлось скрыть что-то от окружающих?
 
@@ -384,7 +384,7 @@ CN PLACEHOLDER
 И потихоньку стала рассказывать.
 
 優「私、前に言ったことあったよね？　私がＬｅＭＵのバイトを始めたきっかけ……」%K%P
-I told you before, right? About why I got this job at%NLeMU...
+I told you before, right? About why I got this job at LeMU...
 CN PLACEHOLDER
 Помнишь, я тебе раньше рассказывала? О том, почему я пошла работать в LeMU...
 
@@ -489,7 +489,7 @@ CN PLACEHOLDER
 Авария 17-летней давности покрыта мраком.
 
 優「１７年前に、行方不明になったお父さん」%K%P
-And my father, who disappeared seventeen years%Nago.
+And my father, who disappeared seventeen years ago.
 CN PLACEHOLDER
 А мой отец пропал 17 лет назад.
 
@@ -1219,7 +1219,7 @@ CN PLACEHOLDER
 Кто знает? Но, мы же говорим о большой компании, где крутятся большие деньги... стопудово, всё дело в грязных зелёных бумажках.
 
 優「まあそんなこと、私達に知ることはできないし、別に知りたくもないよ」%K%P
-But there's no way for us to know, and I don't really%Ncare.
+But there's no way for us to know, and I don't really care.
 CN PLACEHOLDER
 Но, как бы там ни было, мы всё равно об этом не узнаем, поэтому мне как-то фиолетово.
 
@@ -2006,7 +2006,7 @@ CN PLACEHOLDER
 Ты же упоминала, что Сара выиграла первый приз в каком-то соревновании по взлому паролей, или я ошибаюсь?
 
 少年「きっと、パスワードを解析するプログラムを作ってくれるって」%K%P
-I'll bet she'd make a password-breaking program for%Nyou.
+I'll bet she'd make a password-breaking program for you.
 CN PLACEHOLDER
 Спорим, что она бы смогла написать для тебя брутфорсер...ну, программу для взлома паролей.
 
@@ -3076,7 +3076,7 @@ CN PLACEHOLDER
 Да какая теперь разница.
 
 優「とにかく、パスワードがわかればそれでいいんだから」%K%P
-Anyway, as long as I have the password, things are%Nfine.
+Anyway, as long as I have the password, things are fine.
 CN PLACEHOLDER
 У нас есть пароль, так что всё в порядке.
 

@@ -589,7 +589,7 @@ CN PLACEHOLDER
 Личные данные сотрудников - не исключение.
 
 優「そのプロテクトを解く為の鍵……レミのセキュリティロックを外せる、緊急用の最終パスワード――それを、探してるのよ」%K%P
-And so I'm hunting for the key to unlock that%Nprotection―an emergency override.
+And so I'm hunting for the key to unlock that protection―an emergency override.
 CN PLACEHOLDER
 Потому я охочусь за ключиком, что снимет эту хренову защиту...сбросит её в дефолтные настройки.
 
@@ -994,7 +994,7 @@ CN PLACEHOLDER
 Что же сокрыто там внутри? Нет, эта дверца ещё не открыта.
 
 優「結局、な〜んにもわかってないのと一緒だよ」%K%P
-Until I can get inside, it's the same as not knowing a%Nthing.
+Until I can get inside, it's the same as not knowing a thing.
 CN PLACEHOLDER
 Пока мы не окажемся внутри, это всё равно что не знать ничего.
 

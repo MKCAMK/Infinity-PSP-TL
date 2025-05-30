@@ -469,7 +469,7 @@ CN PLACEHOLDER
 Сора недолго стояла и выжидала, а затем медленно продолжила...
 
 空「昨日のお話の続きです」%K%P
-This is the continuation of our conversation%Nyesterday.
+This is the continuation of our conversation yesterday.
 CN PLACEHOLDER
 Это продолжение нашего вчерашнего разговора.
 
@@ -1214,7 +1214,7 @@ CN PLACEHOLDER
 Разумеется.
 
 空「では、耳の変換機を片側だけ外して、私の横に回り込んで見てください」%K%P
-In that case, please take out just one of the earphones of your voice adapter and come around here to my%Nside.
+In that case, please take out just one of the earphones of your voice adapter and come around here to my side.
 CN PLACEHOLDER
 Тогда, пожалуйста сними один из модификаторов голоса и отойди чуток в сторону.
 

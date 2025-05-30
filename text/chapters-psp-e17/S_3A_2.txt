@@ -44,7 +44,7 @@ CN PLACEHOLDER
 Он всё ещё преподаёт. Работает в школе целую вечность...наверно до пенсии там и проторчит.
 
 沙羅「そのコニーがね？　ついにこの間、電子犬を買ったんですよ」%K%P
-You know what? The other day, he bought a robotic%Ndog.
+You know what? The other day, he bought a robotic dog.
 CN PLACEHOLDER
 Ты в курсе? Однажды он принёс с собой собаку-робота.
 
@@ -1059,7 +1059,7 @@ CN PLACEHOLDER
 Так.
 
 松永「でもそのわりに、画面に映ってるの、ただのゲームみたいなんですけど」%K%P
-But it looks like the only thing on the screens are%Ngames.
+But it looks like the only thing on the screens are games.
 CN PLACEHOLDER
 Но, единственное что я вижу работающего на экранах, так это игры.
 
@@ -1319,7 +1319,7 @@ CN PLACEHOLDER
 Невозможно. Эта девушка...
 
 優「あの短時間で、ここのシステムをクラッキングしたってこと？」%K%P
-Could she have cracked the whole system that%Nquickly?
+Could she have cracked the whole system that quickly?
 CN PLACEHOLDER
 Как она умудрилась так быстро вывести всю систему из строя?
 

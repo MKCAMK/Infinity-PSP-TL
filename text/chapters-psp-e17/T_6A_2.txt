@@ -354,7 +354,7 @@ CN PLACEHOLDER
 Этот прогноз имеет погрешность +/- 12 часов.
 
 空「この推定数値には、今のところ大きな変更はかかっていません」%K%P
-There has been no significant change in this%Nprediction.
+There has been no significant change in this prediction.
 CN PLACEHOLDER
 Существенных изменений в прогнозе не наблюдается.
 
@@ -1639,7 +1639,7 @@ CN PLACEHOLDER
 Да я и сам не могу.
 
 武「忘れるもんか……そんな簡単な話じゃないんだ」%K%P
-That's not something you can... just simply forget%Nabout.
+That's not something you can... just simply forget about.
 CN PLACEHOLDER
 Такое...нельзя забыть.
 
@@ -1679,7 +1679,7 @@ CN PLACEHOLDER
 Мне очень жаль.
 
 空「忘れちゃったんですよ。数時間の間、記憶がないんです」%K%P
-I forgot them. There is a gap in my memory of a few%Nhours.
+I forgot them. There is a gap in my memory of a few hours.
 CN PLACEHOLDER
 Я забыла. В моей памяти дыра, длиной в несколько часов.
 

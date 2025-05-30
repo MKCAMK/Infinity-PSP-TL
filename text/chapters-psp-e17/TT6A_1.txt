@@ -229,7 +229,7 @@ CN PLACEHOLDER
 Почему она вообще слегла с Tief Blau...?
 
 つぐみ「そうね……ココは５月１日以前に、一度このＩＢＦに降りている」%K%P
-Well... Coco had been to IBF at least once before May%N1st.
+Well... Coco had been to IBF at least once before May 1st.
 CN PLACEHOLDER
 Ну...скорей всего, Коко была в IBF ещё до 1-го мая.
 
@@ -349,7 +349,7 @@ CN PLACEHOLDER
 Всё что я могу - вздохнуть от досады.
 
 武「道理で、それじゃここに救助隊が来ないのも……？」%K%P
-That's the reason that no rescue team is coming%Nhere...?
+That's the reason that no rescue team is coming here...?
 CN PLACEHOLDER
 Так вот почему не видно спасателей...?
 
@@ -1471,7 +1471,7 @@ CN PLACEHOLDER
 Упрямо надулась Ю.
 
 武「命がかかってるってのに、お前は何を言い出すんだよ……！」%K%P
-What are you talking about!? Your life's on the line%Nhere...!
+What are you talking about!? Your life's on the line here...!
 CN PLACEHOLDER
 Хватит дурачиться! Сейчас твоя жизнь висит на волоске...!
 
@@ -1526,7 +1526,7 @@ CN PLACEHOLDER
 К-Куда?! Куда по-твоему ты её суёшь!?
 
 優「違う！　そこじゃないって！　ああ乱暴にしないでっ！」%K%P
-You've got it all wrong! Not there! Aaaa, stop mangling%Nme!
+You've got it all wrong! Not there! Aaaa, stop mangling me!
 CN PLACEHOLDER
 Нет! Только не туда! Аааа, прекрати меня калечить!
 
@@ -2623,7 +2623,7 @@ CN PLACEHOLDER
 Не вставая из-за терминала, продолжила Ю.
 
 優「この診療室の奥に簡単なラボがあるの」%K%P
-There's a simple lab in the back of the examination%Nroom.
+There's a simple lab in the back of the examination room.
 CN PLACEHOLDER
 В смотровом зале...есть простенькая лаборатория.
 
@@ -3443,7 +3443,7 @@ CN PLACEHOLDER
 Если одна из секций будет затоплена, то соседние зоны последуют за ней, по принципу домино.
 
 管制官「いずれにしろ、重量のある破片が落下し、研究所上部にぶつかることが予想される」%K%P
-If that happens, we think there's a high possibility that heavy pieces could crash down on the research%Nfacility.
+If that happens, we think there's a high possibility that heavy pieces could crash down on the research facility.
 CN PLACEHOLDER
 Если это случится, мы считаем, что высока вероятность обрушения тяжёлых кусков партиций на лабораторию.
 
@@ -3483,7 +3483,7 @@ CN PLACEHOLDER
 Я несколько раз щёлкнул по кнопке 'Вызов', но ответа не последовало.
 
 武「くそっ、こっちからは回線を開けないのか……？」%K%P
-Damn it, we can't open up communications from this%Nside...
+Damn it, we can't open up communications from this side...
 CN PLACEHOLDER
 Чёрт, отсюда нельзя создать сеанс связи...
 
@@ -4383,7 +4383,7 @@ CN PLACEHOLDER
 Ну, я хороший пловец.
 
 武「潜水で、２５ｍプールを１往復したことならある、一応」%K%P
-Actually, I swam down and back in a 25-meter pool%Nonce.
+Actually, I swam down and back in a 25-meter pool once.
 CN PLACEHOLDER
 Просто...я же проплывал в бассейне 25 метров, в обе стороны...как-то раз...
 

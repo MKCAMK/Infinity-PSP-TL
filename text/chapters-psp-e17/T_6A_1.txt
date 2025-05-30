@@ -354,7 +354,7 @@ CN PLACEHOLDER
 Этот прогноз имеет погрешность +/- 12 часов.
 
 空「この推定数値には、今のところ大きな変更はかかっていません」%K%P
-There has been no significant change in this%Nprediction.
+There has been no significant change in this prediction.
 CN PLACEHOLDER
 Существенных изменений в прогнозе не наблюдается.
 
@@ -1204,7 +1204,7 @@ CN PLACEHOLDER
 Да нет, ничего.
 
 武「実は正直、俺もそう思ってたんだ」%K%P
-You know... To tell you the truth, I'm thinking the same%Nway.
+You know... To tell you the truth, I'm thinking the same way.
 CN PLACEHOLDER
 Знаешь...сказать по-правде, я тоже так думаю.
 
@@ -1679,7 +1679,7 @@ CN PLACEHOLDER
 Да я и сам не могу.
 
 武「忘れるもんか……そんな簡単な話じゃないんだ」%K%P
-That's not something you can... just simply forget%Nabout.
+That's not something you can... just simply forget about.
 CN PLACEHOLDER
 Такое...нельзя забыть.
 

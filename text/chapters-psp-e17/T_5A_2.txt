@@ -614,7 +614,7 @@ CN PLACEHOLDER
 Да нет...ничего. Совсем ничего.
 
 武「意味のない質問だなぁ、と思っただけさ」%K%P
-It's just that, well, I thought your question was%Npointless.
+It's just that, well, I thought your question was pointless.
 CN PLACEHOLDER
 Просто, ну, твой вопрос показался мне бессмысленным.
 
@@ -1669,7 +1669,7 @@ CN PLACEHOLDER
 Именно. Твоё тело - лишь набор 'микросхем' и 'плат'.
 
 つぐみ「武という本質を具現化する為の、ただの道具」%K%P
-It's just a device in which the entity of 'you' is%Nembodied.
+It's just a device in which the entity of 'you' is embodied.
 CN PLACEHOLDER
 Это устройство, в котором воплощена твоя сущность.
 

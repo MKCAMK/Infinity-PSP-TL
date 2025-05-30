@@ -1044,7 +1044,7 @@ CN PLACEHOLDER
 Хорошо.
 
 つぐみ「もしもあなたが嘘をついてないとしたら……ひとつだけ、忠告しといてあげる」%K%P
-Well, if you aren't lying... then I'll warn you about one%Nthing.
+Well, if you aren't lying... then I'll warn you about one thing.
 CN PLACEHOLDER
 Ну, если ты не врёшь...тогда я предупрежу тебя об одной вещи.
 
@@ -1381,7 +1381,7 @@ CN PLACEHOLDER
 // script does not readd the newline control sequence
 
 Ｉｎｔｅｌｌｉｇｅｎｔ⑳Ｈｉｒｎ⑳Ｓｙｓｔｅｍ』
-Intelligentes%NHirnsystem.> 
+Intelligentes Hirnsystem.> 
 CN PLACEHOLDER
 Интеллижент Хирн Систем' 
 
@@ -1391,7 +1391,7 @@ CN PLACEHOLDER
 ...」
 
 少年「……………………は、はいっ？　も、もう１回、いい？」%K%P
-Uh... what was that? Can you give it to me one more%Ntime?
+Uh... what was that? Can you give it to me one more time?
 CN PLACEHOLDER
 Ээ...что это было? Повтори пожалуйста ещё разочек.
 
@@ -1402,7 +1402,7 @@ CN PLACEHOLDER
 // same as above
 
 Ｉｎｔｅｌｌｉｇｅｎｔ⑳Ｈｉｒｎ⑳Ｓｙｓｔｅｍ』
-Intelligentes%NHirnsystem.> 
+Intelligentes Hirnsystem.> 
 CN PLACEHOLDER
 Интеллижент Хирн Систем' 
 
@@ -1487,7 +1487,7 @@ CN PLACEHOLDER
 Компания владеет этим тематическим парком.
 
 空「そして、この会社の筆頭株主が、ライプリヒ製薬なのです」%K%P
-And the largest stockholder is Leiblich%NPharmaceuticals.
+And the largest stockholder is Leiblich Pharmaceuticals.
 CN PLACEHOLDER
 И большинство того, что продаётся в LeMU, производится Лейблих.
 

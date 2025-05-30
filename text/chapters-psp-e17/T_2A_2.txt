@@ -1689,7 +1689,7 @@ CN PLACEHOLDER
 Хммм...
 
 ココ「それで、どうだったの？　エレベーターは動きそう？」%K%P
-So how about it? Does it look like the elevator will%Nmove?
+So how about it? Does it look like the elevator will move?
 CN PLACEHOLDER
 И как? Лифт сможет двигаться?
 
@@ -1719,7 +1719,7 @@ CN PLACEHOLDER
 Третий этаж? А почему нам просто не спуститься по аварийным лестницам?
 
 つぐみ「あの階段じゃ、行けないから」%K%P
-Because those stairs won't get us where we need to%Ngo.
+Because those stairs won't get us where we need to go.
 CN PLACEHOLDER
 Потому что по ним мы не доберёмся туда, куда надо.
 
@@ -2229,7 +2229,7 @@ CN PLACEHOLDER
 Я подскочил и встал между Коко и Цугуми.
 
 つぐみ「『いやだ、行きたくない』って、駄々っ子みたいに言ったじゃない」%K%P
-'No. I don't want to go.' That sounds pretty scared to%Nme.
+'No. I don't want to go.' That sounds pretty scared to me.
 CN PLACEHOLDER
 'Нет. Я никуда не пойду.' Так говорят только трусы.
 
@@ -2299,7 +2299,7 @@ CN PLACEHOLDER
 Ладно, ладно. Отлично. Я пойду с тобой.
 
 武「一緒に行ってやるよ、お前が怖がるといけないからな！」%K%P
-I'll go with you because you are too scared to go%Nalone.
+I'll go with you because you are too scared to go alone.
 CN PLACEHOLDER
 Я пойду, потому что ты боишься идти в одиночку.
 
