@@ -579,7 +579,7 @@ CN PLACEHOLDER
 (Но, всё же...)
 
 つぐみ「いえ……やっぱり、関係あるかもしれない、か」%K%P
-No... Well, actually, it might have something to do with%Nyou.
+No... Well, actually, it might have something to do with you.
 CN PLACEHOLDER
 Нет...ну, в действительности это касается и тебя.
 
@@ -814,7 +814,7 @@ CN PLACEHOLDER
 Выходит, это творится не только со мной.
 
 少年「でも、なんで突然、予知なんてできるようになったんだろう……」%K%P
-But how come I can see into the future all of a%Nsudden...?
+But how come I can see into the future all of a sudden...?
 CN PLACEHOLDER
 Но, тогда, с чего это вдруг я могу видеть будущее...?
 

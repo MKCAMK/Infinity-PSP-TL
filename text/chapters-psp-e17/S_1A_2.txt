@@ -54,7 +54,7 @@ CN PLACEHOLDER
 Тогда, откуда она...?
 
 優「さっきの……私達が巻き込まれた浸水のせいよ」%K%P
-This must be from the water that washed us away%Nearlier.
+This must be from the water that washed us away earlier.
 CN PLACEHOLDER
 Должно быть, это та вода, что недавно чуть не смыла нас.
 
@@ -2265,7 +2265,7 @@ CN PLACEHOLDER
 После того, как Ю закончила свой рассказ...
 
 優「そしたらね？　突然『警報』が鳴り響いて……」%K%P
-And then, you know, suddenly the alarm started%Nringing...
+And then, you know, suddenly the alarm started ringing...
 CN PLACEHOLDER
 А затем, вдруг завыла сирена...
 
@@ -2305,7 +2305,7 @@ CN PLACEHOLDER
 Да.
 
 沙羅「いきなりエレベーターが止まって……中に閉じ込められちゃって……」%K%P
-The elevator suddenly stopped... and I got stuck%Ninside...
+The elevator suddenly stopped... and I got stuck inside...
 CN PLACEHOLDER
 А потом лифт остановился...и я оказалась замурованной...
 

@@ -700,7 +700,7 @@ CN PLACEHOLDER
 Не знаю...
 
 武「おい、そっちの画面になんか出てるぞ？」%K%P
-Hey, something just came up on that screen over%Nthere.
+Hey, something just came up on that screen over there.
 CN PLACEHOLDER
 Смотри-ка, на экране что-то высветилось.
 
@@ -1440,7 +1440,7 @@ CN PLACEHOLDER
 Наружный люк подлодки открылся.
 
 エアロックの中の圧縮された空気が、海中へと噴き出す。
-The air which had been compressed in the airlock was%Njettisoned into the ocean.
+The air which had been compressed in the airlock was jettisoned into the ocean.
 CN PLACEHOLDER
 Воздух, что был нагнетён в воздушный шлюз, вырвался в океан.
 
@@ -1482,14 +1482,14 @@ CN PLACEHOLDER
 Он больше не слышит её голос.
 
 ガラスの向こうに、彼女の姿が揺らめいて見えた。
-On the other side of the glass, he could make out her%Nblurry outline.
+On the other side of the glass, he could make out her blurry outline.
 CN PLACEHOLDER
 По другую сторону стекла, он едва различает её размытый силуэт.
 
 %P
 
 泣き濡れて、くしゃくしゃになったつぐみの顔が……。
-Tsugumi's face was covered with tears, broken with%Nsadness...
+Tsugumi's face was covered with tears, broken with sadness...
 CN PLACEHOLDER
 Лицо Цугуми омыто слезами, и сломлено печалью....
 

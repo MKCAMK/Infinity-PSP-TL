@@ -89,7 +89,7 @@ CN PLACEHOLDER
 Ю хихикнула, пытаясь отвязаться от этого разговора.
 
 優「起きるんなら、顔、洗ってきたら？」%K%P
-Hey, since you're up, why don't you go wash your%Nface?
+Hey, since you're up, why don't you go wash your face?
 CN PLACEHOLDER
 Слушай, раз уж ты проснулся, может пойдёшь и умоешься?
 
@@ -1424,7 +1424,7 @@ CN PLACEHOLDER
 Ну.... Не всё идёт согласно планам...
 
 ココ「みんなが飛び跳ねたからかなぁ？」%K%P
-Is it because everyone was bouncing around so%Nmuch?
+Is it because everyone was bouncing around so much?
 CN PLACEHOLDER
 Может потому, что все ходили по сооружению и расшатали его?
 

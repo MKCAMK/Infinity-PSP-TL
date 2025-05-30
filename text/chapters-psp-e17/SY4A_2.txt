@@ -789,7 +789,7 @@ CN PLACEHOLDER
 Значит, когда мы имеем дело с ключом размером в 2 бита, возможная длина пароля увеличивается вдвое, а варианты - учетверяются.
 
 優「さっきの例なら、『Ｅ』の文字は、『００』『０１』『１０』『１１』のどれかに変換されるってこと」%K%P
-So, for the example of 'E', it would be either 00, 01, 10, or%N11.
+So, for the example of 'E', it would be either 00, 01, 10, or 11.
 CN PLACEHOLDER
 То есть, наша 'Ж' теперь может превратиться в 00, 01, 10 или 11.
 
@@ -1699,7 +1699,7 @@ CN PLACEHOLDER
 Сора! Прошу, выслушай меня, прежде чем делать выводы.
 
 少年「レミを作ったメンバーの中に、優のお父さんがいたんだ」%K%P
-You's father was a member of the team that made%NLeMMIH.
+You's father was a member of the team that made LeMMIH.
 CN PLACEHOLDER
 Отец Ю был членом команды разработчиков ЛеММИХ.
 
@@ -3004,7 +3004,7 @@ CN PLACEHOLDER
 Слушайте, мне вот интересно...
 
 少年「沙羅はいったい、どんな風にシステムを書き換えたの？」%K%P
-Sara, what in the world did you do to rewrite the%Nsystem?
+Sara, what in the world did you do to rewrite the system?
 CN PLACEHOLDER
 Сара, что, чёрт побери, ты сделала с системой?
 
@@ -3369,7 +3369,7 @@ CN PLACEHOLDER
 Во-первых, я попыталась найти информацию об отце Танаки-сан.
 
 空「しかし『タナカヨウイチ』なる人物が存在した記録は、このＬｅＭＵ内のデータベースには一切保存されておりませんでした」%K%P
-However, there were no files pertaining to 'Tanaka%NYoichi' recorded in LeMU's database.
+However, there were no files pertaining to 'Tanaka Yoichi' recorded in LeMU's database.
 CN PLACEHOLDER
 Однако, файлов, принадлежащих Танаке Йоичи, в базе данных LeMU не обнаружено.
 

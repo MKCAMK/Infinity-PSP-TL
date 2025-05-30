@@ -669,7 +669,7 @@ CN PLACEHOLDER
 Затем я протянул оставшийся бутерброд Соре.
 
 武「もう１個は空のぶんだ。まだ食べてないだろ？」%K%P
-The other one is for Sora. You haven't eaten, have%Nyou?
+The other one is for Sora. You haven't eaten, have you?
 CN PLACEHOLDER
 А это тебе, Сора. Ты же ничего не ела, так ведь?
 
@@ -1094,7 +1094,7 @@ CN PLACEHOLDER
 Ну конечно!
 
 武「志半ばで過労死した美人システムエンジニアの幽霊だあーっ！！」%K%P
-Sora's the ghost of a beautiful system engineer that died in the prime of her life with her dreams still%Nunfulfilled!
+Sora's the ghost of a beautiful system engineer that died in the prime of her life with her dreams still unfulfilled!
 CN PLACEHOLDER
 Сора - это призрак красивого системного инженера, что умер в расцвете лет, так и не осуществив своих жизненных мечтаний и надежд!
 
@@ -1329,7 +1329,7 @@ CN PLACEHOLDER
 Верно. Я создана с акцентом на любознательность и концентрацию.
 
 空「音声入力による『形態素解析』も、恐らく他に例を見ないレベルで高速かつ正確なものを持っていると思います……」%K%P
-Morphological analysis from my audio input very likely operates at a speed and level of precision without%Npeer.
+Morphological analysis from my audio input very likely operates at a speed and level of precision without peer.
 CN PLACEHOLDER
 Морфологический анализ с моего аудио входа происходит на скорости и уровне точности, практически не уступающем человеческому.
 
@@ -2439,7 +2439,7 @@ CN PLACEHOLDER
 Что в этом мире существует лишь одна 'Сора'.
 
 空「そういう設定にしておかないと、お客様の中には混乱なされる方もいらっしゃいますし」%K%P
-Without that kind of setting, visitors would get%Nconfused.
+Without that kind of setting, visitors would get confused.
 CN PLACEHOLDER
 Если не придерживаться этого правила, посетители могут растеряться.
 
@@ -2539,7 +2539,7 @@ CN PLACEHOLDER
 Я...
 
 空「誰かに『見』られることによって、初めて具現化することができるのです」%K%P
-I am only 'seen' when someone looks at%Nme.
+I am only 'seen' when someone looks at me.
 CN PLACEHOLDER
 Я 'видима' лишь когда кто-то смотрит на меня.
 
@@ -2549,7 +2549,7 @@ CN PLACEHOLDER
 Что?
 
 空「誰も私のことを見ていなければ、私は存在しないも同然、ということです」%K%P
-I mean that I cease to exist when no one is looking at%Nme.
+I mean that I cease to exist when no one is looking at me.
 CN PLACEHOLDER
 То есть, я перестаю существовать, когда никто на меня не смотрит.
 

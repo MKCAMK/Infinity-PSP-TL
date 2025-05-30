@@ -1363,7 +1363,7 @@ CN PLACEHOLDER
 Она целенаправленно прошла вперёд.
 
 １本の梯子……その脇には真っ赤な文字で『ａｕｓｇａｎｇ／非常口』と書かれ、矢印が上に向かって伸びている。%K%P
-A ladder... Next to it, the words 「Ausgang / Emergency%NExit」 were written in straight red letters with an arrow pointing upward.
+A ladder... Next to it, the words 「Ausgang / Emergency Exit」 were written in straight red letters with an arrow pointing upward.
 CN PLACEHOLDER
 Лестница...за ней красными буквами написано 'Аварийный выход' и стрелка, указывающая вверх.
 
@@ -2710,7 +2710,7 @@ CN PLACEHOLDER
 Я собираюсь задать тебе несколько вопросов...
 
 優「とにかく落ち着いて……体を楽ぅ〜にして、答えて欲しいの」%K%P
-So just calm down... I want you to relax and answer%Nthem.
+So just calm down... I want you to relax and answer them.
 CN PLACEHOLDER
 Так что успокойся...я хочу, чтобы ты расслабился и ответил на них.
 

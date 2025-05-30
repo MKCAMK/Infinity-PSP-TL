@@ -824,7 +824,7 @@ CN PLACEHOLDER
 Окружённый темнотой, я не смог разглядеть выражение её лица.
 
 武「んなこと言ったって、実際俺が扉を開かなかったら、今ごろふたりとも、卵の中で溺れ死んでたかもしれないんだぞ？」%K%P
-Yeah, but if I hadn't opened up that door, the chances are you and I would both be floating drowned in that%Negg.
+Yeah, but if I hadn't opened up that door, the chances are you and I would both be floating drowned in that egg.
 CN PLACEHOLDER
 Допустим, но если бы я не открыл дверь, мы имели все шансы плавать дохлыми в этом треклятом яйце.
 
@@ -1294,7 +1294,7 @@ CN PLACEHOLDER
 Этот генератор создан для работы при 6 атмосферах.
 
 つぐみ「でも、ＬｅＭＵ内の大気は今……１気圧」%K%P
-But right now, LeMU's air pressure is at one%Natmosphere.
+But right now, LeMU's air pressure is at one atmosphere.
 CN PLACEHOLDER
 Но сейчас давление воздуха в LeMU составляет 1 атмосферу.
 

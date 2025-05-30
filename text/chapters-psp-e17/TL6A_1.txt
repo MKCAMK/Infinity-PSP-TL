@@ -64,7 +64,7 @@ CN PLACEHOLDER
 Никогда не знаешь, когда остановиться.... Ооой, прости-прости, я не хотела тебя обидеть.
 
 優「いつでも前向きに考えてるから……すごいな、って思う」%K%P
-You always try to be positive... I just have to admire%Nthat.
+You always try to be positive... I just have to admire that.
 CN PLACEHOLDER
 Ты всегда ведёшь себя непосредственно...и мне кажется, это просто здорово.
 
@@ -1631,7 +1631,7 @@ CN PLACEHOLDER
 Упрямо надулась Ю.
 
 武「命がかかってるってのに、お前は何を言い出すんだよ……！」%K%P
-What are you talking about!? Your life's on the line%Nhere...!
+What are you talking about!? Your life's on the line here...!
 CN PLACEHOLDER
 Хватит дурачиться! Сейчас твоя жизнь висит на волоске...!
 
@@ -1686,7 +1686,7 @@ CN PLACEHOLDER
 К-Куда?! Куда по-твоему ты её суёшь!?
 
 優「違う！　そこじゃないって！　ああ乱暴にしないでっ！」%K%P
-You've got it all wrong! Not there! Aaaa, stop mangling%Nme!
+You've got it all wrong! Not there! Aaaa, stop mangling me!
 CN PLACEHOLDER
 Нет! Только не туда! Аааа, прекрати меня калечить!
 
@@ -2356,7 +2356,7 @@ CN PLACEHOLDER
 Если одна из секций будет затоплена, то соседние зоны последуют за ней, по принципу домино.
 
 管制官「いずれにしろ、重量のある破片が落下し、研究所上部にぶつかることが予想される」%K%P
-If that happens, we think there's a high possibility that heavy pieces could crash down on the research%Nfacility.
+If that happens, we think there's a high possibility that heavy pieces could crash down on the research facility.
 CN PLACEHOLDER
 Если это случится, мы считаем, что высока вероятность обрушения тяжёлых кусков партиций на лабораторию.
 
@@ -2396,7 +2396,7 @@ CN PLACEHOLDER
 Я несколько раз щёлкнул по кнопке 'Вызов', но ответа не последовало.
 
 武「くそっ、こっちからは回線を開けないのか……？」%K%P
-Damn it, we can't open up communications from this%Nside...
+Damn it, we can't open up communications from this side...
 CN PLACEHOLDER
 Чёрт, отсюда нельзя создать сеанс связи...
 
@@ -5161,7 +5161,7 @@ CN PLACEHOLDER
 Я отрезал его кусачками, поддел медную оплётку щипцами, заменил коннектор и заново соединил кабель.
 
 武「直してみたぞ。どうだ空、通信できそうか？」%K%P
-I think I fixed it. What do you think, Sora, will it go%Nthrough?
+I think I fixed it. What do you think, Sora, will it go through?
 CN PLACEHOLDER
 Кажись починил. Сора, как думаешь, сигнал пройдёт?
 
@@ -5356,7 +5356,7 @@ CN PLACEHOLDER
 Нет.
 
 武「ドリットシュトックの全通路の水密扉を開放してくれ」%K%P
-Open all the floodgates in Dritter Stock's%Npassageways.
+Open all the floodgates in Dritter Stock's passageways.
 CN PLACEHOLDER
 Открой все дренажные люки в проходах Дритте шток.
 
@@ -5381,7 +5381,7 @@ CN PLACEHOLDER
 Нет. Если я их открою, Дритте шток полностью затопит.
 
 空「ヒンメルの外は、すべて海水に満たされるんです」%K%P
-Everything outside of Himmel will be covered in%Nseawater.
+Everything outside of Himmel will be covered in seawater.
 CN PLACEHOLDER
 Всё, что вне ХИММЕЛ, окажется под водой.
 

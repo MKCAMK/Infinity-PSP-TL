@@ -479,7 +479,7 @@ CN PLACEHOLDER
 Сомневаясь, он наклонил голову.
 
 係員「ココちゃんは、ＬｅＭＵに来たのは何回目かな？」%K%P
-So, Coco-chan, how many times have you been to%NLeMU?
+So, Coco-chan, how many times have you been to LeMU?
 CN PLACEHOLDER
 Коко-тян, сколько раз ты была в LeMU?
 
@@ -704,12 +704,12 @@ CN PLACEHOLDER
 Сверху вниз они называются Инсель нуль, Эрсте боден, Цвайте шток и Дритте шток...
 
 係員「一般的に言われるグランドフロア〜地下３階までのことだとお考えいただいて結構です」%K%P
-In terms of a normal building, you might think of it as a structure with a ground floor extending down to a%Nthree-story basement.
+In terms of a normal building, you might think of it as a structure with a ground floor extending down to a three-story basement.
 CN PLACEHOLDER
 В сравнении с обычным зданием, его можно описать как структуру с одним наземным и тремя подземными этажами.
 
 係員「インゼル・ヌルとは、ここ……浮島のことです」%K%P
-Insel Null, where we are at the moment, is a floating%Nisland.
+Insel Null, where we are at the moment, is a floating island.
 CN PLACEHOLDER
 Инсель нуль, в самом верху, это плавучий остров.
 
@@ -999,7 +999,7 @@ CN PLACEHOLDER
 Обеспечение безопасности LeMU для его посетителей.
 
 係員「皆さんは、これから海の中へと潜って行くわけですが……」%K%P
-All of you are going to be far under the sea very%Nsoon...
+All of you are going to be far under the sea very soon...
 CN PLACEHOLDER
 Итак, раз уж мы все окажемся в океанских глубинах...
 
@@ -1274,7 +1274,7 @@ CN PLACEHOLDER
 Пройдусь-ка к лифту и осмотрюсь тут немного.
 
 ココ「さっきの係のひとに相談してみたら？」%K%P
-How about checking with that lady who was just%Ntalking?
+How about checking with that lady who was just talking?
 CN PLACEHOLDER
 А может спросишь у той девушки, что недавно вела рассказ?
 

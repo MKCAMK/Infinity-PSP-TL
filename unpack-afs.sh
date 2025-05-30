@@ -33,7 +33,7 @@ cp $RES_DIR/init.bin $WORK_DIR/init.bin
 
 [ "$GAME" = "e17" ] && [ -d "e17_x360_BGM" ] && cp $RES_DIR/se.afs $WORK_DIR/se.afs
 [ -d "assets/bg-${GAME}-${TL_SUFFIX}" ] && cp $RES_DIR/bg.afs $WORK_DIR/bg.afs
-[ -d "assets/ev-${GAME}-${TL_SUFFIX}" ]&& cp $RES_DIR/ev.afs $WORK_DIR/ev.afs
+[ -d "assets/ev-${GAME}-${TL_SUFFIX}" ] && cp $RES_DIR/ev.afs $WORK_DIR/ev.afs
 
 PKG=mac
 rm -rf ${GAME}_$PKG/
@@ -63,7 +63,6 @@ done
 for i in assets/etc-${GAME}-${TL_SUFFIX}/*/ ; do
 	[ -d "$i" ] || continue
 	f=${i%%/}; f=${f##*/}
-	echo "Unpacking $f"
 	if [ ! -d "${GAME}_etc/TEX" ] && ([ "$f" = "INFO" ] || [ "$f" = "TEXT" ] ||
 		[ "$f" = "GAME" ] || [ "$f" = "OPTION" ] || [ "$f" = "TIPS" ] || [ "$f" = "SSE" ])
 	then

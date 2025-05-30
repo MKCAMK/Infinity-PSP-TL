@@ -749,7 +749,7 @@ CN PLACEHOLDER
 Гхххх...
 
 武「なぁ、あんたは下の研究所のスタッフなのか？」%K%P
-Hey, are you one of the staff from the research%Nfacility?
+Hey, are you one of the staff from the research facility?
 CN PLACEHOLDER
 Эй, Вы один из учёных, что заведовали лабораторией?
 

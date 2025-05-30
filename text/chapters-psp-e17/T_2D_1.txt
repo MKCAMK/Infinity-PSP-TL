@@ -294,7 +294,7 @@ CN PLACEHOLDER
 Некоторые люди хотят отдохнуть...
 
 武「だからって、勝手に明かり消すなよ」%K%P
-Well, that doesn't mean you just go turning off the%Nlights!
+Well, that doesn't mean you just go turning off the lights!
 CN PLACEHOLDER
 Тогда, какого хрена ты пошла и выключила свет?!
 
@@ -569,7 +569,7 @@ CN PLACEHOLDER
 Ой, извини...
 
 ココ「で、鬼の人は空き缶を部屋のどこかに置いて……」%K%P
-The person that's 'it' puts a can somewhere in the%Nroom...
+The person that's 'it' puts a can somewhere in the room...
 CN PLACEHOLDER
 Водящий ставит где-нибудь в комнате банку...
 

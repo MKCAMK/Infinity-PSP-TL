@@ -5,7 +5,7 @@ import r11.names
 from r11 import handle_control_sequence
 
 control_sequences = [
-    "K", "N", "O", "P", "V", "p", "n", "TS", "TE", 
+    "K", "N", "O", "P", "V", "p", "n", "TS", "TE",
     "FS", "LL", "LC", "LR", "FE", "XS", "XE", "W", "X"
 ]
 dont_break_after = set("\"('「[")
@@ -13,7 +13,7 @@ dont_break_before = set(
     "1234567890"
     "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
     "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя"
-    ",.!?\"'」]-:―)〜♪"
+    ",.!?\"'」]-:―)〜♪>"
 )
 max_width = 433
 
@@ -126,7 +126,7 @@ def handle_line_break(line, widths):
 def main():
     game = sys.argv[1] if len(sys.argv) > 1 else "e17"
     lang = sys.argv[2] if len(sys.argv) > 2 else "en"
-    scn_path = sys.argv[3] if len(sys.argv) >  3 else ""
+    scn_path = sys.argv[3] if len(sys.argv) > 3 else ""
 
     widths = load_font_table(lang)
     write_widths_file(lang, widths)

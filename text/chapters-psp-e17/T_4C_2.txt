@@ -854,7 +854,7 @@ CN PLACEHOLDER
 По трубе?
 
 つぐみ「電気ケーブルが収容されてるパイプとか、細い通気孔とか」%K%P
-The pipes with the electric cables or the power%Nsockets.
+The pipes with the electric cables or the power sockets.
 CN PLACEHOLDER
 По трубе с электропроводкой, или через сетевые разьёмы.
 
@@ -1099,7 +1099,7 @@ CN PLACEHOLDER
 Всё будет хорошо.
 
 武「潜水で、２５ｍプールを１往復したことならある、一応」%K%P
-Actually, I swam down and back in a 25-meter pool%Nonce.
+Actually, I swam down and back in a 25-meter pool once.
 CN PLACEHOLDER
 Я плавал в бассейне, под водой, 25 метров, туда и обратно, разок...
 
