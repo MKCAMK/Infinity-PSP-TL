@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
     size_t sret;
 
     if (argc != 3) {
-        printf("usage: decompressbip in.bip out/\n");
+        printf("usage: decompressbip in.bip out\n");
         return 0;
     }
 

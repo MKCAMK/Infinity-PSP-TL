@@ -437,7 +437,7 @@ Do you want to overwrite?%%N%%SYes%%n  /  %%n%%SNo
 Do you want to load this data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;1210e8;111;クイックセーブを初期化しますか？%%N（ロックされているデータは初期化されません）%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-Do you want to initialize Quick Save data?%%N(Locked data is uninitialized)%%N%%SYes%%n  /  %%n%%SNo
+Do you want to clear Quick Save data?%%N(Locked data will remain untouched)%%N%%SYes%%n  /  %%n%%SNo
 
 ;121158;11;セーブ完了
 Saved

@@ -29,9 +29,12 @@ struct sta {
 #pragma pack(push, 1)
 struct stb {
     char name[32];
-    int unk1; /* filetype ? */
-    int unk2;
-    int unk3;
+    unsigned short year;
+    unsigned short month;
+    unsigned short day;
+    unsigned short hour;
+    unsigned short minute;
+    unsigned short second;
     unsigned len;
 } /* __attribute__((packed)) */;
 #pragma pack(pop)
@@ -126,6 +129,7 @@ int main(int argc, char *argv[]) {
 
         stas[i].pos = pos;
         stas[i].len = len;
+        stbs[i].len = len;
 
         fseek(fout, pos, SEEK_SET);
         sret = fwrite(buffer, 1, len, fout);

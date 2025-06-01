@@ -125,67 +125,67 @@
 Сора улыбается искренне?%NВремени всё меньше. Такеши вместе с%NСорой пытаются выбраться.
 
 ;21C;100;圧潰の危険は知っている、%Nしかし考えるのはやめた……。%N『俺達がここにいる事』%Nただそれだけを思う。
-Такеши и Сора разделяют их последний%Nмомент, думая:%N"Мы всё ещё здесь".
+Такеши и Сора разделяют их последний%Nмомент. В их головах лишь одна мысль:%N"Мы всё ещё здесь".
 
 ;250;104;もはや退路を断たれ、%N全ての可能性は否定された。%N悪夢のような現実を、ただ%N緩やかに受け入れていく……。
-Все пути и возможности для спасения%Nкончились. Остаётся лишь принять%Nужасную реальность.
+Больше не осталось путей и возможностей%Nдля спасения. Остаётся лишь принять%Nужасную реальность.
 
 ;284;96;目覚めれば見知らぬ天井、%N誰かの介護を受ける少年。%N「ぼくは誰？」少年は、%N数多くの混乱を抱く。
-Looking up at an%Nunfamiliar ceiling, the Kid%Nreceives care from someone.%N「Who am I?」
+Кид видит незнакомый потолок.%NКто-то ухаживает за ним.%NА кто же он сам?
 
 ;2B8;102;武のせいで眠れない夜を%N優や沙羅と共に過ごす……。%N明けて朝、空は圧力隔壁の%N限界予測を淡々と告げる。
-A sleepless night, thanks to%NTakeshi. The Kid opens up to   %NYou and Sara. Sora predicts  %Nthe limits of LeMU's partitions.
+Бессонная ночь из-за Такеши.%NКид открывается Ю и Саре.%NСора рассчитывает предел прочности%NLeMU.
 
 ;2EC;92;続く奇妙な日常。沙羅や%N優の楽しい思い出話……。%Nそんな中、空は倉庫浸水を%N報告するが……？
-Another strange day. Sara and%NYou discuss fond memories.%NSora reports that there is%Nflooding, but...
+Очередной странный день.%NСара и Ю вспоминают былое.%NСора сообщает о затоплении, но...
 
 ;320;98;第３視点ゆかりの地、%Nレムリア遺跡で少年は、%N優を助けると約束する。%N沙羅と優はレミへ再挑戦する。
-Discussing Lemuria and the%NThird Perspective, the Kid%Npromises to save You. You  %Ntries to access LeMMIH again.
+Кид обещает спасти Ю после разговора%Nо Лемурии и Третьем измерении.%NЮ снова пытается взломать ЛеММИХ.
 
 ;354;102;再びのレムリア遺跡。%N優と少年は、昨日得た情報から%N真実を導き出そうとする。%Nしかし結論は出ない……。
-Back at the Lemurian Ruins,%NYou and the Kid try to derive%Nthe truth from clues discovered%Nyesterday, but to no avail.
+Вернувшись в Лемурийские развалины,%NЮ и Кид пытаются раскрыть правду%Nс помощью улик, что нашли вчера,%Nно безуспешно.
 
 ;388;104;青に蝕まれる夢を見た少年。%N優は、「この瞬間だけを%N大切にしたい」と言うが……。%N第３の眼はどこにある？
-The Kid dreams he is devoured%Nby blue. You says she just%Nwants to live in the present...   %NWhere is the third eye?
+Киду снится, как его поглощает синева.   %NЮ заявляет, что просто хочет жить  %Nнастоящим. Где может быть третий глаз?
 
 ;3BC;94;「生きることは知ること、%Nそして失うこと」%N……少年の心は、知性は、%N優を救うべく動き始める。
-「To live is to learn, and%Nto lose」... The Kid's heart%Nand mind race to save You.
+"Жить - значит учиться и проигрывать"...%NСердце и мысли Кида устремлены%Nк спасению Ю.
 
 ;3F0;90;行くべき場所はたったひとつ。%N少年は優を背負い、%Nその場所へと向かう。%Nヒンメル、天国へ。
-There is only one place%Nto go. The Kid picks up You%Nand heads there. To Himmel,%Nto Heaven.
+Осталось лишь одно место.%NКид хватает Ю и ведёт её туда.%NВ ХИММЕЛ, в рай.
 
 ;424;96;沙羅のペンダントに隠された%Nホログラムの男性……%N何かが結びつきそうで、%Nしかしまだわからない。
-Sara's pendant: the hologram of%Na man... It seems connected%Nto the Kid somehow, but just   %Nhow is still unclear.
+Кулон Сары содержит голограмму    %Nмужчины. Похоже, он как-то связан с    %NКидом, но пока неясно, каким образом.
 
 ;458;96;時折脳裏に響く謎の声に%N戸惑いながらも%N少年は沙羅に泳ぎを教える。%Nこの声は幻想か、記憶なのか？
-The Kid teaches Sara how%Nto swim while a mysterious voice%Nsounds in his mind. Is it   %Nan illusion, or a memory?
+Кид учит Сару плавать.  %NВ это время таинственный голос  %Nговорит у него в голове. %NЭто галлюцинация или воспоминание?
 
 ;48C;116;不意に聞こえた、懐かしい歌。%N少年の指先に眠っていたのは、%Nあのペンダントの欠片だった。%Nそれが指し示す事実は……。
-A nostalgic song. Buried%Nwithin the Kid's finger%Nis a fragment of the pendant...%Nrevealing the truth...
+Такая знакомая песня...%NВ пальце Кида оказался осколок кулона.%NОн раскрывает правду...
 
 ;4C0;102;兄と妹、繋がれた記憶と絆。%N少年と沙羅は沈み行く中、%N真の自由を目指して、%Nふたりは海中へと躍り出る。
-Brother and sister, connected%Nby memories and bonds.%NHeading for true freedom, the  %Ntwo plunge into the ocean.
+Связь между братом и сестрой%Nв их воспоминаниях и узах.%NЧтобы обрести истинную свободу, %Nони погружаются в океан.
 
 ;4F4;100;待って、待ち続けて、%Nしかし今はもう遅すぎた……。%N少年と沙羅は沈み行く%NＬｅＭＵと共に闇に溶ける。
-They waited, hoping, but it%Nwas too late... The  %NKid and Sara share their final   %Nwords in the sinking LeMU.
+Сара и Кид надеятся, ждут, но уже%Nслишком поздно.%NОни напоследок обмениваются словами %Nперед затоплением LeMU.
 
 ;528;110;「ココは減圧症なのか？」%N……何故疑念を抱いたのか%N判らないまま、夜は明けた。%N「目を閉じても、月はあるか？」
-Takeshi wonders... 「Does Coco%Nreally have decompression sick-%Nness?」 When you close your   %Neyes, is the moon still there?
+Такеши беспокоит мысль:%N"А точно ли у Коко кесонная болезнь?"%NЕсли закрыть глаза, луна всё ещё будет %Nна месте?
 
 ;55C;110;どうしてぼくは彼女の名前を%N知っているのか？　何故空が%NＲＳＤだとわかったのか？%N謎の記憶は少年を混乱させる。
-How do I know her name? How%Ndo I know that Sora is RSD...%NThe Kid's memories are thrown%Ninto dissaray.
+Откуда я знаю её имя?%NОткуда я знаю, что Сора - проекция RSD?%NВ воспоминаниях Кида беспорядок.
 
 ;590;102;違和感を覚えつつも%N迎えたＬｅＭＵでの３日目。%N倉庫の浸水は現実に起こった。%N現実は――鏡の中に……。
-An uncomfortable feeling%Nwelcomes the morning.%NThe storage room starts to flood.%NThe truth is within the mirror...
+Утро начинается с неприятного чувства.%NСклад начинает топить.%NИстина - в зеркальце...
 
 ;5C4;108;パパは太陽星人だ、と沙羅。%Nココは子守歌を武に歌って%N聞かせた……。知りたいものは、%Nボクの本当の名前……。
-Sara says her father was from%Nthe Sun. Coco sings a nursery%Nrhyme... What they seek is%N「my」 true name...
+Сара говорит, что её отец с солнца.%NКоко напевает детский стишок.%NЯ хочу знать своё настоящее имя...
 
 ;5F8;104;“海月の虚空に秋凉し時鳥”%N“月と海の子守歌”%N……歌に篭められたものは、%Nその子供の出生の秘密だった。
-Two clues appear: a haiku and%Na lullaby. Contained in%Nthem is the secret of%Nthe child's birth.
+Две зацепки: хайку и колыбельная.%NВ них заключена тайна рождения ребёнка.
 
 ;62C;102;『キミハ……ダレ？』%N『ボクハ……ダレ？』%Nぼくは、本当はぼくではない。%Nブリックヴィンケルとは何か？
-「Who are... you?」%N「Who am...I?」%NI'm not who I think I am.%NWhat is Blick Winkel?
+"Кто... ты?"%N"Кто... я?%NЯ не тот, кем себя считаю...%NКто такой Блик Винкель?
 
 ;660;110;何が起こったのか知っている。%Nだが何故こんな事をしたのか、%N訊かなくてはならない。%N交わした約束を果たす為に。
-I already know what happened.%NBut why did I do these%Nthings? It was to keep a%Npromise I made.
+Я уже знаю, что произойдёт.%NНо почему я это сделал?%NЧтобы сдержать данное обещание?
