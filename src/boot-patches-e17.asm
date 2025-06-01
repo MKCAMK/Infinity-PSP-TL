@@ -3,6 +3,19 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Subroutine 0x08805680 -- sets default game settings
+; Decrease default text delay from 30 to 10
+.org 0x088056B0
+.area 4
+	li v1, 10
+.endarea
+; Disable voice sync by default
+.org 0x0880574C
+.area 4
+	; a2 initialized at 0x08805694
+	sb a2, 0x44E3(v0)
+.endarea
+
 ; Swap Circle and Cross buttons
 ; PSP_CTRL_CROSS = 0x004000, PSP_CTRL_CIRCLE = 0x002000
 .org 0x08872d34

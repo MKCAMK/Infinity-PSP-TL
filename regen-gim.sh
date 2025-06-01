@@ -1,5 +1,17 @@
 #!/bin/sh
 
+if command -v "git" >/dev/null 2>&1 && [ "$REGEN_ALL" != true ]; then
+	check_replace() {
+		git ls-files --error-unmatch "$1" >/dev/null 2>&1 || return 0
+		git diff --exit-code "$1" >/dev/null 2>&1 || return 0
+		return 1
+	}
+else
+	check_replace() {
+		return 0
+	}
+fi
+
 if  [ -z "$GIMCONV" ]; then
 	if [ -e "./tools/GimConv/GimConv.exe" ] &&
 		command -v "wine" >/dev/null 2>&1
@@ -16,14 +28,14 @@ fi
 
 for i in assets/bg-*-*/*.PNG assets/ev-*-*/*.PNG; do
 	[ -e "$i" ] || continue
-	$GIMCONV "$i" -s 120,90 -o "$(basename "$i" .PNG).GIM" || exit 1
+	check_replace "$i" && (python ./py-src/thumbhelper.py "$i" || exit 1)
 done
-for i in assets/etc-*-*/*/*.PNG; do
+for i in assets/etc-*-*/*/*.PNG assets/etc-*-*/*.PNG; do
 	[ -e "$i" ] || continue
-	$GIMCONV "$i" -o "$(basename "$i" .PNG).GIM" || exit 1
+	check_replace "$i" && ($GIMCONV "$i" -o "$(basename "$i" .PNG).GIM" || exit 1)
 done
 
 for i in assets/nowloading/*.png; do
 	[ -e "$i" ] || continue
-	$GIMCONV "$i" -N -nfi -o "$(basename "$i" .png).gim" || exit 1
+	check_replace "$i" && ($GIMCONV "$i" -N -o "$(basename "$i" .png).gim" || exit 1)
 done

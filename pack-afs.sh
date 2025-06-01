@@ -206,9 +206,9 @@ patch_boot_bin () {
 	echo "Applying translation to BOOT"
 	$PY ./py-src/apply_boot_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/BOOT.utf8.txt $WORKDIR/BOOT.BIN $WORKDIR/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX} || exit 1
 
-	if [ -e "assets/nowloading/nowloading-${TL_SUFFIX}.gim" ] && [ -n "${NOWLOADING_OFF}" ]; then
+	if [ -e "assets/nowloading/${TL_SUFFIX}.gim" ] && [ -n "${NOWLOADING_OFF}" ]; then
 		echo "Applying nowloading image patch"
-		dd oflag=seek_bytes conv=notrunc seek=${NOWLOADING_OFF} if=assets/nowloading/nowloading-${TL_SUFFIX}.gim of=$WORKDIR/BOOT.BIN.${TL_SUFFIX}
+		dd oflag=seek_bytes conv=notrunc seek=${NOWLOADING_OFF} if=assets/nowloading/${TL_SUFFIX}.gim of=$WORKDIR/BOOT.BIN.${TL_SUFFIX}
 	fi
 
 	export OLD_CTYPE="$LC_CTYPE"
@@ -259,6 +259,7 @@ repack_bg_afs () {
 	mkdir -p ${GAME}_bg_${TL_SUFFIX}
 	for i in assets/bg-${GAME}-${TL_SUFFIX}/*.PNG ; do
 		[ ! -f $i ] && break
+		echo "Converting $i"
 		$PY ./py-src/to_r11.py $i assets/bg-${GAME}-${TL_SUFFIX}/$(basename $i .PNG).R11 || exit 1
 	done
 	for i in assets/bg-${GAME}-${TL_SUFFIX}/*.R11 ; do
@@ -278,6 +279,7 @@ repack_ev_afs () {
 	mkdir -p ${GAME}_ev_${TL_SUFFIX}
 	for i in assets/ev-${GAME}-${TL_SUFFIX}/*.PNG ; do
 		[ ! -f $i ] && break
+		echo "Converting $i"
 		$PY ./py-src/to_r11.py $i assets/ev-${GAME}-${TL_SUFFIX}/$(basename $i .PNG).R11 || exit 1
 	done
 	for i in assets/ev-${GAME}-${TL_SUFFIX}/*.R11 ; do
