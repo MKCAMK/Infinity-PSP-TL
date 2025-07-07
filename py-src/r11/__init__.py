@@ -96,22 +96,25 @@ def clean_cn_translation_line(line: str) -> str:
 
 def clean_en_translation_line(line: str) -> str:
   line = clean_translation_enc_issues(line)
-  line = re.sub(r"%(?![A-Za-z])", "\uff05", line) # replacing % metachar, with a lookalike char
+  # line = re.sub(r"%(?![A-Za-z])", "\uff05", line) # replacing % metachar, with a lookalike char
   # double spaces were fixed manually where appropriate, use text search to find remaining cases
   # line = re.sub(r"(?<!\b\S \S)  +", " ", line) # collapse multiple spaces unless there are also extra spaces within the neighboring words
   # line = line.replace("\u014d", "o") # ō no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
   line = line.replace("na\u00efve", "naive") # "naïve": no umlaut for i
   # line = re.sub("\u2473", "\u2473") # ⑳ ('CIRCLED NUMBER TWENTY' (U+2473)). No need to replace, rendered as a wide space. (glyph #1147)
   # spaces are too thin on pc; Not the case for psp.
-
+  line = line.replace("<i>", "%CAAAF")
+  line = line.replace("</i>", "%CFFFF")
   return line
 
 def clean_en_translation_line_r11(line: str) -> str:
   line = line.replace("\u2015\u2015", "\u2015") # double em dash '——' -> single em dash '—'
-  line = line.replace("''I''", "%CFF8FI%CFFFF") # colored text (yellow) to signify "ore", as deviated from Kokoro's normal "watashi".
-  line = line.replace("'I'", "%C8CFFI%CFFFF") # colored text (blue) to signify "watashi", as deviated from Satoru's normal "ore".
-  if "''" in line:
-    exit("unmatched ''")
+  line = line.replace("'''I'''", "%CFFF0I%CFFFF") # ワタシ (watashi)
+  line = line.replace("'''me'''", "%CFFF0me%CFFFF") # ワタシ (watashi)
+  line = line.replace("''I''", "%CFFCFI%CFFFF") # ENOMOTO's "私" (watashi)
+  line = line.replace("''me''", "%CFFCFme%CFFFF") # ENOMOTO's "私" (watashi)
+  line = line.replace("'I'", "%C88FFI%CFFFF") # YUKIDOH's "俺" (ore)
+  line = line.replace("'me'", "%C88FFme%CFFFF") # YUKIDOH's "俺" (ore)
   return line
 
 def println_sjis(line: str):

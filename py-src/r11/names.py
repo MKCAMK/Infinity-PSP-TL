@@ -13,11 +13,11 @@ names_dict_generic = {
   "みんな": TlNames("Everyone", "所有人", "Все"),
   "男": TlNames("Man", "男", "Мужчина"),
   "女": TlNames("Woman", "女", "Девушка"),
+  "少年": TlNames("Boy", "男孩", "Мальчик"),
+  "少女": TlNames("Girl", "女孩", "Девочка")
 }
 game_names_dicts = {
   "r11": {
-    "少年": TlNames("Boy", "男孩", "Мальчик"),
-    "少女": TlNames("Girl", "女孩", "Девочка"),
     "こころ": TlNames("Kokoro", "心", "Кокоро"),
     "悟": TlNames("Satoru", "悟", "Сатору"),
     "黛": TlNames("Mayuzumi", "黛", "Маюдзуми"),
@@ -32,7 +32,7 @@ game_names_dicts = {
     "ユウキドウ": TlNames("Yukidoh", "优希堂", "Юкидо"),
     # These occur in init.bin only, but pasting them here, for reference
     "山岳救助隊員": TlNames("Mountain rescue worker", ";unused", ";unused"),
-    "沙也香": TlNames("Sayaka", ";unused", ";unused"),
+    "沙也香": TlNames("Sayaka", ";unused", ";unused")
   },
   "e17": {
     "武": TlNames("Takeshi", None, "Такеши"),
@@ -69,11 +69,9 @@ game_names_dicts = {
     "男の人": TlNames("Man", None, "Парень"),
     "女の人": TlNames("Woman", None, "Девушка"),
     "医師": TlNames("Doctor", None, "Врач"),
-    "松永": TlNames("Matsunaga", None, "Сара"),
+    "松永": TlNames("Matsunaga", None, "Сара")
   },
   "n7": {
-    "少年": TlNames("Boy", "男孩", "Мальчик"),
-    "少女": TlNames("Girl", "女孩", "Девочка"),
     "誠": TlNames("Makoto", None, None),
     "優夏": TlNames("Yuka", None, None),
     "億彦": TlNames("Okuhiko", None, None),

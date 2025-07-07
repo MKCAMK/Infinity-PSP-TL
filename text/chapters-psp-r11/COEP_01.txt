@@ -1,11 +1,10 @@
-
-『……７月２０日、天気、晴れ』%K%P
-July 20th, Weather: Sunny.
+﻿『……７月２０日、天気、晴れ』%K%P
+...July 20th, Weather: Sunny.
 “７月２０日　天气　晴”
 RU PLACEHOLDER
 
 『眩しい陽光が、風鈴の音が、子ども達のはしゃぎ声が、夏を彩っている』%K%P
-The dazzling sunlight, the sound of the wind chimes, the noises of children playing: they all helped to brighten up the summer.
+The dazzling sunlight, the sound of the wind chimes, the noises of children playing; they all brighten up the summer.
 “炫目的阳光，风铃的清音，孩子们的嬉戏声，点缀着夏日。”
 RU PLACEHOLDER
 
@@ -30,17 +29,17 @@ And stranded for a week inside the shelter cabin.
 RU PLACEHOLDER
 
 『そのことを、いまも私の足に小さく残る、凍傷の痕が物語っている』%K%P
-The small wound from the frostbite which still remained told the truth loud and clear.
+The frostbite scars remaining on my feet tell the truth loud and clear.
 “我脚上所残留着的细小冻伤，到现在仍然向我述说着这个事实”
 RU PLACEHOLDER
 
 『そして、私は人格交換も体験した』%K%P
-And then, I had also experienced personality exchanges.
+And I also experienced personality exchanges.
 “而且，我还体验了人格交换”
 RU PLACEHOLDER
 
 『私は、スフィアにも同時に存在したのだ』%K%P
-As a result, I was also in SPHIA at the same time.
+I was present in SPHIA at the same time.
 “我同时也存在于ＳＰＨＩＡ”
 RU PLACEHOLDER
 
@@ -85,7 +84,7 @@ I have a newspaper article with me here.
 RU PLACEHOLDER
 
 『あの避難小屋にあった記事と同じものだ』%K%P
-It's the same as the one in the cabin.
+It's the same article that was in the cabin.
 “和在避难小屋的发现报道一样”
 RU PLACEHOLDER
 
@@ -100,7 +99,7 @@ The Aomori prefectural police announced the recent discovery of the remains of t
 RU PLACEHOLDER
 
 『青森県警は新たに男女３人の遺体を収容したことを発表した。』%K%P
-believed to be victims of the crash of Flight HAL18, which claimed 27 lives this January.
+believed to be victims of the crash of Flight HAL18, which claimed 27 lives last January.
 “对外发表声明，又有三名男女的遗体被收容。”
 RU PLACEHOLDER
 
@@ -110,37 +109,37 @@ As they had undergone extensive decomposition over a period of six months, the i
 RU PLACEHOLDER
 
 『ＨＡＬ１８便に乗っていた乗員・乗客のうち、いまだ発見されていなかった残る３人にほぼ間違いないとしている。』%K%P
-but they are assumed to be the last three undiscovered among the missing passengers and crew members on HAL18.
+but they are assumed to be the last three unaccounted for among the missing passengers and crew members on HAL18.
 “其为ＨＡＬ１８次航班乘客、乘务员中失踪的三人。”
 RU PLACEHOLDER
 
 『遺体はいずれも、朱倉岳避難小屋から東へ１ｋｍ離れた場所で見つかっており、』%K%P
-The bodies were discovered 1km east of the Mount Akakura shelter cabin.
+The bodies were discovered one kilometer east of the Mount Akakura shelter cabin.
 “遗体均在距离朱仓岳避难小屋东方１公里处被发现。”
 RU PLACEHOLDER
 
 『遺体には雪崩に巻き込まれた際に受ける裂傷も多数確認されていることから、３人は墜落直後は生存していたものと考えられる。』%K%P
-It has been confirmed that the three bodies, which sustained a large number of lacerations in an avalanche days after the crash, are those of the survivors.
+It has been confirmed that the three bodies sustained many lacerations in an avalanche, and it is probable that they survived for some time after the crash.
 “遗体上发现多处雪崩造成的裂伤，可以推断三人在坠机之后仍然生存。”
 RU PLACEHOLDER
 
 『しかし、発見場所は下山ルートからは離れているため、遭難者の死亡当日の足取りについて、青森県警では調査を進めている。』%K%P
-However, due to the bodies of the victims being discovered far down the mountain, the Aomori prefectural police investigation into the day of their death will continue.
+However, due to the location being far away from the route down the mountain, the Aomori police investigation into their movements on the day of their death will continue.
 “但是，遗体被发现的地点却偏离了下山路线，青森县警方正对遇难者死亡当天的行动路线展开调查。”
 RU PLACEHOLDER
 
 『青森気象観測所によると、』%K%P
-According to the Aomori meteorological station,
+According to the Aomori Meteorological Observatory,
 “据青森气象站报告”
 RU PLACEHOLDER
 
 『この時期に朱倉岳の該当箇所周辺で発生した雪崩は、２０１１年１月１７日午前６時５３分であることがわかっている。』%K%P
-an avalanche affecting Mount Akakura and its surrounding area occurred on January 17, 2011, at around 6:53.
+an avalanche affecting this area of Mount Akakura occurred on January 17th, 2011, at around 6:53 AM.
 “当时该地点周边的雪崩，发生在２０１１年１月１７日清晨６时５３分。”
 RU PLACEHOLDER
 
 『朱倉岳避難小屋に残されていた痕跡とも照らし合わせると、３人はおよそ７日間を生き延びたことになる。』%K%P
-After analyzing the traces left at the Mount Akakura shelter cabin, it was concluded that the people survived for seven days after the crash.
+After analyzing the traces left at the Mount Akakura shelter cabin, it was concluded that those who had used it survived for seven days after the crash.
 “参照朱仓岳避难小屋里留下的痕迹，可以得到三人在坠机后大约生存了七天的结论。”
 RU PLACEHOLDER
 
@@ -150,7 +149,7 @@ The only survivor, Kusuda Yuni-kun (11), was miraculously rescued.
 RU PLACEHOLDER
 
 『ゆにくんの精神状態は、半年を過ぎたいまも安定せず、かたくなに口を閉ざしている。』%K%P
-Yuni-kun's mental state has not yet stabilized, even after half a year. He has yet to speak a single word since.
+Yuni-kun's mental state has not yet stabilized, even after half a year. He has stubbornly remained silent.
 “即使是事故已经过去了半年的现在，悠尼的精神状态仍然不安定，一语不发。”
 RU PLACEHOLDER
 
@@ -190,12 +189,12 @@ It should be mentioned that, ironically, the rescue team arrived just seven hour
 RU PLACEHOLDER
 
 『Я　чайка』%K%P
-Я　чайка
+Я　чайка.
 “Я　чайка”
 RU PLACEHOLDER
 
 『『私はカモメ』』%K%P
-"I'm a seagull."
+「I'm a seagull.」
 “我是海鸥”
 RU PLACEHOLDER
 
@@ -205,7 +204,7 @@ Using Tereshkova's words, that was how I had described myself.
 RU PLACEHOLDER
 
 『『私は籠女』と』%K%P
-And... "I'm a girl trapped in a cage."
+And... 「I'm a girl trapped in a cage.」
 “我是笼中鸟”
 RU PLACEHOLDER
 
@@ -220,41 +219,50 @@ I was, indeed, a girl trapped in a cage...
 RU PLACEHOLDER
 
 %N%N%N%N%N
+
 %FS%LC『うしろのしょーめん、だぁーれ？』%FE
 Who's that behi――ind you?
 “背后的人，是谁？”
 RU PLACEHOLDER
 
 %O
+
 %N%N%N%N
+
 %CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N
 This story has not finished yet.
 This⑳story⑳has⑳not⑳finished⑳yet.
 RUPLACEHOLDER
+
 %C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N
 This story has not finished yet.
 This⑳story⑳has⑳not⑳finished⑳yet.
 RUPLACEHOLDER
+
 %FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N
 This story has not finished yet.
 This⑳story⑳has⑳not⑳finished⑳yet.
 RUPLACEHOLDER
+
 %FS%LCTruth⑳is⑳not⑳revealed.%FE%N
 Truth is not revealed.
 Truth⑳is⑳not⑳revealed.
 RU PLACEHOLDER
+
 %FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N
 And it circulates through an incident.
 And⑳it⑳circulates⑳through⑳an⑳incident.
 RU PLACEHOLDER
+
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
 ――It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 RU PLACEHOLDER
+
 %O
 
 ロック解除――第２章：サトル編、始動．．．
-Unlocked――Chapter 2 - Satoru Chapter, Now Starting....
+Unlocked――Chapter 2 - Satoru Chapter, Now Starting...
 解除锁定——第二章：悟篇——开启
 RU PLACEHOLDER
 

@@ -1,5 +1,4 @@
-
-こころ「それって……前に聞いた時、壊れてたヤツ？」%K%P
+﻿こころ「それって……前に聞いた時、壊れてたヤツ？」%K%P
 Didn't you say... that the radio was broken?
 心「那个……上次听的时候不是坏了吗？」
 RU PLACEHOLDER
@@ -10,7 +9,7 @@ It had just gotten wet before.
 RU PLACEHOLDER
 
 ゆに「ラジオの裏の蓋開けて、乾かしたから……ひょっとしたら聞けるかも」%K%P
-I opened the cover and let it dry out... maybe we can listen to it now.
+I opened the cover and let it dry out... Maybe we can listen to it now.
 悠尼「后来我把盖子打开晾干了……说不定现在可以听了」
 RU PLACEHOLDER
 
@@ -25,12 +24,12 @@ Oh, don't you know, Kokoron?
 RU PLACEHOLDER
 
 ゆに「電化製品を水洗いして修理するって言う方法もあるんだよ」%K%P
-There's a way of fixing electronic appliances after they get wet.
+There's a way of fixing electrical appliances by washing them with only water.
 悠尼「电子产品是可以水洗过后修理的」
 RU PLACEHOLDER
 
 ゆにはラジオのつまみをいじりながら、%K%P
-While fiddling with the radio's dial, Yuni said,
+Yuni fiddles with the radio's dial while he talks.
 悠尼摆弄着手中的收音机，
 RU PLACEHOLDER
 
@@ -40,7 +39,7 @@ If you dry them properly, as long as there are no short circuits, they'll be fin
 RU PLACEHOLDER
 
 スピーカーから、ザザッとノイズが聞こえてきた。%K%P
-The speaker picked up some static.
+The speaker picks up some static.
 喇叭里传出沙沙的噪音。
 RU PLACEHOLDER
 
@@ -50,7 +49,7 @@ See?
 RU PLACEHOLDER
 
 ゆには、チューニングをいじっていたが……%K%P
-Yuni tried to tune it, but...
+Yuni tries to tune it, but...
 悠尼调着收音机的旋钮……
 RU PLACEHOLDER
 
@@ -69,13 +68,13 @@ As I thought, because it got wet...
 心「果然是因为湿了的缘故吧……」
 RU PLACEHOLDER
 
-ゆに「う～ん。そうなのかな？」%K%P
-Uh～m. Is that it?
+ゆに「う〜ん。そうなのかな？」%K%P
+Uh〜m. Is that it?
 悠尼「嗯～。不会吧？」
 RU PLACEHOLDER
 
 ゆにはラジオの上部についている赤いランプを指さした。%K%P
-Yuni pointed at a red light near the upper part of the radio.
+Yuni points to the red light on top of the radio.
 悠尼指着收音机上部的红灯。
 RU PLACEHOLDER
 
@@ -95,17 +94,17 @@ A diode and a light bulb are two different things. A diode doesn't break like a 
 RU PLACEHOLDER
 
 ゆに「これが消えてるってことは、内部の線のどこか切れてるのかもしれない……」%K%P
-It might be a cut wire inside the diode that's the problem...
+The fact that it's out means the wire inside might be broken somewhere...
 悠尼「这里的灯不亮了，大概内部的线断了吧……」
 RU PLACEHOLDER
 
 それにしても、ゆにはよく平気でいられるなぁ、と私は思った。%K%P
-In any case, Yuni was quite calm and collected.
+In any case, Yuni is quite calm and collected.
 话说回来，悠尼还真够平静的呢。
 RU PLACEHOLDER
 
 私なんか、救助が来るか来ないか、心配で不安で、どうしようもないのに。%K%P
-Yet I could only feel hopeless, anxious, and insecure about whether help was on its way or not.
+Yet I can only feel hopeless, anxious, and insecure about whether help is on its way or not.
 我在想着救援会不会来的问题心里担心得要死。
 RU PLACEHOLDER
 
@@ -120,7 +119,7 @@ Yomogi hasn't said a word since that incident, either. I guess he has his own tr
 RU PLACEHOLDER
 
 ゆにはこんなにも強い子だったのか……。%K%P
-Is Yuni just pretending to be strong...?
+Just how strong is Yuni...?
 悠尼这孩子是这么地坚强啊……
 RU PLACEHOLDER
 
@@ -130,7 +129,7 @@ No, wait.
 RU PLACEHOLDER
 
 ラジオを聞こうとしているってことは、外の世界の状況を知ろうとしての行動かもしれない。%K%P
-As he tries to fix the radio, he's trying to listen in to news from the outside world.
+Trying to listen to the radio is an attempt to listen to news from the outside world.
 他想听收音机，说不定是为了知道外界的状况。
 RU PLACEHOLDER
 
@@ -145,17 +144,17 @@ Of course Yuni is uneasy as well.
 RU PLACEHOLDER
 
 そう結論づけ、私は納得した。%K%P
-I nodded my head in agreement with the conclusion that I had come to.
+I'm satisfied with that conclusion.
 我对自己的这个结论深信不疑。
 RU PLACEHOLDER
 
-ゆに「う～～～～～～～～ん」%K%P
-U～～～～～～～～mm...
+ゆに「う〜〜〜〜〜〜〜〜ん」%K%P
+U〜〜〜〜〜〜〜〜mm...
 悠尼「呜～～～～～～～～嗯」
 RU PLACEHOLDER
 
 ラジオをいじくりながら、なおも悩んでいるゆに。%K%P
-As he tampered with the radio, Yuni's frown grew deeper.
+As he tampers with the radio, Yuni's frown grows deeper.
 悠尼摆弄着收音机烦恼不已。
 RU PLACEHOLDER
 
@@ -165,22 +164,22 @@ Did it get hit by something before?
 RU PLACEHOLDER
 
 ラジオは妙に傷だらけだった。%K%P
-The radio was covered with weird scratches.
+The radio is covered with weird scratches.
 奇怪得很，收音机满身伤痕。
 RU PLACEHOLDER
 
 前面にはヒビも入っている。%K%P
-There was a crack in the front of it as well.
+There's a crack in the front of it as well.
 前面都有了裂缝。
 RU PLACEHOLDER
 
 こころ「…………あれ？」%K%P
-......Eh?
+......Huh?
 心「…………咦？」
 RU PLACEHOLDER
 
 私は、そのラジオの様子に見覚えがあった。%K%N
-I recognized that radio.
+I recognize that radio.
 我好像在哪看过这个收音机。
 RU PLACEHOLDER
 
@@ -197,7 +196,7 @@ That's right. The day before yesterday.
 RU PLACEHOLDER
 
 穂鳥との格闘になった時、私は手近にあったラジオを投げつけてしまったのだ。%K%N
-During my fight with Hotori, I had thrown the first thing that had come to hand, a radio, at her.
+During my fight with Hotori, I had thrown the first thing at hand, a radio, at her.
 和穗鸟打起来时，我把手边的收音机扔了出去。
 RU PLACEHOLDER
 
@@ -212,7 +211,7 @@ Is that when it was damaged...?
 RU PLACEHOLDER
 
 ……ちょっと待って。%K%N
-...Wait a moment.
+...Wait a minute.
 ……等一下。
 RU PLACEHOLDER
 
@@ -232,7 +231,7 @@ There's the charm, too.
 RU PLACEHOLDER
 
 スフィアで内海にもらったお守りを、避難小屋のゆにも持っていた。%K%N
-The charm he received from Utsumi in SPHIA... the Yuni of the shelter cabin had it as well.
+The charm he received from Utsumi in SPHIA... The Yuni of the shelter cabin has it as well.
 ＳＰＨＩＡ内内海给的护身符，避难小屋的悠尼也有。
 RU PLACEHOLDER
 
@@ -242,7 +241,7 @@ Additionally...
 RU PLACEHOLDER
 
 私は、ゆにの前髪をかきあげた。%K%P
-I combed Yuni's bangs upward.
+I comb Yuni's bangs upward.
 我把悠尼额前的头发掠起。
 RU PLACEHOLDER
 
@@ -252,7 +251,7 @@ What's wrong?
 RU PLACEHOLDER
 
 キョトンとしたゆにの額には、古いキズがある。%K%P
-As Yuni stared blankly at me, I could see an old wound was on Yuni's forehead.
+As Yuni stares blankly at me, I can see an old wound on his forehead.
 吃惊的悠尼的额头上，有一处旧伤。
 RU PLACEHOLDER
 
@@ -262,7 +261,7 @@ Isn't this the injury that Hotori gave him the other day?
 RU PLACEHOLDER
 
 それが治っているということは……どういうこと？%K%P
-It's all healed now... what does it mean?
+It's all healed now... What does it mean?
 但是现在却好了……怎么回事？
 RU PLACEHOLDER
 
@@ -277,32 +276,32 @@ Hey, Yuni...
 RU PLACEHOLDER
 
 以前、一度、尋ねようと思ったことを、ついに聞いてみることにした。%K%P
-I mustered up my courage and asked the question I've been wanting to ask all this while.
+I finally decide to ask the question I've been wanting to ask all this time.
 一直想问的问题我终于还是问了出来。
 RU PLACEHOLDER
 
 私は慎重に言葉を選んで、ラジオのことやキズのことを話した。%K%P
-I chose my words carefully and started to talk about the radio and the wound.
+I choose my words carefully and start to talk about the radio and the wound.
 我慎重地选择措辞，说起收音机还有额头旧伤的事情。
 RU PLACEHOLDER
 
 その間、ゆには無言だった。%K%P
-Meanwhile, Yuni stayed silent.
+Meanwhile, Yuni stays silent.
 在我说的时候，悠尼不发一语。
 RU PLACEHOLDER
 
 歳に似合わない妙に大人びた顔で、私を見つめている。%K%P
-With a strangely mature face that didn't suit his age, he looked at me.
+He looks at me with a strangely mature face that doesn't suit his age.
 带着跟他年龄不相称的成熟表情注视着我。
 RU PLACEHOLDER
 
 黄泉木や黛に聞こえないように声を潜めながら、私は自分の体験を説明した。%K%P
-While keeping my voice low so that neither Yomogi nor Mayuzumi could hear, I explained what I had experienced.
+While keeping my voice low so that neither Yomogi nor Mayuzumi can hear, I explain what I've experienced.
 我压低声音不让黄泉木和黛听到，说了自己说经历的事情。
 RU PLACEHOLDER
 
 そして、思い切って、尋ねた。%K%P
-Then, strengthening my resolve, I asked him.
+Then, strengthening my resolve, I ask him.
 下定决心，道出了自己的疑问。
 RU PLACEHOLDER
 
@@ -357,12 +356,12 @@ Yuni, you said that because you know the future, right?
 RU PLACEHOLDER
 
 ゆには、答えない。%K%P
-Yuni didn't answer.
+Yuni doesn't answer.
 悠尼不回答。
 RU PLACEHOLDER
 
 ただ、黙って私を見つめている。%K%P
-He just silently stared at me.
+He just silently stares at me.
 只是，不说话地看着我。
 RU PLACEHOLDER
 
@@ -382,7 +381,7 @@ You said... that it was real, right?
 RU PLACEHOLDER
 
 こころ「ゆには……私達があの記事通り死んじゃうって知ってたから」%K%P
-Yuni... you knew that we would die like in the article.
+Yuni... You knew that we would die like in the article.
 心「悠尼……因为你知道我们会像报纸上说的那样死去」
 RU PLACEHOLDER
 
@@ -407,7 +406,7 @@ You said... that it was real, right?
 RU PLACEHOLDER
 
 こころ「ゆには……私達があの記事通り死んじゃうって知ってたから」%K%P
-Yuni... you knew that we would die like in the article.
+Yuni... You knew that we would die like in the article.
 心「悠尼……因为你知道我们会像报纸上说的那样死去」
 RU PLACEHOLDER
 
@@ -427,7 +426,7 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 なおも黙っている彼の肩を掴み私は声を荒げた。%K%P
-Losing my patience, I grabbed Yuni, who had been silent all this time, by his shoulders, raising my voice as I continued.
+I grab the silent Yuni by his shoulders and raise my voice.
 我抓住他的肩膀呼吸急促起来。
 RU PLACEHOLDER
 
@@ -437,12 +436,12 @@ Please! Say something!
 RU PLACEHOLDER
 
 こころ「お願いだから！　私達、どうなるの！？」%K%P
-Please, Yuni! What's going to happen to us?!
+Please, Yuni! What's going to happen to us!?
 心「真的求你了！告诉我我们会怎么样！？」
 RU PLACEHOLDER
 
 ゆにの懐から、何かがヒラリと落ちた。%K%P
-Something fell lightly from his breast pocket.
+Something falls lightly from his breast pocket.
 悠尼的怀中什么东西飘落了下来。
 RU PLACEHOLDER
 
@@ -452,7 +451,7 @@ Something white, soft, like down.
 RU PLACEHOLDER
 
 それを拾う私。%K%P
-I picked it up.
+I pick it up.
 我拣了起来。
 RU PLACEHOLDER
 
@@ -462,7 +461,7 @@ This is...
 RU PLACEHOLDER
 
 それは、あの日……ゆにと初めてあったあの日、私の髪の毛についていたホワイトグースの羽。%K%P
-The feather of a white goose that was stuck in my hair that day... the day I first met Yuni.
+The feather of a white goose that was stuck in my hair that day... The day I first met Yuni.
 这是……那天……我和悠尼初次见面的那天，粘在我头发上的鹅毛。
 RU PLACEHOLDER
 
@@ -472,7 +471,7 @@ The angel's... feather.
 RU PLACEHOLDER
 
 なぜならその方が、ロマンティックだから……。%K%P
-Because those simple words would have been so incredibly romantic....
+Because that would be so incredibly romantic...
 为什么那样说呢，因为觉得比较浪漫……
 RU PLACEHOLDER
 
@@ -482,12 +481,12 @@ My confusion has reached its limits.
 RU PLACEHOLDER
 
 御守り、壊れたラジオ、額の傷……。%K%N
-The charm, the cracked radio, the cut on his forehead....
+The charm, the cracked radio, the cut on his forehead...
 护身符、坏掉的收音机、额头的伤痕……
 RU PLACEHOLDER
 
 でも、天使の羽を彼は持っている。%K%N
-And he has the angel's feather.
+But he has the angel's feather.
 但是他又带着天使的羽毛。
 RU PLACEHOLDER
 
@@ -504,27 +503,27 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 ゆにの目を見る。%K%P
-I looked into Yuni's eyes.
+I look into Yuni's eyes.
 我看着悠尼的眼睛。
 RU PLACEHOLDER
 
 その視線は虚ろだった。%K%P
-His eyes were hollow.
+His eyes are hollow.
 他视线空洞。
 RU PLACEHOLDER
 
 何を見ているのか、わからない。%K%P
-I don't know what he was looking at.
+I don't know what he's looking at.
 不知在看着什么。
 RU PLACEHOLDER
 
 何も見ていないのかも知れない。%K%P
-Perhaps he wasn't looking at anything.
+Maybe he isn't looking at anything.
 也许什么都没有看。
 RU PLACEHOLDER
 
 こころ「ゆに……あなた……」%K%P
-Yuni... you...
+Yuni... You...
 心「悠尼……你……」
 RU PLACEHOLDER
 
@@ -534,27 +533,27 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 こころ「あなたは……」%K%P
-You...
+Who...
 心「你是……」
 RU PLACEHOLDER
 
 こころ「あなたは……誰？」%K%P
-You... who are you?
+Who... are you?
 心「你是……谁？」
 RU PLACEHOLDER
 
 こころ「あなた、何者なのっ！？」%K%P
-Who are you?!
+Who are you!?
 心「你……到底是什么人！？」
 RU PLACEHOLDER
 
 突然、大きな声を出した私に驚き、黄泉木が顔を上げた。%K%P
-All of a sudden, Yomogi raised his face, surprised at my abruptly loud voice.
+Yomogi suddenly raises his face, surprised at my abruptly loud voice.
 我突然这么大声，黄泉木吃惊地抬起头。
 RU PLACEHOLDER
 
 黄泉木「おい、どうしたんだ……」%K%P
-Hey, what's wrong...
+Hey, what's wrong...?
 黄泉木「喂，怎么了……」
 RU PLACEHOLDER
 
@@ -569,12 +568,12 @@ UWAAAAAAAA!!!
 RU PLACEHOLDER
 
 ゆにが、奇声をあげて駆けだしてベッドから飛び降りた。%K%P
-Yuni let out a strange scream, jumped out of his bed, and broke into a run.
+Yuni lets out a strange scream and rushes out of his bed.
 悠尼发出一声怪叫从床上一跃而起跳下。
 RU PLACEHOLDER
 
 止めるまもなく、扉を開く。%K%P
-He opened the door before I could stop him.
+He opens the door before I can stop him.
 来不及阻止他已经开了门。
 RU PLACEHOLDER
 
@@ -584,17 +583,17 @@ No!
 RU PLACEHOLDER
 
 冷たい空気が扉から飛び込んでくる。%K%P
-Cold air rushed into the room.
+Cold air rushes into the room.
 冰冷的空气从门外吹进来。
 RU PLACEHOLDER
 
 外は、猛吹雪だ。%K%P
-There was a roaring blizzard outside.
+There's a roaring blizzard outside.
 外面是猛烈的风雪。
 RU PLACEHOLDER
 
 その荒れ狂う吹雪の中に、ゆには飛び出していった。%K%P
-Yuni flew out into the raging storm.
+Yuni flies out into the raging storm.
 悠尼跑进了这猛烈的风雪中。
 RU PLACEHOLDER
 
@@ -604,22 +603,22 @@ Yuni!
 RU PLACEHOLDER
 
 私は慌てて彼の後を追う。%K%P
-I chased after him in a panic.
+I rush after him.
 我赶忙追了出去。
 RU PLACEHOLDER
 
 ゆには避難小屋の前に立っていた。%K%P
-Yuni was standing in front of the shelter cabin.
+Yuni stands in front of the shelter cabin.
 悠尼站在避难小屋的外面。
 RU PLACEHOLDER
 
 横殴りに吹き付ける雪の中、空を仰いで立ちつくしている。%K%P
-The driving snow striking his face, he stood there, looking up at the sky.
+The driving snow striking his face, he stands there, looking up at the sky.
 在纵横肆虐的风雪中他仰首看天站立不动。
 RU PLACEHOLDER
 
 こころ「どうしちゃったの！？　ゆに！」%K%P
-What's wrong?! Yuni!
+What's wrong with you!? Yuni!
 心「你怎么了！？悠尼！」
 RU PLACEHOLDER
 
@@ -629,7 +628,7 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 何も答えなかった。%K%P
-He didn't answer.
+He doesn't answer.
 他什么也不说。
 RU PLACEHOLDER
 
@@ -639,7 +638,7 @@ Hey, Yuni...!
 RU PLACEHOLDER
 
 吹き付ける雪に顔を庇いながら、もう一度呼びかける。%K%P
-While shielding my face from the whirling snow, I called out to him again.
+While shielding my face from the whirling snow, I call out to him again.
 我挡着扑面的风雪又叫了一次。
 RU PLACEHOLDER
 
@@ -664,7 +663,7 @@ I won't ask any more! So please, come back inside!
 RU PLACEHOLDER
 
 私の呼びかけに、ゆには、ゆっくりと顔をこちらへ向けた。%K%P
-Hearing my desperate appeal, Yuni slowly turned his head toward me.
+Hearing my desperate appeal, Yuni slowly turns his head toward me.
 听到我呼唤，悠尼慢慢把脸转过来。
 RU PLACEHOLDER
 
@@ -674,7 +673,7 @@ And in the furious storm, Yuni――
 RU PLACEHOLDER
 
 笑っていた。%K%P
-smiled.
+smiles.
 笑了。
 RU PLACEHOLDER
 
@@ -714,57 +713,57 @@ Who's that behi――ind you?
 RU PLACEHOLDER
 
 強まる吹雪が、彼を覆い尽くしていく。%K%P
-He was swallowed by the raging storm.
+He's swallowed by the raging storm.
 强劲的风雪把他变成了雪人。
 RU PLACEHOLDER
 
 黄泉木「何をしてるんだ！」%K%P
-What're you doing?!
+What're you doing!?
 黄泉木「你们在搞什么！」
 RU PLACEHOLDER
 
 黄泉木は吹雪の中へ飛び出していき、小屋の前に立つゆにを抱きかかえる。%K%P
-Yomogi rushed outside and caught Yuni, who was still standing in front of the cabin.
+Yomogi bursts outside and catches Yuni, who's still standing in front of the cabin.
 黄泉木抱起了风雪中的悠尼。
 RU PLACEHOLDER
 
 黄泉木「また、低体温症になるぞ！」%K%P
-You want to get hypothermia again?!
+You want to get hypothermia again!?
 黄泉木「又想得低体温症了吗！」
 RU PLACEHOLDER
 
 黄泉木は、ゆにを抱いて戻ってくる。%K%P
-Yomogi grabbed Yuni and returned to the cabin with him.
+Yomogi returns to the cabin with Yuni in his arms.
 黄泉木抱着悠尼回到小屋。
 RU PLACEHOLDER
 
 私は身体全体をぶつけるようにして、扉を閉めた。%K%P
-To shut the door, I had to practically throw my whole body's weight against it.
+To shut the door, I have to practically throw my whole body's weight against it.
 我全身撞上去一般关了小屋的门。
 RU PLACEHOLDER
 
 黄泉木「何があった！？」%K%P
-What happened?!
+What happened!?
 黄泉木「刚才怎么了！？」
 RU PLACEHOLDER
 
 こころ「わかりません。突然、飛び出していって……」%K%P
-I don't know. All of a sudden, he went flying out...
+I don't know. He just suddenly ran out...
 心「不知道。他自己突然跑出去……」
 RU PLACEHOLDER
 
 ゆには目を閉じていた。%K%P
-Yuni had his eyes closed.
+Yuni has his eyes closed.
 悠尼闭着眼睛。
 RU PLACEHOLDER
 
 気を失っているのだろうか？%K%P
-Had he lost consciousness?
+Has he lost consciousness?
 昏迷了吗？
 RU PLACEHOLDER
 
 黄泉木「低体温症になると幻覚を見たり、暴れ出したりするんだ」%K%P
-When you're suffering from hypothermia, you can hallucinate, grow restless, and...
+When you're suffering from hypothermia, you can hallucinate and grow restless.
 黄泉木「低体温症状态下人会见到幻觉、发狂」
 RU PLACEHOLDER
 
@@ -774,12 +773,12 @@ That outburst might have been from those symptoms.
 RU PLACEHOLDER
 
 黄泉木は、ゆにの頬に自分の手の甲を押し当てた。%K%P
-Yomogi laid the back of his hand against Yuni's cheek.
+Yomogi lays the back of his hand against Yuni's cheek.
 黄泉木把指尖放到悠尼的脸颊上。
 RU PLACEHOLDER
 
 首元や脇の辺りを触る。%K%P
-He touched his neck and the area around his armpit.
+He touches his neck and the area around his armpit.
 摸了摸脖子和肋下。
 RU PLACEHOLDER
 
@@ -789,12 +788,12 @@ Luckily, his temperature didn't drop that much.
 RU PLACEHOLDER
 
 抱えていたゆにを、黄泉木はそっとベッドに寝かした。%K%P
-Yomogi gently laid Yuni down on the bed.
+Yomogi gently lays Yuni down on the bed.
 把怀中的悠尼轻轻放回了床上。
 RU PLACEHOLDER
 
 顔を辛そうに歪めて、肩を竦める。%K%P
-A pained expression contorting his face, he shrugged his shoulders.
+A pained expression contorting his face, he shrugs his shoulders.
 艰难地动了一下面部肌肉，耸一下肩。
 RU PLACEHOLDER
 
@@ -814,17 +813,17 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 私はぐったりとしているゆにを抱き、毛布をかぶった。%K%P
-I embraced the senseless Yuni and wrapped us up in the blankets.
+I embrace the senseless Yuni and wrap us up in a blanket.
 我抱起一动不动的悠尼，为他盖上了毛毯。
 RU PLACEHOLDER
 
 せっかく暖まっていた手足は、また氷のように冷たい。%K%P
-The limbs that we had painstakingly warmed up earlier were once again cold like ice.
+The limbs that I had painstakingly warmed up earlier are once again cold as ice.
 刚才好不容易温暖的手脚又像冰一样冷。
 RU PLACEHOLDER
 
 黄泉木は、自分の毛布を差し出しながら、%K%P
-Meanwhile, Yomogi presented us with his own blankets as he said,
+Meanwhile, Yomogi presents us with his own blanket.
 黄泉木把自己的毛毯也递过来。
 RU PLACEHOLDER
 
@@ -839,7 +838,7 @@ But...
 RU PLACEHOLDER
 
 黄泉木「曇っているが、一応太陽が昇っている。多少は気温が上がるだろう」%K%P
-It's cloudy, but the sun has more or less risen. The temperature will rise a little.
+It's cloudy, but the sun can still peek through. The temperature should rise a little.
 黄泉木「虽然多云，太阳毕竟出来了。温度多少有点回升」
 RU PLACEHOLDER
 
@@ -849,12 +848,12 @@ While it's daytime, we should try to regain our strength.
 RU PLACEHOLDER
 
 こころ「黄泉木さんは……？」%K%P
-Ah, Yomogi-san...?
+What about you, Yomogi-san...?
 心「黄泉木先生你呢……？」
 RU PLACEHOLDER
 
 黄泉木は腕時計を指さした。%K%P
-Yomogi pointed at the wristwatch.
+Yomogi points at his wristwatch.
 黄泉木指着手表。
 RU PLACEHOLDER
 
@@ -869,7 +868,7 @@ Then... please wake me up.
 RU PLACEHOLDER
 
 黄泉木は黛のベッドを見上げた。%K%P
-Yomogi looked up at Mayuzumi's bed.
+Yomogi looks up at Mayuzumi's bed.
 黄泉木抬头看了一眼黛的床位。
 RU PLACEHOLDER
 
@@ -884,27 +883,27 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 弱々しい寝息が聞こえてくる。%K%P
-We could hear her weak breathing.
+We can hear her weak breathing.
 可以听见她微弱的呼吸声。
 RU PLACEHOLDER
 
 黄泉木は黛の首筋に触れた。%K%P
-Yomogi touched the nape of her neck.
+Yomogi touches her neck.
 黄泉木探了一下黛的脖子。
 RU PLACEHOLDER
 
 心拍を確かめたのだろう。%K%P
-Is he checking her heart rate?
+He must be checking her heart rate.
 可能是在确认心跳吧。
 RU PLACEHOLDER
 
 口元に手を翳し、呼吸も確認する。%K%P
-He also placed his hand in front of her mouth to confirm that she was breathing.
+He also places his hand in front of her mouth to check her breathing.
 又把手放到她嘴角确认了一下呼吸。
 RU PLACEHOLDER
 
 黄泉木「黛も、少し眠らせよう」%K%P
-Let's let Mayuzumi rest a little. too.
+Let's let Mayuzumi rest a little too.
 黄泉木「再让黛睡一会吧」
 RU PLACEHOLDER
 
@@ -914,17 +913,17 @@ She seems to be exhausted.
 RU PLACEHOLDER
 
 黄泉木は黛のベッドに手を伸ばし、ゴソゴソと何かしていた。%K%P
-Yomogi reached out and started to rummage around Mayuzumi's bed.
+Yomogi reaches out and starts to rummage around Mayuzumi's bed.
 黄泉木手伸到黛床上，沙沙作响不知在干嘛。
 RU PLACEHOLDER
 
 恐らく、毛布をかけ直してあげたのだ。%K%P
-He was probably fixing her blankets.
+He's probably fixing her blanket.
 大概是为她盖好毛毯吧。
 RU PLACEHOLDER
 
 そしてベッドへと戻る。%K%P
-Then he returned to my bedside.
+Then he returns to my bedside.
 然后他回到自己的床上。
 RU PLACEHOLDER
 
@@ -939,17 +938,17 @@ Night will come again. Until then...
 RU PLACEHOLDER
 
 私は、ゆにを抱きしめて目を閉じた。%K%P
-I held Yuni tight and closed my eyes.
+I hold Yuni tight and close my eyes.
 我抱着悠尼闭起了眼睛。
 RU PLACEHOLDER
 
 ゆには本当に『未来のゆに』なのか……？%K%P
-Is this Yuni really "the Yuni from the future"...?
+Is this Yuni really the Yuni from the future...?
 悠尼真的是“未来的悠尼”吗……？
 RU PLACEHOLDER
 
 聞きたかったけれど、彼は逃げ出してしまった。%K%P
-I wanted to know, but he had run away.
+I wanted to hear it, but he ran away.
 虽然很想问，他却逃了出去。
 RU PLACEHOLDER
 
@@ -959,7 +958,7 @@ I can't ask him anymore.
 RU PLACEHOLDER
 
 これ以上、ゆにに負担を掛けるわけにはいかないから。%K%P
-I don't want to burden him further.
+I don't want to burden him any further.
 我不能再给他任何负担了。
 RU PLACEHOLDER
 
@@ -969,7 +968,7 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 目を閉じたまま、私はゆにの髪に顔を埋めた。%K%P
-With my eyes closed, I buried my face in Yuni's hair.
+With my eyes closed, I bury my face in Yuni's hair.
 闭着眼睛，我把脸埋进悠尼的头发里。
 RU PLACEHOLDER
 
@@ -979,17 +978,17 @@ What is the truth...?
 RU PLACEHOLDER
 
 あの新聞は、本物じゃないの……？%K%P
-That newspaper... isn't real...?
+The newspaper is real... isn't it...?
 那张报纸，不是真的吗……？
 RU PLACEHOLDER
 
 私達……生きていけるの……？%K%P
-Can we... stay alive...?
+Can we... survive...?
 我们……能够活下去吗……？
 RU PLACEHOLDER
 
 いろいろな疑問が、私の脳裏を掠めていく。%K%P
-Lots of problems swept through my mind.
+Lots of problems sweep through my mind.
 各种各样的疑问在我脑子里闪过。
 RU PLACEHOLDER
 
@@ -999,7 +998,7 @@ But...
 RU PLACEHOLDER
 
 やがて私は、眠りに落ちた。%K%P
-Before long, I fell asleep.
+Before long, I fall asleep.
 不一会儿，我也进入了梦乡。
 RU PLACEHOLDER
 
@@ -1007,3 +1006,4 @@ RU PLACEHOLDER
 Like that of a newborn baby, a deep, deep sleep――――
 像是初生婴儿经历的、深深的、深深的睡眠————
 RU PLACEHOLDER
+

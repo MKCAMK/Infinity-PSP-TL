@@ -4,12 +4,12 @@ import os, sys
 import r11.names
 from r11 import handle_control_sequence
 
-dont_break_after = set("\"('「[")
+dont_break_after = set("\"('「『[")
 dont_break_before = set(
     "1234567890"
     "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
     "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя"
-    ",.!?\"'」]-:―)〜♪>「"
+    ",.!?\"'」』]-:―)〜♪>「『"
 )
 max_width = 433
 

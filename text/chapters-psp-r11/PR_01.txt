@@ -1,12 +1,13 @@
-Я　чайка%K%P
+﻿Я　чайка%K%P
 Я　чайка.
 Я　чайка
 RU PLACEHOLDER
 
 『私はカモメ』%K%P
-"I'm a seagull."
+「I'm a seagull.」
 “我是海鸥。”
 RU PLACEHOLDER
+
 //Seagull = kamome
 //[CHN]海鸥 = Seagull = kamome
 //[CHN]Maybe we will get 3 languages one day, ha ha
@@ -32,7 +33,7 @@ Yet still able to draw the parallel between herself and a seagull to express the
 RU PLACEHOLDER
 
 『私はカモメ』……素敵な表現だと思う。%K%P
-"I'm a seagull"... such beautiful words.
+「I'm a seagull」... Such beautiful words.
 “我是海鸥”……真是美妙的比喻。
 RU PLACEHOLDER
 
@@ -42,9 +43,10 @@ If it were me, I'd never have been able to come up with something so clever.
 RU PLACEHOLDER
 
 少々の皮肉を込めて言い表わすとするなら、さしづめ『私は籠女』とでもいったところだろうか。%K%P
-I'd probably try being sarcastic and say that, "I'm a girl trapped in a cage." Though, if you think about it, would that really be sarcasm?
+I'd probably try being sarcastic and say that I'm a girl trapped in a cage. Though, if you think about it, would that really be sarcasm?
 若要加入少许讽刺的意味来表现的话，便应该是“我是笼中鸟”吧。
 RU PLACEHOLDER
+
 //just nitpicking again, but can anyone think of a way to preserve the kamome/kagome pun? - the_paper
 //"I'm a sealed girl"? Still lame, but...
 //"I'm a SEAled GUrLL" I think the "sealed girl" suggestion above is fine...
@@ -60,9 +62,8 @@ Right now, I'm somewhere as close to heaven as I'll ever be.
 我现在，身在离天国最近的地方。
 RU PLACEHOLDER
 
-
 高度３万３千フィートの空の上に……。%K%P
-33,000 feet up in the air....
+33,000 feet up in the air...
 高度３万３千英尺的空中……
 RU PLACEHOLDER
 
@@ -97,32 +98,32 @@ Who's that behi――ind you?
 RU PLACEHOLDER
 
 私は……。%K%p
-I....
+I...
 我……
 RU PLACEHOLDER
 
 手を振りほどく
-Pull the hands away.
+Pull the hands away
 把手甩开
 RU PLACEHOLDER
 
 『天使さん？』
-"An angel?"
+「An angel?」
 “天使吗？”
 RU PLACEHOLDER
 
 『誰かなぁ？』
-"Who, I wonder?"
+「Who, I wonder?」
 “是谁呢？”
 RU PLACEHOLDER
 
 速やかに手を振りほどき、背後を返り見た。%K%P
-I quickly pulled the hands away from my eyes and turned around.
+I quickly pull the hands away from my eyes and turn around.
 我立刻把手甩开，回头看去。
 RU PLACEHOLDER
 
-少年「ちぇっ、つまんないのぉ～」%K%P
-Tch, you're no fun～
+少年「ちぇっ、つまんないのぉ〜」%K%P
+Tch, you're no fun〜
 男孩「嘁，真无聊～」
 RU PLACEHOLDER
 
@@ -132,17 +133,17 @@ You're in a bad mood, huh, Onee-chan?
 RU PLACEHOLDER
 
 そこには見ず知らずの少年がいた。%K%P
-Behind me was a boy whom I'd never seen before.
+Behind me is a boy who I've never seen before.
 在那里的是个陌生的少年。
 RU PLACEHOLDER
 
 背もたれから身を乗り出すようにして、無邪気な笑みを浮かべている。%K%P
-He peeked over the back of my seat with an innocent smile on his face.
+He leans over the headrest with an innocent smile.
 身体从靠背后探出来，脸上挂着天真的笑容。
 RU PLACEHOLDER
 
 こころ「え、えっと……きみは……誰？」%K%P
-Uhh... emm... who... are you?
+E-Ehh... Who... are you?
 心「咦，呃……你是……谁？」
 RU PLACEHOLDER
 
@@ -172,9 +173,10 @@ Hey, is this seat empty?
 RU PLACEHOLDER
 
 少年は私の隣、窓側の座席を手のひらでたたいた。%K%P
-He thumped the headrest of the window seat next to mine with the palm of his hand.
+He thumps the headrest of the window seat next to mine with the palm of his hand.
 少年用手拍了拍我旁边的，靠窗的座位。
 RU PLACEHOLDER
+
 //old: He dusted off the headrest of the window seat right beside mine.
 
 少年「って言うか、空いてるよね？」%K%P
@@ -193,7 +195,7 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 窓の外をのぞき込むようにして、彼はそう言った。%K%P
-He said as he peered out of the window.
+He says as he peers out of the window.
 他注视着窗外，如此说道。
 RU PLACEHOLDER
 
@@ -213,23 +215,24 @@ But...
 RU PLACEHOLDER
 
 少年「『旅は道連れ世は情け』」%K%P
-"In traveling, companionship. In life, compassion,"
+『In traveling, companionship. In life, compassion.』
 男孩「不是常说“行要好伴，住要好邻”」
 RU PLACEHOLDER
 
 少年「『袖すりあうも和尚の霊』って言うじゃん？」%K%P
-"Every new meeting happens because of the spirits of priests"... that's what they say, right?
+『Everyone you come into contact with, it's thanks to the spirits of lamas』... That's what they say, right?
 男孩「“萍水相逢亦是缘”嘛？」
 RU PLACEHOLDER
+
 //[CHN]The advantages of Chinese: can translate this sentence perfectly, tons of Japanese sayin's is from the old Chinese. 
 
 こころ「和尚の、霊？」%K%P
-The spirits... of priests?
+The spirits... of lamas?
 心「缘？」
 RU PLACEHOLDER
 
 戸惑う私をよそに、彼はするりと隣の座席に身体を滑り込ませてきた。%K%P
-The boy quickly slipped into the window seat beside me.
+The boy quickly slips into the window seat beside me.
 撇下困惑的我，他身手敏捷地滑到我旁边的座位上。
 RU PLACEHOLDER
 
@@ -244,12 +247,12 @@ My name is Kusuda Yuni.
 RU PLACEHOLDER
 
 ゆに「生年月日は１９９９年１０月１９日、１１歳、天秤座」%K%P
-I'm 11 years old, my birthday is on October 19, 1999, and my sign is Libra.
+I'm eleven years old, my birthday is October 19th, 1999, and my sign is Libra.
 悠尼「生日是１９９９年１０月１９日，１１岁。天秤座」
 RU PLACEHOLDER
 
 ゆに「血液型はＡＢ型」%K%P
-My blood-type is AB.
+My blood type is AB.
 悠尼「血型是ＡＢ型」
 RU PLACEHOLDER
 
@@ -257,6 +260,7 @@ RU PLACEHOLDER
 I don't know if that's the reason or not, but a lot of people tell me I'm weird.
 悠尼「虽然不知道是什么原因，但我总被人称作“怪人”」
 RU PLACEHOLDER
+
 //old: I don't know if I should really bring this up, but people often call me strange.
 //[CHN] how about "weirdo?"
 
@@ -276,22 +280,22 @@ I...
 RU PLACEHOLDER
 
 まくしたてるような勢いに圧倒され、私は言葉を詰まらせた。%K%P
-Defeated by his overwhelming vigor, I was unable to say anything.
+Defeated by his overwhelming vigor, I'm unable to say anything.
 被他连珠炮似的气势所压倒，我结结巴巴说不出话来。
 RU PLACEHOLDER
 
 『ゆに』と名乗ったその少年は、何の遠慮もはばかりもなく、ぐいぐいと私の傍らに擦り寄ってくる。%K%P
-Then the boy, without fear or reservation, came up close to me.
+Then the boy, without fear or reservation, cozies up to me.
 自称“悠尼”的这个少年，不带任何客气和顾虑，一点一点的往我身边蹭。
 RU PLACEHOLDER
 
 まいったなぁ……。%K%P
-Oh brother....
+Oh no...
 伤脑筋了……
 RU PLACEHOLDER
 
 こういうの、私苦手なのよねぇ……。%K%P
-I'm not really good at dealing with stuff like this....
+I'm not really good at dealing with stuff like this...
 我最不擅长应付这种情况了……
 RU PLACEHOLDER
 
@@ -301,22 +305,22 @@ What's wrong?
 RU PLACEHOLDER
 
 ちょこんと小首を傾げる少年。%K%P
-The boy tilted his head.
+The boy tilts his head.
 少年微微的歪过了头。
 RU PLACEHOLDER
 
 私は視線をそらし、彼の肩越しへと目を向けた。%K%P
-I averted my gaze, looking over his shoulder instead.
+I avert my gaze, looking over his shoulder instead.
 我别开视线，隔着他的肩膀向外望去。
 RU PLACEHOLDER
 
 窓の外の雲海は、世界をすっぽりと覆い尽くすようにどこまでも果てしなく広がっていた。%K%P
-As I looked past the sea of clouds, the world seemed to go on forever... boundless and free...
+As I look past the sea of clouds, the world seems to go on forever... boundless and free...
 窗外的云海，好像包裹住整个世界一般无穷无尽。
 RU PLACEHOLDER
 
-こころ「う～ん、そうねぇ～」%K%P
-Hmm～, let's see～
+こころ「う〜ん、そうねぇ〜」%K%P
+Hmm〜, let's see〜
 心「嗯，这个嘛～～」
 RU PLACEHOLDER
 
@@ -326,27 +330,27 @@ We're above the clouds, right? So... maybe an angel came to play a prank?
 RU PLACEHOLDER
 
 ？？「うわっ、なにそれ、オヤジギャグですか？」%K%P
-Uwaa, what was that?! Sounds like the kind of joke my grandfather would make...
+Uwaa, what was that!? Sounds like the kind of joke my grandfather would make...
 ？？「哇，那是什么？大叔式笑话？」
 RU PLACEHOLDER
 
-？？「さむぅ～」%K%P
-So laaame～
+？？「さむぅ〜」%K%P
+So laaame〜
 ？？「好冷～」
 RU PLACEHOLDER
 
 少しだけカチンときた。%K%P
-I heard a small clink.
+I hear a small clink.
 我有点生气了。
 RU PLACEHOLDER
 
 私は眼前の手を引き剥がすと、勢いよく振り返った。%K%P
-As soon as the hands covering my eyes were removed, I quickly turned around.
+As soon as the hands covering my eyes are removed, I quickly turn around.
 拨开眼前的手，迅速回过头去。
 RU PLACEHOLDER
 
-少年「ふひひひひぃ～ん……」%K%P
-Hihihi...
+少年「ふひひひひぃ〜ん……」%K%P
+Fuhihihihii〜n...
 男孩「嘻嘻嘻～……」
 RU PLACEHOLDER
 
@@ -356,12 +360,12 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 そこには見ず知らずの少年がいた。%K%P
-There was an unfamiliar boy I had never seen before.
+Behind me is a boy who I've never seen before.
 一个素不相识的男孩……
 RU PLACEHOLDER
 
 背もたれから身を乗り出すようにして、無邪気な笑みを浮かべている。%K%P
-He was leaning over the backrest with an innocent smile.
+He leans over the backrest with an innocent smile.
 支着靠背探出身体，浮现着天真无邪的笑容。
 RU PLACEHOLDER
 
@@ -386,7 +390,7 @@ Then how about your papa? Where's your papa's seat?
 RU PLACEHOLDER
 
 少年は黙って首を振った。%K%P
-The boy didn't say anything and just shook his head.
+The boy doesn't say anything and just shakes his head.
 少年默默地摇了摇头。
 RU PLACEHOLDER
 
@@ -396,7 +400,7 @@ Eh? That means... It can't be... Are you alone?
 RU PLACEHOLDER
 
 今度は首を縦に振る。%K%P
-This time he nodded his head.
+This time, he nods his head.
 这次点了点头。
 RU PLACEHOLDER
 
@@ -410,28 +414,28 @@ Yeah.
 男孩「嗯」
 RU PLACEHOLDER
 
-こころ「へぇ～、小学生なのにひとりで飛行機に乗れちゃうなんてすごいじゃない」%K%P
-Eeh～, traveling alone on an airplane even though you're so young, that sure is something, isn't it?
+こころ「へぇ〜、小学生なのにひとりで飛行機に乗れちゃうなんてすごいじゃない」%K%P
+Hey〜, traveling alone on an airplane even though you're so young, that sure is something, isn't it?
 心「哦～，身为小学生却独自一人坐飞机，真是厉害啊」
 RU PLACEHOLDER
 
-少年「すごくなんかないよ～」%K%P
-It's not that impressive～
+少年「すごくなんかないよ〜」%K%P
+It's not that impressive〜
 男孩「没什么厉害的啦～」
 RU PLACEHOLDER
 
 とは言いながらも、まんざらではなさそうだった。%K%P
-Even though he said that, you could tell he was quite pleased at being praised.
+Even though he says that, you can tell he's quite pleased at being praised.
 嘴上这么说，听起来似乎并没全盘否定。
 RU PLACEHOLDER
 
 照れ笑いがあどけなくて愛らしい。%K%P
-He seemed very innocent and charming.
+He seems very innocent and charming.
 羞涩的笑容天真可爱。
 RU PLACEHOLDER
 
 先程の辛辣な言葉づかいも、子どもならではの虚勢だったのかと思うと憎たらしさも愛嬌へと変わる。%K%P
-If not for the sharp tongue I had heard earlier, I would've been under the complete influence of his childish charms.
+If not for the sharp tongue I heard earlier, I would've been under the complete influence of his childish charms.
 先前辛辣的措辞，原来是孩子特有的虚张声势。这么一想，厌恶也变成了喜爱。
 RU PLACEHOLDER
 
@@ -439,6 +443,7 @@ RU PLACEHOLDER
 Now then, is this charming Archaic smile an attribute of his true face? Or is it just a cute facade hiding his wicked nature?
 那几乎能够控制人心的古风的微笑，究竟是天性使然，还是深藏狡猾圈套的陷阱呢。
 RU PLACEHOLDER
+
 //note: I left the reference to the Archaic smile in the sentence, as it seems deliberate - see http://en.wikipedia.org/wiki/Archaic_smile
 //also note that Archaic is supposed to be capitalized.
 
@@ -448,7 +453,7 @@ Even though, at my age, you'd think I could immediately tell whether a kid was p
 RU PLACEHOLDER
 
 世の中の酸いも甘いも（ある程度）知ってしまった私にとって、彼の穢れなき微笑みは羨望さえ抱かせるに充分だった。%K%P
-But right now, as someone who's experienced both the sweetness and the bitterness of this world, I see in his undefiled smile a side of him that I wanted to be real.
+But right now, as someone who's experienced both the sweetness and the bitterness of this world, I see in his undefiled smile a side of him that I want to be real.
 （一定程度上）体会到世态炎凉的我来说，他那无垢的笑容，都足以让我羡慕不已。
 RU PLACEHOLDER
 
@@ -458,12 +463,12 @@ How old are you?
 RU PLACEHOLDER
 
 尋ねた私の口元は、いつしか自然にゆるんでいた。%K%P
-I asked a question, not quite sure when I had become so talkative.
+I ask a question, not quite sure when I became so talkative.
 这么问着，我的嘴角不知不觉中自然地弯起来。
 RU PLACEHOLDER
 
 少年「１１……５番目の素数だよ」%K%P
-11... it's the fifth prime number!
+Eleven... It's the fifth prime number!
 男孩「１１……第五个质数」
 RU PLACEHOLDER
 
@@ -473,27 +478,27 @@ Prime number?
 RU PLACEHOLDER
 
 根っからの文系人間の私にとって、その言葉はあまりにも遠かった。%K%P
-As a liberal arts student, that expression wasn't one that I heard often.
+As a liberal arts student, that expression isn't one that I hear often.
 对于我这样的纯种文科人来说，那个词实在是太过遥远了。
 RU PLACEHOLDER
 
 とは言え、さすがに定義ぐらいは知っている。%K%P
-That being said, I at least still remembered the definition.
+That being said, I at least still remember the definition.
 不过，定义还是知道的。
 RU PLACEHOLDER
 
 『１』とその数自体でしか割り切れない正の整数のこと。ただし『１』は含めないものとする。%K%P
-A positive integer that can only be divided by the number 1 and itself. However, the number 1 itself is not included.
+A positive integer that can only be divided by the number one and itself. However, the number one itself is not included.
 只能被１和自身整除的正整数。但不包含１。
 RU PLACEHOLDER
 
 少年「ぼく、素数が好きなんだ」%K%P
-I like prime numbers.
+I like prime numbers,
 男孩「我喜欢质数啊」
 RU PLACEHOLDER
 
 少年「因数を２つだけしか持たないから」%K%P
-Because they only have two factors.
+because they only have two factors.
 男孩「因为它只有两个因数」
 RU PLACEHOLDER
 
@@ -506,17 +511,18 @@ RU PLACEHOLDER
 He has a big smile on his face, as always...
 他的笑容依旧。
 RU PLACEHOLDER
+
 //I know that's a literal translation of "aikawarazu", but would she say this about someone she's just met?
 //What about using "again," because the boy just smiled earlier?
 //[CHN]Five words in Chinese.
 
 私には埒外の分野――。愛想笑いを浮かべて見せるのが精一杯だった。%K%P
-A realm that was now forever out of my reach――the ability to give an ingratiating smile like that with all my might.
+This isn't really my field of expertise――all I can do is force a smile.
 与我毫不相关的学术领域——。挤出社交式的笑容已是尽全力了。
 RU PLACEHOLDER
 
 私の専門は『ソスウ』や『インスウ』ではなく%N『%TS000ソシオロジィ%TE』や『%TS001インサニティ%TE』なのだ。%K%P
-You know, my specialty isn't "factors" or "prime numbers," but rather "%TS000sociology%TE" and "%TS001insanity%TE."
+You know, my specialty isn't 「factors」 or 「prime numbers」, but rather 「%TS000sociology%TE」 and 「%TS001insanity%TE」.
 我的专业不是“质数”与“因数”，而是《%TS000社会学%TE》和《%TS001精神异常%TE》
 RU PLACEHOLDER
 
@@ -526,7 +532,7 @@ Onee-chan's age isn't a prime number, is it?
 RU PLACEHOLDER
 
 ふいに、彼はそう言った。%K%P
-He said that suddenly.
+He says that suddenly.
 他忽然说道。
 RU PLACEHOLDER
 
@@ -536,17 +542,17 @@ Onee-chan is twenty, right?
 RU PLACEHOLDER
 
 こころ「な、なんで、知ってるの？」%K%P
-H-how did you know?
+H-How did you know?
 心「怎、怎么知道的？」
 RU PLACEHOLDER
 
-少年「さあ～、なんでだろうねぇ～」%K%P
-Hmmm～, I wonder～
+少年「さあ〜、なんでだろうねぇ〜」%K%P
+Hmm〜, I wonder〜
 男孩「是啊，怎么知道的呢～～」
 RU PLACEHOLDER
 
 彼は悪戯っぽく首を傾げて見せた。%K%P
-He mischievously tilted his head for me to see.
+He mischievously tilts his head for me to see.
 他恶作剧似地对我侧头沉思起来。
 RU PLACEHOLDER
 
@@ -561,26 +567,26 @@ Let's try to get along, 'kay?
 RU PLACEHOLDER
 
 背もたれにちょこんとアゴを乗せて右手を差し伸べてくる。%K%P
-He rested his chin on the head-rest behind me and stuck his right hand out.
+He rests his chin on the headrest behind me and sticks his right hand out.
 将下巴支撑在靠背上，向我伸出右手。
 RU PLACEHOLDER
 
 私は動揺しながらも引き寄せられるようにその手を取った。%K%P
-I shook it.
+I shake it.
 我犹豫着，最后还是如同被引导着一样握住了他的手。
 RU PLACEHOLDER
 
 とても小さな手のひらだった。%K%P
-His palm was very small.
+His palm is very small.
 十分小巧的手掌。
 RU PLACEHOLDER
 
 それは欠落した何かのカケラがあるべき場所へと還るように、私の手のひらにしっくりとなじんだ。%K%P
-It fit surprisingly well into my own palm, as if returning a missing fragment to its rightful place.
+It fits surprisingly well into my own palm, like a missing piece returned to its rightful place.
 如同失落的东西回归原处一样，融入我的掌中。
 RU PLACEHOLDER
 
-こころ「う～ん、誰かなぁ？」%K%P
+こころ「う〜ん、誰かなぁ？」%K%P
 Umm, who could it be?
 心「唔～是谁呀？」
 RU PLACEHOLDER
@@ -611,22 +617,22 @@ I don't have the slightest idea.
 RU PLACEHOLDER
 
 ただ耳元に届くその声は、変声期を迎える前の少年のそれを思わせた。%K%P
-Judging by the voice, which was still undergoing the changes of puberty, it could only be the boy sitting in the seat behind me.
+Judging by the voice, which has yet to undergo the changes of puberty, it can only be the boy sitting in the seat behind me.
 不过我所听到的，是还没变过声的少年的声音。
 RU PLACEHOLDER
 
 まぶたを覆ったふたつの手のひらも小さい。%K%P
-The palms that covered my eyes were pretty small.
+The palms covering my eyes are pretty small.
 捂住眼睛的两只手掌也非常细小。
 RU PLACEHOLDER
 
-こころ「ダメだぁ～、降参降参！」%K%P
-It's useless... I give up, I give up!
+こころ「ダメだぁ〜、降参降参！」%K%P
+It's useless〜 I give up, I give up!
 心「不行了～投降投降！」
 RU PLACEHOLDER
 
 私は両手を高く掲げると、手首をくるくるとまわしておどけて見せた。%K%P
-I raised both of my arms and spun around my wrists playfully.
+I raise both of my arms and spin my wrists around playfully.
 我高高举起双手，滑稽的转着手腕。
 RU PLACEHOLDER
 
@@ -656,17 +662,17 @@ Kusuda Yuni-kun!
 RU PLACEHOLDER
 
 振り向くと、そこには予想通り小学生と思しき少年がいた。%K%P
-Turning around, I found, as I had expected, a boy who looked to be about elementary school age.
+Turning around, I find, as I expect, a boy who looks to be about elementary school age.
 我回过头，和我想的一样，在那里的是一个小学生模样的少年。
 RU PLACEHOLDER
 
 背もたれから身を乗り出すようにして、無邪気な笑みを浮かべている。%K%P
-He was leaning over the headrest with an innocent smile.
+He leans over the headrest with an innocent smile.
 身体从靠背后探出来，脸上挂着天真的笑容。
 RU PLACEHOLDER
 
 『楠田ゆにくんでしたぁー！』と彼は言ったが、その名前に聞き覚えはなかったし、顔立ちにも見覚えはなかった。%K%P
-"Kusuda Yuni-kun!" is what he said... I didn't remember hearing that name anywhere, nor having ever seen his face.
+「Kusuda Yuni-kun!」 is what he said... I don't remember hearing that name anywhere, and I don't recognize his face.
 虽然他说了“楠田悠尼！”，但是我从没有听过那个名字，那个面孔也很陌生。
 RU PLACEHOLDER
 
@@ -686,15 +692,16 @@ Thanks.
 RU PLACEHOLDER
 
 ゆに「友達には『ユニシロ』とか『ユニットバス』とかって言われて、よくからかわれるけどね」%K%P
-My friends often tease me by calling me "Yunishiro" or "Unit Bath," though.
+My friends often tease me by calling me 『Yunishiro』 or 『Unit Bath』, though.
 悠尼「朋友经常叫我“悠尼代”呀“油腻食品”之类的开我玩笑」
 RU PLACEHOLDER
+
 //??? seems a like a legitimate straightforward translation but "what the?!"
 //maybe skip this line altogether if it won't have any impact on the later story - or keep it "for the lulz"
 //ｘ　Bus o Bath (see e.g. http://www.apartmenttherapy.com/la/at-asia/at-asia-yunitto-basu-or-the-unit-bath-035316 )
 
 はにかんだ笑顔が人懐っこくて愛らしい。%K%P
-His shyly smiling face was friendly and charming.
+His shyly smiling face is friendly and charming.
 腼腆的微笑给人以亲近感，惹人怜爱。
 RU PLACEHOLDER
 
@@ -709,12 +716,12 @@ The seat here is free, right?
 RU PLACEHOLDER
 
 私はチラリと腕時計に目を向けた。%K%P
-I took a glance at my wristwatch.
+I take a glance at my wristwatch.
 我扫了一眼手表。
 RU PLACEHOLDER
 
 目的地に到着するまで、まだだいぶ時間がある。%K%P
-There was still a lot of time before we would reach our destination.
+There's still a lot of time before we reach our destination.
 离到达目的地，还有不少时间。
 RU PLACEHOLDER
 
@@ -724,18 +731,19 @@ Come on over.
 RU PLACEHOLDER
 
 私が窓側の座席をポンポンとたたくと……%K%P
-I patted the seat by the window...
+I pat the seat by the window...
 我使劲拍了拍窗边的座位……
 RU PLACEHOLDER
 
 ゆにと名乗ったその少年は、椅子取りゲームでもするみたいに素早く私の隣に滑り込んできた。%K%P
-The boy who had introduced himself as Yuni pounced into the seat beside me as suddenly as in a game of musical chairs where the music had stopped.
+The boy who introduced himself as Yuni pounces into the seat beside me like he's playing a game of musical chairs.
 自称悠尼的少年，就好像在玩抢椅子游戏一样迅速滑到了我的旁边。
 RU PLACEHOLDER
+
 //changed this slightly because it was too long for the textbox before
 
 こころ「ねえ？　ひとつ気になったことがあるんだけど、訊いてもいいかなぁ？」%K%P
-Hey, there was something I was curious about... do you mind if I ask?
+Hey, there was something I was curious about... Do you mind if I ask?
 心「请问，我有一件事情很在意，可以提出来吗？」
 RU PLACEHOLDER
 
@@ -745,12 +753,12 @@ What is it?
 RU PLACEHOLDER
 
 こころ「ゆにくん、さっき『かごめ歌』の中で『夜明けの%TS002晩%TEに』って唄ってたでしょう？」%K%P
-When you were singing the Kagome Song earlier: you sang "yoake no ban"――"%TS002evening%TE lit by the dawn," right?
+When you were singing the Kagome Song earlier, you sang 『yoake no ban』――『%TS002evening%TE lit by the dawn』, right?
 心「悠尼刚才的“笼鸟歌”中不是有唱到“黎明时分的%TS002夜%TE晚”吗？」
 RU PLACEHOLDER
 
 こころ「私の記憶が正しければ、確かあそこの歌詞は『月夜の晩に』だったと思うんだけど……」%K%P
-If I remember correctly... I think that part should be "tsukiyo no ban"――"evening lit by the moonlight"...
+If I remember correctly... I think that part should be 『tsukiyo no ban』――『evening lit by the moonlight』...
 心「如果我记得没错的话，那里的歌词应该是“在月夜的晚上”才对……」
 RU PLACEHOLDER
 
@@ -760,7 +768,7 @@ Evening lit by the moonlight?
 RU PLACEHOLDER
 
 こころ「そう。だって『夜明けの晩』じゃ、意味が通らないじゃない」%K%P
-Right. Because "evening lit by the dawn" doesn't really make much sense, does it?
+Right. Because 『evening lit by the dawn』 doesn't really make much sense, does it?
 心「对。因为如果是“黎明时分的夜晚”的话，意思不就说不通了嘛」
 RU PLACEHOLDER
 
@@ -775,12 +783,12 @@ So is that the way you sang it when you were a kid, Onee-chan?
 RU PLACEHOLDER
 
 『夜明けの晩に』と唄っていた
-I sang "Evening lit by the dawn"
+I sang 「Evening lit by the dawn」
 是唱“黎明时分的夜晚”
 RU PLACEHOLDER
 
 『月夜の晩に』と唄っていた
-I sang "Evening lit by the moonlight"
+I sang 「Evening lit by the moonlight」
 是唱“在月夜的晚上”
 RU PLACEHOLDER
 
@@ -790,12 +798,12 @@ I didn't sing it as a child
 RU PLACEHOLDER
 
 こころ「ううん……『夜明けの晩に』って唄ってた」%K%P
-No... come to think of it, I did sing it "evening lit by the dawn."
+No... come to think of it, I did sing it 『evening lit by the dawn』.
 心「不……是唱“黎明时分的夜晚”」
 RU PLACEHOLDER
 
 ゆに「じゃあどうして『月夜の晩』だと思ったの？」%K%P
-Then why did you think it went "evening lit by the moonlight"?
+Then why did you think it went 『evening lit by the moonlight』?
 悠尼「那为什么会觉得是“在月夜的晚上”呢？」
 RU PLACEHOLDER
 
@@ -810,7 +818,7 @@ Yup!
 RU PLACEHOLDER
 
 私は大きくうなずいた。%K%P
-I gave a confident nod.
+I give a confident nod.
 我用力的点了点头。
 RU PLACEHOLDER
 
@@ -830,7 +838,7 @@ I don't really remember a lot of stuff I used to do when I was little...
 RU PLACEHOLDER
 
 ゆに「じゃあどうして『月夜の晩』だと思ったの？」%K%P
-Then why did you think it went "evening lit by the moonlight"?
+Then why did you think it went 『evening lit by the moonlight』?
 悠尼「那为什么会觉得是“在月夜的晚上”呢？」
 RU PLACEHOLDER
 
@@ -845,32 +853,32 @@ Hmm...
 RU PLACEHOLDER
 
 ゆに「でも、あそこのところは『夜明けの晩』であってると思うよ？」%K%P
-But I think "evening lit by the dawn" is how it should be.
+But I think 『evening lit by the dawn』 is how it should be.
 悠尼「但是，我觉得那里应该是“黎明时分的夜晚”没错喔」
 RU PLACEHOLDER
 
 ゆには指先のささくれをいじりながら続けた。%K%P
-Yuni said so while picking at the chipped nail of one of his fingers.
+Yuni says so while picking at the chipped nail of one of his fingers.
 悠尼边玩着手指边继续说道。
 RU PLACEHOLDER
 
 ゆに「だって、すぐあとの歌詞には『鶴と亀』『後ろの正面』っていうのがあるじゃん？」%K%P
-Because, after that, the next lines go "tsuru to kame"――"crane and turtle," "ushiro no shoumen"――"right behind you"――"in front of your back," right?
+Because, after that, the next lines go 『tsuru to kame』――『crane and turtle』, 『ushiro no shoumen』――『right behind you』――『in front of your back』, right?
 悠尼「因为，紧接其后的歌词里不是有“鹤和龟”“后面和前面”嘛？」
 RU PLACEHOLDER
 
 ゆに「『夜明け』と『晩』」%K%P
-"Dawn" and "evening."
+『Dawn』 and 『evening』.
 悠尼「“黎明”和“夜晚”」
 RU PLACEHOLDER
 
 ゆに「『鶴』と『亀』」%K%P
-"Crane" and "turtle."
+『Crane』 and 『turtle』.
 悠尼「“鹤”和“龟”」
 RU PLACEHOLDER
 
 ゆに「『後ろ』と『正面』」%K%P
-"The back" and "the front."
+『The back』 and 『the front』.
 悠尼「“后面”和“前面”」
 RU PLACEHOLDER
 
@@ -890,22 +898,22 @@ This whole world is made up of elements that contradict each other, but at the s
 RU PLACEHOLDER
 
 ゆに「『かごめ歌』の主題はまさにこれ」%K%P
-I think that is what the Kagome Song tries to say.
+I think that's what the Kagome Song tries to say.
 悠尼「“笼鸟歌”的主题也正是如此」
 RU PLACEHOLDER
 
 ゆに「だから『月夜の晩』よりも『夜明けの晩』の方がふさわしいんだよ」%K%P
-That's why "evening lit by the dawn" would be much more fitting there than "evening lit by the moonlight."
+That's why 『evening lit by the dawn』 would be much more fitting there than 『evening lit by the moonlight』.
 悠尼「所以比起“在月夜的晚上”，“黎明时分的夜晚”更合适」
 RU PLACEHOLDER
 
-こころ「う～ん、なるほどねぇ～」%K%P
-Hmmm～, I see～
+こころ「う〜ん、なるほどねぇ〜」%K%P
+Hmm〜, I see〜
 心「唔～原来如此～」
 RU PLACEHOLDER
 
 私は思わずうなってしまった。%K%P
-I groaned without noticing.
+I groan involuntarily.
 我不禁点头首肯。
 RU PLACEHOLDER
 
@@ -925,17 +933,17 @@ Mysteries? What kind of mysteries?
 RU PLACEHOLDER
 
 ゆに「えっと……そうだなぁ……」%K%P
-Well... let's see...
+Well... Let's see...
 悠尼「呃……我想想……」
 RU PLACEHOLDER
 
 ゆに「例えば、そもそも『かごめ』とは何を意味してるのか？」%K%P
-For example, just what does "kagome" mean?
+For example, just what does 『kagome』 mean?
 悠尼「比如说，其实“笼中鸟”意味着什么呢？」
 RU PLACEHOLDER
 
 ゆに「『籠の中の鳥』が象徴するものとはいったい何なのか？」%K%P
-What is the symbolism behind of "the bird within the cage"?
+What is the symbolism behind 『the bird within the cage』?
 悠尼「“笼中鸟”到底象征着什么呢？」
 RU PLACEHOLDER
 
@@ -950,17 +958,17 @@ And then there's the...
 RU PLACEHOLDER
 
 ゆに「うしろのしょーめんだーれ？」%K%P
-"Who's that behi――ind you?"
+『Who's that behi――ind you?』
 悠尼「猜猜身后是何人」
 RU PLACEHOLDER
 
 そのフレーズをくちずさむと、ゆには丸いメガネをそっとはずした。%K%P
-As he hummed that phrase, Yuni took off his glasses.
+As he utters that phrase, Yuni takes off his glasses.
 嘴里随心的咏唱着歌词，悠尼突然脱下了圆圆的眼镜。
 RU PLACEHOLDER
 
 左右の手のひらで自らのまぶたを覆いくるりと背中を向ける。%K%P
-He covered his eyes with his own hands and turned around.
+He covers his eyes with his own hands and turns around.
 然后用左右手掌捂住自己的眼睛，转过身去。
 RU PLACEHOLDER
 
@@ -970,12 +978,12 @@ Right now, I can't see anything at all.
 RU PLACEHOLDER
 
 ゆに「人間が五感によって外部から入手できる情報のうち、およそ８割は視覚に依存してると言われてるよね？」%K%P
-They say that out of all our senses, sight is responsible for eight tenths of all the information that we humans gather, you know.
+They say that out of all our senses, sight is responsible for 80％ of all the information that we humans gather, you know.
 悠尼「据说人类借由五感从外部得到的情报中，有大约八成是依靠视觉」
 RU PLACEHOLDER
 
 ゆに「つまり今のぼくは、身のまわりで起きている様々な現象のうちの２割しか認識できないってこと」%K%P
-That means that right now, I'm only able to feel a mere two tenths of everything that's occurring around me with my other senses.
+That means that right now, I'm only able to experience a mere 20％ of everything that's occurring around me with my other senses.
 悠尼「也就是说现在的我，只能认识到身边所发生的各种现象的大约两成」
 RU PLACEHOLDER
 
@@ -1000,17 +1008,17 @@ Until I open my eyes and turn around, what's behind me is... still undecided...
 RU PLACEHOLDER
 
 ゆにが私の顔を見れないのと同じように、私も彼の表情をうかがうことはできなかった。%K%P
-Just as Yuni was unable to see my face, I was unable to see what kind of expression he had on his.
+Just as Yuni is unable to see my face, I'm unable to see what kind of expression he has on his.
 就像悠尼看不到我的表情一般，我也无法窥探他的表情。
 RU PLACEHOLDER
 
 彼の背中だけをじっと見つめる。%K%P
-I was only able to see his back.
+I'm only able to see his back.
 我目不转睛地看着悠尼的后背。
 RU PLACEHOLDER
 
 とても小さなその背中を……。%K%P
-A small back....
+A small back...
 那窄小的背脊……
 RU PLACEHOLDER
 
@@ -1020,22 +1028,22 @@ How old are you, anyway?
 RU PLACEHOLDER
 
 しばしの沈黙を経て、私は言った。%K%P
-After a slight pause, I asked him that.
+After a slight pause, I ask him that.
 沉默了一段时间后，我这么说道。
 RU PLACEHOLDER
 
 ゆに「１１」%K%P
-11.
+Eleven.
 悠尼「１１」
 RU PLACEHOLDER
 
 ゆにが目隠しをしたまま振り返る。%K%P
-Yuni turned around with his eyes still covered.
+Yuni turns around with his eyes still covered.
 悠尼捂着眼睛转过身来。
 RU PLACEHOLDER
 
 中指と薬指の隙間から、ふたつの瞳がのぞいていた。%K%P
-Then he peered at me through his fingers.
+Then he peers at me through his fingers.
 两只眼眸从中指和食指的缝隙间窥视着我。
 RU PLACEHOLDER
 
@@ -1055,57 +1063,57 @@ His cheeks lift into a broad smile as he laughs.
 RU PLACEHOLDER
 
 まだあどけなさの残るその笑顔は確かに１１歳のそれだった。%K%P
-His smile was certainly that of an 11-year-old.
+His smile is certainly that of an eleven-year-old.
 还残留着稚气的那张笑容,确实是１１岁的代表。
 RU PLACEHOLDER
 
 耳を澄ますと風の歌が聞こえた。%K%P
-Straining my ears, ''I'' could still hear the sound of the wind.
+Straining my ears, 'I' can still hear the sound of the wind.
 侧耳倾听，风之歌传入耳中。
 RU PLACEHOLDER
 
 外はまだ吹雪いているのだろう。%K%P
-Outside, the snow was still blowing violently about.
+Outside, the snow is still blowing violently about.
 外面依然是暴风雪吧。
 RU PLACEHOLDER
 
 俺は息を殺して鉄扉の前に立った。%K%P
-''I'' held my breath as ''I'' stood in front of an iron door.
+'I' hold my breath as 'I' stand in front of the iron door.
 自己屏声静气地站在铁门前。
 RU PLACEHOLDER
 
 小さな発光ダイオードが闇の中に赤々とにじんでいる。%K%P
-Beside the door, a small red light was blinking in the darkness.
+Beside the door, a small red light is blinking in the darkness.
 小小的发光二极管在黑暗中透出红色。
 RU PLACEHOLDER
 
 扉の施錠を制御するカードリーダー。%K%P
-The card reader that controlled the lock on the door.
+The card reader that controls the lock on the door.
 控制门锁的读卡机。
 RU PLACEHOLDER
 
 赤い光はロックされていることを示していた。%K%P
-The treacherous red light gave away its location.
+The red light indicates that it's locked.
 红光表示门已被锁。
 RU PLACEHOLDER
 
 ポケットに手を差し入れて１枚のカードを取り出す。%K%P
-''I'' put my hand in my pocket and pulled out a single key card.
+'I' put my hand in my pocket and pull out a single key card.
 自己将手伸入口袋，取出一枚卡片。
 RU PLACEHOLDER
 
 %LC%FS『ＳＡＴＯＲＵ　ＹＵＫＩＤＯＨ』%FE%N
-『ＳＡＴＯＲＵ　ＹＵＫＩＤＯＨ』
+SATORU YUKIDOH
 『ＳＡＴＯＲＵ　ＹＵＫＩＤＯＨ』
 RU PLACEHOLDER
 
 %LC%FS『１３３１　２２２３　９８０１』%FE%K%P
-『１３３１　２２２３　９８０１』
+1331 2223 9801
 『１３３１　２２２３　９８０１』
 RU PLACEHOLDER
 
 凸型に刻まれた文字を指先でなぞる。%K%P
-''I'' traced the engraved letters with my fingertip.
+'I' trace the engraved letters with my fingertip.
 自己用指尖抚过凸起的文字。
 RU PLACEHOLDER
 
@@ -1115,37 +1123,37 @@ Yukidoh Satoru...
 RU PLACEHOLDER
 
 それが俺の名前……。%K%P
-That is my name....
+That is my name...
 那便是自己的名字……
 RU PLACEHOLDER
 
 俺は自分の名前があまり好きではなかった。%K%P
-''I'' haven't ever really liked my name that much.
+'I' haven't ever really liked my name that much.
 并不怎么喜欢这个名字。
 RU PLACEHOLDER
 
 カードを指にからませてくるりとまわす。%K%P
-''I'' twirled the card in my fingers and spun it around.
+'I' twirl the card in my fingers and spin it around.
 抓住卡片，将它转过一面。
 RU PLACEHOLDER
 
 リーダーの溝にそれを差し込み流れるように滑らせた。%K%P
-''I'' inserted it into the reader's slot and let it slide through.
+'I' insert it into the reader's slot and let it slide through.
 沿着读卡机的槽流畅地划过。
 RU PLACEHOLDER
 
 ダイオードの色が青へと変わる。%K%P
-The light on the card reader turned green.
+The light on the card reader turns green.
 二极管的颜色变成了蓝色。
 RU PLACEHOLDER
 
 微かに開いた扉の隙間……。%K%P
-The lock opened and the door opened just the slightest crack....
+The door opens just the slightest crack...
 微微敞开的门缝……
 RU PLACEHOLDER
 
 俺は導かれるように闇の奥へと進んでいった。%K%P
-''I'' pushed it open and stepped into the darkness, as if drawn by something.
+'I' push it open and step into the darkness, as if drawn by something.
 自己如同被引导一般朝着黑暗的深处前进。
 RU PLACEHOLDER
 
@@ -1155,43 +1163,44 @@ Kokoron is twenty, isn't she?
 RU PLACEHOLDER
 
 ふいに、ゆにはそんなことを言った。%K%P
-Yuni suddenly said.
+Yuni suddenly says that.
 悠尼突然这么说道。
 RU PLACEHOLDER
 
 あまりにもしつこく付きまとってくるものだから、私は彼に名前（冬川こころ）だけは教えていた。%K%P
-As he was asking so persistently, I ended up telling him my name (Fuyukawa Kokoro).
+I've ended up telling him my name (Fuyukawa Kokoro) due to his persistence.
 因为实在是太过缠人，所以我把名字（冬川心）告诉了他。
 RU PLACEHOLDER
 
 けれど年齢に関しては、その手がかりとなることすら話していない。%K%P
-However, I hadn't said anything, not so much as a single clue, that would have allowed him to guess my age.
+However, I haven't said anything, not so much as a single clue, that would have allowed him to guess my age.
 但是与年龄相关的线索我丝毫都没有提起过。
 RU PLACEHOLDER
 
 こころ「ど、どうしてわかったの？」%K%P
-H, how do you know?
+H-How do you know?
 心「为、为什么你会知道？」
 RU PLACEHOLDER
 
-ゆに「ふふ～ん、すごい？」%K%P
-Hehe～, impressed?
+ゆに「ふふ〜ん、すごい？」%K%P
+Hehe〜, impressed?
 悠尼「哼哼～厉害吧？」
 RU PLACEHOLDER
+
 //[CHN]Here's another sentence, but I didn't see it.
 
 こころ「ねえ？　どうして年齢がわかったのか教えてよ？」%K%P
-Hey?! Tell me how did you guess how old I am?
+Hey, tell me. How did you guess how old I am?
 心「喂，你是怎么知道我的年龄的？快告诉我呀」
 RU PLACEHOLDER
 
 私は手短に自己紹介を済ませてから、ゆにを隣の座席に招き入れた。%K%P
-I gave a brief self-introduction and Yuni slipped into the seat beside mine.
+After briefly introducing myself, I let Yuni into the seat next to mine.
 我做了简短的自我介绍后，让悠尼坐到了我的旁边。
 RU PLACEHOLDER
 
-ゆに「ふふ～ん、すごいでしょう？」%K%P
-Fufu～n, impressive, right?
+ゆに「ふふ〜ん、すごいでしょう？」%K%P
+Fufu〜n, impressive, right?
 悠尼「嘿嘿～厉害吧？」
 RU PLACEHOLDER
 
@@ -1201,32 +1210,32 @@ Kokoron is twenty, isn't she?
 RU PLACEHOLDER
 
 それは自己紹介を済ませた直後のことだった。%K%P
-That's what he said right after I had introduced myself.
+That's what he says right after I introduce myself.
 这是在做完自我介绍之后的事。
 RU PLACEHOLDER
 
 私は彼に名前（冬川こころ）を告げ、これから向かう目的地について軽く話していた。%K%P
-I had told him my name (Fuyukawa Kokoro), and then had a little chat with him about the place of our destination.
+I told him my name (Fuyukawa Kokoro), and then had a little chat with him about our destination.
 我把自己的名字（冬川心）告诉了他，然后稍微说了一些我们前往的目的地的事情。
 RU PLACEHOLDER
 
 けれど年齢に関しては、その手がかりとなることすら教えていない。%K%P
-However, I hadn't given him any hints or clues that would help him to guess my age like that.
+However, I haven't given him any hints or clues that would help him to guess my age like that.
 但是与年龄相关的线索我丝毫都没有提起过。
 RU PLACEHOLDER
 
 こころ「ど、どうしてわかったの？」%K%P
-H, how do you know?
+H-How do you know?
 心「为、为什么你会知道？」
 RU PLACEHOLDER
 
-ゆに「ふふ～ん、すごい？」%K%P
-Fufu～, impressed?
+ゆに「ふふ〜ん、すごい？」%K%P
+Fufu〜, impressed?
 悠尼「哼哼～厉害吧？」
 RU PLACEHOLDER
 
 ゆには座席にふんぞり返ると得意気に鼻を鳴らした。%K%P
-Yuni threw his head back onto the seat and made a sound with his nose.
+Yuni throws his head back onto the seat and makes a sound with his nose.
 悠尼仰在座椅上，得意地哼着。
 RU PLACEHOLDER
 
@@ -1235,13 +1244,13 @@ Maybe I'm psychic?
 悠尼「也许是超能力哦？」
 RU PLACEHOLDER
 
-こころ「とぼけてないで教えてよぉ～」%K%P
-Come on, stop playing around and tell meee～
+こころ「とぼけてないで教えてよぉ〜」%K%P
+Come on, stop playing around and tell meee〜
 心「不要装傻，快告诉我啊～」
 RU PLACEHOLDER
 
-ゆに「う～ん……そうだなぁ……」%K%P
-Hmm... let's see...
+ゆに「う〜ん……そうだなぁ……」%K%P
+Hmm... Let's see...
 悠尼「嗯～……这个嘛……」
 RU PLACEHOLDER
 
@@ -1256,12 +1265,12 @@ A favor?
 RU PLACEHOLDER
 
 ゆに「あのね？　ぼく……ギュンッていうのが苦手なの」%K%P
-You see... I'm not really good with... the "zoom."
+You see... I'm not really good with... the 『zoom』.
 悠尼「那个，我……受不了“揪”地一下」
 RU PLACEHOLDER
 
 ゆに「ギュンッて、ギュンッて、するときあるでしょ？」%K%P
-"Zoom"――there's a part where it goes "zoom," right?
+『Zoom』――there's a part where it goes 『zoom』, right?
 悠尼「有的时候不是会“揪”地一下吗？」
 RU PLACEHOLDER
 
@@ -1276,7 +1285,7 @@ Well, you know, right?
 RU PLACEHOLDER
 
 ゆに「着陸のときとかに、急激に高度が下がってギュンッて……重力がなくなるときあるじゃーん」%K%P
-When the plane begins to land, it descends rapidly with a "zoom." And there's a point when you feel light... as if gravity disappears.
+When the plane begins to land, it descends rapidly with a 『zoom』. And there's a point when you feel light... as if gravity disappears.
 悠尼「着陆时，高度急速下降，就会“揪”地一下……有失去重力的感觉不是吗？」
 RU PLACEHOLDER
 
@@ -1291,7 +1300,7 @@ So, when this plane starts descending...
 RU PLACEHOLDER
 
 うわめづかいに私を見ながら、ゆには続けた。%K%P
-Looking at me with upturned eyes, Yuni continued.
+Looking at me with upturned eyes, Yuni continues.
 抬头望着我，悠尼继续说道。
 RU PLACEHOLDER
 
@@ -1301,17 +1310,17 @@ Would you... hold my hand?
 RU PLACEHOLDER
 
 私は思わず吹き出しそうになった。%K%P
-Unconsciously, I burst out laughing.
+I almost burst out laughing.
 我险些不由自主地放声大笑起来。
 RU PLACEHOLDER
 
 けれどゆにの表情は深刻で、冷やかしや揶揄の類は一切受けつけそうもない。%K%P
-However, the expression on Yuni's face was so serious that making fun of him just didn't seem right.
+However, the expression on Yuni's face is so serious that making fun of him just doesn't seem right.
 可是悠尼的表情却很严肃，看来嘲讽和揶揄之类的是完全不会接受了。
 RU PLACEHOLDER
 
 ませた言葉づかいをしながらも、彼はやっぱり子どもなのだ、と私は思った。%K%P
-Even though his words, at times, showed wisdom beyond his years, inside he was still just a child.
+Even though his words, at times, show wisdom beyond his years, inside he's still just a child.
 虽然措辞有些老成，但他终究是个孩子啊。
 RU PLACEHOLDER
 
@@ -1321,12 +1330,12 @@ Well, if that's all it is, then be my guest.
 RU PLACEHOLDER
 
 ゆに「ほんとに！？」%K%P
-Really?!
+Really!?
 悠尼「真的！？」
 RU PLACEHOLDER
 
-こころ「とは言え、私の身体に触れることができる男の子なんて滅多にいないんだからねぇ～」%K%P
-That being said, there aren't many boys that are allowed to touch me as they please, you know～
+こころ「とは言え、私の身体に触れることができる男の子なんて滅多にいないんだからねぇ〜」%K%P
+That being said, there aren't many boys that are allowed to touch me as they please, you know〜
 心「不过，有幸碰到我的身体的男孩子可是寥寥无几呢～」
 RU PLACEHOLDER
 
@@ -1336,22 +1345,22 @@ So be grateful!
 RU PLACEHOLDER
 
 ゆにの頭を軽く小突くと、彼は照れくさそうに頬を赤らめながら私の腕に飛びついてきた。%K%P
-I gave his head a little poke, and he blushed as he jumped into my arms.
+I give his head a little poke, and he blushes as he jumps into my arms.
 我轻轻地点了一下悠尼的脑袋。他羞涩地红着脸扑入我的双臂。
 RU PLACEHOLDER
 
 やれやれ……『袖すりあうも他生の縁』か……。%K%P
-My my... so was his grabbing onto my sleeve a result of karma from a previous life...?
+My, my... 「Everyone you come into contact with, it's thanks to your spiritual karma」... right?
 唉……“萍水相逢亦是缘”吗……
 RU PLACEHOLDER
 
 私の他生にはいったい何があったというのだろう。%K%P
-Just what exactly had happened in my past life, I wonder?
+Just what exactly happened in my past life, I wonder?
 我的前世到底是做了什么？
 RU PLACEHOLDER
 
 やれやれ……。%K%P
-Oh well....
+Oh well...
 真是……
 RU PLACEHOLDER
 
@@ -1366,12 +1375,12 @@ You were about to tell me how you knew my age, right?
 RU PLACEHOLDER
 
 ゆに「あ、ああ、うん、えっとぉ……」%K%P
-A, ah, yes, well...
+A-Ah, yes, well...
 悠尼「啊，嗯，这个……」
 RU PLACEHOLDER
 
 言いながら、ゆには身体を引き剥がし、片腕を私の後頭部に伸ばした。%K%P
-When he said that, Yuni let go of my sleeve and stretched his arm behind my head.
+When he says that, Yuni pulls away from me and stretches his arm behind my head.
 说着，悠尼离开我的身体，单手伸到我的后脑。
 RU PLACEHOLDER
 
@@ -1386,27 +1395,27 @@ This was stuck in Kokoron's hair, so...
 RU PLACEHOLDER
 
 つかみ取った何かをヒラヒラと揺らして見せる。%K%P
-In his hand was a fluttering object, which he presented to me.
+In his hand is a fluttering object, which he presents to me.
 将取下的东西在我眼前摇着。
 RU PLACEHOLDER
 
 ゆにの指先がつまんでいたもの――。%K%P
-The object Yuni was holding between his fingers was――
+The object Yuni is holding between his fingers――
 悠尼的指尖捏住的东西——
 RU PLACEHOLDER
 
 それは綿毛のようにふわふわとした小さな白い羽だった。%K%P
-A small white feather, as light and soft as down.
+It's a small white feather, as soft as down.
 是如同棉花一般轻柔的小小的羽毛。
 RU PLACEHOLDER
 
 %TS104Ｒ%TEの小さな螺旋階段が上へ上へと続いている。%K%P
-%TS104Ｒ%TE section's small, spiraling stairs continued higher and higher up.
+%TS104Ｒ%TE section's small, spiraling stairs continue higher and higher up.
 %TS104Ｒ%TE的螺旋台阶向上延伸。
 RU PLACEHOLDER
 
 まるで巨大なウワバミの背鱗を歩いているようだった。%K%P
-It felt as if ''I'' was walking up the scales of a giant constrictor snake.
+It feels as if 'I''m walking up the scales of a giant constrictor snake.
 仿佛走在巨大蟒蛇的背鳞上一般。
 RU PLACEHOLDER
 
@@ -1416,7 +1425,7 @@ A constrictor snake which had wrapped itself around a huge column as it desperat
 RU PLACEHOLDER
 
 足を進めるたびに鉄の鱗が冷たい音を奏でた。%K%P
-Its iron scales made sharp, cold sounds as my feet continued on their journey.
+Its iron scales make sharp, cold sounds as my feet continue on their journey.
 每进一步，铁鳞便奏起冰冷的音符。
 RU PLACEHOLDER
 
@@ -1426,45 +1435,52 @@ RU PLACEHOLDER
 And David played with his hand, as at other times...
 大卫在弹琴……
 RU PLACEHOLDER
+
 %N
+
 %LCサウルの手には槍があった……%K%P
 And there was a javelin in Saul's hand...
 扫罗手中举枪……
 RU PLACEHOLDER
+
 %N
+
 %LCサウルは槍を投げつけて……%K%P
-And Saul cast the javelin; for he said...
+And Saul cast the javelin, for he said...
 扫罗将枪投出……
 RU PLACEHOLDER
+
 %N
+
 %LCわたしはダビデを壁にでも……%K%P
 I will smite David even to the wall with it...
 心想“自己要将大卫钉在墙上”……
 RU PLACEHOLDER
+
 //changed all this to the direct Bible verse as quoted on the top page. - the_paper
 //old: David was playing the harp... / And there was a javelin in Saul's hands... / And Saul cast the javelin.../ I shall pin David to the wall...
 
 くちからもれたその声は、自分のものとは思えなかった。%K%P
-''I'' didn't think of the words coming out of my mouth as my own.
+'I' don't think of the words coming out of my mouth as my own.
 无法相信那是自己发出的话语。
 RU PLACEHOLDER
 
 誰かが俺の耳元で、ささやいているような気さえした。%K%P
-It was as if some spirit was whispering them into my ear.
+It's as if some spirit is whispering them into my ear.
 甚至感觉，那是有人在我耳边窃窃私语。
 RU PLACEHOLDER
 
 %N
 
 %LC俺はダビデを突き刺してやる……%K%P
-''I'' will smite David...
+'I' will smite David...
 自己要将大卫刺穿……
 RU PLACEHOLDER
 
 %N
 
 %LCたとえ再びかわされようと……%K%P
-Even if he avoided it twice...
+Even if he avoids me again...
 即使会再次被躲过……
 RU PLACEHOLDER
 
@@ -1473,7 +1489,7 @@ RU PLACEHOLDER
 //This didn't need to be changed. It's not a quote, but (uhm...spoilers?) refers to the will of 俺. Dunno how to be more indirect...
 
 出口が近づいていた。ウワバミに頭はなかった。%K%P
-The entrance ''I'' was looking for was near. Thankfully, this constrictor ''I'' was making my way up on didn't have a head.
+The entrance 'I''m looking for is near. Thankfully, this constrictor 'I''m making my way up doesn't have a head.
 出口接近了。这条蟒蛇并没有头。
 RU PLACEHOLDER
 
@@ -1483,17 +1499,17 @@ Perhaps, before it could finally strangle its prey, its head was cut off...
 RU PLACEHOLDER
 
 時計台の歯車が不気味な音をたてていた。%K%P
-The cogwheels of the clock tower made an eerie noise.
+The cogwheels of the clock tower make an eerie noise.
 钟楼的齿轮散发着诡异的声音。
 RU PLACEHOLDER
 
 カタカタと……カタカタと……。%K%P
-Rattle... rattle....
+Rattle... Rattle...
 咔嗒咔嗒……咔嗒咔嗒……
 RU PLACEHOLDER
 
 悠久の時を操る呪文のように聞こえた。%K%P
-It sounded as if a spell was being cast, one to take control over time for all eternity.
+It sounds as if a spell is being cast, one to take control over time for all eternity.
 听起来像是操纵亘古时间的咒文。
 RU PLACEHOLDER
 
@@ -1518,7 +1534,7 @@ Yes, it was on the back of your head.
 RU PLACEHOLDER
 
 この羽がどうして付いていたのか、私には心当たりがなかった。%K%P
-I had no idea why a feather would be there.
+I have no idea why a feather would be there.
 这个羽毛是怎么粘上的，我一点头绪都没有。
 RU PLACEHOLDER
 
@@ -1528,7 +1544,7 @@ Kokoron, you didn't take a bath yesterday, did you?
 RU PLACEHOLDER
 
 こころ「失礼ねぇ、ちゃんと入ったわよ」%K%P
-Hey, that's quite rude of you, you know? And for your information, I'm pretty sure I DID take a bath yesterday.
+Hey, that's pretty rude. And for your information, I DID take a bath yesterday.
 心「真没礼貌，我当然好好地洗澡了啊」
 RU PLACEHOLDER
 
@@ -1553,7 +1569,7 @@ It's from a lack of sleep, isn't it?
 RU PLACEHOLDER
 
 そう言って、ゆにはポケットから鏡を取り出すと、鏡面を私の方に向けた。%K%P
-Saying that, Yuni took out a mirror from his pocket and placed it right in front of my face.
+Saying that, Yuni takes out a mirror from his pocket and places it right in front of my face.
 说着，悠尼从口袋中取出镜子，将镜面朝向我。
 RU PLACEHOLDER
 
@@ -1563,22 +1579,22 @@ Right?
 RU PLACEHOLDER
 
 ゆにが指摘した通り、私のまぶたは少しだけ赤みを帯びていた。%K%P
-Just as Yuni had said, my eyelids showed a slight tinge of red.
+Just as Yuni says, my eyelids show a slight tinge of red.
 就如同悠尼所说的，我的眼皮略微有些红肿。
 RU PLACEHOLDER
 
 寝不足であることは事実だったのだ。%K%P
-It was true that I didn't get much sleep last night.
+It is true that I didn't get much sleep last night.
 睡眠不足倒是事实。
 RU PLACEHOLDER
 
 ゆうべはこの旅の準備で忙しかったし、それに……。%K%P
-Last night I was in a rush to prepare for this trip, and....
+Last night, I was in a rush to prepare for this trip, and...
 昨晚一直忙着为今天的旅程做准备，而且……
 RU PLACEHOLDER
 
 『彼女』に会う前にできるだけ多くの情報を頭にたたき込んでおく必要もあった。%K%P
-Before I could meet "her," I wanted to fill my head with as much information as possible.
+Before I could meet 「her」, I wanted to fill my head with as much information as possible.
 在与“她”会面之前，也有必要将尽可能多的情报灌入脑内。
 RU PLACEHOLDER
 
@@ -1596,6 +1612,7 @@ RU PLACEHOLDER
 But how do this and that have anything to do with one another?
 心「可是，这和那个又有什么关系？」
 RU PLACEHOLDER
+
 //old: But what could those two things possibly have to do with each other? <<there are more than 2 things in context here, and no 2 things have ever been juxtaposed in their previous conversation anyway - so the more general expression should be used -vtiger
 
 こころ「羽と年齢の話はいったいどうなっちゃったわけ？」%K%P
@@ -1614,7 +1631,7 @@ I'll explain everything in order, okay?
 RU PLACEHOLDER
 
 ゆにはふたつ折りの鏡をパタリと閉め、ポケットにしまった。%K%P
-Yuni snapped the folding mirror shut and slipped it back into his pocket.
+Yuni snaps the folding mirror shut and slips it back into his pocket.
 悠尼将折叠式镜子合上，收进口袋。
 RU PLACEHOLDER
 
@@ -1633,8 +1650,8 @@ It's January 11th, 2011. Tuesday.
 心「２０１１年１月１１日星期二」
 RU PLACEHOLDER
 
-ゆに「ＯＫ～」%K%P
-OK～
+ゆに「ＯＫ〜」%K%P
+OK〜
 悠尼「ＯＫ～」
 RU PLACEHOLDER
 
@@ -1659,7 +1676,7 @@ Now then, that's where this feather comes in.
 RU PLACEHOLDER
 
 先程の羽を手のひらで踊らせながら、ゆには言葉をつないだ。%K%P
-Yuni said, as the feather danced on the palm of his hand.
+Yuni says as the feather dances on the palm of his hand.
 悠尼手中摆弄着先前的那片羽毛，接着说道。
 RU PLACEHOLDER
 
@@ -1724,7 +1741,7 @@ Being carried along on a buoyant mood like that...
 RU PLACEHOLDER
 
 ゆに「式を終えたこころんは、かつてつるんでいた仲良しグループに誘われるがまま２次会へと赴いた」%K%P
-So as the ceremony was coming to an end, you went to an after-party with another group of close friends.
+So, as the ceremony was coming to an end, you went to an after-party with another group of close friends.
 悠尼「心在式典结束后，被曾经的好友们邀请，参加了二次会」
 RU PLACEHOLDER
 
@@ -1737,6 +1754,7 @@ RU PLACEHOLDER
 When the first after-party's over, it's on to the second, and then the third, and then the fourth... and before you know it, the sun is rising in the eastern sky.
 悠尼「二次会最终变成了三次会，三次会变成四次会，四次会变五次……等到发觉时，东方的天空已经明亮起来」
 RU PLACEHOLDER
+
 //A nijikai (２次会) is the second event/after party following the main event/enkai (宴会); the next one is the sanjikai, and so on. - the_paper
 //now this sentence finally makes some sense to me; we just need to take them down a notch, since the first after-party would be considered the 1st event here -vtiger
 
@@ -1756,17 +1774,17 @@ So, whaddaya think? I got all of it right, didn't I?
 RU PLACEHOLDER
 
 矢継ぎ早に告げられたそれらの言葉に、私は思わず閉口した。%K%P
-Hearing all those statements in such quick succession left me feeling embarrassed long before I fully noticed it myself.
+Hearing all those statements in such quick succession leaves me feeling embarrassed long before I fully notice it myself.
 面对那接连不断的话语，我不禁哑口无言。
 RU PLACEHOLDER
 
 ゆにの瞳はらんらんと輝き、頬はほのかに上気している。%K%P
-Yuni's eyes were sparkling and his cheeks were flushed with red.
+Yuni's eyes are sparkling, and his cheeks are flushed with red.
 悠尼的眼睛闪着光辉，面色火红。
 RU PLACEHOLDER
 
 こころ「はぁ……１枚の羽からよくそんな妄想が思いつくわね？」%K%P
-Hah... it's amazing how far you took this wild delusion based on a single feather.
+Hah... It's amazing how far you took this wild delusion based on a single feather.
 心「唉……区区一片羽毛，亏你能编起那一串妄想呢」
 RU PLACEHOLDER
 
@@ -1781,32 +1799,32 @@ It's an extremely logical deduction!
 RU PLACEHOLDER
 
 こころ「なるほどぉ、自信満々だぁー」%K%P
-I see... so you're quite confident, aren't you.
+I see... So you're quite confident, aren't you?
 心「原来如此。胸有成竹呢」
 RU PLACEHOLDER
 
 ゆに「まあね」%K%P
-I guess～
+I guess〜
 悠尼「是啊」
 RU PLACEHOLDER
 
 こころ「だけど、その『極めて論理的な推理』ってやつは……」%K%P
-However, that "extremely logical deduction" is actually...
+However, that 『extremely logical deduction』 is actually...
 心「可是，那个所谓的“极其合理的推理”……」
 RU PLACEHOLDER
 
 こころ「残念ながら――大ハズレェーッ！――だよ？」%K%P
-Unfortunately... completely wrong～!
+Unfortunately... completely wrong〜!
 心「很可惜——完全——错误哦！」
 RU PLACEHOLDER
 
 ゆに「……えっ？」%K%P
-...Huh?
+...Eh?
 悠尼「……咦？」
 RU PLACEHOLDER
 
-こころ「だって私ぃ～、２月生まれだもん」%K%P
-Becaaaause～, I was actually born in February!
+こころ「だって私ぃ〜、２月生まれだもん」%K%P
+Becaaaause〜, I was actually born in February!
 心「因为我是２月出生的啊～」
 RU PLACEHOLDER
 
@@ -1816,37 +1834,37 @@ I had my coming of age ceremony last year♪
 RU PLACEHOLDER
 
 私がそう告げたとたん、ゆにの目は点になった。%K%P
-As soon as I said those words, Yuni's eyes opened wide, leaving two little dots where his cheerful, saucer-like pupils had been before.
+As soon as I say those words, Yuni's eyes open wide, leaving two little dots where his cheerful, saucer-like pupils had been before.
 我这么一说，悠尼的眼睛缩成了点。
 RU PLACEHOLDER
 
 くちを半開きにし、愕然としているようだ。%K%P
-His mouth was left half-open in shock.
+His mouth is left half-open in shock.
 嘴半开着，露出一副愕然的神情。
 RU PLACEHOLDER
 
 ゆに「うそーっ！　じゃあこの羽は！？　この羽は！？」%K%P
-That's a lie! Then what about this feather? What about the feather?!
+That's a lie! Then what about this feather!? What about the feather!?
 悠尼「骗人！那这个羽毛呢！？这个羽毛呢！？」
 RU PLACEHOLDER
 
 ゆに「この羽は、なんでこころんの髪に付いてたの！？」%K%P
-Why was this feather stuck in your hair?!
+Why was this feather stuck in your hair!?
 悠尼「这个羽毛为什么会粘在心的头发上！？」
 RU PLACEHOLDER
 
-こころ「さあねぇ～」%K%P
-Who knows～?
+こころ「さあねぇ〜」%K%P
+Who knows〜?
 心「谁知道啊～」
 RU PLACEHOLDER
 
 ゆに「『さあね』って……」%K%P
-"Who knows～?" you say...
+『Who knows〜?』, you say...
 悠尼「怎么说“谁知道啊”……」
 RU PLACEHOLDER
 
 こころ「あっ、でもここは雲の上だし……」%K%P
-Ah... well, after all, we are high above the clouds here...
+Ah... Well, after all, we are high above the clouds here...
 心「啊，不过这里是云彩上面……」
 RU PLACEHOLDER
 
@@ -1861,24 +1879,26 @@ An... angel?
 RU PLACEHOLDER
 
 不思議そうに呟いて、ゆには窓の外に目を向けた。%K%P
-Murmuring that in wonder, Yuni turned to look out the window.
+Murmuring that in wonder, Yuni turns to look out the window.
 不可思议地喃喃自语着，悠尼望向窗外。
 RU PLACEHOLDER
+
 // old: After muttering "how mysterious", Yuni turned around and faced the window.
 
 うろたえたゆにの姿は、電子犬を前にした仔犬みたいで可愛かった。%K%P
-His flustered appearance resembled that of a live puppy that had just come face-to-face with a robot dog, and was all the cuter for it.
+His flustered appearance is cute, resembling that of a live puppy that's just come face-to-face with a robot dog.
 悠尼狼狈的样子，就好像面对电子狗的普通小狗一样可爱。
 RU PLACEHOLDER
+
 // old: Yuni's figure, previously that of a cute and lively puppy, now resembled, for a lack of a better analogy, that of a robot dog.
 
 私はくすくすと笑ってしまった。%K%P
-I couldn't help but giggle quietly to myself.
+I can't help but giggle quietly to myself.
 我不禁嗤嗤地笑出声来。
 RU PLACEHOLDER
 
 その笑い声が耳に届いたのか、ゆにはぷるぷると首を振り……。%K%P
-My laughs reached Yuni's ears, and his neck tensed up....
+Perhaps my laughter reaches Yuni's ears, as he shakes his head quickly...
 也许是笑声传入了他的耳中，悠尼摇了摇头……
 RU PLACEHOLDER
 
@@ -1887,8 +1907,8 @@ There's no way angels could exist!
 悠尼「天使怎么可能存在嘛！」
 RU PLACEHOLDER
 
-こころ「そうかなぁ～？」%K%P
-Is that so～?
+こころ「そうかなぁ〜？」%K%P
+Is that so〜?
 心「是吗～」
 RU PLACEHOLDER
 
@@ -1918,7 +1938,7 @@ So having a logical basis for something doesn't even matter?
 RU PLACEHOLDER
 
 こころ「だからぁ『ときには』って言ったじゃない」%K%P
-Come on, I did say "once in a while," didn't I?
+Come on, I did say 『once in a while』, didn't I?
 心「我不是说“有时候”了吗？」
 RU PLACEHOLDER
 
@@ -1928,7 +1948,7 @@ If there's a logical explanation for something, then I'll believe it, but if the
 RU PLACEHOLDER
 
 ゆに「ロマンティックな方を選ぶ？」%K%P
-"...will choose the most romantic option?"
+...will choose the most romantic option?
 悠尼「选择浪漫的一方？」
 RU PLACEHOLDER
 
@@ -1938,14 +1958,15 @@ Pretty much.
 RU PLACEHOLDER
 
 ゆには虚ろな瞳で手のひらの羽をぼんやりと眺めていた。%K%P
-With a blank look on his face, Yuni gazed absentmindedly at the feather in his palm.
+With a blank look on his face, Yuni gazes absentmindedly at the feather in his palm.
 悠尼用空虚的眼神呆呆地望着掌中的羽毛。
 RU PLACEHOLDER
 
 心ここにあらずといった感じで、かたまったように動かない。%K%P
-He was utterly still, as if his soul had gone somewhere else and left his body frozen in place.
+He's utterly still, as if his soul has gone somewhere else and left his body frozen in place.
 仿佛心不在焉一般僵坐在那里，纹丝不动。
 RU PLACEHOLDER
+
 //old: It seemed almost like his heart stopped beating for a short while, and he stayed motionless as if frozen solid.
 
 ゆに「ねえ、こころん？　この羽、もらってもいい？」%K%P
@@ -1954,7 +1975,7 @@ Hey, Kokoron? Is it all right if I keep this feather?
 RU PLACEHOLDER
 
 視線をうつむけたまま、唇だけを動かす。%K%P
-His eyes were downcast; only his lips were moving.
+His eyes are downcast. Only his lips move.
 视线依旧没变，只动着嘴唇说着。
 RU PLACEHOLDER
 
@@ -1974,7 +1995,7 @@ Memento?
 RU PLACEHOLDER
 
 私が問い返すと、ゆにはパッと顔をあげて言った。%K%P
-When I asked that, Yuni raised his head.
+When I ask that, Yuni raises his head.
 我这么一反问，悠尼立刻抬起脸来说道。
 RU PLACEHOLDER
 
@@ -1989,7 +2010,7 @@ So that I don't ever forget that I met Kokoron...
 RU PLACEHOLDER
 
 こんなセリフをさりげなく言えてしまうのは年齢のせいだろうか。%K%P
-It surprised me how he said those words so casually... it must have been his age.
+It surprises me how he says those words so casually... It must be his age.
 居然能够轻描淡写地说出这种台词。是年龄的原因吧。
 RU PLACEHOLDER
 
@@ -1999,27 +2020,27 @@ The brutal, straightforward frankness that boys my age just don't possess (or ra
 RU PLACEHOLDER
 
 ゆにがあと７歳年を取っていたとしたら、私はどぎまぎしながら大慌てで席を立っていたことだろう。%K%P
-If Yuni had been seven years older, that short exchange of words would have left me so embarrassed and flustered that I'd have had to stand up from my seat to cool off.
+If Yuni were seven years older, this short exchange of words would leave me so embarrassed and flustered that I'd have had to stand up from my seat to cool off.
 如果悠尼再长七岁，我刚才一定会心跳加速手足无措地站起来。
 RU PLACEHOLDER
 
 なぜならその方が、ロマンティックだから……。%K%P
-Because those simple words would have been so incredibly romantic....
+Because that would be so incredibly romantic...
 因为那样的话语很浪漫……
 RU PLACEHOLDER
 
 しかしこのとき私が取った行動はと言うと……。%K%P
-But right now, I simply chose to say....
+But right now, I simply choose to say...
 不过说起我这时的举动……
 RU PLACEHOLDER
 
-こころ「もう～っ、かわいいなぁー、こいつこいつぅ～♪」%K%P
-Aww～ How cuuute♪～
+こころ「もう〜っ、かわいいなぁー、こいつこいつぅ〜♪」%K%P
+Aww〜 How cuuute♪〜
 心「真是～可爱啊，这家伙这家伙～！」
 RU PLACEHOLDER
 
 ゆにをいきなり抱きしめて、そのサラサラヘアーをくしゃくしゃに撫でまわすというものだった。%K%P
-Without warning, I hugged Yuni and messed up his smooth hair with my hands.
+Without warning, I hug Yuni and mess up his smooth hair with my hands.
 突然抱紧悠尼，胡乱地抚摸着他柔顺的头发。
 RU PLACEHOLDER
 
@@ -2049,8 +2070,9 @@ Save meee! Anyoneee! Stewardeeess!
 RU PLACEHOLDER
 
 ゆには私の胸の中で小動物みたいにもがいていた。%K%P
-Yuni struggled like a cute little woodland creature in my arms.
+Yuni struggles like a cute little woodland creature in my arms.
 悠尼在我的怀中像小动物一样挣扎着。
 RU PLACEHOLDER
+
 //old: Yuni struggled like a cute little animal in my arms.
 
