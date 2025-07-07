@@ -35,8 +35,6 @@ class TlBucket:
     self.ru = None
 
 control_tip_pattern = re.compile(r"(?:%TS([0-9]{3}))")
-textless_control_knop_pattern = re.compile(r"^(%[KNOPp])+$")
-fourty_dashes_pattern = re.compile(r"^(%FS)?-{40,}[%A-Z0-9]+$")
 
 def detectTips(text: str) -> Tuple:
   match = control_tip_pattern.search(text)
@@ -84,9 +82,6 @@ def loadTlBuckets(lines):
   tl_buckets = []
   current_tl_bucket = None
 
-  tl_skip_lines = set([
-  ])
-
   for line in lines:
     line = line.rstrip("\n")
     if state == STATE_JP:
@@ -101,12 +96,9 @@ def loadTlBuckets(lines):
       tl_buckets.append(current_tl_bucket)
       state = STATE_TRANSLATED_EN
 
-      # skips lines in tl_skip_lines
-      # skips "-------------------------------------------" lines
-      # skips textless %N %O %P %p sequences
-      if(line in tl_skip_lines) or \
-          textless_control_knop_pattern.match(line) or \
-          fourty_dashes_pattern.match(line):
+      # skips textless control sequences
+      seqtest, _ = r11.rm_leading_control_sequence(line)
+      if not seqtest:
         state = STATE_JP
         if should_run_buffer_overflow_validations and ("%P" in line or "%O" in line): page_buf = 0
 
@@ -226,7 +218,7 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
       else:
         trailing_control = jp_trailing_meta
         leading_control = jp_leading_meta
-      export_translated_line += jp_trailing_bracket if (jp_trailing_bracket and not tl_trailing_meta) else ""
+      export_translated_line += jp_trailing_bracket
 
     elif tl_suffix == 'cn':
       cn_tips = detectTips(cn_line)

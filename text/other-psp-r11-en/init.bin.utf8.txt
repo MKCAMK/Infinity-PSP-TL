@@ -766,9 +766,9 @@ UV Lamp
 ;dupe:120c
 ;15fc;10;UV用フラグ
 ;dupe:1584
+
 ;1604;10;プロローグ
 Prologue
-
 ;1608;16;天国はここにある
 Heaven Is Here
 
@@ -784,7 +784,6 @@ FALL/DOWN
 
 ;1628;8;ココロ編
 Kokoro Chapter
-
 ;162c;10;母性の懐で
 In the Bosom of Motherhood
 
@@ -796,12 +795,12 @@ The Closed-Off Structure
 ;1640;8;ココロ編
 ;dupe:1628
 ;1644;14;精神の『少女』
-Ethereal "Girl"
+Ethereal 「Girl」
 
 ;164c;8;ココロ編
 ;dupe:1628
 ;1650;24;小児期と思春期の行為障害
-Obstacles in Youth
+Youth Behavioral Disorders
 
 ;1658;8;ココロ編
 ;dupe:1628
@@ -831,17 +830,17 @@ The Inescapable Reality
 ;1694;8;ココロ編
 ;dupe:1628
 ;1698;20;自閉的状況に陥る瞬間
-Falling into Autism
+Falling into Egocentrism
 
 ;16a0;8;ココロ編
 ;dupe:1628
 ;16a4;18;こころと体と鎮静剤
-Heart, Body and Tranquilizers
+Heart, Body, and Sedatives
 
 ;16ac;8;ココロ編
 ;dupe:1628
 ;16b0;24;病的解離における症状集団
-Collective Symptoms
+Group Dissociative Symptoms
 
 ;16b8;8;ココロ編
 ;dupe:1628
@@ -851,7 +850,7 @@ Alice in Disorderly Clothes
 ;16c4;8;ココロ編
 ;dupe:1628
 ;16c8;24;男性と女性の基本的な違い
-Discrepancies Between Genders
+Distinctions Between Genders
 
 ;16d0;8;ココロ編
 ;dupe:1628
@@ -906,7 +905,7 @@ I'm Here
 ;1748;8;ココロ編
 ;dupe:1628
 ;174c;8;偽りの影
-Shadow of Falsehood
+False Shadow
 
 ;1754;8;ココロ編
 ;dupe:1628
@@ -921,7 +920,7 @@ Human and Heart
 ;176c;8;ココロ編
 ;dupe:1628
 ;1770;22;生きる意味、そして決断
-The Will to Live and a Decision
+Meaning of Life, and a Decision
 
 ;1778;8;ココロ編
 ;dupe:1628
@@ -936,7 +935,7 @@ Do You Believe in "Fate"?
 ;1790;8;ココロ編
 ;dupe:1628
 ;1794;18;或る精神鑑定の結果
-Results of a Certain Psychiatric Examination
+Psychiatric Examination Results
 
 ;179c;8;ココロ編
 ;dupe:1628
@@ -951,7 +950,7 @@ Chainlike Spiral
 ;17b4;8;ココロ編
 ;dupe:1628
 ;17b8;10;記憶と思惑
-Memories and Predictions
+Memories and Speculations
 
 ;17c0;8;ココロ編
 ;dupe:1628
@@ -961,7 +960,7 @@ New Life
 ;17cc;8;ココロ編
 ;dupe:1628
 ;17d0;16;磔られた心的外傷
-Emotional Trauma, Crucified
+Crucified Emotional Trauma
 
 ;17d8;8;ココロ編
 ;dupe:1628
@@ -996,7 +995,7 @@ Between Anxiety and Collapse
 ;1820;8;ココロ編
 ;dupe:1628
 ;1824;10;ＤＩＤ発現
-DID Breakout
+DID Emergence
 
 ;182c;8;ココロ編
 ;dupe:1628
@@ -1071,7 +1070,7 @@ While Receiving Blessing
 ;18d4;8;ココロ編
 ;dupe:1628
 ;18d8;14;せめてもの幸福
-At Least A Little Bit of Happiness
+Bare Minimum of Happiness
 
 ;18e0;8;ココロ編
 ;dupe:1628
@@ -1086,7 +1085,7 @@ Man-Made Miracle
 ;18f8;8;ココロ編
 ;dupe:1628
 ;18fc;14;吐露される本音
-Revealed Feelings
+Revealed Intentions
 
 ;1904;8;ココロ編
 ;dupe:1628
@@ -1106,7 +1105,7 @@ Knocking on the Door of Hope
 ;1928;8;ココロ編
 ;dupe:1628
 ;192c;26;いつか還るべき約束の場所へ
-The Promised Land
+The Promised Land to Return to
 
 ;1934;8;ココロ編
 ;dupe:1628
@@ -1135,7 +1134,6 @@ Within the Cage...
 
 ;1970;8;サトル編
 Satoru Chapter
-
 ;1974;16;Ｐｒｅｎａｔａｌ
 
 ;197c;8;サトル編
@@ -1150,6 +1148,7 @@ Satoru Chapter
 ;dupe:1970
 ;1998;20;Ｔｒｉｃｋ⑳Ｓｔａｒ
 Ｔｒｉｃｋｓｔｅｒ
+
 ;19a0;8;サトル編
 ;dupe:1970
 ;19a4;12;Ｓｈａｄｏｗ
@@ -1225,6 +1224,7 @@ Satoru Chapter
 ;1a78;8;サトル編
 ;dupe:1970
 ;1a7c;26;Ｃｒｕｃｉｆｙ’ｓ⑳Ｒａｔ
+Ｃｒｕｃｉｆｉｅｄ⑳Ｒａｔ
 
 ;1a84;8;サトル編
 ;dupe:1970

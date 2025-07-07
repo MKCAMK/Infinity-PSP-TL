@@ -1,31 +1,30 @@
-
-ドアの開く音が聞こえた。%K%P
-I heard the sound of a door opening.
+﻿ドアの開く音が聞こえた。%K%P
+I hear the door open.
 开门声传进耳中。
 RU PLACEHOLDER
 
 予想通り、内海が姿を現したのだ。%K%P
-Just as I'd expected, Utsumi appeared.
+Just as I expected, Utsumi appears.
 不出所料，内海果然出现了。
 RU PLACEHOLDER
 
 彼女は闇の中を滑るように、キッチンに向かって歩いていった。%K%P
-Almost gliding through the darkness, she headed toward the kitchen.
+Gliding through the darkness, she heads toward the kitchen.
 她像鬼魅般穿过黑暗，向厨房走去。
 RU PLACEHOLDER
 
 オレは気配を殺しながら、彼女の後を追った。%K%P
-Doing my best to hide my presence from her, I followed.
+Doing my best to hide my presence from her, I follow.
 我蹑手蹑脚地跟在身后。
 RU PLACEHOLDER
 
 内海はシンクの前に屈み込んでいた。%K%P
-Utsumi leaned down in front of the sink.
+Utsumi leans down in front of the sink.
 内海在洗碗槽前蹲了下来。
 RU PLACEHOLDER
 
 下の戸棚を開き、なにかを探しているようだ。%K%P
-She appeared to be searching for something in the cupboard below it.
+She appears to be searching for something in the cabinet below it.
 她打开了下面的碗橱，好像在找什么似的。
 RU PLACEHOLDER
 
@@ -35,17 +34,17 @@ What're you doing here...?
 RU PLACEHOLDER
 
 オレはひっそりと声をかけた。%K%P
-I said quietly.
+I speak quietly.
 我压低声音问道。
 RU PLACEHOLDER
 
 彼女の背中がビクンと震える。%K%P
-Startled, she jumped.
+Startled, she jumps.
 她的后背猛地一震。
 RU PLACEHOLDER
 
 内海「なにって……別に」%K%P
-What? What do you... well, nothing, really.
+What do you mean...? Nothing, really.
 内海「做什么……没什么啊」
 RU PLACEHOLDER
 
@@ -55,32 +54,32 @@ I was just a little thirsty, so I thought I'd get a drink of water.
 RU PLACEHOLDER
 
 彼女はゆっくりと身を起こした。%K%P
-She slowly stood back up.
+She slowly stands back up.
 她慢慢地站起身来。
 RU PLACEHOLDER
 
 シンクの下の戸棚は開け放たれたままになっている。%K%P
-The door of the cupboard was hanging open.
+The door of the cabinet hangs open.
 洗碗槽下面的橱柜就那样开着。
 RU PLACEHOLDER
 
 悟「そんなとこには、コップもペットボトルも置いてないはずだが……？」%K%P
-There shouldn't be any cups or bottled water down there, though....
+There shouldn't be any cups or plastic bottles down there, though...
 悟「杯子和水都不是放在那里的吧……？」
 RU PLACEHOLDER
 
 彼女の唇は動かない。%K%P
-Her lips betrayed no movement.
+Her lips betray no movement.
 她的嘴唇连动都没有动。
 RU PLACEHOLDER
 
 何も言わずにキッチンの隅へと歩いていった。%K%P
-She silently walked over to the opposite corner of the kitchen.
+She silently walks over to the opposite corner of the kitchen.
 一言不发地向厨房的角落走去。
 RU PLACEHOLDER
 
 食器棚の中からグラスを取り出す。%K%P
-And took a glass from the cupboard.
+And takes a glass from the cupboard.
 从餐具架拿出玻璃杯。
 RU PLACEHOLDER
 
@@ -90,32 +89,32 @@ So, what are you doing here?
 RU PLACEHOLDER
 
 背中を向けたまま、彼女は尋ねてきた。%K%P
-She asked, her back to me.
+She asks with her back to me.
 她背对着我，向我发问。
 RU PLACEHOLDER
 
 表情はわからない。%K%P
-I couldn't see her expression.
+I can't see her expression.
 看不到她的表情。
 RU PLACEHOLDER
 
 ただ声だけが、少しだけうわずっているように聞こえた。%K%P
-But there was the very slightest tremor in her voice.
+But there's the very slightest tremor in her voice.
 只不过，她的声音似乎有点不自然。
 RU PLACEHOLDER
 
 オレは……。%K%p
-I....
+I...
 我……
 RU PLACEHOLDER
 
 『オレも喉が渇いたから』と答える
-Answer "I was thirsty too"
+Answer 「I was thirsty too」
 回答“我也口渴”
 RU PLACEHOLDER
 
 『あなたを見張ってたんだ』と答える
-Answer "I came to watch over you"
+Answer 「I was watching you」
 回答“为了监视你”
 RU PLACEHOLDER
 
@@ -125,7 +124,7 @@ I was actually thirsty too...
 RU PLACEHOLDER
 
 そう答えた。%K%P
-I answered.
+I answer.
 我回答道。
 RU PLACEHOLDER
 
@@ -135,7 +134,7 @@ I see. What a coincidence, for both of us to get up so early for the same thing.
 RU PLACEHOLDER
 
 振り返った彼女の手には、ふたり分のグラスが握られていた。%K%P
-When she turned around, she held two glasses in her hands.
+When she turns around, she's holding two glasses in her hands.
 她回过头来，手里拿着两个玻璃杯。
 RU PLACEHOLDER
 
@@ -145,37 +144,37 @@ Won't you have a seat?
 RU PLACEHOLDER
 
 うながされ、席につくオレ。%K%P
-As urged, I pulled out a chair.
+As urged, I pull out a chair.
 在她的催促下，我坐下来。
 RU PLACEHOLDER
 
 彼女は続いて冷蔵庫の方へと近づいていき、その扉を開いた。%K%P
-She made her way over to the fridge and opened the door.
+She makes her way over to the refrigerator and opens the door.
 她又走到冰箱前，打开了冰箱门。
 RU PLACEHOLDER
 
 中から取り出されたものは、ミネラルウォーターの入ったペットボトルだった。%K%P
-She took out a bottle of mineral water from inside.
+She takes out a bottle of mineral water from inside.
 她拿出来的，是一个装着矿泉水的塑料瓶。
 RU PLACEHOLDER
 
 そう言えば……。%K%P
-Come to think of it....
+Come to think of it...
 说起来……
 RU PLACEHOLDER
 
 オレは思い出した。%K%P
-Something had occurred to me.
+Something occurs to me.
 我想起来了。
 RU PLACEHOLDER
 
 冷蔵庫は各個人の部屋にも設置されているのだ。%K%P
-Each of us had a personal fridge in our rooms.
+Each of us has a personal fridge in our rooms.
 每个人的房里都装有冰箱。
 RU PLACEHOLDER
 
 ミネラルウォーターも、その中に保存されている。%K%P
-And they all had mineral water in them, too.
+And they all have mineral water in them too.
 冰箱里面也有矿泉水。
 RU PLACEHOLDER
 
@@ -185,12 +184,12 @@ There was no need for her to drag herself all the way to the kitchen just for a 
 RU PLACEHOLDER
 
 彼女が嘘をついていることは明らかだった。%K%P
-She was obviously lying.
+She's obviously lying.
 她显然是在说谎。
 RU PLACEHOLDER
 
 もっとも、戸棚の中を物色している時点で、そんなことはすでにわかり切っていたけれど……。%K%P
-But I'd known that the moment I saw her looking in the cupboard....
+But I knew that the moment I saw her looking in the cabinet...
 其实，当她在橱柜里找东西时，这一点已经很明显……
 RU PLACEHOLDER
 
@@ -200,7 +199,7 @@ You wanted a drink, right?
 RU PLACEHOLDER
 
 彼女はテーブルの上にグラスをふたつ置き、それぞれの中に水を注いだ。%K%P
-She put the two glasses down on the table and poured water into each.
+She puts the two glasses down on the table and pours water into each.
 她把两个杯子放到桌上，然后倒进水。
 RU PLACEHOLDER
 
@@ -210,32 +209,32 @@ Here.
 RU PLACEHOLDER
 
 オレの前に差し出されたグラス。%K%P
-She placed one of the glasses in front of me.
+She places one of the glasses in front of me.
 她把杯子递到我面前。
 RU PLACEHOLDER
 
 『喉が渇いたから』と答えてしまった手前、断るわけにはいかなかった。%K%P
-I'd told her "I was thirsty too," so there was no way for me to refuse.
+I told her 「I was thirsty too」, so there's no way for me to refuse.
 刚才我亲口回答了“我也口渴”，不能拒绝。
 RU PLACEHOLDER
 
 オレはそれを一気に飲み干した。%K%P
-I drank it all in one gulp.
+I drink it all in one gulp.
 我一口气把水喝光了。
 RU PLACEHOLDER
 
 悟「あなたを、見張ってたんだ……」%K%P
-I came to watch over you...
+I was watching you...
 悟「为了监视你……」
 RU PLACEHOLDER
 
 そう答えた。%K%P
-I answered.
+I answer.
 我回答道。
 RU PLACEHOLDER
 
 内海「見張ってた……？　なぜ……？」%K%P
-Watch over me...? Why...?
+Watching me...? Why...?
 内海「监视……？为什么……？」
 RU PLACEHOLDER
 
@@ -250,7 +249,7 @@ I'm afraid I don't understand what you mean...
 RU PLACEHOLDER
 
 振り返った彼女の手には、ふたり分のグラスが握られていた。%K%P
-When she turned around, she held two glasses in her hands.
+When she turns around, she's holding two glasses in her hands.
 她回过头来，手里拿着两个玻璃杯。
 RU PLACEHOLDER
 
@@ -260,22 +259,22 @@ Anyway, won't you have a seat?
 RU PLACEHOLDER
 
 うながされ、席につくオレ。%K%P
-As urged, I pulled out a chair.
+As urged, I pull out a chair.
 在她的催促下，我坐下来。
 RU PLACEHOLDER
 
 彼女は続いて冷蔵庫の方へと近づいていき、その扉を開いた。%K%P
-She made her way over to the fridge and opened the door.
+She makes her way over to the refrigerator and opens the door.
 她又走到冰箱前，打开了冰箱门。
 RU PLACEHOLDER
 
 中から取り出されたものは、ミネラルウォーターの入ったペットボトルだった。%K%P
-She took out a bottle of mineral water from inside.
+She takes out a bottle of mineral water from inside.
 她拿出来的，是一个装着矿泉水的塑料瓶。
 RU PLACEHOLDER
 
 悟「内海さん、喉が渇いたなんて……嘘だろ？」%K%P
-Utsumi-san... you were lying about being thirsty, weren't you?
+Utsumi-san... You were lying about being thirsty, weren't you?
 悟「内海小姐，你说口渴……是在说谎吧？」
 RU PLACEHOLDER
 
@@ -290,7 +289,7 @@ There was no need for you to drag yourself all the way to the kitchen just for a
 RU PLACEHOLDER
 
 オレがそう告げると、彼女は薄っすらと笑みを浮かべて見せた。%K%P
-A thin smile formed on her face as I confronted her.
+A thin smile forms on her face as I confront her.
 听了我的话，她微微笑了笑。
 RU PLACEHOLDER
 
@@ -300,7 +299,7 @@ I ran out.
 RU PLACEHOLDER
 
 内海「もう残ってなかったの」%K%P
-There wasn't any water left.
+There wasn't any left.
 内海「已经一点也不剩了」
 RU PLACEHOLDER
 
@@ -315,7 +314,7 @@ But anyway, won't you have a drink?
 RU PLACEHOLDER
 
 彼女はテーブルの上にグラスをふたつ置き、それぞれの中に水を注いだ。%K%P
-She put the two glasses down on the table and poured water into each.
+She puts the two glasses down on the table and pours water into each.
 内海把两个杯子放到桌上，然后倒进水。
 RU PLACEHOLDER
 
@@ -325,12 +324,12 @@ Here.
 RU PLACEHOLDER
 
 オレの前に差し出されたグラス。%K%P
-She placed one of the glasses in front of me.
+She places one of the glasses in front of me.
 她把水杯递到我面前。
 RU PLACEHOLDER
 
 オレはそれを……。%K%p
-I....
+I...
 我把它……
 RU PLACEHOLDER
 
@@ -345,37 +344,37 @@ Refuse
 RU PLACEHOLDER
 
 一気に飲み干した。%K%P
-...drank it all in one gulp.
+...drink it all in one gulp.
 一口气把水喝光了。
 RU PLACEHOLDER
 
 断った。%K%P
-...refused.
+...refuse.
 拒绝了。
 RU PLACEHOLDER
 
 彼女の言動は怪しさに満ちている。%K%P
-Her behavior was way too suspicious.
+Her behavior is way too suspicious.
 她的言行非常可疑。
 RU PLACEHOLDER
 
 もしかしたら、彼女が背中を向けているあいだに、何か薬品を混入したかも知れない。%K%P
-It was possible that she'd drugged the water while her back was turned.
+It's possible that she drugged the water while her back was turned.
 说不定在背对我的时候，她悄悄下了什么药。
 RU PLACEHOLDER
 
 そう思ったのだ。%K%P
-That's what I thought.
+That's what I think.
 我是这么想的。
 RU PLACEHOLDER
 
 オレはグラスを押し返した。%K%P
-I pushed the glass away.
+I push the glass away.
 所以，我把杯子推开了。
 RU PLACEHOLDER
 
 彼女は眉根を寄せて、軽く首を傾げた。%K%P
-She furrowed her brow and tilted her head slightly.
+She furrows her brow and tilts her head slightly.
 她皱着眉，轻轻地歪了歪头。
 RU PLACEHOLDER
 
@@ -395,53 +394,53 @@ I see...
 RU PLACEHOLDER
 
 小さく呟いて、オレの傍らへと歩み寄ってくる。%K%P
-With that soft whisper, she walked over to me, narrowing the distance between us.
+With that soft whisper, she walks over to me.
 小声嘀咕着，走近我身旁。
 RU PLACEHOLDER
 
 彼女は自分のグラスを握りしめたまま、オレの正面に立った。%K%P
-She stood in front of me, gripping her own glass tightly in both hands.
+She stands in front of me, clasping her own glass in both hands.
 手中依然紧紧握住玻璃杯，与我面对面站着。
 RU PLACEHOLDER
 
 その視線は透明な液体の方へと向けられている。%K%P
-She stared at the transparent liquid inside.
+She stares at the transparent liquid inside.
 眼睛正注视着杯中透明的液体。
 RU PLACEHOLDER
 
 動かない……。%K%P
-We didn't move....
+We don't move...
 谁也没有动……
 RU PLACEHOLDER
 
 オレも、彼女も……。%K%P
-Neither she nor I stirred....
+Neither she nor I...
 无论是我，还是内海……
 RU PLACEHOLDER
 
 あたりは不穏な空気に包まれていた。%K%P
-An air of unease enveloped us.
+An air of unease envelops us.
 周围笼罩着一股紧张的气氛。
 RU PLACEHOLDER
 
 暗がりの向こうに微かな息づかいだけが聞こえる。%K%P
-Beyond the darkness that separated us, I could barely hear the faint sound of her breathing.
+I can only hear her faint breathing beyond the darkness.
 在黑暗中，我只听到对方轻微的呼吸声。
 RU PLACEHOLDER
 
 闇の中にぼんやりとたたずむ彼女の姿は、さながら正体をなくした生霊のようだった。%K%P
-Standing there wordlessly in the dark, she resembled nothing so much as a malicious spirit that had wandered free of its earthly body.
+Resembling a wraith that's wandered free of its earthly body, her expressionless figure stands in the dark. 
 //http://en.wikipedia.org/wiki/Ikiry%C5%8D
 安静地伫立在黑暗中的身影，宛如失去了肉体的幽灵。
 RU PLACEHOLDER
 
 彼女の身体からは、温もりのようなものが一切感じられなかった。%K%P
-I couldn't feel the slightest warmth from her.
+I can't feel the slightest warmth from her.
 全身上下没有一处能让人联想到温暖的地方。
 RU PLACEHOLDER
 
 そしてとうとう、彼女は一度もグラスにくちをつけぬまま、それをテーブルの上に置いてしまった。%K%P
-And, at last, without once raising the glass to her lips, she put it back down on the table.
+And, at last, without once raising the glass to her lips, she puts it back down on the table.
 终于，她的嘴连杯子都没沾过，就这样把它放回桌子上。
 RU PLACEHOLDER
 
@@ -466,12 +465,12 @@ Why do you think?
 RU PLACEHOLDER
 
 オレは彼女の表情をうかがった。%K%P
-I looked at her face.
+I study her face.
 我窥视了一下她的表情。
 RU PLACEHOLDER
 
 彼女は椅子に座ったオレのことを、高い位置から見下ろしていた。%K%P
-She stood over me, looking down at me as I sat at the table.
+She stands over me, looking down at me as I sit at the table.
 她正居高临下地望着坐在椅上的我。
 RU PLACEHOLDER
 
@@ -506,17 +505,17 @@ Something like this can't quench my thirst.
 RU PLACEHOLDER
 
 ひっそりと告げられた言葉……。%K%P
-Whispered words....
+Whispered words...
 她轻声说道……
 RU PLACEHOLDER
 
 彼女の瞳の色が読めない。%K%P
-I couldn't read her eyes.
+I can't read her eyes.
 我读不懂她的眼神。
 RU PLACEHOLDER
 
 眼窩は陰りにまぎれて空虚な穴のように落ち窪んで見えた。%K%P
-Her eye sockets were veiled in shadow, looking blank and hollow as though her eyes had dropped out, leaving only empty cavities.
+Obscured by shadows, her eye sockets look sunken, like empty holes.
 她的眼神空洞，瞳孔蒙上了一层阴影。
 RU PLACEHOLDER
 
@@ -526,132 +525,132 @@ You know, Yukidoh-kun...
 RU PLACEHOLDER
 
 細い指先が、グラスの方へと伸びていく。%K%P
-She extended a thin finger toward the glass.
+She extends a thin finger toward the glass.
 纤细的指尖伸向玻璃杯……
 RU PLACEHOLDER
 
 彼女はそのふちをやわらかくなぞり、液体に指先を浸した。%K%P
-She traced its outer rim, then dipped her fingers into the liquid.
+She traces its outer rim, then dips her fingertip into the liquid.
 她沿着杯子边缘滑动手指，把指尖浸到液体中。
 RU PLACEHOLDER
 
 手前に向かって静かに傾け、引き倒す。%K%P
-She slowly tipped it toward me, until it fell over.
+She slowly tips it toward me until it falls over.
 静静地向后一压，把杯子压倒。
 RU PLACEHOLDER
 
 水が流れた。%K%P
-The water began to spill out.
+The water begins to spill out.
 水流淌着。
 RU PLACEHOLDER
 
 テーブルの上を這うように広がっていく。%K%P
-It spread across the table, as if crawling.
+It spreads across the table, as if crawling.
 在桌面上蔓延开来。
 RU PLACEHOLDER
 
 やがてそれはテーブルの端からひとすじの糸となって床の上にこぼれ落ちた。%K%P
-Finally, it reached the edge and ran off, dripping to the floor in a thin stream.
+Finally, it reaches the edge and runs off, dripping to the floor in a thin stream.
 终于，水从桌边往下淌，形成了一条自上而下的细线。
 RU PLACEHOLDER
 
 オレはその光景を黙って見ていた。%K%P
-I watched all this in silence.
+I watch all this in silence.
 我默默地注视着这一情景。
 RU PLACEHOLDER
 
 しずくの行方に目を奪われていた。%K%P
-I was captivated by the falling drops of water.
+I'm captivated by the falling drops of water.
 落下的水滴吸引了我的视线。
 RU PLACEHOLDER
 
 すると、そのときだった――！%K%P
-And at that instant――!
+And at that moment――!
 就在这时——！
 RU PLACEHOLDER
 
 チクリと刺すような痛みを首筋に覚えた。%K%P
-Something stabbed the back of my neck.
+Something stabs the back of my neck.
 我的脖颈处感到针刺般的痛楚。
 RU PLACEHOLDER
 
 一瞬にして視界が白く染まる。%K%P
-There was a piercing pain that momentarily dyed my vision white.
+My vision goes white in an instant.
 一瞬间，视野被染成纯白。
 RU PLACEHOLDER
 
 まばゆい閃光が弾けて目の前で砕け散った。%K%P
-A dazzling light flashed before me, then shattered into pieces.
+A dazzling light flashes before me, then shatters into pieces.
 眩目的闪光在眼前飞散。
 RU PLACEHOLDER
 
 視界はすぐに元に戻った。%K%P
-My vision soon returned.
+My vision soon returns.
 我的视野很快又恢复原状。
 RU PLACEHOLDER
 
 だが先程とは構図が異なっている。%K%P
-However, the scene my eyes beheld was slightly different from the one I'd just left.
+However, the scene my eyes behold is slightly different from before.
 然而，视角却跟刚才有所不同。
 RU PLACEHOLDER
 
 あたりの景色が直角に傾いていた。%K%P
-My line of sight was tilted at a right angle.
+My line of sight is tilted at a right angle.
 周围的景物都呈直角倾斜。
 RU PLACEHOLDER
 
 頬には硬いフロアの感触がある。%K%P
-I could feel the hard floor against my cheek.
+I can feel the hard floor against my cheek.
 脸颊处传来了地板那坚硬的触感。
 RU PLACEHOLDER
 
 どうやらオレは、うつ伏せになって倒れ込んでしまったらしい。%K%P
-I'd fallen face-down onto the ground.
+I've fallen face-down onto the ground.
 看样子，我好像趴倒在地。
 RU PLACEHOLDER
 
 とっさに起き上がろうとしたが、腕にも足にも力は入らなかった。%K%P
-I tried to pick myself up, but couldn't put any power into my arms or legs.
+I try to pick myself up, but I can't put any power into my arms or legs.
 我马上想站起来，但是手脚却使不出力气。
 RU PLACEHOLDER
 
 物理的に動かせなかったのではなく、その動かし方自体が、よくわからなくなってしまったのだ。%K%P
-It was still physically possible for me to move, but I couldn't remember how.
+It isn't that I can't physically move them, but how to move my limbs itself has become unclear to me.
 并不是手脚本身动不了，而是我变得不清楚怎么使唤它们。
 RU PLACEHOLDER
 
 なにが起きたのだろう……？%K%P
-What'd just happened...?
+What just happened...?
 发生了什么事……？
 RU PLACEHOLDER
 
 意識が朦朧としていて、考えをまとめることができない。%K%P
-My consciousness was hazy, and I couldn't string my thoughts together.
+My consciousness is hazy, and I can't string my thoughts together.
 意识也变得朦胧起来，没办法集中思考。
 RU PLACEHOLDER
 
 あたりを探ろうとするが、首が言うことをきいてくれないのでどうすることもできなかった。%K%P
-I wanted to look around me, but my neck wouldn't move the way I commanded it to, so there was nothing I could do.
+I want to look around me, but my neck won't move the way I command it to, so there's nothing I can do.
 虽然想朝四周张望，但脖子却不听使唤，不管怎么试也没有用。
 RU PLACEHOLDER
 
 ただ眼球だけをギョロリと動かすことができた。%K%P
-All I could move was my eyeballs, which I darted around frantically.
+All I can move are my eyeballs, which I dart around frantically.
 只能骨碌碌地转动眼珠。
 RU PLACEHOLDER
 
 見上げると、オレのそばに内海が立ち尽くしていた。%K%P
-I looked up, and saw Utsumi standing stock still beside me.
+I look up and see Utsumi standing beside me.
 往上看去，内海正静立在我的身旁。
 RU PLACEHOLDER
 
 右手には見覚えのある何かが握りしめられている。%K%P
-Her right hand was clutching an object that I remembered seeing before.
+Her right hand is clutching something that I remember seeing before.
 她的右手握着某个眼熟的东西。
 RU PLACEHOLDER
 
 銃のような形をしたメタリックの物体……。%K%P
-An object shaped like a gun....
+A metallic object shaped like a gun...
 形状像手枪一样的金属制品……
 RU PLACEHOLDER
 
@@ -671,17 +670,17 @@ No one can stop my plan.
 RU PLACEHOLDER
 
 計画……。%K%P
-Plan....
+Plan...
 计划……
 RU PLACEHOLDER
 
 やはりオレの思惑は的中したようだ。%K%P
-My prediction had hit the mark.
+My prediction hit the mark.
 果然我没猜错。
 RU PLACEHOLDER
 
 彼女は穂鳥を、犬伏を殺すためにこのスフィアに……。%K%P
-This woman came to SPHIA to kill Hotori――no, Inubushi....
+This woman came to SPHIA to kill Hotori――no, Inubushi...
 她是为了杀掉穗鸟——犬伏，才来到这个ＳＰＨＩＡ的……
 RU PLACEHOLDER
 
@@ -696,27 +695,27 @@ Uugh...
 RU PLACEHOLDER
 
 なにか言おうとしたのだが、声が喉にかかって絞り出すこともできなかった。%K%P
-I wanted to say something, but I couldn't get my voice to leave my throat.
+I want to say something, but I can't get my voice to leave my throat.
 张嘴想要说什么，喉咙却挤不出一丝声音。
 RU PLACEHOLDER
 
 うかつだった……。%K%P
-I was careless....
+I was careless...
 太大意了……
 RU PLACEHOLDER
 
 なぜ警戒を怠ってしまったんだ……。%K%P
-Why did I ignore the signs...?
+Why was I so careless...?
 为什么会放松警惕呢……
 RU PLACEHOLDER
 
 一瞬でも気をゆるめてしまった自分の不甲斐なさに腹が立った。%K%P
-I felt disgusted at myself for letting my guard down for even a second.
+I feel disgusted at myself for letting my guard down for even a second.
 居然会一时大意，我为自己的不中用感到生气。
 RU PLACEHOLDER
 
 これでは何のために彼女を見張っていたのかわからない。%K%P
-What was the point of even coming here to watch over her?
+What was the point of even coming here to watch her?
 这么一来，我真搞不懂自己是为了什么才跑来监视她的。
 RU PLACEHOLDER
 
@@ -731,12 +730,12 @@ You won't be able to move for a while, but that's all.
 RU PLACEHOLDER
 
 声が遠く聞こえた。%K%P
-Her voice was getting more and more distant.
+Her voice sounds distant.
 她的声音听起来很遥远。
 RU PLACEHOLDER
 
 徐々に意識が薄れていく。%K%P
-Little by little, my consciousness began to fade.
+My consciousness gradually fades.
 意识逐渐模糊。
 RU PLACEHOLDER
 
@@ -746,37 +745,37 @@ Goodbye, Yukidoh-kun.
 RU PLACEHOLDER
 
 言い残し、彼女はオレの視界から姿を消した。%K%P
-With those parting words, she disappeared from view.
+With those parting words, she disappears from view.
 丢下这句话，她从我的视野中消失了。
 RU PLACEHOLDER
 
 このまま彼女を行かせてはならない……。%K%P
-I couldn't just let her go like this....
+I can't just let her go like this...
 不能眼睁睁看着她走……
 RU PLACEHOLDER
 
 穂鳥を殺させてはならないのだ！%K%P
-I couldn't let her kill Hotori!
+I can't let her kill Hotori!
 不能让她杀死穗鸟！
 RU PLACEHOLDER
 
 このときから、自らの内部に潜む魔物との壮絶な闘いが始まった。%K%P
-A grand struggle against the demon lurking inside me had now begun.
+A grand struggle against the demon lurking inside me begins.
 这时，我跟自己体内的怪物展开了壮烈的搏斗。
 RU PLACEHOLDER
 
 薄れゆく意識を繋ぎとめ、必死の抵抗を試みる。%K%P
-I struggled frantically, trying to grasp hold of my dimming consciousness.
+I frantically resist, trying to grasp hold of my dimming consciousness.
 我努力维系着越发模糊的意识，进行殊死的抵抗。
 RU PLACEHOLDER
 
 まず、指先に全神経を集中した。%K%P
-First, I tried focusing all my nerves into my fingertips.
+First, I try focusing entirely on my fingertips.
 首先，把全部意念集中在指尖上。
 RU PLACEHOLDER
 
 かろうじて小指だけが動いた。%K%P
-I was barely able to move my pinkie.
+I'm barely able to move my pinkie.
 好不容易，我的小指动了起来。
 RU PLACEHOLDER
 
@@ -786,97 +785,97 @@ Quickly, so as not to forget that sensation, I fired off commands to my ring, mi
 RU PLACEHOLDER
 
 全身にかけられた呪いを少しずつ少しずつ解いていく。%K%P
-Using this method like a magic spell, I turned my entire body back on, little by little.
+I lift the curse placed on my whole body little by little.
 渐渐把全身的诅咒一点一点地解开。
 RU PLACEHOLDER
 
 地道な作業が続いた。%K%P
-I tirelessly continued my work.
+I tirelessly continue my work.
 作业正在按部就班地进行着。
 RU PLACEHOLDER
 
 やがて手のひらが動くようになり、腕が持ち上がるようになり、足も言うことをきいてくれるようになった。%K%P
-Eventually, I found myself able to move my hands up to my palms; then the feeling returned to my arms, and gradually, I regained control of my feet.
+Eventually, I find myself able to move my hands up to my palms; then the feeling returns to my arms, and gradually, I regain control of my legs.
 没过多久，我就可以移动手掌和举起手臂，双脚也可以开始活动了。
 RU PLACEHOLDER
 
 とは言え、まだ身を起こすことはできない。%K%P
-Although, that said, I was still unable to lift my body.
+Although, that said, I'm still unable to lift my body.
 不过，暂时还是没法站起身来。
 RU PLACEHOLDER
 
 オレは床の上を這いずって、内海の後を追った。%K%P
-I crawled along the floor, chasing after Utsumi.
+I crawl along the floor, chasing after Utsumi.
 我在地板上匍匐着，从后追赶内海。
 RU PLACEHOLDER
 
 悟「くっそぉぉぉ……」%K%P
-Dammiiiiit...!
+Damn iiiiit...!
 悟「可恶……」
 RU PLACEHOLDER
 
 声が自然とあふれた。%K%P
-The word leaked out before I could think.
+The word leaks out before I can think.
 声音自然而然地从喉咙传出。
 RU PLACEHOLDER
 
 どうやら声帯の機能も回復の兆しを見せ始めたらしい。%K%P
-My vocal cords seemed to be showing signs of recovery.
+My vocal cords seem to be showing signs of recovery.
 看来，声带也开始出现恢复的征兆了。
 RU PLACEHOLDER
 
 オレに打たれたのは、たぶん強力な鎮静剤だろう。%K%P
-She probably shot me with a powerful tranquilizer.
+She probably shot me with a powerful sedative.
 我被注射的应该是强力的镇静剂。
 RU PLACEHOLDER
 
 にもかかわらず、こうして身動きが取れるようになったのはなぜか……？%K%P
-In spite of that, why could I still move like this...?
+In spite of that, why can I still move like this...?
 那么，为什么我还能动弹……？
 RU PLACEHOLDER
 
 もしかしたら、この種の鎮静剤をオレは過去に何度も投与されていたのかも知れない。%K%P
-It could be that this specific type of tranquilizer had already been administered to me several times in the past.
+It could be that this specific type of sedative has already been administered to me several times in the past.
 说不定，我以前曾经多次被施用这种镇静剂。
 RU PLACEHOLDER
 
 だから、薬に対する耐性がついて、こんなふうに……。%K%P
-So my resistance to the drug was already quite high....
+So my resistance to the drug is already quite high...
 所以才产生了耐药性，可以在这种情况下继续活动……
 RU PLACEHOLDER
 
 考えているうちに、なんとかリビングまでたどりついた。%K%P
-As I pondered that, I'd somehow managed to reach the living area.
+As I consider that, I somehow manage to reach the living area.
 正想着，我已经挣扎着爬到了客厅。
 RU PLACEHOLDER
 
 穂鳥の部屋の前に内海が立っている。%K%P
-Utsumi was standing at the door to Hotori's room.
+Utsumi is standing at the door to Hotori's room.
 内海正伫立在穗鸟的房间前。
 RU PLACEHOLDER
 
 その右手にはキラリと輝くなにかが見えた。%K%P
-Something glinted in her right hand.
+Something glints in her right hand.
 她右手上的某种东西正闪着寒光。
 RU PLACEHOLDER
 
 オレは壁伝いによろよろと立ち上がった。%K%P
-I stood up, leaning unsteadily against the wall.
+I stand up, leaning unsteadily against the wall.
 我倚在墙边，踉踉跄跄地站起身来。
 RU PLACEHOLDER
 
 一歩ずつ一歩ずつ、彼女の元へと近づいていく。%K%P
-One step at a time, I began to approach her.
+One step at a time, I begin to approach her.
 一步一步地向她靠近。
 RU PLACEHOLDER
 
 彼女はまだ、オレのことには気づいていない。%K%P
-She hadn't noticed me yet.
+She hasn't noticed me yet.
 她依然没有注意到我的存在。
 RU PLACEHOLDER
 
 物音を立てぬように、慎重に慎重に足を運んでいった。%K%P
-I moved forward with the utmost care, trying not to make a sound.
+I move forward with the utmost care, trying not to make a sound.
 我不弄出半点声音，蹑手蹑脚地走着。
 RU PLACEHOLDER
 
@@ -886,32 +885,32 @@ If I lose focus, even for a second, I'll fall over.
 RU PLACEHOLDER
 
 視界はグラグラと歪んで渦を巻いている。%K%P
-My vision warped and swirled dizzily.
+My vision warps and swirls dizzyingly.
 视野正在晃动着、扭曲着。
 RU PLACEHOLDER
 
 目に映るものはおぼろげにかすんでいて、向かうべき方角が確かなのかどうかもわからなかった。%K%P
-The images reflected in my eyes were vague and hazy, so I wasn't sure if I was even heading in the right direction.
+What I see is vague and hazy, so I'm not sure if I'm even heading in the right direction.
 眼里看到的东西都是一片模糊，连前进的方向也没法把握。
 RU PLACEHOLDER
 
 壁の感触だけを頼りに、闇の中を進む。%K%P
-Relying only on the feel of the wall beneath my fingers, I continued through the darkness.
+Relying only on the feeling of the wall, I continue through the darkness.
 我只凭着墙壁的触感，在黑暗中摸索着前行。
 RU PLACEHOLDER
 
 すぐそこまで内海の背中は迫っていた。%K%P
-Finally, I drew right up behind Utsumi.
+Utsumi's back gets closer until it's right in front of me.
 不久就来到她的背后。
 RU PLACEHOLDER
 
 彼女がドアノブに手をかけた。%K%P
-Her hand was on the doorknob.
+She puts her hand on the handle.
 她将手伸向门把。
 RU PLACEHOLDER
 
 ゆっくりとそれを押し下げる。%K%P
-Slowly, she began to turn it.
+Slowly, she begins to turn it.
 然后缓缓地压了下去。
 RU PLACEHOLDER
 
@@ -921,7 +920,7 @@ And right after that――
 RU PLACEHOLDER
 
 目にもとまらぬ素早さで、オレは彼女の手首をつかんでいた。%K%P
-Faster than the eye could see, I grabbed her wrist.
+Faster than the eye can see, I grab her wrist.
 我以迅雷不及掩耳之势抓住了她的手腕。
 RU PLACEHOLDER
 
@@ -931,32 +930,32 @@ Hah...!
 RU PLACEHOLDER
 
 そのまま、しなだれかかるように彼女の身体に覆いかぶさる。%K%P
-Never releasing my hold, I covered her body with mine, as though in an embrace.
+I lean onto her body like that, covering it.
 就像要依偎在她身上一样，顺势压下去。
 RU PLACEHOLDER
 
 勢いあまって、オレと彼女はもつれあうように床の上を転がった。%K%P
-The momentum carried me to the floor, bringing her down along with me, and we rolled across the floor in a tangle.
+The momentum carries us, and we roll across the floor in a tangle.
 我们纠缠在一起，倒在地板上。
 RU PLACEHOLDER
 
 別に意図したわけではないが、結果的にオレは彼女を押し倒すことになってしまった。%K%P
-I hadn't planned on it, but I ended up pinning her down.
+I hadn't planned on it, but I end up pinning her down.
 虽然不是故意的，但从结果来看是我把她压倒了。
 RU PLACEHOLDER
 
 仰向けのまま横たわる彼女……。胸の上にのしかかるオレ……。%K%P
-She, lying face-up on the floor.... And I, right on top of her....
+She, lying on her back... And I, right on top of her...
 内海仰面躺在地上……我则压在她的胸口……
 RU PLACEHOLDER
 
 全体重をかけられて、彼女はオレの下で苦しそうにあえいでいた。%K%P
-She struggled below me, all my body weight pressing down against her.
+She struggles below me, all my body weight pressing down against her.
 承受着我的全部体重，她在我的身体下痛苦地喘息着。
 RU PLACEHOLDER
 
 その右手には、鋭利な輝きを放つ刃物がある。%K%P
-In her right hand was a horribly sharp knife.
+In her right hand is a knife that gives off a sharp glint.
 那只右手握着一把闪着寒光的刀子。
 RU PLACEHOLDER
 
@@ -966,17 +965,17 @@ A kitchen knife.
 RU PLACEHOLDER
 
 オレがダイニングで倒れ伏しているあいだに、戸棚の中から抜き出したのだろう。%K%P
-She'd probably pulled it out of the cupboard after I fell over in the dining area.
+She probably pulled it out of the cabinet after I fell over in the dining area.
 大概是趁我倒在餐厅时从橱柜里拿的吧。
 RU PLACEHOLDER
 
 オレは彼女の手首をしっかりと握りしめて放さなかった。%K%P
-I held her tightly by the wrists, refusing to let go.
+I hold her tightly by the wrists, refusing to let go.
 我紧紧地抓住她的手腕不放。
 RU PLACEHOLDER
 
 身体は依然として古ぼけたブリキのオモチャみたいに錆び付いていたが、手のひらの力だけはゆるめるわけにはいかなかったのだ。%K%P
-My body felt like an old tin toy with its parts rusted together, but the strength of my hands, at least, never wavered.
+My body feels like an old tin toy with its parts rusted together, but the strength of my hands, at least, never wavers.
 虽然身体依然像生了锈一般难以活动，不过我的手说什么也不能放松。
 RU PLACEHOLDER
 
@@ -991,7 +990,7 @@ Let me go...!
 RU PLACEHOLDER
 
 内海「なにするのよ……！」%K%P
-What are you doing...?!
+What are you doing...!?
 内海「你干什么……！」
 RU PLACEHOLDER
 
@@ -1001,7 +1000,7 @@ No... I won't let go...
 RU PLACEHOLDER
 
 悟「オレの意識がここにあるうちは……」%K%P
-As long as I'm here...
+While my consciousness is here...
 悟「只要我的意识还在……」
 RU PLACEHOLDER
 
@@ -1016,47 +1015,47 @@ I won't... let anyone... die...!
 RU PLACEHOLDER
 
 ミシミシと関節をきしませながら、身体を引き剥がした。%K%P
-My joints creaking, I pulled away from her.
+My joints creaking, I pull away from her.
 我扭动关节，甩开了她的身体。
 RU PLACEHOLDER
 
 左手で彼女の手首を押さえつけたまま、逆の手のひらで刃物を奪い取る。%K%P
-Pinning her wrists with my left hand, I pulled the knife from her with my right.
+Pinning her wrists with my left hand, I pluck the knife from her with my right.
 继续用左手按住她的手腕，然后用另一只手抢过了菜刀。
 RU PLACEHOLDER
 
 奪い取ったそれを、リビングの奥に向かって放り投げた。%K%P
-Then I hurled it away into the living area.
+Then I hurl it away into the living area.
 我把夺过的刀子扔到客厅里。
 RU PLACEHOLDER
 
 乾いた音を立てて、包丁は闇の中へと消え失せた。%K%P
-With a dry sound, the kitchen knife disappeared into the darkness.
+With a dry sound, the kitchen knife disappears into the darkness.
 菜刀发出一声闷响，消失在黑暗之中。
 RU PLACEHOLDER
 
 安堵のためだろうか、音を耳にしたとたん、激しい脱力感に襲われた。%K%P
-Maybe it was because of the relief I felt, but as soon as I heard that noise, I was attacked by an overwhelming sense of exhaustion.
+Maybe it's because of the relief I feel, but as soon as I hear that noise, I'm assaulted by an overwhelming sense of exhaustion.
 是因为安心下来的缘故吗，听到声音的同时，一股强烈的无力感袭来。
 RU PLACEHOLDER
 
 彼女の隣に力無く転がる……。%K%P
-I rolled powerlessly to the floor beside her....
+I roll powerlessly to the floor beside her...
 我瘫软无力地倒在她身旁……
 RU PLACEHOLDER
 
 そんなオレに対して、彼女は休息のひとときなど与えてはくれなかった。%K%P
-She didn't even allow me a moment of rest.
+She doesn't even allow me a moment of rest.
 内海没有给我半点喘息的机会。
 RU PLACEHOLDER
 
 いきなりオレの胸ぐらに飛びかかると、荒々しく上体をつかみ起こした。%K%P
-She suddenly sprang onto me, grabbed me by the torso and pulled me violently to my feet.
+She suddenly leaps onto my chest and then roughly lifts me by my upper body.
 她猛地扑向我的前胸，粗暴地抓起我的上半身。
 RU PLACEHOLDER
 
 内海「どうして邪魔するのよ！」%K%P
-Why are you interfering?!
+Why are you interfering!?
 内海「为什么要妨碍我！」
 RU PLACEHOLDER
 
@@ -1066,32 +1065,32 @@ This has nothing to do with you!
 RU PLACEHOLDER
 
 内海「なのに、なんで！　なんで！　なんで！」%K%P
-So why?! Why?! Why?!
+So why!? Why!? Why!?
 内海「可是，为什么！为什么！为什么！」
 RU PLACEHOLDER
 
 彼女がオレの身体を強く揺さぶる。%K%P
-She shook me back and forth.
+She shakes me back and forth.
 她使劲摇晃着我的身体。
 RU PLACEHOLDER
 
 オレには抗う力は残っていない。%K%P
-I didn't have enough strength left to fight back.
+I don't have enough strength left to fight back.
 我已经无力反抗了。
 RU PLACEHOLDER
 
 なされるがまま、間の抜けた人形のように首をゆらゆらと振っていた。%K%P
-I went limp, my head lolling on my shoulders like a doll's.
+I go limp, my head lolling on my shoulders like a doll's.
 我任由她摆布，像坏掉的人偶一样晃动着脑袋。
 RU PLACEHOLDER
 
 内海「どうしてみんなわかってくれないの！？」%K%P
-Why doesn't anyone understand?!
+Why doesn't anyone understand!?
 内海「为什么大家都不明白！？」
 RU PLACEHOLDER
 
 内海「あの女は殺されても当然の人間なのよ！？」%K%P
-That girl is a natural-born killer!
+That girl deserves to be killed!
 内海「那女人是理所当然应该被杀掉的人吧！？」
 RU PLACEHOLDER
 
@@ -1116,17 +1115,17 @@ So...
 RU PLACEHOLDER
 
 内海「なぜ……！？」%K%P
-Why...?!
+Why...!?
 内海「为什么……！？」
 RU PLACEHOLDER
 
 内海「なんでみんな、彼女のことをかばおうとするの……！？」%K%P
-Why does everyone always try to protect her..?!
+Why does everyone always try to protect her...!?
 内海「为什么，大家都要护着她……！？」
 RU PLACEHOLDER
 
 内海「どうしてあいつは、今でもこんなところでのうのうと生きていられるのよ！」%K%P
-How can you allow a demon like her to live a carefree, everyday life?!
+Why does she still get to live a carefree life in a place like this!?
 内海「为什么事到如今，她还能像没事人一样逍遥自在地活在这里！」
 RU PLACEHOLDER
 
@@ -1136,7 +1135,7 @@ Even though Junichi was...
 RU PLACEHOLDER
 
 内海「あの子は……あんな酷い殺され方をしたっていうのに……」%K%P
-...even though he... was killed so horribly...
+Even though he... was killed so horribly...
 内海「那孩子……被那么残忍的手段杀害……」
 RU PLACEHOLDER
 
@@ -1156,87 +1155,87 @@ I'll kill her, no matter what...!
 RU PLACEHOLDER
 
 遂に本性をあらわにした内海……。%K%P
-Utsumi had finally revealed her true nature....
+Utsumi has finally revealed her true nature...
 内海终于露出本性……
 RU PLACEHOLDER
 
 普段の穏やかな表情は根こそぎ剥ぎ取られ、鬼神の面影だけがそこにぺたりと張りついていた。%K%P
-Her calm face had been torn away, replaced with that of a demon.
+Her calm face has been torn away, replaced with that of a demon.
 平时那安稳的神情已经荡然无存，取而代之的是鬼神般的狰狞面孔。
 RU PLACEHOLDER
 
 長い銀髪は無造作に乱れ、ふたつの瞳孔は病的なまでに見開かれている。%K%P
-Her long silver hair was disheveled, her pupils abnormally wide.
+Her long silver hair is disheveled, her pupils abnormally wide.
 一头长长的银发凌乱不堪，双眼病态地大瞪着。
 RU PLACEHOLDER
 
 褐色の肌に浮かんだまだら模様……。%K%P
-A pattern of hives had begun to mar her brown skin....
+Patches mottle her brown skin...
 褐色的肌肤上浮现出许多斑点……
 RU PLACEHOLDER
 
 顔面を覆い尽くした暗紫色のひび割れは、さながら死斑を思わせた。%K%P
-Livid veins spread cracks across her face, shrouding it until she looked no different than a corpse.
+The dark purple cracks covering her face are reminiscent of livor mortis.
 覆盖满脸的暗紫色裂纹宛如死斑。
 RU PLACEHOLDER
 
 そこにあったのは、血の通わぬ冷酷な殺人鬼の相貌だった。%K%P
-The only things visible there were the warped features of a cruel murderous monster, all human blood frozen and immobile in her veins.
+She has the features of a ruthless, cold-blooded killer.
 那正是一个毫无人性的冷酷杀人恶魔才有的相貌。
 RU PLACEHOLDER
 
 内海は穂鳥を指して悪魔と呼んだが、今は彼女自身がその魔物に取り憑かれてしまっている。%K%P
-As if Utsumi had summoned a demon to claim Hotori, but found herself possessed instead.
+Utsumi called Hotori a demon, but now she has been possessed by that monster herself.
 内海说穗鸟是恶魔，如今恶魔却正附在她的身上。
 RU PLACEHOLDER
 
 彼女にしてみれば崇高な復讐劇を演じようとしたつもりなのかも知れないが、%K%P
-The way she looked, you could almost believe she was playing the part of the villain in some tragic melodrama, but...
+Perhaps, from her perspective, she means to act out a sublime revenge play.
 在她看来，她要上演的或许是一部崇高的复仇剧。
 RU PLACEHOLDER
 
 そんなものは心神耗弱状態による発作的な衝動殺人となんら変わることはない。%K%P
-The murderous aura she now emanated was no different from that of a mental patient capable of flying into a killing rage at any moment.
+But there's no difference between that and an impulsive murder committed due to a state of diminished capacity.
 然而，本质上这始终是精神障碍引发的突发性冲动杀人，这一点是不会变的。
 RU PLACEHOLDER
 
 憎悪や怨念といった感情は、ある種の病いである。%K%P
-A hatred and a grudge this strong could almost certainly be considered an illness.
+Feelings such as hatred or holding a grudge are a disease of sorts.
 名为憎恶和怨恨的感情，本身也是某种病。
 RU PLACEHOLDER
 
 本来人間の持ち合わせているはずの正常な機能を奪うという意味に於いてそうなのだ。%K%P
-An illness to which, over time, an ordinary human being might succumb.
+In the sense of taking away normal functions a human ought to have, that's correct.
 从它们影响人类的正常机能这一点来看便是如此。
 RU PLACEHOLDER
 
 であるとするならば、内海は病いに駆り立てられ、自らの欲望を発露せんが為にひとりの女の子を手にかけようとしたということになる。%K%P
-And if that was true, Utsumi was most likely attempting to expel the sickness from her body by killing Hotori.
+If that's the case, then driven by her disease, Utsumi is trying to kill a girl with her own hands in order to express her own desire.
 这么说来，内海就是在这种病的影响下，为了发泄一己私欲才想杀死穗鸟的。
 RU PLACEHOLDER
 
 阿波墨で起きた事件と、どこに違いがあるというのか……。%K%P
-How was that any different from what Hotori had done during the Awazumi incident...?
+How is that any different from what happened during the Awazumi incident...?
 这跟在阿波墨发生的事件相比，又有什么分别呢……
 RU PLACEHOLDER
 
 そこには崇高な理想なんてものはカケラも存在しない。%K%P
-There wasn't even a fragment of anything like a great ideal here.
+There isn't even a fragment of anything like a noble ideal here.
 这压根不是什么崇高的理想。
 RU PLACEHOLDER
 
 あるのはただ、腐臭に満ちた惨たらしい狂気だけだ。%K%P
-You could even say she was driven only by the mad brutality festering inside her.
+All that's there is a horrible, rotten madness.
 只不过是充满腐臭的、残忍的疯狂想法。
 RU PLACEHOLDER
 
 オレはそんな彼女のことを憐れに思った。%K%P
-I pitied her.
+I pity her.
 我觉得这样的她很可怜。
 RU PLACEHOLDER
 
 怒りや憎しみのような感情は一切わいてこなかった。%K%P
-Her condition didn't inspire even the slightest feeling of anger or hatred within me.
+Her condition doesn't inspire any anger or hatred within me.
 除此之外，完全没有诸如憎恨和愤怒之类的感情。
 RU PLACEHOLDER
 
@@ -1252,83 +1251,83 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 空になったグラスをテーブルの上に戻す。%K%P
-I returned the empty glass to the tabletop.
+I return the empty glass to the table.
 我把喝光的杯子放回桌上。
 RU PLACEHOLDER
 
 そんなオレの様子を、彼女はうわめづかいにじっとうかがっていた。%K%P
-She watched me with upturned eyes as I drank.
+She watches me intently with upturned eyes as I drink.
 她正翻着眼珠子，静静地窥视着我。
 RU PLACEHOLDER
 
 眼窩の陰りにまぎれて、瞳の色が見えない。%K%P
-Her face was veiled in shadow, so I couldn't see into her eyes.
+Obscured by the shadows of their sockets, I can't see the color of her eyes.
 眼窝里蒙着一层阴影，我读不懂她的眼神。
 RU PLACEHOLDER
 
 水の入ったグラスに唇をつけてはいるが、それを飲み込むような素振りはまったく見せなかった。%K%P
-She'd raised the glass to her lips, yet made no move to drink from it.
+She raises the glass to her lips, yet makes no move to drink from it.
 虽然把嘴唇凑到了杯口，但我完全看不到她有把水喝下去的样子。
 RU PLACEHOLDER
 
 動きを止めた彼女……。%K%P
-She stood there frozen....
+She stands there frozen...
 她一动也不动……
 RU PLACEHOLDER
 
 暗がりの向こうに微かな息づかいだけが聞こえる。%K%P
-Beyond the darkness that separated us, I could barely hear the faint sound of her breathing.
+I can only hear her faint breathing beyond the darkness.
 在黑暗中，我只听到对方轻微的呼吸声。
 RU PLACEHOLDER
 
 闇の中にぼんやりとたたずむその姿は、さながら正体をなくした生霊のようだった。%K%P
-Standing there wordlessly in the dark, she resembled nothing so much as a wraith that had wandered free of its earthly body.
+Resembling a wraith that's wandered free of its earthly body, that expressionless figure stands in the dark. 
 //used a different word here since it's not as readily apparent how ominous she'd acting
 安静地伫立在黑暗中的那个身影，宛如失去了肉体的幽灵。
 RU PLACEHOLDER
 
 彼女の身体からは、温もりのようなものが一切感じられなかった。%K%P
-I couldn't feel the slightest warmth from her.
+I can't feel the slightest warmth from her.
 全身上下没有一处能让人联想到温暖的地方。
 RU PLACEHOLDER
 
 悟「ど、どうしたんだ……？」%K%P
-W, what's wrong...?
+Wh-What's wrong...?
 悟「怎、怎么了……？」
 RU PLACEHOLDER
 
 息を詰めて彼女に尋ねる。%K%P
-I held my breath as I asked her.
+I hold my breath as I ask her.
 我屏住呼吸向她问道。
 RU PLACEHOLDER
 
 彼女は水の入ったグラスから唇を離した。%K%P
-She moved the glass away from her lips.
+She moves the glass away from her lips.
 她把嘴唇从杯口挪开。
 RU PLACEHOLDER
 
 そのまま、なにも言わずにグラスを傾ける彼女……。%K%P
-And without saying a word, she turned her hand and tipped it....
+And without saying a word, she turns her hand and tips it...
 一语不发，就这样把杯子倾倒过来……
 RU PLACEHOLDER
 
 びちゃびちゃと惨たらしい音を立てて、液体はフロアに散った。%K%P
-The liquid inside made a splashing sound as it hit the floor, filling me with an icy dread.
+The liquid makes a terrible splashing sound as it cascades to the floor.
 液体发出啪嚓啪嚓的声音，在地板上溅开。
 RU PLACEHOLDER
 
 悟「ま、まさか……」%K%P
-I, it can't be...
+I-It can't be...
 悟「难、难道……」
 RU PLACEHOLDER
 
 不安に駆り立てられたオレは、あわてて身体中をまさぐった。%K%P
-Propelled into action by a sudden anxiety, I frantically patted my own body.
+Driven by anxiety, I frantically feel all over my body.
 在不安的驱使下，我慌忙检查起自己的身体。
 RU PLACEHOLDER
 
 異変がないかどうか確かめるために……。%K%P
-In order to see if anything was wrong....
+In order to see if anything is wrong...
 为了确认是否发生了什么异变……
 RU PLACEHOLDER
 
@@ -1338,12 +1337,12 @@ How pitiful...
 RU PLACEHOLDER
 
 ふいに、彼女がくちを開いた。%K%P
-She suddenly spoke.
+She suddenly speaks.
 突然，她开口说道。
 RU PLACEHOLDER
 
 うろたえるオレのことを見下ろすように立ち尽くしながら……。%K%P
-As she looked down, watching my floundering, immobile....
+As she looks down, watching my floundering, immobile...
 同时轻蔑地望着惊惶失措的我……
 RU PLACEHOLDER
 
@@ -1363,22 +1362,22 @@ In the end, you couldn't do a thing, could you?
 RU PLACEHOLDER
 
 鼓動が早鐘のごとく鳴り響いている。%K%P
-Panic rang out in my head like an alarm bell.
+My heart pounds.
 我的心脏像打鼓似的砰砰直跳。
 RU PLACEHOLDER
 
 指先が、オレの意思に反してバタバタとテーブルの上を踊り始めた。%K%P
-The tips of my fingers began to tap out an unconscious rhythm on the table.
+My fingertips start rattling on the tabletop against my will.
 指尖不受我的控制，在桌面吧嗒吧嗒地跃动起来。
 RU PLACEHOLDER
 
 痙攣……。%K%P
-Convulsions....
+Convulsions...
 痉挛……
 RU PLACEHOLDER
 
 その発作を抑えようと、オレは両手を強く握りしめた。%K%P
-I clenched my hands together to stop the spasms.
+I clench my hands tightly to stop the spasms.
 我紧紧地攥住两手，想要强行抑制它的抖动。
 RU PLACEHOLDER
 
@@ -1403,58 +1402,58 @@ I don't remember hearing anything like that.
 RU PLACEHOLDER
 
 だが今は、彼女と問答を続けている場合ではなかった。%K%P
-But now wasn't the time to question her.
+But now isn't the time to question her.
 但是，现在不是跟她纠缠的时候。
 RU PLACEHOLDER
 
 とにかく一刻も早く、飲み下してしまったものを吐き出さなければ！%K%P
-I needed to throw up that water right now!
+I need to throw up that water right now!
 总而言之，必须尽快把刚才喝下去的药吐出来！
 RU PLACEHOLDER
 
 オレは跳ねるように席を立った。%K%P
-I sprang out of my chair.
+I spring out of my chair.
 我一跃而起。
 RU PLACEHOLDER
 
 立ちあがった……つもりだった……。%K%P
-Or at least... I wanted to....
+Or at least... I want to...
 站起身来……本来是这么打算的……
 RU PLACEHOLDER
 
 けれど……。%K%P
-But....
+But...
 可是……
 RU PLACEHOLDER
 
 オレの身体は床の上にへばりついてしまった。%K%P
-My body had adhered to the floor.
+My body is stuck to the floor.
 我的身体无力地瘫倒在地板上。
 RU PLACEHOLDER
 
 四肢の神経は完全に麻痺し、制御不能に陥っている。%K%P
-My extremities were completely numb, and were out of control.
+My extremities are completely numb, and are out of my control.
 四肢神经完全麻痹，变地无法控制。
 RU PLACEHOLDER
 
 指先どころか、唇も、舌も、まぶたさえも動かすことができない。%K%P
-And it wasn't just my fingertips either――my lips, tongue, and even my eyelids wouldn't move.
+I can't move my lips, my tongue, or even my eyelids, let alone my fingertips.
 别说手指头，就连嘴唇、舌头、眉头也无法动弹。
 RU PLACEHOLDER
 
 頭の中は石の塊をねじ込まれたように重かった。%K%P
-My head was heavy, like a stone clod had been driven into it.
+My head is heavy, like a block of stone has been screwed into it.
 脑子里像塞满了石块一样沉重。
 RU PLACEHOLDER
 
 どこかで経験したことのある感覚……。%K%P
-I had the sudden sense that I'd experienced this feeling before....
+A feeling I've experienced before...
 //old:A sense that I'd felt this somewhere before came seeping into my memory....
 好像在哪里体验过的感觉……
 RU PLACEHOLDER
 
 しかしそれがどこで経験したものなのか、いつ覚えたものなのか、もはやオレには思い出すことができなかった。%K%P
-However, I couldn't recall when and where anymore.
+However, I can't recall when and where anymore.
 但是我已经想不起具体是何时何地的事情了。
 RU PLACEHOLDER
 
@@ -1464,22 +1463,22 @@ Don't worry...
 RU PLACEHOLDER
 
 内海「あなたを、殺すつもりはないから」%K%P
-I'm not planning to kill you...
+I'm not planning to kill you.
 内海「我没打算杀你」
 RU PLACEHOLDER
 
 声が遠く聞こえる。%K%P
-Her voice sounded far away.
+Her voice sounds distant.
 声音听起来非常遥远。
 RU PLACEHOLDER
 
 徐々に徐々に遠ざかっていく。%K%P
-Little by little, it drifted even further.
+Little by little, it drifts even further.
 渐渐地、渐渐地离我远去。
 RU PLACEHOLDER
 
 オレはその声をつかみ取ろうと懸命に腕を伸ばした。%K%P
-Trying to grab hold of that voice, I reached out with all my might.
+I reach out desperately, trying to grab hold of that voice.
 我拼命地伸着手，想要抓住那道缥缈的声音。
 RU PLACEHOLDER
 
@@ -1489,21 +1488,22 @@ Goodbye, Yukidoh-kun.
 RU PLACEHOLDER
 
 意識が薄れていく……。%K%P
-My consciousness was weakening....
+My consciousness is fading...
 意识越发模糊……
 RU PLACEHOLDER
 
 消えていく……消えていく……。%K%P
-Fading... fading....
+Fading... Fading...
 消失……消失……
 RU PLACEHOLDER
 
 やがて何も見えなくなった。%K%P
-And before long, I couldn't see anything.
+And before long, I can't see anything.
 不久便什么也看不见了。
 RU PLACEHOLDER
 
 光の届かぬ泥濘の底へと、オレの意識は呑み込まれていった。%K%P
-I floated to the bottom of a quagmire where no light would ever reach, my consciousness completely swallowed.
+My consciousness is swallowed up by the depths of a mire that no light can penetrate.
 我的意识被吞没在光所不能抵达的泥泞深渊。
 RU PLACEHOLDER
+

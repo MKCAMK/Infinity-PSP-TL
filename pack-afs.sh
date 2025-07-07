@@ -242,7 +242,6 @@ patch_boot_bin () {
 }
 
 repack_e17_se_afs () {
-	[ -d "e17_x360_BGM" ] && [ -f "$WORKDIR/se.afs" ] || return
 	mkdir -p e17_se_mod
 	for i in $(seq -w 1 22) 24
 	do
@@ -253,6 +252,13 @@ repack_e17_se_afs () {
 	cp e17_x360_BGM/bgm25nl.adx e17_se_mod/ADX26NL.ADX
 	$REPACK_AFS $WORKDIR/se.afs $WORKDIR/se_mod.afs e17_se_mod || exit 1
 	mv -f $WORKDIR/se_mod.afs $ISO_RES_DIR/se.afs
+}
+
+repack_se_afs () {
+	mkdir -p ${GAME}_se_mod
+	cp assets/se-${GAME}/*.ADX ${GAME}_se_mod
+	$REPACK_AFS $WORKDIR/se.afs $WORKDIR/se-repacked.afs ${GAME}_se_mod || exit 1
+	mv -f $WORKDIR/se-repacked.afs $ISO_RES_DIR/se.afs
 }
 
 repack_bg_afs () {
@@ -301,9 +307,15 @@ copy_movie () {
 }
 
 # Actually running above functions
-[ "$GAME" = "e17" ] && repack_e17_se_afs
 [ -e $WORKDIR/bg.afs ] && repack_bg_afs
 [ -e $WORKDIR/ev.afs ] && repack_ev_afs
+if [ -e $WORKDIR/se.afs ]; then
+	if [ "$GAME" = "e17" ] && [ -d "e17_x360_BGM" ]; then
+		repack_e17_se_afs
+	else
+		repack_se_afs
+	fi
+fi
 repack_mac_afs
 repack_etc_afs
 repack_init_bin
