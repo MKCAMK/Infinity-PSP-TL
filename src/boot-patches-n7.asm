@@ -35,7 +35,7 @@
 ; Do not call sceImposeSetLanguageMode to avoid overriding language settings
 .orga 0x761C
 .area 4
-        addu v0, zero, zero
+    addu v0, zero, zero
 .endarea
 
 ; Decrease line spacing in fullscreen text.
@@ -56,14 +56,14 @@
 ; Decrease spacing between characters in scene texts (originally 2 px)
 ; (Doesn't apply to menus, choice texts, history)
 @FontSpacing equ 0x0
-; .org 0x881A7C4 - width calc subroutine address
-.org 0x881A81C
+; .org 0x0881A7C4 - width calc subroutine address
+.org 0x0881A81C
 ;	nop
 	addiu v0, v0, @FontSpacing
-.org 0x881A848
+.org 0x0881A848
 ;	nop
 	addiu v0, v0, @FontSpacing
-.org 0x881A878
+.org 0x0881A878
 	addiu v0, v1, @FontSpacing
 
 

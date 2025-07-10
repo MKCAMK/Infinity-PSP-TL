@@ -18,11 +18,11 @@
 
 ; Swap Circle and Cross buttons
 ; PSP_CTRL_CROSS = 0x004000, PSP_CTRL_CIRCLE = 0x002000
-.org 0x08872d34
+.org 0x08872D34
 .area 4
 	ori v0, v0, 0x4000 ; treat Circle as Cross
 .endarea
-.org 0x08872d4c
+.org 0x08872D4C
 .area 4
 	ori v0, v0, 0x2000 ; treat Cross as Circle
 .endarea
@@ -48,7 +48,7 @@
 .org 0x08828134
 .area 4*3, 0
 	lw    v0, 0x14(v1)
-	blez  s1,0x088284e4
+	blez  s1,0x088284E4
 	sw    v0, 0x14(s0)
 .endarea
 
