@@ -9,11 +9,11 @@ COMPRESS=./bin/compressbip
 REPACK_AFS=./bin/repack_afs
 PACK_CNT=./bin/pack_cnt
 REPACK_SCENE=text/repack_scene.py
-ARMIPS=./tools/armips
+ARMIPS=./tools/armips # placeholder
 SIGN_NP=./tools/sign_np # placeholder
 PY=python3
 if [ "$(uname)" = "Darwin" ]; then
-	ARMIPS=./tools/armips_osx
+	ARMIPS=./tools/armips_osx # placeholder
 	SIGN_NP=./tools/sign_np_osx # placeholder
 elif [ "$(uname)" = "Linux" ]; then
 	ARMIPS=./tools/armips_lin64
@@ -226,18 +226,18 @@ patch_boot_bin () {
 	echo "Applying other patches to BOOT"
 	mv -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} $WORKDIR/BOOT.BIN.patched
 	if [ "cn" == "${TL_SUFFIX}" ]; then
-		$ARMIPS src/boot-patches-${GAME}-cn.asm -root $WORKDIR/ || exit 1
+		$ARMIPS "$(realpath src/boot-patches-${GAME}-cn.asm)" -root $WORKDIR/ || exit 1
 	else
-		$ARMIPS src/boot-patches-${GAME}.asm -root $WORKDIR/ || exit 1
+		$ARMIPS "$(realpath src/boot-patches-${GAME}.asm)" -root $WORKDIR/ || exit 1
 	fi
 	mv -f $WORKDIR/BOOT.BIN.patched $WORKDIR/BOOT.BIN.${TL_SUFFIX}
 
 	rm -f $ISO_BIN_DIR/BOOT.BIN
 	rm -f $ISO_BIN_DIR/EBOOT.BIN
-	cp -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} $ISO_BIN_DIR/BOOT.BIN
+	cp $WORKDIR/BOOT.BIN.${TL_SUFFIX} $ISO_BIN_DIR/BOOT.BIN
 	cp $ISO_BIN_DIR/BOOT.BIN $ISO_BIN_DIR/EBOOT.BIN
 	if command -v $SIGN_NP >/dev/null 2>&1; then
-		$SIGN_NP -elf $ISO_BIN_DIR/BOOT.BIN $ISO_BIN_DIR/EBOOT.BIN 1
+		$SIGN_NP -elf $ISO_BIN_DIR/BOOT.BIN $ISO_BIN_DIR/EBOOT.BIN 1 || exit 1
 	fi
 }
 

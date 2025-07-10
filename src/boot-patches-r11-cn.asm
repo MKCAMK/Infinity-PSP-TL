@@ -6,7 +6,7 @@
 ; Do not call sceImposeSetLanguageMode to avoid overriding language settings
 .orga 0x7620
 .area 4
-        addu v0, zero, zero
+    addu v0, zero, zero
 .endarea
 
 ; Decrease line spacing in fullscreen text.
@@ -16,7 +16,7 @@
 ;.endarea
 
 ; Fix the text bug for "All Choices:". (Inlined strcpy didn't copy the last char)
-.org 0x8828084
+.org 0x08828084
 .area 4*3, 0
 	lw    v0, 0x14(v1)
 	blez  s1,0x08828498
