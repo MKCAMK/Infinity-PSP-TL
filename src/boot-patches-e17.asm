@@ -239,8 +239,8 @@ C: adjust the memory location at which the container with graphics for the text 
 .org 0x884C844
 .area 4*22
 	addiu	t3,a0,0x60
-@LOG_TEXT_EXTENSION_x_LOOP_FRONT:
-	beq		zero,a1,@LOG_TEXT_EXTENSION_x_LOOP_OVER
+@@LOOP_FRONT:
+	beq		zero,a1,@@LOOP_OVER
 	lbu		v0,0x0(t2)
 	lbu		v1,0x1(t2)
 	sb		v0,0x0(a2)
@@ -248,20 +248,20 @@ C: adjust the memory location at which the container with graphics for the text 
 	andi	v0,v0,0xFF
 	sltiu	v0,v0,0x5F
 	addiu	a2,a2,0x1
-	beq		zero,v0,@LOG_TEXT_EXTENSION_x_SHIFT_JIS
+	beq		zero,v0,@@SHIFT_JIS
 	li		v0,0x23
-	bne		v0,v1,@LOG_TEXT_EXTENSION_x_LOOP_BACK
+	bne		v0,v1,@@LOOP_BACK
 	addiu	t2,t2,0x1
-	b 		@LOG_TEXT_EXTENSION_x_LOOP_BACK
+	b 		@@LOOP_BACK
 	addiu	t2,t2,0x1
-@LOG_TEXT_EXTENSION_x_SHIFT_JIS:
+@@SHIFT_JIS:
 	sb		v1,0x0(a2)
 	addiu	t2,t2,0x2
 	addiu	a2,a2,0x1
-@LOG_TEXT_EXTENSION_x_LOOP_BACK:
-	b		@LOG_TEXT_EXTENSION_x_LOOP_FRONT
+@@LOOP_BACK:
+	b		@@LOOP_FRONT
 	addiu	a1,a1,-0x1
-@LOG_TEXT_EXTENSION_x_LOOP_OVER:
+@@LOOP_OVER:
 	sb		zero,0x0(a2)
 	sb		zero,0x1(a2); 0x884C898: relocation-cleared
 .endarea; 0x884C89C
