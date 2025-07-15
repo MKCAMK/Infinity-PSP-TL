@@ -14,4 +14,4 @@ rm -rf text/tmp-${GAME}
 rm -rf text/font/${GAME} text/font/${GAME}-${TL_SUFFIX}
 rm -f patch/${GAME}-${TL_SUFFIX}.xdelta
 rm -f iso/${GAME}-${TL_SUFFIX}.iso
-rm -f pbp/EBOOT-${GAME}-${TL_SUFFIX}.PBP
+rm -rf pbp/${GAME}-${TL_SUFFIX}/

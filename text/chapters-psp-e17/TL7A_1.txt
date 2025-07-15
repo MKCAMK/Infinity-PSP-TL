@@ -386,7 +386,7 @@ CN PLACEHOLDER
 非常灯だけが点る暗がりの中、空は呟く。%K%P
 Sora murmured quietly in the darkness. The only light to illuminate us was coming from the emergency lights.
 CN PLACEHOLDER
-Тихо, во тьме, пробормотала Сора. Единственное, что нас освещает - тусклое сияние аварийных огней.
+Тихо, во тьме, пробормотала Сора. Единственное, что нас%Nосвещает - тусклое сияние аварийных огней.
 
 口調は穏やかだった。%K%P
 Her tone was peaceful.
@@ -571,7 +571,7 @@ CN PLACEHOLDER
 全コピーが成功する確証はないが、とにかくやってみる。%K%P
 There was no guarantee that it would be successful, but I was going to try.
 CN PLACEHOLDER
-Нет никаких гарантий, что сработает, но, как говорится, 'попытка - не пытка'.
+Нет никаких гарантий, что сработает, но, как говорится,%N'попытка - не пытка'.
 
 もう一生分の運を使い切った気がするけど、やってみよう。%K%P
 I felt I had probably exhausted my allotment of luck in life, but it was worth a shot.

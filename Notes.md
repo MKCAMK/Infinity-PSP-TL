@@ -15,7 +15,7 @@ Special Sequences
 
 %p - appears right before decision blocks.
 
-%V - ???
+%V - wait until voice line is over
 
 %LL / %LC / %LR - align to left, center, or right
 
@@ -113,7 +113,7 @@ The game uses FONT00 (lzss-compressed .FOP), found in etc.afs, as a main font.
 
 See folder `text/font/` for scripts.
 
-Game engine adds additional space between glyphs in scene textxs. This has been
+Game engine adds additional space between glyphs in scene texts. This has been
 fixed (additional spacing removed) by one of the patches in `boot-patches.asm`.
 
 Glyph 751 is a whitespace.

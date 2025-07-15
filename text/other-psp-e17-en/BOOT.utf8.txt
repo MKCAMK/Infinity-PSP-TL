@@ -12,6 +12,12 @@
 
 ;11e4c8;11;（Ｓａｔ）
 
+;11eff8;19;▼ＥｎｄＧａｍｅ
+▼Game Over
+
+;11f00c;19;▼ＥｘｉｔＧａｍｅ
+▼Title Screen
+
 ;11f648;47;『%s』%%Nはすでに見ていますのでスキップします
 
 ;11f678;19;0123456789ABCDEF
@@ -30,6 +36,7 @@ Load data from Memory Stick™.
 
 ;11f708;123;現在の状態を一時的に保存します。クイックセーブのデータはシステムデータをセーブするとメモリースティック™内に保存されます。
 Quick Save data is stored to Memory Stick™ when you save system data.
+## Temporarily save current state. Quick Save data is stored to Memory Stick™ when you save the system data.
 
 ;11f784;39;クイックセーブデータをロードします。
 Load Quick Save data.
@@ -94,6 +101,7 @@ Scene messages:%X152%XS10
 
 ;11fb20;3;%3d
 
+# % after number in "Scene messages:" etc.
 ;11fb24;3;％
 
 ;11fb28;11;−−−−
@@ -577,7 +585,7 @@ Clear the text log?%N%SYes%n  /  %n%SNo
 ;121a84;3;　
 
 ;121a88;15;▼テキストログ
-▼ Text log
+▼Text log
 
 ;121a98;11;text task
 
@@ -795,7 +803,9 @@ Dramatic mode
 
 ;1229e4;67;ゲーム中に表示されるボイス付きテキストの表示設定をしてください。
 
+# reused an unused string for storing unbreakable characters
 ;122a28;467;⑨チェックボックスをＯＦＦにすると、その箇所の%N⑨ボイスありテキストが非表示になります。%N⑨・キャラ＋背景……立ちキャラクタＣＧと%N⑨⑨⑨⑨⑨⑨⑨⑳⑳背景を使用しているシーン。%N⑨・イベントＣＧ……一枚の静止画で情景描写を%N⑨⑨⑨⑨⑨⑨⑨⑳行っているシーン。%N⑨・Ｋｅｙｗｏｒｄ……Ｋｅｙｗｏｒｄを含んだ%N⑨⑨⑨⑨⑨⑨⑨⑳テキストが表示される場合。%N%N⑨※全てのチェックボックスをＯＦＦにする事で、%N⑨⑨本ゲームをドラマティックモードとして%N⑨⑨プレイできます。%N
+,#.#!#?#a#b#c#d#e#f#g#h#i#j#k#l#m#n#o#p#q#r#s#t#u#v#w#x#y#z#A#B#C#D#E#F#G#H#I#J#K#L#M#N#O#P#Q#R#S#T#U#V#W#X#Y#Z#)#-#:#1#2#3#4#5#6#7#8#9#0#"#'#』〜ー♪」;#
 
 ;122bfc;23;テキストスピード設定
 Text display time
@@ -1222,15 +1232,12 @@ Select the info displayed in the game.
 ;1261bc;7;なし
 None
 
-## Unbreakable symbols. Without patch, expects ",#.#a#b#c#" for ascii (2 bytes, trailing #).
-## With ascii patch will compare every byte as is.
-## The following symbols dont allow a line break right before them
+## (moved to 122a28) The following symbols don't allow a line break right before them
 ;129448;71;、。」）＞】｝”っゃゅょぁぃぅぇぉッャュョァィゥェォ！？ー♪☆』〜》
-,.!?abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)-:1234567890"'
 
-## The following symbols dont allow a line break right after them
+## The following symbols don't allow a line break right after them
 ;129490;19;「（＜【｛“『《
-([@&'"
+(#[#@#'#"#「『
 
 ;134174;79;テキスト表示サンプル%N%LCEver17 -the out of infinity-%N%LRPremium Edition%K%P
 Text display sample%N%LCEver17 -the out of infinity-%N%LRPremium Edition%K%P

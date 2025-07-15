@@ -2,6 +2,8 @@
 
 if command -v "git" >/dev/null 2>&1 && [ "$REGEN_ALL" != true ]; then
 	check_replace() {
+		basepath="$(dirname "$1")/$(basename "$(basename "$1" .PNG)" .png)"
+		[ -e "$basepath.GIM" ] || [ -e "$basepath.gim" ] || return 0
 		git ls-files --error-unmatch "$1" >/dev/null 2>&1 || return 0
 		git diff --exit-code "$1" >/dev/null 2>&1 || return 0
 		return 1
@@ -28,7 +30,7 @@ fi
 
 for i in assets/bg-*-*/*.PNG assets/ev-*-*/*.PNG; do
 	[ -e "$i" ] || continue
-	check_replace "$i" && (python ./py-src/thumbhelper.py "$i" || exit 1)
+	check_replace "$i" && (./py-src/thumbhelper.py "$i" || exit 1)
 done
 for i in assets/etc-*-*/*/*.PNG assets/etc-*-*/*.PNG; do
 	[ -e "$i" ] || continue

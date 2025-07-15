@@ -294,7 +294,7 @@ CN PLACEHOLDER
 Ты свалился и...я пыталась поймать тебя, но...
 
 つぐみ「間に合わなくって……。額が割れてるわ、武」%K%P
-I didn't get there in time. You split your forehead,%NTakeshi.
+I didn't get there in time. You split your forehead, Takeshi.
 CN PLACEHOLDER
 Я не успела. Ты раскроил себе лоб, Такеши.
 
@@ -3349,7 +3349,7 @@ CN PLACEHOLDER
 Я медленно закрыл глаза.
 
 そのとき、俺はここにいることを初めて知った。%K%P
-That was when I realized for the first time that I was%N「there」.
+That was when I realized for the first time that I was 「there」.
 CN PLACEHOLDER
 И впервые, за всё это время понял, что я здесь.
 

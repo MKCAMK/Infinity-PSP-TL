@@ -576,7 +576,7 @@ CN PLACEHOLDER
 少年「Ａ階段、Ｂ階段、Ｃ通路、それから第４区画のドライエリアに、亀裂や損傷はない」%K%P
 The walls of Staircase A, Staircase B, Corridor C, and the area in Sector Four are all intact without cracks or damage.
 CN PLACEHOLDER
-Стены в пролёте 'А', пролёте 'Б', коридоре 'В' и в зоне Сектора 4 - целы и невредимы.
+Стены в пролёте 'А', пролёте 'Б', коридоре 'В' и в зоне%NСектора 4 - целы и невредимы.
 
 少年「つまり、これらは外海から完全に隔離されてるってわけ」%K%P
 So we can assume that all these areas are protected from outside seawater.
