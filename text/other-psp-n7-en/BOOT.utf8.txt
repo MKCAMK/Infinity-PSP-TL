@@ -12,6 +12,12 @@
 
 ;11bf70;11;（Ｓａｔ）
 
+;11caa0;19;▼ＥｎｄＧａｍｅ
+▼Game Over
+
+;11cab4;19;▼ＥｘｉｔＧａｍｅ
+▼Title Screen
+
 ;11d0c4;47;『%s』%%Nはすでに見ていますのでスキップします
 
 ;11d0f4;19;0123456789ABCDEF
@@ -30,7 +36,7 @@ Load data from Memory Stick™.
 
 ;11d184;123;現在の状態を一時的に保存します。クイックセーブのデータはシステムデータをセーブするとメモリースティック™内に保存されます。
 Quick Save data is stored to Memory Stick™ when you save system data.
-##Temporarily save current state. Quick Save data is stored to Memory Stick™ when you save the system data.
+## Temporarily save current state. Quick Save data is stored to Memory Stick™ when you save the system data.
 ## for some reason, the previous string caused the game to crash in some instances.
 ## is there perhaps a character limit for all strings displayed in the in-game menu at one time?
 ## edit: had to cut the string some more :P
@@ -107,6 +113,7 @@ Scene messages:%X152%XS10
 
 ;11d5bc;3;%3d
 
+# % after number in "Scene messages:" etc.
 ;11d5c0;3;％
 
 ;11d5c4;11;−−−−
@@ -591,7 +598,7 @@ Clear the text log?%N%SYes%n  /  %n%SNo
 ;11f468;3;　
 
 ;11f46c;15;▼テキストログ
-▼ Text log
+▼Text log
 
 ;11f47c;11;text task
 
@@ -802,7 +809,9 @@ Dramatic mode
 
 ;1203e8;67;ゲーム中に表示されるボイス付きテキストの表示設定をしてください。
 
+# reused an unused string for storing unbreakable characters
 ;12042c;467;⑩チェックボックスをＯＦＦにすると、その箇所の%N⑩ボイスありテキストが非表示になります。%N⑩・キャラ＋背景……立ちキャラクタＣＧと%N⑩⑩⑩⑩⑩⑩⑩⑳⑳背景を使用しているシーン。%N⑩・イベントＣＧ……一枚の静止画で情景描写を%N⑩⑩⑩⑩⑩⑩⑩⑳行っているシーン。%N⑩・Ｋｅｙｗｏｒｄ……Ｋｅｙｗｏｒｄを含んだ%N⑩⑩⑩⑩⑩⑩⑩⑳テキストが表示される場合。%N%N⑩※全てのチェックボックスをＯＦＦにする事で、%N⑩⑩本ゲームをドラマティックモードとして%N⑩⑩プレイできます。%N
+,#.#!#?#a#b#c#d#e#f#g#h#i#j#k#l#m#n#o#p#q#r#s#t#u#v#w#x#y#z#A#B#C#D#E#F#G#H#I#J#K#L#M#N#O#P#Q#R#S#T#U#V#W#X#Y#Z#)#-#:#1#2#3#4#5#6#7#8#9#0#"#'#』〜ー♪」;#
 
 ;120600;23;テキストスピード設定
 Text display time
@@ -1205,11 +1214,12 @@ Select the info displayed in the game.
 ;123bb8;7;なし
 None
 
-## Unbreakable symbols. Without patch, expects ",#.#a#b#c#" for ascii (2 bytes, trailing #).
-## With ascii patch will compare every byte as is.
-## The following symbols dont allow a line break right before them
+## (moved to 12042c) The following symbols don't allow a line break right before them
 ;126dd0;71;、。」）＞】｝”っゃゅょぁぃぅぇぉッャュョァィゥェォ！？ー♪☆』〜》
-,.!?abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)]:1234567890"'
-## The following symbols dont allow a line break right after them
+
+## The following symbols don't allow a line break right after them
 ;126e18;19;「（＜【｛“『《
-([@&'"
+(#[#@#'#"#「『
+
+;131ab8;95;テキスト表示サンプル%N%LCNever7 -the end of infinity-%N%LRあいうえおアイウエオＡＢＣＤＥ%K%P
+Text display sample%N%LCNever7 -the end of infinity-%N%LRbibarub was here%K%P

@@ -8900,84 +8900,106 @@ January, 17
 ;dupe:8e58
 ;8e7c;10;１月１７日
 ;dupe:8e5c
+
 ;8ea0;29;うしろのしょうめんのぼく／Uni
+I'm Behind You!/Yuni
 
 ;8ea4;22;鏡の中のワタシ／Cocoro
-Me in the Mirror/Kokoro
+Me In the Mirror/Kokoro
+
 ;8ea8;24;天より墜ちたオレ／Satoru
+The Fallen Me/Satoru
 
 ;8eac;8;大地母神
-
+Great Mother
 ;8eb0;8;大地母神
 ;dupe:8eac
 ;8eb4;8;大地母神
 ;dupe:8eac
-;8eb8;8;影は蔭に
 
+;8eb8;8;影は蔭に
+Behind the Shadow
 ;8ebc;8;影は蔭に
 ;dupe:8eb8
 ;8ec0;8;影は蔭に
 ;dupe:8eb8
 ;8ec4;8;影は蔭に
 ;dupe:8eb8
-;8ec8;12;無知なる道化
 
+;8ec8;12;無知なる道化
+Unknowing Trickster
 ;8ecc;12;無知なる道化
 ;dupe:8ec8
 ;8ed0;12;無知なる道化
 ;dupe:8ec8
-;8ed4;8;女は男に
-;dupe:8e34
-;8ed8;8;男は女に
-;dupe:8e38
-;8edc;8;男は女に
-;dupe:8e38
-;8ee0;8;男は女に
-;dupe:8e38
-;8ee4;22;聖者は語り、仮面は黙す
-;dupe:8e3c
-;8ee8;22;聖者は語り、仮面は黙す
-;dupe:8e3c
-;8eec;22;生きている証を確かめて
 
+;8ed4;8;女は男に
+Woman Is Man
+
+;8ed8;8;男は女に
+Man Is Woman
+;8edc;8;男は女に
+;dupe:8ed8
+;8ee0;8;男は女に
+;dupe:8ed8
+
+;8ee4;22;聖者は語り、仮面は黙す
+
+;8ee8;22;聖者は語り、仮面は黙す
+;dupe:8ee4
+
+;8eec;22;生きている証を確かめて
+Affirming Our Existences
 ;8ef0;22;生きている証を確かめて
 ;dupe:8eec
+
 ;8ef4;12;失われた素顔
+Lost True Nature
 
 ;8ef8;18;青鷺の満ち足りた朝
+Aosagi's Lively Breakfast
 
 ;8efc;18;朱倉の貧寒とした朝
-
+Akakura's Dull Breakfast
 ;8f00;18;朱倉の貧寒とした朝
 ;dupe:8efc
+
 ;8f04;12;血まみれの母
+Bloodstained Mother
 
 ;8f08;24;優しきとて、疑いは晴れず
+Kindness Won't Clear Doubts
 
 ;8f0c;46;黄泉木たいちょー！　財宝を発見したであります！
-
+Captain Yomogi! I've discovered hidden treasure!
 ;8f10;46;黄泉木たいちょー！　財宝を発見したであります！
 ;dupe:8f0c
 ;8f14;46;黄泉木たいちょー！　財宝を発見したであります！
 ;dupe:8f0c
-;8f18;8;死の世界
 
+;8f18;8;死の世界
+World of Death
 ;8f1c;8;死の世界
 ;dupe:8f18
-;8f20;8;死を想え
 
+;8f20;8;死を想え
+Thinking of Death
 ;8f24;8;死を想え
 ;dupe:8f20
+
 ;8f28;28;生きて、いかなければならない
+We... have to live.
 
 ;8f2c;14;死の狭間の狂乱
 
 ;8f30;16;ラジオの語る日常
 
 ;8f34;10;嬰児の戯れ
+Happy Child
 
 ;8f38;10;永遠の少年
 ;dupe:18e4
+
 ;8f3c;28;蒼黒の空と、星と、聖母の祝福
 
 ;8f40;30;黄金の空と、雲と、老賢人の祈り
@@ -8990,24 +9012,27 @@ Me in the Mirror/Kokoro
 
 ;8f50;14;乖離する心と器
 ;dupe:8f4c
+
 ;8f54;12;刻まれた傷跡
 
 ;8f58;16;忍び寄る死の足音
 
 ;8f5c;16;忍び寄る死の足音
 ;dupe:8f58
+
 ;8f60;10;母から子へ
 
 ;8f64;12;全知なる道化
 
 ;8f68;18;もうひとりいた乗客
-
+Another Passenger
 ;8f6c;18;もうひとりいた乗客
 ;dupe:8f68
 ;8f70;18;もうひとりいた乗客
 ;dupe:8f68
 ;8f74;18;もうひとりいた乗客
 ;dupe:8f68
+
 ;8f78;18;産み月（うみづき）
 
 ;8f7c;10;狂った世界
@@ -9016,10 +9041,12 @@ Me in the Mirror/Kokoro
 ;dupe:8f7c
 ;8f84;10;狂った世界
 ;dupe:8f7c
+
 ;8f88;16;邂逅にして、再会
 
 ;8f8c;16;邂逅にして、再会
 ;dupe:8f88
+
 ;8f90;10;運命共同体
 
 ;8f94;12;壊れゆくオレ
@@ -9036,10 +9063,12 @@ Me in the Mirror/Kokoro
 ;dupe:8fa0
 ;8fac;31;Awakening⑳from⑳the⑳nightmare
 ;dupe:8fa0
+
 ;8fb0;12;Angry⑳clown
 
 ;8fb4;12;Angry⑳clown
 ;dupe:8fb0
+
 ;8fb8;11;It's⑳Tuna!
 
 ;8fbc;10;Temptation
@@ -9052,6 +9081,7 @@ Me in the Mirror/Kokoro
 ;dupe:8fc0
 ;8fcc;15;Murder⑳looming
 ;dupe:8fc0
+
 ;8fd0;20;Heartbreaking⑳cries
 
 ;8fd4;6;Killer
@@ -9068,24 +9098,29 @@ Me in the Mirror/Kokoro
 
 ;8fec;20;Take⑳off⑳the⑳mask
 ;dupe:8fe8
+
 ;8ff0;7;Avenger
 
 ;8ff4;7;Avenger
 ;dupe:8ff0
+
 ;8ff8;34;Great⑳Mother⑳said⑳in⑳the⑳snow
 
 ;8ffc;34;Great⑳Mother⑳said⑳in⑳the⑳snow
 ;dupe:8ff8
+
 ;9000;14;Grand⑳finale?
 
 ;9004;14;Grand⑳finale?
 ;dupe:9000
+
 ;9008;15;He⑳was⑳a⑳man
 
 ;900c;10;First⑳aid
 
 ;9010;10;First⑳aid
 ;dupe:900c
+
 ;9014;6;Lovers
 
 ;9018;22;Exotic⑳distant⑳dream
@@ -9100,6 +9135,7 @@ Me in the Mirror/Kokoro
 
 ;902c;16;The⑳world⑳lost
 ;dupe:9028
+
 ;9030;11;パッケージ1
 
 ;9034;21;パッケージ2＆ポスター

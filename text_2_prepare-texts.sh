@@ -19,7 +19,7 @@ else
 	prepare_translation () {
 		python3 ./py-src/utf8_to_comb.py text/tmp-${GAME}/mac-psp-${TL_SUFFIX}-utf8-wrapped/$1.txt text/tmp-${GAME}/mac-psp-${TL_SUFFIX}/$1.txt ${TL_SUFFIX} || exit 1
 	}
-	python3 ./py-src/linebreaker.py ${GAME} ${TL_SUFFIX} || exit 1
+	# python3 ./py-src/linebreaker.py ${GAME} ${TL_SUFFIX} || exit 1
 	for i in text/mac-psp-${GAME}-${TL_SUFFIX}-utf8/*.txt ; do
 		f=$(basename $i .txt)
 		echo "Preparing chapter: $f"

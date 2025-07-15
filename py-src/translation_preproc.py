@@ -15,7 +15,7 @@ from typing import List, Tuple
 import r11.names as names
 import r11
 
-import linebreaker
+# import linebreaker
 
 debug = False
 should_run_buffer_overflow_validations = False
@@ -129,9 +129,9 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
 
   page_buf = 0
 
-  if tl_suffix in ("en", "ru"):
-    widths = linebreaker.load_font_table(tl_suffix)
-  counter = 0
+  # if tl_suffix in ("en", "ru"):
+  #   widths = linebreaker.load_font_table(tl_suffix)
+  # counter = 0
 
   # used to validate that jp lines have a 100% match with the original.
   jp_true_lines = filterTrueJpLines(jp_mac_chapter_lines) if jp_mac_chapter_lines else None
@@ -253,11 +253,11 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
 
     export_translated_line = leading_control + export_translated_line + trailing_control
 
-    if tl_suffix in ("ru", "en"):
-      counter, export_translated_line = linebreaker.process_line(export_translated_line, counter, widths, tl_suffix)
-      export_translated_line = export_translated_line.rstrip('\n')
-      if export_translated_line.endswith("%K") and not export_translated_line.endswith(" %K"):
-        counter = 0
+    # if tl_suffix in ("ru", "en"):
+    #   counter, export_translated_line = linebreaker.process_line(export_translated_line, counter, widths, tl_suffix)
+    #   export_translated_line = export_translated_line.rstrip('\n')
+    #   if export_translated_line.endswith("%K") and not export_translated_line.endswith(" %K"):
+    #     counter = 0
 
     out_lines_of_bytes_tl.append(r11.str_to_r11_bytes(export_translated_line, lang=tl_suffix, exception_on_unknown=True) + b"\n")
   # end of for i, tlb in enumerate(tl_buckets):

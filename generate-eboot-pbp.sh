@@ -18,6 +18,6 @@ else # e17
 	TID=ULJM05437
 fi
 
-mkdir -p pbp
+mkdir -p pbp/${GAME}-${TL_SUFFIX}
 
-$SIGN_NP -pbp iso/${GAME}-${TL_SUFFIX}.iso pbp/EBOOT-${GAME}-${TL_SUFFIX}.PBP JP9000-${TID}_00-0000000000000001 0
+$SIGN_NP -pbp iso/${GAME}-${TL_SUFFIX}.iso pbp/${GAME}-${TL_SUFFIX}/EBOOT.PBP JP9000-${TID}_00-0000000000000001 0
