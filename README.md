@@ -17,6 +17,7 @@ Without these people, this project would not have existed.
 - [R11 Team](https://m.vk.com/wall-76654048_1217): Cyrillic font, Russian menu translations.
 - [TimTH98](https://github.com/TimTH98): Russian graphics for the Ever17 translation port.
 - [Nightdavisao](https://github.com/nightdavisao): English UI graphics for Ever17.
+- [MKCA](https://github.com/MKCAMK): removal of the character limit from the text log of Ever17.
 
 ### Useful Links
 
