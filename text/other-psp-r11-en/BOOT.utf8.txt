@@ -334,36 +334,36 @@ Power off and end the game?%N%SYes%n  /  %N%SNo
 「Remember11 -the age of infinity-」 save data will be lost.%%NAre you sure you want to overwrite the save data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;121ffc;79;セーブデータを上書きしています%%Nメモリースティック™を絶対抜かないでください
-Overwriting save data%%NPlease do not remove the Memory Stick™
+Overwriting save data.%%NPlease do not remove the Memory Stick™.
 
 ;12204c;7;成功%%N
 Done%%N
 
 ;122054;43;メモリースティック™が挿入されていません%%N
-Memory Stick™ is not inserted%%N
+Memory Stick™ is not inserted.%%N
 
 ;122080;51;メモリースティック™がフォーマットされていません%%N
-Memory Stick™ is not formatted%%N
+Memory Stick™ is not formatted.%%N
 
 ;1220b4;95;メモリースティック™の空き容量が不足しています%%Nセーブには%sＫＢ以上の空き容量が必要です%%N
-Not enough free space on Memory Stick™%%NAt least %s KB is required to save%%N
+Not enough free space on Memory Stick™.%%NAt least %s KB is required to save.%%N
 
 ;122114;95;メモリースティック™に%%N『Remember11 -the age of infinity-』の%%Nセーブデータがありません%%N
-Save data for%%N「Remember11 -the age of infinity-」%%Nis not present on Memory Stick™%%N
+Save data for%%N「Remember11 -the age of infinity-」%%Nis not present on Memory Stick™.%%N
 
 ;122174;87;『Remember11 -the age of infinity-』の%%Nセーブデータが破損している可能性があります%%N
-Save data for%%N「Remember11 -the age of infinity-」%%Nmay be corrupted%%N
+Save data for%%N「Remember11 -the age of infinity-」%%Nmay be corrupted.%%N
 
 ;1221cc;55;同時に開けるファイル数を%%N越えているので開けません%%N
 
 ;122204;27;再書き込みが失敗しました%%N
-Rewrite failed%%N
+Rewrite failed.%%N
 
 ;122220;91;『Remember11 -the age of infinity-』の%%Nシステムデータが破損している可能性があります%%N
-System data for%%N「Remember11 -the age of infinity-」%%Nmay be corrupted%%N
+System data for%%N「Remember11 -the age of infinity-」%%Nmay be corrupted.%%N
 
 ;12227c;71;『Remember11 -the age of infinity-』の%%Nシステムデータがありません%%N
-System data for%%N「Remember11 -the age of infinity-」%%not found%%N
+System data for%%N「Remember11 -the age of infinity-」%%Nnot found.%%N
 
 ;1222c4;31;もう一度チェックしますか？%%N
 Try again?%%N
@@ -375,32 +375,32 @@ Start the game?%%N
 %%SYes%%n  /  %%n%%SNo
 
 ;122334;155;メモリースティック™に%%N『Remember11 -the age of infinity-』の%%Nセーブに必要な空き容量がありませんでした%%Nセーブには%sＫＢ以上の空き容量が必要です%%N
-There is not enough space on Memory Stick™%%Nto save 「Remember11 -the age of infinity-」%%NYou need at least %s KB of free space%%N
+There is not enough space on Memory Stick™%%Nto save 「Remember11 -the age of infinity-」.%%NYou need at least %s KB of free space.%%N
 
 ;1223d0;47;メモリースティック™が%%N挿入されていません%%N
-Memory Stick™ not inserted%%N
+Memory Stick™ not inserted.%%N
 
 ;122400;91;メモリースティック™が%%N書き込み保護されて%%Nセーブデータにアクセス%%Nできませんでした%%N
-Memory Stick™ was write-protected%%Nand save data could not be accessed%%N
+Memory Stick™ was write-protected%%Nand save data could not be accessed.%%N
 
 ;12245c;59;メモリースティック™の%%Nアクセスエラーが発生しました%%N
-Memory Stick™ access error has occurred%%N
+Memory Stick™ access error has occurred.%%N
 
 ;122498;75;『Remember11 -the age of infinity-』の%%Nセーブデータがありませんでした%%N
-No save data was found for%%N「Remember11 -the age of infinity-」%%N
+No save data was found for%%N「Remember11 -the age of infinity-」.%%N
 
 ;1224e4;75;渡されたパラメータが%%N不正でユーティリティが%%N動作できませんでいした%%N
 
 ;122530;51;スリープモードに移行したため処理を中止しました%%N
-Saving aborted because of a suspend%%N
+Saving aborted because of a suspend.%%N
 
 ;122564;27;内部エラーが発生しました%%N
-Internal error occurred%%N
+Internal error occurred.%%N
 
 ;122580;31;連続呼び出しステータスエラー%%N
 
 ;1225a0;55;保護ありファイルがこれ以上%%N追加できませんでいした%%N
-Unable to add more%%Nprotected files%%N
+Unable to add more%%Nprotected files.%%N
 
 ;1225d8;103;メモリースティック™チェック中%%Nメモリースティック™が挿入されている場合は%%N絶対抜かないでください
 Checking Memory Stick™.%%NPlease do not remove it from the slot.
@@ -409,7 +409,7 @@ Checking Memory Stick™.%%NPlease do not remove it from the slot.
 Memory Stick™ is not formatted.%%NDo you want to format and create save data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;1226cc;71;フォーマットをしています%%Nメモリースティック™を絶対抜かないでください
-Formatting%%NPlease do not remove the Memory Stick™
+Formatting.%%NPlease do not remove the Memory Stick™.
 
 ;122714;115;『Remember11 -the age of infinity-』の%%Nセーブデータを作成してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Do you want to create save data for%%N「Remember11 -the age of infinity-」?%%N%%SYes%%n  /  %%n%%SNo
@@ -445,28 +445,28 @@ Do you want to load this data?%%N%%SYes%%n  /  %%n%%SNo
 Do you want to clear Quick Save data?%%N(Locked data will remain untouched)%%N%%SYes%%n  /  %%n%%SNo
 
 ;122ad0;11;セーブ完了
-Saved
+Saved.
 
 ;122adc;11;ロード完了
-Loaded
+Loaded.
 
 ;122ae8;19;システムセーブ完了
-System data saved
+System data saved.
 
 ;122afc;19;システムロード完了
-System data loaded
+System data loaded.
 
 ;122b10;31;セーブする場所を選んでください
-Choose the save location
+Choose the save location.
 
 ;122b30;235;『Remember11 -the age of infinity-』の%%Nセーブデータが破損している可能性があります%%Nこのままゲームを開始してもよろしいですか？%%N※このままゲームを開始した場合%%Nシステムデータは初期状態で開始されます%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 The save data of 「Remember11 -the age of infinity-」%%Nmay be corrupted.%%NIf you start the game as it is,%%Nthe system data will be reset.%%NAre you sure?%%N%%SYes%%n  /  %%n%%SNo
 
 ;122c1c;159;メモリースティック™が挿入されていません%%Nセーブには%sＫＢ以上の空き容量が必要です%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-No Memory Stick™ is inserted%%NAt least %s KB of free space is required for saving%%NAre you sure you want to start the game as is?%%N%%SYes%%N  /  %%n%%SNo
+No Memory Stick™ is inserted.%%NAt least %s KB of free space is required for saving.%%NAre you sure you want to start the game as is?%%N%%SYes%%N  /  %%n%%SNo
 
 ;122cbc;215;メモリースティック™に%%N『Remember11 -the age of infinity-』の%%Nセーブデータがありませんでした%%Nセーブには%sＫＢ以上の空き容量が必要です%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-No save data for 「Remember11 -the age of infinity-」%%Nwas found on the Memory Stick™%%NYou need at least %s KB of free space to save.%%NStart the game now?%%N%%SYes%%N  /  %%n%%SNo
+No save data for 「Remember11 -the age of infinity-」%%Nwas found on the Memory Stick™.%%NYou need at least %s KB of free space to save.%%NStart the game now?%%N%%SYes%%N  /  %%n%%SNo
 
 ;122d94;199;メモリースティック™の空き容量が不足しています%%Nセーブには%sＫＢ以上の空き容量が必要です%%Nこのままではセーブができません%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 There is not enough free space on%%Nthe Memory Stick™.%%NYou need at least %s KB of free%Nspace to save.%%NStart the game as is?%%N%%SYes%%n  /  %%n%%SNo
@@ -475,22 +475,22 @@ There is not enough free space on%%Nthe Memory Stick™.%%NYou need at least %s 
 There is not enough free space on%%Nthe Memory Stick™.%%NYou need at least %s KB of free%Nspace to save.%%NDo you want to delete other save%%Ndata in order to free up space?%%N%%SYes%%n  /  %%n%%SNo
 
 ;122f58;91;時刻が正しく取得できませんでした%%N強制的に書き込みますか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-The time could not be obtained correctly%%NWrite forcibly?%%N%%SYes%%n  /  %%n%%SNo
+The time could not be obtained correctly.%%NWrite forcibly?%%N%%SYes%%n  /  %%n%%SNo
 
 ;122fb4;23;セーブに失敗しました%%N
-Save failed%%N
+Save failed.%%N
 
 ;122fcc;23;ロードに失敗しました%%N
-Load failed%%N
+Load failed.%%N
 
 ;122fe4;31;フォーマットに失敗しました%%N
-Format failed%%N
+Format failed.%%N
 
 ;123004;39;新規セーブデータの作成に失敗しました%%N
-Creating new save data failed%%N
+Creating new save data failed.%%N
 
 ;12302c;23;上書きに失敗しました%%N
-Overwrite failed%%N
+Overwrite failed.%%N
 
 ;123044;83;『Never7 -the end of infinity-』をロード%N『Ever17 -the out of infinity-』をロード
 Load 「Never7 -the end of infinity-」%NLoad 「Ever17 -the out of infinity-」
@@ -538,7 +538,7 @@ Are you sure you want to discard the edited data?%%N%%SYes%%N  /  %%N%%SNo
 No Data
 
 ;1238f4;23;データが破損しています
-The data is corrupted
+The data is corrupted.
 
 ;12390c;7;６０８
 
@@ -973,7 +973,7 @@ Change the text color of choices that have been selected earlier.
 Font decoration
 
 ;125680;23;装飾なし%N影%N縁取り
-None%NShadow%NEdge
+None%NShadow%NOutline
 
 ;125698;63;ゲーム中のテキストフォントの装飾方法を設定する事ができます。
 Set how the text font is decorated in the game.

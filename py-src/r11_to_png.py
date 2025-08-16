@@ -7,17 +7,14 @@ import struct
 import sys
 from PIL import Image
 
-ps2 = False
-ps2_alt_tile_size = False
+ps2 = False # ps2 e17
+ps2_alt_tile_size = False # ps2 r11
 android = False
 
 atlas_width = 512
-if ps2:
+if ps2 or ps2_alt_tile_size:
     atlas_tile_size = 16
-    if ps2_alt_tile_size: # apparently used in ps2 r11
-        drawn_tile_size = 14
-    else:
-        drawn_tile_size = 16 # definitely used in ps2 e17
+    drawn_tile_size = 14 if ps2_alt_tile_size else 16
 else: # infinity psp and android
     atlas_tile_size = 32
     drawn_tile_size = 30
@@ -39,6 +36,7 @@ def unpack_r11(r11_file):
     entries_count = header_int_count - 3 - 2 if header_int_count == 10 else header_int_count - 3 - 1 # guessed
     entry_ptrs = struct.unpack("<"+str(entries_count)+"I", data[4:4+entries_count*4])
 
+    atlas = None
     for i, entry_ptr in enumerate(entry_ptrs):
         if entry_ptr == palette_ptr: continue
         draw_count, paletted, unk1, unk2, width, height = struct.unpack("<6H", data[entry_ptr:entry_ptr+6*2])
@@ -65,12 +63,7 @@ def unpack_r11(r11_file):
                     a = data[i+3]
                     data[i+3] = a*2 if a != 128 else 255
             atlas_height = (len(data)-pixels_ptr) // atlas_width // (1 if paletted else 4)
-            if paletted:
-                atlas = Image.new("P", (atlas_width, atlas_height))
-                #atlas.putpalette(data[palette_ptr:palette_ptr+4*256], "RGBA")
-                atlas.putdata(data[pixels_ptr:])
-            else:
-                atlas = Image.frombytes("RGBA", (atlas_width, atlas_height), data[pixels_ptr:])
+            atlas = Image.frombytes("P" if paletted else "RGBA", (atlas_width, atlas_height), data[pixels_ptr:])
 
         im = Image.new("P" if paletted else "RGBA", (width, height))
         if paletted:
@@ -95,7 +88,7 @@ def unpack_r11(r11_file):
                 yy += drawn_tile_size
             draw_ptr += step # this is how the psp game uses the "step" value
         images.append(im)
-    atlas.close()
+    if atlas: atlas.close()
     return images
 
 def main():

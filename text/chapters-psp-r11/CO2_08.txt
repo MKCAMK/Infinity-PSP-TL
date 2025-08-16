@@ -949,7 +949,7 @@ I'm going to the crash site.
 RU PLACEHOLDER
 
 黄泉木「残骸のどこかに、無線機があるはずだ」%K%P
-There must be a wireless radio somewhere within the wreckage.
+There must be a radio somewhere within the wreckage.
 黄泉木「残骸里面应该会有无线电的」
 RU PLACEHOLDER
 
@@ -1274,7 +1274,7 @@ My voice, which I don't remember recording!
 RU PLACEHOLDER
 
 私の避難小屋での記憶がない間、悟が『冬川こころの身体』を動かしているという証拠だ。%K%P
-It's proof that, during the time in which I have no memory of being in the shelter cabin, 「Kokoro Fuyukawa's body」 is being operated by Satoru.
+It's proof that, during the time in which I have no memory of being in the shelter cabin, 「Fuyukawa Kokoro's body」 is being operated by Satoru.
 这是在我对避难小屋没有记忆的时间里，悟用“冬川心的身体”活动的证据。
 RU PLACEHOLDER
 

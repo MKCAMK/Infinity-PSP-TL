@@ -63,6 +63,12 @@ repack_mac_afs () {
 	mkdir -p text/tmp-${GAME}/mac-psp-jp-${TL_SUFFIX}-names
 
 	$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/SHORTCUT.SCN.txt ${GAME}_mac/SHORTCUT.SCN ${GAME}_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX} || exit 1
+	if [ "$GAME" = "r11" ]; then
+		# patch bytecode for shortcut "Kokoro: Day 6 (Middle)"
+		# fixes a bug of the original game where the background wouldn't be cropped properly
+		echo "Patching shortcuts bytecode"
+		dd bs=1 count=20 if=r11_mac/CO6_04.SCN skip=5276 of=r11_mac_${TL_SUFFIX}/SHORTCUT.SCN seek=14792 conv=notrunc || exit 1
+	fi
 	$COMPRESS ./${GAME}_mac_${TL_SUFFIX}/SHORTCUT.{SCN,BIP}
 	if [ -e text/other-psp-${GAME}-${TL_SUFFIX}/APPEND.SCN.txt ]; then
 		$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/APPEND.SCN.txt ${GAME}_mac/APPEND.SCN ${GAME}_mac_${TL_SUFFIX}/APPEND.SCN ${TL_SUFFIX} -a || exit 1

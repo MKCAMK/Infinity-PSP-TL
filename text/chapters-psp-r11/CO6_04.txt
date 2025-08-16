@@ -932,8 +932,10 @@ What is she talking about?
 指的什么啊？
 RU PLACEHOLDER
 
+// until i come up with a better way of handling italics,
+// the trailing control sequences here will have to be repeated
 黛「あれよ、あれ」%K%P
-I mean <i>that</i>, <i>that!</i>
+I mean <i>that</i>, <i>that!</i>」%K%P
 黛「那个啊，就是那个」
 RU PLACEHOLDER
 
@@ -1013,7 +1015,7 @@ What do I do... What do I do...?
 RU PLACEHOLDER
 
 黛「ほら、あれよ」%K%P
-C'mon, it's <i>that!</i>
+C'mon, it's <i>that!</i>」%K%P
 黛「就是那个啊」
 RU PLACEHOLDER
 

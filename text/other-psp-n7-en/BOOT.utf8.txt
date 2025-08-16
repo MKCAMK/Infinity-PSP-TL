@@ -343,7 +343,7 @@ Turn off the power and exit the game?%N%SYes%n  /  %n%SNo
 「Never7 -the end of infinity-」 save data will be lost.%%NAre you sure you want to overwrite the save data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11dfb0;79;セーブデータを上書きしています%%Nメモリースティック™を絶対抜かないでください
-Overwriting save data%%NPlease do not remove the Memory Stick™
+Overwriting save data.%%NPlease do not remove the Memory Stick™.
 
 ;11e000;47;複写%%N張り付け%%N削除%%N書き込み%%N元に戻す
 Copy%%NPaste%%NDelete%%NSave%%NUndo
@@ -358,30 +358,30 @@ Are you sure you want to discard the edited data?%%N%%SYes%%N  /  %%N%%SNo
 Done%%N
 
 ;11e0fc;43;メモリースティック™が挿入されていません%%N
-Memory Stick™ is not inserted%%N
+Memory Stick™ is not inserted.%%N
 
 ;11e128;51;メモリースティック™がフォーマットされていません%%N
-Memory Stick™ is not formatted%%N
+Memory Stick™ is not formatted.%%N
 
 ;11e15c;99;メモリースティック™の空き容量が不足しています%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%N
-Not enough free space on Memory Stick™%%NAt least %s KB is required to save%%N
+Not enough free space on Memory Stick™%%NAt least %s KB is required to save.%%N
 
 ;11e1c0;91;メモリースティック™に%%N『Never7 -the end of infinity-』の%%Nセーブデータがありません%%N
-Save data for%%N「Never7 -the end of infinity-」%%Nis not present on Memory Stick™%%N
+Save data for%%N「Never7 -the end of infinity-」%%Nis not present on Memory Stick™.%%N
 
 ;11e21c;83;『Never7 -the end of infinity-』の%%Nセーブデータが破損している可能性があります%%N
-Save data for%%N「Never7 -the end of infinity-」%%Nmay be corrupted%%N
+Save data for%%N「Never7 -the end of infinity-」%%Nmay be corrupted.%%N
 
 ;11e270;55;同時に開けるファイル数を%%N越えているので開けません%%N
 
 ;11e2a8;27;再書き込みが失敗しました%%N
-Rewrite failed%%N
+Rewrite failed.%%N
 
 ;11e2c4;87;『Never7 -the end of infinity-』の%%Nシステムデータが破損している可能性があります%%N
-System data for%%N「Never7 -the end of infinity-」%%Nmay be corrupted%%N
+System data for%%N「Never7 -the end of infinity-」%%Nmay be corrupted.%%N
 
 ;11e31c;67;『Never7 -the end of infinity-』の%%Nシステムデータがありません%%N
-System data for%%NNever7 -the end of infinity-%%Nis not present%%N
+System data for%%N「Never7 -the end of infinity-」%%Nnot found.%%N
 
 ;11e360;31;もう一度チェックしますか？%%N
 Try again?%%N
@@ -393,32 +393,32 @@ Start the game?%%N
 %%SYes%%n  /  %%n%%SNo
 
 ;11e3d0;155;メモリースティック™に%%N『Never7 -the end of infinity-』の%%Nセーブに必要な空き容量がありませんでした%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%N
-There is not enough space on Memory Stick™%%Nto save 「Never7 -the end of infinity-」%%NYou need at least %s KB of free space%%N
+There is not enough space on Memory Stick™%%Nto save 「Never7 -the end of infinity-」.%%NYou need at least %s KB of free space.%%N
 
 ;11e46c;47;メモリースティック™が%%N挿入されていません%%N
-Memory Stick™ not inserted%%N
+Memory Stick™ not inserted.%%N
 
 ;11e49c;91;メモリースティック™が%%N書き込み保護されて%%Nセーブデータにアクセス%%Nできませんでした%%N
-Memory Stick™ was write-protected%%Nand save data could not be accessed%%N
+Memory Stick™ was write-protected%%Nand save data could not be accessed.%%N
 
 ;11e4f8;59;メモリースティック™の%%Nアクセスエラーが発生しました%%N
-Memory Stick™ access error has occurred%%N
+Memory Stick™ access error has occurred.%%N
 
 ;11e534;71;『Never7 -the end of infinity-』の%%Nセーブデータがありませんでした%%N
-No save data was found for%%N「Never7 -the end of infinity-」%%N
+No save data was found for%%N「Never7 -the end of infinity-」.%%N
 
 ;11e57c;75;渡されたパラメータが%%N不正でユーティリティが%%N動作できませんでいした%%N
 
 ;11e5c8;39;サスペンドが発生し処理を中止しました%%N
-Saving aborted because of a suspend%%N
+Saving aborted because of a suspend.%%N
 
 ;11e5f0;27;内部エラーが発生しました%%N
-Internal error occurred%%N
+Internal error occurred.%%N
 
 ;11e60c;31;連続呼び出しステータスエラー%%N
 
 ;11e62c;55;保護ありファイルがこれ以上%%N追加できませんでいした%%N
-Unable to add more%%Nprotected files%%N
+Unable to add more%%Nprotected files.%%N
 
 ;11e664;103;メモリースティック™チェック中%%Nメモリースティック™が挿入されている場合は%%N絶対抜かないでください
 Checking Memory Stick™.%%NPlease do not remove it from the slot.
@@ -427,13 +427,13 @@ Checking Memory Stick™.%%NPlease do not remove it from the slot.
 Memory Stick™ is not formatted.%%NDo you want to format and create save data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11e758;71;フォーマットをしています%%Nメモリースティック™を絶対抜かないでください
-Formatting%%NPlease do not remove the Memory Stick™
+Formatting.%%NPlease do not remove the Memory Stick™.
 
 ;11e7a0;111;『Never7 -the end of infinity-』の%%Nセーブデータを作成してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Do you want to create save data for%%N「Never7 -the end of infinity-」?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11e810;75;セーブデータを作成しています%%Nメモリースティック™を絶対抜かないでください
-Creating save data%%NPlease do not remove the Memory Stick™
+Creating save data.%%NPlease do not remove the Memory Stick™.
 
 ;11e85c;63;セーブしなくてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Cancel saving?%%N%%SYes%%n  /  %%n%%SNo
@@ -445,7 +445,7 @@ Save the system data?%%N%%SYes%%n  /  %%n%%SNo
 Load the system data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11e934;123;システムデータが破損している可能性があります%%Nシステムデータを上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-The system data may be corrupted%%NDo you want to overwrite the system data?%%N%%SYes%%n  /  %%n%%SNo
+The system data may be corrupted.%%NDo you want to overwrite the system data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11e9b0;95;メモリースティック™にデータを書き込んでいます%%Nメモリースティック™を絶対抜かないでください
 Writing data to Memory Stick™,%%Nplease do not remove it from the slot.
@@ -463,28 +463,28 @@ Do you want to load this data?%%N%%SYes%%n  /  %%n%%SNo
 Do you want to clear Quick Save data?%%N(Locked data will remain untouched)%%N%%SYes%%n  /  %%n%%SNo
 
 ;11eb58;11;セーブ完了
-Saved
+Saved.
 
 ;11eb64;11;ロード完了
-Loaded
+Loaded.
 
 ;11eb70;19;システムセーブ完了
-System data saved
+System data saved.
 
 ;11eb84;19;システムロード完了
-System data loaded
+System data loaded.
 
 ;11eb98;31;セーブする場所を選んでください
-Choose the save location
+Choose the save location.
 
 ;11ebb8;231;『Never7 -the end of infinity-』の%%Nセーブデータが破損している可能性があります%%Nこのままゲームを開始してもよろしいですか？%%N※このままゲームを開始した場合%%Nシステムデータは初期状態で開始されます%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 The save data of 「Never7 -the end of infinity-」%%Nmay be corrupted.%%NIf you start the game as it is,%%Nthe system data will be reset.%%NAre you sure?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11eca0;159;メモリースティック™が挿入されていません%%Nセーブには%sＫＢ以上の空き容量が必要です%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-No Memory Stick™ is inserted%%NAt least %s KB of free space is required for saving%%NAre you sure you want to start the game as is?%%N%%SYes%%N  /  %%n%%SNo
+No Memory Stick™ is inserted.%%NAt least %s KB of free space is required for saving.%%NAre you sure you want to start the game as is?%%N%%SYes%%N  /  %%n%%SNo
 
 ;11ed40;215;メモリースティック™に%%N『Never7 -the end of infinity-』の%%Nセーブデータがありませんでした%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
-No save data for 「Never7 -the end of infinity-」%%Nwas found on the Memory Stick™%%NYou need at least %s KB of free space to save.%%NStart the game now?%%N%%SYes%%N  /  %%n%%SNo
+No save data for 「Never7 -the end of infinity-」%%Nwas found on the Memory Stick™.%%NYou need at least %s KB of free space to save.%%NStart the game now?%%N%%SYes%%N  /  %%n%%SNo
 
 ;11ee18;203;メモリースティック™の空き容量が不足しています%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%Nこのままではセーブができません%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 There is not enough free space on%%Nthe Memory Stick™.%%NYou need at least %s KB of free%Nspace to save.%%NStart the game as is?%%N%%SYes%%n  /  %%n%%SNo
@@ -496,25 +496,25 @@ There is not enough free space on%%Nthe Memory Stick™.%%NYou need at least %s 
 The time could not be obtained correctly%%NWrite forcibly?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11f040;23;セーブに失敗しました%%N
-Save failed%%N
+Save failed.%%N
 
 ;11f058;23;ロードに失敗しました%%N
-Load failed%%N
+Load failed.%%N
 
 ;11f070;31;フォーマットに失敗しました%%N
-Format failed%%N
+Format failed.%%N
 
 ;11f090;39;新規セーブデータの作成に失敗しました%%N
-Creating new save data failed%%N
+Creating new save data failed.%%N
 
 ;11f0b8;23;上書きに失敗しました%%N
-Overwrite failed%%N
+Overwrite failed.%%N
 
 ;11f0d0;15;Ｎｏ　Ｄａｔａ
 No Data
 
 ;11f0e0;23;データが破損しています
-The data is corrupted
+The data is corrupted.
 
 ;11f0f8;3;%d
 
@@ -859,13 +859,14 @@ Change the text color of choices that have been selected earlier.
 ;120b9c;19;フォントの装飾設定
 Font decoration
 ;120bb0;23;装飾なし%N影%N縁取り
-None%NShadow%NEdge
+None%NShadow%NOutline
 ;120bc8;63;ゲーム中のテキストフォントの装飾方法を設定する事ができます。
 Set how the text font is decorated in the game.
 ;120c08;59;ゲーム中のテキストフォントの装飾方法を設定してください。
 Set the method of decorating text fonts in the game.
 ;120c44;231;⑩ゲーム中のテキストフォントの装飾方法を%N⑩変更する事ができます。%N⑩・装飾なし……装飾が無い状態で%N⑩⑩⑩⑩⑩⑩⑳テキストが表示されます。%N⑩・影……テキストの右下に影を表示させます。%N⑩・縁取り……テキストを黒く縁取りします。
-  Change the decoration method of the text font in the game%N  -No decoration: displays the text without any decoration.%N  -Shadow: a shadow is displayed at the lower right corner of the text.%N  -Border: borders the text in black
+  Change the decoration method of the text font in the game%N  -No decoration: displays the text without any decoration.%N  -Shadow: a shadow is displayed at the lower right corner of the text.%N  -Outline: borders the text in black
+
 ;120d2c;19;スキップ動作設定
 Skip behavior
 ;120d40;31;既読テキストのみ%N全テキスト

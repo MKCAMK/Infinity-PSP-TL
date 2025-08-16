@@ -3,6 +3,13 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Move the choice selection cursor four pixels farther to the left.
+.org 0x0881FA1C
+.area 4*1
+	addiu	s0,s0,-0x18
+.endarea
+
+
 ;; Do not call sceImposeSetLanguageMode to avoid overriding language settings
 .org 0x0880B580
 .area 4*1

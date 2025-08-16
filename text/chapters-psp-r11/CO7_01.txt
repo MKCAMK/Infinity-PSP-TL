@@ -24,7 +24,7 @@ The air inside the shelter cabin is so dry that it's getting difficult to even b
 RU PLACEHOLDER
 
 そう……空気はあまりにも冷たくて、吸い込むと肺が痛い。%K%P
-Yes... The air was so cold that breathing in makes my lungs cry out in pain.
+Yes... The air is so cold that breathing in makes my lungs cry out in pain.
 是的……空气太冷了……呼吸起来肺都痛。
 RU PLACEHOLDER
 
@@ -406,31 +406,31 @@ RU PLACEHOLDER
 %N
 
 %FS-------------------------------------------%FE%T060%N
---------------------------------------------
+%LC%FSーーーーーーーーーーーーーーーーーーーーーーーーーーー%FE%T060%N
 -------------------------------------------
 -------------------------------------------
 
 %LC２０１１年（平成２３年）７月４日（月曜日）%T060%N
-July 4th (Monday) 2011 (Heisei 23)
+July 4th (Monday) 2011 (Heisei 23)%T060%N
 ２０１１年（平成２３年）７月４日（星期一）
 RU PLACEHOLDER
 
 %N
 
 %LC朱倉岳に男女３人の腐乱死体%T060%N
-Three Decomposed Male and Female Corpses Found on Mount Akakura
+Three Decomposed Male and Female Corpses Found on Mount Akakura%T060%N
 朱仓岳发现男女三人的腐烂尸体
 RU PLACEHOLDER
 
 %N
 
 %LCＨＡＬ墜落事故の不明者か？%T060%N
-Missing passengers from the HAL crash?
+Missing passengers from the HAL crash?%T060%N
 是ＨＡＬ坠机事故的下落不明乘客吗？
 RU PLACEHOLDER
 
 %FS-------------------------------------------%FE%K%P
---------------------------------------------
+ーーーーーーーーーーーーーーーーーーーーーーーーーーー
 -------------------------------------------
 -------------------------------------------
 
@@ -565,22 +565,22 @@ Even though I'm really afraid...
 RU PLACEHOLDER
 
 自然の脅威に、%K
-Afraid of the threat of nature, 
+Afraid of the threat of nature,
 大自然的淫威、
 RU PLACEHOLDER
 
 死の運命に、%K
-afraid of our destiny of death, 
+ afraid of our destiny of death,
 难逃一死的命运、
 RU PLACEHOLDER
 
 絶望に、%K%N
-afraid of our despair; %K
+ afraid of our despair;%K
 很怕绝望。
 RU PLACEHOLDER
 
 少しでもいいから、立ち向かって死にたかった。%K%P
-just a little hope is fine, just enough for me to stand up and face death head-on.
+ just a little hope is fine, just enough for me to stand up and face death head-on.
 然而哪怕是一点点，我也想直面死亡。
 RU PLACEHOLDER
 

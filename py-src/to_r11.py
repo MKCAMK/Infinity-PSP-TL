@@ -58,7 +58,7 @@ def make_r11(im, out_path, n7_sprite_mode=False):
 
     entry_ptr = 0x80
     palette_ptr = 0x100
-    pixels_ptr = (0x100+5*4*256 if n7_sprite_mode else 0x100+1*4*256) if paletted else palette_ptr
+    pixels_ptr = (palette_ptr+5*4*256 if n7_sprite_mode else palette_ptr+1*4*256) if paletted else palette_ptr
     pixels = list(atlas.getdata()) if paletted else flatten(list(atlas.getdata()))
     file_size = pixels_ptr + len(pixels)
 

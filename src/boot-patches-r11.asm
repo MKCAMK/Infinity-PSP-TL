@@ -3,6 +3,13 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Move the choice selection cursor four pixels farther to the left.
+.org 0x0881FA1C
+.area 4*1
+	addiu	s0,s0,-0x18
+.endarea
+
+
 ;; Use the American 12-hour clock.
 ;; The subroutine was rewritten to take into account the 00:00 -> 12:00 AM and 12:00 -> 12:00 PM conversions.
 ;; It also places the "AM" or "PM" at the end of the line, unlike the original function, which placed it in the beginning.
