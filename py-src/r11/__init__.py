@@ -100,7 +100,6 @@ def clean_en_translation_line(line: str) -> str:
   # double spaces were fixed manually where appropriate, use text search to find remaining cases
   # line = re.sub(r"(?<!\b\S \S)  +", " ", line) # collapse multiple spaces unless there are also extra spaces within the neighboring words
   # line = line.replace("\u014d", "o") # ō no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
-  line = line.replace("na\u00efve", "naive") # "naïve": no umlaut for i
   # line = re.sub("\u2473", "\u2473") # ⑳ ('CIRCLED NUMBER TWENTY' (U+2473)). No need to replace, rendered as a wide space. (glyph #1147)
   # spaces are too thin on pc; Not the case for psp.
   line = line.replace("<i>", "%CAAAF")

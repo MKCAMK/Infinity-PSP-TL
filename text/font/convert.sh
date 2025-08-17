@@ -6,11 +6,10 @@
 
 # imagemagick version 7 is recommended
 
-# input files directory
-SRC="glyphs"
-TGT="glyphs-new"
+[ -z "$TL_SUFFIX" ] && export TL_SUFFIX=en
+TGT="glyphs-${TL_SUFFIX}"
 
 mkdir -p $TGT
-
-# outputs to glyphs-new/
-ls $SRC | xargs -I{} convert "$SRC/{}" -colorspace Gray -depth 2 -define png:bit-depth=2 -define png:exclude-chunks=date,time $TGT/{}
+for i in "$@"; do
+	convert "$i" -colorspace Gray -depth 2 -define png:bit-depth=2 -define png:exclude-chunks=date,time $TGT/$(basename $i)
+done
