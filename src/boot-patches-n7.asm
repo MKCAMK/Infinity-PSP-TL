@@ -23,7 +23,7 @@
 	sw		s3,0xC(sp)
 	lui		a3,0x9DD
 	lw		a3,-0x6EB4(a3)
-	sltiu	a2,a0,12
+	slti	a2,a0,12
 	beq		a2,zero,@@PM
 	lui		s0,0x892
 	bne		a0,zero,@@AMPM_OVER
@@ -121,6 +121,122 @@
 	nop
 .endarea
 .orga 0x1556A0 :: .fill 8*35; kill them relocations!!! first relocation at 0x08837634
+
+; pause menu time constructor
+; 0x0880D5D8 -- gets variable value at runtime?
+.org 0x0882724C
+.area 4*27
+	bne		v0,zero,@PAUSE_AM
+	lui		s2,0x892; 0x08827250: relocation-cleared
+	addiu	a0,s0,-12; 0x08827254: relocation-cleared
+	bne		a0,zero,@PAUSE_APPEND_TIME; 0x08827258: relocation-cleared
+	ori		s3,s2,0x14D4
+	li		a0,12; 0x08827260: relocation-cleared
+@PAUSE_APPEND_TIME:
+	move	a1,sp; 0x08827264: relocation-cleared
+	jal		@inhouse_sprintf
+	ori		a2,s2,0x146C
+	move	a1,sp; 0x08827270: relocation-cleared
+	jal		@strcat; 0x08827274: relocation-cleared
+	move	a0,s1
+	ori		a1,s2,0x1468; 0x0882727C: relocation-cleared
+	jal		@strcat
+	move	a0,s1; 0x08827284: relocation-cleared
+	jal		0x0880D5D8; 0x08827288: relocation-cleared
+	li		a0,0x600D; 0x0882728C: relocation-cleared
+	move	a0,v0
+	ori		a2,s2,0x146C; 0x08827294: relocation-cleared
+	jal		@inhouse_sprintf
+	move	a1,sp
+	move	a1,sp; 0x088272A0: relocation-cleared
+	jal		@strcat; 0x088272A4: relocation-cleared
+	move	a0,s1
+	move	a1,s3
+	jal		@strcat; 0x088272B0: relocation-cleared
+	move	a0,s1
+.endarea
+.orga 0x150480 :: .fill 8*1; clear 0x08827250
+.orga 0x14FE70 :: .fill 8*13; clear 0x08827254, 0x08827258, 0x08827260, 0x08827270, 0x08827274, 0x0882727C, 0x08827284, 0x08827288, 0x0882728C, 0x08827294, 0x088272A0, 0x088272A4, 0x088272B0
+.orga 0x14FC08 :: .fill 8*1; clear 0x08827264
+
+; pause menu AM branch
+.org 0x08827E04
+.area 4*10
+@PAUSE_AM:
+	ori		s3,s2,0x14DC
+	bne		s0,zero,@PAUSE_APPEND_TIME; 0x08827E08: relocation-cleared
+	move	a0,s0; 0x08827E0C: relocation-cleared
+	b		@PAUSE_APPEND_TIME; 0x08827E10: relocation-cleared
+	li		a0,12
+	nop
+	nop; 0x08827E1C: relocation-cleared
+	nop; 0x08827E20: relocation-cleared
+	nop; 0x08827E24: relocation-cleared
+	nop
+.endarea
+.orga 0x150488 :: .fill 8*4; clear 0x08827E08, 0x08827E0C, 0x08827E1C, 0x08827E20
+.orga 0x14FBD8 :: .fill 8*1; clear 0x08827E10
+.orga 0x1504A8 :: .fill 8*1; clear 0x08827E24
+
+; save/load menu time constructor
+; 0x0884E470 -- gets variable value from save file?
+@SAVELOAD_BLANK_TIME equ 0x0884FBA4
+.org 0x0884F5E0
+.area 4*31
+	li		v1,0xFF
+	beq		v0,v1,@SAVELOAD_BLANK_TIME
+	slti	v1,v0,12
+	bne		v1,zero,@SAVELOAD_AM
+	ori		s0,s4,0x395C
+	addiu	a0,v0,-12; 0x0884F5F4: relocation-cleared
+	bne		a0,zero,@SAVELOAD_APPEND_TIME; 0x0884F5F8: relocation-cleared
+	move	a1,sp; 0x0884F5FC: relocation-cleared
+	li		a0,12; 0x0884F600: relocation-cleared
+@SAVELOAD_APPEND_TIME:
+	jal		@inhouse_sprintf
+	ori		a2,s4,0x3898
+	move	a1,sp
+	jal		@strcat; 0x0884F610: relocation-cleared
+	move	a0,s5; 0x0884F614: relocation-cleared
+	ori		a1,s4,0x38A8
+	jal		@strcat; 0x0884F61C: relocation-cleared
+	move	a0,s5
+	move	a0,fp; 0x0884F624: relocation-cleared
+	jal		0x0884E470
+	li		a1,0x600D; 0x0884F62C: relocation-cleared
+	move	a0,v0; 0x0884F630: relocation-cleared
+	ori		a2,s4,0x3898
+	jal		@inhouse_sprintf; 0x0884F638: relocation-cleared
+	move	a1,sp
+	move	a1,sp
+	jal		@strcat
+	move	a0,s5; 0x0884F648: relocation-cleared
+	move	a1,s0; 0x0884F64C: relocation-cleared
+	jal		@strcat
+	move	a0,s5
+	nop
+.endarea
+.orga 0x160978 :: .fill 8*1; clear 0x0884F5F4
+.orga 0x160748 :: .fill 8*7; clear 0x0884F5F8, 0x0884F5FC, 0x0884F600, 0x0884F610, 0x0884F614, 0x0884F61C, 0x0884F62C
+.orga 0x160498 :: .fill 8*1; clear 0x0884F624
+.orga 0x160788 :: .fill 8*4; clear 0x0884F630, 0x0884F638, 0x0884F648, 0x0884F64C
+
+; save/load menu AM branch
+.org 0x0884FA58
+.area 4*9
+@SAVELOAD_AM:
+	move	a0,v0
+	move	a1,sp
+	bne		a0,zero,@SAVELOAD_APPEND_TIME; 0x0884FA5C: relocation-cleared
+	ori		s0,s4,0x3964; 0x0884FA60: relocation-cleared
+	b		@SAVELOAD_APPEND_TIME
+	li		a0,12; 0x0884FA6C: relocation-cleared
+	nop; 0x0884FA70: relocation-cleared
+	nop; 0x0884FA74: relocation-cleared
+	nop
+.endarea
+.orga 0x160970 :: .fill 8*1; clear 0x0884FA5C
+.orga 0x160980 :: .fill 8*4; clear 0x0884FA60, 0x0884FA6C, 0x0884FA70, 0x0884FA74
 
 
 ;; Subroutine 0x08805680 -- sets default game settings

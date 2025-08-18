@@ -33,7 +33,7 @@
 	sw		s3,0xC(sp)
 	lui		a3,0x9DD
 	lw		a3,-0x4834(a3)
-	sltiu	a2,a0,12
+	slti	a2,a0,12
 	beq		a2,zero,@@PM
 	lui		s0,0x892
 	bne		a0,zero,@@AMPM_OVER

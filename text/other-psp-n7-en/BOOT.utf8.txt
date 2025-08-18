@@ -99,8 +99,10 @@ BG:
 ;11d570;3;⑳
 
 ;11d574;7;ＰＭ
+⑳ＰＭ
 
 ;11d57c;7;ＡＭ
+⑳ＡＭ
 
 ;11d584;11;−−：−−
 --:--
@@ -727,8 +729,10 @@ Entry
 ;11f9dc;31;−−−−／−−／−−（−−−）
 
 ;11f9fc;7;ＰＭ
+⑳ＰＭ
 
 ;11fa04;7;ＡＭ
+⑳ＡＭ
 
 ;11fa0c;15;　　−−：−−
 
@@ -865,7 +869,7 @@ Set how the text font is decorated in the game.
 ;120c08;59;ゲーム中のテキストフォントの装飾方法を設定してください。
 Set the method of decorating text fonts in the game.
 ;120c44;231;⑩ゲーム中のテキストフォントの装飾方法を%N⑩変更する事ができます。%N⑩・装飾なし……装飾が無い状態で%N⑩⑩⑩⑩⑩⑩⑳テキストが表示されます。%N⑩・影……テキストの右下に影を表示させます。%N⑩・縁取り……テキストを黒く縁取りします。
-  Change the decoration method of the text font in the game%N  -No decoration: displays the text without any decoration.%N  -Shadow: a shadow is displayed at the lower right corner of the text.%N  -Outline: borders the text in black
+#  Change the decoration method of the text font in the game%N  -No decoration: displays the text without any decoration.%N  -Shadow: a shadow is displayed at the lower right corner of the text.%N  -Outline: borders the text in black
 
 ;120d2c;19;スキップ動作設定
 Skip behavior
