@@ -26,17 +26,16 @@
 	slti	a2,a0,12
 	beq		a2,zero,@@PM
 	lui		s0,0x892
-	bne		a0,zero,@@AMPM_OVER
-	ori		s1,s0,0x1864
 	b		@@AMPM_OVER
-	li		a0,12
+	ori		s1,s0,0x1864
 @@PM:
-	li		a2,12
-	beq		a2,a0,@@AMPM_OVER
 	ori		s1,s0,0x1854
-	subu	a0,a0,a2
+	addiu	a0,a0,-12
 @@AMPM_OVER:
+	bne		a0,zero,@@CLOCK_CONTINUE
 	ori		a2,s0,0x185C
+	li		a0,12
+@@CLOCK_CONTINUE:
 	lui		s2,0x6
 	addu	s2,a3,s2
 	addiu	s2,s2,-0x2648
@@ -78,6 +77,8 @@
 	lw		s3,0xC(sp)
 	jr		ra
 	addiu	sp,sp,0x20
+	nop
+	nop
 	nop
 	nop
 	nop
@@ -213,13 +214,13 @@
 	move	a0,s5; 0x0884F648: relocation-cleared
 	move	a1,s0; 0x0884F64C: relocation-cleared
 	jal		@strcat
-	move	a0,s5
+	move	a0,s5; 0x0884F654: relocation-cleared
 	nop
 .endarea
 .orga 0x160978 :: .fill 8*1; clear 0x0884F5F4
 .orga 0x160748 :: .fill 8*7; clear 0x0884F5F8, 0x0884F5FC, 0x0884F600, 0x0884F610, 0x0884F614, 0x0884F61C, 0x0884F62C
 .orga 0x160498 :: .fill 8*1; clear 0x0884F624
-.orga 0x160788 :: .fill 8*4; clear 0x0884F630, 0x0884F638, 0x0884F648, 0x0884F64C
+.orga 0x160788 :: .fill 8*5; clear 0x0884F630, 0x0884F638, 0x0884F648, 0x0884F64C, 0x0884F654
 
 ; save/load menu AM branch
 .org 0x0884FA58

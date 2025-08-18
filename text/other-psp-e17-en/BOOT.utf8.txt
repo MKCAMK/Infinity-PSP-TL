@@ -176,12 +176,12 @@ Date:
 Cluster:
 
 ;11fe58;7;ＰＭ
-⑳ＰＭ
+ ＰＭ
 
 ;11fe60;7;%02d
 
 ;11fe68;7;ＡＭ
-⑳ＡＭ
+ ＡＭ
 
 ;11fe70;3;：
 
@@ -702,7 +702,9 @@ Entry
 
 ;121fd8;23;−−−−−−−−−−
 
+# character width for save date in save/load menu
 ;121ff0;7;%XS10
+%XS12
 
 ;121ff8;31;−−−−／−−／−−（−−−）
 

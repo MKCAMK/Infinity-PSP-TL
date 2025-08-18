@@ -36,17 +36,16 @@
 	slti	a2,a0,12
 	beq		a2,zero,@@PM
 	lui		s0,0x892
-	bne		a0,zero,@@AMPM_OVER
-	ori		s1,s0,0x3DC8
 	b		@@AMPM_OVER
-	li		a0,12
+	ori		s1,s0,0x3DC8
 @@PM:
-	li		a2,12
-	beq		a2,a0,@@AMPM_OVER
 	ori		s1,s0,0x3DB8
-	subu	a0,a0,a2
+	addiu	a0,a0,-12
 @@AMPM_OVER:
+	bne		a0,zero,@@CLOCK_CONTINUE
 	ori		a2,s0,0x3DC0
+	li		a0,12
+@@CLOCK_CONTINUE:
 	lui		s2,0x6
 	addu	s2,a3,s2
 	addiu	s2,s2,-0x2648
@@ -129,6 +128,8 @@
 	nop
 	nop
 	nop
+	nop
+	nop
 .endarea
 .orga 0x157D80 :: .fill 8*35; kill them relocations!!! first relocation at 0x08837994
 /* equivalent C pseudocode for the rewritten function:
@@ -147,14 +148,12 @@ int showtime(int hour, int minute) {
 	char *rangestr;
 	if (hour < 12) {
 		rangestr = AM;
-		if (hour == 0) {
-			hour = 12;
-		}
 	} else {
 		rangestr = PM;
-		if (hour > 12) {
-			hour -= 12;
-		}
+		hour -= 12;
+	}
+	if (hour == 0) {
+		hour = 12;
 	}
 	sprintf(clockstring, format, hour); // a1, a2, a0
 	strcat(clockstring, colon); // a0, a1

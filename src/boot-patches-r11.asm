@@ -33,17 +33,16 @@
 	slti	a2,a0,12
 	beq		a2,zero,@@PM
 	lui		s0,0x892
-	bne		a0,zero,@@AMPM_OVER
-	ori		s1,s0,0x58A4
 	b		@@AMPM_OVER
-	li		a0,12
+	ori		s1,s0,0x58A4
 @@PM:
-	li		a2,12
-	beq		a2,a0,@@AMPM_OVER
 	ori		s1,s0,0x5894
-	subu	a0,a0,a2
+	addiu	a0,a0,-12
 @@AMPM_OVER:
+	bne		a0,zero,@@CLOCK_CONTINUE
 	ori		a2,s0,0x589C
+	li		a0,12
+@@CLOCK_CONTINUE:
 	lui		s2,0x6
 	addu	s2,a3,s2
 	addiu	s2,s2,-0x2648
@@ -85,6 +84,8 @@
 	lw		s3,0xC(sp)
 	jr		ra
 	addiu	sp,sp,0x20
+	nop
+	nop
 	nop
 	nop
 	nop
