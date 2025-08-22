@@ -49,19 +49,19 @@ Pilot
 Mountain rescue worker
 
 ;1180;16;ゆに・黄泉木・黛
-Yuni,Yomogi,Mayuzumi
+Yuni, Yomogi, Mayuzumi
 
 ;1184;16;こころ・ゆに・黛
-Kokoro,Yuni,Mayuzumi
+Kokoro, Yuni, Mayuzumi
 
 ;1188;16;ゆに・穂鳥・内海
-Yuni,Hotori,Utsumi
+Yuni, Hotori, Utsumi
 
 ;118c;14;ゆに・悟・穂鳥
-Yuni,Satoru,Hotori
+Yuni, Satoru, Hotori
 
 ;1190;10;黄泉木・黛
-Yomogi,Mayuzumi
+Yomogi, Mayuzumi
 
 ;1194;6;沙也香
 Sayaka

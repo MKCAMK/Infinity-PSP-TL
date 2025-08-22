@@ -450,10 +450,10 @@ Load the system data?%%N%%SYes%%n  /  %%n%%SNo
 The system data may be corrupted.%%NDo you want to overwrite the system data?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11e9b0;95;メモリースティック™にデータを書き込んでいます%%Nメモリースティック™を絶対抜かないでください
-Writing data to Memory Stick™,%%Nplease do not remove it from the slot.
+Writing data to Memory Stick™.%%NPlease do not remove it from the slot.
 
 ;11ea10;95;メモリースティック™のデータを読み込んでいます%%Nメモリースティック™を絶対抜かないでください
-Loading data from Memory Stick™,%%Nplease do not remove it from the slot.
+Loading data from Memory Stick™.%%NPlease do not remove it from the slot.
 
 ;11ea70;59;上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Do you want to overwrite?%%N%%SYes%%n  /  %%n%%SNo

@@ -3,6 +3,23 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Not sure what exactly this is supposed to compensate,
+;; but changing this value lets us fine-tune the centering of name tags.
+;; The default value of -10 is incorrect.
+.org 0x0881DCA4
+.area 4*1
+	addiu	a0,a0,-7
+.endarea
+
+
+;; Move choice lines text and marker farther to the left.
+;; Otherwise, choice "When petticoats woo, breeks may come speed." overflows the box.
+.org 0x0881F4F0
+.area 4*1
+	addiu	fp,a0,0x44
+.endarea
+
+
 ;; Use the American 12-hour clock.
 ;; The subroutine was rewritten to take into account the 00:00 -> 12:00 AM and 12:00 -> 12:00 PM conversions.
 ;; It also places the "AM" or "PM" at the end of the line, unlike the original function, which placed it in the beginning.
@@ -391,13 +408,13 @@ PSP_CTRL_CIRCLE equ 0x2000
 
 .org 0x0881B140
 .area 4*1
-	addiu	a1,s6,0x438C; 0x0881B140: relocation-cleared
+	ori	a1,s6,0x438C; 0x0881B140: relocation-cleared
 .endarea; 0x0881B144
 .orga 0x14C930 :: .fill 8*1; clear 0x0881B140
 
 .org 0x0881B884
 .area 4*1
-	addiu	a1,s6,0x438C; 0x0881B884: relocation-cleared
+	ori	a1,s6,0x438C; 0x0881B884: relocation-cleared
 .endarea; 0x0881B888
 .orga 0x14CA98 :: .fill 8*1; clear 0x0881B884
 

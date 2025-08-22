@@ -3,6 +3,15 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Not sure what exactly this is supposed to compensate,
+;; but changing this value lets us fine-tune the centering of name tags.
+;; The default value of -10 is incorrect.
+.org 0x0881DFF4
+.area 4*1
+	addiu	a0,a0,-7
+.endarea
+
+
 ;; Move the choice selection cursor four pixels farther to the left.
 .org 0x0881FA1C
 .area 4*1

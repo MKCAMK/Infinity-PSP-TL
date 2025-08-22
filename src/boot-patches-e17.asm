@@ -3,6 +3,22 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Adjust the nametag box width.
+.org 0x0881DFAC
+.area 4*1
+	li	v1,154
+.endarea
+
+
+;; Not sure what exactly this is supposed to compensate,
+;; but changing this value lets us fine-tune the centering of name tags.
+;; The default value of -10 is incorrect.
+.org 0x0881DFCC
+.area 4*1
+	addiu	a0,a0,-7
+.endarea
+
+
 ;; Do not stop BGM on in-game FMV playback.
 ; a0 specifies the "amount" of sound effect channels to stop.
 ; -1 (the default) will stop all (0-4), and 3 will stop 0-3.
@@ -321,13 +337,13 @@ PSP_CTRL_CIRCLE equ 0x2000
 
 .org 0x0881B3EC
 .area 4*1
-	addiu	a1,s6,0x6988; 0x0881B3EC: relocation-cleared
+	ori	a1,s6,0x6988; 0x0881B3EC: relocation-cleared
 .endarea; 0x0881B3F0
 .orga 0x14F0A0 :: .fill 8*1; clear 0x0881B3EC
 
 .org 0x0881BB30
 .area 4*1
-	addiu	a1,s6,0x6988; 0x0881BB30: relocation-cleared
+	ori	a1,s6,0x6988; 0x0881BB30: relocation-cleared
 .endarea; 0x0881BB34
 .orga 0x14F208 :: .fill 8*1; clear 0x0881BB30
 

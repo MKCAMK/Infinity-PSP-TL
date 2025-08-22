@@ -3,6 +3,75 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; This set of hacks will make the game use custom, wider
+;; variants of nametag boxes if the name is too long to fit into the
+;; original ones.
+@MAX_NAMETAG_STANDARD_WIDTH equ 120; if the name is wider than 120px, a custom nametag box will be used
+
+; 1.1) get rid of s7 register references in the textbox rendering subroutine
+.org 0x0881DE34
+.area 4*1
+	nop
+.endarea
+
+.org 0x0881DEA0
+.area 4*1
+	addiu	a2,sp,0x4
+.endarea
+
+.org 0x0881DF54
+.area 4*1
+	nop
+.endarea
+
+.org 0x0881DF74
+.area 4*1
+	addiu	a2,sp,0x4
+.endarea
+
+; 1.2) hook into the textbox rendering subroutine.
+; this switches between nametag boxes if the text is too wide
+.org 0x0881DEF4
+.area 4*2
+	j	@NAMETAG_BOX_HACK
+	nop
+@NAMETAG_BOX_HACK_RETURN:
+.endarea
+
+; 1.3) make use of the s7 register (set in the hook) for referencing the nametag box background textuer
+.org 0x0881DF80
+.area 4*1
+	addu	s0,s0,s7
+.endarea
+
+; 2) replace TEX031 with a custom nametag box background, and load its metadata into the texture metadata buffer as entry 4
+.orga 0x12A348 :: .skip 4 :: .d32 31
+
+; 3) replace textbox entries 5 and 6. not sure what they used to contain, but it doesn't look like that data was used.
+; each entry is three 32-bit integers. the first is the index of the nametag box texture, and the second is the index of the textbox texture.
+; not sure what the thrid value specifies
+.orga 0x12B9BC :: .skip 12*5
+.d32 17 :: .d32 0x1E :: .d32 0
+.d32 18 :: .d32 0x21 :: .d32 0
+
+; 4) hook into the subroutine that, among other things, centers the name in the nametag box.
+.org 0x0881DFD4
+.area 4*2
+	j	@NAMETAG_TEXT_HACK
+.skip 4*1
+@NAMETAG_TEXT_HACK_RETURN:
+.endarea
+
+
+;; Not sure what exactly this is supposed to compensate,
+;; but changing this value lets us fine-tune the centering of name tags.
+;; The default value of -10 is incorrect.
+.org 0x0881DFF4
+.area 4*1
+	addiu	a0,a0,-7
+.endarea
+
+
 ;; Move the choice selection cursor four pixels farther to the left.
 .org 0x0881FA1C
 .area 4*1
@@ -240,6 +309,7 @@ PSP_CTRL_CIRCLE equ 0x2000
 @@HACK_00_OVER:
 	j		@HACK_00_RETURN
 	nop
+
 	nop
 	nop
 	nop
@@ -250,9 +320,8 @@ PSP_CTRL_CIRCLE equ 0x2000
 ;; menu glyph spacing, depending (somewhat) on scale
 .org 0x08866908
 .area 4*2
-	;li	t1,2; <-original
 	j	@HACK_00; uses free space from a different subroutine
-	li	t2,2
+.skip 4*1
 @HACK_00_RETURN:
 .endarea; 0x08866910
 
@@ -276,21 +345,19 @@ PSP_CTRL_CIRCLE equ 0x2000
 ;; Move the string of unbreakable characters to 0x124EFC (file offset)
 .org 0x0881AF58
 .area 4*1
-	lui	s6,0x893; 0x0881AF58: relocation-cleared
+	lui	s6,0x892; 0x0881AF58: relocation-cleared
 .endarea; 0x0881AF5C
 .orga 0x151A00 :: .fill 8*1; clear 0x0881AF58
-; This instruction change wasn't really required, but the relocations apparently
-; come in pairs, and only clearing one will make PPSSPP complain about it.
 
 .org 0x0881B418
 .area 4*1
-	addiu	a1,s6,-0x71A4; 0x0881B418: relocation-cleared
+	ori	a1,s6,0x8E5C; 0x0881B418: relocation-cleared
 .endarea; 0x0881B41C
 .orga 0x151A08 :: .fill 8*1; clear 0x0881B418
 
 .org 0x0881BB5C
 .area 4*1
-	addiu	a1,s6,-0x71A4; 0x0881BB5C: relocation-cleared
+	ori	a1,s6,0x8E5C; 0x0881BB5C: relocation-cleared
 .endarea; 0x0881BB60
 .orga 0x151B70 :: .fill 8*1; clear 0x0881BB5C
 
@@ -538,24 +605,34 @@ C: adjust the memory location at which the container with graphics for the text 
 	subu	a2,a2,s1; original code that was replaced with function call
 	j		@WHITESPACE_HACK_RETURN; 0x0884E8C8: relocation-moved(0x0884E8A8)
 	addu	s0,a2,a1; original code that was replaced with function call
+
+; if t0 (textbox variant) is 1 (kokoro) or 2 (satoru) and the width of the name (a3) exceeds @MAX_NAMETAG_STANDARD_WIDTH,
+; will use custom nametags, as defined in textbox entries 5 and 6, as well as a custom nametag background texture (texture entry 4)
+@NAMETAG_BOX_HACK:
+	sltiu	a0,a3,@MAX_NAMETAG_STANDARD_WIDTH
+	bne		a0,zero,@@NAMETAG_BOX_HACK_OVER
+	li		s7,0x90*16
+	beq		t0,zero,@@NAMETAG_BOX_HACK_OVER
+	sltiu	a0,t0,3
+	beq		a0,zero,@@NAMETAG_BOX_HACK_OVER
 	nop
+	li		s7,0x90*4
+	addiu	t0,t0,4
+@@NAMETAG_BOX_HACK_OVER:
+	sll		s4,t0,0x4; original code that was replaced with function call
+	j		@NAMETAG_BOX_HACK_RETURN
+	sll		s2,t0,0x2; original code that was replaced with function call
+
+; properly specify the width of the nametag box that's going to be used
+@NAMETAG_TEXT_HACK:
+	sltiu	a2,a1,@MAX_NAMETAG_STANDARD_WIDTH
+	beq		a2,zero,@@NAMETAG_TEXT_HACK_OVER
+	li		v1,193
+	li		v1,143
+@@NAMETAG_TEXT_HACK_OVER:
+	j		@NAMETAG_TEXT_HACK_RETURN
 	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
+
 	nop
 	nop
 	nop

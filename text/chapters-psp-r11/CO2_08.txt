@@ -828,18 +828,21 @@ Hey, Fuyukawa-san? Why did I ever save a woman like that?
 黄泉木「喂，冬川小姐？为什么我会救了这么一个女人啊？」
 RU PLACEHOLDER
 
+// 「Maybe you fooled around too much in your past life?」
 前世で悪い遊びでもしてたんじゃない？
-「Maybe you fooled around too much in your past life?」
+Karma for being a playboy in a past life?
 是前世搞了什么恶作剧吧？
 RU PLACEHOLDER
 
+// 「It wouldn't have been like you to not save her, Yomogi-san.」
 助けなかったら、黄泉木さんらしくない
-「It wouldn't have been like you to not save her, Yomogi-san.」
+「It wouldn't have been like you to leave her.」
 要是不救她的话，就不是黄泉木先生了。
 RU PLACEHOLDER
 
+// Maybe you fooled around too much in your past life?
 こころ「前世で悪い遊びでもしてたんじゃない？」%K%P
-Maybe you fooled around too much in your past life?
+Maybe it's your karma for being a playboy in a past life?
 心「是前世搞了什么恶作剧吧？」
 RU PLACEHOLDER
 
@@ -858,8 +861,9 @@ Yomogi shakes his head as if saying 「oh boy」 and sits down in front of the s
 黄泉木只是不住地说着“哎呀哎呀……”，摇着头，坐到了火炉前面。
 RU PLACEHOLDER
 
+// It wouldn't have been like you to not save her, Yomogi-san.
 こころ「助けなかったら、黄泉木さんらしくないですよ」%K%P
-It wouldn't have been like you to not save her, Yomogi-san.
+It wouldn't have been like you to leave her, Yomogi-san.
 心「要是不救她的话，就不是黄泉木先生了」
 RU PLACEHOLDER
 

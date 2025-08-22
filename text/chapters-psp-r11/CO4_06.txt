@@ -1159,7 +1159,7 @@ How long has it been...?
 RU PLACEHOLDER
 
 こころ「……さ…むい……」%K%P
-...Co...ld...
+...Co... ld...
 心「……好…冷啊……」
 RU PLACEHOLDER
 
@@ -1805,13 +1805,15 @@ Which way do I go...?
 心「该向哪边走好呢……？」
 RU PLACEHOLDER
 
+// Advance along the wall to the left side
 左方向へ壁沿いに進む
-Advance along the wall to the left side
+Advance along the wall to the left
 沿着左边的墙壁前进
 RU PLACEHOLDER
 
+// Advance to the right side, toward the terrace
 右方向、テラス方面へ進む
-Advance to the right side, toward the terrace
+Advance to the right, toward the terrace
 向右边阳台方向前进
 RU PLACEHOLDER
 

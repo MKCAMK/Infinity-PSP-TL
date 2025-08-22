@@ -7,7 +7,7 @@ import collections
 
 TlNames = collections.namedtuple("TlNames", ["en", "cn", "ru"])
 # key - original japanese name
-# value - list of translated values [en, cn]
+# value - list of translated values [en, cn, ru]
 names_dict_generic = {
   "？？": TlNames("???", "？？", "???"),
   "みんな": TlNames("Everyone", "所有人", "Все"),
@@ -113,12 +113,9 @@ game_names_dicts = {
     "母親": TlNames("Mother", None, None),
     "ゆえ": TlNames("Yue", None, None),
     "不審人物": TlNames("Suspicious person", None, None),
-    "誠＆優夏": TlNames("Makoto & Yuka", None, None),
-    "誠＆くるみ": TlNames("Makoto & Kurumi", None, None),
-    "優夏＆億彦": TlNames("Yuka & Okuhiko", None, None),
     "島民Ａ": TlNames("Islander A", None, None),
-    "いづみ以外": TlNames("Everyone but Izumi", None, None),
-    "サメの意識": TlNames("Shark's Consciousness", None, None),
+    "いづみ以外": TlNames("All but Izumi", None, None),
+    "サメの意識": TlNames("Shark's Mind", None, None),
     "人影": TlNames("Silhouette", None, None),
     "やさ男": TlNames("Kind Man", None, None),
     "キザな男": TlNames("Pretentious Man", None, None)
@@ -127,21 +124,24 @@ game_names_dicts = {
 
 names_dict = None
 tl_names_list = None
+separators = None
+ja_original_separators = None
 
-ja_original_separator = "・" # "\u30fb"
-en_separator = ","
-cn_separator = "、"
-ru_separator = ","
-
-separators = TlNames(en_separator, cn_separator, ru_separator)
-
-def populateNamesDict(game: str) -> dict:
-  global names_dict
+def init(game: str) -> dict:
+  global names_dict, separators, ja_original_separators
   if not game in game_names_dicts:
     raise Exception(f"Game {game} is not supported.")
   names_dict = names_dict_generic
   names_dict.update(game_names_dicts[game])
+  if game == "n7":
+    ja_original_separators = ("＆", "・")
+    separators = TlNames(" & ", None, None)
+  else:
+    ja_original_separators = ("・",)
+    separators = TlNames(", ", "、", ", ")
   return names_dict
+
+populateNamesDict = init
 
 def populateTlNamesList(lang: str = "en") -> list[str]:
   global tl_names_list
@@ -152,15 +152,18 @@ def populateTlNamesList(lang: str = "en") -> list[str]:
       tl_names_list.append(getattr(tltuple, lang))
   return tl_names_list
 
-# tl_lang should be one of TlNames field names: "en" or "cn"
+# tl_lang should be one of TlNames field names: "en", "cn", or "ru"
 def translateNamesString(character_names: str, tl_lang: str) -> str:
   if not names_dict:
     raise Exception("names_dict is empty")
   if not character_names:
     return ""
 
-  jp_names = character_names.split(ja_original_separator)
-  # print(jp_names, file=sys.stderr)
+  jp_names = character_names.split(ja_original_separators[0])
+  if len(ja_original_separators) != 1 and len(jp_names) == 1:
+    for separator in ja_original_separators[1:]:
+      jp_names = character_names.split(separator)
+      if len(jp_names) != 1: break
   translated_names = [names_dict.get(jp_name)._asdict()[tl_lang] for jp_name in jp_names]
   if (None in translated_names):
     raise Exception("Speaker translation for %s not found. Values: %s"%(character_names, translated_names))
