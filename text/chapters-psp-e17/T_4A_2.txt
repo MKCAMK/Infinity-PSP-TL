@@ -359,9 +359,9 @@ CN PLACEHOLDER
 Что...поддержала?
 
 武「ああ。だから、ありがとうな」%K%P
-Just keep it at that―thank you.
+Just keep it at that—thank you.
 CN PLACEHOLDER
-Просто я хотел сказать ― спасибо тебе, Сора.
+Просто я хотел сказать — спасибо тебе, Сора.
 
 空「いえ、そんな……私のほうこそ、いろいろ倉成さんにお世話になってますし」%K%P
 No, no, I... I should be the one thanking you. You have helped me so much.
@@ -834,7 +834,7 @@ CN PLACEHOLDER
 Не раздумывая, я согласился дать объяснение...
 
 武「ずばり！　鯉とはっ」%K%P
-Okay! Love is when someone gets hooked―
+Okay! Love is when someone gets hooked—
 CN PLACEHOLDER
 Итак! Какие определения для любви есть в твоей базе данных?
 
@@ -869,7 +869,7 @@ CN PLACEHOLDER
 Ладно, дубль два!
 
 武「ずばり！　濃いとはっ！」%K%P
-Okay! Love is like a box of dark chocolates―
+Okay! Love is like a box of dark chocolates—
 CN PLACEHOLDER
 Любовь - это...
 
@@ -899,7 +899,7 @@ CN PLACEHOLDER
 Хорошо, исправляюсь...
 
 武「ずばり！　故意とはっ！」%K%P
-Okay! Love can be kind of intense―
+Okay! Love can be kind of intense—
 CN PLACEHOLDER
 Та〜ак. Значит, нужен намёк на ещё одно значение...
 
@@ -1649,7 +1649,7 @@ CN PLACEHOLDER
 ...взглянул наверх...
 
 そこにない空の姿を探しながら。%K%P
-Looking for a 「sky」 that wasn't there.
+Looking for a “sky” that wasn't there.
 CN PLACEHOLDER
 ...но, вместо неба, увидел лишь потолок.
 

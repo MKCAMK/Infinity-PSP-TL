@@ -1,6 +1,6 @@
 ﻿黄泉木「落ち着いたか？」%K%P
 Have you calmed down?
-黄泉木「冷静下来了吗？」
+黄泉木“冷静下来了吗？”
 RU PLACEHOLDER
 
 こころ「はい……」%K%P
@@ -144,22 +144,22 @@ Having recorded DATA1 myself, I already know what's on it, but I play it back ev
 RU PLACEHOLDER
 
 『Я　чайка』%K%P
-「Я　чайка.」
+“Я　чайка.”
 “Я　чайка”
 RU PLACEHOLDER
 
 『『私はカモメ』』%K%P
-「『I'm a seagull.』」
+“‘I'm a seagull.’”
 “‘我是海鸥’”
 RU PLACEHOLDER
 
 『これは世界初の女性宇宙飛行士ワレンチナ・テレシコワの言葉だ』%K%P
-「These were the words uttered by the first woman in space, Valentina Tereshkova.」
+“These were the words uttered by the first woman in space, Valentina Tereshkova.”
 “这句话出自全球第一位女性宇航员瓦莲京娜·捷列什科娃之口。”
 RU PLACEHOLDER
 
 『旧ソ連の宇宙船ヴォストーク６号に乗り込んだ彼女は、ひとり、完全な静寂と虚無に支配された宇宙空間を漂いながら……』%K%P
-「All alone aboard the former Soviet Union spaceship Vostok 6, floating in the void of space, a place of complete silence and emptiness...」
+“All alone aboard the former Soviet Union spaceship Vostok 6, floating in the void of space, a place of complete silence and emptiness...”
 “独自一人乘入前苏联宇宙飞船东方６号的她，漂浮在被完全的静寂和虚无支配的宇宙空间中……”
 RU PLACEHOLDER
 
@@ -549,12 +549,12 @@ The snowstorm hits my cheeks with amazing force.
 RU PLACEHOLDER
 
 ――痛い。%K%P
-――Pain.
+——Pain.
 ——很痛。
 RU PLACEHOLDER
 
 感じるのは、冷たさよりも――痛さ。%K%P
-More than the cold, what I felt is――pain.
+More than the cold, what I felt is——pain.
 感受到的与其说是冷，不如说是——痛。
 RU PLACEHOLDER
 
@@ -606,7 +606,7 @@ RU PLACEHOLDER
 %N
 
 %LC『朱倉岳緊急避難小屋』%K%P
-「Mount Akakura Emergency Shelter Cabin」
+“Mount Akakura Emergency Shelter Cabin”
 “朱仓岳紧急避难小屋”
 RU PLACEHOLDER
 
@@ -1110,7 +1110,7 @@ Yes, it's the date...
 RU PLACEHOLDER
 
 今日は、平成２３年――つまり２０１１年の１月１１日のはず。%K%P
-Today's date is in Heisei 23――In other words, it should be January 11th, 2011.
+Today's date is in Heisei 23——In other words, it should be January 11th, 2011.
 今天应该是平成２３年——也就是２０１１年的１月１１日。
 RU PLACEHOLDER
 
@@ -1211,7 +1211,7 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 助かったという唯一の生存者の氏名は――%K%N
-Saved was the sole survivor of the crash――
+Saved was the sole survivor of the crash——
 唯一获救的生还者姓名是——
 RU PLACEHOLDER
 
@@ -1273,33 +1273,33 @@ I shake that off and run my trembling fingertips on the paper's surface.
 RU PLACEHOLDER
 
 収容された３つの遺体の氏名――%K%N
-The identities of the three discovered bodies――
+The identities of the three discovered bodies——
 被收容的三具遗体的姓名——
 RU PLACEHOLDER
 
 氏名は――%K%P
-They are――
+They are——
 姓名是——
 RU PLACEHOLDER
 
 %N
 
 『黄泉木聖司さん（３５）』%K%N
-「Yomogi Seiji-san (35)」
+“Yomogi Seiji-san (35)”
 “黄泉木圣司（３５岁）”
 RU PLACEHOLDER
 
 %N%N%N
 
 『黛鈴さん（２３）』%K%N
-「Mayuzumi Lin-san (23)」
+“Mayuzumi Lin-san (23)”
 “黛铃（２３岁）”
 RU PLACEHOLDER
 
 %N%N%N
 
 『冬川こころさん（２０）』%K%P
-「Fuyukawa Kokoro-san (20)」
+“Fuyukawa Kokoro-san (20)”
 “冬川心（２０岁）”
 RU PLACEHOLDER
 
@@ -1374,7 +1374,7 @@ I try to blot it out.
 RU PLACEHOLDER
 
 そして、新聞紙を持った手に力を込め――……%K%P
-And then, I grip the newspaper more tightly――...
+And then, I grip the newspaper more tightly——...
 于是，我握住报纸的手开始用力……
 RU PLACEHOLDER
 

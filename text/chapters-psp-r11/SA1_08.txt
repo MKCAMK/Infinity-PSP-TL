@@ -259,7 +259,7 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 黛「女っていったら、私の他にはあんたしかいないじゃない！」%K%P
-I said 『girl』. There aren't any girls here besides you and me!
+I said ‘girl’. There aren't any girls here besides you and me!
 黛「这里的女人，除了我之外不就只有你！」
 RU PLACEHOLDER
 
@@ -299,7 +299,7 @@ So? What about the piece you're holding now?
 RU PLACEHOLDER
 
 悟「えーっと……『ぽこぽこちゃん』って書いてあるなぁ……」%K%P
-Ummm... it says 『Pokopoko-chan』, here...
+Ummm... it says ‘Pokopoko-chan’, here...
 悟「哎……写着“治愈系咖啡馆”……」
 RU PLACEHOLDER
 
@@ -404,7 +404,7 @@ There's no one behind me.
 RU PLACEHOLDER
 
 つまり黄泉木は、このオレを指して『冬川』と呼んだのだ。%K%P
-That means that Yomogi is calling me 「Fuyukawa」.
+That means that Yomogi is calling me “Fuyukawa”.
 就是说，黄泉木是叫我为“冬川”的。
 RU PLACEHOLDER
 
@@ -484,7 +484,7 @@ I'm getting fed up with the slow speed of my thoughts.
 RU PLACEHOLDER
 
 ゆに「ＤＩＤ――乖離性同一性障害だね」%K%P
-DID――dissociative identity disorder.
+DID——dissociative identity disorder.
 悠尼「ＤＩＤ——分离性身份识别障碍」
 RU PLACEHOLDER
 
@@ -534,7 +534,7 @@ They miraculously survived, uninjured, and had wandered around in the snowstorm 
 RU PLACEHOLDER
 
 『朱倉岳緊急避難小屋』――それがこの小屋の正式名称なのだそうだ。%K%N
-Formal name: 「Mount Akakura Emergency Shelter Cabin」.
+Formal name: “Mount Akakura Emergency Shelter Cabin”.
 “朱仓岳紧急避难小屋”——是这个小屋的正式名称。
 RU PLACEHOLDER
 
@@ -554,7 +554,7 @@ But an unexpected, troublesome situation occurred here.
 RU PLACEHOLDER
 
 その事態の火種となったものは、他ならぬオレ――。%K%N
-The origin of this situation was none other than me――
+The origin of this situation was none other than me——
 成为那种事态的火种的，不是别人，正是我——
 RU PLACEHOLDER
 
@@ -569,17 +569,17 @@ Yuni speaks.
 RU PLACEHOLDER
 
 「きっと、墜落のショックで、突発的にＤＩＤになっちゃったんだと思うよ？」%K%N
-「Maybe, from the shock of the crash, she suddenly developed DID?」
+“Maybe, from the shock of the crash, she suddenly developed DID?”
 “我想一定是因为坠落的冲击，而突发性的成为了ＤＩＤ吧？”
 RU PLACEHOLDER
 
 「精神的にすごいダメージを受けて……」%K%N
-「After being dealt a painful emotional blow...」
+“After being dealt a painful emotional blow...”
 “精神上受到了相当大的伤害……”
 RU PLACEHOLDER
 
 「その耐えがたい苦痛から逃れるために、こころんはもうひとりの人格を自分の中に生み出してしまったんだ」%K%P
-「Kokoron gave birth to another personality within herself to escape from the pain.」
+“Kokoron gave birth to another personality within herself to escape from the pain.”
 “为了逃避这种无法忍受的苦痛，心在自己的心里生出另外一个人格。”
 RU PLACEHOLDER
 
@@ -589,17 +589,17 @@ Lin answers him.
 RU PLACEHOLDER
 
 「あり得ないわ！　急性の多重人格障害なんて聞いたことないもの！」%K%N
-「Impossible! I've never heard of an acute multiple personality disorder!」
+“Impossible! I've never heard of an acute multiple personality disorder!”
 “不可理喻！从来没听说过急性的多重人格障碍什么的！”
 RU PLACEHOLDER
 
 「この女は嘘をついてるだけなのよ！」%K%N
-「That woman is just lying!」
+“That woman is just lying!”
 “这个女人只是在骗人！”
 RU PLACEHOLDER
 
 「だいいち、この女は私しか知らないはずの優希堂悟という名前を……」%K%P
-「First of all, she spoke... Yukidoh Satoru's name. A name that only I should know...」
+“First of all, she spoke... Yukidoh Satoru's name. A name that only I should know...”
 “首先，这个女人用了应该只有我才知道的优希堂悟的名字……”
 RU PLACEHOLDER
 
@@ -629,7 +629,7 @@ Yuni reasons that the Yukidoh Satoru personality is a fictitious existence produ
 RU PLACEHOLDER
 
 「にわかには信じがたいね……」%K%N
-「It's hard to take it all in so suddenly...」
+“It's hard to take it all in so suddenly...”
 “确实难以相信……”
 RU PLACEHOLDER
 
@@ -649,7 +649,7 @@ Because I have my own memories of SPHIA.
 RU PLACEHOLDER
 
 『しかしそれさえも、まやかしだとしたら……？』%K%N
-「But what if those are fake...?」
+“But what if those are fake...?”
 “可是，如果连那个也是假象呢……？”
 RU PLACEHOLDER
 
@@ -734,7 +734,7 @@ The discussion over, Yuni puts his lips near my ear and whispers to me.
 RU PLACEHOLDER
 
 「大丈夫、悟はきっと元に戻れるよ」%K%N
-「It's all right. Satoru will go back to normal for sure.」
+“It's all right. Satoru will go back to normal for sure.”
 “没关系，悟一定能回到原来的地方。”
 RU PLACEHOLDER
 
@@ -887,12 +887,12 @@ RU PLACEHOLDER
 -------------------------------------------
 
 助かったという生存者の氏名は――%N『楠田ゆにくん（１１）』%K%N
-%LLThe name of the survivor――「Kusuda Yuni-kun (11)」.%K%N
+%LLThe name of the survivor——“Kusuda Yuni-kun (11)”.%K%N
 唯一获救的生还者姓名是——楠田悠尼（１１）
 RU PLACEHOLDER
 
 収容された３つの遺体の氏名は――%N『黄泉木聖司さん（３５）』%N『黛鈴さん（２３）』%N『冬川こころさん（２０）』%K%P
-The names of the three discovered bodies――「Yomogi Seiji-san (35)」, 「Mayuzumi Lin-san (23)」, and 「Fuyukawa Kokoro-san (20)」.
+The names of the three discovered bodies——“Yomogi Seiji-san (35)”, “Mayuzumi Lin-san (23)”, and “Fuyukawa Kokoro-san (20)”.
 被收容的三具遗体的姓名——黄泉木圣司（３５）、黛铃（２３）、冬川心（２０）
 RU PLACEHOLDER
 
@@ -902,7 +902,7 @@ The instant I finish reading that, a chill runs down my spine.
 RU PLACEHOLDER
 
 黄泉木のくちから『冬川』という名前が出たときから、薄々感づいてはいた。%K%P
-From the moment the name 「Fuyukawa」 left Yomogi's mouth, I had somehow felt it.
+From the moment the name “Fuyukawa” left Yomogi's mouth, I had somehow felt it.
 从黄泉木的口中说出“冬川”这个名字开始，我就微微觉察到了。
 RU PLACEHOLDER
 
@@ -937,7 +937,7 @@ Regarding this accident, I'm in a unique position among the majority of the Japa
 RU PLACEHOLDER
 
 黛鈴――オレがかつて交際していた女性が、その飛行機に乗っていたから……。%K%P
-Mayuzumi Lin――the woman who was once my girlfriend had boarded that plane...
+Mayuzumi Lin——the woman who was once my girlfriend had boarded that plane...
 黛铃——曾与我交往的女性，乘坐了那架飞机……
 RU PLACEHOLDER
 
@@ -1042,7 +1042,7 @@ There's a sign fixed there.
 RU PLACEHOLDER
 
 『朱倉岳緊急避難小屋』――そう書かれている。%K%P
-「Mount Akakura Emergency Shelter Cabin」――those words are clearly written on it.
+“Mount Akakura Emergency Shelter Cabin”——those words are clearly written on it.
 “朱仓岳紧急避难小屋”——这样写着。
 RU PLACEHOLDER
 

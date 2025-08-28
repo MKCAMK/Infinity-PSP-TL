@@ -1336,7 +1336,7 @@ CN PLACEHOLDER
 空「あとはちょっと、特殊な技術を使っている部分がありますね。詳細は、企業秘密ですが……」%K%P
 There are also a number of special technologies used to create me. However, the specifics of these are trade secrets which cannot be revealed...
 CN PLACEHOLDER
-Также, во мне задействованы несколько специфичных технологий. Однако, они являются индустриальными секретами и не могут быть оглашены...」%K%P(Индустриальные секреты...?)%K%P(Такое чувство, будто они экспериментировали с человеческими мозгами, чтобы создать Сору...)%K%P
+Также, во мне задействованы несколько специфичных технологий. Однако, они являются индустриальными секретами и не могут быть оглашены...»%K%P(Индустриальные секреты...?)%K%P(Такое чувство, будто они экспериментировали с человеческими мозгами, чтобы создать Сору...)%K%P
 
 つぐみ「そうね。普通のＡＩではちょっと説明のつかないところが残るけど、まあいいわ。だいたいわかったから」%K%P
 I see. There are things about you that normal AI can't explain, but I think I get the picture.
@@ -1681,7 +1681,7 @@ CN PLACEHOLDER
 武「ああ……的確に鋭く、相手の弱点をついたってこと」%K%P
 Uh... It's when you say something to needle the person you're talking with or make a sharp or witty comment that makes them feel awkward.
 CN PLACEHOLDER
-Ээ...ну, тычок или подкол. Когда ты говоришь то, что задевает человека или, как бы невзначай...」%K%PТакеши「...делаешь едкий комментарий об одной из его слабых черт и от этого он чувствует себя неуютно.
+Ээ...ну, тычок или подкол. Когда ты говоришь то, что задевает человека или, как бы невзначай...»%K%PТакеши«...делаешь едкий комментарий об одной из его слабых черт и от этого он чувствует себя неуютно.
 
 空「あっ、そうなんですか。ごめんなさい、倉成さん」%K%P
 Uh, I see. I'm really sorry, Kuranari-san.
@@ -2579,7 +2579,7 @@ CN PLACEHOLDER
 Я буду существовать, пока меня видят.
 
 空「視線――視点」%K%P
-Vision―a viewpoint.
+Vision—a viewpoint.
 CN PLACEHOLDER
 На этом глазе, на этом угле зрения.
 
@@ -2934,7 +2934,7 @@ CN PLACEHOLDER
 В данном случае, я имею в виду не только зрение, но и слух, обоняние, вкус, осязание - все чувства.
 
 空「物事を知覚するポイント――それが視点なのです」%K%P
-The point at which we perceive the world―that is perspective.
+The point at which we perceive the world—that is perspective.
 CN PLACEHOLDER
 Точка, в которой мы воспринимаем мир - это и есть перспектива.
 
@@ -2959,7 +2959,7 @@ CN PLACEHOLDER
 Я чувствую, что начал понимать то, что она пытается сказать.
 
 ただ……『私は月と同じなのです』……その言葉の真意がよくわからなかった。%K%P
-Still... I didn't know exactly what she meant by 「I am the same as the moon.」
+Still... I didn't know exactly what she meant by “I am the same as the moon.”
 CN PLACEHOLDER
 И всё же...я не знаю, что именно она имеет в виду, говоря...'Я такая же, как и луна.'
 

@@ -531,7 +531,7 @@ CN PLACEHOLDER
 ティーフブラウに関しての情報はこうだ――%K%O
 There was some information about Tief Blau...
 CN PLACEHOLDER
-В одном из них оказалась информация касательно Tief Blau―
+В одном из них оказалась информация касательно Tief Blau—
 
 名称：Ｔｉｅｆ　Ｂｌａｕ%K%N
 Name: Tief Blau
@@ -584,7 +584,7 @@ CN PLACEHOLDER
 Почти в самом конце одного из документов, нас ждал большой сюрприз...
 
 『ＩＢＦ来館ゲスト登録：八神ココ』%K%N
-「IBF Visitor Registry: Yagami Coco」
+“IBF Visitor Registry: Yagami Coco”
 CN PLACEHOLDER
 'Реестр Посещений IBF: Ягами Коко'
 
@@ -599,37 +599,37 @@ CN PLACEHOLDER
 Изучив файл более тщательно, мы обнаружили нечто вроде чьей-то личной памятки.
 
 『久し振りに娘に会う』%K%N
-「I get to see my daughter for the first time in a while.」
+“I get to see my daughter for the first time in a while.”
 CN PLACEHOLDER
 'Да уж, давненько я не виделся со своей дочкой.'
 
 『娘の学校はこの連休絡みで、１０日間ほど休みらしい』%K%N
-「Her school is on vacation, so she has a ten-day break.」
+“Her school is on vacation, so she has a ten-day break.”
 CN PLACEHOLDER
 'Сейчас в её школе каникулы, поэтому эти 10 дней она отдыхает.'
 
 『私は随分長いことウイルス研究でここに缶詰になっているから、うらやましい話ではある……』%K%O
-「I've been trapped for so long in this tin can doing virus research that I'm jealous...」
+“I've been trapped for so long in this tin can doing virus research that I'm jealous...”
 CN PLACEHOLDER
 'Честно говоря, я так долго торчал в этой тесной консервной банке на пару с треклятым вирусом, что завидую своей крохе...'
 
 『さておき、ＩＢＦの見学許可が特別に下りたと伝えたら、すぐに行くからと明るい返事がかえってきた』%K%N
-「That aside, when I told her that special permission had been granted for her to come down and see IBF, she sent me a happy reply saying she would.」
+“That aside, when I told her that special permission had been granted for her to come down and see IBF, she sent me a happy reply saying she would.”
 CN PLACEHOLDER
 'Одно хорошо -- когда я сказал ей, что выбил для неё особое разрешение на посещение IBF, она прислала радостный ответ, в котором дала согласие на свой визит.'
 
 『メールは度々交換していると思うが、顔を合わせるのは何ヶ月振りだろう？』%K%N
-「We've exchanged mail every once in a while, but I wonder how long it's been since we've actually seen each other?」
+“We've exchanged mail every once in a while, but I wonder how long it's been since we've actually seen each other?”
 CN PLACEHOLDER
 'Мы переписываемся довольно часто, но, если подумать, в действительности мы не виделись очень и очень давно.'
 
 『父親の顔を忘れていなければいいのだが』%K%N
-「I'll just be happy if she hasn't forgotten what I look like.」
+“I'll just be happy if she hasn't forgotten what I look like.”
 CN PLACEHOLDER
 'Буду счастлив, если она помнит, как я выгляжу.'
 
 『Ｔ．Ｙ』%K%O
-「T.Y.」
+“T.Y.”
 CN PLACEHOLDER
 'T.Y.'
 
@@ -881,7 +881,7 @@ CN PLACEHOLDER
 ピッ！！%K%P
 Beeep!
 CN PLACEHOLDER
-― Писк!
+— Писк!
 
 コントロールパネルのモニターから、鋭い電子音が返ってきた。%K%P
 A sharp alarm sounded from the control panel monitor.
@@ -1264,9 +1264,9 @@ CN PLACEHOLDER
 Ни глубоководного снаряжения, ни баллонов с кислородом.
 
 つまり――%K%P
-Meaning―
+Meaning—
 CN PLACEHOLDER
-Значит ―
+Значит —
 
 退路は完全に断たれた。%K%P
 All routes of escape had been cut off.

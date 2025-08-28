@@ -79,7 +79,7 @@ The small liquid crystal display shows the letters of the alphabet.
 RU PLACEHOLDER
 
 悟「『ＶＯＩＣＥ　ＲＥＣＯＲＤＥＲ』？」%K%P
-『ＶＯＩＣＥ　ＲＥＣＯＲＤＥＲ』?
+‘ＶＯＩＣＥ　ＲＥＣＯＲＤＥＲ’?
 悟「“ＶＯＩＣＥ　ＲＥＣＯＲＤＥＲ”？」
 RU PLACEHOLDER
 
@@ -149,7 +149,7 @@ It's a small wristwatch, and quite feminine.
 RU PLACEHOLDER
 
 時刻は『午後１時１０分』を示している。%K%P
-It gives the time 「1:10 PM」.
+It gives the time “1:10 PM”.
 时刻显示是“下午１时１０分”。
 RU PLACEHOLDER
 
@@ -174,7 +174,7 @@ It isn't as if I'm timing a race.
 RU PLACEHOLDER
 
 オレはひとまず『午後１時７分』という時刻を頭に刻みつけておくことにした。%K%P
-For now, I engrave the time 「1:07 PM」 into my memory.
+For now, I engrave the time “1:07 PM” into my memory.
 我决定暂时先记住“下午１时０７分”的时刻。
 RU PLACEHOLDER
 
@@ -304,7 +304,7 @@ I see. Lin still believes that I'm pretending to be Yukidoh Satoru even after a 
 RU PLACEHOLDER
 
 『おまえの方がよっぽどしつこいだろ』と言いたくなったが、寸前のところでぐっとこらえた。%K%P
-I want to retort with 「You're much more stubborn, you know」, but I bite back my words just in time.
+I want to retort with “You're much more stubborn, you know”, but I bite back my words just in time.
 本想说“你才是纠缠不休呢”，但还是忍住了。
 RU PLACEHOLDER
 
@@ -550,7 +550,7 @@ RU PLACEHOLDER
 //old: You think I'd be taken down with petty tactics like this?
 
 オレは『冬川なんかじゃない』という意思表示を、無言のうちに背中から放った。%K%P
-My silent back clearly declares 「I'm not Fuyukawa!」
+My silent back clearly declares “I'm not Fuyukawa!”
 我为了证明“我不是冬川心”，背对她表示沉默。
 RU PLACEHOLDER
 
@@ -627,7 +627,7 @@ This proves that you're not Satoru.
 RU PLACEHOLDER
 
 黛「なぜなら私は、彼のことを『優希堂くん』なんて呼んだことは一度もないから」%K%P
-Because I've never once called him 『Yukidoh-kun』.
+Because I've never once called him ‘Yukidoh-kun’.
 黛「因为我从来没有用“优希堂”称呼过他」
 RU PLACEHOLDER
 
@@ -787,17 +787,17 @@ That was a leading question...
 RU PLACEHOLDER
 
 『優希堂くん』と呼んで、振り返ったら、してやったりといったところなのだろう。%K%P
-If I turned around after being called 「Yukidoh-kun」, then it would all be over.
+If I turned around after being called “Yukidoh-kun”, then it would all be over.
 铃叫的“优希堂”，如果我回头，就等于中了圈套吧。
 RU PLACEHOLDER
 
 なぜならオレは、鈴に『優希堂くん』なんて呼ばれたことは一度もないからだ。%K%P
-Because she's never called me 「Yukidoh-kun」, not once.
+Because she's never called me “Yukidoh-kun”, not once.
 因为我从来没被铃用“优希堂”称呼过。
 RU PLACEHOLDER
 
 『悟』……それが彼女の呼び方。%K%P
-「Satoru」... is the name she calls me.
+“Satoru”... is the name she calls me.
 “悟”……这才是她的叫法。
 RU PLACEHOLDER
 

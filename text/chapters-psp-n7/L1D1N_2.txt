@@ -129,7 +129,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 （『ロッジに帰って』って……）%K%P
-(「I'll go back to the lodge」...)
+(“I'll go back to the lodge”...)
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -184,12 +184,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『そうだね』
-「You're right.」
+“You're right.”
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『そうかなぁ？』
-「You think so?」
+“You think so?”
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -289,7 +289,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ──ところで遙は……？%K%P
-―Wait, where's Haruka...?
+—Wait, where's Haruka...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -359,7 +359,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『気持ちいい？』オレはそう尋ねた
-Ask her, 「Does this feel good?」
+Ask her, “Does this feel good?”
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -569,7 +569,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ──するとその瞬間！%K%P
-―Just then, at that exact moment!
+—Just then, at that exact moment!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -599,7 +599,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみは…これはしたたかと言うのだろうか？…いづみさんを犠牲にした形で、ちゃっかり自分だけプールサイドに生き残っていた。%K%P
-Only Kurumi remains on the poolside, looking like she sacrificed Izumi-san to save herself (is this what you'd call 「determination」?).
+Only Kurumi remains on the poolside, looking like she sacrificed Izumi-san to save herself (is this what you'd call “determination”?).
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -704,7 +704,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『いづみさん、地震が来るんだよ！！』
-「Izumi-san, an earthquake's coming!!」
+“Izumi-san, an earthquake's coming!!”
 CN PLACEHOLDER
 RU PLACEHOLDER
 

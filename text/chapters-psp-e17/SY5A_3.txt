@@ -29,27 +29,27 @@ CN PLACEHOLDER
 Рядом с кроватью лежит записка.
 
 『夕食の時間になるまで、私達は会議室にいます。%K%N
-「We will be in the conference room until dinner.」
+“We will be in the conference room until dinner.”
 CN PLACEHOLDER
 'До ужина мы будем в Комнате Переговоров.
 
 ⑳もし、それまでに起きたようなら、きみもおいでよ。%K%N
-「If you wake up by then, please come along.」
+“If you wake up by then, please come along.”
 CN PLACEHOLDER
 Если к этому времени проснёшься, пожалуйста присоединяйся к нам.
 
 ⑳この数日間、無理に付き合わせちゃってゴメンね？%K%N
-「I'm sorry for making you hang out with me the last couple days.」
+“I'm sorry for making you hang out with me the last couple days.”
 CN PLACEHOLDER
 Прости, что так бесцеремонно таскала тебя за собой все эти деньки.
 
 ⑳せめて今だけは、ゆっくりと身体を休めてください。%K%N
-「Please make sure that you get enough rest.」
+“Please make sure that you get enough rest.”
 CN PLACEHOLDER
 Отдохни как следует, ладушки?
 
 ⑳　　　　　　　　　　　　　　　　　　　　　　ＹＯＵ』%K%N
-「―You」
+“—You”
 CN PLACEHOLDER
 ---Ю'
 
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 ...И тут...
 
 『彼女』を、再び目撃したのは！%K%P
-I saw 「her」 again!
+I saw “her” again!
 CN PLACEHOLDER
 Я снова увидел 'её'!
 
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 Нет, один раз её удалось засечь...
 
 ――『生体反応：７』%K%P
-―「Life readings: 7」
+—“Life readings: 7”
 CN PLACEHOLDER
 'Живые существа: 7'
 
@@ -391,7 +391,7 @@ CN PLACEHOLDER
 От одного её слова...
 
 ぼくの中で、もうひとりのぼくが、何かを叫び続けている。%K%P
-Inside of me, it felt like another 「me」 was screaming.
+Inside of me, it felt like another “me” was screaming.
 CN PLACEHOLDER
 Внутри меня, другой я дико вопит.
 
@@ -691,7 +691,7 @@ CN PLACEHOLDER
 Думаю...и беспокоюсь...о стольких вещах.
 
 ――優のこと。%K%N
-―About You.
+—About You.
 CN PLACEHOLDER
 О Ю.
 
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 Если нет, тогда кто?
 
 ――ぼくのこと。%K%N
-―About me.
+—About me.
 CN PLACEHOLDER
 О себе.
 
@@ -771,22 +771,22 @@ CN PLACEHOLDER
 Несколькими часами спустя, сооружение вновь дало течь.
 
 『ドリットシュトック／隔離区画――コスミッシャー・ヴァル完全浸水』%K%P
-「Dritter Stock―from the partition to the Cosmic Whale was submerged.」
+“Dritter Stock—from the partition to the Cosmic Whale was submerged.”
 CN PLACEHOLDER
 'Дритте шток - затоплен модуль с Залом Космического Кита.'
 
 『犠牲者：無し』%K%P
-「Casualties: None」
+“Casualties: None”
 CN PLACEHOLDER
 'Человеческие жертвы: Нет'
 
 『他部屋への漏水：無し』%K%P
-「Flooding to other rooms: None」
+“Flooding to other rooms: None”
 CN PLACEHOLDER
 'Затопление других помещений: Отсутствует'
 
 『被害拡大の恐れ：無し』%K%P
-「Chance of damage spreading: None」
+“Chance of damage spreading: None”
 CN PLACEHOLDER
 'Вероятность распространения повреждений: 0...'
 

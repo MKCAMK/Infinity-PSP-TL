@@ -834,7 +834,7 @@ CN PLACEHOLDER
 Г. Существования мамы Ю.
 
 ぼくらは警備室に移動し、再度『田中ゆきえ氏死去に関するファイル』を確認する。%K%N
-We moved to the security office and checked the 「File Concerning the Death of Tanaka Yukie」 again.
+We moved to the security office and checked the “File Concerning the Death of Tanaka Yukie” again.
 CN PLACEHOLDER
 Мы перешли в Офис Охраны и ещё раз проверили файл о смерти Юки Танака.
 
@@ -854,12 +854,12 @@ CN PLACEHOLDER
 Поэтому нам удалось сузить круг вероятностей до двух.
 
 『２：陽一氏は亡くなったわけではなく、１７年前に失踪しただけである。しかし、ゆきえ氏は１５年前に天に召されている』%K%N
-「2. Yoichi had not actually died, but only disappeared seventeen years ago. However, Yukie had passed away fifteen years ago.」
+“2. Yoichi had not actually died, but only disappeared seventeen years ago. However, Yukie had passed away fifteen years ago.”
 CN PLACEHOLDER
 '2. Йоичи не умер, а лишь исчез 17 лет назад. Однако, Юки скончалась 15 лет назад.'
 
 『４：陽一氏は３４年前に、ゆきえ氏は１５年前にこの世を去った』%K%O
-「4. Yoichi had died 34 years ago and Yukie 15 years ago.」
+“4. Yoichi had died 34 years ago and Yukie 15 years ago.”
 CN PLACEHOLDER
 '4. Йоичи умер 34 года назад, а Юки - 15 лет назад.'
 
@@ -884,7 +884,7 @@ CN PLACEHOLDER
 Это в разы увеличивает правдоподобность четвёртой теории.
 
 『４：陽一氏は３４年前に、ゆきえ氏は１５年前にこの世を去った』%K%O
-「4. Yoichi had died 34 years ago and Yukie 15 years ago.」
+“4. Yoichi had died 34 years ago and Yukie 15 years ago.”
 CN PLACEHOLDER
 '4. Йоичи умер 34 года назад, а Юки - 15 лет назад.'
 
@@ -1493,12 +1493,12 @@ CN PLACEHOLDER
 %N%N%N
 
 %LC７日に……%K%N
-「On the 7th...」
+“On the 7th...”
 CN PLACEHOLDER
 На седьмой день...
 
 %LC――あなたは死ぬの%K%O
-「You will die.」
+“You will die.”
 CN PLACEHOLDER
 Ты умрёшь.
 
@@ -1898,7 +1898,7 @@ CN PLACEHOLDER
 Продолжать сей разговор рискованно, поэтому я решил выучить для себя урок...
 
 みざる……いわざる……きかざる。%K%P
-「See no more, speak no more, hear no more.」
+“See no more, speak no more, hear no more.”
 CN PLACEHOLDER
 'Ничего не вижу, ничего не слышу, ничего никому не скажу.'
 
@@ -1913,7 +1913,7 @@ CN PLACEHOLDER
 Разумеется, в конце концов она сдалась. А я, поскольку уже знал, что Ю ждёт меня, пошёл вдоль коридора...
 
 優いわく『例のところ』。%K%P
-I thought about what You meant by 「THE place」.
+I thought about what You meant by “THE place”.
 CN PLACEHOLDER
 ...пытаясь понять, о каком месте она говорила.
 

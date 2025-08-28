@@ -9,7 +9,7 @@ I take note of them:
 RU PLACEHOLDER
 
 『遺体はいずれも、朱倉岳避難小屋から東へ１ｋｍ離れた場所で見つかっている』%K%N
-「The bodies were discovered one kilometer east of the Mount Akakura shelter cabin.」
+“The bodies were discovered one kilometer east of the Mount Akakura shelter cabin.”
 “遗体发现于朱仓岳避难小屋以东１公里处”
 RU PLACEHOLDER
 
@@ -17,14 +17,14 @@ RU PLACEHOLDER
 
 // 「However, due to the location being far away from the route down the mountain, the Aomori police investigation into their movements on the day of their death will continue.」
 『発見場所は下山ルートからは離れているため、遭難者の死亡当日の足取りについて、青森県警では調査を進めている』%K%N
-「Due to the location being far away from the route down, the Aomori police investigation into their movements on the day of their death will continue.」
+“Due to the location being far away from the route down, the Aomori police investigation into their movements on the day of their death will continue.”
 “因为发现地点偏离了下山路线，青森县警方正在对遭难者死亡当日的行动路线进行进一步调查”
 RU PLACEHOLDER
 
 %N
 
 『青森気象観測所によると、この時期に朱倉岳の該当箇所周辺で発生した雪崩は、２０１１年１月１７日午前６時５３分であることがわかっている』%K%P
-「According to the Aomori Meteorological Observatory, an avalanche affecting this area of Mount Akakura occurred on January 17th, 2011, at around 6:53 AM.」
+“According to the Aomori Meteorological Observatory, an avalanche affecting this area of Mount Akakura occurred on January 17th, 2011, at around 6:53 AM.”
 “据青森气象站提供的信息，这段时间朱仓岳一带的雪崩发生时间为２０１１年１月１７日清晨６时５３分”
 RU PLACEHOLDER
 
@@ -208,7 +208,7 @@ Because our biggest goal, our only goal, is to go on living.
 RU PLACEHOLDER
 
 では、私達が雪崩に巻き込まれた地点――仮にＸ地点と呼ぼう――には、なにがあるというのだろう？%K%N
-Then what exactly is there at the place where we were killed by the avalanche――let's call it Location X――one kilometer east of here?
+Then what exactly is there at the place where we were killed by the avalanche——let's call it Location X——one kilometer east of here?
 那么，我们被卷入雪崩的地点——假设叫Ｘ吧——那个地方到底有什么呢？
 RU PLACEHOLDER
 
@@ -223,7 +223,7 @@ After thinking about it for a bit... I come up with one theory.
 RU PLACEHOLDER
 
 Ｘ地点には――%K%p
-At Location X――
+At Location X——
 Ｘ地点那里——
 RU PLACEHOLDER
 
@@ -355,7 +355,7 @@ Because of that, they couldn't drop the supplies near the shelter cabin.
 RU PLACEHOLDER
 
 そこで、気づいてくれることを信じながら、Ｘ地点へ落とした――%K%N
-So, believing that the supplies would be noticed by the survivors, they made the drop at Location X――
+So, believing that the supplies would be noticed by the survivors, they made the drop at Location X——
 相信我们会发现的，于是把物资投放到Ｘ地点了——
 RU PLACEHOLDER
 
@@ -417,7 +417,7 @@ I also know that at that time, we will be killed by the avalanche there.
 RU PLACEHOLDER
 
 つまり――%K%N
-In other words――
+In other words——
 也就是说——
 RU PLACEHOLDER
 
@@ -429,7 +429,7 @@ RU PLACEHOLDER
 %N
 
 私達は雪崩に巻き込まれることもなく、食糧を得ることができる――！%K%P
-We can get food without being caught in an avalanche――!
+We can get food without being caught in an avalanche——!
 我们就不用遭遇雪崩取得食粮——！
 RU PLACEHOLDER
 

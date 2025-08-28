@@ -744,12 +744,12 @@ CN PLACEHOLDER
 Вот потому-то компьютер спрашивает 'Стой, кто идёт?'.
 
 言いながら優は、マウスカーソルでウィンドウの中にある『Ｎａｍｅ』と書かれた入力欄をクルクルと囲った。%K%P
-As she spoke, You used the mouse to click on the box for 「Name」.
+As she spoke, You used the mouse to click on the box for “Name”.
 CN PLACEHOLDER
 С этими словами Ю щёлкнула мышью по полю 'Имя'.
 
 そこには『ＹＵＫＩＥ　ＴＡＮＡＫＡ』と書き込まれている。%K%P
-Inside the box were written the words 「YUKIE TANAKA」.
+Inside the box were written the words “YUKIE TANAKA”.
 CN PLACEHOLDER
 В поле вписаны имя и фамилия, 'ЮКИ ТАНАКА'.
 
@@ -779,7 +779,7 @@ CN PLACEHOLDER
 А теперь компьютер говорит 'Если ты действительно ЮКИ ТАНАКА, тогда скажи свой пароль'.
 
 画面のカーソルは、名前入力欄の下にある『Ｐａβｗｏｒｔ』と書かれた欄を囲む。%K%P
-You then used the mouse to circle around the box for 「Password」.
+You then used the mouse to circle around the box for “Password”.
 CN PLACEHOLDER
 Ю перевела курсор на поле 'Пароль'.
 
@@ -864,12 +864,12 @@ CN PLACEHOLDER
 Клац, клац, клац...
 
 『＊%T010＊%T005＊%T020＊%T004＊%T005＊%T015＊%T003＊』%K%P
-「*%T010*%T005*%T020*%T004*%T005*%T015*%T003*」
+“*%T010*%T005*%T020*%T004*%T005*%T015*%T003*”
 CN PLACEHOLDER
 "*%T010*%T005*%T020*%T004*%T005*%T015*%T003*"
 
 打ち込まれた文字は、第３者に知られないように、画面上では『＊』で表示されるとのことだ。%K%P
-The characters she typed in were blocked out by 「*」 so that anybody watching wouldn't know what the word was.
+The characters she typed in were blocked out by “*” so that anybody watching wouldn't know what the word was.
 CN PLACEHOLDER
 То, что вводит Ю, автоматически превращается в '*', чтобы никто наблюдающий со стороны не узнал, что именно она вводит.
 
@@ -889,7 +889,7 @@ CN PLACEHOLDER
 Пиииииииск!
 
 『アクセス不可／名前またはパスワードが違います』%K%P
-「Access denied. Invalid name or password.」
+“Access denied. Invalid name or password.”
 CN PLACEHOLDER
 'В доступе отказано. Некорректное имя или пароль.'
 
@@ -904,7 +904,7 @@ CN PLACEHOLDER
 Клац, клац, клац...
 
 『＊%T015＊%T005＊%T020＊%T015＊%T005＊%T003＊%T010＊』%K%P
-「*%T015*%T005*%T020*%T015*%T005*%T003*%T010*」
+“*%T015*%T005*%T020*%T015*%T005*%T003*%T010*”
 CN PLACEHOLDER
 "*%T015*%T005*%T020*%T015*%T005*%T003*%T010*"
 
@@ -919,7 +919,7 @@ CN PLACEHOLDER
 Пиииииииск!
 
 『アクセス不可／名前またはパスワードが違います』%K%P
-「Access denied. Invalid name or password.」
+“Access denied. Invalid name or password.”
 CN PLACEHOLDER
 'В доступе отказано. Некорректное имя или пароль.'
 
@@ -1054,7 +1054,7 @@ CN PLACEHOLDER
 Секундочку...Сора же говорила, что LeMU был назван в честь континента Лемурии.
 
 ドリットシュトックのアトラクションにも『レムリア遺跡』なんてのがあるし……。%K%P
-On Dritter Stock, there was an attraction called the 「Lemurian Ruins」...
+On Dritter Stock, there was an attraction called the “Lemurian Ruins”...
 CN PLACEHOLDER
 На Дритте шток есть аттракцион под названием 'Лемурийские Развалины'...
 
@@ -1454,7 +1454,7 @@ CN PLACEHOLDER
 Вроде ящера туатара, обитающего на островах у Новой Зеландии, что до сих пор имеет третий глаз на макушке.
 
 ――第３の眼（ｔｈｅ⑳ｔｈｉｒｄ⑳ｅｙｅ）%K%N
-―The third eye.
+—The third eye.
 CN PLACEHOLDER
 Третий глаз...
 
@@ -1496,7 +1496,7 @@ CN PLACEHOLDER
 Взамен же мы получили два чувствительных глаза, по одному с каждой стороны.
 
 この退化した第３の眼は『松果体（ショウカタイ）』と%N呼ばれている。%K%O
-The lost third eye was called a 「pineal body」.
+The lost third eye was called a “pineal body”.
 CN PLACEHOLDER
 Этот утраченный третий глаз называется 'шишковидной железой'.
 
@@ -1506,7 +1506,7 @@ CN PLACEHOLDER
 Она всегда функционирует в мозгу и отвечает за выработку гормонов, что позволяют поддерживать наш суточный, 24-часовой ритм.
 
 俗に言う『体内時計』とは、この松果体あっての能力なのである。%K%O
-What we called our 「internal clocks」 existed because of the pineal body.
+What we called our “internal clocks” existed because of the pineal body.
 CN PLACEHOLDER
 То, что мы называем внутренними часами, существует благодаря этой шишковидной железе.
 
@@ -1891,7 +1891,7 @@ CN PLACEHOLDER
 Да что там улики! Она даже не проскочила через экран авторизации.
 
 『アクセス不可／名前またはパスワードが違います』%K%P
-「Access denied. Invalid name or password.」
+“Access denied. Invalid name or password.”
 CN PLACEHOLDER
 'В доступе отказано. Некорректное имя или пароль.'
 
@@ -2111,7 +2111,7 @@ CN PLACEHOLDER
 Пробравшись, я увидела, что её компьютер включён.
 
 %FS中をのぞくと、ご丁寧に『パスワード』とタイトルの%Nつけられたテキストファイルがあってね。%FE%V%N
-Looking at it, I saw that there was a text file entitled 「Password」.
+Looking at it, I saw that there was a text file entitled “Password”.
 CN PLACEHOLDER
 Подойдя ближе, я заметила текстовый файл под названием 'Пароль'.
 
@@ -2376,7 +2376,7 @@ CN PLACEHOLDER
 Я взбесился не на шутку.
 
 『大事なことを忘れてるのは、どっちなの？』%K%P
-「Now who's forgetting the important things?」
+“Now who's forgetting the important things?”
 CN PLACEHOLDER
 'Так кто из нас забыл важные вещи?'
 
@@ -2988,7 +2988,7 @@ CN PLACEHOLDER
 ふんぎゅーーーーっ！！！%K%P
 Squeeze...!
 CN PLACEHOLDER
-Кряк ― !!!
+Кряк — !!!
 
 顔面に優の胸が押しつけられる。%K%P
 My face was pressed hard against her bust.
@@ -3081,7 +3081,7 @@ CN PLACEHOLDER
 У нас есть пароль, так что всё в порядке.
 
 『海月の虚空に秋涼し時鳥』%K%P
-「The empty fall sky%NA single cuckoo calls out%NBrings a chill to me」.
+“The empty fall sky%NA single cuckoo calls out%NBrings a chill to me”.
 CN PLACEHOLDER
 'Море и луна сливаются в иллюзорном осеннем небе, неся, словно птица сквозь пелену времени, тихий океанский бриз.'
 
@@ -3141,7 +3141,7 @@ CN PLACEHOLDER
 Пиииииииск!
 
 『アクセス不可／名前またはパスワードが違います』%K%P
-「Access denied. Invalid name or password.」
+“Access denied. Invalid name or password.”
 CN PLACEHOLDER
 'В доступе отказано. Некорректное имя или пароль.'
 
@@ -3211,7 +3211,7 @@ CN PLACEHOLDER
 Пиииииииск!
 
 『アクセス不可／名前またはパスワードが違います』%K%P
-「Access denied. Invalid name or password.」
+“Access denied. Invalid name or password.”
 CN PLACEHOLDER
 'В доступе отказано. Некорректное имя или пароль.'
 
@@ -3301,7 +3301,7 @@ CN PLACEHOLDER
 Я уже выбился из сил и не в состоянии произнести ни слова.
 
 すると、突然――！%K%P
-And then, suddenly―
+And then, suddenly—
 CN PLACEHOLDER
 И тут...!
 
@@ -3356,7 +3356,7 @@ CN PLACEHOLDER
 Пиииииииск!
 
 『アクセス不可／現在この名前ではログインできません』%K%P
-「Access denied. Cannot log in with the given name at this time.」
+“Access denied. Cannot log in with the given name at this time.”
 CN PLACEHOLDER
 'В доступе отказано. В данный момент это имя не может быть авторизовано.'
 

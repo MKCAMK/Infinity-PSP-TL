@@ -24,12 +24,12 @@ CN PLACEHOLDER
 Мы запихнули всё что только могло понадобиться в ящик и направились к механическому плавучему лифту.
 
 ――中性浮力式エレベーター『ＥＩ／アイ』。%K%P
-―The neutral buoyancy elevator 「Ei」.
+—The neutral buoyancy elevator “Ei”.
 CN PLACEHOLDER
 - Механический плавучий лифт 'EI'.
 
 『ＥＩ』とはドイツ語で『卵』のことを意味する。%K%P
-「Ei」 meant 「egg」 in German.
+“Ei” meant “egg” in German.
 CN PLACEHOLDER
 'EI' с немецкого переводится как 'яйцо'.
 
@@ -54,7 +54,7 @@ CN PLACEHOLDER
 Зайдя вместе в лифт, мы закрыли водоупорные двери, что соединяют его с LeMU.
 
 あとは、ＬｅＭＵに接続されているロックを開放すれば、自然と『卵』は沈んで行くはずだ。%K%P
-All we had to do was release the lock connecting us to LeMU, and the 「egg」 would sink away.
+All we had to do was release the lock connecting us to LeMU, and the “egg” would sink away.
 CN PLACEHOLDER
 Осталось лишь открыть замок, соединяющий 'яйцо' с сооружением.
 
@@ -119,7 +119,7 @@ CN PLACEHOLDER
 Но, сейчас всё обесточено...
 
 少年「……バラストのバルブを制御することはできない――そういうことだよね？」%K%P
-...So there's no way to control the ballast valve―is that the problem?
+...So there's no way to control the ballast valve—is that the problem?
 CN PLACEHOLDER
 ...поэтому управлять баком невозможно - проблема в этом?
 
@@ -689,7 +689,7 @@ CN PLACEHOLDER
 Ю потянулась к дверному засову...
 
 （――！？）%K%P
-(――!?)
+(——!?)
 CN PLACEHOLDER
 (!?)
 
@@ -2784,7 +2784,7 @@ CN PLACEHOLDER
 Вроде ящера туатара, обитающего на островах у Новой Зеландии, что до сих пор имеет третий глаз на макушке.
 
 ――第３の眼（ｔｈｅ⑳ｔｈｉｒｄ⑳ｅｙｅ）%K%N
-―The third eye.
+—The third eye.
 CN PLACEHOLDER
 Третий глаз...
 
@@ -2826,7 +2826,7 @@ CN PLACEHOLDER
 Взамен же мы получили два чувствительных глаза, по одному с каждой стороны.
 
 この退化した第３の眼は『松果体（ショウカタイ）』と%N呼ばれている。%K%O
-The lost third eye was called a 「pineal body」.
+The lost third eye was called a “pineal body”.
 CN PLACEHOLDER
 Этот утраченный третий глаз называется 'шишковидной железой'.
 
@@ -2836,7 +2836,7 @@ CN PLACEHOLDER
 Она всегда функционирует в мозгу и отвечает за выработку гормонов, что позволяют поддерживать наш суточный, 24-часовой ритм.
 
 俗に言う『体内時計』とは、この松果体あっての能力なのである。%K%O
-What we called our 「internal clocks」 existed because of the pineal body.
+What we called our “internal clocks” existed because of the pineal body.
 CN PLACEHOLDER
 То, что мы называем внутренними часами, существует благодаря этой шишковидной железе.
 
@@ -3041,17 +3041,17 @@ CN PLACEHOLDER
 Сара оказалась права. Электричество вырубилось в тот момент, когда аварийный клапан открылся из-за падения давления воздуха.
 
 『水蒸気の圧力が過剰に増加した場合、バルブが自動的に開いてガス抜きを行い、破裂損傷を防止する』%K%P
-「When pressure from the steam becomes excessive, the valve automatically opens to release the gas and prevent damage.」
+“When pressure from the steam becomes excessive, the valve automatically opens to release the gas and prevent damage.”
 CN PLACEHOLDER
 'Когда давление в паровой трубе становится избыточным, вентиль автоматически открывается, чтобы выпустить газ и предотвратить повреждение.'
 
 『通常は、余分な蒸気を排出した後、バルブは自然に閉じるような仕組みになっているのだが……何しろ、外は１気圧だ』%K%P
-「Normally, after a release of surplus gas, the valve is designed to shut naturally... but we're only at one atmosphere.」
+“Normally, after a release of surplus gas, the valve is designed to shut naturally... but we're only at one atmosphere.”
 CN PLACEHOLDER
 'Обычно, после высвобождения избыточного газа, вентиль сразу должен закрываться...но, сейчас здесь 1 атмосфера, поэтому...'
 
 『安全バルブは閉鎖されずに、いつまで経っても蒸気が漏れ続けた』%K%P
-「Because the safety valve never closed, the steam continued leaking.」
+“Because the safety valve never closed, the steam continued leaking.”
 CN PLACEHOLDER
 'Аварийный вентиль так и не закрылся, а утечка пара продолжалась.'
 

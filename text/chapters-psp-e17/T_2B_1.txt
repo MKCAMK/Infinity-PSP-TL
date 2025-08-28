@@ -109,7 +109,7 @@ CN PLACEHOLDER
 Чем бы это ни было, Цугуми спрятала вещицу в карман.
 
 『教えるつもりはない』という意思表示なのかもしれない。%K%P
-I thought it might be her way of saying 「I'm not going to tell」.
+I thought it might be her way of saying “I'm not going to tell”.
 CN PLACEHOLDER
 Наверно, это её манера ответа: 'Не скажу'.
 
@@ -559,17 +559,17 @@ CN PLACEHOLDER
 И незамедлительно после этого...
 
 ――カパンッカパンッカパンッ！%K%P
-―Shake, shake, shake!
+—Shake, shake, shake!
 CN PLACEHOLDER
 - Фшик, фшик, фшик!
 
 ――バッシャーンッ！%K%P
-―Splish, splash!
+—Splish, splash!
 CN PLACEHOLDER
 - Плюх, плюмс!
 
 ――シャカシャカシャカシャカシャカッ！%K%P
-―Slosh, slosh, slosh, slosh, slosh!
+—Slosh, slosh, slosh, slosh, slosh!
 CN PLACEHOLDER
 - Шварк, шварк!
 
@@ -1044,17 +1044,17 @@ CN PLACEHOLDER
 Цугуми оказалась права. Электричество вырубилось в тот момент, когда аварийный клапан открылся из-за падения давления воздуха.
 
 『水蒸気の圧力が過剰に増加した場合、バルブが自動的に開いてガス抜きを行い、破裂損傷を防止する』%K%P
-「When pressure from the steam becomes excessive, the valve automatically opens to release the gas and prevent damage.」
+“When pressure from the steam becomes excessive, the valve automatically opens to release the gas and prevent damage.”
 CN PLACEHOLDER
 'Когда давление в паровой трубе становится избыточным, вентиль автоматически открывается, чтобы выпустить газ и предотвратить повреждение.'
 
 『通常は、余分な蒸気を排出した後、バルブは自然に閉じるような仕組みになっているのだが……何しろ、室内は１気圧だ』%K%P
-「Normally, after a release of surplus gas, the valve is designed to shut automatically... but we're at one atmosphere, so...」
+“Normally, after a release of surplus gas, the valve is designed to shut automatically... but we're at one atmosphere, so...”
 CN PLACEHOLDER
 'Обычно, после высвобождения избыточного газа, вентиль сразу должен закрыться...но, сейчас здесь 1 атмосфера, поэтому...'
 
 『安全バルブは閉鎖されずに、いつまで経っても蒸気が漏れ続けた』%K%P
-「Because the safety valve never closed, the steam continued leaking.」
+“Because the safety valve never closed, the steam continued leaking.”
 CN PLACEHOLDER
 'Аварийный вентиль так и не закрылся, а утечка пара продолжалась.'
 
@@ -1144,7 +1144,7 @@ CN PLACEHOLDER
 20...19...18...17
 
 ――ぽちっ。%K%P
-―Click.
+—Click.
 CN PLACEHOLDER
 Щёлк.
 
@@ -1524,7 +1524,7 @@ CN PLACEHOLDER
 Не трогай меня!
 
 ――パシンッ！%K%P
-―Whack!
+—Whack!
 CN PLACEHOLDER
 Шмяк!
 
@@ -1609,7 +1609,7 @@ CN PLACEHOLDER
 Похоже на то.
 
 武「『そうみたいね』――じゃないだろーが！」%K%P
-No, it doesn't 'look like it'―she did!
+No, it doesn't 'look like it'—she did!
 CN PLACEHOLDER
 Да нет, не 'похоже' - так оно и есть!
 

@@ -4,7 +4,7 @@ CN PLACEHOLDER
 Поскольку я был увлечён беседой с Сорой, то не заметил, как пропустил назначенное время встречи.
 
 ぼくは制御室を出て、待ち合わせ場所――警備室の前へと向かった。%K%P
-I left the control room and headed toward the meeting point―in front of the security office.
+I left the control room and headed toward the meeting point—in front of the security office.
 CN PLACEHOLDER
 Я выбежал из Центра Управления по направлению к точке сбора - Офису Охраны.
 
@@ -214,7 +214,7 @@ CN PLACEHOLDER
 Офис Охраны
 
 ――メリーゴーランド。%K%P
-―The merry-go-round.
+—The merry-go-round.
 CN PLACEHOLDER
 Карусель.
 
@@ -794,7 +794,7 @@ CN PLACEHOLDER
 Моя мама считает, что папа давным-давно умер...
 
 『死』という言葉が、胸にズシンと響く。%K%P
-The word 「dead」 had a heavy ring to it.
+The word “dead” had a heavy ring to it.
 CN PLACEHOLDER
 Слово 'умер' камнем сдавило моё сердце, я готов заплакать.
 
@@ -839,7 +839,7 @@ CN PLACEHOLDER
 Я не знаю, что сказать.
 
 『そうだよ！　きっとどこかで生きてるよ！』――優はぼくの励ましを、待っているのかもしれない。%K%P
-She might have been waiting for me say something like 「You're right! He's probably alive somewhere!」
+She might have been waiting for me say something like “You're right! He's probably alive somewhere!”
 CN PLACEHOLDER
 Может она ждёт от меня ответа вроде 'Ты права! Скорее всего он действительно жив!'...
 
@@ -859,7 +859,7 @@ CN PLACEHOLDER
 Наконец...мы договорились встретиться чуток попозже в Комнате Переговоров и разделились.
 
 ――クラゲゴンドラ。%K%P
-―The Jellyfish Gondola.
+—The Jellyfish Gondola.
 CN PLACEHOLDER
 Затем я пришёл к гондоле Медузе.
 
@@ -1386,9 +1386,9 @@ CN PLACEHOLDER
 Интеллижент Хирн Систем' 
 
 と言います」%K%P
-...That is its name.」
+...That is its name.”
 CN PLACEHOLDER
-...」
+...»
 
 少年「……………………は、はいっ？　も、もう１回、いい？」%K%P
 Uh... what was that? Can you give it to me one more time?
@@ -1407,9 +1407,9 @@ CN PLACEHOLDER
 Интеллижент Хирн Систем' 
 
 ……です」%K%P
-...That is its name.」
+...That is its name.”
 CN PLACEHOLDER
-...」
+...»
 
 少年「それ、何語？」%K%P
 What language is that?
@@ -1437,9 +1437,9 @@ CN PLACEHOLDER
 Лейблих Медицин, является 
 
 製薬会社の名前を表しています」%K%P
-the name of a pharmaceutical company.」
+the name of a pharmaceutical company.”
 CN PLACEHOLDER
-названием фармацевтической компании.」
+названием фармацевтической компании.»
 
 空「その後は『多重並列処理による人工知能システム』……と言った感じの意味合いです」%K%P
 The bit after that means something along the lines of 'parallel processing artificial intelligence system'.
@@ -1782,7 +1782,7 @@ CN PLACEHOLDER
 Но Сора будто в рот воды набрала.
 
 『後は、自分で考えろ』……そういうことなのだろうか？%K%P
-...I guessed she was trying to say, 「Figure the rest out yourself.」
+...I guessed she was trying to say, “Figure the rest out yourself.”
 CN PLACEHOLDER
 ...Наверно, пытается сказать нечто вроде 'об остальном догадайся сам'.
 
@@ -1807,9 +1807,9 @@ CN PLACEHOLDER
 Эта причина и внутренний электрогенератор... что их объединяет...?
 
 自家発電装置――熱水噴出孔――次にぼくの頭に浮かんだ単語は……。%K%p
-Power generation―thermal seafloor vents―the first thing that popped into my head was...
+Power generation—thermal seafloor vents—the first thing that popped into my head was...
 CN PLACEHOLDER
-Электрогенератор ― термальные источники ― первое, что мне пришло в голову...
+Электрогенератор — термальные источники — первое, что мне пришло в голову...
 
 温泉
 Hot springs
@@ -1892,7 +1892,7 @@ CN PLACEHOLDER
 Вот почему Лейблих Фармасьютикалс изучали их на дне океана...
 
 『ヒンメル』――『ＩＢＦ』――『高圧酸素治療装置』――。%K%P
-「Himmel」―「IBF」―「High-pressure oxygen treatment device」―
+“Himmel”—“IBF”—“High-pressure oxygen treatment device”—
 CN PLACEHOLDER
 'ХИММЕЛ' - 'IBF' - 'Устройство кислородного лечения высокого давления'
 

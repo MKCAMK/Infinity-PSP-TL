@@ -14,7 +14,7 @@ CN PLACEHOLDER
 Несмотря на то, что всё обошлось, я никак не могу успокоиться.
 
 昨日の発電室の一件といい、今回といい、一体ぼくはどうしてしまったのだろうか？%K%P
-Yesterday―in the generator room―and then that... I wondered what was wrong with me.
+Yesterday—in the generator room—and then that... I wondered what was wrong with me.
 CN PLACEHOLDER
 Вчера в Генераторной, а теперь вот сегодня. Что со мной не так?
 
@@ -289,7 +289,7 @@ CN PLACEHOLDER
 %N%N%N%N
 
 %LC%FSごめんなさいごめんなさい%Nごめんなさいごめんなさい%FE%V%O
-I'm sorry, I'm sorry―%NI'm sorry, I'm sorry, I'm sorry―
+I'm sorry, I'm sorry—%NI'm sorry, I'm sorry, I'm sorry—
 CN PLACEHOLDER
 Прости...Прости...Прости...Прости...
 
@@ -575,7 +575,7 @@ CN PLACEHOLDER
 Я схватил стул и со всей дури бросил его в луну.
 
 ――バチバチバチ！%K%P
-―Crash!
+—Crash!
 CN PLACEHOLDER
 Трряк!
 

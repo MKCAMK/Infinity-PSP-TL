@@ -69,9 +69,9 @@ CN PLACEHOLDER
 Я слышу что-то едва различимое.
 
 人生で、最初に記憶したその音は――%K%P
-The first sound I had heard in my life―
+The first sound I had heard in my life—
 CN PLACEHOLDER
-Первый звук, что я слышал в своей жизни ―
+Первый звук, что я слышал в своей жизни —
 
 そう、鼓動の音だ。%K%P
 Yes, it was the sound of a heart beating.
@@ -936,7 +936,7 @@ CN PLACEHOLDER
 武「つまり、それは――」%K%P
 It is...
 CN PLACEHOLDER
-Это ―
+Это —
 
 武「つぐみだ！！」%K%P
 You!
@@ -1344,7 +1344,7 @@ CN PLACEHOLDER
 Я взглянул в сторону неба, которого не вижу.
 
 そこに何があるかは知らない。%K%P
-I didn't know if there was 「something above」.
+I didn't know if there was “something above”.
 CN PLACEHOLDER
 Я не знаю, есть ли 'что-то над нами'.
 
@@ -1376,7 +1376,7 @@ CN PLACEHOLDER
 武「その『現実』を――」%K%P
 Until you can stare...
 CN PLACEHOLDER
-Пока ты можешь смотреть ―
+Пока ты можешь смотреть —
 
 武「きちんと見極められるときが来るまで、待てってことだよ」%K%P
 ...Really STARE reality in the face, I think you should wait.
@@ -1861,7 +1861,7 @@ CN PLACEHOLDER
 ドオオォォォン！！%K%P
 BOOOooom!
 CN PLACEHOLDER
-― Буууууууммм!!!
+— Буууууууммм!!!
 
 激しく突き飛ばされたかと思うほどに、唐突に部屋全体が振動する。%K%P
 With a roaring sound, the whole room suddenly shook violently, and my body vibrated.
@@ -1874,9 +1874,9 @@ CN PLACEHOLDER
 Пять минут
 
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
-vor der Implosion.>」
+vor der Implosion.>”
 CN PLACEHOLDER
-до затопления.」
+до затопления.»
 
 武「おい、なんだ今のアナウンス」%K%P
 Hey, WHAT did that announcement just say!?
@@ -1999,9 +1999,9 @@ CN PLACEHOLDER
 Четыре минуты
 
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
-vor der Implosion.>」
+vor der Implosion.>”
 CN PLACEHOLDER
-до затопления.」
+до затопления.»
 
 ＩＢＦ全体を揺るがす地響きは止まない。%K%P
 The shaking and rumbling of IBF continued.
@@ -2049,9 +2049,9 @@ CN PLACEHOLDER
 Мы миновали дверь на конце коридора, что всё это время была открыта настежь.
 
 その、こぼれそうなプールの水面の上で――%K%P
-And on top of the pool, which looked like it was threatening to overflow at any moment―
+And on top of the pool, which looked like it was threatening to overflow at any moment—
 CN PLACEHOLDER
-И, посреди бассейна, что, кажется, перельётся через край в любую секунду ―
+И, посреди бассейна, что, кажется, перельётся через край в любую секунду —
 
 小型潜水艇は、ちゃんと待機していた。%K%P
 Our minisub was waiting for us.
@@ -2134,9 +2134,9 @@ CN PLACEHOLDER
 Три минуты
 
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
-vor der Implosion.>」
+vor der Implosion.>”
 CN PLACEHOLDER
-до затопления.」
+до затопления.»
 
 圧潰３分前。%K%P
 Three minutes until implosion.
@@ -2429,14 +2429,14 @@ CN PLACEHOLDER
 Единственное, что ещё работает - аналоговый датчик давления.
 
 現在の水深――６３ｍ。%K%P
-Depth―63 meters.
+Depth—63 meters.
 CN PLACEHOLDER
-Глубина ― 63 метра.
+Глубина — 63 метра.
 
 内部気圧――１２．５気圧。%K%P
-Internal pressure―12.5 atmospheres.
+Internal pressure—12.5 atmospheres.
 CN PLACEHOLDER
-Внутреннее давление ― 12.5 атмосфер.
+Внутреннее давление — 12.5 атмосфер.
 
 この潜水艇は、飽和潜水仕様だった。%K%P
 The submarine was set to saturation diving specifications.
@@ -2464,9 +2464,9 @@ CN PLACEHOLDER
 Не делай вид, будто хочешь заплакать.
 
 水深――６４ｍ。%K%P
-Depth―64 meters.
+Depth—64 meters.
 CN PLACEHOLDER
-Глубина ― 64 метра.
+Глубина — 64 метра.
 
 浮上の為の推力を失って……%K%P
 We had lost our upward momentum...
@@ -2509,9 +2509,9 @@ CN PLACEHOLDER
 .........
 
 水深――６５ｍ。%K%P
-Depth―65 meters.
+Depth—65 meters.
 CN PLACEHOLDER
-Глубина ― 65 метров.
+Глубина — 65 метров.
 
 俺は潜水艇後方のハッチを見た。%K%P
 I looked at the aft hatch.
@@ -2574,9 +2574,9 @@ CN PLACEHOLDER
 Балласта...?
 
 水深――６６ｍ。%K%P
-Depth―66 meters.
+Depth—66 meters.
 CN PLACEHOLDER
-Глубина ― 66 метров.
+Глубина — 66 метров.
 
 つぐみ「本来なら、バラストのバルブは電動制御される」%K%P
 The valve used to release ballast is usually electronically controlled.
@@ -2644,9 +2644,9 @@ CN PLACEHOLDER
 Мы влипли...
 
 水深――６７ｍ。%K%P
-Depth―67 meters.
+Depth—67 meters.
 CN PLACEHOLDER
-Глубина ― 67 метров.
+Глубина — 67 метров.
 
 沈んでいく。%K%P
 Sinking...
@@ -2729,9 +2729,9 @@ CN PLACEHOLDER
 Неужели не ясно?
 
 水深――６８ｍ。%K%P
-Depth―68 meters.
+Depth—68 meters.
 CN PLACEHOLDER
-Глубина ― 68 метров.
+Глубина — 68 метров.
 
 つぐみ「やめてよ！！」%K%P
 Stop it!
@@ -2794,9 +2794,9 @@ CN PLACEHOLDER
 .........
 
 水深――６９ｍ。%K%P
-Depth―69 meters.
+Depth—69 meters.
 CN PLACEHOLDER
-Глубина ― 69 метров.
+Глубина — 69 метров.
 
 ゆっくり、ゆっくりと、しかし、確実に。%K%P
 Slowly, slowly, but steadily...
@@ -2884,9 +2884,9 @@ CN PLACEHOLDER
 Как только люк закрылся, я задёрнул засов.
 
 水深――７０ｍ。%K%P
-Depth―70 meters.
+Depth—70 meters.
 CN PLACEHOLDER
-Глубина ― 70 метров.
+Глубина — 70 метров.
 
 つぐみは、呆然と……%K%P
 Tsugumi was stunned...
@@ -2959,9 +2959,9 @@ CN PLACEHOLDER
 С каждым ударом, стекло скрипит.
 
 水深――７１ｍ。%K%P
-Depth―71 meters.
+Depth—71 meters.
 CN PLACEHOLDER
-Глубина ― 71 метр.
+Глубина — 71 метр.
 
 武「あれぇ、ひょっとしてお前……」%K%P
 Hey, wait a second, didn't you...
@@ -3006,7 +3006,7 @@ CN PLACEHOLDER
 武「ああ、俺はバカだ。大バカだとも！」%K%P
 Yeah, I'm an idiot. The biggest one there is!
 CN PLACEHOLDER
-Да, я придурок ― каких свет не видывал!
+Да, я придурок — каких свет не видывал!
 
 武「そんなことも知らなかったのか？　つぐみ……」%K%P
 You didn't know that? Tsugumi...
@@ -3014,9 +3014,9 @@ CN PLACEHOLDER
 А ты не знала? Цугуми...
 
 水深――７２ｍ。%K%P
-Depth―72 meters.
+Depth—72 meters.
 CN PLACEHOLDER
-Глубина ― 72 метра.
+Глубина — 72 метра.
 
 いくら彼女が拳で叩いても、ガラスは割れない。%K%P
 No matter how hard she pounded on the glass, it didn't break.
@@ -3109,9 +3109,9 @@ CN PLACEHOLDER
 Но не настолько.
 
 水深――７３ｍ。%K%P
-Depth―73 meters.
+Depth—73 meters.
 CN PLACEHOLDER
-Глубина ― 73 метра.
+Глубина — 73 метра.
 
 ハンドルを廻す、背中の手を休めない。%K%P
 I kept turning the handle with my other hand.
@@ -3194,9 +3194,9 @@ CN PLACEHOLDER
 Я не умру.
 
 ――７４ｍ。%K%P
-―74 meters.
+—74 meters.
 CN PLACEHOLDER
-― 74 метра.
+— 74 метра.
 
 船底のハッチは開かれた。%K%P
 The hatch on the bottom of the submarine opened.
@@ -3244,9 +3244,9 @@ CN PLACEHOLDER
 Её образ преломляется через воду.
 
 ――７５ｍ。%K%P
-―75 meters.
+—75 meters.
 CN PLACEHOLDER
-―75 метров.
+—75 метров.
 
 潜水艇の枠につかまり、身体を支える。%K%P
 I grabbed onto a rail on the outside of the submarine and steadied myself.
@@ -3269,9 +3269,9 @@ CN PLACEHOLDER
 И не увижу её больше никогда.
 
 ――７６ｍ。%K%P
-―76 meters.
+—76 meters.
 CN PLACEHOLDER
-―76 метров.
+—76 метров.
 
 最後の支えを、俺は手放す。%K%P
 I let go of my last source of support.
@@ -3294,9 +3294,9 @@ CN PLACEHOLDER
 В чёрный как смоль океан, наполненный мерцающими осколками света.
 
 ――７７ｍ。%K%P
-―77 meters.
+—77 meters.
 CN PLACEHOLDER
-―77 метров.
+—77 метров.
 
 意識は浮遊する。%K%P
 My consciousness was floating.
@@ -3349,17 +3349,17 @@ CN PLACEHOLDER
 Я медленно закрыл глаза.
 
 そのとき、俺はここにいることを初めて知った。%K%P
-That was when I realized for the first time that I was 「there」.
+That was when I realized for the first time that I was “there”.
 CN PLACEHOLDER
 И впервые, за всё это время понял, что я здесь.
 
 俺はここにいる。%K%P
-「I'm here.」
+“I'm here.”
 CN PLACEHOLDER
 Я здесь.
 
 ここに、いる。%K%P
-「I am here.」
+“I am here.”
 CN PLACEHOLDER
 Я здесь.
 

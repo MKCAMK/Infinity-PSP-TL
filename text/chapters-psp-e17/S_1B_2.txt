@@ -4,7 +4,7 @@ CN PLACEHOLDER
 Прошёл почти час с того момента, как Цугуми вышла из комнаты.
 
 空は『事態の打開策について検討してみます』と言って、制御室に戻った。%K%P
-Sora had said that she was going to try to 「think of a plan」 and went back to the control room.
+Sora had said that she was going to try to “think of a plan” and went back to the control room.
 CN PLACEHOLDER
 Сора сказала, что хочет 'пораскинуть мозгами' и вернулась в Центр Управления.
 
@@ -159,17 +159,17 @@ CN PLACEHOLDER
 К несчастью, есть ещё одна вещь, которую я не могу понять.
 
 いつの間にか、みんながぼくのことを『少年』と呼んでいる。%K%P
-Somewhere along the line, everyone had taken to calling me 「Kid」.
+Somewhere along the line, everyone had taken to calling me “Kid”.
 CN PLACEHOLDER
 С каких это пор окружающие стали звать меня 'Кид'...?
 
 あんな適当な成り行きで決めちゃった呼び方――『少年』――が、今のぼくの名前だった。%K%P
-That random decision-making process to find a consensus on my name had ended up with me being called 「Kid」.
+That random decision-making process to find a consensus on my name had ended up with me being called “Kid”.
 CN PLACEHOLDER
 Вспомнил... Бестолковое состязание 'Обзови как можешь' в конечном итоге и привело к тому, что теперь меня зовут 'Кид'.
 
 まあ『ポリフェノール・三郎』よりは、いくらかマシだけど……。%K%P
-Well, it was better than 「John Mitochondria」 anyway.
+Well, it was better than “John Mitochondria” anyway.
 CN PLACEHOLDER
 Ну, всё же это лучше, чем 'Вася Митохондрия'.
 
@@ -299,7 +299,7 @@ CN PLACEHOLDER
 И тут я заметил нечто странное.
 
 モニターの片隅に『生体反応：７』という表示が小さく浮かんでいる。%K%P
-In a corner of the monitor 「Life readings: 7」 was displayed in small letters.
+In a corner of the monitor “Life readings: 7” was displayed in small letters.
 CN PLACEHOLDER
 В углу монитора светится единственная надпись - 'Живые существа: 7'.
 
@@ -329,7 +329,7 @@ CN PLACEHOLDER
 Я указал на угол монитора.
 
 『生体反応：７』%K%P
-「Life readings: 7」
+“Life readings: 7”
 CN PLACEHOLDER
 'Живые существа: 7'
 
@@ -374,17 +374,17 @@ CN PLACEHOLDER
 И тут...
 
 『生体反応：５』%T030%N
-「Life readings: 5」
+“Life readings: 5”
 CN PLACEHOLDER
 'Живые существа: 5'
 
 『生体反応：７』%T030%N
-「Life readings: 7」
+“Life readings: 7”
 CN PLACEHOLDER
 'Живые существа: 7'
 
 『生体反応：６』%K%P
-「Life readings: 6」
+“Life readings: 6”
 CN PLACEHOLDER
 'Живые существа: 6'
 
@@ -424,7 +424,7 @@ CN PLACEHOLDER
 Номер меняется каждую пару секунд.
 
 『６』を基準にして、プラスマイナス『１』の増減……。%K%P
-And always the number 「six」 plus or minus one.
+And always the number “six” plus or minus one.
 CN PLACEHOLDER
 Но, несмотря на постоянные скачки, новых цифр не появляется.
 
@@ -489,12 +489,12 @@ CN PLACEHOLDER
 И наконец...
 
 数字は『６』を示し、完全に沈黙した。%K%P
-It stopped on the number 「six」.
+It stopped on the number “six”.
 CN PLACEHOLDER
 Он остановился на номере '6'.
 
 『生体反応：６』%K%P
-「Life readings: 6」
+“Life readings: 6”
 CN PLACEHOLDER
 'Живые существа: 6'
 
@@ -549,7 +549,7 @@ CN PLACEHOLDER
 Это так, но...
 
 『６』――『生体反応：６』%K%P
-「Life readings: 6」
+“Life readings: 6”
 CN PLACEHOLDER
 'Живые существа: 6
 
@@ -559,12 +559,12 @@ CN PLACEHOLDER
 А точное количество людей, застрявших здесь, равно...
 
 『６』
-「6」
+“6”
 CN PLACEHOLDER
 '6'
 
 『５』
-「5」
+“5”
 CN PLACEHOLDER
 '5'
 
@@ -584,7 +584,7 @@ CN PLACEHOLDER
 Не важно, сколько бы раз я не проверял, номер остаётся неизменным.
 
 やっぱり優が言ったように、センサーが誤作動を起こしただけだったんだ、きっと。%K%P
-It was probably like You said―the sensor was just malfunctioning.
+It was probably like You said—the sensor was just malfunctioning.
 CN PLACEHOLDER
 Может всё действительно так, как сказала Ю - сенсор просто барахлит.
 
@@ -1779,7 +1779,7 @@ CN PLACEHOLDER
 Но...
 
 つぐみ「茜ヶ崎空――あなたになら、できることでしょ？」%K%P
-Akanegasaki Sora―You could do it, right?
+Akanegasaki Sora—You could do it, right?
 CN PLACEHOLDER
 Но Сора - она могла это сделать.
 
@@ -2394,7 +2394,7 @@ CN PLACEHOLDER
 А Сора решила внятно и доходчиво рассказать про LeMU, о котором я не знаю практически ничего.
 
 空「ドリットの外には、約５気圧の水圧＋大気圧１気圧で、合計約６気圧の海水が満ちていることになります」%K%P
-Outside of Dritter is a total of six atmospheres of pressure―five atmospheres water pressure and one atmosphere air pressure.
+Outside of Dritter is a total of six atmospheres of pressure—five atmospheres water pressure and one atmosphere air pressure.
 CN PLACEHOLDER
 Снаружи давление составляет 6 атмосфер, 5 из которых - воды, а 1 - воздуха.
 

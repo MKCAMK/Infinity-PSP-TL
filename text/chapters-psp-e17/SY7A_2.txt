@@ -596,7 +596,7 @@ CN PLACEHOLDER
 少年「ここで、ツヴァイトシュトック第８区画の水没エリア……の、亀裂や損傷のない部屋……の、水密扉をいっせいに開く……と、どうなるか？」%K%P
 Given that those areas don't have cracks or damage, what will happen if we simultaneously open all the watertight doors in the submerged area in Sector Eight of Zweiter Stock?
 CN PLACEHOLDER
-Что произойдёт, если мы одновременно откроем все водоупорные двери в этой затопленной зоне Сектора 8 на Цвайте шток...」%K%PКид「...если комната, в которой мы находимся, не имеет ни трещин, ни повреждений...?
+Что произойдёт, если мы одновременно откроем все водоупорные двери в этой затопленной зоне Сектора 8 на Цвайте шток...»%K%PКид«...если комната, в которой мы находимся, не имеет ни трещин, ни повреждений...?
 
 優「大量の水が、Ｃ通路に流れ込む？」%K%P
 An enormous amount of water is going to flow into Corridor C?
@@ -984,7 +984,7 @@ CN PLACEHOLDER
 Мы вместе ухватились за засов.
 
 ――その時だった！%K%P
-―It was then that it happened!
+—It was then that it happened!
 CN PLACEHOLDER
 И тут...!
 
@@ -1286,12 +1286,12 @@ CN PLACEHOLDER
 少年「ココーッ！」%K%P
 Coco!
 CN PLACEHOLDER
-Коко ―!
+Коко —!
 
 ブシューーーーーッ！%K%P
 Ssssssss!
 CN PLACEHOLDER
-Фффффшшш ―!
+Фффффшшш —!
 
 通路の壁面から、水が猛烈な勢いで噴出を始める。%K%P
 From the surface of the walls, water began to gush in.
@@ -1331,7 +1331,7 @@ CN PLACEHOLDER
 少年「ひらけよぉーーーーーーーーっ！！！！」%K%P
 Open uuuuuup!
 CN PLACEHOLDER
-Открывайся ―――――!!
+Открывайся —————!!
 
 優「ねえっ、お願いだから、しっかりしてよ！」%K%P
 Listen, Kid, you've got to snap out of it!

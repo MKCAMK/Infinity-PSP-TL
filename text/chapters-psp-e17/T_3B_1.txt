@@ -24,12 +24,12 @@ CN PLACEHOLDER
 Пока мы нарезали круги, я произнёс...
 
 『タツタサンド売店以外のまともな食い物を探そう！』とか、%K%P
-「Let's find something decent to eat―no more of those tuna sandwiches from the kiosk!」
+“Let's find something decent to eat—no more of those tuna sandwiches from the kiosk!”
 CN PLACEHOLDER
 'Давайте что ли поищем нормальную еду - от этих бутербродов с курятиной мы вот-вот сами скоро закукарекаем!'
 
 『浮力の足りないＥＩには果たして何人乗れるのか？』とか、%K%P
-And 「How many people can really ride on an Ei that doesn't have enough buoyancy?」
+And “How many people can really ride on an Ei that doesn't have enough buoyancy?”
 CN PLACEHOLDER
 ...а потом - 'Интересно, а сколько человек могут проехаться на EI, не ладящим с силой выталкивания?'
 
@@ -119,7 +119,7 @@ CN PLACEHOLDER
 А вы двое? Чем ты и Кид сейчас заняты?
 
 優は、例のスキャナー『Ｌ−ＭＲＩ』のところに、何やら工具や部品を広げている最中だった。%K%P
-It looked like she was in the middle of spreading out tools and parts next to the 「L-MRI」 scanner.
+It looked like she was in the middle of spreading out tools and parts next to the “L-MRI” scanner.
 CN PLACEHOLDER
 На первый взгляд, она вроде бы раскладывает инструменты и запчасти у сканера 'Л-МРИ'.
 
@@ -941,7 +941,7 @@ CN PLACEHOLDER
 だとすると――%K%P
 In which case...
 CN PLACEHOLDER
-В таком случае ―
+В таком случае —
 
 武「なんだ、バカバカしい」%K%P
 This is stupid.

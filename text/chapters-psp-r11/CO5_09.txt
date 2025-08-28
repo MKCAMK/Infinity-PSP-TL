@@ -329,7 +329,7 @@ At this rate, I'll be left behind.
 RU PLACEHOLDER
 
 私は――%K%p
-I――
+I——
 我——
 RU PLACEHOLDER
 
@@ -704,7 +704,7 @@ Even through my gloves, I can feel his strength weakening.
 RU PLACEHOLDER
 
 それでも――%K%P
-Despite that――
+Despite that——
 即使如此——
 RU PLACEHOLDER
 
@@ -849,7 +849,7 @@ If I continue to support him like this for a while, I might be the one to fall i
 RU PLACEHOLDER
 
 それでも――%K%P
-Even so――
+Even so——
 就算这样——
 RU PLACEHOLDER
 
@@ -994,7 +994,7 @@ Through my dimmed consciousness, even those words don't reach my ears, as if the
 RU PLACEHOLDER
 
 ただぼんやりと『墜落現場へ行けばなんとかなる』と言っていた黄泉木の言葉だけが繰り返し頭の中にこだましている。%K%P
-I can hear only Yomogi's hazy words, 「If we can reach the crash site, we'll be able to manage somehow!」 over and over.
+I can hear only Yomogi's hazy words, “If we can reach the crash site, we'll be able to manage somehow!” over and over.
 只是在一片朦胧中，“去坠落地点会得救”，黄泉木的这句话在我的头脑中不断盘旋。
 RU PLACEHOLDER
 
@@ -1019,7 +1019,7 @@ When that willpower runs out, I'll die.
 RU PLACEHOLDER
 
 私は、足を踏み出すたびに『歩け、歩け』と呟き続けた。%K%P
-I continue to mutter 「walk, walk」 to myself with each step I take.
+I continue to mutter “walk, walk” to myself with each step I take.
 我每迈出一步都在对自己说“走下去、走下去”。
 RU PLACEHOLDER
 
@@ -1119,12 +1119,12 @@ The other me in my heart becomes angry at myself.
 RU PLACEHOLDER
 
 『なんでそんなにのんびりしてるの！』%K%P
-「Why are you so relaxed about this!?」
+“Why are you so relaxed about this!?”
 “为什么还在这里磨蹭！”
 RU PLACEHOLDER
 
 『ゆにを助けて！』%K%P
-「Hurry and save Yuni!」
+“Hurry and save Yuni!”
 “快救悠尼！”
 RU PLACEHOLDER
 
@@ -1299,27 +1299,27 @@ How about you...?
 RU PLACEHOLDER
 
 大を救うために、小を犠牲にする――%K%P
-In order to save the majority, you have to sacrifice the minority――
+In order to save the majority, you have to sacrifice the minority——
 牺牲小我——
 RU PLACEHOLDER
 
 それもまた、勇気なのかもしれない――%K%P
-That might be an act of courage in itself――
+That might be an act of courage in itself——
 那样做也许也需要一定的勇气——
 RU PLACEHOLDER
 
 でも――%K%N
-But――
+But——
 可是——
 RU PLACEHOLDER
 
 でも――%K%N
-But――
+But——
 可是——
 RU PLACEHOLDER
 
 私は――%K%p
-I――
+I——
 我——
 RU PLACEHOLDER
 
@@ -1389,7 +1389,7 @@ I'd only end up hating myself unbearably.
 RU PLACEHOLDER
 
 それに――%K%P
-And――
+And——
 更何况——
 RU PLACEHOLDER
 
@@ -1399,12 +1399,12 @@ Back then... While the plane was crashing... I swore to myself.
 RU PLACEHOLDER
 
 こころ「私が……ゆにを守るって――」%K%P
-That I'd... protect Yuni――
+That I'd... protect Yuni——
 心「我会……保护悠尼的──」
 RU PLACEHOLDER
 
 こころ「誓ったから――！」%K%P
-I swore it――!
+I swore it——!
 心「我发过誓了──！」
 RU PLACEHOLDER
 
@@ -1794,7 +1794,7 @@ I'm alone.
 RU PLACEHOLDER
 
 遭難――という言葉が脳裏に浮かび、パニックに陥る。%K%P
-Disaster――the word floats into my mind, and I fall into a panic.
+Disaster——the word floats into my mind, and I fall into a panic.
 遇难——这个单词在头脑中浮现，我惊恐不已。
 RU PLACEHOLDER
 
@@ -1884,7 +1884,7 @@ The black image of death erodes my consciousness.
 RU PLACEHOLDER
 
 『死ぬ……』『死ぬのはイヤ』『死んだ方がマシ』『生きたい』『苦しい』『助けて』『誰が？』『立て』『立てない』%K%P
-「I'll die...」 「I don't want to die.」 「It'd be better if I died.」 「I want to live.」 「It hurts.」 「Help me.」 「Anybody?」 「Stand.」 「Don't stand.」
+“I'll die...” “I don't want to die.” “It'd be better if I died.” “I want to live.” “It hurts.” “Help me.” “Anybody?” “Stand.” “Don't stand.”
 “死……”“不想死”“不如死了好”“想活下去”“痛苦”“救命”“有人吗？”“站起来”“站不起来了”
 RU PLACEHOLDER
 
@@ -1989,7 +1989,7 @@ Rather than moving around aimlessly, I'll have a better chance of survival if I 
 RU PLACEHOLDER
 
 黄泉木は私に『置いていく』と言っていた。%K%P
-Yomogi said that he was going to 「leave me behind」.
+Yomogi said that he was going to “leave me behind”.
 黄泉木跟我说“留下”。
 RU PLACEHOLDER
 
@@ -2209,17 +2209,17 @@ After considering it repeatedly, I nod.
 RU PLACEHOLDER
 
 ――行こう。%K%P
-――Let's go.
+——Let's go.
 ──走吧。
 RU PLACEHOLDER
 
 そこに希望があるのなら――%K%P
-If there's hope there――
+If there's hope there——
 如果那里有希望的话——
 RU PLACEHOLDER
 
 そこに生き残る術があるのなら――%K%P
-If there's a means to survive there――
+If there's a means to survive there——
 如果去那里能够活命的话——
 RU PLACEHOLDER
 
@@ -2439,12 +2439,12 @@ Although I don't know what's waiting for us at the crash site...
 RU PLACEHOLDER
 
 そこに希望があるのなら――%K%P
-If there's hope there――
+If there's hope there——
 但是如果那里有希望的话——
 RU PLACEHOLDER
 
 そこに生き残る術があるのなら――%K%P
-If there's a means to survive there――
+If there's a means to survive there——
 如果去那里能够活命的话——
 RU PLACEHOLDER
 
@@ -2656,7 +2656,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 RU PLACEHOLDER
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-――It is an infinity loop!
+——It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 RU PLACEHOLDER
 
@@ -2726,7 +2726,7 @@ However, I'm not in any position to be worrying about Yuni in the first place.
 RU PLACEHOLDER
 
 ぼんやりとした思考の中で、ただ『墜落現場へ行けばなんとかなる』という黄泉木の言葉だけが繰り返し聞こえている。%K%P
-In my hazy thoughts, I can hear only Yomogi's words, 「If we can reach the crash site, we'll be able to manage somehow!」 over and over.
+In my hazy thoughts, I can hear only Yomogi's words, “If we can reach the crash site, we'll be able to manage somehow!” over and over.
 只是在一片朦胧中，“去坠落地点会得救”，黄泉木的这句话在我的头脑中不断盘旋。
 RU PLACEHOLDER
 
@@ -2746,7 +2746,7 @@ When that willpower runs out, I'll die.
 RU PLACEHOLDER
 
 私は、足を踏み出すたびに『歩け、歩け』と呟き続けた。%K%P
-I continue to mutter 「walk, walk」 to myself with each step I take.
+I continue to mutter “walk, walk” to myself with each step I take.
 我每迈出一步都在对自己说“走下去、走下去”。
 RU PLACEHOLDER
 

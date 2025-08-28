@@ -621,7 +621,7 @@ CN PLACEHOLDER
 武「培養した体細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させる……」%K%P
 The nucleus is taken from an already-cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it's implanted into the mother's womb...
 CN PLACEHOLDER
-Ядро берётся из уже развитой соматической клетки, а затем внедряется в яйцеклетку, из которой удалили её изначальное ядро.」%K%PТакеши「Затем яйцеклетку имплантируют в матку будущей маме...
+Ядро берётся из уже развитой соматической клетки, а затем внедряется в яйцеклетку, из которой удалили её изначальное ядро.»%K%PТакеши«Затем яйцеклетку имплантируют в матку будущей маме...
 
 武「俺の友達の親戚にも、経験者がいるよ」%K%P
 One of my friend's relatives went through it.
@@ -769,9 +769,9 @@ CN PLACEHOLDER
 Я могу быть в любом месте, существовать везде.
 
 空「私は――遍在している」%K%P
-I am―omnipresent.
+I am—omnipresent.
 CN PLACEHOLDER
-Я ― вездесущая.
+Я — вездесущая.
 
 空「ええ、そうです……」%K%P
 Yes, that's right.

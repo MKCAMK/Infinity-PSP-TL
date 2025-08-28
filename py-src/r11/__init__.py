@@ -87,6 +87,10 @@ def clean_translation_enc_issues(line: str) -> str:
   # but now the main text is cleaned up to use em dash in JP and regular dash in EN.
   # It is still incorrectly used in init.bin JP text and some CN tips
   line = line.replace("\uff0d", "\u2015")
+
+  # russian quotation marks
+  line = line.replace("\u00ab", "\u300a")
+  line = line.replace("\u00bb", "\u300b")
   return line
 
 def clean_cn_translation_line(line: str) -> str:
@@ -108,12 +112,12 @@ def clean_en_translation_line(line: str) -> str:
 
 def clean_en_translation_line_r11(line: str) -> str:
   line = line.replace("\u2015\u2015", "\u2015") # double em dash '——' -> single em dash '—'
-  line = line.replace("'''I'''", "%CFFF0I%CFFFF") # ワタシ (watashi)
-  line = line.replace("'''me'''", "%CFFF0me%CFFFF") # ワタシ (watashi)
-  line = line.replace("''I''", "%CFFCFI%CFFFF") # ENOMOTO's "私" (watashi)
-  line = line.replace("''me''", "%CFFCFme%CFFFF") # ENOMOTO's "私" (watashi)
-  line = line.replace("'I'", "%C88FFI%CFFFF") # YUKIDOH's "俺" (ore)
-  line = line.replace("'me'", "%C88FFme%CFFFF") # YUKIDOH's "俺" (ore)
+  line = line.replace("'''I'''", "%CFFF0I%CFFFF") # ワタシ (katakana-watashi)
+  line = line.replace("'''me'''", "%CFFF0me%CFFFF") # ワタシ (katakana-watashi)
+  line = line.replace("''I''", "%CFFCFI%CFFFF") # ENOMOTO's "私" (kanji-watashi)
+  line = line.replace("''me''", "%CFFCFme%CFFFF") # ENOMOTO's "私" (kanji-watashi)
+  line = line.replace("'I'", "%C88FFI%CFFFF") # YUKIDOH's "俺" (kanji-ore)
+  line = line.replace("'me'", "%C88FFme%CFFFF") # YUKIDOH's "俺" (kanji-ore)
   return line
 
 def println_sjis(line: str):

@@ -1118,7 +1118,7 @@ CN PLACEHOLDER
 %N
 
 そう、間違いない、彼女の名前は『松永沙羅』だ。%K%N
-Yes. I was sure. Her name was 「Matsunaga Sara」.
+Yes. I was sure. Her name was “Matsunaga Sara”.
 CN PLACEHOLDER
 Да. Я уверен. Её зовут Мацунага Сара.
 
@@ -1638,7 +1638,7 @@ CN PLACEHOLDER
 Пока я смотрел на их обмен любезностями, боль в моей голове прекратилась.
 
 いや、別の意味で『痛い』やり取りではあったんだけど……。%K%P
-It was a 「painful」 exchange in a different meaning of the word, but...
+It was a “painful” exchange in a different meaning of the word, but...
 CN PLACEHOLDER
 Это была 'мучительная', в ином понимании этого слова, беседа, но...
 
@@ -1673,17 +1673,17 @@ CN PLACEHOLDER
 Пока мы шли, Ю рассказывала Саре последовательность произошедших событий.
 
 『優がＬｅＭＵでバイトしていること』%K%P
-「You was working at LeMU on a part-time basis.」
+“You was working at LeMU on a part-time basis.”
 CN PLACEHOLDER
 'Ю подрабатывала в LeMU.'
 
 『ぼくが売店で倒れたこと』%K%P
-「I collapsed at the kiosk.」
+“I collapsed at the kiosk.”
 CN PLACEHOLDER
 'Я свалился у киоска.'
 
 『警報が発令され、ＬｅＭＵの中から誰もいなくなり、浸水が始まったこと』%K%P
-「The warning alarm sounded, everyone disappeared from LeMU, and the flooding started.」
+“The warning alarm sounded, everyone disappeared from LeMU, and the flooding started.”
 CN PLACEHOLDER
 'Прозвучала сирена, все исчезли из LeMU и начался потоп.'
 
@@ -1883,7 +1883,7 @@ CN PLACEHOLDER
 Нет причин, по которым я бы могла его вспомнить.
 
 ――『あるわけない』？？？%K%P
-「No reason」?
+“No reason”?
 CN PLACEHOLDER
 Нет причин???
 
@@ -2245,17 +2245,17 @@ CN PLACEHOLDER
 Пока мы шли, Ю взяла Сару под руку и заставила ускорить шаг.
 
 『優がＬｅＭＵでバイトしていること』%K%P
-「You was working at LeMU on a part-time basis.」
+“You was working at LeMU on a part-time basis.”
 CN PLACEHOLDER
 Она рассказала, что работает в LeMU.
 
 『ぼくが売店で倒れたこと』%K%P
-「I collapsed at the kiosk.」
+“I collapsed at the kiosk.”
 CN PLACEHOLDER
 Как я свалился у киоска.
 
 『倒れたぼくを救護室に運び込んだこと』%K%P
-「After falling down, I was hauled to the infirmary.」
+“After falling down, I was hauled to the infirmary.”
 CN PLACEHOLDER
 Что после этого меня дотащили в лазарет.
 
@@ -2460,7 +2460,7 @@ CN PLACEHOLDER
 Небольшая дверь в конце узкого коридора.
 
 中央に『ＨＩＭＭＥＬ』というアルファベットの刻印がある。%K%P
-In the middle, the word 「HIMMEL」 was engraved.
+In the middle, the word “HIMMEL” was engraved.
 CN PLACEHOLDER
 На которой выгравировано слово 'ХИММЕЛ'.
 
@@ -2740,7 +2740,7 @@ CN PLACEHOLDER
 Но...
 
 ――ガシャンッ！%K%P
-―Crash!
+—Crash!
 CN PLACEHOLDER
 Бац!
 

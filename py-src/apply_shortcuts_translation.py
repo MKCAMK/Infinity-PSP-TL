@@ -62,8 +62,8 @@ def main():
       table_off = int(match.group(1), 16)
       max_len = int(match.group(2), 10)
 
-      if i < len(txt_lines)-1 and txt_lines[i+1]:
-        string = txt_lines[i+1]
+      if i < len(txt_lines)-1 and txt_lines[i+1] and txt_lines[i+1][0] != "#":
+        string = r11.clean_translation_enc_issues(txt_lines[i+1])
       else:
         string = match.group(3)
 

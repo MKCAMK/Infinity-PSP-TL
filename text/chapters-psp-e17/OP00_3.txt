@@ -369,7 +369,7 @@ CN PLACEHOLDER
 Взбешённый таким поворотом событий, Такеши ухватил тануки за плечо.
 
 武「おい、お客が困ってるのにその態度はないんじゃない……」%K%P
-Hey! Is that any way to treat a guest in nee―?!
+Hey! Is that any way to treat a guest in nee—?!
 CN PLACEHOLDER
 Эй! Разве так обращаются с посетителями, попавшими в затруднительное положение?!
 
@@ -404,14 +404,14 @@ CN PLACEHOLDER
 Стоит ли говорить, что Такеши никто никогда раньше не бил. Даже его родители такого себе не позволяли.
 
 奇襲だった。タヌキのローフックは彼のボディを的確に捉えていた。%K%P
-It had been a totally cheap shot―the tanuki had landed a solid uppercut.
+It had been a totally cheap shot—the tanuki had landed a solid uppercut.
 CN PLACEHOLDER
 Резкий и мощный удар - тануки оказался явно не робкого десятка.
 
 武「こ、こらぁ〜〜タヌキ〜〜っ！！　お、お前なぁ！！」%K%P
-D-Damn tanuki! Y-You little―!
+D-Damn tanuki! Y-You little—!
 CN PLACEHOLDER
-Э-Эй ――! Тануки ―! Да как ты ―――!
+Э-Эй ——! Тануки —! Да как ты ———!
 
 タヌキ「…………」%K%P
 ...
@@ -679,7 +679,7 @@ CN PLACEHOLDER
 (Ясно...)
 
 （あれはタヌキじゃなくて『みゅみゅーん』だったのか）%K%P
-(So that wasn't a tanuki. It was 「Myumyun」.)
+(So that wasn't a tanuki. It was “Myumyun”.)
 CN PLACEHOLDER
 (Значит это не тануки, это был 'Мюмюн'.)
 
@@ -809,9 +809,9 @@ CN PLACEHOLDER
 Потеряв ориентацию в пространстве, он сел в лифт и приехал из океанариума на второй подводный этаж.
 
 地下２階――ツヴァイトシュトック。%K%P
-Basement floor two―Zweiter Stock.
+Basement floor two—Zweiter Stock.
 CN PLACEHOLDER
-Второй подводный этаж ― Цвайте шток.
+Второй подводный этаж — Цвайте шток.
 
 （２階……？）%K%P
 (Wait, the second floor...?)
@@ -1229,14 +1229,14 @@ CN PLACEHOLDER
 Ещё недавно ему объяснили, что это не тануки, а Мюмюн или лисоподобная обезьяна, но, по вполне объективным причинам, ему сейчас не до имён.
 
 タヌキじゃなくてみゅみゅーんだ、とさっき聞いたばかりだが、彼の頭にはもうなかった。%K%P
-Though he had just been told that it was not, in-fact, a tanuki, but a 「Myumyun」 (whatever that was), that information had already left his mind.
+Though he had just been told that it was not, in-fact, a tanuki, but a “Myumyun” (whatever that was), that information had already left his mind.
 CN PLACEHOLDER
 Ещё недавно он слышал, что это не тануки, а Мюмюн или лисоподобная обезьяна, но, по вполне объективным причинам, ему сейчас не до имён.
 
 （名前は忘れたが――）%K%P
 (I forgot its name...)
 CN PLACEHOLDER
-(Я забыл имя этого ―)
+(Я забыл имя этого —)
 
 （とにかく、あれが俺を殴り逃げたヤツだ）%K%P
 (But it doesn't matter! That's the guy who slugged me and ran!)
@@ -1254,9 +1254,9 @@ CN PLACEHOLDER
 А лишь спросить, почему тот так подло с ним поступил.
 
 彼は音を立てずそろりそろりと、タヌキ――みゅみゅーんの着ぐるみに、接近して行った。%K%P
-Without making a sound, he slowly approached the tanuki―no, Myumyun.
+Without making a sound, he slowly approached the tanuki—no, Myumyun.
 CN PLACEHOLDER
-Не издавая ни единого звука, он подкрался к тануки ―%Nталисману ― Мюмюну.
+Не издавая ни единого звука, он подкрался к тануки —%Nталисману — Мюмюну.
 
 そして背後に忍び寄ると、すかさずその被り物を取った。%K%P
 And as soon as he got behind it, he quickly pulled the head of the costume right off.
@@ -1694,7 +1694,7 @@ CN PLACEHOLDER
 Он решил пройтись дальше по коридору.
 
 地下３階――ドリットシュトック、と言っていたか……。%K%P
-The third floor underground―they had called it Dritter Stock, or something...
+The third floor underground—they had called it Dritter Stock, or something...
 CN PLACEHOLDER
 Третий подводный этаж, они называют его Дритте шток...
 
@@ -1739,7 +1739,7 @@ CN PLACEHOLDER
 Взрослая девушка...
 
 （いや、『女の子』、だろうな）%K%P
-(Definitely still a 「girl」.)
+(Definitely still a “girl”.)
 CN PLACEHOLDER
 (Скорее, это молодая женщина.)
 
@@ -1939,9 +1939,9 @@ CN PLACEHOLDER
 Он почувствовал, что воздух вокруг него стремительно становится тяжелей.
 
 ――ガンッ！%K%P
-―Bang!
+—Bang!
 CN PLACEHOLDER
-―Бух!
+—Бух!
 
 強烈な衝撃とともに、エレベーターが止まった。%K%P
 Jolting violently, the elevator abruptly stopped.

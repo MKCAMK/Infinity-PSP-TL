@@ -9,7 +9,7 @@ CN PLACEHOLDER
 Что до Ю и Сары - они скорее всего прочёсывают наверху.
 
 ――憩いの間。%K%P
-―The rest area.
+—The rest area.
 CN PLACEHOLDER
 Мини-парк.
 
@@ -39,7 +39,7 @@ CN PLACEHOLDER
 Должно быть, компьютер ЛеММИХ, который упоминала Ю, автоматически его закрыл.
 
 ――タツタサンドの売店。%K%P
-―The tuna sandwich stand.
+—The tuna sandwich stand.
 CN PLACEHOLDER
 - Киоск с бутербродами из курятины.
 
@@ -79,7 +79,7 @@ CN PLACEHOLDER
 Я сглотнул и пошёл дальше.
 
 ――会議室。%K%P
-―The conference room.
+—The conference room.
 CN PLACEHOLDER
 Комната Переговоров.
 
@@ -99,7 +99,7 @@ CN PLACEHOLDER
 Похоже, что вход со ступеньками остановил воду.
 
 ――タツタサンドの売店。%K%P
-―The tuna sandwich stand.
+—The tuna sandwich stand.
 CN PLACEHOLDER
 Проклятый киоск с бутербродами.
 
@@ -109,7 +109,7 @@ CN PLACEHOLDER
 Аромат еды щекочет нос.
 
 ――制御室。%K%P
-―The control room.
+—The control room.
 CN PLACEHOLDER
 - Центр Управления.
 
@@ -129,7 +129,7 @@ CN PLACEHOLDER
 Я поставил стул на место, осмотрел помещение и удалился.
 
 ――タツタサンドの売店。%K%P
-―The tuna sandwich stand.
+—The tuna sandwich stand.
 CN PLACEHOLDER
 Киоск с бутербродами.
 
@@ -139,7 +139,7 @@ CN PLACEHOLDER
 Этот запах меня дразнит.
 
 ――レムリア遺跡。%K%P
-―The Lemurian Ruins.
+—The Lemurian Ruins.
 CN PLACEHOLDER
 Лемурийские Развалины.
 
@@ -154,7 +154,7 @@ CN PLACEHOLDER
 На всякий случай, я осмотрел темень каменных столбов и за строениями, но не обнаружил ничего, напоминающего проход.
 
 ――タツタサンドの売店。%K%P
-―The tuna sandwich stand.
+—The tuna sandwich stand.
 CN PLACEHOLDER
 - Киоск с бутербродами из курятины.
 
@@ -539,7 +539,7 @@ CN PLACEHOLDER
 Я ничего не могу поделать, кроме как смотреть в её потускневшие глаза.
 
 『ニンニン』と言って別れたときの表情は、少しも残っていない。%K%P
-There was nothing left of the 「ninja」 attitude that she had departed with.
+There was nothing left of the “ninja” attitude that she had departed with.
 CN PLACEHOLDER
 От весёлого 'ниндзя'-настроя не осталось и следа.
 
@@ -1264,7 +1264,7 @@ CN PLACEHOLDER
 Ты имеешь в виду своих коллег... или однокурсников Сары, или учителя...
 
 それを聞いて優は、『そのとおり』とばかりに大きく頷いた。%K%P
-You gave a big nod as if to say 「That's right.」
+You gave a big nod as if to say “That's right.”
 CN PLACEHOLDER
 Ю сделала большой кивок, словно говоря 'попал в самую точку'.
 
@@ -1389,7 +1389,7 @@ CN PLACEHOLDER
 Сора улыбнулась.
 
 『地上のゲート』って、何だろう？%K%P
-I wondered what the 「gate above ground」 was.
+I wondered what the “gate above ground” was.
 CN PLACEHOLDER
 Я не знаю, что это ещё за 'ворота наверху'.
 
@@ -2323,12 +2323,12 @@ CN PLACEHOLDER
 Блин, это катастрофа. Ладно, 'Кид' - он и в Африке 'Кид'.
 
 ――と、そのときだった！%K%P
-―Just then!
+—Just then!
 CN PLACEHOLDER
 ----И тут...
 
 ――ガンッ！%K%P
-―Crash!
+—Crash!
 CN PLACEHOLDER
 ----Бац!
 
@@ -2818,22 +2818,22 @@ CN PLACEHOLDER
 Затем она сказала следующее...
 
 『１２時４５分――突然、ＬｅＭＵ内が停電に見舞われた。原因は不明』%K%P
-「12:45 p.m.―LeMU was suddenly struck by a blackout. The cause is unclear.」
+“12:45 p.m.—LeMU was suddenly struck by a blackout. The cause is unclear.”
 CN PLACEHOLDER
 '12:45 после полудня - неожиданный сбой системы. Причина неизвестна.'
 
 『その直後、緊急避難警報が発令。……こちらも、原因はわからない』%K%P
-「Immediately after that, an emergency evacuation order was issued... The cause of this was unclear as well.」
+“Immediately after that, an emergency evacuation order was issued... The cause of this was unclear as well.”
 CN PLACEHOLDER
 'Затем был подан сигнал тревоги - причина также неизвестна.'
 
 『いずれにせよ、これをキッカケにして、ＬｅＭＵ内のすべての来場者、職員の避難が開始されることになった』%K%P
-「In any case, the evacuation of LeMU by visitors and employees was initiated at this point.」
+“In any case, the evacuation of LeMU by visitors and employees was initiated at this point.”
 CN PLACEHOLDER
 'Так или иначе, в этот момент началась спонтанная эвакуация посетителей и персонала LeMU.'
 
 『１２時５４分――緊急気密扉、開放』%K%P
-「12:54 p.m.―The emergency doors were activated.」
+“12:54 p.m.—The emergency doors were activated.”
 CN PLACEHOLDER
 '12:54 после полудня - открытие аварийных дверей.'
 
@@ -2963,12 +2963,12 @@ CN PLACEHOLDER
 Сора продолжает своё объяснение.
 
 『１４時３９分――ヘリウムガスは、酸素・窒素よりも軽い為、先に放出され……やがて内部圧は、外気と同じ１気圧にまで低下した』%K%P
-「2:39 p.m.―Helium, since it is lighter than oxygen and nitrogen, was released first... and internal pressure dropped to the equivalent of the external pressure of one atmosphere.」
+“2:39 p.m.—Helium, since it is lighter than oxygen and nitrogen, was released first... and internal pressure dropped to the equivalent of the external pressure of one atmosphere.”
 CN PLACEHOLDER
 '2:39 после полудня - Первым, так как имеет меньшую чем кислород и азот плотность, вышел гелий... а давление воздуха в сооружении упало до 1 атмосферы, того же уровня, что на открытом пространстве.'
 
 『１５時５５分――浸水事故発生』%K%P
-「3:55 p.m.―Water leak occurs.」
+“3:55 p.m.—Water leak occurs.”
 CN PLACEHOLDER
 '3:55 после полудня - Началось затопление.'
 

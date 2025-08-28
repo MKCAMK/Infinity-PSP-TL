@@ -986,7 +986,7 @@ CN PLACEHOLDER
 Ты так сказал...Такеши---!
 
 つぐみ「『生きてさえいれば』って！」%K%P
-It's 'enough to be alive'―you're the one who said that!
+It's 'enough to be alive'—you're the one who said that!
 CN PLACEHOLDER
 Ты, и никто другой!
 
@@ -1163,7 +1163,7 @@ CN PLACEHOLDER
 つぐみ「１２歳の私は父親の仕事の関係で、家族と一緒に渡米していた」%K%P
 I was twelve at the time, and my family went to America because of my father's job.
 CN PLACEHOLDER
-Когда мне было 12, семья переехала в США из-за работы отца.」%K%P(США? Не знаю... это лишь предположение, но... видимо, тот был программистом, а её семья переехала в Кремниевую Долину...)%K%P
+Когда мне было 12, семья переехала в США из-за работы отца.»%K%P(США? Не знаю... это лишь предположение, но... видимо, тот был программистом, а её семья переехала в Кремниевую Долину...)%K%P
 
 つぐみ「その頃の私の友達……」%K%P
 A friend of mine then...
@@ -2551,12 +2551,12 @@ CN PLACEHOLDER
 Ю зачитала всем присутствующим его содержание.
 
 ３階・ドリットシュトックの隔離区画――%K%P
-Third floor: Dritter Stock partition schematic―
+Third floor: Dritter Stock partition schematic—
 CN PLACEHOLDER
 Третий этаж: схема Дритте шток.
 
 『コスミッシャー・ヴァル』の部屋が、完全浸水した。%K%P
-The 「Cosmic Whale」 room had flooded completely.
+The “Cosmic Whale” room had flooded completely.
 CN PLACEHOLDER
 Затоплен модуль с 'Залом Космического Кита'.
 

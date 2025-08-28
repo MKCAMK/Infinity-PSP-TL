@@ -8,4 +8,6 @@
 ./unpack-iso.sh && \
 ./unpack-afs.sh && \
 ./text_1_extract-jap-scenes.sh && \
-./repack-all.sh
+./text_2_prepare-texts.sh && \
+./pack-afs.sh && \
+./pack-iso.sh

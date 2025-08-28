@@ -59,12 +59,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ルナビーチのドアには『準備中』の札が%Nかかっていた。%K%P
-The sign on Lunabeach's door says, 「CLOSED」.
+The sign on Lunabeach's door says, “CLOSED”.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 昨日いづみさんが『今日は定休日』と言っていたから、当然といえば当然である。%K%P
-Since Izumi-san had said yesterday that 「the shop will be closed tomorrow,」 we'd been expecting this.
+Since Izumi-san had said yesterday that “the shop will be closed tomorrow,” we'd been expecting this.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -314,7 +314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「５人だけって、じゃあいづみさんも%N行かないんだ？」%K%P
-『You five going alone』... Then you're not coming with us, Izumi-san?
+‘You five going alone’... Then you're not coming with us, Izumi-san?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -494,7 +494,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『どうしたの？』と聞こうとしたが、何故だか言葉が続かない。%K%N
-I'm trying to ask, 「What's wrong?」, but for some reason, I can't continue.
+I'm trying to ask, “What's wrong?”, but for some reason, I can't continue.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -599,7 +599,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「例えば『どこの馬の骨とも分からないろくでもない連中と、強制的に７泊８日の旅行をしなければならなくなったとき』とかな？」%K%P
-Like, for example, due to being 『forced to spend a whole week with good-for-nothing shady strangers』, perhaps?
+Like, for example, due to being ‘forced to spend a whole week with good-for-nothing shady strangers’, perhaps?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -193,7 +193,8 @@ repack_etc_afs () {
 repack_init_bin () {
 	echo "Applying translation to init.bin"
 	# Apply init.bin strings
-	$PY ./py-src/apply_init_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/init.bin.utf8.txt $WORKDIR/init.dec $WORKDIR/init.dec.${TL_SUFFIX} ${TL_SUFFIX} || exit 1
+	[ -e text/tips-psp-${GAME}.txt ] && TIPS_ARG="-t text/tips-psp-${GAME}.txt"
+	$PY ./py-src/apply_init_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/init.bin.utf8.txt $WORKDIR/init.dec $WORKDIR/init.dec.${TL_SUFFIX} -l ${TL_SUFFIX} -g ${GAME} $TIPS_ARG || exit 1
 
 	INIT_SRC=$WORKDIR/init.dec.${TL_SUFFIX}
 	if [ ! -f $INIT_SRC ]; then

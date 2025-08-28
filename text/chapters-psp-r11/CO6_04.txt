@@ -1,6 +1,6 @@
 ﻿黛「今度こそ……もうダメだわ……」%K%P
 This time... we won't make it...
-黛「这次是真的……没救了……」
+黛“这次是真的……没救了……”
 RU PLACEHOLDER
 
 黛「私達……死ぬんだわ……あの新聞のように」%K%P
@@ -109,7 +109,7 @@ We were engulfed by the joy of living.
 RU PLACEHOLDER
 
 私達……私『達』……。%K%P
-We... 「We」...
+We... “We”...
 我们……我“们”……
 RU PLACEHOLDER
 
@@ -518,7 +518,7 @@ Hey, Satoru... Do you remember?
 RU PLACEHOLDER
 
 黛「『もしも私が、突然この世界から消えてしまったらどうする？』って私が訊いたときのこと」%K%P
-When I asked you 『What would you do if I suddenly disappeared from this world?』
+When I asked you ‘What would you do if I suddenly disappeared from this world?’
 黛「“如果我突然从这个世界消失你会怎么办？”我曾经这么问你」
 RU PLACEHOLDER
 
@@ -548,12 +548,12 @@ Back then, you told me.
 RU PLACEHOLDER
 
 黛「『鈴のいる世界を見つけるよ』って」%K%P
-『I would search for the world where you were.』
+‘I would search for the world where you were.’
 黛「“我会找到你所在的那个世界”」
 RU PLACEHOLDER
 
 黛「もし、その世界が見つからなかったとしても、『見つかるまで探し続けると思う』って」%K%P
-And that even if you couldn't find that world, you said 『I'd keep on searching until I found it.』
+And that even if you couldn't find that world, you said ‘I'd keep on searching until I found it.’
 黛「即使没有找到那个世界，你也会“一直寻找直到找到为止”」
 RU PLACEHOLDER
 
@@ -598,12 +598,12 @@ And then, you asked me the same thing.
 RU PLACEHOLDER
 
 黛「『もしも突然、この世界からオレの存在が消え失せてしまったとしたら、どうする？』って」%K%P
-『If I suddenly disappeared from this world, what would you do?』
+‘If I suddenly disappeared from this world, what would you do?’
 黛「“如果突然我从这个世界上消失了你会怎么办？”」
 RU PLACEHOLDER
 
 黛「私は『半年も経てば、あなたのことなんて忘れてしまう』って答えた」%K%P
-I said 『Once six months had passed, I'd forget all about you.』
+I said ‘Once six months had passed, I'd forget all about you.’
 黛「我回答“过了半年我就会把你给忘掉”」
 RU PLACEHOLDER
 
@@ -935,7 +935,7 @@ RU PLACEHOLDER
 // until i come up with a better way of handling italics,
 // the trailing control sequences here will have to be repeated
 黛「あれよ、あれ」%K%P
-I mean <i>that</i>, <i>that!</i>」%K%P
+I mean <i>that</i>, <i>that!</i>”%K%P
 黛「那个啊，就是那个」
 RU PLACEHOLDER
 
@@ -1015,7 +1015,7 @@ What do I do... What do I do...?
 RU PLACEHOLDER
 
 黛「ほら、あれよ」%K%P
-C'mon, it's <i>that!</i>」%K%P
+C'mon, it's <i>that!</i>”%K%P
 黛「就是那个啊」
 RU PLACEHOLDER
 

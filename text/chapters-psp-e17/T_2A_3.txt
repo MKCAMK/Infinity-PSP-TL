@@ -4,7 +4,7 @@ CN PLACEHOLDER
 - Механический плавучий лифт 'EI'.
 
 『ＥＩ』とはドイツ語で『卵』のことを意味する。%K%P
-「Ei」 meant 「egg」 in German.
+“Ei” meant “egg” in German.
 CN PLACEHOLDER
 'EI' с немецкого переводится как 'яйцо'.
 
@@ -29,7 +29,7 @@ CN PLACEHOLDER
 Зайдя вместе с Цугуми в лифт, мы закрыли водоупорные двери, что соединяют его с LeMU.
 
 あとは、ＬｅＭＵに接続されているロックを開放すれば、自然と『卵』は沈んで行くはずだ。%K%P
-All we had to do was release the lock connecting us to LeMU, and the 「egg」 would sink away.
+All we had to do was release the lock connecting us to LeMU, and the “egg” would sink away.
 CN PLACEHOLDER
 Осталось лишь открыть замок, соединяющий 'яйцо' с сооружением.
 
@@ -504,7 +504,7 @@ CN PLACEHOLDER
 Буух! Яйцо взболтнуло сильным ударом.
 
 『着いたんだ！　３階に！』%K%P
-「We made it to the third floor!」
+“We made it to the third floor!”
 CN PLACEHOLDER
 'Мы добрались до третьего этажа!'
 
@@ -529,7 +529,7 @@ CN PLACEHOLDER
 Окружённый пеленой воды...я потянул Цугуми за плечо.
 
 『大丈夫だ、俺がなんとかする』%K%P
-「It's alright. I'll take care of it.」
+“It's alright. I'll take care of it.”
 CN PLACEHOLDER
 'Всё в порядке. Я обо всём позабочусь.'
 
@@ -684,7 +684,7 @@ CN PLACEHOLDER
 (Ну конечно, может...)
 
 （こいつは他人との協調性を、うっかりどこかに置き忘れて来てしまっただけなんじゃないだろうか……？）%K%P
-(Maybe she just isn't a 「people person」 and has a hard time getting along with others...)
+(Maybe she just isn't a “people person” and has a hard time getting along with others...)
 CN PLACEHOLDER
 (Может она просто не 'публичный человек' и очень тяжело идёт на контакт...)
 
@@ -1134,7 +1134,7 @@ CN PLACEHOLDER
 Ты просто твердолобый.
 
 『ウツケモノォ〜！？』――と反論する間もなく目的地に着いてしまったようだ。%K%P
-As I was thinking of a comeback to 「rock head」, we arrived at our destination.
+As I was thinking of a comeback to “rock head”, we arrived at our destination.
 CN PLACEHOLDER
 Пока я думал, как отомстить за 'твердолобого', мы добрались до места назначения.
 
@@ -1359,7 +1359,7 @@ CN PLACEHOLDER
 Цугуми и я прошли в соседнее с генераторной помещение.
 
 『ひとまず、発電機に送り込んでいる熱水を止めよう』というつぐみの提案に従ったのだ。%K%P
-We were implementing Tsugumi's plan: 「First, shut off the hot water flowing to the generator room」.
+We were implementing Tsugumi's plan: “First, shut off the hot water flowing to the generator room”.
 CN PLACEHOLDER
 Исполнять план Цугуми: 'Сперва перекрыть горячую воду.'
 
@@ -1374,17 +1374,17 @@ CN PLACEHOLDER
 Сами трубы тянутся в Генераторную. Похоже, что, открывая и закрывая вентили, можно управлять давлением воды и масла.
 
 『通常、発電室のコンディションを保っているのはレミなのだが、さすがのレミと言えども、発電機自体が故障してしまったらどうすることもできない』%K%P
-「Normally, LeMMIH is responsible for maintaining the generator room, but even LeMMIH can't do much when the generator itself goes out.」
+“Normally, LeMMIH is responsible for maintaining the generator room, but even LeMMIH can't do much when the generator itself goes out.”
 CN PLACEHOLDER
 'Обычно ЛеММИХ следит за выработкой тока, но даже ЛеММИХ бессилен, если генератор накрылся.'
 
 『何しろ、電力が供給されなくなってしまうのだから』%K%P
-「Anyhow, this is all because the power supply is down.」
+“Anyhow, this is all because the power supply is down.”
 CN PLACEHOLDER
 'Как бы там ни было, всё из-за того, что сейчас нет тока.'
 
 『そこで、停電になったときでも、発電室のメンテナンスを手動で行なうことができるよう、この部屋は設けられたのだろう』%K%P
-「The room is designed so that maintenance can be performed manually during blackouts.」
+“The room is designed so that maintenance can be performed manually during blackouts.”
 CN PLACEHOLDER
 'Это помещение было сконструировано для тех. обслуживания, и, в особенности, для случаев, подобных нашему.'
 
@@ -1434,7 +1434,7 @@ CN PLACEHOLDER
 (Цугуми...что она вообще за девушка?)
 
 さっき発電室の前で『中が危険だ』と言ったことの理由も、まだちゃんと聞いていなかった。%K%P
-I still hadn't found out how she had known that the inside of the generator room was 「dangerous」.
+I still hadn't found out how she had known that the inside of the generator room was “dangerous”.
 CN PLACEHOLDER
 И как, в конце концов, она узнала, что в Генераторной 'опасно'?
 

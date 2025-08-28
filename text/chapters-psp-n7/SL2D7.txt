@@ -49,7 +49,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 もしかしたら車に轢かれたのかもしれない……%K%N
-「Perhaps it was run over by a car...」
+“Perhaps it was run over by a car...”
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -124,22 +124,22 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『はははははっ。車に轢かれたって？』%K%N
-「Ha ha ha ha ha. Run over by a car?」
+“Ha ha ha ha ha. Run over by a car?”
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『これは、雨に濡れて衰弱しているだけだよ』%K%N
-「It's just debilitated from being soaked by the rain.」
+“It's just debilitated from being soaked by the rain.”
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『大丈夫。２・３日安静にしていれば、すぐに%N良くなるよ』%K%N
-「It's all right. If you give it two to three days of rest, it'll be up and about before you know it.」
+“It's all right. If you give it two to three days of rest, it'll be up and about before you know it.”
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『前の君と同じようにね？』%K%P
-「It's the same as you when you were brought here a few days ago.」
+“It's the same as you when you were brought here a few days ago.”
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -159,7 +159,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『あとは、快復するまで、私が責任をもって面倒を%Nみよう』%K%N
-「After this, I'll take responsibility for it and take care of it until it recovers.」
+“After this, I'll take responsibility for it and take care of it until it recovers.”
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -384,7 +384,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「そんなことって……」%K%P
-『That's it』...?
+‘That's it’...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

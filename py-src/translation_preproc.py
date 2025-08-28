@@ -159,16 +159,22 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
 
     jp_line, jp_trailing_meta = r11.rm_trailing_control_sequence(jp_line)
     jp_line, jp_leading_meta = r11.rm_leading_control_sequence(jp_line)
-    [jp_speaker, jp_leading_bracket, jp_trailing_bracket] = detectJpSpeakerAndBrackets(jp_line)
+    jp_speaker, jp_leading_bracket, jp_trailing_bracket = detectJpSpeakerAndBrackets(jp_line)
 
     export_translated_line = ""
     trailing_control = ""
     leading_control = ""
+    leading_bracket = jp_leading_bracket
+    trailing_bracket = jp_trailing_bracket
 
     if tl_suffix in ("en", "ru"):
       if tl_suffix == "en":
+        leading_bracket = "“" if leading_bracket else ""
+        trailing_bracket = "”" if trailing_bracket else ""
         tl_line = en_line
       elif tl_suffix == "ru":
+        leading_bracket = "《" if leading_bracket else ""
+        trailing_bracket = "》" if trailing_bracket else ""
         tl_line = ru_line
       tl_tips = detectTips(tl_line)
       if (jp_tips != tl_tips):
@@ -192,7 +198,7 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
           print("name not found:", jp_speaker)
       if translated_speaker and not tl_leading_meta:
         # append TL'ed speaker + opening bracket
-        export_translated_line = "{}{}".format(translated_speaker, jp_leading_bracket)
+        export_translated_line = "{}{}".format(translated_speaker, leading_bracket)
         if jp_trailing_bracket and (jp_trailing_bracket != "\u300d"):
           raise Exception("Unexpected trailing bracket '{}' captured '{}' (~{})[{}]".format(jp_trailing_bracket, jp_line, i*4, current_filename))
       # else:
@@ -214,11 +220,11 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
       if tl_trailing_meta or tl_leading_meta:
         trailing_control = tl_trailing_meta
         leading_control = tl_leading_meta
-        jp_trailing_bracket = ""
+        trailing_bracket = ""
       else:
         trailing_control = jp_trailing_meta
         leading_control = jp_leading_meta
-      export_translated_line += jp_trailing_bracket
+      export_translated_line += trailing_bracket
 
     elif tl_suffix == 'cn':
       cn_tips = detectTips(cn_line)

@@ -154,7 +154,7 @@ CN PLACEHOLDER
 Только, вместо лошадок дельфины...
 
 『カルセル・デルフィーネ』というのが正式名称のようだ。%K%P
-It looked like its official name was 「Delphinkarussell」.
+It looked like its official name was “Delphinkarussell”.
 CN PLACEHOLDER
 И табличка с названием соответствующая - Дельфинья Карусель.
 
@@ -339,7 +339,7 @@ CN PLACEHOLDER
 Она вырабатывается внутри сооружения.
 
 優「水深１００ｍの海底に熱水噴出孔――ま、平たく言えば温泉よね。それがあって、そこから熱水を汲み上げて気化させてる」%K%P
-Down more than 100 meters underwater on the ocean floor are thermal seafloor vents―basically hot springs. So LeMU takes hot water from there and uses it for steam.
+Down more than 100 meters underwater on the ocean floor are thermal seafloor vents—basically hot springs. So LeMU takes hot water from there and uses it for steam.
 CN PLACEHOLDER
 На дне океана, на глубине около 100 метров, находятся горячие вулканические источники. LeMU использует их для выработки пара.
 
@@ -669,12 +669,12 @@ CN PLACEHOLDER
 Моя мама считает, что папа давным-давно умер...
 
 『死』……。%K%P
-「Dead」...
+“Dead”...
 CN PLACEHOLDER
 'Умер'...
 
 その言葉は、俺の胸に重く響いた。%K%P
-The word 「dead」 had a heavy ring to it.
+The word “dead” had a heavy ring to it.
 CN PLACEHOLDER
 Слово 'умер' камнем сдавило моё сердце, я готов заплакать.
 
@@ -1318,7 +1318,7 @@ CN PLACEHOLDER
 Пепельницы заполнены пеплом и окурками, с горочкой.
 
 これ見よがしな、ドでかい『禁煙』の文字の張り紙。%K%P
-And there was a huge sign plastered on the wall that said 「NO SMOKING」.
+And there was a huge sign plastered on the wall that said “NO SMOKING”.
 CN PLACEHOLDER
 На стене - большая табличка с надписью 'НЕ КУРИТЬ'.
 
@@ -1483,7 +1483,7 @@ CN PLACEHOLDER
 Во время нашей беседы Сора где-то пряталась - я её так и не увидел.
 
 俺は空のほうに軽く手を振って――見えてないだろうけど――出口へ向かう。%K%P
-I waved in Sora's direction―though I figured she couldn't see me―and headed for the exit.
+I waved in Sora's direction—though I figured she couldn't see me—and headed for the exit.
 CN PLACEHOLDER
 Я помахал в сторону Соры (хотя, вряд ли она меня видит) и направился к выходу.
 
@@ -1528,7 +1528,7 @@ CN PLACEHOLDER
 (Она действительно любит свою работу.)
 
 システムエンジニアという人種には、こういったちょっと変わった方が多いのかもしれないと、俺は勝手に納得した。%K%P
-I imagined that the position of system engineer was probably just an occupation that drew 「interesting types」 and felt satisfied with that.
+I imagined that the position of system engineer was probably just an occupation that drew “interesting types” and felt satisfied with that.
 CN PLACEHOLDER
 Представляю, как системный инженер занимается 'интересными вещами'...
 
@@ -1595,7 +1595,7 @@ CN PLACEHOLDER
 Я шёл в сторону лифтовой, но наткнулся на нечто иное.
 
 看板には『クヴァレ』と書いてある。%K%P
-The sign said 「Qualle」.
+The sign said “Qualle”.
 CN PLACEHOLDER
 Вывеска гласит 'Qualle'.
 
@@ -2107,7 +2107,7 @@ CN PLACEHOLDER
 %N
 
 %LC＜クラゲゴンドラ『クヴァレ』　異状なし＞%K%P
-<Jellyfish Gondola 「Qualle」: Situation normal>
+<Jellyfish Gondola “Qualle”: Situation normal>
 CN PLACEHOLDER
 'Гондола-Медуза: всё в порядке'
 
@@ -2226,7 +2226,7 @@ CN PLACEHOLDER
 'Склад: всё в порядке'
 
 『Ｒｅｔｔｕｎｇｓｓｔａｔｉｏｎ』%K%P
-「Krankenstation」
+“Krankenstation”
 CN PLACEHOLDER
 'Лазарет'
 
@@ -2276,7 +2276,7 @@ CN PLACEHOLDER
 К ней прикреплена массивная электронная установка.
 
 『Ｌ−ＭＲＩ』と書いてある。%K%P
-「L-MRI」 was written on it.
+“L-MRI” was written on it.
 CN PLACEHOLDER
 На ней написано 'Л-МРИ'.
 

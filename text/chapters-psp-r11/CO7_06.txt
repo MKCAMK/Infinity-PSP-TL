@@ -84,7 +84,7 @@ It'll take slightly under an hour to get to Location X no matter how much I hurr
 RU PLACEHOLDER
 
 もし――%K%P
-If――
+If——
 如果——
 RU PLACEHOLDER
 
@@ -121,14 +121,14 @@ RU PLACEHOLDER
 %N%N%N%N%N
 
 %LC%FS『腐乱死体』%FE%K%P
-「Decomposed Corpses」
+“Decomposed Corpses”
 “腐烂尸体”
 RU PLACEHOLDER
 
 %N%N%N%N%N
 
 %FS『遺体には雪崩に巻き込まれた際に受ける%N%X200裂傷も多数確認されている』%FE%K%P
-「...It has been confirmed that the three bodies sustained many lacerations in an avalanche...」
+“...It has been confirmed that the three bodies sustained many lacerations in an avalanche...”
 “遗体卷入雪崩时留下的多处裂痕也得到确认”
 RU PLACEHOLDER
 
@@ -203,7 +203,7 @@ At this rate... he'll die...
 RU PLACEHOLDER
 
 こころ「――――！」%K%P
-――――!
+————!
 心「————！」
 RU PLACEHOLDER
 
@@ -373,7 +373,7 @@ This will make it easier to spot Yomogi as well.
 RU PLACEHOLDER
 
 これならばさっきより早く、小屋から東に１ｋｍの地点――Ｘ地点までたどり着けるかも知れない。%K%P
-With things like this, I might reach the area a kilometer east of the cabin――Location X――more quickly than before.
+With things like this, I might reach the area a kilometer east of the cabin——Location X——more quickly than before.
 照这样子看说不定可以比先前更快到达小屋东面１公里的地方——Ｘ地点。
 RU PLACEHOLDER
 
@@ -543,12 +543,12 @@ open my eyes,
 RU PLACEHOLDER
 
 行く手を見据えた――%K%P
-and look up at the path ahead of me――
+and look up at the path ahead of me——
 注视着前进的方向——
 RU PLACEHOLDER
 
 こころ「――――！？」%K%P
-――――!?
+————!?
 心「————！？」
 RU PLACEHOLDER
 
@@ -648,12 +648,12 @@ I haven't switched bodies either.
 RU PLACEHOLDER
 
 私は『冬川こころ』のままだ。%K%P
-I'm still 「Fuyukawa Kokoro」 right now.
+I'm still “Fuyukawa Kokoro” right now.
 我还是“冬川心”的样子。
 RU PLACEHOLDER
 
 なのに――%K%P
-But――
+But——
 但是——
 RU PLACEHOLDER
 
@@ -703,7 +703,7 @@ The entire kilometer before Location X should be all a continuous snowy mountain
 RU PLACEHOLDER
 
 なのに、どうして、海が――？%K%P
-But then, why... an ocean――?
+But then, why... an ocean——?
 可是……为什么是大海——？
 RU PLACEHOLDER
 
@@ -768,17 +768,17 @@ The things I thought were absolute have completely fallen apart.
 RU PLACEHOLDER
 
 何が現実で――%K%P
-What is reality――
+What is reality——
 哪些是现实——
 RU PLACEHOLDER
 
 何が虚構なのか――%K%P
-What is fiction――
+What is fiction——
 哪些是虚幻——
 RU PLACEHOLDER
 
 そもそも、この世界に現実なんてあるのか――%K%P
-Is there any such thing as reality in this world in the first place――
+Is there any such thing as reality in this world in the first place——
 说到底这个世界是真实的吗——
 RU PLACEHOLDER
 
@@ -918,7 +918,7 @@ I don't know either...!
 RU PLACEHOLDER
 
 ゆに「ねー、すっごく冷たいよ！　本物の海だよ！」%K%P
-Hey, it's rea――lly cold! It's the real ocean!
+Hey, it's rea——lly cold! It's the real ocean!
 悠尼「好冷啊！这真的是大海啊！」
 RU PLACEHOLDER
 
@@ -1093,7 +1093,7 @@ Because if anything happened to Yomogi, it'd be my fault...
 RU PLACEHOLDER
 
 ――その時だ。%K%P
-――At that moment.
+——At that moment.
 ——就在这个时候。
 RU PLACEHOLDER
 
@@ -1143,7 +1143,7 @@ I shout at the top of my lungs as I run.
 RU PLACEHOLDER
 
 私は走る――%K%P
-I run――
+I run——
 我跑着——
 RU PLACEHOLDER
 
@@ -1153,12 +1153,12 @@ The sunrise shines in on us. The light is strong enough to blind me.
 RU PLACEHOLDER
 
 激しい波がうち寄せる海面を――%K%P
-Violent waves are drawn in from the sea――
+Violent waves are drawn in from the sea——
 阳光下，波涛汹涌的海面——
 RU PLACEHOLDER
 
 白銀色の雪を――%K%P
-and silver-white snow――
+and silver-white snow——
 银白色的积雪——
 RU PLACEHOLDER
 
@@ -1223,31 +1223,31 @@ As I shield my eyes from the sunlight with one hand, they suddenly freeze on wha
 RU PLACEHOLDER
 
 こころ「あなたは――」%K%P
-You're――
+You're——
 心「你是——」
 RU PLACEHOLDER
 
 違う――%T060
-No――
+No——
 不对——
 RU PLACEHOLDER
 
 %P
 
 黄泉木じゃない――%T060
-That isn't Yomogi――
+That isn't Yomogi——
 那不是黄泉木——
 RU PLACEHOLDER
 
 %P
 
 彼は――
-That's――
+That's——
 他是——
 RU PLACEHOLDER
 
 こころ「――――！？」%V
-――――!?
+————!?
 心「————！？」
 RU PLACEHOLDER
 
@@ -1359,7 +1359,7 @@ RU PLACEHOLDER
 %P
 
 でも――%T030
-But――
+But——
 但是——
 RU PLACEHOLDER
 
@@ -1394,7 +1394,7 @@ RU PLACEHOLDER
 %P
 
 優希堂悟――。%T030
-Yukidoh Satoru――
+Yukidoh Satoru——
 优希堂悟——。
 RU PLACEHOLDER
 
@@ -1462,7 +1462,7 @@ Is the Satoru standing in front of me...
 RU PLACEHOLDER
 
 本物なの――？%T030
-real――?
+real——?
 是真的吗——？
 RU PLACEHOLDER
 
@@ -1474,7 +1474,7 @@ Is what I'm looking at right now...
 RU PLACEHOLDER
 
 本物なの――？%T030
-real――?
+real——?
 是真的吗——？
 RU PLACEHOLDER
 
@@ -1486,7 +1486,7 @@ Is this world...
 RU PLACEHOLDER
 
 本物なの――？%T030
-real――?
+real——?
 是真的吗——？
 RU PLACEHOLDER
 
@@ -1738,35 +1738,35 @@ RU PLACEHOLDER
 %P
 
 ただ、置いていかれたくない一心で――%T030
-With only the feeling of not wanting to be left behind――
+With only the feeling of not wanting to be left behind——
 心里只是一味地想不要丢下我——
 RU PLACEHOLDER
 
 %P
 
 私は悟の背中を追いかける――%T030
-I chase after Satoru's back――
+I chase after Satoru's back——
 我追随着悟的背影——
 RU PLACEHOLDER
 
 %P
 
 たとえこの世界が現実じゃないとしても――%T030
-Because even if this isn't reality――
+Because even if this isn't reality——
 即使这个世界不是真实的——
 RU PLACEHOLDER
 
 %P
 
 もう、私が頼れるのは――%T030
-the only one I can rely on now――
+the only one I can rely on now——
 我能够依赖的——
 RU PLACEHOLDER
 
 %P
 
 悟だけだから――。%T030
-is Satoru――
+is Satoru——
 也只有悟——。
 RU PLACEHOLDER
 

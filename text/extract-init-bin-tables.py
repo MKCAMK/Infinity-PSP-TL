@@ -25,11 +25,11 @@ def read_strings_from_table(all_bytes, seg_table, seg_strings):
     elif game == "n7":
       if 0x5250 <= table_offs < 0x58f0: continue
       if 0x7ec8 <= table_offs < 0x7fbc: continue
-    else: # e17
-      if 0x3710 <= table_offs < 0x3E94: continue
-      if 0x57F8 <= table_offs < 0x5A24: continue
-      if 0x64B4 <= table_offs < 0x65C4: continue
-      if 0x6EE0 <= table_offs < 0x75E8: continue
+    elif game == "e17":
+      if 0x3710 <= table_offs < 0x3e94: continue
+      if 0x57f8 <= table_offs < 0x5a24: continue
+      if 0x64b4 <= table_offs < 0x65c4: continue
+      if 0x6ee0 <= table_offs < 0x75e8: continue
 
     if (seg_strings[0] <= off < seg_strings[1]):
       end = all_bytes.find(b"\x00", off)
@@ -69,7 +69,7 @@ def main():
   if game == "r11":
     seg_init_table = [0x1140, 0x1d38]
     seg_init = [0xba68, 0xdc40]
-    seg_tips_table = [0x7610, 0x7f78]
+    seg_tips_table = [0x7610, 0x7f7c]
     seg_tips = [0x14c30, 0x2464c]
     seg_chrono_table = [0x90dc, 0xac98]
     seg_chrono = [0x26be8, 0x2c11a]
@@ -78,17 +78,17 @@ def main():
   elif game == "n7":
     seg_init_table = [0x1ba8, 0x1e44]
     seg_init = [0xaf80, 0xb681]
-    seg_tips_table = [0x7fbc, 0x8808]
+    seg_tips_table = [0x7fbc, 0x880c]
     seg_tips = [0x13526, 0x20e0f]
     seg_all_table = [0x1ba8, 0x9908] 
     seg_all = [0xaf80, 0x22550]
-  else: # e17
+  elif game == "e17":
     seg_init_table = [0xeb8, 0x1810]
-    seg_init = [0x89b0, 0x9FD7]
-    seg_tips_table = [0x65C4, 0x6EE4]
-    seg_tips = [0xF6EA, 0x1D63F]
-    seg_all_table = [0xEB8, 0x7DF8]
-    seg_all = [0x89B0, 0x1F709]
+    seg_init = [0x89b0, 0x9fd7]
+    seg_tips_table = [0x65c4, 0x6ee8]
+    seg_tips = [0xf6ea, 0x1d63f]
+    seg_all_table = [0xed8, 0x7df8]
+    seg_all = [0x89b0, 0x1f709]
 
   initbin_path = sys.argv[1] if len(sys.argv) > 1 else "init.dec"
 

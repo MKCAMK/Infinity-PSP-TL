@@ -1024,7 +1024,7 @@ CN PLACEHOLDER
 Вот почему я считаю тебя глупцом.
 
 つぐみ「防水扉を開いたら、６気圧の海水が一気に流入してっ――」%K%P
-If you open those floodgates, you'll be overwhelmed by the seawater―the pressure is six atmospheres!
+If you open those floodgates, you'll be overwhelmed by the seawater—the pressure is six atmospheres!
 CN PLACEHOLDER
 Когда ты откроешь водоупорные двери, тебя затопит водой -- с давлением в 6 атмосфер!
 
@@ -1659,7 +1659,7 @@ CN PLACEHOLDER
 Ещё чуть-чуть, совсем немножко, свет...он прямо -
 
 ――ガシッ！%T030%K%N
-―Thwump!
+—Thwump!
 CN PLACEHOLDER
 - здесь!
 
@@ -1754,7 +1754,7 @@ CN PLACEHOLDER
 Конечно, его зовут не Хомка, но... какая разница...
 
 『ジャンガリアーッ！』と呼ぶよりはマシだろう。%K%P
-It was better than yelling 「Djungariaaan!」
+It was better than yelling “Djungariaaan!”
 CN PLACEHOLDER
 В любом случае, это лучше, чем кричать 'Джунгарский'!
 
@@ -2164,7 +2164,7 @@ CN PLACEHOLDER
 Милый Чами. Блин....
 
 『チャミちゃん、チャミちゃん、ご飯でちゅよぉ〜』%K%P
-「Chami-chan, Chami-chan, it's din-din time.」
+“Chami-chan, Chami-chan, it's din-din time.”
 CN PLACEHOLDER
 'Чам-Чамыч, Чам-Чамыч, пора ням-нямыч.'
 
@@ -2334,7 +2334,7 @@ CN PLACEHOLDER
 Такеши, я кое-что поняла о тебе...
 
 武「っておいちょっと待て――」%K%P
-Now, wait just a―
+Now, wait just a—
 CN PLACEHOLDER
 Что ты хочешь этим ска---!?
 
@@ -2359,9 +2359,9 @@ CN PLACEHOLDER
 Цугуми ударила меня.
 
 武「〜〜〜〜〜〜〜〜〜〜〜〜〜！？」%K%P
-――――!?
+————!?
 CN PLACEHOLDER
-――!?
+——!?
 
 つぐみ「じゃあね……」%K%P
 See you later...
@@ -2689,7 +2689,7 @@ CN PLACEHOLDER
 Что?
 
 つぐみは俺の手からネズミ（？）を素早く奪い取った。%K%P
-Tsugumi snatched the 「rat」 from my hand.
+Tsugumi snatched the “rat” from my hand.
 CN PLACEHOLDER
 Цугуми выхватила "крысу" из моей руки.
 

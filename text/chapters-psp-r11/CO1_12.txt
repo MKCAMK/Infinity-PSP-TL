@@ -325,12 +325,12 @@ I take it without quite understanding why.
 RU PLACEHOLDER
 
 『イヌブシじゃない』%K%N
-「Not Inubushi」
+“Not Inubushi”
 “不是犬伏”
 RU PLACEHOLDER
 
 『穂鳥』%K%P
-「Hotori」
+“Hotori”
 “穗鸟”
 RU PLACEHOLDER
 
@@ -355,7 +355,7 @@ Inubushi takes back the notepad, and this time she runs the pen over it slightly
 RU PLACEHOLDER
 
 『私の名前は、涼蔭穂鳥』%K%P
-「My name is Suzukage Hotori」
+“My name is Suzukage Hotori”
 “我的名字是——凉荫穗鸟”
 RU PLACEHOLDER
 
@@ -445,7 +445,7 @@ For the time being, I decide to go along with her.
 RU PLACEHOLDER
 
 『あなたは犬伏景子よ』とどれだけ言ったところで、穂鳥という人格は犬伏のことを知らないだろう。%K%P
-No matter how much I try saying 「You are Inubushi Keiko」 to her, it wouldn't matter, as the Hotori personality probably doesn't even know her.
+No matter how much I try saying “You are Inubushi Keiko” to her, it wouldn't matter, as the Hotori personality probably doesn't even know her.
 当然，无论我对她说多少遍“你就是犬伏景子哟”，穗鸟这个人格也无法理解犬伏的存在。
 RU PLACEHOLDER
 
@@ -526,7 +526,7 @@ In other words, even if unconsciously, these are things I know; they're things I
 RU PLACEHOLDER
 
 さっき、ゆには――スフィアにいるゆに、という意味だけど――私のことを『悟』と呼んだ。%K%P
-Before, Yuni――the Yuni that's at SPHIA, that is――had called me 「Satoru」.
+Before, Yuni——the Yuni that's at SPHIA, that is——had called me “Satoru”.
 之前悠尼——指的是ＳＰＨＩＡ中的悠尼——把我称作“悟”。
 RU PLACEHOLDER
 
@@ -686,7 +686,7 @@ I see...
 RU PLACEHOLDER
 
 なにが『そう……』なのだろう？%K%P
-What does 「I see...」 mean?
+What does “I see...” mean?
 “是吗……”是什么啊？
 RU PLACEHOLDER
 
@@ -736,7 +736,7 @@ Can you tell me your name?
 RU PLACEHOLDER
 
 こころ「私は――」%K%P
-I'm――
+I'm——
 心「我是——」
 RU PLACEHOLDER
 
@@ -796,7 +796,7 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 内海「わかる？　乖離性――」%K%P
-Have you heard of it? Dissociative――
+Have you heard of it? Dissociative——
 内海「明白吗？分离性……」
 RU PLACEHOLDER
 
@@ -811,7 +811,7 @@ I see. It's obvious to think that.
 RU PLACEHOLDER
 
 内海「あなたは、冬川こころさんであると同時に、優希堂悟さん――」%K%P
-You are Fuyukawa Kokoro-san, and at the same time, Yukidoh Satoru-san――
+You are Fuyukawa Kokoro-san, and at the same time, Yukidoh Satoru-san——
 内海「你是冬川心，同时也是优希堂悟——」
 RU PLACEHOLDER
 
@@ -876,7 +876,7 @@ This time, it's Yuni who enters the room.
 RU PLACEHOLDER
 
 私を見て、ためらうことなく『悟』と呼ぶ。%K%P
-After seeing me, he calls me 「Satoru」 without hesitation.
+After seeing me, he calls me “Satoru” without hesitation.
 一见到我，就毫不犹豫地叫我“悟”。
 RU PLACEHOLDER
 
@@ -1016,7 +1016,7 @@ Are dreams this vivid even possible?
 RU PLACEHOLDER
 
 ――%TS105明晰夢%TE？%K%P
-――%TS105Lucid dream%TE?
+——%TS105Lucid dream%TE?
 ——%TS105清明梦%TE？
 RU PLACEHOLDER
 
@@ -1051,7 +1051,7 @@ I certainly got into an airplane accident, and right now I should be sleeping in
 RU PLACEHOLDER
 
 でも、あの新聞――。%K%P
-But, that newspaper――
+But, that newspaper——
 我应当是遭遇了飞机事故，然后在雪山的避难小屋里睡觉吧。
 RU PLACEHOLDER
 
@@ -1066,7 +1066,7 @@ Just what was that?
 RU PLACEHOLDER
 
 あるいは――%K%P
-You could also say――
+You could also say——
 或者说——
 RU PLACEHOLDER
 
@@ -1291,12 +1291,12 @@ I haven't met anyone in SPHIA besides those three.
 RU PLACEHOLDER
 
 それ以外の人間、例えば医師や看護師――スフィアの関係者などはどこでなにをしているのだろう。%K%P
-The other people involved with SPHIA, the doctors and nurses for example――where are they, and what are they doing?
+The other people involved with SPHIA, the doctors and nurses for example——where are they, and what are they doing?
 其他的人，比如医生和护士——ＳＰＨＩＡ的员工，都在哪里做什么呢。
 RU PLACEHOLDER
 
 夢だから『その他の人物』は登場しないのだろうか。%K%P
-Perhaps the 「extra people」 don't appear because it's a dream?
+Perhaps the “extra people” don't appear because it's a dream?
 难道因为是梦，所以“其他的人物”不会出现吗。
 RU PLACEHOLDER
 
@@ -1466,12 +1466,12 @@ I haven't met anyone in SPHIA besides those three.
 RU PLACEHOLDER
 
 それ以外の人間、例えば医師や看護師――スフィアの関係者などはどこでなにをしているのだろう。%K%P
-The other people involved with SPHIA, the doctors and nurses for example――where are they, and what are they doing?
+The other people involved with SPHIA, the doctors and nurses for example——where are they, and what are they doing?
 其他的人，比如医生和护士——ＳＰＨＩＡ的员工，都在哪里做什么呢。
 RU PLACEHOLDER
 
 夢だから『その他の人物』は登場しないのだろうか。%K%P
-Perhaps the 「extra people」 don't appear because it's a dream?
+Perhaps the “extra people” don't appear because it's a dream?
 难道因为是梦，所以“其他的人物”不会出现吗。
 RU PLACEHOLDER
 
@@ -1941,7 +1941,7 @@ A cold, dreary atmosphere enfolds the room.
 RU PLACEHOLDER
 
 穂鳥は――犬伏景子は、この部屋でなにを思って生活しているのだろう。%K%P
-What does Hotori――Inubushi Keiko――think about while living in this room of hers?
+What does Hotori——Inubushi Keiko——think about while living in this room of hers?
 穗鸟——犬伏景子是怀着怎样的心情在这里生活的呢。
 RU PLACEHOLDER
 
@@ -2381,7 +2381,7 @@ Fuu...
 RU PLACEHOLDER
 
 私は内海から『優希堂くんの部屋よ』と言われた部屋に戻り、ひと息ついた。%K%P
-I return to the place which Utsumi has told me is 「Yukidoh-kun's room」 and let out a sigh.
+I return to the place which Utsumi has told me is “Yukidoh-kun's room” and let out a sigh.
 我回到了内海所说的“优希堂的房间”，不禁松了口气。
 RU PLACEHOLDER
 
@@ -2586,7 +2586,7 @@ I had forgotten to confirm how many I'm supposed to take.
 RU PLACEHOLDER
 
 睡眠薬という言葉には、どことなく悪いイメージがなくもない。%K%P
-When thinking of the phrase 「sleeping pills」, I can't help the negative mental image I have of them.
+When thinking of the phrase “sleeping pills”, I can't help the negative mental image I have of them.
 对于安眠药这个词，我总有一些不好的印象。
 RU PLACEHOLDER
 
@@ -2966,7 +2966,7 @@ I remember that scene from before and immediately feel a chill.
 RU PLACEHOLDER
 
 と、いきなり――%K%P
-And then, suddenly――
+And then, suddenly——
 这时，突然——
 RU PLACEHOLDER
 
@@ -2991,7 +2991,7 @@ It's completely dark, and I can't see a thing.
 RU PLACEHOLDER
 
 いったい何が――……！？%K%P
-Just who――...!?
+Just who——...!?
 究竟是……！？
 RU PLACEHOLDER
 
@@ -3251,7 +3251,7 @@ I remember that scene from before and immediately feel a chill.
 RU PLACEHOLDER
 
 と、いきなり――%K%P
-And then, suddenly――
+And then, suddenly——
 这时，突然——
 RU PLACEHOLDER
 
@@ -3291,7 +3291,7 @@ I turn and face the direction of the person's presence.
 RU PLACEHOLDER
 
 誰かが私の目の前にいる――！%K%P
-Someone's in front of me――!
+Someone's in front of me——!
 有人站在我眼前——！
 RU PLACEHOLDER
 

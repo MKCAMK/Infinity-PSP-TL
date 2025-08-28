@@ -269,7 +269,7 @@ CN PLACEHOLDER
 Я зову её, пока наугад брожу по коридорам.
 
 『はぁ〜い、ここよぉ〜♪』%K%P
-「Choooowww tiiiimmmme!」
+“Choooowww tiiiimmmme!”
 CN PLACEHOLDER
 "Поооорааа куууушаааать!"
 
@@ -299,7 +299,7 @@ CN PLACEHOLDER
 Что ты здесь делаешь?
 
 『ＨＩＭＭＥＬ』と書かれた扉――%K%P
-「HIMMEL」 was written on the door...
+“HIMMEL” was written on the door...
 CN PLACEHOLDER
 На двери написано 'ХИММЕЛ'.
 
@@ -704,7 +704,7 @@ CN PLACEHOLDER
 Я взял мусор, положил на поднос и быстро проследовал за Цугуми.
 
 ――制御室の前。%K%P
-―In front of the control room.
+—In front of the control room.
 CN PLACEHOLDER
 - Перед Центром Управления.
 
@@ -814,7 +814,7 @@ CN PLACEHOLDER
 Я упёрся в конец коридора.
 
 『ＨＩＭＭＥＬ』と書かれた扉――%K%P
-「HIMMEL」 was written on the door...
+“HIMMEL” was written on the door...
 CN PLACEHOLDER
 На двери написано 'ХИММЕЛ'.
 
@@ -1404,27 +1404,27 @@ CN PLACEHOLDER
 Три человека и пёс - я, Цугуми, Коко и Пипи - разделились, как только добрались до Цвайте шток.
 
 ――中性浮力式エレベーターの搭乗口。%K%P
-―The entrance to the neutral buoyancy elevator.
+—The entrance to the neutral buoyancy elevator.
 CN PLACEHOLDER
 - У входа в механический плавучий лифт.
 
 ――救護室の中。%K%P
-―Inside the infirmary.
+—Inside the infirmary.
 CN PLACEHOLDER
 - Внутри лазарета.
 
 ――更衣室。%K%P
-―The changing room.
+—The changing room.
 CN PLACEHOLDER
 - В раздевалке.
 
 ――警備室。%K%P
-―The security office.
+—The security office.
 CN PLACEHOLDER
 - В Офисе Охраны.
 
 ――メリーゴーランド。%K%P
-―The merry-go-round.
+—The merry-go-round.
 CN PLACEHOLDER
 - У карусели.
 
@@ -2034,7 +2034,7 @@ CN PLACEHOLDER
 Эти слова шокировали меня. Даже сердце ёкнуло.
 
 『あなたのことが……どうしても……必要なの……』%K%P
-「I really... need... you...」
+“I really... need... you...”
 CN PLACEHOLDER
 'Ты...нужен...мне...'
 

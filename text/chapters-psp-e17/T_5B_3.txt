@@ -589,7 +589,7 @@ CN PLACEHOLDER
 Личные данные сотрудников - не исключение.
 
 優「そのプロテクトを解く為の鍵……レミのセキュリティロックを外せる、緊急用の最終パスワード――それを、探してるのよ」%K%P
-And so I'm hunting for the key to unlock that protection―an emergency override.
+And so I'm hunting for the key to unlock that protection—an emergency override.
 CN PLACEHOLDER
 Потому я охочусь за ключиком, что снимет эту хренову защиту...сбросит её в дефолтные настройки.
 
@@ -1129,7 +1129,7 @@ CN PLACEHOLDER
 Не важно, раздавит ли LeMU или нет, с ней всё будет в порядке...
 
 『そうだ、倉成さん。ここから脱出できたら、まず何がしたいですか？』%K%P
-「Tell me, Kuranari-san, after you escape from here, what's the first thing you want to do?」
+“Tell me, Kuranari-san, after you escape from here, what's the first thing you want to do?”
 CN PLACEHOLDER
 "Кстати, Куранари-сан...а что ты будешь делать, когда выберешься отсюда?"
 
@@ -1144,12 +1144,12 @@ CN PLACEHOLDER
 Неужели её слова были лишь хрупкой попыткой изобразить сострадание?
 
 『人が生きるということに、改めて触れている気がしているんです』%K%P
-「I feel like I've gained a new perspective on human life.」
+“I feel like I've gained a new perspective on human life.”
 CN PLACEHOLDER
 "Мне кажется, я смогла взглянуть на человеческую жизнь под новым ракурсом."
 
 『みんな、明日を信じて、生きてるんですよね……』%K%P
-「Come on, everybody! Believe in tomorrow so you can live today...」
+“Come on, everybody! Believe in tomorrow so you can live today...”
 CN PLACEHOLDER
 "...люди верят в завтрашний день, чтобы прожить сегодняшний..."
 

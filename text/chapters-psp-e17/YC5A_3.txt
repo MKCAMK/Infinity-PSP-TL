@@ -144,12 +144,12 @@ CN PLACEHOLDER
 Сбежать из этой стены......
 
 壁面から顔を出したとき――%K%P
-When I pushed my face out through the wall―
+When I pushed my face out through the wall—
 CN PLACEHOLDER
 Я просунул своё лицо сквозь стену и--
 
 ――ぼくはこつ然と目覚めた。%K%P
-―I woke up.
+—I woke up.
 CN PLACEHOLDER
 --проснулся.
 
@@ -264,7 +264,7 @@ CN PLACEHOLDER
 Гхх---! Что ты делаешь---?!
 
 ――パシンッ！%K%P
-―Smack!
+—Smack!
 CN PLACEHOLDER
 --Шлёп!
 
@@ -374,7 +374,7 @@ CN PLACEHOLDER
 Глянец её кожи.
 
 ――傷跡。%K%P
-―The scar.
+—The scar.
 CN PLACEHOLDER
 ...и шрам.
 
@@ -489,7 +489,7 @@ CN PLACEHOLDER
 Я никогда не буду старше семнадцати.
 
 『キュレイウイルス』%K%N
-「The Curé virus」
+“The Curé virus”
 CN PLACEHOLDER
 'Вирус Curé.'
 
@@ -504,7 +504,7 @@ CN PLACEHOLDER
 Как и большинство ретро-вирусов, вирус Curé не передаётся от особи одного вида к особи другого вида.
 
 一般的に『キュレイウイルス』と言った場合には、それは、ヒトにしか感染しない『ヒト・キュレイウイルス』のことを指している。%K%N
-When people simply say 「the Curé virus」, they're actually referring to the human version of the virus.
+When people simply say “the Curé virus”, they're actually referring to the human version of the virus.
 CN PLACEHOLDER
 Когда люди говорят 'Вирус Curé', то имеют в виду человеческую версию вируса.
 
@@ -544,22 +544,22 @@ CN PLACEHOLDER
 Обычно, когда в теле появляются раковые клетки...
 
 人間の染色体の、第１７番目に存在する『ｐ５３』の働きによって、撃退されることがわかっている。%K%O
-The body repulses them with the 「p53」 function located on the seventeenth chromosome.
+The body repulses them with the “p53” function located on the seventeenth chromosome.
 CN PLACEHOLDER
 Тело отбивает их атаку с помощью гена 'p 53', расположенного в 17-й хромосоме.
 
 『ｐ５３』とは――ある種の酵素やタンパク質を生成し、遺伝子に異常が認められた場合には……%K%N
-「p53」 creates certain enzymes and proteins, and when there has been damage done to a gene...
+“p53” creates certain enzymes and proteins, and when there has been damage done to a gene...
 CN PLACEHOLDER
 'P 53' создаёт определённые ферменты и протеины, а когда происходит повреждение генов...
 
 細胞分裂を止めたり、アポトーシス（細胞の自然死）に導いたり、傷ついたＤＮＡの修復を行なったりする『ガン抑制遺伝子』のこと。%K%N
-It stops replication or causes apoptosis (natural cell death) and works to repair the damaged DNA, thus earning its name 「the anti-cancer gene」.
+It stops replication or causes apoptosis (natural cell death) and works to repair the damaged DNA, thus earning its name “the anti-cancer gene”.
 CN PLACEHOLDER
 Он останавливает деление или вызывает апоптоз (естественную смерть клетки). Также он восстанавливает повреждённую ДНК, за что получил название 'раковый анти-ген'.
 
 キュレイウイルスは、この『ｐ５３』という遺伝子にも変異を起こさせ、不能にしてしまう。%K%O
-The Curé virus mutates this 「p53」 gene as well, rendering it useless.
+The Curé virus mutates this “p53” gene as well, rendering it useless.
 CN PLACEHOLDER
 Но, вирус Curé заставляет этот ген 'p 53' мутировать, делая его бесполезным.
 
@@ -574,7 +574,7 @@ CN PLACEHOLDER
 И, как только весь генетический код перезаписан, носитель, в буквальном смысле, становится особью нового вида.
 
 『新しい種』――ここでは仮に『キュレイ種』と呼ぶことにする。%K%O
-A new species―We'll just call it the 「Curé species」 here.
+A new species—We'll just call it the “Curé species” here.
 CN PLACEHOLDER
 Новый вид...эмм...для краткости, назовём его 'особь Curé'.
 
@@ -604,7 +604,7 @@ CN PLACEHOLDER
 После определённого количества делений, теломер становится столь коротким, что клетка делиться уже не может.
 
 ゆえにテロメアは、細胞分裂の『回数券』などとも呼ばれている。%K%O
-So telomeres are like the 「bus tickets」 of cell division. Once you spend them, they're gone.
+So telomeres are like the “bus tickets” of cell division. Once you spend them, they're gone.
 CN PLACEHOLDER
 Проще говоря, теломеры - это нечто вроде билетов в кинотеатр. Как только они распроданы - мест нет.
 
@@ -614,7 +614,7 @@ CN PLACEHOLDER
 Но, только не в случае с особями Curé.
 
 この新しい生命体は、体内でテロメラーゼという酵素を作り、失ったはずの回数券を何度でも継ぎ足すことができるからだ。%K%N
-This new body produces an enzyme called telomerase, which allows unlimited recycling of the 「bus tickets」 that normally would already have been spent.
+This new body produces an enzyme called telomerase, which allows unlimited recycling of the “bus tickets” that normally would already have been spent.
 CN PLACEHOLDER
 В их телах образуется фермент под названием теломераз, что позволяет бесконечно использовать одни и те же 'входные билеты', что в нормальном организме давно бы уже закончились.
 
@@ -659,12 +659,12 @@ CN PLACEHOLDER
 На самом деле, особи Curé обладают ещё одной характерной особенностью.
 
 それは――『赤外線視力』である。%K%N
-Which is―「infrared vision」.
+Which is—“infrared vision”.
 CN PLACEHOLDER
 'Инфракрасное зрение'.
 
 キュレイ種は、その発生過程において『ｐ５３』の機能を失ってしまった為、紫外線に対して極度に弱い体質を持つ。%K%N
-Because, in its production, it lost the faculties of 「p53」, the Curé species possesses a constitution extremely vulnerable to ultraviolet rays.
+Because, in its production, it lost the faculties of “p53”, the Curé species possesses a constitution extremely vulnerable to ultraviolet rays.
 CN PLACEHOLDER
 Из-за дефективного гена 'p 53', особи Curé имеют повышенную восприимчивость к ультрафиолетовым лучам.
 
@@ -684,7 +684,7 @@ CN PLACEHOLDER
 Но, у особи Curé этого не происходит.
 
 『ｐ５３』以外の遺伝子によって、それを補うような酵素を作ることも可能なのだが、やはり限界があるのだ。%K%O
-It was possible to use another gene to produce an enzyme to perform the same function as 「p53」, but alas, this solution proved to be limited.
+It was possible to use another gene to produce an enzyme to perform the same function as “p53”, but alas, this solution proved to be limited.
 CN PLACEHOLDER
 Конечно, вполне возможно использование другого гена для производства фермента с аналогичными 'p 53' функциями. Но, увы, этого явно недостаточно.
 
@@ -694,7 +694,7 @@ CN PLACEHOLDER
 Из вышесказанного следует, что особи Curé весьма уязвимы перед ультрафиолетовыми лучами, и могут выходить на открытое пространство лишь ночью.
 
 『赤外線視力』は、この欠点を補完する為に備わった遺伝的な形質なのかもしれない。%K%O
-The 「infrared vision」 was developed to make up for this shortcoming.
+The “infrared vision” was developed to make up for this shortcoming.
 CN PLACEHOLDER
 По этой причине, у них развилось инфракрасное зрение.
 
@@ -1174,7 +1174,7 @@ CN PLACEHOLDER
 Я бы и не заметил, если бы не коснулся их своими пальцами.
 
 傷跡――。%K%P
-Scars―
+Scars—
 CN PLACEHOLDER
 Шрамы---
 
@@ -1399,7 +1399,7 @@ CN PLACEHOLDER
 Три......два......один......
 
 ――カチッ。%K%P
-―Click.
+—Click.
 CN PLACEHOLDER
 --Щёлк.
 

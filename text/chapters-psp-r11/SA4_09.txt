@@ -1,10 +1,10 @@
 ﻿悟「信じられない……」%K%P
 I don't believe it...
-悟「难以置信……」
+悟“难以置信……”
 RU PLACEHOLDER
 
 悟「こんなこと……起こりえるはずが――」%K%P
-Something like this... it couldn't possibly――
+Something like this... it couldn't possibly——
 悟「这种事情……根本不可能发——」
 RU PLACEHOLDER
 
@@ -124,12 +124,12 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 榎本「テレポーテーション――物体をそっくりそのまま別の場所に転送させる現象」%K%P
-Teleportation――the ability to transport an object entirely to a different location.
+Teleportation——the ability to transport an object entirely to a different location.
 鼷本「远距传态——是指把物体原原本本地传送到别处的现象」
 RU PLACEHOLDER
 
 榎本「いや、物体を転送というのはちょっと語弊があるな」%K%P
-No, 『transport an object』 isn't quite correct.
+No, ‘transport an object’ isn't quite correct.
 鼷本「不，说是传送物体有点语病」
 RU PLACEHOLDER
 
@@ -169,12 +169,12 @@ It's been proven.
 RU PLACEHOLDER
 
 榎本「量子テレポーテーションの理論的基礎となっているのは『%TS065ＥＰＲ%TEペア』と呼ばれる概念だ」%K%P
-The theoretical basis of quantum teleportation lies in the concept known as an 『%TS065EPR%TE pair』.
+The theoretical basis of quantum teleportation lies in the concept known as an ‘%TS065EPR%TE pair’.
 鼷本「量子远距传态的理论基础，是一个称作“%TS065ＥＰＲ%TE对”的概念」
 RU PLACEHOLDER
 
 榎本「ＥＰＲペアとは、一度の操作で%N%TS068同時に発生させたふたつの粒子%TEに生じる特徴のこと」%K%P
-EPR pairs are born from a simultaneous %N%TS068generation of particle pairs%TE.
+EPR pairs are born from a simultaneous%N%TS068generation of particle pairs%TE.
 鼷本「ＥＰＲ对是指，在一次操作中%TS068孪生粒子%TE所拥有的特征」
 RU PLACEHOLDER
 
@@ -234,7 +234,7 @@ In other words, the transfer of something from one location to another. Thus, bo
 RU PLACEHOLDER
 
 榎本「便宜上、%TS069送信側を『アリス』、受信側を『ボブ』%TEと呼ぶことにしよう」%K%P
-For the sake of convenience, let's call %TS069the sender 『Alice』 and the receiver 『Bob』%TE.
+For the sake of convenience, let's call %TS069the sender ‘Alice’ and the receiver ‘Bob’%TE.
 鼷本「为了方便起见，称呼发信端为“%TS069Ａｌｉｃｅ%TE”，收信端为“Ｂｏｂ”」
 RU PLACEHOLDER
 
@@ -249,7 +249,7 @@ Operating the keyboard, Enomoto pulls up an image on the monitor.
 RU PLACEHOLDER
 
 榎本「まず、ＥＰＲペアの共有――」%K%P
-Firstly, sharing an EPR pair――
+Firstly, sharing an EPR pair——
 鼷本「首先，ＥＰＲ对的共有——」
 RU PLACEHOLDER
 
@@ -259,7 +259,7 @@ Let's share a pair of particles entwined from the EPR pair source, particle B an
 RU PLACEHOLDER
 
 榎本「次に、粒子Ａの受信――」%K%P
-Now, let's introduce particle A――
+Now, let's introduce particle A——
 鼷本「接下来，粒子Ａ的接收——」
 RU PLACEHOLDER
 
@@ -284,7 +284,7 @@ In addition, the timing of Alice receiving particle A must match that of particl
 RU PLACEHOLDER
 
 榎本「次は、%TS073ベル測定%TE――」%K%P
-Next, the %TS073Bell measurement%TE――
+Next, the %TS073Bell measurement%TE——
 鼷本「接下来，%TS073贝尔实验%TE——」
 RU PLACEHOLDER
 
@@ -299,7 +299,7 @@ To put it simply, the process is about measuring the parameters between their re
 RU PLACEHOLDER
 
 榎本「このとき、アリスの得られる情報はベル状態――」%K%P
-So Alice determines their Bell state――
+So Alice determines their Bell state——
 鼷本「此时，Ａｌｉｃｅ所能获得的情报只有贝尔态——」
 RU PLACEHOLDER
 
@@ -324,7 +324,7 @@ Consequently, it could be any of the four.
 RU PLACEHOLDER
 
 榎本「そして、粒子Ａのテレポーテーションが行われる――」%K%P
-Next, particle A is teleported――
+Next, particle A is teleported——
 鼷本「然后，粒子Ａ进行远距传态——」
 RU PLACEHOLDER
 
@@ -339,12 +339,12 @@ At the same time, the half of the EPR pair Bob has partially collapses, and the 
 RU PLACEHOLDER
 
 榎本「ただし、ボブはベル測定の結果をアリスから知らされるまでは、意味のある情報への変換の仕方がわからない」%K%P
-However, until Bob learns of the results of the Bell measurement, he won't be able to recreate the state of the 『sent』 particle.
+However, until Bob learns of the results of the Bell measurement, he won't be able to recreate the state of the ‘sent’ particle.
 鼷本「不过，在Ｂｏｂ从Ａｌｉｃｅ那边得知贝尔实验的结果之前，都不知道怎么把它变换成有意义的信息」
 RU PLACEHOLDER
 
 榎本「その次は、ベル測定の結果の送信だ――」%K%P
-So the next step is to communicate the results of the Bell measurement――
+So the next step is to communicate the results of the Bell measurement——
 鼷本「接下来，贝尔实验结果的发送——」
 RU PLACEHOLDER
 
@@ -354,17 +354,17 @@ Alice sends Bob the results of the measurements she obtained.
 RU PLACEHOLDER
 
 榎本「このときの通信手段は、一般的には電話などの古典通信――光速以下の通信が使われる」%K%P
-The means of communication at this time can be more orthodox, say, a phone call or a letter――a transmission occurring below the speed of light.
+The means of communication at this time can be more orthodox, say, a phone call or a letter——a transmission occurring below the speed of light.
 鼷本「此时所用的通信方法，一般是电话一类的古典通信——即光速以下的通信」
 RU PLACEHOLDER
 
 榎本「最後に、量子情報の変換――」%K%P
-And then, the final step is the transformation of the quantum state――
+And then, the final step is the transformation of the quantum state——
 鼷本「最后，量子信息的变换——」
 RU PLACEHOLDER
 
 榎本「ボブは知らされたベル測定の結果を利用して、粒子Ｃの量子的な情報に%TS074ユニタリ変換%TE――」%K%P
-Using the results of the Bell measurement Bob was informed of, particle C becomes quantum information through a %TS074unitary transformation%TE――
+Using the results of the Bell measurement Bob was informed of, particle C becomes quantum information through a %TS074unitary transformation%TE——
 鼷本「Ｂｏｂ利用刚得知的贝尔实验结果，对粒子Ｃ的量子信息进行%TS074幺正变换%TE——」
 RU PLACEHOLDER
 
@@ -414,13 +414,13 @@ Many thought it could only be used to transfer minute particles such as photons 
 RU PLACEHOLDER
 
 榎本「だが、私の属している『%TS075企業%TE』によって開発された技術がそれを可能にした」%K%P
-However, the technology developed by the %N『%TS075corporation%TE』 I belong to has made it possible.
+However, the technology developed by the%N‘%TS075corporation%TE’ I belong to has made it possible.
 //added %N per Raide's request - Sheeta
 鼷本「但是，余所属的“%TS075企业%TE”所开发的技术却使这成为了可能」
 RU PLACEHOLDER
 
 榎本「微粒子に分解された原子の状態――人間や物体の量子情報を転送するのだ」%K%P
-What we transfer is the state of the atoms disassembled――the quantum information of humans and objects.
+What we transfer is the state of the atoms disassembled——the quantum information of humans and objects.
 鼷本「先分解为微粒子，再把原子的状态——人类和宏观物体的量子信息传送过去」
 RU PLACEHOLDER
 
@@ -540,7 +540,7 @@ It's the same as what I stated before.
 RU PLACEHOLDER
 
 榎本「時空間転移装置――そう私は呼んでいる」%K%P
-The space-time transfer device――that's what I'll call it.
+The space-time transfer device——that's what I'll call it.
 鼷本「时空间转移装置——余是这么称呼的」
 RU PLACEHOLDER
 
@@ -560,7 +560,7 @@ Enough with the technical explanation!
 RU PLACEHOLDER
 
 悟「オレが訊きたいのはそんなことでなく――」%K%P
-That wasn't what I wanted to ask about, it's――
+That wasn't what I wanted to ask about, it's——
 悟「我想问的不是这个——」
 RU PLACEHOLDER
 
@@ -640,7 +640,7 @@ This figure represents time and space as a two-dimensional diagram.
 RU PLACEHOLDER
 
 榎本「Ｙ軸を時間、Ｘ軸を空間――緯度を示している」%K%P
-The Y axis represents time, and the X axis represents space――specifically, the latitude of each location.
+The Y axis represents time, and the X axis represents space——specifically, the latitude of each location.
 鼷本「Ｙ轴表示时间，Ｘ轴表示空间——也就是纬度」
 RU PLACEHOLDER
 
@@ -785,7 +785,7 @@ A smirk forms on Enomoto's face.
 RU PLACEHOLDER
 
 そうだ、と言わんばかりに榎本はキーボードを操作し、画面を切り替えた。%K%P
-As if to say 「that's right」, he begins typing on his keyboard, changing the image.
+As if to say “that's right”, he begins typing on his keyboard, changing the image.
 “正是如此”，就像要这么说似的，鼷本操作起键盘，换了另一幅图像。
 RU PLACEHOLDER
 
@@ -800,7 +800,7 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 榎本「これで理論上は――いや、事実上と言ってもいいかな――ふたつの地点は同じ時間軸上に存在することになった」%K%P
-According to this theory――no, you can see how it's a matter of fact――the two points can exist on the same time axis.
+According to this theory——no, you can see how it's a matter of fact——the two points can exist on the same time axis.
 鼷本「如此一来，在理论上——不，事实上也可以这么说——两个地点就存在于同一时间轴上了」
 RU PLACEHOLDER
 
@@ -930,7 +930,7 @@ Inside the box in the middle is the origin of the EPR pair... where the particle
 RU PLACEHOLDER
 
 榎本「そして、その両側にある箱がアリスとボブ――送信側と受信側だ」%K%P
-And those two boxes at either side represent Alice and Bob――the sender and the receiver.
+And those two boxes at either side represent Alice and Bob——the sender and the receiver.
 鼷本「然后，这两边的盒子就是Ａｌｉｃｅ和Ｂｏｂ——即发信端和收信端」
 RU PLACEHOLDER
 
@@ -990,7 +990,7 @@ Conversely, Bob is the Aosagi Island of 2012, and the black saucer is Aosagi Isl
 RU PLACEHOLDER
 
 榎本「黒いカップはきみ――優希堂悟、を示している」%K%P
-The black cup will be you――Yukidoh Satoru.
+The black cup will be you——Yukidoh Satoru.
 鼷本「黑色杯子代表你——优希堂悟」
 RU PLACEHOLDER
 
@@ -1214,7 +1214,7 @@ How is it?
 RU PLACEHOLDER
 
 悟「ボブの方――つまりブラックの方が断然美味い」%K%P
-The Bob one――in other words, the one that's black, is distinctively better.
+The Bob one——in other words, the one that's black, is distinctively better.
 悟「明显是Ｂｏｂ——黑咖啡那边的好喝」
 RU PLACEHOLDER
 
@@ -1224,7 +1224,7 @@ I answer, returning the cups to their places.
 RU PLACEHOLDER
 
 悟「アリスの方――つまりミルク入りの方が断然美味い」%K%P
-The Alice one――in other words, the one with milk, is distinctively better.
+The Alice one——in other words, the one with milk, is distinctively better.
 悟「明显是Ａｌｉｃｅ——白咖啡那边的好喝」
 RU PLACEHOLDER
 
@@ -1294,7 +1294,7 @@ Any moment now.
 RU PLACEHOLDER
 
 そのとき――アリスに変化が起きた。%K%P
-And at that very moment――Alice transforms.
+And at that very moment——Alice transforms.
 这时——Ａｌｉｃｅ发生了变化。
 RU PLACEHOLDER
 
@@ -1319,7 +1319,7 @@ Then the coffee inside Alice is...
 RU PLACEHOLDER
 
 榎本「そう。未来――今から１分後のボブのコーヒーの情報が、アリス――過去へと転移したのだ」%K%P
-Exactly. The future――the information of Bob's cup from one minute in the future――has transferred to Alice's in the past.
+Exactly. The future——the information of Bob's cup from one minute in the future——has transferred to Alice's in the past.
 鼷本「没错。未来——也就是一分钟后Ｂｏｂ中咖啡的情报，转移到了Ａｌｉｃｅ这里——也就是过去」
 RU PLACEHOLDER
 
@@ -1334,7 +1334,7 @@ And, in just one more minute...
 RU PLACEHOLDER
 
 ――１分経過。%K%P
-――Another minute passes.
+——Another minute passes.
 ——过了一分钟
 RU PLACEHOLDER
 
@@ -1354,7 +1354,7 @@ The cup and saucer go from black to white. Now there's milk in the coffee.
 RU PLACEHOLDER
 
 悟「過去――今から１分前のアリスのコーヒーの情報が、ボブ――未来へと転移してきた……」%K%P
-The past――the information of Alice's cup from one minute in the past――has transferred to Bob's in the future...
+The past——the information of Alice's cup from one minute in the past——has transferred to Bob's in the future...
 悟「过去——也就是一分钟前Ａｌｉｃｅ中咖啡的情报，转移到了Ｂｏｂ——也就是未来……」
 RU PLACEHOLDER
 
@@ -1369,7 +1369,7 @@ This is...
 RU PLACEHOLDER
 
 榎本「転移――量子テレポーテーションだ」%K%P
-A transfer――quantum teleportation.
+A transfer——quantum teleportation.
 鼷本「转移——量子远距传态」
 RU PLACEHOLDER
 
@@ -1404,12 +1404,12 @@ How is it now?
 RU PLACEHOLDER
 
 ボブの方――つまりミルク入りの方が……美味かった。%K%P
-Bob's――in other words, the coffee with milk in it... is really good.
+Bob's——in other words, the coffee with milk in it... is really good.
 Ｂｏｂ——就是白咖啡那边……比较好喝。
 RU PLACEHOLDER
 
 アリスの方――つまりブラックの方が……美味かった。%K%P
-Alice's――in other words, the black coffee... is really good.
+Alice's——in other words, the black coffee... is really good.
 Ａｌｉｃｅ——就是黑咖啡那边……比较好喝。
 RU PLACEHOLDER
 
@@ -1469,7 +1469,7 @@ What does that even mean...?
 RU PLACEHOLDER
 
 榎本「わからないかね？　コーヒーとカップという『物質』は入れ替わったのに、美味さという『概念』はその場に残留している」%K%P
-You don't understand, do you? Even though the 『material』 of the coffee and cup has changed, the 『concept』 of its deliciousness remains.
+You don't understand, do you? Even though the ‘material’ of the coffee and cup has changed, the ‘concept’ of its deliciousness remains.
 鼷本「不明白吗？明明咖啡和杯子这些“物质”全都替换了，好喝这个“概念”却残留在原处」
 RU PLACEHOLDER
 
@@ -1499,7 +1499,7 @@ Even if your bodies and surroundings change places, your consciousnesses remain 
 RU PLACEHOLDER
 
 榎本「――以上、実証終了」%K%P
-――Here ends the demonstration.
+——Here ends the demonstration.
 鼷本「——以上，实证完毕」
 RU PLACEHOLDER
 

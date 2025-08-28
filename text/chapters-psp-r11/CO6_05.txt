@@ -1,6 +1,6 @@
 ﻿こころ「それって……前に聞いた時、壊れてたヤツ？」%K%P
 Didn't you say... that the radio was broken?
-心「那个……上次听的时候不是坏了吗？」
+心“那个……上次听的时候不是坏了吗？”
 RU PLACEHOLDER
 
 ゆに「あの時は濡れてただけだよ」%K%P
@@ -493,12 +493,12 @@ RU PLACEHOLDER
 %N
 
 「そう、記念だよ」%K%N
-「Yes, a memento.」
+“Yes, a memento.”
 「作为纪念」
 RU PLACEHOLDER
 
 「こころんと出逢ったことを、忘れないようにするための……」%K%P
-「So that I don't ever forget that I met Kokoron...」
+“So that I don't ever forget that I met Kokoron...”
 「纪念和心的相遇，永远不会忘记……」
 RU PLACEHOLDER
 
@@ -528,7 +528,7 @@ Yuni... You...
 RU PLACEHOLDER
 
 ――Ｗｈｏ　ａｒｅ　ｙｏｕ？%K%P
-――Ｗｈｏ　ａｒｅ　ｙｏｕ？
+——Ｗｈｏ　ａｒｅ　ｙｏｕ？
 ——Ｗｈｏ　ａｒｅ　ｙｏｕ？
 RU PLACEHOLDER
 
@@ -558,7 +558,7 @@ Hey, what's wrong...?
 RU PLACEHOLDER
 
 その刹那――%K%P
-At that instant――
+At that instant——
 就在那个时候——
 RU PLACEHOLDER
 
@@ -668,7 +668,7 @@ Hearing my desperate appeal, Yuni slowly turns his head toward me.
 RU PLACEHOLDER
 
 猛吹雪の中でゆには――%K%P
-And in the furious storm, Yuni――
+And in the furious storm, Yuni——
 在肆虐的风雪中悠尼——
 RU PLACEHOLDER
 
@@ -708,7 +708,7 @@ RU PLACEHOLDER
 RU PLACEHOLDER
 
 ゆに「うしろのしょーめんだーれ？」%K%P
-Who's that behi――ind you?
+Who's that behi——ind you?
 悠尼「猜猜身后是何人」
 RU PLACEHOLDER
 
@@ -1003,7 +1003,7 @@ Before long, I fall asleep.
 RU PLACEHOLDER
 
 生まれたての子どものような、深い、深い眠りに――――%K%P
-Like that of a newborn baby, a deep, deep sleep――――
+Like that of a newborn baby, a deep, deep sleep————
 像是初生婴儿经历的、深深的、深深的睡眠————
 RU PLACEHOLDER
 

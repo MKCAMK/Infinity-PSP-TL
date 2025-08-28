@@ -9,7 +9,7 @@ CN PLACEHOLDER
 Я взглянул на счётчик биосканера.
 
 実体を持たない空は生体反応には検出されないはずだから、この数字『５』は、閉じ込められたぼくらの人数と一致している。%K%P
-Not being human, Sora wouldn't register on the bio scan, so the number 「five」 matched with the number of us that we knew to be stuck in LeMU.
+Not being human, Sora wouldn't register on the bio scan, so the number “five” matched with the number of us that we knew to be stuck in LeMU.
 CN PLACEHOLDER
 Сора не человек, а потому не регистрируется биосканером. Значит, число 'пять' совпадает с количеством людей, застрявших в LeMU.
 
@@ -84,7 +84,7 @@ CN PLACEHOLDER
 Ю ввела пароль.
 
 『アクセス不可／名前またはパスワードが違います』%K%P
-「Access denied. Invalid name or password.」
+“Access denied. Invalid name or password.”
 CN PLACEHOLDER
 'В доступе отказано. Некорректное имя или пароль.'
 
@@ -114,7 +114,7 @@ CN PLACEHOLDER
 Ю перевела курсор в поле имя.
 
 そこには、『田中ゆきえ』と入力されている。%K%P
-It read 「Tanaka Yukie」.
+It read “Tanaka Yukie”.
 CN PLACEHOLDER
 Там написано 'Юки Танака'.
 
@@ -654,7 +654,7 @@ CN PLACEHOLDER
 ...Но...
 
 （『秋』という名前の『春』があっても、いいんじゃないのか？）%K%P
-(I thought that if a name had autumn, or 「aki」, in it, there might as well be one with spring, or 「haru」, in it.)
+(I thought that if a name had autumn, or “aki”, in it, there might as well be one with spring, or “haru”, in it.)
 CN PLACEHOLDER
 (Если в имени есть время года...осень, 'аки'... ложь - истина...значит там вполне может быть и её противоположность...весна...'хару'.)
 
@@ -789,9 +789,9 @@ CN PLACEHOLDER
 Я не твоя...мама...
 
 優「――！！」%K%P
-―!
+—!
 CN PLACEHOLDER
-―!!
+—!!
 
 優「ひどい……ひどいよ……」%K%P
 You are... terrible...
@@ -864,7 +864,7 @@ CN PLACEHOLDER
 Здесь? Где здесь? Где ты?
 
 女「インゼル・ヌル――浮島の上にいます」%K%P
-I am on Insel Null―the floating island.
+I am on Insel Null—the floating island.
 CN PLACEHOLDER
 Инсель нуль...плавучий остров.
 
@@ -879,12 +879,12 @@ CN PLACEHOLDER
 Мне...больно...
 
 ――画面上から、その女性が消えた。%K%P
-―The woman vanished from the screen.
+—The woman vanished from the screen.
 CN PLACEHOLDER
 Девушка исчезла с экрана.
 
 ――続いて男性が姿を現す。%K%P
-―Then a man appeared.
+—Then a man appeared.
 CN PLACEHOLDER
 Затем появился мужчина в очках.
 
@@ -894,7 +894,7 @@ CN PLACEHOLDER
 Мы собираемся запустить вентиляционный насос на плавучем острове и откачать воду из лестничного пролёта в центральной зоне и ведущего к нему спасательного коридора.
 
 男「予想排水完了時刻は２１：３０――今から３時間後だ」%K%P
-The estimated time of completion is 9:30 p.m.―three hours from now.
+The estimated time of completion is 9:30 p.m.—three hours from now.
 CN PLACEHOLDER
 Расчётное время завершения операции - 9:30 вечера, через три часа.
 
@@ -979,7 +979,7 @@ CN PLACEHOLDER
 Конечно, я тоже сначала так думал.
 
 『今頃になって、なぜ……？』と。%K%O
-My skeptical mind wanted to ask, 「Why now...?」
+My skeptical mind wanted to ask, “Why now...?”
 CN PLACEHOLDER
 Скептическая часть моего разума так и рвалась спросить 'Почему сейчас...?'.
 

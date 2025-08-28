@@ -54,12 +54,12 @@ I...
 RU PLACEHOLDER
 
 『冬川こころじゃない』と告げる
-Tell her 「I'm not Fuyukawa Kokoro」
+Tell her “I'm not Fuyukawa Kokoro”
 告诉她“我不是冬川心”
 RU PLACEHOLDER
 
 『おはよう』と答える
-Answer 「Good morning」
+Answer “Good morning”
 回答“早上好”
 RU PLACEHOLDER
 
@@ -364,7 +364,7 @@ That's why I thought I'd have you decide for me, Yukidoh-kun.
 RU PLACEHOLDER
 
 内海「あなたが『朝食風』って答えてくれたら、私のせいじゃなくなるでしょう？」%K%P
-If you'd answered 『breakfast style』, it would've been out of my hands, right?
+If you'd answered ‘breakfast style’, it would've been out of my hands, right?
 内海「如果你回答“早餐”的话，就没有我的责任了吧？」
 RU PLACEHOLDER
 
@@ -815,7 +815,7 @@ It immediately pops into my head.
 RU PLACEHOLDER
 
 悟「それって……『ゼグタミン』とかいう薬のことか？」%K%P
-You mean... that 『Zegtamin』 medicine?
+You mean... that ‘Zegtamin’ medicine?
 悟「是那个……叫做“Ｚｅｇｔａｍｉｎ”的药吗？」
 RU PLACEHOLDER
 
@@ -1027,7 +1027,7 @@ She was in her room.
 RU PLACEHOLDER
 
 内海「もっとも、あのときの彼女は『犬伏景子』ではなく『涼蔭穂鳥』だったみたいだけど……」%K%P
-However, at that time, she appeared to be 『Suzukage Hotori』 rather than 『Inubushi Keiko』...
+However, at that time, she appeared to be ‘Suzukage Hotori’ rather than ‘Inubushi Keiko’...
 内海「不过，那时她不是“犬伏景子”而是“凉荫穗鸟”……」
 RU PLACEHOLDER
 
@@ -1047,7 +1047,7 @@ For a moment, what she says bothers me.
 RU PLACEHOLDER
 
 内海までもが犬伏のことを穂鳥と呼び始めている。%K%P
-Even Utsumi has begun to call Inubushi 「Hotori」 instead.
+Even Utsumi has begun to call Inubushi “Hotori” instead.
 内海也开始称呼犬伏为穗鸟了。
 RU PLACEHOLDER
 

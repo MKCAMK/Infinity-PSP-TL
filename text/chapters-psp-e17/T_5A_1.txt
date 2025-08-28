@@ -349,7 +349,7 @@ CN PLACEHOLDER
 Я попытал счастья у терминала, но...
 
 画面には『定期メンテナンス中』のメッセージが表示された。%K%P
-The screen read 「Periodic Maintenance in Progress.」
+The screen read “Periodic Maintenance in Progress.”
 CN PLACEHOLDER
 На экране отобразилось 'Проведение планового обслуживания... выполняется'.
 
@@ -359,69 +359,69 @@ CN PLACEHOLDER
 А чуть ниже...
 
 『ＬｅＭＭＩＨ：全システム定期メンテナンスプログラムが作動しています』%K%P
-「LeMMIH: Full system periodic maintenance program in operation.」
+“LeMMIH: Full system periodic maintenance program in operation.”
 CN PLACEHOLDER
 'ЛеММИХ: Выполняется программа полной плановой диагностики системы.'
 
 『終了するまでは、レミの一部機能の呼び出しができません』%K%P
-「Until completion, portions of LeMMIH functions are inaccessible.」
+“Until completion, portions of LeMMIH functions are inaccessible.”
 CN PLACEHOLDER
 'До момента её завершения часть функций системы ЛеММИХ недоступны.'
 
 『メンテナンス終了時刻は、午前６時を予定しています』%K%P
-「Estimated completion time: 6 a.m.」
+“Estimated completion time: 6 a.m.”
 CN PLACEHOLDER
 'Расчётное время завершения: 6 утра.'
 
 『その間、全館の自動管制システムは半休止していますが、各施設・アトラクション等の使用は通常どおり可能です』%K%P
-「While under maintenance, automatic control systems throughout the compound will be partially offline. However, facilities and attractions will operate normally.」
+“While under maintenance, automatic control systems throughout the compound will be partially offline. However, facilities and attractions will operate normally.”
 CN PLACEHOLDER
 'Во время диагностики система автоматизированного контроля сооружения будет работать лишь частично. Тем не менее, аттракционы и санузлы будут функционировать нормально.'
 
 『しかし各種センサー、状態記録システムはメンテナンス中に動作状態チェックを行う為、正常に機能していません』%K%P
-「Note: Since all sensors and recording systems operations will be checked during maintenance, function may be erratic.」
+“Note: Since all sensors and recording systems operations will be checked during maintenance, function may be erratic.”
 CN PLACEHOLDER
 'Заметка: поскольку все сенсоры и системы слежения также подвергнутся проверке, они могут функционировать с перебоями.'
 
 『よって端末からのデータ参照は、現在不可能となっています』%K%P
-「Therefore, it will not be possible to access data through the terminals.」
+“Therefore, it will not be possible to access data through the terminals.”
 CN PLACEHOLDER
 'Следовательно, терминалы, как источник данных, также будут недоступны.'
 
 『緊急時に限りメンテナンスを強制中断することはできますが、その後のレミの状態が不安定になってしまう危険があり……』%K%P
-「WARNING: This maintenance program should not be aborted except in cases of emergency. If aborted, there is the danger of making the LeMMIH system unstable...」
+“WARNING: This maintenance program should not be aborted except in cases of emergency. If aborted, there is the danger of making the LeMMIH system unstable...”
 CN PLACEHOLDER
 'ВНИМАНИЕ: Программу диагностики нельзя отменить, за исключением экстренных случаев. При отмене есть реальный риск вызвать нестабильную работу системы ЛеММИХ...'
 
 『……ですので、どうかメンテナンス終了まではレミへのアクセスを控えてください』%K%P
-「...Therefore, please refrain from accessing LeMMIH until after maintenance completion.」
+“...Therefore, please refrain from accessing LeMMIH until after maintenance completion.”
 CN PLACEHOLDER
 '...По этой причине, пожалуйста воздержитесь от работы с ней до завершения процедуры.'
 
 『以上、宜しくお願いします』%K%P
-「Thank you for your cooperation.」
+“Thank you for your cooperation.”
 CN PLACEHOLDER
 'Спасибо за сотрудничество.'
 
 『追伸：――』%K%P
-「Additional note:」
+“Additional note:”
 CN PLACEHOLDER
 'Дополнительная заметка:'
 
 『メンテ終了まで、私も現れることができません。皆さん同様、夜の間眠っていることになりますね』%K%P
-「Until the maintenance completes, I will be unavailable. Everybody should be asleep at this time anyway, right?」
+“Until the maintenance completes, I will be unavailable. Everybody should be asleep at this time anyway, right?”
 CN PLACEHOLDER
 'До завершения процедуры меня не будет. Правда, в это время ребята должны спать, не так ли?'
 
 『夕食のときに皆さんにお伝えしたはずですが、もしお忘れになっている方がいらっしゃるといけないので……』%K%P
-「I informed everyone about this operation at dinnertime, but in case any of you forgot what I said, I am leaving this message...」
+“I informed everyone about this operation at dinnertime, but in case any of you forgot what I said, I am leaving this message...”
 CN PLACEHOLDER
 'Я предупредила всех об этой процедуре за ужином, однако на случай если кто-нибудь из вас пропустил мои слова мимо ушей, я оставила это сообщение...'
 
 『それでは、おやすみなさい。――茜ヶ崎空』%K%P
-「That is all, good night.―Akanegasaki Sora」
+“That is all, good night.—Akanegasaki Sora”
 CN PLACEHOLDER
-'Ладушки, спокойной всем ночи. ― Сора'
+'Ладушки, спокойной всем ночи. — Сора'
 
 （はあぁ……）%K%P
 (Well, how about that?)
@@ -976,7 +976,7 @@ CN PLACEHOLDER
 つぐみ「ふっ」%K%P
 Yeah right...
 CN PLACEHOLDER
-Кха〜ха...ха〜ха〜хах...」%K%PЦугуми「Ха〜ха...
+Кха〜ха...ха〜ха〜хах...»%K%PЦугуми«Ха〜ха...
 
 ふと、つぐみの表情が緩む。%K%P
 But then, suddenly, Tsugumi's expression lost its tension.
@@ -1609,12 +1609,12 @@ CN PLACEHOLDER
 В этом сомнений нет.
 
 アルバムに載っている赤ん坊の俺も、小学校の運動会で走っている俺も、そして、ここにいる俺も……同じ『倉成武』という個体である。%K%O
-The 「me」 as a baby in the photo album, the 「me」 running around in elementary school, and finally, the 「me」 sitting there... they were all the same organism called 「Kuranari Takeshi」.
+The “me” as a baby in the photo album, the “me” running around in elementary school, and finally, the “me” sitting there... they were all the same organism called “Kuranari Takeshi”.
 CN PLACEHOLDER
 'Я', что ребёнок в фотоальбоме; 'я', валяющий дурака в началке; и, наконец, 'я', что едет в этой гондоле...все они - один и тот же организм по имени 'Такеши Куранари'.
 
 しかし、その実体はどこに存在するのか？%T030%K%N
-So where exactly did the entity called 「me」 exist?
+So where exactly did the entity called “me” exist?
 CN PLACEHOLDER
 Тогда...где же обитель сущности, именуемой 'я'?
 
@@ -1639,7 +1639,7 @@ CN PLACEHOLDER
 А что если я существую лишь в собственных воспоминаниях?
 
 ならば、あの少年のように記憶を一切失ってしまったら、それはもう、倉成武ではないのだろうか？%T030%K%N
-But if that were the truth, then if I lost my memory like the Kid, wouldn't that mean I was no longer 「Kuranari Takeshi」?
+But if that were the truth, then if I lost my memory like the Kid, wouldn't that mean I was no longer “Kuranari Takeshi”?
 CN PLACEHOLDER
 Но, если так...значит, если я потеряю память, как потерял её Кид... я больше не буду 'Такеши Куранари'?
 
@@ -1654,12 +1654,12 @@ CN PLACEHOLDER
 Всё это не более, чем функции органа под названием мозг.
 
 そもそも、ここにいる俺は、小学校の運動会で走っていた俺とは別の分子によって構成されている。%T030%K%N
-For one thing, the 「me」 that ran around in elementary school was composed of different molecules than the 「me」 there.
+For one thing, the “me” that ran around in elementary school was composed of different molecules than the “me” there.
 CN PLACEHOLDER
 Прежде всего, 'я' из началки состоял совсем из других молекул, чем 'я', что находится здесь.
 
 あのときの俺と、今の俺は、物質的側面から見れば、別人だ。%T030%K%N
-From a purely material point of view, my younger 「me」 was entirely different than my older 「me」.
+From a purely material point of view, my younger “me” was entirely different than my older “me”.
 CN PLACEHOLDER
 С точки зрения материи, молодой 'я' полностью отличался от 'меня' нынешнего.
 
@@ -1689,22 +1689,22 @@ CN PLACEHOLDER
 Вот только человеческое тело - другая песня.
 
 ５年前の俺の細胞と、今の俺の細胞は、別のものだ。%K%O
-The cells of 「me」 five years ago were not the same as the cells of 「me」 then.
+The cells of “me” five years ago were not the same as the cells of “me” then.
 CN PLACEHOLDER
 Клетки 'меня' пятилетней давности отнюдь не те же, что сейчас.
 
 だが、５年前の俺という存在と、今の俺という存在は、確実に同じものである。%T030%K%N
-Even so, the 「me」 of five years before and the 「me」 then were definitely the same.
+Even so, the “me” of five years before and the “me” then were definitely the same.
 CN PLACEHOLDER
 Однако, 'я' пятилетней давности и сегодняшний 'я' определённо один и тот же человек.
 
 では、その『俺』とはいったいなんなのか？%T030%K%N
-Then just what was it that defined 「me」?
+Then just what was it that defined “me”?
 CN PLACEHOLDER
 Если так, то...что значит 'я'?
 
 『俺』の実体は、どこにあるというのか……？%K%O
-And where did that 「me」 exist...?
+And where did that “me” exist...?
 CN PLACEHOLDER
 И где этот 'я' существует...?
 
@@ -1954,12 +1954,12 @@ CN PLACEHOLDER
 .........
 
 『免疫機能並びに代謝効率は著しく能力向上し』%K%P
-「Highly improved immune system and increased metabolic efficiency」.
+“Highly improved immune system and increased metabolic efficiency”.
 CN PLACEHOLDER
 "'Имунная система и уровень обмена веществ значительно улучшились'."
 
 『テロメアは回復し続ける』%K%P
-「Telomeres that continue to rejuvenate」.
+“Telomeres that continue to rejuvenate”.
 CN PLACEHOLDER
 "'Теломеры стали самовоспроизводиться'."
 
@@ -1994,7 +1994,7 @@ CN PLACEHOLDER
 Но, неужели такое действительно возможно?
 
 老いて死なずにいられるなどということが、あるだろうか？%K%P
-The concept of never growing old, never dying―was it possible?
+The concept of never growing old, never dying—was it possible?
 CN PLACEHOLDER
 Никогда не стареть, жить вечно - это возможно?
 

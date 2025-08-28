@@ -3,6 +3,19 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Replace the full-width left parenthesis with the left double quotation mark
+;; in code that separates nametags from text.
+.org 0x0881B1A8
+.area 4*1
+	li	v0,0x67
+.endarea
+
+.org 0x0881BC24
+.area 4*1
+	li	v0,0x67
+.endarea
+
+
 ;; This set of hacks will make the game use custom, wider
 ;; variants of nametag boxes if the name is too long to fit into the
 ;; original ones.
@@ -609,7 +622,7 @@ C: adjust the memory location at which the container with graphics for the text 
 ; if t0 (textbox variant) is 1 (kokoro) or 2 (satoru) and the width of the name (a3) exceeds @MAX_NAMETAG_STANDARD_WIDTH,
 ; will use custom nametags, as defined in textbox entries 5 and 6, as well as a custom nametag background texture (texture entry 4)
 @NAMETAG_BOX_HACK:
-	sltiu	a0,a3,@MAX_NAMETAG_STANDARD_WIDTH
+	sltiu	a0,a3,@MAX_NAMETAG_STANDARD_WIDTH+1
 	bne		a0,zero,@@NAMETAG_BOX_HACK_OVER
 	li		s7,0x90*16
 	beq		t0,zero,@@NAMETAG_BOX_HACK_OVER
@@ -625,7 +638,7 @@ C: adjust the memory location at which the container with graphics for the text 
 
 ; properly specify the width of the nametag box that's going to be used
 @NAMETAG_TEXT_HACK:
-	sltiu	a2,a1,@MAX_NAMETAG_STANDARD_WIDTH
+	sltiu	a2,a1,@MAX_NAMETAG_STANDARD_WIDTH+1
 	beq		a2,zero,@@NAMETAG_TEXT_HACK_OVER
 	li		v1,193
 	li		v1,143

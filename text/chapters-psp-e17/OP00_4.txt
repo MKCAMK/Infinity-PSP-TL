@@ -44,19 +44,19 @@ CN PLACEHOLDER
 Но его голос не добрался до неё.
 
 『――――、――――』%K%P
-「――――, ――――」
+“————, ————”
 CN PLACEHOLDER
-"――――,―――――"
+"————,—————"
 
 『――――』%K%P
-「――――」
+“————”
 CN PLACEHOLDER
-"――――"
+"————"
 
 『――――――――』%K%P
-「――――――――」
+“————————”
 CN PLACEHOLDER
-"――――――――"
+"————————"
 
 彼女の声も、聞こえなかった。%K%P
 He couldn't hear her voice either.
@@ -129,7 +129,7 @@ CN PLACEHOLDER
 (Нет... это жутко...)
 
 （だったら、ぼくを見ている『ぼく』は誰なんだ？）%K%P
-(If I'm 「me」, then who is the 「me」 over there?)
+(If I'm “me”, then who is the “me” over there?)
 CN PLACEHOLDER
 (Если я наблюдаю за ними, тогда кто этот 'я', что наблюдает за мной?)
 
@@ -149,7 +149,7 @@ CN PLACEHOLDER
 (Кто это..?)
 
 （あそこにいる『ぼく』は、いったい誰だ！？）%K%P
-(Who's the 「me」 over there?!)
+(Who's the “me” over there?!)
 CN PLACEHOLDER
 (Кто этот 'я' на самом деле?)
 
@@ -589,9 +589,9 @@ CN PLACEHOLDER
 Где же выход...?
 
 ――漆黒。%K%P
-―Pitch black.
+—Pitch black.
 CN PLACEHOLDER
-―Кромешная тьма.
+—Кромешная тьма.
 
 何も動かない。%K%P
 Nothing moved.

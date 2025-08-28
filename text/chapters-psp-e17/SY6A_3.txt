@@ -366,7 +366,7 @@ CN PLACEHOLDER
 このときばかりは、彼女が冷静に、人工知能としての機能に徹したことを、ありがたく思った……。%K%P
 I was grateful for that piece of code in Sora's program, the function that allowed her to be calm in times of trouble...
 CN PLACEHOLDER
-Я благодарен тому кусочку кода программы под названием Сора ― функции, что делает её столь собранной и спокойной в трудные минуты.
+Я благодарен тому кусочку кода программы под названием Сора — функции, что делает её столь собранной и спокойной в трудные минуты.
 
 空「それでは、一旦は解散としましょう」%K%P
 Now, let's end this meeting.
@@ -731,9 +731,9 @@ CN PLACEHOLDER
 %N%N%N%N
 
 %LC最終結論――『現時点では、脱出の望み無し』%K%O
-Final conclusion―「Current prognosis for escape: hopeless.」
+Final conclusion—“Current prognosis for escape: hopeless.”
 CN PLACEHOLDER
-Вывод ― 'Текущая вероятность спасения : безнадёжно.'
+Вывод — 'Текущая вероятность спасения : безнадёжно.'
 
 だが、たったひとつだけ。%K%N
 But there was one thing.

@@ -34,7 +34,7 @@ CN PLACEHOLDER
 Пииииииииииииск!
 
 『アクセス不可／現在この名前ではログインできません』%K%P
-「Access denied. Cannot log in with the given name at this time.」
+“Access denied. Cannot log in with the given name at this time.”
 CN PLACEHOLDER
 "В доступе отказано. Некорректное имя или пароль."
 
@@ -1166,7 +1166,7 @@ CN PLACEHOLDER
 少年「ふぁいあーうぉーる？　でーもん？」%K%P
 Fire well? Daem what...? Huh?
 CN PLACEHOLDER
-Файербол? Демоны...?」%K%P(Они что, в Диаблу играют?!)%K%P
+Файербол? Демоны...?»%K%P(Они что, в Диаблу играют?!)%K%P
 
 沙羅「ファイアーウォールは、ネットワーク内に知らない人が侵入してこないようにするための仕組みのこと」%K%P
 A firewall is a way of protecting a network from unknown intruders.
@@ -1199,22 +1199,22 @@ CN PLACEHOLDER
 Сара кивнула.
 
 『……普通、この系統のＯＳのソフトは、Ｃで組んであるだけだから……』%K%P
-「...Normally this kind of OS software is put together using C...」
+“...Normally this kind of OS software is put together using C...”
 CN PLACEHOLDER
 '...обычно эти ОС пишут на сишняке...'
 
 『……そこを狙ってＤｏＳ攻撃をかけてやれば……』%K%P
-「...So, I tried to attack it using DoS...」
+“...So, I tried to attack it using DoS...”
 CN PLACEHOLDER
 '...поэтому, я попыталась провести DoS-атаку...'
 
 『……だけど、どれも改良が加えられていて……』%K%P
-「...But it's been reinforced...」
+“...But it's been reinforced...”
 CN PLACEHOLDER
 '...но, она не сработала....'
 
 『……なかなかセキュリティホールが見つからない……』%K%P
-「...I'm having trouble finding a hole in the security...」
+“...I'm having trouble finding a hole in the security...”
 CN PLACEHOLDER
 '...такое ощущение, что девелоперы залатали все дырки в системе безопасности...'
 
@@ -3144,7 +3144,7 @@ CN PLACEHOLDER
 А моё решение было основано на твоих мудрых словах.
 
 『ぼくらも、それと同じことを、望んでいる』%K%P
-「We want the same thing.」
+“We want the same thing.”
 CN PLACEHOLDER
 'Ты сказал мне, что Вы все этого хотите.'
 
@@ -3184,7 +3184,7 @@ CN PLACEHOLDER
 Итак, мы продолжили расследование об исчезновении отца Ю.
 
 調査の手がかりは、優から聞いた――『田中陽一／タナカヨウイチ』――優のお父さんの名前、ただひとつ。%K%P
-The only clue that we had to start off our investigation was the name of You's father, 「Tanaka Yoichi」.
+The only clue that we had to start off our investigation was the name of You's father, “Tanaka Yoichi”.
 CN PLACEHOLDER
 Единственная улика, с которой мы начали это самое%Nрасследование - имя её отца. Йоичи Танака.
 
@@ -3459,7 +3459,7 @@ CN PLACEHOLDER
 Да...
 
 ――バン！%K%P
-―Bang!
+—Bang!
 CN PLACEHOLDER
 Бух!!
 
@@ -3749,7 +3749,7 @@ CN PLACEHOLDER
 В самом конце появилось следующее:
 
 総務部人事課の男性社員Ａと、研究部研究第２課の女性社員Ｂの交わしたチャットのログである。%K%P
-A record of an online conversation between employee 「Man A」 in the Personnel Section of the General Affairs Division and 「Woman B」 in the Second Section of the Research Division.
+A record of an online conversation between employee “Man A” in the Personnel Section of the General Affairs Division and “Woman B” in the Second Section of the Research Division.
 CN PLACEHOLDER
 Запись сетевых переговоров между неким господином 'A' из Кадрового Отдела Делового Подразделения и некой госпожи 'B' из Вторичного Отдела Исследовательского Подразделения.
 
@@ -3959,12 +3959,12 @@ CN PLACEHOLDER
 Пожалуйста, ещё разок внимательно прочти 14-ю и 15-ю строки этого лога.
 
 ――Ａ＞え？　まさか、知らないとか？%K%P
-―A > What? Oh, you mean you didn't know?
+—A > What? Oh, you mean you didn't know?
 CN PLACEHOLDER
 -A > в смысле? погоди, так ты не знала?
 
 ――Ｂ＞そうだったの！？%K%P
-―B > Is that so?
+—B > Is that so?
 CN PLACEHOLDER
 -B > вот как?
 
@@ -4069,14 +4069,14 @@ CN PLACEHOLDER
 Ты не находишь странным, как в них написано имя?
 
 ――Ｂ＞Ｙöｉｃｈｉさんが亡くなられたのって１９年前でしょ？%K%P
-―B > But Yöichi-san died 19 years ago, right?
+—B > But Yöichi-san died 19 years ago, right?
 CN PLACEHOLDER
 - B > но, Ёичи умер 19 лет назад, так ведь?
 
 少年「あっ！　これ……『ｏ』が『ö』になってる……？」%K%P
 Oh! The... 'o' is an 'ö'...?
 CN PLACEHOLDER
-Стоп...! Вместо 'Йо' написано 'Ё'...」%K%PКид「В русском эта буква читается не как 'е', а примерно как 'йо'... Фонетически это не ошибка, но вот орфографически...
+Стоп...! Вместо 'Йо' написано 'Ё'...»%K%PКид«В русском эта буква читается не как 'е', а примерно как 'йо'... Фонетически это не ошибка, но вот орфографически...
 
 空「はい。これは『ウムラウト』と申しまして、ゲルマン語、主にドイツ語で……」%K%P
 Yes. This is called an 'umlaut' and is used mainly in German...

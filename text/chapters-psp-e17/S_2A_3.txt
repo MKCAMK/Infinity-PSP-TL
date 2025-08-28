@@ -804,9 +804,9 @@ CN PLACEHOLDER
 Куда же они могли податься?
 
 ――制御室。%K%P
-―The control room.
+—The control room.
 CN PLACEHOLDER
-―Центр Управления.
+—Центр Управления.
 
 ここ以外には考えられなかった。%K%P
 I couldn't think of anywhere else.
@@ -1314,7 +1314,7 @@ CN PLACEHOLDER
 Няку, дружище, а где Генераторная?
 
 優「発電室は、ここ――ドリットシュトックにあるの」%K%P
-The generator room is here―in Dritter Stock.
+The generator room is here—in Dritter Stock.
 CN PLACEHOLDER
 Да здесь - на Дритте шток.
 
@@ -1544,7 +1544,7 @@ CN PLACEHOLDER
 Сара и я побежали следом, не понимая, что происходит.
 
 ――制御室の前。%K%P
-―In front of the control room.
+—In front of the control room.
 CN PLACEHOLDER
 Пока не оказались перед Центром Управления.
 
@@ -1984,7 +1984,7 @@ CN PLACEHOLDER
 Няку, дружище, а где Генераторная?
 
 優「発電室は、ここ――ドリットシュトックにあるの」%K%P
-The generator room is here―in Dritter Stock.
+The generator room is here—in Dritter Stock.
 CN PLACEHOLDER
 Да здесь - на Дритте шток.
 
