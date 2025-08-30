@@ -7,9 +7,9 @@
 # imagemagick version 7 is recommended
 
 [ -z "$TL_SUFFIX" ] && export TL_SUFFIX=en
-TGT="glyphs-${TL_SUFFIX}"
+TGT="$(dirname "$0")/glyphs-${TL_SUFFIX}"
 
-mkdir -p $TGT
+mkdir -p "$TGT"
 for i in "$@"; do
 	convert "$i" -colorspace Gray -depth 2 -define png:bit-depth=2 -define png:exclude-chunks=date,time $TGT/$(basename $i)
 done
