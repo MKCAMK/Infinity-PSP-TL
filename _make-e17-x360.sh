@@ -10,4 +10,6 @@ export GAME=e17
 ./_unpack-afs-e17-x360.sh && \
 ./unpack-afs.sh && \
 ./text_1_extract-jap-scenes.sh && \
-./repack-all.sh
+./text_2_prepare-texts.sh && \
+./pack-afs.sh && \
+./pack-iso.sh

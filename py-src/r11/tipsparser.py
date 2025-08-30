@@ -117,4 +117,5 @@ def parse_tip_file(tip_file_path, encoding="utf-8-sig"):
         if tag_stack[-1].name != "tip":
             raise Exception("unclosed tag after parsing end", tag_stack)
         tips.append(prepare_tip())
-    return sorted(tips, key=lambda t: t.id)
+    tips.sort(key=lambda t: t.id)
+    return tips

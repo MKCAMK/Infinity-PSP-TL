@@ -84,7 +84,7 @@ repack_mac_afs () {
 		[ -e text/tmp-${GAME}/mac-psp-${TL_SUFFIX}/$(basename $i) ] && continue
 		echo Patching $i
 		f=$(basename $i .txt)
-		$PY ./py-src/patch_speaker.py $i text/tmp-${GAME}/mac-psp-jp-${TL_SUFFIX}-names/$f.txt
+		$PY ./py-src/patch_speaker.py $i text/tmp-${GAME}/mac-psp-jp-${TL_SUFFIX}-names/$f.txt ${TL_SUFFIX}
 		repack_scene $f text/tmp-${GAME}/mac-psp-jp-${TL_SUFFIX}-names/$f.txt
 	done
 	# wait $WAITPIDS &> /dev/null

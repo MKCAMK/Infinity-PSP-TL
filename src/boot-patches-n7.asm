@@ -3,16 +3,46 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
-;; Replace the full-width left parenthesis with the left double quotation mark
-;; in code that separates nametags from text.
-.org 0x0881AED0
-.area 4*1
-	li	v0,0x67
+;; Partially replace the list of characters that are considered quotation marks for speech.
+;; The original code supported three characters in total: japanese single opening quotation mark
+;; (left corner bracket), japanese double opening quotation mark (left white corner bracket), and
+;; full-width left parenthesis.
+;; The new code supports four characters: left corner bracket, full-width left parenthesis,
+;; half-width (ASCII) left parenthesis, and left double quotation mark.
+;; The ASCII parenthesis is required for one line in "Okuhiko Cure", the left corner bracket
+;; is used in all untranslated append stories, the full-width left parenthesis is used in append
+;; story "Kurumi <-> Haruka", and the left double quotation mark is used in all translated text.
+.org 0x0881AEAC
+.area 4*12
+	li		v0,0x28
+	beq		a0,v0,0x0881AEDC
+	addiu	s5,s1,0x1
+	li		v0,0x81
+	bne		v0,a0,0x0881AB74
+	li		v0,0x67
+	lbu		v1,0x1(s1)
+	beq		v0,v1,0x0881AEDC
+	li		v0,0x75
+	beq		v0,v1,0x0881AEDC
+	li		v0,0x69
+	bne		v0,v1,0x0881AB74
 .endarea
 
-.org 0x0881B94C
-.area 4*1
-	li	v0,0x67
+.org 0x0881B924
+.area 4*13
+	li		s0,0x28
+	addu	a0,s1,v0
+	lb		v1,0x0(a0)
+	beq		s0,v1,0x0881B958
+	li		v0,-0x7F
+	bne		v0,v1,0x0881B8F8
+	li		v0,0x67
+	lb		v1,0x1(a0)
+	beq		v0,v1,0x0881B958
+	li		v0,0x75
+	beq		v0,v1,0x0881B958
+	li		v0,0x69
+	bne		v0,v1,0x0881B8F8
 .endarea
 
 

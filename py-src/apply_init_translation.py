@@ -81,7 +81,7 @@ def main():
             continue
         jp_string = jp_match.group(3)
         tl_string = ln2
-        if not ln2:
+        if not ln2 or ln2[0] == "#":
             # fallback to original line
             tl_string = jp_string
         elif ln2.startswith(unusedstr):
@@ -90,7 +90,7 @@ def main():
         elif ln2.startswith(litstr):
             tl_string = tl_string[len(litstr):]
             if not tl_string: tl_string = jp_string
-        elif ln2.startswith(";"):
+        elif ln2[0] == ";":
             print("Warning, unexpected ';' in the beginning of line [{}]".format(ln2))
 
         tl_string = string_preproc(tl_string, args.game, args.lang)

@@ -15,8 +15,6 @@ from typing import List, Tuple
 import r11.names as names
 import r11
 
-# import linebreaker
-
 debug = False
 should_run_buffer_overflow_validations = False
 validate_jp_text = True
@@ -39,29 +37,6 @@ control_tip_pattern = re.compile(r"(?:%TS([0-9]{3}))")
 def detectTips(text: str) -> Tuple:
   match = control_tip_pattern.search(text)
   return match.groups() if match else ()
-
-def detectJpSpeakerAndBrackets(jp_line):
-  # \u300c and \u300d are corner brackets: 「」, normally used for characters' direct speech
-  # Note:
-  # There are a few exceptions with corner bracket usage, like at line 1041 in CO4_02.txt,
-  # where it is used not for direct speech, but as a regular quotation.
-
-  jp_speaker = ""
-  jp_leading_bracket = ""
-  jp_trailing_bracket = ""
-  if '\u300c' in jp_line:
-    jp_speaker = jp_line.split('「', 1)[0]
-
-  if debug: eprint("JP match %s,%s;"%(jp_speaker, jp_trailing_bracket))
-  if debug and "\u300c" == jp_speaker:
-    eprint("\u300c without a speaker %s %s,%s; %s"%(sys.argv[1], jp_speaker, jp_trailing_bracket, jp_line))
-
-  if jp_speaker:
-    jp_leading_bracket = '\u300c'
-    if jp_line.endswith('\u300d'):
-      jp_trailing_bracket = '\u300d'
-
-  return [jp_speaker, jp_leading_bracket, jp_trailing_bracket]
 
 def loadJpMacChapterFile(chapter_name: str, game: str) -> List[str]:
   orig_chapter_path = os.path.dirname(__file__) + f"/../text/tmp-{game}/mac-psp-jp/{chapter_name}.txt"
@@ -129,10 +104,6 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
 
   page_buf = 0
 
-  # if tl_suffix in ("en", "ru"):
-  #   widths = linebreaker.load_font_table(tl_suffix)
-  # counter = 0
-
   # used to validate that jp lines have a 100% match with the original.
   jp_true_lines = filterTrueJpLines(jp_mac_chapter_lines) if jp_mac_chapter_lines else None
 
@@ -159,7 +130,13 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
 
     jp_line, jp_trailing_meta = r11.rm_trailing_control_sequence(jp_line)
     jp_line, jp_leading_meta = r11.rm_leading_control_sequence(jp_line)
-    jp_speaker, jp_leading_bracket, jp_trailing_bracket = detectJpSpeakerAndBrackets(jp_line)
+    jp_speaker, jp_leading_bracket, jp_trailing_bracket, translated_speaker = names.detectJpSpeakerAndBrackets(jp_line, tl_suffix)
+
+    # SA2_09 "穂鳥（犬伏景子）とオレは、ずっと前からこの施設にいたはずだ。"
+    # i can't think of a way to properly handle this.
+    # the left parenthesis isn't recongized by the game as a quotation, because the line appears in novel mode.
+    if jp_leading_bracket == "（" and not jp_trailing_bracket and jp_speaker == "穂鳥":
+        jp_speaker, jp_leading_bracket, translated_speaker = "", "", ""
 
     export_translated_line = ""
     trailing_control = ""
@@ -169,12 +146,12 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
 
     if tl_suffix in ("en", "ru"):
       if tl_suffix == "en":
-        leading_bracket = "“" if leading_bracket else ""
-        trailing_bracket = "”" if trailing_bracket else ""
+        if leading_bracket: leading_bracket = "“" if leading_bracket in "「『" else "(" if leading_bracket == "（" else ""
+        if trailing_bracket: trailing_bracket = "”" if trailing_bracket in "」』" else ")" if trailing_bracket == "）" else ""
         tl_line = en_line
       elif tl_suffix == "ru":
-        leading_bracket = "《" if leading_bracket else ""
-        trailing_bracket = "》" if trailing_bracket else ""
+        if leading_bracket: leading_bracket = "《" if leading_bracket in "「『" else "(" if leading_bracket == "（" else ""
+        if trailing_bracket: trailing_bracket = "》" if trailing_bracket in "」』" else ")" if trailing_bracket == "）" else ""
         tl_line = ru_line
       tl_tips = detectTips(tl_line)
       if (jp_tips != tl_tips):
@@ -190,17 +167,11 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
       # if nonenlen > 1:
       #   print("Warning! Found too many non-en chars: [{}] in line {}".format(nonen, tl_line))
 
-      translated_speaker = ""
-      if jp_speaker:
-        try:
-          translated_speaker = names.translateNamesString(jp_speaker, tl_suffix)
-        except:
-          print("name not found:", jp_speaker)
       if translated_speaker and not tl_leading_meta:
         # append TL'ed speaker + opening bracket
         export_translated_line = "{}{}".format(translated_speaker, leading_bracket)
-        if jp_trailing_bracket and (jp_trailing_bracket != "\u300d"):
-          raise Exception("Unexpected trailing bracket '{}' captured '{}' (~{})[{}]".format(jp_trailing_bracket, jp_line, i*4, current_filename))
+        # if jp_trailing_bracket and (jp_trailing_bracket != "\u300d"):
+          # raise Exception("Unexpected trailing bracket '{}' captured '{}' (~{})[{}]".format(jp_trailing_bracket, jp_line, i*4, current_filename))
       # else:
       #  if (jp_trailing_bracket == "\u300d"):
       #    # Speaker was empty, but trailing bracket exists.
@@ -234,10 +205,6 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
       cn_line, cn_leading_meta = r11.rm_leading_control_sequence(cn_line)
       cn_line = r11.clean_cn_translation_line(cn_line)
 
-      try:
-        translated_speaker = names.translateNamesString(jp_speaker, tl_suffix)
-      except:
-        print("name not found:", jp_speaker)
       if not cn_line.startswith(translated_speaker):
         eprint("Speaker mismatch, expected {} at CN line '{}' (~{})[{}]".format(translated_speaker, cn_line, i*4, current_filename))
       export_translated_line = cn_line
@@ -258,12 +225,6 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
         page_buf = 0
 
     export_translated_line = leading_control + export_translated_line + trailing_control
-
-    # if tl_suffix in ("ru", "en"):
-    #   counter, export_translated_line = linebreaker.process_line(export_translated_line, counter, widths, tl_suffix)
-    #   export_translated_line = export_translated_line.rstrip('\n')
-    #   if export_translated_line.endswith("%K") and not export_translated_line.endswith(" %K"):
-    #     counter = 0
 
     out_lines_of_bytes_tl.append(r11.str_to_r11_bytes(export_translated_line, lang=tl_suffix, exception_on_unknown=True) + b"\n")
   # end of for i, tlb in enumerate(tl_buckets):
@@ -288,7 +249,7 @@ def main():
   assert args.game
   assert args.onlytl != None
 
-  names.populateNamesDict(args.game)
+  names.init(args.game)
 
   lines = r11.readlines_utf8_crop_crlf(args.input)
   lines = [line for line in lines if not line.startswith("//")]

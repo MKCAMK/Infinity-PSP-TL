@@ -3,14 +3,14 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
-;; Replace the full-width left parenthesis with the left double quotation mark
+;; Replace the left white corner bracket with the left double quotation mark
 ;; in code that separates nametags from text.
-.org 0x0881B1A8
+.org 0x0881B1A0
 .area 4*1
 	li	v0,0x67
 .endarea
 
-.org 0x0881BC24
+.org 0x0881BC1C
 .area 4*1
 	li	v0,0x67
 .endarea
