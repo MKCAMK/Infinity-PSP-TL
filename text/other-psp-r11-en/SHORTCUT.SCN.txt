@@ -89,13 +89,13 @@
 ;5F4;18;Satoru: Epilogue
 
 #;14;46;ココロ編１日目%N“母性の懐で”%Nから開始します
-;14;46;Start from%NKokoro: Day 1,%N“In the Bosom of Motherhood”
+;14;46;Start from%NKokoro: Day 1,%N“In the Bosom of%NMotherhood”
 
 #;48;46;ココロ編１日目%N“自我の解放”%Nから開始します
 ;48;46;Start from%NKokoro: Day 1,%N“Liberation of Self”
 
 #;7C;60;ココロ編２日目%N“男性と女性の基本的な違い”%Nから開始します
-;7C;60;Start from%NKokoro: Day 2,%N“Distinctions Between Genders”
+;7C;60;Start from%NKokoro: Day 2,%N“Distinctions Between%NGenders”
 
 #;B0;56;ココロ編２日目%N“異状事態警報発令！？”%Nから開始します
 ;B0;56;Start from%NKokoro: Day 2,%N“Alarm!”
@@ -128,7 +128,7 @@
 ;284;48;Start from%NKokoro: Day 7,%N“Struggle Against the End”
 
 #;2B8;54;ココロ編７日目%N“生きられなかった影”%Nから開始します
-;2B8;54;Start from%NKokoro: Day 7,%N“The Shadow That Couldn't Live”
+;2B8;54;Start from%NKokoro: Day 7,%N“The Shadow That Couldn't%NLive”
 
 #;2EC;54;ココロ編エピローグ%N“籠の中の．．．”%Nから開始します
 ;2EC;54;Start from%NKokoro: Epilogue,%N“Within the Cage...”

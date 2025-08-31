@@ -3,6 +3,15 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Increase glyph spacing and decrease the distance between lines in the shortcut menu.
+.org 0x08852544
+.area 4*3
+	li	a3,3
+.skip 4*1
+	li	t0,-2
+.endarea
+
+
 ;; Replace the left white corner bracket with the left double quotation mark
 ;; in code that separates nametags from text.
 .org 0x0881B1A0

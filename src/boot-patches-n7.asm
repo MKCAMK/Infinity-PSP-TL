@@ -3,6 +3,15 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Increase glyph spacing and decrease the distance between lines in the shortcut menu.
+.org 0x0884FA44
+.area 4*3
+	li	a3,3
+.skip 4*1
+	li	t0,-2
+.endarea
+
+
 ;; Partially replace the list of characters that are considered quotation marks for speech.
 ;; The original code supported three characters in total: japanese single opening quotation mark
 ;; (left corner bracket), japanese double opening quotation mark (left white corner bracket), and

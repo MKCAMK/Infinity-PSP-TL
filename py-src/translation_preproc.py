@@ -235,19 +235,13 @@ def main():
 
   parser = argparse.ArgumentParser(description="This script extracts translated lines for further text repackaging." +
             " Also appends names, changes the encoding to sjis and replaces unsupported characters.")
-  parser.add_argument('--input', '-i', type=str, help='input file')
-  parser.add_argument('--output', '-o', type=str, help='output file')
-  parser.add_argument('--tl', '-t', type=str, help="what translation to use. Provide 'en', 'cn', or 'ru'", choices=['en', 'cn', 'ru'])
-  parser.add_argument('--game', '-g', type=str, help="what game to translate for. Provide 'e17', 'n7', or 'r11'", choices=['e17', 'n7', 'r11'])
-  parser.add_argument('--onlytl', action='store_const', const=True, default=False, help="If specified, will only output translated lines and nothing else.")
+  parser.add_argument('--input', '-i', required=True, help='input file')
+  parser.add_argument('--output', '-o', required=True, help='output file')
+  parser.add_argument('--tl', '-t', required=True, help="what translation to use. Provide 'en', 'cn', or 'ru'", choices=['en', 'cn', 'ru'])
+  parser.add_argument('--game', '-g', required=True, help="what game to translate for. Provide 'e17', 'n7', or 'r11'", choices=['e17', 'n7', 'r11'])
+  parser.add_argument('--onlytl', action='store_true', help="If specified, will only output translated lines and nothing else.")
 
   args = parser.parse_args()
-
-  assert args.input
-  assert args.output
-  assert args.tl
-  assert args.game
-  assert args.onlytl != None
 
   names.init(args.game)
 

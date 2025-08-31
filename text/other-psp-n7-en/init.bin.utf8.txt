@@ -7582,17 +7582,17 @@ Harbor
 ;dupe:93c8
 
 ;93dc;6;商店街
-;dupe:8204
+Shopping District
 ;93e0;6;商店街
-;dupe:8204
+;dupe:93dc
 ;93e4;6;商店街
-;dupe:8204
+;dupe:93dc
 ;93e8;6;商店街
-;dupe:8204
+;dupe:93dc
 ;93ec;6;商店街
-;dupe:8204
+;dupe:93dc
 ;93f0;6;商店街
-;dupe:8204
+;dupe:93dc
 
 ;93f4;4;林道
 Path through Forest
@@ -7649,28 +7649,28 @@ Pier
 ;dupe:9444
 
 ;9458;4;月浜
-;dupe:813c
+Moon Beach
 ;945c;4;月浜
-;dupe:813c
+;dupe:9458
 ;9460;4;月浜
-;dupe:813c
+;dupe:9458
 ;9464;4;月浜
-;dupe:813c
+;dupe:9458
 ;9468;4;月浜
-;dupe:813c
+;dupe:9458
 ;946c;4;月浜
-;dupe:813c
+;dupe:9458
 
 ;9470;6;姫ヶ浜
-;dupe:812c
+Princess Beach
 ;9474;6;姫ヶ浜
-;dupe:812c
+;dupe:9470
 ;9478;6;姫ヶ浜
-;dupe:812c
+;dupe:9470
 ;947c;6;姫ヶ浜
-;dupe:812c
+;dupe:9470
 ;9480;6;姫ヶ浜
-;dupe:812c
+;dupe:9470
 
 ;9484;12;テニスコート
 Tennis Court
@@ -7678,18 +7678,18 @@ Tennis Court
 ;dupe:9484
 
 ;948c;8;展望公園
-;dupe:816c
+Viewpoint Park
 ;9490;8;展望公園
-;dupe:816c
+;dupe:948c
 ;9494;8;展望公園
-;dupe:816c
+;dupe:948c
 ;9498;8;展望公園
-;dupe:816c
+;dupe:948c
 ;949c;8;展望公園
-;dupe:816c
+;dupe:948c
 
 ;94a0;4;墓地
-;dupe:817c
+Graveyard
 
 ;94a4;8;露天風呂
 Open Air Hot Spring
@@ -7710,19 +7710,19 @@ Stone Staircase
 ;dupe:94ac
 
 ;94c4;10;司紀杜神社
-;dupe:819c
+Shiki no Mori Shrine
 ;94c8;10;司紀杜神社
-;dupe:819c
+;dupe:94c4
 ;94cc;10;司紀杜神社
-;dupe:819c
+;dupe:94c4
 ;94d0;10;司紀杜神社
-;dupe:819c
+;dupe:94c4
 ;94d4;10;司紀杜神社
-;dupe:819c
+;dupe:94c4
 ;94d8;10;司紀杜神社
-;dupe:819c
+;dupe:94c4
 ;94dc;10;司紀杜神社
-;dupe:819c
+;dupe:94c4
 
 ;94e0;12;司紀杜神社内
 Inside Shiki no Mori Shrine
@@ -7737,13 +7737,13 @@ Old Well
 ;dupe:94ec
 
 ;94f4;6;桜並木
-;dupe:8238
+Cherry Blossom Trees
 ;94f8;6;桜並木
-;dupe:8238
+;dupe:94f4
 ;94fc;6;桜並木
-;dupe:8238
+;dupe:94f4
 ;9500;6;桜並木
-;dupe:8238
+;dupe:94f4
 
 ;9504;2;森
 Forest
@@ -7787,7 +7787,7 @@ Lunabeach, Backyard
 ;dupe:9540
 
 ;9548;6;診療所
-;dupe:81e0
+Clinic
 
 ;954c;18;ロッジ・有夏の部屋
 Lodge, Yuka's Room
@@ -7835,9 +7835,9 @@ Fragment of Light
 Shiki no Mori's Talisman
 
 ;9600;10;司紀杜神社
-;dupe:819c
+Shiki no Mori Shrine
 ;9604;10;司紀杜神社
-;dupe:819c
+;dupe:9600
 
 ;9608;20;なんとかネコピョン？
 Something something Neko Pyon?

@@ -150,21 +150,23 @@ def detectJpSpeakerAndBrackets(jp_line: str, tl_lang: str) -> str:
     jp_trailing_bracket = ""
     tl_speaker = ""
     for jp_name in names_dict:
-        if jp_line.startswith(jp_name):
-            jp_speaker = jp_name
-            break
-    if jp_speaker and len(jp_speaker) != len(jp_line):
-        potential_bracket = jp_line[len(jp_speaker)]
+        if not jp_line.startswith(jp_name):
+            continue
+        if len(jp_name) == len(jp_line):
+            continue
+        potential_bracket = jp_line[len(jp_name)]
         for brackets in speech_brackets:
             leading_bracket, trailing_bracket = tuple(brackets)
-            if potential_bracket == leading_bracket:
-                jp_leading_bracket = potential_bracket
-                if jp_line[-1] == trailing_bracket:
-                    jp_trailing_bracket = trailing_bracket
-                # else: print("debug: trailing bracket not found", jp_line)
-                break
-        if not jp_leading_bracket:
-            return ("", "", "", "")
-        # if jp_leading_bracket != "「": print("debug: funny leading bracket", jp_line)
-        tl_speaker = getattr(names_dict[jp_speaker], tl_lang)
+            if potential_bracket != leading_bracket:
+                continue
+            jp_leading_bracket = potential_bracket
+            jp_speaker = jp_name
+            if jp_line[-1] == trailing_bracket:
+                jp_trailing_bracket = trailing_bracket
+            # else: print("debug: trailing bracket not found", jp_line)
+            break
+        if jp_speaker:
+            # if jp_leading_bracket != "「": print("debug: funny leading bracket", jp_line)
+            tl_speaker = getattr(names_dict[jp_speaker], tl_lang)
+            break
     return (jp_speaker, jp_leading_bracket, jp_trailing_bracket, tl_speaker)
