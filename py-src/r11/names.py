@@ -139,8 +139,7 @@ def init(game: str) -> dict:
     global names_dict
     if not game in game_names_dicts:
         raise Exception(f"Game {game} is not supported.")
-    names_dict = names_dict_generic
-    names_dict.update(game_names_dicts[game])
+    names_dict = names_dict_generic | game_names_dicts[game]
     return names_dict
 
 # tl_lang should be one of TlNames field names: "en", "cn", or "ru"
