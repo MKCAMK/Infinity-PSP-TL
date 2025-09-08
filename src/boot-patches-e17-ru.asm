@@ -25,13 +25,6 @@
 .endarea
 
 
-;; Adjust the nametag box width.
-.org 0x0881DFAC
-.area 4*1
-	li	v1,154
-.endarea
-
-
 ;; Not sure what exactly this is supposed to compensate,
 ;; but changing this value lets us fine-tune the centering of name tags.
 ;; The default value of -10 is incorrect.
