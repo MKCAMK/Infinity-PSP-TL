@@ -11,5 +11,5 @@ TGT="$(dirname "$0")/glyphs-${TL_SUFFIX}"
 
 mkdir -p "$TGT"
 for i in "$@"; do
-	convert "$i" -colorspace Gray -depth 2 -define png:bit-depth=2 -define png:exclude-chunks=date,time $TGT/$(basename $i)
+	convert "$i" -colorspace Gray -depth 2 -define png:bit-depth=2 -define png:exclude-chunks=date,time $TGT/$(basename "$i")
 done
