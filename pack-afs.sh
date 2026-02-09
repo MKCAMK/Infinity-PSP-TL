@@ -9,16 +9,9 @@ COMPRESS=./bin/compressbip
 REPACK_AFS=./bin/repack_afs
 PACK_CNT=./bin/pack_cnt
 REPACK_SCENE=text/repack_scene.py
-ARMIPS=./tools/armips # placeholder
-SIGN_NP=./tools/sign_np # placeholder
 PY=python3
-if [ "$(uname)" = "Darwin" ]; then
-	ARMIPS=./tools/armips_osx # placeholder
-	SIGN_NP=./tools/sign_np_osx # placeholder
-elif [ "$(uname)" = "Linux" ]; then
-	ARMIPS=./tools/armips_lin64
-	SIGN_NP=./tools/sign_np_lin64
-fi
+command -v armips >/dev/null 2>&1 && ARMIPS=armips || ARMIPS=./tools/armips/build/armips
+command -v sign_np >/dev/null 2>&1 && SIGN_NP=sign_np || SIGN_NP=./tools/sign_np/build/sign_np
 
 # change this for other translations
 # set to "en" if unset

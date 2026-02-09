@@ -1,0 +1,9 @@
+[submodule "tools/armips"]
+	path = tools/armips
+	url = https://github.com/Kingcom/armips.git
+[submodule "tools/sign_np"]
+	path = tools/sign_np
+	url = https://github.com/bibarub/sign_np.git
+[submodule "tools/extact-xiso"]
+	path = tools/extract-xiso
+	url = https://github.com/XboxDev/extract-xiso.git

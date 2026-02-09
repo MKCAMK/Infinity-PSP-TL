@@ -69,7 +69,9 @@ For further details, read the contents of shell scripts (and other source files)
 
 The following tools should be available in your PATH:
 
-`7z mkisofs gcc python3 xdelta3`
+`7z mkisofs gcc python3 xdelta3 make cmake`
+
+The library `zlib1g-dev` should be installed
 
 The `pillow` python module should be installed, either via pip or your distro's package manager.
 
