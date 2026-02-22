@@ -49,6 +49,8 @@ This project is a bunch of scripts and programs in bash, python and C. Python an
 
 For the full run:
 
+0. After cloning the repository, run `git submodule update --init --recursive`. This is only required once.
+
 1. Put your ISO at `iso/Never7-jap.iso`, `iso/Ever17-jap.iso`, or `iso/Remember11-jap.iso`
 
 2. Set the `GAME` environment variable to `n7`, `e17`, or `r11`, depending on the game you are patching. Example: `export GAME=e17`
