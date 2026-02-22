@@ -3,12 +3,7 @@
 [ -z "$GAME" ] && export GAME=e17
 [ -z "$TL_SUFFIX" ] && export TL_SUFFIX=en
 
-SIGN_NP=./tools/sign_np # placeholder
-if [ "$(uname)" = "Darwin" ]; then
-        SIGN_NP=./tools/sign_np_osx # placeholder
-elif [ "$(uname)" = "Linux" ]; then
-        SIGN_NP=./tools/sign_np_lin64
-fi
+command -v sign_np >/dev/null 2>&1 && SIGN_NP=sign_np || SIGN_NP=./tools/sign_np/sign_np
 
 if [ "$GAME" = "n7" ]; then
 	TID=ULJM05433

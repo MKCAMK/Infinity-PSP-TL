@@ -11,7 +11,7 @@ PACK_CNT=./bin/pack_cnt
 REPACK_SCENE=text/repack_scene.py
 PY=python3
 command -v armips >/dev/null 2>&1 && ARMIPS=armips || ARMIPS=./tools/armips/build/armips
-command -v sign_np >/dev/null 2>&1 && SIGN_NP=sign_np || SIGN_NP=./tools/sign_np/build/sign_np
+command -v sign_np >/dev/null 2>&1 && SIGN_NP=sign_np || SIGN_NP=./tools/sign_np/sign_np
 
 # change this for other translations
 # set to "en" if unset
@@ -240,9 +240,7 @@ patch_boot_bin () {
 	rm -f $ISO_BIN_DIR/EBOOT.BIN
 	cp $WORKDIR/BOOT.BIN.${TL_SUFFIX} $ISO_BIN_DIR/BOOT.BIN
 	cp $ISO_BIN_DIR/BOOT.BIN $ISO_BIN_DIR/EBOOT.BIN
-	if command -v $SIGN_NP >/dev/null 2>&1; then
-		$SIGN_NP -elf $ISO_BIN_DIR/BOOT.BIN $ISO_BIN_DIR/EBOOT.BIN 1 || exit 1
-	fi
+	$SIGN_NP -elf $ISO_BIN_DIR/BOOT.BIN $ISO_BIN_DIR/EBOOT.BIN 1 || exit 1
 }
 
 repack_se_afs () {
