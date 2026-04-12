@@ -153,49 +153,51 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
         if leading_bracket: leading_bracket = "《" if leading_bracket in "「『" else "(" if leading_bracket == "（" else ""
         if trailing_bracket: trailing_bracket = "》" if trailing_bracket in "」』" else ")" if trailing_bracket == "）" else ""
         tl_line = ru_line
-      tl_tips = detectTips(tl_line)
-      if (jp_tips != tl_tips):
-        eprint("Tips tag missing. TL: {} JP: {}; (tl)'{}' (~{})[{}]".format(tl_tips, jp_tips, tl_line, i*4, current_filename))
-      tl_line = r11.clean_en_translation_line(tl_line)
-      tl_line, tl_trailing_meta = r11.rm_trailing_control_sequence(tl_line)
-      tl_line, tl_leading_meta = r11.rm_leading_control_sequence(tl_line)
-      if game == "r11": tl_line = r11.clean_en_translation_line_r11(tl_line)
-
-      # nonen = re.findall(r"[^A-Za-z0-9!.,:;/?%\s〜―\"-*-「」♪『』α=！]", tl_line)
-      # nonenlen = len(nonen)
-      # lineLen = len(tl_line)
-      # if nonenlen > 1:
-      #   print("Warning! Found too many non-en chars: [{}] in line {}".format(nonen, tl_line))
-
-      if translated_speaker and not tl_leading_meta:
-        # append TL'ed speaker + opening bracket
-        export_translated_line = "{}{}".format(translated_speaker, leading_bracket)
-        # if jp_trailing_bracket and (jp_trailing_bracket != "\u300d"):
-          # raise Exception("Unexpected trailing bracket '{}' captured '{}' (~{})[{}]".format(jp_trailing_bracket, jp_line, i*4, current_filename))
-      # else:
-      #  if (jp_trailing_bracket == "\u300d"):
-      #    # Speaker was empty, but trailing bracket exists.
-      #    if tl_line.__contains__("\u300c"):
-      #      # TL line has its own bracket. Won't append any more
-      #      jp_trailing_bracket = ""
-      #    else:
-      #      # TL line has no bracket.
-      #      # Will append opening bracket, trailing bracket will be appended later
-      #      #TODO reformat text to get rid of this case
-      #      export_translated_line = "\u300c"
-      #      eprint("TL Line auto-bracketed 「」 '{}' (~{})[{}]".format(tl_line, i*4, current_filename))
-      #  elif (jp_trailing_bracket == "\u300f"):
-      #    jp_trailing_bracket = ""
-
-      export_translated_line += tl_line
-      if tl_trailing_meta or tl_leading_meta:
-        trailing_control = tl_trailing_meta
-        leading_control = tl_leading_meta
-        trailing_bracket = ""
+      if tl_line and tl_line[0] ==  ';':
+        export_translated_line = r11.clean_translation_enc_issues(tl_line[1:])
       else:
-        trailing_control = jp_trailing_meta
-        leading_control = jp_leading_meta
-      export_translated_line += trailing_bracket
+        tl_tips = detectTips(tl_line)
+        if (jp_tips != tl_tips):
+          eprint("Tips tag missing. TL: {} JP: {}; (tl)'{}' (~{})[{}]".format(tl_tips, jp_tips, tl_line, i*4, current_filename))
+        tl_line, tl_trailing_meta = r11.rm_trailing_control_sequence(tl_line)
+        tl_line, tl_leading_meta = r11.rm_leading_control_sequence(tl_line)
+        tl_line = r11.clean_translation_line(tl_line, tl_suffix, game)
+
+        # nonen = re.findall(r"[^A-Za-z0-9!.,:;/?%\s〜―\"-*-「」♪『』α=！]", tl_line)
+        # nonenlen = len(nonen)
+        # lineLen = len(tl_line)
+        # if nonenlen > 1:
+        #   print("Warning! Found too many non-en chars: [{}] in line {}".format(nonen, tl_line))
+
+        if translated_speaker and not tl_leading_meta:
+          # append TL'ed speaker + opening bracket
+          export_translated_line = "{}{}".format(translated_speaker, leading_bracket)
+          # if jp_trailing_bracket and (jp_trailing_bracket != "\u300d"):
+            # raise Exception("Unexpected trailing bracket '{}' captured '{}' (~{})[{}]".format(jp_trailing_bracket, jp_line, i*4, current_filename))
+        # else:
+        #  if (jp_trailing_bracket == "\u300d"):
+        #    # Speaker was empty, but trailing bracket exists.
+        #    if tl_line.__contains__("\u300c"):
+        #      # TL line has its own bracket. Won't append any more
+        #      jp_trailing_bracket = ""
+        #    else:
+        #      # TL line has no bracket.
+        #      # Will append opening bracket, trailing bracket will be appended later
+        #      #TODO reformat text to get rid of this case
+        #      export_translated_line = "\u300c"
+        #      eprint("TL Line auto-bracketed 「」 '{}' (~{})[{}]".format(tl_line, i*4, current_filename))
+        #  elif (jp_trailing_bracket == "\u300f"):
+        #    jp_trailing_bracket = ""
+
+        export_translated_line += tl_line
+        if tl_trailing_meta or tl_leading_meta:
+          trailing_control = tl_trailing_meta
+          leading_control = tl_leading_meta
+          trailing_bracket = ""
+        else:
+          trailing_control = jp_trailing_meta
+          leading_control = jp_leading_meta
+        export_translated_line += trailing_bracket
 
     elif tl_suffix == 'cn':
       cn_tips = detectTips(cn_line)

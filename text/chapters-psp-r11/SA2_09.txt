@@ -1,3533 +1,3505 @@
 ﻿部屋を出る。%K%P
 I leave the room.
 走出房间。
-RU PLACEHOLDER
+Я выхожу из комнаты.
 
 リビングには誰もいなかった。%K%P
 Nobody is in the living area.
 客厅里没有人。
-RU PLACEHOLDER
+В гостиной никого.
 
 しばらくのあいだ、オレは途方に暮れてしまった。%K%P
 For the time being, I'm left without a clue as to what to do next.
 短暂的一瞬，我不知如何是好。
-RU PLACEHOLDER
+Сейчас я немного растерян.
 
 あちらの世界から、こちらの世界へ……。%K%P
 From that world to this one...
 从那个世界，回到这个世界……
-RU PLACEHOLDER
+Из одного мира в другой...
 
 転移を繰り返していると、どうしても思考が散漫になりがちだった。%K%P
 With the repeated transfers, my thoughts tend to lose focus.
 反复转移使思考变的散漫。
-RU PLACEHOLDER
-
-//old: I'd gotten distracted after the transfer occurred, and my line of thought had been instantly diffused.
+После переносов у меня теряются все мысли.
 
 頭の中のスイッチを、すぐに切り替えることができないのだ。%K%P
 The switch inside my head isn't something that can be turned on or off easily.
 不能马上切换头脑中的开关。
-RU PLACEHOLDER
+Будто переключатель в моей голове не успевает переключаться из одного положения в другое.
 
 避難小屋のことと、スフィアのこと、両方を同時に考えることはできない。%K%P
 I can't think about both the shelter cabin and SPHIA at the same time.
 避难小屋的事，ＳＰＨＩＡ的事，不能同时考虑到两边。
-RU PLACEHOLDER
+Я не могу одновременно думать и о горной хижине, и о%NSPHIA.
 
 そして、オレは今、スフィアにいる。%K%P
 And right now, I'm at SPHIA.
 而且，我现在在ＳＰＨＩＡ。
-RU PLACEHOLDER
+Сейчас я в SPHIA.
 
 だからスフィアのことだけを考えればよい。%K%P
 So I'll stick to thinking about SPHIA.
 所以先考虑ＳＰＨＩＡ的事吧。
-RU PLACEHOLDER
+Значит, и думать надо только о происходящем здесь.
 
 あまりにも単純な理屈だが、きちんと反芻しなければ気持ちの整理をつけることができなかった。%K%P
 It's an overly simple line of reasoning, but I can't sort out my feelings if I don't properly think things over.
 虽然是极其简单的道理，但是如果不好好的理解消化，就不能整理现在的心情。
-RU PLACEHOLDER
+Логика проста, вот только если тщательно не обмозговывать информацию, то привести в должный порядок мысли мне не удастся.
 
 悟「さてと……」%K%P
 Now then...
 悟「接下来……」
-RU PLACEHOLDER
+Ну что ж...
 
 オレは閑散とした室内を改めて見まわしてみた。%K%P
 I survey the deserted room again.
 我闲散地重新环视着室内。
-RU PLACEHOLDER
+Я оглядываю пустое помещение.
 
 内海とは正午前に話しているから、次にやるべきことは、ゆにと犬伏から情報を訊き出すことだ。%K%P
 I already spoke to Utsumi before noon, so my next task is to talk to Yuni and Inubushi.
 中午已经跟内海谈过了，下面该做的事，就是从悠尼和犬伏那里打听情报。
-RU PLACEHOLDER
+Не так давно я уже беседовал с Уцуми, так что теперь очередь за Юни и Инубуси.
 
 オレはまず……。%K%p
 First, I'll...
 我首先……
-RU PLACEHOLDER
+Сначала я...
 
 ゆにの部屋へ
 Go to Yuni's room
 去悠尼的房间
-RU PLACEHOLDER
+Пойду к Юни
 
 犬伏の部屋へ
 Go to Inubushi's room
 去犬伏的房间
-RU PLACEHOLDER
+Пойду к Инубуси
 
 ゆにの部屋に向かった。%K%P
 I head over to Yuni's room.
 走向悠尼的房间。
-RU PLACEHOLDER
+Я направляюсь в комнату Юни.
 
 犬伏の部屋に向かった。%K%P
 I head over to Inubushi's room.
 走向犬伏的房间。
-RU PLACEHOLDER
+Я направляюсь в комнату Инубуси.
 
 ゆに「どうぞ」%K%P
 Come in!
 悠尼「请进」
-RU PLACEHOLDER
+Открыто!
 
 ノックをすると、中からゆにの声が……。%K%P
 When I knock, I hear Yuni's voice from within...
 敲门后，从里面传来悠尼的声音……
-RU PLACEHOLDER
+Доносится из комнаты голос Юни в ответ на мой стук.
 
 オレはドアを開いて、室内に入った。%K%P
 I open the door and enter the room.
 我打开门，走进室内。
-RU PLACEHOLDER
+Я открываю дверь и вхожу.
 
 部屋の中にはゆにと、それから内海の姿もあった。%K%P
 Both Yuni and Utsumi are inside.
 房间里除了悠尼外，还有内海的身影。
-RU PLACEHOLDER
+Тут же в комнате я обнаруживаю и Уцуми.
 
 ふたりはベッドに並んで腰を下ろし、オレの方を見ていた。%K%P
 They're sitting side by side on the bed. They both turn to look at me.
 两个人并排坐在床上，望向我这边。
-RU PLACEHOLDER
+Они сидят на кровати и смотрят на меня.
 
 内海「それじゃあ、ゆにくん、私は行くわね」%K%P
 Well then, Yuni-kun, I'll be going now.
 内海「那么，悠尼，我先出去了」
-RU PLACEHOLDER
+Ну, я, пожалуй, пойду, Юни-кун.
 
 内海がおもむろに立ち上がる。%K%P
 Utsumi slowly gets to her feet.
 内海慢慢站起来。
-RU PLACEHOLDER
+Уцуми не спеша поднимается.
 
 そのまま、オレのわきをすり抜けて、部屋を出ていってしまった。%K%P
 And just like that, she slips past me and out of the room.
 就那样从我身边走过，离开了房间。
-RU PLACEHOLDER
+Проходит мимо меня и покидает комнату.
 
 悟「なに話してたんだ？」%K%P
 What were you talking about?
 悟「在说些什么？」
-RU PLACEHOLDER
+О чём разговаривали?
 
 オレはゆっくりとゆにのもとへと近づいていき、いま内海の座っていたところに腰を下ろした。%K%P
 I casually approach Yuni and sit down in Utsumi's place.
 我慢慢靠近悠尼，到内海刚才的位置坐下来。
-RU PLACEHOLDER
+Я подхожу к Юни и присаживаюсь туда, где только что сидела Уцуми.
 
 ゆに「うん、ちょっとね」%K%P
 Oh, it was nothing.
 悠尼「嗯，有点事」
-RU PLACEHOLDER
+Да так, ничего особенного.
 
 ゆに「ただの雑談だよ、雑談」%K%P
 We were just chatting.
 悠尼「只是闲聊哟，闲聊」
-RU PLACEHOLDER
+Просто болтали.
 
 ゆに「暇つぶしに話をしてただけ」%K%P
 Just an idle conversation to kill some time.
 悠尼「打发时间而已」
-RU PLACEHOLDER
+Убивали время, так сказать.
 
 はぐらかしているように聞こえなくもない。%K%P
 He sounds like he's evading my question.
 似乎是有意回避这个问题。
-RU PLACEHOLDER
+Он словно уклоняется от ответа на вопрос.
 
 とはいえ、強いて詮索するほどのことでもないと思った。%K%P
 However, it probably isn't anything worth dragging out of him.
 尽管如此，我也没有打算强迫他回答。
-RU PLACEHOLDER
+Но не думаю, что это было что-то важное, чтобы пробовать вытянуть из него правду.
 
 悟「ふーん、そっか」%K%P
 Hmm, I see.
 悟「嗯，是吗」
-RU PLACEHOLDER
+М-м, понятно.
 
 オレはさして気にもとめずに、そう言った。%K%P
 I say that without paying much attention to the thought.
 我察觉到对方的意思，这样说道。
-RU PLACEHOLDER
+Говорю я, не давая мыслям об этом заполонить мой разум.
 
 するとゆには……。%K%P
 And then, Yuni...
 然后悠尼……
-RU PLACEHOLDER
+И вдруг Юни...
 
 ゆに「こころんは、なにしにきたの？」%K%P
 What've you come here for, Kokoron?
 悠尼「心有什么事吗？」
-RU PLACEHOLDER
+Зачем ты пришла, Кокорон?
 
 首をちょこんと傾けながら尋ねてきた。%K%P
 He asks with a meek little tilt of his head.
 他略微歪过头问道。
-RU PLACEHOLDER
+Спрашивает он, слегка наклонив голову.
 
 またか……。%K%P
 Again...
 还来吗……
-RU PLACEHOLDER
+Снова...
 
 うんざりしながらも、こう答えてやる。%K%P
 Fed up, I answer him.
 我也不耐烦地回答道。
-RU PLACEHOLDER
+Сытый всем по горло, я говорю:
 
 悟「今のオレは、冬川こころでは、ない」%K%P
 Right now, I am not Fuyukawa Kokoro.
 悟「现在的我，不是冬川心」
-RU PLACEHOLDER
-
-//is there any way to italicize this in-game? I think it would convey the pissed-off nuance.
+Я сейчас не Фуюкава Кокоро.
 
 悟「話し方とか素振りとかでわからないか？」%K%P
 Can't you tell from the way I talk or act?
 悟「听到这个说话的方式还不明白吗？」
-RU PLACEHOLDER
+Неужели это не заметно по моей речи или поведению?
 
 ゆに「ああ、ごめん」%K%P
 Aah, sorry.
 悠尼「啊，对不起」
-RU PLACEHOLDER
+Да, прости.
 
 ゆに「だってついさっきまでは、こころんだったから……」%K%P
 It's because you were Kokoron just a little bit ago...
 悠尼「直到刚刚为止都是心，所以……」
-RU PLACEHOLDER
+Просто совсем недавно ты был Кокорон...
 
 ここにいるゆにもまた、内海や避難小屋のメンバーと同様、オレがＤＩＤであると完全に思い込んでしまっているようだった。%K%P
 The Yuni here, like Utsumi and the people at the shelter cabin, seems completely convinced that I have DID.
 在这里的悠尼也是，同内海和避难小屋的成员一样，好像完全深信我是ＤＩＤ了。
-RU PLACEHOLDER
+Сидящий рядом Юни, как Уцуми и соратники по несчастью в горной хижине, совершенно уверены, что у меня ДРИ.
 
 当然と言えば、当然である。%K%P
 That's the obvious conclusion.
 这也是理所当然的吧。
-RU PLACEHOLDER
+Но я не могу их в этом винить.
 
 時間跳躍と人格交換を繰り返しているなんて、誰が想像できるだろう。%K%P
 Who could imagine that, in reality, I'm stuck in a cycle of not only personality exchanges, but time jumps too?
 反复的人格交换和时间跳跃，谁能想像得到呢。
-RU PLACEHOLDER
+Кто бы мог поверить в периодические обмены личностями вкупе с перемещениями во времени?
 
 オレ自身でさえ、いまだ理不尽だという想いは払い切れていないというのに……。%K%P
 Even now, it still feels completely irrational...
 就连我自己，到现在都还觉得这种现象十分蛮不讲理……
-RU PLACEHOLDER
+Даже мне самому это кажется абсолютно бредовым...
 
 ゆに「それにしても、ほんとにややこしいよね？」%K%P
 It sure is confusing, huh?
 悠尼「话说回来，真的很麻烦吧？」
-RU PLACEHOLDER
+Всё так запутанно, да?
 
 悟「ああ、まったく同感だ」%K%P
 Yeah, you said it.
 悟「啊，完全没错」
-RU PLACEHOLDER
+Ага, совершенно согласен.
 
 オレがお手上げのポーズを見せると、ゆにはくすくすと笑った。%K%P
 My shoulders slump in utter resignation. Yuni giggles quietly.
 看到我摆出束手无策的姿态，悠尼笑了起来。
-RU PLACEHOLDER
+Я расстроенно опускаю плечи. Юни тихо хихикает.
 
 無邪気な子どもの愛らしい笑みだった。%K%P
 It's the charming smile of an innocent child.
 是天真烂漫的小孩那种可爱的笑容。
-RU PLACEHOLDER
+Эта очаровательная улыбка невинного ребёнка.
 
 オレもつられて、頬をゆるめる。%K%P
 The sight of it makes my own facial muscles relax as well.
 我受到影响，也放松了脸颊。
-RU PLACEHOLDER
+Поддавшись его чарам, я сам невольно улыбаюсь.
 
 ゆに「で？　ぼくになにか用？」%K%P
 So? Did you want me for something?
 悠尼「那么？找我有什么事？」
-RU PLACEHOLDER
+Так что? Ты что-то хотел?
 
 悟「ああ、そうだ、そうだったな……」%K%P
 Ah, that's right. Let's see...
 悟「啊，对了，是这样……」
-RU PLACEHOLDER
+А, точно. Понимаешь...
 
 オレは背後に両手をつき、足を投げ出した。%K%P
 I stretch both arms behind me and throw my feet out.
 我把双手背在身后，迈出脚步。
-RU PLACEHOLDER
+Я отвожу руки за спину и опираюсь на них, после чего вытягиваю ноги.
 
 悟「えっと……実はな？」%K%P
 Um... The truth is...
 悟「哎……实际上呢？」
-RU PLACEHOLDER
+М-м... Дело в том...
 
 悟「ちょっと訊いておきたいことがあって……」%K%P
 There's something I wanted to ask you...
 悟「有点事想问一下……」
-RU PLACEHOLDER
+Я хочу кое-что у тебя спросить...
 
 ゆに「なーに？　訊いておきたいことって……」%K%P
 Something to ask me? What is it?
 悠尼「什么？想要问的事……」
-RU PLACEHOLDER
+О чём?
 
 悟「ゆには、その……」%K%P
 Well, Yuni...
 悟「悠尼，那个……」
-RU PLACEHOLDER
+Ну... Юни...
 
 悟「去年の今頃は、なにをしてた？」%K%P
 What were you doing around this time last year?
 悟「去年的这个时候，你在做什么？」
-RU PLACEHOLDER
+Что ты делал в это время год назад?
 
 ゆに「どうしてそんなこと訊くの？」%K%P
 Why do you want to know?
 悠尼「为什么那么问？」
-RU PLACEHOLDER
+А почему тебя это интересует?
 
 悟「まあ、なんと言うか、暇つぶしだよ、暇つぶし」%K%P
 Well, ah, how should I say it? I'm just killing time, killing time...
 悟「好了，怎么说呢，是闲聊哦，闲聊」
-RU PLACEHOLDER
+Как бы сказать?.. Я просто убиваю время, да...
 
 悟「オレも、することがないからさ」%K%P
 I don't have anything to do, after all.
 悟「我也没什么事可做」
-RU PLACEHOLDER
+Мне нечем заняться.
 
 オレがそう告げると、ゆには腕組みをして天井を見上げた。%K%P
 At my answer, Yuni crosses his arms and looks up at the ceiling.
 我这么告诉他，悠尼则抱着胳膊仰视天花板。
-RU PLACEHOLDER
+На мой ответ Юни скрещивает на груди руки и поднимает глаза к потолку...
 
 唇を軽くかむ。%K%P
 He nibbles lightly on his lip.
 轻轻地咬着嘴唇。
-RU PLACEHOLDER
+Он закусывает губу...
 
 まばたきを何度か繰り返した。%K%P
 He blinks repeatedly.
 眨了几次眼。
-RU PLACEHOLDER
+А потом начинает быстро моргать.
 
 そうしてようやく洩れた言葉は……。%K%P
 And the words that finally leak from him are...
 然后，终于说了句话……
-RU PLACEHOLDER
+И с его губ слетает:
 
 ゆに「ロックしてた」%K%P
 I was rocking.
 悠尼「摇滚」
-RU PLACEHOLDER
+Рок-н-роллил.
 
 悟「……は？」%K%P
 ...Huh?
 悟「……啊？」
-RU PLACEHOLDER
+...А?
 
 ゆに「%TS052ロックンロール%TEだよ、ロックンロール」%K%P
 %TS052Rock and roll%TE, I was rock and rolling.
 悠尼「%TS052摇滚音乐%TE哦，摇滚音乐」
-RU PLACEHOLDER
+Рок-н-ролл. Я рок-н-роллил.
 
 ゆに「ぼくね？　%TS053カポエラ%TEの道場に通ってるんだけど、そこのお師匠さんにこう言われたんだ」%K%P
 You know, I was attending a %TS053Capoeira%TE dojo, and the master there said to me...
 悠尼「我呢？以前去过%TS053卡波耶拉%TE的道场，那里的师傅这样说」
-RU PLACEHOLDER
+Понимаешь, я посещал одно %TS053капоэйра%TE-додзё и учитель сказал мне:
 
 ゆに「『楠田くんは、もう少しリズム感を養った方がいいよ』って……」%K%P
 ‘You should cultivate a better sense of rhythm, Kusuda-kun’...
 悠尼「“楠田，你再稍稍培养一下节奏感比较好”……」
-RU PLACEHOLDER
+"Ты должен развивать чувство ритма, Кусуда-кун..."
 
 ゆに「だから、ロックンロールを始めることにしたの」%K%P
 And that's why I started rock and rolling.
 悠尼「所以，我就开始接触摇滚音乐了」
-RU PLACEHOLDER
+Так я начал рок-н-роллить.
 
 ゆに「すごいんだよ？　ロックって……」%K%P
 Rock is amazing, you know...
 悠尼「很厉害吧？摇滚……」
-RU PLACEHOLDER
+Рок восхитителен...
 
 ゆに「革パンとか、ぴちぴちでさぁ」%K%P
 Like the leather pants! They're so shiny!
 悠尼「皮革裤什么的，紧紧的感觉」
-RU PLACEHOLDER
+Как и кожаные штаны! Такой живой стиль!
 
 悟「まて……」%K%P
 Wait...
 悟「等等……」
-RU PLACEHOLDER
+Погоди....
 
 悟「意味がわからないんだが……？」%K%P
 I have no idea what you're talking about...
 悟「我不明白什么意思……？」
-RU PLACEHOLDER
+Я не понимаю, о чём ты говоришь...
 
 ゆに「意味？　ロックに意味なんて求めちゃダメだよ」%K%P
 What I'm talking about? You can't just demand a meaning from rock!
 悠尼「意思？不要追求摇滚的意思啦」
-RU PLACEHOLDER
+О чём? Конечно, бесполезно пытаться придать року какое-то значение.
 
 ゆに「ピースな愛のバイブスを、ポジティブな感じで受け止めなくちゃ」%K%P
 You've gotta accept the positive vibes of peace and love!
 悠尼「要用“积极的感觉”承受“友好的爱的波动”」
-RU PLACEHOLDER
+Ты должен проникнуться вибрациями мира и любви.
 
 悟「……………………」%K%P
 ............
 悟「……………………」
-RU PLACEHOLDER
+.........
 
 ゆに「……………………」%K%P
 ............
 悠尼「……………………」
-RU PLACEHOLDER
+.........
 
 しばし言葉を失う。%K%P
 I'm speechless for a moment.
 暂时无话可说了。
-RU PLACEHOLDER
+На мгновение я просто теряю дар речи.
 
 ピースな愛のバイブスが、オレの脳みそを揺らしていた。%K%P
 The vibes of peace and love are rocking my brain.
 友好的爱的波动吗，我摇着脑子。
-RU PLACEHOLDER
+Вибрации мира и любви сотрясали моё сознание.
 
 悟「えーっと……」%K%P
 Ummm...
 悟「那个……」
-RU PLACEHOLDER
+Эм-м...
 
 悟「なるほど、わかった」%K%P
 I see.
 悟「原来如此，知道了」
-RU PLACEHOLDER
+Ясно, я понял.
 
 悟「ゆには去年の今頃、ロックンロールをしていたと……」%K%P
 So you were rock and rolling around this time last year...
 悟「悠尼在去年这个时候，听着摇滚乐……」
-RU PLACEHOLDER
+Значит, год назад ты рок-н-роллил...
 
 悟「これで間違いはないな？」%K%P
 Right?
 悟「没错吧？」
-RU PLACEHOLDER
+Так?
 
 ゆに「うん」%K%P
 Yup.
 悠尼「嗯」
-RU PLACEHOLDER
+Ага.
 
 悟「場所はどこだ？」%K%P
 Where were you doing it?
 悟「在什么地方？」
-RU PLACEHOLDER
+И где же ты отрывался?
 
 ゆに「自分の部屋だよ？」%K%P
 In my room.
 悠尼「自己的房间啊？」
-RU PLACEHOLDER
+В своей комнате.
 
 ゆにはあっさりと答えた。%K%P
 Yuni replies immediately.
 悠尼淡淡地回答。
-RU PLACEHOLDER
+Отвечает Юни и глазом не моргнув.
 
 悟「自分の部屋？　朱倉岳ではなく？」%K%P
 In your room? Not on Mount Akakura?
 悟「自己的房间？不是朱仓岳？」
-RU PLACEHOLDER
+В своей комнате? Не на горе Акакура?
 
 ゆに「アカクラダケ？　なにそれ？　キノコ？」%K%P
 Akakura? What's that? A mushroom?
 悠尼「竹沧月？那是什么？蘑菇？」
-RU PLACEHOLDER
+Акакура? Что это? Гриб?
 
 ゆに「ぼくねぇ、キノコが大好物なんだぁー」%K%P
 Mushrooms are my favorite, you know!
 悠尼「我呢，非常喜欢吃蘑菇」
-RU PLACEHOLDER
+Знаешь, я обожаю грибы!
 
 満面の笑顔には一点の曇りも見当たらなかった。%K%P
 Not the slightest hint of a shadow crosses that smiling face.
 满脸的笑容看不到一点阴霾。
-RU PLACEHOLDER
+На его лице нет ни следа сомнения или насмешки.
 
 嘘偽りを述べているとは思えない。%K%P
 He doesn't seem to be lying.
 不像是在说谎。
-RU PLACEHOLDER
+Не думаю, что он лжёт.
 
 どういうことだ……？%K%P
 What does this mean...?
 怎么回事……？
-RU PLACEHOLDER
+Но что это может значить?
 
 ２０１１年の今頃、ゆには確かに朱倉岳の避難小屋にいたはずだ。%K%P
 Yuni must've been in the shelter cabin on Mount Akakura around now in 2011.
 ２０１１年的这个时候，悠尼确实应该是在朱仓岳的避难小屋。
-RU PLACEHOLDER
+Год назад, в 2011 году, Юни должен был быть в горной хижине на горе Акакура....
 
 にもかかわらず、このわけのわからない答え……。%K%P
 However, that incomprehensible answer...
 可是这个回答却很难理解……
-RU PLACEHOLDER
+Однако его ответ...
 
 遭難のショックで頭がイカレテしまったのか……？%K%P
 Did the shock of the accident cause him to go a little funny in the head...?
 是遇难时休克导致大脑受到损伤了……？
-RU PLACEHOLDER
+Может, из-за сильного шока у него в голове всё перепуталось?
 
 それとも……。%K%P
 Or...
 还是说……
-RU PLACEHOLDER
+Или...
 
 朱倉岳にいたゆにと、ここにいるゆには『別人』なのか……？%K%P
 Are the Yuni of Mount Akakura and the Yuni here really different people...?
 朱仓岳的悠尼，和这里的悠尼是“不同的人”……？
-RU PLACEHOLDER
+Юни на горе Акакура и Юни здесь ― разные люди?..
 
 オレはゆにの顔をじっと見つめた。%K%P
 I stare fixedly at Yuni's face.
 我凝视着悠尼的脸。
-RU PLACEHOLDER
+Я пристально вглядываюсь в его лицо.
 
 輪郭、造形、瞳の色、髪型からメガネのデザインに至るまで、なにもかもが避難小屋にいたゆにと同じだった。%K%P
 Its shape, features, eye color, from his hairstyle to the design of his glasses, everything about him is the same as the Yuni from the shelter cabin.
 从轮廓，造型，瞳孔的颜色，发型到眼镜的设计，都跟避难小屋的悠尼一模一样。
-RU PLACEHOLDER
+Фигура, форма лица, цвет глаз, причёска и даже форма очков ― всё точно такое же, как и у Юни в горной хижине.
 
 ゆに「ど、どうしたの……？」%K%P
 Wh-What is it...?
 悠尼「怎、怎么了……？」
-RU PLACEHOLDER
+Ч-что, что такое?..
 
 ゆに「ぼくの顔……なんかついてる？」%K%P
 Do I... have something on my face?
 悠尼「我的脸……有什么东西？」
-RU PLACEHOLDER
+У меня что-то... на лице?
 
 どぎまぎしながら、ゆには言った。%K%P
 Yuni asks, unnerved.
 悠尼慌张地说。
-RU PLACEHOLDER
+Встревоженный моим взглядом, спрашивает Юни.
 
 オレはその瞳の奥をのぞき込むようにして……。%K%P
 I gaze deep into his eyes...
 我盯着他的瞳孔深处……
-RU PLACEHOLDER
+Я вглядываюсь ему в глаза.
 
 悟「つかぬことを訊くけど……」%K%P
 This might be a sudden question, but...
 悟「冒昧一问……」
-RU PLACEHOLDER
+Вопрос может показаться тебе странным, но...
 
 悟「ゆには、双子じゃないよなぁ？」%K%P
 You're not a twin, are you, Yuni?
 悟「悠尼是双胞胎吗？」
-RU PLACEHOLDER
+Нет ли у тебя брата-близнеца?
 
 悟「ゆにはまさか、クローンとかじゃないよなぁ？」%K%P
 You're definitely not a clone, are you, Yuni?
 悟「悠尼难道是克隆人？」
-RU PLACEHOLDER
+Ты ведь не клон, Юни?
 
 ゆに「ちがうよ」%K%P
 Nope.
 悠尼「不是啊」
-RU PLACEHOLDER
+Неа.
 
 悟「じゃあ、兄弟は？」%K%P
 Do you have any siblings, then?
 悟「那么，兄弟呢？」
-RU PLACEHOLDER
+А братья и сёстры у тебя есть?
 
 ゆに「ううん、いない」%K%P
 Nope, none.
 悠尼「不，没有」
-RU PLACEHOLDER
+Неа, нет.
 
 ゆに「ぼく、ひとりっ子だから……」%K%P
 I'm an only child...
 悠尼「因为我是独生子……」
-RU PLACEHOLDER
+Я единственный ребёнок...
 
 悟「そうか……」%K%P
 I see...
 悟「这样……」
-RU PLACEHOLDER
+Понятно...
 
 ゆに「ねえ、悟、ほんとにどうしちゃったの？」%K%P
 Hey, Satoru, what's going on, really?
 悠尼「喂，悟，到底怎么了？」
-RU PLACEHOLDER
+В чём дело, Сатору?
 
 ゆに「なんでそんなこと訊くの？」%K%p
 Why're you asking me all these things?
 悠尼「为什么那么问？」
-RU PLACEHOLDER
+Почему ты задаёшь такие вопросы?
 
 暇つぶしだって言っただろう？
 I told you, I'm just killing time
 说了是闲聊吧？
-RU PLACEHOLDER
+"Я же сказал: просто убиваю время"
 
 １年前におまえに似たやつを見たから
 Because I saw someone who looked just like you a year ago
 一年前我见到很像你的家伙
-RU PLACEHOLDER
+"Год назад я встретил человека, который выглядел совсем как ты"
 
 悟「だから、暇つぶしだって言っただろう？」%K%P
 I told you already, I'm just killing time.
 悟「所以说，说了是闲聊吧？」
-RU PLACEHOLDER
+Я же сказал: просто убиваю время.
 
 ゆに「ほんとにそれだけ？」%K%P
 Is that really it?
 悠尼「真的只是这样？」
-RU PLACEHOLDER
+Только поэтому?
 
 悟「ああ」%K%P
 Yeah.
 悟「嗯」
-RU PLACEHOLDER
+Ага.
 
 ゆには納得いかないといった様子で、首をひねっていた。%K%P
 Yuni inclines his head, unconvinced.
 悠尼扭着头，看来完全不能理解。
-RU PLACEHOLDER
+Юни недоверчиво наклоняет голову.
 
 そしてオレもまた、ゆにの返答に対して腑に落ちないものを感じていた。%K%P
 And I feel like there's something about Yuni's answer that doesn't make sense either.
 然而关于悠尼的回答，我也感觉有不能理解的部分。
-RU PLACEHOLDER
+Я снова чувствую, что чего-то недопонимаю в его ответе.
 
 悟「いや、実はな？」%K%P
 Well, actually...
 悟「不，实际上呢？」
-RU PLACEHOLDER
+Ну, честно говоря...
 
 悟「今からちょうど１年前に、おまえによく似たやつを見かけたんだよ」%K%P
 Almost exactly a year ago from today, I met someone who looked just like you.
 悟「距今刚好一年前，我见到了非常像你的家伙」
-RU PLACEHOLDER
+Примерно год назад я встретил человека, выглядевшего точь-в-точь как ты.
 
 悟「朱倉岳っていう山の、避難小屋で……」%K%P
 In a shelter cabin, on a mountain called Akakura...
 悟「在名叫朱仓岳的山上的避难小屋……」
-RU PLACEHOLDER
+В горной хижине на горе Акакура...
 
 ゆに「ふーん……」%K%P
 Hmm...
 悠尼「嗯……」
-RU PLACEHOLDER
+Хм-м...
 
 ゆに「でも、ぼくそんなところに行ったことないよ？」%K%P
 But I've never been to a place like that.
 悠尼「但是，我没有去过那样的地方呀？」
-RU PLACEHOLDER
+Но я никогда не бывал в подобных местах.
 
 ゆに「今も言ったけど、双子とかでもないし……」%K%P
 And I just said that I didn't have a twin...
 悠尼「刚刚也说了，我也不是双胞胎……」
-RU PLACEHOLDER
+И, как я уже говорил, у меня нет близнеца...
 
 ゆに「今も言ったけど、クローンとかでもないし……」%K%P
 And I just said that I didn't have a clone...
 悠尼「刚刚也说了，我也不是克隆人……」
-RU PLACEHOLDER
+И, как я уже говорил, у меня нет клона...
 
 ゆに「きっと悟は、ぼくのソックリさんに会ったんだね？」%K%P
 You must've met someone who looked just like me, right?
 悠尼「悟一定是遇到和我一模一样的人了吧？」
-RU PLACEHOLDER
+Ты, наверное, встретил кого-то, кто просто похож на меня.
 
 ゆに「ほら、よく言うでしょう？」%K%P
 You hear about it a lot, right?
 悠尼「喏，不是有句话吗？」
-RU PLACEHOLDER
+Ты же слышал, да?
 
 ゆに「世の中には、自分にうりふたつの人が３人はいるって……」%K%P
 That in this world, there are three other people who're the mirror image of you...
 悠尼「在这个世界上，有三个与自己一模一样的人……」
-RU PLACEHOLDER
+Говорят, что в мире есть три других человека, которые похожи на тебя как две капли воды.
 
 オレは軽くうなずいて見せた。%K%P
 I give a slight nod.
 我轻轻地点点头。
-RU PLACEHOLDER
+Я слегка киваю.
 
 けれどそれは心からの相槌ではなかった。%K%P
 But that isn't a response from the heart.
 可是心里仍无法释怀。
-RU PLACEHOLDER
+Хотя и не совсем согласен.
 
 似てるとか、似てないとか、そういう次元の話ではないのだ。%K%P
 Yuni's case goes far deeper than a mere physical similarity.
 不是像与不像这么简单的事情。
-RU PLACEHOLDER
+Тут совершенно иной уровень подобия.
 
 あちらのゆにと、こちらのゆに……。%K%P
 The Yuni there, and the Yuni here...
 这里的悠尼，和那里的悠尼……
-RU PLACEHOLDER
+Юни здесь и Юни там...
 
 ふたりが双子でないとするならば、なんなのか？%K%P
 If they aren't twins, then what are they?
 如果两个人不是双胞胎，是什么？
-RU PLACEHOLDER
+Кто же они, если не близнецы?
 
 あちらのゆにと、こちらのゆに……。%K%P
 The Yuni there, and the Yuni here...
 这里的悠尼，和那里的悠尼……
-RU PLACEHOLDER
+Юни здесь и Юни там...
 
 ふたりがクローンでないとするならば、なんなのか？%K%P
 If they aren't clones, then what are they?
 如果两个人不是克隆，是什么？
-RU PLACEHOLDER
+Кто же они, если не клоны?
 
 オレにはどう考えても同一人物にしか思えないのだが……。%K%P
 No matter how I look at it, I can't think of them as anything other than the same person...
 我认为他们是同一个人……
-RU PLACEHOLDER
+Как ни крути, а я не могу думать о них как о совершенно разных людях.
 
 だいいち『楠田ゆに』という共通した名前が、すべてを物語っているではないか。%K%P
 Besides, doesn't the fact that they both have the name “Kusuda Yuni” say it all?
 首先“楠田悠尼”这个共通的名字不就说明了一切吗。
-RU PLACEHOLDER
+Да и тот факт, что их обоих зовут Кусуда Юни, уже говорит о многом.
 
 もうこうなったらやむを得ない。単刀直入に訊いてしまおう。%K%P
 Now that it's come to this, I have no other choice. I've got to ask him directly.
 事已至此。只有单刀直入地问了。
-RU PLACEHOLDER
+Раз дело зашло так далёко, выбора нет. Я должен спросить его прямо.
 
 オレは思い切って、次のような質問をぶつけてみた。%K%P
 I resolve myself and then fired off my next question.
 我一鼓作气继续问道。
-RU PLACEHOLDER
+Собравшись с духом, я решаюсь задать вопрос:
 
 悟「ゆに、最後にひとつだけ訊かせてくれ」%K%p
 Yuni, will you answer one last question?
 悟「悠尼，最后再问一个」
-RU PLACEHOLDER
+Юни, ответишь на последний вопрос?
 
 黄泉木と鈴の名前に聞き覚えはないか？
 Ask him whether he remembers the names Yomogi and Lin
-//[dreambottle] Japanese phrase is slightly different on psp and looks more like direct speech.
-//[dreambottle] Also, original EN TL is very long, probably overflows the frame, so I made it shorter.
-//[dreambottle] old: Ask him whether he remembers the names Yomogi and Lin
 询问对黄泉木和铃的名字有没有印象
-RU PLACEHOLDER
+"Говорят ли тебе что-нибудь имена Ёмоги и Рин?"
 
 どうしてスフィアにいるのか？
 Ask him why he's at SPHIA
-//[dreambottle] old: Ask him why he's at SPHIA
 询问为什么会在ＳＰＨＩＡ内
-RU PLACEHOLDER
+"Почему ты в SPHIA?"
 
 悟「黄泉木聖司……黛鈴……」%K%P
 Yomogi Seiji... Mayuzumi Lin...
 悟「黄泉木圣司……黛铃……」
-RU PLACEHOLDER
+Ёмоги Сэйдзи... Маюдзуми Рин...
 
 悟「このふたりの名前に聞き覚えはないか？」%K%P
 Do you remember ever hearing those names in the past?
 悟「这两个人的名字有印象吗？」
-RU PLACEHOLDER
+Ты когда-нибудь слышал эти имена?
 
 ゆには眉間にしわを寄せ、顎のあたりをポリポリと掻いた。%K%P
 Yuni's eyebrows furrow as he scratches his chin.
 悠尼眉间紧皱，咯吱咯吱地挠着下巴。
-RU PLACEHOLDER
+Юни хмурится и чешет подбородок.
 
 なにか不満そうな表情を浮かべたまま、静かに首を振って見せる。%K%P
 He gently shakes his head, an expression of dissatisfaction rising to his face.
 他露出不满的神色，静静地摇头给我看。
-RU PLACEHOLDER
+Потом медленно качает головой.
 
 ゆに「誰なの？　それ」%K%P
 Who're they?
 悠尼「谁啊？那些人」
-RU PLACEHOLDER
+Кто они такие?
 
 その仕草や言葉の中に、欺瞞が隠されているとは思えなかった。%K%P
 Going by his words and body language, he doesn't appear to be trying to deceive me.
 看那个动作和话语，应该没有欺瞒掩盖什么。
-RU PLACEHOLDER
+Судя по поведению и тону, он не обманывает.
 
 彼は本当に、黄泉木のことも、鈴のことも、知らないのだろう。%K%P
 It seems like he really doesn't know either of them.
 他应该是真的不知道黄泉木和铃吧。
-RU PLACEHOLDER
+Похоже, он и правда их не знает.
 
 ということはつまり、ここにいるゆには、避難小屋にいたゆにとは別人ということになる。%K%P
 In other words, this means that the Yuni here and the Yuni at the shelter cabin are two different people.
 就是说，在这里的悠尼，和在避难小屋的悠尼果然是不同的人
-RU PLACEHOLDER
+Иначе говоря, Юни здесь и Юни в горной хижине ― два разных человека.
 
 今オレの目の前にいる彼は、１年前の１月１７日に救助隊によって発見されたゆにではない。%K%P
 The one right here in front of me isn't the person who was found by the rescue team on January 17th a year ago.
 现在在我眼前的他，不是在一年前的１月１７日被救助队发现的悠尼。
-RU PLACEHOLDER
+Находящийся рядом со мной Юни ― не тот, которого 17 января прошлого года нашли спасатели.
 
 いや、ちょっと待て……。%K%P
 No, wait a second...
 不，等等……
-RU PLACEHOLDER
+Хотя секундочку...
 
 では名前のことはどうなる？　なぜ両者の名前は一致しているんだ？%K%P
 Then what about their names? Why do the two of them have the exact same name?
 那么名字是怎么回事？为什么两个人的名字是一样的？
-RU PLACEHOLDER
+Но что тогда с именами? Почему у них одно и то же имя?
 
 それに、この顔……。%K%P
 And then there's that face...
 以及，那张脸……
-RU PLACEHOLDER
+И их лица...
 
 まったく同一人物としか思えない姿……。%K%P
 With the way they looked, I can only think of them as the same person...
 只能认为完全是同一个人……
-RU PLACEHOLDER
+Они совсем как один и тот же человек...
 
 オレは激しく混乱し、頭を掻き毟りたくなった。%K%P
 Beset by intense confusion, I want to scratch my head.
 我极度混乱了，想拼命地挠头。
-RU PLACEHOLDER
+От столь сильного замешательства очень хочется почесать затылок.
 
 その衝動をどうにかこらえながら、なおも考え続ける。%K%P
 But I somehow suppress that impulse and continue thinking.
 我在忍耐这股冲动的同时继续考虑着。
-RU PLACEHOLDER
+Но я подавляю этот порыв и продолжаю усиленно думать.
 
 よし、わかった、それじゃあとりあえず、こちらのゆにと、あちらのゆにを、別人だと仮定してみよう。%K%P
 Okay, I've got it. Let's assume that the Yuni here and the Yuni there are two different people.
 好，明白了，那么首先，就假设这里的悠尼，和那里的悠尼是不同的人。
-RU PLACEHOLDER
+Ладно. Допустим, что тот и этот Юни ― два разных человека.
 
 すると必然的に湧きあがってくる疑問がある。%K%P
 That leads us to the inevitable question.
 于是必然会有一个疑问。
-RU PLACEHOLDER
+Возникает неизбежный вопрос...
 
 オレは尋ねずにはいられなかった。%K%P
 I can't help but ask.
 我不得不问的。
-RU PLACEHOLDER
+Не могу сдержаться, чтобы не спросить:
 
 悟「なあ、ゆに……」%K%P
 Hey, Yuni...
 悟「那个，悠尼……」
-RU PLACEHOLDER
+Слушай, Юни...
 
 ゆに「ちょっと待った！」%K%P
 Wait a second!
 悠尼「等等！」
-RU PLACEHOLDER
+Подожди-ка!
 
 ゆにがオレの言葉を遮る。%K%P
 Yuni interrupts me in mid-sentence.
 悠尼打断了我的话。
-RU PLACEHOLDER
+Перебивает меня Юни.
 
 ゆに「まだ質問続けるつもりなの？」%K%P
 How many more questions do you have for me?
 悠尼「还打算继续问啊？」
-RU PLACEHOLDER
+Ты собираешься и дальше меня расспрашивать?
 
 ゆに「『最後にひとつだけ』って言ったじゃん」%K%P
 You said it was ‘one last question’ before.
 悠尼「不是说了“最后一个”吗」
-RU PLACEHOLDER
+Ты же сказал, что задал мне последний вопрос.
 
 悟「あ、ああ、そうだったな……」%K%P
 A-Ah, that's true...
 悟「啊，啊，是的……」
-RU PLACEHOLDER
+Э... Да, верно...
 
 ゆに「なんだか取り調べを受けてるみたいで気分が悪いんですけどぉ……」%K%P
 It feels kind of like I'm being interrogated, and I don't like it very much...
 悠尼「总觉得好像被调查一样，很不舒服……」
-RU PLACEHOLDER
+Это уже напоминает допрос, и мне не по себе...
 
 ゆに「ぼく、なんか悪いことしたかなぁ？」%K%P
 Have I done something wrong?
 悠尼「我做了什么坏事吗？」
-RU PLACEHOLDER
+Я сделал что-то плохое?
 
 悟「いや、全然」%K%P
 No, not at all.
 悟「不，完全没有」
-RU PLACEHOLDER
+Нет, ничего такого.
 
 悟「ゆには素直でいい子だ」%K%P
 You're a good, honest kid, Yuni.
 悟「悠尼是个坦率的好孩子」
-RU PLACEHOLDER
+Ты хороший и честный ребёнок, Юни.
 
 オレがそう告げると、彼はまんざらでもなさそうな顔をした。%K%P
 When I tell him that, he looks happier with it than he's letting on.
 我告诉他这些之后，他似乎显得并不太高兴。
-RU PLACEHOLDER
+После моих слов на его лице появляется недовольство.
 
 悟「こう考えてくれないかなぁ？」%K%P
 Can you think about it like this?
 悟「能这样考虑吗？」
-RU PLACEHOLDER
+Расценивай это...
 
 悟「これは、オレの病気を治すためだって」%K%P
 This is to help me cure my sickness.
 悟「这是为了治好我的病」
-RU PLACEHOLDER
+Как помощь в лечении моей болезни.
 
 ゆに「悟の、病気を……？」%K%P
 Your sickness, Satoru...?
 悠尼「为了悟的病……？」
-RU PLACEHOLDER
+Твоей болезни?..
 
 悟「うん」%K%P
 Yup.
 悟「嗯」
-RU PLACEHOLDER
+Угу.
 
 悟「だから、オレを助けると思って……な？」%K%P
 So think of it as helping me out... okay?
 悟「所以，请帮助我……好吗？」
-RU PLACEHOLDER
+Думай о том, что помогаешь мне... хорошо?
 
 ゆに「う〜ん……」%K%P
 Hm〜mm...
 悠尼「嗯……」
-RU PLACEHOLDER
+Хм-м...
 
 ゆに「それじゃあ、ほんとにひとつだけだよ？」%K%P
 Okay, then I'll answer it, but only if it really is the last question!
 悠尼「那么，真的只有一个了？」
-RU PLACEHOLDER
+Что ж, я отвечу, но только на один, ладно?
 
 オレはくちもとをゆるめて、彼の頭を撫でてやった。%K%P
 I let my face loosen into a grin and pat him on the head.
 我放松嘴角，摸了摸他的头。
-RU PLACEHOLDER
+Я улыбаюсь и глажу его по голове.
 
 悟「簡単な質問なんだ、答えてくれ」%K%P
 It's an easy question, so please answer it.
 悟「简单的问题，请你回答一下」
-RU PLACEHOLDER
+Вопрос простой, так что ответь на него, пожалуйста.
 
 ゆに「どうぞ？」%K%P
 Go ahead.
 悠尼「问吧？」
-RU PLACEHOLDER
+Спрашивай.
 
 悟「ゆに……」%K%P
 Yuni...
 悟「悠尼……」
-RU PLACEHOLDER
+Юни...
 
 悟「おまえはどうして、ここにいる？」%K%P
 Why are you here?
 悟「你为什么会在这里？」
-RU PLACEHOLDER
+Почему ты здесь?
 
 ゆに「ど、どうしてって……」%K%P
 Wh-Why...?
 悠尼「为、为什么……」
-RU PLACEHOLDER
+П-почему?..
 
 ゆに「それは……それは……」%K%P
 That's... That's...
 悠尼「那是……那是……」
-RU PLACEHOLDER
+Потому... потому...
 
 ゆにの表情に陰りが射した。%K%P
 A shadow forms over Yuni's face.
 悠尼的表情被罩上了一层阴影。
-RU PLACEHOLDER
+Лицо Юни сереет.
 
 いや、陰りどころではない。%K%P
 No, not a shadow.
 不，不仅仅是阴影那么简单。
-RU PLACEHOLDER
+Нет, не так.
 
 それはたちまち絶望の色に染まっていった。%K%P
 It instantly colors over with despair.
 瞬间就转成了绝望。
-RU PLACEHOLDER
+На нём проявляется полное отчаяние.
 
 先程までのおどけた表情は、もはやどこにも見当たらなかった。%K%P
 Not a single trace of his playful expression is anywhere to be found.
 至今为止都很爽朗的表情，现在已经消失无踪。
-RU PLACEHOLDER
+От прошлой игривости не осталось и следа.
 
 ゆに「悟……ぼくは……ぼくは……」%K%P
 Satoru... I'm... I'm...
 悠尼「悟……我……我……」
-RU PLACEHOLDER
+Сатору... Я... Я...
 
 死人のように蒼白い顔……。%K%P
 A face as pale as a corpse's...
 死人般苍白的脸……
-RU PLACEHOLDER
+Его лицо становится мертвенно-бледным...
 
 その頬はひくひくと不気味に引き攣っている。%K%P
 His cheek twitches in an eerie way, oddly spasming.
 脸颊令人毛骨悚然地痉挛着。
-RU PLACEHOLDER
+А щека начинает подёргиваться.
 
 呼吸が荒くなった。%K%P
 His breathing grows labored.
 呼吸变的慌乱。
-RU PLACEHOLDER
+Он тяжело дышит.
 
 自分でもそれに気づいたのか、彼は一生懸命息を整えようとしていた。%K%P
 Perhaps he himself notices it, as he tries his hardest to return its rhythm to normal.
 似乎他自己也发现了这一点，正在拼命地调整呼吸。
-RU PLACEHOLDER
+Видимо, он и сам это замечает, потому что изо всех сил старается стабилизировать дыхание.
 
 悟「ど、どうしたんだ！？　大丈夫か！？」%K%P
 Wh-What is it!? Are you okay!?
 悟「怎、怎么了！？不要紧吧！？」
-RU PLACEHOLDER
+Ч-что с тобой? Ты в порядке?!
 
 気遣うオレの声も、彼の耳には届いていないようだった。%K%P
 But my worried voice doesn't seem to reach his ears.
 我担心的声音，好像传达不到他的耳朵里。
-RU PLACEHOLDER
+Но мой голос, кажется, не достигает его ушей.
 
 瞳は床の一点を見つめたまま凝固している。%K%P
 His eyes are frozen to a single point on the floor.
 他的瞳孔紧盯着地板上的一点。
-RU PLACEHOLDER
+Его взгляд прикован к одной точке где-то на полу.
 
 全身が激しく震え始めた。%K%P
 His entire body begins to tremble violently.
 全身开始激烈地震动。
-RU PLACEHOLDER
+Он начинает сильно дрожать.
 
 両手が吸い寄せられるように宙に浮かぶ。%K%P
 As though drawn to something, he raises both his hands into the air.
 双手像被吸附一般在空中胡乱挥舞。
-RU PLACEHOLDER
+Обе его руки приподнимаются...
 
 小さな手のひらは、カギ状に折れ曲がって硬直していた。%K%P
 His small hands ball themselves into stiff claws.
 小小的手掌扭曲成奇怪的形状。
-RU PLACEHOLDER
+...и маленькие ладошки сводит %TS080тонической судорогой%TE.
 
 悟「おい、ゆに！　しっかりしろ！」%K%P
 Hey, Yuni! Get it together!
 悟「喂，悠尼！振作一点！」
-RU PLACEHOLDER
+Эй, Юни! Держись!
 
 ゆにの両肩をつかんで揺すった。%K%P
 I grab his shoulders and shake him.
 我抓住悠尼的双肩摇晃着。
-RU PLACEHOLDER
+Я хватаю его за плечи и встряхиваю.
 
 あまりにも唐突な変貌に、とまどいを覚えずにはいられなかった。%K%P
 I can't help but feel confused at such a sudden change.
 这过分唐突的变化令我感到不知所措。
-RU PLACEHOLDER
+Всё так внезапно, что я мигом забываю о своём замешательстве.
 
 どうすればいいんだ……！？%K%P
 What should I do...!?
 怎么做才好……！？
-RU PLACEHOLDER
+Что мне делать?!
 
 どうすれば……どうすれば……！？%K%P
 What should I do... What should I do...!?
 怎么做……怎么做……！？
-RU PLACEHOLDER
+Что же... Что?!
 
 悟「ちょ、ちょっと待ってろ！」%K%P
 J-Just hang on for a second!
 悟「等、等一下！」
-RU PLACEHOLDER
+П-подожди чуток!
 
 悟「内海さんを呼んでくるからな！」%K%P
 I'll go call Utsumi-san!
 悟「我去叫内海小姐！」
-RU PLACEHOLDER
+Я пойду позову Уцуми-сан!
 
 オレは彼の肩から手を放して振り返った。%K%P
 I release his shoulders and turn around.
 我放开他的肩膀转过身。
-RU PLACEHOLDER
+Я отпускаю его плечи и разворачиваюсь.
 
 直後、腕に強烈な圧迫感――。%K%P
 As soon as I do, a strong pressure holds my arm back——
 之后，我的手臂感到强烈的压迫感——
-RU PLACEHOLDER
+Тут я ощущаю мёртвую хватку на руке.
 
 ゆにがオレの右腕をつかんでいた。%K%P
 Yuni has grabbed onto my right arm.
 悠尼抓住了我的右臂。
-RU PLACEHOLDER
+Это Юни вцепился в мою правую руку.
 
 ゆに「待って……悟……」%K%P
 Wait... Satoru...
 悠尼「等等……悟……」
-RU PLACEHOLDER
+Стой... Сатору...
 
 ゆに「ぼくを……置いてかないで……」%K%P
 Don't... leave me alone...
 悠尼「不要……丢下我不管……」
-RU PLACEHOLDER
+Не... оставляй меня одного...
 
 手を振りほどくこともできずに当惑する。%K%P
 In my bewilderment, I'm unable to shake him off.
 又不能把手甩开，我觉得相当为难。
-RU PLACEHOLDER
+Растерянный, я не могу освободиться от его захвата.
 
 ゆにはぶつぶつと何かを呟いていた。%K%P
 Yuni murmurs something in a soft voice.
 悠尼一个劲儿地嘟哝着什么。
-RU PLACEHOLDER
+Юни что-то тихо бормочет.
 
 小さな小さなささやき声……。%K%P
 A small, weak voice...
 很小很低的细语声……
-RU PLACEHOLDER
+Тихим, слабым голосом...
 
 オレは彼のくちもとに耳を寄せた。%K%P
 I place my ear closer to his lips.
 我将耳朵靠近他的嘴角。
-RU PLACEHOLDER
+Я наклоняюсь к его губам.
 
 ゆに「怖いんだ……」%K%P
 I'm scared...
 悠尼「好可怕……」
-RU PLACEHOLDER
+Мне страшно...
 
 ゆに「怖くて怖くて……押し潰されちゃいそうなんだ……」%K%P
 I'm scared, so scared... It feels like I'm going to be crushed...
 悠尼「很可怕很可怕……快要被压溃了……」
-RU PLACEHOLDER
+Так страшно... мне кажется, что я вот-вот сломаюсь...
 
 悟「なにが……？　なにが怖いっていうんだ……？」%K%P
 Of what...? What are you afraid of...?
 悟「是什么……？什么东西可怕……？」
-RU PLACEHOLDER
+Чего?.. Чего ты боишься?..
 
 ゆに「この……スフィアだよ……」%K%P
 Here... SPHIA...
 悠尼「这个……ＳＰＨＩＡ……」
-RU PLACEHOLDER
+Этого места... SPHIA...
 
 ゆに「ねえ、悟……」%K%P
 Hey, Satoru...
 悠尼「喂，悟……」
-RU PLACEHOLDER
+Сатору...
 
 ゆに「ぼくはどうして、こんなところにいるの……？」%K%P
 Why am I here...?
 悠尼「我为什么会在这种地方的……？」
-RU PLACEHOLDER
+Почему я здесь?..
 
 ゆに「なんで……閉じ込められなくちゃいけないの……？」%K%P
 Why... do I have to be locked up in here?
 悠尼「为什么……必须被关起来……？」
-RU PLACEHOLDER
+Почему меня... заперли здесь?..
 
 ゆに「早く帰りたい……」%K%P
 I want to go back...
 悠尼「想快点回去……」
-RU PLACEHOLDER
+Я хочу вернуться...
 
 ゆに「おうちに帰りたいよぉ……」%K%P
 I want to go back home...
 悠尼「想回家……」
-RU PLACEHOLDER
+Хочу вернуться домой...
 
 悟「わかった、大丈夫だ、心配するな」%K%P
 Got it. Don't worry, everything will be okay.
 悟「明白了，不要紧，别担心」
-RU PLACEHOLDER
+Всё хорошо. Не волнуйся, всё образуется.
 
 悟「オレがなんとかしてやる」%K%P
 I'll manage something.
 悟「我会想办法的」
-RU PLACEHOLDER
+Я что-нибудь придумаю.
 
 悟「必ずここから出してやるから……」%K%P
 I'll definitely get you out of here...
 悟「一定从这里面出去……」
-RU PLACEHOLDER
+Я обязательно вытащу тебя отсюда...
 
 ゆに「ほんとに……？」%K%P
 Really...?
 悠尼「真的……？」
-RU PLACEHOLDER
+Правда?..
 
 悟「ああ、約束だ」%K%P
 Yeah, it's a promise.
 悟「啊，约好了」
-RU PLACEHOLDER
+Да, я обещаю.
 
 悟「だから教えてくれないか……？」%K%P
 So, won't you tell me...?
 悟「所以能告诉我吗……？」
-RU PLACEHOLDER
+Поэтому... не скажешь мне?..
 
 悟「ここに来る前、なにがあったんだ……？」%K%P
 Before you got here, what were you doing...?
 悟「来这里之前，发生了什么……？」
-RU PLACEHOLDER
+Чем ты занимался перед тем, как оказался здесь?
 
 ゆに「わからないんだ……」%K%P
 I don't know...
 悠尼「不知道……」
-RU PLACEHOLDER
+Я не знаю...
 
 ゆに「ぼくにも……わからないんだ……」%K%P
 Even I... don't know...
 悠尼「我也……不清楚……」
-RU PLACEHOLDER
+Я... сам не знаю...
 
 ゆに「ただ……」%K%P
 Except...
 悠尼「但是……」
-RU PLACEHOLDER
+Но...
 
 ゆに「飛行機に……乗ってて……」%K%P
 That I... got on an airplane...
 悠尼「乘坐了……飞机……」
-RU PLACEHOLDER
+Я помню... как летел на самолёте...
 
 ゆに「でもその飛行機が、墜落しちゃって……」%K%P
 But that airplane... crashed...
 悠尼「但是那个飞机，坠落了……」
-RU PLACEHOLDER
+Но самолёт... разбился...
 
 飛行機が、墜落！？%K%P
 The airplane crashed!?
 飞机坠落！？
-RU PLACEHOLDER
+Разбившийся самолёт?!
 
 １８便のことか！？%K%P
 Does he mean Flight 18!?
 １８号班机的事吗！？
-RU PLACEHOLDER
+Он о рейсе 18?!
 
 だがゆには、朱倉岳や黄泉木達のことは知らないと言った。%K%P
 But Yuni said that he didn't know anything about Mount Akakura or the people trapped there.
 但是悠尼却说不知道朱仓岳和黄泉木等人。
-RU PLACEHOLDER
+Но Юни сказал, что ничего не знает ни о горе Акакура, ни о Ёмоги и остальных.
 
 だがゆには、朱倉岳のことは知らないと言った。%K%P
 But Yuni said that he didn't know anything about Mount Akakura.
 但是悠尼却说不知道朱仓岳。
-RU PLACEHOLDER
+Но Юни сказал, что ничего не знает о горе Акакура.
 
 どういうことなんだ……！？%K%P
 What does that mean...!?
 到底怎么回事……！？
-RU PLACEHOLDER
+И как это понимать?!
 
 ゆに「それで……それから……それから……」%K%P
 And then... After that... After that...
 悠尼「因此……然后……然后……」
-RU PLACEHOLDER
+А затем... потом... потом...
 
 ゆに「気がついたら……こんなとこに……来てて……」%K%P
 When I came to... I was here... in this place...
 悠尼「注意到的时候……就已经来了……这个地方……」
-RU PLACEHOLDER
+Когда я пришёл в себя... оказался здесь... в этом месте...
 
 ゆに「雪の中……歩いてたはずなのに……」%K%P
 Even though... I should've been walking in the snow...
 悠尼「应该是在雪中……走来的……」
-RU PLACEHOLDER
+Несмотря на то, что... должен был ходить по снегу...
 
 ゆに「いつのまにか……このスフィアに……」%K%P
 Before I knew it... I was at this SPHIA place...
 悠尼「不知什么时候……进了这个ＳＰＨＩＡ……」
-RU PLACEHOLDER
+Не успел я и глазом моргнуть... как оказался в этом SPHIA...
 
 瞬間、オレはすべてを悟った。%K%P
 In that instant, everything falls into place.
 一瞬间，我领悟了一切。
-RU PLACEHOLDER
+Теперь всё стало на свои места.
 
 今のゆにの発言から考えられることはただひとつ――。%K%P
 Based on what Yuni just said, I can only think of one thing——
 从现在悠尼的话来考虑，可能性只有一个——
-RU PLACEHOLDER
+После слов Юни можно сказать только одно:
 
 ゆにも、オレやこころと同じように転移現象に巻き込まれてしまったのだ。%K%P
 Like Kokoro and I, Yuni has become wrapped up in this exchange phenomenon as well.
 悠尼好像也被卷入了与我和心同样的转移现象中。
-RU PLACEHOLDER
+Как и я с Кокоро, Юни тоже испытывает на себе феномен переноса.
 
 ただし、ゆにの場合は、別人の肉体と意識が入れ替わるというものではなかった。%K%P
 But in Yuni's case, he isn't exchanging bodies and swapping consciousnesses with another person.
 但是，悠尼的情况，不是与别人的肉体和意识相互替换。
-RU PLACEHOLDER
+Только в его случае Юни не меняется телами и не обменивается сознанием с кем-то другим.
 
 自分自身の身体の中に、彼の意識は飛び込んでしまったのだろう。%K%P
 He's probably exchanging consciousnesses with his own body.
 他的意识是在他自己的身体中转移的吧。
-RU PLACEHOLDER
+Скорее всего, он меняется сознанием с самим собой.
 
 ゆに「悟ぅ……」%K%P
 Satoruuu...
 悠尼「悟……」
-RU PLACEHOLDER
+Сатору...
 
 ゆに「ほんとにここから、出してくれるの？」%K%P
 Will you really get me out of here?
 悠尼「真的能从这里出去吗？」
-RU PLACEHOLDER
+Я действительно смогу покинуть это место?
 
 悟「ああ、約束しただろ？」%K%P
 Yeah. I promised, right?
 悟「啊，约定了吧？」
-RU PLACEHOLDER
+Ага. Я же обещал.
 
 悟「オレは約束は必ず守る男だ」%K%P
 I'm a guy who keeps his promises, no matter what.
 悟「我是一定会遵守约定的男人」
-RU PLACEHOLDER
+Я такой человек, что держит обещания несмотря ни на что.
 
 ゆに「うぅぅっ……悟ぅ……悟っ……」%K%P
 Uuuuh... Satoruuu... Satoruuu...
 悠尼「呜呜……悟……悟……」
-RU PLACEHOLDER
+У-у... Сатору... Сатору...
 
 ゆにが悲痛な声を洩らして、オレの胸に飛び込んで来る。%K%P
 Crying out in sorrow, Yuni leaps into my chest.
 悠尼发出悲痛的哭声，扑入我的胸膛。
-RU PLACEHOLDER
+Сквозь слёзы произносит Юни и утыкается мне в грудь.
 
 オレは彼の小さな身体を、そっと優しく抱きしめてやった。%K%P
 I gently hold his small body close.
 我温柔地抱着他那小小的身体。
-RU PLACEHOLDER
+Я нежно прижимаю его к себе.
 
 いつしか彼は、オレの腕の中で涙を流していた。%K%P
 Before I know it, he's crying in my arms.
 不知不觉地，他的眼泪流在我的手臂上。
-RU PLACEHOLDER
+Но он всё равно продолжает плакать.
 
 泣きすがる彼の背中は小さい。%K%P
 The back I embrace as he cries feels so small.
 他的后背显得如此瘦小。
-RU PLACEHOLDER
+Он кажется таким маленьким.
 
 首筋も、肩も、壊れてしまいそうなほど弱々しかった。%K%P
 His neck and shoulders seem so frail, like they could break at any moment.
 脖子和肩膀像快要坏掉了一般孱弱。
-RU PLACEHOLDER
+Его шея и плечи такие хрупкие, что кажется, будто вот-вот сломаются.
 
 彼は本当に、ただの子どもだった。%K%P
 He really is only a child.
 他真的只是个普通的小孩。
-RU PLACEHOLDER
+Он и правда всего лишь ребёнок.
 
 無邪気で、純粋で、傷つきやすい子ども……。%K%P
 An innocent, pure, and vulnerable child...
 天真、纯粹、容易受伤的小孩……
-RU PLACEHOLDER
+Невинный, чистый и легко ранимый.
 
 彼の温もりを、息づかいを、とても愛おしく感じた。%K%P
 His warmth, his breath, feels so dear to me.
 他的呼吸和体温，让人感到爱怜。
-RU PLACEHOLDER
+Его тепло и дыхание кажутся мне столь важными.
 
 オレが守ってやらなければ……。%K%P
 I have to protect him...
 我必须守护他……
-RU PLACEHOLDER
+Я обязан защитить его...
 
 そんな想いがふつふつと湧く。%K%P
 That feeling begins to well up inside me.
 这种感情占据了我的心灵。
-RU PLACEHOLDER
+Вот что я чувствую сейчас.
 
 とめどなく頬を伝う涙……。%K%P
 His tears continue flowing unabated...
 我看着那顺着脸颊不停流下的眼泪。
-RU PLACEHOLDER
+Его слёзы продолжают катиться из глаз не переставая...
 
 そのしずくの跡が乾くまで、彼のそばにいてやろうと思った。%K%P
 I want to be here for him until his tears dry up.
 在那泪痕干涸之前，我还是一直待在他身边吧。
-RU PLACEHOLDER
+Я должен побыть с ним, пока он не успокоится.
 
 時は流れ……。%K%P
 Time passes...
 时间流逝……
-RU PLACEHOLDER
+Время идёт...
 
 午後４時をまわった。%K%P
 It's now about 4 PM.
 已经下午４时了。
-RU PLACEHOLDER
+Уже четыре часа вечера.
 
 部屋に戻ったオレはベッドに寝転んで考えごとをしていた。%K%P
 Having returned to my room, I lie down on the bed in deep thought.
 回到房间的我躺在床上思考着。
-RU PLACEHOLDER
+Я лежу на своей кровати и размышляю.
 
 落ち着きを取り戻したゆには今、ベッドで休んでいる。%K%P
 Yuni, who's calmed down, is now resting in his own bed.
 恢复冷静的悠尼，现在在床上休息着。
-RU PLACEHOLDER
+Юни успокоился и сейчас отдыхает в своей комнате.
 
 できればもう少しゆにに付き添ってやりたいところだったが、そうもいかなかった。%K%P
 I wanted to stay with Yuni for a little while longer if possible, but that wasn't an option.
 如果可以的话很想再陪他一会儿，但是没有办法。
-RU PLACEHOLDER
+Я хотел остаться с ним подольше, но не мог.
 
 他にやらなければならないことが残っている。%K%P
 There are still things that I need to do.
 还有其它必须要做的事。
-RU PLACEHOLDER
+Есть кое-какие дела, которые необходимо завершить.
 
 オレは後ろ髪を引かれる思いで、ゆにのもとを離れた。%K%P
 With that nagging thought in the back of my mind, I parted with Yuni.
 我心存挂念，离开了悠尼。
-RU PLACEHOLDER
+С этой мыслью я и оставил его.
 
 次に向かうべき場所はすでに決まっていた。%K%P
 I've already decided where I'm going next.
 下面要去的地方已经决定了。
-RU PLACEHOLDER
+Следующий мой шаг уже предопределён.
 
 オレはその部屋のドアを開いた。%K%P
 I open the door to the room.
 我打开那个房间的门。
-RU PLACEHOLDER
+Я открываю дверь в комнату.
 
 室内に入ると、犬伏景子が机の上に座っていた。%K%P
 Entering, I see Inubushi Keiko sitting on top of the desk.
 走进室内，犬伏景子正坐在桌子上面。
-RU PLACEHOLDER
+Войдя, я вижу сидящую на столе Инубуси Кэйко.
 
 両足をダラリと垂れ下げたまま、オレのことを見ている。%K%P
 She looks toward me, both her feet dangling in the air.
 她垂着悬空的双足，望向我这边。
-RU PLACEHOLDER
+Она смотрит на меня и болтает ногами.
 
 犬伏「誰？」%K%P
 Who're you?
 犬伏「谁？」
-RU PLACEHOLDER
+Ты кто?
 
 彼女はそう言った。%K%P
 She asks me that.
 她说道。
-RU PLACEHOLDER
+Произносит она.
 
 『誰？』と……。%K%P
 “Who're you?”...
 “谁？”……
-RU PLACEHOLDER
+Кто я?..
 
 オレは挨拶も何も抜きにして、こう尋ねずにはいられなかった。%K%P
 Even after dispensing with greetings, for her to question me like that is awfully sudden.
 我招呼也顾不上打，忍不住问道。
-RU PLACEHOLDER
+Отбросив приветствия и тому подобное, я не могу удержаться от встречного вопроса:
 
 悟「おまえ、オレのこと、知らないのか？」%K%P
 Hey, don't you know me?
 悟「你不认识我吗？」
-RU PLACEHOLDER
+Разве ты меня не знаешь?
 
 彼女が長い黒髪をわさわさと掻き毟って答える。%K%P
 Scratching idly at her long hair, she answers.
 她挠着长长的黑发，答道。
-RU PLACEHOLDER
+Она проводит руками по волосам и отвечает:
 
 犬伏「ああ、思い出した思い出した」%K%P
 Aah, I remember, I remember.
 犬伏「啊，想起来了想起来了」
-RU PLACEHOLDER
+А, помню, помню.
 
 犬伏「そう言えば、昨日会ったよね？」%K%P
 We met yesterday, come to think of it.
 犬伏「这么说来，昨天见过呢？」
-RU PLACEHOLDER
+Мы ведь встречались вчера.
 
 犬伏「助けてくれるって約束したのに、結局なんにもしてくれなかった……」%K%P
 You promised that you'd protect me, but in the end, you didn't do a thing...
 犬伏「约好要救我的，结果却什么都没做……」
-RU PLACEHOLDER
+Ты обещал мне помочь, но так ничего в итоге и не сделал...
 
 犬伏「まあ、打たれたのはただの鎮静剤みたいだったから、別にいいけど」%K%P
 Well, all she hit me with was a sedative, so I guess it doesn't really matter.
 犬伏「算了，还好只是被打了普通的镇静剂」
-RU PLACEHOLDER
+Ну, раз она вколола мне всего лишь успокоительное, ничего страшного.
 
 話の内容もさることながら、その言葉づかいと態度に呆気にとられていた。%K%P
 The contents of this conversation aside, I'm taken aback by her attitude and manner of speech.
 撇开所说内容不提，她说话时的态度着实让人目瞪口呆。
-RU PLACEHOLDER
+Даже если не обращать внимания на тему разговора, меня поражает её поведение и манера говорить.
 
 ゆうべの彼女の様子とはまったく違う。%K%P
 She seems like a completely different person compared to the girl from last night.
 与昨晚她的样子完全不同。
-RU PLACEHOLDER
+Она совершенно не похожа на девушку, которую я видел прошлой ночью.
 
 助けを求めてオレにしがみついてきた彼女……。%K%P
 The girl who'd clung to me, pleading for help...
 向我寻求帮助的她……
-RU PLACEHOLDER
+Которая цеплялась за меня, умоляя её спасти...
 
 その面影は、もはやどこにも見当たらなかった。%K%P
 There isn't so much as a trace of her anymore.
 那副面容，已经再也找不到了。
-RU PLACEHOLDER
+От неё не осталось и следа.
 
 犬伏「あの女……内海とかいう女の手下、でしょ？」%K%P
 That woman... You're the underling of that Utsumi woman, aren't you?
 犬伏「那个女人……叫做内海的女人的手下，是吧？」
-RU PLACEHOLDER
+Та женщина... Ты ведь шестёрка этой Уцуми, да?
 
 話の内容もさることながら、その言葉づかいと態度に呆気にとられていた。%K%P
 The contents of this conversation aside, I'm taken aback by her attitude and manner of speech.
 撇开所说内容不提，她说话时的态度着实让人目瞪口呆。
-RU PLACEHOLDER
+Даже если не обращать внимания на тему разговора, меня поражает её поведение и манера говорить.
 
 ゆうべの彼女の様子とはまったく違う。%K%P
 She seems like a completely different person compared to the girl from last night.
 与昨晚她的样子完全不同。
-RU PLACEHOLDER
+Она совершенно не похожа на девушку, которую я видел прошлой ночью.
 
 懇願するような眼差しでオレの顔を見上げた彼女……。%K%P
 The girl who'd looked up at me with pleading eyes...
 用恳求的眼神仰望着我的面孔的她……
-RU PLACEHOLDER
+Которая цеплялась за меня, умоляя её спасти...
 
 その面影は、もはやどこにも見当たらなかった。%K%P
 There isn't so much as a trace of her anymore.
 那副面容，已经再也找不到了。
-RU PLACEHOLDER
+От неё не осталось и следа.
 
 犬伏「名前は……？」%K%P
 And you are...?
 犬伏「名字是……？」
-RU PLACEHOLDER
+Как тебя зовут?..
 
 彼女が尋ねてくる。%K%P
 She asks.
 她问道。
-RU PLACEHOLDER
+Спрашивает она.
 
 オレはくちを閉ざしたまま、答えることができない。%K%P
 My mouth is frozen shut. I can't answer.
 我闭着嘴，无法回答。
-RU PLACEHOLDER
+Я не могу ответить ― мой рот просто не открывается.
 
 犬伏「ねえ、訊いてんでしょ？」%K%P
 Hey, you're listening, right?
 犬伏「喂，问你话呢？」
-RU PLACEHOLDER
+Эй, ты слышишь?
 
 犬伏「ノックもしないで勝手にひとの部屋に入ってきて……」%K%P
 You entered someone else's room without knocking...
 犬伏「也不敲门就随便进入别人房间……」
-RU PLACEHOLDER
+Входишь в чужую комнату без стука...
 
 犬伏「しかも、ほとんど初対面も同然だっていうのに、自己紹介もしないで……」%K%P
 And this is pretty much the first time we've met, but you won't even introduce yourself...
 犬伏「而且我们基本上就如同是初次见面，也不自我介绍一下……」
-RU PLACEHOLDER
+Кроме того, это в некотором роде наша первая встреча, а ты даже не представился...
 
 犬伏「なによ、それ？」%K%P
 What's up with that?
 犬伏「干什么啊？」
-RU PLACEHOLDER
+Что за дела вообще?
 
 犬伏「失礼だと思わない？」%K%P
 Isn't it pretty rude?
 犬伏「不觉得很没礼貌吗？」
-RU PLACEHOLDER
+Не думаешь, что это грубо?
 
 オレの思考はめまぐるしく回転を始める。%K%P
 Bewildered thoughts begin to whirl around my head.
 我的思考开始乱七八糟地回转。
-RU PLACEHOLDER
+Я глубоко озадачен.
 
 『ほとんど初対面も同然』……彼女はそう言った。%K%P
 “This is pretty much the first time we've met”... is what she said.
 “基本上就如同是初次见面”……她这么说。
-RU PLACEHOLDER
+"Это в некотором роде наша первая встреча"... так она сказала.
 
 ということは、彼女は冬川こころにも会っていないということか？%K%P
 Does that mean that she hasn't met Fuyukawa Kokoro either?
 难道她还没遇到过冬川心？
-RU PLACEHOLDER
+Она что, ещё не встречалась с Фуюкавой Кокоро?
 
 オレの肉体がこころに操られているときも含めて、初対面も同然……そういうことだよな？%K%P
 This is our first meeting, even including the times when my body was being controlled by Kokoro... Is that what she means?
 包括我的肉体被心控制的时间在内，仍然如同是初次见面……是这么回事吗？
-RU PLACEHOLDER
+Это в некотором роде наша первая встреча, даже включая то время, когда в моём теле было сознание Кокоро... Так?
 
 犬伏「なーんてね♪　うっそぴょーん♪」%K%P
 As iiiif♪ Juuust kidding♪
 犬伏「骗你的啦?说谎的哟?」
-RU PLACEHOLDER
+Шучу, просто шучу♪
 
 ふいに、彼女はおどけた声をあげた。%K%P
 She suddenly speaks up in a bright, playful voice.
 突然，她发出古灵精怪的声音。
-RU PLACEHOLDER
+Внезапно произносит она игриво.
 
 声と同時に机の上から飛び降りる。%K%P
 And as it leaps from her mouth, she too jumps up from the desk.
 同时从桌子上跳下来。
-RU PLACEHOLDER
+После чего спрыгивает со стола.
 
 スイスイと床を滑って、オレの前へと近づいてきた。%K%P
 Gliding smoothly across the floor, she draws toward me.
 轻快地滑过地板，靠到我的跟前。
-RU PLACEHOLDER
+Лёгкой походкой она подходит ко мне...
 
 一度身を屈め、大きく飛び跳ねる。%K%P
 After crouching down once, she suddenly takes a great hop forward.
 弯下身来，又大跳一下。
-RU PLACEHOLDER
+...наклоняется и делает в мою сторону большой шаг.
 
 立ち上がった彼女の顔は、息の吹きかかるほどの距離にあった。%K%P
 When she stands up, her face is close enough for my breath to fan against it.
 她贴着我站起身来，我甚至能感觉到她的鼻息。
-RU PLACEHOLDER
+Она стоит так близко, что я чувствую её дыхание.
 
 悪戯っぽい瞳の色……。%K%P
 Her eyes contain an impish spark...
 瞳孔中透着恶作剧的神色……
-RU PLACEHOLDER
+В её глазах мелькают озорные искорки...
 
 くちもとは、なにやら企みを秘めているかのようにゆるんでいた。%K%P
 Her lips curve in a soft grin, as if she's trying to cover up some kind of prank.
 嘴角像隐藏着什么企图一样松弛着。
-RU PLACEHOLDER
+Уголки её губ слегка приподняты, как если бы она пыталась скрыть, что замышляет какую-то проделку.
 
 オレにはわけがわからない。%K%P
 I can't understand her at all.
 我搞不清情况了。
-RU PLACEHOLDER
+Уж не знаю, что это...
 
 ますます寡黙になるばかりで……。%K%P
 I just become quieter and quieter...
 只是一直沉默下去……
-RU PLACEHOLDER
+Такое чувство, что она старается себя сдерживать...
 
 犬伏「あなたの名前は冬川こころ」%K%P
 Your name is Fuyukawa Kokoro.
 犬伏「你的名字是冬川心」
-RU PLACEHOLDER
+Тебя зовут Фуюкава Кокоро.
 
 犬伏「実は、知ってたんだ」%K%P
 Actually, I knew that all along.
 犬伏「实际上，我知道哦」
-RU PLACEHOLDER
+На самом деле я уже знаю.
 
 犬伏「あの、ゆにとかっていう子から聞いたの」%K%P
 I heard it from that Yuni kid.
 犬伏「那个，从叫悠尼的孩子那里听来的」
-RU PLACEHOLDER
+Я слышала это имя от Юни.
 
 彼女が話せば話すほど、混乱の度合いは深まっていく。%K%P
 The more she says, the greater my confusion grows.
 她越说我越混乱了。
-RU PLACEHOLDER
+Чем больше она говорит, тем больше я впадаю в замешательство.
 
 謎、謎、謎……謎の渦に巻かれて窒息してしまいそうだった。%K%P
 Mystery upon mystery upon mystery... It feels like I'll drown in a whirlpool of them.
 谜、谜、谜……被谜之旋涡卷的快要窒息了。
-RU PLACEHOLDER
+Тайна за тайной... Такое чувство, что я скоро утону в этом водовороте.
 
 とにかく、この情報の洪水を堰き止めなければ……。%K%P
 Anyway, I need to do something to dam this flood of information...
 总之，必须堵住这决堤般的信息……
-RU PLACEHOLDER
+Но в то же время я чувствую, что должен как-то остановить этот поток информации.
 
 一つひとつ解決していかなければ……。%K%P
 I have to resolve each issue one at a time...
 必须一个一个解决……
-RU PLACEHOLDER
+Надо решать возникающие вопросы последовательно...
 
 オレは声を振り絞るようにして言った。%K%P
 I address her in a strained voice.
 我拼命地高声说。
-RU PLACEHOLDER
+Повысив голос, я говорю:
 
 悟「オレは、こころじゃない」%K%P
 I'm not Kokoro!
 悟「我不是心」
-RU PLACEHOLDER
+Я не Кокоро!
 
 悟「優希堂悟だ」%K%P
 I'm Yukidoh Satoru!
 悟「是优希堂悟」
-RU PLACEHOLDER
+Я Юкидо Сатору!
 
 嫌気がさすほどくちにした、お決まりのフレーズ……。%K%P
 I've uttered those words so many times that I'm getting sick of them. They could practically be my catchphrase by now...
 我厌烦地重复着惯例的话……
-RU PLACEHOLDER
+Я столько раз произнёс это, что эта обычная, казалось бы, фраза уже вызывает у меня отвращение.
 
 すでに条件反射的に返せるようにまでなっていた。%K%P
 Answering like that has already become a conditioned reflex.
 基本变成条件反射了。
-RU PLACEHOLDER
+У меня уже выработался условный рефлекс так отвечать.
 
 犬伏「あっ、そうだったんだ？」%K%P
 Ah, is that so?
 犬伏「啊，是那样吗？」
-RU PLACEHOLDER
+Ах, вот как?
 
 犬伏「優希堂悟……」%K%P
 Yukidoh Satoru...
 犬伏「优希堂悟……」
-RU PLACEHOLDER
+Юкидо Сатору...
 
 犬伏「ゆにの言ってたもうひとりの人格とかいうやつね？」%K%P
 That other personality that Yuni mentioned, right?
 犬伏「悠尼所说的另一人格？」
-RU PLACEHOLDER
+Та другая личность, о которой упоминал Юни, так?
 
 悟「ちょっと待ってくれ」%K%P
 Hold on a second!
 悟「等等」
-RU PLACEHOLDER
+Секундочку.
 
 悟「オレをサブ的に扱わないでくれるか？」%K%P
 Can you not treat me like I'm some sort of stand-in?
 悟「请不要把我当作副人格好吗？」
-RU PLACEHOLDER
+Можешь не говорить обо мне как об альтернативной личности?
 
 悟「あくまでも、この肉体の正式な所有者は、オレなんだから」%K%P
 After all, I'm the original owner of this body.
 悟「说到底，这个肉体的正式所有者，是我才对」
-RU PLACEHOLDER
+В конце концов, я первоначальный владелец этого тела.
 
 犬伏「つまり、悟がメインの人格ってこと？」%K%P
 In other words, you're the main personality, Satoru?
 犬伏「就是说，悟是主人格？」
-RU PLACEHOLDER
+Другими словами, ты ― основная личность, Сатору?
 
 悟「うん、うーん……」%K%P
 Hmm, hmmmm...
 悟「嗯，嗯……」
-RU PLACEHOLDER
+Ну, м-м...
 
 悟「まあ、そう思ってもらってもかまわない」%K%P
 Well, I don't mind if you think of it like that.
 悟「算了，也可以那么认为」
-RU PLACEHOLDER
+Можешь считать так, мне без разницы.
 
 苦々しく思いながらもそう呟いた。%K%P
 I mutter somewhat bitterly.
 我非常不痛快地嘟哝着。
-RU PLACEHOLDER
+Уныло бормочу я.
 
 今、この状況で、よりによって彼女に対して、転移現象のことを説明する気にはなれなかった。%K%P
 Given the current situation, I don't feel like explaining the exchange phenomenon to her, of all people.
 现在这个状况，也没法跟她详细说明具体的转移现象。
-RU PLACEHOLDER
+Не думаю, что это хорошая идея ― пытаться объяснить феномен переноса, тем более ей.
 
 犬伏「ＯＫ、わかった」%K%P
 Okay, got it.
 犬伏「ＯＫ，明白了」
-RU PLACEHOLDER
+Окей, поняла.
 
 犬伏「今のあなたは優希堂悟」%K%P
 Then you're Yukidoh Satoru right now.
 犬伏「现在的你是优希堂悟」
-RU PLACEHOLDER
+Сейчас ты ― Юкидо Сатору.
 
 犬伏「じゃあ、ゆうべ地下倉庫まで私を追い駆けてきたのも……？」%K%P
 Were you the one who chased me all the way to the basement yesterday...?
 犬伏「那么，昨晚追我到地下仓库的也是……？」
-RU PLACEHOLDER
+Так это ты гнался вчера за мной до подвала?
 
 悟「ああ、オレだ」%K%P
 Yeah, that was me.
 悟「啊，是我」
-RU PLACEHOLDER
+Да, это был я.
 
 犬伏「ふーん……」%K%P
 Hmm...
 犬伏「哼……」
-RU PLACEHOLDER
+Хм-м...
 
 彼女は蔑むような笑みを浮かべて、チラリと視線をそらした。%K%P
 A scornful smile appears on her face, and she averts her eyes briefly.
 她露出轻蔑的笑意，顷刻间移开了视线。
-RU PLACEHOLDER
+Я успеваю заметить на её лице пренебрежительную улыбку, прежде чем она бросает на меня резкий взгляд и отворачивается.
 
 犬伏「ああ、そう言えば、私の名前、まだ教えてなかったよねぇ？」%K%P
 Ah, now that I think about it, I never told you my name, did I?
 犬伏「啊，说起来，我的名字，还没有告诉你吧？」
-RU PLACEHOLDER
+А, кстати, я ведь до сих пор так и не представилась, да?
 
 悟「いや、知ってるよ」%K%P
 No, I already know.
 悟「不，我知道」
-RU PLACEHOLDER
+Я знаю, как тебя зовут.
 
 悟「きみの名前は……」%K%p
 Your name is...
 悟「你的名字是……」
-RU PLACEHOLDER
+Тебя зовут...
 
 犬伏景子だろう？
 Inubushi Keiko, right?
 犬伏景子吧？
-RU PLACEHOLDER
+"Инубуси Кэйко, верно?"
 
 涼蔭穂鳥だろう？
 Suzukage Hotori, right?
 凉荫穗鸟吧？
-RU PLACEHOLDER
+"Судзукагэ Хотори, верно?"
 
 悟「犬伏景子だろう？」%K%P
 Inubushi Keiko, right?
 悟「犬伏景子吧？」
-RU PLACEHOLDER
+Инубуси Кэйко, верно?
 
 犬伏「イヌブシケイコ？」%K%P
 Eenubushee Kayko?
 犬伏「犬福井子？」
-RU PLACEHOLDER
-
-//Should we just repeat Inubushi Keiko? Satoru's line was in kanji while hers was katakana
+Инубуси Кэйко?
 
 犬伏「誰よ、それ……」%K%P
 Who the heck is that...?
 犬伏「那是谁啊……」
-RU PLACEHOLDER
+Это ещё кто?..
 
 犬伏「昔の彼女の名前か何か？」%K%P
 Your old girlfriend or something?
 犬伏「以前的她的名字还是什么？」
-RU PLACEHOLDER
+Так звали твою бывшую или типа того?
 
 犬伏「私の名前は涼蔭穂鳥……」%K%P
 My name is Suzukage Hotori...
 犬伏「我的名字是凉荫穗鸟……」
-RU PLACEHOLDER
+Меня зовут Судзукагэ Хотори...
 
 犬伏「間違えないでくれる？」%K%P
 Could you not get it wrong like that?
 犬伏「别搞错了啊？」
-RU PLACEHOLDER
+Не мог бы ты запомнить?
 
 その言葉を聞いて思い出した。%K%P
 Hearing that from her, I suddenly remember something.
 听到这话我想起来。
-RU PLACEHOLDER
+И тут я кое-что вспоминаю.
 
 内海とゆにが『穂鳥』という名前で彼女を呼んでいたこと……。%K%P
 Utsumi and Yuni had called her by the name “Hotori”...
 内海和悠尼都称她为“穗鸟”……
-RU PLACEHOLDER
+Уцуми и Юни зовут её Хотори...
 
 つまり、いま目の前にいる彼女は涼蔭穂鳥の人格に支配されているということか。%K%P
 In other words, that means that right now, the dominant personality of the girl in front of me is Suzukage Hotori.
 也就是说，现在眼前的她是在被凉荫穗鸟的人格支配着。
-RU PLACEHOLDER
+Получается, что в ней сейчас доминирует личность Судзукагэ Хотори.
 
 しかし、それにしては不自然なことがある。%K%P
 However, there's something unnatural about that.
 可是，这样一来就不自然了。
-RU PLACEHOLDER
+Но что-то тут не так...
 
 どうして彼女は犬伏景子のことを知らないのだ……？%K%P
 Why doesn't she know about Inubushi Keiko...?
 为什么她不知道犬伏景子的事情……？
-RU PLACEHOLDER
+Почему она ничего не знает об Инубуси Кэйко?
 
 戸籍上の本名であるその名前を、彼女が知らないはずはないと思うのだが……？%K%P
 Shouldn't she know the name written in her own family register...?
 户籍上写的那个本名，我想她不应该不知道的啊……？
-RU PLACEHOLDER
+Разве она не должна знать своё настоящее имя?
 
 疑問に思いながらも、オレはひとまずこう言った。%K%P
 Still harboring my doubts, I speak up in the meantime.
 虽然满腹疑窦，我暂且这样说道。
-RU PLACEHOLDER
+Всё ещё терзаемый сомнениями, я говорю:
 
 悟「そうか、きみは穂鳥なのか……」%K%P
 I see, so you're Hotori...
 悟「是吗，你是穗鸟……」
-RU PLACEHOLDER
+Ясно. Значит, ты Хотори...
 
 犬伏「うん」%K%P
 Yup!
 犬伏「嗯」
-RU PLACEHOLDER
+Угу.
 
 こくりとうなずく彼女……。%K%P
 She nods immediately...
 她一个劲儿地点头……
-RU PLACEHOLDER
+Она незамедлительно кивает.
 
 今ここで『おまえは犬伏景子のはずだ！』と主張したところでどうにもなるまい。%K%P
 If I try to assert “You should be Inubushi Keiko!” as fact here and now, nothing will come of it.
 此时此地也不能够坚持地说“你应该是犬伏景子！”。
-RU PLACEHOLDER
+Если я прямо сейчас начну с ней спорить, что она на самом деле Инубуси Кэйко, это ни к чему не приведёт.
 
 オレは彼女の症状を気遣いつつ、穂鳥と呼んであげることにした。%K%P
 Though I still have my apprehensions about her condition, I decide to call her Hotori.
 我为了照顾她的症状，决定用穗鸟称呼她。
-RU PLACEHOLDER
+Опасаясь за её состояние, я решаю называть её Хотори.
 
 穂鳥「で？　悟は何をしにきたの？」%K%P
 And? What did you come here for, Satoru?
 穗鸟「那么？悟来做什么？」
-RU PLACEHOLDER
+И? Зачем же ты пришёл, Сатору?
 
 悟「涼蔭穂鳥だろう？」%K%P
 Suzukage Hotori, right?
 悟「凉荫穗鸟吧？」
-RU PLACEHOLDER
+Судзукагэ Хотори, верно?
 
 犬伏「あれ？　なんで知ってるの？」%K%P
 Huh? How did you know that?
 犬伏「哎？为何会知道？」
-RU PLACEHOLDER
+А? Как ты узнал?
 
 正解だったみたいだ。%K%P
 Seems I hit the mark.
 貌似猜对了。
-RU PLACEHOLDER
+Похоже, я прав.
 
 いま目の前にいる彼女は涼蔭穂鳥の人格に支配されている。%K%P
 Right now, the dominant personality of the girl in front of me is Suzukage Hotori.
 现在眼前的她是被凉荫穗鸟的人格所支配的。
-RU PLACEHOLDER
+В ней сейчас доминирует личность Судзукагэ Хотори.
 
 内海やゆにの発言から、オレはそのことを察していた。%K%P
 That's what I've concluded from Utsumi's and Yuni's remarks.
 根据内海和悠尼的发言，我察觉到了此事。
-RU PLACEHOLDER
+Я сделал этот вывод, исходя из слов Уцуми и Юни.
 
 恐らく、彼女は長いあいだ穂鳥のままでいるのだろう。%K%P
 She's probably been Hotori for a while now.
 恐怕，她长期保持着穗鸟的人格吧。
-RU PLACEHOLDER
+Видимо, личность Хотори доминирует в ней уже достаточно долго.
 
 犬伏景子の人格は、隠されたままで……。%K%P
 With her Inubushi Keiko personality remaining concealed...
 犬伏景子的人格，就被隐藏起来了……
-RU PLACEHOLDER
+А личность Инубуси Кэйко затаилась...
 
 穂鳥「まっ、いっか」%K%P
 Well, whatever.
 穗鸟「算啦」
-RU PLACEHOLDER
+Ну, неважно.
 
 穂鳥「そう、私の名前は涼蔭穂鳥」%K%P
 That's right, my name's Suzukage Hotori.
 穗鸟「对，我的名字是凉荫穗鸟」
-RU PLACEHOLDER
+Так и есть, меня зовут Судзукагэ Хотори.
 
 穂鳥「稲穂の穂に、パタパタパタァ〜の鳥」%K%P
 The ‘ho’ from ‘inaho’ (ear of rice) with the pitter-pattering of ‘tori’ (bird).
 穗鸟「稻穗的穗，啪嗒啪嗒啪嗒～的鸟」
-RU PLACEHOLDER
+"Хо" от "инахо" (зёрнышко риса) и быстрое "тори" (птичка).
 
 穂鳥「かわいい名前でしょ？」%K%P
 It's a cute name, isn't it?
 穗鸟「很可爱的名字吧？」
-RU PLACEHOLDER
+Милое имя, не правда ли?
 
 穂鳥「ちゅんちゅん、ちゅんちゅん」%K%P
 Chirp chirp, chirp chirp!
 穗鸟「啾啾，啾啾」
-RU PLACEHOLDER
+Чик-чирик, чик-чирик!
 
 彼女は手のひらをくちばし状にすぼめて、オレの胸元を突付いてきた。%K%P
 She makes the shape of a beak with her hand and uses it to peck my chest.
 她把手掌缩成鸟喙状，在我的胸前啄着。
-RU PLACEHOLDER
+Она делает ладонью импровизированный клюв и начинает "клевать" им меня в грудь.
 
 こういう女性にオレは弱い。%K%P
 I'm weak against girls like her.
 对这种女性我很没辙。
-RU PLACEHOLDER
+Я слаб перед такими девушками.
 
 弱いというのは、対処の仕方に困るという意味だ。%K%P
 And when I say weak, I mean that I have trouble figuring out how to deal with them.
 说是没辙，就是苦于没有应对办法的意思。
-RU PLACEHOLDER
+В том смысле, что я не знаю, как себя с ними вести.
 
 手首をつかんでやめさせるわけにもいかないし……。%K%P
 It isn't like I can just grab her wrist to make her stop...
 应该抓住她的手腕让她停止吗……
-RU PLACEHOLDER
+Не могу же я просто схватить её за запястье, чтобы остановить это представление...
 
 オレは困惑しながらも、彼女のなすがままにされていた。%K%P
 Bewildered as I am, she has me at her mercy.
 我一边困惑着，一边随她摆弄。
-RU PLACEHOLDER
+Пока стою весь такой в растерянности, я полностью в её власти.
 
 穂鳥「で？　悟は何をしにきたの？」%K%P
 And? What did you come here for, Satoru?
 穗鸟「那么？悟来做什么？」
-RU PLACEHOLDER
+И? Зачем же ты пришёл, Сатору?
 
 手のひらをくちばし状にしたまま、それをパクパクと開いて彼女は訊いてきた。%K%P
 She asks while flapping her hand open and shut, as if the beak is talking.
 她将模仿鸟喙的手掌一张一合，问道。
-RU PLACEHOLDER
+Говорит она своим "клювом", открывая и закрывая его в такт словам.
 
 悟「いや、ちょっと、話がしたかっただけだよ」%K%P
 Nothing, I just wanted to talk for a while.
 悟「不，只是，想聊聊天而已啊」
-RU PLACEHOLDER
+Да так, просто поговорить немного хотел.
 
 彼女が確かにＤＩＤであると判明した今、事前に訊こうと思っていた内容はすでに解決してしまっていた。%K%P
 Now that I've established she really does have DID, the things I planned to ask her beforehand have already been resolved.
 现在既然判明了她确实是ＤＩＤ，那么事前想问的内容已经解决了。
-RU PLACEHOLDER
+Теперь, когда получил подтверждение того, что у неё ДРИ, я получил все ответы на свои вопросы.
 
 けれど、この部屋に入ってきてから新たに生まれた謎はある。%K%P
 But a new mystery had been born the moment I entered this room.
 可是，在进入这个房间后又产生了新的疑问。
-RU PLACEHOLDER
+Но, как только я вошёл в эту комнату, появилась новая загадка.
 
 オレはその疑問を投げかけてみた。%K%P
 I try to put forth some of my doubts.
 我试着提出这个疑问。
-RU PLACEHOLDER
+Я пытаюсь отбросить одолевающие меня сомнения.
 
 悟「なあ、穂鳥……」%K%P
 Hey, Hotori...
 悟「那个，穗鸟……」
-RU PLACEHOLDER
+Слушай, Хотори...
 
 悟「どうしてさっき、嘘なんかついたんだ？」%K%P
 Why did you lie just now?
 悟「为什么刚才要说谎？」
-RU PLACEHOLDER
+Почему ты ранее соврала?
 
 穂鳥「嘘？」%K%P
 Lie?
 穗鸟「说谎？」
-RU PLACEHOLDER
+Соврала?
 
 悟「オレの名前、知らないようなふりしてただろ？」%K%P
 You acted like you didn't know my name, right?
 悟「装作不知道我的名字，对吧？」
-RU PLACEHOLDER
+Когда прикидывалась, что не знаешь моего имени.
 
 穂鳥「ああ、あれね？　ちょっとからかってみただけよ」%K%P
 Oh, that? I just wanted to tease you a little.
 穗鸟「啊，那个呢？只是试着戏弄你一下啦」
-RU PLACEHOLDER
+Ах, это... Я просто хотела тебя немножко подразнить.
 
 穂鳥「悟って……こんなこと言うのもなんだけど……」%K%P
 Satoru... Maybe I'm not one to say this, but...
 穗鸟「悟你……说这种话可能不好听……」
-RU PLACEHOLDER
+Ты... Хоть ты сейчас так и говоришь, Сатору, но...
 
 穂鳥「頭オカシイんでしょう？」%K%P
 You're actually not quite right in the head, are you?
 穗鸟「脑子很奇怪吧？」
-RU PLACEHOLDER
+Ты ведь сумасшедший?
 
 穂鳥「ＤＶＤ、だっけ？」%K%P
 You've got... DVD, wasn't it?
 穗鸟「ＤＶＤ，是吧？」
-RU PLACEHOLDER
+Как его там, ДВД?
 
 悟「ＤＩＤ、乖離性同一性障害」%K%P
 DID, actually. Dissociative identity disorder.
 悟「ＤＩＤ，分离性身份识别障碍」
-RU PLACEHOLDER
+ДРИ, диссоциативное расстройство идентичности.
 
 穂鳥「そっかそっか」%K%P
 That's it, that's it.
 穗鸟「对对」
-RU PLACEHOLDER
+Да-да, именно.
 
 穂鳥「その、カイリセイなんちゃらかんちゃらに、なってるんだよね？」%K%P
 You have that dissociadoodiithingy thing, right?
 穗鸟「那个，分离性什么什么的，你患了那个病吧？」
-RU PLACEHOLDER
+У тебя эта диссоциафигня, да?
 
 悟「うん、まあ、そういうことだ」%K%P
 Yeah, I guess that's right.
 悟「嗯，是，有那么回事」
-RU PLACEHOLDER
+Угу, как-то так.
 
 説明するのも面倒だったので、おざなりに答えてやる。%K%P
 I answer her with that, since explaining it in detail would be too much of a hassle.
 解释起来太麻烦了，我敷衍着回答一下。
-RU PLACEHOLDER
+Объяснять всё будет слишком хлопотно, поэтому я соглашаюсь.
 
 穂鳥「だから、私が知らないふりをしたら、どんな反応返すのかなぁ〜と思って」%K%P
 That's why I was wondering how you'd react if I pretended not to know you〜
 穗鸟「所以，我装作不知道的样子的话，会有怎样的反应呢～这么想的」
-RU PLACEHOLDER
+Вот поэтому мне стало интересно, как ты отреагируешь, если я сделаю вид, что не знаю тебя.
 
 穂鳥「いわゆる好奇心ってやつ？」%K%P
 Just basic curiosity, I guess?
 穗鸟「这就是所谓好奇心吧？」
-RU PLACEHOLDER
+Так называемый "пытливый ум".
 
 悟「…………」%K%P
 ......
 悟「…………」
-RU PLACEHOLDER
+......
 
 穂鳥「あっ、その顔、怒っちゃった？」%K%p
 Ah, that face... Are you angry?
 穗鸟「啊，那张脸，生气了？」
-RU PLACEHOLDER
+Ой, какое лицо... Ты сердишься?
 
 ちょっとな
 A bit
 悟「有点」
-RU PLACEHOLDER
+"Немного"
 
 いや
 No
 悟「没有，没生气」
-RU PLACEHOLDER
+"Нет"
 
 悟「ちょっとな」%K%P
 A bit.
 悟「有点」
-RU PLACEHOLDER
+Немного.
 
 穂鳥「ええー！　やだやだやだぁー！」%K%P
 What!? No, no, no〜!
 穗鸟「哎——！不要不要不要——！」
-RU PLACEHOLDER
+Как?! Нет-нет-не-ет!
 
 穂鳥「怒んないでぇー！」%K%P
 Don't get angry〜!
 穗鸟「不要生气嘛——！」
-RU PLACEHOLDER
+Не серди-ись!
 
 悟「いや、別に」%K%P
 No, not really.
 悟「没有，没生气」
-RU PLACEHOLDER
+Нет, совсем нет.
 
 穂鳥「うそだー！　絶対怒ってるもん、その顔ー！」%K%P
 You're lying〜! You're definitely angry! Look at your face!
 穗鸟「骗人——！绝对生气了，那张脸——！」
-RU PLACEHOLDER
+Врёшь ты всё! Посмотри на своё лицо: ты явно сердишься!
 
 穂鳥「やだやだやだぁ！　怒んないでぇ〜！」%K%P
 No no no〜! Don't get angry〜!
 穗鸟「不要不要不要！不要生气嘛～！」
-RU PLACEHOLDER
+Нет-нет-нет! Не сердись〜!
 
 穂鳥「ごめんなり〜、なのであり〜」%K%P
 I most deeply and sincerely apologize〜, I really do〜
 穗鸟「对不起～了啦～」
-RU PLACEHOLDER
+Мне так заль〜, очень заль〜
 
 ぺこり、彼女は両手を胸の前であわせて頭を下げた。%K%P
 She claps her hands and dips her head in a courtly bow.
 她很讲究地将双手合在胸前低下头。
-RU PLACEHOLDER
+Она складывает руки у груди и опускает голову.
 
 やはり、オレには扱い方がよくわからない。%K%P
 Unsurprisingly, I'm having a hard time figuring out how to deal with her.
 果然，我还是不怎么清楚应对她的办法。
-RU PLACEHOLDER
+Я не представляю, как мне себя с ней вести.
 
 腕組みをして、視線を窓の方に向けた。%K%P
 I cross my arms and look out the window.
 我抱着胳膊，将视线转向窗户那边。
-RU PLACEHOLDER
+Я скрещиваю руки на груди и смотрю в окно.
 
 彼女はなおも頭を下げ続けている。%K%P
 But she still remains there with her head bowed.
 她依然低着头。
-RU PLACEHOLDER
+Она продолжает стоять с опущенной головой.
 
 悟「わかったよ」%K%P
 I get it!
 悟「知道了」
-RU PLACEHOLDER
+Я понял.
 
 悟「もういいから、顔をあげてくれ」%K%P
 Enough. Raise your head already.
 悟「好了好了，抬起脸吧」
-RU PLACEHOLDER
+Хватит уже, подними голову.
 
 穂鳥「えっ？　じゃあ許してくれるの？」%K%P
 Eh? Then you're going to forgive me?
 穗鸟「哎？那么说原谅我了？」
-RU PLACEHOLDER
+Что? То есть ты меня прощаешь?
 
 悟「ああ」%K%P
 Yeah.
 悟「啊」
-RU PLACEHOLDER
+Ага.
 
 穂鳥「ほんとに？　怒ってない？」%K%P
 Really? You're not mad?
 穗鸟「真的？不生气了？」
-RU PLACEHOLDER
+Правда? Ты больше не сердишься?
 
 悟「うん」%K%P
 Nope.
 悟「嗯」
-RU PLACEHOLDER
+Неа.
 
 オレがそう告げると、彼女は満面の笑みを浮かべてその場で一回転して見せた。%K%P
 Once I tell her that, she spins around in delight with a wide smile across her face.
 我那样告诉她，她露出满脸笑意，在原地转了一圈给我看。
-RU PLACEHOLDER
+Услышав мои слова, она разок кружится вокруг себя; на её лице сияет широкая улыбка.
 
 穂鳥「わ〜い！　よかった！」%K%P
 Yay〜! Thank goodness!
 穗鸟「哇～！太好了！」
-RU PLACEHOLDER
+Ура〜! Слава богу!
 
 そんなに嫌われるのがいやなら、最初から冷やかすような真似なんてしなければいいのに……。%K%P
 If she hates the thought of anyone disliking her so much, then she shouldn't have mocked me like that in the first place...
 那么不愿意被讨厌的话，一开始不要装模作样捉弄人不就行了……
-RU PLACEHOLDER
+Если ей так не нравится, когда на неё злятся, то незачем насмешливо себя вести.
 
 オレには彼女の言動が理解できなかった。%K%P
 I can't understand her demeanor.
 我无法理解她的言行。
-RU PLACEHOLDER
+Не могу понять её поведение.
 
 その後……。%K%N
 Afterward...
 之后……
-RU PLACEHOLDER
+После этого...
 
 オレは彼女にふたつの質問をした。%K%N
 I present her with two questions.
 我问了她两个问题。
-RU PLACEHOLDER
+Я задал ей два вопроса.
 
 どこからが真実で、どこまでが嘘なのか、判然としなかったからだ。%K%N
 It isn't clear how much of what she says is the truth, though.
 哪些是真实，哪些是谎言，还无法判断。
-RU PLACEHOLDER
+Сложно сказать, что в её словах было правдой, а что ложью.
 
 それぞれの問いと答えは次の通り。%K%P
 The questions and answers are as follows.
 问题和回答分别如下。
-RU PLACEHOLDER
+Примерное содержание нашей беседы таково:
 
 Ｑ１：穂鳥はゆにからオレの名前を聞いたというが、それは本当なのか？%K%N
 Q1: Is it true that you heard my name from Yuni?
 Ｑ１：穗鸟是从悠尼那里听说我的名字的，是真的吗？
-RU PLACEHOLDER
+Вопрос 1: Правда ли, что ты услышала моё имя от Юни?
 
 Ａ１：本当である。%K%N
 A1: It's true indeed.
 Ａ１：是真的。
-RU PLACEHOLDER
+Ответ 1: Правда.
 
 穂鳥（犬伏景子）とオレは、ずっと前からこの施設にいたはずだ。%K%N
 Hotori (Inubushi Keiko) and I have supposedly been in this facility for a while now.
 穗鸟（犬伏景子）和我，之前应该是一直在这个设施里的。
-RU PLACEHOLDER
+Предположительно, Хотори (Инубуси Кэйко) и я должны находиться в этом учреждении уже достаточно давно.
 
 にもかかわらず、穂鳥はゆにから聞くまで、オレの名前さえ知らなかったという。%K%P
 However, until she heard it from Yuni, Hotori didn't even know my name.
 然而，到穗鸟从悠尼那里听说为止，她竟然都不知道我的名字。
-RU PLACEHOLDER
+Несмотря на это, Хотори не знала моего имени, пока не услышала его от Юни.%K%N
 
 穂鳥の人格は、昨日まで表に現われることはなかった、ということか……？%K%N
 Does that mean that the Hotori personality hadn't surfaced until yesterday...?
 穗鸟的人格，到昨日为止都没有出现过，怎么回事……？
-RU PLACEHOLDER
+Значит ли это, что личность Хотори появилась только вчера?
 
 ともかく、これにより『ほとんど初対面も同然』という彼女の発言は真実だったことになる。%K%P
 At any rate, this means that when she said “this is pretty much the first time we've met”, it was the truth.
 不管怎样，根据这个可以知道她说的“基本上就如同是初次见面”是真实的。
-RU PLACEHOLDER
+В любом случае это значит, что её слова "это в некотором роде наша первая встреча" были правдой.
 
 Ｑ２：では、冬川こころの意識とは対面したことはないのか？%K%N
 Q2: Then, have you ever met the Fuyukawa Kokoro personality?
 Ｑ２：那么，没有面对过冬川心的意识吗？
-RU PLACEHOLDER
+Вопрос 2: Получается, ты никогда не контактировала с личностью Фуюкавы Кокоро?
 
 Ａ２：ない。%K%N
 A2: Nope.
 Ａ２：没有。
-RU PLACEHOLDER
+Ответ 2: Нет.
 
 『ない』と彼女は言った。%K%N
 “Nope”, she says.
 她说“没有”。
-RU PLACEHOLDER
+Она сказала "нет".
 
 オレのことをＤＩＤだと思い込んでいるのは、ゆにや内海からそう聞かされたからである。%K%P
 Her previous impression (that I had DID) was solely based on what Yuni and Utsumi had told her.
 深信我是ＤＩＤ，是因为从悠尼和内海那里这么听说的
-RU PLACEHOLDER
+Её предположение о том, что у меня ДРИ, строилось на словах Уцуми и Юни.%K%N
 
 実際に、冬川こころの意識と会話したことはないみたいだった。%K%N
 In actuality, she's never spoken to Fuyukawa Kokoro's consciousness herself.
 实际上，她似乎并没有和冬川心的意识对话过。
-RU PLACEHOLDER
+На деле она ни разу не общалась с Фуюкавой Кокоро.
 
 どういうことだろう……？%K%N
 What does this mean...?
 怎么回事……？
-RU PLACEHOLDER
+Что это значит?..
 
 こころは意図的に穂鳥の存在を避けているということか……？%K%P
 Did Kokoro purposely try to avoid Hotori...?
 心有意避开穗鸟吗……？
-RU PLACEHOLDER
+Кокоро что, целенаправленно избегала Хотори?
 
 以上２点がオレの質問だった。%K%N
 Those two points are the source of my confusion.
 以上两点就是我的问题。
-RU PLACEHOLDER
+Эти два вопроса заставляют меня задуматься.
 
 無論、彼女の言ったことがすべて真実とは限らない。%K%N
 Of course, I can't take everything Hotori says to be the absolute truth.
 当然，她说的未必全是真的。
-RU PLACEHOLDER
+Конечно, я не могу безоговорочно верить словам Хотори.
 
 「とにかく、繰り返すけど、ここでは誰の言うことも信じてはいけないの」%K%N
 “Anyway, let me repeat myself. Don't trust anything anyone says here.”
 “总而言之，我重复一遍，在这里谁的话都不能相信”
-RU PLACEHOLDER
+Как бы то ни было, я повторюсь: "Не верьте здесь ни единому слову".
 
 オレは昨日聞いた内海の言葉を思い出した。%K%P
 I remember the words Utsumi said yesterday.
 我想起昨天内海所说的话。
-RU PLACEHOLDER
+Вспоминаю я вчерашние слова Уцуми.
 
 しかし……。%K%N
 But...
 但是……
-RU PLACEHOLDER
+Но...
 
 それではいったい何を信じればいいというのか……？%K%N
 Then what was she saying that I should believe...?
 到底该相信什么才好……？
-RU PLACEHOLDER
+Чему из сказанного можно верить?
 
 懐疑論者は%TS054懐疑論%TEをも懐疑する。%K%N
 A skeptic must also doubt %TS054skepticism%TE itself.
 怀疑论者连%TS054怀疑论%TE也要怀疑。
-RU PLACEHOLDER
+Скептик должен сомневаться и в самом скептицизме.
 
 そんなものは建設的とはいえないだろう。%K%N
 I can't say that it's very constructive, though.
 那样的意见没什么建设性吧。
-RU PLACEHOLDER
+Хотя нельзя сказать, что это звучит очень конструктивно.
 
 オレは微かに疑問の余地を残しながらも、今の穂鳥の発言はすべて受け入れることにした。%K%P
 Though I still leave myself a little room for doubt, I decide to accept everything Hotori says.
 我决定留有些微疑问的余地，接受穗鸟刚才的话。
-RU PLACEHOLDER
+С некоторой толикой сомнений я решаю принять на веру всё сказанное Хотори.
 
 穂鳥「質問は、それだけ？」%K%P
 Is that everything?
 穗鸟「问题就这么多吗？」
-RU PLACEHOLDER
+Больше вопросов нет?
 
 悟「うん、今のところは……」%K%P
 Yes, for now...
 悟「嗯，暂时就这么多……」
-RU PLACEHOLDER
+Да, пока всё...
 
 穂鳥「そう」%K%P
 Okay.
 穗鸟「是吗」
-RU PLACEHOLDER
+Хорошо.
 
 穂鳥「じゃあ、次は私のお願い、聞いてくれる？」%K%P
 Then would you do something for me now?
 穗鸟「那……接下来，能满足我的愿望吗？」
-RU PLACEHOLDER
+А теперь не можешь и ты кое-что для меня сделать?
 
 悟「お願い？」%K%P
 What?
 悟「愿望？」
-RU PLACEHOLDER
+Кое-что?
 
 穂鳥「ちょっとこっちきて？」%K%P
 Come here a sec.
 穗鸟「你过来一下？」
-RU PLACEHOLDER
+Подойди-ка на секундочку.
 
 いきなり、穂鳥はぐんっとオレの腕を引き寄せた。%K%P
 Without warning, Hotori takes my arm.
 穗鸟突然抓住我的手。
-RU PLACEHOLDER
+Хотори внезапно подходит ко мне и берёт за руку.
 
 そのまま部屋の奥に向かって歩いていく。%K%P
 With a firm hold on me, she pulls me farther into the room.
 往房间深处走去。
-RU PLACEHOLDER
+И тащит вглубь комнаты.
 
 オレはなす術もなく、ふらふらと彼女に導かれていった。%K%P
 Completely helpless, I stumble as she leads me.
 我无可奈何，摇摇晃晃地顺着她的诱导走着。
-RU PLACEHOLDER
+Я покорно следую за ней.
 
 ベッド……。%K%P
 The bed...
 床……
-RU PLACEHOLDER
+Кровать...
 
 その前で立ち止まり、彼女はオレの方を向いた。%K%P
 Stopping in front of it, she turns to face me.
 在那里停下，她转身面向我。
-RU PLACEHOLDER
+Остановившись перед ней, она поворачивается ко мне.
 
 悟「な、なんだ……？」%K%P
 Wh-What...?
 悟「干、干什么……？」
-RU PLACEHOLDER
+Ч-что?..
 
 悟「どうしたんだよ、突然……」%K%P
 What are you doing...?
 悟「怎么了啊，突然……」
-RU PLACEHOLDER
+Что это ты вдруг вытворяешь?..
 
 穂鳥「いいから」%K%P
 Hush...
 穗鸟「别管那么多」
-RU PLACEHOLDER
+Всё хорошо...
 
 うろたえるオレの首筋に、彼女は腕をまわしてきた。%K%P
 She wraps her arms around my neck, flustering me.
 她用双臂绕上惊惶失措的我的脖子。
-RU PLACEHOLDER
+Пока я стою в недоумении, она обвивает мою шею руками...
 
 身体をぴったりと寄せてくる。%K%P
 She draws our bodies right up against each other.
 身体紧紧地贴过来。
-RU PLACEHOLDER
+...И прижимается ко мне всем телом.
 
 この状況は……。%K%P
 This situation is...
 这种情况……
-RU PLACEHOLDER
+Эта ситуация...
 
 この状況は……？%K%P
 This situation is...?
 这种情况……？
-RU PLACEHOLDER
+Это ведь...
 
 穂鳥「ふふふっ」%K%P
 Fufufu...
 穗鸟「呵呵呵」
-RU PLACEHOLDER
+Хе-хе-хе.
 
 穂鳥「なに怯えてるの？」%K%P
 What're you so afraid of?
 穗鸟「你怕什么啊？」
-RU PLACEHOLDER
+Чего ты боишься?
 
 穂鳥は艶やかに微笑んだ。%K%P
 Hotori wears a seductive smile.
 穗鸟露出了妖艳的微笑。
-RU PLACEHOLDER
+Хотори обворожительно улыбается
 
 片方の手のひらで、オレの髪をそっと撫でている。%K%P
 Her hand begins to softly stroke my hair.
 她用一只手轻轻地抚摸着我的头发。
-RU PLACEHOLDER
+и начинает нежно проводить по моим волосам.
 
 悟「お、お願いって……なんだよ……？」%K%P
 Wh-What do you want...?
 悟「愿、愿望……是什么啊……？」
-RU PLACEHOLDER
+Ч-чего ты хочешь?..
 
 穂鳥「わからない？」%K%P
 Don't you know?
 穗鸟「不明白吗？」
-RU PLACEHOLDER
+А ты не знаешь?
 
 ゴクリと唾を飲み込んだ。%K%P
 I swallow my saliva with a gulp.
 我吞了一口唾沫。
-RU PLACEHOLDER
+Я сглатываю.
 
 いや、飲み込もうとした。%K%P
 No, rather, I try to swallow.
 不，是打算吞一口唾沫。
-RU PLACEHOLDER
+Точнее, пытаюсь.
 
 けれど、くちの中がカラカラに干乾びていて、唾液など１滴たりとも出てはこない。%K%P
 But the inside of my mouth is bone dry.
 可是，口中干涩无比，唾液一滴也出不来。
-RU PLACEHOLDER
+Но во рту сухо, как в пустыне.
 
 穂鳥「別に、たいしたことじゃないの」%K%P
 It's nothing big.
 穗鸟「没什么大不了的」
-RU PLACEHOLDER
+В этом нет ничего такого.
 
 穂鳥「簡単なことなんだ」%K%P
 It's easy.
 穗鸟「很简单的事情」
-RU PLACEHOLDER
+Простое дело.
 
 穂鳥「すぐに……」%K%P
 It'll be...
 穗鸟「很快……」
-RU PLACEHOLDER
+Оно быстро...
 
 穂鳥「終わること……」%K%P
 Over really quick...
 穗鸟「就能做好……」
-RU PLACEHOLDER
+Закончится...
 
 穂鳥「でも……」%K%P
 But...
 穗鸟「不过……」
-RU PLACEHOLDER
+Но...
 
 穂鳥「時間をかけようと思えば……」%K%P
 If you feel like going on for longer...
 穗鸟「你不抓紧的话……」
-RU PLACEHOLDER
+Если хочешь подольше...
 
 穂鳥「いつまででも……」%K%P
 You can do it for as long as you want...
 穗鸟「也可以做很久……」
-RU PLACEHOLDER
+То вперёд, сколько захочешь...
 
 穂鳥「明日の……」%K%P
 Until tomorrow...
 穗鸟「或许可以做到……」
-RU PLACEHOLDER
+Даже до завтра...
 
 穂鳥「朝まででも……」%K%P
 Morning...
 穗鸟「明天呢……」
-RU PLACEHOLDER
+До самого утра...
 
 穂鳥「……ね？」%K%P
 ...Okay?
 穗鸟「……明白了吗？」
-RU PLACEHOLDER
+...Ну?
 
 彼女の瞳は淫らに濡れている。%K%P
 Her pupils are obscenely wet.
 她的眼睛盯着我。
-RU PLACEHOLDER
-
-//or "indecently"
+В её глазах читается желание.
 
 声も、手のひらも、唇も……。%K%P
 As are her voice, her hands, her lips...
 但我还是不太明白她的话……
-RU PLACEHOLDER
+Как и в её голосе, руках, губах...
 
 悟「な、なにが言いたいんだ……？」%K%P
 Wh-What are you trying to say...?
 悟「你、你到底想说什么……？」
-RU PLACEHOLDER
+Что... что ты хочешь сказать?
 
 かすれた声を絞り出す。%K%P
 I squeak out, my voice cracking.
 我挤出嘶哑的声音。
-RU PLACEHOLDER
+Произношу я хриплым голосом.
 
 彼女が鼻先に息をかけた。%K%P
 She exhales through her nose in a little puff.
 她轻轻吹了一口气。
-RU PLACEHOLDER
+Она медленно выдыхает.
 
 ふーっと……ともし火を吹き消すように……。%K%P
 Gently... As if to blow out a burning candle's flame...
 呼……就像要吹灭蜡烛一样……
-RU PLACEHOLDER
+Нежно... словно туша пламя свечи...
 
 その吐息までもが、なまめかしく色づいて見えた。%K%P
 Even that breath has a coquettish air.
 那呼吸，看上去也染上了奇异的色彩。
-RU PLACEHOLDER
+Даже этот её выдох полон кокетства.
 
 穂鳥「なにも言いたくなんてない」%K%P
 I'm not trying to say anything.
 穗鸟「我什么也不想说」
-RU PLACEHOLDER
+Ничего я не хочу сказать.
 
 穂鳥「なにも言わなくても済むことが、したいの」%K%P
 I want to do something you can do without saying a word.
 穗鸟「你也不用说什么。你不用说话就可以做到。我也想要你做」
-RU PLACEHOLDER
-
-//old: I want you to do it. You don't even have to say a thing.
+И тебе ничего говорить не нужно. Можно обойтись без слов. И я так хочу.
 
 彼女が耳元でささやく。%K%P
 She whispers in my ear.
 她在我耳边低语。
-RU PLACEHOLDER
+Шепчет она мне на ухо.
 
 その身体からは甘い匂いが立ち昇っていた。%K%P
 A sweet scent rises from her body.
 她身上散发出一股清香。
-RU PLACEHOLDER
+Я чувствую сладкий аромат её тела.
 
 くらくらと目眩がするほどの芳醇な香り。%K%P
 It's a mellow fragrance, potent enough to make me dizzy.
 那是一种醇美的香味，足以使我眩晕。
-RU PLACEHOLDER
+Он такой насыщенный, что у меня начинает кружиться голова.
 
 匂いがオレの理性を惑わせる。%K%P
 She's destroying my reason with a simple aroma.
 她用一种简单的香气破坏了我的理智。
-RU PLACEHOLDER
+Этот запах сковывает мой рассудок.
 
 下腹部から昇りつめてくる衝動は、もう抑えることができそうもなかった。%K%P
 It doesn't feel like I can contain the impulses rising up from my nether regions any longer.
 感觉我再也无法控制从我的阴间升起的冲动了。
-RU PLACEHOLDER
+Не думаю, что и дальше смогу сдерживать поднимающееся из нижней части тела желание.
 
 穂鳥「ねえ？　いいでしょう？」%K%P
 Okay? You'll do it, won't you?
 穗鸟「怎么样？好不好嘛？」
-RU PLACEHOLDER
+Ну как? Согласен?
 
 オレは……。%K%p
 I...
 我……
-RU PLACEHOLDER
+Я...
 
 承諾する
 Consent
 答应
-RU PLACEHOLDER
+Соглашусь
 
 拒絶する
 Refuse
 拒绝
-RU PLACEHOLDER
+Откажусь
 
 こくりと小さくうなずいた。%K%P
 Gulping, I give a small nod.
 微微地点了点头。
-RU PLACEHOLDER
+Сглотнув, я едва заметно киваю.
 
 すると……。%K%P
 And then...
 然后……
-RU PLACEHOLDER
+А затем...
 
 穂鳥「わーい♪　やったね♪」%K%P
 Yaay♪ All right♪
 穗鸟「哇～太棒了～」
-RU PLACEHOLDER
+Ура-а! Получилось!
 
 突如、穂鳥は飛び退くようにオレのそばを離れた。%K%P
 All of a sudden, Hotori jumps away from me.
 穗鸟在我身边跳了起来。
-RU PLACEHOLDER
+Хотори резко отскакивает от меня.
 
 床の上で小躍りを始める。%K%P
 She starts hopping on the floor in joy.
 开始欢呼雀跃。
-RU PLACEHOLDER
+От радости она залезает на кровать и начинает на ней прыгать.
 
 穂鳥「あのねぇ〜、実はねぇ〜、バスタブの中が汚れちゃってるのぉ〜」%K%P
 Well〜, the truth is〜, the inside of my bathtub is all dirty〜
 穗鸟「我说啊～其实呢～浴缸脏了啊～」
-RU PLACEHOLDER
+В общем, суть в том, что моя ванна вся такая грязная...
 
 穂鳥「だから、洗っといてくれない？」%K%P
 Soooo... would you wash it for me?
 穗鸟「请帮我清洗一下吧？」
-RU PLACEHOLDER
+Так что... не мог бы ты её помыть?
 
 そう言った。%K%P
 That's all she says.
 原来是这样。
-RU PLACEHOLDER
+Вот что она произносит.
 
 オレは彼女の豹変ぶりに、言葉を失っていた。%K%P
 Her sudden and complete change leaves me speechless.
 要擦洗浴缸吗？
-RU PLACEHOLDER
+От неожиданного поворота я теряю дар речи.
 
 穂鳥「ん？　どうしたの？」%K%P
 Hm? What's up?
 穗鸟「嗯？怎么了？」
-RU PLACEHOLDER
+М? Что такое?
 
 穂鳥「今さら『ヤダ』なんて言わないよねぇ〜？」%K%P
 You can't be thinking of backing out now, right〜?
 穗鸟「你不会说你不愿意吧？」
-RU PLACEHOLDER
+Ты ведь не собираешься пойти на попятную〜?
 
 穂鳥「ちゃんとうなずいたところ、見たんだから〜」%K%P
 I saw you nod, you knoowww〜!
 穗鸟「你点头的样子我可是看得一清二楚啦～」
-RU PLACEHOLDER
+Я видела, как ты кивнул〜!
 
 悟「…………」%K%P
 ......
 悟「…………」
-RU PLACEHOLDER
+......
 
 穂鳥「あっ、それともなに？」%K%P
 Ah, or is it something else?
 穗鸟「啊，难道说？」
-RU PLACEHOLDER
+Ох, или загвоздка в другом?
 
 穂鳥「なんか変なことでも想像しちゃった？」%K%P
 Were you fantasizing about something weird?
 穗鸟「难道你想让我一起擦洗吗？」
-RU PLACEHOLDER
+Неужто ты что-то там непристойное нафантазировал?
 
 穂鳥「やだ〜ん、もう、悟ったら〜ん」%K%P
 Oh my goooodness〜, shame on you, Satoru〜
 穗鸟「讨～厌啦，悟～真是的～」
-RU PLACEHOLDER
+О нет〜, ну ты даёшь, Сатору〜!
 
 腰をくねくねと揺らしながら踊り続ける彼女……。%K%P
 She wiggles and swings her hips as she keeps on dancing around me...
 她一边扭着腰一边不停地跳着舞……
-RU PLACEHOLDER
+Она продолжает скакать на кровати, покачивая бёдрами.
 
 その姿を見せつけられて、オレは自分の浅はかさを思い知った。%K%P
 Watching her, I realize how thoughtless I'd just been.
 看着她那样子，我明白了这件事只能自己来做。
-RU PLACEHOLDER
+Продолжая смотреть за её кривляньями, я осознаю, какую допустил ошибку.
 
 穂鳥「じゃ、頼んだわよぉー！」%K%P
 Well then, I'll leave it to you!
 穗鸟「那，拜托了哦！」
-RU PLACEHOLDER
+Что ж, полагаюсь на тебя!
 
 言い残して彼女が部屋を出ていく。%K%P
 Leaving only those words, she exits the room.
 留下这句话，她出了房间。
-RU PLACEHOLDER
+Сказав это, она выходит из комнаты.
 
 室内には寒々しい吹雪の音だけが残った。%K%P
 Inside, only the desolate sound of the snowstorm remains.
 室内只留下彻骨的暴风雪的怒吼声。
-RU PLACEHOLDER
+В комнате теперь слышен только вой метели за окном.
 
 悟「ったく、なんでこんなことしなきゃいけないんだよ……」%K%P
 Damn it, why do I have to be the one to do this...?
 悟「可恶，为什么我非得做这种事情啊……」
-RU PLACEHOLDER
+Блин, и почему я должен заниматься этим?..
 
 オレは額についた泡を手の甲で拭いながら、呟いた。%K%P
 I mutter as I wipe the sweat off my forehead with the back of my hand.
 我用手背擦掉粘在额头上的泡沫，自言自语道。
-RU PLACEHOLDER
+Бормочу я, вытирая тыльной стороной ладони мыльную пену со лба.
 
 確かに、穂鳥の言った通り、作業自体は極めて『簡単なこと』だった。%K%P
 Sure, as Hotori had said, the work itself is “easy”.
 确实，如同穗鸟所说，这活是“很简单的事情”。
-RU PLACEHOLDER
+Хотори не солгала: дело это простое.
 
 『すぐに終わること』でもあった。%K%P
 And she'd been telling the truth when she said “it'll be over really quick”.
 也是“很快就能结束”的事情。
-RU PLACEHOLDER
+И в том, что я быстро с ним справлюсь, она не солгала тоже.
 
 『時間をかけようと思えば、明日の朝まででも』続けられないことはない。%K%P
 And it's not like her saying “if you feel like going on for longer, you could do it until tomorrow morning” was a lie either.
 “想多花点时间的话，也可以做到明天早上”。
-RU PLACEHOLDER
+Ну и её слова, что этим можно заниматься до утра, тоже были недалеки от истины.
 
 ただし、彼女の言葉にはひとつだけ誤りがあった。%K%P
 However, there is just one thing wrong with what she'd said.
 但是，她的话有一点错了。
-RU PLACEHOLDER
+Но кое в чём она ошиблась.
 
 悟「ちっきしょー、まんまとやられたよなぁ……」%K%P
 Damn it all! She really got me good...
 悟「可恶啊，正中她下怀……」
-RU PLACEHOLDER
+Чёрт, недурно она меня провела...
 
 こんな作業……愚痴でもこぼさなければ、とてもじゃないがやっていられなかった。%K%P
 This work... you'd never be able to get it done if you weren't allowed to complain about it.
 这活……不一边来那么两句牢骚，我可是干不下去的。
-RU PLACEHOLDER
+Это дело... его не выполнить, если не ворчать себе под нос, чтобы скоротать время.
 
 オレにとっては『なにも言わなくても済むこと』ではなかったのだ。%K%P
 To me, this definitely isn't something that you could do without saying a word.
 对我来说，这可并不是“什么也不说就能做的事情”啊。
-RU PLACEHOLDER
+По мне, это определённо не то, что можно делать молча.
 
 それにしても……。%K%P
 But anyway...
 虽然如此……
-RU PLACEHOLDER
+Но даже если и так...
 
 オレはバスタブを洗いながら考えた。%K%P
 I think to myself while I wash out the tub.
 我一边刷着浴缸一边思考。
-RU PLACEHOLDER
+Я погружаюсь в думы, пока чищу ванну.
 
 涼蔭穂鳥のこと……。%K%P
 About Suzukage Hotori...
 凉荫穗鸟的事……
-RU PLACEHOLDER
+Судзукагэ Хотори...
 
 気になることならいくつもあった。%K%P
 There are plenty of things that bother me.
 多少有些在意。
-RU PLACEHOLDER
+Многое в ней меня беспокоит.
 
 オレのことを『初対面も同然』と言ったこと。%K%P
 “This is pretty much the first time we've met”, she said.
 与我“如同初次见面”的说法。
-RU PLACEHOLDER
+Она сказала, что это наша первая встреча.
 
 臆することなくオレに対して誘惑の姿勢を見せたこと。%K%P
 And yet she'd turned on the seduction with me without showing the slightest hesitation.
 不害怕我，反色诱我的事。
-RU PLACEHOLDER
+И тут же без малейших колебаний начала меня соблазнять.
 
 しかし実は、一番気になっているのはそんなことではなく……。%K%P
 But in actuality, what bothers me the most isn't that...
 可是实际上，最在意的不是那些事……
-RU PLACEHOLDER
+Но не это беспокоит меня больше всего...
 
 オレの彼女に対する印象の変化……そこにあった。%K%P
 It's... how much my impression of her has changed.
 我对她的印象的变化……是那个。
-RU PLACEHOLDER
+А то, как изменилось моё представление о ней.
 
 犬伏景子は阿波墨の病院で１２人もの人間の命を奪った。%K%P
 Inubushi Keiko took the lives of twelve people at that hospital in Awazumi.
 犬伏景子在阿波墨市立医院夺走了１２人的生命。
-RU PLACEHOLDER
+Инубуси Кэйко лишила жизни двенадцать человек в больнице Авадзуми.
 
 穂鳥の人格が直接手を下したわけではないにせよ、%K%P
 Even if it isn't the Hotori personality herself with blood on her hands,
 尽管并不是穗鸟的人格直接下的手。
-RU PLACEHOLDER
-
-//old: Even if it wasn't directly carried out by the hands of the Hotori personality,
+Хоть преступление и не было совершено непосредственно руками личности Хотори...
 
 その裏側には戦慄するほどの残虐性や狂気といったものが潜んでいるはずだった。%K%P
 somewhere on the reverse side of that personality, a shudder-inducing cruelty and madness are said to lurk.
 在其内里也应该潜藏着让人颤栗的残酷和疯狂。
-RU PLACEHOLDER
+Где-то внутри неё скрыта безумная личность, от жестокости которой мурашки бегут по коже.
 
 だが、オレにはどうしても実感がわかないのだ。%K%P
 However, I felt no fear when I spoke to her. I can't understand it.
 但是，我怎样都感觉不到。
-RU PLACEHOLDER
-
-//check, lit. "However, I could not understand my true feelings (toward her?) no matter what"
+Однако я никак не могу понять, что чувствую по отношению к ней.
 
 確かに、彼女の挙動の中には病的な部分が垣間見える。%K%P
 There are definitely plenty of abnormal things about her behavior.
 确实，从她的举动能看得出其中的病态。
-RU PLACEHOLDER
+Несомненно, в её поведении заметны отклонения.
 
 けれど、１２人もの人間を次々に殺していくなんて……。%K%P
 But for her to kill those twelve people, one after another...
 可是，连续杀死１２人的……
-RU PLACEHOLDER
+Но чтобы убить одного за другим двенадцать человек...
 
 そんなこと、彼女にできるわけがないと思った。%K%P
 I can't believe she's capable of something like that.
 那种事，我想不是她做的。
-RU PLACEHOLDER
+Я не думаю, что она способна на такое зверство.
 
 本来であれば、たかだか数十分程度の会話では、真実の姿なんて見えないものなのかも知れない。%K%P
 Normally, a few minutes of conversation wouldn't be enough for me to understand her true nature.
 本来只是十几分钟左右的对话，也许还看不到什么真实姿态。
-RU PLACEHOLDER
+Обычно нескольких минут разговора недостаточно, чтобы понять правду.
 
 でも……。%K%P
 But...
 但是……
-RU PLACEHOLDER
+Но...
 
 オレは彼女を信じたかったのだ。%K%P
 I want to believe in her.
 我相信她。
-RU PLACEHOLDER
+Мне хочется ей верить.
 
 どうしてそんなことを考えるようになったのか、自分でもよくわからない。%K%P
 Why I've begun to think that, even I don't know.
 为什么会这样想，我自己也不清楚。
-RU PLACEHOLDER
+Я даже не знаю, что заставило меня так думать.
 
 彼女の魅惑的な仕草にヤラれてしまったから……だろうか……？%K%P
 Could it be... because I've fallen prey to her charms...?
 是被她魅惑的举止征服了……吗……？
-RU PLACEHOLDER
+Может, это потому, что я пал жертвой её соблазнительного поведения?
 
 悟「…………」%K%P
 ......
 悟「…………」
-RU PLACEHOLDER
+......
 
 一瞬、手が止まった。%K%P
 For a moment, my hands stop.
 一瞬间，我的手停下来。
-RU PLACEHOLDER
+Мои руки останавливаются.
 
 オレの内部には悶々とした塊が蠢いていた。%K%P
 A bundle of anxiety writhes within me.
 在我心中有闷闷的疙瘩在蠢蠢欲动。
-RU PLACEHOLDER
+Я ощущаю смутное беспокойство.
 
 その塊を振り払うかのように、オレはさらに力を込めてバスタブをゴシゴシと磨き続けた。%K%P
 As though trying to shake it loose, I throw myself back into scrubbing the bathtub with renewed vigor.
 我像要抖掉那个疙瘩般，更加用力地不断磨刷着浴缸。
-RU PLACEHOLDER
+Пытаясь прогнать его, я начинаю тереть ванну с ещё%Nбольшим усердием.
 
 時は流れ……。%K%P
 Time passes...
 时间流逝……
-RU PLACEHOLDER
+Время идёт...
 
 午後４時をまわった。%K%P
 It's now about 4 PM.
 已经下午４时了。
-RU PLACEHOLDER
+Уже четыре часа вечера.
 
 部屋に戻ったオレはベッドに寝転んで考えごとをしていた。%K%P
 Having returned to my room, I lie down on the bed in deep thought.
 回到房间的我躺在床上思考着。
-RU PLACEHOLDER
+Я лежу на своей кровати и размышляю.
 
 バスルームの掃除を終え、部屋を出た。%K%P
 I leave after I finish cleaning the bathroom.
 打扫完浴室之后，我走出房间。
-RU PLACEHOLDER
+Я покинул её комнату лишь после того, как закончил отмывать ванну.
 
 いつまでも穂鳥のことだけを考えているわけにはいかない。%K%P
 I can't go on thinking about Hotori forever.
 不能一直只思考穗鸟的事。
-RU PLACEHOLDER
+Но я не могу думать о Хотори вечно.
 
 他にもやらなければならないことが残っていた。%K%P
 There are still things that I need to do.
 还有其它必须做的事情。
-RU PLACEHOLDER
+Остаётся ещё кое-что, что я собирался сделать.
 
 次に向かうべき場所はすでに決まっていた。%K%P
 I've already decided where I'm going next.
 下面要去的地方已经决定了。
-RU PLACEHOLDER
+Следующий мой шаг уже предопределён.
 
 オレは気分を切り替えるために大きく深呼吸を繰り返し……。%K%P
 In order to clear my head, I take a deep breath...
 我为了转换心情，反复地进行着深呼吸……
-RU PLACEHOLDER
-
-//old: In order to fix my mood, I took a deep breath....
+Чтобы немного успокоиться, я делаю глубокий вдох...
 
 その部屋のドアの前に立った。%K%P
 And stand in front of the door.
 来到那个房间的门前。
-RU PLACEHOLDER
+И встаю перед дверью.
 
 悟「ふざけるのもいいかげんにしろ！」%K%P
 Quit screwing around!
 悟「开玩笑也要有个限度！」
-RU PLACEHOLDER
+Прекрати дурачиться!
 
 穂鳥を突き飛ばして立ち上がった。%K%P
 I thrust her away and stand up straight.
 我推开穗鸟站起身。
-RU PLACEHOLDER
+Я отталкиваю Хотори.
 
 悟「なに考えてんだか知らないが、からかうのはやめろ！」%K%P
 I don't know what's running through your head, but you'd better stop playing with me!
 悟「我不知道你在想什么，要是戏弄人的话就算了吧！」
-RU PLACEHOLDER
+Не знаю, что у тебя на уме, но лучше бы тебе перестать валять дурака!
 
 悟「すべての男が本能だけで生きてると思ったら大間違いだぞ！」%K%P
 If you believe that all men live just by their instincts, you've got another thing coming!
 悟「以为所有的男人只靠本能生存就大错特错了！」
-RU PLACEHOLDER
+Ты ошибаешься, если думаешь, что все мужчины живут лишь одними инстинктами!
 
 悟「少なくともオレは、そんなヤツじゃない！」%K%P
 At the very least, I'm not that kind of guy!
 悟「至少我不是那样的家伙！」
-RU PLACEHOLDER
+По крайней мере, я не такой!
 
 悟「遊びで誰とでも寝るようなヤツじゃないんだ！」%K%P
 I'm not the kind of guy who'd fool around with just anyone!
 悟「以玩的心态随便和什么人睡觉的家伙！」
-RU PLACEHOLDER
+Я не из тех парней, которые готовы кувыркаться в постели с кем ни попадя.
 
 ベッドの上……。%K%P
 On the bed...
 床上……
-RU PLACEHOLDER
+На кровати...
 
 オレに弾かれて仰向けになっていた彼女は……。%K%P
 Lying on her back after I snap at her...
 她被我推开，后仰着身体……
-RU PLACEHOLDER
+Лежит Хотори, и после моей тирады...
 
 穂鳥「くっ、くくっ……」%K%P
 Ke-Kehe...
 穗鸟「咕、咕咕……」
-RU PLACEHOLDER
+Хи-хи...
 
 穂鳥「きゃはははははははは♪」%K%P
 Kyahahahahahahahaha♪
 穗鸟「呀哈哈哈哈哈哈哈哈?」
-RU PLACEHOLDER
+А-ха-ха-ха-ха-ха-ха♪
 
 突如、大声をあげて笑い出した。%K%P
 She suddenly laughs out loud.
 突然，她大声笑起来。
-RU PLACEHOLDER
+Ни с того ни с сего она начинает громко смеяться.
 
 穂鳥「うーっ、うーっ、お腹痛い、お腹痛いよぅ……」%K%P
 Aha, haha, my stomach hurts, it hurts...
 穗鸟「呜——呜——肚子痛、肚子痛哟……」
-RU PLACEHOLDER
+Ха-ха, мой живот, как же болит живот!
 
 ベッドの上でのたうちまわる彼女……。%K%P
 She writhes with laughter on the bed...
 她在床上打滚……
-RU PLACEHOLDER
+Она извивается и мечется по кровати.
 
 放心状態に陥るオレ……。%K%P
 I'm absolutely dumbstruck...
 我陷入了恍惚……
-RU PLACEHOLDER
+Я в полном замешательстве...
 
 穂鳥「はぁ、はぁ、はぁ……」%K%P
 Haah, haah, haah...
 穗鸟「哈、哈、哈……」
-RU PLACEHOLDER
+Ха-ха-ха...
 
 穂鳥「死むー！　死むー！　笑い死むー！」%K%P
 I'm gonna die! I'm gonna die! I'm gonna die laughing!
 穗鸟「死了——！死了——！笑死了——！」
-RU PLACEHOLDER
+Сейчас умру! Я точно умру! Умру от смеха.
 
 穂鳥「『すべての男が本能だけで生きてると思ったら大間違いだぞ！』」%K%P
 ‘If you believe that all men live just by their instincts, you've got another thing coming!’
 穗鸟「“以为所有的男人只靠本能生存就大错特错了！”」
-RU PLACEHOLDER
+"Ты ошибаешься, если думаешь, что все мужчины живут лишь одними инстинктами!"
 
 穂鳥「ぶはははははははは♪　あほだ、あほだ、あほすぎる、あほすぎる……」%K%P
 Buhahahahahahahaha♪ Stupid, stupid, too stupid, too stupid...
 穗鸟「噗哈哈哈哈哈哈哈哈?白痴、白痴、太白痴了、太白痴了……」
-RU PLACEHOLDER
+Ва-ха-ха-ха-ха-ха-ха! Глупый, глупый, очень глупый, очень-очень глупый...
 
 穂鳥「なぁーに真に受けちゃってんだかねぇ〜、ほんとにもう……」%K%P
 Just what were you thinking about, honestly〜
 穗鸟「干吗那么认真啦～真受不了……」
-RU PLACEHOLDER
+Вот же, о чём ты только подумал〜...
 
 悟「…………………………」%K%P
 ...............
 悟「…………………………」
-RU PLACEHOLDER
+...............
 
 穂鳥「ひぃ、ひぃ、ふぅ……」%K%P
 Hiii, hiii, huu...
 穗鸟「吸、吸、呼……」
-RU PLACEHOLDER
+Хи, хи, фу...
 
 穂鳥「ひぃ、ひぃ、ふぅ……」%K%P
 Hiii, hiii, huu...
 穗鸟「吸、吸、呼……」
-RU PLACEHOLDER
+Хи, хи, фу...
 
 穂鳥「ラマーズ法」%K%P
 Lamaze style.
 穗鸟「拉玛泽法」
-RU PLACEHOLDER
+Нужно подышать по Ламазу...
 
 穂鳥「ぷっ、ぷぷっ……」%K%P
 Puhu, puhuhu...
 穗鸟「噗、噗噗……」
-RU PLACEHOLDER
+Пха-ха...
 
 穂鳥「わきゃきゃきゃきゃきゃきゃきゃきゃきゃ♪」%K%P
 Wahahahahahahahahaha♪
 穗鸟「哇哈哈哈哈哈哈哈哈哈?」
-RU PLACEHOLDER
+Ва-ха-ха-ха-ха-ха-ха-ха-ха♪
 
 いつまでも笑い続ける彼女を残し、オレは部屋を後にした。%K%P
 I leave her rolling around on the bed and return to my room.
 留下一直笑个不停的她，我离开房间。
-RU PLACEHOLDER
+Я оставляю её смеяться дальше, а сам возвращаюсь в свою комнату.
 
 今の穂鳥の挙動……。%K%P
 Hotori's behavior...
 现在穗鸟的举动…….
-RU PLACEHOLDER
+Сегодняшнее поведение Хотори...
 
 オレを嘲笑したつもりだったのだろうが、不思議と怒りはわいてこなかった。%K%P
 Perhaps she was just trying to ridicule me, but for some reason, I'm not angry at all.
 本来就打算嘲笑我的吧，但不可思议地，我竟不觉得生气。
-RU PLACEHOLDER
+Пусть она и решила поглумиться надо мной, но я на удивление совершенно на неё не зол.
 
 むしろ、心からの憐憫の情を抱いた。%K%P
 Rather, I feel really sorry for her.
 反而有种发自心底的怜悯之情。
-RU PLACEHOLDER
+Наоборот, мне искренне жаль её.
 
 明らかに、彼女の精神は病んでいる。%K%P
 It's clear that she's mentally ill.
 很明显，她的精神有问题。
-RU PLACEHOLDER
+Очевидно, что с головой у неё не всё в порядке.
 
 一見すると、ただのわがままな女の子にも思えたりするが、実際にはそうではないだろうと思った。%K%P
 At first glance, she appears to be just an ordinary, selfish girl, but it isn't as simple as that.
 乍看下，可能会觉得她只是个任性女孩，我想实际上不是那样的吧。
-RU PLACEHOLDER
+На первый взгляд она кажется обычной эгоистичной девушкой, но в действительности это не так.
 
 ひとを小馬鹿にして笑い転げる姿の陰に、根深い病いが隠されていることをオレは見抜いていた。%K%P
 I can see the deep-rooted sickness hidden behind the cover of her rolling in laughter at my expense.
 在戏弄人后笑翻的姿态背后，我看出了那隐藏着的根深蒂固的病根。
-RU PLACEHOLDER
+За её склонностью подтрунивать и морочить голову людям кроется глубокая душевная травма.
 
 涼蔭穂鳥……。%K%P
 Suzukage Hotori...
 凉荫穗鸟……
-RU PLACEHOLDER
+Судзукагэ Хотори...
 
 オレは彼女を救ってやれるだろうか？%K%P
 Will I be able to save her?
 我能救她吗？
-RU PLACEHOLDER
+Смогу ли я помочь ей?
 
 いつまでもそのことが頭を離れなかった。%K%P
 I can't stop thinking that.
 这个问题一直在我脑中萦绕不去。
-RU PLACEHOLDER
+Эти мысли не выходят у меня из головы.
 
 時は流れ……。%K%P
 Time passes...
 时间流逝……
-RU PLACEHOLDER
+Время идёт...
 
 午後４時をまわった。%K%P
 It's now about 4 PM.
 已经下午４时了。
-RU PLACEHOLDER
+Уже четыре часа вечера.
 
 部屋に戻ったオレはベッドに寝転んで考えごとをしていた。%K%P
 Having returned to my room, I lie down on the bed in deep thought.
 回到房间的我躺在床上思考着。
-RU PLACEHOLDER
+Я лежу на своей кровати и размышляю.
 
 しかし、このまま彼女のことを考え続けているわけにはいかない。%K%P
 However, I can't go on thinking about her forever.
 不能一直只思考穗鸟的事。
-RU PLACEHOLDER
+Но я не могу думать о Хотори вечно.
 
 他にもやらなければならないことが残っている。%K%P
 There are still things that I need to do.
 还有其它必须做的事情。
-RU PLACEHOLDER
+Есть кое-какие дела, которые необходимо завершить.
 
 次に向かうべき場所はすでに決まっていた。%K%P
 I've already decided where I'm going next.
 下面要去的地方已经决定了。
-RU PLACEHOLDER
+Следующий мой шаг уже предопределён.
 
 オレは気分を切り替えるために大きく深呼吸を繰り返し……。%K%P
 In order to clear my head, I take a deep breath...
 我为了转换心情，反复地进行着深呼吸……
-RU PLACEHOLDER
-
-//old: In order to fix my mood, I took a deep breath....
+Чтобы немного успокоиться, я делаю глубокий вдох...
 
 その部屋のドアの前に立った。%K%P
 And stand in front of the door.
 来到那个房间的门前。
-RU PLACEHOLDER
+И встаю перед дверью.
 
 まずは穂鳥のことだが……。%K%P
 First off is Hotori...
 首先是穗鸟……
-RU PLACEHOLDER
+Первой была Хотори...
 
 これは、オレがいくら考えたところで解決できる問題ではない。%K%P
 That's a problem that can't be resolved no matter how much I think about it.
 这个不是我考虑多少就能解决的问题。
-RU PLACEHOLDER
+Но эту проблему сейчас не решить, сколько бы я об этом ни думал.
 
 スイッチを切り替えて、転移現象の方に焦点を移す。%K%P
 Flipping the switch, I turn my focus to the exchange phenomenon.
 我切换开关，把焦点转移到转移现象一边。
-RU PLACEHOLDER
+Поэтому я переключаюсь на феномен переноса.
 
 この現象を解明するための手がかりとなるのが、ゆにの存在だった。%K%P
 There is a clue that could be the key to unfolding it, and that's Yuni's existence.
 能够解开这个现象真相的线索，就是悠尼。
-RU PLACEHOLDER
+Ниточка к разгадыванию природы этого явления ― Юни.
 
 オレはゆにのことを考えた。%K%P
 I think about Yuni.
 我思考起悠尼的事。
-RU PLACEHOLDER
+Я погружаюсь в раздумья.
 
 ゆには転移現象に巻き込まれている。%K%N
 Yuni has gotten caught up in the exchange phenomenon too.
 悠尼也被卷入了转移现象。
-RU PLACEHOLDER
+Юни тоже вовлечён в феномен переноса.
 
 オレやこころと同じように……。%K%N
 The same as Kokoro and me...
 好像与我和心一样……
-RU PLACEHOLDER
+Так же как я и Кокоро...
 
 しかし、異なるところがひとつだけあった。%K%N
 However, he differs from us in one aspect.
 但是，只有一点是不同的。
-RU PLACEHOLDER
+Но есть один нюанс...
 
 ゆにの意識は、たった１度だけしか転移していないのだ。%K%P
 Yuni's consciousness has only transferred once.
 悠尼的意识，仅仅转移了一次。
-RU PLACEHOLDER
+Его сознание перенеслось лишь единожды.%K%N
 
 避難小屋とスフィア、それぞれのゆにの言動を比べてみれば、このことは自明だった。%K%N
 If you compare the speech and behavior of the two Yunis at the shelter cabin and SPHIA, that much is evident.
 避难小屋和ＳＰＨＩＡ，比较一下两地悠尼的言行，这种事很自然就明白了。
-RU PLACEHOLDER
+Если сравнить речь и поведение Юни в горной хижине и здесь, в SPHIA, это становится очевидно.
 
 人格的には、こちらのゆには常にこちらのゆにで、あちらのゆには常にあちらのゆになのだ。%K%N
 In terms of personality, the Yuni at SPHIA is always the Yuni at SPHIA, and the Yuni at the shelter cabin is always the Yuni at the shelter cabin.
 就人格来说，这边的悠尼仍是这边的悠尼，那边的悠尼仍是那边的悠尼。
-RU PLACEHOLDER
+Касательно личностей, тутошний Юни всегда был здесь, а тамошний ― там.
 
 場所を基準にして、両者の発言には信頼度の高い一貫性が見られる。%K%P
 Based on the location, the behavior of the two has always been highly consistent.
 以地点为基准，从他们言行的高度一致就看得出来。
-RU PLACEHOLDER
+Касательно местоположения, поведение их весьма соответствует.
 
 つまり、こういうことだ。%K%N
 In other words, it's like this.
 就是说，是这么回事。
-RU PLACEHOLDER
+Иначе говоря...
 
 今スフィアにいるゆに……その肉体に宿っているのは、本来ならば避難小屋にいたはずのゆにの意識であり……%K%N
 The Yuni in SPHIA right now... The consciousness inhabiting his body is that of the Yuni who should be at the shelter cabin.
 现在在ＳＰＨＩＡ的悠尼……那个肉体里所寄宿的是，本该在避难小屋的悠尼的意识……
-RU PLACEHOLDER
-
-//possible alt. the one who originally had ownership of that body’
+Юни, что сейчас в SPHIA... имеет сознание Юни из хижины.
 
 避難小屋のゆに……その肉体に宿っているのは、スフィアにいたはずのゆにの意識なのである。%K%N
 And the Yuni in the shelter cabin... The consciousness inhabiting his body is that of the Yuni who's supposed to be at SPHIA.
 在避难小屋的悠尼……那个肉体里所寄宿的是，本该在ＳＰＨＩＡ的悠尼的意识。
-RU PLACEHOLDER
+Что же до Юни в хижине... то его сознание изначально принадлежало телу Юни из SPHIA.
 
 転移によって、両者の意識はくるりと逆転してしまった。%K%N
 Their consciousnesses have been switched in a transfer.
 由于转移，两者的意识发生了替换。
-RU PLACEHOLDER
+Их сознания поменялись местами в результате переноса.
 
 もっと簡単に言えば、彼は時間跳躍（及び空間移動）をしただけだ、と言ってしまってもよい。%K%P
 To put it more simply, he has only experienced a time jump (as well as a spatial one).
 再简单一点，可以说他只是发生了时间跳跃（及空间移动）。
-RU PLACEHOLDER
+Проще говоря, в его случае имело место быть только перемещение во времени (вкупе с перемещением в пространстве).
 
 このスフィアにいるゆには、避難小屋にいるゆによりも、１歳だけ年を取っている。%K%N
 The Yuni at SPHIA is only a year older than the Yuni at the shelter cabin.
 这个ＳＰＨＩＡ的悠尼，与避难小屋的悠尼相比，有着一岁的差距。
-RU PLACEHOLDER
+Юни в SPHIA на год старше Юни в горной хижине.
 
 当然、身長だって違うだろうし、細胞を構成する物質だって大部分は異なるだろう。%K%N
 Naturally, their height probably differs, as well as the makeup of a large portion of their cells.
 当然，即使身高不同了，甚至构成细胞的物质大部分也不相同了。
-RU PLACEHOLDER
+Естественно, что их рост отличается, как и состав значительной части клеток организма.
 
 けれど、遺伝子的には両者は同じ個体なのだ。%K%N
 But in terms of genes, they're the same individual.
 可是，在遗传因子上两者仍然是相同个体。
-RU PLACEHOLDER
+Но с точки зрения генетики это один и тот же человек.
 
 だから彼については『人格交換現象』というのは、省いて考えてもかまわないように思う。%K%N
 That's why, regarding Yuni, it would probably be okay to omit the “personality exchange phenomenon” concept.
 因此关于他的“人格交换现象”，可以忽略不予考虑了。
-RU PLACEHOLDER
+Вот почему термин "феномен обмена личностями" по отношению к Юни применять не совсем корректно.
 
 実際には人格交換したのだろうが、両者のＤＮＡは同一なのだから、単に時間跳躍しただけだと考えても支障ないだろうということだ。%K%P
 It may actually be a personality exchange, but because the two possess the same DNA, it wouldn't be too difficult to consider it a time-only jump.
 实际上人格交换后，两者的ＤＮＡ仍然是同样的，只按照单纯的时间跳跃来考虑也没有什么阻碍吧。
-RU PLACEHOLDER
-
-//It may actually be a personality exchange, but because the two possessed the same DNA, it wouldn't be too difficult to consider it a time-only jump.
+Технически это и был обмен личностями, но раз обменивающиеся обладают одной и той же ДНК, можно рассматривать это только перемещением во времени.
 
 さて、そこでだ。%K%N
 Well then, that's the question.
 那么，就是说。
-RU PLACEHOLDER
+Но тогда возникает вопрос:
 
 やはり問題になってくるのは『なぜ、このスフィアにゆにの肉体が存在するのか』である。%K%N
 The problem becomes why Yuni's body exists here at SPHIA in the first place.
 问题仍然变回“为什么悠尼的肉体存在于这个ＳＰＨＩＡ”。
-RU PLACEHOLDER
+Как всё-таки Юни оказался в SPHIA?
 
 もちろん、ここにいるゆにに訊いたところで、どうにもならない。%K%N
 Of course, nothing will come of it even if I were to ask the Yuni here.
 当然，即使从这里的悠尼身上打听原因，也是得不出什么结果的。
-RU PLACEHOLDER
+Разумеется, расспросами здешнего Юни я ничего не добьюсь.
 
 彼は２０１１年のゆに……。%K%N
 He's the Yuni of 2011...
 他是２０１１年的悠尼……
-RU PLACEHOLDER
+Он Юни из 2011-го...
 
 不運にも転移現象に巻き込まれてしまった犠牲者に過ぎないのだから……。%K%N
 He's nothing but a victim who had the misfortune of getting caught up in the exchange phenomenon...
 因为他也只不过是个不幸的被卷入转移现象的牺牲者……
-RU PLACEHOLDER
+Он просто ни в чём не повинная жертва феномена переноса
 
 従って、この問いを投げかけるべき対象は、あちらのゆにということになる。%K%P
 Consequently, the one who should be the target of this question is the Yuni over there.
 因此，应该被提问的对象，是那边的悠尼。
-RU PLACEHOLDER
+Следовательно, мне нужно спрашивать у того Юни...
 
 ２０１１年の朱倉岳にいる、２０１２年のゆに……。%K%N
 The Yuni of 2012, the one who's at the Mount Akakura of 2011...
 身处２０１１年的朱仓岳的，２０１２年的悠尼……
-RU PLACEHOLDER
+Юни из 2012-го, который оказался на горе Акакура в 2011-м...
 
 いま思えば、確かにあいつの言動は怪しすぎるような気がする。%K%N
 Now that I think about it, it certainly does feel like his behavior is kind of suspicious.
 现在想想，确实感觉到他的言行太奇怪了。
-RU PLACEHOLDER
+Теперь, когда я задумался об этом, его поведение кажется мне подозрительным.
 
 彼が２０１２年のゆにだとするなら、どうして時間跳躍したことを平然と受け入れているんだ？%K%N
 If he is the Yuni of 2012, then why did he so calmly accept the time jump?
 如果他是２０１２年的悠尼，为什么那么泰然的接受了时间跳跃？
-RU PLACEHOLDER
+Если он Юни из 2012-го, то почему так спокойно воспринял перемещение во времени?
 
 しかも、彼はあたかも２０１１年のゆにであるかのように振る舞っている。%K%P
 Furthermore, he's been behaving as if he were the Yuni of 2011.
 而且，他的行动就像是２０１１年的悠尼一样。
-RU PLACEHOLDER
+Более того, почему ведёт себя так, словно он Юни из 2011-го?%K%N
 
 恐らく、彼は嘘をついているのだろう。%K%N
 He's most likely deceiving us.
 恐怕，他是在伪装吧。
-RU PLACEHOLDER
+Наверняка он нас обманывает.
 
 あいつは何かを知っているに違いない。%K%N
 That guy definitely knows something.
 他知道些什么，这点没错。
-RU PLACEHOLDER
+Он точно что-то знает.
 
 オレはそう思った。%K%N
 That's what I think.
 我这么想。
-RU PLACEHOLDER
+Так мне кажется.
 
 次に転移したときには、直接問い質してみよう。%K%P
 I should try asking him directly the next time I transfer.
 在下次转移的时候，直接问问看。
-RU PLACEHOLDER
+Нужно будет спросить его после следующего обмена.
 
 考えごとをしているうちに、外はすっかりと暗くなっていた。%K%P
 While I've pondered on this to myself, it's gotten completely dark outside.
 就在思考的时候，外面已经变的漆黑一片了。
-RU PLACEHOLDER
+Пока я размышлял, на улице успело стемнеть.
 
 次にすべきことは……。%K%P
 Next, I need to...
 下面该做的事是……
-RU PLACEHOLDER
+Что мне теперь надо сделать...
 
 悟「そうだ、こころに返信を書かなければ」%K%P
 That's right. I have to reply to Kokoro.
 悟「对了，必须要给心写回信」
-RU PLACEHOLDER
+Точно, нужно ответить Кокоро.
 
 オレは机の前に座ってペンを取った。%K%P
 I sit in front of my desk and pick up the pen.
 我坐在桌子前拿起笔。
-RU PLACEHOLDER
+Я сажусь за стол и беру в руки ручку.
 
 おい、頼むよ、こころ！%K%N
 Hey, come on, Kokoro!
 喂，拜托，心！
-RU PLACEHOLDER
+Эй, позволь спросить, Кокоро!
 
 『午後１時７分転移』……。%K%N
 “Transfer at 1:07 PM”...
 “下午１时０７分转移”……
-RU PLACEHOLDER
+"Время переноса ― 13:07"
 
 これだけか？　たったこれだけなのか？　おまえの言いたいことは……。%K%N
 That's it? That's all there is? Is this all you wanted to say...?
 只有这一点吗？你想说的事情就只有这一点吗……
-RU PLACEHOLDER
+И это что, всё? Всё, что ты хотела бы сказать?..
 
 確かに、返信としては素晴らしく要領を得ている。%K%N
 Certainly, as a reply, what you wrote was wonderfully concise.
 确实，作为回信来说，你深得其要领。
-RU PLACEHOLDER
+Твой ответ несомненно восхитителен в своей краткости.
 
 オレが頼んだことには、ひとまずちゃんと答えてくれてるからな。%K%N
 You replied perfectly with what I asked, after all.
 我拜托你的事情，你也算是做到了。
-RU PLACEHOLDER
+Всё же ты отлично справилась с тем, о чём я просил.
 
 イラストを添えた意味も、なんとなくわかったし……。%K%P
 I somehow understood what the illustration you attached meant too...
 我也大概明白你加上插图的意思……
-RU PLACEHOLDER
+Я, кажется, даже понял, что означает твой рисунок...
 
 でもな？%K%N
 But, you know?
 可是啊？
-RU PLACEHOLDER
+Но знаешь что?
 
 たった１行だけの文章ってーのは、あまりにも素っ気なさ過ぎるんじゃないか？%K%N
 Isn't it cold to write only one sentence back?
 只有一行的回信，岂不是太过简陋了？
-RU PLACEHOLDER
-
-//lit. blunt/curt, but none of those sounded as good
+Написать лишь одно предложение ― не слишком ли лаконично?
 
 もうちょっと、なんと言うか、具体的なことを書いて欲しいんだ。%K%N
 Can't you, I don't know, write something a little more detailed?
 希望你能稍微多写一点，怎么说呢，多写一点具体的东西。
-RU PLACEHOLDER
+Не могла бы ты ― как это выразить? ― написать что-нибудь с большей глубиной?
 
 お互い直接対面することはできないが、幸いなことに、こうして情報交換することはできるわけだし……。%K%N
 We can't meet in person, but at least we're lucky enough to be able to exchange information...
 虽然彼此不能直接会面，但幸运的是，可以用这种方式交换信息……
-RU PLACEHOLDER
+Мы не можем встретиться лично, но у нас хотя бы есть возможность переписываться... верно?
 
 これを活用しない手はないだろう？　そう思わないか？%K%N
 Wouldn't anyone try to make use of this? You agree, right?
 除此以外也没有其它方法了？你觉得呢？
-RU PLACEHOLDER
+Любой бы воспользовался ей. Ты так не считаешь?
 
 オレ達は、いわばパートナーみたいなもんなんだぞ？%K%P
 We're kind of like partners, you know?
 说起来，我们也算是搭档了吧？
-RU PLACEHOLDER
+Мы же в некотором роде напарники, так?
 
 そのときふと、ドアをノックする音が聞こえた。%K%P
 Suddenly, I hear a knock on the door.
 就在这时，我听到了敲门声。
-RU PLACEHOLDER
+Внезапно раздаётся стук в дверь.
 
 悟「はい」%K%P
 Yes?
 悟「来了」
-RU PLACEHOLDER
+Да?
 
 悟「えーと……ちょっと待ってくれ」%K%P
 Umm... Can you wait a moment?
 悟「哎……稍等一下」
-RU PLACEHOLDER
+Эм... секундочку.
 
 オレはドアの外に向かって声をかけ、メッセージの続きを急いで書き足した。%K%P
 Calling out to whoever is on the other side of the door, I hurriedly continue writing my message.
 我对着门外喊道，急促地继续写留言。
-RU PLACEHOLDER
+Говорю я находящемуся по ту сторону двери и поспешно дописываю своё послание.
 
 すまん、客が来たみたいだ。%K%N
 Sorry, seems like a guest has arrived.
 抱歉，好像有人来了。
-RU PLACEHOLDER
+Извини, кажется ко мне гость.
 
 続きは後で書くよ。%K%N
 I'll continue writing later.
 下面的内容以后再写喽。
-RU PLACEHOLDER
+Я допишу позже.
 
 あ、そうそう、書き忘れないうちにひとつだけ。%K%N
 Ah, right, before I forget to write it.
 啊，对了对了，趁着没忘记，还要说一件事。
-RU PLACEHOLDER
+И да, пока не забыл.
 
 避難小屋のボイスレコーダー、もう聞いてくれたか？%K%N
 Did you already listen to the voice recorder in the shelter cabin?
 避难小屋里的录音机，你听过了吗？
-RU PLACEHOLDER
+Ты уже прослушала мою запись на диктофоне в горной хижине?
 
 念の為、ここにも書いておくことにする。%K%P
 I'm mentioning it again here just in case.
 为防万一，我还是写在这里。
-RU PLACEHOLDER
+На всякий случай напишу и здесь:
 
 オレは、誰かに狙われてるらしい……。%K%N
 It looks like someone's after me...
 我好像正在被人追杀……
-RU PLACEHOLDER
+Похоже, кто-то пытается меня убить...
 
 気をつけてくれ。%K%N
 Be careful.
 请多加小心。
-RU PLACEHOLDER
+Будь осторожна.
 
 オレも、避難小屋にいるときには、おまえの身体のことを最優先で考えるから。%K%N
 While I'm in the shelter cabin, I consider your body my top priority too.
 在避难小屋里的时候，我也会尽力保护你的身体安全的。
-RU PLACEHOLDER
+Ведь когда я в твоём теле, забота о нём ― моя первостепенная задача.
 
 それじゃあ、頼んだぞ、こころ。%K%P
 Well then, I'm counting on you, Kokoro.
 再见，拜托了，心。
-RU PLACEHOLDER
+Что ж, я рассчитываю на тебя, Кокоро.
 
 オレはペンを置き、部屋のドアへと向かった。%K%P
 I put down my pen and head to the door.
 我放下笔，向房门走去。
-RU PLACEHOLDER
+Я откладываю ручку и направляюсь к двери.
 
 ノブに手をかけて、手前に引く。%K%P
 I turn the knob and pull it open.
 我将手伸向门把。打开门……
-RU PLACEHOLDER
+Поворачиваю ручку и открываю дверь.
 
 開かれた扉の向こう……。%K%P
 On the other side of the open door...
 在敞开的门的另一边……
-RU PLACEHOLDER
+По ту сторону двери
 
 そこに立っていたのは内海だった。%K%P
 Utsumi is standing there.
 ……是内海，站在我面前。
-RU PLACEHOLDER
+стоит Уцуми.
 
 彼女は胸元に両手を添え、なにやら不安げな眼差しを向けていた。%K%P
 She has her hands at her chest and is giving me a somewhat anxious look.
 她把双手放在胸口上，用忐忑不安的眼神望着我。
-RU PLACEHOLDER
+Скрестив руки на груди, она с тревогой смотрит на меня.
 

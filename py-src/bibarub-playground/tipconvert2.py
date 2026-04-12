@@ -3,7 +3,7 @@
 import os
 import sys
 
-game = "e17"
+game = "r11"
 
 init_txt = f"/home/bibarub/Infinity-PSP-TL/text/other-psp-{game}-en/init.bin.utf8.txt"
 outpath = f"/home/bibarub/Infinity-PSP-TL/text/tips-psp-{game}.txt"

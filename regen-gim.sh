@@ -41,3 +41,5 @@ for i in assets/nowloading/*.png; do
 	[ -e "$i" ] || continue
 	check_replace "$i" && ($GIMCONV "$i" -N -o "$(basename "$i" .png).gim" || exit 1)
 done
+
+exit 0

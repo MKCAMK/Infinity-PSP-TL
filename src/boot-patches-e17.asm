@@ -3,6 +3,25 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Adjust nametag box position.
+.org 0x0881DEE4
+.area 4*1
+	addiu	t0,t0,-28
+.endarea
+.org 0x0881DEEC
+.area 4*1
+	addiu	v0,v0,-7
+.endarea
+.org 0x0881DFDC
+.area 4*1
+	addiu	v0,v0,-24
+.endarea
+.org 0x0881DFCC
+.area 4*1
+	addiu	a0,a0,-4
+.endarea
+
+
 ;; Increase glyph spacing and decrease the distance between lines in the shortcut menu.
 .org 0x08850468
 .area 4*3
@@ -29,15 +48,6 @@
 .org 0x0881DFAC
 .area 4*1
 	li	v1,154
-.endarea
-
-
-;; Not sure what exactly this is supposed to compensate,
-;; but changing this value lets us fine-tune the centering of name tags.
-;; The default value of -10 is incorrect.
-.org 0x0881DFCC
-.area 4*1
-	addiu	a0,a0,-7
 .endarea
 
 
@@ -181,7 +191,7 @@ char *PM = 0x8923DB8;
 char *AM = 0x8923DC8;
 char *colon = 0x8923DD0; // "："
 char *format = 0x8923DC0; // "%02d"
-int showtime(int hour, int minute) {
+void showtime(int hour, int minute) {
 	char digits[12];
 	char *rangestr;
 	if (hour < 12) {

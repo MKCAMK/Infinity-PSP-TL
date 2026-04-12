@@ -94,6 +94,20 @@ repack_mac_afs () {
 		printf "\x0b" | dd oflag=seek_bytes conv=notrunc seek=8370 of=./${GAME}_mac_${TL_SUFFIX}/T_2A_2.SCN
 		$COMPRESS ./${GAME}_mac_${TL_SUFFIX}/T_2A_2.{SCN,BIP}
 	fi
+	if [ -f "${GAME}_mac_${TL_SUFFIX}/USER20A.SCN" ]; then
+		echo "Patching year in Pinocchio's Tears [1/2]"
+		for i in 16 1356 7928 8464; do
+			printf "\x13" | dd oflag=seek_bytes conv=notrunc seek=$i of=./${GAME}_mac_${TL_SUFFIX}/USER20A.SCN
+		done
+		$COMPRESS ./${GAME}_mac_${TL_SUFFIX}/USER20A.{SCN,BIP}
+	fi
+	if [ -f "${GAME}_mac_${TL_SUFFIX}/USER20B.SCN" ]; then
+		echo "Patching year in Pinocchio's Tears [2/2]"
+		for i in 16 3352; do
+			printf "\x13" | dd oflag=seek_bytes conv=notrunc seek=$i of=./${GAME}_mac_${TL_SUFFIX}/USER20B.SCN
+		done
+		$COMPRESS ./${GAME}_mac_${TL_SUFFIX}/USER20B.{SCN,BIP}
+	fi
 
 	$REPACK_AFS $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./${GAME}_mac_${TL_SUFFIX} || exit 1
 	mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
@@ -192,8 +206,10 @@ repack_etc_afs () {
 repack_init_bin () {
 	echo "Applying translation to init.bin"
 	# Apply init.bin strings
-	[ -e text/tips-psp-${GAME}.txt ] && TIPS_ARG="-t text/tips-psp-${GAME}.txt"
-	$PY ./py-src/apply_init_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/init.bin.utf8.txt $WORKDIR/init.dec $WORKDIR/init.dec.${TL_SUFFIX} -l ${TL_SUFFIX} -g ${GAME} $TIPS_ARG || exit 1
+	[ -e text/tips-psp-${GAME}.txt ] && ! { [ "$GAME" = "r11" ] && [ "$TL_SUFFIX" = "ru" ]; } && TIPS_ARG="-t text/tips-psp-${GAME}.txt"
+	[ -e text/chronology-${TL_SUFFIX}.txt ] && [ "$GAME" = "r11" ] && CHRONO_ARG="-c text/chronology-${TL_SUFFIX}.txt"
+
+	$PY ./py-src/apply_init_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/init.bin.utf8.txt $WORKDIR/init.dec $WORKDIR/init.dec.${TL_SUFFIX} -l ${TL_SUFFIX} -g ${GAME} $TIPS_ARG $CHRONO_ARG || exit 1
 
 	INIT_SRC=$WORKDIR/init.dec.${TL_SUFFIX}
 	if [ ! -f $INIT_SRC ]; then
@@ -201,6 +217,12 @@ repack_init_bin () {
 		# Used for testing purposes
 		INIT_SRC=$WORKDIR/init.dec
 	fi
+
+	if [ "$GAME" = "e17" ] && [ -e "e17_se_mod" ]; then
+		echo "Patching jukebox track duration"
+		$PY ./py-src/e17_x360_bgm_helper.py "$INIT_SRC" || exit 1
+	fi
+
 	echo "Compressing $INIT_SRC -> $WORKDIR/init.${TL_SUFFIX}.bin"
 	$COMPRESS $INIT_SRC $WORKDIR/init.${TL_SUFFIX}.bin || exit 1
 	mv -f $WORKDIR/init.${TL_SUFFIX}.bin $ISO_RES_DIR/init.bin

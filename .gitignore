@@ -25,9 +25,9 @@
 /text/font/r11*/
 /text/font/widths-*.txt
 
-/assets/*-r11-ru/
-/text/other-psp-r11-ru/
-/text/mac-psp-r11-ru-utf8/
+#/assets/*-r11-ru/
+#/text/other-psp-r11-ru/
+#/text/mac-psp-r11-ru-utf8/
 
 /iso/*.iso
 /iso/*.dax

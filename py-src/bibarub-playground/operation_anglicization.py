@@ -25,9 +25,12 @@ for l in lines:
         l = l.replace("\u300e", "\u2018")
         l = l.replace("\u300f", "\u2019")
     elif state == RU:
-        l = l.replace("\u2015", "\u2014")
+        l = l.replace("\u2015", "\u2013")
+        l = l.replace("\u2014", "\u2013")
+        l = l.replace(" - ", " \u2013 ")
         l = l.replace("\u300c", "\u00ab")
         l = l.replace("\u300d", "\u00bb")
+        l = l.replace("\u201d", "\u201c")
         if any(x in l for x in "\u300e\u300f"):
             print(l)
     state += 1

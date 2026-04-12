@@ -1,737 +1,737 @@
 ﻿ゆに「あっ、そうだ。忘れてた」%K%P
 Ah, that's right. I forgot.
 悠尼“啊，想起来了。差点给忘了”
-RU PLACEHOLDER
+А, кстати! Чуть не забыл.
 
 ゆには毛布をはねのけ、ひょこっと立ち上がった。%K%P
 Throwing off his blanket, Yuni jumps to his feet.
 悠尼掀开毛毯跳了起来。
-RU PLACEHOLDER
+Отбросив одеяло, Юни вскакивает на ноги.
 
 ゆに「ねえ、聖司？」%K%P
 Hey, Seiji?
 悠尼「圣司？」
-RU PLACEHOLDER
+Эй, Сэйдзи!
 
 黄泉木「ん？」%K%P
 Hmm?
 黄泉木「嗯？」
-RU PLACEHOLDER
+М-м?
 
 ゆっくりと顔を上げる黄泉木。%K%P
 Yomogi slowly raises his head.
 黄泉木慢慢抬起头。
-RU PLACEHOLDER
+Ёмоги медленно поднимает голову.
 
 黄泉木「ゆに……お前、まだ寝てなきゃだめじゃないか」%K%P
 Yuni... shouldn't you be sleeping a little more?
 黄泉木「悠尼……你的身体怎么能随便起来呢」
-RU PLACEHOLDER
+Юни... может, поспишь ещё немного?
 
 ゆに「ぼくのことなら大丈夫っ」%K%P
 Don't worry about me, I'm fine.
 悠尼「我已经没事了」
-RU PLACEHOLDER
+Не волнуйся, со мной всё в порядке.
 
 ゆに「そんなことよりも……」%K%P
 More importantly...
 悠尼「先不管这些……」
-RU PLACEHOLDER
+Сейчас куда важнее...
 
 ゆに「もう一度、電話、かけてみようよ」%K%P
 Try the phone again.
 悠尼「电话，再打一次看看吧」
-RU PLACEHOLDER
+Попробуй позвонить ещё раз.
 
 黄泉木「電話？」%K%P
 The phone?
 黄泉木「电话？」
-RU PLACEHOLDER
+Позвонить?
 
 黛「電話？」%K%P
 Phone?
 黛「电话？」
-RU PLACEHOLDER
+Позвонить?
 
 こころ「電話……って、あの衛星電話のこと？」%K%P
 Phone... You mean the satellite phone?
 心「电话……你是说那个卫星电话吗？」
-RU PLACEHOLDER
+Позвонить... ты про спутниковый телефон?
 
 ゆに「そうだよ」%K%P
 That's right.
 悠尼「就是那个」
-RU PLACEHOLDER
+Да.
 
 ３日前、黄泉木が事故現場から回収してきた衛星電話。%K%N
 Three days ago, Yomogi recovered a satellite phone at the scene of the plane crash.
 三天前，黄泉木从事故现场回收的卫星电话。
-RU PLACEHOLDER
+Три дня назад Ёмоги нашёл на месте крушения спутниковый телефон.
 
 確かに電話さえ繋がれば、私達の居所を伝えることが出来る。%K%N
 If we're able to get through to someone with the satellite phone, we can let them know our location.
 确实，如果能打通电话的话就可以向外界传递我们现在所处的位置。
-RU PLACEHOLDER
+Если бы мы с него куда-нибудь дозвонились, то смогли бы сообщить своё местоположение.
 
 救助を呼ぶことが出来る。%K%P
 Then a rescue could be requested.
 就可以向外界求助。
-RU PLACEHOLDER
+И нам оставалось бы только ждать помощи.
 
 けれど、あの新聞によれば……いや、新聞のことを抜きにしても、太陽風の影響で衛星電話の衛星は正常には機能していない。%K%N
 But according to the newspaper article... No, even if we just ignore that newspaper article, the satellite that the phone needs to work can't operate due to the current effects of the solar winds.
 但是，那张报纸上说……就算不考虑那张报纸，在太阳风的影响下卫星电话根本无法正常地使用。
-RU PLACEHOLDER
+Но, если верить той статье в газете... Нет, независимо от неё, связь со спутником нарушена из-за повышенной активности солнечного ветра.
 
 たとえ、極稀に、偶然、繋がるとしても……有効接続率は１００万分の１程度。%K%N
 Even if the phone connects to the satellite by sheer luck... the chance of getting a proper connection is one in 1,000,000.
 哪怕是……能够偶然地接通……有效接通的概率大概也只有１００万分之１。
-RU PLACEHOLDER
+Но даже если нам повезёт и связь со спутником будет установлена... вероятность дозвониться ― одна миллионная.
 
 『１秒間に１度ずつ電話をかけるという行動』を『２４時間』継続したとしても、正常に繋がるのは約１１．５日に１度だけ……。%K%P
 Even if we were to dial once every second for 24 hours straight, we would get a proper connection only once every eleven and a half days...
 “每秒拨一次电话”的行为“２４小时”不间断进行，接通一次也大约要１１．５天的时间……
-RU PLACEHOLDER
+То есть, набирая номер каждую секунду, установить соединение возможно раз в одиннадцать с половиной дней.
 
 まさに奇蹟と呼べるような偶然なのだ。%K%N
 You could call that a miracle.
 就算是那样的偶然也只能称为奇迹。
-RU PLACEHOLDER
+И даже это можно будет назвать чудом.
 
 %N
 
 そして、その奇蹟は残念ながら起きそうにない。%K%N
 And that miracle, unfortunately, seems unlikely to happen.
 很遗憾，那个奇迹似乎不会发生。
-RU PLACEHOLDER
+К несчастью, чуда до сих пор не происходило.
 
 それはこの３日間、黄泉木が試行錯誤を繰り返し、失敗してきたことが物語っているではないか。%K%P
 That's what Yomogi's failures have taught us during these three days, in which he tried and failed over and over again to make a call from the satellite phone.
 这三天来，黄泉木一次又一次的失败就证明了这一点。
-RU PLACEHOLDER
+В течение трёх дней Ёмоги снова и снова пытался сделать звонок, но тщетно.
 
 黄泉木「ゆに……残念ながら電話はもうダメなんだよ」%K%P
 Yuni... I'm afraid that the phone is useless.
 黄泉木「悠尼……很遗憾电话这条路已经行不通了」
-RU PLACEHOLDER
+Юни... К сожалению, телефон бесполезен.
 
 黄泉木「繋がりっこない」%K%P
 It won't connect.
 黄泉木「不可能通的」
-RU PLACEHOLDER
+Нам не дозвониться.
 
 ゆに「どうして？　試してみなきゃわからないじゃないか」%K%P
 Why? If you don't try, you'll never know, right?
 悠尼「为什么？不试一下怎么能知道呢」
-RU PLACEHOLDER
+Почему? Не узнаешь, пока не попробуешь, разве не так?
 
 ゆに「昨日繋がらなくても、一昨日繋がらなくても、さっき繋がらなくても……」%K%P
 Even if it didn't connect yesterday, even if it didn't connect the day before that, even if it didn't connect just a moment ago...
 悠尼「即使昨天没通、即使前天也没通、即使刚才也没有接通……」
-RU PLACEHOLDER
+Даже если не удалось позавчера, даже если не удалось вчера, даже если только что не удалось...
 
 ゆに「今は……『今この瞬間』は繋がるかも知れないんだよ？」%K%P
 Now... at this very moment... maybe it might just connect.
 悠尼「现在……“这个瞬间”说不定会接通呢？」
-RU PLACEHOLDER
+Сейчас... ровно в этот самый миг... может быть, получится.
 
 黄泉木「しかし……」%K%P
 But...
 黄泉木「可是……」
-RU PLACEHOLDER
+Но...
 
 黛「かけなさい！」%K%P
 Just dial it!
 黛「打吧！」
-RU PLACEHOLDER
+Просто набери уже!
 
 毛布にくるまったまま、黛は言い放った。%K%P
 Wrapped up in her blanket, Mayuzumi interrupts.
 裹在毛毯中的黛忽然发言。
-RU PLACEHOLDER
+Встревает в их разговор Маюдзуми.
 
 黛「ゆにの言う通りよ。試してみなきゃわからないわ」%K%P
 Just like Yuni said, you won't know until you try.
 黛「悠尼说得对。不试一下怎么能知道结果呢」
-RU PLACEHOLDER
+Как и сказал Юни, ты не узнаешь, пока не попробуешь.
 
 黛「かけてみるべきよ」%K%P
 We should try dialing.
 黛「还是要试一下才知道」
-RU PLACEHOLDER
+Нам нужно попробовать.
 
 黄泉木「う、うむむ……」%K%P
 H-Hmm...
 黄泉木「唔，嗯……」
-RU PLACEHOLDER
+Хм...
 
 黄泉木は顎をさすりながら悩み出した。%K%P
 Yomogi hesitates as he rubs his chin.
 黄泉木摸着下巴有点为难的样子。
-RU PLACEHOLDER
+Весь в сомнениях, Ёмоги потирает подбородок.
 
 私は考えた。%K%P
 I think about it.
 我也在思考。
-RU PLACEHOLDER
+Если подумать,
 
 確かに、ゆにの言う通りかも知れない。%K%P
 It might be exactly as Yuni says.
 确实，可能如悠尼所言。
-RU PLACEHOLDER
+...то Юни может оказаться прав.
 
 そう思い始めた。%K%P
 That's what I've started to think.
 我也开始生出这样的念头来。
-RU PLACEHOLDER
+Мне начинает казаться...
 
 『今この瞬間』は繋がるかも知れない……まだ奇蹟の可能性は残されているのではないか、と。%K%P
 At this exact moment, the phone may connect... There's still a chance for a miracle.
 “现在这个瞬间”说不定会接通……奇迹的可能性还存在。
-RU PLACEHOLDER
+Что именно в этот самый момент мы можем дозвониться... что случится чудо.
 
 黛「なに悩んでるのよ！　チャンスはまさに今かも知れないのに、それを放棄する気？」%K%P
 What are you waiting for!? If we try right now, it could be our chance, and you want to give up?
 黛「你在想什么啊！机会说不定就是现在这一瞬了，难道你要放弃？」
-RU PLACEHOLDER
+Ну так чего ты ждёшь?! Если мы не будем даже пытаться, то упустим свой шанс! Ты уже решил сдаться?
 
 黛「日本国憲法第２７条１項：すべて国民は、勤労の権利を有し、義務を負う」%K%P
 Article 27, paragraph 1 of the Constitution of Japan: All citizens shall have the right and the obligation to work.
 黛「日本国宪法第２７条１项：所有公民都有劳动权同时有劳动的义务」
-RU PLACEHOLDER
+Статья 27, параграф 1 Конституции Японии: "Все люди имеют право на труд и обязаны трудиться".
 
 黛「さっさと働きなさいよ！　このウスノロ！」%K%P
 So get moving, you lamebrain!
 黛「快动起来啊！你这懒鬼！」
-RU PLACEHOLDER
+Так пошевеливайся, тугодум!
 
 しかし、黄泉木は動こうとはしなかった。%K%P
 But Yomogi doesn't move at all.
 但是，黄泉木没有要动的样子。
-RU PLACEHOLDER
+Однако Ёмоги не двигается с места.
 
 この数日間の疲労によって、彼の希望は潰えてしまったのだろうか。%K%P
 Perhaps his hopes have already crumbled away because of the exhaustion from the past couple of days.
 这几天来的疲劳已经摧毁了他的希望吧。
-RU PLACEHOLDER
+Вероятно, из-за изнеможения он уже потерял всякую надежду на удачу.
 
 こころ「黄泉木さん、電話は……電話はどこにあるんですか？」%K%P
 Yomogi-san, the phone... Where is the phone?
 心「黄泉木先生，电话……电话在哪里？」
-RU PLACEHOLDER
+Ёмоги-сан, телефон... где он?
 
 黄泉木「冬川さん……かけるのか？」%K%P
 Fuyukawa-san... Are you going to try?
 黄泉木「冬川……你要打吗？」
-RU PLACEHOLDER
+Фуюкава-сан... хочешь попробовать?
 
 こころ「そうです。電話の保管場所を教えてください」%K%P
 That's right. Please, tell me where you put the phone.
 心「是的。请告诉我电话在哪里」
-RU PLACEHOLDER
+Да. Пожалуйста, скажите, где лежит телефон?
 
 黄泉木「…………」%K%P
 ......
 黄泉木「…………」
-RU PLACEHOLDER
+......
 
 黄泉木「電話なら、僕のバッグの中にある」%K%P
 It's in my bag.
 黄泉木「电话就在我的包里」
-RU PLACEHOLDER
+Он в моей сумке.
 
 私はすぐさま黄泉木のバッグへと駆け寄り、中を探った。%K%P
 I quickly run over to Yomogi's bag and search inside.
 我立即跑了过去，开始在包中翻找。
-RU PLACEHOLDER
+Я подбегаю к сумке и заглядываю внутрь.
 
 電話はすぐに見つかった。%K%P
 I find the phone right away.
 很快就找到了电话。
-RU PLACEHOLDER
+И тут же нахожу телефон.
 
 こころ「えーと……」%K%P
 Umm...
 心「那个……」
-RU PLACEHOLDER
+Так...
 
 こころ「どこにかければいいんだろう？？」%K%P
 What number should I try?
 心「拨什么号好呢？？」
-RU PLACEHOLDER
+А что надо набирать?
 
 １１０番……じゃないよね。%K%P
 110... No.
 １１０……应该不是吧。
-RU PLACEHOLDER
+110... нет.
 
 １１９番も、ちょっと違うっぽいし……。%K%P
 119 isn't quite right either...
 １１９，好像也不对……
-RU PLACEHOLDER
+199... вроде тоже нет...
 
 黄泉木「かけるなら、山岳救助隊がいいだろう」%K%P
 If you want a number to dial, try the mountain rescue team.
 黄泉木「要打的话，就打山岳救助队好了」
-RU PLACEHOLDER
+Если нужен номер, то набирай телефон горной спасательной службы.
 
 黄泉木「番号は……」%K%P
 The number is...
 黄泉木「号码是……」
-RU PLACEHOLDER
+Номер следующий...
 
 私は黄泉木が教えてくれた番号をダイヤルした。%K%P
 I dial the number Yomogi gives me.
 我拨了黄泉木告诉我的号码。
-RU PLACEHOLDER
+Я набираю на телефоне номер, который даёт мне Ёмоги.
 
 黄泉木「もっとも、かかるとは思えないがね」%K%P
 Of course, I don't think it'll connect.
 黄泉木「不过别抱太大希望了」
-RU PLACEHOLDER
+Хотя не думаю, что удастся дозвониться.
 
 スピーカーの向こうは沈黙していた。%K%P
 The phone's speaker is silent.
 听筒的另一端一直沉默着。
-RU PLACEHOLDER
+Динамик телефона продолжает молчать.
 
 こころ「………………」%K%P
 .........
 心「………………」
-RU PLACEHOLDER
+.........
 
 黄泉木「無駄な努力というものさ……」%K%P
 It's just a waste of effort...
 黄泉木「所以说是白费力气嘛……」
-RU PLACEHOLDER
+Пустая трата времени...
 
 やはり……ダメだったのか……。%K%P
 Just like he says... it's useless to try...
 果然……不行啊……
-RU PLACEHOLDER
+Как и сказал Ёмоги... пытаться совершенно бесполезно...
 
 思いかけた、その時だった――%K%P
 The moment that thought enters my head——
 我这样想，就在这个时候——
-RU PLACEHOLDER
+Как вдруг―
 
 …………。%K%P
 ......
 …………
-RU PLACEHOLDER
+.......
 
 ……えっ？%K%P
 ...Eh?
 ……唉？
-RU PLACEHOLDER
+...М?
 
 これって……。%K%P
 This...
 这是……
-RU PLACEHOLDER
+Это...
 
 男「はい、こちら八甲田山遭難対策委員会山岳救助隊」%K%P
 Yes, this is the Mount Hakkouda Distress Response Committee's Mountain Rescue Team.
 男「您好，这里是八甲田山遭难对策委员会山岳救助队」
-RU PLACEHOLDER
+Горная аварийно-спасательная команда горы Хаккода, слушаю вас.
 
 こころ「……………………………………」%K%P
 .....................
 心「……………………………………」
-RU PLACEHOLDER
+.....................
 
 男「あれ？　もしもし？　もしもーし？」%K%P
 Hello? Hello? Is anyone there?
 男「我说？喂？喂？」
-RU PLACEHOLDER
+Эм, алло? Вы меня слышите?
 
 こころ「……………………………………」%K%P
 .....................
 心「……………………………………」
-RU PLACEHOLDER
+.....................
 
 繋がった。%K%P
 It went through.
 通了。
-RU PLACEHOLDER
+Получилось.
 
 こころ「つ、つ、つ、繋がったー！　繋がったー！」%K%P
 It-It-It-It went through! It went through!
 心「通、通、通、通了！通了！」
-RU PLACEHOLDER
+Со-со-соединилось! Соединилось!
 
 黄泉木「え？」%K%P
 Eh?
 黄泉木「唉？」
-RU PLACEHOLDER
+Что?
 
 黛「え？」%K%P
 Eh?
 黛「唉？」
-RU PLACEHOLDER
+А?
 
 ゆに「…………」%K%P
 ......
 悠尼「…………」
-RU PLACEHOLDER
+......
 
 こころ「ど、ど、ど、どーしよ！　どーしよぉー！」%K%P
 Wh-Wh-Wh-What do I do!? What do I dooooo!?
 心「怎、怎、怎、怎么办！怎么办！」
-RU PLACEHOLDER
+Ч-ч-что делать? Что мне делать?!
 
 私は動揺のあまり、どうしていいのかわからなくなってしまっていた。%K%P
 I'm so shocked that any possible response goes right out of my head.
 我太过吃惊之余一下子不知道该怎么办了。
-RU PLACEHOLDER
+Я настолько растерялась, что все мысли моментально испарились.
 
 おろおろとするばかりで、何を話していいのかわからない。%K%P
 My mind goes blank. I can't find anything to say.
 结结巴巴地不知道该说什么。
-RU PLACEHOLDER
+Я просто остолбенела, не зная, что сказать.
 
 黄泉木「貸せっ！」%K%P
 Give it to me!
 黄泉木「给我！」
-RU PLACEHOLDER
+Дай мне!
 
 黄泉木が電話をひったくった。%K%P
 Yomogi grabs the phone.
 黄泉木夺过电话。
-RU PLACEHOLDER
+Ёмоги выхватывает телефон у меня из рук.
 
 黄泉木「もしもし！」%K%P
 Hello!
 黄泉木「喂！」
-RU PLACEHOLDER
+Алло!
 
 電話ごしに怒鳴る黄泉木。%K%P
 Yomogi yells into the phone.
 电话里发怒的黄泉木。
-RU PLACEHOLDER
+Кричит он в трубку.
 
 黄泉木「我々はＨＡＬ１８便の乗客だ」%K%P
 We're passengers from HAL18.
 黄泉木「我们是ＨＡＬ１８航班的乘客」
-RU PLACEHOLDER
+Мы пассажиры с рейса HAL18!
 
 黄泉木「墜落した旅客機だよ！　ニュースでやってるだろ！？」%K%P
 The plane that went down! It's been reported in the news, right!?
 黄泉木「就是那架坠落的客机！你没看新闻吗！？」
-RU PLACEHOLDER
+Наш самолёт потерпел крушение! Об этом ведь сообщали по новостям?!
 
 黄泉木「行方不明？　そういうことになってるのか？」%K%P
 Whereabouts unknown? So that's what happened, huh?
 黄泉木「去向不明？原来如此」
-RU PLACEHOLDER
+Местонахождение неизвестно? Вот, значит, как?
 
 黄泉木「まあいい……」%K%P
 Well, whatever...
 黄泉木「先不说这个了……」
-RU PLACEHOLDER
+Хорошо, тогда...
 
 黄泉木「そう、そうだ」%K%P
 Yes, that's right.
 黄泉木「是的，是的」
-RU PLACEHOLDER
+Да, правильно.
 
 黄泉木「１８便の墜落地点は南八甲田の朱倉岳だ」%K%P
 The crash site of HAL18 is on Mount Akakura in South Hakkouda.
 黄泉木「坠机地点是南八甲田的朱仓岳」
-RU PLACEHOLDER
+Самолёт разбился на горе Акакура в южной части хребта Хаккода.
 
 黄泉木「我々はその墜落事故の生き残りで……生存者は全部で４名だ」%K%P
 We're the ones who made it out of the crash alive... There are a total of four survivors.
 黄泉木「我们是事故幸存者……一共有四人」
-RU PLACEHOLDER
+Мы смогли спастись... нас всего четыре человека.
 
 黄泉木「今は、朱倉岳緊急避難小屋に避難してる」%K%P
 Right now, we've sought shelter at the Mount Akakura Emergency Shelter Cabin.
 黄泉木「现在正在朱仓岳的紧急避难小屋里」
-RU PLACEHOLDER
+Сейчас мы находимся в пункте экстренного укрытия на горе Акакура.
 
 黄泉木「ポイントはわかるだろう？　僕のＧＰＳによれば『北緯：４０度３５分３５秒／東経：１４０度５５分２０秒／標高：＋１２９８ｍ』」%K%P
 You know where that is, right? My GPS shows 40°35'35" north latitude, and 140°55'20" east longitude, altitude +1,298 meters.
 黄泉木「坐标你们知道吧？根据我的ＧＰＳ是“北纬：４０度３５分３５秒／东经：１４０度５５分２０秒／海拔：＋１２９８ｍ”」
-RU PLACEHOLDER
+Вы же знаете, где она находится? Мой GPS показывает 40 градусов 35 минут и 35 секунд северной широты и 140 градусов 55 минут и 20 секунд южной долготы,%K%P высота 1298 метров.
 
 黄泉木「今までなんとかしのいできたが、そろそろ限界だ。物資も底をついてしまった」%K%P
 We've been able to hold out until now, but we're at our limit. All supplies have been depleted.
 黄泉木「我们好不容易总算坚持到现在，已经快到极限了。物资已经消耗完了」
-RU PLACEHOLDER
+До сегодняшнего дня мы сумели продержаться, но наши силы уже на исходе, все запасы закончились.
 
 黄泉木「すぐにっ、今すぐに助けに来て欲しい！」%K%P
 You need to send someone to help us right away!
 黄泉木「赶快！你们赶快来救我们！」
-RU PLACEHOLDER
+Мы надеемся, что вы вышлете нам помощь!
 
 黄泉木「…………」%K%P
 ......
 黄泉木「…………」
-RU PLACEHOLDER
+......
 
 黄泉木「もしもし？」%K%P
 Hello?
 黄泉木「喂喂？」
-RU PLACEHOLDER
+Алло?
 
 黄泉木「おい、聞いてるのか？　もしもーし！」%K%P
 Hey, are you listening? Helloooo!
 黄泉木「喂！听到我说话吗？喂！」
-RU PLACEHOLDER
+Эй, вы слышите?! Алло-о-о!
 
 黄泉木「……………………」%K%P
 ............
 黄泉木「……………………」
-RU PLACEHOLDER
+............
 
 黄泉木「ちっ、切れちまいやがった……」%K%P
 Damn, we got cut off...
 黄泉木「断、断线了……」
-RU PLACEHOLDER
+Чёрт, связь прервалась...
 
 こころ「え？」%K%P
 Eh?
 心「唉？」
-RU PLACEHOLDER
+Что?
 
 黄泉木はすぐにリダイアルした。%K%P
 Yomogi redials again right away.
 黄泉木立即重拨号码。
-RU PLACEHOLDER
+Ёмоги пробует набрать номер снова.
 
 だが……%K%P
 But...
 但是……
-RU PLACEHOLDER
+Но...
 
 黄泉木「だめだ……繋がらない……」%K%P
 No good... It won't connect...
 黄泉木「不行……打不通……」
-RU PLACEHOLDER
+Это плохо... нет связи...
 
 それから何度か試してみたが、もう二度と電話は繋がらなかった。%K%P
 No matter how many times he tries again after that, none of the calls make it through.
 然后又试了一次又一次还是无法接通。
-RU PLACEHOLDER
+Сколько раз он ни пытался дозвониться снова, все его попытки заканчиваются неудачей.
 
 こころ「助けに……来てくれるんですか？」%K%P
 Will they... send help?
 心「救援队……会来吗？」
-RU PLACEHOLDER
+Они... вышлют нам помощь?
 
 黄泉木「……わからない」%K%P
 ...I don't know.
 黄泉木「……不好说」
-RU PLACEHOLDER
+...Я не знаю.
 
 黛「わからないって、どういうことよ？　あんた、ちゃんと説明したの！？」%K%P
 What do you mean you don't know? Hey, did you tell them everything!?
 黛「不好说是什么意思？你刚才有没有把话说清楚！？」
-RU PLACEHOLDER
+Что значит "я не знаю"?! Разве ты не рассказал им всё?!
 
 黄泉木「言うべきことは言ったつもりだ」%K%P
 I tried to tell them everything they needed to know.
 黄泉木「我想该说的我都说了」
-RU PLACEHOLDER
+Я попытался сказать всё, что нужно...
 
 黄泉木「ただ……途中で切れてしまったんだ」%K%P
 It's just... We got cut off in the middle.
 黄泉木「只是……说的过程中断线了」
-RU PLACEHOLDER
+Но... связь оборвалась на середине разговора.
 
 黄泉木「向こうの返答が聞けなかった」%K%P
 I didn't get a chance to hear their reply.
 黄泉木「没能听到对方的回答」
-RU PLACEHOLDER
+Я не успел получить их ответ.
 
 黄泉木「途中から電波状況が悪くなって、ほとんど応答が聞き取れなかった」%K%P
 The static got really bad halfway through, so I could barely make out what they were saying.
 黄泉木「而且打电话的过程中电波状况越来越差对方的回答几乎没听到什么」
-RU PLACEHOLDER
+Соединение было ужасное; я еле расслышал, что они говорили.
 
 黄泉木「それどころか……きちんと内容が伝わったかどうかも、わからない」%K%P
 In fact... I'm not even sure that what I said made it through to them clearly at all.
 黄泉木「说实在的……我说的有没有都传过去也很难说」
-RU PLACEHOLDER
+На самом деле... я не уверен, что передалось всё, что я им сказал.
 
 黄泉木「僕の言葉を、どこまで聞き取ってくれたのか……」%K%P
 I don't know how well they heard me...
 黄泉木「不知我说的对方究竟听到了多少……」
-RU PLACEHOLDER
+И кто именно принял моё сообщение...
 
 黛「それって、場所とか私達のこととか、全然伝わってないかも、ってこと？」%K%P
 You mean our location, the fact we're all trapped here... It might not have gone through?
 黛「你是说，我们的位置还有遭遇，有可能对方根本就没有听到？」
-RU PLACEHOLDER
+Ты хочешь сказать, что они не услышали ни наше местоположение, ни то, что мы здесь застряли?
 
 黄泉木「うむ……自信がない」%K%P
 Well... I'm not sure.
 黄泉木「这个……我也不敢保证」
-RU PLACEHOLDER
+Возможно... я не уверен в обратном.
 
 黛「ちょっと！　どうにかしなさいよ！　なんとかしなさい！！」%K%P
 Wait! Then think of something! Do something!
 黛「我说你！还不快点想办法！快想办法啊！！」
-RU PLACEHOLDER
+Погоди! Тогда придумай что-нибудь! Сделай что-нибудь!!!
 
 黛「もう一度……もう一度かけるのよ！」%K%P
 One more time... Call them again!
 黛「再打一次……再接着打一次吧！」
-RU PLACEHOLDER
+Ещё раз... позвони им ещё раз!
 
 黄泉木「無理だよ、黛……」%K%P
 It's impossible, Mayuzumi...
 黄泉木「没用的……黛……」
-RU PLACEHOLDER
+Маюдзуми... ничего не получится...
 
 黄泉木「さっき繋がったのだって、奇蹟みたいなものだったんだから」%K%P
 The fact that we connected just now was nothing short of a miracle.
 黄泉木「刚才接通了，已经可以说是奇迹了」
-RU PLACEHOLDER
+Мы и так чудом смогли дозвониться...
 
 黄泉木「奇蹟は２度、起きたりはしない」%K%P
 That miracle isn't going to happen twice.
 黄泉木「奇迹是不会发生两次的」
-RU PLACEHOLDER
+А чудеса не повторяются дважды.
 
 黛「貸しなさい！　私がやるわ！」%K%P
 Hand it over! I'll do it!
 黛「电话给我！我自己打！」
-RU PLACEHOLDER
+Давай телефон! Я сама позвоню!
 
 そして黛が電話を奪い取ると、リダイヤルボタンを押した。%K%P
 Mayuzumi grabs the phone and presses the redial button.
 黛夺过电话，开始拨号。
-RU PLACEHOLDER
+Рин хватает трубку и нажимает кнопку повторного вызова.
 
 黛「繋がるわ……繋がるのよ……きっと……」%K%P
 It'll go through... It'll go through... I just know it will...
 黛「快通……快通……一定给我……」
-RU PLACEHOLDER
+Подключится... подключится... я уверена...
 
 黛「繋がらなくっちゃ……困るのよ」%K%P
 If it doesn't... then we're in trouble.
 黛「不通的话……怎么行呢」
-RU PLACEHOLDER
+Иначе... у нас большие проблемы.
 
 こころ「………………」%K%P
 .........
 心「………………」
-RU PLACEHOLDER
+.........
 
 黄泉木「………………」%K%P
 .........
 黄泉木「………………」
-RU PLACEHOLDER
+.........
 
 ゆに「………………」%K%P
 .........
 悠尼「………………」
-RU PLACEHOLDER
+.........
 
 黛「繋がりなさいよ……どうしたのよ……どうなってるのよ……」%K%P
 Come on, go through... What's wrong? What happened...?
 黛「快通啊……为什么会这样……怎么会这样……」
-RU PLACEHOLDER
+Пожалуйста, подключайся... Что такое? Что случилось?..
 
 黛「繋がってよ……」%K%P
 Go through...
 黛「给我通啊……」
-RU PLACEHOLDER
+Давай же...
 
 黛「お願い……」%K%P
 Please...
 黛「求你了……」
-RU PLACEHOLDER
+Пожалуйста...
 
 黛「お願い……」%K%P
 Please...
 黛「求你了……」
-RU PLACEHOLDER
+Пожалуйста...
 
 黛「お願い……だから…………」%K%P
 Please... Because......
 黛「求你了……通一下吧…………」
-RU PLACEHOLDER
+Прошу... тебя...
 
 やがて黛は、電話を握ったまま泣き崩れた。%K%P
 Eventually, Mayuzumi breaks down crying with the phone still in her hand.
 不一会，黛抱着电话泣不成声。
-RU PLACEHOLDER
+Сжимая телефон в руках, Маюдзуми падает на колени; по её лицу текут слезы.
 
 黛「うぅ……うぅ……」%K%P
 Uu... Uu...
 黛「呜……呜……」
-RU PLACEHOLDER
+У-у... у-у...
 
 こころ「黛さん……」%K%P
 Mayuzumi-san...
 心「黛……」
-RU PLACEHOLDER
+Маюдзуми-сан...
 
 私は黛の肩に手を添えた。%K%P
 I lay a supporting hand on her shoulder.
 我把手放在她肩上。
-RU PLACEHOLDER
+Я кладу руку ей на плечо.
 
 彼女の肩は細かく震えていた。%K%P
 Her shoulders are trembling.
 她细小的肩在颤抖着。
-RU PLACEHOLDER
+Она дрожит.
 
 黄泉木「祈ろう」%K%P
 Pray.
 黄泉木「我们来祈祷吧」
-RU PLACEHOLDER
+Молиться.
 
 黄泉木「あとは祈るしかない」%K%P
 All that's left to do is to pray.
 黄泉木「现在我们能做的只有祈祷了」
-RU PLACEHOLDER
+Всё, что нам остаётся, ― это молиться.
 
 黄泉木「僕らのことが、きちんと伝わったと信じて」%K%P
 And believe that our message got through properly.
 黄泉木「相信我们的遭遇已经传到了外界」
-RU PLACEHOLDER
+И верить, что спасатели приняли наше сообщение.
 
 黄泉木「きっと助けに来てくれる」%K%P
 They're coming to help us for sure.
 黄泉木「相信救援一定会到来」
-RU PLACEHOLDER
+Они обязательно придут нам на помощь.
 
 黄泉木「そう信じよう」%K%P
 Believe in that.
 黄泉木「相信这些吧」
-RU PLACEHOLDER
+Верьте в это.
 
 黄泉木の言葉は心強かったが、黛の慰めにはならなかったようだった。%K%P
 Even though Yomogi's words are reassuring, they do nothing to comfort Mayuzumi.
 黄泉木的话虽然带着安慰，但是对黛好像没起什么作用。
-RU PLACEHOLDER
+Несмотря на пламенные и вдохновенные слова Ёмоги, Маюдзуми легче не становится.
 
 彼女は電話を置くと、ベッドの方へとフラフラと歩いていった。%K%P
 Putting down the phone, she stumbles slowly toward the bed.
 她放下电话，摇摇晃晃地向床的方向走去。
-RU PLACEHOLDER
+Положив телефон, она нетвёрдой походкой направляется к своей кровати.
 
 毛布をかぶり、押し黙ってしまう。%K%P
 She wraps herself in a blanket and goes completely silent.
 裹着毛毯不发一声。
-RU PLACEHOLDER
+Закутывается в одеяла и молча на неё садится.
 
 いや、何かをブツブツと呟いている。%K%P
 No, she's muttering something repeatedly under her breath.
 不，她在低声说着什么。
-RU PLACEHOLDER
+Хотя нет, она что-то бормочет себе под нос.
 
 このままでは気がふれてしまうかも知れない。%K%P
 If things keep going like this, she may just lose her mind.
 这样下去精神说不定要不正常了。
-RU PLACEHOLDER
+Если так пойдёт и дальше... Маюдзуми может потерять рассудок.
 
 私は黛のことが心配になり、彼女の側に近寄っていった。%K%P
 I move closer to Mayuzumi's side of the room, worried about her.
 我担心地走到她的身边。
-RU PLACEHOLDER
+Всё больше и больше беспокоясь, я подхожу к ней поближе.
 

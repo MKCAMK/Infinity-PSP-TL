@@ -91,23 +91,23 @@ def clean_translation_enc_issues(line: str) -> str:
   # russian quotation marks
   line = line.replace("\u00ab", "\u300a")
   line = line.replace("\u00bb", "\u300b")
+  line = line.replace("„", "\"")
   return line
 
 def clean_cn_translation_line(line: str) -> str:
-  line = clean_translation_enc_issues(line)
+  #line = clean_translation_enc_issues(line)
   line = line.replace("\u00B7", "\u30FB") # middle dot '·' -> katakana middle dot '・' (available in the font)
   return line
 
 def clean_en_translation_line(line: str) -> str:
-  line = clean_translation_enc_issues(line)
-  # line = re.sub(r"%(?![A-Za-z])", "\uff05", line) # replacing % metachar, with a lookalike char
-  # double spaces were fixed manually where appropriate, use text search to find remaining cases
-  # line = re.sub(r"(?<!\b\S \S)  +", " ", line) # collapse multiple spaces unless there are also extra spaces within the neighboring words
-  # line = line.replace("\u014d", "o") # ō no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
-  # line = re.sub("\u2473", "\u2473") # ⑳ ('CIRCLED NUMBER TWENTY' (U+2473)). No need to replace, rendered as a wide space. (glyph #1147)
-  # spaces are too thin on pc; Not the case for psp.
-  line = line.replace("<i>", "%CAAAF")
-  line = line.replace("</i>", "%CFFFF")
+  return line
+
+def clean_ru_translation_line(line: str) -> str:
+  line = line.replace("'аки'", "%CFA4Fаки%CFFFF")
+  line = line.replace("'хару'", "%CDE3Fхару%CFFFF")
+  line = line.replace("“", "\"")
+  line = line.replace("‘", "'")
+  line = line.replace("’", "'")
   return line
 
 def clean_en_translation_line_r11(line: str) -> str:
@@ -118,6 +118,34 @@ def clean_en_translation_line_r11(line: str) -> str:
   line = line.replace("''me''", "%CFFCFme%CFFFF") # ENOMOTO's "私" (kanji-watashi)
   line = line.replace("'I'", "%C88FFI%CFFFF") # YUKIDOH's "俺" (kanji-ore)
   line = line.replace("'me'", "%C88FFme%CFFFF") # YUKIDOH's "俺" (kanji-ore)
+  return line
+
+def clean_ru_translation_line_r11(line: str) -> str:
+  line = line.replace("|||Я|||", "%C8CFFЯ%CFFFF")
+  line = line.replace("|||я|||", "%C8CFFя%CFFFF")
+  line = line.replace("|||себя|||", "%C8CFFсебя%CFFFF")
+  line = line.replace("||Я||", "%CF88FЯ%CFFFF")
+  line = line.replace("||я||", "%CF88Fя%CFFFF")
+  line = line.replace("||себя||", "%CF88Fсебя%CFFFF")
+  line = line.replace("|Я|", "%C9C3FЯ%CFFFF")
+  line = line.replace("|я|", "%C9C3Fя%CFFFF")
+  line = line.replace("|себя|", "%C9C3Fсебя%CFFFF")
+  return line
+
+def clean_translation_line(line: str, lang="en", game=None) -> str:
+  line = clean_translation_enc_issues(line)
+  line = line.replace("<i>", "%CAAAF")
+  line = line.replace("</i>", "%CFFFF")
+  if lang == "en":
+    if game == "r11":
+      line = clean_en_translation_line_r11(line)
+    #line = clean_en_translation_line(line)
+  elif lang == "cn":
+    line = clean_cn_translation_line(line)
+  elif lang == "ru":
+    if game == "r11":
+      line = clean_ru_translation_line_r11(line)
+    line = clean_ru_translation_line(line)
   return line
 
 def println_sjis(line: str):

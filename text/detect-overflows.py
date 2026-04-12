@@ -53,7 +53,7 @@ def main():
       lines+=1;
       if (chars > warn_chars_screen):
         print("Line %d (%d): %d chars in last %d lines."
-              % (i+1, (i+1)*3+3, chars, lines))
+              % (i+1, i*5+2, chars, lines))
         print ("'%s'" % line)
       # if (len(line) > warn_chars_line):
       #   print(("Line  %d: %d chars on the line!") % (i+1, len(line)))

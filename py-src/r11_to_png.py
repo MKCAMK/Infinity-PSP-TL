@@ -53,7 +53,7 @@ def unpack_r11(r11_file):
             continue
 
         if i == 0:
-            if ps2: # ps2 alpha is 0-128. let's make it 0-255
+            if ps2 or ps2_alt_tile_size: # ps2 alpha is 0-128. let's make it 0-255
                 data = bytearray(data)
                 if paletted:
                     alter_start, alter_end = palette_ptr, palette_ptr + 4*256

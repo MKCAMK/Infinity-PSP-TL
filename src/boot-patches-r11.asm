@@ -3,6 +3,17 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Adjust nametag box position.
+.org 0x0881DF3C
+.area 4*1
+	addiu	t0,t0,-32
+.endarea
+.org 0x0881E004
+.area 4*1
+	addiu	v0,v0,-28
+.endarea
+
+
 ;; Increase glyph spacing and decrease the distance between lines in the shortcut menu.
 .org 0x08852544
 .area 4*3

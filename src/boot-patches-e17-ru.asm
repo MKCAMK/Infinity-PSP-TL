@@ -3,6 +3,25 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Adjust nametag box position.
+.org 0x0881DEE4
+.area 4*1
+	addiu	t0,t0,-28
+.endarea
+.org 0x0881DEEC
+.area 4*1
+	addiu	v0,v0,-7
+.endarea
+.org 0x0881DFDC
+.area 4*1
+	addiu	v0,v0,-24
+.endarea
+.org 0x0881DFCC
+.area 4*1
+	addiu	a0,a0,-4
+.endarea
+
+
 ;; Increase glyph spacing and decrease the distance between lines in the shortcut menu.
 .org 0x08850468
 .area 4*3
@@ -25,15 +44,6 @@
 .endarea
 
 
-;; Not sure what exactly this is supposed to compensate,
-;; but changing this value lets us fine-tune the centering of name tags.
-;; The default value of -10 is incorrect.
-.org 0x0881DFCC
-.area 4*1
-	addiu	a0,a0,-7
-.endarea
-
-
 ;; Do not stop BGM on in-game FMV playback.
 ; a0 specifies the "amount" of sound effect channels to stop.
 ; -1 (the default) will stop all (0-4), and 3 will stop 0-3.
@@ -44,9 +54,7 @@
 .endarea
 
 
-;; Use the American 12-hour clock.
-;; The subroutine was rewritten to take into account the 00:00 -> 12:00 AM and 12:00 -> 12:00 PM conversions.
-;; It also places the "AM" or "PM" at the end of the line, unlike the original function, which placed it in the beginning.
+;; Use the 24-hour clock. Subroutine rewritten to take up less space.
 ; @inhouse_sprintf - some sort of in-house sprintf. a2 - format, a1 - dest, a0 - argument. no idea if multiple "arguments" can be passed.
 ; @clock_unk1 - a3 seems to affect the height of the white blinking rectangle.
 ; @clock_unk2 - a2 affects the size of the clock.
@@ -56,68 +64,65 @@
 @clock_unk2 equ 0x08863F38
 .org 0x08837988
 .area 4*102
-	addiu	sp,sp,-0x20
-	sw		ra,0x1C(sp)
-	sw		s0,0x18(sp)
-	sw		s1,0x14(sp); 0x08837994: first relocation. cleared.
-	sw		s2,0x10(sp)
-	sw		s3,0xC(sp)
+	addiu	sp,sp,-0x1C
+	sw		ra,0x18(sp)
+	sw		s0,0x14(sp)
+	sw		s1,0x10(sp); 0x08837994: first relocation. cleared.
+	sw		s2,0xC(sp)
 	lui		a3,0x9DD
 	lw		a3,-0x4834(a3)
-	slti	a2,a0,12
-	beq		a2,zero,@@PM
 	lui		s0,0x892
-	b		@@AMPM_OVER
-	ori		s1,s0,0x3DC8
-@@PM:
-	ori		s1,s0,0x3DB8
-	addiu	a0,a0,-12
-@@AMPM_OVER:
-	bne		a0,zero,@@CLOCK_CONTINUE
 	ori		a2,s0,0x3DC0
-	li		a0,12
-@@CLOCK_CONTINUE:
-	lui		s2,0x6
-	addu	s2,a3,s2
-	addiu	s2,s2,-0x2648
-	move	s3,a1
+	lui		s1,0x6
+	addu	s1,a3,s1
+	addiu	s1,s1,-0x2648
+	move	s2,a1
 	jal		@inhouse_sprintf
-	move	a1,s2
-	move	a0,s2
+	move	a1,s1
+	move	a0,s1
 	jal		@strcat
 	ori		a1,s0,0x3DD0
 	ori		a2,s0,0x3DC0
 	move	a1,sp
 	jal		@inhouse_sprintf
-	move	a0,s3
+	move	a0,s2
 	move	a1,sp
 	jal		@strcat
-	move	a0,s2
-	move	a1,s1
-	jal		@strcat
-	move	a0,s2
-	sw		s2,0x100(s2)
+	move	a0,s1
+	sw		s1,0x100(s1)
 	li		a1,0x10
 	li		a2,0
-	addiu	a0,s2,0x100
+	addiu	a0,s1,0x100
 	jal		@clock_unk1
 	li		a3,0x12
-	addiu	a0,s2,0x110
-	addiu	a1,s2,0x100
+	addiu	a0,s1,0x110
+	addiu	a1,s1,0x100
 	jal		@clock_unk2
 	li		a2,0x1000
-	lw		a0,0x11C(s2)
+	lw		a0,0x11C(s1)
 	sll		a1,a0,2
 	addu	a1,a1,a0
 	addiu	a1,a1,0xE6
-	sw		a1,-0x4(s2)
-	lw		ra,0x1C(sp)
-	lw		s0,0x18(sp)
-	lw		s1,0x14(sp)
-	lw		s2,0x10(sp)
-	lw		s3,0xC(sp)
+	sw		a1,-0x4(s1)
+	lw		ra,0x18(sp)
+	lw		s0,0x14(sp)
+	lw		s1,0x10(sp)
+	lw		s2,0xC(sp)
 	jr		ra
-	addiu	sp,sp,0x20
+	addiu	sp,sp,0x1C
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	nop
 	nop
 	nop
@@ -170,30 +175,17 @@ char **storage = *somebaseaddr + 0x60000 - 0x2548;
 void *someptr = *somebaseaddr + 0x60000 - 0x2538;
 int *finalptr = *somebaseaddr + 0x60000 - 0x252C;
 int *finalout = *somebaseaddr + 0x60000 - 0x264C;
-char *PM = 0x8923DB8;
-char *AM = 0x8923DC8;
 char *colon = 0x8923DD0; // "："
-char *format = 0x8923DC0; // "%02d"
-int showtime(int hour, int minute) {
+char *format = 0x8923DC0;
+void showtime(int hour, int minute) {
 	char digits[12];
-	char *rangestr;
-	if (hour < 12) {
-		rangestr = AM;
-	} else {
-		rangestr = PM;
-		hour -= 12;
-	}
-	if (hour == 0) {
-		hour = 12;
-	}
-	sprintf(clockstring, format, hour); // a1, a2, a0
-	strcat(clockstring, colon); // a0, a1
-	sprintf(digits, format, minute);
+	sprintf(clockstring, "%02d", hour); // "%02d" == format
+	strcat(clockstring, colon);
+	sprintf(digits, "%02d", minute); // "%02d" == format
 	strcat(clockstring, digits);
-	strcat(clockstring, rangestr);
 	*storage = clockstring;
-	z_un_08862c74(storage, 0x10, 0, 0x12); // a0, a1, a2, a3
-	z_un_08863f38(someptr, storage, 0x1000); // a0, a1, a2
+	z_un_08862c74(storage, 0x10, 0, 0x12);
+	z_un_08863f38(someptr, storage, 0x1000);
 	int someint = *finalptr;
 	int outint = someint*5 + 0xE6;
 	*finalout = outint;

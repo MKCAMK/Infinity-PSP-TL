@@ -4,18 +4,14 @@
 import sys
 import argparse
 import re
+import struct
 
 import r11
 import r11.tipsparser
 
-def string_preproc(string: str, game: str, lang: str):
-    if lang == "cn":
-        string = r11.clean_cn_translation_line(string)
-    else:
-        if game == "r11":
-            string = r11.clean_en_translation_line_r11(string)
-        string = r11.clean_en_translation_line(string)
-    return string
+import os
+sys.path.insert(1, os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir, "text")))
+import jukebox
 
 def main():
     parser = argparse.ArgumentParser()
@@ -25,23 +21,24 @@ def main():
     parser.add_argument("-g", "--game", default="e17")
     parser.add_argument("-l", "--lang", default="en")
     parser.add_argument("-t", "--tips")
+    parser.add_argument("-c", "--chronology")
     args = parser.parse_args(sys.argv[1:])
 
     if args.game == "r11":
-        tip_amount = 110
-        seg_text = [0xba68, 0x2c11a]
+        #tip_amount = 110
+        seg_text = (0xba68, 0x2c11a)
         # seg_table = [0x1140, 0xac98]
-        seg_table_tips = [0x7610, 0x7f7c]
+        #seg_table_tips = [0x7610, 0x7f7c]
     elif args.game == "n7":
-        tip_amount = 112
-        seg_text = [0xaf80, 0x2254f]
+        #tip_amount = 112
+        seg_text = (0xaf80, 0x2254f)
         # seg_table = [0x1ba8, 0x9904]
-        seg_table_tips = [0x7fbc, 0x880c]
+        #seg_table_tips = [0x7fbc, 0x880c]
     elif args.game == "e17":
-        tip_amount = 119
-        seg_text = [0x89b0, 0x1f709]
+        #tip_amount = 119
+        seg_text = (0x89b0, 0x1f709)
         # seg_table = [0xeb8, 0x7df8]
-        seg_table_tips = [0x65c4, 0x6ee8]
+        #seg_table_tips = [0x65c4, 0x6ee8]
     else:
         sys.exit("game not supported.")
 
@@ -54,12 +51,151 @@ def main():
     head_int_view = mv.cast("I")
     body = bytearray()
 
+    i = head_int_view[0x60//4]
+    while (head_int_view[i//4] != 0):
+        i += 4
+    seg_table_lyric_ptrs = (head_int_view[0x60//4], i)
+    i = head_int_view[seg_table_lyric_ptrs[1]//4-1]
+    while (head_int_view[i//4] != 0):
+        i += 8
+    seg_table_lyrics = (head_int_view[seg_table_lyric_ptrs[0]//4], i+4)
+    song_amount = (seg_table_lyric_ptrs[1]-seg_table_lyric_ptrs[0])//4
+
+    seg_table_tip_ptrs = (head_int_view[0x64//4], head_int_view[0x68//4]-8)
+    tip_amount = (seg_table_tip_ptrs[1]-seg_table_tip_ptrs[0])//12
+    seg_table_tips = (head_int_view[seg_table_tip_ptrs[0]//4], head_int_view[seg_table_tip_ptrs[1]//4-2]+4)
+
+    seg_table_chrono = (head_int_view[0x88//4], head_int_view[0x8c//4])
+
+    songs = jukebox.jukebox(args.game, args.lang)
+    if songs:
+        if len(songs) != song_amount:
+            raise Exception(song_amount, "songs expected, got", len(songs))
+        lyric_amount = sum(len(song) for song in songs)
+        lyric_offset = lyric_amount*8+song_amount*4+seg_table_lyrics[0]-seg_table_lyrics[1]
+    else:
+        lyric_offset = 0
+
+    tips_txt = args.tips
+    if tips_txt:
+        tips = r11.tipsparser.parse_tip_file(tips_txt)
+        if len(tips) != tip_amount:
+            raise Exception(tip_amount, "tips expected, got", len(tips))
+        page_amount = sum(len(getattr(tip.pages, args.lang) or tip.pages.jp) for tip in tips)
+        tip_offset = page_amount*4+tip_amount*12+seg_table_tips[0]-seg_table_tips[1]
+    else:
+        tip_offset = 0
+
+    chrono_txt = args.chronology
+    if chrono_txt:
+        with open(chrono_txt, "r", encoding="utf-8-sig") as f:
+            chronology_lines = [l.rstrip("\n") for l in f.readlines() if not l.startswith("#")]
+        chrono_count = sum(map(lambda x: len(x) != 2 or x[-1] != ':' or x[0] not in "01234", chronology_lines))
+        chrono_offset = chrono_count*8+4-seg_table_chrono[1]+seg_table_chrono[0]
+    else:
+        chrono_offset = 0
+
+    pos = seg_text[0]
+
+    offset = lyric_offset+tip_offset+chrono_offset
+    if offset:
+        pos += offset
+        for i in range(head_int_view[0x8c//4]//4, head_int_view[head_int_view[0x8c//4]//4]//4-1, 1):
+            head_int_view[i] += offset
+        for i in range(head_int_view[0xa0//4]//4, head_int_view[head_int_view[0xa0//4]//4]//4, 1):
+            head_int_view[i] += offset
+        for i in (0x8c, 0xa0):
+            head_int_view[i//4] += offset
+        if lyric_offset:
+            for i in range(seg_table_tip_ptrs[0]//4, seg_table_tip_ptrs[1]//4, 3):
+                head_int_view[i] += lyric_offset
+                head_int_view[i+1] += lyric_offset
+            for i in range(head_int_view[0x68//4]//4, head_int_view[head_int_view[0x68//4]//4+1]//4-2, 2):
+                head_int_view[i+1] += lyric_offset
+            for i in (0x64, 0x68):
+                head_int_view[i//4] += lyric_offset
+        if lyric_offset or tip_offset:
+            for i in (0x78, 0x7c, 0x6c, 0x80, 0x84, 0x88):
+                head_int_view[i//4] += lyric_offset+tip_offset
+        seg_table_tips = tuple(x+lyric_offset for x in seg_table_tips)
+        seg_table_tip_ptrs = tuple(x+lyric_offset for x in seg_table_tip_ptrs)
+        seg_table_chrono = tuple(x+lyric_offset+tip_offset for x in seg_table_chrono)
+
+    if songs:
+        lyric_ptrs = bytearray()
+        song_ptr_off = seg_table_lyrics[0]
+        song_i = seg_table_lyric_ptrs[0]//4
+        for song in songs:
+            head_int_view[song_i] = song_ptr_off
+            for lyric in song:
+                lyric_bytes = r11.str_to_r11_bytes(r11.clean_translation_line(lyric[1], args.lang, args.game), lang=args.lang)+b'\0'
+                lyric_ptrs += struct.pack("<2I", pos, lyric[0])
+                body += lyric_bytes
+                pos += len(lyric_bytes)
+                song_ptr_off += 8
+            lyric_ptrs += struct.pack("<I", 0)
+            song_ptr_off += 4
+            song_i += 1
+        head_int_view.release()
+        mv.release()
+        head[seg_table_lyrics[0]:seg_table_lyrics[1]] = lyric_ptrs
+        mv = memoryview(head)
+        head_int_view=mv.cast("I")
+
+    if tips_txt:
+        tip_i = seg_table_tip_ptrs[0]//4
+        tip_ptr_off = seg_table_tips[0]
+        tip_text_ptrs = bytearray()
+        for tip in tips:
+            tl_title = getattr(tip.title, args.lang)
+            tl_pages = getattr(tip.pages, args.lang)
+            pages = tl_pages or tip.pages.jp
+            title = r11.clean_translation_line(tl_title or tip.title.jp, args.lang, args.game)
+            title_bytes = r11.str_to_r11_bytes(title, lang=args.lang)+b'\0'
+            head_int_view[tip_i] = tip_ptr_off
+            tip_text_ptrs += struct.pack("<I", pos)
+            tip_ptr_off += 4
+            body += title_bytes
+            pos += len(title_bytes)
+            for p in pages:
+                p_bytes = r11.str_to_r11_bytes(r11.clean_translation_line(p, args.lang, args.game), lang=args.lang)+b'\0'
+                tip_text_ptrs += struct.pack("<I", pos)
+                tip_ptr_off += 4
+                body += p_bytes
+                pos += len(p_bytes)
+            head_int_view[tip_i+1] = tip_ptr_off+4
+            tip_text_ptrs += struct.pack("<II", 0, 0x9090ffff)
+            tip_ptr_off += 8
+            tip_i += 3
+        head_int_view.release()
+        mv.release()
+        head[seg_table_tips[0]:seg_table_tips[1]] = tip_text_ptrs
+        mv = memoryview(head)
+        head_int_view=mv.cast("I")
+
+    if chrono_txt:
+        chrono = bytearray()
+        i = 0
+        for l in chronology_lines:
+            if len(l) == 2 and l[1] == ':' and l[0] in "01234":
+                i = int(l[0])
+                continue
+            chrono += struct.pack("<2I", pos, i)
+            b = r11.str_to_r11_bytes(r11.clean_translation_line(l, args.lang, args.game), lang=args.lang)+b'\0'
+            body += b
+            pos += len(b)
+        chrono += struct.pack("<I", 0)
+        head_int_view.release()
+        mv.release()
+        head[seg_table_chrono[0]:seg_table_chrono[1]] = chrono
+        mv = memoryview(head)
+        head_int_view=mv.cast("I")
+
     jp_pattern = re.compile(r"^;([\da-fA-F]*);([\d]*);(.*)$")
     dupestr = ";dupe:"
     unusedstr = ";unused"
     litstr = ";lit;"
     i = -1
-    pos = seg_text[0]
     while i < len(txt_lines)-1:
         i += 1
         ln = txt_lines[i]
@@ -71,11 +207,23 @@ def main():
 
         addr = jp_match.group(1)
         table_offset = int(addr, 16)
+        if table_offset > seg_table_lyrics[0]:
+            table_offset += lyric_offset
+        if table_offset > seg_table_tips[0]:
+            table_offset += tip_offset
+        if table_offset > seg_table_chrono[0]:
+            table_offset += chrono_offset
         #jp_len = jp_match.group(2) # not relevant
 
         if ln2.startswith(dupestr):
             dupe_ref_bytes = ln2[len(dupestr):]
             dupe_ref = int(dupe_ref_bytes, 16)
+            if dupe_ref > seg_table_lyrics[0]:
+                dupe_ref += lyric_offset
+            if dupe_ref > seg_table_tips[0]:
+                dupe_ref += tip_offset
+            if dupe_ref > seg_table_chrono[0]:
+                dupe_ref += chrono_offset
             # Just reference the same string
             head_int_view[table_offset // 4] = head_int_view[dupe_ref // 4]
             continue
@@ -93,7 +241,7 @@ def main():
         elif ln2[0] == ";":
             print("Warning, unexpected ';' in the beginning of line [{}]".format(ln2))
 
-        tl_string = string_preproc(tl_string, args.game, args.lang)
+        tl_string = r11.clean_translation_line(tl_string, args.lang, args.game)
 
         if ln2.startswith(litstr):
             tl_bytes = r11.str_to_r11_bytes(tl_string, exception_on_unknown=True)
@@ -104,32 +252,7 @@ def main():
         body += tl_bytes + b'\0'
         pos += len(tl_bytes) + 1
 
-    tips_txt = args.tips
-    if tips_txt:
-        tips = r11.tipsparser.parse_tip_file(tips_txt)
-        if len(tips) != tip_amount:
-            raise Exception(tip_amount, "tips expected, got", len(tips))
-        tip_i = seg_table_tips[0]//4
-        for tip in tips:
-            tl_title = getattr(tip.title, args.lang)
-            tl_pages = getattr(tip.pages, args.lang)
-            pages = tl_pages or tip.pages.jp
-            title = string_preproc(tl_title or tip.title.jp, args.game, args.lang)
-            title_bytes = r11.str_to_r11_bytes(title, lang=args.lang)+b'\0'
-            head_int_view[tip_i] = pos
-            tip_i += 1
-            body += title_bytes
-            pos += len(title_bytes)
-            for p in pages:
-                p_bytes = r11.str_to_r11_bytes(string_preproc(p, args.game, args.lang), lang=args.lang)+b'\0'
-                head_int_view[tip_i] = pos
-                tip_i += 1
-                body += p_bytes
-                pos += len(p_bytes)
-            tip_i += 2
-        if tip_i*4 != seg_table_tips[1]:
-          raise Exception("expected off", seg_tips_table[1], "ended up with", tip_i*4)
-
+    head_int_view.release()
     mv.release()
 
     with open(args.init_output, "wb") as f_out:

@@ -115,12 +115,17 @@ Isolation and Aegis
 SPHIA
 ~en~0
 Specified Psychiatric Hospital for Isolation and Aegis
+
 Since the revision of the penal code in 2007, special psychiatric hospitals were constructed in various regions across the country.
-The purpose of these facilities was to administer proper treatments to those who are suffering from mental illnesses and have committed serious crimes, so they can be reintegrated into society.%N
+
+The purpose of these facilities is to administer proper treatments to those who are suffering from mental illnesses and have committed serious crimes so that they can be reintegrated into society.
 ~en~0~
 ~en~1
 The layout of these facilities and the course of treatments there are undisclosed to respect the privacy of the patients.
-All that's known about these facilities are their locations. SPHIA, the facility in which Inubushi Keiko is institutionalized, is located on Hokkaido's %TS004Aosagi Island%TE.
+
+All that's known about these facilities are their locations.
+
+The SPHIA in which Inubushi Keiko is institutionalized is located on %TS004Aosagi Island%TE.
 ~en~1~
 
 ~cn
@@ -162,10 +167,11 @@ All that's known about these facilities are their locations. SPHIA, the facility
 ~en
 Aosagi Island
 ~en~0
-Located approximately 5 km west of Rebun Island,
-Aosagi Island was uninhabited until the construction of SPHIA.
+Located approximately five kilometers west of Rebun Island, Aosagi Island was uninhabited until the construction of SPHIA.
+
 It possesses no airport, and the only way to get there is by a boat which departs from Wakkanai Harbor on an irregular basis.
-Furthermore, entry to the island without a government-issued permit is prohibited.
+
+Normally, entry to the island without a government-issued permit is prohibited.
 ~en~0~
 
 ~cn
@@ -222,6 +228,7 @@ To pass the night at a location where there are no cabins or campgrounds.
 Russell
 ~en~0
 To push through deep layers of snow, creating a path while moving forward.
+
 A mountain-climbing term.
 ~en~0~
 
@@ -250,7 +257,8 @@ A mountain-climbing term.
 GPS
 ~en~0
 Global Positioning System
-A system which uses man-made satellites to calculate the position of a receiver (a person, boat, plane, car, etc.) on a 3D grid system which spans the entire Earth.
+
+A system employing satellites to calculate the position of a receiver (a person, boat, plane, car, etc.) in a 3D space.
 ~en~0~
 
 ~cn
@@ -279,7 +287,7 @@ Global Position System
 ~en
 Freeze Drying
 ~en~0
-A method of rapidly freezing and dehydrating food, allowing it to retain its flavor and nutritional content even as it loses its shape. Freeze-dried foodstuffs can later be reconstituted with hot or cold water.
+A method of rapidly freezing and dehydrating food, allowing it to retain its flavor and nutritional content without losing its shape. Freeze-dried foodstuffs can later be reconstituted with hot or cold water.
 ~en~0~
 
 ~cn
@@ -323,12 +331,13 @@ A method of rapidly freezing and dehydrating food, allowing it to retain its fla
 ~en
 Laplace's Demon
 ~en~0
-A concept proposed by Pierre-Simon Laplace, a French mathematician and philosopher.
-Suppose there exists a "demon," that is, an entity that possesses the ability to know, at a certain moment, the state of all things in the universe.
-Then, no matter how brief this moment is, it would always be enough for the demon to unravel everything that happened in the past and will happen in the future.%N
+A concept proposed by Pierre-Simon Laplace, a French mathematician and astronomer.
+
+Suppose there exists a “demon”; that is, an entity that possesses the ability to know, at a certain moment, the state of all things in the universe.
+Then, no matter how brief this moment is, it would always be enough for the demon to unravel everything that happened in the past and will happen in the future.
 ~en~0~
 ~en~1
-What Laplace was trying to say with this is that, basically, "everything which occurs in the world has been predetermined from the beginning."
+What Laplace was trying to say with this is that, basically, “everything which occurs in the world has been predetermined from the beginning”.
 That, no matter how big or how small an event is, its occurrence is by no means accidental, but in fact inevitable.
 In philosophy, this is called causal determinism.
 ~en~1~
@@ -372,6 +381,7 @@ In philosophy, this is called causal determinism.
 Androgynous
 ~en~0
 From the Greek, meaning one (a person) who possesses both sexes.
+
 An existence that is a combination of both the male and female sex.
 ~en~0~
 
@@ -563,75 +573,90 @@ Cloning and Laws on Cloning
 ~en~0
 The bodies of all living things are derived from biological blueprints called genes (DNA).
 The methods used to analyze and manipulate the information stored in genes, recombination, synthesis, and other similar technologies, are collectively classified under the umbrella term of genetic engineering.
-Currently, the technology enjoying the limelight in the field of genetic engineering is cloning technology.%N
+
+Currently, the technology enjoying the limelight in the field of genetic engineering is cloning technology.
 ~en~0~
 ~en~1
-The term "clone" is from biology. It refers to a life form produced through asexual reproduction, whose cells are perfectly genetically identical to those of its parent.
+The term “clone” is from biology. It refers to a life form produced through asexual reproduction, whose cells are perfectly genetically identical to those of its parent.
 Those born from this technology are called human clones.
-(As an aside, the word clone is derived from the Greek word "klon", meaning "twig")
-In 1997, the birth in England of the world's first somatic cell clone, a sheep named Dolly, was announced.%N
+(As an aside, the word clone is derived from the Greek word “klon”, meaning “twig”.)
+
+In 1997, the birth in England of the world's first somatic cell clone, a sheep named Dolly, was announced.
 ~en~1~
 ~en~2
 The successful creation of Dolly shed new light on the potentials of genetic engineering.
 
-Dolly was different from the embryonic cell clones that had previously been born from reproductive cell tissue. She was cloned from the mammary tissue (somatic cells) of an adult sheep, making her the first "somatic cell clone using nuclear transfer" (hereinafter simply "clone") in the world.%N
+Dolly was different from the embryonic cell clones that had previously been born from reproductive cell tissue. She was cloned from the mammary tissue (somatic cells) of an adult sheep, making her the first “somatic cell clone using nuclear transfer” (hereinafter simply “clone”) in the world.
 ~en~2~
 ~en~3
-In other words, the success of the technology to create a "somatic cell clone using nuclear transfer" served to verify the hypothesis that "if somatic cells were available, it would be possible to bring any animal back to life as an exact copy, any number of times."%N
+In other words, the success of the technology to create a somatic cell clone using nuclear transfer served to verify the hypothesis that if somatic cells were available, it would be possible to bring any animal back to life as an exact copy, any number of times.
 ~en~3~
 ~en~4
-After that, various transgenic clones were created, but since the process of their birth (cell development) was viewed as diverging too far from the natural way, human cloning research was banned, or otherwise strictly regulated.%N
+After that, various transgenic clones were created, but since the process of their birth (cell development) was viewed as diverging too far from natural means, human cloning research was banned or otherwise strictly regulated.
 ~en~4~
 ~en~5
-In the year 2001, the pronounced "human-related cloning regulation law" (cloning law) was being enforced in Japan.
-Additionally, principle countries such as England, France and Germany had prohibited the creation of human clones, calling it "an affront to human dignity."
-However, the combined power of forces such as sheer human curiosity, infertility problems, and possibly "the wish to meet with lost loved ones again" would not let it be stopped altogether.%N
+In the year 2001, the “human-related cloning regulation law” (cloning law) was enforced in Japan.
+Additionally, major countries such as England, France, and Germany prohibited the creation of human clones, calling it “an affront to human dignity”.
+
+However, the combined power of forces such as sheer human curiosity, infertility problems, and possibly the wish to meet with lost loved ones again would not let it be stopped altogether.
 ~en~5~
 ~en~6
-Thus, illegal research continued behind the scenes, and before long, the birth cries of the very first human clones were heard in the world. As a result, various protests and controversies took root, and in many countries, the ethical issue was back on the table for the furious debate about to unfold.
+Thus, illegal research continued behind the scenes, and before long, the birth cries of the very first human clones were heard in the world.
+
+As a result, various protests and controversies took root, and in many countries, the question of ethics was back on the table for the furious debate about to unfold.
+
 In the midst of this, a trial concerning the issue of the birth of clones was held.
-The year was 2010.
-The accused, a certain lone scientist.
-He had created a clone of his own son.
 ~en~6~
 ~en~7
-And the reason for that, he said, was simply "I just wanted to see my son, who was killed in an accident, one more time, at any cost."
+——The year was 2010.
+The accused, a certain lone scientist.
+He had created a clone of his own son.
+And the reason for that, he said, was simply “I just wanted to see my son, who was killed in an accident, one more time, no matter the cost.”
 But before long, his secret had been revealed, and thus judgment was pronounced upon him.
 And the result of the judges' decision was... life imprisonment.
-However, when the content of the cloned boy's testimony was reported, it caused a complete turnover of public opinion, which grew powerful enough to lead to amendment of the law in the end.%N
 ~en~7~
 ~en~8
-So what was it that the boy said so plaintively through his tears?
-"Papa didn't do anything wrong. I'm so grateful to Papa. Because Papa is the one who gave me this life..."
+However, when the content of the cloned boy's testimony was reported, it caused a complete turnover of public opinion, which grew powerful enough to lead to amendment of the law in the end.
 
-And so, that same year saw the lifting of the ban of the birth of human clones.
-Now anyone was free to use cloning technologies as a form of infertility treatment, as long as permission from the proper authorities has been granted.%N
+So what was it that the boy said so plaintively through his tears?
+
+“Papa didn't do anything wrong. I'm so grateful to Papa. Because Papa is the one who gave me this life...”
 ~en~8~
 ~en~9
-Since then, legal human clones have continued to be born; it has even been estimated that by the year 2019, one to two of every 1000 primary school children will be clones.
-As for the revised cloning law...
-For it to have been struck down by public opinion rallied simply for the sake of the happiness of one small boy, perhaps it truly was a law that stood in opposition to human kindness.%N
+And so, that same year saw the lifting of the ban of the birth of human clones.
+Anyone was free to use cloning technologies as a form of infertility treatment, as long as permission from the proper authorities has been granted.
+
+Since then, human clones have continued to be born legally; by the year 2019, it became common knowledge that one to two of every 1,000 primary school students were clones.
 ~en~9~
 ~en~10
-However, even after the amendment of the law, many problems still remained.
-Cloned people faced opposition and discrimination.
-As previously stated, the paradoxical method of their birth led some people to shun them.
-
-Since the clones' genetic information was perfectly identical to that of their nucleoplasm provider ("genome mother" or "original"), they were mockingly referred to as "copies of the original."%N
+As for the revised cloning law...
+For it to have been struck down by public opinion rallied simply for the sake of the happiness of one small boy, perhaps it truly was a law that stood in opposition to human kindness.
 ~en~10~
 ~en~11
-(However, strictly speaking, this belief is mistaken. At the time of a clone's creation, he or she inherits the mitochondria of the woman who provided the unfertilized egg ("host mother"). Since the genome mother and host mother are two different people, the clone cannot be said to be an exact replica of the original.)%N
+However, even after the amendment of the law, a large problem still remained.
+Cloned people faced opposition and discrimination.
+As previously stated, the unnatural nature of their birth and existence led many to be shunned.
+
+Since the clones' genetic information was perfectly identical to that of their nucleoplasm provider (“genome mother” or “original”), they were mockingly referred to as “copies of the original”.
 ~en~11~
 ~en~12
-Perhaps there is really no solution to such problems, unless humanity gets more accustomed to clones with time and deepens their understanding of genetic engineering.
-Until then, clones and their supporters can only keep on hoping, believing that the day will surely come when clones can live without fear...
-Finally, we shall introduce a certain person who had a global influence in the field of genetic engineering.
-He is Japan's Professor Morino Shigezou.%N
+(However, strictly speaking, this belief is mistaken. At the time of a clone's creation, he or she inherits the mitochondria of the woman who provided the unfertilized egg (“host mother”). Since the genome mother and host mother are two different people, the clone cannot be said to be an exact replica of the original.)
+
+In order to solve these problems moving forward, perhaps humanity will need to deepen their understanding of genetic engineering with time.
 ~en~12~
 ~en~13
-Since the latter part of the 20th Century, Professor Morino has taken part in the international Human Genome Project, where he had been credited with the discovery of a groundbreaking method for analyzing the sequence of DNA. Furthermore, the professor himself is known to have been creating human clones.
-However, there are opinions as to exactly what number of successfully produced clones his achievements amount to (if any at all), and the truth remains uncertain.
+Until then, clones and their supporters can only keep on hoping, believing that the day will surely come when clones can live without fear...
+
+
+Finally, we shall introduce a certain person who had a global influence in the field of genetic engineering.
+
+He is Japan's Doctor Morino Shigezo.
 ~en~13~
+~en~14
+Since the latter part of the 20th Century, Doctor Morino has taken part in the international Human Genome Project, where he had been credited with the discovery of a groundbreaking method for analyzing the sequence of DNA. Furthermore, the doctor himself is known to have created human clones.
+
+However, there are opinions as to exactly what number of successfully produced clones his achievements amount to (if any at all), and the truth remains uncertain.
+~en~14~
 
 ~cn
 克隆与克隆法
@@ -786,8 +811,9 @@ However, there are opinions as to exactly what number of successfully produced c
 LAN
 ~en~0
 Local Area Network
-A network of interconnected computers covering a small physical area such as a building.
-Allows for processing of large quantities of data which can be sent and received instantaneously.
+
+A network of interconnected computers installed in the same area, such as the inside of a building.
+Allows for the sending, receiving, and processing of various types of data in bulk.
 ~en~0~
 
 ~cn
@@ -813,7 +839,7 @@ Allows for processing of large quantities of data which can be sent and received
 ~en
 Browser
 ~en~0
-A software application that retrieves, traverses and displays the information resources from various sources such as web servers or the Internet on web pages.
+A software application that retrieves, traverses, and displays the information resources from various sources such as web servers or the Internet on web pages.
 ~en~0~
 
 ~cn
@@ -849,8 +875,9 @@ https://s1.ax1x.com/2020/11/09/Bbkcgf.png%N
 ~en
 Dominant and Alternate Personalities
 ~en~0
-In a person exhibiting so-called multiple personality disorder, the personality which is in control of the body for the longest periods of time is called the dominant personality (this is most often the "original" baseline personality which the person has had since birth).
-Other personae which assume control of the body from time to time for shorter periods are called alternate personalities.
+In a person exhibiting so-called multiple personality disorder, the personality which is in control of the body for the longest periods of time is called the dominant personality (this is most often the “original” baseline personality which the person has had since birth).
+
+Other personalities which sometimes assume control of the body for shorter periods are called alternate personalities.
 ~en~0~
 
 ~cn
@@ -883,8 +910,10 @@ Other personae which assume control of the body from time to time for shorter pe
 ~en
 Rejection
 ~en~0
-The refusal of the body to accept transplanted foreign tissue; a defensive reaction meant to protect it against infection.
+The refusal of the body to accept foreign substances; a defensive reaction meant to protect it against infection.
+
 When an organ or similar tissue from another person is transplanted, it is viewed as a foreign substance by the immune system, which will attempt to destroy the tissue and expel it from the body.
+
 This type of immune system attack is called rejection.
 ~en~0~
 
@@ -915,7 +944,7 @@ This type of immune system attack is called rejection.
 ~en
 Neuron
 ~en~0
-A bundle of nerve cells.
+A nerve cell.
 Composed of a cell body, an axon, and dendrites.
 Receives and transmits stimuli.
 ~en~0~
@@ -944,8 +973,8 @@ Receives and transmits stimuli.
 ~en
 Synapse
 ~en~0
-A communication method between neurons.
-Neurons send messages to each other via synapses.
+A bridge between neurons.
+Neurons send signals to each other via synapses.
 ~en~0~
 
 ~cn
@@ -972,7 +1001,7 @@ Neurons send messages to each other via synapses.
 ~en
 Host Computer
 ~en~0
-In a network of two or more interconnected computers, the most powerful computer in the group, which performs most of the computations and network control, is known as the host computer.
+In a network of two or more interconnected computers, the client is a terminal that receives commands from the host computer.
 ~en~0~
 
 ~cn
@@ -999,7 +1028,7 @@ In a network of two or more interconnected computers, the most powerful computer
 ~en
 Client
 ~en~0
-In a system consisting of two or more interconnected computers, the client is a terminal that receives commands from the host computer.
+In a network of two or more interconnected computers, the client is a terminal that receives commands from the host computer.
 ~en~0~
 
 ~cn
@@ -1025,7 +1054,7 @@ In a system consisting of two or more interconnected computers, the client is a 
 ~en
 Dual Surnames
 ~en~0
-With the approval of the bill in 2008, married couples may decide to use either partner's surname or retain separate family names.
+With the approval of a bill in 2008, married couples may decide to use either partner's surname or retain separate family names.
 ~en~0~
 
 ~cn
@@ -1096,10 +1125,11 @@ French Mercenary Legion
 (a.k.a. French Foreign Legion)
 A unit in the French Army. Created in 1831 by Louis Philippe, the then King of the French.
 The purpose of its creation was to reduce wartime casualties amongst native French soldiers by using mercenaries from other countries and foreign nationals instead.
-The Mercenary Legion troops know not of the word "surrender," nor are they taught how to act when captured; they are trained to fight to the death.%N
+The Mercenary Legion troops know not of the word “surrender”, nor are they taught how to act when captured; they are trained to fight to the death.
 ~en~0~
 ~en~1
-The Mercenary Legion has fought in many conflicts such as the French conquest of Algeria, the Indochina War and the Algerian Civil War; many foreign soldiers lost their lives in these conflicts.
+The Mercenary Legion has fought in many conflicts, such as the French conquest of Algeria, the Indochina War, and the Algerian Civil War; many foreign soldiers lost their lives in these conflicts.
+
 Even now, any French troops dispatched overseas are almost always from the Mercenary Legion.
 They were recently deployed in areas such as Afghanistan and Kosovo.
 ~en~1~
@@ -1163,16 +1193,15 @@ Knife Maintenance
 ~en~0
 As a knife is used, it will gradually grow dull over time.
 To maintain an optimum level of sharpness, daily care is essential.
-The most basic form of daily maintenance is to polish the blade after each use.%N
 ~en~0~
 ~en~1
-Water is very bad for knives!
+The most basic form of daily maintenance is to polish the blade after each use. Water is very bad for knives!
 Most modern knives are made from stainless steel, which is resistant to rust; however, this doesn't mean that they are rustproof.
-Therefore, they should be dried off quickly after coming
-into contact with water.%N
+Therefore, they should be dried off quickly after coming into contact with water.
 ~en~1~
 ~en~2
-To return a dull knife to its sharpened state, different methods of honing and touch-up exist.
+To return a dull knife to its sharpened state, different methods such as honing and touch-up exist.
+
 Honing refers to sharpening a knife.
 To touch up a knife means to improve its ability to cut.
 When a knife becomes dull, it's best to think about seeing to it right away.
@@ -1272,7 +1301,9 @@ Most had a body length of about 2-4 centimeters.
 Flight Recorder
 ~en~0
 (a.k.a. Black Box)
+
 An aviation device that automatically records speed, altitude, and other information about the flight in real time.
+
 Housed in a very sturdy casing which makes it highly resistant to damage by fire or force trauma.
 ~en~0~
 
@@ -1305,9 +1336,9 @@ Housed in a very sturdy casing which makes it highly resistant to damage by fire
 ~en
 Solar Wind
 ~en~0
-A stream of plasma which emanates from the upper atmosphereof the sun. It is composed mainly of electromagnetic wavesand protons, and moves at speeds of 350-700 kilometers per second.
-Comets always have their tails tracing away from the sun, blown there by the solar wind.
-It does not reach as far as the surface of the Earthand thus has no effect on terrestrial magnetism;however, it can cause magnetic storms, the aurora borealis,or disruptions in the ionosphere.
+A stream of plasma which emanates from the upper atmosphere of the sun. It is composed mainly of electrons and protons, and moves at speeds of 350-700 kilometers per second.
+Comets which leave trails tracing to the far side of the sun are blown there by the solar wind.
+It does not reach as far as the surface of the Earth due to the Earth's magnetic field; however, magnetic storms, the aurora borealis, and disruptions in the ionosphere are all attributed to this solar wind.
 ~en~0~
 
 ~cn
@@ -1343,8 +1374,10 @@ It does not reach as far as the surface of the Earthand thus has no effect on te
 Satellite Phone
 ~en~0
 A cellular telephone which works by way of communication satellites.
-"Connecting you from anywhere in the world" was the catchphrase.
-However, in practice, due to different company systems, types of available satellites and so on, there are cases in which signal availability is limited to certain areas.
+
+“Connecting you from anywhere in the world” was the catchphrase.
+
+However, in practice, due to different company systems, types of available satellites, and so on, there are cases in which signal availability is limited to certain areas.
 ~en~0~
 
 ~cn
@@ -1380,8 +1413,7 @@ However, in practice, due to different company systems, types of available satel
 ~en
 Brocken Specter
 ~en~0
-On a high mountain at sunrise or sunset, when one is standing in front of a bank of fog, the sunlight shining from behind you may project your shadow onto the fog, surrounded by a ring of rainbow light.
-This is called a Brocken specter.
+On a high mountain at sunrise or sunset, when one is standing in front of a bank of fog, the sunlight shining from behind them may project their shadow onto the fog, surrounded by a ring of rainbow light. This is called a Brocken specter.
 The resulting gigantic shadows, like those of a monster, have been called the phantoms of the Brocken.
 The name of the phenomenon comes from the Brocken, a mountain in Bavaria, Germany, where it has often been observed.
 ~en~0~
@@ -1415,7 +1447,7 @@ The name of the phenomenon comes from the Brocken, a mountain in Bavaria, German
 ~en
 Sample
 ~en~0
-A statistics term, meaning a subset of a population which is used for collecting information; may or may not be representative of the population as a whole.
+A statistics term, meaning a collection of data not representative of the whole population, but a subsection of it.
 ~en~0~
 
 ~cn
@@ -1447,8 +1479,10 @@ A statistics term, meaning a subset of a population which is used for collecting
 Ice Ax
 ~en~0
 A mountaineering tool.
-Used for aid in balance, to create footholds, and to prevent the climber from slipping.
-It is comprised of a long shaft with a pick at the head and a metal spike at the base.
+
+Used for aid in balance, to create footholds, security, to prevent the climber from slipping, etc.
+
+The head is comprised of a blade and pick, to which a shaft with a spike at the base is fastened.
 ~en~0~
 
 ~cn
@@ -1480,7 +1514,9 @@ It is comprised of a long shaft with a pick at the head and a metal spike at the
 Lombroso
 ~en~0
 Italian anatomist.
+
 Believed that the different types of crimes committed by each criminal corresponded to specific physical traits; also had an interest in the different types of criminals, which is now remembered as the source of modern criminology.
+
 However, his theories are now thought to be incorrect.
 ~en~0~
 
@@ -1510,7 +1546,6 @@ However, his theories are now thought to be incorrect.
 Phrenology
 ~en~0
 A divination method, supposed to be able to foretell a person's character and destiny based on examination of their cranial structure and facial features.
-Viewed as a serious school of scientific thought during the Victorian era, but has since been disproved and is now viewed as a quack medical practice.
 ~en~0~
 
 ~cn
@@ -1542,6 +1577,7 @@ Viewed as a serious school of scientific thought during the Victorian era, but h
 Astrology
 ~en~0
 Astrology here refers to Western astrology.
+
 A study, or skill, based on the belief that through the movement of heavenly bodies and their positions at certain times and places, an individual person's horoscope (drawn from the positions of the planets, the twelve signs of the zodiac, and the twelve astrological houses) can be interpreted and used to foretell their future.
 ~en~0~
 
@@ -1593,17 +1629,23 @@ Mental Disorders
 DSM
 ~en~0
 The Diagnostic and Statistical Manual of Mental Disorders
+
 A handbook of diagnostic criteria for mental disorders published by the American Psychiatric Association.
 The title is followed by its revision number.
+
 Published editions so far include the
-DSM-I (1952), DSM-II (1968), DSM-III (1980),
-DSM-III-R (1987), and DSM-IV(1994).
-This manual is, so to speak, a "simplified guide to the diagnosis of mental illnesses."%N
+DSM-I (1952), DSM-II (1968),
+DSM-III (1980), DSM-III-R (1987), and
+DSM-IV (1994).
 ~en~0~
 ~en~1
-Mental illnesses may affect a person in many forms, and are notoriously difficult to diagnose. It is also not uncommon for separate examining doctors to differ in their diagnoses. To help eliminate such errors, the DSM is used as a guide for doctors.
-By asking the patient certain questions, such as about said patient's condition, and checking their responses against the data in the DSM, even an inexperienced doctor can establish a diagnosis and begin appropriate treatment.%N
+This manual is, so to speak, a simplified guide to the diagnosis of mental illnesses.
+
+Mental illnesses may affect a person in many forms, and are notoriously difficult to diagnose. It is also not uncommon for separate examining doctors to differ in their diagnoses. To help eliminate such errors, the DSM is used as a guide for doctors to determine the name of the illness based on observed symptoms.
 ~en~1~
+~en~2
+By asking the patient certain questions, such as about said patient's condition, and checking their responses against the data in the DSM, even an inexperienced doctor can establish a diagnosis and begin appropriate treatment.
+~en~2~
 
 ~cn
 ＤＳＭ
@@ -1654,9 +1696,9 @@ DSM被用来当作诊断的标准。
 DSM-IV
 ~en~0
 The fourth revision of the DSM, published in 1994. In this edition, the name of the illness formerly called multiple personality disorder was changed to dissociative identity disorder.
-It was there that the illness called DID was "born."
+It was there that the illness called DID was “born”.
+
 Incidentally, dissociative personality disorder is still referred to as multiple personality disorder in other official writings, such as the ICD-10.
-In the Japanese edition of the DSM, the latter term is used.
 ~en~0~
 
 ~cn
@@ -1745,47 +1787,47 @@ In the Japanese edition of the DSM, the latter term is used.
 ~en
 Borderline Personality Disorder
 ~en~0
-alias: ambulatory schizophrenia, preschizophrenia, schizotypal disorder
+(a.k.a. ambulatory schizophrenia, preschizophrenia, schizotypal disorder)
 For a patient to be diagnosed with borderline personality disorder, they must display symptoms matching five or more of the following criteria.
-1) Inability to distinguish fantasy from reality.
+1) A feeling of abandonment in reality or delusion.
 2) A pattern of unstable and intense interpersonal relationships.
-3) Identity disturbance: markedly and persistently unstable self-image or sense of self.%N
+3) Identity disturbance: markedly and persistently unstable self-image or sense of self.
 ~en~0~
 ~en~1
 4) Feelings of disconnection from reality.
-5) Recurrent suicidal behavior, gestures, threats or self-injuring behavior.
+5) Self-abusive thoughts of suicide, self-injury, and so on.
 6) Chronic feelings of emptiness.
 7) Marked affective instability due to a marked reactivity of mood.
 8) Inappropriate anger or difficulty controlling anger.
 9) Transient, stress-related paranoid ideation, delusions or severe dissociative symptoms.
-10) Frantic efforts to avoid real or imagined abandonment.%N
 ~en~1~
 ~en~2
-Additionally, impulsivity in at least two areas that may beself-damaging, including:
+10) Desperate behavior and self-loathing at that behavior.
+
+Additional impulsive behaviors include:
 1) impulsive spending
 2) promiscuous sex
 3) substance abuse
 4) reckless driving
 5) binge eating
-    are observed.
-A borderline personality disorder sufferer's personalrelationships, self-image, emotional stability, and
 ~en~2~
 ~en~3
-particularly indulgence in impulsive acts are heavilyinfluenced and impaired by the disorder, with the onsetof symptoms typically occurring during adolescence oryoung adulthood.
-Though said to be a severe impairment to normal life,relatively few of the symptoms are detected by mostpeople.
-It is characterized by fluctuating emotional states andabnormal outbursts of anger or violence.
-Furthermore, many sufferers show frantic attempts toavoid abandonment.
+A borderline personality disorder sufferer's personal relationships, self-image, emotional stability, and particularly indulgence in impulsive acts are heavily influenced and impaired by the disorder, with the onset of symptoms typically occurring during adolescence or young adulthood.
 ~en~3~
 ~en~4
-This feeling often manifests itself inthe form of self-harm behaviors.
-Sufferers often report having a foggy mental state,being unable to perceive things clearly, or feeling as ifthey will go to pieces, as well as feeling lost and unsureof their own identity.
-Moreover, many say that this feeling of having no self-controlis what leads them to start self-injuring.
-Individuals with borderline personality disorder tend toview the world in black and white,
+Though said to be a severe impairment to normal life, relatively few of the symptoms are detected by most people. It is characterized by fluctuating emotional states and abnormal outbursts of anger or violence.
 ~en~4~
 ~en~5
-with all people viewedstrictly as either enemy or ally; if they think an allyis in danger of leaving them, many individuals will becomeanxious and deliberately harm themselves or otherwisecause trouble in an effort to get the ally to stay.
-However, it is important to remember that the individualis not doing these things because they want to, and aswith many other similar illnesses of "the heart," theirbehavior does not reflect their true personality.
+Furthermore, many sufferers show frantic attempts to avoid abandonment. This feeling often manifests itself in the form of self-harm behaviors.
+
+Sufferers often report having a foggy mental state, being unable to perceive things clearly, feeling lost, or feeling as if they will fall to pieces. Many are tortured with doubts about their own identities as well. This lost sense of self-control often causes them to resort to self-harm.
 ~en~5~
+~en~6
+Individuals with borderline personality disorder tend to view the world in black and white, with all people viewed strictly as either enemy or ally; if they think an ally is in danger of leaving them, many individuals will become anxious and deliberately harm themselves or otherwise cause trouble in an effort to get the ally to stay.
+~en~6~
+~en~7
+However, it is important to remember that the individual is not doing these things because they want to, and as with many other similar illnesses of “the heart”, their behavior does not reflect their true personality.
+~en~7~
 
 ~cn
 边缘型人格障碍
@@ -1865,8 +1907,9 @@ However, it is important to remember that the individualis not doing these thing
 ~en
 Jungfrau
 ~en~0
-A mountain range in the Swiss Bernese Alps.
-Its peak stands 4158 meters above sea level. The name means "virgin peak."
+A summit in the Swiss Bernese Alps.
+Its peak stands 4,158 meters above sea level.
+The name means “virgin peak”.
 It was designated a World Heritage Site in 2001.
 ~en~0~
 
@@ -1904,10 +1947,11 @@ It was designated a World Heritage Site in 2001.
 ~en
 Court-Appointed Attorney
 ~en~0
-In accordance with both the Criminal Procedure Code and the Japanese Constitution, the suspect or defendant in any case is entitled to legal counsel. However, though everyone has the right to counsel, in reality, there are many people who are too poor to hire an attorney to defend themselves.%N
+In accordance with both the Criminal Procedure Code and the Japanese Constitution, the suspect or defendant in any case is entitled to legal counsel. However, though everyone has the right to counsel, in reality, there are many people who are too poor to hire an attorney to defend themselves.
+
+Therefore, as written in the Constitution, “When a defendant is not able to appoint an attorney, that duty falls upon the state” (Article 37, Paragraph 3).
 ~en~0~
 ~en~1
-Therefore, as written in the Constitution, "When a defendant is not able to appoint an attorney, that duty falls upon the state" (article 37, paragraph 3).
 Thus, in cases where the defendant's poverty prevents them from being able to seek the services of an attorney, the court will appoint a public defender to assist them, with the cost being borne by the state.
 ~en~1~
 
@@ -1972,21 +2016,24 @@ Thus, in cases where the defendant's poverty prevents them from being able to se
 ~en
 Andromeda
 ~en~0
-A galaxy approximately 2,500,000 lightyears from Earth.
+A galaxy approximately 2,300,000 lightyears from Earth.
 A spiral galaxy, its shape is that of an elliptical coil.
-In Greek mythology, Andromeda was the name of an Ethiopian princess. Her mother, Cassiopeia, bragged that she was more beautiful than the sea nymphs known as the Nereids. The sea god Poseidon, who was fond of the Nereids, was angered by her words and sent a sea monster to lay waste to the coast of her kingdom.%N
+
+In Greek mythology, Andromeda was the name of an Ethiopian princess. Her mother, Cassiopeia, bragged that she was more beautiful than the sea nymphs known as the Nereids. The sea god Poseidon, who was fond of the Nereids, was angered by her words and sent a sea monster to lay waste to the coast of her kingdom.
 ~en~0~
 ~en~1
 The king went to consult an oracle for help.
 This oracle told him that only sacrificing Andromeda would return peace to the kingdom.
+
 Andromeda was chained to a rock and left as a sacrifice to the monster.
-At that time, Perseus, carrying the freshly-severed head of the Medusa in a sack, happened to come along.
-Uncovering the head before the monster's eyes, Perseus turned it to stone.
-Perseus then took Andromeda as his wife.%N
+
+At that time, Perseus, carrying the freshly-severed head of Medusa in a sack, happened to come along.
 ~en~1~
 ~en~2
+Uncovering the head before the monster's eyes, Perseus turned it to stone.
+Perseus then took Andromeda as his wife.
 When Andromeda died, she was placed among the stars and became a constellation alongside her husband Perseus, her father Cepheus, her mother Cassiopeia, and the great sea serpent.
-However, because of Cassiopeia's pride, she was placed in the heavens such that the chair in which she sits appears upside-down half the time.
+However, because of Cassiopeia's pride, she was placed in the heavens such that the chair in which she sits appears upside-down.
 ~en~2~
 
 ~cn
@@ -2043,7 +2090,8 @@ However, because of Cassiopeia's pride, she was placed in the heavens such that 
 ~en
 Hypothermia
 ~en~0
-A physical condition in which the core body temperature is abnormally low, causing it to gradually fall further and further.
+A physical condition caused by an abnormal drop in core body temperature.
+
 May result in death.
 ~en~0~
 
@@ -2077,9 +2125,12 @@ May result in death.
 ~en
 Whiteout
 ~en~0
-A weather condition in which the fieldof vision is obscured bywindblown snow, greatly reducingone's ability to discernvertical/horizontal directions and distance.It can be described as a "white darkness" of sorts.
-There is also another form of a whiteoutwhich is caused by diffuse reflectionsfrom snowy surfaces, clouds, and the like.In this case, the air becomes saturated withwhite light, rendering movement andthe gathering of visual information virtually impossible.
+A weather condition in which the field of vision is obscured by white due to windblown snow in the air, greatly diminishing one's ability to discern
+vertical/horizontal directions and distance. It can be described as a “white darkness” of sorts.
 ~en~0~
+~en~1
+There is also another form of a whiteout which is caused by diffuse reflections from snowy surfaces, clouds, and the like. In this case, the air becomes saturated with white light, rendering movement and the gathering of visual information virtually impossible.
+~en~1~
 
 ~cn
 白色黑暗
@@ -2159,15 +2210,16 @@ The presence of snow cornices make it very difficult to tell where the actual ri
 ~en
 Deus Ex Machina
 ~en~0
-From the Latin, literally meaning "god from the machine."
+From the Latin, literally meaning “god from the machine”.
 A frequently-used plot device in old plays and literature, where, in the midst of a seemingly hopeless situation, a previously unseen character or object will suddenly appear and provide a convenient resolution to the story.
 Use of this type of device in a story later came to be called by this name.
-Frequently seen in the Greek tragedies of Euripides, whose conclusions were often marked by a god
 ~en~0~
 ~en~1
-appearing from above and being lowered onto the stage via a mechanism similar to a crane.
-Aristotle, in his writings on aesthetics, argued that all the elements of a story should arise internally (naturally and necessarily), following up the previous actions in the play, and opposed the use of this device, saying that the sudden deus ex machina appearance of a previously unseen character in the middle of the play (contingent on the needs of the plot) was poor storytelling.
+Frequently seen in the Greek tragedies of Euripides, whose conclusions were often marked by a god appearing from above and being lowered onto the stage via a mechanism similar to a crane.
 ~en~1~
+~en~2
+Aristotle, in his writings on aesthetics, argued that all the elements of a story should arise internally (naturally and necessarily), following up the previous actions in the play, and opposed the use of this device, saying that the sudden deus ex machina appearance of a previously unseen character in the middle of the play (contingent on the needs of the plot) was poor storytelling.
+~en~2~
 
 ~cn
 解围之神
@@ -2211,7 +2263,8 @@ Aristotle, in his writings on aesthetics, argued that all the elements of a stor
 Coacervate
 ~en~0
 A small spherical droplet of hydrophilic colloids suspended in a liquid, which forms when solutions of colloids are mixed under suitable conditions to achieve and maintain a stable state.
-There is a theory that suggests they were the origin of life on Earth, as they have properties that resemble living matter and may have been the pre-biological systems from which living organisms originated.
+
+There is a theory that considers them to be the first stage in the origin of life on Earth.
 ~en~0~
 
 ~cn
@@ -2242,6 +2295,7 @@ There is a theory that suggests they were the origin of life on Earth, as they h
 Colloid
 ~en~0
 A chemical mixture in which particles of one substance are dispersed evenly throughout another substance such that, though they are larger than most molecules, they cannot be seen with ordinary optical microscopes.
+
 Examples include glue, starch, agar, egg white, mayonnaise, and smoke.
 ~en~0~
 
@@ -2275,9 +2329,11 @@ Examples include glue, starch, agar, egg white, mayonnaise, and smoke.
 ~en
 Thing-In-Itself
 ~en~0
-The central concept of the philosophy of Immanuel Kant,an 18th-century German philosopher.
-It refers not to the phenomenon's empirical recognition,but to the actual object itself, the very substanceof the phenomenon's origin, independent of any subjectivity.It means that we can only make sense of the phenomenon,and can never directly "know" the actual object or way.
-The thing-in-itself can not be understood, onlycontemplated; but even that is a transcendental freedom.
+The central concept of Kant's philosophy.
+
+The thing-in-itself is not a thing as a phenomenon which is an object of empirical cognition, but the thing itself that exists as the origin of the phenomenon, independently of a subject.
+
+It is something which cannot be known, only thought about. However, transcendental freedom becomes possible precisely due to that.
 ~en~0~
 
 ~cn
@@ -2363,41 +2419,48 @@ ACEという限定された知識だけしか
 ~en
 Memory Transplant
 ~en~0
-Memory loss and memory transplantation——
+Memory loss and memory transplantation—
 The difference between the two is as follows.
+
 Suppose that a given entity, X, has a contiguous memory (we may also call it a record) composed of ABCDEF.
-Memory loss, to put it simply, is a state wherein, for example, parts B, D, and F in the A〜F sequence are lost, and the only memories which can be recalled are ACE.%N
+
+Memory loss, to put it simply, is a state wherein, for example, parts B, D, and F in the A〜F sequence are lost, and the only memories which can be recalled are ACE.
 ~en~0~
 ~en~1
-On the other hand, the memory transplant mentioned herein refers to a state where, for example, the memory parts A, C, and E are embedded into an initially empty, "zero" state memory.
-Both cases are similar in that X does not remember anything besides ACE; the crucial difference, however, lies in the question of "whether the 'rest' is recoverable or not."
-In the case of a memory loss, it is possible that X would still have parts B, D, and F residing somewhere in the mind.%N
+On the other hand, the memory transplant mentioned herein refers to a state where, for example, the memory parts A, C, and E are embedded into an initially empty, “zero” state memory.
+
+Both cases are similar in that X does not remember anything besides ACE; the crucial difference, however, lies in the question of whether the rest is recoverable or not.
 ~en~1~
 ~en~2
-Thus X might perhaps be able to recover these lost memories.
-On the other hand, if X had had these memories transplanted, then it would mean that BDF had never existed in the first place.
+In the case of memory loss, it is possible that X would still have parts B, D, and F residing somewhere in the mind. Thus, X might perhaps be able to recover these lost memories.
+
+However, if X had had these memories transplanted, then it would mean that BDF had never existed in the first place.
 In this case, X is left with no other alternative but to accumulate new memories over time.
-So then, if by any chance, this memory content of mine was transplanted....%N
 ~en~2~
 ~en~3
+So then, if by any chance, this memory content of mine was transplanted...
 Just whose ACE memories are these, I wonder?
-The fact remains that "my consciousness" belongs to me, but it is in fact possible that "my memory" is one that was originally someone else's and not mine.
-And that this someone had planted the ACE-reduced memories inside me, so that even I myself am not aware of how and why that happened exactly.%N
+
+There's no doubt that “my consciousness” belongs to me, but it is in fact possible that “my memory” is one that was originally someone else's and not mine.
+And that this someone had planted the memories limited to ACE inside me, so that even I myself am not aware of how and why that happened exactly.
 ~en~3~
 ~en~4
 Why not A〜F, but ACE...?
 Why didn't they transplant BDF as well...?
+
 Could it be that...
 It's not that they didn't transplant them,
 but... that they couldn't?
-Could it be that, just like me, this other person lacks BDF?%N
+
+Could it be that, just like me, this other person lacks BDF?
 ~en~4~
 ~en~5
-Can I assume that this limited knowledge composed only of ACE was all that was available to this person?
-And that, therefore, it was for this reason that this person couldn't put any other memories inside me?
+Can I assume that this limited knowledge composed only of ACE was all that was available to this person...?
+And that it was for this reason that this person couldn't put any other memories inside me?
+
 It might be that I'm only able to know what this person knows, and if this person doesn't know something, neither can I.
 My memory and this person's memory are the same.
-......was what I thought.
+......That's how it feels.
 ~en~5~
 
 ~cn
@@ -2510,25 +2573,29 @@ BDF从一开始就是不存在的。
 Now
 ~en~0
 It is 2011 here in the cabin shelter; in SPHIA, it is 2012.
-She exists a year in the future for me, so maybe "now" is not an appropriate name for it.
+She exists a year in the future for me, so maybe “now” is not an appropriate name for it.
 But there's no way around that anymore.
-No matter how you look at it, the fact remains that it is still "now" to me and Fuyukawa Kokoro.
-Having felt out of place from the normal flow of history, we are living within our own designated "time" now.%N
+
+No matter how you look at it, the fact remains that it is still “now” to me and Fuyukawa Kokoro.
+Having deviated from the normal flow of history, we are living within our own designated “time” now.
 ~en~0~
 ~en~1
 The flow of time that she and I experience and the flow of time in the rest of the world are different.
 If, for example, the latter is represented as
-"A→B→C→D→E→F→......U→V→W→X→Y→Z"
+“A→B→C→D→E→F→......U→V→W→X→Y→Z”
 then the time flow that I'm experiencing becomes
-"A→V→C→X→E→Z,"
+“A→V→C→X→E→Z”,
 and that which Fuyukawa Kokoro experiences becomes
-"U→B→W→D→Y→F."
-Therefore, whenever I bring up time-related concepts such as "now," "just now," "today," "tomorrow" and so on,
+“U→B→W→D→Y→F”.
+Therefore, whenever I bring up time-related concepts such as “now”, “just now”, “today”, “tomorrow”,
 ~en~1~
 ~en~2
-these are supposed to be understood and hold meaning in accordance with my individual timeline of "A→V→C→X→E→Z."
-On a side note, ever since I've been experiencing this personality exchange phenomenon, the concepts of "next year" and "last year" no longer apply to me either.
-Now that I'm in the Mount Akakura shelter, both 2011 and 2012 are, in a certain sense, "this year" to me.
+and so on, these are supposed to be understood and hold meaning in accordance with my individual timeline of
+“A→V→C→X→E→Z”.
+
+On a side note, ever since I've been experiencing this personality exchange phenomenon, the concepts of “next year” and “last year” no longer apply to me either.
+
+Now that I'm in the Mount Akakura shelter, both 2011 and 2012 are, in a certain sense, “this year” to me.
 ~en~2~
 
 ~cn
@@ -2588,9 +2655,10 @@ Now that I'm in the Mount Akakura shelter, both 2011 and 2012 are, in a certain 
 ~en
 Rorschach Test
 ~en~0
-A type of projective psychological test.
-The subject of the test is first asked to interpret a series of cards with ambiguous, bilaterally symmetric inkblot designs. The answers are then analyzed so as to try and determine that person's personality characteristics.
-Invented by Rorschach (Hermann R., 1884-1922), a Swiss psychologist.
+A type of projective personality test.
+
+The subject of the test is first asked to interpret a series of cards with ambiguous, bilaterally symmetrical inkblot designs. The answers are then analyzed so as to try and determine that person's personality characteristics.
+Invented by Rorschach (Hermann R., 1884–1922), a Swiss psychiatrist.
 ~en~0~
 
 ~cn
@@ -2621,8 +2689,9 @@ Invented by Rorschach (Hermann R., 1884-1922), a Swiss psychologist.
 ~en
 Rock'n Roll
 ~en~0
-A genre of popular music which came into fashion in the 1950s in America, and soon after the rest of the world.
-Based on black musicians' rhythm and blues, with additional influences from Caucasian country music.
+A genre of popular music which originated in the 1950s in America and spread to the rest of the world.
+Based on black musicians' rhythm and blues, with additional influences from white country music.
+
 Also known as rock.
 ~en~0~
 
@@ -2656,10 +2725,12 @@ Also known as rock.
 ~en
 Capoeira
 ~en~0
-An Afro-Brazilian martial art.
-Moving to the rhythm of drum-centric live music, two people move as one in an intricately choreographed dance.
-Created by black slaves, it had roots in ancient African techniques.
-Historically, leaders of the art disguised it as a form of folk dance so that it could be practiced openly.
+A Brazilian martial art.
+
+Moving to a rhythmic, percussion-centric musical performance, a pair of two perform dance-like foot techniques.
+
+It was originally developed by black slaves from African martial arts.
+Historically, practitioners disguised their training as an ethnic dance to camouflage it from their rulers.
 ~en~0~
 
 ~cn
@@ -2690,9 +2761,7 @@ Historically, leaders of the art disguised it as a form of folk dance so that it
 ~en
 Skepticism
 ~en~0
-A school of thought in classical philosophy. With human cognizance being highly subjective and relative, it is very unlikely that everything one perceives is absolutely true.
-Therefore, all things should be viewed with doubt initially; final judgments on anything, e.g. new information, should be suspended until it has been thoroughly investigated and proven to be veracious.
-This is skepticism.
+An ideological attitude which suspends ultimate judgment and doubts the possibility of recognition of absolute truth, given human recognition is subjective and relative.
 ~en~0~
 
 ~cn
@@ -2744,20 +2813,24 @@ This is skepticism.
 ~en
 I'm a Seagull
 ~en~0
-Kokoro had said that these are "beautiful words."
-However, in reality, this phrase is not exactly something one should be very awestruck by.%N
+Kokoro had said that these are “beautiful words”.
+However, in reality, this phrase is not exactly something one should be very moved by.
+
+“Seagull” in Russian would be “chayka”.
+And incidentally, “Chayka” was also the call sign, something akin to a nickname, of Vostok 6.
 ~en~0~
 ~en~1
-"Seagull" in Russian would be "chayka."
-And incidentally, "Chayka" was also the call sign, something akin to a nickname, of Vostok 6.
 In other words, just as an astronaut on one of the Apollo spacecraft missions would contact the command center:
-"This is Apollo, this is Apollo, Houston, do you copy?"
+“This is Apollo, this is Apollo, Houston, do you copy?”
+
 Tereshkova had contacted the respective command center for the Vostok 6 with
-"This is Seagull, this is Seagull."%N
+“This is Seagull, this is Seagull.”
 ~en~1~
 ~en~2
-When this phrase was translated into Japanese, it was mistakenly translated as 『私はカモメ』, i.e. "I am a seagull." As a result, it became widely known in Japan as Tereshkova's poetic description of herself floating in the void of space.
-An interesting fact to note: the Vostok 1 that Gagarin piloted was called "Kedr" - "Cedar."
+When this phrase was translated into Japanese,
+it was mistakenly translated as 『私はカモメ』, i.e. “I am a seagull.” As a result, it became widely known in Japan as Tereshkova's poetic description of herself floating in the void of space.
+
+An interesting fact to note: the Vostok 1 that Gagarin piloted was called “Kedr”, meaning “Cedar”.
 If that name was used as the call sign of Vostok 6, perhaps such a mistranslation would not have occurred.
 ~en~2~
 
@@ -2822,16 +2895,15 @@ If that name was used as the call sign of Vostok 6, perhaps such a mistranslatio
 ~en
 The Cat Locked in the Box
 ~en~0
-Refers to "Schrödinger's Cat," a thought experiment intended as a critique of quantum probability theories proposed by Bohr and Heisenberg (the so-called Copenhagen interpretation).
-Suppose that a cat was put in a box equipped with a mechanism that would emit poisonous gas if a certain radioactive material decays.
-According to the Copenhagen interpretation,
-the micro-world phenomena such as radioactive emission are probabilistic by nature.%N
+Refers to “Schrödinger's Cat”, a thought experiment intended as a critique of worldviews based on probabilistic theories (the so-called Copenhagen interpretation) which was proposed by Bohr and Heisenberg.
+
+Suppose that a cat is put in a box equipped with a mechanism that would emit poisonous gas if a certain radioactive material decays.
 ~en~0~
 ~en~1
-Therefore, in this experiment, as it is caused by one such phenomenon, the life/death status of the cat itself ends up being probabilistic as well.
-This means the cat is both dead and alive at the same time.
-No certain conclusion to its state can be made until the box is open.
-The paradox embodied by that cute cat became one of the prime buzzwords of the era that marked the birth of quantum mechanics.
+According to the Copenhagen interpretation, this micro-world radiation emission is probabilistic by nature.
+Then even the cat's death caused by it becomes stochastic.
+
+Even if the cat is as lively as ever, it will be, for example, a 30％ dead cat. As a paradox about a cute cat, the phrase became a suitable introduction to quantum mechanics.
 ~en~1~
 
 ~cn
@@ -2881,16 +2953,18 @@ The paradox embodied by that cute cat became one of the prime buzzwords of the e
 ~en
 Rexenin
 ~en~0
-Benzodiazepine, an anti-anxiety agent.
-Binds to BZD receptors, as well as GABA-A receptors, suppresses nerve stimulation and puts the body in a relaxed state.
-Results in anxiolytic (anti-anxiety), sedative-hypnotic (sleep-inducing), muscle relaxant and anticonvulsant action.
-Its anxiolytic (tranquilizer) effect is so powerful, it is said that it is five times more potent than average anti-anxiety drugs.%N
+A benzodiazepine, an anti-anxiety agent.
+Binds to BZD receptors, as well as GABA-A receptors, suppresses nerve stimulation, and puts the body in a relaxed state.
+
+Results in anxiolytic (anti-anxiety) action, sedative-hypnotic action, muscle relaxation, and anticonvulsant action.
+Its anxiolytic effect is so powerful, it is said that it is five times more potent than average anti-anxiety drugs.
 ~en~0~
 ~en~1
 After taking the drug, the highest concentration in the bloodstream will be achieved after an hour.
-The manifestation of its effects is somewhat sped up.
-Its half life within the bloodstream is 6〜20 hours.
+The manifestation of its effects is somewhat faster.
+Its half-life within the bloodstream is 6〜20 hours.
 The drug is classified as having short to medium-term effects.
+
 It is a very useful drug, because its drowsiness side effect for a minor tranquilizer is relatively weak.
 ~en~1~
 
@@ -2930,7 +3004,7 @@ It is a very useful drug, because its drowsiness side effect for a minor tranqui
 ~en
 Score:0-0
 ~en~0
-The number on the left represents Hotori and Utsumi's team's score, and the number on the right represents my and Yuni's team's score.
+The number on the left represents Hotori's and Utsumi's team score, and the number on the right represents my and Yuni's team score.
 ~en~0~
 
 ~cn
@@ -2963,6 +3037,7 @@ Supercomputer
 ~en~0
 A computer capable of processing very large amounts of data at ultra high speeds through the employment of technologies such as parallelism.
 The processing speed can be as high as 10^12 operations/second (as of 2003).
+
 In recent years, supercomputers have come to be used for weather forecasting across Japan, calculating things like temperature, pressure, and the movement of clouds.
 ~en~0~
 
@@ -3010,13 +3085,14 @@ Super Computer。
 ~en
 Hippocampus
 ~en~0
-A part of the cerebral cortex, the hippocampus controls the functions of desire, instinct, the autonomic nerves, and so on.
-Due to its responsibility for deciding the level of urgency of received information and storing memory in other parts of the brain, it is referred to as the "memory factory."
-It is said that without the hippocampus, a person won't be able to remember what had happened even five minutes ago.%N
+"A part of the cerebrum's paleocortex, the hippocampus controls the functions of desire, instinct, the autonomic nerves, and so on.
+
+Due to its responsibility for deciding the level of urgency of received information and storing memory in other parts of the brain, it is referred to as the “memory factory”.
 ~en~0~
 ~en~1
-Additionally, it is not simply the case that "one becomes forgetful with age."
-Adults, because of having a much greater store of memories than children, are said to take much longer to remember a single essential piece of information.
+It is said that without the hippocampus, a person would be unable to remember what had happened even five minutes ago.
+
+Additionally, it is not simply the case that one becomes forgetful with age. Rather, adults, because of having a much greater store of memories than children, take much longer to remember a single essential piece of information.
 ~en~1~
 
 ~cn
@@ -3055,8 +3131,9 @@ hippocampus，即海马体。
 ~en
 Quantum
 ~en~0
-The smallest unit of a physical quantity which can be expressed using values limited to a set of integers within a certain range, rather than continuous values.
-In 1900, Max Planck proposed the idea of a quantum energy (the quantum hypothesis) that spawned the beginning of quantum theory.
+The smallest unit of a physical quantity, not continuous, expressed as values limited to a set of integer multiples of a certain unit amount (quantized values).
+In 1900, Planck proposed the idea of a quantum energy (the quantum hypothesis) that spawned the beginning of quantum theory.
+
 Subsequently, Albert Einstein suggested the existence of a light quantum (photon), and Niels Bohr demonstrated the angular momentum quantum.
 ~en~0~
 
@@ -3100,11 +3177,10 @@ Subsequently, Albert Einstein suggested the existence of a light quantum (photon
 Quantum Mechanics
 ~en~0
 The study of molecules, atoms and subatomic particles; in short, the dynamics of matter and energy on a microscopic level.
-It introduced the principles in the %TS063Schrödinger equation%TE, conducted probabilistic explanations between values that can be obtained from observation, postulated the wave-particle duality of matter, and explained the uncertainty relationship in measurements.%N
+It introduced the principles in the %TS063Schrödinger equation%TE, conducted probabilistic explanations between values that can be obtained from observation, postulated the wave-particle duality of matter, and explained the uncertainty relationship in measurements.
 ~en~0~
 ~en~1
-Quantum mechanics serves as the theoretical foundation of modern physics, which concerns particles as well as particle bodies.
-Additionally, it paved the way for the development of the physical/atomic theory, elementary particle theory, and the field theory.
+Quantum mechanics, as a fundamental theory of modern physics dealing with particles and particle populations, has developed into nuclear and chemically-oriented condensed matter theories on one hand, and elementary particle and field theories on the other.
 ~en~1~
 
 ~cn
@@ -3143,7 +3219,8 @@ Additionally, it paved the way for the development of the physical/atomic theory
 Schrodinger Equation
 ~en~0
 (a.k.a. Wave Equation)
-In quantum mechanics, the Schrödinger Equation is a differential equation that describes the changes over time of the quantum state of a system.
+In quantum mechanics, a differential equation that determines the temporal change of wave functions signifying matter waves.
+
 It can be shown formally that evolution of the wave function is given in the equation by the Hamiltonian operator, which corresponds to the total energy of the system.
 ~en~0~
 
@@ -3224,18 +3301,20 @@ In this sense, the wave function is referred to as the probability amplitude.
 ~en
 EPR
 ~en~0
-An abbreviation composed of the first letters
-of the names of three physicists:
-Einstein=E,
-Podolsky=P,
-Rosen=R.
-These three presented the "%TS067EPR Paper%TE" to argue against the concept of the "%TS066Uncertainty Principle%TE" of quantum mechanics.
-This opposition was especially pronounced in the case of Einstein, summed up by his famous remark "God does not play dice."%N
+An abbreviation composed of the first letters of the names of three physicists:
+Einstein = E,
+Podolsky = P,
+Rosen = R.
+
+These three presented the “%TS067EPR Paper%TE” to argue against the concept of the “%TS066Uncertainty Principle%TE” of quantum mechanics.
 ~en~0~
 ~en~1
-Although fully recognizing its usefulness, he was known to be uncomfortable with and to oppose quantum mechanics until his death because of its inability to definitely describe the microscopic aspects of physical reality.
-Einstein conducted many thought experiments that criticized quantum mechanics and troubled his opponent Niels Bohr (one of the founders of quantum mechanics).
+This opposition was especially pronounced in the case of Einstein, summed up by his famous remark “God does not play dice.”
+Although fully recognizing its usefulness, he was known to be uncomfortable with and to oppose quantum mechanics until his death because of its inability to definitively describe the microscopic aspects of physical reality.
 ~en~1~
+~en~2
+Einstein conducted many thought experiments that criticized quantum mechanics and troubled his opponent Niels Bohr (one of the founders of quantum mechanics).
+~en~2~
 
 ~cn
 EPR
@@ -3280,9 +3359,10 @@ R：罗森
 ~en
 Uncertainty Principle
 ~en~0
-In quantum mechanics, the uncertainty principle states that, regarding a particle's position and momentum, energy and time, and other pairs of physical properties, one cannot accurately measure and determine both pairs simultaneously.
-The uncertainty relationship, which states that "the product of the uncertainty of the two values cannot be smaller than a fixed proportion of Planck's constant" holds true.
-It was derived by Werner Heisenberg in 1927.
+In regards to quantum mechanics, it refers to the impossibility of determining accurately and simultaneously both a particle's position and momentum, energy and time, or other coupled physical quantities.
+It holds with the uncertain relationships that the product of the two values of these uncertainties cannot be smaller than a fixed value proportional to Planck's Constant.
+
+Deduced by Heisenberg in 1927.
 ~en~0~
 
 ~cn
@@ -3348,22 +3428,27 @@ It was derived by Werner Heisenberg in 1927.
 ~en
 EPR Paper
 ~en~0
-A paper published by Albert Einstein, Boris Podolsky, and Nathan Rosen.
-Also known as the EPR Paradox.
-It presents a thought experiment that is extremely critical of quantum mechanics, and was originally published by Einstein and his coauthors as an attack on it. Ironically, it ended up having the opposite effect, and became the best material for deepening one's understanding of the field.%N
+A paper published by Einstein, Podolsky, and Rosen. Also known as the EPR Paradox.
+
+It presents a thought experiment that is extremely critical of quantum mechanics, and was originally published by Einstein and his coauthors as an attack on it. Ironically, it ended up having the opposite effect, and became the best material for deepening one's understanding of the field.
 ~en~0~
 ~en~1
 The details of the experiment are as follows:
-According to quantum theory, when two particles are created at some location by the same event, they share a certain kind of state. For example, a stationary π-meson decays into two photons traveling in opposite directions, but both members of the photon pair are represented with a single Schrödinger equation.
-Quantum theory states that as long as they aren't observed, the particles can be expressed by the same equation forever.
+
+According to quantum theory, when two particles are created at some location by the same event, they share a certain kind of state.
+
+For example, a stationary π-meson decays into two photons in opposite directions, but both members of the photon pair are represented with a single Schrödinger equation.
 ~en~1~
 ~en~2
-So even if one of them flies a long distance away, if you observe some information about it——such as spin or polarization——then you should know the state of the particle that remained behind. But at the moment that you observe one particle, the wave function of the other particle collapses accordingly, appearing as if the measured information had been instantly transmitted from one to the other.%N
+Quantum theory states that as long as they aren't observed, the particles can be expressed by the same equation forever. So even if one of them flies a long distance away, if you observe some information about it—such as spin or polarization—then you should know the state of the particle that remained behind.
 ~en~2~
 ~en~3
+But at the moment that you observe one particle, the wave function of the other particle collapses accordingly, appearing as if the measured information has been instantly transmitted from one to the other.
+~en~3~
+~en~4
 The EPR paper argues that this is a violation of causality.
 However, modern quantum mechanics has successfully come up with a proper explanation, and experimental results that support it have been published one after another.
-~en~3~
+~en~4~
 
 ~cn
 EPR悖论
@@ -3432,10 +3517,12 @@ EPR悖论
 Particle Pair Generation
 ~en~0
 As an example of an established method, the following procedure exists.
-When the UV laser beam interacts with a crystal of non-linear optical material such as barium borate, each single photon splits into two other photons with long wavelengths. These split photons travel along the contours of two cones that, in turn, are symmetric about the initial beam.%N
+
+When a UV laser beam interacts with a crystal of non-linear optical material such as barium borate, each single photon splits into two other photons with long wavelengths. These split photons travel along the contours of two cones that, in turn, are symmetric about the initial beam.
 ~en~0~
 ~en~1
 The points where the contours of the two cones intersect have photons in the state of %TS070entanglement%TE, i.e. there is no distinction as to their origins there. What is known about these entangled photons is that their polarization is mutually orthogonal, however it is impossible to definitely know their respective deflection angles.
+
 This method of creating entangled photons is called parametric down-conversion.
 ~en~1~
 
@@ -3484,7 +3571,8 @@ This method of creating entangled photons is called parametric down-conversion.
 Alice and Bob
 ~en~0
 In cryptography, the one conveying the information is commonly referred to as Alice, while the recipient is referred to as Bob.
-This naming convention was first used in a 1978 article presenting the RSA cryptosystem.%N
+
+This naming convention originated from a paper on quantum teleportation published in 1993.
 ~en~0~
 ~en~1
 Additionally, a person found to be intercepting communications (i.e. through a bug or wiretap) between Alice and Bob is customarily referred to as Eve.
@@ -3527,7 +3615,8 @@ Alice
 ~en
 Entanglement
 ~en~0
-A form of quantum superposition.
+A state of quantum superposition.
+
 Refers to a situation in which a system of several %TS071quantum bits%TE, in accordance with the laws of quantum mechanics, forms an inseparable state and behaves as if it were a single entity.
 ~en~0~
 
@@ -3566,11 +3655,12 @@ Refers to a situation in which a system of several %TS071quantum bits%TE, in acc
 ~en
 Quantum Bit
 ~en~0
-Refers to a new unit of information content, different from the classical bit (information represented by a binary digit, 0, off, or 1, on) used in modern computers (von Neumann machines).
-A physical state in which "0" and "1" overlap (a quantum superposition) is treated as an operational unit.%N
+Refers to a new unit of information content, different from the classical bit (information represented by a binary digit, 0, off, or 1, on) used in modern computers (von Neumann machines) that have become mainstream by the time of 2003.
+
+A physical state in which “0” and “1” overlap (a quantum superposition) is treated as an operational unit.
 ~en~0~
 ~en~1
-Also known as a qubit. Computers that use them are called %TS072quantum computers%TE, and are capable of carrying out very fast calculations (massively parallel computation).
+Also known as a qubit. Computers that use them are called %TS072quantum computers%TE, and they are capable of carrying out extremely fast calculations (massively parallel computation).
 ~en~1~
 
 ~cn
@@ -3613,7 +3703,7 @@ Quantum Computer
 ~en~0
 A computer which creates a superposition of two states as a single element and performs calculations using both states.
 (A von Neumann computer can only perform a single calculation per element.)
-Because of this, if there are ten elements, the number of calculations it can perform simultaneously rises to 2^10 (1024). As more elements are added, the computational power grows dramatically. The speed this computer boasts of can truly be called wondrous.
+Because of this, if there are ten elements, the number of calculations it can perform simultaneously rises to 2^10 (1024). As more elements are added, the computational power grows dramatically. The speed a computer like this boasts of can truly be called wondrous.
 ~en~0~
 
 ~cn
@@ -3653,7 +3743,8 @@ Because of this, if there are ten elements, the number of calculations it can pe
 ~en
 Bell Measurement
 ~en~0
-A method of placing an isolated pair of particles in an entangled state, and then observing both of them at the same time in a way that doesn't permit them to be distinguished from each other (in order to maintain the entanglement).
+A method of placing an isolated pair of particles in an entangled state and then observing both of them at the same time in a way that doesn't permit them to be distinguished from each other (in order to maintain the entanglement).
+
 Since the particles must be passed through a beam splitter (such as a half-silvered mirror) at exactly the same time, this is extremely difficult in practice.
 ~en~0~
 
@@ -3690,6 +3781,7 @@ Since the particles must be passed through a beam splitter (such as a half-silve
 Unitary Transformation
 ~en~0
 In a unitary space, a linear transformation which preserves the value of the Hermitian inner product of two arbitrary vectors before and after the transformation.
+
 Suppose we denote the adjoint of an n-by-n matrix M as M*.
 Then M is unitary if it is a complex-valued square matrix fulfilling the equation M*M = MM* = E, where E is the identity matrix of order n.
 ~en~0~
@@ -3761,32 +3853,35 @@ Then M is unitary if it is a complex-valued square matrix fulfilling the equatio
 ~jp~4~
 
 ~en
-Business Enterprise
+Corporation
 ~en~0
 A joint Japanese-German pharmaceutical company.
-Its head office is in Frankfurt and the majority of its staff are German.
+Its head office is in Frankfurt, and the majority of its staff are German.
 An internationally renowned drug manufacturer, its capital is generated worldwide, and it has very strong ties with the governments of several countries.
-The company's area of expertise isn't limited to the pharmaceutical sector, but includes a wide range of business endeavors, such as the management
-of recreational facilities and so on.%N
+The company's area of expertise isn't limited to the pharmaceutical sector, but includes a wide range of business endeavors, such as the management of recreational facilities and so on.
 ~en~0~
 ~en~1
-An example of this would be an ocean theme park called LeMU which the company manages (strictly speaking, they provide funding to "LeMU Ltd.," the park management organization).
-Additionally, regarding their microorganism research, it is said that the company owns one of the top research facilities in the field. However, this business enterprise has a hidden agenda.
-They are, in fact, developing biological weapons for military purposes.%N
+An example of this would be an ocean theme park called LeMU which the company manages (strictly speaking, they provide funding to “LeMU Ltd.”, the park management organization).
+
+Additionally, regarding their bacterial research, it is said that the company owns one or two of the leading facilities in the field.
+
+However, this business enterprise has a hidden agenda.
 ~en~1~
 ~en~2
+They are, in fact, developing biological weapons for military purposes.
 It seems that the company is amassing huge amounts of capital from several countries for the purpose of developing highly lethal viruses and their respective cures.
-It might seem as though this microorganism research is the extent of the company's hidden dark side, but in fact, as suggested by its public face as a company specializing in the field of pharmaceuticals, much of their medical research is conducted using inhumane practices.%N
+Now, it may seem they only have a dark side in bacterial research, but as the structure of their pharmaceutical company would demonstrate, their medical research is conducted with inhumane practices.
 ~en~2~
 ~en~3
-Among their activities are using human test subjects without any regard to basic civil rights; the research, development, synthesis, and refinement of illegal drugs; expanding profit by trafficking their drugs on the black market....
-Furthermore, according to certain sources, the company has recently ventured into the area of long-range missile development as a result of its ties with a certain heavy chemical enterprise.%N
+Among their activities are using human test subjects without any regard to basic civil rights; the research, development, synthesis, and refinement of illegal drugs; expanding profit by trafficking their drugs on the black market...
+Furthermore, according to certain information, the company has recently ventured into the area of long-range missile development as a result of its ties with a certain heavy chemical company. One could argue that all of their devotion to
 ~en~3~
 ~en~4
-In fact, their deep involvement with information engineering and quantumphysics-related research projects would perhaps best be explained asan investment for the sole purpose of subsequent adoptionof technologies developed thereof into military use.
-In short,it would take ages to even try and enumerate all of their wrongdoings.
-A pharmaceutical company with a reputation this bad——
-and yet, this is merely a glimpse of all the darkness the world possesses.
+research and development of information engineering and quantum physics is an investment toward military use.
+
+In short, it would take ages to even try and enumerate all of their wrongdoings.
+
+A pharmaceutical company with a reputation this bad—and yet, this is merely a glimpse of all the darkness the world possesses.
 ~en~4~
 
 ~cn
@@ -3856,7 +3951,7 @@ Switchblade
 ~en~0
 A switch-deployed knife.
 Their use is highly restricted by law in Japan; none are produced or sold within the country.
-Also called a switch knife or jacknife.
+Also called a jackknife.
 ~en~0~
 
 ~cn
@@ -3887,9 +3982,11 @@ Also called a switch knife or jacknife.
 ~en
 Approximately 100 Hours
 ~en~0
-The portion analyzed is the record beginning at "the moment of my fall from the clock tower on the 11th: past 4:00 PM" and ending at "the moment of the final transfer on the 15th: 10:53 PM."
-The exact aggregate duration turns out to be "a little less than 103 hours."
-Even if examined further, any other data has been deemed insignificant and omitted.
+The video analyzed runs from the time of my fall from the clock tower on the 11th, a bit past 4 PM, to the time of the final transfer on the 15th, at 10:53 PM.
+
+The exact total duration would be a little less than 103 hours.
+
+I've concluded that there wouldn't be much point in examining data other than that, so I've excluded it.
 ~en~0~
 
 ~cn
@@ -3918,7 +4015,7 @@ Even if examined further, any other data has been deemed insignificant and omitt
 ~en
 Time
 ~en~0
-The date and time were indicated by a timestamp in the corner of the videos.
+The date and time are indicated by a timestamp in the corner of the videos.
 ~en~0~
 
 ~cn
@@ -3949,8 +4046,10 @@ The date and time were indicated by a timestamp in the corner of the videos.
 Location
 ~en~0
 Cameras are set up everywhere in SPHIA, so there are as many recorded data files as there are cameras.
-However, there was neither any need to check all of them nor the time to do so.
-Basically, I just excluded all the files I don't appear in from the list of objects to be analyzed.
+
+However, there is neither any need to check all of them nor the time to do so.
+
+Basically, I've just excluded all the files I don't appear in from the list of objects to be analyzed.
 ~en~0~
 
 ~cn
@@ -3982,8 +4081,10 @@ SPHIA的每个地方都设有摄影机，
 ~en
 --:-- PM
 ~en~0
-"--:-- PM" indicates that it was impossible for me to check what the time was.
+“--:-- PM” indicates that it was impossible for me to check what the time was.
+
 This was when I saw the shadow holding a knife when the lights went out.
+
 I had no time to look at my watch.
 ~en~0~
 
@@ -4037,23 +4138,25 @@ I had no time to look at my watch.
 ~en
 Equilibrium Position
 ~en~0
-In fact, the positions on the Earth's surface such that each of them, when coupled with the two known transfer points, forms the figure which has all of the distances between its vertices in equilibrium, seem to be six.
-As for where do these positions lie exactly, it is as follows....
-First, let's designate the surface distance between "point: Aosagi Island" and "point: Mount Akakura" as ｒ.%N
+In fact, there appear to be six positions on Earth where the respective distances between the three points are kept in close balance.
+As for where these positions lie exactly, it is as follows...
+
+First, let's designate the surface distance between “point: Aosagi Island” and “point: Mount Akakura” as ｒ.
+Next, draw two circles of a radius ｒ, centered on
+“point: Aosagi Island” and “point: Mount Akakura” respectively.
 ~en~0~
 ~en~1
-Next, draw two circles of a radius ｒ, centered on "point: Aosagi Island" and "point: Mount Akakura" respectively.
 Let's designate the intersection points of these two circles as ｐ１ and ｐ２.
-Draw a line passing through ｐ１ and ｐ２.
-Also, draw another line passing through "point: Aosagi Island" and "point: Mount Akakura."
-"Lines" here should be understood in the sense of lying atop a curved surface, and thus forming two more circles around the Earth when fully drawn.%N
+Draw a straight line passing through ｐ１ and ｐ２.
+Also, draw another line passing through
+“point: Aosagi Island” and “point: Mount Akakura”.
+“Lines” here should be understood in the sense of lying atop a curved surface, and thus forming two more circles around the Earth when fully drawn.
+With this, we now have two small circles and two large ones.
 ~en~1~
 ~en~2
-With this, we now have two small circles and two big ones.
-Now,
-there should be a total of eight points of intersections between all circles——
-Since two of them are "point: Aosagi Island" and "point: Mount Akakura" we exclude these.
-Which leaves us with six points——
+Now, there should be a total of eight points of intersections between all circles—
+Since two of them are “point: Aosagi Island” and “point: Mount Akakura”, we exclude these. Which leaves us with six points—
+
 If any of these six represents the actual third area, that would mean that the three transfer points are located in equilibrium positions.
 ~en~2~
 
@@ -4221,60 +4324,70 @@ If any of these six represents the actual third area, that would mean that the t
 ~en
 Many-Worlds Interpretation
 ~en~0
-In science fiction literature and the like, authors sometimes include settings called "parallel worlds."  A common setup is for the protagonist to see worlds that are very similar to the one we live in, but are different in subtle ways. Every time the protagonist makes a choice in life, several worlds diverge from that point based on the number of alternatives.%N
+In science fiction literature and the like, authors sometimes include settings called “parallel worlds”.
+A common setup is for the protagonist to see worlds that are very similar to the one we live in, but are different in subtle ways. Every time the protagonist makes a choice in life, several worlds diverge from that point based on the number of alternatives.
 ~en~0~
 ~en~1
 It turns out that a similar way of thinking also exists in physics.
-This is the so-called "many-worlds interpretation," proposed by a scholar named Hugh Everett. It elaborates on the quantum mechanical way of thinking, and is competitive with the current mainstream interpretation of quantum mechanics.%N
+
+This is the so-called “Many-Worlds Interpretation”, proposed by a scholar named Everett. It elaborates on the quantum mechanical way of thinking and is competitive with the current mainstream interpretation of quantum mechanics.
 ~en~1~
 ~en~2
-In quantum mechanics, both matter and energy are seen as a certain kind of "wave."
-To avoid confusion, the word "wave" here refers strictly to waves in the world of quantum mechanics, rather than the concept of waves in classical theory which are transmitted and spread outward in all directions.
-Quantum mechanical waves are basically "waves of probability."%N
+In quantum mechanics, both matter and energy are seen as a certain kind of “wave”.
+
+To avoid confusion, the word “wave” here refers strictly to waves in the world of quantum mechanics, rather than the concept of waves in classical theory which are transmitted and spread outward in all directions.
+
+Quantum mechanical waves are basically “waves of probability”.
 ~en~2~
 ~en~3
-When dealing with the world on a microscopic scale, there is a restriction that prevents an object's position and momentum from both being known simultaneously (the uncertainty principle), meaning that you can only say the object exists in a particular place with some probability. Because of this, quantum mechanics considers the existence of the object from a probabilistic perspective. The mathematical tool used to describe this phenomenon is called a "wave function."%N
+When dealing with the world on a microscopic scale, there is a restriction that prevents an object's position and momentum from both being known simultaneously (the uncertainty principle), meaning that you can only say the object exists in a particular place with some probability.
+Because of this, quantum mechanics considers the existence of the object from a probabilistic perspective. The mathematical tool used to describe this phenomenon is called a “wave function”.
 ~en~3~
 ~en~4
 Before looking at the many-worlds interpretation, we'll try thinking about how standard quantum mechanics currently explains the world.
-For example, consider a single electron. Before you perform the act of observing that it exists in a particular location, its existence is spread out in a probabilistic way due to uncertainty.%N
+For example, consider a single electron. Before you perform the act of observing that it exists in a particular location, its existence is spread out in a probabilistic way due to uncertainty.
+Until it is actually observed, its existence is described by assigning a probability to all of the places where it could possibly exist.
 ~en~4~
 ~en~5
-Until you actually look at it, its existence is described by assigning a probability to all of the places where it could possibly exist.
-In this state, we call it an "electron cloud."
+In this state, we call it an “electron cloud”.
 
 Now, suppose you were to use some method to observe the electron.
-At that moment, assuming that the electron's position was determined,the previously spread-out cloud would immediately gather at that singleobserved point (likewise for momentum).%N
+
+At that moment, assuming that the electron's position was determined, the previously spread-out cloud would immediately gather at that single observed point (likewise for momentum).
 ~en~5~
 ~en~6
-This is called a "wave function collapse"; it basically means that the act of observing the electron, which was previously viewed as a probability distribution, renders its fixed existence as a real phenomenon.
-This explanation is known as the "Copenhagen interpretation," and is considered mainstream in modern quantum mechanics.%N
+This is called a “wave function collapse”; it basically means that the act of observing the electron, which was previously viewed as a probability distribution, renders its fixed existence as a real phenomenon.
+This explanation is known as the “Copenhagen interpretation” and is considered mainstream in modern quantum mechanics.
+
+Now then, what about the rivaling Many-Worlds Interpretation?
 ~en~6~
 ~en~7
-Now then, what about the rivaling many-worlds interpretation?
 It agrees with the Copenhagen interpretation on the treatment of the electron's existence as a probability distribution.
-The question is, what happens after the moment the electron is observed? Under the many-worlds interpretation, the probability distribution is considered to be maintained regardless of whether the electron is observed or not.  But what does that mean?%N
+
+The question is, what happens after the moment the electron is observed? Under the Many-Worlds Interpretation, the probability distribution is considered to be maintained regardless of whether the electron is observed or not. But what does that mean?
 ~en~7~
 ~en~8
-For example,
-when an observer confirms that the electron is in a particular position, the other possibilities don't just disappear. Instead, they actually persist in other worlds the observer can't perceive. It's not such a ridiculous idea. Isn't it because we can't perceive them in our world that we say "they don't exist"?%N
+For example, when an observer confirms that the electron is in a particular position, the other possibilities don't just disappear.
+Instead, they actually persist in other worlds the observer can't perceive. It's not such a ridiculous idea. Isn't it because we can't perceive them in our world that we say “they don't exist”?
 ~en~8~
 ~en~9
-Certainly, if an observer observes that a possibility doesn't exist, then it doesn't exist in his world. However, "it does exist" in the worlds of observers other than that one.
+Certainly, if an observer observes that a possibility doesn't exist, then it doesn't exist in his world. However, it does exist in the worlds of observers other than that one.
 
-In other words, under the many-worlds interpretation, even the observers are explained probabilistically (the wave function does not only consist of the target of observation, but also the observer's entire space-time).%N
+In other words, under the Many-Worlds Interpretation, even the observers are explained probabilistically (the wave function does not only consist of the target of observation, but also the observer's entire space-time).
 ~en~9~
 ~en~10
-That means that every possibility, which has a non-zero probability, exists at the same time.
-Every possible world advances simultaneously, which can be interpreted as truly "many worlds."
+That means that every possibility which has a non-zero probability exists at the same time.
+
+Every possible world advances simultaneously, which can be interpreted as truly “many-worlds”.
 
 If you think about it, the main point is this:
-observers and observed things are made from the same substance to begin with. There's no reason whatsoever for an interpretation to distinguish between the two.%N
+observers and observed things are made from the same substance to begin with. There's no reason whatsoever for an interpretation to distinguish between the two.
 ~en~10~
 ~en~11
-Someone who dislikes the idea of a person receiving special treatment might find the many-worlds interpretation easy to warm up to.
+Someone who dislikes the idea of a person receiving special treatment might find the Many-Worlds Interpretation easy to warm up to.
 It gives the impression that it was originally created for the purpose of explaining why waves should suddenly collapse at the moment of observation.
-In that sense, perhaps we can say it has advanced a step beyond the present-day standard quantum mechanics as a theory.
+
+In that sense, perhaps we can say it has advanced a step beyond current standard quantum mechanics as a theory.
 ~en~11~
 
 ~cn
@@ -4438,31 +4551,33 @@ In that sense, perhaps we can say it has advanced a step beyond the present-day 
 ~en
 That Guy
 ~en~0
-For this person, there is no past.
-For this person, there is no future.
-To be more accurate, the concept of time does not exist for this person.
-For this person, the past, the present, and the future are all condensed into a single point.
-Point.
-Emptiness.
-0th dimension.%N
+For that person, there is no past.
+For that person, there is no future.
+To be more accurate, the concept of time does not exist for that person.
+For that person, the past, the present, and the future are all condensed into a single point.
 ~en~0~
 ~en~1
+Point.
+Emptiness.
+0th dimension.
 Three concepts that overlap.
-This person exists in a place devoid of everything.
-That absolute will is the only thing there.
-An absolute will.
-According to them.%N
 ~en~1~
 ~en~2
-If we were to come up with an example, this person would be %TS084David%TE.
-Without a doubt, this person was a "king" who entirely ruled them.
-And....
-To "him," a hateful enemy.
-"Him"——if we were to come up with an example, would be %TS086Saul%TE.
-11 years before 2012——
-That's where it all began.%N
+In a place without anything exists that person.
+An absolute will is the only thing there.
+An absolute will.
+To them.
+
+To give an example, %TS084David%TE.
+Without a doubt, that person was a “king” who entirely ruled them.
 ~en~2~
 ~en~3
+And...
+To “him”, a hateful enemy.
+“Him”—to give an example, %TS086Saul%TE.
+Eleven years before 2012—
+That's where it all began.
+
 But Satoru...
 You...
 know not of this.
@@ -4540,18 +4655,20 @@ know not of this.
 ~en
 David
 ~en~0
-Means "beloved" in Hebrew.
-The Biblical David from whom this name is derived was the second king of ancient Israel who established Jerusalem as its capital, united Israel and built Israel's era of prosperity.%N
+Means “beloved” in Hebrew.
+
+The Biblical David from whom this name is derived was the second king of ancient Israel who established Jerusalem as its capital, united Israel, and built Israel's era of prosperity.
 ~en~0~
 ~en~1
-King David excelled in battle tactics, and the mystics who felt that sorcery was behind those tremendous abilities thought that the battle flag of David was undoubtedly a "demon-summoning charm."
-The symbol David used as an emblem is known as "the Star of David."
-It is also believed to be a crest that protects Israel from danger; the symbol can be found in the Israeli national flag.%N
+King David excelled in battle tactics, and the mystics who felt that sorcery was behind those tremendous abilities thought that the battle flag of David was undoubtedly a “demon-summoning charm”.
+
+The symbol David used as an emblem is known as “the Star of David”.
+In Israel, it is also believed to be a crest that protects oneself from danger; the symbol can be found in the Israeli national flag.
 ~en~1~
 ~en~2
-In Japan, the Star of David, called the "rokubousei" (六芒星), or hexagram, is known as the crest of the Ise Grand Shrine.
-The symbol that holds the opposite meaning to the Star of David is the "gobousei" (五芒星), or pentagram, also called "the Star of Solomon."
-The magical power of the Star of %TS085Solomon%TE seals the inner demons inside the infinity loop.
+In Japan, the Star of David, called the “rokubousei” (六芒星), or hexagram, is known as the crest of the Ise Grand Shrine.
+
+The symbol that holds the opposite meaning to the Star of David is the “gobousei” (五芒星), or pentagram, also called “the Star of Solomon”. The magical power of the Star of %TS085Solomon%TE seals the demons loosed at him inside the infinite loop.
 ~en~2~
 
 ~cn
@@ -4610,12 +4727,14 @@ The magical power of the Star of %TS085Solomon%TE seals the inner demons inside 
 ~en
 Solomon
 ~en~0
-Means "peace" or "tranquility" in Hebrew.
+Means “peace” or “tranquility” in Hebrew.
+
 The Biblical Solomon from whom this name is derived was the third king of ancient Israel.
-Solomon excelled because of his faith and obedience to God, and possessed great wisdom and intelligence with which he led Israel into a Golden Age.%N
+Solomon excelled because of his faith and obedience to God, and possessed great wisdom and intelligence with which he led Israel into a Golden Age.
 ~en~0~
 ~en~1
 However, in King Solomon's later years, he placed heavy taxation upon his people in order to construct a golden temple for the Lord, a task that his father David was unable to accomplish.
+
 As a result, soon after his death, Israel split into two northern and southern kingdoms.
 ~en~1~
 
@@ -4668,14 +4787,17 @@ As a result, soon after his death, Israel split into two northern and southern k
 ~en
 Saul
 ~en~0
-Means "he who is wished for" in Hebrew.
+Means “he who is wished for” in Hebrew.
+
 The Biblical Saul from whom this name is derived was the first king of ancient Israel.
 He was truly the king whom the people had wished for, and he lived up to their expectations.
-Certainly, as a king and as a warrior, he might never have known defeat.%N
+Certainly, as a king and as a warrior, he might never have known defeat.
 ~en~0~
 ~en~1
 However, he failed in his God-given mission to become an instrument of the Lord.
-Though anointed by God to become "an instrument of the Lord," as the king of God's people, he did not. The reason is that Saul disobeyed the will of God....
+
+Though anointed by God to become “an instrument of the Lord”, as the king of God's people, he did not. The reason is that Saul disobeyed the will of God...
+
 Saul was forsaken by God, and met a tragic end.
 ~en~1~
 
@@ -4728,18 +4850,22 @@ Saul was forsaken by God, and met a tragic end.
 ~en
 The Final Level
 ~en~0
-It is the level to which the plan "they" devised will move as it transitions into its final stage.
-The final movethat will lead to the truth "they" have wished for.
-The final measure necessaryfor "them" to meet "That Guy."
-When it is executed——
-The world will undergo a great transfiguration.%N
+It is the level to which the plan “they” devised will move as it transitions into its final stage.
+
+The final move that will lead to the truth “they” have sought.
+The final measure necessary for “them” to meet “That Guy”.
+
+When it is executed—
+The world will undergo a great transfiguration.
 ~en~0~
 ~en~1
-When it is executed——
-The transient world—— "Imaginary" is lost...
-The bridge of the world—— "Symbolic" is crossed...
-The true world—— "Real" will reveal its shape.
-Together with the awakening of the "Third Eye"————
+When it is executed—
+
+The transient world—“Imaginary” is lost...
+The bridge of the world—“Symbolic” is crossed...
+The true world—“Real” will reveal its shape.
+
+Together with the opening of the “Third Eye”——
 ~en~1~
 
 ~cn
@@ -4793,21 +4919,23 @@ Together with the awakening of the "Third Eye"————
 Infinity
 ~en~0
 1. Limitless, endless.
-Something that is without limit. Something that continues endlessly.
-And so on.%N
+
+Something that is without limit.
+Something that continues endlessly. And so on.
 ~en~0~
 ~en~1
-2. Infinity Series%N
+2. Infinity Series
+
+2000.03.23　%X107infinity
+2000.11.23　%X107infinity 〜Cure〜
+2000.12.21　%X107Never7 -the end of infinity-
+2002.08.29 %X107Ever17 -the out of infinity-
+2004.03.18　%X107Remember11 -the age of infinity-
+
+...and
 ~en~1~
 ~en~2
-2000．3．23　infinity
-2000．11．23　infinity 〜Cure〜
-2000．12．21　Never7 -the end of infinity-
-2002．8．29　Ever17 -the out of infinity-
-2004．3．18　　Remember11 -the age of infinity-
-... and
-
-the "infinity" series will go on forever.%N
+the “infinity” series will go on forever.
 ~en~2~
 
 ~cn
@@ -4851,13 +4979,12 @@ the "infinity" series will go on forever.%N
 ~jp~0~
 
 ~en
-Chance Meeting
+Chance Encounter
 ~en~0
-"Chance meeting" means to meet somebody unexpectedly.
+“Chance encounter” means to meet somebody unexpectedly.
 In relation to that, what Utsumi might have thought at that time is likely to be something unimaginable.
-After all, it's not a usual sight to see your husband who has been dead for a year suddenly appearing in front of you.
-Not to mention it happened here in this hellish world of snow....
-At least, Utsumi hasn't yet considered the idea that this place is some kind of heaven.
+After all, it's not a usual sight to see your husband who has been dead for a year suddenly appearing in front of you. Not to mention it happened here in this hellish world of snow...
+At least, at the time, I wouldn't have considered it to be heaven.
 ~en~0~
 
 ~cn
@@ -5023,104 +5150,118 @@ At least, Utsumi hasn't yet considered the idea that this place is some kind of 
 Alarm Clock
 ~en~0
 Let's reflect a bit on the consequences of the alarm clock being wrong.
-Why is it that just because it was 33 minutes fast, Kokoro and I have assumed that our minds were exchanging simultaneously?
-The reason is as follows....%N
+
+Why is it that just because it was 33 minutes fast, Kokoro and I assumed that our minds were exchanging simultaneously?
+
+The reason is as follows...
 ~en~0~
 ~en~1
-First, for example let's suppose that the transfer occurs at 1:00.
-—— 1:00
+First, for example, let's suppose that a transfer occurs at 1:00.
+——1:00
 Kokoro's mind comes to SPHIA.
 There, she looks at the incorrect alarm clock.
-She mistakes the mistaken time it shows, which is "1:33," for the actual time of the transfer.
-Then, 66 minutes later, after two more transfers have occurred....%N
+She mistakes the incorrect time it shows, which is “1:33”, for the actual time of the transfer.
+
+Then, 66 minutes later, after two more transfers have occurred...
 ~en~1~
 ~en~2
-—— 2:06
+——2:06
 Kokoro's mind returns to the shelter cabin.
 There, she looks at her wristwatch.
-She sees the correct time of the transfer, which is "2:06."
-Seeing as she had transferred to SPHIA at 1:33 and returned to the shelter cabin at 2:06, she thinks that she spent 33 minutes at SPHIA.%N
+She sees the correct time of the transfer, which is “2:06”.
+
+Seeing as she had transferred to SPHIA at 1:33 and returned to the shelter cabin at 2:06, she thinks that she spent 33 minutes at SPHIA.
 ~en~2~
 ~en~3
 Indeed, there is no mistake in that the time of her stay at SPHIA was 33 minutes.
-However, from 1:33 until 2:06, her mind was actually in the third area. It is from this perspective that we could say that she is mistaken about the time of the transfer.
-Well then (since the times of her transfers from the shelter cabin are random), let's assume that one more hour has passed.%N
+
+However, from 1:33 until 2:06, her mind was actually in the third area. It is from this perspective that we could say that she was mistaken about the time of the transfer.
+
+Well then (since the times of her transfers from the shelter cabin are random), let's assume that one more hour has passed.
 ~en~3~
 ~en~4
-—— 3:06
-Kokoro's mind is at SPHIA....
+——3:06
+Kokoro's mind comes to SPHIA...
 She looks at the alarm clock.
-She mistakes the incorrect time it shows, "3:39," for the actual time of the transfer.
-What's important here is the fact that each and every time, "she cannot confirm what the time was directly before the transfer."%N
+She mistakes the incorrect time it shows, “3:39”, for the actual time of the transfer.
+
+What's important here is the fact that each and every time, she cannot confirm what the time was directly before the transfer.
 ~en~4~
 ~en~5
-That's why, here, each time she is led to think that the time of her stay at the shelter cabin is an hour and 33 minutes——regardless of the fact that, in reality, no longer than a hour actually passes.
-Then this process repeats....
-At "4:12," she'll return to the shelter cabin, check the correct time against her wristwatch, and assume that she was at SPHIA for 33 minutes.%N
+That's why, here, she is led to think that the time of her stay at the shelter cabin is an hour and 33 minutes—regardless of the fact that, in reality, no longer than an hour actually passes.
+
+Then this process repeats...
+
+At “4:12”, she'll return to the shelter cabin, check the correct time against her wristwatch, and assume that she was at SPHIA for 33 minutes.
 ~en~5~
 ~en~6
 So then, what happens in my case?
-—— 1:00
-My mind goes to the third area....
-At that time, my sensory organs don't function normally, so I'm not even aware that a transfer took place.
-Then, 33 minutes later....%N
+
+——1:00
+My mind goes to the third area...
+At that time, my sensory organs don't function normally,
+so I'm not even aware that a transfer took place.
+
+Then, 33 minutes later...
 ~en~6~
 ~en~7
-—— 1:33
-My mind goes to the shelter cabin....
+——1:33
+My mind goes to the shelter cabin...
 I check Kokoro's wristwatch and see the correct time.
-I can see that the time of the transfer was "1:33."
-33 more minutes pass....%N
+I can see that the time of the transfer was “1:33”.
+33 more minutes pass...
 ~en~7~
 ~en~8
-—— 2:06
+——2:06
 My mind returns to SPHIA.
 There, I look at my wristwatch.
-I see the correct time of the transfer, "2:06."%N
+I see the correct time of the transfer, “2:06”.
 ~en~8~
 ~en~9
-Seeing as I have transferred to the shelter cabin at 1:33, and returned to SPHIA at 2:06, I think that the time I have spent at the shelter cabin is 33 minutes.
-In my case, it is true both that the time of my stay at the shelter cabin is 33 minutes, and that from 1:33 to 2:06, I was in the shelter cabin.
-Thus, I am always aware of the correct times of the transfers.%N
+Seeing as I have transferred to the shelter cabin at 1:33 and returned to SPHIA at 2:06, I think that the time I have spent at the shelter cabin is 33 minutes.
+
+In my case, it is true that the time of my stay at the shelter cabin is 33 minutes and that from 1:33 to 2:06, I was in the shelter cabin.
+
+Thus, I am always aware of the correct times of the transfers.
 ~en~9~
 ~en~10
-Well then, since the moment when I transfer from SPHIA is simultaneous with Kokoro's transfer from the shelter cabin, let's assume that one more hour has passed.%N
+Well then, since the moment when I transfer from SPHIA
+is simultaneous with Kokoro's transfer from the shelter cabin, let's assume that one more hour has passed.
 ~en~10~
 ~en~11
-—— 3:06
-My mind goes to the third area....
-My sensory organs don't function normally,
-so I'm not even aware that a transfer took place.
-Then, 33 minutes later....%N
+——3:06
+My mind goes to the third area...
+My sensory organs don't function normally, so I'm not even aware that a transfer took place.
+Then, 33 minutes later...
 ~en~11~
 ~en~12
-—— 3:39
-My mind goes to the shelter cabin....
+——3:39
+My mind goes to the shelter cabin...
 I check Kokoro's wristwatch and see the correct time.
-I can see that the time of the transfer was "3:39."
-What's important here is the fact that each and every time, "I cannot confirm what the time was directly before the transfer."%N
+I can see that the time of the transfer was “3:39”.
+
+What's important here is the fact that each and every time, I cannot confirm what the time was directly before the transfer.
 ~en~12~
 ~en~13
-That's why, here, each time I'm led to think that the time of my stay at SPHIA is an hour and 33 minutes——regardless of the fact that, in reality, no longer than a hour actually passes.
-Then this process repeats....
-At "4:12," I'll return to SPHIA, check the correct time on my wristwatch, and assume that I was at the shelter cabin for 33 minutes.%N
+That's why, here, I'm led to think that the time of my stay at SPHIA is an hour and 33 minutes—regardless of the fact that, in reality, no longer than an hour actually passes.
+
+Then this process repeats...
+
+At “4:12”, I'll return to SPHIA, check the correct time on my wristwatch, and assume that I was at the shelter cabin for 33 minutes.
 ~en~13~
 ~en~14
 Thus, the times of the transfers that Kokoro writes in the notepad would be as follows.
-
-"1:33: Transferred from the shelter cabin to SPHIA"
-"2:06: Transferred from SPHIA to the shelter cabin"
-"3:39: Transferred from the shelter cabin to SPHIA"
-"4:12: Transferred from SPHIA to the shelter cabin"%N
+“1:33: Transferred from the shelter cabin to SPHIA”
+“2:06: Transferred from SPHIA to the shelter cabin”
+“3:39: Transferred from the shelter cabin to SPHIA”
+“4:12: Transferred from SPHIA to the shelter cabin”
 ~en~14~
 ~en~15
-While the times of my own measurements would be as follows....
-
-"1:33: Transferred from SPHIA to the shelter cabin"
-"2:06: Transferred from the shelter cabin to SPHIA"
-"3:39: Transferred from SPHIA to the shelter cabin"
-"4:12: Transferred from the shelter cabin to SPHIA"
-
+While the times of my own measurements would be as follows...
+“1:33: Transferred from SPHIA to the shelter cabin”
+“2:06: Transferred from the shelter cabin to SPHIA”
+“3:39: Transferred from SPHIA to the shelter cabin”
+“4:12: Transferred from the shelter cabin to SPHIA”
 Therefore, since these possess the perfect symmetry of a mirror image, both I and Kokoro were led to believe that we were transferring simultaneously between two locations.
 ~en~15~
 
@@ -5333,34 +5474,37 @@ Therefore, since these possess the perfect symmetry of a mirror image, both I an
 Baby Colic
 ~en~0
 Here is one of the theories about baby colic.
-Why does "baby colic" occur in infants?
-"Baby colic" is a condition in which a baby becomes unsettled and irritable for no apparent reason, and cries frequently (e.g. at night). It is normally categorized as abnormal neuronal excitability resulting from dysautonomia in infants, but the exact reasons for its occurrence remain unclear.%N
+
+Why does “baby colic” occur in infants?
+
+“Baby colic” is a condition in which a baby becomes unsettled and irritable for no apparent reason, and cries frequently (e.g. at night). It is normally categorized as abnormal neuronal excitability resulting from dysautonomia in infants, but the exact reasons for its occurrence remain unclear.
 ~en~0~
 ~en~1
-One explanation suggested
-that the contrast between the clear, vivid consciousness of an infant and the inability to properly control its body results in an intense stress for the baby, which could cause it to become irritated and cry.
-That is why, from the point of view of an adult, it seems that they are just crying for no reason.%N
+One explanation suggests that the contrast between the clear, vivid consciousness of an infant and the inability to properly control its body results in an intense stress for the baby, which could cause it to become irritated and cry.
+
+That is why, from the point of view of an adult, it seems that they are just crying for no reason.
 ~en~1~
 ~en~2
-There are also medics who suppose that if a baby was given a body which would properly obey its will, it would turn into a cold-blooded killer.
+There are also medical professionals who suppose that if a baby was given a body which would properly obey its will, it would turn into a cold-blooded killer.
 They argue that since babies have not yet learned human morals, their instincts would cause them to go on a bloody rampage.
-Infants often exhibit cruelty.
-They can calmly kill other living beings with no reservation, thinking it nothing more than part of a game.%N
+
+Infants often exhibit cruelty. They can calmly kill other living beings with no reservation, thinking it nothing more than part of a game.
 ~en~2~
 ~en~3
-As a person grows up, when they reach the age of about three, they come to be able to think from the perspective of other people, and put themselves in their shoes; the ability to empathize is established.
-It is at that age that they learn for the first time that things which one doesn't like being done to them must never be done to others as well.
-Perhaps this is the reason why human infants are so underdeveloped in physical strength compared with other mammals.%N
+As a person grows up, when they reach the age of about three, they become to be able to think from the perspective of other people and put themselves in their shoes; the ability to empathize is established.
+It is at this age that they learn for the first time that things which one doesn't like being done to them must never be done to others as well.
+Perhaps this is the reason why human infants are so underdeveloped in physical strength compared with other mammals.
 ~en~3~
 ~en~4
-This represents a considerable obstacle in the newborn's path to survival, but in fact, it is actually not so far-fetched a thought that it is rather the lives of adults that would be in danger if it was the other way around.%N
+This represents a considerable obstacle in the newborn's path to survival, but in fact, it is actually not so far-fetched a thought that it is rather the lives of adults that would be in danger if it was the other way around.
 ~en~4~
 ~en~5
-It is not impossible to imagine that it is through realizing the need to protect each other from this inner cruelty, the nature of brutality unparalleled in any other life form, that humankind has come, over the course of evolution, to create the civilization in which we live, and to establish the education system as a means for spiritual growth.%N
+It is not impossible to imagine that, by realizing the need to protect each other from their unparalleled propensity for cruelty, humankind has evolved to create the civilization in which we live and establish culture as a means for spiritual growth.
 ~en~5~
 ~en~6
 Additionally, it makes sense to think that the fact that as-of-yet mentally undeveloped newborns are deprived of physical strength lies in accordance with the principle of natural selection.
-"Baby colic," being a representation of the instinctive desires, makes known the true nature of man.
+
+“Baby colic”, being a representation of instinctive desires, makes known the true nature of man.
 It is the scream of madness, and at the same time, the pathetic lamentation of having been given life in this world.
 ~en~6~
 
@@ -5480,39 +5624,50 @@ It is the scream of madness, and at the same time, the pathetic lamentation of h
 Fuyukawa Kokoro
 ~en~0
 Full Name: Fuyukawa Kokoro
-Sex: Female
+Gender: Female
 Age: 20
-Birthday: February 22nd, 1990
+Birthday: February 22nd, 1990 (Pisces)
 Blood Type: B
-Occupation: Third-year social sciences student in the humanities department at Kyumeikan Women's
-University (Major: anthropology).
+Occupation:
+    Third-year social sciences student in the humanities
+    department at Kyumeikan Women's University
+    (Major: anthropology).
 Intelligence: Average
-Physical Strength: Average
-Cooperativeness: High%N
 ~en~0~
 ~en~1
-Personality: The type that believes in her emotions. Honest with herself. Extroverted. Brimming with curiosity. Capricious.
-Interested in the liberal arts.
-Hobbies: Birdwatching, bonsai
-Likes: Believing that the end justifies the means,
-harmonious moods, fun things
-Dislikes: Silence, fighting or quarreling,
-troublesome things, cucumbers
-Dominant Hand: Left
-Beyond the Surface: Represents the "Anima
-(The Female Within the Male)" (→ Archetype)
-This is her status as of 2011.%N
+Physical Strength: Average
+Cooperativeness: High
+Personality:
+    The type that believes in her emotions. Honest with
+    herself. Extroverted. Brimming with curiosity.
+    Capricious. Interested in the liberal arts.
+Hobbies:
+    Birdwatching, bonsai
 ~en~1~
 ~en~2
-Fuyukawa Kokoro is the female protagonist.
-She was involved in a plane crash. She was fortunately saved and joined the other survivors of the incident, but they were stranded on a snowy mountain in the middle of nowhere.
-Together with the other survivors, she had no choice but to find a way to escape that isolated place.%N
+Likes:
+    Believing that the end justifies the means,
+    harmonious moods, fun things
+Dislikes:
+    Silence, fighting or quarreling, troublesome things,
+    cucumbers
+Surface:
+    Left-handed.
 ~en~2~
 ~en~3
-After the incident, Kokoro's mind and body experienced abnormalities.
-Sometimes, her mind and body separate, exchanging places with those of another person (Satoru) in a different location.
-Her mind and memory switch back and forth between the snowy mountain and SPHIA.
+Beyond the Surface:
+    Represents the “Anima (The Female Within the Male)”
+    (→ Archetype)
+    This is her status as of 2011.
+Fuyukawa Kokoro is the female protagonist.
+
+She is involved in a plane crash. She is fortunately saved and joins the other survivors of the incident, but they are stranded on a snowy mountain in the middle of nowhere.
 ~en~3~
+~en~4
+Together with the other survivors, she has no choice but to find a way to escape that isolated place.
+
+After the accident, Kokoro's mind and body experience abnormalities. Sometimes, her mind and body separate, exchanging places with those of another person (Satoru) in a different location. Her mind and memory switch back and forth between the snowy mountain and SPHIA.
+~en~4~
 
 ~cn
 冬川心
@@ -5627,44 +5782,65 @@ Her mind and memory switch back and forth between the snowy mountain and SPHIA.
 Yukidoh Satoru
 ~en~0
 Full Name: Yukidoh Satoru
-Sex: Male
+Gender: Male
 Age: 21
 Birthday: February 22nd, 1990 (Pisces)
 Blood Type: A
-Occupation: Kyumeikan University Graduate School, Department of Technological Engineering Second-year master's student (as a member of the quantum physics lab). Skipped ahead two grade levels. Employed in the Third Research Department of Leiblich Pharmaceuticals%N
+Occupation:
+    Kyumeikan University Graduate School, Department of
+    Technological Engineering, Second-year master's
+    student (as a member of the quantum physics lab).
 ~en~0~
 ~en~1
+    Skipped two grade levels. Employed in the Third
+    Research Department of Leiblich Pharmaceuticals.
 Intelligence: Very high
 Physical Strength: Average
 Cooperativeness: Fairly low
-Personality: The type that is willing to take action, but does so with caution. Tends toward a more rational way of thinking. Does not trust others right away. Interested in the sciences.%N
+Personality:
+    The type that is willing to take action, but does so
+    with caution. Tends toward a more rational way of
+    thinking. Does not trust others right away.
+    Interested in the sciences.
 ~en~1~
 ~en~2
-Hobbies: Reading (Genre does not matter. Such is his reading addiction that even a telephone book can be a fun read)
-Likes: Being as good as his word, finding "answers"
-Dislikes: Lies (keeps silent if he can't tell the truth), leaving things unfinished, breaking promises,pumpkins
-Surface: Right-handed.
-Originally a four-year university student, but has
-skipped two grades and is now in graduate studies.%N
+Hobbies:
+    Reading (Genre doesn't matter. His reading addiction
+    is such that even a phonebook can be a fun read)
+Likes:
+    Being as good as his word, finding “answers”
+Dislikes:
+    Lies (keeps silent if he can't tell the truth), leaving
+    things unfinished, breaking promises, pumpkins
 ~en~2~
 ~en~3
-Beyond the Surface: Represents the "Animus (The Male Within the Female)" (→ Archetype)
-Satoru and Mayuzumi were once going out. This is his status as of 2012.%N
+Surface:
+    Right-handed.
+    Originally a four-year university student, but has
+    skipped two grades and is now in graduate studies.
+Beyond the Surface:
+    Represents the “Animus (The Male Within the
+    Female)” (→ Archetype)
+    Satoru and Mayuzumi were once going out.
+    This is his status as of 2012.
 ~en~3~
 ~en~4
-The real Satoru has a unique set of values. Although he is kind and devoted to a few people around him,he is coldhearted with everyone else.
-Satoru does this to "cherish someone who is very important".
-Does something have to be lost in order to gain something in return?%N
+The real Satoru has a unique set of values. Although he is kind and devoted to a few people around him, he is coldhearted with everyone else.
+Satoru does this to “cherish someone who is very important”.
 ~en~4~
 ~en~5
+You have to lose something to gain something.
+
 Yukidoh Satoru is the male protagonist.
-One day, he fell from the roof of SPHIA and lost his memory.
-As his memories are in disorder, he cannot remember the details of this incident such as the reason for it or what was happening before the fall.
-When he awoke... for some reason, he found himself on a snowy mountain. On top of that, his own body had changed into that of an unknown woman.%N
+One day, he falls from the roof of SPHIA and loses consciousness. As his memories are in disorder, he cannot remember the details of this accident such as the reason for it or what was happening before the fall.
+
+When he awakens... for some reason, he finds himself on a snowy mountain.
 ~en~5~
 ~en~6
-After the incident, Satoru's mind and body experienced abnormalities.
-Sometimes, his mind and body separate, exchanging places with those of another person (Kokoro) in a different location.
+On top of that, his own body has changed into that of an unknown woman.
+
+After the accident, Satoru's mind and body experience abnormalities. Sometimes, his mind and body separate, exchanging places with those of another person (Kokoro) in a different location.
+
 His mind and memory switch back and forth between the snowy mountain and SPHIA.
 ~en~6~
 
@@ -5782,37 +5958,49 @@ His mind and memory switch back and forth between the snowy mountain and SPHIA.
 Mayuzumi Lin
 ~en~0
 Full Name: Mayuzumi Lin
-Sex: Female
+Gender: Female
 Age: 23
 Birthday: April 30th, 1987 (Taurus)
 Blood Type: A
 Occupation: Office worker
 Intelligence: Fairly high
 Physical Strength: Fairly low
-Cooperativeness: Low%N
+Cooperativeness: Low
 ~en~0~
 ~en~1
-Personality: Strong-willed. Very proud. At times, she worries greatly about her outward appearance. Slightly obsessed with cleanliness. Eats a very unbalanced diet (is extremely picky).
-Seems to be considerably lacking in sympathy.
-Hobbies: Collecting clothes, hats and shoes
-Likes: Her work, animals, high places, herself
-Dislikes: Proud men, losing to men, dirty jokes%N
+Personality:
+    Strong-willed. Very proud.
+    At times, she worries greatly about her outward
+    appearance. Slightly obsessed with cleanliness.
+    Eats a very unbalanced diet (is extremely picky).
+    Seems to be considerably lacking in sympathy.
+Hobbies:
+    Collecting clothes, hats and shoes
+Likes:
+    Her work, animals, high places, herself
 ~en~1~
 ~en~2
-Beyond the Surface: Represents the "Persona (Mask)" (→ Archetype)
-She has a fiancé.
-Satoru and Mayuzumi were once going out, but are now estranged.
-She keeps a wish locked inside her heart.
-This is her status as of 2011.%N
+Dislikes:
+    Proud men, losing to men, dirty jokes
+Beyond the Surface:
+    Represents the “Persona (Mask)” (→ Archetype)
+    She has a fiancé. Satoru and Mayuzumi were once in
+    a relationship. They are presently mutually
+    estranged, but she has feelings hidden within
+    her heart.
+    This is her status as of 2011.
 ~en~2~
 ~en~3
 Mayuzumi Lin mainly appears in the snowy mountain side of the story.
+
 During a business trip, she becomes involved in the plane crash and, like Kokoro, is one of the survivors.
+
 Uncooperative, she makes a point of standing in the way of the refugees, disturbing the unity of the group.
-She is antagonistic toward men, and hates yielding to them more than anything else.
-Thus, she doesn't get along with Yomogi.
-A burden to the group, and a troublemaker.
+She is antagonistic toward men and hates yielding to them more than anything else. Thus, she doesn't get along with Yomogi.
 ~en~3~
+~en~4
+A burden to the group, and a troublemaker.
+~en~4~
 
 ~cn
 黛铃
@@ -5905,32 +6093,43 @@ GPS機能付きの携帯端末を所持している。
 Yomogi Seiji
 ~en~0
 Full Name: Yomogi Seiji
-Sex: Male
+Gender: Male
 Age: 35
 Birthday: September 16th, 1975 (Virgo)
 Blood Type: O
 Occupation: Mountaineer
 Intelligence: Average
 Physical Strength: Very high
-Cooperativeness: High%N
+Cooperativeness: High
 ~en~0~
 ~en~1
-Personality: Gentle, brave and patient; has a good sense of humor; very careful and is always prepared.
-Hobbies: Mountain climbing, exploring, all sports
-Likes: Alcohol, self-discipline, stupid jokes
-Dislikes: Things that disturb group harmony, betrayal, additives in food%N
+Personality:
+    Gentle, brave and patient; has a good sense of
+    humor; very careful and is always prepared.
+Hobbies:
+    Mountain climbing, exploring, all sports
+Likes:
+    Alcohol, self-discipline, stupid jokes
+Dislikes:
+    Things that disturb group harmony, betrayal,
+    additives in food
 ~en~1~
 ~en~2
-Beyond the Surface: Represents the "Old Wise Man" (→ Archetype)
-He is the husband of Utsumi. They had a child, but he became one of the victims of the mass murder incident several years previously, dying at the hand of Inubushi Keiko.
-This is his status as of 2011.
+Beyond the Surface:
+    Represents the “Old Wise Man” (→ Archetype)
+    He is the husband of Utsumi. They had a child,
+    but he became one of the victims of the mass
+    murder incident several years previously,
+    dying at the hand of Inubushi Keiko.
+    This is his status as of 2011.
 
-Yomogi Seiji mainly appears in the snowy mountain side of the story.%N
+Yomogi Seiji mainly appears in the snowy mountain side of the story.
 ~en~2~
 ~en~3
 While traveling, he becomes involved in the plane crash and, like Kokoro, is one of the survivors.
-He possesses an abundance of emergency survival knowledge. He is also proficient in survival methods and owns a cell phone equipped with a GPS function.
-Due to his keen insight, he took on the role of group leader, but he is continuously hindered by the actions of some of its more assertively individualistic members.
+He possesses an abundance of emergency survival knowledge. He is also proficient in survival methods and possesses a portable device which has GPS functionality.
+
+Due to his keen insight, he takes on the role of group leader, but he is continuously hindered by the actions of some of its more assertively individualistic members.
 ~en~3~
 
 ~cn
@@ -6028,41 +6227,62 @@ Due to his keen insight, he took on the role of group leader, but he is continuo
 Utsumi Kali
 ~en~0
 Full Name: Utsumi Kali
-Sex: Female
+Gender: Female
 Age: 27
 Birthday: September 16th, 1984 (Virgo)
 Blood Type: O
-Occupation: Public school teacher
-(Beyond the surface: temporarily retired)
+Occupation:
+    Public school teacher
+    (Beyond the Surface: temporarily retired)
 Intelligence: High
 Physical Strength: Average
-Cooperativeness: Extremely high%N
 ~en~0~
 ~en~1
-Personality: Generally gentle and kind (sometimes goes overboard and borders on pampering).
-Easily moved to tears, but strong at heart.
-Incredibly scary when she snaps.
-Hobbies: Cooking, gardening, collecting vases
-Likes: Meddling in others' business, listening to other people's stories, nature, the sound of the heartbeat, silly jokes
-Dislikes: Things that make her think of death, actions that are harmful to nature, forsaking people
-Background: Half-Indian%N
+Cooperativeness: Extremely high
+Personality:
+    Generally gentle and kind (sometimes
+    goes overboard and borders on pampering).
+    Easily moved to tears, but strong at heart.
+    Incredibly scary when she snaps.
+Hobbies:
+    Cooking, kitchen gardening, collecting vases
 ~en~1~
 ~en~2
-Beyond the Surface: Represents the "Great Mother" (→ Archetype)
-Yomogi's wife. They had a child, but he became one of the victims of the mass murder incident several years ago, dying at the hands of Inubushi Keiko.
-The loss of her child has caused her great psychological suffering which is why, until several months ago, she was institutionalized in a psychiatric hospital.
-In August 8th, 2011, she gave birth.
-The newborns are (fraternal) twins.
-This is her status as of 2012.%N
+Likes:
+    Taking care of others, listening to other people's
+    stories and to nature, the sound of the heartbeat,
+    playful jokes
+Dislikes:
+    Things that make her think of death, actions
+    that are harmful to nature, forsaking people
+Surface:
+    Half-Indian
 ~en~2~
 ~en~3
-Utsumi Kali mainly appears in the SPHIA side of the story.
-Like Satoru, she is one of the inmates of SPHIA.
-She possesses extensive knowledge, especially in the field of psychology.
-She is the mood maker and the mediator of the group.
-For some reason, she says and does some very strange things from time to time.
-She bears a great hatred toward Inubushi Keiko.
+Beyond the Surface:
+    Represents the “Great Mother” (→ Archetype)
+    Yomogi's wife. They had a child, but he became one
+    of the victims of the mass murder incident several
+    years ago, dying at the hands of Inubushi Keiko.
+    The loss of her child has caused her great
+    psychological suffering, which is why, until several
+    months ago, she was institutionalized in a
+    psychiatric hospital.
+    In August of 2011, she gave birth.
 ~en~3~
+~en~4
+    The newborns are (fraternal) twins.
+    This is her status as of 2012.
+
+Utsumi Kali mainly appears in the SPHIA side of the story.
+
+Like Satoru, she is staying at SPHIA. She possesses extensive knowledge, especially in the field of psychology.
+~en~4~
+~en~5
+She is the mood maker and the mediator of the group. For some reason, she says and does some very strange things from time to time.
+
+She bears a great hatred toward Inubushi Keiko.
+~en~5~
 
 ~cn
 内海卡莉
@@ -6166,37 +6386,57 @@ She bears a great hatred toward Inubushi Keiko.
 Inubushi Keiko
 ~en~0
 Full Name: Inubushi Keiko
-Sex: Female
+Gender: Female
 Age: 20
 Birthday: April 30th, 1991 (Taurus)
 Blood Type: AB
-Occupation: A convicted criminal, suffering from mental disorders; currently confined in the medical facility called SPHIA.
-Knowledge: Average
-Physical Strength: Extremely low
-Cooperativeness: Extremely low%N
+Occupation:
+    A convicted criminal, suffering from mental
+    disorders; currently confined in the medical
+    facility called SPHIA.
 ~en~0~
 ~en~1
-Personality: Aggressive, goes by the carpe diem philosophy of living for the moment, subject to extreme mood swings, tends to turn others' impressions of her upside down, loves despair and fears hope (related to Borderline Personality Disorder)
-Hobbies: Talking by phone, e-mail, and chat
-Likes: Pleasure, total despair, attracting others' attention, self-mutilation, those who will accept who she is (to whom she can cling)%N
+Intelligence: Average
+Physical Strength: Extremely low
+Cooperativeness: Extremely low
+Personality:
+    Aggressive, lives only for the moment,
+    extreme cyclothymia, changes her evaluation of other
+    people excessively, loves despair and fears hope
+    (has a tendency toward borderline personality
+    disorder)
 ~en~1~
 ~en~2
-Dislikes: Being abandoned, unreliable dreams, half-hearted sympathy and hope, facile statements (stemming from popular opinion, etc)
-Beyond the Surface: Represents the "Shadow" (→Archetype)
-The one that Kokoro sees is the real Suzukage Hotori.
-The body is the same, but they're different individuals.
-Has DID (Dissociative Identity Disorder).
-This is her status as of 2012.%N
+Hobbies:
+    Talking by phone, e-mail, and chat
+Likes:
+    Pleasure, total despair, attracting others' attention,
+    self-mutilation, those who will accept who she is
+    (to whom she can cling)
+Dislikes:
+    Being abandoned, unreliable dreams, half-hearted
+    sympathy and hope, facile statements (stemming
+    from popular opinion, etc)
 ~en~2~
 ~en~3
+Beyond the Surface:
+    Represents the “Shadow” (→ Archetype)
+    The one that Kokoro sees is the real
+    Suzukage Hotori.
+    The body is the same, but they're different
+    individuals.
+    Has DID (Dissociative Identity Disorder).
+    This is her status as of 2012.
 Inubushi Keiko mainly appears in the SPHIA side of the story.
-Like Satoru, she's one of the inmates of SPHIA.
+~en~3~
+~en~4
+Like Satoru, she is staying at SPHIA.
 She herself isn't particularly aware of it, but she takes pleasure in trifling with her surroundings, often causing problems.
-She sees Utsumi as a depressing person.
+She finds Utsumi irritating.
 She tries to draw Satoru in.
 She has no particular attachment to life.
 A burden to the group, and a troublemaker.
-~en~3~
+~en~4~
 
 ~cn
 犬伏景子
@@ -6290,33 +6530,44 @@ A burden to the group, and a troublemaker.
 Kusuda Yuni
 ~en~0
 Full Name: Kusuda Yuni
-Sex: Male
+Gender: Male
 Age: 11 (12 as seen by Satoru)
 Birthday: October 19th, 1999 (Libra)
 Blood type: AB
-Occupation: Fifth-grade student (Sixth grade, as seen by Satoru)
+Occupation:
+    Fifth-grade student
+    (Sixth-grade, as seen by Satoru)
 Intelligence: Very high
 Physical Strength: Average (appropriate for his age)
-Cooperativeness: Sometimes ridiculously high, sometimes unbelievably low.%N
 ~en~0~
 ~en~1
-Personality: Innocent. Cowardly but kind-hearted.
-Very quick-witted.
-Hobbies: Occult-related activities (tarots, divination, etc.)
-Likes: Lively things, happy things, friends
-Dislikes: Materialism, loneliness, Leiblich Pharmaceutical
-
-Beyond the Surface: Represents the "Trickster" (→ Archetype)
-The Yuni who exists on the snowy mountain knows the truth about the time-space transfer phenomenon.%N
+Cooperativeness:
+    Sometimes ridiculously high,
+    sometimes unbelievably low.
+Personality:
+    Innocent. Cowardly but kind-hearted.
+    Very quick-witted.
+Hobbies:
+    Occult-related activities (tarot, divination, etc.)
+Likes:
+    Lively things, happy things, friends
 ~en~1~
 ~en~2
+Dislikes:
+    Materialism, loneliness, Leiblich Pharmaceuticals
+Beyond the Surface:
+    Represents the “Trickster” (→ Archetype)
+    The Yuni who exists on the snowy mountain knows
+    the truth about the time-space transfer phenomenon.
 Somehow, Kusuda Yuni appears in both the snowy mountain and SPHIA sides of the story.
-In the former, he is a survivor of the plane crash, and in the latter, a resident of SPHIA.
+In the former, he is a survivor of the plane crash, and in the latter, staying in SPHIA.
+~en~2~
+~en~3
 Has abundant knowledge related to the occult, especially theology.
 He sometimes surprises those around him with his predictions of the future (since they often come true!).
 An enigmatic boy who appears in both places.
-What are his true intentions...?%N
-~en~2~
+What are his true intentions...?
+~en~3~
 
 ~cn
 楠田悠尼
@@ -6402,32 +6653,45 @@ What are his true intentions...?%N
 Suzukage Hotori
 ~en~0
 Full Name: Suzukage Hotori (the true Hotori)
-Sex: Female
+Gender: Female
 Age: 19
 Birthday: October 30th, 1991 (Scorpio)
 Blood Type: A
 Occupation: College preparatory school student
 Intelligence: Average
 Physical Strength: Average
-Cooperativeness: Average%N
+Cooperativeness: Average
 ~en~0~
 ~en~1
-Personality: Introverted, quiet, shy around strangers
-Hobbies: Film (especially titles with female leads) and music,rearranging her room, traveling alone
-Likes: Good-looking women (she admires them), keepingthings tidy and in order
-Dislikes: Overly bright or noisy places, messy rooms
-Surface: Suffers from acute aphasia(due to the shock from the plane crash)%N
+Personality:
+    Introverted, quiet, shy around strangers
+Hobbies:
+    Film (especially titles with female leads), music,
+    rearranging her room, traveling alone
+Likes:
+    Good-looking women (she admires them), keeping
+    things tidy and in order
+Dislikes:
+    Overly bright or noisy places, messy rooms
 ~en~1~
 ~en~2
-Beyond the Surface: After being caught in the plane crash, shewandered alone in the snowy mountains beforeeventually collapsing in the middle of asnowfield.
-Due to the space-time transfer phenomenon,her mind transfers in and out of Inubushi'sbody.
-This is her status as of 2011.%N
+Surface:
+    Suffers from acute aphasia
+    (due to the shock from the plane crash)
+Beyond the Surface:
+    After being caught in the plane crash, she wanders
+    alone in the snowy mountains before eventually
+    collapsing in the middle of a snowfield.
+    Due to the space-time transfer phenomenon, her mind
+    transfers in and out of Inubushi's body.
+    This is her status as of 2011.
 ~en~2~
 ~en~3
 Suzukage Hotori mainly appears in the SPHIA side of the story.
+
 However, the body she resides in is Inubushi Keiko's.
-Her real body lies in the middle of a snow field.
-(The "Hotori" that Satoru sees is Inubushi.)
+Her real body lies in the middle of a snowfield.
+(The “Hotori” that Satoru sees is Inubushi.)
 ~en~3~
 
 ~cn
@@ -6516,26 +6780,48 @@ Age: 10 years (at time of death)
 Birthday: February 22nd, 1990 (Pisces)
 Blood type: AB
 Occupation: Fourth-grade student (11 years ago)
-Intelligence: Changes according to the personality(dominant personality = average)
-Physical Strength: Changes according to the personality(dominant personality = average)
-Cooperativeness: Changes according to the personality(dominant personality = average)
-%N
+Intelligence:
+    Changes according to the personality
+    (dominant personality = average)
 ~en~0~
 ~en~1
-Personality: Changes according to the personality(dominant personality = gentle andpure-hearted, strong, intelligent)
-Hobbies: Changes according to the personality(dominant personality = reading)
-Likes: Changes according to the personality(dominant personality = her older brother,family, snow)
-Dislikes: Changes according to the personality(dominant personality = hospitals, medicines,herself)
-Surface: Satoru's younger sister and fraternal twin
-%N
+Physical Strength:
+    Changes according to the personality
+    (dominant personality = average)
+Cooperativeness:
+    Changes according to the personality
+    (dominant personality = average)
+Personality:
+    Changes according to the personality
+    (dominant personality = gentle and
+    pure-hearted, strong, intelligent)
 ~en~1~
 ~en~2
-Beyond the Surface: Died 11 years prior to 2012.
-Diagnosed with DID (dissociative identitydisorder).
-Yukidoh Sayaka is Satoru's beloved sister.
-A person who is no longer in this world, she only appears in a flashback....
-Her death is the reason Satoru ends up designing and executing the current "project."
+Hobbies:
+    Changes according to the personality
+    (dominant personality = reading)
+Likes:
+    Changes according to the personality
+    (dominant personality = her older brother,
+    family, snow)
 ~en~2~
+~en~3
+Dislikes:
+    Changes according to the personality
+    (dominant personality = hospitals, medicine,
+    herself)
+Surface:
+    Satoru's younger sister and fraternal twin.
+Beyond the Surface:
+    Died 11 years prior to 2012.
+    Diagnosed with DID (dissociative identity
+    disorder).
+~en~3~
+~en~4
+Yukidoh Sayaka is Satoru's beloved sister. A person who is no longer in this world, she only appears in a flashback...
+
+Her death is the reason Satoru ends up designing and executing the current “plan”.
+~en~4~
 
 ~cn
 优希堂沙也香
@@ -6617,30 +6903,44 @@ Her death is the reason Satoru ends up designing and executing the current "proj
 Enomoto Naoya
 ~en~0
 Full Name: Enomoto Naoya
-Sex: Male
+Gender: Male
 Age: 21
-Birthday: November 27th, 1990 （Sagittarius）
+Birthday: November 27th, 1990 (Sagittarius)
 Blood Type: B
-Occupation：Employed in the Third Research Departmentof Leiblich Pharmaceuticals
+Occupation: Employed in the Third Research Department of Leiblich Pharmaceuticals.
 Intelligence： High
 Physical Strength： Average
-Cooperativeness： Fairly low%N
+Cooperativeness： Fairly low
 ~en~0~
 ~en~1
-Personality:　Seemingly coldhearted, but deeply emotional.Intellectual. Calm. Poor at expressingemotions.
-Hobbies: Work, crossword puzzles
-Likes: Machines
-Dislikes: Uncivilized environments
-Status: The man lurking under the facility.Knows everything about the space-time transferphenomenon.%N
+Personality:
+    Seemingly coldhearted, but deeply emotional.
+    Intellectual. Calm. Poor at expressing emotions.
+Hobbies:
+    Work, crossword puzzles
+Likes:
+    Machines
+Dislikes:
+    Uncivilized environments
 ~en~1~
 ~en~2
-Beyond the Surface: Displeased with the flaws born from Satoru'smemory loss and as well as the caprices ofthe fetal twins, but not being able to stopthem, he silently observes the course ofevents.
-This is his status as of 2012.%N
+Surface:
+    The man lurking under the facility. Knows everything
+    about the space-time transfer phenomenon.
+Beyond the Surface:
+    Displeased with the flaws born from Satoru's memory
+    loss as well as the caprices of the fetal twins,
+    but not being able to stop them, he silently observes
+    the course of events.
+
+This is his status as of 2012.
 ~en~2~
 ~en~3
 Enomoto Naoya mainly appears in the SPHIA side of the story.
+
 He is Satoru's colleague.
-Together with Satoru, he created the space-time warping device and executed the "project."
+Together with Satoru, he created the space-time warping device and executed the “plan”.
+
 He continues to monitor the progress of the plan from beneath SPHIA.
 ~en~3~
 
@@ -6722,28 +7022,36 @@ He continues to monitor the progress of the plan from beneath SPHIA.
 Yomogi Junichi
 ~en~0
 Full Name: Yomogi Junichi
-Sex: Male
+Gender: Male
 Age: 9 (at time of death)
 Birthday: January 14th, 1999 (Capricorn)
 Blood Type: O
 Occupation: Fourth-grade student
 Intelligence: Average
 Physical Strength: Average (appropriate for his age)
-Cooperativeness: High%N
+Cooperativeness: High
 ~en~0~
 ~en~1
-Personality: Cheerful, honest, innocent
-Hobbies: Sports, cycling
-Likes: Being physically active, seeing his parents' happy faces
-Dislikes: Being alone
-Surface: The child of Yomogi and Utsumi.
-
-Beyond the Surface: Two years ago (as of 2011),he was killed by Inubushi, and has now passedon to a better place.%N
+Personality:
+    Cheerful, honest, innocent
+Hobbies:
+    Sports, cycling
+Likes:
+    Being physically active, making his parents happy
+Dislikes:
+    Being alone
+Surface:
+    The child of Yomogi and Utsumi.
 ~en~1~
 ~en~2
+Beyond the Surface:
+    Two years ago (as of 2011), he was killed by Inubushi
+    and has already passed away.
+
 Yomogi Junichi appears only in flashbacks.
+
 Outstandingly athletic and honest, he was an ideal child beloved by his family.
-His death brought unimaginable despair and hatred to his parents, almost enough to bring on madness....
+His death brought unimaginable despair and hatred to his parents, enough to bring on madness...
 ~en~2~
 
 ~cn
@@ -6794,7 +7102,7 @@ His death brought unimaginable despair and hatred to his parents, almost enough 
 I
 ~en~0
 I am I and not 'I'.
-There are two of me here.
+There are two of “me” here.
 And if that's the case, who exactly is 'I'?
 And if that's the case...
 Who exactly am I?
@@ -6829,10 +7137,12 @@ Who exactly am I?
 ~en
 R
 ~en~0
-1. The symbol for "radius" and "ratio." Represents an arc extension.
+1. The symbol for “radius” and “ratio”. Represents an arc extension.
 2. The 18th letter of the alphabet.
-3. The symbol for "right."
+3. The symbol for “right”.
+
 And also, the R from the title of this game (Remember11).
+
 The letter R is full of significant meanings.
 ~en~0~
 
@@ -6870,6 +7180,7 @@ Lucid Dream
 ~en~0
 When one is dreaming, yet at the same time conscious of the fact that he or she is currently dreaming.
 It can also refer to the technique of entering such a dream.
+
 It is said that those who are having lucid dreams realize that they are in a dream and are able to direct the continuation of the dream according to their own will.
 ~en~0~
 
@@ -6900,9 +7211,7 @@ Lucid Dream
 ~en
 Personal Space
 ~en~0
-The region surrounding each person, or the area which a person considers their domain or territory.
-Often, when someone enters the range of your personal space, you will begin to feel uneasy or uncomfortable.
-While it is highly variable and difficult to measure accurately, the best estimates for personal physical space place it around 60 centimeters to either side, 70 centimeters in front, and 40 centimeters behind the body for the average westerner.
+The region of space surrounding every person which causes them discomfort if invaded.%N%NCan be referred to as a human's territory.
 ~en~0~
 
 ~cn
@@ -6931,7 +7240,9 @@ While it is highly variable and difficult to measure accurately, the best estima
 Mount Akakura
 ~en~0
 Part of Aomori Prefecture's Southern Hakkouda Mountain Range.
-Elevation 1298 meters.
+
+Elevation: 1,298 meters.
+
 It draws a fair number of people during the winter climbing season.
 ~en~0~
 
@@ -7120,114 +7431,135 @@ The way that chaotic speech and actions are linked with each other and connected
 【Scheme】
 Scheming.
 The plan formed within the walls of the inhuman research institute.
-%N
 ~en~0~
 ~en~1
 【Anima】
 The inner self.
 The face of the feminine within the masculine (in Jungian psychology).
+
 【Animus】
 Intentions. Violent hostility.
 The face of the masculine within the feminine (in Jungian psychology).
-【Persona】
-The (restrained) self that one presents to other people.
 ~en~1~
 ~en~2
-【Old wise man】
-A symbol of "wisdom." A father figure (dignified).
-At times, one who will put you to the test.
+【Persona】
+The (restrained) self that one presents to other people.
 
-【Great mother】
-The one who brought forth everything and envelops all, bringing them up. That side of her has made her an object of worship, held inseparably close, until she is transfigured and simultaneously becomes the maternal body which carries "the deepest darkness."%N
+【Old wise man】
+A symbol of “wisdom”. A father figure (dignified).
+At times, one who will put you to the test.
 ~en~2~
 ~en~3
-【Shadow】
-The individualistic shadow and the omnipresent shadow. To the personin question, their Shadow is something which they hate. An entitywhich is one's polar opposite.
-Possessed of a primal darkness. The more it is repressed,the stronger it becomes.
-【Puer aeternus】
-The eternal boy. Associated with the Eleusinian Mysteries of Greeceand their principal god or priest Iakchos. Creative, and possessinga vibrant imagination. However, not well-suited to everyday society.%N
+【Great mother】
+She gives birth to and envelops all things, raising them.
+As an aspect of that, she grasps her target and doesn't let it go, embraces it tightly, and at last engulfs it intoher body which holds the depths of darkness.
 ~en~3~
 ~en~4
-【Trickster】
-One possessing a disordered soul which rejects all boundaries, destroys all order, and defies all social conventions. He will use cunning and trickery to get what he wants from his opponent. At his most extreme, he will deceive even monarchs or gods without a moment's hesitation, and by giving what he gains to the mortal populace, he becomes a mythical hero.%N
+【Shadow】
+The individualistic shadow and the omnipresent shadow. To the person in question, their Shadow is something which they hate. An entity which is one's polar opposite.
+Possessed of a primal darkness.
+The more it is repressed, the stronger it becomes.
+
 ~en~4~
 ~en~5
+【Puer aeternus】
+The eternal boy. Associated with the Eleusinian Mysteries of Greece and their principal god or priest Iakchos. Creative and possessing a vibrant imagination. However, not well-suited to everyday society.
+~en~5~
+~en~6
+【Trickster】
+One possessing a disordered soul which rejects all boundaries, destroys all order, and defies all social conventions. He will use cunning and trickery to get what he wants from his opponent. At his most extreme, he will deceive even monarchs or gods without a moment's hesitation, and by giving what he gains to the mortal populace, he becomes a mythical hero.
+~en~6~
+~en~7
 【Self】
-Fetal movements/Self
+Fetal movements/Self.
 
 【Communication】
 Contact.
 
 【Anxiety】
-Uneasiness.%N
-~en~5~
-~en~6
+Uneasiness.
+~en~7~
+~en~8
 【Cue】
 Clue.
 
 【Paranoia】
-Paranoia and monomania. Originating internally, the will, thoughts, and actions all become irregular, gradually growing more and more disordered and eventually reaching the point of a persistent set of delusions.%N
-~en~6~
-~en~7
-【Fear and Insanity】
-Fear and Madness [Insanity]
-
-【Thanatos】
-In Greek mythology, the god who personified "death" is "Thanatos." A Freudian term. The internal instinct toward self-destruction.
-%N
-~en~7~
-~en~8
-【Delusive consciousness】
-A delusional consciousness. [Delusive consciousness]
-【Mantra】
-A spoken phrase which holds a mysterious power. The True Word. Originates from a song of praise in the Vedic texts.
-【Multiple maze】
-The intricacies of mental awareness → bewilderment, agitation and confusion.
-%N
+Originating internally, the will, thoughts, and actions all become irregular, gradually growing more and more disordered and eventually reaching the point of a persistent set of delusions.
 ~en~8~
 ~en~9
-【Dreamy lens】
-Imagining something which calms the heart.
+【Fear and Insanity】
+Fear and Madness [Insanity].
 
-【Dark Gestalt】
-Gestalt: a single entity, such as a shape or a melody, which is part of a whole that is greater than the sum of its parts. However, though part of a whole, it contains its own structure and significant meaning, and retains its own shape even when changes are undergone.%N
+【Thanatos】
+In Greek mythology, the god who personifies “death” is “Thanatos”. A Freudian term. The internal instinct toward self-destruction.
+
+【Delusive consciousness】
+A delusional consciousness.
 ~en~9~
 ~en~10
-【Will -Theme-】
-A process within the mind, in which conscious thoughts and actions are independently carried out. The energy of awareness is said to be another of its sides.
-%N
+【Mantra】
+A spoken phrase which holds a mysterious power.
+Originally refers to hymns in the Vedic scriptures.
+
+【Multiple maze】
+The complications of consciousness → bewilderment,
+agitation, and confusion.
+
+【Dreamy lens】
+Imagining something which calms the heart.
 ~en~10~
 ~en~11
-【Catharsis】
-First referred to in Aristotle's "Poetics." The meaning is one of purification or purging. The release of the negative emotions built up by watching a tragedy in order to purify the mind is a catharsis. In its old definition, it seems this word's emphasis was on catharsis as a therapeutic process or treatment.
-【All or None】
-The All or None Principle.
-Put another way, "Life or Death."
-%N
+【Dark Gestalt】
+Gestalt: An appearance which is maintained through changes and alterations, and which holds a coherent meaning and structure greater than the sum of its individual elements, like a single figure or melody.
 ~en~11~
 ~en~12
-【δ Wave】
-・δ (Delta) Wave [Between 0.5 and 4 Hz]
-...Appears during sound sleep.
-In newborns as well as adults, appears during the "deep sleep" stage.
-・θ (Theta) Wave, a.k.a. Theta Rhythm [Between 4 and 8 Hz]
-...Appears during REM sleep.
-・α (Alpha) Wave　[Between 8 and 13 Hz]
-...Appears when the brain is at rest.%N
+【Will -Theme-】
+A process within the mind which operates when consciously or independently developing and carrying out thoughts and actions. It can also be said to be the energetic aspect of consciousness.
 ~en~12~
 ~en~13
-They occur in the occipital lobe (at the rear of the brain) of a healthy adult at rest with closed eyes. Only rarely observed in the forebrain.
-These α waves disappear when the eyes are opened and their amplitude changes to that of β waves. This is because the visual cortex of the resting occipital lobe starts working when the eyes are opened.
-・β (Beta) Wave　[Between 13 and 30 Hz]
-...Appears during active thinking. %N
+【Catharsis】
+First referred to in Aristotle's “Poetics”. The meaning is one of purification or purging. The release of the negative emotions built up by watching a tragedy in order to purify the mind is a catharsis.
+In its old definition, it seems this word's emphasis was on catharsis as a therapeutic process or treatment.
 ~en~13~
 ~en~14
+【All or None】
+The All or None Principle.
+Put another way, “Life or Death”.
+
+【δ Wave】
+・δ (Delta) Wave [Between 0.5 and 4 Hz]
+    Appears during sound sleep.
+    In newborns as well as adults, appears during
+    the “deep sleep” stage.
+~en~14~
+~en~15
+・θ (Theta) Wave [Between 4 and 8 Hz]
+    Appears when a person has gotten sleepy.
+
+・α (Alpha) Wave　[Between 8 and 13 Hz]
+    A wave that appears in parts of the brain which are
+    at rest. In a healthy adult who is relaxed and has
+    their eyes closed, they appear in the occipital
+    region. Rarely observed in the frontal region.
+    These alpha waves disappear upon opening the eyes,
+    and change to β waves with small amplitudes.
+~en~15~
+~en~16
+    This is because the visual cortex in the occipital
+    region, which had been at rest until then, starts
+    actively working due to the eyes being opened.
+
+・β (Beta) Wave　[Between 13 and 40 Hz]
+    Appears during active thinking.
+~en~16~
+~en~17
 【Heuristic】
-One method for problem solving. Using trial and error to evaluate a group of potential choices until the right one is confirmed.
+One method for problem solving.
+A solution method which tries to obtain the correct answer by following choices in order which seem correct, using trial and error.
 
 【Nucleus】
 The core. An essential part of matter.
-~en~14~
+~en~17~
 
 ~cn
 BGM中隐含的寓意
@@ -7601,90 +7933,87 @@ The Meanings Behind the Scene Titles
 【The α and the ω】
 In the Greek alphabet, α is the first letter (the beginning), while ω is the last (the end). The intended meaning is that there is a closing resolution within the beginning of the story.
 
-【The Spirit "Girl"】
+【Ethereal “Girl”】
 Refers to the real Inubushi.
-Other than Inubushi Keiko, it also refers to Fuyukawa Kokoro.%N
+Other than Inubushi Keiko, it also refers to Fuyukawa Kokoro.
 ~en~0~
 ~en~1
 【O Great Sephirot, Our Master】
-In Judaism, "the tree of Sephirot" is a tree of life that grows in Heaven.
-The tree of Sephirot itself represents the enormous macrocosm, while its form also represents the microcosm (the human body).
-Furthermore, it also holds the meaning of the path of spiritual pilgrimage to God. In this case, "Master" means God - that is, an 0th-dimensional being.
-(Note: Sephirot has a number of alternative spellings,  e.g. "Sephiroth.")%N
+In Judaism, the “tree of Sephirot” is a tree of life that grows in Heaven. The tree of Sephirot itself represents the enormous macrocosm, while its form also represents the microcosm (the human body).
+Furthermore, it also holds the meaning of the path of spiritual pilgrimage to God. In this case, “Master” means God—that is, a 0th-dimensional being.
+(Note: Sephirot has a number of alternative spellings,  e.g. “Sephiroth.”)
 ~en~1~
 ~en~2
 【The Animus Within the Anima】
-The consciousness of Fuyukawa Kokoro within Yukidoh Satoru;
-can also be understood as the Yukidoh Satoru within Fuyukawa Kokoro.
+The consciousness of Fuyukawa Kokoro within Yukidoh Satoru; can also be understood as the Yukidoh Satoru within Fuyukawa Kokoro.
 
 【A Taste of the Primordial Sea】
-"Primordial sea" is a metaphor for the amniotic fluid in the mother'sbody which surrounds and cushions the fetus, softening the shocks from outside.%N
+“Primordial sea” is a metaphor for the amniotic fluid in the mother's body which surrounds and cushions the fetus, softening the shocks from outside.
 ~en~2~
 ~en~3
 【I'm Here】
-The desire of those caught in the accident to make their situationknown elsewhere. From a psychology perspective, it can also referto expressing one's existence to others.
-【The Desire to Change】
-One characteristic of the human psyche is the presence of twoopposing wills, the "will to preserve the status quo" and the "willto break the balance (bring changes)," which maintain an equilibrium.%N
+The desire of those caught in the accident to make their situation known elsewhere. From a psychology perspective, it can also refer to expressing one's existence to others.
 ~en~3~
 ~en~4
-The desire to visit the crash site arises from the latter of the twowills, which strives to break down the present situation of beingstranded at the crash site.
-【Chainlike Spiral】
-Two different places and consciousnesses, intertwined and switchingplaces with each other in "chain"- and "spiral" patterns.
-The helical base sequence of DNA, which holds all the informationabout a living being, also takes the form of a chain-like spiral.%N
+【The Desire to Change】
+One characteristic of the human psyche is the presence of two opposing wills, the “will to preserve the status quo” and the “will to break the balance (bring changes),” which maintain an equilibrium.
+
+The desire to visit the crash site arises from the latter of the two wills, which strives to break down the present situation of being stranded at the crash site.
 ~en~4~
 ~en~5
-【The One That Frightens, the One That is Frightened】
-(Alt. Title: Frightens and is Frightened) 
-Is someone after Kokoro(in Satoru's body)'s life?
-Is Kokoro (in Satoru's body) after Yuni's life?
-Just what is the truth?
-Everyone just keep falling further and further into paranoid thoughts.
-%N
+【Chainlike Spiral】
+Two different places and consciousnesses, intertwined and switching places with each other in “chain” and “spiral” patterns. The helical base sequence of DNA, which holds all the information about a living being, also takes the form of a chainlike spiral.
 ~en~5~
 ~en~6
-【While Receiving Blessings】
-In Christianity, death is regarded as the time of separation of the"body" and the "mind."
-It is said that at the time of death, the exhausted "body" is laidto rest, while the "mind (soul)" is sanctified and receives Heaven's blessing.
-
-【Eternal Boy】・【Ｐｕｅｒ　Ａｅｔｅｒｎｕｓ】
-The "Eternal Boy" is an example of what Jung, a famous psychologist,called human "archetypes."%N
+【Frightens and is Frightened】
+(The One That Frightens, the One That is Frightened)
+Is someone after Kokoro (in Satoru's body)'s life?
+Is Kokoro (in Satoru's body) after Yuni's life?
+Just what is the truth?
+Everyone just keeps falling further and further into paranoia.
 ~en~6~
 ~en~7
-Also referred to as "Peter Pan Syndrome," this refers to the mindof a person who is highly creative and rich in imagination, butthough an adult, is immature at heart, which could lead them to bea source of problems in regards to social life.
-However, the meaning is not that of the previous example; it isinstead used as an allusion to "Kusuda Yuni (bad ending only)"and "Yomogi Junichi," who met their doom while still young.
-%N
+【While Receiving Blessings】
+In Christianity, death is regarded as the time of separation of the “body” and the “mind”. It is said that at the time of death, the exhausted “body” is laid to rest, while the “mind (soul)” is sanctified and receives Heaven's blessing.
 ~en~7~
 ~en~8
-【The Promised Land To Which We Must Someday Return】
-(Alt. Title: The Promised Land) 
-In the world's three primary religions, "The Promised Land" isa term used to refer to "Jerusalem," which is regarded as the landbestowed by God, and one which God visits.
-It can be argued that Kokoro's discovery of Location X on the seventhday after the accident could only have occurred due to the act of the divine.%N
+【Eternal Boy】・【Ｐｕｅｒ　Ａｅｔｅｒｎｕｓ】
+The “Eternal Boy“ is an example of what Jung, a famous psychologist, called human “archetypes”. Also referred to as “Peter Pan Syndrome”, this refers to the mind of a person who is highly creative and rich in imagination, but though an adult, is immature at heart, which could lead them to be a source of problems in regards to social life.
 ~en~8~
 ~en~9
-"Return" means both the escape from the mountains and the returnof souls to their respective origins.
-
-【God Descends to the New World】
-The "world" brought forth by space-time transfer can quite be saidto resemble a "new world" of "God's" creation.
-%N
+However, the meaning is not that of the previous example; it is instead used as an allusion to “Kusuda Yuni (bad ending only)” and “Yomogi Junichi”, who died while still young.
 ~en~9~
 ~en~10
-【Within the Cage...】
-In the Kagome song lyrics, there is kagome (篭目)... the hexagram;
-in Tereshkova's words, there is kamome (カモメ)... the seagull.
-In Kokoro's case, it's kagome (籠女)... the sealed girl...???
-...Who's that behi――ind you?
-【Ｐｒｅｎａｔａｌ】
-Means "being or happening before birth."
-In addition to referring to the bosom of a mother, it also alludes to the occurrence of the transfers.
-%N
+【The Promised Land to Return to】
+#(The Promised Land To Which We Must Someday Return)
+In the world's three primary religions, “The Promised Land” is a term used to refer to “Jerusalem”, which is regarded as the land bestowed by God, and one which God visits.
+It can be argued that Kokoro's discovery of Location X on the seventh day after the accident could only have occurred due to an act of the divine. “Return” means both the escape from the mountains and the return of souls to their respective origins.
 ~en~10~
 ~en~11
-【Ｐｏｌｙｈｅｄｒｏｎ】
-A mathematical term, it refers to a three-dimensionalobject bounded by four or more faces. This mainlyrefers to the SPHIA which is constructed of manyquadrilaterals, but at the same time it also points to theinmates of SPHIA.
-【Ｃｒｕｃｉｆｙ'ｓ　Ｒａｔ】
-Likens what the rat felt in its near-death state due toingesting the MAO inhibitor to the image of the crucified Christ.%N
+【God Descends to the New World】
+The “world” brought forth by space-time transfer can be said to resemble a “new world” of “God's” creation.
+
+【Within the Cage...】
+In the Kagome song lyrics, it's kagome/篭目... hexagram;
+in Tereshkova's words, it's kamome/カモメ... seagull;
+in Kokoro's case, it's kagome/籠女... sealed girl???
+
+...Who's that behi―ind you?
 ~en~11~
 ~en~12
+【Ｐｒｅｎａｔａｌ】
+The state of “being or happening before birth (of a fetus, etc.).” In addition to the meaning of being inside a mother's body, it also covers the occurrence of the transfers.
+~en~12~
+~en~13
+【Ｐｏｌｙｈｅｄｒｏｎ】
+Mathematical terminology.
+A three-dimensional object surrounded by a surface composed of four or more polygons. Although it refers to SPHIA, which is formed of many quadrilaterals, at the same time it alludes to those living together in SPHIA.
+~en~13~
+~en~14
+【Ｃｒｕｃｉｆｉｅｄ⑳Ｒａｔ】
+Likens what the rat felt in its near-death state due to ingesting the MAO inhibitor to the image of the crucified Christ.
+~en~14~
+~en~15
 【Ｉｓｏｍｏｒｐｈｉｓｍ】
 A term from biology, it means a similarity of form or structure.
 The mountain cabin that appeared in 2012.
@@ -7692,67 +8021,66 @@ The SPHIA that appeared in 2011.
 The Fuyukawa Kokoro within Yukidoh Satoru.
 The Yukidoh Satoru within Fuyukawa Kokoro.
 It is used as a metaphor for these.
-%N
-~en~12~
-~en~13
+~en~15~
+~en~16
 【Ｎｕｃｌｅｏｔｉｄｅ】
 A nucleotide is a molecule formed by an ester bond between nucleoside sugar hydroxyl and phosphoric acid.
 It is an element of nucleic acid.
-The mysteries of the space-time transfer phenomenon of this story are, like nucleotides, intertwined in complex and chain-like ways.%N
-~en~13~
-~en~14
+The mysteries of the space-time transfer phenomenon of this story are, like nucleotides, intertwined in complex and chainlike ways
+~en~16~
+~en~17
+【Ｍｉｒａｃｌｅ⑳Ｃｈｉｌｄ】
+One of the Jungian archetypes.
+
 【Ｉｎｓｅｒｔｉｏｎ】
-Inubushi orally inserted a candy into Satoru's mouth with her own.
+Inubushi orally inserts a candy into Satoru's mouth with her own.
 Kokoro's mind is inserted into Satoru's body and vice versa due to the space-time transfer phenomenon.
-In biochemistry, insertion is the addition of foreign DNA into the existing DNA sequence.%N
-~en~14~
-~en~15
-【Ｍｉｒａｃｌｅ　Ｃｈｉｌｄ】
-One of the Jungian archetypes;
-also "Primordial Child."
+In biochemistry, insertion is the addition of foreign DNA into the existing DNA sequence.
+~en~17~
+~en~18
 【Ｈｅｋａｔｅ】
 A deity from the Greek pantheon.
-The goddess of death and water. Also said to be the goddess of the moon.
-【Ｔｈｅ　Ｔｈｉｒｄ　Ａｒｅａ】
-"The third area"—— That would be "Hotarubi Mine."
-"The third personality"—— That would be...?%N
-~en~15~
-~en~16
+The goddess of death and ice. Also said to be the goddess of the moon.
+
+【Ｔｈｅ⑳Ｔｈｉｒｄ⑳Ａｒｅａ】
+“The third area”—That would be “Hotarubi Mine.”
+“The third personality”—That would be...?
+~en~18~
+~en~19
 【Ａｐｏｐｔｏｓｉｓ】
 Apoptosis is the phenomenon of the controlled death of a cell, mediated by an intracellular program.
 As a result of a certain plan failing, the person who calls himself Enomoto, regarding Yukidoh Satoru as an impure foreign body, killed him.
 The entity called Yukidoh Satoru vanished from the world, as if through apoptosis.
-%N
-~en~16~
-~en~17
-【Ａｍｂｉｖａｌｅｎｃｅ】
-A psychology term; ambivalence is a state of having simultaneous, conflicting feelings, like love and hate, toward the same object.
-The feelings of others toward the Kokoro in Satoru's body.
-The feelings of others toward the Satoru in Kokoro's body.%N
-~en~17~
-~en~18
-The feelings of Kokoro and Satoru toward themselves,
-the feelings of Kokoro toward Satoru,
-the feelings of Satoru toward Kokoro,
-before long, all of these become one.%N
-~en~18~
-~en~19
-【Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ】
-Confirmation of sameness; unification, assimilation.
-Kokoro and Satoru, who were able to assimilate their bodies and souls.
-By properly seeing their partner with their own eyes, they became able to unite their respective existences.
-...Perhaps this is what is called "love."
-%N
 ~en~19~
 ~en~20
-【Ｄｅｌｔａ】
-δ; the fourth letter of the Greek alphabet.
-Represents a change in the value of a variable or a function.
-The story that begins with α and ω would conclude at δ, just like the vertices of a triangular polygon would intersect.
-【Ｗｈｅｒｅ　Ｉｓ　“Ｓｅｌｆ”？】
-The words that come up many times within the story;
-just what might they refer to? What exactly is "Self"?
+【Ａｍｂｉｖａｌｅｎｃｅ】
+A psychology term; ambivalence is a state of having simultaneous, conflicting feelings, like love and hate, toward the same object.
+The feelings of others toward Kokoro in Satoru's body.
+The feelings of others toward Satoru in Kokoro's body.
+The feelings of Kokoro and Satoru toward themselves,
+the feelings of Kokoro toward Satoru,
+the feelings of Satoru toward Kokoro;
+eventually, all of these become one.
 ~en~20~
+~en~21
+【Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ】
+The confirmation of sameness. Unification.
+Kokoro and Satoru were able to identify their own bodies and souls.
+By seeing their partner anew with their own eyes, they became able to unify with each other.
+...Perhaps that is what is called “love”.
+~en~21~
+~en~22
+【Ｄｅｌｔａ】
+δ; the fourth letter of the Greek alphabet. Represents a change in the value of a variable or a function.
+The story that begins with α and ω would conclude at δ, just like the vertices of a triangle would intersect.
+~en~22~
+~en~23
+【Ｗｈｅｒｅ⑳Ｉｓ⑳“Ｓｅｌｆ”？】
+The words that come up many times within the story;
+just what might they refer to?
+
+What exactly is “Self”?
+~en~23~
 
 ~cn
 章节标题中隐含的寓意

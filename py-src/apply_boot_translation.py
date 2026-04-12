@@ -9,9 +9,9 @@ import r11
 
 elf_head_size = 0xA0
 
-text_area_e17  = [0x12116c, 0x128698]
-text_area_r11 = [0x121118, 0x12b9a4]
-text_area_n7 = [0x11d118, 0x123bc0]
+text_area_e17  = [0x11e480, 0x134174]
+text_area_r11 = [0x11ff50, 0x136ac0]
+text_area_n7 = [0x11bf28, 0x131ab8]
 
 text_area = text_area_e17
 
