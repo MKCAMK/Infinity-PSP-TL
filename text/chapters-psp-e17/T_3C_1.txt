@@ -1376,11 +1376,7 @@ CN PLACEHOLDER
 武「『おおっ！？　こりゃあなんじゃらほぉ〜い！？』とか思って……」%K%P
 I thought, 'What the heck does this do!?'
 CN PLACEHOLDER
-<<<<<<< ours
-Я подумал: „Интересно, а для чего она нужна?“
-=======
-Я и подумал: „Интересно, а для чего она нужна?”
->>>>>>> theirs
+Я и подумал: „Интересно, а для чего она нужна?“
 
 武「ついつい、ポチッとな？」%K%P
 I couldn't help giving it a little push.
