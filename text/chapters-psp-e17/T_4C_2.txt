@@ -241,7 +241,7 @@ CN PLACEHOLDER
 武「あれ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 眠ってしまったのだろうか。%K%P
 Maybe she was asleep.
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 武「ん……？」%K%P
 Huh...?
 CN PLACEHOLDER
-Э-э-э?..
+Э-э?..
 
 靴を退けて、床を見た。%K%P
 I lifted my foot and looked down.
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 武「あれ？　故障か？」%K%P
 Huh? Is this broken?
 CN PLACEHOLDER
-Э-э-э? Эта штука сломана?
+Э-э? Эта штука сломана?
 
 モニターでＬｅＭＵのマップを見ることはできたが、ここでは生体反応はわからない。%K%P
 I looked at the map of LeMU on the monitor, but I could detect no signs of life.
@@ -986,7 +986,7 @@ CN PLACEHOLDER
 つぐみ「えっ！？」%K%P
 Huh!?
 CN PLACEHOLDER
-Э-э-э?!
+Э-э?!
 
 つぐみの手が緩んだ。%K%P
 Tsugumi's hand relaxed.
@@ -1386,7 +1386,7 @@ CN PLACEHOLDER
 武「は？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 つぐみは向き直って、俺の顔を見つめた。%K%P
 Tsugumi stared me square in the face.
@@ -1436,7 +1436,7 @@ CN PLACEHOLDER
 つぐみ「えっ？」%K%P
 What?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 武「俺が向こうについたら、ハム吾郎の居場所を教えてくれればいい」%K%P
 When I get through to the other side, you can tell me where Hammy is.
@@ -1806,7 +1806,7 @@ CN PLACEHOLDER
 武「なんでもないよ。ハム吾郎の反応があったら教えてくれ」%K%P
 Nothing. If you pick up Hammy's location, let me know.
 CN PLACEHOLDER
-Э-э-э, ничего. Если ты в курсе, где находится хомяк, скажи пожалуйста.
+Э-э, ничего. Если ты в курсе, где находится хомяк, скажи пожалуйста.
 
 つぐみ「ええ……」%K%P
 Okay...
@@ -1876,7 +1876,7 @@ CN PLACEHOLDER
 つぐみ「え？　どうしたのよ……」%K%P
 What happened?
 CN PLACEHOLDER
-Э-э-э... что случилось?
+Э-э... что случилось?
 
 つぐみ「武？　武！？　しっかりして！」%K%P
 Takeshi? Takeshi? Are you alright?
@@ -2521,7 +2521,7 @@ CN PLACEHOLDER
 武「……って、あれ？」%K%P
 ...Huh? What?
 CN PLACEHOLDER
-Э-э-э? Что?
+Э-э? Что?
 
 つぐみ「もうとっくに行って来たわよ」%K%P
 I've already been there and back.
@@ -2606,7 +2606,7 @@ CN PLACEHOLDER
 つぐみ「……えっ！？」%K%P
 ...Huh?
 CN PLACEHOLDER
-Э-э-э?!
+Э-э?!
 
 つぐみ「武、それ……」%K%P
 Takeshi...
@@ -2706,7 +2706,7 @@ CN PLACEHOLDER
 武「あれ？　あれれ？」%K%P
 Huh? What?
 CN PLACEHOLDER
-Э-э-э? Что?
+Э-э? Что?
 
 武「それ、本当にネズミか？　って言うか、なんでネズミが、そのネズミ――」%K%P
 Is that really a rat? I mean, what are you doing with that thing in the first place!?

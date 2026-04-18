@@ -96,7 +96,7 @@ CN PLACEHOLDER
 武「は？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 ココ「照れんな、照れんなぁ〜」%K%P
 Don't be shyyyy〜
@@ -156,7 +156,7 @@ CN PLACEHOLDER
 武「う〜ん……」%K%P
 Aaahhh...
 CN PLACEHOLDER
-Э-э-э...
+Э-э...
 
 ココ「その別の世界にいる人の『視点』を借りれば、過去も未来もいっぺんにわかるんだよ？」%K%P
 If I borrow the sight from the people in the other world, I can see everything from the past and future.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 少年「えっ？」%K%P
 Eh?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 ココ「ホクたんは、本当のホクたんじゃないでしょ？」%K%P
 Because you aren't really Hokutan, right?
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 少年「……えっ？」%K%P
 ...What?
 CN PLACEHOLDER
-..Э-э-э?
+..Э-э?
 
 ココ「ブリックヴィンケルさんなら、全部知ってると思うよ？」%K%P
 I'm pretty sure Blick Winkel-san knows everything.
@@ -486,7 +486,7 @@ CN PLACEHOLDER
 沙羅「ねえ、お兄ちゃん……」%K%P
 Hey, onii-chan...
 CN PLACEHOLDER
-Э-э-э, братик...
+Э-э, братик...
 
 少年「？」%K%P
 ?
@@ -501,7 +501,7 @@ CN PLACEHOLDER
 少年「えっ？」%K%P
 Eh?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 沙羅「血、出てる……」%K%P
 You're bleeding.
@@ -576,7 +576,7 @@ CN PLACEHOLDER
 沙羅「えっ？」%K%P
 Eh?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 沙羅が首を傾げる。%K%P
 Sara tilted her head questioningly.

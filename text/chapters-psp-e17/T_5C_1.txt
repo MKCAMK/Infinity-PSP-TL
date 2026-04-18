@@ -221,12 +221,12 @@ CN PLACEHOLDER
 武「えっ？　つ、つぐみっ！？」%K%P
 Eh? Ts-Tsugumi!?
 CN PLACEHOLDER
-Э-э-э? Ц-Цугуми?!
+Э-э? Ц-Цугуми?!
 
 つぐみ「……あの……」%K%P
 ...Um...
 CN PLACEHOLDER
-Э-э-э...
+Э-э...
 
 つぐみ「ひょっとして、ダメなの？」%K%P
 You don't want to make one?
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 つぐみ「ええ、お願い。ああ、そうだ。それから……」%K%P
 Yeah, thanks. Oh yeah, one more thing...
 CN PLACEHOLDER
-Да, пожалуйста... Э-э-э, да, ещё кое-что...
+Да, пожалуйста... Э-э, да, ещё кое-что...
 
 言いながら、つぐみは振り返る。%K%P
 Tsugumi said that as she turned around.
@@ -1281,12 +1281,12 @@ CN PLACEHOLDER
 俺は、少年の頬をしたたかに打った。%K%P
 I struck the Kid hard on his cheek.
 CN PLACEHOLDER
-Я стукнул Малого в щёку.
+Я со всей дури врезал Малого по щеке.
 
 少年「くっ……」%K%P
 Agh...
 CN PLACEHOLDER
-Гхх!
+Гх-х!
 
 武「…………」%K%P
 .........
@@ -1316,7 +1316,7 @@ CN PLACEHOLDER
 掴んでいた襟首を離すと、少年はゆらりと後ずさった。%K%P
 I let go of the Kid's collar, and he backed away slowly.
 CN PLACEHOLDER
-Я отпустил воротник Малого, и медленно отступил.
+Я отпустил воротник Малого, и тот медленно отступил.
 
 皆、黙ってそれを見ていた。%K%P
 Everyone watched us silently.
@@ -1336,12 +1336,12 @@ CN PLACEHOLDER
 少年「ううっ……」%K%P
 Aaghh...
 CN PLACEHOLDER
-Гххх...
+Гх-х-х...
 
 少年「ちくしょう、ちくしょうっ……」%K%P
 Damn it, damn it...
 CN PLACEHOLDER
-Чёрт... чёёёрт...
+Чёрт... чё-ё-ёрт...
 
 彼は目に涙を浮かべていた。%K%P
 Tears welled up in his eyes.
@@ -1416,12 +1416,12 @@ CN PLACEHOLDER
 少年「ううっ……」%K%P
 Aaghh...
 CN PLACEHOLDER
-Гххх....
+Гх-х-х...
 
 少年「ちくしょう、ちくしょうっ……」%K%P
 Damn it, damn it...
 CN PLACEHOLDER
-Чёрт... чёёёрт...
+Чёрт... чё-ё-ёрт...
 
 彼は目に涙を浮かべていた。%K%P
 Tears welled up in his eyes.
@@ -1761,7 +1761,7 @@ CN PLACEHOLDER
 空「あの……どうすれば、いいんですか……」%K%P
 What... do you want me to do...?
 CN PLACEHOLDER
-Э-э-э... что я могу... поделать?..
+Э-э... что я могу... поделать?..
 
 空「私、私……っ」%K%P
 I... I...
@@ -2681,7 +2681,7 @@ CN PLACEHOLDER
 少年「……うう……」%K%P
 ...Uuugh...
 CN PLACEHOLDER
-А-а-а...
+А-а...
 
 少年はどちらにも、首を振れなかった。%K%P
 The Kid couldn't respond either.
@@ -2766,7 +2766,7 @@ CN PLACEHOLDER
 少年「あああ……」%K%P
 Aaaagh...
 CN PLACEHOLDER
-А-а-а-а-агххх...
+А-а-а-а-агх...
 
 少年「ごめんなさい……」%K%P
 I'm sorry...
@@ -2826,7 +2826,7 @@ CN PLACEHOLDER
 武「？」%K%P
 ?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 俺が戸惑っていると、突然、つぐみはこっちに走り寄って来る。%K%P
 Seeing that I was confused, Tsugumi ran over to me.
@@ -3036,7 +3036,7 @@ CN PLACEHOLDER
 武「いや、その……」%K%P
 I mean... er...
 CN PLACEHOLDER
-Э-э-э... то есть...
+Э-э... то есть...
 
 武「さっき、あの場の収拾をつけられなくって……お前のひと言がなければ、どうなってたかわからなかった」%K%P
 Things were getting out of hand back there... If you hadn't said something, I don't know how it would have turned out.

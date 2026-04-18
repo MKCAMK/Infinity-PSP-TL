@@ -511,7 +511,7 @@ CN PLACEHOLDER
 武「はぁ？？　なんだそりゃ？」%K%P
 Huh? What does that mean?
 CN PLACEHOLDER
-Э-э-э? Ты о чём?
+Э-э? Ты о чём?
 
 つぐみ「…………」%K%P
 .........
@@ -556,7 +556,7 @@ CN PLACEHOLDER
 武「あれ、何だ？　呼び出しか？」%K%P
 What's that? Somebody calling?
 CN PLACEHOLDER
-Э-э-э, кто-то звонит?
+Э-э, кто-то звонит?
 
 空「田中さんからです。どうやら警備室の方にいらっしゃるようです」%K%P
 It's from Tanaka-san. It appears that she is in the security office.

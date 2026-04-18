@@ -121,7 +121,7 @@ CN PLACEHOLDER
 優「ん？　なに？」%K%P
 Eh? What?
 CN PLACEHOLDER
-Э-э-э? Чего?
+Э-э? Чего?
 
 武「ふたりとも仲良いみたいだけど、どういった関係なんだ？」%K%P
 You two seem to be close, but how do you know each other?
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 ？？「え？　ひょっとして、もうどこかに入部が決まってる、とか？」%K%P
 Oh, really? Have you already decided to join somewhere?
 CN PLACEHOLDER
-Э-э-э?! Неужели ты уже решила присоединиться к какому-то клубу?
+Э-э?! Неужели ты уже решила присоединиться к какому-то клубу?
 
 沙羅「いいえ」%K%P
 No.
@@ -711,7 +711,7 @@ CN PLACEHOLDER
 少年「あれ、どうしたの？　みんな？」%K%P
 Uh, what's the matter, everybody?
 CN PLACEHOLDER
-Э-э-э, что это с вами со всеми?
+Э-э, что это с вами со всеми?
 
 沙羅「ねえ、少年って……」%K%P
 Hey, Kid...
@@ -891,7 +891,7 @@ CN PLACEHOLDER
 優「ん？　どうしたの？　遠慮しないで入ってよ。狭いところだけどさ」%K%P
 Huh? What's the matter? It's kind of cramped, but go ahead.
 CN PLACEHOLDER
-Э-э-э? Что стряслось? Здесь слегка тесновато, но ничего страшного.
+Э-э? Что стряслось? Здесь слегка тесновато, но ничего страшного.
 
 松永「本当に……狭いですね」%K%P
 It really is... cramped.
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 名前は、えーっと……忘れた。%K%P
 Her name was... Uh... I forgot.
 CN PLACEHOLDER
-А звали её... э-э-э... не помню.
+А звали её... Э-э... не помню.
 
 優「そうだよっ、これでなんとかっ、廃部だけは免れたねっ？」%K%P
 That's right. We just barely avoided having our club fold...
@@ -981,7 +981,7 @@ CN PLACEHOLDER
 松永「あの、私、まだ入部するとは……」%K%P
 Um, I, uh, haven't decided to join yet...
 CN PLACEHOLDER
-Э-э-э, я, ну, ещё не решила...
+Э-э, я, ну, ещё не решила...
 
 松永さんはどうやって入室したらいいのか、まだ判断に迷っているようだった。%K%P
 Matsunaga-san was still contemplating how best to enter the room.
@@ -1066,7 +1066,7 @@ CN PLACEHOLDER
 優「うーむ、そこなんだなぁ……」%K%P
 Uh, well, that's true...
 CN PLACEHOLDER
-Э-э-э, ну, это правда...
+Э-э, ну, это правда...
 
 私は腕組みすると、深刻そうに何度も頷いた。%K%P
 I crossed my arms and nodded seriously several times.
@@ -1141,7 +1141,7 @@ CN PLACEHOLDER
 優「あ、どうぞどうぞ♪　操作の仕方はね、えーっと……」%K%P
 Oh, be my guest. You operate it by, um...
 CN PLACEHOLDER
-Нет проблем. Для начала нажми... э-э-э...
+Нет проблем. Для начала нажми... Э-э...
 
 松永「結構です。わかりますから」%K%P
 I'm fine. I know how to use it.
@@ -1451,7 +1451,7 @@ CN PLACEHOLDER
 武「へ？　どっか行くのか？」%K%P
 Huh? Where to?
 CN PLACEHOLDER
-Э-э-э? Ты куда?
+Э-э? Ты куда?
 
 優「うん。ちょっと、ね……」%K%P
 Uh, just a little walk...

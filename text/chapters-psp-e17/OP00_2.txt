@@ -276,7 +276,7 @@ CN PLACEHOLDER
 少年「えっ」%K%P
 Huh?
 CN PLACEHOLDER
-;Мальчик«Э-э-э?»%K%P
+;Мальчик«Э-э?»%K%P
 
 係員「退屈してたんじゃない？　ＬｅＭＵの中、案内してあげようか？」%K%P
 Well, you're bored, right? How about I show you around LeMU?
@@ -522,7 +522,7 @@ CN PLACEHOLDER
 少年「え？　そ、それは……」%K%P
 Huh? W-Well...
 CN PLACEHOLDER
-;Мальчик«Э-э-э? П-потому что...»%K%P
+;Мальчик«Э-э? П-потому что...»%K%P
 
 そう言えば……。%K%P
 Now that she mentioned it...
@@ -1129,7 +1129,7 @@ CN PLACEHOLDER
 少年「えっ！　あ、ああ、そうです」%K%P
 Huh?! U-Uh, y-yes, I am.
 CN PLACEHOLDER
-;Мальчик«Э-э-э?! Ой, да... Да, я ищу!»%K%P
+;Мальчик«Э-э?! Ой, да... Да, я ищу!»%K%P
 
 見透かされた気がして、咄嗟にそう返事した。%K%P
 A little shocked that she seemed to have read his mind, he stammered and blurted out an answer.
@@ -1174,7 +1174,7 @@ CN PLACEHOLDER
 少年「ええっ？　ぼ、ぼくのこと……？」%K%P
 Huh? You mean me?
 CN PLACEHOLDER
-;Мальчик«Э-э-э? Кто, я?»%K%P
+;Мальчик«Э-э? Кто, я?»%K%P
 
 男の人「あ、ああ。そうだ……」%K%P
 Yeah, you...

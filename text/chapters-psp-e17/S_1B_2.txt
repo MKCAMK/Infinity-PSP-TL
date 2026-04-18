@@ -76,7 +76,7 @@ CN PLACEHOLDER
 少年「えっ？　なんで制御室に？」%K%P
 Huh? Why the control room?
 CN PLACEHOLDER
-Э-э-э? А почему там?
+Э-э? А почему там?
 
 優「少年、覚えてない？」%K%P
 You don't remember?
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 沙羅「え？　なんで合計で……５人なの？」%K%P
 Huh? Why do you say there are five people?
 CN PLACEHOLDER
-Э-э-э? Почему ты говоришь, что здесь пять человек?
+Э-э? Почему ты говоришь, что здесь пять человек?
 
 沙羅「空・つぐみ・武・少年・なっきゅ先輩……それから私」%K%P
 Sora, Tsugumi, Takeshi, the Kid, Nakkyu-senpai... and me.
@@ -1286,7 +1286,7 @@ CN PLACEHOLDER
 少年「う、うん……」%K%P
 Uh, yeah...
 CN PLACEHOLDER
-Э-э-э, да...
+Э-э, да...
 
 武「ってことは、その後に、誰かから空に関する説明を受けた、と？」%K%P
 So that means that somebody must've told you about Sora after that.
@@ -2376,7 +2376,7 @@ CN PLACEHOLDER
 空「各フロアの間隔は１７ｍです。フロアをひとつ下りれば、１７ｍ深くなります」%K%P
 There are seventeen meters between each floor. If you go down a floor, then you go seventeen meters deeper.
 CN PLACEHOLDER
-Все этажи расположены на расстоянии примерно 17 метров между собой. Когда вы спускаетесь на этаж, то фактически погружаетесь ещё на 17 метров.
+Все этажи расположены на расстоянии примерно 17 метров друг от друга. Когда вы спускаетесь на этаж, то фактически погружаетесь ещё на 17 метров.
 
 空「従って３階――ドリットシュトックは、水深５１ｍの位置に沈んでいることになりますね」%K%P
 Thus, the third floor, Dritter Stock, is 51 meters deep.

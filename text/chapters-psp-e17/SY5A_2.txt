@@ -61,7 +61,7 @@ CN PLACEHOLDER
 少年「あれ？　それ、片づけちゃうの？」%K%P
 Huh? You're cleaning it up?
 CN PLACEHOLDER
-Э-э-э? Ты снимаешь её?
+Э-э? Ты снимаешь её?
 
 武は無言で頷く。%K%P
 Takeshi nodded silently.
@@ -521,7 +521,7 @@ CN PLACEHOLDER
 武「ぬぉっ、なんちゅータフさだ！」%K%P
 Huh, well aren't you tough!
 CN PLACEHOLDER
-Э-э-э, неужели тебе не плохо?
+Э-э, неужели тебе не плохо?
 
 つぐみ「全然、平気」%K%P
 I'm perfectly fine.
@@ -961,7 +961,7 @@ CN PLACEHOLDER
 優「えぇ〜？？　誰もいないよ？」%K%P
 Huh? I don't see anybody.
 CN PLACEHOLDER
-Э-э-э? Я никого не вижу.
+Э-э? Я никого не вижу.
 
 少年「そっちじゃないってば！　あっち！」%K%P
 Not there! Over there!

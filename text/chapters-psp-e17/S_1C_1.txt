@@ -776,7 +776,7 @@ CN PLACEHOLDER
 優「だからここに来れば、消えたお父さんの手がかりが、何か見つかるかもしれないって……そう思って……」%K%P
 So I thought that if I came here, maybe I would find some clue about my father...
 CN PLACEHOLDER
-Я надеялась, что смогу найти хоть какую-нибудь зацепку или улику об его исчезновении...
+Я надеялась, что смогу найти хоть какую-нибудь зацепку или улику о его исчезновении...
 
 優「お母さんは、もうあきらめちゃってるみたいだから、頼りにならないし……」%K%P
 It seems like my mother has already given up, so I can't count on her...
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 『死』という言葉が、胸にズシンと響く。%K%P
 The word “dead” had a heavy ring to it.
 CN PLACEHOLDER
-Слово «умер» камнем сдавило моё сердце, я готов заплакать.
+Слово «умер» камнем сдавило моё сердце.
 
 優は瞳をうるませながら、ぼくのことを真っ直ぐ見つめていた。%K%P
 You looked straight at me as her eyes watered.
@@ -1146,7 +1146,7 @@ CN PLACEHOLDER
 少年「え？　沙羅？」%K%P
 Huh? Sara?
 CN PLACEHOLDER
-Э-э-э? Сара?
+Э-э? Сара?
 
 そこにいたのは沙羅だった。%K%P
 Sara was inside.
@@ -1186,7 +1186,7 @@ CN PLACEHOLDER
 沙羅「ん？　うん……ちょっと、ひとりになりたかったの」%K%P
 Huh? Oh... I just wanted some time alone.
 CN PLACEHOLDER
-Э-э-э?.. М-м-м... Просто хотела побыть одна.
+Э-э?.. М-м... Просто хотела побыть одна.
 
 少年「ひとりに？」%K%P
 Alone?
@@ -2514,7 +2514,7 @@ CN PLACEHOLDER
 武「ん？　どうした？」%K%P
 Huh? What's wrong?
 CN PLACEHOLDER
-Э-э-э? Что случилось?
+Э-э? Что случилось?
 
 少年「ねえ？　今は何年なの？」%K%P
 Hey, what year is it?

@@ -56,7 +56,7 @@ CN PLACEHOLDER
 少年「ううん、そうじゃない、見たっていうか……」%K%P
 Uhh... Well, I didn't really see it...
 CN PLACEHOLDER
-Э-э-э... ну, не знаю, видел ли я это...
+Э-э... ну, не знаю, видел ли я это...
 
 少年「嫌な予感がする……２階……どこだろう」%K%P
 I just have a bad feeling... about the second floor... somewhere.
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 少年「さぁ、わからない……」%K%P
 Uh, I don't know...
 CN PLACEHOLDER
-Э-э-э, я не знаю...
+Э-э, я не знаю...
 
 武「まさか、さっきの『嫌な予感』とやらが関係してるのか？」%K%P
 Hey, this doesn't have anything to do with that 'bad feeling' you had earlier, does it?
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 空「はい、事前の計算にはありません。海流の乱れに影響された模様です」%K%P
 Yes, well, it wasn't in my calculations. It appears as if the ocean currents may have caused it.
 CN PLACEHOLDER
-Да, э-э-э, этого не было в моих подсчётах. Видимо, разрушению способствовало морское течение.
+Да, э-э, этого не было в моих подсчётах. Видимо, разрушению способствовало морское течение.
 
 武「どのくらいヤバいんだ？」%K%P
 How dangerous are we talking here?

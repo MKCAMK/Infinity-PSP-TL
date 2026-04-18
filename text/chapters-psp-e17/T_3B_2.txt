@@ -146,7 +146,7 @@ CN PLACEHOLDER
 武「……え？」%K%P
 ...Huh?
 CN PLACEHOLDER
-Э-э-э...
+Э-э...
 
 武「なんだって？」%K%P
 What...?
@@ -261,12 +261,12 @@ CN PLACEHOLDER
 武「そもそも、空にだってわかってるはずだぞ？」%K%P
 You know as well as I do...
 CN PLACEHOLDER
-Во-первых, и ты и я прекрасно знаем, что...
+Сора, ты ведь должна понимать...
 
 武「捕まえるって言ったって……」%K%P
 There's no way I can catch you...
 CN PLACEHOLDER
-Для меня невозможно поймать тебя...
+...что я при всём желании не смогу тебя поймать...
 
 武「俺はどうやっても、お前を掴めないんだぞ！？」%K%P
 No matter what I do, I can't grab hold of you!
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 空Ｃ「そうでしたか……。ふふふっ、私、知りませんでした」%K%P
 I see... Heehee, I didn't realize that.
 CN PLACEHOLDER
-Ясненько... хии-хии, а я и не думала.
+Ясненько... хи-хи, а я и не подумала.
 
 思い切りとぼけた。%K%P
 She was playing dumb.
@@ -676,7 +676,7 @@ CN PLACEHOLDER
 武「あ、えーと……」%K%P
 Uh... Uhm... Well...
 CN PLACEHOLDER
-Э-э... м-м-м... ну...
+Э-э... м-м... ну...
 
 武「だけど、それとこれとは話が違うんじゃないかなぁ……」%K%P
 But what does that have to do with this?
@@ -826,7 +826,7 @@ CN PLACEHOLDER
 もはや、大きさも量も距離も不定だった。%K%P
 It was impossible to even tell their size, amount, or distance.
 CN PLACEHOLDER
-Невозможно даже сказать, сколько их было, какого они были роста, или на каком расстоянии находились.
+Невозможно даже сказать, сколько их было, какого они были роста или на каком расстоянии находились.
 
 空「そうですね……考えてみてください」%K%P
 You see... Please think of it this way.

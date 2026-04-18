@@ -176,7 +176,7 @@ CN PLACEHOLDER
 武「ああ、いろいろとあったが……ん？　待てよ、もしかして……！」%K%P
 Yeah, there were a few of them... Ah? Wait, are you saying...!?
 CN PLACEHOLDER
-Да, там их было несколько... э-э-э? Постой... Ты хочешь сказать...
+Да, там их было несколько... Э-э? Постой... Ты хочешь сказать...
 
 つぐみ「気づいた？　あの業務日誌の記録」%K%P
 You remember? That journal entry we found.
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 武「え？　なんか言ったか？」%K%P
 Huh? Did you say something?
 CN PLACEHOLDER
-Э-э-э? Ты что-то сказала?
+Э-э? Ты что-то сказала?
 
 つぐみ「な、なんでもないっ」%K%P
 I-It's nothing.
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 武「あれ……っ？」%K%P
 Huh...?
 CN PLACEHOLDER
-Э-э-э?..
+Э-э?..
 
 ふと違和感を感じて、俺は立ち止まった。%K%P
 I felt strange and suddenly stopped.
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 武「えっ？」%K%P
 Eh?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 慌てて口元を拭った。%K%P
 I quickly put my hand to my nose.
@@ -1368,7 +1368,7 @@ CN PLACEHOLDER
 優「え？　いや、私は」%K%P
 Huh? Um, no, I...
 CN PLACEHOLDER
-Э-э-э? Ну, нет, я...
+Э-э? Ну, нет, я...
 
 優「…………」%K%P
 .........
@@ -1433,7 +1433,7 @@ CN PLACEHOLDER
 優「え、や、やだよう……」%K%P
 Huh, n-no way...
 CN PLACEHOLDER
-Э-э-э?! Е-ещё чего!..
+Э-э?! Е-ещё чего!..
 
 優「注射……私、注射苦手なの……」%K%P
 I... I don't like shots...
@@ -1798,7 +1798,7 @@ CN PLACEHOLDER
 少年「ん……、武？」%K%P
 Unh... Takeshi?
 CN PLACEHOLDER
-Э-э-э... Такэси?
+Э-э... Такэси?
 
 少年は、ゆっくりと目を開ける。%K%P
 He slowly opened his eyes.
@@ -1813,7 +1813,7 @@ CN PLACEHOLDER
 少年「えっ……」%K%P
 Wha...
 CN PLACEHOLDER
-Э-э-э?..
+Э-э?..
 
 俺の言葉に、少年は目を見開いた。%K%P
 He opened his eyes wide at my words.
@@ -1833,7 +1833,7 @@ CN PLACEHOLDER
 少年「い……嫌だ！」%K%P
 No... No way!
 CN PLACEHOLDER
-Э-э-э... нет!
+Э-э... нет!
 
 武「何！？」%K%P
 What!?
@@ -1958,7 +1958,7 @@ CN PLACEHOLDER
 優「ええっ？」%K%P
 What?
 CN PLACEHOLDER
-Э-э-э?!
+Э-э?!
 
 優も端末から振り返った。%K%P
 You turned away from the terminal as well.
@@ -3075,7 +3075,7 @@ CN PLACEHOLDER
 つぐみ「ああ、私ね……」%K%P
 Well, I...
 CN PLACEHOLDER
-Э-э-э... я?..
+Э-э... я?..
 
 つぐみ「友達を上に置いて来ちゃったのよ」%K%P
 I left a friend of mine upstairs.
@@ -3370,7 +3370,7 @@ CN PLACEHOLDER
 武「ああ、大丈夫なはずだ」%K%P
 Uh, yeah, it should be fine.
 CN PLACEHOLDER
-Э-э-э, да, с этим никаких проблем.
+Э-э, да, с этим никаких проблем.
 
 管制官「要救助者の場所と数はわかるか？」%K%P
 Do you know how many survivors there are and where they are located?

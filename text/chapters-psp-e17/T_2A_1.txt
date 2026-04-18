@@ -86,7 +86,7 @@ CN PLACEHOLDER
 武「って、あれ？」%K%P
 Hey, aren't you...?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 気がつくと、隣に優の姿はなかった。%K%P
 The next thing I noticed, You was no longer next to me.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 武「は？　鏡？」%K%P
 Huh? Mirror?
 CN PLACEHOLDER
-Э-э-э? В зеркало?
+Э-э? В зеркало?
 
 優「あんたねぇ……ともかく、さっさと顔洗ったほうがいいよ」%K%P
 You'd... really better wash your face.
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 優「は？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 武「俺が寝てる間に、落書きか何かしたんだろ？」%K%P
 While I was asleep, you scribbled all over my face, didn't you?
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 武「え？　あ、ああ、おはよう……」%K%P
 Huh? Oh... good... morning...
 CN PLACEHOLDER
-Э-э-э? Ой... доброе... утро...
+Э-э? Ой... доброе... утро...
 
 武「昨日はよく眠れたか？　こっちはいまいちだ。あのくそ狭い部屋で、地べたに座ってたからな……」%K%P
 Did you get a good sleep last night? I didn't. That damn room was so small that I ended up sitting on the floor all night...

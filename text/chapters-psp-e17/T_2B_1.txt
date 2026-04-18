@@ -816,7 +816,7 @@ CN PLACEHOLDER
 武「はあ〜？　何が？」%K%P
 Huh? What was?
 CN PLACEHOLDER
-Э-э-э? На что?
+Э-э? На что?
 
 つぐみ「顔が」%K%P
 Your face.
@@ -1431,7 +1431,7 @@ CN PLACEHOLDER
 武「でだ。わかってると思うけど、今俺達は、卵……えーっと『ＥＩ』の中にいて……」%K%P
 I think you know this, but we're in this egg... Uh, this Ei...
 CN PLACEHOLDER
-Наверное ты в курсе, но мы в этом яйце... э-э-э, этом EI...
+Наверное ты в курсе, но мы в этом яйце... э-э, этом EI...
 
 空「ええ、わかっています」%K%P
 Yes, I know.
@@ -1506,7 +1506,7 @@ CN PLACEHOLDER
 武「えっ！？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э-э?..
+Э-э?..
 
 卵を出て行こうとするつぐみ……。%K%P
 Tsugumi tried to get out of the elevator...

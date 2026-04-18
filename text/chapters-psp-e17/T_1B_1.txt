@@ -933,7 +933,7 @@ CN PLACEHOLDER
 武「あ、ああ、悪い悪い」%K%P
 Oh, aah, I'm sorry.
 CN PLACEHOLDER
-Э-э-э, а, точно, прости!
+Э-э, а, точно, прости!
 
 言いながら、俺は天井の上に腹ばいになった。%K%P
 I said that and got down on my stomach from atop the elevator.
@@ -1043,7 +1043,7 @@ CN PLACEHOLDER
 武「ピピってさぁ、日本語、しゃべれないよなぁ？」%K%P
 Pipi can't speak, uh, Japanese, right?
 CN PLACEHOLDER
-Пипи ведь не говорит, э-э-э, по-японски?
+Пипи ведь не говорит, э-э, по-японски?
 
 ココ「当たり前じゃない」%K%P
 Of course not!
@@ -1093,7 +1093,7 @@ CN PLACEHOLDER
 武「うん。……確かに、それは見ればわかるんだけど」%K%P
 Uhhh... Yeah, I can tell that from looking.
 CN PLACEHOLDER
-Э-э-э... да, теперь я вижу.
+Э-э... да, теперь я вижу.
 
 武「隣のエレベーターかな？」%K%P
 Maybe the next elevator over?
@@ -1178,7 +1178,7 @@ CN PLACEHOLDER
 ココ「ところで、この方達は……？」%K%P
 Um, by the way, who are these people...?
 CN PLACEHOLDER
-Э-э-э, кстати... Кто все эти люди?..
+Э-э, кстати... Кто все эти люди?..
 
 パタパタと服の汚れをはたきながら、ココは係員と黒服の女の子の顔を交互に見た。%K%P
 Coco looked back and forth between the faces of the female park employee and the girl in black clothing.
@@ -1208,7 +1208,7 @@ CN PLACEHOLDER
 ココ「うーんとねぇ、うーんとねぇ、私の名前はっ」%K%P
 Ummm, uuuuhhh, my name is...
 CN PLACEHOLDER
-Э-э-э, м-м-м, меня зовут...
+Э-э, м-м-м, меня зовут...
 
 空「存じております」%K%P
 I know.
@@ -1283,7 +1283,7 @@ CN PLACEHOLDER
 ココ「んん？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 ココ「ひょっとしてひょっとすると……あのレミュールの着ぐるみを着てた、人？」%K%P
 Um, wait a second... You wouldn't happen to be that person who was wearing the lemur costume?
@@ -2570,7 +2570,7 @@ CN PLACEHOLDER
 優「えーと、それで、そちらの彼女は？」%K%P
 Uh, and how about her over there?
 CN PLACEHOLDER
-Э-э-э, а её как зовут?
+Э-э, а её как зовут?
 
 武「え？　なんで俺に訊くんだよ」%K%P
 Huh? Why're you asking me?
@@ -2690,7 +2690,7 @@ CN PLACEHOLDER
 武「何ってお前、助けてくれたじゃないか、水族館で」%K%P
 You saved me in the aquarium, right?
 CN PLACEHOLDER
-Ты спасла меня в океанариуме, верно?
+Ты ведь спасла меня в океанариуме.
 
 つぐみ「助けたんじゃないわ」%K%P
 I didn't mean to save you.
@@ -2735,7 +2735,7 @@ CN PLACEHOLDER
 つぐみ「普通よ、これが」%K%P
 This is how I am normally.
 CN PLACEHOLDER
-Я такая всегда. Это нормальное состояние.
+Я такая всегда. Это моё нормальное состояние.
 
 武「明るく振舞えとまでは言わないけどさぁ……」%K%P
 I won't ask you to pretend to be happy...
@@ -2750,7 +2750,7 @@ CN PLACEHOLDER
 つぐみ「どうして？」%K%P
 Why?
 CN PLACEHOLDER
-Почему?
+Зачем?
 
 つぐみ「関係ないでしょう、たまたまここに一緒にいるだけなんだから」%K%P
 I don't know any of you. We just happen to all be here together.
@@ -2760,7 +2760,7 @@ CN PLACEHOLDER
 つぐみ「そうよ、みんな関係ない……」%K%P
 That's right, we don't have any connection to each other...
 CN PLACEHOLDER
-Именно так. Нет между нами ничего общего...
+Именно. Нет между нами ничего общего...
 
 つぐみ「要するに、不幸な集まりに過ぎない」%K%P
 We're just an unlucky gathering of strangers.
@@ -2795,7 +2795,7 @@ CN PLACEHOLDER
 優が割って入る。%K%P
 You jumped in between us.
 CN PLACEHOLDER
-Ю сунула между нами свой нос.
+Ю решила вмешаться.
 
 俺はつぐみから離れた。つぐみは目を逸らす。%K%P
 I walked away from Tsugumi, and she looked away from me.
@@ -2815,7 +2815,7 @@ CN PLACEHOLDER
 空「あっ、私ですか？」%K%P
 Oh, you mean me?
 CN PLACEHOLDER
-Мой?
+О, мой?
 
 空は手を休めると、滑るように皆の前へと進み出る。%K%P
 Sora took her hands from the machine and came toward us as if she were gliding.
@@ -2930,7 +2930,7 @@ CN PLACEHOLDER
 ココ「あっ、そう言えば……あのときのお姉ちゃん？」%K%P
 Oh, you might be right. Are you the girl from before?
 CN PLACEHOLDER
-А, точно... Значит, ты та девушка-гид?
+А, точно... Так ты та девушка-гид?
 
 空「はい、そうです。お気づきになりましたか……」%K%P
 That's right. So you noticed...
@@ -2950,7 +2950,7 @@ CN PLACEHOLDER
 武「ああ、えーと。俺は倉成武」%K%P
 Uh, I'm Kuranari Takeshi.
 CN PLACEHOLDER
-Э-э-э, я Куранари Такэси.
+Э-э, я Куранари Такэси.
 
 武「２０歳、大学３年生だ。みんな、改めてよろしくな」%K%P
 I'm 20. I'm a junior in college.
@@ -2980,7 +2980,7 @@ CN PLACEHOLDER
 つぐみ「……ふん」%K%P
 ...Hmph.
 CN PLACEHOLDER
-*фырк*...
+*фырк*
 
 つぐみは除いてだが……。%K%P
 Everyone except Tsugumi...
@@ -2990,7 +2990,7 @@ CN PLACEHOLDER
 多少強引ながら、塞いだ場の空気が薄まってきた。%K%P
 It took a little effort, but the atmosphere finally loosened up.
 CN PLACEHOLDER
-Это было трудно, но атмосфера наконец-то разрядилась.
+Было трудно, но атмосфера наконец-то разрядилась.
 
 優がまとめに入る。%K%P
 You started gathering us up.
@@ -3005,17 +3005,17 @@ CN PLACEHOLDER
 優「宴もたけなわとなってまいりましたが皆さんそろそろお開きに――」%K%P
 Now that we've just started having so much fun, it's time to say goodbye—
 CN PLACEHOLDER
-Мы вдоволь повеселились, но теперь пора прощаться–
+Мы вдоволь повеселились, но теперь пора прощаться...
 
 ココ「あっ、なっきゅ！　ちょっと待って！」%K%P
 Uh, Nakkyu! Wait a second!
 CN PLACEHOLDER
-Э-э-э, Няку! Погоди секундочку!
+Э-э, Няку! Погоди секундочку!
 
 ココ「まだ名前を訊いてないよ？」%K%P
 We haven't asked somebody's name yet.
 CN PLACEHOLDER
-Мы ещё не спросили, как кое-кого зовут.
+Мы ещё не спросили, как зовут ещё кое-кого.
 
 ココは部屋の片隅を指差した。%K%P
 Coco pointed to the corner of the room.
@@ -3025,7 +3025,7 @@ CN PLACEHOLDER
 少年「えっ、ぼくのこと……？」%K%P
 Uh... Do you mean me?
 CN PLACEHOLDER
-;Мальчик«Э-э-э? То есть... меня?..»%K%P
+;Мальчик«Э-э? То есть... меня?..»%K%P
 
 ピピ「わん」%K%P
 *Woof*
@@ -3110,7 +3110,7 @@ CN PLACEHOLDER
 つぐみ「えっ！？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э-э?!
+Э-э?!
 
 武「ええっ？」%K%P
 What?
@@ -3145,7 +3145,7 @@ CN PLACEHOLDER
 追想障害：Ｅｒｉｎｎｅｒｕｎｇｓｓｔｒöｒｕｎｇ%T030%K%N
 Memory impairment: Erinnerungsstörung
 CN PLACEHOLDER
-Erinnerungsstörung – Потеря памяти
+Erinnerungsstörung – потеря памяти
 
 健忘（Ａｍｎｅｓｉａ）：%T030%K%N
 Amnesia:
@@ -3175,12 +3175,12 @@ CN PLACEHOLDER
 器質的病変に基づく健忘を器質健忘というのに対して、心因に基づくものを心因健忘といい、全般健忘（全生活史健忘）が代表的なものである。%T030%K%N
 Amnesia caused by inherent mental factors is referred to as “organic amnesia”, while that induced by psychological stress is typically known as “psychogenic amnesia”, with “hysterical amnesia” being the most typical example.
 CN PLACEHOLDER
-Амнезия, вызванная биологическими факторами, рассматривается как «органическая», тогда как вызванная психологическим стрессом называется «психогенной» или «истерической» амнезией.
+Амнезия, вызванная физическими повреждениями мозга, рассматривается как «органическая», тогда как вызванная психогенными факторами называется «диссоциативной» амнезией. Её примером является «автобиографическая» амнезия.
 
 これは社会的事実についての知識はよく保たれていながら、名前・生いたち・家族や友人のことなど自分の全生活史にわたるすべてを想起できない状態であり……%T030%K%N
 This is an affliction in which the victim often cannot recall knowledge relating to his or her personal history, such as one's name, history, family, or friends...%T030%K%O
 CN PLACEHOLDER
-Этот вид отличается тем, что больной часто не может вспомнить вещи, относящиеся непосредственно к его или её личной жизни, например: имя, семью или друзей...
+Этот вид отличается тем, что больной часто не может вспомнить вещи, относящиеся непосредственно к его или её личной жизни, например имя, семью или друзей...
 
 耐えがたい体験や事件の直後にこれから逃れたい、思い出したくない、抑圧したいという無意識的欲求のもとに発生してくる。%K%O
 And is often a reaction to incidents too hard to endure: those which incite an unconscious desire to escape, forget, or repress those experiences or events.
@@ -3210,12 +3210,12 @@ CN PLACEHOLDER
 数日〜１、２ヶ月のうちに自然にあるいは催眠療法や電撃療法で回復してくる。%T030%K%N
 Normally, in a few days or months, or with the help of hypnosis or shock therapy, the memories should return.
 CN PLACEHOLDER
-Обычно через несколько дней или месяцев, с помощью гипноза или шоковой терапии, воспоминания должны вернуться.
+Обычно через несколько дней или месяцев, с помощью гипноза или шоковой терапии, воспоминания возвращаются.
 
 全般健忘は逆向健忘が全生活史に及んだものといえ、回復するのも古いほうから新しいほうへ段々もどってくるのが原則で精神療法、催眠、麻酔分析などで治療する。%K%O
 Complete amnesia can be spurred by retrograde life amnesia. Memories are usually restored gradually, beginning with older ones, and treatment methods include psychiatric care and hypnosis, both narcotic and naturally induced.
 CN PLACEHOLDER
-Полная амнезия может быть вызвана ретроградной амнезией. Обычно память начинает восстанавливаться с самых ранних воспоминаний при лечении различными психиатрическими методами и гипнозом, будь то наркотическим или естественным.
+Генерализованную амнезию можно рассматривать как ретроградную амнезию, распространившуюся на всю жизненную историю.%K%NВосстановление памяти происходит по принципу постепенного возвращения – от более ранних воспоминаний к более поздним. Для лечения применяются психотерапия, гипноз и наркоанализ.
 
 武「記憶喪失か？」%K%P
 Amnesia?
@@ -3285,7 +3285,7 @@ CN PLACEHOLDER
 ココは犬のピピと、ジャンケンをしていた……。%K%P
 Coco was playing rock, paper, scissors with her dog, Pipi...
 CN PLACEHOLDER
-А Коко тем временем играет в «камень-ножницы-бумагу» со своим пёсиком Пипи...
+А Коко тем временем играет в «камень-ножницы-бумага» со своим пёсиком Пипи...
 
 俺達は近くの売店のある部屋へと移動した。%K%P
 We moved to a room with a kiosk in it.
@@ -3415,7 +3415,7 @@ CN PLACEHOLDER
 優は少年のそばで、いろいろと言葉をかけている。%K%P
 You was next to the kid and chatting with him.
 CN PLACEHOLDER
-Ю стоит рядом с малым и пытается его разговорить.
+Ю стоит рядом с тем малым и пытается его разговорить.
 
 少年は時々笑ったり、力なく首を振ったりした。%K%P
 Sometimes, he would laugh or shake his head weakly.
@@ -3550,12 +3550,12 @@ CN PLACEHOLDER
 インゼル・ヌル昇降用エレベーターの非常用電源が作動、全館に退館勧告。職員、入園者の迅速な避難が行なわれた。%T030%K%N
 The Insel Null elevator shifted to its emergency power source, and an evacuation order was issued for the entire complex. Employees and visitors evacuated the premises.
 CN PLACEHOLDER
-Лифт на Инсель Нуль переключился на аварийное питание, и во всём сооружении была объявлена эвакуация. Персонал и посетители были задержаны в барокамерах для проведения декомпрессии.
+Лифт на Инсель Нуль переключился на аварийное питание, а во всём сооружении была объявлена эвакуация. Персонал и посетители были задержаны в барокамерах для проведения декомпрессии.
 
 この際、パニックに陥った何者かが、混雑する加減圧室を通らずに、外界への緊急通路を開き、外に出た（この人物は減圧症により、重体になったと思われる）。%T030%K%N
 At this point, some people panicked and opened the emergency corridor to the outside in their confusion without going through decompression. It is highly probable that they are experiencing serious decompression sickness at this moment.%T030%K%O
 CN PLACEHOLDER
-В этот момент кто-то из людей запаниковал и по ошибке открыл аварийный коридор, ведущий на поверхность, без выполнения декомпрессии. Очевидно, что тогда посетители испытали на себе все прелести кессонной болезни.
+В этот момент кто-то запаниковал и по ошибке открыл аварийный коридор, ведущий на поверхность, без выполнения декомпрессии. Вероятно, этот человек прочувствовал на себе кесонную болезнь.
 
 この緊急通路は開放されたまま、数分間放置された。%K%O
 The emergency corridor to the outside was left open for several minutes.
@@ -3580,7 +3580,7 @@ CN PLACEHOLDER
 ヘリウムガスは、酸素・窒素よりも軽い為、先に放出されたらしい。%T030%K%N
 Apparently helium, which is lighter than oxygen or nitrogen, leaked out first.%K%O
 CN PLACEHOLDER
-Первым, так как имеет меньшую чем кислород и азот плотность, вышел гелий.
+Первым, так как имеет меньшую, чем кислород и азот, плотность, вышел гелий.
 
 そして、内部気圧が外と同じ１気圧にまで低下した。%K%O
 Air pressure in the complex dropped to one atmosphere, the same as the level outside.
@@ -3735,7 +3735,7 @@ CN PLACEHOLDER
 武「ああ、そうか……すまん」%K%P
 Yeah, you're right... Sorry.
 CN PLACEHOLDER
-А-а-а, понял... извини.
+А-а-а, понял... Извини.
 
 優「謝るこたぁないって。ま、どーぞどーぞ」%K%P
 There's no need to apologize. Here you go.
@@ -3805,7 +3805,7 @@ CN PLACEHOLDER
 （愉快な奴だな、まったく……）%K%P
 (Geez, she's a funny one...)
 CN PLACEHOLDER
-(Боже мой, а ведь она забавная...)
+(Блин, а она забавная...)
 
 思わず笑みがこぼれる。%K%P
 I laughed without thinking.
@@ -3845,7 +3845,7 @@ CN PLACEHOLDER
 武「実際、救助が来るまでずっとボケーっとしてるわけにもいかないよなぁ……な？」%K%P
 We can't just sit on our butts doing nothing. Right?
 CN PLACEHOLDER
-Мы же не можем бездельничать и тупо просиживать зад. Верно?
+Мы же не можем бездельничать и тупо просиживать зад, ведь так?
 
 俺はそれとなく、つぐみに話しかけてみた。%K%P
 I casually tried to strike up a conversation with Tsugumi.
@@ -3896,7 +3896,7 @@ CN PLACEHOLDER
 呆れられたようだ……。%K%P
 She seemed exasperated...
 CN PLACEHOLDER
-Похоже, что она извелась...
+Похоже, в её глазах я выгляжу идиотом...
 
 期待して欲しいわけじゃないが、その態度はなんだか悔しかった。%K%P
 I didn't want her to expect anything from me, but her attitude was frustrating.
@@ -3956,12 +3956,12 @@ CN PLACEHOLDER
 武「いや、このまま時間を浪費していても仕方ないだろ？」%K%P
 We're not gonna accomplish anything just spending time like this, right?
 CN PLACEHOLDER
-Мы ведь не собираемся вечно сидеть сложа руки, так?
+Мы же не собираемся вечно сидеть сложа руки?
 
 武「みんなで手分けして、少し館内をまわったほうがいいんじゃないかと思うんだけど……」%K%P
 So I just thought, why don't we all split up and look around the complex?
 CN PLACEHOLDER
-Так что я подумал... а почему бы не разделиться и не осмотреть сооружение?
+Так что я подумал... А почему бы не разделиться и не осмотреть сооружение?
 
 空「何故です？　じっとしていたほうが安全ではないですか？」%K%P
 Why? Don't you think that staying in one place would be safer?
@@ -4026,7 +4026,7 @@ CN PLACEHOLDER
 優「あー、なるほどね」%K%P
 Oh, I see.
 CN PLACEHOLDER
-Ой, я поняла.
+О, я поняла.
 
 優が手をぽんと打った。%K%P
 You clapped her hands together.
@@ -4046,7 +4046,7 @@ CN PLACEHOLDER
 空「ええ……そうですね。確かに……ああっ、でも皆さんに危険が……」%K%P
 Yes... I suppose it would. But there are still dangers...
 CN PLACEHOLDER
-Да... полагаю, вы правы. Но... неизвестно, что может случиться...
+Да... полагаю, вы правы. Но неизвестно, что может случиться...
 
 空は迷っているようだ。%K%P
 It seemed that Sora was unsure.
@@ -4076,7 +4076,7 @@ CN PLACEHOLDER
 つぐみ「手分けして、様子を見るんでしょ？」%K%P
 We're going to split up and check things out, right?
 CN PLACEHOLDER
-Мы же собираемся разделиться и обследовать здешние закутки, верно?
+Мы же собираемся разделиться и всё тут осмотреть, так?
 
 つぐみはすぐ素面に戻る。%K%P
 Tsugumi's expression was blank again.
@@ -4231,7 +4231,7 @@ CN PLACEHOLDER
 水圧は僅かな亀裂も見逃さずに襲いかかってくるだろう。%K%P
 I figured that the water pressure would send water spurting through any crack it could find.
 CN PLACEHOLDER
-Что вода под давлением проскочит даже в самую мелкую щелочку.
+Что вода под давлением проскочит даже в самую мелкую щёлочку.
 
 また、俺達以外にも、取り残されている人がいるかもしれない。%K%P
 Also, I thought there might be other people who had been left behind.
@@ -4241,7 +4241,7 @@ CN PLACEHOLDER
 空によれば、システムは館内残存人数を『６』とはじき出したそうだが、この数字が正しいという保証は、今のところなかった。%K%P
 According to Sora, the system had told her that there were six people in the complex. Still, there was no guarantee that was right.
 CN PLACEHOLDER
-Система сказала Соре, что в сооружении шесть человек. И всё же не было никакой гарантии, что электроника не даёт сбой.
+Система сказала Соре, что в сооружении шесть человек. И всё же не было никаких гарантий, что электроника не даёт сбой.
 
 もしも誰かを見つけられれば、この閉塞状況も変わるのではないだろうか。%K%P
 I thought that if we found somebody else, it might change our situation.
@@ -4426,7 +4426,7 @@ CN PLACEHOLDER
 空「あっ、本当ですね……。何故でしょうか……」%K%P
 Oh my. You're right... I wonder what it could be...
 CN PLACEHOLDER
-Боже мой. Ты прав... Что же это значит?..
+Боже. Ты прав... Что же это значит?..
 
 空がコンソールをいじったが、モニターの表示は不安定なままだ。%K%P
 Sora fiddled with the console, but the numbers on the monitor continued to fluctuate.
@@ -4567,7 +4567,7 @@ CN PLACEHOLDER
 俺達は連れ立って、上階への長い非常階段を登る。%K%P
 We climbed to the top of the long emergency stairs together.
 CN PLACEHOLDER
-Мы вместе забрались на верх длинной аварийной лестницы.
+Мы вместе забрались вверх по длинной аварийной лестнице.
 
 結局３階には、人間は他に誰もいなかった。%K%P
 In the end, we didn't find anybody else on the third floor.

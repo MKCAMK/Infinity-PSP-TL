@@ -96,7 +96,7 @@ CN PLACEHOLDER
 武「ったく仕方ないな。俺のと替えてやるよ。ほら」%K%P
 Geez. I'll give you mine. Here.
 CN PLACEHOLDER
-Боже мой. Ладно, давай поменяемся. Держи.
+Блин. Ладно, давай поменяемся. Держи.
 
 コーラの缶を交換する。%K%P
 I switched cans with him.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 優「その缶、ＬｅＭＵの特殊ガスの気圧に合わせて、６気圧で封入してあるんだから」%K%P
 These cans contain special gas so that they can be used at six atmospheres.
 CN PLACEHOLDER
-Эти банки содержат газировку, заполненную при 6 атмосферах.
+Эти банки были запаяны при 6 атмосферах специально для нахождения в LeMU.
 
 優「『缶飲料の持込・持ち帰りは厳禁です』って、入場するときに聞かなかったの？」%K%P
 Weren't you listening when they said that the bringing in and taking home of canned beverages was strictly prohibited?
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 今はフロアは１気圧になっているが、缶の中は高圧のまま……その気圧差で、コーラが噴き出したわけだ。%K%P
 Since the floor's pressure had lowered to one atmosphere and the gas in the cans was still highly pressurized, the gap in pressure with the surrounding atmosphere made them burst when opened.
 CN PLACEHOLDER
-Сейчас же оно стало в 1 атмосферу, а газ в банке по-прежнему под высоким давлением. Вот и получается, что из-за разницы в давлении она взрывается при открытии.
+Сейчас же оно равно 1 атмосфере, а газ в банке по-прежнему под высоким давлением. Вот и получается, что из-за разницы в давлении она взрывается при открытии.
 
 少年「ぼくも知らなかったよ」%K%P
 I didn't know that.
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 少年は近くにあったタオルで顔を拭いた。%K%P
 The Kid wiped his face with a nearby towel.
 CN PLACEHOLDER
-Малой вытер лицо, полотенцем, что нашёл неподалёку.
+Малой вытер лицо полотенцем, что нашёл неподалёку.
 
 武「……つーか少年、お前が知らないのは当然だろ」%K%P
 ...Hey, Kid. No one would expect you to know that.
@@ -226,7 +226,7 @@ CN PLACEHOLDER
 武「ほら、コーラ飲まないか？」%K%P
 Hey, aren't you going to drink your cola?
 CN PLACEHOLDER
-Эй, разве ты не хочешь выпить свою колу?
+Эй, ты разве не хочешь колу?
 
 俺はココの前に、コーラの缶を差し出した。%K%P
 I held out a can of cola in front of Coco.
@@ -421,12 +421,12 @@ CN PLACEHOLDER
 空「？」%K%P
 .........
 CN PLACEHOLDER
-.........
+...
 
 優「？」%K%P
 .........
 CN PLACEHOLDER
-.........
+...
 
 武「ほんとに、減圧症なのか？」%K%P
 Is it really decompression sickness?
@@ -466,7 +466,7 @@ CN PLACEHOLDER
 武「だけど……これは……減圧症の症状とは、違うんじゃないのか？」%K%P
 It's just... you know... Aren't the symptoms different?
 CN PLACEHOLDER
-Просто... знаете ли... разве симптомы не отличаются?
+Просто... знаете... разве симптомы не отличаются?
 
 空「倉成さんは、医学の知識をお持ちなのですか？」%K%P
 Do you have any specialized knowledge about medical matters, Kuranari-san?
@@ -486,12 +486,12 @@ CN PLACEHOLDER
 優と空は首を傾げている。%K%P
 You and Sora tilted their heads curiously.
 CN PLACEHOLDER
-Ю и Сора с любопытством стали на меня коситься.
+Ю и Сора непонимающе наклонили головы.
 
 少年は不安そうな顔で、ピピを抱きしめていた。%K%P
 The Kid, his face anxious, was holding Pipi.
 CN PLACEHOLDER
-Малой с озабоченным выражением лица держит Пипи.
+Малой с с тревогой на лице держит Пипи.
 
 ココはぐったりとしていて、立っているのもやっとと言った感じだ。%K%P
 Coco was clearly exhausted, and it looked hard for her to stand.
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 空「検証と修理に、それなりの手間と時間を要してしまいます」%K%P
 Discovering the problem and repairing it would take time and energy.
 CN PLACEHOLDER
-Чтобы починить его, потребуется много времени и энергии.
+Чтобы починить её, потребуется много времени и энергии.
 
 優「そうなんだ……」%K%P
 Oh, really...
@@ -611,7 +611,7 @@ CN PLACEHOLDER
 武「はぁ、はぁ……着いたか。……よし、上にあがるぞ」%K%P
 Whew! We made it. Let's get her up there.
 CN PLACEHOLDER
-Ура! Мы пришли. Теперь давайте её поднимем.
+Фух... Мы пришли. Теперь давайте её поднимем.
 
 空「いえ、倉成さん。そのまま、そこにある部屋に入ってください」%K%P
 No, Kuranari-san. Please go ahead into that room there.
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 武「その再加圧とかいうやつを、ここで？」%K%P
 So this, uh, recompression thing, we can do it here?
 CN PLACEHOLDER
-Значит, эта, э-э-э, рекомпрессия проводится здесь?
+Значит, эта, э-э, рекомпрессия проводится здесь?
 
 空「はい」%K%P
 Yes, that is correct.
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 武「？？」%K%P
 ?
 CN PLACEHOLDER
-??
+?
 
 俺は首を傾げた。%K%P
 I tilted my head, confused.
@@ -751,7 +751,7 @@ CN PLACEHOLDER
 空「ガスは気泡となって、筋組織や静脈中などに留まります。ガスが体内に多く残っていると、酸素呼吸効率が著しく低下します」%K%P
 Gas becomes air bubbles, and these gather in tissues or veins. When gas bubbles remain inside the body, the oxygen respiration efficiency drops dramatically.
 CN PLACEHOLDER
-Газ превращается в воздушные пузыри, а затем происходит их скопление в тканях или венах. Пока пузыри остаются внутри тела, циркуляция кислорода трагически падает.
+Газ превращается в воздушные пузыри, а затем происходит их скопление в тканях или венах. Пока пузыри остаются внутри тела, циркуляция кислорода резко падает.
 
 武「ふーん。……っておい、どんなに深呼吸しても窒息したみたいに苦しくなるってことか？」%K%P
 So... No matter how many deep breaths you take, it feels like you're suffocating?
@@ -811,17 +811,17 @@ CN PLACEHOLDER
 空「あっ、倉成さん……苦しくないですか？」%K%P
 Oh, Kuranari-san, are you in pain at all?
 CN PLACEHOLDER
-Куранари-сан, тебя мучат боли?
+Куранари-сан, у тебя ничего не болит?
 
 武「え、俺？　ちょっと筋肉痛っぽくて、身体がダルいけど……」%K%P
 Huh, me? My muscles feel kinda sore, and I'm a bit sluggish, but...
 CN PLACEHOLDER
-Чего, меня? Да так, мускулы побаливают и чувствую себя как-то вяло, но...
+Чего, у меня? Да так, мышцы побаливают, и чувствую себя как-то вяло, но...
 
 優「ねぇ、倉成も部屋に入ったほうがいいんじゃない？」%K%P
 Hey, Kuranari, don't you think you should probably go in the room too?
 CN PLACEHOLDER
-Слушай, Куранари, может тебе тоже стоит прилечь в этой комнате?
+Слушай, Куранари, может, тебе тоже стоит прилечь в этой комнате?
 
 優「軽い減圧症は、すぐに自覚症状が現れるわけじゃないの。ひと晩ふた晩経ってから痛み出すこともあるのよ」%K%P
 In light cases of decompression sickness, you aren't necessarily aware of it immediately.
@@ -861,7 +861,7 @@ CN PLACEHOLDER
 やっぱり、狭い……。%K%P
 It was cramped...
 CN PLACEHOLDER
-В жуткой теснотище.
+Тут было до ужаса тесно...
 
 まるでおしくらまんじゅうのようで動けなかった。%K%P
 We were like sardines in a can. There was nowhere to move.
@@ -876,7 +876,7 @@ CN PLACEHOLDER
 ＰＤＡを取り出し、確認してみる。%K%P
 I took out my PDA and checked.
 CN PLACEHOLDER
-Я вытащил свой многострадальный КПК.
+Я вытащил свой КПК.
 
 ２３時５４分……。%K%P
 11:54 p.m....
@@ -886,7 +886,7 @@ CN PLACEHOLDER
 少し眠くなってきた。%K%P
 I was sleepy.
 CN PLACEHOLDER
-Клонит ко сну.
+Клонит в сон.
 
 ココはすやすやと寝息を立て始めている。体調は快復に向かっているらしい。%K%P
 Coco was sleeping, and her breathing was relaxed. It looked like she was doing better.
@@ -926,12 +926,12 @@ CN PLACEHOLDER
 空「ああ、それと……皆さん、再圧のときには耳の音声変換機を一旦外してください」%K%P
 Oh, also... Everyone, please remove your voice converters during the repressurization process.
 CN PLACEHOLDER
-Да, кстати... все, пожалуйста выньте свои модификаторы голоса на время проведения процедуры рекомпрессии.
+Да, кстати... Пожалуйста, выньте свои модификаторы голоса на время проведения процедуры рекомпрессии.
 
 空「それは鼓膜を気圧差から保護する役割がありますが……再圧中は邪魔になってしまいますから」%K%P
 They are designed to protect your eardrums from the change in air pressure; however, during pressurization, they can interfere.
 CN PLACEHOLDER
-Они разработаны для защиты барабанных перепонок от изменений в давлении воздуха... тем не менее, во время рекомпрессии они могут создать неудобства.
+Они разработаны для защиты барабанных перепонок от изменений в давлении воздуха... Тем не менее, во время рекомпрессии они могут создать неудобства.
 
 もうすっかり耳の穴に馴染みきっていたイヤホンを外して、今は手に持っている。%K%P
 I removed the earphones that I had become completely used to and held them in my hand.
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 つぐみはどこに行ってしまったんだろう？%K%P
 Where the heck did Tsugumi go, anyway?
 CN PLACEHOLDER
-Чёрт возьми, куда в конце концов ушла Цугуми?
+Чёрт возьми, и куда это ушла Цугуми?
 
 この部屋のハッチを閉じる直前に、あいつは突然言い出した。%K%P
 Just before the hatch was closed, she had suddenly started talking.
@@ -976,7 +976,7 @@ CN PLACEHOLDER
 つぐみ「あっ……」%K%P
 Uh...
 CN PLACEHOLDER
-Э-э...
+А-а...
 
 つぐみ「それじゃ、私は行くから」%K%P
 I'm leaving.
@@ -991,7 +991,7 @@ CN PLACEHOLDER
 つぐみ「急に……行くところができたのよ」%K%P
 There... is a place that I just realized I need to go to.
 CN PLACEHOLDER
-Есть... место, куда мне необходимо сходить.
+Есть... место, куда мне надо сходить.
 
 武「だからどこだよそれは。それより今は治療をっ」%K%P
 Where? Treatment is more urgent than that.
@@ -1116,7 +1116,7 @@ CN PLACEHOLDER
 見届けようと思った。%K%P
 I thought that I'd follow up on it later.
 CN PLACEHOLDER
-Наверное, я вскоре поговорю с ней об этом.
+Наверное, позже я поговорю с ней об этом.
 
 だが、まぶたはどんどん重くなる。%K%P
 Even as I thought that, my eyelids got heavier and heavier.
@@ -1126,12 +1126,12 @@ CN PLACEHOLDER
 （やっぱりココは別の病気なのでは？）%K%P
 (Maybe Coco has some other illness after all?)
 CN PLACEHOLDER
-Точно, может, Коко действительно больна чем-то ещё.
+(Может, Коко действительно больна чем-то ещё?)
 
 ふと、疑問が込み上げてくる。%K%P
 I couldn't help that doubt from floating around my head.
 CN PLACEHOLDER
-Это сомнение продолжает нарезать круги в моей голове.
+И снова этот вопрос резко выстрелил в моей голове.
 
 俺はココの顔をのぞき込んだ。%K%P
 I stole a glance at Coco's face.
@@ -1141,12 +1141,12 @@ CN PLACEHOLDER
 安らかな寝顔だ……。%K%P
 She looked so calm while sleeping...
 CN PLACEHOLDER
-Во время сна она выглядит такой спокойной...
+Она выглядит такой спокойной, пока спит...
 
 再加圧を始めてから２時間――病状が快復しているということは、空の指摘した通り、ココはただの減圧症だったということになる。%K%P
 Two hours since we started repressurization—she was recovering well, just as Sora had said she would. It must've just been the bends after all.
 CN PLACEHOLDER
-Два часа с того момента, как мы начали рекомпрессию – она поправляется, прямо как сказала Сора. Видимо, это всё-таки тромбы.
+Прошло два часа с начала рекомпрессии – она поправляется, прямо как сказала Сора. Видимо, это всё-таки тромбы.
 
 つまり、俺の思い違いだったわけで……。%K%P
 That is, I had it wrong all along...
@@ -1206,7 +1206,7 @@ CN PLACEHOLDER
 （今日は……劇的な一日だった……な……）%K%P
 (Today... really was... an eventful day...)
 CN PLACEHOLDER
-(Сегодня... был действительно... день полный событий...)
+(Сегодня... был действительно... день, полный событий...)
 
 そのまま、俺は眠りの中へと落ちていった。%K%P
 With that, I fell asleep.
@@ -1321,7 +1321,7 @@ CN PLACEHOLDER
 武「はぁ、はぁ……着いたか。……よし、上にあがるぞ」%K%P
 Whew! We made it. Let's get her up there.
 CN PLACEHOLDER
-Ура! Мы пришли. Теперь давайте её поднимем.
+Фух... Мы пришли. Теперь давайте её поднимем.
 
 空「いえ、倉成さん。そのまま、そこにある部屋に入ってください」%K%P
 No, Kuranari-san. Please go ahead into that room there.
@@ -1356,7 +1356,7 @@ CN PLACEHOLDER
 少年とつぐみは、俺の隣で様子を見ていた。%K%P
 Tsugumi and the Kid stood next to me and looked down at Coco.
 CN PLACEHOLDER
-Малой и Цугуми наблюдают за ней из-за моих плеч.
+Цугуми и Малой стоят рядом и наблюдают за ней.
 
 武「ところで優、こんな狭い部屋で何をするんだ？　診察するには不便だろ？」%K%P
 So, You, what are you gonna do in this tiny room? Isn't it a little cramped for examining her?
@@ -1406,7 +1406,7 @@ CN PLACEHOLDER
 空「ガスは気泡となって、筋組織や静脈中などに留まります。ガスが体内に多く残っていると、酸素呼吸効率が著しく低下します」%K%P
 Gas becomes air bubbles, and these gather in tissues or veins. When gas bubbles remain inside the body, the oxygen respiration efficiency drops dramatically.
 CN PLACEHOLDER
-Газ превращается в воздушные пузыри, а затем происходит их скопление в тканях или венах. Пока пузыри остаются внутри тела, циркуляция кислорода трагически падает.
+Газ превращается в воздушные пузыри, а затем происходит их скопление в тканях или венах. Пока пузыри остаются внутри тела, циркуляция кислорода резко падает.
 
 武「ふーん。……っておい、どんなに深呼吸しても窒息したみたいに苦しくなるってことか？」%K%P
 So... no matter how many deep breaths you take, it feels like you're suffocating?
@@ -1466,12 +1466,12 @@ CN PLACEHOLDER
 空「あっ、倉成さん……苦しくないですか？」%K%P
 Oh, Kuranari-san, are you in pain at all?
 CN PLACEHOLDER
-Куранари-сан, тебя мучат боли?
+Куранари-сан, у тебя ничего не болит?
 
 武「え、俺？　ちょっと筋肉痛っぽい感じで、身体がダルいけど……」%K%P
 Huh, me? My muscles feel kinda sore, and I'm a bit sluggish, but...
 CN PLACEHOLDER
-Чего, меня? Да так, мускулы побаливают и чувствую себя как-то вяло, но...
+Чего, у меня? Да так, мышцы побаливают, и чувствую себя как-то вяло, но...
 
 優「ねぇ、倉成も部屋に入ったほうがいいんじゃない？」%K%P
 Hey, Kuranari, don't you think you should probably go in the room too?
@@ -1516,7 +1516,7 @@ CN PLACEHOLDER
 やっぱり、狭い……。%K%P
 It was cramped...
 CN PLACEHOLDER
-В жуткой теснотище...
+Тут было до ужаса тесно...
 
 まるでおしくらまんじゅうのようで動けなかった。%K%P
 We were like sardines in a can. There was nowhere to move.
@@ -1526,12 +1526,12 @@ CN PLACEHOLDER
 今、何時だろう……。%K%P
 I wondered what time it was...
 CN PLACEHOLDER
-Интересно, который час?
+Интересно, который час?..
 
 ＰＤＡを取り出し、確認してみる。%K%P
 I took out my PDA and checked.
 CN PLACEHOLDER
-Я вытащил свой многострадальный КПК.
+Я вытащил свой КПК.
 
 ２３時５４分……。%K%P
 11:54 p.m....
@@ -1581,12 +1581,12 @@ CN PLACEHOLDER
 空「ああ、それと……皆さん、再圧のときには耳の音声変換機を一旦外してください」%K%P
 Oh, also... Everyone, please remove your voice converters during the repressurization process.
 CN PLACEHOLDER
-Да, кстати... все, пожалуйста выньте свои модификаторы голоса на время проведения процедуры рекомпрессии.
+Да, кстати... Пожалуйста, выньте свои модификаторы голоса на время проведения процедуры рекомпрессии.
 
 空「それは鼓膜を気圧差から保護する役割がありますが……再圧中は邪魔になってしまいますから」%K%P
 They are designed to protect your eardrums from the change in air pressure; however, during pressurization, they can interfere.
 CN PLACEHOLDER
-Они разработаны для защиты барабанных перепонок от изменений в давлении воздуха... тем не менее, во время рекомпрессии они могут создать неудобства.
+Они разработаны для защиты барабанных перепонок от изменений в давлении воздуха... Тем не менее, во время рекомпрессии они могут создать неудобства.
 
 もうすっかり耳の穴に馴染みきっていたイヤホンを外して、今は手に持っている。%K%P
 I removed the earphones that I had become completely used to and held them in my hand.
@@ -1616,7 +1616,7 @@ CN PLACEHOLDER
 つぐみはどこに行ってしまったのだろう？%K%P
 Where the heck did Tsugumi go, anyway?
 CN PLACEHOLDER
-Чёрт возьми, куда в конце концов ушла Цугуми?
+Чёрт возьми, и куда это ушла Цугуми?
 
 この部屋のハッチを閉じる直前に、あいつは突然言い出した。%K%P
 Just before the hatch was closed, she had suddenly started talking.
@@ -1626,7 +1626,7 @@ CN PLACEHOLDER
 つぐみ「あっ……」%K%P
 Uh...
 CN PLACEHOLDER
-Э-э...
+А-а...
 
 つぐみ「それじゃ、私は行くから」%K%P
 I'm leaving.
@@ -1641,7 +1641,7 @@ CN PLACEHOLDER
 つぐみ「急に……行くところができたのよ」%K%P
 There... is a place that I just realized I need to go to.
 CN PLACEHOLDER
-Есть... место, куда мне необходимо сходить.
+Есть... место, куда мне мне надо сходить.
 
 武「だからどこだよそれは。それより今は治療をっ」%K%P
 Where? Treatment is more urgent than that.
@@ -1761,7 +1761,7 @@ CN PLACEHOLDER
 見届けようと思った。%K%P
 I thought that I'd follow up on it later.
 CN PLACEHOLDER
-Наверное, я вскоре поговорю с ней об этом.
+Наверное, позже я поговорю с ней об этом.
 
 だが、まぶたはどんどん重くなる。%K%P
 Even as I thought that, my eyelids got heavier and heavier.
@@ -1776,10 +1776,10 @@ CN PLACEHOLDER
 （今日は……劇的な一日だった……な）%K%P
 (Today... really was... an eventful day...)
 CN PLACEHOLDER
-(Сегодня... был действительно... день полный событий...)
+(Сегодня... был действительно... день, полный событий...)
 
 そのまま眠りの中へ落ちていった。%K%P
 And then I fell away into slumber.
 CN PLACEHOLDER
-И тут... я отключился.
+И тут я отключился.
 

@@ -846,7 +846,7 @@ CN PLACEHOLDER
 つぐみ「え、ええ……試したの」%K%P
 Well, yeah... I tested it.
 CN PLACEHOLDER
-Э-э-э?.. Н-ну да... для пробы.
+Э-э?.. Н-ну да... для пробы.
 
 虚を突かれ、つぐみはちょっと困った顔をした。%K%P
 Tsugumi's face looked troubled, as if she'd been caught at something.
@@ -2121,7 +2121,7 @@ CN PLACEHOLDER
 武「え、あ……いや……」%K%P
 Well... Yeah... No...
 CN PLACEHOLDER
-Было бы непло... э-э-э... то есть...
+Было бы непло... Э-э... то есть...
 
 つぐみ「見せてあげようか……？」%K%P
 Shall I show you...?
@@ -2216,7 +2216,7 @@ CN PLACEHOLDER
 空「ええ、はい……」%K%P
 Well, that is...
 CN PLACEHOLDER
-Э-э-э... да...
+Э-э... да...
 
 空「システムコンディションは正常です。もっとも、設備の物理的破損については改善のしようがないのですが……」%K%P
 The system is in sound condition, although there would be no way to repair any mechanical damage if it were to occur.
@@ -2251,7 +2251,7 @@ CN PLACEHOLDER
 空「ああ、ココちゃん。それはね……」%K%P
 Well, Coco-chan. It means that...
 CN PLACEHOLDER
-Э-э-э, Коко-тян... это...
+Э-э, Коко-тян... это...
 
 空「時々、私にイタズラをしようとするお客さんがいるんですよ。嘘を教えたり、意地悪をして混乱させたり……」%K%P
 You see, sometimes certain customers want to play pranks on me. They tell lies, or try to confuse me.

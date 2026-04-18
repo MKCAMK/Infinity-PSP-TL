@@ -1451,7 +1451,7 @@ CN PLACEHOLDER
 優「えーっ！　なんでよーっ」%K%P
 Huh? Why?
 CN PLACEHOLDER
-Э-э-э? Почему?
+Э-э? Почему?
 
 武「俺はともかくお前は防げるのか、同時攻撃を？」%K%P
 You think I can stop you if you all come attack at once?
@@ -2270,7 +2270,7 @@ CN PLACEHOLDER
 空「えーあー、えーっとぉ……」%K%P
 Uhhhh... I, um....
 CN PLACEHOLDER
-Э-э-э... Я, м-м...
+Э-э... Я, м-м...
 
 空「い……いらっしゃいませぇ！」%K%P
 W-Welcome... to our restaurant!
@@ -2410,7 +2410,7 @@ CN PLACEHOLDER
 空「え、ええ。はい」%K%P
 Uh, yes.
 CN PLACEHOLDER
-Э-э-э, да.
+Э-э, да.
 
 武「これ食ってからでも追いつけるから大丈夫だよ」%K%P
 Don't worry. I'll hound her out after I finish this.
@@ -2592,7 +2592,7 @@ CN PLACEHOLDER
 武「だっ？　あれっ？」%K%P
 Huh? What's...?
 CN PLACEHOLDER
-Э-э-э? Какого?..
+Э-э? Какого?..
 
 つぐみ「もう……」%K%P
 Geez...
@@ -3092,7 +3092,7 @@ CN PLACEHOLDER
 少年「えっ？　なんのこと？」%K%P
 Huh? What are you talking about?
 CN PLACEHOLDER
-Э-э-э? О чём это ты?
+Э-э? О чём это ты?
 
 武「…………」%K%P
 .........

@@ -96,7 +96,7 @@ CN PLACEHOLDER
 少年「えっ？　えっ？　きみ……誰？」%K%P
 Huh? What? Wh-Who are you?
 CN PLACEHOLDER
-;Мальчик«Э-э-э? Чего? Т-ты кто?»%K%P
+;Мальчик«Э-э? Чего? Т-ты кто?»%K%P
 
 （やれやれ……）%K%P
 (Oh, so that's it...)
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 武「アナウンスで呼び出して欲しいんだけど、名前は、えーと……」%K%P
 Could I get you to make an announcement over the intercom or something? Their names are... Uh...
 CN PLACEHOLDER
-Не могли бы вы сделать объявление через интерком или как-нибудь ещё? Их зовут... э-э-э...
+Не могли бы вы сделать объявление через интерком или как-нибудь ещё? Их зовут... Э-э...
 
 タヌキはゆっくり振り返って、彼の顔を見た。%K%P
 The tanuki slowly turned to face him.
@@ -1041,7 +1041,7 @@ CN PLACEHOLDER
 少年「えっ？　えっ？　えっ？」%K%P
 Huh? Wh-What?!
 CN PLACEHOLDER
-;Мальчик«Э-э? Э-э-э? Э-э-э?!»%K%P
+;Мальчик«Э-э? Э-э? Э-э?!»%K%P
 
 預かる？%K%P
 Take care of what?

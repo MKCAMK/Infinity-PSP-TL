@@ -951,7 +951,7 @@ CN PLACEHOLDER
 空「あの、もしかして……倉成さん、ご存じなかったんですか？」%K%P
 Uh, I guess... that you didn't know, Kuranari-san?
 CN PLACEHOLDER
-Э-э-э, видимо, Куранари-сан... ты не знал?
+Э-э, видимо, Куранари-сан... ты не знал?
 
 空は恥ずかしそうにもじもじしている。%K%P
 Sora was shuffling embarrassedly.
@@ -1291,7 +1291,7 @@ CN PLACEHOLDER
 空「ええと……すいません。私の口からは言えません。秘密なんです」%K%P
 Uh... I'm sorry, but I'm not allowed to say. It is a secret.
 CN PLACEHOLDER
-Э-э-э... мне жаль, но я не имею права об этом рассказывать. Это секрет.
+Э-э... мне жаль, но я не имею права об этом рассказывать. Это секрет.
 
 つぐみ「詳細なデータを持たされてないのね？」%K%P
 You weren't given the details?
@@ -2051,7 +2051,7 @@ CN PLACEHOLDER
 武「あ、あれっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 再び変換機を装着すると、空の姿はすぐ元通りになった。%K%P
 When I replaced the voice converters, Sora returned to normal.

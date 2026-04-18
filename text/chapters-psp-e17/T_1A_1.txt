@@ -96,7 +96,7 @@ CN PLACEHOLDER
 案内板が出ていたので、それに従って部屋を巡ることにする。%K%P
 There was a floor directory, so we decided to follow it and check the rooms listed.
 CN PLACEHOLDER
-Мы набрели на схему этажа, поэтому решили заглянуть в указанные в ней помещения.
+Мы набрели на схему этажа, поэтому решили заглянуть в указанные на ней помещения.
 
 ひらけた場所に出た。%K%P
 We came out to an open space.
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 武「あれ？　他に誰も客がいなーい！」%K%P
 Huh? There aren't any other customers here either!
 CN PLACEHOLDER
-Э-э-э? Да здесь вообще нет клиентов!
+Э-э? Да здесь вообще нет клиентов!
 
 武「景気が悪そうだなぁ、おいおい」%K%P
 Business isn't exactly booming, is it?

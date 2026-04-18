@@ -426,7 +426,7 @@ CN PLACEHOLDER
 空「えっ、本当ですか？　何か、いい方法が？」%K%P
 Yes, really? Have you come up with a good method?
 CN PLACEHOLDER
-Э-э-э... правда? Ты что-то придумала?
+Э-э... правда? Ты что-то придумала?
 
 つぐみ「そうよ。あなたも知らない、私だけが知っている方法」%K%P
 Yeah. One that you don't know. Only I know about it.
@@ -1523,7 +1523,7 @@ CN PLACEHOLDER
 武「んんっ？　おう、少年か。なんじゃい？」%K%P
 Huh? Oh, hey, Kid. What's up?
 CN PLACEHOLDER
-Э-э-э? Ох, Малой. Как дела?
+Э-э? Ох, Малой. Как дела?
 
 少年「えーと……つぐみ達との話し合いの方は？」%K%P
 Uh... How was the talk with Tsugumi and Sora?
@@ -1543,7 +1543,7 @@ CN PLACEHOLDER
 少年「え？　どういうこと？」%K%P
 Huh? What do you mean?
 CN PLACEHOLDER
-Э-э-э? То есть?
+Э-э? То есть?
 
 武「つぐみの勘違いだったんだよ。単なる、あいつの思いこみだったんだ」%K%P
 Tsugumi's got it all wrong. She doesn't know what she's talking about.

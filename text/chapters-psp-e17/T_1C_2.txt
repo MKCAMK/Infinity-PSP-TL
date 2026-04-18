@@ -26,7 +26,7 @@ CN PLACEHOLDER
 優「倉成、団体行動は時間厳守が基本なんだからね、わかってるの？」%K%P
 You know that in a group and in our situation we have to be punctual, right?
 CN PLACEHOLDER
-Ты же знаешь, что в сложившейся ситуации мы должны быть пунктуальны, так?
+Ты же знаешь, что в сложившейся ситуации мы должны быть пунктуальны?
 
 武「そんなに怒るなよ、２分くらいで」%K%P
 Don't get so mad. It's only two minutes, give or take.
@@ -126,7 +126,7 @@ CN PLACEHOLDER
 空「各フロアの間隔は１７ｍです。フロアをひとつ下りれば、１７ｍ深くなります」%K%P
 There are seventeen meters between each floor. If you go down a floor, then you go seventeen meters deeper.
 CN PLACEHOLDER
-Все этажи расположены на расстоянии примерно 17 метров между собой. Когда вы спускаетесь на этаж, то фактически погружаетесь ещё на 17 метров.
+Все этажи расположены на расстоянии примерно 17 метров друг от друга. Когда вы спускаетесь на этаж, то фактически погружаетесь ещё на 17 метров.
 
 空「従って３階――ドリットシュトックは、水深５１ｍの位置に沈んでいることになりますね」%K%P
 Thus, the third floor, Dritter Stock, is 51 meters deep.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 武「あ、質問」%K%P
 Uh, I've got a question.
 CN PLACEHOLDER
-Э-э-э, у меня вопрос.
+Э-э, у меня вопрос.
 
 空「どうぞ……」%K%P
 Go ahead...
@@ -401,7 +401,7 @@ CN PLACEHOLDER
 空「すべてのケーブル通信、電波通信、ネットワーク接続の機能は、物理的断線や施設の浸水、故障によって使用不能」%K%P
 All cable, radio, and network functions are down due to malfunctions, physically severed cables, or flooding.
 CN PLACEHOLDER
-Вся кабельная, радио и сетевая связь не работает из-за оборванных проводов и затопления.
+Вся кабельная, радио- и сетевая связь не работает из-за оборванных проводов и затопления.
 
 空「これらの回復の見込みは、今後もありません」%K%P
 I cannot provide an estimation of when we will be in touch with the outside.
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 武「はぁ、俺はそろそろ降参だ。おい少年、替わってくれ」%K%P
 Well, I'll just have to admit defeat. Kid, you wanna take my place?
 CN PLACEHOLDER
-Ладно, признаю своё поражение. Малой, может займёшь моё место?
+Ладно, признаю своё поражение. Малой, может, займёшь моё место?
 
 少年「えっ、ぼくが？」%K%P
 Me?
@@ -631,7 +631,7 @@ CN PLACEHOLDER
 武「さて、では輝け第１回、チャンピオンピピｖｓ．チャレンジャー少年の顔面ファイトを……」%K%P
 And now, in their first contest, we have the champion Pipi versus the challenger, The Kid, facing off in a face fight...
 CN PLACEHOLDER
-А сейчас, первый раунд состязания чемпиона Пипи против претендента, малого, в схватке лицом к лицу...
+А сейчас – первый раунд состязания чемпиона Пипи против претендента, малого, в схватке лицом к лицу...
 
 武「えー、始めたいと思いますがその前に」%K%P
 I want to get underway, but first...
@@ -706,7 +706,7 @@ CN PLACEHOLDER
 ココ「少ちゃん、またの名を――」%K%P
 Kiddo's other name could be...
 CN PLACEHOLDER
-Та-а-а-ак, и какое же имя может быть?..
+Та-а-а-ак, и какое же имя ему дать?..
 
 ココ「ぱぶろ・でぃえご・ほせ・ふらんしすこ・で・ぱうら・ふあん・ねぽむせの・まりあ・で・ろす・れめでぃおす――」%K%P
 Pablo Diego Jose Francisco de Hora Juan Novecino Maria de Los Remedios...
@@ -741,12 +741,12 @@ CN PLACEHOLDER
 武「例の着ぐるみにちなんで貴様を『油揚げみゅー吾』と命名する！」%K%P
 In honor of the mascot, I name you 'Earl Myun of Hamburger'!
 CN PLACEHOLDER
-В честь талисмана я нарекаю тебя сэр Эрл Мюн Гамбургерский!
+В честь талисмана я нарекаю тебя „Абурагэ Мюмунскэ“!
 
 武「例の着ぐるみにちなんで、貴様を『タヌ吉ポン太郎』と命名する！」%K%P
 In honor of the mascot, I name you 'John Raccoon Dog Smith'!
 CN PLACEHOLDER
-В честь талисмана я нарекаю тебя сэр Джон Енотовидная Собака Смит!
+В честь талисмана я нарекаю тебя „Тануки Таро“!
 
 少年「…………」%K%P
 ...
@@ -846,7 +846,7 @@ CN PLACEHOLDER
 優「下？　……下のフロアで何かあったのかな？」%K%P
 Below? I wonder if something happened below?
 CN PLACEHOLDER
-Снизу? Я волнуюсь, что там происходит?
+Снизу? Что же там происходит?
 
 空「ちょっと調べてみます」%K%P
 I will try to investigate.
@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 ぴっぽこぴー、と間の抜けた音を立てながら、お腹を押すと鳴くぬいぐるみが転がる。%K%P
 A stuffed animal made a beeping noise as it fell on its stomach.
 CN PLACEHOLDER
-Плюшевые игрушки попадали на живот, издавая писк.
+Плюшевые игрушки попадали на животы, издавая писк.
 
 俺達はひたすらに足を踏ん張って耐える。%K%P
 We all steadied ourselves against the shaking.
@@ -1086,7 +1086,7 @@ LeMU не может откачать всю эту воду?
 空「できないようです」%K%P
 It appears not.
 CN PLACEHOLDER
-Видимо нет.
+Видимо, нет.
 
 空「大きな浸水箇所は隔壁で遮断したのですが、細かいダクト等を通して、今もこの区画に少しずつ、水が流れ込み続けています」%K%P
 All major areas where leaking has occurred have been closed off by shutting a partition; however, water is continuing to flow in through small ducts even now.
@@ -1156,7 +1156,7 @@ CN PLACEHOLDER
 武「まぁ、俺達もさっきの見回りで、原因を見落としてたかもしれないし……。それをお互いさまって言っていいかどうか微妙だけど」%K%P
 We may have even overlooked the cause of this when we were checking around a little bit ago... We're in this together.
 CN PLACEHOLDER
-Мы могли проглядеть причину, когда делали обход... Мы все в одной лодке.
+Мы тоже могли проглядеть причину, когда делали обход... Хотя не уверен, что виноваты мы одинаково.
 
 武「今はみんな無事なんだから、良しとしようや」%K%P
 Everyone is fine, so let's just consider ourselves lucky.
@@ -1196,7 +1196,7 @@ CN PLACEHOLDER
 武「俺達がさっきの見回りで、原因を見落としてたせいかもしれないし……」%K%P
 We may have even overlooked the cause of this when we were checking around a little bit ago... We're in this together.
 CN PLACEHOLDER
-Мы могли проглядеть причину, когда делали обход... Мы все в одной лодке.
+Мы могли проглядеть причину, когда делали обход...
 
 空「いいえ、そんなことはありません！」%K%P
 Not at all!
@@ -1231,7 +1231,7 @@ CN PLACEHOLDER
 空はうつむいて黙々と、作業を続ける。%K%P
 With her head bowed in silence, Sora kept working.
 CN PLACEHOLDER
-В тишине Сора продолжает работать с опущенной головой.
+Сора, опустив голову, молча продолжила работу.
 
 やがて、キーボードを打つ手が止まった。%K%P
 Finally, her hands stopped typing on the keyboard.
@@ -1256,7 +1256,7 @@ CN PLACEHOLDER
 優「空ぁ、そんな風に言われると逆に身構えちゃうよ」%K%P
 Sora, when you say it like that, it makes us nervous.
 CN PLACEHOLDER
-Сора, каждый раз, когда ты так говоришь, я начинаю нервничать.
+Сора... Каждый раз, когда ты так говоришь, я начинаю нервничать.
 
 空「ああっ、すみません……」%K%P
 Oh, I'm sorry...
@@ -1346,7 +1346,7 @@ CN PLACEHOLDER
 空「このマップの中心に表示されているのが、私達のいる第８区画です」%K%P
 The area displayed in the center of this map is Sector Eight, where we are.
 CN PLACEHOLDER
-Зона, расположенная в центре карты является Сектором 8. Сейчас мы находимся в нём.
+Зона, расположенная в центре карты, является Сектором 8. Сейчас мы находимся в нём.
 
 少年「あれ？　地図にはおおまかにふたつに分かれた場所が示されてるみたいだけど、もうひとつの区画は？」%K%P
 Huh? It looks like the map is displaying roughly two areas, but where's the third sector?
@@ -1356,7 +1356,7 @@ CN PLACEHOLDER
 空「実は、システムの不備のせいで詳細なマップ表示ができていませんが……」%K%P
 Actually, due to a flaw in the system, a detailed map cannot be displayed...
 CN PLACEHOLDER
-Из-за сбоев в системе, невозможно отобразить полную карту...
+Из-за сбоев в системе невозможно отобразить полную карту...
 
 空「この第８区画の対角線上にある、第４区画の一部も健在なのです。しかし」%K%P
 One part of Sector Four, diagonally above Sector Eight, is stable.
@@ -1391,7 +1391,7 @@ CN PLACEHOLDER
 空「無呼吸状態で１００ｍ泳ぎ続けるような能力をお持ちになっている方は、この中にはいらっしゃらないでしょう？」%K%P
 I don't think there is anyone among you that is capable of swimming 100 meters without breathing.
 CN PLACEHOLDER
-Я не думаю, что среди вас есть люди, способные проплыть 100 метров без единого вдоха.
+Я не думаю, что среди вас есть те, кто способен проплыть 100 метров без единого вдоха.
 
 空「ゆえに、不可能なのです」%K%P
 Therefore, I say it is impossible.

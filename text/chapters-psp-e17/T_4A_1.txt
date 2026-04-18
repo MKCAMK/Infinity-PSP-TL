@@ -31,17 +31,17 @@ CN PLACEHOLDER
 思いと裏腹に、しっかり目が冴えていた。%K%P
 %P
 CN PLACEHOLDER
-Если бы остальные не спали, то наверняка бы съязвили нечто вроде «Такэси – глаза горят, и хвост пушится»!
+%P
 
 きっとはたから見たら、俺の目はらんらんと輝いていたに違いなかった。%K%P
 If anyone was awake, they would see me bright-eyed and bushy-tailed.
 CN PLACEHOLDER
-;
+Если бы остальные не спали, то наверняка бы заметили мои сверкающие глаза.
 
 疲れきっているはずなのに、どうして眠れないんだ？%K%P
 How could I be so tired but not be able to sleep?
 CN PLACEHOLDER
-Как я могу быть измотанным до посинения, и, в то же время, не мочь уснуть?
+Казалось бы, я вымотан, но почему я не могу заснуть?
 
 俺は俺の身体に疑問を覚えた。%K%P
 I started wondering about my body.
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 どこからか流入し続けている海水は、夜になった為か、温度を下げていた。%K%P
 The ocean water flowing into the room was colder than usual, maybe because it was evening.
 CN PLACEHOLDER
-Морская вода, устремившаяся в комнату, оказалась холоднее, чем обычно. Должно быть потому что наступил вечер.
+Морская вода, устремившаяся в комнату, оказалась холоднее, чем обычно. Должно быть, потому что наступила ночь.
 
 （余計に目が覚めちまった、ったく……）%K%P
 (Damn, now I'm even more awake...)
@@ -86,7 +86,7 @@ CN PLACEHOLDER
 ひとり心で呟いて、重くなった靴を持ち上げながら前へ進む。%K%P
 I continued down the path, my heavily soaked shoes weighing me down with each step...
 CN PLACEHOLDER
-Я пошёл дальше. Насквозь промокшие ботинки утяжеляют меня с каждым шагом...
+Промокшая обувь была тяжёлой, но я продолжил идти вперёд...
 
 俺の湿った足音だけが反響している。%K%P
 Only the sound of my damp shoes echoed through the night.
@@ -161,7 +161,7 @@ CN PLACEHOLDER
 空「あら、どうしました？　倉成さん？」%K%P
 Hey, what's wrong?
 CN PLACEHOLDER
-Э-э-э, что с тобой, Куранари-сан?
+Э-э, что с тобой, Куранари-сан?
 
 武「…………」%K%P
 .........
@@ -201,7 +201,7 @@ CN PLACEHOLDER
 一瞬、自分が固まってしまった。%K%P
 For an instant, I had stood there frozen.
 CN PLACEHOLDER
-И мгновенно встал как вкопанный.
+На мгновение я встал как вкопанный.
 
 空が通路を曲がった瞬間、俺の目と鼻の先に現れていたからだ。%K%P
 Because the moment Sora had appeared around that corner, she and I had been face-to-face.
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 ん？　なんか今とんでもないことを口走らなかったか……？%K%P
 Huh? I felt like I'd just blurted out something ridiculous...
 CN PLACEHOLDER
-Упс. Кажется, я сболтнул очередную глупость...
+Ой. Кажется, я сболтнул очередную глупость...
 
 しかし空はにこにこ笑っているので、恐らく構わないのだろう。%K%P
 But Sora had smiled when I said it, so maybe it was okay.
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 俺は動揺を抑える。%K%P
 I tried to calm myself down.
 CN PLACEHOLDER
-(Так, надо успокоиться. Такэси, ты спокоен... Спокоен, слышишь?!)
+Я попытался успокоиться.
 
 空「ああ、それより倉成さん。他の皆さんはお休みのようだったので、お伝えしなかったのですが……」%K%P
 Well, anyway. Everyone is still sound asleep, so I haven't told anyone, but...
@@ -281,12 +281,12 @@ CN PLACEHOLDER
 武「ん？　何だ？」%K%P
 Huh? What?
 CN PLACEHOLDER
-Э-э-э? Что?
+А? Что?
 
 空「先程、小町さんが寝返りを打とうとされたので、医療用電動ワゴンを差し向けて阻止しました」%K%P
 A little while ago, Komachi-san was tossing and turning in bed. So I dispatched the medical wagon to keep her still.
 CN PLACEHOLDER
-Некоторое время назад, Комати-сан ворочилась в постели. Поэтому я задействовала медицинскую тележку, чтобы зафиксировать её.
+Недавно Комати-сан ворочалась в постели. Поэтому я послала электронную медицинскую тележку к её кровати, чтобы та зафиксировала её.
 
 武「……えっ」%K%P
 ...Really?
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 武「それってマズくないか？　下手すると、傷が開いちまうぞ！」%K%P
 Well, she shouldn't be tossing and turning like that. She'll reopen her wounds.
 CN PLACEHOLDER
-Так-с, в том что она ворочится, нет ничего хорошего. Раны могут вновь открыться.
+В том, что она ворочается, нет ничего хорошего. Раны могут снова открыться.
 
 空「ああ、実は、それが……」%K%P
 Yes, actually, that is why...
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 俺は叫ぶ空を置き去りにして走り出した。%K%P
 I just left her standing there, calling after me.
 CN PLACEHOLDER
-В мгновение ока, я оставил в одиночестве ошеломлённую Сору.
+В мгновение ока я оставил в одиночестве ошеломлённую Сору.
 
 階段を駆け上り、通路を急ぎ足で進んだ。%K%P
 I flew up the stairs as fast as I could and sprinted down the corridor.
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 ２階の救護室前に到着する。%K%P
 I arrived in front of the infirmary on the second floor.
 CN PLACEHOLDER
-Оказавшись перед лазаретом, на втором этаже, я ткнул кнопку, чтобы открыть дверь... эти секунды показались мне вечностью.
+Оказавшись перед лазаретом на втором этаже, я ткнул кнопку, чтобы открыть дверь... эти секунды показались мне вечностью.
 
 扉のオープンボタンを押す手ももどかしく感じた。%K%P
 I poked the button to open the door, but it seemed to take forever.
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 寝返りを打った、というのは本当だろうか？%K%P
 Had she really turned in her sleep?
 CN PLACEHOLDER
-Неужели она правда перевернётся во сне?
+Неужели она правда перевернулась во сне?
 
 もしや、このまま眠り続けるのではないか……。%K%P
 Or would she continue to sleep like that...?
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 だが瞬間、つぐみの指先が震えた。%K%P
 At that moment, her fingers began to twitch.
 CN PLACEHOLDER
-В этот момент, её пальцы дёрнулись.
+В этот момент её пальцы дёрнулись.
 
 武「あっ……」%K%P
 Ah...
@@ -441,7 +441,7 @@ CN PLACEHOLDER
 武「やぁ、おはよう……」%K%P
 Uhh... Good morning...
 CN PLACEHOLDER
-Э-э-э... Доброе утро...
+А-а... Доброе утро...
 
 それだけ口にする。%K%P
 That was all I could say.
@@ -456,7 +456,7 @@ CN PLACEHOLDER
 つぐみ「……今、何時なの？」%K%P
 ...What time is it now?
 CN PLACEHOLDER
-Эмм... который... час?
+...М-м... который... час?
 
 武「そうだな……」%K%P
 I'm not sure...
@@ -476,7 +476,7 @@ CN PLACEHOLDER
 つぐみ「そう……」%K%P
 Really...
 CN PLACEHOLDER
-Да ну...
+Вот как...
 
 つぐみは気だるそうに、肩を揺らした。%K%P
 Tsugumi appeared weak as she slightly moved her body.
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 つぐみは自分の顔の前で、自分の手を握ったり開いたりしていた。%K%P
 Tsugumi lifted her hand up to her face, opening and closing it slowly.
 CN PLACEHOLDER
-Цугуми приподняла руку к лицу, затем медленно разжала и сжала ладонь.
+Цугуми приподняла руку к лицу, затем медленно сжала и разжала ладонь.
 
 まだその動きは鈍い。%K%P
 Her movements were still sluggish.
@@ -531,7 +531,7 @@ CN PLACEHOLDER
 つぐみ「……傷？」%K%P
 ...Injury?
 CN PLACEHOLDER
-...рана?
+...Рана?
 
 つぐみ「麻酔……？」%K%P
 Anesthesia...?
@@ -696,12 +696,12 @@ CN PLACEHOLDER
 つぐみ「勘違いしないで」%K%P
 Don't misunderstand.
 CN PLACEHOLDER
-Пойми меня правильно.
+Не пойми неправильно.
 
 つぐみ「ココの身代わりになって、傷を負ったわけじゃない」%K%P
 I was injured, but it wasn't because I sacrificed myself for Coco's safety.
 CN PLACEHOLDER
-Я поранилась, но вовсе не потому что пожертвовала собой ради Коко.
+Я поранилась, но вовсе не потому, что пожертвовала собой ради Коко.
 
 俺はすぐに、気持ちを言葉に変えることができなかった。%K%P
 I didn't know how to respond to that.
@@ -721,22 +721,22 @@ CN PLACEHOLDER
 それをどう言ったらいいのか、わからなかった。%K%P
 From there on, I just didn't know what to say.
 CN PLACEHOLDER
-А теперь, стою как чурка и не могу раскрыть рот.
+Я не мог подобрать слов, чтобы это сказать.
 
 ただ俺は、黙ってつぐみのことを見つめた。%K%P
 All I could do was stare blankly, silently.
 CN PLACEHOLDER
-Теперь же и вовсе опустил голову, не в силах что-либо сделать.
+Я просто молча смотрел на Цугуми.
 
 それから静かに頭を垂れた。他にできることはなかったと思う。%K%P
 I then bowed my head. There was nothing else I could do.
 CN PLACEHOLDER
-Мужик, называется...
+Теперь же и вовсе опустил голову, не в силах что-либо сделать.
 
 つぐみ「……何よ」%K%P
 ...What?
 CN PLACEHOLDER
-...что?
+...Что?
 
 つぐみ「なんなのよ……」%K%P
 What is it...?
@@ -996,7 +996,7 @@ CN PLACEHOLDER
 俺は声を押し殺す。%K%P
 I hesitated for a moment.
 CN PLACEHOLDER
-На мгновение, я поколебался.
+На мгновение я поколебался.
 
 武「お前は決定的に間違っている」%K%P
 You are unbelievably wrong.
@@ -1216,7 +1216,7 @@ CN PLACEHOLDER
 武「自分の身を犠牲にして、ココのことを助けたじゃないか！！」%K%P
 Why did you sacrifice yourself to save Coco?
 CN PLACEHOLDER
-Почему ты пожертвовала собой чтобы спасти её?
+Почему ты пожертвовала собой, чтобы спасти её?
 
 つぐみ「…………」%K%P
 .........
@@ -1261,7 +1261,7 @@ CN PLACEHOLDER
 武「生きている者は、ずっと生きるべきなんだ」%K%P
 By definition, living beings must have life.
 CN PLACEHOLDER
-По определению, живые существа должны жить.
+По определению живые существа должны жить.
 
 武「恋が美しいのなら、生きてることだって美しいはずだ」%K%P
 If love is beautiful, then so is life.
@@ -1411,7 +1411,7 @@ CN PLACEHOLDER
 空「えっ？」%K%P
 Really?
 CN PLACEHOLDER
-Э-э-э?..
+А-а?..
 
 武「だけどあいつ、死にたかったんだとさ」%K%P
 But she wishes she were dead.
@@ -1446,7 +1446,7 @@ CN PLACEHOLDER
 武「まったく俺も、あんな奴のことなんか、助けなけりゃよかっ――」%K%P
 You know, I should have never even helped save—
 CN PLACEHOLDER
-Знаешь, наверное мне и пальцем шевелить не стоило, спасать её...
+Знаешь, наверное, мне и пальцем шевелить не стоило, спасать её...
 
 空「倉成さんっ！」%K%P
 Kuranari-san!

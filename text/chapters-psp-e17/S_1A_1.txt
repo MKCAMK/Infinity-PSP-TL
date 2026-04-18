@@ -176,7 +176,7 @@ CN PLACEHOLDER
 ？？「えっ？　どうしちゃったの？」%K%P
 What's the matter?
 CN PLACEHOLDER
-Э-э-э?.. Что ты сказал?
+Э-э?.. Что ты сказал?
 
 いつの間にか、彼女がぼくの隣に立っていた。%K%P
 At some point, the girl had come to stand beside me.
@@ -1300,7 +1300,7 @@ CN PLACEHOLDER
 優「えっ、ちょっとちょっと……冗談でしょ！？」%K%P
 No way! You've got to be kidding!
 CN PLACEHOLDER
-Э-э-э?! Что... что... что всё это значит?!
+Э-э?! Что... что... что всё это значит?!
 
 優「どうして止まっちゃってるわけ！？」%K%P
 Why is this thing stopped!?
@@ -1660,7 +1660,7 @@ CN PLACEHOLDER
 優「えっ！？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э-э?!
+Э-э?!
 
 少年「――どこから！？　――どこから来るんだ！？」%K%P
 Where? Where is it coming from?
@@ -2145,7 +2145,7 @@ CN PLACEHOLDER
 優「は、は、は……はくしゅん！」%K%P
 Ah.. ah... achhhooo!
 CN PLACEHOLDER
-А-а-а... а-а-а... а-а-а... апчхи!
+А-а... а-а-а... а-а-а... апчхи!
 
 ……相変わらず、びしょ濡れのままだった。%K%P
 ...We were still soaked.
@@ -2160,7 +2160,7 @@ CN PLACEHOLDER
 優「えっ？　何が？」%K%P
 Huh? What?
 CN PLACEHOLDER
-Э-э-э? Чего?
+Э-э? Чего?
 
 少年「さっきまで、放心状態だったから……」%K%P
 You were really out of it until just a second ago...
@@ -2420,7 +2420,7 @@ CN PLACEHOLDER
 少年「……えっ？」%K%P
 ...Huh?
 CN PLACEHOLDER
-;Мальчик«...Э-э-э?»%K%P
+;Мальчик«...Э-э?»%K%P
 
 優「名前、きみの名前」%K%P
 Name. Your name.
@@ -3308,8 +3308,8 @@ LeMMIH обнаружил течь и задраил затопленные уч
 少年「あのぉ……『レミ』って何でしょうか？」%K%P
 Uh... What's 'LeMMIH'?
 CN PLACEHOLDER
-;Мальчик«Э-э-э... что ещё за "LeMMIH"?»%K%P
-//;Мальчик«Э-э-э... что ещё за „LeMMIH“?»%K%P
+;Мальчик«Э-э... что ещё за "LeMMIH"?»%K%P
+//;Мальчик«Э-э... что ещё за „LeMMIH“?»%K%P
 
 優「このＬｅＭＵ内のすべての電子的システムを、統括・管理しているメインコンピューター……その略称みたいなもんね」%K%P
 That's what we call the main computer that supervises and manages all of the electronic systems in LeMU.

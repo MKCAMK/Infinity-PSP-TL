@@ -91,7 +91,7 @@ CN PLACEHOLDER
 武「えっ？　それでいったい……何を？」%K%P
 Huh? What're you going to do... with that?
 CN PLACEHOLDER
-Э-э-э? Что ты собираешься делать... с этим?
+Э-э? Что ты собираешься делать... с этим?
 
 つぐみ「沈まないなら……」%K%P
 If it won't sink...
@@ -356,7 +356,7 @@ CN PLACEHOLDER
 武「――ってやってる場合かよ、俺！」%K%P
 ...Er, what the heck am I doing?
 CN PLACEHOLDER
-Э-э-э... что это я делаю?
+Э-э... что это я делаю?
 
 つぐみ「…………」%K%P
 .........

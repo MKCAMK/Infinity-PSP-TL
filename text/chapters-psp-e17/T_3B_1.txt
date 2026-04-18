@@ -171,12 +171,12 @@ CN PLACEHOLDER
 少年「何か理由があるのかもしれないけど……」%K%P
 There might be some reason, but...
 CN PLACEHOLDER
-Может на то есть причина, но...
+Может, на то есть причина, но...
 
 少年はうつむいて考え始める。%K%P
 The Kid hung his head, thinking.
 CN PLACEHOLDER
-В раздумье, Малой повесил голову.
+Малой повесил голову, призадумавшись.
 
 優「まぁまぁ、思い詰めなさんなって。今は考えたってさ、しょうがないよ」%K%P
 Hey, hey, don't worry about it. No use wondering about it now.
@@ -191,7 +191,7 @@ CN PLACEHOLDER
 優「少年、そっちのレンチ取ってくれる？」%K%P
 Hey, Kid, can you hand me that wrench?
 CN PLACEHOLDER
-Малой, передай-ка мне вооон ту отвёртку.
+Малой, передай-ка мне во-о-он ту отвёртку.
 
 少年「あ、これかな？」%K%P
 This one?
@@ -236,7 +236,7 @@ CN PLACEHOLDER
 優「ん？　なんで？」%K%P
 Huh? Why?
 CN PLACEHOLDER
-Э-э-э? С чего вдруг?
+Э-э? С чего вдруг?
 
 武「だってほら、たとえば頭をどこぞにブツけたお陰で、今だけ冴えてるのかもしれないだろ？」%K%P
 Because, what if he hit his head or something, and he's only going to be good at this stuff for a little bit?
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 優「ん？　そっか……それもそうね」%K%P
 Hm? Oh... That's right.
 CN PLACEHOLDER
-Э-э-э? А... ну да.
+Э-э? А... ну да.
 
 少年「ところで、マンガってなんだっけ？」%K%P
 So what's a manga again?
@@ -436,7 +436,7 @@ CN PLACEHOLDER
 優は再びあぐらをかき、少年と一緒に、カバーを外したスキャナーの部品と格闘し始めた。%K%P
 You plopped down again, and she and the Kid began grappling with the coverless scanner.
 CN PLACEHOLDER
-Ю снова шлёпнулась на пол, и вместе с Малым взялась за, теперь уже вскрытый, сканер.
+Ю снова шлёпнулась на пол и вместе с Малым взялась за теперь уже вскрытый сканер.
 
 俺は奥にあるベッドのひとつに歩み寄る。%K%P
 I went toward the bed in the back.
@@ -596,7 +596,7 @@ CN PLACEHOLDER
 武「やぁ、空か……」%K%P
 Hey, Sora...
 CN PLACEHOLDER
-Ой, Господи, Сора...
+Ой, Сора...
 
 空は俺のすぐ後ろに姿を現していた。%K%P
 Sora had suddenly appeared behind me.
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 空「ふふふっ、内緒です」%K%P
 It's, um, um, a secret.
 CN PLACEHOLDER
-Это, нуу, мм, секрет.
+Это, ну-у, м-м, секрет.
 
 空はにこにこと笑った。%K%P
 She laughed a little.
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 武「ああ」%K%P
 Ah.
 CN PLACEHOLDER
-Э-э-э...
+Э-э...
 
 空「では、失礼しますね」%K%P
 If you'll excuse me, then.
@@ -1151,7 +1151,7 @@ CN PLACEHOLDER
 武「へ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э-э?
+Э-э?
 
 武「……あ、ああ。そういうことね……」%K%P
 ...A-Ah. Now I get it...

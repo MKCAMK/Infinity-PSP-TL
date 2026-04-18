@@ -971,7 +971,7 @@ CN PLACEHOLDER
 優「えーーっ！　また直すのぉ〜〜？」%K%P
 Eh? Are we going to have to make repairs again?
 CN PLACEHOLDER
-Э-э-э?! Опять чинить генератор?
+Э-э?! Опять чинить генератор?
 
 少年「ぼくだって、ご免さ」%K%P
 Well, I don't want to either...
@@ -1021,7 +1021,7 @@ CN PLACEHOLDER
 優「あれ？　倉成の声？」%K%P
 What's that? Is that Kuranari?
 CN PLACEHOLDER
-Э-э-э?.. Это Куранари?
+Э-э?.. Это Куранари?
 
 少年「うん、優を捜してるみたいだね？」%K%P
 It sounds like he's looking for you.
@@ -1565,7 +1565,7 @@ CN PLACEHOLDER
 沙羅「えぇ！？　でも、あれは冷蔵庫の中だったんだよ？」%K%P
 Huh? But those were in the fridge.
 CN PLACEHOLDER
-Э-э-э?! Но они-то были в холодильнике.
+Э-э?! Но они-то были в холодильнике.
 
 そう。当たり前だが冷蔵庫の中身は無事だったのだ。%K%P
 She was right. The stuff in the fridge was fine.
@@ -1700,7 +1700,7 @@ CN PLACEHOLDER
 少年「え？　ぼくに用？」%K%P
 What? Do you need something?
 CN PLACEHOLDER
-Э-э-э? Хочешь что-то сказать?
+Э-э? Хочешь что-то сказать?
 
 沙羅「うん、少年にね？　なっきゅ先輩からの伝言を伝えにきたの」%K%P
 Yeah. I got a message for you from Nakkyu-senpai.

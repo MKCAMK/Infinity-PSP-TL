@@ -321,7 +321,7 @@ CN PLACEHOLDER
 少年「ええっ！？　ど、どういうこと？？？」%K%P
 Huh? What's going on here?
 CN PLACEHOLDER
-;Мальчик«Э-э-э? Что здесь происходит?»%K%P
+;Мальчик«Э-э? Что здесь происходит?»%K%P
 
 優「そんなに驚かなくてもいいでしょ？」%K%P
 You don't have to be so surprised, do you?
@@ -392,7 +392,7 @@ CN PLACEHOLDER
 武「ああ。小町つぐみ、って言ったかな」%K%P
 Oh. Komachi Tsugumi, I think it was.
 CN PLACEHOLDER
-А-а-а... Комати Цугуми, вроде как.
+А-а... Комати Цугуми, вроде как.
 
 つぐみ……それが黒い服の彼女の名前。%K%P
 Tsugumi... So that was her name. She wore all black.
@@ -862,7 +862,7 @@ CN PLACEHOLDER
 空「完全に浸水していないエリア、人の通行が可能な部分のことです」%K%P
 The areas that have no flooding and that people are able to pass through.
 CN PLACEHOLDER
-Сектора, в которых нет течи, и по которым могут перемещаться люди.
+Сектора, в которых нет течи и по которым могут перемещаться люди.
 
 空「このマップの中心に表示されているのが、現在、私達のいる第８区画です」%K%P
 The central area displayed on this map is where we currently are in Sector Eight.
@@ -877,7 +877,7 @@ CN PLACEHOLDER
 空「実は、システムの不備のせいで詳細なマップ表示ができていませんが……」%K%P
 Actually, due to a flaw in the system, a detailed map cannot be displayed...
 CN PLACEHOLDER
-Из-за сбоев в системе, невозможно отобразить полную карту...
+Из-за сбоев в системе невозможно отобразить полную карту...
 
 空「この第８区画の対角線上にある第４区画も、健在なのです」%K%P
 Sector Four, above the corner of Sector Eight, looks fine.
@@ -917,7 +917,7 @@ CN PLACEHOLDER
 空「無呼吸状態で１００ｍ泳ぎ続けるような能力をお持ちになっている方は、この中にはいらっしゃらないでしょう？」%K%P
 I don't think there is anyone among you that is capable of swimming 100 meters without breathing.
 CN PLACEHOLDER
-Я не думаю, что среди вас есть люди, способные проплыть 100 метров без единого вдоха.
+Я не думаю, что среди вас есть те, кто способен проплыть 100 метров без единого вдоха.
 
 空「ゆえに、不可能なのです」%K%P
 Therefore, I say it is impossible.
@@ -992,7 +992,7 @@ CN PLACEHOLDER
 沙羅「じゃあ、それを使って、水没したエリアの水を汲み出せば……」%K%P
 Well, why don't we use that to pump the flood water out of those areas...?
 CN PLACEHOLDER
-Ну так, почему бы нам не воспользоваться ими для откачки воды из тех помещений?..
+Ну так почему бы нам не воспользоваться ими для откачки воды из тех помещений?..
 
 空「それが……動かないようなのです」%K%P
 It appears to be... out of order.
@@ -1442,7 +1442,7 @@ CN PLACEHOLDER
 武「は？　トクシ？」%K%P
 Huh? Volunteer?
 CN PLACEHOLDER
-Э-э-э-э? Добровольца?
+Э-Э-э? Добровольца?
 
 優「鳩鳴館の２年生を対象にして行なわれる、イベントのこと」%K%P
 It's an event for juniors at Kyumeikan.
@@ -1537,7 +1537,7 @@ CN PLACEHOLDER
 少年「……えっ？」%K%P
 ...Huh?
 CN PLACEHOLDER
-;Мальчик«...Э-э-э?»%K%P
+;Мальчик«...Э-э?»%K%P
 
 武「まだ聞いてなかったよなぁ、確か」%K%P
 I'm pretty sure we haven't heard yet.
@@ -1647,7 +1647,7 @@ CN PLACEHOLDER
 空「恐らく、追想障害のひとつ、全般健忘でしょう」%K%P
 It sounds like it's probably complete amnesia, a type of retrograde block.
 CN PLACEHOLDER
-По симптомам это похоже на полную обратимую амнезию.
+По симптомам это похоже на генерализованную амнезию, вид диссоциативной амнезии.
 
 少年「？？？」%K%P
 ?
@@ -1657,7 +1657,7 @@ CN PLACEHOLDER
 空「全般健忘、全生活史健忘とも言いますが……」%K%P
 Complete amnesia. It's also called retrograde life amnesia...
 CN PLACEHOLDER
-Полная амнезия. Также называется обратимой жизненной амнезией...
+Генеразилованная амнезия. Или даже скорее автобиографическая амнезия...
 
 空「これは、社会的事実についての知識はよく保たれていながら……」%K%P
 While general education and knowledge remain intact...
@@ -1981,7 +1981,7 @@ CN PLACEHOLDER
 空「あのぉ……」%K%P
 Um...
 CN PLACEHOLDER
-Э-э-э...
+Э-э...
 
 空「先程から、気になっていたのですが……」%K%P
 Something has been bothering me for a while...
@@ -3064,7 +3064,7 @@ CN PLACEHOLDER
 少年「えっ？　う、うん……たぶん……」%K%P
 Huh? Y-Yeah... Pretty sure...
 CN PLACEHOLDER
-Э-э-э? А-ага... весьма уверен...
+Э-э? А-ага... весьма уверен...
 
 空「他に、補足すべきことはありません」%K%P
 I have nothing left to add.
@@ -3226,7 +3226,7 @@ CN PLACEHOLDER
 武「あれ？　ちょっと待てよ？」%K%P
 Huh? Hold on a second.
 CN PLACEHOLDER
-Э-э-э? Погоди секунду.
+Э-э? Погоди секунду.
 
 これまで黙って話を聞いていた武が、ふいに口を開いた。%K%P
 Takeshi, who had been listening quietly until then, spoke.
@@ -3291,7 +3291,7 @@ CN PLACEHOLDER
 空「理由は……理由は……」%K%P
 The reason... The reason is...
 CN PLACEHOLDER
-Э-э-э... потому что...
+Э-э... потому что...
 
 優「まあ、空がそう言うんだから、それでいいじゃない」%K%P
 Well, if Sora says so, that should be good enough.
