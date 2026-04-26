@@ -3,6 +3,86 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Swap date order. YYYY/MM/DD -> DD.MM.YYYY
+; pause menu
+.org 0x08827930
+.area 4*1
+	li	a0,0x600A
+.endarea
+.org 0x08827968
+.area 4*1
+	li	a0,0x6009
+.endarea
+
+; save creation date contracted
+.org 0x0884FD44
+.area 4*1
+	lbu	a0,0xEC(s7)
+.endarea
+.org 0x0884FD74
+.area 4*1
+	lbu	a0,0xED(s7)
+.endarea
+
+; save creation date expanded
+.org 0x0884FB7C
+.area 4*4
+	lbu		a0,0xEC(s7)
+	lui		s4,0x12; relocation in place
+	addiu	a2,s4,0x1EB4; relocation in place
+	nop
+.endarea
+.org 0x0884FBE0
+.area 4*3
+	lhu		a0,0xEE(s7)
+	addiu	a0,a0,0x7D0; 0x0884FBE4: relocation-cleared
+	addiu	a2,s4,0x1ED0; relocation in place
+.endarea
+.orga 0x162D08 :: .fill 8*1; clear 0x0884FBE4
+
+; in-game date contracted
+.org 0x08850108
+.area 4*1
+	li	a1,0x600A
+.endarea
+.org 0x08850144
+.area 4*1
+	li	a1,0x6009
+.endarea
+
+; in-game date expanded
+.org 0x0884FFF0
+.area 4*1
+	li	a1,0x600A
+.endarea
+.org 0x0885002C
+.area 4*1
+	li	a1,0x6009
+.endarea
+
+; real time
+.org 0x08852CFC
+.area 4*1
+	lw		a0,0x14(s2)
+.endarea
+.org 0x08852D0C
+.area 4*1
+	addiu	a2,a2,0x1EB4; relocation in place
+.endarea
+.org 0x08852D60
+.area 4*2
+	lw		a0,0x1C(s2)
+	addiu	a2,s3,0x1ED0; relocation in place
+.endarea
+
+
+;; Adjust tip page icon centering.
+.org 0x0884B554
+.area 4*1
+	li	v0,0x21
+.endarea
+
+
 ;; Adjust nametag box position.
 .org 0x0881DEE4
 .area 4*1

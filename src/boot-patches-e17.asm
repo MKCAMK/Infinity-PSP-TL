@@ -3,6 +3,13 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Adjust tip page icon centering.
+.org 0x0884B554
+.area 4*1
+	li	v0,0x21
+.endarea
+
+
 ;; Adjust nametag box position.
 .org 0x0881DEE4
 .area 4*1
