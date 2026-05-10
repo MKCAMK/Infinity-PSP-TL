@@ -7,3 +7,6 @@
 [submodule "tools/extact-xiso"]
 	path = tools/extract-xiso
 	url = https://github.com/XboxDev/extract-xiso.git
+[submodule "assets"]
+	path = assets
+	url = https://github.com/bibarub/Infinity-PSP-TL-assets.git
